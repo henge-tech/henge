@@ -1,0 +1,34 @@
+---
+pattern: sha_d
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 24
+score: 1695880
+score_per_word: 89256
+hi_scored_words:
+  shackled: 65078
+  shad: 33529
+  shaded: 16164
+  shadowed: 38437
+  shafted: 69020
+  shagged: 72889
+  shamed: 46311
+  shaped: 4394
+  shard: 41202
+  shared: 2064
+  sharpened: 34731
+  shattered: 11215
+  shaved: 6653
+scored_words:
+  shacked: 244722
+  shadowland: 165092
+  shambled: 176048
+  shamefaced: 242584
+  shampooed: 249792
+  shanghaied: 175955
+not_scored_words:
+- shadowboxed
+- shammed
+- sharecropped
+- sharked
+- sharped

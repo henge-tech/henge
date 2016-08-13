@@ -1,0 +1,33 @@
+---
+pattern: u_ers
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 23
+score: 1596098
+score_per_word: 93888
+hi_scored_words:
+  ulcers: 24184
+  unbelievers: 46203
+  uncovers: 44158
+  undertakers: 81008
+  underwriters: 33053
+  uninstallers: 82859
+  uppers: 37062
+  users: 1542
+  ushers: 46336
+  utters: 56461
+scored_words:
+  udders: 125187
+  underachievers: 147196
+  upholders: 231878
+  upholsterers: 108313
+  ureters: 124940
+  usurers: 240207
+  usurpers: 165511
+not_scored_words:
+- ulsters
+- underdrawers
+- unfetters
+- unlimbers
+- unpackers
+- upholsters

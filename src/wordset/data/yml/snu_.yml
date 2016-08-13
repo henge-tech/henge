@@ -1,0 +1,43 @@
+---
+pattern: snu_
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 33
+score: 2468496
+score_per_word: 112204
+hi_scored_words:
+  snub: 41641
+  snubbed: 65917
+  snuff: 19970
+  snuffbox: 86023
+  snuffed: 82521
+  snuffle: 65891
+  snug: 20235
+  snuggle: 34586
+  snuggled: 60337
+  snuggles: 84494
+  snuggling: 71988
+  snugly: 52800
+scored_words:
+  snubbing: 147552
+  snubs: 102818
+  snuffer: 146869
+  snuffers: 148761
+  snuffing: 176922
+  snuffles: 187245
+  snuffling: 231113
+  snuffs: 229887
+  snuffy: 115641
+  snugger: 295285
+not_scored_words:
+- snuffboxes
+- snuffled
+- snuffler
+- snuffly
+- snugged
+- snuggeries
+- snuggery
+- snuggest
+- snugging
+- snugness
+- snugs

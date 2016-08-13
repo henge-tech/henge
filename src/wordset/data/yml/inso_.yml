@@ -1,0 +1,38 @@
+---
+pattern: inso_
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 28
+score: 1917953
+score_per_word: 100944
+hi_scored_words:
+  insofar: 21530
+  insolation: 86947
+  insole: 59779
+  insolence: 41980
+  insolent: 41236
+  insoles: 58631
+  insoluble: 27236
+  insolvency: 29750
+  insolvent: 35884
+  insomnia: 19522
+  insomniac: 49613
+  insomuch: 90121
+scored_words:
+  insolently: 191008
+  insolubility: 276367
+  insolvable: 236512
+  insolvencies: 146027
+  insomniacs: 129811
+  insouciance: 167520
+  insouciant: 208479
+not_scored_words:
+- insobriety
+- insociable
+- insolate
+- insolations
+- insolubilize
+- insolubly
+- insolvents
+- insomnolence
+- insouciantly

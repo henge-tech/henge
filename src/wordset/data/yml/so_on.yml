@@ -1,0 +1,30 @@
+---
+pattern: so_on
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 837903
+score_per_word: 76173
+hi_scored_words:
+  socialization: 28776
+  solicitation: 12275
+  solidification: 51445
+  solon: 35265
+  solution: 1481
+  soon: 445
+  sophistication: 26408
+  sorption: 56708
+scored_words:
+  solemnization: 202532
+  soupcon: 206753
+  soupçon: 215815
+not_scored_words:
+- Solomon
+- Solon
+- Southampton
+- Sovietization
+- solifluction
+- solmization
+- somnambulation
+- sortition
+- soupspoon

@@ -1,0 +1,56 @@
+---
+pattern: di_al
+hi_scored_words_count: 22
+scored_words_count: 10
+total_words: 46
+score: 2554782
+score_per_word: 79836
+hi_scored_words:
+  diabolical: 34859
+  diacritical: 85213
+  diagonal: 15709
+  dial: 7078
+  dialectical: 42794
+  dictatorial: 44628
+  differential: 11953
+  digital: 5982
+  dihedral: 56906
+  dimensional: 9437
+  directional: 17318
+  directorial: 46559
+  disapproval: 22273
+  disloyal: 66995
+  dismal: 17965
+  dismissal: 11458
+  dispersal: 28544
+  disposal: 4723
+  distal: 20344
+  distributional: 45977
+  diurnal: 34043
+  divisional: 26504
+scored_words:
+  diaconal: 230408
+  dialectal: 112923
+  diarrheal: 107064
+  didactical: 261894
+  diffusional: 204741
+  diluvial: 127826
+  disavowal: 137515
+  disbursal: 321950
+  dispensational: 189700
+  disproportional: 203499
+not_scored_words:
+- Dial
+- diagrammatical
+- diametral
+- diametrical
+- diphtherial
+- diphthongal
+- dipsomaniacal
+- dipteral
+- discretional
+- disenthral
+- disproval
+- disquisitional
+- dissertational
+- distortional

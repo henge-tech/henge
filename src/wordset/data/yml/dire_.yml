@@ -1,0 +1,45 @@
+---
+pattern: dire_
+hi_scored_words_count: 22
+scored_words_count: 4
+total_words: 35
+score: 1119284
+score_per_word: 43049
+hi_scored_words:
+  dire: 10336
+  direct: 770
+  directed: 1889
+  directing: 9649
+  direction: 1216
+  directional: 17318
+  directionality: 86498
+  directions: 2004
+  directive: 9163
+  directives: 13480
+  directly: 941
+  directness: 70404
+  director: 2030
+  directorate: 12828
+  directorates: 64774
+  directorial: 46559
+  directories: 7718
+  directors: 3789
+  directorship: 72996
+  directorships: 96532
+  directory: 3738
+  directs: 14112
+scored_words:
+  directionally: 111000
+  directionless: 161790
+  direful: 117151
+  direst: 180599
+not_scored_words:
+- Directoire
+- directer
+- directest
+- directionalities
+- directrix
+- direfully
+- direly
+- direness
+- direr

@@ -1,0 +1,45 @@
+---
+pattern: ste_r
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 35
+score: 2312587
+score_per_word: 96357
+hi_scored_words:
+  stealer: 67757
+  steamer: 13721
+  steamroller: 61328
+  steeper: 43318
+  steer: 17079
+  stellar: 18238
+  stenographer: 59460
+  stentor: 78767
+  stepdaughter: 59713
+  stepfather: 35885
+  stepmother: 32541
+  stepper: 43094
+  stepsister: 87026
+  ster: 58380
+  sterilizer: 84723
+  sterner: 66690
+scored_words:
+  steadier: 118201
+  steamfitter: 316440
+  steelmaker: 212870
+  steelworker: 206083
+  steerer: 167454
+  stellarator: 241315
+  stepbrother: 109598
+  stepladder: 112906
+not_scored_words:
+- Steiner
+- Stentor
+- stealthier
+- steamier
+- steelier
+- steeplechaser
+- stegosaur
+- stellular
+- stemwinder
+- stereoisomer
+- stertor

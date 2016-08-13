@@ -1,0 +1,29 @@
+---
+pattern: teac_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 19
+score: 585019
+score_per_word: 53183
+hi_scored_words:
+  teach: 2142
+  teachable: 69309
+  teacher: 1541
+  teachers: 1871
+  teaches: 7134
+  teaching: 1411
+  teachings: 10306
+  teacup: 36439
+  teacupful: 33740
+  teacups: 82508
+scored_words:
+  teachability: 338618
+not_scored_words:
+- Teach
+- teacake
+- teacakes
+- teacart
+- teacarts
+- teachableness
+- teacloth
+- teacupfuls

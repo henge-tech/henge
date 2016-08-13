@@ -1,0 +1,33 @@
+---
+pattern: k_le
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 23
+score: 1111444
+score_per_word: 79388
+hi_scored_words:
+  kale: 36168
+  kerfuffle: 86959
+  kettle: 13651
+  keyhole: 32186
+  kibble: 74568
+  kindle: 39322
+  knowable: 95360
+  knowledgeable: 14140
+  knuckle: 29007
+  kyle: 9953
+scored_words:
+  kirtle: 152625
+  kissable: 121553
+  kittle: 151837
+  knothole: 254115
+not_scored_words:
+- Kabyle
+- Keble
+- Kemble
+- Knoxville
+- Kringle
+- Kyle
+- kenspeckle
+- kilocycle
+- kneehole

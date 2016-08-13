@@ -1,0 +1,24 @@
+---
+pattern: peti_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 14
+score: 704127
+score_per_word: 58677
+hi_scored_words:
+  petiole: 69145
+  petit: 13099
+  petite: 10161
+  petites: 44170
+  petition: 4326
+  petitioned: 39063
+  petitioner: 17236
+  petitioners: 23804
+  petitioning: 57368
+  petitions: 13565
+scored_words:
+  petiolate: 302997
+  petioles: 109193
+not_scored_words:
+- petiolule
+- petitionary

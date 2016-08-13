@@ -1,0 +1,31 @@
+---
+pattern: her_e
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 21
+score: 554286
+score_per_word: 46190
+hi_scored_words:
+  herbage: 74256
+  herbicide: 24623
+  herbivore: 64909
+  here: 73
+  heretofore: 25592
+  heritable: 73834
+  heritage: 4209
+  hermaphrodite: 44875
+  hermitage: 22220
+  heroine: 19761
+  herringbone: 55296
+scored_words:
+  hereinbefore: 144638
+not_scored_words:
+- Here
+- Herefordshire
+- Hermine
+- Hermitage
+- Hermite
+- Herne
+- Hertfordshire
+- hereditable
+- herniate

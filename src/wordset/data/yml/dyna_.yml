@@ -1,0 +1,38 @@
+---
+pattern: dyna_
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 28
+score: 1271763
+score_per_word: 74809
+hi_scored_words:
+  dynamic: 6805
+  dynamical: 22428
+  dynamically: 17237
+  dynamics: 13550
+  dynamism: 44584
+  dynamite: 14243
+  dynamo: 25118
+  dynamometer: 81539
+  dynamos: 90429
+  dynastic: 52748
+  dynasties: 38911
+  dynasty: 10720
+scored_words:
+  dynamist: 165467
+  dynamited: 242767
+  dynamometers: 195410
+  dynast: 119539
+  dynatron: 130268
+not_scored_words:
+- dynameter
+- dynamicist
+- dynamiter
+- dynamiters
+- dynamites
+- dynamiting
+- dynamoelectric
+- dynamometry
+- dynamotor
+- dynastically
+- dynasts

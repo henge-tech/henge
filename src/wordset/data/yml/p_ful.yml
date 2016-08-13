@@ -1,0 +1,29 @@
+---
+pattern: p_ful
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 674514
+score_per_word: 61319
+hi_scored_words:
+  painful: 4849
+  peaceful: 4990
+  pitiful: 24465
+  playful: 13873
+  plentiful: 21909
+  powerful: 1428
+  prayerful: 77658
+  purposeful: 33617
+scored_words:
+  plateful: 256846
+  pocketful: 111948
+  prideful: 122931
+not_scored_words:
+- pageful
+- pailful
+- panful
+- pipeful
+- pitcherful
+- pleasureful
+- potful
+- prestigeful

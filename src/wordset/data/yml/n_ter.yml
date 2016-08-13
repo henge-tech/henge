@@ -1,0 +1,31 @@
+---
+pattern: n_ter
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 21
+score: 880424
+score_per_word: 80038
+hi_scored_words:
+  nanometer: 61456
+  natter: 89987
+  neater: 85596
+  netter: 91144
+  neurotransmitter: 41096
+  neuter: 32331
+  newscaster: 70092
+  newsletter: 2786
+  nutter: 38995
+scored_words:
+  nephelometer: 234045
+  niter: 132896
+not_scored_words:
+- Nantucketer
+- Napster
+- neglecter
+- nitrometer
+- nonstarter
+- nonvoter
+- nor'easter
+- nor'wester
+- northeaster
+- northwester

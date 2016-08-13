@@ -1,0 +1,34 @@
+---
+pattern: st_les
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 24
+score: 1024991
+score_per_word: 73213
+hi_scored_words:
+  stables: 21846
+  staples: 17387
+  steeples: 97786
+  stifles: 90734
+  stiles: 30497
+  stockpiles: 50280
+  stoles: 94987
+  straddles: 71232
+  struggles: 9762
+  stumbles: 38959
+  styles: 4215
+scored_words:
+  startles: 139063
+  stickles: 238461
+  strangles: 119782
+not_scored_words:
+- Staples
+- stabiles
+- stales
+- steles
+- stipples
+- stokeholes
+- stopples
+- straggles
+- strickles
+- strobiles

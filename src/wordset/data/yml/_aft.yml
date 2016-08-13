@@ -1,0 +1,64 @@
+---
+pattern: _aft
+hi_scored_words_count: 29
+scored_words_count: 10
+total_words: 54
+score: 3356603
+score_per_word: 86066
+hi_scored_words:
+  aft: 14394
+  aircraft: 6614
+  antiaircraft: 95993
+  camshaft: 48127
+  craft: 3285
+  crankshaft: 36955
+  daft: 21298
+  downdraft: 95405
+  draft: 7300
+  driveshaft: 80516
+  gemeinschaft: 74664
+  gesellschaft: 23896
+  graft: 18143
+  haft: 65248
+  handcraft: 87745
+  handicraft: 32314
+  hovercraft: 48278
+  kraft: 16313
+  overdraft: 35981
+  priestcraft: 82257
+  raft: 18344
+  shaft: 6129
+  spacecraft: 14335
+  stagecraft: 93909
+  statecraft: 96420
+  waft: 82202
+  watercraft: 39624
+  witchcraft: 15895
+  woodcraft: 66986
+scored_words:
+  abaft: 168028
+  autograft: 189642
+  bushcraft: 164210
+  countershaft: 240162
+  engraft: 327644
+  homograft: 285352
+  mineshaft: 230193
+  needlecraft: 149877
+  redraft: 153457
+  updraft: 119468
+not_scored_words:
+- AFT
+- Burschenschaft
+- Craft
+- Kraft
+- Lovecraft
+- Taft
+- Wollstonecraft
+- aftershaft
+- bookcraft
+- heterograft
+- indraft
+- ingraft
+- jackshaft
+- kingcraft
+- swordcraft

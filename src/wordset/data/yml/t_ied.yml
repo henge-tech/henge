@@ -1,0 +1,22 @@
+---
+pattern: t_ied
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 676791
+score_per_word: 67679
+hi_scored_words:
+  tallied: 43143
+  tarried: 94984
+  terrified: 14000
+  testified: 11304
+  tidied: 79171
+  tied: 3592
+  tried: 1083
+  typified: 57544
+scored_words:
+  taxied: 152599
+  transmogrified: 219371
+not_scored_words:
+- toadied
+- travestied

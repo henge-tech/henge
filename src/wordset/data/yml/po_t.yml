@@ -1,0 +1,69 @@
+---
+pattern: po_t
+hi_scored_words_count: 28
+scored_words_count: 9
+total_words: 59
+score: 2751782
+score_per_word: 74372
+hi_scored_words:
+  pocket: 1623
+  podcast: 5270
+  podiatrist: 71734
+  poet: 4921
+  poignant: 20007
+  point: 233
+  polit: 87474
+  pollutant: 25882
+  poltergeist: 53377
+  polyglot: 69096
+  pomfret: 61411
+  poorest: 14445
+  poppet: 96327
+  populist: 32643
+  port: 1324
+  portent: 66241
+  portrait: 3805
+  posit: 43315
+  positivist: 83944
+  posset: 83605
+  post: 427
+  postmodernist: 90669
+  postponement: 33739
+  postscript: 13957
+  pot: 3608
+  potent: 10595
+  pout: 39753
+  powerboat: 67133
+scored_words:
+  polecat: 103542
+  polemicist: 244092
+  politest: 131074
+  polygamist: 146288
+  polytheist: 238005
+  polyvalent: 128864
+  portraitist: 213407
+  potshot: 246509
+  poult: 213443
+not_scored_words:
+- Poiret
+- Poirot
+- Pontefract
+- Port
+- Post
+- PowerPoint
+- pointiest
+- pointillist
+- pokiest
+- polemist
+- polyandrist
+- polygynist
+- porkiest
+- portliest
+- poshest
+- postadolescent
+- postconvalescent
+- postpubescent
+- postulant
+- posturist
+- pottiest
+- pourpoint

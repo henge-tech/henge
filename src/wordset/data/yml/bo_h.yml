@@ -1,0 +1,29 @@
+---
+pattern: bo_h
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 19
+score: 724430
+score_per_word: 60369
+hi_scored_words:
+  bobsleigh: 59241
+  bonefish: 97057
+  bookish: 48443
+  boorish: 80090
+  booth: 7215
+  borough: 8105
+  bosh: 39551
+  botch: 72734
+  both: 169
+  bough: 27614
+  boyish: 39728
+scored_words:
+  borsch: 244483
+not_scored_words:
+- Booth
+- Bosch
+- Bournemouth
+- Bowditch
+- boarfish
+- boarish
+- boxfish

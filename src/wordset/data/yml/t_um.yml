@@ -1,0 +1,50 @@
+---
+pattern: t_um
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 40
+score: 2346850
+score_per_word: 97785
+hi_scored_words:
+  talcum: 87715
+  tantalum: 49350
+  tantrum: 40121
+  technetium: 64142
+  tedium: 57568
+  tellurium: 77004
+  terrarium: 76460
+  thallium: 53353
+  thorium: 44589
+  titanium: 12652
+  trifolium: 89167
+  triforium: 81707
+  trillium: 52632
+  tritium: 38872
+  trivium: 30690
+  tum: 27192
+scored_words:
+  taraxacum: 154219
+  terbium: 190446
+  thrum: 156545
+  thulium: 209942
+  transuranium: 291782
+  trapezium: 113140
+  triennium: 205735
+  tympanum: 141827
+not_scored_words:
+- Tarentum
+- Targum
+- Tatum
+- Telescopium
+- Triangulum
+- Tridentum
+- Trivandrum
+- Tweedledum
+- tapetum
+- teetotum
+- telium
+- tenaculum
+- tergum
+- termitarium
+- tintinnabulum
+- triclinium

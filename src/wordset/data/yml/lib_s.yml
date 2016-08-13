@@ -1,0 +1,39 @@
+---
+pattern: lib_s
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 29
+score: 869802
+score_per_word: 66907
+hi_scored_words:
+  libations: 78176
+  libelous: 55847
+  liberals: 11517
+  liberates: 91675
+  liberators: 72649
+  libertarians: 31153
+  liberties: 10100
+  libertines: 59641
+  librarians: 20162
+  libraries: 3652
+scored_words:
+  libels: 126519
+  libidinous: 161595
+  librettos: 147116
+not_scored_words:
+- Liberians
+- Libras
+- Libriums
+- Libyans
+- libbers
+- libelers
+- liberalizations
+- liberalizes
+- liberalness
+- liberationists
+- libertarianisms
+- libidinousness
+- libidos
+- librarianships
+- librates
+- librettists

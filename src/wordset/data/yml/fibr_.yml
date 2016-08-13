@@ -1,0 +1,38 @@
+---
+pattern: fibr_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 28
+score: 883550
+score_per_word: 67965
+hi_scored_words:
+  fibrillation: 32935
+  fibrils: 80088
+  fibrin: 46240
+  fibrinogen: 50038
+  fibroblast: 45898
+  fibroblasts: 32526
+  fibroid: 69155
+  fibrosis: 19492
+  fibrous: 26248
+scored_words:
+  fibril: 141157
+  fibrinolysis: 102422
+  fibroma: 107210
+  fibrotic: 130141
+not_scored_words:
+- fibriform
+- fibrilla
+- fibrillate
+- fibrillated
+- fibrillates
+- fibrillating
+- fibrilliform
+- fibrinogens
+- fibrinolyses
+- fibrinolysin
+- fibrinolysins
+- fibrinous
+- fibroin
+- fibromata
+- fibrovascular

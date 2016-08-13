@@ -1,0 +1,40 @@
+---
+pattern: sund_
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 30
+score: 2043346
+score_per_word: 113519
+hi_scored_words:
+  sundae: 42875
+  sunder: 62677
+  sundial: 37560
+  sundials: 76505
+  sundown: 27017
+  sundowner: 78540
+  sundries: 45006
+  sundry: 23925
+scored_words:
+  sundaes: 104939
+  sundeck: 119889
+  sundecks: 313397
+  sundered: 120923
+  sundering: 201615
+  sundew: 120287
+  sundog: 199256
+  sundowners: 180812
+  sundowns: 186496
+  sundress: 101627
+not_scored_words:
+- Sunda
+- Sundanese
+- Sundas
+- Sunday
+- Sundays
+- Sunderland
+- Sundsvall
+- sunderance
+- sunders
+- sundews
+- sundogs
+- sundresses

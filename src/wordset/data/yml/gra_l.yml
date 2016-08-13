@@ -1,0 +1,25 @@
+---
+pattern: gra_l
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 846975
+score_per_word: 76997
+hi_scored_words:
+  graceful: 11929
+  gradual: 10319
+  grail: 22828
+  grammatical: 17509
+  graphical: 11652
+  grateful: 4782
+  gravel: 9164
+  gravitational: 18388
+scored_words:
+  gradational: 241086
+  grapnel: 218106
+  graupel: 281212
+not_scored_words:
+- Grail
+- grallatorial
+- graphological
+- gravimetrical

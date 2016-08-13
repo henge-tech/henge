@@ -1,0 +1,55 @@
+---
+pattern: pl_er
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 45
+score: 2139044
+score_per_word: 82270
+hi_scored_words:
+  placeholder: 36350
+  placer: 26581
+  plainer: 95015
+  planer: 47966
+  planner: 10997
+  planter: 21904
+  plaster: 12706
+  plasterer: 91864
+  plater: 96510
+  platter: 18453
+  player: 2374
+  plier: 93059
+  plotter: 38823
+  plover: 34746
+  plucker: 83759
+  plumber: 24066
+  plumper: 49238
+  plunder: 23407
+  plunger: 38252
+scored_words:
+  placekicker: 253239
+  plasticizer: 124869
+  pleader: 121262
+  pleasanter: 144748
+  pledger: 140900
+  plodder: 239625
+  plonker: 268331
+not_scored_words:
+- Player
+- placater
+- plagiarizer
+- planimeter
+- planometer
+- plastometer
+- platelayer
+- playgoer
+- playreader
+- plighter
+- plower
+- pluckier
+- plumier
+- plummier
+- plunderer
+- plunker
+- plusher
+- plushier
+- pluviometer

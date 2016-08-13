@@ -1,0 +1,53 @@
+---
+pattern: tr_m
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 43
+score: 2035345
+score_per_word: 96921
+hi_scored_words:
+  tram: 19570
+  transcendentalism: 98984
+  transform: 7882
+  transom: 45549
+  tribalism: 91673
+  trifolium: 89167
+  triforium: 81707
+  trillium: 52632
+  trim: 9027
+  tritium: 38872
+  trivium: 30690
+  truism: 63832
+scored_words:
+  traditionalism: 106280
+  transsexualism: 135305
+  transuranium: 291782
+  transvestism: 139361
+  trapezium: 113140
+  triennium: 205735
+  trigram: 125042
+  triumphalism: 180114
+  tropism: 109001
+not_scored_words:
+- Tractarianism
+- Transcendentalism
+- Triangulum
+- Tridentum
+- Trinitarianism
+- Tristram
+- Trivandrum
+- Trondheim
+- Trotskyism
+- transformism
+- transvestitism
+- trapeziform
+- traumatism
+- tribadism
+- trichroism
+- trichromatism
+- triclinium
+- triform
+- trimorphism
+- tritheism
+- troglodytism
+- trophoplasm

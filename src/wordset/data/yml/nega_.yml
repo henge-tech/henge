@@ -1,0 +1,29 @@
+---
+pattern: nega_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 805291
+score_per_word: 61945
+hi_scored_words:
+  negate: 33022
+  negated: 44665
+  negates: 59856
+  negating: 71205
+  negation: 24654
+  negative: 2578
+  negatively: 19643
+  negatives: 22041
+  negativity: 32593
+  negatory: 81542
+scored_words:
+  negations: 128853
+  negatived: 103534
+  negativism: 181105
+not_scored_words:
+- negativeness
+- negativing
+- negativist
+- negativistic
+- negativists
+- negatron

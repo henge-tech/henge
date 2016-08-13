@@ -1,0 +1,30 @@
+---
+pattern: pu_ts
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 20
+score: 1208646
+score_per_word: 80576
+hi_scored_words:
+  publicists: 75752
+  pulpits: 82779
+  pundits: 23886
+  punishments: 25167
+  punts: 45197
+  puppets: 19019
+  purists: 57461
+  purports: 48676
+  pursuits: 17111
+  pussycats: 78156
+  puts: 3780
+  putts: 63865
+scored_words:
+  pullets: 150497
+  pullouts: 308007
+  putouts: 209293
+not_scored_words:
+- pugilists
+- punnets
+- pushcarts
+- pussyfoots
+- puttyroots

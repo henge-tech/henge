@@ -1,0 +1,25 @@
+---
+pattern: seco_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 689583
+score_per_word: 57465
+hi_scored_words:
+  second: 253
+  secondaries: 76306
+  secondarily: 65814
+  secondary: 2943
+  seconded: 11645
+  secondhand: 30321
+  secondly: 8439
+  secondment: 81594
+  seconds: 2005
+scored_words:
+  seconder: 153333
+  seconding: 123797
+  secondments: 133133
+not_scored_words:
+- Seconal
+- secondariness
+- seconders

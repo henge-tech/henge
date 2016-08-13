@@ -1,0 +1,34 @@
+---
+pattern: v_se
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 24
+score: 654023
+score_per_word: 65402
+hi_scored_words:
+  valise: 80058
+  valse: 73757
+  varicose: 36208
+  vase: 9265
+  verbose: 28028
+  verse: 4280
+  viscose: 52612
+  vise: 32134
+scored_words:
+  vadose: 124237
+  vamoose: 213444
+not_scored_words:
+- Varese
+- Vaucluse
+- Veronese
+- Viennese
+- Vietnamese
+- venenose
+- venose
+- ventose
+- ventricose
+- verrucose
+- vichyssoise
+- villose
+- vinasse
+- vorticose

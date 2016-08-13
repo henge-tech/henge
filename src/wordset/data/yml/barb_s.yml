@@ -1,0 +1,35 @@
+---
+pattern: barb_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 25
+score: 1117719
+score_per_word: 101610
+hi_scored_words:
+  barbarians: 28081
+  barbarous: 38735
+  barbecues: 37873
+  barbells: 63129
+  barbers: 37118
+  barbies: 66601
+  barbiturates: 56252
+  barbs: 52241
+scored_words:
+  barbarities: 250649
+  barbels: 279762
+  barbershops: 207278
+not_scored_words:
+- Barbadians
+- Barbados
+- barbarianisms
+- barbarisms
+- barbarizations
+- barbarizes
+- barbarousness
+- barbarousnesses
+- barberries
+- barbets
+- barbettes
+- barbicans
+- barbitals
+- barbitones

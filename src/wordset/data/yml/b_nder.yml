@@ -1,0 +1,28 @@
+---
+pattern: b_nder
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 18
+score: 1163391
+score_per_word: 83099
+hi_scored_words:
+  backgrounder: 97047
+  bartender: 23349
+  bender: 23460
+  binder: 22060
+  blender: 18069
+  blinder: 79047
+  blunder: 29284
+  bookbinder: 96369
+  brander: 92272
+  bystander: 41570
+scored_words:
+  backhander: 242326
+  bander: 157859
+  blonder: 121872
+  bounder: 118807
+not_scored_words:
+- Bender
+- bilander
+- blander
+- brassbounder

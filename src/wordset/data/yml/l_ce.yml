@@ -1,0 +1,35 @@
+---
+pattern: l_ce
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 25
+score: 651925
+score_per_word: 54327
+hi_scored_words:
+  lace: 6142
+  lance: 6946
+  lattice: 13316
+  lettuce: 15889
+  lice: 23554
+  licorice: 32930
+  luce: 28144
+  luminance: 39250
+  luminescence: 45881
+scored_words:
+  launce: 133834
+  lenience: 112909
+  luxuriance: 193130
+not_scored_words:
+- Lance
+- Laplace
+- Laurence
+- Lawrence
+- Lecce
+- Liberace
+- LibreOffice
+- Lidice
+- Lovelace
+- Luce
+- lightface
+- liquesce
+- luminesce

@@ -1,0 +1,45 @@
+---
+pattern: ini_
+hi_scored_words_count: 23
+scored_words_count: 6
+total_words: 35
+score: 1729609
+score_per_word: 59641
+hi_scored_words:
+  inimical: 58850
+  inimitable: 43734
+  iniquities: 69461
+  iniquity: 29765
+  init: 15661
+  initial: 3453
+  initialization: 25984
+  initialize: 26810
+  initialized: 30027
+  initializes: 67678
+  initializing: 55362
+  initially: 7467
+  initials: 16160
+  initiate: 12407
+  initiated: 6984
+  initiates: 24539
+  initiating: 23004
+  initiation: 11552
+  initiations: 73728
+  initiative: 4527
+  initiatives: 3883
+  initiator: 28535
+  initiators: 68091
+scored_words:
+  inion: 276963
+  iniquitous: 105226
+  initialed: 109230
+  initialing: 249735
+  initializations: 129684
+  initiatory: 151109
+not_scored_words:
+- inimically
+- inimitability
+- inimitably
+- iniquitously
+- iniquitousness
+- initialism

@@ -1,0 +1,47 @@
+---
+pattern: ca_ry
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 37
+score: 1392759
+score_per_word: 69637
+hi_scored_words:
+  cabinetry: 65108
+  calorimetry: 77438
+  calvary: 24229
+  canary: 14916
+  cannery: 55580
+  capillary: 24647
+  cardiopulmonary: 42655
+  carpentry: 28395
+  carry: 1231
+  category: 3964
+  cattery: 66278
+  cautionary: 41601
+  cavalry: 8994
+scored_words:
+  cajolery: 195706
+  caravansary: 158829
+  carvery: 121829
+  cassowary: 112418
+  casuistry: 130013
+  catenary: 104138
+  cautery: 114790
+not_scored_words:
+- Calgary
+- Calvary
+- Camry
+- Canary
+- Canterbury
+- Cary
+- Cauvery
+- calefactory
+- candleberry
+- cannonry
+- canonry
+- capitulary
+- capitulatory
+- caravansery
+- carpetbaggery
+- cartulary
+- castigatory

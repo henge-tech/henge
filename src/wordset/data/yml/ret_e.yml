@@ -1,0 +1,54 @@
+---
+pattern: ret_e
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 44
+score: 2102806
+score_per_word: 80877
+hi_scored_words:
+  retake: 42780
+  retaliate: 40339
+  rete: 45125
+  retentive: 70882
+  reticence: 59698
+  reticle: 63636
+  reticule: 79279
+  retinue: 63770
+  retire: 7194
+  retiree: 41189
+  retrace: 44588
+  retractable: 21529
+  retrievable: 97463
+  retrieve: 10491
+  retroactive: 30516
+  retrograde: 29947
+  retrospective: 16864
+  returnable: 49105
+  retype: 68070
+scored_words:
+  reticulate: 166113
+  retie: 173082
+  retitle: 196917
+  retributive: 122397
+  retrogressive: 203364
+  retune: 225290
+  returnee: 133178
+not_scored_words:
+- retable
+- retainable
+- retaliative
+- retaste
+- retene
+- retinite
+- retinoscope
+- retraceable
+- retractible
+- retractile
+- retractive
+- retrainee
+- retranslate
+- retrocede
+- retrofire
+- retrorse
+- retrousse
+- retuse

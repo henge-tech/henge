@@ -1,0 +1,34 @@
+---
+pattern: pro_ses
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 24
+score: 590925
+score_per_word: 59092
+hi_scored_words:
+  processes: 2686
+  professes: 64000
+  progresses: 23714
+  promises: 4955
+  proposes: 10200
+  prospectuses: 79107
+  prostheses: 56539
+  proteases: 54233
+scored_words:
+  prognoses: 164149
+  proteinases: 131342
+not_scored_words:
+- proboscises
+- procuresses
+- prolapses
+- prolepses
+- promiscuousnesses
+- propernesses
+- prophases
+- prophetesses
+- propitiousnesses
+- proprietresses
+- prosaicnesses
+- prosinesses
+- prostatitises
+- proteolyses

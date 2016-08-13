@@ -1,0 +1,32 @@
+---
+pattern: cu_ly
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 1047550
+score_per_word: 80580
+hi_scored_words:
+  cuddly: 26968
+  cully: 84173
+  culturally: 14053
+  cumulatively: 71125
+  cunningly: 69801
+  curiously: 18606
+  curly: 11826
+  currently: 4763
+  curtly: 94094
+  customarily: 44513
+scored_words:
+  curmudgeonly: 135314
+  cursorily: 231165
+  cutely: 241149
+not_scored_words:
+- cubically
+- culinarily
+- culpably
+- cumbersomely
+- curatively
+- cursedly
+- cursively
+- cussedly
+- cuttingly

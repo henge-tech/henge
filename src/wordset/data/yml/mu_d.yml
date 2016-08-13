@@ -1,0 +1,63 @@
+---
+pattern: mu_d
+hi_scored_words_count: 22
+scored_words_count: 18
+total_words: 53
+score: 4020437
+score_per_word: 100510
+hi_scored_words:
+  mud: 5201
+  muddled: 49236
+  muffled: 30856
+  mugged: 61923
+  mulled: 56913
+  multicolored: 52374
+  multifaceted: 44841
+  multilayered: 79890
+  multiplexed: 57434
+  multiplied: 21007
+  mumbled: 44424
+  mummified: 90917
+  murdered: 7458
+  murmured: 23402
+  muscled: 44497
+  mused: 48823
+  mustard: 11366
+  mustered: 29322
+  mutated: 32676
+  muted: 35256
+  mutilated: 36573
+  muttered: 20489
+scored_words:
+  mucked: 122732
+  mucoid: 173088
+  muddied: 119092
+  mudguard: 139808
+  muffed: 227548
+  mulched: 160756
+  mullioned: 102723
+  multifold: 241239
+  multiplicand: 213311
+  munched: 115527
+  munged: 171174
+  mushed: 268727
+  mushroomed: 114941
+  mussed: 228075
+  mustached: 245346
+  mustachioed: 168812
+  mutinied: 199192
+  muzzled: 123468
+not_scored_words:
+- Muhammad
+- Mumford
+- muckraked
+- muddlehead
+- muddleheaded
+- mulcted
+- multifid
+- multiped
+- munitioned
+- muscid
+- musclebound
+- musjid
+- muttonhead

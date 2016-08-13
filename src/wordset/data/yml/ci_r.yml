@@ -1,0 +1,30 @@
+---
+pattern: ci_r
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 20
+score: 354053
+score_per_word: 35405
+hi_scored_words:
+  cider: 14874
+  cigar: 7728
+  cinder: 38322
+  cinematographer: 31156
+  cinnabar: 62070
+  cipher: 19511
+  cir: 18497
+  circular: 5466
+  circulator: 88475
+  circumpolar: 67954
+scored_words: {}
+not_scored_words:
+- Cibber
+- cinerator
+- circler
+- circularizer
+- circumlunar
+- circumscriber
+- circumsolar
+- cislunar
+- cither
+- civilizer

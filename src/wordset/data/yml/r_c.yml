@@ -1,0 +1,55 @@
+---
+pattern: r_c
+hi_scored_words_count: 22
+scored_words_count: 4
+total_words: 45
+score: 1501390
+score_per_word: 57745
+hi_scored_words:
+  rabbinic: 51111
+  racemic: 90961
+  rachitic: 95648
+  radiographic: 36975
+  radiologic: 43686
+  radiometric: 66514
+  realistic: 7068
+  rec: 17310
+  relativistic: 28629
+  relic: 18701
+  republic: 1800
+  rhetoric: 9463
+  rheumatic: 28553
+  rhythmic: 17741
+  ribonucleic: 83269
+  ritualistic: 67387
+  robotic: 19394
+  roc: 19876
+  romantic: 3317
+  rubric: 35759
+  runic: 57867
+  rustic: 12386
+scored_words:
+  radiophonic: 288789
+  rationalistic: 125381
+  rhapsodic: 138907
+  rhombic: 134898
+not_scored_words:
+- RC
+- RFC
+- RISC
+- ROTC
+- Rhetic
+- Romaic
+- Romanic
+- Romantic
+- racialistic
+- radioscopic
+- radiotelegraphic
+- radiotelephonic
+- rebec
+- recidivistic
+- revivalistic
+- rheostatic
+- rhizogenic
+- rhodic
+- ruthenic

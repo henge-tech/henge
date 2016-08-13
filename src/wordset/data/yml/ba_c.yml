@@ -1,0 +1,34 @@
+---
+pattern: ba_c
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 24
+score: 1447308
+score_per_word: 111331
+hi_scored_words:
+  ballistic: 18194
+  balsamic: 35142
+  banc: 44760
+  barbaric: 28723
+  bardic: 83999
+  barometric: 43084
+  basaltic: 70189
+  basic: 3190
+scored_words:
+  bacteriologic: 232274
+  baldric: 260626
+  balletic: 233654
+  baric: 209992
+  barycentric: 183481
+not_scored_words:
+- BASIC
+- Bacchic
+- Balearic
+- Baltic
+- Balzac
+- Barsac
+- Basic
+- banausic
+- barographic
+- bathetic
+- bathypelagic

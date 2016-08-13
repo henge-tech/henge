@@ -1,0 +1,63 @@
+---
+pattern: _cers
+hi_scored_words_count: 25
+scored_words_count: 18
+total_words: 53
+score: 4601103
+score_per_word: 107002
+hi_scored_words:
+  announcers: 50847
+  bouncers: 43883
+  bracers: 77277
+  cancers: 12779
+  dancers: 9185
+  enforcers: 59056
+  enhancers: 41094
+  fencers: 91961
+  freelancers: 32784
+  grocers: 44025
+  juicers: 67500
+  lancers: 53121
+  officers: 1489
+  pacers: 24995
+  pincers: 86873
+  producers: 8272
+  racers: 27116
+  reducers: 86624
+  saucers: 36177
+  sequencers: 75212
+  silencers: 68346
+  spacers: 40349
+  tracers: 52873
+  transducers: 32917
+  ulcers: 24184
+scored_words:
+  artificers: 148070
+  balancers: 115415
+  conveyancers: 208351
+  deicers: 266201
+  greengrocers: 138618
+  inducers: 106102
+  mercers: 207744
+  mincers: 313918
+  necromancers: 141617
+  piercers: 229872
+  placers: 147180
+  reinforcers: 134982
+  reproducers: 323981
+  ricers: 220716
+  romancers: 179793
+  seducers: 271654
+  slicers: 101434
+  splicers: 196516
+not_scored_words:
+- Cancers
+- chiromancers
+- coercers
+- defacers
+- facers
+- fleecers
+- prancers
+- ropedancers
+- traducers
+- trouncers

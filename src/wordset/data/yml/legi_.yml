@@ -1,0 +1,52 @@
+---
+pattern: legi_
+hi_scored_words_count: 24
+scored_words_count: 9
+total_words: 42
+score: 2538031
+score_per_word: 76910
+hi_scored_words:
+  legibility: 70910
+  legible: 33984
+  legibly: 71224
+  legion: 10577
+  legionnaire: 84759
+  legionnaires: 72346
+  legions: 26074
+  legislate: 38460
+  legislated: 56209
+  legislating: 68325
+  legislation: 2509
+  legislative: 3714
+  legislatively: 98287
+  legislator: 20418
+  legislators: 13121
+  legislature: 4858
+  legislatures: 23358
+  legit: 24897
+  legitimacy: 18651
+  legitimate: 5275
+  legitimately: 26121
+  legitimation: 79023
+  legitimize: 57632
+  legitimized: 94793
+scored_words:
+  legionaries: 134322
+  legionary: 106791
+  legislates: 228581
+  legitimated: 141358
+  legitimates: 283610
+  legitimating: 189455
+  legitimization: 167296
+  legitimizes: 172559
+  legitimizing: 108534
+not_scored_words:
+- legibleness
+- legislatorial
+- legist
+- legitimatize
+- legitimatized
+- legitimatizes
+- legitimatizing
+- legitimism
+- legitimist

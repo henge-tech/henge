@@ -1,0 +1,36 @@
+---
+pattern: _rr
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 26
+score: 497037
+score_per_word: 45185
+hi_scored_words:
+  arr: 27377
+  birr: 50174
+  brr: 83872
+  burr: 16987
+  corr: 21883
+  err: 10747
+  parr: 29480
+  purr: 39644
+  terr: 46225
+  torr: 45192
+scored_words:
+  charr: 125456
+not_scored_words:
+- Barr
+- Burr
+- Carr
+- Herr
+- Kerr
+- Orr
+- Parr
+- RR
+- Starr
+- Terr
+- Tyrr
+- chirr
+- churr
+- shirr
+- skirr

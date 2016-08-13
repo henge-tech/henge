@@ -1,0 +1,20 @@
+---
+pattern: sea_t
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 324530
+score_per_word: 40566
+hi_scored_words:
+  seacoast: 37487
+  seafront: 49699
+  sealant: 38002
+  seamount: 89168
+  seaport: 25722
+  searchlight: 45500
+  seat: 1510
+  seatbelt: 37442
+scored_words: {}
+not_scored_words:
+- seagirt
+- seamiest

@@ -1,0 +1,37 @@
+---
+pattern: mamm_
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 27
+score: 626173
+score_per_word: 48167
+hi_scored_words:
+  mamma: 16345
+  mammal: 22914
+  mammalian: 25372
+  mammals: 11323
+  mammary: 29055
+  mammogram: 62176
+  mammograms: 67214
+  mammography: 38874
+  mammon: 66042
+  mammoth: 17028
+  mammoths: 89494
+  mammy: 48584
+scored_words:
+  mammalogy: 131752
+not_scored_words:
+- Mammon
+- Mammons
+- mammalians
+- mammalogies
+- mammalogist
+- mammet
+- mammies
+- mammiferous
+- mammilla
+- mammillae
+- mammillary
+- mammillate
+- mammonism
+- mammonist

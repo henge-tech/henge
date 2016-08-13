@@ -1,0 +1,26 @@
+---
+pattern: o_rd
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 409621
+score_per_word: 40962
+hi_scored_words:
+  onward: 14600
+  orchard: 11997
+  ord: 18962
+  outboard: 25824
+  outward: 9656
+  overboard: 20085
+  overheard: 23393
+  overlord: 44603
+  oxford: 2356
+scored_words:
+  ovenbird: 238145
+not_scored_words:
+- Oxford
+- Oxnard
+- octachord
+- oilbird
+- outguard
+- overword

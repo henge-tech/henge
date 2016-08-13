@@ -1,0 +1,25 @@
+---
+pattern: disa_e
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 794207
+score_per_word: 66183
+hi_scored_words:
+  disable: 13829
+  disadvantage: 10470
+  disagree: 7809
+  disagreeable: 31949
+  disallowance: 94028
+  disappearance: 17026
+  disapprove: 25193
+  disassemble: 49845
+scored_words:
+  disabuse: 137208
+  disaccharide: 163424
+  disambiguate: 135729
+  disassociate: 107697
+not_scored_words:
+- disaffiliate
+- disarrange
+- disarticulate

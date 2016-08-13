@@ -1,0 +1,24 @@
+---
+pattern: _ript
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 14
+score: 652193
+score_per_word: 59290
+hi_scored_words:
+  conscript: 66791
+  manuscript: 6480
+  nondescript: 58403
+  postscript: 13957
+  rescript: 92599
+  script: 7635
+  subscript: 40497
+  superscript: 49471
+  transcript: 10762
+  typescript: 44001
+scored_words:
+  prescript: 261597
+not_scored_words:
+- ECMAScript
+- JavaScript
+- Script

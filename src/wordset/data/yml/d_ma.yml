@@ -1,0 +1,24 @@
+---
+pattern: d_ma
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 14
+score: 854739
+score_per_word: 65749
+hi_scored_words:
+  derma: 73371
+  dharma: 25669
+  dilemma: 10587
+  diorama: 48594
+  diploma: 11119
+  dogma: 18510
+  drachma: 83936
+  drama: 2579
+  duma: 38975
+scored_words:
+  diastema: 108396
+  digamma: 131694
+  docudrama: 127993
+  douma: 173316
+not_scored_words:
+- Dodoma

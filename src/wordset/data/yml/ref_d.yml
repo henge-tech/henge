@@ -1,0 +1,50 @@
+---
+pattern: ref_d
+hi_scored_words_count: 22
+scored_words_count: 9
+total_words: 40
+score: 2908592
+score_per_word: 93825
+hi_scored_words:
+  refereed: 29421
+  referenced: 8289
+  referred: 2001
+  refilled: 55243
+  refinanced: 81293
+  refined: 6288
+  refinished: 96677
+  refitted: 87998
+  reflected: 4415
+  refocused: 96763
+  reformatted: 55536
+  reformed: 13587
+  reformulated: 56323
+  refracted: 86969
+  refrained: 49446
+  refreshed: 21940
+  refrigerated: 31692
+  refund: 3867
+  refunded: 24010
+  refurbished: 9972
+  refused: 3209
+  refuted: 40965
+scored_words:
+  refactored: 151859
+  refashioned: 246746
+  refiled: 243254
+  refluxed: 251191
+  refold: 203950
+  refolded: 280519
+  reforested: 267124
+  refueled: 149492
+  refurnished: 248553
+not_scored_words:
+- Reformed
+- refaced
+- refastened
+- reffed
+- reflated
+- refloated
+- reforged
+- refortified
+- refound

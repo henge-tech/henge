@@ -1,0 +1,33 @@
+---
+pattern: a_ded
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 23
+score: 946938
+score_per_word: 47346
+hi_scored_words:
+  abounded: 57107
+  acceded: 49160
+  accorded: 19964
+  added: 457
+  afforded: 10756
+  aided: 8791
+  alluded: 30343
+  amended: 5417
+  appended: 24248
+  applauded: 29591
+  apprehended: 36268
+  ascended: 20004
+  astounded: 34926
+  attended: 2923
+  avoided: 6334
+  awarded: 4561
+scored_words:
+  abraded: 102943
+  absconded: 101659
+  absentminded: 195060
+  arcaded: 206426
+not_scored_words:
+- aggraded
+- ambuscaded
+- anteceded

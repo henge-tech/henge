@@ -1,0 +1,26 @@
+---
+pattern: at_ic
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 789101
+score_per_word: 71736
+hi_scored_words:
+  atavistic: 77250
+  atheistic: 57221
+  atherosclerotic: 62069
+  athletic: 5434
+  atmospheric: 9026
+  atomic: 9077
+  atomistic: 97320
+  atrophic: 84769
+  attic: 10044
+scored_words:
+  ataxic: 206690
+  atonic: 170201
+not_scored_words:
+- Atlantic
+- Attic
+- ataractic
+- ataraxic
+- athematic

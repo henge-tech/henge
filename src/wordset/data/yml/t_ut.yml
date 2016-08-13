@@ -1,0 +1,26 @@
+---
+pattern: t_ut
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 16
+score: 810024
+score_per_word: 62309
+hi_scored_words:
+  takeout: 49159
+  taut: 34792
+  throughout: 1054
+  throughput: 19755
+  timeout: 14333
+  tout: 12671
+  trout: 7914
+  tryout: 41145
+  turnabout: 92786
+  turnout: 16376
+  tut: 21340
+scored_words:
+  thereabout: 172412
+  throwout: 326287
+not_scored_words:
+- Teut
+- Truffaut
+- Tut

@@ -1,0 +1,51 @@
+---
+pattern: a_des
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 41
+score: 1509689
+score_per_word: 75484
+hi_scored_words:
+  abides: 45954
+  abodes: 77160
+  accolades: 21227
+  aedes: 74174
+  aides: 20157
+  aldehydes: 63340
+  alludes: 52898
+  altitudes: 33380
+  amides: 91642
+  amplitudes: 32454
+  anodes: 69708
+  antipodes: 79661
+  aptitudes: 66711
+  arcades: 38670
+  asides: 51473
+  attitudes: 6155
+scored_words:
+  accedes: 177185
+  actinides: 125549
+  anhydrides: 137517
+  azides: 244674
+not_scored_words:
+- Alcibiades
+- Alcides
+- Allhallowtides
+- Andes
+- Antipodes
+- Archimedes
+- Aristides
+- aborticides
+- abrades
+- acaricides
+- acetaldehydes
+- acetamides
+- acetanilides
+- aggrades
+- allemandes
+- ambuscades
+- antecedes
+- antitrades
+- aphides
+- apsides
+- arthritides

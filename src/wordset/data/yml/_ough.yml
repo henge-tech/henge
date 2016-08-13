@@ -1,0 +1,40 @@
+---
+pattern: _ough
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 30
+score: 909640
+score_per_word: 41347
+hi_scored_words:
+  although: 547
+  borough: 8105
+  bough: 27614
+  breakthrough: 13692
+  clough: 40448
+  cough: 8618
+  dough: 10143
+  enough: 369
+  furlough: 52410
+  hough: 37568
+  lough: 40279
+  rough: 2964
+  slough: 20524
+  sourdough: 49850
+  thorough: 6468
+  though: 323
+  through: 110
+  tough: 3935
+  trough: 18180
+scored_words:
+  chough: 173691
+  hiccough: 196536
+  sough: 197266
+not_scored_words:
+- Attenborough
+- Clough
+- Gainsborough
+- Marlborough
+- McCullough
+- Middlesbrough
+- Peterborough
+- Scarborough

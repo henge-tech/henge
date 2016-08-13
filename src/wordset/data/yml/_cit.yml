@@ -1,0 +1,24 @@
+---
+pattern: _cit
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 446040
+score_per_word: 40549
+hi_scored_words:
+  cit: 14008
+  complicit: 57204
+  deficit: 8987
+  elicit: 24084
+  explicit: 6357
+  illicit: 15996
+  implicit: 10701
+  solicit: 14990
+  tacit: 25333
+scored_words:
+  fecit: 164515
+  licit: 103865
+not_scored_words:
+- inexplicit
+- overexplicit
+- unexplicit

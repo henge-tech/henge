@@ -1,0 +1,45 @@
+---
+pattern: de_tive
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 35
+score: 1006641
+score_per_word: 59214
+hi_scored_words:
+  deceptive: 19659
+  declarative: 36937
+  decorative: 7889
+  deductive: 41975
+  defective: 7219
+  definitive: 12094
+  degenerative: 30069
+  deliberative: 41834
+  demonstrative: 52631
+  derivative: 6996
+  descriptive: 9581
+  destructive: 8698
+  detective: 5975
+  determinative: 73312
+scored_words:
+  deconstructive: 172006
+  degradative: 213277
+  denotative: 266489
+not_scored_words:
+- debilitative
+- decongestive
+- decretive
+- dedicative
+- deflective
+- delative
+- delineative
+- demarcative
+- denominative
+- denunciative
+- deprecative
+- depreciative
+- depurative
+- derogative
+- desiccative
+- desiderative
+- designative
+- detractive

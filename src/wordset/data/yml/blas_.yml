@@ -1,0 +1,47 @@
+---
+pattern: blas_
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 37
+score: 2603722
+score_per_word: 118351
+hi_scored_words:
+  blase: 95413
+  blaspheme: 86654
+  blasphemous: 43219
+  blasphemy: 23722
+  blast: 4670
+  blasted: 19078
+  blaster: 16557
+  blasters: 46893
+  blasting: 20561
+  blastocyst: 86069
+  blasts: 19216
+scored_words:
+  blasphemed: 139535
+  blasphemer: 138064
+  blasphemers: 226076
+  blasphemies: 118709
+  blaspheming: 162291
+  blasphemously: 159007
+  blastoderm: 181048
+  blastoff: 229277
+  blastomere: 329641
+  blastomeres: 218301
+  blastula: 239721
+not_scored_words:
+- blasphemes
+- blastema
+- blastemas
+- blastocoel
+- blastocoels
+- blastoderms
+- blastoffs
+- blastogeneses
+- blastogenesis
+- blastopore
+- blastopores
+- blastosphere
+- blastospheres
+- blastulas
+- blasé

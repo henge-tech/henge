@@ -1,0 +1,60 @@
+---
+pattern: ce_es
+hi_scored_words_count: 14
+scored_words_count: 11
+total_words: 50
+score: 2390314
+score_per_word: 95612
+hi_scored_words:
+  ceases: 18402
+  celebrates: 17234
+  celebrities: 9065
+  cellphones: 28219
+  cemeteries: 19514
+  censuses: 39903
+  centerpieces: 58307
+  centrifuges: 68218
+  centuries: 4368
+  ceremonies: 9134
+  ceres: 25589
+  certainties: 72724
+  certificates: 5685
+  certifies: 41177
+scored_words:
+  ceasefires: 254303
+  cedes: 103693
+  censures: 125113
+  centenaries: 235836
+  centimes: 131776
+  centipedes: 108660
+  centralizes: 151758
+  centrioles: 280098
+  centromeres: 189979
+  centrosomes: 224433
+  certes: 167126
+not_scored_words:
+- Celebes
+- Ceres
+- Cervantes
+- cecities
+- celestites
+- celibates
+- cellarages
+- cellmates
+- cellularities
+- cellulitises
+- cementites
+- cenobites
+- cenogeneses
+- censes
+- centares
+- centauries
+- cephalochordates
+- cerates
+- ceratoduses
+- cerebrates
+- certitudes
+- cerussites
+- cervices
+- cervicitises
+- cestodes

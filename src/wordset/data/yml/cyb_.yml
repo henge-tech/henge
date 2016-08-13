@@ -1,0 +1,29 @@
+---
+pattern: cyb_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 19
+score: 561981
+score_per_word: 62442
+hi_scored_words:
+  cybercafes: 83172
+  cybernetic: 51960
+  cybernetics: 39074
+  cyberpunk: 35541
+  cybersex: 70103
+  cyberspace: 18250
+  cyborg: 32879
+  cyborgs: 65831
+scored_words:
+  cybercafe: 165171
+not_scored_words:
+- Cybele
+- cyberbullies
+- cyberbully
+- cybercafé
+- cybercafés
+- cybernaut
+- cybernetician
+- cyberneticist
+- cyberpunks
+- cyberspaces

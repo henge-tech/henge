@@ -1,0 +1,44 @@
+---
+pattern: dup_
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 34
+score: 1678545
+score_per_word: 79930
+hi_scored_words:
+  dup: 23667
+  dupe: 32789
+  duped: 42145
+  duper: 44402
+  dupes: 70543
+  duplex: 23321
+  duplexes: 55881
+  duplicate: 9899
+  duplicated: 24100
+  duplicates: 27151
+  duplicating: 34081
+  duplication: 19294
+  duplications: 71934
+  duplicator: 65427
+  duplicity: 47757
+scored_words:
+  duping: 144630
+  dupion: 260784
+  duple: 184594
+  duplicators: 101649
+  duplicitous: 107236
+  duppy: 287261
+not_scored_words:
+- DuPont
+- Dupleix
+- dupability
+- dupable
+- duperies
+- dupers
+- dupery
+- duplet
+- duplicability
+- duplicature
+- duplicities
+- duplicitousness
+- dupondius

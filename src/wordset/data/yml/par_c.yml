@@ -1,0 +1,40 @@
+---
+pattern: par_c
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 30
+score: 1660525
+score_per_word: 103782
+hi_scored_words:
+  parabolic: 32803
+  paradigmatic: 78307
+  paralytic: 67273
+  paramagnetic: 61268
+  paramedic: 25278
+  parametric: 22683
+  paraplegic: 78414
+  parasitic: 23112
+  parasympathetic: 77642
+  paregoric: 95737
+scored_words:
+  paraffinic: 307212
+  paranoiac: 180734
+  paretic: 103980
+  parodic: 204565
+  parsec: 112790
+  parthenogenetic: 188727
+not_scored_words:
+- PARC
+- Paralympic
+- paradisaic
+- paradisiac
+- paralinguistic
+- parallactic
+- parallelistic
+- paranoic
+- paraphiliac
+- paraphrastic
+- paratactic
+- parenthetic
+- paronymic
+- parotic

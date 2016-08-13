@@ -1,0 +1,56 @@
+---
+pattern: s_ded
+hi_scored_words_count: 25
+scored_words_count: 8
+total_words: 46
+score: 2412501
+score_per_word: 73106
+hi_scored_words:
+  safeguarded: 55627
+  sanded: 52607
+  scalded: 94612
+  scolded: 52938
+  seceded: 98228
+  secluded: 17599
+  seconded: 11645
+  seeded: 27659
+  shaded: 16164
+  shielded: 23693
+  shorthanded: 89044
+  shredded: 25673
+  shrouded: 36266
+  sided: 11027
+  skidded: 90519
+  sounded: 7013
+  spearheaded: 41283
+  stranded: 13985
+  studded: 23797
+  subdivided: 27638
+  subsided: 36529
+  succeeded: 5456
+  superseded: 17796
+  surrounded: 4464
+  suspended: 4852
+scored_words:
+  scudded: 224835
+  serenaded: 137906
+  shepherded: 144540
+  simpleminded: 231381
+  sodded: 301892
+  stampeded: 159358
+  subtended: 144608
+  superintended: 181867
+not_scored_words:
+- sapheaded
+- scended
+- shockheaded
+- skateboarded
+- sledded
+- snowboarded
+- sobersided
+- spaded
+- stewarded
+- stockaded
+- surfboarded
+- swarded
+- swellheaded

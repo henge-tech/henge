@@ -1,0 +1,44 @@
+---
+pattern: edu_
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 34
+score: 1585244
+score_per_word: 83433
+hi_scored_words:
+  educ: 25910
+  educate: 8958
+  educated: 5830
+  educates: 49071
+  educating: 15120
+  education: 437
+  educational: 1985
+  educationally: 56932
+  educations: 65102
+  educative: 76722
+  educator: 16793
+  educators: 13293
+  edutainment: 96008
+scored_words:
+  educable: 226101
+  educationalist: 230168
+  educationalists: 153933
+  educationist: 234587
+  educationists: 199468
+  eduction: 108826
+not_scored_words:
+- Eduardo
+- educability
+- educatee
+- educatory
+- educe
+- educed
+- educes
+- educible
+- educing
+- educt
+- eductive
+- edulcorate
+- edulcorated
+- edulcorates
+- edulcorating

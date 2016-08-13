@@ -1,0 +1,36 @@
+---
+pattern: par_t
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 26
+score: 651611
+score_per_word: 46543
+hi_scored_words:
+  parakeet: 49582
+  paramount: 9991
+  parapet: 44631
+  parchment: 21061
+  parent: 2268
+  parfait: 56612
+  parliament: 3132
+  parquet: 45579
+  parrot: 12194
+  part: 137
+  participant: 14407
+scored_words:
+  parachutist: 107321
+  paraquat: 106929
+  parturient: 177767
+not_scored_words:
+- Paramount
+- Parliament
+- paralogist
+- paramagnet
+- parament
+- paraphrast
+- parapsychologist
+- parasitologist
+- parget
+- parodist
+- partlet
+- parturifacient

@@ -1,0 +1,32 @@
+---
+pattern: g_cal
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 22
+score: 1067338
+score_per_word: 71155
+hi_scored_words:
+  genealogical: 20345
+  geochemical: 45578
+  geographical: 6580
+  geological: 7723
+  geometrical: 26535
+  geophysical: 21038
+  geopolitical: 37096
+  gerontological: 89358
+  grammatical: 17509
+  graphical: 11652
+  gynecological: 59782
+scored_words:
+  gastronomical: 215894
+  gemological: 140438
+  glaciological: 255458
+  gonococcal: 112352
+not_scored_words:
+- galenical
+- galvanometrical
+- gastrological
+- genotypical
+- geochronological
+- graphological
+- gravimetrical

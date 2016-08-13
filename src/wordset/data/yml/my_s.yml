@@ -1,0 +1,58 @@
+---
+pattern: my_s
+hi_scored_words_count: 9
+scored_words_count: 11
+total_words: 48
+score: 2536523
+score_per_word: 126826
+hi_scored_words:
+  myocarditis: 81585
+  myriads: 74191
+  mys: 72258
+  mysteries: 7976
+  mysterious: 5197
+  mystics: 40038
+  mythologies: 72642
+  mythos: 46402
+  myths: 10179
+scored_words:
+  myalgias: 290598
+  mycoses: 135582
+  mycosis: 130278
+  mydriasis: 276600
+  myelitis: 128530
+  myosins: 214755
+  myosotis: 207825
+  myrmidons: 111512
+  myrtles: 164335
+  mystifies: 234874
+  myxomatosis: 231166
+not_scored_words:
+- Myers
+- Mylars
+- Myles
+- Myrmidons
+- mycologists
+- myelencephalons
+- myelines
+- myelins
+- myelomas
+- myiasis
+- mynahes
+- mynas
+- myocarditises
+- myocardiums
+- myoglobins
+- myologies
+- myotonias
+- myriapods
+- myrmecophagous
+- myrobalans
+- myrtaceous
+- mysteriousness
+- mysticalness
+- mythologists
+- mythologizes
+- myxedemas
+- myxomatoses
+- myxomycetes

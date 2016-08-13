@@ -1,0 +1,47 @@
+---
+pattern: do_rs
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 37
+score: 1998847
+score_per_word: 99942
+hi_scored_words:
+  dockers: 39617
+  doctors: 3204
+  dodgers: 13112
+  doers: 53827
+  dollars: 1287
+  donors: 6882
+  doors: 2183
+  dossiers: 51490
+  doubters: 74325
+  downers: 41036
+  downstairs: 10449
+scored_words:
+  dockworkers: 251941
+  doomsayers: 242018
+  dormers: 116414
+  dosimeters: 131115
+  doubleheaders: 317799
+  dowagers: 159338
+  downpours: 118408
+  dowsers: 228860
+  dozers: 135542
+not_scored_words:
+- dodders
+- dogcatchers
+- dogears
+- dolors
+- domineers
+- doodlers
+- doomsters
+- doorkeepers
+- doorknockers
+- dopers
+- doppelgangers
+- doppelgängers
+- dossers
+- doters
+- douzepers
+- dowers
+- dowitchers

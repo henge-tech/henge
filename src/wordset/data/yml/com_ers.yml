@@ -1,0 +1,27 @@
+---
+pattern: com_ers
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 989071
+score_per_word: 70647
+hi_scored_words:
+  comers: 41405
+  comforters: 51346
+  commanders: 12026
+  commissioners: 7295
+  committers: 54179
+  commoners: 68909
+  commuters: 26690
+  compilers: 28869
+  composers: 13396
+  computers: 2092
+scored_words:
+  combiners: 177871
+  compeers: 143377
+  complainers: 129758
+  comptrollers: 231858
+not_scored_words:
+- comakers
+- combers
+- commandeers

@@ -1,0 +1,22 @@
+---
+pattern: inf_tion
+hi_scored_words_count: 11
+scored_words_count: 0
+total_words: 12
+score: 273536
+score_per_word: 24866
+hi_scored_words:
+  infarction: 21274
+  infatuation: 37586
+  infection: 5287
+  infestation: 30725
+  infiltration: 26497
+  inflammation: 11227
+  inflation: 7924
+  inflection: 36953
+  infliction: 60852
+  information: 172
+  infraction: 35039
+scored_words: {}
+not_scored_words:
+- infeudation

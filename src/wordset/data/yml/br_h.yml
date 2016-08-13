@@ -1,0 +1,34 @@
+---
+pattern: br_h
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 24
+score: 806275
+score_per_word: 40313
+hi_scored_words:
+  brackish: 41466
+  brainwash: 69317
+  branch: 1763
+  brash: 34781
+  breach: 5934
+  breadth: 10481
+  breakthrough: 13692
+  breath: 2946
+  breech: 37620
+  broach: 51195
+  broadcloth: 78316
+  brooch: 18415
+  broth: 16933
+  brownish: 34396
+  brunch: 20338
+  brush: 4297
+  brutish: 51774
+scored_words:
+  brach: 101742
+  brandish: 109727
+  broch: 101142
+not_scored_words:
+- Branch
+- British
+- Bruch
+- breechcloth

@@ -1,0 +1,38 @@
+---
+pattern: mean_
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 28
+score: 1561685
+score_per_word: 62467
+hi_scored_words:
+  mean: 432
+  meander: 48995
+  meandering: 44015
+  meanders: 74735
+  meaner: 68356
+  meanest: 48180
+  meanie: 88372
+  meaning: 1468
+  meaningful: 9094
+  meaningfully: 48818
+  meaningless: 14177
+  meanings: 10110
+  meanness: 72227
+  means: 335
+  meant: 1812
+  meantime: 6905
+  meanwhile: 4163
+  meany: 74642
+scored_words:
+  meandered: 117864
+  meanderings: 104438
+  meanies: 137478
+  meaningfulness: 131757
+  meaninglessness: 121922
+  meaningly: 177823
+  meanly: 153567
+not_scored_words:
+- Meany
+- meandrous
+- meaninglessly

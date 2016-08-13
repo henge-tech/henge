@@ -1,0 +1,30 @@
+---
+pattern: rum_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 20
+score: 1052989
+score_per_word: 105298
+hi_scored_words:
+  rumbles: 52541
+  rumblings: 70216
+  ruminants: 66971
+  ruminations: 67059
+  rumors: 10024
+  rumps: 76058
+  rumpus: 68096
+  rums: 86246
+scored_words:
+  ruminates: 291796
+  rummages: 263982
+not_scored_words:
+- Rumanians
+- rumbas
+- rumbustious
+- rumbustiousness
+- rumens
+- rummers
+- rumormongers
+- rumples
+- rumpuses
+- rumrunners

@@ -1,0 +1,26 @@
+---
+pattern: st_ge
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 644266
+score_per_word: 64426
+hi_scored_words:
+  stage: 1002
+  steerage: 51843
+  stooge: 79040
+  stoppage: 40159
+  storage: 4446
+  stowage: 80833
+  straightedge: 99936
+  strange: 1795
+scored_words:
+  stodge: 154508
+  stumpage: 130704
+not_scored_words:
+- Stevenage
+- Stonehenge
+- stealage
+- stge
+- stillage
+- stockbrokerage

@@ -1,0 +1,32 @@
+---
+pattern: stom_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 1269865
+score_per_word: 97681
+hi_scored_words:
+  stoma: 69180
+  stomach: 4459
+  stomachs: 37872
+  stomatal: 97713
+  stomatitis: 75668
+  stomp: 21992
+  stomped: 55139
+  stomping: 37689
+  stomps: 78844
+scored_words:
+  stomachache: 141517
+  stomachaches: 271341
+  stomata: 114438
+  stomatology: 264013
+not_scored_words:
+- stomached
+- stomacher
+- stomachers
+- stomachic
+- stomaching
+- stomas
+- stomatic
+- stomatitises
+- stomodeum

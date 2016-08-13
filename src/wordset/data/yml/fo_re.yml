@@ -1,0 +1,23 @@
+---
+pattern: fo_re
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 893000
+score_per_word: 81181
+hi_scored_words:
+  folklore: 19175
+  fore: 14038
+  foreclosure: 16907
+  foreshore: 46616
+  forevermore: 94085
+  forfeiture: 25238
+  foursquare: 63947
+  foxfire: 95190
+scored_words:
+  footsore: 146106
+  forbore: 214564
+  fourscore: 157134
+not_scored_words:
+- forepleasure
+- forswore

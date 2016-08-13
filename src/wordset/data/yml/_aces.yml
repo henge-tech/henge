@@ -1,0 +1,82 @@
+---
+pattern: _aces
+hi_scored_words_count: 28
+scored_words_count: 14
+total_words: 72
+score: 3473537
+score_per_word: 82703
+hi_scored_words:
+  aces: 22398
+  braces: 15607
+  displaces: 76904
+  embraces: 18051
+  faces: 2411
+  fireplaces: 24073
+  furnaces: 23080
+  graces: 23411
+  interfaces: 5950
+  laces: 29639
+  marketplaces: 42398
+  menaces: 84185
+  necklaces: 16641
+  paces: 21338
+  palaces: 16813
+  places: 879
+  prefaces: 95144
+  races: 3886
+  replaces: 15288
+  shoelaces: 72191
+  spaces: 4353
+  subspaces: 72196
+  surfaces: 6151
+  terraces: 24130
+  traces: 7526
+  typefaces: 59183
+  workplaces: 23093
+  workspaces: 61696
+scored_words:
+  birthplaces: 158890
+  commonplaces: 141507
+  defaces: 296103
+  disgraces: 172520
+  enlaces: 100466
+  glaces: 244973
+  grimaces: 125673
+  maces: 117775
+  outpaces: 143818
+  peaces: 268400
+  pinnaces: 181269
+  resurfaces: 111666
+  retraces: 204164
+  vambraces: 337698
+not_scored_words:
+- Graces
+- backspaces
+- blackfaces
+- bootlaces
+- bullaces
+- carapaces
+- coalfaces
+- crawlspaces
+- cyberspaces
+- daces
+- effaces
+- footraces
+- headraces
+- hyperspaces
+- hyraces
+- interlaces
+- millraces
+- misplaces
+- outfaces
+- outraces
+- palefaces
+- populaces
+- refaces
+- scapegraces
+- showplaces
+- solaces
+- tailraces
+- unbraces
+- undersurfaces
+- unlaces

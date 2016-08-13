@@ -1,0 +1,28 @@
+---
+pattern: _stal
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 592889
+score_per_word: 53899
+hi_scored_words:
+  coastal: 8256
+  costal: 61302
+  crustal: 47732
+  crystal: 3194
+  distal: 20344
+  intercostal: 80225
+  pedestal: 14942
+  postal: 6194
+  vestal: 39427
+scored_words:
+  borstal: 196378
+  festal: 114895
+not_scored_words:
+- Chrystal
+- Crystal
+- Krystal
+- Liestal
+- Pentecostal
+- infracostal
+- semipostal

@@ -1,0 +1,99 @@
+---
+pattern: pa_a
+hi_scored_words_count: 28
+scored_words_count: 12
+total_words: 89
+score: 3252046
+score_per_word: 81301
+hi_scored_words:
+  pacha: 61292
+  paella: 54746
+  pagoda: 30362
+  paisa: 50363
+  pajama: 30920
+  pampa: 58234
+  panacea: 37949
+  panama: 6466
+  panda: 14964
+  pandora: 18841
+  panorama: 12687
+  papa: 6059
+  papaya: 31427
+  papilloma: 71135
+  paprika: 37619
+  para: 3309
+  parabola: 57108
+  paranoia: 20624
+  paraphernalia: 30724
+  paraplegia: 65970
+  parhelia: 94381
+  parka: 38354
+  pasha: 28868
+  pasta: 11624
+  patella: 50138
+  patina: 37576
+  pavlova: 75215
+  payola: 87743
+scored_words:
+  palestra: 120169
+  panga: 165155
+  papilla: 110659
+  paramatta: 269021
+  paraphilia: 230617
+  paresthesia: 145643
+  parmigiana: 145463
+  paronomasia: 219786
+  paronychia: 260348
+  passacaglia: 144997
+  pataca: 138157
+  paulownia: 177333
+not_scored_words:
+- PABA
+- Pachuca
+- Padilla
+- Padova
+- Padua
+- Paglia
+- Palestrina
+- Palma
+- Palmira
+- Palmyra
+- Pamela
+- Pampa
+- Pamphylia
+- Pamplona
+- Panama
+- Panathenaea
+- Pandora
+- Pangaea
+- Pannonia
+- Pantelleria
+- Panza
+- Paphlagonia
+- Papua
+- Paraiba
+- Parana
+- Parma
+- Parnaiba
+- Parramatta
+- Parthia
+- Pasadena
+- Patagonia
+- Patna
+- Patrica
+- Patricia
+- Paula
+- Pavlova
+- pachysandra
+- pallia
+- panada
+- panatela
+- panatella
+- panjandra
+- panocha
+- paragraphia
+- paralipomena
+- paramecia
+- paramnesia
+- parapodia
+- pareira

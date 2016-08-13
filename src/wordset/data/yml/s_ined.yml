@@ -1,0 +1,23 @@
+---
+pattern: s_ined
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 765816
+score_per_word: 69619
+hi_scored_words:
+  sequined: 67047
+  shined: 53243
+  sidelined: 45960
+  sprained: 47206
+  stained: 7950
+  strained: 15528
+  streamlined: 19152
+  sustained: 5225
+scored_words:
+  scatterbrained: 179925
+  splined: 182076
+  subjoined: 142504
+not_scored_words:
+- seined
+- spavined

@@ -1,0 +1,28 @@
+---
+pattern: cov_s
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1122402
+score_per_word: 80171
+hi_scored_words:
+  covenants: 26582
+  coverages: 50154
+  coveralls: 59665
+  coverings: 27444
+  covers: 2914
+  coverts: 94598
+  coves: 58050
+  covetous: 70213
+  covetousness: 81285
+scored_words:
+  covariances: 108979
+  covens: 101420
+  coverlets: 129601
+  coverups: 158581
+  covets: 152916
+not_scored_words:
+- Coventries
+- covalences
+- covertness
+- coveys

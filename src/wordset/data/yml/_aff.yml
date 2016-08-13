@@ -1,0 +1,33 @@
+---
+pattern: _aff
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 23
+score: 1302798
+score_per_word: 93057
+hi_scored_words:
+  caff: 80584
+  chaff: 36485
+  distaff: 86912
+  flagstaff: 24596
+  gaff: 50874
+  naff: 94250
+  raff: 54259
+  staff: 887
+scored_words:
+  chiffchaff: 173571
+  daff: 141821
+  quaff: 142697
+  quarterstaff: 181974
+  riffraff: 124311
+  waitstaff: 109577
+not_scored_words:
+- Falstaff
+- decaff
+- draff
+- faff
+- overstaff
+- pikestaff
+- restaff
+- sclaff
+- tipstaff

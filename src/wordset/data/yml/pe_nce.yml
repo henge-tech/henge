@@ -1,0 +1,27 @@
+---
+pattern: pe_nce
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 17
+score: 602055
+score_per_word: 50171
+hi_scored_words:
+  penance: 28681
+  pence: 18274
+  penitence: 66318
+  perchance: 36193
+  performance: 1037
+  permanence: 31774
+  perseverance: 19878
+  persistence: 11863
+  pertinence: 80536
+  pestilence: 35655
+scored_words:
+  penetrance: 123244
+  petulance: 148602
+not_scored_words:
+- Penzance
+- percipience
+- perdurance
+- permeance
+- perpetuance

@@ -1,0 +1,34 @@
+---
+pattern: pul_s
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 24
+score: 1925121
+score_per_word: 128341
+hi_scored_words:
+  pullers: 84978
+  pulleys: 40344
+  pullovers: 90035
+  pulls: 9791
+  pulpits: 82779
+  pulps: 83594
+  puls: 84892
+  pulsars: 67339
+  pulsations: 79785
+  pulses: 16481
+scored_words:
+  pullbacks: 284294
+  pullets: 150497
+  pullouts: 308007
+  pulsates: 227394
+  pulverizes: 314911
+not_scored_words:
+- Pullmans
+- pulas
+- pulchritudinous
+- pules
+- pullulates
+- pullulations
+- pulpiness
+- pulques
+- pulvinus

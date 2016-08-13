@@ -1,0 +1,51 @@
+---
+pattern: wh_es
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 41
+score: 2465434
+score_per_word: 123271
+hi_scored_words:
+  whales: 12098
+  wharves: 54800
+  wheres: 46026
+  whiles: 67118
+  whines: 70445
+  whiskies: 65365
+  whistles: 22155
+  whites: 7445
+  wholes: 81939
+  whores: 23403
+scored_words:
+  wheelies: 101281
+  wheezes: 180876
+  wherefores: 224799
+  whimsies: 164885
+  whishes: 286052
+  whiteflies: 181966
+  whitewashes: 341122
+  whittles: 244486
+  whizzes: 142690
+  wholesales: 146483
+not_scored_words:
+- Wheaties
+- Whites
+- Whitsuntides
+- whammies
+- wharfages
+- wheedles
+- wheelbases
+- wheelhouses
+- wherries
+- whetstones
+- whiffletrees
+- whinges
+- whinnies
+- whiplashes
+- whippletrees
+- whipstitches
+- whitefishes
+- whoopees
+- whooshes
+- whorehouses
+- whortleberries

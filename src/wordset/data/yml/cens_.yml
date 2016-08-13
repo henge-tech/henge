@@ -1,0 +1,36 @@
+---
+pattern: cens_
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 26
+score: 1935593
+score_per_word: 107532
+hi_scored_words:
+  censor: 22196
+  censored: 21861
+  censoring: 44556
+  censors: 41222
+  censorship: 14545
+  censure: 25625
+  censured: 65915
+  census: 4598
+  censuses: 39903
+scored_words:
+  cense: 251498
+  censed: 291942
+  censer: 103502
+  censers: 181759
+  censorial: 162070
+  censorious: 154497
+  censurable: 202347
+  censures: 125113
+  censuring: 182444
+not_scored_words:
+- censes
+- censing
+- censoriously
+- censoriousness
+- censurer
+- censurers
+- censused
+- censusing

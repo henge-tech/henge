@@ -1,0 +1,33 @@
+---
+pattern: conc_d
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 23
+score: 1087272
+score_per_word: 67954
+hi_scored_words:
+  concatenated: 66530
+  concealed: 9304
+  conceded: 20865
+  conceited: 40346
+  conceived: 7798
+  concentrated: 6651
+  conceptualized: 63691
+  concerned: 1766
+  concerted: 22366
+  concluded: 3736
+  concocted: 55777
+  concord: 10373
+  concurred: 29546
+scored_words:
+  conciliated: 242797
+  concreted: 235352
+  concussed: 270374
+not_scored_words:
+- Concord
+- concentered
+- concertinaed
+- concertized
+- conchoid
+- concordanced
+- concretized

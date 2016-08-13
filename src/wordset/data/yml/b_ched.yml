@@ -1,0 +1,31 @@
+---
+pattern: b_ched
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 21
+score: 1136377
+score_per_word: 75758
+hi_scored_words:
+  beached: 59468
+  benched: 73143
+  bewitched: 25081
+  bitched: 91096
+  blanched: 54213
+  bleached: 31194
+  botched: 44146
+  branched: 27540
+  breached: 27388
+  broached: 74749
+  bunched: 69242
+scored_words:
+  batched: 114760
+  belched: 160934
+  besmirched: 173227
+  blotched: 110196
+not_scored_words:
+- bached
+- backstitched
+- bellyached
+- birched
+- blenched
+- brunched

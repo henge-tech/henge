@@ -1,0 +1,42 @@
+---
+pattern: weat_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 32
+score: 1583252
+score_per_word: 105550
+hi_scored_words:
+  weather: 758
+  weathercock: 80135
+  weathered: 29625
+  weathering: 35280
+  weatherly: 64493
+  weatherman: 56637
+  weatherproof: 56450
+  weathers: 47639
+  weatherstrip: 71392
+scored_words:
+  weatherboard: 179874
+  weatherization: 122563
+  weathermen: 135122
+  weatherproofing: 221766
+  weatherstripping: 143135
+  weathertight: 338383
+not_scored_words:
+- weatherboarding
+- weatherboardings
+- weatherboards
+- weathercocks
+- weatherglass
+- weatherglasses
+- weatherize
+- weatherized
+- weatherizes
+- weatherizing
+- weatherperson
+- weatherpersons
+- weatherproofed
+- weatherproofs
+- weatherstripped
+- weatherstrips
+- weatherworn

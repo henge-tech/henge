@@ -1,0 +1,34 @@
+---
+pattern: unw_d
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 24
+score: 1335955
+score_per_word: 95425
+hi_scored_words:
+  unwanted: 11632
+  unwarranted: 35020
+  unwashed: 48759
+  unwed: 64763
+  unweighted: 59640
+  unwind: 30999
+  unwound: 73924
+  unwrapped: 50447
+scored_words:
+  unwaged: 212041
+  unwatched: 188713
+  unwearied: 176424
+  unweathered: 146933
+  unwonted: 110818
+  unwounded: 125842
+not_scored_words:
+- unwarmed
+- unwarned
+- unweaned
+- unweaved
+- unweighed
+- unwilled
+- unwished
+- unwitnessed
+- unworried
+- unwrinkled

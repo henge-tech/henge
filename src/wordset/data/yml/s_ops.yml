@@ -1,0 +1,29 @@
+---
+pattern: s_ops
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 19
+score: 1292651
+score_per_word: 92332
+hi_scored_words:
+  scallops: 36860
+  scoops: 27359
+  shops: 2632
+  sops: 73213
+  stoops: 62431
+  stops: 4851
+  sweatshops: 67623
+  swoops: 96627
+scored_words:
+  shortstops: 205258
+  sloops: 138432
+  slops: 176338
+  snoops: 114428
+  snowdrops: 141217
+  sysops: 145382
+not_scored_words:
+- sharecrops
+- soursops
+- stonecrops
+- strops
+- sweetsops

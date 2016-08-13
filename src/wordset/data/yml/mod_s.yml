@@ -1,0 +1,40 @@
+---
+pattern: mod_s
+hi_scored_words_count: 18
+scored_words_count: 3
+total_words: 30
+score: 1351857
+score_per_word: 64374
+hi_scored_words:
+  modalities: 22623
+  modelers: 73782
+  models: 5146
+  modems: 17845
+  moderates: 38611
+  moderators: 5658
+  modernists: 77617
+  moderns: 68935
+  modes: 4605
+  modifications: 6648
+  modifiers: 28910
+  modifies: 28580
+  mods: 6238
+  modulates: 62803
+  modulations: 79882
+  modulators: 54682
+  modules: 4034
+  modulus: 25223
+scored_words:
+  modals: 145822
+  modernizations: 292041
+  modernizes: 302172
+not_scored_words:
+- modelings
+- moderateness
+- modernizers
+- modernness
+- modicums
+- modillions
+- modiolus
+- modishness
+- modistes

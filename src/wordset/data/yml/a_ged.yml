@@ -1,0 +1,21 @@
+---
+pattern: a_ged
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 11
+score: 336160
+score_per_word: 33616
+hi_scored_words:
+  abridged: 21014
+  acknowledged: 6232
+  adjudged: 51394
+  advantaged: 64363
+  aged: 2985
+  alleged: 5214
+  arranged: 4046
+  avenged: 21865
+  averaged: 14850
+scored_words:
+  assuaged: 144197
+not_scored_words:
+- arbitraged

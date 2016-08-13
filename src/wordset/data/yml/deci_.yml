@@ -1,0 +1,63 @@
+---
+pattern: deci_
+hi_scored_words_count: 23
+scored_words_count: 11
+total_words: 53
+score: 2879566
+score_per_word: 84693
+hi_scored_words:
+  decibel: 56816
+  decibels: 53781
+  decidable: 88205
+  decide: 2283
+  decided: 1282
+  decidedly: 17409
+  decider: 86516
+  decides: 8638
+  deciding: 7898
+  deciduous: 29384
+  decile: 70445
+  decimal: 15403
+  decimals: 38869
+  decimate: 76292
+  decimated: 47257
+  decimation: 45142
+  decipher: 26099
+  deciphered: 75691
+  deciphering: 57007
+  decision: 1114
+  decisions: 2558
+  decisive: 10655
+  decisively: 35961
+scored_words:
+  decidability: 137391
+  decidua: 139721
+  deciles: 132533
+  deciliter: 202168
+  decimates: 286943
+  decimating: 137485
+  decimeter: 214694
+  decipherable: 202747
+  decipherment: 180877
+  deciphers: 278954
+  decisiveness: 111348
+not_scored_words:
+- deciare
+- decidedness
+- deciders
+- deciduously
+- deciduousness
+- decigram
+- decigrams
+- deciliters
+- decillion
+- decillionth
+- decimalization
+- decimalize
+- decimalized
+- decimalizes
+- decimalizing
+- decimally
+- decimator
+- decimeters
+- decipherments

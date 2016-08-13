@@ -1,0 +1,42 @@
+---
+pattern: c_els
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 32
+score: 1957123
+score_per_word: 93196
+hi_scored_words:
+  camels: 24219
+  cancels: 25998
+  caramels: 91136
+  carousels: 98719
+  cartels: 50456
+  channels: 3888
+  chapels: 32332
+  chattels: 68775
+  chisels: 60926
+  citadels: 99473
+  colonels: 43640
+  compels: 42298
+  counsels: 35536
+scored_words:
+  caravels: 109531
+  carpels: 199740
+  carrels: 170716
+  cartwheels: 109210
+  cockatiels: 121923
+  corbels: 107810
+  creels: 255830
+  cudgels: 204967
+not_scored_words:
+- calomels
+- cascabels
+- chancels
+- charnels
+- cockateels
+- cockerels
+- cogwheels
+- cornels
+- crenels
+- cupels
+- cupronickels

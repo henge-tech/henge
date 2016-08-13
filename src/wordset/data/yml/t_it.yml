@@ -1,0 +1,30 @@
+---
+pattern: t_it
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 20
+score: 405447
+score_per_word: 40544
+hi_scored_words:
+  tacit: 25333
+  tidbit: 43948
+  tit: 12395
+  toolkit: 15223
+  tracksuit: 43534
+  trait: 12854
+  transit: 5300
+  transmit: 8072
+  twit: 41699
+scored_words:
+  terabit: 197089
+not_scored_words:
+- Thermit
+- Tilsit
+- Tit
+- Tlingit
+- Tobit
+- tomtit
+- torchlit
+- turbit
+- turnspit
+- twilit

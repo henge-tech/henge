@@ -1,0 +1,25 @@
+---
+pattern: im_ted
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 15
+score: 755828
+score_per_word: 53987
+hi_scored_words:
+  imbricated: 93653
+  imitated: 39440
+  immigrated: 42281
+  impacted: 14119
+  imparted: 40056
+  implanted: 23984
+  implemented: 6656
+  implicated: 21198
+  imported: 5758
+  impregnated: 35855
+  imprinted: 27502
+  imputed: 29098
+scored_words:
+  immolated: 240048
+  impersonated: 136180
+not_scored_words:
+- imprecated

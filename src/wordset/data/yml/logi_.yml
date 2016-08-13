@@ -1,0 +1,33 @@
+---
+pattern: logi_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 23
+score: 1047169
+score_per_word: 74797
+hi_scored_words:
+  logic: 3248
+  logical: 4416
+  logically: 16727
+  logician: 80080
+  login: 4018
+  logins: 43950
+  logistic: 23358
+  logistical: 23879
+  logistically: 92388
+  logistics: 10298
+scored_words:
+  logia: 163251
+  logicians: 113928
+  logistician: 261961
+  logisticians: 205667
+not_scored_words:
+- logicality
+- logicalness
+- logicalnesses
+- logicize
+- logier
+- logiest
+- loginess
+- loginesses
+- logion

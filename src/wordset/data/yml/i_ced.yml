@@ -1,0 +1,22 @@
+---
+pattern: i_ced
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 12
+score: 537118
+score_per_word: 48828
+hi_scored_words:
+  iced: 19177
+  imbalanced: 85005
+  inconvenienced: 81134
+  induced: 3723
+  inexperienced: 18694
+  influenced: 5400
+  interfaced: 73275
+  interlaced: 46683
+  introduced: 1691
+  invoiced: 71792
+scored_words:
+  instanced: 130544
+not_scored_words:
+- inced

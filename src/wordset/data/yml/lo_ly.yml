@@ -1,0 +1,39 @@
+---
+pattern: lo_ly
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 29
+score: 1424160
+score_per_word: 74955
+hi_scored_words:
+  locally: 8952
+  logically: 16727
+  logistically: 92388
+  lolly: 38366
+  lonely: 4023
+  longingly: 98751
+  longitudinally: 62766
+  loosely: 14409
+  lordly: 95212
+  loudly: 11850
+  lovely: 2319
+  lovingly: 25296
+  lowly: 24245
+  loyally: 75658
+scored_words:
+  loathly: 242509
+  loblolly: 104281
+  loftily: 224780
+  logarithmically: 138910
+  loverly: 142718
+not_scored_words:
+- loathingly
+- loathsomely
+- lonesomely
+- lopsidedly
+- loquaciously
+- lousily
+- loutishly
+- lovably
+- lovelily
+- loweringly

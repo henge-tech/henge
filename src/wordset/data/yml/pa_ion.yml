@@ -1,0 +1,33 @@
+---
+pattern: pa_ion
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 23
+score: 778143
+score_per_word: 59857
+hi_scored_words:
+  pacification: 81812
+  pagination: 47653
+  palliation: 91145
+  palpation: 72487
+  parametrization: 97505
+  participation: 4029
+  partition: 7494
+  parturition: 73998
+  passion: 2588
+  pasteurization: 86319
+  pavilion: 8282
+scored_words:
+  palpitation: 102029
+  parathion: 102802
+not_scored_words:
+- Passion
+- paction
+- palatalization
+- palmation
+- pandiculation
+- parhelion
+- particularization
+- passivization
+- patination
+- patronization

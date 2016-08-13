@@ -1,0 +1,33 @@
+---
+pattern: emot_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 23
+score: 911292
+score_per_word: 70099
+hi_scored_words:
+  emote: 64595
+  emoticon: 43511
+  emoticons: 27597
+  emotion: 5394
+  emotional: 4222
+  emotionally: 18614
+  emotionless: 94817
+  emotions: 4528
+  emotive: 40904
+scored_words:
+  emotes: 120600
+  emoting: 217226
+  emotionalism: 119959
+  emotionality: 149325
+not_scored_words:
+- emoted
+- emoter
+- emotionalities
+- emotionalize
+- emotionalized
+- emotionalizes
+- emotionalizing
+- emotively
+- emotiveness
+- emotivity

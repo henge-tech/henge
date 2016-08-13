@@ -1,0 +1,31 @@
+---
+pattern: tri_r
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 21
+score: 1332952
+score_per_word: 88863
+hi_scored_words:
+  triangular: 16007
+  trickier: 67897
+  trickster: 46731
+  tricolor: 56829
+  trier: 31253
+  trigger: 7510
+  trimester: 23704
+  trimmer: 26952
+  tripper: 69686
+scored_words:
+  tricker: 169325
+  trifler: 235490
+  trilinear: 157738
+  trimer: 146183
+  trimeter: 131498
+  triumvir: 146149
+not_scored_words:
+- Trier
+- tricksier
+- trimolecular
+- triphammer
+- trisector
+- triter

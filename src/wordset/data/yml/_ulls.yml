@@ -1,0 +1,25 @@
+---
+pattern: _ulls
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 15
+score: 980653
+score_per_word: 75434
+hi_scored_words:
+  bulls: 10378
+  gulls: 33657
+  hulls: 42272
+  mulls: 69868
+  nulls: 82975
+  pulls: 9791
+  sculls: 90188
+  seagulls: 41947
+  skulls: 22229
+scored_words:
+  culls: 100424
+  dulls: 154395
+  fulls: 210693
+  lulls: 111836
+not_scored_words:
+- numbskulls
+- numskulls

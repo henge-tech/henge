@@ -1,0 +1,21 @@
+---
+pattern: _rior
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 11
+score: 97280
+score_per_word: 10808
+hi_scored_words:
+  anterior: 12105
+  exterior: 6084
+  inferior: 8133
+  interior: 2331
+  posterior: 13867
+  prior: 2128
+  superior: 2269
+  ulterior: 45472
+  warrior: 4891
+scored_words: {}
+not_scored_words:
+- Prior
+- Superior

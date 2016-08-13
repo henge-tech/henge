@@ -1,0 +1,33 @@
+---
+pattern: bo_ds
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 23
+score: 1449863
+score_per_word: 96657
+hi_scored_words:
+  boards: 2757
+  bods: 79722
+  bodyguards: 49246
+  bollards: 82415
+  bonds: 3737
+  bookends: 47849
+  borderlands: 57684
+  boulevards: 49793
+  bounds: 8827
+  boyfriends: 29262
+scored_words:
+  boatloads: 176684
+  boatyards: 239550
+  bombards: 180492
+  boneheads: 196326
+  bottomlands: 245519
+not_scored_words:
+- boarhounds
+- bobsleds
+- bombycids
+- bondmaids
+- bovids
+- bowerbirds
+- bowheads
+- boyhoods

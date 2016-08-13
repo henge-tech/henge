@@ -1,0 +1,40 @@
+---
+pattern: deb_s
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 30
+score: 1722521
+score_per_word: 95695
+hi_scored_words:
+  debaters: 85775
+  debates: 8912
+  debentures: 41110
+  debits: 57943
+  debris: 10524
+  debs: 37934
+  debtors: 24196
+  debts: 6926
+  debuggers: 85318
+  debutantes: 82534
+  debuts: 23535
+scored_words:
+  debacles: 213542
+  debaucheries: 179431
+  debauches: 237499
+  debriefings: 181921
+  debugs: 172663
+  debunks: 101253
+  debus: 171505
+not_scored_words:
+- Debs
+- debarks
+- debars
+- debasements
+- debases
+- debauchees
+- debauchers
+- debilitates
+- debilities
+- debonairness
+- debouches
+- debriefs

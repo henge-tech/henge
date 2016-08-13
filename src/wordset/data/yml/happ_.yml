@@ -1,0 +1,22 @@
+---
+pattern: happ_
+hi_scored_words_count: 11
+scored_words_count: 0
+total_words: 12
+score: 152539
+score_per_word: 13867
+hi_scored_words:
+  happen: 1525
+  happened: 1345
+  happening: 4000
+  happenings: 18956
+  happens: 2273
+  happenstance: 85103
+  happier: 9951
+  happiest: 18114
+  happily: 7333
+  happiness: 3365
+  happy: 574
+scored_words: {}
+not_scored_words:
+- happenstances

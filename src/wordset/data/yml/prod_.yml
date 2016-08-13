@@ -1,0 +1,43 @@
+---
+pattern: prod_
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 33
+score: 1727385
+score_per_word: 63977
+hi_scored_words:
+  prod: 17761
+  prodded: 68872
+  prodding: 66050
+  prodigal: 29713
+  prodigies: 94821
+  prodigious: 31943
+  prodigy: 19023
+  prods: 45637
+  produce: 1271
+  produced: 1129
+  producer: 6510
+  producers: 8272
+  produces: 4360
+  producing: 3554
+  product: 1148
+  production: 916
+  productions: 4195
+  productive: 5832
+  productively: 51290
+  productivity: 8882
+  products: 1046
+scored_words:
+  prodigality: 213490
+  prodigals: 271670
+  prodigiously: 140903
+  prodrome: 226043
+  producible: 223650
+  productiveness: 179404
+not_scored_words:
+- prodder
+- prodemocratic
+- prodigally
+- prodigiousness
+- prodisarmament
+- prodromes

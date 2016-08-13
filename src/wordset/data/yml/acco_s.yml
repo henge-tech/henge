@@ -1,0 +1,33 @@
+---
+pattern: acco_s
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 23
+score: 916467
+score_per_word: 57279
+hi_scored_words:
+  accolades: 21227
+  accommodates: 30241
+  accommodations: 9750
+  accompanies: 18681
+  accompaniments: 56673
+  accomplices: 49021
+  accomplishes: 36476
+  accomplishments: 9663
+  accordions: 75020
+  accords: 26308
+  accountants: 21202
+  accounts: 1689
+  accoutrements: 60924
+scored_words:
+  accompanists: 192459
+  accosts: 122029
+  accouterments: 185104
+not_scored_words:
+- accompanyists
+- accordionists
+- accouchements
+- accoucheurs
+- accountableness
+- accouters
+- accoutres

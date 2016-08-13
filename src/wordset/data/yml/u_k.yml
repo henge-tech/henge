@@ -1,0 +1,34 @@
+---
+pattern: u_k
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 24
+score: 1297756
+score_per_word: 99827
+hi_scored_words:
+  unblock: 55090
+  undertook: 14951
+  unlink: 70854
+  unlock: 10444
+  unmask: 37804
+  unpack: 31318
+  unstuck: 85419
+  uptick: 99441
+scored_words:
+  uncork: 152628
+  unhook: 117633
+  unstack: 190366
+  unstick: 214946
+  upchuck: 216862
+not_scored_words:
+- UK
+- Ulyanovsk
+- Usk
+- Uzbek
+- umiak
+- uncloak
+- undertrick
+- unfrock
+- unpick
+- untuck
+- uptalk

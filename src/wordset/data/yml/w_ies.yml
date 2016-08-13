@@ -1,0 +1,44 @@
+---
+pattern: w_ies
+hi_scored_words_count: 8
+scored_words_count: 14
+total_words: 34
+score: 2620071
+score_per_word: 119094
+hi_scored_words:
+  wallabies: 56405
+  warranties: 7681
+  weeklies: 61824
+  wellies: 74564
+  whiskies: 65365
+  willies: 71479
+  wineries: 27135
+  worries: 10823
+scored_words:
+  walkies: 181958
+  wallies: 124209
+  waterlilies: 207562
+  wearies: 112891
+  wedgies: 157326
+  weenies: 102575
+  weepies: 236642
+  westerlies: 178217
+  wheelies: 101281
+  whimsies: 164885
+  whiteflies: 181966
+  woodies: 125696
+  worthies: 106991
+  wussies: 262596
+not_scored_words:
+- Wheaties
+- waggeries
+- weirdies
+- whammies
+- wherries
+- whinnies
+- whortleberries
+- wicopies
+- wienies
+- withies
+- woollies
+- wrinklies

@@ -1,0 +1,36 @@
+---
+pattern: i_ine
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 26
+score: 1694990
+score_per_word: 105936
+hi_scored_words:
+  imagine: 2023
+  incline: 19529
+  inline: 14890
+  interline: 92515
+  internecine: 93803
+  intertwine: 83618
+  intestine: 18908
+  intrauterine: 46858
+  iodine: 20716
+  isoleucine: 82297
+scored_words:
+  illumine: 127043
+  imine: 219972
+  incarnadine: 234525
+  indiscipline: 137946
+  infantine: 193280
+  intwine: 307067
+not_scored_words:
+- Igraine
+- Irvine
+- indamine
+- induline
+- inquiline
+- inshrine
+- intine
+- iridosmine
+- isocline
+- isoline

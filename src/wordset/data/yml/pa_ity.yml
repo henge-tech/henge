@@ -1,0 +1,21 @@
+---
+pattern: pa_ity
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 520643
+score_per_word: 57849
+hi_scored_words:
+  parity: 14954
+  partiality: 44085
+  particularity: 66248
+  passivity: 56448
+  patentability: 85788
+  paternity: 24990
+  pathogenicity: 57976
+  paucity: 46547
+scored_words:
+  palatability: 123607
+not_scored_words:
+- palpability
+- parochiality

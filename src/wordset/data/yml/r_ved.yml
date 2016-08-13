@@ -1,0 +1,29 @@
+---
+pattern: r_ved
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 19
+score: 1385573
+score_per_word: 81504
+hi_scored_words:
+  raved: 65894
+  received: 471
+  relieved: 9273
+  removed: 1530
+  reproved: 87859
+  reserved: 1731
+  resolved: 3553
+  retrieved: 11745
+  revived: 14796
+  revolved: 44889
+  revved: 76095
+scored_words:
+  recurved: 167548
+  relived: 112928
+  repaved: 250352
+  reprieved: 221021
+  rived: 156420
+  roved: 159468
+not_scored_words:
+- reaved
+- redissolved

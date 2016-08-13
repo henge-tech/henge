@@ -1,0 +1,34 @@
+---
+pattern: _ytic
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 24
+score: 1641990
+score_per_word: 117285
+hi_scored_words:
+  analytic: 18084
+  catalytic: 18874
+  electrolytic: 48965
+  lytic: 71817
+  paralytic: 67273
+  phagocytic: 92602
+  psychoanalytic: 32592
+  thrombolytic: 80185
+scored_words:
+  cryptanalytic: 308865
+  epiphytic: 128108
+  erythrocytic: 250689
+  hydrolytic: 113800
+  pyrolytic: 161934
+  saprophytic: 248202
+not_scored_words:
+- dialytic
+- holophytic
+- leukocytic
+- nonanalytic
+- photolytic
+- plasmolytic
+- trachytic
+- troglodytic
+- xerophytic
+- zoophytic

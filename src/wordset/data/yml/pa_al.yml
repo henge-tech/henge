@@ -1,0 +1,56 @@
+---
+pattern: pa_al
+hi_scored_words_count: 21
+scored_words_count: 8
+total_words: 46
+score: 2249009
+score_per_word: 77552
+hi_scored_words:
+  palatal: 69343
+  palatial: 59807
+  paleontological: 77946
+  papal: 19943
+  paradoxical: 35819
+  paralegal: 27859
+  paranormal: 17153
+  paraprofessional: 84425
+  parental: 8245
+  parenteral: 39736
+  parenthetical: 62386
+  parietal: 37628
+  parochial: 27724
+  paroxysmal: 73131
+  partial: 3843
+  pascal: 12626
+  paschal: 51106
+  pastoral: 10223
+  paternal: 21948
+  pathological: 20320
+  patriarchal: 28419
+scored_words:
+  paradisiacal: 303268
+  paramedical: 100662
+  parapsychological: 232566
+  parasitical: 208438
+  participial: 220648
+  passional: 125618
+  patrilineal: 121959
+  patrimonial: 146220
+not_scored_words:
+- PASCAL
+- Parsifal
+- Pascal
+- PayPal
+- pachydermal
+- paginal
+- paleographical
+- paludal
+- panegyrical
+- pantheistical
+- papistical
+- paradisaical
+- parricidal
+- patricidal
+- patrilateral
+- patrilocal
+- patristical

@@ -1,0 +1,30 @@
+---
+pattern: des_r
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1215065
+score_per_word: 93466
+hi_scored_words:
+  descriptor: 22294
+  deserter: 51974
+  designator: 53956
+  designer: 7886
+  desirer: 51370
+  despair: 8216
+  destroyer: 15942
+  destructor: 46520
+scored_words:
+  descender: 155203
+  describer: 228136
+  desiccator: 189223
+  desolator: 109275
+  destrier: 275070
+not_scored_words:
+- desalinator
+- desalter
+- desecrater
+- desecrator
+- desensitizer
+- despiser
+- despoiler

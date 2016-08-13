@@ -1,0 +1,50 @@
+---
+pattern: _tail
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 40
+score: 2255001
+score_per_word: 86730
+hi_scored_words:
+  cocktail: 13798
+  cottontail: 67583
+  curtail: 36608
+  detail: 1768
+  dovetail: 57413
+  entail: 20249
+  foxtail: 79897
+  horsetail: 90056
+  pigtail: 53327
+  pintail: 71218
+  ponytail: 45996
+  retail: 4908
+  swallowtail: 63821
+  tail: 3502
+  wagtail: 73596
+  whitetail: 55859
+  yellowtail: 82601
+scored_words:
+  blacktail: 163355
+  bobtail: 105902
+  cattail: 109036
+  fantail: 107010
+  fishtail: 105661
+  flickertail: 317141
+  oxtail: 128502
+  ringtail: 120903
+  shirttail: 275291
+not_scored_words:
+- bangtail
+- bristletail
+- broadtail
+- coattail
+- disentail
+- ducktail
+- hairtail
+- hightail
+- horntail
+- mousetail
+- springtail
+- swordtail
+- tripletail
+- ventail

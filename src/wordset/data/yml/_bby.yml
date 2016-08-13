@@ -1,0 +1,43 @@
+---
+pattern: _bby
+hi_scored_words_count: 21
+scored_words_count: 5
+total_words: 33
+score: 1722014
+score_per_word: 66231
+hi_scored_words:
+  bobby: 5431
+  cabby: 88942
+  chubby: 12047
+  crabby: 52981
+  cubby: 51892
+  dobby: 64364
+  flabby: 51132
+  gabby: 36769
+  grubby: 54121
+  hobby: 8693
+  hubby: 22636
+  knobby: 89425
+  lobby: 8107
+  nobby: 82699
+  scrubby: 88486
+  shabby: 17129
+  snobby: 72089
+  stubby: 51342
+  tabby: 38227
+  tubby: 46969
+  webby: 45160
+scored_words:
+  clubby: 111893
+  grabby: 205856
+  nubby: 183886
+  scabby: 130374
+  shrubby: 101364
+not_scored_words:
+- Abby
+- Bobby
+- Debby
+- Libby
+- Robby
+- cobwebby
+- plebby

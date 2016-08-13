@@ -1,0 +1,43 @@
+---
+pattern: _mper
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 33
+score: 2803791
+score_per_word: 107838
+hi_scored_words:
+  bumper: 12954
+  camper: 24448
+  damper: 29404
+  distemper: 63951
+  dumper: 59511
+  hamper: 20581
+  jumper: 17964
+  pamper: 34991
+  plumper: 49238
+  pumper: 58162
+  romper: 44445
+  scamper: 73636
+  stamper: 58081
+  tamper: 32442
+  temper: 9856
+  whimper: 49315
+scored_words:
+  chomper: 128106
+  crimper: 129501
+  imper: 247408
+  limper: 274642
+  lumper: 176446
+  simper: 144412
+  smokejumper: 329461
+  stumper: 203944
+  swamper: 251408
+  tramper: 279484
+not_scored_words:
+- Quimper
+- attemper
+- buckjumper
+- clamper
+- scrimper
+- shrimper
+- vamper

@@ -1,0 +1,69 @@
+---
+pattern: ban_s
+hi_scored_words_count: 19
+scored_words_count: 10
+total_words: 59
+score: 2552916
+score_per_word: 88031
+hi_scored_words:
+  bananas: 13882
+  bandages: 28805
+  bandanas: 64644
+  bandits: 23144
+  bands: 2975
+  bandwidths: 74139
+  banes: 76850
+  bangles: 35606
+  bangs: 22747
+  banjos: 52416
+  bankers: 12660
+  banknotes: 38392
+  bankruptcies: 28733
+  banks: 1823
+  banners: 9182
+  banns: 64038
+  banquets: 35553
+  bans: 16600
+  banshees: 55804
+scored_words:
+  banalities: 243735
+  bandannas: 116718
+  bandsaws: 148695
+  bandwagons: 275329
+  banishes: 152102
+  banisters: 161015
+  bankrolls: 297094
+  bankrupts: 140069
+  banquettes: 256000
+  bantams: 104166
+not_scored_words:
+- Banaras
+- Banares
+- Bangladeshis
+- Banks
+- Bantus
+- bandboxes
+- banderillas
+- banderilleros
+- bandicoots
+- bandies
+- bandleaders
+- bandmasters
+- bandoleers
+- bandoliers
+- bandstands
+- baneberries
+- bangtails
+- banians
+- banjoists
+- bankbooks
+- bankcards
+- banksias
+- bannerets
+- bannocks
+- banqueters
+- bantamweights
+- banters
+- bantings
+- banyans
+- banzais

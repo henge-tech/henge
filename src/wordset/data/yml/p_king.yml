@@ -1,0 +1,53 @@
+---
+pattern: p_king
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 43
+score: 2168919
+score_per_word: 83419
+hi_scored_words:
+  packing: 5964
+  painstaking: 37681
+  panicking: 62172
+  parking: 5777
+  partaking: 64045
+  peacemaking: 62162
+  peaking: 34441
+  pecking: 41615
+  peeking: 46789
+  picking: 5868
+  picnicking: 64745
+  planking: 94167
+  plucking: 50146
+  poking: 25416
+  policymaking: 51627
+  pricking: 84435
+  printmaking: 39553
+  provoking: 17343
+  puking: 63521
+scored_words:
+  pathbreaking: 255258
+  perking: 236539
+  phreaking: 145669
+  piggybacking: 128758
+  pinking: 207682
+  plunking: 236037
+  politicking: 101509
+not_scored_words:
+- Peking
+- pacemaking
+- paddocking
+- padlocking
+- pancaking
+- pawnbroking
+- physicking
+- piking
+- pitchforking
+- placekicking
+- plonking
+- pocking
+- pockmarking
+- postmarking
+- precooking
+- preshrinking
+- prinking

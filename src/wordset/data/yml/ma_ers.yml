@@ -1,0 +1,51 @@
+---
+pattern: ma_ers
+hi_scored_words_count: 17
+scored_words_count: 11
+total_words: 41
+score: 2330864
+score_per_word: 83245
+hi_scored_words:
+  magnifiers: 89683
+  mailers: 49350
+  maintainers: 44532
+  makeovers: 54347
+  makers: 5772
+  managers: 3634
+  maneuvers: 30761
+  mangers: 97896
+  manners: 8443
+  manufacturers: 4486
+  marauders: 53530
+  marchers: 59816
+  mariners: 15261
+  markers: 7585
+  marketers: 16271
+  masters: 2959
+  matters: 1483
+scored_words:
+  magnetometers: 146628
+  manometers: 192333
+  mapmakers: 191080
+  mappers: 130910
+  marathoners: 172528
+  marketeers: 120397
+  masers: 122810
+  mashers: 162979
+  maskers: 261994
+  matchmakers: 112867
+  maters: 170529
+not_scored_words:
+- Mainers
+- Masters
+- madders
+- maligners
+- malingerers
+- malingers
+- manglers
+- manumitters
+- masqueraders
+- maulers
+- maunders
+- mayflowers
+- mazers

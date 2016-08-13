@@ -1,0 +1,42 @@
+---
+pattern: c_ment
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 32
+score: 1404132
+score_per_word: 56165
+hi_scored_words:
+  cantonment: 64236
+  casement: 44666
+  catchment: 20128
+  cement: 8133
+  chastisement: 66537
+  clement: 22177
+  commandment: 22218
+  commencement: 8410
+  comment: 1104
+  commitment: 8470
+  compartment: 10792
+  complement: 9161
+  compliment: 9695
+  concealment: 26701
+  condiment: 47095
+  confinement: 13703
+  consignment: 28904
+  containment: 18044
+  contentment: 27654
+  curtailment: 63718
+scored_words:
+  comportment: 211451
+  concernment: 184773
+  conferment: 181068
+  copayment: 119020
+  counterargument: 186274
+not_scored_words:
+- Casement
+- Clement
+- Commandment
+- cajolement
+- cerement
+- congealment
+- counterstatement

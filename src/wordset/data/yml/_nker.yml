@@ -1,0 +1,58 @@
+---
+pattern: _nker
+hi_scored_words_count: 18
+scored_words_count: 16
+total_words: 48
+score: 4048366
+score_per_word: 119069
+hi_scored_words:
+  banker: 11553
+  blinker: 80390
+  bunker: 17525
+  canker: 51059
+  clinker: 64865
+  conker: 74279
+  drinker: 26919
+  flanker: 69357
+  hunker: 84001
+  junker: 67530
+  linker: 28219
+  pinker: 66421
+  sinker: 51672
+  stinker: 69655
+  tanker: 19720
+  thinker: 17442
+  tinker: 21362
+  wanker: 48441
+scored_words:
+  blanker: 218392
+  clunker: 167626
+  danker: 222778
+  debunker: 258515
+  drunker: 146825
+  freethinker: 100089
+  hanker: 134800
+  honker: 211056
+  plonker: 268331
+  punker: 222476
+  ranker: 152695
+  shrinker: 170182
+  spanker: 140317
+  supertanker: 288362
+  winker: 172604
+  younker: 302908
+not_scored_words:
+- Bunker
+- Dunker
+- Junker
+- dinker
+- franker
+- headshrinker
+- hoodwinker
+- lanker
+- mossbunker
+- nondrinker
+- plunker
+- prinker
+- spelunker
+- swanker

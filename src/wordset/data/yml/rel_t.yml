@@ -1,0 +1,23 @@
+---
+pattern: rel_t
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 13
+score: 1106560
+score_per_word: 92213
+hi_scored_words:
+  relaxant: 63914
+  relent: 70360
+  relevant: 5817
+  reliant: 20286
+  relict: 74858
+  relinquishment: 83131
+  relist: 90824
+  reluctant: 9789
+scored_words:
+  relativist: 123567
+  relight: 122640
+  religionist: 211120
+  reluct: 230254
+not_scored_words:
+- relucent

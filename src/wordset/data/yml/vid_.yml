@@ -1,0 +1,34 @@
+---
+pattern: vid_
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 24
+score: 2228006
+score_per_word: 117263
+hi_scored_words:
+  vide: 20956
+  video: 9857
+  videocassette: 64242
+  videoconferencing: 47508
+  videophone: 97572
+  videos: 6562
+  videotape: 19857
+  videotaped: 46783
+  videotapes: 36729
+  videotaping: 73050
+scored_words:
+  videlicet: 226041
+  videocassettes: 107618
+  videodisc: 113628
+  videodiscs: 275535
+  videoed: 221985
+  videoing: 261709
+  videophones: 248273
+  videotex: 137771
+  vidette: 212330
+not_scored_words:
+- Vida
+- Vidal
+- Vidar
+- videogenic
+- vidicon

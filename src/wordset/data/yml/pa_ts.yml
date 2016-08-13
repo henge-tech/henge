@@ -1,0 +1,56 @@
+---
+pattern: pa_ts
+hi_scored_words_count: 28
+scored_words_count: 6
+total_words: 46
+score: 2083550
+score_per_word: 61280
+hi_scored_words:
+  pacifists: 73004
+  packets: 10099
+  pacts: 62792
+  pageants: 47386
+  paints: 11463
+  paleontologists: 87165
+  pallets: 31672
+  pamphlets: 20063
+  panelists: 33243
+  pants: 6220
+  paperweights: 65182
+  papists: 97049
+  parakeets: 71920
+  parents: 977
+  parliaments: 32354
+  parrots: 24732
+  participants: 7122
+  parts: 549
+  passports: 19392
+  pasts: 66700
+  patents: 8093
+  pathologists: 37300
+  patients: 1756
+  patriots: 10503
+  pats: 27773
+  pavements: 34692
+  payments: 2303
+  payouts: 24288
+scored_words:
+  pantheists: 256512
+  pantsuits: 274745
+  parachutists: 173641
+  parapets: 120365
+  parchments: 151411
+  parfaits: 191084
+not_scored_words:
+- palimpsests
+- palmists
+- panegyrists
+- pantalets
+- pantomimists
+- pantywaists
+- paramagnets
+- parapsychologists
+- pargets
+- parodists
+- parquets
+- paternalists

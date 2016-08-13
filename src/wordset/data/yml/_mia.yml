@@ -1,0 +1,53 @@
+---
+pattern: _mia
+hi_scored_words_count: 14
+scored_words_count: 11
+total_words: 43
+score: 2577374
+score_per_word: 103094
+hi_scored_words:
+  academia: 23426
+  anemia: 17738
+  arrhythmia: 40812
+  bulimia: 35559
+  hyperglycemia: 61318
+  hyperthermia: 61045
+  hypoglycemia: 36234
+  hypothermia: 39097
+  ischemia: 27195
+  lamia: 76341
+  leukemia: 16154
+  macadamia: 49707
+  septicemia: 65504
+  uremia: 93064
+scored_words:
+  anosmia: 232517
+  azotemia: 271890
+  dysthymia: 129179
+  hyperemia: 175077
+  hypoglycaemia: 104725
+  kalmia: 182695
+  ophthalmia: 249444
+  polycythemia: 114886
+  toxemia: 118479
+  tularemia: 111217
+  zamia: 244071
+not_scored_words:
+- Bohemia
+- MIA
+- Mesopotamia
+- Mia
+- Urmia
+- adynamia
+- amimia
+- anoxemia
+- astigmia
+- cyclothymia
+- dysphemia
+- epithalamia
+- hypochromia
+- prothalmia
+- pyemia
+- schizothymia
+- skimmia
+- xerophthalmia

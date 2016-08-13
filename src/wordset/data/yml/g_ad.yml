@@ -1,0 +1,27 @@
+---
+pattern: g_ad
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 17
+score: 576224
+score_per_word: 57622
+hi_scored_words:
+  gad: 28193
+  gingerbread: 29613
+  glad: 2019
+  goad: 47576
+  godhead: 38274
+  gonad: 79217
+  grad: 14769
+  grandad: 52139
+  granddad: 65974
+scored_words:
+  greenhead: 218450
+not_scored_words:
+- Gad
+- Galahad
+- Gateshead
+- Gilead
+- Godhead
+- gilthead
+- goldthread

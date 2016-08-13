@@ -1,0 +1,42 @@
+---
+pattern: dyn_
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 32
+score: 1449537
+score_per_word: 76291
+hi_scored_words:
+  dynamic: 6805
+  dynamical: 22428
+  dynamically: 17237
+  dynamics: 13550
+  dynamism: 44584
+  dynamite: 14243
+  dynamo: 25118
+  dynamometer: 81539
+  dynamos: 90429
+  dynastic: 52748
+  dynasties: 38911
+  dynasty: 10720
+  dyne: 62343
+scored_words:
+  dynamist: 165467
+  dynamited: 242767
+  dynamometers: 195410
+  dynast: 119539
+  dynatron: 130268
+  dynes: 115431
+not_scored_words:
+- Dynel
+- dynameter
+- dynamicist
+- dynamiter
+- dynamiters
+- dynamites
+- dynamiting
+- dynamoelectric
+- dynamometry
+- dynamotor
+- dynastically
+- dynasts
+- dynode

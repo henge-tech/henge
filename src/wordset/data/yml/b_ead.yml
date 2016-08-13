@@ -1,0 +1,34 @@
+---
+pattern: b_ead
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 24
+score: 1564312
+score_per_word: 92018
+hi_scored_words:
+  beachhead: 87461
+  bead: 12135
+  bedspread: 52336
+  bedstead: 55442
+  behead: 84993
+  blockhead: 49419
+  bonehead: 76936
+  bread: 2539
+  bridgehead: 79626
+  bulkhead: 38269
+  bullhead: 55717
+scored_words:
+  baldhead: 218370
+  bedhead: 103221
+  bighead: 154056
+  blackhead: 111442
+  bowhead: 137824
+  bufflehead: 244526
+not_scored_words:
+- Birkenhead
+- barrelhead
+- beebread
+- bespread
+- bestead
+- billhead
+- blubberhead

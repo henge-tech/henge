@@ -1,0 +1,59 @@
+---
+pattern: pr_or
+hi_scored_words_count: 20
+scored_words_count: 9
+total_words: 49
+score: 2115802
+score_per_word: 72958
+hi_scored_words:
+  praetor: 93760
+  preceptor: 44527
+  precursor: 15491
+  predator: 15257
+  predecessor: 11959
+  predictor: 21162
+  prior: 2128
+  processor: 3590
+  procrastinator: 73919
+  proctor: 22599
+  procurator: 65061
+  professor: 1350
+  progenitor: 36391
+  projector: 15132
+  propagator: 71368
+  proprietor: 15591
+  prosecutor: 12595
+  prospector: 39129
+  protector: 9307
+  protractor: 66323
+scored_words:
+  precentor: 103136
+  precipitator: 168513
+  preparator: 302924
+  pressor: 113008
+  prestidigitator: 210454
+  prognosticator: 188928
+  proliferator: 152610
+  propellor: 134435
+  protestor: 105155
+not_scored_words:
+- Prior
+- Protector
+- Pryor
+- predominator
+- preemptor
+- prepositor
+- preselector
+- pretor
+- prevaricator
+- primogenitor
+- procreator
+- prohibitor
+- prolabor
+- prolocutor
+- promulgator
+- pronator
+- propitiator
+- propretor
+- proprioceptor
+- prosector

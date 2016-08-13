@@ -1,0 +1,30 @@
+---
+pattern: _face
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 20
+score: 1486247
+score_per_word: 92890
+hi_scored_words:
+  blackface: 92417
+  boldface: 59963
+  deface: 65889
+  face: 384
+  interface: 5231
+  preface: 11266
+  resurface: 66101
+  subsurface: 27483
+  surface: 1101
+  typeface: 34106
+scored_words:
+  coalface: 266363
+  efface: 108499
+  enface: 116514
+  paleface: 160111
+  reface: 243716
+  undersurface: 227103
+not_scored_words:
+- Boniface
+- dogface
+- lightface
+- outface

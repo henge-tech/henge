@@ -1,0 +1,46 @@
+---
+pattern: th_ic
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 36
+score: 1383856
+score_per_word: 72834
+hi_scored_words:
+  thalamic: 74706
+  theistic: 57847
+  thematic: 17068
+  theocratic: 63647
+  theoretic: 31624
+  therapeutic: 17021
+  thermodynamic: 29073
+  thermoelectric: 63273
+  thermoplastic: 36796
+  thermostatic: 82552
+  thoracic: 20258
+  thrombolytic: 80185
+  thrombotic: 80195
+  thymic: 76164
+scored_words:
+  theosophic: 157129
+  thermic: 108096
+  thermionic: 114034
+  thermophilic: 104693
+  thetic: 169495
+not_scored_words:
+- Theodoric
+- Thomistic
+- thalassic
+- thallic
+- thaumaturgic
+- theanthropic
+- theocentric
+- theomorphic
+- theorematic
+- therianthropic
+- theriomorphic
+- thermomagnetic
+- thermometric
+- theurgic
+- thionic
+- threnodic
+- thromboplastic

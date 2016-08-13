@@ -1,0 +1,45 @@
+---
+pattern: sick_
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 35
+score: 1731448
+score_per_word: 96191
+hi_scored_words:
+  sick: 2046
+  sicken: 91738
+  sickened: 49605
+  sickening: 30614
+  sicker: 61816
+  sickest: 65000
+  sickle: 22774
+  sickles: 86174
+  sickly: 36083
+  sickness: 7616
+  sicko: 89004
+scored_words:
+  sickbay: 129067
+  sickbed: 271127
+  sickeningly: 166139
+  sickens: 106289
+  sicknesses: 116725
+  sickos: 223561
+  sickroom: 176070
+not_scored_words:
+- Sickert
+- sickbays
+- sickbeds
+- sicked
+- sickener
+- sickie
+- sickies
+- sicking
+- sickish
+- sicklebill
+- sicklier
+- sickliest
+- sickliness
+- sickout
+- sickouts
+- sickrooms
+- sicks

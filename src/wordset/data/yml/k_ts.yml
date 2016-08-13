@@ -1,0 +1,38 @@
+---
+pattern: k_ts
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 28
+score: 2316317
+score_per_word: 136253
+hi_scored_words:
+  karats: 78735
+  karts: 41969
+  kilowatts: 71841
+  kilts: 49783
+  kits: 4475
+  knights: 5432
+  knits: 44325
+  knockouts: 75538
+  knots: 10581
+scored_words:
+  keyboardists: 288773
+  kilobits: 144009
+  kilovolts: 267069
+  kinglets: 253898
+  krafts: 266169
+  krauts: 254471
+  kumquats: 206285
+  kyats: 252964
+not_scored_words:
+- Keats
+- Knessets
+- Krauts
+- Kuznets
+- kingbolts
+- kiwifruits
+- knackwursts
+- knockabouts
+- knockwursts
+- knouts
+- kraits

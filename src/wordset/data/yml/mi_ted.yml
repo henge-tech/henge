@@ -1,0 +1,38 @@
+---
+pattern: mi_ted
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 28
+score: 2127521
+score_per_word: 118195
+hi_scored_words:
+  migrated: 22900
+  minted: 41315
+  misdirected: 58461
+  misinterpreted: 44110
+  misquoted: 90257
+  misrepresented: 37693
+  mistreated: 51418
+  mitigated: 35187
+scored_words:
+  militated: 273376
+  minuted: 191415
+  misappropriated: 111613
+  miscalculated: 101114
+  misprinted: 174509
+  misreported: 208681
+  misstated: 149662
+  misted: 172938
+  mistranslated: 217453
+  mistrusted: 145419
+not_scored_words:
+- micturated
+- milted
+- minareted
+- miniskirted
+- misconducted
+- miscounted
+- miscreated
+- misdated
+- misfitted
+- mismated

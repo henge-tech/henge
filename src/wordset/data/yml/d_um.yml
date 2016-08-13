@@ -1,0 +1,37 @@
+---
+pattern: d_um
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 27
+score: 1240024
+score_per_word: 82668
+hi_scored_words:
+  datum: 25638
+  decorum: 35874
+  delirium: 24638
+  delphinium: 85546
+  deuterium: 48447
+  dictum: 41063
+  disequilibrium: 53681
+  diverticulum: 99946
+  drum: 4383
+  duodenum: 46080
+  durum: 76417
+scored_words:
+  desideratum: 149745
+  dominium: 239265
+  dorsum: 112563
+  dysprosium: 196738
+not_scored_words:
+- decennium
+- definiendum
+- delubrum
+- dentalium
+- diaconicum
+- diazonium
+- dichasium
+- didymium
+- diluvium
+- doronicum
+- dubnium
+- dumdum

@@ -1,0 +1,45 @@
+---
+pattern: fee_
+hi_scored_words_count: 21
+scored_words_count: 8
+total_words: 35
+score: 1990731
+score_per_word: 68645
+hi_scored_words:
+  fee: 1372
+  feeble: 17834
+  feebly: 59371
+  feed: 1560
+  feedback: 5488
+  feeder: 18321
+  feeders: 26533
+  feeding: 4196
+  feedings: 64085
+  feedlot: 80100
+  feeds: 4672
+  feedstock: 57680
+  feel: 365
+  feeler: 75147
+  feelers: 93790
+  feelgood: 63776
+  feeling: 1275
+  feelings: 2592
+  feels: 2949
+  fees: 1536
+  feet: 685
+scored_words:
+  feebleness: 134913
+  feebler: 248795
+  feeblest: 140048
+  feedlots: 110609
+  feedstuff: 227620
+  feedstuffs: 148570
+  feelingly: 216864
+  feer: 179985
+not_scored_words:
+- feebleminded
+- feeblemindedness
+- feeblemindednesses
+- feedbag
+- feedbags
+- feeze

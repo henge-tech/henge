@@ -1,0 +1,35 @@
+---
+pattern: po_st
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 25
+score: 1325375
+score_per_word: 101951
+hi_scored_words:
+  podcast: 5270
+  podiatrist: 71734
+  poltergeist: 53377
+  poorest: 14445
+  populist: 32643
+  positivist: 83944
+  post: 427
+  postmodernist: 90669
+scored_words:
+  polemicist: 244092
+  politest: 131074
+  polygamist: 146288
+  polytheist: 238005
+  portraitist: 213407
+not_scored_words:
+- Post
+- pointiest
+- pointillist
+- pokiest
+- polemist
+- polyandrist
+- polygynist
+- porkiest
+- portliest
+- poshest
+- posturist
+- pottiest

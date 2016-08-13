@@ -1,0 +1,45 @@
+---
+pattern: sag_
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 35
+score: 1246420
+score_per_word: 65601
+hi_scored_words:
+  sag: 22516
+  saga: 13634
+  sagacious: 76663
+  sagacity: 55511
+  sagamore: 73687
+  sagas: 52866
+  sage: 5905
+  sagebrush: 40370
+  sager: 45079
+  sages: 28345
+  sagging: 45070
+  saggy: 36726
+  sagittal: 50031
+  sago: 42726
+  sags: 92248
+  saguaro: 74198
+scored_words:
+  sagaciously: 241123
+  sagely: 143691
+  sagged: 106031
+not_scored_words:
+- Sagamihara
+- Sagan
+- Saginaw
+- Sagitta
+- Sagittarian
+- Sagittarius
+- Sagittariuses
+- Saguache
+- Saguenay
+- Sagunto
+- sageness
+- sagest
+- saggier
+- saggiest
+- sagittate
+- saguaros

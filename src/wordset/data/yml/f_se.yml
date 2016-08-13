@@ -1,0 +1,42 @@
+---
+pattern: f_se
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 32
+score: 1256117
+score_per_word: 78507
+hi_scored_words:
+  'false': 1509
+  farmhouse: 16784
+  finesse: 27184
+  firehouse: 36180
+  footloose: 51731
+  foreclose: 57851
+  fosse: 50135
+  franchise: 6065
+  frankincense: 50580
+  fructose: 32081
+  fuse: 13063
+scored_words:
+  firebase: 219215
+  flophouse: 194717
+  fraise: 183090
+  framboise: 190449
+  freebase: 125483
+not_scored_words:
+- Faeroese
+- Farnese
+- Fosse
+- Francoise
+- farceuse
+- farinose
+- federalese
+- ferromanganese
+- filose
+- flatwise
+- flense
+- flittermouse
+- floccose
+- foliose
+- forecourse
+- foreglimpse

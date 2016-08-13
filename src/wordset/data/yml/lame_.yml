@@ -1,0 +1,42 @@
+---
+pattern: lame_
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 32
+score: 1521656
+score_per_word: 80087
+hi_scored_words:
+  lame: 8366
+  lamellar: 77544
+  lameness: 50478
+  lament: 19371
+  lamentable: 57253
+  lamentation: 51174
+  lamentations: 24274
+  lamented: 35647
+  lamenting: 52280
+  laments: 46128
+  lamer: 66592
+scored_words:
+  lamed: 132685
+  lamella: 140536
+  lamellae: 108494
+  lamely: 109277
+  lamentably: 128847
+  lamers: 145506
+  lames: 164200
+  lamest: 103004
+not_scored_words:
+- Lamentations
+- lamebrain
+- lamebrained
+- lamebrains
+- lamellas
+- lamellate
+- lamellibranch
+- lamellibranchs
+- lamellicorn
+- lamelliform
+- lamellirostral
+- lamenter
+- lamenters

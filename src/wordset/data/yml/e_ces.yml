@@ -1,0 +1,40 @@
+---
+pattern: e_ces
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 30
+score: 1751243
+score_per_word: 87562
+hi_scored_words:
+  edifices: 81033
+  embraces: 18051
+  encumbrances: 67241
+  enforces: 41588
+  enhances: 19664
+  entrances: 23946
+  equivalences: 86499
+  essences: 32353
+  evidences: 35946
+  existences: 94859
+  experiences: 2622
+  eyepieces: 67670
+scored_words:
+  earpieces: 136429
+  eminences: 250837
+  enlaces: 100466
+  entices: 114446
+  evinces: 128383
+  excrescences: 104881
+  exigences: 180211
+  extravagances: 164118
+not_scored_words:
+- educes
+- effaces
+- effervesces
+- effloresces
+- elastances
+- enounces
+- ensconces
+- evanesces
+- executrices
+- expediences

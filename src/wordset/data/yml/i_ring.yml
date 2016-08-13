@@ -1,0 +1,27 @@
+---
+pattern: i_ring
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 17
+score: 720552
+score_per_word: 60046
+hi_scored_words:
+  ignoring: 10028
+  impairing: 62744
+  imploring: 76613
+  incurring: 35223
+  inferring: 58051
+  injuring: 31754
+  inquiring: 22827
+  inspiring: 9056
+  insuring: 34272
+  interfering: 19042
+scored_words:
+  ingathering: 213678
+  innerspring: 147264
+not_scored_words:
+- immuring
+- indenturing
+- inhering
+- interring
+- inuring

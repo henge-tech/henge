@@ -1,0 +1,41 @@
+---
+pattern: a_ties
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 31
+score: 1651176
+score_per_word: 78627
+hi_scored_words:
+  abilities: 5657
+  abnormalities: 14514
+  absurdities: 60309
+  activities: 2069
+  affinities: 43626
+  ambiguities: 39242
+  amenities: 12458
+  annuities: 30400
+  antiquities: 23083
+  anxieties: 32826
+  atrocities: 19757
+  aunties: 88943
+  authorities: 2340
+scored_words:
+  acclivities: 234780
+  actualities: 136781
+  adversities: 122362
+  amnesties: 182906
+  animosities: 117175
+  asperities: 233843
+  austerities: 143796
+  availabilities: 104309
+not_scored_words:
+- absorptivities
+- adiposities
+- admirabilities
+- angioplasties
+- angularities
+- animalities
+- anteriorities
+- asininities
+- assiduities
+- autoplasties

@@ -1,0 +1,31 @@
+---
+pattern: thir_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 21
+score: 644334
+score_per_word: 49564
+hi_scored_words:
+  third: 516
+  thirdly: 25011
+  thirds: 11284
+  thirst: 12531
+  thirsty: 18142
+  thirteen: 7635
+  thirteenth: 19102
+  thirties: 36506
+  thirtieth: 46886
+  thirty: 2734
+scored_words:
+  thirsted: 205458
+  thirsting: 102172
+  thirsts: 156357
+not_scored_words:
+- thirlage
+- thirstier
+- thirstiest
+- thirstily
+- thirstiness
+- thirteens
+- thirteenths
+- thirtieths

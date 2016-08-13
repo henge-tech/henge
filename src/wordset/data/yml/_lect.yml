@@ -1,0 +1,29 @@
+---
+pattern: _lect
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 19
+score: 1268420
+score_per_word: 79276
+hi_scored_words:
+  collect: 3383
+  deflect: 39841
+  deselect: 69079
+  dialect: 14222
+  elect: 6358
+  intellect: 10763
+  lect: 52020
+  neglect: 6714
+  recollect: 33420
+  reflect: 2965
+  select: 1805
+scored_words:
+  genuflect: 164203
+  inflect: 142110
+  preselect: 278591
+  reelect: 181353
+  reselect: 261593
+not_scored_words:
+- complect
+- idiolect
+- prelect

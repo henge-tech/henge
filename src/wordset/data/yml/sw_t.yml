@@ -1,0 +1,38 @@
+---
+pattern: sw_t
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 28
+score: 640762
+score_per_word: 45768
+hi_scored_words:
+  swart: 64531
+  swat: 19612
+  sweat: 6669
+  sweatshirt: 12879
+  sweet: 1214
+  sweetest: 16023
+  sweetheart: 11147
+  swept: 9706
+  swift: 4918
+  swimsuit: 18255
+  swot: 48551
+scored_words:
+  sweatsuit: 169790
+  sweetmeat: 112249
+  swiftest: 145218
+not_scored_words:
+- SWAT
+- Swat
+- Sweet
+- Swift
+- swampiest
+- swankest
+- swankiest
+- swarthiest
+- sweatiest
+- swellest
+- swiftlet
+- swishest
+- swivet
+- swordcraft

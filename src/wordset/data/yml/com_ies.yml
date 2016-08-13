@@ -1,0 +1,27 @@
+---
+pattern: com_ies
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 644187
+score_per_word: 49552
+hi_scored_words:
+  comedies: 18048
+  commentaries: 15776
+  commies: 69678
+  commodities: 7500
+  commonalities: 67318
+  communities: 2789
+  companies: 1431
+  competencies: 14938
+  complexities: 25327
+  complies: 26063
+scored_words:
+  commissaries: 134400
+  compatibilities: 121092
+  complementarities: 139827
+not_scored_words:
+- compliancies
+- compressibilities
+- compulsories
+- comraderies

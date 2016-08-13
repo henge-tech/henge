@@ -1,0 +1,31 @@
+---
+pattern: w_hes
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 21
+score: 1816318
+score_per_word: 121087
+hi_scored_words:
+  washes: 24783
+  watches: 3724
+  wenches: 98491
+  winches: 48284
+  wishes: 3327
+  witches: 14654
+  wrenches: 39219
+  wretches: 83842
+  wristwatches: 66495
+scored_words:
+  whishes: 286052
+  whitewashes: 341122
+  withes: 222191
+  workbenches: 122641
+  wreathes: 269062
+  writhes: 192431
+not_scored_words:
+- weakfishes
+- welshes
+- whiplashes
+- whipstitches
+- whitefishes
+- whooshes

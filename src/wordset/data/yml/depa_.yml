@@ -1,0 +1,27 @@
+---
+pattern: depa_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 17
+score: 645219
+score_per_word: 58656
+hi_scored_words:
+  depart: 6892
+  departed: 9865
+  departing: 13337
+  department: 1112
+  departmental: 15624
+  departments: 3131
+  departs: 26426
+  departure: 3435
+  departures: 21513
+scored_words:
+  departmentalized: 262321
+  departmentally: 281563
+not_scored_words:
+- departee
+- departmentalism
+- departmentalization
+- departmentalize
+- departmentalizes
+- departmentalizing

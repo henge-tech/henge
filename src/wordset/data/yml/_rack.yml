@@ -1,0 +1,32 @@
+---
+pattern: _rack
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1191678
+score_per_word: 79445
+hi_scored_words:
+  arrack: 80541
+  backtrack: 51227
+  barrack: 42247
+  crack: 3561
+  racetrack: 32529
+  rack: 5501
+  soundtrack: 5104
+  tamarack: 62327
+  track: 1096
+  wrack: 86250
+scored_words:
+  carrack: 176543
+  frack: 184275
+  gimcrack: 146057
+  sidetrack: 100429
+  wisecrack: 213991
+not_scored_words:
+- Barack
+- bookrack
+- coatrack
+- halftrack
+- hayrack
+- offtrack
+- rickrack

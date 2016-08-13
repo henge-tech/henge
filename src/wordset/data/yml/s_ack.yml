@@ -1,0 +1,37 @@
+---
+pattern: s_ack
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 27
+score: 1276554
+score_per_word: 70919
+hi_scored_words:
+  sack: 9279
+  saddleback: 66859
+  setback: 20101
+  shack: 14067
+  skipjack: 88072
+  slack: 13226
+  smack: 15493
+  smokestack: 80047
+  snack: 18068
+  soundtrack: 5104
+  stack: 7032
+  switchback: 89631
+scored_words:
+  sidetrack: 100429
+  slingback: 199734
+  snapback: 104203
+  softback: 185935
+  stickleback: 109049
+  swayback: 150225
+not_scored_words:
+- shellback
+- shoeblack
+- skewback
+- skyjack
+- slapjack
+- steeplejack
+- supplejack
+- sweepback
+- sweptback

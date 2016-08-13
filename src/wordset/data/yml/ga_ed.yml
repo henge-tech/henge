@@ -1,0 +1,58 @@
+---
+pattern: ga_ed
+hi_scored_words_count: 18
+scored_words_count: 11
+total_words: 48
+score: 2864642
+score_per_word: 98780
+hi_scored_words:
+  gabled: 95665
+  gagged: 22922
+  gained: 3407
+  galloped: 82841
+  galvanized: 32886
+  gambled: 66277
+  gamed: 93403
+  gaped: 99504
+  garbled: 55255
+  garnered: 27740
+  garnished: 56990
+  gasped: 23630
+  gassed: 63233
+  gated: 22222
+  gathered: 3646
+  gauged: 58991
+  gazed: 21497
+  gazetted: 69551
+scored_words:
+  gaited: 116835
+  galled: 172693
+  galleried: 246329
+  ganged: 111286
+  garaged: 184861
+  garbed: 148552
+  gardened: 269824
+  garlanded: 200482
+  garrisoned: 116874
+  gashed: 159382
+  gawked: 237864
+not_scored_words:
+- gabbed
+- gabbled
+- gadded
+- gaffed
+- gallivanted
+- galumphed
+- gamboled
+- gangrened
+- gargled
+- gargoyled
+- garnisheed
+- garotted
+- garroted
+- garrotted
+- gasconaded
+- gasified
+- gatecrashed
+- gawped
+- gazumped

@@ -1,0 +1,30 @@
+---
+pattern: epid_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 911200
+score_per_word: 70092
+hi_scored_words:
+  epidemic: 11320
+  epidemics: 31221
+  epidemiological: 26567
+  epidemiologist: 76367
+  epidemiologists: 91192
+  epidemiology: 11070
+  epidermal: 33259
+  epidermis: 38895
+  epididymis: 76730
+  epidural: 36167
+scored_words:
+  epidermoid: 160130
+  epidote: 129802
+  epidurals: 188480
+not_scored_words:
+- Epidaurus
+- epideictic
+- epidemically
+- epidermic
+- epidermises
+- epidiascope
+- epidiascopes

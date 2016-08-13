@@ -1,0 +1,40 @@
+---
+pattern: e_p
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 30
+score: 1050538
+score_per_word: 87544
+hi_scored_words:
+  eavesdrop: 61093
+  editorship: 81061
+  entrap: 82857
+  entrepreneurship: 13093
+  envelop: 55573
+  equip: 13963
+  esp: 8807
+  exp: 5278
+scored_words:
+  eggcup: 200806
+  encamp: 105051
+  estop: 248344
+  eyecup: 174612
+not_scored_words:
+- EDP
+- EP
+- ESP
+- Earp
+- Emp
+- Ep
+- Ethiop
+- eardrop
+- earflap
+- earlap
+- enclasp
+- endocarp
+- enwrap
+- epicarp
+- escallop
+- escarp
+- executorship
+- exocarp

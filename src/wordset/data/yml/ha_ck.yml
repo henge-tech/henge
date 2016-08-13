@@ -1,0 +1,31 @@
+---
+pattern: ha_ck
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 21
+score: 1745352
+score_per_word: 109084
+hi_scored_words:
+  hack: 8138
+  haddock: 36444
+  halfback: 73054
+  hammock: 18950
+  hardback: 19343
+  hatchback: 21958
+  havelock: 46229
+  haystack: 40644
+scored_words:
+  halterneck: 155825
+  hammerlock: 247626
+  handpick: 248605
+  hardtack: 209875
+  hassock: 133126
+  haversack: 179959
+  haycock: 128560
+  hayrick: 177016
+not_scored_words:
+- Hancock
+- halftrack
+- hardhack
+- hatcheck
+- hayrack

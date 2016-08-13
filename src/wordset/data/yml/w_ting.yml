@@ -1,0 +1,32 @@
+---
+pattern: w_ting
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 22
+score: 1472030
+score_per_word: 81779
+hi_scored_words:
+  wafting: 92345
+  wainscoting: 96058
+  waiting: 1259
+  wanting: 4100
+  warranting: 93920
+  wasting: 9032
+  webcasting: 64824
+  weighting: 21743
+  weightlifting: 33683
+  wetting: 26942
+  whiting: 26638
+  wilting: 82350
+  wresting: 86504
+  writing: 629
+scored_words:
+  westing: 205468
+  whetting: 258701
+  witting: 186303
+  woodcutting: 181531
+not_scored_words:
+- wainscotting
+- welting
+- wildcatting
+- worsting

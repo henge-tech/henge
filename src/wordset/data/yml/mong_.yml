@@ -1,0 +1,39 @@
+---
+pattern: mong_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 29
+score: 980816
+score_per_word: 81734
+hi_scored_words:
+  mong: 43469
+  monger: 56926
+  mongering: 54292
+  mongers: 66599
+  mongo: 59859
+  mongol: 33841
+  mongols: 49291
+  mongoose: 30536
+  mongrel: 46644
+scored_words:
+  mongoloid: 123618
+  mongooses: 281720
+  mongrels: 134021
+not_scored_words:
+- Mongol
+- Mongolia
+- Mongolian
+- Mongolians
+- Mongolic
+- Mongolism
+- Mongoloid
+- Mongols
+- mongered
+- mongoes
+- mongolism
+- mongoloids
+- mongos
+- mongrelize
+- mongrelized
+- mongrelizes
+- mongrelizing

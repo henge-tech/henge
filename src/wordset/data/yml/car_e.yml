@@ -1,0 +1,82 @@
+---
+pattern: car_e
+hi_scored_words_count: 23
+scored_words_count: 12
+total_words: 72
+score: 3058115
+score_per_word: 87374
+hi_scored_words:
+  carafe: 57703
+  carapace: 64507
+  caravelle: 74051
+  carbide: 21406
+  carbine: 32608
+  carbohydrate: 15906
+  carbonate: 16339
+  carboxylase: 72466
+  carboxylate: 87343
+  carbuncle: 84962
+  care: 212
+  carefree: 36212
+  caricature: 23739
+  carmine: 33933
+  carnage: 21520
+  carnivore: 41218
+  carotene: 37869
+  carriage: 5646
+  carte: 16914
+  cartilage: 20484
+  cartouche: 49735
+  cartridge: 8999
+  carve: 20268
+scored_words:
+  caramelize: 292075
+  carbamate: 107346
+  carbazole: 266007
+  cardie: 289859
+  carinate: 168789
+  carline: 167280
+  carminative: 248854
+  carnie: 120258
+  carouse: 185739
+  carronade: 107537
+  carse: 145410
+  cartage: 114921
+not_scored_words:
+- CARE
+- Carcassonne
+- Cardiganshire
+- Carlene
+- Carlisle
+- Carlyle
+- Carmarthenshire
+- Carmelite
+- Carmine
+- Carne
+- Carnegie
+- Carole
+- Caroline
+- Carrie
+- Carte
+- Carthage
+- carabiniere
+- caracole
+- carbamidine
+- carbolize
+- carbonize
+- carburize
+- carbylamine
+- cardinalate
+- caressive
+- carfare
+- cariole
+- carmagnole
+- carnallite
+- carnotite
+- caroche
+- carpophore
+- carpospore
+- carriole
+- cartelize
+- carthorse
+- caruncle

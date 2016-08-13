@@ -1,0 +1,38 @@
+---
+pattern: _rger
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 28
+score: 819657
+score_per_word: 63050
+hi_scored_words:
+  burger: 13918
+  charger: 6861
+  cheeseburger: 41545
+  enlarger: 69482
+  forger: 68455
+  hamburger: 24468
+  larger: 1086
+  merger: 10266
+  supercharger: 49436
+  turbocharger: 68665
+  verger: 82996
+scored_words:
+  purger: 270761
+  recharger: 111718
+not_scored_words:
+- Asperger
+- Berger
+- Burger
+- Hamburger
+- Johannisberger
+- Limburger
+- Luxembourger
+- beefburger
+- chiliburger
+- scourger
+- sparger
+- turbosupercharger
+- urger
+- vegeburger
+- veggieburger

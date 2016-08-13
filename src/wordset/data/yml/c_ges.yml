@@ -1,0 +1,43 @@
+---
+pattern: c_ges
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 33
+score: 1611392
+score_per_word: 80569
+hi_scored_words:
+  cabbages: 65876
+  cages: 17139
+  carriages: 19874
+  cartridges: 8616
+  centrifuges: 68218
+  challenges: 5596
+  changes: 805
+  charges: 2109
+  cleavages: 93787
+  collages: 44786
+  colleges: 4268
+  converges: 38345
+  cottages: 14393
+  coverages: 50154
+scored_words:
+  camouflages: 290815
+  cartilages: 149036
+  coinages: 267475
+  concierges: 173397
+  corsages: 133090
+  cringes: 163613
+not_scored_words:
+- cabotages
+- cadges
+- cellarages
+- citranges
+- clientages
+- coccyges
+- commonages
+- constringes
+- corkages
+- corteges
+- cortèges
+- counterchanges
+- cowages

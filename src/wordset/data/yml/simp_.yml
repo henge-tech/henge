@@ -1,0 +1,43 @@
+---
+pattern: simp_
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 33
+score: 2060628
+score_per_word: 85859
+hi_scored_words:
+  simp: 39660
+  simple: 582
+  simpler: 9222
+  simplest: 11429
+  simpleton: 55238
+  simplex: 21651
+  simplicity: 6430
+  simplification: 25157
+  simplifications: 69855
+  simplified: 11259
+  simplifies: 25974
+  simplify: 15276
+  simplifying: 34134
+  simplistic: 22219
+  simply: 778
+scored_words:
+  simpatico: 138033
+  simper: 144412
+  simpered: 230369
+  simpering: 164884
+  simpleminded: 231381
+  simpletons: 165244
+  simplicities: 245637
+  simplifier: 219525
+  simplistically: 172279
+not_scored_words:
+- Simpson
+- Simpsons
+- simperer
+- simperingly
+- simpers
+- simpleness
+- simplexes
+- simplicidentate
+- simplism

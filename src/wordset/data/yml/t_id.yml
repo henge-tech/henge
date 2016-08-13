@@ -1,0 +1,40 @@
+---
+pattern: t_id
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 30
+score: 1487845
+score_per_word: 87520
+hi_scored_words:
+  tabloid: 24412
+  tepid: 46510
+  thyroid: 15377
+  timid: 24049
+  torrid: 44690
+  toxoid: 91248
+  trapezoid: 61666
+  tricuspid: 82160
+  turbid: 58829
+  turgid: 81288
+  typhoid: 30086
+scored_words:
+  tetraploid: 126049
+  toroid: 135302
+  torpid: 115015
+  trifid: 295666
+  triploid: 140563
+  tumid: 114935
+not_scored_words:
+- Thebaid
+- Timurid
+- tabanid
+- teratoid
+- therapsid
+- theroid
+- tineid
+- tortricid
+- tracheid
+- translucid
+- triacid
+- trichoid
+- triffid

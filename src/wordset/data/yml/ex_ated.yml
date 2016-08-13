@@ -1,0 +1,38 @@
+---
+pattern: ex_ated
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 28
+score: 2540987
+score_per_word: 120999
+hi_scored_words:
+  exacerbated: 28523
+  exaggerated: 14013
+  exasperated: 39256
+  excavated: 27769
+  excommunicated: 64659
+  exonerated: 50036
+  expropriated: 76441
+  exterminated: 61863
+  extirpated: 90222
+  extrapolated: 47092
+scored_words:
+  excoriated: 163867
+  execrated: 149524
+  exfoliated: 196757
+  exhilarated: 110550
+  expatiated: 146136
+  expatriated: 286529
+  expiated: 236518
+  explicated: 132934
+  expostulated: 246577
+  expurgated: 234930
+  extricated: 136791
+not_scored_words:
+- excogitated
+- excruciated
+- exculpated
+- expectorated
+- extenuated
+- extravasated
+- exuviated

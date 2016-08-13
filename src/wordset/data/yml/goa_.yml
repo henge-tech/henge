@@ -1,0 +1,46 @@
+---
+pattern: goa_
+hi_scored_words_count: 15
+scored_words_count: 12
+total_words: 36
+score: 2602997
+score_per_word: 96407
+hi_scored_words:
+  goa: 13376
+  goad: 47576
+  goal: 2165
+  goalie: 19562
+  goalies: 52212
+  goalkeeper: 23142
+  goalkeepers: 70437
+  goalkeeping: 75565
+  goalposts: 92776
+  goals: 2154
+  goaltender: 41721
+  goaltenders: 76010
+  goat: 9973
+  goatee: 56467
+  goats: 12580
+scored_words:
+  goaded: 104783
+  goading: 121241
+  goads: 137327
+  goalless: 129047
+  goalmouth: 251665
+  goalpost: 185120
+  goalscorer: 104493
+  goalscorers: 120195
+  goatees: 299015
+  goatfish: 270121
+  goatherd: 150416
+  goatskin: 133858
+not_scored_words:
+- Goa
+- goalmouths
+- goatherds
+- goatish
+- goatsbeard
+- goatsbeards
+- goatskins
+- goatsucker
+- goatsuckers

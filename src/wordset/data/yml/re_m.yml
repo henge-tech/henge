@@ -1,0 +1,51 @@
+---
+pattern: re_m
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 41
+score: 1376024
+score_per_word: 55040
+hi_scored_words:
+  reaffirm: 43812
+  realism: 12476
+  realm: 5780
+  ream: 40130
+  recidivism: 46668
+  reclaim: 19365
+  rectum: 29632
+  redeem: 7625
+  reductionism: 84866
+  referendum: 16804
+  reform: 2723
+  regionalism: 46990
+  relativism: 40699
+  rem: 15798
+  reprogram: 78415
+  republicanism: 61464
+  requiem: 23860
+  restroom: 26881
+  reticulum: 37590
+  revisionism: 69266
+scored_words:
+  rearm: 112448
+  reconfirm: 105248
+  reformism: 173905
+  residuum: 123825
+  revivalism: 149754
+not_scored_words:
+- REM
+- Reconstructionism
+- Republicanism
+- Requiem
+- Reticulum
+- rebaptism
+- refilm
+- religionism
+- representationalism
+- responsum
+- resurrectionism
+- retiform
+- retronym
+- revanchism
+- revolutionism
+- rewarm

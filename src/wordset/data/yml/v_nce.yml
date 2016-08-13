@@ -1,0 +1,29 @@
+---
+pattern: v_nce
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 19
+score: 193651
+score_per_word: 24206
+hi_scored_words:
+  valance: 33861
+  valence: 28405
+  variance: 8547
+  vehemence: 53568
+  vengeance: 9452
+  vigilance: 20778
+  violence: 1845
+  virulence: 37195
+scored_words: {}
+not_scored_words:
+- Valence
+- Vance
+- Vince
+- valiance
+- vaporescence
+- virescence
+- viridescence
+- vitrescence
+- vociferance
+- voidance
+- vraisemblance

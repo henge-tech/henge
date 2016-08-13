@@ -1,0 +1,28 @@
+---
+pattern: magi_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 18
+score: 821683
+score_per_word: 63206
+hi_scored_words:
+  magi: 32443
+  magic: 1794
+  magical: 6851
+  magically: 27430
+  magician: 12881
+  magicians: 28466
+  magics: 98234
+  magisterial: 61140
+  magistracy: 85159
+  magistrate: 12337
+  magistrates: 15434
+scored_words:
+  magisterially: 211830
+  magistral: 227684
+not_scored_words:
+- Magi
+- Maginot
+- magicked
+- magicking
+- magistery

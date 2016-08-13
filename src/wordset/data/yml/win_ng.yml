@@ -1,0 +1,25 @@
+---
+pattern: win_ng
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 935698
+score_per_word: 77974
+hi_scored_words:
+  winding: 9282
+  windowing: 73291
+  windsurfing: 30788
+  winging: 79912
+  wining: 44556
+  winking: 51145
+  winning: 2417
+  wintering: 50471
+scored_words:
+  winching: 180783
+  wincing: 107760
+  winnowing: 116190
+  winterizing: 189103
+not_scored_words:
+- windmilling
+- wingding
+- winkling

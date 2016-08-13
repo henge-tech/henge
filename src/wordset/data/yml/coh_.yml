@@ -1,0 +1,44 @@
+---
+pattern: coh_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 34
+score: 2248087
+score_per_word: 112404
+hi_scored_words:
+  cohabitation: 45612
+  cohabiting: 76692
+  coherence: 19470
+  coherency: 86481
+  coherent: 12621
+  coherently: 67376
+  cohesion: 20150
+  cohesive: 23205
+  cohesiveness: 71081
+  coho: 43177
+  cohort: 19698
+  cohorts: 30016
+  cohosh: 85675
+scored_words:
+  cohabit: 132350
+  cohabitant: 331413
+  cohabitants: 304796
+  cohabited: 229418
+  cohere: 142560
+  cohesively: 219142
+  cohost: 287154
+not_scored_words:
+- Cohan
+- Cohen
+- cohabiter
+- cohabits
+- coheir
+- coheirs
+- cohered
+- coheres
+- cohering
+- cohobate
+- cohos
+- cohoshes
+- cohune
+- cohunes

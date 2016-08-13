@@ -1,0 +1,64 @@
+---
+pattern: _rum
+hi_scored_words_count: 26
+scored_words_count: 14
+total_words: 54
+score: 3584256
+score_per_word: 89606
+hi_scored_words:
+  antiserum: 61989
+  arum: 74075
+  aurum: 80422
+  centrum: 33619
+  cerebrum: 74161
+  colostrum: 56000
+  conundrum: 37069
+  decorum: 35874
+  drum: 4383
+  durum: 76417
+  eardrum: 66577
+  forum: 4402
+  fulcrum: 38969
+  humdrum: 67014
+  ngultrum: 53409
+  nostrum: 68211
+  quorum: 19422
+  rostrum: 77349
+  rum: 13917
+  sacrum: 68719
+  scrum: 32319
+  serum: 16438
+  simulacrum: 99775
+  spectrum: 7498
+  strum: 51360
+  tantrum: 40121
+scored_words:
+  antrum: 102580
+  asarum: 280646
+  candelabrum: 207516
+  cuprum: 340774
+  electrum: 107638
+  grum: 202543
+  kettledrum: 127608
+  labarum: 170170
+  labrum: 111129
+  lustrum: 107177
+  plectrum: 120297
+  pyrethrum: 130185
+  thrum: 156545
+  variorum: 159939
+not_scored_words:
+- Erzurum
+- Karakorum
+- Trivandrum
+- ambulacrum
+- chetrum
+- cockalorum
+- delubrum
+- estrum
+- hydrargyrum
+- indecorum
+- involucrum
+- jorum
+- larum
+- panjandrum

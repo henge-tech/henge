@@ -1,0 +1,36 @@
+---
+pattern: gen_e
+hi_scored_words_count: 16
+scored_words_count: 1
+total_words: 26
+score: 602842
+score_per_word: 35461
+hi_scored_words:
+  gendarme: 71627
+  gendarmerie: 80365
+  gene: 8116
+  generalize: 32982
+  generate: 7801
+  generative: 35666
+  geniculate: 86367
+  genie: 16712
+  genitive: 52774
+  genocide: 15644
+  genome: 12864
+  genotype: 26067
+  genre: 5965
+  gentile: 26245
+  gentle: 4184
+  genuine: 3348
+scored_words:
+  generalizable: 116115
+not_scored_words:
+- Gene
+- Genevese
+- Genevieve
+- Genoese
+- Genovese
+- genappe
+- genealogize
+- generable
+- gentilesse

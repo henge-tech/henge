@@ -1,0 +1,32 @@
+---
+pattern: mo_ls
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 22
+score: 1815337
+score_per_word: 106784
+hi_scored_words:
+  models: 5146
+  moguls: 61171
+  mongols: 49291
+  morals: 12570
+  morsels: 65049
+  mortals: 27691
+  motels: 16432
+  mouthfuls: 61347
+scored_words:
+  modals: 145822
+  molehills: 254891
+  molls: 271473
+  mols: 116995
+  mongrels: 134021
+  monomials: 152060
+  monorails: 188910
+  morels: 118040
+  mothballs: 134428
+not_scored_words:
+- Moghuls
+- Moguls
+- Mongols
+- moils
+- monolinguals

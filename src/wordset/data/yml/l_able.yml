@@ -1,0 +1,32 @@
+---
+pattern: l_able
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1661965
+score_per_word: 103872
+hi_scored_words:
+  lamentable: 57253
+  laudable: 40049
+  laughable: 30278
+  liable: 4367
+  likable: 39222
+  likeable: 39875
+  listenable: 93307
+  livable: 45504
+  loadable: 98269
+  lockable: 64260
+  lovable: 25151
+scored_words:
+  leviable: 280520
+  licensable: 179326
+  linkable: 152443
+  loanable: 260391
+  locatable: 251750
+not_scored_words:
+- laminable
+- liftable
+- limitable
+- liquefiable
+- litigable
+- losable

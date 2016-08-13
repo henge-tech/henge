@@ -1,0 +1,23 @@
+---
+pattern: d_ved
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 13
+score: 452460
+score_per_word: 37705
+hi_scored_words:
+  deceived: 16525
+  delved: 79372
+  depraved: 36197
+  deprived: 9661
+  derived: 2675
+  deserved: 9175
+  devolved: 30404
+  disapproved: 37779
+  disproved: 65001
+  dissolved: 8561
+  dived: 36800
+scored_words:
+  disbelieved: 120310
+not_scored_words:
+- decurved

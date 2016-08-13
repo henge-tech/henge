@@ -1,0 +1,31 @@
+---
+pattern: _ools
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 21
+score: 1070623
+score_per_word: 71374
+hi_scored_words:
+  cools: 32542
+  drools: 87248
+  fools: 7922
+  pools: 7234
+  preschools: 51426
+  schools: 968
+  spools: 56425
+  stools: 17503
+  tools: 1810
+  whirlpools: 62958
+  wools: 97985
+scored_words:
+  carpools: 160017
+  cesspools: 190807
+  footstools: 145514
+  toadstools: 150264
+not_scored_words:
+- befools
+- campstools
+- linalools
+- playschools
+- retools
+- tomfools

@@ -1,0 +1,21 @@
+---
+pattern: st_ning
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 591009
+score_per_word: 59100
+hi_scored_words:
+  staining: 21695
+  stiffening: 64977
+  stoning: 57023
+  straightening: 35069
+  straining: 28035
+  streamlining: 32437
+  strengthening: 9017
+  stunning: 7520
+scored_words:
+  stationing: 104843
+  steepening: 230393
+not_scored_words:
+- straitening

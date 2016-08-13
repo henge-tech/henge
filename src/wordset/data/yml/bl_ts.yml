@@ -1,0 +1,35 @@
+---
+pattern: bl_ts
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 25
+score: 1661482
+score_per_word: 110765
+hi_scored_words:
+  blacklists: 96575
+  blackouts: 45498
+  blankets: 8022
+  blasts: 19216
+  blots: 49524
+  blowouts: 66829
+  blueprints: 25387
+  blunts: 41933
+scored_words:
+  blackcurrants: 248501
+  blackhearts: 191097
+  blandishments: 182644
+  bleats: 151013
+  blights: 164784
+  bluebonnets: 214625
+  blurts: 155834
+not_scored_words:
+- BLTs
+- bladderworts
+- blats
+- blivets
+- bloats
+- bloodroots
+- bloodsports
+- bluejackets
+- bluepoints
+- bluets

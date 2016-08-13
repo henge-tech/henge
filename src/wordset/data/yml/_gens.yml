@@ -1,0 +1,30 @@
+---
+pattern: _gens
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 1035334
+score_per_word: 86277
+hi_scored_words:
+  allergens: 40048
+  antigens: 15535
+  carcinogens: 40128
+  estrogens: 41447
+  gens: 34114
+  hallucinogens: 67593
+  halogens: 96101
+  mutagens: 95866
+  pathogens: 18185
+scored_words:
+  collagens: 179370
+  morgens: 212634
+  teratogens: 194313
+not_scored_words:
+- Huygens
+- acrogens
+- agglutinogens
+- cryogens
+- cyanogens
+- fibrinogens
+- roentgens
+- smidgens

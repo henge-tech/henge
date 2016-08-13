@@ -1,0 +1,47 @@
+---
+pattern: ign_
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 37
+score: 2245521
+score_per_word: 86366
+hi_scored_words:
+  ign: 9405
+  igneous: 36611
+  ignite: 27851
+  ignited: 35260
+  igniter: 93468
+  ignites: 61937
+  igniting: 60105
+  ignition: 18116
+  ignoble: 60706
+  ignominious: 74605
+  ignominy: 84598
+  ignoramus: 88460
+  ignorance: 6226
+  ignorant: 7180
+  ignore: 4491
+  ignored: 7802
+  ignores: 19026
+  ignoring: 10028
+scored_words:
+  ignitable: 208531
+  igniters: 203381
+  ignitions: 175302
+  ignobly: 214173
+  ignominiously: 183191
+  ignorable: 189357
+  ignoramuses: 258165
+  ignorantly: 107546
+not_scored_words:
+- Ignacio
+- Ignatius
+- ignescent
+- ignitron
+- ignobility
+- ignobleness
+- ignoblenesses
+- ignominies
+- ignominiousness
+- ignominiousnesses
+- ignorer

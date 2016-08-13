@@ -1,0 +1,30 @@
+---
+pattern: co_der
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 1164148
+score_per_word: 97012
+hi_scored_words:
+  coder: 29945
+  colander: 69031
+  colder: 16179
+  collider: 42499
+  commander: 3591
+  consider: 956
+  contender: 20713
+  corder: 81098
+  coriander: 29886
+scored_words:
+  compounder: 274564
+  confounder: 306893
+  copyholder: 288793
+not_scored_words:
+- Commander
+- coldshoulder
+- colluder
+- commender
+- compander
+- conceder
+- confider
+- copyreader

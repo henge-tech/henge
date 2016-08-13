@@ -1,0 +1,29 @@
+---
+pattern: au_r
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 19
+score: 642721
+score_per_word: 58429
+hi_scored_words:
+  auctioneer: 23598
+  auditor: 12270
+  auger: 34753
+  augur: 65247
+  auricular: 69797
+  auteur: 38073
+  authenticator: 54369
+  author: 510
+  automaker: 58818
+scored_words:
+  audiometer: 167956
+  augmenter: 117330
+not_scored_words:
+- Auer
+- Auster
+- auguster
+- aurar
+- austerer
+- autobiographer
+- autotransformer
+- autoworker

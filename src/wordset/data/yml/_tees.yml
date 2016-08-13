@@ -1,0 +1,38 @@
+---
+pattern: _tees
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 28
+score: 2329122
+score_per_word: 101266
+hi_scored_words:
+  amputees: 69126
+  appointees: 39769
+  committees: 4750
+  devotees: 28951
+  grantees: 43156
+  guarantees: 9573
+  inductees: 60762
+  invitees: 86736
+  manatees: 67766
+  subcommittees: 46069
+  tees: 15856
+  trustees: 6530
+scored_words:
+  abductees: 119648
+  absentees: 110429
+  bootees: 198055
+  deportees: 108778
+  draftees: 148242
+  enlistees: 227377
+  goatees: 299015
+  legatees: 210423
+  patentees: 190605
+  settees: 125208
+  warrantees: 112298
+not_scored_words:
+- Tees
+- coatees
+- puttees
+- suttees
+- testees

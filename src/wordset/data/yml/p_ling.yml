@@ -1,0 +1,62 @@
+---
+pattern: p_ling
+hi_scored_words_count: 21
+scored_words_count: 13
+total_words: 52
+score: 3405295
+score_per_word: 100155
+hi_scored_words:
+  paddling: 21403
+  paling: 83580
+  paneling: 57844
+  paralleling: 73343
+  parasailing: 82238
+  patrolling: 38409
+  pedaling: 73266
+  peddling: 54360
+  peeling: 29477
+  pickling: 65069
+  piling: 27482
+  pilling: 85830
+  poling: 68727
+  polling: 18735
+  pooling: 26386
+  prevailing: 10872
+  profiling: 19333
+  propelling: 59877
+  prowling: 64670
+  pulling: 5428
+  puzzling: 25994
+scored_words:
+  panhandling: 128244
+  pealing: 156088
+  pearling: 143404
+  penciling: 289017
+  peopling: 147283
+  piddling: 150442
+  pigeonholing: 299974
+  prattling: 182270
+  prickling: 223422
+  puddling: 213902
+  puling: 161453
+  pummeling: 136455
+  purling: 181018
+not_scored_words:
+- Pauling
+- painkilling
+- palling
+- parboiling
+- parceling
+- paroling
+- pebbling
+- periling
+- pestling
+- piffling
+- pigling
+- pindling
+- pinwheeling
+- pommeling
+- potholing
+- preambling
+- precanceling
+- princeling

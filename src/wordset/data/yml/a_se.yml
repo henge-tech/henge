@@ -1,0 +1,70 @@
+---
+pattern: a_se
+hi_scored_words_count: 23
+scored_words_count: 11
+total_words: 60
+score: 2558682
+score_per_word: 75255
+hi_scored_words:
+  abstruse: 73382
+  abuse: 2366
+  accuse: 15459
+  adipose: 36690
+  adverse: 5775
+  advertise: 6556
+  advise: 4785
+  airbase: 68288
+  amuse: 22457
+  amylase: 52442
+  anaphase: 98383
+  anise: 41836
+  apocalypse: 18429
+  appease: 29687
+  applause: 10465
+  appraise: 42378
+  apprise: 80493
+  apse: 58680
+  archdiocese: 26959
+  arise: 4072
+  arose: 7772
+  arouse: 26834
+  averse: 28811
+scored_words:
+  abase: 143197
+  aldose: 176852
+  alehouse: 110529
+  almshouse: 102853
+  amidase: 211839
+  amylose: 148649
+  anatase: 189940
+  anthracnose: 135980
+  anticlockwise: 147217
+  anywise: 293647
+  arabinose: 134980
+not_scored_words:
+- Alphonse
+- Amboise
+- Ambrose
+- Andamanese
+- Annamese
+- Antabuse
+- Apocalypse
+- Aragonese
+- Assamese
+- abscise
+- acerose
+- aeropause
+- affranchise
+- albumose
+- anastomose
+- anchylose
+- anglepoise
+- ankylose
+- annulose
+- antinoise
+- antrorse
+- appose
+- appulse
+- ariose
+- arkose
+- asperse

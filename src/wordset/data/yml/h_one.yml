@@ -1,0 +1,29 @@
+---
+pattern: h_one
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 19
+score: 1173021
+score_per_word: 83787
+hi_scored_words:
+  halftone: 83784
+  headphone: 17077
+  headstone: 46108
+  hearthstone: 58894
+  herringbone: 55296
+  histone: 37236
+  hone: 30341
+  hormone: 9688
+  hydrocortisone: 48647
+  hydroquinone: 94322
+scored_words:
+  hailstone: 139745
+  hipbone: 251784
+  homophone: 189831
+  hydrophone: 110268
+not_scored_words:
+- Hesione
+- heckelphone
+- hexone
+- holystone
+- hornstone

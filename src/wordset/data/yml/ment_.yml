@@ -1,0 +1,36 @@
+---
+pattern: ment_
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 26
+score: 1154716
+score_per_word: 60774
+hi_scored_words:
+  mental: 1551
+  mentalist: 92607
+  mentality: 19060
+  mentally: 14331
+  mentation: 62863
+  menthol: 42835
+  mention: 2056
+  mentioned: 1487
+  mentioning: 17619
+  mentions: 8613
+  mentor: 13548
+  mentored: 53398
+  mentoring: 12231
+  mentors: 16593
+  mentorship: 50474
+scored_words:
+  mentalism: 114731
+  mentalists: 215707
+  mentalities: 126829
+  mentations: 288183
+not_scored_words:
+- Mentholatum
+- Menton
+- Mentor
+- mentalisms
+- mentholated
+- menticide
+- mentionable

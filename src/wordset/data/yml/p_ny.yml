@@ -1,0 +1,35 @@
+---
+pattern: p_ny
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 25
+score: 1181299
+score_per_word: 78753
+hi_scored_words:
+  parsimony: 54221
+  patrimony: 53187
+  penny: 5140
+  peony: 40991
+  phony: 24624
+  phylogeny: 34305
+  pinny: 75818
+  polyphony: 52635
+  pony: 7147
+  progeny: 23440
+  puny: 30923
+scored_words:
+  paleobotany: 261159
+  pickaninny: 122932
+  piny: 287755
+  polygyny: 107022
+not_scored_words:
+- Penny
+- Pliny
+- Pozsony
+- paeony
+- palimony
+- patriliny
+- philogyny
+- piccaninny
+- pinchpenny
+- postliminy

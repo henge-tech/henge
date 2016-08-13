@@ -1,0 +1,28 @@
+---
+pattern: conc_ing
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 924550
+score_per_word: 77045
+hi_scored_words:
+  concealing: 34403
+  conceding: 52746
+  conceiving: 48527
+  concentrating: 16766
+  conceptualizing: 78803
+  concerning: 1902
+  concluding: 19199
+  concurring: 39476
+scored_words:
+  concatenating: 121083
+  conciliating: 240887
+  concocting: 135504
+  concreting: 135254
+not_scored_words:
+- concentering
+- concertinaing
+- concerting
+- concertizing
+- concretizing
+- concussing

@@ -1,0 +1,38 @@
+---
+pattern: ge_al
+hi_scored_words_count: 18
+scored_words_count: 1
+total_words: 28
+score: 851641
+score_per_word: 44823
+hi_scored_words:
+  genealogical: 20345
+  general: 177
+  generational: 33275
+  genial: 34758
+  genital: 21324
+  genocidal: 58748
+  geochemical: 45578
+  geographical: 6580
+  geological: 7723
+  geometrical: 26535
+  geophysical: 21038
+  geopolitical: 37096
+  geothermal: 26021
+  germicidal: 86803
+  germinal: 64960
+  gerontological: 89358
+  gestational: 34937
+  gestural: 95947
+scored_words:
+  gemological: 140438
+not_scored_words:
+- Germinal
+- geanticlinal
+- geneal
+- genitival
+- genotypical
+- geochronological
+- geosynclinal
+- geranial
+- gerundial

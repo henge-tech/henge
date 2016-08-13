@@ -1,0 +1,35 @@
+---
+pattern: prof_s
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 25
+score: 1410206
+score_per_word: 82953
+hi_scored_words:
+  profess: 27604
+  professes: 64000
+  professionals: 9069
+  professions: 10112
+  professors: 11416
+  professorships: 79753
+  profiles: 11313
+  profiteers: 95245
+  profits: 3201
+  profs: 46453
+scored_words:
+  profaneness: 162385
+  profanes: 149561
+  profanities: 129517
+  proffers: 111171
+  proficiencies: 103671
+  profiteroles: 214828
+  profitless: 180907
+not_scored_words:
+- profanations
+- professionalizes
+- proficients
+- profligates
+- profoundness
+- profundities
+- profuseness
+- profusions

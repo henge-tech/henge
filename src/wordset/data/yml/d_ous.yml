@@ -1,0 +1,58 @@
+---
+pattern: d_ous
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 48
+score: 1769124
+score_per_word: 76918
+hi_scored_words:
+  dangerous: 2129
+  deciduous: 29384
+  deleterious: 36753
+  delicious: 4562
+  delirious: 27413
+  desirous: 28145
+  devious: 19905
+  dexterous: 76786
+  diatomaceous: 99088
+  dichotomous: 60036
+  disadvantageous: 77709
+  disastrous: 13899
+  discontinuous: 35218
+  disingenuous: 45226
+  dubious: 16147
+scored_words:
+  decorous: 104621
+  diaphanous: 108890
+  dicotyledonous: 241025
+  dioecious: 160704
+  discourteous: 110517
+  dolorous: 123819
+  duplicitous: 107236
+  duteous: 239912
+not_scored_words:
+- Delicious
+- declivitous
+- declivous
+- diadelphous
+- diadromous
+- diandrous
+- dicephalous
+- dichlamydeous
+- diclinous
+- didymous
+- didynamous
+- dimerous
+- dimorphous
+- dipetalous
+- diphyllous
+- diplostemonous
+- dipterocarpaceous
+- dipterous
+- disepalous
+- disharmonious
+- dispermous
+- disputatious
+- dissentious
+- distichous
+- dorsiferous

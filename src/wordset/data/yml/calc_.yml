@@ -1,0 +1,62 @@
+---
+pattern: calc_
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 52
+score: 2017959
+score_per_word: 87737
+hi_scored_words:
+  calcareous: 31030
+  calcification: 49667
+  calcified: 81646
+  calcined: 89116
+  calcite: 41064
+  calcium: 9074
+  calculate: 3664
+  calculated: 3004
+  calculates: 30525
+  calculating: 10629
+  calculation: 5906
+  calculations: 6522
+  calculator: 15828
+  calculators: 15783
+  calculi: 55178
+  calculus: 16725
+scored_words:
+  calcaneus: 121856
+  calciferol: 312817
+  calcific: 277251
+  calcination: 146318
+  calcining: 275065
+  calculable: 128259
+  calculative: 291032
+not_scored_words:
+- Calchas
+- Calcutta
+- Calcuttan
+- calcanei
+- calcar
+- calcariferous
+- calceiform
+- calceolaria
+- calceolarias
+- calces
+- calcic
+- calcicole
+- calciferols
+- calciferous
+- calcifies
+- calcifuge
+- calcify
+- calcifying
+- calcimine
+- calcimined
+- calcimines
+- calcimining
+- calcinations
+- calcine
+- calcines
+- calcitic
+- calculatedly
+- calculatingly
+- calculous

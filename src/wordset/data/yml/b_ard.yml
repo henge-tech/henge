@@ -1,0 +1,59 @@
+---
+pattern: b_ard
+hi_scored_words_count: 25
+scored_words_count: 6
+total_words: 49
+score: 1919512
+score_per_word: 61919
+hi_scored_words:
+  backboard: 56814
+  backward: 8604
+  backyard: 18334
+  bard: 15184
+  barnyard: 46234
+  baseboard: 57792
+  bastard: 10969
+  bayard: 40239
+  beard: 7054
+  billboard: 11390
+  billiard: 20922
+  blackboard: 21069
+  blackguard: 97206
+  blizzard: 15250
+  blowhard: 95786
+  board: 424
+  boatyard: 87799
+  bodyguard: 28331
+  bollard: 76100
+  bombard: 49247
+  boneyard: 92090
+  boulevard: 9395
+  brickyard: 62537
+  bustard: 77805
+  buzzard: 34258
+scored_words:
+  bankcard: 116051
+  bodyboard: 149980
+  boxboard: 223010
+  brassard: 102372
+  breadboard: 111482
+  buckboard: 175784
+not_scored_words:
+- Ballard
+- Barnard
+- Baudrillard
+- Bayard
+- Beard
+- Beauregard
+- Beaverboard
+- Beghard
+- Bernard
+- Bernhard
+- Blackbeard
+- Blanchard
+- Bluebeard
+- Bonnard
+- Briard
+- bargeboard
+- beaverboard
+- bridgeboard

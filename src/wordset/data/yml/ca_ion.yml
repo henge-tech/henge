@@ -1,0 +1,52 @@
+---
+pattern: ca_ion
+hi_scored_words_count: 22
+scored_words_count: 8
+total_words: 42
+score: 2574428
+score_per_word: 85814
+hi_scored_words:
+  cablevision: 59243
+  calcification: 49667
+  calculation: 5906
+  calibration: 13903
+  campion: 40424
+  cancellation: 18277
+  canonization: 72547
+  capitalization: 22723
+  capitation: 59849
+  capitulation: 49019
+  caption: 15804
+  carbonation: 85838
+  carnation: 32963
+  carrion: 36615
+  cassation: 83051
+  castration: 41864
+  categorization: 28889
+  cation: 21932
+  causation: 27022
+  cauterization: 80472
+  caution: 5744
+  cavitation: 63357
+scored_words:
+  calcination: 146318
+  camion: 132756
+  canalization: 278556
+  cannibalization: 253801
+  captivation: 286619
+  carbonization: 183131
+  carburetion: 192857
+  castigation: 185281
+not_scored_words:
+- Campion
+- Carnation
+- cachinnation
+- calefaction
+- calumniation
+- caprification
+- capsulation
+- caramelization
+- carburization
+- cartelization
+- caseation
+- catenation

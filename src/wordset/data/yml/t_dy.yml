@@ -1,0 +1,26 @@
+---
+pattern: t_dy
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 812607
+score_per_word: 73873
+hi_scored_words:
+  tardy: 36951
+  teddy: 7542
+  tidy: 13689
+  toady: 92578
+  toddy: 66832
+  tragedy: 5322
+  trendy: 19162
+  tweedy: 57606
+scored_words:
+  threnody: 175892
+  tody: 140431
+  tragicomedy: 196602
+not_scored_words:
+- Teddy
+- Trudy
+- tetrapody
+- thready
+- tripody

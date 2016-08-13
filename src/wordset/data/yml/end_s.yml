@@ -1,0 +1,60 @@
+---
+pattern: end_s
+hi_scored_words_count: 16
+scored_words_count: 12
+total_words: 50
+score: 2715773
+score_per_word: 96991
+hi_scored_words:
+  endangers: 65897
+  endeavors: 18796
+  endings: 25913
+  endless: 5703
+  endocarditis: 49326
+  endogamous: 68308
+  endogenous: 20755
+  endometriosis: 34577
+  endorphins: 63595
+  endorsements: 22824
+  endorsers: 82308
+  endorses: 25354
+  endowments: 29858
+  endpoints: 32494
+  ends: 1639
+  endures: 43393
+scored_words:
+  endearments: 241953
+  endears: 227450
+  endemics: 148709
+  endgames: 175890
+  endlessness: 298616
+  endocrinologists: 116335
+  endodontics: 104298
+  endodontists: 164241
+  endomorphisms: 268242
+  endoscopes: 151697
+  endows: 114971
+  endpapers: 112631
+not_scored_words:
+- endemisms
+- endives
+- endoblasts
+- endocarditises
+- endocardiums
+- endocrines
+- endodermis
+- endoderms
+- endogamies
+- endometrioses
+- endometriums
+- endomorphies
+- endomorphs
+- endoparasites
+- endoplasms
+- endoskeletons
+- endosmosis
+- endosperms
+- endospores
+- endostosis
+- endues
+- endways

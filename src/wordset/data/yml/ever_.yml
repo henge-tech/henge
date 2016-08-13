@@ -1,0 +1,40 @@
+---
+pattern: ever_
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 30
+score: 1149731
+score_per_word: 60512
+hi_scored_words:
+  ever: 302
+  everglades: 29295
+  evergreen: 13501
+  evergreens: 56810
+  everlasting: 12733
+  evermore: 38439
+  evert: 50207
+  every: 176
+  everybody: 2274
+  everyday: 4673
+  everyman: 41120
+  everyone: 1535
+  everyplace: 85077
+  everything: 414
+  everywhere: 2890
+scored_words:
+  everglade: 273527
+  everlastingly: 178987
+  eversion: 198305
+  everyway: 159466
+not_scored_words:
+- EverReady
+- Everest
+- Everett
+- Everette
+- Everglades
+- Evert
+- Everyman
+- everlastings
+- everliving
+- eversions
+- evertor

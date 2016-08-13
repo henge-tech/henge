@@ -1,0 +1,30 @@
+---
+pattern: gros_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1170811
+score_per_word: 90062
+hi_scored_words:
+  grosbeak: 85431
+  gross: 2896
+  grossed: 51945
+  grosser: 66946
+  grosses: 49232
+  grossest: 89535
+  grossing: 49306
+  grossly: 24034
+  grosz: 94867
+scored_words:
+  grosbeaks: 221185
+  groschen: 144561
+  grosgrain: 126721
+  grossness: 164152
+not_scored_words:
+- Gros
+- Gross
+- Grosswardein
+- Grosz
+- groschens
+- grossularite
+- groszy

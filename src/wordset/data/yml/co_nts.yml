@@ -1,0 +1,64 @@
+---
+pattern: co_nts
+hi_scored_words_count: 30
+scored_words_count: 14
+total_words: 54
+score: 3116730
+score_per_word: 70834
+hi_scored_words:
+  coefficients: 10159
+  combatants: 24847
+  commandments: 14124
+  comments: 2277
+  commitments: 9588
+  compartments: 21664
+  complainants: 48709
+  complaints: 4177
+  complements: 23290
+  compliments: 11505
+  components: 8243
+  condiments: 36848
+  confronts: 30030
+  consents: 34097
+  consignments: 66377
+  consonants: 37107
+  constants: 11720
+  constituents: 11670
+  constraints: 5053
+  consultants: 4294
+  contaminants: 15749
+  contents: 1556
+  contestants: 23600
+  continents: 12796
+  contingents: 79329
+  convents: 72404
+  cormorants: 74828
+  correspondents: 19711
+  counts: 4685
+  covenants: 26582
+scored_words:
+  coagulants: 222946
+  cohabitants: 304796
+  colorants: 103550
+  commandants: 185941
+  commencements: 156604
+  communicants: 121588
+  concomitants: 129218
+  confidants: 149165
+  confinements: 228040
+  congregants: 108590
+  convalescents: 131768
+  coolants: 126786
+  counterarguments: 232150
+  counterpoints: 168569
+not_scored_words:
+- codependents
+- conferments
+- continuants
+- corespondents
+- corposants
+- cosecants
+- cotangents
+- cotenants
+- countercurrents
+- counterirritants

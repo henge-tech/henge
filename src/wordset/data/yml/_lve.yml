@@ -1,0 +1,31 @@
+---
+pattern: _lve
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 21
+score: 999755
+score_per_word: 55541
+hi_scored_words:
+  absolve: 49224
+  bivalve: 64314
+  calve: 99019
+  delve: 32533
+  devolve: 56226
+  dissolve: 15305
+  evolve: 13968
+  halve: 53940
+  involve: 4719
+  resolve: 4508
+  revolve: 25763
+  salve: 34297
+  shelve: 65764
+  solve: 7651
+  twelve: 2871
+  valve: 5971
+scored_words:
+  convolve: 284922
+  helve: 178760
+not_scored_words:
+- coevolve
+- redissolve
+- univalve

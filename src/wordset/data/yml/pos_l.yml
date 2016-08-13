@@ -1,0 +1,30 @@
+---
+pattern: pos_l
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 1220435
+score_per_word: 101702
+hi_scored_words:
+  positional: 28557
+  postal: 6194
+  postcolonial: 51748
+  postdoctoral: 27419
+  postmenopausal: 40805
+  postnatal: 38613
+  postprandial: 83691
+  postural: 51816
+scored_words:
+  postcoital: 243057
+  postglacial: 192399
+  postindustrial: 150342
+  postnasal: 305794
+not_scored_words:
+- postaxial
+- postclassical
+- postconsonantal
+- postmarital
+- postmenstrual
+- postnuptial
+- postorbital
+- postseasonal

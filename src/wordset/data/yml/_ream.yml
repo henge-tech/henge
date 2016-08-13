@@ -1,0 +1,28 @@
+---
+pattern: _ream
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 18
+score: 665159
+score_per_word: 41572
+hi_scored_words:
+  airstream: 68296
+  bloodstream: 31257
+  bream: 41665
+  buttercream: 84514
+  cream: 2595
+  daydream: 33426
+  downstream: 19763
+  dream: 1284
+  mainstream: 8543
+  midstream: 79607
+  ream: 40130
+  scream: 6846
+  slipstream: 60142
+  stream: 1498
+  upstream: 17642
+scored_words:
+  millstream: 167951
+not_scored_words:
+- headstream
+- suncream

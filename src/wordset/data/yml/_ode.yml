@@ -1,0 +1,78 @@
+---
+pattern: _ode
+hi_scored_words_count: 30
+scored_words_count: 8
+total_words: 68
+score: 2580051
+score_per_word: 67896
+hi_scored_words:
+  abode: 14886
+  anode: 27094
+  bode: 30776
+  cathode: 28470
+  code: 1613
+  commode: 53126
+  corrode: 70157
+  decode: 24033
+  diode: 18502
+  electrode: 20638
+  encode: 22104
+  episode: 3412
+  erode: 29829
+  explode: 14627
+  geode: 77967
+  implode: 54887
+  internode: 92258
+  lode: 40119
+  microcode: 75101
+  mode: 1402
+  nematode: 39940
+  node: 8718
+  ode: 16212
+  opcode: 57388
+  overrode: 97149
+  postcode: 15112
+  recode: 79866
+  rode: 7940
+  strode: 31539
+  triode: 85993
+scored_words:
+  antipode: 150134
+  bestrode: 166911
+  forebode: 139156
+  incommode: 229187
+  pentode: 191973
+  photocathode: 156519
+  tetrode: 191211
+  trematode: 214102
+not_scored_words:
+- Kozhikode
+- Nesselrode
+- Rhode
+- Spode
+- Unicode
+- acnode
+- anticathode
+- antinode
+- arillode
+- cestode
+- crunode
+- demode
+- discommode
+- displode
+- duodiode
+- dynode
+- epode
+- forbode
+- hemipode
+- heptode
+- joyrode
+- monopode
+- outrode
+- palinode
+- phyllode
+- spinode
+- tacnode
+- threnode
+- vaivode
+- webisode

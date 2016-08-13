@@ -1,0 +1,29 @@
+---
+pattern: te_le
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 736158
+score_per_word: 56627
+hi_scored_words:
+  teachable: 69309
+  telltale: 49752
+  temple: 2484
+  tenable: 52956
+  tensile: 22720
+  tentacle: 38209
+  terrible: 3072
+  testable: 51426
+  testicle: 38230
+  textile: 11678
+scored_words:
+  teakettle: 132444
+  technobabble: 107704
+  terminable: 156174
+not_scored_words:
+- Teasdale
+- tearable
+- tenaille
+- tenantable
+- tensible
+- tetrasyllable

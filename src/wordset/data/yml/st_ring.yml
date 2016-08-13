@@ -1,0 +1,23 @@
+---
+pattern: st_ring
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 13
+score: 199854
+score_per_word: 19985
+hi_scored_words:
+  staggering: 16768
+  stammering: 74248
+  staring: 7505
+  starring: 8423
+  steering: 6066
+  stirring: 10558
+  storing: 13144
+  string: 2031
+  structuring: 22372
+  stuttering: 38739
+scored_words: {}
+not_scored_words:
+- steamrollering
+- stoppering
+- stretchering

@@ -1,0 +1,22 @@
+---
+pattern: _aim
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 12
+score: 567884
+score_per_word: 51625
+hi_scored_words:
+  acclaim: 19531
+  aim: 2168
+  claim: 1258
+  counterclaim: 64814
+  disclaim: 32491
+  exclaim: 42611
+  maim: 60551
+  proclaim: 17157
+  reclaim: 19365
+scored_words:
+  declaim: 201161
+  quitclaim: 106777
+not_scored_words:
+- Ephraim

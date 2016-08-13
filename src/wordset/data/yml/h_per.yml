@@ -1,0 +1,25 @@
+---
+pattern: h_per
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 591260
+score_per_word: 59126
+hi_scored_words:
+  hamper: 20581
+  handicapper: 64368
+  harper: 7384
+  helper: 12438
+  hooper: 24641
+  hopper: 16187
+  housekeeper: 21727
+  hyper: 14487
+scored_words:
+  hepper: 292267
+  hipper: 117180
+not_scored_words:
+- Harper
+- Hesper
+- Hooper
+- Hopper
+- hanaper

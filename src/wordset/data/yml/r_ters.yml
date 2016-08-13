@@ -1,0 +1,47 @@
+---
+pattern: r_ters
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 37
+score: 2330161
+score_per_word: 101311
+hi_scored_words:
+  rafters: 37056
+  raters: 63121
+  recruiters: 13559
+  registers: 11400
+  renters: 25052
+  repeaters: 42519
+  reporters: 8274
+  resisters: 89942
+  rioters: 55438
+  roasters: 59282
+  roosters: 49540
+  rosters: 26133
+  routers: 11895
+scored_words:
+  radiometers: 162492
+  ranters: 241418
+  rasters: 175608
+  reenters: 226330
+  refractometers: 117884
+  remasters: 157831
+  riveters: 246906
+  roadsters: 113458
+  rooters: 156478
+  rotters: 238545
+not_scored_words:
+- Reuters
+- ratters
+- rebutters
+- recharters
+- reciters
+- reconnoiters
+- refuters
+- relaters
+- requiters
+- respecters
+- reupholsters
+- rhymesters
+- ringmasters
+- roisters

@@ -1,0 +1,28 @@
+---
+pattern: ve_al
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 18
+score: 1438676
+score_per_word: 89917
+hi_scored_words:
+  veal: 20296
+  vegetal: 79466
+  venal: 81729
+  venereal: 48736
+  ventral: 28352
+  verbal: 7258
+  vernal: 34423
+  vertebral: 35335
+  vertical: 4454
+  vestal: 39427
+  vestigial: 75473
+scored_words:
+  vegetational: 237466
+  venial: 102521
+  veridical: 159971
+  vesical: 233099
+  vexillological: 250670
+not_scored_words:
+- venational
+- vesperal

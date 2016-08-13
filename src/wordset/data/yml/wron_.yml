@@ -1,0 +1,28 @@
+---
+pattern: wron_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 18
+score: 1214316
+score_per_word: 86736
+hi_scored_words:
+  wrong: 772
+  wrongdoer: 98679
+  wrongdoing: 31545
+  wronged: 42184
+  wrongful: 22537
+  wrongfully: 40836
+  wrongly: 18783
+  wrongs: 19228
+scored_words:
+  wrongdoers: 119761
+  wrongdoings: 136302
+  wrongfulness: 300946
+  wrongheaded: 134046
+  wronging: 135997
+  wrongness: 112700
+not_scored_words:
+- wronger
+- wrongest
+- wrongheadedly
+- wrongheadedness

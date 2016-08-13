@@ -1,0 +1,33 @@
+---
+pattern: squ_d
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 23
+score: 1446665
+score_per_word: 85097
+hi_scored_words:
+  squad: 5886
+  squalid: 59062
+  squandered: 45237
+  squared: 16545
+  squashed: 49879
+  squatted: 72916
+  squeaked: 87396
+  squealed: 79177
+  squeezed: 17803
+  squid: 13430
+  squinted: 86337
+  squirmed: 87192
+  squirted: 93029
+  squished: 82997
+scored_words:
+  squawked: 235079
+  squelched: 154689
+  squirreled: 260011
+not_scored_words:
+- squabbled
+- squalled
+- squeegeed
+- squiggled
+- squinched
+- squired

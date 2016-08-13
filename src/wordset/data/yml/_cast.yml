@@ -1,0 +1,35 @@
+---
+pattern: _cast
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 25
+score: 1526850
+score_per_word: 76342
+hi_scored_words:
+  broadcast: 5101
+  cast: 1345
+  downcast: 53087
+  forecast: 6387
+  newscast: 36692
+  outcast: 25438
+  overcast: 18752
+  podcast: 5270
+  precast: 47199
+  rebroadcast: 58800
+  recast: 42389
+  simulcast: 53763
+  telecast: 45339
+  typecast: 97943
+  webcast: 14264
+scored_words:
+  cablecast: 234833
+  miscast: 162554
+  opencast: 145849
+  sportscast: 301735
+  upcast: 170110
+not_scored_words:
+- colorcast
+- dicast
+- radiobroadcast
+- roughcast
+- undercast

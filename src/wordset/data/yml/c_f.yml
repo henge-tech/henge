@@ -1,0 +1,42 @@
+---
+pattern: c_f
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 32
+score: 1650678
+score_per_word: 82533
+hi_scored_words:
+  caff: 80584
+  calf: 13243
+  cf: 6406
+  chaff: 36485
+  chef: 6402
+  chief: 936
+  clef: 40668
+  cliff: 5716
+  cloverleaf: 73296
+  coff: 90409
+  coif: 88612
+  conf: 11543
+  cuff: 15297
+  cutoff: 20197
+scored_words:
+  caitiff: 199870
+  checkoff: 134160
+  chiffchaff: 173571
+  childproof: 152341
+  chuff: 201752
+  corf: 299190
+not_scored_words:
+- CF
+- Calif
+- Cardiff
+- Cerf
+- Cf
+- Chief
+- Cliff
+- Cynewulf
+- castoff
+- counterproof
+- creaseproof
+- crossruff

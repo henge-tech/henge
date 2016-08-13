@@ -1,0 +1,37 @@
+---
+pattern: susp_
+hi_scored_words_count: 18
+scored_words_count: 3
+total_words: 27
+score: 1204542
+score_per_word: 57359
+hi_scored_words:
+  suspect: 3627
+  suspected: 5075
+  suspecting: 42958
+  suspects: 11262
+  suspend: 11135
+  suspended: 4852
+  suspender: 70146
+  suspenders: 41423
+  suspending: 34474
+  suspends: 48884
+  suspense: 9001
+  suspenseful: 50639
+  suspension: 5783
+  suspensions: 26008
+  suspicion: 7962
+  suspicions: 18113
+  suspicious: 7931
+  suspiciously: 30813
+scored_words:
+  suspensive: 267468
+  suspensory: 224210
+  suspiciousness: 282778
+not_scored_words:
+- suspensoid
+- suspensor
+- suspensors
+- suspiciousnesses
+- suspiration
+- suspire

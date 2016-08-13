@@ -1,0 +1,47 @@
+---
+pattern: re_led
+hi_scored_words_count: 20
+scored_words_count: 12
+total_words: 37
+score: 2686327
+score_per_word: 83947
+hi_scored_words:
+  reassembled: 66315
+  rebelled: 47749
+  recalled: 8122
+  recoiled: 89717
+  recompiled: 97681
+  reconciled: 19948
+  recycled: 10014
+  redoubled: 87241
+  reeled: 62455
+  refilled: 55243
+  reinstalled: 49513
+  rekindled: 71436
+  remodeled: 28666
+  repealed: 14645
+  repelled: 53472
+  rescheduled: 31067
+  resembled: 22849
+  resettled: 72674
+  revealed: 2996
+  reviled: 64232
+scored_words:
+  refiled: 243254
+  refueled: 149492
+  regaled: 112954
+  relabeled: 230239
+  rescaled: 129377
+  resealed: 129543
+  reshuffled: 158770
+  restyled: 125515
+  retailed: 100757
+  retitled: 117958
+  retooled: 130734
+  reveled: 101699
+not_scored_words:
+- reboiled
+- redialed
+- rerolled
+- resoled
+- respelled

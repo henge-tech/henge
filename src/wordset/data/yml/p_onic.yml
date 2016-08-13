@@ -1,0 +1,25 @@
+---
+pattern: p_onic
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 791740
+score_per_word: 79174
+hi_scored_words:
+  pentatonic: 80380
+  philharmonic: 18476
+  phonic: 58146
+  photonic: 46958
+  planktonic: 60567
+  platonic: 29818
+  plutonic: 97992
+  polyphonic: 17406
+scored_words:
+  pneumonic: 141922
+  pulmonic: 240075
+not_scored_words:
+- Panasonic
+- Pharaonic
+- Platonic
+- pretonic
+- protonic

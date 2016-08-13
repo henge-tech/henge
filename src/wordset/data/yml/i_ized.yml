@@ -1,0 +1,29 @@
+---
+pattern: i_ized
+hi_scored_words_count: 14
+scored_words_count: 1
+total_words: 19
+score: 739199
+score_per_word: 49279
+hi_scored_words:
+  idealized: 35566
+  immobilized: 42182
+  immortalized: 57771
+  immunized: 48742
+  individualized: 27148
+  industrialized: 22455
+  initialized: 30027
+  institutionalized: 27693
+  internalized: 51319
+  internationalized: 79082
+  iodized: 98797
+  ionized: 42848
+  italicized: 32289
+  itemized: 40256
+scored_words:
+  idolized: 103024
+not_scored_words:
+- illegalized
+- immaterialized
+- intellectualized
+- interiorized

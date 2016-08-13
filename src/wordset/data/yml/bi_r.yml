@@ -1,0 +1,53 @@
+---
+pattern: bi_r
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 43
+score: 2224267
+score_per_word: 88970
+hi_scored_words:
+  bicker: 67305
+  bicolor: 62708
+  bidder: 12076
+  bier: 34496
+  bigger: 3506
+  biker: 17666
+  bilinear: 65967
+  binder: 22060
+  binocular: 26970
+  biographer: 32267
+  bioreactor: 84230
+  bipolar: 12309
+  birr: 50174
+  biter: 61826
+  bitter: 5052
+scored_words:
+  bibber: 180590
+  bibliographer: 132423
+  bimolecular: 200426
+  binger: 154093
+  bioengineer: 291059
+  biosensor: 101663
+  birder: 110394
+  birdwatcher: 158300
+  bisector: 159518
+  bitterer: 177189
+not_scored_words:
+- Biedermeier
+- Bihar
+- Bikaner
+- Bircher
+- bicapsular
+- bickerer
+- bicycler
+- bifilar
+- bigener
+- bilander
+- bilker
+- billposter
+- bilocular
+- biogeographer
+- birther
+- bister
+- bitchier
+- bittier

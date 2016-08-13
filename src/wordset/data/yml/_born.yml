@@ -1,0 +1,28 @@
+---
+pattern: _born
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 551980
+score_per_word: 50180
+hi_scored_words:
+  born: 777
+  firstborn: 40850
+  freeborn: 73807
+  inborn: 45501
+  newborn: 15444
+  reborn: 26016
+  stillborn: 50770
+  stubborn: 14147
+  unborn: 18905
+scored_words:
+  suborn: 138973
+  wellborn: 126790
+not_scored_words:
+- Born
+- Dearborn
+- Osborn
+- baseborn
+- earthborn
+- highborn
+- lowborn

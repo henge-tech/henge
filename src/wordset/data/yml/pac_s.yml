@@ -1,0 +1,33 @@
+---
+pattern: pac_s
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 23
+score: 967529
+score_per_word: 74425
+hi_scored_words:
+  pacemakers: 56870
+  pacers: 24995
+  paces: 21338
+  pacifiers: 85692
+  pacifists: 73004
+  packages: 5183
+  packers: 22315
+  packets: 10099
+  packs: 6461
+  pacts: 62792
+scored_words:
+  pacesetters: 230800
+  pachyderms: 252479
+  packagers: 115501
+not_scored_words:
+- pachas
+- pachisis
+- pachydermatous
+- pachydermous
+- pachysandras
+- pacifies
+- packhorses
+- packinghouses
+- packsaddles
+- packthreads

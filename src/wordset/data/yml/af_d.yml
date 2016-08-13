@@ -1,0 +1,32 @@
+---
+pattern: af_d
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 22
+score: 1261352
+score_per_word: 70075
+hi_scored_words:
+  affected: 2006
+  affiliated: 10731
+  affirmed: 22575
+  affixed: 28254
+  afflicted: 17855
+  afford: 3183
+  afforded: 10756
+  afield: 37057
+  aforementioned: 23855
+  aforesaid: 21363
+  afraid: 2462
+  afterward: 13297
+  afterword: 66778
+scored_words:
+  afeard: 227486
+  affianced: 140812
+  afforested: 329138
+  affrighted: 164131
+  affronted: 139613
+not_scored_words:
+- affined
+- affranchised
+- afterguard
+- afterworld

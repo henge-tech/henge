@@ -1,0 +1,35 @@
+---
+pattern: _osh
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 25
+score: 1006023
+score_per_word: 59177
+hi_scored_words:
+  bosh: 39551
+  cohosh: 85675
+  cosh: 47611
+  dosh: 71500
+  frosh: 57981
+  gosh: 20397
+  josh: 9176
+  mackintosh: 32941
+  mosh: 40683
+  nosh: 78233
+  posh: 23232
+  splosh: 49771
+  swoosh: 59265
+  tosh: 37206
+  whoosh: 59342
+scored_words:
+  kibosh: 161378
+  slosh: 132081
+not_scored_words:
+- Josh
+- Macintosh
+- Mackintosh
+- McIntosh
+- Oshkosh
+- galosh
+- skosh
+- tarboosh

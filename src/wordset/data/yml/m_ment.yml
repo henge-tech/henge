@@ -1,0 +1,31 @@
+---
+pattern: m_ment
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 21
+score: 1700521
+score_per_word: 89501
+hi_scored_words:
+  maltreatment: 47910
+  management: 1082
+  measurement: 5681
+  merriment: 55072
+  misalignment: 65975
+  mismanagement: 39154
+  misstatement: 81600
+  mistreatment: 44358
+  moment: 931
+  monofilament: 82594
+  monument: 6721
+  movement: 1260
+scored_words:
+  maladjustment: 177100
+  malnourishment: 226056
+  medicament: 192402
+  micromanagement: 143684
+  misgovernment: 105450
+  misjudgment: 190537
+  misplacement: 232954
+not_scored_words:
+- microelement
+- muniment

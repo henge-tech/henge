@@ -1,0 +1,31 @@
+---
+pattern: _sics
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 21
+score: 736912
+score_per_word: 52636
+hi_scored_words:
+  analgesics: 39939
+  astrophysics: 24967
+  basics: 4860
+  biophysics: 36020
+  classics: 5689
+  forensics: 21088
+  geophysics: 26800
+  metaphysics: 17736
+  musics: 55746
+  physics: 3981
+  psychophysics: 93005
+scored_words:
+  geodesics: 103035
+  microphysics: 194223
+  sics: 109823
+not_scored_words:
+- BASICs
+- Classics
+- amnesics
+- aphasics
+- cellulosics
+- kinesics
+- macrophysics

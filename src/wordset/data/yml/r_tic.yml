@@ -1,0 +1,25 @@
+---
+pattern: r_tic
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 387763
+score_per_word: 43084
+hi_scored_words:
+  rachitic: 95648
+  realistic: 7068
+  relativistic: 28629
+  rheumatic: 28553
+  ritualistic: 67387
+  robotic: 19394
+  romantic: 3317
+  rustic: 12386
+scored_words:
+  rationalistic: 125381
+not_scored_words:
+- Rhetic
+- Romantic
+- racialistic
+- recidivistic
+- revivalistic
+- rheostatic

@@ -1,0 +1,59 @@
+---
+pattern: suff_
+hi_scored_words_count: 23
+scored_words_count: 12
+total_words: 49
+score: 3171653
+score_per_word: 90618
+hi_scored_words:
+  suffer: 3501
+  suffered: 3557
+  sufferer: 41848
+  sufferers: 24686
+  suffering: 3030
+  sufferings: 21178
+  suffers: 11904
+  suffice: 12882
+  sufficed: 67308
+  suffices: 39087
+  sufficiency: 18949
+  sufficient: 1987
+  sufficiently: 5349
+  suffix: 18951
+  suffixes: 38025
+  suffocate: 54957
+  suffocated: 65966
+  suffocating: 51282
+  suffocation: 41258
+  suffrage: 21369
+  suffragette: 83710
+  suffused: 79124
+  suffusion: 91975
+scored_words:
+  sufferance: 127232
+  sufficing: 255063
+  suffixed: 139646
+  suffixing: 244229
+  suffocates: 205695
+  suffragan: 156965
+  suffrages: 223031
+  suffragettes: 158453
+  suffragist: 169953
+  suffragists: 173977
+  suffuse: 229532
+  suffuses: 285994
+not_scored_words:
+- Suffolk
+- Suffr
+- sufferable
+- sufferably
+- suffixation
+- suffixion
+- sufflate
+- suffocatingly
+- suffragans
+- suffragism
+- suffruticose
+- suffumigate
+- suffusing
+- suffusive

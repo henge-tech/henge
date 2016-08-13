@@ -1,0 +1,65 @@
+---
+pattern: libe_
+hi_scored_words_count: 27
+scored_words_count: 3
+total_words: 55
+score: 1603352
+score_per_word: 53445
+hi_scored_words:
+  libel: 20746
+  libelous: 55847
+  liber: 40414
+  liberal: 2659
+  liberalism: 21254
+  liberality: 70857
+  liberalization: 20351
+  liberalize: 78746
+  liberalized: 70807
+  liberalizing: 98402
+  liberally: 26768
+  liberals: 11517
+  liberate: 26278
+  liberated: 18079
+  liberates: 91675
+  liberating: 29167
+  liberation: 9496
+  liberator: 41985
+  liberators: 72649
+  libero: 41835
+  libertarian: 16897
+  libertarianism: 46452
+  libertarians: 31153
+  liberties: 10100
+  libertine: 45965
+  libertines: 59641
+  liberty: 2370
+scored_words:
+  libeled: 238480
+  libeling: 176243
+  libels: 126519
+not_scored_words:
+- Liberace
+- Liberal
+- Liberec
+- Liberia
+- Liberian
+- Liberians
+- Liberty
+- libeccio
+- libelant
+- libelee
+- libeler
+- libelers
+- libelist
+- libelously
+- liberalist
+- liberalistic
+- liberalizations
+- liberalizes
+- liberalness
+- liberationist
+- liberationists
+- libertarianisms
+- liberticide
+- libertinage
+- libertinism

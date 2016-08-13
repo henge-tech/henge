@@ -1,0 +1,25 @@
+---
+pattern: pro_nt
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 418567
+score_per_word: 46507
+hi_scored_words:
+  procurement: 16924
+  proficient: 16944
+  prominent: 4815
+  pronouncement: 59792
+  propellant: 40045
+  proponent: 26637
+  protestant: 11676
+  provident: 37426
+scored_words:
+  protuberant: 204308
+not_scored_words:
+- Protestant
+- procreant
+- procumbent
+- prodisarmament
+- profluent
+- progovernment

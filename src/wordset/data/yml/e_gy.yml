@@ -1,0 +1,39 @@
+---
+pattern: e_gy
+hi_scored_words_count: 20
+scored_words_count: 4
+total_words: 29
+score: 1559254
+score_per_word: 64968
+hi_scored_words:
+  ecclesiology: 86733
+  ecology: 9888
+  edgy: 29267
+  effigy: 45248
+  electrophysiology: 62808
+  elegy: 39620
+  embryology: 40561
+  endocrinology: 23476
+  energy: 748
+  entomology: 26973
+  enzymology: 31154
+  epidemiology: 11070
+  epistemology: 29133
+  eschatology: 48841
+  ethnology: 42094
+  ethnomusicology: 76295
+  ethology: 70517
+  etiology: 14976
+  etymology: 25180
+  eulogy: 33995
+scored_words:
+  electrotechnology: 138558
+  enology: 208447
+  escapology: 234967
+  exobiology: 228705
+not_scored_words:
+- Egyptology
+- eccrinology
+- electrobiology
+- electrometallurgy
+- euchology

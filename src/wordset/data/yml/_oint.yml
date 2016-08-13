@@ -1,0 +1,40 @@
+---
+pattern: _oint
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 30
+score: 1809634
+score_per_word: 72385
+hi_scored_words:
+  adjoint: 48577
+  anoint: 60744
+  appoint: 9045
+  ballpoint: 42412
+  checkpoint: 15819
+  conjoint: 72160
+  counterpoint: 32913
+  disappoint: 20365
+  disjoint: 34206
+  endpoint: 23412
+  flashpoint: 33296
+  gunpoint: 53295
+  highpoint: 61799
+  joint: 2041
+  midpoint: 35164
+  needlepoint: 44858
+  pinpoint: 21516
+  point: 233
+  standpoint: 13169
+  viewpoint: 15425
+scored_words:
+  bluepoint: 286323
+  drypoint: 193177
+  embonpoint: 179361
+  reappoint: 174953
+  silverpoint: 335371
+not_scored_words:
+- Hotpoint
+- PowerPoint
+- outpoint
+- pourpoint
+- preappoint

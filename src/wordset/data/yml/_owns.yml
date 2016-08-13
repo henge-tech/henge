@@ -1,0 +1,50 @@
+---
+pattern: _owns
+hi_scored_words_count: 15
+scored_words_count: 11
+total_words: 40
+score: 2539559
+score_per_word: 97675
+hi_scored_words:
+  breakdowns: 31793
+  browns: 17841
+  clowns: 23068
+  crowns: 14278
+  downs: 9402
+  drowns: 64920
+  frowns: 60290
+  gowns: 16939
+  hometowns: 99961
+  owns: 5237
+  shutdowns: 77262
+  slowdowns: 90200
+  touchdowns: 23637
+  towns: 2930
+  unknowns: 35707
+scored_words:
+  countdowns: 122867
+  crackdowns: 143079
+  disowns: 257984
+  godowns: 248658
+  knockdowns: 253792
+  markdowns: 112014
+  meltdowns: 167499
+  nightgowns: 115958
+  shantytowns: 217289
+  showdowns: 140458
+  sundowns: 186496
+not_scored_words:
+- Downs
+- ballgowns
+- clampdowns
+- comedowns
+- eiderdowns
+- hoedowns
+- letdowns
+- putdowns
+- rubdowns
+- rundowns
+- shakedowns
+- spelldowns
+- splashdowns
+- turndowns

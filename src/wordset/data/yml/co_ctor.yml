@@ -1,0 +1,21 @@
+---
+pattern: co_ctor
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 11
+score: 510567
+score_per_word: 51056
+hi_scored_words:
+  collector: 6523
+  compactor: 68759
+  conductor: 8080
+  connector: 7376
+  constrictor: 78891
+  constructor: 12920
+  contactor: 73599
+  contractor: 7336
+  corrector: 56312
+scored_words:
+  convector: 190771
+not_scored_words:
+- contradictor

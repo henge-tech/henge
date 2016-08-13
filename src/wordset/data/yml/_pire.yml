@@ -1,0 +1,23 @@
+---
+pattern: _pire
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 548740
+score_per_word: 49885
+hi_scored_words:
+  aspire: 12554
+  conspire: 42788
+  empire: 2284
+  expire: 13288
+  inspire: 8197
+  spire: 22484
+  transpire: 73551
+  umpire: 24050
+  vampire: 11709
+scored_words:
+  perspire: 123166
+  respire: 214669
+not_scored_words:
+- acrospire
+- suspire

@@ -1,0 +1,35 @@
+---
+pattern: down_s
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 25
+score: 1879543
+score_per_word: 117471
+hi_scored_words:
+  downers: 41036
+  downgrades: 58092
+  downloads: 8349
+  downs: 9402
+  downsides: 57456
+  downstairs: 10449
+  downturns: 89709
+  downwards: 23067
+scored_words:
+  downdrafts: 303499
+  downfalls: 144135
+  downhills: 203586
+  downpipes: 238164
+  downplays: 107366
+  downpours: 118408
+  downshifts: 321072
+  downspouts: 145753
+not_scored_words:
+- Downs
+- downbeats
+- downheartedness
+- downlands
+- downsizes
+- downstrokes
+- downswings
+- downticks
+- downtrends

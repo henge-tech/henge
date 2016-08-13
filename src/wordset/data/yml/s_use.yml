@@ -1,0 +1,27 @@
+---
+pattern: s_use
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 17
+score: 786541
+score_per_word: 71503
+hi_scored_words:
+  schoolhouse: 29812
+  slaughterhouse: 38807
+  smokehouse: 65383
+  souse: 67478
+  spouse: 6674
+  statehouse: 71430
+  steakhouse: 29148
+  storehouse: 37588
+  summerhouse: 86020
+scored_words:
+  springhouse: 124669
+  suffuse: 229532
+not_scored_words:
+- SUSE
+- Statehouse
+- Syracuse
+- shrewmouse
+- stratopause
+- superfuse

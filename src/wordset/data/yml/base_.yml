@@ -1,0 +1,37 @@
+---
+pattern: base_
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 27
+score: 1952699
+score_per_word: 88759
+hi_scored_words:
+  base: 985
+  baseball: 5812
+  baseballs: 56451
+  baseboard: 57792
+  based: 501
+  baseless: 43055
+  baseline: 11183
+  baselines: 58968
+  baseman: 27012
+  basement: 7499
+  basements: 44490
+  baseness: 99141
+  bases: 6324
+scored_words:
+  baseboards: 119181
+  basely: 191092
+  basemen: 101533
+  basenji: 121658
+  basenjis: 239254
+  baser: 100880
+  baserunner: 264567
+  baserunners: 264719
+  basest: 130602
+not_scored_words:
+- Basel
+- Basenji
+- baseborn
+- baseburner
+- baselessness

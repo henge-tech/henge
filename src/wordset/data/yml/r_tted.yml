@@ -1,0 +1,26 @@
+---
+pattern: r_tted
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 16
+score: 1368106
+score_per_word: 97721
+hi_scored_words:
+  readmitted: 86404
+  rebutted: 87137
+  refitted: 87998
+  reformatted: 55536
+  regretted: 23866
+  remitted: 42765
+  resubmitted: 78351
+  retransmitted: 85023
+  retrofitted: 72789
+  rotted: 56680
+scored_words:
+  ratted: 186805
+  recommitted: 154898
+  retted: 241004
+  rutted: 108850
+not_scored_words:
+- replotted
+- revetted

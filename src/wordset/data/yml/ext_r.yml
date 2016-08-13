@@ -1,0 +1,32 @@
+---
+pattern: ext_r
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 22
+score: 843108
+score_per_word: 70259
+hi_scored_words:
+  extender: 30032
+  extensor: 59689
+  exterior: 6084
+  exterminator: 53592
+  extinguisher: 37807
+  extracellular: 20421
+  extractor: 23570
+  extracurricular: 29527
+  extrasolar: 70122
+  extruder: 76303
+scored_words:
+  extravascular: 222549
+  extravehicular: 213412
+not_scored_words:
+- extensometer
+- extenuator
+- exteroceptor
+- extirpator
+- extoller
+- extorter
+- extortioner
+- extranuclear
+- extrapolator
+- extremer

@@ -1,0 +1,20 @@
+---
+pattern: _iven
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 303902
+score_per_word: 37987
+hi_scored_words:
+  driven: 2368
+  enliven: 57080
+  forgiven: 14772
+  given: 288
+  liven: 56528
+  riven: 47944
+  striven: 81685
+  unforgiven: 43237
+scored_words: {}
+not_scored_words:
+- misgiven
+- shriven

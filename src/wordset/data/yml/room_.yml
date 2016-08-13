@@ -1,0 +1,26 @@
+---
+pattern: room_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1177374
+score_per_word: 98114
+hi_scored_words:
+  room: 232
+  roomed: 98903
+  roomful: 98406
+  rooming: 61266
+  roommate: 9518
+  roommates: 9827
+  rooms: 1281
+  roomy: 31352
+scored_words:
+  roomer: 217906
+  roomers: 300115
+  roomier: 158541
+  roominess: 190027
+not_scored_words:
+- roomette
+- roomettes
+- roomfuls
+- roomiest

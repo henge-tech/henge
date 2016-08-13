@@ -1,0 +1,47 @@
+---
+pattern: _rel
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 37
+score: 2059680
+score_per_word: 79218
+hi_scored_words:
+  apparel: 5736
+  barrel: 5907
+  cockerel: 80015
+  doggerel: 88615
+  kestrel: 35841
+  laurel: 9866
+  mackerel: 27907
+  mandrel: 69073
+  minstrel: 29604
+  mongrel: 46644
+  morel: 38059
+  petrel: 52287
+  pickerel: 92834
+  quarrel: 19589
+  rel: 19931
+  scoundrel: 42337
+  sorrel: 40803
+  squirrel: 12119
+scored_words:
+  becquerel: 144021
+  carrel: 100041
+  correl: 208560
+  dotterel: 233226
+  gambrel: 159460
+  gangrel: 195218
+  spandrel: 141142
+  wastrel: 160845
+not_scored_words:
+- Becquerel
+- Carrel
+- Darrel
+- Laurel
+- Orel
+- cambrel
+- costrel
+- jurel
+- saurel
+- timbrel
+- tumbrel

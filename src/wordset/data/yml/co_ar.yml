@@ -1,0 +1,28 @@
+---
+pattern: co_ar
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1193180
+score_per_word: 85227
+hi_scored_words:
+  cochlear: 38757
+  collar: 5277
+  collinear: 84048
+  columnar: 48166
+  commissar: 61812
+  compar: 94645
+  consular: 23337
+  costar: 75097
+  cougar: 25671
+scored_words:
+  conciliar: 122864
+  condylar: 187734
+  coplanar: 104168
+  corpuscular: 143342
+  cottar: 178262
+not_scored_words:
+- Colmar
+- Conchobar
+- colcothar
+- copular

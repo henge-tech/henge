@@ -1,0 +1,30 @@
+---
+pattern: p_kers
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1404788
+score_per_word: 108060
+hi_scored_words:
+  pacemakers: 56870
+  packers: 22315
+  partakers: 87886
+  pawnbrokers: 90846
+  peacemakers: 61822
+  pickers: 45902
+  pokers: 80677
+  policymakers: 21595
+scored_words:
+  peckers: 207941
+  picnickers: 249551
+  porkers: 179189
+  printmakers: 110456
+  puckers: 189738
+not_scored_words:
+- pieceworkers
+- pikers
+- placekickers
+- plonkers
+- plunkers
+- prickers
+- provokers

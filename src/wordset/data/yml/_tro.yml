@@ -1,0 +1,22 @@
+---
+pattern: _tro
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 391645
+score_per_word: 43516
+hi_scored_words:
+  bistro: 18523
+  cilantro: 38041
+  electro: 8897
+  intro: 8720
+  maestro: 18555
+  metro: 8432
+  nitro: 18632
+  retro: 19249
+scored_words:
+  dextro: 252596
+not_scored_words:
+- Cagliostro
+- Castro
+- Metro

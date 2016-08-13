@@ -1,0 +1,40 @@
+---
+pattern: com_er
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 30
+score: 1534303
+score_per_word: 76715
+hi_scored_words:
+  comber: 92939
+  combiner: 93167
+  comer: 26653
+  comforter: 23445
+  commander: 3591
+  commenter: 22383
+  commissioner: 5153
+  committer: 76449
+  commoner: 53191
+  commuter: 18656
+  compiler: 11779
+  composer: 6110
+  comptroller: 23200
+  computer: 674
+scored_words:
+  commandeer: 106822
+  comparer: 125387
+  compeer: 292358
+  complainer: 156304
+  completer: 121478
+  compounder: 274564
+not_scored_words:
+- Commander
+- Comptometer
+- comaker
+- comelier
+- comfier
+- commender
+- commingler
+- compacter
+- compander
+- compromiser

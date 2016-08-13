@@ -1,0 +1,23 @@
+---
+pattern: ten_d
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 904398
+score_per_word: 82218
+hi_scored_words:
+  tend: 3336
+  tended: 9509
+  tendered: 32902
+  tenfold: 45903
+  tensed: 70317
+  tensioned: 84236
+  tented: 48674
+  tenured: 39099
+scored_words:
+  tenanted: 110936
+  tenderhearted: 231709
+  tentacled: 227777
+not_scored_words:
+- tenderized
+- tenoned

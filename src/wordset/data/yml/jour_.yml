@@ -1,0 +1,30 @@
+---
+pattern: jour_
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 20
+score: 755766
+score_per_word: 47235
+hi_scored_words:
+  journal: 1723
+  journalism: 7881
+  journalist: 7365
+  journalistic: 24295
+  journalists: 7662
+  journals: 4118
+  journey: 2310
+  journeyed: 46839
+  journeyer: 81965
+  journeying: 62141
+  journeyman: 30348
+  journeymen: 84021
+  journeys: 12039
+  journo: 79617
+scored_words:
+  journalese: 185034
+  journos: 118408
+not_scored_words:
+- journalistically
+- journalize
+- journeyers
+- journeywork

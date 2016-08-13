@@ -1,0 +1,34 @@
+---
+pattern: reb_s
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 24
+score: 1347045
+score_per_word: 89803
+hi_scored_words:
+  rebates: 14914
+  rebellions: 58536
+  rebellious: 29092
+  rebels: 7856
+  reboots: 54898
+  rebounds: 13227
+  rebuffs: 77952
+  rebuilds: 61852
+  rebukes: 86469
+  rebus: 45826
+  rebuttals: 89060
+scored_words:
+  rebelliousness: 169919
+  rebirths: 253255
+  rebroadcasts: 216887
+  rebuts: 167302
+not_scored_words:
+- rebatoes
+- rebatos
+- rebids
+- rebinds
+- reboils
+- reburials
+- reburies
+- rebuses
+- rebutters

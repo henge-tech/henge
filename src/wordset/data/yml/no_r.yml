@@ -1,0 +1,56 @@
+---
+pattern: no_r
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 46
+score: 2360938
+score_per_word: 131163
+hi_scored_words:
+  nobler: 47761
+  nodular: 64691
+  nonlinear: 16521
+  nonmember: 95974
+  nor: 1023
+  norther: 98309
+  northerner: 42433
+  notifier: 80170
+scored_words:
+  noisemaker: 178543
+  noisier: 103042
+  nominator: 124773
+  nonbeliever: 280184
+  nonnuclear: 274707
+  nonpolar: 111232
+  nonsmoker: 153303
+  nonuser: 336905
+  normalizer: 212121
+  notepaper: 139246
+not_scored_words:
+- Nor
+- Northerner
+- November
+- nomenclator
+- noncellular
+- nonconductor
+- nondrinker
+- nondriver
+- nongranular
+- nonjoinder
+- nonjoiner
+- nonjuror
+- nonkosher
+- nonreader
+- nonsecular
+- nonstarter
+- nonswimmer
+- nonsympathizer
+- nonvascular
+- nonvoter
+- nonworker
+- nor'easter
+- nor'wester
+- northeaster
+- northwester
+- nosher
+- nosier
+- nowhither

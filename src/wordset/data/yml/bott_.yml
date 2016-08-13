@@ -1,0 +1,32 @@
+---
+pattern: bott_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 22
+score: 1291135
+score_per_word: 75949
+hi_scored_words:
+  bott: 45409
+  bottle: 2556
+  bottled: 17060
+  bottleneck: 28190
+  bottlenecks: 37159
+  bottles: 4956
+  bottling: 28108
+  bottom: 1152
+  bottomed: 49209
+  bottomless: 37542
+  bottoms: 15775
+scored_words:
+  bottler: 127471
+  bottlers: 104124
+  bottoming: 108820
+  bottomland: 116907
+  bottomlands: 245519
+  bottommost: 321178
+not_scored_words:
+- Botticelli
+- Bottrop
+- bottleful
+- bottlefuls
+- bottomry

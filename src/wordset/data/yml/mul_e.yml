@@ -1,0 +1,30 @@
+---
+pattern: mul_e
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 20
+score: 1417624
+score_per_word: 101258
+hi_scored_words:
+  mule: 11578
+  multimillionaire: 99395
+  multiphase: 79135
+  multiple: 3599
+  multiplicative: 47567
+  multipurpose: 29727
+  multistage: 75587
+  multitude: 9245
+  multivariate: 25339
+  multiverse: 55366
+scored_words:
+  mullite: 171362
+  multilane: 275657
+  multipartite: 305132
+  multiuse: 228935
+not_scored_words:
+- Mulhouse
+- multifoliate
+- multiplicate
+- multisense
+- multivalence
+- multure

@@ -1,0 +1,51 @@
+---
+pattern: _tery
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 41
+score: 1957343
+score_per_word: 69905
+hi_scored_words:
+  adultery: 18933
+  artery: 11571
+  battery: 2453
+  blustery: 60069
+  buttery: 45303
+  cattery: 66278
+  cemetery: 5382
+  dysentery: 42617
+  eatery: 48348
+  flattery: 35871
+  glittery: 69157
+  jittery: 63063
+  lottery: 7641
+  mastery: 15376
+  monastery: 10549
+  mystery: 2425
+  pottery: 7018
+  presbytery: 35891
+  upholstery: 23118
+  watery: 22811
+scored_words:
+  baptistery: 140037
+  cautery: 114790
+  effrontery: 110129
+  electrocautery: 247320
+  fluttery: 266002
+  mesentery: 123492
+  printery: 214057
+  psaltery: 147642
+not_scored_words:
+- blistery
+- bootery
+- charactery
+- lepidoptery
+- lientery
+- magistery
+- marquetery
+- phalanstery
+- phylactery
+- smeltery
+- splintery
+- tottery
+- twittery

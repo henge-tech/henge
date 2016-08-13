@@ -1,0 +1,50 @@
+---
+pattern: hi_d
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 40
+score: 1123838
+score_per_word: 62435
+hi_scored_words:
+  hid: 9054
+  highland: 7769
+  highlighted: 7617
+  hijacked: 27401
+  hiked: 46117
+  hind: 22909
+  hindered: 27495
+  hinged: 25565
+  hinted: 26605
+  hinterland: 40679
+  hired: 5025
+  hissed: 50145
+  hitched: 41742
+scored_words:
+  hidebound: 166842
+  hied: 173712
+  highroad: 153012
+  hipped: 103219
+  hitchhiked: 188930
+not_scored_words:
+- Highland
+- Hildebrand
+- Hildegard
+- Hilliard
+- Hind
+- Hinshelwood
+- hibernated
+- hiccoughed
+- hiccuped
+- hided
+- higgled
+- highbred
+- highbrowed
+- highhanded
+- hightailed
+- hindward
+- hispid
+- histoid
+- historiated
+- historied
+- hitherward
+- hived

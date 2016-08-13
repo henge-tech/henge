@@ -1,0 +1,36 @@
+---
+pattern: swin_
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 26
+score: 1803205
+score_per_word: 106070
+hi_scored_words:
+  swindle: 42892
+  swindler: 79180
+  swine: 14379
+  swing: 4086
+  swinger: 25320
+  swingers: 16016
+  swinging: 8177
+  swings: 14387
+scored_words:
+  swindled: 110719
+  swindlers: 108152
+  swindles: 165994
+  swindling: 132486
+  swineherd: 183373
+  swinge: 303396
+  swinges: 327909
+  swingle: 133617
+  swink: 133122
+not_scored_words:
+- Swinburne
+- Swindon
+- swineherds
+- swines
+- swinged
+- swingeing
+- swingletree
+- swingletrees
+- swinish

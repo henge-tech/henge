@@ -1,0 +1,26 @@
+---
+pattern: unc_ated
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 1065673
+score_per_word: 88806
+hi_scored_words:
+  uncirculated: 73655
+  uncoated: 69319
+  uncompensated: 83499
+  uncomplicated: 40134
+  unconsolidated: 72011
+  uncontaminated: 87567
+  uncoordinated: 70475
+  uncorrelated: 62212
+  uncultivated: 74411
+scored_words:
+  uncalibrated: 154780
+  uncorroborated: 147121
+  uncreated: 130489
+not_scored_words:
+- uncelebrated
+- unconsecrated
+- unconsummated
+- uncrated

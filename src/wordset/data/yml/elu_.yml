@@ -1,0 +1,41 @@
+---
+pattern: elu_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 31
+score: 1255277
+score_per_word: 83685
+hi_scored_words:
+  elucidate: 35900
+  elucidated: 60537
+  elucidating: 80840
+  elucidation: 46891
+  elude: 43288
+  eluded: 48389
+  eludes: 72604
+  eluding: 90891
+  elusive: 16093
+  eluted: 70395
+  eluting: 99145
+  elution: 62206
+scored_words:
+  elucidates: 146089
+  elusiveness: 213123
+  elute: 168886
+not_scored_words:
+- Elul
+- Eluls
+- elucidations
+- elucidative
+- elucidator
+- elucidatory
+- eluder
+- elusion
+- elusions
+- elusively
+- elusory
+- elutes
+- elutions
+- elutriate
+- eluviation
+- eluvium

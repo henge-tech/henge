@@ -1,0 +1,31 @@
+---
+pattern: _erse
+hi_scored_words_count: 17
+scored_words_count: 1
+total_words: 21
+score: 576989
+score_per_word: 32054
+hi_scored_words:
+  adverse: 5775
+  averse: 28811
+  converse: 10749
+  disperse: 24436
+  diverse: 5039
+  immerse: 38695
+  inverse: 15011
+  multiverse: 55366
+  obverse: 47729
+  perse: 66852
+  perverse: 21367
+  reverse: 3538
+  terse: 41780
+  transverse: 15672
+  traverse: 13492
+  universe: 2497
+  verse: 4280
+scored_words:
+  intersperse: 175900
+not_scored_words:
+- Erse
+- asperse
+- submerse

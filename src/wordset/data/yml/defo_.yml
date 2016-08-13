@@ -1,0 +1,41 @@
+---
+pattern: defo_
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 31
+score: 2256824
+score_per_word: 125379
+hi_scored_words:
+  defoliation: 95838
+  deforest: 73074
+  deforestation: 28261
+  deform: 61402
+  deformable: 77756
+  deformation: 18939
+  deformations: 47925
+  deformed: 25000
+  deforming: 98148
+  deformities: 47352
+  deformity: 32110
+scored_words:
+  defogger: 187138
+  defoliant: 266083
+  defoliants: 303422
+  defoliate: 332285
+  defoliated: 249105
+  deforested: 158989
+  deforms: 153997
+not_scored_words:
+- Defoe
+- defog
+- defogged
+- defoggers
+- defogging
+- defogs
+- defoliates
+- defoliating
+- defoliator
+- defoliators
+- deforce
+- deforesting
+- deforests

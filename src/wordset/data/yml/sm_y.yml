@@ -1,0 +1,36 @@
+---
+pattern: sm_y
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 26
+score: 1284110
+score_per_word: 80256
+hi_scored_words:
+  smarmy: 82840
+  smartly: 45499
+  smarty: 31771
+  smelly: 23471
+  smiley: 18769
+  smithy: 46434
+  smokey: 21335
+  smoky: 15871
+  smoothly: 10086
+  smugly: 95579
+scored_words:
+  smilingly: 126214
+  smirky: 179496
+  smoggy: 182184
+  smoochy: 119471
+  smoothy: 159866
+  smutty: 125224
+not_scored_words:
+- Smokey
+- smarmily
+- smeary
+- smeltery
+- smirkily
+- smirkingly
+- smithery
+- smolderingly
+- smudgy
+- smutchy

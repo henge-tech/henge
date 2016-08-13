@@ -1,0 +1,23 @@
+---
+pattern: dr_l
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 783220
+score_per_word: 78322
+hi_scored_words:
+  drawl: 63873
+  dreadful: 12017
+  dreidel: 96586
+  drill: 6307
+  drivel: 40814
+  droll: 45843
+  drool: 32071
+  drywall: 28893
+scored_words:
+  dramaturgical: 294965
+  druidical: 161851
+not_scored_words:
+- Druidical
+- dreidl
+- dropsical

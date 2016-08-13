@@ -1,0 +1,32 @@
+---
+pattern: r_ced
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 22
+score: 1646957
+score_per_word: 86681
+hi_scored_words:
+  raced: 20586
+  reduced: 1854
+  referenced: 8289
+  refinanced: 81293
+  reinforced: 9838
+  reintroduced: 46799
+  rejoiced: 34595
+  renounced: 43910
+  replaced: 3180
+  reproduced: 6684
+  resourced: 57837
+  resurfaced: 61986
+  retraced: 96790
+scored_words:
+  rebalanced: 187404
+  recommenced: 119801
+  reminisced: 127476
+  repriced: 308551
+  reverenced: 191882
+  romanced: 238202
+not_scored_words:
+- recrudesced
+- refaced
+- riced

@@ -1,0 +1,25 @@
+---
+pattern: r_vers
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 15
+score: 942097
+score_per_word: 72469
+hi_scored_words:
+  ravers: 88522
+  receivers: 13300
+  recovers: 28636
+  relievers: 51141
+  removers: 62721
+  retrievers: 52377
+  revolvers: 52099
+  rivers: 3528
+  rollovers: 80141
+  rovers: 22161
+scored_words:
+  rediscovers: 189509
+  resolvers: 155593
+  revers: 142369
+not_scored_words:
+- Rivers
+- redelivers

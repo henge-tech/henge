@@ -1,0 +1,25 @@
+---
+pattern: _wash
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 987345
+score_per_word: 82278
+hi_scored_words:
+  awash: 43489
+  backwash: 57796
+  brainwash: 69317
+  carwash: 66348
+  hogwash: 69936
+  mouthwash: 58951
+  swash: 61230
+  wash: 3376
+  whitewash: 45448
+scored_words:
+  downwash: 266895
+  eyewash: 107671
+  outwash: 136888
+not_scored_words:
+- Wash
+- prewash
+- rewash

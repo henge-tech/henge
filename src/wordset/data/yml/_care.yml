@@ -1,0 +1,26 @@
+---
+pattern: _care
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 522632
+score_per_word: 47512
+hi_scored_words:
+  aftercare: 50390
+  care: 212
+  childcare: 11886
+  daycare: 19390
+  haircare: 53455
+  healthcare: 2812
+  medicare: 5551
+  scare: 9233
+  skincare: 19508
+scored_words:
+  eldercare: 114405
+  ricercare: 235790
+not_scored_words:
+- CARE
+- Medicare
+- Obamacare
+- Poincare
+- decare

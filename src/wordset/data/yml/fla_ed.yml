@@ -1,0 +1,36 @@
+---
+pattern: fla_ed
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 26
+score: 1509225
+score_per_word: 75461
+hi_scored_words:
+  flabbergasted: 64250
+  flagged: 26552
+  flaked: 74849
+  flamed: 46919
+  flanged: 60670
+  flanked: 32831
+  flapped: 90445
+  flared: 31577
+  flashed: 17999
+  flatbed: 29472
+  flattened: 22226
+  flattered: 34476
+  flavored: 19293
+  flawed: 15485
+  flaxseed: 65757
+scored_words:
+  flagellated: 281279
+  flailed: 170724
+  flatted: 196766
+  flaunted: 126278
+  flayed: 101377
+not_scored_words:
+- Flamsteed
+- flambeed
+- flambéed
+- flameproofed
+- flanneled
+- flatfooted

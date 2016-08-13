@@ -1,0 +1,38 @@
+---
+pattern: mi_a
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 28
+score: 889148
+score_per_word: 80831
+hi_scored_words:
+  miasma: 80008
+  mica: 22643
+  militia: 10946
+  millennia: 30880
+  mimosa: 43647
+  mirza: 37642
+  miscellanea: 66193
+  mitochondria: 25899
+scored_words:
+  mikva: 323892
+  milia: 146129
+  minutia: 101269
+not_scored_words:
+- MIA
+- Mia
+- Micronesia
+- Mimamsa
+- Mimosa
+- Minerva
+- Minna
+- Minnesota
+- Minolta
+- Minorca
+- Mintaka
+- Mira
+- Miranda
+- Mississauga
+- Mithra
+- Mitra
+- miliaria

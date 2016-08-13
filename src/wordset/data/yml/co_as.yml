@@ -1,0 +1,42 @@
+---
+pattern: co_as
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 32
+score: 2414550
+score_per_word: 142032
+hi_scored_words:
+  cobras: 49153
+  colas: 74398
+  comas: 86142
+  commas: 25848
+  congas: 66856
+  contras: 74404
+  copperas: 97589
+  coronas: 93467
+scored_words:
+  codas: 265969
+  concertinas: 259648
+  conchas: 166097
+  copulas: 240132
+  cordilleras: 247769
+  corneas: 116966
+  corollas: 226079
+  corridas: 141373
+  cowpeas: 182660
+not_scored_words:
+- Contreras
+- Cordilleras
+- cobias
+- cochleas
+- cocoas
+- coloraturas
+- colzas
+- confervas
+- conjunctivas
+- copaibas
+- coprolalias
+- cordobas
+- cornucopias
+- coryzas
+- cotingas

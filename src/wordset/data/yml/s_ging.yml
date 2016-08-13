@@ -1,0 +1,51 @@
+---
+pattern: s_ging
+hi_scored_words_count: 16
+scored_words_count: 18
+total_words: 41
+score: 4001467
+score_per_word: 117690
+hi_scored_words:
+  sabotaging: 73423
+  sagging: 45070
+  salvaging: 65322
+  scavenging: 53860
+  shagging: 53579
+  shrugging: 74999
+  singing: 3057
+  slinging: 67472
+  slugging: 61491
+  snagging: 80211
+  springing: 28155
+  staging: 21123
+  stinging: 27861
+  stringing: 44906
+  surging: 35308
+  swinging: 8177
+scored_words:
+  sandbagging: 250860
+  savaging: 253523
+  scourging: 141198
+  scrounging: 132235
+  shortchanging: 276658
+  slagging: 108222
+  slanging: 240766
+  sledging: 119818
+  slogging: 113354
+  smudging: 100336
+  snogging: 115324
+  splurging: 213529
+  sponging: 125180
+  submerging: 123893
+  supercharging: 145160
+  surcharging: 334859
+  swaging: 199770
+  swigging: 262768
+not_scored_words:
+- scrimmaging
+- scrummaging
+- singsonging
+- snugging
+- spanging
+- swagging
+- syringing

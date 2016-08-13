@@ -1,0 +1,34 @@
+---
+pattern: e_sion
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 24
+score: 1316467
+score_per_word: 65823
+hi_scored_words:
+  effusion: 34290
+  emission: 13268
+  emulsion: 29617
+  envision: 23311
+  erosion: 12900
+  evasion: 21018
+  excision: 29490
+  exclusion: 6222
+  excursion: 12909
+  expansion: 3860
+  explosion: 6277
+  expression: 1462
+  expulsion: 16786
+  extension: 2766
+  extrusion: 29283
+scored_words:
+  eclosion: 306473
+  elision: 128228
+  emersion: 290785
+  eversion: 198305
+  extroversion: 149217
+not_scored_words:
+- egression
+- elusion
+- erasion
+- evulsion

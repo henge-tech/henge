@@ -1,0 +1,73 @@
+---
+pattern: conf_s
+hi_scored_words_count: 25
+scored_words_count: 14
+total_words: 63
+score: 3805365
+score_per_word: 97573
+hi_scored_words:
+  confectioners: 86755
+  confections: 68394
+  confederates: 45675
+  confederations: 53918
+  conferees: 68515
+  conferences: 5040
+  confers: 32537
+  confess: 9429
+  confesses: 39822
+  confessions: 13662
+  confidences: 71269
+  confides: 97864
+  configurations: 9909
+  configures: 63106
+  confines: 20213
+  confirmations: 46342
+  confirms: 12121
+  conflicts: 6286
+  conformations: 65694
+  conforms: 28457
+  confounds: 80555
+  confrontations: 44743
+  confronts: 30030
+  confuses: 41542
+  confusions: 66423
+scored_words:
+  confederacies: 126628
+  confessionals: 162217
+  confessors: 129954
+  confidantes: 307086
+  confidants: 149165
+  confinements: 228040
+  confiscates: 200964
+  confiscations: 158564
+  conflagrations: 226055
+  conflates: 204789
+  confluences: 216359
+  conformers: 175321
+  conformists: 169870
+  confreres: 242052
+not_scored_words:
+- Confederates
+- Confucianisms
+- Confucians
+- Confucius
+- confabs
+- confabulates
+- confabulations
+- confectioneries
+- confects
+- conferments
+- conferrers
+- confervas
+- confiders
+- configurationisms
+- confiscators
+- confitures
+- conflations
+- confluxes
+- confoundedness
+- confraternities
+- confrères
+- confusedness
+- confusers
+- confutes

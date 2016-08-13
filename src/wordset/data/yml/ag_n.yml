@@ -1,0 +1,27 @@
+---
+pattern: ag_n
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 17
+score: 524881
+score_per_word: 47716
+hi_scored_words:
+  again: 207
+  agglomeration: 51462
+  agglutination: 65268
+  aggravation: 37805
+  aggregation: 16891
+  aggression: 11815
+  agitation: 16163
+  agon: 78138
+  agrarian: 26401
+  agron: 96265
+scored_words:
+  agglutinin: 124466
+not_scored_words:
+- Agamemnon
+- Agustin
+- agglutinogen
+- agnation
+- agnomen
+- agribusinessman

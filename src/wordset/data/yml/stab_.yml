@@ -1,0 +1,41 @@
+---
+pattern: stab_
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 31
+score: 2360540
+score_per_word: 94421
+hi_scored_words:
+  stab: 13556
+  stabbed: 21287
+  stabbing: 24921
+  stabile: 91008
+  stability: 5043
+  stabilization: 16832
+  stabilize: 21060
+  stabilized: 20876
+  stabilizer: 28165
+  stabilizers: 42102
+  stabilizes: 58624
+  stabilizing: 28054
+  stable: 3121
+  stabler: 93905
+  stables: 21846
+  stably: 76539
+  stabs: 46360
+scored_words:
+  stabber: 229458
+  stabbers: 264555
+  stabbings: 173683
+  stabled: 144838
+  stablemate: 179678
+  stablemates: 313168
+  stabling: 122374
+  stablish: 319487
+not_scored_words:
+- stabiles
+- stableboy
+- stableboys
+- stableman
+- stablemen
+- stablest

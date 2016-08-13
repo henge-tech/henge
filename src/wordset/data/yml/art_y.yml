@@ -1,0 +1,26 @@
+---
+pattern: art_y
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 16
+score: 928546
+score_per_word: 71426
+hi_scored_words:
+  artery: 11571
+  artfully: 54877
+  arthroscopy: 78305
+  articulatory: 88316
+  artificially: 20009
+  artillery: 7983
+  artistically: 42387
+  artistry: 36686
+  artsy: 45292
+  arty: 34957
+scored_words:
+  articulately: 180966
+  artificiality: 115857
+  artlessly: 211340
+not_scored_words:
+- arteriotomy
+- articulacy
+- artily

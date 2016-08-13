@@ -1,0 +1,34 @@
+---
+pattern: a_ning
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 24
+score: 1534794
+score_per_word: 85266
+hi_scored_words:
+  abandoning: 19722
+  abstaining: 47587
+  adjoining: 11820
+  adorning: 70741
+  aligning: 25214
+  ascertaining: 44756
+  assigning: 16370
+  attaining: 20186
+  auctioning: 53287
+  auditioning: 53599
+  awakening: 16455
+  awning: 27894
+scored_words:
+  accessioning: 304924
+  adjourning: 167666
+  appertaining: 107896
+  apportioning: 113699
+  atoning: 102602
+  attuning: 330376
+not_scored_words:
+- aborning
+- afterburning
+- aliening
+- aquaplaning
+- arraigning
+- attorning

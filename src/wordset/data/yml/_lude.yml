@@ -1,0 +1,24 @@
+---
+pattern: _lude
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 14
+score: 948431
+score_per_word: 72956
+hi_scored_words:
+  allude: 45838
+  collude: 98107
+  conclude: 5675
+  delude: 66266
+  elude: 43288
+  exclude: 6136
+  include: 974
+  interlude: 25412
+  preclude: 19142
+  prelude: 13974
+scored_words:
+  occlude: 144705
+  postlude: 195582
+  seclude: 283332
+not_scored_words:
+- Quaalude

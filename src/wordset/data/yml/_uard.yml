@@ -1,0 +1,25 @@
+---
+pattern: _uard
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 900724
+score_per_word: 75060
+hi_scored_words:
+  blackguard: 97206
+  bodyguard: 28331
+  coastguard: 42514
+  guard: 1949
+  jacquard: 41778
+  lifeguard: 32106
+  rearguard: 89427
+  safeguard: 12765
+  vanguard: 14313
+scored_words:
+  fireguard: 208967
+  mudguard: 139808
+  shinguard: 191560
+not_scored_words:
+- Jacquard
+- afterguard
+- outguard

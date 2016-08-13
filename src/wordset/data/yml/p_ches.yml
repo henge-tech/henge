@@ -1,0 +1,28 @@
+---
+pattern: p_ches
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 18
+score: 1120421
+score_per_word: 86186
+hi_scored_words:
+  patches: 5259
+  peaches: 17930
+  perches: 55507
+  pinches: 74424
+  pitches: 24022
+  porches: 41369
+  pouches: 27834
+  preaches: 41752
+  punches: 27180
+scored_words:
+  parches: 289972
+  pastiches: 262784
+  pooches: 129339
+  psyches: 123049
+not_scored_words:
+- paunches
+- pleaches
+- poaches
+- postiches
+- putsches

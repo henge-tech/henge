@@ -1,0 +1,29 @@
+---
+pattern: pl_m
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 19
+score: 1147769
+score_per_word: 76517
+hi_scored_words:
+  plagiarism: 22337
+  planetarium: 31509
+  plasmodium: 42061
+  platform: 2089
+  platinum: 8229
+  playroom: 43805
+  plenum: 27406
+  plum: 12609
+  pluralism: 29615
+  plutonium: 23230
+scored_words:
+  plasm: 101187
+  plectrum: 120297
+  pleochroism: 321042
+  pleonasm: 142872
+  plexiform: 219481
+not_scored_words:
+- Platonism
+- pleomorphism
+- plumbism
+- plumbum

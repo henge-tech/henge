@@ -1,0 +1,99 @@
+---
+pattern: be_n
+hi_scored_words_count: 25
+scored_words_count: 10
+total_words: 89
+score: 2387618
+score_per_word: 68217
+hi_scored_words:
+  beacon: 10975
+  bean: 7851
+  beaten: 5822
+  beatification: 93753
+  beautician: 63462
+  beautification: 50711
+  beckon: 58821
+  bedouin: 39267
+  bedridden: 72977
+  been: 62
+  befallen: 54100
+  began: 914
+  begin: 1048
+  begotten: 38285
+  begun: 4183
+  beholden: 49841
+  bellman: 56469
+  bemoan: 77432
+  ben: 2258
+  benediction: 41504
+  benign: 14581
+  benjamin: 4748
+  benzoin: 94444
+  berlin: 3034
+  between: 153
+scored_words:
+  bearskin: 105937
+  bedlinen: 125808
+  bedpan: 166127
+  bellmen: 236503
+  bellybutton: 113273
+  benefaction: 231452
+  benison: 188496
+  betaken: 105681
+  betatron: 153890
+  betoken: 113756
+not_scored_words:
+- Bean
+- Beaverton
+- Beckmann
+- Bedouin
+- Beethoven
+- Beeton
+- Begin
+- Beguin
+- Behan
+- Behistun
+- Belgian
+- Belizean
+- Bellerophon
+- Belmopan
+- Belorussian
+- Belsen
+- Ben
+- Benediction
+- Benetton
+- Benin
+- Benjamin
+- Bennington
+- Benson
+- Benton
+- Berchtesgaden
+- Berenson
+- Bergen
+- Bergman
+- Bergson
+- Berkeleian
+- Berlin
+- Bermudan
+- Bermudian
+- Bern
+- Bernstein
+- Bertelsmann
+- Bertillon
+- Bessarabian
+- Betjeman
+- Beuthen
+- Bevan
+- Bevin
+- beadsman
+- beadsmen
+- bedesman
+- bedizen
+- beechen
+- bemean
+- benzofuran
+- bespoken
+- bestrewn
+- bestridden
+- bevatron
+- bezonian

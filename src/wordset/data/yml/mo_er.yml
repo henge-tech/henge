@@ -1,0 +1,72 @@
+---
+pattern: mo_er
+hi_scored_words_count: 20
+scored_words_count: 13
+total_words: 62
+score: 3754864
+score_per_word: 113783
+hi_scored_words:
+  mobster: 57294
+  modeler: 45935
+  modifier: 27056
+  moisturizer: 31820
+  molester: 60144
+  moneymaker: 75902
+  monger: 56926
+  moniker: 36220
+  monolayer: 59307
+  monomer: 37795
+  monster: 3173
+  moonraker: 94169
+  moreover: 3342
+  mother: 594
+  motherfucker: 31872
+  mountaineer: 32703
+  mourner: 76689
+  mouser: 50413
+  mover: 18767
+  mower: 26681
+scored_words:
+  mobilizer: 233625
+  mocker: 212165
+  moister: 182424
+  molder: 123653
+  molter: 258477
+  moneylender: 204455
+  montgolfier: 239989
+  moocher: 233029
+  moonshiner: 303482
+  mopier: 283751
+  mopper: 294879
+  mounter: 217229
+  moviegoer: 140904
+not_scored_words:
+- Montgolfier
+- Montpelier
+- Montpellier
+- Mortimer
+- moaner
+- modernizer
+- moiler
+- moistener
+- moldier
+- mollifier
+- mollycoddler
+- moneychanger
+- moneyer
+- moneygrubber
+- monographer
+- monopolizer
+- moodier
+- moonier
+- moonlighter
+- moper
+- moralizer
+- mortiser
+- mossbunker
+- mossier
+- mosstrooper
+- mothproofer
+- motlier
+- mousier
+- mouthier

@@ -1,0 +1,27 @@
+---
+pattern: neur_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 877770
+score_per_word: 87777
+hi_scored_words:
+  neuritis: 67474
+  neurologists: 61455
+  neurons: 10018
+  neurosciences: 57348
+  neuroses: 83111
+  neurosis: 47648
+  neurosurgeons: 99908
+  neurotransmitters: 47054
+scored_words:
+  neuroblasts: 216012
+  neurotics: 187742
+not_scored_words:
+- neurasthenics
+- neuritics
+- neuritides
+- neuroglias
+- neurophysiologies
+- neuropsychiatries
+- neuroticisms

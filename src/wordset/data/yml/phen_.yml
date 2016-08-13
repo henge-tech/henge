@@ -1,0 +1,53 @@
+---
+pattern: phen_
+hi_scored_words_count: 17
+scored_words_count: 13
+total_words: 43
+score: 2757142
+score_per_word: 91904
+hi_scored_words:
+  phenix: 48839
+  phenobarbital: 55926
+  phenol: 30752
+  phenolic: 40903
+  phenols: 66773
+  phenom: 53980
+  phenomena: 6239
+  phenomenal: 17148
+  phenomenally: 75911
+  phenomenological: 42533
+  phenomenology: 33401
+  phenomenon: 5903
+  phenotype: 20733
+  phenotypes: 37900
+  phenotypic: 39201
+  phenyl: 38356
+  phenylalanine: 44390
+scored_words:
+  phenacetin: 225223
+  phenanthrene: 145435
+  phencyclidine: 117696
+  phenolics: 125841
+  phenology: 113943
+  phenolphthalein: 175042
+  phenomenologically: 199121
+  phenomenons: 168220
+  phenoms: 298060
+  phenothiazine: 164789
+  phenothiazines: 114311
+  phenotypically: 143550
+  phenylketonuria: 107023
+not_scored_words:
+- phenacaine
+- phenacite
+- phenazine
+- phenetidine
+- phenetole
+- phenformin
+- phenocryst
+- phenomenalism
+- phenosafranine
+- phenotypical
+- phenoxide
+- phenylalanines
+- phenylamine

@@ -1,0 +1,39 @@
+---
+pattern: _ease
+hi_scored_words_count: 22
+scored_words_count: 5
+total_words: 29
+score: 1623767
+score_per_word: 60139
+hi_scored_words:
+  appease: 29687
+  cease: 6323
+  crease: 27790
+  decease: 59726
+  decrease: 5628
+  disease: 1220
+  displease: 80960
+  ease: 2909
+  grease: 10826
+  increase: 896
+  lease: 5175
+  nuclease: 79216
+  please: 206
+  prerelease: 47262
+  protease: 25587
+  release: 750
+  ribonuclease: 72675
+  striptease: 36904
+  sublease: 78718
+  surcease: 83252
+  tease: 13474
+  unease: 55453
+scored_words:
+  degrease: 322389
+  deoxyribonuclease: 181607
+  heartsease: 135568
+  rerelease: 152213
+  urease: 107353
+not_scored_words:
+- casease
+- predecease

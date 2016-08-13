@@ -1,0 +1,44 @@
+---
+pattern: mate_
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 34
+score: 1605986
+score_per_word: 64239
+hi_scored_words:
+  mate: 3659
+  mated: 38183
+  mater: 18885
+  material: 740
+  materialism: 25440
+  materialist: 57433
+  materialistic: 35915
+  materiality: 57203
+  materialize: 48561
+  materialized: 45979
+  materializes: 96780
+  materially: 15321
+  materials: 1160
+  materiel: 36619
+  maternal: 8821
+  maternity: 11782
+  mates: 9970
+  matey: 66973
+scored_words:
+  matelot: 118096
+  materialists: 115594
+  materialization: 125006
+  materializing: 154611
+  maternally: 131553
+  maters: 170529
+  mateys: 211173
+not_scored_words:
+- matelote
+- matelotes
+- materfamilias
+- materialistically
+- materialities
+- maternalism
+- maternalist
+- maternalistic
+- maternalistically

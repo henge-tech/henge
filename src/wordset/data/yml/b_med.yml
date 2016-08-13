@@ -1,0 +1,28 @@
+---
+pattern: b_med
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 1306961
+score_per_word: 100535
+hi_scored_words:
+  beamed: 36227
+  blamed: 10669
+  bloomed: 69070
+  blossomed: 48567
+  boomed: 51217
+  bottomed: 49209
+  brimmed: 79237
+  bummed: 48203
+scored_words:
+  becalmed: 171028
+  begrimed: 166874
+  blasphemed: 139535
+  bosomed: 298691
+  brainstormed: 138434
+not_scored_words:
+- barnstormed
+- becharmed
+- bedimmed
+- bellbottomed
+- beseemed

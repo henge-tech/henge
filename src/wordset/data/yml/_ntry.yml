@@ -1,0 +1,34 @@
+---
+pattern: _ntry
+hi_scored_words_count: 18
+scored_words_count: 2
+total_words: 24
+score: 1128713
+score_per_word: 56435
+hi_scored_words:
+  carpentry: 28395
+  chantry: 77404
+  country: 204
+  entry: 1965
+  gallantry: 47076
+  gantry: 55850
+  gentry: 17220
+  infantry: 5934
+  pageantry: 68273
+  pantry: 18992
+  peasantry: 50122
+  pedantry: 74640
+  reentry: 42523
+  sentry: 19225
+  subentry: 92729
+  tenantry: 96577
+  upcountry: 95705
+  wintry: 39396
+scored_words:
+  errantry: 113926
+  pleasantry: 182557
+not_scored_words:
+- Coventry
+- Gantry
+- Gentry
+- gauntry

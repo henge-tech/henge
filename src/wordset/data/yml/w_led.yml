@@ -1,0 +1,44 @@
+---
+pattern: w_led
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 34
+score: 2835917
+score_per_word: 123300
+hi_scored_words:
+  wailed: 70093
+  walled: 20231
+  welled: 75779
+  wheedled: 93636
+  wheeled: 14642
+  whirled: 52998
+  whistled: 52808
+  whittled: 84990
+  wiggled: 98326
+  willed: 32350
+  wrestled: 42020
+  wrinkled: 28650
+scored_words:
+  waddled: 154401
+  waffled: 251885
+  waggled: 289216
+  wangled: 219901
+  warbled: 250428
+  wattled: 162932
+  whiled: 268303
+  whorled: 169403
+  wobbled: 119568
+  wrangled: 179937
+  wriggled: 103420
+not_scored_words:
+- waled
+- wambled
+- wassailed
+- weaseled
+- whaled
+- wholesaled
+- wiled
+- wimpled
+- windmilled
+- winkled
+- wooled

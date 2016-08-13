@@ -1,0 +1,32 @@
+---
+pattern: gra_g
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 22
+score: 1332792
+score_per_word: 70146
+hi_scored_words:
+  grabbing: 22467
+  gracing: 90138
+  grading: 17541
+  graduating: 16578
+  grafting: 33803
+  grandstanding: 95962
+  granting: 9955
+  graphing: 33124
+  grappling: 34611
+  grasping: 20451
+  gratifying: 26608
+  grating: 21299
+  graying: 88028
+  grayling: 42831
+  grazing: 12939
+scored_words:
+  grandfathering: 156061
+  granulating: 278249
+  graving: 218454
+  gravitating: 113693
+not_scored_words:
+- gradating
+- grassing
+- graveling

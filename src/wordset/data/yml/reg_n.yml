@@ -1,0 +1,23 @@
+---
+pattern: reg_n
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 360025
+score_per_word: 36002
+hi_scored_words:
+  regain: 13090
+  regeneration: 11923
+  regimen: 18901
+  region: 960
+  registration: 5503
+  regression: 7692
+  regularization: 63155
+  regulation: 3657
+  regurgitation: 55668
+scored_words:
+  regimentation: 179476
+not_scored_words:
+- Regin
+- regelation
+- regrown

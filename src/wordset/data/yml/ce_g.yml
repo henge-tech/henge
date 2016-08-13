@@ -1,0 +1,27 @@
+---
+pattern: ce_g
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 17
+score: 795426
+score_per_word: 72311
+hi_scored_words:
+  ceasing: 37416
+  ceding: 77345
+  ceiling: 4553
+  celebrating: 9117
+  cementing: 66641
+  censoring: 44556
+  centering: 38231
+  centralizing: 81254
+  certifying: 30073
+scored_words:
+  censuring: 182444
+  centrifuging: 223796
+not_scored_words:
+- censing
+- censusing
+- centreing
+- cerebrating
+- cering
+- certificating

@@ -1,0 +1,30 @@
+---
+pattern: debu_
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 20
+score: 1491320
+score_per_word: 78490
+hi_scored_words:
+  debug: 16258
+  debugged: 97360
+  debugger: 27960
+  debuggers: 85318
+  debugging: 13839
+  debunk: 65569
+  debunked: 57753
+  debunking: 53498
+  debut: 9143
+  debutante: 61225
+  debutantes: 82534
+  debuted: 26888
+  debuting: 66096
+  debuts: 23535
+scored_words:
+  debugs: 172663
+  debunker: 258515
+  debunks: 101253
+  debus: 171505
+  debutant: 100408
+not_scored_words:
+- Debussy

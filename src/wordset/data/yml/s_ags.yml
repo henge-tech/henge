@@ -1,0 +1,26 @@
+---
+pattern: s_ags
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 740118
+score_per_word: 82235
+hi_scored_words:
+  saddlebags: 73122
+  sags: 92248
+  sandbags: 77008
+  scumbags: 87190
+  slags: 79746
+  snags: 54185
+  stags: 48661
+  swags: 84096
+scored_words:
+  shags: 143862
+not_scored_words:
+- scags
+- scalawags
+- scallywags
+- schoolbags
+- scrags
+- sleazebags
+- sprags

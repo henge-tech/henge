@@ -1,0 +1,42 @@
+---
+pattern: re_sed
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 32
+score: 2583237
+score_per_word: 95675
+hi_scored_words:
+  reassessed: 76618
+  recessed: 34041
+  recrossed: 93888
+  refocused: 96763
+  refused: 3209
+  regressed: 73855
+  rehearsed: 43592
+  reimbursed: 30673
+  relapsed: 50682
+  released: 1790
+  reposed: 92421
+  repossessed: 54737
+  repressed: 24058
+  reprocessed: 95507
+  repulsed: 51308
+  repurchased: 89482
+  reused: 26524
+  reversed: 9906
+  revised: 5374
+scored_words:
+  reappraised: 296718
+  recompensed: 163043
+  recused: 136237
+  redressed: 108692
+  rehoused: 258549
+  reimposed: 277704
+  rendezvoused: 265059
+  rephrased: 122807
+not_scored_words:
+- readdressed
+- recomposed
+- recompressed
+- rediscussed
+- retrogressed

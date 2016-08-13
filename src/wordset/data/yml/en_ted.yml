@@ -1,0 +1,24 @@
+---
+pattern: en_ted
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 14
+score: 689298
+score_per_word: 57441
+hi_scored_words:
+  enacted: 14571
+  encapsulated: 27847
+  enchanted: 13152
+  encrusted: 52718
+  encrypted: 15753
+  enlisted: 12069
+  entreated: 76979
+  entrusted: 15700
+  enumerated: 19975
+  enunciated: 61754
+scored_words:
+  enervated: 174817
+  engrafted: 203963
+not_scored_words:
+- encysted
+- englutted

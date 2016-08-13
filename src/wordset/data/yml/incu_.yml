@@ -1,0 +1,65 @@
+---
+pattern: incu_
+hi_scored_words_count: 19
+scored_words_count: 12
+total_words: 55
+score: 3315500
+score_per_word: 106951
+hi_scored_words:
+  incubate: 49101
+  incubated: 28170
+  incubating: 70753
+  incubation: 23780
+  incubator: 25340
+  incubators: 52504
+  incubus: 24101
+  inculcate: 65637
+  inculcated: 92204
+  incumbency: 90590
+  incumbent: 11535
+  incumbents: 32318
+  incur: 14513
+  incurable: 33577
+  incurred: 15695
+  incurring: 35223
+  incurs: 52980
+  incursion: 44842
+  incursions: 47647
+scored_words:
+  incubates: 253430
+  incudes: 327712
+  inculcates: 236204
+  inculcating: 142728
+  inculcation: 182578
+  inculpatory: 216611
+  incunabula: 136825
+  incurably: 184900
+  incurious: 169666
+  incurrence: 185371
+  incus: 127894
+  incuse: 341071
+not_scored_words:
+- incubative
+- incubuses
+- inculcative
+- inculcator
+- inculpable
+- inculpate
+- inculpated
+- inculpates
+- inculpating
+- inculpation
+- inculpations
+- incult
+- incumbencies
+- incunabulum
+- incurabilities
+- incurability
+- incurables
+- incuriously
+- incurrences
+- incurrent
+- incursive
+- incurvate
+- incurve
+- incuses

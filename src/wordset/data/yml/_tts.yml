@@ -1,0 +1,28 @@
+---
+pattern: _tts
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 833379
+score_per_word: 75761
+hi_scored_words:
+  boycotts: 53470
+  butts: 11238
+  kilowatts: 71841
+  megawatts: 49525
+  mitts: 36644
+  mutts: 78761
+  putts: 63865
+  watts: 9179
+scored_words:
+  bitts: 115818
+  gigawatts: 216091
+  setts: 126947
+not_scored_words:
+- Massachusetts
+- Pitts
+- Potts
+- Watts
+- abwatts
+- babbitts
+- headbutts

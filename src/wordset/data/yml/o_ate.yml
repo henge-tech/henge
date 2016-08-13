@@ -1,0 +1,60 @@
+---
+pattern: o_ate
+hi_scored_words_count: 18
+scored_words_count: 11
+total_words: 50
+score: 2453941
+score_per_word: 84618
+hi_scored_words:
+  obfuscate: 73889
+  oblate: 82025
+  obligate: 47241
+  obliterate: 48448
+  obstinate: 38243
+  obviate: 54514
+  officiate: 51766
+  operate: 4149
+  opiate: 33608
+  orchestrate: 60377
+  ordinate: 25695
+  originate: 16893
+  ornate: 24244
+  oscillate: 59092
+  ovate: 61733
+  overestimate: 52156
+  overstate: 66224
+  oxalate: 49514
+scored_words:
+  obdurate: 100526
+  obovate: 158385
+  oleate: 147803
+  orate: 165102
+  organophosphate: 103346
+  orientate: 115186
+  overate: 169307
+  overcompensate: 205011
+  overrate: 233015
+  ovulate: 105006
+  oxygenate: 101443
+not_scored_words:
+- obcordate
+- objurgate
+- obnubilate
+- obsecrate
+- obturate
+- obumbrate
+- ocreate
+- oppilate
+- orbiculate
+- osculate
+- outdate
+- overconsiderate
+- overdecorate
+- overeducate
+- overelaborate
+- overinflate
+- overmedicate
+- overpopulate
+- overregulate
+- overstimulate
+- oxidate

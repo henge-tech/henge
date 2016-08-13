@@ -1,0 +1,40 @@
+---
+pattern: su_ting
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 30
+score: 1559962
+score_per_word: 74283
+hi_scored_words:
+  subcontracting: 48471
+  subjecting: 38000
+  submitting: 8202
+  subsisting: 71426
+  substituting: 20360
+  subtracting: 33055
+  subverting: 78151
+  suffocating: 51282
+  suggesting: 6705
+  suiting: 71054
+  superconducting: 35416
+  supplementing: 44780
+  supporting: 3090
+  suspecting: 42958
+scored_words:
+  subjugating: 173559
+  subletting: 130857
+  subordinating: 129249
+  substantiating: 106500
+  supplanting: 113080
+  supplicating: 231953
+  surmounting: 121814
+not_scored_words:
+- subediting
+- sublimating
+- sugarcoating
+- superannuating
+- supersaturating
+- supinating
+- suppurating
+- surfeiting
+- susurrating

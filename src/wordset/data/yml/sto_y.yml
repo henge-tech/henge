@@ -1,0 +1,31 @@
+---
+pattern: sto_y
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 21
+score: 1719107
+score_per_word: 114607
+hi_scored_words:
+  stocky: 58957
+  stodgy: 86695
+  stoichiometry: 71515
+  stony: 13557
+  stormy: 15322
+  story: 315
+  stoutly: 80453
+  stowaway: 47897
+scored_words:
+  stochastically: 150870
+  stoically: 148283
+  stolidity: 196222
+  stolidly: 241122
+  stomatology: 264013
+  stonefly: 142222
+  stonily: 201664
+not_scored_words:
+- Stornoway
+- stockily
+- stodgily
+- stogy
+- stormily
+- stoutheartedly

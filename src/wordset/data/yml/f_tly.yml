@@ -1,0 +1,28 @@
+---
+pattern: f_tly
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 1035119
+score_per_word: 79624
+hi_scored_words:
+  faintly: 28179
+  fervently: 39382
+  firstly: 15200
+  flatly: 46052
+  fluently: 37754
+  fortnightly: 40278
+  fraudulently: 54530
+  frequently: 1564
+scored_words:
+  fitly: 129252
+  flagrantly: 104140
+  flamboyantly: 209404
+  flippantly: 177009
+  forthrightly: 152375
+not_scored_words:
+- fatly
+- featly
+- flatulently
+- fleetly
+- fragrantly

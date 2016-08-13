@@ -1,0 +1,32 @@
+---
+pattern: in_sion
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 22
+score: 1262795
+score_per_word: 74282
+hi_scored_words:
+  incision: 25894
+  inclusion: 11456
+  incursion: 44842
+  indecision: 46171
+  infusion: 15194
+  intercession: 41306
+  intermission: 27142
+  intrusion: 11275
+  invasion: 4929
+  inversion: 19476
+scored_words:
+  incomprehension: 143073
+  intension: 138241
+  interconversion: 181569
+  intersession: 141166
+  introgression: 180777
+  intromission: 124102
+  introversion: 106182
+not_scored_words:
+- ingression
+- inhesion
+- interfusion
+- interspersion
+- intorsion

@@ -1,0 +1,41 @@
+---
+pattern: r_et
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 31
+score: 1282178
+score_per_word: 75422
+hi_scored_words:
+  racket: 19457
+  racquet: 28048
+  ramjet: 73159
+  ratchet: 20015
+  regret: 5843
+  rennet: 96671
+  reset: 16469
+  ricochet: 40629
+  rivet: 30989
+  rivulet: 86204
+  rocket: 9839
+  russet: 48491
+scored_words:
+  rabbet: 155245
+  reinterpret: 113600
+  rhet: 156890
+  ringlet: 173714
+  rochet: 206915
+not_scored_words:
+- Rambouillet
+- Roget
+- ranket
+- reglet
+- retrorocket
+- retweet
+- revet
+- rillet
+- ripplet
+- rondelet
+- rootlet
+- roundlet
+- rundlet
+- runlet

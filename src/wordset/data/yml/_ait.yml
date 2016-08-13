@@ -1,0 +1,26 @@
+---
+pattern: _ait
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 16
+score: 800976
+score_per_word: 61613
+hi_scored_words:
+  ait: 25742
+  await: 11883
+  bait: 9913
+  gait: 19648
+  parfait: 56612
+  plait: 60230
+  portrait: 3805
+  strait: 10619
+  trait: 12854
+  wait: 965
+scored_words:
+  distrait: 179901
+  krait: 265005
+  whitebait: 143799
+not_scored_words:
+- Kuwait
+- Sumgait
+- outwait

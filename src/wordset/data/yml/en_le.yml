@@ -1,0 +1,29 @@
+---
+pattern: en_le
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 776049
+score_per_word: 64670
+hi_scored_words:
+  enable: 2238
+  encircle: 58654
+  enforceable: 22884
+  enjoyable: 9996
+  ensemble: 8770
+  entangle: 75482
+  entitle: 33034
+  enviable: 35235
+scored_words:
+  endurable: 111627
+  enfeeble: 101886
+  ennoble: 194025
+  enumerable: 122218
+not_scored_words:
+- endorsable
+- enisle
+- enkindle
+- enlargeable
+- enneastyle
+- ensample
+- ensile

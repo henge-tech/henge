@@ -1,0 +1,20 @@
+---
+pattern: inf_ted
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 492671
+score_per_word: 54741
+hi_scored_words:
+  infatuated: 61009
+  infected: 6260
+  infested: 24013
+  infiltrated: 42601
+  inflated: 19491
+  inflected: 51430
+  inflicted: 14315
+  infuriated: 52197
+scored_words:
+  infarcted: 221355
+not_scored_words:
+- infracted

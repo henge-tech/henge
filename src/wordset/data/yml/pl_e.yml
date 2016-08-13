@@ -1,0 +1,76 @@
+---
+pattern: pl_e
+hi_scored_words_count: 25
+scored_words_count: 13
+total_words: 66
+score: 2622964
+score_per_word: 69025
+hi_scored_words:
+  placate: 60682
+  place: 162
+  plage: 55873
+  plagiarize: 86333
+  plagioclase: 60725
+  plague: 9391
+  plaice: 75022
+  plaintive: 50411
+  plane: 3272
+  plaque: 17432
+  plate: 2257
+  plausible: 12714
+  playable: 21402
+  playhouse: 20569
+  playmate: 24718
+  playtime: 29302
+  please: 206
+  pleasurable: 23388
+  pleasure: 1980
+  plebiscite: 61525
+  pledge: 6118
+  pliable: 44898
+  plumage: 33423
+  plume: 17886
+  plunge: 12943
+scored_words:
+  placable: 149366
+  placename: 122205
+  planchette: 100022
+  plantigrade: 140502
+  plasticine: 127878
+  plastique: 106137
+  platitude: 116780
+  pleasance: 130943
+  plebe: 129616
+  pledgee: 259069
+  plenitude: 102063
+  plosive: 130601
+  plowshare: 275150
+not_scored_words:
+- Place
+- Plasticine
+- Platte
+- Pleistocene
+- Pliocene
+- placative
+- planogamete
+- planospore
+- plantable
+- plantlike
+- plasmosome
+- plasticize
+- platinize
+- platinocyanide
+- platinotype
+- platitudinize
+- plausive
+- pleurae
+- plicae
+- plicate
+- ploce
+- plowable
+- plughole
+- plumate
+- plumbable
+- plumose
+- plumule
+- pluralize

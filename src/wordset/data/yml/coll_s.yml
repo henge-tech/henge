@@ -1,0 +1,62 @@
+---
+pattern: coll_s
+hi_scored_words_count: 21
+scored_words_count: 14
+total_words: 52
+score: 3218581
+score_per_word: 91959
+hi_scored_words:
+  collaborates: 50339
+  collaborations: 17847
+  collaborators: 20527
+  collages: 44786
+  collapses: 35383
+  collars: 18019
+  colleagues: 5321
+  collectables: 10995
+  collectibles: 9608
+  collections: 8132
+  collectives: 59128
+  collectors: 9519
+  collects: 13845
+  colleges: 4268
+  collides: 75834
+  collieries: 94661
+  colliers: 56324
+  collies: 71969
+  collins: 5458
+  collisions: 20291
+  colloids: 62985
+scored_words:
+  collagens: 179370
+  collards: 117868
+  collarless: 141483
+  collates: 153650
+  collations: 188456
+  collators: 321748
+  collectivists: 291808
+  collegians: 112514
+  collets: 169574
+  colliders: 101972
+  collimators: 167689
+  collocations: 122389
+  colloquialisms: 151271
+  colloquiums: 303550
+not_scored_words:
+- Collins
+- collaborationists
+- collarbones
+- collectings
+- collectiveness
+- collectivizes
+- colleens
+- colligates
+- collimates
+- collinses
+- collocates
+- collogues
+- colloquies
+- collotypes
+- colludes
+- collyriums
+- collywobbles

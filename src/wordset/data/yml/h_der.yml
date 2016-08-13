@@ -1,0 +1,30 @@
+---
+pattern: h_der
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1012049
+score_per_word: 77849
+hi_scored_words:
+  harder: 4178
+  header: 3423
+  herder: 44724
+  hereunder: 27955
+  hider: 96993
+  highlander: 25252
+  hinder: 14655
+  holder: 3385
+  householder: 18163
+scored_words:
+  heder: 132388
+  hellbender: 290104
+  hoarder: 207472
+  homesteader: 143357
+not_scored_words:
+- Herder
+- Highlander
+- Holder
+- Hollander
+- highbinder
+- hounder
+- husbander

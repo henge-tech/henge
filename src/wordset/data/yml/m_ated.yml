@@ -1,0 +1,51 @@
+---
+pattern: m_ated
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 41
+score: 1997240
+score_per_word: 73971
+hi_scored_words:
+  maltreated: 96110
+  mandated: 16562
+  manipulated: 19930
+  marinated: 35908
+  masturbated: 88780
+  mated: 38183
+  matriculated: 62888
+  mediated: 10680
+  medicated: 40639
+  meditated: 63869
+  methylated: 58645
+  migrated: 22900
+  mistreated: 51418
+  mitigated: 35187
+  moderated: 17879
+  modulated: 31686
+  monounsaturated: 86071
+  motivated: 6951
+  mutated: 32676
+  mutilated: 36573
+scored_words:
+  macerated: 145941
+  militated: 273376
+  misappropriated: 111613
+  miscalculated: 101114
+  misstated: 149662
+  mistranslated: 217453
+  moated: 144546
+not_scored_words:
+- machinated
+- maculated
+- manducated
+- masticated
+- maturated
+- medullated
+- meliorated
+- menstruated
+- mentholated
+- metricated
+- micturated
+- miscreated
+- misdated
+- mismated

@@ -1,0 +1,46 @@
+---
+pattern: _ived
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 36
+score: 1308323
+score_per_word: 54513
+hi_scored_words:
+  archived: 13568
+  arrived: 2514
+  conceived: 7798
+  contrived: 22647
+  deceived: 16525
+  deprived: 9661
+  derived: 2675
+  dived: 36800
+  lived: 1779
+  outlived: 64495
+  perceived: 4518
+  preconceived: 48755
+  received: 471
+  revived: 14796
+  survived: 7202
+  thrived: 47703
+  waived: 20833
+scored_words:
+  connived: 196773
+  misconceived: 136547
+  negatived: 103534
+  relived: 112928
+  rived: 156420
+  undeceived: 104546
+  unperceived: 174835
+not_scored_words:
+- apperceived
+- hived
+- jived
+- midwived
+- misperceived
+- nosedived
+- shrived
+- skived
+- skydived
+- unlived
+- unreceived
+- wived

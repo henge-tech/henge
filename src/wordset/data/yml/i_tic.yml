@@ -1,0 +1,33 @@
+---
+pattern: i_tic
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 23
+score: 1429178
+score_per_word: 89323
+hi_scored_words:
+  iconoclastic: 73780
+  idealistic: 33741
+  idiomatic: 56543
+  idiosyncratic: 34572
+  idiotic: 25031
+  imperialistic: 92145
+  impressionistic: 74511
+  individualistic: 50027
+  inelastic: 36294
+  intergalactic: 44819
+  interscholastic: 61135
+scored_words:
+  imagistic: 277900
+  impolitic: 145733
+  inartistic: 146771
+  inauthentic: 148430
+  isostatic: 127746
+not_scored_words:
+- Instamatic
+- identic
+- ideogrammatic
+- illusionistic
+- isochromatic
+- isomagnetic
+- isopiestic

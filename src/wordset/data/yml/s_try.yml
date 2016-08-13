@@ -1,0 +1,26 @@
+---
+pattern: s_try
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 16
+score: 494361
+score_per_word: 54929
+hi_scored_words:
+  sentry: 19225
+  sophistry: 72027
+  spectrometry: 26678
+  spectrophotometry: 78869
+  stereochemistry: 92514
+  stoichiometry: 71515
+  subentry: 92729
+  sultry: 29913
+  symmetry: 10891
+scored_words: {}
+not_scored_words:
+- sociometry
+- spectrochemistry
+- statolatry
+- stereometry
+- stichometry
+- subindustry
+- summitry

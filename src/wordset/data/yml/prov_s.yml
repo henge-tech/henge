@@ -1,0 +1,30 @@
+---
+pattern: prov_s
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 20
+score: 1126753
+score_per_word: 80482
+hi_scored_words:
+  proverbs: 14745
+  proves: 7222
+  providers: 11726
+  provides: 2866
+  provinces: 5109
+  provisions: 1978
+  provocations: 75552
+  provokes: 49451
+scored_words:
+  provenances: 243661
+  provers: 150710
+  provincials: 100012
+  provisos: 155609
+  provocateurs: 162355
+  provosts: 145757
+not_scored_words:
+- Provencals
+- Proverbs
+- Providences
+- provisioners
+- provocativeness
+- provokers

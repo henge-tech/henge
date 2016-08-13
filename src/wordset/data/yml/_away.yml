@@ -1,0 +1,35 @@
+---
+pattern: _away
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 25
+score: 1422464
+score_per_word: 64657
+hi_scored_words:
+  away: 270
+  breakaway: 27785
+  caraway: 56199
+  castaway: 47382
+  cutaway: 51967
+  faraway: 39990
+  flyaway: 94947
+  getaway: 13431
+  giveaway: 17799
+  hideaway: 32884
+  layaway: 68707
+  rockaway: 41376
+  runaway: 14157
+  seaway: 52822
+  stowaway: 47897
+  straightaway: 55678
+  takeaway: 34796
+  throwaway: 59117
+scored_words:
+  foldaway: 164525
+  rollaway: 108417
+  tearaway: 179572
+  walkaway: 212746
+not_scored_words:
+- Greenaway
+- Hathaway
+- areaway

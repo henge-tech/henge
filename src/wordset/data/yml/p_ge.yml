@@ -1,0 +1,62 @@
+---
+pattern: p_ge
+hi_scored_words_count: 26
+scored_words_count: 14
+total_words: 52
+score: 3097340
+score_per_word: 77433
+hi_scored_words:
+  package: 3152
+  page: 324
+  parentage: 37969
+  parsonage: 42003
+  partridge: 19637
+  passage: 2902
+  patronage: 19796
+  peerage: 35305
+  percentage: 4231
+  personage: 44389
+  phage: 32254
+  pilgrimage: 16323
+  pillage: 40319
+  pilotage: 75496
+  plage: 55873
+  pledge: 6118
+  plumage: 33423
+  plunge: 12943
+  porridge: 29747
+  portage: 20347
+  postage: 8474
+  presage: 55653
+  prestige: 8948
+  privilege: 5226
+  protege: 31590
+  purge: 17740
+scored_words:
+  pasturage: 145417
+  peonage: 220155
+  persiflage: 119503
+  photomontage: 154563
+  pilferage: 184978
+  pogge: 161655
+  porterage: 177822
+  potage: 196009
+  pottage: 135103
+  poundage: 143959
+  precollege: 224944
+  prejudge: 123491
+  prolonge: 230183
+  pupillage: 219376
+not_scored_words:
+- Page
+- Paige
+- patrilineage
+- pelage
+- pfennige
+- phalange
+- pipage
+- prearrange
+- preengage
+- prepackage
+- prisage
+- protolanguage

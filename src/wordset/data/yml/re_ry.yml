@@ -1,0 +1,56 @@
+---
+pattern: re_ry
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 46
+score: 2050215
+score_per_word: 75933
+hi_scored_words:
+  reactionary: 27346
+  recovery: 2718
+  rectory: 39187
+  rediscovery: 61499
+  reentry: 42523
+  refectory: 61904
+  refinery: 19904
+  reformatory: 89684
+  refractory: 22377
+  registry: 9272
+  regulatory: 3302
+  reliquary: 93034
+  remarry: 64781
+  repertory: 29800
+  repository: 12928
+  respiratory: 13163
+  retaliatory: 60109
+  retry: 34770
+  revelatory: 87359
+  revelry: 69232
+  revolutionary: 5528
+scored_words:
+  recessionary: 167658
+  redelivery: 249358
+  residuary: 120268
+  responsory: 251238
+  reversionary: 114664
+  revisionary: 296609
+not_scored_words:
+- rebury
+- recapitulatory
+- recommendatory
+- reconciliatory
+- reconstructionary
+- recriminatory
+- redemptory
+- reflationary
+- refry
+- reificatory
+- renunciatory
+- reparatory
+- rescissory
+- residentiary
+- retiary
+- retributory
+- reverberatory
+- revisory
+- revocatory

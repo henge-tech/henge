@@ -1,0 +1,39 @@
+---
+pattern: v_nt
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 29
+score: 1295070
+score_per_word: 61670
+hi_scored_words:
+  vacant: 7357
+  vagrant: 39500
+  valiant: 14094
+  variant: 10737
+  varmint: 72871
+  vehement: 50461
+  vent: 7970
+  verdant: 43871
+  vestment: 81086
+  vibrant: 13489
+  vicegerent: 87352
+  viewpoint: 15425
+  vigilant: 21682
+  violent: 3226
+  virulent: 33254
+  viscount: 25513
+  volant: 66122
+scored_words:
+  vaunt: 185306
+  vesicant: 145852
+  visitant: 241687
+  voiceprint: 128215
+not_scored_words:
+- Vermont
+- Vincent
+- virescent
+- viridescent
+- vitrescent
+- vociferant
+- volitant
+- vouchsafement

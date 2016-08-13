@@ -1,0 +1,35 @@
+---
+pattern: _lop
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 25
+score: 1651085
+score_per_word: 91726
+hi_scored_words:
+  clop: 95623
+  develop: 2063
+  dollop: 64469
+  envelop: 55573
+  flop: 19105
+  gallop: 26455
+  lop: 37019
+  plop: 48879
+  redevelop: 68398
+  scallop: 38927
+  slop: 46767
+  wallop: 50351
+scored_words:
+  codswallop: 251129
+  collop: 216214
+  galop: 144629
+  glop: 205854
+  shallop: 128925
+  trollop: 150705
+not_scored_words:
+- Dunlop
+- Salop
+- escallop
+- lollop
+- orlop
+- overdevelop
+- slipslop

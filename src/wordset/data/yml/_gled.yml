@@ -1,0 +1,66 @@
+---
+pattern: _gled
+hi_scored_words_count: 21
+scored_words_count: 19
+total_words: 56
+score: 4500302
+score_per_word: 112507
+hi_scored_words:
+  angled: 30996
+  bedraggled: 99698
+  bungled: 82804
+  commingled: 81974
+  dangled: 77692
+  entangled: 29719
+  giggled: 42882
+  googled: 43335
+  intermingled: 63330
+  mangled: 36651
+  mingled: 24528
+  newfangled: 75678
+  singled: 18840
+  smuggled: 36568
+  snuggled: 60337
+  spangled: 41193
+  strangled: 39052
+  struggled: 9919
+  tangled: 18137
+  toggled: 95879
+  wiggled: 98326
+scored_words:
+  boggled: 152261
+  burgled: 127819
+  disentangled: 160743
+  gurgled: 137357
+  haggled: 235858
+  inveigled: 146075
+  jangled: 225882
+  jiggled: 180720
+  jingled: 233146
+  juggled: 125159
+  ogled: 231969
+  shingled: 145370
+  straggled: 205447
+  tingled: 139510
+  untangled: 152974
+  waggled: 289216
+  wangled: 219901
+  wrangled: 179937
+  wriggled: 103420
+not_scored_words:
+- bespangled
+- boondoggled
+- bugled
+- embrangled
+- finagled
+- gargled
+- goggled
+- guggled
+- higgled
+- immingled
+- joggled
+- niggled
+- oldfangled
+- spreadeagled
+- squiggled
+- unentangled

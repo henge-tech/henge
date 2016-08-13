@@ -1,0 +1,26 @@
+---
+pattern: de_nce
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 679612
+score_per_word: 61782
+hi_scored_words:
+  decadence: 31769
+  deference: 23113
+  defiance: 13113
+  deliverance: 24326
+  denounce: 27317
+  dependence: 7017
+  deterrence: 29198
+  deviance: 43838
+scored_words:
+  defeasance: 173178
+  dehiscence: 140871
+  despondence: 165872
+not_scored_words:
+- decalescence
+- deliquescence
+- delitescence
+- desinence
+- detumescence

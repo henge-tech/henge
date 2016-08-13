@@ -1,0 +1,27 @@
+---
+pattern: man_g
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 1119836
+score_per_word: 93319
+hi_scored_words:
+  managing: 3626
+  mandating: 50462
+  maneuvering: 43211
+  mangling: 91253
+  manifesting: 36732
+  manipulating: 24491
+  manning: 11191
+  manufacturing: 3355
+scored_words:
+  manhandling: 230115
+  manicuring: 184578
+  mantling: 244965
+  manuring: 195857
+not_scored_words:
+- Manning
+- manacling
+- manducating
+- manifolding
+- manumitting

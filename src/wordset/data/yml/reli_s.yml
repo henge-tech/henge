@@ -1,0 +1,31 @@
+---
+pattern: reli_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 974232
+score_per_word: 74940
+hi_scored_words:
+  relics: 20912
+  reliefs: 45854
+  relies: 13599
+  relievers: 51141
+  relieves: 33673
+  religions: 6924
+  religious: 1233
+  relishes: 75416
+scored_words:
+  reliabilities: 153431
+  religionists: 101866
+  religiousness: 200878
+  relinquishes: 128677
+  relives: 140628
+not_scored_words:
+- reliableness
+- reliablenesses
+- relicts
+- relights
+- religiosities
+- relines
+- reliquaries
+- relists

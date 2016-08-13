@@ -1,0 +1,28 @@
+---
+pattern: _shop
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 745507
+score_per_word: 67773
+hi_scored_words:
+  archbishop: 10408
+  barbershop: 35486
+  bishop: 3454
+  bookshop: 23841
+  pawnshop: 84490
+  shop: 807
+  sweatshop: 48663
+  workshop: 4637
+scored_words:
+  bakeshop: 281161
+  cookshop: 110748
+  toyshop: 141812
+not_scored_words:
+- Bishop
+- dramshop
+- grogshop
+- hockshop
+- sweetshop
+- teashop
+- wineshop

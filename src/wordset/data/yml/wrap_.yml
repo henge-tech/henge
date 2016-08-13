@@ -1,0 +1,19 @@
+---
+pattern: wrap_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 228269
+score_per_word: 28533
+hi_scored_words:
+  wrap: 5799
+  wraparound: 54896
+  wrapped: 5416
+  wrapper: 15790
+  wrappers: 31046
+  wrapping: 9719
+  wrappings: 91636
+  wraps: 13967
+scored_words: {}
+not_scored_words:
+- wraparounds

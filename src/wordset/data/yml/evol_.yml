@@ -1,0 +1,24 @@
+---
+pattern: evol_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 14
+score: 863582
+score_per_word: 66429
+hi_scored_words:
+  evolution: 3006
+  evolutionarily: 77894
+  evolutionary: 12921
+  evolutionist: 86027
+  evolutionists: 67167
+  evolutions: 47656
+  evolve: 13968
+  evolved: 8070
+  evolves: 33210
+  evolving: 14896
+scored_words:
+  evolutionism: 141014
+  evolvable: 206969
+  evolvement: 150784
+not_scored_words:
+- evolute

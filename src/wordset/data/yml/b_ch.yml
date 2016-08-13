@@ -1,0 +1,61 @@
+---
+pattern: b_ch
+hi_scored_words_count: 23
+scored_words_count: 9
+total_words: 51
+score: 1857301
+score_per_word: 58040
+hi_scored_words:
+  bach: 11077
+  batch: 8965
+  beach: 1407
+  beech: 14830
+  belch: 67533
+  bench: 4331
+  beseech: 32832
+  biotech: 12506
+  birch: 11860
+  bitch: 8924
+  blanch: 52390
+  bleach: 23051
+  blotch: 77010
+  botch: 72734
+  branch: 1763
+  breach: 5934
+  breech: 37620
+  broach: 51195
+  brooch: 18415
+  brunch: 20338
+  bunch: 3965
+  butch: 23272
+  butterscotch: 48063
+scored_words:
+  backbench: 140872
+  backstretch: 138130
+  besmirch: 155950
+  bewitch: 146837
+  blowtorch: 110231
+  borsch: 244483
+  brach: 101742
+  broch: 101142
+  bullfinch: 107899
+not_scored_words:
+- Bach
+- Banach
+- Baruch
+- Baywatch
+- Beach
+- Bench
+- Bernbach
+- Blanch
+- Bloch
+- Bosch
+- Bowditch
+- Branch
+- Bruch
+- Bulfinch
+- Burch
+- Busch
+- backstitch
+- blench
+- bletch

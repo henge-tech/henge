@@ -1,0 +1,34 @@
+---
+pattern: u_nded
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 24
+score: 1780552
+score_per_word: 98919
+hi_scored_words:
+  unattended: 23394
+  unbounded: 34088
+  unbranded: 42606
+  underfunded: 64183
+  underhanded: 87142
+  unfounded: 27849
+  unfriended: 94119
+  unfunded: 44057
+  unintended: 22984
+scored_words:
+  unamended: 193653
+  undefended: 117714
+  unexpanded: 198219
+  unexpended: 106087
+  ungrounded: 111070
+  unrounded: 141694
+  untended: 203822
+  unwounded: 125842
+  upended: 142029
+not_scored_words:
+- uncompounded
+- uncomprehended
+- unhanded
+- unmended
+- unoffended
+- unrecommended

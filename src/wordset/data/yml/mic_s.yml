@@ -1,0 +1,70 @@
+---
+pattern: mic_s
+hi_scored_words_count: 19
+scored_words_count: 14
+total_words: 60
+score: 3436818
+score_per_word: 104146
+hi_scored_words:
+  micelles: 81547
+  microbes: 32989
+  microchips: 59922
+  microcomputers: 57137
+  microeconomics: 48386
+  microelectronics: 34921
+  microfilms: 86923
+  micrograms: 44709
+  micrometers: 70588
+  microns: 34223
+  microorganisms: 21452
+  microphones: 15144
+  microprocessors: 35098
+  micros: 52531
+  microscopes: 35916
+  microseconds: 60518
+  microsomes: 70472
+  microwaves: 27206
+  mics: 26692
+scored_words:
+  mickeys: 131800
+  micks: 177394
+  microanalysis: 107045
+  microbiologists: 121812
+  microbreweries: 126562
+  microbus: 208071
+  microcircuits: 161321
+  micrococcus: 180112
+  microcosmos: 236317
+  microcosms: 154278
+  microfibers: 324014
+  microlights: 249093
+  micronucleus: 168402
+  microphysics: 194223
+not_scored_words:
+- Michaelmas
+- Michaelmases
+- Micheas
+- Michiganders
+- Mickeys
+- Micks
+- Micmacs
+- microaggressions
+- microanalyses
+- microbalances
+- microcephalies
+- microcephalous
+- microcopies
+- microcytes
+- microdots
+- microfloppies
+- microgrooves
+- microloans
+- micromanages
+- micrometeorites
+- micropaleontologies
+- micropyles
+- microseisms
+- microspores
+- microtomes
+- micturates
+- micturitions

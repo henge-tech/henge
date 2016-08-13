@@ -1,0 +1,30 @@
+---
+pattern: acce_s
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 20
+score: 696412
+score_per_word: 49743
+hi_scored_words:
+  accelerates: 31271
+  accelerations: 70055
+  accelerators: 34593
+  accelerometers: 84893
+  accents: 12602
+  accentuates: 74923
+  acceptances: 61480
+  acceptors: 67232
+  accepts: 6236
+  access: 436
+  accesses: 25077
+  accessions: 45555
+  accessories: 4874
+scored_words:
+  accedes: 177185
+not_scored_words:
+- accelerandos
+- accentors
+- acceptableness
+- acceptations
+- accessibleness
+- accessorizes

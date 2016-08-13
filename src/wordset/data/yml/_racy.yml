@@ -1,0 +1,52 @@
+---
+pattern: _racy
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 42
+score: 1634280
+score_per_word: 71055
+hi_scored_words:
+  accuracy: 3330
+  aristocracy: 24441
+  autocracy: 62496
+  bureaucracy: 19967
+  confederacy: 28422
+  conspiracy: 5727
+  degeneracy: 56553
+  democracy: 3284
+  illiteracy: 35408
+  inaccuracy: 36871
+  literacy: 8200
+  magistracy: 85159
+  meritocracy: 73672
+  numeracy: 32298
+  piracy: 14230
+  racy: 37622
+  theocracy: 44347
+scored_words:
+  curacy: 139773
+  kleptocracy: 251969
+  obduracy: 222253
+  plutocracy: 106009
+  technocracy: 111049
+  timocracy: 231200
+not_scored_words:
+- Confederacy
+- Theocracy
+- Tracy
+- gerontocracy
+- gynecocracy
+- hagiocracy
+- hierocracy
+- immoderacy
+- innumeracy
+- inveteracy
+- isocracy
+- itineracy
+- mobocracy
+- ochlocracy
+- pantisocracy
+- pornocracy
+- regeneracy
+- slavocracy
+- stratocracy

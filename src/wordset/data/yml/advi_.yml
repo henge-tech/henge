@@ -1,0 +1,30 @@
+---
+pattern: advi_
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 20
+score: 833749
+score_per_word: 46319
+hi_scored_words:
+  advice: 947
+  advices: 45737
+  advisability: 62239
+  advisable: 22400
+  advise: 4785
+  advised: 4380
+  advisement: 49410
+  adviser: 8815
+  advisers: 11764
+  advises: 17424
+  advising: 10898
+  advisor: 6299
+  advisories: 27303
+  advisors: 8467
+  advisory: 9958
+scored_words:
+  advisedly: 152909
+  advisee: 207864
+  advisees: 182150
+not_scored_words:
+- Advil
+- advisably

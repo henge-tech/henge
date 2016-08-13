@@ -1,0 +1,31 @@
+---
+pattern: boy_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 21
+score: 977934
+score_per_word: 69852
+hi_scored_words:
+  boy: 627
+  boycott: 19634
+  boycotted: 65782
+  boycotting: 59677
+  boycotts: 53470
+  boyfriend: 10822
+  boyfriends: 29262
+  boyhood: 28575
+  boyish: 39728
+  boys: 795
+scored_words:
+  boyar: 152319
+  boyishly: 139858
+  boyishness: 230863
+  boysenberry: 146522
+not_scored_words:
+- Boyd
+- Boyer
+- Boyle
+- Boyne
+- boyhoods
+- boyla
+- boysenberries

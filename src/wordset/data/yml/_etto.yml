@@ -1,0 +1,31 @@
+---
+pattern: _etto
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 21
+score: 813741
+score_per_word: 81374
+hi_scored_words:
+  allegretto: 66437
+  amaretto: 61534
+  falsetto: 61200
+  ghetto: 18323
+  lazaretto: 87111
+  libretto: 35127
+  palmetto: 34617
+  stiletto: 45139
+scored_words:
+  larghetto: 176010
+  vaporetto: 228243
+not_scored_words:
+- Canaletto
+- Caporetto
+- Rigoletto
+- Tintoretto
+- adagietto
+- amoretto
+- cavetto
+- neutretto
+- stretto
+- terzetto
+- zucchetto

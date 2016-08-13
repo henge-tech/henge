@@ -1,0 +1,21 @@
+---
+pattern: inv_on
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 11
+score: 850079
+score_per_word: 77279
+hi_scored_words:
+  invalidation: 67823
+  invasion: 4929
+  invention: 4726
+  inversion: 19476
+  investigation: 2730
+  invitation: 4588
+  invocation: 20890
+  involution: 59302
+scored_words:
+  invagination: 160208
+  invigilation: 282388
+  invigoration: 223019
+not_scored_words: []

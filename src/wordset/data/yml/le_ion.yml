@@ -1,0 +1,20 @@
+---
+pattern: le_ion
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 552864
+score_per_word: 61429
+hi_scored_words:
+  lection: 98981
+  legalization: 34604
+  legation: 82268
+  legion: 10577
+  legislation: 2509
+  legitimation: 79023
+  lesion: 24397
+  levitation: 53209
+scored_words:
+  legitimization: 167296
+not_scored_words:
+- levorotation

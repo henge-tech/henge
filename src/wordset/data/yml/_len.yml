@@ -1,0 +1,42 @@
+---
+pattern: _len
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 32
+score: 306149
+score_per_word: 30614
+hi_scored_words:
+  befallen: 54100
+  crestfallen: 94422
+  fallen: 4369
+  glen: 6911
+  magdalen: 43817
+  pollen: 13746
+  stolen: 4544
+  sullen: 35410
+  swollen: 13443
+  woolen: 35387
+scored_words: {}
+not_scored_words:
+- Allen
+- Arlen
+- Cullen
+- Ellen
+- Enniskillen
+- Galen
+- Glen
+- Heerlen
+- Helen
+- Hellen
+- Kerguelen
+- Len
+- Maryellen
+- McAllen
+- Mullen
+- Olen
+- Suellen
+- Veblen
+- Westfalen
+- chapfallen
+- chopfallen
+- downfallen

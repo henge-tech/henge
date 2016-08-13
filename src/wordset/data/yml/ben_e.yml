@@ -1,0 +1,35 @@
+---
+pattern: ben_e
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 25
+score: 1707276
+score_per_word: 113818
+hi_scored_words:
+  benedictine: 32679
+  benefice: 86269
+  beneficence: 80859
+  benevolence: 30113
+  bentonite: 65446
+  benzene: 30134
+  benzine: 82994
+  benzoate: 61546
+scored_words:
+  bendable: 102473
+  bendwise: 323502
+  benne: 144996
+  benzaldehyde: 142284
+  benzidine: 176003
+  benzocaine: 155443
+  benzophenone: 192535
+not_scored_words:
+- Benedicite
+- Benedictine
+- Bengalese
+- Beninese
+- Bennie
+- Benue
+- Benzedrine
+- bename
+- benedicite
+- bengaline

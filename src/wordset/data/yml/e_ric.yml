@@ -1,0 +1,26 @@
+---
+pattern: e_ric
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 588092
+score_per_word: 58809
+hi_scored_words:
+  eccentric: 14482
+  econometric: 33090
+  egocentric: 75444
+  electric: 1934
+  empiric: 85718
+  enteric: 44046
+  esoteric: 22678
+  euphoric: 46145
+scored_words:
+  ethnocentric: 123478
+  exoteric: 141077
+not_scored_words:
+- Eric
+- Eurocentric
+- endocentric
+- ergonometric
+- exocentric
+- exospheric

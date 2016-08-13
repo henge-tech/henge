@@ -1,0 +1,50 @@
+---
+pattern: plu_s
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 40
+score: 2529583
+score_per_word: 126479
+hi_scored_words:
+  plugins: 11001
+  plugs: 17434
+  plumbers: 30903
+  plumes: 35116
+  plummets: 87956
+  plums: 33138
+  plunges: 47856
+  plurals: 68114
+  plus: 1506
+  pluses: 60245
+scored_words:
+  plucks: 115332
+  plumbs: 213899
+  plumpness: 277274
+  plumps: 286678
+  plunderers: 199054
+  plunders: 258451
+  plungers: 108304
+  pluralities: 291398
+  plutocrats: 181677
+  plutons: 204247
+not_scored_words:
+- Plutus
+- pluckiness
+- pluckless
+- plugholes
+- plumbaginaceous
+- plumbagos
+- plumberies
+- plumbiferous
+- plumbings
+- plumbisms
+- plumcots
+- plunkers
+- plunks
+- pluperfects
+- pluralists
+- pluralizes
+- plushiness
+- plushness
+- plutocracies
+- pluvious

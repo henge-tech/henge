@@ -1,0 +1,60 @@
+---
+pattern: in_ably
+hi_scored_words_count: 9
+scored_words_count: 17
+total_words: 50
+score: 3903404
+score_per_word: 150130
+hi_scored_words:
+  incomparably: 96023
+  indisputably: 78471
+  inevitably: 9392
+  inexorably: 49951
+  inexplicably: 50906
+  inextricably: 45148
+  inseparably: 82206
+  interchangeably: 38598
+  invariably: 12559
+scored_words:
+  incalculably: 267395
+  inconceivably: 192268
+  incontestably: 198400
+  incurably: 184900
+  indefatigably: 203162
+  indescribably: 118906
+  indispensably: 244972
+  indubitably: 111933
+  ineffably: 277316
+  ineluctably: 282788
+  inescapably: 130419
+  inexcusably: 244805
+  insatiably: 317213
+  insufferably: 196244
+  interminably: 132735
+  intolerably: 136366
+  inviolably: 200328
+not_scored_words:
+- inalienably
+- inappreciably
+- incapably
+- inconsiderably
+- inconsolably
+- indecipherably
+- indefinably
+- indeterminably
+- indistinguishably
+- indomitably
+- inequitably
+- ineradicably
+- inestimably
+- inflammably
+- inhospitably
+- inimitably
+- innumerably
+- inscrutably
+- insuperably
+- insupportably
+- insurmountably
+- intractably
+- invaluably
+- invulnerably

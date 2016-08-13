@@ -1,0 +1,24 @@
+---
+pattern: mul_l
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 14
+score: 474598
+score_per_word: 43145
+hi_scored_words:
+  mull: 31308
+  multichannel: 39327
+  multicultural: 13441
+  multidimensional: 29585
+  multifunctional: 47374
+  multilateral: 17265
+  multilevel: 40586
+  multilingual: 23728
+  multinational: 16688
+  multiracial: 52713
+scored_words:
+  multidirectional: 162583
+not_scored_words:
+- Mull
+- multifoil
+- multivocal

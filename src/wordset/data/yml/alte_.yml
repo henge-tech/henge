@@ -1,0 +1,38 @@
+---
+pattern: alte_
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 28
+score: 958078
+score_per_word: 43549
+hi_scored_words:
+  alter: 4817
+  alteration: 9141
+  alterations: 11594
+  altercation: 35943
+  altered: 5351
+  altering: 14225
+  alternate: 4291
+  alternated: 58975
+  alternately: 18583
+  alternates: 34694
+  alternating: 15929
+  alternation: 40083
+  alternations: 88041
+  alternative: 2237
+  alternatively: 7212
+  alternatives: 7141
+  alternator: 31146
+  alternators: 63331
+  alters: 27034
+scored_words:
+  alterable: 209652
+  alterative: 116211
+  altercations: 152447
+not_scored_words:
+- alterant
+- altercate
+- altercated
+- altercates
+- altercating
+- alternant

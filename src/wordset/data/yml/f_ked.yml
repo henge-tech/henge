@@ -1,0 +1,27 @@
+---
+pattern: f_ked
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 1185664
+score_per_word: 84690
+hi_scored_words:
+  faked: 34522
+  flaked: 74849
+  flanked: 32831
+  flecked: 94964
+  flicked: 52397
+  flocked: 38945
+  flunked: 91469
+  forked: 32936
+  freaked: 30692
+  fucked: 8866
+scored_words:
+  franked: 130832
+  frisked: 167750
+  frolicked: 226464
+  funked: 168147
+not_scored_words:
+- finked
+- flyspecked
+- fracked

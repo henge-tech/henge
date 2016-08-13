@@ -1,0 +1,35 @@
+---
+pattern: abor_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 25
+score: 1075064
+score_per_word: 71670
+hi_scored_words:
+  aboriginal: 8950
+  aboriginals: 65835
+  aborigine: 79862
+  aborigines: 31969
+  abort: 19502
+  aborted: 24537
+  aborting: 54784
+  abortion: 10752
+  abortions: 18595
+  abortive: 46502
+  aborts: 79604
+scored_words:
+  aboriginally: 233068
+  abortifacient: 178941
+  abortionist: 100619
+  abortionists: 121544
+not_scored_words:
+- Aboriginal
+- Aboriginals
+- Aborigine
+- Aborigines
+- aboral
+- aborning
+- aborticide
+- aborticides
+- abortifacients
+- abortively

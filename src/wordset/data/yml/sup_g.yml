@@ -1,0 +1,35 @@
+---
+pattern: sup_g
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 25
+score: 2256099
+score_per_word: 125338
+hi_scored_words:
+  superconducting: 35416
+  superseding: 68250
+  supervising: 24787
+  supplementing: 44780
+  supplying: 9833
+  supporting: 3090
+  supposing: 25217
+  suppressing: 28690
+scored_words:
+  superbug: 155039
+  supercharging: 145160
+  supercooling: 281609
+  superimposing: 139054
+  superintending: 106627
+  supersizing: 325594
+  supervening: 298548
+  supping: 219372
+  supplanting: 113080
+  supplicating: 231953
+not_scored_words:
+- superannuating
+- superposing
+- supersaturating
+- superscribing
+- superstrong
+- supinating
+- suppurating

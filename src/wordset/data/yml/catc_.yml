@@ -1,0 +1,37 @@
+---
+pattern: catc_
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 27
+score: 2165405
+score_per_word: 113968
+hi_scored_words:
+  catch: 1896
+  catcher: 23203
+  catchers: 37154
+  catches: 11329
+  catching: 6505
+  catchment: 20128
+  catchments: 62428
+  catchphrase: 72465
+  catchy: 21450
+scored_words:
+  catcalls: 198034
+  catchall: 110808
+  catchier: 244644
+  catchiest: 210642
+  catchiness: 273898
+  catchings: 195726
+  catchphrases: 155903
+  catchpole: 163974
+  catchword: 158897
+  catchwords: 196321
+not_scored_words:
+- catcall
+- catcalled
+- catcalling
+- catchalls
+- catchflies
+- catchfly
+- catchpenny
+- catchweight

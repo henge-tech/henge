@@ -1,0 +1,54 @@
+---
+pattern: d_sing
+hi_scored_words_count: 21
+scored_words_count: 12
+total_words: 44
+score: 2919253
+score_per_word: 88462
+hi_scored_words:
+  decomposing: 52304
+  decreasing: 12752
+  defusing: 88774
+  depressing: 13938
+  despising: 97056
+  devising: 30532
+  diagnosing: 25739
+  diffusing: 59630
+  disbursing: 85060
+  disclosing: 27821
+  discussing: 5615
+  disguising: 69802
+  dismissing: 29539
+  dispensing: 20134
+  dispersing: 45986
+  disposing: 30051
+  dissing: 67464
+  distressing: 26920
+  dosing: 26065
+  dowsing: 63544
+  dressing: 5666
+scored_words:
+  debasing: 143715
+  decompressing: 129275
+  degassing: 115177
+  degaussing: 162359
+  delousing: 294031
+  deposing: 138325
+  digressing: 204867
+  discoursing: 172500
+  disenfranchising: 241532
+  displeasing: 106889
+  dousing: 157475
+  drowsing: 168716
+not_scored_words:
+- deceasing
+- defensing
+- demising
+- disabusing
+- discomposing
+- disembarrassing
+- disfranchising
+- dispossessing
+- dispraising
+- disusing
+- dossing

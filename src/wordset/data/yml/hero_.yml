@@ -1,0 +1,31 @@
+---
+pattern: hero_
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 21
+score: 533416
+score_per_word: 44451
+hi_scored_words:
+  hero: 2883
+  heroes: 3924
+  heroic: 10126
+  heroically: 79538
+  heroics: 64286
+  heroin: 20066
+  heroine: 19761
+  heroines: 40962
+  heroism: 23575
+  heron: 19462
+  herons: 49460
+scored_words:
+  heroical: 199373
+not_scored_words:
+- Hero
+- Herod
+- Herodias
+- Herodotus
+- Heron
+- Herophilus
+- heroins
+- heronries
+- heronry

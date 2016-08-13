@@ -1,0 +1,26 @@
+---
+pattern: smel_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 766646
+score_per_word: 69695
+hi_scored_words:
+  smell: 4274
+  smelled: 25256
+  smelling: 20483
+  smells: 11307
+  smelly: 23471
+  smelt: 33106
+  smelter: 45874
+  smelters: 81203
+  smelting: 40434
+scored_words:
+  smelted: 202443
+  smelts: 278795
+not_scored_words:
+- smellier
+- smelliest
+- smelliness
+- smelteries
+- smeltery

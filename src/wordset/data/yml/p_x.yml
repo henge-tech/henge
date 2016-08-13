@@ -1,0 +1,48 @@
+---
+pattern: p_x
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 38
+score: 1593338
+score_per_word: 66389
+hi_scored_words:
+  paradox: 12427
+  parallax: 39523
+  pax: 26190
+  perplex: 69076
+  perspex: 80041
+  phalanx: 36812
+  pharynx: 50206
+  phenix: 48839
+  phlox: 55142
+  phoenix: 6949
+  pillbox: 90663
+  pix: 16479
+  pneumothorax: 68011
+  postfix: 42857
+  pox: 28571
+  prefix: 11641
+  pretax: 78849
+  prox: 93730
+scored_words:
+  paintbox: 166296
+  pontifex: 113918
+  postbox: 127063
+  premix: 114233
+  prolix: 114945
+  pyx: 100877
+not_scored_words:
+- PBX
+- PX
+- Pax
+- Pentax
+- Perspex
+- Phoenix
+- Playtex
+- Pollux
+- Pyrex
+- paxwax
+- pickax
+- poleax
+- prothorax
+- purlieux

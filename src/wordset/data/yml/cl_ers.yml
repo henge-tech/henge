@@ -1,0 +1,43 @@
+---
+pattern: cl_ers
+hi_scored_words_count: 10
+scored_words_count: 12
+total_words: 33
+score: 2472713
+score_per_word: 112396
+hi_scored_words:
+  classifiers: 49013
+  cleaners: 8795
+  cleansers: 51185
+  climbers: 30228
+  clippers: 18607
+  cloisters: 56313
+  closers: 67135
+  clovers: 89831
+  clubbers: 83388
+  clusters: 8188
+scored_words:
+  clangers: 140708
+  clappers: 161498
+  claviers: 264563
+  cleavers: 100754
+  clickers: 111995
+  cliffhangers: 123647
+  clobbers: 258781
+  clockmakers: 170586
+  clodhoppers: 128524
+  clothiers: 110229
+  clunkers: 229805
+  clutters: 208940
+not_scored_words:
+- clabbers
+- claimers
+- clamberers
+- clambers
+- clatters
+- clavers
+- clinchers
+- clingers
+- clinkers
+- clinometers
+- clysters

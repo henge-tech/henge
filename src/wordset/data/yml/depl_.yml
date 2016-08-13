@@ -1,0 +1,37 @@
+---
+pattern: depl_
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 27
+score: 1256149
+score_per_word: 66113
+hi_scored_words:
+  deplete: 50806
+  depleted: 20730
+  depleting: 47581
+  depletion: 25854
+  deplorable: 34388
+  deplore: 56963
+  deplored: 69963
+  deplores: 97855
+  deploy: 19499
+  deployable: 62705
+  deployed: 11690
+  deploying: 25020
+  deployment: 9147
+  deployments: 23520
+  deploys: 45865
+scored_words:
+  depletes: 116413
+  deplorably: 117267
+  deploring: 146174
+  deployability: 274709
+not_scored_words:
+- deplane
+- deplaned
+- deplanes
+- deplaning
+- deplume
+- deplumed
+- deplumes
+- depluming

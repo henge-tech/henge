@@ -1,0 +1,47 @@
+---
+pattern: ret_g
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 37
+score: 2142744
+score_per_word: 85709
+hi_scored_words:
+  retailing: 22961
+  retaining: 10554
+  retarding: 78341
+  retelling: 47210
+  rethinking: 26277
+  retiring: 12220
+  retooling: 84354
+  retorting: 92406
+  retouching: 52339
+  retracing: 92249
+  retracting: 75940
+  retraining: 37684
+  retreating: 44222
+  retrieving: 23954
+  retrofitting: 69504
+  returning: 3028
+scored_words:
+  retaking: 103384
+  retaliating: 123617
+  retching: 152020
+  retesting: 113635
+  retransmitting: 209253
+  retreading: 157054
+  retrying: 138275
+  retuning: 216510
+  retyping: 155753
+not_scored_words:
+- reteaching
+- reticulating
+- retitling
+- retranslating
+- retrenching
+- retrofiring
+- retrograding
+- retrogressing
+- retrospecting
+- retting
+- retweeting
+- retying

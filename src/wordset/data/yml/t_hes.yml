@@ -1,0 +1,34 @@
+---
+pattern: t_hes
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 24
+score: 1380891
+score_per_word: 98635
+hi_scored_words:
+  teaches: 7134
+  thrushes: 93945
+  tithes: 54972
+  toothbrushes: 44796
+  torches: 25547
+  touches: 8572
+  trenches: 15989
+  twitches: 85529
+scored_words:
+  taches: 216657
+  tarnishes: 179255
+  thrashes: 193521
+  toothaches: 227670
+  tranches: 102406
+  trashes: 124898
+not_scored_words:
+- tarbooshes
+- teethes
+- tenches
+- thatches
+- threshes
+- thunderflashes
+- titches
+- toshes
+- troches
+- tushes

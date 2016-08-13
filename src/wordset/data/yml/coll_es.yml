@@ -1,0 +1,33 @@
+---
+pattern: coll_es
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 23
+score: 615942
+score_per_word: 51328
+hi_scored_words:
+  collaborates: 50339
+  collages: 44786
+  collapses: 35383
+  colleagues: 5321
+  collectables: 10995
+  collectibles: 9608
+  collectives: 59128
+  colleges: 4268
+  collides: 75834
+  collieries: 94661
+  collies: 71969
+scored_words:
+  collates: 153650
+not_scored_words:
+- collarbones
+- collectivizes
+- colligates
+- collimates
+- collinses
+- collocates
+- collogues
+- colloquies
+- collotypes
+- colludes
+- collywobbles

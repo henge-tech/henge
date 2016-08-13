@@ -1,0 +1,35 @@
+---
+pattern: all_es
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 25
+score: 885110
+score_per_word: 68085
+hi_scored_words:
+  alleges: 31972
+  allegiances: 77338
+  allegories: 86453
+  alleles: 27770
+  allergies: 14989
+  alleviates: 76734
+  alliances: 13035
+  allies: 6582
+  allocates: 42510
+  allowances: 13906
+  alludes: 52898
+scored_words:
+  allophones: 229886
+  allures: 211037
+not_scored_words:
+- Alleghenies
+- Allhallowtides
+- Allies
+- allantoises
+- allegorizes
+- allemandes
+- alliterates
+- allogamies
+- allometries
+- allopathies
+- allotropes
+- allotropies

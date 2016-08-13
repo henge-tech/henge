@@ -1,0 +1,32 @@
+---
+pattern: hoar_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 22
+score: 1079891
+score_per_word: 89990
+hi_scored_words:
+  hoar: 56419
+  hoard: 29058
+  hoarded: 73355
+  hoarding: 42175
+  hoards: 79202
+  hoarse: 36865
+  hoarsely: 91432
+  hoarseness: 91429
+  hoary: 36650
+scored_words:
+  hoarder: 207472
+  hoarders: 222926
+  hoardings: 112908
+not_scored_words:
+- hoarfrost
+- hoarhound
+- hoarier
+- hoariest
+- hoarily
+- hoariness
+- hoars
+- hoarsen
+- hoarser
+- hoarsest

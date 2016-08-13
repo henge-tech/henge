@@ -1,0 +1,40 @@
+---
+pattern: d_ding
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 30
+score: 1937040
+score_per_word: 88047
+hi_scored_words:
+  deciding: 7898
+  decoding: 20279
+  defending: 7716
+  defrauding: 79900
+  degrading: 21409
+  deluding: 99296
+  demanding: 6845
+  depending: 3404
+  descending: 7472
+  disbanding: 80363
+  discarding: 40564
+  disregarding: 42410
+  dividing: 11513
+  downgrading: 64105
+  downloading: 5469
+  dreading: 49421
+scored_words:
+  dding: 303728
+  deadheading: 225327
+  deriding: 159865
+  dissuading: 195651
+  distending: 289995
+  dumbfounding: 214410
+not_scored_words:
+- deeding
+- denuding
+- disaccording
+- disbudding
+- discommoding
+- discording
+- dispreading
+- duding

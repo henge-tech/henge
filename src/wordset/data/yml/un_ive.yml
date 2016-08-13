@@ -1,0 +1,40 @@
+---
+pattern: un_ive
+hi_scored_words_count: 9
+scored_words_count: 11
+total_words: 30
+score: 2560456
+score_per_word: 128022
+hi_scored_words:
+  unattractive: 30576
+  uncompetitive: 99022
+  uncooperative: 62797
+  undeceive: 86361
+  unimaginative: 71509
+  unimpressive: 64588
+  unobtrusive: 37901
+  unproductive: 34575
+  unresponsive: 43670
+scored_words:
+  unappreciative: 190109
+  uncommunicative: 197008
+  uncreative: 171925
+  undemonstrative: 156397
+  underactive: 183853
+  uninformative: 119817
+  unitive: 260961
+  unpersuasive: 156004
+  unreceptive: 253565
+  unreflective: 234794
+  unrepresentative: 105024
+not_scored_words:
+- unaggressive
+- unassertive
+- unexpressive
+- uninstructive
+- unlive
+- unoffensive
+- unperceptive
+- unprogressive
+- unremunerative
+- unsensitive

@@ -1,0 +1,28 @@
+---
+pattern: ob_ing
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 18
+score: 1255245
+score_per_word: 89660
+hi_scored_words:
+  obeying: 35639
+  objecting: 40396
+  obliging: 47696
+  obscuring: 57648
+  observing: 7045
+  obsessing: 70871
+  obstructing: 44018
+  obtaining: 4574
+scored_words:
+  obfuscating: 132090
+  objectifying: 183589
+  obligating: 168290
+  obliterating: 102446
+  obtruding: 221358
+  obviating: 139585
+not_scored_words:
+- objurgating
+- obsolescing
+- obsoleting
+- obtunding

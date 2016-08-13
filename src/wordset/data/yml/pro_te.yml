@@ -1,0 +1,42 @@
+---
+pattern: pro_te
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 32
+score: 1791732
+score_per_word: 81442
+hi_scored_words:
+  probate: 20921
+  procrastinate: 52258
+  procreate: 67901
+  profligate: 66802
+  proliferate: 48984
+  promote: 2899
+  promulgate: 45104
+  propagate: 23635
+  proportionate: 24225
+  prosecute: 17510
+  prostate: 12226
+  prostitute: 20381
+  prostrate: 32867
+  protectorate: 44644
+  proximate: 39331
+scored_words:
+  professoriate: 203475
+  prognosticate: 231541
+  prokaryote: 251169
+  prolate: 143835
+  propitiate: 129538
+  prorate: 157628
+  proselyte: 154858
+not_scored_words:
+- Protectorate
+- procaryote
+- proconsulate
+- professorate
+- prolongate
+- pronate
+- propylite
+- protochordate
+- protuberate
+- proustite

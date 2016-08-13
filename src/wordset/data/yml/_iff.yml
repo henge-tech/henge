@@ -1,0 +1,40 @@
+---
+pattern: _iff
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 30
+score: 1689048
+score_per_word: 73436
+hi_scored_words:
+  bailiff: 34054
+  biff: 36229
+  cliff: 5716
+  diff: 16139
+  mastiff: 35312
+  midriff: 78638
+  plaintiff: 9311
+  pontiff: 42123
+  riff: 22352
+  sheriff: 6322
+  skiff: 46962
+  sniff: 19657
+  spliff: 94573
+  stiff: 7149
+  tariff: 10394
+  tiff: 15577
+  whiff: 36564
+scored_words:
+  caitiff: 199870
+  hippogriff: 185743
+  jiff: 209766
+  miff: 173415
+  spiff: 124180
+  undersheriff: 279002
+not_scored_words:
+- Cardiff
+- Cliff
+- Ratliff
+- bumbailiff
+- goniff
+- niff
+- quiff

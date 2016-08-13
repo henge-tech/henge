@@ -1,0 +1,29 @@
+---
+pattern: lo_ts
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 19
+score: 1214425
+score_per_word: 93417
+hi_scored_words:
+  lobbyists: 22727
+  lockets: 74542
+  lockouts: 96825
+  locusts: 38173
+  lofts: 34082
+  lookouts: 78353
+  lots: 1994
+  loveseats: 77587
+  loyalists: 43247
+scored_words:
+  locknuts: 236110
+  loots: 136206
+  lorikeets: 220109
+  louts: 154470
+not_scored_words:
+- lodgments
+- logouts
+- lolcats
+- loments
+- longboats
+- loquats

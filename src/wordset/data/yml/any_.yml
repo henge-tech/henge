@@ -1,0 +1,25 @@
+---
+pattern: any_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 15
+score: 784582
+score_per_word: 56041
+hi_scored_words:
+  any: 63
+  anybody: 2956
+  anyhow: 12383
+  anymore: 15014
+  anyone: 719
+  anyplace: 38970
+  anything: 434
+  anytime: 7419
+  anyway: 2507
+  anyways: 18168
+  anywhere: 1913
+scored_words:
+  anythings: 267708
+  anywheres: 122681
+  anywise: 293647
+not_scored_words:
+- anybodies

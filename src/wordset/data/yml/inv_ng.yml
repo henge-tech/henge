@@ -1,0 +1,27 @@
+---
+pattern: inv_ng
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 17
+score: 702898
+score_per_word: 54069
+hi_scored_words:
+  invading: 19588
+  invalidating: 79888
+  inventing: 26119
+  inverting: 51099
+  investigating: 9281
+  investing: 6802
+  invigorating: 43529
+  inviting: 9659
+  invoicing: 49434
+  invoking: 26274
+  involving: 4507
+scored_words:
+  inveighing: 211535
+  inventorying: 165183
+not_scored_words:
+- invaginating
+- invaliding
+- inveigling
+- invigilating

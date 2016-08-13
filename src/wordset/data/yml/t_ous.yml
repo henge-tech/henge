@@ -1,0 +1,62 @@
+---
+pattern: t_ous
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 52
+score: 2249825
+score_per_word: 93742
+hi_scored_words:
+  tedious: 13187
+  tempestuous: 66170
+  tenacious: 17160
+  tenuous: 40957
+  thunderous: 54653
+  timorous: 93855
+  tortious: 82370
+  tortuous: 47843
+  torturous: 87439
+  traitorous: 90066
+  treacherous: 22819
+  treasonous: 93137
+  tremendous: 5227
+  tremulous: 79770
+  tuberculous: 73119
+  tuberous: 78354
+  tumultuous: 31596
+scored_words:
+  tendentious: 145222
+  tenebrous: 220269
+  terrigenous: 120441
+  thous: 109914
+  troublous: 232878
+  tumorous: 269973
+  tyrannous: 173406
+not_scored_words:
+- tantalous
+- tartarous
+- tautologous
+- taxaceous
+- tendinous
+- terraqueous
+- terricolous
+- testaceous
+- tetrapterous
+- tetrastichous
+- theaceous
+- thymelaeaceous
+- tiliaceous
+- timeous
+- tinamous
+- transpicuous
+- triadelphous
+- triecious
+- trigonous
+- trimerous
+- tripetalous
+- triphibious
+- tripterous
+- triquetrous
+- tristichous
+- tropophilous
+- tubuliflorous
+- typhous

@@ -1,0 +1,44 @@
+---
+pattern: _ific
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 34
+score: 2260999
+score_per_word: 113049
+hi_scored_words:
+  calorific: 83664
+  honorific: 74898
+  horrific: 21048
+  nonspecific: 43732
+  pacific: 1894
+  prolific: 15882
+  scientific: 1604
+  specific: 1187
+  terrific: 7755
+  unscientific: 56404
+scored_words:
+  beatific: 100532
+  calcific: 277251
+  colorific: 316266
+  conspecific: 141895
+  geoscientific: 285535
+  magnific: 202075
+  nonscientific: 243644
+  soporific: 125165
+  transpacific: 135050
+  unspecific: 125518
+not_scored_words:
+- Pacific
+- deific
+- febrific
+- felicific
+- frigorific
+- morbific
+- ossific
+- prescientific
+- saporific
+- sudorific
+- tenebrific
+- torporific
+- unific
+- vaporific

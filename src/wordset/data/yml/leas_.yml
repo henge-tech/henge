@@ -1,0 +1,29 @@
+---
+pattern: leas_
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 19
+score: 1505836
+score_per_word: 94114
+hi_scored_words:
+  leas: 38152
+  lease: 5175
+  leased: 14943
+  leasehold: 36120
+  leases: 15671
+  leash: 19487
+  leashes: 46932
+  leasing: 16825
+  least: 322
+scored_words:
+  leaseback: 109218
+  leasebacks: 246801
+  leaseholder: 154627
+  leaseholders: 112137
+  leaseholds: 239247
+  leaser: 325695
+  leashed: 124484
+not_scored_words:
+- leasers
+- leashing
+- leastwise

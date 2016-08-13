@@ -1,0 +1,53 @@
+---
+pattern: te_ly
+hi_scored_words_count: 11
+scored_words_count: 18
+total_words: 43
+score: 3181853
+score_per_word: 109719
+hi_scored_words:
+  technically: 10169
+  technologically: 24648
+  telly: 30084
+  temporally: 50741
+  temporarily: 6940
+  tenaciously: 80465
+  tenderly: 26537
+  tensely: 93261
+  tentatively: 28997
+  terminally: 35096
+  terribly: 9696
+scored_words:
+  tearfully: 103184
+  teasingly: 133299
+  tectonically: 243425
+  tediously: 141951
+  telepathically: 100178
+  telephonically: 144461
+  tellingly: 115899
+  temperamentally: 182741
+  temperately: 147171
+  temptingly: 236986
+  tenuously: 218330
+  termly: 161600
+  terrifically: 111037
+  terrifyingly: 145137
+  territorially: 129350
+  tersely: 145089
+  testily: 208185
+  textually: 117196
+not_scored_words:
+- tearily
+- teemingly
+- telegraphically
+- telescopically
+- tempestuously
+- tenably
+- tendentiously
+- tenderheartedly
+- tenthly
+- tepidly
+- terminologically
+- terrestrially
+- tetchily
+- texturally

@@ -1,0 +1,31 @@
+---
+pattern: pam_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 21
+score: 587344
+score_per_word: 58734
+hi_scored_words:
+  pam: 10961
+  pampa: 58234
+  pampas: 72492
+  pamper: 34991
+  pampered: 32268
+  pampering: 41577
+  pampers: 55002
+  pamphlet: 13784
+  pamphlets: 20063
+scored_words:
+  pamphleteer: 247972
+not_scored_words:
+- Pam
+- Pamela
+- Pamir
+- Pamirs
+- Pamlico
+- Pampa
+- Pampers
+- Pamphylia
+- Pamplona
+- pampero
+- pamphleteers

@@ -1,0 +1,27 @@
+---
+pattern: hunt_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 288932
+score_per_word: 32103
+hi_scored_words:
+  hunt: 3158
+  hunted: 15267
+  hunter: 3054
+  hunters: 7248
+  hunting: 2634
+  huntress: 56381
+  hunts: 19804
+  huntsman: 31718
+scored_words:
+  huntsmen: 149668
+not_scored_words:
+- Hunt
+- Hunter
+- Huntingdon
+- Huntingdonshire
+- Huntington
+- Huntley
+- Huntsville
+- huntresses

@@ -1,0 +1,28 @@
+---
+pattern: clai_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 1180405
+score_per_word: 98367
+hi_scored_words:
+  claim: 1258
+  claimant: 15279
+  claimants: 23084
+  claimed: 3460
+  claiming: 7315
+  claims: 1712
+  clairvoyance: 52708
+  clairvoyant: 48330
+scored_words:
+  claimable: 258823
+  claimer: 312034
+  clairaudience: 310866
+  clairvoyants: 145536
+not_scored_words:
+- Claiborne
+- Clair
+- Claire
+- Clairol
+- claimers
+- clairaudient

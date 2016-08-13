@@ -1,0 +1,30 @@
+---
+pattern: com_ty
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 20
+score: 1589209
+score_per_word: 99325
+hi_scored_words:
+  comity: 80918
+  commodity: 8255
+  commonality: 46507
+  community: 721
+  comparability: 42840
+  compatibility: 6351
+  complementarity: 47353
+  complexity: 7224
+  complicity: 32136
+  compressibility: 79574
+  computability: 94174
+scored_words:
+  combustibility: 330446
+  commonalty: 249568
+  communality: 268057
+  commutativity: 128407
+  comprehensibility: 166678
+not_scored_words:
+- comicality
+- commensality
+- commensurability
+- communicability

@@ -1,0 +1,35 @@
+---
+pattern: _stly
+hi_scored_words_count: 18
+scored_words_count: 1
+total_words: 25
+score: 660760
+score_per_word: 34776
+hi_scored_words:
+  beastly: 42894
+  bristly: 95963
+  costly: 7442
+  earnestly: 22961
+  firstly: 15200
+  ghastly: 27961
+  ghostly: 23564
+  honestly: 5885
+  justly: 20517
+  lastly: 11639
+  manifestly: 33008
+  modestly: 32726
+  mostly: 2064
+  priestly: 30617
+  robustly: 81267
+  steadfastly: 44354
+  unjustly: 33438
+  vastly: 17287
+scored_words:
+  dishonestly: 111973
+not_scored_words:
+- Christly
+- augustly
+- gristly
+- immodestly
+- moistly
+- thistly

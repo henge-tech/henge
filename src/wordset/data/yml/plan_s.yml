@@ -1,0 +1,31 @@
+---
+pattern: plan_s
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 21
+score: 740468
+score_per_word: 56959
+hi_scored_words:
+  planes: 7554
+  planets: 6896
+  planks: 32742
+  planners: 9114
+  plans: 993
+  plantains: 67973
+  plantations: 17087
+  planters: 20557
+  plantings: 38087
+  plants: 1595
+scored_words:
+  planers: 118444
+  planetariums: 184774
+  planetesimals: 234652
+not_scored_words:
+- planarians
+- planchets
+- planchettes
+- planeloads
+- planetoids
+- planimeters
+- plannings
+- planographies

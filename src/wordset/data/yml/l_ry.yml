@@ -1,0 +1,54 @@
+---
+pattern: l_ry
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 44
+score: 1617931
+score_per_word: 70344
+hi_scored_words:
+  laboratory: 3777
+  lapidary: 64503
+  laundry: 8530
+  lavatory: 34253
+  leathery: 56801
+  lectionary: 59581
+  leery: 57314
+  legendary: 8954
+  library: 837
+  literary: 2764
+  livery: 26558
+  lorry: 27558
+  lory: 70492
+  lottery: 7641
+  lowery: 42081
+  luminary: 66944
+  luxury: 2919
+scored_words:
+  lamasery: 137690
+  laudatory: 106128
+  lechery: 193372
+  legionary: 106791
+  lingonberry: 274958
+  loganberry: 257485
+not_scored_words:
+- Landry
+- Langtry
+- Larry
+- Leary
+- Londonderry
+- Lowery
+- Lowry
+- lachrymatory
+- lacrimatory
+- lactary
+- lacunary
+- lampoonery
+- laniary
+- lathery
+- legationary
+- lepidoptery
+- levorotatory
+- libratory
+- lientery
+- limitary
+- locutionary

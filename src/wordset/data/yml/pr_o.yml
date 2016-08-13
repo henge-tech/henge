@@ -1,0 +1,27 @@
+---
+pattern: pr_o
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 17
+score: 701643
+score_per_word: 63785
+hi_scored_words:
+  presidio: 40968
+  presto: 26743
+  primero: 71949
+  primo: 24011
+  pro: 3688
+  promo: 6737
+  pronto: 25889
+  prosciutto: 65972
+  proviso: 41187
+scored_words:
+  prestissimo: 207365
+  proximo: 187134
+not_scored_words:
+- PRO
+- Prado
+- Prato
+- Provo
+- pronunciamento
+- prurigo

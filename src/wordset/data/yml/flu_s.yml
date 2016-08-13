@@ -1,0 +1,47 @@
+---
+pattern: flu_s
+hi_scored_words_count: 10
+scored_words_count: 12
+total_words: 37
+score: 3144519
+score_per_word: 142932
+hi_scored_words:
+  fluctuates: 59671
+  fluctuations: 13652
+  flues: 97521
+  fluids: 12786
+  flukes: 97195
+  fluorides: 83366
+  flurries: 49034
+  flushes: 49307
+  flutes: 26029
+  fluxes: 28487
+scored_words:
+  flubs: 165035
+  fluffs: 285954
+  flugelhorns: 322666
+  fluidics: 251728
+  flumes: 174786
+  flunkies: 207597
+  flunks: 245437
+  fluoresceins: 244199
+  fluorocarbons: 189307
+  fluorosis: 122637
+  flutists: 316372
+  flutters: 101753
+not_scored_words:
+- fluffiness
+- fluidness
+- fluidnesses
+- flummeries
+- flummoxes
+- flumps
+- fluoresces
+- fluoridates
+- fluoroscopes
+- fluoroscopies
+- fluors
+- fluorspars
+- flushness
+- flusters
+- fluxions

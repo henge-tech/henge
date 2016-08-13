@@ -1,0 +1,41 @@
+---
+pattern: for_er
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 31
+score: 1212184
+score_per_word: 80812
+hi_scored_words:
+  forecaster: 43564
+  forefinger: 48326
+  foreigner: 17389
+  forerunner: 27995
+  forester: 26460
+  forever: 2328
+  forger: 68455
+  formatter: 76588
+  former: 895
+  forwarder: 69478
+scored_words:
+  forager: 138165
+  foraminifer: 223637
+  forcer: 149559
+  forefather: 105744
+  fortuneteller: 213601
+not_scored_words:
+- Foraker
+- Forester
+- Forster
+- forayer
+- forbearer
+- foregather
+- foregoer
+- forequarter
+- foreseer
+- foreshadower
+- foreteller
+- forfeiter
+- forgather
+- forgiver
+- forgoer
+- fortifier

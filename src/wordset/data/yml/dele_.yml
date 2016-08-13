@@ -1,0 +1,42 @@
+---
+pattern: dele_
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 32
+score: 1397613
+score_per_word: 73558
+hi_scored_words:
+  dele: 74300
+  delectable: 35695
+  delegate: 10965
+  delegated: 17475
+  delegates: 8013
+  delegating: 57279
+  delegation: 9655
+  delegations: 29930
+  delete: 3398
+  deleted: 7614
+  deleterious: 36753
+  deletes: 23803
+  deleting: 10744
+  deletion: 14310
+  deletions: 28136
+scored_words:
+  delectably: 327628
+  delectation: 151316
+  delegable: 297248
+  delegator: 253351
+not_scored_words:
+- Deledda
+- Deleon
+- delectabilities
+- delectability
+- delectate
+- delegacies
+- delegacy
+- deleteriously
+- deleteriousness
+- deleverage
+- deleveraged
+- deleverages
+- deleveraging

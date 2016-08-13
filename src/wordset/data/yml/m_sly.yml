@@ -1,0 +1,40 @@
+---
+pattern: m_sly
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 30
+score: 1748232
+score_per_word: 116548
+hi_scored_words:
+  maliciously: 54998
+  marvelously: 73476
+  measly: 49477
+  mercilessly: 40088
+  meticulously: 33964
+  mindlessly: 85437
+  miraculously: 35248
+  mysteriously: 26736
+scored_words:
+  magnanimously: 177908
+  melodiously: 285254
+  mirthlessly: 235294
+  mischievously: 122432
+  monotonously: 158411
+  monstrously: 125985
+  murderously: 243524
+not_scored_words:
+- malodorously
+- meaninglessly
+- measurelessly
+- mellifluously
+- mendaciously
+- meretriciously
+- meritoriously
+- miscellaneously
+- momentously
+- monogamously
+- mordaciously
+- motionlessly
+- multifariously
+- multitudinously
+- mutinously

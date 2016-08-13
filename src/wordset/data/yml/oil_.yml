@@ -1,0 +1,37 @@
+---
+pattern: oil_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 27
+score: 1649294
+score_per_word: 97017
+hi_scored_words:
+  oil: 1069
+  oilcloth: 98528
+  oiled: 29010
+  oiler: 60962
+  oilers: 24809
+  oilfield: 45911
+  oilfields: 86958
+  oiling: 73404
+  oils: 7855
+  oilseed: 66052
+  oily: 18537
+scored_words:
+  oilily: 169285
+  oiliness: 253678
+  oilman: 131558
+  oilmen: 260628
+  oilskin: 147322
+  oilskins: 173728
+not_scored_words:
+- oilbird
+- oilbirds
+- oilcan
+- oilcans
+- oilcloths
+- oilcup
+- oilier
+- oiliest
+- oilstone
+- oilstones

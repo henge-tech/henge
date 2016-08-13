@@ -1,0 +1,29 @@
+---
+pattern: fo_le
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 19
+score: 1651748
+score_per_word: 103234
+hi_scored_words:
+  foldable: 53678
+  folktale: 88048
+  follicle: 32713
+  fondle: 65962
+  forcible: 34415
+  forecastle: 82284
+  foreseeable: 21783
+  forgettable: 64482
+  forgivable: 98782
+  formidable: 12665
+  foxhole: 77343
+scored_words:
+  fo'c'sle: 123638
+  foible: 175885
+  fontanelle: 115801
+  fordable: 267700
+  forfeitable: 336569
+not_scored_words:
+- foliole
+- footle
+- foozle

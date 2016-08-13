@@ -1,0 +1,53 @@
+---
+pattern: vas_
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 43
+score: 2116359
+score_per_word: 88181
+hi_scored_words:
+  vas: 21539
+  vasa: 64771
+  vascular: 15986
+  vasculature: 81416
+  vase: 9265
+  vasectomy: 47802
+  vases: 17211
+  vasoconstriction: 75357
+  vasodilation: 81741
+  vasodilator: 65397
+  vassal: 51591
+  vassals: 79610
+  vast: 2772
+  vastly: 17287
+  vastness: 49548
+scored_words:
+  vascularity: 122970
+  vasectomies: 239443
+  vasoconstrictor: 107476
+  vasodilatation: 143015
+  vasodilators: 137574
+  vasomotor: 103800
+  vassalage: 235751
+  vaster: 130138
+  vasty: 214899
+not_scored_words:
+- Vasari
+- Vaseline
+- Vaselines
+- Vashti
+- Vasquez
+- Vassar
+- vasculum
+- vasectomize
+- vasectomized
+- vasectomizes
+- vasectomizing
+- vasoconstrictions
+- vasoconstrictors
+- vasodilations
+- vasoinhibitor
+- vassalize
+- vastest
+- vastitude
+- vasts

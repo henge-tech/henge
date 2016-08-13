@@ -1,0 +1,26 @@
+---
+pattern: t_hing
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 16
+score: 1029717
+score_per_word: 68647
+hi_scored_words:
+  teaching: 1411
+  teething: 41887
+  thing: 313
+  thrashing: 34847
+  threshing: 48861
+  tithing: 59031
+  touching: 5942
+  trashing: 52875
+  trenching: 77600
+  twitching: 34750
+scored_words:
+  tarnishing: 101426
+  telegraphing: 199850
+  thatching: 136952
+  torching: 109118
+  triumphing: 124854
+not_scored_words:
+- toughing

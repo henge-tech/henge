@@ -1,0 +1,32 @@
+---
+pattern: i_nate
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 22
+score: 1182374
+score_per_word: 84455
+hi_scored_words:
+  illuminate: 23117
+  impersonate: 53291
+  impregnate: 82287
+  incarnate: 29511
+  incriminate: 92049
+  indeterminate: 29178
+  indiscriminate: 34208
+  innate: 17168
+  inordinate: 40220
+scored_words:
+  importunate: 124571
+  indoctrinate: 121711
+  innominate: 143465
+  inseminate: 254368
+  insubordinate: 137230
+not_scored_words:
+- Italianate
+- imparipinnate
+- incardinate
+- incoordinate
+- ingeminate
+- interlaminate
+- intonate
+- invaginate

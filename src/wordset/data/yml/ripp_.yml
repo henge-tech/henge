@@ -1,0 +1,20 @@
+---
+pattern: ripp_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 285038
+score_per_word: 35629
+hi_scored_words:
+  ripped: 11948
+  ripper: 17141
+  rippers: 61448
+  ripping: 18198
+  ripple: 18406
+  rippled: 71590
+  ripples: 34655
+  rippling: 51652
+scored_words: {}
+not_scored_words:
+- ripplet
+- ripply

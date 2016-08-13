@@ -1,0 +1,28 @@
+---
+pattern: h_ack
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 18
+score: 1088441
+score_per_word: 83726
+hi_scored_words:
+  hack: 8138
+  halfback: 73054
+  hardback: 19343
+  hatchback: 21958
+  haystack: 40644
+  hijack: 28387
+  horseback: 12100
+  humpback: 42361
+  hunchback: 46326
+scored_words:
+  hardtack: 209875
+  haversack: 179959
+  hogback: 238944
+  holdback: 167352
+not_scored_words:
+- halftrack
+- hardhack
+- hayrack
+- hopsack
+- huckaback

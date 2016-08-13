@@ -1,0 +1,55 @@
+---
+pattern: _oted
+hi_scored_words_count: 18
+scored_words_count: 15
+total_words: 45
+score: 3543876
+score_per_word: 107390
+hi_scored_words:
+  bigoted: 49482
+  booted: 29391
+  demoted: 53008
+  denoted: 18214
+  devoted: 3923
+  footed: 26496
+  looted: 42318
+  misquoted: 90257
+  mooted: 65487
+  noted: 1938
+  piloted: 38462
+  pivoted: 96551
+  promoted: 14354
+  quoted: 4035
+  rebooted: 45827
+  rooted: 10811
+  uprooted: 50094
+  voted: 4127
+scored_words:
+  balloted: 199491
+  barefooted: 111491
+  connoted: 272226
+  doted: 152191
+  footnoted: 164796
+  hooted: 132670
+  outvoted: 210157
+  parroted: 235213
+  rioted: 135323
+  scooted: 118091
+  tooted: 254024
+  toted: 218457
+  underquoted: 310576
+  unquoted: 140848
+  wainscoted: 243547
+not_scored_words:
+- clubfooted
+- creosoted
+- emoted
+- flatfooted
+- garroted
+- hotfooted
+- jackbooted
+- keynoted
+- pussyfooted
+- splayfooted
+- surefooted
+- troubleshooted

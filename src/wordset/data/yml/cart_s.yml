@@ -1,0 +1,26 @@
+---
+pattern: cart_s
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 16
+score: 834596
+score_per_word: 64199
+hi_scored_words:
+  cartels: 50456
+  carters: 62047
+  cartes: 50013
+  cartilaginous: 87399
+  cartographers: 92306
+  cartons: 30296
+  cartoonists: 47279
+  cartoons: 12053
+  cartridges: 8616
+  carts: 10511
+scored_words:
+  cartilages: 149036
+  cartouches: 125374
+  cartwheels: 109210
+not_scored_words:
+- Carthaginians
+- carthorses
+- cartloads

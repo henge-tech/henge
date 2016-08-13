@@ -1,0 +1,48 @@
+---
+pattern: sta_er
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 38
+score: 2099107
+score_per_word: 87462
+hi_scored_words:
+  stabilizer: 28165
+  stabler: 93905
+  stacker: 40975
+  stadtholder: 56511
+  staffer: 46315
+  stagger: 40606
+  stainer: 91585
+  stakeholder: 19950
+  stalker: 20732
+  stammer: 79738
+  stammerer: 72063
+  stamper: 58081
+  stander: 94537
+  stapler: 39318
+  stargazer: 62130
+  starter: 16193
+  stater: 69393
+scored_words:
+  stabber: 229458
+  stadholder: 144551
+  starflower: 253973
+  starker: 112486
+  stationer: 110444
+  stationmaster: 149004
+  stayer: 168994
+not_scored_words:
+- StairMaster
+- Stavanger
+- stadiometer
+- staggerer
+- stagier
+- staider
+- staler
+- stallholder
+- stancher
+- starchier
+- starer
+- starrier
+- statelier
+- stauncher

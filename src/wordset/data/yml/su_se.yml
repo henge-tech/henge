@@ -1,0 +1,39 @@
+---
+pattern: su_se
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 29
+score: 1408141
+score_per_word: 88008
+hi_scored_words:
+  sublease: 78718
+  sucrose: 30349
+  suitcase: 21835
+  summerhouse: 86020
+  sunrise: 6709
+  supervise: 20325
+  suppose: 2353
+  surcease: 83252
+  surmise: 43780
+  surprise: 2248
+  suspense: 9001
+scored_words:
+  subbase: 164531
+  sucrase: 244764
+  suffuse: 229532
+  sunwise: 277641
+  superimpose: 107083
+not_scored_words:
+- SUSE
+- Sudanese
+- Suisse
+- Sundanese
+- Surinamese
+- submerse
+- subsense
+- suffruticose
+- superdense
+- superfuse
+- superpose
+- surbase
+- surculose

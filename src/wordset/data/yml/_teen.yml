@@ -1,0 +1,29 @@
+---
+pattern: _teen
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 19
+score: 660569
+score_per_word: 41285
+hi_scored_words:
+  canteen: 25055
+  eighteen: 7447
+  fifteen: 4399
+  fourteen: 7561
+  lateen: 81907
+  mangosteen: 85427
+  nineteen: 13120
+  preteen: 30671
+  sateen: 69989
+  seventeen: 9905
+  sixteen: 7169
+  teen: 8454
+  thirteen: 7635
+  umpteen: 96941
+  velveteen: 64479
+scored_words:
+  poteen: 140410
+not_scored_words:
+- Springsteen
+- Steen
+- subteen

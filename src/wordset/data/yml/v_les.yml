@@ -1,0 +1,27 @@
+---
+pattern: v_les
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 970168
+score_per_word: 74628
+hi_scored_words:
+  vacuoles: 83011
+  vales: 86907
+  valuables: 27846
+  variables: 12630
+  vegetables: 4769
+  vehicles: 3937
+  ventricles: 50553
+  vesicles: 37594
+  volatiles: 78168
+  voles: 73949
+scored_words:
+  venules: 174726
+  vestibules: 215576
+  vittles: 120502
+not_scored_words:
+- Versailles
+- versicles
+- virgules
+- vocables

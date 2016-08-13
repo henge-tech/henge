@@ -1,0 +1,32 @@
+---
+pattern: carb_s
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 22
+score: 1630397
+score_per_word: 116456
+hi_scored_words:
+  carbines: 94465
+  carbohydrates: 17986
+  carbonaceous: 72970
+  carbonates: 55728
+  carboniferous: 54467
+  carbons: 63970
+  carbs: 15811
+  carburetors: 66025
+scored_words:
+  carbamates: 174758
+  carbides: 108100
+  carbonyls: 217170
+  carboxylates: 325437
+  carboys: 172098
+  carbuncles: 191412
+not_scored_words:
+- Carboniferous
+- carbonades
+- carbonados
+- carbonizations
+- carbonizes
+- carbonous
+- carburets
+- carburizes

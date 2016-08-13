@@ -1,0 +1,38 @@
+---
+pattern: syno_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 28
+score: 1638069
+score_per_word: 96357
+hi_scored_words:
+  synod: 20621
+  synods: 91307
+  synonym: 18693
+  synonymous: 15462
+  synonyms: 20686
+  synonymy: 63420
+  synopses: 55372
+  synopsis: 13902
+  synoptic: 36682
+  synovial: 47358
+scored_words:
+  synodal: 158064
+  synodic: 248314
+  synodical: 155561
+  synonymously: 133247
+  synop: 306104
+  synovia: 128829
+  synovitis: 124447
+not_scored_words:
+- Synoptics
+- synodically
+- synonymic
+- synonymities
+- synonymity
+- synonymize
+- synopsize
+- synoptical
+- synoptically
+- synovias
+- synovitises

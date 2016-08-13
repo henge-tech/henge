@@ -1,0 +1,41 @@
+---
+pattern: obst_
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 31
+score: 1723290
+score_per_word: 74925
+hi_scored_words:
+  obstacle: 10383
+  obstacles: 8632
+  obstet: 33870
+  obstetric: 39085
+  obstetrical: 57002
+  obstetrician: 54284
+  obstetricians: 50137
+  obstetrics: 21738
+  obstinacy: 61055
+  obstinate: 38243
+  obstinately: 75279
+  obstruct: 29866
+  obstructed: 36340
+  obstructing: 44018
+  obstruction: 13875
+  obstructions: 34513
+  obstructive: 32149
+  obstructs: 88772
+scored_words:
+  obstreperous: 172262
+  obstructionism: 176020
+  obstructionist: 120038
+  obstructionists: 299759
+  obstruent: 225970
+not_scored_words:
+- obstipation
+- obstreperously
+- obstreperousness
+- obstructer
+- obstructionistic
+- obstructively
+- obstructiveness
+- obstructor

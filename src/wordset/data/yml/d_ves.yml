@@ -1,0 +1,41 @@
+---
+pattern: d_ves
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 31
+score: 1923946
+score_per_word: 87452
+hi_scored_words:
+  deceives: 95890
+  delves: 58812
+  deprives: 60594
+  derivatives: 14275
+  derives: 16000
+  deserves: 7174
+  detectives: 17804
+  directives: 13480
+  disapproves: 80014
+  disincentives: 79272
+  dissolves: 38117
+  dives: 26019
+  doves: 24401
+  drives: 3644
+  droves: 50696
+scored_words:
+  defectives: 223846
+  demonstratives: 181056
+  depressives: 211082
+  devolves: 112301
+  digestives: 208950
+  disbelieves: 278069
+  disproves: 122450
+not_scored_words:
+- Dives
+- datives
+- deaves
+- depraves
+- determinatives
+- diminutives
+- drawknives
+- drawshaves
+- duratives

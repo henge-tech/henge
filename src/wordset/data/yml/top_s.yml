@@ -1,0 +1,35 @@
+---
+pattern: top_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 25
+score: 1418426
+score_per_word: 109109
+hi_scored_words:
+  topics: 5059
+  topless: 13271
+  topologies: 49154
+  toppers: 38926
+  toppings: 38010
+  topples: 44267
+  tops: 4718
+  topsails: 85551
+scored_words:
+  topazes: 210022
+  topcoats: 195619
+  topes: 297129
+  topographies: 195775
+  topsides: 240925
+not_scored_words:
+- topdressings
+- topees
+- topers
+- topgallants
+- tophus
+- topis
+- topknots
+- topmasts
+- topminnows
+- topographers
+- topologists
+- toponyms

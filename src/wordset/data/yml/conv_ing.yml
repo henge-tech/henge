@@ -1,0 +1,26 @@
+---
+pattern: conv_ing
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 955149
+score_per_word: 86831
+hi_scored_words:
+  convening: 49424
+  converging: 29619
+  conversing: 42007
+  converting: 10019
+  conveyancing: 46439
+  conveying: 19213
+  convicting: 92294
+  convincing: 13307
+scored_words:
+  convalescing: 181752
+  convolving: 324675
+  convulsing: 146400
+not_scored_words:
+- convecting
+- conventionalizing
+- convoking
+- convoluting
+- convoying

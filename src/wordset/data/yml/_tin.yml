@@ -1,0 +1,77 @@
+---
+pattern: _tin
+hi_scored_words_count: 22
+scored_words_count: 11
+total_words: 67
+score: 3022577
+score_per_word: 91593
+hi_scored_words:
+  actin: 19587
+  biotin: 37071
+  builtin: 61741
+  bulletin: 5749
+  chitin: 76833
+  chromatin: 29321
+  cretin: 70631
+  dentin: 69271
+  elastin: 81597
+  ferritin: 67032
+  gelatin: 25019
+  gratin: 67496
+  keratin: 50781
+  leptin: 51566
+  martin: 1526
+  matin: 52790
+  pectin: 50850
+  progestin: 67744
+  prolactin: 42307
+  quercetin: 91616
+  satin: 8675
+  tin: 4267
+scored_words:
+  amylopectin: 244483
+  euchromatin: 337724
+  heterochromatin: 108094
+  highfalutin: 215504
+  nystatin: 102147
+  pancreatin: 207565
+  patin: 168153
+  phenacetin: 225223
+  precipitin: 155412
+  secretin: 105088
+  thromboplastin: 119714
+not_scored_words:
+- Agustin
+- Austin
+- Avertin
+- Chaitin
+- Chambertin
+- Chloromycetin
+- Curtin
+- Dilantin
+- Dustin
+- Justin
+- Keewatin
+- Kristin
+- Latin
+- Martin
+- Mycostatin
+- Oxycontin
+- Paricutin
+- Putin
+- Quentin
+- Quintin
+- Rasputin
+- Sahaptin
+- Stettin
+- Valentin
+- achromatin
+- cutin
+- freemartin
+- hematin
+- indigotin
+- isatin
+- karyotin
+- muntin
+- palmitin
+- tripalmitin

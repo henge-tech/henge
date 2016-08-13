@@ -1,0 +1,32 @@
+---
+pattern: _ount
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 22
+score: 618162
+score_per_word: 38635
+hi_scored_words:
+  account: 295
+  amount: 680
+  count: 1396
+  discount: 5160
+  dismount: 48272
+  fount: 57161
+  headcount: 55527
+  mount: 2252
+  paramount: 9991
+  recount: 22069
+  remount: 82977
+  seamount: 89168
+  surmount: 67334
+  tantamount: 40306
+  viscount: 25513
+scored_words:
+  catamount: 110061
+not_scored_words:
+- Count
+- Mount
+- Paramount
+- demount
+- miscount
+- rediscount

@@ -1,0 +1,58 @@
+---
+pattern: lo_er
+hi_scored_words_count: 21
+scored_words_count: 7
+total_words: 48
+score: 1740838
+score_per_word: 62172
+hi_scored_words:
+  loader: 17106
+  loafer: 44719
+  loaner: 84862
+  lobster: 12330
+  locker: 12795
+  lodger: 32837
+  logger: 28176
+  loiter: 83794
+  loner: 41962
+  longer: 734
+  looker: 50970
+  looper: 47015
+  looser: 43039
+  lorimer: 62648
+  loser: 13348
+  louder: 12452
+  loudspeaker: 30768
+  lounger: 71756
+  louver: 98595
+  lover: 3600
+  lower: 742
+scored_words:
+  loftier: 108636
+  loiterer: 180824
+  lonelier: 195527
+  looter: 111506
+  loper: 115212
+  lopper: 128993
+  lovelier: 105892
+not_scored_words:
+- Loafer
+- Lockyer
+- Londoner
+- Lower
+- loamier
+- loather
+- loathlier
+- lobber
+- lobbyer
+- logier
+- logroller
+- loller
+- loonier
+- loopier
+- lordlier
+- loudhailer
+- lousier
+- lowlander
+- lowlier
+- loyaler

@@ -1,0 +1,29 @@
+---
+pattern: ra_m
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 19
+score: 458899
+score_per_word: 50988
+hi_scored_words:
+  racism: 11242
+  radicalism: 52530
+  radium: 33345
+  rainstorm: 68716
+  ram: 4776
+  random: 3102
+  ransom: 14153
+  rationalism: 52603
+scored_words:
+  racialism: 218432
+not_scored_words:
+- RAM
+- Radom
+- Ram
+- Rastafarianism
+- rabbinism
+- radiogram
+- radiotelegram
+- radiothorium
+- ramentum
+- ramiform

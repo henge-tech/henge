@@ -1,0 +1,47 @@
+---
+pattern: _sic
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 37
+score: 2080188
+score_per_word: 90442
+hi_scored_words:
+  analgesic: 34727
+  basic: 3190
+  classic: 2569
+  extrinsic: 39954
+  forensic: 15381
+  geodesic: 45812
+  intrinsic: 11588
+  mesic: 91293
+  music: 251
+  physic: 58616
+  prussic: 74307
+  sic: 8622
+scored_words:
+  amnesic: 135130
+  aphasic: 166795
+  cellulosic: 101530
+  dibasic: 123008
+  metaphysic: 151739
+  monobasic: 126810
+  neoclassic: 162761
+  nonbasic: 287746
+  phasic: 117592
+  tribasic: 188960
+  virtuosic: 131807
+not_scored_words:
+- BASIC
+- Basic
+- Jurassic
+- Triassic
+- Tungusic
+- Vlasic
+- banausic
+- dysphasic
+- eMusic
+- phthisic
+- polydipsic
+- potassic
+- tetrabasic
+- thalassic

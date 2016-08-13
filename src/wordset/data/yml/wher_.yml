@@ -1,0 +1,35 @@
+---
+pattern: wher_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 25
+score: 1497313
+score_per_word: 74865
+hi_scored_words:
+  where: 102
+  whereabouts: 19974
+  whereas: 3107
+  whereby: 8061
+  wherefore: 20229
+  wherein: 7347
+  whereof: 25312
+  whereon: 71773
+  wheres: 46026
+  whereupon: 22385
+  wherever: 4621
+  wherewith: 55852
+  wherewithal: 57741
+scored_words:
+  whereat: 129034
+  wherefores: 224799
+  wherefrom: 262624
+  wheresoever: 130692
+  whereto: 149075
+  whereunto: 146994
+  wherry: 111565
+not_scored_words:
+- where'er
+- whereabout
+- whereinto
+- wherries
+- wherryman

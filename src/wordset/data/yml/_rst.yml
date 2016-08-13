@@ -1,0 +1,41 @@
+---
+pattern: _rst
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 31
+score: 1485160
+score_per_word: 78166
+hi_scored_words:
+  bratwurst: 98659
+  burst: 5035
+  durst: 33232
+  erst: 54204
+  first: 71
+  headfirst: 82546
+  horst: 29684
+  hurst: 24789
+  karst: 41755
+  outburst: 24768
+  starburst: 47059
+  sunburst: 39901
+  thirst: 12531
+  worst: 2111
+  wurst: 81904
+scored_words:
+  airburst: 297420
+  athirst: 235835
+  cloudburst: 132642
+  microburst: 241014
+not_scored_words:
+- Amherst
+- Bathurst
+- Hearst
+- Hurst
+- Lakehurst
+- Pankhurst
+- Sandhurst
+- downburst
+- knackwurst
+- knockwurst
+- liverwurst
+- verst

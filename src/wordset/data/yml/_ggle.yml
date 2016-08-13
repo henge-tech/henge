@@ -1,0 +1,36 @@
+---
+pattern: _ggle
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 26
+score: 1548698
+score_per_word: 73747
+hi_scored_words:
+  boggle: 56024
+  gaggle: 58517
+  giggle: 25012
+  goggle: 34514
+  haggle: 47402
+  hornswoggle: 79978
+  jiggle: 54725
+  juggle: 38384
+  muggle: 56696
+  smuggle: 44526
+  snuggle: 34586
+  squiggle: 90286
+  struggle: 3438
+  toggle: 15008
+  wiggle: 25903
+  wriggle: 65022
+scored_words:
+  boondoggle: 117276
+  joggle: 228969
+  niggle: 118216
+  straggle: 241432
+  waggle: 112784
+not_scored_words:
+- bedraggle
+- draggle
+- guggle
+- higgle
+- sniggle

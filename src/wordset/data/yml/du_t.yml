@@ -1,0 +1,39 @@
+---
+pattern: du_t
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 29
+score: 880182
+score_per_word: 67706
+hi_scored_words:
+  duct: 17307
+  duelist: 71011
+  duet: 18418
+  dugout: 29660
+  dullest: 99366
+  dumbest: 35388
+  durst: 33232
+  dust: 2672
+  duvet: 24191
+scored_words:
+  dualist: 135280
+  ducat: 113431
+  dulcet: 119177
+  dunt: 181049
+not_scored_words:
+- DuPont
+- Dubonnet
+- Dubuffet
+- Dumyat
+- Dunant
+- Durant
+- duckiest
+- dumpcart
+- dumpiest
+- dunnest
+- duplet
+- durmast
+- duskiest
+- dustcart
+- dustiest
+- dustsheet

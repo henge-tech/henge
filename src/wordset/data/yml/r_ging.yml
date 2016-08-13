@@ -1,0 +1,36 @@
+---
+pattern: r_ging
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 26
+score: 1891943
+score_per_word: 111290
+hi_scored_words:
+  raging: 12018
+  rampaging: 74839
+  ranging: 6777
+  ravaging: 84325
+  rearranging: 48213
+  recharging: 50227
+  repackaging: 85741
+  rigging: 17559
+  ringing: 9309
+  rummaging: 70930
+scored_words:
+  ragging: 108040
+  reemerging: 274777
+  remortgaging: 151007
+  reneging: 157085
+  restringing: 315154
+  revenging: 257438
+  ridging: 168504
+not_scored_words:
+- reengaging
+- reforging
+- regorging
+- rehanging
+- rejigging
+- rejudging
+- reorging
+- rouging
+- rugging

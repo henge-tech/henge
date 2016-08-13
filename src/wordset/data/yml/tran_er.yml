@@ -1,0 +1,26 @@
+---
+pattern: tran_er
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 16
+score: 622262
+score_per_word: 51855
+hi_scored_words:
+  tranquilizer: 86334
+  transceiver: 32276
+  transcriber: 57443
+  transducer: 24133
+  transfer: 1997
+  transformer: 20523
+  transgender: 17644
+  transmitter: 13265
+  transponder: 36555
+  transporter: 21860
+scored_words:
+  transposer: 164719
+  transputer: 145513
+not_scored_words:
+- tranquiler
+- transferrer
+- transfuser
+- transmuter

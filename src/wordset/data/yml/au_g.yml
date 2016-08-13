@@ -1,0 +1,30 @@
+---
+pattern: au_g
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 20
+score: 568818
+score_per_word: 56881
+hi_scored_words:
+  auctioning: 53287
+  auditing: 12514
+  auditioning: 53599
+  aug: 2657
+  augmenting: 49132
+  authenticating: 59923
+  authoring: 18286
+  authorizing: 17636
+  automating: 36052
+scored_words:
+  autographing: 265732
+not_scored_words:
+- Aug
+- Augsburg
+- auguring
+- aurifying
+- auscultating
+- auspicating
+- automatizing
+- automobiling
+- autopsying
+- autotomizing

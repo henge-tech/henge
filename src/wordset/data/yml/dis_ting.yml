@@ -1,0 +1,56 @@
+---
+pattern: dis_ting
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 46
+score: 3031418
+score_per_word: 97787
+hi_scored_words:
+  disappointing: 12587
+  disconcerting: 38829
+  disconnecting: 48725
+  discounting: 36416
+  discrediting: 86875
+  discriminating: 26033
+  disgusting: 13021
+  disinfecting: 72627
+  disintegrating: 59888
+  disorienting: 98979
+  disputing: 43067
+  disquieting: 75171
+  disrupting: 32073
+  dissecting: 42697
+  disseminating: 41787
+  dissenting: 23853
+  dissipating: 74144
+  distorting: 44303
+  distracting: 26066
+  distributing: 7942
+scored_words:
+  disambiguating: 282434
+  disassociating: 292234
+  discomforting: 174976
+  dislocating: 199333
+  dismounting: 110348
+  disorientating: 265989
+  dispiriting: 130983
+  disporting: 186897
+  disrespecting: 123356
+  dissociating: 177348
+  distrusting: 182437
+not_scored_words:
+- disaffecting
+- disaffiliating
+- disafforesting
+- disarticulating
+- discombobulating
+- discomfiting
+- discontenting
+- disenchanting
+- disforesting
+- disinfesting
+- disinheriting
+- disjointing
+- dissimilating
+- dissimulating
+- disuniting

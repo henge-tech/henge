@@ -1,0 +1,28 @@
+---
+pattern: _ibed
+hi_scored_words_count: 13
+scored_words_count: 0
+total_words: 18
+score: 558219
+score_per_word: 42939
+hi_scored_words:
+  ascribed: 21689
+  bribed: 52403
+  circumscribed: 51825
+  described: 1174
+  imbibed: 90788
+  inscribed: 17156
+  oversubscribed: 88107
+  prescribed: 5392
+  proscribed: 51375
+  scribed: 64955
+  subscribed: 13060
+  transcribed: 20022
+  unsubscribed: 80273
+scored_words: {}
+not_scored_words:
+- gibed
+- jibed
+- overprescribed
+- resubscribed
+- superscribed

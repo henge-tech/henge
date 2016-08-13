@@ -1,0 +1,27 @@
+---
+pattern: exc_ing
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 1318531
+score_per_word: 94180
+hi_scored_words:
+  excavating: 40695
+  exceeding: 7638
+  excelling: 69922
+  excepting: 25301
+  exchanging: 17374
+  exciting: 3266
+  exclaiming: 69098
+  excluding: 7292
+  excruciating: 39779
+  excusing: 73468
+scored_words:
+  excerpting: 294535
+  excising: 198710
+  excoriating: 268309
+  excreting: 203144
+not_scored_words:
+- excogitating
+- excommunicating
+- exculpating

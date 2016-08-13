@@ -1,0 +1,28 @@
+---
+pattern: a_mic
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 868299
+score_per_word: 78936
+hi_scored_words:
+  academic: 4036
+  aerodynamic: 31519
+  agronomic: 70402
+  algorithmic: 37256
+  anatomic: 39057
+  anemic: 55338
+  atomic: 9077
+  autonomic: 28909
+scored_words:
+  alchemic: 262245
+  arrhythmic: 172896
+  astronomic: 157564
+not_scored_words:
+- Adamic
+- achromic
+- acronymic
+- agamic
+- alexipharmic
+- antidromic
+- antonymic

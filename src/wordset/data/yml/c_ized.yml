@@ -1,0 +1,56 @@
+---
+pattern: c_ized
+hi_scored_words_count: 16
+scored_words_count: 11
+total_words: 46
+score: 2659677
+score_per_word: 98506
+hi_scored_words:
+  canonized: 80281
+  capitalized: 19704
+  capsized: 63423
+  caramelized: 75290
+  categorized: 14935
+  centralized: 16310
+  characterized: 6527
+  civilized: 13884
+  colonized: 46732
+  colorized: 87325
+  commercialized: 56275
+  computerized: 16657
+  conceptualized: 63691
+  criticized: 15278
+  crystallized: 47412
+  customized: 7163
+scored_words:
+  cannibalized: 211032
+  carbonized: 118226
+  catheterized: 295890
+  cauterized: 280541
+  channelized: 100163
+  cognized: 292969
+  compartmentalized: 108184
+  containerized: 125399
+  contextualized: 114634
+  conventionalized: 265954
+  criminalized: 115798
+not_scored_words:
+- canalized
+- caponized
+- capsulized
+- carburized
+- catechized
+- catholicized
+- cicatrized
+- cinematized
+- circularized
+- classicized
+- cocainized
+- collectivized
+- communalized
+- communized
+- concertized
+- concretized
+- contemporized
+- copolymerized
+- creolized

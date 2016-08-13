@@ -1,0 +1,55 @@
+---
+pattern: de_or
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 45
+score: 1966096
+score_per_word: 78643
+hi_scored_words:
+  debtor: 13347
+  decor: 11481
+  decorator: 25774
+  defector: 79793
+  defibrillator: 47585
+  deflator: 85542
+  deflector: 55391
+  dehydrator: 96724
+  demeanor: 26998
+  demodulator: 98071
+  demonstrator: 40452
+  denominator: 21065
+  depositor: 56638
+  descriptor: 22294
+  designator: 53956
+  destructor: 46520
+  detector: 9850
+  detonator: 43334
+scored_words:
+  delegator: 253351
+  delineator: 143895
+  depressor: 146077
+  desiccator: 189223
+  desolator: 109275
+  detractor: 164229
+  devastator: 125231
+not_scored_words:
+- decapitator
+- decelerator
+- decimator
+- dedicator
+- defalcator
+- defecator
+- deflagrator
+- defoliator
+- deliberator
+- deliminator
+- demarcator
+- denigrator
+- deprecator
+- depreciator
+- depredator
+- depressomotor
+- desalinator
+- desecrator
+- deviator
+- devisor

@@ -1,0 +1,30 @@
+---
+pattern: cur_y
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 883443
+score_per_word: 67957
+hi_scored_words:
+  curiosity: 7421
+  curiously: 18606
+  curly: 11826
+  currency: 4345
+  currently: 4763
+  curry: 12456
+  cursory: 36592
+  curtly: 94094
+  curvy: 40193
+scored_words:
+  curacy: 139773
+  curmudgeonly: 135314
+  cursorily: 231165
+  curtsy: 146895
+not_scored_words:
+- Curry
+- curability
+- curatively
+- curdy
+- curriery
+- cursedly
+- cursively

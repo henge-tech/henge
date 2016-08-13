@@ -1,0 +1,30 @@
+---
+pattern: w_ted
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 20
+score: 1558314
+score_per_word: 86573
+hi_scored_words:
+  wafted: 87237
+  waisted: 70879
+  waited: 5548
+  wanted: 619
+  warranted: 16512
+  wasted: 6744
+  weighted: 11438
+  wholehearted: 85496
+  wilted: 66353
+  witted: 60407
+  worsted: 49368
+  wrested: 92657
+scored_words:
+  wainscoted: 243547
+  warmhearted: 214042
+  welted: 199745
+  whetted: 121157
+  whited: 104984
+  wonted: 121581
+not_scored_words:
+- wainscotted
+- wildcatted

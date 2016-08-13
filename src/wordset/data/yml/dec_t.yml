@@ -1,0 +1,32 @@
+---
+pattern: dec_t
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 22
+score: 974126
+score_per_word: 74932
+hi_scored_words:
+  decadent: 28710
+  decant: 96636
+  decedent: 38781
+  deceit: 20751
+  decent: 4162
+  declarant: 87815
+  decongestant: 78980
+  deconstruct: 75536
+  decrement: 48419
+  decrepit: 47592
+  decrypt: 38443
+scored_words:
+  decipherment: 180877
+  deconstructionist: 227424
+not_scored_words:
+- Decembrist
+- decampment
+- decoct
+- decolorant
+- decongest
+- decontaminant
+- decrescent
+- decumbent
+- decurrent

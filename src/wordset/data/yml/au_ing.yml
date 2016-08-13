@@ -1,0 +1,27 @@
+---
+pattern: au_ing
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 566161
+score_per_word: 62906
+hi_scored_words:
+  auctioning: 53287
+  auditing: 12514
+  auditioning: 53599
+  augmenting: 49132
+  authenticating: 59923
+  authoring: 18286
+  authorizing: 17636
+  automating: 36052
+scored_words:
+  autographing: 265732
+not_scored_words:
+- auguring
+- aurifying
+- auscultating
+- auspicating
+- automatizing
+- automobiling
+- autopsying
+- autotomizing

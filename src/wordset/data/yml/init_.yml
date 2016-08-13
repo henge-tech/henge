@@ -1,0 +1,34 @@
+---
+pattern: init_
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 24
+score: 1145610
+score_per_word: 49809
+hi_scored_words:
+  init: 15661
+  initial: 3453
+  initialization: 25984
+  initialize: 26810
+  initialized: 30027
+  initializes: 67678
+  initializing: 55362
+  initially: 7467
+  initials: 16160
+  initiate: 12407
+  initiated: 6984
+  initiates: 24539
+  initiating: 23004
+  initiation: 11552
+  initiations: 73728
+  initiative: 4527
+  initiatives: 3883
+  initiator: 28535
+  initiators: 68091
+scored_words:
+  initialed: 109230
+  initialing: 249735
+  initializations: 129684
+  initiatory: 151109
+not_scored_words:
+- initialism

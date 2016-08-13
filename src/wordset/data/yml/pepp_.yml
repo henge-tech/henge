@@ -1,0 +1,28 @@
+---
+pattern: pepp_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 744445
+score_per_word: 67676
+hi_scored_words:
+  pepper: 4865
+  peppercorn: 60928
+  peppercorns: 60408
+  peppered: 52231
+  peppermint: 25747
+  pepperoni: 42252
+  peppers: 15070
+  peppery: 84636
+  peppy: 70838
+scored_words:
+  peppering: 161516
+  peppermints: 165954
+not_scored_words:
+- pepped
+- peppergrass
+- pepperonis
+- peppier
+- peppiest
+- peppiness
+- pepping

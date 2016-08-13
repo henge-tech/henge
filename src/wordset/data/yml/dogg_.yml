@@ -1,0 +1,32 @@
+---
+pattern: dogg_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 22
+score: 774961
+score_per_word: 77496
+hi_scored_words:
+  dogged: 33960
+  doggedly: 68510
+  doggerel: 88615
+  doggie: 30005
+  doggies: 72846
+  dogging: 42129
+  doggone: 69039
+  doggy: 22328
+scored_words:
+  doggedness: 237191
+  dogger: 110338
+not_scored_words:
+- doggery
+- doggier
+- doggiest
+- doggish
+- doggo
+- doggoned
+- doggoneder
+- doggonedest
+- doggoner
+- doggones
+- doggonest
+- doggoning

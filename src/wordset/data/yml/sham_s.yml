@@ -1,0 +1,26 @@
+---
+pattern: sham_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 860059
+score_per_word: 86005
+hi_scored_words:
+  shamans: 54687
+  shambles: 34737
+  shameless: 17887
+  shames: 81619
+  shampoos: 46608
+  shamrocks: 83519
+  shams: 39039
+  shamus: 96668
+scored_words:
+  shamelessness: 213297
+  shampooers: 191998
+not_scored_words:
+- shamanisms
+- shamblings
+- shamefacedness
+- shamefacednesses
+- shamefulness
+- shammies

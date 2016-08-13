@@ -1,0 +1,26 @@
+---
+pattern: unf_e
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 788626
+score_per_word: 71693
+hi_scored_words:
+  unfashionable: 65582
+  unfathomable: 47836
+  unfavorable: 20445
+  unfeasible: 89599
+  unforeseeable: 87280
+  unforgettable: 20770
+  unforgivable: 61000
+  unfortunate: 6547
+scored_words:
+  unflappable: 132746
+  unfree: 112170
+  unfreeze: 144651
+not_scored_words:
+- unfalsifiable
+- unfeminine
+- unfordable
+- unfroze
+- unfulfillable

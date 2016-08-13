@@ -1,0 +1,44 @@
+---
+pattern: g_ks
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 34
+score: 1861525
+score_per_word: 124101
+hi_scored_words:
+  gamecocks: 41429
+  geeks: 15139
+  gimmicks: 37340
+  glassworks: 88521
+  goldilocks: 65834
+  groks: 90733
+  guestbooks: 43684
+  guidebooks: 37523
+scored_words:
+  gasworks: 106170
+  gentlefolks: 258164
+  gooks: 137227
+  goosenecks: 325425
+  goshawks: 286596
+  greenbacks: 106555
+  grosbeaks: 221185
+not_scored_words:
+- Goldilocks
+- Greeks
+- gangplanks
+- gawks
+- gemsboks
+- gerenuks
+- gimcracks
+- givebacks
+- goldbricks
+- gonks
+- graybacks
+- greenshanks
+- gridlocks
+- grillworks
+- gripsacks
+- gucks
+- gunlocks
+- gunnysacks
+- gunstocks

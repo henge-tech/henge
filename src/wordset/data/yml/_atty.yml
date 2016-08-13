@@ -1,0 +1,23 @@
+---
+pattern: _atty
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 498212
+score_per_word: 49821
+hi_scored_words:
+  atty: 30333
+  batty: 40988
+  catty: 67017
+  chatty: 43220
+  fatty: 12148
+  natty: 46808
+  patty: 11354
+  ratty: 67934
+  tatty: 74105
+scored_words:
+  bratty: 104305
+not_scored_words:
+- Beatty
+- Patty
+- scatty

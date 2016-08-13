@@ -1,0 +1,48 @@
+---
+pattern: _sta
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 38
+score: 1278630
+score_per_word: 63931
+hi_scored_words:
+  arista: 40062
+  ballista: 87986
+  barista: 46486
+  canasta: 66754
+  costa: 8537
+  crista: 92930
+  cuesta: 58206
+  fashionista: 73431
+  fiesta: 17444
+  gangsta: 23415
+  hosta: 75910
+  pasta: 11624
+  siesta: 38673
+  testa: 45300
+  vesta: 36084
+  vista: 6428
+scored_words:
+  celesta: 131616
+  cesta: 105618
+  genista: 208289
+  podesta: 103837
+not_scored_words:
+- Acosta
+- Antofagasta
+- Augusta
+- Avesta
+- Batista
+- Christa
+- Famagusta
+- Fascista
+- Jocasta
+- Krista
+- Rasta
+- Sandinista
+- Shasta
+- Sta
+- VISTA
+- Vesta
+- egesta
+- ingesta

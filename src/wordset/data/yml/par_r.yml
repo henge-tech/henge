@@ -1,0 +1,32 @@
+---
+pattern: par_r
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 22
+score: 1434116
+score_per_word: 89632
+hi_scored_words:
+  parameter: 8472
+  paramour: 86031
+  paratrooper: 62490
+  parishioner: 73450
+  parkour: 77534
+  parlor: 15202
+  parr: 29480
+  parser: 22060
+  particular: 645
+  partner: 1972
+scored_words:
+  paraglider: 119249
+  pardner: 135508
+  pardoner: 239570
+  parer: 176085
+  partaker: 143741
+  participator: 242627
+not_scored_words:
+- Parker
+- Parmentier
+- Parr
+- parader
+- paragrapher
+- paraphraser

@@ -1,0 +1,22 @@
+---
+pattern: urin_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 812870
+score_per_word: 73897
+hi_scored_words:
+  urinal: 38993
+  urinals: 55727
+  urinalysis: 60201
+  urinary: 13817
+  urinate: 45217
+  urinating: 51504
+  urination: 35787
+  urine: 10523
+scored_words:
+  urinated: 102247
+  urinates: 211130
+  uriniferous: 187724
+not_scored_words:
+- urinalyses

@@ -1,0 +1,23 @@
+---
+pattern: enla_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 576196
+score_per_word: 57619
+hi_scored_words:
+  enlace: 80257
+  enlarge: 6394
+  enlarged: 8569
+  enlargement: 8780
+  enlargements: 60940
+  enlarger: 69482
+  enlarges: 65664
+  enlarging: 33707
+scored_words:
+  enlaces: 100466
+  enlargers: 141937
+not_scored_words:
+- enlaced
+- enlacing
+- enlargeable

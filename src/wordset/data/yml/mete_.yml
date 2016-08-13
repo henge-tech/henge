@@ -1,0 +1,45 @@
+---
+pattern: mete_
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 35
+score: 1871950
+score_per_word: 81389
+hi_scored_words:
+  mete: 59910
+  meted: 70894
+  metempsychosis: 74667
+  meteor: 18953
+  meteoric: 59414
+  meteorite: 29040
+  meteorites: 39433
+  meteorological: 19771
+  meteorologist: 44917
+  meteorologists: 63648
+  meteorology: 21020
+  meteors: 40696
+  meter: 7092
+  metered: 41301
+  metering: 21155
+  meters: 6756
+scored_words:
+  meteoritic: 182992
+  meteoritical: 254877
+  meteoritics: 192897
+  meteoroid: 187609
+  meteoroids: 171521
+  meteorol: 138226
+  metes: 125161
+not_scored_words:
+- metempirics
+- metempsychoses
+- metempsychosist
+- metempsychotic
+- metempsychotically
+- metencephalon
+- metencephalons
+- meteorically
+- meteorograph
+- meteorologic
+- meteorologically
+- meterage

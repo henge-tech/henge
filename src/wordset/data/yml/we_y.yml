@@ -1,0 +1,41 @@
+---
+pattern: we_y
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 31
+score: 1199439
+score_per_word: 66635
+hi_scored_words:
+  weakly: 17232
+  wealthy: 7063
+  weaponry: 25835
+  wearily: 43864
+  weary: 10643
+  weatherly: 64493
+  webby: 45160
+  weedy: 55818
+  weekday: 19154
+  weekly: 2807
+  weeny: 92873
+  weighty: 31646
+  weirdly: 66774
+  welly: 69125
+  westerly: 21851
+scored_words:
+  weensy: 260459
+  weepy: 105109
+  wetly: 259533
+not_scored_words:
+- Wednesday
+- Wellesley
+- Welty
+- Wembley
+- Wendy
+- Wesley
+- wearisomely
+- wearyingly
+- weaselly
+- weevily
+- weightily
+- weightlessly
+- westwardly

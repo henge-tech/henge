@@ -1,0 +1,35 @@
+---
+pattern: _vism
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 25
+score: 1371981
+score_per_word: 97998
+hi_scored_words:
+  activism: 14747
+  bolshevism: 99801
+  collectivism: 77350
+  constructivism: 63153
+  objectivism: 64556
+  positivism: 54199
+  recidivism: 46668
+  relativism: 40699
+scored_words:
+  atavism: 175475
+  fauvism: 179285
+  nativism: 152712
+  negativism: 181105
+  primitivism: 117623
+  subjectivism: 104608
+not_scored_words:
+- Bolshevism
+- Fauvism
+- Slavism
+- Stakhanovism
+- civism
+- corporativism
+- descriptivism
+- intuitivism
+- neoconservativism
+- passivism
+- prescriptivism

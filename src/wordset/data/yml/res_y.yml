@@ -1,0 +1,49 @@
+---
+pattern: res_y
+hi_scored_words_count: 12
+scored_words_count: 15
+total_words: 39
+score: 3780538
+score_per_word: 140019
+hi_scored_words:
+  residency: 19670
+  resiliency: 53644
+  resistivity: 35575
+  resolutely: 42424
+  respectability: 39806
+  respectfully: 12934
+  respectively: 4211
+  respiratory: 13163
+  responsibility: 1586
+  responsibly: 24697
+  restlessly: 91544
+  resupply: 65084
+scored_words:
+  resentfully: 233879
+  residentially: 200926
+  residually: 310819
+  residuary: 120268
+  resignedly: 208182
+  resiliently: 274080
+  resonantly: 294854
+  resoundingly: 144268
+  respectably: 129720
+  responsively: 213840
+  responsory: 251238
+  respray: 285351
+  restrictively: 231812
+  restudy: 241545
+  resurvey: 235418
+not_scored_words:
+- rescissory
+- reservedly
+- residentiary
+- resiny
+- resistively
+- resolvability
+- resourcefully
+- resplendency
+- resplendently
+- restfully
+- restively
+- restrainedly

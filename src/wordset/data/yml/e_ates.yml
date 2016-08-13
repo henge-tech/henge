@@ -1,0 +1,80 @@
+---
+pattern: e_ates
+hi_scored_words_count: 18
+scored_words_count: 13
+total_words: 70
+score: 3395206
+score_per_word: 109522
+hi_scored_words:
+  educates: 49071
+  elaborates: 63028
+  electorates: 72343
+  elevates: 54327
+  eliminates: 13224
+  emanates: 68661
+  emirates: 12379
+  emulates: 63098
+  encapsulates: 52436
+  enumerates: 73162
+  equates: 36203
+  escalates: 64401
+  estates: 5674
+  estimates: 3705
+  evaluates: 19803
+  evaporates: 62281
+  exacerbates: 81372
+  expatriates: 40188
+scored_words:
+  ejaculates: 160040
+  elongates: 237881
+  elucidates: 146089
+  enunciates: 280744
+  eradicates: 222199
+  evacuates: 217156
+  exaggerates: 100019
+  exfoliates: 181603
+  exonerates: 183125
+  explicates: 271084
+  exterminates: 231517
+  extrapolates: 213757
+  exudates: 114636
+not_scored_words:
+- Euphrates
+- edentates
+- edulcorates
+- effectuates
+- elates
+- electroplates
+- emaciates
+- emancipates
+- emasculates
+- emigrates
+- enates
+- enervates
+- epilates
+- equilibrates
+- equivocates
+- estivates
+- etiolates
+- eventuates
+- eviscerates
+- exasperates
+- excavates
+- excogitates
+- excommunicates
+- excoriates
+- excruciates
+- exculpates
+- execrates
+- exhilarates
+- expatiates
+- expectorates
+- expiates
+- expostulates
+- expropriates
+- expurgates
+- extenuates
+- extirpates
+- extravasates
+- extricates
+- exuviates

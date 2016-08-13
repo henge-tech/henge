@@ -1,0 +1,28 @@
+---
+pattern: as_nt
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 18
+score: 510513
+score_per_word: 39270
+hi_scored_words:
+  ascendant: 31707
+  ascent: 14062
+  aspirant: 57463
+  assailant: 39648
+  assent: 16520
+  assessment: 5950
+  assignment: 7164
+  assistant: 2768
+  assortment: 14009
+  astonishment: 23823
+  astringent: 53891
+scored_words:
+  ascertainment: 101183
+  aslant: 142325
+not_scored_words:
+- asphyxiant
+- asquint
+- assonant
+- assuagement
+- assurgent

@@ -1,0 +1,39 @@
+---
+pattern: di_nts
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 29
+score: 1459929
+score_per_word: 97328
+hi_scored_words:
+  disagreements: 30118
+  disappointments: 36797
+  disappoints: 61543
+  disbursements: 35896
+  discontents: 73879
+  discounts: 14785
+  disinfectants: 54214
+  displacements: 40652
+  dissidents: 35453
+scored_words:
+  discouragements: 244729
+  discriminants: 283909
+  discussants: 124091
+  dismounts: 210241
+  disputants: 112283
+  dissents: 101339
+not_scored_words:
+- dints
+- discants
+- disconcertments
+- disenchants
+- disengagements
+- disfigurements
+- disheartenments
+- disjoints
+- dislodgements
+- dislodgments
+- disorients
+- dissolvents
+- distraints
+- divorcements

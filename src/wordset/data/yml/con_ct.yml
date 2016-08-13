@@ -1,0 +1,23 @@
+---
+pattern: con_ct
+hi_scored_words_count: 11
+scored_words_count: 0
+total_words: 13
+score: 294835
+score_per_word: 26803
+hi_scored_words:
+  concoct: 89084
+  conduct: 1638
+  conflict: 2276
+  conjunct: 73826
+  connect: 2822
+  constrict: 80074
+  construct: 6515
+  contact: 444
+  contract: 1607
+  contradict: 18233
+  convict: 18316
+scored_words: {}
+not_scored_words:
+- confect
+- convect

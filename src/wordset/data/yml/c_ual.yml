@@ -1,0 +1,22 @@
+---
+pattern: c_ual
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 824638
+score_per_word: 74967
+hi_scored_words:
+  casual: 4503
+  conceptual: 18993
+  consensual: 33015
+  contextual: 18416
+  continual: 12281
+  contractual: 12541
+  conventual: 58544
+  counterfactual: 74160
+scored_words:
+  coequal: 250453
+  conflictual: 157255
+  construal: 184477
+not_scored_words:
+- commutual

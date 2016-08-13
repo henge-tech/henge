@@ -1,0 +1,38 @@
+---
+pattern: a_ring
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 28
+score: 862427
+score_per_word: 45390
+hi_scored_words:
+  acquiring: 9954
+  adhering: 24681
+  administering: 14919
+  admiring: 23373
+  adoring: 43417
+  adventuring: 59755
+  airing: 21067
+  alluring: 29368
+  altering: 14225
+  anchoring: 35727
+  answering: 5365
+  appearing: 3754
+  aspiring: 17689
+  assuring: 21292
+  authoring: 18286
+scored_words:
+  abhorring: 120628
+  abjuring: 146101
+  angering: 112686
+  armoring: 140140
+not_scored_words:
+- accoutering
+- accoutring
+- adjuring
+- admeasuring
+- ashlaring
+- attempering
+- attiring
+- auguring
+- averring

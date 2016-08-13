@@ -1,0 +1,47 @@
+---
+pattern: amp_s
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 37
+score: 1950170
+score_per_word: 108342
+hi_scored_words:
+  amperes: 64336
+  amphetamines: 41921
+  amphibians: 25535
+  amphibious: 29712
+  amplifiers: 13849
+  amplifies: 63690
+  amplitudes: 32454
+  amps: 13061
+  amputations: 74129
+  amputees: 69126
+scored_words:
+  ampersands: 243286
+  amphiboles: 262046
+  amphioxus: 208611
+  amphipods: 135241
+  amphitheaters: 258936
+  amplifications: 135379
+  ampoules: 113260
+  ampules: 165598
+not_scored_words:
+- ampelopsis
+- amphiarthrosis
+- amphibolites
+- amphibologies
+- amphibolous
+- amphibrachs
+- amphicoelous
+- amphictyonies
+- amphidiploids
+- amphigories
+- amphimixes
+- amphimixis
+- amphioxuses
+- amphisbaenas
+- amphitropous
+- ampicillins
+- ampleness
+- amplenesses
+- amputates

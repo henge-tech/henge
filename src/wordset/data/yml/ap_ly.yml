@@ -1,0 +1,35 @@
+---
+pattern: ap_ly
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 25
+score: 989744
+score_per_word: 76134
+hi_scored_words:
+  apologetically: 99681
+  apparently: 2180
+  apply: 1055
+  appreciably: 52570
+  appropriately: 10567
+  approvingly: 70415
+  approximately: 4358
+  aptly: 31415
+scored_words:
+  apically: 166519
+  appallingly: 105471
+  appealingly: 124381
+  appreciatively: 141054
+  apprehensively: 180078
+not_scored_words:
+- apathetically
+- aperiodically
+- aphoristically
+- apishly
+- apocalyptically
+- apocryphally
+- apolitically
+- apoplectically
+- appetizingly
+- applicably
+- appositely
+- appraisingly

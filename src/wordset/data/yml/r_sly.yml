@@ -1,0 +1,32 @@
+---
+pattern: r_sly
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 22
+score: 1472510
+score_per_word: 113270
+hi_scored_words:
+  recklessly: 39397
+  relentlessly: 31706
+  religiously: 31799
+  restlessly: 91544
+  ridiculously: 25642
+  righteously: 87184
+  rigorously: 33323
+  ruthlessly: 50687
+scored_words:
+  rapturously: 204567
+  raucously: 300298
+  ravenously: 111355
+  remorselessly: 206877
+  riotously: 258131
+not_scored_words:
+- rambunctiously
+- rancorously
+- rapaciously
+- rebelliously
+- regardlessly
+- remissly
+- repetitiously
+- ruinously
+- rumbustiously

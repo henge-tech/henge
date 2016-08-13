@@ -1,0 +1,35 @@
+---
+pattern: exp_n
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 25
+score: 1296864
+score_per_word: 56385
+hi_scored_words:
+  expansion: 3860
+  expectation: 6936
+  expedition: 5367
+  experimentation: 22146
+  expiation: 97401
+  expiration: 9927
+  explain: 1692
+  explanation: 2516
+  explication: 55378
+  exploitation: 11478
+  exploration: 6052
+  explosion: 6277
+  exportation: 39060
+  exposition: 11697
+  expression: 1462
+  expropriation: 44431
+  expulsion: 16786
+scored_words:
+  expatriation: 116042
+  expectoration: 136422
+  exponentiation: 100743
+  expostulation: 147431
+  expressman: 259635
+  expurgation: 194125
+not_scored_words:
+- expatiation
+- expunction

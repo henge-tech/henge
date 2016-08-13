@@ -1,0 +1,34 @@
+---
+pattern: r_f
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 24
+score: 651104
+score_per_word: 50084
+hi_scored_words:
+  raff: 54259
+  rebuff: 74038
+  reef: 9676
+  ref: 7929
+  relief: 1866
+  reproof: 65485
+  riff: 22352
+  ripoff: 59635
+  roof: 2616
+  ruff: 23202
+  runoff: 16836
+scored_words:
+  riffraff: 124311
+  rustproof: 188899
+not_scored_words:
+- RAF
+- RF
+- RIF
+- Rachmaninoff
+- Ratliff
+- Rf
+- Rolf
+- Rudolf
+- rainproof
+- restaff
+- restuff

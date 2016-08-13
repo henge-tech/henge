@@ -1,0 +1,37 @@
+---
+pattern: p_ves
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 27
+score: 1732260
+score_per_word: 101897
+hi_scored_words:
+  passives: 79373
+  paves: 63491
+  peeves: 53161
+  perceives: 35738
+  perspectives: 12180
+  positives: 15325
+  prerogatives: 57995
+  preservatives: 34001
+  preserves: 15196
+  primitives: 36032
+  progressives: 30399
+  proves: 7222
+scored_words:
+  penknives: 302645
+  plosives: 257673
+  possessives: 182838
+  preventatives: 277630
+  preventives: 271361
+not_scored_words:
+- palliatives
+- palsgraves
+- partitives
+- pejoratives
+- perfectives
+- photoengraves
+- pikestaves
+- pocketknives
+- preconceives
+- purgatives

@@ -1,0 +1,28 @@
+---
+pattern: _emia
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 18
+score: 1236907
+score_per_word: 88350
+hi_scored_words:
+  academia: 23426
+  anemia: 17738
+  hyperglycemia: 61318
+  hypoglycemia: 36234
+  ischemia: 27195
+  leukemia: 16154
+  septicemia: 65504
+  uremia: 93064
+scored_words:
+  azotemia: 271890
+  hyperemia: 175077
+  hypoglycaemia: 104725
+  polycythemia: 114886
+  toxemia: 118479
+  tularemia: 111217
+not_scored_words:
+- Bohemia
+- anoxemia
+- dysphemia
+- pyemia

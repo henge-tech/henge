@@ -1,0 +1,32 @@
+---
+pattern: a_hes
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 22
+score: 884182
+score_per_word: 63155
+hi_scored_words:
+  abolishes: 71448
+  accomplishes: 36476
+  aches: 22875
+  ambushes: 82663
+  apaches: 70237
+  apostrophes: 75233
+  approaches: 3672
+  arches: 14378
+  ashes: 7911
+  attaches: 21960
+  avalanches: 52903
+scored_words:
+  admonishes: 124090
+  airbrushes: 153329
+  astonishes: 147007
+not_scored_words:
+- Apaches
+- abashes
+- aitches
+- anastrophes
+- angelfishes
+- anguishes
+- antistrophes
+- avouches

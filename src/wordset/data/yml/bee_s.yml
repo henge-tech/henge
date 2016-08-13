@@ -1,0 +1,34 @@
+---
+pattern: bee_s
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 24
+score: 976268
+score_per_word: 81355
+hi_scored_words:
+  beeches: 80556
+  beefs: 84384
+  beekeepers: 69108
+  beeps: 39588
+  beers: 20794
+  bees: 8529
+  beetles: 19894
+  beets: 38022
+scored_words:
+  beefeaters: 250305
+  beehives: 124811
+  beepers: 121992
+  beeves: 118285
+not_scored_words:
+- beechnuts
+- beefaloes
+- beefalos
+- beefburgers
+- beefcakes
+- beefiness
+- beefsteaks
+- beefwoods
+- beelines
+- beermats
+- beestings
+- beetroots

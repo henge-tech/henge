@@ -1,0 +1,23 @@
+---
+pattern: _walk
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 601085
+score_per_word: 60108
+hi_scored_words:
+  boardwalk: 21600
+  cakewalk: 41182
+  catwalk: 33338
+  crosswalk: 43572
+  moonwalk: 84416
+  sidewalk: 12429
+  spacewalk: 99008
+  walk: 1020
+scored_words:
+  skywalk: 123546
+  sleepwalk: 140974
+not_scored_words:
+- jaywalk
+- outwalk
+- sheepwalk

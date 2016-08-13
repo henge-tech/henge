@@ -1,0 +1,52 @@
+---
+pattern: p_des
+hi_scored_words_count: 18
+scored_words_count: 3
+total_words: 42
+score: 1349265
+score_per_word: 64250
+hi_scored_words:
+  palisades: 27246
+  parades: 31430
+  peptides: 18545
+  peroxides: 82094
+  persuades: 67989
+  pervades: 50938
+  pesticides: 11297
+  platitudes: 65118
+  polypeptides: 55330
+  polysaccharides: 53210
+  postcodes: 65344
+  precedes: 28211
+  precludes: 39369
+  preludes: 60243
+  presides: 57868
+  prides: 41971
+  protrudes: 97619
+  provides: 2866
+scored_words:
+  polyamides: 167334
+  promenades: 105644
+  prudes: 219599
+not_scored_words:
+- Palisades
+- Parmenides
+- Pheidippides
+- Phidippides
+- Pierides
+- Pleiades
+- pancreatitides
+- parricides
+- pasquinades
+- patricides
+- pentodes
+- pericarditides
+- photocathodes
+- phylloclades
+- phyllodes
+- plenitudes
+- polyneuritides
+- pomades
+- poolsides
+- postludes
+- pyelonephritides

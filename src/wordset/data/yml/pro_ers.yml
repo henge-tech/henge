@@ -1,0 +1,33 @@
+---
+pattern: pro_ers
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 23
+score: 1647798
+score_per_word: 96929
+hi_scored_words:
+  proclaimers: 96439
+  producers: 8272
+  profiteers: 95245
+  programmers: 8649
+  promoters: 19468
+  propellers: 38528
+  protesters: 14658
+  providers: 11726
+scored_words:
+  probationers: 101283
+  procurers: 283634
+  proffers: 111171
+  promenaders: 237830
+  proofreaders: 105830
+  proposers: 101011
+  prospers: 115465
+  provers: 150710
+  prowlers: 147879
+not_scored_words:
+- promisers
+- prompters
+- prophesiers
+- proselytizers
+- provisioners
+- provokers

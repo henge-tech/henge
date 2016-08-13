@@ -1,0 +1,52 @@
+---
+pattern: or_e
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 42
+score: 1557194
+score_per_word: 64883
+hi_scored_words:
+  oracle: 5537
+  orange: 2263
+  orchestrate: 60377
+  ordinance: 7236
+  ordinate: 25695
+  ordnance: 17639
+  ore: 9203
+  organelle: 74757
+  organize: 7010
+  orifice: 29122
+  originate: 16893
+  oriole: 45788
+  ornate: 24244
+  ornithine: 67580
+  orphanage: 25425
+scored_words:
+  orangeade: 112942
+  orate: 165102
+  ordonnance: 111763
+  ordure: 114617
+  organochlorine: 106486
+  organophosphate: 103346
+  orientate: 115186
+  oriflamme: 142461
+  orthoclase: 166522
+not_scored_words:
+- Oracle
+- Orange
+- Ordzhonikidze
+- Ore
+- Orientalize
+- Oriente
+- Orjonikidze
+- Orville
+- orbiculate
+- organizable
+- organzine
+- orientalize
+- originative
+- orle
+- orpine
+- orthodonture
+- orthographize
+- orthoscope

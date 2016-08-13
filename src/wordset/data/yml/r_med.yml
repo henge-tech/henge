@@ -1,0 +1,29 @@
+---
+pattern: r_med
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 19
+score: 836288
+score_per_word: 55752
+hi_scored_words:
+  rammed: 39092
+  reaffirmed: 33175
+  reamed: 85149
+  reclaimed: 24472
+  redeemed: 20093
+  reformed: 13587
+  renamed: 10068
+  reprogrammed: 91534
+  resumed: 10260
+  rhymed: 93197
+  rimmed: 52411
+  roamed: 45945
+  roomed: 98903
+scored_words:
+  ransomed: 113855
+  reconfirmed: 104547
+not_scored_words:
+- Reformed
+- rearmed
+- rewarmed
+- rimed

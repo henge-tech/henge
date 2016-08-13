@@ -1,0 +1,65 @@
+---
+pattern: agr_
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 55
+score: 2433482
+score_per_word: 78499
+hi_scored_words:
+  agr: 29487
+  agrarian: 26401
+  agrarianism: 94364
+  agree: 922
+  agreeable: 16262
+  agreeably: 77752
+  agreed: 1566
+  agreeing: 11033
+  agreement: 597
+  agreements: 5916
+  agrees: 6746
+  agribusiness: 34502
+  agric: 42736
+  agricultural: 3086
+  agriculture: 3037
+  agron: 96265
+  agronomic: 70402
+  agronomist: 91802
+  agronomy: 41976
+  aground: 46664
+scored_words:
+  agranulocytosis: 144866
+  agreeableness: 177865
+  agribusinesses: 227158
+  agriculturalists: 166891
+  agriculturally: 112626
+  agriculturist: 130677
+  agriculturists: 131285
+  agrimony: 217248
+  agrochemical: 151065
+  agrochemicals: 112402
+  agronomists: 159883
+not_scored_words:
+- Agra
+- Agram
+- Agricola
+- Agrigento
+- Agrippa
+- Agrippina
+- agraffe
+- agranulocytoses
+- agrapha
+- agraphia
+- agraphias
+- agrarians
+- agrestic
+- agribusinessman
+- agriculturalist
+- agrimonies
+- agrobiologies
+- agrobiology
+- agrologies
+- agrology
+- agronomical
+- agronomically
+- agronomics
+- agrostology

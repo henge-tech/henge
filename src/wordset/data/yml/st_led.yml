@@ -1,0 +1,33 @@
+---
+pattern: st_led
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 23
+score: 1637339
+score_per_word: 86175
+hi_scored_words:
+  stalled: 28833
+  stapled: 51348
+  startled: 17051
+  stenciled: 99301
+  stifled: 45425
+  stilled: 69784
+  stockpiled: 75330
+  straddled: 84498
+  strangled: 39052
+  strolled: 45123
+  struggled: 9919
+  stumbled: 13793
+  styled: 15385
+scored_words:
+  stabled: 144838
+  steamrolled: 230966
+  steeled: 137013
+  stippled: 143592
+  stonewalled: 180641
+  straggled: 205447
+not_scored_words:
+- staled
+- stickled
+- stoppled
+- strickled

@@ -1,0 +1,42 @@
+---
+pattern: _gned
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 32
+score: 1747499
+score_per_word: 69899
+hi_scored_words:
+  aligned: 10492
+  arraigned: 64672
+  assigned: 2630
+  campaigned: 39785
+  consigned: 40238
+  designed: 1503
+  feigned: 57832
+  impugned: 98029
+  maligned: 52032
+  misaligned: 84799
+  realigned: 81184
+  reassigned: 39270
+  redesigned: 19185
+  reigned: 23542
+  resigned: 9337
+  signed: 1708
+  unassigned: 42672
+  undersigned: 31382
+  unsigned: 17276
+scored_words:
+  countersigned: 114160
+  deigned: 110859
+  nonaligned: 278226
+  preassigned: 284439
+  unaligned: 106496
+  unfeigned: 135751
+not_scored_words:
+- cologned
+- cosigned
+- oppugned
+- reconsigned
+- repugned
+- undesigned
+- unresigned

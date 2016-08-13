@@ -1,0 +1,46 @@
+---
+pattern: s_am
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 36
+score: 1001787
+score_per_word: 52725
+hi_scored_words:
+  salaam: 32371
+  scam: 13714
+  scram: 56016
+  scream: 6846
+  seam: 18659
+  sham: 15182
+  slam: 13116
+  slipstream: 60142
+  sonogram: 91475
+  spam: 6606
+  steam: 3512
+  stream: 1498
+  styrofoam: 43026
+  subprogram: 74147
+  sunbeam: 25050
+  swam: 22198
+scored_words:
+  seismogram: 198213
+  spectrogram: 120733
+  stereogram: 199283
+not_scored_words:
+- SAM
+- Saddam
+- Sam
+- Schiedam
+- Seagram
+- Seringapatam
+- Siam
+- Siloam
+- Spam
+- Steadicam
+- Styrofoam
+- Sunbeam
+- Swammerdam
+- schoolma'am
+- sphenogram
+- suncream
+- syllabogram

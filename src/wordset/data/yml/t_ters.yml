@@ -1,0 +1,62 @@
+---
+pattern: t_ters
+hi_scored_words_count: 17
+scored_words_count: 14
+total_words: 52
+score: 3115636
+score_per_word: 100504
+hi_scored_words:
+  tasters: 96698
+  tatters: 59586
+  teamsters: 44903
+  telemarketers: 65002
+  testers: 18899
+  theaters: 9814
+  thermometers: 34130
+  thrusters: 54487
+  titers: 65418
+  toasters: 36188
+  toastmasters: 55961
+  transmitters: 21436
+  transporters: 35651
+  trotters: 57086
+  tweeters: 52743
+  twisters: 62582
+  typewriters: 43961
+scored_words:
+  tachometers: 196456
+  tailgaters: 199955
+  taskmasters: 301480
+  taters: 101571
+  teeters: 125319
+  telecommuters: 166906
+  tipsters: 152128
+  totters: 241306
+  trendsetters: 136522
+  tricksters: 118514
+  trimesters: 119185
+  troubleshooters: 144495
+  trumpeters: 118203
+  typesetters: 179051
+not_scored_words:
+- tacheometers
+- tapsters
+- taunters
+- taximeters
+- telecasters
+- telemeters
+- teleprinters
+- teleprompters
+- teletypewriters
+- tempters
+- tensimeters
+- tensiometers
+- tenters
+- tetrameters
+- tidewaters
+- titters
+- tooters
+- trainspotters
+- transputers
+- tufters
+- twitters

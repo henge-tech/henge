@@ -1,0 +1,40 @@
+---
+pattern: _ogen
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 30
+score: 2030704
+score_per_word: 112816
+hi_scored_words:
+  androgen: 38172
+  carcinogen: 46077
+  cyanogen: 92918
+  estrogen: 14463
+  fibrinogen: 50038
+  glycogen: 31333
+  halogen: 26025
+  hydrogen: 6923
+  nitrogen: 9123
+  pathogen: 24848
+scored_words:
+  biogen: 120976
+  chromogen: 270183
+  cryogen: 273808
+  hallucinogen: 103474
+  pepsinogen: 272127
+  pyrogen: 216294
+  teratogen: 207836
+  zymogen: 226086
+not_scored_words:
+- Imogen
+- acrogen
+- agglutinogen
+- calyptrogen
+- caseinogen
+- dermatogen
+- endogen
+- histogen
+- ionogen
+- orthohydrogen
+- oxyhydrogen
+- parahydrogen

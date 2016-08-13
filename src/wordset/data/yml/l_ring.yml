@@ -1,0 +1,33 @@
+---
+pattern: l_ring
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 23
+score: 1015820
+score_per_word: 67721
+hi_scored_words:
+  laboring: 49088
+  laundering: 19489
+  layering: 31937
+  lecturing: 33007
+  leering: 99581
+  lettering: 23510
+  levering: 84954
+  lingering: 20809
+  littering: 57612
+  loitering: 47564
+  lowering: 9290
+  lumbering: 47332
+  luring: 56857
+scored_words:
+  laddering: 243050
+  lathering: 191740
+not_scored_words:
+- lacquering
+- latchstring
+- ligaturing
+- limbering
+- liquoring
+- louring
+- lustering
+- lutestring

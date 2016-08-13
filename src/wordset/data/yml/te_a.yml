@@ -1,0 +1,35 @@
+---
+pattern: te_a
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 25
+score: 1135181
+score_per_word: 81084
+hi_scored_words:
+  tea: 1680
+  tempera: 46814
+  tempura: 66283
+  tequila: 22928
+  terra: 11216
+  terracotta: 34561
+  tesla: 20342
+  testa: 45300
+  tetra: 33079
+scored_words:
+  technophobia: 278534
+  tenia: 117625
+  tephra: 127726
+  tessera: 106390
+  tessitura: 222703
+not_scored_words:
+- Tegucigalpa
+- Terceira
+- Teresa
+- Tereshkova
+- Teresina
+- Terra
+- Tesla
+- Tessa
+- telega
+- telesthesia
+- terbia

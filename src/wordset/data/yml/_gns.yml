@@ -1,0 +1,37 @@
+---
+pattern: _gns
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 27
+score: 1868789
+score_per_word: 116799
+hi_scored_words:
+  aligns: 48080
+  assigns: 16991
+  campaigns: 6418
+  designs: 2607
+  ensigns: 95693
+  redesigns: 94404
+  reigns: 20275
+  resigns: 29686
+  signs: 1739
+  sovereigns: 36148
+scored_words:
+  consigns: 262080
+  deigns: 211203
+  feigns: 176514
+  realigns: 254615
+  reassigns: 323658
+  roadsigns: 288678
+not_scored_words:
+- arraigns
+- champaigns
+- coigns
+- cosigns
+- countersigns
+- impugns
+- maligns
+- oppugns
+- reconsigns
+- repugns
+- undersigns

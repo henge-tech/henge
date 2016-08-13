@@ -1,0 +1,43 @@
+---
+pattern: f_ally
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 33
+score: 2106392
+score_per_word: 105319
+hi_scored_words:
+  factually: 48265
+  fantastically: 43920
+  fatally: 31517
+  federally: 15675
+  finally: 943
+  financially: 13426
+  fiscally: 50200
+  formally: 7373
+  frantically: 26993
+  functionally: 24247
+  fundamentally: 13920
+scored_words:
+  facially: 118725
+  fanatically: 137148
+  focally: 274612
+  forensically: 248659
+  fractionally: 125802
+  fraternally: 178740
+  frenetically: 311369
+  frontally: 258908
+  frugally: 175950
+not_scored_words:
+- farcically
+- fatalistically
+- faunally
+- festally
+- feudally
+- fictionally
+- filially
+- florally
+- formulaically
+- frictionally
+- fugally
+- funereally
+- futuristically

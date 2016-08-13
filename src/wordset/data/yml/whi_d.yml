@@ -1,0 +1,42 @@
+---
+pattern: whi_d
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 32
+score: 2062077
+score_per_word: 98194
+hi_scored_words:
+  whimpered: 85465
+  whined: 66518
+  whipped: 11971
+  whirled: 52998
+  whirlwind: 22031
+  whisked: 54337
+  whispered: 10212
+  whistled: 52808
+  whiteboard: 32306
+  whitehead: 27146
+  whitewashed: 61772
+  whitewood: 91190
+  whittled: 84990
+scored_words:
+  whiffed: 275676
+  whiled: 268303
+  whinnied: 171036
+  whirred: 251220
+  whiskered: 116950
+  whited: 104984
+  whitened: 104306
+  whizzed: 115858
+not_scored_words:
+- Whitefield
+- Whitehead
+- Whitfield
+- whickered
+- whinged
+- whipcord
+- whipsawed
+- whirlybird
+- whished
+- whitherward
+- whizkid

@@ -1,0 +1,26 @@
+---
+pattern: t_ul
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 600060
+score_per_word: 54550
+hi_scored_words:
+  tactful: 59418
+  tasteful: 26152
+  teacupful: 33740
+  tearful: 41789
+  teaspoonful: 82060
+  thankful: 9596
+  thoughtful: 8778
+  truthful: 18925
+  tuneful: 69840
+scored_words:
+  tablespoonful: 132948
+  trustful: 116814
+not_scored_words:
+- Toul
+- tankful
+- thimbleful
+- toilful
+- tubful

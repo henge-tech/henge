@@ -1,0 +1,39 @@
+---
+pattern: _band
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 29
+score: 1761916
+score_per_word: 97884
+hi_scored_words:
+  armband: 38367
+  band: 1032
+  broadband: 9807
+  contraband: 30135
+  disband: 50579
+  headband: 30275
+  husband: 1484
+  saraband: 87412
+  sideband: 84817
+  waistband: 40937
+  wristband: 34938
+scored_words:
+  browband: 271091
+  neckband: 158571
+  noseband: 260732
+  riband: 132977
+  sweatband: 110344
+  watchband: 176269
+  waveband: 242149
+not_scored_words:
+- bellyband
+- fahlband
+- hairband
+- hatband
+- househusband
+- rainband
+- ribband
+- roband
+- spaceband
+- tailband
+- trainband

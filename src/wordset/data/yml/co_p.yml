@@ -1,0 +1,40 @@
+---
+pattern: co_p
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 30
+score: 2751955
+score_per_word: 125088
+hi_scored_words:
+  comp: 7686
+  companionship: 22387
+  comradeship: 96059
+  contemp: 77536
+  cooktop: 81693
+  coop: 17085
+  cop: 11908
+  corp: 7892
+  coup: 10097
+  courtship: 26070
+  coverup: 64937
+scored_words:
+  codswallop: 251129
+  collop: 216214
+  connoisseurship: 205680
+  conservatorship: 122589
+  consulship: 156620
+  controllership: 311767
+  cookshop: 110748
+  copartnership: 284908
+  cosponsorship: 230775
+  counterstamp: 327647
+  cowslip: 110528
+not_scored_words:
+- Corp
+- coachwhip
+- cockup
+- commissionership
+- contrecoup
+- councilorship
+- counselorship
+- counterscarp

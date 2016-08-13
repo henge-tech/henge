@@ -1,0 +1,40 @@
+---
+pattern: ba_m
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 30
+score: 636685
+score_per_word: 48975
+hi_scored_words:
+  backroom: 44992
+  bacterium: 28807
+  ballroom: 13574
+  balm: 16447
+  balsam: 31463
+  bantam: 24259
+  baptism: 9984
+  barbarism: 50582
+  barium: 27424
+  barm: 52533
+  barroom: 96512
+  bathroom: 6700
+scored_words:
+  barnstorm: 233408
+not_scored_words:
+- Baalim
+- Babism
+- Bahaism
+- Bairam
+- Balaam
+- Bantam
+- Barnum
+- Baum
+- bacciform
+- bachelordom
+- bachelorism
+- baculiform
+- bagworm
+- barbarianism
+- barbiturism
+- barogram
+- basidium

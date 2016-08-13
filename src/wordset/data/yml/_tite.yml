@@ -1,0 +1,52 @@
+---
+pattern: _tite
+hi_scored_words_count: 9
+scored_words_count: 12
+total_words: 42
+score: 2855218
+score_per_word: 135962
+hi_scored_words:
+  apatite: 70242
+  appetite: 7685
+  biotite: 76388
+  bipartite: 56875
+  hematite: 44958
+  magnetite: 55257
+  petite: 10161
+  transvestite: 17073
+  tripartite: 36647
+scored_words:
+  celestite: 291315
+  enstatite: 274159
+  multipartite: 305132
+  partite: 127616
+  pegmatite: 112060
+  peridotite: 165006
+  pyrrhotite: 211915
+  quadripartite: 201616
+  spessartite: 142362
+  stalactite: 206603
+  steatite: 209587
+  tektite: 232561
+not_scored_words:
+- Hittite
+- albertite
+- argentite
+- asphaltite
+- carnotite
+- cementite
+- cobaltite
+- convertite
+- granitite
+- hexapartite
+- pinnatipartite
+- proustite
+- quinquepartite
+- ratite
+- senarmontite
+- septempartite
+- sexpartite
+- smaltite
+- troostite
+- tungstite
+- zaratite

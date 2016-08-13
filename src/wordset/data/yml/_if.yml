@@ -1,0 +1,37 @@
+---
+pattern: _if
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 27
+score: 1136277
+score_per_word: 81162
+hi_scored_words:
+  aperitif: 86422
+  coif: 88612
+  if: 37
+  kif: 63872
+  massif: 44955
+  motif: 14763
+  serif: 27762
+  sherif: 75327
+  waif: 72875
+scored_words:
+  kaif: 109963
+  kharif: 166585
+  leitmotif: 152473
+  naif: 112734
+  specif: 119897
+not_scored_words:
+- Calif
+- Enif
+- GIF
+- IF
+- Leif
+- RIF
+- Sharif
+- TGIF
+- Taif
+- digestif
+- gonif
+- kalif
+- sanserif

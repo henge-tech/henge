@@ -1,0 +1,31 @@
+---
+pattern: r_ets
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 21
+score: 1701528
+score_per_word: 113435
+hi_scored_words:
+  rackets: 46156
+  racquets: 45110
+  ratchets: 70018
+  regrets: 17144
+  resets: 20883
+  rickets: 54505
+  rivets: 37647
+  rockets: 13908
+scored_words:
+  rabbets: 276828
+  reinterprets: 255982
+  rets: 164331
+  ricochets: 255431
+  ringlets: 120422
+  rivulets: 104590
+  rootlets: 218573
+not_scored_words:
+- Rambouillets
+- ramjets
+- retrorockets
+- retweets
+- runlets
+- russets

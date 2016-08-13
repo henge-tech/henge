@@ -1,0 +1,47 @@
+---
+pattern: cr_ly
+hi_scored_words_count: 11
+scored_words_count: 12
+total_words: 37
+score: 2948163
+score_per_word: 128181
+hi_scored_words:
+  crazily: 96600
+  creatively: 23843
+  credibly: 75109
+  criminally: 46448
+  crisply: 96766
+  critically: 11007
+  crossly: 78431
+  crucially: 40616
+  crudely: 61887
+  cruelly: 30129
+  crumbly: 68345
+scored_words:
+  crackly: 222000
+  craftily: 166018
+  crassly: 205707
+  crawly: 112208
+  creditably: 209031
+  creepily: 217751
+  crinkly: 170173
+  crookedly: 305590
+  crushingly: 236334
+  cryogenically: 184143
+  cryptically: 166633
+  cryptographically: 123394
+not_scored_words:
+- crabbedly
+- crabbily
+- crankily
+- crashingly
+- cravenly
+- creakily
+- creamily
+- creaturely
+- credulously
+- criminologically
+- cripplingly
+- croakily
+- crumply
+- crustily

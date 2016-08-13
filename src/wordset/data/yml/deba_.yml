@@ -1,0 +1,47 @@
+---
+pattern: deba_
+hi_scored_words_count: 12
+scored_words_count: 15
+total_words: 37
+score: 3380393
+score_per_word: 125199
+hi_scored_words:
+  debacle: 29641
+  debarred: 72792
+  debased: 80708
+  debasement: 98962
+  debatable: 34556
+  debate: 2874
+  debated: 16646
+  debater: 63844
+  debaters: 85775
+  debates: 8912
+  debating: 16915
+  debauchery: 41589
+scored_words:
+  debacles: 213542
+  debar: 105470
+  debarkation: 172739
+  debarked: 278258
+  debarking: 302530
+  debarment: 163998
+  debarring: 295737
+  debase: 105115
+  debaser: 217624
+  debasing: 143715
+  debauch: 131894
+  debauched: 108676
+  debauchee: 170951
+  debaucheries: 179431
+  debauches: 237499
+not_scored_words:
+- debag
+- debark
+- debarks
+- debars
+- debasements
+- debases
+- debauchees
+- debaucher
+- debauchers
+- debauching

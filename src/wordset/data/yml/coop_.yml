@@ -1,0 +1,35 @@
+---
+pattern: coop_
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 25
+score: 806391
+score_per_word: 50399
+hi_scored_words:
+  coop: 17085
+  cooped: 79104
+  cooper: 5077
+  cooperate: 13248
+  cooperated: 42965
+  cooperates: 58290
+  cooperating: 26554
+  cooperation: 4909
+  cooperative: 8920
+  cooperatively: 41736
+  cooperatives: 22752
+  cooperators: 94820
+  coopers: 43355
+  coops: 63807
+scored_words:
+  cooperage: 153759
+  cooperator: 130010
+not_scored_words:
+- Cooper
+- Cooperstown
+- cooperativeness
+- coopered
+- coopering
+- coopery
+- cooping
+- cooption
+- cooptive

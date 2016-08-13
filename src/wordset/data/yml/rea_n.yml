@@ -1,0 +1,33 @@
+---
+pattern: rea_n
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 23
+score: 1432415
+score_per_word: 89525
+hi_scored_words:
+  reabsorption: 94110
+  reaction: 3227
+  reactivation: 55620
+  readmission: 64557
+  reaffirmation: 79605
+  realign: 68542
+  realization: 10244
+  reallocation: 52048
+  reanimation: 99896
+  reason: 548
+  reassign: 66425
+  reauthorization: 52389
+scored_words:
+  reacquisition: 235194
+  reapplication: 157974
+  reassertion: 222987
+  reawaken: 169049
+not_scored_words:
+- Reagan
+- readjourn
+- readoption
+- reafforestation
+- reannexation
+- reapportion
+- reattain

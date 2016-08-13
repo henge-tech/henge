@@ -1,0 +1,30 @@
+---
+pattern: c_ger
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 20
+score: 1238279
+score_per_word: 88448
+hi_scored_words:
+  carpetbagger: 83036
+  challenger: 19812
+  changer: 16024
+  charger: 6861
+  cheeseburger: 41545
+  cliffhanger: 55421
+  conger: 58470
+  cottager: 91934
+scored_words:
+  cager: 111954
+  cataloger: 128989
+  chigger: 219665
+  clanger: 177140
+  clinger: 107801
+  codger: 119627
+not_scored_words:
+- Challenger
+- cadger
+- camouflager
+- chiliburger
+- costermonger
+- cunninger

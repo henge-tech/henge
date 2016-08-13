@@ -1,0 +1,44 @@
+---
+pattern: br_rs
+hi_scored_words_count: 11
+scored_words_count: 12
+total_words: 34
+score: 2637538
+score_per_word: 114675
+hi_scored_words:
+  bracers: 77277
+  breakers: 16213
+  breathers: 96168
+  breeders: 20287
+  brewers: 23425
+  bricklayers: 90167
+  broadcasters: 17410
+  broilers: 85750
+  brokers: 10165
+  brothers: 2008
+  browsers: 7742
+scored_words:
+  brainteasers: 181562
+  branders: 234826
+  brawlers: 188314
+  braziers: 173647
+  breadwinners: 164406
+  breakwaters: 132188
+  breathalyzers: 294887
+  briars: 111045
+  briers: 102960
+  brighteners: 255022
+  bringers: 179930
+  bruisers: 172139
+not_scored_words:
+- Britishers
+- braggers
+- brainpowers
+- brasiers
+- brazers
+- bribers
+- brigadiers
+- broiders
+- broncobusters
+- brontosaurs
+- brooders

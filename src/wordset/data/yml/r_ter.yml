@@ -1,0 +1,75 @@
+---
+pattern: r_ter
+hi_scored_words_count: 24
+scored_words_count: 15
+total_words: 65
+score: 3302157
+score_per_word: 84670
+hi_scored_words:
+  radiometer: 66366
+  rafter: 50160
+  rainwater: 31651
+  raster: 28202
+  rater: 52638
+  ratter: 77018
+  recruiter: 14933
+  reenter: 56743
+  register: 3277
+  remaster: 48334
+  renter: 29447
+  repeater: 29854
+  reporter: 4386
+  requester: 38052
+  ringmaster: 69008
+  riveter: 96909
+  roadster: 31930
+  roaster: 50543
+  rollercoaster: 29798
+  rooster: 19118
+  rooter: 60358
+  rosewater: 85324
+  roster: 9563
+  router: 10625
+scored_words:
+  ranter: 108399
+  recenter: 121848
+  reciter: 177017
+  reconnoiter: 169528
+  refractometer: 116622
+  regretter: 202859
+  remitter: 315470
+  remoter: 128555
+  resister: 125573
+  respecter: 101785
+  rester: 123781
+  rheometer: 210375
+  righter: 141172
+  roister: 159700
+  rotter: 105236
+not_scored_words:
+- Richter
+- Ritter
+- Rochester
+- Ruyter
+- radiomicrometer
+- rebater
+- rebutter
+- recanter
+- recharter
+- refilter
+- refuter
+- reinter
+- rejecter
+- relater
+- rencounter
+- repenter
+- reprinter
+- requiter
+- reupholster
+- reverter
+- revolter
+- rhymester
+- rimester
+- ringster
+- rioter
+- robuster

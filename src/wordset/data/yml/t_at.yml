@@ -1,0 +1,31 @@
+---
+pattern: t_at
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 21
+score: 1411166
+score_per_word: 83009
+hi_scored_words:
+  tat: 17285
+  teat: 54368
+  that: 6
+  thereat: 89569
+  thermostat: 24556
+  threat: 3520
+  throat: 2836
+  tomcat: 24374
+  topcoat: 68483
+  treat: 2278
+  tugboat: 51507
+  twat: 19737
+scored_words:
+  technocrat: 141193
+  theocrat: 341699
+  towboat: 142354
+  troat: 319912
+  turncoat: 107489
+not_scored_words:
+- TAT
+- tailcoat
+- tipcat
+- trichromat

@@ -1,0 +1,39 @@
+---
+pattern: geni_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 29
+score: 1500528
+score_per_word: 88266
+hi_scored_words:
+  genial: 34758
+  geniculate: 86367
+  genie: 16712
+  genii: 76619
+  genital: 21324
+  genitalia: 37405
+  genitals: 25289
+  genitive: 52774
+  genitourinary: 59425
+  genius: 4037
+  geniuses: 35795
+scored_words:
+  geniality: 219207
+  genially: 200020
+  genic: 146321
+  genies: 111724
+  genista: 208289
+  genitor: 164462
+not_scored_words:
+- genialness
+- genip
+- genipap
+- genipaps
+- genips
+- genit
+- genitalic
+- genitally
+- genitival
+- genitivally
+- genitives
+- genitors

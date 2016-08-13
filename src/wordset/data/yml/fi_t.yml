@@ -1,0 +1,51 @@
+---
+pattern: fi_t
+hi_scored_words_count: 22
+scored_words_count: 7
+total_words: 41
+score: 2336035
+score_per_word: 80552
+hi_scored_words:
+  fiat: 15224
+  fibroblast: 45898
+  fidget: 72902
+  fiercest: 67211
+  fight: 1217
+  figment: 51801
+  filament: 24565
+  filbert: 75432
+  filet: 35518
+  fillet: 26093
+  finalist: 18673
+  finest: 4105
+  fingerprint: 17885
+  firefight: 68366
+  firelight: 70809
+  firmament: 42867
+  first: 71
+  fishnet: 38634
+  fist: 5652
+  fit: 1108
+  fitment: 82200
+  fittest: 34763
+scored_words:
+  figurant: 240384
+  figwort: 284105
+  filthiest: 172341
+  fireboat: 234357
+  firecrest: 308358
+  firmest: 152671
+  fistfight: 142825
+not_scored_words:
+- Fiat
+- ficklest
+- fictionist
+- fiddliest
+- fieriest
+- filmiest
+- finfoot
+- finickiest
+- firebrat
+- fishbolt
+- fishiest
+- fizziest

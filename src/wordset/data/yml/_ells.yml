@@ -1,0 +1,59 @@
+---
+pattern: _ells
+hi_scored_words_count: 21
+scored_words_count: 16
+total_words: 49
+score: 3873423
+score_per_word: 104687
+hi_scored_words:
+  barbells: 63129
+  bells: 6200
+  bluebells: 89870
+  cells: 2397
+  dells: 44969
+  dumbbells: 48249
+  dwells: 34735
+  ells: 71517
+  farewells: 75224
+  fells: 50948
+  hells: 39635
+  seashells: 55953
+  sells: 6560
+  shells: 6885
+  smells: 11307
+  spells: 9226
+  stairwells: 96644
+  swells: 36777
+  tells: 2272
+  wells: 4550
+  yells: 30852
+scored_words:
+  bombshells: 119963
+  clamshells: 241812
+  cowbells: 151824
+  doorbells: 107614
+  eggshells: 100419
+  foretells: 114107
+  indwells: 322708
+  inkwells: 161821
+  maxwells: 163557
+  misspells: 293599
+  nutshells: 273208
+  outsells: 258767
+  photocells: 221773
+  quells: 303974
+  resells: 112662
+  retells: 137716
+not_scored_words:
+- Howells
+- Wells
+- cockleshells
+- gromwells
+- groundswells
+- harebells
+- jells
+- knells
+- oversells
+- respells
+- tortoiseshells
+- undersells

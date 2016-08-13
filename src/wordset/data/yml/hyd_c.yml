@@ -1,0 +1,30 @@
+---
+pattern: hyd_c
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 20
+score: 931585
+score_per_word: 66541
+hi_scored_words:
+  hydraulic: 13176
+  hydrochloric: 36121
+  hydrodynamic: 43723
+  hydroelectric: 28061
+  hydrofluoric: 86324
+  hydrographic: 45719
+  hydrologic: 33201
+  hydrophilic: 51934
+  hydrophobic: 31587
+  hydroponic: 58293
+  hydrostatic: 36869
+scored_words:
+  hydric: 125615
+  hydrolytic: 113800
+  hydrometric: 227162
+not_scored_words:
+- hydrocarbonic
+- hydrocephalic
+- hydrokinetic
+- hydromagnetic
+- hydropathic
+- hydropic

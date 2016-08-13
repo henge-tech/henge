@@ -1,0 +1,96 @@
+---
+pattern: p_ia
+hi_scored_words_count: 16
+scored_words_count: 16
+total_words: 86
+score: 3950045
+score_per_word: 123438
+hi_scored_words:
+  paranoia: 20624
+  paraphernalia: 30724
+  paraplegia: 65970
+  parhelia: 94381
+  pedophilia: 55724
+  petunia: 45230
+  phantasmagoria: 96612
+  pharmacopoeia: 83277
+  phobia: 26307
+  pizzeria: 31916
+  pneumonia: 16344
+  poinsettia: 63937
+  porphyria: 73568
+  presbyopia: 99625
+  psia: 80762
+  psychedelia: 67255
+scored_words:
+  paraphilia: 230617
+  paresthesia: 145643
+  paronomasia: 219786
+  paronychia: 260348
+  passacaglia: 144997
+  paulownia: 177333
+  peripeteia: 200874
+  pharmacopeia: 104963
+  phenylketonuria: 107023
+  photophobia: 112677
+  photopia: 279697
+  pleuropneumonia: 318125
+  polycythemia: 114886
+  polydipsia: 259064
+  pyrexia: 184476
+  pyromania: 137280
+not_scored_words:
+- PCMCIA
+- Paglia
+- Pamphylia
+- Pannonia
+- Pantelleria
+- Paphlagonia
+- Parthia
+- Patagonia
+- Patricia
+- Pennsylvania
+- Peoria
+- Persia
+- Perugia
+- Philadelphia
+- Phoenicia
+- Phrygia
+- Pieria
+- Pistoia
+- Polyhymnia
+- Polynesia
+- Pomerania
+- Portia
+- Praia
+- Pretoria
+- Prussia
+- Puglia
+- Pythia
+- pallia
+- paragraphia
+- paramecia
+- paramnesia
+- parapodia
+- peloria
+- penetralia
+- pericardia
+- perihelia
+- perithecia
+- petechia
+- phocomelia
+- phosphaturia
+- pleurodynia
+- pogonia
+- polyphagia
+- presidia
+- prosopopoeia
+- protanopia
+- prothalmia
+- psalteria
+- pseudohemophilia
+- pseudopodia
+- psychasthenia
+- pyemia
+- pyrrhuloxia
+- pyuria

@@ -1,0 +1,32 @@
+---
+pattern: ph_ng
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 22
+score: 974385
+score_per_word: 88580
+hi_scored_words:
+  phasing: 33828
+  philosophizing: 95230
+  phishing: 28383
+  phoning: 37261
+  photocopying: 37683
+  photofinishing: 80786
+  photographing: 38682
+  phrasing: 38218
+scored_words:
+  philandering: 132658
+  photosensitizing: 305987
+  phreaking: 145669
+not_scored_words:
+- Photostatting
+- phlebotomizing
+- phoneying
+- phonying
+- photoaging
+- photoengraving
+- photoing
+- photostatting
+- photosynthesizing
+- phototypesetting
+- physicking

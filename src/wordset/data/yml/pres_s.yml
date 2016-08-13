@@ -1,0 +1,61 @@
+---
+pattern: pres_s
+hi_scored_words_count: 23
+scored_words_count: 11
+total_words: 51
+score: 2433675
+score_per_word: 71578
+hi_scored_words:
+  preschoolers: 39819
+  preschools: 51426
+  prescribes: 37707
+  prescriptions: 13672
+  presences: 86302
+  presentations: 11875
+  presenters: 18112
+  presents: 2479
+  preservatives: 34001
+  preserves: 15196
+  presets: 34791
+  presidents: 10727
+  presides: 57868
+  press: 725
+  presses: 11966
+  pressings: 68572
+  pressures: 12368
+  prestigious: 13273
+  presumes: 53591
+  presumptions: 69510
+  presumptuous: 42626
+  presupposes: 46107
+  presuppositions: 64945
+scored_words:
+  presages: 189179
+  presbyteries: 125676
+  presbyters: 125088
+  presentiments: 132317
+  preservationists: 124603
+  preservers: 107878
+  presidencies: 104499
+  pressers: 154552
+  pressies: 177614
+  prestress: 227823
+  presumptuousness: 166788
+not_scored_words:
+- Presbyterianisms
+- Presbyterians
+- prescriptiveness
+- prescripts
+- preseasons
+- preselects
+- presentments
+- presentness
+- presentnesses
+- preshrinks
+- presidentships
+- presorts
+- pressmarks
+- pressurizers
+- pressurizes
+- prestidigitators
+- prestos

@@ -1,0 +1,42 @@
+---
+pattern: mali_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 32
+score: 1150187
+score_per_word: 88475
+hi_scored_words:
+  malice: 16071
+  malicious: 10320
+  maliciously: 54998
+  malign: 52382
+  malignancies: 48633
+  malignancy: 34454
+  malignant: 11341
+  maligned: 52032
+scored_words:
+  maliciousness: 218324
+  maligning: 252457
+  malignity: 145740
+  malines: 126445
+  malingering: 126990
+not_scored_words:
+- Mali
+- Malian
+- Malians
+- Malibu
+- Malinda
+- Malines
+- Malinowski
+- Maliseet
+- malignantly
+- maligner
+- maligners
+- malignly
+- maligns
+- malinger
+- malingered
+- malingerer
+- malingerers
+- malingers
+- malison

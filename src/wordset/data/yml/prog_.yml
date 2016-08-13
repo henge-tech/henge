@@ -1,0 +1,66 @@
+---
+pattern: prog_
+hi_scored_words_count: 26
+scored_words_count: 12
+total_words: 56
+score: 2642086
+score_per_word: 69528
+hi_scored_words:
+  prog: 14875
+  progenitor: 36391
+  progenitors: 57765
+  progeny: 23440
+  progesterone: 22800
+  progestin: 67744
+  prognosis: 16079
+  prognostic: 36962
+  program: 1103
+  programing: 45452
+  programmable: 20590
+  programmatic: 30022
+  programmed: 10844
+  programmer: 10131
+  programmers: 8649
+  programming: 10142
+  programs: 2512
+  progress: 1158
+  progressed: 17356
+  progresses: 23714
+  progressing: 21073
+  progression: 10494
+  progressions: 48948
+  progressive: 6542
+  progressively: 21070
+  progressives: 30399
+scored_words:
+  progestins: 117305
+  prognoses: 164149
+  prognosticate: 231541
+  prognostication: 143709
+  prognostications: 118344
+  prognosticator: 188928
+  prognosticators: 242566
+  prognostics: 148997
+  programed: 152715
+  programmability: 129000
+  progressiveness: 234552
+  progressivity: 174025
+not_scored_words:
+- Prog
+- progenitive
+- progenitorial
+- progestational
+- proglottis
+- prognathism
+- prognathous
+- prognosticated
+- prognosticates
+- prognosticating
+- prognosticatory
+- progovernment
+- programmables
+- programmings
+- progressionist
+- progressist
+- progressivities
+- progun

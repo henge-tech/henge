@@ -1,0 +1,26 @@
+---
+pattern: com_ve
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 16
+score: 213335
+score_per_word: 23703
+hi_scored_words:
+  combative: 50009
+  commemorative: 25146
+  communicative: 27106
+  commutative: 37556
+  comparative: 4942
+  competitive: 6283
+  comprehensive: 3352
+  compressive: 38178
+  compulsive: 20763
+scored_words: {}
+not_scored_words:
+- CompuServe
+- combinative
+- combustive
+- comitative
+- commentative
+- commiserative
+- commove

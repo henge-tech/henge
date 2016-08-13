@@ -1,0 +1,52 @@
+---
+pattern: str_e
+hi_scored_words_count: 22
+scored_words_count: 8
+total_words: 42
+score: 2034339
+score_per_word: 67811
+hi_scored_words:
+  straddle: 50058
+  strafe: 73265
+  straightedge: 99936
+  strange: 1795
+  strangle: 37794
+  stratosphere: 33480
+  streamline: 20145
+  streetwise: 51343
+  stricture: 78185
+  stride: 14828
+  strife: 14588
+  strike: 2201
+  stripe: 13620
+  striptease: 36904
+  strive: 8027
+  strobe: 28493
+  strode: 31539
+  stroke: 3716
+  strove: 36358
+  structure: 1360
+  struggle: 3438
+  strychnine: 81422
+scored_words:
+  straggle: 241432
+  strake: 131933
+  streptokinase: 110574
+  stretchable: 125097
+  striae: 103996
+  striate: 124964
+  stroboscope: 276288
+  strophe: 197560
+not_scored_words:
+- Strabane
+- Strathclyde
+- strangulate
+- straticulate
+- stratopause
+- strickle
+- stridence
+- stridulate
+- strigose
+- stringpiece
+- strobile
+- strontianite

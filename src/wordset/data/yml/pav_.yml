@@ -1,0 +1,34 @@
+---
+pattern: pav_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 24
+score: 499969
+score_per_word: 45451
+hi_scored_words:
+  pavan: 77297
+  pave: 22735
+  paved: 12363
+  pavement: 9003
+  pavements: 34692
+  paves: 63491
+  pavilion: 8282
+  pavilions: 43019
+  paving: 19575
+  pavlova: 75215
+scored_words:
+  pavane: 134297
+not_scored_words:
+- Pavarotti
+- Pavlodar
+- Pavlov
+- Pavlova
+- Pavlovian
+- Pavo
+- pavanes
+- pavid
+- pavings
+- pavis
+- pavises
+- pavlovas
+- pavonine

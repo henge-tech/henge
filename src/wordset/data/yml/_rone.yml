@@ -1,0 +1,37 @@
+---
+pattern: _rone
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 27
+score: 1606530
+score_per_word: 84554
+hi_scored_words:
+  aldosterone: 55426
+  chaperone: 48232
+  corticosterone: 84272
+  crone: 54734
+  drone: 23469
+  krone: 34723
+  padrone: 73527
+  progesterone: 22800
+  prone: 9541
+  testosterone: 13621
+  throne: 6403
+scored_words:
+  aleurone: 258465
+  androsterone: 220660
+  cicerone: 112209
+  dethrone: 127035
+  enthrone: 106977
+  estrone: 114772
+  madrone: 137864
+  minestrone: 101800
+not_scored_words:
+- Gaborone
+- Tyrone
+- chitarrone
+- coumarone
+- disenthrone
+- enterogastrone
+- pyrone
+- unthrone

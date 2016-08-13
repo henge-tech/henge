@@ -1,0 +1,44 @@
+---
+pattern: c_ium
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 34
+score: 2172324
+score_per_word: 94448
+hi_scored_words:
+  cadmium: 23586
+  calcium: 9074
+  cerium: 70719
+  cesium: 56085
+  chromium: 19369
+  clostridium: 45513
+  collegium: 62917
+  colloquium: 30344
+  compendium: 23825
+  condominium: 22485
+  consortium: 11619
+  corium: 71771
+  cranium: 36164
+  crematorium: 46055
+scored_words:
+  caladium: 262260
+  californium: 195618
+  cambium: 113948
+  ciborium: 105217
+  cilium: 201034
+  columbarium: 135011
+  conium: 282242
+  curium: 167282
+  cypripedium: 180186
+not_scored_words:
+- caldarium
+- carpogonium
+- cinerarium
+- clavicytherium
+- clinandrium
+- collyrium
+- columbium
+- conidium
+- contagium
+- ctenidium
+- cymatium

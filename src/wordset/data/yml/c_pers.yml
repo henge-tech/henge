@@ -1,0 +1,29 @@
+---
+pattern: c_pers
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 19
+score: 1293275
+score_per_word: 92376
+hi_scored_words:
+  calipers: 42204
+  campers: 19865
+  capers: 36011
+  choppers: 27903
+  clippers: 18607
+  coopers: 43355
+  coppers: 71395
+  creepers: 44394
+scored_words:
+  champers: 223548
+  chippers: 112181
+  clappers: 161498
+  clodhoppers: 128524
+  crimpers: 161621
+  croppers: 202169
+not_scored_words:
+- cardsharpers
+- carpers
+- chompers
+- crappers
+- cruppers

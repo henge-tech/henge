@@ -1,0 +1,33 @@
+---
+pattern: _uet
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 23
+score: 1305786
+score_per_word: 81611
+hi_scored_words:
+  banquet: 7963
+  bouquet: 10449
+  croquet: 32114
+  cruet: 95450
+  duet: 18418
+  minuet: 50512
+  parquet: 45579
+  piquet: 58372
+  racquet: 28048
+  suet: 47884
+  tourniquet: 48662
+scored_words:
+  bluet: 151961
+  bosquet: 166971
+  briquet: 195263
+  coquet: 202540
+  sobriquet: 145600
+not_scored_words:
+- Bosanquet
+- Bossuet
+- Clouet
+- Foucquet
+- Fouquet
+- Malplaquet
+- languet

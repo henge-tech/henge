@@ -1,0 +1,41 @@
+---
+pattern: bast_
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 31
+score: 1582569
+score_per_word: 98910
+hi_scored_words:
+  bast: 48150
+  bastard: 10969
+  bastards: 22019
+  baste: 69555
+  bastille: 32178
+  basting: 66623
+  bastion: 26931
+  bastions: 76254
+scored_words:
+  bastardization: 227527
+  bastardize: 158279
+  bastardized: 106141
+  bastardly: 116723
+  bastardy: 241740
+  basted: 114621
+  baster: 141565
+  bastinado: 123294
+not_scored_words:
+- Bastia
+- Bastille
+- Bastogne
+- bastardizations
+- bastardizes
+- bastardizing
+- basters
+- bastes
+- bastinade
+- bastinaded
+- bastinades
+- bastinadoing
+- bastinados
+- bastings
+- bastioned

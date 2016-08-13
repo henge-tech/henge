@@ -1,0 +1,53 @@
+---
+pattern: immu_
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 43
+score: 2538130
+score_per_word: 81875
+hi_scored_words:
+  immune: 11277
+  immunities: 45793
+  immunity: 10993
+  immunization: 21210
+  immunizations: 43666
+  immunize: 99015
+  immunized: 48742
+  immunoassay: 63351
+  immunocompromised: 76498
+  immunodeficiency: 24856
+  immunoglobulin: 25923
+  immunoglobulins: 49936
+  immunologic: 43180
+  immunological: 36161
+  immunology: 19842
+  immunosuppression: 64480
+  immunosuppressive: 50834
+  immunotherapy: 49536
+  immured: 97671
+  immutable: 29928
+scored_words:
+  immunizing: 120335
+  immunochemistry: 116851
+  immunodeficient: 206630
+  immunogenetics: 143192
+  immunogenic: 106304
+  immunologically: 122502
+  immunologist: 152588
+  immunologists: 121088
+  immunosuppressant: 176363
+  immunosuppressants: 231924
+  immutability: 127461
+not_scored_words:
+- immunizes
+- immunochemistries
+- immunoreaction
+- immunosuppress
+- immunosuppressions
+- immuration
+- immure
+- immurement
+- immurements
+- immures
+- immuring
+- immutably

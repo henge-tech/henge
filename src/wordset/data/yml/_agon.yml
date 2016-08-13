@@ -1,0 +1,37 @@
+---
+pattern: _agon
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 27
+score: 1012055
+score_per_word: 63253
+hi_scored_words:
+  agon: 78138
+  bandwagon: 26705
+  dragon: 4916
+  flagon: 96936
+  glucagon: 49925
+  hexagon: 33678
+  octagon: 37128
+  paragon: 20362
+  pendragon: 50937
+  pentagon: 11240
+  snapdragon: 73981
+  tarragon: 45354
+  wagon: 6156
+scored_words:
+  decagon: 151120
+  estragon: 176708
+  heptagon: 148771
+not_scored_words:
+- Aragon
+- Dagon
+- Pentagon
+- battlewagon
+- dodecagon
+- enneagon
+- hendecagon
+- nonagon
+- quindecagon
+- tetragon
+- undecagon

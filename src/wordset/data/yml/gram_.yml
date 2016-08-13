@@ -1,0 +1,34 @@
+---
+pattern: gram_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 24
+score: 876666
+score_per_word: 67435
+hi_scored_words:
+  gram: 14400
+  gramercy: 47589
+  grammar: 5539
+  grammarian: 99732
+  grammars: 36703
+  grammatical: 17509
+  grammatically: 59364
+  gramophone: 42166
+  gramps: 56798
+  grams: 14401
+scored_words:
+  gramicidin: 180506
+  grammarians: 108037
+  grampus: 193922
+not_scored_words:
+- Grammy
+- Gramophone
+- Grampian
+- Grampians
+- gramarye
+- gramicidins
+- gramineous
+- graminivorous
+- grammalogue
+- gramophones
+- grampuses

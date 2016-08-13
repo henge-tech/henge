@@ -1,0 +1,34 @@
+---
+pattern: lo_ss
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 24
+score: 1050022
+score_per_word: 87501
+hi_scored_words:
+  loess: 59123
+  loneliness: 14751
+  looseness: 96251
+  loss: 730
+  lossless: 36497
+  loudness: 42015
+  loveless: 37943
+  loveliness: 44466
+scored_words:
+  loathsomeness: 175952
+  loftiness: 148391
+  lowliness: 176848
+  lowness: 217055
+not_scored_words:
+- logicalness
+- loginess
+- lonesomeness
+- looniness
+- lopsidedness
+- loquaciousness
+- lordliness
+- lousiness
+- loutishness
+- lovableness
+- lovegrass
+- lovesickness

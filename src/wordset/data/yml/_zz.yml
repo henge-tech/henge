@@ -1,0 +1,27 @@
+---
+pattern: _zz
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 1063671
+score_per_word: 81820
+hi_scored_words:
+  abuzz: 87106
+  buzz: 7345
+  fizz: 33016
+  frizz: 70852
+  fuzz: 29258
+  jazz: 5826
+  pizzazz: 74503
+  razz: 55470
+  whizz: 74188
+scored_words:
+  pizazz: 134426
+  pizz: 190428
+  razzmatazz: 168668
+  swizz: 132585
+not_scored_words:
+- Zzz
+- muzz
+- pzazz
+- tizz

@@ -1,0 +1,31 @@
+---
+pattern: _eny
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 870912
+score_per_word: 79173
+hi_scored_words:
+  deny: 4278
+  larceny: 33485
+  ontogeny: 65506
+  phylogeny: 34305
+  progeny: 23440
+  sweeny: 86206
+  teeny: 26749
+  weeny: 92873
+scored_words:
+  greeny: 106927
+  neoteny: 262174
+  orogeny: 134969
+not_scored_words:
+- Allegheny
+- dissogeny
+- embryogeny
+- epeirogeny
+- epirogeny
+- ethnogeny
+- homogeny
+- sheeny
+- spleeny
+- tweeny

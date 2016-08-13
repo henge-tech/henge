@@ -1,0 +1,76 @@
+---
+pattern: _lent
+hi_scored_words_count: 25
+scored_words_count: 16
+total_words: 66
+score: 3402905
+score_per_word: 82997
+hi_scored_words:
+  ambivalent: 37192
+  benevolent: 18080
+  covalent: 37348
+  divalent: 74879
+  equivalent: 2230
+  excellent: 967
+  fraudulent: 14088
+  indolent: 50556
+  insolent: 41236
+  lent: 10508
+  malevolent: 35783
+  nonviolent: 33984
+  opulent: 35367
+  prevalent: 11853
+  purulent: 79801
+  redolent: 80203
+  relent: 70360
+  repellent: 26200
+  silent: 2609
+  succulent: 31438
+  talent: 3268
+  trivalent: 80723
+  turbulent: 14344
+  violent: 3226
+  virulent: 33254
+scored_words:
+  avirulent: 204304
+  bivalent: 137287
+  corpulent: 106603
+  esculent: 165638
+  flatulent: 141094
+  flocculent: 225044
+  hexavalent: 112433
+  monovalent: 109821
+  multivalent: 146190
+  pentavalent: 292807
+  pestilent: 151611
+  polyvalent: 128864
+  somnolent: 147376
+  tetravalent: 225027
+  truculent: 127177
+  univalent: 152132
+not_scored_words:
+- Lent
+- Solent
+- acidulent
+- cholent
+- condolent
+- crapulent
+- equipollent
+- feculent
+- heptavalent
+- impellent
+- luculent
+- nonequivalent
+- nonvirulent
+- octavalent
+- overviolent
+- puberulent
+- pulverulent
+- quadrivalent
+- quinquevalent
+- sanguinolent
+- septavalent
+- septivalent
+- sexivalent
+- tervalent
+- transcalent

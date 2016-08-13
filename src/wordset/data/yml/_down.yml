@@ -1,0 +1,44 @@
+---
+pattern: _down
+hi_scored_words_count: 18
+scored_words_count: 12
+total_words: 34
+score: 2901344
+score_per_word: 96711
+hi_scored_words:
+  breakdown: 9923
+  clampdown: 94508
+  countdown: 15461
+  crackdown: 25784
+  down: 145
+  knockdown: 57961
+  letdown: 60746
+  lowdown: 34781
+  markdown: 71296
+  meltdown: 28008
+  rundown: 29737
+  shakedown: 47668
+  showdown: 18158
+  shutdown: 12286
+  slowdown: 23294
+  sundown: 27017
+  touchdown: 14628
+  turndown: 83063
+scored_words:
+  adown: 199716
+  climbdown: 252053
+  comedown: 139785
+  eiderdown: 243947
+  facedown: 121928
+  godown: 173350
+  hoedown: 101599
+  putdown: 303526
+  rubdown: 254095
+  splashdown: 107454
+  thistledown: 178506
+  tumbledown: 170921
+not_scored_words:
+- Down
+- Southdown
+- spelldown
+- swansdown

@@ -1,0 +1,32 @@
+---
+pattern: pos_y
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 22
+score: 1217653
+score_per_word: 86975
+hi_scored_words:
+  positively: 7512
+  positivity: 43455
+  possibility: 2640
+  possibly: 2052
+  posteriorly: 87969
+  posterity: 24486
+  posthumously: 50911
+  postoperatively: 74032
+  posy: 57109
+scored_words:
+  positionally: 251344
+  possessory: 116206
+  postally: 160061
+  postmodernity: 102257
+  postnatally: 237619
+not_scored_words:
+- poshly
+- positivistically
+- posology
+- possessively
+- postboy
+- posteriority
+- postliminy
+- postulancy

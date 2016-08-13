@@ -1,0 +1,38 @@
+---
+pattern: dic_s
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 28
+score: 1459352
+score_per_word: 97290
+hi_scored_words:
+  dices: 85895
+  dichotomous: 60036
+  dickens: 12366
+  dickies: 41753
+  dicks: 6285
+  dictates: 21092
+  dictators: 33616
+  dictatorships: 56076
+  dictionaries: 14568
+scored_words:
+  dichotomies: 102528
+  dickheads: 173477
+  dicots: 204191
+  dicotyledonous: 241025
+  dicotyledons: 199261
+  dictations: 207183
+not_scored_words:
+- Dickens
+- Dictaphones
+- dicephalous
+- dichlamydeous
+- dichlorides
+- dichotomizes
+- dichroisms
+- dichromates
+- dickenses
+- dickers
+- dickeys
+- dickybirds
+- diclinous

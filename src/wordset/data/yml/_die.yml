@@ -1,0 +1,36 @@
+---
+pattern: _die
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 26
+score: 806468
+score_per_word: 62036
+hi_scored_words:
+  birdie: 27806
+  caddie: 51668
+  die: 792
+  foodie: 50357
+  goodie: 36171
+  hoodie: 18165
+  indie: 6249
+  kiddie: 33477
+  laddie: 58931
+  oldie: 58264
+  roadie: 61002
+scored_words:
+  baddie: 113727
+  cardie: 289859
+not_scored_words:
+- Addie
+- Blondie
+- Brandie
+- Eddie
+- Freddie
+- Geordie
+- Goldie
+- Jodie
+- Judie
+- Rushdie
+- Sadie
+- accidie
+- weirdie

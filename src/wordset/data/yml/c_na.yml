@@ -1,0 +1,44 @@
+---
+pattern: c_na
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 34
+score: 1680567
+score_per_word: 112037
+hi_scored_words:
+  cabana: 38194
+  canna: 34288
+  cantina: 43031
+  carina: 36150
+  catena: 85514
+  china: 969
+  concertina: 54409
+  corona: 16843
+scored_words:
+  cantilena: 235533
+  canzona: 295552
+  cavatina: 182761
+  cinchona: 148655
+  cisterna: 191552
+  coquina: 193264
+  czarina: 123852
+not_scored_words:
+- Campagna
+- Cana
+- Carina
+- Carolina
+- Cartagena
+- Catalina
+- Celina
+- Cesena
+- Cessna
+- Chicana
+- China
+- Christina
+- Clementina
+- Copacabana
+- Corina
+- Corunna
+- Cremona
+- Cristina
+- czarevna

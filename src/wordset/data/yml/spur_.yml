@@ -1,0 +1,30 @@
+---
+pattern: spur_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 20
+score: 1286149
+score_per_word: 80384
+hi_scored_words:
+  spur: 11476
+  spurge: 70336
+  spurious: 22980
+  spurn: 71884
+  spurned: 64561
+  spurns: 93881
+  spurred: 26125
+  spurrier: 79834
+  spurring: 71563
+  spurs: 11846
+  spurt: 37960
+  spurts: 67004
+scored_words:
+  spuriously: 246436
+  spurning: 182343
+  spurted: 126451
+  spurting: 101469
+not_scored_words:
+- spuriousness
+- spurner
+- spurry
+- spurtle

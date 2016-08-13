@@ -1,0 +1,40 @@
+---
+pattern: conf_e
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 30
+score: 1737878
+score_per_word: 91467
+hi_scored_words:
+  confederate: 12303
+  conference: 1722
+  confidante: 78681
+  confide: 41432
+  confidence: 1844
+  configurable: 29386
+  configure: 12732
+  confine: 23336
+  confiscate: 46867
+  confluence: 19647
+  conformable: 88192
+  conformance: 28534
+  confuse: 14727
+scored_words:
+  conferee: 247056
+  confiture: 314116
+  conflate: 103349
+  conflictive: 303983
+  confrere: 126822
+  confute: 243149
+not_scored_words:
+- Confederate
+- confabulate
+- conferrable
+- configurative
+- confinable
+- confineable
+- confirmable
+- confiscable
+- confrère
+- confusable
+- confutable

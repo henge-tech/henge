@@ -1,0 +1,56 @@
+---
+pattern: bic_
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 46
+score: 2460198
+score_per_word: 102508
+hi_scored_words:
+  bicameral: 64995
+  bicarbonate: 31660
+  bice: 54510
+  bicentenary: 96359
+  bicentennial: 36271
+  bicep: 64694
+  biceps: 40455
+  bichloride: 82305
+  bicker: 67305
+  bickering: 46122
+  bicolor: 62708
+  bicycle: 7142
+  bicycles: 17731
+  bicycling: 25791
+  bicyclist: 83165
+  bicyclists: 54332
+scored_words:
+  bicarbonates: 170583
+  bickered: 281569
+  bickers: 165176
+  biconcave: 140698
+  biconvex: 224566
+  bicuspid: 121002
+  bicycled: 281550
+  bicyclic: 239509
+not_scored_words:
+- Bic
+- bicameralism
+- bicapsular
+- bicarb
+- bicarbs
+- bicentenaries
+- bicentennials
+- bicephalous
+- bichlorides
+- bichromate
+- bichromates
+- bicipital
+- bickerer
+- bickerers
+- bicollateral
+- biconcavity
+- biconvexity
+- bicorn
+- bicorns
+- bicuspids
+- bicycler
+- bicyclers

@@ -1,0 +1,23 @@
+---
+pattern: st_re
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 680209
+score_per_word: 68020
+hi_scored_words:
+  stare: 10095
+  stature: 16414
+  stemware: 95820
+  stoneware: 32103
+  store: 705
+  stratosphere: 33480
+  stricture: 78185
+  structure: 1360
+scored_words:
+  stere: 293091
+  stevedore: 118956
+not_scored_words:
+- Staffordshire
+- statampere
+- stirpiculture

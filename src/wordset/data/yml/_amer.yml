@@ -1,0 +1,30 @@
+---
+pattern: _amer
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 20
+score: 947862
+score_per_word: 59241
+hi_scored_words:
+  creamer: 35087
+  defamer: 53094
+  dreamer: 17034
+  flamer: 98275
+  framer: 80292
+  gamer: 15549
+  gossamer: 37729
+  lamer: 66592
+  namer: 96635
+  reamer: 83616
+  roamer: 94348
+  screamer: 57861
+  steamer: 13721
+  streamer: 39115
+  tamer: 41918
+scored_words:
+  daydreamer: 116996
+not_scored_words:
+- Amer
+- Kramer
+- blamer
+- metamer

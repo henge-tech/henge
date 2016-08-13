@@ -1,0 +1,35 @@
+---
+pattern: com_ted
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 25
+score: 1450833
+score_per_word: 69087
+hi_scored_words:
+  combated: 98083
+  comforted: 34273
+  commemorated: 48181
+  commented: 6792
+  committed: 2082
+  communicated: 10137
+  commuted: 49818
+  compacted: 42099
+  compensated: 16451
+  competed: 23787
+  complemented: 25870
+  completed: 1474
+  complicated: 4704
+  complimented: 34457
+  composted: 91364
+  computed: 10676
+scored_words:
+  combusted: 129914
+  comminuted: 163748
+  commiserated: 244072
+  comported: 277101
+  composited: 135750
+not_scored_words:
+- commentated
+- commutated
+- complected
+- complotted

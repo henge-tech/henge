@@ -1,0 +1,50 @@
+---
+pattern: s_ary
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 40
+score: 1656149
+score_per_word: 61338
+hi_scored_words:
+  salary: 3333
+  salivary: 35018
+  salutary: 48060
+  sanctuary: 7547
+  sanitary: 12790
+  scary: 9399
+  secondary: 2943
+  secretary: 1628
+  sedentary: 32245
+  sedimentary: 29622
+  seminary: 12390
+  solitary: 10966
+  stationary: 9516
+  statuary: 36282
+  sublunary: 86879
+  subsidiary: 10051
+  sugary: 53401
+  summary: 3007
+  sumptuary: 68950
+  supernumerary: 78805
+  supplementary: 11803
+scored_words:
+  sanguinary: 110843
+  solidary: 288200
+  stannary: 127556
+  stipendiary: 144916
+  submaxillary: 244619
+  syllabary: 175380
+not_scored_words:
+- Secretary
+- secretionary
+- sectary
+- senary
+- septenary
+- sexagenary
+- sexcentenary
+- smeary
+- spermary
+- subaxillary
+- subordinary
+- subventionary
+- superlunary

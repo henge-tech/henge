@@ -1,0 +1,29 @@
+---
+pattern: d_ming
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 19
+score: 1728991
+score_per_word: 115266
+hi_scored_words:
+  daydreaming: 55455
+  deeming: 67468
+  deforming: 98148
+  diagramming: 90966
+  dimming: 53074
+  disarming: 49756
+  dreaming: 7701
+  drumming: 23936
+scored_words:
+  damming: 102096
+  declaiming: 252403
+  defaming: 114610
+  deprogramming: 206160
+  disclaiming: 137600
+  doming: 266117
+  dooming: 203501
+not_scored_words:
+- Deming
+- depluming
+- disesteeming
+- displuming

@@ -1,0 +1,70 @@
+---
+pattern: _rage
+hi_scored_words_count: 30
+scored_words_count: 11
+total_words: 60
+score: 2831650
+score_per_word: 69064
+hi_scored_words:
+  amperage: 76006
+  anchorage: 11418
+  arbitrage: 35423
+  average: 1095
+  barrage: 30054
+  beverage: 9061
+  borage: 65710
+  brokerage: 22438
+  courage: 4114
+  coverage: 13414
+  discourage: 14832
+  disparage: 58564
+  encourage: 2820
+  enrage: 81555
+  entourage: 34301
+  forage: 18839
+  garage: 7267
+  leverage: 19613
+  mirage: 16033
+  outrage: 12781
+  overage: 83429
+  peerage: 35305
+  rage: 4669
+  sewerage: 30656
+  steerage: 51843
+  storage: 4446
+  suffrage: 21369
+  umbrage: 84462
+  underage: 17582
+  vicarage: 43887
+scored_words:
+  arrearage: 139981
+  cooperage: 153759
+  demurrage: 112020
+  fosterage: 154439
+  harborage: 337012
+  moorage: 192449
+  pasturage: 145417
+  pilferage: 184978
+  porterage: 177822
+  saxifrage: 140195
+  seigniorage: 180592
+not_scored_words:
+- Anchorage
+- cellarage
+- deleverage
+- effleurage
+- enfleurage
+- factorage
+- floorage
+- flowerage
+- hectarage
+- langrage
+- lighterage
+- meterage
+- murage
+- ossifrage
+- quarterage
+- stockbrokerage
+- subaverage
+- telpherage
+- waterage

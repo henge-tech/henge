@@ -1,0 +1,73 @@
+---
+pattern: _iter
+hi_scored_words_count: 27
+scored_words_count: 12
+total_words: 63
+score: 3501884
+score_per_word: 89791
+hi_scored_words:
+  accipiter: 84981
+  arbiter: 31289
+  biter: 61826
+  copywriter: 44961
+  delimiter: 51678
+  dumbwaiter: 78435
+  exciter: 76566
+  ghostwriter: 98794
+  goiter: 60628
+  igniter: 93468
+  limiter: 38669
+  liter: 15847
+  loiter: 83794
+  milliliter: 89749
+  miter: 47089
+  orbiter: 32249
+  recruiter: 14933
+  screenwriter: 19453
+  scriptwriter: 84826
+  songwriter: 15962
+  sportswriter: 93798
+  titer: 58454
+  typewriter: 18758
+  underwriter: 35277
+  waiter: 13040
+  whiter: 43760
+  writer: 1737
+scored_words:
+  baiter: 183473
+  counterfeiter: 232653
+  deciliter: 202168
+  expediter: 188593
+  exploiter: 104488
+  gaiter: 112980
+  niter: 132896
+  reciter: 177017
+  reconnoiter: 169528
+  skywriter: 288381
+  speechwriter: 107594
+  teletypewriter: 212092
+not_scored_words:
+- Gauleiter
+- Jupiter
+- backbiter
+- centiliter
+- chapiter
+- cohabiter
+- decaliter
+- dekaliter
+- dynamiter
+- forfeiter
+- fruiter
+- headwaiter
+- hectoliter
+- inciter
+- inhabiter
+- kiloliter
+- landwaiter
+- politer
+- requiter
+- smiter
+- tidewaiter
+- triter
+- verditer
+- zootsuiter

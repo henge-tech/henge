@@ -1,0 +1,27 @@
+---
+pattern: rout_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 648471
+score_per_word: 49882
+hi_scored_words:
+  rout: 26261
+  route: 1885
+  routed: 17961
+  router: 10625
+  routers: 11895
+  routes: 6284
+  routine: 7854
+  routinely: 14847
+  routines: 8427
+  routing: 14058
+scored_words:
+  routeing: 161933
+  routinized: 248937
+  routs: 117504
+not_scored_words:
+- routeman
+- routinize
+- routinizes
+- routinizing

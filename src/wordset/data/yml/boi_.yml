@@ -1,0 +1,30 @@
+---
+pattern: boi_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 670509
+score_per_word: 55875
+hi_scored_words:
+  boil: 9495
+  boiled: 10903
+  boiler: 10801
+  boilermakers: 52066
+  boilerplate: 55050
+  boilers: 20972
+  boiling: 8414
+  boils: 23346
+  boisterous: 38867
+scored_words:
+  boilermaker: 100902
+  boink: 109355
+  boisterously: 230338
+not_scored_words:
+- Boiardo
+- Boise
+- Boito
+- boilings
+- boinked
+- boinking
+- boinks
+- boisterousness

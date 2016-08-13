@@ -1,0 +1,91 @@
+---
+pattern: _cles
+hi_scored_words_count: 28
+scored_words_count: 20
+total_words: 81
+score: 4679777
+score_per_word: 97495
+hi_scored_words:
+  articles: 982
+  barnacles: 75462
+  bicycles: 17731
+  chronicles: 8201
+  circles: 5601
+  cubicles: 47928
+  cycles: 9238
+  encircles: 92246
+  follicles: 41707
+  icicles: 54348
+  miracles: 11091
+  motorcycles: 13723
+  muscles: 5478
+  obstacles: 8632
+  oracles: 44207
+  particles: 11176
+  pinnacles: 53880
+  receptacles: 39965
+  recycles: 69454
+  spectacles: 21797
+  tabernacles: 87153
+  tentacles: 30582
+  testicles: 34218
+  tricycles: 77997
+  uncles: 29413
+  vehicles: 3937
+  ventricles: 50553
+  vesicles: 37594
+scored_words:
+  antiparticles: 245838
+  canticles: 110839
+  carbuncles: 191412
+  corpuscles: 114528
+  cuticles: 101895
+  debacles: 213542
+  denticles: 256017
+  epicycles: 288439
+  fascicles: 157408
+  manacles: 123888
+  ossicles: 217286
+  panicles: 147875
+  peduncles: 222421
+  pentacles: 144960
+  radicles: 144571
+  reticles: 239963
+  semicircles: 288112
+  spiracles: 238929
+  tubercles: 120479
+  unicycles: 127081
+not_scored_words:
+- Androcles
+- Canticles
+- Chronicles
+- Damocles
+- Eccles
+- Empedocles
+- Eteocles
+- Heracles
+- Pericles
+- Sophocles
+- Tabernacles
+- Themistocles
+- appendicles
+- auricles
+- binnacles
+- calycles
+- caruncles
+- clavicles
+- conventicles
+- coracles
+- funicles
+- furuncles
+- granduncles
+- hemicycles
+- kilocycles
+- megacycles
+- monocles
+- monocycles
+- pellicles
+- silicles
+- socles
+- utricles
+- versicles

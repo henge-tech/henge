@@ -1,0 +1,54 @@
+---
+pattern: d_ents
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 44
+score: 2196569
+score_per_word: 84483
+hi_scored_words:
+  delinquents: 60043
+  dents: 26459
+  departments: 3131
+  dependents: 22496
+  deployments: 23520
+  descents: 75955
+  detachments: 55467
+  detergents: 37644
+  deterrents: 85062
+  developments: 4764
+  disagreements: 30118
+  disappointments: 36797
+  disbursements: 35896
+  discontents: 73879
+  displacements: 40652
+  dissidents: 35453
+  documents: 2018
+scored_words:
+  decedents: 120556
+  decrements: 101632
+  deferments: 137362
+  derailments: 223248
+  detents: 302797
+  detriments: 185630
+  discouragements: 244729
+  dissents: 101339
+  docents: 129922
+not_scored_words:
+- debasements
+- decadents
+- decipherments
+- defrayments
+- demulcents
+- denouements
+- denouncements
+- deponents
+- devolvements
+- disconcertments
+- disengagements
+- disfigurements
+- disheartenments
+- dislodgements
+- dislodgments
+- disorients
+- dissolvents
+- divorcements

@@ -1,0 +1,36 @@
+---
+pattern: d_ll
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 26
+score: 964849
+score_per_word: 60303
+hi_scored_words:
+  dell: 6786
+  dill: 26807
+  distill: 60909
+  doll: 5298
+  doorbell: 31685
+  downfall: 18805
+  downhill: 17317
+  drill: 6307
+  droll: 45843
+  drywall: 28893
+  dull: 6774
+  dumbbell: 41738
+  dwell: 10111
+scored_words:
+  deadfall: 227301
+  duckbill: 232664
+  dunghill: 197611
+not_scored_words:
+- Darnell
+- Darrell
+- Dell
+- Donnell
+- Duracell
+- Durrell
+- deskill
+- dirtball
+- disenthrall
+- doorsill

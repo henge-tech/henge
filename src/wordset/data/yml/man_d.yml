@@ -1,0 +1,36 @@
+---
+pattern: man_d
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 26
+score: 1877942
+score_per_word: 85361
+hi_scored_words:
+  managed: 1805
+  mandated: 16562
+  maneuvered: 78042
+  mangled: 36651
+  manhood: 20289
+  manicured: 56416
+  manifested: 14467
+  manifold: 12284
+  manipulated: 19930
+  mankind: 6199
+  manned: 17030
+  mannered: 44045
+  manufactured: 5946
+scored_words:
+  manacled: 216525
+  maned: 170613
+  manged: 243962
+  manhandled: 132157
+  mansard: 104339
+  mantled: 124784
+  manumitted: 137859
+  manured: 240033
+  manyfold: 178004
+not_scored_words:
+- Manfred
+- Mansfield
+- manducated
+- manifolded

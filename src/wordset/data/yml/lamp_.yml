@@ -1,0 +1,35 @@
+---
+pattern: lamp_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 25
+score: 1724553
+score_per_word: 107784
+hi_scored_words:
+  lamp: 3530
+  lampblack: 96406
+  lamplight: 75044
+  lamplighter: 98513
+  lampoon: 44947
+  lamppost: 90672
+  lamprey: 57340
+  lamps: 5393
+  lampshade: 62026
+  lampshades: 89078
+scored_words:
+  lamplighters: 326495
+  lampooned: 165532
+  lampooning: 188378
+  lampoons: 136999
+  lampposts: 144041
+  lampreys: 140159
+not_scored_words:
+- Lampedusa
+- lampas
+- lampion
+- lampooner
+- lampooners
+- lampoonery
+- lampoonist
+- lamprophyre
+- lampyrid

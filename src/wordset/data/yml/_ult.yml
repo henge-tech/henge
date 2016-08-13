@@ -1,0 +1,45 @@
+---
+pattern: _ult
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 35
+score: 825114
+score_per_word: 43427
+hi_scored_words:
+  adult: 2954
+  assault: 4197
+  catapult: 38246
+  consult: 4565
+  cult: 8441
+  default: 4791
+  difficult: 987
+  exult: 75283
+  fault: 2534
+  insult: 9631
+  occult: 15480
+  result: 453
+  somersault: 61748
+  tumult: 37395
+  ult: 48570
+  vault: 7417
+scored_words:
+  jurisconsult: 162895
+  poult: 213443
+  segfault: 126084
+not_scored_words:
+- Barrault
+- Boucicault
+- Boult
+- Foucault
+- Iseult
+- Perrault
+- Renault
+- Rouault
+- Soult
+- Yseult
+- antepenult
+- incult
+- indult
+- penult
+- preadult
+- summersault

@@ -1,0 +1,35 @@
+---
+pattern: h_ker
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 25
+score: 1488081
+score_per_word: 93005
+hi_scored_words:
+  hacker: 9824
+  hawker: 33187
+  heartbreaker: 43727
+  hijacker: 62602
+  hiker: 38207
+  hitchhiker: 31659
+  homemaker: 32586
+  hooker: 16022
+  hunker: 84001
+  husker: 60529
+scored_words:
+  hanker: 134800
+  haymaker: 124621
+  holidaymaker: 203184
+  homeworker: 273265
+  homewrecker: 128811
+  honker: 211056
+not_scored_words:
+- Honecker
+- Hooker
+- handshaker
+- headshrinker
+- headworker
+- honeysucker
+- hoodwinker
+- housebreaker
+- houseworker

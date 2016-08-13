@@ -1,0 +1,36 @@
+---
+pattern: co_ge
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 26
+score: 1094991
+score_per_word: 72999
+hi_scored_words:
+  coinage: 32321
+  collage: 18997
+  college: 802
+  concierge: 19094
+  converge: 23054
+  cordage: 71132
+  corsage: 75168
+  cortege: 97272
+  cottage: 3996
+  courage: 4114
+  coverage: 13414
+scored_words:
+  concubinage: 183559
+  cooperage: 153759
+  corkage: 235622
+  cortège: 162687
+not_scored_words:
+- Coatbridge
+- Coleridge
+- Coolidge
+- commonage
+- constringe
+- coquillage
+- counterchange
+- countercharge
+- counterespionage
+- cowage
+- cozenage

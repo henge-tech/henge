@@ -1,0 +1,61 @@
+---
+pattern: sub_es
+hi_scored_words_count: 23
+scored_words_count: 15
+total_words: 51
+score: 3380930
+score_per_word: 88971
+hi_scored_words:
+  subcategories: 34466
+  subclasses: 34505
+  subcommittees: 46069
+  subcultures: 64754
+  subdirectories: 57105
+  subfamilies: 71602
+  subleases: 86607
+  submarines: 22820
+  subordinates: 30655
+  subroutines: 43756
+  subscribes: 45229
+  subseries: 83592
+  subsides: 57206
+  subsidiaries: 10660
+  subsidies: 12500
+  subspaces: 72196
+  subspecies: 29066
+  substances: 4301
+  substitutes: 17564
+  substrates: 18906
+  subtitles: 11076
+  subtleties: 46308
+  subtypes: 36854
+scored_words:
+  subclauses: 154556
+  subdivides: 200281
+  subdues: 172259
+  sublimes: 239756
+  submerges: 279536
+  submersibles: 143274
+  subsequences: 161504
+  subsidizes: 113490
+  substantiates: 128792
+  substantives: 115523
+  substructures: 111064
+  subsumes: 112129
+  subterfuges: 252491
+  suburbanites: 123347
+  subversives: 135131
+not_scored_words:
+- subbases
+- subbranches
+- subjectivenesses
+- subjugates
+- subjunctives
+- sublimates
+- submerses
+- subnormalities
+- subserves
+- subsidiarities
+- subtilizes
+- subtreasuries
+- suburbanizes

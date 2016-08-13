@@ -1,0 +1,42 @@
+---
+pattern: c_ys
+hi_scored_words_count: 8
+scored_words_count: 12
+total_words: 32
+score: 2723294
+score_per_word: 136164
+hi_scored_words:
+  castaways: 64399
+  cays: 94882
+  chimneys: 31784
+  chutneys: 88577
+  clays: 38289
+  conveys: 22086
+  convoys: 48999
+  cowboys: 10538
+scored_words:
+  carboys: 172098
+  carneys: 225538
+  carriageways: 174776
+  causeways: 175444
+  chardonnays: 231444
+  chlamys: 112642
+  choirboys: 164390
+  colorways: 236203
+  corduroys: 149984
+  crays: 250707
+  cutaways: 190290
+  cycleways: 240224
+not_scored_words:
+- Cockneys
+- caraways
+- chanteys
+- clearways
+- cloys
+- cockneys
+- coleys
+- comfreys
+- companionways
+- coneys
+- coveys
+- cuteys

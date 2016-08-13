@@ -1,0 +1,53 @@
+---
+pattern: dish_
+hi_scored_words_count: 15
+scored_words_count: 12
+total_words: 43
+score: 3092505
+score_per_word: 114537
+hi_scored_words:
+  dish: 2857
+  disharmony: 86850
+  disheartened: 53469
+  disheartening: 51309
+  dished: 63280
+  dishes: 4937
+  disheveled: 86978
+  dishing: 63386
+  dishonest: 18395
+  dishonesty: 24318
+  dishonor: 39279
+  dishonorable: 66176
+  dishonored: 68778
+  dishwasher: 17267
+  dishwashers: 34195
+scored_words:
+  dishabille: 185928
+  dishcloth: 154897
+  dishcloths: 275521
+  dishearten: 218152
+  dishonestly: 111973
+  dishonorably: 247229
+  dishonoring: 219004
+  dishonors: 216591
+  dishpan: 241259
+  dishware: 162265
+  dishwater: 198477
+  dishy: 179735
+not_scored_words:
+- disharmonious
+- disharmoniously
+- dishearteningly
+- disheartenment
+- disheartenments
+- disheartens
+- disherison
+- dishevel
+- disheveling
+- dishevelment
+- dishevels
+- dishpans
+- dishrag
+- dishrags
+- dishtowel
+- dishtowels

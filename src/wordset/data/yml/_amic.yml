@@ -1,0 +1,28 @@
+---
+pattern: _amic
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 18
+score: 470402
+score_per_word: 47040
+hi_scored_words:
+  aerodynamic: 31519
+  balsamic: 35142
+  ceramic: 10192
+  dynamic: 6805
+  hydrodynamic: 43723
+  hypothalamic: 48992
+  panoramic: 24085
+  thalamic: 74706
+  thermodynamic: 29073
+scored_words:
+  electrodynamic: 166165
+not_scored_words:
+- Adamic
+- Islamic
+- agamic
+- endogamic
+- gamic
+- isodynamic
+- keramic
+- potamic

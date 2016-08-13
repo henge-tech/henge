@@ -1,0 +1,36 @@
+---
+pattern: g_de
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 26
+score: 1216500
+score_per_word: 76031
+hi_scored_words:
+  genocide: 15644
+  geode: 77967
+  glade: 21030
+  glide: 14966
+  glucoside: 96174
+  grade: 2732
+  gratitude: 8728
+  graveside: 74136
+  grenade: 26855
+  guide: 789
+scored_words:
+  gallopade: 138663
+  gasconade: 107730
+  germicide: 209680
+  glyceride: 170875
+  glycoside: 100962
+  gourde: 149569
+not_scored_words:
+- Ganymede
+- Gatorade
+- Gertrude
+- Gide
+- Gironde
+- gabionade
+- gambade
+- glede
+- glissade
+- gride

@@ -1,0 +1,28 @@
+---
+pattern: _aste
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 18
+score: 1538697
+score_per_word: 96168
+hi_scored_words:
+  aftertaste: 55509
+  baste: 69555
+  caste: 15059
+  chaste: 42344
+  distaste: 47390
+  haste: 14448
+  paste: 6370
+  taste: 2058
+  toothpaste: 25554
+  waste: 1507
+scored_words:
+  cineaste: 260439
+  foretaste: 110347
+  lambaste: 226302
+  outcaste: 215818
+  posthaste: 228610
+  unchaste: 217387
+not_scored_words:
+- impaste
+- retaste

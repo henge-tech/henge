@@ -1,0 +1,45 @@
+---
+pattern: su_ate
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 35
+score: 1795625
+score_per_word: 105625
+hi_scored_words:
+  subjugate: 76551
+  subordinate: 11868
+  substantiate: 39482
+  substrate: 12442
+  succinate: 63352
+  suffocate: 54957
+  sulfate: 17292
+  sultanate: 49496
+  surrogate: 22939
+scored_words:
+  sublimate: 115903
+  sulfonate: 107315
+  sulphonate: 323990
+  superordinate: 167267
+  superphosphate: 215424
+  superstate: 202530
+  supplicate: 182749
+  suppurate: 132068
+not_scored_words:
+- subalternate
+- subdiaconate
+- subinfeudate
+- subirrigate
+- subliterate
+- subrogate
+- subtemperate
+- subulate
+- sufflate
+- suffumigate
+- sulcate
+- sulphurate
+- superannuate
+- supererogate
+- supersaturate
+- supinate
+- suricate
+- susurrate

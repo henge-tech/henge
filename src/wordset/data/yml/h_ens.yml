@@ -1,0 +1,29 @@
+---
+pattern: h_ens
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 19
+score: 1017807
+score_per_word: 78292
+hi_scored_words:
+  hallucinogens: 67593
+  halogens: 96101
+  happens: 2273
+  hardens: 65064
+  hastens: 93692
+  havens: 37283
+  heathens: 58899
+  heavens: 8865
+  heightens: 74088
+  hens: 22822
+  hyphens: 62861
+scored_words:
+  handmaidens: 196262
+  hearkens: 232004
+not_scored_words:
+- Halloweens
+- Huygens
+- harshens
+- heartens
+- hoydens
+- hymens

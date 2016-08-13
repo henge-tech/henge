@@ -1,0 +1,22 @@
+---
+pattern: res_ve
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 792230
+score_per_word: 79223
+hi_scored_words:
+  reserve: 2072
+  resistive: 39877
+  resolve: 4508
+  respective: 2813
+  responsive: 10278
+  restive: 67839
+  restorative: 32277
+  restrictive: 17364
+scored_words:
+  resumptive: 321236
+  resuscitative: 293966
+not_scored_words:
+- resolutive
+- restitutive

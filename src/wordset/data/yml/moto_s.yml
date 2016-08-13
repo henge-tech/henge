@@ -1,0 +1,27 @@
+---
+pattern: moto_s
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 397982
+score_per_word: 44220
+hi_scored_words:
+  motocross: 27162
+  motorbikes: 27129
+  motorcars: 90758
+  motorcycles: 13723
+  motorcyclists: 59061
+  motorists: 19892
+  motors: 7361
+  motorways: 43174
+scored_words:
+  motorboats: 109722
+not_scored_words:
+- motocrosses
+- motorbus
+- motorbuses
+- motorcades
+- motorings
+- motorizes
+- motormouths
+- motortrucks

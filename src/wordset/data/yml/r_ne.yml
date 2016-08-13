@@ -1,0 +1,55 @@
+---
+pattern: r_ne
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 45
+score: 2572507
+score_per_word: 98942
+hi_scored_words:
+  radiotelephone: 93841
+  ravine: 26679
+  recline: 53229
+  reconvene: 67360
+  redefine: 25999
+  redline: 35658
+  redone: 46426
+  reexamine: 78358
+  refine: 11753
+  reserpine: 93282
+  rhinestone: 25982
+  ringtone: 9492
+  riverine: 55468
+  romaine: 46014
+  routine: 7854
+  rune: 22878
+scored_words:
+  radiophone: 222138
+  rapine: 164504
+  recombine: 113324
+  redetermine: 311831
+  reline: 290091
+  repine: 182400
+  retune: 225290
+  rezone: 121041
+  rhodamine: 111052
+  rotenone: 130563
+not_scored_words:
+- Racine
+- Rankine
+- Redstone
+- Rene
+- Rhine
+- Rhone
+- Rockne
+- Rosanne
+- Roseanne
+- Roxanne
+- ralline
+- ratline
+- ratsbane
+- resupine
+- retene
+- rhigolene
+- rosaniline
+- rottenstone
+- rubstone

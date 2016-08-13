@@ -1,0 +1,28 @@
+---
+pattern: song_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 18
+score: 654669
+score_per_word: 54555
+hi_scored_words:
+  song: 793
+  songbird: 46350
+  songbirds: 63322
+  songbook: 28864
+  songbooks: 73107
+  songs: 1529
+  songstress: 96487
+  songwriter: 15962
+  songwriters: 26147
+  songwriting: 23002
+scored_words:
+  songster: 144014
+  songsters: 135092
+not_scored_words:
+- Songhai
+- Songhua
+- songfest
+- songfests
+- songful
+- songstresses

@@ -1,0 +1,25 @@
+---
+pattern: _gets
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 15
+score: 452025
+score_per_word: 45202
+hi_scored_words:
+  begets: 66772
+  budgets: 17144
+  forgets: 27931
+  gadgets: 6814
+  gets: 1219
+  midgets: 30280
+  nuggets: 21632
+  targets: 8776
+  widgets: 21336
+scored_words:
+  fidgets: 250121
+not_scored_words:
+- druggets
+- fussbudgets
+- gargets
+- gorgets
+- pargets

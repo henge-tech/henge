@@ -1,0 +1,74 @@
+---
+pattern: m_ity
+hi_scored_words_count: 30
+scored_words_count: 11
+total_words: 64
+score: 3062105
+score_per_word: 74685
+hi_scored_words:
+  magnanimity: 72370
+  maintainability: 64949
+  majority: 1784
+  manageability: 80438
+  maneuverability: 62966
+  marketability: 68103
+  masculinity: 35774
+  materiality: 57203
+  maternity: 11782
+  maturity: 8098
+  mediocrity: 30347
+  mendacity: 91304
+  mentality: 19060
+  merchantability: 79405
+  microgravity: 63238
+  minority: 7477
+  mobility: 9836
+  modality: 28521
+  modernity: 28206
+  modularity: 52716
+  monotonicity: 83116
+  monstrosity: 61380
+  morality: 7349
+  morbidity: 20220
+  mortality: 6070
+  motility: 33228
+  multiplicity: 25590
+  municipality: 10062
+  musicality: 78299
+  mutuality: 79736
+scored_words:
+  malignity: 145740
+  malleability: 130292
+  marginality: 117008
+  memorability: 166782
+  mendicity: 169327
+  metastability: 228281
+  minimality: 175207
+  miscibility: 188329
+  molarity: 172169
+  muscularity: 173941
+  mutability: 116402
+not_scored_words:
+- magnetoelectricity
+- manipulability
+- marriageability
+- matrilineality
+- mensurability
+- mercuriality
+- meticulosity
+- molality
+- molecularity
+- monumentality
+- mordacity
+- moribundity
+- motivity
+- movability
+- moveability
+- mucosity
+- muliebrity
+- multicellularity
+- multidimensionality
+- multiformity
+- multiplexity
+- multiversity
+- mundanity

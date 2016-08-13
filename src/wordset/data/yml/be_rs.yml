@@ -1,0 +1,52 @@
+---
+pattern: be_rs
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 42
+score: 2168393
+score_per_word: 86735
+hi_scored_words:
+  beakers: 75560
+  bearers: 28995
+  bears: 2574
+  beaters: 54698
+  beavers: 17032
+  beekeepers: 69108
+  beers: 20794
+  beggars: 26903
+  beginners: 13749
+  behaviors: 7590
+  believers: 11852
+  benders: 52882
+  benefactors: 46053
+  bestsellers: 20205
+  betters: 72959
+scored_words:
+  beachcombers: 190930
+  bedcovers: 246583
+  beefeaters: 250305
+  beepers: 121992
+  beholders: 153771
+  bellwethers: 182232
+  besiegers: 179743
+  betrayers: 120472
+  bettors: 100548
+  bewilders: 100863
+not_scored_words:
+- Berbers
+- Berliners
+- beautifiers
+- bedchambers
+- bedders
+- bedmakers
+- bedsitters
+- beefburgers
+- begetters
+- beguilers
+- belabors
+- beleaguers
+- bellflowers
+- beseechers
+- besmears
+- bespatters
+- bestirs

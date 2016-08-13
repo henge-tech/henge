@@ -1,0 +1,32 @@
+---
+pattern: _aire
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 22
+score: 715001
+score_per_word: 59583
+hi_scored_words:
+  affaire: 62789
+  billionaire: 29583
+  concessionaire: 87249
+  doctrinaire: 99053
+  extraordinaire: 37310
+  legionnaire: 84759
+  millionaire: 10906
+  multimillionaire: 99395
+  questionnaire: 11597
+  solitaire: 18111
+  zaire: 24020
+scored_words:
+  commissionaire: 150229
+not_scored_words:
+- Apollinaire
+- Astaire
+- Baudelaire
+- Bonaire
+- Brumaire
+- Claire
+- Frigidaire
+- Frimaire
+- Voltaire
+- Zaire

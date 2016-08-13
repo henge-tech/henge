@@ -1,0 +1,48 @@
+---
+pattern: e_ls
+hi_scored_words_count: 21
+scored_words_count: 5
+total_words: 38
+score: 1833756
+score_per_word: 70529
+hi_scored_words:
+  earls: 29589
+  easels: 68972
+  editorials: 18189
+  eels: 28324
+  ells: 71517
+  els: 25842
+  emails: 4930
+  enamels: 69696
+  enrolls: 66196
+  entails: 21591
+  entrails: 49999
+  eosinophils: 69219
+  equals: 8327
+  essentials: 8489
+  evangelicals: 32147
+  evils: 14988
+  excels: 39973
+  expels: 99590
+  externals: 65953
+  extraterrestrials: 79438
+  eyeballs: 38323
+scored_words:
+  eggshells: 100419
+  encyclicals: 159234
+  enthralls: 326162
+  epidurals: 188480
+  extols: 148169
+not_scored_words:
+- Eluls
+- Engels
+- earfuls
+- embroils
+- empanels
+- equilaterals
+- ergocalciferols
+- espials
+- estoppels
+- evangels
+- evenfalls
+- eyefuls

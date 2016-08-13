@@ -1,0 +1,43 @@
+---
+pattern: bomb_
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 33
+score: 1179899
+score_per_word: 58994
+hi_scored_words:
+  bomb: 6213
+  bombard: 49247
+  bombarded: 37323
+  bombardier: 31807
+  bombarding: 82665
+  bombardment: 28046
+  bombast: 80851
+  bombastic: 59438
+  bombe: 73569
+  bombed: 23104
+  bomber: 14413
+  bombers: 13455
+  bombing: 18222
+  bombings: 15702
+  bombs: 9730
+  bombshell: 37359
+scored_words:
+  bombardments: 141342
+  bombards: 180492
+  bombproof: 156958
+  bombshells: 119963
+not_scored_words:
+- Bombay
+- bombacaceous
+- bombardiers
+- bombardon
+- bombardons
+- bombastically
+- bombazine
+- bombsight
+- bombsights
+- bombsite
+- bombsites
+- bombycid
+- bombycids

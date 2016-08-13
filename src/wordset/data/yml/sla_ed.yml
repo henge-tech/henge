@@ -1,0 +1,29 @@
+---
+pattern: sla_ed
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 19
+score: 1650382
+score_per_word: 103148
+hi_scored_words:
+  slammed: 17938
+  slandered: 95840
+  slanted: 39714
+  slapped: 22130
+  slashed: 32196
+  slated: 27392
+  slaughtered: 22379
+  slaved: 82606
+scored_words:
+  slabbed: 207502
+  slacked: 136960
+  slackened: 108183
+  slagged: 247020
+  slaked: 183195
+  slathered: 144862
+  slatted: 102069
+  slayed: 180396
+not_scored_words:
+- slabbered
+- slalomed
+- slavered

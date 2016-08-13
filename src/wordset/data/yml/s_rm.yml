@@ -1,0 +1,35 @@
+---
+pattern: s_rm
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 25
+score: 607010
+score_per_word: 60701
+hi_scored_words:
+  sandstorm: 42832
+  silkworm: 56006
+  snowstorm: 40897
+  sperm: 12873
+  spongiform: 78574
+  squirm: 50025
+  storm: 2016
+  swarm: 16701
+scored_words:
+  sidearm: 112511
+  stratiform: 194575
+not_scored_words:
+- salverform
+- scalariform
+- schoolmarm
+- screwworm
+- scutiform
+- serpentiform
+- serriform
+- setiform
+- shipworm
+- slowworm
+- smarm
+- stelliform
+- stilliform
+- strawworm
+- styliform

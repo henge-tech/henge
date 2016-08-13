@@ -1,0 +1,43 @@
+---
+pattern: _ubs
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 33
+score: 1661115
+score_per_word: 69213
+hi_scored_words:
+  bathtubs: 60573
+  cherubs: 50090
+  chubs: 80412
+  clubs: 3114
+  cubs: 12392
+  dubs: 44530
+  grubs: 65025
+  hubs: 14217
+  nightclubs: 21623
+  pubs: 7945
+  rubs: 27938
+  scrubs: 21461
+  shrubs: 19405
+  stubs: 29345
+  subs: 12439
+  tubs: 20812
+scored_words:
+  brewpubs: 105828
+  bubs: 109106
+  daubs: 168696
+  drubs: 297407
+  flubs: 165035
+  nubs: 102233
+  overdubs: 118671
+  snubs: 102818
+not_scored_words:
+- Doubs
+- UBS
+- bedaubs
+- hubbubs
+- mulligrubs
+- slubs
+- subshrubs
+- syllabubs
+- washtubs

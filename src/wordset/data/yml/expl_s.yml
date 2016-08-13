@@ -1,0 +1,27 @@
+---
+pattern: expl_s
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 17
+score: 1374149
+score_per_word: 85884
+hi_scored_words:
+  explains: 4445
+  explanations: 9963
+  explodes: 35101
+  exploits: 14341
+  explorations: 23850
+  explorers: 17462
+  explores: 19701
+  explosions: 17063
+  explosives: 16601
+scored_words:
+  expletives: 101774
+  explicates: 271084
+  explications: 153290
+  explicitness: 173182
+  exploitations: 217532
+  exploiters: 101094
+  explosiveness: 197666
+not_scored_words:
+- exploders

@@ -1,0 +1,31 @@
+---
+pattern: co_nd
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 21
+score: 1087360
+score_per_word: 77668
+hi_scored_words:
+  colorblind: 81833
+  command: 905
+  commend: 23642
+  compound: 5080
+  comprehend: 12469
+  condescend: 86412
+  confound: 37758
+  contend: 15466
+  contraband: 30135
+  correspond: 8922
+scored_words:
+  coastland: 266922
+  coonhound: 102881
+  countermand: 188523
+  cowhand: 226412
+not_scored_words:
+- Copeland
+- Copland
+- Cortland
+- Courland
+- coextend
+- confirmand
+- cowbind

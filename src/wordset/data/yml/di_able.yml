@@ -1,0 +1,39 @@
+---
+pattern: di_able
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 29
+score: 2169296
+score_per_word: 127605
+hi_scored_words:
+  differentiable: 54920
+  disable: 13829
+  disagreeable: 31949
+  discoverable: 82733
+  dishonorable: 66176
+  disposable: 18073
+  disreputable: 51818
+  distinguishable: 34367
+  distributable: 82986
+scored_words:
+  diagnosable: 176573
+  discountable: 333807
+  discreditable: 189651
+  dispensable: 105142
+  displayable: 148841
+  disputable: 136532
+  dissociable: 327539
+  dissolvable: 314360
+not_scored_words:
+- diagrammable
+- dilatable
+- diminishable
+- discomfortable
+- discussable
+- disenable
+- dismountable
+- disprovable
+- disrespectable
+- dissyllable
+- disyllable
+- dividable

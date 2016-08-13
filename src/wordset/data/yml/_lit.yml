@@ -1,0 +1,29 @@
+---
+pattern: _lit
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 1163589
+score_per_word: 83113
+hi_scored_words:
+  candlelit: 87989
+  clit: 18006
+  flit: 48684
+  floodlit: 83682
+  lit: 4813
+  moonlit: 52599
+  polit: 87474
+  slit: 15925
+  split: 3149
+  sunlit: 59214
+  unlit: 88172
+scored_words:
+  milit: 254254
+  starlit: 115565
+  whatchamacallit: 244063
+not_scored_words:
+- Split
+- gaslit
+- spotlit
+- torchlit
+- twilit

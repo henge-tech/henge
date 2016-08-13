@@ -1,0 +1,34 @@
+---
+pattern: s_ip
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 24
+score: 1318823
+score_per_word: 59946
+hi_scored_words:
+  salesmanship: 90967
+  scholarship: 5768
+  scrip: 41727
+  seamanship: 60387
+  ship: 801
+  showmanship: 61315
+  sip: 10453
+  skip: 5066
+  slip: 3499
+  snip: 27048
+  spaceship: 27332
+  sponsorship: 7484
+  sportsmanship: 36344
+  statesmanship: 81723
+  steamship: 40809
+  stewardship: 21523
+  strip: 3529
+  studentship: 92615
+scored_words:
+  secretaryship: 100056
+  sideslip: 255232
+  suretyship: 229337
+  swordsmanship: 115808
+not_scored_words:
+- sibship
+- squireship

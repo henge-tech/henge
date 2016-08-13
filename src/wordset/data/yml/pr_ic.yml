@@ -1,0 +1,50 @@
+---
+pattern: pr_ic
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 40
+score: 1331283
+score_per_word: 66564
+hi_scored_words:
+  pragmatic: 20078
+  prehistoric: 16145
+  prismatic: 52495
+  probabilistic: 23345
+  problematic: 13677
+  prognostic: 36962
+  programmatic: 30022
+  prokaryotic: 67439
+  prolific: 15882
+  prophetic: 18085
+  prophylactic: 34805
+  prosaic: 51587
+  prosodic: 69821
+  prostatic: 37309
+  prosthetic: 28786
+  prussic: 74307
+scored_words:
+  proleptic: 123959
+  propaedeutic: 159048
+  protoplasmic: 199330
+  prototypic: 258201
+not_scored_words:
+- Proterozoic
+- pragmatistic
+- prediagnostic
+- prelatic
+- presbyopic
+- prescientific
+- pretonic
+- prevocalic
+- priapic
+- proceleusmatic
+- procephalic
+- proclitic
+- procryptic
+- prodemocratic
+- protolithic
+- protomorphic
+- protonic
+- prototrophic
+- protozoic
+- proxemic

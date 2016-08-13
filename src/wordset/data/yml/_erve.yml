@@ -1,0 +1,26 @@
+---
+pattern: _erve
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 466844
+score_per_word: 42440
+hi_scored_words:
+  conserve: 17814
+  deserve: 4450
+  nerve: 5207
+  observe: 4200
+  preserve: 4010
+  reserve: 2072
+  serve: 1321
+  swerve: 38996
+  verve: 26879
+scored_words:
+  subserve: 190482
+  unnerve: 171413
+not_scored_words:
+- CompuServe
+- bioreserve
+- disserve
+- innerve
+- unreserve

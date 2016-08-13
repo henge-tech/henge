@@ -1,0 +1,37 @@
+---
+pattern: _omer
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 27
+score: 1103837
+score_per_word: 64931
+hi_scored_words:
+  astronomer: 21390
+  bloomer: 49954
+  boomer: 27225
+  comer: 26653
+  customer: 2878
+  elastomer: 60994
+  groomer: 68269
+  homer: 7283
+  isomer: 51028
+  misnomer: 51216
+  monomer: 37795
+  newcomer: 17169
+  omer: 41759
+  vomer: 80721
+scored_words:
+  handsomer: 172449
+  latecomer: 169148
+  roomer: 217906
+not_scored_words:
+- Bloomer
+- Homer
+- downcomer
+- gruesomer
+- incomer
+- ransomer
+- schussboomer
+- stereoisomer
+- tautomer
+- winsomer

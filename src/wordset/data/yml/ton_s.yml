@@ -1,0 +1,31 @@
+---
+pattern: ton_s
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 21
+score: 1167052
+score_per_word: 83360
+hi_scored_words:
+  toners: 57926
+  tones: 4274
+  tongs: 29703
+  tongues: 13275
+  tonics: 71309
+  tonnes: 11602
+  tons: 4271
+  tonsillitis: 69682
+  tonsils: 56521
+scored_words:
+  tonalities: 219432
+  tonearms: 189835
+  toneless: 104525
+  tonnages: 168819
+  tonus: 165878
+not_scored_words:
+- Tongans
+- tongueless
+- tonicities
+- tonsillectomies
+- tonsures
+- tontines
+- tonuses

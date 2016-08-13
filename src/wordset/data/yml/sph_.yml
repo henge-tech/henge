@@ -1,0 +1,48 @@
+---
+pattern: sph_
+hi_scored_words_count: 8
+scored_words_count: 11
+total_words: 38
+score: 2142087
+score_per_word: 112741
+hi_scored_words:
+  sphagnum: 60131
+  sphere: 5828
+  spheres: 14756
+  spherical: 16673
+  spherically: 98515
+  spheroid: 80461
+  sphincter: 38300
+  sphinx: 21642
+scored_words:
+  sphalerite: 139699
+  sphenoid: 104076
+  sphericity: 223169
+  spheroidal: 115243
+  spheroids: 151786
+  spherules: 223208
+  sphincters: 193158
+  sphingosine: 148682
+  sphinxes: 177143
+  sphygmomanometer: 153465
+  sphygmomanometers: 176152
+not_scored_words:
+- Sphinx
+- sphacelus
+- sphagnums
+- sphalerites
+- sphene
+- sphenic
+- sphenogram
+- sphericities
+- spherics
+- spheroidicity
+- spherule
+- spherulite
+- sphery
+- sphincteral
+- sphincteric
+- sphinxlike
+- sphygmic
+- sphygmograph
+- sphygmoid

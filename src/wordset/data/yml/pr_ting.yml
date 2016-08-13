@@ -1,0 +1,56 @@
+---
+pattern: pr_ting
+hi_scored_words_count: 19
+scored_words_count: 12
+total_words: 46
+score: 2629742
+score_per_word: 84830
+hi_scored_words:
+  precipitating: 58822
+  predicting: 18926
+  preexisting: 40281
+  presenting: 6313
+  preventing: 6187
+  printing: 3402
+  procrastinating: 58692
+  profiting: 44816
+  prohibiting: 19815
+  projecting: 16293
+  proliferating: 56190
+  promoting: 3758
+  prompting: 23427
+  promulgating: 84560
+  propagating: 31454
+  prosecuting: 25128
+  prospecting: 29942
+  protecting: 5076
+  protesting: 20447
+scored_words:
+  prating: 115504
+  predating: 103947
+  predominating: 111930
+  preempting: 157497
+  preheating: 110639
+  preponderating: 122913
+  presetting: 292887
+  pretesting: 173814
+  procreating: 256922
+  prorating: 214855
+  prostituting: 227865
+  prostrating: 187440
+not_scored_words:
+- predesignating
+- predestinating
+- predicating
+- predigesting
+- prefabricating
+- premeditating
+- presorting
+- prevaricating
+- prizefighting
+- probating
+- prognosticating
+- pronating
+- propitiating
+- proselyting
+- protracting

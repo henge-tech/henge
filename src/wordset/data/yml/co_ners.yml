@@ -1,0 +1,27 @@
+---
+pattern: co_ners
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 843205
+score_per_word: 76655
+hi_scored_words:
+  commissioners: 7295
+  commoners: 68909
+  conditioners: 25950
+  confectioners: 86755
+  congeners: 87012
+  containers: 6775
+  corners: 5672
+  coroners: 72774
+scored_words:
+  combiners: 177871
+  complainers: 129758
+  conveners: 174434
+not_scored_words:
+- coiners
+- concessioners
+- condemners
+- conjoiners
+- copartners
+- cosigners

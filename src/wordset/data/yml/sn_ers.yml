@@ -1,0 +1,29 @@
+---
+pattern: sn_ers
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 19
+score: 1748983
+score_per_word: 124927
+hi_scored_words:
+  snappers: 87972
+  snatchers: 75412
+  sneakers: 20163
+  sneers: 99828
+  snickers: 47663
+  sniffers: 92565
+  snipers: 39788
+  snowboarders: 71909
+scored_words:
+  sniggers: 196005
+  snoopers: 140609
+  snorers: 300646
+  snorkelers: 185321
+  snowblowers: 242341
+  snuffers: 148761
+not_scored_words:
+- Snickers
+- snifters
+- snivelers
+- snookers
+- snorters

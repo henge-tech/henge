@@ -1,0 +1,33 @@
+---
+pattern: g_gy
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 23
+score: 852776
+score_per_word: 71064
+hi_scored_words:
+  gastroenterology: 26734
+  genealogy: 11757
+  geology: 9527
+  geomorphology: 56540
+  gerontology: 37038
+  groggy: 59306
+  grungy: 83246
+  gynecology: 26606
+scored_words:
+  gemology: 165024
+  geochronology: 133329
+  glaciology: 128803
+  graphology: 114866
+not_scored_words:
+- Gastroenterology
+- garbology
+- gastrology
+- gemmology
+- genethlialogy
+- geophagy
+- geratology
+- glossology
+- glottochronology
+- glottology
+- gungy

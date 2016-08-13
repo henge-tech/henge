@@ -1,0 +1,76 @@
+---
+pattern: b_ling
+hi_scored_words_count: 28
+scored_words_count: 15
+total_words: 66
+score: 4750730
+score_per_word: 110482
+hi_scored_words:
+  babbling: 39722
+  baffling: 42686
+  bailing: 62337
+  baling: 90308
+  balling: 62024
+  battling: 18562
+  bawling: 80302
+  beguiling: 58494
+  belittling: 88422
+  belling: 61964
+  bestselling: 16203
+  bicycling: 25791
+  billing: 6008
+  blackmailing: 91015
+  bling: 19475
+  boggling: 41714
+  boiling: 8414
+  bottling: 28108
+  bowling: 9881
+  brawling: 79776
+  bristling: 59972
+  broiling: 91965
+  bubbling: 29600
+  buckling: 51432
+  bumbling: 58998
+  bundling: 43983
+  bungling: 87762
+  bustling: 27575
+scored_words:
+  backpedaling: 194237
+  bankrolling: 210724
+  bantling: 231504
+  barreling: 121685
+  barrelling: 259314
+  beetling: 140107
+  befalling: 275290
+  beveling: 213518
+  bewailing: 222299
+  birling: 247235
+  bloodcurdling: 280995
+  brambling: 309977
+  bridling: 211970
+  bulling: 222193
+  burbling: 227189
+not_scored_words:
+- bamboozling
+- batfowling
+- bedazzling
+- bedeviling
+- bedraggling
+- befooling
+- befouling
+- befuddling
+- bejeweling
+- bespangling
+- besprinkling
+- bitterling
+- blackballing
+- bobbling
+- boondoggling
+- brabbling
+- brailing
+- brandling
+- brisling
+- bugling
+- burgling
+- busheling
+- buttonholing

@@ -1,0 +1,60 @@
+---
+pattern: co_ally
+hi_scored_words_count: 14
+scored_words_count: 13
+total_words: 50
+score: 3094113
+score_per_word: 114596
+hi_scored_words:
+  coincidentally: 35880
+  colloquially: 75738
+  comically: 71684
+  commercially: 16337
+  computationally: 44240
+  conceptually: 32482
+  conditionally: 46129
+  confidentially: 37325
+  constitutionally: 30271
+  contextually: 90086
+  continually: 5667
+  contractually: 51618
+  conventionally: 39843
+  cordially: 31567
+scored_words:
+  coaxially: 312929
+  collaterally: 217995
+  communally: 119264
+  concentrically: 207986
+  congenitally: 142042
+  congressionally: 115009
+  consensually: 259695
+  consequentially: 137186
+  conspiratorially: 294313
+  controversially: 103769
+  conversationally: 207770
+  cosmetically: 103805
+  cosmically: 263483
+not_scored_words:
+- coeducationally
+- coequally
+- coeternally
+- coevally
+- colonially
+- colossally
+- communistically
+- configurationally
+- congenially
+- conically
+- conjecturally
+- conjugally
+- conjugationally
+- conjunctionally
+- connaturally
+- connubially
+- consonantally
+- continentally
+- contrapuntally
+- convivially
+- corporally
+- corporeally
+- cosmologically

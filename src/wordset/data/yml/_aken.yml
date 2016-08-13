@@ -1,0 +1,31 @@
+---
+pattern: _aken
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 21
+score: 1056183
+score_per_word: 62128
+hi_scored_words:
+  awaken: 19220
+  forsaken: 29238
+  kraken: 70379
+  mistaken: 8054
+  oaken: 80075
+  overtaken: 29139
+  retaken: 94206
+  shaken: 13642
+  taken: 404
+  undertaken: 5411
+  waken: 78539
+  weaken: 17408
+scored_words:
+  betaken: 105681
+  godforsaken: 105810
+  partaken: 110500
+  reawaken: 169049
+  unshaken: 119428
+not_scored_words:
+- Interlaken
+- rewaken
+- unforsaken
+- unmistaken

@@ -1,0 +1,51 @@
+---
+pattern: div_s
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 41
+score: 2393631
+score_per_word: 88653
+hi_scored_words:
+  divas: 24628
+  divergences: 67867
+  diverges: 74912
+  divers: 10221
+  diversions: 27417
+  diversities: 87499
+  diverticulitis: 80458
+  diverts: 76985
+  dives: 26019
+  dividends: 12356
+  dividers: 35967
+  divides: 18617
+  divines: 81622
+  divinities: 91222
+  divisions: 4470
+  divisors: 75288
+  divorces: 40773
+scored_words:
+  divans: 134773
+  diversifies: 213264
+  diverticulosis: 127541
+  divestitures: 112901
+  divests: 204035
+  diviners: 132501
+  divisiveness: 107038
+  divorcees: 145721
+  divots: 195265
+  divulges: 184271
+not_scored_words:
+- Dives
+- divagates
+- divagations
+- divaricates
+- divarications
+- divergencies
+- diverseness
+- diverticuloses
+- divertimentos
+- divineness
+- divorcements
+- divorcées
+- divulgences
+- divvies

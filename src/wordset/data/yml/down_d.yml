@@ -1,0 +1,23 @@
+---
+pattern: down_d
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 13
+score: 854018
+score_per_word: 71168
+hi_scored_words:
+  downed: 38136
+  downfield: 96088
+  downgraded: 37839
+  download: 1432
+  downloaded: 9166
+  downplayed: 72173
+  downsized: 70421
+  downward: 9507
+  downwind: 49508
+scored_words:
+  downhearted: 188141
+  downland: 127604
+  downtrend: 154003
+not_scored_words:
+- downshifted

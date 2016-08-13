@@ -1,0 +1,54 @@
+---
+pattern: _time
+hi_scored_words_count: 29
+scored_words_count: 5
+total_words: 44
+score: 1595034
+score_per_word: 46912
+hi_scored_words:
+  airtime: 39568
+  anytime: 7419
+  bedtime: 17119
+  daytime: 10894
+  dinnertime: 77400
+  downtime: 18814
+  halftime: 22100
+  lifetime: 4180
+  longtime: 16690
+  lunchtime: 23908
+  maritime: 7415
+  mealtime: 68574
+  meantime: 6905
+  nighttime: 23699
+  onetime: 52315
+  overtime: 16849
+  pastime: 25305
+  peacetime: 44721
+  playtime: 29302
+  primetime: 26039
+  ragtime: 34489
+  showtime: 17924
+  sometime: 7285
+  springtime: 29579
+  summertime: 21578
+  teatime: 78740
+  time: 51
+  wartime: 26613
+  wintertime: 57441
+scored_words:
+  aforetime: 149143
+  centime: 115685
+  flextime: 199200
+  noontime: 114494
+  suppertime: 203596
+not_scored_words:
+- Christmastime
+- Maytime
+- aftertime
+- beforetime
+- foretime
+- mistime
+- optime
+- seedtime
+- septime
+- smalltime

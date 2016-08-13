@@ -1,0 +1,53 @@
+---
+pattern: mi_rs
+hi_scored_words_count: 14
+scored_words_count: 13
+total_words: 43
+score: 3084560
+score_per_word: 114242
+hi_scored_words:
+  microcomputers: 57137
+  micrometers: 70588
+  microprocessors: 35098
+  midfielders: 78949
+  millers: 40284
+  milliliters: 85876
+  millimeters: 31520
+  minders: 83678
+  miners: 12101
+  ministers: 4645
+  minors: 17864
+  mirrors: 6565
+  misdemeanors: 52236
+  mixers: 14761
+scored_words:
+  microfibers: 324014
+  milers: 183034
+  milkers: 209826
+  millibars: 116815
+  milliners: 179120
+  mincers: 313918
+  minesweepers: 134109
+  mineworkers: 146426
+  minibars: 209820
+  minicomputers: 129018
+  misers: 172417
+  missioners: 219847
+  misters: 154894
+not_scored_words:
+- Michiganders
+- middlebreakers
+- midyears
+- milometers
+- mimers
+- mimickers
+- minelayers
+- minivers
+- minnesingers
+- minsters
+- minters
+- misbelievers
+- mishears
+- misnomers
+- misremembers
+- miters

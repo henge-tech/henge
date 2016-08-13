@@ -1,0 +1,87 @@
+---
+pattern: fl_r
+hi_scored_words_count: 25
+scored_words_count: 22
+total_words: 77
+score: 5062334
+score_per_word: 107709
+hi_scored_words:
+  flagellar: 94858
+  flair: 22896
+  flamer: 98275
+  flamethrower: 62801
+  flanker: 69357
+  flapper: 51660
+  flasher: 36019
+  flatter: 22005
+  flavor: 6760
+  fleer: 59069
+  fletcher: 14561
+  flexor: 56427
+  flicker: 22858
+  flier: 35831
+  flipper: 32179
+  floater: 49085
+  floor: 935
+  flor: 33207
+  flounder: 33012
+  flour: 5914
+  flower: 1963
+  fluor: 56672
+  flutter: 25006
+  flycatcher: 36792
+  flyover: 62468
+scored_words:
+  flagger: 228650
+  flashier: 193293
+  flashover: 150819
+  flatcar: 215414
+  flattener: 274482
+  flatterer: 156876
+  flayer: 176930
+  flesher: 200682
+  flinger: 236893
+  flitter: 175805
+  flivver: 122844
+  flogger: 137793
+  flooder: 216086
+  floodwater: 109142
+  flopper: 139089
+  fluffier: 230452
+  fluorometer: 198073
+  fluorspar: 174954
+  flusher: 147377
+  fluster: 211855
+  flypaper: 128330
+  flyswatter: 245885
+not_scored_words:
+- Fleischer
+- Fletcher
+- flabbier
+- flagellator
+- flaker
+- flakier
+- flaunter
+- flauntier
+- fleecer
+- fleecier
+- fleeter
+- fleshier
+- fleshlier
+- flightier
+- flimflammer
+- flimsier
+- flincher
+- flintier
+- floatier
+- floorer
+- floorwalker
+- floppier
+- flossier
+- flourisher
+- flouter
+- flowerer
+- flowerier
+- flukier
+- fluter
+- fluxmeter

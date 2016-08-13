@@ -1,0 +1,64 @@
+---
+pattern: b_sh
+hi_scored_words_count: 27
+scored_words_count: 11
+total_words: 54
+score: 3178709
+score_per_word: 83650
+hi_scored_words:
+  backlash: 23479
+  backslash: 53595
+  backwash: 57796
+  balderdash: 70231
+  banish: 32130
+  bash: 11796
+  bearish: 59458
+  blackfish: 90000
+  blackish: 78074
+  blemish: 33458
+  blowfish: 45797
+  bluefish: 55645
+  bluish: 31778
+  blush: 12334
+  bonefish: 97057
+  bookish: 48443
+  boorish: 80090
+  bosh: 39551
+  boyish: 39728
+  brackish: 41466
+  brainwash: 69317
+  brash: 34781
+  brownish: 34396
+  brush: 4297
+  brutish: 51774
+  bullish: 36936
+  bush: 1716
+scored_words:
+  babyish: 178719
+  batfish: 240556
+  biggish: 284264
+  billfish: 127929
+  blandish: 130091
+  blimpish: 192506
+  blueish: 183986
+  brandish: 109727
+  bulrush: 134354
+  burnish: 113739
+  butterfish: 247715
+not_scored_words:
+- Balkhash
+- Bangladesh
+- British
+- Bush
+- backsheesh
+- baksheesh
+- bleakish
+- blindfish
+- blockish
+- blokish
+- blondish
+- boarfish
+- boarish
+- boxfish
+- buckish
+- buffoonish

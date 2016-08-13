@@ -1,0 +1,40 @@
+---
+pattern: ja_r
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 30
+score: 1094202
+score_per_word: 84169
+hi_scored_words:
+  jabber: 28355
+  jackhammer: 83304
+  jaeger: 32810
+  jaguar: 15913
+  jailer: 48938
+  jammer: 45157
+  janitor: 27485
+  jar: 6471
+  jasper: 14506
+  jawbreaker: 84087
+scored_words:
+  jacamar: 147462
+  jaywalker: 253510
+  jazzier: 306204
+not_scored_words:
+- Jabalpur
+- Jagger
+- Jaguar
+- Jahangir
+- Jaipur
+- Jamar
+- Jamshedpur
+- Jasper
+- Javier
+- jabberer
+- jacklighter
+- jaggeder
+- jaggier
+- jammier
+- jangler
+- japer
+- jauntier

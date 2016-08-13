@@ -1,0 +1,44 @@
+---
+pattern: c_late
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 34
+score: 1688362
+score_per_word: 88861
+hi_scored_words:
+  calculate: 3664
+  capitulate: 83803
+  carboxylate: 87343
+  chelate: 83672
+  chocolate: 3816
+  circulate: 21538
+  collate: 49967
+  congratulate: 15241
+  consulate: 16846
+  contemplate: 17750
+  copperplate: 71714
+  correlate: 21950
+scored_words:
+  campanulate: 325993
+  circumambulate: 181784
+  circumvallate: 158911
+  coagulate: 132469
+  conflate: 103349
+  copulate: 121165
+  cumulate: 187387
+not_scored_words:
+- cancelate
+- cancellate
+- cantillate
+- capreolate
+- capsulate
+- cardinalate
+- chainplate
+- ciliolate
+- confabulate
+- constellate
+- corniculate
+- crenelate
+- crenulate
+- cucullate
+- cupulate

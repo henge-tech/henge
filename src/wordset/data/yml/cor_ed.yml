@@ -1,0 +1,32 @@
+---
+pattern: cor_ed
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 22
+score: 1000738
+score_per_word: 66715
+hi_scored_words:
+  corded: 41321
+  cordoned: 98950
+  cored: 66564
+  corked: 79867
+  corned: 57347
+  cornered: 39089
+  corrected: 6336
+  correlated: 17353
+  corresponded: 33748
+  corroborated: 45783
+  corroded: 67576
+  corrugated: 27948
+  corrupted: 13009
+scored_words:
+  corralled: 124431
+  corseted: 281416
+not_scored_words:
+- corkscrewed
+- corniced
+- cornrowed
+- cornuted
+- coroneted
+- corraded
+- coruscated

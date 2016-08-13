@@ -1,0 +1,29 @@
+---
+pattern: _neys
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 19
+score: 838013
+score_per_word: 76183
+hi_scored_words:
+  attorneys: 7324
+  barneys: 95851
+  chimneys: 31784
+  chutneys: 88577
+  honeys: 41511
+  journeys: 12039
+  kidneys: 20443
+  moneys: 25013
+  tourneys: 63895
+scored_words:
+  carneys: 225538
+  gurneys: 226038
+not_scored_words:
+- Cockneys
+- blarneys
+- cockneys
+- coneys
+- garganeys
+- hackneys
+- jitneys
+- spinneys

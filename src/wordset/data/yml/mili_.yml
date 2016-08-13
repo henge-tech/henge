@@ -1,0 +1,43 @@
+---
+pattern: mili_
+hi_scored_words_count: 13
+scored_words_count: 12
+total_words: 33
+score: 2906850
+score_per_word: 116274
+hi_scored_words:
+  milieu: 24495
+  militancy: 60333
+  militant: 16590
+  militants: 18174
+  militarily: 38652
+  militarism: 37605
+  militaristic: 64515
+  militarization: 81294
+  militarized: 96257
+  military: 699
+  militia: 10946
+  militiamen: 73729
+  militias: 36463
+scored_words:
+  milia: 146129
+  miliary: 149197
+  milieus: 212936
+  milit: 254254
+  militantly: 159491
+  militarist: 146159
+  militarists: 200663
+  militarize: 303236
+  militate: 100578
+  militated: 273376
+  militates: 142842
+  militiaman: 258237
+not_scored_words:
+- Milicent
+- miliaria
+- militance
+- militances
+- militarizes
+- militarizing
+- militating
+- milium

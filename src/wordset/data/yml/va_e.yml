@@ -1,0 +1,81 @@
+---
+pattern: va_e
+hi_scored_words_count: 26
+scored_words_count: 10
+total_words: 71
+score: 2384802
+score_per_word: 66244
+hi_scored_words:
+  vacate: 33068
+  vaccinate: 52851
+  vaccine: 9708
+  vacuole: 70183
+  vague: 7647
+  valance: 33861
+  vale: 9357
+  valence: 28405
+  valentine: 7785
+  validate: 15586
+  valine: 70536
+  valise: 80058
+  valse: 73757
+  valuable: 2444
+  value: 375
+  valve: 5971
+  vampire: 11709
+  vane: 27330
+  vantage: 17723
+  vaporize: 82926
+  variable: 4128
+  variance: 8547
+  varicose: 36208
+  vasculature: 81416
+  vase: 9265
+  vaudeville: 34167
+scored_words:
+  vacillate: 177409
+  vadose: 124237
+  valuate: 195396
+  vamoose: 213444
+  vanadate: 136808
+  vandalize: 138803
+  vaporware: 106048
+  variate: 102743
+  varicocele: 139152
+  vassalage: 235751
+not_scored_words:
+- Valarie
+- Valence
+- Valentine
+- Valerie
+- Valkyrie
+- Valvoline
+- Vance
+- Vandyke
+- Vane
+- Varese
+- Vaseline
+- Vaucluse
+- vagabondage
+- vaginae
+- vaginate
+- vaivode
+- valiance
+- valorize
+- valvate
+- valvule
+- vambrace
+- vanadinite
+- vape
+- vaporescence
+- variegate
+- variole
+- variolite
+- variscite
+- varitype
+- varve
+- vasectomize
+- vassalize
+- vastitude
+- vaticide
+- vaticinate

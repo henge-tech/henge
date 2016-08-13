@@ -1,0 +1,33 @@
+---
+pattern: _gee
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 23
+score: 1450493
+score_per_word: 96699
+hi_scored_words:
+  agee: 57657
+  apogee: 34008
+  bungee: 33958
+  gee: 12384
+  mortgagee: 43664
+  perigee: 62498
+  protegee: 73216
+  refugee: 12747
+  squeegee: 62610
+scored_words:
+  burgee: 175425
+  negligee: 101598
+  obligee: 124817
+  ogee: 107655
+  pledgee: 259069
+  pongee: 289187
+not_scored_words:
+- Agee
+- McGee
+- Murrumbidgee
+- Muskogee
+- Tuskegee
+- squilgee
+- thuggee
+- whangee

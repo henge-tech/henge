@@ -1,0 +1,40 @@
+---
+pattern: laun_
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 30
+score: 1711722
+score_per_word: 81510
+hi_scored_words:
+  launch: 3920
+  launched: 4186
+  launcher: 17348
+  launchers: 30288
+  launches: 12800
+  launching: 11809
+  launchpad: 58714
+  launder: 59516
+  laundered: 68717
+  laundering: 19489
+  laundress: 88413
+  laundries: 58795
+  laundromat: 40514
+  laundry: 8530
+scored_words:
+  launce: 133834
+  launderer: 279451
+  launderers: 166789
+  launderette: 119457
+  launderettes: 268734
+  laundromats: 149327
+  laundryman: 111091
+not_scored_words:
+- Launceston
+- Laundromat
+- launces
+- launchpads
+- launders
+- laundresses
+- laundrymen
+- laundrywoman
+- laundrywomen

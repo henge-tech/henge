@@ -1,0 +1,36 @@
+---
+pattern: mu_rs
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 26
+score: 1562608
+score_per_word: 91918
+hi_scored_words:
+  mufflers: 54280
+  multiplexers: 74308
+  multipliers: 42219
+  murderers: 22330
+  murders: 12561
+  murmurs: 46381
+  musketeers: 33761
+  mutters: 73531
+scored_words:
+  muckrakers: 231926
+  muggers: 119441
+  muleteers: 128512
+  multiprocessors: 116481
+  mummers: 110504
+  munchers: 105459
+  mushers: 151901
+  musters: 132558
+  mutineers: 106455
+not_scored_words:
+- Muensters
+- mucors
+- mudskippers
+- mudslingers
+- muleskinners
+- mumblers
+- murmurers
+- mutilators
+- mutterers

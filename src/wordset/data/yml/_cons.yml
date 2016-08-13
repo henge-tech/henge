@@ -1,0 +1,32 @@
+---
+pattern: _cons
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 22
+score: 775260
+score_per_word: 70478
+hi_scored_words:
+  beacons: 34623
+  cons: 13801
+  deacons: 31538
+  emoticons: 27597
+  falcons: 19136
+  icons: 4988
+  lexicons: 80557
+  neocons: 58689
+scored_words:
+  garcons: 103237
+  recons: 247586
+  zircons: 153508
+not_scored_words:
+- Cons
+- Rubicons
+- archdeacons
+- gerfalcons
+- gyrfalcons
+- helicons
+- orthicons
+- pantechnicons
+- racons
+- silicons
+- soupcons

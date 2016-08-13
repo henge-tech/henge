@@ -1,0 +1,32 @@
+---
+pattern: p_ged
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 22
+score: 1243422
+score_per_word: 73142
+hi_scored_words:
+  packaged: 10053
+  paged: 48496
+  pegged: 44807
+  pillaged: 87838
+  pinged: 88675
+  pledged: 12362
+  plugged: 20721
+  plunged: 17953
+  prearranged: 74468
+  prepackaged: 63477
+  privileged: 8766
+  prolonged: 8609
+  pronged: 47294
+  purged: 36277
+scored_words:
+  plumaged: 261996
+  prejudged: 266936
+  presaged: 144694
+not_scored_words:
+- pettifogged
+- pigged
+- ponged
+- portaged
+- pranged

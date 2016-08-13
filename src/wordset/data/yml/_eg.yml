@@ -1,0 +1,52 @@
+---
+pattern: _eg
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 42
+score: 2144600
+score_per_word: 102123
+hi_scored_words:
+  beg: 7084
+  blitzkrieg: 38994
+  bootleg: 25196
+  deg: 13736
+  keg: 26495
+  leg: 2533
+  meg: 10207
+  neg: 25203
+  nutmeg: 23654
+  peg: 10605
+  reg: 11121
+  veg: 21974
+scored_words:
+  blackleg: 142750
+  dogleg: 150095
+  dreg: 186672
+  foreleg: 165948
+  irreg: 212674
+  muskeg: 190218
+  skeg: 230945
+  teleg: 325719
+  thalweg: 322777
+not_scored_words:
+- EEG
+- Eg
+- Greg
+- Grieg
+- JPEG
+- MPEG
+- Meg
+- Oreg
+- Peg
+- Reg
+- Roeg
+- Scanderbeg
+- Tuareg
+- Winnipeg
+- bowleg
+- filibeg
+- jackleg
+- mumbletypeg
+- philibeg
+- proleg
+- unpeg

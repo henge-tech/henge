@@ -1,0 +1,37 @@
+---
+pattern: fi_ly
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 27
+score: 1082268
+score_per_word: 60126
+hi_scored_words:
+  fiddly: 95070
+  fiercely: 18826
+  figuratively: 38477
+  filly: 31263
+  finally: 943
+  financially: 13426
+  finely: 11987
+  finitely: 47774
+  firefly: 24576
+  firmly: 6241
+  firstly: 15200
+  fiscally: 50200
+  fittingly: 74661
+  fixedly: 83638
+scored_words:
+  fiendishly: 141782
+  fifthly: 174104
+  fitfully: 124848
+  fitly: 129252
+not_scored_words:
+- fickly
+- fictionally
+- fictitiously
+- fictively
+- fierily
+- filially
+- filmily
+- filthily
+- fishily

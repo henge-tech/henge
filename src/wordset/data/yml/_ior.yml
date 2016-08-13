@@ -1,0 +1,35 @@
+---
+pattern: _ior
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 25
+score: 318447
+score_per_word: 19902
+hi_scored_words:
+  anterior: 12105
+  behavior: 2971
+  excelsior: 30795
+  exterior: 6084
+  inferior: 8133
+  interior: 2331
+  junior: 3774
+  misbehavior: 55743
+  posterior: 13867
+  prior: 2128
+  savior: 16231
+  senior: 2621
+  superior: 2269
+  ulterior: 45472
+  warrior: 4891
+scored_words:
+  seignior: 109032
+not_scored_words:
+- Avior
+- Dior
+- Gwalior
+- Junior
+- Melchior
+- Prior
+- Savior
+- Senior
+- Superior

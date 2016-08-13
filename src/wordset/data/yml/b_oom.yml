@@ -1,0 +1,23 @@
+---
+pattern: b_oom
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 13
+score: 418382
+score_per_word: 38034
+hi_scored_words:
+  backroom: 44992
+  ballroom: 13574
+  barroom: 96512
+  bathroom: 6700
+  bedroom: 2554
+  bloom: 6412
+  boardroom: 25826
+  boom: 6244
+  bridegroom: 31809
+  broom: 15852
+scored_words:
+  broadloom: 167907
+not_scored_words:
+- Bloom
+- boxroom

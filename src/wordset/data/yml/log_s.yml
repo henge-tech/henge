@@ -1,0 +1,37 @@
+---
+pattern: log_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 27
+score: 1108459
+score_per_word: 85266
+hi_scored_words:
+  logarithms: 57950
+  logbooks: 99371
+  loggerheads: 80898
+  loggers: 40994
+  logins: 43950
+  logistics: 10298
+  logos: 13468
+  logs: 6139
+scored_words:
+  loges: 227741
+  logicians: 113928
+  logisticians: 205667
+  logons: 103583
+  logotypes: 104472
+not_scored_words:
+- Logos
+- loganberries
+- loganiaceous
+- loggias
+- logicalness
+- logicalnesses
+- loginess
+- loginesses
+- logjams
+- logoffs
+- logograms
+- logorrheas
+- logouts
+- logwoods

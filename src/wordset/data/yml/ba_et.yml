@@ -1,0 +1,27 @@
+---
+pattern: ba_et
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 758976
+score_per_word: 63248
+hi_scored_words:
+  backstreet: 19149
+  ballet: 9259
+  banquet: 7963
+  baronet: 43227
+  barret: 60371
+  basket: 2643
+  basset: 39920
+  bassinet: 52439
+  bayonet: 25022
+scored_words:
+  backset: 174618
+  barbet: 111521
+  bascinet: 212844
+not_scored_words:
+- Barnet
+- ballonet
+- banket
+- banneret
+- basinet

@@ -1,0 +1,40 @@
+---
+pattern: rib_
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 30
+score: 1165132
+score_per_word: 64729
+hi_scored_words:
+  rib: 14157
+  ribald: 87987
+  ribbed: 30101
+  ribbing: 61451
+  ribbon: 6374
+  ribbons: 13487
+  riboflavin: 50108
+  ribonuclease: 72675
+  ribonucleic: 83269
+  ribose: 57350
+  ribosomal: 27227
+  ribosome: 49110
+  ribosomes: 61628
+  ribs: 11989
+scored_words:
+  ribaldry: 125259
+  riband: 132977
+  ribands: 179718
+  ribcage: 100265
+not_scored_words:
+- Ribbentrop
+- Ribera
+- ribband
+- ribbands
+- ribber
+- ribbers
+- ribbings
+- ribbonfish
+- ribbonwood
+- riboses
+- ribwort
+- ribworts

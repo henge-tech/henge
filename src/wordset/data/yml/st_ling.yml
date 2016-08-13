@@ -1,0 +1,41 @@
+---
+pattern: st_ling
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 31
+score: 1565737
+score_per_word: 65239
+hi_scored_words:
+  stalling: 38625
+  stapling: 82357
+  starling: 35975
+  startling: 15600
+  stealing: 7890
+  sterling: 5202
+  stifling: 40381
+  stockpiling: 61823
+  storytelling: 15627
+  straddling: 59993
+  straggling: 91050
+  strangling: 62079
+  stripling: 80794
+  strolling: 33460
+  struggling: 5790
+  stumbling: 19427
+  styling: 21657
+scored_words:
+  stabling: 122374
+  starveling: 100406
+  steeling: 162668
+  stenciling: 104417
+  stilling: 107529
+  stippling: 186174
+  stonewalling: 104439
+not_scored_words:
+- Sterling
+- Stirling
+- staling
+- steamrolling
+- stickling
+- stoppling
+- strickling

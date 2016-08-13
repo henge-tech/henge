@@ -1,0 +1,45 @@
+---
+pattern: man_es
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 35
+score: 1636886
+score_per_word: 90938
+hi_scored_words:
+  manages: 10194
+  manatees: 67766
+  mandates: 20815
+  manes: 60569
+  mangoes: 61690
+  mangroves: 45502
+  manholes: 81065
+  manicures: 36330
+  manipulates: 57916
+  mantles: 72863
+  manufactures: 16068
+  manures: 85045
+scored_words:
+  manacles: 123888
+  mandibles: 114583
+  manganites: 269216
+  mangles: 143070
+  mantes: 194102
+  manufactories: 176204
+not_scored_words:
+- Mandes
+- Manes
+- Manizales
+- manageablenesses
+- manageresses
+- mandamuses
+- mandrakes
+- manducates
+- manfulnesses
+- manganates
+- manhandles
+- manipulabilities
+- manses
+- mantelpieces
+- mantelshelves
+- mantises
+- manyplies

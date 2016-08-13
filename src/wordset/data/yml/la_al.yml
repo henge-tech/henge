@@ -1,0 +1,30 @@
+---
+pattern: la_al
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 20
+score: 929601
+score_per_word: 92960
+hi_scored_words:
+  labial: 62646
+  lachrymal: 73590
+  lackadaisical: 97078
+  lacrimal: 68987
+  larval: 31908
+  laryngeal: 39888
+  lateral: 8814
+  latitudinal: 92316
+scored_words:
+  lactational: 304752
+  lacteal: 149622
+not_scored_words:
+- Laval
+- labiodental
+- labionasal
+- lacrymal
+- lacunal
+- lagoonal
+- laical
+- lamellirostral
+- laminal
+- lavatorial

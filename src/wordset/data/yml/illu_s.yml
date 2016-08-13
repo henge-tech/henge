@@ -1,0 +1,26 @@
+---
+pattern: illu_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 845279
+score_per_word: 76843
+hi_scored_words:
+  illuminates: 42635
+  illuminations: 43385
+  illus: 21558
+  illusions: 14553
+  illustrates: 9817
+  illustrations: 8103
+  illustrators: 32403
+  illustrious: 19914
+scored_words:
+  illuminants: 265752
+  illumines: 196662
+  illusionists: 190497
+not_scored_words:
+- illumes
+- illuminances
+- illusiveness
+- illusoriness
+- illustriousness

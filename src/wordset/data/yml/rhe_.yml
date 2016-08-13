@@ -1,0 +1,47 @@
+---
+pattern: rhe_
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 37
+score: 1987120
+score_per_word: 104585
+hi_scored_words:
+  rhea: 34048
+  rheological: 85087
+  rheology: 65426
+  rhesus: 41540
+  rhetoric: 9463
+  rhetorical: 18309
+  rhetorically: 79268
+  rheum: 55472
+  rheumatic: 28553
+  rheumatism: 32619
+  rheumatoid: 18854
+scored_words:
+  rhenium: 114685
+  rheometer: 210375
+  rheostat: 144118
+  rheostats: 267666
+  rhet: 156890
+  rhetor: 245588
+  rhetorician: 172848
+  rhetoricians: 206311
+not_scored_words:
+- Rhea
+- Rhee
+- Rheims
+- Rheingau
+- Rheinland
+- Rhenish
+- Rhetian
+- Rhetic
+- rheas
+- rheo
+- rheologies
+- rheostatic
+- rheotaxis
+- rheotropism
+- rhesuses
+- rheumatically
+- rheumatics
+- rheumy

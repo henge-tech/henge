@@ -1,0 +1,35 @@
+---
+pattern: ja_ed
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 25
+score: 1226990
+score_per_word: 87642
+hi_scored_words:
+  jacked: 39943
+  jacketed: 74645
+  jaded: 27565
+  jagged: 21897
+  jailed: 27373
+  jammed: 27128
+  jarred: 60088
+  jaundiced: 79743
+  jawed: 74950
+  jazzed: 92719
+scored_words:
+  jabbed: 112800
+  jangled: 225882
+  japanned: 170089
+  jaunted: 192168
+not_scored_words:
+- Janjaweed
+- Jared
+- Jarred
+- jabbered
+- jackbooted
+- jackknifed
+- jacklighted
+- jampacked
+- japed
+- jawboned
+- jaywalked

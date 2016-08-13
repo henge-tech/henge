@@ -1,0 +1,22 @@
+---
+pattern: lack_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 560046
+score_per_word: 62227
+hi_scored_words:
+  lack: 1651
+  lackadaisical: 97078
+  lacked: 11489
+  lackey: 34030
+  lackeys: 93800
+  lacking: 6840
+  lackluster: 41393
+  lacks: 10395
+scored_words:
+  lacker: 263370
+not_scored_words:
+- lackadaisically
+- lackadaisicalness
+- lackaday

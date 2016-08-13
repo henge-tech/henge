@@ -1,0 +1,42 @@
+---
+pattern: s_als
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 32
+score: 1207858
+score_per_word: 60392
+hi_scored_words:
+  sandals: 12033
+  scandals: 20110
+  seals: 8071
+  sectionals: 75170
+  semifinals: 26536
+  sepals: 79682
+  serials: 18947
+  shoals: 26068
+  signals: 5222
+  socials: 61995
+  specials: 5412
+  spirals: 40436
+  spirituals: 65533
+  squeals: 78162
+  steals: 14603
+  sundials: 76505
+scored_words:
+  sabbaticals: 145681
+  subtotals: 119679
+  supernaturals: 207425
+  survivals: 120588
+not_scored_words:
+- Shawwals
+- semiprofessionals
+- seneschals
+- servals
+- sesquicentennials
+- skoals
+- spinals
+- spousals
+- subprofessionals
+- supposals
+- surprisals
+- surrebuttals

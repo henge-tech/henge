@@ -1,0 +1,34 @@
+---
+pattern: exe_s
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 24
+score: 731069
+score_per_word: 45691
+hi_scored_words:
+  execs: 34525
+  executes: 28319
+  executioners: 75614
+  executions: 23247
+  executives: 16325
+  executors: 43162
+  exegesis: 45044
+  exemplars: 53916
+  exemplifies: 37497
+  exemptions: 21679
+  exempts: 62654
+  exercises: 4497
+  exertions: 46787
+  exerts: 41594
+  exes: 69062
+scored_words:
+  exercisers: 127147
+not_scored_words:
+- execrates
+- executants
+- executrices
+- exegeses
+- exegetics
+- exemplariness
+- exemplifications
+- exequies

@@ -1,0 +1,76 @@
+---
+pattern: ind_y
+hi_scored_words_count: 18
+scored_words_count: 16
+total_words: 66
+score: 3558506
+score_per_word: 104661
+hi_scored_words:
+  indecency: 52485
+  indefinitely: 14614
+  indelibly: 93074
+  indemnify: 30527
+  indemnity: 15713
+  independently: 6698
+  indeterminacy: 72029
+  indifferently: 78861
+  indignantly: 71599
+  indignity: 59317
+  indirectly: 7196
+  indiscriminately: 47969
+  indisputably: 78471
+  individuality: 17457
+  individually: 7535
+  inductively: 65033
+  industrially: 72392
+  industry: 927
+scored_words:
+  indecently: 161815
+  indefatigably: 203162
+  indelicacy: 165210
+  independency: 147628
+  indescribably: 118906
+  indigenously: 169173
+  indiscreetly: 166723
+  indispensability: 243953
+  indispensably: 244972
+  indissolubly: 218137
+  indistinctly: 141352
+  indivisibility: 172880
+  indolently: 180959
+  indubitably: 111933
+  indulgently: 172094
+  industriously: 147712
+not_scored_words:
+- Indy
+- indecipherability
+- indecipherably
+- indecisively
+- indecorously
+- indefatigability
+- indefeasibly
+- indefensibility
+- indefensibly
+- indefinability
+- indefinably
+- indelibility
+- indelicately
+- indestructibility
+- indestructibly
+- indeterminably
+- indeterminately
+- indicatively
+- indicatory
+- indictability
+- indigently
+- indigestibility
+- indigestibly
+- indiscernibly
+- indissolubility
+- indistinguishably
+- individualistically
+- indivisibly
+- indoctrinatory
+- indomitability
+- indomitably
+- indubitability

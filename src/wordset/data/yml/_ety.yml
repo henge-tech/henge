@@ -1,0 +1,49 @@
+---
+pattern: _ety
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 39
+score: 1956393
+score_per_word: 72459
+hi_scored_words:
+  anxiety: 3534
+  entirety: 16078
+  fidgety: 91371
+  gaiety: 46297
+  impiety: 81650
+  impropriety: 45989
+  moiety: 44312
+  ninety: 17632
+  notoriety: 32690
+  piety: 21063
+  propriety: 22701
+  rickety: 62869
+  safety: 909
+  satiety: 84232
+  sobriety: 28829
+  society: 489
+  subtlety: 29308
+  surety: 25139
+  variety: 1300
+  velvety: 45384
+scored_words:
+  antianxiety: 165190
+  contrariety: 220003
+  crotchety: 126937
+  naivety: 106579
+  nicety: 138571
+  persnickety: 240745
+  subvariety: 256592
+not_scored_words:
+- Society
+- dubiety
+- inebriety
+- insatiety
+- insobriety
+- nimiety
+- oversubtlety
+- rackety
+- russety
+- sleety
+- suety
+- ubiety

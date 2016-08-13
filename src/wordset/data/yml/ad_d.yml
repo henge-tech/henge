@@ -1,0 +1,52 @@
+---
+pattern: ad_d
+hi_scored_words_count: 29
+scored_words_count: 6
+total_words: 42
+score: 1764943
+score_per_word: 50426
+hi_scored_words:
+  adapted: 5186
+  add: 424
+  added: 457
+  addicted: 11051
+  addled: 78218
+  addressed: 2666
+  adduced: 47335
+  adhered: 21022
+  adjoined: 94102
+  adjourned: 17171
+  adjudged: 51394
+  adjudicated: 50197
+  adjusted: 10721
+  administered: 6157
+  administrated: 67372
+  admired: 12067
+  admitted: 3560
+  admonished: 50422
+  adopted: 2108
+  adored: 23715
+  adorned: 18714
+  adsorbed: 43657
+  adulterated: 69681
+  adulthood: 21062
+  advanced: 785
+  advantaged: 64363
+  advertised: 9910
+  advised: 4380
+  advocated: 15964
+scored_words:
+  addend: 220240
+  adenoid: 109778
+  adjured: 147312
+  admixed: 208012
+  adventured: 130405
+  adverted: 145335
+not_scored_words:
+- ADD
+- addlebrained
+- addlepated
+- adducted
+- admeasured
+- adulated
+- adumbrated

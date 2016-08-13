@@ -1,0 +1,58 @@
+---
+pattern: di_c
+hi_scored_words_count: 16
+scored_words_count: 11
+total_words: 48
+score: 2444536
+score_per_word: 90538
+hi_scored_words:
+  diabetic: 13854
+  diabolic: 47721
+  diagnostic: 16132
+  diagrammatic: 71667
+  dialectic: 35262
+  diaphragmatic: 81697
+  diastolic: 36833
+  diatonic: 62407
+  dichroic: 61110
+  didactic: 30765
+  dielectric: 21337
+  dietetic: 49251
+  dimorphic: 99523
+  diplomatic: 7671
+  disc: 5605
+  diuretic: 40298
+scored_words:
+  diachronic: 104444
+  diacritic: 158461
+  diamagnetic: 114414
+  diametric: 218717
+  diaphoretic: 261276
+  diatomic: 105105
+  dibasic: 123008
+  dichromatic: 160381
+  dioptric: 162991
+  dipsomaniac: 123732
+  dizygotic: 230874
+not_scored_words:
+- Dionysiac
+- Dirac
+- diacaustic
+- diactinic
+- dialytic
+- dianoetic
+- diarrheic
+- diathermic
+- dichromic
+- dicrotic
+- digastric
+- digraphic
+- dihydric
+- dimetric
+- dineric
+- diphtheric
+- diphtheritic
+- diploblastic
+- diplocardiac
+- disyllabic
+- dithyrambic

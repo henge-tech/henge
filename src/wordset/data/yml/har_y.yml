@@ -1,0 +1,33 @@
+---
+pattern: har_y
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 23
+score: 904852
+score_per_word: 82259
+hi_scored_words:
+  hardly: 3067
+  hardy: 7087
+  harmlessly: 93586
+  harmoniously: 61697
+  harmony: 4581
+  harpy: 69376
+  harry: 1493
+  harshly: 28749
+scored_words:
+  hardily: 206459
+  harmfully: 298357
+  harmonically: 130400
+not_scored_words:
+- Hardy
+- Haringey
+- Harley
+- Harpy
+- Harry
+- Hartley
+- Harvey
+- harassingly
+- hardheadedly
+- hardheartedly
+- harlotry
+- haruspicy

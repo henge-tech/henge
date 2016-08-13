@@ -1,0 +1,44 @@
+---
+pattern: gest_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 34
+score: 1706772
+score_per_word: 94820
+hi_scored_words:
+  gest: 67353
+  gestalt: 34738
+  gestapo: 45206
+  gestation: 31737
+  gestational: 34937
+  gesticulate: 96372
+  gesticulation: 78119
+  gestural: 95947
+  gesture: 8995
+  gestured: 69665
+  gestures: 16445
+  gesturing: 72430
+scored_words:
+  gestalten: 134860
+  gestate: 258075
+  gestating: 231367
+  gesticulated: 167192
+  gesticulating: 136748
+  gesticulations: 126586
+not_scored_words:
+- Gestalt
+- Gestalten
+- Gestapo
+- Gestapos
+- gestaltism
+- gestaltist
+- gestalts
+- gestapos
+- gestated
+- gestates
+- gestatory
+- gesticulates
+- gesticulative
+- gesticulator
+- gesticulatory
+- gesturer

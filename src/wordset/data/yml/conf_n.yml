@@ -1,0 +1,24 @@
+---
+pattern: conf_n
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 14
+score: 572506
+score_per_word: 44038
+hi_scored_words:
+  confection: 63372
+  confederation: 15507
+  confession: 9132
+  configuration: 8480
+  confirmation: 4536
+  confiscation: 31324
+  conflagration: 52426
+  conformation: 24200
+  confrontation: 16157
+  confusion: 4062
+  confutation: 83846
+scored_words:
+  confabulation: 154436
+  conflation: 105028
+not_scored_words:
+- Confucian

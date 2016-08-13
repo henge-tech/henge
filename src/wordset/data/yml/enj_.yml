@@ -1,0 +1,30 @@
+---
+pattern: enj_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 20
+score: 603239
+score_per_word: 50269
+hi_scored_words:
+  enjoin: 59040
+  enjoined: 43632
+  enjoining: 92697
+  enjoy: 1162
+  enjoyable: 9996
+  enjoyed: 2829
+  enjoying: 4963
+  enjoyment: 7126
+  enjoyments: 96608
+  enjoys: 8892
+scored_words:
+  enjoins: 111231
+  enjoyably: 165063
+not_scored_words:
+- enjambment
+- enjambments
+- enjoinder
+- enjoiner
+- enjoinment
+- enjoinments
+- enjoyer
+- enjoyers

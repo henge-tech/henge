@@ -1,0 +1,37 @@
+---
+pattern: c_ad
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 27
+score: 1075773
+score_per_word: 82751
+hi_scored_words:
+  cad: 11905
+  caseload: 45816
+  chad: 8156
+  clad: 11276
+  copperhead: 73754
+  cornbread: 47198
+  crackhead: 85757
+  crossroad: 48266
+scored_words:
+  carload: 115030
+  chiliad: 108053
+  crawdad: 209959
+  crosshead: 173326
+  cycad: 137277
+not_scored_words:
+- CAD
+- Canad
+- Carlsbad
+- Chad
+- Conrad
+- cabbagehead
+- cartload
+- cathead
+- caudad
+- cephalad
+- chucklehead
+- coachload
+- copyread
+- crispbread

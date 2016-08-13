@@ -1,0 +1,26 @@
+---
+pattern: _pse
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 16
+score: 541740
+score_per_word: 38695
+hi_scored_words:
+  apocalypse: 18429
+  apse: 58680
+  collapse: 6309
+  copse: 68138
+  corpse: 8971
+  eclipse: 7650
+  elapse: 51074
+  ellipse: 28917
+  glimpse: 8714
+  lapse: 14369
+  prolapse: 49697
+  relapse: 19854
+  synapse: 34148
+scored_words:
+  traipse: 166790
+not_scored_words:
+- Apocalypse
+- foreglimpse

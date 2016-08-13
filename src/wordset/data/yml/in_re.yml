@@ -1,0 +1,33 @@
+---
+pattern: in_re
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 23
+score: 911622
+score_per_word: 56976
+hi_scored_words:
+  indenture: 45690
+  infrastructure: 13482
+  injure: 21677
+  inquire: 7016
+  insecure: 16931
+  inshore: 43616
+  insincere: 52365
+  inspire: 8197
+  insure: 8575
+  interfere: 7136
+  intermixture: 64358
+  inure: 91433
+  investiture: 75323
+scored_words:
+  inhere: 143912
+  insectivore: 203118
+  involucre: 108793
+not_scored_words:
+- Indore
+- Indre
+- incisure
+- infare
+- insnare
+- insphere
+- intertexture

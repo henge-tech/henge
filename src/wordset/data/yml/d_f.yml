@@ -1,0 +1,33 @@
+---
+pattern: d_f
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 23
+score: 1120192
+score_per_word: 74679
+hi_scored_words:
+  dandruff: 39618
+  deaf: 6063
+  debrief: 69879
+  decaf: 39800
+  def: 2907
+  diff: 16139
+  disbelief: 22364
+  distaff: 86912
+  doff: 93251
+  duff: 15902
+  dwarf: 12548
+scored_words:
+  daff: 141821
+  disproof: 210052
+  dustproof: 239776
+  dyestuff: 123160
+not_scored_words:
+- Deaf
+- Dusseldorf
+- Düsseldorf
+- dampproof
+- decaff
+- demirelief
+- digestif
+- draff

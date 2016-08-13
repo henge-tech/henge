@@ -1,0 +1,28 @@
+---
+pattern: l_ated
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 18
+score: 788575
+score_per_word: 65714
+hi_scored_words:
+  laminated: 19936
+  lated: 53416
+  legislated: 56209
+  liberated: 18079
+  ligated: 79350
+  liquidated: 34463
+  litigated: 75404
+  located: 1147
+  lubricated: 45199
+scored_words:
+  lacerated: 124240
+  legitimated: 141358
+  levitated: 139774
+not_scored_words:
+- lactated
+- lapidated
+- librated
+- lucubrated
+- lustrated
+- luxuriated

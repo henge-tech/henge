@@ -1,0 +1,36 @@
+---
+pattern: rele_
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 26
+score: 2315944
+score_per_word: 92637
+hi_scored_words:
+  relearn: 98473
+  release: 750
+  released: 1790
+  releases: 8568
+  releasing: 10185
+  relegate: 79811
+  relegated: 28983
+  relegation: 43725
+  relent: 70360
+  relented: 71249
+  relentless: 16896
+  relentlessly: 31706
+  relevance: 9545
+  relevancy: 42895
+  relevant: 5817
+scored_words:
+  relearned: 283484
+  relearning: 140907
+  releasable: 131224
+  releaser: 135047
+  relegates: 181960
+  relegating: 122910
+  relenting: 173614
+  relentlessness: 292535
+  relents: 165798
+  relevantly: 167712
+not_scored_words:
+- relearns

@@ -1,0 +1,32 @@
+---
+pattern: in_ment
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 22
+score: 875305
+score_per_word: 54706
+hi_scored_words:
+  incitement: 52090
+  inclement: 40522
+  increment: 22474
+  indictment: 13860
+  inducement: 37385
+  infotainment: 67320
+  infringement: 7513
+  installment: 19423
+  instrument: 2565
+  integument: 98992
+  interment: 31021
+  internment: 36031
+  investment: 2931
+  involvement: 6578
+scored_words:
+  instatement: 246878
+  intendment: 189722
+not_scored_words:
+- instillment
+- interlacement
+- internement
+- intertwinement
+- inurement
+- inveiglement

@@ -1,0 +1,22 @@
+---
+pattern: _link
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 689624
+score_per_word: 68962
+hi_scored_words:
+  blink: 11582
+  clink: 49485
+  hotlink: 90943
+  hyperlink: 27016
+  interlink: 66319
+  link: 1893
+  slink: 54729
+  unlink: 70854
+scored_words:
+  bobolink: 154427
+  relink: 162376
+not_scored_words:
+- iceblink
+- snowblink

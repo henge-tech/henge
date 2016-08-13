@@ -1,0 +1,26 @@
+---
+pattern: g_ding
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 775317
+score_per_word: 64609
+hi_scored_words:
+  gelding: 43578
+  gilding: 60493
+  gliding: 18782
+  grading: 17541
+  grandstanding: 95962
+  grinding: 11496
+  grounding: 26751
+  guarding: 20376
+  guiding: 10113
+scored_words:
+  gadding: 140992
+  girding: 207992
+  goading: 121241
+not_scored_words:
+- Golding
+- garlanding
+- gasconading
+- glissading

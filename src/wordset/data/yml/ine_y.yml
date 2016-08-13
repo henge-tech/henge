@@ -1,0 +1,53 @@
+---
+pattern: ine_y
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 43
+score: 2954583
+score_per_word: 134299
+hi_scored_words:
+  inefficiency: 34769
+  ineligibility: 89284
+  inequality: 10411
+  inequity: 56943
+  inerrancy: 99512
+  inevitability: 49310
+  inevitably: 9392
+  inexorably: 49951
+  inexpensively: 54633
+  inexplicably: 50906
+  inextricably: 45148
+scored_words:
+  ineffably: 277316
+  ineffectively: 158402
+  ineffectually: 210313
+  inefficacy: 288859
+  inefficiently: 102834
+  inelasticity: 282417
+  ineluctably: 282788
+  ineptly: 241891
+  inescapably: 130419
+  inexcusably: 244805
+  inexpressibly: 184280
+not_scored_words:
+- inebriety
+- inedibility
+- inedibly
+- ineffability
+- ineffectuality
+- inelegancy
+- inelegantly
+- ineligibly
+- inequitably
+- ineradicably
+- inertly
+- inestimably
+- inexactly
+- inexhaustibility
+- inexhaustibly
+- inexorability
+- inexpediency
+- inexpertly
+- inexplicability
+- inexpressibility
+- inextricability

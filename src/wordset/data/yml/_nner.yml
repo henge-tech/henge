@@ -1,0 +1,53 @@
+---
+pattern: _nner
+hi_scored_words_count: 22
+scored_words_count: 8
+total_words: 43
+score: 1971267
+score_per_word: 65708
+hi_scored_words:
+  banner: 4384
+  beginner: 11791
+  breadwinner: 66331
+  canner: 89005
+  dinner: 1472
+  forerunner: 27995
+  gunner: 22951
+  inner: 2646
+  manner: 1420
+  planner: 10997
+  roadrunner: 35744
+  runner: 7682
+  scanner: 9334
+  sinner: 16150
+  skinner: 15604
+  spanner: 34044
+  spinner: 28381
+  stunner: 55092
+  tanner: 20021
+  tenner: 56622
+  thinner: 18897
+  winner: 5798
+scored_words:
+  baserunner: 264567
+  dunner: 123946
+  funner: 177520
+  grinner: 246601
+  lanner: 105857
+  prizewinner: 157891
+  tinner: 225856
+  wanner: 126668
+not_scored_words:
+- Bonner
+- Brenner
+- Brynner
+- Conner
+- Donner
+- Jenner
+- Skinner
+- Tanner
+- gunrunner
+- muleskinner
+- predinner
+- punner
+- rumrunner

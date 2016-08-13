@@ -1,0 +1,33 @@
+---
+pattern: mo_ty
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 23
+score: 567462
+score_per_word: 43650
+hi_scored_words:
+  mobility: 9836
+  modality: 28521
+  modernity: 28206
+  modesty: 20339
+  modularity: 52716
+  moiety: 44312
+  monotonicity: 83116
+  monstrosity: 61380
+  morality: 7349
+  morbidity: 20220
+  mortality: 6070
+  motility: 33228
+scored_words:
+  molarity: 172169
+not_scored_words:
+- Monty
+- Moriarty
+- molality
+- molecularity
+- monumentality
+- mordacity
+- moribundity
+- motivity
+- movability
+- moveability

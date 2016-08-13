@@ -1,0 +1,42 @@
+---
+pattern: wra_
+hi_scored_words_count: 19
+scored_words_count: 5
+total_words: 32
+score: 1807368
+score_per_word: 75307
+hi_scored_words:
+  wrack: 86250
+  wracked: 82235
+  wracking: 79614
+  wraith: 36040
+  wrangle: 62599
+  wrangler: 30189
+  wranglers: 65474
+  wrangling: 55913
+  wrap: 5799
+  wraparound: 54896
+  wrapped: 5416
+  wrapper: 15790
+  wrappers: 31046
+  wrapping: 9719
+  wrappings: 91636
+  wraps: 13967
+  wrasse: 71549
+  wrath: 8787
+  wrathful: 75886
+scored_words:
+  wraiths: 103999
+  wrangled: 179937
+  wrangles: 226898
+  wrasses: 258829
+  wrathfully: 154900
+not_scored_words:
+- WRAC
+- WRAF
+- Wrangell
+- wracks
+- wraithlike
+- wranglings
+- wraparounds
+- wrathfulness

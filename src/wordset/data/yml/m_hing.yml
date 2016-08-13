@@ -1,0 +1,23 @@
+---
+pattern: m_hing
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 13
+score: 1033370
+score_per_word: 86114
+hi_scored_words:
+  marching: 9193
+  mashing: 73298
+  matching: 7748
+  meshing: 70709
+  morphing: 47689
+  mouthing: 61458
+  mulching: 63475
+  munching: 48322
+scored_words:
+  mismatching: 171940
+  mooching: 203106
+  moshing: 159584
+  mushing: 116848
+not_scored_words:
+- mimeographing

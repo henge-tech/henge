@@ -1,0 +1,55 @@
+---
+pattern: inc_ly
+hi_scored_words_count: 10
+scored_words_count: 16
+total_words: 45
+score: 3563695
+score_per_word: 137065
+hi_scored_words:
+  incessantly: 38067
+  incidentally: 14542
+  incomparably: 96023
+  incompletely: 70266
+  inconsistently: 81340
+  incorrectly: 17785
+  increasingly: 6062
+  incredibly: 8123
+  incredulously: 88620
+  incrementally: 45447
+scored_words:
+  incalculably: 267395
+  incautiously: 122593
+  incisively: 290070
+  inclusively: 155010
+  incoherently: 109387
+  incompetently: 258751
+  incomprehensibly: 218087
+  inconceivably: 192268
+  incongruously: 198476
+  inconsiderately: 166294
+  inconspicuously: 165611
+  incontestably: 198400
+  incontinently: 136358
+  incontrovertibly: 284568
+  inconveniently: 149252
+  incurably: 184900
+not_scored_words:
+- incandescently
+- incapably
+- incestuously
+- inchoately
+- incipiently
+- inclemently
+- incombustibly
+- incommensurately
+- incompatibly
+- inconclusively
+- incongruently
+- inconsequentially
+- inconsiderably
+- inconsolably
+- inconstantly
+- incorporeally
+- incorrigibly
+- incorruptibly
+- incuriously

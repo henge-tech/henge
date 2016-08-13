@@ -1,0 +1,56 @@
+---
+pattern: appl_
+hi_scored_words_count: 25
+scored_words_count: 6
+total_words: 46
+score: 1415660
+score_per_word: 45666
+hi_scored_words:
+  applaud: 19734
+  applauded: 29591
+  applauding: 60141
+  applauds: 50866
+  applause: 10465
+  apple: 2074
+  apples: 9086
+  applesauce: 42624
+  applet: 15763
+  applets: 37370
+  appliance: 16094
+  appliances: 6605
+  applicability: 24139
+  applicable: 2361
+  applicant: 8073
+  applicants: 7985
+  application: 1080
+  applications: 3179
+  applicator: 38875
+  applicators: 57092
+  applied: 1371
+  applies: 3356
+  applique: 42060
+  apply: 1055
+  applying: 4596
+scored_words:
+  applecart: 132040
+  applejack: 107635
+  applicative: 135564
+  applier: 303992
+  appliqued: 138678
+  appliques: 102116
+not_scored_words:
+- Apple
+- Appleseed
+- Appleton
+- applaudable
+- applauder
+- applauders
+- applecarts
+- applicably
+- applicatory
+- appliers
+- appliqueing
+- appliqué
+- appliquéd
+- appliquéing
+- appliqués

@@ -1,0 +1,45 @@
+---
+pattern: hi_es
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 35
+score: 1494612
+score_per_word: 83034
+hi_scored_words:
+  hides: 18105
+  hierarchies: 27347
+  hikes: 22206
+  hillbillies: 52182
+  hillsides: 49305
+  hindrances: 74086
+  hinges: 18322
+  hippies: 33629
+  hires: 23534
+  hisses: 91692
+  histones: 79798
+  histories: 9364
+  hitches: 49296
+  hives: 26254
+scored_words:
+  hibernates: 274672
+  hies: 162798
+  histamines: 247662
+  histiocytes: 234360
+not_scored_words:
+- Hines
+- Hippocrates
+- Hippomenes
+- Hittites
+- hiatuses
+- hibiscuses
+- hickories
+- hiddenites
+- hidroses
+- higgles
+- hinnies
+- hipbones
+- hippodromes
+- hippopotamuses
+- histaminases
+- histidines
+- hitchhikes

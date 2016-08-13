@@ -1,0 +1,30 @@
+---
+pattern: _rthy
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 20
+score: 1143591
+score_per_word: 76239
+hi_scored_words:
+  earthy: 32937
+  newsworthy: 47052
+  noteworthy: 14417
+  praiseworthy: 51172
+  seaworthy: 86132
+  swarthy: 68210
+  trustworthy: 16156
+  unseaworthy: 92585
+  untrustworthy: 56761
+  unworthy: 22592
+  worthy: 4042
+scored_words:
+  airworthy: 184397
+  blameworthy: 122439
+  creditworthy: 164303
+  roadworthy: 180396
+not_scored_words:
+- Dorthy
+- Galsworthy
+- Horthy
+- McCarthy
+- unnewsworthy

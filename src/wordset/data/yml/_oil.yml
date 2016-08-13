@@ -1,0 +1,48 @@
+---
+pattern: _oil
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 38
+score: 2252307
+score_per_word: 90092
+hi_scored_words:
+  airfoil: 59513
+  boil: 9495
+  broil: 39923
+  coil: 8424
+  foil: 10983
+  oil: 1069
+  recoil: 22512
+  soil: 1969
+  spoil: 11856
+  subsoil: 64087
+  tinfoil: 54754
+  toil: 25708
+  topsoil: 46524
+  trefoil: 60855
+  turmoil: 15917
+scored_words:
+  charbroil: 206113
+  cinquefoil: 141819
+  despoil: 188023
+  embroil: 185133
+  hydrofoil: 106855
+  moil: 219891
+  noil: 292633
+  parafoil: 233550
+  roil: 123630
+  uncoil: 121071
+not_scored_words:
+- Pennzoil
+- assoil
+- counterfoil
+- disembroil
+- entoil
+- garboil
+- gumboil
+- multifoil
+- octofoil
+- parboil
+- preboil
+- quatrefoil
+- reboil

@@ -1,0 +1,25 @@
+---
+pattern: blot_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 897162
+score_per_word: 81560
+hi_scored_words:
+  blot: 19430
+  blotch: 77010
+  blotches: 83876
+  blotchy: 99073
+  blots: 49524
+  blotted: 64459
+  blotter: 39259
+  blotting: 38488
+scored_words:
+  blotched: 110196
+  blotters: 141584
+  blotto: 174263
+not_scored_words:
+- blotchier
+- blotchiest
+- blotchiness
+- blotching

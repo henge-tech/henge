@@ -1,0 +1,42 @@
+---
+pattern: _rder
+hi_scored_words_count: 21
+scored_words_count: 5
+total_words: 32
+score: 1740292
+score_per_word: 66934
+hi_scored_words:
+  boarder: 31698
+  border: 2633
+  camcorder: 13419
+  carder: 83533
+  corder: 81098
+  disorder: 3951
+  forwarder: 69478
+  girder: 46306
+  harder: 4178
+  herder: 44724
+  larder: 45124
+  murder: 2485
+  order: 166
+  recorder: 11112
+  reorder: 41314
+  sheepherder: 84730
+  skateboarder: 76887
+  snowboarder: 65223
+  suborder: 56276
+  warder: 60423
+  weirder: 64630
+scored_words:
+  birder: 110394
+  guarder: 216134
+  hoarder: 207472
+  retarder: 117849
+  superorder: 199055
+not_scored_words:
+- Herder
+- absurder
+- awkwarder
+- bodyboarder
+- keyboarder
+- sailboarder

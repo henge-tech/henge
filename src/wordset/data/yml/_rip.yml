@@ -1,0 +1,26 @@
+---
+pattern: _rip
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 16
+score: 624746
+score_per_word: 48057
+hi_scored_words:
+  airstrip: 45663
+  cantrip: 93065
+  drip: 16390
+  filmstrip: 55300
+  grip: 5341
+  outstrip: 72172
+  rip: 8744
+  roundtrip: 56152
+  scrip: 41727
+  strip: 3529
+  trip: 1603
+  weatherstrip: 71392
+scored_words:
+  handgrip: 153668
+not_scored_words:
+- RIP
+- atrip
+- hairgrip

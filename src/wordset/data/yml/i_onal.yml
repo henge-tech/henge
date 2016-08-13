@@ -1,0 +1,42 @@
+---
+pattern: i_onal
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 32
+score: 1660477
+score_per_word: 87393
+hi_scored_words:
+  impersonal: 27602
+  improvisational: 56099
+  informational: 7954
+  inspirational: 9394
+  institutional: 11322
+  instructional: 6193
+  intentional: 14455
+  interdenominational: 96115
+  international: 1038
+  interpersonal: 12878
+  invitational: 17259
+  irrational: 15777
+scored_words:
+  ideational: 136035
+  inflectional: 108273
+  intensional: 116323
+  interpretational: 274708
+  intonational: 208874
+  intuitional: 299614
+  isochronal: 240564
+not_scored_words:
+- International
+- illusional
+- illustrational
+- implicational
+- incantational
+- innovational
+- inquisitional
+- inscriptional
+- intercessional
+- interjectional
+- interrogational
+- involutional
+- irrigational

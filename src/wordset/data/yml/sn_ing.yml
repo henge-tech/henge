@@ -1,0 +1,50 @@
+---
+pattern: sn_ing
+hi_scored_words_count: 21
+scored_words_count: 12
+total_words: 40
+score: 2833217
+score_per_word: 85855
+hi_scored_words:
+  snacking: 60818
+  snagging: 80211
+  snaking: 93023
+  snapping: 26013
+  snarling: 55130
+  snatching: 38873
+  sneaking: 29609
+  sneering: 73352
+  sneezing: 39420
+  sniffing: 26046
+  sniping: 46564
+  snooping: 35905
+  snoring: 22511
+  snorkeling: 28764
+  snorting: 32550
+  snowballing: 83837
+  snowboarding: 13932
+  snowing: 38253
+  snowmobiling: 51953
+  snowshoeing: 56490
+  snuggling: 71988
+scored_words:
+  snaring: 159009
+  snickering: 109124
+  sniffling: 140217
+  sniggering: 190657
+  snipping: 145048
+  snitching: 186367
+  sniveling: 119510
+  snogging: 115324
+  snoozing: 107132
+  snubbing: 147552
+  snuffing: 176922
+  snuffling: 231113
+not_scored_words:
+- snaffling
+- snailing
+- snarfing
+- snicking
+- snookering
+- snowplowing
+- snugging

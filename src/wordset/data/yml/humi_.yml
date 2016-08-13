@@ -1,0 +1,33 @@
+---
+pattern: humi_
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 23
+score: 1755340
+score_per_word: 92386
+hi_scored_words:
+  humic: 65564
+  humid: 19167
+  humidifier: 43849
+  humidifiers: 73616
+  humidity: 11095
+  humidor: 55551
+  humiliate: 41417
+  humiliated: 29501
+  humiliating: 22127
+  humiliation: 9283
+  humiliations: 99711
+  humility: 13843
+scored_words:
+  humidification: 107858
+  humidified: 148019
+  humidify: 330710
+  humidifying: 252319
+  humidistat: 142817
+  humidors: 115583
+  humiliates: 173310
+not_scored_words:
+- Humism
+- humidifies
+- humidly
+- humiliatingly

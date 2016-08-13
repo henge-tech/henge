@@ -1,0 +1,74 @@
+---
+pattern: sa_t
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 64
+score: 2266940
+score_per_word: 83960
+hi_scored_words:
+  sabot: 70110
+  sachet: 59781
+  sacrament: 20054
+  sacrosanct: 73141
+  saddest: 37369
+  sadist: 65031
+  safest: 18573
+  sailboat: 28708
+  saint: 1999
+  salient: 21032
+  salt: 1962
+  samizdat: 83377
+  sapient: 79692
+  sat: 4591
+  satanist: 74927
+  satirist: 70158
+  sauerkraut: 50150
+  savant: 37304
+  sawdust: 35300
+  saxophonist: 45479
+scored_words:
+  safelight: 244025
+  sallet: 174910
+  sandblast: 147037
+  sandlot: 101242
+  sandpit: 127836
+  sanest: 261284
+  savviest: 331868
+not_scored_words:
+- SALT
+- SAT
+- Sabbat
+- Sacrament
+- Sadat
+- Sallust
+- Salyut
+- Samoset
+- Sandhurst
+- Sanskrit
+- Sanskritist
+- Sargent
+- Sat
+- Satanist
+- sackbut
+- sacramentalist
+- sacrist
+- sadomasochist
+- sagest
+- saggiest
+- saintliest
+- sallowest
+- saltant
+- saltest
+- saltiest
+- saltwort
+- sandiest
+- sanguinolent
+- sappiest
+- sarcenet
+- sarsenet
+- sassiest
+- satinet
+- saturant
+- sauciest
+- savagest
+- savoriest

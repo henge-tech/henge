@@ -1,0 +1,31 @@
+---
+pattern: pla_n
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 1343754
+score_per_word: 103365
+hi_scored_words:
+  plain: 1782
+  plan: 440
+  plankton: 32286
+  plantain: 45173
+  plantation: 8272
+  platen: 58188
+  platoon: 20089
+  playpen: 59584
+scored_words:
+  placation: 232881
+  placentation: 300515
+  plainsman: 164866
+  plainspoken: 312274
+  plasmin: 107404
+not_scored_words:
+- Plauen
+- PlayStation
+- placeman
+- placemen
+- plainclothesman
+- plainclothesmen
+- plainsmen
+- planarian

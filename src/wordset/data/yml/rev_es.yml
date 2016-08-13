@@ -1,0 +1,29 @@
+---
+pattern: rev_es
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 19
+score: 1402443
+score_per_word: 93496
+hi_scored_words:
+  revenues: 5078
+  reveries: 87254
+  reverses: 31565
+  revises: 53048
+  revives: 56307
+  revolutionaries: 39554
+  revolves: 29399
+  revues: 80044
+scored_words:
+  revenges: 111365
+  reverberates: 139456
+  reverences: 172157
+  reveres: 184777
+  revitalizes: 168436
+  revokes: 100427
+  revolutionizes: 143576
+not_scored_words:
+- revalues
+- revelries
+- reviles
+- revivifies

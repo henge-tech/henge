@@ -1,0 +1,32 @@
+---
+pattern: s_pped
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 22
+score: 872514
+score_per_word: 48473
+hi_scored_words:
+  scrapped: 26585
+  shipped: 4771
+  shopped: 28152
+  sipped: 56172
+  skipped: 15832
+  slapped: 22130
+  slipped: 8115
+  snapped: 12982
+  snipped: 70180
+  stepped: 5845
+  stopped: 2077
+  strapped: 23696
+  stripped: 9457
+  supped: 98727
+  swapped: 28398
+scored_words:
+  sapped: 101712
+  sidestepped: 123956
+  slopped: 233727
+not_scored_words:
+- schlepped
+- sharecropped
+- sopped
+- stropped

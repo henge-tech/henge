@@ -1,0 +1,27 @@
+---
+pattern: ho_k
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 1155884
+score_per_word: 88914
+hi_scored_words:
+  hock: 37344
+  hollyhock: 95377
+  homesick: 35259
+  homework: 8378
+  honk: 37972
+  hook: 4514
+  horseback: 12100
+  hotlink: 90943
+  housework: 31150
+scored_words:
+  hogback: 238944
+  holdback: 167352
+  hoodwink: 132964
+  hornbook: 263587
+not_scored_words:
+- hoick
+- hopsack
+- housebreak
+- houseleek

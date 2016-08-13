@@ -1,0 +1,24 @@
+---
+pattern: mid_n
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 14
+score: 466388
+score_per_word: 58298
+hi_scored_words:
+  midbrain: 70329
+  midden: 65391
+  middleman: 45613
+  middlemen: 62694
+  midsection: 86898
+  midshipman: 69139
+  midshipmen: 49518
+  midtown: 16806
+scored_words: {}
+not_scored_words:
+- Middleton
+- Mideastern
+- Midian
+- Midlothian
+- Midwestern
+- midiron

@@ -1,0 +1,51 @@
+---
+pattern: grap_
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 41
+score: 2128404
+score_per_word: 78829
+hi_scored_words:
+  grape: 10281
+  grapefruit: 21712
+  grapes: 10118
+  grapevine: 23828
+  graph: 9666
+  graphed: 93267
+  graphic: 5017
+  graphical: 11652
+  graphically: 26325
+  graphics: 5610
+  graphing: 33124
+  graphite: 24601
+  graphs: 8106
+  grappa: 75876
+  grapple: 28872
+  grappled: 78779
+  grapples: 84589
+  grappling: 34611
+scored_words:
+  grapefruits: 158846
+  grapevines: 106571
+  grapheme: 182823
+  graphemes: 258433
+  graphitic: 227614
+  graphology: 114866
+  grapnel: 218106
+  grappler: 104675
+  grapplers: 170436
+not_scored_words:
+- Graphophone
+- grapery
+- grapeshot
+- graphemics
+- graphicness
+- graphitize
+- graphological
+- graphologist
+- graphologists
+- graphomotor
+- grapnels
+- grappas
+- grapplings
+- graptolite

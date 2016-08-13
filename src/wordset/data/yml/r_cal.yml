@@ -1,0 +1,21 @@
+---
+pattern: r_cal
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 436745
+score_per_word: 48527
+hi_scored_words:
+  rabbinical: 59250
+  radical: 5369
+  radiological: 25762
+  rascal: 14268
+  reciprocal: 11825
+  rheological: 85087
+  rhetorical: 18309
+  rhythmical: 68177
+scored_words:
+  radiochemical: 148698
+not_scored_words:
+- rhapsodical
+- rubrical

@@ -1,0 +1,38 @@
+---
+pattern: clos_
+hi_scored_words_count: 20
+scored_words_count: 2
+total_words: 28
+score: 892134
+score_per_word: 40551
+hi_scored_words:
+  clos: 43549
+  close: 368
+  closed: 1151
+  closely: 2552
+  closeness: 33528
+  closeout: 49912
+  closer: 2806
+  closers: 67135
+  closes: 7566
+  closest: 6741
+  closet: 7011
+  closeted: 62873
+  closets: 27576
+  closeup: 32739
+  closeups: 55347
+  closing: 3043
+  closings: 33368
+  clostridium: 45513
+  closure: 13418
+  closures: 17082
+scored_words:
+  closable: 269077
+  closeouts: 109779
+not_scored_words:
+- Closure
+- closefisted
+- closefitting
+- closemouthed
+- closeting
+- clostridiums

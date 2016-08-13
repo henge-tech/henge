@@ -1,0 +1,47 @@
+---
+pattern: _sors
+hi_scored_words_count: 26
+scored_words_count: 9
+total_words: 37
+score: 2740844
+score_per_word: 78309
+hi_scored_words:
+  advisors: 8467
+  aggressors: 70526
+  assessors: 37452
+  biosensors: 83086
+  censors: 41222
+  compressors: 26217
+  cosponsors: 53752
+  cursors: 49441
+  divisors: 75288
+  incisors: 82207
+  lessors: 82040
+  microprocessors: 35098
+  oppressors: 55040
+  possessors: 88849
+  precursors: 31871
+  predecessors: 18582
+  processors: 6596
+  professors: 11416
+  scissors: 12071
+  sensors: 6658
+  sponsors: 11810
+  successors: 17126
+  supervisors: 18192
+  suppressors: 55704
+  tensors: 70917
+  visors: 47950
+scored_words:
+  confessors: 129954
+  coprocessors: 272114
+  depressors: 229060
+  extensors: 181948
+  franchisors: 135610
+  improvisors: 303561
+  intercessors: 170809
+  multiprocessors: 116481
+  transgressors: 103729
+not_scored_words:
+- Windsors
+- suspensors

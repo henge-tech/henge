@@ -1,0 +1,38 @@
+---
+pattern: _aic
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 28
+score: 874436
+score_per_word: 79494
+hi_scored_words:
+  algebraic: 22479
+  archaic: 22405
+  formulaic: 58444
+  mosaic: 11616
+  photovoltaic: 33659
+  prosaic: 51587
+  trochaic: 77029
+  voltaic: 82574
+scored_words:
+  deltaic: 151793
+  laic: 107922
+  pharisaic: 254928
+not_scored_words:
+- Alcaic
+- Altaic
+- Aramaic
+- Cyrenaic
+- Hebraic
+- Judaic
+- Mosaic
+- Pharisaic
+- Ptolemaic
+- Romaic
+- alcaic
+- apotropaic
+- choleraic
+- lipocaic
+- paradisaic
+- spondaic
+- stanzaic

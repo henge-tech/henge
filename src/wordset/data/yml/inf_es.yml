@@ -1,0 +1,33 @@
+---
+pattern: inf_es
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 23
+score: 1582089
+score_per_word: 98880
+hi_scored_words:
+  inferences: 24125
+  infiltrates: 71274
+  infirmities: 66516
+  inflatables: 56633
+  inflates: 89133
+  influences: 5660
+  infrastructures: 22773
+  infringes: 59452
+  infuses: 94892
+scored_words:
+  infamies: 219926
+  infidelities: 140483
+  infinities: 118748
+  infinitives: 109252
+  inflames: 151761
+  influxes: 227787
+  infuriates: 123674
+not_scored_words:
+- infanticides
+- infantries
+- infatuates
+- infelicities
+- infinitenesses
+- infirmaries
+- infixes

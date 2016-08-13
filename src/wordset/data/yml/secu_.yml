@@ -1,0 +1,37 @@
+---
+pattern: secu_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 27
+score: 1128800
+score_per_word: 70550
+hi_scored_words:
+  secular: 8688
+  secularism: 39059
+  secularists: 95246
+  secularization: 87170
+  secure: 1178
+  secured: 3545
+  securely: 9458
+  secures: 23775
+  securing: 7228
+  securities: 4878
+  security: 859
+scored_words:
+  secularist: 107485
+  secularity: 266050
+  secularized: 129015
+  securement: 127329
+  securer: 217837
+not_scored_words:
+- Secunderabad
+- secularistic
+- secularize
+- secularizer
+- secularizes
+- secularizing
+- secularly
+- secund
+- secundine
+- secundines
+- securest

@@ -1,0 +1,31 @@
+---
+pattern: muta_
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 21
+score: 885721
+score_per_word: 59048
+hi_scored_words:
+  mutable: 46748
+  mutagen: 89011
+  mutagenesis: 42679
+  mutagenic: 63758
+  mutagens: 95866
+  mutant: 12840
+  mutants: 15995
+  mutate: 59108
+  mutated: 32676
+  mutating: 83700
+  mutation: 16876
+  mutational: 77401
+  mutations: 17713
+scored_words:
+  mutability: 116402
+  mutates: 114948
+not_scored_words:
+- Mutazilite
+- mutableness
+- mutablenesses
+- mutably
+- mutationally
+- mutative

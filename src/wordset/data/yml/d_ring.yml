@@ -1,0 +1,50 @@
+---
+pattern: d_ring
+hi_scored_words_count: 19
+scored_words_count: 10
+total_words: 40
+score: 2925241
+score_per_word: 100870
+hi_scored_words:
+  daring: 10709
+  deciphering: 57007
+  declaring: 10757
+  deferring: 60013
+  delivering: 6482
+  denaturing: 97366
+  desiring: 19528
+  despairing: 50257
+  deterring: 62324
+  devouring: 44202
+  diapering: 81652
+  differing: 12357
+  disappearing: 17685
+  discovering: 8813
+  dithering: 67452
+  doctoring: 70172
+  domineering: 58832
+  drawstring: 49323
+  during: 208
+scored_words:
+  dayspring: 145182
+  debarring: 295737
+  deflowering: 260126
+  deploring: 146174
+  discoloring: 283073
+  disfiguring: 114814
+  dishonoring: 219004
+  dismembering: 209883
+  disordering: 278690
+  doddering: 187419
+not_scored_words:
+- demurring
+- detouring
+- dickering
+- dinnering
+- disbarring
+- disencumbering
+- disfavoring
+- disinterring
+- dissevering
+- dogearing
+- dowering

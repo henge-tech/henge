@@ -1,0 +1,22 @@
+---
+pattern: cri_y
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 516254
+score_per_word: 57361
+hi_scored_words:
+  crikey: 54050
+  criminality: 43401
+  criminally: 46448
+  criminology: 24357
+  crisply: 96766
+  crispy: 24836
+  criticality: 45216
+  critically: 11007
+scored_words:
+  crinkly: 170173
+not_scored_words:
+- criminologically
+- crimpy
+- cripplingly

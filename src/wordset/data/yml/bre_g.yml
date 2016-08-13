@@ -1,0 +1,26 @@
+---
+pattern: bre_g
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1225642
+score_per_word: 94280
+hi_scored_words:
+  breaching: 42869
+  breaking: 1772
+  breastfeeding: 13895
+  breathing: 5212
+  breathtaking: 19057
+  breeding: 5931
+  bremsstrahlung: 98731
+  brewing: 13522
+scored_words:
+  breading: 122896
+  breakfasting: 227635
+  breasting: 188102
+  breeching: 313865
+  breezing: 172155
+not_scored_words:
+- breathalyzing
+- brecciating
+- brevetting

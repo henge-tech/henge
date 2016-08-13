@@ -1,0 +1,64 @@
+---
+pattern: ta_g
+hi_scored_words_count: 29
+scored_words_count: 10
+total_words: 54
+score: 2862468
+score_per_word: 73396
+hi_scored_words:
+  tabbing: 95528
+  tabling: 68602
+  tabulating: 98918
+  tacking: 57497
+  tackling: 22582
+  tag: 6148
+  tagging: 14192
+  tailgating: 43855
+  tailing: 59872
+  tailoring: 34428
+  taking: 546
+  talking: 1060
+  tallying: 83692
+  taming: 37079
+  tampering: 33684
+  tang: 16013
+  tanking: 87291
+  tanning: 16188
+  tantalizing: 46967
+  tapering: 41207
+  taping: 25458
+  tapping: 14498
+  targeting: 8181
+  tasking: 39772
+  tasting: 11686
+  tatting: 85253
+  tattooing: 42202
+  taunting: 45774
+  taxing: 21788
+scored_words:
+  tainting: 126935
+  tamping: 125628
+  tangling: 106258
+  tarnishing: 101426
+  tarring: 153180
+  tarrying: 250341
+  tattling: 283714
+  tautog: 294116
+  taxiing: 103081
+  taxpaying: 157828
+not_scored_words:
+- Tagalog
+- Taichung
+- Taiping
+- Tannenberg
+- tabooing
+- talebearing
+- tallyhoing
+- tangoing
+- taring
+- tarmacking
+- tarting
+- tasering
+- tasseling
+- tattering
+- tautening

@@ -1,0 +1,24 @@
+---
+pattern: oppr_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 14
+score: 943615
+score_per_word: 78634
+hi_scored_words:
+  oppress: 42541
+  oppressed: 14546
+  oppresses: 95297
+  oppressing: 70948
+  oppression: 11366
+  oppressive: 19103
+  oppressor: 51022
+  oppressors: 55040
+scored_words:
+  oppressions: 115560
+  oppressively: 174765
+  opprobrious: 183795
+  opprobrium: 109632
+not_scored_words:
+- oppressiveness
+- opprobriously

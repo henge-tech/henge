@@ -1,0 +1,53 @@
+---
+pattern: war_s
+hi_scored_words_count: 23
+scored_words_count: 7
+total_words: 43
+score: 1906767
+score_per_word: 63558
+hi_scored_words:
+  warblers: 56752
+  wardens: 39070
+  wardrobes: 42590
+  wards: 14091
+  warehouses: 18963
+  wares: 17446
+  warheads: 35621
+  wariness: 96432
+  warlocks: 70427
+  warlords: 35544
+  warmers: 33388
+  warms: 34059
+  warnings: 7221
+  warns: 14104
+  warplanes: 71927
+  warps: 76996
+  warranties: 7681
+  warrants: 13570
+  warrens: 97050
+  warriors: 5308
+  wars: 2307
+  warships: 33996
+  warts: 27230
+scored_words:
+  warbles: 150481
+  warders: 116782
+  warmness: 289550
+  warmongers: 118058
+  warmups: 122253
+  warrantees: 112298
+  warthogs: 145572
+not_scored_words:
+- warbonnets
+- wardress
+- wardresses
+- wardrooms
+- warehousers
+- warfarins
+- warhorses
+- warless
+- warmheartedness
+- warpaths
+- warrantors
+- warreners
+- warrigals

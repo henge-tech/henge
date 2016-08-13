@@ -1,0 +1,57 @@
+---
+pattern: bill_
+hi_scored_words_count: 24
+scored_words_count: 9
+total_words: 47
+score: 2481351
+score_per_word: 75192
+hi_scored_words:
+  bill: 740
+  billable: 64425
+  billabong: 38449
+  billboard: 11390
+  billboards: 27966
+  billed: 11634
+  billet: 23224
+  billets: 46710
+  billfold: 76328
+  billiard: 20922
+  billiards: 17956
+  billing: 6008
+  billings: 18709
+  billingsgate: 83242
+  billion: 2663
+  billionaire: 29583
+  billionaires: 45265
+  billions: 13612
+  billionth: 90513
+  billow: 91646
+  billowing: 77983
+  billows: 77874
+  bills: 3112
+  billy: 3155
+scored_words:
+  billeted: 154320
+  billeting: 136128
+  billfish: 127929
+  billies: 168227
+  billionths: 277609
+  billon: 159502
+  billowed: 184911
+  billowy: 170346
+  billycock: 219270
+not_scored_words:
+- Bill
+- Billie
+- Billings
+- Billiton
+- Billy
+- billbug
+- billfolds
+- billhead
+- billhook
+- billhooks
+- billposter
+- billposters
+- billycan
+- billycans

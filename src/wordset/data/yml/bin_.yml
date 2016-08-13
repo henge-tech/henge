@@ -1,0 +1,60 @@
+---
+pattern: bin_
+hi_scored_words_count: 21
+scored_words_count: 10
+total_words: 50
+score: 2593670
+score_per_word: 83666
+hi_scored_words:
+  bin: 2626
+  binaries: 25793
+  binary: 4615
+  binational: 93189
+  binaural: 61226
+  bind: 6268
+  binder: 22060
+  binders: 25713
+  bindery: 73847
+  binding: 3477
+  bindings: 23236
+  binds: 15472
+  bine: 93735
+  binge: 25570
+  bingo: 18911
+  binned: 80029
+  binning: 64719
+  binocular: 26970
+  binoculars: 14089
+  binomial: 32612
+  bins: 21536
+scored_words:
+  binal: 320135
+  bindweed: 115737
+  bines: 179157
+  bingeing: 177646
+  binger: 154093
+  binges: 126441
+  binging: 156296
+  bingle: 193488
+  binnacle: 130964
+  binomials: 304020
+not_scored_words:
+- Bingen
+- Bingham
+- Bini
+- binate
+- binaurally
+- binderies
+- bindle
+- binged
+- binghi
+- bingles
+- binman
+- binmen
+- binnacles
+- binocularly
+- binomially
+- binominal
+- binturong
+- binturongs
+- binucleate

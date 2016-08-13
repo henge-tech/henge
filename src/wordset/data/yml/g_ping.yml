@@ -1,0 +1,27 @@
+---
+pattern: g_ping
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 17
+score: 748174
+score_per_word: 62347
+hi_scored_words:
+  galloping: 38064
+  gaping: 20516
+  gasping: 33305
+  goalkeeping: 75565
+  gossiping: 52259
+  grasping: 20451
+  griping: 87222
+  gripping: 20486
+  groping: 47619
+  grouping: 14494
+  gulping: 74093
+scored_words:
+  grepping: 264100
+not_scored_words:
+- gawping
+- gazumping
+- gimping
+- goosestepping
+- gypping

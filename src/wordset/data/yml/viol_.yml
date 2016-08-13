@@ -1,0 +1,45 @@
+---
+pattern: viol_
+hi_scored_words_count: 21
+scored_words_count: 3
+total_words: 35
+score: 965061
+score_per_word: 40210
+hi_scored_words:
+  viol: 51326
+  viola: 15045
+  violas: 77355
+  violate: 10303
+  violated: 9039
+  violates: 13977
+  violating: 14969
+  violation: 4799
+  violations: 9621
+  violator: 53251
+  violators: 40574
+  violence: 1845
+  violent: 3226
+  violently: 15105
+  violet: 8577
+  violets: 29811
+  violin: 7127
+  violinist: 29225
+  violinists: 88118
+  violins: 30687
+  violoncello: 52809
+scored_words:
+  violative: 106056
+  violist: 124544
+  viols: 167672
+not_scored_words:
+- Viola
+- Violet
+- violable
+- violaceous
+- violincello
+- violincellos
+- violists
+- violoncellist
+- violoncellists
+- violoncellos
+- violone

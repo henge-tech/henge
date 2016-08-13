@@ -1,0 +1,27 @@
+---
+pattern: _ami
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 508019
+score_per_word: 56446
+hi_scored_words:
+  ami: 14563
+  kami: 39655
+  origami: 30686
+  pastrami: 87483
+  salami: 41107
+  swami: 24918
+  tatami: 74312
+  tsunami: 13127
+scored_words:
+  gourami: 182168
+not_scored_words:
+- Aegospotami
+- Izanami
+- Jami
+- Miami
+- Tami
+- hypothalami
+- kirigami
+- thalami

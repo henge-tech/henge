@@ -1,0 +1,47 @@
+---
+pattern: f_ce
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 37
+score: 1255251
+score_per_word: 54576
+hi_scored_words:
+  face: 384
+  farce: 21147
+  fence: 5064
+  fiance: 28517
+  fierce: 7980
+  finance: 3254
+  fireplace: 7608
+  flatulence: 50477
+  fleece: 12187
+  fluorescence: 16713
+  forbearance: 35421
+  force: 523
+  fourpence: 83316
+  fragrance: 7117
+  freelance: 12042
+  frontispiece: 49076
+  furnace: 9657
+  furtherance: 35570
+scored_words:
+  faience: 106711
+  flamboyance: 181692
+  flounce: 119206
+  fluoresce: 140787
+  fraudulence: 320802
+not_scored_words:
+- Felice
+- Florence
+- France
+- faïence
+- feculence
+- fieldpiece
+- flagrance
+- flocculence
+- florescence
+- footpace
+- footrace
+- forbiddance
+- fortalice
+- frondescence

@@ -1,0 +1,27 @@
+---
+pattern: thou_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 17
+score: 861529
+score_per_word: 53845
+hi_scored_words:
+  thou: 2603
+  though: 323
+  thought: 346
+  thoughtful: 8778
+  thoughtfully: 23933
+  thoughtfulness: 51749
+  thoughtless: 39489
+  thoughts: 1182
+  thousand: 1828
+  thousands: 1544
+  thousandth: 58557
+scored_words:
+  thoughtlessly: 121766
+  thoughtlessness: 117111
+  thous: 109914
+  thousandfold: 210898
+  thousandths: 111508
+not_scored_words:
+- Thousand

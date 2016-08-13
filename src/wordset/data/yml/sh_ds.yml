@@ -1,0 +1,32 @@
+---
+pattern: sh_ds
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 22
+score: 1530851
+score_per_word: 109346
+hi_scored_words:
+  shadowlands: 99189
+  shards: 39613
+  sheds: 15926
+  shepherds: 18022
+  shields: 9784
+  shipyards: 51095
+  shorebirds: 71131
+  shreds: 37603
+  shrouds: 68075
+scored_words:
+  shads: 306919
+  sherds: 116469
+  shitheads: 232551
+  shorthands: 341593
+  showgrounds: 122881
+not_scored_words:
+- Shetlands
+- Shields
+- sheepfolds
+- sheepsheads
+- shipboards
+- shiploads
+- shovelheads
+- shuffleboards

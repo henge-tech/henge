@@ -1,0 +1,47 @@
+---
+pattern: f_ring
+hi_scored_words_count: 25
+scored_words_count: 5
+total_words: 37
+score: 1864426
+score_per_word: 62147
+hi_scored_words:
+  factoring: 23792
+  fairing: 51399
+  faltering: 53211
+  faring: 58965
+  fathering: 60869
+  favoring: 31343
+  fearing: 18592
+  feathering: 85984
+  featuring: 2781
+  festering: 68865
+  figuring: 18662
+  filtering: 11452
+  fingering: 13425
+  firing: 6510
+  flaring: 47088
+  flattering: 20851
+  flavoring: 48524
+  flickering: 27458
+  flooring: 12684
+  floundering: 66781
+  flowering: 12359
+  fluttering: 42469
+  fostering: 17711
+  fracturing: 61675
+  furthering: 36025
+scored_words:
+  filibustering: 116694
+  flouring: 308579
+  forbearing: 164185
+  foundering: 158098
+  furring: 217395
+not_scored_words:
+- fettering
+- flittering
+- flustering
+- foregathering
+- forgathering
+- forswearing
+- frittering

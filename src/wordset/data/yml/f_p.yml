@@ -1,0 +1,35 @@
+---
+pattern: f_p
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 25
+score: 1242068
+score_per_word: 62103
+hi_scored_words:
+  fellowship: 9187
+  fillip: 95298
+  filmstrip: 55300
+  fingertip: 47334
+  flagship: 16767
+  flap: 12529
+  flip: 13679
+  flop: 19105
+  followup: 17618
+  foolscap: 78888
+  footstep: 72211
+  fop: 37432
+  fp: 12991
+  friendship: 4009
+  ftp: 7121
+scored_words:
+  firetrap: 124954
+  flattop: 122554
+  flytrap: 131632
+  frap: 111972
+  frump: 251487
+not_scored_words:
+- FTP
+- firedamp
+- flareup
+- flump
+- foretop

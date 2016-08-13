@@ -1,0 +1,25 @@
+---
+pattern: gee_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 701070
+score_per_word: 70107
+hi_scored_words:
+  gee: 12384
+  geek: 10979
+  geeks: 15139
+  geeky: 26528
+  gees: 28286
+  geese: 15706
+  geezer: 41837
+  geezers: 97440
+scored_words:
+  geekier: 332422
+  geest: 120349
+not_scored_words:
+- Geelong
+- Geez
+- geed
+- geeing
+- geekiest

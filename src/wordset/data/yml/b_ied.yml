@@ -1,0 +1,27 @@
+---
+pattern: b_ied
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 17
+score: 2097798
+score_per_word: 131112
+hi_scored_words:
+  bandied: 86368
+  belied: 68758
+  bellied: 36505
+  bloodied: 69507
+  bodied: 29080
+  bullied: 34940
+  buried: 3904
+  busied: 77694
+scored_words:
+  babied: 242410
+  beatified: 151391
+  beautified: 132927
+  berried: 306417
+  biopsied: 170929
+  birdied: 140223
+  brandied: 281844
+  butterflied: 264901
+not_scored_words:
+- boogied

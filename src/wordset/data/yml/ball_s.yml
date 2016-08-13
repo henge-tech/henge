@@ -1,0 +1,34 @@
+---
+pattern: ball_s
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 24
+score: 1268429
+score_per_word: 90602
+hi_scored_words:
+  ballads: 20269
+  ballasts: 65337
+  ballerinas: 92072
+  ballets: 48812
+  ballistics: 46454
+  balloons: 13129
+  ballots: 17889
+  ballparks: 75153
+  ballplayers: 97264
+  ballrooms: 90500
+  balls: 3580
+scored_words:
+  ballades: 225075
+  ballgames: 234593
+  ballocks: 238302
+not_scored_words:
+- balladeers
+- ballcocks
+- balletomanes
+- ballgirls
+- ballgowns
+- balloonists
+- ballpoints
+- ballses
+- ballyhoos
+- ballyrags

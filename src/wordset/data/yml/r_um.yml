@@ -1,0 +1,31 @@
+---
+pattern: r_um
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 21
+score: 771342
+score_per_word: 59334
+hi_scored_words:
+  radium: 33345
+  rectum: 29632
+  referendum: 16804
+  reticulum: 37590
+  rheum: 55472
+  rhizobium: 93046
+  rhodium: 38005
+  rostrum: 77349
+  rubidium: 73838
+  rum: 13917
+  ruthenium: 63834
+scored_words:
+  residuum: 123825
+  rhenium: 114685
+not_scored_words:
+- Reticulum
+- radiothorium
+- ramentum
+- responsum
+- rhinarium
+- rosarium
+- rostellum
+- rutherfordium

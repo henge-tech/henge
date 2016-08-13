@@ -1,0 +1,40 @@
+---
+pattern: dem_d
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 30
+score: 2018372
+score_per_word: 100918
+hi_scored_words:
+  demand: 1315
+  demanded: 6269
+  demarcated: 83444
+  demented: 31838
+  demigod: 78322
+  demilitarized: 95012
+  demolished: 16965
+  demonstrated: 10405
+  demoralized: 67588
+  demoted: 53008
+  demystified: 96705
+scored_words:
+  dematerialized: 298659
+  demeaned: 145731
+  demised: 133327
+  demobilized: 117213
+  democratized: 186976
+  demodulated: 221208
+  demoed: 159630
+  demonized: 100341
+  demurred: 114416
+not_scored_words:
+- Demavend
+- demagnetized
+- demantoid
+- demisted
+- demobbed
+- demonetized
+- demotivated
+- demounted
+- demulsified
+- demythologized

@@ -1,0 +1,51 @@
+---
+pattern: deg_
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 41
+score: 2697552
+score_per_word: 99909
+hi_scored_words:
+  deg: 13736
+  degas: 46467
+  degeneracy: 56553
+  degenerate: 20522
+  degenerated: 53129
+  degenerates: 76239
+  degenerating: 94791
+  degeneration: 19743
+  degenerative: 30069
+  degradable: 99229
+  degradation: 8635
+  degrade: 22429
+  degraded: 22375
+  degrades: 48733
+  degrading: 21409
+  degree: 826
+  degrees: 1834
+scored_words:
+  degassed: 239374
+  degassing: 115177
+  degauss: 207221
+  degaussing: 162359
+  degeneracies: 257414
+  deglutition: 142018
+  degradability: 242228
+  degradations: 159376
+  degradative: 213277
+  degrease: 322389
+not_scored_words:
+- DeGeneres
+- Degas
+- degage
+- degases
+- degaussed
+- degausser
+- degausses
+- degenerately
+- degenerateness
+- deglutinate
+- deglutitions
+- degrader
+- degression
+- degust

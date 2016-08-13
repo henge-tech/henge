@@ -1,0 +1,20 @@
+---
+pattern: file_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 210815
+score_per_word: 26351
+hi_scored_words:
+  file: 601
+  filed: 2676
+  filename: 11206
+  filenames: 40125
+  filer: 47549
+  filers: 71979
+  files: 1161
+  filet: 35518
+scored_words: {}
+not_scored_words:
+- fileable
+- filefish

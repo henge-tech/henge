@@ -1,0 +1,27 @@
+---
+pattern: del_d
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 17
+score: 460438
+score_per_word: 38369
+hi_scored_words:
+  delayed: 4805
+  delegated: 17475
+  deleted: 7614
+  deliberated: 70459
+  delighted: 6135
+  delimited: 34166
+  delineated: 34681
+  delivered: 1912
+  deltoid: 69668
+  deluded: 39328
+  deluged: 94823
+  delved: 79372
+scored_words: {}
+not_scored_words:
+- deleveraged
+- delimitated
+- delinted
+- deliquesced
+- deloused

@@ -1,0 +1,35 @@
+---
+pattern: _ady
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 25
+score: 836881
+score_per_word: 59777
+hi_scored_words:
+  already: 319
+  beady: 83254
+  heady: 35506
+  lady: 1213
+  landlady: 47099
+  malady: 49066
+  milady: 60308
+  ready: 598
+  shady: 11446
+  steady: 3977
+  toady: 92578
+  unsteady: 34666
+scored_words:
+  saleslady: 274884
+  unready: 141967
+not_scored_words:
+- Arcady
+- Brady
+- EverReady
+- Grady
+- Lady
+- Limavady
+- Macready
+- Schenectady
+- charlady
+- forelady
+- thready

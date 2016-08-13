@@ -1,0 +1,69 @@
+---
+pattern: _xed
+hi_scored_words_count: 24
+scored_words_count: 18
+total_words: 59
+score: 3820722
+score_per_word: 90969
+hi_scored_words:
+  affixed: 28254
+  annexed: 22973
+  axed: 57758
+  boxed: 13644
+  coaxed: 66206
+  faxed: 33882
+  fixed: 1107
+  flexed: 58539
+  indexed: 6757
+  intermixed: 77251
+  maxed: 52165
+  mixed: 2054
+  multiplexed: 57434
+  perplexed: 26353
+  prefixed: 34092
+  relaxed: 7311
+  remixed: 31135
+  sexed: 60981
+  taxed: 16183
+  transfixed: 67870
+  unmixed: 68193
+  untaxed: 99186
+  vexed: 36135
+  waxed: 28963
+scored_words:
+  admixed: 208012
+  climaxed: 106178
+  coxed: 164016
+  desexed: 320637
+  flummoxed: 153260
+  foxed: 134624
+  hexed: 195189
+  jinxed: 114509
+  nixed: 111405
+  outfoxed: 126623
+  oversexed: 158637
+  overtaxed: 133184
+  premixed: 103760
+  refluxed: 251191
+  suffixed: 139646
+  unfixed: 117982
+  unsexed: 156504
+  xeroxed: 170939
+not_scored_words:
+- basifixed
+- bollixed
+- commixed
+- deflexed
+- detoxed
+- fluxed
+- hoaxed
+- immixed
+- infixed
+- inflexed
+- pickaxed
+- poleaxed
+- shadowboxed
+- surtaxed
+- telexed
+- tippexed
+- undersexed

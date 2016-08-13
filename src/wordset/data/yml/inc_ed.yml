@@ -1,0 +1,33 @@
+---
+pattern: inc_ed
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 23
+score: 1174686
+score_per_word: 61825
+hi_scored_words:
+  incapacitated: 39727
+  incarcerated: 32386
+  incensed: 53586
+  inched: 89268
+  incinerated: 73841
+  incised: 59392
+  incited: 64867
+  inclined: 7630
+  included: 865
+  inconvenienced: 81134
+  incorporated: 4979
+  increased: 1150
+  incremented: 55966
+  incubated: 28170
+  inculcated: 92204
+  incurred: 15695
+scored_words:
+  incarnated: 101979
+  incommoded: 182746
+  incriminated: 189101
+not_scored_words:
+- Incorporated
+- incarnadined
+- inced
+- inculpated

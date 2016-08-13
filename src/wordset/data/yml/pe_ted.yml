@@ -1,0 +1,32 @@
+---
+pattern: pe_ted
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 22
+score: 1058346
+score_per_word: 66146
+hi_scored_words:
+  pelted: 83402
+  penetrated: 17800
+  perfected: 21903
+  perforated: 23286
+  permeated: 53311
+  permitted: 2715
+  perpetrated: 27248
+  perpetuated: 46860
+  persecuted: 24302
+  persisted: 17837
+  perverted: 20769
+  petted: 67228
+scored_words:
+  pelleted: 129175
+  percolated: 189757
+  permuted: 142990
+  personated: 189763
+not_scored_words:
+- peculated
+- pedimented
+- perambulated
+- peregrinated
+- perennated
+- perorated

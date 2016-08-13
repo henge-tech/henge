@@ -1,0 +1,46 @@
+---
+pattern: mo_ers
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 36
+score: 2229536
+score_per_word: 96936
+hi_scored_words:
+  mobsters: 67286
+  modelers: 73782
+  modifiers: 28910
+  moisturizers: 60807
+  molesters: 68007
+  mongers: 66599
+  monolayers: 69149
+  monomers: 49801
+  monsters: 7580
+  motherfuckers: 53777
+  mothers: 4295
+  mountaineers: 30088
+  mourners: 47427
+  movers: 22568
+  moviegoers: 77791
+  mowers: 39575
+scored_words:
+  moaners: 277790
+  mockers: 261577
+  molders: 118277
+  moneychangers: 281537
+  moneylenders: 155477
+  moneymakers: 210020
+  monikers: 157416
+not_scored_words:
+- mobilizers
+- modernizers
+- moisteners
+- molters
+- moneygrubbers
+- monopolizers
+- moochers
+- moonlighters
+- moonshiners
+- mopers
+- moralizers
+- mounters
+- mousers

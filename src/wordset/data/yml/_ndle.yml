@@ -1,0 +1,29 @@
+---
+pattern: _ndle
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 19
+score: 997847
+score_per_word: 66523
+hi_scored_words:
+  brindle: 63604
+  bundle: 5659
+  candle: 4582
+  dwindle: 58737
+  fondle: 65962
+  handle: 1881
+  kindle: 39322
+  panhandle: 30991
+  rekindle: 53676
+  rundle: 74207
+  spindle: 16974
+  swindle: 42892
+  trundle: 44941
+scored_words:
+  manhandle: 184743
+  mishandle: 309676
+not_scored_words:
+- bindle
+- dandle
+- enkindle
+- rehandle

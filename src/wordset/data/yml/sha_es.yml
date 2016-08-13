@@ -1,0 +1,30 @@
+---
+pattern: sha_es
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 20
+score: 492450
+score_per_word: 49245
+hi_scored_words:
+  shackles: 31568
+  shades: 6645
+  shakes: 14836
+  shambles: 34737
+  shames: 81619
+  shanties: 96526
+  shapes: 5662
+  shares: 3409
+  shaves: 59777
+scored_words:
+  sharpies: 157671
+not_scored_words:
+- Shawnees
+- shadberries
+- shadbushes
+- shadowboxes
+- shadowinesses
+- shakoes
+- shamefacednesses
+- shammies
+- shandies
+- shannies

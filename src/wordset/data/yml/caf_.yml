@@ -1,0 +1,25 @@
+---
+pattern: caf_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 664212
+score_per_word: 60382
+hi_scored_words:
+  cafe: 5788
+  cafes: 18141
+  cafeteria: 17553
+  cafeterias: 70621
+  caff: 80584
+  caffeinated: 66750
+  caffeine: 15075
+  café: 14871
+  cafés: 54435
+scored_words:
+  cafetiere: 196129
+  caftan: 124265
+not_scored_words:
+- cafard
+- cafetieres
+- caffs
+- caftans

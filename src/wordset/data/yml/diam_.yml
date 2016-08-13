@@ -1,0 +1,30 @@
+---
+pattern: diam_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 797570
+score_per_word: 61351
+hi_scored_words:
+  diam: 32970
+  diamante: 39041
+  diameter: 4370
+  diameters: 33839
+  diametrically: 53350
+  diamine: 91273
+  diamond: 2778
+  diamondback: 53417
+  diamondbacks: 26805
+  diamonds: 4753
+scored_words:
+  diamagnetic: 114414
+  diamagnetism: 121843
+  diametric: 218717
+not_scored_words:
+- diamagnet
+- diamagnetisms
+- diamagnets
+- diamanté
+- diametral
+- diametrical
+- diamines

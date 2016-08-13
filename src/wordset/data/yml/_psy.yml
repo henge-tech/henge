@@ -1,0 +1,22 @@
+---
+pattern: _psy
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 520590
+score_per_word: 57843
+hi_scored_words:
+  autopsy: 24466
+  biopsy: 19725
+  dropsy: 84336
+  epilepsy: 16764
+  gypsy: 13654
+  narcolepsy: 57270
+  necropsy: 73698
+  tipsy: 36807
+scored_words:
+  catalepsy: 193870
+not_scored_words:
+- Gypsy
+- Topsy
+- nympholepsy

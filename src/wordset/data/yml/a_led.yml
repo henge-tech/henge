@@ -1,0 +1,29 @@
+---
+pattern: a_led
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 808090
+score_per_word: 67340
+hi_scored_words:
+  addled: 78218
+  angled: 30996
+  annealed: 57367
+  annulled: 55799
+  appalled: 24738
+  appealed: 10239
+  assailed: 52187
+  assembled: 5856
+  availed: 55708
+scored_words:
+  ailed: 160681
+  ambled: 123118
+  articled: 153183
+not_scored_words:
+- abseiled
+- airmailed
+- aneled
+- appareled
+- assoiled
+- auricled
+- automobiled

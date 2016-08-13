@@ -1,0 +1,51 @@
+---
+pattern: _rges
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 41
+score: 2377271
+score_per_word: 99052
+hi_scored_words:
+  barges: 33526
+  charges: 2109
+  converges: 38345
+  discharges: 16834
+  diverges: 74912
+  emerges: 17325
+  enlarges: 65664
+  forges: 56741
+  gorges: 36299
+  merges: 39416
+  purges: 68736
+  recharges: 81182
+  surcharges: 49316
+  surges: 32137
+  urges: 12003
+  verges: 76278
+scored_words:
+  concierges: 173397
+  dirges: 199017
+  larges: 159118
+  overcharges: 123263
+  sarges: 313851
+  scourges: 129463
+  submerges: 279536
+  supercharges: 298803
+not_scored_words:
+- Asperges
+- Boanerges
+- Borges
+- Bourges
+- Georges
+- demiurges
+- disgorges
+- engorges
+- gurges
+- marges
+- reemerges
+- reforges
+- regorges
+- splurges
+- turbocharges
+- undercharges
+- upsurges

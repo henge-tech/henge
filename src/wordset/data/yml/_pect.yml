@@ -1,0 +1,21 @@
+---
+pattern: _pect
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 11
+score: 263075
+score_per_word: 26307
+hi_scored_words:
+  aspect: 2775
+  circumspect: 67918
+  disrespect: 23919
+  expect: 1264
+  inspect: 10758
+  prospect: 4656
+  respect: 926
+  retrospect: 20759
+  suspect: 3627
+scored_words:
+  introspect: 126473
+not_scored_words:
+- reinspect

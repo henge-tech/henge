@@ -1,0 +1,39 @@
+---
+pattern: m_ters
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 29
+score: 1419599
+score_per_word: 74715
+hi_scored_words:
+  marketers: 16271
+  masters: 2959
+  matters: 1483
+  meters: 6756
+  microcomputers: 57137
+  micrometers: 70588
+  milliliters: 85876
+  millimeters: 31520
+  ministers: 4645
+  mobsters: 67286
+  molesters: 68007
+  monsters: 7580
+  mutters: 73531
+scored_words:
+  magnetometers: 146628
+  manometers: 192333
+  maters: 170529
+  minicomputers: 129018
+  misters: 154894
+  musters: 132558
+not_scored_words:
+- Masters
+- Muensters
+- manumitters
+- milometers
+- minsters
+- minters
+- miters
+- molters
+- moonlighters
+- mounters

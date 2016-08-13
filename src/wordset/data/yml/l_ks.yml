@@ -1,0 +1,34 @@
+---
+pattern: l_ks
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 24
+score: 1684661
+score_per_word: 84233
+hi_scored_words:
+  lacks: 10395
+  landmarks: 15861
+  larks: 69944
+  leaks: 18724
+  leeks: 52277
+  licks: 24745
+  limericks: 73019
+  links: 644
+  lipsticks: 63801
+  locks: 6209
+  logbooks: 99371
+  looks: 945
+  lumberjacks: 64186
+  lurks: 47807
+scored_words:
+  leasebacks: 246801
+  leatherbacks: 253626
+  leathernecks: 112073
+  leks: 187787
+  lifeworks: 183036
+  lucks: 153410
+not_scored_words:
+- latticeworks
+- laughingstocks
+- leafstalks
+- littlenecks

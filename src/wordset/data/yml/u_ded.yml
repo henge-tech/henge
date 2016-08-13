@@ -1,0 +1,65 @@
+---
+pattern: u_ded
+hi_scored_words_count: 26
+scored_words_count: 20
+total_words: 55
+score: 4652330
+score_per_word: 101137
+hi_scored_words:
+  unaided: 43303
+  unattended: 23394
+  unbounded: 34088
+  unbranded: 42606
+  undecided: 20247
+  underfunded: 64183
+  underhanded: 87142
+  undivided: 29614
+  unexploded: 69048
+  unfolded: 28070
+  unfounded: 27849
+  unfriended: 94119
+  unfunded: 44057
+  ungraded: 74306
+  unguarded: 62002
+  unguided: 93819
+  unheeded: 78345
+  unimpeded: 63716
+  unintended: 22984
+  unleaded: 35959
+  unloaded: 30486
+  unneeded: 46029
+  unrecorded: 65755
+  unshielded: 87911
+  upgraded: 8212
+  uploaded: 12426
+scored_words:
+  unamended: 193653
+  unclouded: 168324
+  uncrowded: 129865
+  undefended: 117714
+  undergirded: 305069
+  unexpanded: 198219
+  unexpended: 106087
+  ungrounded: 111070
+  unheralded: 114938
+  unpersuaded: 283671
+  unprovided: 213997
+  unregarded: 163069
+  unrewarded: 163818
+  unrounded: 141694
+  unseeded: 102461
+  unshaded: 191405
+  untended: 203822
+  unwounded: 125842
+  upbraided: 185913
+  upended: 142029
+not_scored_words:
+- unbraided
+- uncompounded
+- uncomprehended
+- unconcluded
+- unhanded
+- unmended
+- unmolded
+- unoffended
+- unrecommended

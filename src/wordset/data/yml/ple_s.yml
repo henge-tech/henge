@@ -1,0 +1,52 @@
+---
+pattern: ple_s
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 42
+score: 2619920
+score_per_word: 124758
+hi_scored_words:
+  pleadings: 38461
+  pleads: 27515
+  pleas: 22662
+  pleasantries: 95213
+  pleases: 26374
+  pleasures: 8973
+  pleats: 66138
+  pledges: 18083
+  plexiglass: 74715
+  plexus: 28664
+scored_words:
+  pleasantness: 121174
+  plebeians: 135247
+  plebes: 258151
+  plebiscites: 261624
+  plebs: 139154
+  plectrums: 302509
+  plenaries: 152876
+  plenipotentiaries: 142630
+  plenteous: 177020
+  plenums: 263422
+  plexuses: 259315
+not_scored_words:
+- Pleiades
+- Plexiglas
+- Plexiglases
+- Plexiglass
+- pleaches
+- pleaders
+- pleasances
+- pleasings
+- plectognaths
+- plectrons
+- plenitudes
+- plentifulness
+- plentifulnesses
+- pleochroisms
+- pleomorphisms
+- pleonasms
+- pleopods
+- plesiosaurs
+- plesiosaurus
+- pleurodynias
+- plexors

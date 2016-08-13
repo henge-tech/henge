@@ -1,0 +1,27 @@
+---
+pattern: res_nt
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 17
+score: 667076
+score_per_word: 41692
+hi_scored_words:
+  resent: 16236
+  resentment: 15748
+  resettlement: 28376
+  resident: 4158
+  resilient: 22677
+  resistant: 14908
+  resonant: 22594
+  resplendent: 50856
+  respondent: 14673
+  restatement: 44923
+  restaurant: 5141
+  restraint: 9731
+  resultant: 20033
+  resurgent: 71261
+scored_words:
+  resolvent: 164867
+  ressentiment: 160894
+not_scored_words:
+- reshipment

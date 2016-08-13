@@ -1,0 +1,50 @@
+---
+pattern: _eak
+hi_scored_words_count: 21
+scored_words_count: 9
+total_words: 40
+score: 1802779
+score_per_word: 60092
+hi_scored_words:
+  beak: 23390
+  bleak: 16630
+  break: 897
+  creak: 56026
+  daybreak: 25772
+  freak: 9725
+  grosbeak: 85431
+  heartbreak: 25519
+  jailbreak: 82954
+  leak: 9454
+  outbreak: 14419
+  peak: 4427
+  sneak: 12228
+  speak: 1125
+  squeak: 23130
+  steak: 9804
+  streak: 9614
+  teak: 28882
+  tweak: 18508
+  weak: 2523
+  wreak: 37225
+scored_words:
+  beefsteak: 108855
+  bespeak: 144436
+  doublespeak: 123527
+  firebreak: 204875
+  hairstreak: 120893
+  newspeak: 105486
+  pipsqueak: 172147
+  tiebreak: 193249
+  windbreak: 131628
+not_scored_words:
+- apeak
+- forepeak
+- forespeak
+- halfbeak
+- housebreak
+- misspeak
+- outspeak
+- screak
+- stickybeak
+- sunbreak

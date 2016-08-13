@@ -1,0 +1,27 @@
+---
+pattern: m_els
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 974505
+score_per_word: 81208
+hi_scored_words:
+  mantels: 91492
+  marvels: 38102
+  megapixels: 30236
+  minstrels: 66305
+  models: 5146
+  morsels: 65049
+  motels: 16432
+  mussels: 30248
+scored_words:
+  mandrels: 174510
+  marcels: 204924
+  mongrels: 134021
+  morels: 118040
+not_scored_words:
+- mackerels
+- mislabels
+- mispickels
+- muscadels
+- muscatels

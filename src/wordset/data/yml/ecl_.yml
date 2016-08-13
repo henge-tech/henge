@@ -1,0 +1,30 @@
+---
+pattern: ecl_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 20
+score: 1899820
+score_per_word: 118738
+hi_scored_words:
+  eclampsia: 64082
+  eclat: 72932
+  eclectic: 20261
+  eclecticism: 90514
+  eclipse: 7650
+  eclipsed: 44093
+  eclipses: 44421
+  eclipsing: 70181
+  ecliptic: 55544
+  eclogue: 65759
+scored_words:
+  eclair: 106483
+  eclairs: 186565
+  eclectically: 331345
+  eclogite: 250779
+  eclogues: 182738
+  eclosion: 306473
+not_scored_words:
+- Eclectic
+- eclaircissement
+- eclampsias
+- eclectics

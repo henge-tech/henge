@@ -1,0 +1,53 @@
+---
+pattern: ap_y
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 43
+score: 1694304
+score_per_word: 73665
+hi_scored_words:
+  apathy: 20189
+  apiary: 92263
+  aplenty: 70257
+  apologetically: 99681
+  apology: 10236
+  apoplexy: 77136
+  apostasy: 45202
+  apothecary: 35093
+  apparently: 2180
+  applicability: 24139
+  apply: 1055
+  appreciably: 52570
+  appropriately: 10567
+  approvingly: 70415
+  approximately: 4358
+  aptly: 31415
+scored_words:
+  apically: 166519
+  appallingly: 105471
+  appealingly: 124381
+  appendectomy: 103088
+  appreciatively: 141054
+  apprehensively: 180078
+  approachability: 226957
+not_scored_words:
+- apathetically
+- aperiodically
+- apery
+- aphoristically
+- apishly
+- apocalyptically
+- apocryphally
+- apogamy
+- apolitically
+- apoplectically
+- apospory
+- appendicectomy
+- appetency
+- appetizingly
+- applicably
+- applicatory
+- appositely
+- appraisingly
+- appreciatory
+- approbatory

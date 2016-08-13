@@ -1,0 +1,66 @@
+---
+pattern: _rent
+hi_scored_words_count: 26
+scored_words_count: 10
+total_words: 56
+score: 2675684
+score_per_word: 74324
+hi_scored_words:
+  abhorrent: 49668
+  adherent: 40109
+  afferent: 45144
+  apparent: 3584
+  belligerent: 35973
+  brent: 10866
+  coherent: 12621
+  concurrent: 13896
+  current: 557
+  deterrent: 29566
+  different: 239
+  efferent: 67418
+  grandparent: 33158
+  incoherent: 25567
+  indifferent: 13498
+  inherent: 7595
+  irreverent: 34381
+  parent: 2268
+  recurrent: 17638
+  referent: 47416
+  rent: 1890
+  reverent: 60521
+  torrent: 8729
+  transparent: 5949
+  undercurrent: 49900
+  vicegerent: 87352
+scored_words:
+  countercurrent: 161709
+  deferent: 214858
+  godparent: 148442
+  intercurrent: 231781
+  noncurrent: 151272
+  nontransparent: 341066
+  photocurrent: 173704
+  quitrent: 206548
+  semitransparent: 228082
+  stepparent: 112719
+not_scored_words:
+- BitTorrent
+- Brent
+- Laurent
+- Trent
+- besprent
+- cobelligerent
+- crosscurrent
+- decurrent
+- excurrent
+- gerent
+- houseparent
+- inapparent
+- incurrent
+- nonbelligerent
+- noncoherent
+- nonconcurrent
+- nonrecurrent
+- radiotransparent
+- transcurrent
+- unapparent

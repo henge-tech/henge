@@ -1,0 +1,26 @@
+---
+pattern: c_he
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 593925
+score_per_word: 65991
+hi_scored_words:
+  cache: 8522
+  cartouche: 49735
+  catastrophe: 13086
+  cliche: 30380
+  cloche: 87432
+  clothe: 34810
+  corniche: 89316
+  creche: 66598
+scored_words:
+  caliche: 214046
+not_scored_words:
+- Campeche
+- Che
+- Christophe
+- Comanche
+- capuche
+- caroche
+- crèche

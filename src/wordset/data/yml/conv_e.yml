@@ -1,0 +1,36 @@
+---
+pattern: conv_e
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 26
+score: 1856068
+score_per_word: 103114
+hi_scored_words:
+  convalescence: 63495
+  convective: 36357
+  convene: 29919
+  convenience: 4938
+  conventicle: 87718
+  converge: 23054
+  convergence: 17700
+  converse: 10749
+  convertible: 13573
+  conveyance: 19602
+  convince: 6594
+  convulsive: 55032
+scored_words:
+  convenable: 215614
+  convenance: 319141
+  convoke: 266168
+  convolute: 246743
+  convolve: 284922
+  convulse: 154749
+not_scored_words:
+- convalesce
+- conventionalize
+- conversable
+- conversance
+- conversazione
+- convertiplane
+- convertite
+- conveyable

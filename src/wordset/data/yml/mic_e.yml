@@ -1,0 +1,47 @@
+---
+pattern: mic_e
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 37
+score: 1824220
+score_per_word: 101345
+hi_scored_words:
+  mice: 5833
+  microbe: 47980
+  microclimate: 92174
+  microcode: 75101
+  microfiche: 41788
+  microphone: 18199
+  microscope: 11647
+  microstructure: 41662
+  microwave: 11441
+scored_words:
+  micelle: 123051
+  microbalance: 260754
+  microbicide: 123987
+  microcrystalline: 102986
+  micromanage: 151980
+  microsome: 273991
+  microtome: 168851
+  microwavable: 144468
+  microwaveable: 128327
+not_scored_words:
+- Michele
+- Michelle
+- Michiganite
+- Mickie
+- microampere
+- microcapsule
+- microcline
+- microcurie
+- microcyte
+- microencapsulate
+- microgamete
+- microgroove
+- micrometeorite
+- microparasite
+- microphyte
+- micropyle
+- microspore
+- microtone
+- micturate

@@ -1,0 +1,43 @@
+---
+pattern: ma_ion
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 33
+score: 2020634
+score_per_word: 84193
+hi_scored_words:
+  magnetization: 35649
+  magnification: 21930
+  malathion: 90381
+  malformation: 54056
+  malfunction: 24980
+  malnutrition: 23269
+  manifestation: 19466
+  manipulation: 10949
+  mansion: 7131
+  marginalization: 63410
+  masturbation: 14842
+  matriculation: 48364
+  maturation: 24998
+  maximization: 43297
+scored_words:
+  maceration: 116929
+  machination: 206902
+  magnetostriction: 294415
+  maladministration: 128764
+  malediction: 159494
+  malocclusion: 106834
+  malversation: 169309
+  manumission: 113660
+  mastication: 116599
+  materialization: 125006
+not_scored_words:
+- Malathion
+- Marion
+- machicolation
+- macroinstruction
+- maculation
+- malefaction
+- malposition
+- marination
+- martyrization

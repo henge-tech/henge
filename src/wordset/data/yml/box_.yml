@@ -1,0 +1,36 @@
+---
+pattern: box_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 26
+score: 727249
+score_per_word: 60604
+hi_scored_words:
+  box: 620
+  boxcar: 47845
+  boxed: 13644
+  boxer: 14962
+  boxers: 18028
+  boxes: 2901
+  boxing: 8867
+  boxwood: 66015
+  boxy: 71039
+scored_words:
+  boxboard: 223010
+  boxcars: 121078
+  boxen: 139240
+not_scored_words:
+- Boxer
+- boxberries
+- boxberry
+- boxfish
+- boxful
+- boxfuls
+- boxhaul
+- boxier
+- boxiest
+- boxlike
+- boxroom
+- boxrooms
+- boxthorn
+- boxthorns

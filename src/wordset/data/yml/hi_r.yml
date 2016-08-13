@@ -1,0 +1,38 @@
+---
+pattern: hi_r
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 28
+score: 1351941
+score_per_word: 75107
+hi_scored_words:
+  hider: 96993
+  highchair: 89165
+  higher: 662
+  highlander: 25252
+  highlighter: 54268
+  hijacker: 62602
+  hiker: 38207
+  hillier: 56160
+  hinder: 14655
+  hinter: 87244
+  hipster: 27466
+  hitchhiker: 31659
+  hither: 24251
+  hitter: 22848
+scored_words:
+  hinderer: 328911
+  hipper: 117180
+  hirer: 101156
+  hitcher: 173262
+not_scored_words:
+- Highlander
+- Hilfiger
+- Himmler
+- Hitler
+- hibernator
+- higgler
+- highbinder
+- highflier
+- hindquarter
+- historiographer

@@ -1,0 +1,37 @@
+---
+pattern: b_ler
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 27
+score: 1584684
+score_per_word: 88038
+hi_scored_words:
+  babbler: 50166
+  baler: 81670
+  battler: 89675
+  bestseller: 24278
+  boiler: 10801
+  bookseller: 19709
+  bowler: 25119
+  brawler: 88069
+  broiler: 38091
+  bubbler: 81548
+  buckler: 50503
+  bugler: 84092
+  butler: 5617
+scored_words:
+  baffler: 279196
+  bailer: 144344
+  blackmailer: 180531
+  bottler: 127471
+  bungler: 203804
+not_scored_words:
+- Butler
+- bawler
+- beguiler
+- belittler
+- bicycler
+- boondoggler
+- brittler
+- bumbler
+- bustler

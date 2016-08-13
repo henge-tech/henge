@@ -1,0 +1,66 @@
+---
+pattern: c_ge
+hi_scored_words_count: 26
+scored_words_count: 8
+total_words: 56
+score: 2060125
+score_per_word: 60591
+hi_scored_words:
+  cabbage: 12274
+  cage: 5977
+  camouflage: 19179
+  carnage: 21520
+  carriage: 5646
+  cartilage: 20484
+  cartridge: 8999
+  centrifuge: 35762
+  challenge: 2298
+  change: 248
+  charge: 822
+  cleavage: 17914
+  coinage: 32321
+  collage: 18997
+  college: 802
+  concierge: 19094
+  converge: 23054
+  cordage: 71132
+  corsage: 75168
+  cortege: 97272
+  cottage: 3996
+  courage: 4114
+  coverage: 13414
+  cribbage: 53333
+  cringe: 31531
+  curettage: 99934
+scored_words:
+  cabotage: 253939
+  cadge: 113533
+  cartage: 114921
+  concubinage: 183559
+  cooperage: 153759
+  corkage: 235622
+  cortège: 162687
+  curtilage: 146820
+not_scored_words:
+- Cage
+- Cambridge
+- Carthage
+- Coatbridge
+- Coleridge
+- Coolidge
+- calcifuge
+- cellarage
+- chaperonage
+- chge
+- citrange
+- clientage
+- commonage
+- constringe
+- coquillage
+- counterchange
+- countercharge
+- counterespionage
+- cowage
+- cozenage
+- cranage
+- cubage

@@ -1,0 +1,38 @@
+---
+pattern: yell_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 28
+score: 1464601
+score_per_word: 91537
+hi_scored_words:
+  yell: 16122
+  yelled: 16714
+  yelling: 14925
+  yellow: 964
+  yellowed: 88027
+  yellowing: 57714
+  yellowish: 26345
+  yellows: 44974
+  yellowtail: 82601
+  yellowy: 68689
+  yells: 30852
+scored_words:
+  yellowhammer: 146786
+  yellowlegs: 141572
+  yellowness: 225567
+  yellowthroat: 191253
+  yellowwood: 311496
+not_scored_words:
+- Yellow
+- Yellowknife
+- Yellowstone
+- yellowbird
+- yellowbirds
+- yellower
+- yellowest
+- yellowhammers
+- yellowtails
+- yellowthroats
+- yellowweed
+- yellowwoods

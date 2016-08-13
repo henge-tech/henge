@@ -1,0 +1,32 @@
+---
+pattern: f_ght
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 22
+score: 1428306
+score_per_word: 71415
+hi_scored_words:
+  featherweight: 47495
+  fight: 1217
+  firefight: 68366
+  firelight: 70809
+  flashlight: 19668
+  flight: 1496
+  floodlight: 86215
+  flyweight: 82149
+  foresight: 18622
+  forethought: 66503
+  forthright: 42713
+  fortnight: 18116
+  fought: 4511
+  fraught: 28050
+  freight: 10225
+  fright: 17912
+scored_words:
+  fanlight: 195389
+  featherlight: 341271
+  fistfight: 142825
+  footlight: 164754
+not_scored_words:
+- Fulbright
+- fearnought

@@ -1,0 +1,46 @@
+---
+pattern: tram_
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 36
+score: 1537717
+score_per_word: 80932
+hi_scored_words:
+  tram: 19570
+  trammel: 91329
+  tramp: 15654
+  tramping: 62046
+  trample: 28526
+  trampled: 36776
+  trampling: 32251
+  trampoline: 26053
+  trampolines: 45798
+  tramps: 46801
+  trams: 36974
+  tramway: 40262
+  tramways: 81336
+scored_words:
+  tramline: 167202
+  trammels: 113967
+  tramped: 126540
+  tramper: 279484
+  tramples: 157813
+  trampolining: 129335
+not_scored_words:
+- tramcar
+- tramcars
+- tramlines
+- trammed
+- trammeled
+- trammeler
+- trammeling
+- tramming
+- tramontane
+- tramontanes
+- trampers
+- trampler
+- tramplers
+- trampolined
+- trampoliner
+- trampolinist
+- tramroad

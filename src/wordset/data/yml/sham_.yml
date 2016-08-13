@@ -1,0 +1,53 @@
+---
+pattern: sham_
+hi_scored_words_count: 20
+scored_words_count: 13
+total_words: 43
+score: 3287025
+score_per_word: 99606
+hi_scored_words:
+  sham: 15182
+  shaman: 18615
+  shamanic: 55395
+  shamanism: 43891
+  shamans: 54687
+  shambles: 34737
+  shame: 3917
+  shamed: 46311
+  shameful: 18451
+  shamefully: 69759
+  shameless: 17887
+  shamelessly: 49781
+  shames: 81619
+  shaming: 71490
+  shampoo: 14293
+  shampoos: 46608
+  shamrock: 25341
+  shamrocks: 83519
+  shams: 39039
+  shamus: 96668
+scored_words:
+  shamanistic: 142724
+  shamble: 257265
+  shambled: 176048
+  shambling: 142565
+  shambolic: 142477
+  shamefaced: 242584
+  shamefacedly: 176837
+  shamelessness: 213297
+  shamming: 146488
+  shampooed: 249792
+  shampooer: 209401
+  shampooers: 191998
+  shampooing: 108359
+not_scored_words:
+- shamanisms
+- shamanist
+- shamanize
+- shamblings
+- shamefacedness
+- shamefacednesses
+- shamefulness
+- shammed
+- shammer
+- shammies

@@ -1,0 +1,30 @@
+---
+pattern: w_ne
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 20
+score: 1303757
+score_per_word: 81484
+hi_scored_words:
+  wahine: 96020
+  waistline: 54910
+  wane: 38149
+  waterborne: 53255
+  waterline: 48654
+  whetstone: 53428
+  whine: 21964
+  windowpane: 80878
+  wine: 1052
+  wishbone: 40242
+  wolverine: 19182
+  woodbine: 45442
+scored_words:
+  warplane: 157761
+  whalebone: 139591
+  woebegone: 205336
+  wolfsbane: 247893
+not_scored_words:
+- Wayne
+- Wheatstone
+- whinstone
+- whitepine

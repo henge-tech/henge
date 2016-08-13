@@ -1,0 +1,35 @@
+---
+pattern: h_led
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 25
+score: 1408863
+score_per_word: 78270
+hi_scored_words:
+  hailed: 19716
+  handled: 5534
+  hauled: 27445
+  healed: 17460
+  heeled: 44075
+  hobbled: 64534
+  holed: 48242
+  howled: 62159
+  huddled: 31751
+  hulled: 72169
+  humbled: 35160
+  hurled: 27951
+  hustled: 77866
+scored_words:
+  haggled: 235858
+  haled: 251633
+  hassled: 105560
+  heckled: 139284
+  hurtled: 142466
+not_scored_words:
+- hatcheled
+- higgled
+- hightailed
+- hobnailed
+- hoppled
+- hosteled
+- hurdled

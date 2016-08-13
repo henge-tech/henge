@@ -1,0 +1,47 @@
+---
+pattern: ca_ne
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 37
+score: 866120
+score_per_word: 66624
+hi_scored_words:
+  caffeine: 15075
+  cane: 8353
+  canine: 16058
+  canzone: 61116
+  capstone: 37307
+  carbine: 32608
+  carmine: 33933
+  carotene: 37869
+  cayenne: 28123
+scored_words:
+  calamine: 148462
+  calzone: 101772
+  caprine: 178164
+  carline: 167280
+not_scored_words:
+- Caine
+- Cairene
+- Capitoline
+- Capone
+- Carcassonne
+- Carlene
+- Carmine
+- Carne
+- Caroline
+- Castiglione
+- Catharine
+- Catherine
+- Catiline
+- Cayenne
+- cadaverine
+- calcimine
+- calcine
+- calycine
+- camphene
+- carbamidine
+- carbylamine
+- catarrhine
+- catenane
+- cauline

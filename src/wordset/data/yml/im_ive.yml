@@ -1,0 +1,23 @@
+---
+pattern: im_ive
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 475938
+score_per_word: 52882
+hi_scored_words:
+  imaginative: 12995
+  imitative: 62184
+  immersive: 38237
+  immunosuppressive: 50834
+  impassive: 78897
+  imperative: 10509
+  impressive: 4752
+  impulsive: 26207
+scored_words:
+  imperfective: 191323
+not_scored_words:
+- impeditive
+- imperceptive
+- implicative
+- implosive

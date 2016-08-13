@@ -1,0 +1,71 @@
+---
+pattern: _nium
+hi_scored_words_count: 19
+scored_words_count: 16
+total_words: 61
+score: 3978645
+score_per_word: 113675
+hi_scored_words:
+  ammonium: 23641
+  biennium: 72733
+  condominium: 22485
+  cranium: 36164
+  delphinium: 85546
+  euphonium: 54937
+  gadolinium: 79901
+  geranium: 34908
+  germanium: 46280
+  harmonium: 72499
+  millennium: 6289
+  pandemonium: 44212
+  plutonium: 23230
+  proscenium: 82417
+  ruthenium: 63834
+  selenium: 23603
+  titanium: 12652
+  uranium: 16883
+  zirconium: 43121
+scored_words:
+  actinium: 148579
+  californium: 195618
+  conium: 282242
+  dominium: 239265
+  einsteinium: 247409
+  hafnium: 121571
+  minium: 164991
+  neptunium: 151209
+  pelargonium: 107084
+  polonium: 109306
+  positronium: 283139
+  protactinium: 228168
+  rhenium: 114685
+  stramonium: 242527
+  transuranium: 291782
+  triennium: 205735
+not_scored_words:
+- Iconium
+- Samnium
+- actinouranium
+- androclinium
+- archegonium
+- ascogonium
+- carpogonium
+- decennium
+- diazonium
+- dubnium
+- endocranium
+- hahnium
+- hymenium
+- illinium
+- ionium
+- oogonium
+- pericranium
+- protoactinium
+- quadrennium
+- quinquennium
+- spermatogonium
+- spermogonium
+- sporogonium
+- syconium
+- triclinium
+- virginium

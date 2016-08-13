@@ -1,0 +1,27 @@
+---
+pattern: coas_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 1161115
+score_per_word: 82936
+hi_scored_words:
+  coast: 1172
+  coastal: 8256
+  coasted: 89188
+  coaster: 14626
+  coasters: 20988
+  coastguard: 42514
+  coasting: 51730
+  coastline: 17767
+  coastlines: 48757
+  coasts: 16291
+scored_words:
+  coastguards: 171317
+  coastland: 266922
+  coastlands: 276538
+  coastwise: 135049
+not_scored_words:
+- coastguardsman
+- coastguardsmen
+- coastward

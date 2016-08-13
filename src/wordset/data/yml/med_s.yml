@@ -1,0 +1,43 @@
+---
+pattern: med_s
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 33
+score: 2035721
+score_per_word: 96939
+hi_scored_words:
+  medalists: 76116
+  medallions: 44661
+  medals: 10845
+  meddles: 95640
+  medians: 66697
+  medias: 53759
+  mediates: 45780
+  mediators: 36661
+  medications: 6106
+  medicines: 8252
+  medics: 34854
+  meditations: 24282
+  mediums: 28327
+scored_words:
+  meddlers: 267857
+  medicals: 126877
+  medicos: 164112
+  mediocrities: 288667
+  meditates: 119453
+  medius: 176045
+  medlars: 193124
+  medleys: 167606
+not_scored_words:
+- Medicaids
+- Medicares
+- Mediterraneans
+- mediacies
+- mediants
+- medicates
+- medicks
+- medievalists
+- meditativeness
+- meditativenesses
+- medullas
+- medusas

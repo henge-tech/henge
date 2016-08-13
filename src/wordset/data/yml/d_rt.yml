@@ -1,0 +1,33 @@
+---
+pattern: d_rt
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 23
+score: 752529
+score_per_word: 57886
+hi_scored_words:
+  dart: 12051
+  davenport: 15242
+  depart: 6892
+  deport: 47809
+  desert: 2679
+  dessert: 9107
+  dirt: 5070
+  discomfort: 11858
+  distort: 28139
+  divert: 18376
+scored_words:
+  disconcert: 202337
+  disport: 156118
+  dogcart: 236851
+not_scored_words:
+- Davenport
+- Delbert
+- Dilbert
+- Dort
+- discovert
+- dispart
+- dissert
+- dropwort
+- dumpcart
+- dustcart

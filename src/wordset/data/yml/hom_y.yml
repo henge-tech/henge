@@ -1,0 +1,30 @@
+---
+pattern: hom_y
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 940239
+score_per_word: 78353
+hi_scored_words:
+  homeboy: 63986
+  homely: 31048
+  homeopathy: 26115
+  homey: 44982
+  homily: 48795
+  hominy: 91213
+  homogeneity: 37833
+  homology: 24422
+  homosexuality: 18287
+scored_words:
+  homebody: 155165
+  homogeneously: 126063
+  homosexually: 272330
+not_scored_words:
+- homeopathically
+- homiletically
+- homogamy
+- homogeny
+- homogony
+- homonymy
+- homophonically
+- homophony

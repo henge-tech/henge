@@ -1,0 +1,49 @@
+---
+pattern: r_als
+hi_scored_words_count: 22
+scored_words_count: 5
+total_words: 39
+score: 1586457
+score_per_word: 58757
+hi_scored_words:
+  radials: 96240
+  radicals: 19968
+  rascals: 42369
+  reals: 32942
+  rebuttals: 89060
+  recitals: 44142
+  referrals: 10657
+  refusals: 65735
+  rehearsals: 26516
+  removals: 34183
+  renewals: 33439
+  rentals: 5853
+  repeals: 63247
+  reprisals: 51633
+  residuals: 30940
+  reveals: 6207
+  reversals: 48362
+  revivals: 61657
+  rials: 89586
+  rituals: 22716
+  rivals: 10819
+  royals: 23833
+scored_words:
+  rationals: 114519
+  reciprocals: 156203
+  regimentals: 191872
+  retrievals: 108059
+  riyals: 105700
+not_scored_words:
+- reappraisals
+- reburials
+- recessionals
+- recusals
+- redials
+- remittals
+- reprovals
+- reseals
+- retrials
+- revisals
+- ringhals
+- rorquals

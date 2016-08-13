@@ -1,0 +1,19 @@
+---
+pattern: inst_n
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 270072
+score_per_word: 33759
+hi_scored_words:
+  installation: 6245
+  instantiation: 52561
+  instigation: 55806
+  instillation: 84924
+  institution: 2599
+  institutionalization: 52704
+  instruction: 2572
+  instrumentation: 12661
+scored_words: {}
+not_scored_words:
+- instauration

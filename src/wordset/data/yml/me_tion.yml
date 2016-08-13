@@ -1,0 +1,24 @@
+---
+pattern: me_tion
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 583114
+score_per_word: 58311
+hi_scored_words:
+  mechanization: 57298
+  mediation: 10650
+  medication: 7843
+  meditation: 7835
+  memorization: 50214
+  menstruation: 31883
+  mentation: 62863
+  mention: 2056
+scored_words:
+  mensuration: 162594
+  metrication: 189878
+not_scored_words:
+- melioration
+- mercerization
+- mesmerization
+- metafiction

@@ -1,0 +1,38 @@
+---
+pattern: bact_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 28
+score: 1523733
+score_per_word: 108838
+hi_scored_words:
+  bact: 79899
+  bacteria: 8877
+  bacterial: 10589
+  bactericidal: 74624
+  bacteriol: 45134
+  bacteriological: 59042
+  bacteriology: 43361
+  bacteriophage: 47207
+  bacterium: 28807
+scored_words:
+  bacterially: 300291
+  bactericide: 329594
+  bacteriologic: 232274
+  bacteriologist: 157095
+  bacteriophages: 106939
+not_scored_words:
+- Bactria
+- Bactrian
+- bactericides
+- bacterin
+- bacteriologically
+- bacteriologists
+- bacteriolyses
+- bacteriolysis
+- bacteriostases
+- bacteriostasis
+- bacteriostat
+- bacteriostats
+- bacteroid
+- bacteroids

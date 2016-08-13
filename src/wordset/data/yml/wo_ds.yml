@@ -1,0 +1,25 @@
+---
+pattern: wo_ds
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 822964
+score_per_word: 74814
+hi_scored_words:
+  wolds: 98047
+  woodlands: 17609
+  woods: 2601
+  woodwinds: 54464
+  words: 389
+  workarounds: 55057
+  workloads: 48043
+  worlds: 4571
+  wounds: 7372
+scored_words:
+  wolfhounds: 230978
+  wonderlands: 303833
+not_scored_words:
+- Woods
+- woodsheds
+- wormseeds
+- woulds

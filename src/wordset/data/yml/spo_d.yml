@@ -1,0 +1,25 @@
+---
+pattern: spo_d
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 1092211
+score_per_word: 91017
+hi_scored_words:
+  spoiled: 12433
+  sponsored: 5881
+  spoofed: 65313
+  spooked: 64568
+  sported: 63882
+  spotlighted: 95897
+  spotted: 8147
+  spouted: 99018
+scored_words:
+  sponged: 211577
+  spooled: 116989
+  spooned: 146759
+  spoonfed: 201747
+not_scored_words:
+- spoonfeed
+- spoored
+- spored

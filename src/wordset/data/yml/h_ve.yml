@@ -1,0 +1,22 @@
+---
+pattern: h_ve
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 492051
+score_per_word: 49205
+hi_scored_words:
+  halve: 53940
+  have: 22
+  heatwave: 43949
+  heave: 32785
+  hive: 19397
+  hove: 20783
+  hyperactive: 41344
+  hypersensitive: 62846
+  hypertensive: 38225
+scored_words:
+  helve: 178760
+not_scored_words:
+- hallucinative
+- hortative

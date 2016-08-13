@@ -1,0 +1,26 @@
+---
+pattern: a_ys
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 16
+score: 702550
+score_per_word: 50182
+hi_scored_words:
+  abbeys: 59767
+  airways: 9595
+  alleys: 31747
+  alleyways: 84635
+  alloys: 24953
+  always: 245
+  annoys: 39574
+  anyways: 18168
+  arrays: 11685
+  ashtrays: 49862
+  assays: 20791
+  attorneys: 7324
+scored_words:
+  allays: 221661
+  archways: 122543
+not_scored_words:
+- affrays
+- areaways

@@ -1,0 +1,28 @@
+---
+pattern: sw_y
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 18
+score: 909220
+score_per_word: 75768
+hi_scored_words:
+  swampy: 53680
+  swanky: 53010
+  swarthy: 68210
+  sway: 12678
+  sweaty: 29427
+  sweeny: 86206
+  sweetly: 27754
+  swiftly: 13375
+  swirly: 95131
+  swordplay: 78040
+scored_words:
+  swimmingly: 119186
+  swishy: 272523
+not_scored_words:
+- Sweeney
+- swankily
+- swarthily
+- sweatily
+- sweepingly
+- swelteringly

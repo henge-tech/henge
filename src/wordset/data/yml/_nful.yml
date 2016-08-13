@@ -1,0 +1,25 @@
+---
+pattern: _nful
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 680865
+score_per_word: 68086
+hi_scored_words:
+  disdainful: 65958
+  gainful: 66164
+  mournful: 36668
+  painful: 4849
+  scornful: 60357
+  sinful: 15824
+  spoonful: 35709
+  teaspoonful: 82060
+scored_words:
+  manful: 180328
+  tablespoonful: 132948
+not_scored_words:
+- basinful
+- dessertspoonful
+- panful
+- skinful
+- spleenful

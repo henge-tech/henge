@@ -1,0 +1,42 @@
+---
+pattern: c_sis
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 32
+score: 1700213
+score_per_word: 100012
+hi_scored_words:
+  carcinogenesis: 45443
+  cassis: 55674
+  catalysis: 34202
+  catharsis: 53778
+  chassis: 8843
+  cirrhosis: 28817
+  crisis: 2802
+  cryptanalysis: 76589
+  cyanosis: 79525
+scored_words:
+  carcinomatosis: 293351
+  chlorosis: 131604
+  classis: 115299
+  coccidioidomycosis: 157502
+  coccidiosis: 160786
+  coreopsis: 124759
+  cytokinesis: 109261
+  cytolysis: 221978
+not_scored_words:
+- caenogenesis
+- calliopsis
+- caryopsis
+- catabasis
+- catachresis
+- catamnesis
+- cataphoresis
+- cenogenesis
+- chemosmosis
+- chemosynthesis
+- chromatolysis
+- crasis
+- cryptoanalysis
+- cyclosis
+- cytogenesis

@@ -1,0 +1,25 @@
+---
+pattern: stir_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 707687
+score_per_word: 70768
+hi_scored_words:
+  stir: 6034
+  stirred: 13650
+  stirrer: 80697
+  stirring: 10558
+  stirrings: 97532
+  stirrup: 51438
+  stirrups: 61794
+  stirs: 35865
+scored_words:
+  stirk: 248368
+  stirrers: 101751
+not_scored_words:
+- Stirling
+- stirks
+- stirpiculture
+- stirps
+- stirringly

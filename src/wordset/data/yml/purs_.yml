@@ -1,0 +1,32 @@
+---
+pattern: purs_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 22
+score: 953738
+score_per_word: 56102
+hi_scored_words:
+  purse: 6006
+  pursed: 84209
+  purser: 73121
+  purses: 19619
+  pursuance: 43539
+  pursuant: 8612
+  pursue: 4634
+  pursued: 7473
+  pursuer: 83091
+  pursuers: 67811
+  pursues: 30605
+  pursuing: 7476
+  pursuit: 5459
+  pursuits: 17111
+scored_words:
+  pursing: 120004
+  purslane: 109082
+  pursuivant: 265886
+not_scored_words:
+- pursers
+- pursier
+- pursiest
+- purslanes
+- pursy

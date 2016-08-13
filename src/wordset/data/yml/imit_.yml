@@ -1,0 +1,23 @@
+---
+pattern: imit_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 762387
+score_per_word: 69307
+hi_scored_words:
+  imitate: 19444
+  imitated: 39440
+  imitates: 57010
+  imitating: 35546
+  imitation: 10831
+  imitations: 37791
+  imitative: 62184
+  imitator: 85536
+  imitators: 48031
+scored_words:
+  imit: 196753
+  imitable: 169821
+not_scored_words:
+- imitatively
+- imitativeness

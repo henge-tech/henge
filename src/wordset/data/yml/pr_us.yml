@@ -1,0 +1,47 @@
+---
+pattern: pr_us
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 37
+score: 1218590
+score_per_word: 60929
+hi_scored_words:
+  precarious: 23973
+  precious: 3569
+  precipitous: 47992
+  precocious: 39029
+  preposterous: 38001
+  prestigious: 13273
+  presumptuous: 42626
+  pretentious: 26210
+  previous: 660
+  primus: 33682
+  prodigious: 31943
+  promiscuous: 33543
+  propitious: 64176
+  prospectus: 21613
+  prosperous: 12883
+  pruritus: 69220
+scored_words:
+  precancerous: 102396
+  precautious: 197413
+  predaceous: 219969
+  proteinaceous: 196419
+not_scored_words:
+- Pretorius
+- Priapus
+- Prius
+- Proclus
+- Procopius
+- Prometheus
+- Propertius
+- Proteus
+- Prus
+- preconscious
+- primulaceous
+- prognathous
+- prolegomenous
+- proliferous
+- pronucleus
+- propositus
+- prothallus

@@ -1,0 +1,28 @@
+---
+pattern: f_rt
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 18
+score: 839612
+score_per_word: 83961
+hi_scored_words:
+  fart: 27622
+  filbert: 75432
+  flirt: 14440
+  flowchart: 41323
+  forecourt: 76289
+  fort: 1887
+  frankfurt: 12513
+  frt: 97692
+scored_words:
+  figwort: 284105
+  forepart: 208309
+not_scored_words:
+- Flaubert
+- Frankfort
+- Frankfurt
+- Froissart
+- faintheart
+- feverwort
+- fleawort
+- foumart

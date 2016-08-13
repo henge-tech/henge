@@ -1,0 +1,28 @@
+---
+pattern: o_ge
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 18
+score: 597124
+score_per_word: 59712
+hi_scored_words:
+  oblige: 27149
+  offstage: 72098
+  onstage: 27950
+  orange: 2263
+  orphanage: 25425
+  outage: 22468
+  outrage: 12781
+  overage: 83429
+  overcharge: 77659
+scored_words:
+  overindulge: 245902
+not_scored_words:
+- Orange
+- Osage
+- Oxbridge
+- ohmage
+- omnirange
+- ossifrage
+- outrange
+- overlarge

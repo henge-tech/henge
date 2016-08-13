@@ -1,0 +1,30 @@
+---
+pattern: u_ry
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 20
+score: 1057460
+score_per_word: 75532
+hi_scored_words:
+  undersecretary: 50048
+  understory: 66307
+  unitary: 21947
+  unnecessary: 5706
+  unsanitary: 78781
+  unsatisfactory: 15076
+  unsavory: 56760
+  unwary: 70328
+  upcountry: 95705
+  upholstery: 23118
+  urinary: 13817
+  usury: 45509
+scored_words:
+  uncomplimentary: 245299
+  unparliamentary: 269059
+not_scored_words:
+- ultramicrochemistry
+- uncustomary
+- undulatory
+- unliterary
+- unmilitary
+- uranometry

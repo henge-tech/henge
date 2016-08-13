@@ -1,0 +1,27 @@
+---
+pattern: inau_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 1090827
+score_per_word: 90902
+hi_scored_words:
+  inaudible: 28566
+  inaugural: 17531
+  inaugurals: 49709
+  inaugurate: 59140
+  inaugurated: 25783
+  inaugurates: 91549
+  inauguration: 21036
+  inauspicious: 89644
+scored_words:
+  inaudibly: 227801
+  inaugurating: 105443
+  inaugurations: 226195
+  inauthentic: 148430
+not_scored_words:
+- inaudibility
+- inaugurator
+- inauspiciously
+- inauspiciousness
+- inauspiciousnesses

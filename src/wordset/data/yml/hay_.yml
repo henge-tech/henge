@@ -1,0 +1,49 @@
+---
+pattern: hay_
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 39
+score: 1867662
+score_per_word: 109862
+hi_scored_words:
+  hay: 6014
+  hayfield: 91564
+  hayride: 94853
+  hays: 24570
+  hayseed: 77497
+  haystack: 40644
+  hayward: 19951
+  haywire: 63278
+scored_words:
+  haycock: 128560
+  hayfork: 233184
+  haying: 141446
+  hayloft: 117084
+  haymaker: 124621
+  haymakers: 251091
+  hayrick: 177016
+  hayrides: 154727
+  haystacks: 121562
+not_scored_words:
+- Hay
+- Hayden
+- Haydn
+- Hayek
+- Hayes
+- Haynes
+- Hays
+- Hayward
+- Haywood
+- Hayworth
+- haycocks
+- hayed
+- hayfields
+- hayforks
+- haylofts
+- haymaking
+- haymow
+- haymows
+- hayrack
+- hayracks
+- hayricks
+- hayseeds

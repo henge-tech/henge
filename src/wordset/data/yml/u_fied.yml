@@ -1,0 +1,27 @@
+---
+pattern: u_fied
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 17
+score: 722243
+score_per_word: 60186
+hi_scored_words:
+  unclassified: 25100
+  undignified: 75085
+  unidentified: 16324
+  unified: 11231
+  unjustified: 33442
+  unmodified: 41467
+  unqualified: 25361
+  unsatisfied: 36499
+  unspecified: 16207
+  unverified: 42899
+scored_words:
+  uncertified: 109703
+  unquantified: 288925
+not_scored_words:
+- uglified
+- unfortified
+- unmagnified
+- unpurified
+- unratified

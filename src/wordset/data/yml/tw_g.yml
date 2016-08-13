@@ -1,0 +1,29 @@
+---
+pattern: tw_g
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 19
+score: 1018523
+score_per_word: 78347
+hi_scored_words:
+  twang: 45108
+  tweaking: 24619
+  twig: 24751
+  twining: 67192
+  twinkling: 35205
+  twinning: 41103
+  twirling: 49156
+  twisting: 16035
+  twitching: 34750
+scored_words:
+  twanging: 238636
+  tweezing: 218448
+  twiddling: 111092
+  twittering: 112428
+not_scored_words:
+- twaddling
+- tweeting
+- twerking
+- twigging
+- twinging
+- twitting

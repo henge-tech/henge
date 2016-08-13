@@ -1,0 +1,34 @@
+---
+pattern: cor_r
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 24
+score: 1200697
+score_per_word: 80046
+hi_scored_words:
+  corder: 81098
+  coriander: 29886
+  corker: 87356
+  corner: 1311
+  cornflower: 62540
+  coroner: 20930
+  corr: 21883
+  corrector: 56312
+  corridor: 7179
+  corsair: 21509
+scored_words:
+  cordwainer: 137293
+  corer: 123101
+  cornflour: 161713
+  corpuscular: 143342
+  corrupter: 245244
+not_scored_words:
+- Corbusier
+- Cordelier
+- Corregidor
+- coremaker
+- corkier
+- cornier
+- corporator
+- correcter
+- corroborator

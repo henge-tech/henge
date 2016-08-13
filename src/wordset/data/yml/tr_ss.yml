@@ -1,0 +1,38 @@
+---
+pattern: tr_ss
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 28
+score: 1883559
+score_per_word: 125570
+hi_scored_words:
+  trackless: 93006
+  transgress: 66004
+  treeless: 68893
+  trespass: 24232
+  tress: 56755
+  truss: 22321
+  trustworthiness: 47699
+  truthfulness: 37194
+scored_words:
+  traceless: 261005
+  transitoriness: 107150
+  trendiness: 289857
+  triteness: 180403
+  trueness: 305343
+  trustfulness: 207975
+  truthiness: 115722
+not_scored_words:
+- tractableness
+- traditionless
+- traitorousness
+- transitiveness
+- translatableness
+- trashiness
+- trass
+- treacherousness
+- tremulousness
+- trickiness
+- trimness
+- trustiness
+- trustless

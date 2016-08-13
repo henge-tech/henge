@@ -1,0 +1,27 @@
+---
+pattern: s_tory
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 378931
+score_per_word: 42103
+hi_scored_words:
+  satisfactory: 5218
+  secretory: 37082
+  signatory: 30864
+  statutory: 9502
+  stimulatory: 72461
+  story: 315
+  subdirectory: 46289
+  suppository: 63265
+scored_words:
+  supererogatory: 113935
+not_scored_words:
+- saltatory
+- salutatory
+- sanatory
+- sternutatory
+- stridulatory
+- sudatory
+- suppletory
+- supplicatory

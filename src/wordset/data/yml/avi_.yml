@@ -1,0 +1,45 @@
+---
+pattern: avi_
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 35
+score: 1788491
+score_per_word: 99360
+hi_scored_words:
+  avian: 19756
+  aviary: 48592
+  aviation: 10025
+  aviator: 24813
+  aviators: 55287
+  avid: 20316
+  avidity: 86326
+  avidly: 83629
+  avion: 44929
+  avionics: 31265
+scored_words:
+  aviaries: 123931
+  aviate: 116521
+  aviatrix: 195324
+  aviculture: 283319
+  avidin: 112924
+  avifauna: 113538
+  avionic: 213692
+  avirulent: 204304
+not_scored_words:
+- AVI
+- Avicenna
+- Avignon
+- Avila
+- Avior
+- Avis
+- aviarist
+- aviated
+- aviates
+- aviating
+- aviatrices
+- aviatrixes
+- avidness
+- avidnesses
+- avifaunas
+- avigation
+- avitaminosis

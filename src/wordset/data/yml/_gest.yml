@@ -1,0 +1,33 @@
+---
+pattern: _gest
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 23
+score: 626797
+score_per_word: 52233
+hi_scored_words:
+  biggest: 3089
+  digest: 6019
+  gest: 67353
+  ingest: 41713
+  largest: 1777
+  longest: 13393
+  strangest: 29936
+  strongest: 6875
+  suggest: 1841
+  youngest: 7930
+scored_words:
+  congest: 305969
+  hugest: 140902
+not_scored_words:
+- Almagest
+- cunningest
+- decongest
+- egest
+- predigest
+- redigest
+- sagest
+- savagest
+- smuggest
+- snuggest
+- wrongest

@@ -1,0 +1,54 @@
+---
+pattern: _tled
+hi_scored_words_count: 25
+scored_words_count: 10
+total_words: 44
+score: 2709150
+score_per_word: 77404
+hi_scored_words:
+  battled: 31458
+  bottled: 17060
+  bristled: 93545
+  disgruntled: 35420
+  dismantled: 30415
+  embattled: 49346
+  entitled: 2714
+  hustled: 77866
+  jostled: 99071
+  mottled: 42446
+  nestled: 24367
+  rattled: 38347
+  resettled: 72674
+  rustled: 84341
+  scuttled: 71106
+  settled: 3770
+  startled: 17051
+  subtitled: 28279
+  throttled: 92456
+  titled: 9999
+  unsettled: 30896
+  untitled: 9397
+  whistled: 52808
+  whittled: 84990
+  wrestled: 42020
+scored_words:
+  belittled: 109333
+  bustled: 145310
+  chortled: 198760
+  hurtled: 142466
+  mantled: 124784
+  nettled: 246121
+  prattled: 205076
+  retitled: 117958
+  shuttled: 114568
+  wattled: 162932
+not_scored_words:
+- beetled
+- castled
+- footled
+- gentled
+- guttled
+- pestled
+- skittled
+- tattled
+- tootled

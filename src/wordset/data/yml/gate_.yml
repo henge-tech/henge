@@ -1,0 +1,34 @@
+---
+pattern: gate_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 24
+score: 825840
+score_per_word: 63526
+hi_scored_words:
+  gate: 2304
+  gateau: 86028
+  gated: 22222
+  gatefold: 67524
+  gatehouse: 55190
+  gatekeeper: 32872
+  gatekeepers: 55525
+  gates: 3536
+  gateway: 4762
+  gateways: 24077
+scored_words:
+  gateaux: 179315
+  gatecrasher: 102664
+  gater: 189821
+not_scored_words:
+- Gates
+- Gateshead
+- gateaus
+- gatecrash
+- gatecrashed
+- gatecrashers
+- gatecrashes
+- gatecrashing
+- gatehouses
+- gatepost
+- gateposts

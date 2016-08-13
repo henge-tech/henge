@@ -1,0 +1,57 @@
+---
+pattern: p_et
+hi_scored_words_count: 27
+scored_words_count: 3
+total_words: 47
+score: 1511277
+score_per_word: 50375
+hi_scored_words:
+  packet: 5038
+  pallet: 21189
+  pamphlet: 13784
+  parakeet: 49582
+  parapet: 44631
+  parquet: 45579
+  pellet: 29121
+  pet: 2833
+  picket: 21893
+  pickpocket: 72853
+  piet: 43153
+  piglet: 32928
+  piquet: 58372
+  placket: 85219
+  planet: 3256
+  platelet: 19748
+  plummet: 47387
+  pocket: 1623
+  poet: 4921
+  pomfret: 61411
+  poppet: 96327
+  posset: 83605
+  preset: 22829
+  pret: 49231
+  privet: 62756
+  prophet: 5784
+  puppet: 13361
+scored_words:
+  pelmet: 230767
+  planchet: 151714
+  pullet: 130382
+not_scored_words:
+- PET
+- Pet
+- Piaget
+- Pinochet
+- Plantagenet
+- Poiret
+- Prophet
+- Puget
+- paramagnet
+- parget
+- partlet
+- placet
+- playlet
+- pledget
+- pricket
+- propjet
+- punnet

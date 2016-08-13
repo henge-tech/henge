@@ -1,0 +1,35 @@
+---
+pattern: he_ne
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 25
+score: 793395
+score_per_word: 66116
+hi_scored_words:
+  headline: 16498
+  headphone: 17077
+  headstone: 46108
+  hearthstone: 58894
+  helpline: 24777
+  heroine: 19761
+  herringbone: 55296
+  hexane: 55166
+scored_words:
+  hemline: 126080
+  henbane: 168007
+  heptane: 103969
+  heterodyne: 101762
+not_scored_words:
+- Heine
+- Helaine
+- Helene
+- Hellene
+- Hermine
+- Herne
+- Hesione
+- heckelphone
+- helicline
+- hemiterpene
+- hexachlorophene
+- hexamethylenetetramine
+- hexone

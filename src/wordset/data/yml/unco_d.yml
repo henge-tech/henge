@@ -1,0 +1,56 @@
+---
+pattern: unco_d
+hi_scored_words_count: 26
+scored_words_count: 11
+total_words: 46
+score: 3630177
+score_per_word: 98112
+hi_scored_words:
+  uncoated: 69319
+  uncollected: 78202
+  uncommitted: 58114
+  uncompensated: 83499
+  uncompleted: 85549
+  uncomplicated: 40134
+  uncompressed: 39373
+  unconcerned: 45944
+  unconditioned: 88678
+  unconfined: 92191
+  unconfirmed: 31206
+  unconnected: 37250
+  unconsolidated: 72011
+  unconstrained: 55460
+  uncontaminated: 87567
+  uncontested: 42643
+  uncontrolled: 20564
+  unconvinced: 59852
+  uncooked: 47853
+  uncoordinated: 70475
+  uncorked: 85646
+  uncorrected: 50491
+  uncorrelated: 62212
+  uncounted: 96999
+  uncoupled: 89360
+  uncovered: 11443
+scored_words:
+  uncoiled: 295013
+  uncolored: 173696
+  uncombed: 138854
+  uncombined: 246723
+  unconcealed: 188346
+  unconquered: 127520
+  unconsidered: 163089
+  unconsumed: 311722
+  unconverted: 106150
+  uncorroborated: 147121
+  uncorrupted: 129908
+not_scored_words:
+- uncompounded
+- uncomprehended
+- unconcluded
+- unconfused
+- unconsecrated
+- unconsoled
+- unconstricted
+- unconsummated
+- uncovenanted

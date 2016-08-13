@@ -1,0 +1,26 @@
+---
+pattern: kill_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 542822
+score_per_word: 49347
+hi_scored_words:
+  kill: 1540
+  killdeer: 98766
+  killed: 1524
+  killer: 11308
+  killers: 10561
+  killing: 3270
+  killings: 17651
+  kills: 6243
+scored_words:
+  killick: 143782
+  killifish: 143597
+  killjoy: 104580
+not_scored_words:
+- Killarney
+- Killiecrankie
+- killdeers
+- killifishes
+- killjoys

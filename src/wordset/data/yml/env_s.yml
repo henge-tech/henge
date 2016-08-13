@@ -1,0 +1,24 @@
+---
+pattern: env_s
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 494950
+score_per_word: 49495
+hi_scored_words:
+  envelopes: 13454
+  envelops: 89923
+  envious: 25640
+  environmentalists: 25807
+  environments: 11573
+  environs: 27690
+  envisages: 65019
+  envisions: 53736
+  envoys: 48831
+scored_words:
+  envies: 133277
+not_scored_words:
+- envelopers
+- envenoms
+- enviousness
+- envois

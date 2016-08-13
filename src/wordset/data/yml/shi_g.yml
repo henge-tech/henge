@@ -1,0 +1,31 @@
+---
+pattern: shi_g
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 21
+score: 1460296
+score_per_word: 91268
+hi_scored_words:
+  shielding: 25233
+  shifting: 8836
+  shilling: 14880
+  shimmering: 29808
+  shindig: 64518
+  shining: 6573
+  shinning: 96859
+  shipbuilding: 29100
+  shipping: 2678
+  shitting: 29624
+  shivering: 26969
+scored_words:
+  shimming: 243827
+  shimmying: 272458
+  shirking: 102671
+  shirring: 329993
+  shirting: 176269
+not_scored_words:
+- Shijiazhuang
+- Shillong
+- shingling
+- shinnying
+- shipwrecking

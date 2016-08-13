@@ -1,0 +1,43 @@
+---
+pattern: c_ping
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 33
+score: 1338599
+score_per_word: 60845
+hi_scored_words:
+  camping: 5580
+  capping: 40833
+  carping: 80978
+  chipping: 31192
+  chirping: 53728
+  chomping: 84715
+  chopping: 26995
+  clamping: 33884
+  clapping: 26889
+  clasping: 71510
+  clipping: 22231
+  clumping: 81748
+  coping: 15053
+  copping: 99517
+  cramping: 50225
+  creeping: 15432
+  crimping: 65960
+  cropping: 23943
+  cupping: 58743
+scored_words:
+  champing: 224205
+  comping: 101410
+  crapping: 123828
+not_scored_words:
+- cardsharping
+- catnapping
+- chapping
+- cheeping
+- chirruping
+- clodhopping
+- clomping
+- clopping
+- cooping
+- crisping
+- crumping

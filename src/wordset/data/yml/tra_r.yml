@@ -1,0 +1,62 @@
+---
+pattern: tra_r
+hi_scored_words_count: 26
+scored_words_count: 6
+total_words: 52
+score: 1818582
+score_per_word: 56830
+hi_scored_words:
+  trabecular: 88447
+  tracer: 29205
+  tracker: 11311
+  tractor: 11404
+  trader: 7966
+  trailblazer: 39716
+  trailer: 4781
+  trainer: 10285
+  traitor: 18404
+  tranquilizer: 86334
+  transceiver: 32276
+  transcriber: 57443
+  transducer: 24133
+  transfer: 1997
+  transferor: 66776
+  transformer: 20523
+  transgender: 17644
+  transistor: 20715
+  translator: 9641
+  transmitter: 13265
+  transponder: 36555
+  transporter: 21860
+  trapdoor: 67613
+  trapper: 32443
+  traveler: 6793
+  trawler: 43188
+scored_words:
+  trafficker: 106811
+  tramper: 279484
+  transgressor: 123213
+  transposer: 164719
+  transputer: 145513
+  traverser: 218124
+not_scored_words:
+- Trafalgar
+- traditor
+- traducer
+- trafficator
+- trainbearer
+- trainspotter
+- tramcar
+- trammeler
+- trampler
+- trampoliner
+- tranquiler
+- transactor
+- transferrer
+- transfuser
+- transliterator
+- translunar
+- transmigrator
+- transmuter
+- transpolar
+- trashier

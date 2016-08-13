@@ -1,0 +1,25 @@
+---
+pattern: s_ores
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 750224
+score_per_word: 62518
+hi_scored_words:
+  scores: 9646
+  semaphores: 91303
+  shores: 7112
+  sophomores: 42656
+  sores: 24428
+  spores: 27222
+  stores: 1646
+  superstores: 73415
+  sycamores: 80148
+scored_words:
+  seashores: 137852
+  snores: 100816
+  stevedores: 153980
+not_scored_words:
+- senores
+- siphonophores
+- sporophores

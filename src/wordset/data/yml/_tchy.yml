@@ -1,0 +1,28 @@
+---
+pattern: _tchy
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 18
+score: 1234896
+score_per_word: 88206
+hi_scored_words:
+  bitchy: 47578
+  blotchy: 99073
+  catchy: 21450
+  itchy: 21598
+  patchy: 29554
+  scratchy: 44395
+  sketchy: 36911
+  stretchy: 42210
+  twitchy: 78382
+  witchy: 81342
+scored_words:
+  glitchy: 127227
+  pitchy: 101668
+  splotchy: 226436
+  tetchy: 277072
+not_scored_words:
+- botchy
+- smutchy
+- snatchy
+- titchy

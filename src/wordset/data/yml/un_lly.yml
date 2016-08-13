@@ -1,0 +1,55 @@
+---
+pattern: un_lly
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 45
+score: 2163868
+score_per_word: 98357
+hi_scored_words:
+  uncharacteristically: 82572
+  unconditionally: 32725
+  unconstitutionally: 94079
+  uncritically: 92018
+  underbelly: 54228
+  unequally: 86266
+  unequivocally: 36809
+  unilaterally: 32582
+  unintentionally: 35293
+  universally: 12646
+  unlawfully: 36920
+  unnaturally: 70406
+  unofficially: 61406
+  unrealistically: 94731
+  unsuccessfully: 32741
+  unusually: 11947
+scored_words:
+  unconventionally: 270341
+  unethically: 203853
+  uneventfully: 200081
+  unfaithfully: 290485
+  ungratefully: 191450
+  unmercifully: 140289
+not_scored_words:
+- uncivilly
+- uncontroversially
+- undemocratically
+- uneconomically
+- unemotionally
+- unenthusiastically
+- unexceptionally
+- ungracefully
+- ungrammatically
+- unheedfully
+- unhelpfully
+- unmusically
+- unprofessionally
+- unresentfully
+- unromantically
+- unscientifically
+- unskillfully
+- unsocially
+- unsympathetically
+- unsystematically
+- untactfully
+- untruthfully
+- untypically

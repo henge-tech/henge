@@ -1,0 +1,43 @@
+---
+pattern: ne_l
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 33
+score: 1126339
+score_per_word: 66255
+hi_scored_words:
+  neanderthal: 54641
+  needful: 35027
+  neglectful: 94484
+  neoclassical: 39132
+  neoliberal: 59067
+  neonatal: 19378
+  netball: 27673
+  neural: 11450
+  neurological: 17275
+  neuronal: 21759
+  neurosurgical: 69379
+  neutral: 4993
+  neutrophil: 50321
+  newel: 87688
+  newsreel: 63422
+scored_words:
+  neral: 289682
+  nerval: 180968
+not_scored_words:
+- Neal
+- Neanderthal
+- Neil
+- Nell
+- Nembutal
+- Neotropical
+- Nepal
+- Nerval
+- Netzahualcoyotl
+- Nevil
+- Newell
+- necrological
+- needleful
+- neocolonial
+- neological
+- newsgirl

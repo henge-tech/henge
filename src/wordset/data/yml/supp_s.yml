@@ -1,0 +1,38 @@
+---
+pattern: supp_s
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 28
+score: 1665271
+score_per_word: 83263
+hi_scored_words:
+  suppers: 66992
+  supplements: 13182
+  supplications: 90109
+  suppliers: 3752
+  supplies: 1713
+  supporters: 5929
+  supports: 3296
+  supposes: 54303
+  suppositions: 94351
+  suppositories: 60429
+  suppress: 11378
+  suppressants: 85710
+  suppresses: 46501
+  suppressors: 55704
+scored_words:
+  supplants: 196656
+  suppleness: 105323
+  suppliants: 165966
+  supplicants: 185364
+  supportiveness: 307736
+  supposititious: 110877
+not_scored_words:
+- supplanters
+- supplejacks
+- supplicates
+- supportings
+- supposals
+- suppositious
+- suppositiousness
+- suppurates

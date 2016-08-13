@@ -1,0 +1,37 @@
+---
+pattern: _nee
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 27
+score: 1385440
+score_per_word: 92362
+hi_scored_words:
+  assignee: 32112
+  consignee: 60721
+  detainee: 39562
+  donee: 83395
+  knee: 4243
+  matinee: 33773
+  nee: 17385
+  nominee: 17114
+  trainee: 17755
+scored_words:
+  donnee: 225167
+  examinee: 101170
+  internee: 276520
+  kokanee: 120031
+  ranee: 223314
+  returnee: 133178
+not_scored_words:
+- Menominee
+- Pawnee
+- Renee
+- Shawnee
+- Suwanee
+- Suwannee
+- Swanee
+- alienee
+- maharanee
+- retrainee
+- soignee
+- townee

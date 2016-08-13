@@ -1,0 +1,45 @@
+---
+pattern: comp_es
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 35
+score: 1593078
+score_per_word: 63723
+hi_scored_words:
+  companies: 1431
+  compares: 11978
+  compasses: 37902
+  compatibles: 84217
+  compensates: 48391
+  competences: 49592
+  competencies: 14938
+  competes: 29882
+  compiles: 36191
+  completes: 14272
+  complexes: 21833
+  complexities: 25327
+  complicates: 46162
+  complies: 26063
+  composes: 54759
+  composites: 20857
+  compresses: 52564
+  comprises: 10248
+  compromises: 26628
+  computes: 30792
+scored_words:
+  comparatives: 114095
+  compatibilities: 121092
+  complementarities: 139827
+  compotes: 310718
+  comprehensives: 263319
+not_scored_words:
+- companionablenesses
+- compartmentalizes
+- comperes
+- complexnesses
+- compliancies
+- complines
+- compressibilities
+- compulsories
+- computerizes
+- compères

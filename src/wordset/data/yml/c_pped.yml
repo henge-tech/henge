@@ -1,0 +1,22 @@
+---
+pattern: c_pped
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 460811
+score_per_word: 46081
+hi_scored_words:
+  capped: 18355
+  chapped: 72993
+  chipped: 25691
+  chopped: 9624
+  clapped: 38012
+  clipped: 21228
+  copped: 99407
+  cropped: 21237
+  cupped: 52367
+scored_words:
+  crapped: 101897
+not_scored_words:
+- catnapped
+- clopped

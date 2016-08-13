@@ -1,0 +1,27 @@
+---
+pattern: s_ams
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 1140308
+score_per_word: 87716
+hi_scored_words:
+  scams: 16088
+  screams: 15679
+  seams: 21297
+  shams: 39039
+  slams: 22443
+  spams: 52131
+  steams: 92951
+  streams: 4551
+  subprograms: 96904
+  sunbeams: 95858
+scored_words:
+  scrams: 323042
+  sonograms: 203285
+  spectrograms: 157040
+not_scored_words:
+- Spams
+- Styrofoams
+- salaams
+- slipstreams

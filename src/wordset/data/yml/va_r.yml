@@ -1,0 +1,47 @@
+---
+pattern: va_r
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 37
+score: 2038007
+score_per_word: 107263
+hi_scored_words:
+  vacuolar: 86323
+  valor: 17461
+  valuer: 77002
+  valvular: 71997
+  vanquisher: 80801
+  vapor: 9794
+  vaporizer: 67859
+  var: 8740
+  vascular: 15986
+  vasodilator: 65397
+scored_words:
+  vacationer: 156335
+  vaguer: 246416
+  vair: 131763
+  valuator: 251635
+  varistor: 242697
+  vasoconstrictor: 107476
+  vasomotor: 103800
+  vaster: 130138
+  vaulter: 166387
+not_scored_words:
+- VAR
+- Vader
+- Vancouver
+- Vanir
+- Var
+- Vardar
+- Varityper
+- Vassar
+- vaccinator
+- vacillator
+- vainer
+- vamper
+- vanisher
+- vaporimeter
+- variometer
+- vasoinhibitor
+- vaticinator
+- vaunter

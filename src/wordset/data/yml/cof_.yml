@@ -1,0 +1,31 @@
+---
+pattern: cof_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 21
+score: 1581907
+score_per_word: 98869
+hi_scored_words:
+  coff: 90409
+  coffee: 1574
+  coffeehouse: 33977
+  coffeehouses: 90216
+  coffeemaker: 60786
+  coffees: 28673
+  coffer: 71832
+  coffers: 40743
+  coffin: 11759
+  coffins: 39774
+  coffle: 44070
+scored_words:
+  coffeecake: 275922
+  coffeemakers: 180883
+  coffeepot: 151358
+  coffeepots: 267872
+  cofferdam: 192059
+not_scored_words:
+- Coffey
+- coffeecakes
+- cofferdams
+- coffined
+- coffining

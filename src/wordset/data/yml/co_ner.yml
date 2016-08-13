@@ -1,0 +1,38 @@
+---
+pattern: co_ner
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 28
+score: 1294640
+score_per_word: 86309
+hi_scored_words:
+  combiner: 93167
+  commissioner: 5153
+  commoner: 53191
+  conditioner: 17744
+  confectioner: 90682
+  container: 9990
+  convener: 32337
+  corner: 1311
+  coroner: 20930
+scored_words:
+  coiner: 203054
+  complainer: 156304
+  concessioner: 196066
+  congener: 115549
+  cordwainer: 137293
+  cosigner: 161869
+not_scored_words:
+- Conner
+- Costner
+- condemner
+- condoner
+- confiner
+- conjoiner
+- constrainer
+- contemner
+- contravener
+- conventioner
+- coparcener
+- copartner
+- cozener

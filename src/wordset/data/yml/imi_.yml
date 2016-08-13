@@ -1,0 +1,29 @@
+---
+pattern: imi_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 19
+score: 1474208
+score_per_word: 98280
+hi_scored_words:
+  imidazole: 91791
+  imitate: 19444
+  imitated: 39440
+  imitates: 57010
+  imitating: 35546
+  imitation: 10831
+  imitations: 37791
+  imitative: 62184
+  imitator: 85536
+  imitators: 48031
+scored_words:
+  imidazoles: 204110
+  imide: 195948
+  imine: 219972
+  imit: 196753
+  imitable: 169821
+not_scored_words:
+- imides
+- iminourea
+- imitatively
+- imitativeness

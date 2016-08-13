@@ -1,0 +1,47 @@
+---
+pattern: ref_g
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 37
+score: 1976864
+score_per_word: 73217
+hi_scored_words:
+  refacing: 66243
+  refactoring: 48843
+  refereeing: 58476
+  referencing: 19166
+  referring: 5500
+  refilling: 47954
+  refinancing: 26227
+  refining: 17243
+  refinishing: 56598
+  reflecting: 7504
+  refocusing: 88803
+  reformatting: 78674
+  reforming: 22826
+  refraining: 70352
+  refreshing: 9795
+  refrigerating: 71560
+  refueling: 33810
+  refunding: 52586
+  refurbishing: 56887
+  refusing: 9677
+  refuting: 61210
+scored_words:
+  refiling: 238647
+  refitting: 110705
+  refluxing: 259114
+  refolding: 155313
+  reformulating: 193546
+  refracting: 109605
+not_scored_words:
+- refashioning
+- refastening
+- reffing
+- reflating
+- refloating
+- reforesting
+- reforging
+- refortifying
+- refreezing
+- refurnishing

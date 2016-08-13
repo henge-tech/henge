@@ -1,0 +1,36 @@
+---
+pattern: cou_ed
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 26
+score: 2157667
+score_per_word: 119870
+hi_scored_words:
+  couched: 58971
+  coughed: 48603
+  counseled: 52164
+  counted: 5575
+  counteracted: 95273
+  counterbalanced: 80386
+  countered: 37077
+  coupled: 7397
+  courted: 55760
+scored_words:
+  countenanced: 139389
+  counterattacked: 273710
+  counterchanged: 213190
+  counterfeited: 133121
+  countermanded: 241593
+  countersigned: 114160
+  countrified: 210952
+  couriered: 286896
+  coursed: 103450
+not_scored_words:
+- counterchecked
+- counterclaimed
+- countermarched
+- countermined
+- counterplotted
+- counterpointed
+- counterpoised
+- countervailed

@@ -1,0 +1,47 @@
+---
+pattern: el_es
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 37
+score: 1303774
+score_per_word: 76692
+hi_scored_words:
+  elaborates: 63028
+  elasticities: 55146
+  electives: 24776
+  electorates: 72343
+  electrodes: 23931
+  electrolytes: 37756
+  elegies: 97590
+  elevates: 54327
+  eliminates: 13224
+  elites: 21857
+  ellipses: 52081
+  eludes: 72604
+  elves: 21025
+scored_words:
+  elapses: 122605
+  elderberries: 187511
+  elongates: 237881
+  elucidates: 146089
+not_scored_words:
+- Elamites
+- elastances
+- elasticizes
+- elates
+- elecampanes
+- electrifies
+- electrochemistries
+- electrocutes
+- electromyographies
+- electrophoreses
+- electroplates
+- electroscopes
+- electrotypes
+- elegizes
+- elephantiases
+- elevenses
+- elides
+- ellipticities
+- elopes
+- elutes

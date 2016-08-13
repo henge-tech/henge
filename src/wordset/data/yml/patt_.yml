@@ -1,0 +1,30 @@
+---
+pattern: patt_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 860040
+score_per_word: 66156
+hi_scored_words:
+  patted: 44434
+  patten: 38689
+  patter: 41663
+  pattern: 2489
+  patterned: 27608
+  patterning: 41860
+  patterns: 3318
+  patties: 45097
+  patting: 52962
+  patty: 11354
+scored_words:
+  pattered: 256972
+  pattering: 165337
+  patters: 128257
+not_scored_words:
+- Patterson
+- Patti
+- Pattie
+- Patton
+- Patty
+- pattens
+- patternless

@@ -1,0 +1,27 @@
+---
+pattern: disp_ng
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 906249
+score_per_word: 69711
+hi_scored_words:
+  disparaging: 50182
+  dispatching: 43421
+  dispelling: 71906
+  dispensing: 20134
+  dispersing: 45986
+  displacing: 53374
+  displaying: 4624
+  disposing: 30051
+  disputing: 43067
+scored_words:
+  dispiriting: 130983
+  displeasing: 106889
+  disporting: 186897
+  disproving: 118735
+not_scored_words:
+- displuming
+- dispossessing
+- dispraising
+- dispreading

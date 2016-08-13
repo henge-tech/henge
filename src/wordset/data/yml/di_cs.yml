@@ -1,0 +1,24 @@
+---
+pattern: di_cs
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 838063
+score_per_word: 76187
+hi_scored_words:
+  diabetics: 31016
+  diacritics: 80577
+  diagnostics: 18910
+  dialectics: 63545
+  dianetics: 79677
+  dielectrics: 83241
+  dietetics: 60375
+  discs: 12564
+  diuretics: 41148
+scored_words:
+  didactics: 131022
+  dioptrics: 235988
+not_scored_words:
+- diaphoretics
+- diplomatics
+- dipsomaniacs

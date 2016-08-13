@@ -1,0 +1,24 @@
+---
+pattern: m_ral
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 763787
+score_per_word: 69435
+hi_scored_words:
+  mayoral: 33893
+  mineral: 5309
+  mistral: 42489
+  mitral: 31697
+  monaural: 85598
+  moral: 2383
+  multicultural: 13441
+  multilateral: 17265
+  mural: 21566
+scored_words:
+  magistral: 227684
+  monocultural: 282462
+not_scored_words:
+- maricultural
+- matrilateral
+- mensural

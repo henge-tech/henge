@@ -1,0 +1,66 @@
+---
+pattern: pro_ly
+hi_scored_words_count: 20
+scored_words_count: 19
+total_words: 56
+score: 4061427
+score_per_word: 104139
+hi_scored_words:
+  proactively: 41628
+  probably: 623
+  procedurally: 87139
+  productively: 51290
+  professionally: 14137
+  profitably: 39415
+  profoundly: 14550
+  profusely: 36434
+  progressively: 21070
+  prohibitively: 63397
+  prominently: 15422
+  promptly: 6259
+  properly: 2205
+  proportionally: 45017
+  proportionately: 40638
+  prospectively: 69390
+  proudly: 7351
+  provably: 89686
+  provincially: 85749
+  provisionally: 39960
+scored_words:
+  probabilistically: 162662
+  problematically: 306910
+  prodigiously: 140903
+  profanely: 103822
+  professedly: 197428
+  proficiently: 155675
+  prolifically: 162309
+  promiscuously: 166954
+  promisingly: 235111
+  prophetically: 136156
+  prophylactically: 228015
+  prosperously: 198204
+  protectively: 128982
+  proverbially: 226739
+  providentially: 180687
+  provocatively: 108997
+  provokingly: 194876
+  proximally: 144408
+  proximately: 111229
+not_scored_words:
+- prodigally
+- professorially
+- profligately
+- projectively
+- proleptically
+- prolixly
+- pronouncedly
+- propitiously
+- proprietarily
+- proprietorially
+- proprioceptively
+- prosaically
+- proscriptively
+- prosthetically
+- prototypically
+- protuberantly
+- providently

@@ -1,0 +1,69 @@
+---
+pattern: prol_
+hi_scored_words_count: 17
+scored_words_count: 15
+total_words: 59
+score: 3135525
+score_per_word: 97985
+hi_scored_words:
+  prolactin: 42307
+  prolapse: 49697
+  proletarian: 44054
+  proletariat: 32791
+  proliferate: 48984
+  proliferated: 78577
+  proliferating: 56190
+  proliferation: 13132
+  proliferative: 51051
+  prolific: 15882
+  proline: 37157
+  prologue: 21747
+  prolong: 23163
+  prolongation: 49685
+  prolonged: 8609
+  prolonging: 49866
+  prolongs: 75429
+scored_words:
+  prolapsed: 126197
+  prolate: 143835
+  prole: 105653
+  prolegomena: 134587
+  prolepsis: 187931
+  proleptic: 123959
+  proles: 160344
+  proletarians: 154588
+  proliferates: 204677
+  proliferator: 152610
+  prolifically: 162309
+  prolix: 114945
+  prolixity: 203483
+  prologues: 231903
+  prolonge: 230183
+not_scored_words:
+- prolabor
+- prolamine
+- prolamines
+- prolapses
+- prolapsing
+- proleg
+- prolegomenon
+- prolegomenous
+- prolepses
+- proleptically
+- proletarianism
+- proliferous
+- prolificacies
+- prolificacy
+- prolificness
+- prolines
+- prolixly
+- prolocutor
+- prologize
+- prologized
+- prologizes
+- prologizing
+- prologuize
+- prolongate
+- prolongations
+- prolusion
+- prolusions

@@ -1,0 +1,33 @@
+---
+pattern: grac_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 23
+score: 1117368
+score_per_word: 79812
+hi_scored_words:
+  grace: 2169
+  graced: 37337
+  graceful: 11929
+  gracefully: 19582
+  graces: 23411
+  gracing: 90138
+  gracious: 11440
+  graciously: 33227
+  graciousness: 96354
+scored_words:
+  gracefulness: 147286
+  graceless: 123690
+  gracile: 190098
+  grackle: 106719
+  grackles: 223988
+not_scored_words:
+- Gracchus
+- Grace
+- Graceland
+- Graces
+- Gracie
+- Graciela
+- gracelessly
+- gracelessness
+- gracioso

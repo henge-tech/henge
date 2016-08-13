@@ -1,0 +1,31 @@
+---
+pattern: b_ock
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 21
+score: 1087918
+score_per_word: 90659
+hi_scored_words:
+  bannock: 56997
+  bedrock: 23776
+  block: 2038
+  bloodstock: 86628
+  bock: 34313
+  brock: 14457
+  bullock: 18836
+  burdock: 74007
+  buttock: 52797
+scored_words:
+  bawcock: 218667
+  billycock: 219270
+  blackcock: 286132
+not_scored_words:
+- Birkenstock
+- Braddock
+- Brock
+- Bullock
+- ballcock
+- bemock
+- bibcock
+- bitstock
+- breechblock

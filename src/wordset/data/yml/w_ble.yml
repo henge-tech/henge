@@ -1,0 +1,29 @@
+---
+pattern: w_ble
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 19
+score: 1413238
+score_per_word: 100945
+hi_scored_words:
+  walkable: 79067
+  warble: 88066
+  washable: 29676
+  watchable: 66040
+  wearable: 31174
+  wobble: 33272
+  womble: 81420
+  workable: 30517
+  writable: 61705
+scored_words:
+  weldable: 286044
+  wettable: 197575
+  winnable: 112745
+  worktable: 174357
+  writeable: 141580
+not_scored_words:
+- wadable
+- wamble
+- warrantable
+- willable
+- wimble

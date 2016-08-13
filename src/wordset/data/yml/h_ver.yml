@@ -1,0 +1,26 @@
+---
+pattern: h_ver
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 16
+score: 617184
+score_per_word: 56107
+hi_scored_words:
+  handover: 34687
+  hangover: 21730
+  hardcover: 5019
+  haver: 81266
+  holdover: 92781
+  hoover: 16178
+  hover: 17394
+  however: 224
+  howsoever: 83859
+  hungover: 73191
+scored_words:
+  heaver: 190855
+not_scored_words:
+- Hannover
+- Hanover
+- Hoover
+- helldiver
+- hemidemisemiquaver

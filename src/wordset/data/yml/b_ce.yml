@@ -1,0 +1,42 @@
+---
+pattern: b_ce
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 32
+score: 1055955
+score_per_word: 58664
+hi_scored_words:
+  backspace: 46101
+  balance: 1781
+  benefice: 86269
+  beneficence: 80859
+  benevolence: 30113
+  bice: 54510
+  birefringence: 91238
+  birthplace: 14587
+  blackface: 92417
+  bocce: 79467
+  bodice: 34452
+  boldface: 59963
+  bounce: 13203
+  brace: 12120
+  brilliance: 17278
+scored_words:
+  belligerence: 101110
+  bioluminescence: 105857
+  bootlace: 134630
+not_scored_words:
+- Ballance
+- Beatrice
+- Berenice
+- Bernice
+- Bierce
+- Boniface
+- Brice
+- Bruce
+- Bryce
+- bechance
+- bonce
+- brattice
+- brisance
+- bullace

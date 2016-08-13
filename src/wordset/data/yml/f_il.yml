@@ -1,0 +1,26 @@
+---
+pattern: f_il
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 16
+score: 1431057
+score_per_word: 102218
+hi_scored_words:
+  fail: 1749
+  fingernail: 48815
+  flail: 55071
+  foil: 10983
+  foresail: 66715
+  fossil: 8278
+  foxtail: 79897
+  frail: 20793
+scored_words:
+  fantail: 107010
+  fauteuil: 211685
+  fibril: 141157
+  fishtail: 105661
+  flickertail: 317141
+  fusil: 256102
+not_scored_words:
+- forestaysail
+- frazil

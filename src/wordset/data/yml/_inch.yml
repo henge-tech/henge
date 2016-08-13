@@ -1,0 +1,28 @@
+---
+pattern: _inch
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 18
+score: 1118680
+score_per_word: 79905
+hi_scored_words:
+  cinch: 41605
+  clinch: 29478
+  finch: 18824
+  flinch: 50786
+  goldfinch: 60849
+  inch: 2106
+  pinch: 11334
+  winch: 27658
+scored_words:
+  bullfinch: 107899
+  chaffinch: 114525
+  chinch: 153470
+  greenfinch: 184986
+  hawfinch: 129029
+  squinch: 186131
+not_scored_words:
+- Bulfinch
+- Finch
+- Grinch
+- unclinch

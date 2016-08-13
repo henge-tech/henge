@@ -1,0 +1,30 @@
+---
+pattern: st_ps
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 693071
+score_per_word: 53313
+hi_scored_words:
+  stamps: 6346
+  startups: 28004
+  steps: 1288
+  stirrups: 61794
+  stomps: 78844
+  stoops: 62431
+  stops: 4851
+  straps: 12760
+  strips: 7794
+  stumps: 29407
+scored_words:
+  steamships: 110397
+  steeps: 153791
+  studentships: 135364
+not_scored_words:
+- stickups
+- stirps
+- stonecrops
+- stopgaps
+- stoups
+- streetlamps
+- strops

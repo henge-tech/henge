@@ -1,0 +1,34 @@
+---
+pattern: _how
+hi_scored_words_count: 13
+scored_words_count: 0
+total_words: 24
+score: 505297
+score_per_word: 38869
+hi_scored_words:
+  airshow: 55587
+  anyhow: 12383
+  chow: 22035
+  dhow: 87992
+  how: 76
+  knowhow: 82655
+  nohow: 96928
+  peepshow: 71983
+  roadshow: 27873
+  show: 199
+  sideshow: 30496
+  slideshow: 13546
+  somehow: 3544
+scored_words: {}
+not_scored_words:
+- Chengchow
+- Kiaochow
+- Kwangchow
+- Kweichow
+- Lanchow
+- Soochow
+- Virchow
+- chowchow
+- floorshow
+- foreshow
+- reshow

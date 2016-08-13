@@ -1,0 +1,26 @@
+---
+pattern: th_m
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 828430
+score_per_word: 69035
+hi_scored_words:
+  thallium: 53353
+  theism: 52247
+  them: 75
+  theorem: 15653
+  therefrom: 27008
+  therm: 60547
+  thorium: 44589
+  thromboembolism: 78890
+  thunderstorm: 22454
+scored_words:
+  thraldom: 107127
+  thrum: 156545
+  thulium: 209942
+not_scored_words:
+- Thomism
+- thanedom
+- thigmotropism
+- thralldom

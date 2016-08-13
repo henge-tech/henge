@@ -1,0 +1,51 @@
+---
+pattern: oi_
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 41
+score: 1795988
+score_per_word: 85523
+hi_scored_words:
+  oi: 11372
+  oil: 1069
+  oilcloth: 98528
+  oiled: 29010
+  oiler: 60962
+  oilers: 24809
+  oilfield: 45911
+  oilfields: 86958
+  oiling: 73404
+  oils: 7855
+  oilseed: 66052
+  oily: 18537
+  oink: 51736
+  ointment: 21839
+  ointments: 61747
+scored_words:
+  oilily: 169285
+  oiliness: 253678
+  oilman: 131558
+  oilmen: 260628
+  oilskin: 147322
+  oilskins: 173728
+not_scored_words:
+- Oireachtas
+- Oise
+- Oisin
+- Oistrakh
+- oidium
+- oik
+- oiks
+- oilbird
+- oilbirds
+- oilcan
+- oilcans
+- oilcloths
+- oilcup
+- oilier
+- oiliest
+- oilstone
+- oilstones
+- oinked
+- oinking
+- oinks

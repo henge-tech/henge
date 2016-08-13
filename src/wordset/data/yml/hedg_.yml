@@ -1,0 +1,24 @@
+---
+pattern: hedg_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 743974
+score_per_word: 74397
+hi_scored_words:
+  hedge: 8304
+  hedged: 50788
+  hedgehog: 22606
+  hedgehogs: 50528
+  hedgerow: 77086
+  hedgerows: 68089
+  hedges: 20892
+  hedging: 28919
+scored_words:
+  hedger: 125929
+  hedgers: 290833
+not_scored_words:
+- hedgehop
+- hedgehopped
+- hedgehopping
+- hedgehops

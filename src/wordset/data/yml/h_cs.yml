@@ -1,0 +1,38 @@
+---
+pattern: h_cs
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 28
+score: 1264155
+score_per_word: 84277
+hi_scored_words:
+  harmonics: 40076
+  heretics: 38251
+  hermeneutics: 47189
+  heroics: 64286
+  heuristics: 35122
+  hieroglyphics: 55639
+  hydraulics: 27610
+  hydrodynamics: 55733
+  hydroponics: 49774
+  hypnotics: 94948
+  hysterics: 81694
+scored_words:
+  hemophiliacs: 198105
+  histrionics: 114577
+  homiletics: 165984
+  hydrostatics: 195167
+not_scored_words:
+- Hispanics
+- hallucinogenics
+- hedonics
+- helminthics
+- honorifics
+- hydrokinetics
+- hydromagnetics
+- hydromechanics
+- hydrotherapeutics
+- hygienics
+- hypochondriacs
+- hypodermics
+- hypoglycemics

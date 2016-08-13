@@ -1,0 +1,25 @@
+---
+pattern: gr_on
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 757284
+score_per_word: 68844
+hi_scored_words:
+  gradation: 43829
+  graduation: 9779
+  grandson: 12176
+  granulation: 57572
+  gratification: 22476
+  gravitation: 29659
+  gridiron: 43160
+  griffon: 43324
+scored_words:
+  gratulation: 145109
+  graviton: 101150
+  grunion: 249050
+not_scored_words:
+- Grafton
+- Granjon
+- grison
+- grivation

@@ -1,0 +1,43 @@
+---
+pattern: _lty
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 33
+score: 1347751
+score_per_word: 53910
+hi_scored_words:
+  admiralty: 18663
+  casualty: 16180
+  cruelty: 10485
+  difficulty: 3202
+  disloyalty: 77000
+  faculty: 2145
+  faulty: 13525
+  fealty: 61833
+  frailty: 51806
+  guilty: 3148
+  loyalty: 6158
+  novelty: 7441
+  penalty: 3844
+  realty: 15036
+  royalty: 5024
+  salty: 22946
+  silty: 57143
+  specialty: 7807
+  subspecialty: 84243
+  viceroyalty: 40717
+scored_words:
+  commonalty: 249568
+  malty: 111022
+  mayoralty: 135702
+  personalty: 194519
+  severalty: 148594
+not_scored_words:
+- Admiralty
+- Welty
+- jolty
+- mesnalty
+- shelty
+- shrievalty
+- spiritualty
+- vaulty

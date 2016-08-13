@@ -1,0 +1,54 @@
+---
+pattern: chem_
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 44
+score: 2250034
+score_per_word: 102274
+hi_scored_words:
+  chem: 6234
+  chemical: 2702
+  chemically: 23193
+  chemicals: 6803
+  chemiluminescence: 97659
+  chemise: 50057
+  chemist: 13684
+  chemistry: 4320
+  chemists: 24740
+  chemo: 33778
+  chemotaxis: 67503
+  chemotherapeutic: 70086
+  chemotherapy: 15178
+scored_words:
+  chemiluminescent: 173923
+  chemises: 122028
+  chemisorbed: 317616
+  chemisorption: 174373
+  chemoprophylaxis: 151703
+  chemoreception: 308982
+  chemoreceptor: 239317
+  chemoreceptors: 178689
+  chemosphere: 167466
+not_scored_words:
+- Chemnitz
+- Chemulpo
+- chemiluminescences
+- chemisette
+- chemism
+- chemisorb
+- chemisorbing
+- chemisorbs
+- chemisorptions
+- chemmy
+- chemoreceptive
+- chemoreceptivity
+- chemosmosis
+- chemosyntheses
+- chemosynthesis
+- chemosynthetic
+- chemotaxes
+- chemotherapist
+- chemotropism
+- chemurgic
+- chemurgical
+- chemurgy

@@ -1,0 +1,52 @@
+---
+pattern: ev_e
+hi_scored_words_count: 22
+scored_words_count: 5
+total_words: 42
+score: 1833618
+score_per_word: 67911
+hi_scored_words:
+  evacuate: 24365
+  evacuee: 94851
+  evade: 24095
+  evaluate: 7729
+  evaluative: 34249
+  evanescence: 21704
+  evangelize: 73713
+  evaporate: 36567
+  evaporative: 51684
+  evasive: 33196
+  eve: 4053
+  eventide: 71508
+  evermore: 38439
+  everyone: 1535
+  everyplace: 85077
+  everywhere: 2890
+  evidence: 854
+  evince: 61990
+  evite: 79377
+  evocative: 34057
+  evoke: 24325
+  evolve: 13968
+scored_words:
+  evaporite: 255242
+  eventuate: 160979
+  everglade: 273527
+  eviscerate: 116675
+  evolvable: 206969
+not_scored_words:
+- Evangeline
+- Evansville
+- Eve
+- Everette
+- evadable
+- evaginate
+- evanesce
+- evaporable
+- evictee
+- evincible
+- evincive
+- evitable
+- evocable
+- evolute
+- evzone

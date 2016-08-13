@@ -1,0 +1,27 @@
+---
+pattern: _ndly
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 670599
+score_per_word: 51584
+hi_scored_words:
+  blindly: 23461
+  fondly: 30013
+  friendly: 1235
+  grandly: 92133
+  kindly: 6628
+  profoundly: 14550
+  roundly: 72022
+  secondly: 8439
+  soundly: 37878
+  unfriendly: 27727
+scored_words:
+  blandly: 110214
+  spindly: 115358
+  unkindly: 130941
+not_scored_words:
+- jocundly
+- moribundly
+- rotundly
+- unsoundly

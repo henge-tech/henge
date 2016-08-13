@@ -1,0 +1,32 @@
+---
+pattern: _bal
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 22
+score: 642233
+score_per_word: 49402
+hi_scored_words:
+  bal: 18762
+  cabal: 31389
+  cannibal: 27051
+  cymbal: 32635
+  gimbal: 81456
+  global: 7796
+  herbal: 10820
+  nonverbal: 39709
+  tribal: 7797
+  tubal: 44353
+  verbal: 7258
+scored_words:
+  preverbal: 220210
+  scribal: 112997
+not_scored_words:
+- Anibal
+- BAL
+- Hannibal
+- Hasdrubal
+- Iqbal
+- Jubal
+- bubal
+- timbal
+- tymbal

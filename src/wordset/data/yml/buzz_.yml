@@ -1,0 +1,23 @@
+---
+pattern: buzz_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 797292
+score_per_word: 66441
+hi_scored_words:
+  buzz: 7345
+  buzzard: 34258
+  buzzards: 57212
+  buzzed: 54909
+  buzzer: 28030
+  buzzers: 79374
+  buzzes: 88957
+  buzzing: 20379
+  buzzword: 50969
+  buzzwords: 40578
+scored_words:
+  buzzkill: 210405
+  buzzsaw: 124876
+not_scored_words:
+- buzzkills

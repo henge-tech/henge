@@ -1,0 +1,41 @@
+---
+pattern: sup_t
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 31
+score: 1822580
+score_per_word: 101254
+hi_scored_words:
+  superintendent: 7255
+  supermarket: 14228
+  supernatant: 47111
+  superscript: 49471
+  supplant: 42838
+  supplement: 6141
+  supplicant: 90153
+  support: 258
+  suppressant: 55211
+  supremacist: 61949
+  supt: 52051
+scored_words:
+  superabsorbent: 254236
+  superabundant: 258969
+  supercontinent: 202350
+  supergiant: 179921
+  superheat: 172580
+  superincumbent: 177635
+  suppliant: 150223
+not_scored_words:
+- Supt
+- superbest
+- superconduct
+- superdominant
+- superdreadnought
+- supereminent
+- superjacent
+- supernaturalist
+- superpatriot
+- supersecret
+- supersmart
+- supervenient
+- supplest

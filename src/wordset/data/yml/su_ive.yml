@@ -1,0 +1,34 @@
+---
+pattern: su_ive
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 24
+score: 1285141
+score_per_word: 75596
+hi_scored_words:
+  subjective: 8687
+  subjunctive: 56293
+  submissive: 21256
+  substantive: 14833
+  subtractive: 89171
+  subversive: 28752
+  successive: 8771
+  suggestive: 18264
+  summative: 62787
+  superlative: 37218
+  supportive: 7714
+  suppressive: 69404
+  survive: 4283
+scored_words:
+  substitutive: 279932
+  superconductive: 198312
+  suppurative: 111996
+  suspensive: 267468
+not_scored_words:
+- suasive
+- subordinative
+- suffusive
+- superexpensive
+- supersensitive
+- suppositive
+- susceptive

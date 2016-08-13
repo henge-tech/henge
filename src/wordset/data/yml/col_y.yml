@@ -1,0 +1,43 @@
+---
+pattern: col_y
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 33
+score: 1880040
+score_per_word: 98949
+hi_scored_words:
+  coldly: 39446
+  coley: 58273
+  collaboratively: 40825
+  collectively: 11461
+  collegiality: 97121
+  colliery: 40173
+  colloquially: 75738
+  colloquy: 50424
+  colonoscopy: 50289
+  colony: 5435
+  colostomy: 76114
+scored_words:
+  colectomy: 140964
+  colicky: 130050
+  collaterally: 217995
+  collectivity: 104664
+  colly: 137592
+  colorfully: 106307
+  colorway: 168174
+  coly: 328995
+not_scored_words:
+- Colby
+- Coligny
+- collaterality
+- collectedly
+- collusively
+- colonelcy
+- colonially
+- colophony
+- colorlessly
+- colossally
+- colotomy
+- colpotomy
+- coltishly
+- columbary

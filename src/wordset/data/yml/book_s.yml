@@ -1,0 +1,30 @@
+---
+pattern: book_s
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 20
+score: 1100170
+score_per_word: 64715
+hi_scored_words:
+  bookcases: 41407
+  bookends: 47849
+  bookies: 56050
+  bookings: 11014
+  bookkeepers: 96578
+  booklets: 25159
+  bookmakers: 40889
+  bookmarks: 12448
+  books: 266
+  booksellers: 24285
+  bookshelves: 36509
+  bookshops: 45957
+  bookstores: 16546
+  bookworms: 94776
+scored_words:
+  bookbinders: 116018
+  bookmobiles: 290960
+  bookplates: 143459
+not_scored_words:
+- bookbinderies
+- bookmarkers
+- bookstalls

@@ -1,0 +1,32 @@
+---
+pattern: cri_e
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 22
+score: 1112712
+score_per_word: 92726
+hi_scored_words:
+  cribbage: 53333
+  crime: 1380
+  criminalize: 81988
+  cringe: 31531
+  crinkle: 58113
+  cripple: 18833
+  criticize: 18727
+  critique: 9879
+scored_words:
+  criminate: 319207
+  crinoline: 110949
+  crippleware: 139563
+  cristobalite: 269209
+not_scored_words:
+- Criseyde
+- cribble
+- crimple
+- crine
+- cringle
+- crinite
+- crinose
+- crispate
+- cristate
+- criticizable

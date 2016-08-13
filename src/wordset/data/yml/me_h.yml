@@ -1,0 +1,37 @@
+---
+pattern: me_h
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 27
+score: 1050494
+score_per_word: 87541
+hi_scored_words:
+  mech: 23194
+  megalith: 78186
+  meh: 25422
+  menorah: 57939
+  mensch: 41490
+  mesh: 10215
+  messiah: 17481
+  meth: 16245
+scored_words:
+  megachurch: 214857
+  megadeath: 292745
+  megillah: 167963
+  mezuzah: 104757
+not_scored_words:
+- Meath
+- Megillah
+- Menorah
+- Meredith
+- Merodach
+- Meshach
+- Messiah
+- Methuselah
+- Metternich
+- mesarch
+- meshugah
+- mesomorph
+- metaph
+- meteorograph
+- mezuzoth

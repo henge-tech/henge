@@ -1,0 +1,24 @@
+---
+pattern: o_et
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 502591
+score_per_word: 50259
+hi_scored_words:
+  objet: 51511
+  obstet: 33870
+  octet: 29050
+  offset: 8518
+  omelet: 43344
+  onset: 10052
+  outlet: 5289
+  outset: 13416
+scored_words:
+  overset: 186815
+  owlet: 120726
+not_scored_words:
+- Olivet
+- Osset
+- octuplet
+- oversweet

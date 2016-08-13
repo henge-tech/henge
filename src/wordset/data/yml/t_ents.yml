@@ -1,0 +1,24 @@
+---
+pattern: t_ents
+hi_scored_words_count: 11
+scored_words_count: 0
+total_words: 14
+score: 401423
+score_per_word: 36493
+hi_scored_words:
+  talents: 6935
+  tangents: 63572
+  temperaments: 68421
+  tenements: 56670
+  tents: 8298
+  testaments: 51014
+  torments: 54176
+  torrents: 19071
+  tournaments: 12108
+  transients: 46028
+  treatments: 15130
+scored_words: {}
+not_scored_words:
+- teguments
+- traducements
+- tridents

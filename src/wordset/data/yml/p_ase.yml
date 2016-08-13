@@ -1,0 +1,32 @@
+---
+pattern: p_ase
+hi_scored_words_count: 18
+scored_words_count: 1
+total_words: 22
+score: 872214
+score_per_word: 45906
+hi_scored_words:
+  paraphrase: 27427
+  pase: 90787
+  passphrase: 71985
+  peptidase: 61749
+  peroxidase: 40979
+  phase: 2797
+  phosphatase: 24358
+  phosphodiesterase: 68929
+  phosphorylase: 70419
+  phrase: 2834
+  pillowcase: 54461
+  plagioclase: 60725
+  please: 206
+  polymerase: 19243
+  prerelease: 47262
+  protease: 25587
+  proteinase: 58097
+  purchase: 1463
+scored_words:
+  prophase: 142906
+not_scored_words:
+- pectase
+- prase
+- predecease

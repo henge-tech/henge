@@ -1,0 +1,49 @@
+---
+pattern: colo_s
+hi_scored_words_count: 9
+scored_words_count: 14
+total_words: 39
+score: 2937444
+score_per_word: 127714
+hi_scored_words:
+  colognes: 60285
+  colonels: 43640
+  colonials: 54328
+  colonies: 9264
+  colonists: 21867
+  colons: 67419
+  colorless: 27609
+  colors: 2610
+  colossus: 28346
+scored_words:
+  colobus: 126065
+  colones: 159788
+  colonialists: 124300
+  colonics: 206571
+  colonizers: 111175
+  colonizes: 278022
+  colonnades: 132883
+  colonoscopies: 266887
+  colorants: 103550
+  colorblindness: 285299
+  colorimeters: 270965
+  colorings: 109850
+  colorists: 210518
+  colorways: 236203
+not_scored_words:
+- Colombes
+- Colombians
+- Coloradans
+- Colossians
+- colobuses
+- colonizations
+- colophonies
+- colophons
+- coloraturas
+- colorcasts
+- coloreds
+- colorfastness
+- colorfulness
+- colorizes
+- colorlessness
+- colostomies

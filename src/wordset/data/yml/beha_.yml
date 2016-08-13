@@ -1,0 +1,25 @@
+---
+pattern: beha_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 550416
+score_per_word: 45868
+hi_scored_words:
+  behalf: 2792
+  behave: 7923
+  behaved: 14454
+  behaves: 25628
+  behaving: 22552
+  behavior: 2971
+  behavioral: 10692
+  behaviorally: 95187
+  behaviorism: 90325
+  behaviors: 7590
+scored_words:
+  behaviorist: 100148
+  behaviorists: 170154
+not_scored_words:
+- Behan
+- behalves
+- behavioristic

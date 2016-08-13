@@ -1,0 +1,57 @@
+---
+pattern: b_lly
+hi_scored_words_count: 12
+scored_words_count: 13
+total_words: 47
+score: 3039845
+score_per_word: 121593
+hi_scored_words:
+  bally: 33766
+  basically: 6743
+  beautifully: 6388
+  behaviorally: 95187
+  belly: 8968
+  beneficially: 62259
+  bilaterally: 65718
+  billy: 3155
+  biologically: 25149
+  blissfully: 59582
+  brutally: 24747
+  bully: 13252
+scored_words:
+  bacterially: 300291
+  basally: 185307
+  bashfully: 271588
+  biannually: 150545
+  bidirectionally: 319170
+  biennially: 106078
+  bilingually: 298658
+  biochemically: 124823
+  boastfully: 131837
+  botanically: 163899
+  bountifully: 197987
+  brolly: 116131
+  bureaucratically: 268617
+not_scored_words:
+- Bailly
+- Bareilly
+- Biblically
+- Billy
+- bacteriologically
+- balefully
+- ballistically
+- banally
+- barbarically
+- barometrically
+- beatifically
+- bestially
+- bibliographically
+- binaurally
+- binomially
+- biogenetically
+- biographically
+- bionically
+- bisexually
+- blithefully
+- bombastically
+- bucolically

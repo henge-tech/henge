@@ -1,0 +1,50 @@
+---
+pattern: th_g
+hi_scored_words_count: 27
+scored_words_count: 7
+total_words: 40
+score: 2144719
+score_per_word: 63079
+hi_scored_words:
+  thanking: 21211
+  thanksgiving: 7560
+  thawing: 53614
+  theorizing: 58421
+  thickening: 30763
+  thieving: 50429
+  thing: 313
+  thinking: 925
+  thinning: 27428
+  thong: 13115
+  thoroughgoing: 98037
+  thrashing: 34847
+  threading: 25487
+  threatening: 5860
+  threshing: 48861
+  thrilling: 14944
+  thriving: 15168
+  throbbing: 27914
+  throng: 31447
+  throttling: 61003
+  throwing: 5032
+  thrusting: 36828
+  thug: 22926
+  thumbing: 90150
+  thumping: 34140
+  thundering: 32745
+  thwarting: 71662
+scored_words:
+  thalweg: 322777
+  thatching: 136952
+  thermosetting: 122247
+  thirsting: 102172
+  thronging: 148334
+  thrumming: 240516
+  thudding: 150891
+not_scored_words:
+- Thanksgiving
+- thimblerig
+- thingamajig
+- thingumajig
+- thralling
+- thwacking

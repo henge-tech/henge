@@ -1,0 +1,56 @@
+---
+pattern: _tile
+hi_scored_words_count: 27
+scored_words_count: 5
+total_words: 46
+score: 2050215
+score_per_word: 64069
+hi_scored_words:
+  contractile: 57289
+  ductile: 51622
+  erectile: 24515
+  fertile: 11498
+  futile: 20470
+  gentile: 26245
+  hostile: 6707
+  infantile: 32075
+  infertile: 42486
+  mercantile: 20779
+  motile: 69097
+  nonvolatile: 83993
+  percentile: 19318
+  projectile: 24134
+  pulsatile: 70014
+  quartile: 45062
+  quintile: 62226
+  reptile: 18020
+  rutile: 78917
+  stile: 37526
+  tactile: 30894
+  textile: 11678
+  tile: 9941
+  turnstile: 73666
+  utile: 64417
+  versatile: 12719
+  volatile: 11705
+scored_words:
+  bissextile: 239240
+  chrysotile: 124046
+  coleoptile: 314487
+  inutile: 195084
+  subtile: 160345
+not_scored_words:
+- Castile
+- fictile
+- fluviatile
+- immotile
+- inductile
+- insectile
+- interfertile
+- nonmotile
+- pantile
+- protractile
+- retractile
+- tortile
+- tractile
+- vibratile

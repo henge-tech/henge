@@ -1,0 +1,57 @@
+---
+pattern: h_ter
+hi_scored_words_count: 23
+scored_words_count: 8
+total_words: 47
+score: 2541002
+score_per_word: 81967
+hi_scored_words:
+  halter: 21620
+  hamster: 21447
+  harvester: 31795
+  hater: 29830
+  hatter: 41006
+  headhunter: 52601
+  headmaster: 32587
+  headquarter: 46699
+  headwater: 92372
+  heater: 19438
+  helicopter: 10594
+  hereafter: 12005
+  hereinafter: 26434
+  highlighter: 54268
+  hinter: 87244
+  hipster: 27466
+  hitter: 22848
+  holster: 21640
+  hooter: 58673
+  hotter: 18647
+  hunter: 3054
+  hydrometer: 92474
+  hygrometer: 74504
+scored_words:
+  harbormaster: 183152
+  haunter: 179538
+  hexameter: 184398
+  honester: 279988
+  housemaster: 165343
+  huckster: 138126
+  hurter: 274043
+  hypocenter: 237168
+not_scored_words:
+- Hester
+- Hofstadter
+- Hunter
+- haircutter
+- hairsplitter
+- handicrafter
+- headwaiter
+- hectoliter
+- hectometer
+- heliometer
+- heptameter
+- hindquarter
+- hodometer
+- hoister
+- hypermeter
+- hypsometer

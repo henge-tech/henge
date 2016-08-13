@@ -1,0 +1,39 @@
+---
+pattern: g_ist
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 29
+score: 1512865
+score_per_word: 100857
+hi_scored_words:
+  genealogist: 58121
+  generalist: 44541
+  geneticist: 65479
+  geologist: 24975
+  gist: 25173
+  grist: 39814
+  guitarist: 15638
+  gynecologist: 50855
+scored_words:
+  gastroenterologist: 119737
+  gemologist: 193339
+  geochemist: 270638
+  geophysicist: 104135
+  gerontologist: 124070
+  globalist: 112621
+  gradualist: 263729
+not_scored_words:
+- Gaullist
+- Geist
+- Gilchrist
+- Girondist
+- garbologist
+- gastrologist
+- geochronologist
+- geodesist
+- gestaltist
+- glacialist
+- glaciologist
+- graffitist
+- graphologist
+- gymnosophist

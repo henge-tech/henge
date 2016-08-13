@@ -1,0 +1,60 @@
+---
+pattern: _bbed
+hi_scored_words_count: 18
+scored_words_count: 15
+total_words: 50
+score: 3872180
+score_per_word: 117338
+hi_scored_words:
+  bobbed: 82559
+  clubbed: 80116
+  dubbed: 17125
+  grabbed: 11207
+  mobbed: 85086
+  nabbed: 56108
+  ribbed: 30101
+  robbed: 13070
+  rubbed: 12880
+  scrubbed: 26244
+  snubbed: 65917
+  sobbed: 57141
+  stabbed: 21287
+  stubbed: 97420
+  subbed: 83963
+  tabbed: 42455
+  throbbed: 89756
+  webbed: 56500
+scored_words:
+  blabbed: 252212
+  crabbed: 195125
+  cribbed: 197943
+  dabbed: 148543
+  ebbed: 112870
+  flubbed: 245034
+  fobbed: 247827
+  jabbed: 112800
+  knobbed: 246850
+  lobbed: 111804
+  overdubbed: 164922
+  rehabbed: 233820
+  scabbed: 286396
+  slabbed: 207502
+  swabbed: 179597
+not_scored_words:
+- blobbed
+- cabbed
+- cobwebbed
+- confabbed
+- demobbed
+- dobbed
+- drubbed
+- fibbed
+- gabbed
+- gobbed
+- grubbed
+- hobnobbed
+- jibbed
+- jobbed
+- nightclubbed
+- prefabbed
+- slobbed

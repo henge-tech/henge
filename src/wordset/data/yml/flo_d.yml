@@ -1,0 +1,34 @@
+---
+pattern: flo_d
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 24
+score: 1256726
+score_per_word: 73925
+hi_scored_words:
+  floated: 18799
+  flocked: 38945
+  flogged: 70550
+  flood: 3396
+  flooded: 14032
+  floored: 50843
+  flopped: 53810
+  florid: 57132
+  floured: 76451
+  flourished: 34086
+  flowed: 15125
+  flowered: 35954
+scored_words:
+  floorboard: 114692
+  flounced: 255083
+  floundered: 110175
+  flouted: 115623
+  flowerbed: 192030
+not_scored_words:
+- Flood
+- Floyd
+- flocculated
+- floodlighted
+- floreated
+- floriated
+- flossed

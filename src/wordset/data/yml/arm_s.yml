@@ -1,0 +1,38 @@
+---
+pattern: arm_s
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 28
+score: 2197665
+score_per_word: 115666
+hi_scored_words:
+  armadillos: 99793
+  armaments: 37253
+  armbands: 81435
+  armchairs: 58164
+  armies: 8682
+  armless: 79827
+  armors: 87755
+  armpits: 38804
+  armrests: 85241
+  arms: 1332
+scored_words:
+  armadas: 164092
+  armatures: 145462
+  armfuls: 161816
+  armholes: 147649
+  armlets: 156252
+  armoires: 143767
+  armorers: 276803
+  armories: 130758
+  armyworms: 292780
+not_scored_words:
+- Armageddons
+- Armagnacs
+- Armenians
+- Arminius
+- armets
+- armigers
+- armings
+- armistices
+- armloads

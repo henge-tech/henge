@@ -1,0 +1,36 @@
+---
+pattern: voi_
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 26
+score: 853104
+score_per_word: 47394
+hi_scored_words:
+  voice: 610
+  voiced: 15772
+  voiceless: 46795
+  voicemail: 19454
+  voicemails: 92681
+  voiceover: 46588
+  voices: 3235
+  voicing: 33848
+  void: 3019
+  voided: 57896
+  voiding: 67351
+  voids: 38535
+  voila: 30020
+  voile: 67251
+  voilà: 33701
+  voiture: 52310
+scored_words:
+  voiceprint: 128215
+  voidable: 115823
+not_scored_words:
+- VoIP
+- voicedness
+- voiceful
+- voicelessly
+- voicelessness
+- voidance
+- voidances
+- voider

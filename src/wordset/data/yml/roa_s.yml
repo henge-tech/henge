@@ -1,0 +1,32 @@
+---
+pattern: roa_s
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 22
+score: 1654523
+score_per_word: 97324
+hi_scored_words:
+  roaches: 53312
+  roadblocks: 42550
+  roadrunners: 75639
+  roads: 2860
+  roadshows: 96038
+  roadsides: 80653
+  roadways: 38332
+  roadworks: 66073
+  roams: 82137
+  roars: 42677
+  roasters: 59282
+  roasts: 55537
+scored_words:
+  roadies: 109434
+  roadsigns: 288678
+  roadsters: 113458
+  roamers: 211935
+  roans: 235928
+not_scored_words:
+- roadbeds
+- roadhouses
+- roadsteads
+- roarers
+- roastings

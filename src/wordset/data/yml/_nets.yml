@@ -1,0 +1,61 @@
+---
+pattern: _nets
+hi_scored_words_count: 15
+scored_words_count: 11
+total_words: 51
+score: 2732606
+score_per_word: 105100
+hi_scored_words:
+  baronets: 51910
+  bayonets: 57742
+  bonnets: 58025
+  cabinets: 11054
+  castanets: 81623
+  clarinets: 60620
+  fishnets: 72480
+  garnets: 76863
+  hornets: 27987
+  intranets: 60001
+  magnets: 16197
+  nets: 8800
+  planets: 6896
+  sonnets: 34678
+  tenets: 25080
+scored_words:
+  bassinets: 126048
+  bennets: 295434
+  bluebonnets: 214625
+  botnets: 164329
+  cornets: 128144
+  coronets: 136643
+  electromagnets: 126521
+  exoplanets: 207286
+  gannets: 146032
+  hairnets: 278798
+  signets: 258790
+not_scored_words:
+- Cabernets
+- Donets
+- Internets
+- Kuznets
+- TELNETs
+- Usenets
+- alkanets
+- basinets
+- brunets
+- chervonets
+- cygnets
+- diamagnets
+- dragnets
+- dragonets
+- driftnets
+- estaminets
+- genets
+- jennets
+- linnets
+- martinets
+- paramagnets
+- punnets
+- spinets
+- sunbonnets
+- warbonnets

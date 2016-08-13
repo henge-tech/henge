@@ -1,0 +1,47 @@
+---
+pattern: t_ent
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 37
+score: 1224300
+score_per_word: 53230
+hi_scored_words:
+  talent: 3268
+  tangent: 22313
+  temperament: 15772
+  tenement: 31523
+  tent: 4925
+  testament: 6502
+  torment: 18149
+  torrent: 8729
+  tournament: 5850
+  transcendent: 29023
+  transient: 10333
+  translucent: 20497
+  transparent: 5949
+  transshipment: 70936
+  treatment: 944
+  trident: 25166
+  trivalent: 80723
+  turbulent: 14344
+scored_words:
+  tegument: 253873
+  tetravalent: 225027
+  transhipment: 114561
+  truculent: 127177
+  tumescent: 128716
+not_scored_words:
+- Tashkent
+- Trent
+- Trident
+- tabescent
+- tervalent
+- thermoluminescent
+- traducement
+- transcalent
+- transcurrent
+- transilient
+- triboluminescent
+- tumefacient
+- turgent
+- turgescent

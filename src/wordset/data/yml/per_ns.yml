@@ -1,0 +1,33 @@
+---
+pattern: per_ns
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 23
+score: 988656
+score_per_word: 70618
+hi_scored_words:
+  perceptions: 10290
+  perfections: 77107
+  perforations: 63783
+  permissions: 8862
+  permutations: 36495
+  persecutions: 55930
+  persons: 1153
+  persuasions: 63653
+  pertains: 29923
+  perturbations: 38621
+  perversions: 69406
+scored_words:
+  peregrinations: 204437
+  persimmons: 128026
+  personifications: 200970
+not_scored_words:
+- Perkins
+- Persians
+- Peruvians
+- perambulations
+- perfusions
+- perigons
+- perorations
+- perseverations
+- pervasions

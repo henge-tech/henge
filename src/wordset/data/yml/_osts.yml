@@ -1,0 +1,36 @@
+---
+pattern: _osts
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 26
+score: 1855665
+score_per_word: 97666
+hi_scored_words:
+  boosts: 21586
+  costs: 1073
+  frosts: 62859
+  ghosts: 8646
+  goalposts: 92776
+  hosts: 4671
+  outposts: 43312
+  posts: 1802
+  signposts: 64599
+scored_words:
+  accosts: 122029
+  composts: 144058
+  doorposts: 230162
+  guideposts: 106535
+  imposts: 123288
+  lampposts: 144041
+  mileposts: 211519
+  provosts: 145757
+  roosts: 113023
+  teleosts: 213929
+not_scored_words:
+- Hosts
+- Pentecosts
+- bedposts
+- defrosts
+- gateposts
+- rudderposts
+- sternposts

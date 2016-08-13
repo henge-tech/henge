@@ -1,0 +1,37 @@
+---
+pattern: unr_e
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 27
+score: 2191965
+score_per_word: 128939
+hi_scored_words:
+  unreachable: 38830
+  unreadable: 41546
+  unreasonable: 10434
+  unrecognizable: 73730
+  unrecoverable: 91457
+  unreliable: 20218
+  unremarkable: 55517
+  unresponsive: 43670
+  unripe: 78815
+scored_words:
+  unreceptive: 253565
+  unreflective: 234794
+  unregenerate: 142996
+  unrepairable: 306979
+  unrepeatable: 213063
+  unrepresentative: 105024
+  unreproducible: 305618
+  unresolvable: 175709
+not_scored_words:
+- unrealizable
+- unreconcilable
+- unredeemable
+- unreeve
+- unremovable
+- unremunerative
+- unreserve
+- unreturnable
+- unriddle
+- unrobe

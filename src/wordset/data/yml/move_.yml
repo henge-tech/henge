@@ -1,0 +1,23 @@
+---
+pattern: move_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 13
+score: 90526
+score_per_word: 11315
+hi_scored_words:
+  move: 670
+  moveable: 39409
+  moved: 1128
+  movement: 1260
+  movements: 3437
+  mover: 18767
+  movers: 22568
+  moves: 3287
+scored_words: {}
+not_scored_words:
+- moveability
+- moveableness
+- moveablenesses
+- moveables
+- moveably

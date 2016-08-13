@@ -1,0 +1,32 @@
+---
+pattern: qua_y
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 22
+score: 598953
+score_per_word: 42782
+hi_scored_words:
+  quackery: 70320
+  qualify: 7264
+  qualitatively: 34417
+  quality: 615
+  quandary: 47963
+  quantify: 21555
+  quantitatively: 35811
+  quantity: 1940
+  quarry: 13164
+  quarterly: 6998
+  quaternary: 28783
+  quay: 16162
+scored_words:
+  quadratically: 183790
+  quaintly: 130171
+not_scored_words:
+- Quaternary
+- quadrennially
+- quadruply
+- quaggy
+- quaky
+- quaternity
+- quaveringly
+- quavery

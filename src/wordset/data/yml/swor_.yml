@@ -1,0 +1,24 @@
+---
+pattern: swor_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 14
+score: 407947
+score_per_word: 45327
+hi_scored_words:
+  sword: 3374
+  swordfish: 36058
+  swordplay: 78040
+  swords: 8462
+  swordsman: 44352
+  swordsmen: 89458
+  swore: 22788
+  sworn: 9607
+scored_words:
+  swordsmanship: 115808
+not_scored_words:
+- swordbill
+- swordcraft
+- swordfishes
+- swordtail
+- swordtails

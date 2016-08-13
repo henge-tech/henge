@@ -1,0 +1,31 @@
+---
+pattern: hatc_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 21
+score: 750538
+score_per_word: 57733
+hi_scored_words:
+  hatch: 10315
+  hatchback: 21958
+  hatchbacks: 92445
+  hatched: 29779
+  hatcher: 29009
+  hatcheries: 66935
+  hatchery: 29358
+  hatches: 35843
+  hatchet: 24500
+  hatchets: 99641
+  hatching: 32539
+scored_words:
+  hatchling: 100153
+  hatchway: 178063
+not_scored_words:
+- hatcheck
+- hatchecks
+- hatchel
+- hatcheled
+- hatcheling
+- hatchels
+- hatchment
+- hatchways

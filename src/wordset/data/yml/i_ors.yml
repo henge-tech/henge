@@ -1,0 +1,51 @@
+---
+pattern: i_ors
+hi_scored_words_count: 30
+scored_words_count: 6
+total_words: 41
+score: 2675021
+score_per_word: 74306
+hi_scored_words:
+  illustrators: 32403
+  imitators: 48031
+  impersonators: 63406
+  impostors: 87006
+  incinerators: 61046
+  incisors: 82207
+  incubators: 52504
+  indicators: 4765
+  indoors: 12401
+  inductors: 55415
+  inferiors: 80526
+  inheritors: 99792
+  inhibitors: 11609
+  initiators: 68091
+  injectors: 45397
+  innovators: 37384
+  inquisitors: 99888
+  inspectors: 13272
+  instructors: 11004
+  insulators: 46147
+  integrators: 47483
+  interceptors: 66380
+  interiors: 17540
+  interlocutors: 99108
+  interrogators: 64411
+  inventors: 20234
+  investigators: 11254
+  investors: 9577
+  isolators: 88826
+  iterators: 84155
+scored_words:
+  improvisors: 303561
+  infiltrators: 126702
+  inflators: 138078
+  instigators: 116220
+  intercessors: 170809
+  invigilators: 298389
+not_scored_words:
+- ichors
+- indoctrinators
+- inhalators
+- insinuators
+- institutors

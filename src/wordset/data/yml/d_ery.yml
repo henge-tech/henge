@@ -1,0 +1,26 @@
+---
+pattern: d_ery
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 632027
+score_per_word: 63202
+hi_scored_words:
+  deanery: 58110
+  debauchery: 41589
+  delivery: 2526
+  discovery: 2293
+  distillery: 41519
+  drapery: 32172
+  drudgery: 47772
+  dysentery: 42617
+scored_words:
+  demagoguery: 141061
+  drollery: 222368
+not_scored_words:
+- daubery
+- dithery
+- doddery
+- doggery
+- dowery
+- dupery

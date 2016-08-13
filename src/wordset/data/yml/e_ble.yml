@@ -1,0 +1,83 @@
+---
+pattern: e_ble
+hi_scored_words_count: 25
+scored_words_count: 22
+total_words: 73
+score: 5392394
+score_per_word: 114731
+hi_scored_words:
+  edible: 15328
+  editable: 40521
+  eligible: 4702
+  employable: 74332
+  enable: 2238
+  enforceable: 22884
+  enjoyable: 9996
+  ensemble: 8770
+  enviable: 35235
+  equitable: 12782
+  erasable: 85915
+  estimable: 82998
+  exchangeable: 51213
+  excitable: 55605
+  excusable: 70855
+  execrable: 91382
+  executable: 14236
+  exercisable: 76356
+  expandable: 29094
+  expendable: 39525
+  exploitable: 59638
+  exportable: 99170
+  extendable: 58922
+  extensible: 29742
+  extractable: 91301
+scored_words:
+  eatable: 164124
+  educable: 226101
+  electable: 153993
+  embraceable: 180336
+  endurable: 111627
+  enfeeble: 101886
+  ennoble: 194025
+  enumerable: 122218
+  equable: 162447
+  equiprobable: 335575
+  erodible: 196847
+  evolvable: 206969
+  examinable: 298162
+  exceptionable: 159884
+  excisable: 265741
+  exhaustible: 224625
+  expansible: 325734
+  explainable: 108202
+  explicable: 112377
+  expressible: 105550
+  extendible: 151608
+  extraditable: 321623
+not_scored_words:
+- educible
+- effable
+- effaceable
+- emendable
+- endorsable
+- enlargeable
+- equatable
+- eradicable
+- evadable
+- evaporable
+- evincible
+- evitable
+- evocable
+- exactable
+- exemptible
+- exigible
+- exorable
+- expellable
+- expiable
+- explodable
+- exponible
+- expugnable
+- extinguishable
+- extractible
+- extricable
+- extrudable

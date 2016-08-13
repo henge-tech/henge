@@ -1,0 +1,27 @@
+---
+pattern: jo_ing
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 1227856
+score_per_word: 94450
+hi_scored_words:
+  jockeying: 97756
+  jogging: 21179
+  joining: 4468
+  jointing: 89255
+  joking: 17199
+  jostling: 83157
+  jotting: 91740
+  journeying: 62141
+  jousting: 77115
+scored_words:
+  jobbing: 118784
+  joggling: 189889
+  jolting: 110619
+  joyriding: 264554
+not_scored_words:
+- jollying
+- joshing
+- jouncing
+- joying

@@ -1,0 +1,35 @@
+---
+pattern: diss_e
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 25
+score: 1664497
+score_per_word: 110966
+hi_scored_words:
+  disseminate: 24668
+  disservice: 47722
+  dissipate: 35852
+  dissipative: 70111
+  dissociate: 67929
+  dissociative: 56727
+  dissolute: 68548
+  dissolve: 15305
+  dissonance: 38905
+  dissuade: 41341
+scored_words:
+  dissemble: 111856
+  dissidence: 154796
+  dissociable: 327539
+  dissolvable: 314360
+  dissuasive: 288838
+not_scored_words:
+- disseize
+- dissemblance
+- disseminule
+- dissertate
+- disserve
+- dissimilate
+- dissimilitude
+- dissimulate
+- dissoluble
+- dissyllable

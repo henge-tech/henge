@@ -1,0 +1,22 @@
+---
+pattern: s_pt
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 12
+score: 219167
+score_per_word: 27395
+hi_scored_words:
+  script: 7635
+  sculpt: 44899
+  sept: 7332
+  slept: 7576
+  subscript: 40497
+  superscript: 49471
+  supt: 52051
+  swept: 9706
+scored_words: {}
+not_scored_words:
+- Script
+- Sept
+- Supt
+- shpt

@@ -1,0 +1,32 @@
+---
+pattern: eye_s
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1260108
+score_per_word: 78756
+hi_scored_words:
+  eyeballs: 38323
+  eyebrows: 14263
+  eyeglass: 51042
+  eyeglasses: 28623
+  eyelashes: 41360
+  eyelets: 60541
+  eyelids: 28119
+  eyepieces: 67670
+  eyes: 686
+  eyewitness: 26763
+  eyewitnesses: 55774
+scored_words:
+  eyecups: 239470
+  eyeless: 102980
+  eyeliners: 175837
+  eyeshadows: 152349
+  eyesores: 176308
+not_scored_words:
+- eyedroppers
+- eyefuls
+- eyeopeners
+- eyeshades
+- eyeshots
+- eyespots

@@ -1,0 +1,42 @@
+---
+pattern: verb_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 32
+score: 1065732
+score_per_word: 76123
+hi_scored_words:
+  verb: 8143
+  verbal: 7258
+  verbally: 26182
+  verbatim: 19409
+  verbena: 49521
+  verbiage: 62014
+  verbose: 28028
+  verbosity: 55877
+  verboten: 74507
+  verbs: 13629
+scored_words:
+  verbalization: 201736
+  verbalize: 107271
+  verbalized: 181798
+  verbalizing: 230359
+not_scored_words:
+- verbalism
+- verbalist
+- verbalistic
+- verbality
+- verbalizable
+- verbalizer
+- verbalizes
+- verbals
+- verbenaceous
+- verbenas
+- verbiages
+- verbid
+- verbified
+- verbifies
+- verbify
+- verbifying
+- verbosely
+- verboseness

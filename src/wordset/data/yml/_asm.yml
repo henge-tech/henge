@@ -1,0 +1,41 @@
+---
+pattern: _asm
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 31
+score: 941655
+score_per_word: 67261
+hi_scored_words:
+  chasm: 27211
+  cytoplasm: 27492
+  enthusiasm: 5918
+  neoplasm: 32102
+  orgasm: 16854
+  phantasm: 60513
+  protoplasm: 94443
+  sarcasm: 17684
+  spasm: 30937
+scored_words:
+  ectoplasm: 119492
+  iconoclasm: 136150
+  nucleoplasm: 128800
+  plasm: 101187
+  pleonasm: 142872
+not_scored_words:
+- alloplasm
+- archiplasm
+- archoplasm
+- bioplasm
+- cataplasm
+- chiliasm
+- deutoplasm
+- ecdysiasm
+- endoplasm
+- fantasm
+- hyaloplasm
+- idioplasm
+- karyoplasm
+- metaplasm
+- overenthusiasm
+- somatoplasm
+- trophoplasm

@@ -1,0 +1,59 @@
+---
+pattern: wr_s
+hi_scored_words_count: 23
+scored_words_count: 14
+total_words: 49
+score: 3739826
+score_per_word: 101076
+hi_scored_words:
+  wranglers: 65474
+  wrappers: 31046
+  wrappings: 91636
+  wraps: 13967
+  wreaths: 31532
+  wreckers: 64096
+  wrecks: 31188
+  wrenches: 39219
+  wrens: 64883
+  wrestlers: 30198
+  wrestles: 80591
+  wretchedness: 68118
+  wretches: 83842
+  wrights: 63485
+  wrinkles: 20464
+  wristbands: 32947
+  wrists: 22869
+  wristwatches: 66495
+  writers: 2412
+  writes: 3088
+  writings: 5318
+  writs: 42507
+  wrongs: 19228
+scored_words:
+  wraiths: 103999
+  wrangles: 226898
+  wrasses: 258829
+  wreaks: 115683
+  wreathes: 269062
+  wriggles: 226970
+  wringers: 219358
+  wrings: 207504
+  wristlets: 274780
+  writhes: 192431
+  wrongdoers: 119761
+  wrongdoings: 136302
+  wrongfulness: 300946
+  wrongness: 112700
+not_scored_words:
+- Wrens
+- Writings
+- wracks
+- wranglings
+- wraparounds
+- wrathfulness
+- wrests
+- wrigglers
+- wrinklies
+- wrongheadedness
+- wrynecks
+- wryness

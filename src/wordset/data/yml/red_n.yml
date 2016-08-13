@@ -1,0 +1,29 @@
+---
+pattern: red_n
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 19
+score: 1361859
+score_per_word: 85116
+hi_scored_words:
+  redaction: 81137
+  redan: 97483
+  redden: 60457
+  redefinition: 44482
+  redemption: 8883
+  redesign: 14250
+  redirection: 30272
+  redistribution: 11893
+  redrawn: 67400
+  redskin: 82961
+  reduction: 3418
+scored_words:
+  redecoration: 152460
+  rededication: 149830
+  redetermination: 169051
+  redfin: 253383
+  reduplication: 134499
+not_scored_words:
+- Redon
+- redintegration
+- redistillation

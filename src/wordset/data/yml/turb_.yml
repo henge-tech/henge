@@ -1,0 +1,48 @@
+---
+pattern: turb_
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 38
+score: 2659855
+score_per_word: 110827
+hi_scored_words:
+  turban: 36338
+  turbans: 77623
+  turbid: 58829
+  turbidity: 36267
+  turbine: 21525
+  turbines: 17526
+  turbo: 10934
+  turbocharged: 62397
+  turbocharger: 68665
+  turboprop: 78188
+  turbos: 64680
+  turbot: 76064
+  turbulence: 18658
+  turbulent: 14344
+scored_words:
+  turbaned: 220346
+  turbinal: 232901
+  turbinate: 164838
+  turbinates: 287910
+  turbocharge: 313268
+  turbochargers: 109354
+  turbocharging: 203693
+  turbofan: 133341
+  turbojet: 117973
+  turboprops: 234193
+not_scored_words:
+- turbary
+- turbellarian
+- turbidimeter
+- turbidly
+- turbidness
+- turbidnesses
+- turbinals
+- turbit
+- turbocharges
+- turbofans
+- turbojets
+- turbosupercharger
+- turbots
+- turbulently

@@ -1,0 +1,40 @@
+---
+pattern: memo_
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 30
+score: 1641556
+score_per_word: 68398
+hi_scored_words:
+  memo: 10954
+  memoir: 13865
+  memoirs: 9774
+  memorabilia: 7558
+  memorable: 7214
+  memorably: 96277
+  memorandum: 9426
+  memorandums: 93732
+  memorial: 3934
+  memorials: 18371
+  memories: 3118
+  memorization: 50214
+  memorize: 32898
+  memorized: 45830
+  memorizing: 51863
+  memory: 617
+  memos: 22527
+scored_words:
+  memoirist: 153967
+  memorability: 166782
+  memorialize: 102540
+  memorialized: 105386
+  memorializes: 267145
+  memorializing: 142751
+  memorizes: 224813
+not_scored_words:
+- memorableness
+- memorialist
+- memorially
+- memoried
+- memorizer
+- memorizers

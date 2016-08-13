@@ -1,0 +1,40 @@
+---
+pattern: cond_s
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 30
+score: 1883291
+score_per_word: 78470
+hi_scored_words:
+  condemnations: 98916
+  condemns: 26579
+  condensers: 60427
+  condenses: 86872
+  condiments: 36848
+  conditionals: 62367
+  conditioners: 25950
+  conditions: 552
+  condolences: 28182
+  condominiums: 25268
+  condoms: 10964
+  condors: 85766
+  condos: 16735
+  conductors: 20125
+  conducts: 15275
+  conduits: 41208
+scored_words:
+  condensates: 102804
+  condensations: 223281
+  condescends: 134674
+  conditionalities: 192777
+  condones: 101591
+  conduces: 133651
+  conductivities: 126907
+  condyles: 225572
+not_scored_words:
+- condemners
+- condoles
+- condonations
+- conduciveness
+- conductress
+- conductresses

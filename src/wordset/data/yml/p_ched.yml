@@ -1,0 +1,22 @@
+---
+pattern: p_ched
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 540818
+score_per_word: 54081
+hi_scored_words:
+  parched: 42663
+  patched: 20453
+  perched: 34566
+  pinched: 33851
+  pitched: 11560
+  poached: 40487
+  preached: 14722
+  psyched: 56103
+  punched: 21942
+scored_words:
+  pouched: 264471
+not_scored_words:
+- pleached
+- pooched

@@ -1,0 +1,28 @@
+---
+pattern: a_etic
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 18
+score: 769545
+score_per_word: 64128
+hi_scored_words:
+  acetic: 30651
+  aesthetic: 9572
+  alphabetic: 30000
+  anesthetic: 29115
+  antipathetic: 91794
+  apathetic: 37699
+  apologetic: 37987
+  arithmetic: 11101
+  ascetic: 40241
+  athletic: 5434
+scored_words:
+  antipyretic: 157141
+  antithetic: 288810
+not_scored_words:
+- abiogenetic
+- algetic
+- analphabetic
+- antimagnetic
+- apatetic
+- apyretic

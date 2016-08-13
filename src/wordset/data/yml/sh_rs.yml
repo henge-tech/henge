@@ -1,0 +1,59 @@
+---
+pattern: sh_rs
+hi_scored_words_count: 27
+scored_words_count: 13
+total_words: 49
+score: 3502371
+score_per_word: 87559
+hi_scored_words:
+  shakers: 29327
+  shapers: 63346
+  shareholders: 10672
+  sharers: 77773
+  sharpeners: 73047
+  sharpshooters: 89162
+  shatters: 55419
+  shavers: 40318
+  shears: 25768
+  sheepherders: 89517
+  shelters: 15100
+  shifters: 43764
+  shimmers: 98965
+  shipbuilders: 90543
+  shipowners: 85615
+  shippers: 33965
+  shivers: 39146
+  shockers: 74028
+  shoemakers: 90337
+  shooters: 18680
+  shopkeepers: 51922
+  shoppers: 6771
+  shoulders: 5085
+  showers: 6028
+  shredders: 55274
+  shudders: 73723
+  shutters: 21188
+scored_words:
+  shampooers: 191998
+  sharecroppers: 151200
+  sharpers: 149242
+  shearers: 131346
+  shearwaters: 149368
+  sheers: 116189
+  shiners: 132619
+  shofars: 266847
+  shopfitters: 176612
+  shoplifters: 127583
+  showstoppers: 115659
+  shrimpers: 185882
+  shufflers: 243343
+not_scored_words:
+- shirkers
+- shirrs
+- shirtmakers
+- shmears
+- shophars
+- shouters
+- shovelers
+- shriekers
+- shysters

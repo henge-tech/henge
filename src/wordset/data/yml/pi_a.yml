@@ -1,0 +1,41 @@
+---
+pattern: pi_a
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 31
+score: 1201658
+score_per_word: 80110
+hi_scored_words:
+  piazza: 18054
+  pica: 40826
+  pika: 58966
+  pinata: 55640
+  pinna: 93107
+  pinta: 92284
+  piranha: 30541
+  piscina: 63580
+  pita: 32232
+  pitta: 79635
+  pizza: 7538
+  pizzeria: 31916
+scored_words:
+  pianola: 241605
+  pieta: 106766
+  pineta: 248968
+not_scored_words:
+- Piacenza
+- Pianola
+- Pieria
+- Pieta
+- Pima
+- Pinta
+- Pisa
+- Pistoia
+- Piura
+- piassava
+- pipsissewa
+- piragua
+- pirana
+- piraña
+- pitanga
+- piñata

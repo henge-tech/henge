@@ -1,0 +1,46 @@
+---
+pattern: _obs
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 36
+score: 2152473
+score_per_word: 86098
+hi_scored_words:
+  blobs: 45614
+  bobs: 37186
+  boobs: 7432
+  cobs: 78967
+  fobs: 86850
+  gobs: 78716
+  hobs: 51704
+  jobs: 3136
+  knobs: 21508
+  mobs: 26243
+  nobs: 63276
+  obs: 13422
+  robs: 38557
+  snobs: 65606
+  sobs: 40920
+  yobs: 98638
+scored_words:
+  dobs: 187183
+  doorknobs: 110596
+  globs: 115345
+  kabobs: 102547
+  kobs: 214765
+  lobs: 103981
+  nabobs: 307619
+  slobs: 145000
+  throbs: 107662
+not_scored_words:
+- Jacobs
+- Jobs
+- carobs
+- corncobs
+- demobs
+- heartthrobs
+- hobnobs
+- kebobs
+- skibobs
+- thingamabobs
+- thingumabobs

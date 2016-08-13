@@ -1,0 +1,48 @@
+---
+pattern: cha_g
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 38
+score: 2205752
+score_per_word: 84836
+hi_scored_words:
+  chafing: 52794
+  chaining: 45466
+  chairing: 55797
+  challenging: 7943
+  championing: 59579
+  changeling: 58100
+  changing: 1797
+  channeling: 35318
+  chanting: 22026
+  characterizing: 36130
+  charging: 7211
+  charming: 5020
+  chartering: 59643
+  charting: 19653
+  chasing: 10839
+  chattering: 39850
+  chatting: 13473
+scored_words:
+  chaffing: 153179
+  chalking: 111904
+  chamfering: 297503
+  champing: 224205
+  chancing: 210467
+  chaperoning: 236785
+  charring: 157970
+  chastening: 161318
+  chastising: 121782
+not_scored_words:
+- Chang
+- Charlottenburg
+- chaffering
+- chagrining
+- chainsawing
+- chandelling
+- channelizing
+- chapping
+- charbroiling
+- chasseing
+- chauffeuring
+- chawing

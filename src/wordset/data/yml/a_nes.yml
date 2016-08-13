@@ -1,0 +1,65 @@
+---
+pattern: a_nes
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 55
+score: 2494335
+score_per_word: 131280
+hi_scored_words:
+  aborigines: 31969
+  airlines: 8928
+  airplanes: 13809
+  alkanes: 85271
+  alkenes: 99002
+  amines: 44599
+  amphetamines: 41921
+  anemones: 64974
+  antihistamines: 48207
+scored_words:
+  abalones: 129255
+  achenes: 287757
+  allophones: 229886
+  alpines: 163155
+  anglophones: 137050
+  anticyclones: 297806
+  aquamarines: 279724
+  argentines: 120104
+  atones: 270422
+  aubergines: 140496
+not_scored_words:
+- Aborigines
+- Aeschines
+- Agnes
+- Alexandrines
+- Anaximenes
+- Antisthenes
+- Apennines
+- Ardennes
+- Aristophanes
+- Atabrines
+- acetylcholines
+- adenosines
+- aitchbones
+- alanines
+- aldosterones
+- aleurones
+- almandines
+- aminopyrines
+- ammines
+- androgynes
+- androsterones
+- anklebones
+- anodynes
+- answerphones
+- anticlines
+- apolunes
+- apomorphines
+- aquaplanes
+- archines
+- arginines
+- arsines
+- asparagines
+- attunes
+- autochthones
+- aventurines
+- azidothymidines

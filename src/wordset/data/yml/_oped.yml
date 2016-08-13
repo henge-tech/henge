@@ -1,0 +1,49 @@
+---
+pattern: _oped
+hi_scored_words_count: 24
+scored_words_count: 9
+total_words: 39
+score: 2846906
+score_per_word: 86269
+hi_scored_words:
+  cooped: 79104
+  coped: 60868
+  developed: 1236
+  doped: 32027
+  drooped: 80608
+  enveloped: 33293
+  galloped: 82841
+  groped: 68215
+  hoped: 4924
+  looped: 37440
+  moped: 38100
+  oped: 62019
+  pooped: 70101
+  redeveloped: 64533
+  roped: 49225
+  scalloped: 42388
+  scooped: 40775
+  scoped: 58278
+  sloped: 38192
+  stooped: 42632
+  swooped: 68134
+  underdeveloped: 34583
+  undeveloped: 25222
+  whooped: 91175
+scored_words:
+  eloped: 118570
+  hooped: 157228
+  loped: 232251
+  overdeveloped: 141262
+  snooped: 227000
+  telescoped: 243994
+  toped: 138492
+  trooped: 149875
+  walloped: 232321
+not_scored_words:
+- blooped
+- dolloped
+- escalloped
+- interloped
+- lolloped
+- unhoped

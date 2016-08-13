@@ -1,0 +1,60 @@
+---
+pattern: mo_ly
+hi_scored_words_count: 15
+scored_words_count: 11
+total_words: 50
+score: 2634725
+score_per_word: 101335
+hi_scored_words:
+  mockingly: 87588
+  moderately: 11675
+  modestly: 32726
+  molly: 12806
+  moly: 62480
+  momentarily: 24342
+  monopoly: 8436
+  monotonically: 73650
+  monthly: 3571
+  morally: 13401
+  morbidly: 71048
+  morphologically: 65114
+  mortally: 45981
+  mostly: 2064
+  motherly: 55466
+scored_words:
+  modernly: 273251
+  momently: 232441
+  monetarily: 127401
+  monotonously: 158411
+  monstrously: 125985
+  monumentally: 144728
+  moodily: 148435
+  morosely: 280011
+  mournfully: 101348
+  movably: 328276
+  movingly: 144090
+not_scored_words:
+- Molly
+- Monopoly
+- modally
+- modishly
+- moistly
+- momentously
+- monastically
+- monaurally
+- monkishly
+- monochromatically
+- monogamously
+- monophonically
+- monosyllabically
+- mopishly
+- moralistically
+- moralizingly
+- mordaciously
+- mordantly
+- moribundly
+- moronically
+- morphemically
+- mortifyingly
+- motionlessly
+- moveably

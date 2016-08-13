@@ -1,0 +1,40 @@
+---
+pattern: _nion
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 30
+score: 2163047
+score_per_word: 103002
+hi_scored_words:
+  anion: 35571
+  bunion: 88459
+  communion: 9536
+  companion: 3863
+  dominion: 8961
+  minion: 31896
+  nonunion: 82993
+  onion: 7640
+  opinion: 813
+  pinion: 39274
+  quaternion: 71802
+  reunion: 7900
+  union: 1053
+scored_words:
+  amnion: 123616
+  antiunion: 266526
+  disunion: 113139
+  epilimnion: 332101
+  grunion: 249050
+  hypolimnion: 286532
+  inion: 276963
+  trunnion: 125359
+not_scored_words:
+- Communion
+- Dominion
+- Onion
+- Reunion
+- Union
+- fanion
+- gonion
+- intercommunion
+- ternion

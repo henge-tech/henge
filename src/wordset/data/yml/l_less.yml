@@ -1,0 +1,26 @@
+---
+pattern: l_less
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 16
+score: 1223056
+score_per_word: 87361
+hi_scored_words:
+  landless: 49914
+  lawless: 22214
+  leafless: 89018
+  legless: 83369
+  lifeless: 26128
+  limitless: 24994
+  listless: 53492
+  lossless: 36497
+  loveless: 37943
+scored_words:
+  leaderless: 166559
+  lidless: 127421
+  limbless: 213081
+  luckless: 117289
+  lusterless: 175137
+not_scored_words:
+- lightless
+- linerless

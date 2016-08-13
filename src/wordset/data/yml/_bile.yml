@@ -1,0 +1,28 @@
+---
+pattern: _bile
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 18
+score: 1323230
+score_per_word: 101786
+hi_scored_words:
+  automobile: 5795
+  bile: 18535
+  bookmobile: 98712
+  cantabile: 90736
+  immobile: 40503
+  labile: 63752
+  mobile: 3693
+  nubile: 70840
+  snowmobile: 28183
+  stabile: 91008
+scored_words:
+  airmobile: 242681
+  bloodmobile: 310779
+  habile: 258013
+not_scored_words:
+- Mobile
+- Oldsmobile
+- locomobile
+- strobile
+- thermolabile

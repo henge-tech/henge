@@ -1,0 +1,27 @@
+---
+pattern: c_ade
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 683376
+score_per_word: 62125
+hi_scored_words:
+  cade: 35613
+  cascade: 13777
+  cavalcade: 48944
+  centigrade: 47012
+  charade: 36697
+  colonnade: 45811
+  comrade: 18262
+  crusade: 13999
+scored_words:
+  cannonade: 169350
+  carronade: 107537
+  cockade: 146374
+not_scored_words:
+- Cade
+- Centigrade
+- chamade
+- corrade
+- cottonade
+- couvade

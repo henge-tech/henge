@@ -1,0 +1,39 @@
+---
+pattern: p_sion
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 29
+score: 1429615
+score_per_word: 59567
+hi_scored_words:
+  passion: 2588
+  pension: 4510
+  percussion: 15248
+  perfusion: 29466
+  permission: 1355
+  persuasion: 12970
+  perversion: 33733
+  possession: 3341
+  precession: 54022
+  precision: 5125
+  pretension: 56981
+  procession: 13585
+  profession: 3945
+  profusion: 36461
+  progression: 10494
+  propulsion: 22536
+  protrusion: 56756
+  provision: 2424
+scored_words:
+  photoemission: 106389
+  preadmission: 256534
+  preclusion: 154770
+  prehension: 217790
+  prepossession: 162198
+  prevision: 166394
+not_scored_words:
+- Passion
+- pervasion
+- plosion
+- preconcession
+- prolusion

@@ -1,0 +1,41 @@
+---
+pattern: d_ging
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 31
+score: 1808886
+score_per_word: 95204
+hi_scored_words:
+  damaging: 13155
+  debugging: 13839
+  digging: 10370
+  discharging: 23913
+  discouraging: 29171
+  disparaging: 50182
+  diverging: 55027
+  dodging: 33601
+  dogging: 42129
+  dragging: 11736
+  dredging: 33871
+  drugging: 99142
+scored_words:
+  dinging: 255771
+  disadvantaging: 268429
+  disarranging: 290269
+  disengaging: 119830
+  dislodging: 145911
+  disobliging: 209628
+  divulging: 102912
+not_scored_words:
+- danging
+- decoupaging
+- defogging
+- deleveraging
+- deluging
+- deranging
+- dingdonging
+- disgorging
+- doglegging
+- donging
+- drudging
+- dunging

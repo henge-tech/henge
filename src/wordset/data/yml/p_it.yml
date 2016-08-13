@@ -1,0 +1,35 @@
+---
+pattern: p_it
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 25
+score: 904590
+score_per_word: 50255
+hi_scored_words:
+  pandit: 45558
+  parfait: 56612
+  permit: 2339
+  petit: 13099
+  pipit: 66446
+  pit: 4759
+  plait: 60230
+  polit: 87474
+  portrait: 3805
+  posit: 43315
+  profit: 1719
+  prohibit: 12461
+  pulpit: 18883
+  pundit: 22125
+  pursuit: 5459
+scored_words:
+  pantsuit: 154786
+  peewit: 144052
+  playsuit: 161468
+not_scored_words:
+- Prakrit
+- pewit
+- pinxit
+- plaudit
+- preterit
+- pretermit
+- prosit

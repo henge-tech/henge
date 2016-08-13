@@ -1,0 +1,41 @@
+---
+pattern: huma_
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 31
+score: 1818144
+score_per_word: 75756
+hi_scored_words:
+  human: 282
+  humane: 18338
+  humanely: 68956
+  humanism: 33481
+  humanist: 34252
+  humanistic: 39680
+  humanists: 62201
+  humanitarian: 11106
+  humanitarianism: 85248
+  humanities: 14086
+  humanity: 4219
+  humanized: 94426
+  humankind: 31798
+  humanly: 48107
+  humanoid: 38738
+  humanoids: 68648
+  humans: 5530
+scored_words:
+  humaneness: 241182
+  humanitarians: 106802
+  humanization: 178009
+  humanize: 113508
+  humanizes: 279978
+  humanizing: 112192
+  humanness: 127377
+not_scored_words:
+- Humanism
+- humaner
+- humanest
+- humanhood
+- humanistically
+- humanizer
+- humanizers

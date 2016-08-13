@@ -1,0 +1,30 @@
+---
+pattern: inc_te
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 20
+score: 860936
+score_per_word: 66225
+hi_scored_words:
+  incapacitate: 99595
+  incarnate: 29511
+  inchoate: 83969
+  incinerate: 78724
+  incite: 32218
+  incomplete: 5427
+  inconsiderate: 42141
+  incorporate: 10715
+  incriminate: 92049
+  incubate: 49101
+  inculcate: 65637
+scored_words:
+  incarcerate: 111526
+  incommensurate: 160323
+not_scored_words:
+- incardinate
+- incerate
+- incondite
+- incoordinate
+- incrassate
+- inculpate
+- incurvate

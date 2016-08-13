@@ -1,0 +1,25 @@
+---
+pattern: r_ial
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 896042
+score_per_word: 81458
+hi_scored_words:
+  racial: 7000
+  radial: 18914
+  redial: 67102
+  referential: 41750
+  remedial: 18852
+  residential: 10602
+  retrial: 68028
+  rial: 40419
+scored_words:
+  reburial: 225971
+  reportorial: 289729
+  reverential: 107675
+not_scored_words:
+- raptorial
+- rasorial
+- rectorial
+- repertorial

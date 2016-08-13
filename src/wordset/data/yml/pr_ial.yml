@@ -1,0 +1,42 @@
+---
+pattern: pr_ial
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 32
+score: 1312594
+score_per_word: 87506
+hi_scored_words:
+  preferential: 28546
+  prejudicial: 38126
+  prenuptial: 65147
+  presidential: 6995
+  pretrial: 44568
+  primordial: 30215
+  professorial: 74266
+  proverbial: 27234
+  providential: 75848
+  provincial: 4913
+  prudential: 23364
+scored_words:
+  prandial: 247803
+  precedential: 178130
+  precolonial: 255514
+  preindustrial: 211925
+not_scored_words:
+- Prairial
+- Prudential
+- preceptorial
+- predial
+- prefectorial
+- preglacial
+- preludial
+- premial
+- premillennial
+- preprandial
+- preputial
+- presbyterial
+- primatial
+- primogenial
+- proctorial
+- progenitorial
+- proprietorial

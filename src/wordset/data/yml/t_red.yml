@@ -1,0 +1,50 @@
+---
+pattern: t_red
+hi_scored_words_count: 25
+scored_words_count: 10
+total_words: 40
+score: 2515558
+score_per_word: 71873
+hi_scored_words:
+  tailored: 10069
+  tampered: 46762
+  tapered: 30728
+  tarred: 74046
+  tattered: 31446
+  tempered: 17002
+  tendered: 32902
+  tenured: 39099
+  tethered: 44946
+  textured: 20052
+  thoroughbred: 23526
+  thundered: 70389
+  tiered: 27030
+  timbered: 75253
+  tired: 2606
+  tortured: 10416
+  toured: 20704
+  towered: 78362
+  transferred: 4044
+  transfigured: 81305
+  transgendered: 41027
+  transpired: 41953
+  treasured: 26956
+  triggered: 11428
+  tutored: 67528
+scored_words:
+  tared: 126491
+  teared: 172179
+  teetered: 208618
+  tinctured: 125019
+  tinkered: 116842
+  tittered: 150198
+  tottered: 110180
+  tricolored: 202331
+  tuckered: 245754
+  twittered: 128367
+not_scored_words:
+- Tancred
+- Thoroughbred
+- tasered
+- tonsured
+- tricornered

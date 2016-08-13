@@ -1,0 +1,35 @@
+---
+pattern: pre_rs
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 25
+score: 1220687
+score_per_word: 71805
+hi_scored_words:
+  preachers: 21610
+  precursors: 31871
+  predators: 12494
+  predecessors: 18582
+  predictors: 29789
+  prefers: 8692
+  premiers: 35535
+  preparers: 97724
+  preschoolers: 39819
+  presenters: 18112
+  pretenders: 45055
+scored_words:
+  preceptors: 103893
+  precipitators: 189934
+  premolars: 180059
+  presbyters: 125088
+  preservers: 107878
+  pressers: 154552
+not_scored_words:
+- precentors
+- predeterminers
+- preregisters
+- pressurizers
+- prestidigitators
+- pretors
+- prevaricators
+- previewers

@@ -1,0 +1,58 @@
+---
+pattern: prec_s
+hi_scored_words_count: 15
+scored_words_count: 12
+total_words: 48
+score: 2798321
+score_per_word: 103641
+hi_scored_words:
+  precarious: 23973
+  precautions: 9211
+  precedents: 30825
+  precedes: 28211
+  precepts: 29244
+  precincts: 25486
+  precious: 3569
+  precipitates: 63806
+  precipitous: 47992
+  precis: 60709
+  precludes: 39369
+  precocious: 39029
+  preconceptions: 57700
+  preconditions: 45224
+  precursors: 31871
+scored_words:
+  precancerous: 102396
+  precariousness: 187544
+  precautious: 197413
+  precedences: 298768
+  preceptors: 103893
+  precess: 245452
+  preciousness: 154539
+  precipices: 127848
+  precipitations: 249869
+  precipitators: 189934
+  preciseness: 251183
+  precisions: 153263
+not_scored_words:
+- precancels
+- precedencies
+- precentors
+- preceptorships
+- precesses
+- precessions
+- precipitances
+- precipitancies
+- precipitants
+- precipitateness
+- precipitatenesses
+- precipitins
+- precipitousness
+- precipitousnesses
+- precises
+- precociousness
+- precognitions
+- preconceives
+- preconscious
+- preconsciousness
+- precooks

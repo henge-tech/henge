@@ -1,0 +1,25 @@
+---
+pattern: sort_
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 15
+score: 357354
+score_per_word: 35735
+hi_scored_words:
+  sort: 490
+  sorta: 23241
+  sortable: 78744
+  sorted: 7827
+  sorter: 46076
+  sorters: 90016
+  sortie: 39340
+  sorties: 55205
+  sorting: 11706
+  sorts: 4709
+scored_words: {}
+not_scored_words:
+- sortied
+- sortieing
+- sortilege
+- sortition
+- sortitions

@@ -1,0 +1,68 @@
+---
+pattern: i_st
+hi_scored_words_count: 24
+scored_words_count: 7
+total_words: 58
+score: 2356399
+score_per_word: 76012
+hi_scored_words:
+  iconoclast: 67630
+  idealist: 38903
+  illusionist: 68326
+  immodest: 87601
+  imperialist: 33820
+  impressionist: 41419
+  incest: 12446
+  individualist: 65766
+  industrialist: 56877
+  infest: 56952
+  ingest: 41713
+  inmost: 77761
+  innermost: 31655
+  inquest: 28361
+  insist: 7849
+  inst: 14609
+  instrumentalist: 52297
+  interest: 392
+  internationalist: 62384
+  internist: 78806
+  interventionist: 73689
+  invest: 5894
+  irredentist: 88381
+  isolationist: 80409
+scored_words:
+  idlest: 272776
+  illust: 111942
+  immunologist: 152588
+  impost: 116463
+  imprest: 128657
+  integrationist: 235871
+  intensest: 164162
+not_scored_words:
+- Inst
+- Islamist
+- ichthyologist
+- iciest
+- ickiest
+- ideologist
+- idioblast
+- idolist
+- idyllist
+- iffiest
+- illuminist
+- imagist
+- immanentist
+- immoralist
+- impurest
+- inanest
+- incrementalist
+- inflationist
+- inkiest
+- inquisitionist
+- insanest
+- insurrectionist
+- intertwist
+- intimist
+- intuitionist
+- ironist
+- itchiest

@@ -1,0 +1,30 @@
+---
+pattern: i_it
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1256225
+score_per_word: 96632
+hi_scored_words:
+  illicit: 15996
+  implicit: 10701
+  inhabit: 20337
+  inherit: 14434
+  inhibit: 16906
+  init: 15661
+  innit: 65626
+  intuit: 36427
+scored_words:
+  imit: 196753
+  incipit: 132643
+  inspirit: 169684
+  intermit: 321917
+  introit: 239140
+not_scored_words:
+- Inuit
+- Iqaluit
+- Izmit
+- identikit
+- inexplicit
+- interknit
+- intromit

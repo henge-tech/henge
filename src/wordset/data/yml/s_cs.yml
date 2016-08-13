@@ -1,0 +1,60 @@
+---
+pattern: s_cs
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 50
+score: 2464177
+score_per_word: 91265
+hi_scored_words:
+  sacs: 36752
+  schematics: 34722
+  schizophrenics: 84949
+  secs: 24383
+  semantics: 14176
+  semiotics: 46955
+  skeptics: 33679
+  sociolinguistics: 80596
+  sonics: 40037
+  specifics: 11317
+  specs: 8039
+  statics: 49300
+  statistics: 3297
+  stoics: 97997
+  subtopics: 97660
+  supersonics: 47903
+  syncs: 79887
+  synthetics: 60695
+  systematics: 35867
+scored_words:
+  schismatics: 231337
+  shopaholics: 245705
+  sics: 109823
+  stylistics: 100510
+  subtropics: 144779
+  symbolics: 168816
+  synectics: 321561
+  systemics: 253435
+not_scored_words:
+- Sazeracs
+- Semitics
+- Stoics
+- Synoptics
+- sacroiliacs
+- sandaracs
+- sapphics
+- semiautomatics
+- sferics
+- shellacs
+- significs
+- soporifics
+- spastics
+- spherics
+- spics
+- stemmatics
+- strategics
+- styptics
+- subtonics
+- supertonics
+- syndics
+- syntactics
+- syphilitics

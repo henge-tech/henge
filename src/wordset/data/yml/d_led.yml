@@ -1,0 +1,60 @@
+---
+pattern: d_led
+hi_scored_words_count: 25
+scored_words_count: 14
+total_words: 50
+score: 3681800
+score_per_word: 94405
+hi_scored_words:
+  dabbled: 73815
+  dangled: 77692
+  dappled: 58913
+  dazzled: 49817
+  decoupled: 67109
+  defiled: 53701
+  derailed: 35002
+  detailed: 2613
+  deviled: 89456
+  dialed: 32311
+  dimpled: 71391
+  disabled: 4761
+  disassembled: 54718
+  disgruntled: 35420
+  disheveled: 86978
+  dismantled: 30415
+  dispelled: 58767
+  distilled: 18183
+  doled: 99831
+  domiciled: 54118
+  doubled: 9122
+  drilled: 15979
+  drizzled: 91334
+  dulled: 74112
+  dwindled: 52104
+scored_words:
+  dandled: 258959
+  dawdled: 148855
+  despoiled: 138014
+  disemboweled: 258305
+  disentangled: 160743
+  dissembled: 221724
+  dogsled: 160494
+  dolled: 117603
+  doodled: 220440
+  dovetailed: 116558
+  drawled: 115964
+  dribbled: 100687
+  drooled: 131353
+  dueled: 234439
+not_scored_words:
+- decontrolled
+- descaled
+- deskilled
+- dibbled
+- diddled
+- dieseled
+- disembroiled
+- disenabled
+- doweled
+- draggletailed
+- driveled

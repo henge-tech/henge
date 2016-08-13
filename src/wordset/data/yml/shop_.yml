@@ -1,0 +1,40 @@
+---
+pattern: shop_
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 30
+score: 2283971
+score_per_word: 99303
+hi_scored_words:
+  shop: 807
+  shopaholic: 77991
+  shopkeeper: 36477
+  shopkeepers: 51922
+  shoplifting: 48045
+  shoppe: 30702
+  shopped: 28152
+  shopper: 11973
+  shoppers: 6771
+  shoppes: 93277
+  shopping: 3927
+  shops: 2632
+scored_words:
+  shopaholics: 245705
+  shopfitters: 176612
+  shopfitting: 157519
+  shopfront: 180502
+  shopfronts: 254696
+  shoplift: 140782
+  shoplifted: 137909
+  shoplifter: 117136
+  shoplifters: 127583
+  shoptalk: 161556
+  shopworn: 191295
+not_scored_words:
+- shopfitter
+- shophar
+- shophars
+- shopkeeping
+- shoplifts
+- shopwindow
+- shopwindows

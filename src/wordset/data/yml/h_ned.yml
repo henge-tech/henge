@@ -1,0 +1,29 @@
+---
+pattern: h_ned
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 864172
+score_per_word: 78561
+hi_scored_words:
+  happened: 1345
+  hardened: 13737
+  hastened: 28835
+  headlined: 55216
+  heartened: 83551
+  heightened: 15299
+  honed: 37611
+  horned: 25822
+scored_words:
+  harebrained: 240790
+  hearkened: 119075
+  honeymooned: 242891
+not_scored_words:
+- harpooned
+- harshened
+- heterodyned
+- holystoned
+- housecleaned
+- hydroplaned
+- hymned
+- hyphened

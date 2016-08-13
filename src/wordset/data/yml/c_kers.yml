@@ -1,0 +1,34 @@
+---
+pattern: c_kers
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 24
+score: 1983992
+score_per_word: 116705
+hi_scored_words:
+  caretakers: 48283
+  caseworkers: 92036
+  checkers: 26883
+  chokers: 80962
+  cocksuckers: 42566
+  cookers: 29658
+  coworkers: 25964
+  crackers: 16474
+scored_words:
+  cabinetmakers: 153360
+  cankers: 185906
+  clickers: 111995
+  clockmakers: 170586
+  clunkers: 229805
+  cockers: 173615
+  coffeemakers: 180883
+  conkers: 141723
+  croakers: 273293
+not_scored_words:
+- camiknickers
+- carjackers
+- caulkers
+- chukkers
+- clinkers
+- comakers
+- corkers

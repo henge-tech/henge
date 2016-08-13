@@ -1,0 +1,40 @@
+---
+pattern: at_e
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 30
+score: 1019369
+score_per_word: 50968
+hi_scored_words:
+  ate: 4675
+  athlete: 10760
+  atmosphere: 2814
+  atone: 47715
+  atropine: 42401
+  attache: 40120
+  attainable: 32127
+  attendance: 4179
+  attendee: 43742
+  attentive: 15973
+  attenuate: 61888
+  attire: 14485
+  attitude: 2786
+  attractive: 3504
+  attributable: 16484
+  attribute: 4635
+scored_words:
+  atomize: 300796
+  attachable: 102363
+  attributive: 129966
+  attune: 137956
+not_scored_words:
+- Atabrine
+- Ate
+- Athene
+- Attlee
+- atingle
+- atiptoe
+- attainture
+- attemptable
+- attitudinize
+- attractable

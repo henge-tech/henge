@@ -1,0 +1,56 @@
+---
+pattern: _ords
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 46
+score: 2149319
+score_per_word: 76761
+hi_scored_words:
+  accords: 26308
+  affords: 18457
+  buzzwords: 40578
+  chords: 10372
+  cords: 12388
+  crosswords: 33571
+  fjords: 50550
+  fords: 43614
+  keywords: 4293
+  landlords: 15487
+  lords: 5704
+  overlords: 67276
+  oxfords: 60089
+  passwords: 8686
+  records: 1373
+  swords: 8462
+  warlords: 35544
+  words: 389
+scored_words:
+  afterwords: 130700
+  catchwords: 196321
+  codewords: 102670
+  discords: 178347
+  forewords: 215486
+  harpsichords: 171567
+  headwords: 183838
+  loanwords: 148204
+  slumlords: 194450
+  watchwords: 184595
+not_scored_words:
+- Concords
+- Herefords
+- Lords
+- Oxfords
+- backswords
+- broadswords
+- bywords
+- clavichords
+- disaccords
+- milords
+- notochords
+- prerecords
+- rerecords
+- rewords
+- ripcords
+- smorgasbords
+- smörgåsbords
+- swearwords

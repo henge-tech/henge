@@ -1,0 +1,25 @@
+---
+pattern: mutt_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 15
+score: 378786
+score_per_word: 47348
+hi_scored_words:
+  mutt: 22871
+  mutter: 32168
+  muttered: 20489
+  muttering: 49779
+  mutterings: 72922
+  mutters: 73531
+  mutton: 28265
+  mutts: 78761
+scored_words: {}
+not_scored_words:
+- Muttra
+- mutterer
+- mutterers
+- muttonchops
+- muttonhead
+- muttonheads
+- muttony

@@ -1,0 +1,24 @@
+---
+pattern: sh_red
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 14
+score: 1072502
+score_per_word: 76607
+hi_scored_words:
+  shared: 2064
+  shattered: 11215
+  sheared: 53414
+  sheltered: 14183
+  shivered: 49952
+  shouldered: 45525
+  showered: 37766
+  shred: 22287
+  shuddered: 38766
+  shuttered: 73783
+scored_words:
+  sheered: 264678
+  shimmered: 142217
+  shirred: 160299
+  shored: 156353
+not_scored_words: []

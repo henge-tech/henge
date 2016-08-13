@@ -1,0 +1,26 @@
+---
+pattern: rehe_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 910652
+score_per_word: 82786
+hi_scored_words:
+  rehearing: 59733
+  rehearsal: 12886
+  rehearsals: 26516
+  rehearse: 34197
+  rehearsed: 43592
+  rehearsing: 44030
+  reheat: 65461
+  reheating: 99563
+scored_words:
+  rehear: 273776
+  rehearses: 143866
+  reheated: 107032
+not_scored_words:
+- reheard
+- rehearings
+- rehears
+- rehearser
+- reheats

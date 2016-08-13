@@ -1,0 +1,38 @@
+---
+pattern: e_led
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 28
+score: 1187870
+score_per_word: 56565
+hi_scored_words:
+  emailed: 12692
+  embattled: 49346
+  embroiled: 50332
+  enabled: 3003
+  enameled: 59010
+  encircled: 43898
+  enrolled: 7426
+  entailed: 35818
+  entangled: 29719
+  enthralled: 50068
+  entitled: 2714
+  equaled: 53994
+  excelled: 33903
+  exhaled: 60719
+  exiled: 26523
+  expelled: 16799
+  extolled: 80037
+scored_words:
+  embezzled: 118465
+  enfeebled: 133628
+  enkindled: 190850
+  ennobled: 128926
+not_scored_words:
+- embrangled
+- empaled
+- empaneled
+- empurpled
+- ensiled
+- exampled
+- eyeballed

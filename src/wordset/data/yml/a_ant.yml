@@ -1,0 +1,54 @@
+---
+pattern: a_ant
+hi_scored_words_count: 17
+scored_words_count: 12
+total_words: 44
+score: 2247992
+score_per_word: 77516
+hi_scored_words:
+  aberrant: 39450
+  abundant: 7631
+  accountant: 13582
+  adamant: 28885
+  adjutant: 32556
+  adjuvant: 33555
+  anticoagulant: 54574
+  antidepressant: 30072
+  antioxidant: 25726
+  appellant: 22281
+  applicant: 8073
+  arrogant: 14149
+  ascendant: 31707
+  aspirant: 57463
+  assailant: 39648
+  assistant: 2768
+  attendant: 10273
+scored_words:
+  abeyant: 134814
+  accelerant: 243087
+  acceptant: 201612
+  accordant: 185540
+  affiant: 129941
+  ambulant: 185477
+  annuitant: 108807
+  antiperspirant: 121777
+  appurtenant: 127328
+  arrant: 113907
+  aslant: 142325
+  attractant: 100984
+not_scored_words:
+- abirritant
+- abradant
+- absonant
+- acidulant
+- administrant
+- adulterant
+- affirmant
+- aliquant
+- alterant
+- alternant
+- anticipant
+- appendant
+- asphyxiant
+- assonant
+- attenuant

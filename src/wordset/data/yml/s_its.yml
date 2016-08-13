@@ -1,0 +1,33 @@
+---
+pattern: s_its
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 23
+score: 1418892
+score_per_word: 78827
+hi_scored_words:
+  shits: 43870
+  sits: 6115
+  skits: 44485
+  slits: 37993
+  solicits: 68486
+  spirits: 3682
+  spits: 41191
+  splits: 18704
+  straits: 17235
+  submits: 21746
+  subunits: 27272
+  suits: 5247
+  summits: 27758
+  swimsuits: 38838
+scored_words:
+  snowsuits: 267747
+  spacesuits: 199513
+  sprits: 282790
+  sweatsuits: 266220
+not_scored_words:
+- sandpits
+- snits
+- subedits
+- sunsuits
+- surfeits

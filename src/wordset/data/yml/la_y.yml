@@ -1,0 +1,96 @@
+---
+pattern: la_y
+hi_scored_words_count: 30
+scored_words_count: 18
+total_words: 86
+score: 4190204
+score_per_word: 87295
+hi_scored_words:
+  laboratory: 3777
+  laboriously: 66169
+  lackey: 34030
+  lacy: 22407
+  lady: 1213
+  laity: 34177
+  lamprey: 57340
+  landlady: 47099
+  lanky: 55107
+  laparoscopy: 56458
+  laparotomy: 77557
+  lapidary: 64503
+  larceny: 33485
+  largely: 3185
+  lastly: 11639
+  lately: 4683
+  latency: 15426
+  laterally: 41149
+  latterly: 70966
+  laughably: 85990
+  laughingly: 75381
+  laundry: 8530
+  lavatory: 34253
+  lavishly: 41356
+  lawfully: 23897
+  laxity: 68681
+  lay: 1919
+  layaway: 68707
+  lazily: 39223
+  lazy: 5574
+scored_words:
+  lability: 152892
+  laconically: 186647
+  lamasery: 137690
+  lamely: 109277
+  lamentably: 128847
+  languidly: 100236
+  laparoscopically: 239700
+  lardy: 164235
+  laryngology: 172033
+  lasciviously: 153013
+  lastingly: 220259
+  latchkey: 144101
+  latently: 199458
+  laterality: 121598
+  laudably: 181783
+  laudatory: 106128
+  lawyerly: 284884
+  laxly: 233542
+not_scored_words:
+- Lacey
+- Lacy
+- Lady
+- Landry
+- Langley
+- Langtry
+- Lanny
+- Larry
+- Latinity
+- labially
+- lachrymatory
+- lachrymosely
+- lachrymosity
+- lackadaisically
+- lackaday
+- lacquey
+- lacrimatory
+- lactary
+- lacunary
+- laggardly
+- laically
+- laky
+- lambency
+- lambently
+- lampoonery
+- landlubberly
+- languishingly
+- languorously
+- laniary
+- lankily
+- lankly
+- lapidify
+- laryngotomy
+- lathery
+- lathy
+- latitudinally
+- laudability
+- lawlessly

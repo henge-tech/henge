@@ -1,0 +1,63 @@
+---
+pattern: a_ze
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 53
+score: 2289331
+score_per_word: 114466
+hi_scored_words:
+  ablaze: 36516
+  accessorize: 79705
+  adze: 84527
+  amaze: 22870
+  amortize: 87638
+  analyze: 7863
+  antagonize: 70449
+  antifreeze: 49202
+  apologize: 10272
+  authorize: 12092
+scored_words:
+  acclimatize: 173856
+  actualize: 110370
+  aggrandize: 198927
+  agonize: 116093
+  alphabetize: 153374
+  anesthetize: 256877
+  anglicize: 213452
+  anodize: 177168
+  assize: 127284
+  atomize: 300796
+not_scored_words:
+- Africanize
+- Americanize
+- Anglicize
+- Aryanize
+- absolutize
+- acculturize
+- achromatize
+- albumenize
+- alchemize
+- alcoholize
+- alkalinize
+- alkalize
+- allegorize
+- aluminize
+- anagrammatize
+- analogize
+- anathematize
+- anatomize
+- animalize
+- anthologize
+- anthropomorphize
+- antisepticize
+- aphorize
+- apostatize
+- apostrophize
+- apotheosize
+- archaize
+- aromatize
+- arterialize
+- attitudinize
+- automatize
+- autotomize
+- azotize

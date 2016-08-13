@@ -1,0 +1,34 @@
+---
+pattern: re_ist
+hi_scored_words_count: 8
+scored_words_count: 11
+total_words: 24
+score: 2188456
+score_per_word: 115181
+hi_scored_words:
+  realist: 27986
+  receptionist: 21039
+  reductionist: 87818
+  reformist: 45388
+  relist: 90824
+  reservist: 70485
+  resist: 5498
+  revisionist: 47062
+scored_words:
+  recidivist: 132862
+  recitalist: 251204
+  reconstructionist: 104066
+  recordist: 107589
+  reenlist: 207354
+  reflexologist: 250276
+  relativist: 123567
+  religionist: 211120
+  resurrectionist: 170405
+  revivalist: 101145
+  revolutionist: 132768
+not_scored_words:
+- Reconstructionist
+- Rehnquist
+- reunionist
+- revanchist
+- revelationist

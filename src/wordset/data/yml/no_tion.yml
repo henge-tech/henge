@@ -1,0 +1,29 @@
+---
+pattern: no_tion
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 19
+score: 1462328
+score_per_word: 97488
+hi_scored_words:
+  nomination: 7470
+  nondiscrimination: 58642
+  nonfiction: 13495
+  nonprescription: 74049
+  nonproliferation: 55826
+  normalization: 27141
+  notation: 14103
+  notification: 7909
+  notion: 4207
+  novation: 69143
+  novelization: 91669
+scored_words:
+  noncooperation: 271223
+  nonparticipation: 271850
+  nonrecognition: 280851
+  notarization: 214750
+not_scored_words:
+- nondisjunction
+- nonelection
+- nonimportation
+- nonintervention

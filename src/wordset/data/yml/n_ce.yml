@@ -1,0 +1,50 @@
+---
+pattern: n_ce
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 40
+score: 2134557
+score_per_word: 92806
+hi_scored_words:
+  nance: 32227
+  necklace: 6472
+  negligence: 9793
+  neuroscience: 15304
+  nice: 773
+  niece: 13318
+  nonce: 43155
+  nonchalance: 99553
+  noncompliance: 36934
+  nonexistence: 94322
+  nonviolence: 44891
+  notice: 588
+  novice: 11684
+  nuance: 34961
+  nuisance: 13619
+scored_words:
+  nescience: 139233
+  ninepence: 126751
+  nonacceptance: 175494
+  nonconformance: 233706
+  nonfeasance: 335735
+  noninterference: 225000
+  nonperformance: 177407
+  nosepiece: 263637
+not_scored_words:
+- Nice
+- Noyce
+- nascence
+- neckpiece
+- nonadherence
+- nonappearance
+- nonattendance
+- nonconcurrence
+- nonobedience
+- nonobservance
+- nonoccurence
+- nonoccurrence
+- nonresemblance
+- nonresidence
+- nonresistance
+- nonsignificance
+- noplace

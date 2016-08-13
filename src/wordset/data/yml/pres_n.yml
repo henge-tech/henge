@@ -1,0 +1,24 @@
+---
+pattern: pres_n
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 795691
+score_per_word: 72335
+hi_scored_words:
+  presbyterian: 10634
+  prescription: 5553
+  preseason: 23171
+  presentation: 3527
+  preservation: 5063
+  pressman: 61865
+  pressurization: 97122
+  presumption: 16403
+  presupposition: 76205
+scored_words:
+  prescreen: 297535
+  prestidigitation: 198613
+not_scored_words:
+- Presbyterian
+- Preston
+- pressmen

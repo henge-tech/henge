@@ -1,0 +1,23 @@
+---
+pattern: rec_ve
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 530666
+score_per_word: 58962
+hi_scored_words:
+  receive: 664
+  receptive: 23567
+  recessive: 33779
+  recitative: 98726
+  reclusive: 61420
+  reconstructive: 33474
+  recursive: 21043
+  recurve: 80623
+scored_words:
+  recuperative: 177370
+not_scored_words:
+- reciprocative
+- reconceive
+- recreative
+- recriminative

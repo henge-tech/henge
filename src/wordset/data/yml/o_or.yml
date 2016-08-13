@@ -1,0 +1,30 @@
+---
+pattern: o_or
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 20
+score: 780510
+score_per_word: 60039
+hi_scored_words:
+  objector: 48889
+  obligor: 75185
+  odor: 9683
+  offeror: 66392
+  operator: 4894
+  oppressor: 51022
+  orator: 32461
+  orchestrator: 94442
+  originator: 18299
+  oscillator: 22088
+  outdoor: 5094
+scored_words:
+  oculomotor: 101249
+  ovipositor: 250812
+not_scored_words:
+- O'Connor
+- objurgator
+- obligator
+- obliterator
+- obstructor
+- obviator
+- officiator

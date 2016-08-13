@@ -1,0 +1,23 @@
+---
+pattern: ren_ing
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 599443
+score_per_word: 59944
+hi_scored_words:
+  renaming: 25329
+  rendering: 7488
+  rending: 65486
+  renewing: 23993
+  renouncing: 70268
+  renovating: 34898
+  renting: 17611
+  renumbering: 67267
+scored_words:
+  reneging: 157085
+  renegotiating: 130018
+not_scored_words:
+- rendezvousing
+- renegading
+- renominating

@@ -1,0 +1,31 @@
+---
+pattern: im_te
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 21
+score: 1389170
+score_per_word: 92611
+hi_scored_words:
+  imitate: 19444
+  immaculate: 18678
+  immediate: 1891
+  immigrate: 61459
+  impersonate: 53291
+  implicate: 45976
+  impolite: 51191
+  impregnate: 82287
+  impute: 63472
+scored_words:
+  imamate: 207327
+  imbricate: 216171
+  immoderate: 109319
+  immolate: 203772
+  imperforate: 130321
+  importunate: 124571
+not_scored_words:
+- imparipinnate
+- impaste
+- impetrate
+- impignorate
+- imprecate
+- impropriate

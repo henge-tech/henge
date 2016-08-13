@@ -1,0 +1,29 @@
+---
+pattern: cont_r
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 19
+score: 540831
+score_per_word: 54083
+hi_scored_words:
+  contactor: 73599
+  container: 9990
+  contender: 20713
+  contour: 14629
+  contr: 57659
+  contractor: 7336
+  contributor: 10743
+  controller: 11912
+scored_words:
+  continuer: 154978
+  contriver: 179272
+not_scored_words:
+- contaminator
+- contemner
+- contemnor
+- contemplator
+- contester
+- continuator
+- contradicter
+- contradictor
+- contravener

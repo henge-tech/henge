@@ -1,0 +1,32 @@
+---
+pattern: w_f
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 22
+score: 763438
+score_per_word: 54531
+hi_scored_words:
+  waif: 72875
+  waterproof: 13307
+  weatherproof: 56450
+  werewolf: 22704
+  wharf: 12967
+  whereof: 25312
+  whiff: 36564
+  windproof: 88868
+  wolf: 3876
+  woodruff: 31524
+  woof: 24409
+scored_words:
+  waitstaff: 109577
+  whf: 164079
+  windsurf: 100926
+not_scored_words:
+- WAAF
+- WRAF
+- Waldorf
+- Wolf
+- Wolff
+- Wolof
+- Woolf
+- wearproof

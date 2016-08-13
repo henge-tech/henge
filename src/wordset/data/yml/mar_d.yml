@@ -1,0 +1,34 @@
+---
+pattern: mar_d
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 24
+score: 1112906
+score_per_word: 69556
+hi_scored_words:
+  marbled: 52087
+  marched: 13004
+  marginalized: 32221
+  marigold: 41264
+  marinated: 35908
+  marked: 2174
+  marketed: 13560
+  marooned: 74021
+  marred: 29112
+  married: 1240
+  marshland: 82050
+  martyred: 58610
+  marveled: 68246
+scored_words:
+  maraud: 227833
+  marbleized: 264442
+  marshaled: 117134
+not_scored_words:
+- Marienbad
+- Marquand
+- Maryland
+- marauded
+- marcelled
+- marchland
+- marinaded
+- martyrized

@@ -1,0 +1,50 @@
+---
+pattern: dec_es
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 40
+score: 1966733
+score_per_word: 109262
+hi_scored_words:
+  decades: 6913
+  deceives: 95890
+  decides: 8638
+  declares: 11865
+  declines: 16354
+  decodes: 78164
+  decomposes: 71503
+  decorates: 99975
+  decreases: 14926
+  decrees: 24467
+scored_words:
+  decelerates: 249467
+  decencies: 125859
+  deciles: 132533
+  decimates: 286943
+  declivities: 142810
+  decompresses: 279696
+  decouples: 218995
+  decries: 101735
+not_scored_words:
+- decaffeinates
+- decalcifies
+- decapitates
+- decarbonizes
+- decarburizes
+- decasyllables
+- decathletes
+- deceases
+- decennaries
+- decentralizes
+- decimalizes
+- deckles
+- declassifies
+- decolletages
+- decolonizes
+- decolorizes
+- deconsecrates
+- decontaminates
+- decorticates
+- decoupages
+- decrepitates
+- decriminalizes

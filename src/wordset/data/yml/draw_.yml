@@ -1,0 +1,37 @@
+---
+pattern: draw_
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 27
+score: 1546001
+score_per_word: 81368
+hi_scored_words:
+  draw: 1785
+  drawback: 20343
+  drawbacks: 24451
+  drawbridge: 54888
+  drawer: 7696
+  drawers: 12896
+  drawing: 2126
+  drawings: 8217
+  drawl: 63873
+  drawn: 2313
+  draws: 6246
+  drawstring: 49323
+scored_words:
+  drawable: 171989
+  drawbar: 129064
+  drawee: 174392
+  drawled: 115964
+  drawling: 196206
+  drawls: 265058
+  drawstrings: 239171
+not_scored_words:
+- drawbridges
+- drawees
+- drawknife
+- drawknives
+- drawplate
+- drawshave
+- drawshaves
+- drawtube

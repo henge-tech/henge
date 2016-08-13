@@ -1,0 +1,32 @@
+---
+pattern: m_one
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 22
+score: 1600289
+score_per_word: 114306
+hi_scored_words:
+  megaphone: 50679
+  methadone: 25353
+  microphone: 18199
+  milestone: 18831
+  millstone: 49777
+  monotone: 24334
+  moonstone: 41312
+  mudstone: 85844
+scored_words:
+  madrone: 137864
+  marrowbone: 271605
+  mellophone: 281705
+  menadione: 247559
+  methaqualone: 245427
+  minestrone: 101800
+not_scored_words:
+- Maidstone
+- Malone
+- Montefiascone
+- mantellone
+- membranophone
+- metallophone
+- microtone
+- misdone

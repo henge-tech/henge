@@ -1,0 +1,47 @@
+---
+pattern: e_ical
+hi_scored_words_count: 22
+scored_words_count: 5
+total_words: 37
+score: 1922426
+score_per_word: 71200
+hi_scored_words:
+  ecclesiastical: 16485
+  ecological: 11196
+  economical: 10648
+  ecumenical: 24828
+  egotistical: 45286
+  electrical: 4025
+  electrochemical: 30488
+  electromechanical: 41079
+  elliptical: 22051
+  empirical: 9635
+  encyclical: 48636
+  enigmatical: 76638
+  entomological: 57778
+  epidemiological: 26567
+  epistemological: 40361
+  eschatological: 77612
+  ethical: 5641
+  ethnological: 90207
+  etiological: 98102
+  etymological: 71752
+  evangelical: 13610
+  exegetical: 69131
+scored_words:
+  emblematical: 160933
+  embryological: 184789
+  endocrinological: 281858
+  ethnographical: 196006
+  ethological: 207084
+not_scored_words:
+- Eucharistical
+- Evangelical
+- econometrical
+- egoistical
+- epical
+- epigrammatical
+- epigraphical
+- epithetical
+- eremitical
+- extracanonical

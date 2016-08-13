@@ -1,0 +1,34 @@
+---
+pattern: for_rs
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 24
+score: 2052609
+score_per_word: 128288
+hi_scored_words:
+  forebears: 74178
+  forecasters: 49040
+  forefathers: 30893
+  foreigners: 9738
+  forerunners: 74929
+  foresters: 45279
+  formers: 61645
+  forwarders: 75809
+scored_words:
+  foragers: 112791
+  foraminifers: 229231
+  forbears: 161074
+  forefingers: 284339
+  forgers: 139693
+  formulators: 188550
+  fornicators: 233689
+  fortifiers: 281731
+not_scored_words:
+- foregathers
+- forequarters
+- foreseers
+- forgathers
+- forgivers
+- forgoers
+- forswears
+- fortunetellers

@@ -1,0 +1,26 @@
+---
+pattern: _arn
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 16
+score: 500370
+score_per_word: 45488
+hi_scored_words:
+  barn: 6518
+  darn: 16516
+  earn: 3176
+  learn: 394
+  relearn: 98473
+  tarn: 46004
+  unlearn: 82811
+  warn: 6779
+  yarn: 9565
+  yearn: 37294
+scored_words:
+  forewarn: 192840
+not_scored_words:
+- Tarn
+- carbarn
+- goldarn
+- outearn
+- overlearn

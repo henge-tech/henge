@@ -1,0 +1,33 @@
+---
+pattern: gene_s
+hi_scored_words_count: 16
+scored_words_count: 0
+total_words: 23
+score: 570749
+score_per_word: 35671
+hi_scored_words:
+  genealogies: 57246
+  genealogists: 67222
+  generalists: 94350
+  generalities: 55527
+  generalizations: 34189
+  generalizes: 74192
+  generals: 9930
+  generates: 14685
+  generations: 4362
+  generators: 15768
+  generics: 41109
+  generous: 4927
+  genes: 4260
+  genesis: 6930
+  geneticists: 77205
+  genetics: 8847
+scored_words: {}
+not_scored_words:
+- Genesis
+- generalissimos
+- generosities
+- generousness
+- geneses
+- genets
+- genevas

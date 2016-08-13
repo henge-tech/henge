@@ -1,0 +1,24 @@
+---
+pattern: pri_ed
+hi_scored_words_count: 11
+scored_words_count: 0
+total_words: 14
+score: 446682
+score_per_word: 40607
+hi_scored_words:
+  priced: 12745
+  pricked: 70256
+  prided: 74666
+  pried: 90969
+  primed: 34987
+  principled: 43164
+  printed: 1971
+  prioritized: 42682
+  privatized: 41382
+  privileged: 8766
+  prized: 25094
+scored_words: {}
+not_scored_words:
+- prickled
+- primped
+- prinked

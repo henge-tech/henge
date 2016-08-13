@@ -1,0 +1,26 @@
+---
+pattern: _tice
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 16
+score: 414015
+score_per_word: 31847
+hi_scored_words:
+  apprentice: 10328
+  armistice: 34997
+  entice: 28231
+  injustice: 10156
+  justice: 1076
+  lattice: 13316
+  malpractice: 14116
+  notice: 588
+  practice: 761
+  prentice: 21875
+  solstice: 25520
+scored_words:
+  interstice: 150751
+  poultice: 102300
+not_scored_words:
+- Justice
+- Prentice
+- brattice

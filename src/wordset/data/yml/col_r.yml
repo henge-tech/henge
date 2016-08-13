@@ -1,0 +1,34 @@
+---
+pattern: col_r
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 24
+score: 1114591
+score_per_word: 69661
+hi_scored_words:
+  colander: 69031
+  colder: 16179
+  collaborator: 31710
+  collar: 5277
+  collector: 6523
+  collider: 42499
+  collier: 18465
+  collimator: 78355
+  collinear: 84048
+  color: 872
+  colter: 69663
+  columnar: 48166
+scored_words:
+  collator: 160733
+  colonizer: 160779
+  colorimeter: 138971
+  colporteur: 183320
+not_scored_words:
+- Colchester
+- Collier
+- Colmar
+- colcothar
+- coldshoulder
+- collocutor
+- colluder
+- colorer

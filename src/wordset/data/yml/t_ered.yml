@@ -1,0 +1,30 @@
+---
+pattern: t_ered
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 20
+score: 1467234
+score_per_word: 81513
+hi_scored_words:
+  tampered: 46762
+  tapered: 30728
+  tattered: 31446
+  tempered: 17002
+  tendered: 32902
+  tethered: 44946
+  thundered: 70389
+  tiered: 27030
+  timbered: 75253
+  towered: 78362
+  transgendered: 41027
+  triggered: 11428
+scored_words:
+  teetered: 208618
+  tinkered: 116842
+  tittered: 150198
+  tottered: 110180
+  tuckered: 245754
+  twittered: 128367
+not_scored_words:
+- tasered
+- tricornered

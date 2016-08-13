@@ -1,0 +1,40 @@
+---
+pattern: d_ces
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 30
+score: 2290046
+score_per_word: 114502
+hi_scored_words:
+  dances: 8579
+  denounces: 58762
+  deuces: 39730
+  devices: 5296
+  dices: 85895
+  differences: 2508
+  disappearances: 53767
+  displaces: 76904
+  distances: 7596
+  disturbances: 15544
+  divergences: 67867
+  divorces: 40773
+scored_words:
+  dalliances: 268706
+  deduces: 139903
+  defaces: 296103
+  dentifrices: 270565
+  disgraces: 172520
+  dissonances: 239761
+  dominatrices: 319067
+  dunces: 120200
+not_scored_words:
+- daces
+- dehiscences
+- dehisces
+- deices
+- deliquesces
+- devoices
+- discontinuances
+- discountenances
+- disservices
+- divulgences

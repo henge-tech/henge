@@ -1,0 +1,46 @@
+---
+pattern: gin_
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 36
+score: 2349277
+score_per_word: 117463
+hi_scored_words:
+  gin: 12342
+  ginger: 9279
+  gingerbread: 29613
+  gingerly: 51785
+  gingham: 48212
+  gingivitis: 67756
+  ginkgo: 42303
+  ginny: 24845
+  gins: 59970
+  ginseng: 27514
+scored_words:
+  gingered: 263820
+  gingers: 136908
+  gingersnap: 274937
+  gingersnaps: 322008
+  gingery: 221084
+  gingiva: 116579
+  gink: 116637
+  ginned: 275304
+  ginning: 100306
+  ginormous: 148075
+not_scored_words:
+- Gina
+- Ginger
+- Gingrich
+- Ginny
+- Gino
+- Ginsberg
+- Ginsburg
+- Ginsu
+- gingering
+- gingerliness
+- gingili
+- gingivae
+- ginglymus
+- ginglymuses
+- ginkgoes
+- ginkgos

@@ -1,0 +1,46 @@
+---
+pattern: di_tes
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 36
+score: 1706576
+score_per_word: 94809
+hi_scored_words:
+  diabetes: 6916
+  dictates: 21092
+  differentiates: 40876
+  dilutes: 89245
+  directorates: 64774
+  discriminates: 63508
+  diskettes: 64172
+  disputes: 7629
+  disseminates: 79762
+  dissipates: 78265
+  distributes: 24829
+scored_words:
+  dilates: 161337
+  dilettantes: 287736
+  dinettes: 236093
+  dinoflagellates: 123116
+  disintegrates: 110983
+  dissociates: 136774
+  distillates: 109469
+not_scored_words:
+- diatomites
+- dibranchiates
+- dichromates
+- dilapidates
+- dimenhydrinates
+- diorites
+- disaffiliates
+- disarticulates
+- disassociates
+- discombobulates
+- dislocates
+- disorientates
+- dissimilates
+- dissimulates
+- distastes
+- disunites
+- divagates
+- divaricates

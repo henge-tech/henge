@@ -1,0 +1,24 @@
+---
+pattern: _rust
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 14
+score: 344994
+score_per_word: 38332
+hi_scored_words:
+  antitrust: 17890
+  crust: 14578
+  distrust: 18980
+  entrust: 30555
+  mistrust: 29822
+  rust: 10574
+  thrust: 6850
+  trust: 861
+scored_words:
+  encrust: 214884
+not_scored_words:
+- overthrust
+- piecrust
+- shortcrust
+- underthrust
+- upthrust

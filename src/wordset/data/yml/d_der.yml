@@ -1,0 +1,28 @@
+---
+pattern: d_der
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 791891
+score_per_word: 71990
+hi_scored_words:
+  dander: 66999
+  decider: 86516
+  decoder: 19953
+  defender: 10718
+  demander: 86806
+  disorder: 3951
+  divider: 30213
+  doubleheader: 63476
+scored_words:
+  deader: 143124
+  descender: 155203
+  dodder: 124932
+not_scored_words:
+- darneder
+- defrauder
+- degrader
+- deluder
+- disconsider
+- dissuader
+- doggoneder

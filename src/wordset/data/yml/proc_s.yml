@@ -1,0 +1,43 @@
+---
+pattern: proc_s
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 33
+score: 1351707
+score_per_word: 75094
+hi_scored_words:
+  procedures: 8416
+  proceedings: 2709
+  proceeds: 5508
+  process: 609
+  processes: 2686
+  processions: 52298
+  processors: 6596
+  proclaimers: 96439
+  proclaims: 36621
+  proclamations: 45868
+  procurements: 86339
+  procures: 80254
+  procuress: 91996
+scored_words:
+  proclivities: 105373
+  procrastinators: 139099
+  proctors: 109129
+  procurators: 198133
+  procurers: 283634
+not_scored_words:
+- Proclus
+- Procopius
+- Procrustes
+- procaryotes
+- processionals
+- proconsulates
+- proconsuls
+- procrastinates
+- procrastinations
+- procreates
+- proctologies
+- proctologists
+- proctoscopes
+- procurances
+- procuresses

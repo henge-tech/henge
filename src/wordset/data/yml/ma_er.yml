@@ -1,0 +1,89 @@
+---
+pattern: ma_er
+hi_scored_words_count: 30
+scored_words_count: 16
+total_words: 79
+score: 3612510
+score_per_word: 78532
+hi_scored_words:
+  madder: 54622
+  magnetometer: 46238
+  magnifier: 47389
+  mailer: 22794
+  maintainer: 30115
+  makeover: 16491
+  maker: 5055
+  manager: 1807
+  maneuver: 21085
+  manger: 24128
+  manner: 1420
+  manometer: 79376
+  manpower: 15292
+  manslaughter: 29219
+  manufacturer: 4610
+  mapper: 47056
+  marauder: 46807
+  mariner: 17818
+  marker: 16290
+  marketer: 29934
+  maser: 61776
+  masher: 76146
+  master: 755
+  matcher: 88010
+  matchmaker: 31482
+  mater: 18885
+  matter: 515
+  maximizer: 96982
+  mayflower: 32683
+  mazer: 87044
+scored_words:
+  magnetizer: 204664
+  mangler: 122586
+  manlier: 115459
+  mapmaker: 128156
+  marathoner: 160650
+  marcher: 101839
+  marketeer: 143061
+  marshaller: 216138
+  masker: 107562
+  masquer: 317166
+  masquerader: 167795
+  masseter: 165756
+  maturer: 229169
+  mauger: 172307
+  mauler: 105133
+  maunder: 103245
+not_scored_words:
+- Machmeter
+- Maeander
+- Mahler
+- Mailer
+- Mainer
+- Maker
+- Manchester
+- Mariner
+- Maritimer
+- Marylander
+- Master
+- Mather
+- Mauser
+- Mayer
+- Mayflower
+- maiger
+- maimer
+- mainliner
+- maladminister
+- maligner
+- malinger
+- malingerer
+- malpractitioner
+- maltier
+- mangier
+- manslayer
+- manstopper
+- manumitter
+- marshaler
+- marshier
+- mastersinger
+- matier
+- mazier

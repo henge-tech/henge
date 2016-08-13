@@ -1,0 +1,75 @@
+---
+pattern: ne_y
+hi_scored_words_count: 30
+scored_words_count: 14
+total_words: 65
+score: 3637551
+score_per_word: 82671
+hi_scored_words:
+  nearby: 5955
+  nearly: 1190
+  neatly: 13584
+  necessarily: 2573
+  necessary: 611
+  necessity: 4659
+  necromancy: 80382
+  necropsy: 73698
+  needlessly: 39190
+  needy: 14330
+  negatively: 19643
+  negativity: 32593
+  negatory: 81542
+  negligently: 70666
+  neighborly: 77630
+  nelly: 11572
+  nephrectomy: 89786
+  nephropathy: 55022
+  nerdy: 35377
+  nervously: 30325
+  neurobiology: 38072
+  neurology: 17545
+  neuropathy: 30338
+  neurophysiology: 52733
+  neuropsychiatry: 97235
+  neurosurgery: 30168
+  neutrality: 17724
+  newly: 3184
+  newsboy: 96134
+  newsworthy: 47052
+scored_words:
+  nebulosity: 212868
+  necrology: 123006
+  negligibly: 155707
+  negotiability: 217991
+  neonatology: 103741
+  neoteny: 262174
+  nervy: 145313
+  netty: 195352
+  neurally: 281922
+  neurologically: 122000
+  neurotically: 266513
+  neutrally: 113207
+  newsweekly: 133599
+  newsy: 133645
+not_scored_words:
+- Nelly
+- Nevsky
+- Newry
+- Newtownabbey
+- nearsightedly
+- nebulously
+- necrolatry
+- necroscopy
+- necrotomy
+- needfully
+- nefariously
+- neglectfully
+- negligibility
+- neology
+- neonatally
+- neoplasty
+- nephology
+- nephrotomy
+- nervelessly
+- nervily
+- neurotomy

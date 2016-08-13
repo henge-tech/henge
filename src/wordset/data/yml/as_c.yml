@@ -1,0 +1,30 @@
+---
+pattern: as_c
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1112336
+score_per_word: 79452
+hi_scored_words:
+  ascetic: 40241
+  ascorbic: 39937
+  aseptic: 53803
+  aspic: 99569
+  assoc: 15359
+  asthmatic: 43409
+  asymmetric: 22488
+  asymptomatic: 31945
+  asymptotic: 27981
+scored_words:
+  asphaltic: 116528
+  astatic: 213372
+  asthenic: 106514
+  astigmatic: 143626
+  astronomic: 157564
+not_scored_words:
+- Ashkenazic
+- Asiatic
+- asdic
+- astrologic
+- astronautic
+- asyllabic

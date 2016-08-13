@@ -1,0 +1,44 @@
+---
+pattern: nati_
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 34
+score: 1306421
+score_per_word: 56800
+hi_scored_words:
+  nation: 1126
+  national: 377
+  nationalism: 20073
+  nationalist: 17690
+  nationalistic: 45127
+  nationalists: 34647
+  nationalities: 26666
+  nationality: 10040
+  nationalization: 59332
+  nationalized: 69565
+  nationally: 18726
+  nationals: 17905
+  nationhood: 73586
+  nations: 1512
+  nationwide: 7916
+  native: 1390
+  natives: 9243
+  nativity: 22016
+scored_words:
+  nationalize: 135479
+  nationalizing: 212611
+  nativism: 152712
+  nativist: 189673
+  nativities: 179009
+not_scored_words:
+- Natick
+- Nation
+- Nationwide
+- Nativity
+- nationalistically
+- nationalizations
+- nationalizer
+- nationalizes
+- nativisms
+- nativistic
+- nativists

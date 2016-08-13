@@ -1,0 +1,32 @@
+---
+pattern: pr_ous
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 22
+score: 1094075
+score_per_word: 64357
+hi_scored_words:
+  precarious: 23973
+  precious: 3569
+  precipitous: 47992
+  precocious: 39029
+  preposterous: 38001
+  prestigious: 13273
+  presumptuous: 42626
+  pretentious: 26210
+  previous: 660
+  prodigious: 31943
+  promiscuous: 33543
+  propitious: 64176
+  prosperous: 12883
+scored_words:
+  precancerous: 102396
+  precautious: 197413
+  predaceous: 219969
+  proteinaceous: 196419
+not_scored_words:
+- preconscious
+- primulaceous
+- prognathous
+- prolegomenous
+- proliferous

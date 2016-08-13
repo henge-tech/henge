@@ -1,0 +1,27 @@
+---
+pattern: _nc
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 550122
+score_per_word: 55012
+hi_scored_words:
+  banc: 44760
+  bronc: 99723
+  conc: 40102
+  enc: 46700
+  franc: 13290
+  inc: 6449
+  sync: 12321
+  zinc: 8895
+scored_words:
+  canc: 117798
+  quidnunc: 160084
+not_scored_words:
+- Blanc
+- Inc
+- Lanfranc
+- Leblanc
+- NC
+- Poulenc
+- charabanc

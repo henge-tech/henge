@@ -1,0 +1,33 @@
+---
+pattern: de_tors
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 23
+score: 1507705
+score_per_word: 88688
+hi_scored_words:
+  debtors: 24196
+  decorators: 30623
+  defectors: 71145
+  defibrillators: 59266
+  deflectors: 79657
+  demonstrators: 24386
+  denominators: 71763
+  depositors: 52192
+  descriptors: 26368
+  detectors: 10598
+  detonators: 93158
+  detractors: 48730
+scored_words:
+  deflators: 204112
+  dehydrators: 105685
+  demodulators: 247293
+  desiccators: 242592
+  designators: 115941
+not_scored_words:
+- decapitators
+- decelerators
+- dedicators
+- defoliators
+- depreciators
+- devastators

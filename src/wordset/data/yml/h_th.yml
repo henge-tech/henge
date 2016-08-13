@@ -1,0 +1,38 @@
+---
+pattern: h_th
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 28
+score: 1070765
+score_per_word: 76483
+hi_scored_words:
+  hath: 5919
+  health: 318
+  hearth: 14321
+  heath: 8068
+  henceforth: 20907
+  herewith: 36600
+  heth: 94995
+  hundredth: 38710
+  hyacinth: 37004
+scored_words:
+  hairbreadth: 181837
+  handbreadth: 209214
+  helminth: 114156
+  homeopath: 122080
+  hypoth: 186636
+not_scored_words:
+- Hammersmith
+- Harmsworth
+- Haworth
+- Hayworth
+- Heath
+- Hindemith
+- Hogarth
+- Hollerith
+- haircloth
+- hairsbreadth
+- halfpennyworth
+- headcloth
+- hipbath
+- hydranth

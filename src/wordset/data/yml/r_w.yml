@@ -1,0 +1,29 @@
+---
+pattern: r_w
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 19
+score: 604528
+score_per_word: 54957
+hi_scored_words:
+  rainbow: 5649
+  raw: 2777
+  redraw: 53182
+  reflow: 78459
+  regrow: 98244
+  renew: 7071
+  review: 1378
+  rickshaw: 47660
+  roadshow: 27873
+  row: 2025
+scored_words:
+  redrew: 280210
+not_scored_words:
+- Renfrew
+- regrew
+- resew
+- reshow
+- resow
+- restharrow
+- ripsaw
+- roughhew

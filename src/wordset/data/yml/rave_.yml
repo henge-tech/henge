@@ -1,0 +1,33 @@
+---
+pattern: rave_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 23
+score: 848258
+score_per_word: 70688
+hi_scored_words:
+  rave: 14016
+  raved: 65894
+  ravel: 34307
+  raven: 9594
+  ravenous: 44634
+  ravens: 16826
+  raver: 53079
+  ravers: 88522
+  raves: 30110
+scored_words:
+  raveling: 207693
+  ravening: 172228
+  ravenously: 111355
+not_scored_words:
+- Ravel
+- Ravenna
+- raveled
+- raveler
+- ravelin
+- ravelings
+- ravelment
+- ravels
+- ravened
+- ravenousness
+- ravenousnesses

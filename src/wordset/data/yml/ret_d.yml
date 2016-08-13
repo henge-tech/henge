@@ -1,0 +1,48 @@
+---
+pattern: ret_d
+hi_scored_words_count: 16
+scored_words_count: 12
+total_words: 38
+score: 2556990
+score_per_word: 91321
+hi_scored_words:
+  retained: 5069
+  retaliated: 70579
+  retard: 22687
+  retarded: 14811
+  reticulated: 73055
+  retired: 3613
+  retold: 62622
+  retorted: 36249
+  retraced: 96790
+  retracted: 36312
+  retransmitted: 85023
+  retread: 92499
+  retreated: 28781
+  retrieved: 11745
+  retrofitted: 72789
+  returned: 1156
+scored_words:
+  retailed: 100757
+  retd: 110384
+  retested: 100224
+  retitled: 117958
+  retooled: 130734
+  retouched: 113647
+  retrained: 116215
+  retreaded: 337280
+  retrenched: 149459
+  retried: 112823
+  retted: 241004
+  retyped: 212725
+not_scored_words:
+- retched
+- retied
+- retrad
+- retranslated
+- retrod
+- retrofired
+- retrograded
+- retrogressed
+- retrospected
+- retweeted

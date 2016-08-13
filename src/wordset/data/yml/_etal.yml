@@ -1,0 +1,30 @@
+---
+pattern: _etal
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 20
+score: 782190
+score_per_word: 60168
+hi_scored_words:
+  acetal: 98648
+  centripetal: 74008
+  fetal: 13935
+  gunmetal: 57649
+  metal: 1669
+  parietal: 37628
+  petal: 25796
+  skeletal: 17554
+  societal: 15245
+  varietal: 43405
+  vegetal: 79466
+scored_words:
+  bimetal: 188742
+  nonmetal: 128445
+not_scored_words:
+- acropetal
+- basipetal
+- biparietal
+- decretal
+- exoskeletal
+- hyetal
+- pelletal

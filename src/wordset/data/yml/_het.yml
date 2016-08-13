@@ -1,0 +1,31 @@
+---
+pattern: _het
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 21
+score: 1276878
+score_per_word: 79804
+hi_scored_words:
+  cachet: 49959
+  crochet: 17355
+  crotchet: 85570
+  epithet: 39467
+  hatchet: 24500
+  prophet: 5784
+  ratchet: 20015
+  ricochet: 40629
+  sachet: 59781
+  trebuchet: 54144
+  whet: 42287
+scored_words:
+  freshet: 189525
+  nymphet: 132343
+  planchet: 151714
+  rhet: 156890
+  rochet: 206915
+not_scored_words:
+- Montrachet
+- Pinochet
+- Prophet
+- Tophet
+- latchet

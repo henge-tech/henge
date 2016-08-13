@@ -1,0 +1,36 @@
+---
+pattern: vi_ng
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 26
+score: 1490896
+score_per_word: 93181
+hi_scored_words:
+  vibrating: 17230
+  videoconferencing: 47508
+  videotaping: 73050
+  viewing: 3223
+  viking: 11410
+  violating: 14969
+  visioning: 80746
+  visiting: 3082
+  visualizing: 40657
+scored_words:
+  victimizing: 193983
+  videoing: 261709
+  vignetting: 104315
+  vilifying: 178639
+  vindicating: 125608
+  vitalizing: 199973
+  vivifying: 134794
+not_scored_words:
+- Vietcong
+- Viking
+- vicing
+- victualing
+- visaing
+- vising
+- vitiating
+- vitrifying
+- vituperating
+- vivisecting

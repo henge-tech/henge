@@ -1,0 +1,49 @@
+---
+pattern: glob_
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 39
+score: 2095838
+score_per_word: 87326
+hi_scored_words:
+  glob: 44511
+  global: 7796
+  globalism: 86905
+  globalization: 13688
+  globalized: 64322
+  globalizing: 89110
+  globally: 11625
+  globe: 3979
+  globes: 21370
+  globetrotter: 83336
+  globetrotters: 71223
+  globin: 63402
+  globular: 33950
+  globule: 96395
+  globules: 96976
+  globulin: 44203
+scored_words:
+  globalist: 112621
+  globalists: 208398
+  globalize: 185239
+  globetrotting: 130341
+  globigerina: 171655
+  globins: 183333
+  globose: 156115
+  globs: 115345
+not_scored_words:
+- globalizes
+- globate
+- globed
+- globefish
+- globeflower
+- globeflowers
+- globetrot
+- globigerine
+- globing
+- globoid
+- globularly
+- globularness
+- globularnesses
+- globuliferous
+- globulous

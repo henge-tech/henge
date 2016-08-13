@@ -1,0 +1,29 @@
+---
+pattern: s_ffs
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 962976
+score_per_word: 87543
+hi_scored_words:
+  scoffs: 99191
+  scuffs: 86207
+  sheriffs: 33193
+  sniffs: 66007
+  spinoffs: 84137
+  staffs: 23050
+  stiffs: 54296
+  stuffs: 30199
+scored_words:
+  skiffs: 145181
+  snuffs: 229887
+  standoffs: 111628
+not_scored_words:
+- sclaffs
+- scruffs
+- selloffs
+- sendoffs
+- showoffs
+- shutoffs
+- spiffs
+- spliffs

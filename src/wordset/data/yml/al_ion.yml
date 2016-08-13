@@ -1,0 +1,27 @@
+---
+pattern: al_ion
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 17
+score: 679990
+score_per_word: 56665
+hi_scored_words:
+  alienation: 22472
+  alimentation: 74695
+  alkylation: 92434
+  allegation: 21765
+  alleviation: 38204
+  alliteration: 64026
+  allocation: 15574
+  allusion: 29069
+  alteration: 9141
+  altercation: 35943
+  alternation: 40083
+scored_words:
+  allocution: 236584
+not_scored_words:
+- Albion
+- alerion
+- alkalization
+- alluvion
+- alphabetization

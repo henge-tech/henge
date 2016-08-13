@@ -1,0 +1,34 @@
+---
+pattern: _long
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 24
+score: 1473518
+score_per_word: 86677
+hi_scored_words:
+  along: 442
+  belong: 3518
+  furlong: 37898
+  headlong: 33928
+  lifelong: 11674
+  long: 142
+  oblong: 25969
+  prolong: 23163
+  yearlong: 82325
+scored_words:
+  daylong: 133013
+  erelong: 234564
+  klong: 105131
+  livelong: 220166
+  monthlong: 216063
+  overlong: 107834
+  sidelong: 134198
+  singalong: 103490
+not_scored_words:
+- Geelong
+- Long
+- Shillong
+- endlong
+- flong
+- kalong
+- nightlong

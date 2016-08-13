@@ -1,0 +1,39 @@
+---
+pattern: re_tor
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 29
+score: 1399709
+score_per_word: 73668
+hi_scored_words:
+  reactor: 13959
+  realtor: 18077
+  receptor: 5754
+  rector: 15566
+  refactor: 92146
+  reflector: 26729
+  refractor: 58662
+  refrigerator: 15521
+  regenerator: 76824
+  regulator: 17133
+  replicator: 42068
+  resistor: 20087
+  resonator: 38963
+  respirator: 35447
+  retractor: 85562
+scored_words:
+  redactor: 215060
+  rejuvenator: 240810
+  renovator: 148226
+  resuscitator: 233115
+not_scored_words:
+- Realtor
+- receiptor
+- reciprocator
+- recuperator
+- redistributor
+- remonstrator
+- remunerator
+- repudiator
+- retaliator
+- reverberator

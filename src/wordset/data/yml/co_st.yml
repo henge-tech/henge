@@ -1,0 +1,80 @@
+---
+pattern: co_st
+hi_scored_words_count: 22
+scored_words_count: 17
+total_words: 70
+score: 3780942
+score_per_word: 96947
+hi_scored_words:
+  coast: 1172
+  coexist: 39281
+  coldest: 31514
+  collectivist: 90709
+  colonist: 53682
+  colorist: 90364
+  columnist: 15093
+  commonest: 51803
+  communist: 8617
+  compost: 19642
+  conformist: 60213
+  conquest: 10015
+  conservationist: 58578
+  consist: 5694
+  constructivist: 50823
+  consumerist: 95201
+  contest: 2785
+  contortionist: 98156
+  contrast: 2667
+  coolest: 18571
+  cost: 422
+  costliest: 93847
+scored_words:
+  coarsest: 131403
+  cohost: 287154
+  collaborationist: 269301
+  colonialist: 106832
+  colorfast: 144508
+  combust: 100542
+  completest: 151186
+  completist: 263225
+  congest: 305969
+  congregationalist: 158314
+  constructionist: 111383
+  conversationalist: 105378
+  copyist: 102053
+  corporatist: 104447
+  cosmetologist: 115209
+  cosmologist: 243576
+  couldst: 181613
+not_scored_words:
+- Communist
+- Confucianist
+- Congregationalist
+- coalitionist
+- cobwebbiest
+- cockiest
+- colorcast
+- comeliest
+- comfiest
+- commercialist
+- compactest
+- conceptualist
+- concisest
+- contextualist
+- contrabandist
+- contrapuntist
+- conventionalist
+- coreligionist
+- corkiest
+- cornetist
+- corniest
+- corporativist
+- correctest
+- corruptest
+- cosmogonist
+- counterblast
+- courtliest
+- couthest
+- couthiest
+- coyest
+- coziest

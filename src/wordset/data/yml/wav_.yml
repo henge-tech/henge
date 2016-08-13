@@ -1,0 +1,43 @@
+---
+pattern: wav_
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 33
+score: 1717000
+score_per_word: 78045
+hi_scored_words:
+  wave: 2267
+  waved: 16292
+  waveform: 20019
+  waveforms: 39844
+  wavefront: 54663
+  waveguide: 38324
+  waveguides: 68343
+  wavelength: 15594
+  wavelengths: 22941
+  wavelet: 34261
+  wavelets: 60698
+  waver: 45121
+  wavered: 65734
+  wavering: 50391
+  wavers: 89867
+  waves: 3295
+  waving: 14784
+  wavy: 25177
+scored_words:
+  waveband: 242149
+  wavebands: 258547
+  wavelike: 263774
+  waviness: 284915
+not_scored_words:
+- Wave
+- Waverley
+- Waves
+- wavellite
+- wavemeter
+- waverer
+- waverers
+- waveringly
+- wavier
+- waviest
+- wavily

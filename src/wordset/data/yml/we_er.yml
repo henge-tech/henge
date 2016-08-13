@@ -1,0 +1,53 @@
+---
+pattern: we_er
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 43
+score: 1957132
+score_per_word: 85092
+hi_scored_words:
+  weaker: 10138
+  wealthier: 46198
+  wearer: 28876
+  weather: 758
+  weaver: 12740
+  weber: 15046
+  webmaster: 12833
+  weekender: 39839
+  weer: 55246
+  weirder: 64630
+  welder: 31020
+  welter: 60304
+  wester: 53491
+  westerner: 70126
+  wether: 41564
+  wetter: 39049
+scored_words:
+  weaner: 277464
+  weeder: 190441
+  weedkiller: 246830
+  weeper: 225078
+  weightier: 150185
+  weightlifter: 140385
+  welsher: 144891
+not_scored_words:
+- Weaver
+- Weber
+- Webster
+- Weimaraner
+- Weissmuller
+- Weller
+- Werner
+- Weser
+- Westerner
+- Westminster
+- weakener
+- weaponeer
+- wearier
+- webbier
+- wedder
+- weedier
+- weenier
+- weensier
+- weepier
+- weever

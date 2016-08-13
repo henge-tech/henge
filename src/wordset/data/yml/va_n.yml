@@ -1,0 +1,40 @@
+---
+pattern: va_n
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 30
+score: 1642163
+score_per_word: 86429
+hi_scored_words:
+  vacation: 3686
+  vaccination: 18716
+  vain: 7674
+  valedictorian: 65132
+  valerian: 44830
+  validation: 11902
+  valuation: 9844
+  van: 1753
+  vaporization: 73748
+  variation: 4843
+  vasoconstriction: 75357
+  vasodilation: 81741
+scored_words:
+  vacillation: 130866
+  valetudinarian: 197212
+  valorization: 216103
+  vanillin: 118904
+  variegation: 197052
+  vasodilatation: 143015
+  vaudevillian: 239785
+not_scored_words:
+- Valentin
+- Valerian
+- Van
+- Vanuatuan
+- Vatican
+- Vauban
+- Vaughan
+- Vaughn
+- valediction
+- vallation
+- vaticination

@@ -1,0 +1,36 @@
+---
+pattern: du_es
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 26
+score: 1275815
+score_per_word: 75047
+hi_scored_words:
+  duchesses: 77347
+  dudes: 17550
+  dues: 12373
+  dukes: 16143
+  dummies: 14276
+  dunes: 18227
+  dungarees: 75504
+  dupes: 70543
+  duplexes: 55881
+  duplicates: 27151
+  durables: 66132
+  duties: 2419
+scored_words:
+  dualities: 123970
+  duchies: 141067
+  duckies: 119378
+  dumpsites: 317654
+  dunces: 120200
+not_scored_words:
+- Dulles
+- Dumfries
+- dulcifies
+- dulses
+- duologues
+- duopolies
+- duperies
+- duplicities
+- duratives

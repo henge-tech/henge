@@ -1,0 +1,49 @@
+---
+pattern: sp_l
+hi_scored_words_count: 23
+scored_words_count: 8
+total_words: 39
+score: 2063378
+score_per_word: 66560
+hi_scored_words:
+  spacial: 92293
+  spaniel: 22009
+  spatial: 8662
+  spatiotemporal: 89450
+  special: 348
+  spectral: 11263
+  speedball: 68386
+  speedwell: 81897
+  spell: 4154
+  spherical: 16673
+  spiel: 30746
+  spill: 11508
+  spinal: 10430
+  spinel: 71947
+  spiral: 9321
+  spiritual: 2208
+  spiteful: 45914
+  spoil: 11856
+  spool: 26943
+  spoonbill: 87475
+  spoonful: 35709
+  spousal: 36199
+  sprawl: 31476
+scored_words:
+  spall: 104511
+  spandrel: 141142
+  speleological: 171632
+  spermicidal: 162032
+  spheroidal: 115243
+  spirituel: 150686
+  spital: 165624
+  spitball: 245641
+not_scored_words:
+- spadeful
+- spancel
+- spectroscopical
+- sphincteral
+- spleenful
+- sporophyll
+- springtail
+- spritsail

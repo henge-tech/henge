@@ -1,0 +1,35 @@
+---
+pattern: a_nd
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 25
+score: 764090
+score_per_word: 47755
+hi_scored_words:
+  abound: 15118
+  aboveground: 61736
+  aground: 46664
+  almond: 15490
+  amend: 9318
+  ampersand: 57691
+  and: 3
+  append: 26309
+  apprehend: 40978
+  armband: 38367
+  around: 240
+  ascend: 19486
+  astound: 70803
+  attend: 2354
+scored_words:
+  abscond: 139293
+  addend: 220240
+not_scored_words:
+- Aalesund
+- Amerind
+- Archfiend
+- Armand
+- Auckland
+- abscind
+- analysand
+- archfiend
+- augend

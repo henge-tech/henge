@@ -1,0 +1,27 @@
+---
+pattern: v_lity
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 890701
+score_per_word: 68515
+hi_scored_words:
+  variability: 13836
+  versatility: 20804
+  viability: 17682
+  virility: 43145
+  visibility: 16135
+  vitality: 14221
+  volatility: 14795
+  vulnerability: 10255
+scored_words:
+  venality: 165769
+  verifiability: 145604
+  verticality: 181403
+  virtuality: 123451
+  volubility: 123601
+not_scored_words:
+- venerability
+- veniality
+- verbality
+- veridicality

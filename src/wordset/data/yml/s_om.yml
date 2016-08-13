@@ -1,0 +1,39 @@
+---
+pattern: s_om
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 29
+score: 2095195
+score_per_word: 95236
+hi_scored_words:
+  schoolroom: 80443
+  seldom: 7369
+  serfdom: 68391
+  shalom: 26433
+  showroom: 17397
+  sitcom: 24138
+  slalom: 27592
+  som: 12012
+  staffroom: 79864
+  stardom: 36921
+  stateroom: 44897
+  stepmom: 94179
+  stockroom: 87667
+  storeroom: 62945
+  sunroom: 71890
+  symptom: 10183
+scored_words:
+  saleroom: 253943
+  sickroom: 176070
+  simoom: 115626
+  strongroom: 288822
+  subkingdom: 245464
+  supermom: 262949
+not_scored_words:
+- Sodom
+- Syncom
+- saintdom
+- salesroom
+- sheikdom
+- sheikhdom
+- squiredom

@@ -1,0 +1,29 @@
+---
+pattern: ranc_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 1062413
+score_per_word: 75886
+hi_scored_words:
+  rance: 62835
+  ranch: 6990
+  rancher: 36657
+  rancheria: 80904
+  ranchero: 82971
+  ranchers: 39801
+  ranches: 30890
+  ranching: 46049
+  rancho: 18922
+  rancid: 28268
+  rancor: 66048
+scored_words:
+  ranchman: 177925
+  rancidity: 259775
+  rancorous: 124378
+not_scored_words:
+- Rancagua
+- Ranchi
+- ranched
+- rancidness
+- rancorously

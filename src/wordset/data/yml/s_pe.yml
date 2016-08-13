@@ -1,0 +1,55 @@
+---
+pattern: s_pe
+hi_scored_words_count: 18
+scored_words_count: 12
+total_words: 45
+score: 2621475
+score_per_word: 87382
+hi_scored_words:
+  scape: 42627
+  scope: 3551
+  scrape: 20832
+  seascape: 51130
+  shape: 1760
+  shoppe: 30702
+  slope: 5473
+  snipe: 32476
+  soundscape: 72776
+  stanhope: 37930
+  steppe: 40340
+  stereotype: 28391
+  stethoscope: 37418
+  stipe: 54650
+  stripe: 13620
+  subtype: 27728
+  swipe: 29471
+  syncope: 52569
+scored_words:
+  sellotape: 122031
+  serape: 202850
+  shipshape: 100545
+  sideswipe: 146892
+  skyscape: 195936
+  spectroscope: 121903
+  standpipe: 118679
+  stenotype: 270511
+  stereoscope: 124899
+  stope: 243460
+  stovepipe: 114037
+  stroboscope: 276288
+not_scored_words:
+- SHAPE
+- Sergipe
+- Sharpe
+- Skype
+- schappe
+- seismoscope
+- skiascope
+- slype
+- sniperscope
+- snooperscope
+- somatotype
+- spectrohelioscope
+- spinthariscope
+- stupe
+- synchroscope

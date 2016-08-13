@@ -1,0 +1,85 @@
+---
+pattern: p_ds
+hi_scored_words_count: 18
+scored_words_count: 18
+total_words: 75
+score: 4322194
+score_per_word: 120060
+hi_scored_words:
+  pads: 11789
+  passwords: 8686
+  payloads: 50005
+  periods: 3024
+  phonecards: 60068
+  phospholipids: 49751
+  placards: 53009
+  plasmids: 37293
+  playgrounds: 31952
+  pleads: 27515
+  pods: 21413
+  ponds: 12578
+  postcards: 12322
+  pounds: 2207
+  pretends: 35995
+  proceeds: 5508
+  prods: 45637
+  pyramids: 18306
+scored_words:
+  paranoids: 205148
+  pends: 193584
+  penfriends: 226375
+  picoseconds: 253760
+  pilchards: 231519
+  pinewoods: 223305
+  pinheads: 238212
+  pinnipeds: 174194
+  plaids: 102110
+  plastids: 143444
+  plods: 222059
+  pollards: 316783
+  portends: 105626
+  potheads: 200963
+  potsherds: 259137
+  propounds: 277387
+  puds: 203624
+  purebreds: 257906
+not_scored_words:
+- Pernods
+- Polaroids
+- packthreads
+- paraboloids
+- parallelepipeds
+- parathyroids
+- parlormaids
+- peasecods
+- pegboards
+- pelecypods
+- pentads
+- petards
+- photofloods
+- pickerelweeds
+- picofarads
+- piebalds
+- pigweeds
+- pinfolds
+- pitheads
+- planeloads
+- planetoids
+- pleopods
+- pochards
+- pokeweeds
+- polyploids
+- pondweeds
+- pongids
+- poniards
+- poods
+- prebends
+- premeds
+- prerecords
+- priesthoods
+- prismatoids
+- prismoids
+- proofreads
+- pseuds
+- pumpkinseeds
+- pyralids

@@ -1,0 +1,33 @@
+---
+pattern: ad_nt
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 23
+score: 605773
+score_per_word: 37860
+hi_scored_words:
+  adamant: 28885
+  adherent: 40109
+  adjacent: 5170
+  adjoint: 48577
+  adjournment: 23798
+  adjustment: 5618
+  adjutant: 32556
+  adjuvant: 33555
+  adolescent: 13407
+  adornment: 48705
+  adsorbent: 96171
+  advancement: 10501
+  advent: 9267
+  advertisement: 4652
+  advisement: 49410
+scored_words:
+  admonishment: 155392
+not_scored_words:
+- Advent
+- additament
+- adjudgment
+- admeasurement
+- administrant
+- adulterant
+- advertent

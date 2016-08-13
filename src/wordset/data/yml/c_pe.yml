@@ -1,0 +1,33 @@
+---
+pattern: c_pe
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 23
+score: 1357865
+score_per_word: 104451
+hi_scored_words:
+  calliope: 52796
+  cantaloupe: 53132
+  cape: 3366
+  cityscape: 44706
+  cope: 7883
+  coupe: 12755
+  crape: 83140
+  crepe: 31830
+scored_words:
+  canape: 135268
+  chronoscope: 208181
+  cloudscape: 157875
+  collotype: 296967
+  cyanotype: 269966
+not_scored_words:
+- Calliope
+- Calpe
+- CinemaScope
+- Cinemascope
+- cerotype
+- chape
+- clepe
+- countertype
+- cryoscope
+- cystoscope

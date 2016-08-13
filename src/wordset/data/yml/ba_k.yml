@@ -1,0 +1,39 @@
+---
+pattern: ba_k
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 29
+score: 1105211
+score_per_word: 65012
+hi_scored_words:
+  back: 88
+  backpack: 13706
+  backtrack: 51227
+  bailiwick: 87600
+  balk: 44342
+  ballpark: 27499
+  bank: 688
+  bannock: 56997
+  bareback: 34400
+  bark: 7162
+  barrack: 42247
+  basilisk: 63085
+  bask: 41595
+  batik: 37655
+scored_words:
+  babytalk: 255678
+  backtalk: 122575
+  bawcock: 218667
+not_scored_words:
+- Baalbek
+- Bangkok
+- Barack
+- Bartok
+- Bartók
+- ballcock
+- bankbook
+- baresark
+- bashibazouk
+- basketwork
+- bassarisk
+- battik

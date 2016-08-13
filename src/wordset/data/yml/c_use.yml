@@ -1,0 +1,38 @@
+---
+pattern: c_use
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 28
+score: 1613840
+score_per_word: 84938
+hi_scored_words:
+  cathouse: 86429
+  cause: 565
+  cayuse: 82379
+  charmeuse: 71711
+  chartreuse: 51049
+  clause: 4340
+  clearinghouse: 20318
+  clubhouse: 18540
+  coffeehouse: 33977
+  confuse: 14727
+  courthouse: 21278
+  crouse: 66402
+  cruse: 68359
+scored_words:
+  carouse: 185739
+  chanteuse: 117778
+  chophouse: 195601
+  cookhouse: 196333
+  countinghouse: 184186
+  customhouse: 194129
+not_scored_words:
+- Cayuse
+- Charterhouse
+- Creuse
+- causeuse
+- ceruse
+- circumfuse
+- coiffeuse
+- contuse
+- cornemuse

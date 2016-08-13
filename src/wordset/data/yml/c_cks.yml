@@ -1,0 +1,45 @@
+---
+pattern: c_cks
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 35
+score: 1003043
+score_per_word: 59002
+hi_scored_words:
+  callbacks: 46760
+  candlesticks: 37501
+  checks: 3507
+  chicks: 10341
+  chopsticks: 39432
+  chucks: 44782
+  clicks: 10409
+  clocks: 8600
+  cocks: 8941
+  comebacks: 71888
+  cossacks: 41578
+  cracks: 9386
+  cutbacks: 42124
+scored_words:
+  chocks: 101053
+  clucks: 265344
+  counterattacks: 159442
+  crocks: 101955
+not_scored_words:
+- Canucks
+- candlewicks
+- canvasbacks
+- carjacks
+- carracks
+- cassocks
+- cellblocks
+- charlocks
+- clacks
+- coatracks
+- counterchecks
+- cowlicks
+- crackerjacks
+- cricks
+- crookbacks
+- crooknecks
+- crosschecks
+- crossjacks

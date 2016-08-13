@@ -1,0 +1,33 @@
+---
+pattern: cab_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 23
+score: 1215436
+score_per_word: 93495
+hi_scored_words:
+  caballeros: 85003
+  cabanas: 76398
+  cabarets: 90116
+  cabbages: 65876
+  cabinets: 11054
+  cabins: 13812
+  cables: 5282
+  cabs: 27580
+scored_words:
+  cabals: 231410
+  cabbies: 116742
+  cabinetmakers: 153360
+  cabochons: 119858
+  cabooses: 218945
+not_scored_words:
+- Cabernets
+- cabbageworms
+- cabbalas
+- cabdrivers
+- cabers
+- cablecasts
+- cablegrams
+- cabotages
+- cabriolets
+- cabstands

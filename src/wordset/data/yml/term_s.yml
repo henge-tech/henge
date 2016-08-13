@@ -1,0 +1,20 @@
+---
+pattern: term_s
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 293160
+score_per_word: 36645
+hi_scored_words:
+  terminals: 15497
+  terminates: 23167
+  terminations: 41830
+  terminators: 66162
+  terminologies: 93168
+  terminus: 18565
+  termites: 34516
+  terms: 255
+scored_words: {}
+not_scored_words:
+- termagants
+- termless

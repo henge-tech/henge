@@ -1,0 +1,50 @@
+---
+pattern: i_ibly
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 40
+score: 2468633
+score_per_word: 137146
+hi_scored_words:
+  imperceptibly: 72081
+  impossibly: 49593
+  incredibly: 8123
+  indelibly: 93074
+  invisibly: 65577
+  irresistibly: 67340
+  irresponsibly: 95991
+  irreversibly: 78056
+scored_words:
+  implausibly: 198641
+  inaudibly: 227801
+  incomprehensibly: 218087
+  incontrovertibly: 284568
+  inexpressibly: 184280
+  infallibly: 105254
+  inflexibly: 262557
+  insensibly: 134831
+  intelligibly: 165038
+  irreducibly: 157741
+not_scored_words:
+- illegibly
+- impassibly
+- inaccessibly
+- inadmissibly
+- incombustibly
+- incompatibly
+- incorrigibly
+- incorruptibly
+- indefeasibly
+- indefensibly
+- indestructibly
+- indigestibly
+- indiscernibly
+- indivisibly
+- inedibly
+- ineligibly
+- inexhaustibly
+- infrangibly
+- intangibly
+- invincibly
+- irascibly
+- irrepressibly

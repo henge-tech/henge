@@ -1,0 +1,58 @@
+---
+pattern: wha_
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 48
+score: 2587679
+score_per_word: 95839
+hi_scored_words:
+  whack: 24309
+  whacked: 41118
+  whacking: 63263
+  whale: 7055
+  whaler: 44259
+  whalers: 54658
+  whales: 12098
+  whaling: 25058
+  wham: 29105
+  whammy: 55098
+  wharf: 12967
+  wharves: 54800
+  what: 46
+  whatever: 1167
+  whatnot: 32501
+  whats: 5793
+  whatsoever: 5995
+scored_words:
+  whacker: 137265
+  whacks: 110919
+  whaleback: 298302
+  whaleboat: 245833
+  whalebone: 139591
+  whap: 179632
+  whapping: 315217
+  wharfage: 226040
+  whatchamacallit: 244063
+  whatsit: 221527
+not_scored_words:
+- Wharton
+- whackers
+- whackings
+- whaleboats
+- whaled
+- whammed
+- whammies
+- whamming
+- whams
+- whangee
+- whapped
+- whaps
+- wharfages
+- wharfinger
+- wharve
+- whatchamacallits
+- whate'er
+- whatshername
+- whatshisname
+- whatsits
+- whatsoe'er

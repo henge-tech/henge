@@ -1,0 +1,33 @@
+---
+pattern: scr_e
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 23
+score: 869419
+score_per_word: 57961
+hi_scored_words:
+  scrabble: 20284
+  scramble: 18591
+  scrape: 20832
+  scrapie: 82378
+  scree: 64580
+  scribble: 39205
+  scribe: 21361
+  scrimmage: 37876
+  scripture: 7008
+  scrooge: 31834
+  scruple: 69822
+  scrutinize: 45570
+scored_words:
+  scrapple: 140312
+  scrounge: 113791
+  scrunchie: 155975
+not_scored_words:
+- Scrabble
+- Scribe
+- Scripture
+- Scrooge
+- scrobiculate
+- scrouge
+- scrummage
+- scrutable

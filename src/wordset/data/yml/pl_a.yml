@@ -1,0 +1,28 @@
+---
+pattern: pl_a
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 18
+score: 709587
+score_per_word: 70958
+hi_scored_words:
+  placenta: 29820
+  plasma: 7360
+  playa: 15750
+  plaza: 7623
+  plea: 8727
+  plena: 98948
+  plethora: 30520
+  pleura: 63845
+scored_words:
+  platina: 128869
+  pleuropneumonia: 318125
+not_scored_words:
+- Plata
+- Plataea
+- planula
+- platysma
+- plectra
+- pleurodynia
+- plica
+- plugola

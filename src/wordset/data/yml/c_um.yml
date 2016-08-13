@@ -1,0 +1,80 @@
+---
+pattern: c_um
+hi_scored_words_count: 29
+scored_words_count: 19
+total_words: 70
+score: 4808955
+score_per_word: 100186
+hi_scored_words:
+  cadmium: 23586
+  calcium: 9074
+  capsicum: 54674
+  centrum: 33619
+  centum: 69920
+  cerebellum: 34308
+  cerebrum: 74161
+  cerium: 70719
+  cesium: 56085
+  checksum: 29729
+  chromium: 19369
+  chrysanthemum: 43386
+  chum: 25016
+  clostridium: 45513
+  coliseum: 25469
+  collegium: 62917
+  colloquium: 30344
+  colostrum: 56000
+  compendium: 23825
+  condominium: 22485
+  consortium: 11619
+  continuum: 14529
+  conundrum: 37069
+  corium: 71771
+  corundum: 93520
+  cranium: 36164
+  crematorium: 46055
+  cum: 3604
+  curriculum: 7857
+scored_words:
+  caladium: 262260
+  californium: 195618
+  cambium: 113948
+  candelabrum: 207516
+  capitulum: 238264
+  carborundum: 100561
+  cecum: 106838
+  cementum: 210045
+  ciborium: 105217
+  cilium: 201034
+  colchicum: 240757
+  columbarium: 135011
+  conium: 282242
+  corrigendum: 126380
+  crinum: 236197
+  cubiculum: 226438
+  cuprum: 340774
+  curium: 167282
+  cypripedium: 180186
+not_scored_words:
+- Caelum
+- Capernaum
+- Carborundum
+- Colosseum
+- Colum
+- caldarium
+- carpogonium
+- chetrum
+- cinerarium
+- cingulum
+- clavicytherium
+- clinandrium
+- coagulum
+- cockalorum
+- collyrium
+- columbium
+- conidium
+- contagium
+- credendum
+- crissum
+- ctenidium
+- cymatium

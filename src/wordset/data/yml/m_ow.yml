@@ -1,0 +1,25 @@
+---
+pattern: m_ow
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 751205
+score_per_word: 68291
+hi_scored_words:
+  mallow: 46062
+  marrow: 11783
+  marshmallow: 34179
+  meadow: 9140
+  mellow: 16668
+  meow: 24449
+  minnow: 43965
+  morrow: 9087
+  mow: 30121
+scored_words:
+  middlebrow: 219859
+  mudflow: 305892
+not_scored_words:
+- Morrow
+- Moscow
+- Murrow
+- misthrow

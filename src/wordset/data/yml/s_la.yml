@@ -1,0 +1,46 @@
+---
+pattern: s_la
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 36
+score: 1506540
+score_per_word: 100436
+hi_scored_words:
+  salmonella: 23242
+  sarsaparilla: 90877
+  scapula: 70763
+  scintilla: 69262
+  scrofula: 65037
+  sheila: 11353
+  shigella: 65193
+  sola: 33155
+  spatula: 35113
+  stela: 96181
+scored_words:
+  sapodilla: 154767
+  scilla: 165144
+  selaginella: 237128
+  sequela: 213659
+  specula: 175666
+not_scored_words:
+- Savonarola
+- Scala
+- Scylla
+- Shaula
+- Sheila
+- Shula
+- Simla
+- Stella
+- Sulla
+- sabadilla
+- scagliola
+- scopula
+- seguidilla
+- setula
+- situla
+- spicula
+- spirilla
+- spirula
+- strobila
+- subphyla
+- superphyla

@@ -1,0 +1,23 @@
+---
+pattern: _ouch
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 482765
+score_per_word: 48276
+hi_scored_words:
+  couch: 6320
+  crouch: 22721
+  grouch: 65366
+  ouch: 25626
+  pouch: 12127
+  retouch: 84774
+  slouch: 44952
+  touch: 1189
+  vouch: 31676
+scored_words:
+  debouch: 188014
+not_scored_words:
+- Scaramouch
+- avouch
+- scaramouch

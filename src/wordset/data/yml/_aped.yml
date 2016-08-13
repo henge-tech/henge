@@ -1,0 +1,33 @@
+---
+pattern: _aped
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 23
+score: 1024707
+score_per_word: 64044
+hi_scored_words:
+  caped: 87158
+  draped: 28625
+  escaped: 6864
+  gaped: 99504
+  heaped: 35623
+  landscaped: 28397
+  leaped: 28146
+  raped: 14917
+  reaped: 51400
+  reshaped: 66876
+  scraped: 28851
+  shaped: 4394
+  taped: 19435
+  videotaped: 46783
+scored_words:
+  aped: 265384
+  soaped: 212350
+not_scored_words:
+- japed
+- misshaped
+- overleaped
+- sellotaped
+- undraped
+- unshaped
+- vaped

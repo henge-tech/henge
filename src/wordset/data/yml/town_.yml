@@ -1,0 +1,30 @@
+---
+pattern: town_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 783234
+score_per_word: 60248
+hi_scored_words:
+  town: 439
+  townhouse: 22285
+  townhouses: 36066
+  towns: 2930
+  townsfolk: 76510
+  township: 5422
+  townships: 23317
+  townsmen: 72383
+  townspeople: 42390
+scored_words:
+  townie: 139945
+  townies: 132278
+  townscape: 126455
+  townsman: 102814
+not_scored_words:
+- Townes
+- Townsend
+- Townsville
+- townee
+- townees
+- townswoman
+- townswomen

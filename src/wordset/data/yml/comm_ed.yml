@@ -1,0 +1,31 @@
+---
+pattern: comm_ed
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 21
+score: 998298
+score_per_word: 66553
+hi_scored_words:
+  commanded: 8832
+  commandeered: 95319
+  commemorated: 48181
+  commenced: 7564
+  commended: 22565
+  commented: 6792
+  commercialized: 56275
+  commingled: 81974
+  commissioned: 8178
+  committed: 2082
+  communicated: 10137
+  commuted: 49818
+scored_words:
+  comminuted: 163748
+  commiserated: 244072
+  communed: 192761
+not_scored_words:
+- commentated
+- commixed
+- commoved
+- communalized
+- communized
+- commutated

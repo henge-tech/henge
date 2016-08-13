@@ -1,0 +1,25 @@
+---
+pattern: han_d
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 15
+score: 654240
+score_per_word: 50326
+hi_scored_words:
+  hand: 277
+  handcrafted: 25514
+  handcuffed: 47586
+  handed: 3893
+  handheld: 7669
+  handicapped: 14755
+  handled: 5534
+  handmaid: 58788
+  handpicked: 52823
+  handstand: 90739
+  hanged: 20440
+scored_words:
+  handhold: 180533
+  hankered: 145689
+not_scored_words:
+- Hansard
+- hangbird

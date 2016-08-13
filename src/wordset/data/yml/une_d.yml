@@ -1,0 +1,54 @@
+---
+pattern: une_d
+hi_scored_words_count: 16
+scored_words_count: 18
+total_words: 44
+score: 4442426
+score_per_word: 130659
+hi_scored_words:
+  unearned: 43475
+  unearthed: 34838
+  unedited: 38385
+  uneducated: 35824
+  unelected: 74882
+  unemployed: 11072
+  unencumbered: 52281
+  unequaled: 80233
+  unexamined: 82946
+  unexcused: 93925
+  unexpected: 4745
+  unexpired: 56715
+  unexplained: 21863
+  unexploded: 69048
+  unexplored: 36903
+  unexposed: 92359
+scored_words:
+  unemancipated: 278417
+  unembarrassed: 125249
+  unenclosed: 211511
+  unenforced: 284224
+  unenlightened: 113746
+  unenriched: 324662
+  unequipped: 181728
+  unescorted: 149507
+  unevaluated: 296884
+  unexampled: 182888
+  unexcelled: 239955
+  unexercised: 179258
+  unexpanded: 198219
+  unexpended: 106087
+  unexperienced: 178764
+  unexploited: 152208
+  unexpressed: 131378
+  unexpurgated: 278247
+not_scored_words:
+- unembellished
+- unendangered
+- unendorsed
+- unengaged
+- unenrolled
+- unentangled
+- unentered
+- unestablished
+- unexaggerated
+- unexcited

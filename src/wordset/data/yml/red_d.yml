@@ -1,0 +1,49 @@
+---
+pattern: red_d
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 39
+score: 2719867
+score_per_word: 97138
+hi_scored_words:
+  redacted: 40518
+  redbird: 88242
+  redd: 37524
+  reddened: 74262
+  redecorated: 88581
+  redeemed: 20093
+  redefined: 29756
+  redeployed: 97317
+  redesigned: 19185
+  redeveloped: 64533
+  redhead: 15220
+  redheaded: 54864
+  redirected: 23061
+  rediscovered: 44867
+  redistributed: 23590
+  redoubled: 87241
+  reduced: 1854
+  redwood: 23770
+scored_words:
+  redbud: 105570
+  rededicated: 162656
+  redeposited: 244478
+  redetermined: 279596
+  redid: 100417
+  redisplayed: 237487
+  redlined: 328667
+  redound: 155705
+  redrafted: 162121
+  redressed: 108692
+not_scored_words:
+- Redford
+- Redmond
+- redelivered
+- redialed
+- rediscussed
+- redissolved
+- redistricted
+- redivided
+- redounded
+- reduplicated
+- redyed

@@ -1,0 +1,39 @@
+---
+pattern: o_sts
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 29
+score: 2230499
+score_per_word: 117394
+hi_scored_words:
+  oncologists: 67571
+  ophthalmologists: 66731
+  opportunists: 86527
+  optimists: 68437
+  optometrists: 54319
+  organists: 89646
+  ornithologists: 81793
+  orthodontists: 92725
+  osteoblasts: 90302
+  outbursts: 43777
+  outcasts: 50008
+  outposts: 43312
+scored_words:
+  obstructionists: 299759
+  occultists: 163779
+  orientalists: 230135
+  orthopedists: 214984
+  otolaryngologists: 195254
+  ousts: 146103
+  outlasts: 145337
+not_scored_words:
+- Orleanists
+- oasts
+- oboists
+- obscurantists
+- oculists
+- oenophilists
+- onanists
+- otorhinolaryngologists
+- outboasts
+- overcasts

@@ -1,0 +1,32 @@
+---
+pattern: by_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 22
+score: 764218
+score_per_word: 69474
+hi_scored_words:
+  byes: 68565
+  bygones: 67836
+  bylaws: 21888
+  bypass: 12748
+  bypasses: 52611
+  byproducts: 53687
+  bystanders: 43537
+  bytes: 9181
+  byways: 54811
+scored_words:
+  bylines: 161072
+  byres: 218282
+not_scored_words:
+- Byblos
+- Byelorussians
+- Byers
+- Byzantines
+- bypaths
+- byrnies
+- byroads
+- byssinosis
+- byssus
+- byssuses
+- bywords

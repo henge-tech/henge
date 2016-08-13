@@ -1,0 +1,42 @@
+---
+pattern: path_
+hi_scored_words_count: 23
+scored_words_count: 3
+total_words: 32
+score: 1365815
+score_per_word: 52531
+hi_scored_words:
+  path: 1221
+  pathetic: 9961
+  pathetically: 66960
+  pathfinder: 22135
+  pathfinders: 68411
+  pathname: 62799
+  pathogen: 24848
+  pathogenesis: 26756
+  pathogenic: 27665
+  pathogenicity: 57976
+  pathogens: 18185
+  pathol: 31131
+  pathologic: 35459
+  pathological: 20320
+  pathologically: 96962
+  pathologies: 64224
+  pathologist: 28751
+  pathologists: 37300
+  pathology: 13328
+  pathos: 33631
+  paths: 4976
+  pathway: 8726
+  pathways: 13944
+scored_words:
+  pathbreaking: 255258
+  pathic: 173990
+  pathless: 160898
+not_scored_words:
+- Pathan
+- Pathans
+- pathogeneses
+- pathogenous
+- pathognomy
+- pathoneurosis

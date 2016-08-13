@@ -1,0 +1,35 @@
+---
+pattern: _rve
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 25
+score: 846147
+score_per_word: 52884
+hi_scored_words:
+  carve: 20268
+  conserve: 17814
+  curve: 4480
+  deserve: 4450
+  nerve: 5207
+  observe: 4200
+  preserve: 4010
+  recurve: 80623
+  reserve: 2072
+  serve: 1321
+  starve: 24339
+  swerve: 38996
+  verve: 26879
+scored_words:
+  parve: 249593
+  subserve: 190482
+  unnerve: 171413
+not_scored_words:
+- CompuServe
+- bioreserve
+- disserve
+- incurve
+- innerve
+- outcurve
+- unreserve
+- varve
+- wharve

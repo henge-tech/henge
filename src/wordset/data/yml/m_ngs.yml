@@ -1,0 +1,41 @@
+---
+pattern: m_ngs
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 31
+score: 1545735
+score_per_word: 70260
+hi_scored_words:
+  mailings: 39627
+  makings: 60191
+  mappings: 31284
+  markings: 15460
+  meanings: 10110
+  meetings: 2343
+  misgivings: 38263
+  misspellings: 51675
+  misunderstandings: 31224
+  moldings: 52511
+  moorings: 41841
+  mornings: 13475
+  mountings: 58738
+  musings: 23375
+  mustangs: 33613
+  mutterings: 72922
+scored_words:
+  maneuverings: 252605
+  matings: 116500
+  meanderings: 104438
+  muggings: 137088
+  mumblings: 182549
+  murmurings: 175903
+not_scored_words:
+- mainsprings
+- middlings
+- millings
+- misdoings
+- misreadings
+- modelings
+- monophthongs
+- motorings
+- mungs

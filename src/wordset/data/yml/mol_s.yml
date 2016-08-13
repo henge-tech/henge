@@ -1,0 +1,43 @@
+---
+pattern: mol_s
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 33
+score: 2277762
+score_per_word: 126542
+hi_scored_words:
+  molars: 62591
+  molasses: 30500
+  moldings: 52511
+  molds: 25786
+  molecules: 9660
+  moles: 32366
+  molesters: 68007
+  molluscs: 53373
+  mollusks: 59615
+scored_words:
+  molas: 185272
+  molders: 118277
+  molehills: 254891
+  molestations: 262453
+  molests: 274910
+  mollies: 161187
+  molls: 271473
+  mols: 116995
+  molts: 237895
+not_scored_words:
+- Molechs
+- Molochs
+- Moluccas
+- molarities
+- moldboards
+- moldiness
+- moleskins
+- mollifies
+- molluscans
+- molluskans
+- mollycoddles
+- molters
+- molybdenites
+- molybdenous
+- molybdous

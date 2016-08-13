@@ -1,0 +1,28 @@
+---
+pattern: disp_es
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 18
+score: 1021033
+score_per_word: 85086
+hi_scored_words:
+  disparities: 21975
+  dispatches: 24833
+  dispensaries: 90232
+  dispenses: 65828
+  disperses: 99526
+  displaces: 76904
+  disposables: 57743
+  disposes: 49476
+  disputes: 7629
+scored_words:
+  disparages: 198009
+  displeases: 206428
+  disproves: 122450
+not_scored_words:
+- disparatenesses
+- dispassionatenesses
+- dispiritednesses
+- displumes
+- dispossesses
+- dispraises

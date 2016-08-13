@@ -1,0 +1,50 @@
+---
+pattern: di_ment
+hi_scored_words_count: 15
+scored_words_count: 14
+total_words: 40
+score: 3355383
+score_per_word: 115702
+hi_scored_words:
+  disablement: 79559
+  disagreement: 14397
+  disappointment: 8389
+  disarmament: 25117
+  disbursement: 42297
+  discernment: 33276
+  discouragement: 56739
+  disenchantment: 67239
+  disenfranchisement: 88491
+  disengagement: 42309
+  disfigurement: 67358
+  disillusionment: 52899
+  dismemberment: 55103
+  displacement: 13446
+  divestment: 65984
+scored_words:
+  diminishment: 188789
+  disarrangement: 243527
+  disbandment: 181484
+  disbarment: 135747
+  discontentment: 249076
+  disembowelment: 256266
+  disentanglement: 311844
+  disestablishment: 160245
+  disfranchisement: 245979
+  disgorgement: 182679
+  disinvestment: 100987
+  dismantlement: 133604
+  disparagement: 111559
+  divertissement: 140994
+not_scored_words:
+- disconcertment
+- disembodiment
+- disgruntlement
+- disheartenment
+- dishevelment
+- disinterment
+- dislodgement
+- dislodgment
+- dissepiment
+- distrainment
+- divorcement

@@ -1,0 +1,75 @@
+---
+pattern: pat_s
+hi_scored_words_count: 22
+scored_words_count: 10
+total_words: 65
+score: 2902414
+score_per_word: 90700
+hi_scored_words:
+  patches: 5259
+  patents: 8093
+  paterfamilias: 82144
+  pates: 96676
+  pathfinders: 68411
+  pathogenesis: 26756
+  pathogens: 18185
+  pathologies: 64224
+  pathologists: 37300
+  pathos: 33631
+  paths: 4976
+  pathways: 13944
+  patients: 1756
+  patios: 46269
+  patois: 81590
+  patriarchs: 51244
+  patriots: 10503
+  patrols: 24608
+  patrons: 12946
+  pats: 27773
+  patterns: 3318
+  patties: 45097
+scored_words:
+  patchiness: 235716
+  patchworks: 318956
+  patentees: 190605
+  pathless: 160898
+  patinas: 291454
+  patisseries: 291576
+  patricians: 120084
+  patroness: 109543
+  patsies: 290622
+  patters: 128257
+not_scored_words:
+- Paternosters
+- Pathans
+- Patmos
+- Patras
+- Patroclus
+- patacas
+- patchoulis
+- patellas
+- paterfamiliases
+- paternalists
+- paternosters
+- pathogeneses
+- pathogenous
+- pathoneurosis
+- patinous
+- patness
+- patnesses
+- patresfamilias
+- patriarchates
+- patriarchies
+- patricides
+- patrilineages
+- patrimonies
+- patronages
+- patronesses
+- patronizers
+- patronizes
+- patronymics
+- patroons
+- pattens
+- patternless
+- patulous
+- patulousness

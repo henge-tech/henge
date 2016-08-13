@@ -1,0 +1,50 @@
+---
+pattern: capi_
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 40
+score: 2434848
+score_per_word: 90179
+hi_scored_words:
+  capillaries: 47333
+  capillary: 24647
+  capita: 9169
+  capital: 899
+  capitalism: 15260
+  capitalist: 12266
+  capitalistic: 64988
+  capitalists: 22886
+  capitalization: 22723
+  capitalize: 22402
+  capitalized: 19704
+  capitalizing: 40406
+  capitals: 14724
+  capitation: 59849
+  capitol: 8826
+  capitulate: 83803
+  capitulated: 96539
+  capitulation: 49019
+scored_words:
+  capias: 198988
+  capillarity: 265284
+  capitalizes: 100033
+  capitally: 128107
+  capitate: 249277
+  capitols: 132820
+  capitulates: 258848
+  capitulating: 247784
+  capitulum: 238264
+not_scored_words:
+- Capistrano
+- Capitol
+- Capitoline
+- Capitols
+- capillaceous
+- capitalistically
+- capitations
+- capitula
+- capitular
+- capitulary
+- capitulations
+- capitulator
+- capitulatory

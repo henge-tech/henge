@@ -1,0 +1,29 @@
+---
+pattern: def_y
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 1303353
+score_per_word: 93096
+hi_scored_words:
+  defamatory: 36238
+  defensively: 40337
+  defiantly: 40205
+  deficiency: 8479
+  definitely: 3468
+  definitively: 35329
+  deflationary: 90446
+  deformity: 32110
+  defray: 40774
+  deftly: 45955
+  defy: 19015
+scored_words:
+  defectively: 308034
+  defensibility: 335264
+  deferentially: 267699
+not_scored_words:
+- defecatory
+- defenselessly
+- defensibly
+- deficiently
+- definably

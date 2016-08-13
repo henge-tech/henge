@@ -1,0 +1,28 @@
+---
+pattern: batt_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 700041
+score_per_word: 63640
+hi_scored_words:
+  battalions: 30560
+  batteries: 4054
+  batters: 33600
+  battlefields: 42637
+  battlegrounds: 62298
+  battlements: 72451
+  battles: 6153
+  battleships: 43761
+scored_words:
+  battens: 105231
+  batterers: 139341
+  battlers: 159955
+not_scored_words:
+- batterings
+- battleaxes
+- battledores
+- battledress
+- battlefronts
+- battlewagons
+- battues

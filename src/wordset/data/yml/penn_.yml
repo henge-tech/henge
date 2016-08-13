@@ -1,0 +1,45 @@
+---
+pattern: penn_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 35
+score: 1914776
+score_per_word: 112633
+hi_scored_words:
+  penna: 49241
+  pennant: 27999
+  pennants: 51212
+  penne: 44013
+  penned: 28563
+  pennies: 20060
+  penniless: 45846
+  penning: 59613
+  penny: 5140
+  pennyroyal: 92435
+scored_words:
+  penname: 259262
+  penni: 246418
+  pennis: 172658
+  pennon: 192121
+  pennons: 169563
+  pennyweight: 280641
+  pennyworth: 169991
+not_scored_words:
+- Penn
+- Penna
+- Penney
+- Pennines
+- Pennington
+- Pennsylvania
+- Pennsylvanian
+- Pennsylvanians
+- Penny
+- Pennzoil
+- pennate
+- penninite
+- pennoncel
+- pennoncels
+- pennoned
+- pennyroyals
+- pennyweights
+- pennyworths

@@ -1,0 +1,20 @@
+---
+pattern: t_out
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 10
+score: 734137
+score_per_word: 73413
+hi_scored_words:
+  takeout: 49159
+  throughout: 1054
+  timeout: 14333
+  tout: 12671
+  trout: 7914
+  tryout: 41145
+  turnabout: 92786
+  turnout: 16376
+scored_words:
+  thereabout: 172412
+  throwout: 326287
+not_scored_words: []

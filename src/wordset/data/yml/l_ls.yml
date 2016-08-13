@@ -1,0 +1,33 @@
+---
+pattern: l_ls
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 23
+score: 810300
+score_per_word: 57878
+hi_scored_words:
+  labels: 8549
+  landfills: 36222
+  lapels: 95557
+  laterals: 86770
+  laurels: 33647
+  legals: 88215
+  lentils: 37992
+  levels: 2418
+  liberals: 11517
+  literals: 48375
+  locals: 9351
+scored_words:
+  libels: 126519
+  lintels: 113332
+  lulls: 111836
+not_scored_words:
+- Lysols
+- labials
+- landfalls
+- lapfuls
+- linalools
+- littorals
+- lolls
+- lugsails
+- lungfuls

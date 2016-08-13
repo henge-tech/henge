@@ -1,0 +1,43 @@
+---
+pattern: r_el
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 33
+score: 1626292
+score_per_word: 90349
+hi_scored_words:
+  rappel: 73613
+  ravel: 34307
+  rebel: 5644
+  reel: 8991
+  refuel: 64999
+  rel: 19931
+  remodel: 36405
+  repel: 27985
+  revel: 26782
+  riel: 42980
+  roundel: 82758
+  rubel: 83716
+scored_words:
+  ratel: 280686
+  rechannel: 155824
+  relabel: 204840
+  rondel: 193741
+  rowel: 164177
+  runnel: 118913
+not_scored_words:
+- Rachael
+- Rachel
+- Rafael
+- Raphael
+- Rapunzel
+- Raquel
+- Ravel
+- Riel
+- Rigel
+- Rommel
+- Ruisdael
+- Russel
+- Ruysdael
+- radicel
+- roundheel

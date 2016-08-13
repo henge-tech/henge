@@ -1,0 +1,66 @@
+---
+pattern: pa_ly
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 56
+score: 1890861
+score_per_word: 82211
+hi_scored_words:
+  painfully: 15592
+  painlessly: 74709
+  painstakingly: 51643
+  painterly: 91896
+  pally: 71970
+  panoply: 68546
+  paradoxically: 40732
+  partially: 5384
+  particularly: 1144
+  partly: 2870
+  passionately: 19947
+  passively: 32878
+  patently: 46168
+  pathetically: 66960
+  pathologically: 96962
+  patiently: 16355
+scored_words:
+  palpably: 108233
+  paly: 111090
+  parametrically: 201362
+  parenthetically: 114241
+  passably: 171445
+  paternally: 230523
+  patriotically: 250211
+not_scored_words:
+- pacifically
+- palatably
+- palatially
+- palely
+- pallidly
+- palmately
+- panegyrically
+- pantheistically
+- pantingly
+- papally
+- parabolically
+- paralytically
+- paralyzingly
+- paranoiacally
+- paranoically
+- paranormally
+- parasitically
+- paratactically
+- pardonably
+- parlously
+- parochially
+- parsimoniously
+- parthenogenetically
+- participially
+- passingly
+- passionlessly
+- pastorally
+- patchily
+- paternalistically
+- patly
+- patronizingly
+- patronymically
+- patulously

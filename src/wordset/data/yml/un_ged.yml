@@ -1,0 +1,37 @@
+---
+pattern: un_ged
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 27
+score: 2449127
+score_per_word: 128901
+hi_scored_words:
+  unabridged: 30231
+  unacknowledged: 70420
+  unchallenged: 43258
+  unchanged: 10533
+  undamaged: 42016
+  underprivileged: 46137
+  unhinged: 59930
+  unplugged: 22857
+  untagged: 87800
+scored_words:
+  uncaged: 252383
+  uncataloged: 257535
+  uncharged: 109783
+  unclogged: 326691
+  underaged: 120019
+  undischarged: 235101
+  unfledged: 203308
+  unpaged: 200433
+  unprivileged: 118651
+  unwaged: 212041
+not_scored_words:
+- unassuaged
+- unavenged
+- unbridged
+- undercharged
+- undiscouraged
+- unengaged
+- unrevenged
+- untinged

@@ -1,0 +1,42 @@
+---
+pattern: leg_s
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 32
+score: 2318901
+score_per_word: 100821
+hi_scored_words:
+  legacies: 35672
+  legalities: 70252
+  legals: 88215
+  legations: 94313
+  legends: 6114
+  leggings: 30521
+  legionnaires: 72346
+  legions: 26074
+  legislators: 13121
+  legislatures: 23358
+  legless: 83369
+  legs: 1886
+  legumes: 41138
+  leguminous: 94848
+scored_words:
+  legalizes: 167387
+  legatees: 210423
+  legates: 125881
+  leges: 109677
+  legionaries: 134322
+  legislates: 228581
+  legitimates: 283610
+  legitimizes: 172559
+  legwarmers: 205234
+not_scored_words:
+- legalisms
+- legateships
+- legatos
+- legginess
+- leggins
+- leghorns
+- legibleness
+- legitimatizes
+- legrooms

@@ -1,0 +1,29 @@
+---
+pattern: _rats
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 19
+score: 1215532
+score_per_word: 81035
+hi_scored_words:
+  aristocrats: 29380
+  brats: 38277
+  bureaucrats: 25829
+  carats: 43927
+  congrats: 11617
+  democrats: 5149
+  karats: 78735
+  rats: 5829
+  rugrats: 45510
+  technocrats: 91749
+scored_words:
+  autocrats: 190238
+  frats: 183889
+  muskrats: 156913
+  plutocrats: 181677
+  prats: 126813
+not_scored_words:
+- Democrats
+- firebrats
+- meritocrats
+- sprats

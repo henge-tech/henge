@@ -1,0 +1,39 @@
+---
+pattern: s_els
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 29
+score: 1815568
+score_per_word: 106798
+hi_scored_words:
+  scoundrels: 41993
+  sentinels: 47873
+  sequels: 30611
+  shekels: 48616
+  shovels: 39189
+  spaniels: 69369
+  squirrels: 22071
+  steels: 28440
+  supermodels: 42161
+  swivels: 66410
+scored_words:
+  satchels: 103160
+  scalpels: 128855
+  snorkels: 104132
+  sorrels: 228377
+  spandrels: 220469
+  spiels: 297569
+  spinels: 296273
+not_scored_words:
+- samiels
+- saurels
+- schlemiels
+- schnitzels
+- seels
+- semivowels
+- sewellels
+- shrivels
+- snivels
+- stammels
+- strudels
+- synfuels

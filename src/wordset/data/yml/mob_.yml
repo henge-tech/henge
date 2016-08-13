@@ -1,0 +1,35 @@
+---
+pattern: mob_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 25
+score: 1131746
+score_per_word: 66573
+hi_scored_words:
+  mob: 7226
+  mobbed: 85086
+  mobile: 3693
+  mobiles: 22260
+  mobility: 9836
+  mobilization: 20844
+  mobilize: 24986
+  mobilized: 36417
+  mobilizes: 99712
+  mobilizing: 36431
+  mobs: 26243
+  mobster: 57294
+  mobsters: 67286
+scored_words:
+  mobbing: 123932
+  mobilities: 128479
+  mobilizations: 148396
+  mobilizer: 233625
+not_scored_words:
+- Mobil
+- Mobile
+- Mobutu
+- mobcap
+- mobcaps
+- mobilizable
+- mobilizers
+- mobocracy

@@ -1,0 +1,51 @@
+---
+pattern: a_ator
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 41
+score: 1861352
+score_per_word: 77556
+hi_scored_words:
+  accelerator: 15369
+  accumulator: 36785
+  activator: 26848
+  actuator: 31434
+  adjudicator: 49503
+  administrator: 7253
+  agitator: 40233
+  alligator: 19707
+  allocator: 67974
+  alternator: 31146
+  animator: 25942
+  annihilator: 81709
+  applicator: 38875
+  arbitrator: 24090
+  attenuator: 67459
+  authenticator: 54369
+  aviator: 24813
+scored_words:
+  aerator: 102083
+  aggravator: 260072
+  annotator: 130334
+  annunciator: 169590
+  appreciator: 254474
+  articulator: 163857
+  aspirator: 137433
+not_scored_words:
+- abbreviator
+- abdicator
+- abnegator
+- abominator
+- abrogator
+- adulator
+- adulterator
+- advocator
+- alienator
+- alleviator
+- ambulator
+- ameliorator
+- amputator
+- anticipator
+- appropriator
+- asphyxiator
+- assimilator

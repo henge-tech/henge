@@ -1,0 +1,32 @@
+---
+pattern: re_hed
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 22
+score: 1344215
+score_per_word: 79071
+hi_scored_words:
+  reached: 1584
+  reestablished: 66672
+  refinished: 96677
+  refreshed: 21940
+  refurbished: 9972
+  relaunched: 67275
+  relinquished: 41581
+  relished: 67900
+  replenished: 54628
+  reproached: 88947
+  republished: 33896
+  researched: 13601
+scored_words:
+  reattached: 143392
+  refurnished: 248553
+  rehashed: 124491
+  retouched: 113647
+  retrenched: 149459
+not_scored_words:
+- rephotographed
+- restitched
+- retched
+- rewashed
+- reweighed

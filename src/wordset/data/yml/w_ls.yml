@@ -1,0 +1,42 @@
+---
+pattern: w_ls
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 32
+score: 1687901
+score_per_word: 88836
+hi_scored_words:
+  wails: 72481
+  walls: 2280
+  waterfalls: 22605
+  weasels: 58972
+  weevils: 79117
+  wells: 4550
+  wheels: 3189
+  whirlpools: 62958
+  whorls: 93820
+  wills: 10438
+  windmills: 35137
+  withdrawals: 20525
+  wools: 97985
+scored_words:
+  wagtails: 195745
+  waybills: 340398
+  whirls: 101337
+  whitetails: 162716
+  windfalls: 131807
+  windowsills: 191841
+not_scored_words:
+- Walls
+- Wells
+- warrigals
+- washbowls
+- wassails
+- wastrels
+- waterfowls
+- watermills
+- waterwheels
+- weals
+- wheals
+- whippoorwills
+- whitewalls

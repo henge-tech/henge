@@ -1,0 +1,29 @@
+---
+pattern: in_de
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 19
+score: 1275209
+score_per_word: 79700
+hi_scored_words:
+  include: 974
+  ineptitude: 69366
+  infanticide: 56197
+  ingleside: 76320
+  ingratitude: 59995
+  insecticide: 30495
+  inside: 857
+  intercede: 55400
+  interlude: 25412
+  internode: 92258
+  intrude: 37198
+  invade: 14447
+scored_words:
+  incertitude: 218057
+  incommode: 229187
+  infinitude: 165986
+  inquietude: 143060
+not_scored_words:
+- inaptitude
+- inexactitude
+- intergrade

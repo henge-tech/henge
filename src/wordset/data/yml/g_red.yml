@@ -1,0 +1,29 @@
+---
+pattern: g_red
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1223637
+score_per_word: 94125
+hi_scored_words:
+  garnered: 27740
+  gathered: 3646
+  geared: 13222
+  gendered: 42233
+  gestured: 69665
+  glared: 45113
+  glittered: 77353
+  grandfathered: 65898
+scored_words:
+  gerrymandered: 230481
+  gingered: 263820
+  glimmered: 146391
+  glowered: 137850
+  gored: 100225
+not_scored_words:
+- gibbered
+- glamored
+- glamoured
+- glistered
+- goodhumored
+- guttered

@@ -1,0 +1,34 @@
+---
+pattern: t_ries
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 24
+score: 648256
+score_per_word: 58932
+hi_scored_words:
+  tapestries: 28748
+  territories: 5357
+  theories: 4594
+  toiletries: 34591
+  trajectories: 28348
+  treasuries: 59494
+  tributaries: 22371
+  tries: 4957
+scored_words:
+  tanneries: 127947
+  temporaries: 151342
+  treacheries: 180507
+not_scored_words:
+- Tories
+- Treasuries
+- tarries
+- teaberries
+- telemetries
+- tercentenaries
+- ternaries
+- tertiaries
+- thermometries
+- tomfooleries
+- traceries
+- turneries
+- twinberries

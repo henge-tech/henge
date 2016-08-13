@@ -1,0 +1,46 @@
+---
+pattern: b_ous
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 36
+score: 1158039
+score_per_word: 89079
+hi_scored_words:
+  barbarous: 38735
+  beauteous: 79391
+  bilious: 72315
+  bituminous: 35558
+  blasphemous: 43219
+  bodacious: 92847
+  boisterous: 38867
+  bulbous: 54793
+  bumptious: 98222
+scored_words:
+  bayous: 126548
+  bibulous: 137291
+  bigamous: 230238
+  bounteous: 110015
+not_scored_words:
+- bacciferous
+- baccivorous
+- balsamiferous
+- balsaminaceous
+- berberidaceous
+- betulaceous
+- bicephalous
+- bifarious
+- bignoniaceous
+- bimanous
+- biparous
+- bipetalous
+- biramous
+- bismuthous
+- blusterous
+- bombacaceous
+- boraginaceous
+- brachypterous
+- bulbiferous
+- burglarious
+- burnous
+- burseraceous
+- butyraceous

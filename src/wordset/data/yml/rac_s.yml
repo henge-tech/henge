@@ -1,0 +1,33 @@
+---
+pattern: rac_s
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 23
+score: 1483163
+score_per_word: 92697
+hi_scored_words:
+  raccoons: 52795
+  racecourses: 82715
+  racehorses: 91569
+  racers: 27116
+  races: 3886
+  racetracks: 83399
+  racists: 41609
+  rackets: 46156
+  racks: 12924
+  racquets: 45110
+scored_words:
+  racemes: 158318
+  raceways: 102009
+  rachis: 161546
+  rachitis: 143438
+  racketeers: 149172
+  raconteurs: 281401
+not_scored_words:
+- racegoers
+- rachises
+- rachitides
+- racialists
+- raciness
+- racons
+- racquetballs

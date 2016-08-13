@@ -1,0 +1,23 @@
+---
+pattern: li_ted
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 376437
+score_per_word: 37643
+hi_scored_words:
+  liberated: 18079
+  lifted: 5930
+  ligated: 79350
+  lighted: 10890
+  lighthearted: 46881
+  limited: 892
+  liquidated: 34463
+  listed: 1609
+  litigated: 75404
+scored_words:
+  lionhearted: 102939
+not_scored_words:
+- librated
+- lilted
+- linted

@@ -1,0 +1,30 @@
+---
+pattern: bid_
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 20
+score: 1821359
+score_per_word: 107138
+hi_scored_words:
+  bid: 1545
+  bidden: 86107
+  bidder: 12076
+  bidders: 20329
+  bidding: 4245
+  biddy: 58431
+  bide: 45098
+  bidet: 44281
+  bidets: 87416
+  biding: 82488
+  bidirectional: 38422
+  bids: 4426
+scored_words:
+  biddable: 309952
+  biddies: 208763
+  bidentate: 262992
+  bides: 235618
+  bidirectionally: 319170
+not_scored_words:
+- Biddle
+- Biden
+- bidarka

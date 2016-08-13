@@ -1,0 +1,26 @@
+---
+pattern: f_ning
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 16
+score: 997847
+score_per_word: 71274
+hi_scored_words:
+  fanning: 30091
+  fashioning: 66644
+  fastening: 30539
+  fattening: 47777
+  fawning: 63034
+  feigning: 79521
+  fining: 82073
+  flattening: 48369
+  freshening: 84301
+  frightening: 15947
+  frowning: 50769
+  functioning: 13846
+scored_words:
+  foreshortening: 222084
+  forewarning: 162852
+not_scored_words:
+- festooning
+- foreordaining

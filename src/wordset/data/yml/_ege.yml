@@ -1,0 +1,25 @@
+---
+pattern: _ege
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 995366
+score_per_word: 82947
+hi_scored_words:
+  allege: 29601
+  besiege: 84809
+  college: 802
+  cortege: 97272
+  liege: 26359
+  privilege: 5226
+  protege: 31590
+  sacrilege: 53702
+  siege: 8411
+scored_words:
+  manege: 299023
+  precollege: 224944
+  renege: 133627
+not_scored_words:
+- Etherege
+- Liege
+- sortilege

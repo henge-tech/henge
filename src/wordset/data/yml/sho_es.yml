@@ -1,0 +1,27 @@
+---
+pattern: sho_es
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 700332
+score_per_word: 70033
+hi_scored_words:
+  shoelaces: 72191
+  shoes: 1334
+  shoppes: 93277
+  shorelines: 57717
+  shores: 7112
+  shortages: 25569
+  shoves: 71462
+  showcases: 22268
+scored_words:
+  shorties: 104615
+  showpieces: 244787
+not_scored_words:
+- Shoshones
+- shoeshines
+- shoetrees
+- shortcakes
+- shortchanges
+- shortwaves
+- showplaces

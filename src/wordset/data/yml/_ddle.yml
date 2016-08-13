@@ -1,0 +1,56 @@
+---
+pattern: _ddle
+hi_scored_words_count: 17
+scored_words_count: 16
+total_words: 46
+score: 3526134
+score_per_word: 106852
+hi_scored_words:
+  cuddle: 32545
+  diddle: 54694
+  fiddle: 13670
+  griddle: 45958
+  huddle: 36583
+  meddle: 42009
+  middle: 697
+  muddle: 43477
+  paddle: 12527
+  peddle: 52692
+  puddle: 24145
+  riddle: 14539
+  saddle: 6680
+  straddle: 50058
+  twaddle: 82199
+  twiddle: 85516
+  waddle: 53870
+scored_words:
+  addle: 211967
+  astraddle: 221603
+  befuddle: 176103
+  buddle: 206050
+  coddle: 110044
+  doddle: 172146
+  fuddle: 263246
+  heddle: 171966
+  intermeddle: 201741
+  piddle: 119487
+  raddle: 162922
+  ruddle: 194626
+  sidesaddle: 241053
+  skedaddle: 148719
+  swaddle: 166378
+  toddle: 106224
+not_scored_words:
+- Biddle
+- Riddle
+- bestraddle
+- guddle
+- mollycoddle
+- noddle
+- packsaddle
+- paradiddle
+- spraddle
+- taradiddle
+- tarradiddle
+- unriddle
+- unsaddle

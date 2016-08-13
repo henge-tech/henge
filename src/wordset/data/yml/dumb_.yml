@@ -1,0 +1,30 @@
+---
+pattern: dumb_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 20
+score: 1544238
+score_per_word: 110302
+hi_scored_words:
+  dumb: 5188
+  dumbbell: 41738
+  dumbbells: 48249
+  dumber: 38939
+  dumbest: 35388
+  dumbfounded: 52435
+  dumbo: 44020
+  dumbwaiter: 78435
+scored_words:
+  dumbfound: 235632
+  dumbfounding: 214410
+  dumbly: 156154
+  dumbness: 154161
+  dumbstruck: 145675
+  dumbwaiters: 293814
+not_scored_words:
+- Dumbarton
+- Dumbledore
+- Dumbo
+- dumbfounds
+- dumbhead
+- dumbos

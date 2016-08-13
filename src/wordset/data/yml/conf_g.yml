@@ -1,0 +1,29 @@
+---
+pattern: conf_g
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 19
+score: 599480
+score_per_word: 42820
+hi_scored_words:
+  conferencing: 13623
+  conferring: 34407
+  confessing: 44131
+  confiding: 92366
+  configuring: 18398
+  confining: 42961
+  confirming: 15380
+  confiscating: 98350
+  conflicting: 12113
+  conforming: 22489
+  confounding: 36614
+  confronting: 17197
+  confusing: 9934
+scored_words:
+  conflating: 141517
+not_scored_words:
+- confabbing
+- confabulating
+- confecting
+- confederating
+- confuting

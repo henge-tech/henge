@@ -1,0 +1,46 @@
+---
+pattern: l_re
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 36
+score: 852566
+score_per_word: 53285
+hi_scored_words:
+  lecture: 3674
+  legionnaire: 84759
+  legislature: 4858
+  leisure: 3272
+  ligature: 51674
+  lire: 21527
+  literature: 1295
+  lithosphere: 65838
+  livre: 30117
+  longshore: 67443
+  lore: 13053
+  lucre: 81806
+  lure: 12927
+  lyre: 36467
+scored_words:
+  lavaliere: 269680
+  ligure: 104176
+not_scored_words:
+- L'Ouverture
+- Lahore
+- Lancashire
+- Legendre
+- Leicestershire
+- Lemaitre
+- Lenore
+- Leonore
+- Linacre
+- Lincolnshire
+- Loire
+- Lorre
+- Louvre
+- Lumiere
+- Lumière
+- lamprophyre
+- liveware
+- locavore
+- lophophore
+- lusterware

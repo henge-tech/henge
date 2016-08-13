@@ -1,0 +1,31 @@
+---
+pattern: p_ta
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 21
+score: 1457250
+score_per_word: 104089
+hi_scored_words:
+  pasta: 11624
+  peseta: 67322
+  pinata: 55640
+  pinta: 92284
+  pita: 32232
+  pitta: 79635
+  placenta: 29820
+  polenta: 59714
+scored_words:
+  paramatta: 269021
+  pelota: 197891
+  perfecta: 102496
+  pieta: 106766
+  pineta: 248968
+  podesta: 103837
+not_scored_words:
+- PTA
+- Parramatta
+- Peshitta
+- Pieta
+- Pinta
+- Plata
+- piñata

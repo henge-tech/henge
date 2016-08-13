@@ -1,0 +1,42 @@
+---
+pattern: col_n
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 32
+score: 818488
+score_per_word: 45471
+hi_scored_words:
+  collaboration: 7522
+  collagen: 19843
+  collation: 39374
+  collection: 803
+  colleen: 20071
+  collegian: 76102
+  collimation: 79011
+  collision: 8574
+  collocation: 53316
+  collodion: 87075
+  collusion: 30787
+  colon: 14289
+  colonization: 20711
+  colophon: 39518
+  coloration: 39766
+  column: 2194
+scored_words:
+  collectivization: 124981
+  colorization: 154551
+not_scored_words:
+- Coleen
+- Coleman
+- Coleridgian
+- Colin
+- Colleen
+- Collin
+- Colombian
+- Colon
+- Coloradan
+- Coloradoan
+- Colossian
+- Columbian
+- coleopteran
+- columniation

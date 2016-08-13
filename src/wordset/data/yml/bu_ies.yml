@@ -1,0 +1,30 @@
+---
+pattern: bu_ies
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 20
+score: 1133275
+score_per_word: 87175
+hi_scored_words:
+  buddies: 8566
+  budgies: 96170
+  buggies: 50199
+  bullies: 31656
+  bunnies: 25776
+  bureaucracies: 53547
+  burglaries: 51602
+  buries: 63212
+  bursaries: 48987
+  busybodies: 99431
+  butterflies: 11549
+scored_words:
+  burgundies: 301194
+  busies: 291386
+not_scored_words:
+- Burberries
+- Burgundies
+- buggeries
+- busbies
+- butcheries
+- butteries
+- butties

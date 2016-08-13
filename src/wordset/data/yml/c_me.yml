@@ -1,0 +1,34 @@
+---
+pattern: c_me
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 24
+score: 1064938
+score_per_word: 56049
+hi_scored_words:
+  came: 402
+  chime: 20281
+  chrome: 9156
+  chromosome: 12415
+  chyme: 78231
+  clime: 80521
+  codename: 37778
+  coenzyme: 38860
+  come: 188
+  consume: 9812
+  costume: 4357
+  creme: 24234
+  crime: 1380
+  cumbersome: 24595
+  cytochrome: 23038
+scored_words:
+  centime: 115685
+  centrosome: 134233
+  cleome: 259188
+  consomme: 190584
+not_scored_words:
+- Christmastime
+- chondriosome
+- cuddlesome
+- cyclostome
+- cyme

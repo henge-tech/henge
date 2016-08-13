@@ -1,0 +1,38 @@
+---
+pattern: r_king
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 28
+score: 1816132
+score_per_word: 90806
+hi_scored_words:
+  racking: 31346
+  raking: 45582
+  ranking: 10073
+  reeking: 95901
+  remaking: 53590
+  remarking: 59741
+  restocking: 39980
+  rethinking: 26277
+  revoking: 57662
+  reworking: 47881
+  risking: 26646
+  rocking: 10324
+  rollicking: 68087
+scored_words:
+  ransacking: 162304
+  rebuking: 126174
+  rechecking: 216175
+  relinking: 261122
+  repacking: 145269
+  retaking: 103384
+  rucking: 228614
+not_scored_words:
+- rainmaking
+- recooking
+- reembarking
+- ricking
+- roadblocking
+- rooking
+- roughnecking
+- rubbernecking

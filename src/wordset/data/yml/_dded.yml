@@ -1,0 +1,41 @@
+---
+pattern: _dded
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 31
+score: 2534046
+score_per_word: 110175
+hi_scored_words:
+  added: 457
+  bedded: 42286
+  embedded: 8058
+  gridded: 91355
+  lidded: 69930
+  modded: 42197
+  nodded: 9609
+  padded: 15960
+  prodded: 68872
+  shredded: 25673
+  skidded: 90519
+  studded: 23797
+  wedded: 31869
+scored_words:
+  budded: 149270
+  dded: 184463
+  interbedded: 144556
+  kidded: 200412
+  plodded: 140522
+  podded: 219437
+  scudded: 224835
+  sodded: 301892
+  thudded: 288887
+  wadded: 159190
+not_scored_words:
+- bobsledded
+- codded
+- disbudded
+- featherbedded
+- gadded
+- ramrodded
+- rewedded
+- sledded

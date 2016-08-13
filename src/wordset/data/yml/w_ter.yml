@@ -1,0 +1,39 @@
+---
+pattern: w_ter
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 29
+score: 1076945
+score_per_word: 59830
+hi_scored_words:
+  waiter: 13040
+  waster: 61962
+  wastewater: 11548
+  water: 190
+  webmaster: 12833
+  welter: 60304
+  wester: 53491
+  wetter: 39049
+  whiter: 43760
+  whitewater: 22809
+  winter: 1030
+  witter: 54906
+  wrester: 61632
+  writer: 1737
+scored_words:
+  wattmeter: 193285
+  weightlifter: 140385
+  whoremaster: 168446
+  woodcutter: 136538
+not_scored_words:
+- Walter
+- Webster
+- Westminster
+- Winchester
+- Wooster
+- Worcester
+- warranter
+- wavemeter
+- whetter
+- wildcatter
+- windcheater

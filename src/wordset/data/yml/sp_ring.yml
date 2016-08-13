@@ -1,0 +1,23 @@
+---
+pattern: sp_ring
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 883214
+score_per_word: 80292
+hi_scored_words:
+  sparing: 35864
+  sparring: 40334
+  spearing: 97742
+  splintering: 98055
+  sponsoring: 13419
+  spring: 890
+  spurring: 71563
+  sputtering: 44845
+scored_words:
+  spattering: 185691
+  splattering: 123874
+  spluttering: 170937
+not_scored_words:
+- spooring
+- sporing

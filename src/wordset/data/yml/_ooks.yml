@@ -1,0 +1,74 @@
+---
+pattern: _ooks
+hi_scored_words_count: 27
+scored_words_count: 12
+total_words: 64
+score: 3085846
+score_per_word: 79124
+hi_scored_words:
+  books: 266
+  brooks: 6516
+  cookbooks: 25562
+  cooks: 13195
+  crooks: 26154
+  fishhooks: 89784
+  guestbooks: 43684
+  guidebooks: 37523
+  handbooks: 25719
+  hooks: 10627
+  kooks: 57453
+  logbooks: 99371
+  looks: 945
+  nooks: 54363
+  notebooks: 17263
+  outlooks: 47460
+  overlooks: 30473
+  phrasebooks: 97723
+  rooks: 52167
+  scrapbooks: 47491
+  sketchbooks: 93779
+  songbooks: 73107
+  spooks: 50733
+  storybooks: 93170
+  textbooks: 13628
+  workbooks: 48848
+  yearbooks: 48126
+scored_words:
+  casebooks: 185549
+  chapbooks: 104129
+  checkbooks: 102883
+  chinooks: 198212
+  coursebooks: 245710
+  gooks: 137227
+  matchbooks: 149038
+  playbooks: 149314
+  pocketbooks: 105569
+  schoolbooks: 112996
+  snooks: 152169
+  tenterhooks: 237920
+not_scored_words:
+- Brooks
+- Chinooks
+- bankbooks
+- billhooks
+- buttonhooks
+- cashbooks
+- copybooks
+- datebooks
+- daybooks
+- donnybrooks
+- hymnbooks
+- inglenooks
+- nainsooks
+- netbooks
+- overbooks
+- overcooks
+- passbooks
+- pothooks
+- precooks
+- promptbooks
+- recooks
+- schnooks
+- studbooks
+- unhooks
+- wordbooks

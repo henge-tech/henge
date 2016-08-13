@@ -1,0 +1,53 @@
+---
+pattern: a_res
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 43
+score: 1570789
+score_per_word: 71399
+hi_scored_words:
+  acquires: 16273
+  acres: 3743
+  adheres: 37078
+  admires: 48881
+  admixtures: 69016
+  adores: 47740
+  adventures: 3786
+  affaires: 33450
+  airfares: 52705
+  amperes: 64336
+  apertures: 47957
+  architectures: 14306
+  ares: 22482
+  aspires: 51701
+  assures: 20074
+  atmospheres: 35736
+scored_words:
+  abjures: 212514
+  allures: 211037
+  anywheres: 122681
+  armatures: 145462
+  armoires: 143767
+  ascospores: 166064
+not_scored_words:
+- Aires
+- Andres
+- Antares
+- Ares
+- Ayrshires
+- Azores
+- abamperes
+- accoutres
+- adjures
+- admeasures
+- aeciospores
+- agatewares
+- albacores
+- apicultures
+- arboricultures
+- archespores
+- arthromeres
+- arthrospores
+- asthenospheres
+- attires
+- azures

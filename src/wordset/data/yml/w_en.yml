@@ -1,0 +1,63 @@
+---
+pattern: w_en
+hi_scored_words_count: 23
+scored_words_count: 8
+total_words: 53
+score: 1864420
+score_per_word: 60142
+hi_scored_words:
+  waken: 78539
+  warden: 16018
+  warren: 6970
+  watchmen: 49550
+  weaken: 17408
+  ween: 44075
+  wen: 16569
+  wheaten: 71785
+  when: 52
+  whiten: 70975
+  widen: 20822
+  widescreen: 14872
+  windscreen: 31187
+  wintergreen: 57828
+  woken: 34185
+  women: 201
+  wooden: 3166
+  woolen: 35387
+  workmen: 22903
+  worsen: 32468
+  woven: 16387
+  wren: 21226
+  written: 463
+scored_words:
+  warehousemen: 172772
+  watermen: 147405
+  waxen: 150345
+  weathermen: 135122
+  wheen: 205647
+  woodmen: 116548
+  woodsmen: 144586
+  workingmen: 128959
+not_scored_words:
+- Walden
+- Walgreen
+- Wanhsien
+- Warren
+- Welshmen
+- Westfalen
+- Weyden
+- Wezen
+- Wien
+- Wiesbaden
+- Woden
+- Wooten
+- Wren
+- Wuhsien
+- washermen
+- washerwomen
+- washwomen
+- wizen
+- woadwaxen
+- woodwaxen
+- workingwomen
+- writhen

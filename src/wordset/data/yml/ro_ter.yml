@@ -1,0 +1,22 @@
+---
+pattern: ro_ter
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 562195
+score_per_word: 56219
+hi_scored_words:
+  roadster: 31930
+  roaster: 50543
+  rollercoaster: 29798
+  rooster: 19118
+  rooter: 60358
+  rosewater: 85324
+  roster: 9563
+  router: 10625
+scored_words:
+  roister: 159700
+  rotter: 105236
+not_scored_words:
+- Rochester
+- robuster

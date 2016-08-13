@@ -1,0 +1,78 @@
+---
+pattern: _fier
+hi_scored_words_count: 18
+scored_words_count: 11
+total_words: 68
+score: 3127789
+score_per_word: 107854
+hi_scored_words:
+  amplifier: 12397
+  classifier: 34014
+  dehumidifier: 70031
+  humidifier: 43849
+  identifier: 9904
+  intensifier: 85532
+  magnifier: 47389
+  modifier: 27056
+  notifier: 80170
+  pacifier: 42404
+  preamplifier: 75190
+  purifier: 38414
+  qualifier: 17383
+  quantifier: 56141
+  rectifier: 33706
+  signifier: 94447
+  specifier: 58338
+  verifier: 54723
+scored_words:
+  beautifier: 182102
+  beefier: 176811
+  certifier: 160904
+  edifier: 296577
+  emulsifier: 102353
+  fluffier: 230452
+  justifier: 235272
+  montgolfier: 239989
+  nullifier: 286636
+  simplifier: 219525
+  unifier: 116080
+not_scored_words:
+- Montgolfier
+- acidifier
+- chaffier
+- cliffier
+- codifier
+- comfier
+- daffier
+- decalcifier
+- defier
+- electrifier
+- exemplifier
+- falsifier
+- fortifier
+- gentrifier
+- glorifier
+- goofier
+- gratifier
+- huffier
+- iffier
+- indemnifier
+- leafier
+- liquefier
+- mollifier
+- personifier
+- puffier
+- ratifier
+- sanctifier
+- scruffier
+- sniffier
+- spiffier
+- squiffier
+- stuffier
+- stultifier
+- stupefier
+- testifier
+- typifier
+- versifier
+- vilifier
+- vivifier

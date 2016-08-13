@@ -1,0 +1,21 @@
+---
+pattern: dete_e
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 11
+score: 452085
+score_per_word: 45208
+hi_scored_words:
+  detectable: 24255
+  detective: 5975
+  detente: 99048
+  deteriorate: 33371
+  determinable: 82146
+  determinate: 43753
+  determinative: 73312
+  determine: 1765
+  deterrence: 29198
+  detestable: 59262
+scored_words: {}
+not_scored_words:
+- deterge

@@ -1,0 +1,51 @@
+---
+pattern: _nel
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 41
+score: 1512347
+score_per_word: 63014
+hi_scored_words:
+  channel: 1754
+  colonel: 5542
+  cornel: 72307
+  fennel: 34945
+  flannel: 17312
+  fresnel: 55577
+  funnel: 19994
+  kennel: 17043
+  kernel: 7712
+  multichannel: 39327
+  panel: 3978
+  personnel: 5198
+  pimpernel: 65425
+  sentinel: 11257
+  shrapnel: 35311
+  spinel: 71947
+  tunnel: 5676
+scored_words:
+  antipersonnel: 131517
+  charnel: 136635
+  fontanel: 105073
+  grapnel: 218106
+  gunnel: 175974
+  rechannel: 155824
+  runnel: 118913
+not_scored_words:
+- Brunel
+- Chanel
+- Colonel
+- Dynel
+- Fresnel
+- Leonel
+- Lionel
+- cracknel
+- crenel
+- darnel
+- empanel
+- impanel
+- mangonel
+- petronel
+- scrannel
+- trunnel
+- unkennel

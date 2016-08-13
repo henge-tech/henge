@@ -1,0 +1,35 @@
+---
+pattern: pl_ts
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 25
+score: 1271804
+score_per_word: 79487
+hi_scored_words:
+  placements: 16585
+  planets: 6896
+  plants: 1595
+  platelets: 27735
+  plats: 55363
+  plaudits: 74237
+  playlists: 19058
+  playwrights: 39269
+  pleats: 66138
+  plots: 8154
+  plummets: 87956
+scored_words:
+  plaints: 161948
+  plaits: 133955
+  playsuits: 150843
+  plights: 240395
+  plutocrats: 181677
+not_scored_words:
+- Platonists
+- plackets
+- plagiarists
+- planchets
+- playacts
+- playlets
+- plumcots
+- pluperfects
+- pluralists

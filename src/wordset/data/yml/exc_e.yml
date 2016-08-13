@@ -1,0 +1,42 @@
+---
+pattern: exc_e
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 32
+score: 1898637
+score_per_word: 90411
+hi_scored_words:
+  excavate: 69186
+  excellence: 4139
+  excessive: 5446
+  exchange: 1363
+  exchangeable: 51213
+  excise: 18159
+  excitable: 55605
+  excite: 9664
+  exclude: 6136
+  exclusive: 2925
+  excrescence: 77087
+  excrete: 78543
+  excusable: 70855
+  excuse: 3906
+scored_words:
+  exceptionable: 159884
+  excisable: 265741
+  exclave: 171705
+  exclosure: 275140
+  excommunicate: 146567
+  excoriate: 244891
+  exculpate: 180482
+not_scored_words:
+- Excellence
+- excaudate
+- exceptive
+- excide
+- excogitate
+- excommunicative
+- excretive
+- excruciate
+- excursive
+- excurvate
+- excurvature

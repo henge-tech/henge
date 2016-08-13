@@ -1,0 +1,36 @@
+---
+pattern: _j
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 26
+score: 660996
+score_per_word: 66099
+hi_scored_words:
+  adj: 18526
+  conj: 94245
+  haj: 58698
+  hajj: 32991
+  j: 1863
+  obj: 14979
+  raj: 19546
+  subj: 44414
+  swaraj: 97958
+scored_words:
+  interj: 277776
+not_scored_words:
+- Bitolj
+- Cluj
+- DJ
+- Dunaj
+- ICJ
+- J
+- JJ
+- Karaj
+- LBJ
+- Maj
+- NJ
+- OJ
+- Raj
+- SJ
+- Sutlej
+- VJ

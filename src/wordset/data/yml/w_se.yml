@@ -1,0 +1,33 @@
+---
+pattern: w_se
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 23
+score: 618211
+score_per_word: 47554
+hi_scored_words:
+  warehouse: 6662
+  watercourse: 54566
+  wheelbase: 37468
+  wheelhouse: 73133
+  whorehouse: 75387
+  whose: 861
+  wise: 2491
+  woodlouse: 76250
+  workhorse: 49828
+  workhouse: 42692
+  worse: 2050
+  wrasse: 71549
+scored_words:
+  warhorse: 125274
+not_scored_words:
+- Westinghouse
+- Whitehorse
+- Wilhelmstrasse
+- Wise
+- Wodehouse
+- washhouse
+- watchcase
+- wayzgoose
+- wheelhorse
+- widthwise

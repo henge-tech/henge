@@ -1,0 +1,59 @@
+---
+pattern: _ank
+hi_scored_words_count: 26
+scored_words_count: 9
+total_words: 49
+score: 2224298
+score_per_word: 63551
+hi_scored_words:
+  bank: 688
+  blank: 3480
+  clank: 48838
+  crank: 14059
+  dank: 32899
+  drank: 9684
+  flank: 16556
+  frank: 1600
+  hank: 12526
+  interbank: 54844
+  lank: 67413
+  mountebank: 64886
+  plank: 15752
+  prank: 23177
+  rank: 1660
+  riverbank: 45141
+  sank: 13824
+  shank: 25170
+  shrank: 37649
+  spank: 21418
+  stank: 66044
+  swank: 34493
+  tank: 4160
+  thank: 825
+  wank: 28692
+  yank: 32688
+scored_words:
+  antitank: 115897
+  gangplank: 190138
+  greenshank: 232401
+  outflank: 148828
+  outrank: 166628
+  pointblank: 198602
+  redshank: 116154
+  sandbank: 122895
+  snowbank: 254589
+not_scored_words:
+- Bundesbank
+- Burbank
+- Citibank
+- Clydebank
+- Cruikshank
+- Frank
+- Hank
+- Rank
+- Yank
+- claybank
+- embank
+- foreshank
+- preshrank
+- sheepshank

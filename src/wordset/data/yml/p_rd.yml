@@ -1,0 +1,41 @@
+---
+pattern: p_rd
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 31
+score: 2038949
+score_per_word: 107313
+hi_scored_words:
+  paperboard: 61882
+  pard: 41900
+  password: 3911
+  phonecard: 69173
+  placard: 45094
+  plasterboard: 85859
+  pollard: 24766
+  poniard: 91473
+  postcard: 19043
+scored_words:
+  panelboard: 297267
+  particleboard: 135460
+  pasteboard: 114503
+  pegboard: 111535
+  petard: 118592
+  pilchard: 109237
+  plugboard: 296393
+  pochard: 137928
+  poleward: 138933
+  potsherd: 136000
+not_scored_words:
+- Packard
+- Picard
+- Piccard
+- Pickford
+- Pollard
+- Pommard
+- paddleboard
+- potshard
+- poulard
+- prerecord
+- pulpboard
+- punchboard

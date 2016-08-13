@@ -1,0 +1,28 @@
+---
+pattern: pa_ting
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 572126
+score_per_word: 52011
+hi_scored_words:
+  painting: 2557
+  panting: 27178
+  parachuting: 62478
+  parenting: 5526
+  participating: 9009
+  parting: 15809
+  pasting: 38205
+  patenting: 46660
+  patting: 52962
+scored_words:
+  palpitating: 187596
+  parroting: 124146
+not_scored_words:
+- Paoting
+- paginating
+- palliating
+- palpating
+- pargeting
+- pargetting
+- parqueting

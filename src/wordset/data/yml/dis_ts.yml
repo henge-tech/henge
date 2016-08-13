@@ -1,0 +1,60 @@
+---
+pattern: dis_ts
+hi_scored_words_count: 15
+scored_words_count: 12
+total_words: 50
+score: 2773731
+score_per_word: 102730
+hi_scored_words:
+  disagreements: 30118
+  disappointments: 36797
+  disappoints: 61543
+  disbursements: 35896
+  discomforts: 79708
+  disconnects: 45670
+  discontents: 73879
+  discounts: 14785
+  disinfectants: 54214
+  displacements: 40652
+  disrupts: 46617
+  dissidents: 35453
+  distorts: 53016
+  distracts: 72518
+  districts: 3679
+scored_words:
+  discouragements: 244729
+  discredits: 133252
+  discriminants: 283909
+  discussants: 124091
+  disgusts: 111126
+  disinfects: 233928
+  dismounts: 210241
+  disputants: 112283
+  disrespects: 242707
+  dissects: 124128
+  dissents: 101339
+  distrusts: 167453
+not_scored_words:
+- disaffects
+- disafforests
+- discants
+- discomfits
+- disconcertments
+- disconcerts
+- disenchants
+- disengagements
+- disfigurements
+- disforests
+- disheartenments
+- disinfests
+- disinherits
+- disinterests
+- disjoints
+- dislodgements
+- dislodgments
+- disorients
+- dispirits
+- disports
+- disquiets
+- dissolvents
+- distraints

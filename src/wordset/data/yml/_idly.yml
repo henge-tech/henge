@@ -1,0 +1,58 @@
+---
+pattern: _idly
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 48
+score: 2090964
+score_per_word: 99569
+hi_scored_words:
+  avidly: 83629
+  candidly: 45175
+  idly: 35055
+  morbidly: 71048
+  rapidly: 2939
+  rigidly: 40226
+  solidly: 32815
+  splendidly: 56168
+  stupidly: 36993
+  timidly: 73818
+  validly: 56577
+  vividly: 29134
+scored_words:
+  acidly: 228679
+  fluidly: 124513
+  horridly: 260909
+  languidly: 100236
+  lucidly: 105866
+  luridly: 184204
+  placidly: 127849
+  rabidly: 154009
+  stolidly: 241122
+not_scored_words:
+- acridly
+- aridly
+- fervidly
+- fetidly
+- flaccidly
+- floridly
+- frigidly
+- humidly
+- insipidly
+- intrepidly
+- invalidly
+- limpidly
+- lividly
+- pallidly
+- pellucidly
+- perfervidly
+- sordidly
+- squalidly
+- staidly
+- tepidly
+- torpidly
+- torridly
+- tumidly
+- turbidly
+- turgidly
+- vapidly
+- viscidly

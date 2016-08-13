@@ -1,0 +1,36 @@
+---
+pattern: _tel
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 26
+score: 1139356
+score_per_word: 81382
+hi_scored_words:
+  betel: 73276
+  cartel: 25823
+  chattel: 50563
+  hostel: 16809
+  hotel: 729
+  lintel: 69693
+  mantel: 27409
+  motel: 11082
+  pastel: 24916
+  tel: 4959
+scored_words:
+  artel: 209730
+  botel: 115244
+  listel: 228437
+  ratel: 280686
+not_scored_words:
+- Bechtel
+- Gretel
+- Intel
+- Keitel
+- Martel
+- Mattel
+- Patel
+- boatel
+- brocatel
+- moschatel
+- muscatel
+- overmantel

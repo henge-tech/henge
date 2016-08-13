@@ -1,0 +1,26 @@
+---
+pattern: in_se
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1226431
+score_per_word: 94340
+hi_scored_words:
+  incense: 15858
+  increase: 896
+  infuse: 39496
+  intense: 4005
+  intercourse: 8379
+  interphase: 62232
+  interpose: 83187
+  inverse: 15011
+scored_words:
+  incise: 170065
+  incuse: 341071
+  interfuse: 119937
+  intersperse: 175900
+  invertase: 190394
+not_scored_words:
+- Indochinese
+- indispose
+- introrse

@@ -1,0 +1,44 @@
+---
+pattern: o_tic
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 34
+score: 1866099
+score_per_word: 109770
+hi_scored_words:
+  operatic: 34294
+  opportunistic: 28374
+  optic: 15133
+  optimistic: 13645
+  orthodontic: 41974
+  orthotic: 86547
+  osmotic: 44937
+  otic: 81352
+scored_words:
+  oligopolistic: 136705
+  onomatopoetic: 158991
+  ontic: 275972
+  ontogenetic: 127734
+  oolitic: 167628
+  orgiastic: 135324
+  orthochromatic: 147923
+  osteoarthritic: 251198
+  osteoporotic: 118368
+not_scored_words:
+- Ossetic
+- objectivistic
+- obstructionistic
+- ochlocratic
+- onanistic
+- oneirocritic
+- onomastic
+- oogenetic
+- orectic
+- orthogenetic
+- orthoptic
+- osteoplastic
+- overemphatic
+- overenthusiastic
+- overidealistic
+- overoptimistic
+- overpessimistic

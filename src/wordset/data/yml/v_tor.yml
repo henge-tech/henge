@@ -1,0 +1,34 @@
+---
+pattern: v_tor
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 24
+score: 1240809
+score_per_word: 88629
+hi_scored_words:
+  vasodilator: 65397
+  vector: 7998
+  ventilator: 35310
+  viator: 83168
+  vibrator: 14732
+  victor: 4327
+  violator: 53251
+  visitor: 3338
+scored_words:
+  valuator: 251635
+  varistor: 242697
+  vasoconstrictor: 107476
+  vasomotor: 103800
+  vindicator: 118480
+  vivisector: 149200
+not_scored_words:
+- Victor
+- vaccinator
+- vacillator
+- vasoinhibitor
+- vaticinator
+- venerator
+- vinificator
+- vitiator
+- vituperator
+- vociferator

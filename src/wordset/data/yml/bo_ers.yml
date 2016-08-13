@@ -1,0 +1,55 @@
+---
+pattern: bo_ers
+hi_scored_words_count: 24
+scored_words_count: 7
+total_words: 45
+score: 2217615
+score_per_word: 71535
+hi_scored_words:
+  boarders: 40058
+  boaters: 43290
+  bodybuilders: 41185
+  boilermakers: 52066
+  boilers: 20972
+  bolsters: 64731
+  bombers: 13455
+  bondholders: 68104
+  boners: 88400
+  bonkers: 48425
+  bookkeepers: 96578
+  bookmakers: 40889
+  booksellers: 24285
+  boomers: 22814
+  boosters: 23941
+  borders: 4783
+  borers: 99744
+  borrowers: 26484
+  bothers: 28214
+  boulders: 27508
+  bouncers: 43883
+  bowers: 23329
+  bowlers: 34979
+  boxers: 18028
+scored_words:
+  bolometers: 341005
+  boogers: 113770
+  bookbinders: 116018
+  bootleggers: 109178
+  boozers: 253172
+  borderers: 184203
+  bottlers: 104124
+not_scored_words:
+- Boers
+- Borders
+- Bowers
+- boasters
+- bobbysoxers
+- bobsledders
+- bombardiers
+- bonesetters
+- boneshakers
+- bookmarkers
+- boondogglers
+- bootlickers
+- botchers
+- bounders

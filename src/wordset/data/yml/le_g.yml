@@ -1,0 +1,54 @@
+---
+pattern: le_g
+hi_scored_words_count: 25
+scored_words_count: 9
+total_words: 44
+score: 2037021
+score_per_word: 59912
+hi_scored_words:
+  leaching: 36090
+  leading: 1034
+  leaking: 21186
+  leaning: 8714
+  leapfrog: 33651
+  leaping: 21407
+  learning: 811
+  leasing: 16825
+  leaving: 1513
+  lecturing: 33007
+  leering: 99581
+  leg: 2533
+  legalizing: 54206
+  legislating: 68325
+  lemming: 57833
+  lending: 7919
+  lengthening: 40367
+  lensing: 72887
+  lessening: 44586
+  lettering: 23510
+  letting: 4078
+  leveling: 27397
+  leveraging: 25123
+  levering: 84954
+  levying: 56653
+scored_words:
+  leafing: 108159
+  leafleting: 179314
+  leapfrogging: 171485
+  leavening: 108568
+  leeching: 110331
+  legging: 105733
+  legitimating: 189455
+  legitimizing: 108534
+  levitating: 111252
+not_scored_words:
+- Lederberg
+- Leipzig
+- Lemberg
+- Lessing
+- leaguing
+- leashing
+- leching
+- legitimatizing
+- levanting
+- lexicog

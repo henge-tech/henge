@@ -1,0 +1,26 @@
+---
+pattern: amaz_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 400262
+score_per_word: 40026
+hi_scored_words:
+  amaze: 22870
+  amazed: 9422
+  amazement: 21310
+  amazes: 47901
+  amazing: 2749
+  amazingly: 14430
+  amazon: 5001
+  amazonian: 53225
+  amazons: 50974
+scored_words:
+  amazonite: 172380
+not_scored_words:
+- Amazon
+- Amazonas
+- Amazonia
+- Amazonian
+- Amazons
+- amazedly

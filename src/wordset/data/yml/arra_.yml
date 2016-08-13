@@ -1,0 +1,36 @@
+---
+pattern: arra_
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 26
+score: 1378858
+score_per_word: 72571
+hi_scored_words:
+  arrack: 80541
+  arraigned: 64672
+  arraignment: 55192
+  arrange: 4828
+  arranged: 4046
+  arrangement: 3441
+  arrangements: 3011
+  arranger: 31894
+  arrangers: 73944
+  arranges: 34935
+  arranging: 13752
+  arras: 49934
+  array: 3130
+  arrayed: 51229
+  arrays: 11685
+scored_words:
+  arraign: 237880
+  arraignments: 277255
+  arrant: 113907
+  arraying: 263582
+not_scored_words:
+- Arran
+- Arras
+- arracks
+- arraigning
+- arraigns
+- arrangeable
+- arrases

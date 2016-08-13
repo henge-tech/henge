@@ -1,0 +1,44 @@
+---
+pattern: d_tors
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 34
+score: 2716087
+score_per_word: 100595
+hi_scored_words:
+  debtors: 24196
+  decorators: 30623
+  defectors: 71145
+  defibrillators: 59266
+  deflectors: 79657
+  demonstrators: 24386
+  denominators: 71763
+  depositors: 52192
+  descriptors: 26368
+  detectors: 10598
+  detonators: 93158
+  detractors: 48730
+  dictators: 33616
+  directors: 3789
+  dissectors: 98039
+  distributors: 7959
+  doctors: 3204
+scored_words:
+  deflators: 204112
+  dehydrators: 105685
+  demodulators: 247293
+  desiccators: 242592
+  designators: 115941
+  differentiators: 175887
+  dilators: 259217
+  discriminators: 213981
+  disseminators: 311041
+  duplicators: 101649
+not_scored_words:
+- decapitators
+- decelerators
+- dedicators
+- defoliators
+- depreciators
+- devastators
+- dissimulators

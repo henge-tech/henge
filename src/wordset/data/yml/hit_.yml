@@ -1,0 +1,40 @@
+---
+pattern: hit_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 30
+score: 911700
+score_per_word: 53629
+hi_scored_words:
+  hit: 1230
+  hitch: 13748
+  hitched: 41742
+  hitches: 49296
+  hitchhiker: 31659
+  hitchhikers: 56181
+  hitchhiking: 62987
+  hitching: 61709
+  hither: 24251
+  hitherto: 15140
+  hits: 3482
+  hitter: 22848
+  hitters: 30774
+  hitting: 7626
+scored_words:
+  hitcher: 173262
+  hitchhike: 126835
+  hitchhiked: 188930
+not_scored_words:
+- Hitachi
+- Hitchcock
+- Hitler
+- Hitlerian
+- Hitlerism
+- Hitlers
+- Hittite
+- Hittites
+- hitchers
+- hitchhikes
+- hithermost
+- hitherward
+- hittable

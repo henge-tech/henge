@@ -1,0 +1,41 @@
+---
+pattern: ind_n
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 31
+score: 1562315
+score_per_word: 82227
+hi_scored_words:
+  indecision: 46171
+  indemnification: 41958
+  indentation: 35326
+  indexation: 69318
+  indication: 6272
+  indigestion: 37409
+  indignation: 21179
+  indirection: 81097
+  indiscretion: 69537
+  individualization: 86922
+  individuation: 88600
+  indoctrination: 43997
+  induction: 9112
+  industrialization: 29158
+scored_words:
+  indention: 257077
+  indetermination: 163969
+  indican: 240101
+  indisposition: 119175
+  induration: 115937
+not_scored_words:
+- Indiaman
+- Indiamen
+- Indian
+- Indianan
+- Indianian
+- Indianization
+- Indonesian
+- indiction
+- indign
+- indigotin
+- indiscrimination
+- indrawn

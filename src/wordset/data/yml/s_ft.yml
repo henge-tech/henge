@@ -1,0 +1,27 @@
+---
+pattern: s_ft
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 847725
+score_per_word: 65209
+hi_scored_words:
+  shaft: 6129
+  shift: 3546
+  shrift: 75523
+  sift: 27535
+  soft: 1308
+  spacecraft: 14335
+  spendthrift: 92733
+  stagecraft: 93909
+  statecraft: 96420
+  swift: 4918
+scored_words:
+  shoplift: 140782
+  snowdrift: 157918
+  spindrift: 132669
+not_scored_words:
+- Swift
+- semisoft
+- spoondrift
+- swordcraft

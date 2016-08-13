@@ -1,0 +1,31 @@
+---
+pattern: cra_ed
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 21
+score: 1119108
+score_per_word: 69944
+hi_scored_words:
+  cracked: 9090
+  crackled: 88476
+  cradled: 67770
+  crafted: 10130
+  crammed: 24622
+  cramped: 27619
+  cranked: 50228
+  crashed: 12512
+  craved: 57419
+  crawled: 26474
+  crazed: 31610
+scored_words:
+  crabbed: 195125
+  craned: 144029
+  crapped: 101897
+  crated: 109919
+  cratered: 162188
+not_scored_words:
+- crackbrained
+- crannied
+- craunched
+- crayoned
+- crazyweed

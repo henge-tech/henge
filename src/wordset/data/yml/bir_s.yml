@@ -1,0 +1,35 @@
+---
+pattern: bir_s
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 25
+score: 1608561
+score_per_word: 107237
+hi_scored_words:
+  birches: 77409
+  birdbaths: 99275
+  birders: 71152
+  birdies: 48158
+  birds: 2011
+  birthdays: 17514
+  births: 9526
+  birthstones: 48608
+scored_words:
+  birdcages: 277649
+  birdhouses: 104156
+  birdwatchers: 114172
+  birls: 274121
+  birthmarks: 127254
+  birthplaces: 158890
+  birthrates: 178666
+not_scored_words:
+- biramous
+- birdbrains
+- birdtables
+- birefringences
+- birettas
+- birrs
+- birthers
+- birthrights
+- birthroots
+- birthworts

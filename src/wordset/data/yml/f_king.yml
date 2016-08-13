@@ -1,0 +1,31 @@
+---
+pattern: f_king
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 21
+score: 1413683
+score_per_word: 88355
+hi_scored_words:
+  faking: 37343
+  filmmaking: 24208
+  flaking: 68252
+  flanking: 35984
+  flicking: 57886
+  flocking: 47091
+  forking: 61199
+  forsaking: 82074
+  franking: 93082
+  freaking: 18273
+  frolicking: 81588
+  fucking: 5489
+scored_words:
+  flunking: 144791
+  freethinking: 228283
+  frisking: 191658
+  funking: 236482
+not_scored_words:
+- finicking
+- finking
+- flecking
+- flyspecking
+- fracking

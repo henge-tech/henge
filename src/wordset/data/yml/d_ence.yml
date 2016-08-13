@@ -1,0 +1,29 @@
+---
+pattern: d_ence
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 713836
+score_per_word: 59486
+hi_scored_words:
+  decadence: 31769
+  deference: 23113
+  dependence: 7017
+  deterrence: 29198
+  difference: 1058
+  diligence: 12950
+  disobedience: 21290
+  divergence: 22349
+scored_words:
+  dehiscence: 140871
+  despondence: 165872
+  diffidence: 103553
+  dissidence: 154796
+not_scored_words:
+- decalescence
+- deliquescence
+- delitescence
+- desinence
+- detumescence
+- divalence
+- divulgence

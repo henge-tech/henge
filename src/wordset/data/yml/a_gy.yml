@@ -1,0 +1,40 @@
+---
+pattern: a_gy
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 30
+score: 1646320
+score_per_word: 96842
+hi_scored_words:
+  allergy: 13705
+  analogy: 10713
+  anesthesiology: 35140
+  anthology: 15525
+  anthropology: 14845
+  apology: 10236
+  archaeology: 15997
+  archeology: 32425
+  astrobiology: 70836
+  astrology: 13022
+  audiology: 45131
+scored_words:
+  acarology: 313658
+  anergy: 222683
+  angelology: 156862
+  angiology: 194921
+  anthropophagy: 184755
+  astrogeology: 295866
+not_scored_words:
+- Assyriology
+- actinology
+- aerobiology
+- aerology
+- agrobiology
+- agrology
+- agrostology
+- algology
+- amphibology
+- anemology
+- antilogy
+- autecology
+- axiology

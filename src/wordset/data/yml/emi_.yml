@@ -1,0 +1,49 @@
+---
+pattern: emi_
+hi_scored_words_count: 25
+scored_words_count: 4
+total_words: 39
+score: 1940084
+score_per_word: 66899
+hi_scored_words:
+  emigrant: 35465
+  emigrants: 33170
+  emigrate: 43269
+  emigrated: 31273
+  emigrating: 76774
+  emigration: 20095
+  emigre: 95723
+  eminence: 22221
+  eminent: 9728
+  eminently: 28494
+  emir: 27329
+  emirate: 67882
+  emirates: 12379
+  emirs: 84521
+  emissaries: 73796
+  emissary: 48038
+  emission: 13268
+  emissions: 13691
+  emissivity: 76550
+  emit: 21687
+  emits: 39466
+  emitted: 19441
+  emitter: 33581
+  emitters: 54764
+  emitting: 26488
+scored_words:
+  emigres: 189828
+  eminences: 250837
+  emissive: 150004
+  emissivities: 340322
+not_scored_words:
+- Emil
+- Emile
+- Emilia
+- Emilie
+- Emilio
+- Emily
+- Eminem
+- Eminence
+- emigrates
+- emigrations

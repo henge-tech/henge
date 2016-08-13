@@ -1,0 +1,51 @@
+---
+pattern: s_b
+hi_scored_words_count: 20
+scored_words_count: 6
+total_words: 41
+score: 1506151
+score_per_word: 57928
+hi_scored_words:
+  sahib: 31495
+  sb: 8779
+  scab: 40856
+  scarab: 35605
+  scrub: 11664
+  shrub: 16653
+  sib: 36173
+  slab: 13763
+  slob: 53078
+  snob: 35788
+  snub: 41641
+  sob: 19591
+  squib: 71036
+  stab: 13556
+  stub: 21680
+  sub: 3353
+  suburb: 11653
+  succumb: 33596
+  superb: 5861
+  swab: 39593
+scored_words:
+  slub: 195658
+  sorb: 131572
+  spiderweb: 106866
+  squab: 103711
+  stob: 146652
+  subshrub: 276278
+not_scored_words:
+- SOB
+- Saab
+- Sab
+- Sb
+- Sennacherib
+- Serb
+- Skylab
+- Sorb
+- Squibb
+- serdab
+- skibob
+- sparerib
+- subdeb
+- superbomb
+- syllabub

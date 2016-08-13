@@ -1,0 +1,29 @@
+---
+pattern: grin_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 19
+score: 989299
+score_per_word: 70664
+hi_scored_words:
+  grin: 12674
+  grind: 10685
+  grinder: 21354
+  grinders: 34259
+  grinding: 11496
+  grinds: 45841
+  grindstone: 76776
+  gringo: 40736
+  gringos: 93440
+  grinned: 25474
+  grinning: 28932
+  grins: 38856
+scored_words:
+  grindelia: 302175
+  grinner: 246601
+not_scored_words:
+- Grinch
+- grindery
+- grindingly
+- grindings
+- grindstones

@@ -1,0 +1,24 @@
+---
+pattern: _aky
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 752052
+score_per_word: 75205
+hi_scored_words:
+  creaky: 89804
+  flaky: 39501
+  freaky: 20257
+  leaky: 29042
+  shaky: 22341
+  sneaky: 23182
+  squeaky: 40806
+  streaky: 81186
+scored_words:
+  peaky: 192283
+  snaky: 213650
+not_scored_words:
+- caky
+- croaky
+- laky
+- quaky

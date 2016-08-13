@@ -1,0 +1,35 @@
+---
+pattern: enu_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 25
+score: 1665705
+score_per_word: 104106
+hi_scored_words:
+  enumerate: 33627
+  enumerated: 19975
+  enumerates: 73162
+  enumerating: 68655
+  enumeration: 18795
+  enumerations: 88702
+  enumerator: 86919
+  enunciated: 61754
+  enunciation: 83280
+  enuresis: 95332
+scored_words:
+  enumerable: 122218
+  enumerative: 170168
+  enumerators: 120853
+  enunciate: 112175
+  enunciates: 280744
+  enunciating: 229346
+not_scored_words:
+- Enugu
+- enucleate
+- enunciative
+- enunciator
+- enure
+- enured
+- enures
+- enuretic
+- enuring

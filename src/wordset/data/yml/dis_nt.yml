@@ -1,0 +1,72 @@
+---
+pattern: dis_nt
+hi_scored_words_count: 29
+scored_words_count: 18
+total_words: 62
+score: 4556567
+score_per_word: 96948
+hi_scored_words:
+  disablement: 79559
+  disagreement: 14397
+  disappoint: 20365
+  disappointment: 8389
+  disarmament: 25117
+  disbursement: 42297
+  discernment: 33276
+  discontent: 19773
+  discordant: 42984
+  discount: 5160
+  discouragement: 56739
+  discrepant: 96948
+  discriminant: 48615
+  disenchantment: 67239
+  disenfranchisement: 88491
+  disengagement: 42309
+  disfigurement: 67358
+  disillusionment: 52899
+  disinfectant: 35037
+  disjoint: 34206
+  dismemberment: 55103
+  dismount: 48272
+  disobedient: 52128
+  displacement: 13446
+  dissent: 14385
+  dissentient: 93238
+  dissident: 29170
+  dissonant: 76302
+  distant: 4489
+scored_words:
+  disarrangement: 243527
+  disbandment: 181484
+  disbarment: 135747
+  discontentment: 249076
+  discussant: 110854
+  disembowelment: 256266
+  disenchant: 162193
+  disentanglement: 311844
+  disestablishment: 160245
+  disfranchisement: 245979
+  disgorgement: 182679
+  disinvestment: 100987
+  dismantlement: 133604
+  disorient: 150531
+  disparagement: 111559
+  dispersant: 128017
+  disputant: 176960
+  distraint: 247324
+not_scored_words:
+- Dissent
+- discant
+- disciplinant
+- disconcertment
+- disembodiment
+- disgruntlement
+- disheartenment
+- dishevelment
+- disinterment
+- dislodgement
+- dislodgment
+- displant
+- dissepiment
+- dissolvent
+- distrainment

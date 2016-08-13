@@ -1,0 +1,64 @@
+---
+pattern: li_ed
+hi_scored_words_count: 29
+scored_words_count: 12
+total_words: 54
+score: 3240600
+score_per_word: 79039
+hi_scored_words:
+  liberalized: 70807
+  liberated: 18079
+  licensed: 3244
+  licked: 19555
+  lidded: 69930
+  lied: 10227
+  lifted: 5930
+  ligated: 79350
+  lighted: 10890
+  lightened: 55937
+  lightheaded: 87927
+  lighthearted: 46881
+  liked: 2649
+  likened: 36916
+  limited: 892
+  limped: 69195
+  linearized: 64022
+  lined: 6276
+  lingered: 33993
+  linked: 3042
+  linseed: 50922
+  lipped: 52663
+  liquefied: 42017
+  liquidated: 34463
+  listed: 1609
+  listened: 5364
+  litigated: 75404
+  littered: 32590
+  lived: 1779
+scored_words:
+  liaised: 236124
+  libeled: 238480
+  limed: 165474
+  limned: 135203
+  linefeed: 123091
+  lionhearted: 102939
+  lionized: 244427
+  liquored: 268771
+  lisped: 167070
+  lithographed: 140920
+  livened: 218114
+  liveried: 207434
+not_scored_words:
+- librated
+- lichened
+- ligatured
+- lightfaced
+- lightninged
+- lilted
+- limbered
+- linted
+- linteled
+- lintelled
+- lipsticked
+- liquidized
+- literalized

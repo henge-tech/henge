@@ -1,0 +1,32 @@
+---
+pattern: conf_y
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 22
+score: 1667870
+score_per_word: 104241
+hi_scored_words:
+  confectionary: 74346
+  confectionery: 33298
+  confederacy: 28422
+  confidentiality: 9578
+  confidentially: 37325
+  confidently: 18558
+  confirmatory: 61170
+  conformity: 11181
+  confusingly: 62951
+scored_words:
+  confessedly: 204412
+  confidingly: 239082
+  confiscatory: 221344
+  conformably: 207025
+  confoundedly: 161740
+  confraternity: 146867
+  confusedly: 150571
+not_scored_words:
+- Confederacy
+- confabulatory
+- configurationally
+- confirmedly
+- conflictingly
+- conformability

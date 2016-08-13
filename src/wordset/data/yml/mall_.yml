@@ -1,0 +1,34 @@
+---
+pattern: mall_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 24
+score: 1244422
+score_per_word: 88887
+hi_scored_words:
+  mall: 7819
+  mallard: 32960
+  mallards: 80837
+  malleable: 44753
+  mallee: 70427
+  mallet: 26981
+  mallets: 64168
+  mallow: 46062
+  malls: 15465
+scored_words:
+  malleability: 130292
+  mallei: 186758
+  malleolus: 235407
+  malleus: 109667
+  mallows: 192826
+not_scored_words:
+- Mallarme
+- Mallarmé
+- Mallomars
+- Mallorca
+- Mallory
+- malleableness
+- malleably
+- mallees
+- mallemuck
+- malleuses

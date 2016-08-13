@@ -1,0 +1,35 @@
+---
+pattern: _rrow
+hi_scored_words_count: 15
+scored_words_count: 0
+total_words: 25
+score: 293819
+score_per_word: 19587
+hi_scored_words:
+  arrow: 4349
+  barrow: 16534
+  borrow: 7051
+  burrow: 28653
+  farrow: 45532
+  furrow: 34316
+  harrow: 20896
+  marrow: 11783
+  morrow: 9087
+  narrow: 2255
+  sorrow: 7563
+  sparrow: 14791
+  tomorrow: 2799
+  wheelbarrow: 44148
+  yarrow: 44062
+scored_words: {}
+not_scored_words:
+- Barrow
+- Borrow
+- Darrow
+- Farrow
+- Harrow
+- Jarrow
+- Morrow
+- Murrow
+- handbarrow
+- restharrow

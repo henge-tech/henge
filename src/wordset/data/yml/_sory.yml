@@ -1,0 +1,32 @@
+---
+pattern: _sory
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 22
+score: 1531089
+score_per_word: 102072
+hi_scored_words:
+  accessory: 8595
+  advisory: 9958
+  compulsory: 9438
+  cursory: 36592
+  illusory: 37846
+  promissory: 38698
+  sensory: 15613
+  supervisory: 13031
+scored_words:
+  derisory: 179082
+  extrasensory: 164059
+  intercessory: 126970
+  possessory: 116206
+  precursory: 299553
+  responsory: 251238
+  suspensory: 224210
+not_scored_words:
+- dimissory
+- elusory
+- incensory
+- ostensory
+- provisory
+- rescissory
+- revisory

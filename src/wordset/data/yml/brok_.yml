@@ -1,0 +1,24 @@
+---
+pattern: brok_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 759100
+score_per_word: 63258
+hi_scored_words:
+  broke: 2647
+  broken: 1301
+  broker: 7536
+  brokerage: 22438
+  brokerages: 70805
+  brokered: 53791
+  brokering: 56287
+  brokers: 10165
+  broking: 76779
+scored_words:
+  brokenhearted: 120279
+  brokenly: 235584
+  brokenness: 101488
+not_scored_words:
+- Brokaw
+- brokenheartedly

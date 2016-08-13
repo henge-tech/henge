@@ -1,0 +1,56 @@
+---
+pattern: _rter
+hi_scored_words_count: 22
+scored_words_count: 4
+total_words: 46
+score: 1236720
+score_per_word: 47566
+hi_scored_words:
+  barter: 21163
+  carter: 7302
+  charter: 4262
+  comforter: 23445
+  converter: 9864
+  darter: 65253
+  deserter: 51974
+  exporter: 26641
+  frankfurter: 48011
+  garter: 24679
+  headquarter: 46699
+  importer: 25836
+  inverter: 24567
+  porter: 5528
+  quarter: 1501
+  reporter: 4386
+  shorter: 5914
+  smarter: 16752
+  sorter: 46076
+  starter: 16193
+  supporter: 11897
+  transporter: 21860
+scored_words:
+  courter: 230942
+  diverter: 105747
+  hurter: 274043
+  tarter: 116185
+not_scored_words:
+- Carter
+- Frankfurter
+- Garter
+- Porter
+- asserter
+- assorter
+- curter
+- distorter
+- exhorter
+- extorter
+- forequarter
+- hindquarter
+- kicksorter
+- nonstarter
+- perter
+- perverter
+- recharter
+- reverter
+- snorter
+- subverter

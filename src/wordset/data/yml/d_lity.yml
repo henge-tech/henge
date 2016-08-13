@@ -1,0 +1,44 @@
+---
+pattern: d_lity
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 34
+score: 2765736
+score_per_word: 120249
+hi_scored_words:
+  debility: 79423
+  deductibility: 94110
+  dependability: 47597
+  desirability: 36230
+  digestibility: 72927
+  dimensionality: 50624
+  directionality: 86498
+  disability: 7594
+  divisibility: 91440
+  duality: 25355
+  ductility: 72033
+  durability: 16424
+scored_words:
+  decidability: 137391
+  defensibility: 335264
+  degradability: 242228
+  deliverability: 164507
+  deniability: 133493
+  deployability: 274709
+  detectability: 126777
+  differentiability: 165857
+  docility: 115190
+  drinkability: 134205
+  drivability: 255860
+not_scored_words:
+- delectability
+- demonstrability
+- destructibility
+- detachability
+- dextrality
+- discernibility
+- disposability
+- distensibility
+- ductilibility
+- dupability
+- duplicability

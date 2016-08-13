@@ -1,0 +1,44 @@
+---
+pattern: _lace
+hi_scored_words_count: 22
+scored_words_count: 1
+total_words: 34
+score: 825897
+score_per_word: 35908
+hi_scored_words:
+  anyplace: 38970
+  birthplace: 14587
+  commonplace: 16972
+  displace: 31677
+  enlace: 80257
+  everyplace: 85077
+  fireplace: 7608
+  glace: 47803
+  interlace: 78877
+  lace: 6142
+  marketplace: 11391
+  misplace: 30565
+  necklace: 6472
+  palace: 2587
+  place: 162
+  populace: 19317
+  replace: 2734
+  shoelace: 82114
+  showplace: 69398
+  solace: 23221
+  someplace: 27113
+  workplace: 8223
+scored_words:
+  bootlace: 134630
+not_scored_words:
+- Laplace
+- Lovelace
+- Place
+- Wallace
+- anelace
+- anlace
+- bullace
+- emplace
+- noplace
+- outplace
+- unlace

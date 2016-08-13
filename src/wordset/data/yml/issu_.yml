@@ -1,0 +1,20 @@
+---
+pattern: issu_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 462430
+score_per_word: 51381
+hi_scored_words:
+  issuable: 96098
+  issuance: 21913
+  issue: 849
+  issued: 1970
+  issuer: 16111
+  issuers: 35171
+  issues: 1155
+  issuing: 9741
+scored_words:
+  issuant: 279422
+not_scored_words:
+- Issus

@@ -1,0 +1,78 @@
+---
+pattern: ho_ed
+hi_scored_words_count: 28
+scored_words_count: 14
+total_words: 68
+score: 4009161
+score_per_word: 95456
+hi_scored_words:
+  hoarded: 73355
+  hobbled: 64534
+  hogtied: 61077
+  hoisted: 45115
+  holed: 48242
+  hollered: 89635
+  hollowed: 57697
+  homed: 67795
+  homered: 73301
+  homogenized: 72671
+  honed: 37611
+  honeyed: 99862
+  honored: 7151
+  hooded: 19091
+  hoodwinked: 45647
+  hooked: 10104
+  hoped: 4924
+  hopped: 29028
+  horned: 25822
+  horrified: 25966
+  hosed: 63497
+  hospitalized: 21212
+  hosted: 7792
+  hotbed: 51497
+  hounded: 70074
+  housed: 12616
+  hovered: 44990
+  howled: 62159
+scored_words:
+  hoed: 124368
+  hogged: 227700
+  hogweed: 223633
+  holstered: 220604
+  homesteaded: 168881
+  honeycombed: 188608
+  honeymooned: 242891
+  honked: 131790
+  hoofed: 129562
+  hooped: 157228
+  hooted: 132670
+  horsed: 259271
+  horseweed: 270896
+  hotheaded: 238594
+not_scored_words:
+- Holinshed
+- hoaxed
+- hobnailed
+- hobnobbed
+- hocked
+- hoicked
+- hoked
+- holidayed
+- holloed
+- holystoned
+- homebred
+- homologized
+- hoodooed
+- hoovered
+- hoppled
+- hopscotched
+- horded
+- horseshoed
+- horsewhipped
+- hosteled
+- hostessed
+- hotblooded
+- hotdogged
+- hotfooted
+- hotted
+- housecleaned

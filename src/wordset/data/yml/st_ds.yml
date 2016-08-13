@@ -1,0 +1,34 @@
+---
+pattern: st_ds
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 24
+score: 1140671
+score_per_word: 81476
+hi_scored_words:
+  standards: 2265
+  stands: 2150
+  steeds: 69169
+  steroids: 9956
+  stewards: 28258
+  stipends: 57087
+  stockyards: 80892
+  storyboards: 65393
+  strands: 17769
+  strongholds: 49795
+  studs: 17758
+scored_words:
+  stagehands: 232955
+  streambeds: 308840
+  stupids: 198384
+not_scored_words:
+- staghounds
+- stairheads
+- steads
+- steelyards
+- stepdads
+- stinkweeds
+- stokeholds
+- straightforwards
+- strangleholds
+- strawboards

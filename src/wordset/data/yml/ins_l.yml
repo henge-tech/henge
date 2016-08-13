@@ -1,0 +1,22 @@
+---
+pattern: ins_l
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 12
+score: 339490
+score_per_word: 33949
+hi_scored_words:
+  insecticidal: 87614
+  insightful: 13304
+  inspirational: 9394
+  install: 9048
+  instill: 45562
+  instinctual: 81491
+  institutional: 11322
+  instructional: 6193
+  instrumental: 7338
+  insubstantial: 68224
+scored_words: {}
+not_scored_words:
+- inscriptional
+- insessorial

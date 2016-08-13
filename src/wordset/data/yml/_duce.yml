@@ -1,0 +1,30 @@
+---
+pattern: _duce
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 890553
+score_per_word: 68504
+hi_scored_words:
+  adduce: 81440
+  deduce: 27421
+  duce: 49492
+  induce: 8719
+  introduce: 3522
+  produce: 1271
+  reduce: 2410
+  reintroduce: 64994
+  reproduce: 8808
+  seduce: 25816
+scored_words:
+  conduce: 108725
+  overproduce: 300967
+  traduce: 206968
+not_scored_words:
+- abduce
+- educe
+- obduce
+- outproduce
+- reinduce
+- superinduce
+- underproduce

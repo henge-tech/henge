@@ -1,0 +1,39 @@
+---
+pattern: tig_
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 29
+score: 1330460
+score_per_word: 73914
+hi_scored_words:
+  tiger: 4228
+  tigers: 7337
+  tight: 2948
+  tighten: 19332
+  tightened: 25460
+  tightening: 21091
+  tightens: 53550
+  tighter: 19839
+  tightest: 64237
+  tightly: 8407
+  tightness: 38559
+  tightrope: 51755
+  tights: 20776
+  tigress: 66771
+scored_words:
+  tigerish: 178049
+  tightener: 309042
+  tightwad: 128186
+  tigon: 310893
+not_scored_words:
+- Tigre
+- Tigrinya
+- Tigris
+- tighteners
+- tightfisted
+- tightfitting
+- tightlipped
+- tightropes
+- tightwads
+- tigons
+- tigresses

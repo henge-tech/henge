@@ -1,0 +1,23 @@
+---
+pattern: fabr_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 13
+score: 574950
+score_per_word: 52268
+hi_scored_words:
+  fabric: 8848
+  fabricant: 98624
+  fabricate: 43193
+  fabricated: 19978
+  fabricating: 41059
+  fabrication: 15067
+  fabrications: 52169
+  fabricator: 67570
+  fabricators: 57133
+  fabrics: 11752
+scored_words:
+  fabricates: 159557
+not_scored_words:
+- Fabre
+- Fabrikoid

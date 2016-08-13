@@ -1,0 +1,39 @@
+---
+pattern: m_ps
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 29
+score: 1890552
+score_per_word: 126036
+hi_scored_words:
+  maps: 3177
+  markups: 82987
+  mashups: 91231
+  memberships: 15068
+  microchips: 59922
+  mishaps: 43724
+  missteps: 85613
+  mops: 44426
+  mumps: 38113
+scored_words:
+  makeups: 193396
+  malaprops: 339324
+  mountaintops: 130825
+  mousetraps: 272334
+  mudflaps: 211168
+  mugwumps: 279244
+not_scored_words:
+- MIPS
+- madcaps
+- maintops
+- managerships
+- mantraps
+- marshalships
+- masterships
+- megaflops
+- megilps
+- messiahships
+- midships
+- milksops
+- mobcaps
+- muttonchops

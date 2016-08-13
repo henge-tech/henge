@@ -1,0 +1,37 @@
+---
+pattern: c_ain
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 27
+score: 766253
+score_per_word: 51083
+hi_scored_words:
+  cain: 14973
+  captain: 1882
+  certain: 506
+  chain: 1849
+  chamberlain: 15951
+  chaplain: 15576
+  chieftain: 28740
+  complain: 6633
+  constrain: 29346
+  contain: 1771
+  coxswain: 93332
+  curtain: 6550
+scored_words:
+  chatelain: 149530
+  chilblain: 221521
+  cinquain: 178093
+not_scored_words:
+- Cain
+- Captain
+- Chain
+- Chamberlain
+- Champlain
+- Cobain
+- Cuchulain
+- chevrotain
+- châtelain
+- cockswain
+- cordwain
+- crackbrain

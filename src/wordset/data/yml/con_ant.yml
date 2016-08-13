@@ -1,0 +1,26 @@
+---
+pattern: con_ant
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 722393
+score_per_word: 65672
+hi_scored_words:
+  concomitant: 28482
+  concordant: 77580
+  confidant: 45756
+  consonant: 24943
+  constant: 1942
+  consultant: 14050
+  contaminant: 29330
+  contestant: 23382
+  conversant: 42841
+scored_words:
+  continuant: 161371
+  convulsant: 272716
+not_scored_words:
+- Constant
+- concelebrant
+- conflagrant
+- congratulant
+- congregant

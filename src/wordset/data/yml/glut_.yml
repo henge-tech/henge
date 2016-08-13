@@ -1,0 +1,41 @@
+---
+pattern: glut_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 31
+score: 1351694
+score_per_word: 96549
+hi_scored_words:
+  glut: 34040
+  glutamate: 26122
+  glutamine: 32873
+  glutathione: 31163
+  gluten: 23453
+  glutinous: 90549
+  glutton: 62502
+  gluttony: 50051
+scored_words:
+  glutamates: 237777
+  gluteal: 160158
+  gluteus: 126007
+  glutted: 187933
+  gluttonous: 116532
+  gluttons: 172534
+not_scored_words:
+- glutamines
+- glutei
+- glutelin
+- glutelins
+- glutenous
+- glutinosities
+- glutinosity
+- glutinously
+- glutinousness
+- glutinousnesses
+- gluts
+- glutting
+- gluttonize
+- gluttonized
+- gluttonizes
+- gluttonizing
+- gluttonously

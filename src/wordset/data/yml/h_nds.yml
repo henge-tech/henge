@@ -1,0 +1,32 @@
+---
+pattern: h_nds
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 22
+score: 728721
+score_per_word: 60726
+hi_scored_words:
+  hands: 707
+  headbands: 57223
+  headlands: 60350
+  heartlands: 85174
+  highlands: 9950
+  hinds: 40069
+  hinterlands: 92481
+  homelands: 48917
+  hounds: 17567
+  husbands: 10590
+scored_words:
+  handstands: 125152
+  headwinds: 180541
+not_scored_words:
+- Highlands
+- Hollands
+- hairbands
+- hardstands
+- hatbands
+- hatstands
+- headstands
+- hellhounds
+- horehounds
+- househusbands

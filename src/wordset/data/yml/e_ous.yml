@@ -1,0 +1,44 @@
+---
+pattern: e_ous
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 34
+score: 1320024
+score_per_word: 73334
+hi_scored_words:
+  efficacious: 37813
+  egregious: 35525
+  endogamous: 68308
+  endogenous: 20755
+  enormous: 4334
+  envious: 25640
+  eponymous: 43610
+  erogenous: 97334
+  erroneous: 14026
+  exogenous: 26905
+  expeditious: 43203
+  extemporaneous: 89959
+  extraneous: 29533
+scored_words:
+  edematous: 185778
+  emulous: 162882
+  estrous: 114817
+  euphonious: 176950
+  exiguous: 142652
+not_scored_words:
+- ectogenous
+- ectothermous
+- eczematous
+- edacious
+- encephalous
+- entomophagous
+- entomophilous
+- epigenous
+- epigeous
+- epigynous
+- equanimous
+- ericaceous
+- erinaceous
+- euphorbiaceous
+- eximious
+- exogamous

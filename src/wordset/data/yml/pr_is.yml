@@ -1,0 +1,26 @@
+---
+pattern: pr_is
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 16
+score: 1077246
+score_per_word: 82865
+hi_scored_words:
+  praxis: 29698
+  precis: 60709
+  proboscis: 78306
+  prognosis: 16079
+  prophylaxis: 30014
+  propolis: 79726
+  prostatitis: 76048
+  prosthesis: 33924
+  proteolysis: 68578
+scored_words:
+  prolepsis: 187931
+  protasis: 141585
+  prothesis: 122603
+  précis: 152045
+not_scored_words:
+- priapitis
+- proglottis
+- proptosis

@@ -1,0 +1,88 @@
+---
+pattern: bro_s
+hi_scored_words_count: 25
+scored_words_count: 19
+total_words: 78
+score: 4053802
+score_per_word: 92131
+hi_scored_words:
+  broadcasters: 17410
+  broadcasts: 11046
+  broadens: 55414
+  broads: 46863
+  broadsides: 81724
+  brochures: 11507
+  broilers: 85750
+  brokerages: 70805
+  brokers: 10165
+  bronchitis: 29813
+  bronchus: 71542
+  broncos: 12727
+  bronzes: 56605
+  brooches: 36228
+  broods: 58353
+  brooks: 6516
+  brooms: 44413
+  broomsticks: 96906
+  bros: 15888
+  brothels: 47695
+  brothers: 2008
+  brownies: 22667
+  browns: 17841
+  brows: 25900
+  browsers: 7742
+scored_words:
+  broaches: 135220
+  broadness: 248218
+  broadsheets: 151166
+  brocades: 166336
+  brogues: 146605
+  broils: 249887
+  brokenness: 101488
+  bromides: 124012
+  bronchiectasis: 110437
+  bronchioles: 174044
+  broncs: 134891
+  brontosaurus: 121097
+  broodmares: 186152
+  brotherhoods: 143410
+  broths: 145024
+  brownings: 270164
+  brownouts: 208770
+  brownstones: 180468
+  browses: 112885
+not_scored_words:
+- Broads
+- Broadways
+- Brontosaurus
+- Brookes
+- Brooks
+- Bros
+- Brownies
+- broadaxes
+- broadbills
+- broadmindedness
+- broadswords
+- broadtails
+- brochettes
+- brockets
+- brogans
+- broiders
+- brollies
+- bromates
+- brominates
+- bronchoscopes
+- broncobusters
+- brontosaurs
+- brontosauruses
+- brooders
+- broodiness
+- brooklets
+- brooklimes
+- brookweeds
+- broomcorns
+- brotherliness
+- broughams
+- brouhahas
+- browbeats
+- brownness

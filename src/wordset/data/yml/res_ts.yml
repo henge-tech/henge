@@ -1,0 +1,33 @@
+---
+pattern: res_ts
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 23
+score: 1209623
+score_per_word: 63664
+hi_scored_words:
+  resentments: 83818
+  resents: 75213
+  reservists: 43305
+  resets: 20883
+  residents: 3474
+  resists: 25850
+  resorts: 7979
+  respects: 6613
+  respondents: 5713
+  restarts: 43603
+  restaurants: 4192
+  restraints: 18315
+  restricts: 33720
+  rests: 9144
+  results: 568
+scored_words:
+  restatements: 129700
+  resubmits: 325861
+  resultants: 241281
+  resurrects: 130391
+not_scored_words:
+- rescripts
+- reseats
+- resits
+- resolvents

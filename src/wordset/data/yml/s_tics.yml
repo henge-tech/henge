@@ -1,0 +1,30 @@
+---
+pattern: s_tics
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 1012695
+score_per_word: 84391
+hi_scored_words:
+  schematics: 34722
+  semantics: 14176
+  semiotics: 46955
+  skeptics: 33679
+  sociolinguistics: 80596
+  statics: 49300
+  statistics: 3297
+  synthetics: 60695
+  systematics: 35867
+scored_words:
+  schismatics: 231337
+  stylistics: 100510
+  synectics: 321561
+not_scored_words:
+- Semitics
+- Synoptics
+- semiautomatics
+- spastics
+- stemmatics
+- styptics
+- syntactics
+- syphilitics

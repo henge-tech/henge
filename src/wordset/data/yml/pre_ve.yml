@@ -1,0 +1,34 @@
+---
+pattern: pre_ve
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 24
+score: 945849
+score_per_word: 67560
+hi_scored_words:
+  predictive: 14244
+  preemptive: 35921
+  preoperative: 35942
+  preparative: 86597
+  prerogative: 25198
+  prescriptive: 35604
+  preservative: 33944
+  preserve: 4010
+  presumptive: 44098
+  preventative: 25205
+  preventive: 13186
+scored_words:
+  preclusive: 238688
+  precognitive: 234499
+  predicative: 118713
+not_scored_words:
+- preapprove
+- preceptive
+- precipitative
+- preconceive
+- prefigurative
+- prelusive
+- premeditative
+- prepositive
+- presentative
+- preteritive

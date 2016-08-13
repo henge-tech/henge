@@ -1,0 +1,45 @@
+---
+pattern: he_rs
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 35
+score: 1426291
+score_per_word: 64831
+hi_scored_words:
+  headers: 8898
+  headhunters: 56786
+  headliners: 56494
+  headquarters: 4104
+  headteachers: 77863
+  headwaters: 39796
+  healers: 32090
+  hearers: 53541
+  hears: 11018
+  heaters: 15356
+  heathers: 83422
+  heifers: 53002
+  heirs: 19946
+  helicopters: 11900
+  helpers: 18935
+  herders: 64520
+  hers: 8824
+scored_words:
+  headbangers: 152293
+  headmasters: 123249
+  hecklers: 138001
+  hedgers: 290833
+  hexameters: 105420
+not_scored_words:
+- headshrinkers
+- headwaiters
+- heavers
+- hectoliters
+- hectometers
+- hectors
+- hellbenders
+- hellers
+- hemidemisemiquavers
+- hemmers
+- hereafters
+- heritors
+- hewers

@@ -1,0 +1,29 @@
+---
+pattern: bu_k
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 19
+score: 1021509
+score_per_word: 78577
+hi_scored_words:
+  buck: 6673
+  bulk: 3756
+  bullock: 18836
+  bulwark: 49332
+  bunk: 15339
+  burdock: 74007
+  buttermilk: 32304
+  buttock: 52797
+  buyback: 50195
+scored_words:
+  bushbuck: 219444
+  bushwhack: 101026
+  busk: 103991
+  busywork: 293809
+not_scored_words:
+- Buck
+- Buick
+- Bullock
+- Bundesbank
+- Burbank
+- buttonhook

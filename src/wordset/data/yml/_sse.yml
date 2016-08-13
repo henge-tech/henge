@@ -1,0 +1,50 @@
+---
+pattern: _sse
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 40
+score: 1447401
+score_per_word: 72370
+hi_scored_words:
+  chasse: 54805
+  crevasse: 79404
+  crosse: 28098
+  esse: 35587
+  finesse: 27184
+  fosse: 50135
+  impasse: 40294
+  lacrosse: 13653
+  mousse: 28518
+  noblesse: 81912
+  passe: 32750
+  posse: 22154
+  tasse: 89187
+  wrasse: 71549
+scored_words:
+  bagasse: 123506
+  bouillabaisse: 128073
+  demitasse: 103362
+  pelisse: 164947
+  politesse: 115648
+  repousse: 156635
+not_scored_words:
+- Barbusse
+- Fosse
+- Gosse
+- Hesse
+- Jesse
+- Larousse
+- Lyonnesse
+- Matisse
+- Montparnasse
+- Neisse
+- SSE
+- Suisse
+- Wilhelmstrasse
+- coulisse
+- cuisse
+- declasse
+- gentilesse
+- palliasse
+- retrousse
+- vinasse

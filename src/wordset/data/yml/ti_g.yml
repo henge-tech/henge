@@ -1,0 +1,52 @@
+---
+pattern: ti_g
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 42
+score: 2157076
+score_per_word: 79891
+hi_scored_words:
+  ticketing: 27885
+  ticking: 21579
+  tickling: 17933
+  tidying: 59563
+  tightening: 21091
+  tiling: 31813
+  tilling: 74078
+  tilting: 31770
+  timekeeping: 54209
+  timing: 12912
+  ting: 20889
+  tingling: 26790
+  tinkering: 44754
+  tinkling: 57594
+  tinting: 50374
+  tipping: 21300
+  tiring: 28209
+  tithing: 59031
+  titillating: 99679
+  titling: 64585
+scored_words:
+  tiding: 294601
+  timbering: 210278
+  timetabling: 100645
+  tinning: 184765
+  tiptoeing: 188444
+  titrating: 236495
+  tittering: 115810
+not_scored_words:
+- Tilburg
+- Ting
+- ticktacking
+- tiffing
+- tightfitting
+- timeserving
+- tincting
+- tincturing
+- tingeing
+- tinging
+- tinseling
+- tippexing
+- tippling
+- titivating
+- tittivating

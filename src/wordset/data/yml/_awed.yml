@@ -1,0 +1,34 @@
+---
+pattern: _awed
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 24
+score: 1456253
+score_per_word: 112019
+hi_scored_words:
+  awed: 41498
+  clawed: 52064
+  flawed: 15485
+  gnawed: 94884
+  jawed: 74950
+  outlawed: 30124
+  sawed: 57798
+  thawed: 46672
+scored_words:
+  declawed: 193555
+  guffawed: 249274
+  hawed: 287689
+  overawed: 160277
+  pawed: 151983
+not_scored_words:
+- cawed
+- chainsawed
+- chawed
+- clapperclawed
+- heehawed
+- jigsawed
+- scrimshawed
+- seesawed
+- strawed
+- whipsawed
+- yawed

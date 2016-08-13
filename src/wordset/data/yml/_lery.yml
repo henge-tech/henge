@@ -1,0 +1,29 @@
+---
+pattern: _lery
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 19
+score: 1757427
+score_per_word: 109839
+hi_scored_words:
+  artillery: 7983
+  celery: 18368
+  chancellery: 90140
+  chandlery: 88749
+  cutlery: 21754
+  distillery: 41519
+  gallery: 1676
+  saddlery: 71371
+  tomfoolery: 83326
+scored_words:
+  cajolery: 195706
+  drollery: 222368
+  foolery: 139123
+  jugglery: 192389
+  raillery: 168631
+  riflery: 311478
+  scullery: 102846
+not_scored_words:
+- Valery
+- butlery
+- missilery

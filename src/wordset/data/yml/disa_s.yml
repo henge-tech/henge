@@ -1,0 +1,40 @@
+---
+pattern: disa_s
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 30
+score: 1418405
+score_per_word: 78800
+hi_scored_words:
+  disabilities: 7606
+  disables: 35106
+  disadvantageous: 77709
+  disadvantages: 12268
+  disagreements: 30118
+  disagrees: 25489
+  disappearances: 53767
+  disappears: 16663
+  disappointments: 36797
+  disappoints: 61543
+  disapproves: 80014
+  disasters: 9636
+  disastrous: 13899
+scored_words:
+  disaccharides: 164648
+  disallows: 109748
+  disarms: 158136
+  disassembles: 278132
+  disavows: 247126
+not_scored_words:
+- disabuses
+- disaccords
+- disaffects
+- disaffiliates
+- disafforests
+- disagreeableness
+- disarranges
+- disarrays
+- disarticulates
+- disassemblies
+- disassociates
+- disavowals

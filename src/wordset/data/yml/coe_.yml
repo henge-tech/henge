@@ -1,0 +1,66 @@
+---
+pattern: coe_
+hi_scored_words_count: 15
+scored_words_count: 14
+total_words: 56
+score: 3467574
+score_per_word: 119571
+hi_scored_words:
+  coed: 21560
+  coeds: 56624
+  coeducational: 69450
+  coefficient: 17058
+  coefficients: 10159
+  coenzyme: 38860
+  coerce: 39332
+  coerced: 38311
+  coercing: 76450
+  coercion: 21619
+  coercive: 35143
+  coexist: 39281
+  coexistence: 31085
+  coexisting: 69556
+  coextensive: 88706
+scored_words:
+  coeducation: 196584
+  coelacanth: 150203
+  coelenterate: 295987
+  coenzymes: 152248
+  coequal: 250453
+  coercer: 296266
+  coerces: 170376
+  coercions: 306984
+  coeval: 127376
+  coevolution: 109522
+  coevolutionary: 268650
+  coexisted: 136786
+  coexistent: 202349
+  coexists: 150596
+not_scored_words:
+- coeducationally
+- coelacanths
+- coelentera
+- coelenterates
+- coelenteron
+- coelostat
+- coelostats
+- coenocyte
+- coenosarc
+- coenurus
+- coequality
+- coequally
+- coequals
+- coercers
+- coercible
+- coessential
+- coetaneous
+- coeternal
+- coeternally
+- coeternity
+- coevality
+- coevally
+- coevals
+- coevolve
+- coexecutor
+- coextend
+- coextensively

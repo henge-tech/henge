@@ -1,0 +1,29 @@
+---
+pattern: tur_e
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 1085387
+score_per_word: 77527
+hi_scored_words:
+  turbine: 21525
+  turbulence: 18658
+  turnbuckle: 99610
+  turnpike: 19625
+  turnstile: 73666
+  turntable: 24182
+  turpentine: 48708
+  turpitude: 74719
+  turquoise: 16961
+  turtle: 8208
+  turtledove: 94528
+scored_words:
+  turbinate: 164838
+  turbocharge: 313268
+  turnstone: 106891
+not_scored_words:
+- Turenne
+- turdine
+- turgescence
+- turgite
+- turnsole

@@ -1,0 +1,26 @@
+---
+pattern: tu_ng
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 874962
+score_per_word: 79542
+hi_scored_words:
+  tubing: 21639
+  tucking: 65536
+  tugging: 50905
+  tumbling: 24722
+  tuning: 11474
+  tunneling: 26851
+  turning: 2118
+  tutoring: 14002
+scored_words:
+  tufting: 241826
+  turbocharging: 203693
+  turfing: 212196
+not_scored_words:
+- Tungting
+- Turing
+- tuckering
+- tussling
+- tutting

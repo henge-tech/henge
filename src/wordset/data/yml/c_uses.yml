@@ -1,0 +1,49 @@
+---
+pattern: c_uses
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 39
+score: 1642852
+score_per_word: 96638
+hi_scored_words:
+  calluses: 72266
+  campuses: 11427
+  caucuses: 52730
+  causes: 1988
+  censuses: 39903
+  choruses: 44803
+  circuses: 63915
+  clauses: 11525
+  coffeehouses: 90216
+  confuses: 41542
+  courthouses: 62551
+scored_words:
+  callouses: 266568
+  cayuses: 269625
+  clearinghouses: 132960
+  clubhouses: 101119
+  crocuses: 133833
+  cruses: 245881
+not_scored_words:
+- calamuses
+- carouses
+- cathouses
+- ceratoduses
+- chanteuses
+- chiasmuses
+- chophouses
+- choraguses
+- circumfuses
+- citruses
+- clonuses
+- clypeuses
+- coiffeuses
+- coleuses
+- colobuses
+- consensuses
+- conspectuses
+- contuses
+- convolvuluses
+- cookhouses
+- countinghouses
+- customhouses

@@ -1,0 +1,79 @@
+---
+pattern: hy_e
+hi_scored_words_count: 24
+scored_words_count: 14
+total_words: 69
+score: 3584137
+score_per_word: 94319
+hi_scored_words:
+  hyaline: 73547
+  hydrate: 38276
+  hydrazine: 69992
+  hydride: 43293
+  hydrochloride: 25702
+  hydrocortisone: 48647
+  hydroquinone: 94322
+  hydroxide: 31368
+  hygiene: 12606
+  hype: 14208
+  hyperactive: 41344
+  hyperbole: 38712
+  hypercube: 77639
+  hyperfine: 83733
+  hyperplane: 85127
+  hypersensitive: 62846
+  hyperspace: 47141
+  hypertensive: 38225
+  hyphae: 81204
+  hypnotize: 38644
+  hypochlorite: 59915
+  hypocrite: 27322
+  hypotenuse: 97038
+  hypothesize: 54064
+scored_words:
+  hyaluronidase: 147411
+  hybridize: 131535
+  hydrocele: 178932
+  hydrolyze: 162277
+  hydrophone: 110268
+  hydroplane: 125353
+  hydrosphere: 130205
+  hydroxylamine: 120277
+  hyoscine: 267033
+  hyoscyamine: 137455
+  hyperventilate: 219113
+  hyphenate: 108975
+  hypothecate: 331028
+  hypoxanthine: 129360
+not_scored_words:
+- Hyde
+- hyalite
+- hydnocarpate
+- hydrastine
+- hydrastinine
+- hydratable
+- hydrocellulose
+- hydrogenate
+- hydrogenize
+- hydrolyte
+- hydrolyzate
+- hydrophane
+- hydrophyte
+- hydroscope
+- hydrosome
+- hygroscope
+- hypallage
+- hyperbolize
+- hypersensitize
+- hypersthene
+- hypnotizable
+- hypogene
+- hyponitrite
+- hypophosphate
+- hypophosphite
+- hypophyge
+- hyposensitize
+- hypostasize
+- hypostatize
+- hypostyle
+- hysterectomize

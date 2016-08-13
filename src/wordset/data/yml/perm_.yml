@@ -1,0 +1,60 @@
+---
+pattern: perm_
+hi_scored_words_count: 25
+scored_words_count: 12
+total_words: 50
+score: 3242011
+score_per_word: 87621
+hi_scored_words:
+  perm: 25132
+  permafrost: 52274
+  permanence: 31774
+  permanency: 53321
+  permanent: 1961
+  permanently: 7298
+  permanganate: 75040
+  permeability: 22765
+  permeable: 33826
+  permeate: 48773
+  permeated: 53311
+  permeates: 57546
+  permeation: 67938
+  permissible: 16597
+  permission: 1355
+  permissions: 8862
+  permissive: 37967
+  permit: 2339
+  permits: 5770
+  permitted: 2715
+  permitting: 11934
+  permittivity: 86884
+  perms: 73803
+  permutation: 31479
+  permutations: 36495
+scored_words:
+  permalloy: 277925
+  permanents: 146615
+  permeating: 102597
+  permed: 149910
+  perming: 231871
+  permissibility: 177226
+  permissibly: 316146
+  permissiveness: 146606
+  permute: 130770
+  permuted: 142990
+  permutes: 317632
+  permuting: 254564
+not_scored_words:
+- Perm
+- Permalloy
+- Permian
+- permanganates
+- permatron
+- permeance
+- permeative
+- permissibilities
+- permissibleness
+- permissively
+- permitee
+- permitter
+- permutational

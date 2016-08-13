@@ -1,0 +1,53 @@
+---
+pattern: s_x
+hi_scored_words_count: 14
+scored_words_count: 12
+total_words: 43
+score: 2694822
+score_per_word: 103647
+hi_scored_words:
+  sandbox: 20719
+  sax: 23394
+  sex: 776
+  shoebox: 38349
+  simplex: 21651
+  six: 560
+  smallpox: 19729
+  snuffbox: 86023
+  soapbox: 33732
+  spandex: 23806
+  sphinx: 21642
+  suffix: 18951
+  surtax: 93786
+  syntax: 9735
+scored_words:
+  saltbox: 214862
+  sardonyx: 228924
+  separatrix: 234551
+  shadowbox: 172538
+  smilax: 129037
+  spadix: 284610
+  spinifex: 147230
+  squeezebox: 124549
+  strongbox: 186848
+  styrax: 210968
+  subindex: 213783
+  syrinx: 134069
+not_scored_words:
+- Sax
+- Semtex
+- Sfax
+- Sioux
+- Sphinx
+- Spinx
+- Styx
+- Sussex
+- salpinx
+- scolex
+- sneakbox
+- storax
+- subclimax
+- subcortex
+- superfix
+- supertax
+- sweatbox

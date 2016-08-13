@@ -1,0 +1,29 @@
+---
+pattern: ma_ls
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 19
+score: 1447064
+score_per_word: 90441
+hi_scored_words:
+  madrigals: 99194
+  mails: 10703
+  malls: 15465
+  mammals: 11323
+  mantels: 91492
+  manuals: 13384
+  marshals: 32657
+  marsupials: 87119
+  marvels: 38102
+  materials: 1160
+scored_words:
+  mandrels: 174510
+  marcels: 204924
+  marginals: 115658
+  marls: 237496
+  mauls: 150320
+  maxwells: 163557
+not_scored_words:
+- mackerels
+- mainsails
+- mandrills

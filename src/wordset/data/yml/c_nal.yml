@@ -1,0 +1,57 @@
+---
+pattern: c_nal
+hi_scored_words_count: 25
+scored_words_count: 6
+total_words: 47
+score: 1964705
+score_per_word: 63377
+hi_scored_words:
+  canal: 4820
+  cantonal: 76474
+  cardinal: 5960
+  carnal: 26854
+  cerebrospinal: 41014
+  clonal: 52824
+  coeducational: 69450
+  collisional: 87284
+  communal: 14965
+  compositional: 34369
+  computational: 12491
+  concessional: 84794
+  conditional: 11770
+  confessional: 21910
+  conformational: 40175
+  confrontational: 44130
+  congregational: 24525
+  congressional: 7109
+  constitutional: 4015
+  constructional: 90260
+  conventional: 4153
+  conversational: 25212
+  coronal: 39461
+  correctional: 15101
+  criminal: 1984
+scored_words:
+  coalitional: 274962
+  communicational: 221214
+  compressional: 118164
+  conceptional: 270729
+  configurational: 134076
+  correlational: 104456
+not_scored_words:
+- Congregational
+- Congressional
+- cacuminal
+- cataclinal
+- centroclinal
+- coeternal
+- cognitional
+- complexional
+- confutational
+- conjugational
+- conjunctional
+- connotational
+- conservational
+- consuetudinal
+- convectional
+- convocational

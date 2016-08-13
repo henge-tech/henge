@@ -1,0 +1,40 @@
+---
+pattern: _oll
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 30
+score: 1926760
+score_per_word: 77070
+hi_scored_words:
+  atoll: 29116
+  bankroll: 34142
+  boll: 36273
+  coll: 15556
+  doll: 5298
+  droll: 45843
+  enroll: 18557
+  foll: 75458
+  knoll: 23172
+  loll: 90038
+  moll: 34828
+  payroll: 10022
+  poll: 6524
+  roll: 1960
+  scroll: 7824
+  stroll: 14023
+  toll: 5299
+  troll: 19223
+  unroll: 71477
+scored_words:
+  bedroll: 235677
+  blackpoll: 314582
+  jellyroll: 227478
+  plimsoll: 197247
+  redpoll: 146838
+  steamroll: 260305
+not_scored_words:
+- Carroll
+- Moll
+- beadroll
+- enscroll
+- logroll

@@ -1,0 +1,83 @@
+---
+pattern: bot_
+hi_scored_words_count: 30
+scored_words_count: 15
+total_words: 73
+score: 3627554
+score_per_word: 80612
+hi_scored_words:
+  bot: 8324
+  botanic: 32539
+  botanical: 12577
+  botanicals: 64430
+  botanist: 39255
+  botanists: 69540
+  botany: 16103
+  botch: 72734
+  botched: 44146
+  both: 169
+  bother: 6047
+  bothered: 11290
+  bothering: 24604
+  bothers: 28214
+  bothersome: 40913
+  botnet: 82409
+  bots: 17104
+  bott: 45409
+  bottle: 2556
+  bottled: 17060
+  bottleneck: 28190
+  bottlenecks: 37159
+  bottles: 4956
+  bottling: 28108
+  bottom: 1152
+  bottomed: 49209
+  bottomless: 37542
+  bottoms: 15775
+  botulinum: 54745
+  botulism: 64327
+scored_words:
+  botanically: 163899
+  botcher: 318840
+  botches: 270842
+  botching: 238028
+  botel: 115244
+  botfly: 109250
+  botheration: 148826
+  bothy: 117691
+  botnets: 164329
+  bottler: 127471
+  bottlers: 104124
+  bottoming: 108820
+  bottomland: 116907
+  bottomlands: 245519
+  bottommost: 321178
+not_scored_words:
+- Botha
+- Bothnia
+- Bothwell
+- Botox
+- Botswana
+- Botticelli
+- Bottrop
+- Botvinnik
+- botanize
+- botanized
+- botanizes
+- botanizing
+- botanomancy
+- botchers
+- botchier
+- botchiest
+- botchily
+- botchy
+- botflies
+- botherations
+- botryoidal
+- bottleful
+- bottlefuls
+- bottomry
+- botulin
+- botulins
+- botulinus
+- botulinuses

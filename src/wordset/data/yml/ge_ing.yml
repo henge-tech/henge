@@ -1,0 +1,30 @@
+---
+pattern: ge_ing
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 893303
+score_per_word: 74441
+hi_scored_words:
+  gearing: 31108
+  gelding: 43578
+  generalizing: 57877
+  generating: 10274
+  geocaching: 43650
+  germinating: 84181
+  gerrymandering: 80510
+  gesturing: 72430
+  getting: 473
+scored_words:
+  gelling: 101107
+  gestating: 231367
+  gesticulating: 136748
+not_scored_words:
+- geeing
+- gelatinizing
+- geminating
+- genning
+- gentling
+- gentrifying
+- genuflecting
+- geoengineering

@@ -1,0 +1,22 @@
+---
+pattern: app_t
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 586235
+score_per_word: 53294
+hi_scored_words:
+  apparent: 3584
+  appeasement: 55258
+  appellant: 22281
+  applet: 15763
+  applicant: 8073
+  appoint: 9045
+  appointment: 3032
+  apportionment: 35278
+scored_words:
+  applecart: 132040
+  appraisement: 174553
+  appurtenant: 127328
+not_scored_words:
+- appendant

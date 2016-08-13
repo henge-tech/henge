@@ -1,0 +1,56 @@
+---
+pattern: com_ly
+hi_scored_words_count: 16
+scored_words_count: 12
+total_words: 46
+score: 3183003
+score_per_word: 113678
+hi_scored_words:
+  comely: 51711
+  comfortably: 10291
+  comically: 71684
+  commercially: 16337
+  commonly: 3253
+  compactly: 80017
+  comparably: 75026
+  comparatively: 12919
+  competently: 57279
+  competitively: 27433
+  completely: 1353
+  comply: 3691
+  comprehensively: 42853
+  compulsively: 92671
+  compulsorily: 90088
+  computationally: 44240
+scored_words:
+  comfortingly: 254160
+  commendably: 216944
+  commensurately: 222122
+  commodiously: 305760
+  communally: 119264
+  communicatively: 324475
+  compassionately: 109294
+  compatibly: 263887
+  compellingly: 131672
+  complacently: 135198
+  complexly: 186327
+  composedly: 233054
+not_scored_words:
+- combatively
+- combustibly
+- commandingly
+- commensurably
+- communicably
+- communistically
+- companionably
+- compendiously
+- complainingly
+- complaisantly
+- complementarily
+- compliantly
+- complicatedly
+- complimentarily
+- compositely
+- comprehensibly
+- compunctiously
+- comradely

@@ -1,0 +1,36 @@
+---
+pattern: perv_
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 26
+score: 1540444
+score_per_word: 77022
+hi_scored_words:
+  perv: 66113
+  pervade: 64821
+  pervaded: 67786
+  pervades: 50938
+  pervading: 65263
+  pervasive: 21554
+  pervasiveness: 88751
+  perverse: 21367
+  perversely: 86500
+  perversion: 33733
+  perversions: 69406
+  perversity: 71001
+  pervert: 25944
+  perverted: 20769
+  perverts: 45431
+  pervious: 99388
+scored_words:
+  pervasively: 158904
+  perverseness: 207546
+  perverting: 136072
+  pervs: 139157
+not_scored_words:
+- pervasion
+- pervasions
+- perverter
+- perviously
+- perviousness
+- perviousnesses

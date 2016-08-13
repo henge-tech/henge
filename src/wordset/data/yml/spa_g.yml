@@ -1,0 +1,28 @@
+---
+pattern: spa_g
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1054209
+score_per_word: 75300
+hi_scored_words:
+  spacing: 12193
+  spamming: 19235
+  spanking: 17544
+  spanning: 19257
+  sparing: 35864
+  sparking: 39622
+  sparkling: 10295
+  sparring: 40334
+  spawning: 28688
+scored_words:
+  spading: 262555
+  spang: 162253
+  sparling: 117773
+  spattering: 185691
+  spaying: 102905
+not_scored_words:
+- spacewalking
+- spanging
+- spangling
+- spatting

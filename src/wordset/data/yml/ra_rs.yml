@@ -1,0 +1,49 @@
+---
+pattern: ra_rs
+hi_scored_words_count: 16
+scored_words_count: 12
+total_words: 39
+score: 2748490
+score_per_word: 98160
+hi_scored_words:
+  racers: 27116
+  radars: 33827
+  radiators: 25534
+  rafters: 37056
+  raiders: 14429
+  raisers: 47943
+  ramblers: 45154
+  ranchers: 39801
+  rangers: 10288
+  rappers: 30277
+  raptors: 22815
+  ratepayers: 57958
+  raters: 63121
+  rattlers: 54768
+  ravers: 88522
+  razors: 36775
+scored_words:
+  racketeers: 149172
+  raconteurs: 281401
+  radiographers: 147783
+  radiometers: 162492
+  railroaders: 166867
+  rainmakers: 153918
+  rangefinders: 104424
+  ranters: 241418
+  rapiers: 150591
+  rapporteurs: 132360
+  rashers: 247072
+  rasters: 175608
+not_scored_words:
+- Randers
+- racegoers
+- rammers
+- ransomers
+- rapers
+- rathskellers
+- ratifiers
+- ratiocinators
+- ratters
+- ravagers
+- ravishers

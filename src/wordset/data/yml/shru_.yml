@@ -1,0 +1,24 @@
+---
+pattern: shru_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 680616
+score_per_word: 61874
+hi_scored_words:
+  shrub: 16653
+  shrubbery: 57934
+  shrubs: 19405
+  shrug: 21658
+  shrugged: 17590
+  shrugging: 74999
+  shrugs: 36415
+  shrunk: 23363
+  shrunken: 49767
+scored_words:
+  shrubberies: 261468
+  shrubby: 101364
+not_scored_words:
+- shrubbier
+- shrubbiest
+- shrubbiness

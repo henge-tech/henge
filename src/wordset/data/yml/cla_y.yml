@@ -1,0 +1,31 @@
+---
+pattern: cla_y
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 21
+score: 809141
+score_per_word: 67428
+hi_scored_words:
+  clammy: 62311
+  clandestinely: 88031
+  clarify: 16614
+  clarity: 12109
+  clary: 52806
+  classically: 35756
+  classify: 17524
+  classy: 15767
+  clay: 3549
+  clayey: 59025
+scored_words:
+  clamorously: 272640
+  classificatory: 173009
+not_scored_words:
+- Clancy
+- Clay
+- clamantly
+- clammily
+- clandestinity
+- clangorously
+- clannishly
+- classicality
+- classily

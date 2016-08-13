@@ -1,0 +1,37 @@
+---
+pattern: _loth
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 27
+score: 1811855
+score_per_word: 120790
+hi_scored_words:
+  broadcloth: 78316
+  cheesecloth: 84022
+  cloth: 3821
+  oilcloth: 98528
+  sackcloth: 91953
+  sloth: 27252
+  tablecloth: 31786
+  washcloth: 60366
+scored_words:
+  backcloth: 171340
+  dishcloth: 154897
+  loincloth: 111308
+  neckcloth: 197589
+  sailcloth: 195157
+  terrycloth: 176808
+  waistcloth: 328712
+not_scored_words:
+- breechcloth
+- cerecloth
+- challoth
+- dustcloth
+- facecloth
+- footcloth
+- groundcloth
+- haircloth
+- headcloth
+- longcloth
+- saddlecloth
+- teacloth

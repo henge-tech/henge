@@ -1,0 +1,42 @@
+---
+pattern: _bel
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 32
+score: 1477671
+score_per_word: 98511
+hi_scored_words:
+  babel: 22906
+  barbel: 89027
+  bel: 13731
+  decibel: 56816
+  jebel: 73409
+  jezebel: 48927
+  label: 4813
+  libel: 20746
+  rebel: 5644
+  rubel: 83716
+scored_words:
+  cascabel: 257434
+  corbel: 128634
+  djebel: 252718
+  relabel: 204840
+  umbel: 214310
+not_scored_words:
+- Abel
+- Anabel
+- Annabel
+- Babel
+- Bebel
+- Bel
+- Froebel
+- Gumbel
+- Hebbel
+- Isabel
+- Jezebel
+- Mabel
+- Maribel
+- Nobel
+- Schnabel
+- dowsabel
+- mislabel

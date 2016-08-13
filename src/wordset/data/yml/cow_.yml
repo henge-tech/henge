@@ -1,0 +1,83 @@
+---
+pattern: cow_
+hi_scored_words_count: 23
+scored_words_count: 20
+total_words: 73
+score: 4652288
+score_per_word: 108192
+hi_scored_words:
+  cow: 4597
+  coward: 13554
+  cowardice: 30176
+  cowardly: 23740
+  cowards: 34654
+  cowbell: 46973
+  cowbird: 93365
+  cowboy: 8384
+  cowboys: 10538
+  cowed: 68501
+  cower: 70541
+  cowering: 78182
+  cowgirl: 30694
+  cowgirls: 60678
+  cowherd: 94505
+  cowhide: 65738
+  cowl: 38233
+  cowlick: 91289
+  cowling: 59590
+  coworker: 39044
+  coworkers: 25964
+  cowpea: 89705
+  cows: 7380
+scored_words:
+  cowbells: 151824
+  cowbirds: 182269
+  cowcatcher: 221582
+  cowered: 121255
+  cowers: 218974
+  cowhand: 226412
+  cowing: 267666
+  cowled: 100463
+  cowls: 166426
+  cowman: 107646
+  cowpeas: 182660
+  cowpoke: 167212
+  cowpokes: 264326
+  cowpox: 167206
+  cowrie: 129805
+  cowries: 155694
+  cowshed: 185437
+  cowskin: 291810
+  cowslip: 110528
+  cowslips: 147068
+not_scored_words:
+- Coward
+- Cowell
+- Cowes
+- Cowley
+- Cowpens
+- Cowper
+- cowage
+- cowages
+- cowardliness
+- cowbane
+- cowberries
+- cowberry
+- cowbind
+- cowcatchers
+- cowfish
+- cowhands
+- cowherb
+- cowherbs
+- cowherds
+- cowhides
+- cowitch
+- cowlicks
+- cowlings
+- cowmen
+- cowpat
+- cowpats
+- cowpuncher
+- cowpunchers
+- cowsheds
+- cowskins

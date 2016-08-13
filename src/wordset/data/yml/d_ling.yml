@@ -1,0 +1,66 @@
+---
+pattern: d_ling
+hi_scored_words_count: 23
+scored_words_count: 16
+total_words: 56
+score: 3410903
+score_per_word: 87459
+hi_scored_words:
+  dabbling: 71285
+  dangling: 19509
+  darling: 6907
+  dazzling: 14384
+  dealing: 2929
+  decoupling: 52146
+  detailing: 15180
+  dialing: 19145
+  disabling: 25244
+  disassembling: 98518
+  dismantling: 28920
+  dispelling: 71906
+  distilling: 60224
+  doodling: 93679
+  doubling: 17537
+  dribbling: 48056
+  drilling: 10437
+  drooling: 38654
+  duckling: 47900
+  dueling: 40848
+  dumpling: 55702
+  dwelling: 6770
+  dwindling: 38560
+scored_words:
+  darkling: 104265
+  dawdling: 171748
+  defiling: 136362
+  derailing: 124402
+  descaling: 248973
+  despoiling: 153376
+  diddling: 210933
+  dimpling: 212236
+  disentangling: 143067
+  dissembling: 138455
+  doling: 112500
+  dolling: 130508
+  dovetailing: 200637
+  drawling: 196206
+  drizzling: 110165
+  dulling: 132630
+not_scored_words:
+- Darjeeling
+- Darling
+- dandling
+- dappling
+- decontrolling
+- deskilling
+- deviling
+- dibbling
+- dieseling
+- disemboweling
+- disembroiling
+- disenabling
+- disgruntling
+- disheveling
+- domiciling
+- doweling
+- driveling

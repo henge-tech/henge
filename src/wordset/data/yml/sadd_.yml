@@ -1,0 +1,35 @@
+---
+pattern: sadd_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 25
+score: 1135973
+score_per_word: 70998
+hi_scored_words:
+  saddened: 27887
+  saddens: 79400
+  sadder: 58160
+  saddest: 37369
+  saddle: 6680
+  saddleback: 66859
+  saddlebag: 75398
+  saddlebags: 73122
+  saddled: 36819
+  saddler: 73236
+  saddlery: 71371
+  saddles: 20388
+scored_words:
+  sadden: 122074
+  saddening: 118125
+  saddlers: 124941
+  saddling: 144144
+not_scored_words:
+- Saddam
+- Sadducean
+- Sadducee
+- saddlebacks
+- saddlebow
+- saddlebows
+- saddlecloth
+- saddleries
+- saddletree

@@ -1,0 +1,38 @@
+---
+pattern: to_rs
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 28
+score: 1509703
+score_per_word: 94356
+hi_scored_words:
+  toasters: 36188
+  toastmasters: 55961
+  toddlers: 14489
+  toners: 57926
+  toppers: 38926
+  tors: 41050
+  torturers: 91320
+  tours: 4558
+  towers: 5261
+scored_words:
+  toilers: 164942
+  toolmakers: 179301
+  torchbearers: 203709
+  tormentors: 102042
+  tossers: 109317
+  totters: 241306
+  tourers: 163407
+not_scored_words:
+- Tours
+- tobogganers
+- tooters
+- topers
+- topographers
+- toreadors
+- torrs
+- totalizators
+- totalizers
+- totterers
+- touchpapers
+- tougheners

@@ -1,0 +1,40 @@
+---
+pattern: _ict
+hi_scored_words_count: 22
+scored_words_count: 2
+total_words: 30
+score: 1221031
+score_per_word: 50876
+hi_scored_words:
+  addict: 14190
+  afflict: 51131
+  benedict: 12817
+  conflict: 2276
+  constrict: 80074
+  contradict: 18233
+  convict: 18316
+  depict: 17631
+  derelict: 33379
+  dict: 39212
+  district: 975
+  edict: 29377
+  evict: 47787
+  indict: 59305
+  inflict: 21785
+  interdict: 70436
+  predict: 8598
+  relict: 74858
+  restrict: 10753
+  strict: 4465
+  subdistrict: 70798
+  verdict: 8573
+scored_words:
+  delict: 195191
+  redistrict: 330871
+not_scored_words:
+- Benedict
+- Pict
+- apomict
+- astrict
+- maledict
+- overstrict

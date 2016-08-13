@@ -1,0 +1,43 @@
+---
+pattern: endo_s
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 33
+score: 1316689
+score_per_word: 87779
+hi_scored_words:
+  endocarditis: 49326
+  endogamous: 68308
+  endogenous: 20755
+  endometriosis: 34577
+  endorphins: 63595
+  endorsements: 22824
+  endorsers: 82308
+  endorses: 25354
+  endowments: 29858
+scored_words:
+  endocrinologists: 116335
+  endodontics: 104298
+  endodontists: 164241
+  endomorphisms: 268242
+  endoscopes: 151697
+  endows: 114971
+not_scored_words:
+- endoblasts
+- endocarditises
+- endocardiums
+- endocrines
+- endodermis
+- endoderms
+- endogamies
+- endometrioses
+- endometriums
+- endomorphies
+- endomorphs
+- endoparasites
+- endoplasms
+- endoskeletons
+- endosmosis
+- endosperms
+- endospores
+- endostosis

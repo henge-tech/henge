@@ -1,0 +1,29 @@
+---
+pattern: gno_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 19
+score: 736643
+score_per_word: 73664
+hi_scored_words:
+  gnocchi: 77431
+  gnome: 15448
+  gnomes: 44821
+  gnomic: 87460
+  gnomon: 87442
+  gnosis: 58519
+  gnostic: 36252
+  gnosticism: 58546
+  gnostics: 89638
+scored_words:
+  gnomish: 181086
+not_scored_words:
+- Gnostic
+- Gnosticism
+- Gnosticisms
+- Gnosticize
+- gnomically
+- gnomonic
+- gnomons
+- gnoses
+- gnotobiotics

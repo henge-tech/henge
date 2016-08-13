@@ -1,0 +1,31 @@
+---
+pattern: c_ture
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 21
+score: 1125175
+score_per_word: 80369
+hi_scored_words:
+  candidature: 62653
+  capture: 3087
+  caricature: 23739
+  cloture: 59491
+  conjecture: 15027
+  contracture: 84306
+  counterculture: 61676
+  couture: 17976
+  creature: 4798
+  culture: 1439
+  curvature: 19869
+scored_words:
+  confiture: 314116
+  conjuncture: 122424
+  countersignature: 334574
+not_scored_words:
+- calenture
+- cincture
+- citriculture
+- commixture
+- contexture
+- coverture
+- cubature

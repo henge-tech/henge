@@ -1,0 +1,23 @@
+---
+pattern: d_hed
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 13
+score: 717613
+score_per_word: 59801
+hi_scored_words:
+  dashed: 12556
+  demolished: 16965
+  detached: 8131
+  diminished: 10877
+  dished: 63280
+  dispatched: 6899
+  distinguished: 3818
+  ditched: 50795
+  drenched: 25697
+scored_words:
+  debauched: 108676
+  debouched: 215683
+  disestablished: 194236
+not_scored_words:
+- douched

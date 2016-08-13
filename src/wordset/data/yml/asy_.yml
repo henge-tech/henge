@@ -1,0 +1,31 @@
+---
+pattern: asy_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 21
+score: 826588
+score_per_word: 59042
+hi_scored_words:
+  asylum: 7577
+  asylums: 78773
+  asymmetric: 22488
+  asymmetrical: 30232
+  asymmetries: 57286
+  asymmetry: 26032
+  asymptomatic: 31945
+  asymptote: 93548
+  asymptotic: 27981
+  asymptotically: 51011
+  asynchronous: 20738
+  asynchronously: 79496
+scored_words:
+  asymmetrically: 122393
+  asymptotes: 177088
+not_scored_words:
+- Asyut
+- asyllabic
+- asymptomatically
+- asymptotical
+- asynchronism
+- asynchronisms
+- asyndeton

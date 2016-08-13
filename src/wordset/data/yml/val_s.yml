@@ -1,0 +1,49 @@
+---
+pattern: val_s
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 39
+score: 1903220
+score_per_word: 100169
+hi_scored_words:
+  valentines: 9531
+  vales: 86907
+  validates: 41288
+  valleys: 12240
+  valuables: 27846
+  valuations: 22682
+  valueless: 73634
+  valuers: 65559
+  values: 5030
+  valves: 10615
+scored_words:
+  valances: 125186
+  valedictorians: 321653
+  valences: 213819
+  valets: 102017
+  valgus: 118019
+  validations: 104205
+  valises: 145497
+  valorous: 130914
+  valses: 286578
+not_scored_words:
+- Valais
+- Valencias
+- Valenciennes
+- Valiums
+- Valkyries
+- Valois
+- valedictions
+- valedictories
+- valencies
+- valerianaceous
+- valerians
+- valetudinarians
+- valiancies
+- validness
+- valines
+- valuates
+- valuators
+- valveless
+- valvulitis
+- valvulitises

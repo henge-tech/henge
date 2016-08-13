@@ -1,0 +1,46 @@
+---
+pattern: m_ling
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 36
+score: 2675608
+score_per_word: 107024
+hi_scored_words:
+  mailing: 7043
+  mangling: 91253
+  marbling: 95321
+  mauling: 86472
+  meddling: 34210
+  middling: 56824
+  milling: 21260
+  mingling: 32400
+  mishandling: 77128
+  misspelling: 52456
+  modeling: 14262
+  motorcycling: 47506
+  mottling: 99339
+  mulling: 59660
+  mumbling: 47939
+scored_words:
+  manhandling: 230115
+  mantling: 244965
+  marshaling: 105826
+  marveling: 113906
+  mewling: 232393
+  mislabeling: 271461
+  muddling: 131345
+  muffling: 148768
+  muscling: 167268
+  muzzling: 206488
+not_scored_words:
+- Memling
+- manacling
+- marcelling
+- miscalling
+- misdealing
+- misfiling
+- misruling
+- mizzling
+- moiling
+- mollycoddling
+- mothballing

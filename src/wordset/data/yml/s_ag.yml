@@ -1,0 +1,29 @@
+---
+pattern: s_ag
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 778632
+score_per_word: 64886
+hi_scored_words:
+  saddlebag: 75398
+  sag: 22516
+  sandbag: 79073
+  scumbag: 61915
+  shag: 32730
+  slag: 26660
+  snag: 30710
+  stag: 13540
+  swag: 26056
+scored_words:
+  scag: 110508
+  scallywag: 195694
+  stalag: 103832
+not_scored_words:
+- Sontag
+- Stalag
+- scalawag
+- schoolbag
+- scrag
+- sleazebag
+- sprag

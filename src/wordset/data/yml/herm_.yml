@@ -1,0 +1,41 @@
+---
+pattern: herm_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 31
+score: 1191350
+score_per_word: 85096
+hi_scored_words:
+  herm: 53995
+  hermaphrodite: 44875
+  hermaphrodites: 75201
+  hermeneutic: 80351
+  hermeneutics: 47189
+  hermetic: 46089
+  hermetically: 71736
+  hermit: 19686
+  hermitage: 22220
+  hermits: 62204
+scored_words:
+  hermaphroditic: 154522
+  hermaphroditism: 167276
+  hermeneutical: 111012
+  hermeticism: 234994
+not_scored_words:
+- Herman
+- Hermann
+- Hermaphroditus
+- Hermes
+- Hermetic
+- Hermine
+- Herminia
+- Hermitage
+- Hermite
+- Hermon
+- Hermosillo
+- hermaphroditical
+- hermaphroditisms
+- hermeneutically
+- hermetical
+- hermitages
+- hermitic

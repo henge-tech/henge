@@ -1,0 +1,45 @@
+---
+pattern: _ool
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 35
+score: 1402043
+score_per_word: 56081
+hi_scored_words:
+  afterschool: 53407
+  carpool: 40813
+  cesspool: 60560
+  cool: 1061
+  drool: 32071
+  fool: 3636
+  footstool: 51312
+  homeschool: 29516
+  pool: 2220
+  preschool: 14789
+  school: 221
+  spool: 26943
+  stool: 14028
+  supercool: 71251
+  toadstool: 81959
+  tool: 2875
+  uncool: 64837
+  whirlpool: 16670
+  wool: 5579
+  zool: 43467
+scored_words:
+  lambswool: 136760
+  linalool: 241707
+  playschool: 158886
+  retool: 132461
+  shool: 115014
+not_scored_words:
+- Blackpool
+- Liverpool
+- Whirlpool
+- befool
+- campstool
+- faldstool
+- overcool
+- precool
+- tomfool
+- undercool

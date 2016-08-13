@@ -1,0 +1,81 @@
+---
+pattern: s_ze
+hi_scored_words_count: 21
+scored_words_count: 14
+total_words: 71
+score: 3481305
+score_per_word: 99465
+hi_scored_words:
+  sanitize: 76839
+  scrutinize: 45570
+  seize: 10178
+  serialize: 69113
+  size: 554
+  sleaze: 51298
+  sneeze: 32816
+  snooze: 30393
+  socialize: 35372
+  specialize: 14436
+  squeeze: 9754
+  stabilize: 21060
+  standardize: 38540
+  sterilize: 61905
+  subsidize: 35970
+  summarize: 22386
+  supersize: 63641
+  symbolize: 40846
+  sympathize: 38762
+  synchronize: 26742
+  synthesize: 31705
+scored_words:
+  satirize: 204679
+  scandalize: 107252
+  schmooze: 125305
+  sensationalize: 253807
+  sensitize: 102516
+  signalize: 193634
+  sodomize: 260102
+  solarize: 242359
+  solemnize: 236909
+  solubilize: 292563
+  stargaze: 131019
+  stigmatize: 105862
+  stylize: 314591
+  systematize: 152827
+not_scored_words:
+- Shevardnadze
+- Sovietize
+- sacramentalize
+- salinize
+- schematize
+- sectarianize
+- sectionalize
+- secularize
+- segmentalize
+- sensualize
+- sentimentalize
+- sermonize
+- shamanize
+- shmooze
+- simonize
+- singularize
+- slenderize
+- smaze
+- soliloquize
+- sovietize
+- spiritualize
+- subminiaturize
+- subspecialize
+- substantialize
+- subtilize
+- suburbanize
+- sulfatize
+- sulfurize
+- syllabize
+- syllogize
+- symmetrize
+- symphonize
+- syncretize
+- synonymize
+- synopsize
+- systemize

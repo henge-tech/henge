@@ -1,0 +1,25 @@
+---
+pattern: puf_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 882587
+score_per_word: 73548
+hi_scored_words:
+  puff: 12911
+  puffed: 31311
+  puffer: 58545
+  puffin: 34267
+  puffing: 47556
+  puffins: 81602
+  puffs: 31527
+  puffy: 19117
+scored_words:
+  puffball: 110736
+  puffers: 162010
+  puffery: 177537
+  puffiness: 115468
+not_scored_words:
+- puffballs
+- puffier
+- puffiest

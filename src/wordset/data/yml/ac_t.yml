@@ -1,0 +1,56 @@
+---
+pattern: ac_t
+hi_scored_words_count: 19
+scored_words_count: 12
+total_words: 46
+score: 2816747
+score_per_word: 90862
+hi_scored_words:
+  accent: 5746
+  accept: 1175
+  accident: 2473
+  accompaniment: 15641
+  accompanist: 59736
+  accomplishment: 14348
+  account: 295
+  accountant: 13582
+  accredit: 81484
+  acct: 29282
+  achievement: 4344
+  acknowledgement: 18223
+  acknowledgment: 19173
+  acquaint: 33448
+  acquit: 60212
+  acrobat: 17176
+  act: 327
+  activist: 13229
+  acupuncturist: 86198
+scored_words:
+  accelerant: 243087
+  acceptant: 201612
+  accordant: 185540
+  accordionist: 119727
+  accost: 132447
+  accouchement: 164181
+  accoutrement: 245337
+  achromat: 242925
+  acpt: 288475
+  acquiescent: 169745
+  acquirement: 132238
+  acutest: 215341
+not_scored_words:
+- ACT
+- acaulescent
+- accommodationist
+- accompanyist
+- accouplement
+- accouterment
+- accrescent
+- accumbent
+- acerbest
+- acescent
+- achiest
+- acidulant
+- acidulent
+- acridest
+- acrodont

@@ -1,0 +1,23 @@
+---
+pattern: met_cal
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 514957
+score_per_word: 57217
+hi_scored_words:
+  metallurgical: 33041
+  metaphorical: 35317
+  metaphysical: 16320
+  meteorological: 19771
+  methodical: 33979
+  methodological: 18269
+  metical: 54231
+  metrical: 49152
+scored_words:
+  meteoritical: 254877
+not_scored_words:
+- Methodistical
+- metathetical
+- metonymical
+- metropolitical

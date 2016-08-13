@@ -1,0 +1,32 @@
+---
+pattern: sk_er
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 22
+score: 1482222
+score_per_word: 92638
+hi_scored_words:
+  skateboarder: 76887
+  skater: 19691
+  skeeter: 55172
+  skewer: 54668
+  skier: 26064
+  skimmer: 50281
+  skinner: 15604
+  skipper: 14107
+  skyscraper: 27933
+scored_words:
+  sketcher: 151613
+  skinnier: 143286
+  skirmisher: 143476
+  skitter: 128984
+  skydiver: 109933
+  skyjacker: 176142
+  skywriter: 288381
+not_scored_words:
+- Skinner
+- sketchier
+- skimpier
+- skiver
+- skulker
+- skysweeper

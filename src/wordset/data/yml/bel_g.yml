@@ -1,0 +1,25 @@
+---
+pattern: bel_g
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 1079433
+score_per_word: 98130
+hi_scored_words:
+  belching: 81138
+  believing: 8094
+  belittling: 88422
+  belling: 61964
+  bellowing: 77001
+  belong: 3518
+  belonging: 6002
+  belting: 49328
+scored_words:
+  belaboring: 313788
+  belaying: 165491
+  belying: 224687
+not_scored_words:
+- Belg
+- beleaguering
+- bellyaching
+- bellying

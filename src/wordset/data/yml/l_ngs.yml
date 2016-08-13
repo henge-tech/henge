@@ -1,0 +1,47 @@
+---
+pattern: l_ngs
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 37
+score: 1620335
+score_per_word: 77158
+hi_scored_words:
+  landings: 26331
+  lashings: 97300
+  leanings: 49109
+  leggings: 30521
+  lemmings: 51667
+  lettings: 47534
+  lightnings: 93620
+  linings: 45680
+  listings: 2455
+  loadings: 45561
+  lodgings: 20346
+  longings: 67018
+  longs: 26295
+  lungs: 8669
+scored_words:
+  lacewings: 190046
+  landholdings: 145114
+  leavings: 130669
+  likings: 203810
+  lings: 104857
+  livings: 109927
+  lynchings: 123806
+not_scored_words:
+- lacings
+- ladings
+- landownings
+- lappings
+- lapwings
+- latchstrings
+- lendings
+- lickings
+- lightenings
+- limitings
+- lingerings
+- livelongs
+- loathings
+- losings
+- lowerings
+- lutings

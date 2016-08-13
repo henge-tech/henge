@@ -1,0 +1,25 @@
+---
+pattern: inf_t
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 15
+score: 557230
+score_per_word: 46435
+hi_scored_words:
+  infant: 3885
+  infarct: 62956
+  infect: 18920
+  infest: 56952
+  inflict: 21785
+  inflight: 55279
+  influent: 68636
+  informant: 22969
+  infotainment: 67320
+  infrequent: 28905
+  infringement: 7513
+scored_words:
+  inflect: 142110
+not_scored_words:
+- inflationist
+- inflorescent
+- infract

@@ -1,0 +1,53 @@
+---
+pattern: w_on
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 43
+score: 950420
+score_per_word: 63361
+hi_scored_words:
+  wagon: 6156
+  wanton: 26354
+  watermelon: 26265
+  weapon: 3739
+  wellington: 6953
+  whereon: 71773
+  whereupon: 22385
+  whoreson: 91404
+  won: 1466
+  workstation: 15003
+scored_words:
+  weatherization: 122563
+  westernization: 136004
+  widgeon: 118726
+  wigeon: 111359
+  winterization: 190270
+not_scored_words:
+- Walloon
+- Walton
+- Warrington
+- Washington
+- Watson
+- Weldon
+- Wellington
+- Wesson
+- Weston
+- Wharton
+- Whittington
+- Wilkerson
+- Wilkinson
+- Williamson
+- Wilmington
+- Wilson
+- Wilton
+- Wimbledon
+- Winston
+- Winton
+- Wobegon
+- Wollaston
+- Wolverhampton
+- Wotton
+- waitperson
+- waitron
+- warison
+- weatherperson

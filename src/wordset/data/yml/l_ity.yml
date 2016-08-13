@@ -1,0 +1,42 @@
+---
+pattern: l_ity
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 32
+score: 1853264
+score_per_word: 84239
+hi_scored_words:
+  laity: 34177
+  laxity: 68681
+  legality: 23583
+  legibility: 70910
+  lethality: 59533
+  levity: 49896
+  liability: 2447
+  liberality: 70857
+  linearity: 34023
+  liquidity: 15557
+  locality: 11881
+  longevity: 19467
+  loquacity: 86359
+  lucidity: 63660
+  luminosity: 32897
+scored_words:
+  lability: 152892
+  laterality: 121598
+  lenity: 196165
+  likability: 296986
+  likeability: 199337
+  livability: 113217
+  lubricity: 129141
+not_scored_words:
+- Latinity
+- lachrymosity
+- laudability
+- limpidity
+- literality
+- lithotrity
+- lividity
+- logicality
+- longanimity
+- lovability

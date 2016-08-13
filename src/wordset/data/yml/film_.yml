@@ -1,0 +1,26 @@
+---
+pattern: film_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 16
+score: 373900
+score_per_word: 33990
+hi_scored_words:
+  film: 3015
+  filmed: 12837
+  filming: 11382
+  filmmaker: 17210
+  filmmakers: 17135
+  filmmaking: 24208
+  filmography: 9952
+  films: 6959
+  filmstrip: 55300
+  filmy: 44660
+scored_words:
+  filmstrips: 171242
+not_scored_words:
+- filmdom
+- filmier
+- filmiest
+- filmily
+- filminess

@@ -1,0 +1,31 @@
+---
+pattern: o_ine
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 945538
+score_per_word: 78794
+hi_scored_words:
+  offline: 8984
+  olivine: 53974
+  online: 679
+  opine: 79090
+  ornithine: 67580
+  outline: 4285
+  outshine: 94904
+  ovine: 77705
+scored_words:
+  opaline: 160150
+  organochlorine: 106486
+  overline: 140417
+  oxytetracycline: 151284
+not_scored_words:
+- oleomargarine
+- organzine
+- orpine
+- oscine
+- overdetermine
+- overincline
+- overrefine
+- overshine
+- oxazine

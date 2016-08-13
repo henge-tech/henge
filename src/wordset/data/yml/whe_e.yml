@@ -1,0 +1,22 @@
+---
+pattern: whe_e
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 540996
+score_per_word: 54099
+hi_scored_words:
+  whee: 45260
+  wheelbase: 37468
+  wheelhouse: 73133
+  wheelie: 54307
+  wheeze: 72157
+  whence: 13923
+  where: 102
+  wherefore: 20229
+  whetstone: 53428
+scored_words:
+  wheedle: 170989
+not_scored_words:
+- Wheatstone
+- wheelhorse

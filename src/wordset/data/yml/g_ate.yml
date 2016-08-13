@@ -1,0 +1,36 @@
+---
+pattern: g_ate
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 26
+score: 1326982
+score_per_word: 94784
+hi_scored_words:
+  gate: 2304
+  generate: 7801
+  geniculate: 86367
+  germinate: 58348
+  gesticulate: 96372
+  glutamate: 26122
+  graduate: 4611
+  grate: 23110
+  gravitate: 52433
+scored_words:
+  geminate: 238814
+  gestate: 258075
+  granulate: 161908
+  guesstimate: 147841
+  gyrate: 162876
+not_scored_words:
+- gelatinate
+- gemmate
+- glabrate
+- glaciate
+- gladiate
+- globate
+- glochidiate
+- glomerate
+- glycerinate
+- gradate
+- gratulate
+- guttate

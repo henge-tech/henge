@@ -1,0 +1,48 @@
+---
+pattern: f_ions
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 38
+score: 2310563
+score_per_word: 92422
+hi_scored_words:
+  fabrications: 52169
+  factions: 16878
+  fashions: 15791
+  federations: 35598
+  fermions: 61688
+  fictions: 40326
+  fluctuations: 13652
+  formations: 15233
+  formulations: 18835
+  fortifications: 36091
+  foundations: 5584
+  fractions: 17596
+  frictions: 86909
+  frustrations: 26587
+  functions: 2125
+  fusions: 64870
+scored_words:
+  factorizations: 175796
+  falsifications: 221984
+  fascinations: 125163
+  felicitations: 169082
+  fixations: 101389
+  flirtations: 138662
+  flotations: 332129
+  foliations: 203880
+  formalizations: 332546
+not_scored_words:
+- falchions
+- fanions
+- fellations
+- fictionalizations
+- filiations
+- fissions
+- flections
+- flexions
+- fluxions
+- foreordinations
+- formications
+- fructifications
+- fulminations

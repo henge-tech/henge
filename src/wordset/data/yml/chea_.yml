@@ -1,0 +1,30 @@
+---
+pattern: chea_
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 20
+score: 1269788
+score_per_word: 70543
+hi_scored_words:
+  cheap: 1554
+  cheaper: 5487
+  cheapest: 8957
+  cheaply: 27542
+  cheapness: 98157
+  cheapo: 70319
+  cheapskate: 90142
+  cheat: 9623
+  cheated: 20293
+  cheater: 32716
+  cheaters: 36622
+  cheating: 10094
+  cheats: 9000
+scored_words:
+  cheapen: 103700
+  cheapened: 172944
+  cheapening: 192802
+  cheapens: 185308
+  cheapskates: 194528
+not_scored_words:
+- cheapish
+- cheatingly

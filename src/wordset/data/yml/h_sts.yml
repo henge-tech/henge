@@ -1,0 +1,40 @@
+---
+pattern: h_sts
+hi_scored_words_count: 9
+scored_words_count: 12
+total_words: 30
+score: 2683770
+score_per_word: 127798
+hi_scored_words:
+  harvests: 37567
+  headrests: 81801
+  hematologists: 84936
+  herbalists: 83167
+  hobbyists: 51127
+  hoists: 52855
+  hosts: 4671
+  humanists: 62201
+  hygienists: 64934
+scored_words:
+  hairstylists: 109209
+  harpists: 187708
+  hedonists: 275959
+  heists: 147170
+  herpetologists: 200280
+  holocausts: 189568
+  horticulturalists: 246093
+  horticulturists: 179337
+  humorists: 131350
+  hydrologists: 178160
+  hypnotherapists: 204157
+  hypnotists: 111520
+not_scored_words:
+- Hosts
+- hacktivists
+- harpsichordists
+- hartebeests
+- histologists
+- holdfasts
+- horologists
+- horsts
+- hypoblasts

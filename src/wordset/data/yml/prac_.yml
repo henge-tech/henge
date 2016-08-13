@@ -1,0 +1,29 @@
+---
+pattern: prac_
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 19
+score: 843905
+score_per_word: 52744
+hi_scored_words:
+  practicable: 13314
+  practical: 1758
+  practicalities: 53183
+  practicality: 32874
+  practically: 5639
+  practicals: 89012
+  practice: 761
+  practiced: 11356
+  practices: 2435
+  practicing: 10821
+  practicum: 39233
+  practitioner: 10550
+  practitioners: 9253
+scored_words:
+  practicability: 103310
+  practicably: 207716
+  practicums: 252690
+not_scored_words:
+- practicabilities
+- practicalness
+- practicer

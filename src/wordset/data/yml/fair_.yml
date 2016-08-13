@@ -1,0 +1,35 @@
+---
+pattern: fair_
+hi_scored_words_count: 17
+scored_words_count: 1
+total_words: 25
+score: 769525
+score_per_word: 42751
+hi_scored_words:
+  fair: 863
+  fairer: 30574
+  fairest: 31228
+  fairground: 48956
+  fairgrounds: 31674
+  fairies: 13616
+  fairing: 51399
+  fairings: 98517
+  fairly: 2543
+  fairness: 11185
+  fairs: 13494
+  fairway: 24526
+  fairways: 47150
+  fairy: 5408
+  fairyland: 68045
+  fairytale: 28513
+  fairytales: 62292
+scored_words:
+  fairlead: 199542
+not_scored_words:
+- Fairbanks
+- Fairfax
+- Fairfield
+- Fairweather
+- fairish
+- fairleads
+- fairylands

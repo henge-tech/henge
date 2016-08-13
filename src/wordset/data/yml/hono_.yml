@@ -1,0 +1,32 @@
+---
+pattern: hono_
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 22
+score: 621182
+score_per_word: 51765
+hi_scored_words:
+  honor: 2155
+  honorable: 8040
+  honorably: 53444
+  honorarium: 67957
+  honorary: 12637
+  honored: 7151
+  honoree: 66882
+  honorees: 67438
+  honorific: 74898
+  honoring: 22940
+  honors: 5808
+scored_words:
+  honorariums: 231832
+not_scored_words:
+- Honolulu
+- Honor
+- Honorable
+- honorableness
+- honorarily
+- honorer
+- honorers
+- honorificabilitudinitatibus
+- honorifically
+- honorifics

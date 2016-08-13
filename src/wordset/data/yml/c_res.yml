@@ -1,0 +1,70 @@
+---
+pattern: c_res
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 60
+score: 2491574
+score_per_word: 80373
+hi_scored_words:
+  cadres: 45936
+  campfires: 61145
+  captures: 13372
+  cares: 5504
+  caricatures: 36433
+  carnivores: 49791
+  ceres: 25589
+  chores: 22670
+  closures: 17082
+  commodores: 43497
+  compares: 11978
+  configures: 63106
+  conjectures: 44762
+  conjures: 59253
+  cores: 21075
+  countermeasures: 33363
+  creatures: 4631
+  crores: 37284
+  cultures: 10635
+  cures: 17851
+scored_words:
+  candidatures: 245565
+  ceasefires: 254303
+  censures: 125113
+  centromeres: 189979
+  clares: 166532
+  claymores: 160923
+  concessionaires: 119320
+  confreres: 242052
+  conspires: 125559
+  contractures: 129150
+  curvatures: 108121
+not_scored_words:
+- Ceres
+- Chagres
+- Chartres
+- cafetieres
+- carpospores
+- centares
+- chancres
+- chevres
+- cinctures
+- clotures
+- coheres
+- coiffures
+- coinsures
+- commissionaires
+- commixtures
+- comperes
+- compères
+- confitures
+- confrères
+- conidiophores
+- conjunctures
+- conservatoires
+- cookwares
+- countercultures
+- countersignatures
+- cracklewares
+- crossfires
+- ctenophores
+- cynosures

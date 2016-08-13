@@ -1,0 +1,55 @@
+---
+pattern: hy_y
+hi_scored_words_count: 14
+scored_words_count: 11
+total_words: 45
+score: 2962695
+score_per_word: 118507
+hi_scored_words:
+  hydraulically: 82902
+  hydrogeology: 87701
+  hydrography: 70933
+  hydrology: 27787
+  hydrotherapy: 56055
+  hydroxy: 30883
+  hyperactivity: 33082
+  hypersensitivity: 33199
+  hypertrophy: 33441
+  hypnotherapy: 41409
+  hypocrisy: 14602
+  hypothetically: 53037
+  hysterectomy: 31169
+  hysterically: 54186
+scored_words:
+  hybridity: 133760
+  hydroelectricity: 130933
+  hydrologically: 258988
+  hydrometallurgy: 337289
+  hydropathy: 300903
+  hydroponically: 288702
+  hygienically: 211647
+  hymnody: 154866
+  hyperbolically: 147027
+  hypnotically: 185195
+  hypocritically: 162999
+not_scored_words:
+- hydroelectrically
+- hydrographically
+- hydromancy
+- hydrometry
+- hydrostatically
+- hyetography
+- hyetology
+- hygrometry
+- hymnology
+- hyperacidity
+- hyperactively
+- hypercritically
+- hypersonically
+- hypnology
+- hypoacidity
+- hypodermically
+- hyponasty
+- hypsography
+- hypsometry
+- hysterotomy

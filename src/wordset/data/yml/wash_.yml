@@ -1,0 +1,58 @@
+---
+pattern: wash_
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 48
+score: 1933036
+score_per_word: 87865
+hi_scored_words:
+  wash: 3376
+  washable: 29676
+  washbasin: 78195
+  washboard: 90050
+  washcloth: 60366
+  washed: 6326
+  washer: 19536
+  washers: 22355
+  washes: 24783
+  washing: 5078
+  washings: 89233
+  washout: 52900
+  washroom: 36798
+  washrooms: 82608
+  washy: 67091
+scored_words:
+  washbasins: 278693
+  washcloths: 104605
+  washerwoman: 150300
+  washin: 127840
+  washouts: 229670
+  washstand: 122688
+  washtub: 250869
+not_scored_words:
+- Wash
+- Washington
+- Washingtonian
+- Washingtonians
+- washables
+- washboards
+- washbowl
+- washbowls
+- washday
+- washdays
+- washerman
+- washermen
+- washerwomen
+- washery
+- washhouse
+- washhouses
+- washier
+- washiest
+- washily
+- washiness
+- washrag
+- washrags
+- washstands
+- washtubs
+- washwoman
+- washwomen

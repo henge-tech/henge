@@ -1,0 +1,26 @@
+---
+pattern: conc_n
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 16
+score: 696349
+score_per_word: 58029
+hi_scored_words:
+  concatenation: 44554
+  concentration: 4448
+  conception: 6588
+  conceptualization: 45725
+  concern: 2190
+  concession: 16679
+  conciliation: 30493
+  conclusion: 2433
+  concoction: 56094
+  concussion: 31915
+scored_words:
+  concision: 248573
+  concretion: 206657
+not_scored_words:
+- Concepcion
+- Concepción
+- concelebration
+- conchiolin

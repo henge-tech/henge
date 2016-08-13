@@ -1,0 +1,45 @@
+---
+pattern: _ison
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 35
+score: 724161
+score_per_word: 55704
+hi_scored_words:
+  bison: 18760
+  comparison: 2048
+  garrison: 9292
+  imprison: 48626
+  jettison: 73065
+  liaison: 12164
+  poison: 5726
+  prison: 2367
+  unison: 23027
+  venison: 28323
+scored_words:
+  benison: 188496
+  livraison: 155417
+  orison: 156850
+not_scored_words:
+- Addison
+- Alison
+- Allison
+- Edison
+- Ellison
+- Garrison
+- Harrison
+- Madison
+- Morison
+- Morrison
+- Murchison
+- Orbison
+- caparison
+- cloison
+- counterpoison
+- disherison
+- empoison
+- foison
+- grison
+- malison
+- reimprison
+- warison

@@ -1,0 +1,44 @@
+---
+pattern: pill_
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 34
+score: 1890671
+score_per_word: 90031
+hi_scored_words:
+  pill: 7999
+  pillage: 40319
+  pillaged: 87838
+  pillaging: 83556
+  pillar: 10835
+  pillars: 11785
+  pillbox: 90663
+  pilling: 85830
+  pillion: 98480
+  pillow: 5957
+  pillowcase: 54461
+  pillowcases: 59256
+  pillows: 11393
+  pills: 6311
+scored_words:
+  pillager: 243487
+  pillared: 142337
+  pillboxes: 225323
+  pilled: 108607
+  pilloried: 158924
+  pillory: 101425
+  pillowed: 255885
+not_scored_words:
+- Pillsbury
+- pillagers
+- pillages
+- pillions
+- pilliwinks
+- pillock
+- pillocks
+- pillories
+- pillorying
+- pillowing
+- pillowslip
+- pillowslips
+- pillowy

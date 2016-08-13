@@ -1,0 +1,28 @@
+---
+pattern: safe_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 18
+score: 1138170
+score_per_word: 75878
+hi_scored_words:
+  safe: 852
+  safeguard: 12765
+  safeguarded: 55627
+  safeguarding: 33626
+  safeguards: 17936
+  safekeeping: 50172
+  safely: 4424
+  safer: 15582
+  safes: 30974
+  safest: 18573
+  safeties: 90112
+  safety: 909
+scored_words:
+  safecracker: 222203
+  safelight: 244025
+  safeness: 340390
+not_scored_words:
+- Safeway
+- safecrackers
+- safecracking

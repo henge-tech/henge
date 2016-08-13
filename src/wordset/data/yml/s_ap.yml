@@ -1,0 +1,27 @@
+---
+pattern: s_ap
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 891679
+score_per_word: 68590
+hi_scored_words:
+  sap: 7873
+  scrap: 8869
+  sitemap: 67194
+  skullcap: 75383
+  slap: 12031
+  snap: 6023
+  soap: 7615
+  stopgap: 86097
+  strap: 7570
+  swap: 12443
+scored_words:
+  satrap: 178463
+  scrapheap: 188756
+  skycap: 233362
+not_scored_words:
+- SAP
+- slagheap
+- snowcap
+- suntrap

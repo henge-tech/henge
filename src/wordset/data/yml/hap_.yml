@@ -1,0 +1,40 @@
+---
+pattern: hap_
+hi_scored_words_count: 17
+scored_words_count: 1
+total_words: 30
+score: 633157
+score_per_word: 35175
+hi_scored_words:
+  hap: 22758
+  haphazard: 40872
+  haphazardly: 67572
+  hapless: 31112
+  haploid: 73439
+  haply: 79249
+  happen: 1525
+  happened: 1345
+  happening: 4000
+  happenings: 18956
+  happens: 2273
+  happenstance: 85103
+  happier: 9951
+  happiest: 18114
+  happily: 7333
+  happiness: 3365
+  happy: 574
+scored_words:
+  hapten: 165616
+not_scored_words:
+- Haphtarah
+- Hapsburg
+- Hapsburgs
+- haphazardness
+- haplessly
+- haplessness
+- haplite
+- haplography
+- haploids
+- haplology
+- haplosis
+- happenstances

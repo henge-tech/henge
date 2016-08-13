@@ -1,0 +1,49 @@
+---
+pattern: _uter
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 39
+score: 2124696
+score_per_word: 111826
+hi_scored_words:
+  commuter: 18656
+  computer: 674
+  cuter: 53084
+  microcomputer: 36503
+  minicomputer: 99484
+  neuter: 32331
+  outer: 3581
+  polluter: 79647
+  router: 10625
+  scouter: 95261
+  souter: 59076
+  supercomputer: 37417
+scored_words:
+  disputer: 301014
+  executer: 216106
+  minuter: 274622
+  shouter: 298355
+  stouter: 192731
+  telecommuter: 170016
+  transputer: 145513
+not_scored_words:
+- Souter
+- accouter
+- acuter
+- astuter
+- attributer
+- bruter
+- confuter
+- devouter
+- diluter
+- flouter
+- fluter
+- grouter
+- instituter
+- muter
+- pouter
+- refuter
+- spouter
+- tauter
+- touter
+- transmuter

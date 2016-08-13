@@ -1,0 +1,31 @@
+---
+pattern: di_ated
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 21
+score: 1159913
+score_per_word: 77327
+hi_scored_words:
+  dictated: 23545
+  differentiated: 19097
+  dilapidated: 35705
+  dilated: 31015
+  disaggregated: 61566
+  discriminated: 33169
+  disintegrated: 52744
+  dislocated: 39701
+  disseminated: 24563
+  dissipated: 29952
+  dissociated: 60772
+scored_words:
+  disambiguated: 274041
+  disassociated: 132519
+  discombobulated: 170085
+  disorientated: 171439
+not_scored_words:
+- disaffiliated
+- disarticulated
+- dissimilated
+- dissimulated
+- divagated
+- divaricated

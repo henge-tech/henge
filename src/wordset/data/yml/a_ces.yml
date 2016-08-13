@@ -1,0 +1,54 @@
+---
+pattern: a_ces
+hi_scored_words_count: 23
+scored_words_count: 4
+total_words: 44
+score: 1514293
+score_per_word: 56084
+hi_scored_words:
+  absences: 26472
+  abundances: 50148
+  acceptances: 61480
+  accomplices: 49021
+  aces: 22398
+  acquaintances: 23883
+  advances: 5378
+  advices: 45737
+  allegiances: 77338
+  alliances: 13035
+  allowances: 13906
+  ambulances: 34709
+  announces: 7026
+  annoyances: 37493
+  appearances: 7217
+  appendices: 21248
+  appliances: 6605
+  apprentices: 26050
+  appurtenances: 56851
+  assurances: 18072
+  attendances: 56106
+  audiences: 8914
+  auspices: 21374
+scored_words:
+  acquiesces: 254267
+  adduces: 254269
+  ambiances: 167953
+  artifices: 147343
+not_scored_words:
+- abduces
+- aberrances
+- absorptances
+- accidences
+- acquittances
+- adamances
+- admittances
+- adolescences
+- advertences
+- affiances
+- afterpieces
+- altarpieces
+- ambiences
+- amerces
+- appetences
+- armistices
+- aviatrices

@@ -1,0 +1,41 @@
+---
+pattern: _rade
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 31
+score: 1127066
+score_per_word: 66298
+hi_scored_words:
+  balustrade: 61924
+  centigrade: 47012
+  charade: 36697
+  comrade: 18262
+  degrade: 22429
+  downgrade: 33195
+  grade: 2732
+  masquerade: 21004
+  parade: 8234
+  retrograde: 29947
+  tirade: 46502
+  trade: 612
+  upgrade: 6701
+scored_words:
+  abrade: 178100
+  biodegrade: 246652
+  plantigrade: 140502
+  regrade: 226561
+not_scored_words:
+- Belgrade
+- Centigrade
+- Gatorade
+- Lestrade
+- aggrade
+- corrade
+- digitigrade
+- estrade
+- intergrade
+- irade
+- overtrade
+- saltigrade
+- taligrade
+- tardigrade

@@ -1,0 +1,52 @@
+---
+pattern: a_zed
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 42
+score: 2169870
+score_per_word: 108493
+hi_scored_words:
+  agonized: 71162
+  alphabetized: 65833
+  amazed: 9422
+  amortized: 50619
+  analyzed: 6759
+  anesthetized: 67517
+  annualized: 54990
+  anodized: 43793
+  apologized: 28614
+  authorized: 3980
+scored_words:
+  accessorized: 213004
+  acclimatized: 160297
+  actualized: 107030
+  aluminized: 138862
+  analogized: 312514
+  anglicized: 102810
+  antagonized: 109873
+  anthologized: 188316
+  atomized: 126133
+  automatized: 308342
+not_scored_words:
+- Americanized
+- achromatized
+- aggrandized
+- alchemized
+- alcoholized
+- alkalinized
+- alkalized
+- allegorized
+- anagrammatized
+- anathematized
+- anatomized
+- animalized
+- anthropomorphized
+- aphorized
+- apostatized
+- apostrophized
+- apotheosized
+- archaized
+- aromatized
+- arterialized
+- attitudinized
+- autotomized

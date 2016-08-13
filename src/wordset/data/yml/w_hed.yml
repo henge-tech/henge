@@ -1,0 +1,28 @@
+---
+pattern: w_hed
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 18
+score: 843865
+score_per_word: 64912
+hi_scored_words:
+  washed: 6326
+  watched: 2858
+  watershed: 14643
+  weighed: 10591
+  whitewashed: 61772
+  wished: 5954
+  woodshed: 91789
+  wrenched: 74334
+  wretched: 17066
+  writhed: 88584
+scored_words:
+  winched: 227598
+  witched: 132528
+  wreathed: 109822
+not_scored_words:
+- welshed
+- whished
+- whooshed
+- widemouthed
+- withed

@@ -1,0 +1,79 @@
+---
+pattern: f_ds
+hi_scored_words_count: 27
+scored_words_count: 19
+total_words: 69
+score: 4794309
+score_per_word: 104224
+hi_scored_words:
+  factoids: 90830
+  fads: 53382
+  fairgrounds: 31674
+  falsehoods: 56897
+  farmlands: 65607
+  feds: 18433
+  feeds: 4672
+  feuds: 57654
+  fields: 1480
+  fiends: 47947
+  finds: 2576
+  fjords: 50550
+  flashcards: 41983
+  floods: 10989
+  floorboards: 59422
+  fluids: 12786
+  folds: 11124
+  foods: 4073
+  forbids: 30018
+  fords: 43614
+  foreheads: 66071
+  forwards: 11605
+  founds: 72540
+  frauds: 34640
+  friends: 333
+  fronds: 60792
+  funds: 2300
+scored_words:
+  farmhands: 279078
+  farmsteads: 148516
+  featherbeds: 167638
+  fends: 169490
+  fiddleheads: 330430
+  figureheads: 200151
+  fingerboards: 265216
+  firebirds: 109329
+  firebrands: 229216
+  fishponds: 133984
+  flatbeds: 251501
+  flatheads: 219147
+  flowerbeds: 144645
+  footboards: 121205
+  footholds: 186985
+  footpads: 271489
+  foregrounds: 190117
+  forewords: 215486
+  foxhounds: 216694
+not_scored_words:
+- FUDs
+- Falklands
+- Feds
+- Fields
+- Friends
+- fairleads
+- fairylands
+- farads
+- farmyards
+- fatheads
+- fatherlands
+- felids
+- femtoseconds
+- fireguards
+- fireweeds
+- flaxseeds
+- forehands
+- fountainheads
+- freeholds
+- freeloads
+- frontwards
+- fuckheads
+- fucoids

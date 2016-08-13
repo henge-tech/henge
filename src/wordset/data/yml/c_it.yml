@@ -1,0 +1,32 @@
+---
+pattern: c_it
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 22
+score: 1549100
+score_per_word: 73766
+hi_scored_words:
+  candlelit: 87989
+  catsuit: 87680
+  chit: 23087
+  circuit: 3218
+  cit: 14008
+  clit: 18006
+  cockpit: 21699
+  commit: 3293
+  complicit: 57204
+  conceit: 34364
+  conduit: 17726
+  counterfeit: 18764
+  credit: 710
+  crit: 30163
+  cubit: 64333
+  culprit: 22312
+scored_words:
+  cesspit: 204438
+  chickenshit: 211901
+  cohabit: 132350
+  copyedit: 235114
+  cucurbit: 260741
+not_scored_words:
+- comfit

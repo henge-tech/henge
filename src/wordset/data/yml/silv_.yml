@@ -1,0 +1,40 @@
+---
+pattern: silv_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 30
+score: 1786607
+score_per_word: 105094
+hi_scored_words:
+  silva: 14565
+  silver: 886
+  silvered: 80274
+  silverfish: 85918
+  silvers: 51151
+  silversmith: 61547
+  silversmiths: 69926
+  silverware: 27196
+  silvery: 27863
+  silviculture: 84351
+scored_words:
+  silvan: 101294
+  silvas: 125021
+  silvering: 246132
+  silverpoint: 335371
+  silverside: 138916
+  silversides: 232447
+  silvicultural: 103749
+not_scored_words:
+- Silva
+- Silvanus
+- Silvester
+- Silvia
+- silverer
+- silverfishes
+- silveriness
+- silvern
+- silverpoints
+- silverweed
+- silverweeds
+- silvicultures
+- silviculturist

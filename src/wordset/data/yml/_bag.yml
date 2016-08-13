@@ -1,0 +1,36 @@
+---
+pattern: _bag
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 26
+score: 1482915
+score_per_word: 92682
+hi_scored_words:
+  airbag: 30645
+  bag: 1683
+  beanbag: 63229
+  handbag: 20044
+  kitbag: 74649
+  mailbag: 45635
+  saddlebag: 75398
+  sandbag: 79073
+  scumbag: 61915
+scored_words:
+  carpetbag: 107160
+  postbag: 151906
+  punchbag: 197260
+  ragbag: 169432
+  ratbag: 185922
+  teabag: 110141
+  windbag: 108823
+not_scored_words:
+- bumbag
+- debag
+- feedbag
+- fleabag
+- gasbag
+- moneybag
+- nosebag
+- schoolbag
+- sleazebag
+- workbag

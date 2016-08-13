@@ -1,0 +1,40 @@
+---
+pattern: u_med
+hi_scored_words_count: 13
+scored_words_count: 11
+total_words: 30
+score: 2888215
+score_per_word: 120342
+hi_scored_words:
+  unaccustomed: 67142
+  unarmed: 22637
+  unashamed: 80492
+  unclaimed: 34648
+  unconfirmed: 31206
+  underwhelmed: 99965
+  unformed: 97419
+  unframed: 72839
+  unharmed: 48387
+  uniformed: 30046
+  uninformed: 34780
+  unnamed: 19690
+  untamed: 40576
+scored_words:
+  unconsumed: 311722
+  underperformed: 141281
+  undimmed: 196641
+  undreamed: 172295
+  unfathomed: 178905
+  unperformed: 257695
+  unprogrammed: 250684
+  unredeemed: 190125
+  unreformed: 218562
+  untransformed: 131779
+  untrimmed: 158699
+not_scored_words:
+- unbosomed
+- unjammed
+- unproclaimed
+- unreclaimed
+- unrhymed
+- unwarmed

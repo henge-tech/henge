@@ -1,0 +1,25 @@
+---
+pattern: co_et
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 923236
+score_per_word: 76936
+hi_scored_words:
+  collet: 58451
+  comet: 11523
+  cornet: 33099
+  coronet: 40044
+  corset: 25331
+  couplet: 55731
+  coverlet: 73481
+  covet: 43218
+scored_words:
+  coquet: 202540
+  corselet: 112815
+  coset: 129124
+  cosset: 137879
+not_scored_words:
+- Colet
+- Condorcet
+- Courbet

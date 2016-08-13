@@ -1,0 +1,35 @@
+---
+pattern: hang_
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 25
+score: 1115389
+score_per_word: 58704
+hi_scored_words:
+  hang: 3071
+  hangar: 29219
+  hangars: 65588
+  hanged: 20440
+  hanger: 23904
+  hangers: 23609
+  hanging: 3329
+  hangings: 32547
+  hangman: 27669
+  hangout: 27183
+  hangouts: 75268
+  hangover: 21730
+  hangovers: 63241
+  hangs: 11937
+  hangup: 93375
+scored_words:
+  hangdog: 107523
+  hangmen: 194399
+  hangnail: 148513
+  hangups: 142844
+not_scored_words:
+- Hangchou
+- Hangul
+- Hangzhou
+- hangbird
+- hangbirds
+- hangnails

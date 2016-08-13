@@ -1,0 +1,73 @@
+---
+pattern: _some
+hi_scored_words_count: 24
+scored_words_count: 18
+total_words: 63
+score: 4202856
+score_per_word: 100068
+hi_scored_words:
+  awesome: 10003
+  bothersome: 40913
+  burdensome: 32013
+  chromosome: 12415
+  cumbersome: 24595
+  fearsome: 36472
+  foursome: 32481
+  gruesome: 26926
+  handsome: 5741
+  irksome: 67060
+  loathsome: 42703
+  lonesome: 18966
+  quarrelsome: 82966
+  ribosome: 49110
+  some: 68
+  threesome: 14459
+  tiresome: 30739
+  troublesome: 16572
+  twosome: 99128
+  unwholesome: 77751
+  wearisome: 77583
+  wholesome: 18645
+  winsome: 53497
+  worrisome: 45506
+scored_words:
+  adventuresome: 135657
+  centrosome: 134233
+  darksome: 163796
+  frolicsome: 252428
+  fulsome: 103618
+  gladsome: 133998
+  lightsome: 178970
+  lissome: 211237
+  meddlesome: 119427
+  mettlesome: 237066
+  microsome: 273991
+  noisome: 143013
+  schistosome: 266340
+  toilsome: 133912
+  toothsome: 197812
+  trypanosome: 204139
+  unhandsome: 208790
+  venturesome: 188117
+not_scored_words:
+- autosome
+- blithesome
+- boresome
+- chondriosome
+- cuddlesome
+- euchromosome
+- flavorsome
+- gamesome
+- gleesome
+- heartsome
+- heterochromosome
+- hydrosome
+- karyosome
+- leptosome
+- lithesome
+- longsome
+- lovesome
+- monosome
+- nettlesome
+- overburdensome
+- plasmosome

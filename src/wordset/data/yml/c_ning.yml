@@ -1,0 +1,77 @@
+---
+pattern: c_ning
+hi_scored_words_count: 30
+scored_words_count: 17
+total_words: 67
+score: 4033285
+score_per_word: 85814
+hi_scored_words:
+  campaigning: 20480
+  caning: 65500
+  canning: 19715
+  captioning: 41584
+  cartooning: 64046
+  chaining: 45466
+  championing: 59579
+  christening: 22772
+  churning: 38536
+  cleaning: 4171
+  cloning: 11255
+  clowning: 63739
+  coining: 70163
+  combining: 7611
+  commissioning: 19250
+  complaining: 15124
+  concerning: 1902
+  condemning: 23998
+  conditioning: 8323
+  condoning: 78444
+  confining: 42961
+  conning: 70413
+  constraining: 51203
+  containing: 1982
+  convening: 49424
+  corning: 24092
+  crooning: 96776
+  crowning: 34857
+  cunning: 15189
+  cushioning: 42988
+scored_words:
+  calcining: 275065
+  canyoning: 138553
+  captaining: 213729
+  careening: 111617
+  cautioning: 104913
+  chaperoning: 236785
+  chastening: 161318
+  cheapening: 192802
+  chinning: 140777
+  coarsening: 117327
+  cocooning: 319942
+  communing: 122187
+  coning: 128451
+  conjoining: 256121
+  consigning: 119124
+  contravening: 115294
+  craning: 167737
+not_scored_words:
+- Canning
+- Corning
+- calcimining
+- cannoning
+- caparisoning
+- casehardening
+- chagrining
+- chickening
+- clarioning
+- coffining
+- contemning
+- cordoning
+- cosigning
+- cottoning
+- countermining
+- countersigning
+- cozening
+- crayoning
+- crimsoning
+- curtaining

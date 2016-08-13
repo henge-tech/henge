@@ -1,0 +1,30 @@
+---
+pattern: di_tic
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1272003
+score_per_word: 90857
+hi_scored_words:
+  diabetic: 13854
+  diagnostic: 16132
+  diagrammatic: 71667
+  dialectic: 35262
+  diaphragmatic: 81697
+  didactic: 30765
+  dietetic: 49251
+  diplomatic: 7671
+  diuretic: 40298
+scored_words:
+  diacritic: 158461
+  diamagnetic: 114414
+  diaphoretic: 261276
+  dichromatic: 160381
+  dizygotic: 230874
+not_scored_words:
+- diacaustic
+- dialytic
+- dianoetic
+- dicrotic
+- diphtheritic
+- diploblastic

@@ -1,0 +1,37 @@
+---
+pattern: pa_le
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 27
+score: 1260761
+score_per_word: 70042
+hi_scored_words:
+  paddle: 12527
+  palatable: 34437
+  pale: 4666
+  palpable: 27570
+  panhandle: 30991
+  panicle: 91696
+  parable: 21057
+  parole: 11388
+  participle: 41266
+  particle: 6571
+  passable: 40179
+  pastorale: 91411
+  patentable: 71626
+  payable: 5953
+scored_words:
+  packable: 176997
+  papule: 277130
+  pardonable: 192979
+  pastille: 122317
+not_scored_words:
+- Pasquale
+- packsaddle
+- pantile
+- paradiddle
+- paraphrasable
+- parbuckle
+- partible
+- passible
+- patchable

@@ -1,0 +1,57 @@
+---
+pattern: reh_
+hi_scored_words_count: 16
+scored_words_count: 15
+total_words: 47
+score: 3498561
+score_per_word: 112856
+hi_scored_words:
+  rehab: 13091
+  rehabilitate: 44055
+  rehabilitated: 41790
+  rehabilitating: 61586
+  rehabilitation: 10527
+  rehabilitative: 50319
+  rehabs: 88672
+  rehash: 54719
+  rehearing: 59733
+  rehearsal: 12886
+  rehearsals: 26516
+  rehearse: 34197
+  rehearsed: 43592
+  rehearsing: 44030
+  reheat: 65461
+  reheating: 99563
+scored_words:
+  rehabbed: 233820
+  rehabbing: 149564
+  rehabilitates: 265942
+  rehashed: 124491
+  rehashes: 236143
+  rehashing: 109802
+  rehear: 273776
+  rehearses: 143866
+  reheated: 107032
+  rehire: 113641
+  rehired: 108162
+  rehiring: 236205
+  rehoused: 258549
+  rehousing: 218913
+  rehydrate: 167918
+not_scored_words:
+- Rehnquist
+- rehandle
+- rehang
+- rehanged
+- rehanging
+- rehangs
+- reheard
+- rehearings
+- rehears
+- rehearser
+- reheats
+- rehi
+- rehires
+- rehouse
+- rehouses
+- rehung

@@ -1,0 +1,28 @@
+---
+pattern: stum_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1240650
+score_per_word: 88617
+hi_scored_words:
+  stumble: 18016
+  stumbled: 13793
+  stumbler: 57430
+  stumbles: 38959
+  stumbling: 19427
+  stump: 15676
+  stumped: 36713
+  stumps: 29407
+  stumpy: 72695
+scored_words:
+  stumblers: 138104
+  stumpage: 130704
+  stumper: 203944
+  stumpers: 330361
+  stumping: 135421
+not_scored_words:
+- stumblingly
+- stumer
+- stumpier
+- stumpiest

@@ -1,0 +1,26 @@
+---
+pattern: med_e
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 601769
+score_per_word: 60176
+hi_scored_words:
+  meddle: 42009
+  mediate: 25304
+  medicare: 5551
+  medicate: 87335
+  medicine: 1662
+  mediocre: 17196
+  meditate: 23743
+  meditative: 38761
+scored_words:
+  meddlesome: 119427
+  medusae: 240781
+not_scored_words:
+- Mede
+- Medicare
+- mediative
+- mediatize
+- medicable
+- medicative

@@ -1,0 +1,27 @@
+---
+pattern: exp_ns
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 1008271
+score_per_word: 72019
+hi_scored_words:
+  expansions: 30283
+  expectations: 4120
+  expeditions: 20175
+  explains: 4445
+  explanations: 9963
+  explorations: 23850
+  explosions: 17063
+  expositions: 45243
+  expressions: 4892
+  expulsions: 72306
+scored_words:
+  explications: 153290
+  exploitations: 217532
+  expostulations: 153199
+  expropriations: 251910
+not_scored_words:
+- exponentiations
+- expunctions
+- expurgations

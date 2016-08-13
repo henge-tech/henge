@@ -1,0 +1,26 @@
+---
+pattern: prin_s
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 16
+score: 373895
+score_per_word: 33990
+hi_scored_words:
+  princes: 10166
+  princess: 2759
+  princesses: 32292
+  principalities: 62865
+  principals: 14906
+  principles: 1615
+  printers: 7254
+  printings: 75789
+  printouts: 51184
+  prints: 4609
+scored_words:
+  printmakers: 110456
+not_scored_words:
+- princedoms
+- princeliness
+- principalships
+- prinks
+- printmakings

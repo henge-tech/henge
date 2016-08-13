@@ -1,0 +1,54 @@
+---
+pattern: v_le
+hi_scored_words_count: 23
+scored_words_count: 4
+total_words: 44
+score: 1151999
+score_per_word: 42666
+hi_scored_words:
+  vacuole: 70183
+  vale: 9357
+  valuable: 2444
+  variable: 4128
+  vaudeville: 34167
+  vegetable: 5592
+  vehicle: 2580
+  venerable: 17872
+  ventricle: 34037
+  verifiable: 30581
+  veritable: 25878
+  versatile: 12719
+  vesicle: 42473
+  vestibule: 38756
+  viable: 11138
+  viewable: 31138
+  vile: 16076
+  virile: 60770
+  visible: 2695
+  voile: 67251
+  volatile: 11705
+  vole: 47877
+  vulnerable: 8815
+scored_words:
+  varicocele: 139152
+  villanelle: 194668
+  voidable: 115823
+  voluble: 114124
+not_scored_words:
+- valvule
+- variole
+- veinule
+- vendible
+- venule
+- verbalizable
+- versicle
+- vibratile
+- vincible
+- vindicable
+- violable
+- virgule
+- visitable
+- vitrifiable
+- vittle
+- vocable
+- vulcanizable

@@ -1,0 +1,40 @@
+---
+pattern: upr_
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 30
+score: 2214000
+score_per_word: 116526
+hi_scored_words:
+  upright: 7204
+  uprightness: 89324
+  uprights: 63877
+  uprising: 18440
+  uprisings: 65330
+  upriver: 61851
+  uproar: 25802
+  uproarious: 99163
+  uproot: 65807
+  uprooted: 50094
+  uprooting: 83724
+scored_words:
+  upraise: 209168
+  upraised: 124936
+  uprate: 310754
+  uprated: 123951
+  uprating: 268146
+  uprightly: 220044
+  uprise: 160382
+  uproariously: 166003
+not_scored_words:
+- upraises
+- upraising
+- uprear
+- upreared
+- uprearing
+- uprears
+- uproariousness
+- uproars
+- uprootedness
+- uproots
+- uprush

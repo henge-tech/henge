@@ -1,0 +1,57 @@
+---
+pattern: chas_
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 47
+score: 2392585
+score_per_word: 95703
+hi_scored_words:
+  chase: 3802
+  chased: 19844
+  chaser: 20117
+  chasers: 41000
+  chases: 36923
+  chasing: 10839
+  chasm: 27211
+  chasms: 97980
+  chasse: 54805
+  chasseur: 96908
+  chassis: 8843
+  chaste: 42344
+  chastise: 66239
+  chastised: 66929
+  chastisement: 66537
+  chastity: 21454
+scored_words:
+  chasses: 316207
+  chassé: 192235
+  chastely: 262899
+  chasten: 208348
+  chastened: 101872
+  chastening: 161318
+  chastises: 181476
+  chastising: 121782
+  chasuble: 164673
+not_scored_words:
+- Chase
+- Chasid
+- Chasidim
+- Chasity
+- Chassid
+- Chassidic
+- Chassidim
+- Chassidism
+- chasmic
+- chassed
+- chasseing
+- chassepot
+- chassés
+- chastener
+- chasteness
+- chastens
+- chaster
+- chastest
+- chastisements
+- chastiser
+- chastisers
+- chasubles

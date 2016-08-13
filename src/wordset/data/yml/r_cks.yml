@@ -1,0 +1,30 @@
+---
+pattern: r_cks
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1002007
+score_per_word: 77077
+hi_scored_words:
+  racetracks: 83399
+  racks: 12924
+  razorbacks: 49331
+  rednecks: 53899
+  ricks: 51569
+  roadblocks: 42550
+  rocks: 2893
+  rollbacks: 98745
+  rucksacks: 75991
+scored_words:
+  restocks: 143393
+  rootstocks: 126093
+  roughnecks: 101077
+  rucks: 160143
+not_scored_words:
+- ransacks
+- rechecks
+- repacks
+- roebucks
+- rollicks
+- rowlocks
+- rubbernecks

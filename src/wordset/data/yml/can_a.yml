@@ -1,0 +1,32 @@
+---
+pattern: can_a
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 22
+score: 1241137
+score_per_word: 103428
+hi_scored_words:
+  canasta: 66754
+  candela: 57835
+  candelabra: 45694
+  candida: 29807
+  canna: 34288
+  cannula: 57122
+  canola: 38181
+  cantata: 46590
+  cantina: 43031
+scored_words:
+  canella: 290750
+  cantilena: 235533
+  canzona: 295552
+not_scored_words:
+- Cana
+- Canada
+- Canara
+- Canberra
+- Candia
+- Canea
+- Canicula
+- Canossa
+- Canova
+- canula

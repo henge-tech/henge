@@ -1,0 +1,54 @@
+---
+pattern: r_p
+hi_scored_words_count: 24
+scored_words_count: 9
+total_words: 44
+score: 2428341
+score_per_word: 73586
+hi_scored_words:
+  raindrop: 71539
+  ramp: 18548
+  rap: 6405
+  rasp: 59825
+  readership: 21164
+  reap: 13525
+  recap: 17826
+  receivership: 56972
+  recoup: 38755
+  redevelop: 68398
+  regexp: 80525
+  regroup: 51189
+  relationship: 2399
+  remap: 83290
+  rep: 11184
+  resp: 26985
+  revamp: 34300
+  ridership: 47023
+  rip: 8744
+  romp: 33907
+  rooftop: 23981
+  roundtrip: 56152
+  roundup: 16048
+  rump: 33749
+scored_words:
+  ragtop: 181183
+  rattletrap: 138390
+  rattrap: 264837
+  redcap: 220132
+  redtop: 122897
+  repp: 117614
+  reship: 255078
+  ripstop: 124745
+  roup: 121032
+not_scored_words:
+- RCMP
+- RIP
+- RP
+- RSVP
+- Rep
+- Ribbentrop
+- rectorship
+- reequip
+- residentship
+- rewrap
+- rollmop

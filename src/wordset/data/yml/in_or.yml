@@ -1,0 +1,57 @@
+---
+pattern: in_or
+hi_scored_words_count: 25
+scored_words_count: 8
+total_words: 47
+score: 2018680
+score_per_word: 61172
+hi_scored_words:
+  incinerator: 39945
+  incisor: 72751
+  incubator: 25340
+  indicator: 12092
+  indoor: 9612
+  inductor: 43255
+  inferior: 8133
+  infiltrator: 72833
+  inhibitor: 12984
+  initiator: 28535
+  injector: 31056
+  innovator: 28687
+  inquisitor: 44084
+  inspector: 6251
+  instigator: 57937
+  instructor: 5344
+  insulator: 33340
+  integrator: 29960
+  interceptor: 28404
+  interior: 2331
+  interlocutor: 67404
+  interrogator: 64591
+  inventor: 9004
+  investigator: 10617
+  investor: 14066
+scored_words:
+  incorporator: 238015
+  inflator: 132763
+  inheritor: 121261
+  intercessor: 134044
+  interpolator: 190302
+  intervenor: 117639
+  intimidator: 137697
+  invigilator: 188403
+not_scored_words:
+- inaugurator
+- incarcerator
+- inculcator
+- indictor
+- indoctrinator
+- inflictor
+- infractor
+- inhalator
+- inoculator
+- inseminator
+- insinuator
+- institutor
+- interoceptor
+- invalidator

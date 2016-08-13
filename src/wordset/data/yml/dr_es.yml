@@ -1,0 +1,43 @@
+---
+pattern: dr_es
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 33
+score: 1662839
+score_per_word: 92379
+hi_scored_words:
+  dragonflies: 43509
+  drakes: 47700
+  draperies: 46096
+  drapes: 29344
+  dresses: 5343
+  dries: 26706
+  drives: 3644
+  drones: 36026
+  droves: 50696
+  drugstores: 61708
+scored_words:
+  draftees: 148242
+  dramatizes: 148569
+  dredges: 103319
+  drenches: 255995
+  dribbles: 120613
+  drogues: 191582
+  dromedaries: 160633
+  druggies: 183114
+not_scored_words:
+- Dramamines
+- drainpipes
+- dramaturgies
+- drawbridges
+- drawees
+- drawknives
+- drawshaves
+- driftages
+- drizzles
+- drolleries
+- droshkies
+- drowses
+- drudges
+- drumfires
+- drupes

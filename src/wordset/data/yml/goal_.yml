@@ -1,0 +1,26 @@
+---
+pattern: goal_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 16
+score: 1246264
+score_per_word: 83084
+hi_scored_words:
+  goal: 2165
+  goalie: 19562
+  goalies: 52212
+  goalkeeper: 23142
+  goalkeepers: 70437
+  goalkeeping: 75565
+  goalposts: 92776
+  goals: 2154
+  goaltender: 41721
+  goaltenders: 76010
+scored_words:
+  goalless: 129047
+  goalmouth: 251665
+  goalpost: 185120
+  goalscorer: 104493
+  goalscorers: 120195
+not_scored_words:
+- goalmouths

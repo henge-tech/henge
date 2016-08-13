@@ -1,0 +1,34 @@
+---
+pattern: l_x
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 24
+score: 966733
+score_per_word: 64448
+hi_scored_words:
+  larynx: 35737
+  latex: 12417
+  lax: 15734
+  letterbox: 43350
+  lex: 18266
+  lix: 83205
+  lockbox: 82249
+  lox: 49543
+  lunchbox: 41137
+  lux: 24038
+  lx: 24224
+  lynx: 16465
+scored_words:
+  lummox: 184610
+  lurex: 132516
+  lxix: 203242
+not_scored_words:
+- LXX
+- Lascaux
+- Lastex
+- Leix
+- Linux
+- Lomax
+- Lux
+- LyX
+- Lynx

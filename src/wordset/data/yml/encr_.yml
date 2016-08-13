@@ -1,0 +1,35 @@
+---
+pattern: encr_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 25
+score: 1510858
+score_per_word: 94428
+hi_scored_words:
+  encroach: 55716
+  encroached: 92880
+  encroaching: 57941
+  encroachment: 32574
+  encroachments: 62322
+  encrusted: 52718
+  encrypt: 28501
+  encrypted: 15753
+  encrypting: 52789
+  encryption: 11349
+  encrypts: 70950
+scored_words:
+  encroaches: 159232
+  encrust: 214884
+  encrustation: 178885
+  encrusting: 213209
+  encryptions: 211155
+not_scored_words:
+- encrimson
+- encrimsoned
+- encrimsoning
+- encrimsons
+- encrinite
+- encroacher
+- encroachers
+- encrustations
+- encrusts

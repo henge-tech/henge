@@ -1,0 +1,43 @@
+---
+pattern: exec_
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 33
+score: 1457648
+score_per_word: 66256
+hi_scored_words:
+  exec: 15688
+  execrable: 91382
+  execs: 34525
+  executable: 14236
+  execute: 5678
+  executed: 4735
+  executes: 28319
+  executing: 11954
+  execution: 2717
+  executioner: 31991
+  executioners: 75614
+  executions: 23247
+  executive: 1897
+  executives: 16325
+  executor: 25443
+  executors: 43162
+scored_words:
+  execrate: 247642
+  execrated: 149524
+  execration: 199368
+  executer: 216106
+  executory: 112581
+  executrix: 105514
+not_scored_words:
+- execrably
+- execrates
+- execrating
+- execrative
+- execrator
+- execratory
+- executant
+- executants
+- executorial
+- executorship
+- executrices

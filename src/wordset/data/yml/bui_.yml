@@ -1,0 +1,22 @@
+---
+pattern: bui_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 310749
+score_per_word: 31074
+hi_scored_words:
+  build: 1097
+  builder: 6686
+  builders: 6891
+  building: 536
+  buildings: 2039
+  builds: 7746
+  buildup: 26062
+  built: 784
+  builtin: 61741
+scored_words:
+  buildups: 197167
+not_scored_words:
+- Buick
+- Buitenzorg

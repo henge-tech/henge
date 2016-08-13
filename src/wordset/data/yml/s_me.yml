@@ -1,0 +1,43 @@
+---
+pattern: s_me
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 33
+score: 973750
+score_per_word: 48687
+hi_scored_words:
+  same: 149
+  scheme: 1992
+  selfsame: 99869
+  sesame: 19021
+  shame: 3917
+  showtime: 17924
+  slime: 21881
+  some: 68
+  sometime: 7285
+  springtime: 29579
+  sublime: 5136
+  subprime: 51003
+  summertime: 21578
+  supreme: 2358
+  surname: 8629
+  syndrome: 7899
+scored_words:
+  schistosome: 266340
+  spume: 104323
+  subsume: 101203
+  suppertime: 203596
+not_scored_words:
+- Salome
+- Somme
+- Suriname
+- seedtime
+- semanteme
+- sememe
+- semidome
+- septime
+- smalltime
+- spireme
+- squame
+- stepdame
+- stereochrome

@@ -1,0 +1,30 @@
+---
+pattern: rel_es
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1135978
+score_per_word: 81141
+hi_scored_words:
+  relapses: 70926
+  relates: 6838
+  relatives: 5193
+  relaxes: 46898
+  releases: 8568
+  relies: 13599
+  relieves: 33673
+  relishes: 75416
+  relocates: 95826
+scored_words:
+  relaunches: 174345
+  relegates: 181960
+  reliabilities: 153431
+  relinquishes: 128677
+  relives: 140628
+not_scored_words:
+- relativizes
+- reliablenesses
+- religiosities
+- relines
+- reliquaries
+- reluctivities

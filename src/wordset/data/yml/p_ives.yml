@@ -1,0 +1,30 @@
+---
+pattern: p_ives
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1593190
+score_per_word: 122553
+hi_scored_words:
+  passives: 79373
+  perceives: 35738
+  perspectives: 12180
+  positives: 15325
+  prerogatives: 57995
+  preservatives: 34001
+  primitives: 36032
+  progressives: 30399
+scored_words:
+  penknives: 302645
+  plosives: 257673
+  possessives: 182838
+  preventatives: 277630
+  preventives: 271361
+not_scored_words:
+- palliatives
+- partitives
+- pejoratives
+- perfectives
+- pocketknives
+- preconceives
+- purgatives

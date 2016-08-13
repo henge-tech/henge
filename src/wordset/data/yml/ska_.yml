@@ -1,0 +1,31 @@
+---
+pattern: ska_
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 21
+score: 666707
+score_per_word: 47621
+hi_scored_words:
+  ska: 22397
+  skat: 98375
+  skate: 12305
+  skateboard: 16250
+  skateboarder: 76887
+  skateboarders: 86210
+  skateboarding: 18652
+  skateboards: 32344
+  skated: 64170
+  skater: 19691
+  skaters: 32485
+  skates: 18649
+  skating: 10584
+scored_words:
+  skald: 157708
+not_scored_words:
+- Skagerak
+- Skagerrak
+- Skagway
+- Skaw
+- skaldic
+- skateboarded
+- skatole

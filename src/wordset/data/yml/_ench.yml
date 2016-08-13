@@ -1,0 +1,30 @@
+---
+pattern: _ench
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 20
+score: 1052808
+score_per_word: 70187
+hi_scored_words:
+  bench: 4331
+  clench: 68485
+  drench: 66108
+  entrench: 85374
+  french: 509
+  quench: 28661
+  stench: 27729
+  tench: 75975
+  trench: 12679
+  wench: 33849
+  workbench: 31004
+  wrench: 15469
+scored_words:
+  backbench: 140872
+  frontbench: 271439
+  retrench: 190324
+not_scored_words:
+- Bench
+- French
+- Hench
+- blench
+- unclench

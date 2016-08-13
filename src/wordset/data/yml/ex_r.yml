@@ -1,0 +1,82 @@
+---
+pattern: ex_r
+hi_scored_words_count: 25
+scored_words_count: 14
+total_words: 72
+score: 3487369
+score_per_word: 89419
+hi_scored_words:
+  examiner: 13635
+  excavator: 48325
+  excelsior: 30795
+  exchanger: 30340
+  exchequer: 31824
+  exciter: 76566
+  executioner: 31991
+  executor: 25443
+  exemplar: 40601
+  exerciser: 96483
+  exhibitor: 29248
+  expander: 45885
+  experimenter: 48809
+  explorer: 6595
+  exporter: 26641
+  extender: 30032
+  extensor: 59689
+  exterior: 6084
+  exterminator: 53592
+  extinguisher: 37807
+  extracellular: 20421
+  extractor: 23570
+  extracurricular: 29527
+  extrasolar: 70122
+  extruder: 76303
+scored_words:
+  executer: 216106
+  exfoliator: 170514
+  exhibitioner: 148595
+  expediter: 188593
+  expeller: 256294
+  explainer: 131651
+  exploder: 124388
+  exploiter: 104488
+  exposer: 276808
+  expositor: 116051
+  expounder: 156840
+  exr: 170752
+  extravascular: 222549
+  extravehicular: 213412
+not_scored_words:
+- Excalibur
+- Exchequer
+- Exeter
+- Exmoor
+- Explorer
+- exacter
+- exactor
+- exaggerator
+- excitor
+- excommunicator
+- excuser
+- execrator
+- exemplifier
+- exequatur
+- exhorter
+- exonerator
+- expender
+- expiator
+- explicator
+- expostulator
+- expropriator
+- expunger
+- expurgator
+- extensometer
+- extenuator
+- exteroceptor
+- extirpator
+- extoller
+- extorter
+- extortioner
+- extranuclear
+- extrapolator
+- extremer

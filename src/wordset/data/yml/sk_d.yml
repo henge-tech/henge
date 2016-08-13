@@ -1,0 +1,46 @@
+---
+pattern: sk_d
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 36
+score: 2209406
+score_per_word: 96061
+hi_scored_words:
+  skateboard: 16250
+  skated: 64170
+  sketched: 35431
+  skewed: 26264
+  skewered: 93394
+  skid: 20207
+  skidded: 90519
+  skied: 65323
+  skilled: 5720
+  skimmed: 44928
+  skinhead: 56344
+  skinned: 22865
+  skipped: 15832
+  skirted: 46477
+  skyrocketed: 63684
+  skyward: 64120
+scored_words:
+  skald: 157708
+  sketchpad: 109519
+  skimped: 262312
+  skippered: 121591
+  skittered: 293550
+  skulked: 279358
+  skunked: 253840
+not_scored_words:
+- Skuld
+- skateboarded
+- skedaddled
+- skewbald
+- skirled
+- skirmished
+- skittled
+- skived
+- skivvied
+- skydived
+- skyjacked
+- skylarked
+- skylighted

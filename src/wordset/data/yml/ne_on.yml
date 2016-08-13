@@ -1,0 +1,28 @@
+---
+pattern: ne_on
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 18
+score: 895084
+score_per_word: 68852
+hi_scored_words:
+  negation: 24654
+  negotiation: 7910
+  nelson: 4048
+  neocon: 52502
+  neon: 13170
+  nephron: 94318
+  neuron: 23514
+  neurosurgeon: 66683
+  neutralization: 42530
+  neutron: 18056
+  newton: 9633
+scored_words:
+  nebulization: 303943
+  nekton: 234123
+not_scored_words:
+- Nelson
+- Nevelson
+- Newton
+- necessitation
+- negatron

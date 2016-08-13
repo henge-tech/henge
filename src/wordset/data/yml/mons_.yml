@@ -1,0 +1,32 @@
+---
+pattern: mons_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 22
+score: 823674
+score_per_word: 68639
+hi_scored_words:
+  monsieur: 16470
+  monsignor: 51623
+  monsoon: 21021
+  monsoons: 91908
+  monster: 3173
+  monsters: 7580
+  monstrosity: 61380
+  monstrous: 18420
+scored_words:
+  monseigneur: 107596
+  monsoonal: 205284
+  monstrosities: 113234
+  monstrously: 125985
+not_scored_words:
+- Mons
+- Monsanto
+- Monseigneur
+- Monsieur
+- Monsignor
+- Monsignors
+- monsignors
+- monstrance
+- monstrances
+- monstrousness

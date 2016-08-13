@@ -1,0 +1,41 @@
+---
+pattern: des_g
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 31
+score: 1805036
+score_per_word: 95001
+hi_scored_words:
+  descending: 7472
+  describing: 5562
+  deserting: 82661
+  deserving: 16366
+  designating: 27304
+  designing: 6975
+  desiring: 19528
+  despairing: 50257
+  despising: 97056
+  destabilizing: 59805
+  destroying: 8667
+scored_words:
+  desalting: 204188
+  descaling: 248973
+  desecrating: 163246
+  deselecting: 249955
+  desensitizing: 142772
+  desolating: 112275
+  despoiling: 153376
+  destructing: 148598
+not_scored_words:
+- desalinating
+- desalinizing
+- descanting
+- descrying
+- desegregating
+- desexing
+- desexualizing
+- desiccating
+- desisting
+- deskilling
+- desquamating
+- destining

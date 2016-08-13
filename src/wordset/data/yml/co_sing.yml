@@ -1,0 +1,26 @@
+---
+pattern: co_sing
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 16
+score: 621083
+score_per_word: 51756
+hi_scored_words:
+  collapsing: 32673
+  composing: 16278
+  compressing: 41810
+  comprising: 10129
+  compromising: 22712
+  condensing: 39133
+  confessing: 44131
+  confusing: 9934
+  conversing: 42007
+  coursing: 53720
+scored_words:
+  compassing: 162156
+  convulsing: 146400
+not_scored_words:
+- concussing
+- consing
+- contusing
+- counterpoising

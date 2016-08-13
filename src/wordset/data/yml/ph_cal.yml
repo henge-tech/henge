@@ -1,0 +1,36 @@
+---
+pattern: ph_cal
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 26
+score: 1125937
+score_per_word: 80424
+hi_scored_words:
+  pharmaceutical: 9170
+  pharmacological: 28453
+  phenomenological: 42533
+  philological: 75470
+  philosophical: 6552
+  phonological: 34242
+  photochemical: 55484
+  photographical: 85890
+  physical: 838
+  physicochemical: 72226
+  physiological: 10728
+scored_words:
+  phantasmagorical: 201102
+  photomechanical: 330945
+  phytochemical: 172304
+not_scored_words:
+- Pharisaical
+- pharisaical
+- phenotypical
+- philanthropical
+- phlegmatical
+- photoelectrical
+- photometrical
+- phraseological
+- phrenetical
+- phrenological
+- physiognomical
+- physiographical

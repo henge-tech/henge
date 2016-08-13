@@ -1,0 +1,22 @@
+---
+pattern: girl_
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 12
+score: 305789
+score_per_word: 33976
+hi_scored_words:
+  girl: 380
+  girlfriend: 9111
+  girlfriends: 19559
+  girlhood: 80188
+  girlie: 34834
+  girlies: 79446
+  girlish: 56515
+  girls: 431
+  girly: 25325
+scored_words: {}
+not_scored_words:
+- girlhoods
+- girlishly
+- girlishness

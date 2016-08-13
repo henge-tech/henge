@@ -1,0 +1,25 @@
+---
+pattern: vi_ity
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 15
+score: 392044
+score_per_word: 39204
+hi_scored_words:
+  viability: 17682
+  vicinity: 7768
+  virginity: 25571
+  virility: 43145
+  virtuosity: 60934
+  viscosity: 19604
+  visibility: 16135
+  vitality: 14221
+  vivacity: 63533
+scored_words:
+  virtuality: 123451
+not_scored_words:
+- villosity
+- vinosity
+- viridity
+- viscidity
+- viviparity

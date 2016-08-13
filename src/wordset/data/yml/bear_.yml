@@ -1,0 +1,39 @@
+---
+pattern: bear_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 29
+score: 1054393
+score_per_word: 62023
+hi_scored_words:
+  bear: 1307
+  bearable: 46875
+  bearcat: 69991
+  bearcats: 46274
+  beard: 7054
+  bearded: 19601
+  beards: 35432
+  bearer: 17463
+  bearers: 28995
+  bearing: 3307
+  bearings: 12036
+  bearish: 59458
+  bears: 2574
+scored_words:
+  bearberry: 221099
+  beardless: 134334
+  bearskin: 105937
+  bearwood: 242656
+not_scored_words:
+- Beard
+- Beardmore
+- Beardsley
+- Bearnaise
+- bearably
+- bearberries
+- bearding
+- bearishly
+- bearishness
+- bearlike
+- bearskins
+- bearwoods

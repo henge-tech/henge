@@ -1,0 +1,32 @@
+---
+pattern: _icts
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 22
+score: 1450687
+score_per_word: 85334
+hi_scored_words:
+  addicts: 17429
+  afflicts: 72761
+  conflicts: 6286
+  contradicts: 29850
+  convicts: 30726
+  depicts: 20745
+  districts: 3679
+  edicts: 54938
+  inflicts: 74249
+  predicts: 24027
+  restricts: 33720
+  verdicts: 40508
+scored_words:
+  benedicts: 232118
+  constricts: 174597
+  derelicts: 225875
+  evicts: 294292
+  indicts: 114887
+not_scored_words:
+- apomicts
+- interdicts
+- maledicts
+- redistricts
+- relicts

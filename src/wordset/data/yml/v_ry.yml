@@ -1,0 +1,42 @@
+---
+pattern: v_ry
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 32
+score: 1332550
+score_per_word: 83284
+hi_scored_words:
+  vary: 3808
+  very: 99
+  vestry: 42421
+  veterinary: 13380
+  vibratory: 61593
+  victory: 2355
+  visionary: 14915
+  vocabulary: 7272
+  voluntary: 4549
+  voluptuary: 96851
+scored_words:
+  vagary: 187086
+  vainglory: 108990
+  valedictory: 124587
+  veery: 161692
+  vinegary: 269437
+  votary: 233515
+not_scored_words:
+- Valery
+- Valéry
+- vacillatory
+- valetudinary
+- vapory
+- varletry
+- vaticinatory
+- venery
+- vesicatory
+- vespiary
+- vestiary
+- vicenary
+- vindicatory
+- vinery
+- vomitory
+- vulnerary

@@ -1,0 +1,34 @@
+---
+pattern: hid_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 24
+score: 1439017
+score_per_word: 84648
+hi_scored_words:
+  hid: 9054
+  hidalgo: 34480
+  hidden: 1953
+  hide: 1895
+  hideaway: 32884
+  hideous: 17770
+  hideously: 72020
+  hideout: 37404
+  hider: 96993
+  hides: 18105
+  hiding: 5997
+scored_words:
+  hiddenite: 269511
+  hideaways: 116236
+  hidebound: 166842
+  hideousness: 231646
+  hideouts: 121416
+  hiders: 204811
+not_scored_words:
+- Hidalgo
+- hiddenites
+- hided
+- hidings
+- hidroses
+- hidrosis
+- hidrotic

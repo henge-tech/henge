@@ -1,0 +1,47 @@
+---
+pattern: mars_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 37
+score: 1014755
+score_per_word: 63422
+hi_scored_words:
+  mars: 4322
+  marseilles: 28630
+  marsh: 8225
+  marshal: 10343
+  marshals: 32657
+  marshes: 23313
+  marshland: 82050
+  marshmallow: 34179
+  marshmallows: 43932
+  marshy: 53337
+  marsupial: 66084
+  marsupials: 87119
+scored_words:
+  marshaled: 117134
+  marshaling: 105826
+  marshaller: 216138
+  marshlands: 101466
+not_scored_words:
+- Mars
+- Marsala
+- Marsalas
+- Marseillaise
+- Marseillaises
+- Marseilles
+- Marses
+- Marsh
+- Marsha
+- Marshal
+- Marshall
+- Marshallese
+- marshaler
+- marshalship
+- marshalships
+- marshier
+- marshiest
+- marshiness
+- marsipobranch
+- marsupia
+- marsupium

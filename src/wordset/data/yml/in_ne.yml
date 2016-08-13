@@ -1,0 +1,40 @@
+---
+pattern: in_ne
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 30
+score: 1938746
+score_per_word: 102039
+hi_scored_words:
+  inane: 39873
+  incline: 19529
+  inhumane: 39977
+  inline: 14890
+  inopportune: 85792
+  insane: 6922
+  interline: 92515
+  interne: 65382
+  internecine: 93803
+  intertwine: 83618
+  intervene: 15197
+  intestine: 18908
+  intrauterine: 46858
+scored_words:
+  incarnadine: 234525
+  indiscipline: 137946
+  infantine: 193280
+  interphone: 268197
+  intone: 174467
+  intwine: 307067
+not_scored_words:
+- Inhambane
+- indamine
+- indene
+- indigene
+- induline
+- inquiline
+- inshrine
+- intermontane
+- intine
+- intramundane
+- inurbane

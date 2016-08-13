@@ -1,0 +1,37 @@
+---
+pattern: cou_ng
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 27
+score: 897671
+score_per_word: 69051
+hi_scored_words:
+  coughing: 21317
+  counseling: 4366
+  counteracting: 81916
+  counterfeiting: 45151
+  countering: 42074
+  countervailing: 53180
+  counting: 5224
+  coupling: 14996
+  coursing: 53720
+  courting: 34427
+scored_words:
+  couching: 198936
+  countenancing: 176778
+  counterbalancing: 165586
+not_scored_words:
+- counterattacking
+- counterchanging
+- counterchecking
+- counterclaiming
+- countermanding
+- countermarching
+- countermining
+- counterplotting
+- counterpointing
+- counterpoising
+- countershading
+- countersigning
+- countersinking
+- couriering

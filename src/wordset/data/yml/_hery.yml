@@ -1,0 +1,32 @@
+---
+pattern: _hery
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 22
+score: 1073427
+score_per_word: 76673
+hi_scored_words:
+  archery: 16676
+  butchery: 73031
+  debauchery: 41589
+  feathery: 66177
+  fishery: 15185
+  haberdashery: 79338
+  hatchery: 29358
+  leathery: 56801
+  periphery: 27633
+  treachery: 25540
+  witchery: 78704
+scored_words:
+  lechery: 193372
+  slithery: 195096
+  stitchery: 174927
+not_scored_words:
+- Zachery
+- dithery
+- heathery
+- lathery
+- ochery
+- smithery
+- sphery
+- washery

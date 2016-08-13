@@ -1,0 +1,25 @@
+---
+pattern: _etch
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 15
+score: 1042285
+score_per_word: 80175
+hi_scored_words:
+  etch: 30949
+  fetch: 7918
+  fletch: 62395
+  ketch: 53668
+  sketch: 6748
+  stretch: 3822
+  vetch: 61494
+  wretch: 10851
+scored_words:
+  backstretch: 138130
+  homestretch: 147388
+  kvetch: 163923
+  overstretch: 230648
+  retch: 124351
+not_scored_words:
+- bletch
+- outstretch

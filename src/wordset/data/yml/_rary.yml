@@ -1,0 +1,29 @@
+---
+pattern: _rary
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 19
+score: 361014
+score_per_word: 32819
+hi_scored_words:
+  arbitrary: 6416
+  contemporary: 2849
+  contrary: 4137
+  funerary: 55333
+  honorary: 12637
+  itinerary: 19846
+  library: 837
+  literary: 2764
+  supernumerary: 78805
+  temporary: 2779
+scored_words:
+  horary: 174611
+not_scored_words:
+- Tipperary
+- cinerary
+- cotemporary
+- extemporary
+- nonliterary
+- numerary
+- unliterary
+- vulnerary

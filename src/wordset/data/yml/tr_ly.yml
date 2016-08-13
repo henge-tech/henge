@@ -1,0 +1,60 @@
+---
+pattern: tr_ly
+hi_scored_words_count: 10
+scored_words_count: 14
+total_words: 50
+score: 3279003
+score_per_word: 136625
+hi_scored_words:
+  traditionally: 12895
+  tragically: 32618
+  transiently: 66442
+  transparently: 49992
+  transversely: 64594
+  tremendously: 21215
+  triumphantly: 53775
+  trivially: 59876
+  truly: 1872
+  truthfully: 31235
+scored_words:
+  tranquilly: 177532
+  transcendentally: 147300
+  transcriptionally: 149210
+  transitively: 181175
+  treacherously: 114606
+  treacly: 301321
+  trebly: 290039
+  tremblingly: 126659
+  tremulously: 253720
+  tribally: 165542
+  trimly: 305317
+  triply: 137072
+  tropically: 276437
+  trustfully: 258559
+not_scored_words:
+- Trichinopoly
+- tractably
+- tragicomically
+- traitorously
+- transcendently
+- transitionally
+- transitorily
+- translucently
+- transmutably
+- traumatically
+- trembly
+- trenchantly
+- trendily
+- triangularly
+- trickily
+- triennially
+- triflingly
+- trimonthly
+- tripartitely
+- tritely
+- triweekly
+- troublesomely
+- truculently
+- trustily
+- trustingly
+- tryingly

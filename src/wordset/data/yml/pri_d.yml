@@ -1,0 +1,28 @@
+---
+pattern: pri_d
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 18
+score: 603365
+score_per_word: 46412
+hi_scored_words:
+  priced: 12745
+  pricked: 70256
+  prided: 74666
+  pried: 90969
+  priesthood: 18913
+  primed: 34987
+  principled: 43164
+  printed: 1971
+  prioritized: 42682
+  privatized: 41382
+  privileged: 8766
+  prized: 25094
+scored_words:
+  printhead: 137770
+not_scored_words:
+- prickled
+- primped
+- prinked
+- prismatoid
+- prismoid

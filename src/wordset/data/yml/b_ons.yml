@@ -1,0 +1,62 @@
+---
+pattern: b_ons
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 52
+score: 2689615
+score_per_word: 107584
+hi_scored_words:
+  baboons: 60743
+  balloons: 13129
+  barons: 27374
+  baryons: 99134
+  bastions: 76254
+  batons: 54465
+  battalions: 30560
+  beacons: 34623
+  beckons: 52148
+  bifurcations: 95159
+  billions: 13612
+  bosons: 60419
+  bourbons: 97849
+  buffoons: 96720
+  bunions: 93890
+  buttons: 7693
+scored_words:
+  bandwagons: 275329
+  bassoons: 127713
+  benedictions: 180190
+  benefactions: 234078
+  blazons: 177830
+  bludgeons: 269450
+  bonbons: 112825
+  boons: 115983
+  businesspersons: 282445
+not_scored_words:
+- Babylons
+- Bostons
+- Bourbons
+- Bretons
+- Britons
+- barbarizations
+- bastardizations
+- battlewagons
+- bazillions
+- beatifications
+- bellybuttons
+- benisons
+- betatrons
+- bevatrons
+- biathlons
+- bioremediations
+- bisections
+- bombardons
+- botherations
+- bouillons
+- bourdons
+- bourgeons
+- boustrophedons
+- bowdlerizations
+- brachiations
+- bridoons
+- burgeons

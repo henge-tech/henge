@@ -1,0 +1,30 @@
+---
+pattern: pyr_e
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1536908
+score_per_word: 118223
+hi_scored_words:
+  pyre: 56124
+  pyrene: 70197
+  pyridine: 51409
+  pyridoxine: 68662
+  pyrimidine: 60781
+  pyrite: 43740
+  pyrophosphate: 61775
+  pyroxene: 81830
+  pyruvate: 38612
+scored_words:
+  pyrazole: 269816
+  pyrope: 258050
+  pyrrhotite: 211915
+  pyrrolidine: 263997
+not_scored_words:
+- pyrargyrite
+- pyrogallate
+- pyrolyze
+- pyromorphite
+- pyrone
+- pyrophyllite
+- pyroxenite

@@ -1,0 +1,23 @@
+---
+pattern: b_ast
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 13
+score: 182392
+score_per_word: 20265
+hi_scored_words:
+  ballast: 19979
+  bast: 48150
+  beast: 3060
+  blast: 4670
+  boast: 17283
+  bombast: 80851
+  breakfast: 1569
+  breast: 1729
+  broadcast: 5101
+scored_words: {}
+not_scored_words:
+- Belfast
+- beanfeast
+- bedfast
+- biblioclast

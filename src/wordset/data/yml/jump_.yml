@@ -1,0 +1,23 @@
+---
+pattern: jump_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 280765
+score_per_word: 31196
+hi_scored_words:
+  jump: 2098
+  jumped: 6378
+  jumper: 17964
+  jumpers: 24159
+  jumping: 9975
+  jumps: 11776
+  jumpsuit: 51093
+  jumpy: 50366
+scored_words:
+  jumpsuits: 106956
+not_scored_words:
+- jumpier
+- jumpiest
+- jumpily
+- jumpiness

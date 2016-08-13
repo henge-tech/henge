@@ -1,0 +1,32 @@
+---
+pattern: sna_s
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 22
+score: 1058569
+score_per_word: 75612
+hi_scored_words:
+  snacks: 12312
+  snags: 54185
+  snails: 27524
+  snakes: 10070
+  snappers: 87972
+  snaps: 20025
+  snapshots: 18683
+  snares: 41583
+  snarls: 91088
+  snatchers: 75412
+  snatches: 41632
+scored_words:
+  snafus: 231587
+  snakebites: 225358
+  snapdragons: 121138
+not_scored_words:
+- snaffles
+- snakebirds
+- snakeroots
+- snappiness
+- snappishness
+- snarfs
+- snarks
+- snazziness

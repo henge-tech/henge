@@ -1,0 +1,24 @@
+---
+pattern: wait_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 433131
+score_per_word: 43313
+hi_scored_words:
+  wait: 965
+  waited: 5548
+  waiter: 13040
+  waiters: 29169
+  waiting: 1259
+  waitress: 20823
+  waitresses: 53482
+  waits: 12106
+scored_words:
+  waitressing: 187162
+  waitstaff: 109577
+not_scored_words:
+- Waite
+- waitperson
+- waitpersons
+- waitron

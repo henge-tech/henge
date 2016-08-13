@@ -1,0 +1,44 @@
+---
+pattern: _urn
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 34
+score: 991127
+score_per_word: 52164
+hi_scored_words:
+  adjourn: 26808
+  auburn: 11643
+  burn: 2924
+  churn: 29464
+  downturn: 24577
+  heartburn: 26040
+  mourn: 25397
+  outturn: 99373
+  overturn: 27476
+  return: 274
+  sojourn: 28844
+  spurn: 71884
+  sunburn: 36622
+  taciturn: 74222
+  turn: 484
+  upturn: 56868
+  urn: 16453
+scored_words:
+  furn: 148027
+  nocturn: 283747
+not_scored_words:
+- Bannockburn
+- Blackburn
+- Cliburn
+- Hepburn
+- Lisburn
+- Otterburn
+- Raeburn
+- Rayburn
+- Saturn
+- Solothurn
+- Tyburn
+- Wilburn
+- inurn
+- readjourn
+- windburn

@@ -1,0 +1,38 @@
+---
+pattern: clim_
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 28
+score: 1718495
+score_per_word: 74717
+hi_scored_words:
+  climactic: 47022
+  climate: 2465
+  climates: 22895
+  climatic: 19611
+  climatological: 67097
+  climatology: 42666
+  climax: 12277
+  climaxes: 78982
+  climb: 5976
+  climbed: 9908
+  climber: 26557
+  climbers: 30228
+  climbing: 4604
+  climbs: 22401
+  clime: 80521
+  climes: 70891
+scored_words:
+  climacteric: 152133
+  climatically: 208138
+  climatologist: 145854
+  climatologists: 163772
+  climaxed: 106178
+  climaxing: 146266
+  climbdown: 252053
+not_scored_words:
+- climactically
+- climatical
+- climatologic
+- climatologically
+- climbable

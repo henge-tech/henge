@@ -1,0 +1,36 @@
+---
+pattern: rep_n
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 26
+score: 1551509
+score_per_word: 67456
+hi_scored_words:
+  repairman: 65749
+  reparation: 35776
+  repatriation: 29320
+  repetition: 11245
+  replication: 12936
+  reposition: 49395
+  repossession: 64885
+  representation: 3018
+  repression: 17486
+  reproduction: 5891
+  reptilian: 48732
+  republican: 3918
+  republication: 50846
+  repudiation: 40951
+  repulsion: 37608
+  reputation: 3241
+scored_words:
+  repairmen: 151452
+  repartition: 115787
+  repercussion: 124974
+  repletion: 173296
+  replevin: 136994
+  reprehension: 197690
+  reprobation: 170319
+not_scored_words:
+- Republican
+- repairwoman
+- repugn

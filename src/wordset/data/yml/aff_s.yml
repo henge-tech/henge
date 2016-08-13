@@ -1,0 +1,41 @@
+---
+pattern: aff_s
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 31
+score: 943475
+score_per_word: 55498
+hi_scored_words:
+  affaires: 33450
+  affairs: 1381
+  affections: 20871
+  affects: 5740
+  affidavits: 42915
+  affiliates: 5005
+  affiliations: 17147
+  affinities: 43626
+  affirmations: 46285
+  affirms: 30253
+  affixes: 81443
+  afflictions: 50778
+  afflicts: 72761
+  affords: 18457
+scored_words:
+  affectations: 152808
+  afflatus: 127572
+  affronts: 192983
+not_scored_words:
+- affectiveness
+- affectless
+- affectlessness
+- affenpinschers
+- affiances
+- affirmatives
+- affixations
+- afforests
+- affranchises
+- affrays
+- affricates
+- affricatives
+- affrights
+- affusions

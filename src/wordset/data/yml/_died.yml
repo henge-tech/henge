@@ -1,0 +1,35 @@
+---
+pattern: _died
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 25
+score: 1818070
+score_per_word: 95687
+hi_scored_words:
+  bandied: 86368
+  bloodied: 69507
+  bodied: 29080
+  candied: 47188
+  died: 1199
+  disembodied: 50284
+  embodied: 17917
+  readied: 59742
+  remedied: 40002
+  steadied: 91745
+  studied: 3001
+  tidied: 79171
+scored_words:
+  birdied: 140223
+  brandied: 281844
+  eddied: 213293
+  muddied: 119092
+  parodied: 103357
+  understudied: 204130
+  unstudied: 180927
+not_scored_words:
+- caddied
+- reembodied
+- restudied
+- toadied
+- unbloodied
+- unbodied

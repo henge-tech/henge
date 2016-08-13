@@ -1,0 +1,38 @@
+---
+pattern: p_ment
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 28
+score: 1214832
+score_per_word: 60741
+hi_scored_words:
+  parchment: 21061
+  parliament: 3132
+  pavement: 9003
+  payment: 1391
+  pediment: 87747
+  pigment: 18356
+  placement: 7632
+  postponement: 33739
+  predicament: 26699
+  prepayment: 38777
+  presentment: 63720
+  pretreatment: 36404
+  procurement: 16924
+  pronouncement: 59792
+  punishment: 4112
+  puzzlement: 94571
+scored_words:
+  prearrangement: 320924
+  preferment: 111777
+  prejudgment: 145172
+  presentiment: 113899
+not_scored_words:
+- Parliament
+- parament
+- preachment
+- preenlistment
+- prefigurement
+- preretirement
+- prodisarmament
+- progovernment

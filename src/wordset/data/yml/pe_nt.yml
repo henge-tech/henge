@@ -1,0 +1,30 @@
+---
+pattern: pe_nt
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 20
+score: 1314686
+score_per_word: 69194
+hi_scored_words:
+  peasant: 11890
+  pedant: 60968
+  pediment: 87747
+  penchant: 34321
+  pendant: 8524
+  pendent: 51624
+  penitent: 48920
+  pennant: 27999
+  pent: 38953
+  peppermint: 25747
+  percent: 3301
+  permanent: 1961
+  persistent: 7165
+  pertinent: 12904
+  petulant: 64996
+scored_words:
+  penetrant: 124137
+  pentavalent: 292807
+  percipient: 259111
+  pestilent: 151611
+not_scored_words:
+- peccant

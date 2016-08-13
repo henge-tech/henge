@@ -1,0 +1,50 @@
+---
+pattern: impu_
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 40
+score: 2279737
+score_per_word: 94989
+hi_scored_words:
+  impudence: 69683
+  impudent: 60278
+  impugned: 98029
+  impulse: 7348
+  impulses: 17609
+  impulsive: 26207
+  impulsively: 81832
+  impulsivity: 90501
+  impunity: 23347
+  impure: 30100
+  impurities: 27598
+  impurity: 30618
+  imputation: 28296
+  impute: 63472
+  imputed: 29098
+scored_words:
+  impudently: 224342
+  impugn: 104347
+  impugning: 191341
+  impulsion: 175105
+  impulsiveness: 120540
+  imputable: 307258
+  imputations: 137363
+  imputes: 205788
+  imputing: 129637
+not_scored_words:
+- impudicity
+- impugnable
+- impugner
+- impugners
+- impugnment
+- impugns
+- impuissance
+- impuissances
+- impuissant
+- impulsed
+- impulsing
+- impurely
+- impureness
+- impurenesses
+- impurer
+- impurest

@@ -1,0 +1,42 @@
+---
+pattern: vi_t
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 32
+score: 1434408
+score_per_word: 75495
+hi_scored_words:
+  viaduct: 36002
+  vibrant: 13489
+  vicegerent: 87352
+  viewpoint: 15425
+  vigilant: 21682
+  vilayet: 55044
+  vilest: 91346
+  violent: 3226
+  violet: 8577
+  violinist: 29225
+  virulent: 33254
+  viscount: 25513
+  visit: 395
+scored_words:
+  videlicet: 226041
+  violist: 124544
+  virologist: 146495
+  visitant: 241687
+  vivisect: 100007
+  vivisectionist: 175104
+not_scored_words:
+- Vincent
+- Violet
+- vibraphonist
+- vigilantist
+- vignettist
+- viniculturist
+- violoncellist
+- virescent
+- viridescent
+- vitalist
+- viticulturist
+- vitrescent
+- vividest

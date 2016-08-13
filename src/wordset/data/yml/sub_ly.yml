@@ -1,0 +1,29 @@
+---
+pattern: sub_ly
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1264766
+score_per_word: 97289
+hi_scored_words:
+  subconsciously: 58349
+  subcutaneously: 86036
+  subfamily: 25659
+  subjectively: 62094
+  subsequently: 4819
+  substantially: 6279
+  substantively: 74019
+  subtly: 27902
+scored_words:
+  subassembly: 131003
+  sublimely: 123441
+  subliminally: 151665
+  submissively: 185535
+  subversively: 327965
+not_scored_words:
+- subapically
+- subjunctively
+- sublethally
+- subordinately
+- subserviently
+- subsidiarily

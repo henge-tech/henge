@@ -1,0 +1,26 @@
+---
+pattern: se_ons
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 16
+score: 480938
+score_per_word: 43721
+hi_scored_words:
+  seasons: 3950
+  secretions: 39114
+  sections: 2254
+  seductions: 98057
+  selections: 8992
+  semicolons: 81338
+  sensations: 15015
+  separations: 34612
+  sermons: 13878
+  sessions: 4626
+scored_words:
+  serrations: 179102
+not_scored_words:
+- Sessions
+- secessions
+- sequestrations
+- serializations
+- sextons

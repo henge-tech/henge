@@ -1,0 +1,31 @@
+---
+pattern: ab_ns
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 21
+score: 1241839
+score_per_word: 88702
+hi_scored_words:
+  abandons: 36830
+  abbreviations: 19146
+  abductions: 49522
+  aberrations: 37231
+  abominations: 65405
+  abortions: 18595
+  abrasions: 56496
+  abstentions: 59921
+  abstractions: 27478
+scored_words:
+  abdomens: 161832
+  ablations: 313171
+  ablutions: 108522
+  absorptions: 170207
+  abstains: 117483
+not_scored_words:
+- Abyssinians
+- abdications
+- abecedarians
+- abjurations
+- abreactions
+- abrogations
+- abruptions

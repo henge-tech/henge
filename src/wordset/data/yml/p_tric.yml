@@ -1,0 +1,22 @@
+---
+pattern: p_tric
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 509487
+score_per_word: 56609
+hi_scored_words:
+  parametric: 22683
+  pediatric: 8926
+  photoelectric: 51968
+  photometric: 45002
+  piezoelectric: 44957
+  podiatric: 80945
+  psychiatric: 11510
+  psychometric: 50165
+scored_words:
+  pyroelectric: 193331
+not_scored_words:
+- perimetric
+- phallocentric
+- pneumogastric

@@ -1,0 +1,30 @@
+---
+pattern: can_y
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 966527
+score_per_word: 87866
+hi_scored_words:
+  canary: 14916
+  candidacy: 26665
+  candidly: 45175
+  candy: 5165
+  cannery: 55580
+  canny: 45412
+  canopy: 10967
+  canty: 87518
+scored_words:
+  cannily: 290158
+  canonically: 114087
+  canonicity: 270884
+not_scored_words:
+- Canary
+- Candy
+- Canterbury
+- cancerously
+- candleberry
+- cannonry
+- canonry
+- cantankerously
+- cantingly

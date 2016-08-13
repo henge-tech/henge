@@ -1,0 +1,85 @@
+---
+pattern: s_able
+hi_scored_words_count: 19
+scored_words_count: 27
+total_words: 75
+score: 5636852
+score_per_word: 122540
+hi_scored_words:
+  sable: 17045
+  saleable: 56228
+  scalable: 17131
+  selectable: 34320
+  separable: 34492
+  serviceable: 29245
+  settable: 87103
+  sizable: 34778
+  sizeable: 29316
+  sociable: 34109
+  solvable: 54059
+  sortable: 78744
+  stable: 3121
+  suitable: 2671
+  supportable: 90324
+  survivable: 88188
+  sustainable: 8011
+  switchable: 67140
+  syllable: 16257
+scored_words:
+  salable: 109119
+  salvageable: 115653
+  satisfiable: 102402
+  saturable: 145555
+  savable: 176323
+  scannable: 184502
+  sealable: 157434
+  seasonable: 118582
+  semblable: 271895
+  semipermeable: 230381
+  severable: 146548
+  sharable: 151318
+  shareable: 108787
+  shippable: 172976
+  shrinkable: 124095
+  singable: 198918
+  skiable: 192788
+  specifiable: 223005
+  spendable: 247746
+  spreadable: 175362
+  squeezable: 267982
+  steerable: 105747
+  stoppable: 292492
+  stretchable: 125097
+  substitutable: 149499
+  summable: 271620
+  surmountable: 288744
+not_scored_words:
+- Sable
+- sanctionable
+- saponifiable
+- satiable
+- saveable
+- scrutable
+- segregable
+- seizable
+- sequestrable
+- shakable
+- shakeable
+- shockable
+- shreddable
+- sinkable
+- sliceable
+- soundable
+- speakable
+- spellable
+- spillable
+- stageable
+- statutable
+- suable
+- submittable
+- subsumable
+- sufferable
+- superable
+- superannuable
+- superposable
+- surpassable

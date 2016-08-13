@@ -1,0 +1,38 @@
+---
+pattern: pre_ts
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 28
+score: 1256858
+score_per_word: 78553
+hi_scored_words:
+  precedents: 30825
+  precepts: 29244
+  precincts: 25486
+  predicts: 24027
+  prefects: 84913
+  prepayments: 96479
+  presents: 2479
+  presets: 34791
+  presidents: 10727
+  prevents: 8183
+scored_words:
+  predicaments: 111815
+  preempts: 142349
+  presentiments: 132317
+  preservationists: 124603
+  pretests: 292560
+  pretexts: 106060
+not_scored_words:
+- precipitants
+- predigests
+- preexists
+- preheats
+- prejudgments
+- prepubescents
+- prescripts
+- preselects
+- presentments
+- presorts
+- preterits
+- pretreatments

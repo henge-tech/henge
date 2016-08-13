@@ -1,0 +1,43 @@
+---
+pattern: obs_s
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 33
+score: 2484923
+score_per_word: 99396
+hi_scored_words:
+  obscenities: 67003
+  obscures: 60977
+  obsequious: 72877
+  obsequiousness: 92802
+  observables: 63682
+  observances: 41838
+  observations: 3278
+  observatories: 49904
+  observers: 9028
+  observes: 17338
+  obsess: 57689
+  obsessions: 38839
+  obstacles: 8632
+  obstetricians: 50137
+  obstetrics: 21738
+  obstructions: 34513
+  obstructs: 88772
+scored_words:
+  obscurities: 165151
+  obsequies: 153041
+  obsesses: 204468
+  obsessiveness: 280118
+  obsessives: 282667
+  obsoletes: 148410
+  obstreperous: 172262
+  obstructionists: 299759
+not_scored_words:
+- obscurantists
+- obscureness
+- obscurenesses
+- obsolesces
+- obsoleteness
+- obsoletenesses
+- obstreperousness
+- obstructiveness

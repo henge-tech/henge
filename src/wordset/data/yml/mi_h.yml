@@ -1,0 +1,36 @@
+---
+pattern: mi_h
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 26
+score: 1146170
+score_per_word: 95514
+hi_scored_words:
+  micrograph: 73690
+  midrash: 55593
+  milch: 92724
+  millionth: 50431
+  mirth: 29361
+  mishmash: 84643
+  mismatch: 25240
+  mitzvah: 24359
+scored_words:
+  mikvah: 146059
+  mikveh: 174159
+  milkfish: 246235
+  mimeograph: 143676
+not_scored_words:
+- Micah
+- Mich
+- Middlesbrough
+- Mirach
+- Mishnah
+- Mitch
+- microbarograph
+- microlith
+- microphotograph
+- mikvoth
+- mildish
+- minxish
+- misteach
+- mitzvoth

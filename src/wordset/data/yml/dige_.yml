@@ -1,0 +1,26 @@
+---
+pattern: dige_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 16
+score: 1096054
+score_per_word: 84311
+hi_scored_words:
+  digest: 6019
+  digested: 29222
+  digester: 67715
+  digestibility: 72927
+  digestible: 54413
+  digesting: 57839
+  digestion: 14204
+  digestive: 13435
+  digests: 45693
+scored_words:
+  digerati: 109792
+  digesters: 134249
+  digestions: 281596
+  digestives: 208950
+not_scored_words:
+- digenesis
+- digestant
+- digestif

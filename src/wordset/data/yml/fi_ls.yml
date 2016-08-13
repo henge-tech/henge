@@ -1,0 +1,23 @@
+---
+pattern: fi_ls
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 884629
+score_per_word: 88462
+hi_scored_words:
+  fibrils: 80088
+  fills: 11217
+  fils: 35468
+  finals: 9883
+  fingernails: 35826
+  finials: 68298
+  fireballs: 65562
+  firewalls: 17413
+scored_words:
+  fishtails: 247829
+  fistfuls: 313045
+not_scored_words:
+- fingerstalls
+- fiscals
+- fishbowls

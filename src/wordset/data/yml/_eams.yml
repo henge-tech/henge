@@ -1,0 +1,31 @@
+---
+pattern: _eams
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 21
+score: 1148748
+score_per_word: 76583
+hi_scored_words:
+  beams: 8932
+  creams: 26117
+  daydreams: 58890
+  dreams: 2186
+  gleams: 80136
+  moonbeams: 99931
+  reams: 60713
+  screams: 15679
+  seams: 21297
+  steams: 92951
+  streams: 4551
+  sunbeams: 95858
+  teams: 3974
+scored_words:
+  inseams: 272526
+  mainstreams: 305007
+not_scored_words:
+- bloodstreams
+- breams
+- crossbeams
+- hornbeams
+- millstreams
+- slipstreams

@@ -1,0 +1,35 @@
+---
+pattern: _very
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 25
+score: 1556418
+score_per_word: 86467
+hi_scored_words:
+  antislavery: 81603
+  bravery: 16892
+  delivery: 2526
+  discovery: 2293
+  every: 176
+  livery: 26558
+  recovery: 2718
+  rediscovery: 61499
+  silvery: 27863
+  slavery: 5820
+  thievery: 52238
+  very: 99
+scored_words:
+  carvery: 121829
+  knavery: 227917
+  nondelivery: 253703
+  redelivery: 249358
+  servery: 220576
+  shivery: 202750
+not_scored_words:
+- Avery
+- Cauvery
+- connivery
+- preslavery
+- proslavery
+- quavery
+- quivery

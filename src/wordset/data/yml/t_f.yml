@@ -1,0 +1,27 @@
+---
+pattern: t_f
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 17
+score: 413023
+score_per_word: 37547
+hi_scored_words:
+  takeoff: 29972
+  tariff: 10394
+  thereof: 4537
+  thief: 7743
+  thyself: 21387
+  tiff: 15577
+  toff: 83832
+  tuff: 26503
+  turf: 9525
+  turnoff: 67153
+scored_words:
+  transf: 136400
+not_scored_words:
+- TGIF
+- Taif
+- Tallchief
+- terf
+- thickleaf
+- tipstaff

@@ -1,0 +1,34 @@
+---
+pattern: _eded
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 24
+score: 1472092
+score_per_word: 64004
+hi_scored_words:
+  acceded: 49160
+  ceded: 39238
+  conceded: 20865
+  deeded: 71611
+  exceeded: 9485
+  heeded: 51023
+  impeded: 41872
+  needed: 818
+  preceded: 11269
+  proceeded: 7601
+  receded: 56843
+  seceded: 98228
+  seeded: 27659
+  succeeded: 5456
+  superseded: 17796
+  unheeded: 78345
+  unimpeded: 63716
+  unneeded: 46029
+  weeded: 81872
+scored_words:
+  interceded: 154464
+  reseeded: 276923
+  stampeded: 159358
+  unseeded: 102461
+not_scored_words:
+- anteceded

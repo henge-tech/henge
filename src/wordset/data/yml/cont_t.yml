@@ -1,0 +1,32 @@
+---
+pattern: cont_t
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 22
+score: 732510
+score_per_word: 40695
+hi_scored_words:
+  contact: 444
+  containment: 18044
+  contaminant: 29330
+  contempt: 9449
+  content: 657
+  contentment: 27654
+  contest: 2785
+  contestant: 23382
+  context: 4701
+  continent: 5993
+  contingent: 10915
+  contortionist: 98156
+  contract: 1607
+  contradict: 18233
+  contrast: 2667
+scored_words:
+  continuant: 161371
+  contort: 138702
+  controvert: 178420
+not_scored_words:
+- Continent
+- contextualist
+- contrabandist
+- contrapuntist

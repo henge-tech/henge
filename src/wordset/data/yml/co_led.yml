@@ -1,0 +1,28 @@
+---
+pattern: co_led
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 18
+score: 1029146
+score_per_word: 64321
+hi_scored_words:
+  cobbled: 55029
+  coiled: 25908
+  commingled: 81974
+  compelled: 9106
+  compiled: 6083
+  concealed: 9304
+  consoled: 66486
+  controlled: 3225
+  cooled: 13001
+  counseled: 52164
+  coupled: 7397
+scored_words:
+  coddled: 141259
+  condoled: 220309
+  congealed: 113007
+  corralled: 124431
+  cowled: 100463
+not_scored_words:
+- coaled
+- countervailed

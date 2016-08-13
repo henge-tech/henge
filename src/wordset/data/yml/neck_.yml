@@ -1,0 +1,34 @@
+---
+pattern: neck_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 24
+score: 1158295
+score_per_word: 82735
+hi_scored_words:
+  neck: 2129
+  necked: 35409
+  necklace: 6472
+  necklaces: 16641
+  neckline: 44006
+  necks: 26601
+  necktie: 40429
+  neckties: 60741
+  neckwear: 97991
+scored_words:
+  neckband: 158571
+  neckcloth: 197589
+  neckerchief: 156592
+  necking: 127386
+  necklines: 187738
+not_scored_words:
+- Neckar
+- Necker
+- neckbands
+- neckcloths
+- neckerchiefs
+- necklaced
+- necklacing
+- necklacings
+- neckpiece
+- neckpieces

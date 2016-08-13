@@ -1,0 +1,47 @@
+---
+pattern: h_ms
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 37
+score: 2328295
+score_per_word: 129349
+hi_scored_words:
+  hams: 36048
+  harms: 27756
+  heirlooms: 57136
+  helms: 34913
+  hems: 75628
+  histograms: 48407
+  holograms: 50918
+  hoodlums: 97498
+  hums: 59715
+scored_words:
+  hailstorms: 214762
+  harems: 195780
+  hexagrams: 252574
+  hims: 221067
+  homeomorphisms: 267625
+  homomorphisms: 105773
+  homonyms: 105041
+  honorariums: 231832
+  hookworms: 245822
+not_scored_words:
+- HMS
+- Hebraisms
+- Hellenisms
+- Hinduisms
+- Homs
+- halms
+- hansoms
+- harmoniums
+- haulms
+- hectograms
+- heliotropisms
+- hermaphroditisms
+- heteronyms
+- hirsutisms
+- homerooms
+- homoeroticisms
+- hornbeams
+- houserooms
+- hymeniums

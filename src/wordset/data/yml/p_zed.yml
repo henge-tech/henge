@@ -1,0 +1,49 @@
+---
+pattern: p_zed
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 39
+score: 2068490
+score_per_word: 89934
+hi_scored_words:
+  paralyzed: 25865
+  pasteurized: 70068
+  patronized: 86475
+  penalized: 35272
+  personalized: 7375
+  plagiarized: 80681
+  polarized: 24353
+  politicized: 61421
+  popularized: 44926
+  pressurized: 36317
+  prioritized: 42682
+  privatized: 41382
+  prized: 25094
+  publicized: 26806
+  pulverized: 69475
+scored_words:
+  parallelized: 155173
+  parametrized: 105015
+  parenthesized: 157319
+  particularized: 120924
+  plasticized: 229641
+  polymerized: 103788
+  professionalized: 222579
+  propagandized: 295859
+not_scored_words:
+- palatalized
+- passivized
+- pauperized
+- pedestrianized
+- peptized
+- philosophized
+- phlebotomized
+- photosensitized
+- photosynthesized
+- pintsized
+- pluralized
+- poetized
+- polemicized
+- prologized
+- proselytized
+- psychoanalyzed

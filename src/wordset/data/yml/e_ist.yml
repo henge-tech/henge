@@ -1,0 +1,77 @@
+---
+pattern: e_ist
+hi_scored_words_count: 21
+scored_words_count: 14
+total_words: 67
+score: 3855340
+score_per_word: 110152
+hi_scored_words:
+  ecologist: 48994
+  economist: 13597
+  elitist: 33716
+  empiricist: 90171
+  endocrinologist: 88785
+  enlist: 22310
+  entomologist: 51070
+  environmentalist: 41529
+  epidemiologist: 76367
+  escapist: 74711
+  essayist: 47193
+  ethicist: 96582
+  evangelist: 24963
+  evolutionist: 86027
+  exhibitionist: 42462
+  exist: 1910
+  existentialist: 85382
+  exorcist: 32733
+  expansionist: 92985
+  expressionist: 67246
+  extremist: 23066
+scored_words:
+  editorialist: 284665
+  educationalist: 230168
+  educationist: 234587
+  egoist: 117709
+  egotist: 184161
+  electrologist: 239369
+  endodontist: 206762
+  ergonomist: 262022
+  essentialist: 123600
+  ethnologist: 149601
+  etymologist: 139993
+  eulogist: 159305
+  experimentalist: 185693
+  extortionist: 195906
+not_scored_words:
+- Elohist
+- Esperantist
+- Eucharist
+- Eurocentrist
+- Evangelist
+- econometrist
+- ecotourist
+- ecumenicist
+- ecumenist
+- elegist
+- elocutionist
+- embryologist
+- encyclopedist
+- enologist
+- epigrammatist
+- epistemologist
+- epitomist
+- equilibrist
+- eroticist
+- escapologist
+- eschatologist
+- esotericist
+- ethologist
+- etiologist
+- eugenicist
+- eugenist
+- euphemist
+- euphuist
+- euthenist
+- excursionist
+- exobiologist
+- exodontist

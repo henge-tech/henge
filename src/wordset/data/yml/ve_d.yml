@@ -1,0 +1,47 @@
+---
+pattern: ve_d
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 37
+score: 2011126
+score_per_word: 83796
+hi_scored_words:
+  veered: 64915
+  vegetated: 64321
+  veiled: 27455
+  veined: 56850
+  veld: 81347
+  vend: 64888
+  veneered: 99754
+  venerated: 51760
+  vented: 26360
+  ventilated: 33206
+  ventured: 19581
+  verified: 6228
+  versed: 25413
+  vested: 12974
+  vetoed: 40501
+  vetted: 57614
+  vexed: 36135
+scored_words:
+  vectored: 135640
+  vectorized: 140284
+  vended: 312931
+  verbalized: 181798
+  verged: 218471
+  versified: 126968
+  versioned: 125732
+not_scored_words:
+- Verwoerd
+- vegged
+- vellicated
+- verbid
+- verbified
+- verdigrised
+- verdured
+- verecund
+- vergeboard
+- vesiculated
+- vespid
+- vestibuled
+- vestured

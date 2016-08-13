@@ -1,0 +1,32 @@
+---
+pattern: _pet
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1139984
+score_per_word: 75998
+hi_scored_words:
+  carpet: 4460
+  limpet: 81816
+  parapet: 44631
+  pet: 2833
+  poppet: 96327
+  puppet: 13361
+  snippet: 24452
+  tippet: 81609
+  trumpet: 8580
+  whippet: 63482
+scored_words:
+  crumpet: 113371
+  lappet: 119327
+  moppet: 231103
+  strumpet: 125076
+  tappet: 129556
+not_scored_words:
+- Capet
+- Muppet
+- PET
+- Pet
+- sippet
+- skippet
+- trippet

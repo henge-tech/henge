@@ -1,0 +1,38 @@
+---
+pattern: _eve
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 28
+score: 1442687
+score_per_word: 80149
+hi_scored_words:
+  achieve: 3369
+  believe: 446
+  breve: 46611
+  disbelieve: 65690
+  eve: 4053
+  grieve: 20580
+  peeve: 48381
+  reeve: 26844
+  relieve: 8315
+  reprieve: 40341
+  retrieve: 10491
+  sieve: 22056
+  sleeve: 5350
+scored_words:
+  pareve: 246621
+  semibreve: 149065
+  steeve: 207071
+  thieve: 224135
+  underachieve: 313268
+not_scored_words:
+- Congreve
+- Eve
+- Genevieve
+- Steve
+- aggrieve
+- misbelieve
+- overachieve
+- shirtsleeve
+- shrieve
+- unreeve

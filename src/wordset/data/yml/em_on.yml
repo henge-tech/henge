@@ -1,0 +1,30 @@
+---
+pattern: em_on
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 20
+score: 1711117
+score_per_word: 100653
+hi_scored_words:
+  emanation: 67294
+  emancipation: 17922
+  embarkation: 51780
+  embolization: 69490
+  emigration: 20095
+  emission: 13268
+  emoticon: 43511
+  emotion: 5394
+  emulation: 15663
+  emulsion: 29617
+scored_words:
+  emaciation: 139755
+  emasculation: 125379
+  emblazon: 247110
+  embrocation: 241919
+  emendation: 146028
+  emersion: 290785
+  emulsification: 186107
+not_scored_words:
+- Emerson
+- Empson
+- empoison

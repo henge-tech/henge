@@ -1,0 +1,50 @@
+---
+pattern: _fic
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 40
+score: 2420041
+score_per_word: 110001
+hi_scored_words:
+  calorific: 83664
+  honorific: 74898
+  horrific: 21048
+  nonspecific: 43732
+  pacific: 1894
+  prolific: 15882
+  scientific: 1604
+  specific: 1187
+  terrific: 7755
+  traffic: 2167
+  unscientific: 56404
+scored_words:
+  beatific: 100532
+  calcific: 277251
+  colorific: 316266
+  conspecific: 141895
+  geoscientific: 285535
+  magnific: 202075
+  malefic: 156875
+  nonscientific: 243644
+  soporific: 125165
+  transpacific: 135050
+  unspecific: 125518
+not_scored_words:
+- Cufic
+- Kufic
+- Pacific
+- Sufic
+- benefic
+- deific
+- febrific
+- felicific
+- frigorific
+- morbific
+- ossific
+- prescientific
+- saporific
+- sudorific
+- tenebrific
+- torporific
+- unific
+- vaporific

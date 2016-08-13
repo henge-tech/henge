@@ -1,0 +1,69 @@
+---
+pattern: d_tor
+hi_scored_words_count: 27
+scored_words_count: 8
+total_words: 59
+score: 2806657
+score_per_word: 80190
+hi_scored_words:
+  debtor: 13347
+  decorator: 25774
+  defector: 79793
+  defibrillator: 47585
+  deflator: 85542
+  deflector: 55391
+  dehydrator: 96724
+  demodulator: 98071
+  demonstrator: 40452
+  denominator: 21065
+  depositor: 56638
+  descriptor: 22294
+  designator: 53956
+  destructor: 46520
+  detector: 9850
+  detonator: 43334
+  dictator: 16800
+  differentiator: 93392
+  dilator: 96331
+  director: 2030
+  discriminator: 82496
+  disruptor: 94469
+  dissector: 81574
+  distributor: 6720
+  doctor: 1111
+  dominator: 58837
+  duplicator: 65427
+scored_words:
+  delegator: 253351
+  delineator: 143895
+  desiccator: 189223
+  desolator: 109275
+  detractor: 164229
+  devastator: 125231
+  disseminator: 298528
+  donator: 127402
+not_scored_words:
+- Doctor
+- decapitator
+- decelerator
+- decimator
+- dedicator
+- defalcator
+- defecator
+- deflagrator
+- defoliator
+- deliberator
+- deliminator
+- demarcator
+- denigrator
+- deprecator
+- depreciator
+- depredator
+- depressomotor
+- desalinator
+- desecrator
+- deviator
+- disintegrator
+- dissimulator
+- dissipator
+- dynamotor

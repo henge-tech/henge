@@ -1,0 +1,26 @@
+---
+pattern: doct_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 16
+score: 676613
+score_per_word: 52047
+hi_scored_words:
+  doctor: 1111
+  doctoral: 13598
+  doctorate: 17136
+  doctorates: 54780
+  doctored: 62471
+  doctoring: 70172
+  doctors: 3204
+  doctrinaire: 99053
+  doctrinal: 30701
+  doctrine: 4512
+  doctrines: 13043
+scored_words:
+  doctrinaires: 123834
+  doctrinally: 182998
+not_scored_words:
+- Doctor
+- Doctorow
+- doctrinairism

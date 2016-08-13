@@ -1,0 +1,29 @@
+---
+pattern: f_me
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 860092
+score_per_word: 61435
+hi_scored_words:
+  fame: 3304
+  fearsome: 36472
+  femme: 14304
+  filename: 11206
+  flame: 4164
+  flume: 56234
+  forename: 79256
+  forme: 34007
+  foursome: 32481
+  frame: 1612
+  fume: 31806
+scored_words:
+  flextime: 199200
+  frolicsome: 252428
+  fulsome: 103618
+not_scored_words:
+- Fiume
+- feme
+- filoplume
+- flavorsome
+- foretime

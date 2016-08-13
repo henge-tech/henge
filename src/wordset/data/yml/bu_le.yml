@@ -1,0 +1,25 @@
+---
+pattern: bu_le
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 15
+score: 1031026
+score_per_word: 79309
+hi_scored_words:
+  bubble: 6938
+  buckle: 14136
+  bugle: 25427
+  bumble: 30749
+  bundle: 5659
+  bungle: 63035
+  burgle: 67741
+  bustle: 31836
+  buttonhole: 70212
+scored_words:
+  buddle: 206050
+  bunghole: 160796
+  burble: 165000
+  burnable: 183447
+not_scored_words:
+- Bullwinkle
+- bubonocele

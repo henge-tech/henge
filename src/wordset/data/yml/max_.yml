@@ -1,0 +1,42 @@
+---
+pattern: max_
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 32
+score: 1297881
+score_per_word: 56429
+hi_scored_words:
+  max: 2113
+  maxed: 52165
+  maxi: 17937
+  maxilla: 70739
+  maxillary: 50118
+  maxim: 10289
+  maximal: 16689
+  maximally: 55162
+  maximization: 43297
+  maximize: 12492
+  maximized: 42630
+  maximizer: 96982
+  maximizes: 36728
+  maximizing: 16610
+  maxims: 42347
+  maximum: 1856
+  maximums: 79486
+  maxis: 50606
+  maxwell: 9491
+scored_words:
+  maxes: 165869
+  maximin: 142988
+  maxing: 117730
+  maxwells: 163557
+not_scored_words:
+- Max
+- Maxim
+- Maximalist
+- Maximilian
+- Maxine
+- Maxwell
+- maxillae
+- maxilliped
+- maxiskirt

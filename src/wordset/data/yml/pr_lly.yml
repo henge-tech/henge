@@ -1,0 +1,46 @@
+---
+pattern: pr_lly
+hi_scored_words_count: 9
+scored_words_count: 11
+total_words: 36
+score: 2459680
+score_per_word: 122984
+hi_scored_words:
+  practically: 5639
+  pragmatically: 91582
+  preferentially: 45933
+  principally: 11434
+  procedurally: 87139
+  professionally: 14137
+  proportionally: 45017
+  provincially: 85749
+  provisionally: 39960
+scored_words:
+  prayerfully: 117324
+  prenatally: 153145
+  preternaturally: 214735
+  probabilistically: 162662
+  problematically: 306910
+  prolifically: 162309
+  prophetically: 136156
+  prophylactically: 228015
+  proverbially: 226739
+  providentially: 180687
+  proximally: 144408
+not_scored_words:
+- prehistorically
+- premenstrually
+- prepositionally
+- pridefully
+- primally
+- primevally
+- primordially
+- prismatically
+- prodigally
+- professorially
+- proleptically
+- proprietorially
+- prosaically
+- prosthetically
+- prototypically
+- prudentially

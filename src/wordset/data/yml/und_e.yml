@@ -1,0 +1,64 @@
+---
+pattern: und_e
+hi_scored_words_count: 25
+scored_words_count: 16
+total_words: 54
+score: 4194558
+score_per_word: 102306
+hi_scored_words:
+  undeceive: 86361
+  undecidable: 96339
+  undeliverable: 78964
+  undeniable: 25813
+  underage: 17582
+  undercarriage: 60539
+  underestimate: 26204
+  undergone: 15825
+  undergraduate: 9585
+  underlie: 35520
+  underline: 16948
+  undermine: 14981
+  underscore: 27163
+  underside: 31460
+  understandable: 21134
+  understate: 78053
+  undertake: 6252
+  undertone: 58852
+  undervalue: 91210
+  underwire: 52706
+  underwrite: 51962
+  undesirable: 16486
+  undetectable: 42959
+  undone: 19972
+  undue: 15738
+scored_words:
+  undecipherable: 197704
+  undefinable: 167161
+  undemonstrative: 156397
+  undependable: 228474
+  underachieve: 313268
+  underactive: 183853
+  underdone: 188659
+  underexposure: 311278
+  underglaze: 176271
+  underrate: 154023
+  undersurface: 227103
+  underwrote: 156672
+  undine: 116004
+  undistinguishable: 252391
+  undrinkable: 218563
+  undulate: 148129
+not_scored_words:
+- undebatable
+- undeceivable
+- undemonstrable
+- underbite
+- underbodice
+- undercharge
+- underemphasize
+- underexpose
+- underproduce
+- underquote
+- understructure
+- undiagnosable
+- undrape

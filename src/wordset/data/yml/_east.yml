@@ -1,0 +1,26 @@
+---
+pattern: _east
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 277413
+score_per_word: 27741
+hi_scored_words:
+  abreast: 23414
+  beast: 3060
+  breast: 1729
+  east: 520
+  feast: 6396
+  least: 322
+  northeast: 6137
+  southeast: 6164
+  yeast: 9300
+scored_words:
+  redbreast: 220371
+not_scored_words:
+- East
+- Mideast
+- Northeast
+- Southeast
+- beanfeast
+- cineast

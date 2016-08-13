@@ -1,0 +1,36 @@
+---
+pattern: disc_ing
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 26
+score: 1275121
+score_per_word: 70840
+hi_scored_words:
+  discarding: 40564
+  discerning: 21667
+  discharging: 23913
+  disciplining: 60836
+  disclosing: 27821
+  disconcerting: 38829
+  disconnecting: 48725
+  discontinuing: 51694
+  discounting: 36416
+  discouraging: 29171
+  discovering: 8813
+  discrediting: 86875
+  discriminating: 26033
+  discussing: 5615
+scored_words:
+  disclaiming: 137600
+  discoloring: 283073
+  discomforting: 174976
+  discoursing: 172500
+not_scored_words:
+- discoing
+- discombobulating
+- discomfiting
+- discommoding
+- discomposing
+- discontenting
+- discording
+- discountenancing

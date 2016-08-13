@@ -1,0 +1,33 @@
+---
+pattern: m_king
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 23
+score: 1133706
+score_per_word: 66688
+hi_scored_words:
+  making: 312
+  marking: 7676
+  masking: 27772
+  matchmaking: 20604
+  meatpacking: 70559
+  metalworking: 41105
+  milking: 24682
+  mimicking: 47018
+  mistaking: 48620
+  mocking: 22508
+  motherfucking: 72636
+  mucking: 62021
+  multitasking: 40582
+scored_words:
+  merrymaking: 208470
+  miking: 172969
+  moneymaking: 113397
+  muckraking: 152775
+not_scored_words:
+- Mafeking
+- mafficking
+- magicking
+- misspeaking
+- motorbiking
+- mythmaking

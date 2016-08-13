@@ -1,0 +1,37 @@
+---
+pattern: beli_
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 27
+score: 1229209
+score_per_word: 64695
+hi_scored_words:
+  belie: 64626
+  belied: 68758
+  belief: 2825
+  beliefs: 9080
+  belies: 66849
+  believable: 25141
+  believe: 446
+  believed: 2710
+  believer: 12726
+  believers: 11852
+  believes: 3746
+  believing: 8094
+  belittle: 51847
+  belittling: 88422
+scored_words:
+  believability: 116084
+  believably: 172882
+  belike: 249073
+  belittled: 109333
+  belittles: 164715
+not_scored_words:
+- Belial
+- Belinda
+- Belisarius
+- Belize
+- Belizean
+- believabilities
+- belittlement
+- belittler

@@ -1,0 +1,26 @@
+---
+pattern: use_
+hi_scored_words_count: 13
+scored_words_count: 0
+total_words: 16
+score: 287728
+score_per_word: 22132
+hi_scored_words:
+  use: 106
+  used: 122
+  useful: 1146
+  usefully: 37069
+  usefulness: 12215
+  useless: 5206
+  uselessly: 90820
+  uselessness: 94711
+  user: 1123
+  username: 7643
+  usernames: 34278
+  users: 1542
+  uses: 1747
+scored_words: {}
+not_scored_words:
+- USENET
+- Usenet
+- Usenets

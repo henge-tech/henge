@@ -1,0 +1,50 @@
+---
+pattern: al_t
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 40
+score: 1620797
+score_per_word: 77180
+hi_scored_words:
+  alarmist: 78828
+  albeit: 10780
+  alchemist: 25989
+  alert: 3159
+  alight: 35306
+  alignment: 17623
+  aliment: 95848
+  aliquot: 57030
+  allot: 38571
+  allotment: 21802
+  almost: 500
+  aloft: 25347
+  alphabet: 8735
+  alright: 10982
+  alt: 9528
+scored_words:
+  algebraist: 321107
+  alienist: 229620
+  allergist: 120463
+  allurement: 199279
+  alpinist: 168955
+  altruist: 141345
+not_scored_words:
+- Albert
+- Albright
+- Alcott
+- Aldershot
+- Alembert
+- Aleut
+- Almagest
+- Alost
+- Alpert
+- albescent
+- alcahest
+- aliquant
+- alkahest
+- alkanet
+- allegorist
+- allopathist
+- alterant
+- alternant
+- alumroot

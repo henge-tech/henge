@@ -1,0 +1,23 @@
+---
+pattern: c_ched
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 587983
+score_per_word: 58798
+hi_scored_words:
+  cached: 17303
+  clenched: 37072
+  cliched: 79989
+  clinched: 44355
+  clutched: 44824
+  coached: 31394
+  couched: 58971
+  crouched: 44152
+  crunched: 79802
+scored_words:
+  cinched: 150121
+not_scored_words:
+- countermarched
+- craunched
+- crosshatched

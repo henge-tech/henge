@@ -1,0 +1,39 @@
+---
+pattern: r_ves
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 29
+score: 2035450
+score_per_word: 96926
+hi_scored_words:
+  raves: 30110
+  reaves: 83972
+  receives: 4387
+  reeves: 18594
+  relatives: 5193
+  relieves: 33673
+  removes: 11522
+  representatives: 2888
+  reserves: 5578
+  resolves: 24416
+  retrieves: 32591
+  revives: 56307
+  revolves: 29399
+  rives: 64455
+scored_words:
+  reflexives: 286899
+  relives: 140628
+  reprieves: 296067
+  reproves: 259886
+  restoratives: 272853
+  retrospectives: 112061
+  roves: 263971
+not_scored_words:
+- Reeves
+- recessives
+- recitatives
+- recurves
+- redissolves
+- repaves
+- reweaves
+- ringdoves

@@ -1,0 +1,37 @@
+---
+pattern: _lid
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 27
+score: 1208587
+score_per_word: 86327
+hi_scored_words:
+  cichlid: 68995
+  eyelid: 29735
+  invalid: 6355
+  lid: 10784
+  pallid: 50018
+  slid: 14259
+  solid: 1665
+  squalid: 59062
+  stolid: 87392
+  valid: 3744
+scored_words:
+  annelid: 217698
+  chrysalid: 320083
+  gelid: 151459
+  semisolid: 187338
+not_scored_words:
+- Euclid
+- Heraclid
+- Khalid
+- Ozalid
+- Premyslid
+- Valladolid
+- backslid
+- comatulid
+- felid
+- landslid
+- nymphalid
+- olid
+- pyralid

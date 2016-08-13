@@ -1,0 +1,42 @@
+---
+pattern: _pose
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 32
+score: 1514301
+score_per_word: 65839
+hi_scored_words:
+  adipose: 36690
+  compose: 9363
+  decompose: 39949
+  depose: 58939
+  dispose: 11134
+  expose: 7984
+  impose: 7154
+  interpose: 83187
+  juxtapose: 98831
+  multipurpose: 29727
+  oppose: 7480
+  pose: 7281
+  predispose: 72667
+  presuppose: 61428
+  propose: 5292
+  purpose: 716
+  repose: 22971
+  suppose: 2353
+  transpose: 43132
+scored_words:
+  discompose: 277314
+  recompose: 221053
+  reimpose: 302573
+  superimpose: 107083
+not_scored_words:
+- appose
+- contrapose
+- indispose
+- overexpose
+- pappose
+- photocompose
+- preexpose
+- superpose
+- underexpose

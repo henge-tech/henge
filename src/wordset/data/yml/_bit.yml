@@ -1,0 +1,41 @@
+---
+pattern: _bit
+hi_scored_words_count: 19
+scored_words_count: 5
+total_words: 31
+score: 1631459
+score_per_word: 67977
+hi_scored_words:
+  ambit: 54374
+  bit: 553
+  cubit: 64333
+  debit: 18036
+  exhibit: 3880
+  gambit: 28201
+  gigabit: 21456
+  habit: 4985
+  hobbit: 25482
+  inhabit: 20337
+  inhibit: 16906
+  jackrabbit: 58334
+  megabit: 91379
+  obit: 42888
+  orbit: 8817
+  prohibit: 12461
+  rabbit: 5474
+  tidbit: 43948
+  wabbit: 88857
+scored_words:
+  cohabit: 132350
+  cucurbit: 260741
+  kilobit: 281641
+  rarebit: 148937
+  terabit: 197089
+not_scored_words:
+- Tobit
+- adhibit
+- backbit
+- frostbit
+- henbit
+- reexhibit
+- turbit

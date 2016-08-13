@@ -1,0 +1,54 @@
+---
+pattern: ma_le
+hi_scored_words_count: 15
+scored_words_count: 14
+total_words: 44
+score: 3647051
+score_per_word: 125760
+hi_scored_words:
+  mademoiselle: 26607
+  maintainable: 82010
+  male: 1244
+  malleable: 44753
+  manageable: 23365
+  mandible: 42251
+  maneuverable: 96920
+  mangle: 65301
+  manhole: 43624
+  mantle: 11314
+  maple: 7401
+  marble: 5217
+  marketable: 31009
+  martingale: 48128
+  maypole: 70286
+scored_words:
+  machinable: 259598
+  mackle: 250866
+  macromolecule: 119640
+  mailable: 262332
+  majuscule: 140039
+  manacle: 123880
+  manhandle: 184743
+  maniple: 128015
+  manipulable: 184990
+  mappable: 269835
+  marriageable: 137220
+  mascle: 324476
+  matchable: 335414
+  mayapple: 326573
+not_scored_words:
+- Mable
+- Mademoiselle
+- Male
+- Mandeville
+- Mantle
+- Marple
+- Matabele
+- Maypole
+- macle
+- macule
+- magnetizable
+- magnifiable
+- manciple
+- manille
+- manipulatable

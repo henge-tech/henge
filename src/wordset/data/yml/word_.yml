@@ -1,0 +1,29 @@
+---
+pattern: word_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1240351
+score_per_word: 95411
+hi_scored_words:
+  word: 347
+  worded: 31452
+  wording: 15102
+  wordless: 71531
+  wordplay: 51536
+  words: 389
+  wordsmith: 78648
+  wordy: 52002
+scored_words:
+  wordbook: 297192
+  wordiness: 199327
+  wordings: 113781
+  wordlessly: 166889
+  wordsmiths: 162155
+not_scored_words:
+- Wordsworth
+- wordage
+- wordbooks
+- wordier
+- wordiest
+- wordily

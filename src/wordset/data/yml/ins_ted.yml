@@ -1,0 +1,24 @@
+---
+pattern: ins_ted
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 14
+score: 607944
+score_per_word: 46764
+hi_scored_words:
+  inserted: 6965
+  insinuated: 92472
+  insisted: 7511
+  inspected: 13673
+  instantiated: 48983
+  instigated: 42646
+  instituted: 13591
+  instructed: 8636
+  instrumented: 62933
+  insulated: 15329
+  insulted: 22459
+scored_words:
+  inseminated: 156796
+  instated: 115950
+not_scored_words:
+- inspirited

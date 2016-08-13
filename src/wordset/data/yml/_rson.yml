@@ -1,0 +1,45 @@
+---
+pattern: _rson
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 35
+score: 1153758
+score_per_word: 88750
+hi_scored_words:
+  arson: 25618
+  businessperson: 70325
+  chairperson: 16638
+  layperson: 77779
+  parson: 24188
+  person: 260
+  salesperson: 25646
+  spokesperson: 20814
+scored_words:
+  congressperson: 158978
+  councilperson: 180453
+  craftsperson: 229725
+  foreperson: 171208
+  sportsperson: 152126
+not_scored_words:
+- Anderson
+- Carson
+- Dickerson
+- Emerson
+- Henderson
+- Jefferson
+- Kherson
+- Larson
+- Macpherson
+- McPherson
+- Orson
+- Paterson
+- Patterson
+- Pearson
+- Peterson
+- Roberson
+- Wilkerson
+- anchorperson
+- nonperson
+- unperson
+- waitperson
+- weatherperson

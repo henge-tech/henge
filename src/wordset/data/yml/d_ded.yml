@@ -1,0 +1,39 @@
+---
+pattern: d_ded
+hi_scored_words_count: 22
+scored_words_count: 1
+total_words: 29
+score: 956811
+score_per_word: 41600
+hi_scored_words:
+  decided: 1282
+  decoded: 33646
+  deeded: 71611
+  defended: 10346
+  defrauded: 72165
+  degraded: 22375
+  deluded: 39328
+  demanded: 6269
+  denuded: 90903
+  depended: 14024
+  derided: 62104
+  descended: 11731
+  disbanded: 32474
+  discarded: 12078
+  disregarded: 23663
+  dissuaded: 88090
+  distended: 61014
+  divided: 3098
+  downgraded: 37839
+  downloaded: 9166
+  dreaded: 16707
+  dumbfounded: 52435
+scored_words:
+  dded: 184463
+not_scored_words:
+- deadheaded
+- disaccorded
+- disbudded
+- discommoded
+- discorded
+- duded

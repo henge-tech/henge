@@ -1,0 +1,39 @@
+---
+pattern: par_l
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 29
+score: 2184393
+score_per_word: 94973
+hi_scored_words:
+  paracetamol: 55361
+  paradoxical: 35819
+  paralegal: 27859
+  parallel: 3073
+  paranormal: 17153
+  paraprofessional: 84425
+  parasol: 36596
+  parcel: 7478
+  parental: 8245
+  parenteral: 39736
+  parenthetical: 62386
+  parietal: 37628
+  parochial: 27724
+  paroxysmal: 73131
+  partial: 3843
+scored_words:
+  paradisiacal: 303268
+  parafoil: 233550
+  paramedical: 100662
+  parapsychological: 232566
+  parasitical: 208438
+  parimutuel: 237725
+  parol: 127079
+  participial: 220648
+not_scored_words:
+- Parl
+- Parnell
+- Parsifal
+- paradisaical
+- parboil
+- parricidal

@@ -1,0 +1,37 @@
+---
+pattern: b_b
+hi_scored_words_count: 16
+scored_words_count: 1
+total_words: 27
+score: 727432
+score_per_word: 42790
+hi_scored_words:
+  baobab: 65251
+  barb: 19741
+  bathtub: 19254
+  bib: 26754
+  bibb: 52275
+  blab: 71943
+  blob: 23861
+  blowjob: 6377
+  blurb: 34031
+  bob: 1776
+  bomb: 6213
+  boob: 10807
+  breadcrumb: 47723
+  brewpub: 83202
+  bub: 43033
+  bulb: 10725
+scored_words:
+  bleb: 204466
+not_scored_words:
+- BB
+- BBB
+- BYOB
+- Beelzebub
+- Bib
+- Bob
+- backcomb
+- bedaub
+- benumb
+- bicarb

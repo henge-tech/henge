@@ -1,0 +1,58 @@
+---
+pattern: co_ely
+hi_scored_words_count: 19
+scored_words_count: 10
+total_words: 48
+score: 2818063
+score_per_word: 97174
+hi_scored_words:
+  coarsely: 53098
+  cognitively: 60148
+  collaboratively: 40825
+  collectively: 11461
+  comely: 51711
+  comparatively: 12919
+  competitively: 27433
+  completely: 1353
+  comprehensively: 42853
+  compulsively: 92671
+  concisely: 53070
+  conclusively: 35748
+  concretely: 63268
+  consecutively: 43947
+  conservatively: 48859
+  constitutively: 87481
+  constructively: 45450
+  conversely: 20239
+  cooperatively: 41736
+scored_words:
+  cohesively: 219142
+  commensurately: 222122
+  communicatively: 324475
+  compassionately: 109294
+  considerately: 191470
+  contritely: 170022
+  contumely: 194431
+  convulsively: 146681
+  coordinately: 274698
+  corporately: 131458
+not_scored_words:
+- coextensively
+- cognately
+- collusively
+- combatively
+- compositely
+- comradely
+- concavely
+- conductively
+- conjugately
+- conjunctively
+- connectively
+- consummately
+- consumptively
+- contemplatively
+- contradistinctively
+- copulatively
+- correlatively
+- corrosively
+- counterintuitively

@@ -1,0 +1,32 @@
+---
+pattern: quie_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1555734
+score_per_word: 103715
+hi_scored_words:
+  quiescence: 94707
+  quiescent: 42096
+  quiet: 1951
+  quieted: 66619
+  quieter: 22725
+  quietest: 55016
+  quieting: 97577
+  quietly: 5858
+  quietness: 55061
+  quietude: 68142
+scored_words:
+  quiesce: 318697
+  quieten: 161388
+  quietened: 266055
+  quiets: 149175
+  quietus: 150667
+not_scored_words:
+- quiesced
+- quiescently
+- quietening
+- quietens
+- quietism
+- quietisms
+- quietuses

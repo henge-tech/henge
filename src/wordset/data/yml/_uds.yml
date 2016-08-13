@@ -1,0 +1,42 @@
+---
+pattern: _uds
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 32
+score: 1453002
+score_per_word: 85470
+hi_scored_words:
+  applauds: 50866
+  buds: 15264
+  clouds: 3797
+  duds: 50293
+  earbuds: 46759
+  feuds: 57654
+  frauds: 34640
+  lauds: 69083
+  rosebuds: 81279
+  shrouds: 68075
+  spuds: 80123
+  studs: 17758
+  suds: 57489
+scored_words:
+  puds: 203624
+  scuds: 163105
+  soapsuds: 266096
+  thuds: 187097
+not_scored_words:
+- FUDs
+- Talmuds
+- bauds
+- beclouds
+- cuds
+- defrauds
+- disbuds
+- enshrouds
+- gauds
+- marauds
+- overclouds
+- pseuds
+- rainclouds
+- redbuds
+- thunderclouds

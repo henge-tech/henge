@@ -1,0 +1,65 @@
+---
+pattern: con_ting
+hi_scored_words_count: 24
+scored_words_count: 13
+total_words: 55
+score: 3035834
+score_per_word: 82049
+hi_scored_words:
+  concentrating: 16766
+  conducting: 6343
+  confiscating: 98350
+  conflicting: 12113
+  confronting: 17197
+  congratulating: 42795
+  connecting: 5249
+  consenting: 34499
+  consisting: 4998
+  consolidating: 29061
+  constituting: 20750
+  constricting: 97269
+  constructing: 12134
+  consulting: 11061
+  contacting: 9499
+  contaminating: 53768
+  contemplating: 19754
+  contesting: 42504
+  contracting: 8284
+  contradicting: 43589
+  contrasting: 16499
+  contributing: 5796
+  converting: 10019
+  convicting: 92294
+scored_words:
+  concatenating: 121083
+  conciliating: 240887
+  concocting: 135504
+  concreting: 135254
+  conflating: 141517
+  congregating: 132679
+  conjugating: 104300
+  connoting: 271958
+  consecrating: 168803
+  consorting: 176842
+  consummating: 212692
+  contenting: 242071
+  contorting: 241653
+not_scored_words:
+- concerting
+- confabulating
+- confecting
+- confederating
+- confuting
+- congesting
+- conglobating
+- conglomerating
+- conglutinating
+- conscripting
+- consociating
+- constellating
+- consternating
+- constipating
+- contraindicating
+- controverting
+- convecting
+- convoluting

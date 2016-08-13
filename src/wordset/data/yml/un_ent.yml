@@ -1,0 +1,31 @@
+---
+pattern: un_ent
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 21
+score: 2002727
+score_per_word: 117807
+hi_scored_words:
+  undercurrent: 49900
+  underdevelopment: 70727
+  underemployment: 89968
+  undergarment: 98651
+  understatement: 31442
+  underwent: 15171
+  unemployment: 7644
+  unintelligent: 80551
+  unspent: 85949
+scored_words:
+  unbent: 247774
+  underachievement: 111085
+  underinvestment: 226485
+  undernourishment: 267033
+  underpayment: 114571
+  unguent: 234514
+  univalent: 152132
+  unsent: 119130
+not_scored_words:
+- unabsorbent
+- unapparent
+- underspent
+- unornament

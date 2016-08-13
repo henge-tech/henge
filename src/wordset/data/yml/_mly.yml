@@ -1,0 +1,26 @@
+---
+pattern: _mly
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1179030
+score_per_word: 90694
+hi_scored_words:
+  calmly: 16233
+  dimly: 31026
+  firmly: 6241
+  grimly: 54265
+  randomly: 12338
+  uniformly: 15631
+  unseemly: 47795
+  warmly: 18001
+scored_words:
+  glumly: 150388
+  primly: 232880
+  seemly: 127315
+  termly: 161600
+  trimly: 305317
+not_scored_words:
+- infirmly
+- lukewarmly
+- slimly

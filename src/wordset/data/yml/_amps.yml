@@ -1,0 +1,37 @@
+---
+pattern: _amps
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 27
+score: 1785325
+score_per_word: 89266
+hi_scored_words:
+  amps: 13061
+  camps: 7831
+  champs: 14152
+  clamps: 28087
+  cramps: 24195
+  gramps: 56798
+  headlamps: 49917
+  lamps: 5393
+  ramps: 19916
+  revamps: 91660
+  stamps: 6346
+  swamps: 28009
+  tramps: 46801
+  vamps: 71963
+scored_words:
+  damps: 152567
+  decamps: 294569
+  encamps: 203221
+  scamps: 184479
+  sunlamps: 256467
+  tamps: 229893
+not_scored_words:
+- abamps
+- afterdamps
+- blackdamps
+- blowlamps
+- chokedamps
+- gamps
+- streetlamps

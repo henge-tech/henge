@@ -1,0 +1,35 @@
+---
+pattern: n_nal
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 25
+score: 1326917
+score_per_word: 88461
+hi_scored_words:
+  national: 377
+  navigational: 20587
+  neuronal: 21759
+  nocturnal: 18441
+  nominal: 8712
+  nontraditional: 47828
+  notational: 81039
+  notional: 37457
+  nutritional: 11154
+scored_words:
+  nonconventional: 196786
+  noncriminal: 246186
+  nondenominational: 122192
+  nonfunctional: 103902
+  nonprofessional: 130264
+  noumenal: 280233
+not_scored_words:
+- noneducational
+- nonemotional
+- nonfictional
+- nonoccupational
+- nonoperational
+- nonpaternal
+- nonrepresentational
+- nonseasonal
+- nonvocational
+- nounal

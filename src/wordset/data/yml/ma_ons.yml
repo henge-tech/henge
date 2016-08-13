@@ -1,0 +1,34 @@
+---
+pattern: ma_ons
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 24
+score: 1217860
+score_per_word: 81190
+hi_scored_words:
+  machinations: 48627
+  malformations: 41968
+  malfunctions: 45168
+  manifestations: 16381
+  manipulations: 38947
+  mansions: 25476
+  marathons: 42310
+  maroons: 66428
+  masons: 29400
+  matrons: 61395
+scored_words:
+  macaroons: 116397
+  magnetrons: 255702
+  magnifications: 123242
+  maledictions: 134000
+  mastodons: 172419
+not_scored_words:
+- Mammons
+- Masons
+- macrons
+- maculations
+- magnetons
+- malefactions
+- malpositions
+- malversations
+- manumissions

@@ -1,0 +1,47 @@
+---
+pattern: b_el
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 37
+score: 1298376
+score_per_word: 76375
+hi_scored_words:
+  babel: 22906
+  bagel: 26001
+  barbel: 89027
+  barrel: 5907
+  bel: 13731
+  betel: 73276
+  bethel: 19992
+  bevel: 36655
+  bezel: 27294
+  bowel: 20683
+  brothel: 35405
+  bushel: 33294
+scored_words:
+  bechamel: 195115
+  becquerel: 144021
+  bedel: 268934
+  bonspiel: 170891
+  botel: 115244
+not_scored_words:
+- Babel
+- Basel
+- Bebel
+- Bechtel
+- Becquerel
+- Bel
+- Bessel
+- Bethel
+- Biel
+- Blondel
+- Bruegel
+- Brummel
+- Brunel
+- Bunuel
+- Buñuel
+- barbicel
+- bejewel
+- blastocoel
+- boatel
+- brocatel

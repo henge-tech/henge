@@ -1,0 +1,54 @@
+---
+pattern: reta_
+hi_scored_words_count: 24
+scored_words_count: 9
+total_words: 44
+score: 2366884
+score_per_word: 71723
+hi_scored_words:
+  retail: 4908
+  retailer: 9808
+  retailers: 6005
+  retailing: 22961
+  retails: 46476
+  retain: 4655
+  retained: 5069
+  retainer: 26055
+  retainers: 44559
+  retaining: 10554
+  retains: 12128
+  retake: 42780
+  retaken: 94206
+  retaliate: 40339
+  retaliated: 70579
+  retaliation: 18138
+  retaliatory: 60109
+  retard: 22687
+  retardant: 42574
+  retardants: 83855
+  retardation: 25927
+  retarded: 14811
+  retarding: 78341
+  retards: 53691
+scored_words:
+  retablo: 262432
+  retailed: 100757
+  retakes: 121167
+  retaking: 103384
+  retaliates: 174639
+  retaliating: 123617
+  retaliations: 296976
+  retarder: 117849
+  retarders: 224848
+not_scored_words:
+- retable
+- retailings
+- retainability
+- retainable
+- retainment
+- retaliative
+- retaliator
+- retaliators
+- retardment
+- retaste
+- retaught

@@ -1,0 +1,42 @@
+---
+pattern: ince_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 32
+score: 1385790
+score_per_word: 86611
+hi_scored_words:
+  incendiary: 38832
+  incense: 15858
+  incensed: 53586
+  incentive: 8017
+  incentives: 10047
+  inception: 16494
+  incessant: 28679
+  incessantly: 38067
+  incest: 12446
+  incestuous: 56886
+scored_words:
+  incendiaries: 197678
+  incenses: 171909
+  incentivize: 195280
+  inceptions: 205641
+  incertitude: 218057
+  incests: 118313
+not_scored_words:
+- inced
+- incendiarism
+- incendiarisms
+- incensing
+- incensory
+- incentivization
+- incept
+- inceptive
+- incerate
+- incessance
+- incessancies
+- incessancy
+- incessantness
+- incessantnesses
+- incestuously
+- incestuousness

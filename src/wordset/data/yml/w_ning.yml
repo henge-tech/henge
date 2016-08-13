@@ -1,0 +1,23 @@
+---
+pattern: w_ning
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 13
+score: 400028
+score_per_word: 36366
+hi_scored_words:
+  waning: 22964
+  warning: 1565
+  weakening: 20466
+  weaning: 36419
+  whining: 20622
+  whitening: 25738
+  widening: 16020
+  wining: 44556
+  winning: 2417
+  worsening: 28986
+scored_words:
+  wakening: 180275
+not_scored_words:
+- wantoning
+- weening

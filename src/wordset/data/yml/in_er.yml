@@ -1,0 +1,72 @@
+---
+pattern: in_er
+hi_scored_words_count: 24
+scored_words_count: 12
+total_words: 62
+score: 2970357
+score_per_word: 82509
+hi_scored_words:
+  indexer: 63160
+  inducer: 79968
+  infer: 16805
+  infielder: 64397
+  informer: 29015
+  infringer: 84963
+  inhaler: 35482
+  inner: 2646
+  innkeeper: 32907
+  inquirer: 26171
+  insider: 10477
+  installer: 14760
+  insurer: 14477
+  integer: 9902
+  intelligencer: 41250
+  intensifier: 85532
+  inter: 5687
+  interferometer: 45652
+  interloper: 83677
+  interpreter: 9308
+  interviewer: 23085
+  intruder: 17754
+  invader: 24925
+  inverter: 24567
+scored_words:
+  inclinometer: 181271
+  infuser: 126163
+  injurer: 327091
+  inscriber: 103819
+  inspirer: 176226
+  intenser: 179689
+  interferer: 279382
+  interpleader: 257423
+  interrupter: 114977
+  intervener: 158135
+  intriguer: 117535
+  invoker: 102079
+not_scored_words:
+- inaner
+- inbreeder
+- inciter
+- incliner
+- incomer
+- indemnifier
+- indicter
+- indulger
+- infester
+- infighter
+- inflater
+- inflicter
+- ingather
+- inhabiter
+- inkier
+- inlier
+- insaner
+- instanter
+- instiller
+- instituter
+- insulter
+- interceder
+- interposer
+- intervalometer
+- intoner
+- inveigler

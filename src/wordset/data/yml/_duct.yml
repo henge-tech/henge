@@ -1,0 +1,26 @@
+---
+pattern: _duct
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 16
+score: 489871
+score_per_word: 40822
+hi_scored_words:
+  abduct: 61664
+  adduct: 86660
+  aqueduct: 33773
+  byproduct: 40153
+  conduct: 1638
+  deduct: 24450
+  duct: 17307
+  induct: 76987
+  misconduct: 14414
+  oviduct: 95675
+  product: 1148
+  viaduct: 36002
+scored_words: {}
+not_scored_words:
+- educt
+- reconduct
+- subduct
+- superconduct

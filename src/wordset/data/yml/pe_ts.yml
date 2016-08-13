@@ -1,0 +1,51 @@
+---
+pattern: pe_ts
+hi_scored_words_count: 14
+scored_words_count: 13
+total_words: 41
+score: 2705146
+score_per_word: 100190
+hi_scored_words:
+  peanuts: 17179
+  peasants: 13217
+  pellets: 27442
+  pelts: 71361
+  pendants: 24807
+  pennants: 51212
+  percents: 64519
+  permits: 5770
+  persists: 22270
+  perverts: 45431
+  pessimists: 96342
+  pests: 18713
+  pets: 6952
+  petticoats: 70872
+scored_words:
+  pedants: 188182
+  pedicurists: 155638
+  pediments: 227560
+  pendents: 236591
+  penitents: 140668
+  peppermints: 165954
+  percepts: 151606
+  percussionists: 104091
+  perfectionists: 148466
+  perfects: 109734
+  peridots: 265396
+  periodontists: 128558
+  permanents: 146615
+not_scored_words:
+- Penobscots
+- Pentecostalists
+- Pentecosts
+- peacoats
+- pederasts
+- peewits
+- pelmets
+- penchants
+- penlights
+- pennyweights
+- penologists
+- penults
+- petrologists
+- pewits

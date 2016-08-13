@@ -1,0 +1,37 @@
+---
+pattern: _mity
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 27
+score: 1174516
+score_per_word: 58725
+hi_scored_words:
+  amity: 34786
+  anonymity: 18383
+  calamity: 21235
+  comity: 80918
+  conformity: 11181
+  deformity: 32110
+  enmity: 31377
+  enormity: 47415
+  equanimity: 54084
+  extremity: 18491
+  infirmity: 47253
+  magnanimity: 72370
+  nonconformity: 86896
+  proximity: 8990
+  sublimity: 72850
+  unanimity: 39579
+  uniformity: 16583
+scored_words:
+  dimity: 234708
+  pusillanimity: 140278
+  unconformity: 105029
+not_scored_words:
+- abnormity
+- disconformity
+- inconformity
+- longanimity
+- multiformity
+- pseudonymity
+- synonymity

@@ -1,0 +1,31 @@
+---
+pattern: w_nds
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 21
+score: 1994442
+score_per_word: 110802
+hi_scored_words:
+  wands: 38259
+  wastelands: 83356
+  weekends: 5028
+  wetlands: 18092
+  winds: 3439
+  withstands: 90896
+  woodlands: 17609
+  woodwinds: 54464
+  workarounds: 55057
+  wounds: 7372
+  wristbands: 32947
+scored_words:
+  waistbands: 284244
+  watchbands: 179295
+  wavebands: 258547
+  wends: 184260
+  whirlwinds: 146766
+  wolfhounds: 230978
+  wonderlands: 303833
+not_scored_words:
+- washstands
+- wraparounds
+- wunderkinds

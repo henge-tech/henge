@@ -1,0 +1,30 @@
+---
+pattern: deta_
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 20
+score: 912046
+score_per_word: 48002
+hi_scored_words:
+  detach: 24427
+  detachable: 25246
+  detached: 8131
+  detaching: 76180
+  detachment: 14056
+  detachments: 55467
+  detail: 1768
+  detailed: 2613
+  detailing: 15180
+  details: 714
+  detain: 27932
+  detained: 10428
+  detainee: 39562
+  detainees: 17200
+  detaining: 57247
+scored_words:
+  detaches: 114847
+  detainer: 140520
+  detainment: 163242
+  detains: 117286
+not_scored_words:
+- detachability

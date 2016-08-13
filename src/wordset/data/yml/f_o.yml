@@ -1,0 +1,57 @@
+---
+pattern: f_o
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 47
+score: 1503353
+score_per_word: 65363
+hi_scored_words:
+  fado: 68166
+  falsetto: 61200
+  fandango: 32669
+  faro: 29724
+  fatso: 87417
+  fellatio: 44039
+  fiasco: 28437
+  fico: 41877
+  filo: 54378
+  fino: 54573
+  flamenco: 24816
+  flamingo: 21146
+  fo: 12757
+  folio: 15406
+  foo: 11436
+  forego: 35034
+  forgo: 42588
+  fresco: 24819
+  fro: 13921
+scored_words:
+  fango: 291001
+  farrago: 157150
+  fortissimo: 108842
+  fungo: 241957
+not_scored_words:
+- FAO
+- FIFO
+- FPO
+- Fargo
+- Faustino
+- Federico
+- Fernando
+- Ferraro
+- Fido
+- Figaro
+- Filipino
+- Flo
+- Florio
+- Francisco
+- Franco
+- Fresno
+- Frisco
+- Frito
+- Frodo
+- finochio
+- fordo
+- foredo
+- forzando
+- fugato

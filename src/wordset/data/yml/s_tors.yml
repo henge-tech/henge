@@ -1,0 +1,31 @@
+---
+pattern: s_tors
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 21
+score: 1278895
+score_per_word: 75229
+hi_scored_words:
+  sculptors: 36672
+  sectors: 12195
+  selectors: 35427
+  semiconductors: 17240
+  senators: 7838
+  separators: 43360
+  simulators: 29870
+  solicitors: 18588
+  spectators: 16609
+  speculators: 43553
+  subcontractors: 30704
+  suitors: 49249
+  superconductors: 51025
+scored_words:
+  scintillators: 167500
+  servitors: 187595
+  servomotors: 253311
+  stators: 278159
+not_scored_words:
+- sartors
+- stentors
+- stertors
+- subeditors

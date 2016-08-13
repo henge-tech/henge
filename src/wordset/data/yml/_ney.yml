@@ -1,0 +1,69 @@
+---
+pattern: _ney
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 59
+score: 974441
+score_per_word: 48722
+hi_scored_words:
+  attorney: 3115
+  baloney: 62122
+  barney: 12236
+  blarney: 53598
+  carney: 27214
+  chimney: 10566
+  chutney: 36038
+  cockney: 43085
+  coney: 34021
+  gurney: 36112
+  hackney: 23882
+  honey: 3894
+  journey: 2310
+  kidney: 10108
+  money: 201
+  piney: 52916
+  tourney: 26870
+scored_words:
+  garganey: 297493
+  jitney: 131506
+  spinney: 107154
+not_scored_words:
+- Alderney
+- Ballymoney
+- Barney
+- Britney
+- Brittney
+- Burney
+- Cagney
+- Carney
+- Chaney
+- Cheney
+- Cockney
+- Courtney
+- Delaney
+- Disney
+- Finney
+- Hackney
+- Haney
+- Heaney
+- Hockney
+- Horney
+- Killarney
+- Kinney
+- McCartney
+- McKinney
+- Mooney
+- Mulroney
+- Orkney
+- Penney
+- Pinckney
+- Rodney
+- Romney
+- Rooney
+- Sidney
+- Sweeney
+- Sydney
+- Taney
+- Tawney
+- Tunney
+- Whitney

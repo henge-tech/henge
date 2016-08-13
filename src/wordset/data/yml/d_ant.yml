@@ -1,0 +1,48 @@
+---
+pattern: d_ant
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 38
+score: 2395608
+score_per_word: 85557
+hi_scored_words:
+  decant: 96636
+  declarant: 87815
+  decongestant: 78980
+  defendant: 6408
+  defiant: 21430
+  deodorant: 23548
+  depressant: 46656
+  descant: 95934
+  descendant: 18503
+  desiccant: 81587
+  determinant: 24795
+  deviant: 14793
+  discordant: 42984
+  discrepant: 96948
+  discriminant: 48615
+  disinfectant: 35037
+  dissonant: 76302
+  distant: 4489
+  dominant: 13876
+  dormant: 19195
+scored_words:
+  debutant: 100408
+  defoliant: 266083
+  demandant: 224186
+  denaturant: 292376
+  discussant: 110854
+  disenchant: 162193
+  dispersant: 128017
+  disputant: 176960
+not_scored_words:
+- Dunant
+- Durant
+- decolorant
+- decontaminant
+- digestant
+- dilatant
+- discant
+- disciplinant
+- displant
+- débutant

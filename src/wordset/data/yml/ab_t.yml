@@ -1,0 +1,59 @@
+---
+pattern: ab_t
+hi_scored_words_count: 25
+scored_words_count: 7
+total_words: 49
+score: 2130185
+score_per_word: 66568
+hi_scored_words:
+  abandonment: 15729
+  abasement: 90100
+  abatement: 22755
+  abbot: 17336
+  abduct: 61664
+  aberrant: 39450
+  abet: 51259
+  abhorrent: 49668
+  abject: 33402
+  ablest: 75361
+  abolishment: 80529
+  abolitionist: 44464
+  abort: 19502
+  about: 42
+  abreast: 23414
+  abridgment: 87046
+  abrupt: 17495
+  absent: 4407
+  absolutist: 66517
+  absorbent: 32486
+  abstinent: 95729
+  abstract: 2517
+  abundant: 7631
+  abut: 55375
+  abutment: 57077
+scored_words:
+  abaft: 168028
+  abetment: 190954
+  abeyant: 134814
+  abortifacient: 178941
+  abortionist: 100619
+  abstractionist: 190164
+  absurdist: 115710
+not_scored_words:
+- Abbott
+- abacist
+- abashment
+- abducent
+- abirritant
+- ablaut
+- ableist
+- abradant
+- abreact
+- abruptest
+- absolutest
+- absonant
+- absorbefacient
+- abstergent
+- absurdest
+- abvolt
+- abwatt

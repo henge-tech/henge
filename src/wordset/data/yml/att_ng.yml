@@ -1,0 +1,25 @@
+---
+pattern: att_ng
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 622665
+score_per_word: 62266
+hi_scored_words:
+  attaching: 18730
+  attacking: 8405
+  attaining: 20186
+  attempting: 5373
+  attending: 4517
+  attesting: 66081
+  attracting: 12906
+  attributing: 44792
+scored_words:
+  attenuating: 111299
+  attuning: 330376
+not_scored_words:
+- attainting
+- attempering
+- attiring
+- attitudinizing
+- attorning

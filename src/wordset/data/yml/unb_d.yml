@@ -1,0 +1,58 @@
+---
+pattern: unb_d
+hi_scored_words_count: 13
+scored_words_count: 13
+total_words: 48
+score: 3169992
+score_per_word: 121922
+hi_scored_words:
+  unbalanced: 25814
+  unbend: 82726
+  unbiased: 16847
+  unbind: 85214
+  unbleached: 66603
+  unblemished: 70884
+  unblocked: 77765
+  unbound: 23450
+  unbounded: 34088
+  unbranded: 42606
+  unbridled: 37829
+  unbundled: 81466
+  unbuttoned: 81259
+scored_words:
+  unbaked: 144909
+  unbanned: 186030
+  unbaptized: 236243
+  unbarred: 169147
+  unbelted: 305684
+  unbolted: 265239
+  unbowed: 165737
+  unbranched: 163002
+  unbuckled: 176439
+  unbudgeted: 230855
+  unburdened: 162007
+  unburied: 137774
+  unburned: 100375
+not_scored_words:
+- unbacked
+- unbated
+- unbelieved
+- unbeloved
+- unbid
+- unblenched
+- unblessed
+- unbloodied
+- unbodied
+- unboiled
+- unboned
+- unbooked
+- unbosomed
+- unbraced
+- unbracketed
+- unbraid
+- unbraided
+- unbreathed
+- unbridged
+- unbruised
+- unbrushed
+- unbuild

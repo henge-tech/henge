@@ -1,0 +1,42 @@
+---
+pattern: _boat
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 32
+score: 2110240
+score_per_word: 91749
+hi_scored_words:
+  boat: 1313
+  flatboat: 97076
+  gunboat: 72101
+  houseboat: 43254
+  lifeboat: 35560
+  longboat: 64420
+  motorboat: 65270
+  powerboat: 67133
+  riverboat: 43945
+  rowboat: 82916
+  sailboat: 28708
+  showboat: 75079
+  speedboat: 71865
+  steamboat: 19372
+  tugboat: 51507
+scored_words:
+  airboat: 112742
+  catboat: 203648
+  dreamboat: 128058
+  ferryboat: 109817
+  fireboat: 234357
+  keelboat: 113912
+  towboat: 142354
+  whaleboat: 245833
+not_scored_words:
+- bumboat
+- cockboat
+- cockleboat
+- faltboat
+- flyboat
+- foldboat
+- iceboat
+- packetboat
+- surfboat

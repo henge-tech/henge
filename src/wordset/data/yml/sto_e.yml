@@ -1,0 +1,38 @@
+---
+pattern: sto_e
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 28
+score: 1711787
+score_per_word: 81513
+hi_scored_words:
+  stockade: 51606
+  stockpile: 30254
+  stoke: 20462
+  stole: 8584
+  stone: 1121
+  stoneware: 32103
+  stooge: 79040
+  stoppage: 40159
+  storage: 4446
+  store: 705
+  storehouse: 37588
+  storyline: 16061
+  stove: 7788
+  stowage: 80833
+scored_words:
+  stockinette: 170909
+  stodge: 154508
+  stogie: 184114
+  stomachache: 141517
+  stope: 243460
+  stoppable: 292492
+  stovepipe: 114037
+not_scored_words:
+- Stone
+- Stonehenge
+- Stowe
+- stockbrokerage
+- stokehole
+- stopple
+- storiette

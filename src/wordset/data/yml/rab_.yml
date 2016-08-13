@@ -1,0 +1,45 @@
+---
+pattern: rab_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 35
+score: 1249794
+score_per_word: 89271
+hi_scored_words:
+  rabbi: 11921
+  rabbinic: 51111
+  rabbinical: 59250
+  rabbis: 36000
+  rabbit: 5474
+  rabbits: 11126
+  rabble: 25578
+  rabid: 29119
+  rabies: 23310
+scored_words:
+  rabbet: 155245
+  rabbets: 276828
+  rabbinate: 152584
+  rabbitry: 258239
+  rabidly: 154009
+not_scored_words:
+- Rabat
+- Rabaul
+- Rabelais
+- Rabelaisian
+- Rabi
+- Rabia
+- Rabin
+- rabato
+- rabatos
+- rabbeted
+- rabbeting
+- rabbin
+- rabbinically
+- rabbinism
+- rabbited
+- rabbitfish
+- rabbiting
+- rabblement
+- rabbles
+- rabidity
+- rabidness

@@ -1,0 +1,32 @@
+---
+pattern: fan_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 22
+score: 1090930
+score_per_word: 83917
+hi_scored_words:
+  fanatics: 22469
+  fanboys: 65599
+  fanciers: 85559
+  fancies: 32029
+  fangs: 37809
+  fans: 3615
+  fantasies: 16853
+  fanzines: 86121
+scored_words:
+  fandoms: 125897
+  fanfares: 168191
+  fannies: 106520
+  fantasias: 153159
+  fantasizes: 187109
+not_scored_words:
+- fancifulness
+- fanciness
+- fandangos
+- fanions
+- fanlights
+- fantails
+- fantasists
+- fantasticalness
+- fantasts

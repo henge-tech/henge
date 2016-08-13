@@ -1,0 +1,38 @@
+---
+pattern: d_ory
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 28
+score: 2165652
+score_per_word: 120314
+hi_scored_words:
+  declaratory: 47631
+  defamatory: 36238
+  depository: 27858
+  derogatory: 31974
+  desultory: 73105
+  directory: 3738
+  discriminatory: 16170
+  dormitory: 24645
+  dory: 38533
+scored_words:
+  declamatory: 227287
+  dedicatory: 158918
+  depilatory: 173734
+  deprecatory: 264612
+  deregulatory: 220866
+  derisory: 179082
+  dilatory: 104038
+  dispensatory: 292109
+  divinatory: 245114
+not_scored_words:
+- damnatory
+- declinatory
+- decretory
+- defecatory
+- denigratory
+- denunciatory
+- depreciatory
+- depredatory
+- dimissory
+- dissatisfactory

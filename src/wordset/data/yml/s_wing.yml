@@ -1,0 +1,33 @@
+---
+pattern: s_wing
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 23
+score: 1136236
+score_per_word: 63124
+hi_scored_words:
+  sawing: 34191
+  screwing: 25042
+  sewing: 11298
+  shadowing: 40739
+  shewing: 81844
+  showing: 1327
+  skewing: 90077
+  slowing: 21395
+  snowing: 38253
+  sowing: 29838
+  spewing: 47644
+  stewing: 93982
+  swallowing: 15774
+  swing: 4086
+scored_words:
+  slewing: 101249
+  sorrowing: 123314
+  stowing: 124942
+  strewing: 251241
+not_scored_words:
+- scrimshawing
+- seesawing
+- snowplowing
+- strawing
+- sweptwing

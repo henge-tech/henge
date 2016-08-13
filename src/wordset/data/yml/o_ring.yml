@@ -1,0 +1,32 @@
+---
+pattern: o_ring
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 22
+score: 972508
+score_per_word: 64833
+hi_scored_words:
+  obscuring: 57648
+  occurring: 7019
+  offering: 1975
+  offshoring: 59965
+  offspring: 8219
+  ordering: 3727
+  orienteering: 39031
+  outpouring: 48236
+  overbearing: 42685
+  overpowering: 42709
+  overwintering: 98207
+scored_words:
+  outnumbering: 172076
+  outscoring: 146780
+  overhearing: 107800
+  overmastering: 136431
+not_scored_words:
+- oaring
+- outmaneuvering
+- outroaring
+- outwearing
+- oversharing
+- overtiring
+- oystering

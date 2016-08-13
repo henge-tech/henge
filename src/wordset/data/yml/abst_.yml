@@ -1,0 +1,46 @@
+---
+pattern: abst_
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 36
+score: 1975959
+score_per_word: 85911
+hi_scored_words:
+  abstain: 21318
+  abstained: 41768
+  abstaining: 47587
+  abstention: 51580
+  abstentions: 59921
+  abstinence: 18177
+  abstinent: 95729
+  abstract: 2517
+  abstracted: 29131
+  abstracting: 45099
+  abstraction: 12454
+  abstractions: 27478
+  abstractly: 76461
+  abstracts: 17134
+  abstruse: 73382
+scored_words:
+  abstainer: 110563
+  abstainers: 237257
+  abstains: 117483
+  abstemious: 181708
+  abstemiousness: 183659
+  abstractedly: 189205
+  abstractionist: 190164
+  abstractness: 146184
+not_scored_words:
+- abstemiously
+- abstergent
+- abstinently
+- abstractedness
+- abstracter
+- abstracters
+- abstractionism
+- abstractionisms
+- abstractionists
+- abstractnesses
+- abstriction
+- abstrusely
+- abstruseness

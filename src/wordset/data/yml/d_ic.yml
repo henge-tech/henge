@@ -1,0 +1,103 @@
+---
+pattern: d_ic
+hi_scored_words_count: 30
+scored_words_count: 23
+total_words: 93
+score: 4877400
+score_per_word: 92026
+hi_scored_words:
+  democratic: 3129
+  demographic: 11911
+  demonic: 27259
+  dendritic: 35446
+  despotic: 45135
+  deterministic: 21876
+  diabetic: 13854
+  diabolic: 47721
+  diagnostic: 16132
+  diagrammatic: 71667
+  dialectic: 35262
+  diaphragmatic: 81697
+  diastolic: 36833
+  diatonic: 62407
+  dichroic: 61110
+  didactic: 30765
+  dielectric: 21337
+  dietetic: 49251
+  dimorphic: 99523
+  diplomatic: 7671
+  diuretic: 40298
+  dogmatic: 31891
+  domestic: 1740
+  dramatic: 4115
+  drastic: 18475
+  dualistic: 68188
+  dyadic: 74009
+  dynamic: 6805
+  dynastic: 52748
+  dyslexic: 42668
+scored_words:
+  daric: 251621
+  deictic: 181920
+  deltaic: 151793
+  demagogic: 190383
+  demiurgic: 226563
+  demotic: 127926
+  diachronic: 104444
+  diacritic: 158461
+  diamagnetic: 114414
+  diametric: 218717
+  diaphoretic: 261276
+  diatomic: 105105
+  dibasic: 123008
+  dichromatic: 160381
+  dioptric: 162991
+  dizygotic: 230874
+  dolomitic: 192038
+  draconic: 170516
+  druidic: 137610
+  dyspeptic: 113814
+  dysphoric: 115805
+  dysplastic: 117991
+  dystrophic: 138826
+not_scored_words:
+- Dadaistic
+- Darwinistic
+- Delphic
+- Democratic
+- Demotic
+- Dominic
+- Doric
+- Druidic
+- dactylic
+- daemonic
+- dalmatic
+- decasyllabic
+- deific
+- deistic
+- diacaustic
+- diactinic
+- dialytic
+- dianoetic
+- diarrheic
+- diathermic
+- dichromic
+- dicrotic
+- digastric
+- digraphic
+- dihydric
+- dimetric
+- dineric
+- diphtheric
+- diphtheritic
+- diploblastic
+- disyllabic
+- dithyrambic
+- dolichocephalic
+- dramaturgic
+- dynamoelectric
+- dysenteric
+- dysgenic
+- dyslectic
+- dyslogistic
+- dysphasic

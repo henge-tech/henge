@@ -1,0 +1,37 @@
+---
+pattern: rea_e
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 27
+score: 1748003
+score_per_word: 87400
+hi_scored_words:
+  reachable: 35813
+  reactance: 74388
+  reactivate: 56370
+  reactive: 14586
+  readable: 8777
+  realizable: 80307
+  realize: 2771
+  reallocate: 83008
+  reappearance: 58626
+  rearrange: 34626
+  reasonable: 2013
+  reassemble: 67149
+  reassurance: 33671
+  reassure: 26759
+  reave: 92450
+scored_words:
+  reacquire: 204563
+  reanalyze: 326853
+  reanimate: 155418
+  reappraise: 265173
+  reauthorize: 124682
+not_scored_words:
+- Reade
+- reacquaintance
+- readmittance
+- rearouse
+- reassume
+- reawake
+- reawoke

@@ -1,0 +1,57 @@
+---
+pattern: f_ate
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 47
+score: 2184374
+score_per_word: 94972
+hi_scored_words:
+  fabricate: 43193
+  faceplate: 42557
+  facilitate: 6275
+  fascinate: 54871
+  fate: 3856
+  federate: 94134
+  filtrate: 60264
+  flatmate: 54862
+  fluctuate: 39762
+  formate: 62656
+  formulate: 16769
+  fortunate: 7389
+  frigate: 24689
+  frustrate: 35406
+scored_words:
+  fixate: 125548
+  flagellate: 186061
+  floodgate: 127423
+  foliate: 190774
+  footplate: 149872
+  fornicate: 170941
+  fractionate: 330244
+  fulminate: 173936
+  fumigate: 182892
+not_scored_words:
+- falcate
+- fasciate
+- fastigiate
+- faveolate
+- fecundate
+- felicitate
+- ferrate
+- festinate
+- fibrillate
+- figurate
+- filiate
+- fimbriate
+- fishplate
+- flabellate
+- flocculate
+- fluoridate
+- fluorinate
+- foliolate
+- foredate
+- forficate
+- fulgurate
+- funiculate
+- furcate
+- fustigate

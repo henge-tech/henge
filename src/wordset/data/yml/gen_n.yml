@@ -1,0 +1,21 @@
+---
+pattern: gen_n
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 480537
+score_per_word: 53393
+hi_scored_words:
+  generalization: 22700
+  generation: 1663
+  gentian: 79056
+  gentleman: 4461
+  gentlemen: 5291
+  gentlewoman: 56136
+  gentlewomen: 96330
+  gentrification: 67491
+scored_words:
+  genuflection: 147409
+not_scored_words:
+- Genevan
+- genuflexion

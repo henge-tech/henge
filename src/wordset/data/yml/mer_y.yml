@@ -1,0 +1,30 @@
+---
+pattern: mer_y
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 20
+score: 321345
+score_per_word: 32134
+hi_scored_words:
+  mercenary: 21775
+  merchantability: 79405
+  mercifully: 58694
+  mercilessly: 40088
+  mercury: 4859
+  mercy: 4226
+  merely: 2620
+  meritocracy: 73672
+  merrily: 31142
+  merry: 4864
+scored_words: {}
+not_scored_words:
+- Mercury
+- Merrily
+- Merry
+- Mersey
+- mercenarily
+- mercuriality
+- mercurially
+- meretriciously
+- meritoriously
+- meronymy

@@ -1,0 +1,30 @@
+---
+pattern: ca_se
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 880658
+score_per_word: 80059
+hi_scored_words:
+  caboose: 44080
+  carboxylase: 72466
+  case: 186
+  catalase: 61007
+  catchphrase: 72465
+  cathouse: 86429
+  cause: 565
+  cayuse: 82379
+scored_words:
+  calaboose: 129932
+  carouse: 185739
+  carse: 145410
+not_scored_words:
+- Canarese
+- Cantonese
+- Case
+- Cayuse
+- camboose
+- carthorse
+- casease
+- caseose
+- causeuse

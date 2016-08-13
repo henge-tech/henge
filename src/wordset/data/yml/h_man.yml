@@ -1,0 +1,42 @@
+---
+pattern: h_man
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 32
+score: 1293719
+score_per_word: 76101
+hi_scored_words:
+  hackman: 50211
+  handyman: 26233
+  hangman: 27669
+  hanuman: 51626
+  headman: 85533
+  helmsman: 70651
+  henchman: 67221
+  highwayman: 78807
+  horseman: 25658
+  houseman: 86055
+  human: 282
+  huntsman: 31718
+  husbandman: 82408
+scored_words:
+  headsman: 118157
+  herdsman: 100347
+  hetman: 118873
+  horsewoman: 272270
+not_scored_words:
+- Haman
+- Hanuman
+- Harriman
+- Hartman
+- Heisman
+- Hellman
+- Herman
+- Hickman
+- Hoffman
+- Holman
+- Housman
+- Huffman
+- handicraftsman
+- harvestman
+- hodman

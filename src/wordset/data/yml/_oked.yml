@@ -1,0 +1,48 @@
+---
+pattern: _oked
+hi_scored_words_count: 22
+scored_words_count: 6
+total_words: 38
+score: 1637089
+score_per_word: 58467
+hi_scored_words:
+  booked: 12721
+  choked: 21542
+  cooked: 5962
+  crooked: 12099
+  evoked: 23149
+  hooked: 10104
+  invoked: 13699
+  joked: 35125
+  looked: 1044
+  overcooked: 83792
+  overlooked: 11689
+  poked: 30533
+  provoked: 17264
+  revoked: 19760
+  smoked: 8449
+  spooked: 64568
+  stoked: 37456
+  stroked: 34491
+  uncooked: 47853
+  undercooked: 87164
+  unprovoked: 54201
+  yoked: 95069
+scored_words:
+  brooked: 148873
+  coked: 162244
+  convoked: 180984
+  overbooked: 121178
+  precooked: 167299
+  unhooked: 128777
+not_scored_words:
+- OKed
+- backstroked
+- hoked
+- recooked
+- rooked
+- sidestroked
+- toked
+- unbooked
+- unrevoked
+- unyoked

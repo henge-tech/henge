@@ -1,0 +1,39 @@
+---
+pattern: co_ator
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 29
+score: 1224904
+score_per_word: 76556
+hi_scored_words:
+  collaborator: 31710
+  collimator: 78355
+  commentator: 19316
+  communicator: 20035
+  commutator: 76629
+  comparator: 40097
+  compensator: 63781
+  concentrator: 48805
+  conservator: 48147
+  consolidator: 97037
+  conspirator: 55757
+  coordinator: 4492
+scored_words:
+  collator: 160733
+  conciliator: 136423
+  consecrator: 213577
+  cooperator: 130010
+not_scored_words:
+- coagulator
+- cogitator
+- commemorator
+- commiserator
+- confiscator
+- congratulator
+- congregator
+- consummator
+- contaminator
+- contemplator
+- continuator
+- corporator
+- corroborator

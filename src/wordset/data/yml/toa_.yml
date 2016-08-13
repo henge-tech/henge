@@ -1,0 +1,37 @@
+---
+pattern: toa_
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 27
+score: 1092801
+score_per_word: 68300
+hi_scored_words:
+  toad: 16431
+  toads: 38746
+  toadstool: 81959
+  toady: 92578
+  toast: 8381
+  toasted: 26127
+  toaster: 17966
+  toasters: 36188
+  toasting: 48853
+  toastmaster: 68599
+  toastmasters: 55961
+  toasts: 47569
+  toasty: 52166
+scored_words:
+  toadflax: 213106
+  toadies: 137907
+  toadstools: 150264
+not_scored_words:
+- toadeater
+- toadfish
+- toadflaxes
+- toadied
+- toadying
+- toadyism
+- toastier
+- toasties
+- toastiest
+- toastmistress
+- toastmistresses

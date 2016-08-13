@@ -1,0 +1,34 @@
+---
+pattern: thri_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 24
+score: 760368
+score_per_word: 44727
+hi_scored_words:
+  thrice: 11734
+  thrift: 17795
+  thrifty: 22573
+  thrill: 9486
+  thrilled: 11066
+  thriller: 12555
+  thrillers: 20998
+  thrilling: 14944
+  thrills: 24984
+  thrips: 66360
+  thrive: 13501
+  thrived: 47703
+  thrives: 38226
+  thriving: 15168
+scored_words:
+  thriftless: 125563
+  thrifts: 109012
+  thrillingly: 198700
+not_scored_words:
+- thriftier
+- thriftiest
+- thriftily
+- thriftiness
+- thrippence
+- thripses
+- thriver

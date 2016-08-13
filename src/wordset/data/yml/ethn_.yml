@@ -1,0 +1,35 @@
+---
+pattern: ethn_
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 25
+score: 1749792
+score_per_word: 102928
+hi_scored_words:
+  ethnic: 7191
+  ethnically: 37546
+  ethnicity: 13847
+  ethnographic: 30220
+  ethnography: 34546
+  ethnological: 90207
+  ethnology: 42094
+  ethnomusicology: 76295
+scored_words:
+  ethnics: 114282
+  ethnocentric: 123478
+  ethnocentrism: 116048
+  ethnographer: 152971
+  ethnographers: 177775
+  ethnographical: 196006
+  ethnographies: 171937
+  ethnol: 215748
+  ethnologist: 149601
+not_scored_words:
+- ethnarch
+- ethnocentrically
+- ethnocentricity
+- ethnogeny
+- ethnographically
+- ethnologic
+- ethnologically
+- ethnologists

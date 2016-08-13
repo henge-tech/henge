@@ -1,0 +1,35 @@
+---
+pattern: hypn_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 25
+score: 1169372
+score_per_word: 83526
+hi_scored_words:
+  hypnagogic: 93425
+  hypnosis: 16589
+  hypnotherapist: 84511
+  hypnotherapy: 41409
+  hypnotic: 23683
+  hypnotics: 94948
+  hypnotism: 52660
+  hypnotist: 47691
+  hypnotize: 38644
+  hypnotized: 45485
+scored_words:
+  hypnotherapists: 204157
+  hypnotically: 185195
+  hypnotists: 111520
+  hypnotizing: 129455
+not_scored_words:
+- Hypnos
+- hypnoanalysis
+- hypnogenesis
+- hypnogogic
+- hypnology
+- hypnoses
+- hypnotizable
+- hypnotization
+- hypnotizer
+- hypnotizers
+- hypnotizes

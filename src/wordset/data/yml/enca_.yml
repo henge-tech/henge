@@ -1,0 +1,33 @@
+---
+pattern: enca_
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 23
+score: 1627958
+score_per_word: 90442
+hi_scored_words:
+  encamped: 49659
+  encampment: 35119
+  encampments: 83183
+  encapsulate: 52984
+  encapsulated: 27847
+  encapsulates: 52436
+  encapsulating: 66958
+  encapsulation: 31555
+  encase: 85412
+  encased: 36359
+  encaustic: 88936
+scored_words:
+  encamp: 105051
+  encamping: 106202
+  encamps: 203221
+  encapsulations: 123651
+  encasement: 144570
+  encases: 214707
+  encasing: 120108
+not_scored_words:
+- Encarta
+- encaenia
+- encage
+- encarnalize
+- encaustics

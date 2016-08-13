@@ -1,0 +1,31 @@
+---
+pattern: sob_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 21
+score: 1111706
+score_per_word: 79407
+hi_scored_words:
+  sob: 19591
+  soba: 74623
+  sobbed: 57141
+  sobbing: 26960
+  sober: 10553
+  sobered: 98240
+  sobering: 46598
+  soberly: 87160
+  sobriety: 28829
+  sobs: 40920
+scored_words:
+  soberer: 212736
+  soberness: 133988
+  sobers: 128767
+  sobriquet: 145600
+not_scored_words:
+- SOB
+- Sobranje
+- sobbingly
+- sobbings
+- soberest
+- sobersided
+- sobriquets

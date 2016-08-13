@@ -1,0 +1,37 @@
+---
+pattern: flee_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 27
+score: 1136522
+score_per_word: 75768
+hi_scored_words:
+  flee: 11807
+  fleece: 12187
+  fleeces: 60361
+  fleecy: 96308
+  fleeing: 21165
+  fleer: 59069
+  flees: 49069
+  fleet: 3391
+  fleeting: 22651
+  fleets: 23845
+scored_words:
+  fleeced: 116932
+  fleecing: 148726
+  fleetest: 203079
+  fleetingly: 125921
+  fleetness: 182011
+not_scored_words:
+- Fleetwood
+- fleecer
+- fleecers
+- fleecier
+- fleeciest
+- fleecily
+- fleeciness
+- fleeringly
+- fleeted
+- fleeter
+- fleetingness
+- fleetly

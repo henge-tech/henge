@@ -1,0 +1,30 @@
+---
+pattern: har_er
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 20
+score: 1136458
+score_per_word: 81175
+hi_scored_words:
+  harbinger: 36599
+  hardcover: 5019
+  harder: 4178
+  harmer: 73618
+  harper: 7384
+  harrier: 34003
+  harsher: 47312
+  harvester: 31795
+scored_words:
+  harasser: 112065
+  harbormaster: 183152
+  hardener: 109305
+  hardier: 153772
+  hardliner: 165956
+  harmonizer: 172300
+not_scored_words:
+- Harper
+- haranguer
+- harborer
+- harnesser
+- harpooner
+- harquebusier

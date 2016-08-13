@@ -1,0 +1,35 @@
+---
+pattern: a_x
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 25
+score: 1337849
+score_per_word: 95560
+hi_scored_words:
+  affix: 37055
+  annex: 10604
+  anthrax: 25038
+  apex: 11786
+  appendix: 5464
+  approx: 7496
+  aux: 9294
+  ax: 11993
+scored_words:
+  addax: 225593
+  admix: 287615
+  anticlimax: 152811
+  archaeopteryx: 107823
+  auspex: 249953
+  aviatrix: 195324
+not_scored_words:
+- Acrux
+- Ajax
+- Alex
+- Appomattox
+- Astyanax
+- afflux
+- androsphinx
+- antefix
+- antihelix
+- apteryx
+- aruspex

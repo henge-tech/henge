@@ -1,0 +1,34 @@
+---
+pattern: a_b
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 24
+score: 442928
+score_per_word: 49214
+hi_scored_words:
+  ab: 4088
+  abb: 28392
+  absorb: 11848
+  adverb: 40286
+  alb: 37318
+  aplomb: 68257
+  arb: 35940
+  attrib: 92045
+scored_words:
+  adsorb: 124754
+not_scored_words:
+- AB
+- AFB
+- APB
+- Ab
+- Abib
+- Ahab
+- Aintab
+- Alb
+- Algenib
+- Arab
+- Arneb
+- Aurangzeb
+- abcoulomb
+- acerb
+- ardeb

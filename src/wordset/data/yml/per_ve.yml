@@ -1,0 +1,21 @@
+---
+pattern: per_ve
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 11
+score: 431139
+score_per_word: 43113
+hi_scored_words:
+  perceive: 8300
+  perceptive: 35663
+  percussive: 52505
+  performative: 80850
+  permissive: 37967
+  perspective: 4001
+  persuasive: 15991
+  perturbative: 69787
+  pervasive: 21554
+scored_words:
+  perfective: 104521
+not_scored_words:
+- permeative

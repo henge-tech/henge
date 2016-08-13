@@ -1,0 +1,21 @@
+---
+pattern: copi_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 710206
+score_per_word: 71020
+hi_scored_words:
+  copied: 5162
+  copier: 31061
+  copiers: 39639
+  copies: 1813
+  copilot: 41638
+  coping: 15053
+  copious: 27158
+  copiously: 85840
+scored_words:
+  copings: 304800
+  copiousness: 158042
+not_scored_words:
+- copilots

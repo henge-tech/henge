@@ -1,0 +1,25 @@
+---
+pattern: c_mer
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 986365
+score_per_word: 89669
+hi_scored_words:
+  calmer: 42488
+  charmer: 46376
+  comer: 26653
+  consumer: 3792
+  copolymer: 50273
+  costumer: 81366
+  creamer: 35087
+  customer: 2878
+scored_words:
+  claimer: 312034
+  conformer: 144346
+  crammer: 241072
+not_scored_words:
+- Cranmer
+- chimer
+- clammer
+- crimmer

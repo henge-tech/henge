@@ -1,0 +1,46 @@
+---
+pattern: for_es
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 36
+score: 2506286
+score_per_word: 108968
+hi_scored_words:
+  forages: 78390
+  forces: 1393
+  foreclosures: 25815
+  foresees: 69828
+  forfeitures: 80259
+  forgeries: 54867
+  forges: 56741
+  forgives: 54165
+  formalities: 34087
+  formulates: 71567
+  fortes: 94120
+  forties: 42928
+  fortresses: 50954
+  fortunes: 11576
+scored_words:
+  forecloses: 212449
+  foregoes: 313645
+  forenames: 183042
+  fores: 108191
+  foreshores: 280996
+  forgoes: 222261
+  formalizes: 151082
+  forsakes: 152406
+  fortifies: 155524
+not_scored_words:
+- Forbes
+- forbiddances
+- forebodes
+- forecastles
+- foredates
+- foreladies
+- forestages
+- foretastes
+- forlornnesses
+- formidabilities
+- formularizes
+- fornicates
+- fornixes

@@ -1,0 +1,31 @@
+---
+pattern: an_rs
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 21
+score: 1079032
+score_per_word: 77073
+hi_scored_words:
+  analyzers: 38967
+  ancestors: 7139
+  anchors: 18574
+  angers: 40759
+  anglers: 31796
+  animators: 42820
+  announcers: 50847
+  answers: 1874
+  anthers: 83324
+  antlers: 38175
+scored_words:
+  anemometers: 167833
+  annotators: 243327
+  annunciators: 203077
+  anteaters: 110520
+not_scored_words:
+- Angers
+- Anvers
+- ankylosaurs
+- annihilators
+- answerers
+- antechambers
+- antimacassars

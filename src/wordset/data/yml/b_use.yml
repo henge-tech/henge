@@ -1,0 +1,28 @@
+---
+pattern: b_use
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 18
+score: 1586575
+score_per_word: 105771
+hi_scored_words:
+  backhouse: 81718
+  bathhouse: 67033
+  because: 139
+  birdhouse: 51607
+  blockhouse: 80605
+  blouse: 17040
+  boathouse: 44545
+  bunkhouse: 81079
+scored_words:
+  bakehouse: 150542
+  barrelhouse: 230175
+  berceuse: 171765
+  boardinghouse: 164447
+  bouse: 112212
+  brewhouse: 111407
+  bughouse: 222261
+not_scored_words:
+- Betelgeuse
+- bawdyhouse
+- bemuse

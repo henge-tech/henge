@@ -1,0 +1,32 @@
+---
+pattern: h_w
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 22
+score: 736101
+score_per_word: 61341
+hi_scored_words:
+  hacksaw: 59050
+  hallow: 61061
+  harrow: 20896
+  haw: 28100
+  hedgerow: 77086
+  hew: 36326
+  highbrow: 90425
+  hollow: 5670
+  honeydew: 54024
+  how: 76
+scored_words:
+  handsaw: 131689
+  hawkshaw: 171698
+not_scored_words:
+- Hankow
+- Harlow
+- Harrow
+- Haw
+- Hebrew
+- Hounslow
+- handbarrow
+- haymow
+- heehaw
+- hoosegow

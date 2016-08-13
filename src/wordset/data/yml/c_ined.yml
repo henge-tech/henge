@@ -1,0 +1,27 @@
+---
+pattern: c_ined
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 17
+score: 544501
+score_per_word: 45375
+hi_scored_words:
+  calcined: 89116
+  captained: 73098
+  chained: 23325
+  coined: 21464
+  combined: 2195
+  complained: 8551
+  confined: 6519
+  conjoined: 57869
+  constrained: 10869
+  contained: 1914
+scored_words:
+  chagrined: 134463
+  curtained: 115118
+not_scored_words:
+- calcimined
+- chilblained
+- coffined
+- countermined
+- crackbrained

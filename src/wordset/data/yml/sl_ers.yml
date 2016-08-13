@@ -1,0 +1,45 @@
+---
+pattern: sl_ers
+hi_scored_words_count: 10
+scored_words_count: 16
+total_words: 35
+score: 3083849
+score_per_word: 118609
+hi_scored_words:
+  slackers: 55824
+  slaughters: 98773
+  slayers: 47016
+  sleepers: 31738
+  slickers: 77283
+  sliders: 33643
+  slipcovers: 95199
+  slippers: 13553
+  slivers: 83702
+  slumbers: 85739
+scored_words:
+  slammers: 130617
+  slanderers: 228436
+  slanders: 109150
+  slappers: 131493
+  slashers: 106191
+  slaters: 179532
+  slaveholders: 102235
+  slavers: 126582
+  sledgehammers: 271436
+  sleepovers: 105548
+  sleepwalkers: 207277
+  slicers: 101434
+  slimmers: 186203
+  slingers: 132078
+  slithers: 203326
+  sluggers: 139841
+not_scored_words:
+- slabbers
+- slathers
+- slaughterers
+- sledders
+- slipovers
+- slobbers
+- sloganeers
+- slouchers
+- slumberers

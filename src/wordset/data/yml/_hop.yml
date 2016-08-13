@@ -1,0 +1,36 @@
+---
+pattern: _hop
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 26
+score: 1049259
+score_per_word: 65578
+hi_scored_words:
+  archbishop: 10408
+  barbershop: 35486
+  bellhop: 99266
+  bishop: 3454
+  bookshop: 23841
+  chop: 11357
+  hiphop: 19325
+  hop: 5204
+  pawnshop: 84490
+  shop: 807
+  sweatshop: 48663
+  workshop: 4637
+scored_words:
+  bakeshop: 281161
+  cookshop: 110748
+  toyshop: 141812
+  whop: 168600
+not_scored_words:
+- Bishop
+- barhop
+- carhop
+- dramshop
+- grogshop
+- hedgehop
+- hockshop
+- sweetshop
+- teashop
+- wineshop

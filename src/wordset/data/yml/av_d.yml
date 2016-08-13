@@ -1,0 +1,21 @@
+---
+pattern: av_d
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 11
+score: 289253
+score_per_word: 32139
+hi_scored_words:
+  availed: 55708
+  avenged: 21865
+  averaged: 14850
+  averred: 94556
+  averted: 29871
+  avid: 20316
+  avoid: 1491
+  avoided: 6334
+  avowed: 44262
+scored_words: {}
+not_scored_words:
+- aviated
+- avouched

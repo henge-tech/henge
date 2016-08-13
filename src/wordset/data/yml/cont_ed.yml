@@ -1,0 +1,35 @@
+---
+pattern: cont_ed
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 25
+score: 961752
+score_per_word: 43716
+hi_scored_words:
+  contacted: 6788
+  contained: 1914
+  contaminated: 13051
+  contemplated: 13632
+  contended: 25091
+  contented: 24693
+  contested: 15887
+  continued: 1011
+  contorted: 74122
+  contoured: 42540
+  contracted: 8347
+  contradicted: 36143
+  contraindicated: 54471
+  contrasted: 26745
+  contravened: 89448
+  contributed: 3691
+  contrived: 22647
+  controlled: 3225
+scored_words:
+  containerized: 125399
+  contemned: 128355
+  contextualized: 114634
+  controverted: 129918
+not_scored_words:
+- contemporized
+- contradistinguished
+- contused

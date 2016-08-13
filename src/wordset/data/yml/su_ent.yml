@@ -1,0 +1,33 @@
+---
+pattern: su_ent
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 23
+score: 1862764
+score_per_word: 116422
+hi_scored_words:
+  subcontinent: 36366
+  subsequent: 3205
+  subservient: 40984
+  substituent: 90608
+  succulent: 31438
+  sufficient: 1987
+  superintendent: 7255
+  supplement: 6141
+  sustainment: 70927
+scored_words:
+  subagent: 226359
+  subjacent: 210493
+  subsegment: 288768
+  subsistent: 214012
+  superabsorbent: 254236
+  supercontinent: 202350
+  superincumbent: 177635
+not_scored_words:
+- subbasement
+- subdepartment
+- subtangent
+- subvent
+- supereminent
+- superjacent
+- supervenient

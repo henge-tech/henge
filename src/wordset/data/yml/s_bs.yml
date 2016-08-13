@@ -1,0 +1,37 @@
+---
+pattern: s_bs
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 27
+score: 1766265
+score_per_word: 84107
+hi_scored_words:
+  scabs: 73059
+  scrubs: 21461
+  shrubs: 19405
+  sibs: 89267
+  slabs: 23979
+  snobs: 65606
+  sobs: 40920
+  stabs: 46360
+  stubs: 29345
+  subs: 12439
+  suburbs: 8068
+  succumbs: 84026
+  swabs: 49342
+scored_words:
+  sahibs: 123369
+  scarabs: 145874
+  slobs: 145000
+  snubs: 102818
+  sorbs: 182084
+  spareribs: 138625
+  spiderwebs: 217184
+  squibs: 148034
+not_scored_words:
+- Serbs
+- skibobs
+- slubs
+- squabs
+- subshrubs
+- syllabubs

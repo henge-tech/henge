@@ -1,0 +1,52 @@
+---
+pattern: s_ens
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 42
+score: 1329287
+score_per_word: 66464
+hi_scored_words:
+  saddens: 79400
+  sapiens: 19388
+  screens: 7446
+  sens: 24948
+  sevens: 36436
+  sharpens: 74791
+  shortens: 66722
+  siemens: 17622
+  sirens: 29510
+  smithereens: 73285
+  softens: 49688
+  specimens: 7304
+  stamens: 58627
+  strengthens: 23503
+  sunscreens: 72806
+scored_words:
+  sickens: 106289
+  spleens: 149198
+  stiffens: 170311
+  straightens: 108093
+  sweetens: 153920
+not_scored_words:
+- Saracens
+- Serpens
+- Siemens
+- Sirens
+- Stephens
+- Stevens
+- sauerbratens
+- seventeens
+- shebeens
+- silkscreens
+- sixteens
+- slackens
+- slovens
+- smartens
+- smidgens
+- smokescreens
+- smoothens
+- sowens
+- spiegeleisens
+- steepens
+- straitens
+- subteens

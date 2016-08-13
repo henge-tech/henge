@@ -1,0 +1,61 @@
+---
+pattern: read_
+hi_scored_words_count: 21
+scored_words_count: 10
+total_words: 51
+score: 2871176
+score_per_word: 92618
+hi_scored_words:
+  read: 171
+  readability: 28455
+  readable: 8777
+  reader: 1388
+  readers: 1875
+  readership: 21164
+  readied: 59742
+  readies: 49579
+  readily: 4438
+  readiness: 9861
+  reading: 558
+  readings: 7034
+  readjust: 77445
+  readjustment: 59224
+  readmission: 64557
+  readmitted: 86404
+  readout: 35200
+  readouts: 98162
+  reads: 4173
+  ready: 598
+  readying: 73660
+scored_words:
+  readdress: 321996
+  readerships: 329894
+  readier: 129379
+  readiest: 253571
+  readjusted: 110111
+  readjusting: 155001
+  readjustments: 205104
+  readjusts: 212274
+  readmit: 285526
+  readopted: 175855
+not_scored_words:
+- Reade
+- Reading
+- readabilities
+- readableness
+- readably
+- readapt
+- readapted
+- readapting
+- readapts
+- readdressed
+- readdresses
+- readdressing
+- readjourn
+- readmits
+- readmittance
+- readmitting
+- readopt
+- readopting
+- readoption
+- readopts

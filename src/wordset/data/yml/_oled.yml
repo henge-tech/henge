@@ -1,0 +1,42 @@
+---
+pattern: _oled
+hi_scored_words_count: 10
+scored_words_count: 12
+total_words: 32
+score: 2630321
+score_per_word: 119560
+hi_scored_words:
+  consoled: 66486
+  cooled: 13001
+  doled: 99831
+  fooled: 17980
+  holed: 48242
+  paroled: 68146
+  pooled: 25395
+  schooled: 37163
+  soled: 90892
+  tooled: 42652
+scored_words:
+  befooled: 295289
+  cajoled: 117925
+  carpooled: 180500
+  condoled: 220309
+  drooled: 131353
+  pigeonholed: 161904
+  poled: 172740
+  potholed: 301488
+  retooled: 130734
+  spooled: 116989
+  supercooled: 133784
+  unschooled: 157518
+not_scored_words:
+- buttonholed
+- caprioled
+- caracoled
+- caroled
+- casseroled
+- frivoled
+- gamboled
+- resoled
+- unconsoled
+- wooled

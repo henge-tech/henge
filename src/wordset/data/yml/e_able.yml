@@ -1,0 +1,66 @@
+---
+pattern: e_able
+hi_scored_words_count: 21
+scored_words_count: 15
+total_words: 56
+score: 4033577
+score_per_word: 112043
+hi_scored_words:
+  editable: 40521
+  employable: 74332
+  enable: 2238
+  enforceable: 22884
+  enjoyable: 9996
+  enviable: 35235
+  equitable: 12782
+  erasable: 85915
+  estimable: 82998
+  exchangeable: 51213
+  excitable: 55605
+  excusable: 70855
+  execrable: 91382
+  executable: 14236
+  exercisable: 76356
+  expandable: 29094
+  expendable: 39525
+  exploitable: 59638
+  exportable: 99170
+  extendable: 58922
+  extractable: 91301
+scored_words:
+  eatable: 164124
+  educable: 226101
+  electable: 153993
+  embraceable: 180336
+  endurable: 111627
+  enumerable: 122218
+  equable: 162447
+  equiprobable: 335575
+  evolvable: 206969
+  examinable: 298162
+  exceptionable: 159884
+  excisable: 265741
+  explainable: 108202
+  explicable: 112377
+  extraditable: 321623
+not_scored_words:
+- effable
+- effaceable
+- emendable
+- endorsable
+- enlargeable
+- equatable
+- eradicable
+- evadable
+- evaporable
+- evitable
+- evocable
+- exactable
+- exorable
+- expellable
+- expiable
+- explodable
+- expugnable
+- extinguishable
+- extricable
+- extrudable

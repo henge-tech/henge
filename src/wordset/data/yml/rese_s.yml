@@ -1,0 +1,33 @@
+---
+pattern: rese_s
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 23
+score: 670935
+score_per_word: 47923
+hi_scored_words:
+  researchers: 6910
+  researches: 23035
+  resellers: 26467
+  resemblances: 93214
+  resembles: 14405
+  resentments: 83818
+  resents: 75213
+  reservations: 6053
+  reserves: 5578
+  reservists: 43305
+  reservoirs: 19855
+  resets: 20883
+scored_words:
+  resections: 139537
+  resells: 112662
+not_scored_words:
+- reseals
+- reseats
+- reseaus
+- resedas
+- reseeds
+- resentfulness
+- reservedness
+- resettles
+- resews

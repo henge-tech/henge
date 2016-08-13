@@ -1,0 +1,22 @@
+---
+pattern: rep_nt
+hi_scored_words_count: 11
+scored_words_count: 0
+total_words: 12
+score: 339043
+score_per_word: 30822
+hi_scored_words:
+  repaint: 40817
+  repayment: 16785
+  repellent: 26200
+  repent: 18544
+  repentant: 63128
+  replacement: 2116
+  replant: 79729
+  replenishment: 42164
+  represent: 2219
+  reprint: 10888
+  repugnant: 36453
+scored_words: {}
+not_scored_words:
+- reptant

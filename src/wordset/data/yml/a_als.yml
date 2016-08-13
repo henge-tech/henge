@@ -1,0 +1,44 @@
+---
+pattern: a_als
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 34
+score: 2209738
+score_per_word: 96075
+hi_scored_words:
+  aboriginals: 65835
+  accruals: 75140
+  admirals: 45041
+  aerials: 38493
+  animals: 1014
+  annals: 12862
+  annuals: 36380
+  appeals: 4625
+  appraisals: 23871
+  approvals: 17344
+  arrivals: 12447
+  arsenals: 63671
+scored_words:
+  accidentals: 113701
+  acquittals: 173404
+  adrenals: 106332
+  adverbials: 216856
+  advertorials: 221675
+  agrochemicals: 112402
+  antibacterials: 225077
+  antifungals: 166074
+  antivirals: 119890
+  audiovisuals: 188924
+  avowals: 168680
+not_scored_words:
+- Aboriginals
+- Amytals
+- abuttals
+- accusals
+- acetals
+- anneals
+- antidiarrheals
+- antiphonals
+- antipodals
+- argals
+- astragals

@@ -1,0 +1,31 @@
+---
+pattern: unco_ted
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 21
+score: 1317644
+score_per_word: 77508
+hi_scored_words:
+  uncoated: 69319
+  uncollected: 78202
+  uncommitted: 58114
+  uncompensated: 83499
+  uncompleted: 85549
+  uncomplicated: 40134
+  unconnected: 37250
+  unconsolidated: 72011
+  uncontaminated: 87567
+  uncontested: 42643
+  uncoordinated: 70475
+  uncorrected: 50491
+  uncorrelated: 62212
+  uncounted: 96999
+scored_words:
+  unconverted: 106150
+  uncorroborated: 147121
+  uncorrupted: 129908
+not_scored_words:
+- unconsecrated
+- unconstricted
+- unconsummated
+- uncovenanted

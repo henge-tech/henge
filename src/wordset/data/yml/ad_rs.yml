@@ -1,0 +1,29 @@
+---
+pattern: ad_rs
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 699378
+score_per_word: 49955
+hi_scored_words:
+  adapters: 13624
+  adders: 75339
+  adjusters: 56231
+  administers: 31436
+  administrators: 9960
+  admirers: 33052
+  adopters: 41313
+  adventurers: 26275
+  advertisers: 7050
+  advisers: 11764
+  advisors: 8467
+scored_words:
+  adjudicators: 101863
+  adorers: 170489
+  adulterers: 112515
+not_scored_words:
+- Adars
+- adductors
+- adherers
+- admonishers
+- adulators

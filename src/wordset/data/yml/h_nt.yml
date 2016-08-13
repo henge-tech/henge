@@ -1,0 +1,37 @@
+---
+pattern: h_nt
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 27
+score: 1654384
+score_per_word: 103399
+hi_scored_words:
+  harassment: 11036
+  haunt: 17876
+  headcount: 55527
+  hesitant: 30258
+  highpoint: 61799
+  hint: 5433
+  hunt: 3158
+  hydrant: 41384
+scored_words:
+  habitant: 158264
+  hellbent: 128135
+  hent: 231774
+  hereditament: 294492
+  hexavalent: 112433
+  hierophant: 137738
+  houseplant: 108310
+  humectant: 256767
+not_scored_words:
+- Hellespont
+- Hotpoint
+- Hunt
+- habiliment
+- hallucinant
+- hatchment
+- headhunt
+- heptavalent
+- horsemint
+- houseparent
+- hutment

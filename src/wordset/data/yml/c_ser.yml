@@ -1,0 +1,30 @@
+---
+pattern: c_ser
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 903891
+score_per_word: 69530
+hi_scored_words:
+  chaser: 20117
+  chooser: 63664
+  cleanser: 26971
+  closer: 2806
+  coarser: 55367
+  composer: 6110
+  condenser: 24199
+  cruiser: 11998
+scored_words:
+  canvasser: 220601
+  causer: 134778
+  censer: 103502
+  courser: 128129
+  crosser: 105649
+not_scored_words:
+- caresser
+- carouser
+- chastiser
+- compromiser
+- conciser
+- confuser
+- crasser

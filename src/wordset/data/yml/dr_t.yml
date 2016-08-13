@@ -1,0 +1,47 @@
+---
+pattern: dr_t
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 37
+score: 1295413
+score_per_word: 71967
+hi_scored_words:
+  draft: 7300
+  dragnet: 66123
+  dramatist: 38824
+  drat: 72535
+  dreadnought: 46167
+  driest: 57338
+  drift: 7627
+  driveshaft: 80516
+  droit: 26799
+  droplet: 38101
+  dropout: 27620
+  drought: 10055
+  druggist: 87763
+  drumbeat: 77941
+scored_words:
+  dreamboat: 128058
+  dreariest: 187340
+  driftnet: 142129
+  drypoint: 193177
+not_scored_words:
+- drabbest
+- drabbet
+- draftiest
+- draggiest
+- dragonet
+- dragonroot
+- dreamiest
+- dressiest
+- driblet
+- drippiest
+- drollest
+- droopiest
+- droplight
+- dropwort
+- drowsiest
+- drugget
+- drunkest
+- drupelet
+- dryasdust

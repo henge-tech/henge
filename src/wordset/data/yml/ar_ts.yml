@@ -1,0 +1,39 @@
+---
+pattern: ar_ts
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 29
+score: 1180411
+score_per_word: 62126
+hi_scored_words:
+  archaeologists: 36245
+  archeologists: 72698
+  architects: 8382
+  archivists: 55008
+  argonauts: 60269
+  arguments: 3214
+  aristocrats: 29380
+  armaments: 37253
+  armpits: 38804
+  armrests: 85241
+  arrangements: 3011
+  arrests: 15024
+  artifacts: 10325
+  artists: 2040
+  arts: 1225
+scored_words:
+  armlets: 156252
+  aromatherapists: 178107
+  arraignments: 277255
+  arsonists: 110678
+not_scored_words:
+- Arabists
+- Aragats
+- Argonauts
+- arbitraments
+- arboriculturists
+- archaists
+- archpriests
+- argots
+- armets
+- arpents

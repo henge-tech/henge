@@ -1,0 +1,31 @@
+---
+pattern: _eta
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 21
+score: 735320
+score_per_word: 61276
+hi_scored_words:
+  beta: 11282
+  eta: 22808
+  excreta: 92427
+  feta: 40821
+  meta: 8442
+  peseta: 67322
+  seta: 51102
+  taffeta: 52908
+  theta: 14444
+  zeta: 18030
+scored_words:
+  pieta: 106766
+  pineta: 248968
+not_scored_words:
+- ETA
+- Greta
+- Leta
+- Meta
+- Pieta
+- Velveeta
+- anchoveta
+- chaeta
+- chaqueta

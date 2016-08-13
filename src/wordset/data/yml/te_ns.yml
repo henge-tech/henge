@@ -1,0 +1,42 @@
+---
+pattern: te_ns
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 32
+score: 1398266
+score_per_word: 77681
+hi_scored_words:
+  teaspoons: 32145
+  technicians: 9860
+  teens: 7973
+  telecommunications: 10063
+  televisions: 19506
+  temptations: 22276
+  tendons: 37796
+  tens: 10043
+  tensions: 13648
+  terminations: 41830
+  terns: 48401
+  terrains: 67676
+  terrapins: 50092
+scored_words:
+  tenderloins: 163185
+  tenons: 201355
+  teratogens: 194313
+  tessellations: 149870
+  tetrahedrons: 318234
+not_scored_words:
+- Teflons
+- Tennesseans
+- Terramycins
+- Tetons
+- Teutons
+- Texans
+- telencephalons
+- telethons
+- tellurians
+- tenpins
+- tergiversations
+- ternions
+- terrorizations
+- tetragons

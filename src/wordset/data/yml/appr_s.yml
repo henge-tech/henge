@@ -1,0 +1,34 @@
+---
+pattern: appr_s
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 24
+score: 1106064
+score_per_word: 61448
+hi_scored_words:
+  appraisals: 23871
+  appraisers: 37966
+  appreciates: 27446
+  apprehensions: 60058
+  apprentices: 26050
+  apprenticeships: 31456
+  approaches: 3672
+  appropriateness: 24901
+  appropriates: 77374
+  appropriations: 10452
+  approvals: 17344
+  approves: 15865
+  approximates: 48463
+  approximations: 28198
+scored_words:
+  appraises: 191855
+  appreciations: 121398
+  apprehends: 171183
+  appropriators: 188512
+not_scored_words:
+- appraisees
+- appreciators
+- apprehensiveness
+- apprises
+- approbates
+- approbations

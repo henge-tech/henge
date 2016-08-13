@@ -1,0 +1,52 @@
+---
+pattern: lam_s
+hi_scored_words_count: 8
+scored_words_count: 11
+total_words: 42
+score: 2308877
+score_per_word: 121519
+hi_scored_words:
+  lamas: 56859
+  lambs: 16050
+  lameness: 50478
+  lamentations: 24274
+  laments: 46128
+  laminates: 49174
+  lamps: 5393
+  lampshades: 89078
+scored_words:
+  lambasts: 327104
+  lambdas: 171066
+  lamberts: 121448
+  lamers: 145506
+  lames: 164200
+  laminitis: 164355
+  lamplighters: 326495
+  lampoons: 136999
+  lampposts: 144041
+  lampreys: 140159
+  lams: 130070
+not_scored_words:
+- Lamaisms
+- Lamaists
+- Lamarckisms
+- Lamentations
+- Lammas
+- Lammases
+- Lammastides
+- lamaseries
+- lambadas
+- lambastes
+- lambkins
+- lambrequins
+- lambskins
+- lamebrains
+- lamellas
+- lamellibranchs
+- lamenters
+- lamias
+- laminitises
+- laminous
+- lammergeiers
+- lampas
+- lampooners

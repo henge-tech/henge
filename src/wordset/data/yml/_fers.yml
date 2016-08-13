@@ -1,0 +1,60 @@
+---
+pattern: _fers
+hi_scored_words_count: 23
+scored_words_count: 11
+total_words: 50
+score: 2873090
+score_per_word: 84502
+hi_scored_words:
+  aquifers: 40265
+  buffers: 18570
+  coffers: 40743
+  confers: 32537
+  conifers: 49881
+  defers: 90573
+  differs: 10646
+  golfers: 20710
+  heifers: 53002
+  infers: 80312
+  lifers: 64456
+  loafers: 39195
+  offers: 1285
+  prefers: 8692
+  refers: 4142
+  roofers: 77028
+  sniffers: 92565
+  staffers: 31279
+  suffers: 11904
+  surfers: 16698
+  transfers: 8997
+  wafers: 35958
+  woofers: 75981
+scored_words:
+  duffers: 166131
+  foraminifers: 229231
+  gaffers: 189767
+  hoofers: 298959
+  proffers: 111171
+  puffers: 162010
+  reefers: 156331
+  rotifers: 153811
+  scoffers: 212912
+  snuffers: 148761
+  windsurfers: 138587
+not_scored_words:
+- Loafers
+- bluffers
+- chaffers
+- chamfers
+- cockchafers
+- counteroffers
+- crucifers
+- fifers
+- gauffers
+- gofers
+- goffers
+- lucifers
+- pilfers
+- telfers
+- thurifers
+- twofers

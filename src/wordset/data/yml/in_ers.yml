@@ -1,0 +1,45 @@
+---
+pattern: in_ers
+hi_scored_words_count: 13
+scored_words_count: 13
+total_words: 35
+score: 2965758
+score_per_word: 114067
+hi_scored_words:
+  infers: 80312
+  informers: 78288
+  inhalers: 69567
+  innkeepers: 64492
+  insiders: 19566
+  installers: 34182
+  insurers: 13808
+  integers: 20756
+  interpreters: 16321
+  interviewers: 36930
+  intruders: 33138
+  invaders: 17365
+  inverters: 45198
+scored_words:
+  inclinometers: 280877
+  incomers: 288116
+  indexers: 117895
+  inducers: 106102
+  infielders: 145928
+  infusers: 279753
+  inquirers: 109033
+  intensifiers: 205654
+  interferometers: 113764
+  interlopers: 154159
+  interrupters: 196576
+  inters: 274735
+  intriguers: 163243
+not_scored_words:
+- inciters
+- infighters
+- inflaters
+- injurers
+- inscribers
+- instituters
+- intoners
+- inveiglers
+- invokers

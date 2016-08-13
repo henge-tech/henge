@@ -1,0 +1,26 @@
+---
+pattern: unea_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 733760
+score_per_word: 66705
+hi_scored_words:
+  unearned: 43475
+  unearth: 40999
+  unearthed: 34838
+  unearthing: 91383
+  unearthly: 52112
+  unease: 55453
+  uneasily: 65515
+  uneasiness: 38496
+  uneasy: 15931
+scored_words:
+  unearths: 139365
+  uneaten: 156193
+not_scored_words:
+- uneager
+- unearthliness
+- uneasier
+- uneasiest
+- uneatable

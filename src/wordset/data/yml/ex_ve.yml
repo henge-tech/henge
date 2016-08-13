@@ -1,0 +1,45 @@
+---
+pattern: ex_ve
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 35
+score: 1543288
+score_per_word: 85738
+hi_scored_words:
+  excessive: 5446
+  exclusive: 2925
+  executive: 1897
+  exhaustive: 18359
+  expansive: 20467
+  expensive: 3220
+  expletive: 62368
+  exploitative: 58707
+  explosive: 9868
+  expressive: 12739
+  extensive: 2608
+  extractive: 58715
+scored_words:
+  exclave: 171705
+  exfoliative: 201969
+  explicative: 318166
+  exploitive: 139289
+  extrusive: 266433
+  exudative: 188407
+not_scored_words:
+- exaggerative
+- exceptive
+- excommunicative
+- excretive
+- excursive
+- execrative
+- exemplificative
+- exhibitive
+- exhilarative
+- exhilirative
+- exhortative
+- exonerative
+- expulsive
+- extinctive
+- extirpative
+- extortive
+- extrapolative

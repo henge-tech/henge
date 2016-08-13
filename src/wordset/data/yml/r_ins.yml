@@ -1,0 +1,33 @@
+---
+pattern: r_ins
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 23
+score: 753079
+score_per_word: 50205
+hi_scored_words:
+  rains: 10380
+  raisins: 25963
+  redskins: 20566
+  refrains: 83273
+  regains: 61019
+  reins: 20023
+  rejoins: 87737
+  remains: 1679
+  resins: 21927
+  restrains: 98576
+  retains: 12128
+  robins: 24895
+  ruins: 7330
+scored_words:
+  ragamuffins: 149736
+  ramekins: 127847
+not_scored_words:
+- Robbins
+- Rollins
+- Romains
+- rattlebrains
+- reattains
+- reexplains
+- retrains
+- rosins

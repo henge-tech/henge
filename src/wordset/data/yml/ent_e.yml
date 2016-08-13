@@ -1,0 +1,33 @@
+---
+pattern: ent_e
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 23
+score: 889233
+score_per_word: 63516
+hi_scored_words:
+  entangle: 75482
+  entente: 67301
+  enterprise: 1787
+  entice: 28231
+  entire: 971
+  entitle: 33034
+  entourage: 34301
+  entrance: 2938
+  entree: 33083
+  entrée: 67945
+scored_words:
+  entablature: 197263
+  enthrone: 106977
+  enthuse: 108976
+  entwine: 130944
+not_scored_words:
+- Entebbe
+- Enterprise
+- enterogastrone
+- enthymeme
+- entitative
+- entomologize
+- entophyte
+- entr'acte
+- entryphone

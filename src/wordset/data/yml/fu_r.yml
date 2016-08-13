@@ -1,0 +1,46 @@
+---
+pattern: fu_r
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 36
+score: 1807898
+score_per_word: 100438
+hi_scored_words:
+  fucker: 17009
+  fuehrer: 88696
+  fuhrer: 68815
+  fuller: 8415
+  fundraiser: 16801
+  funicular: 96853
+  funnier: 40032
+  fur: 5315
+  furor: 54895
+  further: 411
+scored_words:
+  fulmar: 138959
+  funfair: 128921
+  funkier: 188959
+  funner: 177520
+  furfur: 212569
+  furrier: 163216
+  fusilier: 177576
+  fuzzier: 222936
+not_scored_words:
+- Fugger
+- Fuhrer
+- Fuller
+- Furtwangler
+- Furtwängler
+- Fuzzbuster
+- fueler
+- fulfiller
+- fulgor
+- fulminator
+- fumbler
+- fumier
+- fumigator
+- furnisher
+- fusileer
+- fusser
+- fussier
+- fustier

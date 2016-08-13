@@ -1,0 +1,52 @@
+---
+pattern: over_n
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 42
+score: 2281834
+score_per_word: 91273
+hi_scored_words:
+  overblown: 57849
+  overburden: 63337
+  overdrawn: 94931
+  overgrown: 30526
+  overlain: 89220
+  overman: 91754
+  overpopulation: 54928
+  overproduction: 70821
+  overran: 73029
+  overreaction: 87547
+  overridden: 35844
+  overrun: 22165
+  overseen: 35902
+  oversimplification: 89254
+  overtaken: 29139
+  overthrown: 33545
+  overturn: 27476
+  overwritten: 47349
+scored_words:
+  overcompensation: 281863
+  overestimation: 103012
+  overexertion: 141828
+  overladen: 132313
+  overstimulation: 244351
+  oversubscription: 174152
+  overvaluation: 169699
+not_scored_words:
+- overambition
+- overconcern
+- overdiversification
+- overeaten
+- overexpansion
+- overflown
+- overgeneralization
+- overlearn
+- overmedication
+- overprescription
+- overprotection
+- overregulation
+- overripen
+- overspecialization
+- overstrain
+- overtaxation
+- overtrain

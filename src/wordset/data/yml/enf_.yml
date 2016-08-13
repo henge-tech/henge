@@ -1,0 +1,42 @@
+---
+pattern: enf_
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 32
+score: 2149936
+score_per_word: 102377
+hi_scored_words:
+  enfilade: 77652
+  enforce: 7408
+  enforceability: 76964
+  enforceable: 22884
+  enforced: 9369
+  enforcement: 4444
+  enforcer: 39558
+  enforcers: 59056
+  enforces: 41588
+  enforcing: 15614
+scored_words:
+  enface: 116514
+  enfeeble: 101886
+  enfeebled: 133628
+  enfold: 104462
+  enfolded: 167670
+  enfolding: 231223
+  enfolds: 269259
+  enforcements: 177505
+  enfranchise: 219965
+  enfranchised: 153420
+  enfranchisement: 119867
+not_scored_words:
+- Enfield
+- enfeeblement
+- enfeebles
+- enfeebling
+- enfeoff
+- enfiladed
+- enfilades
+- enfilading
+- enfleurage
+- enfranchises
+- enfranchising

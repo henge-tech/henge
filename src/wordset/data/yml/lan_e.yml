@@ -1,0 +1,33 @@
+---
+pattern: lan_e
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 23
+score: 714593
+score_per_word: 59549
+hi_scored_words:
+  lance: 6946
+  lanceolate: 68182
+  landline: 29981
+  landmine: 51313
+  landscape: 3134
+  landslide: 31292
+  lane: 2581
+  language: 426
+  langue: 35669
+scored_words:
+  landgrave: 176205
+  landside: 173184
+  lanthanide: 135680
+not_scored_words:
+- Lancashire
+- Lance
+- Lane
+- lanate
+- lancinate
+- landgraviate
+- landgravine
+- langouste
+- langrage
+- langsyne
+- lanose

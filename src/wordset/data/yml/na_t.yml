@@ -1,0 +1,35 @@
+---
+pattern: na_t
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 25
+score: 958235
+score_per_word: 79852
+hi_scored_words:
+  narcissist: 50591
+  narrowest: 63171
+  nascent: 33692
+  nastiest: 59319
+  nationalist: 17690
+  naturalist: 17404
+  naturist: 45241
+  naught: 30053
+scored_words:
+  nanobot: 128189
+  nativist: 189673
+  naughtiest: 171899
+  naut: 151313
+not_scored_words:
+- Nantucket
+- Narraganset
+- Narragansett
+- Nat
+- Nayarit
+- naffest
+- naissant
+- naivest
+- nappiest
+- natant
+- nattiest
+- navelwort
+- navicert

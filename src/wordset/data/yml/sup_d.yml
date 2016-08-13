@@ -1,0 +1,40 @@
+---
+pattern: sup_d
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 30
+score: 1668669
+score_per_word: 75848
+hi_scored_words:
+  supercharged: 39851
+  superfluid: 99336
+  superheated: 98876
+  superimposed: 34686
+  superseded: 17796
+  supersized: 61783
+  supervised: 18251
+  supped: 98727
+  supplanted: 54154
+  supplemented: 16417
+  supplied: 2436
+  supported: 1734
+  supposed: 2080
+  suppressed: 10955
+scored_words:
+  superannuated: 147503
+  supercooled: 133784
+  superintend: 122610
+  superintended: 181867
+  superposed: 103772
+  supersaturated: 129107
+  supervened: 122705
+  supplicated: 170239
+not_scored_words:
+- Superfund
+- superabound
+- superadd
+- superload
+- superscribed
+- supersophisticated
+- supinated
+- suppurated

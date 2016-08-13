@@ -1,0 +1,59 @@
+---
+pattern: p_als
+hi_scored_words_count: 24
+scored_words_count: 8
+total_words: 49
+score: 2455721
+score_per_word: 76741
+hi_scored_words:
+  pals: 16177
+  paralegals: 64080
+  paraprofessionals: 84089
+  partials: 98493
+  peals: 95431
+  pedals: 26757
+  pedestals: 48122
+  perennials: 34033
+  periodicals: 12399
+  peripherals: 13433
+  personals: 19089
+  petals: 17296
+  petrochemicals: 56888
+  pharmaceuticals: 9829
+  physicals: 82136
+  plurals: 68114
+  polynomials: 25237
+  portals: 13486
+  portrayals: 54178
+  potentials: 15588
+  practicals: 89012
+  principals: 14906
+  professionals: 9069
+  proposals: 8939
+scored_words:
+  pascals: 185173
+  pastorals: 200384
+  pectorals: 237526
+  phials: 143759
+  pictorials: 105764
+  planetesimals: 234652
+  prodigals: 271670
+  provincials: 100012
+not_scored_words:
+- Pascals
+- Pentecostals
+- Pentothals
+- Provencals
+- palatals
+- paramedicals
+- parietals
+- pennyroyals
+- pentobarbitals
+- perpetuals
+- perusals
+- placentals
+- pontificals
+- poundals
+- pretrials
+- processionals
+- proportionals

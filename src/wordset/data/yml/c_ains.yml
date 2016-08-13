@@ -1,0 +1,24 @@
+---
+pattern: c_ains
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 884384
+score_per_word: 80398
+hi_scored_words:
+  captains: 12653
+  chains: 4534
+  chaplains: 40027
+  chieftains: 46417
+  complains: 21779
+  constrains: 63471
+  contains: 1499
+  curtains: 8308
+scored_words:
+  chamberlains: 161452
+  chilblains: 236367
+  cremains: 287877
+not_scored_words:
+- Cains
+- chevrotains
+- coxswains

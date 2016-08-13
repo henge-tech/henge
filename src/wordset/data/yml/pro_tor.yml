@@ -1,0 +1,34 @@
+---
+pattern: pro_tor
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 24
+score: 874108
+score_per_word: 62436
+hi_scored_words:
+  procrastinator: 73919
+  proctor: 22599
+  procurator: 65061
+  progenitor: 36391
+  projector: 15132
+  propagator: 71368
+  proprietor: 15591
+  prosecutor: 12595
+  prospector: 39129
+  protector: 9307
+  protractor: 66323
+scored_words:
+  prognosticator: 188928
+  proliferator: 152610
+  protestor: 105155
+not_scored_words:
+- Protector
+- procreator
+- prohibitor
+- prolocutor
+- promulgator
+- pronator
+- propitiator
+- propretor
+- proprioceptor
+- prosector

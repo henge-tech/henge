@@ -1,0 +1,38 @@
+---
+pattern: _rsed
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 28
+score: 1948324
+score_per_word: 81180
+hi_scored_words:
+  accursed: 47069
+  arsed: 68472
+  conversed: 70824
+  cursed: 10802
+  disbursed: 47461
+  dispersed: 12654
+  endorsed: 11049
+  immersed: 22055
+  interspersed: 27168
+  nursed: 47747
+  parsed: 44659
+  pursed: 84209
+  rehearsed: 43592
+  reimbursed: 30673
+  reversed: 9906
+  traversed: 27219
+  versed: 25413
+scored_words:
+  coursed: 103450
+  discoursed: 156047
+  horsed: 259271
+  submersed: 152751
+  unhorsed: 132428
+  unrehearsed: 193854
+  unversed: 319551
+not_scored_words:
+- aspersed
+- emersed
+- unendorsed
+- untraversed

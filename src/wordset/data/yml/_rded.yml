@@ -1,0 +1,62 @@
+---
+pattern: _rded
+hi_scored_words_count: 24
+scored_words_count: 13
+total_words: 52
+score: 3561292
+score_per_word: 96251
+hi_scored_words:
+  accorded: 19964
+  afforded: 10756
+  awarded: 4561
+  bearded: 19601
+  boarded: 25473
+  bombarded: 37323
+  carded: 44165
+  corded: 41321
+  discarded: 12078
+  disregarded: 23663
+  forwarded: 10536
+  girded: 88503
+  guarded: 13457
+  herded: 65923
+  hoarded: 73355
+  prerecorded: 70859
+  recorded: 2305
+  regarded: 3926
+  retarded: 14811
+  rewarded: 10945
+  safeguarded: 55627
+  unguarded: 62002
+  unrecorded: 65755
+  worded: 31452
+scored_words:
+  birded: 307835
+  forded: 190413
+  hazarded: 186537
+  larded: 289705
+  lorded: 255667
+  placarded: 243838
+  rerecorded: 275620
+  reworded: 112561
+  shepherded: 144540
+  undergirded: 305069
+  unregarded: 163069
+  unrewarded: 163818
+  warded: 114259
+not_scored_words:
+- begirded
+- clapboarded
+- disaccorded
+- discorded
+- horded
+- interlarded
+- keyboarded
+- leotarded
+- pollarded
+- skateboarded
+- snowboarded
+- stewarded
+- surfboarded
+- swarded
+- waterboarded

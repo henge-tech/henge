@@ -1,0 +1,52 @@
+---
+pattern: eco_
+hi_scored_words_count: 21
+scored_words_count: 7
+total_words: 42
+score: 1897835
+score_per_word: 67779
+hi_scored_words:
+  ecol: 42836
+  ecological: 11196
+  ecologically: 36013
+  ecologist: 48994
+  ecologists: 57403
+  ecology: 9888
+  econ: 16369
+  econometric: 33090
+  econometrics: 36134
+  economic: 1343
+  economical: 10648
+  economically: 11800
+  economics: 6175
+  economies: 10149
+  economist: 13597
+  economists: 15496
+  economize: 82717
+  economy: 1836
+  ecosystem: 13973
+  ecosystems: 11547
+  ecotourism: 40610
+scored_words:
+  ecologic: 100460
+  econometrician: 322427
+  economizer: 152828
+  economizing: 176982
+  ecosphere: 224251
+  ecotone: 184567
+  ecotype: 224506
+not_scored_words:
+- Eco
+- ecocidal
+- ecocide
+- econometrical
+- econometricians
+- econometrist
+- economism
+- economization
+- economized
+- economizers
+- economizes
+- ecospecies
+- ecotourist
+- ecotourists

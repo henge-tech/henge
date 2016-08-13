@@ -1,0 +1,34 @@
+---
+pattern: hi_ed
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 24
+score: 723573
+score_per_word: 60297
+hi_scored_words:
+  highlighted: 7617
+  hijacked: 27401
+  hiked: 46117
+  hindered: 27495
+  hinged: 25565
+  hinted: 26605
+  hired: 5025
+  hissed: 50145
+  hitched: 41742
+scored_words:
+  hied: 173712
+  hipped: 103219
+  hitchhiked: 188930
+not_scored_words:
+- hibernated
+- hiccoughed
+- hiccuped
+- hided
+- higgled
+- highbred
+- highbrowed
+- highhanded
+- hightailed
+- historiated
+- historied
+- hived

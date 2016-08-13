@@ -1,0 +1,28 @@
+---
+pattern: sur_ng
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 18
+score: 920296
+score_per_word: 76691
+hi_scored_words:
+  surfacing: 35211
+  surfing: 11600
+  surging: 35308
+  surpassing: 31470
+  surprising: 5588
+  surrendering: 40682
+  surrounding: 3161
+  surveying: 12964
+  surviving: 8739
+scored_words:
+  surcharging: 334859
+  surmising: 278900
+  surmounting: 121814
+not_scored_words:
+- surceasing
+- surfboarding
+- surfeiting
+- surplussing
+- surtaxing
+- surveilling

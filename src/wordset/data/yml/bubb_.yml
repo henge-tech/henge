@@ -1,0 +1,21 @@
+---
+pattern: bubb_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 449725
+score_per_word: 49969
+hi_scored_words:
+  bubba: 21346
+  bubble: 6938
+  bubbled: 65720
+  bubblegum: 40250
+  bubbler: 81548
+  bubbles: 11084
+  bubbling: 29600
+  bubbly: 32104
+scored_words:
+  bubblers: 161135
+not_scored_words:
+- bubblier
+- bubbliest

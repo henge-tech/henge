@@ -1,0 +1,36 @@
+---
+pattern: ca_ted
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 26
+score: 1313967
+score_per_word: 87597
+hi_scored_words:
+  caffeinated: 66750
+  calculated: 3004
+  calibrated: 21756
+  capitulated: 96539
+  captivated: 38184
+  carbonated: 42354
+  carpeted: 42722
+  carted: 81013
+  castrated: 69134
+  catapulted: 68029
+scored_words:
+  calumniated: 146803
+  canted: 131031
+  capacitated: 212642
+  castellated: 179573
+  castigated: 114433
+not_scored_words:
+- cachinnated
+- camphorated
+- cantillated
+- capsulated
+- carbolated
+- carboxylated
+- carburetted
+- caseated
+- catenated
+- catted
+- cavorted

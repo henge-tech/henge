@@ -1,0 +1,32 @@
+---
+pattern: impe_e
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 22
+score: 1180730
+score_per_word: 73795
+hi_scored_words:
+  impeccable: 30609
+  impedance: 17373
+  impede: 23143
+  impenetrable: 32424
+  imperative: 10509
+  imperceptible: 55020
+  imperishable: 86056
+  impermanence: 93086
+  impermeable: 53483
+  impermissible: 71491
+  impersonate: 53291
+  impertinence: 90178
+scored_words:
+  impeachable: 114258
+  imperfective: 191323
+  imperforate: 130321
+  imperturbable: 128165
+not_scored_words:
+- impeditive
+- impenitence
+- imperceptive
+- imperscriptible
+- impersonalize
+- impetrate

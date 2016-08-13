@@ -1,0 +1,30 @@
+---
+pattern: t_ped
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 20
+score: 1400577
+score_per_word: 93371
+hi_scored_words:
+  taped: 19435
+  tapped: 13445
+  thumped: 90870
+  tipped: 16866
+  topped: 13725
+  trapped: 10054
+  tripped: 30289
+  trumped: 58230
+  typed: 17994
+scored_words:
+  tamped: 171810
+  telescoped: 243994
+  toped: 138492
+  tramped: 126540
+  transshipped: 298958
+  trooped: 149875
+not_scored_words:
+- taliped
+- temped
+- tightlipped
+- tromped
+- trouped

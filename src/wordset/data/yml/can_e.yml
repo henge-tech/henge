@@ -1,0 +1,48 @@
+---
+pattern: can_e
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 38
+score: 2372670
+score_per_word: 118633
+hi_scored_words:
+  candidate: 3245
+  candidature: 62653
+  candle: 4582
+  cane: 8353
+  canine: 16058
+  canoe: 7946
+  cantabile: 90736
+  cantaloupe: 53132
+  canticle: 75386
+  canzone: 61116
+scored_words:
+  canaille: 159353
+  canape: 135268
+  cancelable: 184534
+  cancellable: 217071
+  canebrake: 282021
+  cannibalize: 134613
+  cannonade: 169350
+  cannulae: 262346
+  canonize: 289030
+  cantle: 155877
+not_scored_words:
+- Canaanite
+- Canarese
+- Candace
+- Candice
+- Candide
+- Cannae
+- Cantonese
+- Canute
+- canaigre
+- canalize
+- cancelate
+- cancellate
+- candescence
+- cangue
+- canonicate
+- canoodle
+- cantatrice
+- cantillate

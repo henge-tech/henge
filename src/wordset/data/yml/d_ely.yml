@@ -1,0 +1,58 @@
+---
+pattern: d_ely
+hi_scored_words_count: 13
+scored_words_count: 17
+total_words: 48
+score: 3807086
+score_per_word: 126902
+hi_scored_words:
+  deceptively: 43001
+  decisively: 35961
+  defensively: 40337
+  definitely: 3468
+  definitively: 35329
+  deliberately: 8057
+  delicately: 28299
+  densely: 25644
+  desperately: 9611
+  discretely: 76864
+  disproportionately: 34609
+  distinctively: 47861
+  divinely: 43954
+scored_words:
+  decoratively: 216753
+  deductively: 211274
+  defectively: 308034
+  demonstratively: 301830
+  demurely: 146562
+  derisively: 100105
+  derivatively: 317746
+  descriptively: 164068
+  desolately: 210024
+  destructively: 119630
+  diffusely: 140341
+  disconsolately: 260129
+  discursively: 271768
+  dismissively: 163883
+  dispassionately: 122064
+  diversely: 169844
+  docilely: 150036
+not_scored_words:
+- degenerately
+- deliberatively
+- delusively
+- denotatively
+- depressively
+- determinately
+- determinatively
+- digressively
+- diminutively
+- direly
+- discriminately
+- disjunctively
+- disparately
+- dispersively
+- disruptively
+- dissolutely
+- distributively
+- divisively

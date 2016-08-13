@@ -1,0 +1,33 @@
+---
+pattern: as_ts
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 23
+score: 1380040
+score_per_word: 76668
+hi_scored_words:
+  ascents: 77784
+  aspects: 3271
+  aspirants: 77129
+  assailants: 50827
+  assaults: 21096
+  asserts: 15475
+  assessments: 14516
+  assets: 6329
+  assignments: 14015
+  assistants: 9415
+  assists: 11371
+  assortments: 82226
+  astronauts: 20503
+scored_words:
+  ascendants: 256658
+  asphalts: 225758
+  assents: 191131
+  astringents: 151076
+  astrophysicists: 151460
+not_scored_words:
+- ascots
+- assonants
+- assorts
+- assuagements
+- astrologists

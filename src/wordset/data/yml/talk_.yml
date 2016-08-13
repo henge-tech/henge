@@ -1,0 +1,26 @@
+---
+pattern: talk_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 448500
+score_per_word: 40772
+hi_scored_words:
+  talk: 373
+  talkative: 35414
+  talked: 2984
+  talker: 30700
+  talkers: 40877
+  talkie: 37715
+  talkies: 54681
+  talking: 1060
+  talks: 3531
+scored_words:
+  talkativeness: 113016
+  talky: 128149
+not_scored_words:
+- talkathon
+- talkatively
+- talkfest
+- talkier
+- talkiest

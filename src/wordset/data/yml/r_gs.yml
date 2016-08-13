@@ -1,0 +1,60 @@
+---
+pattern: r_gs
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 50
+score: 2324358
+score_per_word: 89398
+hi_scored_words:
+  rags: 16956
+  railings: 35603
+  ramblings: 26181
+  rankings: 5306
+  rantings: 71083
+  ratings: 1993
+  ravings: 58249
+  readings: 7034
+  recordings: 8235
+  renderings: 52289
+  rigs: 25110
+  rings: 2684
+  rugs: 12190
+  rulings: 18869
+  rumblings: 70216
+  rungs: 66723
+scored_words:
+  raisings: 205170
+  reckonings: 152487
+  redwings: 109009
+  rejigs: 318246
+  rejoicings: 227477
+  restructurings: 128234
+  reworkings: 248955
+  risings: 155861
+  rollings: 162981
+  rubbings: 137217
+not_scored_words:
+- Rawlings
+- Rieslings
+- Riggs
+- ragtags
+- raspings
+- ratbags
+- rattlings
+- ravelings
+- redbugs
+- refinings
+- rehangs
+- rehearings
+- reorgs
+- reportings
+- restrings
+- retailings
+- revealings
+- revelings
+- ribbings
+- ringings
+- roastings
+- ropings
+- rushings
+- rustlings

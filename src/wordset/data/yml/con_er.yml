@@ -1,0 +1,64 @@
+---
+pattern: con_er
+hi_scored_words_count: 16
+scored_words_count: 13
+total_words: 54
+score: 2681289
+score_per_word: 92458
+hi_scored_words:
+  concealer: 47426
+  condenser: 24199
+  conditioner: 17744
+  confectioner: 90682
+  confer: 13978
+  conger: 58470
+  conifer: 39147
+  conker: 74279
+  conquer: 11527
+  consider: 956
+  consumer: 3792
+  container: 9990
+  contender: 20713
+  controller: 11912
+  convener: 32337
+  converter: 9864
+scored_words:
+  concertmaster: 125510
+  concessioner: 196066
+  coneflower: 143125
+  conformer: 144346
+  confounder: 306893
+  congener: 115549
+  conjecturer: 290173
+  conjurer: 101121
+  conquerer: 194916
+  consoler: 103761
+  continuer: 154978
+  contriver: 179272
+  conveyancer: 158563
+not_scored_words:
+- Conner
+- conceder
+- conceiver
+- concenter
+- concertgoer
+- concertmeister
+- conciser
+- concocter
+- condemner
+- condoner
+- conferer
+- conferrer
+- confider
+- confiner
+- confuser
+- confuter
+- conjoiner
+- conniver
+- constrainer
+- contemner
+- contester
+- contradicter
+- contravener
+- conventioneer
+- conventioner

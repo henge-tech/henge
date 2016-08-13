@@ -1,0 +1,54 @@
+---
+pattern: b_ine
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 44
+score: 2184808
+score_per_word: 87392
+hi_scored_words:
+  barquentine: 80398
+  baseline: 11183
+  bassline: 63281
+  beeline: 65369
+  bellarmine: 72377
+  benedictine: 32679
+  benzine: 82994
+  betaine: 95658
+  bine: 93735
+  biomedicine: 71341
+  bloodline: 48269
+  borderline: 22256
+  bovine: 22845
+  bowline: 98813
+  brigantine: 57418
+  brine: 24056
+  bromine: 47810
+  byline: 41591
+  byzantine: 15831
+scored_words:
+  beguine: 168125
+  benzidine: 176003
+  benzocaine: 155443
+  berberine: 204448
+  breadline: 215956
+  brigandine: 216929
+not_scored_words:
+- Balanchine
+- Beguine
+- Benedictine
+- Benzedrine
+- Bernadine
+- Bernardine
+- Blaine
+- Byzantine
+- bandoline
+- barkentine
+- bebeerine
+- bengaline
+- berylline
+- bombazine
+- brilliantine
+- brucine
+- bubaline
+- buntline
+- butacaine

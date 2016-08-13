@@ -1,0 +1,41 @@
+---
+pattern: gr_l
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 31
+score: 1385493
+score_per_word: 76971
+hi_scored_words:
+  graceful: 11929
+  gradual: 10319
+  grail: 22828
+  grammatical: 17509
+  graphical: 11652
+  grateful: 4782
+  gravel: 9164
+  gravitational: 18388
+  grill: 14045
+  gristmill: 71899
+  groundswell: 89553
+  grovel: 76531
+  growl: 26744
+  gruel: 69469
+scored_words:
+  gradational: 241086
+  grapnel: 218106
+  graupel: 281212
+  groundsel: 190277
+not_scored_words:
+- Grail
+- Grendel
+- Gretel
+- Groenendael
+- grallatorial
+- graphological
+- gravimetrical
+- greaseball
+- greenmail
+- gremial
+- gressorial
+- gromwell
+- groundsill

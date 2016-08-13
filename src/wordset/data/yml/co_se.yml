@@ -1,0 +1,48 @@
+---
+pattern: co_se
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 38
+score: 1530892
+score_per_word: 58880
+hi_scored_words:
+  coarse: 8840
+  coffeehouse: 33977
+  collapse: 6309
+  comatose: 47891
+  commonsense: 41686
+  compose: 9363
+  comprise: 13283
+  compromise: 6247
+  concise: 12614
+  concourse: 27189
+  condense: 44058
+  confuse: 14727
+  converse: 10749
+  copse: 68138
+  corpse: 8971
+  corse: 37011
+  counterclockwise: 52386
+  course: 211
+  courthouse: 21278
+scored_words:
+  coagulase: 139890
+  coastwise: 135049
+  contrariwise: 119253
+  convulse: 154749
+  cookhouse: 196333
+  counterpoise: 136504
+  countinghouse: 184186
+not_scored_words:
+- Cochise
+- Congolese
+- Corse
+- cockhorse
+- coiffeuse
+- comose
+- contrapose
+- contredanse
+- contuse
+- cornemuse
+- cornerwise
+- coulisse

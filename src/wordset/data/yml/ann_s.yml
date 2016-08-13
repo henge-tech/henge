@@ -1,0 +1,42 @@
+---
+pattern: ann_s
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 32
+score: 2336060
+score_per_word: 101567
+hi_scored_words:
+  annals: 12862
+  annas: 77417
+  annexes: 40710
+  anniversaries: 29359
+  annotations: 22589
+  announcements: 9780
+  announcers: 50847
+  announces: 7026
+  annoyances: 37493
+  annoys: 39574
+  annuals: 36380
+  annuities: 30400
+  annulus: 55648
+scored_words:
+  annalists: 148267
+  annelids: 180803
+  annexations: 109680
+  annihilates: 151485
+  annotates: 237158
+  annotators: 243327
+  annuitants: 144686
+  annulments: 232836
+  annuls: 234656
+  annunciators: 203077
+not_scored_words:
+- Annapolis
+- Annunciations
+- annates
+- anneals
+- annihilators
+- annulets
+- annuluses
+- annunciates
+- annunciations

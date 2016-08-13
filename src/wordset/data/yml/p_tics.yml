@@ -1,0 +1,33 @@
+---
+pattern: p_tics
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 23
+score: 1432337
+score_per_word: 95489
+hi_scored_words:
+  phonetics: 41113
+  plastics: 9244
+  pneumatics: 71546
+  poetics: 37251
+  politics: 1421
+  pragmatics: 48589
+  prosthetics: 46045
+  psycholinguistics: 92906
+scored_words:
+  periodontics: 105461
+  pharmaceutics: 115306
+  prognostics: 148997
+  prophylactics: 239545
+  prosthodontics: 119967
+  psychosomatics: 214956
+  psychotics: 139990
+not_scored_words:
+- paralytics
+- parasympathetics
+- paretics
+- peptics
+- peripatetics
+- psychodiagnostics
+- psychoneurotics
+- pyrognostics

@@ -1,0 +1,30 @@
+---
+pattern: _lved
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 20
+score: 1248984
+score_per_word: 69388
+hi_scored_words:
+  absolved: 59100
+  delved: 79372
+  devolved: 30404
+  dissolved: 8561
+  evolved: 8070
+  halved: 41256
+  involved: 1319
+  resolved: 3553
+  revolved: 44889
+  shelved: 42334
+  solved: 6521
+  uninvolved: 95620
+  unresolved: 13693
+  unsolved: 33719
+scored_words:
+  calved: 170753
+  convolved: 224803
+  undissolved: 237904
+  valved: 147113
+not_scored_words:
+- redissolved
+- salved

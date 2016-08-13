@@ -1,0 +1,33 @@
+---
+pattern: _rome
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 23
+score: 679498
+score_per_word: 61772
+hi_scored_words:
+  aerodrome: 35481
+  airdrome: 64078
+  chrome: 9156
+  cytochrome: 23038
+  hippodrome: 57501
+  monochrome: 23777
+  palindrome: 74343
+  polychrome: 80427
+  syndrome: 7899
+  velodrome: 77755
+scored_words:
+  prodrome: 226043
+not_scored_words:
+- Heliochrome
+- Jerome
+- Kodachrome
+- Mercurochrome
+- Nichrome
+- Rome
+- acrodrome
+- auxochrome
+- hemachrome
+- loxodrome
+- stereochrome
+- urochrome

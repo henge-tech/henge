@@ -1,0 +1,30 @@
+---
+pattern: sup_ion
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 20
+score: 1325808
+score_per_word: 88387
+hi_scored_words:
+  superannuation: 29916
+  superposition: 46267
+  superstition: 17575
+  supervision: 6132
+  supplementation: 24944
+  supplication: 53355
+  supposition: 29381
+  suppression: 9803
+scored_words:
+  supererogation: 107273
+  superimposition: 134377
+  supersaturation: 127360
+  superscription: 223692
+  supersession: 159862
+  supination: 164073
+  suppuration: 191798
+not_scored_words:
+- superelevation
+- superfecundation
+- superfetation
+- supervention
+- suppletion

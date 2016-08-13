@@ -1,0 +1,32 @@
+---
+pattern: _bra
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 22
+score: 1027136
+score_per_word: 73366
+hi_scored_words:
+  abracadabra: 55848
+  algebra: 10852
+  bra: 13524
+  candelabra: 45694
+  cobra: 15921
+  dobra: 73487
+  libra: 19009
+  penumbra: 55835
+  sabra: 66059
+  umbra: 51258
+  vertebra: 51333
+  zebra: 19629
+scored_words:
+  cerebra: 334974
+  lubra: 213713
+not_scored_words:
+- Aldabra
+- Alhambra
+- Barbra
+- Coimbra
+- Debra
+- Libra
+- Sabra
+- Wonderbra

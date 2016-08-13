@@ -1,0 +1,40 @@
+---
+pattern: l_ge
+hi_scored_words_count: 18
+scored_words_count: 3
+total_words: 30
+score: 981823
+score_per_word: 46753
+hi_scored_words:
+  language: 426
+  large: 252
+  lavage: 53404
+  leakage: 20902
+  ledge: 20631
+  leverage: 19613
+  liege: 26359
+  lineage: 12890
+  linkage: 12853
+  litharge: 79921
+  lodge: 3616
+  loge: 50892
+  longe: 88895
+  lounge: 6169
+  lozenge: 60734
+  luge: 40169
+  luggage: 6318
+  lunge: 46878
+scored_words:
+  leafage: 132891
+  linage: 183848
+  lovage: 114162
+not_scored_words:
+- Lagrange
+- Lethbridge
+- Liege
+- Lodge
+- langrage
+- libertinage
+- lighterage
+- lithomarge
+- lockage

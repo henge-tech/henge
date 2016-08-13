@@ -1,0 +1,24 @@
+---
+pattern: as_ted
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 704168
+score_per_word: 64015
+hi_scored_words:
+  aspirated: 62072
+  assassinated: 28491
+  assaulted: 22976
+  assented: 43726
+  asserted: 9942
+  assimilated: 33801
+  assisted: 4687
+  associated: 898
+  assorted: 14952
+scored_words:
+  asphalted: 293111
+  asphyxiated: 189512
+not_scored_words:
+- asseverated
+- assibilated
+- asteriated

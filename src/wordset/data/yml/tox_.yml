@@ -1,0 +1,32 @@
+---
+pattern: tox_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 22
+score: 1737967
+score_per_word: 96553
+hi_scored_words:
+  tox: 44399
+  toxic: 14907
+  toxicities: 83595
+  toxicity: 14352
+  toxicological: 49092
+  toxicologist: 92542
+  toxicology: 20943
+  toxics: 54507
+  toxin: 20568
+  toxins: 17426
+  toxoid: 91248
+  toxoplasmosis: 66872
+scored_words:
+  toxemia: 118479
+  toxicant: 120286
+  toxicologic: 182598
+  toxicologically: 327647
+  toxicologists: 162899
+  toxicosis: 255607
+not_scored_words:
+- toxemic
+- toxically
+- toxicogenic
+- toxophilite

@@ -1,0 +1,32 @@
+---
+pattern: tre_e
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 22
+score: 1029849
+score_per_word: 73560
+hi_scored_words:
+  treacle: 62413
+  treadle: 90278
+  treasonable: 91328
+  treasure: 4133
+  treatable: 50283
+  treatise: 16114
+  treble: 18989
+  tree: 868
+  treeline: 95967
+  tremble: 24666
+  trestle: 49743
+scored_words:
+  trehalose: 117002
+  trematode: 214102
+  tremolite: 193963
+not_scored_words:
+- Tree
+- Trekkie
+- treasurable
+- treelike
+- treenware
+- treillage
+- trephine
+- tressure

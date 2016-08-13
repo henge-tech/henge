@@ -1,0 +1,28 @@
+---
+pattern: ador_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 18
+score: 1131706
+score_per_word: 70731
+hi_scored_words:
+  adorable: 10559
+  adoration: 25377
+  adore: 20439
+  adored: 23715
+  adores: 47740
+  adoring: 43417
+  adorn: 27775
+  adorned: 18714
+  adorning: 70741
+  adornment: 48705
+  adornments: 75676
+  adorns: 74852
+scored_words:
+  adorably: 157427
+  adorer: 106631
+  adorers: 170489
+  adoringly: 209449
+not_scored_words:
+- adorableness
+- adorner

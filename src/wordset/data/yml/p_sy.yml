@@ -1,0 +1,25 @@
+---
+pattern: p_sy
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 699841
+score_per_word: 63621
+hi_scored_words:
+  palsy: 21046
+  pansy: 37007
+  patsy: 22304
+  pleurisy: 57307
+  posy: 57109
+  prissy: 65082
+  prophesy: 38563
+  prosy: 95395
+  pussy: 8988
+scored_words:
+  pharmacognosy: 190965
+  poesy: 106075
+not_scored_words:
+- Pansy
+- Patsy
+- phrensy
+- pursy

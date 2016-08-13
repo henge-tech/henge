@@ -1,0 +1,31 @@
+---
+pattern: driv_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 21
+score: 956200
+score_per_word: 63746
+hi_scored_words:
+  drive: 690
+  drivel: 40814
+  driveline: 99004
+  driven: 2368
+  driver: 2026
+  drivers: 4377
+  drives: 3644
+  driveshaft: 80516
+  drivetrain: 44960
+  driveway: 17571
+  driveways: 42481
+  driving: 1636
+scored_words:
+  drivability: 255860
+  drivable: 149032
+  driveshafts: 211221
+not_scored_words:
+- driveled
+- driveler
+- drivelers
+- driveling
+- drivels
+- drivings

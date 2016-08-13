@@ -1,0 +1,40 @@
+---
+pattern: spon_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 30
+score: 841136
+score_per_word: 49478
+hi_scored_words:
+  spondylitis: 66258
+  sponge: 12021
+  sponges: 33220
+  spongiform: 78574
+  spongy: 49212
+  sponsor: 10198
+  sponsored: 5881
+  sponsoring: 13419
+  sponsors: 11810
+  sponsorship: 7484
+  sponsorships: 31167
+  spontaneity: 37220
+  spontaneous: 9365
+  spontaneously: 18248
+scored_words:
+  spondee: 120302
+  sponged: 211577
+  sponging: 125180
+not_scored_words:
+- spondaic
+- spondees
+- spondylitises
+- spongecake
+- sponger
+- spongers
+- spongier
+- spongiest
+- spongin
+- sponginess
+- spongioblast
+- sponson
+- spontoon

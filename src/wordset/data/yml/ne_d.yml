@@ -1,0 +1,52 @@
+---
+pattern: ne_d
+hi_scored_words_count: 21
+scored_words_count: 11
+total_words: 42
+score: 2452045
+score_per_word: 76626
+hi_scored_words:
+  neared: 49590
+  necessitated: 33686
+  necked: 35409
+  need: 164
+  needed: 818
+  negated: 44665
+  neglected: 8145
+  negotiated: 11289
+  neighborhood: 2721
+  nerd: 18780
+  nested: 19620
+  nestled: 24367
+  netherworld: 89225
+  netted: 37938
+  networked: 17080
+  neutered: 47043
+  neutralized: 51062
+  newfangled: 75678
+  newfound: 37579
+  newlywed: 63428
+  newsstand: 30285
+scored_words:
+  nearsighted: 138365
+  neckband: 158571
+  needled: 140765
+  negatived: 103534
+  negroid: 118482
+  neighbored: 179295
+  neighed: 145177
+  nereid: 178048
+  nerved: 157805
+  nettled: 246121
+  newshound: 187310
+not_scored_words:
+- Ned
+- Negroid
+- Nejd
+- Nereid
+- Netherland
+- Newfoundland
+- neatened
+- necklaced
+- necrosed
+- newfashioned

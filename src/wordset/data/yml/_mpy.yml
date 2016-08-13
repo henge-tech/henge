@@ -1,0 +1,28 @@
+---
+pattern: _mpy
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 18
+score: 1457487
+score_per_word: 91092
+hi_scored_words:
+  bumpy: 26923
+  campy: 53864
+  dumpy: 92486
+  grumpy: 29663
+  jumpy: 50366
+  lumpy: 41279
+  skimpy: 35706
+  stumpy: 72695
+  swampy: 53680
+  wimpy: 48029
+scored_words:
+  clumpy: 179720
+  frumpy: 101732
+  gimpy: 135633
+  humpy: 146984
+  scrumpy: 163682
+  vampy: 225045
+not_scored_words:
+- crimpy
+- scrimpy

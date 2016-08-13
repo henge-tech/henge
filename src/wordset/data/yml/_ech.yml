@@ -1,0 +1,27 @@
+---
+pattern: _ech
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 17
+score: 519013
+score_per_word: 43251
+hi_scored_words:
+  beech: 14830
+  beseech: 32832
+  biotech: 12506
+  breech: 37620
+  lech: 44696
+  leech: 24093
+  mech: 23194
+  screech: 37771
+  speech: 1376
+  tech: 13056
+scored_words:
+  cromlech: 109846
+  sech: 167193
+not_scored_words:
+- Czech
+- Marrakech
+- Molech
+- Zech
+- horseleech

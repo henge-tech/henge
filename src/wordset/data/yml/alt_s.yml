@@ -1,0 +1,29 @@
+---
+pattern: alt_s
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 19
+score: 1213244
+score_per_word: 86660
+hi_scored_words:
+  altars: 38526
+  alterations: 11594
+  alternates: 34694
+  alternations: 88041
+  alternatives: 7141
+  alternators: 63331
+  alters: 27034
+  altitudes: 33380
+  altos: 33429
+  alts: 68291
+scored_words:
+  altercations: 152447
+  altimeters: 134386
+  altocumulus: 246718
+  altruists: 274232
+not_scored_words:
+- Altoids
+- altarpieces
+- altazimuths
+- altercates
+- altostratus

@@ -1,0 +1,33 @@
+---
+pattern: te_ies
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 23
+score: 631518
+score_per_word: 52626
+hi_scored_words:
+  techies: 48321
+  technicalities: 50989
+  technologies: 5123
+  teddies: 43464
+  tenancies: 64222
+  tendencies: 16492
+  terminologies: 93168
+  terrifies: 88996
+  territories: 5357
+  testifies: 38085
+  testimonies: 25959
+scored_words:
+  temporaries: 151342
+not_scored_words:
+- teaberries
+- technocracies
+- telemetries
+- teleologies
+- tellies
+- teratologies
+- tercentenaries
+- ternaries
+- territorialities
+- tertiaries
+- tetralogies

@@ -1,0 +1,41 @@
+---
+pattern: _pled
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 31
+score: 1708327
+score_per_word: 74275
+hi_scored_words:
+  coupled: 7397
+  crippled: 21740
+  crumpled: 44994
+  dappled: 58913
+  decoupled: 67109
+  dimpled: 71391
+  grappled: 78779
+  peopled: 64145
+  principled: 43164
+  quadrupled: 75989
+  rippled: 71590
+  rumpled: 99074
+  sampled: 14063
+  stapled: 51348
+  toppled: 46037
+  trampled: 36776
+  tripled: 35832
+  uncoupled: 89360
+  unprincipled: 85117
+scored_words:
+  scrupled: 131981
+  stippled: 143592
+  unexampled: 182888
+  unpeopled: 187048
+not_scored_words:
+- empurpled
+- exampled
+- hoppled
+- pimpled
+- quintupled
+- stoppled
+- tippled
+- wimpled

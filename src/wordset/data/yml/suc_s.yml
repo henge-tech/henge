@@ -1,0 +1,33 @@
+---
+pattern: suc_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 23
+score: 728050
+score_per_word: 66186
+hi_scored_words:
+  succeeds: 16859
+  success: 834
+  successes: 9901
+  successors: 17126
+  succubus: 76193
+  succulents: 76363
+  succumbs: 84026
+  suckers: 26292
+  sucks: 10880
+scored_words:
+  successions: 101694
+  succinctness: 307882
+not_scored_words:
+- Sucrets
+- succories
+- succorless
+- succors
+- succubuses
+- succuss
+- succussions
+- suckings
+- suckles
+- sucklings
+- sucres
+- suctions

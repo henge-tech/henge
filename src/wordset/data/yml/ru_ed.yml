@@ -1,0 +1,37 @@
+---
+pattern: ru_ed
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 27
+score: 1954875
+score_per_word: 93089
+hi_scored_words:
+  rubbed: 12880
+  rubberized: 68496
+  ruffed: 78963
+  ruffled: 34855
+  rugged: 9031
+  ruined: 8981
+  ruled: 5642
+  rumbled: 73770
+  rumored: 32292
+  rumpled: 99074
+  ruptured: 44144
+  rushed: 8036
+  rusted: 36447
+  rustled: 84341
+scored_words:
+  rubbished: 243637
+  ruched: 119152
+  rued: 229335
+  ruminated: 267352
+  rummaged: 116420
+  rusticated: 273177
+  rutted: 108850
+not_scored_words:
+- rubbernecked
+- rubricated
+- rucked
+- ruddled
+- rumbaed
+- rustproofed

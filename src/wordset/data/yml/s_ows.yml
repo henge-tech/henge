@@ -1,0 +1,29 @@
+---
+pattern: s_ows
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 19
+score: 1054441
+score_per_word: 70296
+hi_scored_words:
+  scarecrows: 79300
+  shadows: 4830
+  shallows: 52251
+  shows: 850
+  slideshows: 52004
+  slows: 20076
+  snows: 36175
+  sorrows: 18421
+  sows: 50441
+  sparrows: 34350
+  swallows: 22742
+scored_words:
+  schoolfellows: 130220
+  sideshows: 174978
+  snowplows: 178880
+  stows: 198923
+not_scored_words:
+- saddlebows
+- scows
+- serows
+- shopwindows

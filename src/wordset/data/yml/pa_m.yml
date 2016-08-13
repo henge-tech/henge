@@ -1,0 +1,59 @@
+---
+pattern: pa_m
+hi_scored_words_count: 15
+scored_words_count: 11
+total_words: 49
+score: 2552483
+score_per_word: 98172
+hi_scored_words:
+  pacifism: 54399
+  paganism: 31319
+  palladium: 28224
+  palm: 2639
+  pam: 10961
+  pandemonium: 44212
+  pantheism: 57597
+  paradigm: 12847
+  parallelism: 33885
+  parallelogram: 64640
+  parasitism: 59886
+  paroxysm: 92935
+  passim: 44678
+  paternalism: 68667
+  patriotism: 13803
+scored_words:
+  pablum: 246268
+  pabulum: 210777
+  pachyderm: 108466
+  pallium: 110130
+  paralogism: 217672
+  paramecium: 114261
+  parochialism: 172914
+  particularism: 185879
+  pastoralism: 129957
+  pauperism: 235423
+  paynim: 200044
+not_scored_words:
+- Pablum
+- Paestum
+- Palladium
+- Pam
+- Panhellenism
+- Panmunjom
+- Parkinsonism
+- pacificism
+- pagandom
+- pancratium
+- panjandrum
+- panlogism
+- papism
+- parachronism
+- paramagnetism
+- paramorphism
+- parapodium
+- parliamentarianism
+- paronym
+- pashm
+- passivism
+- pasteurism
+- patagium

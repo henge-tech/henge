@@ -1,0 +1,40 @@
+---
+pattern: _eaks
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 30
+score: 1559361
+score_per_word: 82071
+hi_scored_words:
+  beaks: 61707
+  breaks: 3473
+  freaks: 14963
+  leaks: 18724
+  outbreaks: 21385
+  peaks: 8373
+  sneaks: 55519
+  speaks: 3998
+  squeaks: 69700
+  steaks: 21557
+  streaks: 26352
+  tweaks: 21946
+scored_words:
+  bespeaks: 139870
+  creaks: 128713
+  firebreaks: 276326
+  grosbeaks: 221185
+  heartbreaks: 210681
+  windbreaks: 139206
+  wreaks: 115683
+not_scored_words:
+- Wikileaks
+- beefsteaks
+- hairstreaks
+- halfbeaks
+- housebreaks
+- jailbreaks
+- misspeaks
+- pipsqueaks
+- screaks
+- teaks
+- tiebreaks

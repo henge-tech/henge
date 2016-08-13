@@ -1,0 +1,36 @@
+---
+pattern: l_ck
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 26
+score: 869505
+score_per_word: 57967
+hi_scored_words:
+  lack: 1651
+  lampblack: 96406
+  leatherback: 87042
+  lick: 9848
+  limerick: 20306
+  lipstick: 16815
+  livestock: 11042
+  lock: 2696
+  lovelock: 66914
+  lovesick: 88633
+  luck: 2295
+  lumberjack: 39930
+scored_words:
+  laughingstock: 122869
+  leaseback: 109218
+  leatherneck: 193840
+not_scored_words:
+- Lamarck
+- Leacock
+- Lehmbruck
+- Lerwick
+- Limerick
+- Lubbock
+- Lubeck
+- Lübeck
+- laverock
+- linstock
+- littleneck

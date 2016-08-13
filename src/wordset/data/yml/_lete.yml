@@ -1,0 +1,23 @@
+---
+pattern: _lete
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 505371
+score_per_word: 56152
+hi_scored_words:
+  athlete: 10760
+  complete: 511
+  delete: 3398
+  deplete: 50806
+  incomplete: 5427
+  obsolete: 8523
+  replete: 34373
+  triathlete: 69109
+scored_words:
+  decollete: 322464
+not_scored_words:
+- Manolete
+- Paraclete
+- decathlete
+- pentathlete

@@ -1,0 +1,36 @@
+---
+pattern: fis_s
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 26
+score: 2002459
+score_per_word: 125153
+hi_scored_words:
+  fisheries: 8884
+  fishers: 30148
+  fishes: 11397
+  fishhooks: 89784
+  fishnets: 72480
+  fissures: 46369
+  fisticuffs: 97766
+  fists: 20645
+  fistulas: 95638
+scored_words:
+  fishmongers: 122100
+  fishponds: 133984
+  fishtails: 247829
+  fishwives: 282873
+  fissiparous: 179883
+  fistfights: 249634
+  fistfuls: 313045
+not_scored_words:
+- fiscals
+- fiscs
+- fishbowls
+- fishcakes
+- fishgigs
+- fishiness
+- fishplates
+- fishworms
+- fissions
+- fistulous

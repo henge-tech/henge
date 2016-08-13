@@ -1,0 +1,40 @@
+---
+pattern: imp_nt
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 30
+score: 1412876
+score_per_word: 64221
+hi_scored_words:
+  impairment: 12306
+  impatient: 15354
+  impeachment: 18598
+  impediment: 27702
+  impertinent: 62087
+  impingement: 74779
+  implant: 22432
+  implement: 6442
+  important: 332
+  impotent: 31964
+  impoundment: 61332
+  impoverishment: 64065
+  imprint: 13000
+  imprisonment: 8985
+  improvement: 2202
+  imprudent: 52444
+  impudent: 60278
+scored_words:
+  impalement: 188319
+  impenitent: 185876
+  impermanent: 110223
+  impressment: 247780
+  improvident: 146376
+not_scored_words:
+- impanelment
+- impeccant
+- impellent
+- impendent
+- impercipient
+- imperilment
+- impugnment
+- impuissant

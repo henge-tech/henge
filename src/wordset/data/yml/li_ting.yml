@@ -1,0 +1,21 @@
+---
+pattern: li_ting
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 576901
+score_per_word: 64100
+hi_scored_words:
+  liberating: 29167
+  lifting: 6358
+  lighting: 3319
+  lilting: 98207
+  limiting: 9326
+  liquidating: 65145
+  listing: 2404
+  litigating: 95020
+scored_words:
+  ligating: 267955
+not_scored_words:
+- librating
+- linting

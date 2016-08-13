@@ -1,0 +1,33 @@
+---
+pattern: e_des
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 23
+score: 566015
+score_per_word: 47167
+hi_scored_words:
+  electrodes: 23931
+  eludes: 72604
+  encodes: 31810
+  episodes: 6512
+  erodes: 81362
+  escapades: 55970
+  etudes: 39790
+  everglades: 29295
+  excludes: 16223
+  explodes: 35101
+  exudes: 62829
+scored_words:
+  evades: 110588
+not_scored_words:
+- Eastertides
+- Epimenides
+- Eumenides
+- Euripides
+- Everglades
+- elides
+- enfilades
+- escalades
+- esplanades
+- extrudes
+- eyeshades

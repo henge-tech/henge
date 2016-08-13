@@ -1,0 +1,29 @@
+---
+pattern: b_rn
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 19
+score: 593371
+score_per_word: 59337
+hi_scored_words:
+  barn: 6518
+  bighorn: 43064
+  bittern: 63487
+  blackthorn: 81761
+  born: 777
+  buckthorn: 84474
+  bullhorn: 97026
+  burn: 2924
+scored_words:
+  bairn: 111326
+  barleycorn: 102014
+not_scored_words:
+- Bannockburn
+- Bayern
+- Bern
+- Blackburn
+- Born
+- baseborn
+- bicorn
+- boxthorn
+- broomcorn

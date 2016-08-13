@@ -1,0 +1,34 @@
+---
+pattern: h_ity
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 24
+score: 927344
+score_per_word: 48807
+hi_scored_words:
+  heredity: 29034
+  heritability: 66657
+  heterogeneity: 24024
+  heterosexuality: 75642
+  hilarity: 39280
+  histocompatibility: 53023
+  historicity: 84951
+  homogeneity: 37833
+  homosexuality: 18287
+  hospitality: 5230
+  hostility: 13074
+  humanity: 4219
+  humidity: 11095
+  humility: 13843
+  hyperactivity: 33082
+  hypersensitivity: 33199
+scored_words:
+  habitability: 120178
+  hybridity: 133760
+  hydroelectricity: 130933
+not_scored_words:
+- haecceity
+- heliocentricity
+- horizontality
+- hyperacidity
+- hypoacidity

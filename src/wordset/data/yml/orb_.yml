@@ -1,0 +1,25 @@
+---
+pattern: orb_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 698937
+score_per_word: 63539
+hi_scored_words:
+  orb: 14721
+  orbit: 8817
+  orbital: 14750
+  orbitals: 43349
+  orbiter: 32249
+  orbiting: 31885
+  orbits: 22872
+  orbs: 35517
+scored_words:
+  orbicular: 193830
+  orbited: 134403
+  orbiters: 166544
+not_scored_words:
+- Orbison
+- orbicularity
+- orbicularly
+- orbiculate

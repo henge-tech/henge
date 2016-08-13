@@ -1,0 +1,81 @@
+---
+pattern: mis_ing
+hi_scored_words_count: 11
+scored_words_count: 14
+total_words: 71
+score: 3384916
+score_per_word: 135396
+hi_scored_words:
+  misbehaving: 62512
+  mishandling: 77128
+  misleading: 10944
+  misreading: 68231
+  misrepresenting: 61509
+  missing: 2157
+  misspelling: 52456
+  mistaking: 48620
+  misting: 85861
+  misunderstanding: 14673
+  misusing: 69764
+scored_words:
+  misappropriating: 218873
+  misfiring: 170655
+  misgiving: 140152
+  misinterpreting: 106818
+  misjudging: 280082
+  mislabeling: 271461
+  mismanaging: 256257
+  mismatching: 171940
+  misplacing: 198116
+  misquoting: 143144
+  misreporting: 168861
+  misstating: 340487
+  mistreating: 116063
+  mistyping: 248152
+not_scored_words:
+- misaddressing
+- misadvising
+- misallying
+- misapplying
+- misapprehending
+- misbelieving
+- miscalculating
+- miscalling
+- miscarrying
+- miscasting
+- misconceiving
+- misconducting
+- misconstruing
+- miscopying
+- miscounting
+- miscuing
+- misdating
+- misdealing
+- misdemeaning
+- misdiagnosing
+- misdirecting
+- misdoing
+- misfiling
+- misfitting
+- misgoverning
+- misguiding
+- mishearing
+- mishitting
+- misidentifying
+- misinforming
+- mislaying
+- mismating
+- misnaming
+- misperceiving
+- misplaying
+- mispleading
+- misprinting
+- mispronouncing
+- misremembering
+- misruling
+- misshaping
+- misspeaking
+- misspending
+- mistiming
+- mistranslating
+- mistrusting

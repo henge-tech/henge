@@ -1,0 +1,68 @@
+---
+pattern: ph_c
+hi_scored_words_count: 26
+scored_words_count: 14
+total_words: 58
+score: 3996318
+score_per_word: 99907
+hi_scored_words:
+  phagocytic: 92602
+  phallic: 55354
+  pharmacologic: 52904
+  phenolic: 40903
+  phenotypic: 39201
+  philanthropic: 24696
+  philatelic: 48333
+  philharmonic: 18476
+  philosophic: 44403
+  phobic: 67701
+  phonemic: 55636
+  phonetic: 26436
+  phonic: 58146
+  phosphoric: 41351
+  photoelectric: 51968
+  photogenic: 47672
+  photographic: 9249
+  photometric: 45002
+  photonic: 46958
+  photorealistic: 87976
+  photosynthetic: 44664
+  photovoltaic: 33659
+  phylogenetic: 26259
+  physic: 58616
+  physiographic: 93242
+  physiologic: 38182
+scored_words:
+  phantasmagoric: 253774
+  pharisaic: 254928
+  pharmaceutic: 270453
+  phasic: 117592
+  phatic: 285883
+  philippic: 143150
+  phlegmatic: 128958
+  phonographic: 109510
+  phosphatic: 196916
+  photic: 121727
+  photospheric: 157873
+  photostatic: 297433
+  phrenic: 126604
+  phyletic: 281928
+not_scored_words:
+- Phanerozoic
+- Pharaonic
+- Pharisaic
+- phallocentric
+- phantasmic
+- phlebitic
+- phlogistic
+- phonologic
+- photoactinic
+- photobathic
+- photolytic
+- photothermic
+- phototropic
+- phrenologic
+- phthisic
+- phylogenic
+- physiognomic
+- physiotherapeutic

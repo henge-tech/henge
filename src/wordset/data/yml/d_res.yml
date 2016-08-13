@@ -1,0 +1,32 @@
+---
+pattern: d_res
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 22
+score: 560534
+score_per_word: 50957
+hi_scored_words:
+  dares: 24187
+  debentures: 41110
+  declares: 11865
+  dentures: 39277
+  departures: 21513
+  deplores: 97855
+  desires: 6092
+  disclosures: 20192
+  drugstores: 61708
+scored_words:
+  divestitures: 112901
+  doctrinaires: 123834
+not_scored_words:
+- DeGeneres
+- Delawares
+- Delores
+- Dolores
+- dasyures
+- denatures
+- derrieres
+- derrières
+- disfigures
+- disjunctures
+- drumfires

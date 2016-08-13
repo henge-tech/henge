@@ -1,0 +1,39 @@
+---
+pattern: _vel
+hi_scored_words_count: 20
+scored_words_count: 2
+total_words: 29
+score: 1057973
+score_per_word: 48089
+hi_scored_words:
+  bevel: 36655
+  carvel: 78100
+  drivel: 40814
+  gavel: 46019
+  gravel: 9164
+  grovel: 76531
+  hovel: 71984
+  level: 570
+  marvel: 6630
+  multilevel: 40586
+  navel: 23735
+  novel: 2362
+  ravel: 34307
+  revel: 26782
+  shovel: 18096
+  shrivel: 87020
+  swivel: 22223
+  travel: 855
+  unravel: 28798
+  vel: 19101
+scored_words:
+  caravel: 103170
+  snivel: 284471
+not_scored_words:
+- Havel
+- Knievel
+- Ravel
+- Tavel
+- antinovel
+- dishevel
+- kevel

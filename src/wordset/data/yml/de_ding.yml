@@ -1,0 +1,23 @@
+---
+pattern: de_ding
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 639411
+score_per_word: 58128
+hi_scored_words:
+  deciding: 7898
+  decoding: 20279
+  defending: 7716
+  defrauding: 79900
+  degrading: 21409
+  deluding: 99296
+  demanding: 6845
+  depending: 3404
+  descending: 7472
+scored_words:
+  deadheading: 225327
+  deriding: 159865
+not_scored_words:
+- deeding
+- denuding

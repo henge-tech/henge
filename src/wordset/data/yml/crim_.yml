@@ -1,0 +1,47 @@
+---
+pattern: crim_
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 37
+score: 2526589
+score_per_word: 97176
+hi_scored_words:
+  crim: 35513
+  crime: 1380
+  crimes: 3925
+  criminal: 1984
+  criminality: 43401
+  criminalization: 88277
+  criminalize: 81988
+  criminalizing: 98453
+  criminally: 46448
+  criminals: 10831
+  criminologist: 77990
+  criminology: 24357
+  crimp: 40371
+  crimped: 84355
+  crimping: 65960
+  crimson: 8593
+scored_words:
+  criminalist: 285128
+  criminalized: 115798
+  criminalizes: 190171
+  criminate: 319207
+  criminological: 123485
+  criminologists: 180821
+  crimper: 129501
+  crimpers: 161621
+  crimps: 137842
+  crimsoned: 169189
+not_scored_words:
+- Crimea
+- Crimean
+- criminated
+- criminates
+- criminating
+- criminologically
+- crimmer
+- crimple
+- crimpy
+- crimsoning
+- crimsons

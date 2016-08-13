@@ -1,0 +1,34 @@
+---
+pattern: ho_m
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 24
+score: 1678414
+score_per_word: 104900
+hi_scored_words:
+  holm: 32959
+  hologram: 30402
+  homeroom: 62010
+  homomorphism: 57821
+  honorarium: 67957
+  hoodlum: 57047
+  hookworm: 91189
+  hornbeam: 94600
+scored_words:
+  hokum: 129176
+  holism: 101968
+  holmium: 171594
+  homeomorphism: 127621
+  homoeroticism: 259543
+  homonym: 110604
+  hooliganism: 113100
+  horologium: 170823
+not_scored_words:
+- Hobbism
+- Hohokam
+- Horologium
+- Houyhnhnm
+- homeotherm
+- hoodlumism
+- hospitium
+- houseroom

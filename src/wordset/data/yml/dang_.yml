@@ -1,0 +1,27 @@
+---
+pattern: dang_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 902451
+score_per_word: 69419
+hi_scored_words:
+  dang: 24923
+  danger: 2393
+  dangerous: 2129
+  dangerously: 21944
+  dangers: 6616
+  dangle: 28294
+  dangled: 77692
+  dangles: 70800
+  dangling: 19509
+scored_words:
+  danged: 186211
+  dangerousness: 119470
+  dangler: 165964
+  danglers: 176506
+not_scored_words:
+- Dangerfield
+- dangerousnesses
+- danging
+- dangs

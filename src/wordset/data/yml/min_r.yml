@@ -1,0 +1,31 @@
+---
+pattern: min_r
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 21
+score: 999132
+score_per_word: 76856
+hi_scored_words:
+  minder: 45929
+  miner: 13763
+  minesweeper: 52257
+  minibar: 47226
+  minicomputer: 99484
+  minister: 1234
+  minor: 2378
+  minster: 38861
+  minter: 58202
+scored_words:
+  mincer: 108374
+  minimizer: 116510
+  miniver: 140292
+  minuter: 274622
+not_scored_words:
+- Minotaur
+- mindblower
+- minelayer
+- mingier
+- mingler
+- minnesinger
+- mintier
+- minuscular

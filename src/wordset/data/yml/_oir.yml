@@ -1,0 +1,27 @@
+---
+pattern: _oir
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 17
+score: 639011
+score_per_word: 63901
+hi_scored_words:
+  abattoir: 58892
+  avoir: 37818
+  boudoir: 36428
+  choir: 6795
+  coir: 63434
+  couloir: 98539
+  devoir: 94915
+  memoir: 13865
+  reservoir: 8901
+scored_words:
+  peignoir: 219424
+not_scored_words:
+- Beauvoir
+- Lenoir
+- Renoir
+- antechoir
+- pissoir
+- retrochoir
+- voussoir

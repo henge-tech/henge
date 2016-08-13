@@ -1,0 +1,27 @@
+---
+pattern: sla_er
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 1001256
+score_per_word: 77019
+hi_scored_words:
+  slacker: 34133
+  slammer: 48807
+  slander: 22737
+  slapper: 98339
+  slasher: 48104
+  slater: 24614
+  slaughter: 8858
+  slaughterer: 97459
+  slayer: 13018
+scored_words:
+  slanderer: 181939
+  slather: 139029
+  slaveholder: 172766
+  slaver: 111453
+not_scored_words:
+- Slater
+- slabber
+- slangier
+- slatier

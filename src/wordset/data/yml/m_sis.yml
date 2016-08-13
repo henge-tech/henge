@@ -1,0 +1,34 @@
+---
+pattern: m_sis
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 24
+score: 2112033
+score_per_word: 117335
+hi_scored_words:
+  meiosis: 51391
+  metamorphosis: 26560
+  metastasis: 31136
+  metempsychosis: 74667
+  mimesis: 87476
+  misdiagnosis: 73896
+  mitosis: 40224
+  mononucleosis: 72335
+  morphogenesis: 54760
+  mutagenesis: 42679
+scored_words:
+  metathesis: 113612
+  microanalysis: 107045
+  miosis: 280429
+  missis: 127674
+  morphosis: 290105
+  mycosis: 130278
+  mydriasis: 276600
+  myxomatosis: 231166
+not_scored_words:
+- melanosis
+- metagenesis
+- metalepsis
+- monogenesis
+- mucoviscidosis
+- myiasis

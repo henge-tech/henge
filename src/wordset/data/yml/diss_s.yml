@@ -1,0 +1,41 @@
+---
+pattern: diss_s
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 31
+score: 1670815
+score_per_word: 111387
+hi_scored_words:
+  dissections: 89231
+  dissectors: 98039
+  disseminates: 79762
+  dissenters: 48256
+  dissertations: 32024
+  dissidents: 35453
+  dissipates: 78265
+  dissolves: 38117
+scored_words:
+  dissects: 124128
+  disseminators: 311041
+  dissensions: 117497
+  dissents: 101339
+  dissimilarities: 141128
+  dissociates: 136774
+  dissonances: 239761
+not_scored_words:
+- dissatisfies
+- dissemblers
+- dissembles
+- dissentious
+- disservices
+- dissevers
+- dissimilates
+- dissimilations
+- dissimilitudes
+- dissimulates
+- dissimulators
+- dissoluteness
+- dissolvents
+- dissolvers
+- dissuades
+- dissyllables

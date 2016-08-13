@@ -1,0 +1,40 @@
+---
+pattern: bl_ss
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 30
+score: 1415877
+score_per_word: 94391
+hi_scored_words:
+  blackness: 34823
+  blameless: 52462
+  bless: 4847
+  blessedness: 75868
+  blindness: 13215
+  bliss: 7972
+  bloodless: 57036
+  bluegrass: 17577
+scored_words:
+  blandness: 152800
+  blankness: 184837
+  bleakness: 157561
+  blueness: 164061
+  blunderbuss: 122876
+  bluntness: 136235
+  blurriness: 233707
+not_scored_words:
+- Bliss
+- blamelessness
+- blameworthiness
+- bleariness
+- blissfulness
+- blithefulness
+- blitheness
+- blithesomeness
+- blondness
+- bloodiness
+- bloodlessness
+- bloodthirstiness
+- bloodymindedness
+- blotchiness
+- bluffness

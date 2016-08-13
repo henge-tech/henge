@@ -1,0 +1,31 @@
+---
+pattern: be_k
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 1073155
+score_per_word: 82550
+hi_scored_words:
+  beak: 23390
+  beanstalk: 60029
+  beatnik: 68903
+  beck: 11521
+  bedrock: 23776
+  benchmark: 13533
+  berk: 45268
+  berserk: 37491
+scored_words:
+  bedeck: 171708
+  beefsteak: 108855
+  bespeak: 144436
+  bethink: 236329
+  betook: 127916
+not_scored_words:
+- Beaverbrook
+- Beck
+- Belleek
+- Belostok
+- Bentinck
+- Berwick
+- Bewick
+- bemock

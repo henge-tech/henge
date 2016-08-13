@@ -1,0 +1,25 @@
+---
+pattern: an_nt
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 837608
+score_per_word: 69800
+hi_scored_words:
+  ancient: 1656
+  announcement: 3267
+  annulment: 39794
+  anoint: 60744
+  antecedent: 30607
+  anticoagulant: 54574
+  antidepressant: 30072
+  antioxidant: 25726
+scored_words:
+  anent: 130670
+  annuitant: 108807
+  antigovernment: 229914
+  antiperspirant: 121777
+not_scored_words:
+- anointment
+- anticipant
+- antiestablishment

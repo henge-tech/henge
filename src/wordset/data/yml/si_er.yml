@@ -1,0 +1,50 @@
+---
+pattern: si_er
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 40
+score: 1644276
+score_per_word: 68511
+hi_scored_words:
+  sicker: 61816
+  sidewinder: 40022
+  sifter: 85975
+  signer: 41056
+  signifier: 94447
+  silencer: 32668
+  silver: 886
+  simmer: 20717
+  simpler: 9222
+  singer: 4314
+  sinister: 12799
+  sinker: 51672
+  sinner: 16150
+  sister: 1437
+  sitter: 23560
+  sizer: 81595
+  sizzler: 79915
+scored_words:
+  sightseer: 124750
+  signaler: 119121
+  sillier: 127365
+  simper: 144412
+  simplifier: 219525
+  sinter: 106382
+  sipper: 144470
+not_scored_words:
+- Silvester
+- Singer
+- Sister
+- Sitter
+- sickener
+- sicklier
+- sigher
+- sightlier
+- silenter
+- silkier
+- siltier
+- silverer
+- simperer
+- sincerer
+- sissier
+- sixshooter

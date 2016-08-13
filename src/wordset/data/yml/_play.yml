@@ -1,0 +1,34 @@
+---
+pattern: _play
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 24
+score: 1766454
+score_per_word: 84116
+hi_scored_words:
+  airplay: 29786
+  cosplay: 30433
+  display: 1304
+  downplay: 60103
+  foreplay: 37777
+  horseplay: 97588
+  interplay: 22876
+  overplay: 65030
+  play: 305
+  replay: 15334
+  screenplay: 18261
+  splay: 74298
+  swordplay: 78040
+  wordplay: 51536
+scored_words:
+  gunplay: 139466
+  matchplay: 154307
+  outplay: 182499
+  photoplay: 154283
+  redisplay: 186374
+  teleplay: 104092
+  underplay: 262762
+not_scored_words:
+- byplay
+- endplay
+- misplay

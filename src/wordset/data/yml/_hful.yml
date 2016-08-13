@@ -1,0 +1,28 @@
+---
+pattern: _hful
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 18
+score: 956580
+score_per_word: 63772
+hi_scored_words:
+  bashful: 47673
+  faithful: 5236
+  healthful: 30386
+  mouthful: 28695
+  slothful: 81343
+  truthful: 18925
+  unfaithful: 33446
+  untruthful: 88624
+  watchful: 24513
+  wishful: 33131
+  wrathful: 75886
+  youthful: 13019
+scored_words:
+  mirthful: 133193
+  reproachful: 145968
+  unhealthful: 196542
+not_scored_words:
+- blushful
+- deathful
+- ruthful

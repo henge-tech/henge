@@ -1,0 +1,32 @@
+---
+pattern: bu_ts
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 788053
+score_per_word: 60619
+hi_scored_words:
+  buckets: 19002
+  budgets: 17144
+  buffets: 47008
+  bullets: 8652
+  bureaucrats: 25829
+  bursts: 17721
+  busts: 25676
+  buts: 59300
+  butts: 11238
+  buyouts: 69552
+scored_words:
+  bullfights: 152667
+  bunts: 198907
+  burnouts: 135357
+not_scored_words:
+- Buddhists
+- bullbats
+- bullshits
+- bumboats
+- burbots
+- bushtits
+- butternuts
+- butterworts
+- bututs

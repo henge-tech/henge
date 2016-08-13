@@ -1,0 +1,32 @@
+---
+pattern: a_il
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 22
+score: 591090
+score_per_word: 53735
+hi_scored_words:
+  abigail: 18816
+  ail: 32205
+  airfoil: 59513
+  airmail: 27946
+  anil: 30077
+  anvil: 22804
+  assail: 55735
+  avail: 8419
+  axil: 94592
+scored_words:
+  abseil: 123639
+  aril: 117344
+not_scored_words:
+- Abigail
+- Advil
+- April
+- Ardabil
+- Argenteuil
+- acidophil
+- agnail
+- apostil
+- archil
+- argil
+- assoil

@@ -1,0 +1,34 @@
+---
+pattern: win_d
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 24
+score: 1500782
+score_per_word: 107198
+hi_scored_words:
+  winced: 60363
+  wind: 1031
+  winded: 39522
+  windowed: 62978
+  windshield: 18937
+  windward: 27807
+  winged: 18887
+  winked: 51548
+scored_words:
+  winched: 227598
+  wined: 158256
+  wingspread: 274196
+  winnowed: 206302
+  wintered: 121159
+  winterized: 232198
+not_scored_words:
+- Windward
+- Winfield
+- Winfred
+- Winifred
+- windbound
+- windburned
+- windmilled
+- windsurfed
+- winkled
+- winterfeed

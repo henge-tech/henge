@@ -1,0 +1,30 @@
+---
+pattern: barr_s
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 871677
+score_per_word: 67052
+hi_scored_words:
+  barracks: 17358
+  barracudas: 95883
+  barrels: 11403
+  barrens: 70370
+  barricades: 39472
+  barriers: 6411
+  barrios: 51421
+  barristers: 47945
+  barrows: 47042
+scored_words:
+  barrages: 125864
+  barrenness: 124589
+  barres: 115258
+  barrettes: 118661
+not_scored_words:
+- Barros
+- barrackings
+- barramundas
+- barrelhouses
+- barretters
+- barrings
+- barrooms

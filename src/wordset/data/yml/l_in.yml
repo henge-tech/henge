@@ -1,0 +1,53 @@
+---
+pattern: l_in
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 43
+score: 1622434
+score_per_word: 90135
+hi_scored_words:
+  lain: 20123
+  lambskin: 88148
+  lanolin: 67549
+  lapin: 78285
+  lecithin: 43169
+  leptin: 51566
+  levin: 16879
+  lignin: 48864
+  lin: 11459
+  linchpin: 83715
+  lipoprotein: 33799
+  login: 4018
+  loin: 26891
+scored_words:
+  lactalbumin: 175176
+  larrikin: 189746
+  legerdemain: 121691
+  linin: 276771
+  luciferin: 284585
+not_scored_words:
+- Ladin
+- Latin
+- Lenin
+- Lichtenstein
+- Liechtenstein
+- Limousin
+- Lin
+- Lohengrin
+- Louvain
+- Lublin
+- Lyublin
+- lactoflavin
+- lactoprotein
+- lambkin
+- lambrequin
+- lamebrain
+- leggin
+- legumin
+- lichenin
+- ligroin
+- limpkin
+- lipotropin
+- lupulin
+- luteolin
+- lysin

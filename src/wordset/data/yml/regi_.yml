@@ -1,0 +1,52 @@
+---
+pattern: regi_
+hi_scored_words_count: 25
+scored_words_count: 6
+total_words: 42
+score: 1594955
+score_per_word: 51450
+hi_scored_words:
+  regime: 6310
+  regimen: 18901
+  regimens: 34120
+  regiment: 6182
+  regimental: 32552
+  regimented: 85629
+  regiments: 21874
+  regimes: 12260
+  region: 960
+  regional: 6086
+  regionalism: 46990
+  regionally: 29182
+  regions: 2290
+  register: 3277
+  registered: 1618
+  registering: 15826
+  registers: 11400
+  registrant: 42091
+  registrants: 49423
+  registrar: 16360
+  registrars: 34340
+  registration: 5503
+  registrations: 16229
+  registries: 31682
+  registry: 9272
+scored_words:
+  regicide: 121299
+  regicides: 120275
+  regimentals: 191872
+  regimentation: 179476
+  regisseur: 303336
+  registrable: 138340
+not_scored_words:
+- Regin
+- Regina
+- Reginae
+- Reginald
+- Regiomontanus
+- Regis
+- regicidal
+- regild
+- regimenting
+- regionalisms
+- regive

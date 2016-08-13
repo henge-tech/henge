@@ -1,0 +1,38 @@
+---
+pattern: ci_d
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 28
+score: 1408096
+score_per_word: 100578
+hi_scored_words:
+  cichlid: 68995
+  circled: 28698
+  circulated: 15048
+  circumcised: 38447
+  circumscribed: 51825
+  circumvented: 73880
+  cited: 4648
+  civilized: 13884
+scored_words:
+  ciliated: 106712
+  cinched: 150121
+  ciphered: 291002
+  circuited: 108603
+  circumnavigated: 222376
+  circumstanced: 233857
+not_scored_words:
+- CID
+- Cid
+- cicatrized
+- cindered
+- cinematized
+- circularized
+- circumambulated
+- circumfused
+- circumstantiated
+- circumvallated
+- cirsoid
+- cissoid
+- citified
+- citrated

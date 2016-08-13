@@ -1,0 +1,51 @@
+---
+pattern: h_ted
+hi_scored_words_count: 19
+scored_words_count: 11
+total_words: 41
+score: 2559471
+score_per_word: 85315
+hi_scored_words:
+  halogenated: 73135
+  halted: 15146
+  handcrafted: 25514
+  harvested: 17532
+  hated: 6663
+  haunted: 8006
+  hearted: 15579
+  heated: 6392
+  herniated: 69853
+  hesitated: 21082
+  highlighted: 7617
+  hinted: 26605
+  hoisted: 45115
+  hosted: 7792
+  humiliated: 29501
+  hunted: 15267
+  hydrated: 36531
+  hydrogenated: 55239
+  hyphenated: 54981
+scored_words:
+  habited: 244750
+  habituated: 104301
+  halfhearted: 149378
+  hallucinated: 240205
+  hasted: 161440
+  hatted: 160168
+  headhunted: 240276
+  hefted: 211347
+  helmeted: 116208
+  hooted: 132670
+  hypothecated: 261178
+not_scored_words:
+- habilitated
+- halfwitted
+- hardhearted
+- headbutted
+- heavyhearted
+- heisted
+- hibernated
+- historiated
+- hotfooted
+- hotted
+- hyperventilated

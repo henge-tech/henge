@@ -1,0 +1,37 @@
+---
+pattern: c_rt
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 27
+score: 839905
+score_per_word: 44205
+hi_scored_words:
+  carport: 59326
+  cart: 2440
+  cert: 16182
+  chart: 3790
+  chert: 63291
+  cohort: 19698
+  comfort: 1933
+  comport: 67338
+  concert: 3010
+  consort: 22915
+  convert: 3683
+  counterpart: 13888
+  court: 435
+  covert: 13324
+  culvert: 42938
+  curt: 17569
+scored_words:
+  cavort: 171023
+  contort: 138702
+  controvert: 178420
+not_scored_words:
+- CRT
+- Calvert
+- Camembert
+- Colbert
+- Cuisinart
+- Curt
+- Cuthbert
+- colewort

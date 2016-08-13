@@ -1,0 +1,49 @@
+---
+pattern: per_ing
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 39
+score: 2754488
+score_per_word: 98374
+hi_scored_words:
+  perceiving: 32623
+  perching: 91470
+  perfecting: 35764
+  perforating: 91058
+  performing: 2493
+  perishing: 53244
+  permitting: 11934
+  perpetrating: 99221
+  perpetuating: 44784
+  perplexing: 36918
+  persecuting: 70089
+  persevering: 71355
+  persisting: 49531
+  personalizing: 87823
+  persuading: 33467
+  pertaining: 7901
+  perusing: 49519
+  pervading: 65263
+scored_words:
+  percolating: 106810
+  perking: 236539
+  permeating: 102597
+  perming: 231871
+  permuting: 254564
+  personating: 265844
+  personifying: 232239
+  perspiring: 124037
+  perturbing: 129458
+  perverting: 136072
+not_scored_words:
+- Pershing
+- perambulating
+- percussing
+- peregrinating
+- perennating
+- perfuming
+- perfusing
+- periling
+- perjuring
+- perorating
+- peroxiding

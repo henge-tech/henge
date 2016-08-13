@@ -1,0 +1,25 @@
+---
+pattern: con_tors
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 1053888
+score_per_word: 87824
+hi_scored_words:
+  concentrators: 76008
+  conductors: 20125
+  connectors: 9707
+  conservators: 81854
+  conspirators: 36095
+  constructors: 28584
+  contractors: 7106
+  contributors: 9756
+scored_words:
+  conciliators: 237712
+  consolidators: 158589
+  constrictors: 209931
+  convertors: 178421
+not_scored_words:
+- confiscators
+- contaminators
+- convectors

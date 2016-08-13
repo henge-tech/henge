@@ -1,0 +1,25 @@
+---
+pattern: _iper
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 628604
+score_per_word: 57145
+hi_scored_words:
+  caliper: 36695
+  juniper: 20139
+  piper: 12955
+  riper: 99855
+  sandpiper: 32743
+  sniper: 15914
+  striper: 75078
+  viper: 16837
+  wiper: 27529
+scored_words:
+  bagpiper: 172168
+  worshiper: 118691
+not_scored_words:
+- candystriper
+- gossiper
+- griper
+- unriper

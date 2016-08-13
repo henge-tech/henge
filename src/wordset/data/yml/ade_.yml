@@ -1,0 +1,45 @@
+---
+pattern: ade_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 35
+score: 1344781
+score_per_word: 79104
+hi_scored_words:
+  adenine: 47128
+  adenocarcinoma: 35654
+  adenoma: 44079
+  adenomas: 67218
+  adenosine: 27717
+  adenovirus: 47704
+  adept: 17850
+  adepts: 94162
+  adequacy: 26286
+  adequate: 3785
+  adequately: 9765
+scored_words:
+  adenocarcinomas: 112454
+  adenoid: 109778
+  adenoidectomy: 234996
+  adenoids: 133147
+  adenoviruses: 123673
+  adeptly: 209385
+not_scored_words:
+- Adela
+- Adelaide
+- Adelbert
+- Adele
+- Adeline
+- Aden
+- Adenauer
+- ademption
+- adenectomy
+- adenitis
+- adenitises
+- adenoidal
+- adenoidectomies
+- adenosines
+- adeptness
+- adequateness
+- adermin
+- adessive

@@ -1,0 +1,48 @@
+---
+pattern: str_es
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 38
+score: 1318258
+score_per_word: 65912
+hi_scored_words:
+  straddles: 71232
+  strategies: 1937
+  strawberries: 17167
+  streamlines: 52867
+  stresses: 20594
+  stretches: 13162
+  strictures: 60026
+  strides: 22724
+  strikes: 5476
+  stripes: 8653
+  strives: 20600
+  strobes: 73284
+  strokes: 8874
+  structures: 3335
+  struggles: 9762
+scored_words:
+  strakes: 201908
+  strangles: 119782
+  stroboscopes: 310452
+  stromatolites: 183595
+  strophes: 112828
+not_scored_words:
+- strabismuses
+- strafes
+- straggles
+- straightedges
+- strangulates
+- straplesses
+- stratifies
+- stratospheres
+- streptokinases
+- striates
+- strickles
+- stridences
+- stridulates
+- stripteases
+- strobiles
+- strongboxes
+- strontianites
+- strophanthuses

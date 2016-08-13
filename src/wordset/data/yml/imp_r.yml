@@ -1,0 +1,39 @@
+---
+pattern: imp_r
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 29
+score: 1834896
+score_per_word: 107935
+hi_scored_words:
+  impair: 21551
+  impaler: 93528
+  impeller: 51713
+  imperator: 70080
+  impersonator: 51292
+  importer: 25836
+  imposter: 51263
+  impostor: 47612
+  imprimatur: 91442
+  improper: 15508
+scored_words:
+  imper: 247408
+  impinger: 239191
+  implementer: 120227
+  imposer: 251308
+  imprinter: 177811
+  improver: 121793
+  improviser: 157333
+not_scored_words:
+- impeacher
+- impeder
+- importuner
+- impounder
+- impower
+- imprecator
+- impregnator
+- impresser
+- improvisator
+- improvisor
+- impugner
+- impurer

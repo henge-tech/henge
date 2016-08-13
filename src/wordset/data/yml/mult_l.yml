@@ -1,0 +1,22 @@
+---
+pattern: mult_l
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 443290
+score_per_word: 44329
+hi_scored_words:
+  multichannel: 39327
+  multicultural: 13441
+  multidimensional: 29585
+  multifunctional: 47374
+  multilateral: 17265
+  multilevel: 40586
+  multilingual: 23728
+  multinational: 16688
+  multiracial: 52713
+scored_words:
+  multidirectional: 162583
+not_scored_words:
+- multifoil
+- multivocal

@@ -1,0 +1,29 @@
+---
+pattern: enc_ed
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 19
+score: 833879
+score_per_word: 52117
+hi_scored_words:
+  encamped: 49659
+  encapsulated: 27847
+  encased: 36359
+  enchanted: 13152
+  encircled: 43898
+  enclosed: 6888
+  encoded: 14849
+  encompassed: 33729
+  encountered: 5583
+  encouraged: 3628
+  encroached: 92880
+  encrusted: 52718
+  encrypted: 15753
+  encumbered: 52313
+scored_words:
+  enchained: 137436
+  enciphered: 247187
+not_scored_words:
+- encored
+- encrimsoned
+- encysted

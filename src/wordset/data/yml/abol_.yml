@@ -1,0 +1,21 @@
+---
+pattern: abol_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 451435
+score_per_word: 50159
+hi_scored_words:
+  abolish: 18806
+  abolished: 16126
+  abolishes: 71448
+  abolishing: 35393
+  abolishment: 80529
+  abolition: 15374
+  abolitionist: 44464
+  abolitionists: 53606
+scored_words:
+  abolitionism: 115689
+not_scored_words:
+- abolisher
+- abolishments

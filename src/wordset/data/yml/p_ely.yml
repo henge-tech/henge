@@ -1,0 +1,67 @@
+---
+pattern: p_ely
+hi_scored_words_count: 22
+scored_words_count: 19
+total_words: 57
+score: 4097710
+score_per_word: 99944
+hi_scored_words:
+  passionately: 19947
+  passively: 32878
+  persuasively: 74232
+  perversely: 86500
+  philately: 62008
+  politely: 17506
+  positively: 7512
+  postoperatively: 74032
+  precisely: 4823
+  predominately: 45298
+  prematurely: 23615
+  princely: 42428
+  privately: 7065
+  proactively: 41628
+  productively: 51290
+  profusely: 36434
+  progressively: 21070
+  prohibitively: 63397
+  proportionately: 40638
+  prospectively: 69390
+  purely: 6032
+  purposely: 21379
+scored_words:
+  pejoratively: 230709
+  pensively: 164408
+  perceptively: 205275
+  pervasively: 158904
+  picturesquely: 208540
+  pinnately: 255556
+  plaintively: 140118
+  precipitately: 157177
+  predicatively: 239387
+  preemptively: 116845
+  preoperatively: 112656
+  presumptively: 112156
+  primitively: 241163
+  profanely: 103822
+  protectively: 128982
+  provocatively: 108997
+  proximately: 111229
+  purposively: 309076
+  putatively: 143608
+not_scored_words:
+- palely
+- palmately
+- penultimately
+- percussively
+- permissively
+- perspectively
+- possessively
+- preclusively
+- prescriptively
+- pristinely
+- profligately
+- projectively
+- proprioceptively
+- proscriptively
+- puerilely
+- punitively

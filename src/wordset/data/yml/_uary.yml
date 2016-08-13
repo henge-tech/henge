@@ -1,0 +1,26 @@
+---
+pattern: _uary
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 16
+score: 760811
+score_per_word: 63400
+hi_scored_words:
+  actuary: 41146
+  antiquary: 82604
+  estuary: 19600
+  mortuary: 32166
+  obituary: 19866
+  reliquary: 93034
+  sanctuary: 7547
+  statuary: 36282
+  sumptuary: 68950
+  voluptuary: 96851
+scored_words:
+  ossuary: 142497
+  residuary: 120268
+not_scored_words:
+- February
+- January
+- electuary
+- textuary

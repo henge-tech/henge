@@ -1,0 +1,29 @@
+---
+pattern: _rnal
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 19
+score: 716791
+score_per_word: 47786
+hi_scored_words:
+  carnal: 26854
+  diurnal: 34043
+  eternal: 4347
+  external: 1477
+  fraternal: 24227
+  infernal: 22446
+  internal: 1799
+  journal: 1723
+  maternal: 8821
+  nocturnal: 18441
+  paternal: 21948
+  sempiternal: 73978
+  vernal: 34423
+scored_words:
+  semidiurnal: 323780
+  supernal: 118484
+not_scored_words:
+- asternal
+- coeternal
+- hibernal
+- nonpaternal

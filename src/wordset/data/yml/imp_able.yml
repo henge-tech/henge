@@ -1,0 +1,33 @@
+---
+pattern: imp_able
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 23
+score: 2273179
+score_per_word: 119641
+hi_scored_words:
+  impassable: 57727
+  impeccable: 30609
+  impenetrable: 32424
+  imperishable: 86056
+  impermeable: 53483
+  implacable: 53618
+  implantable: 58541
+  impracticable: 38737
+  impregnable: 75530
+  impressionable: 59450
+  improbable: 20813
+scored_words:
+  impalpable: 169274
+  impeachable: 114258
+  imperturbable: 128165
+  implementable: 120497
+  imponderable: 240746
+  importable: 291134
+  imposable: 334859
+  imputable: 307258
+not_scored_words:
+- impoundable
+- imprisonable
+- improvable
+- impugnable

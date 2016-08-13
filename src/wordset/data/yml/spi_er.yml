@@ -1,0 +1,27 @@
+---
+pattern: spi_er
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 1020644
+score_per_word: 85053
+hi_scored_words:
+  spicer: 40886
+  spider: 5937
+  spier: 80629
+  spiller: 58087
+  spillover: 63140
+  spinnaker: 60704
+  spinner: 28381
+  spinster: 38054
+scored_words:
+  spicier: 176391
+  spieler: 128016
+  spirometer: 179765
+  spitter: 160654
+not_scored_words:
+- spiffier
+- spikier
+- spindlier
+- spinier
+- spitefuller

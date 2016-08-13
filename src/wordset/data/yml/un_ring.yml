@@ -1,0 +1,25 @@
+---
+pattern: un_ring
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 881845
+score_per_word: 88184
+hi_scored_words:
+  uncaring: 72339
+  uncovering: 34817
+  underscoring: 80793
+  unerring: 67235
+  unflattering: 77844
+  uninspiring: 80435
+  untiring: 84946
+  unwavering: 46963
+scored_words:
+  unfaltering: 191339
+  unsparing: 145134
+not_scored_words:
+- unbarring
+- unfearing
+- unfettering
+- unlimbering
+- unstring

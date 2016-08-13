@@ -1,0 +1,30 @@
+---
+pattern: bri_es
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 20
+score: 689242
+score_per_word: 68924
+hi_scored_words:
+  bribes: 30751
+  brides: 16392
+  bridges: 5677
+  bridles: 78060
+  briefcases: 44571
+  brigades: 26120
+  bristles: 42467
+  britches: 69705
+scored_words:
+  brightnesses: 267814
+  briquettes: 107685
+not_scored_words:
+- Bridges
+- Bries
+- Brittanies
+- brickies
+- bricoles
+- brigandines
+- brigantines
+- brioches
+- brionies
+- brisances

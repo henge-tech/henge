@@ -1,0 +1,36 @@
+---
+pattern: co_ents
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 26
+score: 1184200
+score_per_word: 56390
+hi_scored_words:
+  coefficients: 10159
+  commandments: 14124
+  comments: 2277
+  commitments: 9588
+  compartments: 21664
+  complements: 23290
+  compliments: 11505
+  components: 8243
+  condiments: 36848
+  consents: 34097
+  consignments: 66377
+  constituents: 11670
+  contents: 1556
+  continents: 12796
+  contingents: 79329
+  convents: 72404
+  correspondents: 19711
+scored_words:
+  commencements: 156604
+  confinements: 228040
+  convalescents: 131768
+  counterarguments: 232150
+not_scored_words:
+- codependents
+- conferments
+- corespondents
+- cotangents
+- countercurrents

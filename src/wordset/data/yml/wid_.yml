@@ -1,0 +1,41 @@
+---
+pattern: wid_
+hi_scored_words_count: 21
+scored_words_count: 4
+total_words: 31
+score: 1173513
+score_per_word: 46940
+hi_scored_words:
+  wide: 698
+  widely: 3469
+  widen: 20822
+  widened: 25338
+  widener: 57005
+  widening: 16020
+  widens: 46391
+  wider: 4912
+  widescreen: 14872
+  widespread: 7466
+  widest: 13349
+  widget: 18801
+  widgets: 21336
+  widow: 6475
+  widowed: 24582
+  widower: 30963
+  widowers: 76089
+  widowhood: 70868
+  widows: 21608
+  width: 4033
+  widths: 25302
+scored_words:
+  widdershins: 206963
+  wideness: 192197
+  wides: 145228
+  widgeon: 118726
+not_scored_words:
+- widemouthed
+- wideners
+- widescreens
+- widgeons
+- widowing
+- widthwise

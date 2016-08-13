@@ -1,0 +1,40 @@
+---
+pattern: di_st
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 30
+score: 1086860
+score_per_word: 77632
+hi_scored_words:
+  diarist: 70450
+  didst: 34592
+  digest: 6019
+  dirtiest: 48153
+  disgust: 16334
+  dishonest: 18395
+  disinterest: 67581
+  dist: 20541
+  distrust: 18980
+  divest: 44097
+scored_words:
+  dimmest: 236624
+  diplomatist: 160339
+  direst: 180599
+  divinest: 164156
+not_scored_words:
+- dialectologist
+- dialogist
+- dicast
+- diciest
+- dingiest
+- dinkiest
+- dippiest
+- directest
+- disafforest
+- discreetest
+- disforest
+- disinfest
+- disinvest
+- dismast
+- distinctest
+- dizziest

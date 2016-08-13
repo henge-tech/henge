@@ -1,0 +1,43 @@
+---
+pattern: br_ts
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 33
+score: 2019256
+score_per_word: 106276
+hi_scored_words:
+  bracelets: 10834
+  brackets: 11568
+  bracts: 79044
+  brats: 38277
+  breakfasts: 20244
+  breakouts: 68253
+  breakpoints: 56040
+  breasts: 7469
+  brights: 70788
+  brits: 21230
+  broadcasts: 11046
+scored_words:
+  brants: 263738
+  brents: 264659
+  brevets: 172980
+  brickbats: 168707
+  brilliants: 205449
+  broadsheets: 151166
+  brownouts: 208770
+  bruits: 188994
+not_scored_words:
+- Brits
+- braggarts
+- bratwursts
+- breadbaskets
+- breadfruits
+- breadroots
+- breakfronts
+- briarroots
+- briquets
+- briskets
+- brockets
+- brooklets
+- browbeats
+- brunets

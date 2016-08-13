@@ -1,0 +1,19 @@
+---
+pattern: ex_ded
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 9
+score: 261224
+score_per_word: 29024
+hi_scored_words:
+  exceeded: 9485
+  excluded: 6217
+  expanded: 4731
+  expended: 24765
+  exploded: 14624
+  expounded: 55328
+  extended: 1700
+  extruded: 36988
+scored_words:
+  exuded: 107386
+not_scored_words: []

@@ -1,0 +1,71 @@
+---
+pattern: me_ly
+hi_scored_words_count: 19
+scored_words_count: 14
+total_words: 61
+score: 3439659
+score_per_word: 104232
+hi_scored_words:
+  mealy: 79857
+  meaningfully: 48818
+  measly: 49477
+  measurably: 88591
+  mechanically: 18071
+  medially: 98245
+  medically: 17508
+  meekly: 69214
+  melancholy: 14074
+  memorably: 96277
+  menacingly: 98706
+  mentally: 14331
+  mercifully: 58694
+  mercilessly: 40088
+  merely: 2620
+  merrily: 31142
+  metaphorically: 52331
+  methodically: 56957
+  meticulously: 33964
+scored_words:
+  meagerly: 160805
+  meaningly: 177823
+  meanly: 153567
+  mechanistically: 215859
+  mediately: 149900
+  medicinally: 138532
+  meditatively: 202851
+  melodically: 166952
+  melodiously: 285254
+  messily: 260189
+  metabolically: 110940
+  metaphysically: 127739
+  methodologically: 101314
+  metrically: 218969
+not_scored_words:
+- Merrily
+- meaninglessly
+- measurelessly
+- medianly
+- medievally
+- mediocrely
+- meetly
+- meiotically
+- melancholically
+- mellifluously
+- mellowly
+- melodramatically
+- meltingly
+- memorially
+- mendaciously
+- menially
+- mercenarily
+- mercurially
+- meretriciously
+- meritoriously
+- mesmerizingly
+- metallically
+- metastatically
+- metempsychotically
+- meteorically
+- meteorologically
+- metonymically
+- metronomically

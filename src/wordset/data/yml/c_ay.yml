@@ -1,0 +1,35 @@
+---
+pattern: c_ay
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 25
+score: 1600651
+score_per_word: 88925
+hi_scored_words:
+  caraway: 56199
+  carriageway: 45949
+  castaway: 47382
+  causeway: 27324
+  cay: 33724
+  chambray: 87433
+  chardonnay: 23975
+  clay: 3549
+  copay: 71685
+  cosplay: 30433
+  cray: 32430
+  cutaway: 51967
+scored_words:
+  cableway: 166734
+  clearway: 321367
+  colorway: 168174
+  companionway: 168933
+  crossway: 102567
+  cycleway: 160826
+not_scored_words:
+- Cathay
+- Charbray
+- Chardonnay
+- Clay
+- Conway
+- Corday
+- Cray

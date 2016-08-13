@@ -1,0 +1,50 @@
+---
+pattern: sw_ed
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 40
+score: 2234912
+score_per_word: 97170
+hi_scored_words:
+  swallowed: 12496
+  swamped: 35490
+  swapped: 28398
+  swarmed: 59769
+  swayed: 34380
+  sweated: 82796
+  sweetened: 38135
+  swelled: 32225
+  swerved: 73830
+  swiped: 65921
+  swirled: 59263
+  switched: 9739
+  swooped: 68134
+scored_words:
+  swabbed: 179597
+  swaddled: 179019
+  swaged: 225436
+  swaggered: 219833
+  swathed: 104483
+  swatted: 134224
+  swindled: 110719
+  swished: 173546
+  swiveled: 176493
+  swooned: 130986
+not_scored_words:
+- Swed
+- swacked
+- swagged
+- swanked
+- swanned
+- swarded
+- swashed
+- swattered
+- swaybacked
+- swellheaded
+- sweltered
+- swigged
+- swilled
+- swinged
+- swizzled
+- swooshed
+- swotted

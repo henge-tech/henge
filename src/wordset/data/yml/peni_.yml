@@ -1,0 +1,26 @@
+---
+pattern: peni_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 16
+score: 1169035
+score_per_word: 77935
+hi_scored_words:
+  penicillin: 24170
+  penicillium: 92473
+  penile: 36836
+  peninsula: 6785
+  peninsular: 36521
+  peninsulas: 82978
+  penis: 9462
+  penises: 38466
+  penitence: 66318
+  penitent: 48920
+  penitentiary: 31207
+scored_words:
+  penitential: 110946
+  penitentiaries: 191946
+  penitently: 251339
+  penitents: 140668
+not_scored_words:
+- penicillate

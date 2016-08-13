@@ -1,0 +1,28 @@
+---
+pattern: pr_ms
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 18
+score: 644912
+score_per_word: 64491
+hi_scored_words:
+  prams: 66172
+  prelims: 47573
+  premiums: 15563
+  prisms: 45569
+  problems: 1370
+  proclaims: 36621
+  programs: 2512
+  proms: 40681
+scored_words:
+  practicums: 252690
+  preforms: 136161
+not_scored_words:
+- Presbyterianisms
+- Protestantisms
+- primitivisms
+- primordiums
+- princedoms
+- probabilisms
+- prosceniums
+- protoactiniums

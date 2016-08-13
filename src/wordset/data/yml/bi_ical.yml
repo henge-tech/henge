@@ -1,0 +1,21 @@
+---
+pattern: bi_ical
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 11
+score: 439168
+score_per_word: 43916
+hi_scored_words:
+  biblical: 9645
+  bibliographical: 35909
+  biochemical: 17670
+  biographical: 12930
+  biological: 6214
+  biomechanical: 56648
+  biomedical: 11011
+  biophysical: 42877
+  biotechnological: 91507
+scored_words:
+  bioethical: 154757
+not_scored_words:
+- Biblical

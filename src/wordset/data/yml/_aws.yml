@@ -1,0 +1,72 @@
+---
+pattern: _aws
+hi_scored_words_count: 17
+scored_words_count: 20
+total_words: 62
+score: 4825961
+score_per_word: 130431
+hi_scored_words:
+  bylaws: 21888
+  caws: 70114
+  chainsaws: 62794
+  claws: 17143
+  daws: 85469
+  draws: 6246
+  flaws: 14717
+  haws: 96560
+  jaws: 11707
+  jigsaws: 71412
+  laws: 970
+  macaws: 80005
+  outlaws: 24701
+  paws: 17702
+  saws: 22632
+  straws: 35425
+  withdraws: 32905
+scored_words:
+  bandsaws: 148695
+  chaws: 153522
+  dewclaws: 315034
+  forepaws: 264610
+  gewgaws: 195514
+  gnaws: 170500
+  guffaws: 175812
+  hacksaws: 319237
+  handsaws: 251509
+  jackdaws: 202176
+  maws: 142457
+  redraws: 155682
+  rickshaws: 109186
+  scofflaws: 317544
+  seesaws: 264519
+  southpaws: 259742
+  squaws: 187725
+  taws: 289644
+  thaws: 118312
+  yaws: 112151
+not_scored_words:
+- Chickasaws
+- Choctaws
+- backsaws
+- bedstraws
+- bucksaws
+- clapperclaws
+- craws
+- declaws
+- fretsaws
+- hawkshaws
+- heehaws
+- jackstraws
+- kickshaws
+- mackinaws
+- outdraws
+- overdraws
+- papaws
+- pawpaws
+- pitsaws
+- pshaws
+- ripsaws
+- scrimshaws
+- waws
+- whipsaws
+- williwaws

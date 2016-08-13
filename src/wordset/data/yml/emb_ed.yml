@@ -1,0 +1,32 @@
+---
+pattern: emb_ed
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 22
+score: 908213
+score_per_word: 50456
+hi_scored_words:
+  embargoed: 94305
+  embarked: 16085
+  embarrassed: 11326
+  embattled: 49346
+  embed: 27284
+  embedded: 8058
+  embellished: 33987
+  embittered: 62844
+  emblazoned: 50488
+  embodied: 17917
+  emboldened: 60805
+  embossed: 26091
+  embraced: 10738
+  embroidered: 10489
+  embroiled: 50332
+scored_words:
+  embalmed: 102659
+  embezzled: 118465
+  embowered: 156994
+not_scored_words:
+- embanked
+- embowed
+- embrangled
+- embrasured

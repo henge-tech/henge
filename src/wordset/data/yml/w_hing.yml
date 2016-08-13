@@ -1,0 +1,24 @@
+---
+pattern: w_hing
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 14
+score: 939960
+score_per_word: 78330
+hi_scored_words:
+  washing: 5078
+  watching: 1747
+  weighing: 9388
+  wishing: 5940
+  witching: 75272
+  withing: 94178
+  wrenching: 41045
+  writhing: 51739
+scored_words:
+  whitewashing: 138858
+  whooshing: 138811
+  winching: 180783
+  wreathing: 197121
+not_scored_words:
+- welshing
+- whishing

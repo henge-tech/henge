@@ -1,0 +1,25 @@
+---
+pattern: eras_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 15
+score: 527779
+score_per_word: 52777
+hi_scored_words:
+  eras: 32445
+  erasable: 85915
+  erase: 16004
+  erased: 23578
+  eraser: 24609
+  erasers: 57956
+  erases: 56538
+  erasing: 37160
+  erasure: 42228
+scored_words:
+  erasures: 151346
+not_scored_words:
+- Erasmus
+- Erastian
+- Erastianism
+- Erastianisms
+- erasion

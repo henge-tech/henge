@@ -1,0 +1,45 @@
+---
+pattern: _hore
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 35
+score: 788950
+score_per_word: 56353
+hi_scored_words:
+  ashore: 15868
+  chore: 29154
+  foreshore: 46616
+  inshore: 43616
+  longshore: 67443
+  nearshore: 66443
+  offshore: 10972
+  onshore: 33712
+  seashore: 27813
+  semaphore: 36381
+  shore: 2821
+  whore: 10570
+scored_words:
+  alongshore: 281094
+  chromophore: 116447
+not_scored_words:
+- Johore
+- Lahore
+- Terpsichore
+- anemochore
+- anthophore
+- carpophore
+- chromatophore
+- conidiophore
+- ctenophore
+- gametophore
+- gonophore
+- gynophore
+- lophophore
+- ommatophore
+- photophore
+- pneumatophore
+- siphonophore
+- spermatophore
+- sporophore
+- trochophore
+- zoochore

@@ -1,0 +1,43 @@
+---
+pattern: _ital
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 33
+score: 1991252
+score_per_word: 82968
+hi_scored_words:
+  capital: 899
+  congenital: 17817
+  detrital: 75259
+  digital: 5982
+  extramarital: 68792
+  genital: 21324
+  hospital: 1487
+  ital: 45378
+  marital: 13866
+  occipital: 48934
+  orbital: 14750
+  pentobarbital: 97651
+  phenobarbital: 55926
+  premarital: 53698
+  recital: 16222
+  urogenital: 71824
+  vital: 3305
+scored_words:
+  coital: 139804
+  cubital: 225247
+  postcoital: 243057
+  requital: 220570
+  spital: 165624
+  suborbital: 119397
+  supraorbital: 264439
+not_scored_words:
+- Ital
+- ancipital
+- barbital
+- bicipital
+- circuital
+- noncoital
+- postmarital
+- postorbital
+- primogenital

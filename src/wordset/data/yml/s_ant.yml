@@ -1,0 +1,52 @@
+---
+pattern: s_ant
+hi_scored_words_count: 17
+scored_words_count: 11
+total_words: 42
+score: 2689857
+score_per_word: 96066
+hi_scored_words:
+  savant: 37304
+  scant: 25621
+  sealant: 38002
+  secant: 88033
+  sergeant: 7820
+  serjeant: 93477
+  servant: 5335
+  sextant: 55086
+  significant: 1855
+  slant: 19772
+  stagnant: 25875
+  stimulant: 25955
+  supernatant: 47111
+  supplant: 42838
+  supplicant: 90153
+  suppressant: 55211
+  surfactant: 36915
+scored_words:
+  scintillant: 208565
+  sibilant: 138088
+  simulant: 123117
+  sonant: 174788
+  sonorant: 298279
+  subdominant: 167112
+  subtenant: 191035
+  superabundant: 258969
+  supergiant: 179921
+  suppliant: 150223
+  sycophant: 103397
+not_scored_words:
+- Sergeant
+- Stuyvesant
+- saltant
+- saturant
+- sejant
+- somnambulant
+- spirant
+- statant
+- sterilant
+- stridulant
+- sublieutenant
+- submediant
+- superdominant
+- susurrant

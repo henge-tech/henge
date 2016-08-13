@@ -1,0 +1,52 @@
+---
+pattern: tru_s
+hi_scored_words_count: 14
+scored_words_count: 13
+total_words: 42
+score: 3081419
+score_per_word: 114126
+hi_scored_words:
+  truckers: 28576
+  truckloads: 89435
+  trucks: 6933
+  truffles: 33997
+  trumpets: 32044
+  trumps: 30553
+  trunks: 13423
+  truss: 22321
+  trusses: 48140
+  trustees: 6530
+  trusts: 8331
+  trustworthiness: 47699
+  truthfulness: 37194
+  truths: 9513
+scored_words:
+  truants: 172791
+  truces: 277422
+  trudges: 281807
+  trueness: 305343
+  trues: 229929
+  truisms: 139729
+  trumpeters: 118203
+  truncates: 165268
+  truncations: 211945
+  truncheons: 199775
+  trundles: 240821
+  trustfulness: 207975
+  truthiness: 115722
+not_scored_words:
+- trucklers
+- truckles
+- truculencies
+- trueloves
+- truenesses
+- trugs
+- trundlers
+- trunnels
+- trunnions
+- trusteeships
+- trusties
+- trustiness
+- trustinesses
+- trustless
+- truthers

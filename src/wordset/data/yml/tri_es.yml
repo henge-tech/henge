@@ -1,0 +1,46 @@
+---
+pattern: tri_es
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 36
+score: 2025419
+score_per_word: 96448
+hi_scored_words:
+  triangles: 21760
+  triathletes: 93500
+  tribes: 4693
+  tributaries: 22371
+  tributes: 24220
+  tricycles: 77997
+  tries: 4957
+  trifles: 52933
+  triglycerides: 41362
+  trikes: 73524
+  trilobites: 94805
+  triples: 27842
+scored_words:
+  tribunes: 106357
+  trickles: 100922
+  trilogies: 143760
+  trines: 283877
+  triodes: 279741
+  triplexes: 122130
+  triremes: 101729
+  trivialities: 134847
+  trivializes: 212092
+not_scored_words:
+- Trinities
+- triangulates
+- tricepses
+- trichlorides
+- trichomoniases
+- tricornes
+- trilbies
+- trinities
+- trioxides
+- triplicates
+- triposes
+- tripwires
+- trisaccharides
+- trisyllables
+- triumvirates

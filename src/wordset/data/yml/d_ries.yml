@@ -1,0 +1,45 @@
+---
+pattern: d_ries
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 35
+score: 1574162
+score_per_word: 78708
+hi_scored_words:
+  dairies: 53760
+  deliveries: 11193
+  depositories: 67335
+  diaries: 13340
+  dictionaries: 14568
+  dignitaries: 38378
+  directories: 7718
+  discoveries: 8773
+  dispensaries: 90232
+  distilleries: 77127
+  documentaries: 16173
+  dormitories: 44275
+  draperies: 46096
+  dries: 26706
+scored_words:
+  deaneries: 190077
+  debaucheries: 179431
+  decries: 101735
+  depilatories: 217172
+  dowries: 209440
+  dromedaries: 160633
+not_scored_words:
+- Dumfries
+- daredeviltries
+- dearies
+- decennaries
+- demonolatries
+- descries
+- devilries
+- deviltries
+- dewberries
+- dietaries
+- distributaries
+- dories
+- doweries
+- drolleries
+- duperies

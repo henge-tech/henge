@@ -1,0 +1,38 @@
+---
+pattern: ve_a
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 28
+score: 613866
+score_per_word: 55806
+hi_scored_words:
+  vela: 42608
+  vena: 50530
+  vendetta: 29581
+  veranda: 27880
+  verbena: 49521
+  veronica: 12691
+  versa: 12607
+  vertebra: 51333
+  vesta: 36084
+scored_words:
+  verruca: 150778
+  vesica: 150253
+not_scored_words:
+- Veda
+- Vedanta
+- Vedda
+- Vega
+- Vela
+- Velma
+- Velveeta
+- Venetia
+- Venezia
+- Venezuela
+- Ventura
+- Vera
+- Verna
+- Verona
+- Veronica
+- Vesta
+- vedalia

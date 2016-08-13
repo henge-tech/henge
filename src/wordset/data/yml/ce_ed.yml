@@ -1,0 +1,27 @@
+---
+pattern: ce_ed
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 17
+score: 685880
+score_per_word: 52760
+hi_scored_words:
+  ceased: 8318
+  ceded: 39238
+  celebrated: 5684
+  celled: 64954
+  cemented: 36884
+  censored: 21861
+  censured: 65915
+  centered: 9083
+  centralized: 16310
+  centrifuged: 69223
+  certificated: 51882
+  certified: 4586
+scored_words:
+  censed: 291942
+not_scored_words:
+- censused
+- cerated
+- cerebrated
+- cered

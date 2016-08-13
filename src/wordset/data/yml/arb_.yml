@@ -1,0 +1,57 @@
+---
+pattern: arb_
+hi_scored_words_count: 17
+scored_words_count: 13
+total_words: 47
+score: 3612160
+score_per_word: 120405
+hi_scored_words:
+  arb: 35940
+  arbiter: 31289
+  arbiters: 94431
+  arbitrage: 35423
+  arbitral: 59084
+  arbitrarily: 22806
+  arbitrariness: 83294
+  arbitrary: 6416
+  arbitrate: 57942
+  arbitration: 9605
+  arbitrator: 24090
+  arbitrators: 44335
+  arbor: 11811
+  arboreal: 70794
+  arboretum: 28533
+  arbors: 68907
+  arbutus: 63066
+scored_words:
+  arbalest: 223352
+  arbitrageurs: 303921
+  arbitrament: 191749
+  arbitrated: 103593
+  arbitrates: 333648
+  arbitrating: 224038
+  arborescent: 222702
+  arboretums: 281806
+  arboricultural: 265700
+  arboriculture: 114186
+  arborvitae: 222504
+  arbovirus: 213699
+  arbs: 163496
+not_scored_words:
+- Arbitron
+- Arbuthnot
+- arbitraged
+- arbitrager
+- arbitragers
+- arbitrages
+- arbitrageur
+- arbitraging
+- arbitraments
+- arbitress
+- arboreous
+- arboricultures
+- arboriculturist
+- arboriculturists
+- arborization
+- arborvitaes
+- arbutuses

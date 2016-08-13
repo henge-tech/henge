@@ -1,0 +1,35 @@
+---
+pattern: shut_
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 25
+score: 1443841
+score_per_word: 72192
+hi_scored_words:
+  shut: 2471
+  shutdown: 12286
+  shutdowns: 77262
+  shutoff: 74523
+  shutout: 39565
+  shutouts: 63473
+  shuts: 21737
+  shutter: 13362
+  shuttered: 73783
+  shutters: 21188
+  shutting: 18838
+  shuttle: 10504
+  shuttlecock: 99892
+  shuttles: 41709
+  shuttling: 96977
+scored_words:
+  shutterbug: 114896
+  shutterbugs: 213693
+  shuttering: 147055
+  shuttlecocks: 186059
+  shuttled: 114568
+not_scored_words:
+- Shute
+- shuteye
+- shutoffs
+- shuttlecocked
+- shuttlecocking

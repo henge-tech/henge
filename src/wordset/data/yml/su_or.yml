@@ -1,0 +1,29 @@
+---
+pattern: su_or
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 19
+score: 601198
+score_per_word: 50099
+hi_scored_words:
+  subcontractor: 32310
+  successor: 7760
+  succor: 69295
+  suitor: 50601
+  superconductor: 59321
+  superior: 2269
+  supervisor: 12683
+  suppressor: 26518
+  surveyor: 16955
+  survivor: 10447
+scored_words:
+  subfloor: 118198
+  sudor: 194841
+not_scored_words:
+- Superior
+- subdirector
+- subeditor
+- subjugator
+- succentor
+- supinator
+- suspensor

@@ -1,0 +1,53 @@
+---
+pattern: d_tic
+hi_scored_words_count: 19
+scored_words_count: 10
+total_words: 43
+score: 2288435
+score_per_word: 78911
+hi_scored_words:
+  democratic: 3129
+  dendritic: 35446
+  despotic: 45135
+  deterministic: 21876
+  diabetic: 13854
+  diagnostic: 16132
+  diagrammatic: 71667
+  dialectic: 35262
+  diaphragmatic: 81697
+  didactic: 30765
+  dietetic: 49251
+  diplomatic: 7671
+  diuretic: 40298
+  dogmatic: 31891
+  domestic: 1740
+  dramatic: 4115
+  drastic: 18475
+  dualistic: 68188
+  dynastic: 52748
+scored_words:
+  deictic: 181920
+  demotic: 127926
+  diacritic: 158461
+  diamagnetic: 114414
+  diaphoretic: 261276
+  dichromatic: 160381
+  dizygotic: 230874
+  dolomitic: 192038
+  dyspeptic: 113814
+  dysplastic: 117991
+not_scored_words:
+- Dadaistic
+- Darwinistic
+- Democratic
+- Demotic
+- dalmatic
+- deistic
+- diacaustic
+- dialytic
+- dianoetic
+- dicrotic
+- diphtheritic
+- diploblastic
+- dyslectic
+- dyslogistic

@@ -1,0 +1,41 @@
+---
+pattern: abb_
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 31
+score: 1981677
+score_per_word: 90076
+hi_scored_words:
+  abb: 28392
+  abba: 28362
+  abbacy: 93949
+  abbe: 33838
+  abbess: 64884
+  abbey: 6943
+  abbeys: 59767
+  abbot: 17336
+  abbots: 50486
+  abbr: 73714
+  abbrev: 82236
+  abbreviate: 66654
+  abbreviated: 20118
+  abbreviation: 19196
+  abbreviations: 19146
+  abbé: 47600
+scored_words:
+  abbatial: 156972
+  abbes: 234421
+  abbesses: 267975
+  abbreviates: 205439
+  abbreviating: 176753
+  abbrevs: 227496
+not_scored_words:
+- Abba
+- Abbas
+- Abbasid
+- Abbevillian
+- Abbott
+- Abby
+- abbacies
+- abbreviator
+- abbés

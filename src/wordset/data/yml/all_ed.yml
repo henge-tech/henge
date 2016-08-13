@@ -1,0 +1,23 @@
+---
+pattern: all_ed
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 432982
+score_per_word: 43298
+hi_scored_words:
+  alleged: 5214
+  alleviated: 54935
+  allied: 5184
+  allocated: 8182
+  allotted: 20059
+  allowed: 1004
+  alloyed: 84213
+  alluded: 30343
+scored_words:
+  allayed: 107595
+  allured: 116253
+not_scored_words:
+- allegorized
+- alliterated
+- allseed

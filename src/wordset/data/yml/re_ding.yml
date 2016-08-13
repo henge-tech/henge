@@ -1,0 +1,52 @@
+---
+pattern: re_ding
+hi_scored_words_count: 18
+scored_words_count: 12
+total_words: 42
+score: 2468374
+score_per_word: 82279
+hi_scored_words:
+  reading: 558
+  rebounding: 46183
+  rebuilding: 13636
+  receding: 42543
+  recommending: 15293
+  recording: 3303
+  refunding: 52586
+  regarding: 1686
+  reloading: 38700
+  reminding: 18154
+  rending: 65486
+  rereading: 61704
+  residing: 12710
+  resounding: 29725
+  responding: 8871
+  retarding: 78341
+  rewarding: 14351
+  rewinding: 76036
+scored_words:
+  rebinding: 164897
+  recoding: 100191
+  refolding: 155313
+  regrading: 155851
+  remanding: 136585
+  reprimanding: 204126
+  rerecording: 214629
+  rescinding: 112312
+  reseeding: 170617
+  resending: 178075
+  retreading: 157054
+  rewording: 138858
+not_scored_words:
+- Reading
+- reascending
+- rebidding
+- redividing
+- redounding
+- reeding
+- regrinding
+- remolding
+- renegading
+- reprehending
+- retrograding
+- rewedding

@@ -1,0 +1,90 @@
+---
+pattern: do_y
+hi_scored_words_count: 30
+scored_words_count: 15
+total_words: 80
+score: 3628535
+score_per_word: 80634
+hi_scored_words:
+  dobby: 64364
+  documentary: 10203
+  dodgy: 29075
+  doggedly: 68510
+  doggy: 22328
+  doily: 86385
+  dolly: 14347
+  domesday: 69072
+  domestically: 29274
+  domesticity: 69999
+  domiciliary: 81598
+  dominantly: 91302
+  donkey: 10354
+  doomsday: 31309
+  doorway: 11744
+  dopey: 61659
+  dorky: 65085
+  dormancy: 66857
+  dormitory: 24645
+  dory: 38533
+  dosimetry: 60160
+  dotty: 46331
+  doubly: 23701
+  doubtfully: 66759
+  doughboy: 83893
+  doughty: 20485
+  dowdy: 60064
+  downplay: 60103
+  downy: 46738
+  dowry: 34478
+scored_words:
+  docilely: 150036
+  docility: 115190
+  doctrinally: 182998
+  dogmatically: 148637
+  dogsbody: 158126
+  dolefully: 137923
+  doozy: 102902
+  dorsally: 122567
+  doubtingly: 287420
+  doubtlessly: 141612
+  doughy: 129032
+  downwardly: 137576
+  doxology: 102827
+  doxy: 120745
+  dozy: 141589
+not_scored_words:
+- Dogberry
+- Dolby
+- Dolly
+- Domesday
+- Donny
+- Dooley
+- Doonesbury
+- Dorothy
+- Dorsey
+- Dorthy
+- Dostoevsky
+- Dotty
+- Douay
+- Doubleday
+- Doughty
+- Downy
+- dobsonfly
+- doddery
+- dogberry
+- doggery
+- dolichocephaly
+- dolorimetry
+- dolorously
+- doltishly
+- domineeringly
+- doohickey
+- doolally
+- dopily
+- dorty
+- dotingly
+- dourly
+- dowdily
+- dowery
+- downheartedly
+- dozily

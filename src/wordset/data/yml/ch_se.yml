@@ -1,0 +1,28 @@
+---
+pattern: ch_se
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 18
+score: 1122903
+score_per_word: 74860
+hi_scored_words:
+  chaise: 27923
+  charmeuse: 71711
+  chartreuse: 51049
+  chase: 3802
+  chasse: 54805
+  chastise: 66239
+  cheese: 3322
+  chemise: 50057
+  cholinesterase: 69680
+  choose: 767
+  chose: 3456
+scored_words:
+  chanteuse: 117778
+  chersonese: 186507
+  chophouse: 195601
+  chrysoprase: 220206
+not_scored_words:
+- Charterhouse
+- Chase
+- Chinese

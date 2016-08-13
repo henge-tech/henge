@@ -1,0 +1,29 @@
+---
+pattern: co_ial
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 19
+score: 825130
+score_per_word: 55008
+hi_scored_words:
+  coaxial: 29653
+  collegial: 58525
+  colloquial: 37148
+  colonial: 5471
+  combinatorial: 29891
+  commercial: 1049
+  confidential: 5425
+  congenial: 36750
+  consequential: 13949
+  conspiratorial: 90506
+  controversial: 10264
+  convivial: 62155
+  cordial: 22409
+scored_words:
+  connubial: 118647
+  consubstantial: 303288
+not_scored_words:
+- coessential
+- commissarial
+- componential
+- conservatorial

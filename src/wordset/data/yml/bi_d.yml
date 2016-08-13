@@ -1,0 +1,60 @@
+---
+pattern: bi_d
+hi_scored_words_count: 14
+scored_words_count: 18
+total_words: 50
+score: 3959425
+score_per_word: 123732
+hi_scored_words:
+  biased: 18837
+  bid: 1545
+  bifurcated: 71138
+  bigoted: 49482
+  billboard: 11390
+  billed: 11634
+  billfold: 76328
+  billiard: 20922
+  bind: 6268
+  binned: 80029
+  biped: 87025
+  bird: 1642
+  birthed: 73934
+  bitched: 91096
+scored_words:
+  biassed: 232089
+  bickered: 281569
+  bicuspid: 121002
+  bicycled: 281550
+  bifid: 263113
+  bighead: 154056
+  biked: 119850
+  bilked: 236792
+  billeted: 154320
+  billowed: 184911
+  bindweed: 115737
+  biopsied: 170929
+  bipod: 114222
+  birded: 307835
+  birdied: 140223
+  birdseed: 129244
+  bisected: 108205
+  bivouacked: 242508
+not_scored_words:
+- Bielefeld
+- Bird
+- Birkenhead
+- bield
+- bielded
+- biffed
+- biforked
+- bighearted
+- billhead
+- binged
+- biodegraded
+- birched
+- birdbrained
+- birled
+- birred
+- bitted
+- bitterweed
+- bituminized

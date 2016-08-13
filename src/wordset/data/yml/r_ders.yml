@@ -1,0 +1,29 @@
+---
+pattern: r_ders
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 19
+score: 1635303
+score_per_word: 90850
+hi_scored_words:
+  raiders: 14429
+  readers: 1875
+  recorders: 12997
+  remainders: 71324
+  reminders: 19834
+  renders: 15109
+  responders: 22617
+  riders: 7661
+  roughriders: 82963
+  rounders: 43990
+scored_words:
+  railroaders: 166867
+  rangefinders: 104424
+  reconsiders: 154635
+  rejoinders: 292807
+  reorders: 159159
+  retarders: 224848
+  ringleaders: 137111
+  rudders: 102653
+not_scored_words:
+- Randers

@@ -1,0 +1,32 @@
+---
+pattern: p_nd
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 22
+score: 1069513
+score_per_word: 76393
+hi_scored_words:
+  paperbound: 90735
+  parkland: 27722
+  pend: 55869
+  playground: 12282
+  pond: 5457
+  portend: 90938
+  pound: 3371
+  pretend: 6742
+  profound: 6172
+  purblind: 98133
+scored_words:
+  pastureland: 120790
+  penfriend: 216906
+  plafond: 217637
+  propound: 116759
+not_scored_words:
+- Poland
+- Pondoland
+- Portland
+- Pound
+- perpend
+- prebend
+- prescind
+- propend

@@ -1,0 +1,32 @@
+---
+pattern: s_ore
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 22
+score: 741546
+score_per_word: 46346
+hi_scored_words:
+  sagamore: 73687
+  score: 1492
+  seashore: 27813
+  semaphore: 36381
+  shore: 2821
+  signore: 55433
+  snore: 38198
+  sophomore: 18366
+  sore: 6937
+  spore: 33989
+  store: 705
+  superstore: 23468
+  swore: 22788
+  sycamore: 25345
+scored_words:
+  smoothbore: 255167
+  stevedore: 118956
+not_scored_words:
+- Salvatore
+- Singapore
+- siphonophore
+- spermatophore
+- splore
+- sporophore

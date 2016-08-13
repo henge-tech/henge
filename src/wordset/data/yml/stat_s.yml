@@ -1,0 +1,34 @@
+---
+pattern: stat_s
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 24
+score: 1167117
+score_per_word: 64839
+hi_scored_words:
+  stateless: 39881
+  statements: 2262
+  staterooms: 72812
+  states: 234
+  statics: 49300
+  stationers: 66225
+  stations: 2970
+  statisticians: 49286
+  statistics: 3297
+  stats: 7400
+  statues: 10865
+  statuettes: 88276
+  status: 921
+  statuses: 55606
+  statutes: 6853
+scored_words:
+  statelessness: 193056
+  stateliness: 239714
+  stators: 278159
+not_scored_words:
+- Statehouses
+- States
+- Statius
+- statehouses
+- stationmasters
+- statures

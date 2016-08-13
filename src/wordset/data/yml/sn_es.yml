@@ -1,0 +1,29 @@
+---
+pattern: sn_es
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 19
+score: 1480074
+score_per_word: 98671
+hi_scored_words:
+  snakes: 10070
+  snares: 41583
+  snatches: 41632
+  sneezes: 78197
+  sniffles: 76321
+  snipes: 49731
+  snowflakes: 42749
+  snowmobiles: 48475
+  snowshoes: 50398
+  snuggles: 84494
+scored_words:
+  snakebites: 225358
+  snitches: 137519
+  snoozes: 305486
+  snores: 100816
+  snuffles: 187245
+not_scored_words:
+- snaffles
+- snowberries
+- snuffboxes
+- snuggeries

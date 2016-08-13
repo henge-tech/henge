@@ -1,0 +1,75 @@
+---
+pattern: sens_
+hi_scored_words_count: 28
+scored_words_count: 18
+total_words: 65
+score: 4159873
+score_per_word: 90432
+hi_scored_words:
+  sens: 24948
+  sensation: 7210
+  sensational: 17288
+  sensationalism: 77508
+  sensations: 15015
+  sense: 709
+  sensed: 23326
+  senseless: 27283
+  senses: 6009
+  sensibilities: 29571
+  sensibility: 21106
+  sensible: 6691
+  sensibly: 35716
+  sensing: 9893
+  sensitive: 2941
+  sensitively: 63288
+  sensitivities: 36594
+  sensitivity: 8837
+  sensitization: 46621
+  sensitized: 56330
+  sensitizing: 91619
+  sensor: 10020
+  sensorimotor: 78865
+  sensors: 6658
+  sensory: 15613
+  sensual: 13790
+  sensuality: 32480
+  sensuous: 29305
+scored_words:
+  sensate: 208273
+  sensationalist: 109213
+  sensationalistic: 188334
+  sensationalize: 253807
+  sensationalized: 161840
+  sensationally: 178535
+  senselessly: 192877
+  senselessness: 230894
+  sensillum: 300806
+  sensitiveness: 107337
+  sensitize: 102516
+  sensitizers: 222765
+  sensitizes: 232145
+  sensorium: 173997
+  sensualist: 141692
+  sensually: 132590
+  sensuously: 186892
+  sensuousness: 240126
+not_scored_words:
+- Sensurround
+- sensationalists
+- sensationalizes
+- sensationalizing
+- sensibleness
+- sensitives
+- sensitometer
+- sensitometers
+- sensoria
+- sensualism
+- sensualisms
+- sensualists
+- sensualize
+- sensualized
+- sensualizes
+- sensualizing
+- sensualness
+- sensualnesses
+- sensuosity

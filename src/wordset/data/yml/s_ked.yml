@@ -1,0 +1,66 @@
+---
+pattern: s_ked
+hi_scored_words_count: 23
+scored_words_count: 14
+total_words: 56
+score: 3526305
+score_per_word: 95305
+hi_scored_words:
+  sacked: 23432
+  shipwrecked: 56020
+  shocked: 6810
+  shrieked: 60340
+  sidetracked: 66609
+  smacked: 40982
+  smirked: 74288
+  smoked: 8449
+  sneaked: 60038
+  soaked: 16075
+  spanked: 23297
+  sparked: 20392
+  spiked: 28559
+  spooked: 64568
+  squeaked: 87396
+  stacked: 16412
+  staked: 41874
+  stalked: 39278
+  stocked: 17262
+  stoked: 37456
+  streaked: 47039
+  stroked: 34491
+  sucked: 11331
+scored_words:
+  shacked: 244722
+  shirked: 172163
+  shucked: 172508
+  skulked: 279358
+  skunked: 253840
+  slacked: 136960
+  slaked: 183195
+  slicked: 122654
+  smocked: 143808
+  snacked: 297986
+  snaked: 105250
+  socked: 123515
+  squawked: 235079
+  sulked: 172869
+not_scored_words:
+- screaked
+- sharked
+- shellacked
+- shellshocked
+- shuttlecocked
+- sicked
+- sidestroked
+- skyjacked
+- skylarked
+- sleeked
+- sleepwalked
+- snicked
+- spacewalked
+- specked
+- spellchecked
+- sunbaked
+- swacked
+- swanked
+- swaybacked

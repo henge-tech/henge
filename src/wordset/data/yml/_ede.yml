@@ -1,0 +1,38 @@
+---
+pattern: _ede
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 28
+score: 904653
+score_per_word: 53214
+hi_scored_words:
+  accede: 48237
+  cede: 46484
+  centipede: 49534
+  concede: 21265
+  impede: 23143
+  intercede: 55400
+  millipede: 91768
+  precede: 23962
+  recede: 43905
+  rede: 39932
+  secede: 58982
+  stampede: 24750
+  suede: 16550
+  supersede: 35648
+  swede: 33218
+scored_words:
+  brede: 113858
+  velocipede: 178017
+not_scored_words:
+- Bede
+- Ede
+- Enschede
+- Ganymede
+- Mede
+- Runnymede
+- Swede
+- Ultrasuede
+- antecede
+- glede
+- retrocede

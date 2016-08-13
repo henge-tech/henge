@@ -1,0 +1,66 @@
+---
+pattern: ro_y
+hi_scored_words_count: 20
+scored_words_count: 12
+total_words: 56
+score: 2952121
+score_per_word: 92253
+hi_scored_words:
+  roadway: 15313
+  robbery: 9926
+  robustly: 81267
+  rockabilly: 33671
+  rockaway: 41376
+  rocketry: 63120
+  rocky: 4090
+  romantically: 58593
+  rookery: 68403
+  roomy: 31352
+  rosary: 21830
+  rosemary: 13850
+  rosy: 18244
+  rotary: 14788
+  roughly: 5496
+  roundly: 72022
+  routinely: 14847
+  rowdy: 32308
+  royally: 64144
+  royalty: 5024
+scored_words:
+  roadworthy: 180396
+  robotically: 228467
+  rockery: 131971
+  roentgenology: 265758
+  roguery: 124004
+  roguishly: 248409
+  rollaway: 108417
+  rooky: 149949
+  ropeway: 218747
+  ropy: 251740
+  rotatory: 197673
+  rotundity: 176926
+not_scored_words:
+- Robby
+- Rocky
+- Roddenberry
+- Rodney
+- Romany
+- Romney
+- Ronny
+- Rooney
+- Rory
+- Rosemary
+- Roxy
+- Roy
+- roadability
+- roentgenotherapy
+- rogatory
+- roily
+- rollway
+- rosebay
+- rosily
+- rosiny
+- rottenly
+- rotundly
+- roundelay
+- rowdily

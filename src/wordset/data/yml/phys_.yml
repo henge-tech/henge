@@ -1,0 +1,54 @@
+---
+pattern: phys_
+hi_scored_words_count: 25
+scored_words_count: 3
+total_words: 44
+score: 1406143
+score_per_word: 50219
+hi_scored_words:
+  phys: 6666
+  physic: 58616
+  physical: 838
+  physicality: 73969
+  physically: 6108
+  physicals: 82136
+  physician: 2934
+  physicians: 4555
+  physicist: 22844
+  physicists: 27460
+  physicochemical: 72226
+  physics: 3981
+  physio: 48973
+  physiognomy: 67679
+  physiographic: 93242
+  physiologic: 38182
+  physiological: 10728
+  physiologically: 55814
+  physiologist: 63959
+  physiologists: 82701
+  physiology: 8642
+  physiotherapist: 56551
+  physiotherapists: 67883
+  physiotherapy: 30357
+  physique: 21217
+scored_words:
+  physicalism: 139926
+  physiography: 153822
+  physiques: 104134
+not_scored_words:
+- physicalisms
+- physicalities
+- physicked
+- physicking
+- physiognomic
+- physiognomical
+- physiognomically
+- physiognomies
+- physiographer
+- physiographical
+- physios
+- physiotherapeutic
+- physiotype
+- physiqued
+- physoclistous
+- physostomous

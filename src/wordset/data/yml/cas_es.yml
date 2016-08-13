@@ -1,0 +1,27 @@
+---
+pattern: cas_es
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 556861
+score_per_word: 61873
+hi_scored_words:
+  cascades: 25744
+  cases: 656
+  cashes: 90240
+  casseroles: 49963
+  cassettes: 18877
+  castes: 42761
+  castles: 17909
+  casualties: 12603
+scored_words:
+  castigates: 298108
+not_scored_words:
+- Cascades
+- Castries
+- caseates
+- cashboxes
+- casques
+- cassiterites
+- cassowaries
+- castrates

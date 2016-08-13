@@ -1,0 +1,29 @@
+---
+pattern: ass_t
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 19
+score: 550274
+score_per_word: 42328
+hi_scored_words:
+  assailant: 39648
+  assault: 4197
+  assent: 16520
+  assert: 8526
+  assessment: 5950
+  asset: 8644
+  assignment: 7164
+  assist: 2338
+  assistant: 2768
+  assortment: 14009
+  asst: 22011
+scored_words:
+  assimilationist: 223632
+  assort: 194867
+not_scored_words:
+- Assiut
+- assignat
+- assonant
+- assuagement
+- assumpsit
+- assurgent

@@ -1,0 +1,33 @@
+---
+pattern: c_il
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 23
+score: 1539113
+score_per_word: 96194
+hi_scored_words:
+  ceil: 55413
+  civil: 1224
+  cocktail: 13798
+  codicil: 82420
+  coil: 8424
+  cottontail: 67583
+  council: 1000
+  curtail: 36608
+scored_words:
+  cattail: 109036
+  cavil: 128300
+  charbroil: 206113
+  chervil: 103709
+  cinquefoil: 141819
+  contrail: 138436
+  corbeil: 136199
+  countervail: 309031
+not_scored_words:
+- Cecil
+- Clearasil
+- Conrail
+- Cyril
+- camail
+- coattail
+- counterfoil

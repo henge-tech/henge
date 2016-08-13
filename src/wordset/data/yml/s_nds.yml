@@ -1,0 +1,40 @@
+---
+pattern: s_nds
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 30
+score: 1991997
+score_per_word: 104841
+hi_scored_words:
+  sands: 9038
+  seconds: 2005
+  sends: 5148
+  shadowlands: 99189
+  sounds: 1561
+  spends: 11946
+  stands: 2150
+  stipends: 57087
+  strands: 17769
+  surrounds: 17279
+  suspends: 48884
+scored_words:
+  shorthands: 341593
+  showgrounds: 122881
+  sidebands: 150834
+  southlands: 177875
+  stagehands: 232955
+  subtends: 287822
+  superintends: 195993
+  sweatbands: 209988
+not_scored_words:
+- Shetlands
+- Symonds
+- sarabands
+- scablands
+- scends
+- scrublands
+- sleuthhounds
+- spellbinds
+- staghounds
+- subtrahends
+- swamplands

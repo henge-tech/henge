@@ -1,0 +1,32 @@
+---
+pattern: herb_
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 22
+score: 1250697
+score_per_word: 69483
+hi_scored_words:
+  herb: 8249
+  herbaceous: 35641
+  herbage: 74256
+  herbal: 10820
+  herbalism: 87209
+  herbalist: 56204
+  herbalists: 83167
+  herbals: 66692
+  herbarium: 35932
+  herbicide: 24623
+  herbicides: 24812
+  herbivore: 64909
+  herbivores: 58916
+  herbivorous: 77034
+  herbs: 11460
+  herby: 96309
+scored_words:
+  herbaria: 126241
+  herbicidal: 308223
+not_scored_words:
+- Herbart
+- Herbartian
+- Herbert
+- herbivorously

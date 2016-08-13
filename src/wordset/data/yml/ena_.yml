@@ -1,0 +1,42 @@
+---
+pattern: ena_
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 32
+score: 1413322
+score_per_word: 70666
+hi_scored_words:
+  enable: 2238
+  enabled: 3003
+  enabler: 46908
+  enablers: 66409
+  enables: 5009
+  enabling: 6968
+  enact: 19204
+  enacted: 14571
+  enacting: 29682
+  enactment: 16080
+  enactments: 48296
+  enacts: 56329
+  enamel: 15415
+  enameled: 59010
+  enamels: 69696
+  enamored: 49826
+scored_words:
+  enactor: 290321
+  enameling: 155978
+  enamelware: 147531
+  enate: 310848
+not_scored_words:
+- enallage
+- enameler
+- enamelers
+- enamelings
+- enamor
+- enamoring
+- enamors
+- enantiomorph
+- enantiomorphs
+- enarthroses
+- enarthrosis
+- enates

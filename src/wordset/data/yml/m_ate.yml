@@ -1,0 +1,78 @@
+---
+pattern: m_ate
+hi_scored_words_count: 22
+scored_words_count: 12
+total_words: 68
+score: 2932064
+score_per_word: 86237
+hi_scored_words:
+  magistrate: 12337
+  magnate: 42923
+  mandate: 9622
+  manipulate: 17727
+  marinate: 57634
+  masturbate: 20886
+  mate: 3659
+  mediate: 25304
+  medicate: 87335
+  meditate: 23743
+  methacrylate: 68750
+  methotrexate: 44752
+  microclimate: 92174
+  migrate: 18904
+  mitigate: 16047
+  moderate: 3779
+  modulate: 37247
+  motivate: 17974
+  multivariate: 25339
+  muriate: 72104
+  mutate: 59108
+  mutilate: 71381
+scored_words:
+  macerate: 106848
+  maleate: 101472
+  masticate: 111928
+  matriculate: 125018
+  menstruate: 157130
+  meprobamate: 185668
+  messmate: 208409
+  militate: 100578
+  misappropriate: 265635
+  miscalculate: 287991
+  misstate: 333106
+  molybdate: 119552
+not_scored_words:
+- Margate
+- Masbate
+- Merthiolate
+- machicolate
+- machinate
+- macroclimate
+- maculate
+- mammillate
+- mandarinate
+- mandibulate
+- manducate
+- manganate
+- marginate
+- marquisate
+- matriarchate
+- maturate
+- meliorate
+- mercurate
+- metaphosphate
+- metricate
+- metropolitanate
+- microencapsulate
+- micturate
+- misallocate
+- misdate
+- miseducate
+- misestimate
+- mismate
+- mistranslate
+- mithridate
+- mucronate
+- multifoliate
+- multiplicate
+- muricate

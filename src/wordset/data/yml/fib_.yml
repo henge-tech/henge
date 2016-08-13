@@ -1,0 +1,56 @@
+---
+pattern: fib_
+hi_scored_words_count: 15
+scored_words_count: 11
+total_words: 46
+score: 2418062
+score_per_word: 93002
+hi_scored_words:
+  fib: 37662
+  fiber: 7161
+  fiberboard: 98320
+  fiberglass: 19542
+  fibers: 12523
+  fibrillation: 32935
+  fibrils: 80088
+  fibrin: 46240
+  fibrinogen: 50038
+  fibroblast: 45898
+  fibroblasts: 32526
+  fibroid: 69155
+  fibrosis: 19492
+  fibrous: 26248
+  fibula: 66751
+scored_words:
+  fibber: 141161
+  fibbers: 208265
+  fibbing: 224242
+  fibered: 217375
+  fiberfill: 174694
+  fibril: 141157
+  fibrinolysis: 102422
+  fibroma: 107210
+  fibrotic: 130141
+  fibs: 108142
+  fibular: 218674
+not_scored_words:
+- Fiberglas
+- Fibonacci
+- fibbed
+- fibriform
+- fibrilla
+- fibrillate
+- fibrillated
+- fibrillates
+- fibrillating
+- fibrilliform
+- fibrinogens
+- fibrinolyses
+- fibrinolysin
+- fibrinolysins
+- fibrinous
+- fibroin
+- fibromata
+- fibrovascular
+- fibster
+- fibulae

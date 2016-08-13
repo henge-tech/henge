@@ -1,0 +1,23 @@
+---
+pattern: dist_d
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 615499
+score_per_word: 51291
+hi_scored_words:
+  distanced: 59979
+  distended: 61014
+  distilled: 18183
+  distinguished: 3818
+  distorted: 12818
+  distracted: 16240
+  distressed: 12945
+  distributed: 1958
+  distrusted: 74171
+  disturbed: 4935
+scored_words:
+  distempered: 123043
+  distend: 226395
+not_scored_words:
+- distrained

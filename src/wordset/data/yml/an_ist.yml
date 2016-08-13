@@ -1,0 +1,39 @@
+---
+pattern: an_ist
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 29
+score: 1328307
+score_per_word: 102177
+hi_scored_words:
+  anarchist: 22934
+  anesthesiologist: 64725
+  anesthetist: 90520
+  animist: 92513
+  annalist: 88364
+  antagonist: 18532
+  anthologist: 92861
+  anthropologist: 28843
+  antichrist: 30773
+scored_words:
+  anatomist: 100709
+  anticapitalist: 291997
+  anticommunist: 201377
+  antiterrorist: 204159
+not_scored_words:
+- Anabaptist
+- Anglicist
+- Anglocentrist
+- Antichrist
+- Antifederalist
+- anecdotalist
+- anecdotist
+- animalist
+- annexationist
+- antiabortionist
+- antifascist
+- antifeminist
+- antimonarchist
+- antinationalist
+- antipacifist
+- antivivisectionist

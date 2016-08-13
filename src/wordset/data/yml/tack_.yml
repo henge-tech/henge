@@ -1,0 +1,28 @@
+---
+pattern: tack_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 18
+score: 1661460
+score_per_word: 110764
+hi_scored_words:
+  tack: 13552
+  tacked: 38657
+  tacking: 57497
+  tackle: 7003
+  tackled: 26180
+  tackles: 23523
+  tackling: 22582
+  tacks: 40297
+  tacky: 30771
+scored_words:
+  tacker: 181262
+  tackers: 280812
+  tackiest: 323707
+  tackiness: 253602
+  tackler: 131303
+  tacklers: 230712
+not_scored_words:
+- tacket
+- tackier
+- tackily

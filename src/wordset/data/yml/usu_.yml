@@ -1,0 +1,29 @@
+---
+pattern: usu_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 19
+score: 1431989
+score_per_word: 95465
+hi_scored_words:
+  usu: 48388
+  usual: 2014
+  usually: 559
+  usurp: 50535
+  usurpation: 59345
+  usurped: 48412
+  usurper: 60840
+  usurping: 81176
+  usury: 45509
+scored_words:
+  usufruct: 107111
+  usurer: 171039
+  usurers: 240207
+  usurious: 165780
+  usurpers: 165511
+  usurps: 185563
+not_scored_words:
+- usualness
+- usualnesses
+- usuriously
+- usuriousness

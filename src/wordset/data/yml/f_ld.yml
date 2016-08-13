@@ -1,0 +1,24 @@
+---
+pattern: f_ld
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 14
+score: 593682
+score_per_word: 65964
+hi_scored_words:
+  field: 451
+  fivefold: 94575
+  fld: 65250
+  fold: 5199
+  foothold: 33046
+  foretold: 36201
+  fourfold: 63272
+  freehold: 26449
+scored_words:
+  fjeld: 269239
+not_scored_words:
+- Fairfield
+- Field
+- FitzGerald
+- Fitzgerald
+- Frauenfeld

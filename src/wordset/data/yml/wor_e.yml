@@ -1,0 +1,30 @@
+---
+pattern: wor_e
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 20
+score: 1004163
+score_per_word: 55786
+hi_scored_words:
+  wore: 6006
+  workable: 30517
+  workforce: 5208
+  workhorse: 49828
+  workhouse: 42692
+  workmanlike: 96521
+  workpiece: 58137
+  workplace: 8223
+  workspace: 21119
+  worldwide: 10700
+  wormhole: 46975
+  worrisome: 45506
+  worse: 2050
+  worthwhile: 10572
+scored_words:
+  workfare: 109365
+  workmate: 161986
+  workpeople: 124401
+  worktable: 174357
+not_scored_words:
+- Worcestershire
+- wordage

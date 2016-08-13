@@ -1,0 +1,35 @@
+---
+pattern: _eyed
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 25
+score: 1084249
+score_per_word: 77446
+hi_scored_words:
+  conveyed: 12161
+  disobeyed: 67656
+  eyed: 6332
+  hackneyed: 69229
+  honeyed: 99862
+  journeyed: 46839
+  keyed: 32859
+  obeyed: 20553
+  preyed: 81732
+  surveyed: 11035
+scored_words:
+  bogeyed: 194092
+  cockeyed: 122505
+  moneyed: 104112
+  volleyed: 215282
+not_scored_words:
+- blarneyed
+- jockeyed
+- monkeyed
+- moseyed
+- parleyed
+- phoneyed
+- popeyed
+- purveyed
+- resurveyed
+- unhackneyed
+- walleyed

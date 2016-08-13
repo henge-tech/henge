@@ -1,0 +1,34 @@
+---
+pattern: dr_n
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 24
+score: 1020556
+score_per_word: 68037
+hi_scored_words:
+  draconian: 40600
+  draftsman: 59359
+  dragon: 4916
+  dragoon: 35047
+  drain: 6734
+  dramatization: 69194
+  drawn: 2313
+  driven: 2368
+  drivetrain: 44960
+  drown: 14782
+  drunken: 10847
+scored_words:
+  draftsmen: 122749
+  dragoman: 139226
+  drayman: 278473
+  drumlin: 188988
+not_scored_words:
+- Draconian
+- Dravidian
+- Drayton
+- Dresden
+- Drin
+- Dristan
+- Dryden
+- draftswoman
+- draftswomen

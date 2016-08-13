@@ -1,0 +1,29 @@
+---
+pattern: _uled
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 19
+score: 572670
+score_per_word: 47722
+hi_scored_words:
+  fouled: 41294
+  hauled: 27445
+  mauled: 63748
+  overhauled: 50790
+  overruled: 38523
+  rescheduled: 31067
+  ridiculed: 38954
+  ruled: 5642
+  scheduled: 9835
+  souled: 94949
+  unscheduled: 43127
+scored_words:
+  nonscheduled: 127296
+not_scored_words:
+- befouled
+- capsuled
+- caterwauled
+- keelhauled
+- misruled
+- puled
+- vestibuled

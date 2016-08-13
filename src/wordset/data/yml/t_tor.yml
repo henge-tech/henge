@@ -1,0 +1,31 @@
+---
+pattern: t_tor
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 21
+score: 571932
+score_per_word: 51993
+hi_scored_words:
+  terminator: 19174
+  testator: 46889
+  thermistor: 73313
+  thyristor: 95506
+  tormentor: 64166
+  tractor: 11404
+  traitor: 18404
+  transistor: 20715
+  translator: 9641
+  tutor: 8048
+scored_words:
+  tabulator: 204672
+not_scored_words:
+- telemotor
+- tergiversator
+- thermomotor
+- totalizator
+- traditor
+- trafficator
+- transactor
+- transliterator
+- transmigrator
+- trisector

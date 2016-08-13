@@ -1,0 +1,58 @@
+---
+pattern: _oxes
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 48
+score: 2389089
+score_per_word: 132727
+hi_scored_words:
+  boxes: 2901
+  foxes: 20700
+  gearboxes: 66820
+  inboxes: 98213
+  jukeboxes: 63881
+  lunchboxes: 97400
+  mailboxes: 31225
+  paradoxes: 42783
+scored_words:
+  boomboxes: 166967
+  coxes: 193981
+  equinoxes: 119370
+  horseboxes: 264577
+  letterboxes: 143116
+  matchboxes: 235996
+  moneyboxes: 319325
+  pillboxes: 225323
+  sandboxes: 183254
+  toolboxes: 113257
+not_scored_words:
+- Foxes
+- Xeroxes
+- bandboxes
+- breadboxes
+- cashboxes
+- chatterboxes
+- detoxes
+- fireboxes
+- flummoxes
+- fuseboxes
+- hatboxes
+- hotboxes
+- iceboxes
+- lockboxes
+- lummoxes
+- outboxes
+- outfoxes
+- paintboxes
+- postboxes
+- poxes
+- rattleboxes
+- saltboxes
+- shadowboxes
+- snuffboxes
+- soapboxes
+- squeezeboxes
+- strongboxes
+- sweatboxes
+- tinderboxes
+- xeroxes

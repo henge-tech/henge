@@ -1,0 +1,36 @@
+---
+pattern: pe_ry
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 26
+score: 1436805
+score_per_word: 84517
+hi_scored_words:
+  peasantry: 50122
+  pecuniary: 30064
+  pedantry: 74640
+  penitentiary: 31207
+  peppery: 84636
+  peremptory: 49189
+  perfumery: 73722
+  perfunctory: 61343
+  periphery: 27633
+  perjury: 24300
+  perry: 9127
+scored_words:
+  peccary: 135710
+  peltry: 165593
+  pensionary: 119891
+  penury: 103483
+  persecutory: 212817
+  pessary: 183328
+not_scored_words:
+- Peary
+- Perry
+- pellitory
+- perambulatory
+- perlocutionary
+- perspiratory
+- petitionary
+- petrochemistry
+- pettifoggery

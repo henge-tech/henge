@@ -1,0 +1,29 @@
+---
+pattern: phy_y
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 19
+score: 752598
+score_per_word: 75259
+hi_scored_words:
+  phylogeny: 34305
+  physicality: 73969
+  physically: 6108
+  physiognomy: 67679
+  physiologically: 55814
+  physiology: 8642
+  physiotherapy: 30357
+  phytopathology: 99033
+scored_words:
+  phycology: 222869
+  physiography: 153822
+not_scored_words:
+- phylactery
+- phyllotaxy
+- phylogenically
+- physiognomically
+- phytobiology
+- phytogeography
+- phytography
+- phytology
+- phytosociology

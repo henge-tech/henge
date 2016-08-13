@@ -1,0 +1,30 @@
+---
+pattern: o_ists
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1711660
+score_per_word: 131666
+hi_scored_words:
+  oncologists: 67571
+  ophthalmologists: 66731
+  opportunists: 86527
+  optimists: 68437
+  optometrists: 54319
+  organists: 89646
+  ornithologists: 81793
+  orthodontists: 92725
+scored_words:
+  obstructionists: 299759
+  occultists: 163779
+  orientalists: 230135
+  orthopedists: 214984
+  otolaryngologists: 195254
+not_scored_words:
+- Orleanists
+- oboists
+- obscurantists
+- oculists
+- oenophilists
+- onanists
+- otorhinolaryngologists

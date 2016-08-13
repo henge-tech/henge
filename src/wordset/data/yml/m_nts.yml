@@ -1,0 +1,40 @@
+---
+pattern: m_nts
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 30
+score: 1449243
+score_per_word: 72462
+hi_scored_words:
+  managements: 70002
+  measurements: 5857
+  mendicants: 94913
+  merchants: 4043
+  migrants: 18690
+  militants: 18174
+  mints: 37749
+  miscreants: 87255
+  misprints: 81396
+  misstatements: 89945
+  moments: 2843
+  monuments: 9556
+  mounts: 11437
+  movements: 3437
+  mutants: 15995
+scored_words:
+  maidservants: 282385
+  malcontents: 118755
+  midpoints: 136771
+  misjudgments: 255502
+  misrepresents: 104538
+not_scored_words:
+- malfeasants
+- malnourishments
+- manhunts
+- mediants
+- menservants
+- mezzotints
+- ministrants
+- miscounts
+- mordants
+- muniments

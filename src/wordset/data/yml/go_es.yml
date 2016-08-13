@@ -1,0 +1,39 @@
+---
+pattern: go_es
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 29
+score: 2420254
+score_per_word: 127381
+hi_scored_words:
+  goalies: 52212
+  gobbles: 90917
+  goddesses: 27922
+  goes: 869
+  goggles: 18410
+  goodbyes: 51658
+  goodies: 11910
+  googles: 63421
+  gorges: 36299
+  gouges: 95404
+scored_words:
+  goatees: 299015
+  gobies: 133786
+  goldeneyes: 317481
+  goldfinches: 174875
+  gooseberries: 106803
+  gooses: 267001
+  gores: 106508
+  gourdes: 324406
+  governesses: 241357
+not_scored_words:
+- Gonzales
+- goethites
+- goldfishes
+- goldmines
+- goldstones
+- gollies
+- googlies
+- gormandizes
+- gouaches
+- goulashes

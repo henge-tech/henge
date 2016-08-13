@@ -1,0 +1,24 @@
+---
+pattern: ad_ive
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 564230
+score_per_word: 56423
+hi_scored_words:
+  adaptive: 19264
+  addictive: 17366
+  additive: 18886
+  adhesive: 16168
+  adjective: 16468
+  adjunctive: 82448
+  administrative: 3649
+  adoptive: 26461
+scored_words:
+  adjudicative: 125647
+  adsorptive: 237873
+not_scored_words:
+- adessive
+- admissive
+- adumbrative
+- adversative

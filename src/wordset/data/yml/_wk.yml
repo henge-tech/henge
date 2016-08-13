@@ -1,0 +1,20 @@
+---
+pattern: _wk
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 590020
+score_per_word: 65557
+hi_scored_words:
+  gawk: 48368
+  goshawk: 68120
+  hawk: 7145
+  nighthawk: 55282
+  sparrowhawk: 76271
+  squawk: 59192
+  tomahawk: 27009
+  wk: 16288
+scored_words:
+  gowk: 232345
+not_scored_words:
+- Mohawk

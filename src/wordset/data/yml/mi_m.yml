@@ -1,0 +1,43 @@
+---
+pattern: mi_m
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 33
+score: 1331613
+score_per_word: 78330
+hi_scored_words:
+  microcosm: 40192
+  microfilm: 24032
+  microgram: 80334
+  microorganism: 67764
+  midstream: 79607
+  midterm: 25337
+  militarism: 37605
+  millennium: 6289
+  milligram: 51997
+  mim: 34121
+  minim: 65587
+  minimalism: 54517
+  minimum: 3384
+scored_words:
+  millennialism: 236054
+  millstream: 167951
+  minium: 164991
+  misinform: 191851
+not_scored_words:
+- Microscopium
+- Miriam
+- Mirzam
+- Mithraism
+- microprogram
+- microseism
+- microsporangium
+- milium
+- milldam
+- millenarianism
+- minicam
+- minyanim
+- miracidium
+- misdeem
+- misesteem
+- mithridatism

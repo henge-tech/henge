@@ -1,0 +1,80 @@
+---
+pattern: _tize
+hi_scored_words_count: 10
+scored_words_count: 14
+total_words: 70
+score: 3161125
+score_per_word: 131713
+hi_scored_words:
+  amortize: 87638
+  baptize: 51937
+  deputize: 92516
+  digitize: 65980
+  dramatize: 96296
+  hypnotize: 38644
+  monetize: 80277
+  prioritize: 26123
+  privatize: 56297
+  sanitize: 76839
+scored_words:
+  acclimatize: 173856
+  alphabetize: 153374
+  anesthetize: 256877
+  concretize: 323125
+  democratize: 125960
+  desensitize: 172929
+  magnetize: 143535
+  parasitize: 276949
+  proselytize: 103176
+  quantize: 155063
+  sensitize: 102516
+  stigmatize: 105862
+  systematize: 152827
+  traumatize: 242529
+not_scored_words:
+- Sovietize
+- absolutize
+- achromatize
+- anagrammatize
+- anathematize
+- apostatize
+- aromatize
+- automatize
+- azotize
+- bureaucratize
+- cinematize
+- concertize
+- dehypnotize
+- demagnetize
+- demonetize
+- diazotize
+- dogmatize
+- egotize
+- emblematize
+- epigrammatize
+- expertize
+- graphitize
+- hypersensitize
+- hyposensitize
+- hypostatize
+- legitimatize
+- mediatize
+- melodramatize
+- misalphabetize
+- narcotize
+- overdramatize
+- pectize
+- pelletize
+- peptize
+- phosphatize
+- photosensitize
+- poetize
+- rebaptize
+- remonetize
+- ritualistize
+- robotize
+- schematize
+- sovietize
+- sulfatize
+- syncretize
+- unitize

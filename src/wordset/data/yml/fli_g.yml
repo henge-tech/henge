@@ -1,0 +1,20 @@
+---
+pattern: fli_g
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 378602
+score_per_word: 47325
+hi_scored_words:
+  flickering: 27458
+  flicking: 57886
+  flinching: 91689
+  fling: 20830
+  flinging: 55584
+  flipping: 21916
+  flirting: 23007
+  flitting: 80232
+scored_words: {}
+not_scored_words:
+- flimflamming
+- flittering

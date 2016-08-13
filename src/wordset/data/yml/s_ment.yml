@@ -1,0 +1,26 @@
+---
+pattern: s_ment
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 16
+score: 639454
+score_per_word: 53287
+hi_scored_words:
+  sacrament: 20054
+  secondment: 81594
+  sediment: 13003
+  segment: 8332
+  sentiment: 8205
+  settlement: 2687
+  shipment: 11655
+  statement: 759
+  supplement: 6141
+  sustainment: 70927
+scored_words:
+  securement: 127329
+  subsegment: 288768
+not_scored_words:
+- Sacrament
+- signalment
+- subbasement
+- subdepartment

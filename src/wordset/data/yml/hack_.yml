@@ -1,0 +1,39 @@
+---
+pattern: hack_
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 29
+score: 1975240
+score_per_word: 103960
+hi_scored_words:
+  hack: 8138
+  hackberry: 80870
+  hacked: 15629
+  hacker: 9824
+  hackers: 11835
+  hacking: 12990
+  hackle: 81109
+  hackles: 84995
+  hackman: 50211
+  hackney: 23882
+  hackneyed: 69229
+  hacks: 19428
+  hacksaw: 59050
+scored_words:
+  hackable: 187652
+  hackamore: 131479
+  hackamores: 311969
+  hackery: 212408
+  hackish: 285305
+  hacksaws: 319237
+not_scored_words:
+- Hackney
+- hackberries
+- hackbut
+- hackbuts
+- hackie
+- hackneying
+- hackneys
+- hacktivist
+- hacktivists
+- hackwork

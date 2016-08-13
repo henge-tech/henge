@@ -1,0 +1,36 @@
+---
+pattern: port_s
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 26
+score: 1408865
+score_per_word: 78270
+hi_scored_words:
+  portables: 49203
+  portals: 13486
+  portcullis: 46449
+  portentous: 79665
+  portents: 95058
+  porters: 27837
+  portfolios: 20153
+  portions: 4141
+  portraits: 7485
+  portrayals: 54178
+  portrays: 31205
+  ports: 4021
+scored_words:
+  portages: 173782
+  portends: 105626
+  portholes: 102527
+  porticoes: 248040
+  portieres: 214341
+  portmanteaus: 131668
+not_scored_words:
+- portableness
+- portcullises
+- portentousness
+- porterages
+- porterhouses
+- portières
+- portliness
+- portraitists

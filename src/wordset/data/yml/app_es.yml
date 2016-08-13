@@ -1,0 +1,43 @@
+---
+pattern: app_es
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 33
+score: 868328
+score_per_word: 45701
+hi_scored_words:
+  apparatuses: 85898
+  appearances: 7217
+  appendages: 48574
+  appendices: 21248
+  appendixes: 57465
+  appetites: 39418
+  apples: 9086
+  appliances: 6605
+  applies: 3356
+  appointees: 39769
+  appreciates: 27446
+  apprentices: 26050
+  approaches: 3672
+  appropriates: 77374
+  approves: 15865
+  approximates: 48463
+  appurtenances: 56851
+scored_words:
+  appliques: 102116
+  appraises: 191855
+not_scored_words:
+- appanages
+- appeases
+- appellatives
+- appendectomies
+- appendicectomies
+- appendicles
+- apperceives
+- appetences
+- appetencies
+- apposes
+- appositives
+- appraisees
+- apprises
+- approbates

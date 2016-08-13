@@ -1,0 +1,82 @@
+---
+pattern: n_st
+hi_scored_words_count: 22
+scored_words_count: 10
+total_words: 72
+score: 2652239
+score_per_word: 82882
+hi_scored_words:
+  narcissist: 50591
+  narrowest: 63171
+  nastiest: 59319
+  nationalist: 17690
+  naturalist: 17404
+  naturist: 45241
+  nearest: 3354
+  nest: 5566
+  neurologist: 39685
+  newest: 6646
+  newscast: 36692
+  nicest: 20668
+  nihilist: 73832
+  noblest: 39231
+  nonconformist: 71631
+  northeast: 6137
+  northernmost: 48301
+  northwest: 4809
+  novelist: 13589
+  nudest: 96630
+  nudist: 18768
+  nutritionist: 42670
+scored_words:
+  nativist: 189673
+  naughtiest: 171899
+  neatest: 107804
+  neediest: 116774
+  neonatologist: 277000
+  neuroblast: 276137
+  neuroscientist: 105316
+  noisiest: 160108
+  numerologist: 305111
+  numismatist: 160792
+not_scored_words:
+- Nernst
+- Nobelist
+- Nonconformist
+- Northeast
+- Northwest
+- naffest
+- naivest
+- nappiest
+- nattiest
+- necrologist
+- necrophilist
+- negativist
+- neoclassicist
+- neocolonialist
+- neologist
+- nepotist
+- nerdiest
+- nerviest
+- nethermost
+- neutralist
+- newsiest
+- niftiest
+- nighest
+- nimblest
+- nippiest
+- noctambulist
+- nominalist
+- noncommunist
+- nonfascist
+- noninterventionist
+- nonscientist
+- nonsexist
+- nonspecialist
+- nosiest
+- nosologist
+- nostalgist
+- nubbiest
+- nubbliest
+- numbest
+- nuttiest

@@ -1,0 +1,38 @@
+---
+pattern: dipl_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 28
+score: 1551526
+score_per_word: 96970
+hi_scored_words:
+  dipl: 88709
+  diploid: 47348
+  diploma: 11119
+  diplomacy: 11202
+  diplomas: 31526
+  diplomat: 19056
+  diplomate: 94654
+  diplomatic: 7671
+  diplomatically: 78768
+  diplomatists: 96974
+  diplomats: 23974
+scored_words:
+  diplexers: 295906
+  diplodocus: 211770
+  diploids: 247077
+  diplomatist: 160339
+  diplopia: 125433
+not_scored_words:
+- diplegia
+- diplex
+- diploblastic
+- diplocardiac
+- diplococci
+- diplococcus
+- diplodocuses
+- diplomata
+- diplomatics
+- diplopod
+- diplosis
+- diplostemonous

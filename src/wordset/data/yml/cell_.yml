@@ -1,0 +1,48 @@
+---
+pattern: cell_
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 38
+score: 1995953
+score_per_word: 79838
+hi_scored_words:
+  cell: 1528
+  cella: 72422
+  cellar: 9362
+  cellars: 25124
+  celled: 64954
+  cellist: 54544
+  cello: 16090
+  cellophane: 47594
+  cellos: 77577
+  cellphone: 13757
+  cellphones: 28219
+  cells: 2397
+  cellular: 8386
+  cellulite: 32365
+  cellulitis: 76304
+  celluloid: 42997
+  cellulose: 25885
+scored_words:
+  cellblock: 149613
+  cellists: 158029
+  cellmate: 154923
+  cellobiose: 257875
+  cellularity: 192918
+  cellulars: 224481
+  cellule: 157079
+  cellulosic: 101530
+not_scored_words:
+- Cellini
+- Celluloid
+- cellarage
+- cellarages
+- cellarer
+- cellarette
+- cellblocks
+- cellmates
+- celloidin
+- cellularities
+- cellulitises
+- cellulosics
+- cellulous

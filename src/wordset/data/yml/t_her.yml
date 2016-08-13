@@ -1,0 +1,29 @@
+---
+pattern: t_her
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 644899
+score_per_word: 58627
+hi_scored_words:
+  teacher: 1541
+  tether: 38129
+  thatcher: 21599
+  thither: 27098
+  thrasher: 44083
+  thresher: 65944
+  together: 350
+  tougher: 21805
+scored_words:
+  tother: 176009
+  trencher: 103984
+  typographer: 144357
+not_scored_words:
+- Thatcher
+- telegrapher
+- telpher
+- theosopher
+- thorougher
+- tither
+- topographer
+- truther

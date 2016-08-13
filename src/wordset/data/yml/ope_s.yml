@@ -1,0 +1,24 @@
+---
+pattern: ope_s
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 14
+score: 439185
+score_per_word: 36598
+hi_scored_words:
+  openers: 28064
+  openings: 8747
+  openness: 16780
+  opens: 3680
+  operands: 42386
+  operas: 23555
+  operates: 7795
+  operations: 1434
+  operatives: 21728
+  operators: 6831
+  opes: 97432
+scored_words:
+  operettas: 180753
+not_scored_words:
+- openhandedness
+- operculums

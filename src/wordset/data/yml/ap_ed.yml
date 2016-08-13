@@ -1,0 +1,43 @@
+---
+pattern: ap_ed
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 33
+score: 1659719
+score_per_word: 66388
+hi_scored_words:
+  apologized: 28614
+  appalled: 24738
+  appealed: 10239
+  appeared: 1851
+  appeased: 65244
+  appended: 24248
+  applauded: 29591
+  applied: 1371
+  appointed: 2184
+  apportioned: 43273
+  appraised: 29394
+  appreciated: 5653
+  apprehended: 36268
+  apprenticed: 71416
+  apprised: 55148
+  approached: 5733
+  appropriated: 14922
+  approved: 1675
+  approximated: 37914
+scored_words:
+  aped: 265384
+  appertained: 203133
+  appliqued: 138678
+  apposed: 143739
+  appressed: 234479
+  aproned: 184830
+not_scored_words:
+- Appleseed
+- aphorized
+- apostatized
+- apostrophized
+- apotheosized
+- appareled
+- apperceived
+- approbated

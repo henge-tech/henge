@@ -1,0 +1,44 @@
+---
+pattern: _ogue
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 34
+score: 1579047
+score_per_word: 68654
+hi_scored_words:
+  analogue: 19157
+  brogue: 76376
+  catalogue: 4950
+  decalogue: 99121
+  demagogue: 62255
+  dialogue: 4725
+  drogue: 83760
+  eclogue: 65759
+  epilogue: 29132
+  homologue: 56407
+  ideologue: 86918
+  monologue: 28637
+  pedagogue: 74727
+  prologue: 21747
+  rogue: 11845
+  synagogue: 17704
+  travelogue: 44689
+  vogue: 13159
+scored_words:
+  apologue: 124379
+  duologue: 188847
+  emmenagogue: 201188
+  pirogue: 157547
+  prorogue: 106018
+not_scored_words:
+- Decalogue
+- Hogue
+- Vogue
+- collogue
+- disembogue
+- galactagogue
+- grammalogue
+- mystagogue
+- pishogue
+- sialagogue
+- theologue

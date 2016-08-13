@@ -1,0 +1,33 @@
+---
+pattern: re_k
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 23
+score: 1263444
+score_per_word: 84229
+hi_scored_words:
+  realpolitik: 85599
+  recheck: 69081
+  reck: 79384
+  redneck: 21322
+  reek: 48738
+  remark: 5445
+  repack: 72229
+  restock: 51225
+  rethink: 24493
+  rework: 32920
+scored_words:
+  rebook: 218217
+  redbrick: 128973
+  redshank: 116154
+  relink: 162376
+  retook: 147288
+not_scored_words:
+- Realpolitik
+- Reebok
+- Reichsmark
+- Reykjavik
+- recook
+- reedbuck
+- reembark
+- restack

@@ -1,0 +1,50 @@
+---
+pattern: _thic
+hi_scored_words_count: 18
+scored_words_count: 2
+total_words: 40
+score: 1299442
+score_per_word: 64972
+hi_scored_words:
+  allopathic: 92498
+  benthic: 34157
+  empathic: 69777
+  ethic: 25900
+  gothic: 6602
+  homeopathic: 26413
+  idiopathic: 34873
+  lithic: 74846
+  megalithic: 56588
+  monolithic: 28284
+  mythic: 35853
+  naturopathic: 63118
+  neolithic: 34841
+  osteopathic: 38452
+  paleolithic: 52205
+  psychopathic: 60120
+  sociopathic: 90460
+  telepathic: 48023
+scored_words:
+  allelopathic: 252442
+  pathic: 173990
+not_scored_words:
+- Eolithic
+- Gothic
+- Megalithic
+- Mesolithic
+- Neolithic
+- Paleolithic
+- anacoluthic
+- anorthic
+- bismuthic
+- eolithic
+- gnathic
+- helminthic
+- hydropathic
+- microlithic
+- ornithic
+- photobathic
+- polymathic
+- protolithic
+- spathic
+- xanthic

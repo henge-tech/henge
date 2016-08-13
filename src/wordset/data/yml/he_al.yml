@@ -1,0 +1,39 @@
+---
+pattern: he_al
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 29
+score: 1603010
+score_per_word: 100188
+hi_scored_words:
+  heal: 8136
+  helical: 30843
+  hematological: 94428
+  hemispherical: 85298
+  herbal: 10820
+  heretical: 36584
+  heterosexual: 20936
+  hexadecimal: 34225
+  hexagonal: 34840
+scored_words:
+  heliacal: 152640
+  hemorrhoidal: 207114
+  heptagonal: 137808
+  herbicidal: 308223
+  hermeneutical: 111012
+  heroical: 199373
+  herpetological: 130730
+not_scored_words:
+- Hebraistical
+- hebdomadal
+- heliocentrical
+- hemal
+- hematocryal
+- hematothermal
+- hemihedral
+- hermaphroditical
+- hermetical
+- hernial
+- heterocercal
+- heterolecithal
+- hexametrical

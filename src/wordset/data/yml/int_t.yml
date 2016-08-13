@@ -1,0 +1,68 @@
+---
+pattern: int_t
+hi_scored_words_count: 28
+scored_words_count: 11
+total_words: 58
+score: 3170559
+score_per_word: 81296
+hi_scored_words:
+  intact: 9590
+  integument: 98992
+  intellect: 10763
+  intelligent: 3099
+  intent: 3916
+  interact: 9314
+  intercept: 15484
+  interconnect: 26570
+  interdependent: 33128
+  interdict: 70436
+  interest: 392
+  interject: 94698
+  interment: 31021
+  intermittent: 14758
+  internat: 53470
+  internationalist: 62384
+  internet: 2468
+  internist: 78806
+  internment: 36031
+  interpret: 7552
+  interrupt: 8314
+  intersect: 27844
+  interventionist: 73689
+  intolerant: 26852
+  intranet: 14742
+  intransigent: 95673
+  introvert: 61752
+  intuit: 36427
+scored_words:
+  integrationist: 235871
+  intendant: 133126
+  intendment: 189722
+  intensest: 164162
+  intercurrent: 231781
+  intercut: 150747
+  intermit: 321917
+  intoxicant: 153500
+  introit: 239140
+  introspect: 126473
+  intumescent: 215955
+not_scored_words:
+- Intelsat
+- Internet
+- integrant
+- interfluent
+- interjacent
+- interknit
+- interlacement
+- internement
+- interpellant
+- intertwinement
+- intertwist
+- intervenient
+- intimist
+- intort
+- intrigant
+- introject
+- intromit
+- intuitionist
+- intussuscept

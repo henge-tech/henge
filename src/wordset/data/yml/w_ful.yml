@@ -1,0 +1,25 @@
+---
+pattern: w_ful
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 15
+score: 541672
+score_per_word: 45139
+hi_scored_words:
+  wasteful: 26643
+  watchful: 24513
+  wilful: 40382
+  willful: 31600
+  wishful: 33131
+  wistful: 42163
+  woeful: 51136
+  wonderful: 1430
+  worshipful: 64602
+  wrathful: 75886
+  wrongful: 22537
+scored_words:
+  wakeful: 127649
+not_scored_words:
+- wailful
+- weariful
+- wreckful

@@ -1,0 +1,45 @@
+---
+pattern: _eam
+hi_scored_words_count: 24
+scored_words_count: 5
+total_words: 35
+score: 1665984
+score_per_word: 57447
+hi_scored_words:
+  airstream: 68296
+  beam: 4519
+  bloodstream: 31257
+  bream: 41665
+  buttercream: 84514
+  cream: 2595
+  daydream: 33426
+  downstream: 19763
+  dream: 1284
+  gleam: 29083
+  hornbeam: 94600
+  inseam: 49078
+  mainstream: 8543
+  midstream: 79607
+  moonbeam: 77710
+  ream: 40130
+  scream: 6846
+  seam: 18659
+  slipstream: 60142
+  steam: 3512
+  stream: 1498
+  sunbeam: 25050
+  team: 1644
+  upstream: 17642
+scored_words:
+  abeam: 190802
+  crossbeam: 162985
+  fleam: 206202
+  millstream: 167951
+  whitebeam: 136981
+not_scored_words:
+- EAM
+- Sunbeam
+- agleam
+- headstream
+- suncream
+- unseam

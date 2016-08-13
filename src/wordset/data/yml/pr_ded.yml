@@ -1,0 +1,22 @@
+---
+pattern: pr_ded
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 12
+score: 742814
+score_per_word: 61901
+hi_scored_words:
+  preceded: 11269
+  precluded: 34658
+  prerecorded: 70859
+  presided: 25610
+  pretended: 18679
+  prided: 74666
+  proceeded: 7601
+  prodded: 68872
+  propounded: 69545
+  protruded: 96849
+  provided: 531
+scored_words:
+  promenaded: 263675
+not_scored_words: []

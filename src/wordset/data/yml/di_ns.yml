@@ -1,0 +1,78 @@
+---
+pattern: di_ns
+hi_scored_words_count: 21
+scored_words_count: 19
+total_words: 68
+score: 4065857
+score_per_word: 101646
+hi_scored_words:
+  dickens: 12366
+  dietitians: 66716
+  digressions: 80787
+  dilutions: 58652
+  dimensions: 3995
+  dioxins: 59908
+  directions: 2004
+  discussions: 7639
+  dislocations: 46104
+  dispensations: 97510
+  dispersions: 75596
+  dispositions: 30430
+  disruptions: 34107
+  dissections: 89231
+  dissertations: 32024
+  distinctions: 21549
+  distortions: 31544
+  distractions: 24880
+  distributions: 16056
+  diversions: 27417
+  divisions: 4470
+scored_words:
+  diagnosticians: 289247
+  dicotyledons: 199261
+  dictations: 207183
+  dieticians: 105841
+  differentiations: 154376
+  digestions: 281596
+  dins: 171985
+  discerns: 130155
+  disciplinarians: 209292
+  discolorations: 196492
+  disconnections: 122686
+  disdains: 171556
+  disjunctions: 152354
+  disowns: 257984
+  disputations: 122994
+  disqualifications: 113952
+  disquisitions: 103648
+  dissensions: 117497
+  divans: 134773
+not_scored_words:
+- Dickens
+- Dilantins
+- dialecticians
+- diapasons
+- diencephalons
+- digitalins
+- digitizations
+- diminutions
+- diocesans
+- diphenylhydantoins
+- dipterans
+- disburdens
+- disconcertions
+- discontinuations
+- disheartens
+- dishpans
+- disillusions
+- disjoins
+- disproportions
+- dissimilations
+- distensions
+- distentions
+- distillations
+- distrains
+- divagations
+- divarications
+- diwans
+- dizens

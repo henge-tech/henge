@@ -1,0 +1,20 @@
+---
+pattern: _pass
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 436415
+score_per_word: 48490
+hi_scored_words:
+  bypass: 12748
+  compass: 7291
+  encompass: 20542
+  overpass: 44256
+  pass: 774
+  surpass: 22421
+  trespass: 24232
+  underpass: 66873
+scored_words:
+  repass: 237278
+not_scored_words:
+- gyrocompass

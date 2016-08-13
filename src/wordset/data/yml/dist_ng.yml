@@ -1,0 +1,21 @@
+---
+pattern: dist_ng
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 724957
+score_per_word: 72495
+hi_scored_words:
+  distancing: 63030
+  distilling: 60224
+  distinguishing: 15470
+  distorting: 44303
+  distracting: 26066
+  distressing: 26920
+  distributing: 7942
+  disturbing: 8570
+scored_words:
+  distending: 289995
+  distrusting: 182437
+not_scored_words:
+- distraining

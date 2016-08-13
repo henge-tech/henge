@@ -1,0 +1,37 @@
+---
+pattern: sm_er
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 27
+score: 1472100
+score_per_word: 105150
+hi_scored_words:
+  smaller: 1967
+  smallholder: 72957
+  smarter: 16752
+  smasher: 85307
+  smelter: 45874
+  smiler: 90628
+  smoker: 19452
+  smoother: 23406
+  smother: 27767
+  smuggler: 38978
+scored_words:
+  smacker: 286665
+  smokejumper: 329461
+  smolder: 147311
+  smoulder: 285575
+not_scored_words:
+- smalltimer
+- smarmier
+- smatter
+- smearier
+- smellier
+- smirker
+- smiter
+- smoggier
+- smokechaser
+- smokier
+- smudgier
+- smugger
+- smuttier

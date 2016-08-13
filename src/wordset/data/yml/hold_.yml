@@ -1,0 +1,31 @@
+---
+pattern: hold_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 21
+score: 1386100
+score_per_word: 81535
+hi_scored_words:
+  hold: 602
+  holdall: 85446
+  holdalls: 93781
+  holden: 13900
+  holder: 3385
+  holders: 7284
+  holding: 1657
+  holdings: 8187
+  holdover: 92781
+  holds: 2528
+  holdup: 76578
+scored_words:
+  holdback: 167352
+  holdfast: 146311
+  holdout: 104887
+  holdouts: 132738
+  holdovers: 213690
+  holdups: 234993
+not_scored_words:
+- Holden
+- Holder
+- holdable
+- holdfasts

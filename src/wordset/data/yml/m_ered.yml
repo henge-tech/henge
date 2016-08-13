@@ -1,0 +1,30 @@
+---
+pattern: m_ered
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 933142
+score_per_word: 71780
+hi_scored_words:
+  maneuvered: 78042
+  mannered: 44045
+  mastered: 17031
+  mattered: 27906
+  metered: 41301
+  ministered: 61018
+  multilayered: 79890
+  murdered: 7458
+  mustered: 29322
+  muttered: 20489
+scored_words:
+  meandered: 117864
+  mitered: 158586
+  mothered: 250190
+not_scored_words:
+- malingered
+- maundered
+- misremembered
+- moldered
+- mongered
+- monikered
+- mountaineered

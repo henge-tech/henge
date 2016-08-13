@@ -1,0 +1,57 @@
+---
+pattern: _ret
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 47
+score: 1453380
+score_per_word: 63190
+hi_scored_words:
+  barret: 60371
+  beret: 40507
+  cabaret: 19485
+  caret: 56620
+  claret: 35030
+  egret: 42279
+  ferret: 21360
+  fret: 19484
+  garret: 34712
+  interpret: 7552
+  minaret: 68927
+  misinterpret: 78521
+  pomfret: 61411
+  pret: 49231
+  regret: 5843
+  secret: 1293
+  turret: 22714
+scored_words:
+  buret: 230298
+  electret: 136130
+  floret: 136550
+  labret: 101498
+  leveret: 109964
+  reinterpret: 113600
+not_scored_words:
+- Bret
+- Carteret
+- Loiret
+- Maigret
+- Margaret
+- Margret
+- Poiret
+- Siret
+- aigret
+- banneret
+- carburet
+- curet
+- floweret
+- imaret
+- lanneret
+- skirret
+- solleret
+- spinneret
+- supersecret
+- tabaret
+- taboret
+- tabret
+- terret
+- tret

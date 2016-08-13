@@ -1,0 +1,22 @@
+---
+pattern: h_zed
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 589500
+score_per_word: 65500
+hi_scored_words:
+  harmonized: 40624
+  homogenized: 72671
+  hospitalized: 21212
+  humanized: 94426
+  hybridized: 72014
+  hydrolyzed: 67164
+  hypnotized: 45485
+  hypothesized: 34145
+scored_words:
+  hazed: 141759
+not_scored_words:
+- homologized
+- hyperbolized
+- hypostatized

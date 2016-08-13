@@ -1,0 +1,24 @@
+---
+pattern: liti_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 976554
+score_per_word: 97655
+hi_scored_words:
+  litigant: 63632
+  litigants: 52109
+  litigate: 67999
+  litigated: 75404
+  litigating: 95020
+  litigation: 8888
+  litigator: 88425
+  litigious: 68466
+scored_words:
+  litigates: 337588
+  litigators: 119023
+not_scored_words:
+- litigable
+- litigative
+- litigiously
+- litigiousness

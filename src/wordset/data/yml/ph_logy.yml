@@ -1,0 +1,24 @@
+---
+pattern: ph_logy
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 719482
+score_per_word: 71948
+hi_scored_words:
+  pharmacology: 14613
+  phenomenology: 33401
+  philology: 42975
+  phonology: 34616
+  phraseology: 64002
+  phrenology: 85388
+  physiology: 8642
+  phytopathology: 99033
+scored_words:
+  phenology: 113943
+  phycology: 222869
+not_scored_words:
+- pharyngology
+- phytobiology
+- phytology
+- phytosociology

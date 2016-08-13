@@ -1,0 +1,24 @@
+---
+pattern: v_lar
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 572611
+score_per_word: 57261
+hi_scored_words:
+  vacuolar: 86323
+  valvular: 71997
+  vascular: 15986
+  vehicular: 27390
+  velar: 98185
+  ventricular: 19155
+  vernacular: 23499
+  vesicular: 55445
+  vestibular: 44145
+scored_words:
+  volar: 130486
+not_scored_words:
+- verisimilar
+- vermicular
+- versicular
+- vorticular

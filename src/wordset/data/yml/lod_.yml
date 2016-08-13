@@ -1,0 +1,30 @@
+---
+pattern: lod_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 885384
+score_per_word: 68106
+hi_scored_words:
+  lode: 40119
+  lodestone: 94095
+  lodge: 3616
+  lodged: 12940
+  lodger: 32837
+  lodges: 12913
+  lodging: 5998
+  lodgings: 20346
+  lodgment: 98020
+scored_words:
+  loden: 108416
+  lodes: 238412
+  lodestar: 116849
+  lodgers: 100823
+not_scored_words:
+- Lodge
+- Lodi
+- Lodz
+- lodestars
+- lodestones
+- lodgments
+- lodicule

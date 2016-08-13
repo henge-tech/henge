@@ -1,0 +1,35 @@
+---
+pattern: int_ting
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 25
+score: 1487850
+score_per_word: 87520
+hi_scored_words:
+  integrating: 8645
+  interacting: 15850
+  intercepting: 57923
+  interconnecting: 55201
+  interesting: 1009
+  interpolating: 82885
+  interpreting: 13216
+  interrogating: 66760
+  interrupting: 26406
+  intersecting: 39464
+  intimidating: 28168
+  intoxicating: 28965
+scored_words:
+  intercalating: 270552
+  interdicting: 276657
+  interjecting: 151429
+  interpenetrating: 234602
+  intimating: 130118
+not_scored_words:
+- intercommunicating
+- intermitting
+- interpellating
+- interrelating
+- intonating
+- introjecting
+- introspecting
+- intuiting

@@ -1,0 +1,37 @@
+---
+pattern: indi_e
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 27
+score: 1534795
+score_per_word: 85266
+hi_scored_words:
+  indicate: 2161
+  indicative: 12774
+  indictable: 84958
+  indie: 6249
+  indifference: 14371
+  indiscriminate: 34208
+  indispensable: 11713
+  indisputable: 40956
+  indistinguishable: 30142
+  indivisible: 43015
+scored_words:
+  indigence: 136093
+  indigestible: 120433
+  indiscernible: 162940
+  indiscipline: 137946
+  indissoluble: 139161
+  indite: 115711
+  individualize: 128916
+  individuate: 313048
+not_scored_words:
+- Indianize
+- indictee
+- indigene
+- indigestive
+- indiscerptible
+- indiscrete
+- indispose
+- indistinctive
+- indivertible

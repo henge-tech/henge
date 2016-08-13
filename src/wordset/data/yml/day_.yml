@@ -1,0 +1,39 @@
+---
+pattern: day_
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 29
+score: 1551400
+score_per_word: 81652
+hi_scored_words:
+  day: 90
+  daybed: 94725
+  daybeds: 72253
+  daybreak: 25772
+  daycare: 19390
+  daydream: 33426
+  daydreaming: 55455
+  daydreams: 58890
+  daylight: 6729
+  daylights: 77053
+  days: 152
+  daystar: 73788
+  daytime: 10894
+scored_words:
+  daybook: 103785
+  daydreamed: 271655
+  daydreamer: 116996
+  dayflower: 252152
+  daylong: 133013
+  dayspring: 145182
+not_scored_words:
+- Day
+- Dayak
+- Dayan
+- Dayton
+- daybooks
+- daydreamers
+- dayflies
+- dayflowers
+- dayfly
+- daysprings

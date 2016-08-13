@@ -1,0 +1,30 @@
+---
+pattern: poly_e
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 20
+score: 1016113
+score_per_word: 63507
+hi_scored_words:
+  polyacrylamide: 52063
+  polyamide: 63854
+  polycarbonate: 36933
+  polychrome: 80427
+  polycrystalline: 70581
+  polyethylene: 24844
+  polymerase: 19243
+  polypeptide: 29197
+  polyphone: 63466
+  polypropylene: 30144
+  polysaccharide: 53329
+  polystyrene: 33236
+  polythene: 67121
+  polyurethane: 27927
+scored_words:
+  polychaete: 151642
+  polymerize: 212106
+not_scored_words:
+- polybasite
+- polysyllable
+- polyunsaturate
+- polyvalence

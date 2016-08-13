@@ -1,0 +1,23 @@
+---
+pattern: su_ors
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 13
+score: 281849
+score_per_word: 31316
+hi_scored_words:
+  subcontractors: 30704
+  successors: 17126
+  suitors: 49249
+  superconductors: 51025
+  superiors: 27743
+  supervisors: 18192
+  suppressors: 55704
+  surveyors: 24154
+  survivors: 7952
+scored_words: {}
+not_scored_words:
+- subeditors
+- succors
+- sudors
+- suspensors

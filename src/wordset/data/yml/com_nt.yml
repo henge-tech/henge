@@ -1,0 +1,30 @@
+---
+pattern: com_nt
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 20
+score: 808491
+score_per_word: 44916
+hi_scored_words:
+  combatant: 33750
+  commandant: 31768
+  commandment: 22218
+  commencement: 8410
+  comment: 1104
+  commitment: 8470
+  compartment: 10792
+  competent: 6371
+  complacent: 30389
+  complainant: 22038
+  complaint: 3810
+  complement: 9161
+  compliant: 18394
+  compliment: 9695
+  component: 5515
+scored_words:
+  communicant: 145918
+  complaisant: 229237
+  comportment: 211451
+not_scored_words:
+- Commandment
+- commorant

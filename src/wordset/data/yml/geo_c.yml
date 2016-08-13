@@ -1,0 +1,28 @@
+---
+pattern: geo_c
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 18
+score: 759416
+score_per_word: 75941
+hi_scored_words:
+  geocentric: 71333
+  geodesic: 45812
+  geodetic: 38103
+  geographic: 9229
+  geologic: 24266
+  geomagnetic: 52470
+  geometric: 18584
+  geomorphic: 96011
+scored_words:
+  geoscientific: 285535
+  geostrophic: 118073
+not_scored_words:
+- Geometric
+- geochronologic
+- geomantic
+- geoponic
+- georgic
+- geostatic
+- geotectonic
+- geothermic

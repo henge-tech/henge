@@ -1,0 +1,28 @@
+---
+pattern: mor_e
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 18
+score: 839109
+score_per_word: 64546
+hi_scored_words:
+  moraine: 38728
+  morale: 14574
+  more: 34
+  morgue: 36935
+  morose: 56319
+  morpheme: 79291
+  morphine: 22302
+  morse: 13879
+  mortgage: 3919
+  mortgagee: 43664
+  mortise: 62528
+scored_words:
+  moralize: 186162
+  morganite: 280774
+not_scored_words:
+- More
+- Moresque
+- Morse
+- morphophoneme
+- mortgageable

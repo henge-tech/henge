@@ -1,0 +1,30 @@
+---
+pattern: oxid_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 20
+score: 1784151
+score_per_word: 104950
+hi_scored_words:
+  oxidant: 54081
+  oxidants: 67145
+  oxidase: 26697
+  oxidation: 15807
+  oxidative: 25373
+  oxide: 9957
+  oxides: 28456
+  oxidize: 67853
+  oxidized: 39387
+  oxidizer: 76614
+  oxidizing: 49941
+scored_words:
+  oxidases: 176288
+  oxidatively: 312229
+  oxidizable: 302128
+  oxidization: 273295
+  oxidizers: 109420
+  oxidizes: 149480
+not_scored_words:
+- oxidate
+- oxidic
+- oxidimetry

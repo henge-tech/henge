@@ -1,0 +1,58 @@
+---
+pattern: head_s
+hi_scored_words_count: 21
+scored_words_count: 11
+total_words: 48
+score: 2869653
+score_per_word: 89676
+hi_scored_words:
+  headaches: 15103
+  headbands: 57223
+  headdress: 59837
+  headers: 8898
+  headhunters: 56786
+  headings: 15732
+  headlamps: 49917
+  headlands: 60350
+  headless: 37652
+  headlights: 18618
+  headliners: 56494
+  headlines: 8251
+  headmistress: 77023
+  headphones: 10787
+  headquarters: 4104
+  headrests: 81801
+  heads: 2028
+  headsets: 19054
+  headstones: 64972
+  headteachers: 77863
+  headwaters: 39796
+scored_words:
+  headbangers: 152293
+  headboards: 104190
+  headcounts: 321424
+  headdresses: 122877
+  headmasters: 123249
+  headpieces: 109146
+  headpins: 332873
+  headscarves: 121053
+  headstalls: 295880
+  headwinds: 180541
+  headwords: 183838
+not_scored_words:
+- headbutts
+- headcases
+- headcheeses
+- headhunts
+- headiness
+- headlocks
+- headmistresses
+- headraces
+- headsails
+- headships
+- headshrinkers
+- headsprings
+- headstands
+- headstocks
+- headwaiters
+- headwards

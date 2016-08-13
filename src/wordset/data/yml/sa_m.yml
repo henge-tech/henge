@@ -1,0 +1,42 @@
+---
+pattern: sa_m
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 32
+score: 1319704
+score_per_word: 87980
+hi_scored_words:
+  sachem: 87145
+  sacrum: 68719
+  sadism: 33564
+  sadomasochism: 84530
+  salaam: 32371
+  sanatorium: 66681
+  sanctum: 43483
+  sandstorm: 42832
+  sanitarium: 59546
+  sarcasm: 17684
+  satanism: 53315
+scored_words:
+  sacerdotalism: 172613
+  saleroom: 253943
+  samarium: 122828
+  sargassum: 180450
+not_scored_words:
+- SAM
+- Saddam
+- Salem
+- Sam
+- Samnium
+- Satanism
+- sacellum
+- sacramentalism
+- sacrarium
+- saintdom
+- salesroom
+- salverform
+- sapphism
+- sardonicism
+- sarmentum
+- satem
+- savagism

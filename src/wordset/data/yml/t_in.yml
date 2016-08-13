@@ -1,0 +1,57 @@
+---
+pattern: t_in
+hi_scored_words_count: 19
+scored_words_count: 9
+total_words: 47
+score: 1933711
+score_per_word: 69061
+hi_scored_words:
+  tain: 43942
+  takin: 35267
+  tannin: 53641
+  tarpaulin: 64334
+  tenderloin: 39160
+  terrain: 11020
+  terrapin: 56999
+  therein: 7213
+  theremin: 72621
+  thin: 2382
+  thrombin: 47288
+  tiffin: 51129
+  tin: 4267
+  toxin: 20568
+  train: 1335
+  trypsin: 39260
+  tuberculin: 69738
+  twain: 9093
+  twin: 4419
+scored_words:
+  tailspin: 109450
+  tamarin: 130332
+  tefillin: 103768
+  tenpin: 116713
+  threadfin: 224957
+  thromboplastin: 119714
+  thymosin: 218335
+  tocsin: 167980
+  topspin: 108786
+not_scored_words:
+- Taliesin
+- Terramycin
+- Tessin
+- Tianjin
+- Tientsin
+- Tomlin
+- Tonkin
+- Turin
+- Turpin
+- Twain
+- talapoin
+- tambourin
+- tholepin
+- tiepin
+- trinitroglycerin
+- triolein
+- tripalmitin
+- tropeolin
+- tyrothricin

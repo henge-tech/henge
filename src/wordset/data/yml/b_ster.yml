@@ -1,0 +1,33 @@
+---
+pattern: b_ster
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 23
+score: 1206646
+score_per_word: 70979
+hi_scored_words:
+  banister: 59547
+  barrister: 25428
+  blaster: 16557
+  blister: 24713
+  blockbuster: 21167
+  bluster: 62198
+  bolster: 23075
+  booster: 10271
+  broadcaster: 22130
+  bushmaster: 91940
+  buster: 18928
+scored_words:
+  baluster: 117588
+  bandmaster: 173899
+  baster: 141565
+  boaster: 135604
+  brewmaster: 133032
+  burgomaster: 129004
+not_scored_words:
+- Bannister
+- Blockbuster
+- Brewster
+- billposter
+- bister
+- broncobuster

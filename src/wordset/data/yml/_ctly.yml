@@ -1,0 +1,29 @@
+---
+pattern: _ctly
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 19
+score: 817902
+score_per_word: 54526
+hi_scored_words:
+  abstractly: 76461
+  compactly: 80017
+  correctly: 4436
+  directly: 941
+  distinctly: 12197
+  exactly: 1267
+  imperfectly: 53553
+  incorrectly: 17785
+  indirectly: 7196
+  perfectly: 2763
+  strictly: 4022
+  succinctly: 46980
+scored_words:
+  abjectly: 164666
+  circumspectly: 204266
+  indistinctly: 141352
+not_scored_words:
+- conjunctly
+- erectly
+- inexactly
+- sacrosanctly

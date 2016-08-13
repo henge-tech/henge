@@ -1,0 +1,31 @@
+---
+pattern: pe_ity
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 21
+score: 1784852
+score_per_word: 118990
+hi_scored_words:
+  peculiarity: 42227
+  periodicity: 41621
+  permeability: 22765
+  permittivity: 86884
+  perpetuity: 44546
+  perplexity: 48562
+  personality: 3656
+  perversity: 71001
+scored_words:
+  perfectibility: 252985
+  perishability: 165087
+  permissibility: 177226
+  perpendicularity: 313936
+  perspicacity: 127852
+  perspicuity: 187403
+  pertinacity: 199101
+not_scored_words:
+- pellucidity
+- penetrability
+- perceptibility
+- perceptivity
+- perdurability
+- peripherality

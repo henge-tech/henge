@@ -1,0 +1,33 @@
+---
+pattern: c_ders
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 23
+score: 1092720
+score_per_word: 68295
+hi_scored_words:
+  calenders: 86889
+  camcorders: 29148
+  cardholders: 68660
+  cheerleaders: 12965
+  cinders: 61587
+  coders: 35006
+  commanders: 12026
+  considers: 6625
+  contenders: 27833
+  crusaders: 25957
+  cylinders: 13147
+scored_words:
+  childminders: 109415
+  chowders: 177044
+  ciders: 133839
+  colanders: 190607
+  colliders: 101972
+not_scored_words:
+- carders
+- ceders
+- chunders
+- confiders
+- copyholders
+- copyreaders
+- cullenders

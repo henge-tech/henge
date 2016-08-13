@@ -1,0 +1,40 @@
+---
+pattern: ac_r
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 30
+score: 1314258
+score_per_word: 82141
+hi_scored_words:
+  accelerator: 15369
+  accelerometer: 53714
+  acceptor: 34684
+  accipiter: 84981
+  accumulator: 36785
+  accuser: 39357
+  achiever: 48629
+  acquirer: 67441
+  activator: 26848
+  actor: 3511
+  actuator: 31434
+  acyclovir: 42855
+scored_words:
+  accentor: 270293
+  accepter: 209323
+  accoucheur: 148852
+  acicular: 200182
+not_scored_words:
+- Acer
+- Achernar
+- acclaimer
+- accomplisher
+- accouter
+- acerber
+- acetometer
+- achier
+- acidifier
+- acidimeter
+- acrider
+- acroter
+- actinometer
+- acuter

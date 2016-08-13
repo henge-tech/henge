@@ -1,0 +1,32 @@
+---
+pattern: g_ins
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 22
+score: 1375902
+score_per_word: 98278
+hi_scored_words:
+  gains: 5233
+  gins: 59970
+  glycoproteins: 44003
+  goblins: 37990
+  grains: 9271
+  gremlins: 47073
+  griffins: 67614
+  grins: 38856
+scored_words:
+  gamins: 310993
+  gaskins: 113787
+  gherkins: 174363
+  globins: 183333
+  gonadotropins: 111142
+  groins: 172274
+not_scored_words:
+- galligaskins
+- gegenscheins
+- glutelins
+- goatskins
+- gorgerins
+- gramicidins
+- gratins
+- griseofulvins

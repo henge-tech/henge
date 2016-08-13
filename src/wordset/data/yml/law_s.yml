@@ -1,0 +1,22 @@
+---
+pattern: law_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 12
+score: 561703
+score_per_word: 51063
+hi_scored_words:
+  lawfulness: 86903
+  lawless: 22214
+  lawlessness: 41075
+  lawmakers: 15104
+  lawnmowers: 69426
+  lawns: 24271
+  laws: 970
+  lawsuits: 16060
+  lawyers: 3093
+scored_words:
+  lawbreakers: 153827
+  lawgivers: 128760
+not_scored_words:
+- Lawes

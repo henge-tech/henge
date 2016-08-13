@@ -1,0 +1,55 @@
+---
+pattern: is_s
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 45
+score: 1943740
+score_per_word: 88351
+hi_scored_words:
+  islanders: 17793
+  islands: 1249
+  isles: 10882
+  islets: 40891
+  isms: 55505
+  isolates: 22332
+  isolators: 88826
+  isomers: 42157
+  isosceles: 78519
+  isotopes: 24338
+  issuers: 35171
+  issues: 1155
+  isthmus: 36111
+scored_words:
+  isinglass: 166783
+  isobars: 123032
+  isochronous: 101038
+  isolationists: 213901
+  isometries: 156751
+  isomorphisms: 116239
+  isomorphous: 257781
+  isopods: 247303
+  isotherms: 105983
+not_scored_words:
+- ISIS
+- ISS
+- Isaias
+- Isis
+- Islamisms
+- Islams
+- Isocrates
+- Israelis
+- Israels
+- Issus
+- isagogics
+- isochroous
+- isogametes
+- isogamies
+- isogloss
+- isoleucines
+- isologous
+- isomerous
+- isometrics
+- isometropias
+- isopleths
+- isopropanols
+- isthmuses

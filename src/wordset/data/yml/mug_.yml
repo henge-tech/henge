@@ -1,0 +1,34 @@
+---
+pattern: mug_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 24
+score: 1509882
+score_per_word: 100658
+hi_scored_words:
+  mug: 10188
+  mugged: 61923
+  mugger: 52929
+  mugging: 59944
+  muggle: 56696
+  muggles: 86616
+  muggy: 76806
+  mugs: 17534
+  mugshot: 76349
+scored_words:
+  muggers: 119441
+  muggings: 137088
+  muggins: 192488
+  mugshots: 102290
+  mugwump: 180346
+  mugwumps: 279244
+not_scored_words:
+- Mugabe
+- Mughal
+- mugful
+- mugfuls
+- muggier
+- muggiest
+- mugginess
+- mugginses
+- mugwumpery

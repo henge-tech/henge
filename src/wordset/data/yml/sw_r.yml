@@ -1,0 +1,44 @@
+---
+pattern: sw_r
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 34
+score: 2160177
+score_per_word: 93920
+hi_scored_words:
+  swagger: 41770
+  swapper: 86347
+  swashbuckler: 85183
+  swear: 6362
+  sweater: 14248
+  sweeper: 29185
+  sweetener: 42858
+  sweeter: 27590
+  swifter: 89511
+  swimmer: 21102
+  swimwear: 20469
+  swindler: 79180
+  swinger: 25320
+  swisher: 50125
+  switcher: 37247
+  switchgear: 71721
+  switchover: 66361
+scored_words:
+  swallower: 157690
+  swamper: 251408
+  swatter: 137543
+  swearer: 286482
+  sweetbriar: 299209
+  swelter: 233266
+not_scored_words:
+- Swissair
+- Switzer
+- swabber
+- swaggerer
+- swampier
+- swanker
+- swankier
+- swarthier
+- sweatier
+- sweetbrier
+- sweller

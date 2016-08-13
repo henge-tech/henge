@@ -1,0 +1,30 @@
+---
+pattern: de_ying
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1357868
+score_per_word: 104451
+hi_scored_words:
+  decaying: 30956
+  decrying: 99787
+  defying: 31031
+  delaying: 23961
+  demystifying: 85266
+  denying: 11163
+  deploying: 25020
+  destroying: 8667
+scored_words:
+  defraying: 134207
+  dehumidifying: 241244
+  deifying: 284734
+  denitrifying: 279268
+  detoxifying: 102564
+not_scored_words:
+- decalcifying
+- declassifying
+- decoying
+- demulsifying
+- denazifying
+- descrying
+- devitrifying

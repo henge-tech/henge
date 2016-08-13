@@ -1,0 +1,29 @@
+---
+pattern: _bon
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 913941
+score_per_word: 83085
+hi_scored_words:
+  bonbon: 84883
+  bourbon: 18776
+  carbon: 4456
+  ebon: 83103
+  gibbon: 31339
+  hydrocarbon: 27977
+  radiocarbon: 53749
+  ribbon: 6374
+scored_words:
+  chlorofluorocarbon: 256407
+  fluorocarbon: 107440
+  halocarbon: 239437
+not_scored_words:
+- Audubon
+- Bon
+- Bourbon
+- Casaubon
+- Gabon
+- Gibbon
+- Lisbon
+- Tjirebon

@@ -1,0 +1,27 @@
+---
+pattern: _umed
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 17
+score: 847786
+score_per_word: 70648
+hi_scored_words:
+  assumed: 3432
+  consumed: 8468
+  costumed: 63823
+  exhumed: 66034
+  fumed: 83515
+  perfumed: 39448
+  presumed: 13449
+  resumed: 10260
+  subsumed: 53478
+  vacuumed: 93672
+scored_words:
+  plumed: 100485
+  unconsumed: 311722
+not_scored_words:
+- deplumed
+- displumed
+- illumed
+- spumed
+- volumed

@@ -1,0 +1,32 @@
+---
+pattern: pla_t
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1027108
+score_per_word: 68473
+hi_scored_words:
+  placement: 7632
+  placket: 85219
+  plaint: 84393
+  plait: 60230
+  planet: 3256
+  plant: 1294
+  plat: 18021
+  platelet: 19748
+  playlist: 6109
+  playwright: 21111
+scored_words:
+  plagiarist: 102935
+  plainest: 133289
+  planchet: 151714
+  plangent: 170689
+  playsuit: 161468
+not_scored_words:
+- Plantagenet
+- Platonist
+- placet
+- plainchant
+- plaudit
+- playact
+- playlet

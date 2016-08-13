@@ -1,0 +1,32 @@
+---
+pattern: s_oard
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 22
+score: 989114
+score_per_word: 61819
+hi_scored_words:
+  scoreboard: 13638
+  seaboard: 30093
+  shipboard: 42422
+  shuffleboard: 75108
+  sideboard: 34596
+  skateboard: 16250
+  snowboard: 15021
+  soundboard: 54321
+  springboard: 35065
+  starboard: 24866
+  storyboard: 43522
+  surfboard: 35901
+  switchboard: 24636
+scored_words:
+  sailboard: 212559
+  scratchboard: 208721
+  signboard: 122395
+not_scored_words:
+- scaleboard
+- scraperboard
+- shovelboard
+- splashboard
+- strawboard
+- stringboard

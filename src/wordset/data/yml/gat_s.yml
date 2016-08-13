@@ -1,0 +1,24 @@
+---
+pattern: gat_s
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 14
+score: 248288
+score_per_word: 31036
+hi_scored_words:
+  gatekeepers: 55525
+  gates: 3536
+  gateways: 24077
+  gatherers: 53996
+  gatherings: 16902
+  gathers: 20672
+  gators: 24914
+  gats: 48666
+scored_words: {}
+not_scored_words:
+- Gates
+- gateaus
+- gatecrashers
+- gatecrashes
+- gatehouses
+- gateposts

@@ -1,0 +1,51 @@
+---
+pattern: ad_n
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 41
+score: 1710198
+score_per_word: 63340
+hi_scored_words:
+  adaptation: 7987
+  adaption: 52508
+  addiction: 15718
+  addition: 952
+  adhesion: 17686
+  adjoin: 94017
+  adjourn: 26808
+  adjudication: 33126
+  admin: 7660
+  administration: 1337
+  admiration: 12230
+  admission: 3815
+  admonition: 38686
+  adoption: 4198
+  adoration: 25377
+  adorn: 27775
+  adrenalin: 34741
+  adsorption: 24907
+  adulation: 50377
+  adulteration: 69850
+  advection: 61512
+scored_words:
+  adduction: 103745
+  adjunction: 157248
+  adjuration: 215993
+  adman: 255202
+  adown: 199716
+  adumbration: 167027
+not_scored_words:
+- Adan
+- Addington
+- Addison
+- Addisonian
+- Aden
+- Adlerian
+- Adrenalin
+- Adrian
+- ademption
+- adermin
+- admen
+- adscription
+- advocation
+- advowson

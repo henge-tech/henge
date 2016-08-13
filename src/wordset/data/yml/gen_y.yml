@@ -1,0 +1,33 @@
+---
+pattern: gen_y
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 23
+score: 1102967
+score_per_word: 68935
+hi_scored_words:
+  genealogy: 11757
+  generality: 28181
+  generally: 1043
+  generically: 48040
+  generosity: 11743
+  generously: 16970
+  genetically: 11628
+  genitourinary: 59425
+  gentlemanly: 75336
+  gently: 5055
+  gentry: 17220
+  genuinely: 13368
+scored_words:
+  geniality: 219207
+  genially: 200020
+  genteelly: 264041
+  gentility: 119933
+not_scored_words:
+- Gentry
+- genealogically
+- genethlialogy
+- genitally
+- genitivally
+- genocidally
+- gentrify

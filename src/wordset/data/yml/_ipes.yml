@@ -1,0 +1,35 @@
+---
+pattern: _ipes
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 25
+score: 1975899
+score_per_word: 116229
+hi_scored_words:
+  bagpipes: 39050
+  cripes: 97881
+  gripes: 52033
+  pinstripes: 96996
+  pipes: 6440
+  recipes: 6027
+  snipes: 49731
+  stripes: 8653
+  swipes: 90194
+  wipes: 22559
+scored_words:
+  downpipes: 238164
+  hornpipes: 276550
+  panpipes: 138716
+  standpipes: 176551
+  stipes: 135897
+  stovepipes: 327443
+  tailpipes: 213014
+not_scored_words:
+- blowpipes
+- drainpipes
+- guttersnipes
+- hawsepipes
+- hosepipes
+- sideswipes
+- talipes
+- windpipes

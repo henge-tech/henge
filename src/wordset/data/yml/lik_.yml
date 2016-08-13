@@ -1,0 +1,39 @@
+---
+pattern: lik_
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 29
+score: 2240389
+score_per_word: 93349
+hi_scored_words:
+  likable: 39222
+  like: 67
+  likeable: 39875
+  liked: 2649
+  likelihood: 8755
+  likely: 848
+  liken: 59814
+  likened: 36916
+  likeness: 17473
+  likenesses: 71911
+  likens: 75870
+  likes: 3655
+  likewise: 5004
+  liking: 10609
+scored_words:
+  likability: 296986
+  likeability: 199337
+  likelier: 155588
+  likeliest: 148452
+  likelihoods: 135771
+  likeliness: 218495
+  likening: 127191
+  liker: 161879
+  likest: 220212
+  likings: 203810
+not_scored_words:
+- likableness
+- likably
+- likeableness
+- likker
+- likuta

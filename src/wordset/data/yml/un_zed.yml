@@ -1,0 +1,39 @@
+---
+pattern: un_zed
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 29
+score: 2199341
+score_per_word: 115754
+hi_scored_words:
+  unauthorized: 13767
+  uncivilized: 65014
+  undersized: 62205
+  underutilized: 63502
+  unfazed: 88904
+  uninitialized: 85242
+  unionized: 53164
+  unorganized: 54713
+  unrealized: 42427
+  unrecognized: 35092
+  unsubsidized: 77468
+scored_words:
+  unbaptized: 236243
+  unfertilized: 140138
+  unglazed: 108379
+  unitized: 158244
+  unpasteurized: 114986
+  unpublicized: 325086
+  unspecialized: 290437
+  unutilized: 184330
+not_scored_words:
+- unacclimatized
+- unalphabetized
+- uncapitalized
+- uncrystallized
+- universalized
+- unmechanized
+- unmemorized
+- unnaturalized
+- unpressurized
+- unsterilized

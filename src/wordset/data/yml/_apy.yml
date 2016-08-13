@@ -1,0 +1,37 @@
+---
+pattern: _apy
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 27
+score: 1473572
+score_per_word: 92098
+hi_scored_words:
+  aromatherapy: 26263
+  chemotherapy: 15178
+  hydrotherapy: 56055
+  hypnotherapy: 41409
+  immunotherapy: 49536
+  physiotherapy: 30357
+  psychotherapy: 17257
+  radiotherapy: 24589
+  soapy: 52137
+  therapy: 5336
+scored_words:
+  bibliotherapy: 242193
+  crapy: 295044
+  cryotherapy: 108467
+  electrotherapy: 129456
+  phototherapy: 110991
+  thermotherapy: 269304
+not_scored_words:
+- actinotherapy
+- crymotherapy
+- endocrinotherapy
+- heliotherapy
+- hemotherapy
+- massotherapy
+- mechanotherapy
+- organotherapy
+- pyretotherapy
+- roentgenotherapy
+- serotherapy

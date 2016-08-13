@@ -1,0 +1,56 @@
+---
+pattern: e_cs
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 46
+score: 2240238
+score_per_word: 86163
+hi_scored_words:
+  econometrics: 36134
+  economics: 6175
+  elastics: 93062
+  electrics: 28924
+  electrodynamics: 66010
+  electronics: 11567
+  energetics: 60520
+  epics: 37826
+  epidemics: 31221
+  ergonomics: 28479
+  esthetics: 70341
+  ethics: 5015
+  eugenics: 37547
+  eurythmics: 54391
+  execs: 34525
+  exotics: 45099
+scored_words:
+  eccentrics: 100339
+  ecclesiastics: 142263
+  electroacoustics: 294232
+  electrostatics: 106469
+  emetics: 280629
+  endemics: 148709
+  endodontics: 104298
+  epileptics: 180908
+  erotics: 121273
+  ethnics: 114282
+not_scored_words:
+- Ebonics
+- Emacs
+- eclectics
+- ecstatics
+- egocentrics
+- egomaniacs
+- electroballistics
+- electrokinetics
+- electromechanics
+- electrotechnics
+- electrotherapeutics
+- electrothermics
+- elegiacs
+- encaustics
+- eudemonics
+- eurhythmics
+- eutectics
+- euthenics
+- exegetics
+- exodontics

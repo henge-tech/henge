@@ -1,0 +1,29 @@
+---
+pattern: cr_m
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 1024692
+score_per_word: 78822
+hi_scored_words:
+  cram: 24665
+  cranium: 36164
+  cream: 2595
+  creationism: 29279
+  crematorium: 46055
+  crim: 35513
+  criticism: 3585
+  cronyism: 63543
+  cruciform: 78410
+  cryptogram: 98957
+scored_words:
+  cretinism: 206744
+  crinum: 236197
+  crossbeam: 162985
+not_scored_words:
+- credendum
+- cribriform
+- crissum
+- crossarm
+- cryptogam
+- cryptonym

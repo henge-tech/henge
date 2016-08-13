@@ -1,0 +1,59 @@
+---
+pattern: car_n
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 49
+score: 2006829
+score_per_word: 95563
+hi_scored_words:
+  caravan: 8978
+  carbon: 4456
+  carbonation: 85838
+  carcinogen: 46077
+  cardigan: 25376
+  carillon: 53265
+  carman: 47680
+  carnation: 32963
+  carnelian: 61939
+  carrion: 36615
+  carton: 22532
+  cartoon: 10922
+  carven: 96932
+scored_words:
+  carbonization: 183131
+  carburetion: 192857
+  cardamon: 190566
+  cardoon: 227051
+  careen: 130093
+  careworn: 192231
+  carrageenan: 121182
+  carryon: 236145
+not_scored_words:
+- Cardigan
+- Cardin
+- Cariban
+- Caribbean
+- Carleton
+- Carlin
+- Carlovingian
+- Carlson
+- Carlton
+- Carmarthen
+- Carmen
+- Carnarvon
+- Carnation
+- Carolingian
+- Carolinian
+- Carolyn
+- Carpathian
+- Carson
+- Cartesian
+- Carthaginian
+- Carthusian
+- carabin
+- caramelization
+- carbarn
+- carburization
+- carrageen
+- carragheen
+- cartelization

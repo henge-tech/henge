@@ -1,0 +1,27 @@
+---
+pattern: r_id
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 566321
+score_per_word: 51483
+hi_scored_words:
+  rabid: 29119
+  raid: 6414
+  rancid: 28268
+  rapid: 2483
+  repaid: 20070
+  rheumatoid: 18854
+  rid: 3891
+  rigid: 7119
+scored_words:
+  rebid: 192916
+  redid: 100417
+  rhomboid: 156770
+not_scored_words:
+- Reid
+- Remscheid
+- Rubbermaid
+- relaid
+- resinoid
+- rhizoid

@@ -1,0 +1,58 @@
+---
+pattern: sc_ers
+hi_scored_words_count: 14
+scored_words_count: 20
+total_words: 48
+score: 4794015
+score_per_word: 141000
+hi_scored_words:
+  scalpers: 91037
+  scammers: 47860
+  scanners: 9332
+  scatters: 72612
+  scavengers: 61484
+  schedulers: 91760
+  schoolteachers: 97073
+  schooners: 86355
+  scooters: 18847
+  scorers: 24559
+  scrapers: 49649
+  screenwriters: 52880
+  screwdrivers: 45777
+  scrubbers: 66878
+scored_words:
+  scampers: 268079
+  scatterers: 152613
+  scepters: 242571
+  schemers: 152385
+  schnauzers: 134316
+  schoolmasters: 148966
+  scoffers: 212912
+  scorchers: 211378
+  scorekeepers: 314488
+  scoters: 278658
+  scouters: 187799
+  scramblers: 182348
+  scrappers: 115275
+  screamers: 101436
+  scribblers: 184591
+  scribers: 280948
+  scriptwriters: 128428
+  scrutineers: 211091
+  scullers: 233856
+  scuppers: 235774
+not_scored_words:
+- scandalmongers
+- scaremongers
+- scarpers
+- schmeers
+- schmoozers
+- schussboomers
+- sclerometers
+- scolders
+- scorners
+- scourers
+- scoutmasters
+- scrabblers
+- scriveners
+- scroungers

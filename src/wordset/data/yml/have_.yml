@@ -1,0 +1,23 @@
+---
+pattern: have_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 616276
+score_per_word: 61627
+hi_scored_words:
+  have: 22
+  havelock: 46229
+  haven: 5110
+  haven't: 1232
+  havens: 37283
+  haver: 81266
+  havering: 58422
+  haves: 33583
+scored_words:
+  haversack: 179959
+  haversacks: 173170
+not_scored_words:
+- Havel
+- Havering
+- haversine

@@ -1,0 +1,35 @@
+---
+pattern: cler_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 25
+score: 900010
+score_per_word: 69231
+hi_scored_words:
+  clergy: 8684
+  clergyman: 27376
+  clergymen: 57282
+  cleric: 28524
+  clerical: 10362
+  clerics: 41018
+  clerk: 3830
+  clerks: 11621
+  clerkship: 61773
+scored_words:
+  clerestory: 102484
+  clericalism: 264108
+  clerked: 138451
+  clerking: 144497
+not_scored_words:
+- clerestories
+- clergies
+- clergywoman
+- clergywomen
+- clericalist
+- clerically
+- clericals
+- clerihew
+- clerihews
+- clerkly
+- cleromancy
+- cleruchy

@@ -1,0 +1,20 @@
+---
+pattern: _tem
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 420606
+score_per_word: 46734
+hi_scored_words:
+  ecosystem: 13973
+  item: 2980
+  meristem: 93285
+  postmortem: 48933
+  stem: 4410
+  subsystem: 18118
+  system: 225
+  totem: 26081
+scored_words:
+  supersystem: 212601
+not_scored_words:
+- satem

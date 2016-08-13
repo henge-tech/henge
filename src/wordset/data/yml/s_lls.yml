@@ -1,0 +1,50 @@
+---
+pattern: s_lls
+hi_scored_words_count: 23
+scored_words_count: 7
+total_words: 40
+score: 2191194
+score_per_word: 73039
+hi_scored_words:
+  sawmills: 55069
+  scrolls: 18564
+  sculls: 90188
+  seagulls: 41947
+  seashells: 55953
+  sells: 6560
+  shells: 6885
+  shills: 92825
+  shortfalls: 47780
+  sidewalls: 87929
+  sills: 47645
+  skills: 7610
+  skulls: 22229
+  smalls: 48349
+  smells: 11307
+  snowballs: 59697
+  spells: 9226
+  spills: 28082
+  stairwells: 96644
+  stalls: 16709
+  stills: 22912
+  strolls: 74399
+  swells: 36777
+scored_words:
+  seawalls: 217553
+  snowfalls: 122911
+  softballs: 133846
+  spoonbills: 184092
+  squalls: 102642
+  squills: 207029
+  stonewalls: 237835
+not_scored_words:
+- screwballs
+- shoebills
+- shrills
+- sleazeballs
+- sourballs
+- spitballs
+- sporophylls
+- standstills
+- steamrolls
+- swills

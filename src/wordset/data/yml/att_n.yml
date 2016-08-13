@@ -1,0 +1,21 @@
+---
+pattern: att_n
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 435970
+score_per_word: 48441
+hi_scored_words:
+  attain: 9118
+  attention: 918
+  attenuation: 22604
+  attestation: 49016
+  attn: 22942
+  attraction: 4498
+  attribution: 20495
+  attrition: 30137
+scored_words:
+  attorn: 276242
+not_scored_words:
+- Attn
+- attitudinarian

@@ -1,0 +1,25 @@
+---
+pattern: d_ined
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 548101
+score_per_word: 45675
+hi_scored_words:
+  declined: 5547
+  defined: 2294
+  destined: 9648
+  detained: 10428
+  determined: 1358
+  dined: 31439
+  disciplined: 16052
+  disinclined: 92795
+  drained: 11836
+scored_words:
+  disdained: 101532
+  disjoined: 156596
+  divined: 108576
+not_scored_words:
+- datelined
+- detrained
+- distrained

@@ -1,0 +1,26 @@
+---
+pattern: ex_m
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 16
+score: 1269396
+score_per_word: 90671
+hi_scored_words:
+  exam: 6668
+  exclaim: 42611
+  exemplum: 82182
+  exhibitionism: 36747
+  existentialism: 48949
+  exorcism: 33327
+  expressionism: 47080
+  extremism: 31310
+scored_words:
+  exceptionalism: 103390
+  exordium: 166972
+  exoticism: 175572
+  expansionism: 114763
+  experimentalism: 211883
+  externalism: 167942
+not_scored_words:
+- experientialism
+- expertism

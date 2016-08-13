@@ -1,0 +1,50 @@
+---
+pattern: _ppy
+hi_scored_words_count: 22
+scored_words_count: 11
+total_words: 40
+score: 2730592
+score_per_word: 82745
+hi_scored_words:
+  chappy: 95135
+  chippy: 85415
+  choppy: 37656
+  crappy: 15623
+  floppy: 11974
+  guppy: 55284
+  happy: 574
+  hippy: 38664
+  nappy: 29595
+  nippy: 79436
+  pappy: 55081
+  peppy: 70838
+  poppy: 16357
+  preppy: 64058
+  puppy: 8144
+  sappy: 55087
+  scrappy: 39741
+  slippy: 73461
+  sloppy: 22299
+  snappy: 34565
+  unhappy: 7203
+  zippy: 43144
+scored_words:
+  dippy: 112595
+  drippy: 119006
+  duppy: 287261
+  flippy: 122756
+  grippy: 127673
+  lippy: 101376
+  snippy: 112565
+  soppy: 139942
+  stroppy: 222619
+  yappy: 247580
+  zappy: 197885
+not_scored_words:
+- Skippy
+- gappy
+- gloppy
+- loppy
+- microfloppy
+- overhappy
+- slaphappy

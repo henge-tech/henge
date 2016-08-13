@@ -1,0 +1,55 @@
+---
+pattern: _ears
+hi_scored_words_count: 23
+scored_words_count: 3
+total_words: 45
+score: 1038009
+score_per_word: 39923
+hi_scored_words:
+  appears: 1310
+  arrears: 21686
+  bears: 2574
+  clears: 16478
+  dears: 50805
+  disappears: 16663
+  ears: 3725
+  fears: 4775
+  forebears: 74178
+  gears: 21490
+  hears: 11018
+  nears: 37255
+  pears: 19933
+  reappears: 57205
+  rears: 53293
+  sears: 14014
+  shears: 25768
+  smears: 46302
+  spears: 6149
+  swears: 38623
+  tears: 3052
+  wears: 9498
+  years: 118
+scored_words:
+  endears: 227450
+  forbears: 161074
+  overhears: 113573
+not_scored_words:
+- Sears
+- Spears
+- afteryears
+- besmears
+- bugbears
+- cudbears
+- dogears
+- footgears
+- forswears
+- midyears
+- mishears
+- outwears
+- overbears
+- rehears
+- schmears
+- shmears
+- trochlears
+- uprears
+- wheatears

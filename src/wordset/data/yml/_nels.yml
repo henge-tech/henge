@@ -1,0 +1,32 @@
+---
+pattern: _nels
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 22
+score: 918550
+score_per_word: 76545
+hi_scored_words:
+  channels: 3888
+  colonels: 43640
+  flannels: 99721
+  funnels: 56562
+  kennels: 26004
+  kernels: 24215
+  panels: 6494
+  runnels: 84481
+  sentinels: 47873
+  tunnels: 15896
+scored_words:
+  gunnels: 213503
+  spinels: 296273
+not_scored_words:
+- charnels
+- cornels
+- crenels
+- darnels
+- empanels
+- fontanels
+- grapnels
+- impanels
+- pimpernels
+- trunnels

@@ -1,0 +1,42 @@
+---
+pattern: a_ge
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 32
+score: 1738179
+score_per_word: 72424
+hi_scored_words:
+  abridge: 73155
+  acknowledge: 5176
+  acreage: 23939
+  adage: 35054
+  advantage: 1433
+  afterimage: 92154
+  age: 326
+  allege: 29601
+  amperage: 76006
+  anchorage: 11418
+  appendage: 46490
+  arbitrage: 35423
+  arrange: 4828
+  assemblage: 28316
+  assuage: 60466
+  auberge: 47438
+  avenge: 30265
+  average: 1095
+scored_words:
+  adjudge: 184281
+  alienage: 324782
+  anecdotage: 249406
+  anlage: 129301
+  appanage: 107845
+  arrearage: 139981
+not_scored_words:
+- Adige
+- Age
+- Anchorage
+- agiotage
+- allonge
+- anagoge
+- apophyge
+- archimage

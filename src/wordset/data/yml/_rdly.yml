@@ -1,0 +1,45 @@
+---
+pattern: _rdly
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 35
+score: 1411335
+score_per_word: 78407
+hi_scored_words:
+  absurdly: 41620
+  awkwardly: 26668
+  cowardly: 23740
+  dastardly: 49645
+  haphazardly: 67572
+  hardly: 3067
+  inwardly: 38398
+  lordly: 95212
+  outwardly: 31376
+  straightforwardly: 83816
+  thirdly: 25011
+  upwardly: 70321
+  weirdly: 66774
+scored_words:
+  bastardly: 116723
+  downwardly: 137576
+  eastwardly: 170012
+  forwardly: 225130
+  niggardly: 138674
+not_scored_words:
+- backwardly
+- blackguardly
+- frowardly
+- haggardly
+- laggardly
+- northeastwardly
+- northwardly
+- northwestwardly
+- sluggardly
+- southeastwardly
+- southwardly
+- southwestwardly
+- towardly
+- untowardly
+- waywardly
+- westwardly
+- wizardly

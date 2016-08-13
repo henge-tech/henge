@@ -1,0 +1,53 @@
+---
+pattern: mi_l
+hi_scored_words_count: 20
+scored_words_count: 3
+total_words: 43
+score: 1291426
+score_per_word: 56148
+hi_scored_words:
+  microbial: 16819
+  microbiological: 40765
+  microscopical: 98537
+  mil: 10767
+  mill: 3594
+  millennial: 43998
+  mindful: 20374
+  mineral: 5309
+  mineralogical: 62404
+  minimal: 7955
+  ministerial: 13124
+  minoxidil: 88280
+  minstrel: 29604
+  missal: 80572
+  misspell: 98004
+  mistral: 42489
+  mistrial: 72496
+  mistrustful: 86931
+  mitochondrial: 17417
+  mitral: 31697
+scored_words:
+  microsurgical: 135811
+  mirthful: 133193
+  misdeal: 151286
+not_scored_words:
+- Michael
+- Micheal
+- Michel
+- Miguel
+- Mikhail
+- Mill
+- Mitchel
+- Mitchell
+- miasmal
+- microcosmical
+- microsporophyll
+- migrational
+- millesimal
+- minatorial
+- misanthropical
+- miscall
+- misdial
+- mislabel
+- mispickel
+- mizzensail

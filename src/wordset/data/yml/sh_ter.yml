@@ -1,0 +1,24 @@
+---
+pattern: sh_ter
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 14
+score: 944616
+score_per_word: 78718
+hi_scored_words:
+  sharpshooter: 56059
+  shatter: 28738
+  shearwater: 51994
+  shelter: 3975
+  shifter: 30181
+  shooter: 11790
+  shorter: 5914
+  shutter: 13362
+scored_words:
+  shipmaster: 141360
+  shoplifter: 117136
+  shouter: 298355
+  shyster: 185752
+not_scored_words:
+- shipfitter
+- shopfitter

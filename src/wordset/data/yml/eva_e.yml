@@ -1,0 +1,27 @@
+---
+pattern: eva_e
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 17
+score: 657395
+score_per_word: 59763
+hi_scored_words:
+  evacuate: 24365
+  evacuee: 94851
+  evade: 24095
+  evaluate: 7729
+  evaluative: 34249
+  evanescence: 21704
+  evangelize: 73713
+  evaporate: 36567
+  evaporative: 51684
+  evasive: 33196
+scored_words:
+  evaporite: 255242
+not_scored_words:
+- Evangeline
+- Evansville
+- evadable
+- evaginate
+- evanesce
+- evaporable

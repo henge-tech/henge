@@ -1,0 +1,55 @@
+---
+pattern: de_al
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 45
+score: 2003001
+score_per_word: 80120
+hi_scored_words:
+  deal: 653
+  decal: 20997
+  decennial: 58289
+  decimal: 15403
+  deferential: 65088
+  deferral: 44646
+  definitional: 61255
+  delusional: 34069
+  denial: 6877
+  denominational: 33409
+  dental: 11709
+  departmental: 15624
+  depositional: 69380
+  dermal: 34482
+  dermatological: 82393
+  detrimental: 18161
+  detrital: 75259
+  developmental: 6037
+  devotional: 22762
+scored_words:
+  decremental: 330293
+  demoniacal: 205897
+  denotational: 139502
+  dentinal: 266183
+  derivational: 133869
+  dextral: 250764
+not_scored_words:
+- decagonal
+- decahedral
+- decanal
+- declensional
+- declinational
+- decretal
+- decrial
+- dedal
+- defrayal
+- deistical
+- demagogical
+- demiurgical
+- demonical
+- demurral
+- dendrochronological
+- dentilabial
+- dentilingual
+- deposal
+- devisal
+- dextrosinistral

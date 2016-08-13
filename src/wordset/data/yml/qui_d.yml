@@ -1,0 +1,25 @@
+---
+pattern: qui_d
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 1029833
+score_per_word: 102983
+hi_scored_words:
+  quickened: 56507
+  quicksand: 46632
+  quid: 19450
+  quieted: 66619
+  quilted: 30550
+  quipped: 70911
+  quivered: 77328
+  quizzed: 78465
+scored_words:
+  quietened: 266055
+  quirked: 317316
+not_scored_words:
+- quibbled
+- quiesced
+- quinonoid
+- quinquefid
+- quintupled

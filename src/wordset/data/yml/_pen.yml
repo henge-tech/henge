@@ -1,0 +1,37 @@
+---
+pattern: _pen
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 27
+score: 1103597
+score_per_word: 64917
+hi_scored_words:
+  aspen: 15547
+  bullpen: 31057
+  dampen: 45746
+  deepen: 23419
+  happen: 1525
+  misshapen: 70548
+  open: 197
+  pen: 2853
+  playpen: 59584
+  reopen: 25785
+  ripen: 45077
+  sharpen: 25045
+scored_words:
+  cheapen: 103700
+  hempen: 217633
+  lumpen: 158371
+  pigpen: 120352
+  shippen: 157158
+not_scored_words:
+- Aspen
+- Papen
+- Pen
+- holpen
+- overripen
+- rappen
+- resharpen
+- steepen
+- unpen
+- unshapen

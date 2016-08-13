@@ -1,0 +1,20 @@
+---
+pattern: e_it
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 91886
+score_per_word: 11485
+hi_scored_words:
+  edit: 2408
+  elicit: 24084
+  emit: 21687
+  esprit: 20788
+  exhibit: 3880
+  exit: 4059
+  explicit: 6357
+  exploit: 8623
+scored_words: {}
+not_scored_words:
+- electrodeposit
+- elegit

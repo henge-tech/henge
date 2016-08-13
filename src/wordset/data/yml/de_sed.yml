@@ -1,0 +1,25 @@
+---
+pattern: de_sed
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 15
+score: 1034912
+score_per_word: 79608
+hi_scored_words:
+  debased: 80708
+  deceased: 7884
+  decomposed: 35064
+  decreased: 7859
+  defused: 94803
+  deposed: 35589
+  depressed: 8024
+  despised: 27020
+  devised: 12248
+scored_words:
+  decompressed: 110733
+  defensed: 242279
+  degassed: 239374
+  demised: 133327
+not_scored_words:
+- degaussed
+- deloused

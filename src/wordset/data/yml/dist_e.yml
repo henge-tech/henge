@@ -1,0 +1,25 @@
+---
+pattern: dist_e
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 742828
+score_per_word: 67529
+hi_scored_words:
+  distance: 845
+  distaste: 47390
+  distillate: 51027
+  distinctive: 7781
+  distinguishable: 34367
+  distributable: 82986
+  distribute: 4436
+  distributive: 43718
+  disturbance: 9423
+scored_words:
+  distingue: 177112
+  distributee: 283743
+not_scored_words:
+- distensible
+- distinguee
+- distinguée
+- distraite

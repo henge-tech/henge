@@ -1,0 +1,69 @@
+---
+pattern: sa_er
+hi_scored_words_count: 23
+scored_words_count: 10
+total_words: 59
+score: 2927065
+score_per_word: 88698
+hi_scored_words:
+  saber: 21311
+  sadder: 58160
+  saddler: 73236
+  safer: 15582
+  safflower: 79211
+  sager: 45079
+  sailer: 69578
+  salamander: 33887
+  salter: 39043
+  saltwater: 21716
+  sampler: 14512
+  sander: 21151
+  sandpaper: 40351
+  sandpiper: 32743
+  saner: 94419
+  sanitizer: 57258
+  sapper: 78506
+  saucer: 18607
+  saucier: 81193
+  saunter: 88878
+  saver: 9338
+  sawyer: 15073
+  sayer: 55162
+scored_words:
+  sacker: 180435
+  safecracker: 222203
+  sailmaker: 216017
+  saker: 111044
+  saltier: 205921
+  saltpeter: 132180
+  salver: 154229
+  sandblaster: 285375
+  sapsucker: 112763
+  sauger: 242904
+not_scored_words:
+- Sabatier
+- Salinger
+- Sanger
+- Sawyer
+- saccharometer
+- sacrificer
+- saggier
+- sailboarder
+- saintlier
+- salimeter
+- salinometer
+- sallower
+- saltshaker
+- salvager
+- sanctifier
+- sandbagger
+- sandier
+- sandlotter
+- sappier
+- sassier
+- saunterer
+- savager
+- savorer
+- savorier
+- savvier
+- sawer

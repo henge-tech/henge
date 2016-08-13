@@ -1,0 +1,25 @@
+---
+pattern: nei_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 917093
+score_per_word: 76424
+hi_scored_words:
+  neigh: 48410
+  neighbor: 5984
+  neighborhood: 2721
+  neighborhoods: 15705
+  neighboring: 8937
+  neighborly: 77630
+  neighbors: 4766
+  neither: 1593
+scored_words:
+  neighbored: 179295
+  neighborliness: 233658
+  neighed: 145177
+  neighing: 193217
+not_scored_words:
+- Neil
+- Neisse
+- neighs

@@ -1,0 +1,53 @@
+---
+pattern: slee_
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 43
+score: 1920873
+score_per_word: 71143
+hi_scored_words:
+  sleek: 14328
+  sleep: 1218
+  sleeper: 15733
+  sleepers: 31738
+  sleepily: 76021
+  sleepiness: 60301
+  sleeping: 3040
+  sleepless: 22272
+  sleeplessness: 64726
+  sleepover: 47507
+  sleeps: 8088
+  sleepwalker: 90960
+  sleepwalking: 77458
+  sleepwear: 53454
+  sleepy: 9327
+  sleet: 36457
+  sleeve: 5350
+  sleeved: 27384
+  sleeveless: 25693
+  sleeves: 13984
+scored_words:
+  sleeker: 105124
+  sleekest: 256515
+  sleekly: 264706
+  sleepovers: 105548
+  sleepwalk: 140974
+  sleepwalkers: 207277
+  sleepyhead: 155690
+not_scored_words:
+- sleeked
+- sleeking
+- sleekit
+- sleekness
+- sleeks
+- sleepier
+- sleepiest
+- sleepings
+- sleeplessly
+- sleepwalked
+- sleepwalks
+- sleepyheads
+- sleeted
+- sleeting
+- sleets
+- sleety

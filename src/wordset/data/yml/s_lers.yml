@@ -1,0 +1,47 @@
+---
+pattern: s_lers
+hi_scored_words_count: 14
+scored_words_count: 13
+total_words: 37
+score: 3060056
+score_per_word: 113335
+hi_scored_words:
+  samplers: 35627
+  schedulers: 91760
+  sealers: 58217
+  sellers: 4462
+  settlers: 8917
+  smugglers: 33365
+  sparklers: 80288
+  spoilers: 23174
+  sprinklers: 36092
+  staplers: 81708
+  storytellers: 44432
+  stragglers: 69156
+  stranglers: 79408
+  strollers: 38157
+scored_words:
+  saddlers: 124941
+  scramblers: 182348
+  scribblers: 184591
+  scullers: 233856
+  semitrailers: 199658
+  shufflers: 243343
+  sizzlers: 217083
+  snorkelers: 185321
+  spellers: 152381
+  sticklers: 258847
+  stumblers: 138104
+  swashbucklers: 146668
+  swindlers: 108152
+not_scored_words:
+- Sellers
+- scrabblers
+- shovelers
+- signalers
+- snivelers
+- squabblers
+- squealers
+- steamrollers
+- straddlers
+- sutlers

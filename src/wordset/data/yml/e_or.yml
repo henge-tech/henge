@@ -1,0 +1,81 @@
+---
+pattern: e_or
+hi_scored_words_count: 27
+scored_words_count: 6
+total_words: 71
+score: 2144702
+score_per_word: 64990
+hi_scored_words:
+  editor: 1710
+  educator: 16793
+  effector: 42282
+  ejector: 57894
+  elector: 27290
+  elevator: 9322
+  eliminator: 35299
+  emperor: 4622
+  emptor: 79547
+  emulator: 20156
+  endeavor: 10867
+  enumerator: 86919
+  equator: 19614
+  erector: 71896
+  error: 1239
+  escalator: 38401
+  estimator: 23964
+  evaluator: 34359
+  evaporator: 47131
+  excavator: 48325
+  excelsior: 30795
+  executor: 25443
+  exhibitor: 29248
+  extensor: 59689
+  exterior: 6084
+  exterminator: 53592
+  extractor: 23570
+scored_words:
+  elicitor: 237192
+  emancipator: 242716
+  enactor: 290321
+  eradicator: 181857
+  exfoliator: 170514
+  expositor: 116051
+not_scored_words:
+- Ecuador
+- Elanor
+- Eleanor
+- Elinor
+- Ensor
+- Erector
+- Exmoor
+- ejaculator
+- elaborator
+- electromotor
+- elucidator
+- emanator
+- emasculator
+- embraceor
+- enamor
+- endorsor
+- enervator
+- enunciator
+- ephor
+- equivocator
+- evertor
+- evictor
+- evocator
+- exactor
+- exaggerator
+- excitor
+- excommunicator
+- execrator
+- exonerator
+- expiator
+- explicator
+- expostulator
+- expropriator
+- expurgator
+- extenuator
+- exteroceptor
+- extirpator
+- extrapolator

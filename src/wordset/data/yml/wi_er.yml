@@ -1,0 +1,65 @@
+---
+pattern: wi_er
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 55
+score: 2268445
+score_per_word: 81015
+hi_scored_words:
+  wicker: 19246
+  widener: 57005
+  wider: 4912
+  widower: 30963
+  wielder: 99231
+  wiener: 29257
+  wilder: 17779
+  wildflower: 38242
+  willpower: 39890
+  windbreaker: 79145
+  winder: 34984
+  windjammer: 85584
+  winemaker: 57159
+  winger: 27073
+  winner: 5798
+  winter: 1030
+  wiper: 27529
+  wiser: 17188
+  wither: 33039
+  witter: 54906
+scored_words:
+  wicketkeeper: 141697
+  wiggler: 121709
+  windflower: 264855
+  windhover: 293225
+  windsurfer: 121825
+  winker: 172604
+  wisher: 124212
+  wittier: 268358
+not_scored_words:
+- Wigner
+- Wilber
+- Wilder
+- Wilmer
+- Winchester
+- Windbreaker
+- Winnipegger
+- wickeder
+- wieldier
+- wigglier
+- wildcatter
+- wilier
+- wimpier
+- windcheater
+- windier
+- winebibber
+- winegrower
+- wingover
+- winier
+- winnower
+- winsomer
+- wintrier
+- wirer
+- wiretapper
+- wirier
+- wisenheimer
+- wispier

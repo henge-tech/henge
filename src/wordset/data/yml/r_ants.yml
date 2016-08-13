@@ -1,0 +1,26 @@
+---
+pattern: r_ants
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 699162
+score_per_word: 69916
+hi_scored_words:
+  rants: 16279
+  reactants: 63981
+  refrigerants: 87346
+  registrants: 49423
+  relaxants: 69264
+  remnants: 16570
+  restaurants: 4192
+  retardants: 83855
+  ruminants: 66971
+scored_words:
+  resultants: 241281
+not_scored_words:
+- recants
+- recreants
+- recusants
+- redcurrants
+- remonstrants
+- replants

@@ -1,0 +1,47 @@
+---
+pattern: _tron
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 37
+score: 1206482
+score_per_word: 75405
+hi_scored_words:
+  citron: 44979
+  cyclotron: 48022
+  electron: 8761
+  magnetron: 92712
+  matron: 33125
+  neutron: 18056
+  patron: 8872
+  photoelectron: 84412
+  positron: 37013
+  synchrotron: 39488
+  tron: 33425
+scored_words:
+  betatron: 153890
+  dynatron: 130268
+  elytron: 173209
+  klystron: 114565
+  natron: 185685
+not_scored_words:
+- Arbitron
+- Cosmotron
+- antineutron
+- bevatron
+- calutron
+- hemelytron
+- hemielytron
+- ignitron
+- isotron
+- mesotron
+- negatron
+- periastron
+- permatron
+- phanotron
+- photoneutron
+- plectron
+- resnatron
+- strobotron
+- synchrocyclotron
+- thyratron
+- waitron

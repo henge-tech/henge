@@ -1,0 +1,41 @@
+---
+pattern: s_ays
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 31
+score: 2299204
+score_per_word: 114960
+hi_scored_words:
+  says: 339
+  screenplays: 45334
+  shays: 75347
+  sideways: 16889
+  slays: 82292
+  sprays: 23870
+  stairways: 58515
+  stays: 6934
+  stingrays: 75699
+  strays: 49173
+  subways: 38864
+  sways: 89242
+scored_words:
+  schooldays: 112032
+  seaways: 184600
+  shipways: 287799
+  speedways: 228602
+  spillways: 167272
+  splays: 313690
+  stowaways: 156957
+  superhighways: 285754
+not_scored_words:
+- Saturdays
+- Shays
+- Sundays
+- sashays
+- sickbays
+- slipways
+- sluiceways
+- someways
+- spays
+- steerageways
+- straightaways

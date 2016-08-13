@@ -1,0 +1,40 @@
+---
+pattern: n_nce
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 30
+score: 1838085
+score_per_word: 108122
+hi_scored_words:
+  nance: 32227
+  negligence: 9793
+  neuroscience: 15304
+  nonce: 43155
+  nonchalance: 99553
+  noncompliance: 36934
+  nonexistence: 94322
+  nonviolence: 44891
+  nuance: 34961
+  nuisance: 13619
+scored_words:
+  nescience: 139233
+  ninepence: 126751
+  nonacceptance: 175494
+  nonconformance: 233706
+  nonfeasance: 335735
+  noninterference: 225000
+  nonperformance: 177407
+not_scored_words:
+- nascence
+- nonadherence
+- nonappearance
+- nonattendance
+- nonconcurrence
+- nonobedience
+- nonobservance
+- nonoccurence
+- nonoccurrence
+- nonresemblance
+- nonresidence
+- nonresistance
+- nonsignificance

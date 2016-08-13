@@ -1,0 +1,42 @@
+---
+pattern: _aler
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 32
+score: 1553507
+score_per_word: 73976
+hi_scored_words:
+  baler: 81670
+  concealer: 47426
+  dealer: 4422
+  dialer: 41549
+  healer: 24756
+  impaler: 93528
+  inhaler: 35482
+  paler: 56532
+  scaler: 66656
+  sealer: 39643
+  stealer: 67757
+  teetotaler: 71013
+  thaler: 64544
+  whaler: 44259
+  wholesaler: 25531
+scored_words:
+  haler: 168912
+  realer: 105779
+  repealer: 114603
+  signaler: 119121
+  squealer: 147686
+  taler: 132638
+not_scored_words:
+- Hospitaler
+- Waler
+- annealer
+- appealer
+- coaler
+- loyaler
+- marshaler
+- newsdealer
+- rigsdaler
+- staler
+- victualer

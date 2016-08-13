@@ -1,0 +1,51 @@
+---
+pattern: t_os
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 41
+score: 1742992
+score_per_word: 96832
+hi_scored_words:
+  taboos: 51732
+  tacos: 30200
+  tattoos: 9215
+  tempos: 71636
+  thermos: 36192
+  tobaccos: 89175
+  trios: 44767
+  turbos: 64680
+  tuxedos: 47121
+  twos: 41201
+  typos: 24433
+scored_words:
+  tangos: 106609
+  tholos: 268917
+  toreros: 174210
+  torsos: 119688
+  tremolos: 292659
+  tripos: 107818
+  tyros: 162739
+not_scored_words:
+- Tabascos
+- Talos
+- Taos
+- Tenedos
+- Thanatos
+- Theotokos
+- Thermos
+- Tiros
+- Toledos
+- tallyhos
+- tangelos
+- taros
+- telephotos
+- tennos
+- teredos
+- terrazzos
+- terzettos
+- testudos
+- thickos
+- touracos
+- tournedos
+- tupelos
+- turacos

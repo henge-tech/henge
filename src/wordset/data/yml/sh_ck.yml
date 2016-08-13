@@ -1,0 +1,26 @@
+---
+pattern: sh_ck
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 902705
+score_per_word: 90270
+hi_scored_words:
+  shack: 14067
+  shamrock: 25341
+  shipwreck: 28371
+  shock: 2906
+  shtick: 75116
+  shuck: 69306
+  shuttlecock: 99892
+  shylock: 76900
+scored_words:
+  shaddock: 320172
+  shelduck: 190634
+not_scored_words:
+- Sheetrock
+- Sherlock
+- Shylock
+- shellback
+- shmuck
+- shoeblack

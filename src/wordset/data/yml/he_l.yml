@@ -1,0 +1,59 @@
+---
+pattern: he_l
+hi_scored_words_count: 14
+scored_words_count: 13
+total_words: 49
+score: 3035712
+score_per_word: 112433
+hi_scored_words:
+  he'll: 3516
+  heal: 8136
+  healthful: 30386
+  heel: 6894
+  helical: 30843
+  hell: 1921
+  helpful: 3380
+  hematological: 94428
+  hemispherical: 85298
+  herbal: 10820
+  heretical: 36584
+  heterosexual: 20936
+  hexadecimal: 34225
+  hexagonal: 34840
+scored_words:
+  headrail: 226881
+  headsail: 296347
+  headstall: 270102
+  heedful: 125637
+  heliacal: 152640
+  hemorrhoidal: 207114
+  heptagonal: 137808
+  herbicidal: 308223
+  herl: 260054
+  hermeneutical: 111012
+  heroical: 199373
+  herpetological: 130730
+  hexyl: 207584
+not_scored_words:
+- Hebbel
+- Hebraistical
+- Hegel
+- Heimdall
+- Hel
+- Herschel
+- Hershel
+- Herzl
+- Heyerdahl
+- hebdomadal
+- heliocentrical
+- hemal
+- hematocryal
+- hematothermal
+- hemihedral
+- hermaphroditical
+- hermetical
+- hernial
+- heterocercal
+- heterolecithal
+- hexametrical
+- hexylresorcinol

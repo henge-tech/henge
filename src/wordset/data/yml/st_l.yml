@@ -1,0 +1,52 @@
+---
+pattern: st_l
+hi_scored_words_count: 21
+scored_words_count: 7
+total_words: 42
+score: 2408691
+score_per_word: 86024
+hi_scored_words:
+  stairwell: 50656
+  stall: 11913
+  standstill: 31505
+  staphylococcal: 66291
+  statistical: 7175
+  steal: 4893
+  steel: 1660
+  stencil: 23932
+  stereotypical: 34676
+  steroidal: 66166
+  sterol: 72432
+  still: 175
+  stomatal: 97713
+  stonewall: 31100
+  stool: 14028
+  streptococcal: 59796
+  stressful: 17918
+  stroll: 14023
+  structural: 6817
+  strudel: 80250
+  stull: 80491
+scored_words:
+  staysail: 288330
+  steamroll: 260305
+  stigmasterol: 341443
+  stoical: 151519
+  strategical: 132134
+  stratigraphical: 272977
+  streusel: 188373
+not_scored_words:
+- STOL
+- Stael
+- Stambul
+- Stavropol
+- Stendhal
+- Stengel
+- stammel
+- statical
+- stilbestrol
+- stipel
+- strabismal
+- strigil
+- studdingsail
+- stunsail

@@ -1,0 +1,28 @@
+---
+pattern: poli_s
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 18
+score: 595749
+score_per_word: 45826
+hi_scored_words:
+  polices: 50045
+  policies: 3958
+  policyholders: 48247
+  policymakers: 21595
+  poliomyelitis: 58192
+  polis: 45528
+  polishes: 45988
+  politeness: 32198
+  politicians: 5633
+  politicos: 70967
+  politics: 1421
+scored_words:
+  polishers: 101485
+  polities: 110492
+not_scored_words:
+- polios
+- polishings
+- politburos
+- politicizes
+- politicks

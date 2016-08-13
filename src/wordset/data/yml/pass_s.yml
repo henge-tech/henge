@@ -1,0 +1,36 @@
+---
+pattern: pass_s
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 26
+score: 1123152
+score_per_word: 86396
+hi_scored_words:
+  passages: 7830
+  passageways: 60900
+  passengers: 4739
+  passers: 51317
+  passes: 3339
+  passions: 10287
+  passives: 79373
+  passports: 19392
+  passwords: 8686
+scored_words:
+  passerines: 143887
+  passionless: 149778
+  passiveness: 296244
+  passphrases: 287380
+not_scored_words:
+- Passions
+- Passovers
+- passbooks
+- passels
+- passementeries
+- passifloraceous
+- passionateness
+- passionflowers
+- passionlessness
+- passivisms
+- passivizes
+- passkeys
+- passus

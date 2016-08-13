@@ -1,0 +1,25 @@
+---
+pattern: _oup
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 15
+score: 693221
+score_per_word: 53324
+hi_scored_words:
+  coup: 10097
+  croup: 57615
+  group: 358
+  loup: 43746
+  newsgroup: 17786
+  playgroup: 54772
+  recoup: 38755
+  regroup: 51189
+  soup: 4406
+  subgroup: 17895
+scored_words:
+  ingroup: 130947
+  roup: 121032
+  stoup: 144623
+not_scored_words:
+- Citigroup
+- contrecoup

@@ -1,0 +1,44 @@
+---
+pattern: reco_e
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 34
+score: 1746804
+score_per_word: 75948
+hi_scored_words:
+  recode: 79866
+  recognizable: 21243
+  recognizance: 97850
+  recognize: 2987
+  recompense: 39321
+  recompile: 65886
+  reconcile: 14900
+  reconfigurable: 68026
+  reconfigure: 46090
+  reconnaissance: 17492
+  reconstitute: 76126
+  reconstructive: 33474
+  reconvene: 67360
+  recordable: 49376
+  recourse: 15019
+  recoverable: 31664
+scored_words:
+  recombine: 113324
+  recommence: 116444
+  recommendable: 133206
+  recompose: 221053
+  recompute: 154740
+  reconcilable: 159715
+  recondite: 121642
+not_scored_words:
+- recognizee
+- recolonize
+- reconceive
+- reconcentrate
+- recondense
+- reconsecrate
+- reconsolidate
+- reconstructible
+- recontaminate
+- recoupable
+- recouple

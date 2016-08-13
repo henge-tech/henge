@@ -1,0 +1,48 @@
+---
+pattern: ine_e
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 38
+score: 1792952
+score_per_word: 77954
+hi_scored_words:
+  inebriate: 75706
+  inedible: 67467
+  ineffable: 50482
+  ineffective: 16758
+  ineligible: 27687
+  ineptitude: 69366
+  inequitable: 64978
+  inescapable: 39249
+  inestimable: 74506
+  inevitable: 6501
+  inexcusable: 55819
+  inexhaustible: 41200
+  inexorable: 46565
+  inexpensive: 12612
+  inexperience: 49472
+  inexplicable: 28582
+  inexpressible: 86424
+  inextricable: 95669
+scored_words:
+  ineffaceable: 181991
+  ineluctable: 159890
+  ineradicable: 131240
+  inexpressive: 167009
+  inextinguishable: 243779
+not_scored_words:
+- ineducable
+- inelegance
+- ineludible
+- inenarrable
+- inerasable
+- inerrable
+- inessive
+- inevasible
+- inexactitude
+- inexpedience
+- inexpiable
+- inexpugnable
+- inexpungible
+- inextensible
+- inextirpable

@@ -1,0 +1,45 @@
+---
+pattern: b_ad
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 35
+score: 1958975
+score_per_word: 81623
+hi_scored_words:
+  bad: 407
+  ballad: 13311
+  beachhead: 87461
+  bead: 12135
+  bedspread: 52336
+  bedstead: 55442
+  behead: 84993
+  blockhead: 49419
+  boatload: 93041
+  bonehead: 76936
+  brad: 14172
+  bread: 2539
+  bridgehead: 79626
+  broad: 2306
+  bulkhead: 38269
+  bullhead: 55717
+scored_words:
+  baldhead: 218370
+  bedhead: 103221
+  bighead: 154056
+  blackhead: 111442
+  bowhead: 137824
+  bromeliad: 110840
+  bufflehead: 244526
+  busload: 160586
+not_scored_words:
+- Baghdad
+- Birkenhead
+- Brad
+- Broad
+- barrelhead
+- beebread
+- bespread
+- bestead
+- billhead
+- blubberhead
+- byroad

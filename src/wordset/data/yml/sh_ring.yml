@@ -1,0 +1,25 @@
+---
+pattern: sh_ring
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 15
+score: 1227086
+score_per_word: 87649
+hi_scored_words:
+  sharing: 2739
+  shattering: 32384
+  shearing: 34071
+  sheltering: 41293
+  shimmering: 29808
+  shivering: 26969
+  shoestring: 45065
+  shoring: 64084
+  shouldering: 95644
+  showering: 36060
+  shuddering: 63733
+scored_words:
+  sheering: 278188
+  shirring: 329993
+  shuttering: 147055
+not_scored_words:
+- sheepshearing

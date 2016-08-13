@@ -1,0 +1,39 @@
+---
+pattern: cult_
+hi_scored_words_count: 19
+scored_words_count: 5
+total_words: 29
+score: 1459244
+score_per_word: 60801
+hi_scored_words:
+  cult: 8441
+  cultists: 96473
+  cultivar: 34615
+  cultivars: 30480
+  cultivate: 15696
+  cultivated: 10597
+  cultivates: 64913
+  cultivating: 26655
+  cultivation: 9248
+  cultivator: 67366
+  cultivators: 63111
+  cults: 29671
+  cultural: 5708
+  culturally: 14053
+  culture: 1439
+  cultured: 14256
+  cultures: 10635
+  culturing: 68835
+  cultus: 92355
+scored_words:
+  cultic: 100218
+  cultish: 197784
+  cultist: 137812
+  cultivable: 148173
+  cultivations: 210710
+not_scored_words:
+- cultch
+- cultigen
+- cultism
+- cultivatable
+- cultrate

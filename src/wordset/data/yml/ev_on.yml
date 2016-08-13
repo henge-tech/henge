@@ -1,0 +1,25 @@
+---
+pattern: ev_on
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 605878
+score_per_word: 55079
+hi_scored_words:
+  evacuation: 13768
+  evaluation: 13357
+  evangelization: 52964
+  evaporation: 18741
+  evapotranspiration: 70311
+  evasion: 21018
+  eviction: 31353
+  evocation: 56286
+  evolution: 3006
+scored_words:
+  eversion: 198305
+  evisceration: 126769
+not_scored_words:
+- Evanston
+- evection
+- eventuation
+- evulsion

@@ -1,0 +1,41 @@
+---
+pattern: wo_n
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 31
+score: 794376
+score_per_word: 44132
+hi_scored_words:
+  woken: 34185
+  woman: 480
+  women: 201
+  won: 1466
+  wooden: 3166
+  woodman: 35886
+  woodsman: 56530
+  woolen: 35387
+  workman: 19784
+  workmen: 22903
+  workstation: 15003
+  worn: 4185
+  worsen: 32468
+  woven: 16387
+scored_words:
+  woodmen: 116548
+  woodsmen: 144586
+  workingman: 126252
+  workingmen: 128959
+not_scored_words:
+- Wobegon
+- Woden
+- Wollaston
+- Wolverhampton
+- Wooten
+- Workman
+- Wotan
+- Wotton
+- woadwaxen
+- woodwaxen
+- workingwoman
+- workingwomen
+- workwoman

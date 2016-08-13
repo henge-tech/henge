@@ -1,0 +1,37 @@
+---
+pattern: _hin
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 27
+score: 975249
+score_per_word: 65016
+hi_scored_words:
+  capuchin: 63040
+  chin: 6575
+  dauphin: 25477
+  dolphin: 13389
+  endorphin: 74356
+  hin: 25462
+  lecithin: 43169
+  shin: 17376
+  thin: 2382
+  urchin: 31620
+  within: 182
+scored_words:
+  catechin: 166887
+  washin: 127840
+  whin: 162423
+  xanthin: 215071
+not_scored_words:
+- Capuchin
+- Chin
+- Cochin
+- Dauphin
+- Godolphin
+- Ilyushin
+- Menuhin
+- baldachin
+- fellahin
+- strophanthin
+- superthin
+- sympathin

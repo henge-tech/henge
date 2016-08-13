@@ -1,0 +1,54 @@
+---
+pattern: ant_y
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 44
+score: 2082152
+score_per_word: 104107
+hi_scored_words:
+  anteriorly: 91724
+  anthology: 15525
+  anthropology: 14845
+  antibody: 8485
+  anticipatory: 46871
+  antimony: 33517
+  antipathy: 49073
+  antiquary: 82604
+  antiquity: 14958
+  antislavery: 81603
+  antsy: 93419
+scored_words:
+  anthropometry: 128157
+  anthropophagy: 184755
+  anthroposophy: 102746
+  antianxiety: 165190
+  antigenicity: 176761
+  antigravity: 122119
+  antinomy: 197935
+  antiphony: 229808
+  antipoverty: 242057
+not_scored_words:
+- Anthony
+- Antony
+- antagonistically
+- antecedency
+- anteriority
+- anthotaxy
+- anthropogenically
+- anthropogeography
+- anthropography
+- anthropolatry
+- anthropologically
+- anthropomorphically
+- anthropopathy
+- anticlimactically
+- antifertility
+- antilogy
+- antiphonally
+- antiphonary
+- antiquely
+- antirevolutionary
+- antiseptically
+- antisocially
+- antithetically
+- antonymy

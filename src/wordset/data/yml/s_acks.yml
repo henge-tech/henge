@@ -1,0 +1,29 @@
+---
+pattern: s_acks
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1183920
+score_per_word: 91070
+hi_scored_words:
+  sacks: 15522
+  setbacks: 27238
+  shacks: 65521
+  slacks: 36374
+  smacks: 45687
+  snacks: 12312
+  soundtracks: 13528
+  stacks: 14363
+scored_words:
+  sidetracks: 255788
+  slingbacks: 207223
+  smokestacks: 124873
+  sticklebacks: 237181
+  switchbacks: 128310
+not_scored_words:
+- saddlebacks
+- shoeblacks
+- skipjacks
+- skyjacks
+- steeplejacks
+- supplejacks

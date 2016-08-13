@@ -1,0 +1,27 @@
+---
+pattern: weak_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 17
+score: 651603
+score_per_word: 50123
+hi_scored_words:
+  weak: 2523
+  weaken: 17408
+  weakened: 15872
+  weakening: 20466
+  weakens: 42249
+  weaker: 10138
+  weakest: 19539
+  weakling: 74533
+  weakly: 17232
+  weakness: 5699
+  weaknesses: 8781
+scored_words:
+  weakfish: 255808
+  weaklings: 161355
+not_scored_words:
+- weakener
+- weakeners
+- weakfishes
+- weakish

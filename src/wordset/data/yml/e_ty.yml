@@ -1,0 +1,69 @@
+---
+pattern: e_ty
+hi_scored_words_count: 25
+scored_words_count: 10
+total_words: 59
+score: 2759205
+score_per_word: 78834
+hi_scored_words:
+  eccentricity: 40924
+  eighty: 9416
+  elasticity: 17822
+  electricity: 4182
+  eligibility: 13837
+  emissivity: 76550
+  employability: 33834
+  empty: 1809
+  enforceability: 76964
+  enmity: 31377
+  enormity: 47415
+  entirety: 16078
+  entity: 3363
+  entreaty: 81424
+  equality: 4706
+  equanimity: 54084
+  equity: 4804
+  eternity: 8365
+  ethnicity: 13847
+  eventuality: 65682
+  excitability: 70549
+  exclusivity: 34348
+  extensibility: 50946
+  externality: 60726
+  extremity: 18491
+scored_words:
+  edibility: 210348
+  effectivity: 126739
+  electability: 257471
+  ellipticity: 143478
+  emotionality: 149325
+  endemicity: 271275
+  essentiality: 185640
+  expandability: 103691
+  expressivity: 140348
+  extendibility: 329347
+not_scored_words:
+- Equity
+- ecumenicity
+- edacity
+- educability
+- effectuality
+- egocentricity
+- emotivity
+- enviability
+- ephemerality
+- epinasty
+- equability
+- equitability
+- equivocality
+- ergativity
+- ethereality
+- ethnocentricity
+- exemplarity
+- exhaustibility
+- exiguity
+- exportability
+- extemporaneity
+- extendability
+- extensity
+- extraterritoriality

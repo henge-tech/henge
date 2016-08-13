@@ -1,0 +1,44 @@
+---
+pattern: d_ia
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 34
+score: 2317936
+score_per_word: 115896
+hi_scored_words:
+  dahlia: 32495
+  dementia: 22906
+  diphtheria: 35614
+  dyslexia: 23495
+  dyspepsia: 51488
+  dysphagia: 51236
+  dysphoria: 86983
+  dysplasia: 33393
+  dystonia: 68453
+  dystopia: 58462
+scored_words:
+  deutzia: 340607
+  differentia: 179489
+  diplopia: 125433
+  dipsomania: 162057
+  dysarthria: 141607
+  dysgraphia: 233415
+  dysphasia: 228511
+  dysphonia: 197159
+  dysthymia: 129179
+  dysuria: 115954
+not_scored_words:
+- Dacia
+- Dalmatia
+- Delia
+- Dionysia
+- Dzungaria
+- decalcomania
+- deuteranopia
+- dianoia
+- diplegia
+- dulia
+- dyscrasia
+- dyslalia
+- dyslogia
+- dysphemia

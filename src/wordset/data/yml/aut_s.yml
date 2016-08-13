@@ -1,0 +1,77 @@
+---
+pattern: aut_s
+hi_scored_words_count: 15
+scored_words_count: 20
+total_words: 67
+score: 4305183
+score_per_word: 123005
+hi_scored_words:
+  authenticates: 92960
+  authorities: 2340
+  authorizations: 45682
+  authorizes: 25136
+  authors: 1884
+  autobiographies: 60582
+  autocross: 97621
+  autographs: 21596
+  automakers: 44759
+  automates: 54002
+  automatics: 75799
+  automobiles: 11962
+  autonomous: 15294
+  autopsies: 71572
+  autos: 23095
+scored_words:
+  authentications: 155388
+  authenticators: 224749
+  authoress: 183099
+  authoritarians: 214482
+  autobus: 113749
+  autobuses: 274894
+  autocephalous: 212697
+  autochthonous: 110806
+  autoclaves: 124030
+  autocracies: 266394
+  autocrats: 190238
+  autogenous: 116305
+  autografts: 292447
+  autolysis: 152499
+  automatons: 124079
+  automorphisms: 102450
+  autopilots: 143618
+  autosomes: 236094
+  autoworkers: 314491
+  autumns: 108390
+not_scored_words:
+- Autolycus
+- autacoids
+- autarchies
+- autarkies
+- authoresses
+- authoritativeness
+- autobahns
+- autobiographers
+- autocatalysis
+- autocatalyzes
+- autochthones
+- autodidacts
+- autoeroticisms
+- autoerotisms
+- autogamies
+- autogeneses
+- autogenesis
+- autogiros
+- autohypnosis
+- autoicous
+- autolyzes
+- automatizes
+- automats
+- autophytes
+- autoplasties
+- autoradiographs
+- autostradas
+- autosuggestions
+- autotomies
+- autotomizes
+- autotrophs
+- autotypes

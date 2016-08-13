@@ -1,0 +1,39 @@
+---
+pattern: era_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 29
+score: 1086160
+score_per_word: 63891
+hi_scored_words:
+  era: 3078
+  eradicate: 24376
+  eradicated: 43958
+  eradicating: 54334
+  eradication: 28579
+  eras: 32445
+  erasable: 85915
+  erase: 16004
+  erased: 23578
+  eraser: 24609
+  erasers: 57956
+  erases: 56538
+  erasing: 37160
+  erasure: 42228
+scored_words:
+  eradicates: 222199
+  eradicator: 181857
+  erasures: 151346
+not_scored_words:
+- ERA
+- Erasmus
+- Erastian
+- Erastianism
+- Erastianisms
+- Erato
+- Eratosthenes
+- eradiate
+- eradicable
+- eradicant
+- eradicators
+- erasion

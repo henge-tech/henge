@@ -1,0 +1,29 @@
+---
+pattern: tri_te
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 1142628
+score_per_word: 95219
+hi_scored_words:
+  triathlete: 69109
+  tribute: 4717
+  trilobite: 85257
+  tripartite: 36647
+  triplicate: 55659
+  triste: 60431
+  trite: 39116
+  triumvirate: 59600
+scored_words:
+  triangulate: 114698
+  tribunate: 132983
+  trifoliate: 253685
+  triturate: 230726
+not_scored_words:
+- Trieste
+- trichite
+- tricostate
+- trifurcate
+- trilobate
+- triphylite
+- tripinnate

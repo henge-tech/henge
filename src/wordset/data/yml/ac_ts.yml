@@ -1,0 +1,36 @@
+---
+pattern: ac_ts
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 26
+score: 1434636
+score_per_word: 68316
+hi_scored_words:
+  accents: 12602
+  accepts: 6236
+  accidents: 5544
+  accompaniments: 56673
+  accomplishments: 9663
+  accountants: 21202
+  accounts: 1689
+  accoutrements: 60924
+  achievements: 9983
+  acknowledgements: 16660
+  acknowledgments: 21969
+  acrobats: 71930
+  activists: 12211
+  acts: 1929
+scored_words:
+  accompanists: 192459
+  accosts: 122029
+  accouterments: 185104
+  accredits: 117835
+  acquaints: 185853
+  acquits: 199471
+  acupuncturists: 122670
+not_scored_words:
+- Acts
+- accompanyists
+- accordionists
+- accouchements
+- acrodonts

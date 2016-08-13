@@ -1,0 +1,43 @@
+---
+pattern: _pus
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 33
+score: 986891
+score_per_word: 75914
+hi_scored_words:
+  campus: 6719
+  corpus: 10653
+  hippocampus: 33594
+  lupus: 25047
+  octopus: 25352
+  opus: 18399
+  platypus: 36152
+  pus: 27666
+  rumpus: 68096
+scored_words:
+  carpus: 190009
+  grampus: 193922
+  metacarpus: 155365
+  pappus: 195917
+not_scored_words:
+- Apus
+- Aristippus
+- Canopus
+- Lepus
+- Leucippus
+- Lupus
+- Lysippus
+- Meganthropus
+- Oedipus
+- Olympus
+- Peipus
+- Pithecanthropus
+- Priapus
+- carpometacarpus
+- coypus
+- eohippus
+- euripus
+- pithecanthropus
+- polypus
+- quipus

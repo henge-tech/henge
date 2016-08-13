@@ -1,0 +1,74 @@
+---
+pattern: co_ity
+hi_scored_words_count: 27
+scored_words_count: 15
+total_words: 64
+score: 4399965
+score_per_word: 104761
+hi_scored_words:
+  collegiality: 97121
+  comity: 80918
+  commodity: 8255
+  commonality: 46507
+  community: 721
+  comparability: 42840
+  compatibility: 6351
+  complementarity: 47353
+  complexity: 7224
+  complicity: 32136
+  compressibility: 79574
+  computability: 94174
+  concavity: 92716
+  conditionality: 75805
+  conductivity: 17963
+  confidentiality: 9578
+  conformity: 11181
+  congeniality: 68991
+  connectivity: 12298
+  consanguinity: 75503
+  constitutionality: 39239
+  contiguity: 77720
+  continuity: 8356
+  contractility: 82273
+  controllability: 86476
+  convertibility: 92254
+  convexity: 55272
+scored_words:
+  collectivity: 104664
+  combustibility: 330446
+  communality: 268057
+  commutativity: 128407
+  comprehensibility: 166678
+  concentricity: 251693
+  confraternity: 146867
+  congruity: 152166
+  conspicuity: 218321
+  contemporaneity: 286952
+  conventionality: 183901
+  conviviality: 151863
+  cordiality: 106158
+  corporeality: 246022
+  countability: 308971
+not_scored_words:
+- coequality
+- coeternity
+- coevality
+- collaterality
+- comicality
+- commensality
+- commensurability
+- communicability
+- conceivability
+- concinnity
+- condensability
+- conductibility
+- conformability
+- conjugality
+- connubiality
+- consequentiality
+- contemptibility
+- contractibility
+- corporality
+- corporeity
+- corrigibility
+- corruptibility

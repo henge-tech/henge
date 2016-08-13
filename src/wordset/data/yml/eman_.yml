@@ -1,0 +1,27 @@
+---
+pattern: eman_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 1071582
+score_per_word: 89298
+hi_scored_words:
+  emanate: 50416
+  emanated: 68506
+  emanates: 68661
+  emanating: 34497
+  emanation: 67294
+  emanations: 89901
+  emancipate: 86818
+  emancipated: 55694
+  emancipation: 17922
+scored_words:
+  emancipating: 164388
+  emancipator: 242716
+  emancipatory: 124769
+not_scored_words:
+- Emanuel
+- emanative
+- emanator
+- emancipates
+- emancipators

@@ -1,0 +1,41 @@
+---
+pattern: exci_
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 31
+score: 2131392
+score_per_word: 92669
+hi_scored_words:
+  excise: 18159
+  excised: 49824
+  excision: 29490
+  excitability: 70549
+  excitable: 55605
+  excitation: 20607
+  excitations: 53419
+  excite: 9664
+  excited: 3025
+  excitedly: 39257
+  excitement: 4991
+  exciter: 76566
+  excites: 43173
+  exciting: 3266
+  exciton: 82929
+scored_words:
+  excipient: 200343
+  excisable: 265741
+  excises: 131587
+  excising: 198710
+  excisions: 254847
+  excitements: 162161
+  exciters: 197665
+  excitingly: 159814
+not_scored_words:
+- excide
+- exciseman
+- excisemen
+- excitableness
+- excitablenesses
+- excitably
+- excitant
+- excitor

@@ -1,0 +1,44 @@
+---
+pattern: for_t
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 34
+score: 1590167
+score_per_word: 66256
+hi_scored_words:
+  forecast: 6387
+  forecourt: 76289
+  forefoot: 59820
+  forefront: 19360
+  foremost: 8880
+  foresight: 18622
+  forest: 1274
+  forethought: 66503
+  forfeit: 20547
+  forget: 1444
+  forgot: 1714
+  forint: 69458
+  forklift: 29568
+  formant: 85021
+  format: 1302
+  fort: 1887
+  forthright: 42713
+  fortnight: 18116
+scored_words:
+  forcemeat: 182620
+  forefeet: 154439
+  foregut: 242296
+  foremast: 157847
+  forepart: 208309
+  formalist: 115751
+not_scored_words:
+- Forest
+- Forrest
+- foresheet
+- forespent
+- forestallment
+- forewent
+- forgat
+- forspent
+- forwardest
+- forwent

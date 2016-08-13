@@ -1,0 +1,38 @@
+---
+pattern: regu_
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 28
+score: 1655938
+score_per_word: 66237
+hi_scored_words:
+  regular: 1015
+  regularities: 69431
+  regularity: 20137
+  regularization: 63155
+  regularized: 91509
+  regularly: 3566
+  regulars: 21892
+  regulate: 8654
+  regulated: 12340
+  regulates: 22760
+  regulating: 10393
+  regulation: 3657
+  regulations: 2719
+  regulator: 17133
+  regulators: 11509
+  regulatory: 3302
+  regulus: 59268
+  regurgitate: 82366
+  regurgitation: 55668
+scored_words:
+  regularize: 166636
+  regularizing: 268848
+  regulative: 113056
+  regurgitated: 102736
+  regurgitates: 301348
+  regurgitating: 142840
+not_scored_words:
+- Regulus
+- regulable
+- regularizes

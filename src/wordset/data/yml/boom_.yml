@@ -1,0 +1,23 @@
+---
+pattern: boom_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 504834
+score_per_word: 50483
+hi_scored_words:
+  boom: 6244
+  boombox: 50050
+  boomed: 51217
+  boomer: 27225
+  boomerang: 31913
+  boomerangs: 89531
+  boomers: 22814
+  booming: 20283
+  booms: 38590
+scored_words:
+  boomboxes: 166967
+not_scored_words:
+- boomeranged
+- boomeranging
+- boomkin

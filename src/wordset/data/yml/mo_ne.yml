@@ -1,0 +1,25 @@
+---
+pattern: mo_ne
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 523192
+score_per_word: 52319
+hi_scored_words:
+  moderne: 35820
+  moline: 40466
+  monotone: 24334
+  montane: 47626
+  moonshine: 33853
+  moonstone: 41312
+  moraine: 38728
+  morphine: 22302
+scored_words:
+  monoplane: 114364
+  mousseline: 124387
+not_scored_words:
+- Montaigne
+- Montefiascone
+- Mourne
+- monkeyshine
+- monocline

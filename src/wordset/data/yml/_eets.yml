@@ -1,0 +1,33 @@
+---
+pattern: _eets
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 23
+score: 851505
+score_per_word: 60821
+hi_scored_words:
+  beets: 38022
+  fleets: 23845
+  greets: 33156
+  meets: 3740
+  parakeets: 71920
+  sheets: 3583
+  spreadsheets: 24481
+  streets: 2270
+  sweets: 11156
+  worksheets: 28019
+scored_words:
+  backstreets: 126826
+  bedsheets: 113212
+  broadsheets: 151166
+  lorikeets: 220109
+not_scored_words:
+- bittersweets
+- dustsheets
+- flysheets
+- gleets
+- groundsheets
+- mainsheets
+- retweets
+- sleets
+- tweets

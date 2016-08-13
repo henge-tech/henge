@@ -1,0 +1,28 @@
+---
+pattern: _sage
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 18
+score: 729738
+score_per_word: 52124
+hi_scored_words:
+  corsage: 75168
+  dosage: 8929
+  dressage: 29645
+  envisage: 39163
+  massage: 10914
+  message: 526
+  passage: 2902
+  presage: 55653
+  sage: 5905
+  sausage: 12827
+  usage: 3399
+  visage: 27839
+scored_words:
+  surplusage: 280829
+  vernissage: 176039
+not_scored_words:
+- Osage
+- expressage
+- misusage
+- prisage

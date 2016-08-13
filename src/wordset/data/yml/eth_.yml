@@ -1,0 +1,85 @@
+---
+pattern: eth_
+hi_scored_words_count: 21
+scored_words_count: 12
+total_words: 75
+score: 2647330
+score_per_word: 80222
+hi_scored_words:
+  ethane: 57089
+  ethanol: 12763
+  ether: 13262
+  ethereal: 14955
+  ethic: 25900
+  ethical: 5641
+  ethically: 35028
+  ethicist: 96582
+  ethics: 5015
+  ethnic: 7191
+  ethnically: 37546
+  ethnicity: 13847
+  ethnographic: 30220
+  ethnography: 34546
+  ethnological: 90207
+  ethnology: 42094
+  ethnomusicology: 76295
+  ethology: 70517
+  ethos: 23481
+  ethyl: 21988
+  ethylene: 23955
+scored_words:
+  ethene: 164234
+  ethmoid: 120044
+  ethnics: 114282
+  ethnocentric: 123478
+  ethnocentrism: 116048
+  ethnographer: 152971
+  ethnographers: 177775
+  ethnographical: 196006
+  ethnographies: 171937
+  ethnol: 215748
+  ethnologist: 149601
+  ethological: 207084
+not_scored_words:
+- Eth
+- Ethan
+- Ethel
+- Ethelbert
+- Ethelred
+- Etherege
+- Ethernet
+- Ethiop
+- Ethiopia
+- Ethiopian
+- Ethiopians
+- Ethiopic
+- ethenes
+- ethereality
+- etherealize
+- etherealized
+- etherealizes
+- etherealizing
+- ethereally
+- etherealness
+- etherified
+- etherifies
+- etherify
+- etherifying
+- etherize
+- etherized
+- etherizes
+- etherizing
+- ethicize
+- ethnarch
+- ethnocentrically
+- ethnocentricity
+- ethnogeny
+- ethnographically
+- ethnologic
+- ethnologically
+- ethnologists
+- ethologist
+- ethologists
+- ethylate
+- ethyne
+- ethynes

@@ -1,0 +1,44 @@
+---
+pattern: vi_d
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 34
+score: 2477964
+score_per_word: 107737
+hi_scored_words:
+  vibrated: 89076
+  victimized: 40222
+  videotaped: 46783
+  vied: 89500
+  viewed: 2506
+  vilified: 81664
+  vindicated: 41330
+  vineyard: 11640
+  violated: 9039
+  visited: 2707
+  visualized: 34765
+  vitiated: 96565
+  vivid: 6988
+scored_words:
+  viand: 141816
+  videoed: 221985
+  vignetted: 285658
+  viscid: 161227
+  vised: 180076
+  visioned: 233931
+  vitalized: 260987
+  vitrified: 109701
+  vivified: 171480
+  vizard: 158318
+not_scored_words:
+- Vineland
+- Vinland
+- viced
+- victualed
+- vilipend
+- visaed
+- visaged
+- viscoid
+- visored
+- vituperated
+- vivisected

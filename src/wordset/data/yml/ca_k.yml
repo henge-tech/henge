@@ -1,0 +1,34 @@
+---
+pattern: ca_k
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 24
+score: 1831204
+score_per_word: 96379
+hi_scored_words:
+  cakewalk: 41182
+  callback: 24369
+  camelback: 65538
+  candlestick: 28667
+  carpark: 51619
+  casebook: 53951
+  casework: 54703
+  cashback: 40307
+  cask: 29675
+  catwalk: 33338
+  caulk: 65125
+scored_words:
+  calk: 250904
+  camerawork: 113138
+  candlewick: 106527
+  canvasback: 156165
+  cark: 172251
+  carrack: 176543
+  cashbook: 254243
+  cassock: 112959
+not_scored_words:
+- Canuck
+- Capek
+- cabinetwork
+- carjack
+- carsick

@@ -1,0 +1,58 @@
+---
+pattern: _omes
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 48
+score: 1945329
+score_per_word: 74820
+hi_scored_words:
+  becomes: 1605
+  chromosomes: 17828
+  comes: 616
+  domes: 28753
+  foursomes: 79123
+  genomes: 29851
+  gnomes: 44821
+  homes: 1711
+  incomes: 13123
+  lysosomes: 80208
+  microsomes: 70472
+  outcomes: 3960
+  overcomes: 40407
+  rhizomes: 75397
+  ribosomes: 61628
+  syndromes: 25375
+  threesomes: 25105
+  tomes: 58548
+  welcomes: 14403
+scored_words:
+  aerodromes: 125686
+  autosomes: 236094
+  centrosomes: 224433
+  chromes: 263269
+  metronomes: 113164
+  palindromes: 114240
+  pomes: 195509
+not_scored_words:
+- Mercurochromes
+- Nichromes
+- Romes
+- airdromes
+- astrodomes
+- chondriosomes
+- cleomes
+- cyclostomes
+- dermatomes
+- epitomes
+- gastronomes
+- hippodromes
+- loxodromes
+- microtomes
+- monochromes
+- peristomes
+- polychromes
+- prodromes
+- radomes
+- schistosomes
+- twosomes
+- velodromes

@@ -1,0 +1,47 @@
+---
+pattern: re_se
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 37
+score: 1957845
+score_per_word: 72512
+hi_scored_words:
+  recluse: 40101
+  recompense: 39321
+  recourse: 15019
+  reductase: 26194
+  refuse: 3907
+  rehearse: 34197
+  reimburse: 29455
+  relapse: 19854
+  release: 750
+  remorse: 20514
+  rephrase: 56569
+  repose: 22971
+  reprise: 30300
+  repulse: 53432
+  repurchase: 36901
+  response: 1608
+  reuse: 16123
+  reverse: 3538
+  revise: 13881
+scored_words:
+  reappraise: 265173
+  recompose: 221053
+  recuse: 104078
+  reimpose: 302573
+  religieuse: 181466
+  remise: 110019
+  repousse: 156635
+  rerelease: 152213
+not_scored_words:
+- Reese
+- rearouse
+- recondense
+- rehouse
+- reinfuse
+- religiose
+- reremouse
+- retrorse
+- retrousse
+- retuse

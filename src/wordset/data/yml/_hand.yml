@@ -1,0 +1,30 @@
+---
+pattern: _hand
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 20
+score: 1541603
+score_per_word: 85644
+hi_scored_words:
+  backhand: 43673
+  beforehand: 12532
+  firsthand: 27708
+  forehand: 42806
+  freehand: 38375
+  hand: 277
+  offhand: 51170
+  secondhand: 30321
+  shorthand: 24321
+  underhand: 71695
+  unhand: 51528
+scored_words:
+  behindhand: 165160
+  cowhand: 226412
+  deckhand: 154014
+  farmhand: 116353
+  longhand: 117230
+  overhand: 115484
+  stagehand: 252544
+not_scored_words:
+- Bundelkhand
+- dockhand

@@ -1,0 +1,49 @@
+---
+pattern: forg_
+hi_scored_words_count: 25
+scored_words_count: 3
+total_words: 39
+score: 1373934
+score_per_word: 49069
+hi_scored_words:
+  forgave: 42234
+  forge: 9070
+  forged: 11580
+  forger: 68455
+  forgeries: 54867
+  forgery: 23626
+  forges: 56741
+  forget: 1444
+  forgetful: 40692
+  forgetfulness: 49798
+  forgets: 27931
+  forgettable: 64482
+  forgetting: 11253
+  forging: 24246
+  forgings: 76667
+  forgivable: 98782
+  forgive: 6018
+  forgiven: 14772
+  forgiveness: 9501
+  forgives: 54165
+  forgiving: 24335
+  forgo: 42588
+  forgoing: 94235
+  forgot: 1714
+  forgotten: 2525
+scored_words:
+  forgers: 139693
+  forgoes: 222261
+  forgone: 100259
+not_scored_words:
+- forgat
+- forgather
+- forgathered
+- forgathering
+- forgathers
+- forgetfully
+- forgiver
+- forgivers
+- forgivingly
+- forgoer
+- forgoers

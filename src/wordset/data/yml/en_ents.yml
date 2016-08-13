@@ -1,0 +1,36 @@
+---
+pattern: en_ents
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 26
+score: 1780345
+score_per_word: 84778
+hi_scored_words:
+  enactments: 48296
+  encampments: 83183
+  enchantments: 65763
+  encroachments: 62322
+  endorsements: 22824
+  endowments: 29858
+  engagements: 15486
+  enhancements: 10795
+  enjoyments: 96608
+  enlargements: 60940
+  enrollments: 39677
+  entanglements: 76545
+  entertainments: 33860
+  entitlements: 23924
+  environments: 11573
+scored_words:
+  encouragements: 133250
+  endearments: 241953
+  enforcements: 177505
+  enlistments: 166210
+  enticements: 177873
+  entrenchments: 201900
+not_scored_words:
+- encirclements
+- encompassments
+- enjambments
+- enjoinments
+- enthronements

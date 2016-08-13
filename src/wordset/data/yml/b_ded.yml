@@ -1,0 +1,54 @@
+---
+pattern: b_ded
+hi_scored_words_count: 23
+scored_words_count: 8
+total_words: 44
+score: 2611904
+score_per_word: 84254
+hi_scored_words:
+  backhanded: 98472
+  banded: 25385
+  barricaded: 81914
+  beaded: 21685
+  bearded: 19601
+  bedded: 42286
+  befriended: 50552
+  beheaded: 36247
+  bended: 88290
+  bladed: 55393
+  blended: 12801
+  blinded: 17290
+  blindfolded: 39336
+  blockaded: 99032
+  blooded: 30452
+  boarded: 25473
+  bombarded: 37323
+  bonded: 22927
+  bounded: 10010
+  braided: 24962
+  branded: 11538
+  breaded: 62197
+  brooded: 90502
+scored_words:
+  bareheaded: 182334
+  birded: 307835
+  blindsided: 109983
+  boded: 248317
+  boneheaded: 181791
+  broadminded: 218204
+  brocaded: 210502
+  budded: 149270
+not_scored_words:
+- balded
+- baldheaded
+- balustraded
+- barehanded
+- bastinaded
+- beclouded
+- begirded
+- betided
+- bielded
+- biodegraded
+- bobsledded
+- broadsided
+- bullheaded

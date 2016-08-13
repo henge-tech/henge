@@ -1,0 +1,34 @@
+---
+pattern: tu_r
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 24
+score: 909345
+score_per_word: 64953
+hi_scored_words:
+  tuber: 48099
+  tubular: 20057
+  tucker: 10421
+  tumbler: 26719
+  tumor: 12000
+  tuner: 15972
+  turbocharger: 68665
+  turner: 5324
+  turnover: 19011
+  tusker: 90992
+  tutor: 8048
+scored_words:
+  tubercular: 161858
+  turgor: 197092
+  tutelar: 225087
+not_scored_words:
+- Tucker
+- Tudor
+- Turner
+- tubbier
+- tufter
+- tufthunter
+- tumular
+- tunneler
+- turbidimeter
+- turbosupercharger

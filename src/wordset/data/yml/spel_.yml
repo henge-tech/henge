@@ -1,0 +1,41 @@
+---
+pattern: spel_
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 31
+score: 1999721
+score_per_word: 111095
+hi_scored_words:
+  spell: 4154
+  spellbinding: 74627
+  spellbound: 36144
+  spellcheck: 66978
+  spelled: 15423
+  speller: 62390
+  spelling: 6503
+  spellings: 35309
+  spells: 9226
+scored_words:
+  speleological: 171632
+  speleology: 203433
+  spellbinder: 157332
+  spellchecker: 118048
+  spellcheckers: 333881
+  spellchecking: 199479
+  spellers: 152381
+  spelter: 228902
+  spelunking: 123879
+not_scored_words:
+- spelean
+- speleologist
+- speleologists
+- spellable
+- spellbind
+- spellbinders
+- spellbinds
+- spellchecked
+- spellchecks
+- spelldown
+- spelldowns
+- spelunker
+- spelunkers

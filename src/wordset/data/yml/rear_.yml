@@ -1,0 +1,35 @@
+---
+pattern: rear_
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 25
+score: 1899988
+score_per_word: 105554
+hi_scored_words:
+  rear: 2438
+  reared: 21080
+  rearguard: 89427
+  rearing: 21577
+  rearrange: 34626
+  rearranged: 41242
+  rearrangement: 44682
+  rearrangements: 60580
+  rearranging: 48213
+  rears: 53293
+  rearward: 70657
+scored_words:
+  rearm: 112448
+  rearmament: 137912
+  rearming: 286697
+  rearmost: 229845
+  rearranges: 152717
+  rearrest: 324435
+  rearrested: 168119
+not_scored_words:
+- rearguards
+- rearmed
+- rearms
+- rearouse
+- rearresting
+- rearrests
+- rearwards

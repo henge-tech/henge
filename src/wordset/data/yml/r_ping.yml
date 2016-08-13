@@ -1,0 +1,28 @@
+---
+pattern: r_ping
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 18
+score: 1250136
+score_per_word: 78133
+hi_scored_words:
+  ramping: 57969
+  raping: 31336
+  rapping: 37049
+  reaping: 39118
+  regrouping: 78160
+  remapping: 88542
+  reshaping: 44638
+  revamping: 61252
+  ripping: 18198
+  romping: 94164
+  roping: 50088
+scored_words:
+  rasping: 112613
+  recapping: 114452
+  recouping: 158622
+  redeveloping: 108182
+  retyping: 155753
+not_scored_words:
+- reequipping
+- reshipping

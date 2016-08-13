@@ -1,0 +1,27 @@
+---
+pattern: ch_ks
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 876498
+score_per_word: 67422
+hi_scored_words:
+  chalks: 91969
+  checks: 3507
+  cheeks: 11630
+  chicks: 10341
+  chinks: 91960
+  chipmunks: 56217
+  chopsticks: 39432
+  chucks: 44782
+  chunks: 20383
+scored_words:
+  chapbooks: 104129
+  checkbooks: 102883
+  chinooks: 198212
+  chocks: 101053
+not_scored_words:
+- Chinooks
+- charlocks
+- chewinks
+- chirks

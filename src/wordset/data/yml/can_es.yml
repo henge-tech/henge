@@ -1,0 +1,42 @@
+---
+pattern: can_es
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 32
+score: 1486942
+score_per_word: 87467
+hi_scored_words:
+  canaries: 44201
+  candidates: 7666
+  candies: 28036
+  candles: 5397
+  canes: 22982
+  canines: 54410
+  canoes: 21572
+  canopies: 40749
+  canvases: 43796
+scored_words:
+  canapes: 122990
+  candidacies: 161111
+  candidatures: 245565
+  canneries: 179194
+  cantaloupes: 157940
+  cantharides: 105711
+  canticles: 110839
+  canvasses: 134783
+not_scored_words:
+- Canaanites
+- Canaries
+- Candlemases
+- Cannes
+- Canticles
+- canalizes
+- candleberries
+- canebrakes
+- cannabises
+- cannibalizes
+- cannonades
+- canonizes
+- canoodles
+- cantillates
+- cantles

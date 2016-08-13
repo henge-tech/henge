@@ -1,0 +1,31 @@
+---
+pattern: _iths
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 864404
+score_per_word: 78582
+hi_scored_words:
+  blacksmiths: 61496
+  faiths: 25426
+  goldsmiths: 51165
+  locksmiths: 57292
+  megaliths: 89294
+  monoliths: 91761
+  silversmiths: 69926
+  smiths: 24413
+scored_words:
+  gunsmiths: 127477
+  wordsmiths: 162155
+  wraiths: 103999
+not_scored_words:
+- batholiths
+- coppersmiths
+- cystoliths
+- eoliths
+- neoliths
+- paleoliths
+- piths
+- talliths
+- tinsmiths
+- zeniths

@@ -1,0 +1,34 @@
+---
+pattern: au_d
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 24
+score: 1006323
+score_per_word: 77409
+hi_scored_words:
+  auctioned: 33636
+  aud: 12155
+  audited: 21844
+  auditioned: 62762
+  augmented: 17392
+  authenticated: 24210
+  authored: 12336
+  authorized: 3980
+  autographed: 17367
+  automated: 4716
+scored_words:
+  augured: 259669
+  automatized: 308342
+  autopsied: 227914
+not_scored_words:
+- Auckland
+- Aurangabad
+- Australoid
+- augend
+- auricled
+- aurified
+- auscultated
+- auspicated
+- autacoid
+- automobiled
+- autotomized

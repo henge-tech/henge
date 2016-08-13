@@ -1,0 +1,23 @@
+---
+pattern: s_ake
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 416574
+score_per_word: 41657
+hi_scored_words:
+  sake: 3866
+  shake: 4308
+  shiitake: 77776
+  shortcake: 42604
+  slake: 96781
+  snake: 5117
+  snowflake: 25297
+  spake: 22709
+  stake: 6183
+scored_words:
+  strake: 131933
+not_scored_words:
+- Snake
+- seaquake
+- spongecake

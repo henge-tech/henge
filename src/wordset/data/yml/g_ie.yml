@@ -1,0 +1,26 @@
+---
+pattern: g_ie
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 727970
+score_per_word: 72797
+hi_scored_words:
+  gendarmerie: 80365
+  genie: 16712
+  gie: 64765
+  girlie: 34834
+  goalie: 19562
+  goodie: 36171
+  grannie: 69405
+  groupie: 40741
+scored_words:
+  gaucherie: 225594
+  gillie: 139821
+not_scored_words:
+- Geordie
+- Gillespie
+- Goldie
+- Gracie
+- Guthrie
+- gaberlunzie

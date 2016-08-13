@@ -1,0 +1,27 @@
+---
+pattern: _aint
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 17
+score: 1182338
+score_per_word: 78822
+hi_scored_words:
+  acquaint: 33448
+  complaint: 3810
+  constraint: 9571
+  faint: 7937
+  paint: 2584
+  plaint: 84393
+  quaint: 16524
+  repaint: 40817
+  restraint: 9731
+  saint: 1999
+  taint: 31622
+scored_words:
+  distraint: 247324
+  greasepaint: 246331
+  reacquaint: 227457
+  warpaint: 218790
+not_scored_words:
+- attaint
+- unrestraint

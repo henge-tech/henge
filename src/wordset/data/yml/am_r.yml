@@ -1,0 +1,37 @@
+---
+pattern: am_r
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 27
+score: 381697
+score_per_word: 38169
+hi_scored_words:
+  amateur: 3825
+  ambassador: 5686
+  amber: 6060
+  ambler: 46211
+  amir: 25677
+  ammeter: 86374
+  amour: 18624
+  amphitheater: 40568
+  amplifier: 12397
+scored_words:
+  ampler: 136275
+not_scored_words:
+- Amber
+- Amer
+- Amor
+- Amritsar
+- Amur
+- amasser
+- ambidexter
+- amboceptor
+- ambulator
+- ambuscader
+- ambusher
+- ameliorator
+- amender
+- amphiaster
+- amphimacer
+- amphistylar
+- amputator

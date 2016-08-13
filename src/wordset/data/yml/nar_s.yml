@@ -1,0 +1,34 @@
+---
+pattern: nar_s
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 24
+score: 868681
+score_per_word: 72390
+hi_scored_words:
+  narcissus: 36303
+  narcotics: 25860
+  nares: 96435
+  narrates: 57919
+  narrations: 97103
+  narratives: 17008
+  narrators: 76930
+  narrowness: 80881
+  narrows: 29799
+scored_words:
+  narcissists: 109116
+  narcosis: 100219
+  naris: 141108
+not_scored_words:
+- Narcissus
+- narcoanalysis
+- narcoleptics
+- narcoses
+- narcosynthesis
+- narcotizes
+- narcs
+- nardoos
+- nards
+- narghiles
+- narthexes
+- narwhals

@@ -1,0 +1,29 @@
+---
+pattern: vi_ous
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 668994
+score_per_word: 55749
+hi_scored_words:
+  vicarious: 41802
+  vicious: 10005
+  victorious: 15711
+  vigorous: 10815
+  villainous: 43519
+  virtuous: 18629
+  viscous: 31213
+  vitreous: 41881
+  vivacious: 49065
+scored_words:
+  villous: 110243
+  vinous: 158475
+  viviparous: 137636
+not_scored_words:
+- vicissitudinous
+- vimineous
+- vinaceous
+- viniferous
+- violaceous
+- viperous
+- vitaceous

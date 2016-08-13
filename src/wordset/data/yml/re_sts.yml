@@ -1,0 +1,37 @@
+---
+pattern: re_sts
+hi_scored_words_count: 8
+scored_words_count: 11
+total_words: 27
+score: 2665269
+score_per_word: 140277
+hi_scored_words:
+  realists: 69202
+  receptionists: 78947
+  reformists: 95998
+  requests: 3671
+  reservists: 43305
+  resists: 25850
+  rests: 9144
+  revisionists: 97559
+scored_words:
+  readjusts: 212274
+  rebroadcasts: 216887
+  recasts: 181178
+  recidivists: 218878
+  recordists: 319041
+  relativists: 203151
+  religionists: 101866
+  repasts: 196731
+  retests: 254027
+  revivalists: 204199
+  revolutionists: 133361
+not_scored_words:
+- rearrests
+- recitalists
+- redbreasts
+- reductionists
+- reenlists
+- reforests
+- reinvests
+- relists

@@ -1,0 +1,27 @@
+---
+pattern: s_ill
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 17
+score: 542405
+score_per_word: 49309
+hi_scored_words:
+  sawmill: 32666
+  shill: 53751
+  shrill: 29253
+  sill: 23190
+  skill: 2537
+  spill: 11508
+  spoonbill: 87475
+  standstill: 31505
+  still: 175
+  swill: 73750
+scored_words:
+  squill: 196595
+not_scored_words:
+- Schuylkill
+- Sherrill
+- sheathbill
+- shoebill
+- sicklebill
+- swordbill

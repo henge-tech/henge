@@ -1,0 +1,27 @@
+---
+pattern: t_per
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 1159178
+score_per_word: 82798
+hi_scored_words:
+  tamper: 32442
+  taper: 18600
+  tapper: 65349
+  temper: 9856
+  timekeeper: 58153
+  tipper: 47466
+  topper: 24026
+  trapper: 32443
+  tripper: 69686
+  trooper: 17562
+scored_words:
+  teenybopper: 244706
+  toper: 149016
+  tramper: 279484
+  trouper: 110389
+not_scored_words:
+- tarpaper
+- touchpaper
+- treehopper

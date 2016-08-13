@@ -1,0 +1,21 @@
+---
+pattern: f_nal
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 11
+score: 592611
+score_per_word: 59261
+hi_scored_words:
+  factional: 78446
+  faunal: 57838
+  fictional: 15006
+  final: 715
+  foundational: 35733
+  fractional: 21446
+  fraternal: 24227
+  frictional: 57967
+  functional: 7257
+scored_words:
+  formational: 293976
+not_scored_words:
+- fusional

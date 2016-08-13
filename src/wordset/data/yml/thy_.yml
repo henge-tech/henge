@@ -1,0 +1,37 @@
+---
+pattern: thy_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 27
+score: 1630674
+score_per_word: 101917
+hi_scored_words:
+  thy: 3219
+  thyme: 22694
+  thymic: 76164
+  thymine: 90490
+  thymus: 33742
+  thyristor: 95506
+  thyroid: 15377
+  thyroiditis: 84295
+  thyroxine: 60527
+  thyself: 21387
+scored_words:
+  thylacine: 192317
+  thymol: 142781
+  thymosin: 218335
+  thyristors: 136565
+  thyroids: 301467
+  thyrotoxicosis: 135808
+not_scored_words:
+- Thyestes
+- thylacines
+- thymelaeaceous
+- thymols
+- thymuses
+- thyratron
+- thyroidal
+- thyrotoxicoses
+- thyroxines
+- thyrse
+- thyrsus

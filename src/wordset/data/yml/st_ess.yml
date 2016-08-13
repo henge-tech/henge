@@ -1,0 +1,65 @@
+---
+pattern: st_ess
+hi_scored_words_count: 14
+scored_words_count: 16
+total_words: 55
+score: 3784346
+score_per_word: 126144
+hi_scored_words:
+  stainless: 8527
+  stateless: 39881
+  steadfastness: 76142
+  steadiness: 82267
+  steepness: 93212
+  stewardess: 48896
+  stickiness: 58778
+  stiffness: 21570
+  stillness: 25839
+  strangeness: 36333
+  strapless: 40442
+  stress: 2952
+  strictness: 62453
+  stubbornness: 55482
+scored_words:
+  staleness: 232795
+  starkness: 266074
+  starless: 135841
+  statelessness: 193056
+  stateliness: 239714
+  stemless: 204704
+  sternness: 176431
+  stinginess: 229410
+  stoutness: 167528
+  straightforwardness: 193231
+  straightness: 111696
+  strenuousness: 176491
+  structureless: 278922
+  stuffiness: 185650
+  sturdiness: 164802
+  stylishness: 175227
+not_scored_words:
+- staginess
+- staidness
+- stalwartness
+- standoffishness
+- starchiness
+- staunchness
+- stealthiness
+- steaminess
+- steeliness
+- stiltedness
+- stockiness
+- stodginess
+- stolidness
+- stoneless
+- stoniness
+- storminess
+- stoutheartedness
+- straitness
+- stressfulness
+- stretchiness
+- stringiness
+- stroppiness
+- stubbiness
+- studiousness
+- stupidness

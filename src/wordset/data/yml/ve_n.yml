@@ -1,0 +1,59 @@
+---
+pattern: ve_n
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 49
+score: 1429145
+score_per_word: 62136
+hi_scored_words:
+  vegan: 12550
+  vegetarian: 14704
+  vegetation: 6747
+  vein: 8889
+  velveteen: 64479
+  veneration: 42149
+  venetian: 13309
+  venison: 28323
+  ventilation: 11780
+  verboten: 74507
+  verification: 10687
+  vermilion: 28360
+  vermin: 31841
+  version: 832
+  veteran: 5882
+  veterinarian: 20473
+  vexation: 60558
+scored_words:
+  vectorization: 161224
+  venation: 198007
+  verbalization: 201736
+  verdin: 181943
+  versification: 136197
+  vervain: 113968
+not_scored_words:
+- Veblen
+- Ven
+- Venetian
+- Venezuelan
+- Venn
+- Ventolin
+- Venusian
+- Verdun
+- Verein
+- Verizon
+- Vern
+- Vernon
+- Vespasian
+- Vesuvian
+- velamen
+- venesection
+- venin
+- venireman
+- veniremen
+- vermiculation
+- vermination
+- vernation
+- vesiculation
+- vestryman
+- vestrymen
+- vesuvian

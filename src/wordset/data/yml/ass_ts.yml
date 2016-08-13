@@ -1,0 +1,23 @@
+---
+pattern: ass_ts
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 416401
+score_per_word: 41640
+hi_scored_words:
+  assailants: 50827
+  assaults: 21096
+  asserts: 15475
+  assessments: 14516
+  assets: 6329
+  assignments: 14015
+  assistants: 9415
+  assists: 11371
+  assortments: 82226
+scored_words:
+  assents: 191131
+not_scored_words:
+- assonants
+- assorts
+- assuagements

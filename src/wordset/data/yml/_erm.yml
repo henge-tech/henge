@@ -1,0 +1,43 @@
+---
+pattern: _erm
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 33
+score: 1865086
+score_per_word: 88813
+hi_scored_words:
+  berm: 55753
+  ectoderm: 79817
+  endoderm: 93817
+  endosperm: 81350
+  germ: 14930
+  herm: 53995
+  isotherm: 72692
+  mesoderm: 62871
+  midterm: 25337
+  perm: 25132
+  preterm: 43465
+  sperm: 12873
+  term: 749
+  therm: 60547
+  xterm: 83331
+scored_words:
+  angiosperm: 113841
+  blastoderm: 181048
+  echinoderm: 127057
+  gymnosperm: 270762
+  pachyderm: 108466
+  wheatgerm: 297253
+not_scored_words:
+- Perm
+- ectotherm
+- endotherm
+- entoderm
+- homeotherm
+- hypoderm
+- oosperm
+- ostracoderm
+- periderm
+- phelloderm
+- poikilotherm
+- zoosperm

@@ -1,0 +1,29 @@
+---
+pattern: coul_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 1056319
+score_per_word: 96029
+hi_scored_words:
+  could: 107
+  could've: 20003
+  couldn't: 752
+  coulee: 50074
+  coulis: 91275
+  couloir: 98539
+  coulomb: 38490
+  coulter: 19960
+scored_words:
+  couldst: 181613
+  coulombs: 233380
+  coulters: 322126
+not_scored_words:
+- Coulomb
+- Coulter
+- coulees
+- coulisse
+- coulisses
+- coulometer
+- coulée
+- coulées

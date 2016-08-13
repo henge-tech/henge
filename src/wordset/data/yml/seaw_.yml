@@ -1,0 +1,22 @@
+---
+pattern: seaw_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 1134602
+score_per_word: 103145
+hi_scored_words:
+  seawall: 77670
+  seaward: 45333
+  seawards: 99726
+  seawater: 30531
+  seaway: 52822
+  seaweed: 24041
+  seaweeds: 94899
+  seaworthy: 86132
+scored_words:
+  seawalls: 217553
+  seaways: 184600
+  seaworthiness: 221295
+not_scored_words:
+- seaware

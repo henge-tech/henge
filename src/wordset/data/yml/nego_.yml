@@ -1,0 +1,22 @@
+---
+pattern: nego_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 415284
+score_per_word: 41528
+hi_scored_words:
+  negotiable: 27049
+  negotiate: 9105
+  negotiated: 11289
+  negotiates: 54794
+  negotiating: 11918
+  negotiation: 7910
+  negotiations: 4902
+  negotiator: 35362
+  negotiators: 34964
+scored_words:
+  negotiability: 217991
+not_scored_words:
+- negotiant
+- negotiants

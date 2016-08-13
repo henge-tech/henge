@@ -1,0 +1,68 @@
+---
+pattern: reco_s
+hi_scored_words_count: 14
+scored_words_count: 14
+total_words: 58
+score: 3461926
+score_per_word: 123640
+hi_scored_words:
+  recognitions: 53340
+  recognizes: 9806
+  recollections: 22638
+  recommendations: 3787
+  recommends: 8681
+  reconciles: 83885
+  reconciliations: 89260
+  reconstructions: 46013
+  recorders: 12997
+  recordings: 8235
+  records: 1373
+  recounts: 32654
+  recoveries: 35597
+  recovers: 28636
+scored_words:
+  recognizers: 226227
+  recoilless: 226564
+  recoils: 124739
+  recollects: 172203
+  recompress: 298319
+  reconfigurations: 232324
+  reconfigures: 228968
+  reconfirms: 328669
+  reconnects: 147453
+  recons: 247586
+  reconsiders: 154635
+  reconstructs: 104962
+  reconvenes: 213334
+  recordists: 319041
+not_scored_words:
+- recodes
+- recognizances
+- recolonizes
+- recolors
+- recombines
+- recommences
+- recommissions
+- recommits
+- recompenses
+- recompilations
+- recomposes
+- recompresses
+- recomputes
+- reconcilers
+- reconditeness
+- reconditenesses
+- reconditions
+- reconfirmations
+- reconnaissances
+- reconnoiters
+- reconquers
+- reconsecrates
+- reconsigns
+- reconstitutes
+- recontacts
+- recontaminates
+- reconverts
+- recooks
+- recopies
+- recoups

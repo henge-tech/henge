@@ -1,0 +1,37 @@
+---
+pattern: fasc_
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 27
+score: 2049718
+score_per_word: 102485
+hi_scored_words:
+  fasces: 78430
+  fascia: 27239
+  fascias: 84662
+  fascinate: 54871
+  fascinated: 23299
+  fascinates: 74538
+  fascinating: 6255
+  fascination: 15419
+  fascism: 20742
+  fascist: 20475
+  fascists: 39352
+scored_words:
+  fascicle: 109562
+  fascicles: 157408
+  fascicule: 169702
+  fasciculus: 207350
+  fascinatingly: 194419
+  fascinations: 125163
+  fascinator: 266153
+  fascine: 205241
+  fascistic: 169438
+not_scored_words:
+- Fascist
+- Fascista
+- Fascistic
+- fasciate
+- fasciation
+- fascicled
+- fascicules

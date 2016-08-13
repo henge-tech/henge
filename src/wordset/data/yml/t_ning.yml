@@ -1,0 +1,31 @@
+---
+pattern: t_ning
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 21
+score: 936887
+score_per_word: 55111
+hi_scored_words:
+  tanning: 16188
+  telephoning: 62175
+  thickening: 30763
+  thinning: 27428
+  threatening: 5860
+  tightening: 21091
+  toning: 35477
+  training: 978
+  transitioning: 35042
+  tuning: 11474
+  turning: 2118
+  twining: 67192
+  twinning: 41103
+scored_words:
+  tinning: 184765
+  tobogganing: 139792
+  toughening: 126106
+  trampolining: 129335
+not_scored_words:
+- tautening
+- tenoning
+- trepanning
+- trephining

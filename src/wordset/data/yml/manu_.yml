@@ -1,0 +1,42 @@
+---
+pattern: manu_
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 32
+score: 1362764
+score_per_word: 64893
+hi_scored_words:
+  manual: 4027
+  manually: 11473
+  manuals: 13384
+  manuf: 75209
+  manufactory: 63737
+  manufacture: 5215
+  manufactured: 5946
+  manufacturer: 4610
+  manufacturers: 4486
+  manufactures: 16068
+  manufacturing: 3355
+  manure: 14382
+  manures: 85045
+  manuscript: 6480
+  manuscripts: 10973
+scored_words:
+  manufactories: 176204
+  manumission: 113660
+  manumit: 174761
+  manumitted: 137859
+  manured: 240033
+  manuring: 195857
+not_scored_words:
+- Manuel
+- Manuela
+- Manutius
+- manubrium
+- manubriums
+- manumissions
+- manumits
+- manumitter
+- manumitters
+- manumitting
+- manurial

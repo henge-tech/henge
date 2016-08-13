@@ -1,0 +1,26 @@
+---
+pattern: rep_ble
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1486912
+score_per_word: 114377
+hi_scored_words:
+  repairable: 72287
+  repayable: 79458
+  repeatable: 37249
+  replaceable: 33725
+  reportable: 50891
+  reprehensible: 41302
+  reproducible: 33424
+  reputable: 16225
+scored_words:
+  reparable: 305065
+  replicable: 108750
+  representable: 102787
+  repressible: 324355
+  reprogrammable: 281394
+not_scored_words:
+- repealable
+- reproachable
+- reprovable

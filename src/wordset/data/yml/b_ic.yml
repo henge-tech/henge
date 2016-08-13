@@ -1,0 +1,75 @@
+---
+pattern: b_ic
+hi_scored_words_count: 26
+scored_words_count: 11
+total_words: 65
+score: 3449057
+score_per_word: 93217
+hi_scored_words:
+  ballistic: 18194
+  balsamic: 35142
+  barbaric: 28723
+  bardic: 83999
+  barometric: 43084
+  basaltic: 70189
+  basic: 3190
+  benthic: 34157
+  benzoic: 67085
+  bibliographic: 12655
+  biogenic: 67291
+  biologic: 36297
+  biometric: 26349
+  bionic: 37245
+  biopic: 53538
+  biosynthetic: 70350
+  biotic: 41319
+  bishopric: 66807
+  bombastic: 59438
+  boracic: 84558
+  boric: 60221
+  botanic: 32539
+  bubonic: 68187
+  bucolic: 71942
+  bulimic: 97922
+  bureaucratic: 25442
+scored_words:
+  bacteriologic: 232274
+  baldric: 260626
+  balletic: 233654
+  baric: 209992
+  barycentric: 183481
+  beatific: 100532
+  bicyclic: 239509
+  bimetallic: 123985
+  biographic: 117127
+  biorhythmic: 177874
+  biospheric: 274140
+not_scored_words:
+- BASIC
+- Bacchic
+- Balearic
+- Baltic
+- Basic
+- Bic
+- Brahmanic
+- Brahminic
+- Britannic
+- Brythonic
+- Byronic
+- banausic
+- barographic
+- bathetic
+- bathypelagic
+- behavioristic
+- belletristic
+- benefic
+- bibliophilic
+- biogenetic
+- biquadratic
+- bismuthic
+- brachycephalic
+- bradytelic
+- bromic
+- bromidic
+- bronchitic
+- bulimarexic

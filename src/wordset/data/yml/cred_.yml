@@ -1,0 +1,41 @@
+---
+pattern: cred_
+hi_scored_words_count: 21
+scored_words_count: 4
+total_words: 31
+score: 1523503
+score_per_word: 60940
+hi_scored_words:
+  cred: 33274
+  credence: 31684
+  credential: 29701
+  credentialed: 76381
+  credentialing: 55754
+  credentials: 12280
+  credenza: 86789
+  credibility: 14215
+  credible: 11898
+  credibly: 75109
+  credit: 710
+  creditable: 38368
+  credited: 8859
+  crediting: 55611
+  creditor: 15590
+  creditors: 11361
+  credits: 7183
+  creditworthiness: 83306
+  credo: 40995
+  credulity: 57940
+  credulous: 65280
+scored_words:
+  credenzas: 101923
+  creditability: 235958
+  creditably: 209031
+  creditworthy: 164303
+not_scored_words:
+- Credo
+- credendum
+- credent
+- credos
+- credulously
+- credulousness

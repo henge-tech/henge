@@ -1,0 +1,64 @@
+---
+pattern: tran_e
+hi_scored_words_count: 23
+scored_words_count: 12
+total_words: 54
+score: 3261580
+score_per_word: 93188
+hi_scored_words:
+  trance: 8625
+  tranche: 53922
+  transalpine: 94146
+  transcendence: 39207
+  transcribe: 34046
+  transferable: 26132
+  transferase: 39765
+  transferee: 47252
+  transference: 39509
+  transfigure: 99864
+  transgressive: 83291
+  transience: 86646
+  transitive: 32258
+  translatable: 90411
+  translate: 5986
+  transmissible: 60263
+  transmittance: 74469
+  transmute: 84681
+  transpire: 73551
+  transportable: 55320
+  transpose: 43132
+  transverse: 15672
+  transvestite: 17073
+scored_words:
+  transaxle: 112566
+  transferrable: 156140
+  transfinite: 161914
+  transformable: 153201
+  transfuse: 225102
+  transliterate: 196993
+  translocate: 223973
+  translucence: 129622
+  transmigrate: 227580
+  transmissive: 135491
+  transmittable: 230124
+  transposable: 103653
+not_scored_words:
+- tranquilize
+- transcendentalize
+- transcriptive
+- transhumance
+- transilluminate
+- transistorize
+- translative
+- transmarine
+- transmontane
+- transmundane
+- transmutable
+- transmutative
+- transpadane
+- transpierce
+- transpontine
+- transubstantiate
+- transudate
+- transude
+- transvalue

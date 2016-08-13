@@ -1,0 +1,30 @@
+---
+pattern: inte_ts
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1196099
+score_per_word: 85435
+hi_scored_words:
+  intellects: 80611
+  intents: 42468
+  interacts: 23757
+  intercepts: 46008
+  interconnects: 51120
+  interests: 1403
+  interprets: 30606
+  interrupts: 26162
+  intersects: 39171
+scored_words:
+  interjects: 193619
+  interments: 165750
+  internationalists: 162334
+  internists: 105235
+  interventionists: 227855
+not_scored_words:
+- Internets
+- integuments
+- interdicts
+- intermits
+- internements
+- internments

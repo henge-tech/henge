@@ -1,0 +1,30 @@
+---
+pattern: hill_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 807927
+score_per_word: 62148
+hi_scored_words:
+  hill: 906
+  hillbillies: 52182
+  hillbilly: 35712
+  hillier: 56160
+  hillock: 86708
+  hills: 1867
+  hillside: 16655
+  hillsides: 49305
+  hilltop: 27062
+  hilly: 31238
+scored_words:
+  hillocks: 127551
+  hilltops: 104253
+  hillwalking: 218328
+not_scored_words:
+- Hill
+- Hillary
+- Hillel
+- Hilliard
+- Hillingdon
+- hilliest
+- hilliness

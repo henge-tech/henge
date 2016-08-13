@@ -1,0 +1,22 @@
+---
+pattern: brui_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 856926
+score_per_word: 77902
+hi_scored_words:
+  bruin: 42638
+  bruins: 16612
+  bruise: 30238
+  bruised: 24992
+  bruiser: 65395
+  bruises: 27744
+  bruising: 33540
+  bruit: 80045
+scored_words:
+  bruisers: 172139
+  bruited: 174589
+  bruits: 188994
+not_scored_words:
+- bruiting

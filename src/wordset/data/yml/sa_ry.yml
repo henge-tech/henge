@@ -1,0 +1,26 @@
+---
+pattern: sa_ry
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 372316
+score_per_word: 37231
+hi_scored_words:
+  saddlery: 71371
+  salary: 3333
+  salivary: 35018
+  salutary: 48060
+  sanctuary: 7547
+  sanitary: 12790
+  satisfactory: 5218
+  savagery: 52383
+  savory: 25753
+scored_words:
+  sanguinary: 110843
+not_scored_words:
+- Salisbury
+- salmonberry
+- saltatory
+- salutatory
+- sanatory
+- saury

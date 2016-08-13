@@ -1,0 +1,39 @@
+---
+pattern: fl_ers
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 29
+score: 2093506
+score_per_word: 110184
+hi_scored_words:
+  flashers: 41695
+  flickers: 67515
+  fliers: 36528
+  flinders: 27879
+  flippers: 53794
+  floaters: 66227
+  floodwaters: 69662
+  flowers: 1085
+  flycatchers: 92838
+scored_words:
+  flamers: 127484
+  flamethrowers: 161338
+  flankers: 272729
+  flappers: 144578
+  flatterers: 203139
+  flatters: 103750
+  floggers: 221086
+  flounders: 113993
+  flutters: 101753
+  flyovers: 186433
+not_scored_words:
+- Flanders
+- Flowers
+- flayers
+- fleecers
+- flitters
+- floorwalkers
+- flouters
+- flusters
+- flypapers
+- flyswatters

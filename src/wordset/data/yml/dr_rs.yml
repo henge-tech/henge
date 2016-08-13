@@ -1,0 +1,33 @@
+---
+pattern: dr_rs
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 23
+score: 1783716
+score_per_word: 93879
+hi_scored_words:
+  drafters: 69058
+  drawers: 12896
+  dreamers: 33437
+  dressers: 40075
+  dressmakers: 91330
+  driers: 86937
+  drifters: 51795
+  drillers: 80073
+  drinkers: 28414
+  drivers: 4377
+  drummers: 37331
+  dryers: 23099
+scored_words:
+  dragsters: 179897
+  drainers: 278829
+  drapers: 108736
+  dredgers: 202877
+  droppers: 115192
+  drovers: 100852
+  druthers: 238511
+not_scored_words:
+- dribblers
+- drillmasters
+- drivelers
+- drubbers

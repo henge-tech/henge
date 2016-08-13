@@ -1,0 +1,99 @@
+---
+pattern: _rily
+hi_scored_words_count: 25
+scored_words_count: 16
+total_words: 89
+score: 4055969
+score_per_word: 98926
+hi_scored_words:
+  angrily: 22200
+  arbitrarily: 22806
+  compulsorily: 90088
+  customarily: 44513
+  eerily: 54388
+  evolutionarily: 77894
+  extraordinarily: 20641
+  hungrily: 70001
+  involuntarily: 30580
+  merrily: 31142
+  militarily: 38652
+  momentarily: 24342
+  necessarily: 2573
+  ordinarily: 17217
+  primarily: 4296
+  satisfactorily: 17362
+  secondarily: 65814
+  statutorily: 81682
+  summarily: 42793
+  temporarily: 6940
+  unnecessarily: 20090
+  verily: 23186
+  voluntarily: 10639
+  warily: 61104
+  wearily: 43864
+scored_words:
+  airily: 150111
+  cheerily: 111079
+  contrarily: 159277
+  cursorily: 231165
+  drearily: 230823
+  drily: 162948
+  hereditarily: 275599
+  mandatorily: 240905
+  monetarily: 127401
+  obligatorily: 251656
+  peremptorily: 136729
+  perfunctorily: 206268
+  preliminarily: 113592
+  scarily: 133301
+  unitarily: 323045
+  unsatisfactorily: 277263
+not_scored_words:
+- Merrily
+- actuarily
+- blearily
+- charily
+- complementarily
+- complimentarily
+- contemporarily
+- contradictorily
+- culinarily
+- derogatorily
+- desultorily
+- dilatorily
+- elementarily
+- exemplarily
+- explanatorily
+- extemporarily
+- fierily
+- flowerily
+- fragmentarily
+- gorily
+- gustatorily
+- hoarily
+- honorarily
+- illusorily
+- interrogatorily
+- leerily
+- legendarily
+- literarily
+- mercenarily
+- pecuniarily
+- plenarily
+- predatorily
+- proprietarily
+- refractorily
+- salutarily
+- sanguinarily
+- sanitarily
+- savorily
+- sedentarily
+- solitarily
+- sorrily
+- subsidiarily
+- sultrily
+- tawdrily
+- tearily
+- transitorily
+- unsavorily
+- unwarily

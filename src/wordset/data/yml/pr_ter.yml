@@ -1,0 +1,23 @@
+---
+pattern: pr_ter
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 13
+score: 1100929
+score_per_word: 91744
+hi_scored_words:
+  prankster: 73737
+  prater: 53331
+  presbyter: 89626
+  presenter: 16218
+  printer: 4533
+  promoter: 14644
+  prompter: 87852
+  protester: 51705
+scored_words:
+  preregister: 163988
+  preventer: 110406
+  privater: 248192
+  prizefighter: 186697
+not_scored_words:
+- Procter

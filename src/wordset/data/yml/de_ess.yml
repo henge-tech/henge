@@ -1,0 +1,65 @@
+---
+pattern: de_ess
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 55
+score: 2187220
+score_per_word: 115116
+hi_scored_words:
+  deaconess: 63162
+  deafness: 26314
+  deathless: 90822
+  decompress: 56283
+  defenseless: 49118
+  defensiveness: 96584
+  definiteness: 91045
+  depress: 34798
+  destructiveness: 97244
+  deviousness: 96695
+  devotedness: 80181
+scored_words:
+  deadness: 181619
+  dearness: 190135
+  deceitfulness: 182416
+  decisiveness: 111348
+  deepness: 169200
+  deftness: 209007
+  deliciousness: 187992
+  desirableness: 173257
+not_scored_words:
+- deadliness
+- deathlessness
+- debonairness
+- decentness
+- deceptiveness
+- decidedness
+- deciduousness
+- decorousness
+- defectiveness
+- defenselessness
+- definitiveness
+- degenerateness
+- dejectedness
+- deleteriousness
+- deliberateness
+- delicateness
+- delightedness
+- deliriousness
+- delusiveness
+- demigoddess
+- demonstrativeness
+- demureness
+- denseness
+- dependableness
+- derisiveness
+- descriptiveness
+- desolateness
+- desperateness
+- despicableness
+- desultoriness
+- determinateness
+- determinedness
+- devilishness
+- devoutness
+- dewiness
+- dexterousness

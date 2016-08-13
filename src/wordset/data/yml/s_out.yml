@@ -1,0 +1,26 @@
+---
+pattern: s_out
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 16
+score: 659664
+score_per_word: 47118
+hi_scored_words:
+  scout: 7132
+  sellout: 56320
+  shootout: 20419
+  shout: 6111
+  shutout: 39565
+  snout: 37885
+  spout: 22996
+  sprout: 27588
+  stakeout: 91251
+  standout: 34524
+  stout: 10896
+  strikeout: 67740
+  surtout: 89680
+scored_words:
+  shakeout: 147557
+not_scored_words:
+- Stout
+- sickout

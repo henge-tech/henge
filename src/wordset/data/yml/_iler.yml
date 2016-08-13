@@ -1,0 +1,57 @@
+---
+pattern: _iler
+hi_scored_words_count: 15
+scored_words_count: 11
+total_words: 47
+score: 2512774
+score_per_word: 96645
+hi_scored_words:
+  boiler: 10801
+  broiler: 38091
+  compiler: 11779
+  filer: 47549
+  jailer: 48938
+  mailer: 22794
+  miler: 67207
+  nailer: 74850
+  oiler: 60962
+  retailer: 9808
+  rottweiler: 28529
+  sailer: 69578
+  smiler: 90628
+  spoiler: 20652
+  trailer: 4781
+scored_words:
+  bailer: 144344
+  blackmailer: 180531
+  defiler: 150796
+  potboiler: 196652
+  railer: 219144
+  semitrailer: 158462
+  snowmobiler: 205265
+  tiler: 124812
+  toiler: 126957
+  viler: 206880
+  wailer: 191984
+not_scored_words:
+- Mailer
+- Rottweiler
+- Theiler
+- abseiler
+- aniler
+- assailer
+- beguiler
+- caviler
+- despoiler
+- eviler
+- fragiler
+- frailer
+- greenmailer
+- hailer
+- loudhailer
+- moiler
+- prevailer
+- reconciler
+- reviler
+- tranquiler
+- wassailer

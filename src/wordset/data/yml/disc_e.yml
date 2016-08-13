@@ -1,0 +1,41 @@
+---
+pattern: disc_e
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 31
+score: 2393952
+score_per_word: 92075
+hi_scored_words:
+  discernible: 37119
+  discharge: 4102
+  disciple: 15451
+  discipline: 3578
+  disclose: 8555
+  disclosure: 6306
+  discontinuance: 57537
+  discontinue: 18721
+  discotheque: 72683
+  discourage: 14832
+  discourse: 6338
+  discoverable: 82733
+  discrete: 10959
+  discriminate: 16808
+  discriminative: 85849
+  discursive: 40212
+scored_words:
+  discarnate: 157044
+  discombobulate: 195143
+  discomfiture: 130122
+  discompose: 277314
+  discomposure: 234747
+  disconsolate: 100446
+  discordance: 123513
+  discountable: 333807
+  discountenance: 170382
+  discreditable: 189651
+not_scored_words:
+- Disciple
+- discomfortable
+- discommode
+- discophile
+- discussable

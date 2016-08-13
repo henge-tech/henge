@@ -1,0 +1,42 @@
+---
+pattern: a_lity
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 32
+score: 2285095
+score_per_word: 103867
+hi_scored_words:
+  ability: 1453
+  abnormality: 29918
+  acceptability: 31892
+  accessibility: 8180
+  accountability: 15114
+  actuality: 30592
+  adaptability: 35204
+  admissibility: 48929
+  advisability: 62239
+  affordability: 28023
+  agility: 15449
+  applicability: 24139
+  availability: 6345
+scored_words:
+  affability: 169914
+  amenability: 254405
+  amiability: 143501
+  amorality: 212067
+  approachability: 226957
+  artificiality: 115857
+  atonality: 293131
+  attainability: 333389
+  audibility: 198397
+not_scored_words:
+- admirability
+- alienability
+- amicability
+- anility
+- animality
+- antifertility
+- arability
+- asexuality
+- assignability
+- autostability

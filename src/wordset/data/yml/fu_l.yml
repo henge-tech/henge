@@ -1,0 +1,28 @@
+---
+pattern: fu_l
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 18
+score: 1165103
+score_per_word: 77673
+hi_scored_words:
+  fuel: 2783
+  fulfill: 9467
+  full: 161
+  functional: 7257
+  fundamental: 3410
+  funeral: 3488
+  funereal: 82566
+  fungal: 19424
+  funnel: 19994
+  furl: 58103
+scored_words:
+  fugal: 151443
+  fungicidal: 176726
+  furfural: 209892
+  fusil: 256102
+  fuzzball: 164287
+not_scored_words:
+- Funchal
+- Furnivall
+- fusional

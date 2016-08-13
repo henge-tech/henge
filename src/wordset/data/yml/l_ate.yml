@@ -1,0 +1,60 @@
+---
+pattern: l_ate
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 50
+score: 1665892
+score_per_word: 79328
+hi_scored_words:
+  lactate: 32006
+  laminate: 24240
+  lanceolate: 68182
+  late: 603
+  laureate: 27279
+  legate: 68571
+  legislate: 38460
+  legitimate: 5275
+  levitate: 74442
+  liberate: 26278
+  licentiate: 82398
+  liquidate: 47985
+  literate: 25434
+  litigate: 67999
+  locate: 6783
+  lubricate: 56705
+scored_words:
+  lacerate: 223404
+  ligate: 241308
+  lunate: 191515
+  luxuriate: 113223
+  lychgate: 243802
+not_scored_words:
+- Latinate
+- Lydgate
+- labiate
+- laciniate
+- lacunate
+- lamellate
+- lanate
+- lancinate
+- landgraviate
+- lapidate
+- lemniscate
+- levigate
+- levirate
+- levogyrate
+- librate
+- ligulate
+- limbate
+- lineate
+- lineolate
+- lingulate
+- liquate
+- lixiviate
+- lobate
+- loricate
+- lucubrate
+- lunulate
+- lustrate
+- luxate
+- lyrate

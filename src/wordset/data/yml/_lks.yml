@@ -1,0 +1,48 @@
+---
+pattern: _lks
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 38
+score: 2329013
+score_per_word: 105864
+hi_scored_words:
+  chalks: 91969
+  crosswalks: 80955
+  elks: 45879
+  folks: 2914
+  milks: 71498
+  sidewalks: 22148
+  silks: 36425
+  stalks: 27959
+  talks: 3531
+  walks: 4232
+  yolks: 41592
+scored_words:
+  balks: 125792
+  boardwalks: 131081
+  bulks: 135052
+  catwalks: 122235
+  caulks: 174123
+  gentlefolks: 258164
+  hulks: 121623
+  moonwalks: 191832
+  spacewalks: 203240
+  sulks: 185330
+  whelks: 251439
+not_scored_words:
+- Herrenvolks
+- beanstalks
+- bilks
+- cakewalks
+- calks
+- cornstalks
+- ilks
+- jaywalks
+- kinfolks
+- leafstalks
+- menfolks
+- sheepwalks
+- skulks
+- sleepwalks
+- soymilks
+- womenfolks

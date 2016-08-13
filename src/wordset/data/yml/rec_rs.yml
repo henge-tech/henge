@@ -1,0 +1,29 @@
+---
+pattern: rec_rs
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 19
+score: 825232
+score_per_word: 68769
+hi_scored_words:
+  receivers: 13300
+  receptors: 8363
+  recliners: 85015
+  recorders: 12997
+  recovers: 28636
+  recruiters: 13559
+  rectifiers: 64111
+  rectors: 89787
+  recurs: 64842
+  recyclers: 63760
+scored_words:
+  recognizers: 226227
+  reconsiders: 154635
+not_scored_words:
+- recharters
+- reciters
+- reckoners
+- recolors
+- reconcilers
+- reconnoiters
+- reconquers

@@ -1,0 +1,64 @@
+---
+pattern: b_se
+hi_scored_words_count: 16
+scored_words_count: 15
+total_words: 54
+score: 3261270
+score_per_word: 105202
+hi_scored_words:
+  backhouse: 81718
+  base: 985
+  bathhouse: 67033
+  because: 139
+  bellicose: 83754
+  birdhouse: 51607
+  blase: 95413
+  blockhouse: 80605
+  blouse: 17040
+  boathouse: 44545
+  bookcase: 23831
+  bourse: 43863
+  briefcase: 19382
+  browse: 9260
+  bruise: 30238
+  bunkhouse: 81079
+scored_words:
+  bagasse: 123506
+  bakehouse: 150542
+  barrelhouse: 230175
+  bendwise: 323502
+  berceuse: 171765
+  bluenose: 126973
+  boardinghouse: 164447
+  bouillabaisse: 128073
+  bouse: 112212
+  braise: 132108
+  brewhouse: 111407
+  brose: 129911
+  bughouse: 222261
+  bullnose: 205778
+  burse: 198118
+not_scored_words:
+- Balinese
+- Barbusse
+- Bearnaise
+- Bengalese
+- Beninese
+- Bernese
+- Betelgeuse
+- Bhutanese
+- Bluenose
+- Boise
+- Bolognese
+- Bordelaise
+- Borghese
+- Bose
+- Bourse
+- Brooklynese
+- Burmese
+- bawdyhouse
+- bemuse
+- bladdernose
+- bowse
+- bridlewise
+- burnoose

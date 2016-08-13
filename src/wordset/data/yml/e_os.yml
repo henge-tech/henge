@@ -1,0 +1,31 @@
+---
+pattern: e_os
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 974890
+score_per_word: 81240
+hi_scored_words:
+  echos: 70258
+  egos: 35049
+  eidos: 51595
+  embryos: 23987
+  epos: 60846
+  ethos: 23481
+  euros: 11778
+  expos: 27777
+scored_words:
+  emos: 105593
+  escudos: 105494
+  espressos: 227543
+  exophthalmos: 231489
+not_scored_words:
+- Edos
+- Enos
+- Eos
+- Eros
+- Eskimos
+- epanodos
+- eringos
+- eryngos
+- extrados

@@ -1,0 +1,29 @@
+---
+pattern: com_l
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 19
+score: 1186235
+score_per_word: 84731
+hi_scored_words:
+  combinatorial: 29891
+  comical: 28603
+  commercial: 1049
+  committal: 68130
+  commonweal: 94539
+  communal: 14965
+  compel: 16568
+  compositional: 34369
+  computational: 12491
+scored_words:
+  commensal: 140692
+  commonsensical: 259279
+  communicational: 221214
+  compartmental: 146281
+  compressional: 118164
+not_scored_words:
+- commissarial
+- commutual
+- complemental
+- complexional
+- componential

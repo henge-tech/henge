@@ -1,0 +1,34 @@
+---
+pattern: fa_rs
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 24
+score: 1127140
+score_per_word: 70446
+hi_scored_words:
+  fabricators: 57133
+  facilitators: 33604
+  factors: 3360
+  fairs: 13494
+  falters: 80114
+  familiars: 98280
+  fanciers: 85559
+  farmers: 3609
+  fasteners: 26694
+  fathers: 5091
+  favors: 7753
+scored_words:
+  fakers: 136690
+  fakirs: 129998
+  falconers: 195797
+  fallers: 128594
+  farriers: 121370
+not_scored_words:
+- Fathers
+- facers
+- falsifiers
+- faqirs
+- faquirs
+- fashioners
+- faultfinders
+- fawners

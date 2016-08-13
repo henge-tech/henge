@@ -1,0 +1,35 @@
+---
+pattern: exp_ed
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 25
+score: 1664355
+score_per_word: 69348
+hi_scored_words:
+  expanded: 4731
+  expected: 911
+  expedited: 26323
+  expelled: 16799
+  expended: 24765
+  experienced: 2148
+  experimented: 31999
+  expired: 8532
+  explained: 2226
+  exploded: 14624
+  exploited: 13399
+  explored: 9460
+  exported: 13158
+  exposed: 3294
+  expounded: 55328
+  expressed: 1853
+  expropriated: 76441
+  expunged: 74740
+scored_words:
+  expatiated: 146136
+  expatriated: 286529
+  expiated: 236518
+  explicated: 132934
+  expostulated: 246577
+  expurgated: 234930
+not_scored_words:
+- expectorated

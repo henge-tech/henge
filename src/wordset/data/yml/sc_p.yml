@@ -1,0 +1,27 @@
+---
+pattern: sc_p
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 17
+score: 1158567
+score_per_word: 82754
+hi_scored_words:
+  scallop: 38927
+  scalp: 16372
+  scamp: 28442
+  scarp: 80900
+  scholarship: 5768
+  scoop: 12199
+  scop: 64460
+  scrap: 8869
+  scrip: 41727
+scored_words:
+  schlep: 187763
+  scrapheap: 188756
+  scrimp: 154356
+  sculp: 223261
+  scup: 106767
+not_scored_words:
+- schlepp
+- scroop
+- scrump

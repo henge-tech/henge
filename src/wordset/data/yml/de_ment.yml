@@ -1,0 +1,38 @@
+---
+pattern: de_ment
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 28
+score: 1852091
+score_per_word: 88194
+hi_scored_words:
+  debasement: 98962
+  debridement: 85487
+  decrement: 48419
+  deferment: 57435
+  defilement: 72096
+  dement: 91287
+  denouement: 69314
+  department: 1112
+  deployment: 9147
+  deportment: 80694
+  derailment: 71798
+  derangement: 83221
+  detachment: 14056
+  detriment: 22761
+  development: 563
+scored_words:
+  debarment: 163998
+  decipherment: 180877
+  defacement: 123279
+  denouncement: 281225
+  detainment: 163242
+  dethronement: 133118
+not_scored_words:
+- debouchment
+- decampment
+- defrayment
+- despoilment
+- determent
+- devilment
+- devolvement

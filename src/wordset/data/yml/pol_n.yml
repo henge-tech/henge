@@ -1,0 +1,31 @@
+---
+pattern: pol_n
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 21
+score: 776938
+score_per_word: 51795
+hi_scored_words:
+  polarization: 25092
+  policeman: 12918
+  policemen: 20435
+  policewoman: 83417
+  politician: 11879
+  politicization: 89437
+  pollen: 13746
+  pollination: 37204
+  pollution: 6799
+  poltroon: 98754
+  polygon: 20775
+  polyhedron: 55067
+  polymerization: 28938
+scored_words:
+  policewomen: 158419
+  polymyxin: 114058
+not_scored_words:
+- Politian
+- Polynesian
+- poleyn
+- polycotyledon
+- polysyndeton
+- polyzoan

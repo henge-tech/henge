@@ -1,0 +1,25 @@
+---
+pattern: reso_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 843151
+score_per_word: 76650
+hi_scored_words:
+  resolutions: 6903
+  resolves: 24416
+  resonances: 40377
+  resonates: 50237
+  resonators: 64587
+  resorts: 7979
+  resourcefulness: 67028
+  resources: 1045
+scored_words:
+  resoluteness: 292349
+  resolvers: 155593
+  resounds: 132637
+not_scored_words:
+- resoles
+- resolvents
+- resorcinols
+- resows

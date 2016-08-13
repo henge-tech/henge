@@ -1,0 +1,28 @@
+---
+pattern: w_ld
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 18
+score: 195834
+score_per_word: 19583
+hi_scored_words:
+  weald: 59606
+  weld: 20036
+  wield: 29280
+  wild: 1122
+  windshield: 18937
+  withheld: 12275
+  withhold: 17440
+  wold: 36971
+  world: 108
+  would: 59
+scored_words: {}
+not_scored_words:
+- Wakefield
+- Wald
+- Weald
+- Whitefield
+- Whitfield
+- Winfield
+- wergild
+- woald

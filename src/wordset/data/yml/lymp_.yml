@@ -1,0 +1,27 @@
+---
+pattern: lymp_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 17
+score: 1600273
+score_per_word: 114305
+hi_scored_words:
+  lymph: 21187
+  lymphadenopathy: 87151
+  lymphatic: 31619
+  lymphocyte: 27979
+  lymphocytes: 19730
+  lymphoid: 37790
+  lymphoma: 16260
+  lymphomas: 51252
+scored_words:
+  lymphadenitis: 166272
+  lymphatics: 124931
+  lymphoblast: 252462
+  lymphoblasts: 246245
+  lymphocytosis: 256477
+  lymphosarcoma: 260918
+not_scored_words:
+- lymphangial
+- lymphangitis
+- lymphous

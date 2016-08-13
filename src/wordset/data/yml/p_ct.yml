@@ -1,0 +1,32 @@
+---
+pattern: p_ct
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 22
+score: 1029984
+score_per_word: 73570
+hi_scored_words:
+  pact: 17380
+  pct: 13436
+  perfect: 726
+  precinct: 18719
+  predict: 8598
+  prefect: 28519
+  product: 1148
+  project: 819
+  prospect: 4656
+  protect: 1482
+scored_words:
+  pluperfect: 148599
+  praefect: 249404
+  preselect: 278591
+  protract: 257907
+not_scored_words:
+- Pict
+- Pontefract
+- pandect
+- pinnatisect
+- playact
+- precontract
+- preinstruct
+- prelect

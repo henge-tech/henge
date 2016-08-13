@@ -1,0 +1,34 @@
+---
+pattern: all_y
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 24
+score: 1427149
+score_per_word: 109780
+hi_scored_words:
+  allay: 44614
+  allegedly: 13686
+  allegory: 28892
+  allergy: 13705
+  alley: 8209
+  alleyway: 72772
+  alloy: 11656
+  ally: 8515
+scored_words:
+  allegorically: 177749
+  allelopathy: 262190
+  allergenicity: 218593
+  allometry: 290313
+  allopathy: 276255
+not_scored_words:
+- Allegheny
+- Allenby
+- Alloway
+- allergically
+- alliteratively
+- allogamy
+- allotropy
+- allowably
+- allowedly
+- alluringly
+- allusively

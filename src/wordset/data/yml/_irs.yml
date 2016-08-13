@@ -1,0 +1,72 @@
+---
+pattern: _irs
+hi_scored_words_count: 27
+scored_words_count: 12
+total_words: 62
+score: 2774602
+score_per_word: 71143
+hi_scored_words:
+  abattoirs: 88755
+  affairs: 1381
+  airs: 14765
+  armchairs: 58164
+  chairs: 3689
+  choirs: 31300
+  corsairs: 94927
+  downstairs: 10449
+  emirs: 84521
+  fairs: 13494
+  firs: 39884
+  hairs: 21356
+  heirs: 19946
+  highchairs: 63122
+  impairs: 53793
+  memoirs: 9774
+  pairs: 5337
+  repairs: 6210
+  reservoirs: 19855
+  sirs: 38786
+  souvenirs: 17776
+  stairs: 5455
+  stirs: 35865
+  theirs: 9420
+  upstairs: 7730
+  weirs: 71029
+  wheelchairs: 25896
+scored_words:
+  deckchairs: 186902
+  despairs: 160905
+  devoirs: 251009
+  eclairs: 186565
+  elixirs: 120189
+  fakirs: 129998
+  flairs: 138755
+  kafirs: 218351
+  lairs: 105166
+  pushchairs: 101711
+  tapirs: 161607
+  éclairs: 160765
+not_scored_words:
+- IRS
+- Kafirs
+- Kashmirs
+- Pamirs
+- Sirs
+- amirs
+- backstairs
+- bestirs
+- boudoirs
+- coheirs
+- coirs
+- faqirs
+- faquirs
+- funfairs
+- longhairs
+- menhirs
+- nadirs
+- peignoirs
+- pissoirs
+- triumvirs
+- voussoirs
+- whirs
+- wirehairs

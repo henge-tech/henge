@@ -1,0 +1,38 @@
+---
+pattern: mini_s
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 28
+score: 1962326
+score_per_word: 98116
+hi_scored_words:
+  miniatures: 20476
+  minibus: 38213
+  minibuses: 76924
+  minimizes: 28485
+  minimums: 40691
+  minimus: 91575
+  minions: 33051
+  minis: 27459
+  miniseries: 34585
+  miniskirts: 62926
+  ministers: 4645
+  ministrations: 99594
+  ministries: 14877
+  minivans: 50882
+scored_words:
+  minibars: 209820
+  minicabs: 213261
+  minicams: 304572
+  minicomputers: 129018
+  minimalists: 235150
+  minims: 246122
+not_scored_words:
+- miniaturists
+- miniaturizes
+- minibikes
+- minifies
+- minifloppies
+- ministrants
+- miniums
+- minivers

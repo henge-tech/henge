@@ -1,0 +1,23 @@
+---
+pattern: nu_ed
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 681671
+score_per_word: 68167
+hi_scored_words:
+  nuanced: 44320
+  nudged: 63009
+  nuked: 71446
+  nullified: 67848
+  numbed: 85939
+  numbered: 7218
+  nursed: 47747
+  nurtured: 33003
+scored_words:
+  nucleated: 111549
+  nuzzled: 149592
+not_scored_words:
+- nucleolated
+- numerated
+- nutted

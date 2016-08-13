@@ -1,0 +1,24 @@
+---
+pattern: tres_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 724443
+score_per_word: 65858
+hi_scored_words:
+  tres: 14641
+  trespass: 24232
+  trespasser: 82064
+  trespassers: 81675
+  trespasses: 75660
+  trespassing: 35557
+  tress: 56755
+  tresses: 66606
+  trestle: 49743
+scored_words:
+  trespassed: 136430
+  trestles: 101080
+not_scored_words:
+- tressure
+- trestlework
+- trestleworks

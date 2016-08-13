@@ -1,0 +1,26 @@
+---
+pattern: ma_ce
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 16
+score: 347527
+score_per_word: 34752
+hi_scored_words:
+  mace: 17061
+  magnificence: 35876
+  maintenance: 2661
+  malevolence: 73624
+  malfeasance: 73961
+  malice: 16071
+  malpractice: 14116
+  mantelpiece: 91988
+  marketplace: 11391
+  masterpiece: 10778
+scored_words: {}
+not_scored_words:
+- Mace
+- Maurice
+- Mayence
+- magniloquence
+- mainbrace
+- maleficence

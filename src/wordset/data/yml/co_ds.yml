@@ -1,0 +1,54 @@
+---
+pattern: co_ds
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 44
+score: 2173786
+score_per_word: 83607
+hi_scored_words:
+  cods: 87022
+  coeds: 56624
+  colds: 23905
+  colloids: 62985
+  commands: 3624
+  commends: 50583
+  compounds: 6623
+  comprehends: 82852
+  confounds: 80555
+  contends: 22590
+  copepods: 86693
+  cords: 12388
+  cornfields: 92694
+  corresponds: 9171
+  corticosteroids: 34287
+  courtyards: 50267
+  cowards: 34654
+scored_words:
+  coalfields: 105197
+  coastguards: 171317
+  coastlands: 276538
+  codewords: 102670
+  collards: 117868
+  condescends: 134674
+  copperheads: 167105
+  cottonwoods: 118631
+  cowbirds: 182269
+not_scored_words:
+- Concords
+- Cotswolds
+- coachloads
+- coloreds
+- colubrids
+- comatulids
+- conoids
+- coonhounds
+- copyholds
+- copyreads
+- cordwoods
+- corkwoods
+- cottonseeds
+- cottonweeds
+- countermands
+- cowhands
+- cowherds
+- cowsheds

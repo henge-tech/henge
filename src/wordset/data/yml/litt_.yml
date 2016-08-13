@@ -1,0 +1,32 @@
+---
+pattern: litt_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 22
+score: 611851
+score_per_word: 61185
+hi_scored_words:
+  litter: 12509
+  littered: 32590
+  littering: 57612
+  litters: 45050
+  little: 168
+  littler: 83624
+  littlest: 51424
+  littoral: 40841
+scored_words:
+  litterateur: 100315
+  littleness: 187718
+not_scored_words:
+- Little
+- Litton
+- litterateurs
+- litterbug
+- litterbugs
+- litterer
+- litterers
+- littleneck
+- littlenecks
+- littorals
+- littérateur
+- littérateurs

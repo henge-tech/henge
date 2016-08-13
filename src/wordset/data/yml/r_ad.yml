@@ -1,0 +1,25 @@
+---
+pattern: r_ad
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 828299
+score_per_word: 69024
+hi_scored_words:
+  rad: 18664
+  railroad: 4109
+  read: 171
+  redhead: 15220
+  reload: 17791
+  reread: 38177
+  retread: 92499
+  riverhead: 64340
+  road: 357
+  roadstead: 91578
+scored_words:
+  railhead: 148090
+  rattlehead: 337303
+not_scored_words:
+- Roundhead
+- retrad
+- rudderhead

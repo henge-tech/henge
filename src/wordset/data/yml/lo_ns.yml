@@ -1,0 +1,28 @@
+---
+pattern: lo_ns
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 1096872
+score_per_word: 84374
+hi_scored_words:
+  loans: 3064
+  locations: 2545
+  logins: 43950
+  loins: 35189
+  longhorns: 28714
+  loons: 63856
+  loosens: 89325
+  lotions: 29454
+scored_words:
+  localizations: 112747
+  locutions: 264850
+  logicians: 113928
+  logisticians: 205667
+  logons: 103583
+not_scored_words:
+- Lothians
+- Louisianans
+- Louisianians
+- longans
+- longicorns

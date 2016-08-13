@@ -1,0 +1,51 @@
+---
+pattern: re_red
+hi_scored_words_count: 23
+scored_words_count: 9
+total_words: 41
+score: 2399225
+score_per_word: 74975
+hi_scored_words:
+  reappeared: 47520
+  reared: 21080
+  reassured: 32892
+  recaptured: 52905
+  reconfigured: 55052
+  reconsidered: 40790
+  recovered: 5195
+  recurred: 77219
+  rediscovered: 44867
+  reentered: 96669
+  referred: 2001
+  registered: 1618
+  remastered: 19901
+  remembered: 3828
+  rendered: 4980
+  renumbered: 41395
+  reordered: 82327
+  repaired: 10122
+  required: 496
+  restored: 4945
+  restructured: 33334
+  retired: 3613
+  revered: 27155
+scored_words:
+  reacquired: 170780
+  recolored: 206659
+  reconquered: 230904
+  refactored: 151859
+  rehired: 108162
+  reinsured: 230379
+  remaindered: 195200
+  remeasured: 289880
+  rewired: 105498
+not_scored_words:
+- rechartered
+- reconnoitered
+- redelivered
+- regathered
+- rejiggered
+- reoccurred
+- respired
+- retrofired
+- reupholstered

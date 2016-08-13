@@ -1,0 +1,41 @@
+---
+pattern: perp_
+hi_scored_words_count: 19
+scored_words_count: 5
+total_words: 31
+score: 1961823
+score_per_word: 81742
+hi_scored_words:
+  perpendicular: 14730
+  perpendicularly: 89691
+  perpetrate: 78121
+  perpetrated: 27248
+  perpetrating: 99221
+  perpetrator: 30139
+  perpetrators: 26140
+  perpetual: 9029
+  perpetually: 27186
+  perpetuate: 25929
+  perpetuated: 46860
+  perpetuates: 72898
+  perpetuating: 44784
+  perpetuation: 61031
+  perpetuity: 44546
+  perplex: 69076
+  perplexed: 26353
+  perplexing: 36918
+  perplexity: 48562
+scored_words:
+  perpendicularity: 313936
+  perpetrates: 289504
+  perpetration: 118672
+  perplexes: 231004
+  perplexities: 130245
+not_scored_words:
+- perpend
+- perpendiculars
+- perpetuals
+- perpetuance
+- perpetuator
+- perplexedly
+- perplexingly

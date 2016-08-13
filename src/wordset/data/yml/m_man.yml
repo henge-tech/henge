@@ -1,0 +1,31 @@
+---
+pattern: m_man
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 1396948
+score_per_word: 107457
+hi_scored_words:
+  madman: 23976
+  mailman: 16055
+  marksman: 45684
+  merman: 67350
+  middleman: 45613
+  midshipman: 69139
+  milkman: 53730
+  minuteman: 44970
+scored_words:
+  madwoman: 116560
+  merchantman: 226572
+  militiaman: 258237
+  motorman: 188081
+  muscleman: 240981
+not_scored_words:
+- Maiman
+- Manxman
+- Manxwoman
+- Minuteman
+- Mussulman
+- mailwoman
+- markswoman
+- meatman

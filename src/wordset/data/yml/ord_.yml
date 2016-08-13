@@ -1,0 +1,51 @@
+---
+pattern: ord_
+hi_scored_words_count: 23
+scored_words_count: 9
+total_words: 41
+score: 2044639
+score_per_word: 63894
+hi_scored_words:
+  ord: 18962
+  ordain: 51990
+  ordained: 13510
+  ordeal: 19072
+  order: 166
+  ordered: 1907
+  ordering: 3727
+  orderings: 81756
+  orderlies: 91837
+  orderliness: 93818
+  orderly: 12836
+  orders: 877
+  ordinal: 32610
+  ordinance: 7236
+  ordinances: 13421
+  ordinaries: 94212
+  ordinarily: 17217
+  ordinary: 2409
+  ordinate: 25695
+  ordinates: 38494
+  ordination: 16054
+  ordnance: 17639
+  ordo: 56845
+scored_words:
+  ordaining: 133688
+  ordains: 145748
+  ordeals: 101710
+  orderer: 327575
+  ordinals: 110090
+  ordinariness: 150131
+  ordinations: 137027
+  ordonnance: 111763
+  ordure: 114617
+not_scored_words:
+- Ordovician
+- Ordzhonikidze
+- ordainer
+- ordainment
+- orderless
+- ordinand
+- ordinands
+- ordines
+- ordn

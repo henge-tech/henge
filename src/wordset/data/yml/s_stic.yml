@@ -1,0 +1,40 @@
+---
+pattern: s_stic
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 30
+score: 1857782
+score_per_word: 92889
+hi_scored_words:
+  sadistic: 34706
+  sarcastic: 18480
+  scholastic: 15498
+  simplistic: 22219
+  socialistic: 81689
+  sociolinguistic: 98049
+  spastic: 38241
+  statistic: 16579
+  stochastic: 16331
+  stylistic: 28256
+  surrealistic: 89112
+  synergistic: 38587
+scored_words:
+  sadomasochistic: 178597
+  sensationalistic: 188334
+  shamanistic: 142724
+  solipsistic: 123716
+  somnambulistic: 153580
+  spiritualistic: 260300
+  syllogistic: 208410
+  syncretistic: 104374
+not_scored_words:
+- Silastic
+- satanistic
+- scientistic
+- sciolistic
+- secularistic
+- solecistic
+- sophistic
+- specialistic
+- supercalifragilistic
+- synclastic

@@ -1,0 +1,38 @@
+---
+pattern: in_ents
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 28
+score: 1505266
+score_per_word: 68421
+hi_scored_words:
+  incidents: 5714
+  increments: 18132
+  incumbents: 32318
+  indents: 90370
+  independents: 26924
+  indictments: 45743
+  inducements: 65138
+  infringements: 49379
+  ingredients: 4883
+  innocents: 33211
+  inpatients: 70354
+  installments: 34236
+  instruments: 2112
+  insurgents: 15551
+  intents: 42468
+  invents: 58259
+  investments: 5543
+  involvements: 92147
+scored_words:
+  incitements: 269747
+  incompetents: 157846
+  indigents: 219441
+  interments: 165750
+not_scored_words:
+- insolvents
+- instillments
+- integuments
+- internements
+- internments
+- intransigents

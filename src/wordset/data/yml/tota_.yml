@@ -1,0 +1,26 @@
+---
+pattern: tota_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 729146
+score_per_word: 66286
+hi_scored_words:
+  total: 567
+  totaled: 22425
+  totaling: 20508
+  totalitarian: 29232
+  totalitarianism: 42596
+  totality: 27412
+  totally: 2464
+  totals: 16759
+scored_words:
+  totalitarians: 283439
+  totalizer: 141609
+  totalizing: 142135
+not_scored_words:
+- totalities
+- totalizator
+- totalizators
+- totalizers
+- totaquine

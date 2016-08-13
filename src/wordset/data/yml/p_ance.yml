@@ -1,0 +1,37 @@
+---
+pattern: p_ance
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 27
+score: 1000588
+score_per_word: 62536
+hi_scored_words:
+  parlance: 48263
+  penance: 28681
+  perchance: 36193
+  performance: 1037
+  perseverance: 19878
+  pittance: 64790
+  prance: 72822
+  predominance: 38750
+  preponderance: 34866
+  provenance: 27241
+  puissance: 65865
+  pursuance: 43539
+scored_words:
+  penetrance: 123244
+  petulance: 148602
+  pleasance: 130943
+  protuberance: 115874
+not_scored_words:
+- Penzance
+- perdurance
+- permeance
+- perpetuance
+- photoreconnaisance
+- photoreconnaissance
+- poignance
+- precipitance
+- procurance
+- purtenance
+- purveyance

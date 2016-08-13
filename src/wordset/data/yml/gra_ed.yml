@@ -1,0 +1,32 @@
+---
+pattern: gra_ed
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 22
+score: 1274717
+score_per_word: 63735
+hi_scored_words:
+  grabbed: 11207
+  graced: 37337
+  graded: 15944
+  graduated: 7074
+  grafted: 46804
+  grained: 31344
+  grandfathered: 65898
+  granted: 2235
+  granulated: 50368
+  graphed: 93267
+  grappled: 78779
+  grasped: 20991
+  grassed: 84619
+  grated: 24051
+  gratified: 37207
+  grayed: 90080
+  grazed: 42603
+scored_words:
+  graved: 224781
+  graveled: 208070
+  gravitated: 102058
+not_scored_words:
+- gradated
+- grandstanded

@@ -1,0 +1,37 @@
+---
+pattern: warr_
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 27
+score: 1679798
+score_per_word: 93322
+hi_scored_words:
+  warrant: 4647
+  warranted: 16512
+  warranties: 7681
+  warranting: 93920
+  warrants: 13570
+  warranty: 5764
+  warren: 6970
+  warrens: 97050
+  warring: 30634
+  warrior: 4891
+  warriors: 5308
+scored_words:
+  warrantee: 120361
+  warrantees: 112298
+  warrantied: 257525
+  warrantor: 234596
+  warred: 156074
+  warrener: 280218
+  warrigal: 231779
+not_scored_words:
+- Warren
+- Warrington
+- warrantability
+- warrantable
+- warranter
+- warrantors
+- warrantying
+- warreners
+- warrigals

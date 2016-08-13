@@ -1,0 +1,61 @@
+---
+pattern: cons_e
+hi_scored_words_count: 25
+scored_words_count: 4
+total_words: 51
+score: 1266667
+score_per_word: 43678
+hi_scored_words:
+  conscience: 6287
+  consecrate: 60002
+  consecutive: 8377
+  consequence: 4261
+  conservative: 3415
+  conservatoire: 74517
+  conserve: 17814
+  considerable: 2862
+  considerate: 23782
+  consignee: 60721
+  console: 4560
+  consolidate: 15237
+  consonance: 73317
+  conspire: 42788
+  constable: 13586
+  constitute: 4982
+  constitutive: 34703
+  constructive: 10742
+  construe: 46522
+  consulate: 16846
+  consultative: 21277
+  consumable: 35492
+  consume: 9812
+  consummate: 29444
+  consumptive: 54449
+scored_words:
+  consistence: 107061
+  consomme: 190584
+  constrictive: 141799
+  constructible: 151428
+not_scored_words:
+- Conservative
+- Constable
+- Constance
+- Constantine
+- Constantinople
+- consanguine
+- conscionable
+- consecrative
+- conservable
+- consignable
+- consociate
+- consolable
+- consolute
+- constellate
+- consternate
+- constipate
+- constrainable
+- constringe
+- construable
+- constructable
+- consubstantiate
+- consuetude

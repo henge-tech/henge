@@ -1,0 +1,33 @@
+---
+pattern: r_x
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 23
+score: 879367
+score_per_word: 79942
+hi_scored_words:
+  radix: 40276
+  redux: 34542
+  reflex: 13954
+  reflux: 27215
+  regex: 39681
+  relax: 6440
+  remix: 5640
+  roux: 33781
+scored_words:
+  religieux: 170474
+  reseaux: 277565
+  retroflex: 229799
+not_scored_words:
+- Rex
+- Rolex
+- Rolodex
+- Roubaix
+- Rx
+- rattlebox
+- reannex
+- rectrix
+- refix
+- remex
+- rondeaux
+- réseaux

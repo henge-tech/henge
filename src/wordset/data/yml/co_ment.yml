@@ -1,0 +1,31 @@
+---
+pattern: co_ment
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 21
+score: 1114537
+score_per_word: 61918
+hi_scored_words:
+  commandment: 22218
+  commencement: 8410
+  comment: 1104
+  commitment: 8470
+  compartment: 10792
+  complement: 9161
+  compliment: 9695
+  concealment: 26701
+  condiment: 47095
+  confinement: 13703
+  consignment: 28904
+  containment: 18044
+  contentment: 27654
+scored_words:
+  comportment: 211451
+  concernment: 184773
+  conferment: 181068
+  copayment: 119020
+  counterargument: 186274
+not_scored_words:
+- Commandment
+- congealment
+- counterstatement

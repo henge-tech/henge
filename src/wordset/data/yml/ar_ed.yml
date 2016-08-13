@@ -1,0 +1,34 @@
+---
+pattern: ar_ed
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 24
+score: 1449683
+score_per_word: 76299
+hi_scored_words:
+  arched: 21606
+  archived: 13568
+  argued: 5436
+  armed: 3048
+  armored: 20739
+  aroused: 19932
+  arraigned: 64672
+  arranged: 4046
+  arrayed: 51229
+  arrested: 3798
+  arrived: 2514
+  arsed: 68472
+  articulated: 19006
+scored_words:
+  arbitrated: 103593
+  arcaded: 206426
+  arced: 203638
+  arrogated: 249881
+  arrowed: 234896
+  articled: 153183
+not_scored_words:
+- arbitraged
+- archaized
+- argufied
+- aromatized
+- arterialized

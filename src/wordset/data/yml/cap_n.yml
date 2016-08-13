@@ -1,0 +1,32 @@
+---
+pattern: cap_n
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 22
+score: 1029418
+score_per_word: 85784
+hi_scored_words:
+  capitalization: 22723
+  capitation: 59849
+  capitulation: 49019
+  capon: 84076
+  capsaicin: 72354
+  capstan: 76382
+  captain: 1882
+  caption: 15804
+  capuchin: 63040
+scored_words:
+  capelin: 169958
+  caplin: 127712
+  captivation: 286619
+not_scored_words:
+- Capetian
+- Capetown
+- Cappadocian
+- Capricorn
+- Captain
+- Capuchin
+- caparison
+- capeskin
+- caprification
+- capsulation

@@ -1,0 +1,112 @@
+---
+pattern: a_ous
+hi_scored_words_count: 30
+scored_words_count: 10
+total_words: 102
+score: 3042726
+score_per_word: 76068
+hi_scored_words:
+  acrimonious: 69383
+  adulterous: 66528
+  advantageous: 22944
+  adventitious: 76156
+  adventurous: 14729
+  albuminous: 92673
+  ambidextrous: 64607
+  ambiguous: 13771
+  ambitious: 7690
+  amorous: 36840
+  amorphous: 27500
+  amphibious: 29712
+  anadromous: 70345
+  analogous: 12863
+  androgynous: 66130
+  anhydrous: 41439
+  anomalous: 23339
+  anonymous: 3651
+  anxious: 6624
+  aqueous: 19330
+  arduous: 26875
+  arsenious: 84261
+  arteriovenous: 64839
+  assiduous: 79074
+  asynchronous: 20738
+  atrocious: 30902
+  audacious: 33818
+  auspicious: 30608
+  autonomous: 15294
+  avaricious: 82387
+scored_words:
+  abstemious: 181708
+  acephalous: 254801
+  acetous: 226552
+  acidulous: 157658
+  allochthonous: 269713
+  argillaceous: 159810
+  auriferous: 117626
+  autocephalous: 212697
+  autochthonous: 110806
+  autogenous: 116305
+not_scored_words:
+- Achelous
+- abdominous
+- acanthaceous
+- acanthous
+- acarpous
+- acclivitous
+- achlamydeous
+- achromatous
+- acrocarpous
+- acronymous
+- adactylous
+- adiaphorous
+- adscititious
+- aeneous
+- alacritous
+- alliaceous
+- aluminiferous
+- aluminous
+- amaranthaceous
+- amaryllidaceous
+- ambagious
+- amphibolous
+- amphicoelous
+- amphitropous
+- amylaceous
+- anacardiaceous
+- anachronous
+- anandrous
+- ananthous
+- anarthrous
+- anatropous
+- anemophilous
+- anfractuous
+- anisomerous
+- anthropomorphous
+- anthropophagous
+- antimonous
+- antireligious
+- antonymous
+- anurous
+- apetalous
+- aphyllous
+- apivorous
+- apocarpous
+- apocynaceous
+- apterous
+- araceous
+- araliaceous
+- arboreous
+- arenaceous
+- arenicolous
+- argentiferous
+- argentous
+- argilliferous
+- arundinaceous
+- asclepiadaceous
+- asomatous
+- astomatous
+- atrabilious
+- aurous
+- autoicous
+- azygous

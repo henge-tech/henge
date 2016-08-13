@@ -1,0 +1,26 @@
+---
+pattern: vi_te
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 854905
+score_per_word: 77718
+hi_scored_words:
+  vibrate: 32040
+  videocassette: 64242
+  vigilante: 36751
+  vignette: 35796
+  vinaigrette: 36767
+  vindicate: 51056
+  violate: 10303
+  vitiate: 91650
+scored_words:
+  vicariate: 143836
+  vidette: 212330
+  virgate: 140134
+not_scored_words:
+- Vicente
+- vinegarette
+- virgulate
+- vituperate
+- vizierate

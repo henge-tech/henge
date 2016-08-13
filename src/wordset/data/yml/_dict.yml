@@ -1,0 +1,21 @@
+---
+pattern: _dict
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 11
+score: 260741
+score_per_word: 28971
+hi_scored_words:
+  addict: 14190
+  benedict: 12817
+  contradict: 18233
+  dict: 39212
+  edict: 29377
+  indict: 59305
+  interdict: 70436
+  predict: 8598
+  verdict: 8573
+scored_words: {}
+not_scored_words:
+- Benedict
+- maledict

@@ -1,0 +1,38 @@
+---
+pattern: ca_in
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 28
+score: 1042967
+score_per_word: 86913
+hi_scored_words:
+  cabin: 4408
+  cain: 14973
+  calfskin: 92822
+  capsaicin: 72354
+  captain: 1882
+  capuchin: 63040
+  casein: 36553
+  cathepsin: 85043
+scored_words:
+  capelin: 169958
+  caplin: 127712
+  catechin: 166887
+  catkin: 207335
+not_scored_words:
+- Cain
+- Caitlin
+- Calvin
+- Camiguin
+- Captain
+- Capuchin
+- Cardin
+- Carlin
+- calamondin
+- canakin
+- candlepin
+- canikin
+- cannabin
+- cannikin
+- capeskin
+- carabin

@@ -1,0 +1,68 @@
+---
+pattern: _rams
+hi_scored_words_count: 19
+scored_words_count: 17
+total_words: 58
+score: 4268768
+score_per_word: 118576
+hi_scored_words:
+  anagrams: 56207
+  diagrams: 12349
+  drams: 79126
+  epigrams: 94809
+  grams: 14401
+  histograms: 48407
+  holograms: 50918
+  kilograms: 26819
+  kissograms: 67738
+  mammograms: 67214
+  micrograms: 44709
+  milligrams: 30564
+  monograms: 82453
+  prams: 66172
+  programs: 2512
+  rams: 13998
+  subprograms: 96904
+  telegrams: 43342
+  trams: 36974
+scored_words:
+  angiograms: 186933
+  ashrams: 166461
+  chromatograms: 134924
+  crams: 196922
+  cryptograms: 193651
+  electrocardiograms: 168102
+  engrams: 241561
+  hexagrams: 252574
+  ideograms: 219956
+  parallelograms: 208218
+  pentagrams: 171258
+  phonograms: 140223
+  scrams: 323042
+  sonograms: 203285
+  spectrograms: 157040
+  tangrams: 189922
+  trigrams: 179080
+not_scored_words:
+- Abrams
+- Muharrams
+- RAMs
+- aerograms
+- cablegrams
+- cardiograms
+- centigrams
+- decagrams
+- decigrams
+- dekagrams
+- deprograms
+- disulfirams
+- electroencephalograms
+- encephalograms
+- grograms
+- hectograms
+- logograms
+- oscillograms
+- radiograms
+- reprograms
+- roentgenograms
+- tetragrams

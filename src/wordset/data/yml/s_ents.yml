@@ -1,0 +1,32 @@
+---
+pattern: s_ents
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 22
+score: 791734
+score_per_word: 43985
+hi_scored_words:
+  sacraments: 30921
+  scents: 23762
+  sediments: 15416
+  segments: 10023
+  sentiments: 12111
+  serpents: 42492
+  settlements: 8185
+  shipments: 16138
+  solvents: 19823
+  statements: 2262
+  stents: 58531
+  students: 1105
+  succulents: 76363
+  superintendents: 36392
+  supplements: 13182
+scored_words:
+  secondments: 133133
+  silents: 127745
+  stepparents: 164150
+not_scored_words:
+- salients
+- subbasements
+- subcontinents
+- sustainments

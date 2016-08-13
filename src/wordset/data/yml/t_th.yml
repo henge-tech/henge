@@ -1,0 +1,41 @@
+---
+pattern: t_th
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 31
+score: 2385186
+score_per_word: 99382
+hi_scored_words:
+  tablecloth: 31786
+  teeth: 3139
+  tenth: 8179
+  thenceforth: 93504
+  therewith: 27061
+  thirteenth: 19102
+  thirtieth: 46886
+  thousandth: 58557
+  tollbooth: 99489
+  tooth: 10000
+  towpath: 79506
+  troth: 85340
+  truth: 1021
+  twelfth: 15511
+  twentieth: 8769
+scored_words:
+  terrycloth: 176808
+  teth: 148133
+  tilth: 120192
+  tinsmith: 178973
+  tolbooth: 251255
+  tragacanth: 271607
+  trillionth: 239300
+  tunesmith: 229995
+  twelvemonth: 181073
+not_scored_words:
+- Tamworth
+- Thoth
+- Truth
+- tallith
+- teacloth
+- trochelminth
+- turpeth

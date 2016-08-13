@@ -1,0 +1,29 @@
+---
+pattern: _card
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 945303
+score_per_word: 78775
+hi_scored_words:
+  card: 980
+  discard: 15928
+  flashcard: 92600
+  phonecard: 69173
+  placard: 45094
+  postcard: 19043
+  scorecard: 24403
+  wildcard: 25420
+scored_words:
+  bankcard: 116051
+  keycard: 165028
+  scratchcard: 210611
+  timecard: 160972
+not_scored_words:
+- Card
+- Guiscard
+- MasterCard
+- Picard
+- Piccard
+- railcard
+- testcard

@@ -1,0 +1,45 @@
+---
+pattern: spec_s
+hi_scored_words_count: 20
+scored_words_count: 9
+total_words: 35
+score: 2058536
+score_per_word: 70984
+hi_scored_words:
+  specialists: 8619
+  specializations: 47110
+  specializes: 10870
+  specials: 5412
+  specialties: 18979
+  species: 1134
+  specifications: 9252
+  specifics: 11317
+  specifiers: 86331
+  specifies: 18515
+  specimens: 7304
+  specious: 48166
+  specks: 56901
+  specs: 8039
+  spectacles: 21797
+  spectators: 16609
+  spectrometers: 62482
+  speculates: 68439
+  speculations: 36487
+  speculators: 43553
+scored_words:
+  specialisms: 107849
+  specialness: 180018
+  speckles: 113378
+  spectaculars: 116990
+  specters: 151913
+  spectrograms: 157040
+  spectrographs: 242436
+  spectrophotometers: 163209
+  speculums: 238387
+not_scored_words:
+- speciations
+- speciousness
+- spectates
+- spectatress
+- spectrometries
+- spectroscopes

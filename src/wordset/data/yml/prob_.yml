@@ -1,0 +1,48 @@
+---
+pattern: prob_
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 38
+score: 1656170
+score_per_word: 61339
+hi_scored_words:
+  prob: 15401
+  probabilistic: 23345
+  probabilities: 14596
+  probability: 3846
+  probable: 5867
+  probables: 92895
+  probably: 623
+  probate: 20921
+  probation: 11854
+  probationary: 41160
+  probative: 66571
+  probe: 9199
+  probed: 37308
+  probes: 12672
+  probing: 18444
+  probity: 55625
+  problem: 587
+  problematic: 13677
+  problematical: 72941
+  problems: 1370
+  proboscis: 78306
+scored_words:
+  probabilistically: 162662
+  probated: 118007
+  probates: 266576
+  probationer: 103524
+  probationers: 101283
+  problematically: 306910
+not_scored_words:
+- probabilism
+- probabilisms
+- probabilist
+- probating
+- probational
+- probings
+- probosces
+- proboscidean
+- proboscideans
+- proboscises
+- probusiness

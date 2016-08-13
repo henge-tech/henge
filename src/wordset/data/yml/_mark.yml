@@ -1,0 +1,41 @@
+---
+pattern: _mark
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 31
+score: 798162
+score_per_word: 57011
+hi_scored_words:
+  benchmark: 13533
+  birthmark: 79680
+  bookmark: 7095
+  earmark: 70205
+  hallmark: 16969
+  landmark: 11537
+  mark: 518
+  postmark: 45379
+  remark: 5445
+  telemark: 46985
+  trademark: 2851
+  watermark: 24938
+scored_words:
+  demark: 226768
+  seamark: 246259
+not_scored_words:
+- Bismark
+- Denmark
+- Deutschmark
+- Hallmark
+- Mark
+- Reichsmark
+- Steiermark
+- countermark
+- deutschemark
+- fingermark
+- footmark
+- matchmark
+- ostmark
+- pockmark
+- pressmark
+- sitzmark
+- tidemark

@@ -1,0 +1,33 @@
+---
+pattern: form_s
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 23
+score: 1433048
+score_per_word: 95536
+hi_scored_words:
+  formalisms: 87112
+  formalities: 34087
+  formations: 15233
+  formats: 4004
+  formers: 61645
+  formless: 64355
+  forms: 904
+  formulas: 12146
+  formulates: 71567
+  formulations: 18835
+scored_words:
+  formalizations: 332546
+  formalizes: 151082
+  formals: 106336
+  formlessness: 284646
+  formulators: 188550
+not_scored_words:
+- Formicas
+- Formosans
+- formalins
+- formalists
+- formications
+- formidabilities
+- formidableness
+- formularizes

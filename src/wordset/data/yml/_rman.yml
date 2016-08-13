@@ -1,0 +1,55 @@
+---
+pattern: _rman
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 45
+score: 1143198
+score_per_word: 57159
+hi_scored_words:
+  airman: 35780
+  alderman: 22654
+  anchorman: 51050
+  barman: 42012
+  carman: 47680
+  chairman: 3509
+  doberman: 44701
+  doorman: 42011
+  fisherman: 11532
+  german: 866
+  merman: 67350
+  overman: 91754
+  repairman: 65749
+  spearman: 54724
+  superman: 9421
+  waterman: 28721
+  weatherman: 56637
+scored_words:
+  lumberman: 139891
+  motorman: 188081
+  newspaperman: 139075
+not_scored_words:
+- Akkerman
+- Burman
+- Doberman
+- German
+- Herman
+- Inkerman
+- Kerman
+- Kirman
+- Letterman
+- Lieberman
+- Norman
+- Omdurman
+- Sherman
+- Superman
+- Thurman
+- Zimmerman
+- counterman
+- ealdorman
+- floorman
+- lighterman
+- oysterman
+- radarman
+- remainderman
+- trencherman
+- washerman

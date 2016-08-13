@@ -1,0 +1,49 @@
+---
+pattern: r_ist
+hi_scored_words_count: 14
+scored_words_count: 14
+total_words: 39
+score: 3212228
+score_per_word: 114722
+hi_scored_words:
+  racist: 13028
+  radiologist: 45973
+  rapist: 31079
+  rationalist: 67972
+  realist: 27986
+  receptionist: 21039
+  reductionist: 87818
+  reformist: 45388
+  relist: 90824
+  reservist: 70485
+  resist: 5498
+  revisionist: 47062
+  rightist: 85561
+  royalist: 53884
+scored_words:
+  racialist: 228818
+  recidivist: 132862
+  recitalist: 251204
+  reconstructionist: 104066
+  recordist: 107589
+  reenlist: 207354
+  reflexologist: 250276
+  relativist: 123567
+  religionist: 211120
+  resurrectionist: 170405
+  revivalist: 101145
+  revolutionist: 132768
+  ritualist: 263395
+  romanticist: 234062
+not_scored_words:
+- Reconstructionist
+- Rehnquist
+- Romanist
+- radiotherapist
+- reunionist
+- revanchist
+- revelationist
+- rhapsodist
+- rhythmist
+- rigorist
+- roboticist

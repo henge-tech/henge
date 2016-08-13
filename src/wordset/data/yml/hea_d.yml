@@ -1,0 +1,37 @@
+---
+pattern: hea_d
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 27
+score: 1272323
+score_per_word: 57832
+hi_scored_words:
+  head: 286
+  headband: 30275
+  headboard: 35752
+  headed: 4230
+  headland: 39778
+  headlined: 55216
+  headquartered: 15593
+  headwind: 90556
+  healed: 17460
+  heaped: 35623
+  heard: 731
+  hearted: 15579
+  heartened: 83551
+  heartland: 18893
+  heartwood: 62954
+  heated: 6392
+  heathland: 83602
+  heaved: 58562
+scored_words:
+  headhunted: 240276
+  headword: 140565
+  hearkened: 119075
+  heavenward: 117374
+not_scored_words:
+- Head
+- headbutted
+- headstand
+- headward
+- heavyhearted

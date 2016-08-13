@@ -1,0 +1,54 @@
+---
+pattern: g_p
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 44
+score: 2408996
+score_per_word: 89222
+hi_scored_words:
+  gallop: 26455
+  gap: 5137
+  gasp: 17421
+  gimp: 20856
+  goop: 94780
+  gossip: 6375
+  governorship: 73437
+  grasp: 7197
+  grep: 32993
+  grip: 5341
+  group: 358
+  grownup: 77640
+  grump: 96903
+  guardianship: 27734
+  gulp: 35381
+  gunship: 75979
+  gyp: 75315
+scored_words:
+  galop: 144629
+  gamesmanship: 154116
+  gamp: 136392
+  generalship: 138647
+  getup: 150341
+  gingersnap: 274937
+  glop: 205854
+  gorp: 111070
+  grantsmanship: 246077
+  gumdrop: 167631
+not_scored_words:
+- GDP
+- GNP
+- GOP
+- GP
+- Gallup
+- Gap
+- Gaziantep
+- galliwasp
+- gawp
+- gazump
+- gelcap
+- genip
+- genipap
+- godship
+- goosestep
+- grogshop
+- gymslip

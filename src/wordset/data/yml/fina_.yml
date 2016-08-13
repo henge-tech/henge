@@ -1,0 +1,39 @@
+---
+pattern: fina_
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 29
+score: 849889
+score_per_word: 38631
+hi_scored_words:
+  final: 715
+  finale: 14901
+  finalist: 18673
+  finalists: 17840
+  finality: 45717
+  finalization: 79644
+  finalize: 29528
+  finalized: 20503
+  finalizing: 51122
+  finally: 943
+  finals: 9883
+  finance: 3254
+  financed: 19849
+  finances: 7710
+  financial: 1157
+  financially: 13426
+  financier: 30993
+  financiers: 42735
+  financing: 10233
+scored_words:
+  finagle: 191460
+  finales: 107859
+  finalizes: 131744
+not_scored_words:
+- finable
+- finagled
+- finagler
+- finaglers
+- finagles
+- finagling
+- finalism

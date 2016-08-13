@@ -1,0 +1,56 @@
+---
+pattern: g_ter
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 46
+score: 2471185
+score_per_word: 91525
+hi_scored_words:
+  gangster: 20727
+  garter: 24679
+  getter: 41543
+  ghostwriter: 98794
+  glitter: 11622
+  globetrotter: 83336
+  goiter: 60628
+  grafter: 75556
+  granddaughter: 20100
+  grandmaster: 40714
+  grater: 50993
+  greater: 824
+  greeter: 85336
+  groundwater: 14819
+  gunfighter: 81378
+  gunter: 32107
+  gutter: 17449
+scored_words:
+  gaiter: 112980
+  galvanometer: 116470
+  gamester: 135162
+  gater: 189821
+  geometer: 136627
+  goddaughter: 191615
+  goniometer: 156750
+  grifter: 131665
+  gritter: 289548
+  grunter: 249942
+not_scored_words:
+- Garter
+- Gauleiter
+- Gloucester
+- Goldwater
+- Greater
+- Gunter
+- galactometer
+- ganister
+- garroter
+- gasometer
+- gaunter
+- gaussmeter
+- glister
+- gloater
+- granter
+- gravimeter
+- gravitater
+- grouter
+- gypster

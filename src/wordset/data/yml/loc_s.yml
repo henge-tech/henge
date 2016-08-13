@@ -1,0 +1,40 @@
+---
+pattern: loc_s
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 30
+score: 1580819
+score_per_word: 75277
+hi_scored_words:
+  locales: 26922
+  localities: 11919
+  locals: 9351
+  locates: 31644
+  locations: 2545
+  locators: 58090
+  lockers: 31211
+  lockets: 74542
+  lockouts: 96825
+  locks: 6209
+  locksmiths: 57292
+  locomotives: 23771
+  locos: 51463
+  locus: 18000
+  locusts: 38173
+scored_words:
+  localizations: 112747
+  localizes: 120678
+  locknuts: 236110
+  lockups: 120985
+  locums: 187492
+  locutions: 264850
+not_scored_words:
+- Locris
+- localisms
+- locatives
+- locavores
+- lockages
+- lockboxes
+- locoisms
+- locoweeds
+- loculus

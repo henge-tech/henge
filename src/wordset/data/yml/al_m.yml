@@ -1,0 +1,35 @@
+---
+pattern: al_m
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 25
+score: 494878
+score_per_word: 44988
+hi_scored_words:
+  alarm: 2809
+  album: 4854
+  alcoholism: 16211
+  algorithm: 7709
+  allium: 58506
+  alluvium: 67565
+  altruism: 36784
+  alum: 22780
+  aluminum: 10968
+scored_words:
+  albinism: 103118
+  alyssum: 163574
+not_scored_words:
+- Aleichem
+- Alnilam
+- Alundum
+- alarmism
+- alburnum
+- algorism
+- alienism
+- aliform
+- allodium
+- allomerism
+- allomorphism
+- allonym
+- alloplasm
+- alodium

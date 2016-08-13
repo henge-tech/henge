@@ -1,0 +1,38 @@
+---
+pattern: land_s
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 28
+score: 1260250
+score_per_word: 70013
+hi_scored_words:
+  landfills: 36222
+  landforms: 56635
+  landholders: 71915
+  landings: 26331
+  landless: 49914
+  landlines: 78109
+  landlords: 15487
+  landmarks: 15861
+  landmass: 94328
+  landmines: 41476
+  landowners: 19636
+  lands: 2748
+  landscapers: 70583
+  landscapes: 9872
+  landslides: 40199
+scored_words:
+  landholdings: 145114
+  landlubbers: 264342
+  landmasses: 221478
+not_scored_words:
+- Landes
+- landaus
+- landfalls
+- landgraves
+- landladies
+- landownings
+- landscapists
+- landsides
+- landslips
+- landwards

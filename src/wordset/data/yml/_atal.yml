@@ -1,0 +1,23 @@
+---
+pattern: _atal
+hi_scored_words_count: 11
+scored_words_count: 0
+total_words: 13
+score: 519014
+score_per_word: 47183
+hi_scored_words:
+  antenatal: 45932
+  fatal: 4679
+  hiatal: 99475
+  natal: 13981
+  neonatal: 19378
+  nonfatal: 78934
+  palatal: 69343
+  perinatal: 32435
+  postnatal: 38613
+  prenatal: 18531
+  stomatal: 97713
+scored_words: {}
+not_scored_words:
+- Natal
+- ratal

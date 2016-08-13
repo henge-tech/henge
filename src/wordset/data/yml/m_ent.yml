@@ -1,0 +1,51 @@
+---
+pattern: m_ent
+hi_scored_words_count: 17
+scored_words_count: 13
+total_words: 41
+score: 2762915
+score_per_word: 92097
+hi_scored_words:
+  magnificent: 5285
+  malcontent: 72965
+  malevolent: 35783
+  maltreatment: 47910
+  management: 1082
+  measurement: 5681
+  merriment: 55072
+  micronutrient: 90454
+  misalignment: 65975
+  mismanagement: 39154
+  misrepresent: 54366
+  misstatement: 81600
+  mistreatment: 44358
+  moment: 931
+  monofilament: 82594
+  monument: 6721
+  movement: 1260
+scored_words:
+  maladjustment: 177100
+  maleficent: 113037
+  malnourishment: 226056
+  medicament: 192402
+  micromanagement: 143684
+  misgovernment: 105450
+  misjudgment: 190537
+  misplacement: 232954
+  misspent: 106865
+  monovalent: 109821
+  mordent: 181575
+  multivalent: 146190
+  munificent: 146053
+not_scored_words:
+- Menkent
+- Milicent
+- Millicent
+- magniloquent
+- marcescent
+- margent
+- mellifluent
+- microelement
+- misorient
+- mollescent
+- muniment

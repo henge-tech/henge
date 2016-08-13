@@ -1,0 +1,114 @@
+---
+pattern: slo_
+hi_scored_words_count: 30
+scored_words_count: 27
+total_words: 104
+score: 5126183
+score_per_word: 89933
+hi_scored_words:
+  slob: 53078
+  slog: 48224
+  slogan: 20643
+  slogans: 20937
+  sloop: 34447
+  slop: 46767
+  slope: 5473
+  sloped: 38192
+  slopes: 9737
+  sloping: 21847
+  sloppy: 22299
+  slot: 9419
+  sloth: 27252
+  slothful: 81343
+  slots: 5595
+  slotted: 30720
+  slotting: 94131
+  slouch: 44952
+  slouching: 90453
+  slough: 20524
+  slow: 1653
+  slowdown: 23294
+  slowdowns: 90200
+  slowed: 16812
+  slower: 8626
+  slowest: 38924
+  slowing: 21395
+  slowly: 2371
+  slowness: 44566
+  slows: 20076
+scored_words:
+  slobber: 108070
+  slobbering: 119792
+  slobs: 145000
+  sloe: 105178
+  sloganeering: 257654
+  slogged: 206488
+  slogging: 113354
+  sloops: 138432
+  slopped: 233727
+  sloppily: 145124
+  sloppiness: 124494
+  slopping: 199324
+  slops: 176338
+  slosh: 132081
+  sloshed: 147864
+  sloshing: 113322
+  sloths: 108785
+  slouched: 128240
+  slouches: 241942
+  slouchy: 182218
+  sloughed: 209040
+  sloughing: 140905
+  sloughs: 103509
+  sloven: 156049
+  slovenliness: 147780
+  slovenly: 108957
+  slowpoke: 138566
+not_scored_words:
+- Sloan
+- Sloane
+- Slocum
+- Slovak
+- Slovakia
+- Slovakian
+- Slovaks
+- Slovene
+- Slovenes
+- Slovenia
+- Slovenian
+- Slovenians
+- slobbed
+- slobbered
+- slobberer
+- slobbers
+- slobbery
+- slobbing
+- sloes
+- sloganeer
+- sloganeered
+- sloganeers
+- slogs
+- sloppier
+- sloppiest
+- slopwork
+- sloshes
+- sloshy
+- slothfully
+- slothfulness
+- slotter
+- sloucher
+- slouchers
+- slouchier
+- slouchiest
+- sloughier
+- sloughiest
+- sloughy
+- slovenlier
+- slovenliest
+- slovens
+- slowcoach
+- slowcoaches
+- slowish
+- slowpokes
+- slowworm
+- slowworms

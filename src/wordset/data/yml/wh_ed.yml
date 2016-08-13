@@ -1,0 +1,50 @@
+---
+pattern: wh_ed
+hi_scored_words_count: 14
+scored_words_count: 14
+total_words: 40
+score: 3402820
+score_per_word: 121529
+hi_scored_words:
+  whacked: 41118
+  wheedled: 93636
+  wheeled: 14642
+  whimpered: 85465
+  whined: 66518
+  whipped: 11971
+  whirled: 52998
+  whisked: 54337
+  whispered: 10212
+  whistled: 52808
+  whitewashed: 61772
+  whittled: 84990
+  wholehearted: 85496
+  whooped: 91175
+scored_words:
+  wheezed: 208052
+  whelmed: 180111
+  whelped: 244015
+  whetted: 121157
+  whiffed: 275676
+  whiled: 268303
+  whinnied: 171036
+  whirred: 251220
+  whiskered: 116950
+  whited: 104984
+  whitened: 104306
+  whizzed: 115858
+  whorled: 169403
+  whupped: 264611
+not_scored_words:
+- whaled
+- whammed
+- whapped
+- whelked
+- whickered
+- whinged
+- whipsawed
+- whished
+- wholesaled
+- whomped
+- whooshed
+- whopped

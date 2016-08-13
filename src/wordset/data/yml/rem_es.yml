@@ -1,0 +1,29 @@
+---
+pattern: rem_es
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 680037
+score_per_word: 56669
+hi_scored_words:
+  remakes: 50593
+  remedies: 7270
+  remembrances: 56947
+  reminiscences: 36595
+  remittances: 37974
+  remixes: 18380
+  remortgages: 21519
+  remotes: 40055
+  removes: 11522
+scored_words:
+  remarries: 124066
+  reminisces: 119847
+  remonstrances: 155269
+not_scored_words:
+- remarriages
+- rematches
+- remeasures
+- remigrates
+- remilitarizes
+- remonstrates
+- remunerates

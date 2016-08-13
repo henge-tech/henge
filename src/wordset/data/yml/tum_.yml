@@ -1,0 +1,53 @@
+---
+pattern: tum_
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 43
+score: 2282277
+score_per_word: 91291
+hi_scored_words:
+  tum: 27192
+  tumble: 12811
+  tumbled: 25530
+  tumbler: 26719
+  tumblers: 47445
+  tumbles: 72073
+  tumbleweed: 46098
+  tumbling: 24722
+  tummy: 17715
+  tumor: 12000
+  tumors: 19505
+  tums: 84417
+  tumult: 37395
+  tumultuous: 31596
+  tumultuously: 90625
+scored_words:
+  tumblebugs: 228170
+  tumbledown: 170921
+  tumbleweeds: 122884
+  tumescent: 128716
+  tumid: 114935
+  tummies: 122492
+  tumorous: 269973
+  tumuli: 252675
+  tumults: 150716
+  tumulus: 144952
+not_scored_words:
+- Tums
+- tumblebug
+- tumbrel
+- tumbrels
+- tumbril
+- tumbrils
+- tumefacient
+- tumefaction
+- tumefy
+- tumescence
+- tumescently
+- tumidity
+- tumidly
+- tumpline
+- tumular
+- tumultuousness
+- tumultuousnesses
+- tumuluses

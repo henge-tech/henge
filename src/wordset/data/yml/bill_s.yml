@@ -1,0 +1,25 @@
+---
+pattern: bill_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 697040
+score_per_word: 69704
+hi_scored_words:
+  billboards: 27966
+  billets: 46710
+  billiards: 17956
+  billings: 18709
+  billionaires: 45265
+  billions: 13612
+  billows: 77874
+  bills: 3112
+scored_words:
+  billies: 168227
+  billionths: 277609
+not_scored_words:
+- Billings
+- billfolds
+- billhooks
+- billposters
+- billycans

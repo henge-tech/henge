@@ -1,0 +1,29 @@
+---
+pattern: exc_d
+hi_scored_words_count: 14
+scored_words_count: 1
+total_words: 19
+score: 515512
+score_per_word: 34367
+hi_scored_words:
+  excavated: 27769
+  exceed: 4868
+  exceeded: 9485
+  excelled: 33903
+  excepted: 31144
+  excerpted: 44011
+  exchanged: 9177
+  excised: 49824
+  excited: 3025
+  exclaimed: 11737
+  excluded: 6217
+  excommunicated: 64659
+  excreted: 40454
+  excused: 15372
+scored_words:
+  excoriated: 163867
+not_scored_words:
+- excogitated
+- excruciated
+- exculpated
+- excurved

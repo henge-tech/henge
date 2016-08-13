@@ -1,0 +1,29 @@
+---
+pattern: sur_y
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 19
+score: 803314
+score_per_word: 61793
+hi_scored_words:
+  surely: 3345
+  surety: 25139
+  surgery: 5071
+  surgically: 38045
+  surly: 33180
+  surprisingly: 9534
+  surreptitiously: 52673
+  surrey: 8280
+  surrogacy: 76745
+  survey: 2152
+  survivability: 46504
+scored_words:
+  surpassingly: 172332
+  surreality: 330314
+not_scored_words:
+- Surrey
+- surficially
+- surgy
+- surlily
+- surrealistically
+- surreally

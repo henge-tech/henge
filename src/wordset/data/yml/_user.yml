@@ -1,0 +1,37 @@
+---
+pattern: _user
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 27
+score: 1453921
+score_per_word: 111840
+hi_scored_words:
+  abuser: 37028
+  accuser: 39357
+  diffuser: 41548
+  mouser: 50413
+  rouser: 66538
+  superuser: 76641
+  trouser: 32441
+  user: 1123
+scored_words:
+  causer: 134778
+  infuser: 126163
+  muser: 305180
+  nonuser: 336905
+  peruser: 205806
+not_scored_words:
+- Mauser
+- Rathauser
+- Tannhauser
+- Tannhäuser
+- carouser
+- confuser
+- douser
+- espouser
+- excuser
+- grouser
+- misuser
+- obtuser
+- transfuser
+- warehouser

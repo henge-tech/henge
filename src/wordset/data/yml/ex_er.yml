@@ -1,0 +1,46 @@
+---
+pattern: ex_er
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 36
+score: 2156674
+score_per_word: 98030
+hi_scored_words:
+  examiner: 13635
+  exchanger: 30340
+  exchequer: 31824
+  exciter: 76566
+  executioner: 31991
+  exerciser: 96483
+  expander: 45885
+  experimenter: 48809
+  explorer: 6595
+  exporter: 26641
+  extender: 30032
+  extinguisher: 37807
+  extruder: 76303
+scored_words:
+  executer: 216106
+  exhibitioner: 148595
+  expediter: 188593
+  expeller: 256294
+  explainer: 131651
+  exploder: 124388
+  exploiter: 104488
+  exposer: 276808
+  expounder: 156840
+not_scored_words:
+- Exchequer
+- Exeter
+- Explorer
+- exacter
+- excuser
+- exemplifier
+- exhorter
+- expender
+- expunger
+- extensometer
+- extoller
+- extorter
+- extortioner
+- extremer

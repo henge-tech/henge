@@ -1,0 +1,38 @@
+---
+pattern: was_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 28
+score: 1340977
+score_per_word: 103152
+hi_scored_words:
+  washers: 22355
+  washes: 24783
+  washings: 89233
+  washrooms: 82608
+  wasps: 28954
+  wastelands: 83356
+  wasters: 73882
+  wastes: 11451
+scored_words:
+  washbasins: 278693
+  washcloths: 104605
+  washouts: 229670
+  wastebaskets: 142731
+  wastefulness: 168656
+not_scored_words:
+- Washingtonians
+- washables
+- washboards
+- washbowls
+- washdays
+- washhouses
+- washiness
+- washrags
+- washstands
+- washtubs
+- waspishness
+- wassailers
+- wassails
+- wastings
+- wastrels

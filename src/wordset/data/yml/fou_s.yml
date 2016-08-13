@@ -1,0 +1,29 @@
+---
+pattern: fou_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 19
+score: 640922
+score_per_word: 58265
+hi_scored_words:
+  fouls: 28274
+  foundations: 5584
+  founders: 11740
+  foundries: 43005
+  founds: 72540
+  fountains: 21589
+  fours: 29576
+  foursomes: 79123
+  fourths: 41628
+scored_words:
+  foulness: 140324
+  founts: 167539
+not_scored_words:
+- foumarts
+- foundings
+- foundlings
+- fountainheads
+- fourpences
+- fourposters
+- fourteens
+- fourteenths

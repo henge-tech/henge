@@ -1,0 +1,78 @@
+---
+pattern: _mine
+hi_scored_words_count: 25
+scored_words_count: 17
+total_words: 68
+score: 4044480
+score_per_word: 96297
+hi_scored_words:
+  amine: 31732
+  amphetamine: 32846
+  antihistamine: 61562
+  bellarmine: 72377
+  bromine: 47810
+  carmine: 33933
+  determine: 1765
+  diamine: 91273
+  dopamine: 22710
+  ermine: 53281
+  examine: 3361
+  famine: 13194
+  glutamine: 32873
+  goldmine: 38189
+  histamine: 33945
+  jasmine: 13713
+  landmine: 51313
+  melamine: 51487
+  methamphetamine: 29949
+  mine: 1238
+  reexamine: 78358
+  scopolamine: 92441
+  thiamine: 55019
+  thymine: 90490
+  undermine: 14981
+scored_words:
+  calamine: 148462
+  chloramine: 151915
+  coalmine: 141136
+  dextroamphetamine: 129781
+  diphenylamine: 203983
+  hydroxylamine: 120277
+  hyoscyamine: 137455
+  illumine: 127043
+  imine: 219972
+  methenamine: 239613
+  methylamine: 163083
+  nitrosamine: 319412
+  predetermine: 190307
+  protamine: 124307
+  redetermine: 311831
+  rhodamine: 111052
+  spermine: 155011
+not_scored_words:
+- Carmine
+- Dramamine
+- Hermine
+- Jasmine
+- Jessamine
+- ammine
+- arsphenamine
+- auramine
+- calcimine
+- carbylamine
+- countermine
+- etamine
+- gamine
+- hexamethylenetetramine
+- indamine
+- iridosmine
+- kalsomine
+- neoarsphenamine
+- nitramine
+- overdetermine
+- phenylamine
+- preexamine
+- primine
+- prolamine
+- sycamine
+- thiosinamine

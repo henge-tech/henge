@@ -1,0 +1,45 @@
+---
+pattern: _iary
+hi_scored_words_count: 21
+scored_words_count: 4
+total_words: 35
+score: 1492264
+score_per_word: 59690
+hi_scored_words:
+  apiary: 92263
+  auxiliary: 9800
+  aviary: 48592
+  beneficiary: 16043
+  bestiary: 58015
+  biliary: 35735
+  ciliary: 63320
+  diary: 4777
+  domiciliary: 81598
+  evidentiary: 43692
+  fiduciary: 25543
+  friary: 85354
+  incendiary: 38832
+  intermediary: 21702
+  judiciary: 11711
+  pecuniary: 30064
+  penitentiary: 31207
+  plenipotentiary: 55401
+  subsidiary: 10051
+  tertiary: 15698
+  topiary: 48336
+scored_words:
+  breviary: 110990
+  justiciary: 259427
+  miliary: 149197
+  stipendiary: 144916
+not_scored_words:
+- Tertiary
+- laniary
+- milliary
+- officiary
+- ostiary
+- plagiary
+- residentiary
+- retiary
+- vespiary
+- vestiary

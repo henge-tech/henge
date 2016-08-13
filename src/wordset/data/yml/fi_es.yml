@@ -1,0 +1,75 @@
+---
+pattern: fi_es
+hi_scored_words_count: 20
+scored_words_count: 12
+total_words: 65
+score: 2905446
+score_per_word: 90795
+hi_scored_words:
+  fiddles: 70463
+  fifties: 30483
+  figures: 1674
+  figurines: 15301
+  filenames: 40125
+  files: 1161
+  fillies: 64252
+  finances: 7710
+  finches: 48083
+  fines: 11659
+  finishes: 11748
+  fireflies: 50837
+  fireplaces: 24073
+  fires: 5047
+  fisheries: 8884
+  fishes: 11397
+  fissures: 46369
+  fives: 36739
+  fixes: 8801
+  fixtures: 13537
+scored_words:
+  fiches: 223513
+  fiduciaries: 100381
+  fifes: 203799
+  filtrates: 226517
+  finales: 107859
+  finalizes: 131744
+  firehouses: 259112
+  firesides: 260580
+  fishwives: 282873
+  fixatives: 176591
+  fizzes: 288525
+  fizzles: 135609
+not_scored_words:
+- Fides
+- fiancees
+- fiances
+- fiancées
+- fiascoes
+- fibrillates
+- fibrinolyses
+- fictionalizes
+- fidgetinesses
+- fieldfares
+- fieldstones
+- filagrees
+- filariases
+- filatures
+- filches
+- filigrees
+- filses
+- finagles
+- finesses
+- finises
+- finitenesses
+- finitudes
+- fipples
+- firebases
+- fireboxes
+- firedrakes
+- firestones
+- fishcakes
+- fishplates
+- fitches
+- fittingnesses
+- fixates
+- fixednesses

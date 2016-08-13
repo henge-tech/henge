@@ -1,0 +1,37 @@
+---
+pattern: _dden
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 27
+score: 1393194
+score_per_word: 77399
+hi_scored_words:
+  bedridden: 72977
+  bidden: 86107
+  downtrodden: 59682
+  forbidden: 6015
+  gladden: 67921
+  hidden: 1953
+  madden: 15982
+  midden: 65391
+  overridden: 35844
+  redden: 60457
+  ridden: 14353
+  sodden: 82860
+  sudden: 3732
+  trodden: 41863
+  unbidden: 92443
+scored_words:
+  sadden: 122074
+  unhidden: 341317
+  untrodden: 222223
+not_scored_words:
+- Flodden
+- Madden
+- McFadden
+- bestridden
+- hodden
+- joyridden
+- outridden
+- retrodden
+- stridden

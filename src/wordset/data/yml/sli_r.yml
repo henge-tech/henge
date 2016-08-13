@@ -1,0 +1,27 @@
+---
+pattern: sli_r
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 831936
+score_per_word: 75630
+hi_scored_words:
+  slicer: 44515
+  slicker: 60612
+  slider: 22162
+  slimmer: 50479
+  slinger: 54356
+  slipper: 22660
+  slither: 58070
+  sliver: 39970
+scored_words:
+  slighter: 167823
+  slipcover: 104239
+  slitter: 207050
+not_scored_words:
+- slier
+- slimier
+- slinkier
+- slipover
+- slipperier
+- slippier

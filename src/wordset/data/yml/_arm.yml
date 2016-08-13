@@ -1,0 +1,38 @@
+---
+pattern: _arm
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 28
+score: 760019
+score_per_word: 42223
+hi_scored_words:
+  alarm: 2809
+  arm: 1610
+  barm: 52533
+  charm: 3811
+  disarm: 26469
+  farm: 1470
+  firearm: 22470
+  forearm: 24806
+  harm: 3347
+  lukewarm: 33675
+  nonfarm: 57389
+  swarm: 16701
+  underarm: 61281
+  warm: 1759
+  yardarm: 69477
+scored_words:
+  rearm: 112448
+  sidearm: 112511
+  tonearm: 155453
+not_scored_words:
+- Arm
+- aswarm
+- becharm
+- crossarm
+- overarm
+- prewarm
+- rewarm
+- schoolmarm
+- smarm
+- unarm

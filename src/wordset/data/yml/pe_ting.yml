@@ -1,0 +1,31 @@
+---
+pattern: pe_ting
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 21
+score: 1744395
+score_per_word: 109024
+hi_scored_words:
+  penetrating: 14803
+  perfecting: 35764
+  perforating: 91058
+  permitting: 11934
+  perpetrating: 99221
+  perpetuating: 44784
+  persecuting: 70089
+  persisting: 49531
+  petting: 34017
+scored_words:
+  pelleting: 319981
+  pelting: 107326
+  percolating: 106810
+  permeating: 102597
+  permuting: 254564
+  personating: 265844
+  perverting: 136072
+not_scored_words:
+- peculating
+- perambulating
+- peregrinating
+- perennating
+- perorating

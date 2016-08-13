@@ -1,0 +1,37 @@
+---
+pattern: rene_
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 27
+score: 1268727
+score_per_word: 74631
+hi_scored_words:
+  renegade: 18955
+  renegades: 51199
+  renegotiate: 66408
+  renegotiated: 86661
+  renegotiation: 65387
+  renew: 7071
+  renewable: 17925
+  renewal: 6296
+  renewals: 33439
+  renewed: 6526
+  renewing: 23993
+  renews: 45632
+scored_words:
+  renege: 133627
+  reneged: 107864
+  reneges: 310641
+  reneging: 157085
+  renegotiating: 130018
+not_scored_words:
+- Rene
+- Renee
+- renegaded
+- renegading
+- renegado
+- reneger
+- renegers
+- renegotiable
+- renegotiates
+- renewer

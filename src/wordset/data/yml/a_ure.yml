@@ -1,0 +1,33 @@
+---
+pattern: a_ure
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 23
+score: 1196654
+score_per_word: 70391
+hi_scored_words:
+  acupressure: 61899
+  acupuncture: 18210
+  admixture: 34042
+  adventure: 2153
+  agriculture: 3037
+  allure: 21665
+  aperture: 10907
+  aquaculture: 17594
+  architecture: 2570
+  armature: 40426
+  assure: 4356
+  azure: 19229
+scored_words:
+  abjure: 131684
+  adjure: 235067
+  apiculture: 196310
+  arboriculture: 114186
+  aviculture: 283319
+not_scored_words:
+- Accenture
+- Apure
+- admeasure
+- arcature
+- armure
+- attainture

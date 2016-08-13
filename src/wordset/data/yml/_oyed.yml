@@ -1,0 +1,29 @@
+---
+pattern: _oyed
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 19
+score: 1244703
+score_per_word: 73217
+hi_scored_words:
+  alloyed: 84213
+  annoyed: 10932
+  buoyed: 58212
+  deployed: 11690
+  destroyed: 3392
+  employed: 2407
+  enjoyed: 2829
+  overjoyed: 45394
+  redeployed: 97317
+  toyed: 66222
+  underemployed: 79564
+  unemployed: 11072
+scored_words:
+  convoyed: 130324
+  decoyed: 127873
+  joyed: 199852
+  reemployed: 210305
+  unalloyed: 103105
+not_scored_words:
+- Samoyed
+- cloyed

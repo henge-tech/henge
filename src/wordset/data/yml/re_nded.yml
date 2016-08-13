@@ -1,0 +1,22 @@
+---
+pattern: re_nded
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 12
+score: 298891
+score_per_word: 33210
+hi_scored_words:
+  rebounded: 52404
+  recommended: 2097
+  refunded: 24010
+  remanded: 33095
+  reminded: 6113
+  reprimanded: 52949
+  rescinded: 47609
+  resounded: 75842
+  responded: 4772
+scored_words: {}
+not_scored_words:
+- reascended
+- redounded
+- reprehended

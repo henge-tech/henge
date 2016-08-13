@@ -1,0 +1,21 @@
+---
+pattern: biom_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 430743
+score_per_word: 47860
+hi_scored_words:
+  biomass: 17821
+  biome: 62503
+  biomechanical: 56648
+  biomechanics: 40425
+  biomedical: 11011
+  biomedicine: 71341
+  biometric: 26349
+  biometrics: 32007
+scored_words:
+  biometry: 112638
+not_scored_words:
+- biomedicines
+- biomorph

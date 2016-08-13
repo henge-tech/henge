@@ -1,0 +1,46 @@
+---
+pattern: par_ing
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 36
+score: 1956143
+score_per_word: 78245
+hi_scored_words:
+  parachuting: 62478
+  parading: 63461
+  paragliding: 49716
+  paralleling: 73343
+  paralyzing: 74604
+  paraphrasing: 52975
+  parasailing: 82238
+  parenting: 5526
+  paring: 53895
+  parking: 5777
+  parsing: 24075
+  partaking: 64045
+  participating: 9009
+  parting: 15809
+  partitioning: 22441
+  partnering: 19046
+  partying: 24233
+scored_words:
+  paragraphing: 211136
+  parallelizing: 188402
+  parching: 134905
+  pardoning: 121884
+  parleying: 189314
+  parodying: 140370
+  parroting: 124146
+  parrying: 143315
+not_scored_words:
+- parascending
+- parboiling
+- parceling
+- parenthesizing
+- pargeting
+- pargetting
+- parlaying
+- paroling
+- parqueting
+- parring
+- particularizing

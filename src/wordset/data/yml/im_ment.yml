@@ -1,0 +1,25 @@
+---
+pattern: im_ment
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 712510
+score_per_word: 64773
+hi_scored_words:
+  impairment: 12306
+  impeachment: 18598
+  impediment: 27702
+  impingement: 74779
+  implement: 6442
+  impoundment: 61332
+  impoverishment: 64065
+  imprisonment: 8985
+  improvement: 2202
+scored_words:
+  impalement: 188319
+  impressment: 247780
+not_scored_words:
+- immurement
+- impanelment
+- imperilment
+- impugnment

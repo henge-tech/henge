@@ -1,0 +1,31 @@
+---
+pattern: exte_s
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 21
+score: 1223401
+score_per_word: 94107
+hi_scored_words:
+  extemporaneous: 89959
+  extenders: 53301
+  extends: 5890
+  extensions: 11335
+  extents: 54275
+  exteriors: 51986
+  externalities: 39136
+  externals: 65953
+  externs: 84249
+scored_words:
+  extensiveness: 253035
+  extensors: 181948
+  exterminates: 231517
+  exterminators: 100817
+not_scored_words:
+- extemporaneousness
+- extemporariness
+- extemporizes
+- extenuates
+- exteriorizes
+- exterminations
+- externalizations
+- externalizes

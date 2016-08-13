@@ -1,0 +1,27 @@
+---
+pattern: pol_ed
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 636154
+score_per_word: 63615
+hi_scored_words:
+  polarized: 24353
+  policed: 79236
+  polished: 6706
+  politicized: 61421
+  polled: 34887
+  pollinated: 70716
+  polluted: 22785
+  polyunsaturated: 59522
+scored_words:
+  poled: 172740
+  polymerized: 103788
+not_scored_words:
+- poleaxed
+- polemicized
+- politicked
+- polkaed
+- pollarded
+- polychromed
+- polygraphed

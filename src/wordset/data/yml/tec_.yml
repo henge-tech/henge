@@ -1,0 +1,53 @@
+---
+pattern: tec_
+hi_scored_words_count: 28
+scored_words_count: 9
+total_words: 43
+score: 2930349
+score_per_word: 79198
+hi_scored_words:
+  tech: 13056
+  techie: 39986
+  techies: 48321
+  technetium: 64142
+  technic: 44360
+  technical: 2133
+  technicalities: 50989
+  technicality: 53235
+  technically: 10169
+  technician: 10853
+  technicians: 9860
+  technicolor: 42054
+  technics: 28855
+  technique: 5527
+  techniques: 9330
+  techno: 8404
+  technocratic: 82795
+  technocrats: 91749
+  technological: 12934
+  technologically: 24648
+  technologies: 5123
+  technologist: 33515
+  technologists: 34115
+  technology: 5391
+  techs: 21136
+  techy: 76099
+  tectonic: 29722
+  tectonics: 40307
+scored_words:
+  technobabble: 107704
+  technocracy: 111049
+  technocrat: 141193
+  technophiles: 266694
+  technophobe: 267449
+  technophobes: 327066
+  technophobia: 278534
+  tectonically: 243425
+  tectrix: 288427
+not_scored_words:
+- Technicolor
+- Tecumseh
+- techier
+- techiest
+- technocracies
+- technophobic

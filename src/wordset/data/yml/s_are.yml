@@ -1,0 +1,27 @@
+---
+pattern: s_are
+hi_scored_words_count: 13
+scored_words_count: 0
+total_words: 17
+score: 249587
+score_per_word: 19199
+hi_scored_words:
+  scare: 9233
+  share: 590
+  shareware: 23633
+  silverware: 27196
+  skincare: 19508
+  snare: 16729
+  software: 997
+  spare: 3554
+  spyware: 8846
+  square: 1283
+  stare: 10095
+  stemware: 95820
+  stoneware: 32103
+scored_words: {}
+not_scored_words:
+- Shakespeare
+- Slackware
+- seaware
+- setsquare

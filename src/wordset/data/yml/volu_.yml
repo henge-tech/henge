@@ -1,0 +1,45 @@
+---
+pattern: volu_
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 35
+score: 1360420
+score_per_word: 64781
+hi_scored_words:
+  volume: 1075
+  volumes: 4255
+  volumetric: 32192
+  voluminous: 34554
+  voluntarily: 10639
+  voluntary: 4549
+  volunteer: 3373
+  volunteered: 16195
+  volunteering: 18328
+  volunteerism: 50707
+  volunteers: 2752
+  voluptuary: 96851
+  voluptuous: 33038
+scored_words:
+  volubility: 123601
+  voluble: 114124
+  volubly: 152644
+  voluntariness: 151241
+  voluntarism: 105005
+  voluptuousness: 106037
+  volute: 155780
+  volution: 143480
+not_scored_words:
+- volubleness
+- volumed
+- volumeter
+- voluminously
+- voluminousness
+- voluntaries
+- voluntarist
+- voluntaristic
+- voluntaryism
+- voluptuaries
+- voluptuously
+- voluted
+- volutes
+- volutions

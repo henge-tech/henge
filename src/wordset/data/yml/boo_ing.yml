@@ -1,0 +1,28 @@
+---
+pattern: boo_ing
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 18
+score: 932848
+score_per_word: 71757
+hi_scored_words:
+  booing: 75415
+  bookbinding: 70453
+  booking: 7833
+  bookkeeping: 30678
+  bookmarking: 48614
+  booming: 20283
+  boosting: 19694
+  booting: 25220
+  bootlegging: 96899
+  bootstrapping: 65087
+  boozing: 73459
+scored_words:
+  bookmaking: 102188
+  bootlicking: 297025
+not_scored_words:
+- boobing
+- boogieing
+- boohooing
+- boomeranging
+- boondoggling

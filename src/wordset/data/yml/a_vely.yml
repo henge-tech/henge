@@ -1,0 +1,37 @@
+---
+pattern: a_vely
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 27
+score: 2052518
+score_per_word: 120736
+hi_scored_words:
+  actively: 6339
+  administratively: 36552
+  affirmatively: 63355
+  aggressively: 19996
+  alternatively: 7212
+  attentively: 50169
+  attractively: 58808
+  authoritatively: 81043
+scored_words:
+  abusively: 196400
+  adaptively: 113274
+  additively: 185510
+  adhesively: 303167
+  affectively: 233462
+  appreciatively: 141054
+  apprehensively: 180078
+  assertively: 157529
+  attributively: 218570
+not_scored_words:
+- abortively
+- abrasively
+- acquisitively
+- adoptively
+- afflictively
+- alliteratively
+- allusively
+- amatively
+- argumentatively
+- associatively

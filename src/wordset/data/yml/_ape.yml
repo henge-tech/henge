@@ -1,0 +1,49 @@
+---
+pattern: _ape
+hi_scored_words_count: 21
+scored_words_count: 10
+total_words: 39
+score: 2333402
+score_per_word: 75271
+hi_scored_words:
+  agape: 39380
+  ape: 11870
+  audiotape: 68622
+  cape: 3366
+  cityscape: 44706
+  crape: 83140
+  drape: 40011
+  escape: 2188
+  gape: 54141
+  grape: 10281
+  landscape: 3134
+  nape: 50241
+  rape: 5889
+  reshape: 43200
+  scape: 42627
+  scrape: 20832
+  seascape: 51130
+  shape: 1760
+  soundscape: 72776
+  tape: 5029
+  videotape: 19857
+scored_words:
+  canape: 135268
+  cloudscape: 157875
+  jape: 148187
+  moonscape: 217997
+  sellotape: 122031
+  serape: 202850
+  shipshape: 100545
+  skyscape: 195936
+  townscape: 126455
+  waterscape: 252078
+not_scored_words:
+- Netscape
+- Ponape
+- SHAPE
+- broomrape
+- chape
+- misshape
+- undrape
+- vape

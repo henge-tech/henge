@@ -1,0 +1,23 @@
+---
+pattern: typi_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 842814
+score_per_word: 84281
+hi_scored_words:
+  typical: 3331
+  typically: 8345
+  typified: 57544
+  typifies: 90658
+  typify: 81879
+  typing: 10603
+  typist: 38910
+  typists: 66602
+scored_words:
+  typicality: 217433
+  typifying: 267509
+not_scored_words:
+- typicalness
+- typification
+- typifier

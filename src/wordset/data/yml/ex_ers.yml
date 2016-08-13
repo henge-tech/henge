@@ -1,0 +1,29 @@
+---
+pattern: ex_ers
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 1082594
+score_per_word: 90216
+hi_scored_words:
+  examiners: 21041
+  exchangers: 41537
+  executioners: 75614
+  experimenters: 70255
+  explorers: 17462
+  exporters: 12973
+  extenders: 53301
+  extinguishers: 39263
+scored_words:
+  exciters: 197665
+  exercisers: 127147
+  expediters: 325242
+  exploiters: 101094
+not_scored_words:
+- exchequers
+- exhibitioners
+- expenders
+- exploders
+- expounders
+- extollers
+- extortioners

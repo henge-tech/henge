@@ -1,0 +1,65 @@
+---
+pattern: fi_r
+hi_scored_words_count: 24
+scored_words_count: 8
+total_words: 55
+score: 2116897
+score_per_word: 66153
+hi_scored_words:
+  fiber: 7161
+  fiddler: 25631
+  fielder: 25997
+  fighter: 7775
+  filer: 47549
+  filibuster: 26618
+  filler: 17078
+  filmmaker: 17210
+  filter: 6462
+  financier: 30993
+  finder: 12742
+  finer: 13064
+  finger: 2816
+  finisher: 35057
+  fir: 13363
+  firecracker: 47829
+  firefighter: 18873
+  firepower: 32469
+  firmer: 37755
+  fisher: 7172
+  fishmonger: 95791
+  fitter: 31464
+  fiver: 52656
+  fixer: 36771
+scored_words:
+  fibber: 141161
+  fibular: 218674
+  fieldworker: 243715
+  fiercer: 101109
+  fifer: 132421
+  figurer: 283359
+  firer: 232685
+  firewater: 113477
+not_scored_words:
+- Fiedler
+- Finlander
+- Finnbogadottir
+- Fischer
+- Fisher
+- fibrovascular
+- fibster
+- fickler
+- fiddlier
+- fierier
+- filar
+- filcher
+- filibusterer
+- filleter
+- fillister
+- filmier
+- filterer
+- filthier
+- finagler
+- finickier
+- firelighter
+- fishier
+- fizzier

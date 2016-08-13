@@ -1,0 +1,55 @@
+---
+pattern: _rses
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 45
+score: 2408716
+score_per_word: 89211
+hi_scored_words:
+  courses: 2515
+  curses: 20017
+  discourses: 24660
+  disperses: 99526
+  endorses: 25354
+  horses: 2176
+  nurses: 5131
+  parses: 62647
+  purses: 19619
+  racecourses: 82715
+  racehorses: 91569
+  reverses: 31565
+  seahorses: 83926
+  traverses: 47132
+  universes: 33972
+  verses: 7653
+  watercourses: 58550
+scored_words:
+  concourses: 196628
+  converses: 145574
+  disburses: 214922
+  hearses: 188631
+  immerses: 116909
+  intersperses: 314845
+  inverses: 101876
+  rehearses: 143866
+  reimburses: 117058
+  workhorses: 169680
+not_scored_words:
+- Marses
+- asperses
+- carthorses
+- catharses
+- clotheshorses
+- cockhorses
+- cutpurses
+- hobbyhorses
+- katharses
+- multiverses
+- obverses
+- packhorses
+- sawhorses
+- studhorses
+- submerses
+- transverses
+- unhorses
+- warhorses

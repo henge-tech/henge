@@ -1,0 +1,33 @@
+---
+pattern: harp_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 23
+score: 1500454
+score_per_word: 100030
+hi_scored_words:
+  harp: 15188
+  harper: 7384
+  harpers: 46786
+  harping: 77061
+  harpist: 78691
+  harpoon: 42649
+  harps: 39392
+  harpsichord: 34461
+  harpy: 69376
+scored_words:
+  harped: 218829
+  harpies: 123649
+  harpists: 187708
+  harpoons: 142359
+  harpsichordist: 245354
+  harpsichords: 171567
+not_scored_words:
+- Harper
+- Harpies
+- Harpy
+- harpooned
+- harpooner
+- harpooners
+- harpooning
+- harpsichordists

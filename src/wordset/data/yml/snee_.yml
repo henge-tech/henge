@@ -1,0 +1,20 @@
+---
+pattern: snee_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 677983
+score_per_word: 75331
+hi_scored_words:
+  sneer: 41539
+  sneered: 66223
+  sneering: 73352
+  sneers: 99828
+  sneeze: 32816
+  sneezed: 88809
+  sneezes: 78197
+  sneezing: 39420
+scored_words:
+  sneeringly: 157799
+not_scored_words:
+- sneerings

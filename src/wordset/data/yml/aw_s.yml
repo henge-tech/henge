@@ -1,0 +1,27 @@
+---
+pattern: aw_s
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 1267940
+score_per_word: 90567
+hi_scored_words:
+  awaits: 17289
+  awakenings: 30659
+  awakens: 44150
+  awakes: 63342
+  awardees: 68869
+  awards: 5156
+  awareness: 11622
+  awesomeness: 60880
+  awkwardness: 45681
+  awnings: 45369
+scored_words:
+  awes: 262136
+  awfulness: 102108
+  awls: 214928
+  awns: 295751
+not_scored_words:
+- AWACS
+- aweless
+- awlworts

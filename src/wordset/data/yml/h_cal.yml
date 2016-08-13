@@ -1,0 +1,47 @@
+---
+pattern: h_cal
+hi_scored_words_count: 11
+scored_words_count: 10
+total_words: 37
+score: 2040601
+score_per_word: 97171
+hi_scored_words:
+  helical: 30843
+  hematological: 94428
+  hemispherical: 85298
+  heretical: 36584
+  hierarchical: 14360
+  histological: 36036
+  historical: 1690
+  hydrological: 38467
+  hypocritical: 25612
+  hypothetical: 11109
+  hysterical: 20223
+scored_words:
+  heliacal: 152640
+  hermeneutical: 111012
+  heroical: 199373
+  herpetological: 130730
+  historiographical: 120940
+  homological: 129518
+  horological: 164624
+  hydrodynamical: 212276
+  hyperbolical: 196300
+  hypercritical: 228538
+not_scored_words:
+- Hebraistical
+- hagiographical
+- heliocentrical
+- hermaphroditical
+- hermetical
+- heterocercal
+- hexametrical
+- hieroglyphical
+- histrionical
+- holographical
+- homocercal
+- hydrographical
+- hydrometrical
+- hydrostatical
+- hyperphysical
+- hypochondriacal

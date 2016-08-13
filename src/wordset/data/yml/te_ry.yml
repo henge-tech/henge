@@ -1,0 +1,25 @@
+---
+pattern: te_ry
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 15
+score: 703935
+score_per_word: 63994
+hi_scored_words:
+  teary: 59651
+  telemetry: 28730
+  temporary: 2779
+  tenantry: 96577
+  tercentenary: 76909
+  ternary: 47446
+  territory: 2324
+  terry: 5629
+  tertiary: 15698
+  testamentary: 72577
+scored_words:
+  teaberry: 295615
+not_scored_words:
+- Territory
+- Terry
+- Tertiary
+- textuary

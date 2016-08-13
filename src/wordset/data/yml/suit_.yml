@@ -1,0 +1,25 @@
+---
+pattern: suit_
+hi_scored_words_count: 13
+scored_words_count: 0
+total_words: 15
+score: 306216
+score_per_word: 23555
+hi_scored_words:
+  suit: 2173
+  suitability: 23157
+  suitable: 2671
+  suitably: 24126
+  suitcase: 21835
+  suitcases: 37480
+  suite: 2979
+  suited: 5883
+  suites: 9761
+  suiting: 71054
+  suitor: 50601
+  suitors: 49249
+  suits: 5247
+scored_words: {}
+not_scored_words:
+- suitabilities
+- suitableness

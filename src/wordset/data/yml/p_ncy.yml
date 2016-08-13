@@ -1,0 +1,38 @@
+---
+pattern: p_ncy
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 28
+score: 1930086
+score_per_word: 120630
+hi_scored_words:
+  patency: 84834
+  pendency: 99127
+  permanency: 53321
+  persistency: 88938
+  poignancy: 82701
+  potency: 20354
+  pregnancy: 6298
+  presidency: 10473
+  proficiency: 13279
+scored_words:
+  pertinency: 216374
+  piquancy: 250192
+  pliancy: 188694
+  poncy: 269102
+  precedency: 184599
+  precipitancy: 181830
+  pungency: 179970
+not_scored_words:
+- peccancy
+- petulancy
+- plangency
+- polyvalency
+- postulancy
+- predominancy
+- preoccupancy
+- prepotency
+- protuberancy
+- psychomancy
+- pudency
+- pyromancy

@@ -1,0 +1,39 @@
+---
+pattern: w_ps
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 29
+score: 1616795
+score_per_word: 80839
+hi_scored_words:
+  warps: 76996
+  warships: 33996
+  wasps: 28954
+  weeps: 37473
+  whips: 24549
+  whitecaps: 96580
+  whoops: 31829
+  wimps: 64586
+  wiretaps: 54038
+  wisps: 62925
+  woops: 86306
+  workshops: 6632
+  worktops: 80025
+  worships: 44329
+  wraps: 13967
+scored_words:
+  wallops: 103730
+  warmups: 122253
+  whelps: 238393
+  whups: 288412
+  wingtips: 120822
+not_scored_words:
+- watchstraps
+- weatherstrips
+- whaps
+- whomps
+- whops
+- wickiups
+- windups
+- wops
+- workups

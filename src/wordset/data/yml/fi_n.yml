@@ -1,0 +1,47 @@
+---
+pattern: fi_n
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 37
+score: 969441
+score_per_word: 51023
+hi_scored_words:
+  fibrillation: 32935
+  fibrin: 46240
+  fibrinogen: 50038
+  fiction: 2309
+  fifteen: 4399
+  figuration: 77323
+  filtration: 15874
+  fin: 7944
+  finalization: 79644
+  fireman: 23105
+  firemen: 28785
+  firstborn: 40850
+  fisherman: 11532
+  fishermen: 11727
+  fission: 24516
+  fixation: 24532
+scored_words:
+  filiation: 201760
+  firkin: 109930
+  firn: 175998
+not_scored_words:
+- Fichtean
+- Fijian
+- Fin
+- Finn
+- Finnegan
+- Finsen
+- Finsteraarhorn
+- fibrinolysin
+- fibroin
+- fictionalization
+- fieldsman
+- fieldsmen
+- filarian
+- fimbriation
+- finespun
+- fiorin
+- firescreen
+- firewarden

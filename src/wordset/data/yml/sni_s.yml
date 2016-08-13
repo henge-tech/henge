@@ -1,0 +1,28 @@
+---
+pattern: sni_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 18
+score: 787866
+score_per_word: 78786
+hi_scored_words:
+  snickers: 47663
+  sniffers: 92565
+  sniffles: 76321
+  sniffs: 66007
+  snipers: 39788
+  snipes: 49731
+  snippets: 23732
+  snips: 58535
+scored_words:
+  sniggers: 196005
+  snitches: 137519
+not_scored_words:
+- Snickers
+- snicks
+- snideness
+- snifters
+- snippiness
+- snits
+- snivelers
+- snivels

@@ -1,0 +1,51 @@
+---
+pattern: co_re
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 41
+score: 2532463
+score_per_word: 93794
+hi_scored_words:
+  coiffure: 93017
+  commodore: 12778
+  compadre: 94584
+  compare: 1709
+  compere: 85215
+  composure: 29520
+  concessionaire: 87249
+  configure: 12732
+  conjecture: 15027
+  conjure: 29652
+  conservatoire: 74517
+  conspire: 42788
+  contracture: 84306
+  cookware: 26327
+  core: 3199
+  counterculture: 61676
+  countermeasure: 75948
+  couture: 17976
+scored_words:
+  cocksure: 199831
+  cohere: 142560
+  commissionaire: 150229
+  commissure: 169370
+  confiture: 314116
+  confrere: 126822
+  conjuncture: 122424
+  conure: 124317
+  countersignature: 334574
+not_scored_words:
+- CORE
+- Coimbatore
+- Commodore
+- coinsure
+- colure
+- commeasure
+- commixture
+- compère
+- condottiere
+- confrère
+- conidiophore
+- contexture
+- counterpressure
+- coverture

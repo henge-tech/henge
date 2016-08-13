@@ -1,0 +1,27 @@
+---
+pattern: airs_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 1355885
+score_per_word: 96848
+hi_scored_words:
+  airs: 14765
+  airship: 35545
+  airships: 73837
+  airshow: 55587
+  airspace: 25351
+  airspeed: 55556
+  airstream: 68296
+  airstrike: 60420
+  airstrikes: 85364
+  airstrip: 45663
+scored_words:
+  airscrew: 246530
+  airshows: 134879
+  airspeeds: 314257
+  airstrips: 139835
+not_scored_words:
+- airscrews
+- airsick
+- airsickness

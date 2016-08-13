@@ -1,0 +1,28 @@
+---
+pattern: doc_s
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 18
+score: 1022478
+score_per_word: 68165
+hi_scored_words:
+  dockers: 39617
+  dockets: 70343
+  docklands: 37260
+  docks: 17902
+  docs: 8232
+  doctorates: 54780
+  doctors: 3204
+  doctrines: 13043
+  documentaries: 16173
+  documents: 2018
+scored_words:
+  docents: 129922
+  dockworkers: 251941
+  dockyards: 151162
+  doctrinaires: 123834
+  documentations: 103047
+not_scored_words:
+- dockages
+- dockhands
+- docudramas

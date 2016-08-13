@@ -1,0 +1,33 @@
+---
+pattern: mis_ion
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 23
+score: 1679693
+score_per_word: 93316
+hi_scored_words:
+  misappropriation: 55046
+  miscalculation: 79323
+  miscegenation: 97631
+  miscommunication: 68948
+  misconception: 27074
+  misdirection: 81615
+  misinformation: 26491
+  misinterpretation: 57183
+  misrepresentation: 28110
+  mission: 1195
+scored_words:
+  misallocation: 168856
+  misapplication: 108334
+  misapprehension: 106159
+  misconstruction: 157722
+  misidentification: 133056
+  misperception: 102463
+  mispronunciation: 199502
+  mistranslation: 180985
+not_scored_words:
+- misadministration
+- misimpression
+- misorientation
+- misprision
+- misquotation

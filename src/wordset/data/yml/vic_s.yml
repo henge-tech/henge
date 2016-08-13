@@ -1,0 +1,39 @@
+---
+pattern: vic_s
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 29
+score: 975255
+score_per_word: 69661
+hi_scored_words:
+  vicarious: 41802
+  vicars: 85102
+  vices: 21049
+  vicious: 10005
+  viciousness: 93317
+  vicissitudes: 53389
+  victims: 3257
+  victories: 11838
+  victorious: 15711
+  victors: 45003
+  victuals: 76689
+scored_words:
+  viceroys: 143287
+  vicinities: 242795
+  victimless: 132011
+not_scored_words:
+- Victorians
+- vicarages
+- vicariates
+- vicariousness
+- vicarships
+- vicegerents
+- vicereines
+- viceroyalties
+- viceroyships
+- vicissitudinous
+- victimizes
+- victoriousness
+- victualers
+- vicunas
+- vicuñas

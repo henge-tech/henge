@@ -1,0 +1,24 @@
+---
+pattern: inb_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 14
+score: 482122
+score_per_word: 53569
+hi_scored_words:
+  inboard: 48560
+  inborn: 45501
+  inbound: 17315
+  inbox: 8873
+  inboxes: 98213
+  inbred: 29461
+  inbreeding: 53840
+  inbuilt: 71396
+scored_words:
+  inboards: 108963
+not_scored_words:
+- inbeing
+- inbreathe
+- inbreed
+- inbreeder
+- inbreeds

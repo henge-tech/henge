@@ -1,0 +1,29 @@
+---
+pattern: e_ch
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 19
+score: 793372
+score_per_word: 72124
+hi_scored_words:
+  each: 135
+  eldritch: 62398
+  encroach: 55716
+  enrich: 16411
+  entrench: 85374
+  epoch: 13549
+  etch: 30949
+  eunuch: 47657
+  exch: 57466
+scored_words:
+  elasmobranch: 234245
+  exarch: 189472
+not_scored_words:
+- Ehrlich
+- Eisenach
+- Enoch
+- Erich
+- earreach
+- endarch
+- eparch
+- ethnarch

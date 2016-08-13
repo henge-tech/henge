@@ -1,0 +1,50 @@
+---
+pattern: _lish
+hi_scored_words_count: 22
+scored_words_count: 3
+total_words: 40
+score: 1406154
+score_per_word: 56246
+hi_scored_words:
+  abolish: 18806
+  accomplish: 5565
+  bullish: 36936
+  churlish: 94866
+  demolish: 33005
+  devilish: 41501
+  embellish: 49696
+  english: 272
+  establish: 2460
+  foolish: 8141
+  ghoulish: 72952
+  girlish: 56515
+  hellish: 40526
+  polish: 4442
+  publish: 4520
+  purplish: 52408
+  reestablish: 48228
+  relish: 18879
+  republish: 60295
+  smallish: 63379
+  stylish: 10716
+  ticklish: 35806
+scored_words:
+  disestablish: 144024
+  owlish: 182729
+  stablish: 319487
+not_scored_words:
+- English
+- Gaulish
+- Polish
+- Salish
+- Spanglish
+- coolish
+- disrelish
+- dollish
+- dullish
+- fullish
+- mulish
+- palish
+- preestablish
+- tallish
+- unstylish

@@ -1,0 +1,40 @@
+---
+pattern: sub_r
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 30
+score: 1066526
+score_per_word: 82040
+hi_scored_words:
+  subcellular: 48277
+  subchapter: 44026
+  subcontractor: 32310
+  subdivider: 89936
+  submariner: 61142
+  submitter: 24080
+  suborder: 56276
+  subpar: 74509
+  subscriber: 11057
+  subtler: 75888
+scored_words:
+  subfloor: 118198
+  sublimer: 212612
+  sublunar: 218215
+not_scored_words:
+- subadar
+- subauricular
+- subchaser
+- subcommander
+- subdirector
+- subduer
+- subeditor
+- subjoinder
+- subjugator
+- submember
+- submolecular
+- subofficer
+- suborner
+- subscapular
+- subsidizer
+- subsolar
+- subverter

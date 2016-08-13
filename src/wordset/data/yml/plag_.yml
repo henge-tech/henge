@@ -1,0 +1,30 @@
+---
+pattern: plag_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 873061
+score_per_word: 72755
+hi_scored_words:
+  plage: 55873
+  plagiarism: 22337
+  plagiarize: 86333
+  plagiarized: 80681
+  plagioclase: 60725
+  plague: 9391
+  plagued: 23348
+  plagues: 37009
+  plaguing: 74778
+scored_words:
+  plages: 184708
+  plagiarist: 102935
+  plagiarizing: 134943
+not_scored_words:
+- plagal
+- plagiarisms
+- plagiarists
+- plagiarizer
+- plagiarizers
+- plagiarizes
+- plagiary
+- plagioclases

@@ -1,0 +1,38 @@
+---
+pattern: s_fy
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 28
+score: 1246924
+score_per_word: 77932
+hi_scored_words:
+  sanctify: 51182
+  satisfy: 4376
+  scruffy: 50693
+  signify: 18862
+  simplify: 15276
+  solidify: 40694
+  specify: 8266
+  spiffy: 54654
+  stuffy: 31460
+  stupefy: 78321
+scored_words:
+  salsify: 187377
+  sniffy: 207271
+  snuffy: 115641
+  squiffy: 107958
+  stratify: 147036
+  stultify: 127857
+not_scored_words:
+- saccharify
+- salify
+- saponify
+- scarify
+- scorify
+- scurfy
+- silicify
+- solemnify
+- speechify
+- subclassify
+- subjectify
+- syllabify

@@ -1,0 +1,47 @@
+---
+pattern: epis_
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 37
+score: 1860774
+score_per_word: 93038
+hi_scored_words:
+  episcopal: 13017
+  episcopalian: 61370
+  episcopate: 98830
+  episode: 3412
+  episodes: 6512
+  episodic: 33901
+  epistemic: 47905
+  epistemological: 40361
+  epistemology: 29133
+  epistle: 23709
+  epistles: 39241
+  epistolary: 84012
+scored_words:
+  episcopacy: 110005
+  episiotomy: 108267
+  episodically: 270208
+  epistasis: 174572
+  epistaxis: 102630
+  epistemically: 228385
+  epistemologically: 242946
+  epistemologies: 142358
+not_scored_words:
+- Epis
+- Episcopal
+- Episcopalian
+- Episcopalians
+- Epistle
+- episcopalianism
+- episcopalism
+- episiotomies
+- epispastic
+- epistases
+- epistaxes
+- epistemologist
+- epistemologists
+- episternum
+- epistrophe
+- epistrophes
+- epistyle

@@ -1,0 +1,31 @@
+---
+pattern: b_am
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 21
+score: 398783
+score_per_word: 44309
+hi_scored_words:
+  balsam: 31463
+  bantam: 24259
+  beam: 4519
+  bedlam: 32084
+  bloodstream: 31257
+  bream: 41665
+  brougham: 51744
+  buckram: 97278
+  buttercream: 84514
+scored_words: {}
+not_scored_words:
+- Bairam
+- Balaam
+- Bantam
+- Beecham
+- Bentham
+- Bertram
+- Bingham
+- Birmingham
+- Brigham
+- Buckingham
+- barogram
+- beldam

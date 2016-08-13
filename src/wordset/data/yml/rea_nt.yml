@@ -1,0 +1,24 @@
+---
+pattern: rea_nt
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 14
+score: 1231300
+score_per_word: 94715
+hi_scored_words:
+  reactant: 66628
+  readjustment: 59224
+  reagent: 22956
+  realignment: 34215
+  reappointment: 70150
+  reapportionment: 98590
+  rearrangement: 44682
+  reassessment: 40831
+  reassignment: 43510
+scored_words:
+  reacquaint: 227457
+  reappoint: 174953
+  rearmament: 137912
+  reattachment: 210192
+not_scored_words:
+- reattainment

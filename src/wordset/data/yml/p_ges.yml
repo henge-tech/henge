@@ -1,0 +1,42 @@
+---
+pattern: p_ges
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 32
+score: 1521185
+score_per_word: 84510
+hi_scored_words:
+  packages: 5183
+  pages: 828
+  partridges: 97759
+  passages: 7830
+  percentages: 18698
+  personages: 47518
+  phages: 87583
+  pilgrimages: 53033
+  pledges: 18083
+  plunges: 47856
+  privileges: 6107
+  purges: 68736
+scored_words:
+  peerages: 201104
+  phalanges: 142891
+  plages: 184708
+  portages: 173782
+  presages: 189179
+  proteges: 170307
+not_scored_words:
+- parsonages
+- patrilineages
+- patronages
+- pharynges
+- photomontages
+- pillages
+- pilotages
+- pipages
+- pogges
+- porterages
+- potages
+- prearranges
+- prejudges
+- prepackages

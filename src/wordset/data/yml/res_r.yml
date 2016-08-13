@@ -1,0 +1,29 @@
+---
+pattern: res_r
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 19
+score: 976426
+score_per_word: 65095
+hi_scored_words:
+  rescuer: 60386
+  researcher: 11360
+  reseller: 14881
+  reservoir: 8901
+  resistor: 20087
+  resolver: 58250
+  resonator: 38963
+  respirator: 35447
+  responder: 26191
+  restaurateur: 66271
+  restorer: 51435
+scored_words:
+  resister: 125573
+  respecter: 101785
+  rester: 123781
+  resuscitator: 233115
+not_scored_words:
+- resider
+- responser
+- restfuller
+- restrainer

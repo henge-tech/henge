@@ -1,0 +1,51 @@
+---
+pattern: pre_ly
+hi_scored_words_count: 13
+scored_words_count: 15
+total_words: 41
+score: 3489468
+score_per_word: 124623
+hi_scored_words:
+  precariously: 79062
+  precipitously: 78659
+  precisely: 4823
+  predictably: 37787
+  predominantly: 17150
+  predominately: 45298
+  preferably: 13095
+  preferentially: 45933
+  prematurely: 23615
+  presently: 5440
+  presumably: 9293
+  prettily: 95818
+  previously: 2066
+scored_words:
+  preciously: 270362
+  precipitately: 157177
+  precociously: 290528
+  predicatively: 239387
+  preeminently: 208708
+  preemptively: 116845
+  preliminarily: 113592
+  prenatally: 153145
+  preoperatively: 112656
+  preposterously: 198902
+  presumptively: 112156
+  presumptuously: 240937
+  pretentiously: 293588
+  preternaturally: 214735
+  prevalently: 308711
+not_scored_words:
+- preapply
+- preclusively
+- predatorily
+- pregnantly
+- prehistorically
+- premenstrually
+- preponderantly
+- prepositionally
+- presciently
+- prescriptively
+- presentably
+- pressingly
+- prevailingly

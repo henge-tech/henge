@@ -1,0 +1,30 @@
+---
+pattern: pro_ve
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 20
+score: 862070
+score_per_word: 57471
+hi_scored_words:
+  proactive: 13206
+  probative: 66571
+  productive: 5832
+  progressive: 6542
+  prohibitive: 37831
+  projective: 33565
+  proliferative: 51051
+  prospective: 7057
+  protective: 6697
+  prove: 2137
+  provocative: 20110
+scored_words:
+  procreative: 115920
+  promotive: 278885
+  proprioceptive: 112110
+  propulsive: 104556
+not_scored_words:
+- profusive
+- progenitive
+- propagative
+- proscriptive
+- protrusive

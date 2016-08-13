@@ -1,0 +1,37 @@
+---
+pattern: reno_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 27
+score: 1630275
+score_per_word: 90570
+hi_scored_words:
+  renormalization: 61742
+  renounce: 28401
+  renounced: 43910
+  renounces: 86633
+  renouncing: 70268
+  renovate: 32934
+  renovated: 17633
+  renovating: 34898
+  renovation: 15287
+  renovations: 18474
+  renown: 25279
+  renowned: 7867
+scored_words:
+  renominated: 189770
+  renomination: 193533
+  renouncer: 228363
+  renovates: 290762
+  renovator: 148226
+  renovators: 136295
+not_scored_words:
+- Reno
+- Renoir
+- renominate
+- renominates
+- renominating
+- renotification
+- renotify
+- renounceable
+- renouncement

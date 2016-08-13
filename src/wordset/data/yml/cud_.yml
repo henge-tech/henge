@@ -1,0 +1,31 @@
+---
+pattern: cud_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 21
+score: 611839
+score_per_word: 67982
+hi_scored_words:
+  cud: 37034
+  cuddle: 32545
+  cuddled: 71023
+  cuddles: 52210
+  cuddling: 47029
+  cuddly: 26968
+  cuddy: 58520
+  cudgel: 81543
+scored_words:
+  cudgels: 204967
+not_scored_words:
+- cudbear
+- cudbears
+- cuddies
+- cuddlesome
+- cuddlier
+- cuddliest
+- cudgeled
+- cudgeling
+- cudgelings
+- cuds
+- cudweed
+- cudweeds

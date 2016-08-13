@@ -1,0 +1,35 @@
+---
+pattern: cont_ing
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 25
+score: 1229782
+score_per_word: 68321
+hi_scored_words:
+  contacting: 9499
+  containing: 1982
+  contaminating: 53768
+  contemplating: 19754
+  contending: 33909
+  contesting: 42504
+  continuing: 3137
+  contouring: 58960
+  contracting: 8284
+  contradicting: 43589
+  contrasting: 16499
+  contributing: 5796
+  controlling: 6077
+scored_words:
+  contenting: 242071
+  contextualizing: 177946
+  contorting: 241653
+  contravening: 115294
+  contriving: 149060
+not_scored_words:
+- containerizing
+- contemning
+- contemporizing
+- contradistinguishing
+- contraindicating
+- controverting
+- contusing

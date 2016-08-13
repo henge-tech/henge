@@ -1,0 +1,36 @@
+---
+pattern: f_ated
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 26
+score: 1294474
+score_per_word: 80904
+hi_scored_words:
+  fabricated: 19978
+  facilitated: 16790
+  fascinated: 23299
+  fated: 29106
+  federated: 26979
+  fixated: 59880
+  floated: 18799
+  fluctuated: 64589
+  formulated: 12720
+  fractionated: 77234
+  frustrated: 10623
+scored_words:
+  felicitated: 249997
+  flagellated: 281279
+  fluoridated: 110328
+  foliated: 151651
+  fumigated: 141222
+not_scored_words:
+- fecundated
+- fenestrated
+- fibrillated
+- filtrated
+- flocculated
+- floreated
+- floriated
+- foredated
+- fornicated
+- fulminated

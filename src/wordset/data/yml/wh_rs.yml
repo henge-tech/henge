@@ -1,0 +1,33 @@
+---
+pattern: wh_rs
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 23
+score: 1689642
+score_per_word: 120688
+hi_scored_words:
+  whalers: 54658
+  wheelchairs: 25896
+  wheelers: 44440
+  whiners: 84371
+  whiskers: 32720
+  whispers: 17204
+  wholesalers: 18930
+  whoppers: 91071
+scored_words:
+  whimpers: 123472
+  whingers: 280861
+  whippers: 271628
+  whippersnappers: 277380
+  whistlers: 176539
+  whiteners: 190472
+not_scored_words:
+- whackers
+- wheatears
+- wheedlers
+- whickers
+- whirs
+- whisperers
+- whittlers
+- whoopers
+- whoremasters

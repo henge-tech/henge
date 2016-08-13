@@ -1,0 +1,37 @@
+---
+pattern: spe_er
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 27
+score: 1340168
+score_per_word: 78833
+hi_scored_words:
+  speaker: 2540
+  specifier: 58338
+  specter: 28091
+  spectrometer: 26902
+  spectrophotometer: 72326
+  speeder: 73654
+  speedier: 93563
+  speedometer: 48600
+  speedster: 67873
+  speller: 62390
+  spencer: 10426
+  spender: 57595
+scored_words:
+  spectroradiometer: 125994
+  speechwriter: 107594
+  spellbinder: 157332
+  spellchecker: 118048
+  spelter: 228902
+not_scored_words:
+- Speer
+- Spencer
+- Spender
+- Spengler
+- Spenser
+- spearer
+- spearfisher
+- speechmaker
+- spelunker
+- spewer

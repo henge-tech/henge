@@ -1,0 +1,71 @@
+---
+pattern: _nne
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 61
+score: 1729788
+score_per_word: 115319
+hi_scored_words:
+  bonne: 28365
+  cayenne: 28123
+  cloisonne: 60895
+  comedienne: 81004
+  donne: 25856
+  julienne: 78025
+  penne: 44013
+  tonne: 25051
+scored_words:
+  benne: 144996
+  chaconne: 178678
+  doyenne: 220712
+  equestrienne: 230913
+  panne: 102976
+  tenne: 282773
+  tragedienne: 197408
+not_scored_words:
+- Adrienne
+- Anne
+- Argonne
+- Bayonne
+- Bienne
+- Carcassonne
+- Cayenne
+- Cezanne
+- Cheyenne
+- Corinne
+- Deanne
+- Dianne
+- Dionne
+- Donne
+- Dunne
+- Estienne
+- Garonne
+- Guienne
+- Guyenne
+- Jeanne
+- Joanne
+- Julianne
+- Lausanne
+- Lavonne
+- Leanne
+- Luanne
+- Lynne
+- Marianne
+- Maryanne
+- Mayenne
+- NNE
+- Narbonne
+- Prynne
+- Rosanne
+- Roseanne
+- Roxanne
+- Sorbonne
+- Susanne
+- Suzanne
+- Turenne
+- Tyrolienne
+- Vienne
+- Vivienne
+- Yonne
+- Yvonne
+- cretonne

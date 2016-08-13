@@ -1,0 +1,35 @@
+---
+pattern: arbi_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 25
+score: 1625664
+score_per_word: 101604
+hi_scored_words:
+  arbiter: 31289
+  arbiters: 94431
+  arbitrage: 35423
+  arbitral: 59084
+  arbitrarily: 22806
+  arbitrariness: 83294
+  arbitrary: 6416
+  arbitrate: 57942
+  arbitration: 9605
+  arbitrator: 24090
+  arbitrators: 44335
+scored_words:
+  arbitrageurs: 303921
+  arbitrament: 191749
+  arbitrated: 103593
+  arbitrates: 333648
+  arbitrating: 224038
+not_scored_words:
+- Arbitron
+- arbitraged
+- arbitrager
+- arbitragers
+- arbitrages
+- arbitrageur
+- arbitraging
+- arbitraments
+- arbitress

@@ -1,0 +1,85 @@
+---
+pattern: co_ness
+hi_scored_words_count: 11
+scored_words_count: 16
+total_words: 75
+score: 3383049
+score_per_word: 125298
+hi_scored_words:
+  cohesiveness: 71081
+  coldness: 44286
+  compactness: 61301
+  competitiveness: 12552
+  completeness: 13029
+  comprehensiveness: 69436
+  connectedness: 55704
+  consciousness: 4051
+  coolness: 27271
+  correctness: 14314
+  covetousness: 81285
+scored_words:
+  coarseness: 107569
+  cockiness: 187795
+  colorblindness: 285299
+  combativeness: 295554
+  comeliness: 143993
+  commonness: 214103
+  conciseness: 120761
+  concreteness: 129206
+  conscientiousness: 106460
+  contentiousness: 318078
+  copiousness: 158042
+  corruptness: 187018
+  costliness: 159546
+  courtliness: 127393
+  coyness: 199304
+  coziness: 188618
+not_scored_words:
+- cognateness
+- collectiveness
+- colorfastness
+- colorfulness
+- colorlessness
+- coltishness
+- comfortableness
+- comicalness
+- commodiousness
+- commonplaceness
+- communicativeness
+- companionableness
+- compendiousness
+- complexness
+- compositeness
+- compulsiveness
+- compulsoriness
+- concaveness
+- conceitedness
+- conciliatoriness
+- conclusiveness
+- conduciveness
+- confoundedness
+- confusedness
+- congenialness
+- congruousness
+- consecutiveness
+- conservativeness
+- considerateness
+- conspicuousness
+- constructiveness
+- contagiousness
+- contemporaneousness
+- contemptuousness
+- contentedness
+- conterminousness
+- contiguousness
+- continuousness
+- contrariness
+- contriteness
+- cooperativeness
+- coquettishness
+- corniness
+- corrosiveness
+- courageousness
+- courteousness
+- covertness
+- cowardliness

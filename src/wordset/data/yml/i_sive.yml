@@ -1,0 +1,35 @@
+---
+pattern: i_sive
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 25
+score: 715313
+score_per_word: 44707
+hi_scored_words:
+  illusive: 81133
+  immersive: 38237
+  immunosuppressive: 50834
+  impassive: 78897
+  impressive: 4752
+  impulsive: 26207
+  incisive: 37220
+  inclusive: 9204
+  inconclusive: 40915
+  indecisive: 61235
+  inexpensive: 12612
+  inoffensive: 60813
+  intensive: 9949
+  intrusive: 22265
+  invasive: 14031
+scored_words:
+  inexpressive: 167009
+not_scored_words:
+- implosive
+- inapprehensive
+- incomprehensive
+- incursive
+- inessive
+- infusive
+- ingressive
+- introversive
+- irresponsive

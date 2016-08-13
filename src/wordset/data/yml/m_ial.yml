@@ -1,0 +1,42 @@
+---
+pattern: m_ial
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 32
+score: 1133032
+score_per_word: 51501
+hi_scored_words:
+  magisterial: 61140
+  malarial: 73471
+  managerial: 22440
+  marsupial: 66084
+  martial: 5409
+  material: 740
+  matrimonial: 26762
+  medial: 22323
+  memorial: 3934
+  menial: 48111
+  mercurial: 42274
+  microbial: 16819
+  millennial: 43998
+  ministerial: 13124
+  mistrial: 72496
+  mitochondrial: 17417
+  multiracial: 52713
+  myocardial: 15860
+scored_words:
+  manorial: 121911
+  mesial: 119462
+  monomial: 115184
+  mycelial: 171360
+not_scored_words:
+- Martial
+- Musial
+- manurial
+- mediatorial
+- minatorial
+- misdial
+- monarchial
+- monasterial
+- monaxial
+- monitorial

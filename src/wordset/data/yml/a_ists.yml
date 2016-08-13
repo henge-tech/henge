@@ -1,0 +1,76 @@
+---
+pattern: a_ists
+hi_scored_words_count: 16
+scored_words_count: 17
+total_words: 66
+score: 3708662
+score_per_word: 112383
+hi_scored_words:
+  abolitionists: 53606
+  activists: 12211
+  agonists: 37181
+  alchemists: 60899
+  anarchists: 35899
+  anesthesiologists: 70359
+  antagonists: 22029
+  anthropologists: 36520
+  apologists: 53136
+  archaeologists: 36245
+  archeologists: 72698
+  archivists: 55008
+  artists: 2040
+  assists: 11371
+  atheists: 25706
+  audiologists: 95250
+scored_words:
+  abortionists: 121544
+  absolutists: 289258
+  accompanists: 192459
+  acupuncturists: 122670
+  agriculturalists: 166891
+  agriculturists: 131285
+  agronomists: 159883
+  alarmists: 227821
+  allergists: 175123
+  altruists: 274232
+  anatomists: 146420
+  anesthetists: 132216
+  animists: 300190
+  annalists: 148267
+  aromatherapists: 178107
+  arsonists: 110678
+  astrophysicists: 151460
+not_scored_words:
+- Adventists
+- Anabaptists
+- Antichrists
+- Arabists
+- abstractionists
+- absurdists
+- accompanyists
+- accordionists
+- adventurists
+- aerialists
+- ageists
+- algebraists
+- alienists
+- allegorists
+- alpinists
+- amoralists
+- amorists
+- anecdotists
+- anthologists
+- antiabortionists
+- antichrists
+- anticommunists
+- antifascists
+- antifeminists
+- antivivisectionists
+- aorists
+- aphorists
+- apiarists
+- apiculturists
+- arboriculturists
+- archaists
+- astrologists
+- atavists

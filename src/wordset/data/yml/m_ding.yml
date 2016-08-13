@@ -1,0 +1,30 @@
+---
+pattern: m_ding
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 20
+score: 1055912
+score_per_word: 75422
+hi_scored_words:
+  madding: 85926
+  marauding: 71967
+  masquerading: 44258
+  melding: 68613
+  mending: 41372
+  minding: 36715
+  misleading: 10944
+  misreading: 68231
+  misunderstanding: 14673
+  modding: 21734
+  molding: 21296
+scored_words:
+  masterminding: 141148
+  mounding: 240650
+  muzzleloading: 188385
+not_scored_words:
+- manifolding
+- marinading
+- misapprehending
+- misguiding
+- mispleading
+- misspending

@@ -1,0 +1,40 @@
+---
+pattern: pre_ons
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 30
+score: 1566272
+score_per_word: 82435
+hi_scored_words:
+  precautions: 9211
+  preconceptions: 57700
+  preconditions: 45224
+  predictions: 9131
+  premonitions: 88798
+  preoccupations: 72640
+  preparations: 6778
+  prepositions: 54295
+  prescriptions: 13672
+  presentations: 11875
+  presumptions: 69510
+  presuppositions: 64945
+  pretensions: 46951
+scored_words:
+  precipitations: 249869
+  precisions: 153263
+  predilections: 111358
+  predispositions: 119454
+  prepossessions: 132654
+  preventions: 248944
+not_scored_words:
+- precessions
+- precognitions
+- predations
+- predominations
+- prefigurations
+- prehensions
+- preordinations
+- preseasons
+- preteritions
+- prevarications
+- previsions

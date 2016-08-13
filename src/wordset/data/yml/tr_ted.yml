@@ -1,0 +1,35 @@
+---
+pattern: tr_ted
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 25
+score: 903714
+score_per_word: 60247
+hi_scored_words:
+  transacted: 43719
+  translated: 4488
+  transliterated: 63318
+  transmitted: 5597
+  transplanted: 30160
+  transported: 9347
+  treated: 1918
+  triangulated: 97169
+  trotted: 56305
+  trumpeted: 91923
+  truncated: 25724
+  trusted: 3593
+scored_words:
+  transected: 213646
+  transited: 151444
+  transmuted: 105363
+not_scored_words:
+- trabeated
+- transmigrated
+- triparted
+- triplicated
+- trisected
+- troated
+- troubleshooted
+- truanted
+- truehearted
+- trysted

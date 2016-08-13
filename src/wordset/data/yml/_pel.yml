@@ -1,0 +1,31 @@
+---
+pattern: _pel
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 21
+score: 832886
+score_per_word: 55525
+hi_scored_words:
+  appel: 32372
+  chapel: 4257
+  compel: 16568
+  dispel: 29736
+  estoppel: 47481
+  expel: 27739
+  gospel: 4016
+  impel: 74690
+  lapel: 29648
+  propel: 31731
+  rappel: 73613
+  repel: 27985
+  scalpel: 45410
+scored_words:
+  carpel: 106428
+  graupel: 281212
+not_scored_words:
+- Gospel
+- Koppel
+- Opel
+- Whitechapel
+- cupel
+- stipel

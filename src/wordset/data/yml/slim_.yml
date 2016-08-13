@@ -1,0 +1,28 @@
+---
+pattern: slim_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 817426
+score_per_word: 74311
+hi_scored_words:
+  slim: 5622
+  slime: 21881
+  slimline: 50269
+  slimmed: 97705
+  slimmer: 50479
+  slimming: 30318
+  slims: 70137
+  slimy: 32158
+scored_words:
+  slimes: 138152
+  slimmers: 186203
+  slimmest: 134502
+not_scored_words:
+- slimier
+- slimiest
+- sliminess
+- slimly
+- slimmish
+- slimness
+- slimsy

@@ -1,0 +1,30 @@
+---
+pattern: saw_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 20
+score: 1009995
+score_per_word: 67333
+hi_scored_words:
+  saw: 661
+  sawbuck: 80755
+  sawdust: 35300
+  sawed: 57798
+  sawfish: 90330
+  sawing: 34191
+  sawmill: 32666
+  sawmills: 55069
+  saws: 22632
+  sawtooth: 53092
+  sawyer: 15073
+  sawyers: 92016
+scored_words:
+  sawbones: 101288
+  sawfly: 129071
+  sawhorse: 210053
+not_scored_words:
+- Sawyer
+- sawbucks
+- sawer
+- sawflies
+- sawhorses

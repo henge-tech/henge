@@ -1,0 +1,55 @@
+---
+pattern: _book
+hi_scored_words_count: 23
+scored_words_count: 14
+total_words: 45
+score: 3665182
+score_per_word: 99058
+hi_scored_words:
+  book: 185
+  casebook: 53951
+  chapbook: 85072
+  checkbook: 34053
+  cookbook: 13296
+  guestbook: 52069
+  guidebook: 19272
+  handbook: 8457
+  logbook: 40689
+  matchbook: 63073
+  netbook: 74297
+  notebook: 7506
+  phrasebook: 83378
+  playbook: 42539
+  pocketbook: 39828
+  prebook: 97414
+  scrapbook: 18431
+  sketchbook: 37053
+  songbook: 28864
+  storybook: 36190
+  textbook: 12429
+  workbook: 28473
+  yearbook: 16962
+scored_words:
+  cashbook: 254243
+  copybook: 131358
+  coursebook: 205568
+  datebook: 107421
+  daybook: 103785
+  hornbook: 263587
+  hymnbook: 253280
+  passbook: 106839
+  prayerbook: 211098
+  rebook: 218217
+  schoolbook: 112567
+  studbook: 195533
+  subnotebook: 311013
+  wordbook: 297192
+not_scored_words:
+- Book
+- Facebook
+- bankbook
+- blankbook
+- nonbook
+- overbook
+- promptbook
+- psalmbook

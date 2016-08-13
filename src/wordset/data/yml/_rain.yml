@@ -1,0 +1,57 @@
+---
+pattern: _rain
+hi_scored_words_count: 17
+scored_words_count: 13
+total_words: 47
+score: 2743207
+score_per_word: 91440
+hi_scored_words:
+  brain: 1457
+  constrain: 29346
+  drain: 6734
+  drivetrain: 44960
+  forebrain: 72340
+  grain: 3871
+  midbrain: 70329
+  powertrain: 53526
+  quatrain: 95101
+  rain: 1620
+  refrain: 11324
+  restrain: 18448
+  retrain: 65514
+  sprain: 48172
+  strain: 4069
+  terrain: 11020
+  train: 1335
+scored_words:
+  birdbrain: 212556
+  detrain: 193890
+  entrain: 160601
+  eyestrain: 116361
+  grosgrain: 126721
+  hindbrain: 154541
+  ingrain: 182445
+  multigrain: 191305
+  murrain: 122013
+  scatterbrain: 158562
+  souterrain: 262735
+  suzerain: 164896
+  wholegrain: 157415
+not_scored_words:
+- Bahrain
+- Brain
+- Derain
+- Efrain
+- Pontchartrain
+- afterbrain
+- crackbrain
+- distrain
+- endbrain
+- engrain
+- featherbrain
+- interbrain
+- lamebrain
+- overstrain
+- overtrain
+- rattlebrain
+- vitrain

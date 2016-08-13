@@ -1,0 +1,24 @@
+---
+pattern: _hill
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 718110
+score_per_word: 65282
+hi_scored_words:
+  anthill: 59823
+  chill: 6634
+  downhill: 17317
+  foothill: 38605
+  hill: 906
+  shill: 53751
+  uphill: 23601
+  windchill: 37636
+scored_words:
+  dunghill: 197611
+  molehill: 101697
+  thill: 180529
+not_scored_words:
+- Churchill
+- Hill
+- prechill

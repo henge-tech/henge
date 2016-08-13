@@ -1,0 +1,44 @@
+---
+pattern: po_ns
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 34
+score: 1477846
+score_per_word: 77781
+hi_scored_words:
+  poisons: 26486
+  politicians: 5633
+  polygons: 29848
+  pons: 37016
+  pontifications: 67498
+  pontoons: 84333
+  populations: 7038
+  portions: 4141
+  positions: 2638
+  positrons: 97969
+  possessions: 10534
+  potions: 34439
+scored_words:
+  polarizations: 110673
+  pollens: 119013
+  pollutions: 172125
+  poons: 137192
+  porcelains: 142713
+  postilions: 210576
+  potations: 177981
+not_scored_words:
+- Polynesians
+- Pomeranians
+- Poppins
+- poltroons
+- polyhedrons
+- polymyxins
+- polysyndetons
+- polyzoans
+- popguns
+- popularizations
+- posterns
+- postillions
+- postseasons
+- postulations
+- poteens

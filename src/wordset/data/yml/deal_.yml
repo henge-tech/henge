@@ -1,0 +1,21 @@
+---
+pattern: deal_
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 11
+score: 83320
+score_per_word: 9257
+hi_scored_words:
+  deal: 653
+  dealer: 4422
+  dealers: 5144
+  dealership: 16190
+  dealerships: 26146
+  dealing: 2929
+  dealings: 19459
+  deals: 3104
+  dealt: 5273
+scored_words: {}
+not_scored_words:
+- dealate
+- dealfish

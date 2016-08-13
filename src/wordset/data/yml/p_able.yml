@@ -1,0 +1,75 @@
+---
+pattern: p_able
+hi_scored_words_count: 28
+scored_words_count: 21
+total_words: 65
+score: 5015228
+score_per_word: 102351
+hi_scored_words:
+  palatable: 34437
+  palpable: 27570
+  parable: 21057
+  passable: 40179
+  patentable: 71626
+  payable: 5953
+  peaceable: 44469
+  pensionable: 86930
+  perishable: 31897
+  permeable: 33826
+  personable: 50600
+  pitiable: 72221
+  playable: 21402
+  pleasurable: 23388
+  pliable: 44898
+  portable: 5874
+  potable: 36883
+  practicable: 13314
+  predictable: 14709
+  preferable: 13687
+  presentable: 47329
+  preventable: 30405
+  printable: 7042
+  probable: 5867
+  profitable: 6929
+  programmable: 20590
+  provable: 64688
+  punishable: 26669
+scored_words:
+  packable: 176997
+  pardonable: 192979
+  penetrable: 180822
+  perceivable: 122763
+  perdurable: 209497
+  placable: 149366
+  polarizable: 272811
+  ponderable: 130247
+  posable: 193776
+  pourable: 284961
+  precipitable: 164034
+  predicable: 222521
+  presumable: 244301
+  processable: 226201
+  procurable: 108013
+  promotable: 325130
+  pronounceable: 206766
+  proportionable: 153576
+  prosecutable: 277576
+  publishable: 108333
+  purchasable: 160119
+not_scored_words:
+- paraphrasable
+- patchable
+- peccable
+- performable
+- persuadable
+- perturbable
+- plantable
+- plowable
+- plumbable
+- polysyllable
+- postponable
+- pregnable
+- preservable
+- propagable
+- providable
+- pulverable

@@ -1,0 +1,55 @@
+---
+pattern: r_in
+hi_scored_words_count: 20
+scored_words_count: 3
+total_words: 45
+score: 1267981
+score_per_word: 55129
+hi_scored_words:
+  ragamuffin: 97178
+  rain: 1620
+  raisin: 30138
+  ravin: 86975
+  redskin: 82961
+  refrain: 11324
+  regain: 13090
+  rein: 23322
+  rejoin: 30987
+  remain: 1359
+  renin: 49680
+  resin: 12759
+  restrain: 18448
+  retain: 4655
+  retrain: 65514
+  riboflavin: 50108
+  robbin: 58901
+  robin: 3902
+  rosin: 57300
+  ruin: 6751
+scored_words:
+  ramekin: 170632
+  redfin: 253383
+  replevin: 136994
+not_scored_words:
+- Rabin
+- Rankin
+- Rasputin
+- Regin
+- Reuchlin
+- Ritalin
+- Robbin
+- Robin
+- Robitussin
+- Rodin
+- Rollin
+- Rubin
+- Rubinstein
+- Rumpelstiltskin
+- Ruskin
+- rabbin
+- rattlebrain
+- ravelin
+- reattain
+- recoin
+- reexplain
+- rennin

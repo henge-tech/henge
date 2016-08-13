@@ -1,0 +1,35 @@
+---
+pattern: adve_s
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 25
+score: 927885
+score_per_word: 66277
+hi_scored_words:
+  adventitious: 76156
+  adventurers: 26275
+  adventures: 3786
+  adventuress: 99393
+  adventurous: 14729
+  adverbs: 42957
+  adversaries: 27368
+  advertisements: 8316
+  advertisers: 7050
+  advertises: 44257
+  adverts: 16705
+scored_words:
+  adverbials: 216856
+  adversities: 122362
+  advertorials: 221675
+not_scored_words:
+- Adventists
+- Advents
+- advections
+- adventitias
+- advents
+- adventuresses
+- adventurisms
+- adventurists
+- adventurousness
+- adverseness
+- advertences

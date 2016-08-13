@@ -1,0 +1,27 @@
+---
+pattern: sa_ty
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 482078
+score_per_word: 53564
+hi_scored_words:
+  sacristy: 92129
+  safety: 909
+  sagacity: 55511
+  salinity: 21339
+  salty: 22946
+  sanctity: 24129
+  sanity: 15010
+  satiety: 84232
+scored_words:
+  salubrity: 165873
+not_scored_words:
+- sacrality
+- sacramentality
+- sacrosanctity
+- salability
+- salacity
+- saleability
+- sanguinity
+- sapidity

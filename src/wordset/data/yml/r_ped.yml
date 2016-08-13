@@ -1,0 +1,28 @@
+---
+pattern: r_ped
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 18
+score: 1455970
+score_per_word: 90998
+hi_scored_words:
+  ramped: 75590
+  raped: 14917
+  rapped: 55871
+  reaped: 51400
+  recouped: 97162
+  redeveloped: 64533
+  regrouped: 83282
+  reshaped: 66876
+  revamped: 30943
+  ripped: 11948
+  roped: 49225
+scored_words:
+  rasped: 152997
+  recapped: 197503
+  remapped: 146307
+  retyped: 212725
+  romped: 144691
+not_scored_words:
+- reequipped
+- reshipped

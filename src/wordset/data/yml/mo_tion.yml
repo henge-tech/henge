@@ -1,0 +1,25 @@
+---
+pattern: mo_tion
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 606735
+score_per_word: 50561
+hi_scored_words:
+  mobilization: 20844
+  moderation: 11967
+  modernization: 17771
+  modification: 4346
+  modulation: 18611
+  molestation: 40599
+  monetization: 82219
+  mortification: 51901
+  motion: 1418
+  motivation: 8710
+scored_words:
+  monopolization: 117942
+  motorization: 230407
+not_scored_words:
+- mollification
+- monition
+- moralization

@@ -1,0 +1,41 @@
+---
+pattern: ha_ss
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 31
+score: 1825424
+score_per_word: 101412
+hi_scored_words:
+  hairless: 30534
+  handedness: 61013
+  handsomeness: 82443
+  hapless: 31112
+  happiness: 3365
+  harass: 24473
+  hardiness: 56356
+  hardness: 15666
+  harmless: 8328
+  harness: 8450
+  harshness: 54052
+scored_words:
+  hairiness: 276414
+  handiness: 155185
+  handless: 136765
+  harmfulness: 237019
+  harmlessness: 227456
+  haughtiness: 134210
+  haziness: 282583
+not_scored_words:
+- habitualness
+- haggardness
+- haleness
+- halfheartedness
+- hammerless
+- haphazardness
+- haplessness
+- hardheadedness
+- hardheartedness
+- harmoniousness
+- hastiness
+- hatefulness
+- hawkishness

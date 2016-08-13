@@ -1,0 +1,62 @@
+---
+pattern: reca_
+hi_scored_words_count: 17
+scored_words_count: 19
+total_words: 52
+score: 4448303
+score_per_word: 123563
+hi_scored_words:
+  recalcitrant: 52209
+  recalculate: 63802
+  recalculated: 66325
+  recall: 3419
+  recalled: 8122
+  recalling: 21131
+  recalls: 10375
+  recant: 83675
+  recanted: 92162
+  recap: 17826
+  recapitulate: 91103
+  recapitulation: 68261
+  recaps: 46290
+  recapture: 31132
+  recaptured: 52905
+  recast: 42389
+  recasting: 91180
+scored_words:
+  recalcitrance: 236684
+  recalculates: 266097
+  recalculating: 186514
+  recalculation: 111166
+  recalculations: 295047
+  recalibrate: 130610
+  recalibrating: 301278
+  recalibration: 118347
+  recantation: 176121
+  recanting: 227269
+  recapitalization: 106685
+  recapitalize: 323705
+  recapitulated: 184294
+  recapitulates: 199757
+  recapped: 197503
+  recapping: 114452
+  recaptures: 141521
+  recapturing: 107769
+  recasts: 181178
+not_scored_words:
+- recalcitrancies
+- recalcitrancy
+- recalcitrantly
+- recalcitrate
+- recalesce
+- recalescence
+- recantations
+- recanter
+- recants
+- recapitalized
+- recapitalizes
+- recapitalizing
+- recapitulating
+- recapitulations
+- recapitulatory
+- recaption

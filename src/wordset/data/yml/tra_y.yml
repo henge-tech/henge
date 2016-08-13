@@ -1,0 +1,60 @@
+---
+pattern: tra_y
+hi_scored_words_count: 22
+scored_words_count: 12
+total_words: 50
+score: 3152356
+score_per_word: 92716
+hi_scored_words:
+  traceability: 49083
+  tracheostomy: 71055
+  tracheotomy: 87709
+  traditionally: 12895
+  traditionary: 77588
+  tragedy: 5322
+  tragically: 32618
+  trajectory: 17911
+  tramway: 40262
+  tranquility: 28815
+  tranquillity: 24788
+  transferability: 76027
+  transiently: 66442
+  transitivity: 83743
+  transitory: 32151
+  translucency: 90003
+  transparency: 10980
+  transparently: 49992
+  transversely: 64594
+  trashy: 26720
+  travesty: 41128
+  tray: 6618
+scored_words:
+  tracery: 120110
+  trackway: 120245
+  tractability: 171332
+  tragicomedy: 196602
+  tranquilly: 177532
+  transcendentally: 147300
+  transcriptionally: 149210
+  transiency: 149542
+  transitively: 181175
+  transmogrify: 239399
+  transportability: 227344
+  transsexuality: 276121
+not_scored_words:
+- Tracey
+- Tracy
+- tractably
+- tragicomically
+- traitorously
+- transcendency
+- transcendently
+- transitionally
+- transitionary
+- transitorily
+- translatability
+- translucently
+- transmigratory
+- transmutability
+- transmutably
+- traumatically

@@ -1,0 +1,22 @@
+---
+pattern: omi_
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 12
+score: 271377
+score_per_word: 30153
+hi_scored_words:
+  omicron: 47443
+  ominous: 25321
+  ominously: 68381
+  omission: 13756
+  omissions: 14473
+  omit: 15392
+  omits: 44616
+  omitted: 8588
+  omitting: 33407
+scored_words: {}
+not_scored_words:
+- omicrons
+- ominousness
+- omissible

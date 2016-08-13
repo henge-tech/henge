@@ -1,0 +1,25 @@
+---
+pattern: s_ller
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 607129
+score_per_word: 55193
+hi_scored_words:
+  schiller: 24774
+  seller: 5834
+  smaller: 1967
+  speller: 62390
+  spiller: 58087
+  steamroller: 61328
+  stiller: 39703
+  storyteller: 27313
+  stroller: 19785
+scored_words:
+  sheller: 130071
+  shriller: 175877
+not_scored_words:
+- Schiller
+- sculler
+- spitefuller
+- sweller

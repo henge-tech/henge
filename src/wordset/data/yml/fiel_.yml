@@ -1,0 +1,30 @@
+---
+pattern: fiel_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 993169
+score_per_word: 90288
+hi_scored_words:
+  field: 451
+  fielded: 36174
+  fielder: 25997
+  fielders: 98212
+  fielding: 16576
+  fields: 1480
+  fieldstone: 88786
+  fieldwork: 25510
+scored_words:
+  fieldfare: 227961
+  fieldworker: 243715
+  fieldworkers: 228307
+not_scored_words:
+- Field
+- Fielding
+- Fields
+- fieldfares
+- fieldings
+- fieldpiece
+- fieldsman
+- fieldsmen
+- fieldstones

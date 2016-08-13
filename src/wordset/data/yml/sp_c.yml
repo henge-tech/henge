@@ -1,0 +1,32 @@
+---
+pattern: sp_c
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 22
+score: 1246577
+score_per_word: 89041
+hi_scored_words:
+  spasmodic: 70008
+  spastic: 38241
+  spec: 9575
+  specific: 1187
+  spectroscopic: 32995
+  spic: 76473
+  splenic: 58735
+  sporadic: 22367
+scored_words:
+  spectrographic: 187942
+  spectrometric: 103917
+  spermatic: 140868
+  spiritualistic: 260300
+  splanchnic: 128729
+  splenetic: 115240
+not_scored_words:
+- spagyric
+- spathic
+- specialistic
+- spermic
+- sphenic
+- sphincteric
+- sphygmic
+- spondaic

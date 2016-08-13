@@ -1,0 +1,24 @@
+---
+pattern: arti_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 546003
+score_per_word: 54600
+hi_scored_words:
+  artichokes: 49380
+  articles: 982
+  articulates: 59470
+  articulations: 69894
+  artifacts: 10325
+  artisans: 22025
+  artistes: 36474
+  artists: 2040
+scored_words:
+  artificers: 148070
+  artifices: 147343
+not_scored_words:
+- articulateness
+- artificialness
+- artiness
+- artiodactyls

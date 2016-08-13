@@ -1,0 +1,28 @@
+---
+pattern: ea_t
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 18
+score: 662486
+score_per_word: 66248
+hi_scored_words:
+  earliest: 5485
+  earnest: 9816
+  earshot: 48598
+  easement: 28086
+  easiest: 9044
+  east: 520
+  easternmost: 71346
+  eat: 1291
+scored_words:
+  eaglet: 178346
+  earthlight: 309954
+not_scored_words:
+- Earhart
+- Earnest
+- Earnhardt
+- East
+- eagerest
+- earthiest
+- earthliest
+- earthnut

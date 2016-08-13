@@ -1,0 +1,34 @@
+---
+pattern: me_ts
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 24
+score: 981420
+score_per_word: 70101
+hi_scored_words:
+  measurements: 5857
+  meats: 13503
+  medalists: 76116
+  meets: 3740
+  megabits: 73087
+  megawatts: 49525
+  melts: 25645
+  mendicants: 94913
+  merchants: 4043
+  merits: 8268
+  meteorologists: 63648
+scored_words:
+  meerkats: 136648
+  mentalists: 215707
+  metallurgists: 210720
+not_scored_words:
+- Methodists
+- mediants
+- medievalists
+- melilots
+- meliorists
+- menservants
+- meritocrats
+- mesmerists
+- mesoblasts
+- mezzotints

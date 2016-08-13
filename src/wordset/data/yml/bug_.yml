@@ -1,0 +1,45 @@
+---
+pattern: bug_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 35
+score: 2044465
+score_per_word: 102223
+hi_scored_words:
+  bug: 4212
+  bugaboo: 54913
+  bugbear: 72093
+  bugged: 41850
+  bugger: 32313
+  buggers: 62885
+  buggies: 50199
+  bugging: 37358
+  buggy: 14068
+  bugle: 25427
+  bugler: 84092
+  bugles: 99668
+  bugs: 6591
+scored_words:
+  bugeye: 223987
+  buggered: 106616
+  buggering: 197718
+  buggery: 105095
+  bughouse: 222261
+  bugleweed: 280978
+  bugloss: 322141
+not_scored_words:
+- Bug
+- Bugatti
+- Bugzilla
+- bugaboos
+- bugbane
+- bugbanes
+- bugbears
+- buggeries
+- buggier
+- buggiest
+- bugled
+- buglers
+- bugleweeds
+- bugling
+- buglosses

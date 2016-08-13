@@ -1,0 +1,31 @@
+---
+pattern: a_ct
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 21
+score: 788051
+score_per_word: 46355
+hi_scored_words:
+  abduct: 61664
+  abject: 33402
+  abstract: 2517
+  acct: 29282
+  act: 327
+  addict: 14190
+  adduct: 86660
+  adjunct: 18003
+  affect: 2563
+  afflict: 51131
+  aqueduct: 33773
+  architect: 9178
+  artifact: 19818
+  aspect: 2775
+  attract: 5250
+scored_words:
+  aftereffect: 236580
+  autodidact: 180938
+not_scored_words:
+- ACT
+- abreact
+- apomict
+- astrict

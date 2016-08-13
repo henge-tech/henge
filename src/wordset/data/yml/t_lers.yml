@@ -1,0 +1,36 @@
+---
+pattern: t_lers
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 26
+score: 1426355
+score_per_word: 101882
+hi_scored_words:
+  tellers: 43598
+  thrillers: 20998
+  tillers: 78748
+  toddlers: 14489
+  trailers: 9773
+  travelers: 7612
+  trawlers: 62236
+  tumblers: 47445
+scored_words:
+  tacklers: 230712
+  ticklers: 125532
+  tilers: 186863
+  toilers: 164942
+  trollers: 209960
+  twirlers: 223447
+not_scored_words:
+- Twizzlers
+- tattlers
+- teetotalers
+- throttlers
+- tiddlers
+- tipplers
+- tramplers
+- triflers
+- trucklers
+- trundlers
+- tunnelers
+- twaddlers

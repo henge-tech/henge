@@ -1,0 +1,44 @@
+---
+pattern: p_nic
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 34
+score: 1919646
+score_per_word: 91411
+hi_scored_words:
+  panic: 5737
+  pathogenic: 27665
+  pentatonic: 80380
+  philharmonic: 18476
+  phonic: 58146
+  photogenic: 47672
+  photonic: 46958
+  picnic: 8456
+  planktonic: 60567
+  platonic: 29818
+  plutonic: 97992
+  polyphonic: 17406
+  polytechnic: 25721
+  pyrotechnic: 66290
+scored_words:
+  paraffinic: 307212
+  phrenic: 126604
+  pneumonic: 141922
+  polyclinic: 146555
+  psychogenic: 105276
+  pulmonic: 240075
+  pyrogenic: 260718
+not_scored_words:
+- Panasonic
+- Panhellenic
+- Pharaonic
+- Platonic
+- Punic
+- photoactinic
+- phylogenic
+- platinic
+- policlinic
+- pretonic
+- protonic
+- pyknic
+- pyromanic

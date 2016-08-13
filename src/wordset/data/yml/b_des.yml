@@ -1,0 +1,40 @@
+---
+pattern: b_des
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 30
+score: 1667516
+score_per_word: 98089
+hi_scored_words:
+  balustrades: 96080
+  barricades: 39472
+  beatitudes: 91069
+  besides: 2547
+  blades: 8342
+  blockades: 79295
+  blondes: 19399
+  bodes: 67422
+  brides: 16392
+  brigades: 26120
+  broadsides: 81724
+scored_words:
+  backsides: 136282
+  ballades: 225075
+  bestrides: 252331
+  bides: 235618
+  brocades: 166336
+  bromides: 124012
+not_scored_words:
+- Beatitudes
+- backslides
+- bactericides
+- bastinades
+- bedsides
+- betides
+- bichlorides
+- biodegrades
+- blendes
+- blepharitides
+- blindsides
+- bolides
+- burnsides

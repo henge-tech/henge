@@ -1,0 +1,41 @@
+---
+pattern: u_nted
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 31
+score: 2226022
+score_per_word: 96783
+hi_scored_words:
+  unaccounted: 51005
+  uncounted: 96999
+  undaunted: 44543
+  underrepresented: 44371
+  undocumented: 26791
+  unmounted: 72669
+  unpainted: 59197
+  unprecedented: 10691
+  unrepresented: 81573
+  unscented: 64221
+  untainted: 92210
+  unwanted: 11632
+  unwarranted: 35020
+scored_words:
+  unaccented: 150360
+  unacquainted: 103758
+  unfermented: 234570
+  unfrequented: 109448
+  unimplemented: 135179
+  unpatented: 238630
+  unprinted: 148746
+  untalented: 150605
+  untenanted: 152986
+  unwonted: 110818
+not_scored_words:
+- uncovenanted
+- unjointed
+- unlamented
+- unornamented
+- unplanted
+- unregimented
+- unrented
+- unsegmented

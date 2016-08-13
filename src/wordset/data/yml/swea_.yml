@@ -1,0 +1,40 @@
+---
+pattern: swea_
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 30
+score: 1510658
+score_per_word: 75532
+hi_scored_words:
+  swear: 6362
+  swearing: 27747
+  swears: 38623
+  sweat: 6669
+  sweated: 82796
+  sweater: 14248
+  sweaters: 13536
+  sweating: 19445
+  sweatpants: 49201
+  sweats: 31864
+  sweatshirt: 12879
+  sweatshirts: 18751
+  sweatshop: 48663
+  sweatshops: 67623
+  sweaty: 29427
+scored_words:
+  swearer: 286482
+  sweatband: 110344
+  sweatbands: 209988
+  sweatsuit: 169790
+  sweatsuits: 266220
+not_scored_words:
+- swearers
+- swearword
+- swearwords
+- sweatbox
+- sweatboxes
+- sweatier
+- sweatiest
+- sweatily
+- sweatiness
+- sweatings

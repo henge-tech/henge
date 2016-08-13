@@ -1,0 +1,28 @@
+---
+pattern: ch_ps
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 902190
+score_per_word: 82017
+hi_scored_words:
+  championships: 9876
+  champs: 14152
+  chaps: 19448
+  checkups: 74812
+  chimps: 50651
+  chips: 6360
+  chops: 18484
+  chumps: 95562
+scored_words:
+  chairmanships: 286718
+  chirps: 100758
+  chomps: 225369
+not_scored_words:
+- Cheops
+- chaplainships
+- cheeps
+- chieftainships
+- chinstraps
+- chirrups
+- chokedamps

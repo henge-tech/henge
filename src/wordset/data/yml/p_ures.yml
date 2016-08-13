@@ -1,0 +1,24 @@
+---
+pattern: p_ures
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 14
+score: 646539
+score_per_word: 58776
+hi_scored_words:
+  pastures: 26348
+  pedicures: 65092
+  pictures: 712
+  pleasures: 8973
+  postures: 41731
+  prefectures: 62881
+  pressures: 12368
+  procedures: 8416
+  procures: 80254
+  punctures: 70382
+scored_words:
+  prefigures: 269382
+not_scored_words:
+- perjures
+- photogravures
+- prelatures

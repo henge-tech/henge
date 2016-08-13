@@ -1,0 +1,85 @@
+---
+pattern: _gram
+hi_scored_words_count: 23
+scored_words_count: 13
+total_words: 75
+score: 3304374
+score_per_word: 91788
+hi_scored_words:
+  anagram: 38396
+  angiogram: 88677
+  cryptogram: 98957
+  diagram: 7503
+  electrocardiogram: 63394
+  engram: 93358
+  epigram: 85441
+  gram: 14400
+  hexagram: 99619
+  histogram: 25893
+  hologram: 30402
+  kilogram: 32018
+  mammogram: 62176
+  microgram: 80334
+  milligram: 51997
+  monogram: 21460
+  parallelogram: 64640
+  pentagram: 43440
+  program: 1103
+  reprogram: 78415
+  sonogram: 91475
+  subprogram: 74147
+  telegram: 14214
+scored_words:
+  cablegram: 174851
+  chromatogram: 109131
+  chronogram: 183102
+  electroencephalogram: 117539
+  ideogram: 188226
+  logogram: 211170
+  phonogram: 138429
+  pictogram: 144608
+  seismogram: 198213
+  spectrogram: 120733
+  stereogram: 199283
+  tangram: 132588
+  trigram: 125042
+not_scored_words:
+- Agram
+- Christogram
+- Ingram
+- Instagram
+- Seagram
+- Wagram
+- aerogram
+- barogram
+- cardiogram
+- cartogram
+- centigram
+- dactylogram
+- decagram
+- decigram
+- dekagram
+- deprogram
+- echogram
+- electrocorticogram
+- encephalogram
+- grogram
+- hectogram
+- hierogram
+- kissogram
+- microprogram
+- myriagram
+- nephogram
+- neurogram
+- oscillogram
+- photogram
+- phraseogram
+- pneumoencephalogram
+- preprogram
+- radiogram
+- radiotelegram
+- roentgenogram
+- sphenogram
+- syllabogram
+- tetragram
+- tomogram

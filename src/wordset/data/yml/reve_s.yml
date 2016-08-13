@@ -1,0 +1,34 @@
+---
+pattern: reve_s
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 24
+score: 1861273
+score_per_word: 103404
+hi_scored_words:
+  reveals: 6207
+  revelations: 16368
+  revelers: 97102
+  revels: 48998
+  revenues: 5078
+  reverberations: 93401
+  reveries: 87254
+  reversals: 48362
+  reverses: 31565
+  reverts: 52889
+scored_words:
+  revenges: 111365
+  reverberates: 139456
+  reverences: 172157
+  reverends: 222359
+  reveres: 184777
+  revers: 142369
+  reversions: 182994
+  revetments: 218572
+not_scored_words:
+- Revelations
+- revealings
+- revelings
+- revelries
+- revenuers
+- reversioners

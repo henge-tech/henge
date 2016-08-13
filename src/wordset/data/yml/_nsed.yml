@@ -1,0 +1,25 @@
+---
+pattern: _nsed
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 15
+score: 1307564
+score_per_word: 100581
+hi_scored_words:
+  cleansed: 36256
+  condensed: 11695
+  dispensed: 23023
+  incensed: 53586
+  licensed: 3244
+  rinsed: 44140
+  sensed: 23326
+  tensed: 70317
+  unlicensed: 33311
+scored_words:
+  censed: 291942
+  defensed: 242279
+  recompensed: 163043
+  summonsed: 311402
+not_scored_words:
+- consed
+- unrecompensed

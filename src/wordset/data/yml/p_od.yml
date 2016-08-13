@@ -1,0 +1,28 @@
+---
+pattern: p_od
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 507037
+score_per_word: 46094
+hi_scored_words:
+  parenthood: 20058
+  period: 493
+  pinewood: 47737
+  plod: 72322
+  plywood: 22497
+  pod: 12315
+  pood: 87750
+  priesthood: 18913
+  prod: 17761
+scored_words:
+  photoperiod: 101957
+  pulpwood: 105234
+not_scored_words:
+- Pernod
+- peasecod
+- pelecypod
+- photoflood
+- pleopod
+- pseudopod
+- pteropod

@@ -1,0 +1,61 @@
+---
+pattern: en_r
+hi_scored_words_count: 21
+scored_words_count: 7
+total_words: 51
+score: 2413506
+score_per_word: 86196
+hi_scored_words:
+  enabler: 46908
+  enchanter: 63187
+  encoder: 23124
+  encounter: 4842
+  encumber: 81379
+  endanger: 23675
+  endear: 83913
+  endeavor: 10867
+  energizer: 35217
+  enforcer: 39558
+  engender: 45845
+  engineer: 3243
+  engr: 45605
+  engraver: 46163
+  enhancer: 28326
+  enlarger: 69482
+  enquirer: 31483
+  enter: 677
+  entertainer: 24791
+  entrepreneur: 10415
+  enumerator: 86919
+scored_words:
+  enactor: 290321
+  encipher: 334481
+  encourager: 145811
+  endorser: 105874
+  endpaper: 150620
+  engager: 301680
+  enticer: 279100
+not_scored_words:
+- Englisher
+- Ensor
+- enameler
+- enamor
+- encroacher
+- encumbrancer
+- endorsor
+- endower
+- enervator
+- enjoinder
+- enjoiner
+- enjoyer
+- enlightener
+- ensepulcher
+- enslaver
+- ensnarer
+- ensurer
+- entangler
+- enterpriser
+- entrapper
+- enunciator
+- enveloper
+- envier

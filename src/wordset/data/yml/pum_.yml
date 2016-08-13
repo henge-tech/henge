@@ -1,0 +1,29 @@
+---
+pattern: pum_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 19
+score: 1365305
+score_per_word: 80312
+hi_scored_words:
+  puma: 19958
+  pumas: 67783
+  pumice: 48033
+  pummel: 81505
+  pump: 4572
+  pumped: 15668
+  pumper: 58162
+  pumping: 12843
+  pumpkin: 12585
+  pumpkins: 23599
+  pumps: 8312
+scored_words:
+  pummeled: 105077
+  pummeling: 136455
+  pummels: 278288
+  pumpernickel: 124173
+  pumpers: 134811
+  pumpkinseed: 233481
+not_scored_words:
+- pumices
+- pumpkinseeds

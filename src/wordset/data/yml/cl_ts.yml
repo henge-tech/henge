@@ -1,0 +1,29 @@
+---
+pattern: cl_ts
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1016195
+score_per_word: 78168
+hi_scored_words:
+  claimants: 23084
+  clarinets: 60620
+  cleats: 30577
+  clefts: 88144
+  clients: 3124
+  clits: 61467
+  closets: 27576
+  clots: 35213
+scored_words:
+  clairvoyants: 145536
+  clarets: 117787
+  classicists: 149516
+  climatologists: 163772
+  closeouts: 109779
+not_scored_words:
+- Clements
+- Clorets
+- clarinetists
+- clarinettists
+- cloudbursts
+- clouts

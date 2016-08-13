@@ -1,0 +1,21 @@
+---
+pattern: comp_te
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 11
+score: 152313
+score_per_word: 19039
+hi_scored_words:
+  compassionate: 14323
+  compensate: 11939
+  compete: 6651
+  complete: 511
+  complicate: 28481
+  composite: 8336
+  compote: 68012
+  compute: 14060
+scored_words: {}
+not_scored_words:
+- Composite
+- companionate
+- computerate

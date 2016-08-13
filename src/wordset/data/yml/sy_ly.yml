@@ -1,0 +1,31 @@
+---
+pattern: sy_ly
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 1241974
+score_per_word: 103497
+hi_scored_words:
+  symbolically: 46039
+  symmetrically: 63365
+  sympathetically: 58161
+  synchronously: 80237
+  synergistically: 91027
+  syntactically: 56535
+  systematically: 13868
+  systemically: 82091
+scored_words:
+  symbiotically: 302291
+  symptomatically: 207871
+  synonymously: 133247
+  synthetically: 107242
+not_scored_words:
+- sycophantically
+- syllabically
+- syllogistically
+- symmetricly
+- symphonically
+- synchronically
+- synecdochically
+- synodically
+- synoptically

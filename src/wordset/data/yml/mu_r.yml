@@ -1,0 +1,70 @@
+---
+pattern: mu_r
+hi_scored_words_count: 20
+scored_words_count: 14
+total_words: 60
+score: 3350120
+score_per_word: 98532
+hi_scored_words:
+  muenster: 77739
+  muffler: 29954
+  mugger: 52929
+  muller: 16686
+  multicellular: 61777
+  multicolor: 44890
+  multilayer: 44023
+  multimeter: 55628
+  multiplayer: 9519
+  multiplexer: 49318
+  multiplier: 28545
+  multiprocessor: 55543
+  multiyear: 87202
+  murder: 2485
+  murderer: 12636
+  murmur: 24388
+  muscular: 9601
+  musketeer: 68438
+  muster: 18700
+  mutter: 32168
+scored_words:
+  mucker: 134005
+  muckraker: 165440
+  mucor: 229314
+  muddler: 323066
+  muleteer: 137187
+  multivibrator: 234244
+  mummer: 124268
+  muncher: 108830
+  murkier: 208382
+  murther: 178954
+  muser: 305180
+  musher: 111083
+  mutineer: 153647
+  muzzleloader: 154351
+not_scored_words:
+- Mueller
+- Muenster
+- Muir
+- Mulciber
+- Mulder
+- Muller
+- Munster
+- muckier
+- muddier
+- mudskipper
+- mudslinger
+- muggier
+- muleskinner
+- multiangular
+- multinuclear
+- mumbler
+- munitioner
+- murmurer
+- mushier
+- muskier
+- mussier
+- mustier
+- muter
+- mutilator
+- mutterer
+- muzzier

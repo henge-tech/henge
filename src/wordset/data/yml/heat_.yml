@@ -1,0 +1,38 @@
+---
+pattern: heat_
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 28
+score: 1805572
+score_per_word: 85979
+hi_scored_words:
+  heat: 1297
+  heated: 6392
+  heater: 19438
+  heaters: 15356
+  heath: 8068
+  heathen: 20188
+  heathens: 58899
+  heather: 7056
+  heathers: 83422
+  heathland: 83602
+  heating: 5538
+  heats: 21441
+  heatwave: 43949
+scored_words:
+  heatedly: 181673
+  heathenish: 130664
+  heathenism: 161447
+  heaths: 111959
+  heathy: 213083
+  heatproof: 279259
+  heatstroke: 127243
+  heatwaves: 225598
+not_scored_words:
+- Heath
+- Heather
+- heathberry
+- heathendom
+- heathenize
+- heathenry
+- heathery

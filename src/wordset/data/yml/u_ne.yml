@@ -1,0 +1,33 @@
+---
+pattern: u_ne
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 23
+score: 872914
+score_per_word: 62351
+hi_scored_words:
+  ultramarine: 63997
+  ultramontane: 89461
+  undergone: 15825
+  underline: 16948
+  undermine: 14981
+  undertone: 58852
+  undone: 19972
+  urbane: 53738
+  urethane: 45887
+  urine: 10523
+  uterine: 25977
+scored_words:
+  underdone: 188659
+  undine: 116004
+  ursine: 152090
+not_scored_words:
+- Udine
+- Ukraine
+- Ursuline
+- ultramundane
+- unfeminine
+- unmasculine
+- unthrone
+- untune
+- untwine

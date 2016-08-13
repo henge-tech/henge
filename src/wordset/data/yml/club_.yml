@@ -1,0 +1,30 @@
+---
+pattern: club_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1079921
+score_per_word: 83070
+hi_scored_words:
+  club: 1081
+  clubbed: 80116
+  clubber: 95452
+  clubbers: 83388
+  clubbing: 22322
+  clubhouse: 18540
+  clubman: 94815
+  clubs: 3114
+scored_words:
+  clubby: 111893
+  clubfoot: 138818
+  clubhouses: 101119
+  clubland: 117678
+  clubroom: 211585
+not_scored_words:
+- clubbable
+- clubbier
+- clubbiest
+- clubfeet
+- clubfooted
+- clubhaul
+- clubwoman

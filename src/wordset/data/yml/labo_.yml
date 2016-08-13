@@ -1,0 +1,24 @@
+---
+pattern: labo_
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 14
+score: 264266
+score_per_word: 26426
+hi_scored_words:
+  labor: 1486
+  laboratories: 11338
+  laboratory: 3777
+  labored: 33066
+  laborer: 18268
+  laborers: 18643
+  laboring: 49088
+  laborious: 36133
+  laboriously: 66169
+  labors: 26298
+scored_words: {}
+not_scored_words:
+- Laborite
+- Laborites
+- laboriousness
+- laborsaving

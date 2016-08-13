@@ -1,0 +1,40 @@
+---
+pattern: flow_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 30
+score: 1009034
+score_per_word: 59354
+hi_scored_words:
+  flow: 1652
+  flowchart: 41323
+  flowcharts: 75316
+  flowed: 15125
+  flower: 1963
+  flowered: 35954
+  flowering: 12359
+  flowerpot: 97016
+  flowers: 1085
+  flowery: 27899
+  flowing: 6619
+  flown: 12507
+  flows: 4593
+scored_words:
+  flowage: 165484
+  flowerbed: 192030
+  flowerbeds: 144645
+  flowerpots: 173464
+not_scored_words:
+- Flowers
+- flowages
+- flowerage
+- flowerer
+- floweret
+- flowerier
+- floweriest
+- flowerily
+- floweriness
+- flowerings
+- flowerless
+- flowerlike
+- flowingly

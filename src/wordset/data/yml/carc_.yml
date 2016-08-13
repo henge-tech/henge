@@ -1,0 +1,27 @@
+---
+pattern: carc_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 17
+score: 831674
+score_per_word: 75606
+hi_scored_words:
+  carcass: 21864
+  carcasses: 37669
+  carcinogen: 46077
+  carcinogenesis: 45443
+  carcinogenic: 37645
+  carcinogenicity: 60339
+  carcinogens: 40128
+  carcinoma: 15229
+  carcinomas: 40472
+scored_words:
+  carcanet: 193457
+  carcinomatosis: 293351
+not_scored_words:
+- Carcassonne
+- Carchemish
+- carcajou
+- carcajous
+- carcinogenics
+- carcinomatous

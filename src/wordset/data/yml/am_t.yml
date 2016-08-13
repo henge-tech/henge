@@ -1,0 +1,35 @@
+---
+pattern: am_t
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 25
+score: 756577
+score_per_word: 54041
+hi_scored_words:
+  amazement: 21310
+  ambient: 18107
+  ambit: 54374
+  ambivalent: 37192
+  amendment: 5632
+  amethyst: 21593
+  amidst: 12942
+  amount: 680
+  amt: 25606
+  amulet: 27075
+  amusement: 7557
+scored_words:
+  ambulant: 185477
+  ament: 110964
+  amplest: 228068
+not_scored_words:
+- Americanist
+- Amersfoort
+- Amherst
+- amadavat
+- amassment
+- ambivert
+- amercement
+- aminoplast
+- amoralist
+- amorist
+- amortizement

@@ -1,0 +1,31 @@
+---
+pattern: f_hes
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 21
+score: 950402
+score_per_word: 79200
+hi_scored_words:
+  fetches: 51839
+  fetishes: 34876
+  finches: 48083
+  finishes: 11748
+  fishes: 11397
+  flashes: 13751
+  flourishes: 44746
+  flushes: 49307
+  furnishes: 38675
+scored_words:
+  fiches: 223513
+  fleshes: 203145
+  flinches: 219322
+not_scored_words:
+- Frenches
+- famishes
+- filches
+- fitches
+- flatfishes
+- flitches
+- frogmarches
+- frontbenches
+- furbishes

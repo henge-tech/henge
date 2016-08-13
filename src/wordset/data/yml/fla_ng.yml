@@ -1,0 +1,31 @@
+---
+pattern: fla_ng
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 21
+score: 923056
+score_per_word: 65932
+hi_scored_words:
+  flagging: 41659
+  flailing: 61053
+  flaking: 68252
+  flaming: 12404
+  flanking: 35984
+  flapping: 32567
+  flaring: 47088
+  flashing: 4964
+  flattening: 48369
+  flattering: 20851
+  flaunting: 74818
+  flavoring: 48524
+scored_words:
+  flatting: 210242
+  flaying: 216281
+not_scored_words:
+- flabbergasting
+- flagellating
+- flambeing
+- flameproofing
+- flanneling
+- flatling
+- flawing

@@ -1,0 +1,27 @@
+---
+pattern: poun_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 707705
+score_per_word: 64336
+hi_scored_words:
+  pounce: 40654
+  pounced: 70767
+  pound: 3371
+  pounded: 21429
+  pounder: 40133
+  pounders: 84127
+  pounding: 15568
+  pounds: 2207
+scored_words:
+  pounces: 159525
+  pouncing: 125965
+  poundage: 143959
+not_scored_words:
+- Pound
+- pouncer
+- poundal
+- poundals
+- poundcake
+- poundings

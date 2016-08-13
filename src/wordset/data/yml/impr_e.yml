@@ -1,0 +1,28 @@
+---
+pattern: impr_e
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 18
+score: 848876
+score_per_word: 70739
+hi_scored_words:
+  impracticable: 38737
+  imprecise: 45824
+  impregnable: 75530
+  impregnate: 82287
+  impressionable: 59450
+  impressive: 4752
+  improbable: 20813
+  improve: 1966
+  improvise: 41304
+scored_words:
+  impressible: 226764
+  improvidence: 118852
+  imprudence: 132597
+not_scored_words:
+- imprecate
+- impressure
+- imprisonable
+- impropriate
+- improvable
+- improvvisatore

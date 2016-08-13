@@ -1,0 +1,30 @@
+---
+pattern: boat_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 20
+score: 1474825
+score_per_word: 98321
+hi_scored_words:
+  boat: 1313
+  boater: 65629
+  boaters: 43290
+  boathouse: 44545
+  boating: 13892
+  boatload: 93041
+  boatman: 55158
+  boatmen: 86078
+  boats: 2967
+  boatswain: 61875
+  boatyard: 87799
+scored_words:
+  boated: 215293
+  boathouses: 287711
+  boatloads: 176684
+  boatyards: 239550
+not_scored_words:
+- boatbill
+- boatbills
+- boatel
+- boatsman
+- boatswains

@@ -1,0 +1,29 @@
+---
+pattern: gla_e
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1098333
+score_per_word: 84487
+hi_scored_words:
+  glace: 47803
+  glade: 21030
+  gladstone: 24198
+  glance: 3123
+  glare: 13578
+  glasshouse: 58504
+  glassware: 21077
+  glaze: 21636
+scored_words:
+  gladsome: 133998
+  glaive: 151175
+  glamorize: 247680
+  glassine: 164325
+  glauconite: 190206
+not_scored_words:
+- Gladstone
+- Glauce
+- glabrate
+- glaciate
+- gladiate
+- glandule

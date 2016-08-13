@@ -1,0 +1,50 @@
+---
+pattern: pi_r
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 40
+score: 1414430
+score_per_word: 83201
+hi_scored_words:
+  picador: 87940
+  picker: 24573
+  pier: 9385
+  pillar: 10835
+  pilsner: 68714
+  pincher: 79835
+  pinker: 66421
+  pioneer: 5634
+  piper: 12955
+  pitcher: 10230
+scored_words:
+  piercer: 112874
+  piker: 107633
+  pilaster: 193921
+  pilfer: 145122
+  pillager: 243487
+  pincer: 115850
+  pisser: 119021
+not_scored_words:
+- Pictor
+- Pilsner
+- Pindar
+- Pinkster
+- Pinter
+- piacular
+- piaster
+- picketer
+- pickier
+- picnicker
+- pieceworker
+- piggier
+- pilferer
+- pimplier
+- pinfeather
+- pinier
+- pinsetter
+- pinspotter
+- piscator
+- pissoir
+- pistoleer
+- pitchier
+- pithier

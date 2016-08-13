@@ -1,0 +1,37 @@
+---
+pattern: we_es
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 27
+score: 1357035
+score_per_word: 84814
+hi_scored_words:
+  weaknesses: 8781
+  weaves: 35938
+  websites: 2531
+  wedges: 26850
+  weeklies: 61824
+  welcomes: 14403
+  wellies: 74564
+  wenches: 98491
+  werewolves: 37908
+scored_words:
+  wearies: 112891
+  wedgies: 157326
+  weenies: 102575
+  weepies: 236642
+  wees: 100915
+  weighbridges: 107179
+  westerlies: 178217
+not_scored_words:
+- Welles
+- Weltschmerzes
+- weakfishes
+- weatherglasses
+- weatherizes
+- webisodes
+- webmistresses
+- weirdies
+- welshes
+- westernizes
+- wetwares

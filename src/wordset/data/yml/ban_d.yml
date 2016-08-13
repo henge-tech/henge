@@ -1,0 +1,25 @@
+---
+pattern: ban_d
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 15
+score: 905340
+score_per_word: 69641
+hi_scored_words:
+  band: 1032
+  bandaged: 69273
+  banded: 25385
+  bandied: 86368
+  bandstand: 52293
+  banged: 19924
+  banished: 21090
+  banked: 26188
+  banned: 13185
+scored_words:
+  bankcard: 116051
+  bankrolled: 143961
+  bankrupted: 107310
+  bantered: 223280
+not_scored_words:
+- bandylegged
+- banqueted

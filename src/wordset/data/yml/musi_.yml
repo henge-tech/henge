@@ -1,0 +1,31 @@
+---
+pattern: musi_
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 21
+score: 1168238
+score_per_word: 64902
+hi_scored_words:
+  music: 251
+  musical: 1830
+  musicale: 60463
+  musicales: 86948
+  musicality: 78299
+  musically: 29924
+  musicals: 14466
+  musician: 6506
+  musicians: 5297
+  musicianship: 49886
+  musicologist: 99910
+  musicology: 53147
+  musics: 55746
+  musing: 39390
+  musings: 23375
+scored_words:
+  musicological: 129963
+  musicologists: 185511
+  musingly: 247326
+not_scored_words:
+- Musial
+- Musil
+- musicianly

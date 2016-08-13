@@ -1,0 +1,33 @@
+---
+pattern: rel_ed
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 23
+score: 1906489
+score_per_word: 90785
+hi_scored_words:
+  relapsed: 50682
+  related: 708
+  relaunched: 67275
+  relaxed: 7311
+  relayed: 38337
+  released: 1790
+  relegated: 28983
+  relented: 71249
+  relied: 10293
+  relieved: 9273
+  relinquished: 41581
+  relished: 67900
+  relisted: 80656
+  reloaded: 27370
+  relocated: 16960
+scored_words:
+  relabeled: 230239
+  relativized: 224268
+  relearned: 283484
+  relighted: 293255
+  relinked: 241947
+  relived: 112928
+not_scored_words:
+- relined
+- relocked

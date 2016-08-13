@@ -1,0 +1,29 @@
+---
+pattern: c_cle
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 19
+score: 1373830
+score_per_word: 98130
+hi_scored_words:
+  canticle: 75386
+  carbuncle: 84962
+  chronicle: 7783
+  circle: 2017
+  clavicle: 67951
+  conventicle: 87718
+  cubicle: 28438
+  cuticle: 42927
+  cycle: 4300
+scored_words:
+  cenacle: 191831
+  chicle: 180337
+  coracle: 206269
+  corpuscle: 127167
+  curricle: 266744
+not_scored_words:
+- calicle
+- calycle
+- caruncle
+- caulicle
+- conceptacle

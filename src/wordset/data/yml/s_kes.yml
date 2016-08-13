@@ -1,0 +1,34 @@
+---
+pattern: s_kes
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 24
+score: 600377
+score_per_word: 42884
+hi_scored_words:
+  sakes: 44182
+  shakes: 14836
+  smokes: 24349
+  snakes: 10070
+  snowflakes: 42749
+  spikes: 16409
+  spokes: 34845
+  stakes: 9669
+  stokes: 20911
+  strikes: 5476
+  strokes: 8874
+  sweepstakes: 15967
+scored_words:
+  shrikes: 150132
+  strakes: 201908
+not_scored_words:
+- Stokes
+- Sykes
+- schipperkes
+- seaquakes
+- shiitakes
+- shortcakes
+- sidestrokes
+- slakes
+- slowpokes
+- soundalikes

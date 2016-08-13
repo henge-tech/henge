@@ -1,0 +1,73 @@
+---
+pattern: _ogic
+hi_scored_words_count: 20
+scored_words_count: 12
+total_words: 63
+score: 2983742
+score_per_word: 93241
+hi_scored_words:
+  biologic: 36297
+  etiologic: 82863
+  geologic: 24266
+  gynecologic: 48901
+  hematologic: 55884
+  histologic: 46414
+  hydrologic: 33201
+  hypnagogic: 93425
+  immunologic: 43180
+  logic: 3248
+  morphologic: 68036
+  neurologic: 33045
+  pathologic: 35459
+  pedagogic: 52990
+  pharmacologic: 52904
+  physiologic: 38182
+  radiologic: 43686
+  serologic: 70867
+  urologic: 66265
+  yogic: 77382
+scored_words:
+  anthropologic: 180838
+  bacteriologic: 232274
+  cytologic: 103601
+  demagogic: 190383
+  ecologic: 100460
+  illogic: 115951
+  lithologic: 136008
+  mythologic: 176830
+  oncologic: 157224
+  ophthalmologic: 151018
+  psychophysiologic: 250062
+  toxicologic: 182598
+not_scored_words:
+- archaeologic
+- archeologic
+- astrologic
+- choplogic
+- chronologic
+- climatologic
+- cosmologic
+- embryologic
+- endocrinologic
+- entomologic
+- ethnologic
+- gastrologic
+- geochronologic
+- gerontologic
+- herpetologic
+- horologic
+- hypnogogic
+- ichthyologic
+- meteorologic
+- necrologic
+- oologic
+- ornithologic
+- paleontologic
+- phonologic
+- phrenologic
+- psychopathologic
+- scatologic
+- seismologic
+- sociologic
+- tautologic
+- zoologic

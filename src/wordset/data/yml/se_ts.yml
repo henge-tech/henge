@@ -1,0 +1,59 @@
+---
+pattern: se_ts
+hi_scored_words_count: 19
+scored_words_count: 12
+total_words: 49
+score: 2806376
+score_per_word: 90528
+hi_scored_words:
+  sealants: 46251
+  seaports: 67810
+  searchlights: 93180
+  seats: 2885
+  secretariats: 93749
+  secrets: 3552
+  sects: 27164
+  secularists: 95246
+  sediments: 15416
+  segfaults: 65189
+  segments: 10023
+  selects: 15818
+  sentiments: 12111
+  separatists: 56389
+  sergeants: 47408
+  serpents: 42492
+  servants: 6031
+  sets: 1850
+  settlements: 8185
+scored_words:
+  seamounts: 126189
+  secessionists: 189724
+  secondments: 133133
+  segregationists: 275489
+  seismologists: 158208
+  sellouts: 170587
+  semifinalists: 115072
+  sentimentalists: 133958
+  septs: 231780
+  setts: 126947
+  sexists: 283972
+  sextants: 150568
+not_scored_words:
+- Septuagints
+- seacoasts
+- seafronts
+- secants
+- semanticists
+- seminarists
+- sensationalists
+- sensualists
+- septets
+- sericulturists
+- serjeants
+- serologists
+- sestets
+- sexologists
+- sexpots
+- sextets
+- sexts
+- sextuplets

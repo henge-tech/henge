@@ -1,0 +1,41 @@
+---
+pattern: hema_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 31
+score: 1521152
+score_per_word: 108653
+hi_scored_words:
+  hemangioma: 92448
+  hematite: 44958
+  hematologic: 55884
+  hematological: 94428
+  hematologists: 84936
+  hematology: 35741
+  hematoma: 56192
+  hematuria: 83487
+scored_words:
+  hemangiomas: 142676
+  hematogenous: 243845
+  hematologist: 209541
+  hematomas: 157244
+  hematopoiesis: 109057
+  hematoxylin: 110715
+not_scored_words:
+- hemachrome
+- hemagglutinate
+- hemal
+- hematic
+- hematin
+- hematinic
+- hematites
+- hematoblast
+- hematocele
+- hematocryal
+- hematogenesis
+- hematoid
+- hematomata
+- hematosis
+- hematothermal
+- hematozoon
+- hematurias

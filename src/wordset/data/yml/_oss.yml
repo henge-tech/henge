@@ -1,0 +1,48 @@
+---
+pattern: _oss
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 38
+score: 2086568
+score_per_word: 80252
+hi_scored_words:
+  across: 532
+  albatross: 32711
+  autocross: 97621
+  boss: 4056
+  coss: 89378
+  crisscross: 57038
+  cross: 829
+  doss: 47987
+  dross: 55341
+  emboss: 74677
+  floss: 28334
+  gloss: 13765
+  gross: 2896
+  joss: 23502
+  loss: 730
+  moss: 7168
+  motocross: 27162
+  poss: 38520
+  toss: 10088
+scored_words:
+  backcross: 176371
+  bugloss: 322141
+  candyfloss: 199810
+  engross: 148641
+  outcross: 339062
+  recross: 141100
+  semigloss: 147108
+not_scored_words:
+- Cross
+- Gross
+- Kinross
+- Moss
+- Ross
+- christcross
+- intercross
+- isogloss
+- kaross
+- peatmoss
+- stoss
+- uncross

@@ -1,0 +1,64 @@
+---
+pattern: _eres
+hi_scored_words_count: 10
+scored_words_count: 12
+total_words: 54
+score: 2707345
+score_per_word: 123061
+hi_scored_words:
+  adheres: 37078
+  amperes: 64336
+  atmospheres: 35736
+  ceres: 25589
+  hemispheres: 45280
+  heres: 22864
+  interferes: 29091
+  premieres: 28933
+  spheres: 14756
+  wheres: 46026
+scored_words:
+  anywheres: 122681
+  blastomeres: 218301
+  boutonnieres: 198811
+  brassieres: 178558
+  centromeres: 189979
+  confreres: 242052
+  etageres: 303796
+  inheres: 208353
+  meres: 132953
+  perseveres: 163054
+  portieres: 214341
+  reveres: 184777
+not_scored_words:
+- Ceres
+- DeGeneres
+- Gruyeres
+- Menderes
+- Xeres
+- abamperes
+- arthromeres
+- asthenospheres
+- bathyspheres
+- belvederes
+- biospheres
+- blastospheres
+- cafetieres
+- coheres
+- comperes
+- derrieres
+- exospheres
+- galeres
+- haeres
+- ionospheres
+- jardinieres
+- lavalieres
+- lithospheres
+- magnetospheres
+- megatheres
+- mesospheres
+- milliamperes
+- oospheres
+- stratospheres
+- thermospheres
+- tropospheres
+- uintatheres

@@ -1,0 +1,36 @@
+---
+pattern: v_ar
+hi_scored_words_count: 14
+scored_words_count: 1
+total_words: 26
+score: 705231
+score_per_word: 47015
+hi_scored_words:
+  vacuolar: 86323
+  valvular: 71997
+  var: 8740
+  vascular: 15986
+  vehicular: 27390
+  velar: 98185
+  ventricular: 19155
+  vernacular: 23499
+  vesicular: 55445
+  vestibular: 44145
+  vicar: 18855
+  vinegar: 10910
+  vulgar: 13718
+  vulvar: 80397
+scored_words:
+  volar: 130486
+not_scored_words:
+- VAR
+- Var
+- Vardar
+- Vassar
+- Veadar
+- Vidar
+- Vijayanagar
+- verisimilar
+- vermicular
+- versicular
+- vorticular

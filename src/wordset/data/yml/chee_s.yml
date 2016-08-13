@@ -1,0 +1,31 @@
+---
+pattern: chee_s
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 21
+score: 805325
+score_per_word: 67110
+hi_scored_words:
+  cheekbones: 85425
+  cheeks: 11630
+  cheerfulness: 52829
+  cheerios: 57608
+  cheerleaders: 12965
+  cheers: 8166
+  cheeseburgers: 84180
+  cheesecakes: 64377
+  cheeses: 25053
+  cheetahs: 56184
+scored_words:
+  cheerless: 105137
+  cheesiness: 241771
+not_scored_words:
+- Cheerios
+- Cheetos
+- cheekiness
+- cheekpieces
+- cheeps
+- cheerers
+- cheeriness
+- cheerlessness
+- cheeseboards

@@ -1,0 +1,37 @@
+---
+pattern: cat_e
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 27
+score: 1460001
+score_per_word: 91250
+hi_scored_words:
+  catafalque: 91721
+  catalase: 61007
+  catalogue: 4950
+  catalyze: 65243
+  catastrophe: 13086
+  catchphrase: 72465
+  cate: 26910
+  categorize: 31267
+  cathode: 28470
+  cathouse: 86429
+  cattle: 3842
+scored_words:
+  catabolite: 228454
+  catamite: 134419
+  catchpole: 163974
+  cathodoluminescence: 286147
+  catlike: 161617
+not_scored_words:
+- Catharine
+- Catherine
+- Cathie
+- Catiline
+- catarrhine
+- catechize
+- categorizable
+- catenane
+- catenate
+- catheterize
+- catholicize

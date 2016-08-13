@@ -1,0 +1,27 @@
+---
+pattern: unpl_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 1109128
+score_per_word: 92427
+hi_scored_words:
+  unplanned: 29880
+  unplayable: 79225
+  unplayed: 97315
+  unpleasant: 10400
+  unpleasantly: 97457
+  unpleasantness: 75582
+  unplug: 37406
+  unplugged: 22857
+  unplugging: 87419
+scored_words:
+  unplaced: 132186
+  unpleasing: 203972
+  unplugs: 235429
+not_scored_words:
+- unplanted
+- unpleased
+- unploughed
+- unplowed
+- unplumbed

@@ -1,0 +1,95 @@
+---
+pattern: _rite
+hi_scored_words_count: 22
+scored_words_count: 21
+total_words: 85
+score: 4816200
+score_per_word: 112004
+hi_scored_words:
+  alexandrite: 88699
+  chlorite: 63496
+  contrite: 68621
+  dendrite: 80625
+  favorite: 1426
+  ferrite: 43159
+  fluorite: 62589
+  hypochlorite: 59915
+  hypocrite: 27322
+  labradorite: 92115
+  marguerite: 22065
+  meteorite: 29040
+  nitrite: 35569
+  overwrite: 34667
+  pyrite: 43740
+  rewrite: 21280
+  rite: 10065
+  sprite: 22095
+  trite: 39116
+  underwrite: 51962
+  verite: 85705
+  write: 459
+scored_words:
+  anchorite: 222083
+  anhydrite: 140062
+  archimandrite: 171077
+  arsenopyrite: 284287
+  azurite: 114842
+  barite: 113872
+  chalcopyrite: 123260
+  chondrite: 149646
+  cordierite: 200473
+  diorite: 134134
+  dolerite: 256886
+  evaporite: 255242
+  forsterite: 277449
+  laterite: 116770
+  margarite: 203355
+  nephrite: 179340
+  preterite: 134045
+  siderite: 193039
+  sphalerite: 139699
+  sybarite: 205535
+  typewrite: 217374
+not_scored_words:
+- Amphitrite
+- Himyarite
+- Laborite
+- Marguerite
+- Minorite
+- Nazarite
+- Sprite
+- achondrite
+- ankerite
+- antigorite
+- calaverite
+- cassiterite
+- cerargyrite
+- cuprite
+- dumortierite
+- elaterite
+- erythrite
+- fulgurite
+- garnierite
+- geyserite
+- ghostwrite
+- glycerite
+- grossularite
+- hyponitrite
+- kieserite
+- lazurite
+- micrometeorite
+- millerite
+- miswrite
+- norite
+- octahedrite
+- phosphorite
+- picrite
+- pyrargyrite
+- rensselaerite
+- sclerite
+- tellurite
+- tenorite
+- tephrite
+- thorite
+- wernerite
+- witherite

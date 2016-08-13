@@ -1,0 +1,72 @@
+---
+pattern: depr_
+hi_scored_words_count: 27
+scored_words_count: 11
+total_words: 62
+score: 3184715
+score_per_word: 83808
+hi_scored_words:
+  depraved: 36197
+  depravity: 37485
+  deprecate: 76246
+  deprecated: 22930
+  deprecating: 65414
+  deprecation: 65260
+  depreciable: 95155
+  depreciate: 61238
+  depreciated: 45942
+  depreciating: 93378
+  depreciation: 13659
+  depredation: 99858
+  depredations: 83413
+  depress: 34798
+  depressant: 46656
+  depressants: 38648
+  depressed: 8024
+  depresses: 70066
+  depressing: 13938
+  depression: 3851
+  depressions: 42048
+  depressive: 23983
+  deprivation: 17359
+  deprive: 20327
+  deprived: 9661
+  deprives: 60594
+  depriving: 39378
+scored_words:
+  deprave: 110794
+  deprecatingly: 157106
+  deprecatory: 264612
+  depreciates: 170359
+  depressingly: 117166
+  depressives: 211082
+  depressor: 146077
+  depressors: 229060
+  depressurization: 230531
+  deprivations: 116262
+  deprogramming: 206160
+not_scored_words:
+- depraves
+- depraving
+- depravities
+- deprecates
+- deprecations
+- deprecative
+- deprecator
+- depreciative
+- depreciator
+- depreciators
+- depreciatory
+- depredate
+- depredator
+- depredatory
+- depressively
+- depressomotor
+- depressurize
+- depressurized
+- depressurizes
+- depressurizing
+- deprogram
+- deprogrammed
+- deprogrammer
+- deprograms

@@ -1,0 +1,30 @@
+---
+pattern: drop_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 20
+score: 730173
+score_per_word: 52155
+hi_scored_words:
+  drop: 1387
+  dropkick: 50829
+  droplet: 38101
+  droplets: 29561
+  dropout: 27620
+  dropouts: 40874
+  dropped: 2575
+  dropper: 48197
+  dropping: 5981
+  droppings: 42264
+  drops: 4391
+  dropsy: 84336
+scored_words:
+  dropline: 238865
+  droppers: 115192
+not_scored_words:
+- Dropbox
+- dropkicks
+- droplight
+- dropsical
+- dropsonde
+- dropwort

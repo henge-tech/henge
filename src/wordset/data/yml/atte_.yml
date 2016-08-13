@@ -1,0 +1,55 @@
+---
+pattern: atte_
+hi_scored_words_count: 30
+scored_words_count: 6
+total_words: 45
+score: 1809991
+score_per_word: 50277
+hi_scored_words:
+  attempt: 1578
+  attempted: 4083
+  attempting: 5373
+  attempts: 3247
+  attend: 2354
+  attendance: 4179
+  attendances: 56106
+  attendant: 10273
+  attendants: 15891
+  attended: 2923
+  attendee: 43742
+  attendees: 11909
+  attending: 4517
+  attends: 16928
+  attention: 918
+  attentional: 61960
+  attentions: 42178
+  attentive: 15973
+  attentively: 50169
+  attentiveness: 82624
+  attenuate: 61888
+  attenuated: 35583
+  attenuates: 97845
+  attenuation: 22604
+  attenuator: 67459
+  attest: 21866
+  attestation: 49016
+  attested: 28267
+  attesting: 66081
+  attests: 62737
+scored_words:
+  attender: 138336
+  attenders: 120225
+  attendings: 227747
+  attenuating: 111299
+  attenuators: 102477
+  attestations: 159636
+not_scored_words:
+- Attenborough
+- attemper
+- attempered
+- attempering
+- attempers
+- attemptable
+- attenuant
+- attester
+- attestor

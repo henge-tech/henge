@@ -1,0 +1,32 @@
+---
+pattern: bra_ed
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1336039
+score_per_word: 83502
+hi_scored_words:
+  braced: 33216
+  bracketed: 52320
+  bragged: 72679
+  braided: 24962
+  brained: 66871
+  brainwashed: 39422
+  braised: 46514
+  braked: 72874
+  branched: 27540
+  branded: 11538
+  braved: 61584
+scored_words:
+  brainstormed: 138434
+  brandied: 281844
+  brandished: 104766
+  brayed: 189380
+  brazed: 112095
+not_scored_words:
+- brabbled
+- brachiated
+- brailed
+- bratticed
+- brawled
+- brazened

@@ -1,0 +1,40 @@
+---
+pattern: rebu_
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 30
+score: 2064807
+score_per_word: 93854
+hi_scored_words:
+  rebuff: 74038
+  rebuffed: 66900
+  rebuffs: 77952
+  rebuild: 11230
+  rebuilding: 13636
+  rebuilds: 61852
+  rebuilt: 11677
+  rebuke: 33364
+  rebuked: 52687
+  rebukes: 86469
+  rebus: 45826
+  rebut: 55513
+  rebuttal: 26721
+  rebuttals: 89060
+  rebutted: 87137
+scored_words:
+  rebuffing: 267072
+  rebuking: 126174
+  reburial: 225971
+  reburied: 209369
+  rebuts: 167302
+  rebuttable: 132541
+  rebutting: 142316
+not_scored_words:
+- rebukingly
+- reburials
+- reburies
+- rebury
+- reburying
+- rebuses
+- rebutter
+- rebutters

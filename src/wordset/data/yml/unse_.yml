@@ -1,0 +1,64 @@
+---
+pattern: unse_
+hi_scored_words_count: 11
+scored_words_count: 20
+total_words: 54
+score: 4011476
+score_per_word: 129402
+hi_scored_words:
+  unsealed: 62852
+  unseat: 66499
+  unseaworthy: 92585
+  unsecured: 18616
+  unseemly: 47795
+  unseen: 11914
+  unselected: 85716
+  unselfish: 44806
+  unset: 53729
+  unsettled: 30896
+  unsettling: 37054
+scored_words:
+  unseal: 234941
+  unsearchable: 170226
+  unseasonable: 149467
+  unseasonably: 101905
+  unseasonal: 298593
+  unseasoned: 214245
+  unseated: 140888
+  unseating: 211300
+  unseeded: 102461
+  unseeing: 198903
+  unselfconscious: 222298
+  unselfishly: 123776
+  unselfishness: 115934
+  unsent: 119130
+  unsentimental: 133325
+  unserious: 251458
+  unserviceable: 121679
+  unsettle: 128224
+  unsettles: 263757
+  unsexed: 156504
+not_scored_words:
+- unsealable
+- unsealing
+- unseals
+- unseam
+- unseats
+- unseaworthiness
+- unseeingly
+- unseemlier
+- unseemliest
+- unseemliness
+- unsegmented
+- unsegregated
+- unselfconsciously
+- unselfconsciousness
+- unselfconsciousnesses
+- unsellable
+- unsensational
+- unsensitive
+- unsettlingly
+- unsex
+- unsexes
+- unsexing
+- unsexual

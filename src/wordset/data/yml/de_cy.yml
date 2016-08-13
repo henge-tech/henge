@@ -1,0 +1,23 @@
+---
+pattern: de_cy
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 537724
+score_per_word: 53772
+hi_scored_words:
+  decency: 19673
+  deficiency: 8479
+  degeneracy: 56553
+  delicacy: 25135
+  delinquency: 26135
+  democracy: 3284
+  dependency: 13615
+  despondency: 66717
+scored_words:
+  determinacy: 149634
+  deviancy: 168499
+not_scored_words:
+- decadency
+- delegacy
+- detergency

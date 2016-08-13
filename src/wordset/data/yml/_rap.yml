@@ -1,0 +1,39 @@
+---
+pattern: _rap
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 29
+score: 1896487
+score_per_word: 86203
+hi_scored_words:
+  bootstrap: 24206
+  crap: 8293
+  entrap: 82857
+  jockstrap: 99889
+  mousetrap: 52345
+  rap: 6405
+  scrap: 8869
+  strap: 7570
+  trap: 4885
+  unstrap: 95378
+  unwrap: 22974
+  wrap: 5799
+scored_words:
+  chinstrap: 156858
+  claptrap: 123339
+  deathtrap: 101726
+  firetrap: 124954
+  flytrap: 131632
+  frap: 111972
+  rattletrap: 138390
+  rattrap: 264837
+  satrap: 178463
+  therap: 144846
+not_scored_words:
+- enwrap
+- inwrap
+- mantrap
+- rewrap
+- suntrap
+- watchstrap
+- wentletrap

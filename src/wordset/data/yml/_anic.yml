@@ -1,0 +1,52 @@
+---
+pattern: _anic
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 42
+score: 1555852
+score_per_word: 74088
+hi_scored_words:
+  botanic: 32539
+  galvanic: 60250
+  germanic: 24178
+  inorganic: 17248
+  manic: 21319
+  mechanic: 9931
+  messianic: 35225
+  oceanic: 20870
+  organic: 3526
+  panic: 5737
+  satanic: 27039
+  shamanic: 55395
+  titanic: 13633
+  tympanic: 73095
+  volcanic: 11425
+scored_words:
+  cyanic: 189617
+  nonorganic: 303345
+  talismanic: 187416
+  tetanic: 206795
+  transoceanic: 118522
+  transuranic: 138747
+not_scored_words:
+- Brahmanic
+- Germanic
+- Hispanic
+- Koranic
+- Magellanic
+- Messianic
+- Qur'anic
+- Quranic
+- Romanic
+- Sudanic
+- Titanic
+- aeromechanic
+- epiphanic
+- homorganic
+- megalomanic
+- melanic
+- nonvolcanic
+- pyromanic
+- suboceanic
+- superorganic
+- uranic

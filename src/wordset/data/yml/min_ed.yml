@@ -1,0 +1,23 @@
+---
+pattern: min_ed
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 730624
+score_per_word: 73062
+hi_scored_words:
+  minced: 28539
+  minded: 7346
+  mined: 24236
+  mingled: 24528
+  miniaturized: 80896
+  minimized: 21415
+  ministered: 61018
+  minted: 41315
+scored_words:
+  minored: 249916
+  minuted: 191415
+not_scored_words:
+- minareted
+- minified
+- miniskirted

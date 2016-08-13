@@ -1,0 +1,26 @@
+---
+pattern: blo_ed
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 16
+score: 690531
+score_per_word: 57544
+hi_scored_words:
+  bloated: 26407
+  blockaded: 99032
+  blocked: 6782
+  blogged: 35681
+  blooded: 30452
+  bloodied: 69507
+  bloodshed: 30436
+  bloodstained: 99942
+  bloomed: 69070
+  blossomed: 48567
+  blotted: 64459
+scored_words:
+  blotched: 110196
+not_scored_words:
+- blobbed
+- blooped
+- bloused
+- blowzed

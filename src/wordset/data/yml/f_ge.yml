@@ -1,0 +1,45 @@
+---
+pattern: f_ge
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 35
+score: 1065493
+score_per_word: 62676
+hi_scored_words:
+  flange: 27940
+  foliage: 11171
+  footage: 10793
+  footbridge: 52447
+  forage: 18839
+  foreknowledge: 73260
+  forge: 9070
+  fridge: 12435
+  fringe: 9206
+  frontage: 31906
+  fudge: 22244
+  fuselage: 24737
+scored_words:
+  febrifuge: 157051
+  fledge: 117178
+  flowage: 165484
+  fosterage: 154439
+  fruitage: 167293
+not_scored_words:
+- Faberge
+- Falange
+- factorage
+- fadge
+- featheredge
+- ferriage
+- fidge
+- flamage
+- floatage
+- floorage
+- flotage
+- flowerage
+- forejudge
+- forestage
+- forjudge
+- frankpledge
+- freightage
+- frottage

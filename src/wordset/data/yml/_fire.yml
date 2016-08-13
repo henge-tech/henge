@@ -1,0 +1,33 @@
+---
+pattern: _fire
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 23
+score: 770820
+score_per_word: 48176
+hi_scored_words:
+  afire: 60409
+  backfire: 42798
+  bonfire: 21878
+  bushfire: 68407
+  campfire: 27285
+  ceasefire: 30619
+  crossfire: 21617
+  fire: 472
+  foxfire: 95190
+  gunfire: 28849
+  hellfire: 43198
+  misfire: 90387
+  spitfire: 27077
+  surefire: 49426
+  wildfire: 27108
+scored_words:
+  quickfire: 136100
+not_scored_words:
+- Campfire
+- balefire
+- drumfire
+- portfire
+- refire
+- retrofire
+- shellfire

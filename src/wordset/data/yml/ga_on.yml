@@ -1,0 +1,30 @@
+---
+pattern: ga_on
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 20
+score: 698670
+score_per_word: 69867
+hi_scored_words:
+  galleon: 46371
+  gallon: 10296
+  gammon: 44639
+  ganglion: 35320
+  garcon: 92986
+  garrison: 9292
+  garçon: 54532
+  gazillion: 80275
+scored_words:
+  gabion: 191430
+  gastrulation: 133529
+not_scored_words:
+- Gabon
+- Galton
+- Galveston
+- Garrison
+- Gascon
+- gadroon
+- galloon
+- galvanization
+- gambeson
+- gammadion

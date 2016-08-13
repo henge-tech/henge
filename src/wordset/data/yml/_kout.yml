@@ -1,0 +1,21 @@
+---
+pattern: _kout
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 11
+score: 366970
+score_per_word: 36697
+hi_scored_words:
+  blackout: 22293
+  breakout: 18243
+  checkout: 10564
+  cookout: 61284
+  knockout: 20399
+  lockout: 26107
+  lookout: 13259
+  walkout: 62247
+  workout: 12371
+scored_words:
+  freakout: 120203
+not_scored_words:
+- sickout

@@ -1,0 +1,35 @@
+---
+pattern: mec_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 25
+score: 1086900
+score_per_word: 72460
+hi_scored_words:
+  mecca: 16993
+  mech: 23194
+  mechanic: 9931
+  mechanical: 3228
+  mechanically: 18071
+  mechanics: 6682
+  mechanism: 4292
+  mechanisms: 10458
+  mechanistic: 41270
+  mechanization: 57298
+  mechanized: 40072
+scored_words:
+  meccas: 328522
+  mechanician: 208365
+  mechanistically: 215859
+  mechanize: 102665
+not_scored_words:
+- Mecca
+- Meccas
+- Mechlin
+- Mecklenburg
+- mechanist
+- mechanizable
+- mechanizer
+- mechanizes
+- mechanizing
+- mechanotherapy

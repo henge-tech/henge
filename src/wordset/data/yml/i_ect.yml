@@ -1,0 +1,25 @@
+---
+pattern: i_ect
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 15
+score: 516866
+score_per_word: 39758
+hi_scored_words:
+  imperfect: 12758
+  incorrect: 7971
+  indirect: 5550
+  infect: 18920
+  inject: 20377
+  insect: 12074
+  inspect: 10758
+  intellect: 10763
+  interconnect: 26570
+  interject: 94698
+  intersect: 27844
+scored_words:
+  inflect: 142110
+  introspect: 126473
+not_scored_words:
+- idiolect
+- introject

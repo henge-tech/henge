@@ -1,0 +1,33 @@
+---
+pattern: n_ity
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 23
+score: 1425549
+score_per_word: 83855
+hi_scored_words:
+  nationality: 10040
+  nativity: 22016
+  necessity: 4659
+  negativity: 32593
+  neutrality: 17724
+  nobility: 15784
+  nonconformity: 86896
+  nonlinearity: 57250
+  normality: 35363
+  nudity: 17103
+  nullity: 83310
+scored_words:
+  natality: 153200
+  navigability: 153151
+  nebulosity: 212868
+  negotiability: 217991
+  nonentity: 180781
+  notability: 124820
+not_scored_words:
+- Nativity
+- nasality
+- negligibility
+- nihility
+- nonavailability
+- nubility

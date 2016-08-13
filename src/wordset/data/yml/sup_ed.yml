@@ -1,0 +1,34 @@
+---
+pattern: sup_ed
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 24
+score: 1446723
+score_per_word: 72336
+hi_scored_words:
+  supercharged: 39851
+  superheated: 98876
+  superimposed: 34686
+  superseded: 17796
+  supersized: 61783
+  supervised: 18251
+  supped: 98727
+  supplanted: 54154
+  supplemented: 16417
+  supplied: 2436
+  supported: 1734
+  supposed: 2080
+  suppressed: 10955
+scored_words:
+  superannuated: 147503
+  supercooled: 133784
+  superintended: 181867
+  superposed: 103772
+  supersaturated: 129107
+  supervened: 122705
+  supplicated: 170239
+not_scored_words:
+- superscribed
+- supersophisticated
+- supinated
+- suppurated

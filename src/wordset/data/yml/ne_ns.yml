@@ -1,0 +1,27 @@
+---
+pattern: ne_ns
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 766362
+score_per_word: 76636
+hi_scored_words:
+  negotiations: 4902
+  nelsons: 95308
+  neocons: 58689
+  neurons: 10018
+  neurosurgeons: 99908
+  neutrons: 28696
+  newborns: 29655
+  newtons: 64523
+scored_words:
+  negations: 128853
+  nephrons: 245810
+not_scored_words:
+- Nebraskans
+- Nevadans
+- Newtonians
+- neatens
+- nektons
+- nemerteans
+- neomycins

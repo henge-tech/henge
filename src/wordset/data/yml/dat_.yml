@@ -1,0 +1,41 @@
+---
+pattern: dat_
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 31
+score: 1219175
+score_per_word: 60958
+hi_scored_words:
+  dat: 10033
+  data: 930
+  database: 4667
+  databases: 4082
+  datatype: 42253
+  date: 285
+  dated: 3971
+  dateline: 30598
+  dater: 90884
+  dates: 2196
+  dating: 4836
+  dative: 62272
+  dato: 45313
+  datum: 25638
+  datura: 71877
+scored_words:
+  datable: 229705
+  datebook: 107421
+  dateless: 113487
+  datelines: 228483
+  daters: 140244
+not_scored_words:
+- DAT
+- Datamation
+- datary
+- datcha
+- dateable
+- datebooks
+- datedness
+- datelined
+- datelining
+- datives
+- datolite

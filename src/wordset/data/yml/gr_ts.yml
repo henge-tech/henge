@@ -1,0 +1,31 @@
+---
+pattern: gr_ts
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 21
+score: 1199797
+score_per_word: 79986
+hi_scored_words:
+  gradients: 24501
+  grafts: 36099
+  grandparents: 15395
+  grants: 3910
+  grassroots: 16929
+  greats: 25728
+  greets: 33156
+  grits: 37621
+  grommets: 70516
+  grunts: 40940
+scored_words:
+  grapefruits: 158846
+  greenbelts: 291807
+  groats: 117436
+  groundnuts: 121715
+  grouts: 205198
+not_scored_words:
+- grandaunts
+- graphologists
+- greatcoats
+- grivets
+- grots
+- groundsheets

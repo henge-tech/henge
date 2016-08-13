@@ -1,0 +1,28 @@
+---
+pattern: re_cing
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 18
+score: 832210
+score_per_word: 55480
+hi_scored_words:
+  reducing: 4818
+  refacing: 66243
+  referencing: 19166
+  refinancing: 26227
+  reinforcing: 25190
+  rejoicing: 27247
+  reminiscing: 53340
+  renouncing: 70268
+  replacing: 8222
+  reproducing: 26927
+  resourcing: 60199
+  resurfacing: 38901
+  retracing: 92249
+scored_words:
+  reintroducing: 102994
+  repricing: 210219
+not_scored_words:
+- recommencing
+- recrudescing
+- reverencing

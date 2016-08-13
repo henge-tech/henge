@@ -1,0 +1,26 @@
+---
+pattern: cru_es
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 16
+score: 1155296
+score_per_word: 88868
+hi_scored_words:
+  cruces: 34886
+  crucibles: 92040
+  crucifixes: 70691
+  cruelties: 81742
+  cruises: 17538
+  crumbles: 53304
+  crunches: 63055
+  crusades: 30831
+  crushes: 41078
+  crutches: 35878
+scored_words:
+  crudities: 135839
+  crumples: 252533
+  cruses: 245881
+not_scored_words:
+- crucifies
+- crudites
+- cruxes

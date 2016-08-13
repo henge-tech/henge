@@ -1,0 +1,23 @@
+---
+pattern: _rise
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 658006
+score_per_word: 54833
+hi_scored_words:
+  apprise: 80493
+  arise: 4072
+  cerise: 71075
+  comprise: 13283
+  enterprise: 1787
+  moonrise: 55591
+  reprise: 30300
+  rise: 1465
+  sunrise: 6709
+  surprise: 2248
+scored_words:
+  emprise: 230601
+  uprise: 160382
+not_scored_words:
+- Enterprise

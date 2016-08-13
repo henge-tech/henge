@@ -1,0 +1,32 @@
+---
+pattern: bak_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 22
+score: 674633
+score_per_word: 61330
+hi_scored_words:
+  bake: 8614
+  baked: 9691
+  baker: 4336
+  bakeries: 28599
+  bakers: 24881
+  bakery: 16731
+  bakes: 62391
+  baking: 7451
+  baklava: 80236
+scored_words:
+  bakehouse: 150542
+  bakeshop: 281161
+not_scored_words:
+- Bakelite
+- Bakelites
+- Baker
+- Bakersfield
+- Bakhtaran
+- Bakst
+- Baku
+- Bakunin
+- bakeshops
+- bakings
+- baksheesh

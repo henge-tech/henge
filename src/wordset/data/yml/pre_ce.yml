@@ -1,0 +1,29 @@
+---
+pattern: pre_ce
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 19
+score: 508002
+score_per_word: 39077
+hi_scored_words:
+  precedence: 12771
+  precipice: 43149
+  predominance: 38750
+  preeminence: 85418
+  preface: 11266
+  preference: 4531
+  prejudice: 6671
+  prentice: 21875
+  preponderance: 34866
+  prescience: 90919
+  presence: 1443
+  prevalence: 10267
+scored_words:
+  prepuce: 146076
+not_scored_words:
+- Prentice
+- preadolescence
+- preannounce
+- precipitance
+- preexistence
+- prepubescence

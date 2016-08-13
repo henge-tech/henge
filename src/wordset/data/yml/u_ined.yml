@@ -1,0 +1,34 @@
+---
+pattern: u_ined
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 24
+score: 1649530
+score_per_word: 86817
+hi_scored_words:
+  unchained: 48802
+  unconfined: 92191
+  unconstrained: 55460
+  undefined: 12972
+  underlined: 24878
+  undermined: 23515
+  undetermined: 32085
+  undisciplined: 61094
+  unexamined: 82946
+  unexplained: 21863
+  unlined: 59219
+  unrefined: 80728
+  unrestrained: 39499
+  untrained: 40018
+scored_words:
+  uncombined: 246723
+  uncurtained: 299840
+  unimagined: 154702
+  unmaintained: 147139
+  unstained: 125856
+not_scored_words:
+- unattained
+- unordained
+- unstrained
+- unsustained
+- untwined

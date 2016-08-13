@@ -1,0 +1,29 @@
+---
+pattern: cho_e
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 19
+score: 1226499
+score_per_word: 87607
+hi_scored_words:
+  chocolate: 3816
+  choice: 966
+  choke: 14532
+  choline: 38800
+  cholinesterase: 69680
+  choose: 767
+  chorale: 36670
+  chore: 29154
+  chose: 3456
+scored_words:
+  chondrite: 149646
+  chondrule: 324208
+  chophouse: 195601
+  chordate: 255755
+  chortle: 103448
+not_scored_words:
+- choanocyte
+- chokebore
+- chondriosome
+- chopine
+- chordophone

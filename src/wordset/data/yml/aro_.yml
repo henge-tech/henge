@@ -1,0 +1,33 @@
+---
+pattern: aro_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 23
+score: 1100601
+score_per_word: 73373
+hi_scored_words:
+  aroma: 17223
+  aromas: 37156
+  aromatherapy: 26263
+  aromatic: 16102
+  aromatics: 53953
+  arose: 7772
+  around: 240
+  arousal: 28022
+  arouse: 26834
+  aroused: 19932
+  arouses: 76402
+  arousing: 41655
+scored_words:
+  aromatherapist: 265768
+  aromatherapists: 178107
+  aromaticity: 305172
+not_scored_words:
+- Aron
+- aroid
+- aroids
+- aromatically
+- aromatize
+- aromatized
+- aromatizes
+- aromatizing

@@ -1,0 +1,34 @@
+---
+pattern: pol_c
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 24
+score: 1219679
+score_per_word: 87119
+hi_scored_words:
+  polemic: 48916
+  politic: 27962
+  polycyclic: 68919
+  polymeric: 37026
+  polymorphic: 37941
+  polyphonic: 17406
+  polyphyletic: 84122
+  polytechnic: 25721
+scored_words:
+  polyatomic: 151070
+  polychromatic: 165071
+  polyclinic: 146555
+  polysyllabic: 189915
+  polysynthetic: 107885
+  polytheistic: 111170
+not_scored_words:
+- policlinic
+- poliomyelitic
+- polychromic
+- polydipsic
+- polygraphic
+- polyhydric
+- polymathic
+- polytrophic
+- polytypic
+- polyzoic

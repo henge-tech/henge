@@ -1,0 +1,127 @@
+---
+pattern: _esis
+hi_scored_words_count: 25
+scored_words_count: 33
+total_words: 117
+score: 6325897
+score_per_word: 109067
+hi_scored_words:
+  abiogenesis: 95224
+  amniocentesis: 75896
+  angiogenesis: 46509
+  antithesis: 37021
+  biogenesis: 56684
+  biosynthesis: 19603
+  carcinogenesis: 45443
+  electrophoresis: 23352
+  enuresis: 95332
+  exegesis: 45044
+  genesis: 6930
+  hypothesis: 6295
+  hysteresis: 45060
+  mimesis: 87476
+  morphogenesis: 54760
+  mutagenesis: 42679
+  nemesis: 22252
+  osteogenesis: 96060
+  parenthesis: 31922
+  pathogenesis: 26756
+  photosynthesis: 29200
+  prosthesis: 33924
+  synthesis: 9197
+  telekinesis: 94341
+  thesis: 8086
+scored_words:
+  agenesis: 118340
+  anamnesis: 192588
+  anthesis: 188735
+  apheresis: 130237
+  cytokinesis: 109261
+  diaeresis: 101586
+  diagenesis: 127200
+  diaphoresis: 219750
+  diathesis: 171171
+  dieresis: 157819
+  diuresis: 105746
+  emesis: 113201
+  epenthesis: 280513
+  epigenesis: 114489
+  erythropoiesis: 133131
+  gametogenesis: 253790
+  gluconeogenesis: 103635
+  hematopoiesis: 109057
+  histogenesis: 225581
+  metathesis: 113612
+  noesis: 195474
+  oncogenesis: 178323
+  oogenesis: 147678
+  organogenesis: 124143
+  palingenesis: 237292
+  pangenesis: 153416
+  paresis: 100493
+  parthenogenesis: 132788
+  prothesis: 122603
+  psychokinesis: 187912
+  resynthesis: 239953
+  telesis: 157524
+  thermogenesis: 143810
+not_scored_words:
+- Genesis
+- Lachesis
+- Nemesis
+- Parcheesis
+- agamogenesis
+- anthropogenesis
+- antipyresis
+- aphesis
+- aposiopesis
+- ascesis
+- autogenesis
+- auxesis
+- blastogenesis
+- caenogenesis
+- catachresis
+- catamnesis
+- cataphoresis
+- cenogenesis
+- chemosynthesis
+- cytogenesis
+- diakinesis
+- diapedesis
+- diesis
+- digenesis
+- ecesis
+- ecphonesis
+- eisegesis
+- epexegesis
+- epiclesis
+- frontogenesis
+- gamogenesis
+- glycogenesis
+- glyconeogenesis
+- hematogenesis
+- heterogenesis
+- homogenesis
+- hypnogenesis
+- karyokinesis
+- kenogenesis
+- leucopoiesis
+- metagenesis
+- monogenesis
+- narcosynthesis
+- orogenesis
+- orthogenesis
+- parasynthesis
+- pedogenesis
+- photokinesis
+- phytogenesis
+- polygenesis
+- psychogenesis
+- schizogenesis
+- spermiogenesis
+- sporogenesis
+- syndesis
+- syneresis
+- tmesis
+- xenogenesis
+- zymogenesis

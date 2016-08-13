@@ -1,0 +1,32 @@
+---
+pattern: _oded
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 22
+score: 1449712
+score_per_word: 76300
+hi_scored_words:
+  blooded: 30452
+  brooded: 90502
+  coded: 10037
+  corroded: 67576
+  decoded: 33646
+  encoded: 14849
+  eroded: 24409
+  exploded: 14624
+  flooded: 14032
+  hooded: 19091
+  outmoded: 54197
+  unexploded: 69048
+  wooded: 16839
+scored_words:
+  boded: 248317
+  coldblooded: 115273
+  foreboded: 225375
+  imploded: 102964
+  incommoded: 182746
+  recoded: 115735
+not_scored_words:
+- discommoded
+- hotblooded
+- warmblooded

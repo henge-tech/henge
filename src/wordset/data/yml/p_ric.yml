@@ -1,0 +1,34 @@
+---
+pattern: p_ric
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 24
+score: 1757323
+score_per_word: 92490
+hi_scored_words:
+  parametric: 22683
+  paregoric: 95737
+  pediatric: 8926
+  phosphoric: 41351
+  photoelectric: 51968
+  photometric: 45002
+  piezoelectric: 44957
+  podiatric: 80945
+  polymeric: 37026
+  prehistoric: 16145
+  psychiatric: 11510
+  psychometric: 50165
+  pyloric: 77289
+scored_words:
+  panegyric: 141861
+  phantasmagoric: 253774
+  photospheric: 157873
+  plethoric: 156518
+  pyroelectric: 193331
+  pyrophoric: 270262
+not_scored_words:
+- Pindaric
+- perimetric
+- phallocentric
+- pneumogastric
+- polyhydric

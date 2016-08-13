@@ -1,0 +1,31 @@
+---
+pattern: tent_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 21
+score: 1197688
+score_per_word: 85549
+hi_scored_words:
+  tent: 4925
+  tentacle: 38209
+  tentacles: 30582
+  tentative: 13606
+  tentatively: 28997
+  tented: 48674
+  tenth: 8179
+  tenths: 37407
+  tents: 8298
+scored_words:
+  tentacled: 227777
+  tentation: 278756
+  tenter: 108949
+  tenterhooks: 237920
+  tenting: 125409
+not_scored_words:
+- tentacular
+- tentage
+- tentativeness
+- tenterhook
+- tenters
+- tenthly
+- tentmaker

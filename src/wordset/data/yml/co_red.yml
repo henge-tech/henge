@@ -1,0 +1,41 @@
+---
+pattern: co_red
+hi_scored_words_count: 19
+scored_words_count: 2
+total_words: 31
+score: 1130714
+score_per_word: 53843
+hi_scored_words:
+  coauthored: 88257
+  collared: 43278
+  colored: 4031
+  commandeered: 95319
+  compared: 1671
+  concurred: 29546
+  conferred: 12734
+  configured: 8440
+  conjectured: 57804
+  conjured: 53270
+  conquered: 12597
+  considered: 814
+  conspired: 43103
+  contoured: 42540
+  cored: 66564
+  cornered: 39089
+  cosponsored: 85236
+  countered: 37077
+  covered: 1193
+scored_words:
+  couriered: 286896
+  cowered: 121255
+not_scored_words:
+- Coloured
+- cockered
+- cohered
+- coiffured
+- coinsured
+- compered
+- compèred
+- concentered
+- coopered
+- costarred

@@ -1,0 +1,51 @@
+---
+pattern: _acts
+hi_scored_words_count: 22
+scored_words_count: 4
+total_words: 41
+score: 1524577
+score_per_word: 58637
+hi_scored_words:
+  abstracts: 17134
+  acts: 1929
+  artifacts: 10325
+  attracts: 15918
+  bracts: 79044
+  cataracts: 37459
+  compacts: 49130
+  contacts: 6386
+  contracts: 3493
+  detracts: 70900
+  distracts: 72518
+  enacts: 56329
+  extracts: 10398
+  facts: 1424
+  impacts: 4838
+  interacts: 23757
+  pacts: 62792
+  reacts: 26416
+  retracts: 82356
+  subcontracts: 77067
+  subtracts: 94734
+  tracts: 16467
+scored_words:
+  counteracts: 110024
+  exacts: 109426
+  refracts: 265142
+  transacts: 219171
+not_scored_words:
+- Acts
+- abreacts
+- autodidacts
+- coacts
+- diffracts
+- infracts
+- overacts
+- overreacts
+- playacts
+- protracts
+- recontacts
+- redacts
+- reenacts
+- subcompacts
+- underacts

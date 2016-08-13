@@ -1,0 +1,41 @@
+---
+pattern: vo_e
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 31
+score: 1683089
+score_per_word: 84154
+hi_scored_words:
+  vogue: 13159
+  voice: 610
+  voile: 67251
+  voiture: 52310
+  volatile: 11705
+  vole: 47877
+  voltage: 14993
+  volume: 1075
+  vote: 1303
+  votive: 31928
+  voyage: 6133
+scored_words:
+  vocalize: 115802
+  vocative: 162095
+  voe: 120844
+  voidable: 115823
+  volatilize: 278691
+  voluble: 114124
+  volute: 155780
+  vouchsafe: 103038
+  vouge: 268548
+not_scored_words:
+- Vogue
+- Voltaire
+- Vorlage
+- vocable
+- vociferance
+- vociferate
+- voidance
+- volitive
+- volplane
+- vorticose
+- vowelize

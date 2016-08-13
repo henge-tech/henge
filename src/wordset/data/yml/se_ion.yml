@@ -1,0 +1,37 @@
+---
+pattern: se_ion
+hi_scored_words_count: 18
+scored_words_count: 0
+total_words: 27
+score: 457285
+score_per_word: 25404
+hi_scored_words:
+  secession: 26543
+  seclusion: 33943
+  secretion: 15204
+  section: 711
+  secularization: 87170
+  sedation: 31032
+  sedimentation: 26984
+  sedition: 33321
+  seduction: 20782
+  segmentation: 18345
+  segregation: 20955
+  selection: 1868
+  sensation: 7210
+  sensitization: 46621
+  separation: 4246
+  sequestration: 41610
+  serialization: 38776
+  session: 1964
+scored_words: {}
+not_scored_words:
+- Sezession
+- segmentalization
+- semination
+- sentimentalization
+- septillion
+- serration
+- serrulation
+- sexdecillion
+- sextillion

@@ -1,0 +1,30 @@
+---
+pattern: ine_able
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1179251
+score_per_word: 90711
+hi_scored_words:
+  ineffable: 50482
+  inequitable: 64978
+  inescapable: 39249
+  inestimable: 74506
+  inevitable: 6501
+  inexcusable: 55819
+  inexorable: 46565
+  inexplicable: 28582
+  inextricable: 95669
+scored_words:
+  ineffaceable: 181991
+  ineluctable: 159890
+  ineradicable: 131240
+  inextinguishable: 243779
+not_scored_words:
+- ineducable
+- inenarrable
+- inerasable
+- inerrable
+- inexpiable
+- inexpugnable
+- inextirpable

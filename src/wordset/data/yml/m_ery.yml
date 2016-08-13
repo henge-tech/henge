@@ -1,0 +1,30 @@
+---
+pattern: m_ery
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 662282
+score_per_word: 55190
+hi_scored_words:
+  machinery: 3930
+  mastery: 15376
+  midwifery: 27928
+  millinery: 64564
+  misery: 8083
+  mockery: 33556
+  monastery: 10549
+  mystery: 2425
+scored_words:
+  mesentery: 123492
+  microbrewery: 114747
+  microsurgery: 100194
+  mummery: 157438
+not_scored_words:
+- Margery
+- Montgomery
+- magistery
+- marquetery
+- missilery
+- monkery
+- mountebankery
+- mugwumpery

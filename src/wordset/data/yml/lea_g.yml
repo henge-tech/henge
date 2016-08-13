@@ -1,0 +1,25 @@
+---
+pattern: lea_g
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 15
+score: 708757
+score_per_word: 54519
+hi_scored_words:
+  leaching: 36090
+  leading: 1034
+  leaking: 21186
+  leaning: 8714
+  leapfrog: 33651
+  leaping: 21407
+  learning: 811
+  leasing: 16825
+  leaving: 1513
+scored_words:
+  leafing: 108159
+  leafleting: 179314
+  leapfrogging: 171485
+  leavening: 108568
+not_scored_words:
+- leaguing
+- leashing

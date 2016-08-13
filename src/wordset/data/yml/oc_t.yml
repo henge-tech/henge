@@ -1,0 +1,26 @@
+---
+pattern: oc_t
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 697187
+score_per_word: 63380
+hi_scored_words:
+  occident: 90993
+  occult: 15480
+  occupant: 20964
+  oceanfront: 45156
+  ocelot: 64755
+  oct: 7289
+  octet: 29050
+  oculist: 71693
+scored_words:
+  occiput: 120571
+  occultist: 104867
+  octant: 126369
+not_scored_words:
+- Occident
+- Oct
+- ochlocrat
+- octavalent
+- octuplet

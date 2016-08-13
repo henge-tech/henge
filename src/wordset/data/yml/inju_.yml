@@ -1,0 +1,31 @@
+---
+pattern: inju_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 21
+score: 1147251
+score_per_word: 71703
+hi_scored_words:
+  injunction: 14504
+  injunctions: 37946
+  injunctive: 58186
+  injure: 21677
+  injured: 4206
+  injures: 48579
+  injuries: 7524
+  injuring: 31754
+  injurious: 26886
+  injury: 2181
+  injustice: 10156
+  injustices: 42721
+scored_words:
+  injudicious: 162104
+  injudiciously: 169150
+  injurer: 327091
+  injuriously: 182586
+not_scored_words:
+- Injun
+- injudiciousness
+- injurers
+- injuriousness
+- injuriousnesses

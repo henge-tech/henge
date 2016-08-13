@@ -1,0 +1,30 @@
+---
+pattern: d_ue
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 20
+score: 809684
+score_per_word: 73607
+hi_scored_words:
+  decalogue: 99121
+  demagogue: 62255
+  dengue: 35990
+  devalue: 65965
+  dialogue: 4725
+  discontinue: 18721
+  discotheque: 72683
+  drogue: 83760
+  due: 505
+scored_words:
+  distingue: 177112
+  duologue: 188847
+not_scored_words:
+- Daliesque
+- Dantesque
+- Decalogue
+- Dominique
+- Donahue
+- Dubuque
+- detinue
+- disembogue
+- disvalue

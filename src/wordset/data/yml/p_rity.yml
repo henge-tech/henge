@@ -1,0 +1,23 @@
+---
+pattern: p_rity
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 747821
+score_per_word: 62318
+hi_scored_words:
+  parity: 14954
+  particularity: 66248
+  peculiarity: 42227
+  polarity: 27316
+  popularity: 4172
+  posterity: 24486
+  prematurity: 69516
+  priority: 6563
+  prosperity: 6739
+  purity: 8462
+scored_words:
+  perpendicularity: 313936
+  planarity: 163202
+not_scored_words:
+- posteriority

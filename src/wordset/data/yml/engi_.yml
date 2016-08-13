@@ -1,0 +1,22 @@
+---
+pattern: engi_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 12
+score: 148266
+score_per_word: 18533
+hi_scored_words:
+  engin: 58211
+  engine: 1658
+  engined: 55631
+  engineer: 3243
+  engineered: 18065
+  engineering: 3632
+  engineers: 4676
+  engines: 3150
+scored_words: {}
+not_scored_words:
+- engineman
+- engineries
+- enginery
+- engird

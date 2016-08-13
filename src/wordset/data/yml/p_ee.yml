@@ -1,0 +1,34 @@
+---
+pattern: p_ee
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 24
+score: 1619188
+score_per_word: 101199
+hi_scored_words:
+  patentee: 81139
+  payee: 40264
+  pedigree: 14621
+  pee: 8673
+  peewee: 53007
+  pensee: 72250
+  perigee: 62498
+  pharisee: 75674
+  protegee: 73216
+  puree: 37111
+scored_words:
+  parolee: 112287
+  pewee: 107494
+  pledgee: 259069
+  pongee: 289187
+  prithee: 106065
+  promisee: 226633
+not_scored_words:
+- Parsee
+- Pawnee
+- Pelee
+- Pharisee
+- permitee
+- puggree
+- purree
+- puttee

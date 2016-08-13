@@ -1,0 +1,39 @@
+---
+pattern: pr_ely
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 29
+score: 1879490
+score_per_word: 85431
+hi_scored_words:
+  precisely: 4823
+  predominately: 45298
+  prematurely: 23615
+  princely: 42428
+  privately: 7065
+  proactively: 41628
+  productively: 51290
+  profusely: 36434
+  progressively: 21070
+  prohibitively: 63397
+  proportionately: 40638
+  prospectively: 69390
+scored_words:
+  precipitately: 157177
+  predicatively: 239387
+  preemptively: 116845
+  preoperatively: 112656
+  presumptively: 112156
+  primitively: 241163
+  profanely: 103822
+  protectively: 128982
+  provocatively: 108997
+  proximately: 111229
+not_scored_words:
+- preclusively
+- prescriptively
+- pristinely
+- profligately
+- projectively
+- proprioceptively
+- proscriptively

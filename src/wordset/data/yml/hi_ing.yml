@@ -1,0 +1,32 @@
+---
+pattern: hi_ing
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 22
+score: 926719
+score_per_word: 61781
+hi_scored_words:
+  hibernating: 85666
+  hiding: 5997
+  highlighting: 13251
+  hijacking: 33342
+  hiking: 5837
+  hindering: 46197
+  hinting: 36837
+  hiring: 7691
+  hissing: 41989
+  hitchhiking: 62987
+  hitching: 61709
+  hitting: 7626
+scored_words:
+  hillwalking: 218328
+  hinging: 146146
+  hireling: 153116
+not_scored_words:
+- hiccoughing
+- hiccuping
+- hieing
+- higgling
+- hightailing
+- hipping
+- hiving

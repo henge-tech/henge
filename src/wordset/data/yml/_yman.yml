@@ -1,0 +1,43 @@
+---
+pattern: _yman
+hi_scored_words_count: 11
+scored_words_count: 10
+total_words: 33
+score: 2235068
+score_per_word: 106431
+hi_scored_words:
+  assemblyman: 42320
+  bogeyman: 80668
+  boogeyman: 65674
+  clergyman: 27376
+  countryman: 35435
+  everyman: 41120
+  handyman: 26233
+  highwayman: 78807
+  infantryman: 81554
+  journeyman: 30348
+  layman: 27731
+scored_words:
+  artilleryman: 114056
+  cavalryman: 176399
+  dairyman: 158195
+  deliveryman: 245674
+  drayman: 278473
+  ferryman: 109499
+  funnyman: 174465
+  juryman: 158687
+  laundryman: 111091
+  nurseryman: 171263
+not_scored_words:
+- Cayman
+- Everyman
+- Lyman
+- bogyman
+- flyman
+- groceryman
+- liveryman
+- poultryman
+- railwayman
+- tallyman
+- vestryman
+- wherryman

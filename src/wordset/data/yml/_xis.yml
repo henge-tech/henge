@@ -1,0 +1,48 @@
+---
+pattern: _xis
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 38
+score: 688541
+score_per_word: 62594
+hi_scored_words:
+  anaphylaxis: 51201
+  axis: 5636
+  chemotaxis: 67503
+  lexis: 32992
+  maxis: 50606
+  praxis: 29698
+  prophylaxis: 30014
+  taxis: 16726
+scored_words:
+  chemoprophylaxis: 151703
+  epistaxis: 102630
+  xis: 149832
+not_scored_words:
+- Alexis
+- Axis
+- Biloxis
+- Nexis
+- Pyxis
+- Zeuxis
+- amphimixis
+- anaptyxis
+- anticathexis
+- apomixis
+- cathexis
+- geotaxis
+- heliotaxis
+- heterotaxis
+- homotaxis
+- hydrotaxis
+- hypotaxis
+- hypozeuxis
+- parataxis
+- phototaxis
+- phyllotaxis
+- pseudaxis
+- rheotaxis
+- stereotaxis
+- tachyphylaxis
+- thermotaxis
+- thigmotaxis

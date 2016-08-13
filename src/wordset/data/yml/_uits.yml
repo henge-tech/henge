@@ -1,0 +1,41 @@
+---
+pattern: _uits
+hi_scored_words_count: 12
+scored_words_count: 12
+total_words: 31
+score: 2613283
+score_per_word: 108886
+hi_scored_words:
+  biscuits: 14686
+  circuits: 10406
+  conduits: 41208
+  fruits: 4606
+  lawsuits: 16060
+  pursuits: 17111
+  quits: 23551
+  recruits: 14715
+  suits: 5247
+  swimsuits: 38838
+  tracksuits: 72653
+  wetsuits: 52271
+scored_words:
+  acquits: 199471
+  bodysuits: 131640
+  bruits: 188994
+  catsuits: 195635
+  grapefruits: 158846
+  jumpsuits: 106956
+  microcircuits: 161321
+  pantsuits: 274745
+  playsuits: 150843
+  snowsuits: 267747
+  spacesuits: 199513
+  sweatsuits: 266220
+not_scored_words:
+- Inuits
+- Jesuits
+- breadfruits
+- intuits
+- jackfruits
+- kiwifruits
+- sunsuits

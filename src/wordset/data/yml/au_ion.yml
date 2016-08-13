@@ -1,0 +1,25 @@
+---
+pattern: au_ion
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 788127
+score_per_word: 78812
+hi_scored_words:
+  auction: 4371
+  audition: 12657
+  augmentation: 18687
+  auscultation: 83915
+  authentication: 10579
+  authorization: 13244
+  autocorrelation: 48678
+  automation: 5757
+scored_words:
+  automatization: 291650
+  autoxidation: 298589
+not_scored_words:
+- Audion
+- autointoxication
+- autoionization
+- autorotation
+- autosuggestion

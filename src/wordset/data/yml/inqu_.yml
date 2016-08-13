@@ -1,0 +1,36 @@
+---
+pattern: inqu_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 26
+score: 1407432
+score_per_word: 70371
+hi_scored_words:
+  inquest: 28361
+  inquire: 7016
+  inquired: 15111
+  inquirer: 26171
+  inquires: 42728
+  inquiries: 5813
+  inquiring: 22827
+  inquiry: 3120
+  inquisition: 23195
+  inquisitive: 30872
+  inquisitively: 89937
+  inquisitor: 44084
+  inquisitors: 99888
+scored_words:
+  inquests: 119239
+  inquietude: 143060
+  inquirers: 109033
+  inquiringly: 166484
+  inquisitions: 167864
+  inquisitiveness: 128204
+  inquisitorial: 134425
+not_scored_words:
+- Inquisition
+- inquiline
+- inquisitional
+- inquisitionist
+- inquisitorially
+- inquorate

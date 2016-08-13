@@ -1,0 +1,35 @@
+---
+pattern: ree_d
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 25
+score: 1861001
+score_per_word: 132928
+hi_scored_words:
+  reed: 5715
+  reelected: 52891
+  reeled: 62455
+  reenacted: 82389
+  reentered: 96669
+  reestablished: 66672
+  reevaluated: 95288
+  reexamined: 91972
+scored_words:
+  reefed: 217871
+  reeked: 115081
+  reemerged: 176331
+  reemphasized: 306002
+  reemployed: 210305
+  reenlisted: 281360
+not_scored_words:
+- Reed
+- reechoed
+- reedbird
+- reedited
+- reeducated
+- reembarked
+- reembodied
+- reengaged
+- reequipped
+- reexplained
+- reexported

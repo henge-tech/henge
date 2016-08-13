@@ -1,0 +1,33 @@
+---
+pattern: ma_ty
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 23
+score: 1229474
+score_per_word: 72322
+hi_scored_words:
+  magnanimity: 72370
+  maintainability: 64949
+  majesty: 7425
+  majority: 1784
+  manageability: 80438
+  maneuverability: 62966
+  marketability: 68103
+  masculinity: 35774
+  materiality: 57203
+  maternity: 11782
+  maturity: 8098
+scored_words:
+  maggoty: 118818
+  malignity: 145740
+  malleability: 130292
+  malty: 111022
+  marginality: 117008
+  mayoralty: 135702
+not_scored_words:
+- Majesty
+- Marty
+- magnetoelectricity
+- manipulability
+- marriageability
+- matrilineality

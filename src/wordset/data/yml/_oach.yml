@@ -1,0 +1,24 @@
+---
+pattern: _oach
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 14
+score: 380066
+score_per_word: 38006
+hi_scored_words:
+  approach: 949
+  broach: 51195
+  coach: 2151
+  cockroach: 37076
+  encroach: 55716
+  loach: 67347
+  poach: 78214
+  reproach: 25178
+  roach: 23019
+  stagecoach: 39221
+scored_words: {}
+not_scored_words:
+- Roach
+- abroach
+- accroach
+- slowcoach

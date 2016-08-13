@@ -1,0 +1,34 @@
+---
+pattern: m_th
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 24
+score: 768925
+score_per_word: 54923
+hi_scored_words:
+  mammoth: 17028
+  math: 8679
+  megalith: 78186
+  meth: 16245
+  millionth: 50431
+  mirth: 29361
+  monolith: 37906
+  monteith: 69067
+  month: 488
+  moth: 13697
+  mouth: 1587
+  myth: 7104
+scored_words:
+  megadeath: 292745
+  motormouth: 146401
+not_scored_words:
+- Macbeth
+- Meath
+- Meredith
+- Monmouth
+- matzoth
+- mezuzoth
+- microlith
+- mikvoth
+- mitzvoth
+- musth

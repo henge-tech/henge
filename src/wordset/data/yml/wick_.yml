@@ -1,0 +1,30 @@
+---
+pattern: wick_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1017159
+score_per_word: 78243
+hi_scored_words:
+  wick: 20413
+  wicked: 4703
+  wickedly: 46634
+  wickedness: 24517
+  wicker: 19246
+  wicket: 19980
+  wickets: 33789
+  wicks: 39045
+scored_words:
+  wickedest: 224919
+  wickers: 152515
+  wickerwork: 181024
+  wicketkeeper: 141697
+  wickiup: 108677
+not_scored_words:
+- Wick
+- Wickliffe
+- Wicklow
+- wickeder
+- wicketkeepers
+- wicketkeeping
+- wickiups

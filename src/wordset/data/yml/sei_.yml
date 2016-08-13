@@ -1,0 +1,66 @@
+---
+pattern: sei_
+hi_scored_words_count: 14
+scored_words_count: 18
+total_words: 56
+score: 4214184
+score_per_word: 131693
+hi_scored_words:
+  seigneur: 58807
+  seine: 15907
+  seiner: 57677
+  seismic: 15378
+  seismicity: 76138
+  seismograph: 94953
+  seismological: 90794
+  seismology: 61764
+  seize: 10178
+  seized: 6537
+  seizes: 44698
+  seizing: 23150
+  seizure: 12186
+  seizures: 20037
+scored_words:
+  seicento: 179424
+  seigneurs: 170325
+  seignior: 109032
+  seigniorage: 180592
+  seigniors: 304090
+  seiners: 283184
+  seines: 103085
+  seining: 250269
+  seism: 317159
+  seismically: 146899
+  seismogram: 198213
+  seismographic: 287156
+  seismographs: 208754
+  seismologist: 172453
+  seismologists: 158208
+  seismometer: 170898
+  seismometers: 215912
+  seitan: 170327
+not_scored_words:
+- Seiko
+- Seine
+- Seinfeld
+- seigneurial
+- seigneuries
+- seigneury
+- seigniorages
+- seigniorial
+- seigniory
+- seined
+- seise
+- seismical
+- seismism
+- seismographer
+- seismographers
+- seismography
+- seismologic
+- seismoscope
+- seisms
+- seizable
+- seizer
+- seizers
+- seizin
+- seizings

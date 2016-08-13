@@ -1,0 +1,32 @@
+---
+pattern: cou_r
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1199310
+score_per_word: 79954
+hi_scored_words:
+  cougar: 25671
+  couloir: 98539
+  coulter: 19960
+  councilor: 35015
+  counselor: 14212
+  counter: 2826
+  coupler: 33878
+  courier: 7428
+  courtier: 50033
+  couturier: 59497
+scored_words:
+  counterfeiter: 232653
+  counteroffer: 104674
+  countertenor: 155853
+  courser: 128129
+  courter: 230942
+not_scored_words:
+- Coulter
+- Counselor
+- coulometer
+- countenancer
+- courtlier
+- couther
+- couthier

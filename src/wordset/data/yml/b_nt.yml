@@ -1,0 +1,71 @@
+---
+pattern: b_nt
+hi_scored_words_count: 24
+scored_words_count: 12
+total_words: 61
+score: 3219207
+score_per_word: 89422
+hi_scored_words:
+  ballpoint: 42412
+  banishment: 55078
+  basement: 7499
+  battlefront: 30383
+  beachfront: 34799
+  belligerent: 35973
+  beneficent: 58344
+  benevolent: 18080
+  bent: 5167
+  bereavement: 24068
+  betterment: 41144
+  bewilderment: 46781
+  blackcurrant: 83186
+  blatant: 23531
+  blueprint: 17615
+  blunt: 8400
+  bombardment: 28046
+  brant: 29588
+  brent: 10866
+  brilliant: 2982
+  brunt: 33731
+  bunt: 41772
+  buoyant: 29155
+  burnt: 7144
+scored_words:
+  bafflement: 225766
+  bailment: 206646
+  battement: 230638
+  battlement: 129928
+  befuddlement: 321098
+  bemusement: 153518
+  benignant: 183194
+  birefringent: 175022
+  bivalent: 137287
+  bluepoint: 286323
+  bouffant: 157029
+  breakfront: 297014
+not_scored_words:
+- Beaumont
+- Belmont
+- Besant
+- BitTorrent
+- Brabant
+- Brant
+- Brent
+- Bryant
+- babblement
+- bacchant
+- ballottement
+- bamboozlement
+- bant
+- bedazzlement
+- bedevilment
+- beguilement
+- belittlement
+- bequeathment
+- besprent
+- bewitchment
+- bezant
+- bipropellant
+- blandishment
+- bondservant
+- bouleversement

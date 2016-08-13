@@ -1,0 +1,23 @@
+---
+pattern: adv_e
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 394592
+score_per_word: 35872
+hi_scored_words:
+  advance: 1339
+  advantage: 1433
+  adventure: 2153
+  adverse: 5775
+  advertise: 6556
+  advice: 947
+  advisable: 22400
+  advise: 4785
+  advocate: 5683
+scored_words:
+  adventuresome: 135657
+  advisee: 207864
+not_scored_words:
+- adversative
+- advertence

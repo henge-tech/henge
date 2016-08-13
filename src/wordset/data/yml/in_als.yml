@@ -1,0 +1,27 @@
+---
+pattern: in_als
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 17
+score: 687868
+score_per_word: 52912
+hi_scored_words:
+  inaugurals: 49709
+  incidentals: 78380
+  individuals: 1631
+  industrials: 58994
+  infomercials: 69775
+  initials: 16160
+  instrumentals: 32767
+  integrals: 31540
+  intellectuals: 25987
+  internals: 32518
+  internationals: 31402
+  intervals: 5664
+scored_words:
+  invitationals: 253341
+not_scored_words:
+- Internationals
+- inessentials
+- infinitesimals
+- intercostals

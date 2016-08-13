@@ -1,0 +1,31 @@
+---
+pattern: del_y
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 957818
+score_per_word: 79818
+hi_scored_words:
+  delay: 2405
+  deliberately: 8057
+  delicacy: 25135
+  delicately: 28299
+  deliciously: 40149
+  delightfully: 35178
+  delinquency: 26135
+  delivery: 2526
+scored_words:
+  delectably: 327628
+  delightedly: 165488
+  deliriously: 132311
+  deliverability: 164507
+not_scored_words:
+- Delaney
+- Delaunay
+- delectability
+- delegacy
+- deleteriously
+- deliberatively
+- delinquently
+- deludedly
+- delusively

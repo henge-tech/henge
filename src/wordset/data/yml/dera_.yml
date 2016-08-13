@@ -1,0 +1,31 @@
+---
+pattern: dera_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 958524
+score_per_word: 87138
+hi_scored_words:
+  derail: 45188
+  derailed: 35002
+  derailleur: 60482
+  derailment: 71798
+  derails: 94498
+  derange: 86920
+  deranged: 32871
+  derangement: 83221
+scored_words:
+  derailing: 124402
+  derailleurs: 100894
+  derailments: 223248
+not_scored_words:
+- Derain
+- deracinate
+- deracinated
+- deracinates
+- deracinating
+- deracination
+- deraign
+- deranges
+- deranging
+- deration

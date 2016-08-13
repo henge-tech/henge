@@ -1,0 +1,32 @@
+---
+pattern: pote_
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 22
+score: 1588777
+score_per_word: 83619
+hi_scored_words:
+  potency: 20354
+  potent: 10595
+  potentate: 73836
+  potential: 3490
+  potentialities: 69761
+  potentiality: 71222
+  potentially: 10951
+  potentials: 15588
+  potentiation: 66887
+  potentiometer: 56358
+  potentiometers: 83509
+scored_words:
+  poteen: 140410
+  potentates: 155456
+  potentiate: 114294
+  potentiated: 115413
+  potentiates: 140910
+  potentiating: 191089
+  potentilla: 107495
+  potently: 141159
+not_scored_words:
+- Potemkin
+- poteens
+- potence

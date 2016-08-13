@@ -1,0 +1,39 @@
+---
+pattern: pr_ates
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 29
+score: 1663900
+score_per_word: 118850
+hi_scored_words:
+  precipitates: 63806
+  predates: 60154
+  predicates: 30328
+  predominates: 70299
+  prelates: 83483
+  primates: 23342
+  privates: 41568
+  propagates: 56385
+  protectorates: 84326
+scored_words:
+  preponderates: 278515
+  probates: 266576
+  proliferates: 204677
+  promulgates: 163219
+  prostates: 237222
+not_scored_words:
+- prates
+- predesignates
+- predestinates
+- prefabricates
+- premeditates
+- prevaricates
+- proconsulates
+- procrastinates
+- procreates
+- profligates
+- prognosticates
+- pronates
+- propitiates
+- prorates
+- prostrates

@@ -1,0 +1,46 @@
+---
+pattern: c_nd
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 36
+score: 2188372
+score_per_word: 99471
+hi_scored_words:
+  campground: 18706
+  colorblind: 81833
+  command: 905
+  commend: 23642
+  compound: 5080
+  comprehend: 12469
+  condescend: 86412
+  confound: 37758
+  contend: 15466
+  contraband: 30135
+  correspond: 8922
+  cropland: 58071
+scored_words:
+  casebound: 233075
+  clothbound: 194958
+  cloudland: 269038
+  clubland: 117678
+  coastland: 266922
+  coonhound: 102881
+  countermand: 188523
+  cowhand: 226412
+  crosswind: 102505
+  cummerbund: 106981
+not_scored_words:
+- Chateaubriand
+- Christiansand
+- Cleveland
+- Copeland
+- Copland
+- Cortland
+- Courland
+- Cumberland
+- cabstand
+- candlestand
+- coextend
+- confirmand
+- cowbind
+- crowdfund

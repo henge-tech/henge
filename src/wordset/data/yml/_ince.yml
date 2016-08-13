@@ -1,0 +1,20 @@
+---
+pattern: _ince
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 179779
+score_per_word: 22472
+hi_scored_words:
+  convince: 6594
+  evince: 61990
+  mince: 33645
+  prince: 1701
+  province: 2330
+  quince: 40557
+  since: 184
+  wince: 32778
+scored_words: {}
+not_scored_words:
+- Prince
+- Vince

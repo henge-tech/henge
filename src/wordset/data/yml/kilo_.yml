@@ -1,0 +1,35 @@
+---
+pattern: kilo_
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 25
+score: 2309812
+score_per_word: 121569
+hi_scored_words:
+  kilo: 33513
+  kilobytes: 62144
+  kilogram: 32018
+  kilograms: 26819
+  kilometer: 31007
+  kilometers: 13339
+  kilos: 37735
+  kilowatt: 36987
+  kilowatts: 71841
+scored_words:
+  kilobit: 281641
+  kilobits: 144009
+  kilobyte: 112860
+  kilocalories: 214924
+  kilohertz: 172172
+  kilojoules: 172558
+  kiloton: 184295
+  kilotons: 194757
+  kilovolt: 220124
+  kilovolts: 267069
+not_scored_words:
+- kilocalorie
+- kilocycle
+- kilocycles
+- kiloliter
+- kiloliters
+- kilometric

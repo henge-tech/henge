@@ -1,0 +1,27 @@
+---
+pattern: ent_d
+hi_scored_words_count: 17
+scored_words_count: 0
+total_words: 17
+score: 772051
+score_per_word: 45414
+hi_scored_words:
+  entailed: 35818
+  entangled: 29719
+  entered: 1626
+  entertained: 11528
+  enthralled: 50068
+  enthroned: 64693
+  enthused: 62125
+  enticed: 54846
+  entitled: 2714
+  entombed: 61287
+  entrained: 87206
+  entranced: 59403
+  entrapped: 78388
+  entreated: 76979
+  entrenched: 26955
+  entrusted: 15700
+  entwined: 52996
+scored_words: {}
+not_scored_words: []

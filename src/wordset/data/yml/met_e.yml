@@ -1,0 +1,49 @@
+---
+pattern: met_e
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 39
+score: 2369659
+score_per_word: 98735
+hi_scored_words:
+  metabolite: 38403
+  metabolize: 88094
+  metalware: 85244
+  metaphase: 80860
+  metastable: 65184
+  mete: 59910
+  meteorite: 29040
+  methacrylate: 68750
+  methadone: 25353
+  methamphetamine: 29949
+  methane: 17759
+  methionine: 35820
+  methotrexate: 44752
+  methylene: 41070
+  metronome: 39595
+  mettle: 45869
+scored_words:
+  metalanguage: 144309
+  metamorphose: 118870
+  metastasize: 151969
+  methaqualone: 245427
+  methenamine: 239613
+  methylamine: 163083
+  methylnaphthalene: 273670
+  mettlesome: 237066
+not_scored_words:
+- Metairie
+- Methedrine
+- metage
+- metalize
+- metalline
+- metallophone
+- metaphosphate
+- metaphrase
+- metathesize
+- meterage
+- methodize
+- metope
+- metricate
+- metricize
+- metropolitanate

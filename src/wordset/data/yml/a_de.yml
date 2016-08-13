@@ -1,0 +1,60 @@
+---
+pattern: a_de
+hi_scored_words_count: 25
+scored_words_count: 8
+total_words: 50
+score: 2378267
+score_per_word: 72068
+hi_scored_words:
+  abide: 8125
+  abode: 14886
+  accede: 48237
+  accolade: 39243
+  acetaldehyde: 62715
+  acrylamide: 70022
+  aide: 12208
+  alcaide: 80807
+  alcalde: 84562
+  aldehyde: 42535
+  allemande: 88856
+  allude: 45838
+  alongside: 6422
+  altitude: 8717
+  amide: 45580
+  amplitude: 15323
+  anhydride: 50188
+  anode: 27094
+  aptitude: 19926
+  arcade: 9898
+  arsenide: 83276
+  aside: 2767
+  astride: 48762
+  attitude: 2786
+  azide: 68072
+scored_words:
+  abrade: 178100
+  acetamide: 198635
+  actinide: 121913
+  alidade: 134154
+  ambuscade: 176383
+  antipode: 150134
+  aquacade: 330106
+  aubade: 101997
+not_scored_words:
+- Adelaide
+- Allende
+- Allhallowtide
+- Aude
+- aborticide
+- acaricide
+- acetanilide
+- acetylide
+- acnode
+- aggrade
+- algicide
+- aliunde
+- antecede
+- anticathode
+- antinode
+- arillode
+- autocade

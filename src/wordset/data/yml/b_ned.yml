@@ -1,0 +1,40 @@
+---
+pattern: b_ned
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 30
+score: 2056898
+score_per_word: 93495
+hi_scored_words:
+  banned: 13185
+  bargained: 46036
+  beckoned: 57171
+  binned: 80029
+  blackened: 29067
+  bloodstained: 99942
+  boned: 46034
+  brained: 66871
+  brightened: 47783
+  broadened: 31144
+  browned: 41093
+  burdened: 30791
+  burned: 5147
+  buttoned: 41724
+scored_words:
+  ballooned: 101059
+  battened: 228217
+  bedizened: 243964
+  bemoaned: 111353
+  betokened: 235987
+  blazoned: 147144
+  bludgeoned: 125023
+  burgeoned: 228134
+not_scored_words:
+- bastioned
+- beaned
+- birdbrained
+- bourgeoned
+- brazened
+- bulletined
+- burthened
+- buskined

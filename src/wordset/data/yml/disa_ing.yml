@@ -1,0 +1,30 @@
+---
+pattern: disa_ing
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1784873
+score_per_word: 137297
+hi_scored_words:
+  disabling: 25244
+  disagreeing: 44924
+  disallowing: 90795
+  disappearing: 17685
+  disappointing: 12587
+  disapproving: 65526
+  disarming: 49756
+  disassembling: 98518
+scored_words:
+  disadvantaging: 268429
+  disambiguating: 282434
+  disarranging: 290269
+  disassociating: 292234
+  disavowing: 246472
+not_scored_words:
+- disabusing
+- disaccording
+- disaffecting
+- disaffiliating
+- disafforesting
+- disarraying
+- disarticulating

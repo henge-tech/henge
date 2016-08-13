@@ -1,0 +1,85 @@
+---
+pattern: asp_
+hi_scored_words_count: 29
+scored_words_count: 17
+total_words: 75
+score: 4569413
+score_per_word: 99335
+hi_scored_words:
+  asp: 7085
+  asparagine: 87536
+  asparagus: 20305
+  aspartame: 46357
+  aspect: 2775
+  aspects: 3271
+  aspen: 15547
+  aspergillosis: 98827
+  aspergillus: 45589
+  aspersions: 93330
+  asphalt: 16490
+  asphyxia: 64683
+  asphyxiate: 82950
+  asphyxiation: 81568
+  aspic: 99569
+  aspidistra: 65796
+  aspirant: 57463
+  aspirants: 77129
+  aspirate: 71121
+  aspirated: 62072
+  aspiration: 17273
+  aspirational: 84896
+  aspirations: 17253
+  aspire: 12554
+  aspired: 58917
+  aspires: 51701
+  aspirin: 16613
+  aspiring: 17689
+  asps: 71848
+scored_words:
+  aspectual: 131076
+  aspens: 103086
+  asper: 106435
+  asperities: 233843
+  asperity: 161608
+  aspers: 290013
+  aspersion: 185895
+  asphalted: 293111
+  asphaltic: 116528
+  asphalts: 225758
+  asphodel: 123679
+  asphyxiated: 189512
+  asphyxiating: 234522
+  aspirates: 151090
+  aspirating: 212495
+  aspirator: 137433
+  aspirins: 225122
+not_scored_words:
+- ASPCA
+- Aspasia
+- Aspell
+- Aspen
+- Asperger
+- Asperges
+- Aspidiske
+- Aspinwall
+- asparagines
+- aspergilloses
+- aspergillum
+- asperse
+- aspersed
+- asperses
+- aspersing
+- aspersorium
+- asphalting
+- asphaltite
+- asphaltum
+- asphodels
+- asphyxiant
+- asphyxiates
+- asphyxiations
+- asphyxiator
+- aspics
+- aspidistras
+- aspirators
+- aspirer
+- aspiringly

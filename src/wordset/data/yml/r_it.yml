@@ -1,0 +1,31 @@
+---
+pattern: r_it
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 21
+score: 1317529
+score_per_word: 82345
+hi_scored_words:
+  rabbit: 5474
+  recommit: 90351
+  recruit: 9968
+  refit: 56354
+  remit: 20142
+  resubmit: 29456
+  retransmit: 95218
+  retrofit: 35775
+  revisit: 21830
+  ringgit: 55896
+  rit: 35807
+  rootkit: 59465
+scored_words:
+  rarebit: 148937
+  readmit: 285526
+  redeposit: 259756
+  resit: 107574
+not_scored_words:
+- REIT
+- reedit
+- reexhibit
+- reknit
+- reposit

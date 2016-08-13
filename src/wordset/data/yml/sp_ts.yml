@@ -1,0 +1,48 @@
+---
+pattern: sp_ts
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 38
+score: 2021234
+score_per_word: 84218
+hi_scored_words:
+  spats: 95238
+  specialists: 8619
+  spirits: 3682
+  spits: 41191
+  splints: 51412
+  splits: 18704
+  sports: 5068
+  spotlights: 31432
+  spots: 4311
+  spouts: 63373
+  spreadsheets: 24481
+  sprints: 38074
+  sprockets: 60044
+  sprouts: 28624
+  spurts: 67004
+scored_words:
+  spacecrafts: 200714
+  spacesuits: 199513
+  spambots: 127765
+  speedboats: 154328
+  spigots: 133278
+  spikelets: 114068
+  spiritualists: 109559
+  splats: 157962
+  sprits: 282790
+not_scored_words:
+- spaceflights
+- spaceports
+- speleologists
+- spendthrifts
+- spiderworts
+- spindrifts
+- spinets
+- spinnerets
+- spirants
+- spleenworts
+- spoilsports
+- spoondrifts
+- sportscasts
+- sprats

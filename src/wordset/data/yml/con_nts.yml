@@ -1,0 +1,32 @@
+---
+pattern: con_nts
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 22
+score: 1189411
+score_per_word: 59470
+hi_scored_words:
+  condiments: 36848
+  confronts: 30030
+  consents: 34097
+  consignments: 66377
+  consonants: 37107
+  constants: 11720
+  constituents: 11670
+  constraints: 5053
+  consultants: 4294
+  contaminants: 15749
+  contents: 1556
+  contestants: 23600
+  continents: 12796
+  contingents: 79329
+  convents: 72404
+scored_words:
+  concomitants: 129218
+  confidants: 149165
+  confinements: 228040
+  congregants: 108590
+  convalescents: 131768
+not_scored_words:
+- conferments
+- continuants

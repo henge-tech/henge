@@ -1,0 +1,52 @@
+---
+pattern: l_is
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 42
+score: 2267179
+score_per_word: 119325
+hi_scored_words:
+  laryngitis: 71774
+  leis: 63814
+  leishmaniasis: 74970
+  lewis: 2876
+  lexis: 32992
+  lis: 22544
+  loris: 47546
+  louis: 1348
+  lysis: 44802
+scored_words:
+  laminitis: 164355
+  lanais: 262249
+  lenis: 110555
+  leptospirosis: 104526
+  lipolysis: 123149
+  lithiasis: 327034
+  lordosis: 139887
+  lychnis: 250009
+  lymphadenitis: 166272
+  lymphocytosis: 256477
+not_scored_words:
+- Lachesis
+- Laoighis
+- Leavis
+- Levis
+- Lewis
+- Locris
+- Lois
+- Loreleis
+- Louis
+- Luis
+- Lyonnais
+- lathis
+- lazulis
+- lenticularis
+- leucocytosis
+- leucopoiesis
+- linguinis
+- litchis
+- loaiasis
+- lumbricalis
+- lungis
+- lweis
+- lymphangitis

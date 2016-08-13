@@ -1,0 +1,25 @@
+---
+pattern: spa_e
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 928447
+score_per_word: 84404
+hi_scored_words:
+  space: 541
+  spade: 15375
+  spake: 22709
+  spangle: 85736
+  spare: 3554
+  sparkle: 13930
+  sparse: 18218
+  spate: 40311
+scored_words:
+  spaetzle: 294491
+  sparge: 159661
+  spathe: 273921
+not_scored_words:
+- Spackle
+- spae
+- sparteine
+- spathose

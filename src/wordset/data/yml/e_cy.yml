@@ -1,0 +1,29 @@
+---
+pattern: e_cy
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 551988
+score_per_word: 50180
+hi_scored_words:
+  efficacy: 9599
+  efficiency: 3612
+  emergency: 3874
+  equivalency: 39878
+  excellency: 22529
+  exigency: 80266
+  expectancy: 14173
+  expediency: 46633
+scored_words:
+  effeminacy: 109488
+  ency: 111931
+  episcopacy: 110005
+not_scored_words:
+- Eurocurrency
+- Excellency
+- ebulliency
+- elegancy
+- errancy
+- eustacy
+- excrescency
+- extravagancy

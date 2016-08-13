@@ -1,0 +1,25 @@
+---
+pattern: cr_al
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 15
+score: 389690
+score_per_word: 38969
+hi_scored_words:
+  cranial: 32209
+  craniofacial: 58879
+  credential: 29701
+  criminal: 1984
+  critical: 1579
+  crucial: 7906
+  crural: 83021
+  crustal: 47732
+  crystal: 3194
+scored_words:
+  criminological: 123485
+not_scored_words:
+- Crystal
+- craal
+- creatural
+- criterial
+- cryptanalytical

@@ -1,0 +1,43 @@
+---
+pattern: hem_s
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 33
+score: 1848311
+score_per_word: 123220
+hi_scored_words:
+  hematologists: 84936
+  hemispheres: 45280
+  hemodialysis: 46411
+  hemolysis: 77158
+  hemorrhages: 92071
+  hemorrhoids: 42040
+  hemostasis: 73653
+  hems: 75628
+scored_words:
+  hemangiomas: 142676
+  hematogenous: 243845
+  hematomas: 157244
+  hematopoiesis: 109057
+  hemlines: 294959
+  hemlocks: 165248
+  hemophiliacs: 198105
+not_scored_words:
+- Hemings
+- hematites
+- hematogenesis
+- hematosis
+- hematurias
+- hemeralopias
+- hemicranias
+- hemicycles
+- hemidemisemiquavers
+- hemimorphites
+- hemiplegias
+- hemipodes
+- hemipterous
+- hemmers
+- hemodialyses
+- hemolyses
+- hemostats
+- hemstitches

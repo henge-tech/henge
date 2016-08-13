@@ -1,0 +1,32 @@
+---
+pattern: h_hy
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 22
+score: 866665
+score_per_word: 86666
+hi_scored_words:
+  hagiography: 99031
+  healthy: 2212
+  hierarchy: 9098
+  historiography: 39702
+  holography: 72147
+  homeopathy: 26115
+  hydrography: 70933
+  hypertrophy: 33441
+scored_words:
+  heathy: 213083
+  hydropathy: 300903
+not_scored_words:
+- Horthy
+- hagiarchy
+- haplography
+- headachy
+- heliography
+- heptarchy
+- herniorrhaphy
+- heterography
+- heterotrophy
+- hexarchy
+- hyetography
+- hypsography

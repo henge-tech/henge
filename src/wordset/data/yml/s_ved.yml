@@ -1,0 +1,29 @@
+---
+pattern: s_ved
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 19
+score: 613957
+score_per_word: 47227
+hi_scored_words:
+  saved: 2012
+  served: 1385
+  shaved: 6653
+  shelved: 42334
+  shoved: 25131
+  slaved: 82606
+  sleeved: 27384
+  solved: 6521
+  starved: 27682
+  survived: 7202
+  swerved: 73830
+scored_words:
+  sieved: 136015
+  staved: 175202
+not_scored_words:
+- salved
+- sheaved
+- shrived
+- skived
+- skydived
+- subserved

@@ -1,0 +1,27 @@
+---
+pattern: e_sive
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 17
+score: 689115
+score_per_word: 53008
+hi_scored_words:
+  effusive: 80552
+  elusive: 16093
+  erosive: 85564
+  evasive: 33196
+  excessive: 5446
+  exclusive: 2925
+  expansive: 20467
+  expensive: 3220
+  explosive: 9868
+  expressive: 12739
+  extensive: 2608
+scored_words:
+  emissive: 150004
+  extrusive: 266433
+not_scored_words:
+- emulsive
+- essive
+- excursive
+- expulsive

@@ -1,0 +1,43 @@
+---
+pattern: _ply
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 33
+score: 1032059
+score_per_word: 46911
+hi_scored_words:
+  amply: 32847
+  apply: 1055
+  cheaply: 27542
+  comply: 3691
+  crisply: 96766
+  deeply: 3832
+  haply: 79249
+  imply: 7656
+  multiply: 10935
+  oversupply: 91992
+  panoply: 68546
+  ply: 17749
+  reapply: 50534
+  reply: 654
+  resupply: 65084
+  sharply: 8634
+  simply: 778
+  steeply: 46915
+  supply: 1035
+scored_words:
+  limply: 106370
+  pimply: 173123
+  triply: 137072
+not_scored_words:
+- counterreply
+- crumply
+- damply
+- dimply
+- misapply
+- plumply
+- preapply
+- quadruply
+- ripply
+- rumply
+- sextuply

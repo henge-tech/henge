@@ -1,0 +1,37 @@
+---
+pattern: qui_e
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 27
+score: 2213159
+score_per_word: 100598
+hi_scored_words:
+  quibble: 40378
+  quiche: 44494
+  quickie: 33177
+  quiescence: 94707
+  quietude: 68142
+  quince: 40557
+  quine: 55221
+  quinidine: 84590
+  quinine: 44967
+  quinone: 93108
+  quinte: 88827
+  quintessence: 47470
+  quintile: 62226
+  quintuple: 94237
+  quire: 62160
+  quite: 566
+scored_words:
+  quickfire: 136100
+  quicklime: 158107
+  quiesce: 318697
+  quinacrine: 203811
+  quinze: 142423
+  quittance: 299194
+not_scored_words:
+- Quixote
+- quinate
+- quinquepartite
+- quinquereme
+- quintuplicate

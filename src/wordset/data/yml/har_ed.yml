@@ -1,0 +1,31 @@
+---
+pattern: har_ed
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 21
+score: 1365541
+score_per_word: 97538
+hi_scored_words:
+  harassed: 25359
+  harbored: 64965
+  hardened: 13737
+  hardwired: 48305
+  harmed: 20048
+  harmonized: 40624
+  harnessed: 43738
+  harried: 59634
+  harvested: 17532
+scored_words:
+  harangued: 181237
+  hardheaded: 155982
+  harebrained: 240790
+  harped: 218829
+  harrowed: 234761
+not_scored_words:
+- hardhearted
+- hared
+- harelipped
+- harked
+- harpooned
+- harrumphed
+- harshened

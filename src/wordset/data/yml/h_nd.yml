@@ -1,0 +1,47 @@
+---
+pattern: h_nd
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 37
+score: 1120002
+score_per_word: 58947
+hi_scored_words:
+  hand: 277
+  handstand: 90739
+  hardbound: 81382
+  headband: 30275
+  headland: 39778
+  headwind: 90556
+  heartland: 18893
+  heathland: 83602
+  highland: 7769
+  hind: 22909
+  hinterland: 40679
+  homeland: 9064
+  hound: 12083
+  humankind: 31798
+  husband: 1484
+scored_words:
+  hellhound: 168969
+  hidebound: 166842
+  horehound: 110163
+  housebound: 112740
+not_scored_words:
+- Hammond
+- Harland
+- Helgoland
+- Heligoland
+- Helmand
+- Highland
+- Hildebrand
+- Hind
+- Holland
+- Hond
+- hairband
+- hardstand
+- hatband
+- hatstand
+- headstand
+- hoarhound
+- hoofbound
+- househusband

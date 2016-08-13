@@ -1,0 +1,31 @@
+---
+pattern: m_ad
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 21
+score: 535116
+score_per_word: 48646
+hi_scored_words:
+  mad: 2119
+  maidenhead: 37706
+  masthead: 32842
+  mead: 15447
+  mislead: 24716
+  misread: 45803
+  monad: 54083
+  mousepad: 45196
+  myriad: 14671
+scored_words:
+  meathead: 130372
+  metalhead: 132161
+not_scored_words:
+- Marienbad
+- Mashhad
+- Mead
+- Mohammad
+- Moradabad
+- Muhammad
+- maenad
+- microfarad
+- muddlehead
+- muttonhead

@@ -1,0 +1,42 @@
+---
+pattern: c_ish
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 32
+score: 1453210
+score_per_word: 103800
+hi_scored_words:
+  cartoonish: 84173
+  catfish: 17797
+  cavendish: 29239
+  cherish: 24604
+  childish: 15238
+  churlish: 94866
+  codfish: 83079
+  crayfish: 39564
+  cuttlefish: 60335
+scored_words:
+  clannish: 262438
+  clownish: 189764
+  coalfish: 188245
+  coquettish: 166084
+  cultish: 197784
+not_scored_words:
+- Carchemish
+- Cavendish
+- Cornish
+- caddish
+- candlefish
+- cattish
+- cavefish
+- cheapish
+- clayish
+- clingfish
+- cliquish
+- cloddish
+- coldish
+- coltish
+- contradistinguish
+- coolish
+- cowfish
+- currish

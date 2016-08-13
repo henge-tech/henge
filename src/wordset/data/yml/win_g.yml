@@ -1,0 +1,28 @@
+---
+pattern: win_g
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1047294
+score_per_word: 74806
+hi_scored_words:
+  winding: 9282
+  windowing: 73291
+  windsurfing: 30788
+  wing: 2773
+  winging: 79912
+  wining: 44556
+  winking: 51145
+  winning: 2417
+  wintering: 50471
+scored_words:
+  winching: 180783
+  wincing: 107760
+  windbag: 108823
+  winnowing: 116190
+  winterizing: 189103
+not_scored_words:
+- Winnipeg
+- windmilling
+- wingding
+- winkling

@@ -1,0 +1,49 @@
+---
+pattern: au_y
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 39
+score: 2253756
+score_per_word: 86682
+hi_scored_words:
+  audacity: 23486
+  audibly: 69161
+  audiology: 45131
+  auditory: 18197
+  austerity: 44935
+  authentically: 62316
+  authenticity: 14317
+  authoritatively: 81043
+  authority: 933
+  autobiography: 11658
+  autocracy: 62496
+  autoimmunity: 74073
+  automatically: 3537
+  autonomously: 60942
+  autonomy: 14117
+  autopsy: 24466
+  auxiliary: 9800
+scored_words:
+  audaciously: 186353
+  audibility: 198397
+  augury: 112077
+  aurally: 162972
+  auspiciously: 291505
+  austerely: 159289
+  autarchy: 132554
+  autarky: 163863
+  autogamy: 226138
+not_scored_words:
+- Aubrey
+- Audrey
+- augustly
+- aurify
+- autecology
+- autobiographically
+- autocratically
+- autographically
+- autography
+- autolithography
+- autoplasty
+- autostability
+- autotomy

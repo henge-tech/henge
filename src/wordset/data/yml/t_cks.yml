@@ -1,0 +1,29 @@
+---
+pattern: t_cks
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 19
+score: 1620961
+score_per_word: 115782
+hi_scored_words:
+  tacks: 40297
+  ticks: 26698
+  toothpicks: 61717
+  tracks: 3070
+  tricks: 4570
+  trucks: 6933
+  tucks: 54340
+  turtlenecks: 98478
+scored_words:
+  tailbacks: 289381
+  throwbacks: 105571
+  thumbtacks: 255320
+  tiebacks: 122157
+  touchbacks: 270444
+  tussocks: 281985
+not_scored_words:
+- tailstocks
+- tamaracks
+- thwacks
+- ticktacks
+- ticktocks

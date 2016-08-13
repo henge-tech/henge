@@ -1,0 +1,34 @@
+---
+pattern: walk_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 24
+score: 1543814
+score_per_word: 85767
+hi_scored_words:
+  walk: 1020
+  walkable: 79067
+  walkabout: 50929
+  walked: 2628
+  walker: 8253
+  walkers: 27522
+  walking: 1684
+  walkout: 62247
+  walkover: 97070
+  walks: 4232
+  walkway: 28837
+  walkways: 37445
+scored_words:
+  walkabouts: 152672
+  walkaway: 212746
+  walkies: 181958
+  walkingsticks: 272604
+  walkouts: 217777
+  walkup: 105123
+not_scored_words:
+- Walker
+- Walkman
+- Walkyrie
+- walkaways
+- walkingstick
+- walkovers

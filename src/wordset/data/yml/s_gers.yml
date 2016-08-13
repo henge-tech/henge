@@ -1,0 +1,30 @@
+---
+pattern: s_gers
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 1031908
+score_per_word: 85992
+hi_scored_words:
+  scavengers: 61484
+  singers: 8564
+  staggers: 65101
+  stingers: 71419
+  strangers: 6868
+  stringers: 74253
+  superchargers: 94807
+  swingers: 16016
+scored_words:
+  slingers: 132078
+  sluggers: 139841
+  sniggers: 196005
+  springers: 165472
+not_scored_words:
+- salvagers
+- sandbaggers
+- scandalmongers
+- scaremongers
+- scroungers
+- spongers
+- straphangers
+- swaggers

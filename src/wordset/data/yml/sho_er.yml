@@ -1,0 +1,27 @@
+---
+pattern: sho_er
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 17
+score: 718576
+score_per_word: 59881
+hi_scored_words:
+  shocker: 31584
+  shoemaker: 23682
+  shooter: 11790
+  shopkeeper: 36477
+  shopper: 11973
+  shorter: 5914
+  shoulder: 2864
+  shoveler: 97411
+  shower: 3246
+  showstopper: 78144
+scored_words:
+  shoplifter: 117136
+  shouter: 298355
+not_scored_words:
+- shoddier
+- shopfitter
+- shortener
+- shover
+- showier

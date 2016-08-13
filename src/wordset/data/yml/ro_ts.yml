@@ -1,0 +1,29 @@
+---
+pattern: ro_ts
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 19
+score: 1009041
+score_per_word: 77618
+hi_scored_words:
+  roasts: 55537
+  robots: 12424
+  rockets: 13908
+  rodents: 32543
+  rootkits: 95780
+  roots: 3425
+  rots: 44162
+  roundabouts: 59553
+  royalists: 87345
+scored_words:
+  roosts: 113023
+  rootlets: 218573
+  routs: 117504
+  rowboats: 155264
+not_scored_words:
+- Roberts
+- Roqueforts
+- romanticists
+- roughcasts
+- roustabouts
+- rousts

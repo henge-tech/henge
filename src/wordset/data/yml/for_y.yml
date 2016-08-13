@@ -1,0 +1,46 @@
+---
+pattern: for_y
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 36
+score: 1943799
+score_per_word: 88354
+hi_scored_words:
+  foray: 33794
+  forcefully: 30573
+  forcibly: 20942
+  foreplay: 37777
+  forestry: 11394
+  forgery: 23626
+  formality: 28400
+  formally: 7373
+  formerly: 3433
+  formulary: 45057
+  fortify: 39342
+  fortnightly: 40278
+  fortunately: 7314
+  forty: 3942
+scored_words:
+  forensically: 248659
+  foreseeability: 167911
+  forestay: 282840
+  forlornly: 170906
+  formidably: 230595
+  forthrightly: 152375
+  fortuitously: 132138
+  forwardly: 225130
+not_scored_words:
+- forbiddingly
+- forby
+- forcedly
+- forebodingly
+- forelady
+- foresightedly
+- forgetfully
+- forgivingly
+- formicary
+- formidability
+- formlessly
+- formulaically
+- fortuity
+- forwhy

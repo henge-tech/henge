@@ -1,0 +1,45 @@
+---
+pattern: bron_
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 35
+score: 1769714
+score_per_word: 93142
+hi_scored_words:
+  bronc: 99723
+  bronchi: 74625
+  bronchial: 34787
+  bronchitis: 29813
+  bronchoscopy: 86383
+  bronchus: 71542
+  bronco: 24870
+  broncos: 12727
+  bronze: 4471
+  bronzed: 66478
+  bronzes: 56605
+scored_words:
+  bronchiectasis: 110437
+  bronchioles: 174044
+  bronchopneumonia: 204538
+  bronchopulmonary: 126150
+  bronchoscope: 235669
+  broncs: 134891
+  brontosaurus: 121097
+  bronzing: 100864
+not_scored_words:
+- Bronson
+- Bronte
+- Brontosaurus
+- Bronx
+- bronchia
+- bronchiole
+- bronchitic
+- bronchoscopes
+- broncobuster
+- broncobusters
+- brontosaur
+- brontosaurs
+- brontosauruses
+- bronzier
+- bronziest
+- bronzy

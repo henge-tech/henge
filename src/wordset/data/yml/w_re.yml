@@ -1,0 +1,34 @@
+---
+pattern: w_re
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 24
+score: 703509
+score_per_word: 43969
+hi_scored_words:
+  ware: 8750
+  warfare: 6307
+  we're: 1870
+  welfare: 3062
+  were: 58
+  where: 102
+  wherefore: 20229
+  who're: 45654
+  whore: 10570
+  wildfire: 27108
+  wire: 2296
+  wore: 6006
+scored_words:
+  wetware: 231025
+  wiseacre: 118364
+  woodenware: 112743
+  workfare: 109365
+not_scored_words:
+- Ware
+- Warwickshire
+- Welfare
+- Wiltshire
+- Windermere
+- Worcestershire
+- wafture
+- willowware

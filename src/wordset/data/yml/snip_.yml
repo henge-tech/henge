@@ -1,0 +1,27 @@
+---
+pattern: snip_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 820800
+score_per_word: 63138
+hi_scored_words:
+  snip: 27048
+  snipe: 32476
+  sniper: 15914
+  snipers: 39788
+  snipes: 49731
+  sniping: 46564
+  snipped: 70180
+  snippet: 24452
+  snippets: 23732
+  snips: 58535
+scored_words:
+  sniped: 174767
+  snipping: 145048
+  snippy: 112565
+not_scored_words:
+- sniperscope
+- snippier
+- snippiest
+- snippiness

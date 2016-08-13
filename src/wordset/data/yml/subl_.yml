@@ -1,0 +1,43 @@
+---
+pattern: subl_
+hi_scored_words_count: 10
+scored_words_count: 12
+total_words: 33
+score: 2720514
+score_per_word: 123659
+hi_scored_words:
+  sublease: 78718
+  subleases: 86607
+  sublet: 42070
+  sublets: 96759
+  sublimation: 45748
+  sublime: 5136
+  subliminal: 27420
+  sublimity: 72850
+  sublingual: 60756
+  sublunary: 86879
+scored_words:
+  subleased: 298518
+  subleasing: 264075
+  sublethal: 135599
+  subletting: 130857
+  sublimate: 115903
+  sublimated: 100772
+  sublimely: 123441
+  sublimer: 212612
+  sublimes: 239756
+  sublimest: 126158
+  subliminally: 151665
+  sublunar: 218215
+not_scored_words:
+- sublapsarianism
+- sublethally
+- sublieutenant
+- sublieutenants
+- sublimates
+- sublimating
+- sublimed
+- sublimeness
+- subliming
+- subliterate
+- sublittoral

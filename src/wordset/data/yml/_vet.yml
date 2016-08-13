@@ -1,0 +1,30 @@
+---
+pattern: _vet
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 1018542
+score_per_word: 84878
+hi_scored_words:
+  brevet: 65095
+  civet: 87772
+  covet: 43218
+  duvet: 24191
+  privet: 62756
+  rivet: 30989
+  trivet: 74991
+  velvet: 6642
+  vet: 11960
+scored_words:
+  blivet: 248860
+  chevet: 183931
+  vervet: 178137
+not_scored_words:
+- Glenlivet
+- Olivet
+- Tevet
+- curvet
+- grivet
+- minivet
+- revet
+- swivet

@@ -1,0 +1,34 @@
+---
+pattern: ge_g
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 24
+score: 935790
+score_per_word: 71983
+hi_scored_words:
+  gearing: 31108
+  gelding: 43578
+  generalizing: 57877
+  generating: 10274
+  geocaching: 43650
+  geog: 42487
+  germinating: 84181
+  gerrymandering: 80510
+  gesturing: 72430
+  getting: 473
+scored_words:
+  gelling: 101107
+  gestating: 231367
+  gesticulating: 136748
+not_scored_words:
+- Geelong
+- Gehrig
+- Gettysburg
+- geeing
+- gelatinizing
+- geminating
+- genning
+- gentling
+- gentrifying
+- genuflecting
+- geoengineering

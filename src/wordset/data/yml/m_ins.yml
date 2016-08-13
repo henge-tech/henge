@@ -1,0 +1,40 @@
+---
+pattern: m_ins
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 30
+score: 1508990
+score_per_word: 79420
+hi_scored_words:
+  mains: 13665
+  maintains: 7288
+  mandarins: 87236
+  mandolins: 78631
+  mannequins: 56068
+  margins: 11504
+  marlins: 21829
+  martins: 29732
+  matins: 71577
+  moccasins: 44795
+  mountains: 2320
+  muffins: 24117
+  multivitamins: 67692
+  munchkins: 98533
+scored_words:
+  manikins: 152984
+  merlins: 157493
+  mucins: 176283
+  muggins: 192488
+  myosins: 214755
+not_scored_words:
+- Mullins
+- manakins
+- marocains
+- melatonins
+- metheglins
+- midbrains
+- moleskins
+- mortmains
+- muezzins
+- myelins
+- myoglobins

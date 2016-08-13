@@ -1,0 +1,37 @@
+---
+pattern: elo_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 27
+score: 1378950
+score_per_word: 98496
+hi_scored_words:
+  elocution: 79673
+  elongate: 47004
+  elongated: 22538
+  elongation: 32749
+  elope: 74322
+  elopement: 92884
+  eloquence: 24306
+  eloquent: 18712
+  eloquently: 38628
+scored_words:
+  elodea: 214654
+  elongates: 237881
+  elongating: 176224
+  eloped: 118570
+  eloping: 200805
+not_scored_words:
+- Elohim
+- Elohist
+- Eloise
+- Eloy
+- elocutionary
+- elocutionist
+- elocutionists
+- elodeas
+- eloign
+- elongations
+- elopements
+- eloper
+- elopes

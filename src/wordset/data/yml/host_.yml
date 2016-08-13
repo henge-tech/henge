@@ -1,0 +1,38 @@
+---
+pattern: host_
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 28
+score: 1126665
+score_per_word: 59298
+hi_scored_words:
+  host: 1497
+  hosta: 75910
+  hostage: 14647
+  hostages: 19230
+  hosted: 7792
+  hostel: 16809
+  hostelry: 79842
+  hostels: 14083
+  hostess: 16527
+  hostesses: 76128
+  hostile: 6707
+  hostilities: 24202
+  hostility: 13074
+  hosting: 6535
+  hosts: 4671
+scored_words:
+  hosteling: 165901
+  hostelries: 296515
+  hostiles: 143171
+  hostler: 143424
+not_scored_words:
+- Host
+- Hosts
+- hosteled
+- hosteler
+- hostelers
+- hostessed
+- hostessing
+- hostilely
+- hostlers

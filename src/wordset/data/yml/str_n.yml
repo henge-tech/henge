@@ -1,0 +1,31 @@
+---
+pattern: str_n
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 21
+score: 1304183
+score_per_word: 93155
+hi_scored_words:
+  straighten: 22089
+  strain: 4069
+  strangulation: 63578
+  stratification: 31160
+  strengthen: 5932
+  streptomycin: 60986
+  strewn: 32835
+  stricken: 18401
+  striven: 81685
+  strongman: 63399
+scored_words:
+  striation: 218997
+  striction: 311927
+  stridulation: 160001
+  strongmen: 229124
+not_scored_words:
+- straiten
+- stratovision
+- streptothricin
+- stridden
+- strobotron
+- strontian
+- strophanthin

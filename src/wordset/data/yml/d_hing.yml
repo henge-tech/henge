@@ -1,0 +1,23 @@
+---
+pattern: d_hing
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 586907
+score_per_word: 58690
+hi_scored_words:
+  dashing: 25034
+  demolishing: 62043
+  detaching: 76180
+  diminishing: 20331
+  dishing: 63386
+  dispatching: 43421
+  distinguishing: 15470
+  ditching: 56555
+  drenching: 91714
+scored_words:
+  douching: 132773
+not_scored_words:
+- debauching
+- debouching
+- disestablishing

@@ -1,0 +1,25 @@
+---
+pattern: near_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 15
+score: 690749
+score_per_word: 53134
+hi_scored_words:
+  near: 475
+  nearby: 5955
+  neared: 49590
+  nearer: 11876
+  nearest: 3354
+  nearing: 21654
+  nearly: 1190
+  nearness: 61849
+  nears: 37255
+  nearshore: 66443
+scored_words:
+  nearside: 161970
+  nearsighted: 138365
+  nearsightedness: 130773
+not_scored_words:
+- nearish
+- nearsightedly

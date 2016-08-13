@@ -1,0 +1,22 @@
+---
+pattern: com_ent
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 12
+score: 323576
+score_per_word: 29416
+hi_scored_words:
+  commandment: 22218
+  commencement: 8410
+  comment: 1104
+  commitment: 8470
+  compartment: 10792
+  competent: 6371
+  complacent: 30389
+  complement: 9161
+  compliment: 9695
+  component: 5515
+scored_words:
+  comportment: 211451
+not_scored_words:
+- Commandment

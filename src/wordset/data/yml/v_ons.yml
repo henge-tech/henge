@@ -1,0 +1,37 @@
+---
+pattern: v_ons
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 27
+score: 805970
+score_per_word: 50373
+hi_scored_words:
+  vacations: 11395
+  vaccinations: 29633
+  valuations: 22682
+  variations: 5281
+  verifications: 74756
+  versions: 2882
+  vibrations: 18102
+  violations: 9621
+  virions: 82644
+  visions: 7410
+  visitations: 65205
+  visualizations: 58598
+  vocalizations: 85335
+  vocations: 47032
+scored_words:
+  validations: 104205
+  vexations: 181189
+not_scored_words:
+- vacillations
+- valedictions
+- vasoconstrictions
+- vasodilations
+- vaticinations
+- venesections
+- vermiculations
+- vindications
+- vinegarroons
+- vivifications
+- volutions

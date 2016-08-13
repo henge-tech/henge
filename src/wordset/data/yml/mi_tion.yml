@@ -1,0 +1,40 @@
+---
+pattern: mi_tion
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 30
+score: 2408999
+score_per_word: 92653
+hi_scored_words:
+  midsection: 86898
+  migration: 5811
+  militarization: 81294
+  mineralization: 46561
+  miniaturization: 83506
+  minimization: 31989
+  ministration: 93393
+  misappropriation: 55046
+  miscalculation: 79323
+  miscegenation: 97631
+  miscommunication: 68948
+  misconception: 27074
+  misdirection: 81615
+  misinformation: 26491
+  misinterpretation: 57183
+  misrepresentation: 28110
+  mitigation: 15345
+scored_words:
+  microencapsulation: 258430
+  micturition: 133433
+  misallocation: 168856
+  misapplication: 108334
+  misconstruction: 157722
+  misidentification: 133056
+  misperception: 102463
+  mispronunciation: 199502
+  mistranslation: 180985
+not_scored_words:
+- microminiaturization
+- misadministration
+- misorientation
+- misquotation

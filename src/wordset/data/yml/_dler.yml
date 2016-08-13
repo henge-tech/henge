@@ -1,0 +1,45 @@
+---
+pattern: _dler
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 35
+score: 2280287
+score_per_word: 120015
+hi_scored_words:
+  candler: 60376
+  chandler: 11718
+  fiddler: 25631
+  handler: 10783
+  idler: 48833
+  paddler: 74223
+  peddler: 43696
+  riddler: 78714
+  saddler: 73236
+  swindler: 79180
+  toddler: 12412
+scored_words:
+  doodler: 265039
+  girdler: 192070
+  hurdler: 154007
+  meddler: 205761
+  muddler: 323066
+  needler: 229085
+  panhandler: 195359
+  tiddler: 197098
+not_scored_words:
+- Adler
+- Chandler
+- Fiedler
+- Schindler
+- coddler
+- dawdler
+- diddler
+- huddler
+- ladler
+- mollycoddler
+- straddler
+- trundler
+- twaddler
+- twiddler
+- waddler
+- wheedler

@@ -1,0 +1,49 @@
+---
+pattern: cons_es
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 39
+score: 1862933
+score_per_word: 84678
+hi_scored_words:
+  consciences: 51872
+  consequences: 3085
+  conservatives: 11827
+  conservatories: 44984
+  conserves: 73150
+  consoles: 12347
+  consolidates: 59519
+  conspiracies: 35264
+  constables: 42847
+  constituencies: 22600
+  constitutes: 3946
+  consulates: 43755
+  consultancies: 64836
+  consumables: 25054
+  consumes: 24111
+scored_words:
+  consciousnesses: 173234
+  consecrates: 256429
+  conservancies: 238632
+  consignees: 187643
+  consistencies: 147725
+  conspires: 125559
+  construes: 214514
+not_scored_words:
+- consensuses
+- conservatoires
+- conses
+- consistences
+- consistories
+- consociates
+- consonances
+- conspectuses
+- constabularies
+- constellates
+- consternates
+- constipates
+- constringes
+- consuetudes
+- consuetudinaries
+- consummates
+- consumptives

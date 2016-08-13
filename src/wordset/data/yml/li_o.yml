@@ -1,0 +1,26 @@
+---
+pattern: li_o
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 16
+score: 331765
+score_per_word: 33176
+hi_scored_words:
+  libero: 41835
+  libido: 25779
+  libretto: 35127
+  lido: 34668
+  lilo: 24823
+  limbo: 25648
+  limo: 16807
+  lingo: 26069
+  lino: 39069
+  litho: 61940
+scored_words: {}
+not_scored_words:
+- LIFO
+- Liao
+- Limbo
+- Limpopo
+- Livorno
+- libeccio

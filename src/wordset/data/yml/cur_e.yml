@@ -1,0 +1,34 @@
+---
+pattern: cur_e
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 24
+score: 1731330
+score_per_word: 91122
+hi_scored_words:
+  curable: 61352
+  curate: 37499
+  curative: 37694
+  curbside: 61320
+  cure: 3820
+  curettage: 99934
+  curiae: 60257
+  curie: 32132
+  curse: 6382
+  cursive: 37441
+  curvature: 19869
+  curve: 4480
+scored_words:
+  curare: 142963
+  curbstone: 212374
+  curdle: 138723
+  curette: 218076
+  curricle: 266744
+  curtilage: 146820
+  curule: 143450
+not_scored_words:
+- Curiae
+- Curie
+- curarize
+- curlicue
+- curtate

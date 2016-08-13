@@ -1,0 +1,30 @@
+---
+pattern: a_cts
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 20
+score: 773971
+score_per_word: 51598
+hi_scored_words:
+  abstracts: 17134
+  acts: 1929
+  addicts: 17429
+  adducts: 77458
+  adjuncts: 58906
+  affects: 5740
+  afflicts: 72761
+  aqueducts: 91049
+  architects: 8382
+  artifacts: 10325
+  aspects: 3271
+  attracts: 15918
+scored_words:
+  abducts: 163727
+  aftereffects: 101352
+  analects: 128590
+not_scored_words:
+- Acts
+- Analects
+- abreacts
+- apomicts
+- autodidacts

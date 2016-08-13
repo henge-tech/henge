@@ -1,0 +1,29 @@
+---
+pattern: fad_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 1002058
+score_per_word: 91096
+hi_scored_words:
+  fad: 24276
+  fade: 8702
+  faded: 10364
+  fader: 37530
+  fades: 23068
+  fading: 14041
+  fado: 68166
+  fads: 53382
+scored_words:
+  faddish: 246443
+  fadeless: 324830
+  fadeout: 191256
+not_scored_words:
+- faddiness
+- faddishness
+- faddist
+- faddists
+- faddy
+- fadeouts
+- fadge
+- fadings

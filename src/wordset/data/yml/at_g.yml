@@ -1,0 +1,29 @@
+---
+pattern: at_g
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1025727
+score_per_word: 78902
+hi_scored_words:
+  attaching: 18730
+  attacking: 8405
+  attaining: 20186
+  attempting: 5373
+  attending: 4517
+  attesting: 66081
+  attracting: 12906
+  attributing: 44792
+scored_words:
+  atheling: 119240
+  atomizing: 181220
+  atoning: 102602
+  attenuating: 111299
+  attuning: 330376
+not_scored_words:
+- atrophying
+- attainting
+- attempering
+- attiring
+- attitudinizing
+- attorning

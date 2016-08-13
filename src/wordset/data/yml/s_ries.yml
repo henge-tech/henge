@@ -1,0 +1,60 @@
+---
+pattern: s_ries
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 50
+score: 2317550
+score_per_word: 85835
+hi_scored_words:
+  salaries: 8264
+  sanctuaries: 39718
+  secondaries: 76306
+  secretaries: 12741
+  sectaries: 97145
+  seminaries: 50180
+  sentries: 78772
+  series: 564
+  signatories: 35147
+  stories: 702
+  strawberries: 17167
+  subcategories: 34466
+  subdirectories: 57105
+  subseries: 83592
+  subsidiaries: 10660
+  summaries: 15514
+  sundries: 45006
+  suppositories: 60429
+  surgeries: 22403
+  symmetries: 44163
+scored_words:
+  savories: 299628
+  scurries: 217693
+  sherries: 259266
+  shrubberies: 261468
+  skerries: 142380
+  sophistries: 174251
+  supernumeraries: 172820
+not_scored_words:
+- saddleries
+- salmonberries
+- sauries
+- savageries
+- sculleries
+- seigneuries
+- serveries
+- serviceberries
+- shadberries
+- signories
+- smelteries
+- snowberries
+- snuggeries
+- soapberries
+- sociometries
+- solitaries
+- spectrometries
+- spiceberries
+- sternutatories
+- stipendiaries
+- subtreasuries
+- succories
+- syllabaries

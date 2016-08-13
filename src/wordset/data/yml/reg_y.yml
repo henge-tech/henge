@@ -1,0 +1,24 @@
+---
+pattern: reg_y
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 14
+score: 425742
+score_per_word: 47304
+hi_scored_words:
+  regency: 14814
+  regionally: 29182
+  registry: 9272
+  regretfully: 68222
+  regrettably: 41034
+  regularity: 20137
+  regularly: 3566
+  regulatory: 3302
+scored_words:
+  regally: 236213
+not_scored_words:
+- Regency
+- regality
+- regardlessly
+- regeneracy
+- regressively

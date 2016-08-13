@@ -1,0 +1,30 @@
+---
+pattern: p_ole
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1332382
+score_per_word: 102490
+hi_scored_words:
+  parole: 11388
+  peephole: 91188
+  petiole: 69145
+  pigeonhole: 83443
+  pinhole: 44311
+  pinole: 96163
+  pole: 4309
+  porthole: 58869
+  pothole: 58256
+scored_words:
+  pistole: 152302
+  pratincole: 287539
+  prole: 105653
+  pyrazole: 269816
+not_scored_words:
+- Pole
+- Poole
+- pesthole
+- phenetole
+- plughole
+- posthole
+- profiterole

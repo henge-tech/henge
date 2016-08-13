@@ -1,0 +1,21 @@
+---
+pattern: res_l
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 419350
+score_per_word: 46594
+hi_scored_words:
+  reseal: 74378
+  resell: 25411
+  resentful: 42558
+  residential: 10602
+  residual: 18870
+  resourceful: 31569
+  respectful: 12434
+  restful: 39520
+scored_words:
+  resorcinol: 164008
+not_scored_words:
+- resectional
+- respell

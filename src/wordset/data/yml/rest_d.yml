@@ -1,0 +1,23 @@
+---
+pattern: rest_d
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 353147
+score_per_word: 39238
+hi_scored_words:
+  restarted: 27318
+  restated: 36996
+  rested: 12377
+  restocked: 91502
+  restored: 4945
+  restrained: 16316
+  restricted: 4844
+  restructured: 33334
+scored_words:
+  restyled: 125515
+not_scored_words:
+- restaffed
+- restitched
+- restrengthened
+- restudied

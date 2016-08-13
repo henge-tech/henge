@@ -1,0 +1,51 @@
+---
+pattern: ca_al
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 41
+score: 1896521
+score_per_word: 79021
+hi_scored_words:
+  cabal: 31389
+  cadastral: 58790
+  canal: 4820
+  cannibal: 27051
+  canonical: 17284
+  cantonal: 76474
+  capital: 899
+  cardinal: 5960
+  carnal: 26854
+  carnival: 9747
+  carpal: 29261
+  casual: 4503
+  catechetical: 98829
+  categorical: 28053
+  cathedral: 5809
+  caudal: 43373
+  causal: 16749
+scored_words:
+  calendrical: 245993
+  cambial: 297234
+  cantorial: 201852
+  caporal: 148277
+  caracal: 169177
+  carousal: 137562
+  catarrhal: 210581
+not_scored_words:
+- Cabral
+- Calvinistical
+- Canaveral
+- Cantal
+- cacuminal
+- cameral
+- campanological
+- campestral
+- cardiological
+- caricatural
+- carnassial
+- cartographical
+- casuistical
+- cataclinal
+- cataclysmal
+- catechismal
+- cathodal

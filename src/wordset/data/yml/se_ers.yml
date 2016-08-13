@@ -1,0 +1,44 @@
+---
+pattern: se_ers
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 34
+score: 1822060
+score_per_word: 91103
+hi_scored_words:
+  seafarers: 54810
+  sealers: 58217
+  searchers: 40447
+  seeders: 88110
+  seekers: 12848
+  seers: 68518
+  sellers: 4462
+  semesters: 20396
+  senders: 48120
+  sequencers: 75212
+  servers: 2245
+  setters: 40529
+  settlers: 8917
+  severs: 77621
+  sewers: 28435
+scored_words:
+  seducers: 271654
+  seiners: 283184
+  seismometers: 215912
+  semitrailers: 199658
+  sensitizers: 222765
+not_scored_words:
+- Seders
+- Sellers
+- Septembers
+- seasoners
+- seconders
+- seismographers
+- seizers
+- selenographers
+- seltzers
+- semiquavers
+- sensitometers
+- sepulchers
+- sequesters
+- sermonizers

@@ -1,0 +1,42 @@
+---
+pattern: we_n
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 32
+score: 830986
+score_per_word: 63922
+hi_scored_words:
+  weaken: 17408
+  wean: 43224
+  weapon: 3739
+  weatherman: 56637
+  ween: 44075
+  wellington: 6953
+  wen: 16569
+  western: 1145
+scored_words:
+  weatherization: 122563
+  weathermen: 135122
+  welkin: 120757
+  wellborn: 126790
+  westernization: 136004
+not_scored_words:
+- Webern
+- Weisshorn
+- Weizmann
+- Weldon
+- Wellington
+- Welshman
+- Welshmen
+- Welshwoman
+- Wesleyan
+- Wesson
+- Western
+- Westfalen
+- Weston
+- Westphalian
+- Wetterhorn
+- Weyden
+- Wezen
+- weatherperson
+- weatherworn

@@ -1,0 +1,33 @@
+---
+pattern: wi_ly
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 23
+score: 1157467
+score_per_word: 82676
+hi_scored_words:
+  wickedly: 46634
+  widely: 3469
+  wiggly: 56351
+  wildly: 12792
+  willfully: 39641
+  willingly: 14695
+  willy: 13581
+  wily: 34067
+  wisely: 12179
+  wistfully: 70901
+scored_words:
+  wifely: 206682
+  winningly: 311100
+  wittily: 147976
+  wittingly: 187399
+not_scored_words:
+- Willy
+- wilily
+- wimpishly
+- windily
+- winsomely
+- wishfully
+- witheringly
+- witlessly
+- wizardly

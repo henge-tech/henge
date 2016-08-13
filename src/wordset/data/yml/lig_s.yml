@@ -1,0 +1,35 @@
+---
+pattern: lig_s
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 25
+score: 1018057
+score_per_word: 78312
+hi_scored_words:
+  ligaments: 39169
+  ligands: 29878
+  ligatures: 81449
+  lightens: 91177
+  lighters: 30669
+  lightheadedness: 94619
+  lighthouses: 34068
+  lightness: 29806
+  lightnings: 93620
+  lights: 2021
+scored_words:
+  ligamentous: 194391
+  lightweights: 146699
+  ligneous: 150491
+not_scored_words:
+- ligans
+- ligates
+- ligers
+- lighteners
+- lightenings
+- lighterages
+- lightheadednesses
+- lightheartedness
+- lightless
+- lightships
+- lignaloes
+- lignins

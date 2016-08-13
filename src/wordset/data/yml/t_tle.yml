@@ -1,0 +1,21 @@
+---
+pattern: t_tle
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 659363
+score_per_word: 65936
+hi_scored_words:
+  tattle: 70743
+  thistle: 18438
+  throstle: 87219
+  throttle: 17843
+  title: 608
+  tittle: 55914
+  trestle: 49743
+  turtle: 8208
+scored_words:
+  teakettle: 132444
+  tootle: 218203
+not_scored_words:
+- twattle

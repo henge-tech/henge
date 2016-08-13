@@ -1,0 +1,50 @@
+---
+pattern: r_en
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 40
+score: 1171126
+score_per_word: 65062
+hi_scored_words:
+  ramen: 36426
+  raven: 9594
+  redden: 60457
+  regimen: 18901
+  reopen: 25785
+  retaken: 94206
+  rewritten: 20438
+  ridden: 14353
+  riflemen: 72788
+  ripen: 45077
+  risen: 8425
+  riven: 47944
+  roentgen: 92548
+  rotten: 7088
+  rumen: 57707
+scored_words:
+  reawaken: 169049
+  repairmen: 151452
+  roughen: 238888
+not_scored_words:
+- Rasmussen
+- Reuben
+- Richthofen
+- Roentgen
+- Rontgen
+- Rouen
+- Ruben
+- radiomen
+- railwaymen
+- rappen
+- rechristen
+- refasten
+- refrozen
+- rescreen
+- resharpen
+- restraighten
+- restrengthen
+- retrodden
+- rewaken
+- rewoven
+- roofgarden
+- roundsmen

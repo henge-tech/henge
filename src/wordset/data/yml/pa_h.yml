@@ -1,0 +1,35 @@
+---
+pattern: pa_h
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 25
+score: 1129861
+score_per_word: 75324
+hi_scored_words:
+  pah: 35041
+  paintbrush: 47200
+  paragraph: 2182
+  pariah: 41502
+  parish: 3697
+  pash: 97137
+  patch: 3083
+  path: 1221
+  patriarch: 20852
+scored_words:
+  paddlefish: 184485
+  panfish: 137833
+  pantograph: 120043
+  parch: 177872
+  parrotfish: 137626
+  paunch: 120087
+not_scored_words:
+- Padishah
+- Parashah
+- Parrish
+- paganish
+- paleolith
+- palish
+- pantelegraph
+- paramorph
+- paranymph
+- paraph

@@ -1,0 +1,39 @@
+---
+pattern: repr_s
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 29
+score: 2257525
+score_per_word: 112876
+hi_scored_words:
+  representations: 6093
+  representativeness: 79392
+  representatives: 2888
+  represents: 2962
+  repress: 36179
+  reprints: 21353
+  reprisals: 51633
+  reproaches: 81264
+  reproduces: 43331
+  reproductions: 23537
+scored_words:
+  represses: 113432
+  repressions: 171423
+  reprieves: 296067
+  reprimands: 105521
+  reprises: 103507
+  reprobates: 205300
+  reprocess: 163992
+  reproducers: 323981
+  reproofs: 165784
+  reproves: 259886
+not_scored_words:
+- reprehends
+- repressiveness
+- reprices
+- reproachfulness
+- reproachless
+- reprobations
+- reprocesses
+- reprograms
+- reprovals

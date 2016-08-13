@@ -1,0 +1,34 @@
+---
+pattern: anno_
+hi_scored_words_count: 20
+scored_words_count: 3
+total_words: 24
+score: 1081290
+score_per_word: 47012
+hi_scored_words:
+  annotate: 31165
+  annotated: 13346
+  annotating: 87395
+  annotation: 14490
+  annotations: 22589
+  announce: 4899
+  announced: 1864
+  announcement: 3267
+  announcements: 9780
+  announcer: 19965
+  announcers: 50847
+  announces: 7026
+  announcing: 11430
+  annoy: 13988
+  annoyance: 18258
+  annoyances: 37493
+  annoyed: 10932
+  annoying: 6878
+  annoyingly: 65285
+  annoys: 39574
+scored_words:
+  annotates: 237158
+  annotator: 130334
+  annotators: 243327
+not_scored_words:
+- annotative

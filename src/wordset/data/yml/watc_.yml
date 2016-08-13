@@ -1,0 +1,36 @@
+---
+pattern: watc_
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 26
+score: 1644384
+score_per_word: 71494
+hi_scored_words:
+  watch: 534
+  watchable: 66040
+  watchdog: 17502
+  watchdogs: 64393
+  watched: 2858
+  watcher: 20913
+  watchers: 19574
+  watches: 3724
+  watchful: 24513
+  watchfulness: 89253
+  watching: 1747
+  watchmaker: 50852
+  watchmaking: 92883
+  watchman: 28184
+  watchmen: 49550
+  watchtower: 36941
+  watchword: 71065
+scored_words:
+  watchband: 176269
+  watchbands: 179295
+  watchfully: 198944
+  watchmakers: 112818
+  watchtowers: 151937
+  watchwords: 184595
+not_scored_words:
+- watchcase
+- watchstrap
+- watchstraps

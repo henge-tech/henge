@@ -1,0 +1,39 @@
+---
+pattern: _rely
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 29
+score: 1236500
+score_per_word: 58880
+hi_scored_words:
+  barely: 4887
+  bizarrely: 74844
+  entirely: 2135
+  leisurely: 22668
+  merely: 2620
+  prematurely: 23615
+  purely: 6032
+  rarely: 3913
+  rely: 4836
+  securely: 9458
+  severely: 7699
+  sincerely: 7155
+  sorely: 24669
+  squarely: 28290
+  surely: 3345
+scored_words:
+  austerely: 159289
+  demurely: 146562
+  insecurely: 217004
+  maturely: 143076
+  obscurely: 122837
+  sombrely: 221566
+not_scored_words:
+- creaturely
+- direly
+- immaturely
+- impurely
+- insincerely
+- mediocrely
+- sparely
+- unsurely

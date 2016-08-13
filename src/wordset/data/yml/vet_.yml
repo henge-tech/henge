@@ -1,0 +1,29 @@
+---
+pattern: vet_
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 19
+score: 803547
+score_per_word: 50221
+hi_scored_words:
+  vet: 11960
+  vetch: 61494
+  veteran: 5882
+  veterans: 6072
+  veterinarian: 20473
+  veterinarians: 30753
+  veterinary: 13380
+  vetiver: 82255
+  veto: 15458
+  vetoed: 40501
+  vetoes: 73846
+  vets: 17648
+  vetted: 57614
+  vetting: 55983
+scored_words:
+  veter: 163807
+  vetoing: 146421
+not_scored_words:
+- vetches
+- vetchling
+- veterinaries

@@ -1,0 +1,32 @@
+---
+pattern: sm_ed
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 22
+score: 1656609
+score_per_word: 97447
+hi_scored_words:
+  smacked: 40982
+  smashed: 16169
+  smeared: 39601
+  smelled: 25256
+  smiled: 6123
+  smirked: 74288
+  smoked: 8449
+  smoothed: 28370
+  smothered: 37436
+  smudged: 96771
+  smuggled: 36568
+scored_words:
+  smarted: 169564
+  smelted: 202443
+  smocked: 143808
+  smoldered: 293575
+  smoothened: 291669
+  smouldered: 145537
+not_scored_words:
+- smartened
+- smattered
+- smirched
+- smooched
+- smutched

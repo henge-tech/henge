@@ -1,0 +1,33 @@
+---
+pattern: ra_ts
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 23
+score: 980636
+score_per_word: 65375
+hi_scored_words:
+  rabbits: 11126
+  racists: 41609
+  rackets: 46156
+  racquets: 45110
+  radiologists: 55944
+  rafts: 37803
+  raincoats: 84130
+  ramparts: 53821
+  rants: 16279
+  rapists: 37828
+  rapports: 79566
+  ratchets: 70018
+  rats: 5829
+scored_words:
+  rabbets: 276828
+  rationalists: 118589
+not_scored_words:
+- Rambouillets
+- racialists
+- radiotherapists
+- ragouts
+- ragworts
+- ramjets
+- rapprochements
+- rarebits

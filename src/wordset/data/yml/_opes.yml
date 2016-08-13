@@ -1,0 +1,75 @@
+---
+pattern: _opes
+hi_scored_words_count: 18
+scored_words_count: 13
+total_words: 65
+score: 3506050
+score_per_word: 113098
+hi_scored_words:
+  antelopes: 90025
+  copes: 56618
+  envelopes: 13454
+  hopes: 3337
+  horoscopes: 20079
+  isotopes: 24338
+  lopes: 40538
+  microscopes: 35916
+  opes: 97432
+  oscilloscopes: 76394
+  popes: 32307
+  radioisotopes: 51337
+  ropes: 10478
+  scopes: 21757
+  slopes: 9737
+  stethoscopes: 96455
+  telescopes: 18470
+  tropes: 73109
+scored_words:
+  cyclopes: 133239
+  dopes: 142748
+  endoscopes: 151697
+  gropes: 175340
+  gyroscopes: 113702
+  kaleidoscopes: 147259
+  laryngoscopes: 241658
+  lycanthropes: 263563
+  ophthalmoscopes: 332216
+  otoscopes: 153893
+  periscopes: 271373
+  stroboscopes: 310452
+  topes: 297129
+not_scored_words:
+- Cyclopes
+- Scopes
+- allotropes
+- apocopes
+- arthroscopes
+- bioscopes
+- bronchoscopes
+- calliopes
+- chronoscopes
+- cryoscopes
+- electroscopes
+- elopes
+- epidiascopes
+- escalopes
+- fluoroscopes
+- heliotropes
+- hygroscopes
+- iconoscopes
+- interlopes
+- kinescopes
+- laparoscopes
+- misanthropes
+- mopes
+- nephoscopes
+- phalaropes
+- polariscopes
+- proctoscopes
+- radarscopes
+- spectroscopes
+- stereoscopes
+- tachistoscopes
+- tightropes
+- towropes
+- ultramicroscopes

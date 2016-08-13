@@ -1,0 +1,20 @@
+---
+pattern: stoo_
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 10
+score: 342312
+score_per_word: 38034
+hi_scored_words:
+  stood: 2496
+  stooge: 79040
+  stooges: 31304
+  stool: 14028
+  stools: 17503
+  stoop: 29350
+  stooped: 42632
+  stooping: 63528
+  stoops: 62431
+scored_words: {}
+not_scored_words:
+- stook

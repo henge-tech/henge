@@ -1,0 +1,33 @@
+---
+pattern: ins_ng
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 23
+score: 1355135
+score_per_word: 71322
+hi_scored_words:
+  inserting: 14533
+  insinuating: 76068
+  insisting: 20932
+  inspecting: 26494
+  inspiring: 9056
+  installing: 14034
+  instigating: 88403
+  instilling: 68949
+  instituting: 47713
+  instructing: 32291
+  insulating: 29943
+  insulting: 16038
+  insuring: 34272
+scored_words:
+  inscribing: 134965
+  inspiriting: 152641
+  instancing: 198724
+  instantiating: 111507
+  institutionalizing: 110399
+  instrumenting: 168173
+not_scored_words:
+- inseminating
+- insetting
+- inspanning
+- instating

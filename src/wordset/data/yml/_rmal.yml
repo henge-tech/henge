@@ -1,0 +1,37 @@
+---
+pattern: _rmal
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 27
+score: 1324113
+score_per_word: 69690
+hi_scored_words:
+  abnormal: 9008
+  conformal: 41811
+  dermal: 34482
+  epidermal: 33259
+  formal: 2627
+  geothermal: 26021
+  hydrothermal: 42910
+  informal: 7687
+  isothermal: 57158
+  normal: 1695
+  orthonormal: 74721
+  paranormal: 17153
+  thermal: 15440
+  transdermal: 60876
+scored_words:
+  electrothermal: 223077
+  intradermal: 114522
+  semiformal: 249063
+  subnormal: 115435
+  supernormal: 197168
+not_scored_words:
+- ectothermal
+- endothermal
+- eurythermal
+- exothermal
+- hematothermal
+- homothermal
+- hypothermal
+- pachydermal

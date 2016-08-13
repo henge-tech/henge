@@ -1,0 +1,33 @@
+---
+pattern: minu_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 23
+score: 1595594
+score_per_word: 93858
+hi_scored_words:
+  minuet: 50512
+  minus: 8169
+  minuscule: 50158
+  minuses: 91292
+  minute: 1066
+  minutely: 71010
+  minuteman: 44970
+  minutemen: 43333
+  minutes: 486
+  minutiae: 52580
+scored_words:
+  minuend: 155987
+  minuets: 125288
+  minuted: 191415
+  minuteness: 198323
+  minuter: 274622
+  minutest: 135114
+  minutia: 101269
+not_scored_words:
+- Minuit
+- Minuteman
+- minuends
+- minuscular
+- minuscules
+- minuting

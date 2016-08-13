@@ -1,0 +1,32 @@
+---
+pattern: inno_
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 22
+score: 1508509
+score_per_word: 83806
+hi_scored_words:
+  innocence: 8699
+  innocent: 3710
+  innocently: 39103
+  innocents: 33211
+  innocuous: 37774
+  innovate: 30650
+  innovated: 85767
+  innovating: 59058
+  innovation: 5765
+  innovations: 10195
+  innovative: 7953
+  innovator: 28687
+  innovators: 37384
+scored_words:
+  innocency: 252803
+  innocuously: 300375
+  innominate: 143465
+  innovates: 150032
+  innovatory: 273878
+not_scored_words:
+- Innocent
+- innocuousness
+- innovational
+- innoxious

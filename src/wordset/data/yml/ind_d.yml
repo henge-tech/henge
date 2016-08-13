@@ -1,0 +1,31 @@
+---
+pattern: ind_d
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 21
+score: 1075443
+score_per_word: 59746
+hi_scored_words:
+  indebted: 19377
+  indeed: 1289
+  indemnified: 76037
+  indented: 35638
+  indentured: 66298
+  indexed: 6757
+  indicated: 2564
+  indicted: 21938
+  individualized: 27148
+  indoctrinated: 79058
+  induced: 3723
+  inducted: 34501
+  indulged: 32224
+  industrialized: 22455
+scored_words:
+  indisposed: 121117
+  indited: 202423
+  individuated: 188087
+  indurated: 134809
+not_scored_words:
+- indigested
+- indigoid
+- indued

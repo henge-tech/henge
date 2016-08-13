@@ -1,0 +1,28 @@
+---
+pattern: re_ne
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 18
+score: 1656042
+score_per_word: 118288
+hi_scored_words:
+  recline: 53229
+  reconvene: 67360
+  redefine: 25999
+  redline: 35658
+  redone: 46426
+  reexamine: 78358
+  refine: 11753
+  reserpine: 93282
+scored_words:
+  recombine: 113324
+  redetermine: 311831
+  reline: 290091
+  repine: 182400
+  retune: 225290
+  rezone: 121041
+not_scored_words:
+- Redstone
+- Rene
+- resupine
+- retene

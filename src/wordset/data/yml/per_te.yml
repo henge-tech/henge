@@ -1,0 +1,30 @@
+---
+pattern: per_te
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 20
+score: 1715247
+score_per_word: 114349
+hi_scored_words:
+  perchlorate: 60192
+  percolate: 90109
+  perlite: 96761
+  permanganate: 75040
+  permeate: 48773
+  perpetrate: 78121
+  perpetuate: 25929
+  persecute: 43152
+scored_words:
+  perambulate: 157276
+  perforate: 112105
+  peridotite: 165006
+  periodate: 269836
+  permute: 130770
+  perquisite: 171775
+  personate: 190402
+not_scored_words:
+- peregrinate
+- perennate
+- perfoliate
+- perorate
+- perseverate

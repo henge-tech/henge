@@ -1,0 +1,31 @@
+---
+pattern: emul_
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 21
+score: 1494427
+score_per_word: 87907
+hi_scored_words:
+  emulate: 20729
+  emulated: 42326
+  emulates: 63098
+  emulating: 53374
+  emulation: 15663
+  emulator: 20156
+  emulators: 29861
+  emulsion: 29617
+  emulsions: 53273
+scored_words:
+  emulations: 133881
+  emulous: 162882
+  emulsification: 186107
+  emulsified: 109925
+  emulsifier: 102353
+  emulsifiers: 112843
+  emulsify: 226150
+  emulsifying: 132189
+not_scored_words:
+- emulative
+- emulsifies
+- emulsive
+- emulsoid

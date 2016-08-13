@@ -1,0 +1,31 @@
+---
+pattern: co_ance
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 21
+score: 1314282
+score_per_word: 73015
+hi_scored_words:
+  cognizance: 52651
+  coinsurance: 77903
+  compliance: 2285
+  concordance: 19699
+  conductance: 32710
+  conformance: 28534
+  connivance: 95259
+  consonance: 73317
+  continuance: 21505
+  contrivance: 53785
+  conveyance: 19602
+  countenance: 18892
+  counterbalance: 48355
+  covariance: 28777
+scored_words:
+  comeuppance: 102489
+  complaisance: 210890
+  concomitance: 108488
+  convenance: 319141
+not_scored_words:
+- Constance
+- contradance
+- conversance

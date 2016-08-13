@@ -1,0 +1,41 @@
+---
+pattern: cont_es
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 31
+score: 1515962
+score_per_word: 94747
+hi_scored_words:
+  contemplates: 45863
+  contemporaries: 23986
+  contingencies: 28121
+  continues: 2648
+  continuities: 91807
+  contraceptives: 27187
+  contravenes: 82826
+  contributes: 11842
+  contrivances: 98778
+  controversies: 22430
+scored_words:
+  contaminates: 105364
+  contemplatives: 321529
+  continuances: 195043
+  contractures: 129150
+  contraries: 141668
+  contrives: 187720
+not_scored_words:
+- containerizes
+- contemporaneousnesses
+- contemporizes
+- contemptibilities
+- contextualizes
+- contiguousnesses
+- continuousnesses
+- contrabasses
+- contractilities
+- contradances
+- contradistinguishes
+- contraindicates
+- contredanses
+- contumelies
+- contuses

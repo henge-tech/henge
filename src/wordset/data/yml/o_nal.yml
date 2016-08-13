@@ -1,0 +1,27 @@
+---
+pattern: o_nal
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 17
+score: 617164
+score_per_word: 44083
+hi_scored_words:
+  observational: 21556
+  occasional: 5083
+  occupational: 15765
+  octagonal: 38548
+  omnidirectional: 76299
+  operational: 6982
+  oppositional: 60664
+  optional: 10374
+  ordinal: 32610
+  organizational: 8904
+  original: 508
+  orthogonal: 23517
+scored_words:
+  obsessional: 182385
+  orientational: 133969
+not_scored_words:
+- oblational
+- officinal
+- overemotional

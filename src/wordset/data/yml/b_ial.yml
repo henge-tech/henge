@@ -1,0 +1,28 @@
+---
+pattern: b_ial
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 18
+score: 779442
+score_per_word: 59957
+hi_scored_words:
+  bacterial: 10589
+  baronial: 83738
+  beneficial: 10358
+  bestial: 44091
+  bicentennial: 36271
+  biennial: 27788
+  binomial: 32612
+  biracial: 86810
+  brachial: 58963
+  bronchial: 34787
+  burial: 7826
+scored_words:
+  biaxial: 111276
+  bilabial: 234333
+not_scored_words:
+- Belial
+- bifacial
+- bimestrial
+- biradial
+- bursarial

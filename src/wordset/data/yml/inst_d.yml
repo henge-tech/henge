@@ -1,0 +1,21 @@
+---
+pattern: inst_d
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 11
+score: 504537
+score_per_word: 45867
+hi_scored_words:
+  installed: 3914
+  instantiated: 48983
+  instead: 739
+  instigated: 42646
+  instilled: 48908
+  instituted: 13591
+  institutionalized: 27693
+  instructed: 8636
+  instrumented: 62933
+scored_words:
+  instanced: 130544
+  instated: 115950
+not_scored_words: []

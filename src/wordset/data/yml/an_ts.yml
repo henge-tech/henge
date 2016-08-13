@@ -1,0 +1,49 @@
+---
+pattern: an_ts
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 39
+score: 2116839
+score_per_word: 96219
+hi_scored_words:
+  analysts: 6718
+  anarchists: 35899
+  ancients: 25566
+  anesthesiologists: 70359
+  anklets: 52278
+  announcements: 9780
+  antagonists: 22029
+  antecedents: 42391
+  anthropologists: 36520
+  anticoagulants: 63636
+  antidepressants: 25475
+  antioxidants: 26438
+  ants: 13359
+scored_words:
+  analects: 128590
+  anatomists: 146420
+  anesthetists: 132216
+  animists: 300190
+  annalists: 148267
+  annuitants: 144686
+  annulments: 232836
+  anoints: 266561
+  antiperspirants: 186625
+not_scored_words:
+- Anabaptists
+- Analects
+- Antichrists
+- anapests
+- anastigmats
+- anecdotists
+- animadverts
+- annulets
+- antepenults
+- anthologists
+- antiabortionists
+- anticatalysts
+- antichrists
+- anticommunists
+- antifascists
+- antifeminists
+- antivivisectionists

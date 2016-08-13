@@ -1,0 +1,39 @@
+---
+pattern: comp_ing
+hi_scored_words_count: 21
+scored_words_count: 3
+total_words: 29
+score: 1108371
+score_per_word: 46182
+hi_scored_words:
+  compacting: 74113
+  comparing: 6117
+  compelling: 8260
+  compensating: 30244
+  competing: 9832
+  compiling: 18381
+  complaining: 15124
+  complementing: 46624
+  completing: 7125
+  complicating: 41675
+  complimenting: 63393
+  complying: 13910
+  composing: 16278
+  compositing: 51476
+  composting: 29781
+  compounding: 34138
+  comprehending: 51636
+  compressing: 41810
+  comprising: 10129
+  compromising: 22712
+  computing: 7540
+scored_words:
+  compassing: 162156
+  comping: 101410
+  computerizing: 244507
+not_scored_words:
+- compartmentalizing
+- compering
+- complotting
+- comporting
+- compèring

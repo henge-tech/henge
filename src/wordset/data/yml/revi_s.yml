@@ -1,0 +1,25 @@
+---
+pattern: revi_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 740858
+score_per_word: 74085
+hi_scored_words:
+  reviewers: 16210
+  reviews: 2602
+  revises: 53048
+  revisionists: 97559
+  revisions: 10397
+  revisits: 70443
+  revivals: 61657
+  revives: 56307
+scored_words:
+  revitalizes: 168436
+  revivalists: 204199
+not_scored_words:
+- revilers
+- reviles
+- revisals
+- revisers
+- revivifies

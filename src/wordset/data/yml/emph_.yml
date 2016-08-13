@@ -1,0 +1,20 @@
+---
+pattern: emph_
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 10
+score: 217113
+score_per_word: 24123
+hi_scored_words:
+  emphases: 54948
+  emphasis: 3782
+  emphasize: 11182
+  emphasized: 11149
+  emphasizes: 18987
+  emphasizing: 20806
+  emphatic: 31854
+  emphatically: 32950
+  emphysema: 31455
+scored_words: {}
+not_scored_words:
+- emphysemic

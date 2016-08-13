@@ -1,0 +1,26 @@
+---
+pattern: dis_se
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 16
+score: 1168558
+score_per_word: 77903
+hi_scored_words:
+  disburse: 69274
+  disclose: 8555
+  discourse: 6338
+  disease: 1220
+  disguise: 12072
+  dispense: 20651
+  disperse: 24436
+  displease: 80960
+  dispose: 11134
+  disuse: 60540
+scored_words:
+  disabuse: 137208
+  discompose: 277314
+  disenfranchise: 146070
+  disfranchise: 123855
+  dispraise: 188931
+not_scored_words:
+- diseuse

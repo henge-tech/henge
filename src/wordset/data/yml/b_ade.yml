@@ -1,0 +1,21 @@
+---
+pattern: b_ade
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 501543
+score_per_word: 55727
+hi_scored_words:
+  bade: 24644
+  ballade: 79162
+  balustrade: 61924
+  barricade: 30087
+  blade: 4364
+  blockade: 17768
+  brigade: 7240
+  brocade: 29702
+scored_words:
+  biodegrade: 246652
+not_scored_words:
+- Belgrade
+- bastinade

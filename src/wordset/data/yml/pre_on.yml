@@ -1,0 +1,69 @@
+---
+pattern: pre_on
+hi_scored_words_count: 27
+scored_words_count: 14
+total_words: 59
+score: 3644601
+score_per_word: 88892
+hi_scored_words:
+  precaution: 20208
+  precession: 54022
+  precipitation: 9771
+  precision: 5125
+  preconception: 58725
+  precondition: 38916
+  predation: 32580
+  predestination: 64474
+  predication: 96878
+  prediction: 7784
+  predilection: 55948
+  predisposition: 43106
+  preemption: 50247
+  premeditation: 89041
+  premonition: 52016
+  preoccupation: 29847
+  preparation: 2559
+  preposition: 41296
+  prescription: 5553
+  preseason: 23171
+  presentation: 3527
+  preservation: 5063
+  pressurization: 97122
+  presumption: 16403
+  presupposition: 76205
+  pretension: 56981
+  prevention: 5810
+scored_words:
+  preadmission: 256534
+  preapplication: 219379
+  preclusion: 154770
+  precognition: 130083
+  predetermination: 231906
+  prefabrication: 187574
+  prefiguration: 149941
+  prehension: 217790
+  prepossession: 162198
+  prepublication: 204358
+  preregistration: 176313
+  prestidigitation: 198613
+  prevarication: 146370
+  prevision: 166394
+not_scored_words:
+- Preston
+- precalculation
+- precancelation
+- precancellation
+- precivilization
+- preconcession
+- predesignation
+- predigestion
+- predomination
+- preelection
+- preexamination
+- preignition
+- premigration
+- prenotification
+- prenotion
+- preordination
+- preterition
+- prettification

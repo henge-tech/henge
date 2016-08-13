@@ -1,0 +1,31 @@
+---
+pattern: dis_sed
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 21
+score: 1226224
+score_per_word: 64538
+hi_scored_words:
+  disbursed: 47461
+  disclosed: 9411
+  discussed: 2363
+  diseased: 22567
+  disenfranchised: 45669
+  disguised: 16966
+  dismissed: 6434
+  dispensed: 23023
+  dispersed: 12654
+  displeased: 35033
+  disposed: 8031
+  dispossessed: 55125
+  dissed: 87506
+  distressed: 12945
+  disused: 54009
+scored_words:
+  disabused: 257117
+  discomposed: 145942
+  discoursed: 156047
+  disfranchised: 227921
+not_scored_words:
+- disembarrassed
+- dispraised

@@ -1,0 +1,35 @@
+---
+pattern: d_tory
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 25
+score: 1948037
+score_per_word: 121752
+hi_scored_words:
+  declaratory: 47631
+  defamatory: 36238
+  depository: 27858
+  derogatory: 31974
+  desultory: 73105
+  directory: 3738
+  discriminatory: 16170
+  dormitory: 24645
+scored_words:
+  declamatory: 227287
+  dedicatory: 158918
+  depilatory: 173734
+  deprecatory: 264612
+  deregulatory: 220866
+  dilatory: 104038
+  dispensatory: 292109
+  divinatory: 245114
+not_scored_words:
+- damnatory
+- declinatory
+- decretory
+- defecatory
+- denigratory
+- denunciatory
+- depreciatory
+- depredatory
+- dissatisfactory

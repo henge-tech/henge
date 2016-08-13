@@ -1,0 +1,31 @@
+---
+pattern: gain_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 965451
+score_per_word: 87768
+hi_scored_words:
+  gain: 1516
+  gained: 3407
+  gainer: 53631
+  gainers: 57725
+  gainful: 66164
+  gainfully: 96729
+  gaining: 6740
+  gains: 5233
+scored_words:
+  gainsaid: 262028
+  gainsay: 135196
+  gainsaying: 277082
+not_scored_words:
+- Gaines
+- Gainesville
+- Gainsborough
+- gainless
+- gainlier
+- gainliest
+- gainly
+- gainsayer
+- gainsayers
+- gainsays

@@ -1,0 +1,52 @@
+---
+pattern: no_c
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 42
+score: 2309639
+score_per_word: 128313
+hi_scored_words:
+  nomadic: 26163
+  nonacademic: 94623
+  nonmetallic: 64110
+  nonparametric: 54260
+  nonpublic: 53560
+  nonspecific: 43732
+  nontoxic: 68014
+  nostalgic: 22978
+scored_words:
+  noetic: 109944
+  nonalcoholic: 106694
+  nonbasic: 287746
+  noneconomic: 121106
+  nonmagnetic: 173956
+  nonorganic: 303345
+  nonpathogenic: 191875
+  nonscientific: 243644
+  nostoc: 156058
+  novelistic: 187831
+not_scored_words:
+- Nordic
+- nominalistic
+- nomothetic
+- nonallergenic
+- nonallergic
+- nonanalytic
+- nonapologetic
+- nonaromatic
+- nonathletic
+- nonautomatic
+- noncaloric
+- nondemocratic
+- nondiplomatic
+- nondogmatic
+- nondomestic
+- nondramatic
+- nonelastic
+- nonelectric
+- nonnarcotic
+- nonparasitic
+- nonrhythmic
+- nonstrategic
+- nontheistic
+- nonvolcanic

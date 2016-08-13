@@ -1,0 +1,31 @@
+---
+pattern: horr_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 21
+score: 1339165
+score_per_word: 89277
+hi_scored_words:
+  horrendous: 30900
+  horrible: 4337
+  horribly: 26078
+  horrid: 21691
+  horrific: 21048
+  horrified: 25966
+  horrifying: 39926
+  horror: 2746
+  horrors: 16120
+scored_words:
+  horrendously: 109880
+  horridly: 260909
+  horrifically: 133909
+  horrifies: 247956
+  horrify: 177202
+  horrifyingly: 220497
+not_scored_words:
+- horribleness
+- horridness
+- horridnesses
+- horrification
+- horripilate
+- horripilation

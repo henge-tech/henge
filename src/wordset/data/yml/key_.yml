@@ -1,0 +1,54 @@
+---
+pattern: key_
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 44
+score: 2154446
+score_per_word: 79794
+hi_scored_words:
+  key: 876
+  keyboard: 9456
+  keyboarding: 73638
+  keyboardist: 50573
+  keyboards: 6368
+  keyed: 32859
+  keyhole: 32186
+  keying: 42411
+  keynote: 14365
+  keynotes: 66607
+  keypad: 23005
+  keypads: 57755
+  keyring: 44577
+  keys: 3025
+  keystone: 20481
+  keystroke: 45249
+  keystrokes: 40394
+  keyword: 5223
+  keywords: 4293
+scored_words:
+  keybinding: 226070
+  keybindings: 132288
+  keyboardists: 288773
+  keycard: 165028
+  keyholes: 250478
+  keynoter: 255508
+  keystones: 132577
+  keyway: 130383
+not_scored_words:
+- Key
+- Keynes
+- Keynesian
+- Keynesianism
+- Keynesianisms
+- keyboarded
+- keyboarder
+- keyboarders
+- keynoted
+- keynoters
+- keynoting
+- keypunch
+- keypunched
+- keypuncher
+- keypunchers
+- keypunches
+- keypunching

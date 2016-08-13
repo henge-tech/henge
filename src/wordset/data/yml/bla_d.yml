@@ -1,0 +1,43 @@
+---
+pattern: bla_d
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 33
+score: 1715005
+score_per_word: 81666
+hi_scored_words:
+  blackbird: 26652
+  blackboard: 21069
+  blacked: 53317
+  blackened: 29067
+  blackguard: 97206
+  blacklisted: 44266
+  blackmailed: 82721
+  bladed: 55393
+  blamed: 10669
+  blanched: 54213
+  bland: 15035
+  blanked: 71488
+  blanketed: 74118
+  blasted: 19078
+  blazed: 38027
+scored_words:
+  blabbed: 252212
+  blackballed: 239263
+  blackhead: 111442
+  blared: 133090
+  blasphemed: 139535
+  blazoned: 147144
+not_scored_words:
+- Blackbeard
+- Blackwood
+- Blanchard
+- blabbered
+- blackjacked
+- blacklegged
+- blacktopped
+- blagged
+- blandished
+- blarneyed
+- blathered
+- blatted

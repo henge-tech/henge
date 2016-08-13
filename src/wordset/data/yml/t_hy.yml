@@ -1,0 +1,40 @@
+---
+pattern: t_hy
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 30
+score: 1029679
+score_per_word: 57204
+hi_scored_words:
+  techy: 76099
+  telegraphy: 59833
+  telepathy: 44882
+  theosophy: 50381
+  thermography: 92459
+  thy: 3219
+  timothy: 6833
+  tomography: 22517
+  topography: 19817
+  touchy: 34438
+  trashy: 26720
+  trophy: 9643
+  trustworthy: 16156
+  tushy: 82737
+  twitchy: 78382
+  typography: 26022
+scored_words:
+  tetchy: 277072
+  toothy: 102469
+not_scored_words:
+- Theosophy
+- Timothy
+- Titanomachy
+- tachygraphy
+- tauromachy
+- telephotography
+- tenorrhaphy
+- thalassography
+- thearchy
+- theomachy
+- titchy
+- triarchy

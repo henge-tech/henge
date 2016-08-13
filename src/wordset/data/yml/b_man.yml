@@ -1,0 +1,55 @@
+---
+pattern: b_man
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 45
+score: 1966784
+score_per_word: 85512
+hi_scored_words:
+  badman: 82773
+  barman: 42012
+  baseman: 27012
+  batman: 13914
+  batsman: 40132
+  bellman: 56469
+  birdman: 47182
+  boatman: 55158
+  bogeyman: 80668
+  bondsman: 66057
+  boogeyman: 65674
+  bookman: 60691
+  bowman: 18331
+  bushman: 54441
+  businessman: 15077
+  businesswoman: 51567
+scored_words:
+  backwoodsman: 156264
+  bagman: 131883
+  bluesman: 108251
+  bondman: 242749
+  boogieman: 216553
+  brakeman: 113369
+  busman: 220557
+not_scored_words:
+- Bahaman
+- Batman
+- Bergman
+- Betjeman
+- Bildungsroman
+- Bowman
+- Brahman
+- Bridgman
+- Burman
+- Bushman
+- bailsman
+- bandsman
+- bargeman
+- beadsman
+- bedesman
+- binman
+- boatsman
+- bogyman
+- bondswoman
+- bondwoman
+- brakesman
+- bushelman

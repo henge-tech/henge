@@ -1,0 +1,49 @@
+---
+pattern: s_ws
+hi_scored_words_count: 18
+scored_words_count: 12
+total_words: 39
+score: 3119252
+score_per_word: 103975
+hi_scored_words:
+  saws: 22632
+  scarecrows: 79300
+  screws: 11768
+  shadows: 4830
+  shallows: 52251
+  shows: 850
+  shrews: 91737
+  sinews: 92287
+  slideshows: 52004
+  slows: 20076
+  snows: 36175
+  sorrows: 18421
+  sows: 50441
+  sparrows: 34350
+  spews: 77849
+  stews: 43339
+  straws: 35425
+  swallows: 22742
+scored_words:
+  schoolfellows: 130220
+  scofflaws: 317544
+  seesaws: 264519
+  sews: 112525
+  shews: 123761
+  sideshows: 174978
+  skews: 105075
+  slews: 318883
+  snowplows: 178880
+  southpaws: 259742
+  squaws: 187725
+  stows: 198923
+not_scored_words:
+- saddlebows
+- scows
+- scrimshaws
+- serows
+- setscrews
+- shopwindows
+- smews
+- strews
+- sundews

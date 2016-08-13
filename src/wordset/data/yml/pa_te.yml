@@ -1,0 +1,47 @@
+---
+pattern: pa_te
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 37
+score: 2274143
+score_per_word: 103370
+hi_scored_words:
+  palate: 16867
+  palatinate: 68235
+  palette: 15781
+  palmitate: 90369
+  parachute: 23259
+  parasite: 17802
+  participate: 4846
+  particulate: 24455
+  passionate: 7871
+  paste: 6370
+  pate: 24779
+  patriarchate: 65277
+scored_words:
+  paginate: 148438
+  pallette: 135347
+  palliate: 154945
+  palmate: 263725
+  palpate: 215893
+  palpitate: 145397
+  partite: 127616
+  passivate: 325255
+  pastorate: 114429
+  patriate: 277187
+not_scored_words:
+- Paiute
+- Palatinate
+- Papeete
+- Paraclete
+- Pate
+- Paulette
+- paillette
+- palmette
+- palpebrate
+- pandurate
+- paniculate
+- papillote
+- paripinnate
+- patellate
+- patriciate

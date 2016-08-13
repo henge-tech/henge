@@ -1,0 +1,29 @@
+---
+pattern: l_ger
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 846469
+score_per_word: 70539
+hi_scored_words:
+  lager: 23648
+  larger: 1086
+  ledger: 15686
+  liger: 82889
+  linger: 28314
+  lodger: 32837
+  logger: 28176
+  longer: 734
+  lounger: 71756
+scored_words:
+  laager: 128173
+  lagger: 325983
+  lugger: 107187
+not_scored_words:
+- Langer
+- Leger
+- Limburger
+- Luger
+- Luxembourger
+- ladyfinger
+- lunger

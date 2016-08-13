@@ -1,0 +1,32 @@
+---
+pattern: s_lar
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 22
+score: 652661
+score_per_word: 46618
+hi_scored_words:
+  scalar: 16361
+  scapular: 98154
+  scholar: 5690
+  secular: 8688
+  semicircular: 59858
+  similar: 569
+  singular: 7474
+  solar: 4434
+  spectacular: 8557
+  specular: 52089
+  stellar: 18238
+  subcellular: 48277
+  supramolecular: 97593
+scored_words:
+  saccular: 226679
+not_scored_words:
+- saltcellar
+- sinistrocular
+- stellular
+- subauricular
+- submolecular
+- subscapular
+- subsolar
+- sustentacular

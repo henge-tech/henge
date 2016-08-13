@@ -1,0 +1,62 @@
+---
+pattern: nut_
+hi_scored_words_count: 22
+scored_words_count: 10
+total_words: 52
+score: 2762715
+score_per_word: 86334
+hi_scored_words:
+  nut: 7081
+  nutcase: 80115
+  nutcracker: 32466
+  nutcrackers: 91167
+  nuthatch: 65222
+  nutmeg: 23654
+  nutmegs: 88357
+  nutrient: 13646
+  nutrients: 9511
+  nutrition: 7341
+  nutritional: 11154
+  nutritionally: 58158
+  nutritionist: 42670
+  nutritionists: 40661
+  nutritious: 26735
+  nutritive: 53250
+  nuts: 8005
+  nutshell: 24186
+  nutter: 38995
+  nutters: 70230
+  nutting: 86169
+  nutty: 26860
+scored_words:
+  nutation: 142540
+  nutbrown: 272868
+  nutcases: 179784
+  nuthatches: 145944
+  nuthouse: 114884
+  nutria: 115173
+  nutriment: 123497
+  nutshells: 273208
+  nuttier: 272609
+  nuttiness: 216575
+not_scored_words:
+- Nut
+- NutraSweet
+- nutations
+- nutgall
+- nuthouses
+- nutlet
+- nutmeat
+- nutmeats
+- nutpick
+- nutpicks
+- nutrias
+- nutrilite
+- nutrimental
+- nutriments
+- nutritiously
+- nutritiousness
+- nutted
+- nuttiest
+- nuttily
+- nutwood

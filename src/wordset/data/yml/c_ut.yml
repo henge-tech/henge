@@ -1,0 +1,31 @@
+---
+pattern: c_ut
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 21
+score: 1154229
+score_per_word: 76948
+hi_scored_words:
+  caput: 80799
+  checkout: 10564
+  chestnut: 11708
+  clearcut: 94606
+  closeout: 49912
+  clout: 30523
+  coconut: 14580
+  cookout: 61284
+  cosmonaut: 68772
+  crosscut: 71555
+  cut: 651
+  cutout: 36887
+scored_words:
+  cajeput: 315888
+  carryout: 114415
+  catgut: 192085
+not_scored_words:
+- Calicut
+- Connecticut
+- cajuput
+- candlenut
+- cobnut
+- cybernaut

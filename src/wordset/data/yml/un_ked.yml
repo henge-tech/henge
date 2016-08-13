@@ -1,0 +1,33 @@
+---
+pattern: un_ked
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 23
+score: 1230825
+score_per_word: 82055
+hi_scored_words:
+  unblocked: 77765
+  unchecked: 24803
+  uncooked: 47853
+  uncorked: 85646
+  undercooked: 87164
+  unlinked: 86140
+  unlocked: 11610
+  unmarked: 27220
+  unmasked: 45983
+  unpacked: 37446
+  unprovoked: 54201
+scored_words:
+  unasked: 113530
+  unbaked: 144909
+  unhooked: 128777
+  unremarked: 257778
+not_scored_words:
+- unbacked
+- unbooked
+- uncloaked
+- unfrocked
+- unpicked
+- unrevoked
+- unstacked
+- unyoked

@@ -1,0 +1,32 @@
+---
+pattern: u_ped
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 22
+score: 1586104
+score_per_word: 113293
+hi_scored_words:
+  uncapped: 73943
+  underdeveloped: 34583
+  undeveloped: 25222
+  untapped: 42132
+  unwrapped: 50447
+  unzipped: 46855
+  upped: 44641
+  usurped: 48412
+scored_words:
+  unclasped: 183244
+  uncropped: 249529
+  undamped: 191655
+  unequipped: 181728
+  unmapped: 122413
+  unstamped: 291300
+not_scored_words:
+- umped
+- undraped
+- unhoped
+- unshaped
+- unsnapped
+- unstopped
+- unstrapped
+- unstriped

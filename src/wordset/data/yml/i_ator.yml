@@ -1,0 +1,49 @@
+---
+pattern: i_ator
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 39
+score: 2140249
+score_per_word: 85609
+hi_scored_words:
+  illuminator: 57031
+  illustrator: 16363
+  imitator: 85536
+  imperator: 70080
+  impersonator: 51292
+  incinerator: 39945
+  incubator: 25340
+  indicator: 12092
+  infiltrator: 72833
+  initiator: 28535
+  innovator: 28687
+  instigator: 57937
+  insulator: 33340
+  integrator: 29960
+  interrogator: 64591
+  investigator: 10617
+  isolator: 64914
+  iterator: 41708
+scored_words:
+  incorporator: 238015
+  inflator: 132763
+  interpolator: 190302
+  intimidator: 137697
+  invigilator: 188403
+  irradiator: 294995
+  irrigator: 167273
+not_scored_words:
+- immolator
+- imprecator
+- impregnator
+- improvisator
+- inaugurator
+- incarcerator
+- inculcator
+- indoctrinator
+- inhalator
+- inoculator
+- inseminator
+- insinuator
+- invalidator
+- irritator

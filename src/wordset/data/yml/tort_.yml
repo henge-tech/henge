@@ -1,0 +1,44 @@
+---
+pattern: tort_
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 34
+score: 1744001
+score_per_word: 79272
+hi_scored_words:
+  tort: 16837
+  torte: 78133
+  tortellini: 70612
+  tortilla: 28236
+  tortillas: 37991
+  tortious: 82370
+  tortoise: 19419
+  tortoises: 52830
+  tortoiseshell: 75990
+  torts: 35982
+  tortuous: 47843
+  torture: 3961
+  tortured: 10416
+  torturer: 82170
+  torturers: 91320
+  tortures: 43058
+  torturing: 31431
+  torturous: 87439
+scored_words:
+  tortes: 269143
+  tortfeasor: 185296
+  torticollis: 145139
+  tortuosity: 248385
+not_scored_words:
+- Tortola
+- Tortuga
+- torticollises
+- tortile
+- tortoiseshells
+- tortoni
+- tortricid
+- tortricids
+- tortuosities
+- tortuously
+- tortuousness
+- torturously

@@ -1,0 +1,56 @@
+---
+pattern: com_t
+hi_scored_words_count: 28
+scored_words_count: 7
+total_words: 46
+score: 1985833
+score_per_word: 56738
+hi_scored_words:
+  combat: 3291
+  combatant: 33750
+  comet: 11523
+  comfort: 1933
+  commandant: 31768
+  commandment: 22218
+  commencement: 8410
+  comment: 1104
+  commissariat: 88060
+  commit: 3293
+  commitment: 8470
+  commonest: 51803
+  communist: 8617
+  compact: 3749
+  compartment: 10792
+  compatriot: 64132
+  competent: 6371
+  complacent: 30389
+  complainant: 22038
+  complaint: 3810
+  compleat: 69689
+  complement: 9161
+  compliant: 18394
+  complicit: 57204
+  compliment: 9695
+  component: 5515
+  comport: 67338
+  compost: 19642
+scored_words:
+  combust: 100542
+  communicant: 145918
+  complaisant: 229237
+  completest: 151186
+  completist: 263225
+  complot: 212115
+  comportment: 211451
+not_scored_words:
+- Comdt
+- Commandment
+- Communist
+- Comsat
+- comeliest
+- comfiest
+- comfit
+- commercialist
+- commorant
+- compactest
+- complect

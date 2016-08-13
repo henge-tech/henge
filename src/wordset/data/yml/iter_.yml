@@ -1,0 +1,20 @@
+---
+pattern: iter_
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 10
+score: 542057
+score_per_word: 54205
+hi_scored_words:
+  iterate: 41858
+  iterated: 53224
+  iterates: 94814
+  iterating: 82059
+  iteration: 20252
+  iterations: 24211
+  iterative: 24607
+  iteratively: 75169
+  iterator: 41708
+  iterators: 84155
+scored_words: {}
+not_scored_words: []

@@ -1,0 +1,56 @@
+---
+pattern: pr_ve
+hi_scored_words_count: 23
+scored_words_count: 8
+total_words: 46
+score: 2036464
+score_per_word: 65692
+hi_scored_words:
+  predictive: 14244
+  preemptive: 35921
+  preoperative: 35942
+  preparative: 86597
+  prerogative: 25198
+  prescriptive: 35604
+  preservative: 33944
+  preserve: 4010
+  presumptive: 44098
+  preventative: 25205
+  preventive: 13186
+  primitive: 6094
+  proactive: 13206
+  probative: 66571
+  productive: 5832
+  progressive: 6542
+  prohibitive: 37831
+  projective: 33565
+  proliferative: 51051
+  prospective: 7057
+  protective: 6697
+  prove: 2137
+  provocative: 20110
+scored_words:
+  preclusive: 238688
+  precognitive: 234499
+  predicative: 118713
+  privative: 222451
+  procreative: 115920
+  promotive: 278885
+  proprioceptive: 112110
+  propulsive: 104556
+not_scored_words:
+- preapprove
+- preceptive
+- precipitative
+- preconceive
+- prefigurative
+- prelusive
+- premeditative
+- prepositive
+- presentative
+- preteritive
+- profusive
+- progenitive
+- propagative
+- proscriptive
+- protrusive

@@ -1,0 +1,23 @@
+---
+pattern: exis_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 665955
+score_per_word: 55496
+hi_scored_words:
+  exist: 1910
+  existed: 5151
+  existence: 2172
+  existences: 94859
+  existent: 18890
+  existential: 26544
+  existentialism: 48949
+  existentialist: 85382
+  existing: 1580
+  exists: 2552
+scored_words:
+  existentialists: 240421
+  existentially: 137545
+not_scored_words:
+- existentialistic

@@ -1,0 +1,49 @@
+---
+pattern: s_ad
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 39
+score: 2219328
+score_per_word: 96492
+hi_scored_words:
+  sad: 2333
+  salad: 6373
+  scad: 72603
+  shad: 33529
+  shitload: 83482
+  shortbread: 60236
+  skinhead: 56344
+  spearhead: 36216
+  spread: 1666
+  squad: 5886
+  stead: 20866
+  steelhead: 34298
+scored_words:
+  scratchpad: 146962
+  sheepshead: 104288
+  shipload: 273746
+  shithead: 112472
+  shovelhead: 218072
+  showbread: 145235
+  sketchpad: 109519
+  sleepyhead: 155690
+  springhead: 330755
+  stepdad: 106611
+  subhead: 102146
+not_scored_words:
+- Secunderabad
+- Sinbad
+- Sindbad
+- Snead
+- Spithead
+- Stalinabad
+- Stalingrad
+- saphead
+- sightread
+- sinistrad
+- sorehead
+- stairhead
+- statfarad
+- superload
+- sweetbread
+- swellhead

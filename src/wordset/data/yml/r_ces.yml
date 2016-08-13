@@ -1,0 +1,52 @@
+---
+pattern: r_ces
+hi_scored_words_count: 19
+scored_words_count: 9
+total_words: 42
+score: 2184739
+score_per_word: 78026
+hi_scored_words:
+  races: 3886
+  recurrences: 62701
+  reduces: 8348
+  references: 1342
+  refinances: 85509
+  reinforces: 25097
+  rejoices: 68699
+  remembrances: 56947
+  reminiscences: 36595
+  remittances: 37974
+  renounces: 86633
+  replaces: 15288
+  reproduces: 43331
+  resemblances: 93214
+  residences: 16488
+  resistances: 56970
+  resonances: 40377
+  resources: 1045
+  romances: 28018
+scored_words:
+  reassurances: 113086
+  reflectances: 250292
+  reintroduces: 185005
+  reminisces: 119847
+  remonstrances: 155269
+  resurfaces: 111666
+  retraces: 204164
+  reverences: 172157
+  rices: 104791
+not_scored_words:
+- Renaissances
+- radices
+- reactances
+- reappearances
+- recces
+- recognizances
+- recommences
+- reconnaissances
+- recrudesces
+- refaces
+- renaissances
+- renascences
+- reprices
+- resurgences

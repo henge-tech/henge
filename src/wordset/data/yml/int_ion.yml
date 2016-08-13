@@ -1,0 +1,62 @@
+---
+pattern: int_ion
+hi_scored_words_count: 28
+scored_words_count: 12
+total_words: 52
+score: 2598191
+score_per_word: 64954
+hi_scored_words:
+  integration: 10369
+  intensification: 36896
+  intention: 3862
+  interaction: 9374
+  interception: 20935
+  intercession: 41306
+  interconnection: 22847
+  interdiction: 54761
+  interjection: 65810
+  intermission: 27142
+  internalization: 61101
+  internationalization: 33161
+  interpolation: 25479
+  interposition: 68860
+  interpretation: 3450
+  interrelation: 76212
+  interrogation: 18312
+  interruption: 12068
+  intersection: 10694
+  intervention: 8852
+  intimation: 51822
+  intimidation: 22119
+  intonation: 32203
+  intoxication: 23140
+  introduction: 1621
+  introspection: 34530
+  intrusion: 11275
+  intuition: 12769
+scored_words:
+  intellection: 225314
+  intension: 138241
+  intercalation: 102558
+  intercommunication: 109065
+  interconversion: 181569
+  interpellation: 215463
+  interpenetration: 151039
+  intersession: 141166
+  introgression: 180777
+  intromission: 124102
+  introversion: 106182
+  intussusception: 121745
+not_scored_words:
+- intellectualization
+- intercolumniation
+- intercommunion
+- interfusion
+- interlocution
+- interlunation
+- intermigration
+- interspersion
+- intinction
+- intorsion
+- intravasation
+- introjection

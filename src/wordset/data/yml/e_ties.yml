@@ -1,0 +1,32 @@
+---
+pattern: e_ties
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1531370
+score_per_word: 102091
+hi_scored_words:
+  eccentricities: 68850
+  eighties: 28051
+  elasticities: 55146
+  empties: 47117
+  entities: 10300
+  entreaties: 80538
+  equalities: 60404
+  equities: 24142
+  externalities: 39136
+  extremities: 24631
+scored_words:
+  emissivities: 340322
+  enmities: 176538
+  enormities: 238573
+  eternities: 224443
+  eventualities: 113179
+not_scored_words:
+- edacities
+- effectivities
+- effectualities
+- ellipticities
+- emotionalities
+- ephemeralities
+- essentialities

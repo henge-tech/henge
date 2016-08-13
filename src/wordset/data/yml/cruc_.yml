@@ -1,0 +1,33 @@
+---
+pattern: cruc_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 23
+score: 1076862
+score_per_word: 71790
+hi_scored_words:
+  cruces: 34886
+  crucial: 7906
+  crucially: 40616
+  cruciate: 61862
+  crucible: 27523
+  crucibles: 92040
+  crucified: 25652
+  crucifix: 28809
+  crucifixes: 70691
+  crucifixion: 29207
+  cruciform: 78410
+  crucify: 53802
+scored_words:
+  crucifer: 196057
+  cruciferous: 135828
+  crucifying: 193573
+not_scored_words:
+- Crucifixion
+- Crucifixions
+- cruciality
+- crucifers
+- crucifies
+- crucifixions
+- cruciforms
+- cruck

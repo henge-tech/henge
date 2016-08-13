@@ -1,0 +1,43 @@
+---
+pattern: con_tes
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 33
+score: 2269059
+score_per_word: 113452
+hi_scored_words:
+  concentrates: 23940
+  concretes: 92800
+  confederates: 45675
+  conglomerates: 44512
+  congratulates: 55574
+  conjugates: 57812
+  connotes: 85188
+  consolidates: 59519
+  constitutes: 3946
+  consulates: 43755
+  contemplates: 45863
+  contributes: 11842
+scored_words:
+  concatenates: 220427
+  condensates: 102804
+  confidantes: 307086
+  confiscates: 200964
+  conflates: 204789
+  congregates: 300770
+  consecrates: 256429
+  contaminates: 105364
+not_scored_words:
+- Confederates
+- conciliates
+- confabulates
+- confutes
+- conglobates
+- conglutinates
+- consociates
+- constellates
+- consternates
+- constipates
+- consummates
+- contraindicates
+- convolutes

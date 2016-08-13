@@ -1,0 +1,53 @@
+---
+pattern: m_ge
+hi_scored_words_count: 19
+scored_words_count: 10
+total_words: 43
+score: 2436883
+score_per_word: 84030
+hi_scored_words:
+  macrophage: 37553
+  mage: 18119
+  manage: 1909
+  mange: 43400
+  marge: 26437
+  marriage: 1341
+  massage: 10914
+  melange: 57935
+  menage: 55565
+  merge: 11872
+  message: 526
+  midge: 40376
+  mileage: 15940
+  millage: 95692
+  mirage: 16033
+  miscarriage: 24270
+  montage: 22043
+  mortgage: 3919
+  multistage: 75587
+scored_words:
+  manege: 299023
+  messuage: 181881
+  metalanguage: 144309
+  micromanage: 151980
+  mintage: 126222
+  misjudge: 151112
+  mismanage: 293983
+  moorage: 192449
+  mucilage: 148289
+  muskellunge: 188204
+not_scored_words:
+- Madge
+- Marge
+- manège
+- maskanonge
+- matrilineage
+- matronage
+- megatonnage
+- megawattage
+- meltage
+- metage
+- meterage
+- misusage
+- mtge
+- murage

@@ -1,0 +1,26 @@
+---
+pattern: co_rd
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 821586
+score_per_word: 74689
+hi_scored_words:
+  coastguard: 42514
+  codeword: 78021
+  collard: 56071
+  concord: 10373
+  cord: 4831
+  courtyard: 7940
+  coward: 13554
+  cowbird: 93365
+  cowherd: 94505
+scored_words:
+  corkboard: 211627
+  costard: 208785
+not_scored_words:
+- Communard
+- Concord
+- Coward
+- coastward
+- counterword

@@ -1,0 +1,35 @@
+---
+pattern: _fted
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 25
+score: 1841930
+score_per_word: 87710
+hi_scored_words:
+  airlifted: 84999
+  crafted: 10130
+  drafted: 13607
+  drifted: 19181
+  gifted: 8117
+  grafted: 46804
+  handcrafted: 25514
+  lifted: 5930
+  shafted: 69020
+  shifted: 9884
+  sifted: 50671
+  tufted: 43098
+  uplifted: 34414
+  wafted: 87237
+scored_words:
+  engrafted: 203963
+  hefted: 211347
+  lofted: 119039
+  rafted: 215762
+  redrafted: 162121
+  rifted: 283183
+  shoplifted: 137909
+not_scored_words:
+- crufted
+- downshifted
+- ingrafted
+- unsifted

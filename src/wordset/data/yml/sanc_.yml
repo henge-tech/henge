@@ -1,0 +1,35 @@
+---
+pattern: sanc_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 25
+score: 965627
+score_per_word: 64375
+hi_scored_words:
+  sanctification: 48053
+  sanctified: 33904
+  sanctify: 51182
+  sanctimonious: 71136
+  sanction: 13023
+  sanctioned: 16985
+  sanctioning: 57772
+  sanctions: 11415
+  sanctity: 24129
+  sanctuaries: 39718
+  sanctuary: 7547
+  sanctum: 43483
+scored_words:
+  sanctifies: 162467
+  sanctifying: 102684
+  sanctimony: 282129
+not_scored_words:
+- Sanchez
+- Sancho
+- Sanchung
+- Sanctus
+- sanctifier
+- sanctimoniously
+- sanctimoniousness
+- sanctionable
+- sanctitude
+- sanctums

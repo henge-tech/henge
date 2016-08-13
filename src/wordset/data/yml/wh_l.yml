@@ -1,0 +1,27 @@
+---
+pattern: wh_l
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 847679
+score_per_word: 70639
+hi_scored_words:
+  wheel: 2428
+  wherewithal: 57741
+  whimsical: 21625
+  whirl: 23768
+  whirlpool: 16670
+  whitetail: 55859
+  who'll: 25580
+  wholemeal: 84082
+  whorl: 54143
+scored_words:
+  wheal: 103912
+  whippoorwill: 125656
+  whitewall: 276215
+not_scored_words:
+- Whirlpool
+- Whitechapel
+- Whitehall
+- wheatmeal
+- whipstall

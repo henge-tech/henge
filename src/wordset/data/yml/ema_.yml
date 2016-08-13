@@ -1,0 +1,47 @@
+---
+pattern: ema_
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 37
+score: 2299109
+score_per_word: 99961
+hi_scored_words:
+  emaciated: 55388
+  email: 873
+  emailed: 12692
+  emailing: 24743
+  emails: 4930
+  emanate: 50416
+  emanated: 68506
+  emanates: 68661
+  emanating: 34497
+  emanation: 67294
+  emanations: 89901
+  emancipate: 86818
+  emancipated: 55694
+  emancipation: 17922
+scored_words:
+  emaciation: 139755
+  emancipating: 164388
+  emancipator: 242716
+  emancipatory: 124769
+  emarginate: 287046
+  emasculate: 172924
+  emasculated: 131518
+  emasculating: 272279
+  emasculation: 125379
+not_scored_words:
+- Emacs
+- Emanuel
+- emaciate
+- emaciates
+- emaciating
+- emalangeni
+- emanative
+- emanator
+- emancipates
+- emancipators
+- emasculates
+- emasculative
+- emasculator
+- emasculatory

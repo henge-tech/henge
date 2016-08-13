@@ -1,0 +1,44 @@
+---
+pattern: reap_
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 34
+score: 2097466
+score_per_word: 95339
+hi_scored_words:
+  reap: 13525
+  reaped: 51400
+  reaper: 22093
+  reapers: 72116
+  reaping: 39118
+  reappear: 41971
+  reappearance: 58626
+  reappeared: 47520
+  reappears: 57205
+  reapply: 50534
+  reappointed: 63412
+  reappointment: 70150
+  reapportionment: 98590
+  reappraisal: 68104
+  reaps: 64106
+scored_words:
+  reappearing: 103719
+  reapplication: 157974
+  reapplied: 113941
+  reapplying: 166518
+  reappoint: 174953
+  reappraise: 265173
+  reappraised: 296718
+not_scored_words:
+- reappearances
+- reapplications
+- reapplies
+- reappointing
+- reappoints
+- reapportion
+- reapportioned
+- reapportioning
+- reapportions
+- reappraisals
+- reappraises
+- reappraising

@@ -1,0 +1,20 @@
+---
+pattern: give_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 156264
+score_per_word: 19533
+hi_scored_words:
+  give: 223
+  giveaway: 17799
+  giveaways: 20875
+  given: 288
+  givens: 41949
+  giver: 23371
+  givers: 50776
+  gives: 983
+scored_words: {}
+not_scored_words:
+- giveback
+- givebacks

@@ -1,0 +1,34 @@
+---
+pattern: ques_
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 24
+score: 1328309
+score_per_word: 66415
+hi_scored_words:
+  ques: 41151
+  quesadilla: 81898
+  quesadillas: 82347
+  quest: 3940
+  quested: 93297
+  questing: 61232
+  question: 310
+  questionable: 11541
+  questioned: 6908
+  questioner: 47975
+  questioning: 8490
+  questionnaire: 11597
+  questionnaires: 16774
+  questions: 470
+  quests: 19192
+scored_words:
+  quester: 152194
+  questionably: 177608
+  questioners: 147274
+  questioningly: 149679
+  questionings: 214432
+not_scored_words:
+- Quesnay
+- questionability
+- questionary
+- questionless

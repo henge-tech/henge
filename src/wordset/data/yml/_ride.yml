@@ -1,0 +1,53 @@
+---
+pattern: _ride
+hi_scored_words_count: 20
+scored_words_count: 9
+total_words: 43
+score: 2167853
+score_per_word: 74753
+hi_scored_words:
+  anhydride: 50188
+  astride: 48762
+  bichloride: 82305
+  bride: 4276
+  chloride: 11869
+  deride: 70864
+  fluoride: 21037
+  hayride: 94853
+  hydride: 43293
+  hydrochloride: 25702
+  joyride: 65575
+  nitride: 43940
+  override: 18685
+  polysaccharide: 53329
+  pride: 2486
+  ride: 1697
+  stride: 14828
+  telluride: 35118
+  tetrachloride: 56565
+  triglyceride: 53468
+scored_words:
+  bestride: 178825
+  dichloride: 116846
+  disaccharide: 163424
+  glyceride: 170875
+  monosaccharide: 137531
+  oligosaccharide: 106054
+  perchloride: 123990
+  saccharide: 249885
+  trichloride: 121583
+not_scored_words:
+- Bride
+- MacBride
+- McBride
+- Pride
+- Ride
+- boride
+- gride
+- hagride
+- leporide
+- monochloride
+- outride
+- overstride
+- subchloride
+- trisaccharide

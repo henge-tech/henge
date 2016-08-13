@@ -1,0 +1,28 @@
+---
+pattern: as_ion
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 731444
+score_per_word: 60953
+hi_scored_words:
+  ascension: 18464
+  asphyxiation: 81568
+  aspiration: 17273
+  assassination: 11915
+  assertion: 8935
+  assimilation: 20300
+  association: 1406
+  assumption: 5325
+scored_words:
+  ascription: 120319
+  aspersion: 185895
+  asseveration: 146431
+  assignation: 113613
+not_scored_words:
+- Ascension
+- Assumption
+- Asuncion
+- assentation
+- astrogation
+- astronavigation

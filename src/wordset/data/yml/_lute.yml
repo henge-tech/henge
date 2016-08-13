@@ -1,0 +1,30 @@
+---
+pattern: _lute
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 20
+score: 1304957
+score_per_word: 86997
+hi_scored_words:
+  absolute: 2487
+  dilute: 23266
+  dissolute: 68548
+  flute: 9291
+  lute: 25758
+  pollute: 39780
+  resolute: 27179
+  salute: 11271
+  solute: 34383
+scored_words:
+  convolute: 246743
+  elute: 168886
+  involute: 141109
+  irresolute: 113238
+  revolute: 237238
+  volute: 155780
+not_scored_words:
+- archlute
+- ballute
+- consolute
+- evolute
+- obvolute

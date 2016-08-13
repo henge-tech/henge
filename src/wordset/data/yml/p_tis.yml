@@ -1,0 +1,27 @@
+---
+pattern: p_tis
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 713542
+score_per_word: 79282
+hi_scored_words:
+  pancreatitis: 37397
+  pericarditis: 75599
+  peritonitis: 49280
+  pharyngitis: 75068
+  phlebitis: 98629
+  poliomyelitis: 58192
+  prostatitis: 76048
+  pyelonephritis: 90629
+scored_words:
+  pastis: 152700
+not_scored_words:
+- parotitis
+- perineuritis
+- periostitis
+- polyneuritis
+- priapitis
+- proglottis
+- pyelitis
+- pyonephritis

@@ -1,0 +1,27 @@
+---
+pattern: s_tch
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 17
+score: 365385
+score_per_word: 33216
+hi_scored_words:
+  scotch: 10056
+  scratch: 6203
+  sketch: 6748
+  snatch: 12413
+  snitch: 43552
+  stitch: 9444
+  stopwatch: 37328
+  stretch: 3822
+  swatch: 31477
+  switch: 4168
+scored_words:
+  splotch: 200174
+not_scored_words:
+- Sasquatch
+- Scotch
+- Shostakovitch
+- scutch
+- smartwatch
+- smutch

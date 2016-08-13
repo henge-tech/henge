@@ -1,0 +1,28 @@
+---
+pattern: co_cts
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 18
+score: 910831
+score_per_word: 60722
+hi_scored_words:
+  collects: 13845
+  compacts: 49130
+  conducts: 15275
+  conflicts: 6286
+  connects: 10098
+  constructs: 20975
+  contacts: 6386
+  contracts: 3493
+  contradicts: 29850
+  convicts: 30726
+  corrects: 36668
+scored_words:
+  concocts: 223670
+  conjuncts: 179808
+  constricts: 174597
+  counteracts: 110024
+not_scored_words:
+- coacts
+- confects
+- convects

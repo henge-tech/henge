@@ -1,0 +1,28 @@
+---
+pattern: writ_
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 18
+score: 741583
+score_per_word: 46348
+hi_scored_words:
+  writ: 12504
+  writable: 61705
+  write: 459
+  writer: 1737
+  writers: 2412
+  writes: 3088
+  writeup: 56872
+  writhe: 79555
+  writhed: 88584
+  writhing: 51739
+  writing: 629
+  writings: 5318
+  writs: 42507
+  written: 463
+scored_words:
+  writeable: 141580
+  writhes: 192431
+not_scored_words:
+- Writings
+- writhen

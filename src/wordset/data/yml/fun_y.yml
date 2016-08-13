@@ -1,0 +1,23 @@
+---
+pattern: fun_y
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 556364
+score_per_word: 61818
+hi_scored_words:
+  functionality: 9647
+  functionally: 24247
+  functionary: 91884
+  fundamentally: 13920
+  funerary: 55333
+  funky: 12542
+  funnily: 61017
+  funny: 1952
+scored_words:
+  fungibility: 285822
+not_scored_words:
+- Fundy
+- funereally
+- fungosity
+- funkily

@@ -1,0 +1,38 @@
+---
+pattern: s_cy
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 28
+score: 993945
+score_per_word: 76457
+hi_scored_words:
+  saucy: 28883
+  secrecy: 12826
+  secy: 84347
+  solvency: 39428
+  spicy: 13551
+  stringency: 88227
+  sufficiency: 18949
+  supremacy: 15382
+  surrogacy: 76745
+scored_words:
+  saliency: 132294
+  subserviency: 136202
+  superintendency: 134874
+  sycophancy: 212237
+not_scored_words:
+- Stacy
+- sciomancy
+- sentiency
+- sibilancy
+- significancy
+- slavocracy
+- somnolency
+- stagnancy
+- stratocracy
+- stridency
+- subagency
+- subjacency
+- subtenancy
+- succulency
+- superagency

@@ -1,0 +1,40 @@
+---
+pattern: bi_er
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 30
+score: 1460302
+score_per_word: 91268
+hi_scored_words:
+  bicker: 67305
+  bidder: 12076
+  bier: 34496
+  bigger: 3506
+  biker: 17666
+  binder: 22060
+  biographer: 32267
+  biter: 61826
+  bitter: 5052
+scored_words:
+  bibber: 180590
+  bibliographer: 132423
+  binger: 154093
+  bioengineer: 291059
+  birder: 110394
+  birdwatcher: 158300
+  bitterer: 177189
+not_scored_words:
+- Biedermeier
+- Bikaner
+- Bircher
+- bickerer
+- bicycler
+- bigener
+- bilander
+- bilker
+- billposter
+- biogeographer
+- birther
+- bister
+- bitchier
+- bittier

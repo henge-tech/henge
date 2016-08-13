@@ -1,0 +1,38 @@
+---
+pattern: o_ated
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 28
+score: 2185982
+score_per_word: 95042
+hi_scored_words:
+  obfuscated: 85399
+  obligated: 15746
+  obliterated: 41808
+  officiated: 63704
+  operated: 4862
+  opinionated: 34804
+  orchestrated: 32781
+  orientated: 30642
+  originated: 17013
+  outdated: 9705
+  overestimated: 58365
+  overheated: 59924
+  overrated: 27864
+  overstated: 42741
+  oxygenated: 54058
+scored_words:
+  obviated: 116437
+  oscillated: 166176
+  overcompensated: 285248
+  overeducated: 189112
+  overinflated: 288241
+  overpopulated: 119843
+  overstimulated: 270224
+  ovulated: 171285
+not_scored_words:
+- objurgated
+- orated
+- osculated
+- overcomplicated
+- overdecorated

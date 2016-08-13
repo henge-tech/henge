@@ -1,0 +1,28 @@
+---
+pattern: nutr_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 501796
+score_per_word: 45617
+hi_scored_words:
+  nutrient: 13646
+  nutrients: 9511
+  nutrition: 7341
+  nutritional: 11154
+  nutritionally: 58158
+  nutritionist: 42670
+  nutritionists: 40661
+  nutritious: 26735
+  nutritive: 53250
+scored_words:
+  nutria: 115173
+  nutriment: 123497
+not_scored_words:
+- NutraSweet
+- nutrias
+- nutrilite
+- nutrimental
+- nutriments
+- nutritiously
+- nutritiousness

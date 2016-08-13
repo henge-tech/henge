@@ -1,0 +1,24 @@
+---
+pattern: a_nted
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 14
+score: 961566
+score_per_word: 80130
+hi_scored_words:
+  accented: 26621
+  accounted: 7908
+  acquainted: 11491
+  amounted: 15110
+  anointed: 31294
+  appointed: 2184
+  assented: 43726
+  augmented: 17392
+scored_words:
+  absented: 155158
+  affronted: 139613
+  anted: 269932
+  attainted: 241137
+not_scored_words:
+- alimented
+- aquatinted

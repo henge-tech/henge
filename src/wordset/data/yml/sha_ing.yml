@@ -1,0 +1,34 @@
+---
+pattern: sha_ing
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 24
+score: 1839802
+score_per_word: 91990
+hi_scored_words:
+  shading: 22520
+  shadowing: 40739
+  shagging: 53579
+  shaking: 7235
+  shaming: 71490
+  shaping: 10824
+  shareholding: 43108
+  sharing: 2739
+  sharpening: 27335
+  shattering: 32384
+  shaving: 12844
+scored_words:
+  shacking: 224278
+  shackling: 233732
+  shadowboxing: 140709
+  shafting: 130593
+  shambling: 142565
+  shamming: 146488
+  shampooing: 108359
+  sharecropping: 170051
+  sharking: 218230
+not_scored_words:
+- shanghaiing
+- sharping
+- sharpshooting
+- shaveling

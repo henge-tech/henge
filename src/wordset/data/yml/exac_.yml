@@ -1,0 +1,28 @@
+---
+pattern: exac_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 18
+score: 778196
+score_per_word: 59861
+hi_scored_words:
+  exacerbate: 38426
+  exacerbated: 28523
+  exacerbates: 81372
+  exacerbating: 75333
+  exacerbation: 57917
+  exact: 2147
+  exacted: 66333
+  exacting: 27090
+  exactitude: 83865
+  exactly: 1267
+  exactness: 57776
+scored_words:
+  exaction: 148721
+  exacts: 109426
+not_scored_words:
+- exactable
+- exacter
+- exactest
+- exactingly
+- exactor

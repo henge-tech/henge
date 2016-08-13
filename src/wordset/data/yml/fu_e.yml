@@ -1,0 +1,43 @@
+---
+pattern: fu_e
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 33
+score: 1956806
+score_per_word: 75261
+hi_scored_words:
+  fudge: 22244
+  fugitive: 15316
+  fugue: 38457
+  fumble: 27216
+  fume: 31806
+  fungible: 99123
+  fungicide: 47437
+  furnace: 9657
+  furniture: 1786
+  furtherance: 35570
+  furthermore: 5869
+  furtive: 57378
+  fuse: 13063
+  fuselage: 24737
+  fusible: 81400
+  futile: 20470
+  future: 381
+scored_words:
+  fuddle: 263246
+  fullerene: 106826
+  fulminate: 173936
+  fulsome: 103618
+  fumigate: 182892
+  furuncle: 173305
+  furze: 100258
+  fusee: 168258
+  fusillade: 152557
+not_scored_words:
+- fulgurate
+- fulgurite
+- fumarole
+- funicle
+- funiculate
+- furcate
+- fustigate

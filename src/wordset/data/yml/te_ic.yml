@@ -1,0 +1,33 @@
+---
+pattern: te_ic
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 23
+score: 1782557
+score_per_word: 111409
+hi_scored_words:
+  technic: 44360
+  technocratic: 82795
+  tectonic: 29722
+  telegraphic: 43216
+  telepathic: 48023
+  telephonic: 77055
+  telescopic: 35596
+  teratogenic: 86490
+  terrific: 7755
+scored_words:
+  telegenic: 281491
+  telekinetic: 131664
+  telemetric: 257712
+  telic: 121827
+  telluric: 205516
+  terroristic: 122540
+  tetanic: 206795
+not_scored_words:
+- Tepic
+- Teutonic
+- technophobic
+- telephotographic
+- tenebrific
+- tetrabasic
+- tetratomic

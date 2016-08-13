@@ -1,0 +1,25 @@
+---
+pattern: gue_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 877579
+score_per_word: 87757
+hi_scored_words:
+  guerillas: 75016
+  guerrillas: 36683
+  guess: 1417
+  guesses: 29429
+  guestbooks: 43684
+  guesthouses: 61056
+  guestrooms: 82591
+  guests: 2286
+scored_words:
+  guerdons: 212486
+  guesstimates: 332931
+not_scored_words:
+- Guelders
+- Guernseys
+- guenons
+- guerezas
+- guessers

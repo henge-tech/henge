@@ -1,0 +1,27 @@
+---
+pattern: l_ens
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 1224081
+score_per_word: 87434
+hi_scored_words:
+  lens: 6112
+  lessens: 59537
+  lichens: 50645
+  liens: 27969
+  lightens: 91177
+  likens: 75870
+  linens: 27582
+  listens: 17894
+  loosens: 89325
+  lumens: 34851
+scored_words:
+  leavens: 182773
+  lengthens: 106903
+  lindens: 259301
+  livens: 194142
+not_scored_words:
+- Lutyens
+- lateens
+- limens

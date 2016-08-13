@@ -1,0 +1,24 @@
+---
+pattern: audi_s
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 14
+score: 1275265
+score_per_word: 98097
+hi_scored_words:
+  audiences: 8914
+  audiologists: 95250
+  audiophiles: 86928
+  audios: 62297
+  audiotapes: 98987
+  auditions: 15309
+  auditoriums: 74659
+  auditors: 14705
+  audits: 13701
+scored_words:
+  audibles: 170654
+  audiocassettes: 170980
+  audiometers: 273957
+  audiovisuals: 188924
+not_scored_words:
+- audiles

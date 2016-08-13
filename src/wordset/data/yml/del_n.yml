@@ -1,0 +1,24 @@
+---
+pattern: del_n
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 704447
+score_per_word: 70444
+hi_scored_words:
+  delamination: 98853
+  delegation: 9655
+  deletion: 14310
+  deliberation: 21120
+  delicatessen: 39876
+  delimitation: 64776
+  delineation: 31513
+  delusion: 27354
+scored_words:
+  delectation: 151316
+  deliveryman: 245674
+not_scored_words:
+- Delawarean
+- Deleon
+- Delian
+- deliverymen

@@ -1,0 +1,37 @@
+---
+pattern: m_w
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 27
+score: 1114457
+score_per_word: 65556
+hi_scored_words:
+  macaw: 49098
+  mackinaw: 63682
+  mallow: 46062
+  marrow: 11783
+  marshmallow: 34179
+  maw: 32426
+  meadow: 9140
+  mellow: 16668
+  meow: 24449
+  mew: 30992
+  mildew: 32022
+  minnow: 43965
+  morrow: 9087
+  mow: 30121
+scored_words:
+  microbrew: 155032
+  middlebrow: 219859
+  mudflow: 305892
+not_scored_words:
+- MSW
+- MW
+- Mackinaw
+- Mathew
+- Matthew
+- Morrow
+- Moscow
+- Murrow
+- misthrew
+- misthrow

@@ -1,0 +1,34 @@
+---
+pattern: ma_ies
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 24
+score: 954928
+score_per_word: 86811
+hi_scored_words:
+  magnifies: 91974
+  magpies: 50559
+  majesties: 73491
+  majorities: 45732
+  maladies: 51659
+  malignancies: 48633
+  marries: 26728
+  maturities: 55811
+  mayflies: 95871
+scored_words:
+  manufactories: 176204
+  mastectomies: 238266
+not_scored_words:
+- Masonries
+- macrocephalies
+- macrologies
+- mahoganies
+- mammalogies
+- mammies
+- manipulabilities
+- manyplies
+- marqueteries
+- mashies
+- mastoidectomies
+- materialities
+- matriarchies

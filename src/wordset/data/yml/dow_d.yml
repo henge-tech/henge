@@ -1,0 +1,27 @@
+---
+pattern: dow_d
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 1059970
+score_per_word: 81536
+hi_scored_words:
+  downed: 38136
+  downfield: 96088
+  downgraded: 37839
+  download: 1432
+  downloaded: 9166
+  downplayed: 72173
+  downsized: 70421
+  downward: 9507
+  downwind: 49508
+scored_words:
+  dowered: 205952
+  downhearted: 188141
+  downland: 127604
+  downtrend: 154003
+not_scored_words:
+- Dowland
+- doweled
+- downshifted
+- dowsed

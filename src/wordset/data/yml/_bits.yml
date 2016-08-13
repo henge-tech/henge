@@ -1,0 +1,35 @@
+---
+pattern: _bits
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 25
+score: 1419300
+score_per_word: 74700
+hi_scored_words:
+  bits: 3203
+  cubits: 58985
+  debits: 57943
+  exhibits: 6912
+  habits: 4687
+  hobbits: 53309
+  inhabits: 54263
+  inhibits: 22789
+  megabits: 73087
+  obits: 63158
+  orbits: 22872
+  prohibits: 19765
+  rabbits: 11126
+  tidbits: 29602
+scored_words:
+  cucurbits: 221237
+  gambits: 255039
+  gigabits: 168322
+  jackrabbits: 148992
+  kilobits: 144009
+not_scored_words:
+- ambits
+- cohabits
+- henbits
+- rarebits
+- terabits
+- wabbits

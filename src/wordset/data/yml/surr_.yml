@@ -1,0 +1,43 @@
+---
+pattern: surr_
+hi_scored_words_count: 19
+scored_words_count: 2
+total_words: 33
+score: 1089125
+score_per_word: 51863
+hi_scored_words:
+  surreal: 17501
+  surrealism: 38960
+  surrealist: 49787
+  surrealistic: 89112
+  surrender: 6412
+  surrendered: 18125
+  surrendering: 40682
+  surrenders: 51881
+  surreptitious: 74083
+  surreptitiously: 52673
+  surrey: 8280
+  surrogacy: 76745
+  surrogate: 22939
+  surrogates: 59657
+  surround: 6884
+  surrounded: 4464
+  surrounding: 3161
+  surroundings: 8149
+  surrounds: 17279
+scored_words:
+  surrealists: 112037
+  surreality: 330314
+not_scored_words:
+- Surrey
+- surra
+- surrealistically
+- surreally
+- surrebuttal
+- surrebuttals
+- surrebutter
+- surrebutters
+- surrejoinder
+- surrejoinders
+- surreptitiousness
+- surreys

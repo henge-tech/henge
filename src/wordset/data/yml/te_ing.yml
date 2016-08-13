@@ -1,0 +1,56 @@
+---
+pattern: te_ing
+hi_scored_words_count: 25
+scored_words_count: 11
+total_words: 46
+score: 2457837
+score_per_word: 68273
+hi_scored_words:
+  teaching: 1411
+  teaming: 28649
+  tearing: 13344
+  teasing: 17603
+  teeming: 40025
+  teetering: 70931
+  teething: 41887
+  telecommuting: 56566
+  teleconferencing: 64940
+  telemarketing: 32051
+  telephoning: 62175
+  telescoping: 55305
+  telling: 2247
+  tempering: 55405
+  temping: 98022
+  tempting: 14810
+  tendering: 44476
+  tending: 23665
+  terminating: 18379
+  terrifying: 16501
+  terrorizing: 67379
+  testifying: 34011
+  testing: 3943
+  texting: 43567
+  texturing: 58178
+scored_words:
+  teeing: 124267
+  telecasting: 152760
+  telegraphing: 199850
+  televising: 136030
+  teleworking: 121386
+  temporizing: 132587
+  tensing: 110709
+  tenting: 125409
+  terming: 164157
+  terracing: 122315
+  tethering: 102897
+not_scored_words:
+- TELNETTing
+- teargassing
+- teleprocessing
+- telexing
+- tenanting
+- tenderizing
+- tenoning
+- tenuring
+- tergiversating
+- tessellating

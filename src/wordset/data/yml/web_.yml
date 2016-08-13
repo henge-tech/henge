@@ -1,0 +1,47 @@
+---
+pattern: web_
+hi_scored_words_count: 21
+scored_words_count: 3
+total_words: 37
+score: 1298012
+score_per_word: 54083
+hi_scored_words:
+  web: 783
+  webbed: 56500
+  webbing: 31938
+  webby: 45160
+  webcam: 7847
+  webcams: 22182
+  webcast: 14264
+  webcasting: 64824
+  webcasts: 49714
+  weber: 15046
+  webinar: 20694
+  webinars: 46403
+  weblog: 5635
+  weblogs: 10730
+  webmaster: 12833
+  webmasters: 45488
+  webmistress: 64126
+  webpage: 11221
+  webs: 17586
+  website: 379
+  websites: 2531
+scored_words:
+  webers: 178936
+  webfoot: 311723
+  webworm: 261469
+not_scored_words:
+- Web
+- Webb
+- Weber
+- Webern
+- Webster
+- Websters
+- webbier
+- webbiest
+- webfeet
+- webisode
+- webisodes
+- webmistresses
+- webworms

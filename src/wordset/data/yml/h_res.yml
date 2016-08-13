@@ -1,0 +1,24 @@
+---
+pattern: h_res
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 14
+score: 602433
+score_per_word: 66937
+hi_scored_words:
+  hares: 45820
+  hectares: 24864
+  hemispheres: 45280
+  herbivores: 58916
+  heres: 22864
+  hires: 23534
+  hombres: 34994
+  housewares: 34192
+scored_words:
+  hackamores: 311969
+not_scored_words:
+- Hampshires
+- hachures
+- haeres
+- hellfires
+- hollowwares

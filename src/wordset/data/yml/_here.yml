@@ -1,0 +1,59 @@
+---
+pattern: _here
+hi_scored_words_count: 18
+scored_words_count: 12
+total_words: 49
+score: 2233998
+score_per_word: 74466
+hi_scored_words:
+  adhere: 11952
+  anywhere: 1913
+  atmosphere: 2814
+  biosphere: 29906
+  elsewhere: 2916
+  everywhere: 2890
+  hemisphere: 11903
+  here: 73
+  ionosphere: 50264
+  lithosphere: 65838
+  magnetosphere: 60435
+  nowhere: 5421
+  somewhere: 2502
+  sphere: 5828
+  stratosphere: 33480
+  there: 48
+  troposphere: 57121
+  where: 102
+scored_words:
+  asthenosphere: 227845
+  chemosphere: 167466
+  chromosphere: 112591
+  cohere: 142560
+  ecosphere: 224251
+  geosphere: 182871
+  heliosphere: 154510
+  hydrosphere: 130205
+  inhere: 143912
+  mesosphere: 142040
+  photosphere: 104291
+  thermosphere: 156050
+not_scored_words:
+- Here
+- aerosphere
+- astrosphere
+- bathysphere
+- blastosphere
+- centrosphere
+- dinothere
+- ensphere
+- exosphere
+- insphere
+- isothere
+- megathere
+- oosphere
+- otherwhere
+- ozonosphere
+- substratosphere
+- titanothere
+- uintathere
+- unsphere

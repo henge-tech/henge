@@ -1,0 +1,34 @@
+---
+pattern: ex_al
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 24
+score: 1397548
+score_per_word: 87346
+hi_scored_words:
+  exceptional: 5620
+  exegetical: 69131
+  existential: 26544
+  experiential: 23629
+  experimental: 4705
+  exponential: 18059
+  extensional: 79019
+  external: 1477
+  extrajudicial: 73232
+  extramarital: 68792
+  extramural: 66440
+  extraterrestrial: 33829
+  extraterritorial: 86748
+scored_words:
+  expectational: 301082
+  expositional: 311790
+  extralegal: 227451
+not_scored_words:
+- examinational
+- excremental
+- executorial
+- exoskeletal
+- exothermal
+- expediential
+- exterritorial
+- extracanonical

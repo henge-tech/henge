@@ -1,0 +1,68 @@
+---
+pattern: o_ted
+hi_scored_words_count: 25
+scored_words_count: 20
+total_words: 58
+score: 4504545
+score_per_word: 100101
+hi_scored_words:
+  obfuscated: 85399
+  objected: 15754
+  obligated: 15746
+  obliterated: 41808
+  obsoleted: 93708
+  obstructed: 36340
+  officiated: 63704
+  omitted: 8588
+  operated: 4862
+  opinionated: 34804
+  opted: 15801
+  orchestrated: 32781
+  orientated: 30642
+  oriented: 3641
+  originated: 17013
+  ornamented: 59000
+  ousted: 37239
+  outdated: 9705
+  outed: 67072
+  outfitted: 44099
+  overestimated: 58365
+  overheated: 59924
+  overrated: 27864
+  overstated: 42741
+  oxygenated: 54058
+scored_words:
+  obviated: 116437
+  oersted: 240535
+  orbited: 134403
+  oscillated: 166176
+  outlasted: 115729
+  outputted: 176095
+  outsmarted: 183692
+  outvoted: 210157
+  outwitted: 138026
+  overcompensated: 285248
+  overeducated: 189112
+  overexcited: 219817
+  overinflated: 288241
+  overpopulated: 119843
+  overprinted: 127931
+  overprotected: 149763
+  overreacted: 136676
+  overrepresented: 104497
+  overstimulated: 270224
+  ovulated: 171285
+not_scored_words:
+- Oersted
+- Olmsted
+- objurgated
+- openhearted
+- orated
+- osculated
+- outboasted
+- outpointed
+- outshouted
+- overacted
+- overcomplicated
+- overdecorated
+- overexerted

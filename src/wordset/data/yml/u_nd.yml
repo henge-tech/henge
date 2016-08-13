@@ -1,0 +1,31 @@
+---
+pattern: u_nd
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 21
+score: 1101779
+score_per_word: 64810
+hi_scored_words:
+  ultrasound: 11499
+  unbend: 82726
+  unbind: 85214
+  unbound: 23450
+  underground: 4388
+  underhand: 71695
+  understand: 585
+  unhand: 51528
+  unkind: 36546
+  unsound: 38470
+  unwind: 30999
+  unwound: 73924
+  upland: 18884
+  upwind: 57982
+scored_words:
+  underspend: 179450
+  upend: 198612
+  uptrend: 135827
+not_scored_words:
+- Uhland
+- underfund
+- unfriend
+- unground

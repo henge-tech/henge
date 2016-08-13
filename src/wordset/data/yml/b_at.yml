@@ -1,0 +1,40 @@
+---
+pattern: b_at
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 30
+score: 1515551
+score_per_word: 72169
+hi_scored_words:
+  baccarat: 26253
+  backbeat: 88629
+  backseat: 31209
+  bat: 6154
+  bearcat: 69991
+  beat: 1555
+  beermat: 99538
+  begat: 47635
+  blat: 94876
+  bleat: 61686
+  bloat: 43051
+  boat: 1313
+  bobcat: 32363
+  brat: 22422
+  buckwheat: 37180
+  bureaucrat: 45312
+scored_words:
+  babysat: 175228
+  bluecoat: 168890
+  brickbat: 205560
+  browbeat: 143120
+  butterfat: 113586
+not_scored_words:
+- Ballarat
+- Bharat
+- Bundesrat
+- Buryat
+- backchat
+- bacteriostat
+- bathmat
+- bullbat
+- bumboat

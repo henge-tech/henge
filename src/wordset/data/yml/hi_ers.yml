@@ -1,0 +1,30 @@
+---
+pattern: hi_ers
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 1033520
+score_per_word: 86126
+hi_scored_words:
+  highlanders: 34537
+  highlighters: 73200
+  hijackers: 36369
+  hikers: 31639
+  hinders: 43102
+  hipsters: 58772
+  hitchhikers: 56181
+  hitters: 30774
+scored_words:
+  hiders: 204811
+  highers: 117438
+  hindquarters: 118676
+  hirers: 228021
+not_scored_words:
+- Highlanders
+- Hitlers
+- highbinders
+- highfliers
+- hinters
+- hiphuggers
+- historiographers
+- hitchers

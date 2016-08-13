@@ -1,0 +1,22 @@
+---
+pattern: i_iate
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 730180
+score_per_word: 66380
+hi_scored_words:
+  immediate: 1891
+  inappropriate: 9929
+  inebriate: 75706
+  infuriate: 83363
+  initiate: 12407
+  instantiate: 59507
+  intercollegiate: 27093
+  intermediate: 9301
+scored_words:
+  ingratiate: 115392
+  insatiate: 166183
+  irradiate: 169408
+not_scored_words:
+- impropriate

@@ -1,0 +1,33 @@
+---
+pattern: conc_y
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 23
+score: 1131539
+score_per_word: 80824
+hi_scored_words:
+  concavity: 92716
+  conceivably: 40348
+  conceptually: 32482
+  concessionary: 69045
+  conciliatory: 50133
+  concisely: 53070
+  conclusively: 35748
+  concomitantly: 67646
+  concretely: 63268
+  concurrency: 29227
+  concurrently: 18473
+scored_words:
+  concentrically: 207986
+  concentricity: 251693
+  conchology: 119704
+not_scored_words:
+- concavely
+- conceitedly
+- conceivability
+- concernedly
+- concertedly
+- concinnity
+- concordantly
+- concretionary
+- concubinary

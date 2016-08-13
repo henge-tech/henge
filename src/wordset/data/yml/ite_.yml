@@ -1,0 +1,28 @@
+---
+pattern: ite_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 18
+score: 1217082
+score_per_word: 71593
+hi_scored_words:
+  item: 2980
+  itemize: 63694
+  itemized: 40256
+  items: 1793
+  iterate: 41858
+  iterated: 53224
+  iterates: 94814
+  iterating: 82059
+  iteration: 20252
+  iterations: 24211
+  iterative: 24607
+  iteratively: 75169
+  iterator: 41708
+  iterators: 84155
+scored_words:
+  itemization: 112629
+  itemizes: 258095
+  itemizing: 195578
+not_scored_words:
+- itemizer

@@ -1,0 +1,39 @@
+---
+pattern: st_us
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 29
+score: 579664
+score_per_word: 48305
+hi_scored_words:
+  staphylococcus: 32009
+  status: 921
+  stimulus: 10496
+  strabismus: 60643
+  stratus: 34878
+  strenuous: 22764
+  streptococcus: 31249
+  studious: 56053
+  stupendous: 26900
+  stylus: 20147
+scored_words:
+  stegosaurus: 117506
+  stratocumulus: 166098
+not_scored_words:
+- Statius
+- Stradivarius
+- Straus
+- stenopetalous
+- stenophagous
+- stenophyllous
+- stercoraceous
+- stercoricolous
+- sterculiaceous
+- stertorous
+- strepitous
+- stridulous
+- strobilaceous
+- strophanthus
+- struthious
+- stuporous
+- styracaceous

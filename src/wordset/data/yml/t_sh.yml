@@ -1,0 +1,34 @@
+---
+pattern: t_sh
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 24
+score: 1414230
+score_per_word: 94282
+hi_scored_words:
+  tarnish: 42654
+  thrash: 23116
+  thresh: 51207
+  thrush: 24435
+  ticklish: 35806
+  toothbrush: 21568
+  tosh: 37206
+  trash: 7711
+  tush: 59281
+scored_words:
+  thievish: 166769
+  thuggish: 141409
+  tigerish: 178049
+  tilefish: 248227
+  tomboyish: 224018
+  triggerfish: 152774
+not_scored_words:
+- Tarshish
+- Turkish
+- tallish
+- tarboosh
+- thickish
+- thinnish
+- toadfish
+- trickish
+- trunkfish

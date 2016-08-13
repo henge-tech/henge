@@ -1,0 +1,78 @@
+---
+pattern: r_ling
+hi_scored_words_count: 30
+scored_words_count: 22
+total_words: 68
+score: 5193593
+score_per_word: 99876
+hi_scored_words:
+  railing: 20967
+  rambling: 19080
+  rappelling: 98816
+  rattling: 34425
+  rebelling: 75447
+  recalling: 21131
+  reconciling: 35860
+  recycling: 5493
+  reeling: 33527
+  refilling: 47954
+  refueling: 33810
+  reinstalling: 49204
+  remodeling: 14983
+  repealing: 44454
+  repelling: 64641
+  rescheduling: 62294
+  reselling: 55471
+  resembling: 15692
+  retailing: 22961
+  retelling: 47210
+  retooling: 84354
+  revealing: 9173
+  ridiculing: 71904
+  rifling: 84202
+  rippling: 51652
+  rivaling: 98481
+  rolling: 3081
+  ruling: 5452
+  rumbling: 40636
+  rustling: 46970
+scored_words:
+  raffling: 256180
+  rankling: 155493
+  raveling: 207693
+  reassembling: 120226
+  recoiling: 138389
+  recompiling: 120921
+  redoubling: 226372
+  refiling: 238647
+  regaling: 193429
+  rekindling: 115234
+  relabeling: 225371
+  rescaling: 117137
+  resealing: 269407
+  resettling: 179124
+  reshuffling: 136758
+  restyling: 148929
+  reveling: 106598
+  reviling: 207483
+  riddling: 249563
+  riling: 244648
+  roiling: 113532
+  ruffling: 123134
+not_scored_words:
+- Riesling
+- Ringling
+- Rowling
+- raddling
+- reboiling
+- redialing
+- resoling
+- respelling
+- retitling
+- ridgeling
+- riffling
+- robocalling
+- rockling
+- roweling
+- ruddling
+- rumpling

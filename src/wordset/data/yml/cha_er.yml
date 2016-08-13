@@ -1,0 +1,47 @@
+---
+pattern: cha_er
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 37
+score: 1214448
+score_per_word: 57830
+hi_scored_words:
+  challenger: 19812
+  chamber: 2292
+  chandelier: 20482
+  chandler: 11718
+  changeover: 40535
+  changer: 16024
+  chanter: 62084
+  chanticleer: 99104
+  chapter: 840
+  character: 768
+  charger: 6861
+  charioteer: 91059
+  charmer: 46376
+  charter: 4262
+  chaser: 20117
+  chatter: 13269
+scored_words:
+  chafer: 131931
+  chaffer: 245500
+  chamfer: 100552
+  charterer: 127653
+  chauffer: 153209
+not_scored_words:
+- Challenger
+- Chandler
+- Charpentier
+- Chaucer
+- chafferer
+- chaffier
+- chalkier
+- chancier
+- chapiter
+- characterizer
+- charier
+- chastener
+- chaster
+- chastiser
+- chatterer
+- chattier

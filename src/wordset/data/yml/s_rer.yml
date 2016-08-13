@@ -1,0 +1,57 @@
+---
+pattern: s_rer
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 47
+score: 2415650
+score_per_word: 127139
+hi_scored_words:
+  scorer: 22199
+  seafarer: 78680
+  sharer: 82425
+  shearer: 29364
+  slaughterer: 97459
+  sorcerer: 21845
+  stammerer: 72063
+  stirrer: 80697
+  stutterer: 69575
+  sufferer: 41848
+  surer: 88374
+scored_words:
+  scatterer: 176667
+  securer: 217837
+  severer: 181465
+  slanderer: 181939
+  soberer: 212736
+  sparer: 306541
+  steerer: 167454
+  swearer: 286482
+not_scored_words:
+- saunterer
+- savorer
+- scamperer
+- schnorrer
+- scourer
+- serer
+- sheerer
+- shiverer
+- shnorrer
+- silverer
+- simperer
+- sincerer
+- slenderer
+- slobberer
+- slumberer
+- sniggerer
+- snorer
+- solderer
+- sorer
+- sourer
+- spearer
+- spoorer
+- sputterer
+- squanderer
+- squarer
+- staggerer
+- starer
+- swaggerer

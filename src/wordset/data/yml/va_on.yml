@@ -1,0 +1,25 @@
+---
+pattern: va_on
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 966873
+score_per_word: 80572
+hi_scored_words:
+  vacation: 3686
+  vaccination: 18716
+  validation: 11902
+  valuation: 9844
+  vaporization: 73748
+  variation: 4843
+  vasoconstriction: 75357
+  vasodilation: 81741
+scored_words:
+  vacillation: 130866
+  valorization: 216103
+  variegation: 197052
+  vasodilatation: 143015
+not_scored_words:
+- valediction
+- vallation
+- vaticination

@@ -1,0 +1,31 @@
+---
+pattern: v_ble
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 21
+score: 370228
+score_per_word: 30852
+hi_scored_words:
+  valuable: 2444
+  variable: 4128
+  vegetable: 5592
+  venerable: 17872
+  verifiable: 30581
+  veritable: 25878
+  viable: 11138
+  viewable: 31138
+  visible: 2695
+  vulnerable: 8815
+scored_words:
+  voidable: 115823
+  voluble: 114124
+not_scored_words:
+- vendible
+- verbalizable
+- vincible
+- vindicable
+- violable
+- visitable
+- vitrifiable
+- vocable
+- vulcanizable

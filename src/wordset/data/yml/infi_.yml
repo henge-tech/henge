@@ -1,0 +1,58 @@
+---
+pattern: infi_
+hi_scored_words_count: 23
+scored_words_count: 12
+total_words: 48
+score: 3058509
+score_per_word: 87385
+hi_scored_words:
+  infidel: 27913
+  infidelity: 25960
+  infidels: 39872
+  infield: 36064
+  infielder: 64397
+  infighting: 64010
+  infill: 54135
+  infiltrate: 33915
+  infiltrated: 42601
+  infiltrates: 71274
+  infiltrating: 54255
+  infiltration: 26497
+  infiltrator: 72833
+  infinite: 4595
+  infinitely: 13373
+  infinitesimal: 41649
+  infinitive: 46060
+  infinity: 9962
+  infirm: 40541
+  infirmary: 32862
+  infirmities: 66516
+  infirmity: 47253
+  infix: 72180
+scored_words:
+  infidelities: 140483
+  infielders: 145928
+  infilled: 221774
+  infilling: 164723
+  infiltrations: 215741
+  infiltrators: 126702
+  infin: 256311
+  infinitesimally: 145187
+  infinities: 118748
+  infinitival: 258957
+  infinitives: 109252
+  infinitude: 165986
+not_scored_words:
+- infields
+- infighter
+- infighters
+- infills
+- infiniteness
+- infinitenesses
+- infinitesimals
+- infirmaries
+- infirmly
+- infirmness
+- infixed
+- infixes
+- infixing

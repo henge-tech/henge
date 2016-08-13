@@ -1,0 +1,27 @@
+---
+pattern: vi_rs
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 17
+score: 1138376
+score_per_word: 81312
+hi_scored_words:
+  vibrators: 20272
+  vicars: 85102
+  victors: 45003
+  viewers: 6917
+  villagers: 14639
+  vinegars: 95747
+  vintners: 85248
+  violators: 40574
+  vipers: 45132
+  visitors: 2197
+  visors: 47950
+scored_words:
+  viewfinders: 185524
+  viscometers: 233256
+  visualizers: 230815
+not_scored_words:
+- victualers
+- vindicators
+- viziers

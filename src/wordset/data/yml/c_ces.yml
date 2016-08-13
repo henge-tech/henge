@@ -1,0 +1,74 @@
+---
+pattern: c_ces
+hi_scored_words_count: 22
+scored_words_count: 19
+total_words: 64
+score: 4253242
+score_per_word: 103737
+hi_scored_words:
+  cadences: 90190
+  centerpieces: 58307
+  chances: 4223
+  choices: 7721
+  circumstances: 1685
+  clearances: 34296
+  coincidences: 45819
+  commences: 25455
+  competences: 49592
+  condolences: 28182
+  conferences: 5040
+  confidences: 71269
+  consciences: 51872
+  consequences: 3085
+  contrivances: 98778
+  conveniences: 31961
+  conveyances: 64103
+  convinces: 38479
+  cornices: 83097
+  correspondences: 48406
+  crevices: 51545
+  cruces: 34886
+scored_words:
+  caprices: 102784
+  chalices: 119162
+  circumferences: 215769
+  coalesces: 248062
+  codices: 102366
+  coerces: 170376
+  commonplaces: 141507
+  concordances: 111125
+  concurrences: 327357
+  conduces: 133651
+  confluences: 216359
+  congruences: 160949
+  continuances: 195043
+  convergences: 159405
+  cortices: 129541
+  countenances: 115829
+  counterbalances: 275706
+  covariances: 108979
+  crosspieces: 291281
+not_scored_words:
+- calces
+- carapaces
+- cervices
+- cheekpieces
+- chemiluminescences
+- chimneypieces
+- cicatrices
+- coalfaces
+- cockatrices
+- codpieces
+- comeuppances
+- concomitances
+- consistences
+- consonances
+- contradances
+- convalescences
+- convalesces
+- convenances
+- conversances
+- covalences
+- crapulences
+- crawlspaces
+- cyberspaces

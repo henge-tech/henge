@@ -1,0 +1,38 @@
+---
+pattern: co_ence
+hi_scored_words_count: 20
+scored_words_count: 3
+total_words: 28
+score: 973887
+score_per_word: 42342
+hi_scored_words:
+  coalescence: 75121
+  coexistence: 31085
+  coherence: 19470
+  coincidence: 11444
+  commence: 10457
+  competence: 10708
+  concurrence: 23046
+  condolence: 46144
+  conference: 1722
+  confidence: 1844
+  confluence: 19647
+  congruence: 42125
+  conscience: 6287
+  consequence: 4261
+  continence: 47971
+  convalescence: 63495
+  convenience: 4938
+  convergence: 17700
+  correspondence: 4242
+  counterintelligence: 60901
+scored_words:
+  concupiscence: 125893
+  consistence: 107061
+  corpulence: 238325
+not_scored_words:
+- complacence
+- concrescence
+- condescendence
+- contingence
+- covalence

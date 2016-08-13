@@ -1,0 +1,25 @@
+---
+pattern: t_ats
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 868529
+score_per_word: 78957
+hi_scored_words:
+  tats: 59986
+  teats: 83780
+  technocrats: 91749
+  thermostats: 56518
+  threats: 4904
+  throats: 26013
+  treats: 7700
+  twats: 63930
+scored_words:
+  tomcats: 141844
+  topcoats: 195619
+  tugboats: 136486
+not_scored_words:
+- tailcoats
+- towboats
+- troats
+- turncoats

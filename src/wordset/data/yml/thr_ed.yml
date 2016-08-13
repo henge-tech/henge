@@ -1,0 +1,23 @@
+---
+pattern: thr_ed
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 848379
+score_per_word: 77125
+hi_scored_words:
+  thrashed: 59027
+  threaded: 12029
+  threatened: 4289
+  thrilled: 11066
+  thrived: 47703
+  throated: 33957
+  throbbed: 89756
+  thronged: 79097
+  throttled: 92456
+scored_words:
+  threshed: 176941
+  throned: 242058
+not_scored_words:
+- thralled
+- thrummed

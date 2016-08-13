@@ -1,0 +1,34 @@
+---
+pattern: cogn_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 24
+score: 1477610
+score_per_word: 105543
+hi_scored_words:
+  cognac: 29032
+  cognate: 42814
+  cognates: 91444
+  cognition: 16418
+  cognitive: 14816
+  cognitively: 60148
+  cognizance: 52651
+  cognizant: 34989
+scored_words:
+  cognacs: 199073
+  cognizable: 106545
+  cognize: 234008
+  cognized: 292969
+  cognomen: 186547
+  cognoscenti: 116156
+not_scored_words:
+- Cognac
+- cognately
+- cognateness
+- cognation
+- cognations
+- cognitional
+- cognizes
+- cognizing
+- cognomens
+- cognoscente

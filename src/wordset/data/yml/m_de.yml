@@ -1,0 +1,43 @@
+---
+pattern: m_de
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 33
+score: 1094976
+score_per_word: 57630
+hi_scored_words:
+  made: 117
+  magnitude: 6378
+  manmade: 44537
+  marinade: 32568
+  marmalade: 31097
+  masquerade: 21004
+  matricide: 89051
+  microcode: 75101
+  millipede: 91768
+  mode: 1402
+  monde: 16017
+  monoxide: 20602
+  motorcade: 76792
+  mountainside: 50681
+  multitude: 9245
+scored_words:
+  microbicide: 123987
+  misguide: 161492
+  monosaccharide: 137531
+  mudslide: 105606
+not_scored_words:
+- MacBride
+- Mande
+- Maude
+- McBride
+- Meade
+- Mede
+- Melisande
+- Merseyside
+- mansuetude
+- menticide
+- mercaptide
+- miticide
+- monochloride
+- monopode

@@ -1,0 +1,36 @@
+---
+pattern: _copy
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 26
+score: 682369
+score_per_word: 62033
+hi_scored_words:
+  arthroscopy: 78305
+  bronchoscopy: 86383
+  colonoscopy: 50289
+  copy: 706
+  endoscopy: 35931
+  fluoroscopy: 93068
+  laparoscopy: 56458
+  microscopy: 16886
+  photocopy: 23996
+  spectroscopy: 18106
+scored_words:
+  ophthalmoscopy: 222241
+not_scored_words:
+- bioscopy
+- cryoscopy
+- horoscopy
+- microcopy
+- miscopy
+- necroscopy
+- pharyngoscopy
+- radioscopy
+- recopy
+- retinoscopy
+- rhinoscopy
+- stereoscopy
+- telescopy
+- uroscopy
+- wicopy

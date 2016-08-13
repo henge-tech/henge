@@ -1,0 +1,23 @@
+---
+pattern: re_de
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 681854
+score_per_word: 68185
+hi_scored_words:
+  recede: 43905
+  recode: 79866
+  rectitude: 68544
+  rede: 39932
+  remade: 42237
+  renegade: 18955
+  reside: 10608
+  retrograde: 29947
+scored_words:
+  regicide: 121299
+  regrade: 226561
+not_scored_words:
+- Reade
+- redivide
+- retrocede

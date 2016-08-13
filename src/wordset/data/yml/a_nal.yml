@@ -1,0 +1,44 @@
+---
+pattern: a_nal
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 34
+score: 1799958
+score_per_word: 94734
+hi_scored_words:
+  abdominal: 14706
+  aboriginal: 8950
+  additional: 658
+  adrenal: 26908
+  anal: 13838
+  arsenal: 9675
+  artisanal: 67048
+  aspirational: 84896
+  associational: 98168
+  attentional: 61960
+  attitudinal: 57630
+  autumnal: 55316
+scored_words:
+  affectional: 240372
+  altitudinal: 155076
+  anginal: 232372
+  annal: 103867
+  antiphonal: 204019
+  atonal: 107988
+  avocational: 256511
+not_scored_words:
+- Aboriginal
+- aberrational
+- accessional
+- actinal
+- adaptational
+- affinal
+- ammonal
+- anaclinal
+- anticlinal
+- antirational
+- apparitional
+- appositional
+- archidiaconal
+- asternal
+- attritional

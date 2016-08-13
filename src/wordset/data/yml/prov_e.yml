@@ -1,0 +1,23 @@
+---
+pattern: prov_e
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 444426
+score_per_word: 44442
+hi_scored_words:
+  provable: 64688
+  prove: 2137
+  provenance: 27241
+  provide: 400
+  providence: 5399
+  province: 2330
+  provocative: 20110
+  provoke: 17142
+  provolone: 75481
+scored_words:
+  provenience: 229498
+not_scored_words:
+- Provence
+- Providence
+- providable

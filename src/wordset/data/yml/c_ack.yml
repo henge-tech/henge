@@ -1,0 +1,31 @@
+---
+pattern: c_ack
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 21
+score: 872848
+score_per_word: 67142
+hi_scored_words:
+  callback: 24369
+  camelback: 65538
+  cashback: 40307
+  clack: 53033
+  comeback: 16110
+  cornerback: 49966
+  cossack: 48404
+  counterattack: 55957
+  crack: 3561
+  cutback: 73466
+scored_words:
+  canvasback: 156165
+  carrack: 176543
+  crackerjack: 109429
+not_scored_words:
+- Cormack
+- Cossack
+- carjack
+- chiack
+- chyack
+- coatrack
+- crookback
+- crossjack

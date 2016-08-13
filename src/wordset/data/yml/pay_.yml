@@ -1,0 +1,51 @@
+---
+pattern: pay_
+hi_scored_words_count: 26
+scored_words_count: 9
+total_words: 41
+score: 2567140
+score_per_word: 73346
+hi_scored_words:
+  pay: 344
+  payable: 5953
+  payback: 23416
+  paycheck: 21597
+  paychecks: 40861
+  payday: 11546
+  payed: 43338
+  payee: 40264
+  payer: 20583
+  payers: 24775
+  paying: 2102
+  payload: 14253
+  payloads: 50005
+  paymaster: 79209
+  payment: 1391
+  payments: 2303
+  payoff: 21105
+  payoffs: 43377
+  payola: 87743
+  payout: 19935
+  payouts: 24288
+  payphone: 48288
+  payphones: 96897
+  payroll: 10022
+  payrolls: 58124
+  pays: 4501
+scored_words:
+  paybacks: 138234
+  paydays: 165995
+  payees: 145188
+  paymasters: 244431
+  paynim: 200044
+  payslip: 201103
+  payslips: 220353
+  payt: 261071
+  payware: 194501
+not_scored_words:
+- PayPal
+- Payne
+- paymistress
+- paynims
+- paywall
+- paywalls

@@ -1,0 +1,43 @@
+---
+pattern: _ncer
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 33
+score: 1995870
+score_per_word: 86776
+hi_scored_words:
+  announcer: 19965
+  anticancer: 57078
+  balancer: 58017
+  bouncer: 32546
+  cancer: 5266
+  dancer: 8930
+  enhancer: 28326
+  fencer: 62514
+  freelancer: 34124
+  intelligencer: 41250
+  lancer: 28431
+  necromancer: 41350
+  sequencer: 38736
+  silencer: 32668
+  spencer: 10426
+scored_words:
+  advancer: 280664
+  conveyancer: 158563
+  geomancer: 265720
+  mincer: 108374
+  pincer: 115850
+  prancer: 166580
+  renouncer: 228363
+  romancer: 172129
+not_scored_words:
+- Cancer
+- Spencer
+- chiromancer
+- countenancer
+- denouncer
+- encumbrancer
+- pouncer
+- remembrancer
+- ropedancer
+- trouncer

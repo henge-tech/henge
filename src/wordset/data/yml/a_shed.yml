@@ -1,0 +1,19 @@
+---
+pattern: a_shed
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 374301
+score_per_word: 46787
+hi_scored_words:
+  abashed: 92661
+  abolished: 16126
+  accomplished: 4063
+  admonished: 50422
+  airbrushed: 74444
+  ambushed: 46121
+  anguished: 68614
+  astonished: 21850
+scored_words: {}
+not_scored_words:
+- ashed

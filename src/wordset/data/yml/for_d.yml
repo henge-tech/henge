@@ -1,0 +1,58 @@
+---
+pattern: for_d
+hi_scored_words_count: 22
+scored_words_count: 15
+total_words: 48
+score: 3563544
+score_per_word: 96312
+hi_scored_words:
+  forbid: 13660
+  forced: 1448
+  ford: 2674
+  foreclosed: 40320
+  foreground: 16268
+  forehand: 42806
+  forehead: 9869
+  foreshadowed: 69052
+  forested: 26546
+  foretold: 36201
+  forewarned: 60083
+  foreword: 18842
+  forfeited: 25679
+  forged: 11580
+  forked: 32936
+  formalized: 34559
+  formatted: 12814
+  formed: 1814
+  formulated: 12720
+  fortified: 14956
+  forward: 718
+  forwarded: 10536
+scored_words:
+  foraged: 171098
+  forded: 190413
+  forearmed: 248670
+  foreboded: 225375
+  foredoomed: 134712
+  foregathered: 281614
+  foregrounded: 252405
+  foreland: 112814
+  foreordained: 196435
+  foresaid: 244425
+  foreshortened: 191242
+  foresighted: 323015
+  forestalled: 141598
+  forestland: 108690
+  forfend: 244957
+not_scored_words:
+- Ford
+- forayed
+- foredated
+- forehanded
+- forenamed
+- foreshowed
+- foretasted
+- foreyard
+- forgathered
+- formularized
+- fornicated

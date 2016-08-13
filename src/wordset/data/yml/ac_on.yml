@@ -1,0 +1,38 @@
+---
+pattern: ac_on
+hi_scored_words_count: 19
+scored_words_count: 2
+total_words: 28
+score: 1045182
+score_per_word: 49770
+hi_scored_words:
+  acceleration: 16119
+  acceptation: 90400
+  accession: 8834
+  acclamation: 63008
+  acclimation: 73742
+  acclimatization: 86615
+  accommodation: 6089
+  accordion: 25399
+  accreditation: 8337
+  accretion: 38223
+  acculturation: 65134
+  accumulation: 9023
+  accusation: 17658
+  acidification: 54339
+  acquisition: 8647
+  action: 345
+  activation: 10284
+  actualization: 58543
+  actuation: 60985
+scored_words:
+  accentuation: 111082
+  acromion: 232376
+not_scored_words:
+- Acheron
+- Acheson
+- Actaeon
+- Acton
+- acotyledon
+- acroterion
+- actinon

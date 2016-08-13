@@ -1,0 +1,77 @@
+---
+pattern: b_us
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 67
+score: 2065200
+score_per_word: 86050
+hi_scored_words:
+  bacillus: 27067
+  barbarous: 38735
+  beauteous: 79391
+  bilious: 72315
+  bituminous: 35558
+  blasphemous: 43219
+  bodacious: 92847
+  bogus: 18844
+  boisterous: 38867
+  bolus: 45143
+  bonus: 7159
+  bronchus: 71542
+  bulbous: 54793
+  bumptious: 98222
+  bureaus: 27348
+  bus: 5638
+scored_words:
+  bayous: 126548
+  beaus: 208659
+  bibulous: 137291
+  bigamous: 230238
+  boletus: 162268
+  bounteous: 110015
+  brachiosaurus: 212396
+  brontosaurus: 121097
+not_scored_words:
+- Bacchus
+- Backus
+- Bantus
+- Bauhaus
+- Belarus
+- Belisarius
+- Benedictus
+- Bergius
+- Berzelius
+- Boethius
+- Bosporus
+- Briareus
+- Brontosaurus
+- Brutus
+- Bucephalus
+- babassus
+- bacchius
+- bacciferous
+- baccivorous
+- balsamiferous
+- balsaminaceous
+- berberidaceous
+- betulaceous
+- bicephalous
+- bifarious
+- bignoniaceous
+- bimanous
+- biparous
+- bipetalous
+- biramous
+- bismuthous
+- blusterous
+- bombacaceous
+- boraginaceous
+- borborygmus
+- botulinus
+- brachypterous
+- bulbiferous
+- burglarious
+- burnous
+- burseraceous
+- butyraceous
+- byssus

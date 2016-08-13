@@ -1,0 +1,29 @@
+---
+pattern: in_ic
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1166866
+score_per_word: 89758
+hi_scored_words:
+  indic: 59543
+  individualistic: 50027
+  inelastic: 36294
+  inorganic: 17248
+  interferometric: 86398
+  intergalactic: 44819
+  interscholastic: 61135
+  intrinsic: 11588
+scored_words:
+  inartistic: 146771
+  inauthentic: 148430
+  infrasonic: 271979
+  inotropic: 102620
+  interatomic: 130014
+not_scored_words:
+- Indic
+- Instamatic
+- inharmonic
+- intervallic
+- intervocalic
+- intratelluric

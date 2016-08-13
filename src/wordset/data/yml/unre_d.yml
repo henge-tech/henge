@@ -1,0 +1,63 @@
+---
+pattern: unre_d
+hi_scored_words_count: 16
+scored_words_count: 16
+total_words: 53
+score: 3840219
+score_per_word: 120006
+hi_scored_words:
+  unread: 25122
+  unrealized: 42427
+  unrecognized: 35092
+  unrecorded: 65755
+  unrefined: 80728
+  unregistered: 20311
+  unregulated: 40285
+  unrelated: 16063
+  unreleased: 21768
+  unreported: 42727
+  unrepresented: 81573
+  unrequited: 50986
+  unreserved: 61483
+  unresolved: 13693
+  unrestrained: 39499
+  unrestricted: 19949
+scored_words:
+  unreached: 131463
+  unreconciled: 270803
+  unreconstructed: 194332
+  unredeemed: 190125
+  unreduced: 175348
+  unreformed: 218562
+  unregarded: 163069
+  unrehearsed: 193854
+  unrelieved: 137511
+  unremarked: 257778
+  unremembered: 270852
+  unremunerated: 297570
+  unreturned: 227648
+  unrevealed: 134193
+  unrevised: 155832
+  unrewarded: 163818
+not_scored_words:
+- unreasoned
+- unreceived
+- unreclaimed
+- unrecommended
+- unrecompensed
+- unreeled
+- unreflected
+- unrefreshed
+- unrefrigerated
+- unregimented
+- unremoved
+- unrenewed
+- unrented
+- unrepaid
+- unrepealed
+- unrepeated
+- unrepressed
+- unreproved
+- unresigned
+- unrevenged
+- unrevoked

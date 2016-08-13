@@ -1,0 +1,21 @@
+---
+pattern: m_ged
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 863771
+score_per_word: 86377
+hi_scored_words:
+  managed: 1805
+  massaged: 62775
+  merged: 10245
+  messaged: 96807
+  misjudged: 79262
+  mismanaged: 89196
+  mortgaged: 46622
+  mugged: 61923
+scored_words:
+  manged: 243962
+  munged: 171174
+not_scored_words:
+- micromanaged

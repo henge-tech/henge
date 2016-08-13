@@ -1,0 +1,22 @@
+---
+pattern: _zard
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 643350
+score_per_word: 58486
+hi_scored_words:
+  blizzard: 15250
+  buzzard: 34258
+  gizzard: 79239
+  haphazard: 40872
+  hazard: 6041
+  izzard: 60465
+  lizard: 13886
+  wizard: 6791
+scored_words:
+  izard: 101438
+  mazard: 126792
+  vizard: 158318
+not_scored_words:
+- mazzard

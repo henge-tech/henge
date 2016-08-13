@@ -1,0 +1,23 @@
+---
+pattern: c_nted
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 539299
+score_per_word: 44941
+hi_scored_words:
+  cemented: 36884
+  chanted: 44604
+  circumvented: 73880
+  commented: 6792
+  complemented: 25870
+  complimented: 34457
+  confronted: 10858
+  consented: 21326
+  contented: 24693
+  counted: 5575
+scored_words:
+  canted: 131031
+  covenanted: 123329
+not_scored_words:
+- counterpointed

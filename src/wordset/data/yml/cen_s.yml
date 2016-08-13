@@ -1,0 +1,59 @@
+---
+pattern: cen_s
+hi_scored_words_count: 11
+scored_words_count: 16
+total_words: 49
+score: 2999806
+score_per_word: 111103
+hi_scored_words:
+  censors: 41222
+  census: 4598
+  censuses: 39903
+  centaurs: 72294
+  centerpieces: 58307
+  centers: 5049
+  centimeters: 33048
+  centrifuges: 68218
+  cents: 4093
+  centuries: 4368
+  centurions: 81538
+scored_words:
+  censers: 181759
+  censorious: 154497
+  censures: 125113
+  centavos: 104683
+  centenarians: 155565
+  centenaries: 235836
+  centerfolds: 110113
+  centimes: 131776
+  centipedes: 108660
+  centralizes: 151758
+  centrals: 183537
+  centrioles: 280098
+  centrists: 126249
+  centroids: 123112
+  centromeres: 189979
+  centrosomes: 224433
+not_scored_words:
+- Cenis
+- Centaurus
+- cenobites
+- cenogeneses
+- cenogenesis
+- cenotaphs
+- censes
+- censoriousness
+- censurers
+- centals
+- centares
+- centauries
+- centennials
+- centerboards
+- centerings
+- centesimos
+- centigrams
+- centiliters
+- centimos
+- centners
+- centralizers
+- centrums

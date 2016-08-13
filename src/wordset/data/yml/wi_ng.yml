@@ -1,0 +1,58 @@
+---
+pattern: wi_ng
+hi_scored_words_count: 27
+scored_words_count: 8
+total_words: 48
+score: 2399291
+score_per_word: 68551
+hi_scored_words:
+  widening: 16020
+  wielding: 33553
+  wigging: 79388
+  wiggling: 72896
+  wilding: 57110
+  willing: 2044
+  wilting: 82350
+  winding: 9282
+  windowing: 73291
+  windsurfing: 30788
+  wing: 2773
+  winging: 79912
+  wining: 44556
+  winking: 51145
+  winning: 2417
+  wintering: 50471
+  wiping: 23183
+  wiretapping: 48474
+  wiring: 17943
+  wishing: 5940
+  witching: 75272
+  withdrawing: 20970
+  withering: 41907
+  withholding: 17089
+  withing: 94178
+  withstanding: 54018
+  witnessing: 22057
+scored_words:
+  wiling: 225157
+  winching: 180783
+  wincing: 107760
+  winnowing: 116190
+  winterizing: 189103
+  wisecracking: 149494
+  wittering: 135474
+  witting: 186303
+not_scored_words:
+- wicketkeeping
+- widowing
+- wigwagging
+- wildcatting
+- wildling
+- wimping
+- wimpling
+- windmilling
+- wingding
+- winkling
+- wising
+- witling
+- wiving

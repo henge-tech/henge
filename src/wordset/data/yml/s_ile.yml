@@ -1,0 +1,27 @@
+---
+pattern: s_ile
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 17
+score: 567783
+score_per_word: 51616
+hi_scored_words:
+  senile: 41640
+  servile: 60507
+  sessile: 66287
+  simile: 36402
+  smile: 2123
+  snowmobile: 28183
+  stabile: 91008
+  sterile: 13508
+  stile: 37526
+  stockpile: 30254
+scored_words:
+  subtile: 160345
+not_scored_words:
+- Slavophile
+- scissile
+- scurrile
+- spermophile
+- spile
+- strobile

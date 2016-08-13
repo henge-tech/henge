@@ -1,0 +1,35 @@
+---
+pattern: s_sed
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 25
+score: 1569318
+score_per_word: 92312
+hi_scored_words:
+  sensed: 23326
+  showcased: 34580
+  stressed: 16851
+  suffused: 79124
+  superimposed: 34686
+  supervised: 18251
+  supposed: 2080
+  suppressed: 10955
+  surmised: 51693
+  surpassed: 22168
+  surprised: 2898
+scored_words:
+  soused: 247540
+  subleased: 298518
+  submersed: 152751
+  summonsed: 311402
+  superposed: 103772
+  sussed: 158723
+not_scored_words:
+- sassed
+- schussed
+- sclerosed
+- stenosed
+- stripteased
+- surbased
+- surceased
+- surplussed

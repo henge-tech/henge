@@ -1,0 +1,33 @@
+---
+pattern: h_and
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 23
+score: 322560
+score_per_word: 32256
+hi_scored_words:
+  hand: 277
+  handstand: 90739
+  headband: 30275
+  headland: 39778
+  heartland: 18893
+  heathland: 83602
+  highland: 7769
+  hinterland: 40679
+  homeland: 9064
+  husband: 1484
+scored_words: {}
+not_scored_words:
+- Harland
+- Helgoland
+- Heligoland
+- Helmand
+- Highland
+- Hildebrand
+- Holland
+- hairband
+- hardstand
+- hatband
+- hatstand
+- headstand
+- househusband

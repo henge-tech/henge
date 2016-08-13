@@ -1,0 +1,31 @@
+---
+pattern: ki_t
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 21
+score: 1715756
+score_per_word: 122554
+hi_scored_words:
+  kickstart: 45910
+  kilowatt: 36987
+  kilt: 28548
+  kindest: 50029
+  kismet: 48339
+  kist: 77660
+  kit: 4020
+  kiwifruit: 98822
+scored_words:
+  kilobit: 281641
+  kilovolt: 220124
+  kindliest: 214214
+  kinglet: 143439
+  kinkiest: 170214
+  kittycat: 295809
+not_scored_words:
+- Kirkcudbright
+- Kit
+- kickiest
+- kinesiologist
+- kingbolt
+- kingcraft
+- kingliest

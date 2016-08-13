@@ -1,0 +1,31 @@
+---
+pattern: f_ces
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 21
+score: 920440
+score_per_word: 70803
+hi_scored_words:
+  faces: 2411
+  fasces: 78430
+  feces: 29837
+  fences: 14355
+  finances: 7710
+  fireplaces: 24073
+  fleeces: 60361
+  forces: 1393
+  fragrances: 18577
+  furnaces: 23080
+scored_words:
+  farces: 126532
+  flounces: 253535
+  freelances: 280146
+not_scored_words:
+- Frances
+- fauces
+- fiances
+- fluoresces
+- footraces
+- forbiddances
+- fourpences
+- frontispieces

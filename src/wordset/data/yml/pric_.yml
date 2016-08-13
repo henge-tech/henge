@@ -1,0 +1,36 @@
+---
+pattern: pric_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 26
+score: 1299025
+score_per_word: 76413
+hi_scored_words:
+  price: 389
+  priced: 12745
+  priceless: 14533
+  prices: 1523
+  pricey: 25976
+  pricing: 6572
+  prick: 18389
+  pricked: 70256
+  pricking: 84435
+  prickly: 29897
+  pricks: 54658
+scored_words:
+  pricier: 108341
+  priciest: 190116
+  pricker: 133251
+  prickle: 158870
+  prickles: 165652
+  prickling: 223422
+not_scored_words:
+- Price
+- prickers
+- pricket
+- prickets
+- prickings
+- prickled
+- pricklier
+- prickliest
+- prickliness

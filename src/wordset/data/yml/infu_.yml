@@ -1,0 +1,31 @@
+---
+pattern: infu_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 21
+score: 1499979
+score_per_word: 107141
+hi_scored_words:
+  infuriate: 83363
+  infuriated: 52197
+  infuriating: 58585
+  infuse: 39496
+  infused: 25138
+  infuses: 94892
+  infusing: 74124
+  infusion: 15194
+  infusions: 46296
+scored_words:
+  infundibulum: 261515
+  infuriates: 123674
+  infuriatingly: 219589
+  infuser: 126163
+  infusers: 279753
+not_scored_words:
+- infundibuliform
+- infuscate
+- infusible
+- infusionism
+- infusive
+- infusorian
+- infusorians

@@ -1,0 +1,50 @@
+---
+pattern: _con
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 40
+score: 1504153
+score_per_word: 71626
+hi_scored_words:
+  archdeacon: 63049
+  bacon: 6499
+  beacon: 10975
+  con: 2727
+  deacon: 16982
+  econ: 16369
+  emoticon: 43511
+  falcon: 11058
+  garcon: 92986
+  helicon: 73795
+  icon: 6201
+  lexicon: 23796
+  neocon: 52502
+  recon: 17701
+  silicon: 8906
+  zircon: 41696
+scored_words:
+  ancon: 209882
+  flacon: 261881
+  gyrfalcon: 212590
+  soupcon: 206753
+  stereopticon: 124294
+not_scored_words:
+- Bacon
+- Con
+- Gascon
+- Helicon
+- Macon
+- Rubicon
+- Tuscon
+- catholicon
+- diaconicon
+- ferrosilicon
+- gerfalcon
+- harmonicon
+- mascon
+- orthicon
+- ostracon
+- pantechnicon
+- racon
+- subdeacon
+- vidicon

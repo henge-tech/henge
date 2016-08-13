@@ -1,0 +1,38 @@
+---
+pattern: t_less
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 28
+score: 2029339
+score_per_word: 106807
+hi_scored_words:
+  talentless: 87912
+  tasteless: 27278
+  thankless: 62300
+  thoughtless: 39489
+  timeless: 22841
+  tireless: 31040
+  toothless: 45208
+  topless: 13271
+  trackless: 93006
+  treeless: 68893
+scored_words:
+  tactless: 114874
+  tailless: 156656
+  tearless: 219816
+  tenantless: 251590
+  thriftless: 125563
+  toneless: 104525
+  traceless: 261005
+  tubeless: 108103
+  tuneless: 195969
+not_scored_words:
+- taintless
+- tameless
+- termless
+- thewless
+- tideless
+- tongueless
+- torsionless
+- traditionless
+- trustless

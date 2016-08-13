@@ -1,0 +1,29 @@
+---
+pattern: am_ed
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 19
+score: 515444
+score_per_word: 42953
+hi_scored_words:
+  amalgamated: 35550
+  amassed: 33144
+  amazed: 9422
+  ambushed: 46121
+  ameliorated: 98858
+  amended: 5417
+  amortized: 50619
+  amounted: 15110
+  amplified: 23572
+  amputated: 58229
+  amused: 16284
+scored_words:
+  ambled: 123118
+not_scored_words:
+- Americanized
+- ambulated
+- ambuscaded
+- amerced
+- ammoniated
+- ammonified
+- amnestied

@@ -1,0 +1,34 @@
+---
+pattern: misr_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 24
+score: 1363671
+score_per_word: 104897
+hi_scored_words:
+  misread: 45803
+  misreading: 68231
+  misrepresent: 54366
+  misrepresentation: 28110
+  misrepresentations: 56998
+  misrepresented: 37693
+  misrepresenting: 61509
+  misrule: 90144
+scored_words:
+  misreads: 273068
+  misremember: 165669
+  misreported: 208681
+  misreporting: 168861
+  misrepresents: 104538
+not_scored_words:
+- misreadings
+- misreckon
+- misregister
+- misremembered
+- misremembering
+- misremembers
+- misreport
+- misreports
+- misruled
+- misrules
+- misruling

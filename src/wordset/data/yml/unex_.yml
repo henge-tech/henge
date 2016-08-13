@@ -1,0 +1,41 @@
+---
+pattern: unex_
+hi_scored_words_count: 10
+scored_words_count: 13
+total_words: 31
+score: 2903795
+score_per_word: 126251
+hi_scored_words:
+  unexamined: 82946
+  unexcused: 93925
+  unexpected: 4745
+  unexpectedly: 13167
+  unexpired: 56715
+  unexplainable: 68857
+  unexplained: 21863
+  unexploded: 69048
+  unexplored: 36903
+  unexposed: 92359
+scored_words:
+  unexampled: 182888
+  unexcelled: 239955
+  unexceptionable: 205620
+  unexceptional: 131920
+  unexciting: 130172
+  unexercised: 179258
+  unexpanded: 198219
+  unexpectedness: 248551
+  unexpended: 106087
+  unexperienced: 178764
+  unexploited: 152208
+  unexpressed: 131378
+  unexpurgated: 278247
+not_scored_words:
+- unexacting
+- unexaggerated
+- unexceptionably
+- unexceptionally
+- unexcited
+- unexplainably
+- unexplicit
+- unexpressive

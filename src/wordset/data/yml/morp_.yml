@@ -1,0 +1,36 @@
+---
+pattern: morp_
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 26
+score: 1451661
+score_per_word: 85391
+hi_scored_words:
+  morph: 29113
+  morphed: 55206
+  morpheme: 79291
+  morphemes: 91097
+  morphia: 53046
+  morphine: 22302
+  morphing: 47689
+  morphogenesis: 54760
+  morphogenetic: 78458
+  morphologic: 68036
+  morphological: 26184
+  morphologically: 65114
+  morphologies: 97670
+  morphology: 16289
+  morphs: 62285
+scored_words:
+  morphogenic: 315016
+  morphosis: 290105
+not_scored_words:
+- Morpheus
+- Morphy
+- morphemic
+- morphemically
+- morphinism
+- morphologist
+- morphophoneme
+- morphophonemes
+- morphophonemics

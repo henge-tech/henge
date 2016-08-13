@@ -1,0 +1,26 @@
+---
+pattern: enta_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 16
+score: 1242787
+score_per_word: 95599
+hi_scored_words:
+  entail: 20249
+  entailed: 35818
+  entailing: 90594
+  entailment: 92269
+  entails: 21591
+  entangle: 75482
+  entangled: 29719
+  entanglement: 41015
+  entanglements: 76545
+scored_words:
+  entablature: 197263
+  entangles: 280055
+  entangling: 116865
+  entasis: 165322
+not_scored_words:
+- entablatures
+- entablement
+- entangler

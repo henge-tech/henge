@@ -1,0 +1,27 @@
+---
+pattern: _oops
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 17
+score: 1158528
+score_per_word: 77235
+hi_scored_words:
+  coops: 63807
+  hoops: 15452
+  loops: 11306
+  oops: 5870
+  poops: 70363
+  scoops: 27359
+  stoops: 62431
+  swoops: 96627
+  troops: 2346
+  whoops: 31829
+  woops: 86306
+scored_words:
+  droops: 188012
+  paratroops: 243960
+  sloops: 138432
+  snoops: 114428
+not_scored_words:
+- bloops
+- nincompoops

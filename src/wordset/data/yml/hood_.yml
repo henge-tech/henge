@@ -1,0 +1,29 @@
+---
+pattern: hood_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 947102
+score_per_word: 78925
+hi_scored_words:
+  hood: 5200
+  hooded: 19091
+  hoodie: 18165
+  hoodies: 24757
+  hoodlum: 57047
+  hoodlums: 97498
+  hoodoo: 70245
+  hoods: 20961
+  hoodwinked: 45647
+scored_words:
+  hooding: 184717
+  hoodoos: 270810
+  hoodwink: 132964
+not_scored_words:
+- Hood
+- hoodlumism
+- hoodooed
+- hoodooing
+- hoodwinker
+- hoodwinking
+- hoodwinks

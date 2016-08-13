@@ -1,0 +1,40 @@
+---
+pattern: wi_ss
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 30
+score: 1897316
+score_per_word: 105406
+hi_scored_words:
+  wickedness: 24517
+  wilderness: 5098
+  wildness: 53403
+  willingness: 9126
+  windlass: 68323
+  windowless: 89533
+  wingless: 68322
+  wireless: 4324
+  witless: 70358
+  witness: 2950
+scored_words:
+  wideness: 192197
+  wilfulness: 250868
+  willfulness: 157341
+  windless: 158422
+  wineglass: 113923
+  winepress: 236255
+  wistfulness: 197439
+  witchgrass: 194917
+not_scored_words:
+- Wilderness
+- wifeless
+- wiliness
+- wimpishness
+- windiness
+- windowdress
+- winsomeness
+- wintriness
+- wiriness
+- wishfulness
+- witlessness
+- wittiness

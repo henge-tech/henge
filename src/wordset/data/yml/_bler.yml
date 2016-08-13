@@ -1,0 +1,50 @@
+---
+pattern: _bler
+hi_scored_words_count: 17
+scored_words_count: 12
+total_words: 40
+score: 3055297
+score_per_word: 105355
+hi_scored_words:
+  ambler: 46211
+  assembler: 25604
+  babbler: 50166
+  bubbler: 81548
+  cobbler: 33312
+  doubler: 79700
+  enabler: 46908
+  gambler: 20227
+  gobbler: 78836
+  nobler: 47761
+  rambler: 31459
+  scrambler: 53283
+  scribbler: 91206
+  stabler: 93905
+  stumbler: 57430
+  tumbler: 26719
+  warbler: 25231
+scored_words:
+  abler: 129469
+  dabbler: 177111
+  disassembler: 141468
+  dissembler: 136811
+  dribbler: 209839
+  feebler: 248795
+  humbler: 108307
+  nibbler: 101888
+  quibbler: 297575
+  trembler: 226933
+  troubler: 284234
+  wobbler: 103361
+not_scored_words:
+- bumbler
+- fumbler
+- gabbler
+- garbler
+- grumbler
+- hobbler
+- mumbler
+- nimbler
+- rumbler
+- scrabbler
+- squabbler

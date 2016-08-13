@@ -1,0 +1,28 @@
+---
+pattern: c_ber
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1345137
+score_per_word: 96081
+hi_scored_words:
+  caliber: 21054
+  camber: 45482
+  chamber: 2292
+  clamber: 92790
+  climber: 26557
+  clobber: 49844
+  clubber: 95452
+  comber: 92939
+  cucumber: 18495
+scored_words:
+  caber: 113846
+  clabber: 179373
+  cobber: 208108
+  cuber: 263056
+  cumber: 135849
+not_scored_words:
+- Cibber
+- circumscriber
+- crabber
+- cribber

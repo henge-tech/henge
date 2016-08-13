@@ -1,0 +1,34 @@
+---
+pattern: how_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 24
+score: 900058
+score_per_word: 52944
+hi_scored_words:
+  how: 76
+  how'd: 27692
+  how're: 45765
+  howdy: 29395
+  however: 224
+  howitzer: 57985
+  howitzers: 99866
+  howl: 19780
+  howled: 62159
+  howler: 42045
+  howling: 19067
+  howls: 43138
+  hows: 31499
+  howsoever: 83859
+scored_words:
+  howbeit: 116283
+  howdah: 104612
+  howlers: 116613
+not_scored_words:
+- Howard
+- Howe
+- Howell
+- Howells
+- Howrah
+- howdahs
+- howlet

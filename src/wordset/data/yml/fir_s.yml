@@ -1,0 +1,57 @@
+---
+pattern: fir_s
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 47
+score: 2661586
+score_per_word: 110899
+hi_scored_words:
+  firearms: 11131
+  fireballs: 65562
+  firecrackers: 69263
+  firefighters: 13301
+  fireflies: 50837
+  fireplaces: 24073
+  fires: 5047
+  firewalls: 17413
+  fireworks: 10552
+  firings: 71886
+  firmness: 29027
+  firms: 4999
+  firs: 39884
+  firsts: 35858
+scored_words:
+  firebirds: 109329
+  firebombs: 251683
+  firebrands: 229216
+  firebreaks: 276326
+  firefights: 159775
+  firehouses: 259112
+  fireless: 172956
+  firesides: 260580
+  firetrucks: 228025
+  firkins: 265751
+not_scored_words:
+- firebases
+- fireboats
+- firebombings
+- fireboxes
+- firebrats
+- firebricks
+- firebugs
+- firedogs
+- firedrakes
+- fireguards
+- firelighters
+- firelocks
+- fireplugs
+- fireproofs
+- firers
+- firescreens
+- firestones
+- firestorms
+- firetraps
+- fireweeds
+- firmaments
+- firstborns
+- firths

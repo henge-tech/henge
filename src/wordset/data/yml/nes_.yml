@@ -1,0 +1,35 @@
+---
+pattern: nes_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 25
+score: 1081838
+score_per_word: 77274
+hi_scored_words:
+  ness: 9569
+  nest: 5566
+  nested: 19620
+  nesting: 19624
+  nestle: 24720
+  nestled: 24367
+  nestles: 95433
+  nestling: 57907
+  nests: 23490
+scored_words:
+  nescience: 139233
+  nesses: 105229
+  nestable: 246118
+  nestler: 209758
+  nestlings: 101204
+not_scored_words:
+- Nescafe
+- Ness
+- Nesselrode
+- Nessus
+- Nestle
+- Nestor
+- Nestorian
+- Nestorius
+- Nestors
+- nesciences
+- nescient

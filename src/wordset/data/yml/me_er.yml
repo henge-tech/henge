@@ -1,0 +1,52 @@
+---
+pattern: me_er
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 42
+score: 1691366
+score_per_word: 80541
+hi_scored_words:
+  meager: 30936
+  meander: 48995
+  meaner: 68356
+  meeker: 48054
+  member: 545
+  mercer: 13491
+  merchandiser: 63840
+  merganser: 74612
+  merger: 10266
+  merrier: 64235
+  messenger: 3213
+  messier: 37854
+  meter: 7092
+scored_words:
+  measurer: 114224
+  meatier: 179744
+  meddler: 205761
+  mellower: 177662
+  melter: 132482
+  meltwater: 134731
+  mender: 126004
+  metier: 149269
+not_scored_words:
+- Meier
+- Meistersinger
+- Meitner
+- Meleager
+- Menander
+- Mercer
+- Mesmer
+- Meyer
+- Meyerbeer
+- mealier
+- measlier
+- mechanizer
+- memorizer
+- menacer
+- merrymaker
+- meshuggener
+- mesmerizer
+- metacenter
+- metalworker
+- metamer
+- mezzotinter

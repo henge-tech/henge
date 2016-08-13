@@ -1,0 +1,43 @@
+---
+pattern: uni_e
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 33
+score: 2135163
+score_per_word: 112377
+hi_scored_words:
+  unicycle: 67309
+  unidentifiable: 96097
+  unimaginable: 39552
+  unimaginative: 71509
+  unimpeachable: 93584
+  unimpressive: 64588
+  uninhabitable: 79053
+  unintelligible: 30059
+  uninterruptible: 89311
+  unique: 2348
+  unite: 8752
+  universe: 2497
+scored_words:
+  unimportance: 219858
+  uninformative: 119817
+  uninstallable: 316184
+  uninsurable: 183719
+  uninterpretable: 276561
+  unionize: 113404
+  unitive: 260961
+not_scored_words:
+- Unicode
+- unifiable
+- unifoliate
+- unifoliolate
+- uniformize
+- unijugate
+- unimplementable
+- uninstructive
+- unintelligence
+- uniseptate
+- unitize
+- univalence
+- univalve
+- universalize

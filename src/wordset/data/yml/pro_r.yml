@@ -1,0 +1,76 @@
+---
+pattern: pro_r
+hi_scored_words_count: 29
+scored_words_count: 10
+total_words: 66
+score: 2498631
+score_per_word: 64067
+hi_scored_words:
+  processor: 3590
+  procrastinator: 73919
+  proctor: 22599
+  procurator: 65061
+  producer: 6510
+  professor: 1350
+  proffer: 66226
+  progenitor: 36391
+  programmer: 10131
+  projector: 15132
+  promoter: 14644
+  prompter: 87852
+  proofreader: 84622
+  propagator: 71368
+  propeller: 20576
+  proper: 1464
+  proposer: 57168
+  proprietor: 15591
+  prosecutor: 12595
+  prospector: 39129
+  prosper: 16795
+  protector: 9307
+  protester: 51705
+  protractor: 66323
+  prouder: 98146
+  prover: 73573
+  provider: 11774
+  provocateur: 53537
+  prowler: 45177
+scored_words:
+  probationer: 103524
+  procurer: 129991
+  profiteer: 150582
+  profounder: 106255
+  prognosticator: 188928
+  proliferator: 152610
+  propellor: 134435
+  protestor: 105155
+  provender: 141436
+  provisioner: 153460
+not_scored_words:
+- Procter
+- Protector
+- proconsular
+- procreator
+- prodder
+- profaner
+- prohibitor
+- prolabor
+- prolocutor
+- promenader
+- promiser
+- promulgator
+- pronator
+- pronuclear
+- properer
+- prophesier
+- propitiator
+- propounder
+- propr
+- propretor
+- proprioceptor
+- prosector
+- proselytizer
+- proser
+- prosier
+- protomartyr
+- provoker

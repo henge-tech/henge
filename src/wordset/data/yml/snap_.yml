@@ -1,0 +1,30 @@
+---
+pattern: snap_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 20
+score: 931302
+score_per_word: 66521
+hi_scored_words:
+  snap: 6023
+  snapdragon: 73981
+  snapped: 12982
+  snapper: 36342
+  snappers: 87972
+  snapping: 26013
+  snappy: 34565
+  snaps: 20025
+  snapshot: 11964
+  snapshots: 18683
+scored_words:
+  snapback: 104203
+  snapdragons: 121138
+  snappier: 206801
+  snappish: 170610
+not_scored_words:
+- Snapple
+- snappiest
+- snappily
+- snappiness
+- snappishly
+- snappishness

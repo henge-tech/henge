@@ -1,0 +1,32 @@
+---
+pattern: po_te
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 22
+score: 1111851
+score_per_word: 79417
+hi_scored_words:
+  polite: 9258
+  pollinate: 90391
+  pollute: 39780
+  polycarbonate: 36933
+  pomegranate: 32287
+  pontificate: 58232
+  populate: 29664
+  postgraduate: 14521
+  postulate: 37167
+  potentate: 73836
+scored_words:
+  polychaete: 151642
+  postdate: 195236
+  posthaste: 228610
+  potentiate: 114294
+not_scored_words:
+- Pontificate
+- Porte
+- podite
+- polybasite
+- polyunsaturate
+- postcollegiate
+- postdoctorate
+- poussette

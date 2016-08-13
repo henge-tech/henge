@@ -1,0 +1,73 @@
+---
+pattern: no_le
+hi_scored_words_count: 9
+scored_words_count: 15
+total_words: 63
+score: 3452791
+score_per_word: 143866
+hi_scored_words:
+  noble: 2760
+  nodule: 48327
+  nonrefundable: 87115
+  nonvolatile: 83993
+  noodle: 27150
+  notable: 5961
+  noticeable: 12008
+  notifiable: 92329
+  nozzle: 22707
+scored_words:
+  nobble: 126006
+  noncombustible: 192648
+  noncommunicable: 260047
+  nondeductible: 173851
+  nondurable: 104878
+  nonexpendable: 253930
+  nonflammable: 187873
+  nonnegotiable: 183536
+  nonperishable: 276697
+  nonrefillable: 334181
+  nonrenewable: 126483
+  nontaxable: 120175
+  nontransferable: 198622
+  nonviable: 216183
+  normalizable: 315331
+not_scored_words:
+- Noble
+- Noelle
+- noctule
+- noddle
+- nonadjustable
+- nonapplicable
+- nonassignable
+- nonbreakable
+- nonburnable
+- nonchargeable
+- noncollectable
+- nonconvertible
+- nondetachable
+- nondigestible
+- nondivisible
+- nonedible
+- noneligible
+- nonenforceable
+- nonexchangeable
+- nonfilterable
+- nonflexible
+- noninflammable
+- noninhabitable
+- noninterchangeable
+- nonmarketable
+- nonmeasurable
+- nonmotile
+- nonpermeable
+- nonprofitable
+- nonpunishable
+- nonrecoverable
+- nonredeemable
+- nonresolvable
+- nonreturnable
+- nonreversible
+- nonsalable
+- nonshrinkable
+- nonsinkable
+- nontarnishable

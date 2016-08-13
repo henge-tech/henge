@@ -1,0 +1,29 @@
+---
+pattern: sp_ns
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 19
+score: 748233
+score_per_word: 57556
+hi_scored_words:
+  spans: 19234
+  spawns: 48678
+  specializations: 47110
+  specifications: 9252
+  specimens: 7304
+  speculations: 36487
+  spins: 21941
+  spokespersons: 64956
+  spoons: 19070
+  sprains: 58665
+  spurns: 93881
+scored_words:
+  spleens: 149198
+  sporrans: 172457
+not_scored_words:
+- Spartans
+- speciations
+- spelldowns
+- spiegeleisens
+- spittoons
+- splashdowns

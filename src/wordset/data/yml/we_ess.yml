@@ -1,0 +1,25 @@
+---
+pattern: we_ess
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 661192
+score_per_word: 73465
+hi_scored_words:
+  weakness: 5699
+  weariness: 38317
+  webmistress: 64126
+  weightless: 62410
+  weightlessness: 92968
+  weirdness: 31118
+  wellness: 8487
+  wetness: 46405
+scored_words:
+  weedless: 311662
+not_scored_words:
+- wealthiness
+- weaponless
+- weariless
+- wearisomeness
+- weediness
+- weightiness

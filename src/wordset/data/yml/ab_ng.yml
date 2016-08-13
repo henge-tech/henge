@@ -1,0 +1,46 @@
+---
+pattern: ab_ng
+hi_scored_words_count: 14
+scored_words_count: 11
+total_words: 36
+score: 2232267
+score_per_word: 89290
+hi_scored_words:
+  abandoning: 19722
+  abating: 77274
+  abducting: 94687
+  abetting: 50766
+  abiding: 19087
+  abolishing: 35393
+  aborting: 54784
+  abounding: 53320
+  abseiling: 75715
+  absorbing: 14209
+  abstaining: 47587
+  abstracting: 45099
+  abusing: 18977
+  abutting: 51946
+scored_words:
+  abasing: 205289
+  abbreviating: 176753
+  abdicating: 151371
+  abhorring: 120628
+  abjuring: 146101
+  abrading: 156945
+  abridging: 101037
+  abrogating: 142986
+  absconding: 119120
+  absenting: 111156
+  absolving: 142315
+not_scored_words:
+- abashing
+- abducing
+- ablating
+- abnegating
+- abominating
+- aborning
+- abreacting
+- abscessing
+- abscising
+- absquatulating
+- abying

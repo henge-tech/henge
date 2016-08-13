@@ -1,0 +1,55 @@
+---
+pattern: sea_s
+hi_scored_words_count: 23
+scored_words_count: 9
+total_words: 45
+score: 2383217
+score_per_word: 74475
+hi_scored_words:
+  seabirds: 48824
+  seafarers: 54810
+  seagulls: 41947
+  seahorses: 83926
+  sealants: 46251
+  sealers: 58217
+  seals: 8071
+  seamless: 15253
+  seams: 21297
+  seamstress: 53929
+  seaports: 67810
+  searchers: 40447
+  searches: 6488
+  searchlights: 93180
+  sears: 14014
+  seas: 5927
+  seascapes: 71483
+  seashells: 55953
+  seasonings: 39290
+  seasons: 3950
+  seats: 2885
+  seawards: 99726
+  seaweeds: 94899
+scored_words:
+  seamounts: 126189
+  seamstresses: 155635
+  seances: 100957
+  seaplanes: 108004
+  seashores: 137852
+  seasickness: 102555
+  seawalls: 217553
+  seaways: 184600
+  seaworthiness: 221295
+not_scored_words:
+- Sears
+- seabeds
+- seaboards
+- seacoasts
+- seafloors
+- seafronts
+- seaminess
+- seaquakes
+- seasides
+- seasonableness
+- seasonablenesses
+- seasoners
+- seatmates

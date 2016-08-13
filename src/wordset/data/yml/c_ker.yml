@@ -1,0 +1,39 @@
+---
+pattern: c_ker
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 29
+score: 2047768
+score_per_word: 89033
+hi_scored_words:
+  canker: 51059
+  caretaker: 26700
+  caseworker: 68365
+  checker: 17666
+  choker: 35600
+  clicker: 37458
+  clinker: 64865
+  cocker: 28017
+  cocksucker: 37392
+  coffeemaker: 60786
+  conker: 74279
+  cooker: 19680
+  corker: 87356
+  coworker: 39044
+  cracker: 16661
+  croaker: 98582
+scored_words:
+  cabinetmaker: 122177
+  casemaker: 271075
+  caulker: 138369
+  clocker: 282396
+  clockmaker: 159863
+  clunker: 167626
+  codebreaker: 142752
+not_scored_words:
+- candlemaker
+- carjacker
+- chukker
+- clacker
+- comaker
+- coremaker

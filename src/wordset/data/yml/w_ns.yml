@@ -1,0 +1,59 @@
+---
+pattern: w_ns
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 49
+score: 2303642
+score_per_word: 100158
+hi_scored_words:
+  wagons: 17035
+  wardens: 39070
+  warns: 14104
+  warrens: 97050
+  watermelons: 63788
+  weakens: 42249
+  weapons: 2341
+  westerns: 19944
+  widens: 46391
+  windscreens: 90893
+  wins: 4946
+  workstations: 15049
+  worsens: 57156
+  wrens: 64883
+scored_words:
+  wakens: 141112
+  washbasins: 278693
+  wellingtons: 117809
+  wens: 186070
+  whens: 121353
+  whitens: 280153
+  widdershins: 206963
+  wineskins: 222433
+  woolens: 174157
+not_scored_words:
+- Washingtonians
+- Watkins
+- Wellingtons
+- Wesleyans
+- Westerns
+- Wiggins
+- Wilkins
+- Wiltons
+- Wrens
+- wains
+- waitpersons
+- wantons
+- warfarins
+- weans
+- weatherpersons
+- weens
+- whins
+- whitethorns
+- widescreens
+- widgeons
+- wigeons
+- wingspans
+- withershins
+- wiverns
+- woadwaxens
+- woodwaxens

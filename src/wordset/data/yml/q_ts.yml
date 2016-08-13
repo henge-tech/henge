@@ -1,0 +1,26 @@
+---
+pattern: q_ts
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1127023
+score_per_word: 86694
+hi_scored_words:
+  qts: 75243
+  quadrants: 57044
+  quartets: 37663
+  quarts: 38434
+  quests: 19192
+  quilts: 27085
+  quits: 23551
+  quotients: 81919
+scored_words:
+  quadruplets: 172940
+  quiets: 149175
+  quintets: 116973
+  quintuplets: 166640
+  quoits: 161164
+not_scored_words:
+- quints
+- quirts
+- quodlibets

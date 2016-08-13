@@ -1,0 +1,55 @@
+---
+pattern: ad_t
+hi_scored_words_count: 27
+scored_words_count: 4
+total_words: 45
+score: 1257063
+score_per_word: 40550
+hi_scored_words:
+  adamant: 28885
+  adapt: 9030
+  addict: 14190
+  adduct: 86660
+  adept: 17850
+  adherent: 40109
+  adjacent: 5170
+  adjoint: 48577
+  adjournment: 23798
+  adjunct: 18003
+  adjust: 6541
+  adjustment: 5618
+  adjutant: 32556
+  adjuvant: 33555
+  admit: 3368
+  adolescent: 13407
+  adopt: 4145
+  adornment: 48705
+  adrift: 30119
+  adroit: 50763
+  adsorbent: 96171
+  adult: 2954
+  advancement: 10501
+  advent: 9267
+  advert: 15303
+  advertisement: 4652
+  advisement: 49410
+scored_words:
+  adit: 102492
+  admonishment: 155392
+  advocaat: 112100
+  advt: 177772
+not_scored_words:
+- Adelbert
+- Advent
+- Adventist
+- additament
+- adhibit
+- adjt
+- adjudgment
+- admeasurement
+- administrant
+- adulterant
+- adust
+- adventurist
+- adversest
+- advertent

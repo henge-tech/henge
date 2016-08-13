@@ -1,0 +1,45 @@
+---
+pattern: dis_l
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 35
+score: 1810118
+score_per_word: 86196
+hi_scored_words:
+  disapproval: 22273
+  disdainful: 65958
+  disgraceful: 27635
+  disloyal: 66995
+  dismal: 17965
+  dismissal: 11458
+  dispel: 29736
+  dispersal: 28544
+  disposal: 4723
+  disrespectful: 30089
+  distal: 20344
+  distasteful: 36030
+  distill: 60909
+  distributional: 45977
+  distrustful: 69372
+scored_words:
+  disavowal: 137515
+  disbursal: 321950
+  disembowel: 208258
+  dispensational: 189700
+  disproportional: 203499
+  distressful: 211188
+not_scored_words:
+- disannul
+- discretional
+- disembroil
+- disentail
+- disenthral
+- disenthrall
+- disgustful
+- dishevel
+- dishtowel
+- disproval
+- disquisitional
+- disregardful
+- dissertational
+- distortional

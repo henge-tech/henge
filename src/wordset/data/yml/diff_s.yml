@@ -1,0 +1,23 @@
+---
+pattern: diff_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 626556
+score_per_word: 62655
+hi_scored_words:
+  differences: 2508
+  differentials: 30390
+  differentiates: 40876
+  differs: 10646
+  difficulties: 3386
+  diffs: 49894
+  diffusers: 70041
+  diffuses: 88552
+scored_words:
+  differentiations: 154376
+  differentiators: 175887
+not_scored_words:
+- differentness
+- diffracts
+- diffuseness

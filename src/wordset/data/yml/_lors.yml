@@ -1,0 +1,26 @@
+---
+pattern: _lors
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 595068
+score_per_word: 59506
+hi_scored_words:
+  bachelors: 22342
+  chancellors: 52751
+  colors: 2610
+  councilors: 62481
+  counselors: 19530
+  parlors: 45258
+  sailors: 10311
+  tailors: 35349
+  watercolors: 39966
+scored_words:
+  propellors: 304470
+not_scored_words:
+- bailors
+- discolors
+- dolors
+- recolors
+- temblors
+- tricolors

@@ -1,0 +1,78 @@
+---
+pattern: s_is
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 68
+score: 2168223
+score_per_word: 80304
+hi_scored_words:
+  safaris: 30447
+  salamis: 92075
+  saris: 68961
+  schistosomiasis: 76966
+  sclerosis: 17330
+  scoliosis: 41355
+  semis: 43073
+  sepsis: 33628
+  silicosis: 86724
+  sinusitis: 41551
+  sis: 12118
+  skis: 17527
+  spondylitis: 66258
+  stasis: 44834
+  stenosis: 25992
+  stomatitis: 75668
+  symbiosis: 44503
+  synopsis: 13902
+  synthesis: 9197
+  syphilis: 26446
+scored_words:
+  sakis: 203291
+  salmonellosis: 124838
+  samurais: 185924
+  swamis: 253853
+  symphysis: 164669
+  synapsis: 242646
+  synovitis: 124447
+not_scored_words:
+- Salamis
+- Salukis
+- Sardis
+- Saudis
+- Scaldis
+- Semiramis
+- Serapis
+- Sindhis
+- Solis
+- Somalis
+- Sunnis
+- Swahilis
+- Swazis
+- Sybaris
+- salmagundis
+- salmis
+- salpiglossis
+- salpingitis
+- sarcomatosis
+- satyriasis
+- schizogenesis
+- scleritis
+- shanghais
+- siderosis
+- siriasis
+- solvolysis
+- sorosis
+- spermacetis
+- spermiogenesis
+- spirochetosis
+- splenitis
+- sporogenesis
+- stephanotis
+- stereotaxis
+- stypsis
+- sycosis
+- syllepsis
+- syncrisis
+- syndesis
+- syndesmosis
+- syneresis

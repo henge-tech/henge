@@ -1,0 +1,45 @@
+---
+pattern: st_k
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 35
+score: 1759300
+score_per_word: 73304
+hi_scored_words:
+  stack: 7032
+  stalk: 17573
+  stank: 66044
+  stark: 9412
+  starstruck: 66419
+  steak: 9804
+  stick: 1986
+  stink: 22142
+  stock: 833
+  stonework: 65200
+  stork: 27695
+  storybook: 36190
+  streak: 9614
+  strick: 97280
+  struck: 3343
+  stuck: 3968
+  stunk: 79675
+scored_words:
+  steampunk: 123773
+  steelwork: 112227
+  steenbok: 309016
+  stickleback: 109049
+  stirk: 248368
+  stopcock: 137124
+  studbook: 195533
+not_scored_words:
+- Stalinsk
+- Stark
+- Steiermark
+- Steinbeck
+- Sterlitamak
+- stagestruck
+- steeplejack
+- steinbok
+- stickybeak
+- stook
+- stuccowork

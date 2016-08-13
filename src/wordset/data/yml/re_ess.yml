@@ -1,0 +1,82 @@
+---
+pattern: re_ess
+hi_scored_words_count: 20
+scored_words_count: 17
+total_words: 72
+score: 4303350
+score_per_word: 116306
+hi_scored_words:
+  readiness: 9861
+  reasonableness: 36307
+  reassess: 45880
+  recess: 13762
+  reckless: 12670
+  recklessness: 58786
+  redness: 32172
+  redress: 18579
+  regardless: 9489
+  regress: 34416
+  relatedness: 58115
+  relentless: 16896
+  remorseless: 92497
+  remoteness: 46159
+  representativeness: 79392
+  repress: 36179
+  resourcefulness: 67028
+  responsiveness: 19960
+  restless: 10755
+  restlessness: 30730
+scored_words:
+  readdress: 321996
+  realness: 117874
+  rebelliousness: 169919
+  receptiveness: 178840
+  recoilless: 226564
+  recompress: 298319
+  refractoriness: 213868
+  relentlessness: 292535
+  religiousness: 200878
+  remissness: 170507
+  repetitiveness: 188271
+  repossess: 103642
+  reprocess: 163992
+  resistless: 196263
+  resoluteness: 292349
+  restfulness: 198557
+  restrictiveness: 239343
+not_scored_words:
+- readableness
+- reasonless
+- recentness
+- recessiveness
+- reciprocalness
+- reclusiveness
+- reconditeness
+- reddishness
+- reediness
+- reflectiveness
+- reflexiveness
+- refractiveness
+- regressiveness
+- regretfulness
+- reimpress
+- relativeness
+- reliableness
+- remarkableness
+- remediless
+- remorsefulness
+- remorselessness
+- repetitiousness
+- repleteness
+- repressiveness
+- reproachfulness
+- reproachless
+- repulsiveness
+- resentfulness
+- reservedness
+- respectfulness
+- responsibleness
+- restiveness
+- retentiveness
+- retiringness
+- retrogress

@@ -1,0 +1,31 @@
+---
+pattern: b_ht
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 21
+score: 950058
+score_per_word: 63337
+hi_scored_words:
+  backlight: 37391
+  baht: 24230
+  bantamweight: 98341
+  besought: 92177
+  bight: 45138
+  birthright: 33689
+  blacklight: 61981
+  blight: 21372
+  borscht: 89777
+  bought: 1500
+  bright: 1905
+  brought: 874
+  bullfight: 89793
+scored_words:
+  bedight: 204092
+  bethought: 147798
+not_scored_words:
+- BHT
+- Brecht
+- Bright
+- backsight
+- bombsight
+- borsht

@@ -1,0 +1,32 @@
+---
+pattern: bo_ts
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 22
+score: 794843
+score_per_word: 49677
+hi_scored_words:
+  boasts: 14200
+  boats: 2967
+  bobcats: 26440
+  bolts: 10208
+  bonnets: 58025
+  booklets: 25159
+  boosts: 21586
+  boots: 2828
+  botanists: 69540
+  bots: 17104
+  bouquets: 23731
+  bouts: 32274
+  boycotts: 53470
+scored_words:
+  bodysuits: 131640
+  bombardments: 141342
+  botnets: 164329
+not_scored_words:
+- bombsights
+- bonesets
+- borshts
+- bouffants
+- bowknots
+- bowsprits

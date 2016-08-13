@@ -1,0 +1,54 @@
+---
+pattern: c_sed
+hi_scored_words_count: 26
+scored_words_count: 9
+total_words: 44
+score: 2431275
+score_per_word: 69465
+hi_scored_words:
+  canvassed: 70455
+  caressed: 53368
+  cased: 43366
+  caused: 1736
+  ceased: 8318
+  chased: 19844
+  chastised: 66929
+  circumcised: 38447
+  classed: 28693
+  cleansed: 36256
+  closed: 1151
+  collapsed: 12374
+  composed: 3459
+  compressed: 5372
+  comprised: 9289
+  compromised: 14151
+  condensed: 11695
+  confessed: 14923
+  confused: 3847
+  conversed: 70824
+  convulsed: 91233
+  creased: 39676
+  crossed: 4796
+  cruised: 53162
+  cursed: 10802
+  cussed: 63586
+scored_words:
+  calloused: 110703
+  callused: 174941
+  censed: 291942
+  cheesed: 217634
+  chorused: 218293
+  compassed: 132067
+  concussed: 270374
+  coursed: 103450
+  crisscrossed: 134119
+not_scored_words:
+- canvased
+- caroused
+- caucused
+- censused
+- chassed
+- circumfused
+- consed
+- contused
+- counterpoised

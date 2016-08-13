@@ -1,0 +1,39 @@
+---
+pattern: _elt
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 29
+score: 825040
+score_per_word: 55002
+hi_scored_words:
+  belt: 3280
+  celt: 42370
+  dwelt: 23737
+  felt: 1022
+  greenbelt: 37410
+  heartfelt: 21047
+  knelt: 26547
+  melt: 8925
+  pelt: 36689
+  seatbelt: 37442
+  smelt: 33106
+  sunbelt: 61599
+  welt: 23179
+scored_words:
+  kelt: 210139
+  unfelt: 258548
+not_scored_words:
+- Celt
+- Frostbelt
+- Magherafelt
+- Roosevelt
+- Rustbelt
+- Snowbelt
+- Sunbelt
+- Tafilelt
+- indwelt
+- jacksmelt
+- lifebelt
+- remelt
+- snowbelt
+- unbelt

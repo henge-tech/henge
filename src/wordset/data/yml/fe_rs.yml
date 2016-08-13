@@ -1,0 +1,25 @@
+---
+pattern: fe_rs
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 949561
+score_per_word: 79130
+hi_scored_words:
+  fears: 4775
+  feathers: 11078
+  feeders: 26533
+  feelers: 93790
+  fellers: 86332
+  fencers: 91961
+  fenders: 33418
+  fertilizers: 25453
+  fetters: 56041
+  fevers: 47496
+scored_words:
+  femurs: 218868
+  festers: 253816
+not_scored_words:
+- feasters
+- fetchers
+- fetors

@@ -1,0 +1,44 @@
+---
+pattern: lie_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 34
+score: 765753
+score_per_word: 54696
+hi_scored_words:
+  lie: 2214
+  lied: 10227
+  lieder: 44332
+  lief: 58296
+  liege: 26359
+  lien: 16622
+  liens: 27969
+  lies: 2121
+  lieu: 9269
+  lieutenancy: 66785
+  lieutenant: 6057
+  lieutenants: 45214
+scored_words:
+  liefer: 255291
+  lieges: 194997
+not_scored_words:
+- Lie
+- Lieberman
+- Liebfraumilch
+- Liebig
+- Liebknecht
+- Liechtenstein
+- Liechtensteiner
+- Liechtensteiners
+- Liederkranz
+- Liege
+- Liegnitz
+- Liestal
+- Lietuva
+- Lieut
+- Lieutenant
+- liefest
+- liegeman
+- liegemen
+- lientery
+- lierne

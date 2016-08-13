@@ -1,0 +1,32 @@
+---
+pattern: el_ed
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 22
+score: 1190608
+score_per_word: 62663
+hi_scored_words:
+  elaborated: 25111
+  elapsed: 16165
+  elasticated: 91746
+  elated: 32906
+  elected: 2694
+  electrified: 23423
+  electrocuted: 76307
+  elevated: 6787
+  elicited: 29721
+  eliminated: 9759
+  elongated: 22538
+  elucidated: 60537
+  eluded: 48389
+  eluted: 70395
+scored_words:
+  elasticized: 179387
+  elbowed: 115098
+  electroplated: 107670
+  elided: 153405
+  eloped: 118570
+not_scored_words:
+- electioneered
+- electrolyzed
+- elegized

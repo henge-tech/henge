@@ -1,0 +1,24 @@
+---
+pattern: leg_y
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 14
+score: 492314
+score_per_word: 44755
+hi_scored_words:
+  legacy: 5368
+  legality: 23583
+  legally: 4751
+  legendary: 8954
+  leggy: 57674
+  legibility: 70910
+  legibly: 71224
+  legislatively: 98287
+  legitimacy: 18651
+  legitimately: 26121
+scored_words:
+  legionary: 106791
+not_scored_words:
+- legalistically
+- legationary
+- legendarily

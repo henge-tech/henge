@@ -1,0 +1,30 @@
+---
+pattern: spen_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 20
+score: 528686
+score_per_word: 52868
+hi_scored_words:
+  spence: 19999
+  spencer: 10426
+  spend: 1742
+  spender: 57595
+  spenders: 82316
+  spending: 2819
+  spends: 11946
+  spendthrift: 92733
+  spent: 1364
+scored_words:
+  spendable: 247746
+not_scored_words:
+- Spence
+- Spencer
+- Spencerian
+- Spencerianism
+- Spender
+- Spengler
+- Spenglerian
+- Spenser
+- Spenserian
+- spendthrifts

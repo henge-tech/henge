@@ -1,0 +1,27 @@
+---
+pattern: b_ming
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 731392
+score_per_word: 60949
+hi_scored_words:
+  beaming: 36701
+  becoming: 1936
+  blaming: 19421
+  blooming: 16408
+  blossoming: 46619
+  booming: 20283
+  brainstorming: 28072
+  brimming: 43642
+scored_words:
+  barnstorming: 140541
+  blaspheming: 162291
+  bottoming: 108820
+  bumming: 106658
+not_scored_words:
+- becalming
+- becharming
+- bedimming
+- begriming
+- beseeming

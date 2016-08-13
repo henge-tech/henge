@@ -1,0 +1,46 @@
+---
+pattern: pol_e
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 36
+score: 2022884
+score_per_word: 74921
+hi_scored_words:
+  pole: 4309
+  police: 1017
+  polite: 9258
+  pollinate: 90391
+  pollute: 39780
+  polonaise: 83511
+  polyacrylamide: 52063
+  polyamide: 63854
+  polycarbonate: 36933
+  polychrome: 80427
+  polycrystalline: 70581
+  polyethylene: 24844
+  polymerase: 19243
+  polypeptide: 29197
+  polyphone: 63466
+  polypropylene: 30144
+  polysaccharide: 53329
+  polystyrene: 33236
+  polythene: 67121
+  polyurethane: 27927
+scored_words:
+  polariscope: 131391
+  polarizable: 272811
+  polarize: 126082
+  politesse: 115648
+  politicize: 132573
+  polychaete: 151642
+  polymerize: 212106
+not_scored_words:
+- Pole
+- polacre
+- poleaxe
+- polemicize
+- pollinize
+- polybasite
+- polysyllable
+- polyunsaturate
+- polyvalence

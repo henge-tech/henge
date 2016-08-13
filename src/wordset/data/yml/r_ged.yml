@@ -1,0 +1,35 @@
+---
+pattern: r_ged
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 25
+score: 1317720
+score_per_word: 77512
+hi_scored_words:
+  raged: 37577
+  ragged: 17616
+  ranged: 11635
+  ravaged: 29296
+  rearranged: 41242
+  recharged: 54883
+  repackaged: 64134
+  ridged: 75768
+  rigged: 23779
+  ringed: 43168
+  rugged: 9031
+scored_words:
+  rampaged: 219313
+  reemerged: 176331
+  reneged: 107864
+  revenged: 134854
+  rouged: 154809
+  rummaged: 116420
+not_scored_words:
+- reengaged
+- reforged
+- regorged
+- rehanged
+- rejigged
+- rejudged
+- remortgaged
+- reorged

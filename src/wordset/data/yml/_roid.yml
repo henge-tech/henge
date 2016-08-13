@@ -1,0 +1,55 @@
+---
+pattern: _roid
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 45
+score: 1875663
+score_per_word: 93783
+hi_scored_words:
+  android: 25043
+  asteroid: 27097
+  centroid: 53617
+  choroid: 72364
+  corticosteroid: 51896
+  droid: 32370
+  fibroid: 69155
+  parathyroid: 40579
+  spheroid: 80461
+  steroid: 16216
+  thyroid: 15377
+scored_words:
+  aneroid: 123180
+  chancroid: 172025
+  hydroid: 240828
+  hyperthyroid: 140156
+  hypothyroid: 106193
+  meteoroid: 187609
+  negroid: 118482
+  sangfroid: 167713
+  toroid: 135302
+not_scored_words:
+- Android
+- Leatheroid
+- Negroid
+- Polaroid
+- acaroid
+- amberoid
+- ambroid
+- aroid
+- astroid
+- bacteroid
+- cancroid
+- chaudfroid
+- cylindroid
+- dendroid
+- hemispheroid
+- hysteroid
+- labroid
+- lemuroid
+- porphyroid
+- saccharoid
+- sciuroid
+- sparoid
+- spiroid
+- theroid
+- xanthochroid

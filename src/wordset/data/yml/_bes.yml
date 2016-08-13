@@ -1,0 +1,81 @@
+---
+pattern: _bes
+hi_scored_words_count: 24
+scored_words_count: 20
+total_words: 71
+score: 4722108
+score_per_word: 107320
+hi_scored_words:
+  ascribes: 86522
+  babes: 6166
+  bathrobes: 81564
+  bribes: 30751
+  cubes: 19418
+  describes: 3451
+  globes: 21370
+  lobes: 34460
+  lubes: 64167
+  microbes: 32989
+  prescribes: 37707
+  probes: 12672
+  pubes: 46015
+  robes: 13387
+  scribes: 33326
+  strobes: 73284
+  subscribes: 45229
+  tabes: 60031
+  thebes: 35734
+  tribes: 4693
+  tubes: 6879
+  vibes: 20412
+  wannabes: 61211
+  wardrobes: 42590
+scored_words:
+  abbes: 234421
+  adobes: 177714
+  anaerobes: 142738
+  astrolabes: 298040
+  circumscribes: 293533
+  diatribes: 106185
+  earlobes: 164996
+  gibes: 109766
+  grebes: 106105
+  homophobes: 123977
+  hypercubes: 204370
+  inscribes: 217392
+  jibes: 133636
+  maybes: 122305
+  plebes: 258151
+  proscribes: 221092
+  rubes: 111901
+  technophobes: 327066
+  transcribes: 187114
+  unsubscribes: 307578
+not_scored_words:
+- Antibes
+- Bes
+- Celebes
+- Colombes
+- Delibes
+- Forbes
+- Francophobes
+- Hobbes
+- Tarbes
+- Thebes
+- aerobes
+- astilbes
+- blowtubes
+- disrobes
+- enrobes
+- flambes
+- flashcubes
+- glebes
+- imbibes
+- jujubes
+- kibes
+- overprescribes
+- oversubscribes
+- phoebes
+- resubscribes
+- superscribes
+- xenophobes

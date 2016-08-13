@@ -1,0 +1,21 @@
+---
+pattern: wou_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 708527
+score_per_word: 70852
+hi_scored_words:
+  would: 59
+  would've: 16009
+  wouldn't: 624
+  wouldst: 57368
+  wound: 4736
+  wounded: 5054
+  wounding: 29151
+  wounds: 7372
+scored_words:
+  wounder: 277169
+  woundwort: 310985
+not_scored_words:
+- woulds

@@ -1,0 +1,28 @@
+---
+pattern: clas_s
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 18
+score: 561843
+score_per_word: 40131
+hi_scored_words:
+  clashes: 31331
+  clasps: 35129
+  class: 382
+  classes: 1384
+  classics: 5689
+  classifications: 21174
+  classifieds: 14898
+  classifiers: 49013
+  classifies: 44663
+  classless: 66465
+  classmates: 17363
+  classrooms: 9537
+scored_words:
+  classicists: 149516
+  classis: 115299
+not_scored_words:
+- Classics
+- classicizes
+- classiness
+- classlessness

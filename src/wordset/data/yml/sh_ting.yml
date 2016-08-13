@@ -1,0 +1,25 @@
+---
+pattern: sh_ting
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 15
+score: 1229236
+score_per_word: 87802
+hi_scored_words:
+  sheeting: 42332
+  shifting: 8836
+  shitting: 29624
+  shooting: 3135
+  shoplifting: 48045
+  shorting: 66460
+  shouting: 10269
+  shunting: 73949
+  shutting: 18838
+scored_words:
+  shafting: 130593
+  shirting: 176269
+  shopfitting: 157519
+  shortlisting: 223475
+  showboating: 239892
+not_scored_words:
+- sharpshooting

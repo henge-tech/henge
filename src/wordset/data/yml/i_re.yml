@@ -1,0 +1,47 @@
+---
+pattern: i_re
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 37
+score: 1210695
+score_per_word: 52638
+hi_scored_words:
+  ignore: 4491
+  immature: 17570
+  implore: 43202
+  impure: 30100
+  indenture: 45690
+  infrastructure: 13482
+  injure: 21677
+  inquire: 7016
+  insecure: 16931
+  inshore: 43616
+  insincere: 52365
+  inspire: 8197
+  insure: 8575
+  interfere: 7136
+  intermixture: 64358
+  inure: 91433
+  investiture: 75323
+  ionosphere: 50264
+  ire: 17587
+scored_words:
+  imposture: 135859
+  inhere: 143912
+  insectivore: 203118
+  involucre: 108793
+not_scored_words:
+- Indore
+- Indre
+- Isadore
+- immixture
+- immure
+- impressure
+- improvvisatore
+- incisure
+- infare
+- insnare
+- insphere
+- intertexture
+- ironware
+- isothere

@@ -1,0 +1,45 @@
+---
+pattern: b_ches
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 35
+score: 1900252
+score_per_word: 90488
+hi_scored_words:
+  batches: 32887
+  beaches: 9591
+  beeches: 80556
+  benches: 18370
+  birches: 77409
+  bitches: 11321
+  blotches: 83876
+  branches: 3443
+  breaches: 22333
+  breeches: 34109
+  britches: 69705
+  brooches: 36228
+  bunches: 29351
+scored_words:
+  baches: 235601
+  backaches: 156280
+  belches: 208505
+  blanches: 138589
+  bleaches: 115994
+  botches: 270842
+  broaches: 135220
+  brunches: 130042
+not_scored_words:
+- Boches
+- backbenches
+- backstitches
+- backstretches
+- barouches
+- bellyaches
+- beseeches
+- besmirches
+- bewitches
+- blenches
+- blowtorches
+- brioches
+- bullfinches
+- butches

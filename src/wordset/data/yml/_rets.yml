@@ -1,0 +1,40 @@
+---
+pattern: _rets
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 30
+score: 1469990
+score_per_word: 91874
+hi_scored_words:
+  berets: 65604
+  cabarets: 90116
+  egrets: 78336
+  ferrets: 43284
+  florets: 76459
+  frets: 48505
+  interprets: 30606
+  minarets: 95040
+  regrets: 17144
+  secrets: 3552
+  turrets: 43959
+scored_words:
+  clarets: 117787
+  garrets: 125295
+  misinterprets: 213990
+  reinterprets: 255982
+  rets: 164331
+not_scored_words:
+- Clorets
+- Sucrets
+- aigrets
+- bannerets
+- carburets
+- carets
+- curets
+- imarets
+- leverets
+- pomfrets
+- skirrets
+- sollerets
+- spinnerets
+- taborets

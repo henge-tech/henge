@@ -1,0 +1,43 @@
+---
+pattern: st_h
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 33
+score: 1442495
+score_per_word: 68690
+hi_scored_words:
+  stagecoach: 39221
+  staph: 65129
+  starch: 15512
+  starfish: 27944
+  stash: 20588
+  staunch: 30074
+  stealth: 12566
+  stench: 27729
+  stich: 77166
+  stillbirth: 78301
+  stitch: 9444
+  stomach: 4459
+  stopwatch: 37328
+  strath: 86604
+  strength: 1401
+  stretch: 3822
+  stylish: 10716
+scored_words:
+  stablish: 319487
+  stanch: 151432
+  standoffish: 161991
+  stereograph: 261581
+not_scored_words:
+- Standish
+- Staubach
+- statolith
+- steeplebush
+- stenograph
+- stiffish
+- stockish
+- stonefish
+- stoush
+- strewth
+- strongish
+- stylograph

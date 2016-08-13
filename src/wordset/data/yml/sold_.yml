@@ -1,0 +1,25 @@
+---
+pattern: sold_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 15
+score: 1396943
+score_per_word: 107457
+hi_scored_words:
+  sold: 1261
+  solder: 22645
+  soldered: 51159
+  soldering: 31714
+  solders: 87558
+  soldier: 3174
+  soldiers: 2086
+  soldiery: 94297
+scored_words:
+  solderers: 320028
+  soldiered: 209982
+  soldiering: 101745
+  soldierly: 187848
+  soldo: 283446
+not_scored_words:
+- solderer
+- soldierings

@@ -1,0 +1,36 @@
+---
+pattern: b_od
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 26
+score: 1680042
+score_per_word: 98826
+hi_scored_words:
+  basswood: 84536
+  beechwood: 56057
+  blood: 655
+  bod: 28317
+  boxwood: 66015
+  boyhood: 28575
+  briarwood: 86054
+  brood: 17870
+  brotherhood: 12431
+  brushwood: 86400
+scored_words:
+  babyhood: 146104
+  baywood: 118211
+  bearwood: 242656
+  bentwood: 157522
+  bipod: 114222
+  brachiopod: 252136
+  buttonwood: 182281
+not_scored_words:
+- Bacolod
+- Belgorod
+- Blackwood
+- Bollywood
+- Brentwood
+- bachelorhood
+- beefwood
+- branchiopod
+- brierwood

@@ -1,0 +1,57 @@
+---
+pattern: imp_es
+hi_scored_words_count: 9
+scored_words_count: 16
+total_words: 47
+score: 3394498
+score_per_word: 135779
+hi_scored_words:
+  impedes: 66159
+  imperatives: 40608
+  implicates: 76725
+  implies: 5966
+  imposes: 18915
+  impresses: 51092
+  improves: 11251
+  impulses: 17609
+  impurities: 27598
+scored_words:
+  impasses: 210491
+  impersonates: 175328
+  impertinences: 226178
+  impinges: 116653
+  implodes: 190313
+  implores: 133687
+  imponderables: 206263
+  impossibilities: 115263
+  impossibles: 268289
+  impostures: 156408
+  impoverishes: 301677
+  impregnates: 278941
+  improbabilities: 151147
+  improprieties: 116568
+  improvises: 225581
+  imputes: 205788
+not_scored_words:
+- impales
+- impalpabilities
+- impatiences
+- impeaches
+- impenetrablenesses
+- imperativenesses
+- imperfectives
+- imperishabilities
+- impermanencies
+- impermissibilities
+- imperviousnesses
+- impetuses
+- impieties
+- implausibilities
+- impolitenesses
+- importunes
+- impracticabilities
+- impracticalities
+- imprecates
+- impropernesses
+- impuissances
+- impurenesses

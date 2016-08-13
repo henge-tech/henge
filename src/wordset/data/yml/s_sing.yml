@@ -1,0 +1,34 @@
+---
+pattern: s_sing
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 24
+score: 857223
+score_per_word: 77929
+hi_scored_words:
+  sensing: 9893
+  showcasing: 27264
+  stressing: 22285
+  supervising: 24787
+  supposing: 25217
+  suppressing: 28690
+  surpassing: 31470
+  surprising: 5588
+scored_words:
+  subleasing: 264075
+  superimposing: 139054
+  surmising: 278900
+not_scored_words:
+- sassing
+- schussing
+- sousing
+- steeplechasing
+- stenosing
+- stripteasing
+- submersing
+- suffusing
+- summonsing
+- superposing
+- surceasing
+- surplussing
+- sussing

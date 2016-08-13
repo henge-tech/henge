@@ -1,0 +1,42 @@
+---
+pattern: ne_er
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 32
+score: 1505098
+score_per_word: 68413
+hi_scored_words:
+  ne'er: 5264
+  nearer: 11876
+  neater: 85596
+  nebulizer: 73537
+  necromancer: 41350
+  neither: 1593
+  nether: 27400
+  netter: 91144
+  neurotransmitter: 41096
+  neuter: 32331
+  never: 196
+  newcomer: 17169
+  newer: 8168
+  newscaster: 70092
+  newsletter: 2786
+  newspaper: 2198
+  newsreader: 34045
+scored_words:
+  needler: 229085
+  nephelometer: 234045
+  nerdier: 181651
+  nestler: 209758
+  neutralizer: 104718
+not_scored_words:
+- Necker
+- Netherlander
+- Newfoundlander
+- needier
+- neglecter
+- neper
+- nervier
+- newsdealer
+- newsier
+- newsmonger

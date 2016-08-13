@@ -1,0 +1,31 @@
+---
+pattern: garn_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 21
+score: 1050848
+score_per_word: 75060
+hi_scored_words:
+  garner: 21855
+  garnered: 27740
+  garnering: 52931
+  garners: 85888
+  garnet: 21521
+  garnets: 76863
+  garnish: 26748
+  garnished: 56990
+  garnishes: 82911
+  garnishment: 67768
+  garniture: 72817
+scored_words:
+  garnishee: 119840
+  garnishing: 129268
+  garnishments: 207708
+not_scored_words:
+- Garner
+- Garnett
+- garnierite
+- garnierites
+- garnisheed
+- garnisheeing
+- garnishees

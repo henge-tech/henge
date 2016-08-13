@@ -1,0 +1,43 @@
+---
+pattern: con_ce
+hi_scored_words_count: 21
+scored_words_count: 5
+total_words: 33
+score: 1399493
+score_per_word: 53826
+hi_scored_words:
+  concordance: 19699
+  concurrence: 23046
+  condolence: 46144
+  conductance: 32710
+  conference: 1722
+  confidence: 1844
+  confluence: 19647
+  conformance: 28534
+  congruence: 42125
+  connivance: 95259
+  conscience: 6287
+  consequence: 4261
+  consonance: 73317
+  continence: 47971
+  continuance: 21505
+  contrivance: 53785
+  convalescence: 63495
+  convenience: 4938
+  convergence: 17700
+  conveyance: 19602
+  convince: 6594
+scored_words:
+  concomitance: 108488
+  concupiscence: 125893
+  conduce: 108725
+  consistence: 107061
+  convenance: 319141
+not_scored_words:
+- Constance
+- concrescence
+- condescendence
+- contingence
+- contradance
+- convalesce
+- conversance

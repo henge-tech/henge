@@ -1,0 +1,27 @@
+---
+pattern: ca_or
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 357172
+score_per_word: 39685
+hi_scored_words:
+  calculator: 15828
+  camphor: 53611
+  candor: 34216
+  cantor: 32284
+  capacitor: 21713
+  captor: 43994
+  carburetor: 32008
+  castor: 22999
+scored_words:
+  calibrator: 100519
+not_scored_words:
+- Cantor
+- Castor
+- calumniator
+- capitulator
+- captivator
+- castigator
+- castrator
+- caveator

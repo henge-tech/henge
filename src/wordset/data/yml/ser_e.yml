@@ -1,0 +1,35 @@
+---
+pattern: ser_e
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 25
+score: 1263221
+score_per_word: 70178
+hi_scored_words:
+  sere: 89520
+  serenade: 27339
+  serene: 16000
+  serge: 20348
+  serialize: 69113
+  serine: 27175
+  seropositive: 95872
+  serpentine: 28026
+  serve: 1321
+  service: 195
+  serviceable: 29245
+  servile: 60507
+  servitude: 29108
+scored_words:
+  serape: 202850
+  sericulture: 178509
+  seronegative: 121780
+  serrate: 144842
+  serviette: 121471
+not_scored_words:
+- Serene
+- Sergipe
+- serfage
+- seriate
+- sermonize
+- serotine
+- serrulate

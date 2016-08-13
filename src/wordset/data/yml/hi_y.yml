@@ -1,0 +1,43 @@
+---
+pattern: hi_y
+hi_scored_words_count: 21
+scored_words_count: 3
+total_words: 33
+score: 1294195
+score_per_word: 53924
+hi_scored_words:
+  hickey: 28628
+  hickory: 16954
+  hideaway: 32884
+  hideously: 72020
+  hierarchically: 60008
+  hierarchy: 9098
+  highly: 1331
+  highway: 3378
+  hilariously: 56372
+  hilarity: 39280
+  hillbilly: 35712
+  hilly: 31238
+  hippy: 38664
+  histocompatibility: 53023
+  histologically: 66823
+  histology: 27117
+  histopathology: 62477
+  historically: 10814
+  historicity: 84951
+  historiography: 39702
+  history: 265
+scored_words:
+  highboy: 275952
+  hinny: 143943
+  histochemistry: 103561
+not_scored_words:
+- Hilary
+- Hillary
+- hieratically
+- hierocracy
+- hieroglyphically
+- hierolatry
+- hierology
+- highhandedly
+- histrionically

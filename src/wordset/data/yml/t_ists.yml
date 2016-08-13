@@ -1,0 +1,40 @@
+---
+pattern: t_ists
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 30
+score: 2042718
+score_per_word: 113484
+hi_scored_words:
+  technologists: 34115
+  terrorists: 5855
+  theists: 59048
+  theorists: 25465
+  therapists: 11536
+  tourists: 8596
+  traditionalists: 66231
+  twists: 21126
+  typists: 66602
+scored_words:
+  tattooists: 164891
+  taxidermists: 169437
+  taxonomists: 123432
+  televangelists: 246605
+  theosophists: 180339
+  tobacconists: 171483
+  toxicologists: 162899
+  transcendentalists: 246218
+  trombonists: 278840
+not_scored_words:
+- Taoists
+- Trappists
+- telegraphists
+- telepathists
+- telephonists
+- theologists
+- timpanists
+- titlists
+- tobogganists
+- topologists
+- tsarists
+- tympanists

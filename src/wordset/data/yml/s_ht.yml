@@ -1,0 +1,32 @@
+---
+pattern: s_ht
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 22
+score: 951373
+score_per_word: 55963
+hi_scored_words:
+  searchlight: 45500
+  shipwright: 98545
+  sight: 2314
+  skintight: 97936
+  skylight: 30462
+  sleight: 49052
+  slight: 3852
+  sought: 2761
+  spaceflight: 44843
+  spotlight: 9217
+  starlight: 20737
+  stoplight: 68425
+  straight: 1248
+  streetlight: 76011
+  sunlight: 7758
+scored_words:
+  safelight: 244025
+  sidelight: 148687
+not_scored_words:
+- sennight
+- stagefright
+- steamtight
+- sticktight
+- superdreadnought

@@ -1,0 +1,59 @@
+---
+pattern: _ball
+hi_scored_words_count: 26
+scored_words_count: 13
+total_words: 49
+score: 3253688
+score_per_word: 83427
+hi_scored_words:
+  ball: 1326
+  baseball: 5812
+  basketball: 5700
+  cannonball: 35152
+  eyeball: 37467
+  fastball: 51248
+  fireball: 25672
+  football: 3413
+  gumball: 58245
+  hairball: 76319
+  handball: 28975
+  hardball: 37532
+  highball: 62448
+  kickball: 83207
+  meatball: 51790
+  netball: 27673
+  oddball: 48512
+  paintball: 13239
+  pinball: 18242
+  racquetball: 33824
+  screwball: 65656
+  snowball: 28929
+  softball: 13848
+  speedball: 68386
+  trackball: 60738
+  volleyball: 11345
+scored_words:
+  blackball: 120360
+  buckyball: 292977
+  butterball: 132849
+  cornball: 232671
+  eightball: 107080
+  fuzzball: 164287
+  goofball: 100374
+  mothball: 203869
+  puffball: 110736
+  racketball: 300067
+  spitball: 245641
+  tarball: 101809
+  tetherball: 186270
+not_scored_words:
+- Ball
+- Foosball
+- beanball
+- buttonball
+- dirtball
+- greaseball
+- punchball
+- pushball
+- sleazeball
+- sourball

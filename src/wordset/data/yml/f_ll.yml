@@ -1,0 +1,37 @@
+---
+pattern: f_ll
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 27
+score: 1179863
+score_per_word: 58993
+hi_scored_words:
+  fall: 635
+  farewell: 7757
+  fastball: 51248
+  fell: 1957
+  fill: 1655
+  fireball: 25672
+  firewall: 11756
+  foll: 75458
+  football: 3413
+  footfall: 94788
+  foothill: 38605
+  forestall: 51671
+  foretell: 64246
+  freewill: 81164
+  frill: 87343
+  fulfill: 9467
+  full: 161
+scored_words:
+  fiberfill: 174694
+  footwall: 233886
+  fuzzball: 164287
+not_scored_words:
+- Falwell
+- Farrell
+- Ferrell
+- Foosball
+- Furnivall
+- fingerstall
+- footstall

@@ -1,0 +1,30 @@
+---
+pattern: _vels
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1197288
+score_per_word: 85520
+hi_scored_words:
+  gravels: 81758
+  levels: 2418
+  marvels: 38102
+  novels: 5142
+  revels: 48998
+  shovels: 39189
+  swivels: 66410
+  travels: 6337
+  unravels: 89919
+scored_words:
+  bevels: 132954
+  caravels: 109531
+  gavels: 245952
+  hovels: 158000
+  navels: 172578
+not_scored_words:
+- dishevels
+- drivels
+- grovels
+- ravels
+- shrivels
+- snivels

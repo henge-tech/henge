@@ -1,0 +1,37 @@
+---
+pattern: _dron
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 27
+score: 1627955
+score_per_word: 108530
+hi_scored_words:
+  cauldron: 28617
+  dodecahedron: 89472
+  hadron: 46239
+  octahedron: 96611
+  polyhedron: 55067
+  rhododendron: 46623
+  squadron: 8367
+  tetrahedron: 43660
+scored_words:
+  caldron: 149161
+  chaldron: 185953
+  hexahedron: 209245
+  icosahedron: 108917
+  liriodendron: 238394
+  philodendron: 134790
+  rhombohedron: 186839
+not_scored_words:
+- Kedron
+- Kidron
+- decahedron
+- dihedron
+- enneahedron
+- hendecahedron
+- heptahedron
+- pauldron
+- pentahedron
+- trapezohedron
+- trihedron
+- trisoctahedron

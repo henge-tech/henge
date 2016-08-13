@@ -1,0 +1,29 @@
+---
+pattern: e_rate
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1129393
+score_per_word: 86876
+hi_scored_words:
+  elaborate: 7464
+  electorate: 20679
+  emigrate: 43269
+  emirate: 67882
+  enumerate: 33627
+  evaporate: 36567
+  exaggerate: 32558
+  exonerate: 77725
+scored_words:
+  equilibrate: 140117
+  eviscerate: 116675
+  exasperate: 144683
+  execrate: 247642
+  expectorate: 160505
+not_scored_words:
+- edulcorate
+- equiponderate
+- exarate
+- exenterate
+- exhilarate
+- exuberate

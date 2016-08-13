@@ -1,0 +1,48 @@
+---
+pattern: _sely
+hi_scored_words_count: 21
+scored_words_count: 7
+total_words: 38
+score: 2206269
+score_per_word: 78795
+hi_scored_words:
+  adversely: 23381
+  closely: 2552
+  coarsely: 53098
+  concisely: 53070
+  conversely: 20239
+  densely: 25644
+  falsely: 20884
+  hoarsely: 91432
+  immensely: 18487
+  intensely: 14953
+  inversely: 41170
+  loosely: 14409
+  perversely: 86500
+  precisely: 4823
+  profusely: 36434
+  purposely: 21379
+  sparsely: 37018
+  tensely: 93261
+  transversely: 64594
+  unwisely: 83737
+  wisely: 12179
+scored_words:
+  basely: 191092
+  diffusely: 140341
+  diversely: 169844
+  imprecisely: 230135
+  jocosely: 230513
+  morosely: 280011
+  tersely: 145089
+not_scored_words:
+- abstrusely
+- aversely
+- grandiosely
+- lachrymosely
+- obesely
+- obtusely
+- obversely
+- otiosely
+- reversely
+- verbosely

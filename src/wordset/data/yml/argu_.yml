@@ -1,0 +1,32 @@
+---
+pattern: argu_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 22
+score: 637874
+score_per_word: 53156
+hi_scored_words:
+  arguable: 51387
+  arguably: 17868
+  argue: 4689
+  argued: 5436
+  argues: 9082
+  arguing: 9523
+  argument: 1511
+  argumentation: 42569
+  argumentative: 39421
+  arguments: 3214
+scored_words:
+  arguer: 283241
+  argumentum: 169933
+not_scored_words:
+- Argus
+- Arguses
+- arguers
+- argufied
+- argufies
+- argufy
+- argufying
+- argumentatively
+- argumentativeness
+- argumentive

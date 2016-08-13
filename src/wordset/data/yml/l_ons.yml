@@ -1,0 +1,44 @@
+---
+pattern: l_ons
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 34
+score: 1790886
+score_per_word: 71635
+hi_scored_words:
+  lacerations: 72042
+  lagoons: 39437
+  lamentations: 24274
+  legations: 94313
+  legions: 26074
+  lemons: 25402
+  leptons: 84900
+  lesions: 20608
+  lessons: 2636
+  lexicons: 80557
+  liaisons: 43757
+  libations: 78176
+  limitations: 4724
+  lions: 6030
+  liquidations: 89249
+  locations: 2545
+  loons: 63856
+  lotions: 29454
+  luncheons: 67495
+scored_words:
+  lampoons: 136999
+  laypersons: 139243
+  localizations: 112747
+  locutions: 264850
+  logons: 103583
+  lucubrations: 177935
+not_scored_words:
+- Lamentations
+- Lions
+- Lyons
+- lacrimations
+- lavations
+- liberalizations
+- lineations
+- lunations
+- luxations

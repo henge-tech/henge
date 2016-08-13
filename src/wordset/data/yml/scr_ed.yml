@@ -1,0 +1,37 @@
+---
+pattern: scr_ed
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 27
+score: 1097660
+score_per_word: 57771
+hi_scored_words:
+  scrambled: 21693
+  scraped: 28851
+  scrapped: 26585
+  scratched: 17543
+  scrawled: 54771
+  screamed: 16861
+  screed: 67124
+  screened: 12693
+  screwed: 11618
+  scribbled: 48923
+  scribed: 64955
+  scripted: 29741
+  scrolled: 52413
+  scrubbed: 26244
+  scrutinized: 43402
+scored_words:
+  screeched: 105125
+  scrounged: 207649
+  scrunched: 129488
+  scrupled: 131981
+not_scored_words:
+- scrabbled
+- scrammed
+- screaked
+- scrimmaged
+- scrimped
+- scrimshawed
+- scrummed
+- scrumped

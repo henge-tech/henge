@@ -1,0 +1,54 @@
+---
+pattern: i_ism
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 44
+score: 1941833
+score_per_word: 114225
+hi_scored_words:
+  idealism: 28344
+  imperialism: 21009
+  impressionism: 34602
+  individualism: 31607
+  intellectualism: 84334
+  internationalism: 61090
+  isolationism: 70985
+  isomorphism: 37027
+scored_words:
+  incrementalism: 215989
+  indeterminism: 258558
+  industrialism: 110280
+  infantilism: 119187
+  institutionalism: 134780
+  instrumentalism: 260534
+  interventionism: 126167
+  intuitionism: 226188
+  isomerism: 121152
+not_scored_words:
+- Irishism
+- Islamism
+- Italianism
+- idiotism
+- idolism
+- illuminism
+- illusionism
+- imagism
+- immanentism
+- immaterialism
+- immersionism
+- incendiarism
+- indifferentism
+- infallibilism
+- inflationism
+- infusionism
+- initialism
+- intuitivism
+- invalidism
+- iodism
+- iotacism
+- irenicism
+- irredentism
+- isobarism
+- isochronism
+- isodimorphism
+- isotropism

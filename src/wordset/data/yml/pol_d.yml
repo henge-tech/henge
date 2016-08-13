@@ -1,0 +1,34 @@
+---
+pattern: pol_d
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 24
+score: 1267834
+score_per_word: 90559
+hi_scored_words:
+  polarized: 24353
+  policed: 79236
+  polished: 6706
+  politicized: 61421
+  pollard: 24766
+  polled: 34887
+  pollinated: 70716
+  polluted: 22785
+  polyunsaturated: 59522
+scored_words:
+  poled: 172740
+  poleward: 138933
+  polymerized: 103788
+  polyploid: 205367
+  polypoid: 262614
+not_scored_words:
+- Poland
+- Polaroid
+- Pollard
+- poleaxed
+- polemicized
+- politicked
+- polkaed
+- pollarded
+- polychromed
+- polygraphed

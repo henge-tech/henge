@@ -1,0 +1,27 @@
+---
+pattern: as_al
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 809318
+score_per_word: 73574
+hi_scored_words:
+  asexual: 48989
+  aspirational: 84896
+  associational: 98168
+  astral: 21880
+  astrological: 30969
+  astronomical: 11940
+  astrophysical: 42137
+  asymmetrical: 30232
+scored_words:
+  asocial: 192982
+  aspectual: 131076
+  astronautical: 116049
+not_scored_words:
+- Ashurbanipal
+- Assurbanipal
+- assonantal
+- asternal
+- astragal
+- asymptotical

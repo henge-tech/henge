@@ -1,0 +1,46 @@
+---
+pattern: a_tics
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 36
+score: 1554835
+score_per_word: 70674
+hi_scored_words:
+  acoustics: 18596
+  acrobatics: 58702
+  aerobatics: 80565
+  aeronautics: 21770
+  aesthetics: 19885
+  agnostics: 86222
+  anesthetics: 44322
+  antibiotics: 10789
+  antics: 23998
+  antipsychotics: 70582
+  apologetics: 34318
+  aquatics: 30309
+  aromatics: 53953
+  asthmatics: 84983
+  astronautics: 56033
+  athletics: 11039
+  attics: 68645
+  automatics: 75799
+scored_words:
+  acrostics: 267321
+  anthelmintics: 218551
+  antiseptics: 103218
+  ascetics: 115235
+not_scored_words:
+- Asiatics
+- aeroballistics
+- aerodonetics
+- aerostatics
+- aerotherapeutics
+- analeptics
+- analphabetics
+- anapestics
+- anorectics
+- antipyretics
+- antisyphilitics
+- arctics
+- arthritics
+- ataractics

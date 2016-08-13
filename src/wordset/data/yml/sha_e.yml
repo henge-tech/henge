@@ -1,0 +1,32 @@
+---
+pattern: sha_e
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 688522
+score_per_word: 52963
+hi_scored_words:
+  shackle: 49258
+  shade: 4658
+  shake: 4308
+  shale: 26218
+  shame: 3917
+  shape: 1760
+  share: 590
+  shareware: 23633
+  sharpie: 45615
+  shave: 11195
+scored_words:
+  shamble: 257265
+  sharable: 151318
+  shareable: 108787
+not_scored_words:
+- SHAPE
+- Shakespeare
+- Shane
+- Sharlene
+- Sharpe
+- Shawnee
+- shakable
+- shakeable
+- shamanize

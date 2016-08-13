@@ -1,0 +1,33 @@
+---
+pattern: r_ine
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 23
+score: 1607496
+score_per_word: 100468
+hi_scored_words:
+  ravine: 26679
+  recline: 53229
+  redefine: 25999
+  redline: 35658
+  reexamine: 78358
+  refine: 11753
+  reserpine: 93282
+  riverine: 55468
+  romaine: 46014
+  routine: 7854
+scored_words:
+  rapine: 164504
+  recombine: 113324
+  redetermine: 311831
+  reline: 290091
+  repine: 182400
+  rhodamine: 111052
+not_scored_words:
+- Racine
+- Rankine
+- Rhine
+- ralline
+- ratline
+- resupine
+- rosaniline

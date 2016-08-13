@@ -1,0 +1,28 @@
+---
+pattern: supe_r
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 18
+score: 918619
+score_per_word: 76551
+hi_scored_words:
+  super: 5111
+  supercharger: 49436
+  supercomputer: 37417
+  superconductor: 59321
+  superior: 2269
+  superpower: 27293
+  superstar: 12610
+  superuser: 76641
+  supervisor: 12683
+scored_words:
+  supercollider: 148421
+  superorder: 199055
+  supertanker: 288362
+not_scored_words:
+- Superior
+- superachiever
+- superaltar
+- superber
+- supercolumnar
+- superliner

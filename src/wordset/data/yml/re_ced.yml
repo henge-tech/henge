@@ -1,0 +1,29 @@
+---
+pattern: re_ced
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 19
+score: 1388169
+score_per_word: 81657
+hi_scored_words:
+  reduced: 1854
+  referenced: 8289
+  refinanced: 81293
+  reinforced: 9838
+  reintroduced: 46799
+  rejoiced: 34595
+  renounced: 43910
+  replaced: 3180
+  reproduced: 6684
+  resourced: 57837
+  resurfaced: 61986
+  retraced: 96790
+scored_words:
+  rebalanced: 187404
+  recommenced: 119801
+  reminisced: 127476
+  repriced: 308551
+  reverenced: 191882
+not_scored_words:
+- recrudesced
+- refaced

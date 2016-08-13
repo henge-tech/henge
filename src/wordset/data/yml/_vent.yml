@@ -1,0 +1,27 @@
+---
+pattern: _vent
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 17
+score: 361440
+score_per_word: 30120
+hi_scored_words:
+  advent: 9267
+  circumvent: 28720
+  convent: 16073
+  event: 780
+  fervent: 32049
+  insolvent: 35884
+  invent: 13823
+  prevent: 1352
+  reinvent: 35396
+  solvent: 15259
+  vent: 7970
+scored_words:
+  resolvent: 164867
+not_scored_words:
+- Advent
+- connivent
+- dissolvent
+- nonevent
+- subvent

@@ -1,0 +1,33 @@
+---
+pattern: ecc_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 23
+score: 1586878
+score_per_word: 113348
+hi_scored_words:
+  eccentric: 14482
+  eccentricities: 68850
+  eccentricity: 40924
+  ecclesia: 65289
+  ecclesial: 94756
+  ecclesiastic: 99010
+  ecclesiastical: 16485
+  ecclesiology: 86733
+scored_words:
+  eccentrically: 211983
+  eccentrics: 100339
+  ecchymosis: 273124
+  eccl: 104623
+  ecclesiastics: 142263
+  eccrine: 268017
+not_scored_words:
+- Eccles
+- Ecclesiastes
+- Ecclesiasticus
+- Ecclus
+- ecclesiastically
+- ecclesiasticism
+- ecclesiasticisms
+- ecclesiolatry
+- eccrinology

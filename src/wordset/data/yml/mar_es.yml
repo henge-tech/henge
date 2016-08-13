@@ -1,0 +1,48 @@
+---
+pattern: mar_es
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 38
+score: 1026838
+score_per_word: 64177
+hi_scored_words:
+  marbles: 19291
+  marches: 18319
+  mares: 28854
+  marinades: 77618
+  marines: 10084
+  marionettes: 80696
+  marketplaces: 42398
+  marquees: 72519
+  marques: 29640
+  marriages: 14299
+  marries: 26728
+  marseilles: 28630
+  marshes: 23313
+scored_words:
+  marginalizes: 270747
+  marquises: 119179
+  martingales: 164523
+not_scored_words:
+- Marches
+- Marines
+- Marseillaises
+- Marseilles
+- Marses
+- Martinmases
+- marasmuses
+- marbleizes
+- marchionesses
+- marchpanes
+- marges
+- margraves
+- marguerites
+- marinates
+- marlines
+- marlinespikes
+- marmites
+- marquesses
+- marqueteries
+- marrowbones
+- martensites
+- martyrizes

@@ -1,0 +1,27 @@
+---
+pattern: _ront
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 17
+score: 907061
+score_per_word: 56691
+hi_scored_words:
+  affront: 40255
+  battlefront: 30383
+  beachfront: 34799
+  confront: 12708
+  forefront: 19360
+  front: 454
+  lakefront: 44111
+  oceanfront: 45156
+  riverfront: 34988
+  seafront: 49699
+  storefront: 27555
+  upfront: 22084
+  waterfront: 13330
+  wavefront: 54663
+scored_words:
+  breakfront: 297014
+  shopfront: 180502
+not_scored_words:
+- shirtfront

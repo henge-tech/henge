@@ -1,0 +1,62 @@
+---
+pattern: s_man
+hi_scored_words_count: 21
+scored_words_count: 9
+total_words: 52
+score: 2145977
+score_per_word: 71532
+hi_scored_words:
+  salesman: 16343
+  sandman: 25112
+  seaman: 19069
+  selectman: 76286
+  serviceman: 76255
+  shaman: 18615
+  shipman: 45639
+  showman: 53430
+  snowman: 22032
+  spaceman: 56105
+  spearman: 54724
+  spokesman: 10476
+  spokeswoman: 23839
+  sportsman: 18509
+  statesman: 12590
+  stockman: 60246
+  strongman: 63399
+  stuntman: 75286
+  superhuman: 43099
+  superman: 9421
+  swordsman: 44352
+scored_words:
+  saleswoman: 108001
+  sideman: 104793
+  signalman: 107624
+  sportswoman: 152509
+  steersman: 216216
+  subhuman: 102941
+  superwoman: 108688
+  swagman: 134937
+  switchman: 285441
+not_scored_words:
+- Schuman
+- Scotchman
+- Scotchwoman
+- Scotsman
+- Scotswoman
+- Seaman
+- Sherman
+- Suleiman
+- Superman
+- schoolman
+- scrubwoman
+- selectwoman
+- servicewoman
+- sidesman
+- socman
+- spacewoman
+- spoilsman
+- stableman
+- staffman
+- stateswoman
+- supersalesman
+- swagsman

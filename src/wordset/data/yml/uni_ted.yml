@@ -1,0 +1,26 @@
+---
+pattern: uni_ted
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 16
+score: 1089915
+score_per_word: 83839
+hi_scored_words:
+  unincorporated: 22277
+  uninfected: 71855
+  uninhabited: 37454
+  uninhibited: 56181
+  uninitiated: 56812
+  uninterested: 50631
+  uninterrupted: 21870
+  uninvited: 52831
+  united: 183
+scored_words:
+  unimplemented: 135179
+  uninstructed: 238048
+  uninsulated: 136057
+  uninterpreted: 210537
+not_scored_words:
+- unillustrated
+- uninflected
+- uninvested

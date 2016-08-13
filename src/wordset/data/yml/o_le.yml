@@ -1,0 +1,47 @@
+---
+pattern: o_le
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 37
+score: 1380416
+score_per_word: 76689
+hi_scored_words:
+  objectionable: 11493
+  observable: 18449
+  obstacle: 10383
+  obtainable: 29192
+  ogle: 39186
+  ole: 9066
+  operable: 45037
+  opposable: 82657
+  oracle: 5537
+  organelle: 74757
+  oriole: 45788
+  ostensible: 58003
+  outsole: 83303
+  overrule: 61578
+scored_words:
+  octuple: 194549
+  oenophile: 197221
+  ovule: 112089
+  oxidizable: 302128
+not_scored_words:
+- O'Toole
+- Oldcastle
+- Oldsmobile
+- Omphale
+- Oracle
+- Orville
+- octangle
+- octastyle
+- octosyllable
+- omissible
+- opuscule
+- organizable
+- orle
+- ossicle
+- ostiole
+- overexcitable
+- overscale
+- oversimple
+- oversubtle

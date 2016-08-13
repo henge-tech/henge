@@ -1,0 +1,36 @@
+---
+pattern: _umps
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 26
+score: 1677842
+score_per_word: 83892
+hi_scored_words:
+  bumps: 21970
+  chumps: 95562
+  clumps: 38826
+  dumps: 25665
+  goosebumps: 52472
+  humps: 33780
+  jumps: 11776
+  lumps: 27059
+  mumps: 38113
+  pumps: 8312
+  rumps: 76058
+  slumps: 76999
+  stumps: 29407
+  thumps: 79893
+  trumps: 30553
+scored_words:
+  grumps: 169055
+  mugwumps: 279244
+  plumps: 286678
+  sumps: 138751
+  umps: 157669
+not_scored_words:
+- crumps
+- flumps
+- frumps
+- gazumps
+- overtrumps
+- scrumps

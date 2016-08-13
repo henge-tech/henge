@@ -1,0 +1,33 @@
+---
+pattern: l_rds
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 23
+score: 996667
+score_per_word: 83055
+hi_scored_words:
+  laggards: 97747
+  landlords: 15487
+  lanyards: 60692
+  leopards: 42334
+  leotards: 79157
+  lifeguards: 61146
+  lizards: 24462
+  lords: 5704
+  lovebirds: 78690
+scored_words:
+  ladybirds: 148630
+  leftwards: 234414
+  loanwords: 148204
+not_scored_words:
+- Langobards
+- Lombards
+- Lords
+- lairds
+- landwards
+- lapboards
+- larboards
+- lards
+- leewards
+- lumberyards
+- lyrebirds

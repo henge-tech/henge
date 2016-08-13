@@ -1,0 +1,32 @@
+---
+pattern: co_sly
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 22
+score: 1010953
+score_per_word: 91904
+hi_scored_words:
+  conscientiously: 59456
+  consciously: 18427
+  conspicuously: 37488
+  contemporaneously: 80034
+  contemptuously: 82547
+  continuously: 8159
+  copiously: 85840
+  courageously: 52698
+  courteously: 70005
+scored_words:
+  commodiously: 305760
+  contiguously: 210539
+not_scored_words:
+- colorlessly
+- compendiously
+- compunctiously
+- congruously
+- consanguineously
+- contagiously
+- contentiously
+- conterminously
+- contumaciously
+- coterminously
+- covetously

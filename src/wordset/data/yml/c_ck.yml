@@ -1,0 +1,60 @@
+---
+pattern: c_ck
+hi_scored_words_count: 23
+scored_words_count: 9
+total_words: 50
+score: 2422511
+score_per_word: 75703
+hi_scored_words:
+  callback: 24369
+  camelback: 65538
+  candlestick: 28667
+  cashback: 40307
+  check: 418
+  chick: 10046
+  chock: 34418
+  chopstick: 78972
+  chuck: 7328
+  clack: 53033
+  click: 2740
+  clock: 2334
+  cluck: 59867
+  cock: 3654
+  comeback: 16110
+  cornerback: 49966
+  cossack: 48404
+  counterattack: 55957
+  cowlick: 91289
+  crack: 3561
+  crick: 46140
+  crock: 30423
+  cutback: 73466
+scored_words:
+  candlewick: 106527
+  canvasback: 156165
+  carrack: 176543
+  cassock: 112959
+  cellblock: 149613
+  charlock: 330606
+  crackerjack: 109429
+  crookneck: 244498
+  crosscheck: 209164
+not_scored_words:
+- Canuck
+- Chadwick
+- Chappaquiddick
+- Chuck
+- Cormack
+- Cossack
+- Crick
+- carjack
+- carsick
+- chiack
+- chockablock
+- chyack
+- coatrack
+- countercheck
+- crabstick
+- crookback
+- crossjack
+- cruck

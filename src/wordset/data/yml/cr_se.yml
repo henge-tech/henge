@@ -1,0 +1,23 @@
+---
+pattern: cr_se
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 659969
+score_per_word: 73329
+hi_scored_words:
+  crankcase: 66370
+  crease: 27790
+  crevasse: 79404
+  crosse: 28098
+  crosswise: 72387
+  crouse: 66402
+  cruise: 4905
+  cruse: 68359
+scored_words:
+  creese: 246254
+not_scored_words:
+- Creuse
+- Cruise
+- crabwise
+- crinose

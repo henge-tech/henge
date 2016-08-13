@@ -1,0 +1,25 @@
+---
+pattern: i_tal
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 15
+score: 449939
+score_per_word: 44993
+hi_scored_words:
+  immortal: 9360
+  incidental: 10962
+  incremental: 16449
+  instrumental: 7338
+  intercontinental: 18784
+  intercostal: 80225
+  interdepartmental: 59656
+  intergovernmental: 22481
+  ital: 45378
+scored_words:
+  interdental: 179306
+not_scored_words:
+- Ital
+- impedimental
+- implacental
+- infracostal
+- integumental

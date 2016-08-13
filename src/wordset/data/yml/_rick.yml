@@ -1,0 +1,47 @@
+---
+pattern: _rick
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 37
+score: 844513
+score_per_word: 64962
+hi_scored_words:
+  brick: 4792
+  crick: 46140
+  derrick: 19938
+  limerick: 20306
+  maverick: 18791
+  prick: 18389
+  rick: 10963
+  strick: 97280
+  trick: 4071
+scored_words:
+  firebrick: 108408
+  hayrick: 177016
+  pinprick: 189446
+  redbrick: 128973
+not_scored_words:
+- Crick
+- Derick
+- Derrick
+- Downpatrick
+- Erick
+- Fitzpatrick
+- Frederick
+- Fredrick
+- Garrick
+- Hendrick
+- Herrick
+- Kendrick
+- Kirkpatrick
+- Kubrick
+- Limerick
+- Merrick
+- Patrick
+- Rick
+- Roderick
+- Rodrick
+- goldbrick
+- overtrick
+- skerrick
+- undertrick

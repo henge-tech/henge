@@ -1,0 +1,58 @@
+---
+pattern: _rals
+hi_scored_words_count: 22
+scored_words_count: 11
+total_words: 48
+score: 2728102
+score_per_word: 82669
+hi_scored_words:
+  admirals: 45041
+  cathedrals: 36154
+  corals: 31277
+  corrals: 97243
+  federals: 98256
+  funerals: 23058
+  generals: 9930
+  inaugurals: 49709
+  integrals: 31540
+  laterals: 86770
+  liberals: 11517
+  literals: 48375
+  minerals: 7545
+  morals: 12570
+  murals: 23059
+  naturals: 20761
+  neutrals: 53664
+  numerals: 29541
+  peripherals: 13433
+  plurals: 68114
+  referrals: 10657
+  spirals: 40436
+scored_words:
+  antivirals: 119890
+  centrals: 183537
+  chorals: 259535
+  corporals: 133445
+  deferrals: 107469
+  epidurals: 188480
+  orals: 101197
+  pastorals: 200384
+  pectorals: 237526
+  quadrilaterals: 140564
+  supernaturals: 207425
+not_scored_words:
+- Balmorals
+- Federals
+- Urals
+- chaparrals
+- demurrals
+- equilaterals
+- furfurals
+- gorals
+- gutturals
+- littorals
+- mistrals
+- neoliberals
+- outgenerals
+- transferals
+- trilaterals

@@ -1,0 +1,23 @@
+---
+pattern: p_nted
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 535482
+score_per_word: 44623
+hi_scored_words:
+  painted: 3349
+  panted: 74896
+  patented: 15703
+  pigmented: 43873
+  pinpointed: 79654
+  planted: 6566
+  pointed: 3002
+  presented: 1184
+  prevented: 6192
+  printed: 1971
+scored_words:
+  parented: 195622
+  punted: 103470
+not_scored_words:
+- pedimented

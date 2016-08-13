@@ -1,0 +1,37 @@
+---
+pattern: than_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 27
+score: 486503
+score_per_word: 37423
+hi_scored_words:
+  than: 70
+  thane: 36138
+  thank: 825
+  thanked: 10804
+  thankful: 9596
+  thankfully: 17464
+  thankfulness: 57709
+  thanking: 21211
+  thankless: 62300
+  thanks: 846
+  thanksgiving: 7560
+scored_words:
+  thanes: 104338
+  thanksgivings: 157642
+not_scored_words:
+- Thana
+- Thanatos
+- Thanet
+- Thanh
+- Thanksgiving
+- Thanksgivings
+- Thant
+- thanatological
+- thanatologist
+- thanatology
+- thanatopsis
+- thanedom
+- thanklessly
+- thanklessness

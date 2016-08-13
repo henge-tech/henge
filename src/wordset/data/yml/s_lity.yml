@@ -1,0 +1,49 @@
+---
+pattern: s_lity
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 39
+score: 2158233
+score_per_word: 86329
+hi_scored_words:
+  scalability: 27764
+  seasonality: 56832
+  senility: 91623
+  sensibility: 21106
+  sensuality: 32480
+  sentimentality: 56078
+  separability: 99984
+  serviceability: 70050
+  sexuality: 15122
+  sociability: 77926
+  solubility: 24028
+  spirituality: 11037
+  stability: 5043
+  sterility: 41914
+  suitability: 23157
+  survivability: 46504
+  susceptibility: 17624
+  sustainability: 7416
+scored_words:
+  servility: 142942
+  sociality: 114985
+  suggestibility: 180413
+  summability: 340840
+  superficiality: 117362
+  supportability: 205689
+  surreality: 330314
+not_scored_words:
+- sacrality
+- sacramentality
+- salability
+- saleability
+- scurrility
+- seasonability
+- sedulity
+- semipermeability
+- seriality
+- shockability
+- sinistrality
+- sodality
+- stretchability
+- subnormality

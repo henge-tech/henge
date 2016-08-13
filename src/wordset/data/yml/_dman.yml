@@ -1,0 +1,28 @@
+---
+pattern: _dman
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 18
+score: 1319707
+score_per_word: 101515
+hi_scored_words:
+  badman: 82773
+  birdman: 47182
+  freedman: 29218
+  goodman: 12437
+  headman: 85533
+  husbandman: 82408
+  madman: 23976
+  sandman: 25112
+  woodman: 35886
+scored_words:
+  adman: 255202
+  bondman: 242749
+  landman: 103238
+  yardman: 293993
+not_scored_words:
+- Friedman
+- Goldman
+- Goodman
+- hodman
+- orchardman

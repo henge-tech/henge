@@ -1,0 +1,39 @@
+---
+pattern: h_ling
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 29
+score: 1891417
+score_per_word: 85973
+hi_scored_words:
+  haggling: 64742
+  hailing: 43685
+  handling: 3491
+  hauling: 21739
+  healing: 4251
+  heckling: 99979
+  homeschooling: 30713
+  howling: 19067
+  humbling: 49588
+  hurling: 26988
+  hurtling: 72361
+  hustling: 69089
+scored_words:
+  hairstyling: 100873
+  hassling: 121908
+  hatchling: 100153
+  heeling: 135051
+  hireling: 153116
+  hobbling: 109014
+  holing: 139725
+  hosteling: 165901
+  huddling: 125991
+  hurdling: 233992
+not_scored_words:
+- haling
+- hatcheling
+- higgling
+- hightailing
+- hobnailing
+- hoppling
+- hulling

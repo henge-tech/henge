@@ -1,0 +1,35 @@
+---
+pattern: s_zer
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 25
+score: 1465130
+score_per_word: 97675
+hi_scored_words:
+  sanitizer: 57258
+  schnauzer: 51964
+  seltzer: 41053
+  sizer: 81595
+  stabilizer: 28165
+  stargazer: 62130
+  sterilizer: 84723
+  synchronizer: 82188
+  synthesizer: 23644
+scored_words:
+  scrutinizer: 298156
+  snoozer: 162289
+  spritzer: 115091
+  squeezer: 122484
+  summarizer: 142341
+  sympathizer: 112049
+not_scored_words:
+- Schnauzer
+- Schweitzer
+- Switzer
+- scandalizer
+- schmoozer
+- secularizer
+- seizer
+- sermonizer
+- socializer
+- subsidizer

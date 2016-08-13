@@ -1,0 +1,36 @@
+---
+pattern: canc_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 26
+score: 878651
+score_per_word: 58576
+hi_scored_words:
+  cancel: 7620
+  canceled: 20805
+  canceling: 28248
+  cancellation: 18277
+  cancellations: 24999
+  cancelled: 10357
+  cancelling: 36931
+  cancels: 25998
+  cancer: 5266
+  cancerous: 33973
+  cancers: 12779
+scored_words:
+  canc: 117798
+  cancan: 133995
+  cancelable: 184534
+  cancellable: 217071
+not_scored_words:
+- Cancer
+- Cancers
+- Cancun
+- cancans
+- cancelate
+- canceler
+- cancelers
+- cancellate
+- cancerously
+- cancroid
+- cancroids

@@ -1,0 +1,76 @@
+---
+pattern: mis_e
+hi_scored_words_count: 15
+scored_words_count: 19
+total_words: 66
+score: 5098806
+score_per_word: 149964
+hi_scored_words:
+  misadventure: 72616
+  misanthrope: 76034
+  misbehave: 66492
+  miscarriage: 24270
+  miscible: 88352
+  miserable: 8374
+  misfire: 90387
+  misfortune: 17300
+  misplace: 30565
+  misrule: 90144
+  missile: 9947
+  missive: 58155
+  mistake: 2904
+  mistletoe: 33786
+  misuse: 15263
+scored_words:
+  misappropriate: 265635
+  miscalculate: 287991
+  mischance: 150855
+  mischaracterize: 340726
+  misconceive: 173815
+  misconstrue: 133197
+  miscue: 210095
+  misfeasance: 216517
+  misfeature: 337014
+  misgave: 294343
+  misguide: 161492
+  mishandle: 309676
+  misjudge: 151112
+  mismanage: 293983
+  mispronounce: 165430
+  misquote: 141140
+  misspoke: 188934
+  misstate: 333106
+  mistype: 259156
+not_scored_words:
+- Miserere
+- misadvize
+- misalliance
+- misallocate
+- misalphabetize
+- misapprehensive
+- misattribute
+- misbecome
+- misbelieve
+- miscreance
+- misdate
+- misdefine
+- misdiagnose
+- misdone
+- miseducate
+- misestimate
+- misfile
+- misgive
+- misguidance
+- mislike
+- mismate
+- misname
+- misperceive
+- misprize
+- misshape
+- mistakable
+- mistime
+- mistitle
+- mistranslate
+- misusage
+- misvalue
+- miswrite

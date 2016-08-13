@@ -1,0 +1,36 @@
+---
+pattern: a_ory
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 26
+score: 1193209
+score_per_word: 85229
+hi_scored_words:
+  accessory: 8595
+  accusatory: 90948
+  advisory: 9958
+  allegory: 28892
+  ambulatory: 24106
+  anticipatory: 46871
+  armory: 27101
+  articulatory: 88316
+  auditory: 18197
+scored_words:
+  adjudicatory: 133666
+  admonitory: 159544
+  aleatory: 237817
+  amatory: 185590
+  amendatory: 133608
+not_scored_words:
+- abjuratory
+- acclamatory
+- additory
+- adjuratory
+- adulatory
+- affirmatory
+- amphigory
+- apospory
+- applicatory
+- appreciatory
+- approbatory
+- assimilatory

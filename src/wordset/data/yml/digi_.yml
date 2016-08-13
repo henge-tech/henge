@@ -1,0 +1,36 @@
+---
+pattern: digi_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 26
+score: 1684861
+score_per_word: 99109
+hi_scored_words:
+  digicams: 51932
+  digit: 9089
+  digital: 5982
+  digitalis: 50820
+  digitally: 15697
+  digitization: 51344
+  digitize: 65980
+  digitized: 28057
+  digitizer: 60486
+  digitizing: 48451
+  digits: 10077
+scored_words:
+  digicam: 144020
+  digitalism: 316917
+  digitalized: 176867
+  digitizers: 136945
+  digitizes: 262894
+  digitoxin: 249303
+not_scored_words:
+- digitalin
+- digitalins
+- digitalize
+- digitalizes
+- digitalizing
+- digitate
+- digitiform
+- digitigrade
+- digitizations

@@ -1,0 +1,55 @@
+---
+pattern: ca_c
+hi_scored_words_count: 19
+scored_words_count: 10
+total_words: 45
+score: 2742777
+score_per_word: 94578
+hi_scored_words:
+  calligraphic: 72342
+  caloric: 32362
+  calorific: 83664
+  capitalistic: 64988
+  carbonic: 39887
+  carcinogenic: 37645
+  cardiac: 15054
+  cartographic: 48714
+  catabolic: 87548
+  cataclysmic: 52654
+  cataleptic: 94075
+  catalytic: 18874
+  catastrophic: 16895
+  catatonic: 74745
+  cathartic: 51542
+  cathodic: 69637
+  catholic: 2209
+  cationic: 55085
+  caustic: 26316
+scored_words:
+  cabalistic: 194592
+  calcific: 277251
+  calisthenic: 318738
+  cambric: 166404
+  canc: 117798
+  cannibalistic: 107249
+  canonic: 226232
+  caoutchouc: 133902
+  carbolic: 107835
+  casuistic: 148540
+not_scored_words:
+- Cadillac
+- Cainozoic
+- Calvinistic
+- Carnatic
+- Catholic
+- cadmic
+- calcic
+- calcitic
+- calendric
+- calpac
+- catacaustic
+- catachrestic
+- catalectic
+- catechetic
+- categoric
+- cathectic

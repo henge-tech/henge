@@ -1,0 +1,53 @@
+---
+pattern: _eats
+hi_scored_words_count: 20
+scored_words_count: 9
+total_words: 43
+score: 2289512
+score_per_word: 78948
+hi_scored_words:
+  beats: 14080
+  caveats: 34656
+  cheats: 9000
+  cleats: 30577
+  defeats: 20662
+  eats: 9710
+  feats: 25877
+  greats: 25728
+  heartbeats: 48081
+  heats: 21441
+  loveseats: 77587
+  meats: 13503
+  pleats: 66138
+  repeats: 10916
+  retreats: 19937
+  seats: 2885
+  sweats: 31864
+  teats: 83780
+  threats: 4904
+  treats: 7700
+scored_words:
+  bleats: 151013
+  deadbeats: 118322
+  drumbeats: 215676
+  entreats: 242438
+  forcemeats: 203722
+  maltreats: 206847
+  offbeats: 301644
+  overheats: 167149
+  sweetmeats: 123675
+not_scored_words:
+- Keats
+- Yeats
+- backseats
+- browbeats
+- downbeats
+- escheats
+- mistreats
+- nutmeats
+- overeats
+- preheats
+- reheats
+- reseats
+- unseats
+- upbeats

@@ -1,0 +1,66 @@
+---
+pattern: wor_s
+hi_scored_words_count: 29
+scored_words_count: 14
+total_words: 56
+score: 3463801
+score_per_word: 80553
+hi_scored_words:
+  wordless: 71531
+  words: 389
+  workarounds: 55057
+  workbooks: 48848
+  workdays: 71971
+  workers: 2084
+  workflows: 50281
+  workings: 16645
+  workloads: 48043
+  workouts: 17678
+  workplaces: 23093
+  works: 370
+  worksheets: 28019
+  workshops: 6632
+  workspaces: 61696
+  workstations: 15049
+  worktops: 80025
+  worldliness: 87275
+  worlds: 4571
+  worldviews: 67444
+  wormholes: 97423
+  worms: 8659
+  worries: 10823
+  worsens: 57156
+  worshipers: 64258
+  worships: 44329
+  worthiness: 45491
+  worthless: 12185
+  worthlessness: 96429
+scored_words:
+  wordiness: 199327
+  wordings: 113781
+  wordsmiths: 162155
+  workaholics: 148589
+  workbenches: 122641
+  workforces: 100748
+  workhorses: 169680
+  workhouses: 160910
+  workmates: 106163
+  workpieces: 142817
+  workrooms: 212701
+  workweeks: 235373
+  worriers: 288471
+  worthies: 106991
+not_scored_words:
+- Worcesters
+- Worms
+- wordbooks
+- workableness
+- workbags
+- workbaskets
+- worktables
+- workups
+- worminess
+- wormseeds
+- worryings
+- worrywarts
+- worsts

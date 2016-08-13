@@ -1,0 +1,40 @@
+---
+pattern: _ngo
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 30
+score: 1714656
+score_per_word: 100862
+hi_scored_words:
+  bingo: 18911
+  bongo: 29307
+  dingo: 37382
+  fandango: 32669
+  flamingo: 21146
+  gringo: 40736
+  jingo: 97640
+  lingo: 26069
+  mango: 18437
+  mongo: 59859
+  tango: 14479
+scored_words:
+  contango: 231611
+  drongo: 141500
+  fango: 291001
+  fungo: 241957
+  quango: 139064
+  stingo: 272888
+not_scored_words:
+- Chilpancingo
+- Cipango
+- Congo
+- Domingo
+- Durango
+- Kongo
+- Mandingo
+- Marengo
+- Okavango
+- Ringo
+- camerlengo
+- eringo
+- eryngo

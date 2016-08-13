@@ -1,0 +1,61 @@
+---
+pattern: dec_d
+hi_scored_words_count: 23
+scored_words_count: 14
+total_words: 51
+score: 3134069
+score_per_word: 84704
+hi_scored_words:
+  decaffeinated: 72892
+  decapitated: 50249
+  decayed: 40546
+  deceased: 7884
+  deceived: 16525
+  decentralized: 23187
+  decided: 1282
+  decimated: 47257
+  deciphered: 75691
+  decked: 37390
+  declared: 2754
+  declassified: 49573
+  declined: 5547
+  decoded: 33646
+  decommissioned: 45477
+  decomposed: 35064
+  deconstructed: 82940
+  decorated: 7276
+  decoupled: 67109
+  decreased: 7859
+  decreed: 30912
+  decried: 74145
+  decrypted: 63658
+scored_words:
+  decamped: 179199
+  decanted: 152784
+  decapod: 247887
+  decd: 146095
+  decelerated: 147052
+  deckhand: 154014
+  declaimed: 193330
+  declawed: 193555
+  decompressed: 110733
+  decontaminated: 107846
+  decorticated: 176306
+  decoyed: 127873
+  decremented: 129539
+  decriminalized: 188993
+not_scored_words:
+- DECed
+- decalcified
+- decarbonized
+- decarburized
+- decimalized
+- decocted
+- decolonized
+- decolorized
+- decompound
+- deconsecrated
+- decontrolled
+- decoupaged
+- decrepitated
+- decurved

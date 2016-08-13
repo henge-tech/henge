@@ -1,0 +1,35 @@
+---
+pattern: m_ges
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 25
+score: 821773
+score_per_word: 58698
+hi_scored_words:
+  macrophages: 25466
+  mages: 41085
+  manages: 10194
+  marriages: 14299
+  massages: 31494
+  meninges: 89894
+  merges: 39416
+  messages: 2288
+  midges: 94635
+  miscarriages: 59189
+  montages: 79060
+  mortgages: 9046
+scored_words:
+  mileages: 198078
+  mirages: 127629
+not_scored_words:
+- marges
+- matrilineages
+- melanges
+- menages
+- messuages
+- metalanguages
+- micromanages
+- misjudges
+- mismanages
+- moorages
+- muskellunges

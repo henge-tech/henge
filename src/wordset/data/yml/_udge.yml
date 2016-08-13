@@ -1,0 +1,30 @@
+---
+pattern: _udge
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 20
+score: 897229
+score_per_word: 64087
+hi_scored_words:
+  begrudge: 74673
+  budge: 30514
+  drudge: 33508
+  fudge: 22244
+  grudge: 20425
+  judge: 1405
+  kludge: 94988
+  nudge: 27704
+  sludge: 18058
+  smudge: 40386
+  trudge: 74440
+scored_words:
+  adjudge: 184281
+  misjudge: 151112
+  prejudge: 123491
+not_scored_words:
+- Budge
+- Drudge
+- bludge
+- forejudge
+- forjudge
+- rejudge

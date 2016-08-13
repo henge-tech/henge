@@ -1,0 +1,25 @@
+---
+pattern: m_ary
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 15
+score: 405188
+score_per_word: 36835
+hi_scored_words:
+  mammary: 29055
+  maxillary: 50118
+  medullary: 63589
+  mercenary: 21775
+  military: 699
+  missionary: 9014
+  momentary: 21271
+  monetary: 8387
+  mortuary: 32166
+  multidisciplinary: 19917
+scored_words:
+  miliary: 149197
+not_scored_words:
+- Mary
+- mammillary
+- millenary
+- milliary

@@ -1,0 +1,33 @@
+---
+pattern: p_ip
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 23
+score: 941133
+score_per_word: 78427
+hi_scored_words:
+  paperclip: 81631
+  parsnip: 65432
+  partisanship: 52376
+  partnership: 4221
+  penmanship: 71900
+  pip: 18254
+  premiership: 15937
+  professorship: 41935
+  proprietorship: 53546
+scored_words:
+  payslip: 201103
+  preceptorship: 184172
+  principalship: 150626
+not_scored_words:
+- Philip
+- Phillip
+- pastorship
+- patroonship
+- pillowslip
+- presbytership
+- presidentship
+- primateship
+- priorship
+- protectorship
+- provostship

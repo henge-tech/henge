@@ -1,0 +1,30 @@
+---
+pattern: spe_ng
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 20
+score: 1615944
+score_per_word: 95055
+hi_scored_words:
+  speaking: 1596
+  spearheading: 70770
+  spearing: 97742
+  specializing: 9488
+  specifying: 17649
+  speculating: 40787
+  speeding: 14861
+  spellbinding: 74627
+  spelling: 6503
+  spending: 2819
+  spewing: 47644
+scored_words:
+  spearfishing: 126051
+  speckling: 286965
+  spectating: 195323
+  speechifying: 299761
+  spellchecking: 199479
+  spelunking: 123879
+not_scored_words:
+- Speedwriting
+- specking
+- speechmaking

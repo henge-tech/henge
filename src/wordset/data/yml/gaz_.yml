@@ -1,0 +1,37 @@
+---
+pattern: gaz_
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 27
+score: 1439070
+score_per_word: 75740
+hi_scored_words:
+  gaz: 29393
+  gaze: 9146
+  gazebo: 31200
+  gazebos: 86354
+  gazed: 21497
+  gazelle: 34269
+  gazer: 93815
+  gazes: 61798
+  gazette: 10366
+  gazetted: 69551
+  gazetteer: 29208
+  gazillion: 80275
+  gazing: 16280
+  gazpacho: 81660
+scored_words:
+  gazelles: 103966
+  gazers: 170842
+  gazetteers: 117105
+  gazettes: 115757
+  gazillions: 276588
+not_scored_words:
+- Gaza
+- Gaziantep
+- gazehound
+- gazetting
+- gazump
+- gazumped
+- gazumping
+- gazumps

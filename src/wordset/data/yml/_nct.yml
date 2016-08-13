@@ -1,0 +1,23 @@
+---
+pattern: _nct
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 554534
+score_per_word: 46211
+hi_scored_words:
+  adjunct: 18003
+  conjunct: 73826
+  defunct: 24167
+  distinct: 3442
+  extinct: 15550
+  indistinct: 37566
+  instinct: 9417
+  precinct: 18719
+  sacrosanct: 73141
+  succinct: 35769
+scored_words:
+  disjunct: 110899
+  tinct: 134035
+not_scored_words:
+- nonextinct

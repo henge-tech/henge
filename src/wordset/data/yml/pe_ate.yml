@@ -1,0 +1,35 @@
+---
+pattern: pe_ate
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 25
+score: 1467062
+score_per_word: 112850
+hi_scored_words:
+  penetrate: 12888
+  penultimate: 43394
+  perchlorate: 60192
+  percolate: 90109
+  permanganate: 75040
+  permeate: 48773
+  perpetrate: 78121
+  perpetuate: 25929
+scored_words:
+  perambulate: 157276
+  perforate: 112105
+  periodate: 269836
+  personate: 190402
+  petiolate: 302997
+not_scored_words:
+- pectinate
+- peculate
+- pedate
+- peltate
+- penicillate
+- pennate
+- pepsinate
+- peregrinate
+- perennate
+- perfoliate
+- perorate
+- perseverate

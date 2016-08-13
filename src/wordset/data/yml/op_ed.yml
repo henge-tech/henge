@@ -1,0 +1,25 @@
+---
+pattern: op_ed
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 15
+score: 281596
+score_per_word: 28159
+hi_scored_words:
+  oped: 62019
+  opened: 1553
+  operated: 4862
+  opined: 51522
+  opinionated: 34804
+  opposed: 3400
+  oppressed: 14546
+  opted: 15801
+  optimized: 15396
+  optioned: 77693
+scored_words: {}
+not_scored_words:
+- opalesced
+- opaqued
+- openhanded
+- openhearted
+- oppugned

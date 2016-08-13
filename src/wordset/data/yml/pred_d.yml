@@ -1,0 +1,22 @@
+---
+pattern: pred_d
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 12
+score: 1213611
+score_per_word: 101134
+hi_scored_words:
+  predated: 88542
+  predeceased: 62587
+  predefined: 26276
+  predestined: 72964
+  predetermined: 24909
+  predicated: 33927
+  predicted: 6492
+  predisposed: 46348
+  predominated: 79190
+scored_words:
+  predesignated: 325685
+  predestinated: 254465
+  predigested: 192226
+not_scored_words: []

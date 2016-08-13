@@ -1,0 +1,40 @@
+---
+pattern: p_man
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 30
+score: 1129592
+score_per_word: 102690
+hi_scored_words:
+  patrolman: 71443
+  penman: 84671
+  pitman: 36725
+  plowman: 79245
+  policeman: 12918
+  policewoman: 83417
+  postman: 22744
+  pressman: 61865
+scored_words:
+  pikeman: 259765
+  pitchman: 251933
+  plainsman: 164866
+not_scored_words:
+- Parkman
+- Perelman
+- Perlman
+- Piman
+- Pitman
+- Pittman
+- Pullman
+- patrolwoman
+- placeman
+- plainclothesman
+- pointsman
+- postwoman
+- potman
+- poultryman
+- prehuman
+- preterhuman
+- privateersman
+- propman
+- protohuman

@@ -1,0 +1,29 @@
+---
+pattern: _kens
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 19
+score: 1131893
+score_per_word: 80849
+hi_scored_words:
+  awakens: 44150
+  chickens: 10618
+  darkens: 91568
+  dickens: 12366
+  kens: 76866
+  likens: 75870
+  thickens: 52648
+  tokens: 13608
+  weakens: 42249
+scored_words:
+  betokens: 122833
+  hearkens: 232004
+  quickens: 109712
+  sickens: 106289
+  wakens: 141112
+not_scored_words:
+- Dickens
+- blackens
+- reawakens
+- slackens
+- turduckens

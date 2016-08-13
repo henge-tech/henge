@@ -1,0 +1,62 @@
+---
+pattern: refr_
+hi_scored_words_count: 27
+scored_words_count: 10
+total_words: 52
+score: 3040100
+score_per_word: 82164
+hi_scored_words:
+  refract: 97085
+  refracted: 86969
+  refraction: 29196
+  refractive: 26383
+  refractor: 58662
+  refractories: 85488
+  refractory: 22377
+  refrain: 11324
+  refrained: 49446
+  refraining: 70352
+  refrains: 83273
+  refresh: 9115
+  refreshed: 21940
+  refresher: 28467
+  refreshes: 56266
+  refreshing: 9795
+  refreshingly: 46669
+  refreshment: 25089
+  refreshments: 21281
+  refrigerant: 40332
+  refrigerants: 87346
+  refrigerate: 39764
+  refrigerated: 31692
+  refrigerating: 71560
+  refrigeration: 17717
+  refrigerator: 15521
+  refrigerators: 22541
+scored_words:
+  refracting: 109605
+  refractions: 151362
+  refractivity: 294135
+  refractometer: 116622
+  refractometers: 117884
+  refractoriness: 213868
+  refractors: 145945
+  refracts: 265142
+  refreeze: 287528
+  refreshers: 172359
+not_scored_words:
+- refractional
+- refractively
+- refractiveness
+- refractivenesses
+- refractivities
+- refractorily
+- refractorinesses
+- refrainment
+- refrangible
+- refreezes
+- refreezing
+- refrigerates
+- refroze
+- refrozen
+- refry

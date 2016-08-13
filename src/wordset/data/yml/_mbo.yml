@@ -1,0 +1,27 @@
+---
+pattern: _mbo
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 17
+score: 415443
+score_per_word: 41544
+hi_scored_words:
+  akimbo: 73421
+  bimbo: 34147
+  combo: 5283
+  dumbo: 44020
+  gumbo: 36723
+  jumbo: 21710
+  limbo: 25648
+  mambo: 13490
+  sambo: 58433
+scored_words:
+  ambo: 102568
+not_scored_words:
+- Colombo
+- Dumbo
+- Gumbo
+- Huambo
+- Limbo
+- Rambo
+- crambo

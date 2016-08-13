@@ -1,0 +1,44 @@
+---
+pattern: _dish
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 34
+score: 1498952
+score_per_word: 93684
+hi_scored_words:
+  cavendish: 29239
+  childish: 15238
+  dish: 2857
+  fiendish: 51551
+  horseradish: 34820
+  outlandish: 33503
+  prudish: 92268
+  radish: 42897
+  reddish: 19527
+scored_words:
+  blandish: 130091
+  brandish: 109727
+  faddish: 246443
+  kaddish: 109002
+  modish: 163629
+  oldish: 241674
+  roundish: 176486
+not_scored_words:
+- Cavendish
+- Kaddish
+- Kurdish
+- Netherlandish
+- Standish
+- Swedish
+- Wendish
+- Yiddish
+- blondish
+- caddish
+- cloddish
+- coldish
+- dudish
+- goodish
+- kiddish
+- laddish
+- loudish
+- mildish

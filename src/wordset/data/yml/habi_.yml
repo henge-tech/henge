@@ -1,0 +1,44 @@
+---
+pattern: habi_
+hi_scored_words_count: 11
+scored_words_count: 12
+total_words: 34
+score: 2633166
+score_per_word: 114485
+hi_scored_words:
+  habilitation: 60570
+  habit: 4985
+  habitable: 36859
+  habitat: 9584
+  habitation: 27926
+  habitations: 74966
+  habitats: 10759
+  habits: 4687
+  habitual: 19232
+  habitually: 39827
+  habituation: 66238
+scored_words:
+  habile: 258013
+  habiliments: 130351
+  habitability: 120178
+  habitant: 158264
+  habited: 244750
+  habituate: 244765
+  habituated: 104301
+  habitude: 206909
+  habitudes: 168304
+  habitue: 164043
+  habitues: 167113
+  habitué: 310542
+not_scored_words:
+- habiliment
+- habilitate
+- habilitated
+- habilitates
+- habilitating
+- habitably
+- habitancy
+- habitualness
+- habituates
+- habituating
+- habitués

@@ -1,0 +1,45 @@
+---
+pattern: r_ely
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 35
+score: 2030529
+score_per_word: 101526
+hi_scored_words:
+  rarely: 3913
+  recursively: 41911
+  reflexively: 94480
+  relatively: 4039
+  rely: 4836
+  remotely: 12515
+  resolutely: 42424
+  respectively: 4211
+  retroactively: 45402
+  retrospectively: 51398
+  routinely: 14847
+  rudely: 35038
+scored_words:
+  radioactively: 187248
+  reflectively: 113282
+  repetitively: 107131
+  reproductively: 183510
+  requisitely: 298347
+  responsively: 213840
+  restrictively: 231812
+  retrogradely: 340345
+not_scored_words:
+- receptively
+- recessively
+- refractively
+- regressively
+- representatively
+- repressively
+- repulsively
+- resistively
+- restively
+- retentively
+- retrogressively
+- reversely
+- rifely
+- ripely
+- ruminatively

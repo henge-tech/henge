@@ -1,0 +1,49 @@
+---
+pattern: eart_
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 39
+score: 2775970
+score_per_word: 106768
+hi_scored_words:
+  earth: 659
+  earthbound: 61972
+  earthen: 32059
+  earthenware: 38758
+  earthing: 92682
+  earthling: 87797
+  earthlings: 81730
+  earthly: 13350
+  earthquake: 6637
+  earthquakes: 14554
+  earths: 47478
+  earthwork: 63686
+  earthworks: 46575
+  earthworm: 51798
+  earthworms: 63689
+  earthy: 32937
+scored_words:
+  earthed: 106160
+  earthiness: 182309
+  earthlight: 309954
+  earthman: 117247
+  earthmover: 240229
+  earthmoving: 114280
+  earthshaker: 248050
+  earthshaking: 230759
+  earthshine: 252462
+  earthward: 238159
+not_scored_words:
+- earthborn
+- earthier
+- earthiest
+- earthily
+- earthlier
+- earthliest
+- earthliness
+- earthmen
+- earthnut
+- earthnuts
+- earthstar
+- earthstars
+- earthwards

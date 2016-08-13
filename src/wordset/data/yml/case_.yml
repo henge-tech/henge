@@ -1,0 +1,47 @@
+---
+pattern: case_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 37
+score: 1379815
+score_per_word: 91987
+hi_scored_words:
+  case: 186
+  casebook: 53951
+  cased: 43366
+  casein: 36553
+  caseload: 45816
+  caseloads: 86300
+  casement: 44666
+  cases: 656
+  casework: 54703
+  caseworker: 68365
+  caseworkers: 92036
+scored_words:
+  casebooks: 185549
+  casebound: 233075
+  casemaker: 271075
+  casements: 163518
+not_scored_words:
+- Case
+- Casement
+- Casey
+- casease
+- caseate
+- caseated
+- caseates
+- caseating
+- caseation
+- casefy
+- caseharden
+- casehardened
+- casehardening
+- casehardens
+- caseinogen
+- casemate
+- caseose
+- caseous
+- casern
+- caserns
+- caseworm
+- caseworms

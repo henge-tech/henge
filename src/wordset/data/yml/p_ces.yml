@@ -1,0 +1,60 @@
+---
+pattern: p_ces
+hi_scored_words_count: 17
+scored_words_count: 13
+total_words: 50
+score: 3202604
+score_per_word: 106753
+hi_scored_words:
+  paces: 21338
+  palaces: 16813
+  performances: 4662
+  pieces: 1666
+  pierces: 80126
+  places: 879
+  polices: 50045
+  practices: 2435
+  prefaces: 95144
+  preferences: 7964
+  prejudices: 18584
+  presences: 86302
+  prices: 1523
+  princes: 10166
+  produces: 4360
+  pronounces: 69626
+  provinces: 5109
+scored_words:
+  peaces: 268400
+  penances: 177376
+  pestilences: 306427
+  pinnaces: 181269
+  poultices: 225821
+  pounces: 159525
+  prances: 268796
+  precedences: 298768
+  precipices: 127848
+  prominences: 126816
+  protuberances: 173982
+  provenances: 243661
+  puissances: 167173
+not_scored_words:
+- Pisces
+- Polydeuces
+- Polynices
+- Providences
+- palefaces
+- pittances
+- plaices
+- pleasances
+- poignances
+- ponces
+- populaces
+- preadolescences
+- precipitances
+- prentices
+- preponderances
+- prepuces
+- probosces
+- procurances
+- pseudosciences
+- pumices

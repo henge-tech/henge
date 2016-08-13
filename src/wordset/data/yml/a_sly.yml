@@ -1,0 +1,38 @@
+---
+pattern: a_sly
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 28
+score: 1979370
+score_per_word: 123710
+hi_scored_words:
+  advantageously: 73670
+  aimlessly: 51601
+  analogously: 70747
+  anonymously: 23056
+  anxiously: 21681
+  assiduously: 64897
+  asynchronously: 79496
+  autonomously: 60942
+scored_words:
+  ambiguously: 103664
+  ambitiously: 160881
+  anomalously: 149229
+  arduously: 232493
+  artlessly: 211340
+  atrociously: 197815
+  audaciously: 186353
+  auspiciously: 291505
+not_scored_words:
+- abstemiously
+- acrimoniously
+- adventitiously
+- adventurously
+- agelessly
+- ambidextrously
+- amorously
+- amorphously
+- amphibiously
+- anachronously
+- androgynously
+- avariciously

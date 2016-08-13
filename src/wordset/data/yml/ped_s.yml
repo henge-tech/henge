@@ -1,0 +1,36 @@
+---
+pattern: ped_s
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 26
+score: 2373956
+score_per_word: 124945
+hi_scored_words:
+  pedals: 26757
+  peddlers: 66721
+  pedestals: 48122
+  pedestrians: 22653
+  pediatricians: 49612
+  pediatrics: 16461
+  pedicures: 65092
+  pedigrees: 56982
+  pedophiles: 58382
+scored_words:
+  pedagogics: 240081
+  pedagogues: 216282
+  pedants: 188182
+  peddles: 207541
+  pedicels: 166202
+  pediculosis: 217599
+  pedicurists: 155638
+  pediments: 227560
+  pedometers: 121668
+  peduncles: 222421
+not_scored_words:
+- pedalos
+- pederasts
+- pedestrianizes
+- pedicabs
+- pediculoses
+- pediculous
+- pedogenesis

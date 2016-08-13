@@ -1,0 +1,25 @@
+---
+pattern: ramp_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 1077559
+score_per_word: 89796
+hi_scored_words:
+  ramp: 18548
+  rampage: 20640
+  rampaging: 74839
+  rampant: 18518
+  rampart: 36873
+  ramparts: 53821
+  ramped: 75590
+  ramping: 57969
+  ramps: 19916
+scored_words:
+  rampaged: 219313
+  rampages: 178452
+  rampantly: 303080
+not_scored_words:
+- rampageous
+- rampager
+- rampancy

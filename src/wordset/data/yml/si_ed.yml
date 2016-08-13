@@ -1,0 +1,60 @@
+---
+pattern: si_ed
+hi_scored_words_count: 28
+scored_words_count: 10
+total_words: 50
+score: 3293853
+score_per_word: 86680
+hi_scored_words:
+  sickened: 49605
+  sided: 11027
+  sidelined: 45960
+  sidetracked: 66609
+  sifted: 50671
+  sighed: 14049
+  sighted: 18973
+  signaled: 36109
+  signalized: 86910
+  signed: 1708
+  signified: 37820
+  signposted: 72857
+  silenced: 28411
+  silhouetted: 57469
+  silvered: 80274
+  simmered: 81128
+  simplified: 11259
+  simulated: 13741
+  singed: 74847
+  singled: 18840
+  sinned: 30412
+  sintered: 63649
+  siphoned: 91956
+  sipped: 56172
+  sired: 54781
+  sited: 36479
+  situated: 3932
+  sized: 7599
+scored_words:
+  sickbed: 271127
+  sidestepped: 123956
+  sideswiped: 272894
+  sidled: 126564
+  sieved: 136015
+  silted: 175459
+  simpered: 230369
+  simpleminded: 231381
+  sissified: 318289
+  sizzled: 204552
+not_scored_words:
+- Siegfried
+- sibilated
+- sicced
+- sicked
+- sidestroked
+- silkweed
+- silverweed
+- simonized
+- simulcasted
+- sinewed
+- singsonged
+- singularized

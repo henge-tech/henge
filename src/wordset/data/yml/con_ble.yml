@@ -1,0 +1,59 @@
+---
+pattern: con_ble
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 49
+score: 1955022
+score_per_word: 108612
+hi_scored_words:
+  conceivable: 18685
+  configurable: 29386
+  conformable: 88192
+  considerable: 2862
+  constable: 13586
+  consumable: 35492
+  contemptible: 47710
+  controllable: 35630
+  convertible: 13573
+scored_words:
+  concealable: 164011
+  condemnable: 281500
+  condensable: 270630
+  connectable: 128592
+  constructible: 151428
+  contactable: 171388
+  contestable: 109706
+  contractible: 177037
+  convenable: 215614
+not_scored_words:
+- Constable
+- condensible
+- condonable
+- conductible
+- conferrable
+- confinable
+- confineable
+- confirmable
+- confiscable
+- confusable
+- confutable
+- congealable
+- congelable
+- conjecturable
+- conquerable
+- conscionable
+- conservable
+- consignable
+- consolable
+- constrainable
+- construable
+- constructable
+- containable
+- contemnible
+- continuable
+- contractable
+- contradictable
+- contrastable
+- controvertible
+- conversable
+- conveyable

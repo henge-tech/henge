@@ -1,0 +1,37 @@
+---
+pattern: ma_ry
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 27
+score: 695077
+score_per_word: 57923
+hi_scored_words:
+  machinery: 3930
+  mammary: 29055
+  mandatory: 15959
+  manufactory: 63737
+  marquetry: 89697
+  marry: 4811
+  masonry: 13516
+  mastery: 15376
+  maxillary: 50118
+scored_words:
+  manometry: 123840
+  masticatory: 129225
+  masturbatory: 155813
+not_scored_words:
+- Mallory
+- Malory
+- Margery
+- Mariolatry
+- Marjory
+- Mary
+- Masonry
+- Maury
+- magistery
+- magnetochemistry
+- maledictory
+- mammillary
+- manipulatory
+- marquetery
+- martyry

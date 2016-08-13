@@ -1,0 +1,48 @@
+---
+pattern: n_k
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 38
+score: 1586866
+score_per_word: 93345
+hi_scored_words:
+  neck: 2129
+  needlework: 35588
+  netbook: 74297
+  network: 1610
+  nick: 3500
+  nighthawk: 55282
+  nitpick: 90208
+  nock: 80974
+  nonstick: 48712
+  nook: 21013
+  notebook: 7506
+scored_words:
+  nark: 173013
+  newspeak: 105486
+  niblick: 221741
+  nightstick: 178870
+  notchback: 235590
+  nunatak: 251347
+not_scored_words:
+- Nalchik
+- Nanak
+- Nanook
+- Narvik
+- Nasik
+- Natick
+- Newark
+- Newsweek
+- Nick
+- Norfolk
+- Novokuznetsk
+- Novosibirsk
+- Nynorsk
+- nainsook
+- natterjack
+- ninebark
+- nonbook
+- notwork
+- nudnick
+- nudnik
+- nutpick

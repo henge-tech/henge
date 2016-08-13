@@ -1,0 +1,44 @@
+---
+pattern: ast_s
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 34
+score: 1784923
+score_per_word: 104995
+hi_scored_words:
+  asterisks: 46245
+  asteroids: 24458
+  asters: 79769
+  asthmatics: 84983
+  astragalus: 53112
+  astrologers: 51820
+  astronautics: 56033
+  astronauts: 20503
+  astronomers: 23010
+  astrophysics: 24967
+scored_words:
+  astonishes: 147007
+  astounds: 139263
+  astringents: 151076
+  astrodynamics: 274706
+  astrolabes: 298040
+  astrophysicists: 151460
+  astuteness: 158471
+not_scored_words:
+- Asturias
+- astereognosis
+- asterisms
+- asthenias
+- asthenopias
+- asthenospheres
+- astigmatisms
+- astigmias
+- astilbes
+- astomatous
+- astragals
+- astragaluses
+- astrionics
+- astrodomes
+- astrologists
+- astrometries
+- astronavigations

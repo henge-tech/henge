@@ -1,0 +1,58 @@
+---
+pattern: s_ive
+hi_scored_words_count: 23
+scored_words_count: 11
+total_words: 48
+score: 2724867
+score_per_word: 80143
+hi_scored_words:
+  secretive: 31500
+  sedative: 37824
+  seductive: 20133
+  selective: 12989
+  sensitive: 2941
+  seropositive: 95872
+  skydive: 50112
+  speculative: 13793
+  sportive: 67535
+  strive: 8027
+  subjective: 8687
+  subjunctive: 56293
+  submissive: 21256
+  substantive: 14833
+  subtractive: 89171
+  subversive: 28752
+  successive: 8771
+  suggestive: 18264
+  summative: 62787
+  superlative: 37218
+  supportive: 7714
+  suppressive: 69404
+  survive: 4283
+scored_words:
+  seronegative: 121780
+  shive: 119125
+  shrive: 182831
+  significative: 204630
+  skive: 147229
+  stative: 105805
+  stimulative: 217600
+  substitutive: 279932
+  superconductive: 198312
+  suppurative: 111996
+  suspensive: 267468
+not_scored_words:
+- sanative
+- seclusive
+- segregative
+- separative
+- siccative
+- simulative
+- spoilfive
+- suasive
+- subordinative
+- suffusive
+- superexpensive
+- supersensitive
+- suppositive
+- susceptive

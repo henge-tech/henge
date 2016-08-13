@@ -1,0 +1,28 @@
+---
+pattern: _zled
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 18
+score: 1586186
+score_per_word: 113299
+hi_scored_words:
+  bamboozled: 93052
+  bedazzled: 82145
+  dazzled: 49817
+  drizzled: 91334
+  fizzled: 95969
+  frazzled: 82659
+  grizzled: 71689
+  puzzled: 14971
+scored_words:
+  embezzled: 118465
+  frizzled: 128890
+  guzzled: 279583
+  muzzled: 123468
+  nuzzled: 149592
+  sizzled: 204552
+not_scored_words:
+- mizzled
+- sozzled
+- swizzled
+- unmuzzled

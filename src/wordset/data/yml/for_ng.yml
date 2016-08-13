@@ -1,0 +1,57 @@
+---
+pattern: for_ng
+hi_scored_words_count: 22
+scored_words_count: 10
+total_words: 47
+score: 2612670
+score_per_word: 81645
+hi_scored_words:
+  foraging: 29336
+  forbidding: 27360
+  forcing: 7259
+  foreboding: 46752
+  forecasting: 20560
+  foregoing: 11024
+  foreseeing: 90558
+  foreshadowing: 65352
+  forfeiting: 93567
+  forgetting: 11253
+  forging: 24246
+  forgiving: 24335
+  forgoing: 94235
+  forking: 61199
+  formalizing: 87367
+  formatting: 11821
+  forming: 4425
+  formulating: 28641
+  forsaking: 82074
+  forthcoming: 9212
+  fortifying: 40802
+  forwarding: 14280
+scored_words:
+  forbearing: 164185
+  fording: 105616
+  foreclosing: 142603
+  foregrounding: 253855
+  foreshortening: 222084
+  forestalling: 169820
+  foretelling: 119868
+  forewarning: 162852
+  forewing: 152057
+  fornicating: 234072
+not_scored_words:
+- foraying
+- forearming
+- foredating
+- foredooming
+- foregathering
+- foreknowing
+- foreordaining
+- foreshowing
+- foresting
+- foretasting
+- forgathering
+- formfitting
+- formularizing
+- forswearing
+- fortunetelling

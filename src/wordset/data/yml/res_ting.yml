@@ -1,0 +1,28 @@
+---
+pattern: res_ting
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 18
+score: 1205271
+score_per_word: 80351
+hi_scored_words:
+  resenting: 92297
+  resetting: 34105
+  resisting: 17478
+  resonating: 77183
+  resorting: 34510
+  respecting: 10035
+  restarting: 32885
+  restating: 95436
+  resting: 8046
+  restricting: 20012
+  resulting: 2932
+  resurrecting: 79206
+scored_words:
+  reseating: 299441
+  resubmitting: 152244
+  resuscitating: 249461
+not_scored_words:
+- resinating
+- resiting
+- resitting

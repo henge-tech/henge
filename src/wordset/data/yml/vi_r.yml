@@ -1,0 +1,44 @@
+---
+pattern: vi_r
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 34
+score: 1537163
+score_per_word: 69871
+hi_scored_words:
+  viator: 83168
+  vibrator: 14732
+  vicar: 18855
+  victor: 4327
+  vier: 52024
+  viewer: 10013
+  viewfinder: 31921
+  vigor: 17286
+  villager: 32856
+  vinegar: 10910
+  vintner: 90852
+  violator: 53251
+  viper: 16837
+  visitor: 3338
+  visor: 21924
+  visualizer: 85506
+  vizier: 43002
+scored_words:
+  viler: 206880
+  vindicator: 118480
+  viscometer: 148884
+  vitalizer: 322917
+  vivisector: 149200
+not_scored_words:
+- Victor
+- Vidar
+- Vijayanagar
+- victimizer
+- victualer
+- vilifier
+- vinificator
+- vintager
+- vitiator
+- vituperator
+- vivider
+- vivifier

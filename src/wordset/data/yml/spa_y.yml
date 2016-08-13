@@ -1,0 +1,26 @@
+---
+pattern: spa_y
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 654085
+score_per_word: 65408
+hi_scored_words:
+  spacey: 40853
+  sparingly: 38505
+  sparkly: 42800
+  sparky: 34444
+  sparsely: 37018
+  spasticity: 69351
+  spatially: 30524
+  spay: 48553
+scored_words:
+  sparsity: 107798
+  spasmodically: 204239
+not_scored_words:
+- spaciously
+- spangly
+- sparely
+- sparklingly
+- sparry
+- spastically

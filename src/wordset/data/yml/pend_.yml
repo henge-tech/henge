@@ -1,0 +1,28 @@
+---
+pattern: pend_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 18
+score: 1076949
+score_per_word: 82842
+hi_scored_words:
+  pend: 55869
+  pendant: 8524
+  pendants: 24807
+  pendency: 99127
+  pendent: 51624
+  pending: 6143
+  pendragon: 50937
+  pendulous: 81655
+  pendulum: 19285
+  pendulums: 77503
+scored_words:
+  pended: 171300
+  pendents: 236591
+  pends: 193584
+not_scored_words:
+- Penderecki
+- pendentive
+- pendragons
+- pendular
+- pendulously

@@ -1,0 +1,37 @@
+---
+pattern: s_ny
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 27
+score: 1643981
+score_per_word: 86525
+hi_scored_words:
+  scrawny: 65367
+  scrutiny: 9287
+  shinny: 98117
+  shiny: 10196
+  simony: 98792
+  skinny: 12688
+  sonny: 17846
+  spiny: 41859
+  stony: 13557
+  sunny: 4668
+  sweeny: 86206
+  symphony: 8805
+  synchrony: 60137
+scored_words:
+  sanctimony: 282129
+  satiny: 120220
+  shanny: 218472
+  sixpenny: 114302
+  spoony: 194873
+  sunshiny: 186460
+not_scored_words:
+- Saxony
+- Sonny
+- Sony
+- scammony
+- schizogony
+- sheeny
+- spleeny
+- sporogony

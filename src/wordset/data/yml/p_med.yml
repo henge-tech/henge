@@ -1,0 +1,26 @@
+---
+pattern: p_med
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 822063
+score_per_word: 68505
+hi_scored_words:
+  performed: 1705
+  perfumed: 39448
+  preformed: 55951
+  premed: 99719
+  presumed: 13449
+  primed: 34987
+  proclaimed: 10764
+  programmed: 10844
+scored_words:
+  palmed: 152086
+  permed: 149910
+  plumed: 100485
+  programed: 152715
+not_scored_words:
+- PMed
+- pantomimed
+- platformed
+- polychromed

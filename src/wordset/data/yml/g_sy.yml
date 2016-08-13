@@ -1,0 +1,22 @@
+---
+pattern: g_sy
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 12
+score: 301966
+score_per_word: 37745
+hi_scored_words:
+  gassy: 90833
+  geodesy: 55005
+  glassy: 33462
+  glossy: 12229
+  grassy: 20041
+  greasy: 19366
+  gutsy: 57376
+  gypsy: 13654
+scored_words: {}
+not_scored_words:
+- Gypsy
+- geognosy
+- goosy
+- gussy

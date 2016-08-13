@@ -1,0 +1,55 @@
+---
+pattern: in_tly
+hi_scored_words_count: 17
+scored_words_count: 13
+total_words: 45
+score: 2800959
+score_per_word: 93365
+hi_scored_words:
+  inadvertently: 20701
+  incessantly: 38067
+  inconsistently: 81340
+  incorrectly: 17785
+  independently: 6698
+  indifferently: 78861
+  indignantly: 71599
+  indirectly: 7196
+  infrequently: 29845
+  inherently: 20028
+  innocently: 39103
+  insistently: 96969
+  instantly: 3444
+  insufficiently: 49679
+  intelligently: 26862
+  intently: 28632
+  intermittently: 36367
+scored_words:
+  incoherently: 109387
+  incompetently: 258751
+  incontinently: 136358
+  inconveniently: 149252
+  indecently: 161815
+  indiscreetly: 166723
+  indistinctly: 141352
+  indolently: 180959
+  indulgently: 172094
+  inefficiently: 102834
+  ineptly: 241891
+  insignificantly: 135359
+  insolently: 191008
+not_scored_words:
+- inaptly
+- incandescently
+- incipiently
+- inclemently
+- incongruently
+- inconstantly
+- indigently
+- inelegantly
+- inertly
+- inexactly
+- inexpertly
+- insouciantly
+- interdependently
+- intolerantly
+- intransigently

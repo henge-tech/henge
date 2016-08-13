@@ -1,0 +1,32 @@
+---
+pattern: stai_
+hi_scored_words_count: 15
+scored_words_count: 0
+total_words: 22
+score: 507854
+score_per_word: 33856
+hi_scored_words:
+  staid: 44218
+  stain: 8955
+  stained: 7950
+  stainer: 91585
+  staining: 21695
+  stainless: 8527
+  stains: 16128
+  stair: 14081
+  staircase: 13727
+  staircases: 49663
+  stairs: 5455
+  stairway: 20055
+  stairways: 58515
+  stairwell: 50656
+  stairwells: 96644
+scored_words: {}
+not_scored_words:
+- StairMaster
+- staider
+- staidest
+- staidly
+- staidness
+- stairhead
+- stairheads

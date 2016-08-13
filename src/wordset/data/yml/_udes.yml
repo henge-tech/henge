@@ -1,0 +1,60 @@
+---
+pattern: _udes
+hi_scored_words_count: 25
+scored_words_count: 6
+total_words: 50
+score: 2368550
+score_per_word: 76404
+hi_scored_words:
+  alludes: 52898
+  altitudes: 33380
+  amplitudes: 32454
+  aptitudes: 66711
+  attitudes: 6155
+  beatitudes: 91069
+  concludes: 10647
+  dudes: 17550
+  eludes: 72604
+  etudes: 39790
+  excludes: 16223
+  exudes: 62829
+  includes: 1422
+  interludes: 62044
+  latitudes: 28913
+  longitudes: 88200
+  magnitudes: 40551
+  multitudes: 45436
+  nudes: 10541
+  platitudes: 65118
+  precludes: 39369
+  preludes: 60243
+  protrudes: 97619
+  vicissitudes: 53389
+  études: 47924
+scored_words:
+  habitudes: 168304
+  incudes: 327712
+  intrudes: 102709
+  occludes: 302312
+  prudes: 219599
+  solitudes: 104835
+not_scored_words:
+- Beatitudes
+- certitudes
+- colludes
+- consuetudes
+- correctitudes
+- crassitudes
+- deludes
+- denudes
+- dissimilitudes
+- extrudes
+- finitudes
+- hebetudes
+- inaptitudes
+- inexactitudes
+- obtrudes
+- plenitudes
+- postludes
+- secludes
+- transudes

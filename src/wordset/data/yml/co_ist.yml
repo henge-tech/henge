@@ -1,0 +1,46 @@
+---
+pattern: co_ist
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 36
+score: 2246129
+score_per_word: 102096
+hi_scored_words:
+  coexist: 39281
+  collectivist: 90709
+  colonist: 53682
+  colorist: 90364
+  columnist: 15093
+  communist: 8617
+  conformist: 60213
+  conservationist: 58578
+  consist: 5694
+  constructivist: 50823
+  consumerist: 95201
+  contortionist: 98156
+scored_words:
+  collaborationist: 269301
+  colonialist: 106832
+  completist: 263225
+  congregationalist: 158314
+  constructionist: 111383
+  conversationalist: 105378
+  copyist: 102053
+  corporatist: 104447
+  cosmetologist: 115209
+  cosmologist: 243576
+not_scored_words:
+- Communist
+- Confucianist
+- Congregationalist
+- coalitionist
+- commercialist
+- conceptualist
+- contextualist
+- contrabandist
+- contrapuntist
+- conventionalist
+- coreligionist
+- cornetist
+- corporativist
+- cosmogonist

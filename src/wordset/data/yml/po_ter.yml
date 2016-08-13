@@ -1,0 +1,27 @@
+---
+pattern: po_ter
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 17
+score: 547569
+score_per_word: 49779
+hi_scored_words:
+  pointer: 10596
+  pollster: 71708
+  polluter: 79647
+  polyester: 16923
+  porter: 5528
+  poster: 8303
+  postmaster: 22812
+  potentiometer: 56358
+  potter: 6453
+scored_words:
+  poetaster: 111782
+  polarimeter: 157459
+not_scored_words:
+- Porter
+- Potter
+- politer
+- poofter
+- pothunter
+- pouter

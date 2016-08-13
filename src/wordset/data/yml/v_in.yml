@@ -1,0 +1,28 @@
+---
+pattern: v_in
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 575525
+score_per_word: 52320
+hi_scored_words:
+  vain: 7674
+  vein: 8889
+  vermin: 31841
+  villain: 13101
+  villein: 80944
+  violin: 7127
+  virgin: 2804
+  vitamin: 8330
+scored_words:
+  vanillin: 118904
+  verdin: 181943
+  vervain: 113968
+not_scored_words:
+- Valentin
+- Ventolin
+- Verein
+- Virgin
+- venin
+- vitellin
+- vitrain

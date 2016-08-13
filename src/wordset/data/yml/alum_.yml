@@ -1,0 +1,28 @@
+---
+pattern: alum_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 18
+score: 540757
+score_per_word: 54075
+hi_scored_words:
+  alum: 22780
+  alumina: 30248
+  aluminum: 10968
+  alumna: 54776
+  alumnae: 39922
+  alumni: 15534
+  alumnus: 27721
+  alums: 61426
+scored_words:
+  aluminate: 138520
+  aluminized: 138862
+not_scored_words:
+- aluminiferous
+- aluminize
+- aluminizes
+- aluminizing
+- aluminothermy
+- aluminous
+- alumroot
+- alumroots

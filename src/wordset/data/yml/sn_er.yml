@@ -1,0 +1,50 @@
+---
+pattern: sn_er
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 40
+score: 1864705
+score_per_word: 98142
+hi_scored_words:
+  snapper: 36342
+  snatcher: 87895
+  sneaker: 28335
+  sneer: 41539
+  snicker: 55666
+  snider: 37185
+  sniffer: 33490
+  sniper: 15914
+  snooker: 15092
+  snooper: 63031
+  snowboarder: 65223
+scored_words:
+  snappier: 206801
+  snifter: 129845
+  snigger: 127704
+  snoozer: 162289
+  snowblower: 110935
+  snowmobiler: 205265
+  snuffer: 146869
+  snugger: 295285
+not_scored_words:
+- Snider
+- Snyder
+- snakier
+- snarkier
+- snarler
+- snarlier
+- snazzier
+- sneakier
+- sniffier
+- sniggerer
+- snippier
+- sniveler
+- snobbier
+- snoopier
+- snootier
+- snorer
+- snorkeler
+- snorter
+- snottier
+- snowier
+- snuffler

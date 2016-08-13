@@ -1,0 +1,22 @@
+---
+pattern: re_der
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 12
+score: 354862
+score_per_word: 32260
+hi_scored_words:
+  reader: 1388
+  reconsider: 18271
+  recorder: 11112
+  redder: 61870
+  rejoinder: 57548
+  remainder: 5648
+  reminder: 8034
+  render: 5637
+  reorder: 41314
+  responder: 26191
+scored_words:
+  retarder: 117849
+not_scored_words:
+- resider

@@ -1,0 +1,30 @@
+---
+pattern: ej_
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 20
+score: 1421047
+score_per_word: 83591
+hi_scored_words:
+  ejaculate: 37329
+  ejaculated: 76857
+  ejaculating: 46645
+  ejaculation: 13952
+  ejaculations: 60912
+  eject: 26770
+  ejecta: 93962
+  ejected: 31413
+  ejecting: 85504
+  ejection: 33469
+  ejections: 89048
+  ejector: 57894
+scored_words:
+  ejaculates: 160040
+  ejaculatory: 136716
+  ejectment: 180841
+  ejectors: 176353
+  ejects: 113342
+not_scored_words:
+- ejaculator
+- ejaculators
+- ejective

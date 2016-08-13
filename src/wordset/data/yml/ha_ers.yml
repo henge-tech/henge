@@ -1,0 +1,53 @@
+---
+pattern: ha_ers
+hi_scored_words_count: 21
+scored_words_count: 9
+total_words: 43
+score: 2851235
+score_per_word: 95041
+hi_scored_words:
+  hackers: 11835
+  hairdressers: 37234
+  hairdryers: 76329
+  halters: 98316
+  hamburgers: 30723
+  hammers: 22473
+  hampers: 32631
+  hamsters: 31944
+  handlers: 17988
+  hangers: 23609
+  hangovers: 63241
+  harbingers: 90685
+  hardcovers: 90357
+  hardliners: 93703
+  harpers: 46786
+  harriers: 34238
+  harvesters: 59467
+  haters: 34902
+  hatters: 58649
+  haulers: 59272
+  hawkers: 85049
+scored_words:
+  haberdashers: 229865
+  handicappers: 115326
+  handovers: 204771
+  harassers: 266519
+  hardeners: 214228
+  hatemongers: 229299
+  hauliers: 104256
+  hawsers: 136449
+  haymakers: 251091
+not_scored_words:
+- hagglers
+- hagiographers
+- hairdriers
+- hairsplitters
+- halers
+- halvers
+- hammerers
+- hankers
+- harbormasters
+- harmonizers
+- harpooners
+- haunters
+- hazers

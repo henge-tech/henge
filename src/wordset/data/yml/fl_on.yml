@@ -1,0 +1,26 @@
+---
+pattern: fl_on
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 16
+score: 1502072
+score_per_word: 115544
+hi_scored_words:
+  flagellation: 95749
+  flagon: 96936
+  flatiron: 56703
+  flexion: 37254
+  flirtation: 53634
+  flocculation: 90202
+  flotation: 32082
+  fluctuation: 29234
+  fluoridation: 63824
+scored_words:
+  flacon: 261881
+  flection: 259481
+  fluorination: 317652
+  fluorocarbon: 107440
+not_scored_words:
+- fleuron
+- floccinaucinihilipilification
+- fluxion

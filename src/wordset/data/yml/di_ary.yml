@@ -1,0 +1,19 @@
+---
+pattern: di_ary
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 9
+score: 562284
+score_per_word: 62476
+hi_scored_words:
+  diary: 4777
+  dictionary: 4013
+  dietary: 14869
+  dignitary: 79616
+  disciplinary: 15230
+  discretionary: 19564
+  dispensary: 53883
+  diversionary: 79232
+scored_words:
+  distributary: 291100
+not_scored_words: []

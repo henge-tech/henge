@@ -1,0 +1,28 @@
+---
+pattern: fif_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 673513
+score_per_word: 61228
+hi_scored_words:
+  fife: 16869
+  fifteen: 4399
+  fifteenth: 18310
+  fifth: 2947
+  fifths: 42459
+  fifties: 30483
+  fiftieth: 44197
+  fifty: 3525
+scored_words:
+  fifer: 132421
+  fifes: 203799
+  fifthly: 174104
+not_scored_words:
+- FIFO
+- Fife
+- Fifeshire
+- fifers
+- fifteens
+- fifteenths
+- fiftieths

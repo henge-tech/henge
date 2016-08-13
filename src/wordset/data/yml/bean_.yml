@@ -1,0 +1,32 @@
+---
+pattern: bean_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 22
+score: 740352
+score_per_word: 67304
+hi_scored_words:
+  bean: 7851
+  beanbag: 63229
+  beanie: 19684
+  beanies: 32893
+  beano: 46648
+  beanpole: 78873
+  beans: 5827
+  beanstalk: 60029
+scored_words:
+  beanbags: 116441
+  beanery: 149607
+  beansprout: 159270
+not_scored_words:
+- Bean
+- beanball
+- beanballs
+- beaned
+- beanfeast
+- beanfeasts
+- beaning
+- beanos
+- beanpoles
+- beansprouts
+- beanstalks

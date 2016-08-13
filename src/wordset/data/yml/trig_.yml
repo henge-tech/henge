@@ -1,0 +1,31 @@
+---
+pattern: trig_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 21
+score: 1010389
+score_per_word: 67359
+hi_scored_words:
+  trig: 32123
+  trigeminal: 54604
+  trigger: 7510
+  triggered: 11428
+  triggering: 23201
+  triggers: 13355
+  triglyceride: 53468
+  triglycerides: 41362
+  trigonometric: 50539
+  trigonometry: 38705
+scored_words:
+  triggerfish: 152774
+  trigon: 100365
+  trigonal: 126833
+  trigram: 125042
+  trigrams: 179080
+not_scored_words:
+- trigeminals
+- triglyph
+- trigonometrical
+- trigonous
+- trigons
+- trigraph

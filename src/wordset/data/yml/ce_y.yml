@@ -1,0 +1,44 @@
+---
+pattern: ce_y
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 34
+score: 1557371
+score_per_word: 74160
+hi_scored_words:
+  ceaselessly: 83454
+  celebratory: 48514
+  celebrity: 5013
+  celerity: 76279
+  celery: 18368
+  celibacy: 39725
+  cemetery: 5382
+  centenary: 22475
+  centrality: 45657
+  centrally: 24137
+  century: 841
+  ceremony: 3921
+  certainly: 1328
+  certainty: 8299
+  certify: 16625
+scored_words:
+  cecity: 226343
+  cellularity: 192918
+  centaury: 228362
+  ceremonially: 158939
+  ceremoniously: 140590
+  certifiably: 210201
+not_scored_words:
+- Cecily
+- cecally
+- celestially
+- celiotomy
+- censoriously
+- centennially
+- centesimally
+- centrifugally
+- centripetally
+- cerebrally
+- cerography
+- cessionary
+- cetology

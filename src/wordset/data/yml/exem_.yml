@@ -1,0 +1,33 @@
+---
+pattern: exem_
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 23
+score: 897364
+score_per_word: 56085
+hi_scored_words:
+  exemplar: 40601
+  exemplars: 53916
+  exemplary: 15091
+  exemplification: 98026
+  exemplified: 26550
+  exemplifies: 37497
+  exemplify: 42226
+  exemplum: 82182
+  exempt: 5621
+  exempted: 22058
+  exempting: 65320
+  exemption: 9201
+  exemptions: 21679
+  exempts: 62654
+scored_words:
+  exempla: 209105
+  exemplifying: 105637
+not_scored_words:
+- exemplarily
+- exemplariness
+- exemplarity
+- exemplifications
+- exemplificative
+- exemplifier
+- exemptible

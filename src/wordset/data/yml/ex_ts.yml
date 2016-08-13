@@ -1,0 +1,49 @@
+---
+pattern: ex_ts
+hi_scored_words_count: 20
+scored_words_count: 14
+total_words: 39
+score: 3423245
+score_per_word: 100683
+hi_scored_words:
+  exalts: 87071
+  excerpts: 20152
+  exempts: 62654
+  exerts: 41594
+  exhausts: 41898
+  exhibitionists: 66583
+  exhibits: 6912
+  exhorts: 97816
+  exists: 2552
+  exits: 19906
+  expats: 38902
+  expects: 8077
+  experiments: 3632
+  experts: 4505
+  exploits: 14341
+  exponents: 37877
+  exports: 6123
+  extents: 54275
+  extracts: 10398
+  extremists: 29103
+scored_words:
+  exacts: 109426
+  excepts: 153393
+  excitements: 162161
+  excursionists: 187749
+  existentialists: 240421
+  exoplanets: 207286
+  exorcists: 266381
+  expectorants: 273873
+  expedients: 124450
+  experimentalists: 142620
+  expressionists: 193195
+  extortionists: 257686
+  extroverts: 213339
+  exults: 236894
+not_scored_words:
+- executants
+- exodontists
+- expansionists
+- extincts
+- extorts

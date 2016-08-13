@@ -1,0 +1,29 @@
+---
+pattern: nou_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 19
+score: 1109948
+score_per_word: 79282
+hi_scored_words:
+  nougat: 96000
+  nought: 40537
+  noun: 14947
+  nouns: 18808
+  nourish: 29204
+  nourished: 38510
+  nourishes: 64803
+  nourishing: 31742
+  nourishment: 25632
+  nous: 11806
+scored_words:
+  noughts: 100270
+  noumena: 253480
+  noumenal: 280233
+  noumenon: 103976
+not_scored_words:
+- Nouakchott
+- Noumea
+- nougats
+- nounal
+- nouses

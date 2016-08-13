@@ -1,0 +1,20 @@
+---
+pattern: ann_d
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 486060
+score_per_word: 54006
+hi_scored_words:
+  annealed: 57367
+  annexed: 22973
+  annihilated: 51091
+  annotated: 13346
+  announced: 1864
+  annoyed: 10932
+  annualized: 54990
+  annulled: 55799
+scored_words:
+  annelid: 217698
+not_scored_words:
+- annunciated

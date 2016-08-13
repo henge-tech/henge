@@ -1,0 +1,36 @@
+---
+pattern: seas_
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 26
+score: 1067124
+score_per_word: 53356
+hi_scored_words:
+  seas: 5927
+  seascape: 51130
+  seascapes: 71483
+  seashell: 47654
+  seashells: 55953
+  seashore: 27813
+  seasick: 66758
+  seaside: 13617
+  season: 760
+  seasonal: 11636
+  seasonality: 56832
+  seasonally: 26846
+  seasoned: 13583
+  seasoning: 21266
+  seasonings: 39290
+  seasons: 3950
+scored_words:
+  seashores: 137852
+  seasickness: 102555
+  seasonable: 118582
+  seasonably: 193637
+not_scored_words:
+- seasides
+- seasonability
+- seasonableness
+- seasonablenesses
+- seasoner
+- seasoners

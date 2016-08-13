@@ -1,0 +1,42 @@
+---
+pattern: swo_
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 32
+score: 1271436
+score_per_word: 63571
+hi_scored_words:
+  swollen: 13443
+  swoon: 38529
+  swoop: 30042
+  swooped: 68134
+  swooping: 62666
+  swoops: 96627
+  swoosh: 59265
+  sword: 3374
+  swordfish: 36058
+  swordplay: 78040
+  swords: 8462
+  swordsman: 44352
+  swordsmen: 89458
+  swore: 22788
+  sworn: 9607
+  swot: 48551
+scored_words:
+  swooned: 130986
+  swooning: 104589
+  swoons: 210657
+  swordsmanship: 115808
+not_scored_words:
+- swooshed
+- swooshes
+- swooshing
+- swordbill
+- swordcraft
+- swordfishes
+- swordtail
+- swordtails
+- swots
+- swotted
+- swotting
+- swound

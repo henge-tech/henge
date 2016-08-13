@@ -1,0 +1,51 @@
+---
+pattern: g_ted
+hi_scored_words_count: 15
+scored_words_count: 13
+total_words: 41
+score: 3027578
+score_per_word: 108127
+hi_scored_words:
+  gated: 22222
+  gazetted: 69551
+  generated: 4644
+  germinated: 91986
+  gifted: 8117
+  graduated: 7074
+  grafted: 46804
+  granted: 2235
+  granulated: 50368
+  grated: 24051
+  greeted: 11698
+  gritted: 91242
+  grunted: 54402
+  gusseted: 89960
+  gutted: 36478
+scored_words:
+  gaited: 116835
+  gesticulated: 167192
+  ghosted: 165910
+  glaciated: 116600
+  glinted: 166866
+  gloated: 156539
+  glutted: 187933
+  goodhearted: 295006
+  gravitated: 102058
+  grouted: 145282
+  guested: 199046
+  gusted: 291248
+  gyrated: 306231
+not_scored_words:
+- gallivanted
+- garotted
+- garroted
+- garrotted
+- geminated
+- genuflected
+- gestated
+- gibbeted
+- gimleted
+- girted
+- gradated
+- greathearted
+- guesstimated

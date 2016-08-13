@@ -1,0 +1,29 @@
+---
+pattern: av_e
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 769147
+score_per_word: 54939
+hi_scored_words:
+  available: 723
+  avalanche: 14342
+  avarice: 43679
+  ave: 6319
+  avenge: 30265
+  avenue: 2912
+  average: 1095
+  averse: 28811
+  aversive: 86191
+  avoidable: 40174
+  avoidance: 14480
+scored_words:
+  aventurine: 100316
+  aviate: 116521
+  aviculture: 283319
+not_scored_words:
+- Ave
+- Aventine
+- avertable
+- avertible
+- avunculate

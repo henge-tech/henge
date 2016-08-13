@@ -1,0 +1,30 @@
+---
+pattern: sy_tic
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 20
+score: 1541447
+score_per_word: 90673
+hi_scored_words:
+  symbiotic: 39515
+  sympathetic: 9846
+  symptomatic: 31649
+  synaptic: 23608
+  synergistic: 38587
+  synoptic: 36682
+  syntactic: 22593
+  synthetic: 11241
+  systematic: 6767
+scored_words:
+  sybaritic: 166229
+  sycophantic: 126026
+  syllogistic: 208410
+  syncretic: 142425
+  syncretistic: 104374
+  syndetic: 281057
+  synergetic: 150007
+  syphilitic: 142431
+not_scored_words:
+- sylleptic
+- synclastic
+- systaltic

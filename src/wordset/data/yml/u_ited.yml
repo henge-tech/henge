@@ -1,0 +1,27 @@
+---
+pattern: u_ited
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 17
+score: 1110729
+score_per_word: 74048
+hi_scored_words:
+  uncredited: 29318
+  unedited: 38385
+  uninhabited: 37454
+  uninhibited: 56181
+  uninvited: 52831
+  united: 183
+  unlimited: 10120
+  unrequited: 50986
+  unsolicited: 13934
+  unsuited: 73024
+scored_words:
+  unaccredited: 186954
+  unaudited: 102260
+  unexploited: 152208
+  unmerited: 139331
+  unvisited: 167560
+not_scored_words:
+- unexcited
+- unprohibited

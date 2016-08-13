@@ -1,0 +1,23 @@
+---
+pattern: unin_ted
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 954553
+score_per_word: 86777
+hi_scored_words:
+  unincorporated: 22277
+  uninfected: 71855
+  uninhabited: 37454
+  uninhibited: 56181
+  uninitiated: 56812
+  uninterested: 50631
+  uninterrupted: 21870
+  uninvited: 52831
+scored_words:
+  uninstructed: 238048
+  uninsulated: 136057
+  uninterpreted: 210537
+not_scored_words:
+- uninflected
+- uninvested

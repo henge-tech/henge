@@ -1,0 +1,45 @@
+---
+pattern: sub_al
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 35
+score: 1623050
+score_per_word: 95473
+hi_scored_words:
+  subclinical: 78966
+  subcortical: 88133
+  subdural: 84610
+  subliminal: 27420
+  sublingual: 60756
+  submittal: 82975
+  suboptimal: 60579
+  substantial: 3598
+  subtotal: 24241
+  subtropical: 31445
+scored_words:
+  subcontinental: 313270
+  subcritical: 118300
+  subcultural: 123589
+  subglacial: 154737
+  sublethal: 135599
+  subnormal: 115435
+  suborbital: 119397
+not_scored_words:
+- subabdominal
+- subapical
+- subastral
+- subcelestial
+- subcranial
+- subdual
+- subequatorial
+- sublittoral
+- submarginal
+- subminimal
+- subperiosteal
+- subprincipal
+- subprofessional
+- subsocial
+- substantival
+- subternatural
+- subtextual
+- subvocal

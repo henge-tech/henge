@@ -1,0 +1,27 @@
+---
+pattern: r_lers
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 17
+score: 493838
+score_per_word: 49383
+hi_scored_words:
+  ramblers: 45154
+  rattlers: 54768
+  recyclers: 63760
+  resellers: 26467
+  retailers: 6005
+  revelers: 97102
+  rollers: 18981
+  rottweilers: 69446
+  rulers: 12669
+  rustlers: 99486
+scored_words: {}
+not_scored_words:
+- Rottweilers
+- Roulers
+- rathskellers
+- reconcilers
+- revilers
+- riflers
+- rototillers

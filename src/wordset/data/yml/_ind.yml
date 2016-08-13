@@ -1,0 +1,62 @@
+---
+pattern: _ind
+hi_scored_words_count: 28
+scored_words_count: 6
+total_words: 52
+score: 1611495
+score_per_word: 47396
+hi_scored_words:
+  behind: 678
+  bind: 6268
+  blind: 2385
+  colorblind: 81833
+  downwind: 49508
+  find: 109
+  grind: 10685
+  headwind: 90556
+  hind: 22909
+  humankind: 31798
+  ind: 13289
+  kind: 478
+  mankind: 6199
+  mastermind: 28003
+  mind: 423
+  purblind: 98133
+  remind: 5449
+  rescind: 43705
+  rewind: 22546
+  rind: 32343
+  tamarind: 49583
+  unbind: 85214
+  unkind: 36546
+  unwind: 30999
+  upwind: 57982
+  whirlwind: 22031
+  wind: 1031
+  woodwind: 31560
+scored_words:
+  crosswind: 102505
+  rebind: 110953
+  regrind: 223359
+  tailwind: 105792
+  womankind: 100094
+  wunderkind: 106549
+not_scored_words:
+- Amerind
+- Dedekind
+- Hind
+- Ind
+- Lind
+- Rosalind
+- Sind
+- Wedekind
+- abscind
+- cowbind
+- enwind
+- exscind
+- gavelkind
+- nightblind
+- overwind
+- prescind
+- spellbind
+- womenkind

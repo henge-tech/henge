@@ -1,0 +1,23 @@
+---
+pattern: voic_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 387198
+score_per_word: 43022
+hi_scored_words:
+  voice: 610
+  voiced: 15772
+  voiceless: 46795
+  voicemail: 19454
+  voicemails: 92681
+  voiceover: 46588
+  voices: 3235
+  voicing: 33848
+scored_words:
+  voiceprint: 128215
+not_scored_words:
+- voicedness
+- voiceful
+- voicelessly
+- voicelessness

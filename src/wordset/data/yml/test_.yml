@@ -1,0 +1,61 @@
+---
+pattern: test_
+hi_scored_words_count: 29
+scored_words_count: 6
+total_words: 51
+score: 1936126
+score_per_word: 55317
+hi_scored_words:
+  test: 955
+  testa: 45300
+  testability: 97895
+  testable: 51426
+  testament: 6502
+  testamentary: 72577
+  testaments: 51014
+  testator: 46889
+  testbed: 52622
+  tested: 4226
+  tester: 23246
+  testers: 18899
+  testes: 43520
+  testicle: 38230
+  testicles: 34218
+  testicular: 28478
+  testified: 11304
+  testifies: 38085
+  testify: 15411
+  testifying: 34011
+  testimonial: 22602
+  testimonials: 14418
+  testimonies: 25959
+  testimony: 3962
+  testing: 3943
+  testis: 31734
+  testosterone: 13621
+  tests: 2432
+  testy: 57153
+scored_words:
+  testate: 176190
+  testatrix: 131496
+  testbeds: 195327
+  testily: 208185
+  testings: 155550
+  testudo: 178746
+not_scored_words:
+- testaceous
+- testas
+- testates
+- testators
+- testatrices
+- testcard
+- testee
+- testees
+- testier
+- testiest
+- testifier
+- testifiers
+- testiness
+- teston
+- testudinal
+- testudos

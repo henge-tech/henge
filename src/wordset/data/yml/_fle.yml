@@ -1,0 +1,33 @@
+---
+pattern: _fle
+hi_scored_words_count: 20
+scored_words_count: 1
+total_words: 23
+score: 1116523
+score_per_word: 53167
+hi_scored_words:
+  baffle: 33394
+  coffle: 44070
+  kerfuffle: 86959
+  muffle: 81101
+  piffle: 85806
+  raffle: 19205
+  reshuffle: 54170
+  riffle: 61541
+  rifle: 5722
+  ruffle: 31151
+  scuffle: 53487
+  shuffle: 13393
+  snaffle: 93326
+  sniffle: 88482
+  snuffle: 65891
+  souffle: 47940
+  stifle: 31047
+  trifle: 27882
+  truffle: 34127
+  waffle: 21424
+scored_words:
+  skiffle: 136405
+not_scored_words:
+- unmuffle
+- whiffle

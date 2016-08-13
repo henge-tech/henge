@@ -1,0 +1,54 @@
+---
+pattern: int_r
+hi_scored_words_count: 23
+scored_words_count: 13
+total_words: 44
+score: 3224910
+score_per_word: 89580
+hi_scored_words:
+  integer: 9902
+  integrator: 29960
+  intelligencer: 41250
+  intensifier: 85532
+  inter: 5687
+  intercellular: 57589
+  interceptor: 28404
+  interferometer: 45652
+  interior: 2331
+  interlocutor: 67404
+  interloper: 83677
+  intermolecular: 67138
+  interpreter: 9308
+  interrogator: 64591
+  interstellar: 26155
+  interviewer: 23085
+  interwar: 81226
+  intr: 63751
+  intracellular: 21994
+  intramolecular: 72474
+  intramuscular: 52420
+  intraocular: 49682
+  intruder: 17754
+scored_words:
+  intenser: 179689
+  intercessor: 134044
+  interferer: 279382
+  interlinear: 103464
+  internuclear: 237152
+  interpleader: 257423
+  interpolator: 190302
+  interrupter: 114977
+  intervener: 158135
+  intervenor: 117639
+  intimidator: 137697
+  intranuclear: 190505
+  intriguer: 117535
+not_scored_words:
+- interceder
+- interlunar
+- interoceptor
+- interocular
+- interposer
+- intervalometer
+- intoner
+- intrapreneur

@@ -1,0 +1,35 @@
+---
+pattern: cons_ng
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 25
+score: 1180549
+score_per_word: 65586
+hi_scored_words:
+  consenting: 34499
+  conserving: 37490
+  considering: 2583
+  consisting: 4998
+  consolidating: 29061
+  consoling: 69187
+  conspiring: 45617
+  constituting: 20750
+  constraining: 51203
+  constricting: 97269
+  constructing: 12134
+  construing: 78650
+  consulting: 11061
+  consuming: 8586
+scored_words:
+  consecrating: 168803
+  consigning: 119124
+  consorting: 176842
+  consummating: 212692
+not_scored_words:
+- conscripting
+- consing
+- consociating
+- constellating
+- consternating
+- constipating
+- constringing

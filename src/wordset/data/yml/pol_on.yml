@@ -1,0 +1,20 @@
+---
+pattern: pol_on
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 362066
+score_per_word: 45258
+hi_scored_words:
+  polarization: 25092
+  politicization: 89437
+  pollination: 37204
+  pollution: 6799
+  poltroon: 98754
+  polygon: 20775
+  polyhedron: 55067
+  polymerization: 28938
+scored_words: {}
+not_scored_words:
+- polycotyledon
+- polysyndeton

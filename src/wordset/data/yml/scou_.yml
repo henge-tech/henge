@@ -1,0 +1,33 @@
+---
+pattern: scou_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 23
+score: 1512414
+score_per_word: 84023
+hi_scored_words:
+  scoundrel: 42337
+  scoundrels: 41993
+  scour: 33649
+  scoured: 54524
+  scourge: 24314
+  scouring: 34117
+  scout: 7132
+  scouted: 80393
+  scouter: 95261
+  scouting: 15649
+  scoutmaster: 90493
+  scouts: 9716
+scored_words:
+  scoundrelly: 285419
+  scourged: 121250
+  scourges: 129463
+  scourging: 141198
+  scours: 117707
+  scouters: 187799
+not_scored_words:
+- scourer
+- scourers
+- scourger
+- scourings
+- scoutmasters

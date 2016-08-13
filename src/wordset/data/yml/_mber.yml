@@ -1,0 +1,51 @@
+---
+pattern: _mber
+hi_scored_words_count: 26
+scored_words_count: 4
+total_words: 41
+score: 1580186
+score_per_word: 52672
+hi_scored_words:
+  amber: 6060
+  antechamber: 94917
+  beachcomber: 59111
+  bomber: 14413
+  camber: 45482
+  chamber: 2292
+  clamber: 92790
+  climber: 26557
+  comber: 92939
+  cucumber: 18495
+  dismember: 77470
+  dumber: 38939
+  ember: 34015
+  encumber: 81379
+  limber: 72069
+  lumber: 9469
+  member: 545
+  nonmember: 95974
+  number: 155
+  outnumber: 45001
+  plumber: 24066
+  remember: 485
+  slumber: 20552
+  somber: 33713
+  timber: 4923
+  umber: 47998
+scored_words:
+  bedchamber: 107046
+  cumber: 135849
+  misremember: 165669
+  renumber: 131813
+not_scored_words:
+- Amber
+- December
+- Humber
+- November
+- September
+- disencumber
+- disremember
+- misnumber
+- omber
+- submember
+- unlimber

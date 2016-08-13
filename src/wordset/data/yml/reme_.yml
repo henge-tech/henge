@@ -1,0 +1,36 @@
+---
+pattern: reme_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 26
+score: 808190
+score_per_word: 57727
+hi_scored_words:
+  remedial: 18852
+  remediation: 15988
+  remedied: 40002
+  remedies: 7270
+  remedy: 5482
+  remedying: 84168
+  remember: 485
+  remembered: 3828
+  remembering: 7960
+  remembers: 12235
+  remembrance: 11487
+  remembrances: 56947
+scored_words:
+  remeasured: 289880
+  remediable: 253606
+not_scored_words:
+- remeasure
+- remeasures
+- remeasuring
+- remedially
+- remediless
+- remelt
+- remelted
+- remelting
+- remelts
+- rememberable
+- remembrancer
+- remex

@@ -1,0 +1,44 @@
+---
+pattern: _tral
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 34
+score: 2004990
+score_per_word: 105525
+hi_scored_words:
+  ancestral: 15722
+  arbitral: 59084
+  astral: 21880
+  austral: 45655
+  cadastral: 58790
+  central: 1065
+  mistral: 42489
+  mitral: 31697
+  neutral: 4993
+  orchestral: 19658
+  spectral: 11263
+  ventral: 28352
+scored_words:
+  antral: 153837
+  citral: 270701
+  dextral: 250764
+  dorsoventral: 249740
+  epicentral: 293085
+  magistral: 227684
+  sinistral: 218531
+not_scored_words:
+- Austral
+- Central
+- campestral
+- claustral
+- cloistral
+- dextrosinistral
+- diametral
+- dorsiventral
+- fissirostral
+- lamellirostral
+- lustral
+- retral
+- sinistrodextral
+- subastral
+- trimestral

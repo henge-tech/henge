@@ -1,0 +1,62 @@
+---
+pattern: _date
+hi_scored_words_count: 15
+scored_words_count: 11
+total_words: 52
+score: 2482901
+score_per_word: 95496
+hi_scored_words:
+  accommodate: 7021
+  candidate: 3245
+  caudate: 88074
+  consolidate: 15237
+  date: 285
+  elucidate: 35900
+  exudate: 88974
+  intimidate: 27817
+  invalidate: 35586
+  liquidate: 47985
+  mandate: 9622
+  predate: 80986
+  sedate: 47734
+  update: 5360
+  validate: 15586
+scored_words:
+  antedate: 199862
+  backdate: 226897
+  chordate: 255755
+  cordate: 177228
+  inundate: 111303
+  iodate: 179041
+  molybdate: 119552
+  periodate: 269836
+  postdate: 195236
+  revalidate: 101971
+  vanadate: 136808
+not_scored_words:
+- Hakodate
+- cephalochordate
+- chlamydate
+- cuspidate
+- denudate
+- depredate
+- dilapidate
+- emendate
+- excaudate
+- fecundate
+- fluoridate
+- foredate
+- gradate
+- hemichordate
+- lapidate
+- misdate
+- mithridate
+- noncandidate
+- obcordate
+- outdate
+- oxidate
+- pedate
+- protochordate
+- reconsolidate
+- subinfeudate
+- transudate

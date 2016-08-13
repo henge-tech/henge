@@ -1,0 +1,60 @@
+---
+pattern: _eur
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 50
+score: 2173646
+score_per_word: 77630
+hi_scored_words:
+  amateur: 3825
+  auteur: 38073
+  chasseur: 96908
+  chauffeur: 20758
+  connoisseur: 28552
+  derailleur: 60482
+  entrepreneur: 10415
+  grandeur: 18467
+  hauteur: 78211
+  liqueur: 30481
+  masseur: 69588
+  monsieur: 16470
+  provocateur: 53537
+  raconteur: 98304
+  rapporteur: 37907
+  restaurateur: 66271
+  saboteur: 67136
+  seigneur: 58807
+  voyageur: 73148
+  voyeur: 15870
+scored_words:
+  accoucheur: 148852
+  colporteur: 183320
+  douceur: 151818
+  litterateur: 100315
+  longueur: 128964
+  monseigneur: 107596
+  poseur: 106235
+  regisseur: 303336
+not_scored_words:
+- Bonheur
+- Eur
+- Monseigneur
+- Monsieur
+- Pasteur
+- Tourneur
+- arbitrageur
+- carillonneur
+- claqueur
+- coiffeur
+- danseur
+- diseur
+- dérailleur
+- farceur
+- friseur
+- froideur
+- frotteur
+- intrapreneur
+- jongleur
+- littérateur
+- régisseur
+- trouveur

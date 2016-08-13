@@ -1,0 +1,46 @@
+---
+pattern: wag_
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 36
+score: 1959449
+score_per_word: 89065
+hi_scored_words:
+  wag: 24489
+  wage: 4786
+  waged: 28060
+  wager: 15518
+  wagered: 89288
+  wagering: 35765
+  wagers: 51115
+  wages: 4155
+  wagging: 52701
+  waging: 35591
+  wagon: 6156
+  wagoner: 51088
+  wagons: 17035
+  wags: 67923
+  wagtail: 73596
+scored_words:
+  wagged: 119119
+  waggish: 215062
+  waggle: 112784
+  waggled: 289216
+  waggling: 281865
+  wagonette: 188392
+  wagtails: 195745
+not_scored_words:
+- Wagner
+- Wagnerian
+- Wagram
+- wagerer
+- wagerers
+- wageworker
+- waggeries
+- waggery
+- waggishly
+- waggishness
+- waggles
+- waggly
+- wagonage
+- wagoners

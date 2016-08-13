@@ -1,0 +1,44 @@
+---
+pattern: al_ed
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 34
+score: 962386
+score_per_word: 48119
+hi_scored_words:
+  alarmed: 16274
+  alerted: 24121
+  aliased: 91708
+  alienated: 28897
+  alighted: 88891
+  aligned: 10492
+  alleged: 5214
+  alleviated: 54935
+  allied: 5184
+  allocated: 8182
+  allotted: 20059
+  allowed: 1004
+  alloyed: 84213
+  alluded: 30343
+  alphabetized: 65833
+  altered: 5351
+  alternated: 58975
+scored_words:
+  allayed: 107595
+  allured: 116253
+  aluminized: 138862
+not_scored_words:
+- Alfred
+- alchemized
+- alcoholized
+- alibied
+- aliened
+- alimented
+- aliped
+- alkalified
+- alkalinized
+- alkalized
+- allegorized
+- alliterated
+- allseed
+- altercated

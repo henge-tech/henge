@@ -1,0 +1,21 @@
+---
+pattern: con_ents
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 674885
+score_per_word: 67488
+hi_scored_words:
+  condiments: 36848
+  consents: 34097
+  consignments: 66377
+  constituents: 11670
+  contents: 1556
+  continents: 12796
+  contingents: 79329
+  convents: 72404
+scored_words:
+  confinements: 228040
+  convalescents: 131768
+not_scored_words:
+- conferments

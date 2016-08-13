@@ -1,0 +1,27 @@
+---
+pattern: hard_s
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 1251510
+score_per_word: 104292
+hi_scored_words:
+  hardcovers: 90357
+  hardens: 65064
+  hardiness: 56356
+  hardliners: 93703
+  hardness: 15666
+  hards: 88862
+  hardships: 23738
+  hardwoods: 40587
+scored_words:
+  hardbacks: 166193
+  hardeners: 214228
+  hardhats: 200879
+  hardtops: 195877
+not_scored_words:
+- hardenings
+- hardheadedness
+- hardheartedness
+- hardpans
+- hardstands

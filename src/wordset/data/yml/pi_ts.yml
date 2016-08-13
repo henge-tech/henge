@@ -1,0 +1,30 @@
+---
+pattern: pi_ts
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 20
+score: 686972
+score_per_word: 62452
+hi_scored_words:
+  pianists: 50818
+  pickets: 55853
+  piglets: 52172
+  pigments: 29974
+  pilots: 8938
+  pinpoints: 90463
+  pints: 29310
+  pits: 12978
+  pivots: 64907
+scored_words:
+  pickpockets: 103798
+  pipits: 187761
+not_scored_words:
+- Pinots
+- Pitts
+- picots
+- piecrusts
+- pieplants
+- pignuts
+- pileworts
+- piquets
+- pitapats

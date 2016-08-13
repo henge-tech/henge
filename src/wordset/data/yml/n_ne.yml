@@ -1,0 +1,45 @@
+---
+pattern: n_ne
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 35
+score: 1848879
+score_per_word: 102715
+hi_scored_words:
+  naphthalene: 56383
+  neckline: 44006
+  nectarine: 80062
+  neoprene: 36142
+  newline: 46221
+  newsmagazine: 82468
+  nicotine: 17319
+  nine: 1642
+  nocturne: 39402
+  none: 589
+  noradrenaline: 71440
+  norepinephrine: 38795
+scored_words:
+  nepheline: 207339
+  nervine: 261957
+  nitrobenzene: 111246
+  nitroglycerine: 119697
+  nitrosamine: 319412
+  nosecone: 314759
+not_scored_words:
+- NNE
+- NaDene
+- Nadine
+- Narbonne
+- Nazarene
+- Neocene
+- Neogene
+- Neptune
+- Nicene
+- Novocaine
+- Nupercaine
+- narceine
+- neoarsphenamine
+- nigrosine
+- nitramine
+- noncrystalline
+- novene

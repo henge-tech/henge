@@ -1,0 +1,41 @@
+---
+pattern: p_ered
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 31
+score: 1849426
+score_per_word: 84064
+hi_scored_words:
+  pampered: 32268
+  partnered: 20978
+  peered: 40706
+  peppered: 52231
+  persevered: 66987
+  pestered: 83358
+  pioneered: 23009
+  plastered: 32849
+  plundered: 48139
+  pondered: 32193
+  powdered: 20187
+  powered: 5999
+  premiered: 24099
+  proffered: 46905
+  prospered: 45623
+  puckered: 78326
+scored_words:
+  pandered: 226800
+  papered: 118561
+  pattered: 256972
+  petered: 144755
+  pilfered: 140002
+  preregistered: 308479
+not_scored_words:
+- palavered
+- paltered
+- philandered
+- pilastered
+- pincered
+- pothered
+- pottered
+- profiteered
+- puttered

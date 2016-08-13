@@ -1,0 +1,37 @@
+---
+pattern: s_ide
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 27
+score: 1216767
+score_per_word: 71574
+hi_scored_words:
+  seaside: 13617
+  side: 257
+  slide: 4074
+  snide: 48196
+  stateside: 48925
+  statewide: 8053
+  stride: 14828
+  subdivide: 66148
+  subside: 39006
+  suicide: 4522
+  sulfide: 30548
+scored_words:
+  saccharide: 249885
+  sesquioxide: 105643
+  silverside: 138916
+  spermicide: 109444
+  sulfanilamide: 199843
+  sulfonamide: 134862
+not_scored_words:
+- Shrovetide
+- Stateside
+- slickenside
+- snowslide
+- sodamide
+- sororicide
+- subchloride
+- suboxide
+- sulphanilamide
+- sulphonamide

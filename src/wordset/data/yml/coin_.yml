@@ -1,0 +1,34 @@
+---
+pattern: coin_
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 24
+score: 986049
+score_per_word: 58002
+hi_scored_words:
+  coin: 4378
+  coinage: 32321
+  coincide: 16750
+  coincided: 32914
+  coincidence: 11444
+  coincidences: 45819
+  coincident: 37841
+  coincidental: 38513
+  coincidentally: 35880
+  coincides: 30311
+  coinciding: 56333
+  coined: 21464
+  coining: 70163
+  coins: 3486
+  coinsurance: 77903
+scored_words:
+  coinages: 267475
+  coiner: 203054
+not_scored_words:
+- Cointreau
+- coiners
+- coinstantaneous
+- coinsure
+- coinsured
+- coinsures
+- coinsuring

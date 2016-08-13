@@ -1,0 +1,36 @@
+---
+pattern: ki_e
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 26
+score: 1344983
+score_per_word: 84061
+hi_scored_words:
+  kibble: 74568
+  kiddie: 33477
+  kinase: 11464
+  kindle: 39322
+  kine: 45546
+  kitchenette: 41492
+  kitchenware: 46303
+  kite: 12569
+scored_words:
+  kibe: 158010
+  kike: 112214
+  kilobyte: 112860
+  kimberlite: 113550
+  kirtle: 152625
+  kissable: 121553
+  kittiwake: 117593
+  kittle: 151837
+not_scored_words:
+- Kielce
+- Kildare
+- Killiecrankie
+- Kincardine
+- Kitwe
+- kieserite
+- kilocalorie
+- kilocycle
+- kinescope
+- kishke

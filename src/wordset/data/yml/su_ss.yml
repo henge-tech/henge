@@ -1,0 +1,56 @@
+---
+pattern: su_ss
+hi_scored_words_count: 10
+scored_words_count: 13
+total_words: 46
+score: 3039696
+score_per_word: 132160
+hi_scored_words:
+  subclass: 21790
+  success: 834
+  suddenness: 97065
+  sunglass: 54023
+  sunless: 36791
+  superclass: 59881
+  supergrass: 61842
+  suppress: 11378
+  surpass: 22421
+  suss: 72347
+scored_words:
+  subconsciousness: 287540
+  submissiveness: 161034
+  succinctness: 307882
+  sugarless: 125714
+  suggestiveness: 231294
+  sullenness: 128493
+  sundress: 101627
+  superciliousness: 247522
+  supineness: 127307
+  suppleness: 105323
+  supportiveness: 307736
+  sureness: 187074
+  suspiciousness: 282778
+not_scored_words:
+- suaveness
+- subjectiveness
+- subjectless
+- sublimeness
+- submiss
+- subtleness
+- subversiveness
+- succorless
+- succuss
+- sugariness
+- suitableness
+- sulkiness
+- sultriness
+- summariness
+- sumptuousness
+- sunniness
+- superficialness
+- superfluousness
+- superlativeness
+- suppositiousness
+- supremeness
+- surliness
+- surreptitiousness

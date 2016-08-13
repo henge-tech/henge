@@ -1,0 +1,30 @@
+---
+pattern: car_t
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1173739
+score_per_word: 83838
+hi_scored_words:
+  carat: 16002
+  cardiologist: 45643
+  caret: 56620
+  carnet: 88514
+  carpet: 4460
+  carport: 59326
+  carrot: 16669
+  cart: 2440
+  cartoonist: 28642
+scored_words:
+  carcanet: 193457
+  careerist: 185427
+  caricaturist: 117749
+  carrycot: 244375
+  carryout: 114415
+not_scored_words:
+- Carlist
+- Carnot
+- Carteret
+- Cartwright
+- carburet
+- carefullest

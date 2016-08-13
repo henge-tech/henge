@@ -1,0 +1,25 @@
+---
+pattern: rea_r
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 659243
+score_per_word: 54936
+hi_scored_words:
+  reacher: 97284
+  reactor: 13959
+  reader: 1388
+  realtor: 18077
+  reamer: 83616
+  reaper: 22093
+  reappear: 41971
+  rear: 2438
+  reasoner: 80867
+  reaver: 62392
+scored_words:
+  readier: 129379
+  realer: 105779
+not_scored_words:
+- Realtor
+- Reasoner
+- realgar

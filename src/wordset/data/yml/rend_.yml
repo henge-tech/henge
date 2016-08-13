@@ -1,0 +1,25 @@
+---
+pattern: rend_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 15
+score: 725087
+score_per_word: 55775
+hi_scored_words:
+  rend: 36909
+  render: 5637
+  rendered: 4980
+  renderer: 46558
+  rendering: 7488
+  renderings: 52289
+  renders: 15109
+  rendezvous: 15214
+  rending: 65486
+  rendition: 27235
+  renditions: 51827
+scored_words:
+  rendezvoused: 265059
+  rends: 131296
+not_scored_words:
+- rendezvouses
+- rendezvousing

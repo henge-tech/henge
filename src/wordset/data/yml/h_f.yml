@@ -1,0 +1,32 @@
+---
+pattern: h_f
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 22
+score: 997193
+score_per_word: 71228
+hi_scored_words:
+  half: 401
+  handcuff: 58962
+  handkerchief: 21675
+  handoff: 62634
+  headscarf: 94352
+  hereof: 39167
+  herself: 2143
+  hf: 14368
+  himself: 800
+  hoof: 25335
+  huff: 27766
+scored_words:
+  haaf: 184588
+  heatproof: 279259
+  hippogriff: 185743
+not_scored_words:
+- HF
+- Hausdorff
+- Hf
+- Hoff
+- Hofuf
+- Huff
+- Hufuf
+- holeproof

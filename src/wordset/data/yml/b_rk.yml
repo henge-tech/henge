@@ -1,0 +1,33 @@
+---
+pattern: b_rk
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 23
+score: 1111298
+score_per_word: 79378
+hi_scored_words:
+  ballpark: 27499
+  bark: 7162
+  benchmark: 13533
+  berk: 45268
+  berserk: 37491
+  birthmark: 79680
+  bodywork: 33863
+  bookmark: 7095
+  breastwork: 65028
+  brickwork: 59400
+  bulwark: 49332
+scored_words:
+  bridgework: 243246
+  brushwork: 148892
+  busywork: 293809
+not_scored_words:
+- Bismark
+- Bjork
+- Bork
+- baresark
+- basketwork
+- bookwork
+- boschvark
+- brainwork
+- brightwork

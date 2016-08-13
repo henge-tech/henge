@@ -1,0 +1,55 @@
+---
+pattern: _ples
+hi_scored_words_count: 26
+scored_words_count: 5
+total_words: 45
+score: 1907585
+score_per_word: 61535
+hi_scored_words:
+  apples: 9086
+  couples: 5135
+  cripples: 77003
+  dimples: 42180
+  disciples: 8656
+  examples: 2095
+  grapples: 84589
+  maples: 40029
+  multiples: 31634
+  nipples: 5705
+  participles: 93284
+  peoples: 4329
+  pimples: 46938
+  pineapples: 61781
+  principles: 1615
+  purples: 65615
+  ripples: 34655
+  samples: 4229
+  scruples: 54361
+  staples: 17387
+  steeples: 97786
+  temples: 9142
+  thermocouples: 74495
+  topples: 44267
+  triples: 27842
+  tuples: 44637
+scored_words:
+  counterexamples: 105856
+  crumples: 252533
+  decouples: 218995
+  quadruples: 183913
+  tramples: 157813
+not_scored_words:
+- Naples
+- Staples
+- dapples
+- empurples
+- fipples
+- hopples
+- mayapples
+- quintuples
+- rumples
+- stipples
+- stopples
+- tipples
+- uncouples
+- wimples

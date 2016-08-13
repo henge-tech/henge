@@ -1,0 +1,37 @@
+---
+pattern: dep_d
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 27
+score: 1194749
+score_per_word: 59737
+hi_scored_words:
+  departed: 9865
+  depend: 3715
+  depended: 14024
+  depicted: 10773
+  depleted: 20730
+  deplored: 69963
+  deployed: 11690
+  deported: 30888
+  deposed: 35589
+  deposited: 7793
+  depraved: 36197
+  deprecated: 22930
+  depreciated: 45942
+  depressed: 8024
+  deprived: 9661
+scored_words:
+  departmentalized: 262321
+  depolarized: 175266
+  depopulated: 118132
+  deputed: 116621
+  deputized: 184625
+not_scored_words:
+- depersonalized
+- deplaned
+- deplumed
+- depoliticized
+- deponed
+- depressurized
+- deprogrammed

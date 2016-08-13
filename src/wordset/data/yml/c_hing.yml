@@ -1,0 +1,35 @@
+---
+pattern: c_hing
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 25
+score: 1204330
+score_per_word: 63385
+hi_scored_words:
+  caching: 22022
+  cashing: 30785
+  catching: 6505
+  cherishing: 89229
+  ching: 23228
+  clashing: 48316
+  clenching: 75162
+  clinching: 72943
+  clothing: 1824
+  clutching: 34233
+  coaching: 10799
+  coughing: 21317
+  crashing: 13797
+  crouching: 27356
+  crunching: 37916
+  crushing: 13698
+scored_words:
+  choreographing: 163312
+  cinching: 312952
+  couching: 198936
+not_scored_words:
+- Cushing
+- contradistinguishing
+- coshing
+- countermarching
+- craunching
+- crosshatching

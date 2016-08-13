@@ -1,0 +1,42 @@
+---
+pattern: un_en
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 32
+score: 2166513
+score_per_word: 94196
+hi_scored_words:
+  unbeaten: 29859
+  unbidden: 92443
+  unbroken: 22034
+  undertaken: 5411
+  underwritten: 48057
+  uneven: 15792
+  unforeseen: 21778
+  unforgiven: 43237
+  unproven: 39447
+  unseen: 11914
+  unshaven: 44279
+  unspoken: 34520
+  unwritten: 30904
+scored_words:
+  unburden: 141909
+  underclassmen: 108109
+  uneaten: 156193
+  unfasten: 164184
+  unforgotten: 219229
+  unfrozen: 104316
+  unhidden: 341317
+  unladen: 149930
+  unshaken: 119428
+  untrodden: 222223
+not_scored_words:
+- Unterwalden
+- underlinen
+- unforsaken
+- ungotten
+- unloosen
+- unmistaken
+- unpen
+- unshapen
+- unwoven

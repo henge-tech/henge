@@ -1,0 +1,39 @@
+---
+pattern: a_stic
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 29
+score: 1679870
+score_per_word: 88414
+hi_scored_words:
+  acoustic: 8002
+  acrostic: 88004
+  agnostic: 29057
+  altruistic: 40420
+  anachronistic: 59096
+  anaplastic: 94975
+  antagonistic: 33244
+  aphoristic: 97802
+  artistic: 4722
+  atavistic: 77250
+  atheistic: 57221
+  atomistic: 97320
+  autistic: 22879
+scored_words:
+  absolutistic: 174382
+  agonistic: 105017
+  amnestic: 193661
+  anapestic: 178563
+  anarchistic: 150140
+  animistic: 168115
+not_scored_words:
+- activistic
+- agrestic
+- annalistic
+- anomalistic
+- anticlastic
+- antimilitaristic
+- antimonopolistic
+- antiphlogistic
+- aoristic
+- archaistic

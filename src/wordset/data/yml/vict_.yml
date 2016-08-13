@@ -1,0 +1,40 @@
+---
+pattern: vict_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 30
+score: 976332
+score_per_word: 61020
+hi_scored_words:
+  victim: 3320
+  victimization: 40117
+  victimized: 40222
+  victims: 3257
+  victor: 4327
+  victoria: 3096
+  victories: 11838
+  victorious: 15711
+  victoriously: 88014
+  victors: 45003
+  victory: 2355
+  victuals: 76689
+scored_words:
+  victimize: 117296
+  victimizing: 193983
+  victimless: 132011
+  victual: 199093
+not_scored_words:
+- Victor
+- Victoria
+- Victorian
+- Victorianism
+- Victorians
+- Victrola
+- victimizer
+- victimizes
+- victoriousness
+- victualage
+- victualed
+- victualer
+- victualers
+- victualing

@@ -1,0 +1,30 @@
+---
+pattern: _bone
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 20
+score: 1600595
+score_per_word: 106706
+hi_scored_words:
+  backbone: 12663
+  bone: 2921
+  collarbone: 72630
+  herringbone: 55296
+  jawbone: 65756
+  shinbone: 75967
+  trombone: 24941
+  wishbone: 40242
+scored_words:
+  breastbone: 109824
+  cheekbone: 117616
+  hipbone: 251784
+  marrowbone: 271605
+  tailbone: 124595
+  thighbone: 235164
+  whalebone: 139591
+not_scored_words:
+- aitchbone
+- anklebone
+- cuttlebone
+- edgebone
+- knucklebone

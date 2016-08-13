@@ -1,0 +1,31 @@
+---
+pattern: h_sh
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 21
+score: 1349245
+score_per_word: 96374
+hi_scored_words:
+  hairbrush: 68858
+  harsh: 6517
+  hash: 12489
+  hashish: 55838
+  hawkish: 96092
+  hellish: 40526
+  hogwash: 69936
+  horseradish: 34820
+  hush: 12364
+scored_words:
+  hackish: 285305
+  hagfish: 153459
+  heathenish: 130664
+  hogfish: 282005
+  horseflesh: 100372
+not_scored_words:
+- Hunnish
+- haggish
+- heavyish
+- highish
+- hoggish
+- hoydenish
+- huffish

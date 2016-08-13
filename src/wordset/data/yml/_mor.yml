@@ -1,0 +1,22 @@
+---
+pattern: _mor
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 12
+score: 234931
+score_per_word: 29366
+hi_scored_words:
+  antitumor: 68131
+  armor: 6372
+  clamor: 43146
+  glamor: 67555
+  humor: 3261
+  rumor: 11237
+  tremor: 23229
+  tumor: 12000
+scored_words: {}
+not_scored_words:
+- Amor
+- Timor
+- enamor
+- termor

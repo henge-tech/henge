@@ -1,0 +1,50 @@
+---
+pattern: tor_s
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 40
+score: 2347241
+score_per_word: 97801
+hi_scored_words:
+  torches: 25547
+  torments: 54176
+  tornadoes: 33421
+  torpedoes: 41627
+  torques: 88480
+  torrents: 19071
+  tors: 41050
+  tortillas: 37991
+  tortious: 82370
+  tortoises: 52830
+  torts: 35982
+  tortuous: 47843
+  torturers: 91320
+  tortures: 43058
+  torturous: 87439
+  torus: 37896
+scored_words:
+  torahs: 318813
+  torchbearers: 203709
+  toreros: 174210
+  tormentors: 102042
+  torsions: 194396
+  torsos: 119688
+  tortes: 269143
+  torticollis: 145139
+not_scored_words:
+- Torahs
+- Tories
+- Torrens
+- Torres
+- Torvalds
+- toreadors
+- toreutics
+- torridness
+- torrs
+- torsionless
+- torsks
+- torticollises
+- tortoiseshells
+- tortricids
+- tortuosities
+- tortuousness

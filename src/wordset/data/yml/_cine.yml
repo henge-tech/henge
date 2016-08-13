@@ -1,0 +1,39 @@
+---
+pattern: _cine
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 29
+score: 1757351
+score_per_word: 97630
+hi_scored_words:
+  biomedicine: 71341
+  cine: 22355
+  colchicine: 66459
+  fettuccine: 91285
+  glycine: 32817
+  internecine: 93803
+  isoleucine: 82297
+  leucine: 41741
+  medicine: 1662
+  piscine: 59567
+  porcine: 41428
+  vaccine: 9708
+scored_words:
+  fascine: 205241
+  hircine: 200836
+  hyoscine: 267033
+  plasticine: 127878
+  putrescine: 149583
+  thylacine: 192317
+not_scored_words:
+- Francine
+- Plasticine
+- Racine
+- brucine
+- calcine
+- calycine
+- limacine
+- oscine
+- phocine
+- psittacine
+- soricine

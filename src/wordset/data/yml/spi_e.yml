@@ -1,0 +1,33 @@
+---
+pattern: spi_e
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 23
+score: 565833
+score_per_word: 51439
+hi_scored_words:
+  spice: 7891
+  spike: 10259
+  spillage: 57332
+  spindle: 16974
+  spine: 8582
+  spire: 22484
+  spite: 5219
+  spitfire: 27077
+  spittle: 71700
+scored_words:
+  spicule: 170594
+  spirochete: 167721
+not_scored_words:
+- Spillane
+- spicate
+- spiculate
+- spile
+- spillable
+- spinode
+- spinose
+- spinthariscope
+- spinule
+- spiracle
+- spireme
+- spiritualize

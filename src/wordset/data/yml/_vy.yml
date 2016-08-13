@@ -1,0 +1,46 @@
+---
+pattern: _vy
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 36
+score: 1198453
+score_per_word: 59922
+hi_scored_words:
+  anchovy: 54954
+  bevy: 53253
+  chevy: 14895
+  curvy: 40193
+  envy: 8743
+  gravy: 15647
+  groovy: 17751
+  heavy: 1127
+  ivy: 9186
+  levy: 8782
+  navy: 2935
+  privy: 20725
+  savvy: 14416
+  scurvy: 43852
+  wavy: 25177
+scored_words:
+  cavy: 112238
+  divvy: 157068
+  navvy: 175108
+  nervy: 145313
+  superheavy: 277090
+not_scored_words:
+- Chevy
+- Davy
+- Ivy
+- Levy
+- Livy
+- Muscovy
+- Navy
+- Ogilvy
+- bevvy
+- chivvy
+- chivy
+- dlvy
+- jivy
+- replevy
+- skivvy
+- tantivy

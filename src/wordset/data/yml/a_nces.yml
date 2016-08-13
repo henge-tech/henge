@@ -1,0 +1,39 @@
+---
+pattern: a_nces
+hi_scored_words_count: 17
+scored_words_count: 1
+total_words: 29
+score: 672586
+score_per_word: 37365
+hi_scored_words:
+  absences: 26472
+  abundances: 50148
+  acceptances: 61480
+  acquaintances: 23883
+  advances: 5378
+  allegiances: 77338
+  alliances: 13035
+  allowances: 13906
+  ambulances: 34709
+  announces: 7026
+  annoyances: 37493
+  appearances: 7217
+  appliances: 6605
+  appurtenances: 56851
+  assurances: 18072
+  attendances: 56106
+  audiences: 8914
+scored_words:
+  ambiances: 167953
+not_scored_words:
+- aberrances
+- absorptances
+- accidences
+- acquittances
+- adamances
+- admittances
+- adolescences
+- advertences
+- affiances
+- ambiences
+- appetences

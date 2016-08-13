@@ -1,0 +1,31 @@
+---
+pattern: actu_
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 21
+score: 1341258
+score_per_word: 70592
+hi_scored_words:
+  actual: 1362
+  actuality: 30592
+  actualization: 58543
+  actually: 747
+  actuarial: 25309
+  actuaries: 50437
+  actuary: 41146
+  actuate: 47876
+  actuated: 32895
+  actuating: 80842
+  actuation: 60985
+  actuator: 31434
+  actuators: 34344
+scored_words:
+  actualities: 136781
+  actualize: 110370
+  actualized: 107030
+  actualizing: 179188
+  actuarially: 145037
+  actuates: 166340
+not_scored_words:
+- actualizes
+- actuarily

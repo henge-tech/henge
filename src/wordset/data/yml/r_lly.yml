@@ -1,0 +1,60 @@
+---
+pattern: r_lly
+hi_scored_words_count: 18
+scored_words_count: 17
+total_words: 50
+score: 4486468
+score_per_word: 128184
+hi_scored_words:
+  racially: 30335
+  radially: 61249
+  radically: 16629
+  rally: 6265
+  rationally: 29993
+  realistically: 21997
+  really: 236
+  reciprocally: 89637
+  regionally: 29182
+  regretfully: 68222
+  respectfully: 12934
+  rhetorically: 79268
+  rhythmically: 68913
+  rightfully: 31783
+  rockabilly: 33671
+  romantically: 58593
+  royally: 64144
+  ruefully: 89768
+scored_words:
+  radiographically: 161681
+  radiologically: 188308
+  radiometrically: 114738
+  rascally: 156285
+  rectally: 217879
+  referentially: 266886
+  regally: 236213
+  relationally: 229783
+  relativistically: 322857
+  reproachfully: 154527
+  resentfully: 233879
+  residentially: 200926
+  residually: 310819
+  reverentially: 273789
+  ritualistically: 292517
+  ritually: 104095
+  robotically: 228467
+not_scored_words:
+- Reilly
+- rabbinically
+- radiationally
+- raptorially
+- rationalistically
+- remedially
+- remorsefully
+- reposefully
+- resourcefully
+- restfully
+- revengefully
+- rhapsodically
+- rheumatically
+- rurally
+- rustically

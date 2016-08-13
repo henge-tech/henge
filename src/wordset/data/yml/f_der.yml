@@ -1,0 +1,27 @@
+---
+pattern: f_der
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 17
+score: 755232
+score_per_word: 53945
+hi_scored_words:
+  fader: 37530
+  feeder: 18321
+  fender: 14326
+  fielder: 25997
+  finder: 12742
+  flounder: 33012
+  fodder: 21303
+  folder: 7420
+  fonder: 87753
+  forwarder: 69478
+  founder: 4649
+  freeholder: 97753
+scored_words:
+  flooder: 216086
+  freeloader: 108862
+not_scored_words:
+- Fassbinder
+- Finlander
+- faultfinder

@@ -1,0 +1,33 @@
+---
+pattern: f_nce
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 23
+score: 1005902
+score_per_word: 71850
+hi_scored_words:
+  fence: 5064
+  fiance: 28517
+  finance: 3254
+  flatulence: 50477
+  fluorescence: 16713
+  forbearance: 35421
+  fourpence: 83316
+  fragrance: 7117
+  freelance: 12042
+  furtherance: 35570
+scored_words:
+  faience: 106711
+  flamboyance: 181692
+  flounce: 119206
+  fraudulence: 320802
+not_scored_words:
+- Florence
+- France
+- faïence
+- feculence
+- flagrance
+- flocculence
+- florescence
+- forbiddance
+- frondescence

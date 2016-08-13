@@ -1,0 +1,42 @@
+---
+pattern: s_tive
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 32
+score: 1817609
+score_per_word: 79026
+hi_scored_words:
+  secretive: 31500
+  sedative: 37824
+  seductive: 20133
+  selective: 12989
+  sensitive: 2941
+  seropositive: 95872
+  speculative: 13793
+  sportive: 67535
+  subjective: 8687
+  subjunctive: 56293
+  substantive: 14833
+  subtractive: 89171
+  suggestive: 18264
+  summative: 62787
+  superlative: 37218
+  supportive: 7714
+scored_words:
+  seronegative: 121780
+  significative: 204630
+  stative: 105805
+  stimulative: 217600
+  substitutive: 279932
+  superconductive: 198312
+  suppurative: 111996
+not_scored_words:
+- sanative
+- segregative
+- separative
+- siccative
+- simulative
+- subordinative
+- supersensitive
+- suppositive
+- susceptive

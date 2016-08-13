@@ -1,0 +1,25 @@
+---
+pattern: doz_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 917882
+score_per_word: 83443
+hi_scored_words:
+  doz: 57968
+  doze: 49386
+  dozed: 76958
+  dozen: 3489
+  dozens: 8302
+  dozer: 59693
+  dozier: 62028
+  dozing: 65404
+scored_words:
+  dozers: 135542
+  dozes: 257523
+  dozy: 141589
+not_scored_words:
+- dozenth
+- doziest
+- dozily
+- doziness

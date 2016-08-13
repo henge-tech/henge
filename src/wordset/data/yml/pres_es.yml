@@ -1,0 +1,25 @@
+---
+pattern: pres_es
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 15
+score: 952074
+score_per_word: 73236
+hi_scored_words:
+  prescribes: 37707
+  presences: 86302
+  preservatives: 34001
+  preserves: 15196
+  presides: 57868
+  presses: 11966
+  pressures: 12368
+  presumes: 53591
+  presupposes: 46107
+scored_words:
+  presages: 189179
+  presbyteries: 125676
+  presidencies: 104499
+  pressies: 177614
+not_scored_words:
+- presentnesses
+- pressurizes

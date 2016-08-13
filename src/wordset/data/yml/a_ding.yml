@@ -1,0 +1,33 @@
+---
+pattern: a_ding
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 23
+score: 928062
+score_per_word: 46403
+hi_scored_words:
+  abiding: 19087
+  abounding: 53320
+  acceding: 70576
+  according: 622
+  adding: 2394
+  affording: 37143
+  aiding: 19326
+  alluding: 54028
+  amending: 21514
+  appending: 57623
+  applauding: 60141
+  apprehending: 83142
+  ascending: 9041
+  astounding: 18609
+  attending: 4517
+  avoiding: 7060
+  awarding: 26982
+scored_words:
+  abrading: 156945
+  absconding: 119120
+  arcading: 106872
+not_scored_words:
+- aggrading
+- ambuscading
+- anteceding

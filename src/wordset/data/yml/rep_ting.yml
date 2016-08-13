@@ -1,0 +1,23 @@
+---
+pattern: rep_ting
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 903889
+score_per_word: 82171
+hi_scored_words:
+  repainting: 79395
+  repeating: 9078
+  repenting: 95002
+  replanting: 80820
+  replicating: 36504
+  reporting: 4711
+  representing: 3911
+  reprinting: 55235
+scored_words:
+  repatriating: 143665
+  repopulating: 269783
+  repudiating: 125785
+not_scored_words:
+- repleting
+- reputing

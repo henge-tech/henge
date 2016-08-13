@@ -1,0 +1,35 @@
+---
+pattern: rev_d
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 25
+score: 1152990
+score_per_word: 52408
+hi_scored_words:
+  revamped: 30943
+  revealed: 2996
+  revered: 27155
+  reverend: 10526
+  reversed: 9906
+  reverted: 18182
+  reviewed: 4113
+  reviled: 64232
+  revised: 5374
+  revisited: 20038
+  revitalized: 56361
+  revived: 14796
+  revoked: 19760
+  revolted: 58747
+  revolutionized: 45011
+  revolved: 44889
+  revved: 76095
+scored_words:
+  revalued: 111361
+  reveled: 101699
+  revenged: 134854
+  reverberated: 104070
+  reverenced: 191882
+not_scored_words:
+- Reverend
+- revetted
+- revivified

@@ -1,0 +1,33 @@
+---
+pattern: stup_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 23
+score: 1418907
+score_per_word: 94593
+hi_scored_words:
+  stupa: 65172
+  stupefy: 78321
+  stupendous: 26900
+  stupid: 2713
+  stupider: 77523
+  stupidest: 53516
+  stupidity: 13385
+  stupidly: 36993
+  stupor: 43936
+scored_words:
+  stupefaction: 163950
+  stupefied: 108920
+  stupefying: 159571
+  stupendously: 234050
+  stupidities: 155573
+  stupids: 198384
+not_scored_words:
+- stupe
+- stupefacient
+- stupefier
+- stupefies
+- stupefyingly
+- stupidness
+- stuporous
+- stupors

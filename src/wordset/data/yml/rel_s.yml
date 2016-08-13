@@ -1,0 +1,57 @@
+---
+pattern: rel_s
+hi_scored_words_count: 22
+scored_words_count: 11
+total_words: 47
+score: 2652568
+score_per_word: 80380
+hi_scored_words:
+  relapses: 70926
+  relatedness: 58115
+  relates: 6838
+  relations: 1164
+  relationships: 4148
+  relatives: 5193
+  relaxants: 69264
+  relaxers: 94613
+  relaxes: 46898
+  relays: 21548
+  releases: 8568
+  relentless: 16896
+  relics: 20912
+  reliefs: 45854
+  relies: 13599
+  relievers: 51141
+  relieves: 33673
+  religions: 6924
+  religious: 1233
+  relishes: 75416
+  reloads: 59893
+  relocates: 95826
+scored_words:
+  relativists: 203151
+  relaunches: 174345
+  relaxations: 100657
+  relegates: 181960
+  relentlessness: 292535
+  relents: 165798
+  reliabilities: 153431
+  religionists: 101866
+  religiousness: 200878
+  relinquishes: 128677
+  relives: 140628
+not_scored_words:
+- relabels
+- relaters
+- relativeness
+- relativizes
+- relearns
+- reliableness
+- reliablenesses
+- relicts
+- relights
+- religiosities
+- relines
+- reliquaries
+- relists
+- reluctivities

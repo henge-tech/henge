@@ -1,0 +1,38 @@
+---
+pattern: trap_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 28
+score: 1708310
+score_per_word: 100488
+hi_scored_words:
+  trap: 4885
+  trapdoor: 67613
+  trapeze: 42983
+  trapezoid: 61666
+  trapezoidal: 63043
+  trapped: 10054
+  trapper: 32443
+  trappers: 52124
+  trapping: 20946
+  trappings: 37466
+  traps: 10322
+scored_words:
+  trapezes: 238955
+  trapezium: 113140
+  trapezius: 136487
+  trapezoids: 216752
+  traprock: 312102
+  trapshooting: 287329
+not_scored_words:
+- Trapani
+- Trappist
+- Trappists
+- trapan
+- trapdoors
+- trapes
+- trapeziform
+- trapeziums
+- trapezohedron
+- trapezohedrons
+- trappable

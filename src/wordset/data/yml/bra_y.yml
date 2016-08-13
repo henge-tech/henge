@@ -1,0 +1,35 @@
+---
+pattern: bra_y
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 25
+score: 702955
+score_per_word: 70295
+hi_scored_words:
+  brainy: 44785
+  brandy: 10329
+  brassy: 73589
+  bravely: 23894
+  bravery: 16892
+  brawny: 69270
+  bray: 20166
+  brazenly: 96844
+scored_words:
+  brambly: 242881
+  bratty: 104305
+not_scored_words:
+- Bradbury
+- Bradley
+- Bradly
+- Brady
+- Brandy
+- Bray
+- brachycephaly
+- brachylogy
+- bracingly
+- brainlessly
+- branny
+- brashly
+- brashy
+- brassily
+- braxy

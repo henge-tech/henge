@@ -1,0 +1,23 @@
+---
+pattern: sub_ted
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 13
+score: 747754
+score_per_word: 62312
+hi_scored_words:
+  subcontracted: 78163
+  subjected: 7812
+  subjugated: 71960
+  submitted: 2159
+  subordinated: 31681
+  substantiated: 40292
+  substituted: 10361
+  subtracted: 36925
+  subverted: 72103
+scored_words:
+  subducted: 179319
+  sublimated: 100772
+  subsisted: 116207
+not_scored_words:
+- subedited

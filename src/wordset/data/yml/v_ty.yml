@@ -1,0 +1,60 @@
+---
+pattern: v_ty
+hi_scored_words_count: 25
+scored_words_count: 9
+total_words: 50
+score: 2142942
+score_per_word: 63027
+hi_scored_words:
+  validity: 8246
+  vanity: 7114
+  variability: 13836
+  variety: 1300
+  varsity: 11211
+  velocity: 5987
+  velvety: 45384
+  veracity: 31927
+  verbosity: 55877
+  verity: 29667
+  versatility: 20804
+  viability: 17682
+  viceroyalty: 40717
+  vicinity: 7768
+  virginity: 25571
+  virility: 43145
+  virtuosity: 60934
+  viscosity: 19604
+  visibility: 16135
+  vitality: 14221
+  vivacity: 63533
+  volatility: 14795
+  vorticity: 55424
+  vulgarity: 46291
+  vulnerability: 10255
+scored_words:
+  vacuity: 150183
+  vascularity: 122970
+  vasty: 214899
+  venality: 165769
+  verifiability: 145604
+  verticality: 181403
+  virtuality: 123451
+  volubility: 123601
+  voracity: 247634
+not_scored_words:
+- vapidity
+- varicosity
+- vaulty
+- velleity
+- venerability
+- veniality
+- venosity
+- verbality
+- veridicality
+- vernacularity
+- villosity
+- vinosity
+- viridity
+- viscidity
+- viscounty
+- viviparity

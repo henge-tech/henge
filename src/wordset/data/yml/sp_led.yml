@@ -1,0 +1,24 @@
+---
+pattern: sp_led
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 14
+score: 957119
+score_per_word: 79759
+hi_scored_words:
+  spangled: 41193
+  sparkled: 66525
+  speckled: 37963
+  spelled: 15423
+  spilled: 21453
+  spoiled: 12433
+  sprawled: 60929
+  sprinkled: 28886
+scored_words:
+  spectacled: 105336
+  spindled: 331714
+  spiraled: 118275
+  spooled: 116989
+not_scored_words:
+- spieled
+- spreadeagled

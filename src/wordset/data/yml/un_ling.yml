@@ -1,0 +1,37 @@
+---
+pattern: un_ling
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 27
+score: 2017563
+score_per_word: 112086
+hi_scored_words:
+  unappealing: 78203
+  unavailing: 69884
+  uncoupling: 98200
+  underling: 96930
+  unfailing: 61294
+  unfeeling: 71352
+  uninstalling: 50105
+  unraveling: 52171
+  unrolling: 99700
+  unsettling: 37054
+  untangling: 95735
+  unveiling: 35295
+  unwilling: 11435
+scored_words:
+  underselling: 291900
+  unfulfilling: 170033
+  unfurling: 158628
+  unscrambling: 325588
+  unsmiling: 214056
+not_scored_words:
+- unbuckling
+- uncoiling
+- uncurling
+- unreeling
+- unsaddling
+- unsealing
+- unshackling
+- unsling
+- unsnarling

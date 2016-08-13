@@ -1,0 +1,51 @@
+---
+pattern: wa_rs
+hi_scored_words_count: 22
+scored_words_count: 5
+total_words: 41
+score: 1452732
+score_per_word: 53804
+hi_scored_words:
+  waders: 48091
+  wafers: 35958
+  wagers: 51115
+  wailers: 57900
+  waiters: 29169
+  waivers: 22614
+  walkers: 27522
+  wallflowers: 79369
+  wallpapers: 9510
+  wanderers: 24094
+  wanders: 36221
+  wankers: 70731
+  warblers: 56752
+  warmers: 33388
+  warriors: 5308
+  wars: 2307
+  washers: 22355
+  wasters: 73882
+  watchers: 19574
+  watercolors: 39966
+  waters: 2500
+  wavers: 89867
+scored_words:
+  warders: 116782
+  warmongers: 118058
+  watchmakers: 112818
+  watchtowers: 151937
+  wayfarers: 114944
+not_scored_words:
+- Walters
+- Waters
+- wafflers
+- wagerers
+- wagoners
+- walkovers
+- waltzers
+- wanglers
+- warehousers
+- warrantors
+- warreners
+- wassailers
+- waverers
+- waylayers

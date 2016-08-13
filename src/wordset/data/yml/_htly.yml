@@ -1,0 +1,25 @@
+---
+pattern: _htly
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 15
+score: 1059772
+score_per_word: 75698
+hi_scored_words:
+  brightly: 15156
+  fortnightly: 40278
+  knightly: 54953
+  lightly: 6689
+  nightly: 10514
+  rightly: 10690
+  slightly: 1744
+  sprightly: 58632
+  tightly: 8407
+  unsightly: 38500
+scored_words:
+  forthrightly: 152375
+  sightly: 267200
+  straightly: 174590
+  uprightly: 220044
+not_scored_words:
+- unknightly

@@ -1,0 +1,52 @@
+---
+pattern: t_et
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 42
+score: 2039147
+score_per_word: 84964
+hi_scored_words:
+  tablet: 6553
+  target: 3639
+  telnet: 25471
+  tenet: 27118
+  thicket: 38487
+  ticket: 3186
+  tippet: 81609
+  toilet: 5330
+  tourniquet: 48662
+  trebuchet: 54144
+  trinket: 34468
+  triplet: 31794
+  trivet: 74991
+  trumpet: 8580
+  turret: 22714
+  tweet: 45733
+  typeset: 53805
+scored_words:
+  tappet: 129556
+  tartlet: 225634
+  thickset: 178768
+  triolet: 319478
+  tucket: 258654
+  turbojet: 117973
+  twinset: 242800
+not_scored_words:
+- TELNET
+- Target
+- Tebet
+- Tet
+- Tevet
+- Thanet
+- Tibet
+- Tophet
+- tabaret
+- taboret
+- tabret
+- tacet
+- tacket
+- tasset
+- tercet
+- terret
+- tret
+- trippet

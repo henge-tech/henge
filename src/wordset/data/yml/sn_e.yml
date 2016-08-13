@@ -1,0 +1,33 @@
+---
+pattern: sn_e
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 23
+score: 1189560
+score_per_word: 69974
+hi_scored_words:
+  snaffle: 93326
+  snake: 5117
+  snakebite: 91944
+  snare: 16729
+  sneeze: 32816
+  snide: 48196
+  sniffle: 88482
+  snipe: 32476
+  snooze: 30393
+  snore: 38198
+  snowflake: 25297
+  snowmobile: 28183
+  snowshoe: 39287
+  snuffle: 65891
+  snuggle: 34586
+scored_words:
+  snakelike: 298737
+  snowline: 219902
+not_scored_words:
+- Snake
+- Snapple
+- sniggle
+- sniperscope
+- snooperscope
+- snowslide

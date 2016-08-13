@@ -1,0 +1,39 @@
+---
+pattern: p_to
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 29
+score: 971588
+score_per_word: 69399
+hi_scored_words:
+  palmetto: 34617
+  panto: 61766
+  perfecto: 53670
+  pesto: 36473
+  photo: 6655
+  pinto: 27131
+  pizzicato: 74439
+  potato: 6863
+  presto: 26743
+  pronto: 25889
+  prosciutto: 65972
+scored_words:
+  pimento: 103017
+  pimiento: 214791
+  portamento: 233562
+not_scored_words:
+- PTO
+- Papiamento
+- Pareto
+- Pashto
+- Pasto
+- Plato
+- Pluto
+- Porto
+- Prato
+- Puerto
+- Pôrto
+- pentimento
+- potto
+- pronunciamento
+- putto

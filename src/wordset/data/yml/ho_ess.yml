@@ -1,0 +1,38 @@
+---
+pattern: ho_ess
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 28
+score: 1400452
+score_per_word: 87528
+hi_scored_words:
+  hoarseness: 91429
+  holiness: 13990
+  homeless: 8003
+  homelessness: 19830
+  homesickness: 72113
+  hopeless: 12250
+  hopelessness: 40152
+  hostess: 16527
+  hotness: 62909
+  houseless: 81703
+scored_words:
+  hollowness: 144754
+  homeliness: 140150
+  hopefulness: 131066
+  horniness: 246342
+  hornless: 168623
+  horseless: 150611
+not_scored_words:
+- Holiness
+- Hovhaness
+- hoariness
+- homeyness
+- hominess
+- homogeneousness
+- honorableness
+- horribleness
+- horridness
+- horsiness
+- hotheadedness
+- housemistress

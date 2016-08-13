@@ -1,0 +1,43 @@
+---
+pattern: l_nt
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 33
+score: 1017811
+score_per_word: 56545
+hi_scored_words:
+  lakefront: 44111
+  lament: 19371
+  latent: 13207
+  lenient: 36559
+  lent: 10508
+  levant: 36291
+  lieutenant: 6057
+  ligament: 29873
+  lint: 25506
+  litigant: 63632
+  lodgment: 98020
+  lubricant: 22902
+  lucent: 33681
+  luminescent: 51021
+  luxuriant: 49106
+scored_words:
+  lambent: 154473
+  lineament: 181082
+  liniment: 142411
+not_scored_words:
+- L'Enfant
+- Lamont
+- Laurent
+- Lent
+- Levant
+- Lieutenant
+- Lorient
+- labyrinthodont
+- lactescent
+- languishment
+- libelant
+- liquefacient
+- liquescent
+- loment
+- luculent

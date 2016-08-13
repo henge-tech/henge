@@ -1,0 +1,31 @@
+---
+pattern: na_l
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 21
+score: 748339
+score_per_word: 53452
+hi_scored_words:
+  nail: 5437
+  narwhal: 66783
+  nasal: 13270
+  natal: 13981
+  national: 377
+  natl: 15457
+  natural: 483
+  nautical: 13979
+  naval: 4354
+  navel: 23735
+  navigational: 20587
+scored_words:
+  nagual: 248576
+  naphthol: 133837
+  naphthyl: 187483
+not_scored_words:
+- Nahuatl
+- Naipaul
+- Natal
+- Nathanael
+- Nathaniel
+- narial
+- natatorial

@@ -1,0 +1,44 @@
+---
+pattern: dial_
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 34
+score: 1303351
+score_per_word: 68597
+hi_scored_words:
+  dial: 7078
+  dialect: 14222
+  dialectic: 35262
+  dialectical: 42794
+  dialectics: 63545
+  dialects: 20606
+  dialed: 32311
+  dialer: 41549
+  dialing: 19145
+  dialog: 10436
+  dialogue: 4725
+  dialogues: 23240
+  dials: 30475
+  dialysis: 20616
+scored_words:
+  dialectal: 112923
+  dialectically: 231232
+  dialectology: 177884
+  dialyzed: 150974
+  dialyzer: 264334
+not_scored_words:
+- Dial
+- dialectician
+- dialecticians
+- dialecticism
+- dialectologist
+- dialings
+- diallage
+- dialogism
+- dialogist
+- dialogize
+- dialyses
+- dialytic
+- dialyze
+- dialyzes
+- dialyzing

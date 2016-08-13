@@ -1,0 +1,60 @@
+---
+pattern: t_ks
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 50
+score: 2828754
+score_per_word: 91250
+hi_scored_words:
+  tacks: 40297
+  talks: 3531
+  tanks: 7409
+  tasks: 3630
+  textbooks: 13628
+  thanks: 846
+  thinks: 2972
+  ticks: 26698
+  toothpicks: 61717
+  tracks: 3070
+  trademarks: 4932
+  treks: 48990
+  tricks: 4570
+  trucks: 6933
+  trunks: 13423
+  tucks: 54340
+  turtlenecks: 98478
+  tusks: 62393
+  tweaks: 21946
+  twinks: 32687
+scored_words:
+  tailbacks: 289381
+  tenterhooks: 237920
+  throwbacks: 105571
+  thumbtacks: 255320
+  thunks: 241385
+  tiddlywinks: 228169
+  tiebacks: 122157
+  timeworks: 168490
+  tomahawks: 115442
+  touchbacks: 270444
+  tussocks: 281985
+not_scored_words:
+- Tadzhiks
+- Tajiks
+- Turks
+- tailstocks
+- tamaracks
+- tamarisks
+- teaks
+- thwacks
+- ticktacks
+- ticktocks
+- tidemarks
+- tiebreaks
+- tinworks
+- titlarks
+- torsks
+- trestleworks
+- tughriks
+- tugriks
+- twerks

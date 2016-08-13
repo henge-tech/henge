@@ -1,0 +1,28 @@
+---
+pattern: end_e
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 969150
+score_per_word: 80762
+hi_scored_words:
+  endgame: 39928
+  endive: 69954
+  endnote: 54769
+  endocrine: 26224
+  endorse: 15123
+  endoscope: 79813
+  endurance: 9945
+  endure: 9873
+scored_words:
+  endopeptidase: 116226
+  endophyte: 230335
+  endue: 205333
+  endurable: 111627
+not_scored_words:
+- endamage
+- endoenzyme
+- endoparasite
+- endorsable
+- endorsee
+- endospore

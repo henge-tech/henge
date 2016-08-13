@@ -1,0 +1,47 @@
+---
+pattern: spac_
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 37
+score: 1600996
+score_per_word: 69608
+hi_scored_words:
+  space: 541
+  spacecraft: 14335
+  spaced: 20676
+  spaceflight: 44843
+  spaceman: 56105
+  spaceport: 69833
+  spacer: 27398
+  spacers: 40349
+  spaces: 4353
+  spaceship: 27332
+  spaceships: 55663
+  spacesuit: 99789
+  spacewalk: 99008
+  spacey: 40853
+  spacial: 92293
+  spacing: 12193
+  spacings: 77405
+  spacious: 8352
+scored_words:
+  spacecrafts: 200714
+  spacemen: 101829
+  spacesuits: 199513
+  spacewalks: 203240
+  spaciousness: 104379
+not_scored_words:
+- Spackle
+- spaceband
+- spaceflights
+- spaceless
+- spaceports
+- spacewalked
+- spacewalker
+- spacewalking
+- spacewoman
+- spacewomen
+- spacier
+- spaciest
+- spaciness
+- spaciously

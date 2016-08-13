@@ -1,0 +1,32 @@
+---
+pattern: ad_ns
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 738876
+score_per_word: 56836
+hi_scored_words:
+  adaptations: 21701
+  addictions: 25249
+  additions: 4557
+  adjoins: 79381
+  administrations: 23138
+  admins: 16095
+  admissions: 10048
+  admonitions: 80736
+  adoptions: 32597
+  adorns: 74852
+scored_words:
+  adaptions: 139854
+  adjourns: 119435
+  adjudications: 111233
+not_scored_words:
+- Adkins
+- Adrenalins
+- adductions
+- adjunctions
+- adjurations
+- adsorptions
+- adulterations
+- advections
+- advowsons

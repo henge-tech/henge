@@ -1,0 +1,26 @@
+---
+pattern: so_ty
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 16
+score: 677587
+score_per_word: 52122
+hi_scored_words:
+  sobriety: 28829
+  sociability: 77926
+  society: 489
+  softy: 94735
+  solemnity: 42912
+  solidarity: 13221
+  solidity: 49064
+  solubility: 24028
+  sooty: 45332
+  sorority: 18621
+  sovereignty: 8723
+scored_words:
+  sociality: 114985
+  sonority: 158722
+not_scored_words:
+- Society
+- Solidarity
+- sodality

@@ -1,0 +1,38 @@
+---
+pattern: evo_
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 28
+score: 1563880
+score_per_word: 74470
+hi_scored_words:
+  evocation: 56286
+  evocative: 34057
+  evoke: 24325
+  evoked: 23149
+  evokes: 40248
+  evoking: 55740
+  evolution: 3006
+  evolutionarily: 77894
+  evolutionary: 12921
+  evolutionist: 86027
+  evolutionists: 67167
+  evolutions: 47656
+  evolve: 13968
+  evolved: 8070
+  evolves: 33210
+  evolving: 14896
+scored_words:
+  evocations: 172486
+  evocatively: 294007
+  evolutionism: 141014
+  evolvable: 206969
+  evolvement: 150784
+not_scored_words:
+- Evora
+- evocable
+- evocativeness
+- evocator
+- evoker
+- evolute
+- evonymus

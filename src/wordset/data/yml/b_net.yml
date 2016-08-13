@@ -1,0 +1,28 @@
+---
+pattern: b_net
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 18
+score: 627588
+score_per_word: 62758
+hi_scored_words:
+  baronet: 43227
+  bassinet: 52439
+  bayonet: 25022
+  bennet: 31275
+  bluebonnet: 67183
+  bonnet: 16206
+  botnet: 82409
+  brunet: 62352
+  burnet: 34631
+scored_words:
+  bascinet: 212844
+not_scored_words:
+- BITNET
+- Barnet
+- Benet
+- Burnet
+- ballonet
+- basinet
+- bobbinet
+- burgonet

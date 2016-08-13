@@ -1,0 +1,46 @@
+---
+pattern: rep_y
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 36
+score: 1520504
+score_per_word: 89441
+hi_scored_words:
+  repay: 18610
+  repeatability: 56723
+  repeatedly: 6474
+  repertory: 29800
+  replay: 15334
+  reply: 654
+  reportedly: 14653
+  repository: 12928
+  reproducibility: 43233
+  reputedly: 72920
+scored_words:
+  repellency: 223212
+  repetitively: 107131
+  replicability: 193297
+  reproachfully: 154527
+  reproducibly: 198349
+  reproductively: 183510
+  reprovingly: 189149
+not_scored_words:
+- reparably
+- reparatory
+- repeatably
+- repellently
+- repellingly
+- repentantly
+- repetitiously
+- replevy
+- reposefully
+- reprehensibility
+- reprehensibly
+- representatively
+- repressively
+- reproachingly
+- reprography
+- repugnantly
+- repulsively
+- reputability
+- reputably

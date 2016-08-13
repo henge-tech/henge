@@ -1,0 +1,20 @@
+---
+pattern: _tr
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 10
+score: 402372
+score_per_word: 44708
+hi_scored_words:
+  astr: 80776
+  constr: 36372
+  contr: 57659
+  ctr: 20530
+  distr: 77363
+  instr: 44771
+  intr: 63751
+  str: 14267
+  tr: 6883
+scored_words: {}
+not_scored_words:
+- Pyotr

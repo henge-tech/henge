@@ -1,0 +1,24 @@
+---
+pattern: tank_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 649375
+score_per_word: 64937
+hi_scored_words:
+  tank: 4160
+  tanka: 76448
+  tankard: 44953
+  tankards: 99040
+  tanked: 71057
+  tanker: 19720
+  tankers: 32263
+  tanking: 87291
+  tanks: 7409
+scored_words:
+  tankage: 207034
+not_scored_words:
+- tankages
+- tankas
+- tankful
+- tankfuls

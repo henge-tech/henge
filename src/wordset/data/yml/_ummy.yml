@@ -1,0 +1,22 @@
+---
+pattern: _ummy
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 748231
+score_per_word: 68021
+hi_scored_words:
+  crummy: 52993
+  dummy: 13572
+  gummy: 44082
+  mummy: 13427
+  rummy: 40523
+  scummy: 92805
+  tummy: 17715
+  yummy: 15309
+scored_words:
+  chummy: 117082
+  plummy: 216825
+  thingummy: 123898
+not_scored_words:
+- slummy

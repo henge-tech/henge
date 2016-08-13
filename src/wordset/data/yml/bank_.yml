@@ -1,0 +1,38 @@
+---
+pattern: bank_
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 28
+score: 1559516
+score_per_word: 74262
+hi_scored_words:
+  bank: 688
+  banked: 26188
+  banker: 11553
+  bankers: 12660
+  banking: 3824
+  banknote: 53814
+  banknotes: 38392
+  bankroll: 34142
+  bankrupt: 15352
+  bankruptcies: 28733
+  bankruptcy: 6832
+  banks: 1823
+  banksia: 55972
+scored_words:
+  bankable: 118140
+  bankcard: 116051
+  bankrolled: 143961
+  bankrolling: 210724
+  bankrolls: 297094
+  bankrupted: 107310
+  bankrupting: 136194
+  bankrupts: 140069
+not_scored_words:
+- Banka
+- Banks
+- bankbook
+- bankbooks
+- bankcards
+- banket
+- banksias

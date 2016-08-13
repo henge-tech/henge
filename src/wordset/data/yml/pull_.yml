@@ -1,0 +1,34 @@
+---
+pattern: pull_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 24
+score: 1346489
+score_per_word: 84155
+hi_scored_words:
+  pull: 2322
+  pullback: 83261
+  pulled: 3041
+  puller: 47477
+  pullers: 84978
+  pulley: 23821
+  pulleys: 40344
+  pulling: 5428
+  pullout: 47946
+  pullover: 34865
+  pullovers: 90035
+  pulls: 9791
+scored_words:
+  pullbacks: 284294
+  pullet: 130382
+  pullets: 150497
+  pullouts: 308007
+not_scored_words:
+- Pullman
+- Pullmans
+- pullulate
+- pullulated
+- pullulates
+- pullulating
+- pullulation
+- pullulations

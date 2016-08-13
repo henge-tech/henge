@@ -1,0 +1,77 @@
+---
+pattern: una_ed
+hi_scored_words_count: 27
+scored_words_count: 20
+total_words: 67
+score: 4499167
+score_per_word: 95726
+hi_scored_words:
+  unabashed: 54670
+  unabated: 45309
+  unabridged: 30231
+  unaccompanied: 35683
+  unaccounted: 51005
+  unaccustomed: 67142
+  unacknowledged: 70420
+  unadjusted: 67863
+  unadorned: 79059
+  unadulterated: 52992
+  unaffected: 19584
+  unaffiliated: 49100
+  unaided: 43303
+  unallocated: 73885
+  unaltered: 30886
+  unannounced: 47223
+  unanswered: 19497
+  unanticipated: 40612
+  unappreciated: 69206
+  unapproved: 54423
+  unarmed: 22637
+  unashamed: 80492
+  unassigned: 42672
+  unassisted: 43841
+  unattached: 31717
+  unattended: 23394
+  unauthorized: 13767
+scored_words:
+  unabsorbed: 216842
+  unaccented: 150360
+  unaccepted: 231363
+  unaccredited: 186954
+  unacquainted: 103758
+  unaddressed: 101706
+  unadvertised: 148251
+  unaligned: 106496
+  unalloyed: 103105
+  unamended: 193653
+  unanchored: 268772
+  unannotated: 113776
+  unappropriated: 130136
+  unarmored: 224166
+  unarticulated: 239934
+  unasked: 113530
+  unassociated: 191972
+  unattributed: 152845
+  unaudited: 102260
+  unauthenticated: 158675
+not_scored_words:
+- unabbreviated
+- unacclimatized
+- unaccomplished
+- unadapted
+- unadvised
+- unallied
+- unalphabetized
+- unamused
+- unaneled
+- unappeased
+- unassailed
+- unassimilated
+- unassuaged
+- unattained
+- unattempted
+- unattenuated
+- unattested
+- unavenged
+- unavowed
+- unawakened

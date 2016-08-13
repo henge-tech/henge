@@ -1,0 +1,43 @@
+---
+pattern: pal_e
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 33
+score: 1733190
+score_per_word: 91220
+hi_scored_words:
+  palace: 2587
+  palatable: 34437
+  palate: 16867
+  palatinate: 68235
+  palatine: 25391
+  pale: 4666
+  palette: 15781
+  palindrome: 74343
+  palisade: 42826
+  palliative: 23280
+  palmitate: 90369
+  palpable: 27570
+scored_words:
+  paleface: 160111
+  pallette: 135347
+  palliate: 154945
+  palmate: 263725
+  palpate: 215893
+  palpitate: 145397
+  palstave: 231420
+not_scored_words:
+- Palaeogene
+- Palatinate
+- Palenque
+- Paleocene
+- Paleogene
+- Palestine
+- Palmolive
+- palatalize
+- palestrae
+- palinode
+- palliasse
+- palmette
+- palpebrate
+- palsgrave

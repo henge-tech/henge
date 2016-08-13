@@ -1,0 +1,40 @@
+---
+pattern: good_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 30
+score: 1061404
+score_per_word: 66337
+hi_scored_words:
+  good: 96
+  goodbye: 11368
+  goodbyes: 51658
+  goodie: 36171
+  goodies: 11910
+  goodly: 36514
+  goodman: 12437
+  goodness: 6963
+  goodnight: 23864
+  goods: 1344
+  goodwill: 12783
+  goody: 25939
+scored_words:
+  goodby: 137812
+  goodhearted: 295006
+  goodliest: 243154
+  goodwife: 154385
+not_scored_words:
+- Good
+- Goodall
+- Goodman
+- Goodrich
+- Goodwill
+- Goodwin
+- Goodyear
+- goodbys
+- goodheartedly
+- goodheartedness
+- goodhumored
+- goodish
+- goodlier
+- goodliness

@@ -1,0 +1,44 @@
+---
+pattern: bef_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 34
+score: 2271511
+score_per_word: 113575
+hi_scored_words:
+  befall: 42478
+  befallen: 54100
+  befalls: 96434
+  befell: 53075
+  befits: 78575
+  befitting: 54448
+  before: 120
+  beforehand: 12532
+  befriend: 46488
+  befriended: 50552
+  befriending: 78700
+  befriends: 65060
+  befuddled: 87824
+scored_words:
+  befalling: 275290
+  befit: 129104
+  befitted: 211201
+  befooled: 295289
+  befoul: 143040
+  befuddle: 176103
+  befuddlement: 321098
+not_scored_words:
+- befittingly
+- befog
+- befogged
+- befogging
+- befogs
+- befool
+- befooling
+- befools
+- beforetime
+- befouled
+- befouling
+- befouls
+- befuddles
+- befuddling

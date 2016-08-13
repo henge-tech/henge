@@ -1,0 +1,27 @@
+---
+pattern: fi_h
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 17
+score: 432320
+score_per_word: 36026
+hi_scored_words:
+  fiendish: 51551
+  fifteenth: 18310
+  fifth: 2947
+  fiftieth: 44197
+  filth: 13476
+  finch: 18824
+  finish: 1915
+  firth: 26663
+  fish: 1051
+  fitch: 23136
+scored_words:
+  filch: 121602
+  finfish: 108648
+not_scored_words:
+- Finch
+- Finnish
+- Fitch
+- filefish
+- fingerbreadth

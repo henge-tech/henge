@@ -1,0 +1,47 @@
+---
+pattern: d_ngs
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 37
+score: 1857212
+score_per_word: 92860
+hi_scored_words:
+  darlings: 44855
+  dealings: 19459
+  dings: 47298
+  doings: 35854
+  dongs: 48801
+  drawings: 8217
+  dressings: 30140
+  drippings: 90059
+  droppings: 42264
+  ducklings: 74680
+  dumplings: 38778
+  dwellings: 17877
+scored_words:
+  debriefings: 181921
+  diggings: 107044
+  diphthongs: 132338
+  doublings: 234497
+  drawstrings: 239171
+  drillings: 177218
+  drownings: 124435
+  dugongs: 162306
+not_scored_words:
+- dangs
+- darnings
+- dawnings
+- daysprings
+- deadenings
+- dialings
+- dingdongs
+- downswings
+- drinkings
+- drivings
+- drubbings
+- dubbings
+- duckings
+- duelings
+- dumpings
+- dungs
+- dyeings

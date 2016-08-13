@@ -1,0 +1,39 @@
+---
+pattern: r_ries
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 29
+score: 1648650
+score_per_word: 91591
+hi_scored_words:
+  raspberries: 33722
+  reactionaries: 98818
+  recoveries: 35597
+  refineries: 30286
+  refractories: 85488
+  registries: 31682
+  repositories: 30376
+  reveries: 87254
+  revolutionaries: 39554
+  rivalries: 39904
+  robberies: 35710
+  rosaries: 67993
+scored_words:
+  reformatories: 228790
+  remarries: 124066
+  retries: 103289
+  rookeries: 193011
+  rotaries: 246591
+  rotisseries: 136519
+not_scored_words:
+- radiochemistries
+- railleries
+- reburies
+- rectories
+- rediscoveries
+- reentries
+- refectories
+- reliquaries
+- repertories
+- revelries
+- rockeries

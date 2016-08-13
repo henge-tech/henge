@@ -1,0 +1,37 @@
+---
+pattern: a_ned
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 27
+score: 1477542
+score_per_word: 70359
+hi_scored_words:
+  abandoned: 4500
+  abstained: 41768
+  adjoined: 94102
+  adjourned: 17171
+  adorned: 18714
+  aforementioned: 23855
+  aligned: 10492
+  apportioned: 43273
+  arraigned: 64672
+  ascertained: 19595
+  assigned: 2630
+  attained: 8775
+  attuned: 47153
+  auctioned: 33636
+  auditioned: 62762
+  awakened: 17096
+scored_words:
+  accessioned: 213919
+  appertained: 203133
+  aproned: 184830
+  atoned: 126890
+  awned: 238576
+not_scored_words:
+- acned
+- addlebrained
+- affined
+- aliened
+- aquaplaned
+- attorned

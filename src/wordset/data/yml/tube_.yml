@@ -1,0 +1,28 @@
+---
+pattern: tube_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 18
+score: 1263003
+score_per_word: 84200
+hi_scored_words:
+  tube: 3681
+  tuber: 48099
+  tubercle: 67722
+  tuberculin: 69738
+  tuberculosis: 15849
+  tuberculous: 73119
+  tuberous: 78354
+  tubers: 46993
+  tubes: 6879
+scored_words:
+  tubed: 123770
+  tubeless: 108103
+  tubercles: 120479
+  tubercular: 161858
+  tuberose: 150952
+  tuberosity: 187407
+not_scored_words:
+- tuberculate
+- tuberculoses
+- tuberosities

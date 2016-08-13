@@ -1,0 +1,35 @@
+---
+pattern: me_te
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 25
+score: 1284470
+score_per_word: 91747
+hi_scored_words:
+  mediate: 25304
+  medicate: 87335
+  meditate: 23743
+  megabyte: 46050
+  mesquite: 30966
+  metabolite: 38403
+  mete: 59910
+  meteorite: 29040
+  methacrylate: 68750
+  methotrexate: 44752
+scored_words:
+  menstruate: 157130
+  meprobamate: 185668
+  merozoite: 279010
+  messmate: 208409
+not_scored_words:
+- Mennonite
+- Merthiolate
+- Mesquite
+- megagamete
+- melanite
+- melinite
+- meliorate
+- mercurate
+- metaphosphate
+- metricate
+- metropolitanate

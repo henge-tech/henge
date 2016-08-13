@@ -1,0 +1,51 @@
+---
+pattern: chur_
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 41
+score: 2227164
+score_per_word: 117219
+hi_scored_words:
+  church: 513
+  churches: 3163
+  churchman: 61400
+  churchmen: 88733
+  churchyard: 29446
+  churlish: 94866
+  churn: 29464
+  churned: 65423
+  churning: 38536
+  churns: 92642
+scored_words:
+  churchgoer: 255549
+  churchgoers: 134018
+  churchgoing: 226089
+  churchwarden: 155174
+  churchwardens: 122695
+  churchy: 199714
+  churchyards: 164814
+  churl: 202258
+  churls: 262667
+not_scored_words:
+- Chur
+- Church
+- Churchill
+- Churchillian
+- Churriguera
+- churchless
+- churchlier
+- churchliest
+- churchlike
+- churchly
+- churchwoman
+- churchwomen
+- churinga
+- churlishly
+- churlishness
+- churner
+- churners
+- churr
+- churred
+- churrigueresque
+- churring
+- churrs

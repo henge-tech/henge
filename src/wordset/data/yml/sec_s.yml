@@ -1,0 +1,43 @@
+---
+pattern: sec_s
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 33
+score: 1674263
+score_per_word: 79726
+hi_scored_words:
+  secondaries: 76306
+  seconds: 2005
+  secretariats: 93749
+  secretaries: 12741
+  secretes: 79733
+  secretions: 39114
+  secrets: 3552
+  secs: 24383
+  sectaries: 97145
+  sectionals: 75170
+  sections: 2254
+  sectors: 12195
+  sects: 27164
+  secularists: 95246
+  secures: 23775
+  securities: 4878
+scored_words:
+  secateurs: 148840
+  secessionists: 189724
+  secondments: 133133
+  secretiveness: 290597
+  sectarians: 242559
+not_scored_words:
+- secants
+- secedes
+- secerns
+- secessionisms
+- secessions
+- secludes
+- seclusiveness
+- secondariness
+- seconders
+- secretins
+- secularizes
+- secundines

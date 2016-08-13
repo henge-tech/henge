@@ -1,0 +1,33 @@
+---
+pattern: _alt
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 23
+score: 350591
+score_per_word: 29215
+hi_scored_words:
+  alt: 9528
+  asphalt: 16490
+  basalt: 30680
+  cobalt: 20332
+  dealt: 5273
+  exalt: 45278
+  gestalt: 34738
+  halt: 8521
+  malt: 18739
+  salt: 1962
+  shalt: 11038
+scored_words:
+  smalt: 148012
+not_scored_words:
+- Anhalt
+- Balt
+- Gestalt
+- SALT
+- Walt
+- desalt
+- misdealt
+- oversalt
+- oxysalt
+- springhalt
+- stringhalt

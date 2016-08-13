@@ -1,0 +1,46 @@
+---
+pattern: su_le
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 36
+score: 1727497
+score_per_word: 101617
+hi_scored_words:
+  submersible: 34755
+  subsample: 90860
+  subtitle: 15983
+  subtle: 5839
+  suckle: 78775
+  suitable: 2671
+  supple: 24395
+  supportable: 90324
+  survivable: 88188
+  susceptible: 17823
+  sustainable: 8011
+scored_words:
+  substitutable: 149499
+  subtile: 160345
+  suggestible: 222189
+  summable: 271620
+  surcingle: 177476
+  surmountable: 288744
+not_scored_words:
+- Sunnyvale
+- suable
+- submergible
+- submittable
+- submultiple
+- subsumable
+- subvisible
+- succinylsulfathiazole
+- sufferable
+- sulfathiazole
+- sulphathiazole
+- superable
+- superannuable
+- superposable
+- supersensible
+- supersubtle
+- suppressible
+- surpassable
+- surtitle

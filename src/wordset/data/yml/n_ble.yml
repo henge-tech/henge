@@ -1,0 +1,76 @@
+---
+pattern: n_ble
+hi_scored_words_count: 10
+scored_words_count: 17
+total_words: 66
+score: 3974721
+score_per_word: 147211
+hi_scored_words:
+  navigable: 25219
+  negligible: 18145
+  negotiable: 27049
+  nibble: 38423
+  nimble: 30681
+  noble: 2760
+  nonrefundable: 87115
+  notable: 5961
+  noticeable: 12008
+  notifiable: 92329
+scored_words:
+  nestable: 246118
+  nobble: 126006
+  noncombustible: 192648
+  noncommunicable: 260047
+  nondeductible: 173851
+  nondurable: 104878
+  nonexpendable: 253930
+  nonflammable: 187873
+  nonnegotiable: 183536
+  nonperishable: 276697
+  nonrefillable: 334181
+  nonrenewable: 126483
+  nontaxable: 120175
+  nontransferable: 198622
+  nonviable: 216183
+  normalizable: 315331
+  nubble: 318472
+not_scored_words:
+- Noble
+- namable
+- nameable
+- nonadjustable
+- nonapplicable
+- nonassignable
+- nonbreakable
+- nonburnable
+- nonchargeable
+- noncollectable
+- nonconvertible
+- nondetachable
+- nondigestible
+- nondivisible
+- nonedible
+- noneligible
+- nonenforceable
+- nonexchangeable
+- nonfilterable
+- nonflexible
+- noninflammable
+- noninhabitable
+- noninterchangeable
+- nonmarketable
+- nonmeasurable
+- nonpermeable
+- nonprofitable
+- nonpunishable
+- nonrecoverable
+- nonredeemable
+- nonresolvable
+- nonreturnable
+- nonreversible
+- nonsalable
+- nonshrinkable
+- nonsinkable
+- nontarnishable
+- numerable
+- nybble

@@ -1,0 +1,63 @@
+---
+pattern: succ_
+hi_scored_words_count: 25
+scored_words_count: 6
+total_words: 53
+score: 1940154
+score_per_word: 62585
+hi_scored_words:
+  succeed: 4269
+  succeeded: 5456
+  succeeding: 12126
+  succeeds: 16859
+  success: 834
+  successes: 9901
+  successful: 1335
+  successfully: 3281
+  succession: 7412
+  successional: 86006
+  successive: 8771
+  successively: 30985
+  successor: 7760
+  successors: 17126
+  succinate: 63352
+  succinct: 35769
+  succinctly: 46980
+  succor: 69295
+  succubus: 76193
+  succulent: 31438
+  succulents: 76363
+  succumb: 33596
+  succumbed: 36958
+  succumbing: 69591
+  succumbs: 84026
+scored_words:
+  succedaneum: 182645
+  successions: 101694
+  succinctness: 307882
+  succinic: 116659
+  succotash: 137373
+  succubi: 258219
+not_scored_words:
+- Succoth
+- succeeder
+- succentor
+- successionally
+- succincter
+- succinctest
+- succinctorium
+- succinylsulfathiazole
+- succored
+- succories
+- succoring
+- succorless
+- succors
+- succory
+- succubuses
+- succulence
+- succulency
+- succulently
+- succursal
+- succuss
+- succussion
+- succussions

@@ -1,0 +1,42 @@
+---
+pattern: tria_
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 32
+score: 2106799
+score_per_word: 87783
+hi_scored_words:
+  triad: 23899
+  triads: 62444
+  triage: 37281
+  trial: 1279
+  trials: 3879
+  triangle: 7133
+  triangles: 21760
+  triangular: 16007
+  triangulated: 97169
+  triangulation: 37321
+  triathlete: 69109
+  triathletes: 93500
+  triathlon: 18788
+  triathlons: 93289
+  triaxial: 96625
+scored_words:
+  triable: 175644
+  triadic: 134981
+  trialed: 155438
+  trialing: 184243
+  triangulate: 114698
+  triangulating: 213569
+  triangulations: 138810
+  triatomic: 172234
+  triazine: 137699
+not_scored_words:
+- Triad
+- Triangulum
+- Triassic
+- triacid
+- triadelphous
+- triangularly
+- triangulates
+- triarchy

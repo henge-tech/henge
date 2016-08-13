@@ -1,0 +1,84 @@
+---
+pattern: rec_ing
+hi_scored_words_count: 28
+scored_words_count: 21
+total_words: 74
+score: 4998076
+score_per_word: 102001
+hi_scored_words:
+  recalling: 21131
+  recasting: 91180
+  receding: 42543
+  receiving: 2000
+  recharging: 50227
+  reciprocating: 39151
+  recirculating: 76301
+  reciting: 38110
+  reckoning: 21660
+  reclaiming: 37634
+  reclining: 29559
+  recognizing: 9642
+  recommending: 15293
+  reconciling: 35860
+  reconditioning: 69465
+  reconfiguring: 77862
+  reconnecting: 64018
+  reconsidering: 62644
+  reconstructing: 42393
+  recording: 3303
+  recounting: 45310
+  recovering: 10874
+  recreating: 44173
+  recruiting: 7246
+  rectifying: 71769
+  recuperating: 87953
+  recurring: 11160
+  recycling: 5493
+scored_words:
+  recalculating: 186514
+  recalibrating: 301278
+  recanting: 227269
+  recapping: 114452
+  recapturing: 107769
+  receipting: 183246
+  recessing: 338571
+  rechecking: 216175
+  reclassifying: 190469
+  recoding: 100191
+  recoiling: 138389
+  recollecting: 106689
+  recombining: 165661
+  recompiling: 120921
+  recomputing: 279938
+  reconfirming: 297899
+  reconnoitering: 112669
+  reconstituting: 133188
+  reconvening: 235773
+  recouping: 158622
+  recrossing: 168439
+not_scored_words:
+- recapitalizing
+- recapitulating
+- rechartering
+- rechristening
+- recolonizing
+- recoloring
+- recommencing
+- recommissioning
+- recommitting
+- recompensing
+- recomposing
+- recompressing
+- reconquering
+- reconsecrating
+- reconsigning
+- recontacting
+- recontaminating
+- reconverting
+- recooking
+- recopying
+- recriminating
+- recrudescing
+- recrystallizing
+- recurving
+- recusing

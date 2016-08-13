@@ -1,0 +1,55 @@
+---
+pattern: app_e
+hi_scored_words_count: 25
+scored_words_count: 7
+total_words: 45
+score: 1832508
+score_per_word: 57265
+hi_scored_words:
+  appearance: 2042
+  appease: 29687
+  appellate: 19100
+  appellee: 50717
+  appendage: 46490
+  appetite: 7685
+  applause: 10465
+  apple: 2074
+  applesauce: 42624
+  appliance: 16094
+  applicable: 2361
+  applique: 42060
+  appointee: 39576
+  apposite: 95764
+  appraise: 42378
+  appreciable: 29773
+  appreciate: 3240
+  appreciative: 24827
+  apprehensive: 30177
+  apprentice: 10328
+  apprise: 80493
+  approachable: 45426
+  appropriate: 1751
+  approve: 4926
+  approximate: 9434
+scored_words:
+  appanage: 107845
+  appealable: 114511
+  appetitive: 212076
+  applicative: 135564
+  appointive: 150684
+  appositive: 231199
+  appurtenance: 191137
+not_scored_words:
+- Apple
+- appeasable
+- appellative
+- appendicle
+- apperceive
+- appetence
+- applaudable
+- appose
+- appraisable
+- apprehensible
+- approbate
+- approbative
+- appulse

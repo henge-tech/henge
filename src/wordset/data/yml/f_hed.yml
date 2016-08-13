@@ -1,0 +1,27 @@
+---
+pattern: f_hed
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 17
+score: 1404161
+score_per_word: 93610
+hi_scored_words:
+  famished: 67132
+  farfetched: 95586
+  fetched: 22255
+  finished: 1548
+  fished: 28841
+  flashed: 17999
+  fleshed: 56243
+  flinched: 87644
+  flourished: 34086
+  flushed: 17000
+  furnished: 5166
+scored_words:
+  filched: 233436
+  frothed: 274373
+  furbished: 242954
+  furloughed: 219898
+not_scored_words:
+- foulmouthed
+- frogmarched

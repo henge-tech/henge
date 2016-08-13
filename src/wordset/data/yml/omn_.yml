@@ -1,0 +1,32 @@
+---
+pattern: omn_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 22
+score: 912183
+score_per_word: 76015
+hi_scored_words:
+  omnibus: 18903
+  omnidirectional: 76299
+  omnipotence: 49544
+  omnipotent: 33375
+  omnipresence: 93894
+  omnipresent: 43859
+  omniscience: 62910
+  omniscient: 44713
+  omnivorous: 78174
+scored_words:
+  omnibuses: 154022
+  omnivore: 128900
+  omnivores: 127590
+not_scored_words:
+- Omnipotent
+- Omniscient
+- omnicompetence
+- omnicompetent
+- omnifarious
+- omnipotently
+- omnirange
+- omnisciently
+- omnivorously
+- omnivorousness

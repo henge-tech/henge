@@ -1,0 +1,23 @@
+---
+pattern: sco_ed
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 13
+score: 1047176
+score_per_word: 80552
+hi_scored_words:
+  scoffed: 62579
+  scolded: 52938
+  scooped: 40775
+  scoped: 58278
+  scorched: 37401
+  scored: 5924
+  scorned: 39125
+  scoured: 54524
+  scouted: 80393
+  scowled: 81388
+scored_words:
+  scooted: 118091
+  scotched: 294510
+  scourged: 121250
+not_scored_words: []

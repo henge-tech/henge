@@ -1,0 +1,38 @@
+---
+pattern: r_ler
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 28
+score: 1359736
+score_per_word: 84983
+hi_scored_words:
+  rambler: 31459
+  rattler: 64928
+  recycler: 55822
+  remodeler: 76317
+  reseller: 14881
+  retailer: 9808
+  riddler: 78714
+  roller: 9396
+  rottweiler: 28529
+  ruler: 8672
+  rustler: 91718
+scored_words:
+  railer: 219144
+  rathskeller: 298004
+  realer: 105779
+  reeler: 151962
+  repealer: 114603
+not_scored_words:
+- Rockefeller
+- Rottweiler
+- raveler
+- reconciler
+- restfuller
+- reveler
+- reviler
+- rifler
+- rigsdaler
+- rototiller
+- ruffler
+- rumbler

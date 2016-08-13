@@ -1,0 +1,42 @@
+---
+pattern: _obe
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 32
+score: 1390094
+score_per_word: 86880
+hi_scored_words:
+  adobe: 8087
+  bathrobe: 45211
+  globe: 3979
+  lobe: 22451
+  microbe: 47980
+  probe: 9199
+  robe: 10209
+  strobe: 28493
+  wardrobe: 9558
+scored_words:
+  anaerobe: 222948
+  disrobe: 141562
+  earlobe: 108546
+  garderobe: 137944
+  homophobe: 113946
+  technophobe: 267449
+  xenophobe: 212532
+not_scored_words:
+- Anglophobe
+- Francophobe
+- Germanophobe
+- Kobe
+- Latrobe
+- Negrophobe
+- Niobe
+- Russophobe
+- aerobe
+- agoraphobe
+- ailurophobe
+- chifforobe
+- claustrophobe
+- engobe
+- enrobe
+- unrobe

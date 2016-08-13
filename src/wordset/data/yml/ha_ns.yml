@@ -1,0 +1,41 @@
+---
+pattern: ha_ns
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 31
+score: 1890341
+score_per_word: 105018
+hi_scored_words:
+  habitations: 74966
+  hadrons: 75015
+  hairpins: 99568
+  hallucinations: 32038
+  hallucinogens: 67593
+  halogens: 96101
+  handguns: 34944
+  happens: 2273
+  hardens: 65064
+  harlequins: 69544
+  hastens: 93692
+  havens: 37283
+scored_words:
+  halocarbons: 270394
+  halons: 156229
+  handmaidens: 196262
+  harpoons: 142359
+  hatpins: 233987
+  hawthorns: 143029
+not_scored_words:
+- Haitians
+- Halloweens
+- Hanoverians
+- Hans
+- Hawaiians
+- Hawkins
+- habergeons
+- hanumans
+- hardpans
+- harmattans
+- harridans
+- harshens
+- hazans

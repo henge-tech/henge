@@ -1,0 +1,66 @@
+---
+pattern: disi_
+hi_scored_words_count: 20
+scored_words_count: 14
+total_words: 56
+score: 3617378
+score_per_word: 106393
+hi_scored_words:
+  disillusion: 71765
+  disillusioned: 39345
+  disillusionment: 52899
+  disincentive: 67093
+  disincentives: 79272
+  disinclined: 92795
+  disinfect: 62672
+  disinfectant: 35037
+  disinfectants: 54214
+  disinfected: 56023
+  disinfecting: 72627
+  disinfection: 34663
+  disinformation: 40208
+  disingenuous: 45226
+  disintegrate: 54619
+  disintegrated: 52744
+  disintegrating: 59888
+  disintegration: 28305
+  disinterest: 67581
+  disinterested: 30515
+scored_words:
+  disillusioning: 276568
+  disinclination: 102729
+  disinfects: 233928
+  disinflation: 166760
+  disingenuously: 244815
+  disinherit: 186685
+  disinherited: 122787
+  disintegrates: 110983
+  disintegrative: 256737
+  disinter: 228720
+  disinterestedness: 150602
+  disintermediation: 201668
+  disinterred: 135918
+  disinvestment: 100987
+not_scored_words:
+- disillusionize
+- disillusions
+- disincline
+- disinclines
+- disinclining
+- disinfest
+- disinfested
+- disinfesting
+- disinfests
+- disingenuity
+- disingenuousness
+- disingenuousnesses
+- disinheritance
+- disinheriting
+- disinherits
+- disintegrator
+- disinterestedly
+- disinterests
+- disinterment
+- disinterring
+- disinters
+- disinvest

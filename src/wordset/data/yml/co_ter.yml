@@ -1,0 +1,44 @@
+---
+pattern: co_ter
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 34
+score: 1891042
+score_per_word: 90049
+hi_scored_words:
+  coaster: 14626
+  colter: 69663
+  comforter: 23445
+  commenter: 22383
+  committer: 76449
+  commuter: 18656
+  computer: 674
+  converter: 9864
+  copter: 59075
+  copywriter: 44961
+  cotter: 37712
+  coulter: 19960
+  counter: 2826
+scored_words:
+  colorimeter: 138971
+  completer: 121478
+  concertmaster: 125510
+  corrupter: 245244
+  cotoneaster: 133457
+  counterfeiter: 232653
+  courter: 230942
+  covenanter: 262493
+not_scored_words:
+- Colchester
+- Comptometer
+- Coulter
+- cohabiter
+- compacter
+- concenter
+- concertmeister
+- concocter
+- confuter
+- contester
+- contradicter
+- correcter
+- coulometer

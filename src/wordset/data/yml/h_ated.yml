@@ -1,0 +1,26 @@
+---
+pattern: h_ated
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 959061
+score_per_word: 79921
+hi_scored_words:
+  halogenated: 73135
+  hated: 6663
+  heated: 6392
+  herniated: 69853
+  hesitated: 21082
+  humiliated: 29501
+  hydrated: 36531
+  hydrogenated: 55239
+  hyphenated: 54981
+scored_words:
+  habituated: 104301
+  hallucinated: 240205
+  hypothecated: 261178
+not_scored_words:
+- habilitated
+- hibernated
+- historiated
+- hyperventilated

@@ -1,0 +1,25 @@
+---
+pattern: bri_g
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 814682
+score_per_word: 67890
+hi_scored_words:
+  bribing: 63950
+  bridging: 24584
+  briefing: 7370
+  brig: 19461
+  brightening: 50215
+  brimming: 43642
+  bring: 650
+  bringing: 2380
+  bristling: 59972
+scored_words:
+  bricking: 213864
+  bricklaying: 116624
+  bridling: 211970
+not_scored_words:
+- Brig
+- brisking
+- brisling

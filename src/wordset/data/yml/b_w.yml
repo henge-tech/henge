@@ -1,0 +1,47 @@
+---
+pattern: b_w
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 37
+score: 1406958
+score_per_word: 63952
+hi_scored_words:
+  backflow: 74589
+  bandsaw: 86218
+  barrow: 16534
+  bellow: 32853
+  below: 438
+  bestow: 26471
+  billow: 91646
+  blew: 8112
+  blow: 1570
+  borrow: 7051
+  bow: 3568
+  brew: 15628
+  brow: 15335
+  bungalow: 15079
+  burrow: 28653
+  bylaw: 36743
+scored_words:
+  bashaw: 135108
+  bedfellow: 162705
+  bedstraw: 169925
+  bowwow: 185491
+  braw: 168365
+  buzzsaw: 124876
+not_scored_words:
+- BMW
+- BTW
+- Barlow
+- Barrow
+- Bartholomew
+- Bellow
+- Borrow
+- Bradshaw
+- Brokaw
+- backsaw
+- bedew
+- beshrew
+- bestrew
+- blackfellow
+- bucksaw

@@ -1,0 +1,23 @@
+---
+pattern: _enal
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 1063621
+score_per_word: 96692
+hi_scored_words:
+  adrenal: 26908
+  arsenal: 9675
+  duodenal: 45471
+  juvenal: 80724
+  penal: 15782
+  phenomenal: 17148
+  renal: 11531
+  venal: 81729
+scored_words:
+  lumenal: 280963
+  noumenal: 280233
+  suprarenal: 213457
+not_scored_words:
+- Juvenal
+- hymenal

@@ -1,0 +1,47 @@
+---
+pattern: supe_e
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 37
+score: 1985407
+score_per_word: 110300
+hi_scored_words:
+  supercharge: 95437
+  superfine: 77248
+  superintendence: 73394
+  superlative: 37218
+  supernovae: 60991
+  supersede: 35648
+  supersize: 63641
+  superstore: 23468
+  superstructure: 38797
+  supervise: 20325
+scored_words:
+  superabundance: 201257
+  superconductive: 198312
+  superglue: 117653
+  superimpose: 107083
+  superordinate: 167267
+  superphosphate: 215424
+  superstate: 202530
+  supervene: 249714
+not_scored_words:
+- Superglue
+- superable
+- superannuable
+- superannuate
+- superdense
+- supererogate
+- superexpensive
+- superfuse
+- superheterodyne
+- superinduce
+- supermundane
+- superposable
+- superpose
+- supersaturate
+- superscribe
+- supersedure
+- supersensible
+- supersensitive
+- supersubtle

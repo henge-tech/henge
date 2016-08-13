@@ -1,0 +1,32 @@
+---
+pattern: _iffs
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 22
+score: 1404957
+score_per_word: 93663
+hi_scored_words:
+  bailiffs: 66453
+  cliffs: 10140
+  diffs: 49894
+  plaintiffs: 22750
+  riffs: 28150
+  sheriffs: 33193
+  sniffs: 66007
+  stiffs: 54296
+  tariffs: 18169
+scored_words:
+  mastiffs: 110362
+  midriffs: 320725
+  pontiffs: 165353
+  skiffs: 145181
+  tiffs: 124714
+  whiffs: 189570
+not_scored_words:
+- biffs
+- caitiffs
+- jiffs
+- miffs
+- quiffs
+- spiffs
+- spliffs

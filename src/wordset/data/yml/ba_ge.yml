@@ -1,0 +1,23 @@
+---
+pattern: ba_ge
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 335089
+score_per_word: 37232
+hi_scored_words:
+  backstage: 17221
+  bacteriophage: 47207
+  badge: 7747
+  badinage: 82555
+  baggage: 10174
+  bandage: 23802
+  barge: 15915
+  barrage: 30054
+scored_words:
+  baronetage: 100414
+not_scored_words:
+- Babbage
+- Banbridge
+- baronage
+- bavardage

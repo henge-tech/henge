@@ -1,0 +1,26 @@
+---
+pattern: moc_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 16
+score: 1440346
+score_per_word: 96023
+hi_scored_words:
+  moccasin: 50464
+  moccasins: 44795
+  mocha: 30837
+  mock: 8907
+  mocked: 34915
+  mockery: 33556
+  mocking: 22508
+  mockingbird: 28734
+  mockingly: 87588
+  mocks: 51280
+scored_words:
+  mochas: 260464
+  mocker: 212165
+  mockeries: 151442
+  mockers: 261577
+  mockingbirds: 161114
+not_scored_words:
+- Mocambique

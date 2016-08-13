@@ -1,0 +1,19 @@
+---
+pattern: spec_r
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 9
+score: 440296
+score_per_word: 48921
+hi_scored_words:
+  specifier: 58338
+  spectacular: 8557
+  spectator: 11888
+  specter: 28091
+  spectrometer: 26902
+  spectrophotometer: 72326
+  specular: 52089
+  speculator: 56111
+scored_words:
+  spectroradiometer: 125994
+not_scored_words: []

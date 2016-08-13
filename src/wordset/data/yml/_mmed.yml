@@ -1,0 +1,56 @@
+---
+pattern: _mmed
+hi_scored_words_count: 23
+scored_words_count: 5
+total_words: 46
+score: 2115475
+score_per_word: 75552
+hi_scored_words:
+  brimmed: 79237
+  bummed: 48203
+  crammed: 24622
+  dammed: 78404
+  dimmed: 48858
+  drummed: 83292
+  gummed: 95175
+  hemmed: 51063
+  hummed: 77282
+  jammed: 27128
+  monogrammed: 55816
+  programmed: 10844
+  rammed: 39092
+  reprogrammed: 91534
+  rimmed: 52411
+  scammed: 51355
+  skimmed: 44928
+  slammed: 17938
+  slimmed: 97705
+  spammed: 56328
+  stemmed: 36510
+  summed: 17061
+  trimmed: 15454
+scored_words:
+  diagrammed: 158021
+  strummed: 151190
+  undimmed: 196641
+  unprogrammed: 250684
+  untrimmed: 158699
+not_scored_words:
+- bedimmed
+- chummed
+- clammed
+- deprogrammed
+- flimflammed
+- glommed
+- hammed
+- lammed
+- scrammed
+- scrummed
+- scummed
+- shammed
+- shimmed
+- slummed
+- thrummed
+- trammed
+- unjammed
+- whammed

@@ -1,0 +1,41 @@
+---
+pattern: _uns
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 31
+score: 1827970
+score_per_word: 79476
+hi_scored_words:
+  buns: 27670
+  duns: 53026
+  guns: 2780
+  handguns: 34944
+  leprechauns: 93615
+  nouns: 18808
+  nuns: 21101
+  overruns: 50730
+  pronouns: 29896
+  puns: 34814
+  reruns: 46079
+  runs: 2029
+  shotguns: 33302
+  shuns: 90284
+  stuns: 62894
+  suns: 15543
+scored_words:
+  airguns: 123186
+  blowguns: 214594
+  fauns: 114016
+  flashguns: 180383
+  outruns: 288735
+  shoguns: 150697
+  tuns: 138844
+not_scored_words:
+- Cajuns
+- Huns
+- Jotuns
+- Suns
+- bosuns
+- millruns
+- outguns
+- popguns

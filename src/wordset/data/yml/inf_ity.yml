@@ -1,0 +1,22 @@
+---
+pattern: inf_ity
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 620560
+score_per_word: 68951
+hi_scored_words:
+  infallibility: 63554
+  inferiority: 33191
+  infertility: 18029
+  infidelity: 25960
+  infinity: 9962
+  infirmity: 47253
+  inflexibility: 84340
+  informality: 78656
+scored_words:
+  infeasibility: 259615
+not_scored_words:
+- infelicity
+- inflammability
+- infrangibility

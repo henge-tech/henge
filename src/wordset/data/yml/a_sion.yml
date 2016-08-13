@@ -1,0 +1,27 @@
+---
+pattern: a_sion
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 802177
+score_per_word: 61705
+hi_scored_words:
+  abrasion: 28489
+  accession: 8834
+  adhesion: 17686
+  admission: 3815
+  aggression: 11815
+  allusion: 29069
+  apprehension: 18127
+  ascension: 18464
+  aversion: 19259
+scored_words:
+  abscission: 178675
+  animadversion: 175647
+  aspersion: 185895
+  avulsion: 106402
+not_scored_words:
+- Ascension
+- affusion
+- ambiversion
+- anteversion

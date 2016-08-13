@@ -1,0 +1,27 @@
+---
+pattern: c_nist
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 782072
+score_per_word: 78207
+hi_scored_words:
+  cartoonist: 28642
+  chauvinist: 94770
+  colonist: 53682
+  columnist: 15093
+  communist: 8617
+  conservationist: 58578
+  contortionist: 98156
+  creationist: 43850
+scored_words:
+  collaborationist: 269301
+  constructionist: 111383
+not_scored_words:
+- Calvinist
+- Communist
+- Confucianist
+- canonist
+- coalitionist
+- coreligionist
+- cosmogonist

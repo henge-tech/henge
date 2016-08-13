@@ -1,0 +1,30 @@
+---
+pattern: mi_ter
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 20
+score: 830262
+score_per_word: 63866
+hi_scored_words:
+  microcomputer: 36503
+  micrometer: 44854
+  midwinter: 39972
+  milliliter: 89749
+  millimeter: 28488
+  milter: 59051
+  minicomputer: 99484
+  minister: 1234
+  minster: 38861
+  minter: 58202
+  mister: 12153
+  miter: 47089
+scored_words:
+  minuter: 274622
+not_scored_words:
+- Mister
+- microdensitometer
+- micromillimeter
+- middlebuster
+- milometer
+- misinterpreter
+- misregister

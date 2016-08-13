@@ -1,0 +1,54 @@
+---
+pattern: ca_ls
+hi_scored_words_count: 14
+scored_words_count: 12
+total_words: 44
+score: 2478705
+score_per_word: 95334
+hi_scored_words:
+  calls: 1382
+  camels: 24219
+  canals: 17088
+  cancels: 25998
+  cannibals: 46887
+  capitals: 14724
+  caramels: 91136
+  cardinals: 10970
+  carnivals: 48871
+  carols: 32764
+  carousels: 98719
+  cartels: 50456
+  casuals: 54994
+  cathedrals: 36154
+scored_words:
+  cabals: 231410
+  cannonballs: 160239
+  capitols: 132820
+  caravels: 109531
+  carbonyls: 217170
+  carpels: 199740
+  carpools: 160017
+  carrels: 170716
+  cartwheels: 109210
+  catcalls: 198034
+  cattails: 127640
+  cavils: 107816
+not_scored_words:
+- Capitols
+- Casals
+- Catskills
+- cacodyls
+- calciferols
+- calomels
+- camails
+- campstools
+- canonicals
+- capfuls
+- caracals
+- carousals
+- carpals
+- carryalls
+- cascabels
+- catchalls
+- caterwauls
+- cauls

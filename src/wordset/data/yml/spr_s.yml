@@ -1,0 +1,45 @@
+---
+pattern: spr_s
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 35
+score: 2729562
+score_per_word: 104983
+hi_scored_words:
+  sprains: 58665
+  sprayers: 61001
+  sprays: 23870
+  spreaders: 66666
+  spreads: 10917
+  spreadsheets: 24481
+  sprees: 85385
+  sprigs: 64819
+  springboks: 83746
+  springs: 2706
+  sprinklers: 36092
+  sprinkles: 47588
+  sprinters: 78034
+  sprints: 38074
+  sprites: 40411
+  sprockets: 60044
+  sprouts: 28624
+scored_words:
+  sprawls: 154275
+  sprightliness: 141495
+  springboards: 194798
+  springers: 165472
+  springtails: 193109
+  sprits: 282790
+  spritzers: 320038
+  spruces: 149236
+  sprues: 317226
+not_scored_words:
+- sprags
+- sprats
+- springiness
+- sprinklings
+- spritsails
+- spritzes
+- sprogs
+- spruceness
+- spryness

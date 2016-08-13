@@ -1,0 +1,34 @@
+---
+pattern: sma_s
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 24
+score: 1174545
+score_per_word: 90349
+hi_scored_words:
+  smacks: 45687
+  smallholders: 92062
+  smallness: 72954
+  smalls: 48349
+  smarties: 68171
+  smartphones: 19391
+  smarts: 31274
+  smartypants: 95821
+  smashes: 55213
+scored_words:
+  smackers: 182528
+  smallholdings: 170878
+  smartness: 142103
+  smashers: 150114
+not_scored_words:
+- smackings
+- smallclothes
+- smaltites
+- smarminess
+- smarminesses
+- smarms
+- smartens
+- smartwatches
+- smashups
+- smatterings
+- smatters

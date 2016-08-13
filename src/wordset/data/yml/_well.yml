@@ -1,0 +1,49 @@
+---
+pattern: _well
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 39
+score: 498388
+score_per_word: 45308
+hi_scored_words:
+  dwell: 10111
+  farewell: 7757
+  groundswell: 89553
+  inkwell: 56818
+  maxwell: 9491
+  speedwell: 81897
+  stairwell: 50656
+  swell: 9819
+  unwell: 39570
+  well: 103
+scored_words:
+  bridewell: 142613
+not_scored_words:
+- Blackwell
+- Boswell
+- Bothwell
+- Bowell
+- Caldwell
+- Cowell
+- Cranwell
+- Cromwell
+- Falwell
+- Honeywell
+- Hopewell
+- Howell
+- Jewell
+- Lowell
+- Maxwell
+- McDowell
+- Motherwell
+- Newell
+- Orwell
+- Powell
+- Rockwell
+- Roswell
+- Shadwell
+- Sitwell
+- gromwell
+- indwell
+- upswell
+- upwell

@@ -1,0 +1,34 @@
+---
+pattern: g_ets
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 24
+score: 1114351
+score_per_word: 79596
+hi_scored_words:
+  gadgets: 6814
+  garnets: 76863
+  gaskets: 34006
+  gauntlets: 63532
+  gets: 1219
+  giblets: 84574
+  goblets: 50722
+  greets: 33156
+  grommets: 70516
+scored_words:
+  gannets: 146032
+  garrets: 125295
+  gibbets: 161770
+  gourmets: 120434
+  gussets: 139418
+not_scored_words:
+- gantlets
+- gargets
+- genets
+- gimlets
+- gleets
+- gobbets
+- gorgets
+- grivets
+- groundsheets
+- gullets

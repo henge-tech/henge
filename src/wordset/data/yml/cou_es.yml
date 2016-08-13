@@ -1,0 +1,46 @@
+---
+pattern: cou_es
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 36
+score: 1346815
+score_per_word: 89787
+hi_scored_words:
+  couches: 35436
+  countermeasures: 33363
+  counties: 7277
+  countries: 806
+  coupes: 56282
+  couples: 5135
+  courses: 2515
+  courtesies: 77489
+  courthouses: 62551
+scored_words:
+  countenances: 115829
+  counterbalances: 275706
+  counterexamples: 105856
+  countesses: 123790
+  countrysides: 308369
+  courgettes: 136411
+not_scored_words:
+- couchettes
+- coulees
+- coulisses
+- coulées
+- coumarones
+- counterchanges
+- countercultures
+- counterinsurgencies
+- countermarches
+- countermelodies
+- countermines
+- countermoves
+- counteroffensives
+- counterpanes
+- counterpoises
+- counterpunches
+- counterrevolutionaries
+- countersignatures
+- counterspies
+- countinghouses
+- couvades

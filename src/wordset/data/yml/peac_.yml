@@ -1,0 +1,35 @@
+---
+pattern: peac_
+hi_scored_words_count: 18
+scored_words_count: 2
+total_words: 25
+score: 1129700
+score_per_word: 56485
+hi_scored_words:
+  peace: 893
+  peaceable: 44469
+  peaceably: 69692
+  peaceful: 4990
+  peacefully: 19911
+  peacefulness: 91912
+  peacekeeper: 70710
+  peacekeepers: 40416
+  peacekeeping: 22075
+  peacemaker: 41739
+  peacemakers: 61822
+  peacemaking: 62162
+  peacetime: 44721
+  peach: 10320
+  peaches: 17930
+  peachy: 40187
+  peacock: 15128
+  peacocks: 56631
+scored_words:
+  peaces: 268400
+  peacoat: 145592
+not_scored_words:
+- Peace
+- Peacock
+- peachier
+- peachiest
+- peacoats

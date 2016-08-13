@@ -1,0 +1,35 @@
+---
+pattern: _eals
+hi_scored_words_count: 14
+scored_words_count: 1
+total_words: 25
+score: 523677
+score_per_word: 34911
+hi_scored_words:
+  appeals: 4625
+  cereals: 21272
+  conceals: 50670
+  deals: 3104
+  heals: 29499
+  ideals: 9568
+  meals: 4566
+  peals: 95431
+  reals: 32942
+  repeals: 63247
+  reveals: 6207
+  seals: 8071
+  squeals: 78162
+  steals: 14603
+scored_words:
+  ordeals: 101710
+not_scored_words:
+- anneals
+- antidiarrheals
+- congeals
+- goldenseals
+- misdeals
+- reseals
+- teals
+- unseals
+- weals
+- wheals

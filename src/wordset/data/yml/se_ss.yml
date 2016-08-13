@@ -1,0 +1,57 @@
+---
+pattern: se_ss
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 47
+score: 2278067
+score_per_word: 113903
+hi_scored_words:
+  seamless: 15253
+  seamstress: 53929
+  seductress: 98094
+  seedless: 81447
+  selfishness: 24070
+  selfless: 34517
+  selflessness: 50548
+  senseless: 27283
+  separateness: 95425
+  seriousness: 15815
+  sexiness: 85637
+  sexless: 89309
+scored_words:
+  seasickness: 102555
+  seaworthiness: 221295
+  secretiveness: 290597
+  seductiveness: 266828
+  semigloss: 147108
+  senselessness: 230894
+  sensitiveness: 107337
+  sensuousness: 240126
+not_scored_words:
+- Seuss
+- seaminess
+- seasonableness
+- seclusiveness
+- secondariness
+- sedateness
+- sedentariness
+- seditiousness
+- sedulousness
+- seediness
+- seedlessness
+- seemliness
+- seeress
+- seldomness
+- selectiveness
+- selectness
+- selfness
+- semidarkness
+- sempstress
+- sensibleness
+- sensualness
+- sententiousness
+- sereneness
+- serviceableness
+- servileness
+- severeness
+- sexlessness

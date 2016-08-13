@@ -1,0 +1,29 @@
+---
+pattern: i_red
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 19
+score: 769587
+score_per_word: 45269
+hi_scored_words:
+  ignored: 7802
+  immured: 97671
+  impaired: 8857
+  implored: 72520
+  inbred: 29461
+  incurred: 15695
+  indentured: 66298
+  inferred: 15174
+  infrared: 12422
+  injured: 4206
+  inquired: 15111
+  inspired: 3340
+  insured: 13690
+  interfered: 30946
+  interred: 38148
+scored_words:
+  interbred: 218624
+  inured: 119622
+not_scored_words:
+- ingathered
+- inhered

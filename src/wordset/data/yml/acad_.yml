@@ -1,0 +1,27 @@
+---
+pattern: acad_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 17
+score: 523266
+score_per_word: 47569
+hi_scored_words:
+  academe: 51535
+  academia: 23426
+  academic: 4036
+  academical: 86623
+  academically: 25954
+  academician: 62286
+  academicians: 74961
+  academics: 11426
+  academies: 19132
+  academy: 3735
+scored_words:
+  academicism: 160152
+not_scored_words:
+- Acadia
+- Acadian
+- Acadians
+- academicisms
+- academism
+- academisms

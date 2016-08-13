@@ -1,0 +1,50 @@
+---
+pattern: cere_
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 40
+score: 1518182
+score_per_word: 79904
+hi_scored_words:
+  cere: 97826
+  cereal: 15639
+  cereals: 21272
+  cerebellar: 39610
+  cerebellum: 34308
+  cerebral: 12744
+  cerebrospinal: 41014
+  cerebrovascular: 45801
+  cerebrum: 74161
+  ceremonial: 16489
+  ceremonies: 9134
+  ceremony: 3921
+  ceres: 25589
+  cereus: 68039
+scored_words:
+  cerebra: 334974
+  ceremonially: 158939
+  ceremonials: 206533
+  ceremonious: 171599
+  ceremoniously: 140590
+not_scored_words:
+- Cerenkov
+- Ceres
+- cerebellums
+- cerebrally
+- cerebrate
+- cerebrated
+- cerebrates
+- cerebrating
+- cerebration
+- cerebritis
+- cerebroside
+- cerebrums
+- cerecloth
+- cerecloths
+- cered
+- cerement
+- cerements
+- ceremonialism
+- ceremonialist
+- ceremoniousness
+- ceresin

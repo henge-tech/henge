@@ -1,0 +1,37 @@
+---
+pattern: nob_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 27
+score: 1122379
+score_per_word: 66022
+hi_scored_words:
+  nob: 33546
+  nobby: 82699
+  nobility: 15784
+  noble: 2760
+  nobleman: 34074
+  noblemen: 59950
+  nobler: 47761
+  nobles: 17467
+  noblesse: 81912
+  noblest: 39231
+  nobly: 71794
+  nobodies: 92337
+  nobody: 2279
+  nobs: 63276
+scored_words:
+  nobble: 126006
+  nobleness: 166873
+  noblewoman: 184630
+not_scored_words:
+- Nobel
+- Nobelist
+- Nobelists
+- Noble
+- nobbled
+- nobbles
+- nobbling
+- nobelium
+- noblesses
+- noblewomen

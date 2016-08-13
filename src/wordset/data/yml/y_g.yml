@@ -1,0 +1,44 @@
+---
+pattern: y_g
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 34
+score: 1748339
+score_per_word: 87416
+hi_scored_words:
+  yachting: 30918
+  yang: 15157
+  yanking: 79308
+  yawning: 33422
+  yearling: 42506
+  yearlong: 82325
+  yearning: 28542
+  yelling: 14925
+  yellowing: 57714
+  yielding: 12345
+  young: 254
+  youngling: 85108
+scored_words:
+  yakking: 193633
+  yammering: 161912
+  yapping: 100824
+  yawing: 240526
+  yegg: 150751
+  yelping: 118779
+  yodeling: 117037
+  yowling: 182353
+not_scored_words:
+- Yang
+- Yaobang
+- Yekaterinburg
+- Yong
+- Young
+- yawping
+- yeaning
+- yeanling
+- yessing
+- yipping
+- yoking
+- yucking
+- yukking
+- yuppifying

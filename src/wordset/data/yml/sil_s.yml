@@ -1,0 +1,52 @@
+---
+pattern: sil_s
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 42
+score: 1928879
+score_per_word: 101519
+hi_scored_words:
+  silencers: 68346
+  silences: 48454
+  silhouettes: 41155
+  silicates: 66444
+  siliceous: 54045
+  silicosis: 86724
+  silks: 36425
+  silliness: 43498
+  sills: 47645
+  silos: 40202
+  silvers: 51151
+  silversmiths: 69926
+scored_words:
+  silents: 127745
+  silenus: 243442
+  silkworms: 129880
+  silts: 138136
+  siltstones: 278193
+  silvas: 125021
+  silversides: 232447
+not_scored_words:
+- Silas
+- Silenus
+- Silures
+- Silurians
+- Silvanus
+- silds
+- silenuses
+- silesias
+- silicles
+- silicons
+- siliquas
+- siliques
+- silkiness
+- silkscreens
+- silkweeds
+- sillies
+- siloxanes
+- silurids
+- silverfishes
+- silveriness
+- silverpoints
+- silverweeds
+- silvicultures

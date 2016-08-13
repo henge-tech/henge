@@ -1,0 +1,35 @@
+---
+pattern: f_less
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 25
+score: 2011968
+score_per_word: 100598
+hi_scored_words:
+  faceless: 41505
+  faithless: 25862
+  fatherless: 55457
+  faultless: 50396
+  fearless: 21035
+  featureless: 81066
+  feckless: 83042
+  fingerless: 83117
+  flawless: 20001
+  flightless: 76147
+  formless: 64355
+  frictionless: 91147
+  friendless: 86769
+  fruitless: 30354
+scored_words:
+  fadeless: 324830
+  fathomless: 140168
+  fireless: 172956
+  flavorless: 215734
+  fleshless: 164584
+  footless: 183443
+not_scored_words:
+- fatless
+- featherless
+- flowerless
+- forceless
+- functionless

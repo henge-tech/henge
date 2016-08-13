@@ -1,0 +1,24 @@
+---
+pattern: st_king
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 607198
+score_per_word: 50599
+hi_scored_words:
+  stacking: 19483
+  staking: 51152
+  stalking: 18699
+  sticking: 9602
+  stinking: 30219
+  stocking: 11200
+  streaking: 55861
+  striking: 4698
+  stroking: 27797
+scored_words:
+  stockbroking: 151853
+  stocktaking: 113797
+  stoking: 112837
+not_scored_words:
+- stonking
+- strikebreaking

@@ -1,0 +1,42 @@
+---
+pattern: ass_e
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 32
+score: 1772140
+score_per_word: 77049
+hi_scored_words:
+  assassinate: 35286
+  assemblage: 28316
+  assemble: 11994
+  assertive: 33568
+  assessable: 77825
+  asshole: 13754
+  assignable: 61745
+  assignee: 32112
+  assimilate: 31933
+  assistance: 1330
+  associate: 3217
+  associative: 25433
+  assuage: 60466
+  assume: 2348
+  assurance: 4341
+  assure: 4356
+scored_words:
+  assaultive: 193267
+  assimilable: 268938
+  assimilative: 162245
+  assize: 127284
+  assonance: 171494
+  assortative: 221248
+  assumable: 199640
+not_scored_words:
+- Assamese
+- Assiniboine
+- assailable
+- assayable
+- asseverate
+- assibilate
+- assonate
+- assuasive
+- assumptive

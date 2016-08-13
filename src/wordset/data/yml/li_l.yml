@@ -1,0 +1,31 @@
+---
+pattern: li_l
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 1238379
+score_per_word: 95259
+hi_scored_words:
+  libel: 20746
+  liberal: 2659
+  lineal: 58345
+  lingual: 25181
+  lintel: 69693
+  literal: 9007
+  littoral: 40841
+  liturgical: 29914
+scored_words:
+  libidinal: 174497
+  liminal: 115013
+  linalool: 241707
+  listel: 228437
+  lithological: 222339
+not_scored_words:
+- Liberal
+- Liestal
+- Lilienthal
+- Limassol
+- Lionel
+- Liverpool
+- lithographical
+- lithol

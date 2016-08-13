@@ -1,0 +1,37 @@
+---
+pattern: _oter
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 27
+score: 1646425
+score_per_word: 96848
+hi_scored_words:
+  footer: 19941
+  freebooter: 89313
+  hooter: 58673
+  promoter: 14644
+  rooter: 60358
+  scooter: 14146
+  sharpshooter: 56059
+  shooter: 11790
+  troubleshooter: 69929
+  voter: 11901
+scored_words:
+  keynoter: 255508
+  looter: 111506
+  quoter: 240150
+  remoter: 128555
+  scoter: 100200
+  tooter: 132861
+  toter: 270891
+not_scored_words:
+- acroter
+- balloter
+- crapshooter
+- doter
+- emoter
+- garroter
+- nonvoter
+- peashooter
+- rioter
+- sixshooter

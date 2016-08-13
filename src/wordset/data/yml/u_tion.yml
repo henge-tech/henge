@@ -1,0 +1,29 @@
+---
+pattern: u_tion
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 19
+score: 1270547
+score_per_word: 97734
+hi_scored_words:
+  ulceration: 47372
+  unction: 66276
+  underestimation: 83439
+  unification: 20341
+  unionization: 74137
+  urbanization: 29996
+  urination: 35787
+  usurpation: 59345
+  utilization: 15342
+scored_words:
+  ululation: 228663
+  undervaluation: 233641
+  undulation: 128557
+  universalization: 247651
+not_scored_words:
+- uglification
+- umbilication
+- underproduction
+- unsophistication
+- urtication
+- ustulation

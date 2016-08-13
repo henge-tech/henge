@@ -1,0 +1,24 @@
+---
+pattern: lunc_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 14
+score: 1305807
+score_per_word: 100446
+hi_scored_words:
+  lunch: 2677
+  lunchbox: 41137
+  lunchboxes: 97400
+  luncheon: 12495
+  luncheons: 67495
+  lunches: 25208
+  lunchroom: 68574
+  lunchtime: 23908
+scored_words:
+  lunched: 124122
+  luncheonette: 235441
+  lunching: 110363
+  lunchrooms: 340796
+  lunchtimes: 156191
+not_scored_words:
+- luncheonettes

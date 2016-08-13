@@ -1,0 +1,27 @@
+---
+pattern: rel_y
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 17
+score: 1072729
+score_per_word: 71515
+hi_scored_words:
+  relatively: 4039
+  relativity: 23109
+  relay: 8804
+  relentlessly: 31706
+  relevancy: 42895
+  reliability: 13603
+  reliably: 17512
+  religiosity: 63067
+  religiously: 31799
+  reliquary: 93034
+  reluctantly: 17973
+  rely: 4836
+scored_words:
+  relationally: 229783
+  relativistically: 322857
+  relevantly: 167712
+not_scored_words:
+- reliantly
+- reluctivity

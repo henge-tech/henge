@@ -1,0 +1,42 @@
+---
+pattern: u_on
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 32
+score: 1801565
+score_per_word: 85788
+hi_scored_words:
+  ulceration: 47372
+  uncommon: 8665
+  unction: 66276
+  underestimation: 83439
+  unification: 20341
+  union: 1053
+  unionization: 74137
+  unison: 23027
+  upon: 307
+  upsilon: 38715
+  urbanization: 29996
+  urination: 35787
+  usurpation: 59345
+  utilization: 15342
+scored_words:
+  ululation: 228663
+  unbutton: 107268
+  uncircumcision: 227365
+  undervaluation: 233641
+  undulation: 128557
+  universalization: 247651
+  unreason: 124618
+not_scored_words:
+- Union
+- Upton
+- uglification
+- umbilication
+- undecagon
+- underproduction
+- unperson
+- unsophistication
+- unwon
+- urtication
+- ustulation

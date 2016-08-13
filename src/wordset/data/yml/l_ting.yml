@@ -1,0 +1,44 @@
+---
+pattern: l_ting
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 34
+score: 2166365
+score_per_word: 83321
+hi_scored_words:
+  lactating: 38250
+  lamenting: 52280
+  laminating: 50982
+  lasting: 5893
+  legislating: 68325
+  letting: 4078
+  liberating: 29167
+  lifting: 6358
+  lighting: 3319
+  lilting: 98207
+  limiting: 9326
+  liquidating: 65145
+  listing: 2404
+  litigating: 95020
+  locating: 13011
+  looting: 29768
+  lubricating: 41081
+  lusting: 82054
+scored_words:
+  lacerating: 151758
+  lambasting: 171339
+  leafleting: 179314
+  legitimating: 189455
+  levitating: 111252
+  ligating: 267955
+  lofting: 140843
+  luxuriating: 259781
+not_scored_words:
+- Lagting
+- lapidating
+- levanting
+- librating
+- linting
+- lucubrating
+- lustrating
+- luting

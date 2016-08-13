@@ -1,0 +1,39 @@
+---
+pattern: en_nts
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 29
+score: 1968182
+score_per_word: 82007
+hi_scored_words:
+  enactments: 48296
+  encampments: 83183
+  enchantments: 65763
+  encroachments: 62322
+  endorsements: 22824
+  endowments: 29858
+  endpoints: 32494
+  engagements: 15486
+  enhancements: 10795
+  enjoyments: 96608
+  enlargements: 60940
+  enrollments: 39677
+  entanglements: 76545
+  entertainments: 33860
+  entitlements: 23924
+  entrants: 20807
+  environments: 11573
+scored_words:
+  enchants: 134536
+  encouragements: 133250
+  endearments: 241953
+  enforcements: 177505
+  enlistments: 166210
+  enticements: 177873
+  entrenchments: 201900
+not_scored_words:
+- encirclements
+- encompassments
+- enjambments
+- enjoinments
+- enthronements

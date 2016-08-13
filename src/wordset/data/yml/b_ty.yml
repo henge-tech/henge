@@ -1,0 +1,40 @@
+---
+pattern: b_ty
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 30
+score: 2021136
+score_per_word: 91869
+hi_scored_words:
+  banality: 65230
+  barbarity: 82707
+  batty: 40988
+  beauty: 720
+  bestiality: 16129
+  biodiversity: 18055
+  bisexuality: 59574
+  bitty: 36042
+  bloodthirsty: 44133
+  booty: 5388
+  bounty: 11550
+  brevity: 29776
+  brutality: 21203
+  busty: 11787
+scored_words:
+  basicity: 247573
+  believability: 116084
+  benignity: 232492
+  biodegradability: 159201
+  bipolarity: 271306
+  bogosity: 322430
+  bratty: 104305
+  butty: 124463
+not_scored_words:
+- Beatty
+- Betty
+- bellicosity
+- biconcavity
+- biconvexity
+- bilaterality
+- bimodality
+- biparty

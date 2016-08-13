@@ -1,0 +1,28 @@
+---
+pattern: _llar
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 18
+score: 824425
+score_per_word: 63417
+hi_scored_words:
+  caterpillar: 17272
+  cellar: 9362
+  cerebellar: 39610
+  collar: 5277
+  dollar: 2101
+  flagellar: 94858
+  interstellar: 26155
+  lamellar: 77544
+  patellar: 71461
+  pillar: 10835
+  stellar: 18238
+scored_words:
+  petrodollar: 255810
+  tonsillar: 195902
+not_scored_words:
+- Caterpillar
+- Eurodollar
+- bacillar
+- medullar
+- saltcellar

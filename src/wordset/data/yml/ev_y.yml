@@ -1,0 +1,31 @@
+---
+pattern: ev_y
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 21
+score: 1150690
+score_per_word: 76712
+hi_scored_words:
+  evenly: 13500
+  eventuality: 65682
+  eventually: 3140
+  every: 176
+  everybody: 2274
+  everyday: 4673
+  evidentiary: 43692
+  evidently: 9051
+  evolutionarily: 77894
+  evolutionary: 12921
+scored_words:
+  evasively: 184022
+  everlastingly: 178987
+  everyway: 159466
+  evilly: 101205
+  evocatively: 294007
+not_scored_words:
+- EverReady
+- evanescently
+- evangelically
+- evangelistically
+- evenhandedly
+- eventfully

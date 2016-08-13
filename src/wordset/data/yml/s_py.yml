@@ -1,0 +1,40 @@
+---
+pattern: s_py
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 30
+score: 1959165
+score_per_word: 89052
+hi_scored_words:
+  sappy: 55087
+  scrappy: 39741
+  skimpy: 35706
+  sleepy: 9327
+  slippy: 73461
+  sloppy: 22299
+  snappy: 34565
+  snoopy: 30518
+  soapy: 52137
+  soupy: 79492
+  spectroscopy: 18106
+  spy: 3662
+  stumpy: 72695
+  swampy: 53680
+  syrupy: 79427
+scored_words:
+  scrumpy: 163682
+  snippy: 112565
+  soppy: 139942
+  stereotypy: 295797
+  stripy: 106646
+  stroppy: 222619
+  superspy: 258011
+not_scored_words:
+- Skippy
+- Snoopy
+- scrimpy
+- serotherapy
+- sharpy
+- slaphappy
+- stenotypy
+- stereoscopy

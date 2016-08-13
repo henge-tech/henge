@@ -1,0 +1,38 @@
+---
+pattern: poin_
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 28
+score: 1667174
+score_per_word: 92620
+hi_scored_words:
+  poinsettia: 63937
+  point: 233
+  pointed: 3002
+  pointedly: 58999
+  pointer: 10596
+  pointers: 15681
+  pointing: 4729
+  pointless: 19141
+  points: 673
+  pointy: 35242
+scored_words:
+  poinciana: 119860
+  poinsettias: 126984
+  pointblank: 198602
+  pointedness: 325400
+  pointelle: 144923
+  pointillism: 208186
+  pointlessly: 140807
+  pointlessness: 190179
+not_scored_words:
+- Poincare
+- Poincaré
+- poincianas
+- pointier
+- pointiest
+- pointillist
+- pointillistic
+- pointillists
+- pointsman
+- pointsmen

@@ -1,0 +1,34 @@
+---
+pattern: pho_ic
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 24
+score: 1499877
+score_per_word: 83326
+hi_scored_words:
+  phobic: 67701
+  phonemic: 55636
+  phonetic: 26436
+  phonic: 58146
+  phosphoric: 41351
+  photoelectric: 51968
+  photogenic: 47672
+  photographic: 9249
+  photometric: 45002
+  photonic: 46958
+  photorealistic: 87976
+  photosynthetic: 44664
+  photovoltaic: 33659
+scored_words:
+  phonographic: 109510
+  phosphatic: 196916
+  photic: 121727
+  photospheric: 157873
+  photostatic: 297433
+not_scored_words:
+- phonologic
+- photoactinic
+- photobathic
+- photolytic
+- photothermic
+- phototropic

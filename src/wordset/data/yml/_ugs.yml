@@ -1,0 +1,46 @@
+---
+pattern: _ugs
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 36
+score: 2694290
+score_per_word: 103626
+hi_scored_words:
+  bedbugs: 74266
+  bugs: 6591
+  drugs: 3377
+  earplugs: 56477
+  hugs: 19008
+  jugs: 22736
+  ladybugs: 74257
+  lugs: 48850
+  mugs: 17534
+  plugs: 17434
+  pugs: 38141
+  rugs: 12190
+  shrugs: 36415
+  slugs: 37519
+  thugs: 23431
+  tugs: 47478
+scored_words:
+  chugs: 161171
+  debugs: 172663
+  fugs: 243454
+  humbugs: 224331
+  jitterbugs: 274008
+  mealybugs: 239494
+  shutterbugs: 213693
+  superbugs: 166173
+  tumblebugs: 228170
+  unplugs: 235429
+not_scored_words:
+- doodlebugs
+- firebugs
+- fireplugs
+- hearthrugs
+- litterbugs
+- redbugs
+- snugs
+- spittlebugs
+- stinkbugs
+- trugs

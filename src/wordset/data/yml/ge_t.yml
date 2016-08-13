@@ -1,0 +1,46 @@
+---
+pattern: ge_t
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 36
+score: 1980829
+score_per_word: 94325
+hi_scored_words:
+  gemeinschaft: 74664
+  genealogist: 58121
+  generalist: 44541
+  genet: 27525
+  geneticist: 65479
+  gent: 20415
+  geologist: 24975
+  gesellschaft: 23896
+  gest: 67353
+  gestalt: 34738
+  gesundheit: 56847
+  get: 78
+scored_words:
+  gearshift: 127256
+  geddit: 271282
+  geest: 120349
+  gemologist: 193339
+  gentlest: 106925
+  genuflect: 164203
+  geochemist: 270638
+  geophysicist: 104135
+  gerontologist: 124070
+not_scored_words:
+- Geist
+- Genet
+- Gent
+- Gestalt
+- geekiest
+- gemot
+- genit
+- genteelest
+- geochronologist
+- geodesist
+- gerent
+- germiest
+- germinant
+- gerontocrat
+- gestaltist

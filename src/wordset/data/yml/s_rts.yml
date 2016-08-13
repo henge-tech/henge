@@ -1,0 +1,36 @@
+---
+pattern: s_rts
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 26
+score: 594422
+score_per_word: 37151
+hi_scored_words:
+  seaports: 67810
+  shirts: 3375
+  shorts: 13333
+  skirts: 8037
+  smarts: 31274
+  snorts: 87551
+  sorts: 4709
+  sports: 5068
+  spurts: 67004
+  squirts: 35655
+  stalwarts: 83495
+  starts: 2700
+  supports: 3296
+  sweatshirts: 18751
+  sweethearts: 39351
+scored_words:
+  subverts: 123013
+not_scored_words:
+- Stuarts
+- saltworts
+- slipperworts
+- soapworts
+- spaceports
+- spiderworts
+- spleenworts
+- spoilsports
+- starworts
+- stoneworts

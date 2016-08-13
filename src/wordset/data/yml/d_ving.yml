@@ -1,0 +1,24 @@
+---
+pattern: d_ving
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 14
+score: 840596
+score_per_word: 64661
+hi_scored_words:
+  deceiving: 33743
+  delving: 55718
+  depriving: 39378
+  deriving: 27062
+  deserving: 16366
+  devolving: 99574
+  disapproving: 65526
+  dissolving: 28863
+  diving: 7459
+  driving: 1636
+scored_words:
+  disbelieving: 109369
+  disproving: 118735
+  droving: 237167
+not_scored_words:
+- depraving

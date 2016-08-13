@@ -1,0 +1,32 @@
+---
+pattern: ac_c
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 22
+score: 509625
+score_per_word: 42468
+hi_scored_words:
+  academic: 4036
+  acc: 9989
+  acerbic: 78378
+  acetic: 30651
+  achromatic: 74588
+  acidic: 23341
+  acoustic: 8002
+  acrobatic: 50004
+  acrostic: 88004
+  acrylic: 14841
+  actinic: 64732
+  acyclic: 63059
+scored_words: {}
+not_scored_words:
+- acatalectic
+- acentric
+- acetonic
+- achromic
+- acidotic
+- acromegalic
+- acronymic
+- acrophobic
+- actinomorphic
+- activistic

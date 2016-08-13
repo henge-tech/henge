@@ -1,0 +1,28 @@
+---
+pattern: grow_
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 18
+score: 718658
+score_per_word: 44916
+hi_scored_words:
+  grow: 1588
+  grower: 27855
+  growers: 19040
+  growing: 1272
+  growl: 26744
+  growled: 34299
+  growler: 86249
+  growling: 40701
+  growls: 56899
+  grown: 2466
+  grownup: 77640
+  grownups: 57274
+  grows: 5096
+  growth: 985
+  growths: 48223
+scored_words:
+  growlers: 232327
+not_scored_words:
+- growings
+- growly

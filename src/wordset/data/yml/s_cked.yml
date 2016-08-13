@@ -1,0 +1,35 @@
+---
+pattern: s_cked
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 25
+score: 1481011
+score_per_word: 98734
+hi_scored_words:
+  sacked: 23432
+  shipwrecked: 56020
+  shocked: 6810
+  sidetracked: 66609
+  smacked: 40982
+  stacked: 16412
+  stocked: 17262
+  sucked: 11331
+scored_words:
+  shacked: 244722
+  shucked: 172508
+  slacked: 136960
+  slicked: 122654
+  smocked: 143808
+  snacked: 297986
+  socked: 123515
+not_scored_words:
+- shellacked
+- shellshocked
+- shuttlecocked
+- sicked
+- skyjacked
+- snicked
+- specked
+- spellchecked
+- swacked
+- swaybacked

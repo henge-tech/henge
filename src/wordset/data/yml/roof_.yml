@@ -1,0 +1,23 @@
+---
+pattern: roof_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 472588
+score_per_word: 52509
+hi_scored_words:
+  roof: 2616
+  roofed: 42293
+  roofer: 73467
+  roofers: 77028
+  roofing: 20650
+  roofs: 13087
+  rooftop: 23981
+  rooftops: 43701
+scored_words:
+  roofless: 175765
+not_scored_words:
+- roofgarden
+- roofie
+- rooftree
+- rooftrees

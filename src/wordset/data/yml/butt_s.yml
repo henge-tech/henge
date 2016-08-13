@@ -1,0 +1,30 @@
+---
+pattern: butt_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 804987
+score_per_word: 73180
+hi_scored_words:
+  butterflies: 11549
+  butters: 44437
+  buttes: 77851
+  buttocks: 30435
+  buttons: 7693
+  buttress: 52523
+  buttresses: 89910
+  butts: 11238
+scored_words:
+  buttercups: 118653
+  butterfingers: 225414
+  buttonholes: 135284
+not_scored_words:
+- Butterfingers
+- butterballs
+- butterburs
+- butteries
+- butternuts
+- butterworts
+- butties
+- buttonhooks
+- buttonwoods

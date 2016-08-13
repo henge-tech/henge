@@ -1,0 +1,58 @@
+---
+pattern: b_os
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 48
+score: 2430205
+score_per_word: 110463
+hi_scored_words:
+  bamboos: 84720
+  banjos: 52416
+  barrios: 51421
+  bimbos: 81580
+  bios: 13708
+  bistros: 97030
+  bongos: 58625
+  boos: 42300
+  bravos: 89305
+  broncos: 12727
+  bros: 15888
+  burritos: 44940
+  burros: 89159
+scored_words:
+  bathos: 182285
+  benthos: 112076
+  boleros: 159291
+  bolivianos: 332372
+  bolos: 185716
+  bonitos: 290625
+  bonobos: 118152
+  bozos: 124245
+  buckaroos: 191624
+not_scored_words:
+- BIOS
+- Barbados
+- Barros
+- Basutos
+- Brazos
+- Bros
+- Burgos
+- Byblos
+- bagnios
+- ballyhoos
+- bambinos
+- banderilleros
+- bargellos
+- bassos
+- bastinados
+- beanos
+- beefalos
+- booboos
+- boohoos
+- bordellos
+- braceros
+- braggadocios
+- bugaboos
+- buncos
+- bunkos
+- burgoos

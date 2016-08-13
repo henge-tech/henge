@@ -1,0 +1,22 @@
+---
+pattern: craz_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 643735
+score_per_word: 64373
+hi_scored_words:
+  craze: 22972
+  crazed: 31610
+  crazier: 64476
+  crazies: 64958
+  craziest: 51769
+  crazily: 96600
+  craziness: 41690
+  crazy: 2551
+scored_words:
+  crazes: 157038
+  crazing: 110071
+not_scored_words:
+- crazyweed
+- crazyweeds

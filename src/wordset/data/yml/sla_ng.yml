@@ -1,0 +1,30 @@
+---
+pattern: sla_ng
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 20
+score: 1677242
+score_per_word: 104827
+hi_scored_words:
+  slacking: 61729
+  slamming: 30128
+  slang: 13728
+  slanting: 71728
+  slapping: 31580
+  slashing: 36156
+  slaughtering: 44383
+  slaving: 91848
+  slaying: 31637
+scored_words:
+  slackening: 138288
+  slagging: 108222
+  slandering: 105911
+  slanging: 240766
+  slathering: 270330
+  slating: 168887
+  slavering: 231921
+not_scored_words:
+- slabbering
+- slabbing
+- slaking
+- slaloming

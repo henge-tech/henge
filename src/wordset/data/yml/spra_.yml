@@ -1,0 +1,30 @@
+---
+pattern: spra_
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 20
+score: 1021203
+score_per_word: 63825
+hi_scored_words:
+  sprain: 48172
+  sprained: 47206
+  sprains: 58665
+  sprang: 21532
+  sprat: 89180
+  sprawl: 31476
+  sprawled: 60929
+  sprawling: 30161
+  spray: 7766
+  sprayed: 30132
+  sprayer: 43280
+  sprayers: 61001
+  spraying: 26644
+  sprays: 23870
+scored_words:
+  spraining: 286914
+  sprawls: 154275
+not_scored_words:
+- spraddle
+- sprag
+- sprags
+- sprats

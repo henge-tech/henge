@@ -1,0 +1,34 @@
+---
+pattern: f_ler
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 24
+score: 931250
+score_per_word: 84659
+hi_scored_words:
+  faller: 92903
+  feeler: 75147
+  feller: 39661
+  fiddler: 25631
+  filer: 47549
+  filler: 17078
+  footballer: 34527
+  fuller: 8415
+scored_words:
+  feebler: 248795
+  fortuneteller: 213601
+  fouler: 127943
+not_scored_words:
+- Fiedler
+- Fowler
+- Fuller
+- Furtwangler
+- Furtwängler
+- fickler
+- finagler
+- foreteller
+- fragiler
+- frailer
+- fueler
+- fulfiller
+- fumbler

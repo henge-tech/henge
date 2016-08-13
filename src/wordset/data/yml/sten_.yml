@@ -1,0 +1,42 @@
+---
+pattern: sten_
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 32
+score: 1782222
+score_per_word: 99012
+hi_scored_words:
+  stench: 27729
+  stencil: 23932
+  stenciled: 99301
+  stencils: 37808
+  steno: 64687
+  stenographer: 59460
+  stenosis: 25992
+  stent: 33198
+  stentor: 78767
+  stents: 58531
+scored_words:
+  stenciling: 104417
+  stenographers: 116537
+  stenographic: 122308
+  stenography: 137817
+  stenoses: 152010
+  stenotic: 195492
+  stenotype: 270511
+  stentorian: 173725
+not_scored_words:
+- Stendhal
+- Stengel
+- Stentor
+- stenches
+- stenograph
+- stenographically
+- stenopetalous
+- stenophagous
+- stenophyllous
+- stenos
+- stenosed
+- stenosing
+- stenotypy
+- stentors

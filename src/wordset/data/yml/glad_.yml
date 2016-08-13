@@ -1,0 +1,37 @@
+---
+pattern: glad_
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 27
+score: 1925059
+score_per_word: 106947
+hi_scored_words:
+  glad: 2019
+  gladden: 67921
+  glade: 21030
+  glades: 47440
+  gladiator: 23074
+  gladiators: 34284
+  gladiolus: 95574
+  gladly: 9348
+  gladness: 39536
+  gladstone: 24198
+scored_words:
+  gladdened: 173897
+  gladdening: 218728
+  gladder: 180551
+  gladiatorial: 134995
+  gladiolas: 283528
+  gladioli: 158965
+  glads: 275973
+  gladsome: 133998
+not_scored_words:
+- Gladstone
+- Gladstones
+- Gladys
+- gladdens
+- gladdest
+- gladiate
+- gladiola
+- gladsomely
+- gladstones

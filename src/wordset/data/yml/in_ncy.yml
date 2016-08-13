@@ -1,0 +1,41 @@
+---
+pattern: in_ncy
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 31
+score: 1842206
+score_per_word: 102344
+hi_scored_words:
+  inconsistency: 19147
+  incumbency: 90590
+  indecency: 52485
+  inefficiency: 34769
+  inerrancy: 99512
+  infancy: 15017
+  insolvency: 29750
+  insufficiency: 28971
+  insurgency: 22185
+scored_words:
+  inadvertency: 189424
+  inclemency: 139743
+  incompetency: 107579
+  inconstancy: 176782
+  independency: 147628
+  infrequency: 202449
+  innocency: 252803
+  interdependency: 108465
+  intermittency: 124907
+not_scored_words:
+- incessancy
+- incipiency
+- incoherency
+- inconveniency
+- inelegancy
+- inexpediency
+- inhabitancy
+- inherency
+- insignificancy
+- insistency
+- instancy
+- intendancy
+- intransigency

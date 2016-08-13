@@ -1,0 +1,28 @@
+---
+pattern: st_ted
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 1038704
+score_per_word: 86558
+hi_scored_words:
+  stagnated: 85158
+  started: 579
+  stated: 1622
+  stilted: 65011
+  stimulated: 11657
+  stipulated: 18762
+  striated: 61103
+  stunted: 45063
+scored_words:
+  stalemated: 256628
+  stinted: 119602
+  strangulated: 260377
+  strutted: 113142
+not_scored_words:
+- statemented
+- stellated
+- stetted
+- stouthearted
+- straitjacketed
+- stridulated

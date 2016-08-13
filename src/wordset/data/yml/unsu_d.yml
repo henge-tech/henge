@@ -1,0 +1,24 @@
+---
+pattern: unsu_d
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 14
+score: 1232629
+score_per_word: 102719
+hi_scored_words:
+  unsubscribed: 80273
+  unsubsidized: 77468
+  unsubstantiated: 46572
+  unsuited: 73024
+  unsupervised: 38132
+  unsupported: 22099
+  unsurpassed: 34661
+  unsuspected: 70502
+scored_words:
+  unsubdued: 151389
+  unsullied: 123842
+  unsuppressed: 270796
+  unsurprised: 243871
+not_scored_words:
+- unsurfaced
+- unsustained

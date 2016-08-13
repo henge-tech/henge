@@ -1,0 +1,38 @@
+---
+pattern: _illy
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 28
+score: 872901
+score_per_word: 58193
+hi_scored_words:
+  billy: 3155
+  chilly: 15893
+  civilly: 78387
+  dilly: 64233
+  filly: 31263
+  frilly: 66457
+  hillbilly: 35712
+  hilly: 31238
+  rockabilly: 33671
+  shrilly: 89330
+  silly: 4305
+  willy: 13581
+scored_words:
+  evilly: 101205
+  stilly: 126939
+  tranquilly: 177532
+not_scored_words:
+- Bailly
+- Bareilly
+- Billy
+- Caerphilly
+- Chantilly
+- Lilly
+- Philly
+- Piccadilly
+- Reilly
+- Scilly
+- Willy
+- frailly
+- uncivilly

@@ -1,0 +1,31 @@
+---
+pattern: vali_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 21
+score: 658144
+score_per_word: 47010
+hi_scored_words:
+  valiant: 14094
+  valiantly: 63382
+  valid: 3744
+  validate: 15586
+  validated: 13939
+  validates: 41288
+  validating: 29090
+  validation: 11902
+  validity: 8246
+  validly: 56577
+  valine: 70536
+  valise: 80058
+scored_words:
+  validations: 104205
+  valises: 145497
+not_scored_words:
+- Valium
+- Valiums
+- valiance
+- valiancies
+- valiancy
+- validness
+- valines

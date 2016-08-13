@@ -1,0 +1,20 @@
+---
+pattern: ensu_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 162757
+score_per_word: 20344
+hi_scored_words:
+  ensue: 33137
+  ensued: 25553
+  ensues: 40315
+  ensuing: 19301
+  ensure: 3171
+  ensured: 19972
+  ensures: 15714
+  ensuring: 5594
+scored_words: {}
+not_scored_words:
+- ensurer
+- ensurers

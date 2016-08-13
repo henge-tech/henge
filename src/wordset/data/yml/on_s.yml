@@ -1,0 +1,34 @@
+---
+pattern: on_s
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 24
+score: 1080654
+score_per_word: 90054
+hi_scored_words:
+  oncogenes: 77443
+  oncologists: 67571
+  oneness: 26357
+  onerous: 35933
+  ones: 1168
+  onions: 10683
+  onlookers: 50880
+  onus: 39971
+scored_words:
+  oncogenesis: 178323
+  onomastics: 272909
+  onsets: 130398
+  onslaughts: 189018
+not_scored_words:
+- Onassis
+- Oneidas
+- Onions
+- Onondagas
+- onagers
+- onagraceous
+- onanisms
+- onanists
+- onerousness
+- onrushes
+- onuses
+- onyxes

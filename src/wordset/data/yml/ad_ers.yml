@@ -1,0 +1,23 @@
+---
+pattern: ad_ers
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 579088
+score_per_word: 52644
+hi_scored_words:
+  adapters: 13624
+  adders: 75339
+  adjusters: 56231
+  administers: 31436
+  admirers: 33052
+  adopters: 41313
+  adventurers: 26275
+  advertisers: 7050
+  advisers: 11764
+scored_words:
+  adorers: 170489
+  adulterers: 112515
+not_scored_words:
+- adherers
+- admonishers

@@ -1,0 +1,53 @@
+---
+pattern: th_t
+hi_scored_words_count: 21
+scored_words_count: 7
+total_words: 43
+score: 2287350
+score_per_word: 81691
+hi_scored_words:
+  that: 6
+  theft: 5081
+  theist: 62221
+  theorist: 35411
+  therapist: 12056
+  thereat: 89569
+  thermostat: 24556
+  thickest: 58118
+  thicket: 38487
+  thinnest: 62011
+  thirst: 12531
+  thought: 346
+  threat: 3520
+  thrift: 17795
+  throat: 2836
+  throughout: 1054
+  throughput: 19755
+  thrust: 6850
+  thumbprint: 88319
+  thunderbolt: 28228
+  thwart: 27280
+scored_words:
+  theocrat: 341699
+  theosophist: 155776
+  thereabout: 172412
+  theurgist: 225070
+  thickset: 178768
+  thorniest: 291308
+  throwout: 326287
+not_scored_words:
+- Thanet
+- Thant
+- Thermit
+- thanatologist
+- thaumaturgist
+- therapeutist
+- thermodynamicist
+- thermoluminescent
+- thirstiest
+- thoroughest
+- thoroughwort
+- threadiest
+- threnodist
+- thriftiest
+- throatiest

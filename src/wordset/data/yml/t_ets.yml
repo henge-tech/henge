@@ -1,0 +1,36 @@
+---
+pattern: t_ets
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 26
+score: 1376717
+score_per_word: 91781
+hi_scored_words:
+  tablets: 7876
+  targets: 8776
+  tenets: 25080
+  thickets: 58311
+  tickets: 2738
+  toilets: 18414
+  trinkets: 43061
+  triplets: 41044
+  trumpets: 32044
+  turrets: 43959
+scored_words:
+  tappets: 303270
+  tartlets: 188979
+  tippets: 224111
+  tourniquets: 199540
+  trivets: 179514
+not_scored_words:
+- TELNETs
+- Tebets
+- Tets
+- Tevets
+- taborets
+- tassets
+- tercets
+- turbojets
+- tweets
+- twinsets
+- typesets

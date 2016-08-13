@@ -1,0 +1,57 @@
+---
+pattern: _tum
+hi_scored_words_count: 18
+scored_words_count: 13
+total_words: 47
+score: 3031548
+score_per_word: 97791
+hi_scored_words:
+  arboretum: 28533
+  centum: 69920
+  datum: 25638
+  dictum: 41063
+  erratum: 63446
+  factotum: 92077
+  momentum: 9847
+  postpartum: 29135
+  quantum: 9589
+  rectum: 29632
+  sanctum: 43483
+  scrotum: 41199
+  septum: 34629
+  sputum: 42024
+  stratum: 23571
+  substratum: 60125
+  tum: 27192
+  ultimatum: 33059
+scored_words:
+  ageratum: 208948
+  argentum: 151754
+  argumentum: 169933
+  cementum: 210045
+  desideratum: 149745
+  equisetum: 142388
+  frustum: 124488
+  notum: 222994
+  omentum: 146291
+  petrolatum: 145101
+  pinetum: 185514
+  pomatum: 318592
+  scutum: 151593
+not_scored_words:
+- Mentholatum
+- Paestum
+- Scutum
+- Tarentum
+- Tatum
+- Tridentum
+- acetum
+- adytum
+- asphaltum
+- ideatum
+- ramentum
+- sarmentum
+- superstratum
+- tapetum
+- teetotum
+- unguentum

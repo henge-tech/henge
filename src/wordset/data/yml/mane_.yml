@@ -1,0 +1,23 @@
+---
+pattern: mane_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 1137228
+score_per_word: 103384
+hi_scored_words:
+  mane: 21433
+  manes: 60569
+  maneuver: 21085
+  maneuverability: 62966
+  maneuverable: 96920
+  maneuvered: 78042
+  maneuvering: 43211
+  maneuvers: 30761
+scored_words:
+  maned: 170613
+  manege: 299023
+  maneuverings: 252605
+not_scored_words:
+- Manes
+- Manet

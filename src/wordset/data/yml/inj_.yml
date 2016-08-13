@@ -1,0 +1,39 @@
+---
+pattern: inj_
+hi_scored_words_count: 20
+scored_words_count: 4
+total_words: 29
+score: 1389207
+score_per_word: 57883
+hi_scored_words:
+  inject: 20377
+  injected: 17282
+  injecting: 25806
+  injection: 11355
+  injections: 24463
+  injector: 31056
+  injectors: 45397
+  injects: 66220
+  injunction: 14504
+  injunctions: 37946
+  injunctive: 58186
+  injure: 21677
+  injured: 4206
+  injures: 48579
+  injuries: 7524
+  injuring: 31754
+  injurious: 26886
+  injury: 2181
+  injustice: 10156
+  injustices: 42721
+scored_words:
+  injudicious: 162104
+  injudiciously: 169150
+  injurer: 327091
+  injuriously: 182586
+not_scored_words:
+- Injun
+- injudiciousness
+- injurers
+- injuriousness
+- injuriousnesses

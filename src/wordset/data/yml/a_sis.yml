@@ -1,0 +1,81 @@
+---
+pattern: a_sis
+hi_scored_words_count: 13
+scored_words_count: 21
+total_words: 71
+score: 4512315
+score_per_word: 132715
+hi_scored_words:
+  abiogenesis: 95224
+  acidosis: 41970
+  amniocentesis: 75896
+  analysis: 1780
+  anastomosis: 52667
+  angiogenesis: 46509
+  antithesis: 37021
+  apoptosis: 20477
+  apotheosis: 65493
+  arteriosclerosis: 48690
+  asbestosis: 85326
+  aspergillosis: 98827
+  atherosclerosis: 30622
+scored_words:
+  actinomycosis: 174588
+  agenesis: 118340
+  agranulocytosis: 144866
+  alkalosis: 120828
+  amanuensis: 153543
+  anabasis: 186191
+  anacrusis: 302448
+  anagnorisis: 204354
+  anamnesis: 192588
+  ankylosis: 234929
+  anthesis: 188735
+  apheresis: 130237
+  apodosis: 141892
+  aponeurosis: 265089
+  apophysis: 130564
+  apsis: 163822
+  arsis: 243376
+  ascariasis: 259909
+  asepsis: 174218
+  atelectasis: 128797
+  autolysis: 152499
+not_scored_words:
+- ANSIs
+- abiosis
+- acariasis
+- aerobiosis
+- aeroneurosis
+- agamogenesis
+- alphosis
+- amaurosis
+- amitosis
+- ampelopsis
+- amphiarthrosis
+- amylolysis
+- anabiosis
+- anadiplosis
+- anamorphosis
+- ancylostomiasis
+- ankylostomiasis
+- anthracosilicosis
+- anthracosis
+- anthropogenesis
+- anthropomorphosis
+- antibiosis
+- antiperistalsis
+- antiphrasis
+- antipyresis
+- antisepsis
+- aphesis
+- apophasis
+- aposiopesis
+- ascesis
+- astereognosis
+- atmolysis
+- autocatalysis
+- autogenesis
+- autohypnosis
+- auxesis
+- avitaminosis

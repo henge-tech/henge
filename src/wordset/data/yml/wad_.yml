@@ -1,0 +1,33 @@
+---
+pattern: wad_
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 23
+score: 1876872
+score_per_word: 110404
+hi_scored_words:
+  wad: 24378
+  waddle: 53870
+  wade: 8329
+  waded: 61084
+  wader: 72245
+  waders: 48091
+  wadi: 37867
+  wading: 25781
+  wads: 78366
+scored_words:
+  wadded: 159190
+  wadding: 107097
+  waddled: 154401
+  waddles: 245935
+  waddling: 115776
+  wades: 104781
+  wadge: 325504
+  wadis: 254177
+not_scored_words:
+- Wadai
+- Wade
+- wadable
+- waddler
+- wadges
+- wadmal

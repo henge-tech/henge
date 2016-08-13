@@ -1,0 +1,36 @@
+---
+pattern: mon_r
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 26
+score: 997555
+score_per_word: 71253
+hi_scored_words:
+  moneymaker: 75902
+  monger: 56926
+  moniker: 36220
+  monitor: 6427
+  monocular: 51114
+  monolayer: 59307
+  monomer: 37795
+  mononuclear: 50558
+  monsieur: 16470
+  monsignor: 51623
+  monster: 3173
+scored_words:
+  moneylender: 204455
+  monseigneur: 107596
+  montgolfier: 239989
+not_scored_words:
+- Monseigneur
+- Monsieur
+- Monsignor
+- Montgolfier
+- Montpelier
+- Montpellier
+- moneychanger
+- moneyer
+- moneygrubber
+- monographer
+- monomolecular
+- monopolizer

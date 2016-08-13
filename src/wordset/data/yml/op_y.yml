@@ -1,0 +1,38 @@
+---
+pattern: op_y
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 28
+score: 1824674
+score_per_word: 91233
+hi_scored_words:
+  opacity: 28092
+  openly: 7876
+  operability: 88115
+  operationally: 46578
+  operatively: 76353
+  ophthalmology: 22194
+  opportunity: 856
+  optically: 37381
+  optimality: 47878
+  optimally: 37776
+  optimistically: 89886
+  optionally: 24189
+  optometry: 39911
+scored_words:
+  operably: 234863
+  ophthalmoscopy: 222241
+  opportunely: 213962
+  opportunistically: 144885
+  oppositely: 117823
+  oppressively: 174765
+  optionality: 169050
+not_scored_words:
+- opaquely
+- openhandedly
+- operatically
+- ophiolatry
+- ophiology
+- opposability
+- opprobriously
+- opulently

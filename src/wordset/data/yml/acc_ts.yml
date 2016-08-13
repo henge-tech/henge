@@ -1,0 +1,25 @@
+---
+pattern: acc_ts
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 791960
+score_per_word: 65996
+hi_scored_words:
+  accents: 12602
+  accepts: 6236
+  accidents: 5544
+  accompaniments: 56673
+  accomplishments: 9663
+  accountants: 21202
+  accounts: 1689
+  accoutrements: 60924
+scored_words:
+  accompanists: 192459
+  accosts: 122029
+  accouterments: 185104
+  accredits: 117835
+not_scored_words:
+- accompanyists
+- accordionists
+- accouchements

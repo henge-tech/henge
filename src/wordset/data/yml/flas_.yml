@@ -1,0 +1,41 @@
+---
+pattern: flas_
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 31
+score: 2133185
+score_per_word: 88882
+hi_scored_words:
+  flash: 1726
+  flashback: 23218
+  flashbacks: 34264
+  flashcard: 92600
+  flashcards: 41983
+  flashed: 17999
+  flasher: 36019
+  flashers: 41695
+  flashes: 13751
+  flashing: 4964
+  flashlight: 19668
+  flashlights: 26965
+  flashpoint: 33296
+  flashy: 32910
+  flask: 17189
+  flasks: 37947
+scored_words:
+  flashbulb: 184279
+  flashbulbs: 248297
+  flashgun: 249216
+  flashguns: 180383
+  flashier: 193293
+  flashiest: 306351
+  flashover: 150819
+  flashpoints: 144353
+not_scored_words:
+- flashboard
+- flashcube
+- flashcubes
+- flashest
+- flashily
+- flashiness
+- flasket

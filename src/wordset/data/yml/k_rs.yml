@@ -1,0 +1,47 @@
+---
+pattern: k_rs
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 37
+score: 1422503
+score_per_word: 83676
+hi_scored_words:
+  keepers: 17137
+  kickers: 42445
+  kidnappers: 39295
+  killers: 10561
+  kilometers: 13339
+  kingfishers: 97669
+  knackers: 75603
+  knickers: 29827
+  knitters: 64730
+  knockers: 31469
+  kors: 31599
+scored_words:
+  kafirs: 218351
+  kaisers: 198374
+  kindergartners: 112074
+  kippers: 152626
+  kissers: 173832
+  knickerbockers: 113572
+not_scored_words:
+- Kafirs
+- Kaisers
+- Kashmirs
+- Khmers
+- keisters
+- keyboarders
+- keynoters
+- keypunchers
+- kibitzers
+- kicksorters
+- kidders
+- kieselguhrs
+- killdeers
+- kiloliters
+- kindergärtners
+- kingmakers
+- kneaders
+- knuckledusters
+- koshers
+- kvetchers

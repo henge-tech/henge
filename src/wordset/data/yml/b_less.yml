@@ -1,0 +1,30 @@
+---
+pattern: b_less
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 20
+score: 909414
+score_per_word: 64958
+hi_scored_words:
+  backless: 61724
+  baseless: 43055
+  blameless: 52462
+  bless: 4847
+  bloodless: 57036
+  boneless: 38406
+  bootless: 76712
+  bottomless: 37542
+  boundless: 28980
+  brainless: 58016
+  braless: 79298
+  breathless: 23091
+scored_words:
+  beardless: 134334
+  bodiless: 213911
+not_scored_words:
+- brakeless
+- branchless
+- brandless
+- breezeless
+- briefless
+- brimless

@@ -1,0 +1,52 @@
+---
+pattern: car_d
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 42
+score: 1790666
+score_per_word: 81393
+hi_scored_words:
+  caramelized: 75290
+  carbonated: 42354
+  card: 980
+  cardboard: 14366
+  carded: 44165
+  cardioid: 79575
+  cared: 8184
+  caressed: 53368
+  carotenoid: 92879
+  carotid: 24445
+  carpeted: 42722
+  carried: 1668
+  carted: 81013
+  carved: 7238
+  caryatid: 86244
+scored_words:
+  carbonized: 118226
+  careened: 175536
+  careered: 141343
+  caricatured: 132254
+  carjacked: 273286
+  carload: 115030
+  carpooled: 180500
+not_scored_words:
+- Card
+- Carlsbad
+- caracoled
+- carangid
+- carbolated
+- carboxylated
+- carburetted
+- carburized
+- carked
+- carnified
+- caroled
+- caromed
+- caroused
+- carped
+- carpentered
+- carpetbagged
+- cartilaginoid
+- cartload
+- cartooned
+- cartwheeled

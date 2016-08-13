@@ -1,0 +1,34 @@
+---
+pattern: ma_lly
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 24
+score: 1394501
+score_per_word: 92966
+hi_scored_words:
+  magically: 27430
+  magnetically: 50331
+  majestically: 82896
+  manually: 11473
+  marginally: 26786
+  masterfully: 64124
+  materially: 15321
+  mathematically: 29297
+  maximally: 55162
+scored_words:
+  macroscopically: 170585
+  magisterially: 211830
+  manfully: 124785
+  maniacally: 141515
+  manically: 251413
+  maternally: 131553
+not_scored_words:
+- macrocosmically
+- managerially
+- maritally
+- martially
+- masochistically
+- materialistically
+- maternalistically
+- matrilineally
+- matrimonially

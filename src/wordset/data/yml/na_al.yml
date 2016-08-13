@@ -1,0 +1,22 @@
+---
+pattern: na_al
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 382390
+score_per_word: 42487
+hi_scored_words:
+  narwhal: 66783
+  nasal: 13270
+  natal: 13981
+  national: 377
+  natural: 483
+  nautical: 13979
+  naval: 4354
+  navigational: 20587
+scored_words:
+  nagual: 248576
+not_scored_words:
+- Natal
+- narial
+- natatorial

@@ -1,0 +1,41 @@
+---
+pattern: dec_ion
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 31
+score: 1454173
+score_per_word: 60590
+hi_scored_words:
+  decapitation: 60139
+  deceleration: 47634
+  decentralization: 26933
+  deception: 11012
+  decimation: 45142
+  decision: 1114
+  declaration: 3901
+  declension: 76380
+  declination: 37680
+  decoction: 65385
+  decolonization: 87061
+  decomposition: 13218
+  decompression: 30970
+  deconstruction: 40711
+  decontamination: 36244
+  decoration: 8151
+  decriminalization: 96402
+  decryption: 43979
+scored_words:
+  declamation: 105992
+  declassification: 102491
+  decommission: 101850
+  decompensation: 172933
+  decortication: 122790
+  decurion: 116061
+not_scored_words:
+- decaffeination
+- decalcification
+- decantation
+- decillion
+- decimalization
+- decongestion
+- decussation

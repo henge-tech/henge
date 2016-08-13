@@ -1,0 +1,44 @@
+---
+pattern: _erts
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 34
+score: 1898527
+score_per_word: 75941
+hi_scored_words:
+  adverts: 16705
+  alerts: 5776
+  asserts: 15475
+  certs: 35478
+  concerts: 6789
+  converts: 10850
+  coverts: 94598
+  culverts: 56308
+  deserts: 17593
+  desserts: 21118
+  diverts: 76985
+  exerts: 41594
+  experts: 4505
+  inserts: 20140
+  inverts: 84018
+  perverts: 45431
+  reverts: 52889
+scored_words:
+  averts: 176574
+  extroverts: 213339
+  filberts: 214300
+  gilberts: 127771
+  introverts: 121418
+  lamberts: 121448
+  reasserts: 194412
+  subverts: 123013
+not_scored_words:
+- Camemberts
+- Dilberts
+- Roberts
+- animadverts
+- controverts
+- disconcerts
+- overexerts
+- reconverts
+- reinserts

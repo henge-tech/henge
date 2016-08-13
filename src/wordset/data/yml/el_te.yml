@@ -1,0 +1,25 @@
+---
+pattern: el_te
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 855011
+score_per_word: 71250
+hi_scored_words:
+  elaborate: 7464
+  electorate: 20679
+  electrolyte: 24171
+  elevate: 21915
+  eliminate: 7777
+  elite: 9481
+  elongate: 47004
+  elucidate: 35900
+scored_words:
+  elate: 195201
+  electrocute: 126955
+  electroplate: 189578
+  elute: 168886
+not_scored_words:
+- Elamite
+- elaterite
+- elutriate

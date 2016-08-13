@@ -1,0 +1,47 @@
+---
+pattern: c_ot
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 37
+score: 2143340
+score_per_word: 107167
+hi_scored_words:
+  cahoot: 65237
+  cannot: 50877
+  carrot: 16669
+  chariot: 17226
+  cheroot: 74120
+  cheviot: 69486
+  clot: 34784
+  compatriot: 64132
+  coot: 53297
+  copilot: 41638
+  cot: 15398
+  crackpot: 62999
+scored_words:
+  cachepot: 338185
+  carrycot: 244375
+  clubfoot: 138818
+  coffeepot: 151358
+  coltsfoot: 195385
+  complot: 212115
+  crapshoot: 188585
+  crowfoot: 108656
+not_scored_words:
+- Cabot
+- Camelot
+- Candiot
+- Carnot
+- Charcot
+- Cheviot
+- Corot
+- Cypriot
+- cachalot
+- challot
+- chamberpot
+- chassepot
+- colicroot
+- coquelicot
+- counterplot
+- crinkleroot
+- crowboot

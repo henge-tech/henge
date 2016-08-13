@@ -1,0 +1,32 @@
+---
+pattern: goo_s
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 22
+score: 1747359
+score_per_word: 116490
+hi_scored_words:
+  goodbyes: 51658
+  goodies: 11910
+  goodness: 6963
+  goods: 1344
+  goofs: 52220
+  googles: 63421
+  goons: 46431
+  goosebumps: 52472
+scored_words:
+  goobers: 206252
+  goofballs: 255581
+  goofiness: 162651
+  gooks: 137227
+  gooseberries: 106803
+  goosenecks: 325425
+  gooses: 267001
+not_scored_words:
+- goodbys
+- goodheartedness
+- goodliness
+- googlies
+- goosanders
+- goosefoots
+- goosesteps

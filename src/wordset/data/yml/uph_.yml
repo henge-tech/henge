@@ -1,0 +1,29 @@
+---
+pattern: uph_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 19
+score: 1295178
+score_per_word: 86345
+hi_scored_words:
+  upheaval: 31204
+  upheavals: 67414
+  upheld: 15210
+  uphill: 23601
+  uphold: 16315
+  upholding: 32966
+  upholds: 46784
+  upholstered: 32460
+  upholstery: 23118
+scored_words:
+  upholder: 179972
+  upholders: 231878
+  upholster: 188377
+  upholsterer: 106440
+  upholsterers: 108313
+  upholstering: 191126
+not_scored_words:
+- upheave
+- uphills
+- upholsters
+- uphroe

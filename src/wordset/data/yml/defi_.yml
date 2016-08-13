@@ -1,0 +1,55 @@
+---
+pattern: defi_
+hi_scored_words_count: 29
+scored_words_count: 5
+total_words: 45
+score: 1750371
+score_per_word: 51481
+hi_scored_words:
+  defiance: 13113
+  defiant: 21430
+  defiantly: 40205
+  defibrillation: 84862
+  defibrillator: 47585
+  defibrillators: 59266
+  deficiencies: 13254
+  deficiency: 8479
+  deficient: 12488
+  deficit: 8987
+  deficits: 23316
+  defied: 36782
+  defies: 35273
+  defile: 49673
+  defiled: 53701
+  defilement: 72096
+  definable: 48799
+  define: 3586
+  defined: 2294
+  defines: 9195
+  defining: 9016
+  definite: 6539
+  definitely: 3468
+  definiteness: 91045
+  definition: 2550
+  definitional: 61255
+  definitions: 6536
+  definitive: 12094
+  definitively: 35329
+scored_words:
+  defiler: 150796
+  defiles: 142897
+  defiling: 136362
+  definer: 166110
+  definiens: 281990
+not_scored_words:
+- defibrillate
+- defibrillations
+- deficiently
+- defier
+- defilade
+- defilades
+- defilers
+- definably
+- definers
+- definiendum
+- definitiveness

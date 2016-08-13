@@ -1,0 +1,47 @@
+---
+pattern: a_tors
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 37
+score: 2340113
+score_per_word: 86670
+hi_scored_words:
+  abductors: 82739
+  abettors: 86162
+  accelerators: 34593
+  acceptors: 67232
+  accumulators: 82228
+  activators: 63576
+  actors: 4116
+  actuators: 34344
+  administrators: 9960
+  agitators: 65236
+  alligators: 45964
+  alternators: 63331
+  ancestors: 7139
+  animators: 42820
+  applicators: 57092
+  arbitrators: 44335
+  attractors: 76870
+  auditors: 14705
+  aviators: 55287
+scored_words:
+  adjudicators: 101863
+  aerators: 135283
+  allocators: 203096
+  annotators: 243327
+  annunciators: 203077
+  appropriators: 188512
+  attenuators: 102477
+  authenticators: 224749
+not_scored_words:
+- abdicators
+- abnegators
+- abominators
+- abrogators
+- accentors
+- adductors
+- adulators
+- annihilators
+- appreciators
+- aspirators

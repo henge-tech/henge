@@ -1,0 +1,35 @@
+---
+pattern: do_ns
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 25
+score: 1190142
+score_per_word: 85010
+hi_scored_words:
+  dobbins: 61570
+  dolphins: 15340
+  domains: 6456
+  dominions: 35428
+  donations: 3208
+  dons: 31859
+  downs: 9402
+  downturns: 89709
+  dozens: 8302
+scored_words:
+  dobermans: 141381
+  documentations: 103047
+  dolmens: 262281
+  dominations: 253176
+  doubloons: 168983
+not_scored_words:
+- Dominicans
+- Dons
+- Dorians
+- Downs
+- dodecagons
+- dodecahedrons
+- doeskins
+- dolmans
+- donjons
+- doubletons
+- doyens

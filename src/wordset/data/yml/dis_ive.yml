@@ -1,0 +1,23 @@
+---
+pattern: dis_ive
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 13
+score: 1117763
+score_per_word: 85981
+hi_scored_words:
+  discriminative: 85849
+  discursive: 40212
+  disincentive: 67093
+  disjunctive: 61298
+  dismissive: 55841
+  dispersive: 64271
+  disruptive: 19287
+  dissipative: 70111
+  dissociative: 56727
+  distinctive: 7781
+  distributive: 43718
+scored_words:
+  disintegrative: 256737
+  dissuasive: 288838
+not_scored_words: []

@@ -1,0 +1,23 @@
+---
+pattern: div_d
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 640017
+score_per_word: 58183
+hi_scored_words:
+  dived: 36800
+  diverged: 56240
+  diversified: 14945
+  diverted: 19263
+  divested: 57470
+  divided: 3098
+  dividend: 12791
+  divorced: 11469
+  divulged: 56654
+scored_words:
+  divined: 108576
+  divvied: 262711
+not_scored_words:
+- divagated
+- divaricated

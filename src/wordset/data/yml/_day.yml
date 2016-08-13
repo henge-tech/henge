@@ -1,0 +1,45 @@
+---
+pattern: _day
+hi_scored_words_count: 16
+scored_words_count: 1
+total_words: 35
+score: 469507
+score_per_word: 27618
+hi_scored_words:
+  birthday: 2708
+  day: 90
+  domesday: 69072
+  doomsday: 31309
+  everyday: 4673
+  heyday: 36460
+  holiday: 1880
+  mayday: 41023
+  midday: 17781
+  noonday: 72634
+  payday: 11546
+  someday: 11581
+  today: 1078
+  weekday: 19154
+  workday: 35674
+  yesterday: 1473
+scored_words:
+  workaday: 111371
+not_scored_words:
+- Corday
+- Day
+- Domesday
+- Doubleday
+- Faraday
+- Friday
+- Holiday
+- Mayday
+- Monday
+- Saturday
+- Sunday
+- Thursday
+- Tuesday
+- Wednesday
+- Whitsunday
+- deathday
+- lackaday
+- washday

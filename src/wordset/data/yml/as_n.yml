@@ -1,0 +1,57 @@
+---
+pattern: as_n
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 47
+score: 1793779
+score_per_word: 68991
+hi_scored_words:
+  ascension: 18464
+  ascertain: 12537
+  ashen: 51396
+  aspen: 15547
+  asphyxiation: 81568
+  aspiration: 17273
+  aspirin: 16613
+  assassin: 14472
+  assassination: 11915
+  assemblyman: 42320
+  assertion: 8935
+  assign: 7572
+  assimilation: 20300
+  assn: 34062
+  association: 1406
+  assumption: 5325
+  astern: 63516
+  astrakhan: 86282
+scored_words:
+  ascidian: 154914
+  ascription: 120319
+  ashcan: 246244
+  aspersion: 185895
+  assemblymen: 212748
+  assemblywoman: 104112
+  asseveration: 146431
+  assignation: 113613
+not_scored_words:
+- Asben
+- Ascension
+- Asclepiadean
+- Ashmolean
+- Ashton
+- Asian
+- Aspen
+- Assiniboin
+- Assuan
+- Assumption
+- Assyrian
+- Aston
+- Astrakhan
+- Asuncion
+- Asunción
+- Aswan
+- assemblywomen
+- assentation
+- astrogation
+- astronavigation
+- asyndeton

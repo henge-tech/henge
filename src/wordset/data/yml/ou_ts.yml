@@ -1,0 +1,30 @@
+---
+pattern: ou_ts
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 840796
+score_per_word: 70066
+hi_scored_words:
+  outbursts: 43777
+  outcasts: 50008
+  outfits: 19328
+  outlets: 12850
+  outpatients: 54341
+  outposts: 43312
+  outputs: 9103
+  outs: 15088
+  outskirts: 16828
+scored_words:
+  ousts: 146103
+  outlasts: 145337
+  outwits: 284721
+not_scored_words:
+- outboasts
+- outfights
+- outhits
+- outpoints
+- outports
+- outsets
+- outshouts
+- outsmarts

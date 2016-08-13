@@ -1,0 +1,89 @@
+---
+pattern: g_c
+hi_scored_words_count: 29
+scored_words_count: 9
+total_words: 79
+score: 3010066
+score_per_word: 79212
+hi_scored_words:
+  galactic: 18422
+  gallic: 48748
+  galvanic: 60250
+  garlic: 9673
+  gastric: 17753
+  gastronomic: 65122
+  generic: 6881
+  genetic: 12663
+  genomic: 19208
+  genotypic: 89845
+  geocentric: 71333
+  geodesic: 45812
+  geodetic: 38103
+  geographic: 9229
+  geologic: 24266
+  geomagnetic: 52470
+  geometric: 18584
+  geomorphic: 96011
+  geriatric: 24726
+  germanic: 24178
+  gigantic: 10307
+  gnomic: 87460
+  gnostic: 36252
+  gothic: 6602
+  granitic: 80839
+  graphic: 5017
+  gravimetric: 88704
+  gymnastic: 40235
+  gynecologic: 48901
+scored_words:
+  ganglionic: 146551
+  genic: 146321
+  geoscientific: 285535
+  geostrophic: 118073
+  glottic: 284710
+  glyphic: 313112
+  glyptic: 225972
+  graphitic: 227614
+  gyroscopic: 104584
+not_scored_words:
+- GCC
+- Gadhelic
+- Gaelic
+- Gaiseric
+- Galenic
+- Gallic
+- Gangetic
+- Genseric
+- Geometric
+- Germanic
+- Glagolitic
+- Gnostic
+- Goidelic
+- Gothic
+- Greenlandic
+- galactopoietic
+- galvanometric
+- gametic
+- gamic
+- gastrologic
+- genitalic
+- geochronologic
+- geomantic
+- geoponic
+- georgic
+- geostatic
+- geotectonic
+- geothermic
+- gerontocratic
+- gerontologic
+- glossolalic
+- glyceric
+- glycogenic
+- gnathic
+- gnathonic
+- gnomonic
+- gonadic
+- gonadotropic
+- gynecic
+- gyromagnetic
+- gyrostatic

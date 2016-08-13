@@ -1,0 +1,47 @@
+---
+pattern: dea_s
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 37
+score: 2002157
+score_per_word: 91007
+hi_scored_words:
+  deaconess: 63162
+  deacons: 31538
+  deadens: 95728
+  deadlines: 11556
+  deadlocks: 85192
+  deafness: 26314
+  dealers: 5144
+  dealerships: 26146
+  dealings: 19459
+  deals: 3104
+  deans: 26539
+  dears: 50805
+  deathless: 90822
+  deaths: 4272
+scored_words:
+  deaconesses: 281857
+  deactivates: 127218
+  deadbeats: 118322
+  deadbolts: 196601
+  deadheads: 176547
+  deadness: 181619
+  deaneries: 190077
+  dearness: 190135
+not_scored_words:
+- deadenings
+- deadlights
+- deadliness
+- deadnesses
+- deadpans
+- deafens
+- dearests
+- dearies
+- dearths
+- deathbeds
+- deathblows
+- deathlessness
+- deathtraps
+- deathwatches
+- deaves

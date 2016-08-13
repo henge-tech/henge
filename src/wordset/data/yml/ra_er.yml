@@ -1,0 +1,70 @@
+---
+pattern: ra_er
+hi_scored_words_count: 23
+scored_words_count: 14
+total_words: 60
+score: 3489782
+score_per_word: 94318
+hi_scored_words:
+  racer: 17500
+  radiometer: 66366
+  rafter: 50160
+  raider: 16605
+  rainier: 29621
+  rainmaker: 69103
+  rainwater: 31651
+  raiser: 29931
+  rambler: 31459
+  rammer: 90803
+  rancher: 36657
+  rangefinder: 50809
+  ranger: 11205
+  raper: 83484
+  rapier: 46054
+  rapper: 20174
+  rarer: 41275
+  raster: 28202
+  rater: 52638
+  rather: 477
+  ratter: 77018
+  rattler: 64928
+  raver: 53079
+scored_words:
+  racier: 302569
+  racketeer: 136911
+  radiographer: 119770
+  railer: 219144
+  railroader: 104723
+  raker: 141035
+  ranker: 152695
+  ranter: 108399
+  rasher: 144267
+  ratepayer: 129344
+  rathskeller: 298004
+  ravager: 167428
+  ravisher: 209056
+  rawer: 257238
+not_scored_words:
+- Rainier
+- Ranger
+- Rathauser
+- Rather
+- racegoer
+- racketier
+- radiomicrometer
+- raggeder
+- raggedier
+- ragpicker
+- rallier
+- rampager
+- randier
+- rangier
+- ransomer
+- rapider
+- rasper
+- raspier
+- ratifier
+- rationalizer
+- rattier
+- raunchier
+- raveler

@@ -1,0 +1,60 @@
+---
+pattern: _ust
+hi_scored_words_count: 28
+scored_words_count: 3
+total_words: 50
+score: 960207
+score_per_word: 30974
+hi_scored_words:
+  adjust: 6541
+  antitrust: 17890
+  august: 630
+  bust: 7609
+  crust: 14578
+  disgust: 16334
+  distrust: 18980
+  dust: 2672
+  entrust: 30555
+  exhaust: 7888
+  gust: 19797
+  holocaust: 12156
+  joust: 54914
+  just: 85
+  locust: 22718
+  lust: 9256
+  mistrust: 29822
+  must: 123
+  oust: 42201
+  readjust: 77445
+  robust: 7040
+  rust: 10574
+  sawdust: 35300
+  stardust: 23725
+  thrust: 6850
+  trust: 861
+  unjust: 13835
+  wanderlust: 42460
+scored_words:
+  combust: 100542
+  encrust: 214884
+  illust: 111942
+not_scored_words:
+- August
+- Aust
+- Faust
+- Holocaust
+- Proust
+- Sallust
+- Zlatoust
+- adust
+- degust
+- dryasdust
+- honeylocust
+- hypocaust
+- overthrust
+- piecrust
+- preadjust
+- roust
+- shortcrust
+- underthrust
+- upthrust

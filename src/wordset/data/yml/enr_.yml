@@ -1,0 +1,40 @@
+---
+pattern: enr_
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 30
+score: 1286995
+score_per_word: 67736
+hi_scored_words:
+  enrage: 81555
+  enraged: 41059
+  enraptured: 87623
+  enrich: 16411
+  enriched: 13857
+  enriches: 61956
+  enriching: 33621
+  enrichment: 19156
+  enroll: 18557
+  enrolled: 7426
+  enrollee: 97708
+  enrollees: 49418
+  enrolling: 33135
+  enrollment: 5213
+  enrollments: 39677
+  enrolls: 66196
+scored_words:
+  enrages: 187029
+  enraging: 212329
+  enrapture: 215069
+not_scored_words:
+- Enrico
+- Enrique
+- Enron
+- enraptures
+- enrapturing
+- enravish
+- enrobe
+- enrobed
+- enrobes
+- enrobing
+- enroot

@@ -1,0 +1,30 @@
+---
+pattern: sp_ting
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1026469
+score_per_word: 78959
+hi_scored_words:
+  speculating: 40787
+  spitting: 26414
+  splinting: 98150
+  splitting: 12419
+  sporting: 4827
+  spotting: 18300
+  spouting: 40942
+  sprinting: 58466
+  sprouting: 44580
+scored_words:
+  spectating: 195323
+  splatting: 282004
+  spotlighting: 102788
+  spurting: 101469
+not_scored_words:
+- Speedwriting
+- spatting
+- spiriting
+- spirketing
+- spiting
+- sportscasting
+- sportswriting

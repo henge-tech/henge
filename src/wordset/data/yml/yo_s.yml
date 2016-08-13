@@ -1,0 +1,33 @@
+---
+pattern: yo_s
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 23
+score: 1375646
+score_per_word: 91709
+hi_scored_words:
+  yobs: 98638
+  yogis: 88284
+  yokes: 78083
+  yolks: 41592
+  yorkers: 34013
+  youngsters: 16452
+  yours: 1831
+  yourselves: 9049
+  yous: 42934
+  youthfulness: 96229
+  youths: 13992
+scored_words:
+  yogurts: 135706
+  yokels: 161780
+  yonks: 263164
+  younkers: 293899
+not_scored_words:
+- Yonkers
+- Yorkshires
+- Yorubas
+- yobbos
+- yodelers
+- yodels
+- yoicks
+- yowls

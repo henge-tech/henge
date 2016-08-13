@@ -1,0 +1,39 @@
+---
+pattern: sunb_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 29
+score: 1717992
+score_per_word: 107374
+hi_scored_words:
+  sunbathing: 40810
+  sunbeam: 25050
+  sunbeams: 95858
+  sunbed: 81419
+  sunbeds: 89978
+  sunbelt: 61599
+  sunblock: 58758
+  sunburn: 36622
+  sunburned: 77077
+  sunburst: 39901
+scored_words:
+  sunbathe: 120102
+  sunbathers: 204577
+  sunbonnet: 207736
+  sunbow: 271626
+  sunburns: 137692
+  sunbursts: 169187
+not_scored_words:
+- Sunbeam
+- Sunbelt
+- sunbaked
+- sunbath
+- sunbathed
+- sunbather
+- sunbathes
+- sunbaths
+- sunbelts
+- sunblocks
+- sunbonnets
+- sunbreak
+- sunburning

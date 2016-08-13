@@ -1,0 +1,36 @@
+---
+pattern: h_ler
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 26
+score: 1393923
+score_per_word: 87120
+hi_scored_words:
+  handler: 10783
+  hauler: 53220
+  healer: 24756
+  heckler: 52913
+  heeler: 94605
+  heller: 20699
+  holler: 33430
+  howler: 42045
+  hurler: 90404
+  hustler: 19408
+scored_words:
+  haler: 168912
+  homeschooler: 184131
+  hostler: 143424
+  huller: 192879
+  humbler: 108307
+  hurdler: 154007
+not_scored_words:
+- Heller
+- Himmler
+- Hitler
+- Hospitaler
+- haggler
+- hailer
+- higgler
+- hobbler
+- hosteler
+- huddler

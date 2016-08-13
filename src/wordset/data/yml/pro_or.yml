@@ -1,0 +1,38 @@
+---
+pattern: pro_or
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 28
+score: 1013483
+score_per_word: 59616
+hi_scored_words:
+  processor: 3590
+  procrastinator: 73919
+  proctor: 22599
+  procurator: 65061
+  professor: 1350
+  progenitor: 36391
+  projector: 15132
+  propagator: 71368
+  proprietor: 15591
+  prosecutor: 12595
+  prospector: 39129
+  protector: 9307
+  protractor: 66323
+scored_words:
+  prognosticator: 188928
+  proliferator: 152610
+  propellor: 134435
+  protestor: 105155
+not_scored_words:
+- Protector
+- procreator
+- prohibitor
+- prolabor
+- prolocutor
+- promulgator
+- pronator
+- propitiator
+- propretor
+- proprioceptor
+- prosector

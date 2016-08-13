@@ -1,0 +1,33 @@
+---
+pattern: p_ot
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 23
+score: 800638
+score_per_word: 66719
+hi_scored_words:
+  parrot: 12194
+  patriot: 8023
+  peridot: 39981
+  phot: 65372
+  picot: 90771
+  pilot: 3381
+  pivot: 18196
+  plot: 2715
+  polyglot: 69096
+  pot: 3608
+scored_words:
+  potshot: 246509
+  pussyfoot: 240792
+not_scored_words:
+- Penobscot
+- Pequot
+- Perot
+- Peugeot
+- Pierrot
+- Pinot
+- Poirot
+- Prot
+- paletot
+- plumcot
+- puttyroot

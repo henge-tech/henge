@@ -1,0 +1,21 @@
+---
+pattern: col_l
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 11
+score: 294226
+score_per_word: 29422
+hi_scored_words:
+  coll: 15556
+  collateral: 12152
+  collegial: 58525
+  collisional: 87284
+  colloidal: 34050
+  colloquial: 37148
+  colonel: 5542
+  colonial: 5471
+  colorful: 18940
+  colossal: 19558
+scored_words: {}
+not_scored_words:
+- Colonel

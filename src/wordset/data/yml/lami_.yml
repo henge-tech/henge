@@ -1,0 +1,28 @@
+---
+pattern: lami_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 18
+score: 898613
+score_per_word: 74884
+hi_scored_words:
+  lamia: 76341
+  lamina: 41765
+  laminae: 79651
+  laminar: 41073
+  laminate: 24240
+  laminated: 19936
+  laminates: 49174
+  laminating: 50982
+  lamination: 54282
+scored_words:
+  laminator: 113615
+  laming: 183199
+  laminitis: 164355
+not_scored_words:
+- lamias
+- laminable
+- laminal
+- laminitises
+- laminose
+- laminous

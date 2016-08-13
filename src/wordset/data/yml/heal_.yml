@@ -1,0 +1,29 @@
+---
+pattern: heal_
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 19
+score: 1331006
+score_per_word: 73944
+hi_scored_words:
+  heal: 8136
+  healed: 17460
+  healer: 24756
+  healers: 32090
+  healing: 4251
+  healings: 90714
+  heals: 29499
+  health: 318
+  healthcare: 2812
+  healthful: 30386
+  healthier: 16115
+  healthiest: 35888
+  healthily: 89872
+  healthy: 2212
+scored_words:
+  healthfully: 224269
+  healthfulness: 304029
+  healthiness: 182331
+  healths: 235868
+not_scored_words:
+- healable

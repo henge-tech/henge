@@ -1,0 +1,24 @@
+---
+pattern: mode_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 886412
+score_per_word: 88641
+hi_scored_words:
+  modelers: 73782
+  models: 5146
+  modems: 17845
+  moderates: 38611
+  moderators: 5658
+  modernists: 77617
+  moderns: 68935
+  modes: 4605
+scored_words:
+  modernizations: 292041
+  modernizes: 302172
+not_scored_words:
+- modelings
+- moderateness
+- modernizers
+- modernness

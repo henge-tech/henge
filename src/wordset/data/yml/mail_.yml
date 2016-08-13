@@ -1,0 +1,35 @@
+---
+pattern: mail_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 25
+score: 1514128
+score_per_word: 94633
+hi_scored_words:
+  mail: 1166
+  mailbag: 45635
+  mailbox: 10768
+  mailboxes: 31225
+  mailed: 9549
+  mailer: 22794
+  mailers: 49350
+  mailing: 7043
+  mailings: 39627
+  maillot: 89476
+  mailman: 16055
+  mails: 10703
+scored_words:
+  mailable: 262332
+  mailbombing: 333727
+  mailshot: 264391
+  mailshots: 320287
+not_scored_words:
+- Mailer
+- Maillol
+- mailbags
+- mailbomb
+- mailbombed
+- mailbombs
+- maillots
+- mailmen
+- mailwoman

@@ -1,0 +1,53 @@
+---
+pattern: tail_
+hi_scored_words_count: 16
+scored_words_count: 15
+total_words: 43
+score: 3291515
+score_per_word: 106177
+hi_scored_words:
+  tail: 3502
+  tailback: 85067
+  tailed: 22344
+  tailgate: 23437
+  tailgating: 43855
+  tailing: 59872
+  tailings: 44051
+  taille: 56826
+  taillight: 57862
+  taillights: 55382
+  tailor: 13320
+  tailored: 10069
+  tailoring: 34428
+  tailors: 35349
+  tailpipe: 79418
+  tails: 12130
+scored_words:
+  tailbacks: 289381
+  tailbone: 124595
+  tailgater: 112236
+  tailgaters: 199955
+  tailgates: 119213
+  tailless: 156656
+  tailpiece: 100940
+  tailpieces: 219600
+  tailpipes: 213014
+  tailplane: 214116
+  tailrace: 200265
+  tailspin: 109450
+  tailstock: 209569
+  tailwind: 105792
+  tailwinds: 279821
+not_scored_words:
+- tailband
+- tailboard
+- tailboards
+- tailbones
+- tailcoat
+- tailcoats
+- tailgated
+- tailorbird
+- tailorbirds
+- tailraces
+- tailspins
+- tailstocks

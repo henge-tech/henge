@@ -1,0 +1,39 @@
+---
+pattern: va_g
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 29
+score: 2183541
+score_per_word: 109177
+hi_scored_words:
+  vacating: 76144
+  vacationing: 48649
+  vacuuming: 53927
+  validating: 29090
+  valuing: 34635
+  vang: 59976
+  vanishing: 18995
+  varying: 5969
+  vaulting: 49481
+  vaunting: 93341
+scored_words:
+  vaccinating: 101388
+  vacillating: 127467
+  vagabonding: 326339
+  valeting: 120915
+  valving: 211921
+  vamping: 219222
+  vandalizing: 149460
+  vanquishing: 144700
+  vaporizing: 161635
+  varnishing: 150287
+not_scored_words:
+- Vang
+- valuating
+- vamoosing
+- vanning
+- vaping
+- vaporing
+- variegating
+- vasectomizing
+- vatting

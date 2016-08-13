@@ -1,0 +1,25 @@
+---
+pattern: cur_d
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 767572
+score_per_word: 63964
+hi_scored_words:
+  curated: 29728
+  curbed: 45782
+  curd: 41289
+  cured: 10950
+  curled: 25683
+  curried: 62569
+  cursed: 10802
+  curtailed: 40271
+  curved: 9430
+scored_words:
+  curdled: 126657
+  curtained: 115118
+  curtsied: 249293
+not_scored_words:
+- curlicued
+- currycombed
+- curvetted

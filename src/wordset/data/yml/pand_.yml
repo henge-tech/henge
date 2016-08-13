@@ -1,0 +1,36 @@
+---
+pattern: pand_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 26
+score: 940142
+score_per_word: 78345
+hi_scored_words:
+  panda: 14964
+  pandas: 37025
+  pandemic: 21166
+  pandemonium: 44212
+  pander: 58414
+  pandering: 51706
+  pandit: 45558
+  pandora: 18841
+scored_words:
+  pandanus: 120855
+  pandemics: 106513
+  pandered: 226800
+  panders: 194088
+not_scored_words:
+- Pandarus
+- Pandean
+- Pandora
+- pandanuses
+- pandect
+- pandectist
+- panderer
+- panderers
+- pandiculation
+- pandour
+- pandowdies
+- pandowdy
+- pandurate
+- pandybat

@@ -1,0 +1,37 @@
+---
+pattern: eg_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 27
+score: 970332
+score_per_word: 88212
+hi_scored_words:
+  eggers: 58644
+  eggheads: 71956
+  eggplants: 99809
+  eggs: 3222
+  egos: 35049
+  egregious: 35525
+  egress: 31904
+  egrets: 78336
+scored_words:
+  egads: 165203
+  egalitarians: 290265
+  eggshells: 100419
+not_scored_words:
+- Egerias
+- Egyptians
+- Egyptologies
+- egests
+- eggbeaters
+- eggcups
+- eglantines
+- egocentrics
+- egocentrisms
+- egoists
+- egoless
+- egomaniacs
+- egotists
+- egregiousness
+- egresses
+- egressions

@@ -1,0 +1,66 @@
+---
+pattern: r_ning
+hi_scored_words_count: 28
+scored_words_count: 15
+total_words: 56
+score: 3658640
+score_per_word: 85084
+hi_scored_words:
+  raining: 15446
+  rationing: 36053
+  reasoning: 5549
+  reckoning: 21660
+  reclining: 29559
+  reconditioning: 69465
+  reddening: 78205
+  redefining: 34234
+  redesigning: 49391
+  refining: 17243
+  refraining: 70352
+  regaining: 38836
+  reigning: 28040
+  reining: 66394
+  rejoining: 75435
+  remaining: 2171
+  reopening: 39720
+  repositioning: 53052
+  requisitioning: 83228
+  resigning: 41210
+  restraining: 22296
+  retaining: 10554
+  retraining: 37684
+  returning: 3028
+  rezoning: 56986
+  ripening: 41826
+  ruining: 26591
+  running: 684
+scored_words:
+  ravening: 172228
+  realigning: 121022
+  reassigning: 145516
+  reawakening: 118329
+  recombining: 165661
+  reconvening: 235773
+  redlining: 148307
+  reexamining: 150511
+  relearning: 140907
+  relining: 206478
+  repartitioning: 237182
+  repining: 126918
+  rerunning: 223628
+  retuning: 216510
+  roughening: 194778
+not_scored_words:
+- reapportioning
+- reattaining
+- rechristening
+- recommissioning
+- reconsigning
+- redetermining
+- reexplaining
+- refashioning
+- refastening
+- repugning
+- resharpening
+- restrengthening
+- rosining

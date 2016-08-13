@@ -1,0 +1,50 @@
+---
+pattern: f_les
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 40
+score: 1997216
+score_per_word: 95105
+hi_scored_words:
+  fables: 24657
+  facsimiles: 73208
+  fairytales: 62292
+  females: 4826
+  fiddles: 70463
+  files: 1161
+  flagpoles: 92609
+  foibles: 65583
+  folktales: 57527
+  follicles: 41707
+  foxholes: 92030
+  freckles: 44540
+  fumbles: 35926
+scored_words:
+  fascicles: 157408
+  ferrules: 125237
+  finales: 107859
+  fizzles: 135609
+  flammables: 238550
+  fondles: 187581
+  freestyles: 110062
+  fumaroles: 268381
+not_scored_words:
+- Fowles
+- Francophiles
+- farandoles
+- farthingales
+- fascicules
+- ferules
+- finagles
+- fipples
+- floccules
+- fo'c'sles
+- fontanelles
+- footles
+- forecastles
+- frazzles
+- frizzles
+- fuddles
+- fungibles
+- funicles
+- furuncles

@@ -1,0 +1,40 @@
+---
+pattern: p_res
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 30
+score: 1871093
+score_per_word: 81351
+hi_scored_words:
+  padres: 20308
+  pares: 78243
+  pastures: 26348
+  pedicures: 65092
+  pictures: 712
+  pleasures: 8973
+  pores: 23392
+  postures: 41731
+  prefectures: 62881
+  premieres: 28933
+  prepares: 12400
+  pres: 12293
+  pressures: 12368
+  procedures: 8416
+  procures: 80254
+  punctures: 70382
+scored_words:
+  parterres: 129775
+  perseveres: 163054
+  pinafores: 204869
+  plowshares: 123549
+  portieres: 214341
+  prefigures: 269382
+  pyres: 213397
+not_scored_words:
+- Pres
+- perjures
+- perspires
+- photogravures
+- pismires
+- portières
+- prelatures

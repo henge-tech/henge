@@ -1,0 +1,77 @@
+---
+pattern: gol_
+hi_scored_words_count: 20
+scored_words_count: 9
+total_words: 67
+score: 2361753
+score_per_word: 81439
+hi_scored_words:
+  gold: 467
+  golden: 1522
+  goldeneye: 41098
+  goldenrod: 53448
+  goldfield: 83184
+  goldfields: 47973
+  goldfinch: 60849
+  goldfish: 27761
+  goldilocks: 65834
+  goldmine: 38189
+  golds: 42621
+  goldsmith: 18820
+  goldsmiths: 51165
+  goldstone: 58298
+  golem: 37081
+  golf: 4126
+  golfer: 18691
+  golfers: 20710
+  golfing: 19665
+  golly: 39111
+scored_words:
+  goldcrest: 134312
+  goldener: 202548
+  goldeneyes: 317481
+  goldenseal: 118593
+  goldfinches: 174875
+  golems: 101184
+  golfs: 168574
+  goliard: 287327
+  golliwog: 126246
+not_scored_words:
+- Golan
+- Golconda
+- Golda
+- Goldberg
+- Golden
+- Goldie
+- Goldilocks
+- Golding
+- Goldman
+- Goldoni
+- Goldschmidt
+- Goldsmith
+- Goldwater
+- Goldwyn
+- Golgi
+- Golgotha
+- Goliath
+- goldarn
+- goldarned
+- goldbrick
+- goldbricked
+- goldbricker
+- goldbrickers
+- goldbricking
+- goldbricks
+- goldcrests
+- goldenest
+- goldenseals
+- goldeye
+- goldfishes
+- goldmines
+- goldstones
+- goldthread
+- goldthreads
+- golfed
+- golfings
+- gollies
+- golliwogs

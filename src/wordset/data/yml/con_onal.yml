@@ -1,0 +1,32 @@
+---
+pattern: con_onal
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 22
+score: 762858
+score_per_word: 58681
+hi_scored_words:
+  concessional: 84794
+  conditional: 11770
+  confessional: 21910
+  conformational: 40175
+  confrontational: 44130
+  congregational: 24525
+  congressional: 7109
+  constitutional: 4015
+  constructional: 90260
+  conventional: 4153
+  conversational: 25212
+scored_words:
+  conceptional: 270729
+  configurational: 134076
+not_scored_words:
+- Congregational
+- Congressional
+- confutational
+- conjugational
+- conjunctional
+- connotational
+- conservational
+- convectional
+- convocational

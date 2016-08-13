@@ -1,0 +1,44 @@
+---
+pattern: hy_d
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 34
+score: 1945244
+score_per_word: 108069
+hi_scored_words:
+  hybrid: 8677
+  hybridized: 72014
+  hydrated: 36531
+  hydrogenated: 55239
+  hydrolyzed: 67164
+  hyped: 26815
+  hyperlinked: 78634
+  hyphenated: 54981
+  hypnotized: 45485
+  hypothesized: 34145
+scored_words:
+  hydatid: 136617
+  hydroid: 240828
+  hyoid: 131720
+  hyperboloid: 267880
+  hyperthyroid: 140156
+  hypertrophied: 180987
+  hypothecated: 261178
+  hypothyroid: 106193
+not_scored_words:
+- Hyderabad
+- hyaloid
+- hydracid
+- hydrocephaloid
+- hydroplaned
+- hymned
+- hyperacid
+- hyperbolized
+- hyperploid
+- hyperventilated
+- hyphened
+- hypocycloid
+- hypoploid
+- hypostatized
+- hyracoid
+- hysteroid

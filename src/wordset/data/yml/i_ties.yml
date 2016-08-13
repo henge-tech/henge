@@ -1,0 +1,70 @@
+---
+pattern: i_ties
+hi_scored_words_count: 14
+scored_words_count: 11
+total_words: 60
+score: 2483810
+score_per_word: 99352
+hi_scored_words:
+  identities: 9135
+  immunities: 45793
+  impurities: 27598
+  incompatibilities: 63381
+  indemnities: 88143
+  indignities: 98534
+  inequalities: 17968
+  inequities: 48763
+  infirmities: 66516
+  iniquities: 69461
+  insecurities: 48383
+  instabilities: 50062
+  intensities: 27865
+  irregularities: 24734
+scored_words:
+  illegalities: 249538
+  immoralities: 157488
+  impossibilities: 115263
+  improbabilities: 151147
+  improprieties: 116568
+  inanities: 154256
+  incongruities: 166152
+  infidelities: 140483
+  infinities: 118748
+  inhomogeneities: 119773
+  insanities: 308058
+not_scored_words:
+- imbecilities
+- immensities
+- impalpabilities
+- imperishabilities
+- impermissibilities
+- impieties
+- implausibilities
+- impracticabilities
+- impracticalities
+- inabilities
+- inapplicabilities
+- incivilities
+- incompressibilities
+- incontrovertibilities
+- incorporealities
+- incurabilities
+- indefatigabilities
+- indigestibilities
+- indomitabilities
+- indubitabilities
+- inebrieties
+- ineffectualities
+- inelasticities
+- inexorabilities
+- infelicities
+- inhumanities
+- insubstantialities
+- intentionalities
+- internationalities
+- intransitivities
+- inutilities
+- invisibilities
+- irrationalities
+- irrepressibilities
+- irreversibilities

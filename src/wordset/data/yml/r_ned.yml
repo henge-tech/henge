@@ -1,0 +1,68 @@
+---
+pattern: r_ned
+hi_scored_words_count: 29
+scored_words_count: 12
+total_words: 58
+score: 3412297
+score_per_word: 83226
+hi_scored_words:
+  rained: 26578
+  rationed: 91100
+  realigned: 81184
+  reasoned: 18638
+  reassigned: 39270
+  reckoned: 20982
+  reclined: 92033
+  reconditioned: 34426
+  reconvened: 69377
+  reddened: 74262
+  redefined: 29756
+  redesigned: 19185
+  reexamined: 91972
+  refined: 6288
+  refrained: 49446
+  regained: 19681
+  reigned: 23542
+  reined: 91183
+  rejoined: 28900
+  remained: 2522
+  renowned: 7867
+  reopened: 26849
+  repositioned: 79650
+  resigned: 9337
+  restrained: 16316
+  retained: 5069
+  returned: 1156
+  ripened: 55024
+  ruined: 8981
+scored_words:
+  reawakened: 149769
+  rechristened: 200478
+  recombined: 124061
+  recommissioned: 222052
+  redetermined: 279596
+  redlined: 328667
+  refashioned: 246746
+  relearned: 283484
+  requisitioned: 101855
+  retrained: 116215
+  rezoned: 116450
+  roughened: 122350
+not_scored_words:
+- rattlebrained
+- ravened
+- rawboned
+- reapportioned
+- reattained
+- reconsigned
+- reexplained
+- refastened
+- relined
+- repartitioned
+- repined
+- repugned
+- resharpened
+- resined
+- restrengthened
+- rhinestoned
+- rosined

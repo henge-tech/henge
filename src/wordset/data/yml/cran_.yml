@@ -1,0 +1,52 @@
+---
+pattern: cran_
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 42
+score: 1956620
+score_per_word: 85070
+hi_scored_words:
+  cranberries: 38330
+  cranberry: 22564
+  crane: 9484
+  cranes: 21887
+  cranial: 32209
+  craniofacial: 58879
+  cranium: 36164
+  crank: 14059
+  crankcase: 66370
+  cranked: 50228
+  cranking: 48672
+  cranks: 35761
+  crankshaft: 36955
+  cranky: 28936
+  crannies: 81261
+  cranny: 65379
+scored_words:
+  craned: 144029
+  craning: 167737
+  craniology: 223977
+  craniotomy: 131748
+  crankiness: 256343
+  crankshafts: 127032
+  crannog: 258616
+not_scored_words:
+- Cranach
+- Crane
+- Cranmer
+- Cranwell
+- cranage
+- craniate
+- craniates
+- craniometer
+- craniometers
+- craniometry
+- craniotomies
+- craniums
+- crankcases
+- crankier
+- crankiest
+- crankily
+- crankle
+- crankpin
+- crannied

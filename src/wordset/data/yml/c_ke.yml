@@ -1,0 +1,38 @@
+---
+pattern: c_ke
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 28
+score: 2126201
+score_per_word: 125070
+hi_scored_words:
+  cake: 3232
+  cheesecake: 21683
+  childlike: 36875
+  choke: 14532
+  clambake: 87410
+  coke: 11310
+  counterstrike: 49741
+  crake: 86217
+  cupcake: 37745
+scored_words:
+  canebrake: 282021
+  catlike: 161617
+  coffeecake: 275922
+  convoke: 266168
+  corncrake: 195717
+  cornflake: 152026
+  cowpoke: 167212
+  cuke: 276773
+not_scored_words:
+- Chesapeake
+- Christlike
+- Clarke
+- Coke
+- Cooke
+- churchlike
+- comake
+- corklike
+- counterstroke
+- crablike
+- craftsmanlike

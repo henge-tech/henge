@@ -1,0 +1,45 @@
+---
+pattern: _bar
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 35
+score: 1916784
+score_per_word: 87126
+hi_scored_words:
+  bar: 1247
+  cinnabar: 62070
+  crossbar: 43045
+  crowbar: 45122
+  durbar: 95508
+  foobar: 69812
+  handlebar: 41513
+  lumbar: 21142
+  minibar: 47226
+  sambar: 89665
+  sandbar: 66095
+  sidebar: 10960
+  taskbar: 40391
+  toolbar: 9228
+scored_words:
+  bulbar: 142962
+  debar: 105470
+  disbar: 144667
+  drawbar: 129064
+  isobar: 155886
+  liquidambar: 235560
+  lobar: 112543
+  millibar: 247608
+not_scored_words:
+- Akbar
+- BAR
+- Calabar
+- Conchobar
+- Dunbar
+- Gabar
+- Malabar
+- Nicobar
+- Zanzibar
+- isallobar
+- soundbar
+- typebar
+- unbar

@@ -1,0 +1,26 @@
+---
+pattern: navi_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 16
+score: 616549
+score_per_word: 51379
+hi_scored_words:
+  navies: 57492
+  navigable: 25219
+  navigate: 10089
+  navigated: 57791
+  navigates: 88399
+  navigating: 22671
+  navigation: 3242
+  navigational: 20587
+  navigator: 12088
+  navigators: 44177
+scored_words:
+  navicular: 121643
+  navigability: 153151
+not_scored_words:
+- navicert
+- naviculars
+- navig
+- navigableness

@@ -1,0 +1,25 @@
+---
+pattern: fain_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 656906
+score_per_word: 65690
+hi_scored_words:
+  fain: 29708
+  faint: 7937
+  fainted: 45102
+  fainter: 26442
+  faintest: 44398
+  fainting: 34905
+  faintly: 28179
+  faints: 96770
+scored_words:
+  fainthearted: 229538
+  faintness: 113927
+not_scored_words:
+- faineant
+- fainer
+- fainest
+- faintheart
+- fainéant

@@ -1,0 +1,25 @@
+---
+pattern: ac_al
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 529359
+score_per_word: 58817
+hi_scored_words:
+  academical: 86623
+  accidental: 8491
+  accrual: 35243
+  acetal: 98648
+  acoustical: 32833
+  acquittal: 37944
+  actual: 1362
+  actuarial: 25309
+scored_words:
+  accentual: 202906
+not_scored_words:
+- acaudal
+- accessional
+- accusal
+- accusatorial
+- acropetal
+- actinal

@@ -1,0 +1,24 @@
+---
+pattern: fre_er
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 731313
+score_per_word: 60942
+hi_scored_words:
+  freebooter: 89313
+  freeholder: 97753
+  freelancer: 34124
+  freer: 31985
+  freezer: 17975
+  freighter: 39288
+  freshener: 49434
+  fresher: 31327
+  freshwater: 17789
+scored_words:
+  freeloader: 108862
+  freethinker: 100089
+  frequenter: 113374
+not_scored_words:
+- freakier
+- fretter

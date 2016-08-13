@@ -1,0 +1,52 @@
+---
+pattern: g_ous
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 42
+score: 1237002
+score_per_word: 65105
+hi_scored_words:
+  gaseous: 24634
+  gelatinous: 68970
+  generous: 4927
+  gibbous: 88024
+  glabrous: 64131
+  glamorous: 20228
+  glaucous: 89169
+  glorious: 6240
+  glutinous: 90549
+  gorgeous: 4875
+  gracious: 11440
+  gratuitous: 29598
+  gregarious: 49077
+  grievous: 26167
+scored_words:
+  gangrenous: 189110
+  garrulous: 101293
+  geosynchronous: 103963
+  ginormous: 148075
+  gluttonous: 116532
+not_scored_words:
+- gallinaceous
+- gallous
+- gamopetalous
+- gamophyllous
+- gamosepalous
+- gemmiparous
+- gentianaceous
+- geophilous
+- geraniaceous
+- germanous
+- glandulous
+- globuliferous
+- globulous
+- glutenous
+- goitrous
+- gramineous
+- graminivorous
+- granivorous
+- griseous
+- grumous
+- gummous
+- gymnospermous
+- gynandrous

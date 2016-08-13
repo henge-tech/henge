@@ -1,0 +1,36 @@
+---
+pattern: f_w
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 26
+score: 799349
+score_per_word: 57096
+hi_scored_words:
+  fallow: 32197
+  farrow: 45532
+  fellow: 1977
+  few: 244
+  flaw: 13190
+  flew: 6420
+  flow: 1652
+  follow: 551
+  foresaw: 44290
+  foreshadow: 87674
+  furrow: 34316
+scored_words:
+  feverfew: 122993
+  foreknew: 304054
+  frow: 104259
+not_scored_words:
+- FWIW
+- Farrow
+- Flotow
+- floorshow
+- flyblow
+- fogbow
+- foofaraw
+- foreknow
+- forepaw
+- foreshow
+- fretsaw
+- furbelow

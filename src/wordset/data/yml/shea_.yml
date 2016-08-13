@@ -1,0 +1,35 @@
+---
+pattern: shea_
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 25
+score: 947005
+score_per_word: 59187
+hi_scored_words:
+  sheaf: 41560
+  shear: 16642
+  sheared: 53414
+  shearer: 29364
+  shearing: 34071
+  shears: 25768
+  shearwater: 51994
+  sheath: 18034
+  sheathe: 71852
+  sheathed: 63708
+  sheathing: 60735
+  sheaths: 63050
+  sheave: 82365
+  sheaves: 53734
+scored_words:
+  shearers: 131346
+  shearwaters: 149368
+not_scored_words:
+- Shea
+- shearings
+- sheatfish
+- sheatfishes
+- sheathbill
+- sheathes
+- sheathings
+- sheaved
+- sheaving

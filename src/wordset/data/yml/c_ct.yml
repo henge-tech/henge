@@ -1,0 +1,32 @@
+---
+pattern: c_ct
+hi_scored_words_count: 17
+scored_words_count: 0
+total_words: 22
+score: 417399
+score_per_word: 24552
+hi_scored_words:
+  cataract: 20135
+  circumspect: 67918
+  collect: 3383
+  compact: 3749
+  concoct: 89084
+  conduct: 1638
+  conflict: 2276
+  conjunct: 73826
+  connect: 2822
+  constrict: 80074
+  construct: 6515
+  contact: 444
+  contract: 1607
+  contradict: 18233
+  convict: 18316
+  correct: 1454
+  counteract: 25925
+scored_words: {}
+not_scored_words:
+- coact
+- complect
+- confect
+- convect
+- countersubject

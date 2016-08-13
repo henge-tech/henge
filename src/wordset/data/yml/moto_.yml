@@ -1,0 +1,54 @@
+---
+pattern: moto_
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 44
+score: 1984991
+score_per_word: 73518
+hi_scored_words:
+  motocross: 27162
+  motor: 2617
+  motorbike: 22524
+  motorbikes: 27129
+  motorboat: 65270
+  motorcade: 76792
+  motorcar: 75491
+  motorcars: 90758
+  motorcycle: 7725
+  motorcycles: 13723
+  motorcycling: 47506
+  motorcyclist: 62017
+  motorcyclists: 59061
+  motoring: 20437
+  motorist: 33821
+  motorists: 19892
+  motorized: 20785
+  motors: 7361
+  motorway: 17831
+  motorways: 43174
+scored_words:
+  motoneuron: 202460
+  motorboating: 247515
+  motorboats: 109722
+  motored: 119329
+  motorization: 230407
+  motorman: 188081
+  motormouth: 146401
+not_scored_words:
+- Motorola
+- Motown
+- motocrosses
+- motorbiked
+- motorbiking
+- motorbus
+- motorbuses
+- motorcades
+- motorcycled
+- motorings
+- motorize
+- motorizes
+- motorizing
+- motormen
+- motormouths
+- motortruck
+- motortrucks

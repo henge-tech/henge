@@ -1,0 +1,38 @@
+---
+pattern: i_ial
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 28
+score: 819800
+score_per_word: 43147
+hi_scored_words:
+  immaterial: 29489
+  immemorial: 54528
+  impartial: 14102
+  imperial: 4040
+  inconsequential: 45597
+  industrial: 1901
+  inertial: 32520
+  inessential: 80331
+  inferential: 64636
+  influential: 8173
+  infomercial: 57360
+  initial: 3453
+  insubstantial: 68224
+  interfacial: 50495
+  interracial: 7706
+  interstitial: 27111
+  intracranial: 34135
+scored_words:
+  inquisitorial: 134425
+  interglacial: 101574
+not_scored_words:
+- Imperial
+- improvisatorial
+- inartificial
+- insessorial
+- internuncial
+- interradial
+- interstadial
+- intrapreneurial
+- irreverential

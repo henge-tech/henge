@@ -1,0 +1,34 @@
+---
+pattern: acc_es
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 24
+score: 974089
+score_per_word: 60880
+hi_scored_words:
+  accelerates: 31271
+  accentuates: 74923
+  acceptances: 61480
+  accesses: 25077
+  accessories: 4874
+  accolades: 21227
+  accommodates: 30241
+  accompanies: 18681
+  accomplices: 49021
+  accomplishes: 36476
+  accrues: 57073
+  accumulates: 38154
+  accuracies: 89139
+  accuses: 24487
+scored_words:
+  accedes: 177185
+  acclivities: 234780
+not_scored_words:
+- accessorizes
+- accidences
+- acclimates
+- acclimatizes
+- accoutres
+- accretes
+- acculturates
+- accusatives

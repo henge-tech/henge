@@ -1,0 +1,81 @@
+---
+pattern: _dic
+hi_scored_words_count: 23
+scored_words_count: 11
+total_words: 71
+score: 3029117
+score_per_word: 89091
+hi_scored_words:
+  acidic: 23341
+  anodic: 96850
+  bardic: 83999
+  cathodic: 69637
+  comedic: 33880
+  dyadic: 74009
+  encyclopedic: 44635
+  episodic: 33901
+  ergodic: 72452
+  heraldic: 43228
+  indic: 59543
+  medic: 21993
+  melodic: 25116
+  monadic: 97871
+  nomadic: 26163
+  orthopedic: 23805
+  paramedic: 25278
+  periodic: 5938
+  prosodic: 69821
+  spasmodic: 70008
+  sporadic: 22367
+  syndic: 96153
+  vedic: 25609
+scored_words:
+  antispasmodic: 124505
+  aperiodic: 101662
+  druidic: 137610
+  iodic: 196337
+  ludic: 209487
+  methodic: 277527
+  parodic: 204565
+  rhapsodic: 138907
+  scandic: 109625
+  synodic: 248314
+  triadic: 134981
+not_scored_words:
+- Chadic
+- Chassidic
+- Druidic
+- EBCDIC
+- FDIC
+- Greenlandic
+- Hasidic
+- Helladic
+- Icelandic
+- Indic
+- Langobardic
+- Nordic
+- Samoyedic
+- Sephardic
+- Talmudic
+- Vedic
+- antiperiodic
+- asdic
+- bromidic
+- chloridic
+- faradic
+- fatidic
+- gonadic
+- herdic
+- iridic
+- juridic
+- lipidic
+- maenadic
+- molybdic
+- monodic
+- nuclidic
+- oxidic
+- palladic
+- rhodic
+- skaldic
+- threnodic
+- tripodic

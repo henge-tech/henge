@@ -1,0 +1,31 @@
+---
+pattern: tra_le
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 21
+score: 1658195
+score_per_word: 97540
+hi_scored_words:
+  traceable: 36605
+  tractable: 48704
+  tradable: 57185
+  tradespeople: 82637
+  trample: 28526
+  transferable: 26132
+  translatable: 90411
+  transmissible: 60263
+  transportable: 55320
+scored_words:
+  trackable: 117554
+  trainable: 115448
+  transaxle: 112566
+  transferrable: 156140
+  transformable: 153201
+  transmittable: 230124
+  transposable: 103653
+  traversable: 183726
+not_scored_words:
+- trabecule
+- tractile
+- transmutable
+- trappable

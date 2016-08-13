@@ -1,0 +1,21 @@
+---
+pattern: peri_l
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 479489
+score_per_word: 53276
+hi_scored_words:
+  pericardial: 59331
+  peril: 17138
+  perinatal: 32435
+  perineal: 68977
+  periodical: 13813
+  periodontal: 33897
+  peripheral: 17730
+  peritoneal: 31797
+scored_words:
+  periglacial: 204371
+not_scored_words:
+- peripteral
+- perissodactyl

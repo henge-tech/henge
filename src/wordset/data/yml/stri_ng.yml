@@ -1,0 +1,23 @@
+---
+pattern: stri_ng
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 13
+score: 265642
+score_per_word: 33205
+hi_scored_words:
+  striding: 63921
+  striking: 4698
+  string: 2031
+  stringing: 44906
+  striping: 43653
+  stripling: 80794
+  stripping: 14617
+  striving: 11022
+scored_words: {}
+not_scored_words:
+- striating
+- strickling
+- stridulating
+- strikebreaking
+- stripteasing

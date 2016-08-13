@@ -1,0 +1,30 @@
+---
+pattern: p_ton
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 681351
+score_per_word: 61941
+hi_scored_words:
+  parton: 33593
+  phaeton: 50445
+  photon: 14346
+  phytoplankton: 37160
+  piston: 14249
+  plankton: 32286
+  proton: 17046
+  pushbutton: 73958
+scored_words:
+  phlogiston: 139898
+  piton: 141976
+  pluton: 126394
+not_scored_words:
+- Palmerston
+- Paton
+- Patton
+- Paxton
+- Pennington
+- Pinkerton
+- Preston
+- Princeton
+- polysyndeton

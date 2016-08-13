@@ -1,0 +1,40 @@
+---
+pattern: a_red
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 30
+score: 1503894
+score_per_word: 60155
+hi_scored_words:
+  abhorred: 70124
+  accoutred: 99153
+  acquired: 3091
+  adhered: 21022
+  administered: 6157
+  admired: 12067
+  adored: 23715
+  aired: 16450
+  altered: 5351
+  anchored: 18542
+  angered: 30224
+  answered: 2505
+  appeared: 1851
+  armored: 20739
+  aspired: 58917
+  assured: 4896
+  attired: 68160
+  authored: 12336
+  averred: 94556
+scored_words:
+  abjured: 108962
+  adjured: 147312
+  adventured: 130405
+  allured: 116253
+  antlered: 171437
+  augured: 259669
+not_scored_words:
+- Alfred
+- accoutered
+- acred
+- admeasured
+- attempered

@@ -1,0 +1,27 @@
+---
+pattern: con_ence
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 17
+score: 512134
+score_per_word: 36581
+hi_scored_words:
+  concurrence: 23046
+  condolence: 46144
+  conference: 1722
+  confidence: 1844
+  confluence: 19647
+  congruence: 42125
+  conscience: 6287
+  consequence: 4261
+  continence: 47971
+  convalescence: 63495
+  convenience: 4938
+  convergence: 17700
+scored_words:
+  concupiscence: 125893
+  consistence: 107061
+not_scored_words:
+- concrescence
+- condescendence
+- contingence

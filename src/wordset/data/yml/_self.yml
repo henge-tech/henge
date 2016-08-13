@@ -1,0 +1,20 @@
+---
+pattern: _self
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 10
+score: 397710
+score_per_word: 39771
+hi_scored_words:
+  herself: 2143
+  himself: 800
+  itself: 737
+  myself: 878
+  oneself: 16247
+  ourself: 64114
+  self: 823
+  thyself: 21387
+  yourself: 756
+scored_words:
+  nonself: 289825
+not_scored_words: []

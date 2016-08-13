@@ -1,0 +1,72 @@
+---
+pattern: epi_s
+hi_scored_words_count: 10
+scored_words_count: 16
+total_words: 62
+score: 3266133
+score_per_word: 125620
+hi_scored_words:
+  epics: 37826
+  epidemics: 31221
+  epidemiologists: 91192
+  epidermis: 38895
+  epididymis: 76730
+  epigrams: 94809
+  episodes: 6512
+  epistles: 39241
+  epithets: 62741
+  epitomizes: 87490
+scored_words:
+  epicenters: 255969
+  epicureans: 198269
+  epicures: 176135
+  epicycles: 288439
+  epidurals: 188480
+  epigenesis: 114489
+  epiglottis: 145652
+  epileptics: 180908
+  epiphanies: 102903
+  epiphyses: 221283
+  epiphysis: 155393
+  epiphytes: 148582
+  epistasis: 174572
+  epistaxis: 102630
+  epistemologies: 142358
+  epitaphs: 103414
+not_scored_words:
+- Epictetus
+- Epicurus
+- Epidaurus
+- Epimenides
+- Epimethius
+- Epiphanies
+- Epirus
+- Epis
+- Episcopalians
+- epicalyxes
+- epicanthus
+- epicarps
+- epiclesis
+- epicrisis
+- epicycloids
+- epidermises
+- epidiascopes
+- epigeneses
+- epigenous
+- epigeous
+- epiglottises
+- epigones
+- epigraphs
+- epigynous
+- epilates
+- epilogues
+- epimorphosis
+- epiphenomenons
+- episiotomies
+- epistases
+- epistaxes
+- epistemologists
+- epistrophes
+- epitasis
+- epitheliomas
+- epitomes

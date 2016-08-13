@@ -1,0 +1,31 @@
+---
+pattern: enli_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 21
+score: 1201044
+score_per_word: 75065
+hi_scored_words:
+  enlighten: 23238
+  enlightened: 12619
+  enlightening: 29514
+  enlightenment: 11379
+  enlist: 22310
+  enlisted: 12069
+  enlisting: 49029
+  enlistment: 34268
+  enlists: 63149
+  enliven: 57080
+  enlivened: 75344
+scored_words:
+  enlightens: 116008
+  enlistees: 227377
+  enlistments: 166210
+  enlivening: 140069
+  enlivens: 161381
+not_scored_words:
+- Enlightenment
+- Enlil
+- enlightener
+- enlistee
+- enlivenment

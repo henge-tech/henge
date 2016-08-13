@@ -1,0 +1,46 @@
+---
+pattern: disb_
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 36
+score: 2702387
+score_per_word: 122835
+hi_scored_words:
+  disband: 50579
+  disbanded: 32474
+  disbanding: 80363
+  disbarred: 99534
+  disbelief: 22364
+  disbelieve: 65690
+  disburse: 69274
+  disbursed: 47461
+  disbursement: 42297
+  disbursements: 35896
+  disbursing: 85060
+scored_words:
+  disbandment: 181484
+  disbands: 207131
+  disbar: 144667
+  disbarment: 135747
+  disbelieved: 120310
+  disbeliever: 247912
+  disbelievers: 109834
+  disbelieves: 278069
+  disbelieving: 109369
+  disbursal: 321950
+  disburses: 214922
+not_scored_words:
+- disbarring
+- disbars
+- disbelievingly
+- disbranch
+- disbud
+- disbudded
+- disbudding
+- disbuds
+- disburden
+- disburdened
+- disburdening
+- disburdens
+- disburser
+- disbursers

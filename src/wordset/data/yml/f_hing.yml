@@ -1,0 +1,27 @@
+---
+pattern: f_hing
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 17
+score: 562102
+score_per_word: 46841
+hi_scored_words:
+  farthing: 42775
+  fetching: 25259
+  finishing: 5099
+  fishing: 2231
+  flashing: 4964
+  flinching: 91689
+  flourishing: 26377
+  flushing: 17987
+  frothing: 70605
+  furnishing: 17858
+scored_words:
+  famishing: 156695
+  fleshing: 100563
+not_scored_words:
+- Flushing
+- filching
+- frogmarching
+- furbishing
+- furloughing

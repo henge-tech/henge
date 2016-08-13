@@ -1,0 +1,31 @@
+---
+pattern: ac_ted
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 21
+score: 760739
+score_per_word: 42263
+hi_scored_words:
+  accelerated: 11927
+  accented: 26621
+  accentuated: 41942
+  accepted: 1194
+  acclimated: 70978
+  accommodated: 17439
+  accosted: 56717
+  accounted: 7908
+  accredited: 9341
+  accumulated: 8525
+  acquainted: 11491
+  acquitted: 23536
+  acted: 5563
+  activated: 6404
+  actuated: 32895
+scored_words:
+  accreted: 108758
+  acculturated: 205478
+  acetylated: 114022
+not_scored_words:
+- acerbated
+- acidulated
+- acuminated

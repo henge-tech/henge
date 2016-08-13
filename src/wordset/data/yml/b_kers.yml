@@ -1,0 +1,35 @@
+---
+pattern: b_kers
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 25
+score: 1044155
+score_per_word: 58008
+hi_scored_words:
+  backers: 38363
+  backpackers: 33895
+  bakers: 24881
+  bankers: 12660
+  barkers: 83827
+  beakers: 75560
+  bikers: 21431
+  blinkers: 84746
+  blockers: 21624
+  boilermakers: 52066
+  bonkers: 48425
+  bookmakers: 40889
+  breakers: 16213
+  brokers: 10165
+  bunkers: 34942
+scored_words:
+  bickers: 165176
+  bloodsuckers: 166133
+  buskers: 113159
+not_scored_words:
+- Baedekers
+- bedmakers
+- bilkers
+- boneshakers
+- bookmarkers
+- bootlickers
+- bushwhackers

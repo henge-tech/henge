@@ -1,0 +1,37 @@
+---
+pattern: asce_
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 27
+score: 1451640
+score_per_word: 69125
+hi_scored_words:
+  ascend: 19486
+  ascendancy: 40976
+  ascendant: 31707
+  ascended: 20004
+  ascending: 9041
+  ascends: 59131
+  ascension: 18464
+  ascent: 14062
+  ascents: 77784
+  ascertain: 12537
+  ascertained: 19595
+  ascertaining: 44756
+  ascetic: 40241
+  asceticism: 60606
+scored_words:
+  ascendance: 120534
+  ascendants: 256658
+  ascender: 101181
+  ascertainable: 101236
+  ascertainment: 101183
+  ascertains: 187223
+  ascetics: 115235
+not_scored_words:
+- Ascella
+- Ascension
+- ascensions
+- ascensive
+- ascesis
+- ascetically

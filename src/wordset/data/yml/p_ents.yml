@@ -1,0 +1,42 @@
+---
+pattern: p_ents
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 32
+score: 1885093
+score_per_word: 69818
+hi_scored_words:
+  parents: 977
+  parliaments: 32354
+  patents: 8093
+  patients: 1756
+  pavements: 34692
+  payments: 2303
+  percents: 64519
+  pigments: 29974
+  placements: 16585
+  portents: 95058
+  precedents: 30825
+  prepayments: 96479
+  presents: 2479
+  presidents: 10727
+  prevents: 8183
+  procurements: 86339
+  pronouncements: 41800
+  proponents: 18139
+  punishments: 25167
+scored_words:
+  parchments: 151411
+  pediments: 227560
+  pendents: 236591
+  penitents: 140668
+  permanents: 146615
+  postponements: 131667
+  predicaments: 111815
+  presentiments: 132317
+not_scored_words:
+- prejudgments
+- prepubescents
+- presentments
+- pretreatments
+- proficients

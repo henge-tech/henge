@@ -1,0 +1,51 @@
+---
+pattern: hum_s
+hi_scored_words_count: 15
+scored_words_count: 14
+total_words: 41
+score: 3022243
+score_per_word: 104215
+hi_scored_words:
+  humanists: 62201
+  humanities: 14086
+  humanoids: 68648
+  humans: 5530
+  humerus: 56889
+  humidifiers: 73616
+  humiliations: 99711
+  hummers: 87496
+  hummingbirds: 45252
+  hummus: 54695
+  humongous: 51197
+  humorous: 10028
+  humps: 33780
+  hums: 59715
+  humus: 54039
+scored_words:
+  humaneness: 241182
+  humanitarians: 106802
+  humanizes: 279978
+  humanness: 127377
+  humbleness: 137427
+  humbles: 146312
+  humbugs: 224331
+  humidors: 115583
+  humiliates: 173310
+  hummocks: 198798
+  humorists: 131350
+  humorless: 110136
+  humors: 100546
+  humpbacks: 152228
+not_scored_words:
+- Humphreys
+- humanizers
+- humblebees
+- humblers
+- humblings
+- humdingers
+- humidifies
+- hummings
+- humoresques
+- humorlessness
+- humorousness
+- humphs

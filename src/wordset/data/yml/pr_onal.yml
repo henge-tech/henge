@@ -1,0 +1,23 @@
+---
+pattern: pr_onal
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 813582
+score_per_word: 81358
+hi_scored_words:
+  prepositional: 70717
+  presentational: 85501
+  processional: 81735
+  professional: 1292
+  promotional: 10249
+  proportional: 10878
+  propositional: 41008
+  provisional: 10078
+scored_words:
+  precessional: 310507
+  preprofessional: 191617
+not_scored_words:
+- probational
+- procreational
+- progestational

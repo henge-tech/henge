@@ -1,0 +1,24 @@
+---
+pattern: st_red
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 495811
+score_per_word: 49581
+hi_scored_words:
+  staggered: 23944
+  stammered: 56643
+  stared: 10439
+  starred: 19795
+  steered: 34188
+  stirred: 13650
+  stored: 3431
+  structured: 10119
+  stuttered: 96796
+scored_words:
+  stoppered: 226806
+not_scored_words:
+- steamrollered
+- stonkered
+- stretchered
+- strictured

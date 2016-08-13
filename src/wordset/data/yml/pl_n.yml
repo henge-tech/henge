@@ -1,0 +1,43 @@
+---
+pattern: pl_n
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 33
+score: 2043199
+score_per_word: 107536
+hi_scored_words:
+  plain: 1782
+  plan: 440
+  plankton: 32286
+  plantain: 45173
+  plantation: 8272
+  platen: 58188
+  platoon: 20089
+  playpen: 59584
+  plebeian: 82549
+  plowman: 79245
+  plugin: 7280
+scored_words:
+  placation: 232881
+  placentation: 300515
+  plainsman: 164866
+  plainspoken: 312274
+  plasmin: 107404
+  plication: 107664
+  pluralization: 296313
+  pluton: 126394
+not_scored_words:
+- Plauen
+- PlayStation
+- Pleven
+- Plutonian
+- placeman
+- placemen
+- plainclothesman
+- plainclothesmen
+- plainsmen
+- planarian
+- plectron
+- pleuron
+- plosion
+- plowmen

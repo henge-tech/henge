@@ -1,0 +1,31 @@
+---
+pattern: homi_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 21
+score: 1250694
+score_per_word: 89335
+hi_scored_words:
+  homicidal: 56102
+  homicide: 16586
+  homicides: 38083
+  homie: 20949
+  homies: 36137
+  homilies: 73606
+  homily: 48795
+  homing: 44308
+  hominid: 57790
+  hominids: 85861
+  hominy: 91213
+scored_words:
+  homiletic: 210110
+  homiletics: 165984
+  hominoid: 305170
+not_scored_words:
+- Homicide
+- homier
+- homiest
+- homiletically
+- homilist
+- hominess
+- hominoids

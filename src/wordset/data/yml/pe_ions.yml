@@ -1,0 +1,30 @@
+---
+pattern: pe_ions
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 20
+score: 907119
+score_per_word: 64794
+hi_scored_words:
+  penetrations: 54671
+  pensions: 9329
+  perceptions: 10290
+  perfections: 77107
+  perforations: 63783
+  permissions: 8862
+  permutations: 36495
+  persecutions: 55930
+  persuasions: 63653
+  perturbations: 38621
+  perversions: 69406
+  petitions: 13565
+scored_words:
+  peregrinations: 204437
+  personifications: 200970
+not_scored_words:
+- perambulations
+- perfusions
+- perorations
+- perseverations
+- pervasions
+- petrifications

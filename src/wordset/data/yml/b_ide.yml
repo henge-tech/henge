@@ -1,0 +1,28 @@
+---
+pattern: b_ide
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1264995
+score_per_word: 90356
+hi_scored_words:
+  backside: 26651
+  bedside: 18516
+  beside: 4435
+  bichloride: 82305
+  bide: 45098
+  blindside: 62770
+  bride: 4276
+  broadside: 38486
+  bromide: 29433
+scored_words:
+  backslide: 170314
+  bactericide: 329594
+  bestride: 178825
+  betide: 105472
+  bolide: 168820
+not_scored_words:
+- Barmecide
+- Bride
+- Burnside
+- boride

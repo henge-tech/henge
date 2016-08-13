@@ -1,0 +1,71 @@
+---
+pattern: _itic
+hi_scored_words_count: 8
+scored_words_count: 17
+total_words: 61
+score: 3847795
+score_per_word: 153911
+hi_scored_words:
+  antisemitic: 90839
+  arthritic: 59996
+  critic: 7556
+  dendritic: 35446
+  granitic: 80839
+  parasitic: 23112
+  politic: 27962
+  rachitic: 95648
+scored_words:
+  antiparasitic: 309119
+  diacritic: 158461
+  dolomitic: 192038
+  enclitic: 226403
+  graphitic: 227614
+  hermaphroditic: 154522
+  impolitic: 145733
+  mephitic: 168213
+  meteoritic: 182992
+  nephritic: 120171
+  neritic: 308271
+  neuritic: 285169
+  oolitic: 167628
+  osteoarthritic: 251198
+  porphyritic: 220205
+  sybaritic: 166229
+  syphilitic: 142431
+not_scored_words:
+- Cushitic
+- Elamitic
+- Glagolitic
+- Hamitic
+- Himyaritic
+- Sanskritic
+- Semitic
+- Ugaritic
+- anaclitic
+- anchoritic
+- anthracitic
+- antirachitic
+- antisyphilitic
+- bronchitic
+- calcitic
+- cenobitic
+- diphtheritic
+- encephalitic
+- epicritic
+- eremitic
+- hermitic
+- heteroclitic
+- laryngitic
+- lignitic
+- limonitic
+- nonparasitic
+- oneirocritic
+- phlebitic
+- pleuritic
+- poliomyelitic
+- proclitic
+- pyritic
+- stalactitic
+- stalagmitic
+- tonsillitic
+- unpolitic

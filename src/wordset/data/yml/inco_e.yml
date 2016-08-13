@@ -1,0 +1,53 @@
+---
+pattern: inco_e
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 43
+score: 2058195
+score_per_word: 79161
+hi_scored_words:
+  incoherence: 80774
+  income: 1415
+  incomparable: 27314
+  incompatible: 13088
+  incompetence: 26896
+  incomplete: 5427
+  incomprehensible: 24640
+  incompressible: 64470
+  inconceivable: 28789
+  inconclusive: 40915
+  inconsiderable: 84871
+  inconsiderate: 42141
+  inconsolable: 90242
+  incontinence: 30994
+  incontrovertible: 71561
+  inconvenience: 10582
+  incorporate: 10715
+  incorrigible: 64935
+  incorruptible: 78688
+scored_words:
+  incommensurable: 174540
+  incommensurate: 160323
+  incommode: 229187
+  incommunicable: 230715
+  incongruence: 187571
+  inconsequence: 163140
+  incontestable: 114262
+not_scored_words:
+- incoercible
+- incogitable
+- incombustible
+- incommunicative
+- incommutable
+- incomprehensive
+- incomputable
+- incondensable
+- incondite
+- inconsecutive
+- inconsumable
+- incontrollable
+- inconvertible
+- inconvincible
+- incoordinate
+- incorporable
+- incorporative

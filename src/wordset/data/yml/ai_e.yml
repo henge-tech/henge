@@ -1,0 +1,35 @@
+---
+pattern: ai_e
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 25
+score: 1077637
+score_per_word: 67352
+hi_scored_words:
+  aide: 12208
+  airbase: 68288
+  airborne: 14837
+  airdrome: 64078
+  airfare: 21766
+  airframe: 41049
+  airline: 7501
+  airplane: 16136
+  airspace: 25351
+  airstrike: 60420
+  airtime: 39568
+  airwave: 94844
+  aisle: 12549
+scored_words:
+  aiguille: 138590
+  airlike: 217771
+  airmobile: 242681
+not_scored_words:
+- Aimee
+- Airdrie
+- Airedale
+- Aisne
+- aigrette
+- aiguillette
+- ailurophile
+- ailurophobe
+- aitchbone

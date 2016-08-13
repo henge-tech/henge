@@ -1,0 +1,48 @@
+---
+pattern: inf_y
+hi_scored_words_count: 17
+scored_words_count: 12
+total_words: 38
+score: 3159752
+score_per_word: 108956
+hi_scored_words:
+  infallibility: 63554
+  infamy: 37168
+  infancy: 15017
+  infantry: 5934
+  inferiority: 33191
+  infertility: 18029
+  infidelity: 25960
+  infinitely: 13373
+  infinity: 9962
+  infirmary: 32862
+  infirmity: 47253
+  inflammatory: 13325
+  inflationary: 35252
+  inflexibility: 84340
+  informality: 78656
+  informally: 29403
+  infrequently: 29845
+scored_words:
+  infallibly: 105254
+  infamously: 128978
+  infeasibility: 259615
+  infectiously: 272243
+  inferentially: 179354
+  infernally: 138548
+  infinitesimally: 145187
+  inflexibly: 262557
+  informatively: 340611
+  informatory: 332243
+  infrequency: 202449
+  infuriatingly: 219589
+not_scored_words:
+- infelicitously
+- infelicity
+- infirmly
+- inflammability
+- inflammably
+- inflectionally
+- influentially
+- infrangibility
+- infrangibly

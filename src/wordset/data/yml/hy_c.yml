@@ -1,0 +1,57 @@
+---
+pattern: hy_c
+hi_scored_words_count: 25
+scored_words_count: 10
+total_words: 47
+score: 3023993
+score_per_word: 86399
+hi_scored_words:
+  hydraulic: 13176
+  hydrochloric: 36121
+  hydrodynamic: 43723
+  hydroelectric: 28061
+  hydrofluoric: 86324
+  hydrographic: 45719
+  hydrologic: 33201
+  hydrophilic: 51934
+  hydrophobic: 31587
+  hydroponic: 58293
+  hydrostatic: 36869
+  hygienic: 30839
+  hyperbaric: 54302
+  hyperbolic: 27945
+  hypersonic: 68679
+  hypertonic: 91987
+  hypertrophic: 57379
+  hypnagogic: 93425
+  hypnotic: 23683
+  hypoallergenic: 69907
+  hypochondriac: 90568
+  hypodermic: 62389
+  hypoglycemic: 74741
+  hypothalamic: 48992
+  hysteric: 97208
+scored_words:
+  hydric: 125615
+  hydrolytic: 113800
+  hydrometric: 227162
+  hygroscopic: 108596
+  hyperglycemic: 188726
+  hyperopic: 305077
+  hypothec: 173933
+  hypothermic: 132373
+  hypothetic: 158414
+  hypotonic: 133245
+not_scored_words:
+- hydrocarbonic
+- hydrocephalic
+- hydrokinetic
+- hydromagnetic
+- hydropathic
+- hydropic
+- hygrometric
+- hypercatalectic
+- hypergolic
+- hypnogogic
+- hypocoristic
+- hysterogenic

@@ -1,0 +1,51 @@
+---
+pattern: comb_
+hi_scored_words_count: 26
+scored_words_count: 7
+total_words: 41
+score: 2246425
+score_per_word: 68073
+hi_scored_words:
+  comb: 12169
+  combat: 3291
+  combatant: 33750
+  combatants: 24847
+  combated: 98083
+  combating: 24168
+  combative: 50009
+  combats: 54342
+  combe: 52588
+  combed: 32282
+  comber: 92939
+  combination: 2390
+  combinations: 11413
+  combinatorial: 29891
+  combine: 4972
+  combined: 2195
+  combiner: 93167
+  combines: 10201
+  combing: 46610
+  combining: 7611
+  combo: 5283
+  combos: 21207
+  combs: 22495
+  combustible: 28827
+  combustion: 11139
+  combustor: 94485
+scored_words:
+  combativeness: 295554
+  combiners: 177871
+  combust: 100542
+  combusted: 129914
+  combustibility: 330446
+  combustibles: 107257
+  combusting: 234487
+not_scored_words:
+- Combs
+- combatively
+- combers
+- combinative
+- combings
+- combustibly
+- combustive
+- combusts

@@ -1,0 +1,49 @@
+---
+pattern: sn_y
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 39
+score: 1865034
+score_per_word: 98159
+hi_scored_words:
+  snappy: 34565
+  snarky: 47010
+  snazzy: 55688
+  sneaky: 23182
+  snobbery: 74247
+  snobby: 72089
+  snoopy: 30518
+  snooty: 62306
+  snotty: 63678
+  snowy: 13905
+  snugly: 52800
+scored_words:
+  snaky: 213650
+  sneakily: 181027
+  sneeringly: 157799
+  snidely: 157503
+  sniffy: 207271
+  snippy: 112565
+  snowberry: 189590
+  snuffy: 115641
+not_scored_words:
+- Snoopy
+- snaggy
+- snakily
+- snappily
+- snappishly
+- snarlingly
+- snarly
+- snatchy
+- snazzily
+- sneakingly
+- snickeringly
+- snidey
+- sniggeringly
+- snivelingly
+- snobbishly
+- snoopily
+- snootily
+- snottily
+- snuffly
+- snuggery

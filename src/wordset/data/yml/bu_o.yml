@@ -1,0 +1,29 @@
+---
+pattern: bu_o
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 19
+score: 1310694
+score_per_word: 93621
+hi_scored_words:
+  bubo: 98546
+  buckaroo: 60255
+  bueno: 36213
+  buffalo: 3983
+  bugaboo: 54913
+  bunko: 73946
+  burrito: 29929
+  burro: 64829
+  bushido: 64780
+  buteo: 80809
+scored_words:
+  bucko: 132076
+  buffo: 303460
+  bunco: 116250
+  burgoo: 190705
+not_scored_words:
+- Buffalo
+- Bulawayo
+- Bumppo
+- Bushido
+- bummalo

@@ -1,0 +1,35 @@
+---
+pattern: mo_le
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 25
+score: 878453
+score_per_word: 54903
+hi_scored_words:
+  mobile: 3693
+  modifiable: 68682
+  module: 7497
+  mole: 12743
+  molecule: 14096
+  monocle: 97951
+  monopole: 76593
+  monosyllable: 82610
+  morale: 14574
+  motile: 69097
+  motorcycle: 7725
+  mountable: 69864
+  movable: 13412
+  moveable: 39409
+scored_words:
+  moldable: 194527
+  mottle: 105980
+not_scored_words:
+- Mobile
+- Mondale
+- Moselle
+- Moyle
+- mobilizable
+- mollycoddle
+- monocycle
+- monticule
+- mortgageable

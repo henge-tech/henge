@@ -1,0 +1,31 @@
+---
+pattern: sie_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 21
+score: 887942
+score_per_word: 73995
+hi_scored_words:
+  siege: 8411
+  sieges: 79997
+  siemens: 17622
+  sienna: 31729
+  sierra: 7770
+  sierras: 68454
+  siesta: 38673
+  sieve: 22056
+  sieves: 77391
+  sieving: 97623
+scored_words:
+  sierran: 302201
+  sieved: 136015
+not_scored_words:
+- Siegbahn
+- Siegfried
+- Siemens
+- Siena
+- Sienese
+- Sienkiewicz
+- Sierpinski
+- Sierras
+- siestas

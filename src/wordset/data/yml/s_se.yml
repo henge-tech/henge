@@ -1,0 +1,98 @@
+---
+pattern: s_se
+hi_scored_words_count: 30
+scored_words_count: 11
+total_words: 88
+score: 3264886
+score_per_word: 79631
+hi_scored_words:
+  schoolhouse: 29812
+  seahorse: 47366
+  sense: 709
+  showcase: 10537
+  slaughterhouse: 38807
+  slipcase: 88767
+  smokehouse: 65383
+  souse: 67478
+  sparse: 18218
+  spouse: 6674
+  staircase: 13727
+  statehouse: 71430
+  steakhouse: 29148
+  steeplechase: 44149
+  stepwise: 52092
+  storehouse: 37588
+  streetwise: 51343
+  striptease: 36904
+  sublease: 78718
+  sucrose: 30349
+  suitcase: 21835
+  summerhouse: 86020
+  sunrise: 6709
+  supervise: 20325
+  suppose: 2353
+  surcease: 83252
+  surmise: 43780
+  surprise: 2248
+  suspense: 9001
+  synapse: 34148
+scored_words:
+  saccharose: 277276
+  sawhorse: 210053
+  shovelnose: 288124
+  soubise: 101769
+  springhouse: 124669
+  streptokinase: 110574
+  subbase: 164531
+  sucrase: 244764
+  suffuse: 229532
+  sunwise: 277641
+  superimpose: 107083
+not_scored_words:
+- SASE
+- SSE
+- SUSE
+- Saipanese
+- Scorsese
+- Senegalese
+- Siamese
+- Sienese
+- Sikkimese
+- Singhalese
+- Sinhalese
+- Statehouse
+- Sudanese
+- Suisse
+- Sundanese
+- Surinamese
+- Syracuse
+- saccharase
+- sarmentose
+- schistose
+- seedcase
+- seise
+- setose
+- shrewmouse
+- siliculose
+- sinistrorse
+- slantwise
+- slipnoose
+- smearcase
+- somewise
+- sorbose
+- spathose
+- spinose
+- squamose
+- squamulose
+- squarrose
+- stratopause
+- strigose
+- studhorse
+- submerse
+- subsense
+- suffruticose
+- superdense
+- superfuse
+- superpose
+- surbase
+- surculose

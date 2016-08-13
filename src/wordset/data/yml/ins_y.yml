@@ -1,0 +1,74 @@
+---
+pattern: ins_y
+hi_scored_words_count: 19
+scored_words_count: 17
+total_words: 64
+score: 4224365
+score_per_word: 117343
+hi_scored_words:
+  insanely: 38465
+  insanity: 13469
+  insecurity: 20115
+  insensitivity: 53249
+  inseparably: 82206
+  insidiously: 98285
+  insincerity: 97555
+  insistently: 96969
+  insolvency: 29750
+  inspiratory: 84203
+  instability: 14356
+  instantaneously: 31954
+  instantly: 3444
+  instinctively: 24366
+  institutionally: 73570
+  instrumentality: 42366
+  insufficiency: 28971
+  insufficiently: 49679
+  insurgency: 22185
+scored_words:
+  insanitary: 216232
+  insatiably: 317213
+  insecurely: 217004
+  insensibility: 138936
+  insensibly: 134831
+  insensitively: 265779
+  inseparability: 254644
+  insignificantly: 135359
+  insipidity: 186104
+  insolently: 191008
+  insolubility: 276367
+  instrumentally: 115784
+  insufferably: 196244
+  insularity: 152683
+  insultingly: 143255
+  insurability: 163147
+  insurrectionary: 214618
+not_scored_words:
+- insatiability
+- insatiately
+- insatiety
+- inscrutability
+- inscrutably
+- insensately
+- insignificancy
+- insincerely
+- insinuatingly
+- insipidly
+- insistency
+- insistingly
+- insobriety
+- insolubly
+- insouciantly
+- inspirationally
+- instancy
+- instantaneity
+- instructively
+- insubordinately
+- insubstantiality
+- insubstantially
+- insularly
+- insuperability
+- insuperably
+- insupportably
+- insurmountability
+- insurmountably

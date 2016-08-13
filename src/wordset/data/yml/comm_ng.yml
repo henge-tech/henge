@@ -1,0 +1,31 @@
+---
+pattern: comm_ng
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 21
+score: 1168319
+score_per_word: 77887
+hi_scored_words:
+  commanding: 10160
+  commemorating: 33723
+  commencing: 15805
+  commending: 52396
+  commenting: 13140
+  commissioning: 19250
+  committing: 12820
+  communicating: 9345
+  commuting: 21891
+scored_words:
+  commandeering: 194858
+  commentating: 186559
+  commercializing: 102879
+  commingling: 110729
+  commiserating: 262577
+  communing: 122187
+not_scored_words:
+- comminuting
+- commixing
+- commoving
+- communalizing
+- communizing
+- commutating

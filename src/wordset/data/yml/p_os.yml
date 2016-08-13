@@ -1,0 +1,65 @@
+---
+pattern: p_os
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 55
+score: 1939918
+score_per_word: 84344
+hi_scored_words:
+  pathos: 33631
+  patios: 46269
+  pesos: 17122
+  pharos: 51516
+  philos: 71213
+  photos: 9336
+  pianos: 26236
+  pistachios: 71476
+  placebos: 83155
+  politicos: 70967
+  ponchos: 70915
+  portfolios: 20153
+  pos: 7256
+  promos: 23062
+  pros: 11516
+  psychos: 77564
+  pueblos: 58709
+scored_words:
+  palominos: 259825
+  piccolos: 186599
+  pinkos: 284943
+  pintos: 177679
+  poos: 125167
+  provisos: 155609
+not_scored_words:
+- Paphos
+- Paros
+- Parthenos
+- Patmos
+- Pecos
+- Peloponnisos
+- Pharos
+- Phobos
+- Poconos
+- Pylos
+- palazzos
+- palmettos
+- pantos
+- parados
+- pedalos
+- peplos
+- phyllos
+- physios
+- pianissimos
+- pimentos
+- pimientos
+- pithos
+- plumbagos
+- polios
+- politburos
+- pomelos
+- pompanos
+- potoroos
+- pottos
+- prestos
+- pronunciamentos
+- pseudos

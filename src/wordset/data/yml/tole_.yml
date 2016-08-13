@@ -1,0 +1,26 @@
+---
+pattern: tole_
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 16
+score: 490726
+score_per_word: 40893
+hi_scored_words:
+  tole: 62586
+  tolerability: 91561
+  tolerable: 24656
+  tolerably: 60474
+  tolerance: 7778
+  tolerances: 29792
+  tolerant: 13547
+  tolerate: 12473
+  tolerated: 15471
+  tolerates: 66923
+  tolerating: 65529
+  toleration: 39936
+scored_words: {}
+not_scored_words:
+- Toledo
+- Toledos
+- tolerableness
+- tolerantly

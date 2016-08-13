@@ -1,0 +1,34 @@
+---
+pattern: co_les
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 24
+score: 1495485
+score_per_word: 83082
+hi_scored_words:
+  cobbles: 79832
+  cockles: 78896
+  coles: 29300
+  collectables: 10995
+  collectibles: 9608
+  compatibles: 84217
+  compiles: 36191
+  consoles: 12347
+  constables: 42847
+  consumables: 25054
+  convertibles: 46961
+  couples: 5135
+scored_words:
+  combustibles: 107257
+  comestibles: 291424
+  condyles: 225572
+  coquilles: 189465
+  corpuscles: 114528
+  counterexamples: 105856
+not_scored_words:
+- coddles
+- collywobbles
+- commingles
+- condoles
+- conventicles
+- coracles

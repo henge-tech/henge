@@ -1,0 +1,33 @@
+---
+pattern: sce_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 23
+score: 1486024
+score_per_word: 92876
+hi_scored_words:
+  scenario: 13627
+  scenarios: 7047
+  scene: 1394
+  scenery: 7842
+  scenes: 2969
+  scenic: 12210
+  scent: 8262
+  scented: 16036
+  scents: 23762
+  scepter: 54248
+scored_words:
+  scenarist: 189084
+  scenically: 325421
+  scenography: 223240
+  scenting: 143955
+  scentless: 214356
+  scepters: 242571
+not_scored_words:
+- scenarists
+- scend
+- scended
+- scending
+- scends
+- scenographer
+- sceptered

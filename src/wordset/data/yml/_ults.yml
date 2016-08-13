@@ -1,0 +1,27 @@
+---
+pattern: _ults
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 17
+score: 809339
+score_per_word: 57809
+hi_scored_words:
+  adults: 4135
+  assaults: 21096
+  catapults: 70984
+  consults: 37037
+  cults: 29671
+  defaults: 15473
+  faults: 8174
+  insults: 15630
+  results: 568
+  segfaults: 65189
+  vaults: 18580
+scored_words:
+  exults: 236894
+  somersaults: 135192
+  tumults: 150716
+not_scored_words:
+- antepenults
+- occults
+- penults

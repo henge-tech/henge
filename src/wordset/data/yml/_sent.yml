@@ -1,0 +1,23 @@
+---
+pattern: _sent
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 580739
+score_per_word: 48394
+hi_scored_words:
+  absent: 4407
+  assent: 16520
+  consent: 2476
+  dissent: 14385
+  misrepresent: 54366
+  omnipresent: 43859
+  present: 364
+  represent: 2219
+  resent: 16236
+  sent: 556
+scored_words:
+  unsent: 119130
+  wisent: 306221
+not_scored_words:
+- Dissent

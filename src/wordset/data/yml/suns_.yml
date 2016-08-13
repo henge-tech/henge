@@ -1,0 +1,27 @@
+---
+pattern: suns_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 17
+score: 884779
+score_per_word: 68059
+hi_scored_words:
+  suns: 15543
+  sunscreen: 24952
+  sunscreens: 72806
+  sunset: 4065
+  sunsets: 26836
+  sunshade: 92484
+  sunshine: 3747
+  sunspot: 47842
+  sunspots: 65473
+  sunstone: 95824
+  sunstroke: 94097
+scored_words:
+  sunshades: 154650
+  sunshiny: 186460
+not_scored_words:
+- Suns
+- sunstones
+- sunsuit
+- sunsuits

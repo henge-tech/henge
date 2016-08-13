@@ -1,0 +1,30 @@
+---
+pattern: disc_t
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 20
+score: 1164849
+score_per_word: 77656
+hi_scored_words:
+  discernment: 33276
+  discomfort: 11858
+  disconnect: 15901
+  discontent: 19773
+  discordant: 42984
+  discount: 5160
+  discouragement: 56739
+  discredit: 24176
+  discreet: 15821
+  discrepant: 96948
+  discriminant: 48615
+scored_words:
+  discomfit: 231331
+  disconcert: 202337
+  discontentment: 249076
+  discussant: 110854
+not_scored_words:
+- discant
+- disciplinant
+- disconcertment
+- discovert
+- discreetest

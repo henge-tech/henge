@@ -1,0 +1,24 @@
+---
+pattern: voy_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 700826
+score_per_word: 58402
+hi_scored_words:
+  voyage: 6133
+  voyager: 15203
+  voyagers: 71259
+  voyages: 20984
+  voyageur: 73148
+  voyageurs: 53764
+  voyeur: 15870
+  voyeurism: 52202
+  voyeurs: 70333
+scored_words:
+  voyaged: 106459
+  voyaging: 108618
+  voyeuristic: 106853
+not_scored_words:
+- Voyager
+- voyeuristically

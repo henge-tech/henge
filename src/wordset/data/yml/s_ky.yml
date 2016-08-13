@@ -1,0 +1,39 @@
+---
+pattern: s_ky
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 29
+score: 1565949
+score_per_word: 71179
+hi_scored_words:
+  shaky: 22341
+  silky: 17808
+  sky: 1601
+  slinky: 37565
+  smoky: 15871
+  snarky: 47010
+  sneaky: 23182
+  sparky: 34444
+  spiky: 58397
+  spooky: 19997
+  spunky: 45078
+  squeaky: 40806
+  sticky: 9889
+  stinky: 30061
+  stocky: 58957
+  streaky: 81186
+  sulky: 51797
+  swanky: 53010
+scored_words:
+  sarky: 253884
+  smirky: 179496
+  snaky: 213650
+  stalky: 269919
+not_scored_words:
+- Shcharansky
+- Sikorsky
+- Slinky
+- Stanislavsky
+- Stravinsky
+- schlocky
+- staticky

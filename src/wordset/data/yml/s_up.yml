@@ -1,0 +1,27 @@
+---
+pattern: s_up
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 702555
+score_per_word: 54042
+hi_scored_words:
+  setup: 7342
+  soup: 4406
+  speedup: 55055
+  standup: 44468
+  startup: 7086
+  stirrup: 51438
+  subgroup: 17895
+  sup: 10355
+  syrup: 11142
+scored_words:
+  scup: 106767
+  shakeup: 111588
+  stoup: 144623
+  sunup: 130390
+not_scored_words:
+- slipup
+- smashup
+- stackup
+- stickup

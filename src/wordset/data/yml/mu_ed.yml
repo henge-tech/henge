@@ -1,0 +1,49 @@
+---
+pattern: mu_ed
+hi_scored_words_count: 20
+scored_words_count: 14
+total_words: 39
+score: 3236424
+score_per_word: 95188
+hi_scored_words:
+  muddled: 49236
+  muffled: 30856
+  mugged: 61923
+  mulled: 56913
+  multicolored: 52374
+  multifaceted: 44841
+  multilayered: 79890
+  multiplexed: 57434
+  multiplied: 21007
+  mumbled: 44424
+  mummified: 90917
+  murdered: 7458
+  murmured: 23402
+  muscled: 44497
+  mused: 48823
+  mustered: 29322
+  mutated: 32676
+  muted: 35256
+  mutilated: 36573
+  muttered: 20489
+scored_words:
+  mucked: 122732
+  muddied: 119092
+  muffed: 227548
+  mulched: 160756
+  mullioned: 102723
+  munched: 115527
+  munged: 171174
+  mushed: 268727
+  mushroomed: 114941
+  mussed: 228075
+  mustached: 245346
+  mustachioed: 168812
+  mutinied: 199192
+  muzzled: 123468
+not_scored_words:
+- muckraked
+- muddleheaded
+- mulcted
+- multiped
+- munitioned

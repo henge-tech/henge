@@ -1,0 +1,66 @@
+---
+pattern: vul_
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 56
+score: 1725283
+score_per_word: 95849
+hi_scored_words:
+  vulgar: 13718
+  vulgarity: 46291
+  vulgate: 36324
+  vulnerabilities: 13201
+  vulnerability: 10255
+  vulnerable: 8815
+  vulture: 25423
+  vultures: 33804
+  vulva: 34632
+  vulvar: 80397
+scored_words:
+  vulcanization: 187535
+  vulcanized: 105479
+  vulcanizing: 232204
+  vulgarism: 133503
+  vulgarities: 196513
+  vulgarly: 189049
+  vulpine: 186854
+  vulval: 191286
+not_scored_words:
+- Vul
+- Vulcan
+- Vulg
+- Vulgate
+- Vulgates
+- Vulpecula
+- vulcanism
+- vulcanite
+- vulcanites
+- vulcanizable
+- vulcanize
+- vulcanizer
+- vulcanizes
+- vulcanological
+- vulcanologies
+- vulcanologist
+- vulcanology
+- vulg
+- vulgarer
+- vulgarest
+- vulgarian
+- vulgarians
+- vulgarisms
+- vulgarization
+- vulgarize
+- vulgarized
+- vulgarizer
+- vulgarizers
+- vulgarizes
+- vulgarizing
+- vulgus
+- vulnerably
+- vulnerary
+- vulturine
+- vulturous
+- vulvae
+- vulvitis
+- vulvitises

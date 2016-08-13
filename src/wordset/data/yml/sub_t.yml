@@ -1,0 +1,45 @@
+---
+pattern: sub_t
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 35
+score: 2323914
+score_per_word: 89381
+hi_scored_words:
+  subcontinent: 36366
+  subcontract: 46586
+  subdistrict: 70798
+  subject: 279
+  sublet: 42070
+  submit: 1741
+  subplot: 57351
+  subscript: 40497
+  subsequent: 3205
+  subservient: 40984
+  subset: 13483
+  subsist: 49865
+  substituent: 90608
+  subtext: 54479
+  subtract: 25611
+  subunit: 15428
+  subvert: 40057
+scored_words:
+  subagent: 226359
+  subcompact: 126404
+  subdominant: 167112
+  subjacent: 210493
+  sublimest: 126158
+  subsegment: 288768
+  subsistent: 214012
+  subtenant: 191035
+  subtlest: 144165
+not_scored_words:
+- subbasement
+- subdepartment
+- subduct
+- subedit
+- sublieutenant
+- submediant
+- subspecialist
+- subtangent
+- subvent

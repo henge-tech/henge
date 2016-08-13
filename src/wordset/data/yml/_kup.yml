@@ -1,0 +1,25 @@
+---
+pattern: _kup
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 15
+score: 453096
+score_per_word: 41190
+hi_scored_words:
+  backup: 7083
+  breakup: 23383
+  checkup: 42231
+  hookup: 32843
+  linkup: 91861
+  lockup: 47773
+  lookup: 13164
+  markup: 12408
+  pickup: 6264
+  workup: 70963
+scored_words:
+  walkup: 105123
+not_scored_words:
+- cockup
+- crackup
+- stackup
+- stickup

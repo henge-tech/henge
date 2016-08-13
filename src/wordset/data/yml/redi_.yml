@@ -1,0 +1,58 @@
+---
+pattern: redi_
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 48
+score: 2246531
+score_per_word: 93605
+hi_scored_words:
+  redial: 67102
+  redirect: 17182
+  redirected: 23061
+  redirecting: 35609
+  redirection: 30272
+  redirects: 36709
+  rediscover: 40462
+  rediscovered: 44867
+  rediscovering: 55656
+  rediscovery: 61499
+  redistribute: 17044
+  redistributed: 23590
+  redistributing: 43784
+  redistribution: 11893
+  redistributive: 89544
+  redistricting: 36970
+scored_words:
+  redid: 100417
+  rediscovers: 189509
+  redisplay: 186374
+  redisplayed: 237487
+  redistributes: 149594
+  redistributors: 292399
+  redistrict: 330871
+  redivivus: 124636
+not_scored_words:
+- redialed
+- redialing
+- redials
+- redigest
+- redingote
+- redintegrate
+- redintegration
+- redintegrative
+- rediscount
+- rediscoveries
+- rediscussed
+- redissolve
+- redissolved
+- redissolves
+- redissolving
+- redistill
+- redistillation
+- redistributor
+- redistricted
+- redistricts
+- redivide
+- redivided
+- redivides
+- redividing

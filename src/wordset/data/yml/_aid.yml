@@ -1,0 +1,59 @@
+---
+pattern: _aid
+hi_scored_words_count: 29
+scored_words_count: 7
+total_words: 49
+score: 2152514
+score_per_word: 59792
+hi_scored_words:
+  aforesaid: 21363
+  afraid: 2462
+  aid: 1185
+  barmaid: 73472
+  braid: 23726
+  bridesmaid: 27006
+  chambermaid: 95714
+  handmaid: 58788
+  housemaid: 82033
+  inlaid: 29476
+  laid: 2341
+  maid: 6055
+  medicaid: 7786
+  mermaid: 19631
+  mislaid: 89230
+  overlaid: 36298
+  overpaid: 44010
+  paid: 700
+  plaid: 16282
+  postpaid: 80701
+  prepaid: 19490
+  raid: 6414
+  repaid: 20070
+  said: 101
+  staid: 44218
+  unafraid: 55109
+  underpaid: 49111
+  unpaid: 13410
+  unsaid: 53233
+scored_words:
+  foresaid: 244425
+  gainsaid: 262028
+  milkmaid: 136738
+  nursemaid: 153105
+  underlaid: 114242
+  upbraid: 156270
+  waylaid: 106291
+not_scored_words:
+- Alkaid
+- Medicaid
+- Rubbermaid
+- Thebaid
+- bondmaid
+- dairymaid
+- kitchenmaid
+- nurserymaid
+- outlaid
+- parlormaid
+- relaid
+- unbraid
+- unrepaid

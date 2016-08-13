@@ -1,0 +1,21 @@
+---
+pattern: t_ure
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 440200
+score_per_word: 48911
+hi_scored_words:
+  tablature: 46206
+  temperature: 1925
+  tenure: 8931
+  texture: 7111
+  tincture: 37298
+  torture: 3961
+  transfigure: 99864
+  treasure: 4133
+scored_words:
+  tonsure: 230771
+not_scored_words:
+- tressure
+- tubulure

@@ -1,0 +1,37 @@
+---
+pattern: expe_s
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 27
+score: 1717277
+score_per_word: 85863
+hi_scored_words:
+  expectancies: 77227
+  expectations: 4120
+  expects: 8077
+  expeditions: 20175
+  expeditious: 43203
+  expels: 99590
+  expenditures: 5879
+  expends: 79896
+  expenses: 2356
+  experiences: 2622
+  experimenters: 70255
+  experiments: 3632
+  experts: 4505
+scored_words:
+  expectorants: 273873
+  expedients: 124450
+  expediters: 325242
+  expedites: 155634
+  expendables: 142233
+  experimentalists: 142620
+  expertness: 131688
+not_scored_words:
+- expectorates
+- expediences
+- expediencies
+- expeditiousness
+- expenders
+- expensiveness
+- experimentalisms

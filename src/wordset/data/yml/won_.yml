@@ -1,0 +1,37 @@
+---
+pattern: won_
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 27
+score: 1425338
+score_per_word: 71266
+hi_scored_words:
+  won: 1466
+  won't: 353
+  wonder: 1570
+  wondered: 5846
+  wonderful: 1430
+  wonderfully: 11280
+  wondering: 3647
+  wonderland: 22085
+  wonderment: 74550
+  wonders: 6732
+  wondrous: 20282
+  wonk: 83427
+  wonky: 60349
+  wont: 6176
+scored_words:
+  wonderfulness: 262345
+  wonderingly: 178082
+  wonderlands: 303833
+  wondrously: 144963
+  wonks: 115341
+  wonted: 121581
+not_scored_words:
+- Wonder
+- Wonderbra
+- Wong
+- wonderwork
+- wondrousness
+- wonkier
+- wonkiest

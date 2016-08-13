@@ -1,0 +1,23 @@
+---
+pattern: com_nts
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 13
+score: 632557
+score_per_word: 48658
+hi_scored_words:
+  combatants: 24847
+  commandments: 14124
+  comments: 2277
+  commitments: 9588
+  compartments: 21664
+  complainants: 48709
+  complaints: 4177
+  complements: 23290
+  compliments: 11505
+  components: 8243
+scored_words:
+  commandants: 185941
+  commencements: 156604
+  communicants: 121588
+not_scored_words: []

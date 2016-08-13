@@ -1,0 +1,52 @@
+---
+pattern: _uth
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 42
+score: 1923699
+score_per_word: 91604
+hi_scored_words:
+  auth: 23916
+  azimuth: 28439
+  bismuth: 45191
+  loudmouth: 84604
+  mouth: 1587
+  ruth: 4423
+  sleuth: 41702
+  south: 264
+  truth: 1021
+  uncouth: 58984
+  untruth: 70785
+  vermouth: 58811
+  youth: 1029
+scored_words:
+  altazimuth: 256416
+  badmouth: 208196
+  bigmouth: 148690
+  blabbermouth: 185836
+  cottonmouth: 193287
+  couth: 112452
+  goalmouth: 251665
+  motormouth: 146401
+not_scored_words:
+- Bayreuth
+- Beyrouth
+- Bournemouth
+- Dartmouth
+- Duluth
+- Falmouth
+- Knuth
+- Kossuth
+- Louth
+- Luth
+- Monmouth
+- Plymouth
+- Portsmouth
+- Ruth
+- South
+- Truth
+- Weymouth
+- Yarmouth
+- frogmouth
+- poormouth
+- snakemouth

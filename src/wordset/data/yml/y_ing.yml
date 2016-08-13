@@ -1,0 +1,35 @@
+---
+pattern: y_ing
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 25
+score: 1499852
+score_per_word: 93740
+hi_scored_words:
+  yachting: 30918
+  yanking: 79308
+  yawning: 33422
+  yearling: 42506
+  yearning: 28542
+  yelling: 14925
+  yellowing: 57714
+  yielding: 12345
+  youngling: 85108
+scored_words:
+  yakking: 193633
+  yammering: 161912
+  yapping: 100824
+  yawing: 240526
+  yelping: 118779
+  yodeling: 117037
+  yowling: 182353
+not_scored_words:
+- yawping
+- yeaning
+- yeanling
+- yessing
+- yipping
+- yoking
+- yucking
+- yukking
+- yuppifying

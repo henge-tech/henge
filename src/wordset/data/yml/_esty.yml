@@ -1,0 +1,22 @@
+---
+pattern: _esty
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 599430
+score_per_word: 59943
+hi_scored_words:
+  amnesty: 13097
+  chesty: 91259
+  dishonesty: 24318
+  honesty: 8127
+  majesty: 7425
+  modesty: 20339
+  testy: 57153
+  travesty: 41128
+  zesty: 71122
+scored_words:
+  immodesty: 265462
+not_scored_words:
+- Majesty
+- pesty

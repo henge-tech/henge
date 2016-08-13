@@ -1,0 +1,23 @@
+---
+pattern: surg_
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 13
+score: 494890
+score_per_word: 41240
+hi_scored_words:
+  surg: 22686
+  surge: 9490
+  surged: 37084
+  surgeon: 6274
+  surgeons: 9891
+  surgeries: 22403
+  surgery: 5071
+  surges: 32137
+  surgical: 7715
+  surgically: 38045
+  surging: 35308
+scored_words:
+  surgeonfish: 268786
+not_scored_words:
+- surgy

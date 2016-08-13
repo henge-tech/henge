@@ -1,0 +1,24 @@
+---
+pattern: c_up
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 14
+score: 447005
+score_per_word: 49667
+hi_scored_words:
+  catsup: 85463
+  checkup: 42231
+  cleanup: 14753
+  closeup: 32739
+  coup: 10097
+  coverup: 64937
+  croup: 57615
+  cup: 1243
+scored_words:
+  chirrup: 137927
+not_scored_words:
+- Citigroup
+- cockup
+- contrecoup
+- crackup
+- cutup

@@ -1,0 +1,30 @@
+---
+pattern: col_t
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1196937
+score_per_word: 92072
+hi_scored_words:
+  coldest: 31514
+  collect: 3383
+  collectivist: 90709
+  collet: 58451
+  colonist: 53682
+  colorist: 90364
+  colt: 12623
+  columnist: 15093
+scored_words:
+  collaborationist: 269301
+  colonialist: 106832
+  colorant: 125092
+  colorfast: 144508
+  coltsfoot: 195385
+not_scored_words:
+- Colbert
+- Colet
+- Colt
+- colewort
+- colicroot
+- collat
+- colorcast

@@ -1,0 +1,24 @@
+---
+pattern: c_bles
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 14
+score: 848821
+score_per_word: 70735
+hi_scored_words:
+  cables: 5282
+  cobbles: 79832
+  collectables: 10995
+  collectibles: 9608
+  compatibles: 84217
+  constables: 42847
+  consumables: 25054
+  convertibles: 46961
+  crucibles: 92040
+  crumbles: 53304
+scored_words:
+  combustibles: 107257
+  comestibles: 291424
+not_scored_words:
+- chasubles
+- collywobbles

@@ -1,0 +1,37 @@
+---
+pattern: he_ts
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 27
+score: 2178955
+score_per_word: 103759
+hi_scored_words:
+  headlights: 18618
+  headrests: 81801
+  headsets: 19054
+  heartbeats: 48081
+  hearts: 2641
+  heats: 21441
+  heavyweights: 58215
+  heights: 3848
+  helmets: 11812
+  hematologists: 84936
+  herbalists: 83167
+  hermits: 62204
+scored_words:
+  headcounts: 321424
+  hedonists: 275959
+  heists: 147170
+  heliports: 145886
+  hellcats: 159487
+  helots: 102568
+  hereabouts: 117555
+  hereditaments: 212808
+  herpetologists: 200280
+not_scored_words:
+- headbutts
+- headhunts
+- hefts
+- hemostats
+- henbits
+- heterografts

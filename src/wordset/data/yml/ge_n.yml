@@ -1,0 +1,50 @@
+---
+pattern: ge_n
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 40
+score: 1753209
+score_per_word: 87660
+hi_scored_words:
+  gelatin: 25019
+  gen: 5834
+  generalization: 22700
+  generation: 1663
+  gentian: 79056
+  gentleman: 4461
+  gentlemen: 5291
+  gentlewoman: 56136
+  gentlewomen: 96330
+  gentrification: 67491
+  german: 866
+  germination: 31242
+  gestation: 31737
+  gesticulation: 78119
+scored_words:
+  gean: 218178
+  gelation: 146066
+  genuflection: 147409
+  geriatrician: 273793
+  germen: 326958
+  gestalten: 134860
+not_scored_words:
+- Geffen
+- Gelsenkirchen
+- Gen
+- Genevan
+- Georgeann
+- Georgetown
+- Georgian
+- German
+- Germantown
+- Germiston
+- Gershwin
+- Geryon
+- Gestalten
+- gegenschein
+- gemination
+- gemmation
+- gemmulation
+- genuflexion
+- geometrician
+- gerfalcon

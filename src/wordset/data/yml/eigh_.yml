@@ -1,0 +1,26 @@
+---
+pattern: eigh_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 701673
+score_per_word: 58472
+hi_scored_words:
+  eight: 1262
+  eighteen: 7447
+  eighteenth: 12161
+  eightfold: 97808
+  eighth: 6895
+  eighths: 96884
+  eighties: 28051
+  eights: 54044
+  eighty: 9416
+scored_words:
+  eightball: 107080
+  eightieth: 115987
+  eightpence: 164638
+not_scored_words:
+- eighteenmo
+- eighteens
+- eighteenths
+- eightieths

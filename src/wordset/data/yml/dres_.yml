@@ -1,0 +1,26 @@
+---
+pattern: dres_
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 16
+score: 623998
+score_per_word: 47999
+hi_scored_words:
+  dress: 1546
+  dressage: 29645
+  dressed: 4150
+  dresser: 16656
+  dressers: 40075
+  dresses: 5343
+  dressing: 5666
+  dressings: 30140
+  dressmaker: 63875
+  dressmakers: 91330
+  dressmaking: 91830
+  dressy: 56456
+scored_words:
+  dressier: 187286
+not_scored_words:
+- Dresden
+- dressiest
+- dressiness

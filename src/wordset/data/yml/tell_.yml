@@ -1,0 +1,33 @@
+---
+pattern: tell_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 23
+score: 746893
+score_per_word: 62241
+hi_scored_words:
+  tell: 281
+  teller: 17728
+  tellers: 43598
+  telling: 2247
+  tells: 2272
+  telltale: 49752
+  telluride: 35118
+  tellurium: 77004
+  telly: 30084
+scored_words:
+  tellingly: 115899
+  tellurian: 167394
+  telluric: 205516
+not_scored_words:
+- Tell
+- Teller
+- Tellus
+- tellies
+- telltales
+- tellurate
+- tellurians
+- tellurides
+- tellurion
+- tellurite
+- tellurize

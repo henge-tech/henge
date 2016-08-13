@@ -1,0 +1,25 @@
+---
+pattern: sk_t
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 15
+score: 527772
+score_per_word: 52777
+hi_scored_words:
+  skat: 98375
+  skeet: 42079
+  skillet: 26683
+  skinflint: 69808
+  skint: 72839
+  skintight: 97936
+  skirt: 5532
+  skit: 28802
+  skylight: 30462
+  skyrocket: 55256
+scored_words: {}
+not_scored_words:
+- sketchiest
+- skimpiest
+- skinniest
+- skippet
+- skirret

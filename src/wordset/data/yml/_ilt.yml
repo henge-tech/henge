@@ -1,0 +1,30 @@
+---
+pattern: _ilt
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 20
+score: 923226
+score_per_word: 54307
+hi_scored_words:
+  built: 784
+  gilt: 16628
+  guilt: 6871
+  hilt: 33122
+  inbuilt: 71396
+  kilt: 28548
+  lilt: 78900
+  milt: 35708
+  prebuilt: 93802
+  quilt: 12859
+  rebuilt: 11677
+  silt: 28449
+  stilt: 57193
+  tilt: 11065
+  wilt: 14946
+scored_words:
+  jilt: 184686
+  overbuilt: 236592
+not_scored_words:
+- Vanderbilt
+- atilt
+- jerrybuilt

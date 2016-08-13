@@ -1,0 +1,30 @@
+---
+pattern: hot_s
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 921255
+score_per_word: 70865
+hi_scored_words:
+  hotdogs: 70313
+  hoteliers: 76002
+  hotels: 5941
+  hotkeys: 63314
+  hotlines: 49933
+  hotlinks: 42051
+  hotness: 62909
+  hots: 47119
+  hotshots: 87540
+  hotties: 28755
+scored_words:
+  hotbeds: 140953
+  hotcakes: 109843
+  hotplates: 136582
+not_scored_words:
+- Hottentots
+- hotboxes
+- hotfoots
+- hotheadedness
+- hotheads
+- hothouses
+- hotpots

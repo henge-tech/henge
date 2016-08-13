@@ -1,0 +1,39 @@
+---
+pattern: car_er
+hi_scored_words_count: 15
+scored_words_count: 0
+total_words: 29
+score: 604380
+score_per_word: 40292
+hi_scored_words:
+  carabiner: 73658
+  carder: 83533
+  cardholder: 50397
+  career: 1064
+  caregiver: 19811
+  carer: 29528
+  caretaker: 26700
+  carpenter: 9213
+  carper: 82250
+  carpetbagger: 83036
+  carrier: 5251
+  carryover: 51537
+  carter: 7302
+  cartographer: 60930
+  carver: 20170
+scored_words: {}
+not_scored_words:
+- Carpenter
+- Carrier
+- Carter
+- Cartier
+- Carver
+- carabineer
+- carbineer
+- cardsharper
+- careener
+- carefuller
+- caresser
+- carjacker
+- caroler
+- carouser

@@ -1,0 +1,54 @@
+---
+pattern: effe_
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 44
+score: 1819319
+score_per_word: 75804
+hi_scored_words:
+  effect: 600
+  effected: 11559
+  effecting: 31451
+  effective: 1490
+  effectively: 4589
+  effectiveness: 7736
+  effector: 42282
+  effectors: 81690
+  effects: 1011
+  effectual: 47951
+  effectually: 45834
+  effectuate: 79922
+  effeminate: 46351
+  effendi: 76888
+  efferent: 67418
+  effervescence: 99922
+  effervescent: 56269
+  effete: 95415
+scored_words:
+  effectivity: 126739
+  effectuated: 173454
+  effectuating: 248002
+  effectuation: 212134
+  effeminacy: 109488
+  effervesce: 151124
+not_scored_words:
+- effectivities
+- effectualities
+- effectuality
+- effectualness
+- effectualnesses
+- effectuates
+- effectuations
+- effed
+- effeminately
+- effeminize
+- effeminized
+- effeminizes
+- effeminizing
+- effendis
+- effervesced
+- effervescently
+- effervesces
+- effervescing
+- effetely
+- effeteness

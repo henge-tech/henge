@@ -1,0 +1,39 @@
+---
+pattern: o_ls
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 29
+score: 1235241
+score_per_word: 77202
+hi_scored_words:
+  officials: 2503
+  oils: 7855
+  opals: 67244
+  orbitals: 43349
+  orientals: 75781
+  originals: 13997
+  ovals: 62538
+  overalls: 29360
+  overhauls: 85625
+  owls: 15886
+scored_words:
+  oddballs: 133477
+  orals: 101197
+  ordeals: 101710
+  ordinals: 110090
+  outfalls: 125862
+  outsells: 258767
+not_scored_words:
+- Occidentals
+- Orientals
+- occidentals
+- oriels
+- orinasals
+- ousels
+- outgenerals
+- outsails
+- ouzels
+- overfills
+- overmantels
+- oversells
+- oxtails

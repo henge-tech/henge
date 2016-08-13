@@ -1,0 +1,38 @@
+---
+pattern: sulf_
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 28
+score: 1767994
+score_per_word: 117866
+hi_scored_words:
+  sulfate: 17292
+  sulfates: 71386
+  sulfide: 30548
+  sulfides: 76479
+  sulfite: 78433
+  sulfonamides: 96198
+  sulfur: 14967
+  sulfuric: 37842
+scored_words:
+  sulfa: 106642
+  sulfanilamide: 199843
+  sulfonamide: 134862
+  sulfonate: 107315
+  sulfonates: 316326
+  sulfured: 334785
+  sulfurous: 145076
+not_scored_words:
+- Sulfonal
+- sulfaguanidine
+- sulfamerazine
+- sulfanilamides
+- sulfapyrazine
+- sulfapyridine
+- sulfathiazole
+- sulfatize
+- sulfonation
+- sulfonmethane
+- sulfuring
+- sulfurize
+- sulfurs

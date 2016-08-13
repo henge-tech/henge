@@ -1,0 +1,41 @@
+---
+pattern: touc_
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 31
+score: 1653430
+score_per_word: 78734
+hi_scored_words:
+  toucan: 45438
+  touch: 1189
+  touchdown: 14628
+  touchdowns: 23637
+  touche: 27791
+  touched: 4784
+  touches: 8572
+  touching: 5942
+  touchline: 86011
+  touchscreen: 30800
+  touchstone: 30469
+  touchy: 34438
+  touché: 41930
+scored_words:
+  toucans: 139080
+  touchable: 153794
+  touchback: 121973
+  touchbacks: 270444
+  touchingly: 158525
+  touchscreens: 110665
+  touchstones: 141847
+  touchwood: 201473
+not_scored_words:
+- touchhole
+- touchier
+- touchiest
+- touchily
+- touchiness
+- touchings
+- touchlines
+- touchpaper
+- touchpapers
+- touchwoods

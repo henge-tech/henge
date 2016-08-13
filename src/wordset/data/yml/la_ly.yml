@@ -1,0 +1,45 @@
+---
+pattern: la_ly
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 35
+score: 2501284
+score_per_word: 113694
+hi_scored_words:
+  laboriously: 66169
+  largely: 3185
+  lastly: 11639
+  lately: 4683
+  laterally: 41149
+  latterly: 70966
+  laughably: 85990
+  laughingly: 75381
+  lavishly: 41356
+  lawfully: 23897
+  lazily: 39223
+scored_words:
+  laconically: 186647
+  lamely: 109277
+  lamentably: 128847
+  languidly: 100236
+  laparoscopically: 239700
+  lasciviously: 153013
+  lastingly: 220259
+  latently: 199458
+  laudably: 181783
+  lawyerly: 284884
+  laxly: 233542
+not_scored_words:
+- labially
+- lachrymosely
+- lackadaisically
+- laggardly
+- laically
+- lambently
+- landlubberly
+- languishingly
+- languorously
+- lankily
+- lankly
+- latitudinally
+- lawlessly

@@ -1,0 +1,20 @@
+---
+pattern: off_e
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 10
+score: 233642
+score_per_word: 25960
+hi_scored_words:
+  offense: 5787
+  offensive: 4352
+  office: 256
+  officiate: 51766
+  offline: 8984
+  offshore: 10972
+  offside: 41083
+  offsite: 38344
+  offstage: 72098
+scored_words: {}
+not_scored_words:
+- officialese

@@ -1,0 +1,27 @@
+---
+pattern: f_ive
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 17
+score: 940759
+score_per_word: 67197
+hi_scored_words:
+  facultative: 76537
+  festive: 14741
+  fictive: 88558
+  figurative: 23516
+  five: 354
+  fixative: 75811
+  forgive: 6018
+  formative: 23756
+  fricative: 83521
+  fugitive: 15316
+  furtive: 57378
+scored_words:
+  facilitative: 108007
+  federative: 143053
+  fermentative: 224193
+not_scored_words:
+- factitive
+- frequentative
+- fructificative

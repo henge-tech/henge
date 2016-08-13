@@ -1,0 +1,39 @@
+---
+pattern: spit_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 29
+score: 1432092
+score_per_word: 95472
+hi_scored_words:
+  spit: 11127
+  spite: 5219
+  spiteful: 45914
+  spitfire: 27077
+  spitfires: 98578
+  spits: 41191
+  spitting: 26414
+  spittle: 71700
+  spitz: 42907
+scored_words:
+  spital: 165624
+  spitball: 245641
+  spitefully: 208264
+  spitted: 159727
+  spitter: 160654
+  spittoon: 122055
+not_scored_words:
+- Spithead
+- Spitsbergen
+- Spitz
+- spitballs
+- spited
+- spitefuller
+- spitefullest
+- spitefulness
+- spites
+- spiting
+- spittlebug
+- spittlebugs
+- spittoons
+- spitzes

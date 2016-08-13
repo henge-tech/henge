@@ -1,0 +1,35 @@
+---
+pattern: re_ence
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 25
+score: 1517712
+score_per_word: 101180
+hi_scored_words:
+  recurrence: 15408
+  reference: 996
+  reminiscence: 55398
+  residence: 2845
+  resilience: 22925
+  resurgence: 30830
+  reticence: 59698
+  reverence: 16192
+scored_words:
+  recommence: 116444
+  recrudescence: 177301
+  reemergence: 159478
+  remanence: 193174
+  renascence: 176260
+  reoccurrence: 162274
+  respondence: 328489
+not_scored_words:
+- Renascence
+- Reverence
+- recalescence
+- recipience
+- redolence
+- reexperience
+- refulgence
+- repellence
+- resplendence
+- reviviscence

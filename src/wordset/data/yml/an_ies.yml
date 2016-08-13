@@ -1,0 +1,41 @@
+---
+pattern: an_ies
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 31
+score: 1085955
+score_per_word: 72397
+hi_scored_words:
+  analogies: 29293
+  ancestries: 78373
+  anchovies: 61392
+  anniversaries: 29359
+  annuities: 30400
+  anomalies: 19827
+  anthologies: 21755
+  antibodies: 13781
+  antiquities: 23083
+  anxieties: 32826
+scored_words:
+  ancillaries: 124339
+  animosities: 117175
+  anisotropies: 153232
+  antipathies: 228728
+  antiquaries: 122392
+not_scored_words:
+- anatomies
+- anemographies
+- anemometries
+- anergies
+- angiographies
+- angiologies
+- angioplasties
+- angularities
+- animalities
+- antecedencies
+- anteriorities
+- anthropometries
+- antiphonaries
+- antiphonies
+- antonymies
+- anybodies

@@ -1,0 +1,24 @@
+---
+pattern: proh_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 809251
+score_per_word: 73568
+hi_scored_words:
+  prohibit: 12461
+  prohibited: 5134
+  prohibiting: 19815
+  prohibition: 7703
+  prohibitions: 27884
+  prohibitive: 37831
+  prohibitively: 63397
+  prohibits: 19765
+scored_words:
+  prohibitionist: 206397
+  prohibitionists: 259206
+  prohibitory: 149658
+not_scored_words:
+- Prohibition
+- prohibitiveness
+- prohibitor

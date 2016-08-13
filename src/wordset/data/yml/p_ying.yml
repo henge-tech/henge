@@ -1,0 +1,41 @@
+---
+pattern: p_ying
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 31
+score: 1557312
+score_per_word: 86517
+hi_scored_words:
+  partying: 24233
+  paying: 2102
+  photocopying: 37683
+  pitying: 70708
+  playing: 1071
+  plying: 60853
+  portraying: 35193
+  praying: 9409
+  preying: 68588
+  prying: 44253
+  purifying: 35195
+scored_words:
+  pacifying: 149432
+  parleying: 189314
+  parodying: 140370
+  parrying: 143315
+  personifying: 232239
+  prepaying: 213237
+  prophesying: 100117
+not_scored_words:
+- palsying
+- parlaying
+- petrifying
+- phoneying
+- phonying
+- pillorying
+- ponying
+- preoccupying
+- prettifying
+- prettying
+- purveying
+- putrefying
+- puttying

@@ -1,0 +1,27 @@
+---
+pattern: vi_er
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 1041692
+score_per_word: 94699
+hi_scored_words:
+  vier: 52024
+  viewer: 10013
+  viewfinder: 31921
+  villager: 32856
+  vintner: 90852
+  viper: 16837
+  visualizer: 85506
+  vizier: 43002
+scored_words:
+  viler: 206880
+  viscometer: 148884
+  vitalizer: 322917
+not_scored_words:
+- victimizer
+- victualer
+- vilifier
+- vintager
+- vivider
+- vivifier

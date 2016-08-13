@@ -1,0 +1,54 @@
+---
+pattern: orga_
+hi_scored_words_count: 26
+scored_words_count: 7
+total_words: 44
+score: 1592988
+score_per_word: 48272
+hi_scored_words:
+  organ: 4447
+  organelle: 74757
+  organelles: 58866
+  organic: 3526
+  organically: 37574
+  organics: 28416
+  organism: 9050
+  organisms: 9037
+  organist: 30754
+  organists: 89646
+  organization: 1215
+  organizational: 8904
+  organizations: 2560
+  organize: 7010
+  organized: 2699
+  organizer: 15272
+  organizers: 20511
+  organizes: 24103
+  organizing: 7813
+  organometallic: 68585
+  organon: 86198
+  organs: 6465
+  organza: 68923
+  orgasm: 16854
+  orgasmic: 49046
+  orgasms: 16922
+scored_words:
+  organdy: 140887
+  organismic: 145476
+  organizationally: 101523
+  organochlorine: 106486
+  organogenesis: 124143
+  organophosphate: 103346
+  organophosphorus: 121974
+not_scored_words:
+- organicism
+- organicisms
+- organicity
+- organizable
+- organography
+- organology
+- organons
+- organotherapy
+- organzine
+- orgasmically
+- orgastically

@@ -1,0 +1,25 @@
+---
+pattern: f_als
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 674538
+score_per_word: 61321
+hi_scored_words:
+  facials: 22186
+  federals: 98256
+  festivals: 6724
+  finals: 9883
+  finials: 68298
+  foals: 44500
+  fractals: 41829
+  fundamentals: 14678
+  funerals: 23058
+scored_words:
+  factorials: 238790
+  formals: 106336
+not_scored_words:
+- Federals
+- fallals
+- fiscals
+- furfurals

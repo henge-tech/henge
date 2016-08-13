@@ -1,0 +1,26 @@
+---
+pattern: pi_le
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 16
+score: 1217761
+score_per_word: 81184
+hi_scored_words:
+  pickle: 17595
+  piffle: 85806
+  pigeonhole: 83443
+  pile: 5947
+  pimple: 48711
+  pineapple: 16818
+  pinhole: 44311
+  pinnacle: 12714
+  pinochle: 75194
+  pinole: 96163
+  pitiable: 72221
+scored_words:
+  piddle: 119487
+  pintle: 161916
+  pipistrelle: 225133
+  pistole: 152302
+not_scored_words:
+- pinnule

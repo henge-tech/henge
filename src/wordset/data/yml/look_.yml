@@ -1,0 +1,21 @@
+---
+pattern: look_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 11
+score: 406444
+score_per_word: 36949
+hi_scored_words:
+  look: 193
+  lookalike: 50621
+  looked: 1044
+  looker: 50970
+  lookers: 93951
+  looking: 271
+  lookout: 13259
+  lookouts: 78353
+  looks: 945
+  lookup: 13164
+scored_words:
+  lookalikes: 103673
+not_scored_words: []

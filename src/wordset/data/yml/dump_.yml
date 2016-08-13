@@ -1,0 +1,32 @@
+---
+pattern: dump_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 1143184
+score_per_word: 87937
+hi_scored_words:
+  dump: 10483
+  dumped: 16531
+  dumper: 59511
+  dumping: 20766
+  dumpling: 55702
+  dumplings: 38778
+  dumps: 25665
+  dumpster: 32921
+  dumpsters: 70566
+  dumpy: 92486
+scored_words:
+  dumpers: 133809
+  dumpsite: 268312
+  dumpsites: 317654
+not_scored_words:
+- Dumpster
+- dumpcart
+- dumpcarts
+- dumpier
+- dumpiest
+- dumpily
+- dumpiness
+- dumpings
+- dumpish

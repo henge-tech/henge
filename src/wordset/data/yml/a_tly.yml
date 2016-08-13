@@ -1,0 +1,33 @@
+---
+pattern: a_tly
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 23
+score: 1484578
+score_per_word: 98971
+hi_scored_words:
+  abruptly: 14549
+  absently: 67485
+  abstractly: 76461
+  abundantly: 30218
+  adamantly: 71069
+  adroitly: 93725
+  apparently: 2180
+  aptly: 31415
+  ardently: 59003
+  arrogantly: 89798
+scored_words:
+  abhorrently: 229308
+  abjectly: 164666
+  adeptly: 209385
+  alertly: 224064
+  anciently: 121252
+not_scored_words:
+- aberrantly
+- abstinently
+- acquiescently
+- adjacently
+- affluently
+- ambivalently
+- astringently
+- augustly

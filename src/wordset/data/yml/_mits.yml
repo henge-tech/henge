@@ -1,0 +1,29 @@
+---
+pattern: _mits
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 19
+score: 1263701
+score_per_word: 84246
+hi_scored_words:
+  admits: 10790
+  commits: 12640
+  emits: 39466
+  hermits: 62204
+  limits: 2519
+  omits: 44616
+  permits: 5770
+  submits: 21746
+  summits: 27758
+  transmits: 32004
+scored_words:
+  delimits: 215742
+  remits: 140575
+  resubmits: 325861
+  retransmits: 201957
+  vomits: 120053
+not_scored_words:
+- intermits
+- manumits
+- readmits
+- recommits

@@ -1,0 +1,37 @@
+---
+pattern: i_sts
+hi_scored_words_count: 8
+scored_words_count: 15
+total_words: 27
+score: 3004654
+score_per_word: 130637
+hi_scored_words:
+  idealists: 76335
+  imperialists: 59322
+  impressionists: 66205
+  industrialists: 49162
+  insists: 14461
+  instrumentalists: 69911
+  interests: 1403
+  invests: 30427
+scored_words:
+  ichthyologists: 298078
+  iconoclasts: 167342
+  ideologists: 263332
+  illusionists: 190497
+  immunologists: 121088
+  imposts: 123288
+  incests: 118313
+  individualists: 124359
+  infests: 203938
+  ingests: 198629
+  inquests: 119239
+  internationalists: 162334
+  internists: 105235
+  interventionists: 227855
+  isolationists: 213901
+not_scored_words:
+- incrementalists
+- insurrectionists
+- ironists
+- irredentists

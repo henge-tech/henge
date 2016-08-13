@@ -1,0 +1,31 @@
+---
+pattern: arc_e
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 21
+score: 555207
+score_per_word: 55520
+hi_scored_words:
+  arcade: 9898
+  arcane: 26444
+  archdiocese: 26959
+  archduke: 56434
+  archetype: 38511
+  architecture: 2570
+  archive: 5006
+  arcuate: 78608
+scored_words:
+  archimandrite: 171077
+  architrave: 139700
+not_scored_words:
+- Archie
+- arcature
+- archaize
+- archconservative
+- archdeaconate
+- archespore
+- archiepiscopate
+- archimage
+- archine
+- archiphoneme
+- archlute

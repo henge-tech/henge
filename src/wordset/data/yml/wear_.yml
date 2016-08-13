@@ -1,0 +1,32 @@
+---
+pattern: wear_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 22
+score: 628851
+score_per_word: 48373
+hi_scored_words:
+  wear: 1570
+  wearable: 31174
+  wearer: 28876
+  wearers: 67310
+  wearied: 55581
+  wearily: 43864
+  weariness: 38317
+  wearing: 3009
+  wearisome: 77583
+  wears: 9498
+  weary: 10643
+scored_words:
+  wearies: 112891
+  wearying: 148535
+not_scored_words:
+- wearier
+- weariest
+- weariful
+- weariless
+- wearings
+- wearisomely
+- wearisomeness
+- wearproof
+- wearyingly

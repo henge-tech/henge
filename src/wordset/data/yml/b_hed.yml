@@ -1,0 +1,50 @@
+---
+pattern: b_hed
+hi_scored_words_count: 23
+scored_words_count: 8
+total_words: 40
+score: 2046420
+score_per_word: 66013
+hi_scored_words:
+  banished: 21090
+  bashed: 56510
+  bathed: 31923
+  beached: 59468
+  benched: 73143
+  bequeathed: 46933
+  betrothed: 54047
+  bewitched: 25081
+  birthed: 73934
+  bitched: 91096
+  blanched: 54213
+  bleached: 31194
+  bloodshed: 30436
+  blushed: 33213
+  botched: 44146
+  brainwashed: 39422
+  branched: 27540
+  breached: 27388
+  breathed: 19038
+  broached: 74749
+  brushed: 10613
+  bunched: 69242
+  burnished: 46896
+scored_words:
+  batched: 114760
+  belched: 160934
+  berthed: 107018
+  besmirched: 173227
+  blemished: 112353
+  blotched: 110196
+  brandished: 104766
+  bushed: 121851
+not_scored_words:
+- bached
+- backstitched
+- badmouthed
+- bellyached
+- birched
+- blandished
+- blenched
+- brunched
+- bucktoothed

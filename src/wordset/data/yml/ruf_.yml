@@ -1,0 +1,30 @@
+---
+pattern: ruf_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1251034
+score_per_word: 96233
+hi_scored_words:
+  ruff: 23202
+  ruffed: 78963
+  ruffian: 59354
+  ruffians: 89141
+  ruffle: 31151
+  ruffled: 34855
+  ruffles: 49728
+  rufiyaa: 53157
+  rufous: 46693
+scored_words:
+  ruffianly: 270466
+  ruffing: 232382
+  ruffling: 123134
+  ruffs: 158808
+not_scored_words:
+- Rufus
+- rufescence
+- rufescent
+- ruffianism
+- ruffianisms
+- ruffler
+- ruffly

@@ -1,0 +1,69 @@
+---
+pattern: de_le
+hi_scored_words_count: 26
+scored_words_count: 16
+total_words: 59
+score: 4650085
+score_per_word: 110716
+hi_scored_words:
+  debacle: 29641
+  debatable: 34556
+  decidable: 88205
+  decile: 70445
+  decouple: 99909
+  deductible: 10332
+  defensible: 40632
+  defile: 49673
+  definable: 48799
+  deformable: 77756
+  degradable: 99229
+  dele: 74300
+  delectable: 35695
+  deliverable: 39967
+  demonstrable: 45493
+  dependable: 24162
+  deplorable: 34388
+  deployable: 62705
+  depreciable: 95155
+  derivable: 80270
+  desirable: 5453
+  despicable: 30170
+  detachable: 25246
+  detectable: 24255
+  determinable: 82146
+  detestable: 59262
+scored_words:
+  decipherable: 202747
+  deckle: 165525
+  decomposable: 123895
+  deducible: 166262
+  defeasible: 157301
+  defendable: 228517
+  deferrable: 319178
+  delegable: 297248
+  demoiselle: 142258
+  demountable: 159092
+  deniable: 246743
+  dentelle: 209715
+  denumerable: 333924
+  deportable: 238013
+  describable: 160227
+  destructible: 131596
+not_scored_words:
+- Deauville
+- decastyle
+- decasyllable
+- declarable
+- declinable
+- decuple
+- deflectable
+- defrayable
+- demandable
+- denticle
+- derisible
+- descale
+- descendible
+- deshabille
+- designable
+- destroyable
+- devisable

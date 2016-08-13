@@ -1,0 +1,28 @@
+---
+pattern: ev_es
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 1139987
+score_per_word: 87691
+hi_scored_words:
+  evacuees: 35622
+  evaluates: 19803
+  evaporates: 62281
+  everglades: 29295
+  eves: 56390
+  evidences: 35946
+  evokes: 40248
+  evolves: 33210
+scored_words:
+  evacuates: 217156
+  evades: 110588
+  evaporites: 257886
+  eventualities: 113179
+  evinces: 128383
+not_scored_words:
+- Everglades
+- evanesces
+- evangelizes
+- eventuates
+- eviscerates

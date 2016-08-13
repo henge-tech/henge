@@ -1,0 +1,43 @@
+---
+pattern: fe_ed
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 33
+score: 2773540
+score_per_word: 102723
+hi_scored_words:
+  feared: 8128
+  feasted: 80093
+  featherbed: 96713
+  feathered: 27177
+  featured: 7902
+  federated: 26979
+  feed: 1560
+  feigned: 57832
+  felled: 47902
+  felted: 84699
+  fenced: 24506
+  fermented: 31260
+  ferried: 90737
+  fertilized: 38568
+  festooned: 95460
+  fetched: 22255
+  fevered: 64225
+scored_words:
+  federalized: 229320
+  felicitated: 249997
+  feminized: 103522
+  fended: 146354
+  ferreted: 281097
+  fessed: 244464
+  festered: 230991
+  feted: 104840
+  fettered: 110959
+  feuded: 266000
+not_scored_words:
+- featherbedded
+- featherbrained
+- fecundated
+- feebleminded
+- feinted
+- fenestrated

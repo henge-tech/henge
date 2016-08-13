@@ -1,0 +1,48 @@
+---
+pattern: m_gs
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 38
+score: 1979868
+score_per_word: 73328
+hi_scored_words:
+  mags: 17539
+  mailings: 39627
+  makings: 60191
+  mappings: 31284
+  markings: 15460
+  meanings: 10110
+  meetings: 2343
+  megs: 38834
+  misgivings: 38263
+  misspellings: 51675
+  misunderstandings: 31224
+  moldings: 52511
+  moorings: 41841
+  mornings: 13475
+  mountings: 58738
+  mugs: 17534
+  musings: 23375
+  mustangs: 33613
+  mutterings: 72922
+scored_words:
+  maneuverings: 252605
+  matings: 116500
+  mealybugs: 239494
+  meanderings: 104438
+  moneybags: 120732
+  muggings: 137088
+  mumblings: 182549
+  murmurings: 175903
+not_scored_words:
+- mailbags
+- mainsprings
+- middlings
+- millings
+- misdoings
+- misreadings
+- modelings
+- monophthongs
+- motorings
+- mungs
+- muskegs

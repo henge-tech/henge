@@ -1,0 +1,44 @@
+---
+pattern: sta_t
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 34
+score: 2220969
+score_per_word: 100953
+hi_scored_words:
+  stagecraft: 93909
+  stagnant: 25875
+  stakeout: 91251
+  stalwart: 33603
+  standout: 34524
+  standpoint: 13169
+  starburst: 47059
+  stardust: 23725
+  starlet: 47276
+  starlight: 20737
+  start: 399
+  stat: 13126
+  statecraft: 96420
+  statement: 759
+  statist: 49937
+scored_words:
+  standfast: 275609
+  starfruit: 283170
+  starkest: 277626
+  starlit: 115565
+  starwort: 281258
+  stateliest: 272271
+  staunchest: 123701
+not_scored_words:
+- Stalinist
+- stablest
+- stagefright
+- stagiest
+- staidest
+- stalest
+- stanchest
+- starchiest
+- starriest
+- statant
+- statocyst
+- statvolt

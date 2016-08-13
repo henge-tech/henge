@@ -1,0 +1,29 @@
+---
+pattern: ci_on
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 888917
+score_per_word: 74076
+hi_scored_words:
+  cinnamon: 11539
+  circulation: 5333
+  circumcision: 21646
+  circumnavigation: 84488
+  circumvention: 57495
+  citation: 11168
+  citron: 44979
+  civilization: 4986
+scored_words:
+  cion: 237061
+  circumlocution: 167469
+  circumscription: 116034
+  circumspection: 126719
+not_scored_words:
+- Cimon
+- cinematization
+- circularization
+- circumgyration
+- circumstantiation
+- circumvolution
+- citification

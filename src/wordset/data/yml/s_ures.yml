@@ -1,0 +1,31 @@
+---
+pattern: s_ures
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 21
+score: 600165
+score_per_word: 50013
+hi_scored_words:
+  scriptures: 11739
+  sculptures: 13901
+  secures: 23775
+  seizures: 20037
+  signatures: 9792
+  sinecures: 93308
+  strictures: 60026
+  structures: 3335
+  subcultures: 64754
+  sutures: 46531
+scored_words:
+  substructures: 111064
+  superstructures: 141903
+not_scored_words:
+- Scriptures
+- Silures
+- scissures
+- sepultures
+- sericultures
+- silvicultures
+- soilures
+- statures
+- supersedures

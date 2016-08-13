@@ -1,0 +1,40 @@
+---
+pattern: lec_
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 30
+score: 1579889
+score_per_word: 78994
+hi_scored_words:
+  lech: 44696
+  lecherous: 84982
+  lecithin: 43169
+  lect: 52020
+  lectern: 55989
+  lection: 98981
+  lectionary: 59581
+  lector: 58135
+  lecture: 3674
+  lectured: 34462
+  lecturer: 10170
+  lecturers: 24626
+  lectures: 5284
+  lectureship: 74252
+  lecturing: 33007
+scored_words:
+  lecher: 148292
+  lechery: 193372
+  lecterns: 155648
+  lectors: 199677
+  lectureships: 199872
+not_scored_words:
+- Lecce
+- Lecky
+- leched
+- lecherously
+- lecherousness
+- lechers
+- leches
+- leching
+- lecithinase
+- lecythus

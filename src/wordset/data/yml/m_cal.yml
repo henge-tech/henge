@@ -1,0 +1,53 @@
+---
+pattern: m_cal
+hi_scored_words_count: 22
+scored_words_count: 6
+total_words: 43
+score: 1609787
+score_per_word: 57492
+hi_scored_words:
+  magical: 6851
+  maniacal: 68335
+  mathematical: 5439
+  mechanical: 3228
+  medical: 1221
+  metallurgical: 33041
+  metaphorical: 35317
+  metaphysical: 16320
+  meteorological: 19771
+  methodical: 33979
+  methodological: 18269
+  metical: 54231
+  metrical: 49152
+  microbiological: 40765
+  microscopical: 98537
+  mineralogical: 62404
+  monarchical: 95024
+  morphological: 26184
+  musical: 1830
+  mystical: 12374
+  mythical: 18357
+  mythological: 26961
+scored_words:
+  matrilocal: 114682
+  mescal: 133928
+  meteoritical: 254877
+  microsurgical: 135811
+  musicological: 129963
+  mycological: 112936
+not_scored_words:
+- Methodistical
+- macroscopical
+- manometrical
+- mephitical
+- metathetical
+- metonymical
+- metropolitical
+- microcosmical
+- misanthropical
+- monastical
+- monodical
+- monomaniacal
+- multivocal
+- myological
+- mystagogical

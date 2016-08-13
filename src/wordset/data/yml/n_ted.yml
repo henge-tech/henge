@@ -1,0 +1,41 @@
+---
+pattern: n_ted
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 31
+score: 1249554
+score_per_word: 78097
+hi_scored_words:
+  narrated: 23001
+  nauseated: 94150
+  navigated: 57791
+  necessitated: 33686
+  negated: 44665
+  neglected: 8145
+  negotiated: 11289
+  nested: 19620
+  netted: 37938
+  nominated: 6999
+  notated: 87109
+  noted: 1938
+scored_words:
+  nearsighted: 138365
+  nitrated: 256621
+  noninfected: 316688
+  nucleated: 111549
+not_scored_words:
+- nictated
+- nictitated
+- nonaccredited
+- nonactivated
+- noncarbonated
+- nonelected
+- nonfederated
+- noninflected
+- nonintegrated
+- nonrestricted
+- nonsegregated
+- nonstriated
+- nucleolated
+- numerated
+- nutted

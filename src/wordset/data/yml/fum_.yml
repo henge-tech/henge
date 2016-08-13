@@ -1,0 +1,41 @@
+---
+pattern: fum_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 31
+score: 1568257
+score_per_word: 98016
+hi_scored_words:
+  fum: 59616
+  fumble: 27216
+  fumbled: 48760
+  fumbles: 35926
+  fumbling: 46612
+  fume: 31806
+  fumed: 83515
+  fumes: 22532
+  fumigation: 53338
+  fuming: 47790
+scored_words:
+  fumaroles: 268381
+  fumigant: 138297
+  fumigants: 183662
+  fumigate: 182892
+  fumigated: 141222
+  fumigating: 196692
+not_scored_words:
+- fumarole
+- fumatorium
+- fumbler
+- fumblers
+- fumblingly
+- fumier
+- fumiest
+- fumigates
+- fumigator
+- fumigators
+- fumingly
+- fumitories
+- fumitory
+- fums
+- fumy

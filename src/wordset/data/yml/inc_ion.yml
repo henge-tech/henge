@@ -1,0 +1,37 @@
+---
+pattern: inc_ion
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 27
+score: 1900112
+score_per_word: 90481
+hi_scored_words:
+  incantation: 49947
+  incapacitation: 89336
+  incarceration: 27800
+  incarnation: 18100
+  inception: 16494
+  incineration: 36980
+  incision: 25894
+  inclination: 14044
+  inclusion: 11456
+  incorporation: 12638
+  incrimination: 80976
+  incrustation: 85459
+  incubation: 23780
+  incursion: 44842
+scored_words:
+  incitation: 202155
+  incompletion: 258705
+  incomprehension: 143073
+  inconsideration: 168286
+  incoordination: 178298
+  incorruption: 229271
+  inculcation: 182578
+not_scored_words:
+- Incarnation
+- incardination
+- incentivization
+- inchoation
+- incretion
+- inculpation

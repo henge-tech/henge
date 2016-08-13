@@ -1,0 +1,32 @@
+---
+pattern: b_tion
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 22
+score: 1901298
+score_per_word: 126753
+hi_scored_words:
+  bastion: 26931
+  beatification: 93753
+  beautification: 50711
+  benediction: 41504
+  bifurcation: 36462
+  bijection: 97043
+  biodegradation: 61218
+  bioremediation: 68915
+scored_words:
+  backwardation: 215510
+  bastardization: 227527
+  benefaction: 231452
+  bisection: 105162
+  botheration: 148826
+  brutalization: 245904
+  bureaucratization: 250380
+not_scored_words:
+- Benediction
+- barbarization
+- bilection
+- bolection
+- bourgeoisification
+- bowdlerization
+- brachiation

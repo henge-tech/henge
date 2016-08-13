@@ -1,0 +1,61 @@
+---
+pattern: do_ed
+hi_scored_words_count: 25
+scored_words_count: 10
+total_words: 51
+score: 2837912
+score_per_word: 81083
+hi_scored_words:
+  docked: 40461
+  doctored: 62471
+  documented: 5944
+  dodged: 50181
+  dogged: 33960
+  doled: 99831
+  domed: 40860
+  domesticated: 30445
+  domiciled: 54118
+  dominated: 7633
+  donated: 13506
+  donned: 50468
+  doomed: 11683
+  doped: 32027
+  dosed: 63847
+  dotted: 14110
+  doubled: 9122
+  doubted: 19645
+  doused: 84501
+  downed: 38136
+  downgraded: 37839
+  downloaded: 9166
+  downplayed: 72173
+  downsized: 70421
+  dozed: 76958
+scored_words:
+  docketed: 123349
+  doffed: 225641
+  dogeared: 298037
+  dogsled: 160494
+  dolled: 117603
+  doodled: 220440
+  doted: 152191
+  dovetailed: 116558
+  dowered: 205952
+  downhearted: 188141
+not_scored_words:
+- dobbed
+- doddered
+- doggoned
+- doglegged
+- dogmatized
+- dogtrotted
+- doited
+- dolloped
+- domineered
+- donged
+- doorstepped
+- dossed
+- douched
+- doweled
+- downshifted
+- dowsed

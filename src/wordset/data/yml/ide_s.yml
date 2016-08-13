@@ -1,0 +1,31 @@
+---
+pattern: ide_s
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 21
+score: 1266042
+score_per_word: 90431
+hi_scored_words:
+  idealists: 76335
+  ideals: 9568
+  ideas: 853
+  identifications: 46981
+  identifiers: 23675
+  identifies: 12045
+  identities: 9135
+  ideologies: 25660
+  ideologues: 71633
+  ides: 42023
+scored_words:
+  idealizations: 292849
+  ideograms: 219956
+  ideographs: 171997
+  ideologists: 263332
+not_scored_words:
+- idealizes
+- ideates
+- ideations
+- identicalness
+- identicalnesses
+- identikits
+- ideographies

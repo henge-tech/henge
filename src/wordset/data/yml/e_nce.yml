@@ -1,0 +1,49 @@
+---
+pattern: e_nce
+hi_scored_words_count: 21
+scored_words_count: 9
+total_words: 39
+score: 2320577
+score_per_word: 77352
+hi_scored_words:
+  effervescence: 99922
+  elegance: 10123
+  eloquence: 24306
+  emergence: 14483
+  eminence: 22221
+  encumbrance: 53400
+  endurance: 9945
+  enhance: 6460
+  entrance: 2938
+  equivalence: 17391
+  esperance: 56056
+  essence: 5177
+  evanescence: 21704
+  evidence: 854
+  evince: 61990
+  excellence: 4139
+  excrescence: 77087
+  existence: 2172
+  experience: 416
+  extravagance: 38688
+  exuberance: 38647
+scored_words:
+  ebullience: 300306
+  efflorescence: 114127
+  effluence: 115838
+  effulgence: 170146
+  eightpence: 164638
+  electroluminescence: 206667
+  ensconce: 235852
+  exigence: 266307
+  expedience: 178577
+not_scored_words:
+- Eminence
+- Excellence
+- elastance
+- emollience
+- enounce
+- equidistance
+- equiponderance
+- erubescence
+- exorbitance

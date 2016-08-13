@@ -1,0 +1,51 @@
+---
+pattern: _lage
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 41
+score: 2007496
+score_per_word: 87282
+hi_scored_words:
+  assemblage: 28316
+  camouflage: 19179
+  cartilage: 20484
+  collage: 18997
+  fuselage: 24737
+  haulage: 42573
+  millage: 95692
+  pillage: 40319
+  plage: 55873
+  silage: 41472
+  spillage: 57332
+  spoilage: 66639
+  tillage: 32439
+  tutelage: 49681
+  village: 1010
+scored_words:
+  anlage: 129301
+  bricolage: 102755
+  curtilage: 146820
+  mucilage: 148289
+  persiflage: 119503
+  pupillage: 219376
+  ullage: 310958
+  vassalage: 235751
+not_scored_words:
+- Vorlage
+- coquillage
+- diallage
+- enallage
+- ensilage
+- grillage
+- hypallage
+- pelage
+- scalage
+- smallage
+- soilage
+- stealage
+- stillage
+- sullage
+- tallage
+- thirlage
+- treillage
+- victualage

@@ -1,0 +1,42 @@
+---
+pattern: plai_
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 32
+score: 2196952
+score_per_word: 95519
+hi_scored_words:
+  plaice: 75022
+  plaid: 16282
+  plain: 1782
+  plainer: 95015
+  plainly: 12480
+  plains: 5012
+  plaint: 84393
+  plaintiff: 9311
+  plaintiffs: 22750
+  plaintive: 50411
+  plait: 60230
+  plaited: 84864
+scored_words:
+  plaids: 102110
+  plainclothes: 119690
+  plainest: 133289
+  plainness: 141307
+  plainsman: 164866
+  plainsong: 136450
+  plainspoken: 312274
+  plaintively: 140118
+  plaints: 161948
+  plaiting: 133393
+  plaits: 133955
+not_scored_words:
+- plaices
+- plaided
+- plainchant
+- plainclothesman
+- plainclothesmen
+- plainsmen
+- plainspokenness
+- plaintiveness
+- plaintivenesses

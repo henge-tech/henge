@@ -1,0 +1,39 @@
+---
+pattern: com_ons
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 29
+score: 1573522
+score_per_word: 68414
+hi_scored_words:
+  combinations: 11413
+  commemorations: 87365
+  commendations: 58391
+  commissions: 8413
+  commons: 3621
+  communications: 2567
+  companions: 8799
+  comparisons: 8261
+  compensations: 69164
+  competitions: 14241
+  compilations: 23301
+  completions: 35461
+  complications: 7573
+  compositions: 11419
+  compressions: 86076
+  compulsions: 86239
+  computations: 28399
+scored_words:
+  commotions: 160684
+  communions: 122523
+  commutations: 297861
+  complexions: 102781
+  comprehensions: 176854
+  compunctions: 162116
+not_scored_words:
+- Commons
+- Communions
+- comminations
+- commiserations
+- communizations
+- compactions

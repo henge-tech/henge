@@ -1,0 +1,43 @@
+---
+pattern: _key
+hi_scored_words_count: 20
+scored_words_count: 3
+total_words: 33
+score: 1047313
+score_per_word: 45535
+hi_scored_words:
+  crikey: 54050
+  dickey: 35688
+  donkey: 10354
+  flakey: 95725
+  hickey: 28628
+  hockey: 11661
+  hokey: 57326
+  hotkey: 53594
+  jockey: 15147
+  key: 876
+  lackey: 34030
+  malarkey: 92399
+  mickey: 13200
+  monkey: 5016
+  pokey: 45323
+  rickey: 44794
+  smokey: 21335
+  turkey: 2988
+  turnkey: 30891
+  whiskey: 11127
+scored_words:
+  jokey: 116005
+  latchkey: 144101
+  passkey: 123055
+not_scored_words:
+- Jockey
+- Key
+- Leakey
+- Mickey
+- Rickey
+- Smokey
+- Starkey
+- Turkey
+- doohickey
+- offkey

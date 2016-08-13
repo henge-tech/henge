@@ -1,0 +1,26 @@
+---
+pattern: scre_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 563296
+score_per_word: 51208
+hi_scored_words:
+  screams: 15679
+  screenings: 22443
+  screenplays: 45334
+  screens: 7446
+  screenshots: 7244
+  screenwriters: 52880
+  screwdrivers: 45777
+  screws: 11768
+scored_words:
+  screamers: 101436
+  screeches: 119880
+  screeds: 133409
+not_scored_words:
+- screaks
+- screes
+- screwballs
+- screwiness
+- screwworms

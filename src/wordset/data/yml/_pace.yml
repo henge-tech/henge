@@ -1,0 +1,27 @@
+---
+pattern: _pace
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 17
+score: 649114
+score_per_word: 46365
+hi_scored_words:
+  aerospace: 7773
+  airspace: 25351
+  apace: 52036
+  backspace: 46101
+  carapace: 64507
+  cyberspace: 18250
+  hyperspace: 47141
+  outpace: 69807
+  pace: 3405
+  space: 541
+  subspace: 33054
+  workspace: 21119
+scored_words:
+  crawlspace: 104052
+  interspace: 155977
+not_scored_words:
+- MySpace
+- Pace
+- footpace

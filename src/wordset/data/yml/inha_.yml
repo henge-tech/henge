@@ -1,0 +1,37 @@
+---
+pattern: inha_
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 27
+score: 1329427
+score_per_word: 73857
+hi_scored_words:
+  inhabit: 20337
+  inhabitant: 35000
+  inhabitants: 5847
+  inhabited: 14072
+  inhabiting: 45000
+  inhabits: 54263
+  inhalants: 97768
+  inhalation: 24794
+  inhale: 30298
+  inhaled: 26403
+  inhaler: 35482
+  inhalers: 69567
+  inhaling: 47160
+scored_words:
+  inhabitable: 179953
+  inhalant: 107050
+  inhalations: 176297
+  inhales: 117821
+  inharmonious: 242315
+not_scored_words:
+- Inhambane
+- inhabitability
+- inhabitancies
+- inhabitancy
+- inhabiter
+- inhalator
+- inhalators
+- inharmonic
+- inhaul

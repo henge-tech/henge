@@ -1,0 +1,31 @@
+---
+pattern: t_ium
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 21
+score: 1689881
+score_per_word: 99404
+hi_scored_words:
+  technetium: 64142
+  tedium: 57568
+  tellurium: 77004
+  terrarium: 76460
+  thallium: 53353
+  thorium: 44589
+  titanium: 12652
+  trifolium: 89167
+  triforium: 81707
+  trillium: 52632
+  tritium: 38872
+  trivium: 30690
+scored_words:
+  terbium: 190446
+  thulium: 209942
+  transuranium: 291782
+  trapezium: 113140
+  triennium: 205735
+not_scored_words:
+- Telescopium
+- telium
+- termitarium
+- triclinium

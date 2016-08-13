@@ -1,0 +1,24 @@
+---
+pattern: _axed
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 601016
+score_per_word: 60101
+hi_scored_words:
+  axed: 57758
+  coaxed: 66206
+  faxed: 33882
+  maxed: 52165
+  relaxed: 7311
+  taxed: 16183
+  untaxed: 99186
+  waxed: 28963
+scored_words:
+  climaxed: 106178
+  overtaxed: 133184
+not_scored_words:
+- hoaxed
+- pickaxed
+- poleaxed
+- surtaxed

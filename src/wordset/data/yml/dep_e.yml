@@ -1,0 +1,47 @@
+---
+pattern: dep_e
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 37
+score: 1614176
+score_per_word: 84956
+hi_scored_words:
+  departure: 3435
+  dependable: 24162
+  dependence: 7017
+  deplete: 50806
+  deplorable: 34388
+  deplore: 56963
+  deployable: 62705
+  depose: 58939
+  deprecate: 76246
+  depreciable: 95155
+  depreciate: 61238
+  depressive: 23983
+  deprive: 20327
+  deputize: 92516
+scored_words:
+  depopulate: 239702
+  deportable: 238013
+  deportee: 227516
+  deprave: 110794
+  depute: 130271
+not_scored_words:
+- departee
+- departmentalize
+- depersonalize
+- depicture
+- depilate
+- deplane
+- deplume
+- depolarize
+- depoliticize
+- depolymerize
+- depone
+- deprecative
+- depreciative
+- depredate
+- depressurize
+- depside
+- depurate
+- depurative

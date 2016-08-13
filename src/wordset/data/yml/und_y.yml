@@ -1,0 +1,42 @@
+---
+pattern: und_y
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 32
+score: 2579340
+score_per_word: 128967
+hi_scored_words:
+  undeniably: 38580
+  underbelly: 54228
+  underlay: 44679
+  undersecretary: 50048
+  understandably: 29285
+  understory: 66307
+  understudy: 74048
+  underway: 9446
+  undoubtedly: 8114
+  unduly: 27204
+scored_words:
+  undecidability: 160836
+  underbody: 121596
+  underpay: 297964
+  underplay: 262762
+  understandability: 191689
+  understandingly: 230326
+  understorey: 149952
+  undeservedly: 210902
+  undesirability: 262757
+  undesirably: 288617
+not_scored_words:
+- undauntedly
+- undebatably
+- undeceivably
+- undemocratically
+- undemonstratively
+- undependability
+- underactivity
+- underclay
+- underhandedly
+- undisguisedly
+- undulately
+- undulatory

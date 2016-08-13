@@ -1,0 +1,42 @@
+---
+pattern: ap_g
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 32
+score: 1601803
+score_per_word: 72809
+hi_scored_words:
+  apologizing: 46545
+  appalling: 18505
+  appealing: 8828
+  appearing: 3754
+  appeasing: 86772
+  appending: 57623
+  appetizing: 69519
+  applauding: 60141
+  applying: 4596
+  appointing: 21393
+  appraising: 56822
+  appreciating: 33112
+  apprehending: 83142
+  approaching: 5735
+  appropriating: 50551
+  approving: 15558
+  approximating: 49018
+scored_words:
+  aping: 138839
+  appertaining: 107896
+  apportioning: 113699
+  apprenticing: 277450
+  apprising: 292305
+not_scored_words:
+- aphorizing
+- apostatizing
+- apostrophizing
+- apotheosizing
+- appareling
+- apperceiving
+- appliqueing
+- appliquéing
+- apposing
+- approbating

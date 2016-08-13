@@ -1,0 +1,28 @@
+---
+pattern: aut_n
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 18
+score: 779793
+score_per_word: 77979
+hi_scored_words:
+  authentication: 10579
+  authoritarian: 24156
+  authorization: 13244
+  autobahn: 50499
+  autocorrelation: 48678
+  automation: 5757
+  automaton: 32700
+  autumn: 3941
+scored_words:
+  automatization: 291650
+  autoxidation: 298589
+not_scored_words:
+- Autumn
+- autochthon
+- autointoxication
+- autoionization
+- autolysin
+- autorotation
+- autosuggestion
+- autotoxin

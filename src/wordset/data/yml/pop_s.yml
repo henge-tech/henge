@@ -1,0 +1,32 @@
+---
+pattern: pop_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 22
+score: 1274925
+score_per_word: 98071
+hi_scored_words:
+  popes: 32307
+  poplars: 71273
+  poppers: 47469
+  poppies: 35184
+  pops: 19148
+  populations: 7038
+  populous: 22642
+  popups: 42332
+scored_words:
+  popinjays: 332663
+  popovers: 193224
+  poppets: 233143
+  populates: 112926
+  populists: 125576
+not_scored_words:
+- Poppins
+- poperies
+- popguns
+- poppadoms
+- poppas
+- populaces
+- popularizations
+- popularizes
+- populousness

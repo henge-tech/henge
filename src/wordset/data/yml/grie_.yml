@@ -1,0 +1,24 @@
+---
+pattern: grie_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 14
+score: 704217
+score_per_word: 64019
+hi_scored_words:
+  grief: 5593
+  griefs: 88553
+  grievance: 13305
+  grievances: 18909
+  grieve: 20580
+  grieved: 34376
+  grieves: 55348
+  grieving: 22050
+  grievous: 26167
+  grievously: 83033
+scored_words:
+  griever: 336303
+not_scored_words:
+- Grieg
+- grievers
+- grievousness

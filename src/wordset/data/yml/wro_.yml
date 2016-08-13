@@ -1,0 +1,32 @@
+---
+pattern: wro_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 22
+score: 1294354
+score_per_word: 76138
+hi_scored_words:
+  wrong: 772
+  wrongdoer: 98679
+  wrongdoing: 31545
+  wronged: 42184
+  wrongful: 22537
+  wrongfully: 40836
+  wrongly: 18783
+  wrongs: 19228
+  wrote: 788
+  wroth: 69428
+  wrought: 9822
+scored_words:
+  wrongdoers: 119761
+  wrongdoings: 136302
+  wrongfulness: 300946
+  wrongheaded: 134046
+  wronging: 135997
+  wrongness: 112700
+not_scored_words:
+- Wroclaw
+- wronger
+- wrongest
+- wrongheadedly
+- wrongheadedness

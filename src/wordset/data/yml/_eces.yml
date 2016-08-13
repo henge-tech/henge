@@ -1,0 +1,37 @@
+---
+pattern: _eces
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 27
+score: 1630940
+score_per_word: 101933
+hi_scored_words:
+  centerpieces: 58307
+  eyepieces: 67670
+  feces: 29837
+  fleeces: 60361
+  hairpieces: 97815
+  masterpieces: 22514
+  mouthpieces: 63839
+  nieces: 27127
+  pieces: 1666
+  timepieces: 57744
+scored_words:
+  crosspieces: 291281
+  earpieces: 136429
+  headpieces: 109146
+  showpieces: 244787
+  tailpieces: 219600
+  workpieces: 142817
+not_scored_words:
+- afterpieces
+- altarpieces
+- cheekpieces
+- chimneypieces
+- codpieces
+- frontispieces
+- grandnieces
+- mantelpieces
+- neckpieces
+- nosepieces
+- sidepieces

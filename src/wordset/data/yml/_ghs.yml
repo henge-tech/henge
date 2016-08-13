@@ -1,0 +1,40 @@
+---
+pattern: _ghs
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 30
+score: 1734443
+score_per_word: 91286
+hi_scored_words:
+  boroughs: 28114
+  boughs: 42429
+  breakthroughs: 28337
+  coughs: 39314
+  highs: 8239
+  laughs: 9315
+  outweighs: 49603
+  sighs: 23566
+  thighs: 15739
+  troughs: 47067
+  weighs: 12948
+scored_words:
+  burghs: 219024
+  doughs: 148645
+  furloughs: 214783
+  horselaughs: 307622
+  roughs: 129945
+  sleighs: 135286
+  sloughs: 103509
+  toughs: 170958
+not_scored_words:
+- Burroughs
+- bobsleighs
+- choughs
+- hiccoughs
+- inveighs
+- loughs
+- neighs
+- reweighs
+- shillelaghs
+- soughs
+- sourdoughs

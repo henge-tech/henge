@@ -1,0 +1,34 @@
+---
+pattern: rel_e
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 24
+score: 1045267
+score_per_word: 61486
+hi_scored_words:
+  relapse: 19854
+  relate: 4496
+  relative: 2189
+  release: 750
+  relegate: 79811
+  relevance: 9545
+  reliable: 4602
+  reliance: 8203
+  relieve: 8315
+  relive: 32881
+  relocatable: 92333
+  relocate: 17950
+  reluctance: 16511
+scored_words:
+  relatable: 145046
+  releasable: 131224
+  religieuse: 181466
+  reline: 290091
+not_scored_words:
+- relativize
+- religiose
+- relique
+- reliquiae
+- relishable
+- relivable
+- relume

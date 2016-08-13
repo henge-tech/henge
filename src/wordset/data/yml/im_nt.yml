@@ -1,0 +1,46 @@
+---
+pattern: im_nt
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 36
+score: 1882041
+score_per_word: 69705
+hi_scored_words:
+  immanent: 60897
+  immigrant: 13398
+  imminent: 11877
+  impairment: 12306
+  impatient: 15354
+  impeachment: 18598
+  impediment: 27702
+  impertinent: 62087
+  impingement: 74779
+  implant: 22432
+  implement: 6442
+  important: 332
+  impotent: 31964
+  impoundment: 61332
+  impoverishment: 64065
+  imprint: 13000
+  imprisonment: 8985
+  improvement: 2202
+  imprudent: 52444
+  impudent: 60278
+scored_words:
+  immunodeficient: 206630
+  immunosuppressant: 176363
+  impalement: 188319
+  impenitent: 185876
+  impermanent: 110223
+  impressment: 247780
+  improvident: 146376
+not_scored_words:
+- immurement
+- impanelment
+- impeccant
+- impellent
+- impendent
+- impercipient
+- imperilment
+- impugnment
+- impuissant

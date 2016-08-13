@@ -1,0 +1,57 @@
+---
+pattern: au_es
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 47
+score: 2318315
+score_per_word: 105377
+hi_scored_words:
+  audiences: 8914
+  audiophiles: 86928
+  audiotapes: 98987
+  aunties: 88943
+  auspices: 21374
+  authenticates: 92960
+  authorities: 2340
+  authorizes: 25136
+  autobiographies: 60582
+  automates: 54002
+  automobiles: 11962
+  autopsies: 71572
+  auxiliaries: 44570
+scored_words:
+  aubergines: 140496
+  audibles: 170654
+  audiocassettes: 170980
+  auguries: 122707
+  austerities: 143796
+  autobuses: 274894
+  autoclaves: 124030
+  autocracies: 266394
+  autosomes: 236094
+not_scored_words:
+- Aussies
+- audiles
+- augites
+- aureoles
+- auricles
+- aurifies
+- aurochses
+- auscultates
+- auspicates
+- austenites
+- autarchies
+- autarkies
+- authoresses
+- autocatalyzes
+- autochthones
+- autogamies
+- autogeneses
+- autolyzes
+- automatizes
+- autophytes
+- autoplasties
+- autotomies
+- autotomizes
+- autotypes
+- auxeses

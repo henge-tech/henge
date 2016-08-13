@@ -1,0 +1,35 @@
+---
+pattern: el_t
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 25
+score: 776020
+score_per_word: 59693
+hi_scored_words:
+  eldest: 13611
+  elect: 6358
+  electromagnet: 78116
+  elegant: 4568
+  element: 1858
+  elephant: 6042
+  elicit: 24084
+  elitist: 33716
+  elopement: 92884
+  eloquent: 18712
+scored_words:
+  electret: 136130
+  electrologist: 239369
+  electroluminescent: 120572
+not_scored_words:
+- Elastoplast
+- Elbert
+- Eliot
+- Elliot
+- Elliott
+- Elohist
+- Elyot
+- electrodeposit
+- electrojet
+- elegist
+- elegit
+- elocutionist

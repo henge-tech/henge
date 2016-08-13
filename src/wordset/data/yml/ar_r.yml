@@ -1,0 +1,37 @@
+---
+pattern: ar_r
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 27
+score: 1763905
+score_per_word: 88195
+hi_scored_words:
+  arbiter: 31289
+  arbitrator: 24090
+  arbor: 11811
+  archer: 12617
+  ardor: 48400
+  armchair: 17878
+  armiger: 98850
+  armor: 6372
+  armorer: 92910
+  arr: 27377
+  arranger: 31894
+  articular: 35684
+  artificer: 91903
+scored_words:
+  areolar: 221271
+  arguer: 283241
+  arrear: 137489
+  arrester: 122256
+  arrestor: 135917
+  arteriolar: 168799
+  articulator: 163857
+not_scored_words:
+- Archer
+- Armour
+- Arthur
+- arbitrager
+- arbitrageur
+- artier
+- artsier

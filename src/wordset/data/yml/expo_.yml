@@ -1,0 +1,55 @@
+---
+pattern: expo_
+hi_scored_words_count: 27
+scored_words_count: 11
+total_words: 45
+score: 2960553
+score_per_word: 77909
+hi_scored_words:
+  expo: 8241
+  exponent: 22289
+  exponential: 18059
+  exponentially: 25883
+  exponents: 37877
+  export: 4660
+  exportable: 99170
+  exportation: 39060
+  exported: 13158
+  exporter: 26641
+  exporters: 12973
+  exporting: 11687
+  exports: 6123
+  expos: 27777
+  expose: 7984
+  exposed: 3294
+  exposes: 21051
+  exposing: 13310
+  exposition: 11697
+  expositions: 45243
+  expository: 42236
+  expostulate: 83080
+  exposure: 3414
+  exposures: 18912
+  expound: 51270
+  expounded: 55328
+  expounding: 93590
+scored_words:
+  exponentiation: 100743
+  exposer: 276808
+  expositional: 311790
+  expositor: 116051
+  expositors: 272608
+  expostulated: 246577
+  expostulating: 257166
+  expostulation: 147431
+  expostulations: 153199
+  expounder: 156840
+  expounds: 117333
+not_scored_words:
+- exponentiations
+- exponible
+- exportability
+- expostulates
+- expostulator
+- expostulatory
+- expounders

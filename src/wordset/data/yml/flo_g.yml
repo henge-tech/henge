@@ -1,0 +1,28 @@
+---
+pattern: flo_g
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 18
+score: 1023616
+score_per_word: 68241
+hi_scored_words:
+  floating: 4585
+  flocking: 47091
+  flog: 39176
+  flogging: 34567
+  flooding: 11137
+  flooring: 12684
+  flopping: 61958
+  flossing: 83009
+  floundering: 66781
+  flourishing: 26377
+  flowering: 12359
+  flowing: 6619
+scored_words:
+  floodlighting: 196449
+  flouring: 308579
+  flouting: 112245
+not_scored_words:
+- flocculating
+- flong
+- flouncing

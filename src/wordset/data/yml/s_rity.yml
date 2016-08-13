@@ -1,0 +1,24 @@
+---
+pattern: s_rity
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 14
+score: 800552
+score_per_word: 61580
+hi_scored_words:
+  security: 859
+  seniority: 26318
+  severity: 7027
+  similarity: 8492
+  sincerity: 16648
+  singularity: 23926
+  solidarity: 13221
+  sorority: 18621
+  subsidiarity: 79631
+  superiority: 15164
+scored_words:
+  salubrity: 165873
+  secularity: 266050
+  sonority: 158722
+not_scored_words:
+- Solidarity

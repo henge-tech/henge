@@ -1,0 +1,57 @@
+---
+pattern: re_ls
+hi_scored_words_count: 23
+scored_words_count: 6
+total_words: 47
+score: 1765041
+score_per_word: 60863
+hi_scored_words:
+  reals: 32942
+  rebels: 7856
+  rebuttals: 89060
+  recalls: 10375
+  recitals: 44142
+  reels: 19819
+  referrals: 10657
+  refills: 24152
+  refusals: 65735
+  rehearsals: 26516
+  remodels: 95233
+  removals: 34183
+  renewals: 33439
+  rentals: 5853
+  repeals: 63247
+  repels: 76308
+  reprisals: 51633
+  residuals: 30940
+  retails: 46476
+  reveals: 6207
+  revels: 48998
+  reversals: 48362
+  revivals: 61657
+scored_words:
+  reciprocals: 156203
+  recoils: 124739
+  regimentals: 191872
+  resells: 112662
+  retells: 137716
+  retrievals: 108059
+not_scored_words:
+- reappraisals
+- reboils
+- reburials
+- recessionals
+- recusals
+- redials
+- redpolls
+- refuels
+- relabels
+- remittals
+- reprovals
+- reseals
+- resorcinols
+- respells
+- retinols
+- retools
+- retrials
+- revisals

@@ -1,0 +1,25 @@
+---
+pattern: b_wing
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 646953
+score_per_word: 64695
+hi_scored_words:
+  bellowing: 77001
+  bestowing: 73721
+  billowing: 77983
+  blowing: 5582
+  borrowing: 10521
+  bowing: 26428
+  brewing: 13522
+  burrowing: 50787
+scored_words:
+  backswing: 147764
+  batwing: 163644
+not_scored_words:
+- bedewing
+- beeswing
+- beshrewing
+- bestrewing
+- bitewing

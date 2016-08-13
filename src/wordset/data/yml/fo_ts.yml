@@ -1,0 +1,39 @@
+---
+pattern: fo_ts
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 29
+score: 1642169
+score_per_word: 91231
+hi_scored_words:
+  fonts: 6957
+  footlights: 94700
+  footprints: 20731
+  foots: 93783
+  forecasts: 16373
+  forests: 4440
+  forfeits: 75295
+  forgets: 27931
+  forklifts: 62120
+  formats: 4004
+  forts: 23139
+scored_words:
+  folklorists: 207423
+  footrests: 158423
+  forcemeats: 203722
+  forecourts: 239564
+  forints: 101031
+  fortnights: 134994
+  founts: 167539
+not_scored_words:
+- foists
+- foldouts
+- foments
+- fondants
+- forefronts
+- foremasts
+- foreparts
+- formalists
+- foumarts
+- foxhunts
+- foxtrots

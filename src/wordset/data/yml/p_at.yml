@@ -1,0 +1,33 @@
+---
+pattern: p_at
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 23
+score: 1324773
+score_per_word: 77927
+hi_scored_words:
+  pat: 4756
+  peat: 19000
+  petticoat: 46310
+  phat: 19976
+  plat: 18021
+  pleat: 56983
+  powerboat: 67133
+  prat: 47548
+  preheat: 37217
+  proletariat: 32791
+  pussycat: 19833
+scored_words:
+  paraquat: 106929
+  peacoat: 145592
+  photostat: 150802
+  plutocrat: 106879
+  polecat: 103542
+  pretreat: 341461
+not_scored_words:
+- Pat
+- Photostat
+- packetboat
+- pandybat
+- pitapat
+- pyrostat

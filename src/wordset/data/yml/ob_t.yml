@@ -1,0 +1,36 @@
+---
+pattern: ob_t
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 26
+score: 1304557
+score_per_word: 86970
+hi_scored_words:
+  obedient: 21594
+  obit: 42888
+  object: 779
+  objectivist: 75698
+  objet: 51511
+  oblast: 27391
+  observant: 31485
+  obsolescent: 94391
+  obstet: 33870
+  obstruct: 29866
+scored_words:
+  oboist: 125002
+  obscurantist: 235779
+  obstructionist: 120038
+  obstruent: 225970
+  obtainment: 188295
+not_scored_words:
+- obdt
+- obeisant
+- obscenest
+- obscurant
+- obscurement
+- obscurest
+- obsequent
+- obtect
+- obtest
+- obtusest
+- obvert

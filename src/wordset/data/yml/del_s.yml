@@ -1,0 +1,67 @@
+---
+pattern: del_s
+hi_scored_words_count: 23
+scored_words_count: 7
+total_words: 57
+score: 2242035
+score_per_word: 74734
+hi_scored_words:
+  delays: 6544
+  delegates: 8013
+  delegations: 29930
+  deleterious: 36753
+  deletes: 23803
+  deletions: 28136
+  deliberations: 22680
+  delicacies: 43091
+  delicatessens: 84778
+  delicious: 4562
+  delights: 13792
+  delimiters: 81580
+  delineates: 80441
+  delinquencies: 99059
+  delinquents: 60043
+  delirious: 27413
+  delis: 76077
+  deliveries: 11193
+  delivers: 8608
+  dells: 44969
+  deltas: 58603
+  delusions: 28463
+  delves: 58812
+scored_words:
+  deliberates: 198628
+  deliciousness: 187992
+  delimits: 215742
+  delineations: 123718
+  deliverers: 149133
+  delphiniums: 161315
+  deltoids: 268164
+not_scored_words:
+- Delawareans
+- Delawares
+- Delibes
+- Delicious
+- Delilahs
+- Delius
+- Delores
+- Deloris
+- Delos
+- Delphinus
+- delayers
+- delectabilities
+- delegacies
+- deleteriousness
+- deleverages
+- deliberateness
+- delicateness
+- delightedness
+- delimitates
+- deliquesces
+- deliriousness
+- deliriums
+- delouses
+- deludes
+- deluges
+- delusiveness
+- delvers

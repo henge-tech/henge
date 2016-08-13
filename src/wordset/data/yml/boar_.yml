@@ -1,0 +1,31 @@
+---
+pattern: boar_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 21
+score: 1166256
+score_per_word: 72891
+hi_scored_words:
+  boar: 19439
+  board: 424
+  boarded: 25473
+  boarder: 31698
+  boarders: 40058
+  boardgames: 76798
+  boarding: 9067
+  boardroom: 25826
+  boardrooms: 93562
+  boards: 2757
+  boardwalk: 21600
+  boars: 56534
+scored_words:
+  boardinghouse: 164447
+  boardings: 145221
+  boardwalks: 131081
+  boart: 322271
+not_scored_words:
+- boardinghouses
+- boarfish
+- boarhound
+- boarhounds
+- boarish

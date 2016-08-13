@@ -1,0 +1,59 @@
+---
+pattern: en_ts
+hi_scored_words_count: 22
+scored_words_count: 12
+total_words: 49
+score: 2985003
+score_per_word: 87794
+hi_scored_words:
+  enactments: 48296
+  enacts: 56329
+  encampments: 83183
+  enchantments: 65763
+  encroachments: 62322
+  encrypts: 70950
+  endorsements: 22824
+  endowments: 29858
+  endpoints: 32494
+  engagements: 15486
+  enhancements: 10795
+  enjoyments: 96608
+  enlargements: 60940
+  enlists: 63149
+  enrollments: 39677
+  entanglements: 76545
+  entertainments: 33860
+  enthusiasts: 13886
+  entitlements: 23924
+  entrants: 20807
+  environmentalists: 25807
+  environments: 11573
+scored_words:
+  enchants: 134536
+  encouragements: 133250
+  endearments: 241953
+  endocrinologists: 116335
+  endodontists: 164241
+  enforcements: 177505
+  enlistments: 166210
+  enticements: 177873
+  entomologists: 123210
+  entreats: 242438
+  entrenchments: 201900
+  entrusts: 140476
+not_scored_words:
+- encirclements
+- encompassments
+- encrusts
+- encyclopedists
+- encysts
+- endoblasts
+- engluts
+- engrafts
+- enjambments
+- enjoinments
+- enologists
+- enthronements
+- entoblasts
+- entremets
+- entrepots

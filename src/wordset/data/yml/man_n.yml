@@ -1,0 +1,36 @@
+---
+pattern: man_n
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 26
+score: 560785
+score_per_word: 50980
+hi_scored_words:
+  mandarin: 16816
+  mandolin: 24963
+  mangosteen: 85427
+  manhattan: 8262
+  manifestation: 19466
+  manikin: 89594
+  manipulation: 10949
+  mannequin: 38562
+  mansion: 7131
+scored_words:
+  manakin: 145955
+  manumission: 113660
+not_scored_words:
+- Managuan
+- Manchurian
+- Mancunian
+- Mandan
+- Mandarin
+- Mandean
+- Manganin
+- Manhattan
+- Manichean
+- Manitoban
+- Manitoulin
+- Mann
+- Manson
+- Manxman
+- Manxwoman

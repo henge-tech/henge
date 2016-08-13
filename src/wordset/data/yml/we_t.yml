@@ -1,0 +1,42 @@
+---
+pattern: we_t
+hi_scored_words_count: 18
+scored_words_count: 3
+total_words: 32
+score: 1409011
+score_per_word: 67095
+hi_scored_words:
+  weakest: 19539
+  wealthiest: 37700
+  webcast: 14264
+  weeknight: 81331
+  weft: 56768
+  weight: 775
+  weirdest: 45164
+  welt: 23179
+  welterweight: 59180
+  went: 447
+  wept: 20661
+  weren't: 4339
+  wert: 33460
+  west: 338
+  westernmost: 66805
+  wet: 2087
+  wetsuit: 40758
+  wettest: 68566
+scored_words:
+  weathertight: 338383
+  webfoot: 311723
+  weightiest: 183544
+not_scored_words:
+- Wehrmacht
+- West
+- weariest
+- webbiest
+- webfeet
+- weediest
+- weeniest
+- weensiest
+- weepiest
+- weest
+- weskit

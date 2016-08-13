@@ -1,0 +1,61 @@
+---
+pattern: ove_t
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 51
+score: 2477995
+score_per_word: 99119
+hi_scored_words:
+  overcast: 18752
+  overcoat: 36306
+  overconfident: 93870
+  overdraft: 35981
+  overeat: 92580
+  overheat: 56919
+  overnight: 7123
+  overpayment: 59618
+  overreact: 97657
+  overshoot: 56380
+  overshot: 84220
+  oversight: 11096
+  overstatement: 86855
+  overt: 22722
+  overweight: 12567
+  overwrought: 83154
+scored_words:
+  overabundant: 314768
+  overbought: 151251
+  overbuilt: 236592
+  overdevelopment: 228779
+  overflight: 155656
+  overprint: 103407
+  overset: 186815
+  overslept: 103358
+  overspent: 141569
+not_scored_words:
+- overachievement
+- overact
+- overcommitment
+- overcomplacent
+- overdependent
+- overexcitement
+- overexert
+- overexplicit
+- overindulgent
+- overinsistent
+- overinterest
+- overinvest
+- overleapt
+- overmodest
+- overprominent
+- overprompt
+- overprotect
+- overrefinement
+- overroast
+- oversalt
+- overskirt
+- overstrict
+- oversweet
+- overthought
+- overthrust
+- overviolent

@@ -1,0 +1,40 @@
+---
+pattern: vi_ly
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 30
+score: 1838963
+score_per_word: 96787
+hi_scored_words:
+  vicariously: 57045
+  viciously: 54301
+  victoriously: 88014
+  vigorously: 15358
+  violently: 15105
+  virtually: 5274
+  visibly: 24265
+  visually: 10276
+  vitally: 35919
+  vividly: 29134
+scored_words:
+  vibrantly: 141891
+  vigilantly: 159927
+  vilely: 125302
+  vindictively: 164946
+  virally: 193388
+  virtuously: 198535
+  virulently: 173487
+  viscerally: 161536
+  vivaciously: 185260
+not_scored_words:
+- viably
+- villainously
+- vinously
+- virescently
+- virginally
+- viscidly
+- viscously
+- vitriolically
+- vituperatively
+- viviparously
+- vixenishly

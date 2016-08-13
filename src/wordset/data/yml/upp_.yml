@@ -1,0 +1,30 @@
+---
+pattern: upp_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 1204676
+score_per_word: 100389
+hi_scored_words:
+  upped: 44641
+  upper: 1441
+  uppercase: 35618
+  uppercut: 77608
+  uppermost: 34472
+  uppers: 37062
+  upping: 56651
+  uppity: 62652
+scored_words:
+  upperclassman: 268348
+  upperclassmen: 101519
+  uppercuts: 282927
+  uppish: 201737
+not_scored_words:
+- Upper
+- Uppsala
+- upperclasswoman
+- upperclasswomen
+- uppercutting
+- uppishly
+- uppishness
+- uppishnesses

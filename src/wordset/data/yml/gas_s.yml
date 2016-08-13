@@ -1,0 +1,33 @@
+---
+pattern: gas_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 23
+score: 1210051
+score_per_word: 93080
+hi_scored_words:
+  gaseous: 24634
+  gases: 9796
+  gaskets: 34006
+  gasps: 45649
+  gasses: 51835
+  gastritis: 47817
+  gastroenteritis: 60393
+  gastropods: 97751
+scored_words:
+  gashes: 143152
+  gaskins: 113787
+  gassings: 337317
+  gastrocnemius: 137744
+  gasworks: 106170
+not_scored_words:
+- gasbags
+- gasconades
+- gasholders
+- gasifies
+- gaslights
+- gasometers
+- gassiness
+- gastronomes
+- gastrulas
+- gastrulations

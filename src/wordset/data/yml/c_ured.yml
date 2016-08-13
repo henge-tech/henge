@@ -1,0 +1,23 @@
+---
+pattern: c_ured
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 474923
+score_per_word: 47492
+hi_scored_words:
+  captured: 4566
+  censured: 65915
+  chauffeured: 84928
+  configured: 8440
+  conjectured: 57804
+  conjured: 53270
+  contoured: 42540
+  cultured: 14256
+  cured: 10950
+scored_words:
+  caricatured: 132254
+not_scored_words:
+- Coloured
+- coiffured
+- coinsured

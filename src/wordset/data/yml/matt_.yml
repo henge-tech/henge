@@ -1,0 +1,30 @@
+---
+pattern: matt_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 757181
+score_per_word: 63098
+hi_scored_words:
+  matte: 17095
+  matted: 22938
+  matter: 515
+  mattered: 27906
+  matters: 1483
+  mattes: 83531
+  matting: 35056
+  mattress: 9593
+  mattresses: 21723
+scored_words:
+  mattering: 251116
+  mattock: 115804
+  mattocks: 170421
+not_scored_words:
+- Matt
+- Mattel
+- Matterhorn
+- Matthew
+- Matthews
+- Matthias
+- Mattie
+- mattoid

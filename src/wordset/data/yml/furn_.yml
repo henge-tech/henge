@@ -1,0 +1,22 @@
+---
+pattern: furn_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 266556
+score_per_word: 29617
+hi_scored_words:
+  furnace: 9657
+  furnaces: 23080
+  furnish: 9465
+  furnished: 5166
+  furnishes: 38675
+  furnishing: 17858
+  furnishings: 12842
+  furniture: 1786
+scored_words:
+  furn: 148027
+not_scored_words:
+- Furness
+- Furnivall
+- furnisher

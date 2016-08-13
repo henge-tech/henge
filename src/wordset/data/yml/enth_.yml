@@ -1,0 +1,35 @@
+---
+pattern: enth_
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 25
+score: 2000013
+score_per_word: 105263
+hi_scored_words:
+  enthalpy: 52549
+  enthralled: 50068
+  enthralling: 67274
+  enthroned: 64693
+  enthused: 62125
+  enthusiasm: 5918
+  enthusiast: 12887
+  enthusiastic: 8477
+  enthusiastically: 24885
+  enthusiasts: 13886
+scored_words:
+  enthalpies: 159014
+  enthrall: 132675
+  enthralls: 326162
+  enthrone: 106977
+  enthronement: 169126
+  enthuse: 108976
+  enthuses: 208899
+  enthusiasms: 112441
+  enthusing: 312981
+not_scored_words:
+- enthetic
+- enthrallment
+- enthronements
+- enthrones
+- enthroning
+- enthymeme

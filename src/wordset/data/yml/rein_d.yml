@@ -1,0 +1,30 @@
+---
+pattern: rein_d
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 20
+score: 1582908
+score_per_word: 105527
+hi_scored_words:
+  reincarnated: 66030
+  reined: 91183
+  reinforced: 9838
+  reinstalled: 49513
+  reinstated: 28065
+  reinterpreted: 94818
+  reintroduced: 46799
+  reinvented: 52001
+  reinvested: 55135
+  reinvigorated: 97887
+scored_words:
+  reincorporated: 252560
+  reinitialized: 203361
+  reinserted: 143614
+  reinsured: 230379
+  reintegrated: 161725
+not_scored_words:
+- Reinhold
+- reinfected
+- reinflated
+- reinoculated
+- reinspected

@@ -1,0 +1,49 @@
+---
+pattern: n_ty
+hi_scored_words_count: 22
+scored_words_count: 9
+total_words: 39
+score: 2222439
+score_per_word: 71691
+hi_scored_words:
+  nasty: 5910
+  nationality: 10040
+  nativity: 22016
+  natty: 46808
+  naughty: 6819
+  necessity: 4659
+  negativity: 32593
+  neutrality: 17724
+  nifty: 20161
+  nighty: 71775
+  ninety: 17632
+  nitty: 46379
+  nobility: 15784
+  nonconformity: 86896
+  nonempty: 73913
+  nonlinearity: 57250
+  normality: 35363
+  notoriety: 32690
+  novelty: 7441
+  nudity: 17103
+  nullity: 83310
+  nutty: 26860
+scored_words:
+  naivety: 106579
+  natality: 153200
+  navigability: 153151
+  nebulosity: 212868
+  negotiability: 217991
+  netty: 195352
+  nicety: 138571
+  nonentity: 180781
+  notability: 124820
+not_scored_words:
+- Nativity
+- nasality
+- negligibility
+- neoplasty
+- nihility
+- nimiety
+- nonavailability
+- nubility

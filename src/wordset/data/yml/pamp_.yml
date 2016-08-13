@@ -1,0 +1,25 @@
+---
+pattern: pamp_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 576383
+score_per_word: 64042
+hi_scored_words:
+  pampa: 58234
+  pampas: 72492
+  pamper: 34991
+  pampered: 32268
+  pampering: 41577
+  pampers: 55002
+  pamphlet: 13784
+  pamphlets: 20063
+scored_words:
+  pamphleteer: 247972
+not_scored_words:
+- Pampa
+- Pampers
+- Pamphylia
+- Pamplona
+- pampero
+- pamphleteers

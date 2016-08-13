@@ -1,0 +1,54 @@
+---
+pattern: r_sts
+hi_scored_words_count: 13
+scored_words_count: 15
+total_words: 44
+score: 3441504
+score_per_word: 122910
+hi_scored_words:
+  racists: 41609
+  radiologists: 55944
+  rapists: 37828
+  realists: 69202
+  receptionists: 78947
+  reformists: 95998
+  requests: 3671
+  reservists: 43305
+  resists: 25850
+  rests: 9144
+  revisionists: 97559
+  roasts: 55537
+  royalists: 87345
+scored_words:
+  rationalists: 118589
+  readjusts: 212274
+  rebroadcasts: 216887
+  recasts: 181178
+  recidivists: 218878
+  recordists: 319041
+  relativists: 203151
+  religionists: 101866
+  repasts: 196731
+  retests: 254027
+  revivalists: 204199
+  revolutionists: 133361
+  rightists: 144757
+  roosts: 113023
+  rusts: 121603
+not_scored_words:
+- racialists
+- radiotherapists
+- rearrests
+- recitalists
+- redbreasts
+- reductionists
+- reenlists
+- reforests
+- reinvests
+- relists
+- rinderpests
+- ritualists
+- romanticists
+- roughcasts
+- rousts
+- rudderposts

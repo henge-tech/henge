@@ -1,0 +1,46 @@
+---
+pattern: s_ium
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 36
+score: 1199353
+score_per_word: 85668
+hi_scored_words:
+  sanatorium: 66681
+  sanitarium: 59546
+  scandium: 90067
+  scriptorium: 83938
+  selenium: 23603
+  sodium: 9035
+  solarium: 37335
+  stadium: 15009
+  strontium: 41414
+  symposium: 16522
+scored_words:
+  samarium: 122828
+  sensorium: 173997
+  stramonium: 242527
+  syncytium: 216851
+not_scored_words:
+- Samnium
+- sacrarium
+- scholium
+- seaborgium
+- septarium
+- sestertium
+- silicium
+- solatium
+- soredium
+- spermatium
+- spermatogonium
+- spermogonium
+- sporangium
+- sporogonium
+- stylopodium
+- subdelirium
+- subsellium
+- succinctorium
+- sudarium
+- sudatorium
+- superpremium
+- syconium

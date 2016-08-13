@@ -1,0 +1,46 @@
+---
+pattern: t_ings
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 36
+score: 1104850
+score_per_word: 61380
+hi_scored_words:
+  tailings: 44051
+  takings: 42593
+  tastings: 54092
+  teachings: 10306
+  things: 217
+  tidings: 24725
+  timings: 34144
+  tings: 68214
+  toppings: 38010
+  tracings: 99477
+  trainings: 34420
+  trappings: 37466
+  trimmings: 34216
+  tunings: 76682
+  turnings: 89917
+scored_words:
+  testings: 155550
+  thanksgivings: 157642
+  tilings: 103128
+not_scored_words:
+- Thanksgivings
+- tamperings
+- tappings
+- teasings
+- thickenings
+- thrashings
+- threshings
+- tinglings
+- topdressings
+- touchings
+- towelings
+- trackings
+- tradings
+- travelings
+- tremblings
+- troublings
+- tunnelings
+- twinklings

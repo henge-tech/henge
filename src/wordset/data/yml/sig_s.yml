@@ -1,0 +1,40 @@
+---
+pattern: sig_s
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 30
+score: 1935761
+score_per_word: 96788
+hi_scored_words:
+  sighs: 23566
+  sightings: 20061
+  sights: 8417
+  signals: 5222
+  signatories: 35147
+  signatures: 9792
+  signers: 51998
+  signifies: 11725
+  signings: 32870
+  signposts: 64599
+  signs: 1739
+scored_words:
+  sightedness: 105582
+  sightless: 145277
+  sightseers: 157590
+  siglos: 236846
+  sigmas: 200104
+  signboards: 150219
+  signets: 258790
+  significances: 218582
+  significations: 197635
+not_scored_words:
+- sightlessness
+- sightlessnesses
+- sightliness
+- signalers
+- signalizes
+- significs
+- signoras
+- signories
+- signorinas
+- signors

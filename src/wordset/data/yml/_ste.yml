@@ -1,0 +1,43 @@
+---
+pattern: _ste
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 33
+score: 1966106
+score_per_word: 89368
+hi_scored_words:
+  aftertaste: 55509
+  artiste: 31873
+  baste: 69555
+  caste: 15059
+  chaste: 42344
+  coste: 87008
+  distaste: 47390
+  haste: 14448
+  paste: 6370
+  piste: 50966
+  riposte: 81145
+  taste: 2058
+  toothpaste: 25554
+  triste: 60431
+  waste: 1507
+scored_words:
+  batiste: 115986
+  cineaste: 260439
+  foretaste: 110347
+  lambaste: 226302
+  outcaste: 215818
+  posthaste: 228610
+  unchaste: 217387
+not_scored_words:
+- Alceste
+- Baptiste
+- Celeste
+- Este
+- Ste
+- Trieste
+- arriviste
+- impaste
+- langouste
+- modiste
+- retaste

@@ -1,0 +1,27 @@
+---
+pattern: _sist
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 848117
+score_per_word: 70676
+hi_scored_words:
+  assist: 2338
+  bassist: 21511
+  consist: 5694
+  desist: 27250
+  insist: 7849
+  narcissist: 50591
+  persist: 13058
+  resist: 5498
+  subsist: 49865
+scored_words:
+  classist: 229651
+  fantasist: 209482
+  solipsist: 225330
+not_scored_words:
+- autopsist
+- geodesist
+- metempsychosist
+- progressist
+- speciesist

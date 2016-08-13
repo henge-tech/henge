@@ -1,0 +1,42 @@
+---
+pattern: _uity
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 32
+score: 2270041
+score_per_word: 84075
+hi_scored_words:
+  acuity: 30718
+  ambiguity: 18075
+  annuity: 14961
+  antiquity: 14958
+  contiguity: 77720
+  continuity: 8356
+  discontinuity: 27251
+  equity: 4804
+  fruity: 22669
+  gratuity: 41352
+  incongruity: 70718
+  inequity: 56943
+  ingenuity: 18140
+  iniquity: 29765
+  obliquity: 88935
+  perpetuity: 44546
+  promiscuity: 56922
+  ubiquity: 43294
+scored_words:
+  assiduity: 185149
+  congruity: 152166
+  conspicuity: 218321
+  fatuity: 153784
+  perspicuity: 187403
+  propinquity: 191799
+  superfluity: 134167
+  tenuity: 226942
+  vacuity: 150183
+not_scored_words:
+- Equity
+- circuity
+- disingenuity
+- exiguity
+- fortuity

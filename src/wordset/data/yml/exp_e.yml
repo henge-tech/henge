@@ -1,0 +1,58 @@
+---
+pattern: exp_e
+hi_scored_words_count: 26
+scored_words_count: 10
+total_words: 48
+score: 2550639
+score_per_word: 70851
+hi_scored_words:
+  expandable: 29094
+  expanse: 25931
+  expansive: 20467
+  expatiate: 76031
+  expatriate: 29191
+  expedite: 27670
+  expendable: 39525
+  expenditure: 5319
+  expense: 2737
+  expensive: 3220
+  experience: 416
+  expertise: 7206
+  expire: 13288
+  expletive: 62368
+  explicate: 93324
+  explode: 14627
+  exploitable: 59638
+  exploitative: 58707
+  explore: 3713
+  explosive: 9868
+  exportable: 99170
+  expose: 7984
+  expostulate: 83080
+  exposure: 3414
+  expressive: 12739
+  expunge: 72859
+scored_words:
+  expansible: 325734
+  expectorate: 160505
+  expedience: 178577
+  expiate: 132704
+  explainable: 108202
+  explicable: 112377
+  explicative: 318166
+  exploitive: 139289
+  expressible: 105550
+  expropriate: 107949
+not_scored_words:
+- expansile
+- expellable
+- expellee
+- experimentalize
+- expertize
+- expiable
+- explodable
+- exponible
+- expressage
+- expugnable
+- expulsive
+- expurgate

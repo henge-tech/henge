@@ -1,0 +1,37 @@
+---
+pattern: co_nes
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 27
+score: 1516622
+score_per_word: 94788
+hi_scored_words:
+  coastlines: 48757
+  cobblestones: 94916
+  colognes: 60285
+  combines: 10201
+  communes: 35094
+  concubines: 80790
+  cones: 17116
+  confines: 20213
+  contravenes: 82826
+  convenes: 67709
+  cornerstones: 59311
+scored_words:
+  coalmines: 276776
+  colones: 159788
+  columbines: 274038
+  condones: 101591
+  cosines: 127211
+not_scored_words:
+- Comines
+- Commines
+- cohunes
+- collarbones
+- comediennes
+- complines
+- cornpones
+- corticosterones
+- coumarones
+- countermines
+- counterpanes

@@ -1,0 +1,20 @@
+---
+pattern: mo_se
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 263981
+score_per_word: 32997
+hi_scored_words:
+  mongoose: 30536
+  moonrise: 55591
+  moose: 12143
+  morose: 56319
+  morse: 13879
+  mortise: 62528
+  mouse: 4467
+  mousse: 28518
+scored_words: {}
+not_scored_words:
+- Montparnasse
+- Morse

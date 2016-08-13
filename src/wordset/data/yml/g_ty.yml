@@ -1,0 +1,35 @@
+---
+pattern: g_ty
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 25
+score: 1314612
+score_per_word: 77330
+hi_scored_words:
+  gaiety: 46297
+  generality: 28181
+  generosity: 11743
+  granularity: 45697
+  gratuity: 41352
+  gravity: 4931
+  gritty: 26764
+  guaranty: 31303
+  guilty: 3148
+  gullibility: 88392
+  gusty: 57398
+scored_words:
+  garrulity: 198925
+  geniality: 219207
+  gentility: 119933
+  gouty: 105581
+  grandiosity: 151535
+  grotty: 134225
+not_scored_words:
+- Getty
+- gelidity
+- gibbosity
+- glutinosity
+- gravidity
+- grouty
+- gulosity
+- gutty

@@ -1,0 +1,35 @@
+---
+pattern: neu_s
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 25
+score: 1550151
+score_per_word: 91185
+hi_scored_words:
+  neuritis: 67474
+  neurologists: 61455
+  neurons: 10018
+  neurosciences: 57348
+  neuroses: 83111
+  neurosis: 47648
+  neurosurgeons: 99908
+  neurotransmitters: 47054
+  neutralizes: 89150
+  neutrals: 53664
+  neutrinos: 41265
+  neutrons: 28696
+  neutrophils: 40722
+scored_words:
+  neuroblasts: 216012
+  neurotics: 187742
+  neuters: 197387
+  neutralizers: 221497
+not_scored_words:
+- neurasthenics
+- neuritics
+- neuritides
+- neuroglias
+- neurophysiologies
+- neuropsychiatries
+- neuroticisms
+- neutralists

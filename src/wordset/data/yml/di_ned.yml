@@ -1,0 +1,25 @@
+---
+pattern: di_ned
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 1035035
+score_per_word: 86252
+hi_scored_words:
+  dimensioned: 96749
+  dined: 31439
+  discerned: 36098
+  disciplined: 16052
+  disheartened: 53469
+  disillusioned: 39345
+  disinclined: 92795
+  disowned: 74930
+scored_words:
+  dinned: 227454
+  disdained: 101532
+  disjoined: 156596
+  divined: 108576
+not_scored_words:
+- disburdened
+- distrained
+- dizened

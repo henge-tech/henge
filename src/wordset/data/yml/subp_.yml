@@ -1,0 +1,31 @@
+---
+pattern: subp_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 21
+score: 1023173
+score_per_word: 73083
+hi_scored_words:
+  subpar: 74509
+  subparagraph: 44548
+  subplot: 57351
+  subplots: 83571
+  subpoena: 21559
+  subpoenaed: 61814
+  subpoenas: 43853
+  subpopulation: 87744
+  subpopulations: 67962
+  subprime: 51003
+  subprogram: 74147
+  subprograms: 96904
+scored_words:
+  subphylum: 118875
+  subproblem: 139333
+not_scored_words:
+- subparallel
+- subperiosteal
+- subphyla
+- subpoenaing
+- subprincipal
+- subprofessional
+- subprofessionals

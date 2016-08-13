@@ -1,0 +1,45 @@
+---
+pattern: dem_e
+hi_scored_words_count: 8
+scored_words_count: 15
+total_words: 35
+score: 2863590
+score_per_word: 124503
+hi_scored_words:
+  demagogue: 62255
+  demesne: 80734
+  demise: 17997
+  demonize: 86635
+  demonstrable: 45493
+  demonstrate: 5097
+  demonstrative: 52631
+  demure: 55568
+scored_words:
+  demarcate: 109813
+  demarche: 149463
+  deme: 137084
+  demilune: 319681
+  demimonde: 169778
+  demitasse: 103362
+  demiurge: 110405
+  demobilize: 264587
+  democratize: 125960
+  demodulate: 318512
+  demoiselle: 142258
+  demoralize: 134985
+  demote: 100180
+  demountable: 159092
+  demurrage: 112020
+not_scored_words:
+- demagnetize
+- demandable
+- demarcative
+- demasculinize
+- dematerialize
+- demilitarize
+- demimondaine
+- demineralize
+- demode
+- demonetize
+- demotivate
+- demythologize

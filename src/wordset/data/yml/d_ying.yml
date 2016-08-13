@@ -1,0 +1,50 @@
+---
+pattern: d_ying
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 40
+score: 2742037
+score_per_word: 105462
+hi_scored_words:
+  dairying: 86776
+  decaying: 30956
+  decrying: 99787
+  defying: 31031
+  delaying: 23961
+  demystifying: 85266
+  denying: 11163
+  deploying: 25020
+  destroying: 8667
+  disobeying: 75418
+  displaying: 4624
+  disqualifying: 79475
+  diversifying: 54704
+  dizzying: 58546
+  downplaying: 99656
+  drying: 9116
+  dying: 3223
+scored_words:
+  dallying: 179430
+  defraying: 134207
+  dehumidifying: 241244
+  deifying: 284734
+  denitrifying: 279268
+  detoxifying: 102564
+  dirtying: 260701
+  dismaying: 185045
+  dissatisfying: 287455
+not_scored_words:
+- dandifying
+- decalcifying
+- declassifying
+- decoying
+- demulsifying
+- denazifying
+- descrying
+- devitrifying
+- dignifying
+- dillydallying
+- disarraying
+- disembodying
+- divvying
+- dulcifying

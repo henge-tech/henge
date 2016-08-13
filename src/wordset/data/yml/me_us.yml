@@ -1,0 +1,39 @@
+---
+pattern: me_us
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 29
+score: 1431479
+score_per_word: 95431
+hi_scored_words:
+  melodious: 47171
+  membranous: 60067
+  meniscus: 52840
+  menus: 13137
+  mercurous: 92168
+  meritorious: 28756
+  metatarsus: 90373
+  meticulous: 34465
+scored_words:
+  meatus: 115844
+  medius: 176045
+  mellifluous: 120851
+  mendacious: 122371
+  meretricious: 142640
+  metacarpus: 155365
+  metalliferous: 179386
+not_scored_words:
+- Meganthropus
+- Mencius
+- Menelaus
+- Methodius
+- meandrous
+- melanous
+- melliferous
+- membranaceous
+- membraneous
+- menispermaceous
+- meronymous
+- mesognathous
+- metagnathous
+- metamorphous

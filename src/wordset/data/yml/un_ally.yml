@@ -1,0 +1,40 @@
+---
+pattern: un_ally
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 30
+score: 1217674
+score_per_word: 81178
+hi_scored_words:
+  uncharacteristically: 82572
+  unconditionally: 32725
+  unconstitutionally: 94079
+  uncritically: 92018
+  unequally: 86266
+  unequivocally: 36809
+  unilaterally: 32582
+  unintentionally: 35293
+  universally: 12646
+  unnaturally: 70406
+  unofficially: 61406
+  unrealistically: 94731
+  unusually: 11947
+scored_words:
+  unconventionally: 270341
+  unethically: 203853
+not_scored_words:
+- uncontroversially
+- undemocratically
+- uneconomically
+- unemotionally
+- unenthusiastically
+- unexceptionally
+- ungrammatically
+- unmusically
+- unprofessionally
+- unromantically
+- unscientifically
+- unsocially
+- unsympathetically
+- unsystematically
+- untypically

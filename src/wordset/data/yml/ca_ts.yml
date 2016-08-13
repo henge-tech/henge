@@ -1,0 +1,65 @@
+---
+pattern: ca_ts
+hi_scored_words_count: 22
+scored_words_count: 11
+total_words: 55
+score: 2821317
+score_per_word: 85494
+hi_scored_words:
+  cabarets: 90116
+  cabinets: 11054
+  cadets: 21912
+  cahoots: 73486
+  camshafts: 97425
+  cantonments: 88183
+  capitalists: 22886
+  carats: 43927
+  cardiologists: 66846
+  carpets: 13929
+  carrots: 16049
+  cartoonists: 47279
+  carts: 10511
+  caskets: 59289
+  castanets: 81623
+  casts: 15736
+  catalysts: 25770
+  catapults: 70984
+  cataracts: 37459
+  catchments: 62428
+  cats: 3949
+  caveats: 34656
+scored_words:
+  canoeists: 136804
+  cants: 163354
+  caplets: 127398
+  careerists: 246568
+  caricaturists: 192245
+  carports: 149774
+  casements: 163518
+  casuists: 201276
+  catamounts: 110640
+  catechists: 138608
+  catsuits: 195635
+not_scored_words:
+- Cabernets
+- Calvinists
+- Camelots
+- Camemberts
+- cablecasts
+- cabriolets
+- cachalots
+- cachepots
+- cachets
+- calamints
+- calligraphists
+- calumets
+- campanologists
+- candlenuts
+- candytufts
+- canonists
+- carburets
+- carets
+- carrycots
+- catboats
+- catmints
+- cavorts

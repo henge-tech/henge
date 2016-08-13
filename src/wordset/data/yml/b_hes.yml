@@ -1,0 +1,65 @@
+---
+pattern: b_hes
+hi_scored_words_count: 21
+scored_words_count: 13
+total_words: 55
+score: 3339579
+score_per_word: 98222
+hi_scored_words:
+  bashes: 77556
+  batches: 32887
+  bathes: 90015
+  beaches: 9591
+  bedclothes: 98852
+  beeches: 80556
+  benches: 18370
+  birches: 77409
+  bitches: 11321
+  blemishes: 46294
+  blotches: 83876
+  blushes: 57177
+  branches: 3443
+  breaches: 22333
+  breathes: 31880
+  breeches: 34109
+  britches: 69705
+  brooches: 36228
+  brushes: 12729
+  bunches: 29351
+  bushes: 11817
+scored_words:
+  baches: 235601
+  backaches: 156280
+  backslashes: 120582
+  banishes: 152102
+  belches: 208505
+  blanches: 138589
+  bleaches: 115994
+  botches: 270842
+  brainwashes: 270499
+  brandishes: 241451
+  broaches: 135220
+  brunches: 130042
+  bulrushes: 228373
+not_scored_words:
+- Barthes
+- Boches
+- backbenches
+- backlashes
+- backsheeshes
+- backstitches
+- backstretches
+- barouches
+- bathyscaphes
+- bellyaches
+- beseeches
+- besmirches
+- bewitches
+- blandishes
+- blenches
+- blowtorches
+- bluefishes
+- brioches
+- bullfinches
+- burnishes
+- butches

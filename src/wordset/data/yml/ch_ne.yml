@@ -1,0 +1,42 @@
+---
+pattern: ch_ne
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 32
+score: 2338906
+score_per_word: 123100
+hi_scored_words:
+  champagne: 7704
+  chaperone: 48232
+  chatelaine: 86944
+  chicane: 55220
+  chine: 39719
+  chlorine: 17833
+  chloroquine: 73144
+  chlorpromazine: 69649
+  choline: 38800
+scored_words:
+  chaconne: 178678
+  chalone: 301481
+  chatline: 142104
+  cheekbone: 117616
+  chloramine: 151915
+  chlordane: 113285
+  chlorobenzene: 167607
+  chloroprene: 292434
+  chlortetracycline: 246707
+  chryselephantine: 189834
+not_scored_words:
+- Champagne
+- Charlemagne
+- Charlene
+- Charmaine
+- Cheyenne
+- Christine
+- chairborne
+- chalkstone
+- cherrystone
+- chitarrone
+- chopine
+- chordophone
+- châtelaine

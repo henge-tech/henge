@@ -1,0 +1,27 @@
+---
+pattern: h_ded
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 1236860
+score_per_word: 95143
+hi_scored_words:
+  handed: 3893
+  headed: 4230
+  heeded: 51023
+  heralded: 38388
+  herded: 65923
+  hoarded: 73355
+  hooded: 19091
+  hounded: 70074
+scored_words:
+  hardheaded: 155982
+  hazarded: 186537
+  homesteaded: 168881
+  hotheaded: 238594
+  husbanded: 160889
+not_scored_words:
+- hided
+- highhanded
+- horded
+- hotblooded

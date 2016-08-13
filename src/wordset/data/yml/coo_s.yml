@@ -1,0 +1,40 @@
+---
+pattern: coo_s
+hi_scored_words_count: 18
+scored_words_count: 3
+total_words: 30
+score: 1152866
+score_per_word: 54898
+hi_scored_words:
+  cookbooks: 25562
+  cookers: 29658
+  cookies: 9920
+  cooks: 13195
+  coolers: 21240
+  coolies: 96136
+  coolness: 27271
+  cools: 32542
+  coons: 71037
+  cooperates: 58290
+  cooperatives: 22752
+  cooperators: 94820
+  coopers: 43355
+  coops: 63807
+  coordinates: 13055
+  coordinators: 22090
+  coos: 34953
+  coots: 85566
+scored_words:
+  cookouts: 146277
+  coolants: 126786
+  cooties: 114554
+not_scored_words:
+- Coors
+- cookeries
+- cookhouses
+- cookstoves
+- cookwares
+- coonhounds
+- coonskins
+- coonties
+- cooperativeness

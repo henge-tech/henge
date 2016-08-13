@@ -1,0 +1,30 @@
+---
+pattern: mech_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 741385
+score_per_word: 57029
+hi_scored_words:
+  mech: 23194
+  mechanic: 9931
+  mechanical: 3228
+  mechanically: 18071
+  mechanics: 6682
+  mechanism: 4292
+  mechanisms: 10458
+  mechanistic: 41270
+  mechanization: 57298
+  mechanized: 40072
+scored_words:
+  mechanician: 208365
+  mechanistically: 215859
+  mechanize: 102665
+not_scored_words:
+- Mechlin
+- mechanist
+- mechanizable
+- mechanizer
+- mechanizes
+- mechanizing
+- mechanotherapy

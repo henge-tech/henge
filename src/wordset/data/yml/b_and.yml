@@ -1,0 +1,32 @@
+---
+pattern: b_and
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 22
+score: 1067060
+score_per_word: 76218
+hi_scored_words:
+  backhand: 43673
+  band: 1032
+  bandstand: 52293
+  beforehand: 12532
+  bland: 15035
+  borderland: 77808
+  brand: 3483
+  brigand: 78728
+  broadband: 9807
+  bushland: 71096
+scored_words:
+  badland: 148415
+  behindhand: 165160
+  bottomland: 116907
+  browband: 271091
+not_scored_words:
+- Basutoland
+- Bechuanaland
+- Bertrand
+- Briand
+- Bundelkhand
+- Burgenland
+- bellyband
+- bookstand

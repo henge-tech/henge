@@ -1,0 +1,45 @@
+---
+pattern: tid_
+hi_scored_words_count: 10
+scored_words_count: 13
+total_words: 35
+score: 2987503
+score_per_word: 129891
+hi_scored_words:
+  tidal: 14739
+  tidbit: 43948
+  tidbits: 29602
+  tide: 4778
+  tides: 14864
+  tidewater: 46151
+  tidied: 79171
+  tidings: 24725
+  tidy: 13689
+  tidying: 59563
+scored_words:
+  tidally: 181125
+  tiddler: 197098
+  tiddly: 217859
+  tiddlywinks: 228169
+  tided: 214659
+  tideland: 217820
+  tidelands: 141700
+  tideway: 215559
+  tidier: 183501
+  tidies: 207299
+  tidily: 224199
+  tidiness: 132684
+  tiding: 294601
+not_scored_words:
+- Tide
+- tiddlers
+- tiddlier
+- tiddliest
+- tiddlywink
+- tideless
+- tidemark
+- tidemarks
+- tidewaiter
+- tidewaters
+- tideways
+- tidiest

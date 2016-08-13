@@ -1,0 +1,32 @@
+---
+pattern: nu_y
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1258420
+score_per_word: 83894
+hi_scored_words:
+  nudity: 17103
+  nullify: 49567
+  nullity: 83310
+  numeracy: 32298
+  numerically: 29298
+  numerology: 43596
+  nunnery: 51581
+  nursery: 6004
+  nutritionally: 58158
+  nutty: 26860
+scored_words:
+  nubby: 183886
+  nugatory: 163228
+  numbingly: 134375
+  numbly: 245510
+  numerously: 133646
+not_scored_words:
+- nubbly
+- nubility
+- numerary
+- numismatology
+- nummary
+- nutritiously
+- nuttily

@@ -1,0 +1,30 @@
+---
+pattern: rota_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 20
+score: 1048883
+score_per_word: 69925
+hi_scored_words:
+  rota: 30821
+  rotary: 14788
+  rotate: 19553
+  rotated: 20963
+  rotates: 30498
+  rotating: 15145
+  rotation: 7832
+  rotational: 21459
+  rotations: 24926
+  rotator: 40024
+scored_words:
+  rotaries: 246591
+  rotas: 159113
+  rotatable: 100732
+  rotators: 118765
+  rotatory: 197673
+not_scored_words:
+- Rota
+- Rotarian
+- Rotarians
+- Rotas
+- rotative

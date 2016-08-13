@@ -1,0 +1,27 @@
+---
+pattern: _oose
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 921293
+score_per_word: 70868
+hi_scored_words:
+  caboose: 44080
+  choose: 767
+  footloose: 51731
+  goose: 10186
+  loose: 2830
+  mongoose: 30536
+  moose: 12143
+  noose: 31465
+  papoose: 88792
+scored_words:
+  calaboose: 129932
+  roose: 128835
+  unloose: 176552
+  vamoose: 213444
+not_scored_words:
+- burnoose
+- camboose
+- slipnoose
+- wayzgoose

@@ -1,0 +1,28 @@
+---
+pattern: bio_y
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 659567
+score_per_word: 54963
+hi_scored_words:
+  biochemistry: 14754
+  biodiversity: 18055
+  biogeography: 59043
+  biography: 4217
+  biologically: 25149
+  biology: 7486
+  biopsy: 19725
+  biotechnology: 12402
+scored_words:
+  biochemically: 124823
+  biodegradability: 159201
+  biogeochemistry: 102074
+  biometry: 112638
+not_scored_words:
+- bioclimatology
+- bioecology
+- biogenetically
+- biographically
+- bionically
+- bioscopy

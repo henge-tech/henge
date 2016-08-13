@@ -1,0 +1,30 @@
+---
+pattern: cor_a
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 1166757
+score_per_word: 97229
+hi_scored_words:
+  cordillera: 49103
+  cordoba: 26193
+  cornea: 34923
+  cornucopia: 42480
+  corolla: 25084
+  corona: 16843
+  corpora: 38881
+  corrida: 98357
+scored_words:
+  corbicula: 311065
+  coria: 109413
+  corrigenda: 152803
+  coryza: 261612
+not_scored_words:
+- Cora
+- Corcyra
+- Cordelia
+- Cordoba
+- Corina
+- Cornelia
+- Corsica
+- Corunna

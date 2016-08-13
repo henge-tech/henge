@@ -1,0 +1,22 @@
+---
+pattern: encl_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 568566
+score_per_word: 56856
+hi_scored_words:
+  enclave: 30706
+  enclaves: 54247
+  enclose: 20405
+  enclosed: 6888
+  encloses: 58936
+  enclosing: 22943
+  enclosure: 8358
+  enclosures: 19623
+scored_words:
+  encl: 120057
+  enclitic: 226403
+not_scored_words:
+- enclasp
+- enclitically

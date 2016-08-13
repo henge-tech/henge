@@ -1,0 +1,29 @@
+---
+pattern: b_ue
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 19
+score: 1425162
+score_per_word: 95010
+hi_scored_words:
+  barbecue: 13338
+  baroque: 15977
+  barque: 65074
+  basque: 18576
+  bisque: 33710
+  blue: 464
+  boutique: 15280
+  brogue: 76376
+  brusque: 81472
+  burlesque: 30861
+scored_words:
+  banlieue: 188677
+  battue: 307759
+  bezique: 290847
+  blague: 105504
+  bluetongue: 181247
+not_scored_words:
+- Basque
+- Bellevue
+- Benue
+- Braque

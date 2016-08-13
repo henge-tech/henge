@@ -1,0 +1,29 @@
+---
+pattern: _uced
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 19
+score: 1327745
+score_per_word: 82984
+hi_scored_words:
+  adduced: 47335
+  deduced: 27438
+  induced: 3723
+  introduced: 1691
+  produced: 1129
+  reduced: 1854
+  reintroduced: 46799
+  reproduced: 6684
+  seduced: 29104
+scored_words:
+  conduced: 246687
+  deuced: 128938
+  overproduced: 159575
+  sauced: 170061
+  spruced: 137705
+  traduced: 143674
+  unreduced: 175348
+not_scored_words:
+- abduced
+- educed
+- outproduced

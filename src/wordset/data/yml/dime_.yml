@@ -1,0 +1,29 @@
+---
+pattern: dime_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 19
+score: 991707
+score_per_word: 70836
+hi_scored_words:
+  dime: 16113
+  dimension: 9504
+  dimensional: 9437
+  dimensionality: 50624
+  dimensionally: 91389
+  dimensioned: 96749
+  dimensioning: 77215
+  dimensionless: 46904
+  dimensions: 3995
+  dimer: 44411
+  dimers: 66708
+  dimes: 35473
+scored_words:
+  dimenhydrinate: 224508
+  dimeter: 218677
+not_scored_words:
+- dimenhydrinates
+- dimensionalities
+- dimercaprol
+- dimerous
+- dimetric

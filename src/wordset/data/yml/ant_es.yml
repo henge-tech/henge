@@ -1,0 +1,57 @@
+---
+pattern: ant_es
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 47
+score: 1982931
+score_per_word: 116643
+hi_scored_words:
+  antelopes: 90025
+  antes: 32378
+  anthologies: 21755
+  antibodies: 13781
+  anticipates: 32844
+  antidotes: 84686
+  antihistamines: 48207
+  antipodes: 79661
+  antiques: 8019
+  antiquities: 23083
+scored_words:
+  antagonizes: 178890
+  anticyclones: 297806
+  antihypertensives: 200590
+  antiparticles: 245838
+  antipathies: 228728
+  antiquaries: 122392
+  antitheses: 274248
+not_scored_words:
+- Antares
+- Antibes
+- Antilles
+- Antipodes
+- Antisthenes
+- antecedencies
+- antecedes
+- antedates
+- antefixes
+- antepenultimates
+- anteriorities
+- antheses
+- anthologizes
+- anthracoses
+- anthropogeneses
+- anthropometries
+- anthropomorphizes
+- anthropophagites
+- anticlimaxes
+- anticlines
+- antiheroes
+- antiphonaries
+- antiphonies
+- antiphrases
+- antiquates
+- antistrophes
+- antitrades
+- antitussives
+- antitypes
+- antonymies

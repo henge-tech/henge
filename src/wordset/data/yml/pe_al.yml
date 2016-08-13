@@ -1,0 +1,54 @@
+---
+pattern: pe_al
+hi_scored_words_count: 23
+scored_words_count: 6
+total_words: 44
+score: 2151104
+score_per_word: 74176
+hi_scored_words:
+  peal: 47331
+  pectoral: 49891
+  pedagogical: 22756
+  pedal: 16184
+  pedestal: 14942
+  penal: 15782
+  pennyroyal: 92435
+  pentagonal: 98253
+  pentobarbital: 97651
+  perceptual: 20981
+  perennial: 13827
+  pericardial: 59331
+  perinatal: 32435
+  perineal: 68977
+  periodical: 13813
+  periodontal: 33897
+  peripheral: 17730
+  peritoneal: 31797
+  perpetual: 9029
+  personal: 355
+  perusal: 39145
+  petal: 25796
+  petrochemical: 33793
+scored_words:
+  penitential: 110946
+  penological: 341612
+  penumbral: 228897
+  periglacial: 204371
+  pestilential: 198866
+  petrological: 210281
+not_scored_words:
+- Pentateuchal
+- Pentecostal
+- Pentothal
+- Perceval
+- Percival
+- pedimental
+- pedological
+- pelletal
+- perceptional
+- peripteral
+- permutational
+- pertussal
+- pessimal
+- petrographical
+- petrosal

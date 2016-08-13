@@ -1,0 +1,78 @@
+---
+pattern: an_t
+hi_scored_words_count: 25
+scored_words_count: 10
+total_words: 68
+score: 2886524
+score_per_word: 82472
+hi_scored_words:
+  an't: 83524
+  analyst: 14265
+  anarchist: 22934
+  anat: 40725
+  ancient: 1656
+  anesthesiologist: 64725
+  anesthetist: 90520
+  angst: 25227
+  animist: 92513
+  anklet: 47300
+  annalist: 88364
+  announcement: 3267
+  annulment: 39794
+  anoint: 60744
+  ant: 7896
+  antagonist: 18532
+  antecedent: 30607
+  anthologist: 92861
+  anthropologist: 28843
+  antiaircraft: 95993
+  antichrist: 30773
+  anticoagulant: 54574
+  antidepressant: 30072
+  antioxidant: 25726
+  antitrust: 17890
+scored_words:
+  anatomist: 100709
+  anent: 130670
+  angriest: 206844
+  annuitant: 108807
+  annulet: 180945
+  anticapitalist: 291997
+  anticommunist: 201377
+  antigovernment: 229914
+  antiperspirant: 121777
+  antiterrorist: 204159
+not_scored_words:
+- Anabaptist
+- Anderlecht
+- Anglicist
+- Anglocentrist
+- Anhalt
+- Ansermet
+- Antichrist
+- Antifederalist
+- anapest
+- anastigmat
+- ancientest
+- anecdotalist
+- anecdotist
+- anilest
+- animadvert
+- animalist
+- annexationist
+- anointment
+- antepast
+- antepenult
+- antevert
+- antiabortionist
+- anticatalyst
+- anticipant
+- antiestablishment
+- antifascist
+- antifeminist
+- antimonarchist
+- antinationalist
+- antipacifist
+- antitheft
+- antivivisectionist
+- antsiest

@@ -1,0 +1,28 @@
+---
+pattern: cons_ion
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 18
+score: 462026
+score_per_word: 28876
+hi_scored_words:
+  conscription: 39951
+  consecration: 32919
+  conservation: 5872
+  consideration: 2170
+  consolation: 16125
+  consolidation: 8296
+  constellation: 17101
+  consternation: 39098
+  constipation: 25498
+  constitution: 2335
+  constriction: 53602
+  construction: 1317
+  consultation: 4325
+  consummation: 35336
+  consumption: 3675
+scored_words:
+  consubstantiation: 174406
+not_scored_words:
+- Constitution
+- consecution

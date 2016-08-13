@@ -1,0 +1,47 @@
+---
+pattern: _rker
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 37
+score: 2361236
+score_per_word: 112439
+hi_scored_words:
+  barker: 14491
+  berserker: 51089
+  caseworker: 68365
+  corker: 87356
+  coworker: 39044
+  darker: 10734
+  lurker: 30927
+  marker: 16290
+  porker: 73449
+  woodworker: 75207
+  worker: 4382
+  yorker: 19212
+scored_words:
+  bookmarker: 264363
+  fieldworker: 243715
+  homeworker: 273265
+  ironworker: 186640
+  sparker: 278224
+  starker: 112486
+  steelworker: 206083
+  tearjerker: 141675
+  teleworker: 164239
+not_scored_words:
+- Barker
+- Parker
+- autoworker
+- dockworker
+- glassworker
+- headworker
+- houseworker
+- larker
+- leatherworker
+- metalworker
+- nonworker
+- outworker
+- pieceworker
+- shirker
+- smirker
+- wageworker

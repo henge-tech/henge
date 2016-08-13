@@ -1,0 +1,28 @@
+---
+pattern: p_its
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 18
+score: 1240906
+score_per_word: 82727
+hi_scored_words:
+  permits: 5770
+  pits: 12978
+  plaudits: 74237
+  portraits: 7485
+  posits: 55306
+  profits: 3201
+  prohibits: 19765
+  pulpits: 82779
+  pundits: 23886
+  pursuits: 17111
+scored_words:
+  pantsuits: 274745
+  parfaits: 191084
+  pipits: 187761
+  plaits: 133955
+  playsuits: 150843
+not_scored_words:
+- peewits
+- pewits
+- preterits

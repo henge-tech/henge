@@ -1,0 +1,57 @@
+---
+pattern: comp_e
+hi_scored_words_count: 30
+scored_words_count: 6
+total_words: 47
+score: 1938905
+score_per_word: 53858
+hi_scored_words:
+  compadre: 94584
+  compagnie: 41818
+  comparable: 7527
+  comparative: 4942
+  compare: 1709
+  compassionate: 14323
+  compatible: 5917
+  compensable: 89640
+  compensate: 11939
+  compere: 85215
+  compete: 6651
+  competence: 10708
+  competitive: 6283
+  compile: 14424
+  complete: 511
+  compliance: 2285
+  complicate: 28481
+  compose: 9363
+  composite: 8336
+  composure: 29520
+  compote: 68012
+  comprehensible: 36768
+  comprehensive: 3352
+  compressible: 58763
+  compressive: 38178
+  comprise: 13283
+  compromise: 6247
+  compulsive: 20763
+  computable: 48124
+  compute: 14060
+scored_words:
+  companionable: 149391
+  compartmentalize: 174547
+  complaisance: 210890
+  complice: 283973
+  compline: 150369
+  computerize: 188009
+not_scored_words:
+- Composite
+- CompuServe
+- companionate
+- complacence
+- completable
+- compossible
+- compoundable
+- comprehendible
+- comprizable
+- computerate
+- compère

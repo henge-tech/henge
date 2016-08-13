@@ -1,0 +1,31 @@
+---
+pattern: mat_es
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 21
+score: 863845
+score_per_word: 78531
+hi_scored_words:
+  matches: 3784
+  materializes: 96780
+  mates: 9970
+  matinees: 95837
+  matrices: 16620
+  mattes: 83531
+  mattresses: 21723
+  matures: 31002
+  maturities: 55811
+scored_words:
+  matchboxes: 235996
+  matricides: 212791
+not_scored_words:
+- Matabeles
+- matelotes
+- materialities
+- matinées
+- matriarchates
+- matriarchies
+- matriculates
+- matrilineages
+- maturates
+- maturenesses

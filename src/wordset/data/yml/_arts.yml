@@ -1,0 +1,55 @@
+---
+pattern: _arts
+hi_scored_words_count: 26
+scored_words_count: 2
+total_words: 45
+score: 1381169
+score_per_word: 49327
+hi_scored_words:
+  arts: 1225
+  carts: 10511
+  charts: 5331
+  counterparts: 19375
+  darts: 12467
+  departs: 26426
+  farts: 37277
+  flowcharts: 75316
+  harts: 81857
+  hearts: 2641
+  imparts: 49008
+  karts: 41969
+  marts: 58855
+  parts: 549
+  quarts: 38434
+  ramparts: 53821
+  restarts: 43603
+  smarts: 31274
+  stalwarts: 83495
+  starts: 2700
+  sweethearts: 39351
+  tarts: 27096
+  thwarts: 98734
+  underparts: 90217
+  upstarts: 77685
+  warts: 27230
+scored_words:
+  blackhearts: 191097
+  mouthparts: 153625
+not_scored_words:
+- Hogwarts
+- Stuarts
+- applecarts
+- braggarts
+- dogcarts
+- dumpcarts
+- dustcarts
+- foreparts
+- foumarts
+- handcarts
+- outsmarts
+- oxcarts
+- oxhearts
+- pushcarts
+- redstarts
+- teacarts
+- worrywarts

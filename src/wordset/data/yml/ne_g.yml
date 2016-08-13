@@ -1,0 +1,35 @@
+---
+pattern: ne_g
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 25
+score: 900699
+score_per_word: 52982
+hi_scored_words:
+  nearing: 21654
+  necessitating: 57966
+  needing: 9967
+  neg: 25203
+  negating: 71205
+  neglecting: 28943
+  negotiating: 11918
+  neighboring: 8937
+  nesting: 19624
+  nestling: 57907
+  netting: 25935
+  networking: 2673
+  neutering: 76575
+  neutralizing: 43140
+scored_words:
+  necking: 127386
+  needling: 118449
+  neighing: 193217
+not_scored_words:
+- Newburg
+- neatening
+- necklacing
+- necrosing
+- negativing
+- nerveracking
+- nerving
+- nettling

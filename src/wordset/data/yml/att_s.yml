@@ -1,0 +1,50 @@
+---
+pattern: att_s
+hi_scored_words_count: 24
+scored_words_count: 6
+total_words: 40
+score: 1726878
+score_per_word: 57562
+hi_scored_words:
+  attaches: 21960
+  attachments: 10016
+  attackers: 20898
+  attacks: 2869
+  attainments: 58417
+  attains: 37199
+  attempts: 3247
+  attendances: 56106
+  attendants: 15891
+  attendees: 11909
+  attends: 16928
+  attentions: 42178
+  attentiveness: 82624
+  attenuates: 97845
+  attests: 62737
+  attics: 68645
+  attitudes: 6155
+  attorneys: 7324
+  attractions: 4992
+  attractiveness: 29989
+  attractors: 76870
+  attracts: 15918
+  attributes: 4554
+  attributions: 53328
+scored_words:
+  attachés: 153891
+  attenders: 120225
+  attendings: 227747
+  attenuators: 102477
+  attestations: 159636
+  attractants: 154303
+not_scored_words:
+- Attis
+- Attucks
+- attaints
+- attempers
+- attires
+- attitudinizes
+- attorneyships
+- attorns
+- attributives
+- attunes

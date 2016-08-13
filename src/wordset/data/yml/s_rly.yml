@@ -1,0 +1,31 @@
+---
+pattern: s_rly
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 21
+score: 1636013
+score_per_word: 102250
+hi_scored_words:
+  scholarly: 11249
+  similarly: 5307
+  singularly: 30901
+  soberly: 87160
+  southeasterly: 75696
+  southerly: 33899
+  southwesterly: 83461
+  spectacularly: 45347
+  surly: 33180
+  swirly: 95131
+scored_words:
+  sisterly: 104947
+  slenderly: 214357
+  soldierly: 187848
+  somberly: 228111
+  sourly: 173713
+  superiorly: 225706
+not_scored_words:
+- secularly
+- semiyearly
+- sinisterly
+- snarly
+- summerly

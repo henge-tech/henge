@@ -1,0 +1,30 @@
+---
+pattern: g_ge
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 919478
+score_per_word: 76623
+hi_scored_words:
+  garage: 7267
+  garbage: 11009
+  gauge: 6304
+  gorge: 12766
+  gouge: 49545
+  grange: 16905
+  grudge: 20425
+  grunge: 28677
+scored_words:
+  gamboge: 118290
+  gavage: 126960
+  greige: 326300
+  gunge: 195030
+not_scored_words:
+- Gage
+- George
+- Grange
+- gallonage
+- greengage
+- grillage
+- groundage
+- gurge

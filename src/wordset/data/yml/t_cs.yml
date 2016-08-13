@@ -1,0 +1,37 @@
+---
+pattern: t_cs
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 27
+score: 927739
+score_per_word: 61849
+hi_scored_words:
+  tactics: 6752
+  technics: 28855
+  tectonics: 40307
+  theatrics: 91860
+  therapeutics: 23492
+  thermodynamics: 23869
+  thermoplastics: 83793
+  tics: 38707
+  tonics: 71309
+  topics: 5059
+  toxics: 54507
+  tropics: 20083
+  tunics: 76507
+scored_words:
+  traffics: 155616
+  tricyclics: 207023
+not_scored_words:
+- Turkics
+- tagmemics
+- tambacs
+- tarmacs
+- telemechanics
+- tenrecs
+- theoretics
+- thermionics
+- thermostatics
+- tombacs
+- toreutics
+- turmerics

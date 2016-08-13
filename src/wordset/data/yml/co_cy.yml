@@ -1,0 +1,37 @@
+---
+pattern: co_cy
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 27
+score: 1243258
+score_per_word: 65434
+hi_scored_words:
+  coherency: 86481
+  competency: 16563
+  complacency: 29387
+  concurrency: 29227
+  confederacy: 28422
+  conservancy: 24545
+  consistency: 7422
+  conspiracy: 5727
+  constancy: 33883
+  constituency: 13403
+  consultancy: 9482
+  contingency: 13231
+  counterinsurgency: 82685
+scored_words:
+  codependency: 121514
+  cogency: 173667
+  compliancy: 103076
+  congruency: 126874
+  conjugacy: 119332
+  contumacy: 218337
+not_scored_words:
+- Confederacy
+- colonelcy
+- commorancy
+- complicacy
+- convergency
+- conversancy
+- cornetcy
+- corpulency

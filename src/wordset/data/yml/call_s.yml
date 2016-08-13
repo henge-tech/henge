@@ -1,0 +1,31 @@
+---
+pattern: call_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 883477
+score_per_word: 80316
+hi_scored_words:
+  callas: 50450
+  callbacks: 46760
+  callers: 21331
+  callings: 90281
+  callous: 35866
+  calls: 1382
+  callus: 51149
+  calluses: 72266
+scored_words:
+  calligraphers: 134317
+  callouses: 266568
+  callousness: 113107
+not_scored_words:
+- Callas
+- Callicrates
+- Callimachus
+- calligraphists
+- calliopes
+- calliopsis
+- calliopsises
+- callipygous
+- callosities
+- callowness

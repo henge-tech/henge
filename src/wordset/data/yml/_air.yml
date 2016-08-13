@@ -1,0 +1,55 @@
+---
+pattern: _air
+hi_scored_words_count: 25
+scored_words_count: 7
+total_words: 45
+score: 1718117
+score_per_word: 53691
+hi_scored_words:
+  affair: 4661
+  air: 278
+  armchair: 17878
+  chair: 1254
+  corsair: 21509
+  crosshair: 76409
+  debonair: 67765
+  despair: 8216
+  disrepair: 48379
+  fair: 863
+  flair: 22896
+  hair: 676
+  highchair: 89165
+  horsehair: 75579
+  impair: 21551
+  lair: 18765
+  longhair: 88919
+  midair: 68889
+  mohair: 40565
+  pair: 1778
+  pushchair: 72647
+  repair: 2420
+  stair: 14081
+  unfair: 7684
+  wheelchair: 13485
+scored_words:
+  deckchair: 114809
+  eclair: 106483
+  funfair: 128921
+  glair: 156287
+  maidenhair: 167919
+  vair: 131763
+  éclair: 125623
+not_scored_words:
+- Alistair
+- Altair
+- Blair
+- Clair
+- Mayfair
+- Nair
+- Sinclair
+- Swissair
+- backstair
+- camelhair
+- unhair
+- unrepair
+- wirehair

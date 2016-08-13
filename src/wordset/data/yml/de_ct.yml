@@ -1,0 +1,24 @@
+---
+pattern: de_ct
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 14
+score: 716399
+score_per_word: 55107
+hi_scored_words:
+  deconstruct: 75536
+  deduct: 24450
+  defect: 6509
+  deflect: 39841
+  defunct: 24167
+  depict: 17631
+  derelict: 33379
+  deselect: 69079
+  destruct: 44932
+  detect: 5852
+  detract: 31076
+scored_words:
+  deject: 148756
+  delict: 195191
+not_scored_words:
+- decoct

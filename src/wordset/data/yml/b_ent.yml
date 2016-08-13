@@ -1,0 +1,43 @@
+---
+pattern: b_ent
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 33
+score: 1910949
+score_per_word: 100576
+hi_scored_words:
+  banishment: 55078
+  basement: 7499
+  belligerent: 35973
+  beneficent: 58344
+  benevolent: 18080
+  bent: 5167
+  bereavement: 24068
+  betterment: 41144
+  bewilderment: 46781
+  bombardment: 28046
+  brent: 10866
+scored_words:
+  bafflement: 225766
+  bailment: 206646
+  battement: 230638
+  battlement: 129928
+  befuddlement: 321098
+  bemusement: 153518
+  birefringent: 175022
+  bivalent: 137287
+not_scored_words:
+- BitTorrent
+- Brent
+- babblement
+- ballottement
+- bamboozlement
+- bedazzlement
+- bedevilment
+- beguilement
+- belittlement
+- bequeathment
+- besprent
+- bewitchment
+- blandishment
+- bouleversement

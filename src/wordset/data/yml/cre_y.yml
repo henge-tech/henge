@@ -1,0 +1,31 @@
+---
+pattern: cre_y
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 21
+score: 1251555
+score_per_word: 89396
+hi_scored_words:
+  creaky: 89804
+  creamery: 47796
+  creamy: 15816
+  creatively: 23843
+  creativity: 9751
+  credibility: 14215
+  credibly: 75109
+  credulity: 57940
+  creepy: 19621
+  crematory: 70617
+scored_words:
+  creditability: 235958
+  creditably: 209031
+  creditworthy: 164303
+  creepily: 217751
+not_scored_words:
+- Crecy
+- Cressy
+- creakily
+- creamily
+- creaturely
+- credulously
+- crepey

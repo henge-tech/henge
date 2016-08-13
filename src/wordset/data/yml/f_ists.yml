@@ -1,0 +1,31 @@
+---
+pattern: f_ists
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 975021
+score_per_word: 88638
+hi_scored_words:
+  fascists: 39352
+  federalists: 64092
+  feminists: 24019
+  finalists: 17840
+  fists: 20645
+  florists: 25986
+  fundamentalists: 30811
+  futurists: 87443
+scored_words:
+  fetishists: 141038
+  flutists: 316372
+  folklorists: 207423
+not_scored_words:
+- Federalists
+- fabulists
+- faddists
+- fantasists
+- fatalists
+- fauvists
+- foists
+- formalists
+- functionalists
+- futurologists

@@ -1,0 +1,68 @@
+---
+pattern: _sons
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 58
+score: 2056354
+score_per_word: 73441
+hi_scored_words:
+  bosons: 60419
+  chairpersons: 64740
+  chansons: 42312
+  comparisons: 8261
+  garrisons: 70335
+  grandsons: 53484
+  lessons: 2636
+  liaisons: 43757
+  masons: 29400
+  mesons: 61583
+  nelsons: 95308
+  parsons: 12294
+  persons: 1153
+  poisons: 26486
+  prisons: 11079
+  reasons: 1399
+  salespersons: 98990
+  seasons: 3950
+  sons: 2596
+  spokespersons: 64956
+scored_words:
+  businesspersons: 282445
+  caissons: 134202
+  grisons: 142408
+  imprisons: 161766
+  laypersons: 139243
+  orisons: 211522
+  stepsons: 120900
+  stonemasons: 108730
+not_scored_words:
+- Freemasons
+- Grisons
+- Masons
+- Parsons
+- Simpsons
+- Soissons
+- Stetsons
+- advowsons
+- anchorpersons
+- benisons
+- caparisons
+- congresspersons
+- councilpersons
+- crimsons
+- damsons
+- diapasons
+- encrimsons
+- forepersons
+- frissons
+- godsons
+- jettisons
+- keelsons
+- nonpersons
+- postseasons
+- preseasons
+- stetsons
+- unpersons
+- unreasons
+- waitpersons
+- weatherpersons

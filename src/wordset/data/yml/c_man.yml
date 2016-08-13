@@ -1,0 +1,59 @@
+---
+pattern: c_man
+hi_scored_words_count: 19
+scored_words_count: 11
+total_words: 49
+score: 2425862
+score_per_word: 80862
+hi_scored_words:
+  caiman: 60577
+  cameraman: 30818
+  carman: 47680
+  cattleman: 84694
+  caveman: 38162
+  chairman: 3509
+  chairwoman: 50562
+  chapman: 10102
+  churchman: 61400
+  clergyman: 27376
+  clubman: 94815
+  coachman: 40243
+  congressman: 17149
+  congresswoman: 48017
+  councilman: 25943
+  councilwoman: 67717
+  countryman: 35435
+  craftsman: 19980
+  crewman: 68279
+scored_words:
+  cabman: 160983
+  cavalryman: 176399
+  charwoman: 139171
+  chessman: 220839
+  clansman: 141480
+  committeeman: 111406
+  conman: 110048
+  corpsman: 101034
+  countrywoman: 124407
+  cowman: 107646
+  crossbowman: 199991
+not_scored_words:
+- Cayman
+- Chapman
+- Chinaman
+- Coleman
+- Cornishman
+- Cornishwoman
+- Cuman
+- camerawoman
+- chainman
+- churchwoman
+- clanswoman
+- clergywoman
+- clubwoman
+- coastguardsman
+- committeewoman
+- counterman
+- cracksman
+- craftswoman
+- cragsman

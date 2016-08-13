@@ -1,0 +1,33 @@
+---
+pattern: kick_
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 23
+score: 886013
+score_per_word: 59067
+hi_scored_words:
+  kick: 3875
+  kickback: 46810
+  kickbacks: 62347
+  kickball: 83207
+  kickboxing: 35197
+  kicked: 8161
+  kicker: 19516
+  kickers: 42445
+  kicking: 9448
+  kickoff: 18793
+  kickoffs: 90677
+  kicks: 10732
+  kickstart: 45910
+scored_words:
+  kickstand: 120777
+  kicky: 288118
+not_scored_words:
+- Kickapoo
+- kickier
+- kickiest
+- kickshaw
+- kickshaws
+- kicksorter
+- kicksorters
+- kickstands

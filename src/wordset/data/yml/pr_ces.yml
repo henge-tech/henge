@@ -1,0 +1,34 @@
+---
+pattern: pr_ces
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 24
+score: 1541084
+score_per_word: 96317
+hi_scored_words:
+  practices: 2435
+  prefaces: 95144
+  preferences: 7964
+  prejudices: 18584
+  presences: 86302
+  prices: 1523
+  princes: 10166
+  produces: 4360
+  pronounces: 69626
+  provinces: 5109
+scored_words:
+  prances: 268796
+  precedences: 298768
+  precipices: 127848
+  prominences: 126816
+  protuberances: 173982
+  provenances: 243661
+not_scored_words:
+- Providences
+- preadolescences
+- precipitances
+- prentices
+- preponderances
+- prepuces
+- probosces
+- procurances

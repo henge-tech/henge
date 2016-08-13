@@ -1,0 +1,30 @@
+---
+pattern: mem_s
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 20
+score: 868213
+score_per_word: 62015
+hi_scored_words:
+  members: 376
+  memberships: 15068
+  membranes: 12983
+  membranous: 60067
+  mementos: 71887
+  memes: 26661
+  memoirs: 9774
+  memorandums: 93732
+  memorials: 18371
+  memories: 3118
+  memos: 22527
+  mems: 41691
+scored_words:
+  memorializes: 267145
+  memorizes: 224813
+not_scored_words:
+- Memphis
+- membranaceous
+- membraneous
+- memorableness
+- memorizers
+- memsahibs

@@ -1,0 +1,25 @@
+---
+pattern: cro_r
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 954472
+score_per_word: 79539
+hi_scored_words:
+  croaker: 98582
+  crooner: 83001
+  cropper: 56734
+  crossbar: 43045
+  crosshair: 76409
+  crossover: 13450
+  croupier: 46143
+  crowbar: 45122
+  crozier: 55290
+scored_words:
+  crofter: 154431
+  crosier: 176616
+  crosser: 105649
+not_scored_words:
+- croakier
+- crocheter
+- crookeder

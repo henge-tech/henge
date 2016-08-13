@@ -1,0 +1,35 @@
+---
+pattern: t_nic
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 25
+score: 1874726
+score_per_word: 104151
+hi_scored_words:
+  tannic: 75566
+  technic: 44360
+  tectonic: 29722
+  telephonic: 77055
+  teratogenic: 86490
+  titanic: 13633
+  tonic: 17029
+  transgenic: 25121
+  tunic: 24018
+  tympanic: 73095
+scored_words:
+  talismanic: 187416
+  telegenic: 281491
+  tetanic: 206795
+  thermionic: 114034
+  transoceanic: 118522
+  transonic: 102871
+  transuranic: 138747
+  triclinic: 258761
+not_scored_words:
+- Teutonic
+- Titanic
+- thionic
+- toxicogenic
+- transsonic
+- typhogenic
+- tyrannic

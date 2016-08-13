@@ -1,0 +1,26 @@
+---
+pattern: gro_d
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 16
+score: 1293866
+score_per_word: 99528
+hi_scored_words:
+  groaned: 31837
+  groomed: 33557
+  grooved: 50198
+  groped: 68215
+  grossed: 51945
+  ground: 663
+  grounded: 9721
+  grouped: 11956
+  growled: 34299
+scored_words:
+  groundspeed: 305367
+  groused: 299158
+  grouted: 145282
+  grovelled: 251668
+not_scored_words:
+- grokked
+- grouched
+- groveled

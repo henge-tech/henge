@@ -1,0 +1,101 @@
+---
+pattern: _ord
+hi_scored_words_count: 30
+scored_words_count: 8
+total_words: 91
+score: 1896903
+score_per_word: 49918
+hi_scored_words:
+  accord: 6815
+  afford: 3183
+  afterword: 66778
+  broadsword: 63721
+  buzzword: 50969
+  chord: 10936
+  clavichord: 99947
+  codeword: 78021
+  concord: 10373
+  cord: 4831
+  crossword: 16992
+  discord: 26837
+  fjord: 41343
+  ford: 2674
+  foreword: 18842
+  harpsichord: 34461
+  keyword: 5223
+  landlord: 7424
+  loanword: 78499
+  lord: 745
+  ord: 18962
+  overlord: 44603
+  oxford: 2356
+  password: 3911
+  record: 836
+  smorgasbord: 70069
+  sword: 3374
+  warlord: 32656
+  watchword: 71065
+  word: 347
+scored_words:
+  byword: 120920
+  catchword: 158897
+  headword: 140565
+  milord: 121458
+  notochord: 118335
+  reword: 119176
+  ripcord: 130190
+  tetrachord: 110569
+not_scored_words:
+- Alford
+- Ashford
+- Beckford
+- Bedford
+- Bradford
+- Brantford
+- Buford
+- Chelmsford
+- Clifford
+- Concord
+- Crawford
+- Ford
+- Gaylord
+- Hartford
+- Hereford
+- Hertford
+- Longford
+- Lord
+- Milford
+- Mitford
+- Mumford
+- Njord
+- Oxford
+- Pickford
+- Redford
+- Rockford
+- Rutherford
+- Salford
+- Sanford
+- Stafford
+- Stamford
+- Stanford
+- Strafford
+- Waterford
+- Wexford
+- Wilford
+- backsword
+- counterword
+- disaccord
+- heptachord
+- hexachord
+- misericord
+- misword
+- monochord
+- octachord
+- overword
+- prerecord
+- rerecord
+- slumlord
+- smallsword
+- smörgåsbord
+- swearword
+- whipcord

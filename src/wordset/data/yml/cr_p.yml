@@ -1,0 +1,20 @@
+---
+pattern: cr_p
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 10
+score: 239622
+score_per_word: 26624
+hi_scored_words:
+  craftsmanship: 30217
+  cramp: 32014
+  crap: 8293
+  creep: 11187
+  crimp: 40371
+  crisp: 9503
+  crop: 4287
+  croup: 57615
+  crump: 46135
+scored_words: {}
+not_scored_words:
+- crackup

@@ -1,0 +1,37 @@
+---
+pattern: fore_d
+hi_scored_words_count: 9
+scored_words_count: 12
+total_words: 27
+score: 2780982
+score_per_word: 132427
+hi_scored_words:
+  foreclosed: 40320
+  foreground: 16268
+  forehand: 42806
+  forehead: 9869
+  foreshadowed: 69052
+  forested: 26546
+  foretold: 36201
+  forewarned: 60083
+  foreword: 18842
+scored_words:
+  forearmed: 248670
+  foreboded: 225375
+  foredoomed: 134712
+  foregathered: 281614
+  foregrounded: 252405
+  foreland: 112814
+  foreordained: 196435
+  foresaid: 244425
+  foreshortened: 191242
+  foresighted: 323015
+  forestalled: 141598
+  forestland: 108690
+not_scored_words:
+- foredated
+- forehanded
+- forenamed
+- foreshowed
+- foretasted
+- foreyard

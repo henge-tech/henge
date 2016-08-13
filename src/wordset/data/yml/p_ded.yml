@@ -1,0 +1,41 @@
+---
+pattern: p_ded
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 31
+score: 1996990
+score_per_word: 83207
+hi_scored_words:
+  padded: 15960
+  paraded: 53655
+  persuaded: 11285
+  pervaded: 67786
+  pigheaded: 54631
+  pleaded: 13832
+  pounded: 21429
+  preceded: 11269
+  precluded: 34658
+  prerecorded: 70859
+  presided: 25610
+  pretended: 18679
+  prided: 74666
+  proceeded: 7601
+  prodded: 68872
+  propounded: 69545
+  protruded: 96849
+  provided: 531
+scored_words:
+  pended: 171300
+  placarded: 243838
+  plodded: 140522
+  podded: 219437
+  portended: 240501
+  promenaded: 263675
+not_scored_words:
+- palisaded
+- peroxided
+- pinheaded
+- plaided
+- pollarded
+- pomaded
+- pyramided

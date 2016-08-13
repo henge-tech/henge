@@ -1,0 +1,28 @@
+---
+pattern: cro_ed
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 18
+score: 782963
+score_per_word: 60227
+hi_scored_words:
+  crocheted: 48928
+  crocked: 71532
+  crooked: 12099
+  cropped: 21237
+  crossbred: 98585
+  crossed: 4796
+  crouched: 44152
+  crowded: 7053
+  crowed: 85502
+  crowned: 12065
+scored_words:
+  croaked: 106222
+  crooned: 165520
+  crossbreed: 105272
+not_scored_words:
+- croqueted
+- crosschecked
+- crosshatched
+- crossruffed
+- crowdfunded

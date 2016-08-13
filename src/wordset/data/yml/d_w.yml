@@ -1,0 +1,28 @@
+---
+pattern: d_w
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 18
+score: 435953
+score_per_word: 48439
+hi_scored_words:
+  daw: 33610
+  dew: 8287
+  dhow: 87992
+  disallow: 35382
+  disavow: 77517
+  dow: 16011
+  draw: 1785
+  drew: 2863
+scored_words:
+  deathblow: 172506
+not_scored_words:
+- Danelaw
+- Darrow
+- Doctorow
+- Dow
+- Drew
+- declaw
+- dewclaw
+- disendow
+- downthrow

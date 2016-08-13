@@ -1,0 +1,29 @@
+---
+pattern: a_ling
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 19
+score: 942570
+score_per_word: 72505
+hi_scored_words:
+  abseiling: 75715
+  ailing: 27520
+  ambling: 98928
+  angling: 28307
+  annealing: 29717
+  appalling: 18505
+  appealing: 8828
+  assembling: 18270
+  availing: 78639
+scored_words:
+  annulling: 129975
+  antifouling: 156816
+  assailing: 152110
+  atheling: 119240
+not_scored_words:
+- addling
+- airmailing
+- aneling
+- appareling
+- assoiling
+- automobiling

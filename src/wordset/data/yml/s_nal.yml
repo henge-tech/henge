@@ -1,0 +1,39 @@
+---
+pattern: s_nal
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 29
+score: 1336471
+score_per_word: 83529
+hi_scored_words:
+  seasonal: 11636
+  sectional: 17048
+  semifinal: 34113
+  seminal: 27684
+  sempiternal: 73978
+  sensational: 17288
+  signal: 1948
+  situational: 24924
+  spinal: 10430
+  subliminal: 27420
+  successional: 86006
+  supranational: 62548
+scored_words:
+  semidiurnal: 323780
+  semiprofessional: 285727
+  supernal: 118484
+  suprarenal: 213457
+not_scored_words:
+- Seconal
+- Sulfonal
+- salutational
+- salvational
+- secessional
+- subabdominal
+- submarginal
+- subprofessional
+- suctional
+- summational
+- supernational
+- suppositional
+- supraliminal

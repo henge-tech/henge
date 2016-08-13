@@ -1,0 +1,34 @@
+---
+pattern: l_ard
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 24
+score: 1010172
+score_per_word: 77705
+hi_scored_words:
+  landward: 68040
+  lanyard: 31926
+  lard: 28989
+  leeward: 35138
+  leopard: 14051
+  leotard: 51442
+  lifeguard: 32106
+  lizard: 13886
+scored_words:
+  laggard: 112163
+  larboard: 192968
+  leftward: 103954
+  liard: 157995
+  lumberyard: 167514
+not_scored_words:
+- Langobard
+- Layard
+- Leeward
+- Lenard
+- Leonard
+- Liard
+- Lollard
+- Lombard
+- Longobard
+- lapboard
+- leeboard

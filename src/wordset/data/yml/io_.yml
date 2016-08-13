@@ -1,0 +1,61 @@
+---
+pattern: io_
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 51
+score: 2275002
+score_per_word: 98913
+hi_scored_words:
+  iodide: 37897
+  iodine: 20716
+  iodized: 98797
+  iodoform: 69250
+  ion: 10656
+  ionic: 19607
+  ionization: 26480
+  ionized: 42848
+  ionizing: 37403
+  ionosphere: 50264
+  ionospheric: 61927
+  ions: 18554
+  iota: 32358
+scored_words:
+  ioctl: 115670
+  iodate: 179041
+  iodic: 196337
+  iodides: 155723
+  iolite: 109270
+  ionizable: 304119
+  ionize: 135780
+  ionizer: 125755
+  ionizers: 117484
+  ionizes: 309066
+not_scored_words:
+- IOU
+- Io
+- Ioannina
+- Iona
+- Ionesco
+- Ionia
+- Ionian
+- Ionians
+- Ionic
+- Ionics
+- Iowa
+- Iowan
+- Iowans
+- Iowas
+- iodism
+- iodize
+- iodizes
+- iodizing
+- iodoforms
+- iodometry
+- iodous
+- ionium
+- ionogen
+- ionone
+- ionopause
+- ionospheres
+- iotacism
+- iotas

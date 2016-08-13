@@ -1,0 +1,41 @@
+---
+pattern: ri_t
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 31
+score: 1770783
+score_per_word: 93199
+hi_scored_words:
+  richest: 11337
+  ricochet: 40629
+  rift: 19521
+  right: 128
+  rightist: 85561
+  rightmost: 74918
+  ringgit: 55896
+  riot: 13040
+  rit: 35807
+  riverboat: 43945
+  riverfront: 34988
+  rivet: 30989
+  rivulet: 86204
+scored_words:
+  riant: 228269
+  rinderpest: 152108
+  ringlet: 173714
+  ripest: 252581
+  riskiest: 167753
+  ritualist: 263395
+not_scored_words:
+- Right
+- ribwort
+- ricketiest
+- rident
+- rifest
+- rightest
+- rigorist
+- rillet
+- rimiest
+- ringent
+- ripplet
+- ritziest

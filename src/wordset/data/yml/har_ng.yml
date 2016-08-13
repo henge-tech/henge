@@ -1,0 +1,28 @@
+---
+pattern: har_ng
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 18
+score: 945518
+score_per_word: 67537
+hi_scored_words:
+  harassing: 28012
+  harboring: 52129
+  hardening: 26980
+  hardworking: 34618
+  haring: 63436
+  harming: 37486
+  harmonizing: 62908
+  harnessing: 43117
+  harping: 77061
+  harrowing: 38214
+  harvesting: 17456
+scored_words:
+  haranguing: 200105
+  harking: 155540
+  harrying: 108456
+not_scored_words:
+- Harding
+- harpooning
+- harrumphing
+- harshening

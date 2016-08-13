@@ -1,0 +1,70 @@
+---
+pattern: ma_ly
+hi_scored_words_count: 21
+scored_words_count: 15
+total_words: 60
+score: 3259523
+score_per_word: 90542
+hi_scored_words:
+  madly: 23919
+  magically: 27430
+  magnetically: 50331
+  magnificently: 41082
+  mainly: 2973
+  majestically: 82896
+  majorly: 89655
+  maliciously: 54998
+  manifestly: 33008
+  manly: 16349
+  manually: 11473
+  marginally: 26786
+  markedly: 21238
+  marly: 73330
+  marvelously: 73476
+  massively: 21253
+  masterfully: 64124
+  masterly: 67453
+  materially: 15321
+  mathematically: 29297
+  maximally: 55162
+scored_words:
+  macroscopically: 170585
+  maddeningly: 118448
+  magisterially: 211830
+  magnanimously: 177908
+  maidenly: 118712
+  malevolently: 116163
+  mandatorily: 240905
+  manfully: 124785
+  maniacally: 141515
+  manically: 251413
+  mannerly: 156664
+  maternally: 131553
+  matronly: 172190
+  maturely: 143076
+  mayfly: 102222
+not_scored_words:
+- macrocephaly
+- macrocosmically
+- magniloquently
+- maladroitly
+- malignantly
+- malignly
+- malleably
+- malodorously
+- manageably
+- managerially
+- mangily
+- manifoldly
+- manipulatively
+- mannishly
+- marbly
+- maritally
+- martially
+- masculinely
+- masochistically
+- materialistically
+- maternalistically
+- matrilineally
+- matrimonially
+- mawkishly

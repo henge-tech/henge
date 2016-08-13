@@ -1,0 +1,42 @@
+---
+pattern: ga_rs
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 32
+score: 1903503
+score_per_word: 95175
+hi_scored_words:
+  gainers: 57725
+  gaiters: 63070
+  gamblers: 26951
+  gamers: 9059
+  gangsters: 30822
+  gardeners: 21344
+  garners: 85888
+  gars: 99095
+  garters: 42935
+  gatekeepers: 55525
+  gatherers: 53996
+  gathers: 20672
+  gators: 24914
+scored_words:
+  gadgeteers: 312301
+  gaffers: 189767
+  gamekeepers: 182754
+  gamesters: 174644
+  gangbusters: 164094
+  gazers: 170842
+  gazetteers: 117105
+not_scored_words:
+- gadders
+- gainsayers
+- gallbladders
+- galvanometers
+- ganders
+- gangers
+- garroters
+- gasholders
+- gasometers
+- gatecrashers
+- gauffers
+- gaurs

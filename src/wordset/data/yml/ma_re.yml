@@ -1,0 +1,25 @@
+---
+pattern: ma_re
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 15
+score: 323561
+score_per_word: 32356
+hi_scored_words:
+  macabre: 32576
+  magnetosphere: 60435
+  malware: 18042
+  manicure: 25059
+  manufacture: 5215
+  manure: 14382
+  mare: 9855
+  massacre: 13257
+  mature: 3119
+scored_words:
+  mariculture: 141621
+not_scored_words:
+- Maggiore
+- Mamore
+- Mare
+- macrospore
+- madrepore

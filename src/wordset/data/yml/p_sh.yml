@@ -1,0 +1,53 @@
+---
+pattern: p_sh
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 43
+score: 2737985
+score_per_word: 97785
+hi_scored_words:
+  paintbrush: 47200
+  parish: 3697
+  pash: 97137
+  peevish: 73297
+  perish: 16734
+  phish: 33217
+  pinkish: 60070
+  plash: 92524
+  plush: 15413
+  polish: 4442
+  popish: 80543
+  posh: 23232
+  potash: 33336
+  prudish: 92268
+  publish: 4520
+  punish: 9917
+  purplish: 52408
+  push: 2636
+scored_words:
+  paddlefish: 184485
+  panfish: 137833
+  parrotfish: 137626
+  peckish: 182817
+  pettish: 301380
+  photoflash: 323768
+  piggish: 133713
+  pish: 102513
+  priggish: 247848
+  puckish: 243411
+not_scored_words:
+- Parrish
+- Pictish
+- Polish
+- paganish
+- palish
+- philistinish
+- pigfish
+- pinfish
+- planish
+- platyfish
+- plenish
+- poltroonish
+- preestablish
+- premonish
+- prewash

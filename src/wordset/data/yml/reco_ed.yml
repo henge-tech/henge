@@ -1,0 +1,48 @@
+---
+pattern: reco_ed
+hi_scored_words_count: 17
+scored_words_count: 11
+total_words: 38
+score: 2579065
+score_per_word: 92109
+hi_scored_words:
+  recognized: 2287
+  recoiled: 89717
+  recollected: 88462
+  recommended: 2097
+  recompiled: 97681
+  reconciled: 19948
+  reconditioned: 34426
+  reconfigured: 55052
+  reconnected: 63550
+  reconsidered: 40790
+  reconstituted: 38471
+  reconstructed: 22851
+  reconvened: 69377
+  recorded: 2305
+  recounted: 33324
+  recouped: 97162
+  recovered: 5195
+scored_words:
+  recoded: 115735
+  recolored: 206659
+  recombined: 124061
+  recommenced: 119801
+  recommissioned: 222052
+  recommitted: 154898
+  recompensed: 163043
+  recomputed: 142257
+  reconfirmed: 104547
+  reconquered: 230904
+  reconverted: 232413
+not_scored_words:
+- recolonized
+- recomposed
+- recompressed
+- reconnoitered
+- reconsecrated
+- reconsigned
+- recontacted
+- recontaminated
+- recooked
+- recopied

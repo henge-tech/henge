@@ -1,0 +1,52 @@
+---
+pattern: o_ies
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 42
+score: 2532350
+score_per_word: 115106
+hi_scored_words:
+  obituaries: 16798
+  obscenities: 67003
+  observatories: 49904
+  occupies: 17185
+  oddities: 36446
+  oldies: 16674
+  opportunities: 1616
+  orderlies: 91837
+  ordinaries: 94212
+  orgies: 19770
+  ovaries: 32650
+scored_words:
+  obscurities: 165151
+  obsequies: 153041
+  occupancies: 103363
+  oligarchies: 215030
+  oligopolies: 181866
+  ologies: 244549
+  oratories: 284804
+  orthodoxies: 168695
+  outcries: 159233
+  overlies: 148546
+  oversimplifies: 263977
+not_scored_words:
+- Offertories
+- objectifies
+- octonaries
+- offertories
+- olfactories
+- oophorectomies
+- orangeries
+- orchidectomies
+- orotundities
+- orreries
+- orthographies
+- ossifies
+- otolaryngologies
+- otologies
+- outlawries
+- ovariectomies
+- overflies
+- oversupplies
+- overwearies
+- oxycephalies

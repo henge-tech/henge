@@ -1,0 +1,33 @@
+---
+pattern: ce_n
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 23
+score: 921652
+score_per_word: 61443
+hi_scored_words:
+  celadon: 61398
+  celebration: 5656
+  cen: 29306
+  centralization: 39820
+  centurion: 25574
+  certain: 506
+  certification: 13820
+  cerulean: 60411
+  cesarean: 44158
+  cessation: 13575
+  cession: 53520
+  cetacean: 65798
+scored_words:
+  cementation: 131386
+  centenarian: 140700
+  cerumen: 236024
+not_scored_words:
+- Cervin
+- Cesarean
+- Ceylon
+- celloidin
+- centillion
+- cephalization
+- cerebration
+- ceresin

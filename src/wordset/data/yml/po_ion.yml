@@ -1,0 +1,28 @@
+---
+pattern: po_ion
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 18
+score: 1421667
+score_per_word: 83627
+hi_scored_words:
+  polarization: 25092
+  politicization: 89437
+  pollination: 37204
+  pollution: 6799
+  polymerization: 28938
+  popularization: 92848
+  population: 907
+  portion: 1900
+  position: 501
+  possession: 3341
+  potentiation: 66887
+  potion: 23129
+scored_words:
+  pontification: 255144
+  postelection: 339382
+  postilion: 102824
+  postillion: 167130
+  postulation: 180204
+not_scored_words:
+- potation

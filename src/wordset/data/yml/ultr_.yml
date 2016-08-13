@@ -1,0 +1,55 @@
+---
+pattern: ultr_
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 45
+score: 2448505
+score_per_word: 111295
+hi_scored_words:
+  ultra: 8398
+  ultralight: 39813
+  ultramarine: 63997
+  ultramontane: 89461
+  ultras: 89881
+  ultrasonic: 21417
+  ultrasonics: 85440
+  ultrasonography: 41884
+  ultrasound: 11499
+  ultrasounds: 85053
+  ultrastructure: 39393
+  ultraviolet: 18230
+scored_words:
+  ultracentrifuge: 284441
+  ultraconservative: 235063
+  ultrafilter: 212557
+  ultrahigh: 108768
+  ultralights: 157125
+  ultramodern: 118383
+  ultrapure: 172525
+  ultrashort: 144152
+  ultrasonically: 260255
+  ultrasonographic: 160770
+not_scored_words:
+- Ultrasuede
+- ultracentrifuges
+- ultraconservatives
+- ultrafiche
+- ultraism
+- ultraliberal
+- ultramicrochemistry
+- ultramicrometer
+- ultramicroscope
+- ultramicroscopes
+- ultramicroscopic
+- ultramodernism
+- ultramodernist
+- ultramontanism
+- ultramontanist
+- ultramundane
+- ultranationalism
+- ultranationalisms
+- ultrared
+- ultrasonograph
+- ultrasonographer
+- ultrasonographies
+- ultravirus

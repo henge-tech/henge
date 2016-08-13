@@ -1,0 +1,28 @@
+---
+pattern: gr_ds
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 18
+score: 607794
+score_per_word: 60779
+hi_scored_words:
+  grads: 30150
+  grands: 36943
+  grasslands: 28657
+  graveyards: 72607
+  greyhounds: 40914
+  grids: 21943
+  grinds: 45841
+  grounds: 3207
+scored_words:
+  graduands: 217923
+  grandstands: 109609
+not_scored_words:
+- grainfields
+- grandads
+- granddads
+- graybeards
+- greasewoods
+- greensands
+- greybeards
+- groundspeeds

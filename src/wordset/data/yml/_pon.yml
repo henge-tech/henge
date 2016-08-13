@@ -1,0 +1,26 @@
+---
+pattern: _pon
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 758464
+score_per_word: 68951
+hi_scored_words:
+  capon: 84076
+  coupon: 16942
+  hereupon: 76345
+  tampon: 35730
+  tarpon: 42296
+  thereupon: 24498
+  upon: 307
+  weapon: 3739
+  whereupon: 22385
+scored_words:
+  crampon: 144195
+  yaupon: 307951
+not_scored_words:
+- Nippon
+- Ripon
+- gipon
+- jupon
+- yapon

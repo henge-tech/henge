@@ -1,0 +1,35 @@
+---
+pattern: fast_
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 25
+score: 1822134
+score_per_word: 82824
+hi_scored_words:
+  fast: 592
+  fastback: 77176
+  fastball: 51248
+  fasted: 62658
+  fasten: 24016
+  fastened: 18335
+  fastener: 35532
+  fasteners: 26694
+  fastening: 30539
+  fastenings: 72544
+  fastens: 95392
+  faster: 2577
+  fastest: 8321
+  fastidious: 56384
+  fasting: 14893
+  fastness: 78973
+  fasts: 66897
+scored_words:
+  fastbacks: 309247
+  fastballs: 159089
+  fastidiously: 239861
+  fastidiousness: 146950
+  fastnesses: 244216
+not_scored_words:
+- fastigiate
+- fastigium
+- fastings

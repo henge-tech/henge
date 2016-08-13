@@ -1,0 +1,59 @@
+---
+pattern: _aced
+hi_scored_words_count: 26
+scored_words_count: 8
+total_words: 49
+score: 2553174
+score_per_word: 75093
+hi_scored_words:
+  aced: 80822
+  braced: 33216
+  defaced: 48797
+  disgraced: 39150
+  displaced: 12124
+  embraced: 10738
+  faced: 3826
+  graced: 37337
+  grimaced: 97741
+  interfaced: 73275
+  interlaced: 46683
+  laced: 25723
+  menaced: 91089
+  misplaced: 24838
+  outpaced: 84751
+  paced: 11945
+  placed: 1188
+  prefaced: 79101
+  raced: 20586
+  replaced: 3180
+  resurfaced: 61986
+  retraced: 96790
+  spaced: 20676
+  surfaced: 24804
+  terraced: 32188
+  traced: 10568
+scored_words:
+  barefaced: 213684
+  boldfaced: 195159
+  effaced: 105883
+  shamefaced: 242584
+  shitfaced: 228430
+  solaced: 181063
+  unlaced: 181063
+  unplaced: 132186
+not_scored_words:
+- Maced
+- backspaced
+- baldfaced
+- enlaced
+- lightfaced
+- maced
+- necklaced
+- noninterlaced
+- outfaced
+- outraced
+- refaced
+- straitlaced
+- thoroughpaced
+- unbraced
+- unsurfaced

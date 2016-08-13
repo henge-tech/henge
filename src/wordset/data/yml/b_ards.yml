@@ -1,0 +1,38 @@
+---
+pattern: b_ards
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 28
+score: 2068243
+score_per_word: 94011
+hi_scored_words:
+  backwards: 7913
+  backyards: 63598
+  bards: 45815
+  bastards: 22019
+  beards: 35432
+  billboards: 27966
+  billiards: 17956
+  blizzards: 76305
+  boards: 2757
+  bodyguards: 49246
+  bollards: 82415
+  boulevards: 49793
+  buzzards: 57212
+scored_words:
+  backboards: 151725
+  baseboards: 119181
+  blackboards: 114399
+  blackguards: 111497
+  blowhards: 112269
+  boatyards: 239550
+  bombards: 180492
+  breadboards: 264661
+  bustards: 236042
+not_scored_words:
+- Bluebeards
+- bankcards
+- barnyards
+- brassards
+- brickyards
+- buckboards

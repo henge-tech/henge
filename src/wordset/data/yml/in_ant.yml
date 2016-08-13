@@ -1,0 +1,38 @@
+---
+pattern: in_ant
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 28
+score: 1347748
+score_per_word: 79279
+hi_scored_words:
+  incessant: 28679
+  indignant: 31849
+  inelegant: 84591
+  infant: 3885
+  informant: 22969
+  inhabitant: 35000
+  insignificant: 12705
+  instant: 1899
+  intolerant: 26852
+  invariant: 19646
+scored_words:
+  inconstant: 109953
+  inerrant: 133348
+  inhalant: 107050
+  inoculant: 234217
+  insouciant: 208479
+  intendant: 133126
+  intoxicant: 153500
+not_scored_words:
+- incant
+- incapacitant
+- incogitant
+- incognizant
+- incompliant
+- inconsonant
+- indicant
+- inebriant
+- integrant
+- interpellant
+- intrigant

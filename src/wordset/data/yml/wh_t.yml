@@ -1,0 +1,37 @@
+---
+pattern: wh_t
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 27
+score: 2149084
+score_per_word: 107454
+hi_scored_words:
+  what: 46
+  whatnot: 32501
+  wheat: 4627
+  wheelwright: 67899
+  whet: 42287
+  whilst: 3498
+  whippet: 63482
+  whist: 60589
+  whit: 20903
+  whiteout: 92228
+  whitest: 96731
+  whodunit: 83795
+scored_words:
+  whaleboat: 245833
+  whatchamacallit: 244063
+  whatsit: 221527
+  whereat: 129034
+  whinchat: 141715
+  whipt: 233595
+  whitebait: 143799
+  whitethroat: 220932
+not_scored_words:
+- Whit
+- wheeziest
+- whereabout
+- whiffet
+- whiniest
+- whirlabout
+- wholewheat

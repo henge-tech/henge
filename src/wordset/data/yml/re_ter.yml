@@ -1,0 +1,44 @@
+---
+pattern: re_ter
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 34
+score: 1808064
+score_per_word: 100448
+hi_scored_words:
+  recruiter: 14933
+  reenter: 56743
+  register: 3277
+  remaster: 48334
+  renter: 29447
+  repeater: 29854
+  reporter: 4386
+  requester: 38052
+scored_words:
+  recenter: 121848
+  reciter: 177017
+  reconnoiter: 169528
+  refractometer: 116622
+  regretter: 202859
+  remitter: 315470
+  remoter: 128555
+  resister: 125573
+  respecter: 101785
+  rester: 123781
+not_scored_words:
+- rebater
+- rebutter
+- recanter
+- recharter
+- refilter
+- refuter
+- reinter
+- rejecter
+- relater
+- rencounter
+- repenter
+- reprinter
+- requiter
+- reupholster
+- reverter
+- revolter

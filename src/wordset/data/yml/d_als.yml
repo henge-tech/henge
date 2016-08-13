@@ -1,0 +1,26 @@
+---
+pattern: d_als
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 16
+score: 598532
+score_per_word: 49877
+hi_scored_words:
+  deals: 3104
+  decals: 21064
+  decimals: 38869
+  denials: 41450
+  devotionals: 89275
+  diagonals: 64487
+  dials: 30475
+  differentials: 30390
+  dismissals: 61518
+  disposals: 47866
+  duals: 62565
+scored_words:
+  deferrals: 107469
+not_scored_words:
+- decennials
+- demurrals
+- devisals
+- disavowals

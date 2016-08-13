@@ -1,0 +1,30 @@
+---
+pattern: f_at
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 681828
+score_per_word: 61984
+hi_scored_words:
+  fat: 1276
+  feat: 6874
+  fiat: 15224
+  flat: 1408
+  flatboat: 97076
+  float: 5725
+  format: 1302
+  frat: 26149
+scored_words:
+  ferryboat: 109817
+  fireboat: 234357
+  forcemeat: 182620
+not_scored_words:
+- Fermat
+- Fiat
+- Fotomat
+- faltboat
+- firebrat
+- flyboat
+- foldboat
+- forgat
+- fungistat

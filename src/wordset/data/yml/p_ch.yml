@@ -1,0 +1,42 @@
+---
+pattern: p_ch
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 32
+score: 971550
+score_per_word: 53975
+hi_scored_words:
+  patch: 3083
+  patriarch: 20852
+  peach: 10320
+  perch: 17598
+  pinch: 11334
+  pitch: 4119
+  poach: 78214
+  pooch: 42545
+  porch: 7874
+  pouch: 12127
+  preach: 11701
+  psych: 17788
+  punch: 6316
+scored_words:
+  parch: 177872
+  paunch: 120087
+  pilch: 132093
+  prelaunch: 194652
+  putsch: 102975
+not_scored_words:
+- Pentateuch
+- Pesach
+- Petrarch
+- Plattdeutsch
+- Plutarch
+- Punch
+- Putsch
+- pentastich
+- pibroch
+- pikeperch
+- pleach
+- polyptych
+- postlaunch
+- prochurch

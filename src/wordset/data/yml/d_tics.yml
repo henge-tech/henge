@@ -1,0 +1,26 @@
+---
+pattern: d_tics
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 804498
+score_per_word: 73136
+hi_scored_words:
+  diabetics: 31016
+  diacritics: 80577
+  diagnostics: 18910
+  dialectics: 63545
+  dianetics: 79677
+  dietetics: 60375
+  diuretics: 41148
+  domestics: 57145
+  dramatics: 69620
+scored_words:
+  didactics: 131022
+  dogmatics: 171463
+not_scored_words:
+- deictics
+- diaphoretics
+- diplomatics
+- dyslectics
+- dyspeptics

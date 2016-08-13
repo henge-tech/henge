@@ -1,0 +1,26 @@
+---
+pattern: li_en
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 611081
+score_per_word: 55552
+hi_scored_words:
+  lichen: 34102
+  lien: 16622
+  lighten: 21678
+  liken: 59814
+  linden: 19779
+  linemen: 62732
+  linen: 7201
+  listen: 1117
+  liven: 56528
+scored_words:
+  linesmen: 130539
+  liverymen: 200969
+not_scored_words:
+- liegemen
+- lifeboatmen
+- lightermen
+- limen
+- linkmen

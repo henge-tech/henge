@@ -1,0 +1,57 @@
+---
+pattern: scan_
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 47
+score: 1176033
+score_per_word: 61896
+hi_scored_words:
+  scan: 6885
+  scandal: 6860
+  scandalous: 26215
+  scandals: 20110
+  scandium: 90067
+  scanned: 10127
+  scanner: 9334
+  scanners: 9332
+  scanning: 6347
+  scans: 18468
+  scant: 25621
+  scantily: 58441
+  scanty: 39372
+scored_words:
+  scandalize: 107252
+  scandalized: 111141
+  scandalously: 167754
+  scandic: 109625
+  scannable: 184502
+  scantiness: 168580
+not_scored_words:
+- Scan
+- Scanderbeg
+- Scandian
+- Scandinavia
+- Scandinavian
+- Scandinavians
+- scandalization
+- scandalizations
+- scandalizer
+- scandalizes
+- scandalizing
+- scandalmonger
+- scandalmongers
+- scandent
+- scannings
+- scansion
+- scansorial
+- scanted
+- scanter
+- scantest
+- scantier
+- scanties
+- scantiest
+- scanting
+- scantling
+- scantly
+- scantness
+- scants

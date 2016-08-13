@@ -1,0 +1,23 @@
+---
+pattern: r_ide
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 504975
+score_per_word: 50497
+hi_scored_words:
+  radionuclide: 43971
+  rawhide: 36124
+  reside: 10608
+  ride: 1697
+  ringside: 53999
+  riptide: 70873
+  riverside: 12493
+  roadside: 14575
+scored_words:
+  regicide: 121299
+  rodenticide: 139336
+not_scored_words:
+- Ride
+- Riverside
+- redivide

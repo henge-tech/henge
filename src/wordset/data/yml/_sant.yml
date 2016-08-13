@@ -1,0 +1,36 @@
+---
+pattern: _sant
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 26
+score: 1479164
+score_per_word: 82175
+hi_scored_words:
+  antidepressant: 30072
+  conversant: 42841
+  croissant: 53722
+  depressant: 46656
+  incessant: 28679
+  passant: 83125
+  peasant: 11890
+  pheasant: 23894
+  pleasant: 2991
+  puissant: 96249
+  recusant: 76247
+  suppressant: 55211
+  unpleasant: 10400
+scored_words:
+  complaisant: 229237
+  convulsant: 272716
+  discussant: 110854
+  dispersant: 128017
+  immunosuppressant: 176363
+not_scored_words:
+- Besant
+- Maupassant
+- Stuyvesant
+- corposant
+- impuissant
+- malfeasant
+- naissant
+- obeisant

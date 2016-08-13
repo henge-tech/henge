@@ -1,0 +1,23 @@
+---
+pattern: e_ves
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 583186
+score_per_word: 53016
+hi_scored_words:
+  eaves: 30358
+  electives: 24776
+  elves: 21025
+  enclaves: 54247
+  eves: 56390
+  evolves: 33210
+  exclusives: 21771
+  executives: 16325
+  explosives: 16601
+scored_words:
+  enslaves: 206709
+  expletives: 101774
+not_scored_words:
+- endives
+- engraves

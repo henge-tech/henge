@@ -1,0 +1,48 @@
+---
+pattern: pr_ent
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 38
+score: 1575799
+score_per_word: 63031
+hi_scored_words:
+  precedent: 11681
+  predicament: 26699
+  preeminent: 42657
+  prepayment: 38777
+  prescient: 70059
+  present: 364
+  presentment: 63720
+  president: 962
+  pretreatment: 36404
+  prevalent: 11853
+  prevent: 1352
+  procurement: 16924
+  proficient: 16944
+  prominent: 4815
+  pronouncement: 59792
+  proponent: 26637
+  provident: 37426
+  prudent: 11650
+  prurient: 80861
+scored_words:
+  preadolescent: 216360
+  prearrangement: 320924
+  preferment: 111777
+  prejudgment: 145172
+  prepubescent: 108090
+  presentiment: 113899
+not_scored_words:
+- Privatdocent
+- preachment
+- preenlistment
+- preexistent
+- prefigurement
+- prepotent
+- preretirement
+- presentient
+- prevenient
+- procumbent
+- prodisarmament
+- profluent
+- progovernment

@@ -1,0 +1,27 @@
+---
+pattern: es_ed
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 754256
+score_per_word: 58019
+hi_scored_words:
+  escalated: 34306
+  escaped: 6864
+  eschewed: 73929
+  escorted: 18605
+  espoused: 42771
+  established: 1070
+  esteemed: 19742
+  estimated: 2099
+  estranged: 31709
+scored_words:
+  escheated: 121014
+  espied: 144499
+  essayed: 135093
+  esterified: 122555
+not_scored_words:
+- escalloped
+- escutcheoned
+- espaliered
+- estivated

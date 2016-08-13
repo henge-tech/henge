@@ -1,0 +1,27 @@
+---
+pattern: m_ure
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 17
+score: 909744
+score_per_word: 60649
+hi_scored_words:
+  manicure: 25059
+  manufacture: 5215
+  manure: 14382
+  mature: 3119
+  measure: 1518
+  microstructure: 41662
+  miniature: 12385
+  misadventure: 72616
+  mixture: 4161
+  moisture: 6206
+  monoculture: 87833
+  mure: 97496
+  musculature: 59457
+scored_words:
+  mariculture: 141621
+  misfeature: 337014
+not_scored_words:
+- McClure
+- multure

@@ -1,0 +1,22 @@
+---
+pattern: bli_d
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 12
+score: 608836
+score_per_word: 55348
+hi_scored_words:
+  blighted: 47246
+  blind: 2385
+  blinded: 17290
+  blindfold: 39686
+  blindfolded: 39336
+  blinked: 36967
+  blistered: 82439
+  blitzed: 85352
+  blizzard: 15250
+scored_words:
+  blindsided: 109983
+  blinkered: 132902
+not_scored_words:
+- blithered

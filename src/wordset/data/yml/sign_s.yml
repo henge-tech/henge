@@ -1,0 +1,29 @@
+---
+pattern: sign_s
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 1038318
+score_per_word: 86526
+hi_scored_words:
+  signals: 5222
+  signatories: 35147
+  signatures: 9792
+  signers: 51998
+  signifies: 11725
+  signings: 32870
+  signposts: 64599
+  signs: 1739
+scored_words:
+  signboards: 150219
+  signets: 258790
+  significances: 218582
+  significations: 197635
+not_scored_words:
+- signalers
+- signalizes
+- significs
+- signoras
+- signories
+- signorinas
+- signors

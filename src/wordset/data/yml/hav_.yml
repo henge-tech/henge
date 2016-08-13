@@ -1,0 +1,32 @@
+---
+pattern: hav_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 22
+score: 630965
+score_per_word: 52580
+hi_scored_words:
+  have: 22
+  havelock: 46229
+  haven: 5110
+  haven't: 1232
+  havens: 37283
+  haver: 81266
+  havering: 58422
+  haves: 33583
+  having: 303
+  havoc: 14386
+scored_words:
+  haversack: 179959
+  haversacks: 173170
+not_scored_words:
+- Havana
+- Havanan
+- Havanas
+- Havarti
+- Havel
+- Havering
+- Havoline
+- Havre
+- haversine
+- havildar

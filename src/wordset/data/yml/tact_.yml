@@ -1,0 +1,28 @@
+---
+pattern: tact_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 18
+score: 1017107
+score_per_word: 84758
+hi_scored_words:
+  tact: 21655
+  tactful: 59418
+  tactfully: 89429
+  tactic: 17294
+  tactical: 11917
+  tactically: 59799
+  tactician: 80436
+  tactics: 6752
+  tactile: 30894
+scored_words:
+  tacticians: 277557
+  tactless: 114874
+  tactual: 247082
+not_scored_words:
+- tactfulness
+- tactilely
+- tactility
+- taction
+- tactlessly
+- tactlessness

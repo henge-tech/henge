@@ -1,0 +1,51 @@
+---
+pattern: _ttle
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 41
+score: 2166756
+score_per_word: 69895
+hi_scored_words:
+  battle: 1255
+  belittle: 51847
+  bottle: 2556
+  brittle: 21405
+  cattle: 3842
+  kettle: 13651
+  little: 168
+  mettle: 45869
+  nettle: 36954
+  prattle: 70043
+  rattle: 16039
+  scuttle: 49855
+  settle: 4530
+  shuttle: 10504
+  spittle: 71700
+  tattle: 70743
+  throttle: 17843
+  tittle: 55914
+  wattle: 46680
+  whittle: 40343
+scored_words:
+  bluebottle: 126632
+  cuttle: 157515
+  fettle: 220747
+  kittle: 151837
+  lickspittle: 134423
+  mottle: 105980
+  pottle: 167391
+  resettle: 105669
+  skittle: 104153
+  teakettle: 132444
+  unsettle: 128224
+not_scored_words:
+- Battle
+- Doolittle
+- Little
+- Seattle
+- Whittle
+- dottle
+- embattle
+- guttle
+- twattle
+- vittle

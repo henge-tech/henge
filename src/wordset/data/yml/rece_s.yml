@@ -1,0 +1,28 @@
+---
+pattern: rece_s
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 18
+score: 590362
+score_per_word: 45412
+hi_scored_words:
+  recedes: 85380
+  receipts: 9218
+  receivables: 33104
+  receivers: 13300
+  receives: 4387
+  receptacles: 39965
+  receptionists: 78947
+  receptions: 22442
+  receptors: 8363
+  recess: 13762
+  recesses: 39947
+  recessions: 62707
+scored_words:
+  receptiveness: 178840
+not_scored_words:
+- recencies
+- recentness
+- recessionals
+- recessiveness
+- recessives

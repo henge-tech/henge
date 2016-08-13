@@ -1,0 +1,46 @@
+---
+pattern: ph_n
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 36
+score: 1408866
+score_per_word: 88054
+hi_scored_words:
+  phaeton: 50445
+  phenomenon: 5903
+  phon: 65731
+  phonon: 52237
+  phosphorylation: 21431
+  photoelectron: 84412
+  photon: 14346
+  physician: 2934
+  phytoplankton: 37160
+scored_words:
+  phenacetin: 225223
+  phenolphthalein: 175042
+  philodendron: 134790
+  phlogiston: 139898
+  phonation: 180956
+  phosphoprotein: 111969
+  photoemission: 106389
+not_scored_words:
+- Phaethon
+- Philadelphian
+- Philemon
+- Philippian
+- Phlegethon
+- Phoenician
+- Phrygian
+- phalansterian
+- phanotron
+- phenformin
+- pheon
+- philologian
+- phonetician
+- photocomposition
+- photoconduction
+- photodisintegration
+- photoduplication
+- photoneutron
+- phren
+- phthalein

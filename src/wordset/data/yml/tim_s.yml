@@ -1,0 +1,37 @@
+---
+pattern: tim_s
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 27
+score: 1427433
+score_per_word: 71371
+hi_scored_words:
+  timbers: 27200
+  timeless: 22841
+  timelines: 26452
+  timeliness: 30556
+  timeouts: 43620
+  timepieces: 57744
+  timers: 16066
+  times: 215
+  timescales: 50564
+  timeshares: 66056
+  timetables: 29370
+  timezones: 72617
+  timings: 34144
+  timorous: 93855
+scored_words:
+  timbales: 112955
+  timbres: 100205
+  timecards: 233117
+  timekeepers: 139200
+  timelessness: 102166
+  timeworks: 168490
+not_scored_words:
+- timberlines
+- timbrels
+- timeous
+- timeservers
+- timidness
+- timorousness
+- timpanists

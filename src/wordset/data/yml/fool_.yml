@@ -1,0 +1,26 @@
+---
+pattern: fool_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 16
+score: 709821
+score_per_word: 59151
+hi_scored_words:
+  fool: 3636
+  fooled: 17980
+  foolhardy: 62472
+  fooling: 30283
+  foolish: 8141
+  foolishly: 39157
+  foolishness: 30208
+  foolproof: 41427
+  fools: 7922
+  foolscap: 78888
+scored_words:
+  fooleries: 250584
+  foolery: 139123
+not_scored_words:
+- foolhardier
+- foolhardiest
+- foolhardily
+- foolhardiness

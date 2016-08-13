@@ -1,0 +1,22 @@
+---
+pattern: _dow
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 12
+score: 264410
+score_per_word: 29378
+hi_scored_words:
+  dow: 16011
+  endow: 48072
+  eyeshadow: 42014
+  foreshadow: 87674
+  meadow: 9140
+  overshadow: 51894
+  shadow: 2524
+  widow: 6475
+  window: 606
+scored_words: {}
+not_scored_words:
+- Dow
+- disendow
+- shopwindow

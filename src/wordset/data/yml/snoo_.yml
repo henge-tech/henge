@@ -1,0 +1,44 @@
+---
+pattern: snoo_
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 34
+score: 2020475
+score_per_word: 112248
+hi_scored_words:
+  snood: 94811
+  snook: 56127
+  snooker: 15092
+  snoop: 23332
+  snooper: 63031
+  snooping: 35905
+  snoopy: 30518
+  snooty: 62306
+  snooze: 30393
+scored_words:
+  snookered: 223903
+  snooks: 152169
+  snooped: 227000
+  snoopers: 140609
+  snoops: 114428
+  snoot: 175944
+  snoozer: 162289
+  snoozes: 305486
+  snoozing: 107132
+not_scored_words:
+- Snoopy
+- snoods
+- snookering
+- snookers
+- snooperscope
+- snoopier
+- snoopiest
+- snoopily
+- snoopiness
+- snootful
+- snootier
+- snootiest
+- snootily
+- snootiness
+- snoots
+- snoozed

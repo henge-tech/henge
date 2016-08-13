@@ -1,0 +1,33 @@
+---
+pattern: mil_e
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 23
+score: 723417
+score_per_word: 72341
+hi_scored_words:
+  mile: 2079
+  mileage: 15940
+  milestone: 18831
+  milkshake: 34610
+  millage: 95692
+  millionaire: 10906
+  millipede: 91768
+  millstone: 49777
+scored_words:
+  militarize: 303236
+  militate: 100578
+not_scored_words:
+- Milanese
+- Millie
+- Milne
+- Milwaukee
+- militance
+- millepore
+- millerite
+- milliampere
+- millieme
+- millime
+- milline
+- millième
+- millrace

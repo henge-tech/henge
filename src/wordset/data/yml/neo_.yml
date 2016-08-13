@@ -1,0 +1,73 @@
+---
+pattern: neo_
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 63
+score: 2391187
+score_per_word: 85399
+hi_scored_words:
+  neoclassical: 39132
+  neocon: 52502
+  neocons: 58689
+  neoconservative: 84035
+  neoconservatives: 90225
+  neodymium: 62995
+  neoliberal: 59067
+  neoliberalism: 76139
+  neolithic: 34841
+  neologisms: 91042
+  neomycin: 77357
+  neon: 13170
+  neonatal: 19378
+  neonate: 62729
+  neonates: 53032
+  neophyte: 55015
+  neoplasm: 32102
+  neoplasms: 18378
+  neoplastic: 43663
+  neoprene: 36142
+scored_words:
+  neoclassic: 162761
+  neoclassicism: 131988
+  neologism: 115369
+  neonatologist: 277000
+  neonatology: 103741
+  neophytes: 108108
+  neoteny: 262174
+  neoteric: 170413
+not_scored_words:
+- Neocene
+- Neoclassicism
+- Neogea
+- Neogene
+- Neolithic
+- Neoplatonism
+- Neoptolemus
+- Neotropical
+- neoarsphenamine
+- neoclassicist
+- neoclassicists
+- neocolonial
+- neocolonialism
+- neocolonialist
+- neocolonialists
+- neoconservativism
+- neoimpressionism
+- neoliberalisms
+- neoliberals
+- neolith
+- neoliths
+- neological
+- neologies
+- neologist
+- neologists
+- neologize
+- neology
+- neomycins
+- neonatally
+- neophilia
+- neoplasticism
+- neoplasty
+- neoterism
+- neoterize
+- neotype

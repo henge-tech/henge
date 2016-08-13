@@ -1,0 +1,36 @@
+---
+pattern: kna_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 26
+score: 1621696
+score_per_word: 115835
+hi_scored_words:
+  knack: 25292
+  knacker: 77942
+  knackered: 81414
+  knackers: 75603
+  knacks: 87898
+  knap: 94749
+  knapsack: 56117
+  knave: 48492
+scored_words:
+  knapping: 296719
+  knapsacks: 185445
+  knapweed: 133866
+  knavery: 227917
+  knaves: 103175
+  knavish: 127067
+not_scored_words:
+- Knapp
+- knackering
+- knackwurst
+- knackwursts
+- knapped
+- knaps
+- knapweeds
+- knar
+- knavishly
+- knavishness
+- knawel
+- knawels

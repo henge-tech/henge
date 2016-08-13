@@ -1,0 +1,30 @@
+---
+pattern: faci_
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 20
+score: 856755
+score_per_word: 47597
+hi_scored_words:
+  facial: 8535
+  facials: 22186
+  facies: 50747
+  facile: 33858
+  facilitate: 6275
+  facilitated: 16790
+  facilitates: 22649
+  facilitating: 17166
+  facilitation: 21455
+  facilitator: 17513
+  facilitators: 33604
+  facilities: 2981
+  facility: 2360
+  facing: 3505
+  facings: 96166
+scored_words:
+  facially: 118725
+  facilitative: 108007
+  facilitatory: 274233
+not_scored_words:
+- facilely
+- facileness

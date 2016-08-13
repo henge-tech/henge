@@ -1,0 +1,33 @@
+---
+pattern: _ema
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 23
+score: 1091530
+score_per_word: 72768
+hi_scored_words:
+  anathema: 38979
+  cinema: 13142
+  eczema: 23800
+  edema: 24946
+  emphysema: 31455
+  enema: 24087
+  erythema: 46976
+  extrema: 82270
+  schema: 12213
+scored_words:
+  bema: 121193
+  diastema: 108396
+  empyema: 125738
+  myxedema: 213380
+  treponema: 107676
+  ulema: 117279
+not_scored_words:
+- Hobbema
+- Ngaliema
+- Noxzema
+- blastema
+- chromonema
+- exanthema
+- protonema
+- seriema

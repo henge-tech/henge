@@ -1,0 +1,33 @@
+---
+pattern: clo_d
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 23
+score: 1056833
+score_per_word: 70455
+hi_scored_words:
+  cloaked: 49361
+  clobbered: 88185
+  clocked: 38853
+  clod: 68216
+  clogged: 34842
+  cloistered: 92778
+  cloned: 20625
+  closed: 1151
+  closeted: 62873
+  clothed: 17600
+  clotted: 82151
+  cloud: 3175
+  clouded: 33027
+scored_words:
+  clothbound: 194958
+  cloudland: 269038
+not_scored_words:
+- clomped
+- clonked
+- clopped
+- closefisted
+- closemouthed
+- clouted
+- clowned
+- cloyed

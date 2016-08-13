@@ -1,0 +1,40 @@
+---
+pattern: c_bs
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 30
+score: 1010927
+score_per_word: 56162
+hi_scored_words:
+  cabs: 27580
+  carbs: 15811
+  catacombs: 42098
+  celebs: 9753
+  cherubs: 50090
+  chubs: 80412
+  climbs: 22401
+  clubs: 3114
+  cobs: 78967
+  cobwebs: 48926
+  combs: 22495
+  crabs: 19396
+  cribs: 34562
+  crumbs: 22843
+  cubs: 12392
+  curbs: 43201
+scored_words:
+  coulombs: 233380
+  coxcombs: 243506
+not_scored_words:
+- CBS
+- Caribs
+- Combs
+- carobs
+- chemisorbs
+- cockscombs
+- confabs
+- corncobs
+- corymbs
+- cowherbs
+- cubebs
+- currycombs

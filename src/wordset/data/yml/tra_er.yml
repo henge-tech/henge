@@ -1,0 +1,45 @@
+---
+pattern: tra_er
+hi_scored_words_count: 19
+scored_words_count: 5
+total_words: 35
+score: 1412369
+score_per_word: 58848
+hi_scored_words:
+  tracer: 29205
+  tracker: 11311
+  trader: 7966
+  trailblazer: 39716
+  trailer: 4781
+  trainer: 10285
+  tranquilizer: 86334
+  transceiver: 32276
+  transcriber: 57443
+  transducer: 24133
+  transfer: 1997
+  transformer: 20523
+  transgender: 17644
+  transmitter: 13265
+  transponder: 36555
+  transporter: 21860
+  trapper: 32443
+  traveler: 6793
+  trawler: 43188
+scored_words:
+  trafficker: 106811
+  tramper: 279484
+  transposer: 164719
+  transputer: 145513
+  traverser: 218124
+not_scored_words:
+- traducer
+- trainbearer
+- trainspotter
+- trammeler
+- trampler
+- trampoliner
+- tranquiler
+- transferrer
+- transfuser
+- transmuter
+- trashier

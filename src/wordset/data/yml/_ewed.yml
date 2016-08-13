@@ -1,0 +1,41 @@
+---
+pattern: _ewed
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 31
+score: 1643126
+score_per_word: 74687
+hi_scored_words:
+  brewed: 28098
+  chewed: 34481
+  crewed: 64512
+  eschewed: 73929
+  interviewed: 10401
+  previewed: 55732
+  renewed: 6526
+  reviewed: 4113
+  screwed: 11618
+  sewed: 44404
+  shewed: 63215
+  skewed: 26264
+  spewed: 69118
+  stewed: 43459
+  viewed: 2506
+scored_words:
+  bedewed: 186049
+  hewed: 141344
+  mewed: 155844
+  mildewed: 224874
+  slewed: 126598
+  strewed: 144768
+  unscrewed: 125273
+not_scored_words:
+- beshrewed
+- bestrewed
+- clewed
+- corkscrewed
+- oversewed
+- resewed
+- rewed
+- sinewed
+- unrenewed

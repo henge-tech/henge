@@ -1,0 +1,29 @@
+---
+pattern: co_tory
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1393916
+score_per_word: 107224
+hi_scored_words:
+  compensatory: 26141
+  conciliatory: 50133
+  confirmatory: 61170
+  congratulatory: 65174
+  conservatory: 14815
+  consistory: 89123
+  contradictory: 15022
+  contributory: 39691
+scored_words:
+  commendatory: 114340
+  condemnatory: 235149
+  confiscatory: 221344
+  consolatory: 248538
+  copulatory: 213276
+not_scored_words:
+- comminatory
+- communicatory
+- confabulatory
+- consecratory
+- corroboratory
+- cosignatory

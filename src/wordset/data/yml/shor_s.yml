@@ -1,0 +1,31 @@
+---
+pattern: shor_s
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 21
+score: 1840251
+score_per_word: 108250
+hi_scored_words:
+  shorebirds: 71131
+  shorelines: 57717
+  shores: 7112
+  shortages: 25569
+  shortcomings: 18447
+  shortcuts: 10686
+  shortens: 66722
+  shortfalls: 47780
+  shortness: 34776
+  shorts: 13333
+scored_words:
+  shoreless: 206473
+  shortenings: 257421
+  shorthands: 341593
+  shorties: 104615
+  shortlists: 173863
+  shortsightedness: 197755
+  shortstops: 205258
+not_scored_words:
+- shortcakes
+- shortchanges
+- shorthorns
+- shortwaves

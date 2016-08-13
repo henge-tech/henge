@@ -1,0 +1,23 @@
+---
+pattern: inj_s
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 461840
+score_per_word: 51315
+hi_scored_words:
+  injections: 24463
+  injectors: 45397
+  injects: 66220
+  injunctions: 37946
+  injures: 48579
+  injuries: 7524
+  injurious: 26886
+  injustices: 42721
+scored_words:
+  injudicious: 162104
+not_scored_words:
+- injudiciousness
+- injurers
+- injuriousness
+- injuriousnesses

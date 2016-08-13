@@ -1,0 +1,62 @@
+---
+pattern: do_ng
+hi_scored_words_count: 25
+scored_words_count: 13
+total_words: 52
+score: 3371256
+score_per_word: 88717
+hi_scored_words:
+  docking: 18070
+  doctoring: 70172
+  documenting: 15945
+  dodging: 33601
+  dogging: 42129
+  doing: 474
+  dominating: 20597
+  domineering: 58832
+  donating: 17398
+  dong: 20323
+  donning: 63110
+  doodling: 93679
+  doping: 24814
+  dosing: 26065
+  doting: 81722
+  dotting: 96929
+  doubling: 17537
+  doubting: 33088
+  downgrading: 64105
+  downing: 16027
+  downloading: 5469
+  downplaying: 99656
+  downsizing: 35714
+  dowsing: 63544
+  dozing: 65404
+scored_words:
+  docketing: 217011
+  doddering: 187419
+  doffing: 139252
+  doling: 112500
+  dolling: 130508
+  domesticating: 205385
+  doming: 266117
+  dooming: 203501
+  douching: 132773
+  dousing: 157475
+  dovetailing: 200637
+  downshifting: 167845
+  downswing: 166429
+not_scored_words:
+- Dorking
+- dobbing
+- dogearing
+- doggoning
+- doglegging
+- dogmatizing
+- dogtrotting
+- dolloping
+- domiciling
+- donging
+- doorstepping
+- dossing
+- doweling
+- dowering

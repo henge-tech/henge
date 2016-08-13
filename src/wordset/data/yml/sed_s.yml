@@ -1,0 +1,31 @@
+---
+pattern: sed_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 1140179
+score_per_word: 103652
+hi_scored_words:
+  sedans: 38662
+  sedatives: 50628
+  sedges: 91980
+  sediments: 15416
+  seditious: 61087
+  seduces: 47168
+  seductions: 98057
+  seductress: 98094
+scored_words:
+  seducers: 271654
+  seductiveness: 266828
+  sedulous: 100605
+not_scored_words:
+- Seders
+- sedateness
+- sedates
+- sedentariness
+- seditiousness
+- seductresses
+- sedulities
+- sedulousness
+- sedulousnesses
+- sedums

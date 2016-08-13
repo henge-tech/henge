@@ -1,0 +1,34 @@
+---
+pattern: gna_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 24
+score: 1398414
+score_per_word: 107570
+hi_scored_words:
+  gnarled: 65173
+  gnarly: 62219
+  gnash: 96377
+  gnashing: 84029
+  gnat: 38561
+  gnats: 43371
+  gnaw: 65561
+  gnawed: 94884
+  gnawing: 55935
+scored_words:
+  gnarl: 204767
+  gnashed: 241658
+  gnatcatcher: 175379
+  gnaws: 170500
+not_scored_words:
+- gnarlier
+- gnarliest
+- gnarling
+- gnarls
+- gnashes
+- gnatcatchers
+- gnathic
+- gnathion
+- gnathonic
+- gnawer
+- gnawers

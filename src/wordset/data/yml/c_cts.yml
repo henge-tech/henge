@@ -1,0 +1,29 @@
+---
+pattern: c_cts
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 19
+score: 948290
+score_per_word: 59268
+hi_scored_words:
+  cataracts: 37459
+  collects: 13845
+  compacts: 49130
+  conducts: 15275
+  conflicts: 6286
+  connects: 10098
+  constructs: 20975
+  contacts: 6386
+  contracts: 3493
+  contradicts: 29850
+  convicts: 30726
+  corrects: 36668
+scored_words:
+  concocts: 223670
+  conjuncts: 179808
+  constricts: 174597
+  counteracts: 110024
+not_scored_words:
+- coacts
+- confects
+- convects

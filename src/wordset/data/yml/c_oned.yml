@@ -1,0 +1,31 @@
+---
+pattern: c_oned
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 21
+score: 1798311
+score_per_word: 105783
+hi_scored_words:
+  caparisoned: 76741
+  captioned: 34849
+  cautioned: 25546
+  championed: 45553
+  cloned: 20625
+  commissioned: 8178
+  conditioned: 13233
+  condoned: 56991
+  cordoned: 98950
+  cushioned: 36410
+scored_words:
+  chaperoned: 191551
+  cocooned: 192440
+  complexioned: 227032
+  coned: 162445
+  cottoned: 273058
+  crimsoned: 169189
+  crooned: 165520
+not_scored_words:
+- cannoned
+- cartooned
+- clarioned
+- crayoned

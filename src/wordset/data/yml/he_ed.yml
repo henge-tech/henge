@@ -1,0 +1,51 @@
+---
+pattern: he_ed
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 41
+score: 2094676
+score_per_word: 74809
+hi_scored_words:
+  headed: 4230
+  headlined: 55216
+  headquartered: 15593
+  healed: 17460
+  heaped: 35623
+  hearted: 15579
+  heartened: 83551
+  heated: 6392
+  heaved: 58562
+  hedged: 50788
+  heed: 14327
+  heeded: 51023
+  heeled: 44075
+  heightened: 15299
+  helped: 2020
+  hemmed: 51063
+  heralded: 38388
+  herded: 65923
+  herniated: 69853
+  hesitated: 21082
+scored_words:
+  headhunted: 240276
+  hearkened: 119075
+  heckled: 139284
+  hectored: 215906
+  hefted: 211347
+  helmeted: 116208
+  hewed: 141344
+  hexed: 195189
+not_scored_words:
+- headbutted
+- heavyhearted
+- hectographed
+- hedgehopped
+- heehawed
+- heisted
+- helicoptered
+- heliographed
+- hemorrhaged
+- hemstitched
+- hennaed
+- henpecked
+- heterodyned

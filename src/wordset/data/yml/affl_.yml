@@ -1,0 +1,23 @@
+---
+pattern: affl_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 488425
+score_per_word: 54269
+hi_scored_words:
+  afflict: 51131
+  afflicted: 17855
+  afflicting: 83681
+  affliction: 23809
+  afflictions: 50778
+  afflicts: 72761
+  affluence: 39012
+  affluent: 21826
+scored_words:
+  afflatus: 127572
+not_scored_words:
+- afflictive
+- afflictively
+- affluently
+- afflux

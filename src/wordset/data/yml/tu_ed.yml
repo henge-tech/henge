@@ -1,0 +1,29 @@
+---
+pattern: tu_ed
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 19
+score: 1521346
+score_per_word: 95084
+hi_scored_words:
+  tucked: 17549
+  tufted: 43098
+  tugged: 54787
+  tumbled: 25530
+  tumbleweed: 46098
+  tuned: 11608
+  tunneled: 94109
+  turbocharged: 62397
+  turned: 1016
+  tutored: 67528
+scored_words:
+  tubed: 123770
+  tuckered: 245754
+  turbaned: 220346
+  turfed: 208515
+  turreted: 189068
+  tusked: 110173
+not_scored_words:
+- turtlenecked
+- tussled
+- tutted

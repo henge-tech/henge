@@ -1,0 +1,35 @@
+---
+pattern: fini_
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 25
+score: 840537
+score_per_word: 52533
+hi_scored_words:
+  finial: 53351
+  finials: 68298
+  finicky: 64720
+  fining: 82073
+  finis: 63478
+  finish: 1915
+  finished: 1548
+  finisher: 35057
+  finishers: 32773
+  finishes: 11748
+  finishing: 5099
+  finite: 7776
+  finitely: 47774
+scored_words:
+  finical: 105586
+  finiteness: 111370
+  finitude: 147971
+not_scored_words:
+- Finisterre
+- finickier
+- finickiest
+- finickiness
+- finicking
+- finings
+- finises
+- finitenesses
+- finitudes

@@ -1,0 +1,25 @@
+---
+pattern: fr_on
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 598195
+score_per_word: 59819
+hi_scored_words:
+  fraction: 6977
+  fractionation: 44504
+  fragmentation: 17308
+  frequentation: 69295
+  friction: 10164
+  fructification: 93335
+  fruition: 28911
+  frustration: 17614
+scored_words:
+  fraternization: 187766
+  frisson: 122321
+not_scored_words:
+- Fredericton
+- Freemason
+- Freon
+- frication
+- fronton

@@ -1,0 +1,66 @@
+---
+pattern: _hone
+hi_scored_words_count: 22
+scored_words_count: 9
+total_words: 56
+score: 2700005
+score_per_word: 87096
+hi_scored_words:
+  anglophone: 72841
+  cellphone: 13757
+  earphone: 44508
+  francophone: 33534
+  freephone: 77715
+  gramophone: 42166
+  headphone: 17077
+  hone: 30341
+  megaphone: 50679
+  microphone: 18199
+  payphone: 48288
+  phone: 4194
+  polyphone: 63466
+  radiotelephone: 93841
+  saxophone: 15898
+  shone: 18696
+  smartphone: 10147
+  speakerphone: 37677
+  telephone: 1920
+  vibraphone: 63697
+  videophone: 97572
+  xylophone: 49341
+scored_words:
+  allophone: 276725
+  answerphone: 102338
+  homophone: 189831
+  hydrophone: 110268
+  interphone: 268197
+  mellophone: 281705
+  outshone: 168324
+  radiophone: 222138
+  sousaphone: 174925
+not_scored_words:
+- Anglophone
+- Dictaphone
+- Francophone
+- Gramophone
+- Graphophone
+- Persephone
+- Rhone
+- Shoshone
+- Tisiphone
+- aerophone
+- audiphone
+- chordophone
+- diaphone
+- electrophone
+- entryphone
+- heckelphone
+- iPhone
+- idiophone
+- membranophone
+- metallophone
+- ochone
+- sarrusophone
+- sulphone
+- telegraphone
+- thermophone

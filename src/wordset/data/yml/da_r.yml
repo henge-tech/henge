@@ -1,0 +1,55 @@
+---
+pattern: da_r
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 45
+score: 2337223
+score_per_word: 101618
+hi_scored_words:
+  dagger: 13800
+  damper: 29404
+  dancer: 8930
+  dander: 66999
+  danger: 2393
+  dapper: 41694
+  darker: 10734
+  darter: 65253
+  dasher: 55927
+  dater: 90884
+  dauber: 85547
+  daughter: 1296
+  daystar: 73788
+  dazzler: 97794
+scored_words:
+  dabbler: 177111
+  dafter: 309256
+  damar: 131886
+  dampener: 130423
+  dangler: 165964
+  danker: 222778
+  darner: 186214
+  daydreamer: 116996
+  dayflower: 252152
+not_scored_words:
+- DAR
+- Dagmar
+- Daimler
+- Dakar
+- Daladier
+- Dampier
+- Darfur
+- Dartmoor
+- Daumier
+- dabber
+- dabster
+- daffier
+- daintier
+- dallier
+- dammar
+- dandier
+- danseur
+- dapperer
+- darer
+- darkener
+- darneder
+- dawdler

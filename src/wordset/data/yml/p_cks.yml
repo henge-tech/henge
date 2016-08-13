@@ -1,0 +1,36 @@
+---
+pattern: p_cks
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 26
+score: 1665838
+score_per_word: 104114
+hi_scored_words:
+  packs: 6461
+  paddocks: 70071
+  padlocks: 71169
+  paperbacks: 17059
+  paychecks: 40861
+  peacocks: 56631
+  pecks: 92383
+  picks: 5228
+  pricks: 54658
+  pucks: 62620
+scored_words:
+  paybacks: 138234
+  piggybacks: 262047
+  playbacks: 218188
+  plucks: 115332
+  potlucks: 170602
+  pullbacks: 284294
+not_scored_words:
+- penstocks
+- petcocks
+- piddocks
+- pillocks
+- pinchbecks
+- pinpricks
+- placekicks
+- pocks
+- politicks
+- pollacks

@@ -1,0 +1,30 @@
+---
+pattern: wi_l
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 20
+score: 642671
+score_per_word: 49436
+hi_scored_words:
+  wildfowl: 87268
+  wilful: 40382
+  will: 33
+  willful: 31600
+  windchill: 37636
+  windfall: 32237
+  windmill: 21684
+  windowsill: 66137
+  wishful: 33131
+  wistful: 42163
+  withal: 36396
+  withdrawal: 6695
+scored_words:
+  wittol: 207309
+not_scored_words:
+- Wiesel
+- Wiesenthal
+- Will
+- Winchell
+- windgall
+- windsail
+- winterkill

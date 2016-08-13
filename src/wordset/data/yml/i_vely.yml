@@ -1,0 +1,46 @@
+---
+pattern: i_vely
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 36
+score: 3330387
+score_per_word: 151381
+hi_scored_words:
+  imaginatively: 74311
+  impressively: 43649
+  impulsively: 81832
+  inductively: 65033
+  inexpensively: 54633
+  inquisitively: 89937
+  instinctively: 24366
+  intensively: 34962
+  interactively: 48832
+  intuitively: 27493
+  iteratively: 75169
+scored_words:
+  impassively: 202866
+  imperatively: 165371
+  incisively: 290070
+  inclusively: 155010
+  ineffectively: 158402
+  informatively: 340611
+  insensitively: 265779
+  interrogatively: 195990
+  intrusively: 340411
+  inventively: 279849
+  irrespectively: 315811
+not_scored_words:
+- illusively
+- illustratively
+- imitatively
+- implicatively
+- inactively
+- inattentively
+- inconclusively
+- indecisively
+- indicatively
+- inoffensively
+- instructively
+- interpretively
+- intransitively
+- introspectively

@@ -1,0 +1,41 @@
+---
+pattern: _ntic
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 31
+score: 2341225
+score_per_word: 111486
+hi_scored_words:
+  antic: 63183
+  authentic: 5753
+  frantic: 16089
+  gigantic: 10307
+  orthodontic: 41974
+  pedantic: 27185
+  quantic: 82435
+  romantic: 3317
+  semantic: 12969
+  transatlantic: 24873
+scored_words:
+  anthelmintic: 168558
+  argentic: 223080
+  crescentic: 278368
+  endodontic: 100484
+  inauthentic: 148430
+  mantic: 176679
+  necromantic: 175386
+  ontic: 275972
+  quintic: 210806
+  sycophantic: 126026
+  unromantic: 169351
+not_scored_words:
+- Anacreontic
+- Atlantic
+- Pontic
+- Romantic
+- Vedantic
+- corybantic
+- geomantic
+- identic
+- lentic
+- unauthentic

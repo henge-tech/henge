@@ -1,0 +1,40 @@
+---
+pattern: unc_e
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 30
+score: 2293039
+score_per_word: 127391
+hi_scored_words:
+  unchangeable: 65388
+  uncle: 3382
+  uncomfortable: 7825
+  uncompetitive: 99022
+  unconscionable: 52793
+  uncontrollable: 28120
+  uncooperative: 62797
+  uncountable: 71993
+scored_words:
+  unchallengeable: 209619
+  uncharitable: 143259
+  unchaste: 217387
+  unclassifiable: 118946
+  unclose: 284095
+  uncommunicative: 197008
+  unconquerable: 104548
+  uncorrectable: 265137
+  uncouple: 189795
+  uncreative: 171925
+not_scored_words:
+- uncheckable
+- uncinate
+- unclimbable
+- unclothe
+- uncompromisable
+- unconceivable
+- unconformable
+- uncontainable
+- unconvertible
+- uncrate
+- uncrossable
+- uncrushable

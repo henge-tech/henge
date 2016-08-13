@@ -1,0 +1,57 @@
+---
+pattern: wi_ed
+hi_scored_words_count: 18
+scored_words_count: 12
+total_words: 47
+score: 2903024
+score_per_word: 96767
+hi_scored_words:
+  wicked: 4703
+  widened: 25338
+  widowed: 24582
+  wielded: 47825
+  wiggled: 98326
+  willed: 32350
+  wilted: 66353
+  winced: 60363
+  winded: 39522
+  windowed: 62978
+  winged: 18887
+  winked: 51548
+  wiped: 12151
+  wired: 9604
+  wished: 5954
+  withered: 31115
+  witnessed: 7852
+  witted: 60407
+scored_words:
+  wigged: 211565
+  wimped: 309257
+  winched: 227598
+  wined: 158256
+  winnowed: 206302
+  wintered: 121159
+  winterized: 232198
+  wirehaired: 145153
+  wiretapped: 212257
+  wised: 184154
+  witched: 132528
+  wizened: 102739
+not_scored_words:
+- Wilfred
+- Winfred
+- Winifred
+- widemouthed
+- wigwagged
+- wildcatted
+- wiled
+- wimpled
+- windburned
+- windmilled
+- windsurfed
+- winkled
+- winterfeed
+- wisecracked
+- withed
+- wittered
+- wived

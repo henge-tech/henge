@@ -1,0 +1,44 @@
+---
+pattern: fluo_
+hi_scored_words_count: 11
+scored_words_count: 13
+total_words: 34
+score: 3086612
+score_per_word: 128608
+hi_scored_words:
+  fluor: 56672
+  fluorescein: 59283
+  fluorescence: 16713
+  fluorescent: 15098
+  fluoridation: 63824
+  fluoride: 21037
+  fluorides: 83366
+  fluorine: 40619
+  fluorite: 62589
+  fluoroscope: 95986
+  fluoroscopy: 93068
+scored_words:
+  fluorene: 239933
+  fluoresce: 140787
+  fluoresceins: 244199
+  fluorescing: 279677
+  fluoric: 223309
+  fluoridated: 110328
+  fluorination: 317652
+  fluorocarbon: 107440
+  fluorocarbons: 189307
+  fluorometer: 198073
+  fluoroscopic: 130061
+  fluorosis: 122637
+  fluorspar: 174954
+not_scored_words:
+- fluoresced
+- fluoresces
+- fluoridate
+- fluoridates
+- fluoridating
+- fluorinate
+- fluoroscopes
+- fluoroscopies
+- fluors
+- fluorspars

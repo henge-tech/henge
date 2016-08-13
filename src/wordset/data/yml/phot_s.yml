@@ -1,0 +1,47 @@
+---
+pattern: phot_s
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 37
+score: 1283939
+score_per_word: 91709
+hi_scored_words:
+  photocopiers: 70426
+  photocopies: 43493
+  photographers: 15769
+  photographs: 4392
+  photolysis: 87704
+  photons: 23409
+  photos: 9336
+  photosynthesis: 29200
+scored_words:
+  photocells: 221773
+  photoelectrons: 186408
+  photojournalists: 121094
+  photometers: 226369
+  photomicrographs: 141076
+  phots: 103490
+not_scored_words:
+- Photostats
+- photocathodes
+- photochemistries
+- photoconductivities
+- photodynamics
+- photoemissions
+- photoengravers
+- photoengraves
+- photoengravings
+- photoflashes
+- photofloods
+- photogravures
+- photokinesis
+- photolithographies
+- photomontages
+- photophilous
+- photosensitivities
+- photosensitizes
+- photostats
+- photosynthesizes
+- phototaxis
+- phototonus
+- phototropisms

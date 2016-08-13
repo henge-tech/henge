@@ -1,0 +1,22 @@
+---
+pattern: mas_ed
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 690870
+score_per_word: 69087
+hi_scored_words:
+  mashed: 20767
+  masked: 15199
+  massacred: 48041
+  massaged: 62775
+  massed: 50387
+  mastered: 17031
+  masterminded: 93814
+  masturbated: 88780
+scored_words:
+  masqueraded: 190652
+  masted: 103424
+not_scored_words:
+- mascaraed
+- masticated

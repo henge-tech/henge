@@ -1,0 +1,45 @@
+---
+pattern: wi_rs
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 35
+score: 2369566
+score_per_word: 124714
+hi_scored_words:
+  widowers: 76089
+  wildflowers: 32144
+  winders: 63526
+  winemakers: 65508
+  wingers: 44745
+  winners: 9346
+  winters: 12404
+  wipers: 30083
+  wishers: 84024
+  withers: 28810
+scored_words:
+  wickers: 152515
+  wielders: 239620
+  wieners: 125835
+  wigglers: 200501
+  windbreakers: 192033
+  windjammers: 318164
+  windsurfers: 138587
+  winegrowers: 225259
+  witters: 330373
+not_scored_words:
+- Winchesters
+- Windsors
+- Winters
+- wicketkeepers
+- wideners
+- wildcatters
+- windcheaters
+- windflowers
+- winkers
+- winnowers
+- wirehairs
+- wiretappers
+- wisenheimers
+- witchdoctors
+- withindoors
+- withoutdoors

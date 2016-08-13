@@ -1,0 +1,33 @@
+---
+pattern: hu_t
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 23
+score: 1143414
+score_per_word: 95284
+hi_scored_words:
+  humanist: 34252
+  humblest: 96375
+  humorist: 57411
+  hundredweight: 93607
+  hunt: 3158
+  hurst: 24789
+  hurt: 2398
+  hut: 7076
+scored_words:
+  hugest: 140902
+  humectant: 256767
+  humidistat: 142817
+  hungriest: 283862
+not_scored_words:
+- Hubert
+- Huguenot
+- Humboldt
+- Hunt
+- Hurst
+- huffiest
+- hulkiest
+- humanest
+- hunkiest
+- huskiest
+- hutment

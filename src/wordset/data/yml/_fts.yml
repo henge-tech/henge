@@ -1,0 +1,72 @@
+---
+pattern: _fts
+hi_scored_words_count: 21
+scored_words_count: 23
+total_words: 62
+score: 5380723
+score_per_word: 122289
+hi_scored_words:
+  camshafts: 97425
+  clefts: 88144
+  crafts: 8339
+  crofts: 61216
+  drafts: 14749
+  drifts: 35943
+  forklifts: 62120
+  gifts: 1629
+  grafts: 36099
+  handicrafts: 31182
+  lifts: 9192
+  lofts: 34082
+  overdrafts: 74785
+  rafts: 37803
+  redshifts: 94468
+  rifts: 56482
+  shafts: 22505
+  shifts: 9389
+  swifts: 64638
+  thefts: 37152
+  tufts: 21921
+scored_words:
+  airlifts: 278461
+  autografts: 292447
+  chairlifts: 179399
+  crankshafts: 127032
+  crufts: 131334
+  downdrafts: 303499
+  downshifts: 321072
+  driveshafts: 211221
+  efts: 144596
+  facelifts: 119071
+  handcrafts: 104620
+  hovercrafts: 196538
+  krafts: 266169
+  lefts: 106321
+  needlecrafts: 239704
+  sifts: 169291
+  snowdrifts: 240956
+  spacecrafts: 200714
+  thrifts: 109012
+  updrafts: 214162
+  uplifts: 138083
+  wafts: 141169
+  wefts: 246589
+not_scored_words:
+- aftershafts
+- candytufts
+- cocklofts
+- engrafts
+- gearshifts
+- hafts
+- haylofts
+- hefts
+- heterografts
+- homografts
+- ingrafts
+- makeshifts
+- priestcrafts
+- redrafts
+- shoplifts
+- spendthrifts
+- spindrifts
+- spoondrifts

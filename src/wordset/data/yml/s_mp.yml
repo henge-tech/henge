@@ -1,0 +1,24 @@
+---
+pattern: s_mp
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 14
+score: 420366
+score_per_word: 38215
+hi_scored_words:
+  scamp: 28442
+  shrimp: 14543
+  simp: 39660
+  skimp: 68765
+  slump: 28773
+  stamp: 4995
+  stomp: 21992
+  stump: 15676
+  sump: 33812
+  swamp: 9352
+scored_words:
+  scrimp: 154356
+not_scored_words:
+- scrump
+- streetlamp
+- sunlamp

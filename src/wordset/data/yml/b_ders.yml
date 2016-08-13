@@ -1,0 +1,43 @@
+---
+pattern: b_ders
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 33
+score: 1842114
+score_per_word: 76754
+hi_scored_words:
+  backgrounders: 68871
+  bartenders: 42319
+  benders: 52882
+  bidders: 20329
+  binders: 25713
+  birders: 71152
+  bladders: 73785
+  blenders: 43436
+  blinders: 81174
+  blunders: 39197
+  boarders: 40058
+  bodybuilders: 41185
+  bondholders: 68104
+  borders: 4783
+  boulders: 27508
+  breeders: 20287
+  builders: 6891
+  bystanders: 43537
+scored_words:
+  backsliders: 288733
+  beholders: 153771
+  bewilders: 100863
+  bleeders: 176692
+  bookbinders: 116018
+  branders: 234826
+not_scored_words:
+- Borders
+- backhanders
+- bandleaders
+- bedders
+- blockaders
+- bobsledders
+- bounders
+- broiders
+- brooders

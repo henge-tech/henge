@@ -1,0 +1,24 @@
+---
+pattern: im_ce
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 14
+score: 838316
+score_per_word: 69859
+hi_scored_words:
+  imbalance: 18293
+  impatience: 26251
+  impedance: 17373
+  impermanence: 93086
+  impertinence: 90178
+  importance: 1647
+  impotence: 18778
+  impudence: 69683
+scored_words:
+  immanence: 123557
+  imminence: 128021
+  improvidence: 118852
+  imprudence: 132597
+not_scored_words:
+- impenitence
+- impuissance

@@ -1,0 +1,39 @@
+---
+pattern: infr_
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 29
+score: 1048470
+score_per_word: 58248
+hi_scored_words:
+  infra: 22437
+  infraction: 35039
+  infractions: 49449
+  infrared: 12422
+  infrastructural: 60054
+  infrastructure: 13482
+  infrastructures: 22773
+  infrequent: 28905
+  infrequently: 29845
+  infringe: 26054
+  infringed: 39758
+  infringement: 7513
+  infringements: 49379
+  infringer: 84963
+  infringes: 59452
+  infringing: 32517
+scored_words:
+  infrasonic: 271979
+  infrequency: 202449
+not_scored_words:
+- infracostal
+- infract
+- infracted
+- infracting
+- infractor
+- infracts
+- infralapsarian
+- infrangibility
+- infrangible
+- infrangibly
+- infrequence

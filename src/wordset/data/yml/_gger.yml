@@ -1,0 +1,63 @@
+---
+pattern: _gger
+hi_scored_words_count: 23
+scored_words_count: 14
+total_words: 53
+score: 3634198
+score_per_word: 98221
+hi_scored_words:
+  bagger: 64212
+  bigger: 3506
+  blogger: 5286
+  bugger: 32313
+  carpetbagger: 83036
+  dagger: 13800
+  debugger: 27960
+  digger: 24710
+  egger: 82716
+  gravedigger: 88889
+  hugger: 50930
+  jigger: 76045
+  jogger: 40515
+  logger: 28176
+  mugger: 52929
+  nigger: 19398
+  outrigger: 47229
+  rigger: 60314
+  slugger: 38884
+  stagger: 40606
+  swagger: 41770
+  tagger: 73434
+  trigger: 7510
+scored_words:
+  agger: 136020
+  bootlegger: 120325
+  chigger: 219665
+  defogger: 187138
+  dogger: 110338
+  dragger: 178600
+  flagger: 228650
+  flogger: 137793
+  gagger: 280445
+  lagger: 325983
+  lugger: 107187
+  rugger: 174897
+  snigger: 127704
+  snugger: 295285
+not_scored_words:
+- Fugger
+- Heidegger
+- Honegger
+- Jagger
+- Schwarzenegger
+- Winnipegger
+- bragger
+- hogger
+- humbugger
+- jitterbugger
+- nagger
+- pettifogger
+- rejigger
+- sandbagger
+- smugger
+- zigzagger

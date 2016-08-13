@@ -1,0 +1,30 @@
+---
+pattern: _rved
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 20
+score: 735523
+score_per_word: 45970
+hi_scored_words:
+  carved: 7238
+  conserved: 22960
+  curved: 9430
+  deserved: 9175
+  observed: 1770
+  preserved: 5448
+  reserved: 1731
+  served: 1385
+  starved: 27682
+  swerved: 73830
+  undeserved: 54265
+  unnerved: 87691
+  unobserved: 46082
+  unreserved: 61483
+scored_words:
+  nerved: 157805
+  recurved: 167548
+not_scored_words:
+- decurved
+- excurved
+- subserved
+- unpreserved

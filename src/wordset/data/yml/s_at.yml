@@ -1,0 +1,54 @@
+---
+pattern: s_at
+hi_scored_words_count: 21
+scored_words_count: 7
+total_words: 44
+score: 1853718
+score_per_word: 66204
+hi_scored_words:
+  sailboat: 28708
+  samizdat: 83377
+  sat: 4591
+  scapegoat: 37889
+  scat: 17246
+  seat: 1510
+  secretariat: 12718
+  shat: 55295
+  showboat: 75079
+  skat: 98375
+  slat: 47655
+  somewhat: 2158
+  spat: 23764
+  speedboat: 71865
+  splat: 38249
+  sprat: 89180
+  squat: 19577
+  stat: 13126
+  steamboat: 19372
+  swat: 19612
+  sweat: 6669
+scored_words:
+  shoat: 170612
+  stoat: 102107
+  stonechat: 177443
+  sugarcoat: 216006
+  summat: 136706
+  superheat: 172580
+  sweetmeat: 112249
+not_scored_words:
+- SAT
+- SWAT
+- Sabbat
+- Sadat
+- Sat
+- Scheat
+- Secretariat
+- Seurat
+- Shabbat
+- Shebat
+- Shevat
+- Surat
+- Swat
+- siderostat
+- sunhat
+- surfboat

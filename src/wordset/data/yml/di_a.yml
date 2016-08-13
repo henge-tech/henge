@@ -1,0 +1,35 @@
+---
+pattern: di_a
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 25
+score: 1324104
+score_per_word: 88273
+hi_scored_words:
+  diarrhea: 15056
+  diaspora: 23487
+  dicta: 67426
+  dilemma: 10587
+  diorama: 48594
+  diphtheria: 35614
+  diploma: 11119
+  diva: 16155
+scored_words:
+  diastema: 108396
+  dicentra: 210381
+  differentia: 179489
+  digamma: 131694
+  diplopia: 125433
+  dipsomania: 162057
+  diverticula: 178616
+not_scored_words:
+- Diana
+- Dianna
+- Diaspora
+- Dijkstra
+- Dina
+- Dinka
+- Dionysia
+- dianoia
+- diplegia
+- diplomata

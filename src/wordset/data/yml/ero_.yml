@@ -1,0 +1,33 @@
+---
+pattern: ero_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 23
+score: 1150077
+score_per_word: 76671
+hi_scored_words:
+  erode: 29829
+  eroded: 24409
+  erodes: 81362
+  eroding: 43627
+  erogenous: 97334
+  erosion: 12900
+  erosive: 85564
+  erotic: 8885
+  erotica: 18452
+  eroticism: 60207
+scored_words:
+  erodible: 196847
+  erosional: 111829
+  erotically: 139625
+  erotics: 121273
+  erotomania: 117934
+not_scored_words:
+- Eros
+- Eroses
+- erogenic
+- erose
+- erosionally
+- erosiveness
+- eroticist
+- erotogenic

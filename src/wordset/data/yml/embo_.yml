@@ -1,0 +1,49 @@
+---
+pattern: embo_
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 39
+score: 2268193
+score_per_word: 98617
+hi_scored_words:
+  embodied: 17917
+  embodies: 30103
+  embodiment: 14453
+  embodiments: 56883
+  embody: 25760
+  embodying: 50230
+  emboldened: 60805
+  embolism: 35292
+  embolization: 69490
+  emboss: 74677
+  embossed: 26091
+  embossing: 49674
+scored_words:
+  embolden: 107233
+  emboldening: 335001
+  emboldens: 286697
+  emboli: 112198
+  embolic: 126781
+  embolus: 103751
+  embonpoint: 179361
+  embosser: 118320
+  embossers: 117439
+  embouchure: 113043
+  embowered: 156994
+not_scored_words:
+- embolectomies
+- embolectomy
+- embolisms
+- emboluses
+- emboly
+- embonpoints
+- embosom
+- embosses
+- embossment
+- embossments
+- embow
+- embowed
+- embowel
+- embower
+- embowering
+- embowers

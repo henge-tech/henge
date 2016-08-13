@@ -1,0 +1,25 @@
+---
+pattern: ha_rd
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 433876
+score_per_word: 48208
+hi_scored_words:
+  haggard: 26623
+  halyard: 85289
+  haphazard: 40872
+  hard: 304
+  hardboard: 94700
+  harpsichord: 34461
+  hayward: 19951
+  hazard: 6041
+scored_words:
+  halberd: 125635
+not_scored_words:
+- Haggard
+- Hansard
+- Hartford
+- Harvard
+- Hayward
+- hangbird

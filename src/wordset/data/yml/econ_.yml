@@ -1,0 +1,33 @@
+---
+pattern: econ_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 23
+score: 891591
+score_per_word: 59439
+hi_scored_words:
+  econ: 16369
+  econometric: 33090
+  econometrics: 36134
+  economic: 1343
+  economical: 10648
+  economically: 11800
+  economics: 6175
+  economies: 10149
+  economist: 13597
+  economists: 15496
+  economize: 82717
+  economy: 1836
+scored_words:
+  econometrician: 322427
+  economizer: 152828
+  economizing: 176982
+not_scored_words:
+- econometrical
+- econometricians
+- econometrist
+- economism
+- economization
+- economized
+- economizers
+- economizes

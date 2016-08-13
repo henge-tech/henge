@@ -1,0 +1,35 @@
+---
+pattern: free_s
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 25
+score: 1511594
+score_per_word: 94474
+hi_scored_words:
+  freebies: 19768
+  freedoms: 19033
+  freeholders: 80893
+  freelancers: 32784
+  frees: 26989
+  freeways: 43608
+  freezers: 27023
+  freezes: 26425
+scored_words:
+  freebooters: 102560
+  freelances: 280146
+  freeloaders: 134848
+  freeness: 160530
+  freesias: 196925
+  freestyles: 110062
+  freethinkers: 115620
+  freewheels: 134380
+not_scored_words:
+- Freemasonries
+- Freemasons
+- freebases
+- freebees
+- freehandedness
+- freeholds
+- freeloads
+- freemasonries
+- freestones

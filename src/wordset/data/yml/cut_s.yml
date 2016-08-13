@@ -1,0 +1,36 @@
+---
+pattern: cut_s
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 26
+score: 1665329
+score_per_word: 92518
+hi_scored_words:
+  cutaneous: 29494
+  cutbacks: 42124
+  cuteness: 58396
+  cuties: 29817
+  cutlass: 39792
+  cutlets: 77217
+  cutoffs: 85184
+  cutouts: 43021
+  cuts: 4279
+  cutters: 20984
+  cuttings: 25507
+scored_words:
+  cutaways: 190290
+  cuticles: 101895
+  cutis: 105789
+  cutlasses: 252868
+  cutlers: 225235
+  cutthroats: 120585
+  cutworms: 212852
+not_scored_words:
+- cutches
+- cuteys
+- cutises
+- cutpurses
+- cuttlefishes
+- cuttles
+- cutups
+- cutworks

@@ -1,0 +1,42 @@
+---
+pattern: pub_
+hi_scored_words_count: 26
+scored_words_count: 4
+total_words: 32
+score: 1373505
+score_per_word: 45783
+hi_scored_words:
+  pub: 3513
+  puberty: 20690
+  pubes: 46015
+  pubescent: 46133
+  pubic: 24643
+  pubis: 86833
+  publ: 21366
+  public: 158
+  publican: 65901
+  publicans: 99053
+  publication: 1829
+  publications: 2745
+  publicist: 38729
+  publicists: 75752
+  publicity: 7550
+  publicize: 35316
+  publicized: 26806
+  publicizing: 62678
+  publicly: 5132
+  publish: 4520
+  published: 782
+  publisher: 5936
+  publishers: 4006
+  publishes: 16014
+  publishing: 3461
+  pubs: 7945
+scored_words:
+  pubertal: 113082
+  pubescence: 212623
+  publicizes: 225961
+  publishable: 108333
+not_scored_words:
+- puberulent
+- publicness

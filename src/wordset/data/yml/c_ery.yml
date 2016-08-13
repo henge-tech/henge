@@ -1,0 +1,42 @@
+---
+pattern: c_ery
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 32
+score: 1617452
+score_per_word: 77021
+hi_scored_words:
+  cannery: 55580
+  cattery: 66278
+  celery: 18368
+  cemetery: 5382
+  chancellery: 90140
+  chancery: 25499
+  chandlery: 88749
+  cheery: 35930
+  chicanery: 88157
+  colliery: 40173
+  confectionery: 33298
+  cookery: 20591
+  creamery: 47796
+  crockery: 32692
+  cutlery: 21754
+scored_words:
+  cajolery: 195706
+  carvery: 121829
+  cautery: 114790
+  comradery: 275331
+  coppery: 128543
+  cryosurgery: 110866
+not_scored_words:
+- Cauvery
+- Connery
+- caravansery
+- carpetbaggery
+- charactery
+- cindery
+- clownery
+- comstockery
+- connivery
+- coopery
+- curriery

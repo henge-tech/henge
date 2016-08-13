@@ -1,0 +1,29 @@
+---
+pattern: fea_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 19
+score: 735810
+score_per_word: 66891
+hi_scored_words:
+  fearless: 21035
+  fearlessness: 91219
+  fears: 4775
+  feasts: 31950
+  feathers: 11078
+  feats: 25877
+  featureless: 81066
+  features: 736
+  featurettes: 88171
+scored_words:
+  fearfulness: 212265
+  featherbeds: 167638
+not_scored_words:
+- fearsomeness
+- feasibleness
+- feasiblenesses
+- feasters
+- feastings
+- featherings
+- featherless
+- featherweights

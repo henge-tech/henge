@@ -1,0 +1,45 @@
+---
+pattern: _unts
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 35
+score: 1983559
+score_per_word: 79342
+hi_scored_words:
+  accounts: 1689
+  amounts: 2211
+  aunts: 27697
+  blunts: 41933
+  counts: 4685
+  cunts: 19153
+  discounts: 14785
+  grunts: 40940
+  haunts: 34982
+  hunts: 19804
+  mounts: 11437
+  punts: 45197
+  recounts: 32654
+  shunts: 82181
+  stunts: 25261
+  taunts: 54222
+scored_words:
+  bunts: 198907
+  catamounts: 110640
+  dismounts: 210241
+  flaunts: 138129
+  founts: 167539
+  headcounts: 321424
+  jaunts: 102437
+  runts: 149222
+  seamounts: 126189
+not_scored_words:
+- daunts
+- foxhunts
+- grandaunts
+- headhunts
+- manhunts
+- miscounts
+- remounts
+- surmounts
+- vaunts
+- viscounts

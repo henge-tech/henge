@@ -1,0 +1,37 @@
+---
+pattern: re_ying
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 27
+score: 1683078
+score_per_word: 120219
+hi_scored_words:
+  readying: 73660
+  rectifying: 71769
+  relaying: 44240
+  relying: 9168
+  remedying: 84168
+  repaying: 58904
+  replaying: 74013
+  replying: 15642
+scored_words:
+  reapplying: 166518
+  reclassifying: 190469
+  redeploying: 197632
+  reifying: 310863
+  remarrying: 247757
+  retrying: 138275
+not_scored_words:
+- reburying
+- recopying
+- reembodying
+- reemploying
+- refortifying
+- reoccupying
+- respraying
+- restudying
+- resupplying
+- resurveying
+- retying
+- reunifying
+- revivifying

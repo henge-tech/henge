@@ -1,0 +1,24 @@
+---
+pattern: s_line
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 14
+score: 787922
+score_per_word: 65660
+hi_scored_words:
+  saline: 18005
+  shoreline: 18178
+  sideline: 28607
+  skyline: 23081
+  slimline: 50269
+  spline: 35782
+  storyline: 16061
+  streamline: 20145
+scored_words:
+  scoreline: 105099
+  sibylline: 104999
+  snowline: 219902
+  subdiscipline: 147794
+not_scored_words:
+- scopoline
+- silkaline

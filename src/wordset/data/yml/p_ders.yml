@@ -1,0 +1,29 @@
+---
+pattern: p_ders
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 19
+score: 1526705
+score_per_word: 109050
+hi_scored_words:
+  pathfinders: 68411
+  placeholders: 73390
+  policyholders: 48247
+  ponders: 48320
+  pounders: 84127
+  powders: 24252
+  pretenders: 45055
+  providers: 11726
+scored_words:
+  panders: 194088
+  persuaders: 136416
+  plunders: 258451
+  potholders: 190562
+  promenaders: 237830
+  proofreaders: 105830
+not_scored_words:
+- paraders
+- philanders
+- pleaders
+- plodders
+- pomanders

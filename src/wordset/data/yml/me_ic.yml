@@ -1,0 +1,67 @@
+---
+pattern: me_ic
+hi_scored_words_count: 18
+scored_words_count: 14
+total_words: 57
+score: 3639419
+score_per_word: 113731
+hi_scored_words:
+  mechanic: 9931
+  mechanistic: 41270
+  medic: 21993
+  megalithic: 56588
+  meiotic: 71112
+  melancholic: 53649
+  melodic: 25116
+  melodramatic: 43277
+  mercuric: 80143
+  mesic: 91293
+  messianic: 35225
+  metabolic: 14184
+  metallic: 7677
+  metamorphic: 41287
+  metaphoric: 85338
+  metastatic: 25437
+  meteoric: 59414
+  metric: 13678
+scored_words:
+  memetic: 113910
+  mephitic: 168213
+  meritocratic: 186238
+  meromorphic: 163705
+  mesencephalic: 203271
+  mesmeric: 146844
+  mesospheric: 247189
+  metalinguistic: 241782
+  metaphysic: 151739
+  meteoritic: 182992
+  methodic: 277527
+  metic: 213027
+  metonymic: 259995
+  metronomic: 306375
+not_scored_words:
+- Megalithic
+- Mesolithic
+- Mesozoic
+- Messianic
+- Methodistic
+- mediumistic
+- megalomanic
+- melanic
+- melanistic
+- melanotic
+- melic
+- melioristic
+- mercantilistic
+- meristic
+- meroblastic
+- mesocratic
+- mesomorphic
+- metallurgic
+- metameric
+- metathetic
+- metempsychotic
+- meteorologic
+- methylic
+- metopic
+- metronymic

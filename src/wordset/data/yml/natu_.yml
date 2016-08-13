@@ -1,0 +1,37 @@
+---
+pattern: natu_
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 27
+score: 1323203
+score_per_word: 60145
+hi_scored_words:
+  natural: 483
+  naturalism: 45422
+  naturalist: 17404
+  naturalistic: 41878
+  naturalists: 38303
+  naturalization: 29920
+  naturalized: 37015
+  naturally: 2993
+  naturalness: 73541
+  naturals: 20761
+  nature: 507
+  natured: 36532
+  natures: 19184
+  naturism: 84737
+  naturist: 45241
+  naturists: 70740
+  naturopathic: 63118
+  naturopathy: 79035
+scored_words:
+  naturalize: 153000
+  naturalizing: 175450
+  naturopath: 124672
+  naturopaths: 163267
+not_scored_words:
+- Nature
+- naturalistically
+- naturalizes
+- naturisms
+- naturopathies

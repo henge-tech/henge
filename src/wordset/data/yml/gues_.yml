@@ -1,0 +1,32 @@
+---
+pattern: gues_
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 22
+score: 1849980
+score_per_word: 97367
+hi_scored_words:
+  guess: 1417
+  guessed: 11598
+  guesses: 29429
+  guessing: 12287
+  guesswork: 43008
+  guest: 1648
+  guestbook: 52069
+  guestbooks: 43684
+  guesthouse: 27480
+  guesthouses: 61056
+  guestroom: 89347
+  guestrooms: 82591
+  guests: 2286
+scored_words:
+  guessable: 341007
+  guesser: 175848
+  guesstimate: 147841
+  guesstimates: 332931
+  guested: 199046
+  guesting: 195407
+not_scored_words:
+- guessers
+- guesstimated
+- guesstimating

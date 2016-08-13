@@ -1,0 +1,33 @@
+---
+pattern: se_or
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 23
+score: 922990
+score_per_word: 61532
+hi_scored_words:
+  seafloor: 52055
+  sector: 4443
+  selector: 17173
+  semiconductor: 12651
+  senator: 4319
+  senior: 2621
+  senor: 34469
+  sensor: 10020
+  sensorimotor: 78865
+  separator: 22891
+  settlor: 92975
+scored_words:
+  seignior: 109032
+  senhor: 128950
+  servitor: 125248
+  servomotor: 227278
+not_scored_words:
+- Sedgemoor
+- Selangor
+- Senghor
+- Senior
+- secretor
+- segregator
+- septuor
+- sequestrator

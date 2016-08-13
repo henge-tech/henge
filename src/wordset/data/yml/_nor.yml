@@ -1,0 +1,43 @@
+---
+pattern: _nor
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 33
+score: 1062634
+score_per_word: 53131
+hi_scored_words:
+  assignor: 87123
+  consignor: 96155
+  convenor: 52162
+  demeanor: 26998
+  dishonor: 39279
+  donor: 11447
+  governor: 2203
+  honor: 2155
+  kronor: 52229
+  manor: 7448
+  minor: 2378
+  misdemeanor: 24987
+  monsignor: 51623
+  nor: 1023
+  senor: 34469
+  signor: 53707
+  tenor: 11399
+scored_words:
+  athanor: 232357
+  countertenor: 155853
+  intervenor: 117639
+not_scored_words:
+- Elanor
+- Eleanor
+- Elinor
+- Governor
+- Heldentenor
+- Honor
+- Leonor
+- Monsignor
+- Nor
+- O'Connor
+- alienor
+- contemnor
+- guvnor

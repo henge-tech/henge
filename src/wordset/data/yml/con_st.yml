@@ -1,0 +1,31 @@
+---
+pattern: con_st
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 21
+score: 1065176
+score_per_word: 81936
+hi_scored_words:
+  conformist: 60213
+  conquest: 10015
+  conservationist: 58578
+  consist: 5694
+  constructivist: 50823
+  consumerist: 95201
+  contest: 2785
+  contortionist: 98156
+  contrast: 2667
+scored_words:
+  congest: 305969
+  congregationalist: 158314
+  constructionist: 111383
+  conversationalist: 105378
+not_scored_words:
+- Confucianist
+- Congregationalist
+- conceptualist
+- concisest
+- contextualist
+- contrabandist
+- contrapuntist
+- conventionalist

@@ -1,0 +1,40 @@
+---
+pattern: roun_
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 30
+score: 1542229
+score_per_word: 77111
+hi_scored_words:
+  round: 585
+  roundabout: 19759
+  roundabouts: 59553
+  rounded: 7355
+  roundel: 82758
+  rounder: 33483
+  rounders: 43990
+  roundhouse: 46877
+  rounding: 17489
+  roundly: 72022
+  roundness: 85051
+  rounds: 6776
+  roundtrip: 56152
+  roundup: 16048
+  roundups: 61718
+scored_words:
+  roundels: 161043
+  roundest: 285903
+  roundish: 176486
+  roundworm: 162640
+  roundworms: 146541
+not_scored_words:
+- Roundhead
+- Roundheads
+- rounce
+- roundelay
+- roundelays
+- roundheel
+- roundhouses
+- roundlet
+- roundsman
+- roundsmen

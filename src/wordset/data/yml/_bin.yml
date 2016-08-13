@@ -1,0 +1,41 @@
+---
+pattern: _bin
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 31
+score: 1300646
+score_per_word: 72258
+hi_scored_words:
+  bilirubin: 44298
+  bin: 2626
+  bobbin: 44772
+  cabin: 4408
+  dobbin: 69786
+  dustbin: 56446
+  globin: 63402
+  hemoglobin: 25419
+  myoglobin: 80975
+  prothrombin: 68002
+  robbin: 58901
+  robin: 3902
+  sabin: 48307
+  thrombin: 47288
+scored_words:
+  dubbin: 239239
+  methemoglobin: 180842
+  nubbin: 160511
+  psilocybin: 101522
+not_scored_words:
+- Dobbin
+- Harbin
+- Jacobin
+- Rabin
+- Robbin
+- Robin
+- Rubin
+- Sabin
+- Scriabin
+- cannabin
+- carabin
+- chrysarobin
+- rabbin

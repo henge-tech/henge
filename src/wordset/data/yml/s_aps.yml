@@ -1,0 +1,25 @@
+---
+pattern: s_aps
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 484163
+score_per_word: 53795
+hi_scored_words:
+  saps: 55030
+  scraps: 14377
+  sitemaps: 50178
+  slaps: 41586
+  snaps: 20025
+  soaps: 16745
+  straps: 12760
+  swaps: 26247
+scored_words:
+  satraps: 247215
+not_scored_words:
+- scrapheaps
+- skullcaps
+- skycaps
+- slagheaps
+- stopgaps
+- suntraps

@@ -1,0 +1,27 @@
+---
+pattern: _isk
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 604903
+score_per_word: 60490
+hi_scored_words:
+  asterisk: 12277
+  basilisk: 63085
+  brisk: 20633
+  disk: 2317
+  frisk: 54310
+  obelisk: 38035
+  risk: 979
+  whisk: 29509
+scored_words:
+  bisk: 273600
+  tamarisk: 110158
+not_scored_words:
+- Biisk
+- Bisk
+- Eisk
+- Fisk
+- Kopeisk
+- Yeisk
+- bassarisk

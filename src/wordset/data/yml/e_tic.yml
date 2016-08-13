@@ -1,0 +1,80 @@
+---
+pattern: e_tic
+hi_scored_words_count: 30
+scored_words_count: 15
+total_words: 70
+score: 4019581
+score_per_word: 89324
+hi_scored_words:
+  ecclesiastic: 99010
+  eclectic: 20261
+  ecliptic: 55544
+  ecstatic: 23550
+  egoistic: 93578
+  elastic: 8960
+  electrolytic: 48965
+  electromagnetic: 14131
+  electrophoretic: 58331
+  electrostatic: 24505
+  elliptic: 27273
+  emblematic: 49646
+  emetic: 71860
+  empathetic: 62249
+  emphatic: 31854
+  encaustic: 88936
+  energetic: 9637
+  enigmatic: 30612
+  enthusiastic: 8477
+  enzymatic: 28276
+  epileptic: 37752
+  erotic: 8885
+  erratic: 23854
+  esthetic: 45962
+  eucharistic: 43380
+  eukaryotic: 33267
+  eutectic: 78237
+  evangelistic: 48352
+  exotic: 8101
+  extragalactic: 98639
+scored_words:
+  egotistic: 152764
+  eidetic: 161699
+  electrokinetic: 165043
+  enclitic: 226403
+  encomiastic: 230118
+  endodontic: 100484
+  enzootic: 215324
+  epigrammatic: 241400
+  epiphytic: 128108
+  epizootic: 124367
+  erythrocytic: 250689
+  eulogistic: 136884
+  euphemistic: 174669
+  eustatic: 260529
+  expressionistic: 169016
+not_scored_words:
+- Eclectic
+- Elamitic
+- Eleatic
+- Eucharistic
+- encephalitic
+- engrammatic
+- enphytotic
+- enthetic
+- enuretic
+- epicritic
+- epideictic
+- epiphytotic
+- epispastic
+- epithetic
+- eremitic
+- eristic
+- escharotic
+- esemplastic
+- essayistic
+- euphuistic
+- euplastic
+- exegetic
+- exhibitionistic
+- existentialistic
+- extralinguistic

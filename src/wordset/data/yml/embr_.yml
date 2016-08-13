@@ -1,0 +1,58 @@
+---
+pattern: embr_
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 48
+score: 2130161
+score_per_word: 88756
+hi_scored_words:
+  embrace: 6342
+  embraced: 10738
+  embraces: 18051
+  embracing: 26629
+  embrasure: 56314
+  embrasures: 90314
+  embroider: 77463
+  embroidered: 10489
+  embroideries: 95325
+  embroidery: 11605
+  embroiled: 50332
+  embryo: 13842
+  embryology: 40561
+  embryonic: 18944
+  embryos: 23987
+scored_words:
+  embraceable: 180336
+  embrocation: 241919
+  embroiderer: 186617
+  embroiderers: 170961
+  embroidering: 114061
+  embroil: 185133
+  embryol: 207654
+  embryological: 184789
+  embryonal: 107755
+not_scored_words:
+- embracement
+- embraceor
+- embracery
+- embranchment
+- embrangle
+- embrangled
+- embrangles
+- embrangling
+- embrasured
+- embrocate
+- embrocations
+- embroideress
+- embroiders
+- embroiling
+- embroilment
+- embroils
+- embrue
+- embryectomy
+- embryogeny
+- embryologic
+- embryologist
+- embryologists
+- embryonically
+- embryotomy

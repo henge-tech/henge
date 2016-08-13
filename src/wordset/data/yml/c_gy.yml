@@ -1,0 +1,37 @@
+---
+pattern: c_gy
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 27
+score: 1296605
+score_per_word: 81037
+hi_scored_words:
+  cardiology: 20574
+  christology: 72472
+  chronology: 15727
+  clergy: 8684
+  climatology: 42666
+  clingy: 89597
+  cosmetology: 43827
+  cosmology: 22699
+  craggy: 60268
+  criminology: 24357
+  cryptology: 75649
+  cytology: 30125
+scored_words:
+  campanology: 205179
+  conchology: 119704
+  craniology: 223977
+  cryobiology: 241100
+not_scored_words:
+- Christology
+- cabbagy
+- cacology
+- carpology
+- cetology
+- chemurgy
+- chromatology
+- cloggy
+- coniology
+- coprology
+- cryology

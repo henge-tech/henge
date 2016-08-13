@@ -1,0 +1,33 @@
+---
+pattern: unl_ed
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 23
+score: 1420912
+score_per_word: 78939
+hi_scored_words:
+  unlabeled: 51738
+  unleaded: 35959
+  unlearned: 75966
+  unleashed: 16662
+  unleavened: 62567
+  unlicensed: 33311
+  unlimited: 10120
+  unlined: 59219
+  unlinked: 86140
+  unlisted: 31105
+  unloaded: 30486
+  unlocked: 11610
+  unloved: 67196
+scored_words:
+  unlaced: 181063
+  unlatched: 234934
+  unlettered: 120811
+  unlighted: 158199
+  unloosed: 153826
+not_scored_words:
+- unlamented
+- unlashed
+- unlimbered
+- unlived
+- unloosened

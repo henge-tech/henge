@@ -1,0 +1,38 @@
+---
+pattern: ha_ly
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 28
+score: 1715879
+score_per_word: 95326
+hi_scored_words:
+  habitually: 39827
+  handily: 58139
+  handsomely: 34365
+  haphazardly: 67572
+  haply: 79249
+  happily: 7333
+  hardly: 3067
+  harmlessly: 93586
+  harmoniously: 61697
+  harshly: 28749
+  hastily: 17591
+  haughtily: 98169
+  hauntingly: 89319
+scored_words:
+  halfheartedly: 260614
+  haltingly: 141386
+  hardily: 206459
+  harmfully: 298357
+  harmonically: 130400
+not_scored_words:
+- habitably
+- haggardly
+- haplessly
+- harassingly
+- hardheadedly
+- hardheartedly
+- hatefully
+- hawkishly
+- hazardously
+- hazily

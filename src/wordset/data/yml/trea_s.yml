@@ -1,0 +1,26 @@
+---
+pattern: trea_s
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 16
+score: 662479
+score_per_word: 50959
+hi_scored_words:
+  treacherous: 22819
+  treadmills: 39494
+  treads: 44117
+  treas: 72797
+  treasonous: 93137
+  treasurers: 64043
+  treasures: 6764
+  treasuries: 59494
+  treaties: 14904
+  treatises: 41573
+  treatments: 15130
+  treats: 7700
+scored_words:
+  treacheries: 180507
+not_scored_words:
+- Treasuries
+- treacherousness
+- treadles

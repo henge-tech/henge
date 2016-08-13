@@ -1,0 +1,30 @@
+---
+pattern: li_le
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1205770
+score_per_word: 92751
+hi_scored_words:
+  liable: 4367
+  lifestyle: 7724
+  likable: 39222
+  likeable: 39875
+  lisle: 36990
+  listenable: 93307
+  little: 168
+  livable: 45504
+scored_words:
+  licensable: 179326
+  lickspittle: 134423
+  ligule: 270168
+  limescale: 202253
+  linkable: 152443
+not_scored_words:
+- Libreville
+- Lille
+- Little
+- liftable
+- limitable
+- liquefiable
+- litigable

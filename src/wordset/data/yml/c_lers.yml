@@ -1,0 +1,35 @@
+---
+pattern: c_lers
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 25
+score: 1260554
+score_per_word: 84036
+hi_scored_words:
+  callers: 21331
+  chandlers: 81565
+  chillers: 61692
+  cobblers: 58734
+  compilers: 28869
+  controllers: 8111
+  coolers: 21240
+  couplers: 48293
+  crawlers: 53158
+  curlers: 73955
+scored_words:
+  carolers: 119430
+  chroniclers: 103181
+  comptrollers: 231858
+  concealers: 123902
+  cutlers: 225235
+not_scored_words:
+- cacklers
+- cajolers
+- cancelers
+- candlers
+- cavilers
+- chiselers
+- chisellers
+- chortlers
+- cripplers
+- crullers

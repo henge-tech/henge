@@ -1,0 +1,29 @@
+---
+pattern: mee_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 19
+score: 941912
+score_per_word: 62794
+hi_scored_words:
+  meed: 82143
+  meek: 24594
+  meeker: 48054
+  meekly: 69214
+  meekness: 57729
+  meerkat: 66309
+  meet: 450
+  meeting: 539
+  meetings: 2343
+  meets: 3740
+  meetup: 10334
+scored_words:
+  meekest: 221813
+  meerkats: 136648
+  meerschaum: 115103
+  meetinghouse: 102899
+not_scored_words:
+- Meerut
+- meerschaums
+- meetinghouses
+- meetly

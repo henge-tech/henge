@@ -1,0 +1,41 @@
+---
+pattern: _apes
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 31
+score: 1244909
+score_per_word: 62245
+hi_scored_words:
+  apes: 16242
+  audiotapes: 98987
+  capes: 37668
+  drapes: 29344
+  escapes: 14020
+  grapes: 10118
+  landscapes: 9872
+  rapes: 26784
+  scapes: 79975
+  scrapes: 49089
+  seascapes: 71483
+  shapes: 5662
+  soundscapes: 70593
+  tapes: 14469
+  videotapes: 36729
+scored_words:
+  canapes: 122990
+  gapes: 108642
+  jackanapes: 139078
+  reshapes: 185776
+  stapes: 117388
+not_scored_words:
+- cloudscapes
+- crapes
+- japes
+- misshapes
+- moonscapes
+- napes
+- sellotapes
+- serapes
+- trapes
+- undrapes
+- vapes

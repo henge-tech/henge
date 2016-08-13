@@ -1,0 +1,36 @@
+---
+pattern: po_o
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 26
+score: 775968
+score_per_word: 51731
+hi_scored_words:
+  poco: 38212
+  pogo: 18013
+  polio: 24048
+  politburo: 45805
+  politico: 46842
+  polo: 9539
+  pompano: 45814
+  poncho: 36435
+  poo: 17659
+  porno: 11003
+  portfolio: 6044
+  portico: 37134
+  potato: 6863
+scored_words:
+  pomelo: 198995
+  portamento: 233562
+not_scored_words:
+- Pocatello
+- Pocono
+- Pogo
+- Politburo
+- Pollaiuolo
+- Polo
+- Pontormo
+- Porfirio
+- Porto
+- potoroo
+- potto

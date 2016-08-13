@@ -1,0 +1,40 @@
+---
+pattern: _sser
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 30
+score: 1678018
+score_per_word: 98706
+hi_scored_words:
+  dresser: 16656
+  gasser: 78134
+  grosser: 66946
+  hairdresser: 31767
+  kisser: 57904
+  lesser: 5990
+  passer: 27830
+  presser: 46803
+  trespasser: 82064
+scored_words:
+  canvasser: 220601
+  crosser: 105649
+  embosser: 118320
+  glosser: 307951
+  guesser: 175848
+  harasser: 112065
+  pisser: 119021
+  tosser: 104469
+not_scored_words:
+- Gasser
+- Nasser
+- amasser
+- caresser
+- crasser
+- degausser
+- digresser
+- dosser
+- fusser
+- harnesser
+- impresser
+- redresser
+- represser

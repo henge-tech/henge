@@ -1,0 +1,53 @@
+---
+pattern: dist_s
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 43
+score: 1646235
+score_per_word: 65849
+hi_scored_words:
+  distances: 7596
+  distilleries: 77127
+  distillers: 45256
+  distinctions: 21549
+  distinctiveness: 57992
+  distinctness: 94379
+  distinguishes: 21127
+  distortions: 31544
+  distorts: 53016
+  distractions: 24880
+  distracts: 72518
+  distress: 6954
+  distresses: 90845
+  distributes: 24829
+  distributions: 16056
+  distributors: 7959
+  districts: 3679
+  disturbances: 15544
+  disturbs: 49314
+scored_words:
+  distempers: 267451
+  distillates: 109469
+  distills: 128067
+  distributorships: 135243
+  distrusts: 167453
+  disturbers: 116388
+not_scored_words:
+- distaffs
+- distantness
+- distastefulness
+- distastes
+- distends
+- distensions
+- distentions
+- distichous
+- distichs
+- distillations
+- distortedness
+- distortionless
+- distractedness
+- distrains
+- distraints
+- distributaries
+- distrustfulness
+- distrustfulnesses

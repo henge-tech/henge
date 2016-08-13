@@ -1,0 +1,57 @@
+---
+pattern: refl_
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 47
+score: 2448407
+score_per_word: 90681
+hi_scored_words:
+  reflect: 2965
+  reflectance: 39383
+  reflected: 4415
+  reflecting: 7504
+  reflection: 4247
+  reflections: 6842
+  reflective: 11830
+  reflectivity: 40716
+  reflector: 26729
+  reflectors: 38357
+  reflects: 7049
+  reflex: 13954
+  reflexes: 32047
+  reflexive: 31848
+  reflexively: 94480
+  reflexivity: 86265
+  reflexology: 49819
+  reflow: 78459
+  reflux: 27215
+scored_words:
+  refl: 115960
+  reflectances: 250292
+  reflectively: 113282
+  reflectivities: 317269
+  reflexives: 286899
+  reflexologist: 250276
+  refluxed: 251191
+  refluxing: 259114
+not_scored_words:
+- reflate
+- reflated
+- reflates
+- reflating
+- reflation
+- reflationary
+- reflations
+- reflectional
+- reflectiveness
+- reflexiveness
+- reflexivenesses
+- reflexivities
+- reflexly
+- refloat
+- refloated
+- refloating
+- refloats
+- reflower
+- refluent
+- refluxes

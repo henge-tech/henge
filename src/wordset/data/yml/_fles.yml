@@ -1,0 +1,30 @@
+---
+pattern: _fles
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 20
+score: 1790151
+score_per_word: 105303
+hi_scored_words:
+  baffles: 49827
+  raffles: 29953
+  rifles: 10769
+  ruffles: 49728
+  shuffles: 60913
+  sniffles: 76321
+  stifles: 90734
+  trifles: 52933
+  truffles: 33997
+  waffles: 36610
+scored_words:
+  kerfuffles: 240292
+  muffles: 245139
+  reshuffles: 177716
+  riffles: 110891
+  scuffles: 187926
+  snuffles: 187245
+  souffles: 149157
+not_scored_words:
+- Raffles
+- skiffles
+- snaffles

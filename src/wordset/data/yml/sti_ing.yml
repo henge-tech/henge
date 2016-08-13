@@ -1,0 +1,26 @@
+---
+pattern: sti_ing
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 740458
+score_per_word: 61704
+hi_scored_words:
+  sticking: 9602
+  stiffening: 64977
+  stifling: 40381
+  stimulating: 11798
+  stinging: 27861
+  stinking: 30219
+  stipulating: 78912
+  stirring: 10558
+  stitching: 23391
+scored_words:
+  stigmatizing: 149056
+  stilling: 107529
+  stippling: 186174
+not_scored_words:
+- Stirling
+- stickling
+- stiffing
+- stinting

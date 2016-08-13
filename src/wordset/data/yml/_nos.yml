@@ -1,0 +1,49 @@
+---
+pattern: _nos
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 39
+score: 2008498
+score_per_word: 118146
+hi_scored_words:
+  casinos: 7320
+  chinos: 77625
+  jalapenos: 86419
+  kimonos: 80201
+  neutrinos: 41265
+  nos: 11488
+  pianos: 26236
+  rhinos: 42886
+  sopranos: 25162
+scored_words:
+  albinos: 230612
+  bolivianos: 332372
+  cappuccinos: 154428
+  infernos: 221024
+  journos: 118408
+  llanos: 120363
+  palominos: 259825
+  winos: 172864
+not_scored_words:
+- Enos
+- Filipinos
+- Hypnos
+- Kronos
+- Latinos
+- Lemnos
+- Minos
+- Nos
+- Parthenos
+- Poconos
+- antineutrinos
+- bambinos
+- beanos
+- kinos
+- madronos
+- maraschinos
+- merinos
+- pompanos
+- segnos
+- solferinos
+- stenos
+- tennos

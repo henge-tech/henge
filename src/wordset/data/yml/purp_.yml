@@ -1,0 +1,40 @@
+---
+pattern: purp_
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 30
+score: 1692252
+score_per_word: 76920
+hi_scored_words:
+  purple: 3059
+  purples: 65615
+  purplish: 52408
+  purport: 32957
+  purported: 29093
+  purportedly: 46272
+  purporting: 50860
+  purports: 48676
+  purpose: 716
+  purposed: 59054
+  purposeful: 33617
+  purposefully: 36466
+  purposeless: 94669
+  purposely: 21379
+  purposes: 1527
+  purposive: 72551
+  purpura: 59074
+scored_words:
+  purposefulness: 208459
+  purposelessness: 159542
+  purposing: 174296
+  purposively: 309076
+  purpure: 132886
+not_scored_words:
+- purpleness
+- purplenesses
+- purpler
+- purplest
+- purposelessly
+- purposiveness
+- purpuras
+- purpurin

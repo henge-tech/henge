@@ -1,0 +1,37 @@
+---
+pattern: nur_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 27
+score: 1600016
+score_per_word: 94118
+hi_scored_words:
+  nurse: 2733
+  nursed: 47747
+  nurseries: 26234
+  nursery: 6004
+  nurses: 5131
+  nursing: 7597
+  nurture: 20401
+  nurtured: 33003
+  nurtures: 78027
+  nurturing: 20869
+scored_words:
+  nursemaid: 153105
+  nurser: 142248
+  nurseryman: 171263
+  nurserymen: 161245
+  nursling: 161287
+  nurturer: 245763
+  nurturers: 317359
+not_scored_words:
+- Nuremberg
+- Nureyev
+- Nuristan
+- Nurmi
+- Nurnberg
+- nurselings
+- nursemaids
+- nursers
+- nurserymaid
+- nurslings

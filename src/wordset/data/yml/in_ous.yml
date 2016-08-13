@@ -1,0 +1,46 @@
+---
+pattern: in_ous
+hi_scored_words_count: 17
+scored_words_count: 11
+total_words: 36
+score: 2222304
+score_per_word: 79368
+hi_scored_words:
+  inauspicious: 89644
+  incestuous: 56886
+  incongruous: 45261
+  inconspicuous: 48108
+  incredulous: 45692
+  indigenous: 7388
+  industrious: 32320
+  infamous: 11199
+  infectious: 9813
+  ingenious: 16765
+  inhomogeneous: 60128
+  injurious: 26886
+  innocuous: 37774
+  insidious: 23595
+  instantaneous: 19014
+  intravenous: 19945
+  invidious: 71705
+scored_words:
+  incautious: 164717
+  incurious: 169666
+  indecorous: 120357
+  infelicitous: 150281
+  ingenuous: 103385
+  inglorious: 114412
+  inharmonious: 242315
+  iniquitous: 105226
+  injudicious: 162104
+  insalubrious: 157687
+  insectivorous: 110031
+not_scored_words:
+- incapacious
+- incommodious
+- indeciduous
+- inefficacious
+- innoxious
+- inodorous
+- inofficious
+- intracutaneous

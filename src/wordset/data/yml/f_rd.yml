@@ -1,0 +1,36 @@
+---
+pattern: f_rd
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 26
+score: 1279107
+score_per_word: 79944
+hi_scored_words:
+  farmyard: 51840
+  fiberboard: 98320
+  fingerboard: 59759
+  firebird: 26741
+  fjord: 41343
+  flashcard: 92600
+  footboard: 96055
+  ford: 2674
+  foreword: 18842
+  forward: 718
+  freeboard: 83346
+scored_words:
+  fard: 105146
+  fireguard: 208967
+  floorboard: 114692
+  foulard: 124650
+  froward: 153414
+not_scored_words:
+- Ford
+- Fragonard
+- Froward
+- fireboard
+- flashboard
+- flutterboard
+- foreyard
+- friarbird
+- frontward
+- fyrd

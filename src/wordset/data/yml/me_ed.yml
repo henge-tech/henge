@@ -1,0 +1,58 @@
+---
+pattern: me_ed
+hi_scored_words_count: 24
+scored_words_count: 10
+total_words: 48
+score: 2775047
+score_per_word: 81619
+hi_scored_words:
+  measured: 3151
+  mechanized: 40072
+  mediated: 10680
+  medicated: 40639
+  meditated: 63869
+  meed: 82143
+  mellowed: 88520
+  melted: 10813
+  memorized: 45830
+  menaced: 91089
+  mended: 40967
+  mentioned: 1487
+  mentored: 53398
+  merged: 10245
+  merited: 54352
+  meshed: 69326
+  mesmerized: 48517
+  messaged: 96807
+  messed: 15992
+  metabolized: 60172
+  metamorphosed: 85046
+  meted: 70894
+  metered: 41301
+  methylated: 58645
+scored_words:
+  meandered: 117864
+  meddled: 168671
+  melamed: 125476
+  melded: 105640
+  memorialized: 105386
+  mercerized: 176763
+  merchandised: 271281
+  metalized: 213150
+  metastasized: 151017
+  mewed: 155844
+not_scored_words:
+- Meshed
+- mealymouthed
+- medullated
+- megaphoned
+- meliorated
+- melodized
+- memoried
+- menstruated
+- mentholated
+- meowed
+- metaled
+- metricated
+- metricized
+- mewled

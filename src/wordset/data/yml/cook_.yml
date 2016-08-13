@@ -1,0 +1,36 @@
+---
+pattern: cook_
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 26
+score: 958357
+score_per_word: 53242
+hi_scored_words:
+  cook: 2045
+  cookbook: 13296
+  cookbooks: 25562
+  cooked: 5962
+  cooker: 19680
+  cookers: 29658
+  cookery: 20591
+  cookie: 15970
+  cookies: 9920
+  cooking: 2928
+  cookout: 61284
+  cooks: 13195
+  cooktop: 81693
+  cookware: 26327
+scored_words:
+  cookhouse: 196333
+  cookouts: 146277
+  cookshop: 110748
+  cooky: 176888
+not_scored_words:
+- Cook
+- Cooke
+- Cookstown
+- cookeries
+- cookhouses
+- cookstove
+- cookstoves
+- cookwares

@@ -1,0 +1,43 @@
+---
+pattern: irre_y
+hi_scored_words_count: 9
+scored_words_count: 11
+total_words: 33
+score: 2669697
+score_per_word: 133484
+hi_scored_words:
+  irregularity: 35767
+  irregularly: 42808
+  irreparably: 85073
+  irresistibly: 67340
+  irresponsibility: 63994
+  irresponsibly: 95991
+  irretrievably: 97313
+  irreversibly: 78056
+  irrevocably: 43819
+scored_words:
+  irrecoverably: 164043
+  irredeemably: 217822
+  irreducibility: 174278
+  irreducibly: 157741
+  irrefutably: 220837
+  irrelevancy: 178708
+  irrelevantly: 158171
+  irresolutely: 190598
+  irrespectively: 315811
+  irreverently: 176182
+  irreversibility: 105345
+not_scored_words:
+- irreconcilability
+- irreconcilably
+- irrefragably
+- irrefutability
+- irreligiously
+- irremediably
+- irreparability
+- irrepressibility
+- irrepressibly
+- irreproachably
+- irresistibility
+- irretrievability
+- irrevocability

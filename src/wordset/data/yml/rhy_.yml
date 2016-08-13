@@ -1,0 +1,30 @@
+---
+pattern: rhy_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 20
+score: 568298
+score_per_word: 51663
+hi_scored_words:
+  rhyme: 16104
+  rhymed: 93197
+  rhymes: 14367
+  rhyming: 35798
+  rhyolite: 83104
+  rhythm: 6273
+  rhythmic: 17741
+  rhythmical: 68177
+  rhythmically: 68913
+  rhythms: 18093
+scored_words:
+  rhymer: 146531
+not_scored_words:
+- rhymers
+- rhymester
+- rhymesters
+- rhynchocephalian
+- rhyolites
+- rhythmics
+- rhythmist
+- rhythmless
+- rhyton

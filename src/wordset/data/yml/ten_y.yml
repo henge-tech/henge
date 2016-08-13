@@ -1,0 +1,30 @@
+---
+pattern: ten_y
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 1340699
+score_per_word: 111724
+hi_scored_words:
+  tenaciously: 80465
+  tenacity: 30977
+  tenancy: 27850
+  tenantry: 96577
+  tendency: 5763
+  tenderly: 26537
+  tensely: 93261
+  tentatively: 28997
+scored_words:
+  tenpenny: 242841
+  tensity: 262159
+  tenuity: 226942
+  tenuously: 218330
+not_scored_words:
+- tenability
+- tenably
+- tendentiously
+- tenderheartedly
+- tenorrhaphy
+- tenotomy
+- tensility
+- tenthly

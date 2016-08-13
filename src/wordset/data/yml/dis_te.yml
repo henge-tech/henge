@@ -1,0 +1,41 @@
+---
+pattern: dis_te
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 31
+score: 1428249
+score_per_word: 64920
+hi_scored_words:
+  discrete: 10959
+  discriminate: 16808
+  disintegrate: 54619
+  diskette: 35158
+  disparate: 28038
+  dispassionate: 67152
+  disproportionate: 22997
+  dispute: 3853
+  disrepute: 61730
+  disseminate: 24668
+  dissipate: 35852
+  dissociate: 67929
+  dissolute: 68548
+  distaste: 47390
+  distillate: 51027
+  distribute: 4436
+scored_words:
+  disambiguate: 135729
+  disassociate: 107697
+  discarnate: 157044
+  discombobulate: 195143
+  disconsolate: 100446
+  dislocate: 131026
+not_scored_words:
+- disaffiliate
+- disarticulate
+- disorientate
+- disrate
+- dissertate
+- dissimilate
+- dissimulate
+- distraite
+- disunite

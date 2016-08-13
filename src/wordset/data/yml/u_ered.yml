@@ -1,0 +1,44 @@
+---
+pattern: u_ered
+hi_scored_words_count: 17
+scored_words_count: 11
+total_words: 34
+score: 2827164
+score_per_word: 100970
+hi_scored_words:
+  unaltered: 30886
+  unanswered: 19497
+  uncluttered: 74203
+  uncovered: 11443
+  undelivered: 73149
+  underpowered: 85193
+  undiscovered: 25363
+  unencumbered: 52281
+  unfettered: 36716
+  unfiltered: 45080
+  unhindered: 61081
+  unnumbered: 52828
+  unordered: 67365
+  unregistered: 20311
+  upholstered: 32460
+  ushered: 35951
+  uttered: 16696
+scored_words:
+  unchartered: 221526
+  unconquered: 127520
+  unconsidered: 163089
+  unhampered: 145448
+  unlettered: 120811
+  unremembered: 270852
+  unsheltered: 263095
+  untempered: 301154
+  untethered: 120689
+  unuttered: 205544
+  unweathered: 146933
+not_scored_words:
+- unendangered
+- unentered
+- unlimbered
+- unmannered
+- unmastered
+- unoffered

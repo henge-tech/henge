@@ -1,0 +1,38 @@
+---
+pattern: _omed
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 28
+score: 1885153
+score_per_word: 85688
+hi_scored_words:
+  accustomed: 10442
+  bloomed: 69070
+  blossomed: 48567
+  boomed: 51217
+  bottomed: 49209
+  chromed: 71276
+  domed: 40860
+  doomed: 11683
+  groomed: 33557
+  homed: 67795
+  loomed: 49825
+  roomed: 98903
+  unaccustomed: 67142
+  welcomed: 6862
+  zoomed: 39700
+scored_words:
+  bosomed: 298691
+  envenomed: 142968
+  fathomed: 184973
+  foredoomed: 134712
+  mushroomed: 114941
+  ransomed: 113855
+  unfathomed: 178905
+not_scored_words:
+- bellbottomed
+- caromed
+- polychromed
+- slalomed
+- transomed
+- unbosomed

@@ -1,0 +1,25 @@
+---
+pattern: trum_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 704211
+score_per_word: 64019
+hi_scored_words:
+  trump: 12756
+  trumped: 58230
+  trumpery: 76355
+  trumpet: 8580
+  trumpeted: 91923
+  trumpeter: 34688
+  trumpeting: 74265
+  trumpets: 32044
+  trumps: 30553
+scored_words:
+  trumpeters: 118203
+  trumping: 166614
+not_scored_words:
+- Truman
+- Trumbull
+- Trump
+- trumpetweed

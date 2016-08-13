@@ -1,0 +1,30 @@
+---
+pattern: rei_n
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1324345
+score_per_word: 101872
+hi_scored_words:
+  reification: 91638
+  reign: 6271
+  rein: 23322
+  reincarnation: 31217
+  reintegration: 44850
+  reinterpretation: 73622
+  reintroduction: 54531
+  reinvention: 59327
+  reiteration: 98953
+scored_words:
+  reinfection: 135998
+  reinsertion: 213898
+  reinvestigation: 211439
+  reinvigoration: 279279
+not_scored_words:
+- reimposition
+- reimpression
+- reimprison
+- reincorporation
+- reinflation
+- reinfusion
+- reinoculation

@@ -1,0 +1,35 @@
+---
+pattern: nec_s
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 25
+score: 874098
+score_per_word: 72841
+hi_scored_words:
+  necessaries: 68367
+  necessitates: 42414
+  necessities: 14054
+  necklaces: 16641
+  necks: 26601
+  neckties: 60741
+  necropolis: 60122
+  necrosis: 21177
+scored_words:
+  necessitous: 132449
+  necklines: 187738
+  necromancers: 141617
+  nectarines: 102177
+not_scored_words:
+- neckbands
+- neckcloths
+- neckerchiefs
+- necklacings
+- neckpieces
+- necrophiliacs
+- necrophilias
+- necrophilisms
+- necropolises
+- necropsies
+- necroses
+- nectareous
+- nectarous

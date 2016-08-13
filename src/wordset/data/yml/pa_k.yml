@@ -1,0 +1,28 @@
+---
+pattern: pa_k
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 18
+score: 942269
+score_per_word: 67304
+hi_scored_words:
+  pack: 1860
+  paddock: 25148
+  padlock: 35121
+  paintwork: 74571
+  paperback: 7853
+  paperwork: 8671
+  park: 1270
+  partook: 71995
+  patchwork: 23935
+  payback: 23416
+  paycheck: 21597
+scored_words:
+  padauk: 287254
+  paperbark: 252739
+  passbook: 106839
+not_scored_words:
+- Park
+- Pasternak
+- Patrick
+- pashalik

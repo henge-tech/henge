@@ -1,0 +1,52 @@
+---
+pattern: _ques
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 42
+score: 2195868
+score_per_word: 87834
+hi_scored_words:
+  antiques: 8019
+  basques: 57830
+  boutiques: 36761
+  caciques: 89539
+  cliques: 55992
+  critiques: 22664
+  macaques: 74268
+  marques: 29640
+  masques: 81467
+  mosques: 27415
+  plaques: 22899
+  ques: 41151
+  techniques: 9330
+  toques: 77766
+  torques: 88480
+scored_words:
+  appliques: 102116
+  arabesques: 153186
+  barques: 154969
+  communiques: 116144
+  discotheques: 128458
+  grotesques: 244923
+  obliques: 174982
+  opaques: 114352
+  physiques: 104134
+  piques: 179383
+not_scored_words:
+- Basques
+- Jacques
+- Monegasques
+- Romanesques
+- beziques
+- burlesques
+- calques
+- casques
+- catafalques
+- cinques
+- cirques
+- claques
+- humoresques
+- odalisques
+- pulques
+- siliques
+- tuques

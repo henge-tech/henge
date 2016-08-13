@@ -1,0 +1,21 @@
+---
+pattern: el_ting
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 612369
+score_per_word: 68041
+hi_scored_words:
+  elaborating: 59178
+  electing: 29651
+  electroplating: 65242
+  elevating: 39218
+  eliciting: 48559
+  eliminating: 14312
+  elucidating: 80840
+  eluting: 99145
+scored_words:
+  elongating: 176224
+not_scored_words:
+- elating
+- electrocuting

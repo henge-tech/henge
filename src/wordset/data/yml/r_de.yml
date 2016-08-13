@@ -1,0 +1,43 @@
+---
+pattern: r_de
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 33
+score: 1427257
+score_per_word: 62054
+hi_scored_words:
+  radionuclide: 43971
+  rawhide: 36124
+  recede: 43905
+  recode: 79866
+  rectitude: 68544
+  rede: 39932
+  remade: 42237
+  renegade: 18955
+  reside: 10608
+  retrograde: 29947
+  ride: 1697
+  ringside: 53999
+  riptide: 70873
+  riverside: 12493
+  roadside: 14575
+  rode: 7940
+  ronde: 43659
+  rude: 6050
+scored_words:
+  radiosonde: 139498
+  regicide: 121299
+  regrade: 226561
+  rodenticide: 139336
+  roulade: 175188
+not_scored_words:
+- Reade
+- Rhode
+- Ride
+- Riverside
+- Rollerblade
+- Runnymede
+- rawinsonde
+- redivide
+- retrocede
+- rodomontade

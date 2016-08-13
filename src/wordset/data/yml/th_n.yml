@@ -1,0 +1,55 @@
+---
+pattern: th_n
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 45
+score: 1422352
+score_per_word: 64652
+hi_scored_words:
+  than: 70
+  then: 91
+  theologian: 26291
+  therein: 7213
+  theremin: 72621
+  thereon: 15952
+  thereupon: 24498
+  thespian: 75363
+  thicken: 42464
+  thin: 2382
+  thirteen: 7635
+  thorn: 14873
+  threaten: 9113
+  thrombin: 47288
+  thrown: 4156
+scored_words:
+  thegn: 106899
+  theoretician: 108444
+  thistledown: 178506
+  thrawn: 115487
+  threadfin: 224957
+  thromboplastin: 119714
+  thymosin: 218335
+not_scored_words:
+- Thalesian
+- Theban
+- Theron
+- Thespian
+- Thessalian
+- Thessalonian
+- Thompson
+- Thomson
+- Thoreauvian
+- Thorn
+- Thornton
+- Thorvaldsen
+- Thracian
+- Thuban
+- Thun
+- Thurman
+- thalamencephalon
+- theatrician
+- thermion
+- thermosiphon
+- tholepin
+- thoron
+- thyratron

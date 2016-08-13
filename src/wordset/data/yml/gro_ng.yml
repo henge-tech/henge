@@ -1,0 +1,27 @@
+---
+pattern: gro_ng
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 17
+score: 1041621
+score_per_word: 69441
+hi_scored_words:
+  groaning: 32105
+  grooming: 22420
+  grooving: 68093
+  groping: 47619
+  grossing: 49306
+  groundbreaking: 20253
+  grounding: 26751
+  grouping: 14494
+  grouting: 76640
+  growing: 1272
+  growling: 40701
+scored_words:
+  grokking: 140637
+  grousing: 221537
+  groveling: 135745
+  grovelling: 144048
+not_scored_words:
+- grouching
+- groundling

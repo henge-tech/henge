@@ -1,0 +1,36 @@
+---
+pattern: ven_e
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 26
+score: 1183453
+score_per_word: 91034
+hi_scored_words:
+  vendee: 82362
+  venerable: 17872
+  venerate: 93435
+  venge: 99599
+  vengeance: 9452
+  ventilate: 66671
+  ventricle: 34037
+  venture: 3164
+  venue: 8033
+scored_words:
+  vendue: 302113
+  venipuncture: 135089
+  venire: 143509
+  venturesome: 188117
+not_scored_words:
+- Venice
+- Venite
+- venae
+- vendace
+- vendible
+- venenose
+- venepuncture
+- venose
+- ventage
+- ventose
+- ventricose
+- ventriloquize
+- venule

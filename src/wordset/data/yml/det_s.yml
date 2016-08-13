@@ -1,0 +1,53 @@
+---
+pattern: det_s
+hi_scored_words_count: 20
+scored_words_count: 9
+total_words: 43
+score: 2417956
+score_per_word: 83377
+hi_scored_words:
+  detachments: 55467
+  details: 714
+  detainees: 17200
+  detections: 66074
+  detectives: 17804
+  detectors: 10598
+  detects: 26087
+  detentions: 60810
+  detergents: 37644
+  deteriorates: 63408
+  determinants: 17313
+  determinations: 19999
+  determines: 7514
+  deterrents: 85062
+  deters: 80795
+  detonators: 93158
+  detours: 62823
+  detractors: 48730
+  detracts: 70900
+  detritus: 46663
+scored_words:
+  detaches: 114847
+  detains: 117286
+  detents: 302797
+  determiners: 127749
+  detests: 135296
+  detonates: 155812
+  detonations: 129493
+  detoxifies: 260283
+  detriments: 185630
+not_scored_words:
+- detentes
+- detergencies
+- determinateness
+- determinatenesses
+- determinatives
+- determinedness
+- determinists
+- detesters
+- dethrones
+- detoxes
+- detoxicates
+- detrains
+- detribalizes
+- detritions

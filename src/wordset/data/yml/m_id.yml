@@ -1,0 +1,42 @@
+---
+pattern: m_id
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 32
+score: 1073929
+score_per_word: 76709
+hi_scored_words:
+  maid: 6055
+  masjid: 42872
+  mastoid: 89310
+  medicaid: 7786
+  mermaid: 19631
+  mid: 4452
+  mislaid: 89230
+  morbid: 26225
+  myeloid: 43656
+scored_words:
+  metalloid: 123659
+  meteoroid: 187609
+  milkmaid: 136738
+  mongoloid: 123618
+  mucoid: 173088
+not_scored_words:
+- Madrid
+- Medicaid
+- Mid
+- Mongoloid
+- mattoid
+- melanoid
+- meloid
+- meniscoid
+- mineraloid
+- misdid
+- molluscoid
+- monacid
+- monoacid
+- monoploid
+- multifid
+- muscid
+- musjid
+- mylohyoid

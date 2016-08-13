@@ -1,0 +1,35 @@
+---
+pattern: tr_ting
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 25
+score: 1617285
+score_per_word: 89849
+hi_scored_words:
+  trainspotting: 59680
+  transacting: 77102
+  transiting: 74783
+  translating: 15605
+  transmitting: 16133
+  transplanting: 57211
+  transporting: 16399
+  treating: 5806
+  trotting: 44126
+  troubleshooting: 11977
+  trumpeting: 74265
+  trusting: 14443
+scored_words:
+  transliterating: 150028
+  transmuting: 220458
+  trapshooting: 287329
+  trendsetting: 170019
+  triangulating: 213569
+  truncating: 108352
+not_scored_words:
+- transecting
+- transmigrating
+- triplicating
+- trisecting
+- troating
+- truanting
+- trysting

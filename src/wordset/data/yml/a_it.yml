@@ -1,0 +1,28 @@
+---
+pattern: a_it
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 18
+score: 899584
+score_per_word: 64256
+hi_scored_words:
+  accredit: 81484
+  acquit: 60212
+  admit: 3368
+  adroit: 50763
+  affidavit: 18817
+  ait: 25742
+  albeit: 10780
+  ambit: 54374
+  armpit: 34319
+  audit: 11407
+  await: 11883
+scored_words:
+  adit: 102492
+  aquavit: 196698
+  archit: 237245
+not_scored_words:
+- adhibit
+- afrit
+- assumpsit
+- attrit

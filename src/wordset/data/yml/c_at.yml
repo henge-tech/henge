@@ -1,0 +1,38 @@
+---
+pattern: c_at
+hi_scored_words_count: 16
+scored_words_count: 1
+total_words: 28
+score: 884175
+score_per_word: 52010
+hi_scored_words:
+  carat: 16002
+  cat: 1559
+  caveat: 24313
+  chat: 5821
+  cheat: 9623
+  chitchat: 73641
+  cleat: 44319
+  coat: 2908
+  combat: 3291
+  commissariat: 88060
+  compleat: 69689
+  concordat: 89115
+  copycat: 39983
+  cravat: 74519
+  cryostat: 98144
+  cutthroat: 39540
+scored_words:
+  catboat: 203648
+not_scored_words:
+- CAT
+- Cattegat
+- Comsat
+- Croat
+- cervelat
+- cockboat
+- cockleboat
+- coelostat
+- collat
+- cowpat
+- cushat

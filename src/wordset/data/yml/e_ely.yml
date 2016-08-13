@@ -1,0 +1,33 @@
+---
+pattern: e_ely
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 23
+score: 1398082
+score_per_word: 87380
+hi_scored_words:
+  effectively: 4589
+  elaborately: 52735
+  entirely: 2135
+  excessively: 18063
+  exclusively: 4928
+  exhaustively: 67869
+  explosively: 93589
+  exquisitely: 33695
+  extensively: 9561
+  extremely: 1876
+scored_words:
+  effusively: 197133
+  evasively: 184022
+  evocatively: 294007
+  expansively: 203016
+  expensively: 102365
+  expressively: 128499
+not_scored_words:
+- effeminately
+- effetely
+- elusively
+- emotively
+- eruditely
+- excursively
+- extortionately

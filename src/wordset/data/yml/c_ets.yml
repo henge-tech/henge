@@ -1,0 +1,55 @@
+---
+pattern: c_ets
+hi_scored_words_count: 14
+scored_words_count: 14
+total_words: 45
+score: 3105546
+score_per_word: 110912
+hi_scored_words:
+  cabarets: 90116
+  cabinets: 11054
+  cadets: 21912
+  carpets: 13929
+  caskets: 59289
+  castanets: 81623
+  chalets: 44590
+  clarinets: 60620
+  closets: 27576
+  comets: 26059
+  corsets: 40540
+  couplets: 80890
+  crickets: 34950
+  cutlets: 77217
+scored_words:
+  caplets: 127398
+  chaplets: 196058
+  circlets: 257703
+  civets: 290208
+  clarets: 117787
+  collets: 169574
+  cornets: 128144
+  coronets: 136643
+  coverlets: 129601
+  covets: 152916
+  crochets: 284265
+  crotchets: 137355
+  cruets: 186681
+  crumpets: 120848
+not_scored_words:
+- Cabernets
+- Cherepovets
+- Chiclets
+- Clorets
+- cabriolets
+- cachets
+- calumets
+- carburets
+- carets
+- chervonets
+- coquets
+- corselets
+- cossets
+- crockets
+- curets
+- curvets
+- cygnets

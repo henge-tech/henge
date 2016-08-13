@@ -1,0 +1,45 @@
+---
+pattern: c_one
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 35
+score: 1403959
+score_per_word: 73892
+hi_scored_words:
+  canzone: 61116
+  capstone: 37307
+  cellphone: 13757
+  chaperone: 48232
+  clone: 9916
+  cobblestone: 43527
+  collarbone: 72630
+  condone: 33533
+  cone: 9432
+  cornerstone: 15764
+  corticosterone: 84272
+  cortisone: 57269
+  crone: 54734
+  cyclone: 17018
+scored_words:
+  calzone: 101772
+  chalone: 301481
+  cheekbone: 117616
+  cicerone: 112209
+  curbstone: 212374
+not_scored_words:
+- Capone
+- Castiglione
+- Coppertone
+- Corleone
+- chalkstone
+- cherrystone
+- chitarrone
+- chordophone
+- clingstone
+- clinkstone
+- colone
+- conversazione
+- copestone
+- cornpone
+- coumarone
+- cuttlebone

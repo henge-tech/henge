@@ -1,0 +1,31 @@
+---
+pattern: frag_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 21
+score: 716099
+score_per_word: 51149
+hi_scored_words:
+  frag: 36027
+  fragile: 10520
+  fragility: 47744
+  fragment: 8230
+  fragmentary: 39400
+  fragmentation: 17308
+  fragmented: 21231
+  fragments: 6762
+  fragrance: 7117
+  fragrances: 18577
+  fragrant: 16701
+  frags: 74591
+scored_words:
+  fragmental: 310867
+  fragmenting: 101024
+not_scored_words:
+- Fragonard
+- fragilely
+- fragileness
+- fragiler
+- fragilest
+- fragmentarily
+- fragrantly

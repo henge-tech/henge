@@ -1,0 +1,52 @@
+---
+pattern: _cals
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 42
+score: 1911482
+score_per_word: 76459
+hi_scored_words:
+  botanicals: 64430
+  chemicals: 6803
+  decals: 21064
+  evangelicals: 32147
+  locals: 9351
+  musicals: 14466
+  periodicals: 12399
+  petrochemicals: 56888
+  pharmaceuticals: 9829
+  physicals: 82136
+  practicals: 89012
+  radicals: 19968
+  rascals: 42369
+  verticals: 65290
+  vocals: 5271
+scored_words:
+  agrochemicals: 112402
+  bifocals: 103762
+  biochemicals: 115855
+  encyclicals: 159234
+  hypotheticals: 143924
+  medicals: 126877
+  pascals: 185173
+  reciprocals: 156203
+  sabbaticals: 145681
+  theatricals: 130948
+not_scored_words:
+- Metaphysicals
+- Pascals
+- Provencals
+- canonicals
+- caracals
+- clericals
+- coucals
+- cyclicals
+- fiscals
+- mescals
+- meticals
+- nonclericals
+- nonreciprocals
+- paramedicals
+- pontificals
+- ticals
+- trifocals

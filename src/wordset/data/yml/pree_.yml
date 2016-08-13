@@ -1,0 +1,41 @@
+---
+pattern: pree_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 31
+score: 1698336
+score_per_word: 106146
+hi_scored_words:
+  preemie: 82563
+  preeminence: 85418
+  preeminent: 42657
+  preempt: 50202
+  preempted: 62609
+  preemption: 50247
+  preemptive: 35921
+  preen: 88731
+  preening: 93728
+  preexisting: 40281
+scored_words:
+  preemies: 153945
+  preeminently: 208708
+  preempting: 157497
+  preemptively: 116845
+  preempts: 142349
+  preened: 286635
+not_scored_words:
+- preelection
+- preemptor
+- preengage
+- preenlistment
+- preens
+- preestablish
+- preexamination
+- preexamine
+- preexist
+- preexisted
+- preexistence
+- preexistent
+- preexists
+- preexpose
+- preexposure

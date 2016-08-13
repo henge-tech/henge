@@ -1,0 +1,66 @@
+---
+pattern: o_ting
+hi_scored_words_count: 21
+scored_words_count: 17
+total_words: 56
+score: 4095045
+score_per_word: 107764
+hi_scored_words:
+  objecting: 40396
+  obstructing: 44018
+  officiating: 27507
+  offsetting: 41669
+  omitting: 33407
+  operating: 3182
+  opting: 30766
+  orbiting: 31885
+  orchestrating: 73050
+  orienting: 63663
+  originating: 14168
+  oscillating: 41124
+  ousting: 78423
+  outfitting: 62559
+  outing: 19920
+  outputting: 68781
+  overeating: 59006
+  overheating: 34990
+  overreacting: 89483
+  overstating: 96742
+  overwriting: 65809
+scored_words:
+  obfuscating: 132090
+  obligating: 168290
+  obliterating: 102446
+  obviating: 139585
+  orientating: 300543
+  ornamenting: 145050
+  osculating: 273416
+  outlasting: 267803
+  outsmarting: 176059
+  outwitting: 158202
+  overacting: 203187
+  overcompensating: 166913
+  overestimating: 121505
+  overprinting: 240087
+  overshooting: 140791
+  ovulating: 115753
+  oxygenating: 222777
+not_scored_words:
+- Odelsting
+- objurgating
+- obsoleting
+- orating
+- outboasting
+- outfighting
+- outhitting
+- outpointing
+- outshouting
+- outvoting
+- overcasting
+- overdecorating
+- overexciting
+- overexerting
+- overpopulating
+- overprotecting
+- overrating
+- overstimulating

@@ -1,0 +1,34 @@
+---
+pattern: di_ity
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 24
+score: 1271627
+score_per_word: 79476
+hi_scored_words:
+  diffusivity: 74052
+  digestibility: 72927
+  dignity: 5921
+  dimensionality: 50624
+  directionality: 86498
+  disability: 7594
+  discontinuity: 27251
+  disparity: 20780
+  dissimilarity: 66877
+  disunity: 90075
+  diversity: 4870
+  divinity: 14012
+  divisibility: 91440
+scored_words:
+  differentiability: 165857
+  dimity: 234708
+  distributivity: 258141
+not_scored_words:
+- Divinity
+- diaphaneity
+- discernibility
+- discommodity
+- disconformity
+- disingenuity
+- disposability
+- distensibility

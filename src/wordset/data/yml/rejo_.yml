@@ -1,0 +1,22 @@
+---
+pattern: rejo_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 12
+score: 945027
+score_per_word: 85911
+hi_scored_words:
+  rejoice: 13595
+  rejoiced: 34595
+  rejoices: 68699
+  rejoicing: 27247
+  rejoin: 30987
+  rejoinder: 57548
+  rejoined: 28900
+  rejoining: 75435
+  rejoins: 87737
+scored_words:
+  rejoicings: 227477
+  rejoinders: 292807
+not_scored_words:
+- rejoicer

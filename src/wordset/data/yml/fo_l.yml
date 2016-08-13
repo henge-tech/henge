@@ -1,0 +1,43 @@
+---
+pattern: fo_l
+hi_scored_words_count: 21
+scored_words_count: 4
+total_words: 33
+score: 1529989
+score_per_word: 61199
+hi_scored_words:
+  foal: 33735
+  focal: 16797
+  foil: 10983
+  fol: 20500
+  foll: 75458
+  fool: 3636
+  football: 3413
+  footfall: 94788
+  foothill: 38605
+  footstool: 51312
+  forceful: 27809
+  foresail: 66715
+  forestall: 51671
+  foretell: 64246
+  forgetful: 40692
+  formal: 2627
+  fossil: 8278
+  foul: 5979
+  foundational: 35733
+  fowl: 23597
+  foxtail: 79897
+scored_words:
+  fontanel: 105073
+  footwall: 233886
+  formational: 293976
+  formyl: 140583
+not_scored_words:
+- FOFL
+- Foosball
+- folderol
+- footstall
+- forestaysail
+- forethoughtful
+- forkful
+- fossorial

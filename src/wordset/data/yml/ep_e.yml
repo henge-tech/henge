@@ -1,0 +1,38 @@
+---
+pattern: ep_e
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 28
+score: 1112130
+score_per_word: 79437
+hi_scored_words:
+  epee: 80089
+  ephedrine: 33209
+  epicure: 82368
+  epilogue: 29132
+  epinephrine: 38642
+  episcopate: 98830
+  episode: 3412
+  epistle: 23709
+  epitome: 29986
+scored_words:
+  epicene: 149383
+  epicycle: 118519
+  epidote: 129802
+  epiphyte: 187920
+  epitomize: 107129
+not_scored_words:
+- Ephraimite
+- Epistle
+- epagoge
+- epergne
+- ephebe
+- epidiascope
+- epigene
+- epigone
+- epigrammatize
+- epilate
+- epistrophe
+- epistyle
+- epode
+- epsomite

@@ -1,0 +1,39 @@
+---
+pattern: tri_d
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 29
+score: 1752213
+score_per_word: 92221
+hi_scored_words:
+  triad: 23899
+  triangulated: 97169
+  tricked: 26783
+  trickled: 73011
+  tricuspid: 82160
+  tried: 1083
+  triggered: 11428
+  trimmed: 15454
+  tripled: 35832
+  tripod: 16685
+  tripped: 30289
+  triumphed: 49266
+scored_words:
+  trialed: 155438
+  tricolored: 202331
+  trifid: 295666
+  trifled: 124688
+  trilled: 216649
+  triploid: 140563
+  trivialized: 153819
+not_scored_words:
+- Triad
+- Trinidad
+- triacid
+- trichoid
+- trichomonad
+- tricornered
+- triffid
+- triparted
+- triplicated
+- trisected

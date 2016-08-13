@@ -1,0 +1,36 @@
+---
+pattern: _ibe
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 26
+score: 1562205
+score_per_word: 74390
+hi_scored_words:
+  ascribe: 34490
+  bribe: 21626
+  describe: 2206
+  diatribe: 52814
+  imbibe: 84597
+  inscribe: 73608
+  jibe: 65444
+  prescribe: 14373
+  scribe: 21361
+  subscribe: 2422
+  transcribe: 34046
+  tribe: 4342
+  unsubscribe: 9376
+  vibe: 17105
+scored_words:
+  circumscribe: 111456
+  escribe: 195003
+  gibe: 136862
+  kibe: 158010
+  proscribe: 107322
+  resubscribe: 271790
+  subtribe: 143952
+not_scored_words:
+- Scribe
+- overprescribe
+- oversubscribe
+- reinscribe
+- superscribe

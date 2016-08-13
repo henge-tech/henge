@@ -1,0 +1,77 @@
+---
+pattern: b_ses
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 67
+score: 2355073
+score_per_word: 98128
+hi_scored_words:
+  bases: 6324
+  basses: 35202
+  biases: 23640
+  blesses: 60613
+  blouses: 37219
+  bonuses: 8996
+  bookcases: 41407
+  bosses: 16040
+  briefcases: 44571
+  bruises: 27744
+  burgesses: 79981
+  buses: 10074
+  businesses: 5376
+  buttresses: 89910
+  bypasses: 52611
+scored_words:
+  backcrosses: 341682
+  bathhouses: 138247
+  birdhouses: 104156
+  boathouses: 287711
+  boluses: 255507
+  brasses: 113724
+  brightnesses: 267814
+  browses: 112885
+  bunkhouses: 193639
+not_scored_words:
+- BBSes
+- Bauhauses
+- bacteriolyses
+- bacteriostases
+- bagasses
+- balases
+- ballses
+- barbarousnesses
+- baronesses
+- barrelhouses
+- bawdyhouses
+- beauteousnesses
+- bemuses
+- benefactresses
+- benthoses
+- berceuses
+- biasses
+- bilharziases
+- biogeneses
+- biosyntheses
+- bises
+- bizarrenesses
+- bladdernoses
+- blastogeneses
+- blockhouses
+- bluenoses
+- blunderbusses
+- boardinghouses
+- boorishnesses
+- botulinuses
+- bouillabaisses
+- bouses
+- bowses
+- braises
+- brontosauruses
+- brucelloses
+- buglosses
+- bulginesses
+- bullnoses
+- burnooses
+- burnouses
+- buxomnesses
+- byssuses

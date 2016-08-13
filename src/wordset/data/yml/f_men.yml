@@ -1,0 +1,32 @@
+---
+pattern: f_men
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 22
+score: 1016963
+score_per_word: 84746
+hi_scored_words:
+  firemen: 28785
+  fishermen: 11727
+  flamen: 97604
+  foramen: 57420
+  foremen: 60785
+  freedmen: 61590
+  freemen: 58189
+  freshmen: 19133
+scored_words:
+  fellowmen: 196905
+  foemen: 173304
+  footmen: 111518
+  frontiersmen: 140003
+not_scored_words:
+- Frenchmen
+- Frenchwomen
+- ferrymen
+- fieldsmen
+- flagmen
+- forewomen
+- freedwomen
+- frogmen
+- frontierswomen
+- funnymen

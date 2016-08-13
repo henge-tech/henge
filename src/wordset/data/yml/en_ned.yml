@@ -1,0 +1,25 @@
+---
+pattern: en_ned
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 15
+score: 954214
+score_per_word: 73401
+hi_scored_words:
+  engined: 55631
+  enjoined: 43632
+  enlightened: 12619
+  enlivened: 75344
+  enshrined: 38646
+  entertained: 11528
+  enthroned: 64693
+  entrained: 87206
+  entwined: 52996
+  envisioned: 21971
+scored_words:
+  enchained: 137436
+  enplaned: 228936
+  environed: 123576
+not_scored_words:
+- encrimsoned
+- endungeoned

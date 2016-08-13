@@ -1,0 +1,47 @@
+---
+pattern: p_zing
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 37
+score: 2519698
+score_per_word: 132615
+hi_scored_words:
+  paralyzing: 74604
+  patronizing: 54593
+  personalizing: 87823
+  philosophizing: 95230
+  polarizing: 49988
+  prioritizing: 47754
+  privatizing: 68627
+  proselytizing: 82941
+  publicizing: 62678
+scored_words:
+  parallelizing: 188402
+  penalizing: 103831
+  photosensitizing: 305987
+  plagiarizing: 134943
+  politicizing: 128203
+  polymerizing: 258289
+  popularizing: 121063
+  pressurizing: 186590
+  propagandizing: 278734
+  pulverizing: 189418
+not_scored_words:
+- palatalizing
+- parenthesizing
+- particularizing
+- passivizing
+- pasteurizing
+- pauperizing
+- pedestrianizing
+- peptizing
+- phlebotomizing
+- photosynthesizing
+- plasticizing
+- pluralizing
+- poetizing
+- polemicizing
+- prizing
+- professionalizing
+- prologizing
+- psychoanalyzing

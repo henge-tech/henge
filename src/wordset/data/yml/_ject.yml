@@ -1,0 +1,23 @@
+---
+pattern: _ject
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 332271
+score_per_word: 36919
+hi_scored_words:
+  abject: 33402
+  eject: 26770
+  inject: 20377
+  interject: 94698
+  object: 779
+  project: 819
+  reject: 6391
+  subject: 279
+scored_words:
+  deject: 148756
+not_scored_words:
+- countersubject
+- disject
+- introject
+- traject

@@ -1,0 +1,21 @@
+---
+pattern: relo_
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 11
+score: 400326
+score_per_word: 40032
+hi_scored_words:
+  reload: 17791
+  reloaded: 27370
+  reloading: 38700
+  reloads: 59893
+  relocatable: 92333
+  relocate: 17950
+  relocated: 16960
+  relocates: 95826
+  relocating: 21507
+  relocation: 11996
+scored_words: {}
+not_scored_words:
+- relocked

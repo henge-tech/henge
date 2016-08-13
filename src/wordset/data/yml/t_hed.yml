@@ -1,0 +1,25 @@
+---
+pattern: t_hed
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 941133
+score_per_word: 78427
+hi_scored_words:
+  tarnished: 42001
+  telegraphed: 89611
+  thatched: 38585
+  thrashed: 59027
+  toothed: 39344
+  torched: 70513
+  touched: 4784
+  trashed: 35637
+  triumphed: 49266
+  twitched: 72573
+scored_words:
+  threshed: 176941
+  trenched: 262851
+not_scored_words:
+- teethed
+- tithed
+- toughed

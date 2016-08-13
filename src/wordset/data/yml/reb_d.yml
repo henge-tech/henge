@@ -1,0 +1,24 @@
+---
+pattern: reb_d
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 14
+score: 1248444
+score_per_word: 96034
+hi_scored_words:
+  rebelled: 47749
+  rebooted: 45827
+  rebound: 13795
+  rebounded: 52404
+  rebuffed: 66900
+  rebuild: 11230
+  rebuked: 52687
+  rebutted: 87137
+scored_words:
+  rebalanced: 187404
+  rebated: 170073
+  rebid: 192916
+  rebind: 110953
+  reburied: 209369
+not_scored_words:
+- reboiled

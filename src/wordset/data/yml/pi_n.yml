@@ -1,0 +1,53 @@
+---
+pattern: pi_n
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 43
+score: 2643343
+score_per_word: 105733
+hi_scored_words:
+  pidgin: 49490
+  pigeon: 11295
+  pigmentation: 46794
+  pigskin: 56417
+  pillion: 98480
+  pin: 3543
+  pincushion: 90654
+  pinion: 39274
+  pinon: 85957
+  pinyin: 45800
+  pion: 47133
+  pipkin: 97737
+  pippin: 39149
+  piston: 14249
+  pitman: 36725
+scored_words:
+  picaroon: 231150
+  picrotoxin: 241979
+  piggin: 190709
+  pigpen: 120352
+  pikeman: 259765
+  pinyon: 102545
+  pirn: 177011
+  pitchman: 251933
+  piton: 141976
+  pixelation: 163226
+not_scored_words:
+- PIN
+- Pickwickian
+- Pierian
+- Pilsen
+- Piman
+- Pinkerton
+- Pinyin
+- Pippin
+- Pisan
+- Pitcairn
+- Pitman
+- Pittman
+- pibgorn
+- pinnation
+- pistareen
+- pitchmen
+- pixilation
+- piñon

@@ -1,0 +1,59 @@
+---
+pattern: _ven
+hi_scored_words_count: 30
+scored_words_count: 3
+total_words: 49
+score: 1352041
+score_per_word: 40970
+hi_scored_words:
+  breakeven: 73344
+  carven: 96932
+  cloven: 80914
+  coven: 44986
+  craven: 19227
+  driven: 2368
+  eleven: 4839
+  enliven: 57080
+  even: 138
+  forgiven: 14772
+  given: 288
+  graven: 53346
+  haven: 5110
+  heaven: 1843
+  interwoven: 28678
+  leaven: 56396
+  liven: 56528
+  maven: 27679
+  oven: 4978
+  proven: 6229
+  raven: 9594
+  riven: 47944
+  seven: 995
+  shaven: 31936
+  striven: 81685
+  uneven: 15792
+  unforgiven: 43237
+  unproven: 39447
+  unshaven: 44279
+  woven: 16387
+scored_words:
+  handwoven: 110749
+  nonwoven: 118272
+  sloven: 156049
+not_scored_words:
+- Beethoven
+- Bremerhaven
+- Cuxhaven
+- Eindhoven
+- Keven
+- Leven
+- Pleven
+- Steven
+- Sven
+- Ven
+- inwoven
+- misgiven
+- rewoven
+- shriven
+- sweven
+- unwoven

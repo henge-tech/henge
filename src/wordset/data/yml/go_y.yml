@@ -1,0 +1,41 @@
+---
+pattern: go_y
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 31
+score: 1152288
+score_per_word: 72018
+hi_scored_words:
+  goby: 66324
+  godly: 22557
+  golly: 39111
+  goodly: 36514
+  goody: 25939
+  gooey: 40934
+  goofy: 21467
+  googly: 75174
+  gooseberry: 56659
+  gorgeously: 79505
+  gory: 31391
+  goy: 78560
+scored_words:
+  goodby: 137812
+  gossipy: 141060
+  gouty: 105581
+  governmentally: 193700
+not_scored_words:
+- Godfrey
+- Gorey
+- Gorky
+- Gothically
+- Goudy
+- godlessly
+- goggly
+- goodheartedly
+- goofily
+- goosy
+- gorblimey
+- gorily
+- gormlessly
+- gossamery
+- gossipry

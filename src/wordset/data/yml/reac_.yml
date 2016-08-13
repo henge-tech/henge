@@ -1,0 +1,48 @@
+---
+pattern: reac_
+hi_scored_words_count: 24
+scored_words_count: 8
+total_words: 38
+score: 2363769
+score_per_word: 73867
+hi_scored_words:
+  reach: 1183
+  reachable: 35813
+  reached: 1584
+  reacher: 97284
+  reaches: 5568
+  reaching: 3541
+  react: 11565
+  reactance: 74388
+  reactant: 66628
+  reactants: 63981
+  reacted: 22963
+  reacting: 27700
+  reaction: 3227
+  reactionaries: 98818
+  reactionary: 27346
+  reactions: 6704
+  reactivate: 56370
+  reactivated: 50887
+  reactivation: 55620
+  reactive: 14586
+  reactivity: 21721
+  reactor: 13959
+  reactors: 18066
+  reacts: 26416
+scored_words:
+  reacquaint: 227457
+  reacquainted: 151449
+  reacquire: 204563
+  reacquired: 170780
+  reacquisition: 235194
+  reactivates: 253892
+  reactivating: 143411
+  reactivities: 171105
+not_scored_words:
+- reacquaintance
+- reacquainting
+- reacquaints
+- reacquires
+- reacquiring
+- reactances

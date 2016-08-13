@@ -1,0 +1,30 @@
+---
+pattern: _pid
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 20
+score: 1101377
+score_per_word: 73425
+hi_scored_words:
+  cupid: 19406
+  insipid: 48226
+  intrepid: 21533
+  limpid: 85078
+  lipid: 14306
+  phospholipid: 48490
+  rapid: 2483
+  stupid: 2713
+  tepid: 46510
+  tricuspid: 82160
+  vapid: 62825
+scored_words:
+  bicuspid: 121002
+  cuspid: 220170
+  sapid: 211460
+  torpid: 115015
+not_scored_words:
+- Cupid
+- elapid
+- hispid
+- unicuspid
+- vespid

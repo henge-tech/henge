@@ -1,0 +1,41 @@
+---
+pattern: deno_
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 31
+score: 1851186
+score_per_word: 84144
+hi_scored_words:
+  denominated: 33032
+  denomination: 17190
+  denominational: 33409
+  denominations: 20693
+  denominator: 21065
+  denominators: 71763
+  denotation: 74197
+  denote: 11318
+  denoted: 18214
+  denotes: 10082
+  denoting: 33479
+  denouement: 69314
+  denounce: 27317
+  denounced: 20324
+  denounces: 58762
+  denouncing: 43374
+scored_words:
+  denom: 173523
+  denominate: 199394
+  denotational: 139502
+  denotations: 227520
+  denotative: 266489
+  denouncement: 281225
+not_scored_words:
+- denominates
+- denominating
+- denominationalism
+- denominationalisms
+- denominative
+- denotatively
+- denouements
+- denouncements
+- denouncer

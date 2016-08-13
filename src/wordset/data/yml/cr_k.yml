@@ -1,0 +1,35 @@
+---
+pattern: cr_k
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 25
+score: 1130747
+score_per_word: 75383
+hi_scored_words:
+  crack: 3561
+  crank: 14059
+  creak: 56026
+  creek: 2456
+  crick: 46140
+  croak: 49742
+  crock: 30423
+  crook: 18486
+  crosstalk: 51013
+  crosswalk: 43572
+scored_words:
+  crackerjack: 109429
+  craftwork: 145594
+  cronk: 106584
+  crookneck: 244498
+  crosscheck: 209164
+not_scored_words:
+- Creek
+- Crick
+- Cruikshank
+- crabstick
+- crewelwork
+- cribwork
+- crookback
+- crossjack
+- crownwork
+- cruck

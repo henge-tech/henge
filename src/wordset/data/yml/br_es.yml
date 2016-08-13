@@ -1,0 +1,106 @@
+---
+pattern: br_es
+hi_scored_words_count: 29
+scored_words_count: 26
+total_words: 96
+score: 5432203
+score_per_word: 98767
+hi_scored_words:
+  braces: 15607
+  brakes: 10714
+  brambles: 69829
+  branches: 3443
+  braves: 13352
+  breaches: 22333
+  breathes: 31880
+  breeches: 34109
+  breezes: 28816
+  breweries: 30015
+  bribes: 30751
+  brides: 16392
+  bridges: 5677
+  bridles: 78060
+  briefcases: 44571
+  brigades: 26120
+  bristles: 42467
+  britches: 69705
+  broadsides: 81724
+  brochures: 11507
+  brokerages: 70805
+  bronzes: 56605
+  brooches: 36228
+  brownies: 22667
+  bruises: 27744
+  brunettes: 26279
+  brushes: 12729
+  brushstrokes: 98098
+  brutes: 61959
+scored_words:
+  brabbles: 213244
+  braes: 127174
+  brainwashes: 270499
+  brainwaves: 120834
+  brandies: 149694
+  brandishes: 241451
+  brasseries: 171876
+  brasses: 113724
+  brassieres: 178558
+  breakables: 264472
+  breakages: 131078
+  breastplates: 166948
+  breves: 185513
+  brightnesses: 267814
+  briquettes: 107685
+  broaches: 135220
+  brocades: 166336
+  brogues: 146605
+  bromides: 124012
+  bronchioles: 174044
+  broodmares: 186152
+  brownstones: 180468
+  browses: 112885
+  brunches: 130042
+  brutalities: 163005
+  bryophytes: 122684
+not_scored_words:
+- Brailles
+- Bridges
+- Bries
+- Brittanies
+- Brookes
+- Brownies
+- Bruges
+- Bruxelles
+- brachiates
+- bracteoles
+- braises
+- brassies
+- brattices
+- brazes
+- breadboxes
+- breadlines
+- breastbones
+- breaststrokes
+- breathalyzes
+- brecciates
+- breviaries
+- brewages
+- brickies
+- bricoles
+- brigandines
+- brigantines
+- brioches
+- brionies
+- brisances
+- broadaxes
+- brochettes
+- brollies
+- bromates
+- brominates
+- bronchoscopes
+- brontosauruses
+- brooklimes
+- brucelloses
+- brucines
+- brutalizes
+- bryonies

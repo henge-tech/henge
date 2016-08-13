@@ -1,0 +1,45 @@
+---
+pattern: ma_al
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 35
+score: 1411795
+score_per_word: 56471
+hi_scored_words:
+  madrigal: 53277
+  magical: 6851
+  magisterial: 61140
+  malarial: 73471
+  mammal: 22914
+  managerial: 22440
+  maniacal: 68335
+  manual: 4027
+  marginal: 10803
+  marital: 13866
+  marshal: 10343
+  marsupial: 66084
+  martial: 5409
+  material: 740
+  maternal: 8821
+  mathematical: 5439
+  matrimonial: 26762
+  maximal: 16689
+  mayoral: 33893
+scored_words:
+  magistral: 227684
+  manorial: 121911
+  matriarchal: 113596
+  matrilineal: 115891
+  matrilocal: 114682
+  maturational: 206727
+not_scored_words:
+- Marshal
+- Martial
+- macroscopical
+- manometrical
+- manurial
+- maricultural
+- marmoreal
+- matricidal
+- matrilateral
+- matutinal

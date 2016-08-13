@@ -1,0 +1,23 @@
+---
+pattern: s_ave
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 677643
+score_per_word: 67764
+hi_scored_words:
+  save: 351
+  shave: 11195
+  sheave: 82365
+  shockwave: 23053
+  shortwave: 32916
+  slave: 3255
+  stave: 35662
+  suave: 35357
+scored_words:
+  sleave: 340562
+  soave: 112927
+not_scored_words:
+- Soave
+- spokeshave
+- subcontraoctave

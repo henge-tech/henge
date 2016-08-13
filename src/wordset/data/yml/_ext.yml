@@ -1,0 +1,20 @@
+---
+pattern: _ext
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 10
+score: 476336
+score_per_word: 47633
+hi_scored_words:
+  context: 4701
+  ext: 14178
+  hypertext: 14287
+  next: 127
+  pretext: 21991
+  sext: 86131
+  subtext: 54479
+  teletext: 46242
+  text: 607
+scored_words:
+  urtext: 233593
+not_scored_words: []

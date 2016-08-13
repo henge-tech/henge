@@ -1,0 +1,43 @@
+---
+pattern: cu_ed
+hi_scored_words_count: 20
+scored_words_count: 6
+total_words: 33
+score: 1764092
+score_per_word: 67849
+hi_scored_words:
+  cubed: 46112
+  cuddled: 71023
+  cued: 70973
+  cuffed: 51550
+  culled: 42862
+  culminated: 27992
+  cultivated: 10597
+  cultured: 14256
+  cupped: 52367
+  curated: 29728
+  curbed: 45782
+  cured: 10950
+  curled: 25683
+  curried: 62569
+  cursed: 10802
+  curtailed: 40271
+  curved: 9430
+  cushioned: 36410
+  cussed: 63586
+  customized: 7163
+scored_words:
+  cuckolded: 254439
+  cumbered: 180213
+  cumulated: 108266
+  curdled: 126657
+  curtained: 115118
+  curtsied: 249293
+not_scored_words:
+- cudgeled
+- cudweed
+- cupolaed
+- curlicued
+- currycombed
+- curvetted
+- cusped

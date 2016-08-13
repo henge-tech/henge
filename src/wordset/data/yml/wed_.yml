@@ -1,0 +1,29 @@
+---
+pattern: wed_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 19
+score: 582879
+score_per_word: 48573
+hi_scored_words:
+  wed: 3859
+  wedded: 31869
+  wedding: 1591
+  weddings: 9021
+  wedge: 12265
+  wedged: 49371
+  wedges: 26850
+  wedgie: 65458
+  wedlock: 39289
+  weds: 46630
+scored_words:
+  wedgies: 157326
+  wedging: 139350
+not_scored_words:
+- Wed
+- Weddell
+- Wedekind
+- Wedgwood
+- Wednesday
+- Wednesdays
+- wedder

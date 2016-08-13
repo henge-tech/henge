@@ -1,0 +1,63 @@
+---
+pattern: pa_ers
+hi_scored_words_count: 27
+scored_words_count: 7
+total_words: 53
+score: 2678151
+score_per_word: 78769
+hi_scored_words:
+  pacemakers: 56870
+  pacers: 24995
+  pacifiers: 85692
+  packers: 22315
+  paddlers: 70620
+  pagers: 41813
+  painkillers: 43577
+  painters: 12534
+  pallbearers: 78906
+  palmers: 68232
+  pampers: 55002
+  panniers: 84162
+  panthers: 16552
+  panzers: 79595
+  papers: 1201
+  parameters: 2729
+  paratroopers: 58203
+  parishioners: 35434
+  parsers: 58508
+  partakers: 87886
+  partners: 2146
+  passengers: 4739
+  passers: 51317
+  pathfinders: 68411
+  paupers: 87316
+  pawnbrokers: 90846
+  payers: 24775
+scored_words:
+  pacesetters: 230800
+  packagers: 115501
+  panders: 194088
+  panhandlers: 181402
+  paperhangers: 269296
+  patters: 128257
+  paymasters: 244431
+not_scored_words:
+- Pampers
+- Passovers
+- Paternosters
+- palavers
+- paleographers
+- palters
+- pamphleteers
+- panderers
+- paperers
+- paraders
+- paragraphers
+- pardners
+- pardoners
+- parers
+- pasqueflowers
+- passionflowers
+- pasteurizers
+- paternosters
+- patronizers

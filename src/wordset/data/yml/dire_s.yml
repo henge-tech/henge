@@ -1,0 +1,21 @@
+---
+pattern: dire_s
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 434603
+score_per_word: 48289
+hi_scored_words:
+  directions: 2004
+  directives: 13480
+  directness: 70404
+  directorates: 64774
+  directories: 7718
+  directors: 3789
+  directorships: 96532
+  directs: 14112
+scored_words:
+  directionless: 161790
+not_scored_words:
+- directionalities
+- direness

@@ -1,0 +1,69 @@
+---
+pattern: s_ker
+hi_scored_words_count: 24
+scored_words_count: 20
+total_words: 59
+score: 4419204
+score_per_word: 100436
+hi_scored_words:
+  seeker: 12483
+  shaker: 23162
+  shocker: 31584
+  shoemaker: 23682
+  sicker: 61816
+  sinker: 51672
+  slacker: 34133
+  sleepwalker: 90960
+  slicker: 60612
+  smoker: 19452
+  sneaker: 28335
+  snicker: 55666
+  snooker: 15092
+  soaker: 86307
+  speaker: 2540
+  spinnaker: 60704
+  stacker: 40975
+  stalker: 20732
+  sticker: 11110
+  stinker: 69655
+  stockbroker: 49509
+  stoker: 39737
+  striker: 24153
+  sucker: 19896
+scored_words:
+  sacker: 180435
+  safecracker: 222203
+  sailmaker: 216017
+  saker: 111044
+  sapsucker: 112763
+  seersucker: 117283
+  shrinker: 170182
+  skyjacker: 176142
+  sleeker: 105124
+  smacker: 286665
+  spanker: 140317
+  sparker: 278224
+  spellchecker: 118048
+  squeaker: 110450
+  starker: 112486
+  steelmaker: 212870
+  steelworker: 206083
+  streaker: 111561
+  streetwalker: 208978
+  supertanker: 288362
+not_scored_words:
+- Shaker
+- Studebaker
+- saltshaker
+- shirker
+- shirtmaker
+- shrieker
+- shucker
+- skulker
+- smirker
+- spacewalker
+- speechmaker
+- spelunker
+- squawker
+- strikebreaker
+- swanker

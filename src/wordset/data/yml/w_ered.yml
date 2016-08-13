@@ -1,0 +1,26 @@
+---
+pattern: w_ered
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 595857
+score_per_word: 54168
+hi_scored_words:
+  wagered: 89288
+  wandered: 14839
+  watered: 25624
+  wavered: 65734
+  weathered: 29625
+  whimpered: 85465
+  whispered: 10212
+  withered: 31115
+  wondered: 5846
+scored_words:
+  whiskered: 116950
+  wintered: 121159
+not_scored_words:
+- wallpapered
+- weltered
+- whickered
+- wittered
+- woolgathered

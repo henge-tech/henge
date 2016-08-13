@@ -1,0 +1,29 @@
+---
+pattern: d_ives
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 19
+score: 1151912
+score_per_word: 88608
+hi_scored_words:
+  deceives: 95890
+  deprives: 60594
+  derivatives: 14275
+  derives: 16000
+  detectives: 17804
+  directives: 13480
+  disincentives: 79272
+  dives: 26019
+  drives: 3644
+scored_words:
+  defectives: 223846
+  demonstratives: 181056
+  depressives: 211082
+  digestives: 208950
+not_scored_words:
+- Dives
+- datives
+- determinatives
+- diminutives
+- drawknives
+- duratives

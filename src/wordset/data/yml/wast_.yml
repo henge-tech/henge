@@ -1,0 +1,30 @@
+---
+pattern: wast_
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 20
+score: 1305616
+score_per_word: 72534
+hi_scored_words:
+  wast: 46214
+  wastage: 47681
+  waste: 1507
+  wastebasket: 74697
+  wasted: 6744
+  wasteful: 26643
+  wasteland: 26142
+  wastelands: 83356
+  waster: 61962
+  wasters: 73882
+  wastes: 11451
+  wastewater: 11548
+  wasting: 9032
+scored_words:
+  wastebaskets: 142731
+  wastefully: 233070
+  wastefulness: 168656
+  wastepaper: 119455
+  wastrel: 160845
+not_scored_words:
+- wastings
+- wastrels

@@ -1,0 +1,39 @@
+---
+pattern: h_tion
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 29
+score: 1108429
+score_per_word: 58338
+hi_scored_words:
+  habilitation: 60570
+  habitation: 27926
+  habituation: 66238
+  hallucination: 41331
+  harmonization: 37092
+  herniation: 84451
+  hesitation: 14805
+  hibernation: 38206
+  homogenization: 75024
+  hospitalization: 23584
+  humiliation: 9283
+  hybridization: 23862
+  hydration: 23376
+  hydrogenation: 65792
+  hyperinflation: 76909
+  hyperventilation: 85205
+  hyphenation: 68908
+scored_words:
+  humanization: 178009
+  humidification: 107858
+not_scored_words:
+- Hellenization
+- halation
+- hierarchization
+- himation
+- horrification
+- horripilation
+- hortation
+- hydrolyzation
+- hypercorrection
+- hypnotization

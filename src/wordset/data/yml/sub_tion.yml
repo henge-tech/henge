@@ -1,0 +1,34 @@
+---
+pattern: sub_tion
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 24
+score: 1278648
+score_per_word: 71036
+hi_scored_words:
+  subduction: 52710
+  subjection: 45270
+  subjugation: 57873
+  sublimation: 45748
+  subordination: 37955
+  subpopulation: 87744
+  subrogation: 82799
+  subscription: 4940
+  subsection: 12994
+  subsidization: 90999
+  substantiation: 71486
+  substation: 38099
+  substitution: 10407
+  subsumption: 86297
+  subtraction: 28218
+scored_words:
+  subclassification: 249646
+  suburbanization: 153298
+  subvention: 122165
+not_scored_words:
+- subaudition
+- subinfeudation
+- subjunction
+- subornation
+- subreption
+- subspecialization

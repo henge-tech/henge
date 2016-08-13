@@ -1,0 +1,25 @@
+---
+pattern: cont_ons
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 755653
+score_per_word: 68695
+hi_scored_words:
+  contentions: 49144
+  continuations: 66737
+  contortions: 97224
+  contractions: 28364
+  contradictions: 20302
+  contraindications: 34639
+  contraptions: 83122
+  contributions: 2611
+scored_words:
+  contemplations: 120567
+  contraventions: 142090
+  contusions: 110853
+not_scored_words:
+- contagions
+- contestations
+- contrabassoons
+- contradistinctions

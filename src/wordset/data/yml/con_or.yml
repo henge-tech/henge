@@ -1,0 +1,43 @@
+---
+pattern: con_or
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 33
+score: 1540636
+score_per_word: 66984
+hi_scored_words:
+  concentrator: 48805
+  condor: 28585
+  conductor: 8080
+  confessor: 40305
+  connector: 7376
+  conqueror: 23173
+  conquistador: 70921
+  conservator: 48147
+  consignor: 96155
+  consolidator: 97037
+  conspirator: 55757
+  constrictor: 78891
+  constructor: 12920
+  contactor: 73599
+  contractor: 7336
+  contributor: 10743
+  convenor: 52162
+  convertor: 76810
+  conveyor: 20540
+scored_words:
+  conciliator: 136423
+  conjuror: 142523
+  consecrator: 213577
+  convector: 190771
+not_scored_words:
+- Confiteor
+- confiscator
+- congratulator
+- congregator
+- consummator
+- contaminator
+- contemnor
+- contemplator
+- continuator
+- contradictor

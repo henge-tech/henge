@@ -1,0 +1,42 @@
+---
+pattern: _pot
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 32
+score: 2302587
+score_per_word: 121188
+hi_scored_words:
+  crackpot: 62999
+  depot: 6131
+  despot: 49027
+  flowerpot: 97016
+  honeypot: 76528
+  jackpot: 15584
+  pot: 3608
+  spot: 1542
+  sunspot: 47842
+  teapot: 24124
+scored_words:
+  cachepot: 338185
+  coffeepot: 151358
+  entrepot: 250677
+  eyespot: 301737
+  hotpot: 129261
+  nightspot: 145987
+  sexpot: 181462
+  stockpot: 125789
+  tosspot: 293730
+not_scored_words:
+- boughpot
+- chamberpot
+- chassepot
+- dashpot
+- fleshpot
+- fusspot
+- galipot
+- gallipot
+- hotchpot
+- monkeypot
+- stinkpot
+- tinpot
+- troublespot

@@ -1,0 +1,39 @@
+---
+pattern: into_
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 29
+score: 1781847
+score_per_word: 98991
+hi_scored_words:
+  into: 74
+  intolerable: 21673
+  intolerance: 18110
+  intolerant: 26852
+  intonation: 32203
+  intoxicated: 20689
+  intoxicating: 28965
+  intoxication: 23140
+scored_words:
+  intolerably: 136366
+  intonational: 208874
+  intonations: 165416
+  intone: 174467
+  intoned: 104422
+  intones: 185344
+  intoning: 230758
+  intoxicant: 153500
+  intoxicants: 105153
+  intoxicate: 145841
+not_scored_words:
+- intolerantly
+- intonate
+- intonated
+- intonates
+- intonating
+- intoner
+- intoners
+- intorsion
+- intort
+- intoxicates
+- intoxicative

@@ -1,0 +1,52 @@
+---
+pattern: dr_r
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 42
+score: 1909892
+score_per_word: 76395
+hi_scored_words:
+  drafter: 64799
+  dragster: 67146
+  drainer: 90363
+  draper: 18413
+  drawer: 7696
+  dreamer: 17034
+  dresser: 16656
+  dressmaker: 63875
+  drier: 27221
+  drifter: 39109
+  driller: 59750
+  drinker: 26919
+  driver: 2026
+  dropper: 48197
+  drover: 74450
+  drummer: 13286
+  dryer: 12095
+scored_words:
+  dragger: 178600
+  drawbar: 129064
+  drear: 136964
+  dredger: 125322
+  dressier: 187286
+  dribbler: 209839
+  dripper: 146957
+  drunker: 146825
+not_scored_words:
+- Draper
+- Dreiser
+- Drinkwater
+- drabber
+- draftier
+- draggier
+- dreamier
+- drearier
+- drillmaster
+- drippier
+- driveler
+- droller
+- droopier
+- drowsier
+- drubber
+- drunkometer
+- drysalter

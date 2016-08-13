@@ -1,0 +1,39 @@
+---
+pattern: mo_st
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 29
+score: 1042066
+score_per_word: 80158
+hi_scored_words:
+  modernist: 29123
+  modest: 5841
+  moist: 10798
+  molest: 53981
+  monopolist: 60766
+  moralist: 93265
+  most: 93
+  motorcyclist: 62017
+  motorist: 33821
+scored_words:
+  monarchist: 103224
+  monetarist: 172097
+  monist: 203397
+  monotheist: 213643
+not_scored_words:
+- moistest
+- moldiest
+- monodist
+- monogamist
+- monographist
+- monologist
+- monologuist
+- moodiest
+- mooniest
+- mopiest
+- morphologist
+- mosaicist
+- mossiest
+- motliest
+- mousiest
+- mouthiest

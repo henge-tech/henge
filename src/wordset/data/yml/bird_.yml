@@ -1,0 +1,42 @@
+---
+pattern: bird_
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 32
+score: 2435527
+score_per_word: 105892
+hi_scored_words:
+  bird: 1642
+  birdbath: 94723
+  birdbaths: 99275
+  birdcage: 59088
+  birders: 71152
+  birdhouse: 51607
+  birdie: 27806
+  birdies: 48158
+  birding: 29043
+  birdman: 47182
+  birds: 2011
+  birdsong: 55514
+  birdwatching: 53433
+scored_words:
+  birdbrain: 212556
+  birdcages: 277649
+  birded: 307835
+  birder: 110394
+  birdhouses: 104156
+  birdied: 140223
+  birdlike: 240364
+  birdseed: 129244
+  birdwatcher: 158300
+  birdwatchers: 114172
+not_scored_words:
+- Bird
+- Birdseye
+- birdbrained
+- birdbrains
+- birdieing
+- birdlime
+- birdshot
+- birdtables
+- birdying

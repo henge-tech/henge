@@ -1,0 +1,39 @@
+---
+pattern: le_rs
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 29
+score: 2411447
+score_per_word: 104845
+hi_scored_words:
+  leaders: 1815
+  learners: 8343
+  leathers: 41846
+  leavers: 38361
+  lecturers: 24626
+  ledgers: 60647
+  leftovers: 28330
+  legislators: 13121
+  lemurs: 68720
+  lenders: 8849
+  lepers: 71772
+  lessors: 82040
+  letters: 1113
+  levers: 25821
+scored_words:
+  leafhoppers: 180017
+  leapers: 293587
+  leaseholders: 112137
+  lectors: 199677
+  leers: 229981
+  legwarmers: 205234
+  levelers: 142908
+  lexers: 332408
+  lexicographers: 240094
+not_scored_words:
+- Leicesters
+- leasers
+- lechers
+- letterers
+- levanters
+- leviers

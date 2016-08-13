@@ -1,0 +1,37 @@
+---
+pattern: spli_
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 27
+score: 1541153
+score_per_word: 67006
+hi_scored_words:
+  splice: 32707
+  spliced: 51579
+  splices: 56129
+  splicing: 27432
+  spliff: 94573
+  spline: 35782
+  splines: 60714
+  splint: 46819
+  splinter: 19215
+  splintered: 62576
+  splintering: 98055
+  splinters: 51982
+  splinting: 98150
+  splints: 51412
+  split: 3149
+  splits: 18704
+  splitter: 23938
+  splitters: 48328
+  splitting: 12419
+scored_words:
+  splicer: 125676
+  splicers: 196516
+  splined: 182076
+  splittings: 143222
+not_scored_words:
+- Split
+- spliffs
+- splinted
+- splintery

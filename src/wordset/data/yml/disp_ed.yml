@@ -1,0 +1,26 @@
+---
+pattern: disp_ed
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 16
+score: 814997
+score_per_word: 58214
+hi_scored_words:
+  dispatched: 6899
+  dispelled: 58767
+  dispensed: 23023
+  dispersed: 12654
+  dispirited: 90459
+  displaced: 12124
+  displayed: 2372
+  displeased: 35033
+  disposed: 8031
+  dispossessed: 55125
+  disproved: 65001
+  disputed: 15876
+scored_words:
+  disparaged: 116760
+  disported: 312873
+not_scored_words:
+- displumed
+- dispraised

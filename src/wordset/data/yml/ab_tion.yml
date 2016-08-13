@@ -1,0 +1,32 @@
+---
+pattern: ab_tion
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 22
+score: 1069860
+score_per_word: 59436
+hi_scored_words:
+  abbreviation: 19196
+  abdication: 54218
+  abduction: 21828
+  aberration: 33212
+  ablation: 33497
+  ablution: 67542
+  abolition: 15374
+  abomination: 30529
+  abortion: 10752
+  abrogation: 65773
+  absolution: 37919
+  absorption: 8189
+  abstention: 51580
+  abstraction: 12454
+scored_words:
+  abjection: 206345
+  abjuration: 125989
+  abnegation: 135934
+  abruption: 139529
+not_scored_words:
+- abreaction
+- absolutization
+- absquatulation
+- abstriction

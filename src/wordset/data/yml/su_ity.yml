@@ -1,0 +1,29 @@
+---
+pattern: su_ity
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 19
+score: 1722545
+score_per_word: 107659
+hi_scored_words:
+  suavity: 69160
+  subjectivity: 34181
+  sublimity: 72850
+  subsidiarity: 79631
+  suitability: 23157
+  superconductivity: 48073
+  superiority: 15164
+  survivability: 46504
+  susceptibility: 17624
+  sustainability: 7416
+scored_words:
+  suggestibility: 180413
+  summability: 340840
+  superficiality: 117362
+  superfluity: 134167
+  supportability: 205689
+  surreality: 330314
+not_scored_words:
+- subnormality
+- sumptuosity
+- supercity

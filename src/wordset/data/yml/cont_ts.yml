@@ -1,0 +1,27 @@
+---
+pattern: cont_ts
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 17
+score: 430297
+score_per_word: 35858
+hi_scored_words:
+  contacts: 6386
+  contaminants: 15749
+  contents: 1556
+  contestants: 23600
+  contests: 7559
+  contexts: 9714
+  continents: 12796
+  contingents: 79329
+  contracts: 3493
+  contradicts: 29850
+  contrasts: 18430
+scored_words:
+  contortionists: 221835
+not_scored_words:
+- continuants
+- contorts
+- contrabandists
+- contrapuntists
+- controverts

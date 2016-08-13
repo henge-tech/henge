@@ -1,0 +1,33 @@
+---
+pattern: geom_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 23
+score: 1349389
+score_per_word: 96384
+hi_scored_words:
+  geom: 66031
+  geomagnetic: 52470
+  geometric: 18584
+  geometrical: 26535
+  geometrically: 50043
+  geometries: 39997
+  geometry: 8396
+  geomorphic: 96011
+  geomorphology: 56540
+scored_words:
+  geomagnetism: 177335
+  geomancer: 265720
+  geomancy: 118038
+  geometer: 136627
+  geometers: 237062
+not_scored_words:
+- Geometric
+- geomagnetically
+- geomantic
+- geometrician
+- geometricians
+- geometrid
+- geometrids
+- geometrize
+- geomorphologies

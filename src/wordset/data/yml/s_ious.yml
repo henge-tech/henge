@@ -1,0 +1,41 @@
+---
+pattern: s_ious
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 31
+score: 1306106
+score_per_word: 65305
+hi_scored_words:
+  sacrilegious: 78296
+  sagacious: 76663
+  salacious: 76125
+  sanctimonious: 71136
+  scrumptious: 46196
+  seditious: 61087
+  serious: 1131
+  spacious: 8352
+  specious: 48166
+  spurious: 22980
+  studious: 56053
+  subconscious: 23664
+  superstitious: 28950
+  surreptitious: 74083
+  suspicious: 7931
+scored_words:
+  salubrious: 114730
+  semiprecious: 124704
+  sententious: 171829
+  supercilious: 103153
+  supposititious: 110877
+not_scored_words:
+- sanious
+- scabious
+- selenious
+- semiconscious
+- semireligious
+- sequacious
+- struthious
+- supercalifragilisticexpialidocious
+- suppositious
+- symphonious
+- synecious

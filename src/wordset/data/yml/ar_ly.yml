@@ -1,0 +1,33 @@
+---
+pattern: ar_ly
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 23
+score: 1602938
+score_per_word: 114495
+hi_scored_words:
+  arbitrarily: 22806
+  architecturally: 54492
+  ardently: 59003
+  arguably: 17868
+  arrogantly: 89798
+  artfully: 54877
+  artificially: 20009
+  artistically: 42387
+scored_words:
+  archaeologically: 203914
+  archly: 210054
+  arduously: 232493
+  arithmetically: 202931
+  articulately: 180966
+  artlessly: 211340
+not_scored_words:
+- arcanely
+- archaically
+- archeologically
+- architectonically
+- argumentatively
+- aridly
+- aristocratically
+- aromatically
+- artily

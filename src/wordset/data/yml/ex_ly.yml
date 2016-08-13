@@ -1,0 +1,71 @@
+---
+pattern: ex_ly
+hi_scored_words_count: 23
+scored_words_count: 15
+total_words: 61
+score: 3448090
+score_per_word: 90739
+hi_scored_words:
+  exactly: 1267
+  exceedingly: 14396
+  excellently: 47868
+  exceptionally: 12484
+  excessively: 18063
+  excitedly: 39257
+  exclusively: 4928
+  excruciatingly: 85558
+  exhaustively: 67869
+  expectantly: 87650
+  expeditiously: 55817
+  experimentally: 25272
+  expertly: 36648
+  explicitly: 9128
+  explosively: 93589
+  exponentially: 25883
+  expressly: 8176
+  exquisitely: 33695
+  extensively: 9561
+  externally: 18516
+  extraordinarily: 20641
+  extravagantly: 78857
+  extremely: 1876
+scored_words:
+  exaggeratedly: 220160
+  excitingly: 159814
+  existentially: 137545
+  exogenously: 110635
+  exorbitantly: 207133
+  exotically: 244027
+  expansively: 203016
+  expediently: 207321
+  expensively: 102365
+  experientially: 167015
+  expressively: 128499
+  extemporaneously: 276093
+  exuberantly: 177911
+  exultantly: 150177
+  exultingly: 159380
+not_scored_words:
+- exactingly
+- exasperatedly
+- exasperatingly
+- exceptionably
+- excitably
+- excursively
+- excusably
+- execrably
+- exemplarily
+- exhibitionistically
+- exhilaratingly
+- exiguously
+- exothermically
+- explanatorily
+- explicably
+- expressionlessly
+- extemporarily
+- extensionally
+- exteriorly
+- extortionately
+- extralegally
+- extraneously
+- extrinsically

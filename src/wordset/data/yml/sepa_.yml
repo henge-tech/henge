@@ -1,0 +1,34 @@
+---
+pattern: sepa_
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 24
+score: 1001678
+score_per_word: 55648
+hi_scored_words:
+  sepals: 79682
+  separability: 99984
+  separable: 34492
+  separate: 1440
+  separated: 3635
+  separately: 7968
+  separateness: 95425
+  separates: 12831
+  separating: 12019
+  separation: 4246
+  separations: 34612
+  separatism: 67551
+  separatist: 40030
+  separatists: 56389
+  separator: 22891
+  separators: 43360
+scored_words:
+  sepal: 150572
+  separatrix: 234551
+not_scored_words:
+- sepaled
+- sepaloid
+- sepalous
+- separably
+- separative
+- separatrixes

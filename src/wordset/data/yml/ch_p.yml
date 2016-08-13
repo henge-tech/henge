@@ -1,0 +1,29 @@
+---
+pattern: ch_p
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 19
+score: 678356
+score_per_word: 42397
+hi_scored_words:
+  chairmanship: 39846
+  champ: 13168
+  championship: 7665
+  chancellorship: 57523
+  chap: 8213
+  cheap: 1554
+  checkup: 42231
+  cheep: 39301
+  chimp: 25041
+  chip: 6231
+  chirp: 43283
+  chomp: 48302
+  chop: 11357
+  chump: 39856
+scored_words:
+  chinstrap: 156858
+  chirrup: 137927
+not_scored_words:
+- chaplainship
+- chieftainship
+- chokedamp

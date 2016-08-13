@@ -1,0 +1,58 @@
+---
+pattern: in_ible
+hi_scored_words_count: 28
+scored_words_count: 3
+total_words: 48
+score: 1679325
+score_per_word: 54171
+hi_scored_words:
+  inaccessible: 18279
+  inadmissible: 45648
+  inaudible: 28566
+  incompatible: 13088
+  incomprehensible: 24640
+  incompressible: 64470
+  incontrovertible: 71561
+  incorrigible: 64935
+  incorruptible: 78688
+  incredible: 3766
+  indefensible: 61098
+  indelible: 39286
+  indestructible: 39577
+  indivisible: 43015
+  inducible: 45993
+  inedible: 67467
+  ineligible: 27687
+  inexhaustible: 41200
+  inexpressible: 86424
+  infallible: 34749
+  infeasible: 62940
+  inflexible: 29412
+  insensible: 59210
+  intangible: 18097
+  intelligible: 30998
+  invertible: 64148
+  invincible: 20104
+  invisible: 5062
+scored_words:
+  indefeasible: 205844
+  indigestible: 120433
+  indiscernible: 162940
+not_scored_words:
+- inapprehensible
+- incoercible
+- incombustible
+- inconvertible
+- inconvincible
+- indefectible
+- indiscerptible
+- indivertible
+- ineludible
+- inevasible
+- inexpungible
+- inextensible
+- infrangible
+- infusible
+- insuppressible
+- insusceptible
+- introducible

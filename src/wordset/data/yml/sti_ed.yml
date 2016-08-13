@@ -1,0 +1,26 @@
+---
+pattern: sti_ed
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 772529
+score_per_word: 64377
+hi_scored_words:
+  stiffened: 52525
+  stifled: 45425
+  stigmatized: 74617
+  stilled: 69784
+  stilted: 65011
+  stimulated: 11657
+  stipulated: 18762
+  stirred: 13650
+  stitched: 24730
+scored_words:
+  stiffed: 133174
+  stinted: 119602
+  stippled: 143592
+not_scored_words:
+- stickled
+- stickseed
+- stickweed
+- stinkweed

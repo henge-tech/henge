@@ -1,0 +1,41 @@
+---
+pattern: cre_e
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 31
+score: 1028797
+score_per_word: 54147
+hi_scored_words:
+  crease: 27790
+  create: 1110
+  creatine: 21652
+  creatinine: 36924
+  creative: 3023
+  creature: 4798
+  creche: 66598
+  credence: 31684
+  credible: 11898
+  creditable: 38368
+  creme: 24234
+  creole: 18129
+  creosote: 61829
+  crepe: 31830
+  crevasse: 79404
+  crevice: 44210
+scored_words:
+  creese: 246254
+  cremate: 143094
+  crepuscule: 135968
+not_scored_words:
+- Cree
+- Creole
+- Crete
+- Creuse
+- creatable
+- creepie
+- crenate
+- crenelate
+- crenulate
+- crepitate
+- cretonne
+- crewmate

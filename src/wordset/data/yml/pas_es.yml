@@ -1,0 +1,29 @@
+---
+pattern: pas_es
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 1184852
+score_per_word: 98737
+hi_scored_words:
+  passages: 7830
+  passes: 3339
+  passives: 79373
+  pastes: 57315
+  pasties: 65818
+  pastimes: 39134
+  pastries: 28974
+  pastures: 26348
+scored_words:
+  passerines: 143887
+  passphrases: 287380
+  pastiches: 262784
+  pastilles: 182670
+not_scored_words:
+- pasquinades
+- passementeries
+- passivizes
+- pasteurizes
+- pastises
+- pastorales
+- pastorates

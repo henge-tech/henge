@@ -1,0 +1,37 @@
+---
+pattern: gl_n
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 27
+score: 1082588
+score_per_word: 56978
+hi_scored_words:
+  glaciation: 61446
+  gladden: 67921
+  glassman: 68539
+  glean: 46345
+  glen: 6911
+  glisten: 70923
+  globalization: 13688
+  globin: 63402
+  globulin: 44203
+  glorification: 54212
+  glucagon: 49925
+  gluon: 59039
+  gluten: 23453
+  glutton: 62502
+  glycerin: 37954
+  glycogen: 31333
+  glycoprotein: 32356
+scored_words:
+  gleeman: 151620
+  gliadin: 136816
+not_scored_words:
+- Glaswegian
+- Gleason
+- Glen
+- Glenn
+- glamorization
+- glomeration
+- glucoprotein
+- glutelin

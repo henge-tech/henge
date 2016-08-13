@@ -1,0 +1,42 @@
+---
+pattern: _aked
+hi_scored_words_count: 20
+scored_words_count: 6
+total_words: 32
+score: 1784719
+score_per_word: 68643
+hi_scored_words:
+  baked: 9691
+  beaked: 64981
+  braked: 72874
+  caked: 81512
+  cloaked: 49361
+  faked: 34522
+  flaked: 74849
+  freaked: 30692
+  leaked: 19062
+  naked: 1796
+  peaked: 20106
+  raked: 49038
+  sneaked: 60038
+  soaked: 16075
+  squeaked: 87396
+  staked: 41874
+  streaked: 47039
+  tweaked: 35290
+  waked: 64209
+  wreaked: 80789
+scored_words:
+  creaked: 100935
+  croaked: 106222
+  quaked: 203014
+  slaked: 183195
+  snaked: 105250
+  unbaked: 144909
+not_scored_words:
+- kayaked
+- muckraked
+- pancaked
+- screaked
+- sunbaked
+- uncloaked

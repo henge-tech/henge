@@ -1,0 +1,25 @@
+---
+pattern: cons_ns
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 1195008
+score_per_word: 99584
+hi_scored_words:
+  considerations: 4737
+  consolations: 92821
+  consolidations: 67084
+  constellations: 28515
+  constitutions: 22561
+  constrains: 63471
+  constructions: 18960
+  consultations: 13707
+scored_words:
+  conservations: 289060
+  consigns: 262080
+  constrictions: 155448
+  consumptions: 176564
+not_scored_words:
+- consecrations
+- constantans
+- consummations

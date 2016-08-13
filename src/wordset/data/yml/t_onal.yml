@@ -1,0 +1,26 @@
+---
+pattern: t_onal
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 16
+score: 775503
+score_per_word: 64625
+hi_scored_words:
+  tetragonal: 86678
+  tonal: 27823
+  torsional: 60491
+  traditional: 2801
+  transactional: 29087
+  transcriptional: 27810
+  transformational: 38891
+  transitional: 15042
+  translational: 33524
+  transnational: 22336
+scored_words:
+  tensional: 304187
+  trigonal: 126833
+not_scored_words:
+- tractional
+- tridimensional
+- tripersonal
+- tuitional

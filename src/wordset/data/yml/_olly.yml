@@ -1,0 +1,30 @@
+---
+pattern: _olly
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 20
+score: 672924
+score_per_word: 48066
+hi_scored_words:
+  coolly: 45071
+  dolly: 14347
+  folly: 12627
+  golly: 39111
+  holly: 8583
+  jolly: 9285
+  lolly: 38366
+  molly: 12806
+  tolly: 99167
+  wholly: 5690
+  woolly: 29867
+scored_words:
+  brolly: 116131
+  colly: 137592
+  loblolly: 104281
+not_scored_words:
+- Connolly
+- Dolly
+- Holly
+- Molly
+- Polly
+- drolly

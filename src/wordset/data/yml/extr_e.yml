@@ -1,0 +1,32 @@
+---
+pattern: extr_e
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 22
+score: 1084095
+score_per_word: 98554
+hi_scored_words:
+  extractable: 91301
+  extractive: 58715
+  extradite: 75450
+  extraordinaire: 37310
+  extrapolate: 47308
+  extravagance: 38688
+  extreme: 1817
+  extricate: 55870
+  extrude: 89580
+scored_words:
+  extraditable: 321623
+  extrusive: 266433
+not_scored_words:
+- extractible
+- extramundane
+- extrapolative
+- extrasystole
+- extrauterine
+- extravagate
+- extravasate
+- extricable
+- extrorse
+- extrudable
+- extrusile

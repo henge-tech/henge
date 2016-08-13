@@ -1,0 +1,30 @@
+---
+pattern: a_ide
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 20
+score: 796777
+score_per_word: 61290
+hi_scored_words:
+  abide: 8125
+  acrylamide: 70022
+  aide: 12208
+  alcaide: 80807
+  alongside: 6422
+  amide: 45580
+  anhydride: 50188
+  arsenide: 83276
+  aside: 2767
+  astride: 48762
+  azide: 68072
+scored_words:
+  acetamide: 198635
+  actinide: 121913
+not_scored_words:
+- Adelaide
+- Allhallowtide
+- aborticide
+- acaricide
+- acetanilide
+- acetylide
+- algicide

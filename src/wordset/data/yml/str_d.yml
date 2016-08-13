@@ -1,0 +1,61 @@
+---
+pattern: str_d
+hi_scored_words_count: 27
+scored_words_count: 8
+total_words: 51
+score: 2096923
+score_per_word: 59912
+hi_scored_words:
+  straddled: 84498
+  straightened: 32857
+  straightforward: 9401
+  strained: 15528
+  strand: 8047
+  stranded: 13985
+  strangled: 39052
+  stranglehold: 64583
+  strapped: 23696
+  stratified: 28333
+  strayed: 43861
+  streaked: 47039
+  streamed: 30603
+  streamlined: 19152
+  strengthened: 9903
+  stressed: 16851
+  stretched: 7023
+  striated: 61103
+  stringed: 43941
+  striped: 13890
+  stripped: 9457
+  stroked: 34491
+  strolled: 45123
+  stronghold: 19718
+  stroud: 25678
+  structured: 10119
+  struggled: 9919
+scored_words:
+  strafed: 192672
+  straggled: 205447
+  straitened: 141988
+  strangulated: 260377
+  streambed: 119488
+  strewed: 144768
+  strummed: 151190
+  strutted: 113142
+not_scored_words:
+- Strafford
+- Stralsund
+- Streisand
+- Strickland
+- straitjacketed
+- straitlaced
+- strawboard
+- strawed
+- stretchered
+- strickled
+- strictured
+- stridulated
+- strikebound
+- stringboard
+- stripteased
+- stropped

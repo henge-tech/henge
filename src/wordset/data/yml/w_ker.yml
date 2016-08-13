@@ -1,0 +1,32 @@
+---
+pattern: w_ker
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 22
+score: 1052585
+score_per_word: 65786
+hi_scored_words:
+  wacker: 49834
+  walker: 8253
+  wanker: 48441
+  watchmaker: 50852
+  weaker: 10138
+  whisker: 49279
+  wicker: 19246
+  windbreaker: 79145
+  winemaker: 57159
+  woodpecker: 25627
+  woodworker: 75207
+  worker: 4382
+  wrecker: 54372
+scored_words:
+  whacker: 137265
+  whicker: 210781
+  winker: 172604
+not_scored_words:
+- Walker
+- Wanamaker
+- Whitaker
+- Windbreaker
+- wageworker
+- wreaker

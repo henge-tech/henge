@@ -1,0 +1,24 @@
+---
+pattern: to_ne
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 726942
+score_per_word: 72694
+hi_scored_words:
+  toluene: 36375
+  tombstone: 22813
+  tone: 2175
+  tonne: 25051
+  tontine: 76103
+  touchline: 86011
+  touchstone: 30469
+  tourmaline: 37836
+scored_words:
+  toluidine: 130319
+  towline: 279790
+not_scored_words:
+- Touraine
+- Tourane
+- tolidine
+- totaquine

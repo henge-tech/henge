@@ -1,0 +1,29 @@
+---
+pattern: bord_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 763948
+score_per_word: 69449
+hi_scored_words:
+  bordello: 70283
+  border: 2633
+  bordered: 24375
+  bordering: 22807
+  borderland: 77808
+  borderlands: 57684
+  borderline: 22256
+  borders: 4783
+scored_words:
+  borderers: 184203
+  borderlines: 154257
+  bordure: 142859
+not_scored_words:
+- Bordeaux
+- Bordelaise
+- Borden
+- Borders
+- Bordon
+- bordellos
+- bordereau
+- borderer

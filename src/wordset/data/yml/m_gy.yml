@@ -1,0 +1,41 @@
+---
+pattern: m_gy
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 31
+score: 2019576
+score_per_word: 100978
+hi_scored_words:
+  mangy: 85410
+  metallurgy: 33865
+  meteorology: 21020
+  methodology: 9468
+  metrology: 43921
+  microbiology: 17849
+  mineralogy: 42941
+  morphology: 16289
+  muggy: 76806
+  musicology: 53147
+  mycology: 62924
+  mythology: 9227
+scored_words:
+  malacology: 258635
+  mammalogy: 131752
+  metapsychology: 187093
+  micropaleontology: 265836
+  mixology: 159136
+  moggy: 162783
+  museology: 163009
+  myology: 218465
+not_scored_words:
+- Mariology
+- macrology
+- martyrology
+- menology
+- microclimatology
+- micrometeorology
+- micropathology
+- mingy
+- misology
+- myrmecology
+- mystagogy

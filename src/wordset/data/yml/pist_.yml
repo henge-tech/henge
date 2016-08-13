@@ -1,0 +1,26 @@
+---
+pattern: pist_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1036551
+score_per_word: 86379
+hi_scored_words:
+  pistachio: 44873
+  pistachios: 71476
+  piste: 50966
+  pistil: 77916
+  pistol: 8220
+  pistols: 15424
+  piston: 14249
+  pistons: 26124
+scored_words:
+  pistes: 126450
+  pistillate: 241825
+  pistils: 206726
+  pistole: 152302
+not_scored_words:
+- Pistoia
+- pistareen
+- pistoleer
+- pistoleers

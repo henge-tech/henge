@@ -1,0 +1,29 @@
+---
+pattern: foli_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 1174727
+score_per_word: 97893
+hi_scored_words:
+  folia: 74838
+  foliage: 11171
+  foliar: 67029
+  foliation: 77743
+  folic: 30158
+  folie: 62163
+  folio: 15406
+  folios: 54786
+scored_words:
+  foliate: 190774
+  foliated: 151651
+  foliations: 203880
+  folium: 235128
+not_scored_words:
+- foliaceous
+- foliates
+- foliating
+- foliolate
+- foliole
+- foliose
+- foliums

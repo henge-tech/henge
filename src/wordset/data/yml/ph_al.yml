@@ -1,0 +1,45 @@
+---
+pattern: ph_al
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 35
+score: 1952968
+score_per_word: 92998
+hi_scored_words:
+  pharmaceutical: 9170
+  pharmacological: 28453
+  pharyngeal: 52775
+  phenobarbital: 55926
+  phenomenal: 17148
+  phenomenological: 42533
+  philological: 75470
+  philosophical: 6552
+  phonological: 34242
+  photochemical: 55484
+  photographical: 85890
+  phrasal: 83200
+  physical: 838
+  physicochemical: 72226
+  physiological: 10728
+scored_words:
+  phalangeal: 250219
+  phantasmagorical: 201102
+  phantasmal: 256179
+  phial: 111584
+  photomechanical: 330945
+  phytochemical: 172304
+not_scored_words:
+- Pharisaical
+- pharisaical
+- phenotypical
+- pheromonal
+- philanthropical
+- phlegmatical
+- photoelectrical
+- photometrical
+- photomural
+- phraseological
+- phrenetical
+- phrenological
+- physiognomical
+- physiographical

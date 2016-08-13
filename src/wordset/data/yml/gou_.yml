@@ -1,0 +1,42 @@
+---
+pattern: gou_
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 32
+score: 2012384
+score_per_word: 111799
+hi_scored_words:
+  gouache: 65850
+  gouge: 49545
+  gouged: 94308
+  gouges: 95404
+  gouging: 46292
+  goulash: 50569
+  gourd: 30967
+  gourds: 58182
+  gourmand: 97044
+  gourmet: 10539
+  gout: 22275
+scored_words:
+  gouger: 245523
+  gourami: 182168
+  gourde: 149569
+  gourdes: 324406
+  gourmands: 263728
+  gourmets: 120434
+  gouty: 105581
+not_scored_words:
+- Gouda
+- Goudas
+- Goudy
+- Gould
+- Gounod
+- Gourmont
+- gouaches
+- gougers
+- goulashes
+- gourmandize
+- goutier
+- goutiest
+- goutiness
+- goutweed

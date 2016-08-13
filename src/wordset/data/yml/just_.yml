@@ -1,0 +1,42 @@
+---
+pattern: just_
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 32
+score: 1374550
+score_per_word: 76363
+hi_scored_words:
+  just: 85
+  juster: 81509
+  justice: 1076
+  justices: 17180
+  justifiable: 29076
+  justifiably: 57482
+  justification: 10610
+  justifications: 39657
+  justified: 6204
+  justifies: 26365
+  justify: 5711
+  justifying: 27838
+  justly: 20517
+scored_words:
+  justest: 267032
+  justiciable: 123046
+  justiciary: 259427
+  justifier: 235272
+  justness: 166463
+not_scored_words:
+- Justice
+- Justin
+- Justina
+- Justine
+- Justinian
+- Justitia
+- justiceship
+- justiciar
+- justiciaries
+- justiciars
+- justifiability
+- justificatory
+- justifiers
+- justle

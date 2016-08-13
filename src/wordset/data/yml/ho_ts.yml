@@ -1,0 +1,41 @@
+---
+pattern: ho_ts
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 31
+score: 1628592
+score_per_word: 101787
+hi_scored_words:
+  hobbits: 53309
+  hobbyists: 51127
+  hoists: 52855
+  hoots: 62450
+  hornets: 27987
+  hosts: 4671
+  hots: 47119
+  hotshots: 87540
+  houseboats: 80570
+  houseplants: 80846
+scored_words:
+  holdouts: 132738
+  holocausts: 189568
+  honeypots: 135844
+  horticulturalists: 246093
+  horticulturists: 179337
+  hovercrafts: 196538
+not_scored_words:
+- Hogwarts
+- Hosts
+- Hottentots
+- holdfasts
+- homografts
+- hornworts
+- horologists
+- horsemints
+- horseshits
+- horsts
+- hotfoots
+- hotpots
+- housecoats
+- houselights
+- houseparents

@@ -1,0 +1,49 @@
+---
+pattern: r_ents
+hi_scored_words_count: 23
+scored_words_count: 13
+total_words: 39
+score: 3025981
+score_per_word: 84055
+hi_scored_words:
+  reagents: 21506
+  rearrangements: 60580
+  recipients: 11861
+  referents: 88309
+  refinements: 31316
+  refreshments: 21281
+  regents: 20179
+  regiments: 21874
+  reimbursements: 51316
+  reinforcements: 28686
+  rents: 14011
+  repayments: 27103
+  repellents: 69902
+  replacements: 13313
+  represents: 2962
+  requirements: 1072
+  resentments: 83818
+  resents: 75213
+  residents: 3474
+  respondents: 5713
+  retirements: 51422
+  rodents: 32543
+  rudiments: 49835
+scored_words:
+  readjustments: 205104
+  realignments: 130695
+  reassessments: 171506
+  reassignments: 193793
+  redevelopments: 307900
+  reenactments: 122040
+  refurbishments: 124125
+  reinvents: 113863
+  relents: 165798
+  repents: 112661
+  restatements: 129700
+  retrenchments: 242935
+  revetments: 218572
+not_scored_words:
+- rapprochements
+- reorients
+- resolvents

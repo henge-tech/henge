@@ -1,0 +1,33 @@
+---
+pattern: _reed
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 23
+score: 774548
+score_per_word: 51636
+hi_scored_words:
+  agreed: 1566
+  breed: 5302
+  creed: 8425
+  decreed: 30912
+  disagreed: 22309
+  freed: 9154
+  greed: 12251
+  pureed: 93092
+  reed: 5715
+  refereed: 29421
+  screed: 67124
+scored_words:
+  crossbreed: 105272
+  interbreed: 131214
+  pedigreed: 143139
+  treed: 109652
+not_scored_words:
+- Creed
+- Reed
+- filigreed
+- halfbreed
+- inbreed
+- jerreed
+- outbreed
+- spreed

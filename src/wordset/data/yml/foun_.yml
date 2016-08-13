@@ -1,0 +1,32 @@
+---
+pattern: foun_
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 22
+score: 850007
+score_per_word: 44737
+hi_scored_words:
+  found: 156
+  foundation: 1197
+  foundational: 35733
+  foundations: 5584
+  founded: 2758
+  founder: 4649
+  foundered: 87005
+  founders: 11740
+  founding: 8497
+  foundling: 88555
+  foundries: 43005
+  foundry: 16388
+  founds: 72540
+  fount: 57161
+  fountain: 5707
+  fountainhead: 62106
+  fountains: 21589
+scored_words:
+  foundering: 158098
+  founts: 167539
+not_scored_words:
+- foundings
+- foundlings
+- fountainheads

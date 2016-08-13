@@ -1,0 +1,32 @@
+---
+pattern: p_ler
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 22
+score: 1289123
+score_per_word: 92080
+hi_scored_words:
+  paddler: 74223
+  painkiller: 34335
+  paler: 56532
+  peddler: 43696
+  peeler: 46741
+  preschooler: 71286
+  propeller: 20576
+  prowler: 45177
+  puller: 47477
+  puzzler: 67279
+scored_words:
+  panhandler: 195359
+  poler: 185674
+  poller: 204116
+  potboiler: 196652
+not_scored_words:
+- painfuller
+- potholer
+- pourparler
+- pralltriller
+- prattler
+- prevailer
+- puler
+- purpler

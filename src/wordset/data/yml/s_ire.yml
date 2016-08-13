@@ -1,0 +1,26 @@
+---
+pattern: s_ire
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 16
+score: 450143
+score_per_word: 40922
+hi_scored_words:
+  saltire: 81415
+  sapphire: 11570
+  satire: 10911
+  shire: 16117
+  sire: 12040
+  solitaire: 18111
+  spire: 22484
+  spitfire: 27077
+  squire: 15726
+  surefire: 49426
+scored_words:
+  samphire: 185266
+not_scored_words:
+- Shropshire
+- Somersetshire
+- Staffordshire
+- shellfire
+- suspire

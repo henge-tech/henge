@@ -1,0 +1,55 @@
+---
+pattern: chec_
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 45
+score: 1571802
+score_per_word: 62872
+hi_scored_words:
+  check: 418
+  checkbook: 34053
+  checkbox: 31942
+  checked: 3055
+  checker: 17666
+  checkerboard: 56133
+  checkered: 33703
+  checkers: 26883
+  checking: 4710
+  checklist: 13118
+  checklists: 31522
+  checkmate: 42117
+  checkout: 10564
+  checkouts: 79289
+  checkpoint: 15819
+  checkpoints: 27031
+  checks: 3507
+  checksum: 29729
+  checkup: 42231
+  checkups: 74812
+scored_words:
+  checkable: 167217
+  checkbooks: 102883
+  checkering: 296601
+  checkmates: 292639
+  checkoff: 134160
+not_scored_words:
+- Chechen
+- Chechnya
+- checkerberries
+- checkerberry
+- checkerbloom
+- checkerblooms
+- checkerboards
+- checkerwork
+- checkmated
+- checkmating
+- checkoffs
+- checkrein
+- checkreins
+- checkroom
+- checkrooms
+- checkrow
+- checkrowed
+- checkrowing
+- checkrows
+- checky

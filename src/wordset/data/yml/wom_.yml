@@ -1,0 +1,37 @@
+---
+pattern: wom_
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 27
+score: 1267783
+score_per_word: 79236
+hi_scored_words:
+  woman: 480
+  womanhood: 35045
+  womanish: 69137
+  womanly: 50588
+  womb: 15553
+  wombat: 41061
+  womble: 81420
+  women: 201
+scored_words:
+  womanizer: 112252
+  womanizing: 137688
+  womankind: 100094
+  womanliness: 102432
+  wombats: 101748
+  wombles: 155292
+  wombs: 129660
+  womenfolk: 135132
+not_scored_words:
+- womanize
+- womanized
+- womanizers
+- womanizes
+- womanlier
+- womanliest
+- womanlike
+- womenfolks
+- womenkind
+- womera
+- wommera

@@ -1,0 +1,40 @@
+---
+pattern: c_tory
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 30
+score: 1818278
+score_per_word: 101015
+hi_scored_words:
+  celebratory: 48514
+  circulatory: 29738
+  compensatory: 26141
+  conciliatory: 50133
+  confirmatory: 61170
+  congratulatory: 65174
+  conservatory: 14815
+  consistory: 89123
+  contradictory: 15022
+  contributory: 39691
+  crematory: 70617
+scored_words:
+  classificatory: 173009
+  clerestory: 102484
+  commendatory: 114340
+  condemnatory: 235149
+  confiscatory: 221344
+  consolatory: 248538
+  copulatory: 213276
+not_scored_words:
+- calefactory
+- capitulatory
+- castigatory
+- chrismatory
+- circumlocutory
+- clearstory
+- comminatory
+- communicatory
+- confabulatory
+- consecratory
+- corroboratory
+- cosignatory

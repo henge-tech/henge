@@ -1,0 +1,43 @@
+---
+pattern: _lor
+hi_scored_words_count: 21
+scored_words_count: 5
+total_words: 33
+score: 1698219
+score_per_word: 65316
+hi_scored_words:
+  bachelor: 5348
+  bicolor: 62708
+  chancellor: 7265
+  color: 872
+  councilor: 35015
+  counselor: 14212
+  discolor: 91407
+  dolor: 33660
+  flor: 33207
+  multicolor: 44890
+  pallor: 61182
+  parlor: 15202
+  sailor: 6745
+  settlor: 92975
+  squalor: 53659
+  tailor: 13320
+  technicolor: 42054
+  tricolor: 56829
+  valor: 17461
+  versicolor: 92509
+  watercolor: 20847
+scored_words:
+  bailor: 225865
+  methoxychlor: 245000
+  propellor: 134435
+  recolor: 146969
+  temblor: 144583
+not_scored_words:
+- Baylor
+- Chancellor
+- Counselor
+- Keillor
+- Taylor
+- Technicolor
+- antichlor

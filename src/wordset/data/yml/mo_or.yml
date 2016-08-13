@@ -1,0 +1,21 @@
+---
+pattern: mo_or
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 11
+score: 222740
+score_per_word: 27842
+hi_scored_words:
+  moderator: 15090
+  modulator: 31862
+  monitor: 6427
+  monsignor: 51623
+  moor: 14064
+  mortgagor: 56747
+  motivator: 44310
+  motor: 2617
+scored_words: {}
+not_scored_words:
+- Mogador
+- Monsignor
+- Moor

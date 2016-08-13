@@ -1,0 +1,23 @@
+---
+pattern: sauc_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 716453
+score_per_word: 71645
+hi_scored_words:
+  sauce: 4678
+  saucepan: 23835
+  saucepans: 92859
+  saucer: 18607
+  saucers: 36177
+  sauces: 20270
+  saucier: 81193
+  saucy: 28883
+scored_words:
+  sauced: 170061
+  saucily: 239890
+not_scored_words:
+- sauciest
+- sauciness
+- saucing

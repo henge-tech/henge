@@ -1,0 +1,51 @@
+---
+pattern: _opy
+hi_scored_words_count: 19
+scored_words_count: 5
+total_words: 41
+score: 1825098
+score_per_word: 76045
+hi_scored_words:
+  anisotropy: 37654
+  arthroscopy: 78305
+  bronchoscopy: 86383
+  canopy: 10967
+  colonoscopy: 50289
+  copy: 706
+  droopy: 72785
+  endoscopy: 35931
+  entropy: 19495
+  fluoroscopy: 93068
+  jalopy: 97158
+  laparoscopy: 56458
+  loopy: 47955
+  microscopy: 16886
+  misanthropy: 92156
+  philanthropy: 15840
+  photocopy: 23996
+  snoopy: 30518
+  spectroscopy: 18106
+scored_words:
+  isotopy: 206456
+  isotropy: 130876
+  lycanthropy: 129129
+  ophthalmoscopy: 222241
+  ropy: 251740
+not_scored_words:
+- Snoopy
+- allotropy
+- bioscopy
+- cryoscopy
+- horoscopy
+- microcopy
+- miscopy
+- necroscopy
+- pharyngoscopy
+- radioscopy
+- recopy
+- retinoscopy
+- rhinoscopy
+- stereoscopy
+- telescopy
+- uroscopy
+- wicopy

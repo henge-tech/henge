@@ -1,0 +1,48 @@
+---
+pattern: t_ions
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 38
+score: 1688758
+score_per_word: 67550
+hi_scored_words:
+  tabulations: 63696
+  telecommunications: 10063
+  televisions: 19506
+  temptations: 22276
+  tensions: 13648
+  terminations: 41830
+  traditions: 5465
+  transactions: 5572
+  transcriptions: 34508
+  transformations: 15616
+  transfusions: 48503
+  transgressions: 45620
+  transitions: 14402
+  translations: 7539
+  transmissions: 14938
+  tribulations: 41575
+  trillions: 54289
+scored_words:
+  tessellations: 149870
+  titrations: 135137
+  torsions: 194396
+  transliterations: 155909
+  translocations: 101235
+  transpositions: 142410
+  triangulations: 138810
+  truncations: 211945
+not_scored_words:
+- tatterdemalions
+- tergiversations
+- ternions
+- terrorizations
+- thermions
+- tintinnabulations
+- transductions
+- transmutations
+- transudations
+- trephinations
+- trepidations
+- trivializations
+- trunnions

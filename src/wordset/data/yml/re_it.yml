@@ -1,0 +1,26 @@
+---
+pattern: re_it
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 1011950
+score_per_word: 91995
+hi_scored_words:
+  recommit: 90351
+  recruit: 9968
+  refit: 56354
+  remit: 20142
+  resubmit: 29456
+  retransmit: 95218
+  retrofit: 35775
+  revisit: 21830
+scored_words:
+  readmit: 285526
+  redeposit: 259756
+  resit: 107574
+not_scored_words:
+- REIT
+- reedit
+- reexhibit
+- reknit
+- reposit

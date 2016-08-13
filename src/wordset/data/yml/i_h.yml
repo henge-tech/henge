@@ -1,0 +1,40 @@
+---
+pattern: i_h
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 30
+score: 1191573
+score_per_word: 91659
+hi_scored_words:
+  ideograph: 83247
+  impeach: 31662
+  impish: 83017
+  inasmuch: 22743
+  inch: 2106
+  insomuch: 90121
+  interfaith: 30290
+  itch: 21826
+scored_words:
+  impoverish: 115418
+  ingrowth: 173621
+  inrush: 100700
+  inveigh: 111812
+  isobath: 325010
+not_scored_words:
+- ICSH
+- Ipoh
+- Ipswich
+- Irish
+- Irtish
+- Irtysh
+- Isaiah
+- Isiah
+- Israelitish
+- Isth
+- immesh
+- inarch
+- inearth
+- inmesh
+- ironsmith
+- isomorph
+- isopleth

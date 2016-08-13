@@ -1,0 +1,90 @@
+---
+pattern: hous_
+hi_scored_words_count: 27
+scored_words_count: 15
+total_words: 80
+score: 4261484
+score_per_word: 101463
+hi_scored_words:
+  house: 163
+  houseboat: 43254
+  houseboats: 80570
+  housebreaking: 93795
+  housecleaning: 88313
+  housed: 12616
+  household: 2053
+  householder: 18163
+  householders: 41646
+  households: 6330
+  housekeeper: 21727
+  housekeepers: 80780
+  housekeeping: 16441
+  houseless: 81703
+  housemaid: 82033
+  houseman: 86055
+  housemate: 58318
+  housemates: 50292
+  houseplants: 80846
+  houses: 1468
+  housewares: 34192
+  housewarming: 45018
+  housewife: 13089
+  housewives: 14853
+  housework: 31150
+  housing: 5014
+  housings: 45483
+scored_words:
+  housebound: 112740
+  houseboy: 227171
+  houseboys: 338615
+  housebroken: 136466
+  houseflies: 250289
+  housefly: 145780
+  houseful: 229430
+  housel: 172928
+  housemaids: 230721
+  housemaster: 165343
+  houseplant: 108310
+  housetop: 201966
+  housetops: 226865
+  housewifely: 255917
+  houstonia: 323578
+not_scored_words:
+- House
+- Housman
+- Houston
+- Houstonian
+- housebreak
+- housebreaker
+- housebreakers
+- housebreaks
+- housebroke
+- housecarl
+- houseclean
+- housecleaned
+- housecleans
+- housecoat
+- housecoats
+- housefather
+- housefathers
+- housefuls
+- househusband
+- househusbands
+- houseleek
+- houselights
+- houseline
+- housemasters
+- housemen
+- housemistress
+- housemistresses
+- housemother
+- housemothers
+- houseparent
+- houseparents
+- houseproud
+- houseroom
+- houserooms
+- housewarmings
+- housewiferies
+- housewifery
+- houseworker

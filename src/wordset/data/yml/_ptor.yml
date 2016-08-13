@@ -1,0 +1,29 @@
+---
+pattern: _ptor
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 19
+score: 710160
+score_per_word: 59180
+hi_scored_words:
+  acceptor: 34684
+  captor: 43994
+  descriptor: 22294
+  disruptor: 94469
+  emptor: 79547
+  interceptor: 28404
+  photoreceptor: 74027
+  preceptor: 44527
+  raptor: 23594
+  receptor: 5754
+  sculptor: 19549
+scored_words:
+  chemoreceptor: 239317
+not_scored_words:
+- Sculptor
+- amboceptor
+- exteroceptor
+- interoceptor
+- preemptor
+- proprioceptor
+- receiptor

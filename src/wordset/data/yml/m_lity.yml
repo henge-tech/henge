@@ -1,0 +1,42 @@
+---
+pattern: m_lity
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 32
+score: 1807526
+score_per_word: 82160
+hi_scored_words:
+  maintainability: 64949
+  manageability: 80438
+  maneuverability: 62966
+  marketability: 68103
+  materiality: 57203
+  mentality: 19060
+  merchantability: 79405
+  mobility: 9836
+  modality: 28521
+  morality: 7349
+  mortality: 6070
+  motility: 33228
+  municipality: 10062
+  musicality: 78299
+  mutuality: 79736
+scored_words:
+  malleability: 130292
+  marginality: 117008
+  memorability: 166782
+  metastability: 228281
+  minimality: 175207
+  miscibility: 188329
+  mutability: 116402
+not_scored_words:
+- manipulability
+- marriageability
+- matrilineality
+- mensurability
+- mercuriality
+- molality
+- monumentality
+- movability
+- moveability
+- multidimensionality

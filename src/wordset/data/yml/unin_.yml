@@ -1,0 +1,65 @@
+---
+pattern: unin_
+hi_scored_words_count: 28
+scored_words_count: 11
+total_words: 55
+score: 3696980
+score_per_word: 94794
+hi_scored_words:
+  unincorporated: 22277
+  uninfected: 71855
+  uninformed: 34780
+  uninhabitable: 79053
+  uninhabited: 37454
+  uninhibited: 56181
+  uninitialized: 85242
+  uninitiated: 56812
+  uninjured: 68063
+  uninspired: 51905
+  uninspiring: 80435
+  uninstall: 19667
+  uninstalled: 47879
+  uninstaller: 77801
+  uninstallers: 82859
+  uninstalling: 50105
+  uninsured: 17450
+  unintelligent: 80551
+  unintelligible: 30059
+  unintended: 22984
+  unintentional: 28384
+  unintentionally: 35293
+  uninterested: 50631
+  uninteresting: 34573
+  uninterrupted: 21870
+  uninterruptible: 89311
+  uninvited: 52831
+  uninvolved: 95620
+scored_words:
+  uninfluenced: 160016
+  uninformative: 119817
+  uninstallable: 316184
+  uninstalls: 253163
+  uninstructed: 238048
+  uninsulated: 136057
+  uninsurable: 183719
+  uninterpretable: 276561
+  uninterpreted: 210537
+  uninterruptedly: 168001
+  uninviting: 152952
+not_scored_words:
+- uninflected
+- uninfluential
+- uninformatively
+- uninhabitability
+- uninhibitedly
+- uninspiringly
+- uninstructive
+- unintellectual
+- unintelligence
+- unintelligently
+- unintelligibilities
+- unintelligibility
+- unintelligibly
+- uninterestedly
+- uninvested
+- uninvitingly

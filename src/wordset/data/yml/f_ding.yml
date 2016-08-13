@@ -1,0 +1,31 @@
+---
+pattern: f_ding
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 21
+score: 925174
+score_per_word: 54422
+hi_scored_words:
+  fading: 14041
+  feeding: 4196
+  fending: 81074
+  feuding: 73493
+  fielding: 16576
+  finding: 1351
+  flooding: 11137
+  folding: 7779
+  forbidding: 27360
+  foreboding: 46752
+  forwarding: 14280
+  founding: 8497
+  freestanding: 32490
+  funding: 4463
+scored_words:
+  fording: 105616
+  foregrounding: 253855
+  freeloading: 222214
+not_scored_words:
+- Fielding
+- faultfinding
+- featherbedding
+- friending

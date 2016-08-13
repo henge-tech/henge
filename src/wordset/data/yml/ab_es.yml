@@ -1,0 +1,61 @@
+---
+pattern: ab_es
+hi_scored_words_count: 14
+scored_words_count: 14
+total_words: 51
+score: 3060511
+score_per_word: 109303
+hi_scored_words:
+  abides: 45954
+  abies: 61071
+  abilities: 5657
+  abnormalities: 14514
+  abodes: 77160
+  abolishes: 71448
+  aborigines: 31969
+  abrasives: 50350
+  abscesses: 61156
+  absences: 26472
+  absolutes: 55865
+  absurdities: 60309
+  abundances: 50148
+  abuses: 10941
+scored_words:
+  abalones: 129255
+  abates: 129406
+  abbes: 234421
+  abbesses: 267975
+  abbreviates: 205439
+  abdicates: 178881
+  abductees: 119648
+  abeles: 192541
+  abjures: 212514
+  abridges: 183469
+  abrogates: 163223
+  absentees: 110429
+  absolves: 131968
+  abysses: 178328
+not_scored_words:
+- Aborigines
+- abacuses
+- abamperes
+- abases
+- abashes
+- abatises
+- abbacies
+- abduces
+- aberrances
+- aberrancies
+- abhenries
+- abiogeneses
+- ablates
+- ablatives
+- abnegates
+- abominates
+- aborticides
+- abrades
+- abscises
+- absorptances
+- absorptivities
+- absquatulates
+- abstractnesses

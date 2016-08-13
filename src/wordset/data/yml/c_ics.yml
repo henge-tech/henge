@@ -1,0 +1,48 @@
+---
+pattern: c_ics
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 38
+score: 2280842
+score_per_word: 99167
+hi_scored_words:
+  ceramics: 14093
+  characteristics: 2917
+  civics: 33639
+  classics: 5689
+  clerics: 41018
+  clinics: 6980
+  comics: 5785
+  cosmetics: 17533
+  critics: 4397
+  cryogenics: 93942
+  cryonics: 88474
+  cybernetics: 39074
+  cynics: 67883
+  cytogenetics: 84640
+scored_words:
+  calisthenics: 107671
+  catechetics: 340397
+  caustics: 132967
+  charismatics: 174304
+  chocoholics: 227455
+  chromatics: 268154
+  cladistics: 150768
+  colonics: 206571
+  conics: 166491
+not_scored_words:
+- Catholics
+- Celtics
+- Classics
+- cacogenics
+- carcinogenics
+- cataleptics
+- catatonics
+- cathartics
+- catoptrics
+- cellulosics
+- ceroplastics
+- chiropractics
+- cirrhotics
+- cliometrics
+- cosmonautics

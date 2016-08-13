@@ -1,0 +1,31 @@
+---
+pattern: con_ous
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 21
+score: 1118222
+score_per_word: 74548
+hi_scored_words:
+  coniferous: 48459
+  conscientious: 20248
+  conscious: 4548
+  conspicuous: 14968
+  contagious: 18735
+  contemporaneous: 32299
+  contemptuous: 53494
+  contentious: 25556
+  contiguous: 14932
+  continuous: 3239
+scored_words:
+  congruous: 185105
+  consanguineous: 166318
+  conterminous: 114484
+  contumacious: 191993
+  contumelious: 223844
+not_scored_words:
+- conchiferous
+- concinnous
+- congous
+- consentaneous
+- contrarious
+- convolvulaceous

@@ -1,0 +1,27 @@
+---
+pattern: pe_ble
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 835656
+score_per_word: 75968
+hi_scored_words:
+  peaceable: 44469
+  pebble: 18417
+  pensionable: 86930
+  perceptible: 39838
+  perishable: 31897
+  permeable: 33826
+  permissible: 16597
+  personable: 50600
+scored_words:
+  penetrable: 180822
+  perceivable: 122763
+  perdurable: 209497
+not_scored_words:
+- peccable
+- perfectible
+- performable
+- persuadable
+- persuasible
+- perturbable

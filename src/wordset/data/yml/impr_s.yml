@@ -1,0 +1,43 @@
+---
+pattern: impr_s
+hi_scored_words_count: 8
+scored_words_count: 13
+total_words: 33
+score: 3050732
+score_per_word: 145272
+hi_scored_words:
+  impress: 9689
+  impresses: 51092
+  impressionists: 66205
+  impressions: 6736
+  imprints: 44228
+  improvements: 3896
+  improves: 11251
+  improvisations: 66575
+scored_words:
+  imprecations: 190121
+  impregnates: 278941
+  impressiveness: 202647
+  imprimis: 280261
+  imprinters: 322557
+  imprisonments: 212635
+  imprisons: 161766
+  improbabilities: 151147
+  impromptus: 188808
+  improprieties: 116568
+  improvisers: 156467
+  improvises: 225581
+  improvisors: 303561
+not_scored_words:
+- impracticabilities
+- impracticalities
+- impracticalness
+- imprecates
+- impreciseness
+- impresarios
+- impressionableness
+- impressments
+- imprimaturs
+- imprintings
+- improperness
+- impropernesses

@@ -1,0 +1,50 @@
+---
+pattern: o_ally
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 40
+score: 1445938
+score_per_word: 85055
+hi_scored_words:
+  occasionally: 3478
+  officially: 5992
+  operationally: 46578
+  optically: 37381
+  optimally: 37776
+  optimistically: 89886
+  optionally: 24189
+  orally: 22657
+  organically: 37574
+  originally: 2070
+scored_words:
+  observationally: 209172
+  occupationally: 121939
+  ontologically: 146109
+  opportunistically: 144885
+  organizationally: 101523
+  orthogonally: 152035
+  osmotically: 262694
+not_scored_words:
+- obsessionally
+- oligarchically
+- onomatopoeically
+- onomatopoetically
+- ontogenetically
+- ontogenically
+- oologically
+- operatically
+- oratorically
+- orchestrally
+- orgasmically
+- orgastically
+- orgiastically
+- orientally
+- ornamentally
+- ornithologically
+- orographically
+- orthodontically
+- orthographically
+- orthopedically
+- osmically
+- osteopathically
+- overenthusiastically

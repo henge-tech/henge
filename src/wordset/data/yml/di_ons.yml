@@ -1,0 +1,53 @@
+---
+pattern: di_ons
+hi_scored_words_count: 18
+scored_words_count: 11
+total_words: 43
+score: 2456034
+score_per_word: 84690
+hi_scored_words:
+  digressions: 80787
+  dilutions: 58652
+  dimensions: 3995
+  directions: 2004
+  discussions: 7639
+  dislocations: 46104
+  dispensations: 97510
+  dispersions: 75596
+  dispositions: 30430
+  disruptions: 34107
+  dissections: 89231
+  dissertations: 32024
+  distinctions: 21549
+  distortions: 31544
+  distractions: 24880
+  distributions: 16056
+  diversions: 27417
+  divisions: 4470
+scored_words:
+  dicotyledons: 199261
+  dictations: 207183
+  differentiations: 154376
+  digestions: 281596
+  discolorations: 196492
+  disconnections: 122686
+  disjunctions: 152354
+  disputations: 122994
+  disqualifications: 113952
+  disquisitions: 103648
+  dissensions: 117497
+not_scored_words:
+- diapasons
+- diencephalons
+- digitizations
+- diminutions
+- disconcertions
+- discontinuations
+- disillusions
+- disproportions
+- dissimilations
+- distensions
+- distentions
+- distillations
+- divagations
+- divarications

@@ -1,0 +1,55 @@
+---
+pattern: _lows
+hi_scored_words_count: 27
+scored_words_count: 9
+total_words: 45
+score: 2746771
+score_per_word: 76299
+hi_scored_words:
+  allows: 2085
+  bedfellows: 75956
+  bellows: 23689
+  billows: 77874
+  blows: 7982
+  bungalows: 35247
+  fallows: 95938
+  fellows: 6349
+  flows: 4593
+  follows: 1427
+  gallows: 30585
+  glows: 38904
+  hallows: 75155
+  hollows: 50762
+  inflows: 37773
+  lows: 12819
+  marshmallows: 43932
+  outflows: 56449
+  overflows: 38768
+  pillows: 11393
+  plows: 60467
+  shallows: 52251
+  slows: 20076
+  swallows: 22742
+  willows: 25789
+  workflows: 50281
+  yellows: 44974
+scored_words:
+  afterglows: 272012
+  disallows: 109748
+  mallows: 192826
+  mellows: 148225
+  mudflows: 265208
+  playfellows: 241937
+  schoolfellows: 130220
+  snowplows: 178880
+  wallows: 203455
+not_scored_words:
+- Allhallows
+- Bellows
+- backflows
+- contraflows
+- counterblows
+- counterglows
+- deathblows
+- furbelows
+- whitlows

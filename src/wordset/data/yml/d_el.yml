@@ -1,0 +1,33 @@
+---
+pattern: d_el
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 23
+score: 1146490
+score_per_word: 81892
+hi_scored_words:
+  damsel: 34009
+  decibel: 56816
+  del: 1939
+  diesel: 9900
+  dispel: 29736
+  doggerel: 88615
+  dowel: 50451
+  dreidel: 96586
+  drivel: 40814
+  duel: 11260
+  duffel: 32162
+scored_words:
+  disembowel: 208258
+  djebel: 252718
+  dotterel: 233226
+not_scored_words:
+- Daniel
+- Darrel
+- Del
+- Duhamel
+- Dynel
+- darnel
+- dishevel
+- dishtowel
+- dowsabel

@@ -1,0 +1,35 @@
+---
+pattern: play_s
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 25
+score: 1798682
+score_per_word: 94667
+hi_scored_words:
+  playboys: 62271
+  players: 2352
+  playfulness: 67099
+  playgrounds: 31952
+  playhouses: 80317
+  playlists: 19058
+  playmates: 34732
+  playoffs: 9250
+  plays: 2250
+  playthings: 52825
+  playwrights: 39269
+scored_words:
+  playbacks: 218188
+  playbills: 180099
+  playbooks: 149314
+  playfellows: 241937
+  playgroups: 102493
+  playpens: 118861
+  playrooms: 235572
+  playsuits: 150843
+not_scored_words:
+- playacts
+- playgirls
+- playgoers
+- playings
+- playlets
+- playschools

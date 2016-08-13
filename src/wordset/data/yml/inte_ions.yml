@@ -1,0 +1,32 @@
+---
+pattern: inte_ions
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 22
+score: 991454
+score_per_word: 61965
+hi_scored_words:
+  integrations: 54829
+  intentions: 6909
+  interactions: 4303
+  interceptions: 31312
+  interconnections: 48436
+  interjections: 88463
+  intermissions: 75861
+  interpretations: 12247
+  interrelations: 83451
+  interrogations: 54001
+  interruptions: 24945
+  intersections: 20592
+  interventions: 8228
+scored_words:
+  intensions: 214292
+  intercessions: 147546
+  interpolations: 116039
+not_scored_words:
+- intellections
+- intercalations
+- intercommunions
+- internationalizations
+- interpellations
+- intersessions

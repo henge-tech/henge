@@ -1,0 +1,42 @@
+---
+pattern: ins_es
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 32
+score: 2481452
+score_per_word: 118164
+hi_scored_words:
+  insecticides: 30305
+  insecurities: 48383
+  insides: 36985
+  insoles: 58631
+  inspires: 20996
+  instabilities: 50062
+  instances: 4166
+  institutes: 13444
+  insurances: 47602
+  insures: 44805
+scored_words:
+  insanities: 308058
+  inscribes: 217392
+  insectivores: 235591
+  insinuates: 142609
+  insolvencies: 146027
+  inspectorates: 184520
+  instantiates: 136913
+  instigates: 195131
+  institutionalizes: 330660
+  insulates: 114978
+  insurgencies: 114194
+not_scored_words:
+- inseminates
+- insensitivenesses
+- inseparables
+- insightfulnesses
+- insipidnesses
+- insistencies
+- instancies
+- instantaneousnesses
+- instates
+- insubstantialities
+- insurgences

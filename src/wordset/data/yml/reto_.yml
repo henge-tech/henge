@@ -1,0 +1,26 @@
+---
+pattern: reto_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1030577
+score_per_word: 85881
+hi_scored_words:
+  retold: 62622
+  retooling: 84354
+  retort: 30146
+  retorted: 36249
+  retorting: 92406
+  retorts: 63557
+  retouch: 84774
+  retouching: 52339
+scored_words:
+  retook: 147288
+  retool: 132461
+  retooled: 130734
+  retouched: 113647
+not_scored_words:
+- retools
+- retorsion
+- retortion
+- retouches

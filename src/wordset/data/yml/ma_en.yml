@@ -1,0 +1,23 @@
+---
+pattern: ma_en
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 573328
+score_per_word: 63703
+hi_scored_words:
+  madden: 15982
+  madmen: 63200
+  magdalen: 43817
+  maiden: 6174
+  mangosteen: 85427
+  marksmen: 90172
+  marten: 39206
+  maven: 27679
+scored_words:
+  madwomen: 201671
+not_scored_words:
+- Madden
+- Maryellen
+- Maureen
+- mailmen

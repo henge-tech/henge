@@ -1,0 +1,23 @@
+---
+pattern: p_cts
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 326335
+score_per_word: 36259
+hi_scored_words:
+  pacts: 62792
+  precincts: 25486
+  predicts: 24027
+  prefects: 84913
+  products: 1046
+  projects: 2344
+  prospects: 5842
+  protects: 10151
+scored_words:
+  perfects: 109734
+not_scored_words:
+- playacts
+- pluperfects
+- preselects
+- protracts

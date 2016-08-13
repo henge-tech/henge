@@ -1,0 +1,43 @@
+---
+pattern: _ign
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 33
+score: 1369845
+score_per_word: 54793
+hi_scored_words:
+  align: 13278
+  assign: 7572
+  benign: 14581
+  campaign: 1730
+  champaign: 17951
+  consign: 59653
+  deign: 66985
+  design: 694
+  ensign: 20068
+  feign: 58325
+  foreign: 811
+  ign: 9405
+  malign: 52382
+  realign: 68542
+  reassign: 66425
+  redesign: 14250
+  reign: 6271
+  resign: 12107
+  sign: 476
+  sovereign: 6599
+scored_words:
+  arraign: 237880
+  coign: 197476
+  condign: 100079
+  cosign: 167432
+  countersign: 168873
+not_scored_words:
+- Champaign
+- deraign
+- eloign
+- frankalmoign
+- indign
+- preassign
+- reconsign
+- undersign

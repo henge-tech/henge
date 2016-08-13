@@ -1,0 +1,19 @@
+---
+pattern: b_room
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 237819
+score_per_word: 29727
+hi_scored_words:
+  backroom: 44992
+  ballroom: 13574
+  barroom: 96512
+  bathroom: 6700
+  bedroom: 2554
+  boardroom: 25826
+  bridegroom: 31809
+  broom: 15852
+scored_words: {}
+not_scored_words:
+- boxroom

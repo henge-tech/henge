@@ -1,0 +1,30 @@
+---
+pattern: _arge
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 20
+score: 981121
+score_per_word: 65408
+hi_scored_words:
+  barge: 15915
+  charge: 822
+  discharge: 4102
+  enlarge: 6394
+  large: 252
+  litharge: 79921
+  marge: 26437
+  overcharge: 77659
+  recharge: 20918
+  sarge: 23985
+  supercharge: 95437
+  surcharge: 24538
+scored_words:
+  sparge: 159661
+  targe: 131812
+  turbocharge: 313268
+not_scored_words:
+- Marge
+- countercharge
+- lithomarge
+- overlarge
+- undercharge

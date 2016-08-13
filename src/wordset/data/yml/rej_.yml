@@ -1,0 +1,48 @@
+---
+pattern: rej_
+hi_scored_words_count: 19
+scored_words_count: 5
+total_words: 38
+score: 1955350
+score_per_word: 81472
+hi_scored_words:
+  reject: 6391
+  rejected: 4265
+  rejecting: 17306
+  rejection: 8819
+  rejections: 49062
+  rejects: 13478
+  rejoice: 13595
+  rejoiced: 34595
+  rejoices: 68699
+  rejoicing: 27247
+  rejoin: 30987
+  rejoinder: 57548
+  rejoined: 28900
+  rejoining: 75435
+  rejoins: 87737
+  rejuvenate: 44815
+  rejuvenated: 63724
+  rejuvenating: 63096
+  rejuvenation: 33669
+scored_words:
+  rejigs: 318246
+  rejoicings: 227477
+  rejoinders: 292807
+  rejuvenates: 146642
+  rejuvenator: 240810
+not_scored_words:
+- rejecter
+- rejig
+- rejigged
+- rejigger
+- rejiggered
+- rejiggering
+- rejiggers
+- rejigging
+- rejoicer
+- rejudge
+- rejudged
+- rejudges
+- rejudging
+- rejuvenations

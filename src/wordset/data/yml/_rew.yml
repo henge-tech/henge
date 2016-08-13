@@ -1,0 +1,42 @@
+---
+pattern: _rew
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 32
+score: 1588566
+score_per_word: 83608
+hi_scored_words:
+  aircrew: 50506
+  brew: 15628
+  corkscrew: 33036
+  crew: 2244
+  drew: 2863
+  grew: 2681
+  outgrew: 83175
+  overthrew: 50592
+  screw: 5717
+  shrew: 35810
+  threw: 4943
+  unscrew: 71084
+  withdrew: 12168
+scored_words:
+  airscrew: 246530
+  microbrew: 155032
+  redrew: 280210
+  setscrew: 229442
+  strew: 118958
+  thumbscrew: 187947
+not_scored_words:
+- Andrew
+- Carew
+- Drew
+- Hebrew
+- Renfrew
+- beshrew
+- bestrew
+- jackscrew
+- misthrew
+- outdrew
+- overdrew
+- overgrew
+- regrew

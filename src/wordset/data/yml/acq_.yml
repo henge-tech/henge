@@ -1,0 +1,45 @@
+---
+pattern: acq_
+hi_scored_words_count: 17
+scored_words_count: 14
+total_words: 35
+score: 3044253
+score_per_word: 98201
+hi_scored_words:
+  acquaint: 33448
+  acquaintance: 11669
+  acquaintances: 23883
+  acquainted: 11491
+  acquiesce: 54545
+  acquiesced: 69514
+  acquiescence: 41775
+  acquire: 4974
+  acquired: 3091
+  acquirer: 67441
+  acquires: 16273
+  acquiring: 9954
+  acquisition: 8647
+  acquisitions: 11899
+  acquit: 60212
+  acquittal: 37944
+  acquitted: 23536
+scored_words:
+  acquaintanceship: 178050
+  acquainting: 128416
+  acquaints: 185853
+  acquiescent: 169745
+  acquiesces: 254267
+  acquiescing: 167201
+  acquirable: 228802
+  acquirement: 132238
+  acquirers: 134060
+  acquisitive: 111010
+  acquisitiveness: 278708
+  acquits: 199471
+  acquittals: 173404
+  acquitting: 212732
+not_scored_words:
+- acquiescently
+- acquisitively
+- acquittance
+- acquittances

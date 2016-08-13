@@ -1,0 +1,51 @@
+---
+pattern: pro_rs
+hi_scored_words_count: 17
+scored_words_count: 17
+total_words: 41
+score: 3365574
+score_per_word: 98987
+hi_scored_words:
+  processors: 6596
+  proclaimers: 96439
+  producers: 8272
+  professors: 11416
+  profiteers: 95245
+  progenitors: 57765
+  programmers: 8649
+  projectors: 20724
+  promoters: 19468
+  propellers: 38528
+  proprietors: 27587
+  prosecutors: 22715
+  prospectors: 68864
+  protectors: 18409
+  protesters: 14658
+  protestors: 32869
+  providers: 11726
+scored_words:
+  probationers: 101283
+  procrastinators: 139099
+  proctors: 109129
+  procurators: 198133
+  procurers: 283634
+  proffers: 111171
+  prognosticators: 242566
+  promenaders: 237830
+  proofreaders: 105830
+  propagators: 114293
+  propellors: 304470
+  proposers: 101011
+  prospers: 115465
+  protractors: 180786
+  provers: 150710
+  provocateurs: 162355
+  prowlers: 147879
+not_scored_words:
+- promisers
+- prompters
+- promulgators
+- prophesiers
+- proselytizers
+- provisioners
+- provokers

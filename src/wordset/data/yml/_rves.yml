@@ -1,0 +1,28 @@
+---
+pattern: _rves
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 18
+score: 1018027
+score_per_word: 67868
+hi_scored_words:
+  carves: 84827
+  conserves: 73150
+  curves: 7403
+  deserves: 7174
+  nerves: 8191
+  observes: 17338
+  preserves: 15196
+  reserves: 5578
+  scarves: 28138
+  serves: 3829
+  wharves: 54800
+scored_words:
+  headscarves: 121053
+  starves: 138143
+  swerves: 167809
+  unnerves: 285398
+not_scored_words:
+- corves
+- recurves
+- subserves

@@ -1,0 +1,32 @@
+---
+pattern: disa_d
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1225571
+score_per_word: 76598
+hi_scored_words:
+  disabled: 4761
+  disadvantaged: 12639
+  disaffected: 44813
+  disaggregated: 61566
+  disagreed: 22309
+  disallowed: 39112
+  disappeared: 5888
+  disappointed: 5124
+  disapproved: 37779
+  disarmed: 45727
+  disassembled: 54718
+scored_words:
+  disabused: 257117
+  disambiguated: 274041
+  disarranged: 125102
+  disassociated: 132519
+  disavowed: 102356
+not_scored_words:
+- disaccord
+- disaccorded
+- disaffiliated
+- disafforested
+- disarrayed
+- disarticulated

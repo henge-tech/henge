@@ -1,0 +1,59 @@
+---
+pattern: conv_s
+hi_scored_words_count: 18
+scored_words_count: 11
+total_words: 49
+score: 2437953
+score_per_word: 84067
+hi_scored_words:
+  convenes: 67709
+  conveniences: 31961
+  conventions: 7263
+  convents: 72404
+  converges: 38345
+  conversations: 6615
+  conversions: 19189
+  converters: 18187
+  convertibles: 46961
+  converts: 10850
+  conveyances: 64103
+  conveyors: 42710
+  conveys: 22086
+  convictions: 12675
+  convicts: 30726
+  convinces: 38479
+  convoys: 48999
+  convulsions: 32940
+scored_words:
+  convalescents: 131768
+  conveners: 174434
+  convenors: 152980
+  conventioneers: 254430
+  convergences: 159405
+  converses: 145574
+  convertors: 178421
+  conveyancers: 208351
+  convocations: 149362
+  convolutions: 114510
+  convolvulus: 156516
+not_scored_words:
+- convalescences
+- convalesces
+- convectors
+- convects
+- convenances
+- conventicles
+- conventionalisms
+- conventionalizations
+- conventionalizes
+- convergencies
+- conversances
+- conversancies
+- conversationalists
+- conveyancings
+- convokes
+- convolutes
+- convolves
+- convolvulaceous
+- convolvuluses
+- convulses

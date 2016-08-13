@@ -1,0 +1,48 @@
+---
+pattern: metr_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 38
+score: 1241669
+score_per_word: 82777
+hi_scored_words:
+  metric: 13678
+  metrical: 49152
+  metrics: 11931
+  metro: 8432
+  metrology: 43921
+  metronome: 39595
+  metroplex: 62442
+  metropolis: 14719
+  metropolitan: 6989
+  metros: 43490
+scored_words:
+  metrically: 218969
+  metrication: 189878
+  metronomes: 113164
+  metronomic: 306375
+  metropolises: 118934
+not_scored_words:
+- Metro
+- metralgia
+- metralgias
+- metricate
+- metricated
+- metricates
+- metricating
+- metricize
+- metricized
+- metricizes
+- metricizing
+- metrify
+- metrist
+- metritis
+- metritises
+- metronomically
+- metronymic
+- metronymics
+- metropolitanate
+- metropolitanism
+- metropolitical
+- metrorrhagia
+- metrorrhagias

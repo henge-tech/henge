@@ -1,0 +1,39 @@
+---
+pattern: stop_
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 29
+score: 1963072
+score_per_word: 98153
+hi_scored_words:
+  stop: 613
+  stopgap: 86097
+  stoplight: 68425
+  stopover: 49348
+  stoppage: 40159
+  stoppages: 79008
+  stopped: 2077
+  stopper: 24574
+  stoppers: 36536
+  stopping: 5102
+  stops: 4851
+  stopwatch: 37328
+scored_words:
+  stopcock: 137124
+  stopcocks: 230158
+  stope: 243460
+  stoplights: 153125
+  stopovers: 119606
+  stoppable: 292492
+  stoppered: 226806
+  stopwatches: 126183
+not_scored_words:
+- Stoppard
+- stopgaps
+- stopoff
+- stoppering
+- stoppings
+- stopple
+- stoppled
+- stopples
+- stoppling

@@ -1,0 +1,35 @@
+---
+pattern: asp_s
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 25
+score: 1708165
+score_per_word: 113877
+hi_scored_words:
+  asparagus: 20305
+  aspects: 3271
+  aspergillosis: 98827
+  aspergillus: 45589
+  aspersions: 93330
+  aspirants: 77129
+  aspirations: 17253
+  aspires: 51701
+  asps: 71848
+scored_words:
+  aspens: 103086
+  asperities: 233843
+  aspers: 290013
+  asphalts: 225758
+  aspirates: 151090
+  aspirins: 225122
+not_scored_words:
+- Asperges
+- asparagines
+- aspergilloses
+- asperses
+- asphodels
+- asphyxiates
+- asphyxiations
+- aspics
+- aspidistras
+- aspirators

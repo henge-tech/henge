@@ -1,0 +1,29 @@
+---
+pattern: tr_ty
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 1114322
+score_per_word: 85717
+hi_scored_words:
+  traceability: 49083
+  tranquility: 28815
+  tranquillity: 24788
+  transferability: 76027
+  transitivity: 83743
+  travesty: 41128
+  treaty: 3673
+  trinity: 12551
+  triviality: 93380
+  trusty: 26337
+scored_words:
+  tractability: 171332
+  transportability: 227344
+  transsexuality: 276121
+not_scored_words:
+- Trinity
+- translatability
+- transmutability
+- triboelectricity
+- triplicity
+- triunity

@@ -1,0 +1,48 @@
+---
+pattern: ch_ic
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 38
+score: 1823782
+score_per_word: 86846
+hi_scored_words:
+  chaotic: 15456
+  characteristic: 4421
+  charismatic: 24658
+  chemotherapeutic: 70086
+  chic: 15246
+  chimeric: 64738
+  chiropractic: 18813
+  chivalric: 97201
+  choreographic: 95181
+  chromatic: 31673
+  chromatographic: 49495
+  chromic: 74953
+  chronic: 5625
+scored_words:
+  chauvinistic: 120724
+  cherubic: 174007
+  chiastic: 282833
+  chloric: 117284
+  chocoholic: 140265
+  choleric: 157657
+  chromogenic: 135091
+  chthonic: 128375
+not_scored_words:
+- Chadic
+- Chassidic
+- chalcedonic
+- chameleonic
+- chasmic
+- chemosynthetic
+- chemurgic
+- chiliastic
+- chirographic
+- chloridic
+- choleraic
+- choplogic
+- choregraphic
+- choric
+- chronographic
+- chronologic
+- chronometric

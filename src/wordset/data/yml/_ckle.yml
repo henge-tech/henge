@@ -1,0 +1,45 @@
+---
+pattern: _ckle
+hi_scored_words_count: 22
+scored_words_count: 7
+total_words: 35
+score: 2386086
+score_per_word: 82278
+hi_scored_words:
+  buckle: 14136
+  cackle: 91787
+  chuckle: 22673
+  cockle: 66279
+  crackle: 34672
+  fickle: 31220
+  freckle: 81083
+  hackle: 81109
+  heckle: 90332
+  honeysuckle: 35255
+  knuckle: 29007
+  nickle: 62473
+  pickle: 17595
+  ramshackle: 69071
+  shackle: 49258
+  sickle: 22774
+  speckle: 77411
+  suckle: 78775
+  tackle: 7003
+  tickle: 18212
+  trickle: 25577
+  turnbuckle: 99610
+scored_words:
+  deckle: 165525
+  grackle: 106719
+  mackle: 250866
+  prickle: 158870
+  stickle: 201501
+  truckle: 193020
+  unbuckle: 204273
+not_scored_words:
+- Spackle
+- brickle
+- kenspeckle
+- parbuckle
+- strickle
+- unshackle

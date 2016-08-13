@@ -1,0 +1,28 @@
+---
+pattern: moor_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 18
+score: 574528
+score_per_word: 63836
+hi_scored_words:
+  moor: 14064
+  moored: 43442
+  moorhen: 77633
+  mooring: 39199
+  moorings: 41841
+  moorland: 47989
+  moorlands: 89183
+  moors: 28728
+scored_words:
+  moorage: 192449
+not_scored_words:
+- Moor
+- Moore
+- Moorish
+- Moors
+- moorages
+- moorfowl
+- moorhens
+- moorwort
+- moorworts

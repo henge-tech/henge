@@ -1,0 +1,33 @@
+---
+pattern: we_rs
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 23
+score: 1667133
+score_per_word: 111142
+hi_scored_words:
+  wearers: 67310
+  wears: 9498
+  weathers: 47639
+  weavers: 30316
+  webinars: 46403
+  webmasters: 45488
+  weirs: 71029
+  welders: 42144
+  westerners: 40237
+scored_words:
+  webers: 178936
+  weeders: 268046
+  weekenders: 144237
+  weepers: 244306
+  weightlifters: 215819
+  wethers: 215725
+not_scored_words:
+- Websters
+- Weimaraners
+- weakeners
+- weedkillers
+- welshers
+- welters
+- westers
+- wetters

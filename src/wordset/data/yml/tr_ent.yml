@@ -1,0 +1,27 @@
+---
+pattern: tr_ent
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 485309
+score_per_word: 48530
+hi_scored_words:
+  transcendent: 29023
+  transient: 10333
+  translucent: 20497
+  transparent: 5949
+  transshipment: 70936
+  treatment: 944
+  trident: 25166
+  trivalent: 80723
+scored_words:
+  transhipment: 114561
+  truculent: 127177
+not_scored_words:
+- Trent
+- Trident
+- traducement
+- transcalent
+- transcurrent
+- transilient
+- triboluminescent

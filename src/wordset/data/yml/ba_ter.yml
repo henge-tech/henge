@@ -1,0 +1,31 @@
+---
+pattern: ba_ter
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 21
+score: 1218097
+score_per_word: 87006
+hi_scored_words:
+  babysitter: 25069
+  backwater: 44066
+  banister: 59547
+  banter: 21793
+  barometer: 17405
+  barrister: 25428
+  barter: 21163
+  bathwater: 97372
+  batter: 15007
+scored_words:
+  baiter: 183473
+  baluster: 117588
+  bandmaster: 173899
+  barycenter: 274722
+  baster: 141565
+not_scored_words:
+- Bannister
+- Baxter
+- backbiter
+- balloter
+- banqueter
+- barretter
+- bathometer

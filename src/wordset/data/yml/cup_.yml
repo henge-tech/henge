@@ -1,0 +1,48 @@
+---
+pattern: cup_
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 38
+score: 1829090
+score_per_word: 91454
+hi_scored_words:
+  cup: 1243
+  cupboard: 15794
+  cupboards: 34231
+  cupcake: 37745
+  cupcakes: 34909
+  cupid: 19406
+  cupids: 85841
+  cupola: 46248
+  cupolas: 93368
+  cuppa: 54829
+  cupped: 52367
+  cupping: 58743
+  cuprous: 69038
+  cups: 5112
+scored_words:
+  cupful: 131644
+  cupfuls: 284782
+  cupidity: 122627
+  cupreous: 226673
+  cupric: 113716
+  cuprum: 340774
+not_scored_words:
+- Cupar
+- Cupid
+- cupbearer
+- cupbearers
+- cupel
+- cupelation
+- cupels
+- cupolaed
+- cuppas
+- cuppings
+- cupriferous
+- cuprite
+- cuprites
+- cupronickel
+- cupronickels
+- cupulate
+- cupule
+- cupules

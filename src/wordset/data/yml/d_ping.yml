@@ -1,0 +1,24 @@
+---
+pattern: d_ping
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 384286
+score_per_word: 38428
+hi_scored_words:
+  damping: 24535
+  developing: 2445
+  dipping: 20595
+  doping: 24814
+  draping: 85444
+  dripping: 13965
+  drooping: 41111
+  dropping: 5981
+  dumping: 20766
+scored_words:
+  duping: 144630
+not_scored_words:
+- daguerreotyping
+- decamping
+- dolloping
+- doorstepping

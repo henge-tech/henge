@@ -1,0 +1,76 @@
+---
+pattern: i_lly
+hi_scored_words_count: 20
+scored_words_count: 13
+total_words: 66
+score: 3311811
+score_per_word: 100357
+hi_scored_words:
+  ideally: 14894
+  identically: 44893
+  ideologically: 50700
+  illegally: 18602
+  impartially: 51639
+  incidentally: 14542
+  incrementally: 45447
+  individually: 7535
+  industrially: 72392
+  informally: 29403
+  initially: 7467
+  institutionally: 73570
+  integrally: 78106
+  intellectually: 20333
+  intentionally: 12956
+  internally: 12301
+  internationally: 10488
+  intrinsically: 30851
+  ironically: 16243
+  irrationally: 91764
+scored_words:
+  idiotically: 239572
+  illogically: 221863
+  immorally: 246599
+  immunologically: 122502
+  impersonally: 237452
+  ineffectually: 210313
+  inferentially: 179354
+  infernally: 138548
+  infinitesimally: 145187
+  instrumentally: 115784
+  interpersonally: 294387
+  isometrically: 277135
+  isotopically: 178989
+not_scored_words:
+- iconically
+- iconoclastically
+- idealistically
+- ideogrammatically
+- idiomatically
+- idiosyncratically
+- idyllically
+- illiberally
+- immaterially
+- immemorially
+- immortally
+- imperialistically
+- imperially
+- impractically
+- impressionistically
+- inconsequentially
+- incorporeally
+- individualistically
+- inflectionally
+- influentially
+- inimically
+- inorganically
+- inquisitorially
+- inspirationally
+- insubstantially
+- intensionally
+- interjectionally
+- interstitially
+- intestinally
+- intuitionally
+- irefully
+- irenically
+- isothermally

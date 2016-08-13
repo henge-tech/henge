@@ -1,0 +1,29 @@
+---
+pattern: hos_s
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 19
+score: 745649
+score_per_word: 62137
+hi_scored_words:
+  hoses: 24107
+  hospices: 63850
+  hospitalizations: 59157
+  hospitals: 4008
+  hostages: 19230
+  hostels: 14083
+  hostess: 16527
+  hostesses: 76128
+  hostilities: 24202
+  hosts: 4671
+scored_words:
+  hostelries: 296515
+  hostiles: 143171
+not_scored_words:
+- Hosts
+- hosannas
+- hosepipes
+- hosiers
+- hospitalizes
+- hostelers
+- hostlers

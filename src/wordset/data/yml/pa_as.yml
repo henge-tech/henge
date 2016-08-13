@@ -1,0 +1,44 @@
+---
+pattern: pa_as
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 34
+score: 1856503
+score_per_word: 109206
+hi_scored_words:
+  pagodas: 82945
+  pajamas: 24179
+  pampas: 72492
+  pancreas: 20610
+  pandas: 37025
+  panoramas: 44250
+  papas: 48715
+  paras: 39202
+  parkas: 76841
+  pastas: 54471
+  paterfamilias: 82144
+scored_words:
+  panaceas: 267761
+  papayas: 131012
+  papillomas: 191919
+  parabolas: 171350
+  paresthesias: 220133
+  patinas: 291454
+not_scored_words:
+- Pallas
+- Panamas
+- Patras
+- pachas
+- pachysandras
+- paellas
+- paisas
+- panamas
+- panatelas
+- panatellas
+- pangas
+- paramnesias
+- pashas
+- patacas
+- patellas
+- patresfamilias
+- pavlovas

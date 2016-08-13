@@ -1,0 +1,32 @@
+---
+pattern: lo_st
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 860294
+score_per_word: 66176
+hi_scored_words:
+  lobbyist: 25046
+  locust: 22718
+  loneliest: 90417
+  longest: 13393
+  lost: 494
+  loudest: 36813
+  loveliest: 56621
+  lowest: 2332
+  loyalist: 42748
+scored_words:
+  loftiest: 118281
+  loosest: 157476
+  lowermost: 131236
+  lowliest: 162719
+not_scored_words:
+- Loyalist
+- loamiest
+- loathliest
+- logiest
+- looniest
+- loopiest
+- lordliest
+- lousiest
+- loyalest

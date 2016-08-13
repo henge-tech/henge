@@ -1,0 +1,25 @@
+---
+pattern: _ieve
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 708691
+score_per_word: 70869
+hi_scored_words:
+  achieve: 3369
+  believe: 446
+  disbelieve: 65690
+  grieve: 20580
+  relieve: 8315
+  reprieve: 40341
+  retrieve: 10491
+  sieve: 22056
+scored_words:
+  thieve: 224135
+  underachieve: 313268
+not_scored_words:
+- Genevieve
+- aggrieve
+- misbelieve
+- overachieve
+- shrieve

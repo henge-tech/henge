@@ -1,0 +1,34 @@
+---
+pattern: hed_
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 24
+score: 1577616
+score_per_word: 92800
+hi_scored_words:
+  hedge: 8304
+  hedged: 50788
+  hedgehog: 22606
+  hedgehogs: 50528
+  hedgerow: 77086
+  hedgerows: 68089
+  hedges: 20892
+  hedging: 28919
+  hedonic: 63793
+  hedonism: 46727
+  hedonist: 82411
+  hedonistic: 60398
+scored_words:
+  heddle: 171966
+  heder: 132388
+  hedger: 125929
+  hedgers: 290833
+  hedonists: 275959
+not_scored_words:
+- Hedjaz
+- hedgehop
+- hedgehopped
+- hedgehopping
+- hedgehops
+- hedonics
+- hedonistically

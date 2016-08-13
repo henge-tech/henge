@@ -1,0 +1,42 @@
+---
+pattern: de_ator
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 32
+score: 1333478
+score_per_word: 95248
+hi_scored_words:
+  decorator: 25774
+  defibrillator: 47585
+  deflator: 85542
+  dehydrator: 96724
+  demodulator: 98071
+  demonstrator: 40452
+  denominator: 21065
+  designator: 53956
+  detonator: 43334
+scored_words:
+  delegator: 253351
+  delineator: 143895
+  desiccator: 189223
+  desolator: 109275
+  devastator: 125231
+not_scored_words:
+- decapitator
+- decelerator
+- decimator
+- dedicator
+- defalcator
+- defecator
+- deflagrator
+- defoliator
+- deliberator
+- deliminator
+- demarcator
+- denigrator
+- deprecator
+- depreciator
+- depredator
+- desalinator
+- desecrator
+- deviator

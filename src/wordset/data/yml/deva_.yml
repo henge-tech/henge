@@ -1,0 +1,30 @@
+---
+pattern: deva_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 20
+score: 1109880
+score_per_word: 79277
+hi_scored_words:
+  deva: 41794
+  devaluation: 36861
+  devalue: 65965
+  devalued: 59891
+  devastate: 62675
+  devastated: 20047
+  devastating: 13719
+  devastation: 18859
+scored_words:
+  devaluations: 159476
+  devalues: 113336
+  devaluing: 125541
+  devastates: 157557
+  devastatingly: 108928
+  devastator: 125231
+not_scored_words:
+- Devanagari
+- devaluate
+- devaluated
+- devaluates
+- devaluating
+- devastators

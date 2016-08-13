@@ -1,0 +1,29 @@
+---
+pattern: pers_e
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 19
+score: 837555
+score_per_word: 55837
+hi_scored_words:
+  perse: 66852
+  persecute: 43152
+  perseverance: 19878
+  persevere: 35419
+  persistence: 11863
+  personable: 50600
+  personae: 75188
+  personage: 44389
+  personalize: 27333
+  perspective: 4001
+  persuade: 9818
+  persuasive: 15991
+scored_words:
+  persiflage: 119503
+  personate: 190402
+  perspire: 123166
+not_scored_words:
+- Persephone
+- perseverate
+- persuadable
+- persuasible

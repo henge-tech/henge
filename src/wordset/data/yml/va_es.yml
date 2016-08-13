@@ -1,0 +1,64 @@
+---
+pattern: va_es
+hi_scored_words_count: 21
+scored_words_count: 11
+total_words: 54
+score: 3161938
+score_per_word: 98810
+hi_scored_words:
+  vacancies: 12192
+  vaccines: 11666
+  vacuoles: 83011
+  vagaries: 47129
+  valentines: 9531
+  vales: 86907
+  validates: 41288
+  valuables: 27846
+  values: 5030
+  valves: 10615
+  vampires: 25078
+  vanes: 64088
+  vanishes: 30568
+  vanities: 37981
+  variables: 12630
+  variances: 28865
+  varices: 88077
+  varies: 7075
+  varieties: 6421
+  varnishes: 61460
+  vases: 17211
+scored_words:
+  vacates: 172154
+  valances: 125186
+  valences: 213819
+  valises: 145497
+  valses: 286578
+  vambraces: 337698
+  vanadates: 331430
+  vantages: 246876
+  vaporizes: 193201
+  variates: 155387
+  vasectomies: 239443
+not_scored_words:
+- VAXes
+- Valenciennes
+- Valkyries
+- Vaselines
+- vaccinates
+- vacillates
+- vaginitides
+- valedictories
+- valencies
+- valiancies
+- valines
+- valuates
+- valvulitises
+- vamooses
+- vanadinites
+- vandalizes
+- vanquishes
+- vapes
+- variablenesses
+- variegates
+- varsities
+- vasectomizes

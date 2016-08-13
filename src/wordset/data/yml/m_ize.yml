@@ -1,0 +1,58 @@
+---
+pattern: m_ize
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 48
+score: 2399088
+score_per_word: 104308
+hi_scored_words:
+  maize: 13819
+  marginalize: 95816
+  materialize: 48561
+  maximize: 12492
+  memorize: 32898
+  mesmerize: 80204
+  metabolize: 88094
+  midsize: 48728
+  minimize: 13946
+  mize: 83136
+  mobilize: 24986
+  modernize: 36708
+  moisturize: 75485
+  monetize: 80277
+  monopolize: 62506
+scored_words:
+  magnetize: 143535
+  mechanize: 102665
+  memorialize: 102540
+  metastasize: 151969
+  militarize: 303236
+  mischaracterize: 340726
+  modularize: 270599
+  moralize: 186162
+not_scored_words:
+- macadamize
+- marbleize
+- martyrize
+- matronize
+- mediatize
+- melodize
+- melodramatize
+- mercerize
+- mercurialize
+- metalize
+- metathesize
+- methodize
+- metricize
+- mineralize
+- miniaturize
+- misadvize
+- misalphabetize
+- misprize
+- mongrelize
+- monumentalize
+- motorize
+- municipalize
+- mutualize
+- mythicize
+- mythologize

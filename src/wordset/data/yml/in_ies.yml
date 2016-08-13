@@ -1,0 +1,88 @@
+---
+pattern: in_ies
+hi_scored_words_count: 23
+scored_words_count: 12
+total_words: 78
+score: 2920432
+score_per_word: 83440
+hi_scored_words:
+  inaccuracies: 19724
+  inadequacies: 49804
+  incompatibilities: 63381
+  inconsistencies: 23638
+  indemnities: 88143
+  indies: 9736
+  indignities: 98534
+  industries: 3701
+  inefficiencies: 45380
+  inequalities: 17968
+  inequities: 48763
+  infirmities: 66516
+  iniquities: 69461
+  injuries: 7524
+  inquiries: 5813
+  insecurities: 48383
+  instabilities: 50062
+  intensifies: 45451
+  intensities: 27865
+  intermediaries: 27780
+  interrogatories: 62333
+  intricacies: 42050
+  inventories: 25195
+scored_words:
+  inanities: 154256
+  incendiaries: 197678
+  incongruities: 166152
+  indemnifies: 153077
+  infamies: 219926
+  infidelities: 140483
+  infinities: 118748
+  inhomogeneities: 119773
+  insanities: 308058
+  insolvencies: 146027
+  insurgencies: 114194
+  intimacies: 134855
+not_scored_words:
+- Indies
+- inabilities
+- inadvertencies
+- inapplicabilities
+- incessancies
+- incipiencies
+- incivilities
+- incoherencies
+- incompressibilities
+- incontrovertibilities
+- incorporealities
+- incumbencies
+- incurabilities
+- indecencies
+- indefatigabilities
+- indelicacies
+- independencies
+- indigestibilities
+- indomitabilities
+- indubitabilities
+- inebrieties
+- ineffectualities
+- inelasticities
+- inerrancies
+- inexorabilities
+- infantries
+- infelicities
+- infirmaries
+- inhabitancies
+- inhumanities
+- inkberries
+- insistencies
+- instancies
+- insubstantialities
+- intentionalities
+- intermarries
+- intermittencies
+- internationalities
+- interstratifies
+- intransigencies
+- intransitivities
+- inutilities
+- invisibilities

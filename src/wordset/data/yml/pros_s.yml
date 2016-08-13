@@ -1,0 +1,43 @@
+---
+pattern: pros_s
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 33
+score: 1910016
+score_per_word: 95500
+hi_scored_words:
+  prosecutions: 27696
+  prosecutors: 22715
+  prospectors: 68864
+  prospects: 5842
+  prospectus: 21613
+  prospectuses: 79107
+  prosperous: 12883
+  prostatitis: 76048
+  prostheses: 56539
+  prosthesis: 33924
+  prosthetics: 46045
+  prostitutes: 22427
+scored_words:
+  proscribes: 221092
+  proscriptions: 172913
+  prosecutes: 131195
+  proselytes: 193530
+  prospers: 115465
+  prostates: 237222
+  prosthodontics: 119967
+  prostrations: 244929
+not_scored_words:
+- prosaicness
+- prosaicnesses
+- prosceniums
+- proselytizers
+- proselytizes
+- prosimians
+- prosiness
+- prosinesses
+- prosodies
+- prosopopoeias
+- prostatectomies
+- prostatitises
+- prostrates

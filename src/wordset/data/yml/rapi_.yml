@@ -1,0 +1,23 @@
+---
+pattern: rapi_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 502275
+score_per_word: 50227
+hi_scored_words:
+  rapid: 2483
+  rapidity: 26990
+  rapidly: 2939
+  rapids: 8471
+  rapier: 46054
+  raping: 31336
+  rapist: 31079
+  rapists: 37828
+scored_words:
+  rapiers: 150591
+  rapine: 164504
+not_scored_words:
+- rapider
+- rapidest
+- rapidness

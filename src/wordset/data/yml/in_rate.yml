@@ -1,0 +1,34 @@
+---
+pattern: in_rate
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 24
+score: 927291
+score_per_word: 61819
+hi_scored_words:
+  inaccurate: 9404
+  inaugurate: 59140
+  incinerate: 78724
+  inconsiderate: 42141
+  incorporate: 10715
+  infiltrate: 33915
+  inspectorate: 38438
+  integrate: 10246
+  intemperate: 95768
+  invertebrate: 31126
+  inveterate: 64386
+  invigorate: 66244
+scored_words:
+  incarcerate: 111526
+  incommensurate: 160323
+  ingrate: 115195
+not_scored_words:
+- incerate
+- indeliberate
+- indurate
+- ingenerate
+- innumerate
+- inquorate
+- intemerate
+- intenerate
+- interpenetrate

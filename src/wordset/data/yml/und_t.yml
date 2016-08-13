@@ -1,0 +1,45 @@
+---
+pattern: und_t
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 35
+score: 2430330
+score_per_word: 121516
+hi_scored_words:
+  undercoat: 99756
+  undercurrent: 49900
+  undercut: 35233
+  underdevelopment: 70727
+  underemployment: 89968
+  underfoot: 46518
+  undergarment: 98651
+  undershirt: 77238
+  understatement: 31442
+  underweight: 49463
+  underwent: 15171
+scored_words:
+  underachievement: 111085
+  undercroft: 124284
+  underinvestment: 226485
+  undernourishment: 267033
+  underpayment: 114571
+  undersecretariat: 300904
+  undershoot: 222718
+  undershot: 230031
+  underskirt: 169152
+not_scored_words:
+- underact
+- undercast
+- underlet
+- undermost
+- underpart
+- underplot
+- underset
+- underspent
+- undertenant
+- underthrust
+- undertint
+- undervest
+- underwaist
+- undreamt
+- undulant

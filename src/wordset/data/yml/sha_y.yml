@@ -1,0 +1,35 @@
+---
+pattern: sha_y
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 25
+score: 1202280
+score_per_word: 70722
+hi_scored_words:
+  shabby: 17129
+  shadowy: 24593
+  shady: 11446
+  shaggy: 20301
+  shakily: 91954
+  shaky: 22341
+  shamefully: 69759
+  shamelessly: 49781
+  shandy: 52412
+  shanty: 39047
+  shapely: 43874
+  sharply: 8634
+  shay: 25158
+scored_words:
+  shabbily: 174571
+  shallowly: 155971
+  shamefacedly: 176837
+  shanny: 218472
+not_scored_words:
+- Shaftesbury
+- Shakhty
+- shadberry
+- shadily
+- shaley
+- shapelessly
+- sharpy
+- shatteringly

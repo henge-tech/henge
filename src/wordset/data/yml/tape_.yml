@@ -1,0 +1,25 @@
+---
+pattern: tape_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 15
+score: 385044
+score_per_word: 35004
+hi_scored_words:
+  tape: 5029
+  taped: 19435
+  taper: 18600
+  tapered: 30728
+  tapering: 41207
+  tapers: 34653
+  tapes: 14469
+  tapestries: 28748
+  tapestry: 13996
+  tapeworm: 62560
+scored_words:
+  tapeworms: 115619
+not_scored_words:
+- tapeline
+- tapelines
+- taperingly
+- tapetum

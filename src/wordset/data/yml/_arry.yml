@@ -1,0 +1,29 @@
+---
+pattern: _arry
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 19
+score: 520922
+score_per_word: 47356
+hi_scored_words:
+  carry: 1231
+  glengarry: 54804
+  harry: 1493
+  marry: 4811
+  parry: 19921
+  quarry: 13164
+  remarry: 64781
+  starry: 23096
+  tarry: 40653
+scored_words:
+  intermarry: 156103
+  miscarry: 140865
+not_scored_words:
+- Barry
+- Garry
+- Harry
+- Jarry
+- Larry
+- Parry
+- gharry
+- sparry

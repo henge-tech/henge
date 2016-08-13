@@ -1,0 +1,60 @@
+---
+pattern: al_d
+hi_scored_words_count: 20
+scored_words_count: 4
+total_words: 50
+score: 1155647
+score_per_word: 48151
+hi_scored_words:
+  alarmed: 16274
+  alerted: 24121
+  aliased: 91708
+  alienated: 28897
+  alighted: 88891
+  aligned: 10492
+  alkaloid: 60225
+  alleged: 5214
+  alleviated: 54935
+  allied: 5184
+  allocated: 8182
+  allotted: 20059
+  allowed: 1004
+  alloyed: 84213
+  alluded: 30343
+  almond: 15490
+  aloud: 7275
+  alphabetized: 65833
+  altered: 5351
+  alternated: 58975
+scored_words:
+  alkyd: 110271
+  allayed: 107595
+  allured: 116253
+  aluminized: 138862
+not_scored_words:
+- Ald
+- Alford
+- Alfred
+- Alkaid
+- Allahabad
+- Almohad
+- Almoravid
+- Alphard
+- albuminoid
+- alchemized
+- alcoholized
+- algid
+- algoid
+- alibied
+- aliened
+- alimented
+- aliped
+- alkalified
+- alkalinized
+- alkalized
+- allantoid
+- allegorized
+- alliterated
+- allseed
+- aloeswood
+- altercated

@@ -1,0 +1,35 @@
+---
+pattern: spe_e
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 25
+score: 1461509
+score_per_word: 97433
+hi_scored_words:
+  speakerphone: 37677
+  specialize: 14436
+  specie: 50633
+  speckle: 77411
+  spectacle: 12535
+  speculate: 19303
+  speculative: 13793
+  spence: 19999
+scored_words:
+  specifiable: 223005
+  spectate: 216251
+  spectroscope: 121903
+  spendable: 247746
+  spermicide: 109444
+  spermine: 155011
+  spessartite: 142362
+not_scored_words:
+- Spence
+- speakable
+- spectrohelioscope
+- spellable
+- spermatocyte
+- spermatophore
+- spermatophyte
+- spermophile
+- spermophyte
+- sperrylite

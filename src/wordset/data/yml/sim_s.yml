@@ -1,0 +1,37 @@
+---
+pattern: sim_s
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 27
+score: 1336507
+score_per_word: 95464
+hi_scored_words:
+  similarities: 19159
+  similes: 82858
+  simplifications: 69855
+  simplifies: 25974
+  sims: 14905
+  simulates: 39334
+  simulations: 9776
+  simulators: 29870
+  simultaneous: 10624
+scored_words:
+  simians: 237978
+  simmers: 109755
+  simpletons: 165244
+  simplicities: 245637
+  simulcasts: 275538
+not_scored_words:
+- Simmons
+- Simonides
+- Simpsons
+- Sims
+- simaroubaceous
+- simonizes
+- simooms
+- simpers
+- simpleness
+- simplexes
+- simulacrums
+- simultaneousness
+- simultaneousnesses

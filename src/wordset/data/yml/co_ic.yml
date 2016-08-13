@@ -1,0 +1,35 @@
+---
+pattern: co_ic
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 25
+score: 1070778
+score_per_word: 82367
+hi_scored_words:
+  colic: 34564
+  colonic: 37080
+  colorimetric: 78799
+  comedic: 33880
+  comic: 3849
+  concentric: 29526
+  conic: 54437
+  cosmetic: 18094
+  cosmic: 11032
+scored_words:
+  colorific: 316266
+  communistic: 120301
+  conspecific: 141895
+  copacetic: 191055
+not_scored_words:
+- Coptic
+- cobaltic
+- columbic
+- commercialistic
+- congeneric
+- conglomeratic
+- consumeristic
+- contortionistic
+- copasetic
+- corybantic
+- cosmogonic
+- cosmologic

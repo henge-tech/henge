@@ -1,0 +1,30 @@
+---
+pattern: cave_
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 20
+score: 625490
+score_per_word: 48114
+hi_scored_words:
+  cave: 4484
+  caveat: 24313
+  caveats: 34656
+  caved: 60098
+  caveman: 38162
+  cavemen: 90098
+  cavendish: 29239
+  cavern: 16762
+  cavernous: 41711
+  caverns: 31395
+  cavers: 99687
+  caves: 12123
+scored_words:
+  caver: 142762
+not_scored_words:
+- Cavell
+- Cavendish
+- caveator
+- cavefish
+- cavernously
+- cavesson
+- cavetto

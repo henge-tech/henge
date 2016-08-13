@@ -1,0 +1,30 @@
+---
+pattern: e_ding
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 20
+score: 894167
+score_per_word: 55885
+hi_scored_words:
+  eluding: 90891
+  embedding: 24322
+  encoding: 6262
+  ending: 2312
+  eroding: 43627
+  evading: 50244
+  exceeding: 7638
+  excluding: 7292
+  expanding: 7104
+  expending: 71219
+  exploding: 21631
+  expounding: 93590
+  extending: 5461
+scored_words:
+  enfolding: 231223
+  extruding: 104744
+  exuding: 126607
+not_scored_words:
+- eliding
+- emending
+- enfilading
+- enshrouding

@@ -1,0 +1,34 @@
+---
+pattern: _pses
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 24
+score: 1004392
+score_per_word: 83699
+hi_scored_words:
+  collapses: 35383
+  corpses: 23189
+  eclipses: 44421
+  ellipses: 52081
+  glimpses: 27171
+  lapses: 40207
+  relapses: 70926
+  synapses: 39398
+  synopses: 55372
+scored_words:
+  apocalypses: 250432
+  copses: 243207
+  elapses: 122605
+not_scored_words:
+- apses
+- asepses
+- caryopses
+- metalepses
+- prolapses
+- prolepses
+- quadricepses
+- sepses
+- syllepses
+- thripses
+- traipses
+- tricepses

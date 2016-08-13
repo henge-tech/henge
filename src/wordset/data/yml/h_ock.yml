@@ -1,0 +1,25 @@
+---
+pattern: h_ock
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 15
+score: 1200555
+score_per_word: 92350
+hi_scored_words:
+  haddock: 36444
+  hammock: 18950
+  havelock: 46229
+  headstock: 76265
+  hemlock: 26841
+  hillock: 86708
+  hock: 37344
+  hollyhock: 95377
+scored_words:
+  hammerlock: 247626
+  hassock: 133126
+  haycock: 128560
+  headlock: 113812
+  hummock: 153273
+not_scored_words:
+- Hancock
+- Hitchcock

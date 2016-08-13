@@ -1,0 +1,29 @@
+---
+pattern: rep_ns
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 19
+score: 1786384
+score_per_word: 119092
+hi_scored_words:
+  reparations: 34900
+  repercussions: 27232
+  repetitions: 35437
+  replications: 75546
+  representations: 6093
+  reproductions: 23537
+  republicans: 6401
+  reputations: 36407
+scored_words:
+  repatriations: 286134
+  repositions: 242507
+  repossessions: 115153
+  repressions: 171423
+  reptilians: 214741
+  republications: 214180
+  repulsions: 296693
+not_scored_words:
+- Republicans
+- reprobations
+- repudiations
+- repugns

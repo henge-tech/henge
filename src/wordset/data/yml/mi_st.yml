@@ -1,0 +1,44 @@
+---
+pattern: mi_st
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 34
+score: 2184640
+score_per_word: 121368
+hi_scored_words:
+  microbiologist: 71808
+  midst: 6717
+  mightiest: 66563
+  mildest: 95482
+  milepost: 64559
+  minimalist: 27556
+  misogynist: 76713
+  mist: 7575
+  mistrust: 29822
+scored_words:
+  microburst: 241014
+  microscopist: 297275
+  midmost: 313080
+  militarist: 146159
+  milquetoast: 211097
+  mineralogist: 105552
+  minutest: 135114
+  miscast: 162554
+  mizzenmast: 126000
+not_scored_words:
+- Mideast
+- Midwest
+- Milquetoast
+- Minimalist
+- middlemost
+- milkiest
+- millennialist
+- mingiest
+- miniaturist
+- mintiest
+- miriest
+- misanthropist
+- misogamist
+- mistiest
+- mixologist
+- mizenmast

@@ -1,0 +1,40 @@
+---
+pattern: r_ized
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 30
+score: 2086471
+score_per_word: 109814
+hi_scored_words:
+  randomized: 13904
+  rationalized: 68553
+  realized: 3167
+  recognized: 2287
+  regularized: 91509
+  reorganized: 31314
+  resized: 50336
+  revitalized: 56361
+  revolutionized: 45011
+  rubberized: 68496
+scored_words:
+  radicalized: 135408
+  reauthorized: 140180
+  recrystallized: 160384
+  reemphasized: 306002
+  reinitialized: 203361
+  relativized: 224268
+  ritualized: 129989
+  romanticized: 107004
+  routinized: 248937
+not_scored_words:
+- Romanized
+- recapitalized
+- recolonized
+- rematerialized
+- remilitarized
+- renationalized
+- reprized
+- resynchronized
+- rhapsodized
+- rightsized
+- robotized

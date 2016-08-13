@@ -1,0 +1,27 @@
+---
+pattern: _eave
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 1361579
+score_per_word: 113464
+hi_scored_words:
+  cleave: 32039
+  eave: 92318
+  heave: 32785
+  interweave: 86026
+  leave: 487
+  reave: 92450
+  sheave: 82365
+  weave: 12900
+scored_words:
+  bereave: 239710
+  greave: 230952
+  interleave: 118985
+  sleave: 340562
+not_scored_words:
+- inweave
+- reweave
+- unweave
+- upheave
+- wayleave

@@ -1,0 +1,34 @@
+---
+pattern: c_ric
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 24
+score: 1094789
+score_per_word: 84214
+hi_scored_words:
+  caloric: 32362
+  centric: 18349
+  chimeric: 64738
+  chivalric: 97201
+  citric: 38096
+  cleric: 28524
+  colorimetric: 78799
+  concentric: 29526
+scored_words:
+  cambric: 166404
+  chloric: 117284
+  choleric: 157657
+  climacteric: 152133
+  cupric: 113716
+not_scored_words:
+- Cedric
+- Cymric
+- calendric
+- categoric
+- centrobaric
+- centrosymmetric
+- ceric
+- choric
+- chronometric
+- cliometric
+- congeneric

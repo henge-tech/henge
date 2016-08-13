@@ -1,0 +1,25 @@
+---
+pattern: su_nce
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 778752
+score_per_word: 70795
+hi_scored_words:
+  subsequence: 80722
+  subservience: 98396
+  subsidence: 40763
+  subsistence: 14076
+  substance: 2818
+  superintendence: 73394
+  surveillance: 7865
+  sustenance: 31330
+scored_words:
+  submergence: 100899
+  sufferance: 127232
+  superabundance: 201257
+not_scored_words:
+- subconference
+- succulence
+- sunderance
+- suppliance

@@ -1,0 +1,24 @@
+---
+pattern: ref_r
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 721179
+score_per_word: 65561
+hi_scored_words:
+  refactor: 92146
+  refer: 2325
+  referrer: 59951
+  refiner: 73038
+  reflector: 26729
+  reformer: 29864
+  refractor: 58662
+  refresher: 28467
+  refrigerator: 15521
+scored_words:
+  refinisher: 217854
+  refractometer: 116622
+not_scored_words:
+- refilter
+- reflower
+- refuter

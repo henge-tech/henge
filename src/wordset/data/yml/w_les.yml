@@ -1,0 +1,44 @@
+---
+pattern: w_les
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 34
+score: 2515143
+score_per_word: 114324
+hi_scored_words:
+  waffles: 36610
+  wales: 2490
+  whales: 12098
+  whiles: 67118
+  whistles: 22155
+  wholes: 81939
+  wiggles: 37024
+  wiles: 41875
+  wormholes: 97423
+  wrestles: 80591
+  wrinkles: 20464
+scored_words:
+  waddles: 245935
+  warbles: 150481
+  waterholes: 173206
+  wattles: 112215
+  whittles: 244486
+  wholesales: 146483
+  winkles: 232152
+  wobbles: 101238
+  wombles: 155292
+  wrangles: 226898
+  wriggles: 226970
+not_scored_words:
+- Wales
+- Welles
+- Wiles
+- waggles
+- wambles
+- wangles
+- washables
+- wheedles
+- wimbles
+- wimples
+- woodpiles
+- worktables

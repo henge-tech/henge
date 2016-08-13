@@ -1,0 +1,28 @@
+---
+pattern: out_r
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 18
+score: 974528
+score_per_word: 74963
+hi_scored_words:
+  outdoor: 5094
+  outer: 3581
+  outerwear: 33395
+  outfielder: 39305
+  outfitter: 53636
+  outlander: 52585
+  outlier: 41931
+  outnumber: 45001
+  outrigger: 47229
+  outsider: 19262
+scored_words:
+  outmaneuver: 225548
+  outrider: 177263
+  outwear: 230698
+not_scored_words:
+- outflatter
+- outpour
+- outroar
+- outsoar
+- outworker

@@ -1,0 +1,39 @@
+---
+pattern: e_ter
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 29
+score: 1367657
+score_per_word: 85478
+hi_scored_words:
+  eater: 18809
+  emitter: 33581
+  enchanter: 63187
+  encounter: 4842
+  enter: 677
+  epicenter: 45401
+  ester: 24408
+  exciter: 76566
+  experimenter: 48809
+  exporter: 26641
+scored_words:
+  eggbeater: 217510
+  electrometer: 176770
+  embitter: 121269
+  executer: 216106
+  expediter: 188593
+  exploiter: 104488
+not_scored_words:
+- Easter
+- Ester
+- Exeter
+- elater
+- electrodynamometer
+- emoter
+- erythrocytometer
+- eudiometer
+- evaporimeter
+- exacter
+- exhorter
+- extensometer
+- extorter

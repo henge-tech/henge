@@ -1,0 +1,56 @@
+---
+pattern: r_or
+hi_scored_words_count: 24
+scored_words_count: 8
+total_words: 46
+score: 2509842
+score_per_word: 78432
+hi_scored_words:
+  radiator: 21584
+  rancor: 66048
+  raptor: 23594
+  razor: 11159
+  reactor: 13959
+  realtor: 18077
+  receptor: 5754
+  rector: 15566
+  refactor: 92146
+  reflector: 26729
+  refractor: 58662
+  refrigerator: 15521
+  regenerator: 76824
+  regulator: 17133
+  replicator: 42068
+  repressor: 55206
+  resistor: 20087
+  resonator: 38963
+  respirator: 35447
+  retractor: 85562
+  rigor: 28599
+  rotator: 40024
+  rotor: 19109
+  rumor: 11237
+scored_words:
+  recolor: 146969
+  redactor: 215060
+  regressor: 198876
+  rejuvenator: 240810
+  renovator: 148226
+  resuscitator: 233115
+  rhetor: 245588
+  ruminator: 242140
+not_scored_words:
+- Realtor
+- Regor
+- ratiocinator
+- receiptor
+- reciprocator
+- recognizor
+- recuperator
+- redistributor
+- remonstrator
+- remunerator
+- repudiator
+- retaliator
+- reverberator
+- rubricator

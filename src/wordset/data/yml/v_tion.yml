@@ -1,0 +1,63 @@
+---
+pattern: v_tion
+hi_scored_words_count: 26
+scored_words_count: 14
+total_words: 53
+score: 3347708
+score_per_word: 83692
+hi_scored_words:
+  vacation: 3686
+  vaccination: 18716
+  validation: 11902
+  valuation: 9844
+  vaporization: 73748
+  variation: 4843
+  vasoconstriction: 75357
+  vasodilation: 81741
+  vegetation: 6747
+  veneration: 42149
+  ventilation: 11780
+  verification: 10687
+  vexation: 60558
+  vibration: 10689
+  victimization: 40117
+  vilification: 76458
+  vindication: 37512
+  violation: 4799
+  virtualization: 30802
+  visitation: 14406
+  visualization: 11694
+  vitrification: 92928
+  vivisection: 72563
+  vocalization: 94310
+  vocation: 18480
+  volition: 34449
+scored_words:
+  vacillation: 130866
+  valorization: 216103
+  variegation: 197052
+  vasodilatation: 143015
+  vectorization: 161224
+  venation: 198007
+  verbalization: 201736
+  versification: 136197
+  vitiation: 212595
+  vituperation: 167333
+  vociferation: 196462
+  volatilization: 105138
+  volution: 143480
+  vulcanization: 187535
+not_scored_words:
+- valediction
+- vallation
+- vaticination
+- venesection
+- vermiculation
+- vermination
+- vernation
+- vesiculation
+- vitalization
+- vitrifaction
+- vivification
+- vomiturition
+- vulgarization

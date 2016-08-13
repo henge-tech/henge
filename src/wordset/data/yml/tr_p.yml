@@ -1,0 +1,26 @@
+---
+pattern: tr_p
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 537473
+score_per_word: 53747
+hi_scored_words:
+  tramp: 15654
+  transp: 82616
+  trap: 4885
+  treetop: 88057
+  trip: 1603
+  troop: 9384
+  trump: 12756
+  trusteeship: 67932
+scored_words:
+  trollop: 150705
+  tromp: 103881
+not_scored_words:
+- Trump
+- tranship
+- transship
+- treasurership
+- tribuneship
+- troopship

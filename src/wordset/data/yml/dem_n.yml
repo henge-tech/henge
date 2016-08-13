@@ -1,0 +1,32 @@
+---
+pattern: dem_n
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 22
+score: 1592428
+score_per_word: 93672
+hi_scored_words:
+  demagnetization: 93680
+  demarcation: 35287
+  demean: 62507
+  demobilization: 55846
+  democratization: 35509
+  demolition: 15561
+  demon: 7279
+  demonstration: 5239
+  demoralization: 96972
+  demotion: 61442
+scored_words:
+  demijohn: 143239
+  demilitarization: 101437
+  demineralization: 175189
+  demission: 213975
+  demodulation: 100035
+  demonization: 137242
+  demystification: 251989
+not_scored_words:
+- Demogorgon
+- demibastion
+- demicanton
+- demonetization
+- demythologization

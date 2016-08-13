@@ -1,0 +1,32 @@
+---
+pattern: b_ger
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 1059609
+score_per_word: 81508
+hi_scored_words:
+  badger: 16462
+  bagger: 64212
+  banger: 42871
+  bigger: 3506
+  blogger: 5286
+  booger: 64904
+  bringer: 70795
+  bugger: 32313
+  burger: 13918
+scored_words:
+  besieger: 307296
+  binger: 154093
+  bootlegger: 120325
+  bushranger: 163628
+not_scored_words:
+- Berger
+- Boulanger
+- Bridger
+- Burger
+- balladmonger
+- beefburger
+- blunger
+- bragger
+- braunschweiger

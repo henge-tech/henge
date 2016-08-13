@@ -1,0 +1,52 @@
+---
+pattern: g_ons
+hi_scored_words_count: 10
+scored_words_count: 14
+total_words: 42
+score: 2954374
+score_per_word: 123098
+hi_scored_words:
+  gallons: 12011
+  garrisons: 70335
+  generalizations: 34189
+  generations: 4362
+  gibbons: 22608
+  gluons: 95632
+  goons: 46431
+  gradations: 67463
+  graduations: 57024
+  grandsons: 53484
+scored_words:
+  galleons: 108083
+  garcons: 103237
+  garçons: 121006
+  gazillions: 276588
+  gesticulations: 126586
+  glaciations: 223296
+  gluttons: 172534
+  gorgons: 278973
+  gratifications: 174879
+  gravitons: 191544
+  griffons: 223866
+  grisons: 142408
+  guerdons: 212486
+  gyrations: 135349
+not_scored_words:
+- Gibbons
+- Grisons
+- gastrulations
+- geminations
+- genuflections
+- genuflexions
+- gerfalcons
+- gillions
+- glucagons
+- gnomons
+- godsons
+- gridirons
+- grunions
+- gudgeons
+- guenons
+- guncottons
+- gustations
+- gyrfalcons

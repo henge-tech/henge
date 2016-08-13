@@ -1,0 +1,40 @@
+---
+pattern: int_ons
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 30
+score: 1371292
+score_per_word: 65299
+hi_scored_words:
+  integrations: 54829
+  intentions: 6909
+  interactions: 4303
+  interceptions: 31312
+  interconnections: 48436
+  interjections: 88463
+  intermissions: 75861
+  interpretations: 12247
+  interrelations: 83451
+  interrogations: 54001
+  interruptions: 24945
+  intersections: 20592
+  interventions: 8228
+  intimations: 98048
+  introductions: 15540
+  intrusions: 48634
+  intuitions: 52200
+scored_words:
+  intensions: 214292
+  intercessions: 147546
+  interpolations: 116039
+  intonations: 165416
+not_scored_words:
+- intellections
+- intercalations
+- intercommunions
+- internationalizations
+- interpellations
+- intersessions
+- introjections
+- intromissions
+- intussusceptions

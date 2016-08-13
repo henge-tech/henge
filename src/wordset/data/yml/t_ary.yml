@@ -1,0 +1,31 @@
+---
+pattern: t_ary
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 21
+score: 579124
+score_per_word: 57912
+hi_scored_words:
+  teary: 59651
+  temporary: 2779
+  tercentenary: 76909
+  ternary: 47446
+  tertiary: 15698
+  testamentary: 72577
+  topiary: 48336
+  traditionary: 77588
+  tributary: 19140
+scored_words:
+  tutelary: 159000
+not_scored_words:
+- Tartary
+- Tatary
+- Tertiary
+- Tipperary
+- textuary
+- titulary
+- transitionary
+- tribunary
+- trinary
+- tuitionary
+- turbary

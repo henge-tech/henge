@@ -1,0 +1,67 @@
+---
+pattern: con_le
+hi_scored_words_count: 13
+scored_words_count: 11
+total_words: 57
+score: 2565206
+score_per_word: 106883
+hi_scored_words:
+  conceivable: 18685
+  condyle: 86110
+  configurable: 29386
+  conformable: 88192
+  considerable: 2862
+  console: 4560
+  constable: 13586
+  consumable: 35492
+  contemptible: 47710
+  contractile: 57289
+  controllable: 35630
+  conventicle: 87718
+  convertible: 13573
+scored_words:
+  concealable: 164011
+  condemnable: 281500
+  condensable: 270630
+  condole: 130177
+  congresspeople: 244330
+  connectable: 128592
+  constructible: 151428
+  contactable: 171388
+  contestable: 109706
+  contractible: 177037
+  convenable: 215614
+not_scored_words:
+- Constable
+- Constantinople
+- conceptacle
+- condensible
+- condonable
+- conductible
+- conferrable
+- confinable
+- confineable
+- confirmable
+- confiscable
+- confusable
+- confutable
+- congealable
+- congelable
+- conjecturable
+- conquerable
+- conscionable
+- conservable
+- consignable
+- consolable
+- constrainable
+- construable
+- constructable
+- containable
+- contemnible
+- continuable
+- contractable
+- contradictable
+- contrastable
+- controvertible
+- conversable
+- conveyable

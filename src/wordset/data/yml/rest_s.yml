@@ -1,0 +1,41 @@
+---
+pattern: rest_s
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 31
+score: 1858982
+score_per_word: 84499
+hi_scored_words:
+  restarts: 43603
+  restaurants: 4192
+  restaurateurs: 79578
+  restless: 10755
+  restlessness: 30730
+  restorations: 40130
+  restorers: 68882
+  restores: 27532
+  restrains: 98576
+  restraints: 18315
+  restrictions: 3233
+  restricts: 33720
+  restrooms: 32766
+  rests: 9144
+scored_words:
+  restatements: 129700
+  restates: 119943
+  restfulness: 198557
+  restocks: 143393
+  restoratives: 272853
+  restrictiveness: 239343
+  restructures: 125803
+  restructurings: 128234
+not_scored_words:
+- restaffs
+- restharrows
+- restitches
+- restiveness
+- restrainers
+- restrengthens
+- restrings
+- restudies
+- restyles

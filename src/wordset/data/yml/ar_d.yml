@@ -1,0 +1,54 @@
+---
+pattern: ar_d
+hi_scored_words_count: 20
+scored_words_count: 10
+total_words: 44
+score: 2449416
+score_per_word: 81647
+hi_scored_words:
+  arachnid: 72944
+  arched: 21606
+  archived: 13568
+  argued: 5436
+  arid: 14361
+  armband: 38367
+  armed: 3048
+  armored: 20739
+  around: 240
+  aroused: 19932
+  arraigned: 64672
+  arranged: 4046
+  arrayed: 51229
+  arrested: 3798
+  arrived: 2514
+  arrowhead: 28890
+  arsed: 68472
+  arthropod: 56208
+  articulated: 19006
+  arytenoid: 73621
+scored_words:
+  arachnoid: 109692
+  aramid: 114413
+  arbitrated: 103593
+  arcaded: 206426
+  arced: 203638
+  armload: 277965
+  arrogated: 249881
+  arrowed: 234896
+  arrowwood: 213032
+  articled: 153183
+not_scored_words:
+- Arad
+- Archfiend
+- Archibald
+- Ard
+- Arianrhod
+- Armand
+- Arnold
+- arbitraged
+- archaized
+- archfiend
+- argufied
+- aroid
+- aromatized
+- arterialized

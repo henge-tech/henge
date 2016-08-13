@@ -1,0 +1,34 @@
+---
+pattern: _race
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 24
+score: 398387
+score_per_word: 39838
+hi_scored_words:
+  brace: 12120
+  disgrace: 14428
+  embrace: 6342
+  grace: 2169
+  race: 910
+  retrace: 44588
+  terrace: 6150
+  trace: 3485
+scored_words:
+  scapegrace: 107930
+  tailrace: 200265
+not_scored_words:
+- Grace
+- Horace
+- Liberace
+- Race
+- Samothrace
+- Thrace
+- footrace
+- headrace
+- interrace
+- mainbrace
+- millrace
+- outrace
+- unbrace
+- vambrace

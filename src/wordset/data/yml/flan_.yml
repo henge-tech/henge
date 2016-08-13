@@ -1,0 +1,29 @@
+---
+pattern: flan_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 1218800
+score_per_word: 87057
+hi_scored_words:
+  flan: 52527
+  flange: 27940
+  flanged: 60670
+  flanges: 41624
+  flank: 16556
+  flanked: 32831
+  flanker: 69357
+  flanking: 35984
+  flanks: 40333
+  flannel: 17312
+  flannels: 99721
+scored_words:
+  flankers: 272729
+  flannelette: 210882
+  flans: 240334
+not_scored_words:
+- Flanagan
+- Flanders
+- flanch
+- flanneled
+- flanneling

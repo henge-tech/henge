@@ -1,0 +1,31 @@
+---
+pattern: el_ng
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 21
+score: 1404519
+score_per_word: 93634
+hi_scored_words:
+  elaborating: 59178
+  electing: 29651
+  electioneering: 75927
+  electrifying: 51523
+  electroplating: 65242
+  elevating: 39218
+  eliciting: 48559
+  eliminating: 14312
+  elucidating: 80840
+  eluding: 90891
+  eluting: 99145
+scored_words:
+  elapsing: 256225
+  elbowing: 116779
+  elongating: 176224
+  eloping: 200805
+not_scored_words:
+- elasticizing
+- elating
+- electrocuting
+- electrolyzing
+- elegizing
+- eliding

@@ -1,0 +1,31 @@
+---
+pattern: hobb_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 21
+score: 593683
+score_per_word: 59368
+hi_scored_words:
+  hobbies: 13225
+  hobbit: 25482
+  hobbits: 53309
+  hobble: 68597
+  hobbled: 64534
+  hobby: 8693
+  hobbyist: 48312
+  hobbyists: 51127
+scored_words:
+  hobbles: 151390
+  hobbling: 109014
+not_scored_words:
+- Hobbema
+- Hobbes
+- Hobbesian
+- Hobbism
+- Hobbs
+- hobbledehoy
+- hobbledehoys
+- hobbler
+- hobblers
+- hobbyhorse
+- hobbyhorses

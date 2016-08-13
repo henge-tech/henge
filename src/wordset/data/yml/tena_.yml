@@ -1,0 +1,31 @@
+---
+pattern: tena_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 21
+score: 747788
+score_per_word: 67980
+hi_scored_words:
+  tenable: 52956
+  tenacious: 17160
+  tenaciously: 80465
+  tenacity: 30977
+  tenancies: 64222
+  tenancy: 27850
+  tenant: 6858
+  tenantry: 96577
+  tenants: 8197
+scored_words:
+  tenanted: 110936
+  tenantless: 251590
+not_scored_words:
+- tenability
+- tenableness
+- tenablenesses
+- tenably
+- tenace
+- tenaciousness
+- tenaculum
+- tenaille
+- tenantable
+- tenanting

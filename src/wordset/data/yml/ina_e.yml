@@ -1,0 +1,37 @@
+---
+pattern: ina_e
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 27
+score: 1422527
+score_per_word: 71126
+hi_scored_words:
+  inaccessible: 18279
+  inaccurate: 9404
+  inactivate: 82651
+  inactive: 10630
+  inadequate: 7439
+  inadmissible: 45648
+  inadvisable: 87197
+  inalienable: 38948
+  inane: 39873
+  inanimate: 31703
+  inapplicable: 48308
+  inappropriate: 9929
+  inarticulate: 60806
+  inattentive: 61627
+  inaudible: 28566
+  inaugurate: 59140
+scored_words:
+  inadvertence: 155799
+  inapposite: 202633
+  inappreciable: 114120
+  inarguable: 309827
+not_scored_words:
+- inalterable
+- inappetence
+- inappreciative
+- inapprehensible
+- inapprehensive
+- inapproachable
+- inaptitude

@@ -1,0 +1,45 @@
+---
+pattern: capt_
+hi_scored_words_count: 22
+scored_words_count: 3
+total_words: 35
+score: 1272779
+score_per_word: 50911
+hi_scored_words:
+  capt: 22672
+  captain: 1882
+  captaincy: 77261
+  captained: 73098
+  captains: 12653
+  caption: 15804
+  captioned: 34849
+  captioning: 41584
+  captions: 20224
+  captious: 71944
+  captivate: 45689
+  captivated: 38184
+  captivating: 28270
+  captive: 10270
+  captives: 32723
+  captivity: 17542
+  captor: 43994
+  captors: 39712
+  capture: 3087
+  captured: 4566
+  captures: 13372
+  capturing: 11975
+scored_words:
+  captaining: 213729
+  captivates: 111076
+  captivation: 286619
+not_scored_words:
+- Capt
+- Captain
+- captaincies
+- captainship
+- captainships
+- captiously
+- captiousness
+- captivator
+- captivators
+- captivities

@@ -1,0 +1,21 @@
+---
+pattern: a_tely
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 431229
+score_per_word: 43122
+hi_scored_words:
+  absolutely: 1811
+  accurately: 6328
+  acutely: 27416
+  adequately: 9765
+  affectionately: 32100
+  alternately: 18583
+  appropriately: 10567
+  approximately: 4358
+scored_words:
+  articulately: 180966
+  astutely: 139335
+not_scored_words:
+- appositely

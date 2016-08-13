@@ -1,0 +1,25 @@
+---
+pattern: se_ent
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 952752
+score_per_word: 79396
+hi_scored_words:
+  secondment: 81594
+  sediment: 13003
+  segment: 8332
+  sentient: 29445
+  sentiment: 8205
+  sequent: 69324
+  serpent: 12871
+  settlement: 2687
+scored_words:
+  securement: 127329
+  semipermanent: 266528
+  semitransparent: 228082
+  senescent: 105352
+not_scored_words:
+- septavalent
+- septivalent
+- sexivalent

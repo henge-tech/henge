@@ -1,0 +1,47 @@
+---
+pattern: cr_ers
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 37
+score: 2535942
+score_per_word: 115270
+hi_scored_words:
+  crackers: 16474
+  crashers: 33204
+  craters: 31934
+  crawlers: 53158
+  creepers: 44394
+  cricketers: 49191
+  critters: 31566
+  crossovers: 43611
+  cruisers: 19856
+  crusaders: 25957
+  crushers: 61577
+scored_words:
+  creamers: 116906
+  criers: 225452
+  crimpers: 161621
+  croakers: 273293
+  crocheters: 312661
+  crofters: 124771
+  crooners: 146237
+  croppers: 202169
+  croupiers: 238460
+  crunchers: 153657
+  cryptographers: 169793
+not_scored_words:
+- crabbers
+- crammers
+- craniometers
+- crappers
+- crapshooters
+- cribbers
+- cripplers
+- criticizers
+- crosiers
+- croziers
+- crucifers
+- crullers
+- cruppers
+- cryometers
+- crystallographers

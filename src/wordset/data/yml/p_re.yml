@@ -1,0 +1,64 @@
+---
+pattern: p_re
+hi_scored_words_count: 23
+scored_words_count: 13
+total_words: 54
+score: 2851640
+score_per_word: 79212
+hi_scored_words:
+  padre: 17484
+  pare: 33641
+  pasture: 12573
+  pedicure: 34507
+  pere: 27099
+  persevere: 35419
+  picture: 494
+  pinafore: 64766
+  pleasure: 1980
+  pore: 18391
+  portraiture: 34600
+  posture: 14680
+  prefecture: 22587
+  premature: 9667
+  premiere: 9297
+  prepare: 2073
+  pressure: 1367
+  procedure: 5483
+  procure: 16131
+  puncture: 28862
+  pure: 1847
+  pyre: 56124
+  père: 34546
+scored_words:
+  parterre: 161897
+  payware: 194501
+  peradventure: 104471
+  perjure: 256860
+  perspire: 123166
+  photogravure: 146475
+  photosphere: 104291
+  plowshare: 275150
+  portiere: 230172
+  prefigure: 278050
+  prelature: 220674
+  primogeniture: 139429
+  purpure: 132886
+not_scored_words:
+- Padre
+- Patmore
+- Pierre
+- Poincare
+- perdure
+- photophore
+- pisciculture
+- pismire
+- planospore
+- pneumatophore
+- polacre
+- pomiculture
+- portfire
+- portière
+- postremogeniture
+- pourboire
+- preexposure
+- premunire

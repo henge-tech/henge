@@ -1,0 +1,43 @@
+---
+pattern: th_ed
+hi_scored_words_count: 21
+scored_words_count: 4
+total_words: 33
+score: 1917031
+score_per_word: 76681
+hi_scored_words:
+  thanked: 10804
+  thatched: 38585
+  thawed: 46672
+  themed: 12064
+  theorized: 63559
+  thickened: 37259
+  thinned: 48776
+  thoroughbred: 23526
+  thrashed: 59027
+  threaded: 12029
+  threatened: 4289
+  thrilled: 11066
+  thrived: 47703
+  throated: 33957
+  throbbed: 89756
+  thronged: 79097
+  throttled: 92456
+  thumbed: 98113
+  thumped: 90870
+  thundered: 70389
+  thwarted: 33690
+scored_words:
+  thirsted: 205458
+  threshed: 176941
+  throned: 242058
+  thudded: 288887
+not_scored_words:
+- Thoroughbred
+- thickheaded
+- thieved
+- thimbleweed
+- thoroughpaced
+- thralled
+- thrummed
+- thwacked

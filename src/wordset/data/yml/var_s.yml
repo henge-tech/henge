@@ -1,0 +1,36 @@
+---
+pattern: var_s
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 26
+score: 1079296
+score_per_word: 67456
+hi_scored_words:
+  variables: 12630
+  variances: 28865
+  variants: 16130
+  variations: 5281
+  varices: 88077
+  varies: 7075
+  varietals: 97363
+  varieties: 6421
+  various: 530
+  varnishes: 61460
+  vars: 47707
+  varus: 85475
+scored_words:
+  varas: 134729
+  variates: 155387
+  varlets: 181711
+  varmints: 150455
+not_scored_words:
+- Vargas
+- variableness
+- variablenesses
+- varicellas
+- variegates
+- variolas
+- variolous
+- variometers
+- variorums
+- varsities

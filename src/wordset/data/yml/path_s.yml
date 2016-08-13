@@ -1,0 +1,23 @@
+---
+pattern: path_s
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 428325
+score_per_word: 47591
+hi_scored_words:
+  pathfinders: 68411
+  pathogenesis: 26756
+  pathogens: 18185
+  pathologies: 64224
+  pathologists: 37300
+  pathos: 33631
+  paths: 4976
+  pathways: 13944
+scored_words:
+  pathless: 160898
+not_scored_words:
+- Pathans
+- pathogeneses
+- pathogenous
+- pathoneurosis

@@ -1,0 +1,45 @@
+---
+pattern: with_
+hi_scored_words_count: 25
+scored_words_count: 2
+total_words: 35
+score: 1164986
+score_per_word: 43147
+hi_scored_words:
+  with: 10
+  withal: 36396
+  withdraw: 6590
+  withdrawal: 6695
+  withdrawals: 20525
+  withdrawing: 20970
+  withdrawn: 7138
+  withdraws: 32905
+  withdrew: 12168
+  withe: 91691
+  wither: 33039
+  withered: 31115
+  withering: 41907
+  withers: 28810
+  withheld: 12275
+  withhold: 17440
+  withholding: 17089
+  withholds: 87795
+  within: 182
+  withing: 94178
+  without: 159
+  withstand: 13388
+  withstanding: 54018
+  withstands: 90896
+  withstood: 44862
+scored_words:
+  withes: 222191
+  withy: 140554
+not_scored_words:
+- withed
+- witheringly
+- witherings
+- witherite
+- withershins
+- withies
+- withindoors
+- withoutdoors

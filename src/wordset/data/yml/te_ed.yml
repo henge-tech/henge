@@ -1,0 +1,55 @@
+---
+pattern: te_ed
+hi_scored_words_count: 24
+scored_words_count: 10
+total_words: 45
+score: 2760423
+score_per_word: 81188
+hi_scored_words:
+  teamed: 16872
+  teased: 32305
+  teed: 81628
+  telegraphed: 89611
+  telephoned: 47157
+  televised: 21816
+  tempered: 17002
+  tempted: 10302
+  tended: 9509
+  tendered: 32902
+  tensed: 70317
+  tensioned: 84236
+  tented: 48674
+  tenured: 39099
+  termed: 11132
+  terminated: 8113
+  terraced: 32188
+  terrified: 14000
+  terrorized: 63938
+  testbed: 52622
+  tested: 4226
+  testified: 11304
+  tethered: 44946
+  textured: 20052
+scored_words:
+  teared: 172179
+  teemed: 195090
+  teetered: 208618
+  telescoped: 243994
+  temporized: 122487
+  tenanted: 110936
+  tenderhearted: 231709
+  tentacled: 227777
+  tessellated: 261691
+  texted: 121991
+not_scored_words:
+- TELNETTed
+- teargassed
+- teethed
+- telecommuted
+- teleconferenced
+- telexed
+- temped
+- tenderized
+- tenoned
+- tergiversated
+- terraformed

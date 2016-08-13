@@ -1,0 +1,46 @@
+---
+pattern: t_ical
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 36
+score: 1647548
+score_per_word: 65901
+hi_scored_words:
+  tactical: 11917
+  technical: 2133
+  technological: 12934
+  teleological: 66912
+  terminological: 77745
+  theatrical: 15585
+  theological: 8081
+  theoretical: 6198
+  theosophical: 63906
+  tical: 78339
+  topical: 17812
+  topographical: 35827
+  topological: 24676
+  toxicological: 49092
+  tropical: 4117
+  typical: 3331
+  typographical: 29469
+  typological: 97083
+  tyrannical: 37449
+scored_words:
+  tautological: 110035
+  taxonomical: 268586
+  therapeutical: 150248
+  thermochemical: 139406
+  thermodynamical: 194947
+  tragical: 141720
+not_scored_words:
+- Talmudical
+- telemetrical
+- teratological
+- thanatological
+- thaumaturgical
+- theistical
+- theurgical
+- thrasonical
+- tragicomical
+- trigonometrical
+- trimetrical

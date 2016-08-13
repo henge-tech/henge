@@ -1,0 +1,37 @@
+---
+pattern: idio_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 27
+score: 968405
+score_per_word: 74492
+hi_scored_words:
+  idiocy: 36731
+  idiom: 27639
+  idiomatic: 56543
+  idioms: 27176
+  idiopathic: 34873
+  idiosyncrasies: 67696
+  idiosyncratic: 34572
+  idiot: 9286
+  idiotic: 25031
+  idiots: 14258
+scored_words:
+  idiocies: 285855
+  idiosyncrasy: 109173
+  idiotically: 239572
+not_scored_words:
+- idioblast
+- idiocrasy
+- idioglossia
+- idiographic
+- idiolect
+- idiolects
+- idiomatically
+- idiomorphic
+- idiopathy
+- idiophone
+- idioplasm
+- idiosyncratically
+- idiotism
+- idiotropic

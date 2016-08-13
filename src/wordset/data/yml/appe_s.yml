@@ -1,0 +1,34 @@
+---
+pattern: appe_s
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 24
+score: 979388
+score_per_word: 69956
+hi_scored_words:
+  appeals: 4625
+  appearances: 7217
+  appears: 1310
+  appellants: 35470
+  appellations: 95832
+  appendages: 48574
+  appendices: 21248
+  appendicitis: 41012
+  appendixes: 57465
+  appends: 83777
+  appetites: 39418
+  appetizers: 26222
+scored_words:
+  appeasers: 256485
+  appertains: 260733
+not_scored_words:
+- appeasements
+- appeases
+- appellatives
+- appendectomies
+- appendicectomies
+- appendicles
+- apperceives
+- apperceptions
+- appetences
+- appetencies

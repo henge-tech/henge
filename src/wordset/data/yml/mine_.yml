@@ -1,0 +1,36 @@
+---
+pattern: mine_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 26
+score: 1685004
+score_per_word: 84250
+hi_scored_words:
+  mine: 1238
+  mined: 24236
+  minefield: 43960
+  minefields: 83334
+  miner: 13763
+  mineral: 5309
+  mineralization: 46561
+  mineralogical: 62404
+  mineralogy: 42941
+  minerals: 7545
+  miners: 12101
+  mines: 5745
+  minesweeper: 52257
+scored_words:
+  mineable: 316793
+  mineralogist: 105552
+  mineralogists: 248737
+  mineshaft: 230193
+  minestrone: 101800
+  minesweepers: 134109
+  mineworkers: 146426
+not_scored_words:
+- Minerva
+- minelayer
+- minelayers
+- mineralize
+- mineralogically
+- mineraloid

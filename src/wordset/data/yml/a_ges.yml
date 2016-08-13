@@ -1,0 +1,34 @@
+---
+pattern: a_ges
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 24
+score: 1078496
+score_per_word: 82961
+hi_scored_words:
+  acknowledges: 15176
+  advantages: 3515
+  ages: 2076
+  alleges: 31972
+  anchorages: 95800
+  appendages: 48574
+  arranges: 34935
+  assemblages: 46003
+  averages: 14167
+scored_words:
+  abridges: 183469
+  acreages: 102841
+  adages: 257458
+  avenges: 242510
+not_scored_words:
+- Asperges
+- adjudges
+- afterimages
+- agiotages
+- alienages
+- ambages
+- anagoges
+- anlages
+- appanages
+- arbitrages
+- assuages

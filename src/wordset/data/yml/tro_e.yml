@@ -1,0 +1,33 @@
+---
+pattern: tro_e
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 23
+score: 962683
+score_per_word: 74052
+hi_scored_words:
+  trombone: 24941
+  trompe: 61605
+  trope: 63017
+  troposphere: 57121
+  trouble: 1448
+  troublesome: 16572
+  troupe: 22331
+  trove: 39906
+scored_words:
+  troche: 214008
+  trochee: 122802
+  troglodyte: 117848
+  tropopause: 111676
+  trounce: 109408
+not_scored_words:
+- Trollope
+- Trotskyite
+- Trowbridge
+- trochophore
+- troostite
+- trophozoite
+- tropicalize
+- tropine
+- trotline
+- trouvaille

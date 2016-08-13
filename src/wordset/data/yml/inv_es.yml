@@ -1,0 +1,32 @@
+---
+pattern: inv_es
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 832904
+score_per_word: 64069
+hi_scored_words:
+  invades: 45011
+  invalidates: 80078
+  inventories: 25195
+  invertebrates: 25504
+  investigates: 19683
+  invitees: 86736
+  invites: 11222
+  invoices: 16988
+  invokes: 37065
+  involves: 4299
+scored_words:
+  invectives: 187565
+  inverses: 101876
+  invigorates: 191682
+not_scored_words:
+- invaginates
+- invaluablenesses
+- invariablenesses
+- invariables
+- inveigles
+- investitures
+- invigilates
+- invisibilities
+- involucres

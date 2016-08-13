@@ -1,0 +1,27 @@
+---
+pattern: mo_ion
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 822816
+score_per_word: 63293
+hi_scored_words:
+  mobilization: 20844
+  moderation: 11967
+  modernization: 17771
+  modification: 4346
+  modulation: 18611
+  molestation: 40599
+  monetization: 82219
+  mortification: 51901
+  motion: 1418
+  motivation: 8710
+scored_words:
+  monopolization: 117942
+  morion: 216081
+  motorization: 230407
+not_scored_words:
+- modillion
+- mollification
+- monition
+- moralization

@@ -1,0 +1,34 @@
+---
+pattern: s_nk
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 24
+score: 1303699
+score_per_word: 62080
+hi_scored_words:
+  sank: 13824
+  shank: 25170
+  shrank: 37649
+  shrink: 9121
+  shrunk: 23363
+  sink: 4563
+  skink: 69915
+  skunk: 24044
+  slink: 54729
+  spank: 21418
+  spunk: 41262
+  stank: 66044
+  stink: 22142
+  stunk: 79675
+  sunk: 12528
+  swank: 34493
+scored_words:
+  sandbank: 122895
+  slunk: 129380
+  snowbank: 254589
+  steampunk: 123773
+  swink: 133122
+not_scored_words:
+- sheepshank
+- snowblink
+- splatterpunk

@@ -1,0 +1,29 @@
+---
+pattern: o_ned
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 19
+score: 861273
+score_per_word: 61519
+hi_scored_words:
+  obtained: 1519
+  occasioned: 27477
+  opened: 1553
+  opined: 51522
+  optioned: 77693
+  ordained: 13510
+  orphaned: 31359
+  outgunned: 97221
+  outlined: 7216
+  overburdened: 72793
+  overturned: 22783
+  owned: 2083
+scored_words:
+  overdetermined: 197697
+  overstrained: 256847
+not_scored_words:
+- oppugned
+- outspanned
+- overmanned
+- overrefined
+- overtightened

@@ -1,0 +1,59 @@
+---
+pattern: emb_s
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 49
+score: 2261326
+score_per_word: 90453
+hi_scored_words:
+  embankments: 69112
+  embargoes: 82002
+  embarks: 56610
+  embarrass: 27924
+  embassies: 23951
+  embeds: 76046
+  embellishments: 37578
+  embers: 39326
+  emblems: 28014
+  embodies: 30103
+  embodiments: 56883
+  emboss: 74677
+  embraces: 18051
+  embrasures: 90314
+  embroideries: 95325
+  embryos: 23987
+scored_words:
+  embalmers: 174960
+  embarrasses: 134462
+  embarrassments: 114027
+  embeddings: 106544
+  embellishes: 222582
+  emboldens: 286697
+  embolus: 103751
+  embossers: 117439
+  embroiderers: 170961
+not_scored_words:
+- embalmments
+- embalms
+- embanks
+- embarkations
+- embarkments
+- embezzlers
+- embezzles
+- embitters
+- emblazons
+- emblements
+- embolectomies
+- embolisms
+- emboluses
+- embonpoints
+- embosses
+- embossments
+- embowers
+- embrangles
+- embrocations
+- embroideress
+- embroiders
+- embroils
+- embryologists
+- embus

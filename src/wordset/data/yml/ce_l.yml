@@ -1,0 +1,35 @@
+---
+pattern: ce_l
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 25
+score: 882660
+score_per_word: 55166
+hi_scored_words:
+  ceil: 55413
+  celestial: 10712
+  cell: 1528
+  centennial: 19705
+  central: 1065
+  centrifugal: 28112
+  centripetal: 74008
+  cereal: 15639
+  cerebral: 12744
+  cerebrospinal: 41014
+  ceremonial: 16489
+  cervical: 13807
+  cesspool: 60560
+scored_words:
+  cecal: 164101
+  censorial: 162070
+  cental: 205693
+not_scored_words:
+- Cecil
+- Central
+- cenobitical
+- centesimal
+- centroclinal
+- centurial
+- ceorl
+- ceramal
+- cesural

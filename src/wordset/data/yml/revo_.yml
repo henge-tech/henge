@@ -1,0 +1,47 @@
+---
+pattern: revo_
+hi_scored_words_count: 22
+scored_words_count: 6
+total_words: 37
+score: 1666658
+score_per_word: 59523
+hi_scored_words:
+  revocable: 67090
+  revocation: 24220
+  revoke: 23527
+  revoked: 19760
+  revoking: 57662
+  revolt: 11067
+  revolted: 58747
+  revolting: 35763
+  revolts: 60843
+  revolution: 2541
+  revolutionaries: 39554
+  revolutionary: 5528
+  revolutionize: 39995
+  revolutionized: 45011
+  revolutionizing: 67660
+  revolutions: 17555
+  revolve: 25763
+  revolved: 44889
+  revolver: 14162
+  revolvers: 52099
+  revolves: 29399
+  revolving: 14931
+scored_words:
+  revocations: 161522
+  revokes: 100427
+  revolute: 237238
+  revolutionist: 132768
+  revolutionists: 133361
+  revolutionizes: 143576
+not_scored_words:
+- revocatory
+- revoice
+- revoker
+- revokers
+- revolter
+- revoltingly
+- revolutionism
+- revolutionizer
+- revolvable

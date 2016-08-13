@@ -1,0 +1,26 @@
+---
+pattern: pi_on
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1072733
+score_per_word: 89394
+hi_scored_words:
+  pigeon: 11295
+  pigmentation: 46794
+  pillion: 98480
+  pincushion: 90654
+  pinion: 39274
+  pinon: 85957
+  pion: 47133
+  piston: 14249
+scored_words:
+  picaroon: 231150
+  pinyon: 102545
+  piton: 141976
+  pixelation: 163226
+not_scored_words:
+- Pinkerton
+- pinnation
+- pixilation
+- piñon

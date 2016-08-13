@@ -1,0 +1,68 @@
+---
+pattern: c_tic
+hi_scored_words_count: 20
+scored_words_count: 13
+total_words: 58
+score: 3008034
+score_per_word: 91152
+hi_scored_words:
+  capitalistic: 64988
+  cataleptic: 94075
+  catalytic: 18874
+  cathartic: 51542
+  caustic: 26316
+  chaotic: 15456
+  characteristic: 4421
+  charismatic: 24658
+  chemotherapeutic: 70086
+  chiropractic: 18813
+  chromatic: 31673
+  cinematic: 23045
+  clastic: 94513
+  climactic: 47022
+  climatic: 19611
+  cosmetic: 18094
+  critic: 7556
+  cryptic: 28925
+  cybernetic: 51960
+  cystic: 20744
+scored_words:
+  cabalistic: 194592
+  cannibalistic: 107249
+  casuistic: 148540
+  chauvinistic: 120724
+  chiastic: 282833
+  cirrhotic: 128892
+  cladistic: 130339
+  communistic: 120301
+  copacetic: 191055
+  crescentic: 278368
+  cryptanalytic: 308865
+  cultic: 100218
+  cyanotic: 163686
+not_scored_words:
+- Calvinistic
+- Carnatic
+- Celtic
+- Coptic
+- Cushitic
+- calcitic
+- catacaustic
+- catachrestic
+- catalectic
+- catechetic
+- cathectic
+- cenobitic
+- ceroplastic
+- chemosynthetic
+- chiliastic
+- cobaltic
+- commercialistic
+- conglomeratic
+- consumeristic
+- contortionistic
+- copasetic
+- corybantic
+- cretic
+- cryptoclastic
+- cubistic

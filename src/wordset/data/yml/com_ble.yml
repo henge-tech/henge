@@ -1,0 +1,31 @@
+---
+pattern: com_ble
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 21
+score: 1327477
+score_per_word: 94819
+hi_scored_words:
+  combustible: 28827
+  comfortable: 2271
+  commendable: 31450
+  communicable: 39234
+  comparable: 7527
+  compatible: 5917
+  compensable: 89640
+  comprehensible: 36768
+  compressible: 58763
+  computable: 48124
+scored_words:
+  comestible: 341679
+  commensurable: 243216
+  commutable: 244670
+  companionable: 149391
+not_scored_words:
+- committable
+- commonable
+- completable
+- compossible
+- compoundable
+- comprehendible
+- comprizable

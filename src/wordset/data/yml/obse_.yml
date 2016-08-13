@@ -1,0 +1,49 @@
+---
+pattern: obse_
+hi_scored_words_count: 25
+scored_words_count: 8
+total_words: 39
+score: 2350286
+score_per_word: 71220
+hi_scored_words:
+  obsequious: 72877
+  obsequiousness: 92802
+  observable: 18449
+  observables: 63682
+  observance: 17485
+  observances: 41838
+  observant: 31485
+  observation: 3275
+  observational: 21556
+  observations: 3278
+  observatories: 49904
+  observatory: 12289
+  observe: 4200
+  observed: 1770
+  observer: 5190
+  observers: 9028
+  observes: 17338
+  observing: 7045
+  obsess: 57689
+  obsessed: 15708
+  obsessing: 70871
+  obsession: 14318
+  obsessions: 38839
+  obsessive: 21033
+  obsessively: 67123
+scored_words:
+  obsequies: 153041
+  obsequiously: 176348
+  observability: 103015
+  observationally: 209172
+  obsesses: 204468
+  obsessional: 182385
+  obsessiveness: 280118
+  obsessives: 282667
+not_scored_words:
+- obsecrate
+- obsequent
+- obsequy
+- observably
+- observantly
+- obsessionally

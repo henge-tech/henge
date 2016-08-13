@@ -1,0 +1,28 @@
+---
+pattern: cons_ts
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 18
+score: 1370582
+score_per_word: 80622
+hi_scored_words:
+  conscripts: 64700
+  consents: 34097
+  conservationists: 52672
+  consignments: 66377
+  consists: 2838
+  consonants: 37107
+  constants: 11720
+  constituents: 11670
+  constraints: 5053
+  constructs: 20975
+  consultants: 4294
+  consults: 37037
+scored_words:
+  consorts: 111573
+  constitutionalists: 207631
+  constricts: 174597
+  constructionists: 270982
+  constructivists: 257259
+not_scored_words:
+- consumerists

@@ -1,0 +1,41 @@
+---
+pattern: _orse
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 31
+score: 912612
+score_per_word: 65186
+hi_scored_words:
+  corse: 37011
+  endorse: 15123
+  gorse: 52451
+  horse: 831
+  morse: 13879
+  racehorse: 56268
+  remorse: 20514
+  seahorse: 47366
+  workhorse: 49828
+  worse: 2050
+scored_words:
+  packhorse: 113698
+  sawhorse: 210053
+  torse: 168266
+  warhorse: 125274
+not_scored_words:
+- Corse
+- Morse
+- Norse
+- Whitehorse
+- antrorse
+- carthorse
+- clotheshorse
+- cockhorse
+- dextrorse
+- extrorse
+- hobbyhorse
+- introrse
+- retrorse
+- sinistrorse
+- studhorse
+- unhorse
+- wheelhorse

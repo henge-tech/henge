@@ -1,0 +1,27 @@
+---
+pattern: _mony
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 17
+score: 1049168
+score_per_word: 69944
+hi_scored_words:
+  acrimony: 77687
+  alimony: 28263
+  antimony: 33517
+  ceremony: 3921
+  disharmony: 86850
+  harmony: 4581
+  hegemony: 31586
+  lemony: 39944
+  matrimony: 33280
+  parsimony: 54221
+  patrimony: 53187
+  simony: 98792
+  testimony: 3962
+scored_words:
+  agrimony: 217248
+  sanctimony: 282129
+not_scored_words:
+- palimony
+- scammony

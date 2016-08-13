@@ -1,0 +1,25 @@
+---
+pattern: pan_e
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 598670
+score_per_word: 59867
+hi_scored_words:
+  panache: 37399
+  pancake: 27191
+  pane: 14885
+  panhandle: 30991
+  panicle: 91696
+  pantie: 65997
+  pantomime: 41019
+  pantyhose: 14286
+scored_words:
+  panettone: 172230
+  panne: 102976
+not_scored_words:
+- pandurate
+- panegyrize
+- paniculate
+- panpipe
+- pantile

@@ -1,0 +1,28 @@
+---
+pattern: fund_
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 18
+score: 742803
+score_per_word: 46425
+hi_scored_words:
+  fund: 1898
+  fundamental: 3410
+  fundamentalism: 28969
+  fundamentalist: 23251
+  fundamentalists: 30811
+  fundamentally: 13920
+  fundamentals: 14678
+  funded: 12546
+  funding: 4463
+  fundraiser: 16801
+  fundraisers: 31491
+  fundraising: 7543
+  funds: 2300
+  fundus: 62532
+scored_words:
+  fundament: 151002
+  fundaments: 337188
+not_scored_words:
+- Fundamentalism
+- Fundy

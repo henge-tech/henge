@@ -1,0 +1,44 @@
+---
+pattern: f_in
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 34
+score: 1126864
+score_per_word: 66286
+hi_scored_words:
+  fain: 29708
+  ferritin: 67032
+  fibrin: 46240
+  fin: 7944
+  flavin: 67108
+  floodplain: 31399
+  florin: 36748
+  fluorescein: 59283
+  forebrain: 72340
+  foreskin: 27798
+  formalin: 52368
+  fountain: 5707
+  franklin: 3944
+scored_words:
+  firkin: 109930
+  flavoprotein: 139516
+  foin: 162035
+  francolin: 207764
+not_scored_words:
+- Fagin
+- Fin
+- Frankenstein
+- Franklin
+- Fraulein
+- featherbrain
+- fellahin
+- fibrinolysin
+- fibroin
+- fiorin
+- flavopurpurin
+- folacin
+- folliculin
+- foreordain
+- freemartin
+- fuchsin
+- fusain

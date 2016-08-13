@@ -1,0 +1,22 @@
+---
+pattern: affo_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 567999
+score_per_word: 63111
+hi_scored_words:
+  afford: 3183
+  affordability: 28023
+  affordable: 3687
+  affordably: 66110
+  afforded: 10756
+  affording: 37143
+  affords: 18457
+  afforestation: 71502
+scored_words:
+  afforested: 329138
+not_scored_words:
+- afforest
+- afforesting
+- afforests

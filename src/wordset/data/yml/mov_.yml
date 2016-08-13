@@ -1,0 +1,37 @@
+---
+pattern: mov_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 27
+score: 1006824
+score_per_word: 59224
+hi_scored_words:
+  movable: 13412
+  move: 670
+  moveable: 39409
+  moved: 1128
+  movement: 1260
+  movements: 3437
+  mover: 18767
+  movers: 22568
+  moves: 3287
+  movie: 7377
+  moviegoers: 77791
+  movies: 8095
+  moving: 1089
+scored_words:
+  movables: 195264
+  movably: 328276
+  moviegoer: 140904
+  movingly: 144090
+not_scored_words:
+- movabilities
+- movability
+- movableness
+- movablenesses
+- moveability
+- moveableness
+- moveablenesses
+- moveables
+- moveably
+- moviedom

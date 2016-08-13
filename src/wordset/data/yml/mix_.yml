@@ -1,0 +1,23 @@
+---
+pattern: mix_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 236785
+score_per_word: 26309
+hi_scored_words:
+  mix: 2698
+  mixed: 2054
+  mixer: 12313
+  mixers: 14761
+  mixes: 15621
+  mixing: 6258
+  mixture: 4161
+  mixtures: 19783
+scored_words:
+  mixology: 159136
+not_scored_words:
+- Mixtec
+- mixable
+- mixologist
+- mixologists

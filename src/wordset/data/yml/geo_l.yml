@@ -1,0 +1,20 @@
+---
+pattern: geo_l
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 201729
+score_per_word: 25216
+hi_scored_words:
+  geochemical: 45578
+  geographical: 6580
+  geol: 31158
+  geological: 7723
+  geometrical: 26535
+  geophysical: 21038
+  geopolitical: 37096
+  geothermal: 26021
+scored_words: {}
+not_scored_words:
+- geochronological
+- geosynclinal

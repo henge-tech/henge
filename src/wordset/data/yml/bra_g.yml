@@ -1,0 +1,39 @@
+---
+pattern: bra_g
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 29
+score: 1172836
+score_per_word: 68990
+hi_scored_words:
+  bracing: 29555
+  bracketing: 74023
+  brag: 26498
+  bragging: 28306
+  braiding: 64295
+  brainstorming: 28072
+  brainwashing: 43259
+  braking: 20241
+  branching: 19740
+  branding: 15108
+  brandishing: 53745
+  braving: 71317
+  brawling: 79776
+  brazing: 59286
+scored_words:
+  braising: 118393
+  brambling: 309977
+  braying: 131245
+not_scored_words:
+- Bragg
+- Brandenburg
+- Braunschweig
+- brabbling
+- brachiating
+- brailing
+- braining
+- brandling
+- brandying
+- bratticing
+- brattishing
+- brazening

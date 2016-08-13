@@ -1,0 +1,22 @@
+---
+pattern: exc_ion
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 12
+score: 406276
+score_per_word: 36934
+hi_scored_words:
+  excavation: 16003
+  exception: 2690
+  excision: 29490
+  excitation: 20607
+  exclamation: 19339
+  exclusion: 6222
+  excommunication: 55381
+  excoriation: 91078
+  excretion: 32035
+  excursion: 12909
+scored_words:
+  exculpation: 120522
+not_scored_words:
+- excruciation

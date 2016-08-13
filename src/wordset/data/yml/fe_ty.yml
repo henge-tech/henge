@@ -1,0 +1,27 @@
+---
+pattern: fe_ty
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 17
+score: 340034
+score_per_word: 37781
+hi_scored_words:
+  fealty: 61833
+  feasibility: 17493
+  fecundity: 48354
+  feisty: 38122
+  felicity: 16574
+  femininity: 44872
+  ferocity: 39650
+  fertility: 12217
+  festivity: 60919
+scored_words: {}
+not_scored_words:
+- Felicity
+- febricity
+- febrility
+- felinity
+- femineity
+- ferity
+- fermentability
+- feudality

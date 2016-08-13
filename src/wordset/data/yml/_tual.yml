@@ -1,0 +1,47 @@
+---
+pattern: _tual
+hi_scored_words_count: 21
+scored_words_count: 7
+total_words: 37
+score: 1938871
+score_per_word: 69245
+hi_scored_words:
+  actual: 1362
+  conceptual: 18993
+  contextual: 18416
+  contractual: 12541
+  conventual: 58544
+  counterfactual: 74160
+  effectual: 47951
+  eventual: 16503
+  factual: 14322
+  habitual: 19232
+  ineffectual: 39015
+  instinctual: 81491
+  intellectual: 2213
+  mutual: 3127
+  perceptual: 20981
+  perpetual: 9029
+  punctual: 37472
+  ritual: 8554
+  spiritual: 2208
+  textual: 23424
+  virtual: 5904
+scored_words:
+  accentual: 202906
+  artifactual: 197365
+  aspectual: 131076
+  conflictual: 157255
+  tactual: 247082
+  unspiritual: 288652
+  victual: 199093
+not_scored_words:
+- artefactual
+- commutual
+- nonfactual
+- nonintellectual
+- nonspiritual
+- overintellectual
+- subtextual
+- unintellectual
+- unpunctual

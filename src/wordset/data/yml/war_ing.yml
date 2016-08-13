@@ -1,0 +1,22 @@
+---
+pattern: war_ing
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 541583
+score_per_word: 54158
+hi_scored_words:
+  warbling: 91849
+  warding: 81188
+  warehousing: 22487
+  waring: 34151
+  warming: 7591
+  warning: 1565
+  warping: 47932
+  warranting: 93920
+  warring: 30634
+scored_words:
+  warmongering: 130266
+not_scored_words:
+- Waring
+- warrantying

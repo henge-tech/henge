@@ -1,0 +1,34 @@
+---
+pattern: comp_n
+hi_scored_words_count: 18
+scored_words_count: 2
+total_words: 24
+score: 534344
+score_per_word: 26717
+hi_scored_words:
+  compaction: 36354
+  companion: 3863
+  comparison: 2048
+  compassion: 7655
+  compensation: 3484
+  competition: 2421
+  compilation: 4961
+  complain: 6633
+  completion: 7672
+  complexion: 18424
+  complication: 19107
+  composition: 3014
+  comprehension: 9992
+  compression: 8481
+  compulsion: 25358
+  compunction: 79120
+  computation: 11136
+  computerization: 65408
+scored_words:
+  compartmentalization: 111712
+  complexation: 107501
+not_scored_words:
+- Compton
+- compellation
+- compotation
+- compurgation

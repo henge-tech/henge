@@ -1,0 +1,34 @@
+---
+pattern: ar_ing
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 24
+score: 1065504
+score_per_word: 71033
+hi_scored_words:
+  arching: 50585
+  archiving: 21999
+  arcing: 78515
+  arguing: 9523
+  arising: 5192
+  arming: 37762
+  arousing: 41655
+  arranging: 13752
+  arresting: 25847
+  arriving: 7080
+  articulating: 38962
+scored_words:
+  arbitrating: 224038
+  arcading: 106872
+  armoring: 140140
+  arraying: 263582
+not_scored_words:
+- arbitraging
+- archaizing
+- argufying
+- aromatizing
+- arraigning
+- arrogating
+- arrowing
+- arsing
+- arterializing

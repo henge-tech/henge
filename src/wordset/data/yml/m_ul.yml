@@ -1,0 +1,25 @@
+---
+pattern: m_ul
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 615623
+score_per_word: 55965
+hi_scored_words:
+  masterful: 32861
+  maul: 38697
+  meaningful: 9094
+  merciful: 19463
+  mindful: 20374
+  mistrustful: 86931
+  mogul: 29319
+  mournful: 36668
+  mouthful: 28695
+scored_words:
+  manful: 180328
+  mirthful: 133193
+not_scored_words:
+- Moghul
+- Mogul
+- Mosul
+- mugful

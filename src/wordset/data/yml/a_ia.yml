@@ -1,0 +1,136 @@
+---
+pattern: a_ia
+hi_scored_words_count: 25
+scored_words_count: 18
+total_words: 126
+score: 4567914
+score_per_word: 106230
+hi_scored_words:
+  acacia: 21762
+  academia: 23426
+  agoraphobia: 61779
+  alexia: 42437
+  alleluia: 49598
+  alopecia: 44280
+  amblyopia: 91310
+  ambrosia: 37353
+  ammonia: 14692
+  amnesia: 26424
+  analgesia: 40580
+  anemia: 17738
+  anesthesia: 16046
+  anorexia: 25068
+  anoxia: 77948
+  aphasia: 43525
+  apologia: 78377
+  apraxia: 96428
+  aria: 18946
+  arrhythmia: 40812
+  artemisia: 56112
+  asphyxia: 64683
+  ataxia: 38915
+  atria: 55018
+  aurelia: 52969
+scored_words:
+  acedia: 163016
+  achondroplasia: 160634
+  aciduria: 267738
+  acrophobia: 218224
+  adventitia: 262991
+  agnosia: 175591
+  albuminuria: 140123
+  anosmia: 232517
+  aphrodisia: 234033
+  aplasia: 146987
+  aporia: 196034
+  aquilegia: 137218
+  arachnophobia: 142344
+  araucaria: 159334
+  arthralgia: 152665
+  asthenia: 115853
+  ataraxia: 254496
+  azotemia: 271890
+not_scored_words:
+- Abkhazia
+- Abyssinia
+- Acadia
+- Aeolia
+- Aetolia
+- Aglaia
+- Albania
+- Alessandria
+- Alexandria
+- Algeria
+- Alicia
+- Alsatia
+- Amalia
+- Amazonia
+- Amelia
+- Anastasia
+- Anatolia
+- Andalusia
+- Angelia
+- Anglia
+- Anglomania
+- Anglophilia
+- Anglophobia
+- Antlia
+- Antonia
+- Apia
+- Appalachia
+- Apulia
+- Aquileia
+- Arabia
+- Araguaia
+- Araucania
+- Arcadia
+- Armenia
+- Asia
+- Aspasia
+- Assyria
+- Astoria
+- Atria
+- Aurelia
+- Australasia
+- Australia
+- Austrasia
+- Austria
+- Austronesia
+- Azania
+- ablepsia
+- aboulia
+- abulia
+- achlorhydria
+- actinia
+- adularia
+- adversaria
+- adynamia
+- aecia
+- aerodontia
+- aerophagia
+- aerophobia
+- agraphia
+- alfilaria
+- algesia
+- algolagnia
+- algophobia
+- amentia
+- ametropia
+- amimia
+- amyotonia
+- anacoluthia
+- anarthria
+- aniseikonia
+- anisometropia
+- anoxemia
+- antlia
+- antonomasia
+- anuria
+- aphelia
+- aphonia
+- apothecia
+- archegonia
+- asthenopia
+- astigmia
+- astraphobia
+- athanasia

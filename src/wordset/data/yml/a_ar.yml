@@ -1,0 +1,54 @@
+---
+pattern: a_ar
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 44
+score: 2041679
+score_per_word: 85069
+hi_scored_words:
+  afar: 19455
+  agar: 27586
+  ajar: 53411
+  alcazar: 71340
+  altar: 8285
+  alveolar: 31718
+  angular: 13002
+  annular: 41220
+  antiwar: 41723
+  appear: 1047
+  articular: 35684
+  ashlar: 87882
+  atrioventricular: 81687
+  attar: 82335
+  auricular: 69797
+  avatar: 8247
+scored_words:
+  acicular: 200182
+  alar: 105232
+  antinuclear: 111857
+  appendicular: 263053
+  areolar: 221271
+  arrear: 137489
+  arteriolar: 168799
+  avuncular: 159377
+not_scored_words:
+- Achernar
+- Adar
+- Aguilar
+- Ahaggar
+- Ahmednagar
+- Akbar
+- Alar
+- Alkmaar
+- Amritsar
+- Avar
+- alcázar
+- alegar
+- almemar
+- almucantar
+- amphistylar
+- anear
+- antiar
+- antimacassar
+- astylar
+- aurar

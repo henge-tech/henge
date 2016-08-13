@@ -1,0 +1,42 @@
+---
+pattern: s_ming
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 32
+score: 1984544
+score_per_word: 76328
+hi_scored_words:
+  scamming: 90750
+  scheming: 45891
+  screaming: 15348
+  seeming: 15961
+  shaming: 71490
+  shortcoming: 48408
+  skimming: 40412
+  slamming: 30128
+  slimming: 30318
+  spamming: 19235
+  squirming: 63952
+  steaming: 21168
+  stemming: 30196
+  storming: 32729
+  streaming: 5701
+  strumming: 64741
+  summing: 28079
+  swarming: 39733
+  swimming: 3542
+scored_words:
+  scumming: 143916
+  seaming: 132147
+  shamming: 146488
+  shimming: 243827
+  slipstreaming: 309237
+  slumming: 116285
+  subsuming: 194862
+not_scored_words:
+- salaaming
+- scramming
+- scrumming
+- slaloming
+- spuming
+- subliming

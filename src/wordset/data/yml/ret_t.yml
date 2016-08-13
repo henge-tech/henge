@@ -1,0 +1,28 @@
+---
+pattern: ret_t
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 18
+score: 562034
+score_per_word: 46836
+hi_scored_words:
+  retardant: 42574
+  retest: 54463
+  reticent: 53784
+  retirement: 3620
+  retort: 30146
+  retract: 28697
+  retransmit: 95218
+  retreat: 5571
+  retrenchment: 68487
+  retrofit: 35775
+  retrospect: 20759
+scored_words:
+  rethought: 122940
+not_scored_words:
+- retainment
+- retardment
+- retaught
+- retroact
+- retrorocket
+- retweet

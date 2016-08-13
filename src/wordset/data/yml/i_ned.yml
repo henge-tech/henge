@@ -1,0 +1,27 @@
+---
+pattern: i_ned
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 17
+score: 722144
+score_per_word: 51581
+hi_scored_words:
+  illumined: 85714
+  imagined: 7648
+  impassioned: 41465
+  imprisoned: 12114
+  impugned: 98029
+  inclined: 7630
+  ingrained: 38726
+  intentioned: 47687
+  interned: 56332
+  intertwined: 29596
+  intervened: 30757
+  ironed: 54809
+scored_words:
+  importuned: 107215
+  intoned: 104422
+not_scored_words:
+- incarnadined
+- inspanned
+- interlined

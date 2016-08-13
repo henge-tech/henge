@@ -1,0 +1,45 @@
+---
+pattern: whis_
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 35
+score: 2006887
+score_per_word: 74329
+hi_scored_words:
+  whisk: 29509
+  whisked: 54337
+  whisker: 49279
+  whiskers: 32720
+  whiskey: 11127
+  whiskies: 65365
+  whisking: 91449
+  whisky: 12949
+  whisper: 9368
+  whispered: 10212
+  whisperer: 49768
+  whispering: 17995
+  whispers: 17204
+  whist: 60589
+  whistle: 8678
+  whistled: 52808
+  whistler: 19274
+  whistles: 22155
+  whistling: 20656
+scored_words:
+  whish: 108087
+  whishes: 286052
+  whiskered: 116950
+  whiskeys: 167042
+  whisks: 100833
+  whisperings: 143701
+  whispery: 272241
+  whistlers: 176539
+not_scored_words:
+- Whistler
+- whished
+- whishing
+- whiskbroom
+- whiskbrooms
+- whiskery
+- whiskys
+- whisperers

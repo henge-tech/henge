@@ -1,0 +1,25 @@
+---
+pattern: stat_e
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 607627
+score_per_word: 55238
+hi_scored_words:
+  state: 141
+  statehouse: 71430
+  stateside: 48925
+  statewide: 8053
+  statue: 6012
+  statuesque: 93649
+  statuette: 52649
+  stature: 16414
+  statute: 8868
+scored_words:
+  statesmanlike: 195681
+  stative: 105805
+not_scored_words:
+- Statehouse
+- Stateside
+- statampere
+- statutable

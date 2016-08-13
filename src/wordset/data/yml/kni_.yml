@@ -1,0 +1,43 @@
+---
+pattern: kni_
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 33
+score: 1522251
+score_per_word: 66184
+hi_scored_words:
+  knickerbocker: 57864
+  knickers: 29827
+  knife: 3258
+  knifes: 75906
+  knight: 3196
+  knighted: 61791
+  knighthood: 55254
+  knightly: 54953
+  knights: 5432
+  knit: 8695
+  knits: 44325
+  knitted: 19858
+  knitter: 63274
+  knitters: 64730
+  knitting: 9380
+  knitwear: 46429
+  knives: 6439
+scored_words:
+  knicker: 119628
+  knickerbockers: 113572
+  knickknacks: 163004
+  knifed: 133419
+  knifing: 167411
+  knish: 214606
+not_scored_words:
+- Knickerbocker
+- Knievel
+- Knight
+- knickerbockered
+- knickknack
+- knighthead
+- knighthoods
+- knighting
+- knightliness
+- knishes

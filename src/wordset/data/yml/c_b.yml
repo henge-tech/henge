@@ -1,0 +1,54 @@
+---
+pattern: c_b
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 44
+score: 1746936
+score_per_word: 72789
+hi_scored_words:
+  cab: 4863
+  carob: 70155
+  catacomb: 87021
+  celeb: 11225
+  cherub: 36006
+  chub: 44887
+  climb: 5976
+  club: 1081
+  cob: 24262
+  cobweb: 59572
+  comb: 12169
+  contrib: 40752
+  coulomb: 38490
+  crab: 10556
+  crib: 12463
+  crumb: 27190
+  cub: 14659
+  curb: 10148
+scored_words:
+  cockscomb: 275490
+  confab: 110920
+  coomb: 186050
+  corncob: 257437
+  corymb: 226350
+  coxcomb: 179214
+not_scored_words:
+- CAB
+- CB
+- Caleb
+- Camb
+- Carib
+- Cb
+- Chenab
+- Chubb
+- Cobb
+- Coulomb
+- Cub
+- cabob
+- chemisorb
+- chimb
+- choriamb
+- clomb
+- corncrib
+- cowherb
+- cubeb
+- currycomb

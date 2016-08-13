@@ -1,0 +1,32 @@
+---
+pattern: excr_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 1290021
+score_per_word: 99232
+hi_scored_words:
+  excrement: 48891
+  excrescence: 77087
+  excreta: 92427
+  excrete: 78543
+  excreted: 40454
+  excretion: 32035
+  excretory: 71953
+  excruciating: 39779
+  excruciatingly: 85558
+scored_words:
+  excrescences: 104881
+  excretes: 255394
+  excreting: 203144
+  excretions: 159875
+not_scored_words:
+- excremental
+- excrescency
+- excrescent
+- excretive
+- excruciate
+- excruciated
+- excruciates
+- excruciation
+- excruciations

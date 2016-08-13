@@ -1,0 +1,41 @@
+---
+pattern: o_ry
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 31
+score: 1282504
+score_per_word: 71250
+hi_scored_words:
+  obituary: 19866
+  obligatory: 19218
+  observatory: 12289
+  olfactory: 29507
+  optometry: 39911
+  oratory: 33765
+  ordinary: 2409
+  ornery: 74683
+  oscillatory: 54707
+  outcry: 26569
+  outlawry: 90946
+  ovary: 27435
+scored_words:
+  offertory: 106283
+  orangery: 133414
+  orrery: 122054
+  orthopsychiatry: 194805
+  ossuary: 142497
+  ovulatory: 152146
+not_scored_words:
+- Offertory
+- obfuscatory
+- objurgatory
+- oblatory
+- ochery
+- octonary
+- officiary
+- ophiolatry
+- osculatory
+- ostensory
+- ostiary
+- overweary
+- oxidimetry

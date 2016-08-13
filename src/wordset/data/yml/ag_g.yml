@@ -1,0 +1,24 @@
+---
+pattern: ag_g
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 14
+score: 470731
+score_per_word: 52303
+hi_scored_words:
+  ageing: 24996
+  aggravating: 33872
+  aggregating: 46566
+  aging: 12907
+  agitating: 56782
+  agog: 93656
+  agonizing: 38143
+  agreeing: 11033
+scored_words:
+  aggrandizing: 152776
+not_scored_words:
+- agglomerating
+- agglutinating
+- aggrading
+- aggressing
+- aggrieving

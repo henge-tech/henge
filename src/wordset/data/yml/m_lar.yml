@@ -1,0 +1,27 @@
+---
+pattern: m_lar
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 559511
+score_per_word: 55951
+hi_scored_words:
+  macromolecular: 50803
+  mandibular: 46400
+  modular: 13260
+  molar: 33246
+  molecular: 8592
+  monocular: 51114
+  multicellular: 61777
+  muscular: 9601
+scored_words:
+  malar: 106442
+  medlar: 178276
+not_scored_words:
+- Mylar
+- majuscular
+- manipular
+- medullar
+- minuscular
+- monomolecular
+- multiangular

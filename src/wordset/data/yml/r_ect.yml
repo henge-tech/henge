@@ -1,0 +1,24 @@
+---
+pattern: r_ect
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 628124
+score_per_word: 57102
+hi_scored_words:
+  recollect: 33420
+  reconnect: 28894
+  rect: 33085
+  redirect: 17182
+  reflect: 2965
+  reject: 6391
+  respect: 926
+  resurrect: 41556
+  retrospect: 20759
+scored_words:
+  reelect: 181353
+  reselect: 261593
+not_scored_words:
+- reinfect
+- reinspect
+- resect

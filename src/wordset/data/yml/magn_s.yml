@@ -1,0 +1,32 @@
+---
+pattern: magn_s
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 22
+score: 1529511
+score_per_word: 109250
+hi_scored_words:
+  magnanimous: 59662
+  magnates: 98786
+  magnetics: 64409
+  magnets: 16197
+  magnifiers: 89683
+  magnifies: 91974
+  magnitudes: 40551
+  magnolias: 68993
+scored_words:
+  magnetohydrodynamics: 174092
+  magnetometers: 146628
+  magnetos: 172313
+  magnetrons: 255702
+  magnifications: 123242
+  magnums: 127279
+not_scored_words:
+- Magnificats
+- magnanimousness
+- magnanimousnesses
+- magnesites
+- magnetizes
+- magnetons
+- magnetospheres
+- magnoliaceous

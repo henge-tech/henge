@@ -1,0 +1,28 @@
+---
+pattern: c_ide
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 18
+score: 708319
+score_per_word: 50594
+hi_scored_words:
+  carbide: 21406
+  chide: 80267
+  chloride: 11869
+  citywide: 42483
+  coincide: 16750
+  collide: 21995
+  confide: 41432
+  countryside: 9497
+  countrywide: 30640
+  countywide: 52513
+  cowhide: 65738
+  curbside: 61320
+  cyanide: 29678
+scored_words:
+  chlorothiazide: 222731
+not_scored_words:
+- Candide
+- Christmastide
+- cerebroside
+- cyanamide

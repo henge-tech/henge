@@ -1,0 +1,41 @@
+---
+pattern: ca_ate
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 31
+score: 1723737
+score_per_word: 101396
+hi_scored_words:
+  calculate: 3664
+  calibrate: 35704
+  caliphate: 50075
+  candidate: 3245
+  capitulate: 83803
+  captivate: 45689
+  carbohydrate: 15906
+  carbonate: 16339
+  carboxylate: 87343
+  caudate: 88074
+scored_words:
+  calumniate: 197052
+  campanulate: 325993
+  capitate: 249277
+  carbamate: 107346
+  carinate: 168789
+  castigate: 137866
+  castrate: 107572
+not_scored_words:
+- cachinnate
+- califate
+- camphorate
+- cancelate
+- cancellate
+- canonicate
+- cantillate
+- capacitate
+- capreolate
+- capsulate
+- cardinalate
+- caseate
+- casemate
+- catenate

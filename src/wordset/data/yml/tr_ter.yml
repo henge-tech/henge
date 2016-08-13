@@ -1,0 +1,28 @@
+---
+pattern: tr_ter
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 937202
+score_per_word: 78100
+hi_scored_words:
+  transmitter: 13265
+  transporter: 21860
+  trendsetter: 73611
+  trickster: 46731
+  trimester: 23704
+  trotter: 32223
+  troubleshooter: 69929
+  trumpeter: 34688
+scored_words:
+  transputer: 145513
+  treater: 177783
+  trimeter: 131498
+  trochanter: 166397
+not_scored_words:
+- trainspotter
+- transmuter
+- triter
+- trustbuster
+- truster
+- tryster

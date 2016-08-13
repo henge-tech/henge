@@ -1,0 +1,34 @@
+---
+pattern: edit_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 24
+score: 1467351
+score_per_word: 81519
+hi_scored_words:
+  edit: 2408
+  editable: 40521
+  edited: 2977
+  editing: 3707
+  edition: 1005
+  editions: 3100
+  editor: 1710
+  editorial: 4101
+  editorials: 18189
+  editors: 4674
+  editorship: 81061
+  edits: 11551
+scored_words:
+  editorialist: 284665
+  editorialists: 311733
+  editorialize: 258373
+  editorialized: 161032
+  editorializing: 165574
+  editorially: 110970
+not_scored_words:
+- Edith
+- editorialization
+- editorializer
+- editorializes
+- editorships
+- editress

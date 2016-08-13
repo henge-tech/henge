@@ -1,0 +1,21 @@
+---
+pattern: bl_ted
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 11
+score: 390283
+score_per_word: 48785
+hi_scored_words:
+  blacklisted: 44266
+  blanketed: 74118
+  blasted: 19078
+  blighted: 47246
+  bloated: 26407
+  blotted: 64459
+  blunted: 58141
+  blurted: 56568
+scored_words: {}
+not_scored_words:
+- blatted
+- bleated
+- blueprinted

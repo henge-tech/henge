@@ -1,0 +1,60 @@
+---
+pattern: h_ls
+hi_scored_words_count: 20
+scored_words_count: 10
+total_words: 50
+score: 2569440
+score_per_word: 85648
+hi_scored_words:
+  hails: 35962
+  halls: 8207
+  handfuls: 69573
+  handrails: 65240
+  hauls: 68564
+  heals: 29499
+  heels: 6074
+  hells: 39635
+  herbals: 66692
+  heterosexuals: 66210
+  hills: 1867
+  holdalls: 93781
+  hols: 63649
+  homosexuals: 19800
+  hopefuls: 48857
+  hospitals: 4008
+  hostels: 14083
+  hotels: 5941
+  howls: 43138
+  hulls: 42272
+scored_words:
+  hairballs: 186304
+  handbills: 108859
+  headstalls: 295880
+  horizontals: 260140
+  hornbills: 183600
+  hovels: 158000
+  hurls: 103400
+  hydrofoils: 216640
+  hymnals: 119641
+  hypotheticals: 143924
+not_scored_words:
+- Hallels
+- Hals
+- Howells
+- handballs
+- hangnails
+- harebells
+- hatchels
+- hawkbills
+- hazels
+- headsails
+- hexadecimals
+- highballs
+- hightails
+- hobnails
+- homegirls
+- horsetails
+- housefuls
+- hydromels
+- hydroxyls
+- hypoglossals

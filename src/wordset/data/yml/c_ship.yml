@@ -1,0 +1,37 @@
+---
+pattern: c_ship
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 27
+score: 2364899
+score_per_word: 124468
+hi_scored_words:
+  censorship: 14545
+  chairmanship: 39846
+  championship: 7665
+  chancellorship: 57523
+  citizenship: 7789
+  clerkship: 61773
+  companionship: 22387
+  comradeship: 96059
+  courtship: 26070
+  craftsmanship: 30217
+scored_words:
+  cadetship: 263876
+  connoisseurship: 205680
+  conservatorship: 122589
+  consulship: 156620
+  controllership: 311767
+  copartnership: 284908
+  cosponsorship: 230775
+  curatorship: 230703
+  custodianship: 194107
+not_scored_words:
+- captainship
+- cardinalship
+- chaplainship
+- chieftainship
+- clientship
+- commissionership
+- councilorship
+- counselorship

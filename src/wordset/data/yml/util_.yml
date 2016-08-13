@@ -1,0 +1,23 @@
+---
+pattern: util_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 13
+score: 437636
+score_per_word: 39785
+hi_scored_words:
+  utile: 64417
+  utilitarian: 31171
+  utilitarianism: 59794
+  utilities: 10772
+  utility: 3984
+  utilization: 15342
+  utilize: 8372
+  utilized: 10461
+  utilizes: 16124
+  utilizing: 14960
+scored_words:
+  utilitarians: 202239
+not_scored_words:
+- utilizable
+- utilizer

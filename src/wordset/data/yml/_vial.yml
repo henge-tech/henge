@@ -1,0 +1,23 @@
+---
+pattern: _vial
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 465371
+score_per_word: 51707
+hi_scored_words:
+  alluvial: 32185
+  convivial: 62155
+  fluvial: 60517
+  jovial: 44699
+  nontrivial: 57401
+  synovial: 47358
+  trivial: 8486
+  vial: 24744
+scored_words:
+  diluvial: 127826
+not_scored_words:
+- effluvial
+- gavial
+- pluvial
+- quadrivial

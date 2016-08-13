@@ -1,0 +1,28 @@
+---
+pattern: bapt_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 891450
+score_per_word: 81040
+hi_scored_words:
+  baptism: 9984
+  baptismal: 40609
+  baptisms: 46696
+  baptist: 6447
+  baptists: 31177
+  baptize: 51937
+  baptized: 15555
+  baptizing: 86444
+scored_words:
+  baptistery: 140037
+  baptistry: 182680
+  baptizes: 279884
+not_scored_words:
+- Baptist
+- Baptiste
+- Baptists
+- baptisteries
+- baptistries
+- baptizer
+- baptizers

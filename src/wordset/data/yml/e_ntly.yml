@@ -1,0 +1,29 @@
+---
+pattern: e_ntly
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 19
+score: 1111048
+score_per_word: 85465
+hi_scored_words:
+  efficiently: 10398
+  elegantly: 23652
+  eloquently: 38628
+  eminently: 28494
+  equivalently: 43908
+  evidently: 9051
+  excellently: 47868
+  expectantly: 87650
+  extravagantly: 78857
+scored_words:
+  exorbitantly: 207133
+  expediently: 207321
+  exuberantly: 177911
+  exultantly: 150177
+not_scored_words:
+- ebulliently
+- effervescently
+- effulgently
+- equidistantly
+- errantly
+- evanescently

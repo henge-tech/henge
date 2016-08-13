@@ -1,0 +1,26 @@
+---
+pattern: e_ure
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1011560
+score_per_word: 84296
+hi_scored_words:
+  embrasure: 56314
+  enclosure: 8358
+  endure: 9873
+  ensure: 3171
+  epicure: 82368
+  erasure: 42228
+  expenditure: 5319
+  exposure: 3414
+scored_words:
+  embouchure: 113043
+  enrapture: 215069
+  entablature: 197263
+  exclosure: 275140
+not_scored_words:
+- Eure
+- encincture
+- enure
+- excurvature

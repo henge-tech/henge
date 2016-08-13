@@ -1,0 +1,61 @@
+---
+pattern: p_ring
+hi_scored_words_count: 26
+scored_words_count: 15
+total_words: 51
+score: 3849221
+score_per_word: 93883
+hi_scored_words:
+  pairing: 24355
+  pampering: 41577
+  pandering: 51706
+  paring: 53895
+  partnering: 19046
+  peering: 34835
+  persevering: 71355
+  pestering: 84606
+  picturing: 47158
+  pioneering: 25325
+  plastering: 45937
+  pleasuring: 78049
+  plundering: 56452
+  pondering: 25208
+  poring: 79572
+  posturing: 54739
+  pouring: 11145
+  powering: 28845
+  preferring: 28343
+  premiering: 87448
+  preparing: 3467
+  pressuring: 49725
+  procuring: 32129
+  profiteering: 68504
+  prospering: 80056
+  purring: 66152
+scored_words:
+  papering: 165475
+  pasturing: 208000
+  pattering: 165337
+  peppering: 161516
+  perspiring: 124037
+  philandering: 132658
+  pilfering: 129848
+  pottering: 204215
+  powdering: 218484
+  privateering: 243462
+  proctoring: 222032
+  proffering: 197559
+  puckering: 141049
+  puncturing: 103062
+  puttering: 182858
+not_scored_words:
+- Pickering
+- palavering
+- paltering
+- parring
+- pedicuring
+- perjuring
+- petering
+- pothering
+- prefiguring
+- preregistering

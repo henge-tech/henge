@@ -1,0 +1,30 @@
+---
+pattern: ac_ate
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 20
+score: 364800
+score_per_word: 36480
+hi_scored_words:
+  accelerate: 15206
+  accentuate: 44553
+  acclimate: 85313
+  accommodate: 7021
+  accumulate: 15286
+  accurate: 2846
+  acetate: 22759
+  activate: 12252
+  actuate: 47876
+scored_words:
+  acuminate: 111688
+not_scored_words:
+- acculturate
+- acerate
+- acerbate
+- acervate
+- acetylate
+- aciculate
+- acidulate
+- acierate
+- acuate
+- aculeate

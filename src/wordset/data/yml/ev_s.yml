@@ -1,0 +1,59 @@
+---
+pattern: ev_s
+hi_scored_words_count: 23
+scored_words_count: 12
+total_words: 49
+score: 3034537
+score_per_word: 86701
+hi_scored_words:
+  evacuations: 60833
+  evacuees: 35622
+  evaluates: 19803
+  evaluations: 9088
+  evaluators: 43803
+  evangelicals: 32147
+  evangelists: 45529
+  evaporates: 62281
+  evaporators: 99310
+  evenings: 9102
+  evens: 53921
+  events: 529
+  everglades: 29295
+  evergreens: 56810
+  eves: 56390
+  evictions: 57865
+  evidences: 35946
+  evildoers: 86340
+  evils: 14988
+  evokes: 40248
+  evolutionists: 67167
+  evolutions: 47656
+  evolves: 33210
+scored_words:
+  evacuates: 217156
+  evaders: 126717
+  evades: 110588
+  evaporites: 257886
+  evasions: 124689
+  evasiveness: 261317
+  evenness: 120001
+  eventualities: 113179
+  evicts: 294292
+  evilness: 109960
+  evinces: 128383
+  evocations: 172486
+not_scored_words:
+- Evans
+- Everglades
+- evanesces
+- evangelizes
+- evangels
+- evenfalls
+- evenhandedness
+- eventfulness
+- eventuates
+- everlastings
+- eversions
+- eviscerates
+- evocativeness
+- evonymus

@@ -1,0 +1,38 @@
+---
+pattern: some_
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 28
+score: 540344
+score_per_word: 30019
+hi_scored_words:
+  some: 68
+  somebody: 2919
+  someday: 11581
+  somehow: 3544
+  someone: 1171
+  someones: 37857
+  someplace: 27113
+  somersault: 61748
+  somerset: 7740
+  something: 242
+  somethings: 38220
+  sometime: 7285
+  sometimes: 769
+  someway: 69804
+  somewhat: 2158
+  somewhere: 2502
+scored_words:
+  somebodies: 130431
+  somersaults: 135192
+not_scored_words:
+- Somerset
+- Somersetshire
+- somersaulted
+- somersaulting
+- somersets
+- somersetted
+- somersetting
+- someways
+- somewhats
+- somewise

@@ -1,0 +1,23 @@
+---
+pattern: c_ft
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 611012
+score_per_word: 67890
+hi_scored_words:
+  camshaft: 48127
+  chairlift: 92100
+  cleft: 21304
+  copyleft: 61213
+  craft: 3285
+  crankshaft: 36955
+  croft: 22079
+  cruft: 85787
+scored_words:
+  countershaft: 240162
+not_scored_words:
+- Cockcroft
+- Craft
+- candytuft
+- cockloft

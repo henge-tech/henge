@@ -1,0 +1,44 @@
+---
+pattern: b_ged
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 34
+score: 1864902
+score_per_word: 93245
+hi_scored_words:
+  bagged: 33589
+  bandaged: 69273
+  banged: 19924
+  begged: 15127
+  belonged: 9071
+  besieged: 28507
+  blogged: 35681
+  bogged: 46479
+  bragged: 72679
+  bridged: 39200
+  bugged: 41850
+scored_words:
+  backlogged: 150029
+  badged: 118478
+  barged: 127646
+  barraged: 222098
+  begrudged: 155019
+  bootlegged: 152153
+  budged: 151603
+  bulged: 102807
+  bunged: 273689
+not_scored_words:
+- ballyragged
+- bandylegged
+- barelegged
+- befogged
+- bewigged
+- binged
+- blacklegged
+- blagged
+- bodged
+- bonged
+- boomeranged
+- bowlegged
+- bulldogged
+- bullyragged

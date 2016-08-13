@@ -1,0 +1,33 @@
+---
+pattern: ste_ng
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 23
+score: 1474446
+score_per_word: 92152
+hi_scored_words:
+  stealing: 7890
+  steaming: 21168
+  steering: 6066
+  stemming: 30196
+  stepping: 8506
+  stereotyping: 43276
+  sterilizing: 84906
+  sterling: 5202
+  stewing: 93982
+scored_words:
+  steading: 238271
+  steadying: 118315
+  steeling: 162668
+  steepening: 230393
+  steeping: 111672
+  stenciling: 104417
+  stewarding: 207518
+not_scored_words:
+- Sterling
+- steamfitting
+- steamrollering
+- steamrolling
+- steeplechasing
+- stenosing
+- stetting

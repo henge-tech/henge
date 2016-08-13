@@ -1,0 +1,25 @@
+---
+pattern: e_ct
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 15
+score: 365163
+score_per_word: 30430
+hi_scored_words:
+  edict: 29377
+  effect: 600
+  eject: 26770
+  elect: 6358
+  enact: 19204
+  erect: 10674
+  evict: 47787
+  exact: 2147
+  expect: 1264
+  extinct: 15550
+  extract: 4952
+scored_words:
+  epact: 200480
+not_scored_words:
+- educt
+- eruct
+- exsect

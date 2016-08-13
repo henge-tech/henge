@@ -1,0 +1,47 @@
+---
+pattern: in_nts
+hi_scored_words_count: 24
+scored_words_count: 5
+total_words: 37
+score: 1876883
+score_per_word: 64720
+hi_scored_words:
+  incidents: 5714
+  increments: 18132
+  incumbents: 32318
+  indents: 90370
+  independents: 26924
+  indictments: 45743
+  inducements: 65138
+  infants: 7350
+  informants: 39021
+  infringements: 49379
+  ingredients: 4883
+  inhabitants: 5847
+  inhalants: 97768
+  innocents: 33211
+  inpatients: 70354
+  installments: 34236
+  instants: 75751
+  instruments: 2112
+  insurgents: 15551
+  intents: 42468
+  invariants: 40727
+  invents: 58259
+  investments: 5543
+  involvements: 92147
+scored_words:
+  incitements: 269747
+  incompetents: 157846
+  indigents: 219441
+  interments: 165750
+  intoxicants: 105153
+not_scored_words:
+- indicants
+- inebriants
+- insolvents
+- instillments
+- integuments
+- internements
+- internments
+- intransigents

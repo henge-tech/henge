@@ -1,0 +1,35 @@
+---
+pattern: mi_le
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 25
+score: 1457862
+score_per_word: 97190
+hi_scored_words:
+  middle: 697
+  mile: 2079
+  mingle: 23716
+  minuscule: 50158
+  miracle: 5418
+  miscible: 88352
+  miserable: 8374
+  misrule: 90144
+  missile: 9947
+scored_words:
+  micelle: 123051
+  microwavable: 144468
+  microwaveable: 128327
+  mineable: 316793
+  mishandle: 309676
+  mizzle: 156662
+not_scored_words:
+- Michele
+- Michelle
+- microcapsule
+- micropyle
+- minable
+- misfile
+- mistakable
+- mistitle
+- mitigable
+- mixable

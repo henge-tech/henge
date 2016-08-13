@@ -1,0 +1,25 @@
+---
+pattern: d_cing
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 948931
+score_per_word: 86266
+hi_scored_words:
+  dancing: 3012
+  defacing: 86391
+  denouncing: 43374
+  dicing: 90190
+  differencing: 99914
+  displacing: 53374
+  distancing: 63030
+  divorcing: 57042
+scored_words:
+  deducing: 113457
+  deicing: 134292
+  disgracing: 204855
+not_scored_words:
+- dehiscing
+- deliquescing
+- devoicing
+- discountenancing

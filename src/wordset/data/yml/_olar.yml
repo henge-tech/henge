@@ -1,0 +1,35 @@
+---
+pattern: _olar
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 25
+score: 1523598
+score_per_word: 80189
+hi_scored_words:
+  alveolar: 31718
+  bipolar: 12309
+  circumpolar: 67954
+  dipolar: 87865
+  extrasolar: 70122
+  molar: 33246
+  nucleolar: 83559
+  polar: 8155
+  scholar: 5690
+  solar: 4434
+  tolar: 76366
+  unipolar: 70565
+  vacuolar: 86323
+scored_words:
+  areolar: 221271
+  arteriolar: 168799
+  escolar: 111234
+  nonpolar: 111232
+  premolar: 142270
+  volar: 130486
+not_scored_words:
+- circumsolar
+- heteropolar
+- homopolar
+- lunisolar
+- subsolar
+- transpolar

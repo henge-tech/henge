@@ -1,0 +1,33 @@
+---
+pattern: dru_s
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 23
+score: 1614488
+score_per_word: 107632
+hi_scored_words:
+  drugs: 3377
+  drugstores: 61708
+  druids: 35753
+  drummers: 37331
+  drums: 10204
+  drumsticks: 63286
+  drunkards: 82862
+  drunkenness: 34004
+  drunks: 42321
+scored_words:
+  drubs: 297407
+  druggies: 183114
+  druggists: 112121
+  drumbeats: 215676
+  drumheads: 196813
+  druthers: 238511
+not_scored_words:
+- drubbers
+- drubbings
+- drudges
+- druggets
+- drumfires
+- drumlins
+- drupelets
+- drupes

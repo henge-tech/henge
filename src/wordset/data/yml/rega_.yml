@@ -1,0 +1,37 @@
+---
+pattern: rega_
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 27
+score: 1700673
+score_per_word: 85033
+hi_scored_words:
+  regain: 13090
+  regained: 19681
+  regaining: 38836
+  regains: 61019
+  regal: 14233
+  regale: 86520
+  regalia: 44798
+  regard: 1989
+  regarded: 3926
+  regarding: 1686
+  regardless: 9489
+  regards: 3614
+  regatta: 22787
+  regattas: 78481
+scored_words:
+  regaled: 112954
+  regales: 298376
+  regaling: 193429
+  regally: 236213
+  regardant: 149247
+  regardful: 310305
+not_scored_words:
+- regalement
+- regality
+- regardlessly
+- regather
+- regathered
+- regathering
+- regathers

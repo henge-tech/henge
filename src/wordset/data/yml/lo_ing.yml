@@ -1,0 +1,49 @@
+---
+pattern: lo_ing
+hi_scored_words_count: 25
+scored_words_count: 7
+total_words: 39
+score: 1732257
+score_per_word: 54133
+hi_scored_words:
+  loading: 5710
+  loafing: 65413
+  loaning: 76679
+  loathing: 23340
+  lobbying: 12471
+  localizing: 77699
+  locating: 13011
+  locking: 10061
+  lodging: 5998
+  logging: 14665
+  loitering: 47564
+  longing: 13189
+  longstanding: 30453
+  looking: 271
+  looming: 25143
+  looping: 28165
+  loosening: 41853
+  loosing: 30179
+  looting: 29768
+  losing: 3033
+  lounging: 39892
+  lovemaking: 40944
+  loving: 3292
+  lowering: 9290
+  lowing: 47709
+scored_words:
+  lobbing: 142851
+  lofting: 140843
+  logrolling: 111191
+  lolling: 125153
+  loping: 160264
+  lopping: 135769
+  lording: 220394
+not_scored_words:
+- loansharking
+- lobotomizing
+- lolloping
+- lollygagging
+- lordling
+- louring
+- lousing

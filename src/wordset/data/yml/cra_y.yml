@@ -1,0 +1,35 @@
+---
+pattern: cra_y
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 25
+score: 1753024
+score_per_word: 103119
+hi_scored_words:
+  crabby: 52981
+  crafty: 18990
+  craggy: 60268
+  cranberry: 22564
+  cranky: 28936
+  cranny: 65379
+  crappy: 15623
+  cray: 32430
+  crazily: 96600
+  crazy: 2551
+scored_words:
+  crackly: 222000
+  craftily: 166018
+  craniology: 223977
+  craniotomy: 131748
+  crapy: 295044
+  crassly: 205707
+  crawly: 112208
+not_scored_words:
+- Cray
+- crabbedly
+- crabbily
+- cramoisy
+- craniometry
+- crankily
+- crashingly
+- cravenly

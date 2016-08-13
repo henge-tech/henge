@@ -1,0 +1,64 @@
+---
+pattern: _mmer
+hi_scored_words_count: 28
+scored_words_count: 8
+total_words: 54
+score: 2774664
+score_per_word: 77074
+hi_scored_words:
+  bummer: 33961
+  dimmer: 35415
+  drummer: 13286
+  glimmer: 23766
+  grimmer: 97642
+  hammer: 5419
+  hemmer: 92540
+  hummer: 20842
+  jackhammer: 83304
+  jammer: 45157
+  katzenjammer: 94758
+  midsummer: 22205
+  programmer: 10131
+  rammer: 90803
+  scammer: 59754
+  shimmer: 34101
+  simmer: 20717
+  skimmer: 50281
+  slammer: 48807
+  sledgehammer: 46421
+  slimmer: 50479
+  spammer: 32504
+  stammer: 79738
+  summer: 716
+  swimmer: 21102
+  trimmer: 26952
+  windjammer: 85584
+  yammer: 83231
+scored_words:
+  brimmer: 139369
+  crammer: 241072
+  emmer: 118363
+  gammer: 239260
+  mummer: 124268
+  primmer: 284320
+  rummer: 171610
+  yellowhammer: 146786
+not_scored_words:
+- Hammer
+- Hummer
+- Summer
+- aglimmer
+- breastsummer
+- bushhammer
+- clammer
+- crimmer
+- deprogrammer
+- flimflammer
+- glummer
+- kettledrummer
+- krimmer
+- ninnyhammer
+- nonswimmer
+- shammer
+- slummer
+- triphammer

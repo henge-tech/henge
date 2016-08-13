@@ -1,0 +1,57 @@
+---
+pattern: desi_
+hi_scored_words_count: 26
+scored_words_count: 10
+total_words: 47
+score: 2642497
+score_per_word: 73402
+hi_scored_words:
+  desiccant: 81587
+  desiccated: 79878
+  desiccation: 71148
+  desiderata: 86578
+  design: 694
+  designate: 11847
+  designated: 10848
+  designates: 34277
+  designating: 27304
+  designation: 8908
+  designations: 28178
+  designator: 53956
+  designed: 1503
+  designer: 7886
+  designers: 12475
+  designing: 6975
+  designs: 2607
+  desirability: 36230
+  desirable: 5453
+  desire: 1924
+  desired: 2658
+  desirer: 51370
+  desires: 6092
+  desiring: 19528
+  desirous: 28145
+  desist: 27250
+scored_words:
+  desiccants: 266154
+  desiccate: 180484
+  desiccator: 189223
+  desiccators: 242592
+  desideratum: 149745
+  designators: 115941
+  designedly: 249177
+  desirableness: 173257
+  desirably: 182562
+  desisted: 188063
+not_scored_words:
+- Desiree
+- desiccates
+- desiccating
+- desiccative
+- desiderate
+- desiderative
+- designable
+- designative
+- desinence
+- desisting
+- desists

@@ -1,0 +1,26 @@
+---
+pattern: exa_s
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 16
+score: 1094388
+score_per_word: 78170
+hi_scored_words:
+  exacerbates: 81372
+  exactness: 57776
+  exaggerations: 82772
+  exalts: 87071
+  examinations: 8893
+  examinees: 93643
+  examiners: 21041
+  examines: 12175
+  examples: 2095
+  exams: 9487
+scored_words:
+  exabytes: 292095
+  exacts: 109426
+  exaggerates: 100019
+  examens: 136523
+not_scored_words:
+- exaggerators
+- exasperates

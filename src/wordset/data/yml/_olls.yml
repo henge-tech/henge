@@ -1,0 +1,32 @@
+---
+pattern: _olls
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 22
+score: 1426717
+score_per_word: 95114
+hi_scored_words:
+  atolls: 76527
+  dolls: 5899
+  enrolls: 66196
+  knolls: 67063
+  payrolls: 58124
+  polls: 7198
+  rolls: 5173
+  scrolls: 18564
+  strolls: 74399
+  tolls: 25827
+  trolls: 22191
+scored_words:
+  bankrolls: 297094
+  bolls: 154187
+  molls: 271473
+  unrolls: 276802
+not_scored_words:
+- bedrolls
+- blackpolls
+- jellyrolls
+- lolls
+- plimsolls
+- redpolls
+- steamrolls

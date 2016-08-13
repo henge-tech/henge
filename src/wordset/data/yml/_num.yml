@@ -1,0 +1,42 @@
+---
+pattern: _num
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 32
+score: 2017866
+score_per_word: 91721
+hi_scored_words:
+  aluminum: 10968
+  arcanum: 66847
+  botulinum: 54745
+  duodenum: 46080
+  interregnum: 88030
+  jejunum: 71032
+  lanthanum: 85153
+  magnum: 17778
+  molybdenum: 32732
+  platinum: 8229
+  plenum: 27406
+  solanum: 63931
+  sphagnum: 60131
+  sternum: 48648
+  viburnum: 74510
+scored_words:
+  antirrhinum: 202902
+  crinum: 236197
+  frenum: 166358
+  galbanum: 279839
+  laburnum: 121433
+  laudanum: 113090
+  tympanum: 141827
+not_scored_words:
+- Ariminum
+- Barnum
+- alburnum
+- episternum
+- glucinum
+- labdanum
+- ladanum
+- olibanum
+- stannum
+- xiphisternum

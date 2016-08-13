@@ -1,0 +1,42 @@
+---
+pattern: po_us
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 32
+score: 1331805
+score_per_word: 102446
+hi_scored_words:
+  poisonous: 15742
+  polygamous: 75607
+  pompous: 32260
+  ponderous: 49604
+  populous: 22642
+  porous: 20143
+  portentous: 79665
+  posthumous: 37884
+scored_words:
+  polyandrous: 112569
+  polygynous: 206540
+  polymorphous: 228740
+  polysemous: 318741
+  portmanteaus: 131668
+not_scored_words:
+- Polybius
+- Polyclitus
+- Polygnotus
+- Polyphemus
+- Pontus
+- poaceous
+- poilus
+- polemoniaceous
+- polyadelphous
+- polyanthus
+- polychromous
+- polymerous
+- polypetalous
+- polyphonous
+- polypus
+- polysepalous
+- pomiferous
+- poriferous
+- posticous

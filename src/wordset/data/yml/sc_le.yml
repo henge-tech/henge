@@ -1,0 +1,30 @@
+---
+pattern: sc_le
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 20
+score: 597652
+score_per_word: 54332
+hi_scored_words:
+  scalable: 17131
+  scale: 1624
+  schedule: 2839
+  scrabble: 20284
+  scramble: 18591
+  scribble: 39205
+  scruple: 69822
+  scuffle: 53487
+  scuttle: 49855
+scored_words:
+  scannable: 184502
+  scrapple: 140312
+not_scored_words:
+- Scottsdale
+- Scrabble
+- scabble
+- schnorkle
+- schnozzle
+- scissile
+- scrutable
+- scumble
+- scurrile

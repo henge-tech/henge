@@ -1,0 +1,45 @@
+---
+pattern: _mble
+hi_scored_words_count: 26
+scored_words_count: 2
+total_words: 35
+score: 1232443
+score_per_word: 44015
+hi_scored_words:
+  amble: 66679
+  assemble: 11994
+  bramble: 44896
+  bumble: 30749
+  crumble: 28058
+  disassemble: 49845
+  ensemble: 8770
+  fumble: 27216
+  gamble: 12133
+  grumble: 39011
+  humble: 6242
+  jumble: 27274
+  mumble: 46000
+  nimble: 30681
+  preamble: 20882
+  ramble: 28944
+  reassemble: 67149
+  resemble: 11794
+  rumble: 14928
+  scramble: 18591
+  stumble: 18016
+  thimble: 41009
+  tremble: 24666
+  tumble: 12811
+  unscramble: 93564
+  womble: 81420
+scored_words:
+  dissemble: 111856
+  shamble: 257265
+not_scored_words:
+- Gamble
+- Kemble
+- fimble
+- preassemble
+- scumble
+- wamble
+- wimble

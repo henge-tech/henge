@@ -1,0 +1,27 @@
+---
+pattern: g_ning
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 626115
+score_per_word: 56919
+hi_scored_words:
+  gaining: 6740
+  gardening: 8364
+  glistening: 36972
+  governing: 5385
+  greening: 39335
+  grinning: 28932
+  groaning: 32105
+  gunning: 47194
+scored_words:
+  ginning: 100306
+  gladdening: 218728
+  gleaning: 102054
+not_scored_words:
+- gangrening
+- garrisoning
+- genning
+- gowning
+- guillotining
+- gunrunning

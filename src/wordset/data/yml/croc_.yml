@@ -1,0 +1,33 @@
+---
+pattern: croc_
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 23
+score: 2036682
+score_per_word: 119804
+hi_scored_words:
+  crochet: 17355
+  crocheted: 48928
+  crocheting: 68517
+  crock: 30423
+  crocked: 71532
+  crockery: 32692
+  crocodile: 15331
+  crocodiles: 36187
+  crocus: 42691
+scored_words:
+  crocheters: 312661
+  crochets: 284265
+  crocidolite: 267869
+  crocket: 179810
+  crocks: 101955
+  crocodilian: 220325
+  crocodilians: 172308
+  crocuses: 133833
+not_scored_words:
+- Croce
+- Crockett
+- crocein
+- crocheter
+- crockets
+- crocoite

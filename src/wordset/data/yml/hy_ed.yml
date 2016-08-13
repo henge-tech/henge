@@ -1,0 +1,27 @@
+---
+pattern: hy_ed
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 17
+score: 913173
+score_per_word: 83015
+hi_scored_words:
+  hybridized: 72014
+  hydrated: 36531
+  hydrogenated: 55239
+  hydrolyzed: 67164
+  hyped: 26815
+  hyperlinked: 78634
+  hyphenated: 54981
+  hypnotized: 45485
+  hypothesized: 34145
+scored_words:
+  hypertrophied: 180987
+  hypothecated: 261178
+not_scored_words:
+- hydroplaned
+- hymned
+- hyperbolized
+- hyperventilated
+- hyphened
+- hypostatized

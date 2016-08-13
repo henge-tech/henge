@@ -1,0 +1,50 @@
+---
+pattern: c_ked
+hi_scored_words_count: 16
+scored_words_count: 14
+total_words: 40
+score: 3325110
+score_per_word: 110837
+hi_scored_words:
+  caked: 81512
+  chalked: 71668
+  checked: 3055
+  cheeked: 73853
+  choked: 21542
+  chucked: 68315
+  clicked: 16181
+  cloaked: 49361
+  clocked: 38853
+  cocked: 32682
+  cooked: 5962
+  corked: 79867
+  cracked: 9090
+  cranked: 50228
+  crocked: 71532
+  crooked: 12099
+scored_words:
+  carjacked: 273286
+  caulked: 215203
+  chocked: 159181
+  chunked: 100063
+  clanked: 266880
+  clerked: 138451
+  clinked: 223553
+  clucked: 214987
+  coked: 162244
+  conked: 223611
+  convoked: 180984
+  counterattacked: 273710
+  creaked: 100935
+  croaked: 106222
+not_scored_words:
+- calked
+- carked
+- chinked
+- chirked
+- clacked
+- clonked
+- clunked
+- counterchecked
+- cricked
+- crosschecked

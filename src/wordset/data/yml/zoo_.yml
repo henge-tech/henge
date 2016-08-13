@@ -1,0 +1,61 @@
+---
+pattern: zoo_
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 51
+score: 2151456
+score_per_word: 93541
+hi_scored_words:
+  zoo: 7137
+  zookeeper: 72887
+  zool: 43467
+  zoological: 27011
+  zoologist: 60035
+  zoology: 21900
+  zoom: 9052
+  zoomed: 39700
+  zooming: 33067
+  zoomorphic: 89282
+  zooms: 46070
+  zoophilia: 52134
+  zooplankton: 49843
+  zoos: 26957
+scored_words:
+  zoogeography: 237622
+  zooid: 146216
+  zookeepers: 214620
+  zoologists: 103257
+  zoon: 116247
+  zoonoses: 135543
+  zoonosis: 214369
+  zoospore: 167069
+  zoospores: 237971
+not_scored_words:
+- zoochemistry
+- zoochore
+- zoogeographer
+- zoogeographic
+- zoogeographical
+- zooglea
+- zoography
+- zooids
+- zoolatries
+- zoolatry
+- zoologic
+- zoologically
+- zoometry
+- zoomorphism
+- zoophilous
+- zoophobia
+- zoophobias
+- zoophyte
+- zoophytes
+- zoophytic
+- zooplanktons
+- zooplasty
+- zoosperm
+- zoosporangium
+- zootechnics
+- zootomy
+- zootoxin
+- zootsuiter

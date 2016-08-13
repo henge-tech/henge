@@ -1,0 +1,41 @@
+---
+pattern: l_ter
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 31
+score: 1297415
+score_per_word: 64870
+hi_scored_words:
+  lackluster: 41393
+  lamplighter: 98513
+  later: 441
+  latter: 2225
+  laughter: 6024
+  letter: 632
+  lifter: 36560
+  lighter: 5943
+  limiter: 38669
+  lister: 17827
+  liter: 15847
+  litter: 12509
+  lobster: 12330
+  loiter: 83794
+  luster: 27862
+scored_words:
+  leister: 121126
+  levanter: 212031
+  linter: 201485
+  looter: 111506
+  lysimeter: 250698
+not_scored_words:
+- Lancaster
+- Lankester
+- Leicester
+- Leinster
+- Lester
+- Lister
+- lactometer
+- lamenter
+- landwaiter
+- lefter
+- limewater

@@ -1,0 +1,35 @@
+---
+pattern: s_mer
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 25
+score: 865706
+score_per_word: 54106
+hi_scored_words:
+  scammer: 59754
+  schemer: 97777
+  screamer: 57861
+  shimmer: 34101
+  simmer: 20717
+  skimmer: 50281
+  slammer: 48807
+  sledgehammer: 46421
+  slimmer: 50479
+  spammer: 32504
+  stammer: 79738
+  steamer: 13721
+  streamer: 39115
+  summer: 716
+  swimmer: 21102
+scored_words:
+  sublimer: 212612
+not_scored_words:
+- Sumer
+- Summer
+- schussboomer
+- shammer
+- slummer
+- smalltimer
+- squirmer
+- stereoisomer
+- stumer

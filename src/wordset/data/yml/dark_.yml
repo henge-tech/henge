@@ -1,0 +1,30 @@
+---
+pattern: dark_
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 20
+score: 1739360
+score_per_word: 96631
+hi_scored_words:
+  dark: 816
+  darken: 38159
+  darkened: 20559
+  darkening: 41411
+  darkens: 91568
+  darker: 10734
+  darkest: 19203
+  darkly: 27984
+  darkness: 3422
+  darkroom: 27869
+scored_words:
+  darkie: 206082
+  darkies: 212447
+  darkish: 225178
+  darkle: 125472
+  darkling: 104265
+  darkrooms: 249761
+  darksome: 163796
+  darky: 170634
+not_scored_words:
+- darkener
+- darkeners

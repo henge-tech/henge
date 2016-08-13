@@ -1,0 +1,60 @@
+---
+pattern: ig_
+hi_scored_words_count: 21
+scored_words_count: 10
+total_words: 50
+score: 2764142
+score_per_word: 89165
+hi_scored_words:
+  igloo: 40289
+  ign: 9405
+  igneous: 36611
+  ignite: 27851
+  ignited: 35260
+  igniter: 93468
+  ignites: 61937
+  igniting: 60105
+  ignition: 18116
+  ignoble: 60706
+  ignominious: 74605
+  ignominy: 84598
+  ignoramus: 88460
+  ignorance: 6226
+  ignorant: 7180
+  ignore: 4491
+  ignored: 7802
+  ignores: 19026
+  ignoring: 10028
+  iguana: 30841
+  iguanas: 63297
+scored_words:
+  igloos: 153716
+  ignitable: 208531
+  igniters: 203381
+  ignitions: 175302
+  ignobly: 214173
+  ignominiously: 183191
+  ignorable: 189357
+  ignoramuses: 258165
+  ignorantly: 107546
+  iguanodon: 230478
+not_scored_words:
+- Igbo
+- Ignacio
+- Ignatius
+- Igor
+- Igorot
+- Igraine
+- Iguacu
+- Iguassu
+- Iguazu
+- ignescent
+- ignitron
+- ignobility
+- ignobleness
+- ignoblenesses
+- ignominies
+- ignominiousness
+- ignominiousnesses
+- ignorer
+- iguanodons

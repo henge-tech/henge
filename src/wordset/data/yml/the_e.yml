@@ -1,0 +1,45 @@
+---
+pattern: the_e
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 35
+score: 1684098
+score_per_word: 88636
+hi_scored_words:
+  thee: 3367
+  theme: 2439
+  thence: 10631
+  theophylline: 56725
+  theorize: 69329
+  there: 48
+  therefore: 638
+  thermocouple: 46213
+  these: 79
+  they're: 1750
+  they've: 4755
+scored_words:
+  thebe: 241952
+  theodolite: 105136
+  theretofore: 110300
+  therme: 317664
+  thermocline: 109501
+  thermoluminescence: 227999
+  thermopile: 219522
+  thermosphere: 156050
+not_scored_words:
+- Thebae
+- Theodore
+- Therese
+- Thermopylae
+- Thessalonike
+- theatricalize
+- thebaine
+- thecae
+- theine
+- theologize
+- theologue
+- thermolabile
+- thermophile
+- thermophone
+- thermoscope
+- thermotensile

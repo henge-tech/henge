@@ -1,0 +1,46 @@
+---
+pattern: copy_
+hi_scored_words_count: 11
+scored_words_count: 10
+total_words: 36
+score: 2267519
+score_per_word: 107977
+hi_scored_words:
+  copy: 706
+  copycat: 39983
+  copycats: 96190
+  copying: 5095
+  copyleft: 61213
+  copyright: 582
+  copyrighted: 14799
+  copyrights: 17998
+  copywriter: 44961
+  copywriters: 86758
+  copywriting: 40985
+scored_words:
+  copyable: 259689
+  copybook: 131358
+  copyedit: 235114
+  copyediting: 151021
+  copyeditor: 206964
+  copyholder: 288793
+  copyist: 102053
+  copyists: 188630
+  copyrightable: 114248
+  copyrighting: 180379
+not_scored_words:
+- copybooks
+- copyboy
+- copycatted
+- copycatting
+- copydesk
+- copyedited
+- copyedits
+- copyhold
+- copyholders
+- copyholds
+- copyread
+- copyreader
+- copyreaders
+- copyreading
+- copyreads

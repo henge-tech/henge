@@ -1,0 +1,42 @@
+---
+pattern: p_tors
+hi_scored_words_count: 13
+scored_words_count: 11
+total_words: 32
+score: 2460247
+score_per_word: 102510
+hi_scored_words:
+  pastors: 20328
+  perpetrators: 26140
+  persecutors: 91505
+  pollinators: 78975
+  predators: 12494
+  predictors: 29789
+  progenitors: 57765
+  projectors: 20724
+  proprietors: 27587
+  prosecutors: 22715
+  prospectors: 68864
+  protectors: 18409
+  protestors: 32869
+scored_words:
+  participators: 268355
+  percolators: 298104
+  praetors: 107791
+  preceptors: 103893
+  precipitators: 189934
+  procrastinators: 139099
+  proctors: 109129
+  procurators: 198133
+  prognosticators: 242566
+  propagators: 114293
+  protractors: 180786
+not_scored_words:
+- peculators
+- perambulators
+- precentors
+- prestidigitators
+- pretors
+- prevaricators
+- primogenitors
+- promulgators

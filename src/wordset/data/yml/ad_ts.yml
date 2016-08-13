@@ -1,0 +1,37 @@
+---
+pattern: ad_ts
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 27
+score: 1811651
+score_per_word: 82347
+hi_scored_words:
+  adapts: 38004
+  addicts: 17429
+  adducts: 77458
+  adepts: 94162
+  adherents: 31218
+  adjuncts: 58906
+  adjustments: 12262
+  adjusts: 31440
+  adjuvants: 86945
+  admits: 10790
+  adolescents: 10525
+  adopts: 20373
+  adornments: 75676
+  adults: 4135
+  advancements: 32532
+  advertisements: 8316
+  adverts: 16705
+scored_words:
+  adits: 313476
+  adjournments: 175010
+  admonishments: 284251
+  adsorbents: 139467
+  adulterants: 272571
+not_scored_words:
+- Adventists
+- Advents
+- adjutants
+- advents
+- adventurists

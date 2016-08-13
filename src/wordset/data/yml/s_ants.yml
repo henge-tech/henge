@@ -1,0 +1,37 @@
+---
+pattern: s_ants
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 27
+score: 1768069
+score_per_word: 104004
+hi_scored_words:
+  sealants: 46251
+  sergeants: 47408
+  servants: 6031
+  smartypants: 95821
+  stimulants: 34877
+  supernatants: 95464
+  suppressants: 85710
+  surfactants: 48629
+  sweatpants: 49201
+scored_words:
+  savants: 103668
+  sextants: 150568
+  slants: 109816
+  supergiants: 225100
+  supplants: 196656
+  suppliants: 165966
+  supplicants: 185364
+  sycophants: 121539
+not_scored_words:
+- scants
+- secants
+- serjeants
+- sibilants
+- sonants
+- spirants
+- subdominants
+- sublieutenants
+- submediants
+- subtenants

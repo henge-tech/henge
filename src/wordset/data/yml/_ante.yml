@@ -1,0 +1,31 @@
+---
+pattern: _ante
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 774610
+score_per_word: 70419
+hi_scored_words:
+  andante: 44732
+  ante: 15527
+  confidante: 78681
+  debutante: 61225
+  diamante: 39041
+  dilettante: 56413
+  infante: 64825
+  vigilante: 36751
+scored_words:
+  concertante: 113790
+  courante: 154665
+  picante: 108960
+not_scored_words:
+- Alicante
+- Bramante
+- Dante
+- Durante
+- Rosinante
+- Zante
+- débutante
+- intrigante
+- piquante
+- subdebutante

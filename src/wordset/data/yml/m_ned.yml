@@ -1,0 +1,33 @@
+---
+pattern: m_ned
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 23
+score: 1200702
+score_per_word: 70629
+hi_scored_words:
+  machined: 31236
+  maintained: 2249
+  maligned: 52032
+  manned: 17030
+  marooned: 74021
+  mentioned: 1487
+  mined: 24236
+  misaligned: 84799
+  moaned: 30312
+  moistened: 54956
+  motioned: 38706
+  mourned: 47166
+scored_words:
+  maddened: 120143
+  malfunctioned: 105961
+  maned: 170613
+  mooned: 243032
+  mullioned: 102723
+not_scored_words:
+- mainlined
+- megaphoned
+- misdemeaned
+- misgoverned
+- mispositioned
+- munitioned

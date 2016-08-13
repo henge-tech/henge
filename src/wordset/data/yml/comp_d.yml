@@ -1,0 +1,43 @@
+---
+pattern: comp_d
+hi_scored_words_count: 23
+scored_words_count: 6
+total_words: 33
+score: 1492493
+score_per_word: 51465
+hi_scored_words:
+  compacted: 42099
+  compared: 1671
+  compelled: 9106
+  compensated: 16451
+  competed: 23787
+  compiled: 6083
+  complained: 8551
+  complemented: 25870
+  completed: 1474
+  complicated: 4704
+  complied: 16963
+  complimented: 34457
+  composed: 3459
+  composted: 91364
+  compound: 5080
+  compounded: 21264
+  comprehend: 12469
+  comprehended: 48770
+  compressed: 5372
+  comprised: 9289
+  compromised: 14151
+  computed: 10676
+  computerized: 16657
+scored_words:
+  compartmentalized: 108184
+  compassed: 132067
+  comped: 182592
+  complexioned: 227032
+  comported: 277101
+  composited: 135750
+not_scored_words:
+- compered
+- complected
+- complotted
+- compèred

@@ -1,0 +1,60 @@
+---
+pattern: ex_te
+hi_scored_words_count: 20
+scored_words_count: 12
+total_words: 50
+score: 3206218
+score_per_word: 100194
+hi_scored_words:
+  exacerbate: 38426
+  exaggerate: 32558
+  excavate: 69186
+  excite: 9664
+  excrete: 78543
+  execute: 5678
+  exfoliate: 75312
+  exonerate: 77725
+  expatiate: 76031
+  expatriate: 29191
+  expedite: 27670
+  explicate: 93324
+  expostulate: 83080
+  exquisite: 8360
+  exterminate: 44380
+  extortionate: 95631
+  extradite: 75450
+  extrapolate: 47308
+  extricate: 55870
+  exudate: 88974
+scored_words:
+  exabyte: 146573
+  exasperate: 144683
+  excommunicate: 146567
+  excoriate: 244891
+  exculpate: 180482
+  execrate: 247642
+  exegete: 189579
+  expectorate: 160505
+  expiate: 132704
+  expropriate: 107949
+  extenuate: 250549
+  extirpate: 141733
+not_scored_words:
+- exanimate
+- exarate
+- exarchate
+- excaudate
+- excogitate
+- excruciate
+- excurvate
+- exenterate
+- exhilarate
+- expurgate
+- exsanguinate
+- exsiccate
+- exstipulate
+- extravagate
+- extravasate
+- exuberate
+- exurbanite
+- exuviate

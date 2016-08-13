@@ -1,0 +1,31 @@
+---
+pattern: allu_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 21
+score: 1300076
+score_per_word: 86671
+hi_scored_words:
+  allude: 45838
+  alluded: 30343
+  alludes: 52898
+  alluding: 54028
+  allure: 21665
+  alluring: 29368
+  allusion: 29069
+  allusions: 35088
+  alluvial: 32185
+  alluvium: 67565
+scored_words:
+  allured: 116253
+  allurement: 199279
+  allurements: 203443
+  allures: 211037
+  allusive: 172017
+not_scored_words:
+- alluringly
+- allusively
+- allusiveness
+- alluvion
+- alluvions
+- alluviums

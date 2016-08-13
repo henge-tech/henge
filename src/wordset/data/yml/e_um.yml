@@ -1,0 +1,46 @@
+---
+pattern: e_um
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 36
+score: 2211787
+score_per_word: 105323
+hi_scored_words:
+  eardrum: 66577
+  emporium: 23237
+  endometrium: 59890
+  endothelium: 38609
+  epithelium: 24226
+  equilibrium: 7720
+  erratum: 63446
+  eulogium: 76073
+  euphonium: 54937
+  exemplum: 82182
+scored_words:
+  effluvium: 230435
+  einsteinium: 247409
+  electrum: 107638
+  encomium: 131084
+  endocardium: 194298
+  epithalamium: 112965
+  equisetum: 142388
+  erbium: 106754
+  eupatorium: 139490
+  europium: 135457
+  exordium: 166972
+not_scored_words:
+- Eboracum
+- Elysium
+- Erechtheum
+- Erzurum
+- elaterium
+- eluvium
+- endocranium
+- endosteum
+- endothecium
+- epicardium
+- epicedium
+- epigastrium
+- epineurium
+- episternum
+- estrum

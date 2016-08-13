@@ -1,0 +1,39 @@
+---
+pattern: _tten
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 29
+score: 1142136
+score_per_word: 51915
+hi_scored_words:
+  batten: 39543
+  begotten: 38285
+  bitten: 19032
+  fatten: 64003
+  flatten: 34948
+  forgotten: 2525
+  gotten: 5290
+  handwritten: 24988
+  kitten: 11197
+  mitten: 45145
+  overwritten: 47349
+  patten: 38689
+  rewritten: 20438
+  rotten: 7088
+  smitten: 30334
+  typewritten: 53013
+  underwritten: 48057
+  unwritten: 30904
+  written: 463
+scored_words:
+  frostbitten: 209410
+  misbegotten: 152206
+  unforgotten: 219229
+not_scored_words:
+- Britten
+- Mountbatten
+- backbitten
+- ghostwritten
+- latten
+- shotten
+- ungotten

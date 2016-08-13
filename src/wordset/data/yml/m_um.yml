@@ -1,0 +1,45 @@
+---
+pattern: m_um
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 35
+score: 1030468
+score_per_word: 49069
+hi_scored_words:
+  magnesium: 19186
+  magnum: 17778
+  mausoleum: 34152
+  maximum: 1856
+  medium: 1208
+  memorandum: 9426
+  millennium: 6289
+  minimum: 3384
+  modicum: 54677
+  molybdenum: 32732
+  momentum: 9847
+  moratorium: 24311
+  mum: 10109
+  museum: 2911
+  mycelium: 71196
+  mycobacterium: 36942
+  myocardium: 42282
+scored_words:
+  meerschaum: 115103
+  menstruum: 137011
+  mesothelium: 235077
+  minium: 164991
+not_scored_words:
+- Mentholatum
+- Microscopium
+- manubrium
+- marsupium
+- masurium
+- megasporangium
+- meitnerium
+- mendelevium
+- mesothorium
+- mezereum
+- microsporangium
+- milium
+- miracidium
+- monochasium

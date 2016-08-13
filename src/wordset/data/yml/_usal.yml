@@ -1,0 +1,24 @@
+---
+pattern: _usal
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 14
+score: 935942
+score_per_word: 77995
+hi_scored_words:
+  arousal: 28022
+  causal: 16749
+  menopausal: 42981
+  perusal: 39145
+  postmenopausal: 40805
+  premenopausal: 96989
+  refusal: 8050
+  spousal: 36199
+scored_words:
+  carousal: 137562
+  clausal: 152622
+  espousal: 166118
+  recusal: 170700
+not_scored_words:
+- accusal
+- noncausal

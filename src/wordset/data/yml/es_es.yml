@@ -1,0 +1,40 @@
+---
+pattern: es_es
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 30
+score: 812298
+score_per_word: 67691
+hi_scored_words:
+  escalates: 64401
+  escapades: 55970
+  escapees: 89806
+  escapes: 14020
+  espouses: 99818
+  essences: 32353
+  establishes: 12905
+  estates: 5674
+  estimates: 3705
+  estuaries: 40287
+scored_words:
+  espadrilles: 186990
+  esquires: 206369
+not_scored_words:
+- Esquires
+- Estes
+- escalades
+- escalopes
+- escaroles
+- eschatologies
+- escritoires
+- esophaguses
+- espies
+- esplanades
+- essentialities
+- essentialnesses
+- essonites
+- esterifies
+- estivates
+- estranges
+- estrones
+- estruses

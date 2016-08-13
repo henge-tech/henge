@@ -1,0 +1,22 @@
+---
+pattern: po_se
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 546789
+score_per_word: 54678
+hi_scored_words:
+  poise: 33238
+  polonaise: 83511
+  polymerase: 19243
+  porpoise: 52186
+  porterhouse: 87841
+  pose: 7281
+  posse: 22154
+  powerhouse: 23012
+scored_words:
+  politesse: 115648
+  poorhouse: 102675
+not_scored_words:
+- Portuguese
+- pothouse

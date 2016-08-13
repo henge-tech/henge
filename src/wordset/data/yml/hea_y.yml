@@ -1,0 +1,33 @@
+---
+pattern: hea_y
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 23
+score: 1053296
+score_per_word: 75235
+hi_scored_words:
+  headway: 30303
+  heady: 35506
+  healthily: 89872
+  healthy: 2212
+  hearsay: 28459
+  heartily: 23610
+  hearty: 15209
+  heavenly: 7307
+  heavily: 3985
+  heavy: 1127
+scored_words:
+  healthfully: 224269
+  heartbreakingly: 196681
+  heatedly: 181673
+  heathy: 213083
+not_scored_words:
+- Heaney
+- headachy
+- headily
+- heartbrokenly
+- heartlessly
+- heartrendingly
+- heathberry
+- heathenry
+- heathery

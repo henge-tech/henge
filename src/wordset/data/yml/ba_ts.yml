@@ -1,0 +1,53 @@
+---
+pattern: ba_ts
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 43
+score: 1753595
+score_per_word: 79708
+hi_scored_words:
+  baits: 40569
+  ballasts: 65337
+  ballets: 48812
+  ballots: 17889
+  bandits: 23144
+  banquets: 35553
+  baptists: 31177
+  baronets: 51910
+  basalts: 78102
+  basements: 44490
+  baskets: 12291
+  bats: 11503
+  battlements: 72451
+  bayonets: 57742
+scored_words:
+  backrests: 166834
+  backstreets: 126826
+  bahts: 162225
+  bailouts: 123033
+  bankrupts: 140069
+  bassets: 212544
+  bassinets: 126048
+  bassists: 105046
+not_scored_words:
+- Baptists
+- Barents
+- babbitts
+- babysits
+- bacchants
+- backchats
+- backseats
+- bacteriologists
+- bacteriostats
+- bailments
+- balloonists
+- ballpoints
+- bandicoots
+- banjoists
+- bannerets
+- bantamweights
+- barbets
+- basinets
+- bassoonists
+- bathmats
+- battlefronts

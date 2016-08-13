@@ -1,0 +1,54 @@
+---
+pattern: lif_
+hi_scored_words_count: 29
+scored_words_count: 7
+total_words: 44
+score: 2362140
+score_per_word: 65615
+hi_scored_words:
+  life: 116
+  lifeblood: 50765
+  lifeboat: 35560
+  lifeboats: 67295
+  lifeforms: 86829
+  lifeguard: 32106
+  lifeguards: 61146
+  lifeless: 26128
+  lifelike: 37949
+  lifeline: 24899
+  lifelines: 65093
+  lifelong: 11674
+  lifer: 68243
+  lifers: 64456
+  lifesaver: 52838
+  lifesavers: 83706
+  lifesaving: 46115
+  lifespan: 26476
+  lifestyle: 7724
+  lifestyles: 12812
+  lifetime: 4180
+  lifetimes: 30273
+  lift: 2868
+  lifted: 5930
+  lifter: 36560
+  lifters: 51724
+  lifting: 6358
+  liftoff: 61545
+  lifts: 9192
+scored_words:
+  lifebuoy: 302662
+  lifebuoys: 196280
+  lifelessly: 137718
+  lifelessness: 127362
+  lifespans: 136941
+  lifework: 207581
+  lifeworks: 183036
+not_scored_words:
+- LIFO
+- Lifesaver
+- Liffey
+- lifebelt
+- lifebelts
+- lifeboatmen
+- liftable
+- liftoffs

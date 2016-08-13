@@ -1,0 +1,44 @@
+---
+pattern: pri_y
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 34
+score: 1498765
+score_per_word: 71369
+hi_scored_words:
+  pricey: 25976
+  prickly: 29897
+  priestly: 30617
+  primacy: 34985
+  primarily: 4296
+  primary: 2117
+  princely: 42428
+  principality: 33072
+  principally: 11434
+  priority: 6563
+  priory: 24839
+  prissy: 65082
+  privacy: 3191
+  privately: 7065
+  privy: 20725
+scored_words:
+  primatology: 150575
+  primitively: 241163
+  primly: 232880
+  printery: 214057
+  privily: 210743
+  privity: 107060
+not_scored_words:
+- Priestley
+- pridefully
+- priggery
+- priggishly
+- primally
+- primevally
+- primitivity
+- primogenitary
+- primordiality
+- primordially
+- prismatically
+- prissily
+- pristinely

@@ -1,0 +1,38 @@
+---
+pattern: se_ty
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 28
+score: 1201448
+score_per_word: 60072
+hi_scored_words:
+  seasonality: 56832
+  security: 859
+  seismicity: 76138
+  selectivity: 27591
+  senility: 91623
+  seniority: 26318
+  sensibility: 21106
+  sensitivity: 8837
+  sensuality: 32480
+  sentimentality: 56078
+  separability: 99984
+  serendipity: 33214
+  serenity: 11813
+  serviceability: 70050
+  seventy: 8790
+  severity: 7027
+  sexuality: 15122
+scored_words:
+  secularity: 266050
+  servility: 142942
+  severalty: 148594
+not_scored_words:
+- seasonability
+- sedulity
+- semipermeability
+- sempiternity
+- sensuosity
+- septicity
+- sequacity
+- seriality

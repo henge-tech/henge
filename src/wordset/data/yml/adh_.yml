@@ -1,0 +1,26 @@
+---
+pattern: adh_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 16
+score: 711299
+score_per_word: 59274
+hi_scored_words:
+  adhere: 11952
+  adhered: 21022
+  adherence: 14562
+  adherent: 40109
+  adherents: 31218
+  adheres: 37078
+  adhering: 24681
+  adhesion: 17686
+  adhesive: 16168
+  adhesives: 23094
+scored_words:
+  adhesively: 303167
+  adhesiveness: 170562
+not_scored_words:
+- Adhara
+- adherer
+- adherers
+- adhibit

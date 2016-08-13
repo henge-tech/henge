@@ -1,0 +1,41 @@
+---
+pattern: _erns
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 31
+score: 1154423
+score_per_word: 64134
+hi_scored_words:
+  caverns: 31395
+  cisterns: 76875
+  concerns: 2612
+  externs: 84249
+  ferns: 26490
+  governs: 23304
+  interns: 19500
+  lanterns: 21416
+  moderns: 68935
+  patterns: 3318
+  sterns: 99932
+  taverns: 39587
+  terns: 48401
+  westerns: 19944
+scored_words:
+  bitterns: 201917
+  discerns: 130155
+  lecterns: 155648
+  subalterns: 100745
+not_scored_words:
+- Hohenzollerns
+- Westerns
+- caserns
+- gitterns
+- misgoverns
+- pasterns
+- posterns
+- quarterns
+- querns
+- secerns
+- slatterns
+- southerns
+- wiverns

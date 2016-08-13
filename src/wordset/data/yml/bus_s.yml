@@ -1,0 +1,39 @@
+---
+pattern: bus_s
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 29
+score: 2282783
+score_per_word: 114139
+hi_scored_words:
+  buses: 10074
+  bushels: 35792
+  bushes: 11817
+  bushings: 42133
+  business: 148
+  businesses: 5376
+  buss: 32717
+  busters: 30104
+  bustiers: 51402
+  busts: 25676
+  busybodies: 99431
+scored_words:
+  busboys: 282954
+  busies: 291386
+  businesspersons: 282445
+  buskers: 113159
+  buskins: 224533
+  busloads: 203627
+  bustards: 236042
+  bustles: 182335
+  busyness: 121632
+not_scored_words:
+- busbies
+- busgirls
+- bushbucks
+- bushiness
+- bushmasters
+- bushtits
+- bushwhackers
+- bushwhacks
+- busks

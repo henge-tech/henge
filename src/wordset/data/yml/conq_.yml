@@ -1,0 +1,23 @@
+---
+pattern: conq_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 13
+score: 577391
+score_per_word: 52490
+hi_scored_words:
+  conquer: 11527
+  conquered: 12597
+  conquering: 26372
+  conqueror: 23173
+  conquerors: 41761
+  conquers: 49909
+  conquest: 10015
+  conquests: 38462
+  conquistador: 70921
+  conquistadors: 97738
+scored_words:
+  conquerer: 194916
+not_scored_words:
+- conquerable
+- conquian

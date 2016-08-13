@@ -1,0 +1,59 @@
+---
+pattern: prin_
+hi_scored_words_count: 25
+scored_words_count: 5
+total_words: 49
+score: 1433519
+score_per_word: 47783
+hi_scored_words:
+  prince: 1701
+  princely: 42428
+  princes: 10166
+  princess: 2759
+  princesses: 32292
+  principal: 1727
+  principalities: 62865
+  principality: 33072
+  principally: 11434
+  principals: 14906
+  principle: 2253
+  principled: 43164
+  principles: 1615
+  print: 1013
+  printable: 7042
+  printed: 1971
+  printer: 4533
+  printers: 7254
+  printing: 3402
+  printings: 75789
+  printmaker: 87172
+  printmaking: 39553
+  printout: 32994
+  printouts: 51184
+  prints: 4609
+scored_words:
+  principalship: 150626
+  principium: 243712
+  printery: 214057
+  printhead: 137770
+  printmakers: 110456
+not_scored_words:
+- Prince
+- Princeton
+- Principe
+- Prinz
+- princedom
+- princedoms
+- princelier
+- princeliest
+- princeliness
+- princeling
+- principalships
+- principate
+- prink
+- prinked
+- prinker
+- prinking
+- prinks
+- printmakings
+- printwheel

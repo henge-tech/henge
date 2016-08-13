@@ -1,0 +1,28 @@
+---
+pattern: c_its
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 18
+score: 1146793
+score_per_word: 88214
+hi_scored_words:
+  circuits: 10406
+  clits: 61467
+  cockpits: 92532
+  commits: 12640
+  conduits: 41208
+  counterfeits: 92396
+  credits: 7183
+  cubits: 58985
+  culprits: 45019
+scored_words:
+  catsuits: 195635
+  chits: 186978
+  conceits: 121107
+  cucurbits: 221237
+not_scored_words:
+- cesspits
+- chickenshits
+- cohabits
+- comfits
+- copyedits

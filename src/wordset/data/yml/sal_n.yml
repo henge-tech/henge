@@ -1,0 +1,36 @@
+---
+pattern: sal_n
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 26
+score: 944743
+score_per_word: 72672
+hi_scored_words:
+  salesman: 16343
+  salesmen: 43615
+  salesperson: 25646
+  salmon: 5970
+  salon: 5896
+  saloon: 10486
+  salutation: 36530
+  salvation: 5673
+scored_words:
+  saleswoman: 108001
+  salinization: 199172
+  salivation: 104906
+  saltation: 188554
+  salutatorian: 193951
+not_scored_words:
+- Saladin
+- Salian
+- Salishan
+- Salon
+- Salton
+- Salvadoran
+- Salvadorean
+- Salvadorian
+- Salween
+- saleswomen
+- salicin
+- salientian
+- saltern

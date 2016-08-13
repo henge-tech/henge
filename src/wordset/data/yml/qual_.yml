@@ -1,0 +1,27 @@
+---
+pattern: qual_
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 17
+score: 474411
+score_per_word: 29650
+hi_scored_words:
+  quale: 82336
+  qualia: 69495
+  qualification: 8030
+  qualifications: 5866
+  qualified: 3556
+  qualifier: 17383
+  qualifiers: 21236
+  qualifies: 23015
+  qualify: 7264
+  qualifying: 10611
+  qualitative: 15602
+  qualitatively: 34417
+  qualities: 5743
+  quality: 615
+  qualms: 51119
+scored_words:
+  qualm: 118123
+not_scored_words:
+- qualmish

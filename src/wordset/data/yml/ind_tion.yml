@@ -1,0 +1,30 @@
+---
+pattern: ind_tion
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 20
+score: 1276043
+score_per_word: 75061
+hi_scored_words:
+  indemnification: 41958
+  indentation: 35326
+  indexation: 69318
+  indication: 6272
+  indigestion: 37409
+  indignation: 21179
+  indirection: 81097
+  indiscretion: 69537
+  individualization: 86922
+  individuation: 88600
+  indoctrination: 43997
+  induction: 9112
+  industrialization: 29158
+scored_words:
+  indention: 257077
+  indetermination: 163969
+  indisposition: 119175
+  induration: 115937
+not_scored_words:
+- Indianization
+- indiction
+- indiscrimination

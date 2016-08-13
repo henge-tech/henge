@@ -1,0 +1,36 @@
+---
+pattern: p_hic
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 26
+score: 1070393
+score_per_word: 82337
+hi_scored_words:
+  paleolithic: 52205
+  philosophic: 44403
+  photographic: 9249
+  physiographic: 93242
+  polymorphic: 37941
+  pornographic: 22175
+  psychic: 9867
+  psychopathic: 60120
+scored_words:
+  pathic: 173990
+  petrographic: 141320
+  phonographic: 109510
+  pictographic: 202056
+  pyrrhic: 114315
+not_scored_words:
+- Paleolithic
+- Pyrrhic
+- paleographic
+- patriarchic
+- petroglyphic
+- photobathic
+- polygraphic
+- polymathic
+- polytrophic
+- protolithic
+- protomorphic
+- prototrophic
+- pseudepigraphic

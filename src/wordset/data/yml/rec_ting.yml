@@ -1,0 +1,34 @@
+---
+pattern: rec_ting
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 24
+score: 1953957
+score_per_word: 114938
+hi_scored_words:
+  recasting: 91180
+  reciprocating: 39151
+  recirculating: 76301
+  reciting: 38110
+  reconnecting: 64018
+  reconstructing: 42393
+  recounting: 45310
+  recreating: 44173
+  recruiting: 7246
+  recuperating: 87953
+scored_words:
+  recalculating: 186514
+  recalibrating: 301278
+  recanting: 227269
+  receipting: 183246
+  recollecting: 106689
+  recomputing: 279938
+  reconstituting: 133188
+not_scored_words:
+- recapitulating
+- recommitting
+- reconsecrating
+- recontacting
+- recontaminating
+- reconverting
+- recriminating

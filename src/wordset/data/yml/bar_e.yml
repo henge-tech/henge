@@ -1,0 +1,48 @@
+---
+pattern: bar_e
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 38
+score: 1678384
+score_per_word: 79923
+hi_scored_words:
+  barbecue: 13338
+  barbette: 78187
+  barbie: 11533
+  barbiturate: 96064
+  bare: 3936
+  barge: 15915
+  baritone: 27868
+  barnacle: 53770
+  baroque: 15977
+  barque: 65074
+  barquentine: 80398
+  barrage: 30054
+  barre: 21800
+  barrette: 77697
+  barricade: 30087
+scored_words:
+  barbwire: 180573
+  barde: 310865
+  barite: 113872
+  baronetage: 100414
+  barouche: 120787
+  barrelhouse: 230175
+not_scored_words:
+- Barbie
+- Barbusse
+- Barmecide
+- Barrie
+- Barrymore
+- barbarize
+- barbate
+- barbellate
+- barbitone
+- barbule
+- barcarole
+- bargepole
+- barkentine
+- baronage
+- baroscope
+- barye
+- barytone

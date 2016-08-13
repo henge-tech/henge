@@ -1,0 +1,38 @@
+---
+pattern: n_sts
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 28
+score: 1312480
+score_per_word: 93748
+hi_scored_words:
+  nationalists: 34647
+  naturalists: 38303
+  naturists: 70740
+  nests: 23490
+  neurologists: 61455
+  newscasts: 59683
+  novelists: 35132
+  nudists: 39117
+  nutritionists: 40661
+scored_words:
+  narcissists: 109116
+  neuroblasts: 216012
+  nihilists: 176854
+  nonconformists: 152433
+  numismatists: 254837
+not_scored_words:
+- Nobelists
+- Nonconformists
+- Northeasts
+- Northwests
+- nativists
+- negativists
+- neoclassicists
+- neocolonialists
+- neologists
+- nepotists
+- neutralists
+- noctambulists
+- nonspecialists
+- numerologists

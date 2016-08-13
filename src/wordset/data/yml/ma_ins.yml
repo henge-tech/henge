@@ -1,0 +1,22 @@
+---
+pattern: ma_ins
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 530514
+score_per_word: 53051
+hi_scored_words:
+  mains: 13665
+  maintains: 7288
+  mandarins: 87236
+  mandolins: 78631
+  mannequins: 56068
+  margins: 11504
+  marlins: 21829
+  martins: 29732
+  matins: 71577
+scored_words:
+  manikins: 152984
+not_scored_words:
+- manakins
+- marocains

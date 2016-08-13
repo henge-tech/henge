@@ -1,0 +1,25 @@
+---
+pattern: ut_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 657099
+score_per_word: 65709
+hi_scored_words:
+  utensils: 18240
+  uterus: 19719
+  utilities: 10772
+  utilizes: 16124
+  utopias: 91179
+  uts: 44832
+  utterances: 32170
+  utters: 56461
+scored_words:
+  utilitarians: 202239
+  utopians: 165363
+not_scored_words:
+- Utahans
+- Utes
+- Utopians
+- Utopias
+- utricles

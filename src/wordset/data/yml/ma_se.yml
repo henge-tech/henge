@@ -1,0 +1,28 @@
+---
+pattern: ma_se
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 18
+score: 796594
+score_per_word: 72417
+hi_scored_words:
+  madhouse: 52526
+  malaise: 39805
+  maltose: 67307
+  manganese: 21087
+  mannose: 63103
+  manse: 62628
+  marchese: 74644
+  marquise: 31789
+  masseuse: 58316
+  mayonnaise: 29136
+scored_words:
+  maltase: 296253
+not_scored_words:
+- Mabuse
+- Macanese
+- Maltese
+- Marcuse
+- Marseillaise
+- Marshallese
+- Matisse

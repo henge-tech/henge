@@ -1,0 +1,35 @@
+---
+pattern: s_ched
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 25
+score: 1117559
+score_per_word: 74503
+hi_scored_words:
+  sandwiched: 47165
+  scorched: 37401
+  scratched: 17543
+  searched: 5143
+  sketched: 35431
+  snatched: 22230
+  starched: 99102
+  stitched: 24730
+  stretched: 7023
+  switched: 9739
+scored_words:
+  scotched: 294510
+  screeched: 105125
+  scrunched: 129488
+  slouched: 128240
+  squelched: 154689
+not_scored_words:
+- semidetached
+- smirched
+- smooched
+- smutched
+- snitched
+- splotched
+- squinched
+- stanched
+- staunched
+- stomached

@@ -1,0 +1,27 @@
+---
+pattern: pr_sed
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 17
+score: 803478
+score_per_word: 57391
+hi_scored_words:
+  praised: 9786
+  predeceased: 62587
+  predisposed: 46348
+  premised: 64608
+  pressed: 5065
+  presupposed: 91038
+  processed: 16526
+  professed: 25390
+  progressed: 17356
+  promised: 3678
+  proposed: 1251
+scored_words:
+  prepossessed: 177277
+  preprocessed: 156371
+  prolapsed: 126197
+not_scored_words:
+- precessed
+- precised
+- précised

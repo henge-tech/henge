@@ -1,0 +1,49 @@
+---
+pattern: as_r
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 39
+score: 1378865
+score_per_word: 81109
+hi_scored_words:
+  ashlar: 87882
+  asker: 38909
+  assembler: 25604
+  assessor: 30443
+  assignor: 87123
+  aster: 35531
+  astr: 80776
+  astrologer: 37549
+  astronomer: 21390
+  asunder: 39761
+scored_words:
+  ascender: 101181
+  asper: 106435
+  aspirator: 137433
+  assayer: 206340
+  assentor: 118915
+  assurer: 103294
+  astir: 120299
+not_scored_words:
+- ASSR
+- Asher
+- Ashur
+- Asir
+- Asperger
+- Asshur
+- Assur
+- Assyr
+- Astor
+- Asur
+- ashier
+- asphyxiator
+- aspirer
+- assailer
+- assaulter
+- assenter
+- asserter
+- assigner
+- assimilator
+- assorter
+- astuter
+- astylar

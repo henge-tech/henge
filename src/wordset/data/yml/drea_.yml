@@ -1,0 +1,44 @@
+---
+pattern: drea_
+hi_scored_words_count: 19
+scored_words_count: 9
+total_words: 34
+score: 2112791
+score_per_word: 75456
+hi_scored_words:
+  dread: 10871
+  dreaded: 16707
+  dreadful: 12017
+  dreadfully: 46689
+  dreading: 49421
+  dreadlocks: 73951
+  dreadnought: 46167
+  dreads: 49375
+  dream: 1284
+  dreamed: 10528
+  dreamer: 17034
+  dreamers: 33437
+  dreamily: 99496
+  dreaming: 7701
+  dreamland: 37696
+  dreamlike: 79002
+  dreams: 2186
+  dreamy: 14774
+  dreary: 22852
+scored_words:
+  dreadnoughts: 174151
+  dreamboat: 128058
+  dreaminess: 198015
+  dreamless: 129577
+  dreamworld: 100849
+  drear: 136964
+  dreariest: 187340
+  drearily: 230823
+  dreariness: 195826
+not_scored_words:
+- dreadfulness
+- dreamboats
+- dreamier
+- dreamiest
+- dreamworlds
+- drearier

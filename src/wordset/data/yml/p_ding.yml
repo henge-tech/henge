@@ -1,0 +1,41 @@
+---
+pattern: p_ding
+hi_scored_words_count: 19
+scored_words_count: 5
+total_words: 31
+score: 1818774
+score_per_word: 75782
+hi_scored_words:
+  padding: 19888
+  parading: 63461
+  paragliding: 49716
+  pending: 6143
+  persuading: 33467
+  pervading: 65263
+  pleading: 16616
+  plodding: 64478
+  pounding: 15568
+  preceding: 5073
+  precluding: 79623
+  presiding: 16228
+  pretending: 15005
+  proceeding: 5511
+  prodding: 66050
+  proofreading: 36627
+  protruding: 35725
+  providing: 1374
+  pudding: 11472
+scored_words:
+  placarding: 290612
+  priding: 292451
+  promenading: 130767
+  propounding: 222414
+  pyramiding: 275242
+not_scored_words:
+- parascending
+- peroxiding
+- podding
+- pollarding
+- pomading
+- portending
+- prerecording

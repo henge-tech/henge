@@ -1,0 +1,53 @@
+---
+pattern: wa_y
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 43
+score: 2009148
+score_per_word: 87354
+hi_scored_words:
+  wacky: 20673
+  walkway: 28837
+  wallaby: 49723
+  wally: 18860
+  wantonly: 87402
+  warily: 61104
+  warmly: 18001
+  warranty: 5764
+  warty: 87301
+  wary: 15336
+  washy: 67091
+  waterway: 27680
+  watery: 22811
+  wavy: 25177
+  waxy: 44643
+  way: 111
+scored_words:
+  walkaway: 212746
+  wanly: 281367
+  warningly: 167279
+  wastefully: 233070
+  watchfully: 198944
+  waterlily: 135322
+  waylay: 199906
+not_scored_words:
+- Wallasey
+- Warley
+- Waspy
+- Waterbury
+- Waverley
+- wackily
+- waggery
+- waggishly
+- waggly
+- wailfully
+- wakefully
+- wanderingly
+- warrantability
+- washday
+- washery
+- washily
+- waspishly
+- waveringly
+- wavily
+- waywardly

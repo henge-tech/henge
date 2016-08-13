@@ -1,0 +1,47 @@
+---
+pattern: _vate
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 37
+score: 1917092
+score_per_word: 87140
+hi_scored_words:
+  activate: 12252
+  aggravate: 38770
+  captivate: 45689
+  cultivate: 15696
+  deactivate: 35797
+  elevate: 21915
+  excavate: 69186
+  inactivate: 82651
+  innovate: 30650
+  motivate: 17974
+  ovate: 61733
+  private: 396
+  pyruvate: 38612
+  reactivate: 56370
+  renovate: 32934
+scored_words:
+  enervate: 124108
+  innervate: 180682
+  obovate: 158385
+  passivate: 325255
+  salivate: 103463
+  savate: 184675
+  semiprivate: 279899
+not_scored_words:
+- Private
+- acervate
+- clavate
+- coacervate
+- demotivate
+- estivate
+- excurvate
+- incurvate
+- insalivate
+- radioactivate
+- recidivate
+- recurvate
+- titivate
+- tittivate
+- valvate

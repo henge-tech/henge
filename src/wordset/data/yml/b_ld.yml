@@ -1,0 +1,30 @@
+---
+pattern: b_ld
+hi_scored_words_count: 11
+scored_words_count: 0
+total_words: 20
+score: 337973
+score_per_word: 30724
+hi_scored_words:
+  backfield: 76041
+  bald: 6869
+  battlefield: 7948
+  beheld: 24661
+  behold: 7907
+  billfold: 76328
+  blindfold: 39686
+  bold: 2784
+  brainchild: 51257
+  brownfield: 43395
+  build: 1097
+scored_words: {}
+not_scored_words:
+- Bakersfield
+- Beaconsfield
+- Bielefeld
+- Bloomfield
+- Brunhild
+- Brynhild
+- Buchenwald
+- Buchwald
+- bield

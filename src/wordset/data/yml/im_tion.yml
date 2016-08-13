@@ -1,0 +1,37 @@
+---
+pattern: im_tion
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 27
+score: 853896
+score_per_word: 44941
+hi_scored_words:
+  imagination: 4058
+  imitation: 10831
+  immigration: 6168
+  immobilization: 45695
+  immolation: 64228
+  immunization: 21210
+  imperfection: 37435
+  impersonation: 40459
+  implantation: 26972
+  implementation: 13232
+  implication: 13956
+  importation: 17888
+  imposition: 18280
+  imprecation: 85325
+  impregnation: 65978
+  improvisation: 28421
+  imputation: 28296
+scored_words:
+  imbibition: 220115
+  impaction: 105349
+not_scored_words:
+- imbrication
+- immoderation
+- immunoreaction
+- immuration
+- impanation
+- imperception
+- imperturbation
+- impletion

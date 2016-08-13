@@ -1,0 +1,30 @@
+---
+pattern: n_ate
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 20
+score: 1177725
+score_per_word: 78515
+hi_scored_words:
+  nameplate: 47405
+  narrate: 53165
+  navigate: 10089
+  necessitate: 30649
+  negate: 33022
+  negotiate: 9105
+  neonate: 62729
+  nitrate: 16365
+  nominate: 15910
+  novitiate: 88981
+scored_words:
+  nauseate: 124162
+  notate: 189779
+  nucleate: 180441
+  numberplate: 130181
+  numerate: 185742
+not_scored_words:
+- Nate
+- nictate
+- nictitate
+- noncandidate
+- noviciate

@@ -1,0 +1,57 @@
+---
+pattern: ab_d
+hi_scored_words_count: 24
+scored_words_count: 12
+total_words: 47
+score: 2853349
+score_per_word: 79259
+hi_scored_words:
+  abandoned: 4500
+  abashed: 92661
+  abated: 39835
+  abbreviated: 20118
+  abdicated: 67412
+  abducted: 28822
+  abed: 52695
+  abetted: 60276
+  abhorred: 70124
+  aboard: 6710
+  abolished: 16126
+  aborted: 24537
+  abound: 15118
+  abounded: 57107
+  aboveground: 61736
+  abridged: 21014
+  abroad: 2808
+  abrogated: 56797
+  absolved: 59100
+  absorbed: 7461
+  abstained: 41768
+  abstracted: 29131
+  absurd: 8784
+  abused: 8764
+scored_words:
+  abased: 155530
+  abjured: 108962
+  ablated: 169723
+  abominated: 163081
+  aboveboard: 228977
+  abraded: 102943
+  abscessed: 311676
+  abscond: 139293
+  absconded: 101659
+  absented: 155158
+  absentminded: 195060
+  abutted: 167883
+not_scored_words:
+- ABD
+- Abbasid
+- Abelard
+- abduced
+- abfarad
+- abnegated
+- abreacted
+- abscind
+- abscised
+- abseiled
+- absquatulated

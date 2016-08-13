@@ -1,0 +1,41 @@
+---
+pattern: attr_
+hi_scored_words_count: 20
+scored_words_count: 4
+total_words: 31
+score: 1150591
+score_per_word: 47941
+hi_scored_words:
+  attract: 5250
+  attracted: 5908
+  attracting: 12906
+  attraction: 4498
+  attractions: 4992
+  attractive: 3504
+  attractively: 58808
+  attractiveness: 29989
+  attractor: 54821
+  attractors: 76870
+  attracts: 15918
+  attrib: 92045
+  attributable: 16484
+  attribute: 4635
+  attributed: 6834
+  attributes: 4554
+  attributing: 44792
+  attribution: 20495
+  attributions: 53328
+  attrition: 30137
+scored_words:
+  attractant: 100984
+  attractants: 154303
+  attributive: 129966
+  attributively: 218570
+not_scored_words:
+- attractable
+- attrahent
+- attributer
+- attributives
+- attributor
+- attrit
+- attritional

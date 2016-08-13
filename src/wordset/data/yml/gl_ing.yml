@@ -1,0 +1,49 @@
+---
+pattern: gl_ing
+hi_scored_words_count: 14
+scored_words_count: 11
+total_words: 39
+score: 2582784
+score_per_word: 103311
+hi_scored_words:
+  glancing: 25382
+  glaring: 28238
+  glazing: 26562
+  gleaming: 23371
+  gliding: 18782
+  glimmering: 55793
+  glinting: 95757
+  glistening: 36972
+  glittering: 20119
+  gloating: 61831
+  globalizing: 89110
+  glorifying: 66413
+  glowing: 10996
+  gluing: 49985
+scored_words:
+  gladdening: 218728
+  glassblowing: 147793
+  glassing: 296294
+  gleaning: 102054
+  glimpsing: 231927
+  glitching: 262322
+  gloaming: 118323
+  globetrotting: 130341
+  glorying: 194446
+  glossing: 113704
+  glowering: 157541
+not_scored_words:
+- glaceing
+- glaciating
+- glacéing
+- glamoring
+- glamorizing
+- glamouring
+- glissading
+- glistering
+- globing
+- glomming
+- glooming
+- gloving
+- glutting
+- gluttonizing

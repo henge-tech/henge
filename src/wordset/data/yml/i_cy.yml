@@ -1,0 +1,71 @@
+---
+pattern: i_cy
+hi_scored_words_count: 21
+scored_words_count: 14
+total_words: 61
+score: 3408504
+score_per_word: 97385
+hi_scored_words:
+  icy: 13258
+  idiocy: 36731
+  illegitimacy: 92213
+  illiteracy: 35408
+  immediacy: 42825
+  immunodeficiency: 24856
+  impotency: 97867
+  inaccuracy: 36871
+  inadequacy: 37422
+  inconsistency: 19147
+  incumbency: 90590
+  indecency: 52485
+  indeterminacy: 72029
+  inefficiency: 34769
+  inerrancy: 99512
+  infancy: 15017
+  insolvency: 29750
+  insufficiency: 28971
+  insurgency: 22185
+  intimacy: 12254
+  intricacy: 96501
+scored_words:
+  impolicy: 181117
+  inadvertency: 189424
+  inclemency: 139743
+  incompetency: 107579
+  inconstancy: 176782
+  indelicacy: 165210
+  independency: 147628
+  inefficacy: 288859
+  infrequency: 202449
+  innocency: 252803
+  interdependency: 108465
+  intermittency: 124907
+  intestacy: 154169
+  irrelevancy: 178708
+not_scored_words:
+- immaculacy
+- immanency
+- immoderacy
+- impermanency
+- importunacy
+- inarticulacy
+- incessancy
+- incipiency
+- incoherency
+- inconveniency
+- inelegancy
+- inexpediency
+- inhabitancy
+- inherency
+- innumeracy
+- insignificancy
+- insistency
+- instancy
+- intendancy
+- intermediacy
+- intransigency
+- inveteracy
+- inviolacy
+- isocracy
+- itineracy
+- itinerancy

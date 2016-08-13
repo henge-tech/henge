@@ -1,0 +1,26 @@
+---
+pattern: g_one
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 16
+score: 471822
+score_per_word: 47182
+hi_scored_words:
+  gallstone: 98837
+  gemstone: 24527
+  gladstone: 24198
+  glutathione: 31163
+  goldstone: 58298
+  gone: 972
+  gramophone: 42166
+  gravestone: 48791
+  greenstone: 66094
+  grindstone: 76776
+scored_words: {}
+not_scored_words:
+- Gaborone
+- Giorgione
+- Gladstone
+- Gramophone
+- Graphophone
+- gamone

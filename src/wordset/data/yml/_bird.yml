@@ -1,0 +1,50 @@
+---
+pattern: _bird
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 40
+score: 1844718
+score_per_word: 87843
+hi_scored_words:
+  bird: 1642
+  blackbird: 26652
+  bluebird: 30958
+  cowbird: 93365
+  firebird: 26741
+  hummingbird: 23029
+  ladybird: 39853
+  mockingbird: 28734
+  redbird: 88242
+  seabird: 52419
+  snowbird: 57910
+  songbird: 46350
+scored_words:
+  bellbird: 193060
+  catbird: 109576
+  jailbird: 123209
+  jaybird: 137556
+  kingbird: 119899
+  lovebird: 126993
+  ovenbird: 238145
+  shorebird: 132844
+  waterbird: 147541
+not_scored_words:
+- Bird
+- Thunderbird
+- bowerbird
+- butcherbird
+- dickybird
+- dollarbird
+- friarbird
+- hangbird
+- lyrebird
+- mousebird
+- oilbird
+- reedbird
+- ricebird
+- snakebird
+- surfbird
+- tailorbird
+- weaverbird
+- whirlybird
+- yellowbird

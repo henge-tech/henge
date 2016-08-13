@@ -1,0 +1,24 @@
+---
+pattern: f_med
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 939518
+score_per_word: 78293
+hi_scored_words:
+  famed: 16678
+  farmed: 31683
+  filmed: 12837
+  firmed: 92941
+  flamed: 46919
+  foamed: 79509
+  formed: 1814
+  framed: 5267
+  fumed: 83515
+scored_words:
+  fathomed: 184973
+  forearmed: 248670
+  foredoomed: 134712
+not_scored_words:
+- flimflammed
+- forenamed

@@ -1,0 +1,23 @@
+---
+pattern: peep_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 853892
+score_per_word: 85389
+hi_scored_words:
+  peep: 15985
+  peeped: 69642
+  peeper: 86859
+  peepers: 82807
+  peephole: 91188
+  peeping: 24161
+  peeps: 23226
+  peepshow: 71983
+scored_words:
+  peepholes: 232236
+  peepshows: 155805
+not_scored_words:
+- peepbo
+- peepul
+- peepuls

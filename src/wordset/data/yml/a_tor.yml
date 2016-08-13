@@ -1,0 +1,68 @@
+---
+pattern: a_tor
+hi_scored_words_count: 24
+scored_words_count: 11
+total_words: 58
+score: 2890070
+score_per_word: 82573
+hi_scored_words:
+  abductor: 77927
+  accelerator: 15369
+  acceptor: 34684
+  accumulator: 36785
+  activator: 26848
+  actor: 3511
+  actuator: 31434
+  adductor: 92363
+  adjudicator: 49503
+  administrator: 7253
+  agitator: 40233
+  alligator: 19707
+  allocator: 67974
+  alternator: 31146
+  ancestor: 12409
+  animator: 25942
+  annihilator: 81709
+  applicator: 38875
+  arbitrator: 24090
+  attenuator: 67459
+  attractor: 54821
+  auditor: 12270
+  authenticator: 54369
+  aviator: 24813
+scored_words:
+  abettor: 215608
+  accentor: 270293
+  aerator: 102083
+  aggravator: 260072
+  annotator: 130334
+  annunciator: 169590
+  appreciator: 254474
+  arrestor: 135917
+  articulator: 163857
+  aspirator: 137433
+  assentor: 118915
+not_scored_words:
+- Astor
+- abbreviator
+- abdicator
+- abnegator
+- abominator
+- abrogator
+- adulator
+- adulterator
+- advocator
+- alienator
+- alleviator
+- amboceptor
+- ambulator
+- ameliorator
+- amputator
+- anticipator
+- apparitor
+- appointor
+- appropriator
+- asphyxiator
+- assimilator
+- attestor
+- attributor

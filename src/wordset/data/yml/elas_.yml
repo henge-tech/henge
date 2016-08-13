@@ -1,0 +1,29 @@
+---
+pattern: elas_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 1328344
+score_per_word: 110695
+hi_scored_words:
+  elastic: 8960
+  elasticated: 91746
+  elasticities: 55146
+  elasticity: 17822
+  elastics: 93062
+  elastin: 81597
+  elastomer: 60994
+  elastomers: 58119
+scored_words:
+  elasmobranch: 234245
+  elasmobranchs: 298077
+  elastically: 149189
+  elasticized: 179387
+not_scored_words:
+- Elastoplast
+- elastance
+- elastances
+- elasticize
+- elasticizes
+- elasticizing
+- elastins

@@ -1,0 +1,55 @@
+---
+pattern: wh_e
+hi_scored_words_count: 25
+scored_words_count: 4
+total_words: 45
+score: 1365013
+score_per_word: 47069
+hi_scored_words:
+  whale: 7055
+  whee: 45260
+  wheelbase: 37468
+  wheelhouse: 73133
+  wheelie: 54307
+  wheeze: 72157
+  whence: 13923
+  where: 102
+  wherefore: 20229
+  whetstone: 53428
+  while: 160
+  whine: 21964
+  whistle: 8678
+  white: 214
+  whittle: 40343
+  who're: 45654
+  who've: 26639
+  whole: 363
+  wholesale: 5022
+  wholesome: 18645
+  whoopee: 64891
+  whore: 10570
+  whorehouse: 75387
+  whose: 861
+  whsle: 24502
+scored_words:
+  whalebone: 139591
+  wharfage: 226040
+  wheedle: 170989
+  whinge: 107438
+not_scored_words:
+- Wheatstone
+- Whipple
+- White
+- Whitehorse
+- Whitsuntide
+- Whittle
+- whangee
+- wharve
+- whatshername
+- whatshisname
+- wheelhorse
+- whiffle
+- whiffletree
+- whinstone
+- whippletree
+- whitepine

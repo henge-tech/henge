@@ -1,0 +1,63 @@
+---
+pattern: su_tion
+hi_scored_words_count: 26
+scored_words_count: 11
+total_words: 53
+score: 2981323
+score_per_word: 80576
+hi_scored_words:
+  subduction: 52710
+  subjection: 45270
+  subjugation: 57873
+  sublimation: 45748
+  subordination: 37955
+  subpopulation: 87744
+  subrogation: 82799
+  subscription: 4940
+  subsection: 12994
+  subsidization: 90999
+  substantiation: 71486
+  substation: 38099
+  substitution: 10407
+  subsumption: 86297
+  subtraction: 28218
+  suction: 22110
+  suffocation: 41258
+  suggestion: 3576
+  summarization: 72658
+  summation: 26975
+  superannuation: 29916
+  superposition: 46267
+  superstition: 17575
+  supplementation: 24944
+  supplication: 53355
+  supposition: 29381
+scored_words:
+  subclassification: 249646
+  suburbanization: 153298
+  subvention: 122165
+  sumption: 103093
+  supererogation: 107273
+  superimposition: 134377
+  supersaturation: 127360
+  superscription: 223692
+  supination: 164073
+  suppuration: 191798
+  surjection: 282994
+not_scored_words:
+- subaudition
+- subinfeudation
+- subjunction
+- subornation
+- subreption
+- subspecialization
+- suffixation
+- sulfonation
+- superelevation
+- superfecundation
+- superfetation
+- supervention
+- suppletion
+- suspiration
+- sustentation
+- susurration

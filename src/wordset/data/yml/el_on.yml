@@ -1,0 +1,34 @@
+---
+pattern: el_on
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 24
+score: 786135
+score_per_word: 52409
+hi_scored_words:
+  elaboration: 23872
+  elation: 37347
+  election: 1688
+  electrification: 36172
+  electrocution: 61194
+  electron: 8761
+  elevation: 5771
+  elicitation: 77823
+  elimination: 10551
+  elocution: 79673
+  elongation: 32749
+  elucidation: 46891
+  elution: 62206
+scored_words:
+  elision: 128228
+  elytron: 173209
+not_scored_words:
+- Eldon
+- Elgon
+- Ellington
+- Ellison
+- Elton
+- electrostriction
+- elevon
+- elusion
+- eluviation

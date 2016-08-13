@@ -1,0 +1,71 @@
+---
+pattern: _ax
+hi_scored_words_count: 23
+scored_words_count: 8
+total_words: 61
+score: 2235776
+score_per_word: 72121
+hi_scored_words:
+  anthrax: 25038
+  ax: 11993
+  beeswax: 37169
+  borax: 55097
+  climax: 12277
+  coax: 23206
+  earwax: 85814
+  fax: 7670
+  flax: 18264
+  hoax: 22027
+  lax: 15734
+  max: 2113
+  parallax: 39523
+  pax: 26190
+  pneumothorax: 68011
+  pretax: 78849
+  relax: 6440
+  sax: 23394
+  surtax: 93786
+  syntax: 9735
+  tax: 577
+  thorax: 36104
+  wax: 6071
+scored_words:
+  addax: 225593
+  anticlimax: 152811
+  broadax: 107416
+  hyrax: 193652
+  overtax: 298111
+  smilax: 129037
+  styrax: 210968
+  toadflax: 213106
+not_scored_words:
+- Ajax
+- Astyanax
+- Bax
+- Colfax
+- Fairfax
+- Filofax
+- Fornax
+- Halifax
+- Koufax
+- Lomax
+- Max
+- OfficeMax
+- Pax
+- Pentax
+- Sax
+- Sfax
+- Tampax
+- VAX
+- battleax
+- cephalothorax
+- disclimax
+- hydrothorax
+- mesothorax
+- paxwax
+- pickax
+- poleax
+- prothorax
+- storax
+- subclimax
+- supertax

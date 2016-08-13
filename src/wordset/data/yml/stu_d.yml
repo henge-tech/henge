@@ -1,0 +1,24 @@
+---
+pattern: stu_d
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 14
+score: 710454
+score_per_word: 54650
+hi_scored_words:
+  stubbed: 97420
+  stud: 10133
+  studded: 23797
+  studied: 3001
+  stuffed: 13006
+  stumbled: 13793
+  stumped: 36713
+  stunned: 14302
+  stunted: 45063
+  stupid: 2713
+  stuttered: 96796
+scored_words:
+  stuccoed: 244797
+  stupefied: 108920
+not_scored_words:
+- stultified

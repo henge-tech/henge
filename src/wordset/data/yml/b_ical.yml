@@ -1,0 +1,26 @@
+---
+pattern: b_ical
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 16
+score: 510787
+score_per_word: 42565
+hi_scored_words:
+  bacteriological: 59042
+  biblical: 9645
+  bibliographical: 35909
+  biochemical: 17670
+  biographical: 12930
+  biological: 6214
+  biomechanical: 56648
+  biomedical: 11011
+  biophysical: 42877
+  biotechnological: 91507
+  botanical: 12577
+scored_words:
+  bioethical: 154757
+not_scored_words:
+- Biblical
+- Brahmanical
+- Brahminical
+- barometrical

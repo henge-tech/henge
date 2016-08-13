@@ -1,0 +1,24 @@
+---
+pattern: _hew
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 14
+score: 410758
+score_per_word: 41075
+hi_scored_words:
+  cashew: 45350
+  chew: 13656
+  eschew: 57188
+  grandnephew: 69069
+  hew: 36326
+  nephew: 9726
+  phew: 38299
+  shew: 28047
+  thew: 82709
+  whew: 30388
+scored_words: {}
+not_scored_words:
+- Mathew
+- Matthew
+- clerihew
+- roughhew

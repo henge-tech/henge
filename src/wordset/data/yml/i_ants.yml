@@ -1,0 +1,25 @@
+---
+pattern: i_ants
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 955740
+score_per_word: 79645
+hi_scored_words:
+  immigrants: 8236
+  implants: 12519
+  infants: 7350
+  informants: 39021
+  inhabitants: 5847
+  inhalants: 97768
+  instants: 75751
+  invariants: 40727
+  irritants: 65692
+scored_words:
+  illuminants: 265752
+  immunosuppressants: 231924
+  intoxicants: 105153
+not_scored_words:
+- indicants
+- inebriants
+- itinerants

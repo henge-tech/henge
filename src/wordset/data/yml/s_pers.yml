@@ -1,0 +1,51 @@
+---
+pattern: s_pers
+hi_scored_words_count: 21
+scored_words_count: 16
+total_words: 41
+score: 4095918
+score_per_word: 110700
+hi_scored_words:
+  sandpipers: 84696
+  scalpers: 91037
+  scrapers: 49649
+  shapers: 63346
+  shippers: 33965
+  shopkeepers: 51922
+  shoppers: 6771
+  skippers: 56709
+  skyscrapers: 33606
+  sleepers: 31738
+  slippers: 13553
+  snappers: 87972
+  snipers: 39788
+  steppers: 69178
+  stoppers: 36536
+  stormtroopers: 79508
+  stripers: 96462
+  strippers: 15060
+  supers: 67813
+  suppers: 66992
+  sweepers: 55352
+scored_words:
+  sappers: 101165
+  scampers: 268079
+  scorekeepers: 314488
+  scrappers: 115275
+  scuppers: 235774
+  sharecroppers: 151200
+  sharpers: 149242
+  showstoppers: 115659
+  shrimpers: 185882
+  sippers: 241305
+  slappers: 131493
+  snoopers: 140609
+  stampers: 110907
+  storekeepers: 246267
+  stumpers: 330361
+  swappers: 126559
+not_scored_words:
+- sandpapers
+- scarpers
+- simpers
+- strappers

@@ -1,0 +1,55 @@
+---
+pattern: q_es
+hi_scored_words_count: 15
+scored_words_count: 13
+total_words: 45
+score: 3059607
+score_per_word: 109271
+hi_scored_words:
+  quadrangles: 94061
+  quakes: 55308
+  qualifies: 23015
+  qualities: 5743
+  quantifies: 89791
+  quantities: 5377
+  quarries: 36959
+  queries: 9025
+  ques: 41151
+  questionnaires: 16774
+  queues: 27867
+  quibbles: 94965
+  quickies: 75149
+  quizzes: 14488
+  quotes: 4158
+scored_words:
+  quadratures: 313345
+  quadrilles: 242533
+  quadruples: 183913
+  quagmires: 258947
+  quandaries: 168091
+  quarantines: 134604
+  quarterlies: 238486
+  quartiles: 109842
+  quashes: 243949
+  quenches: 149386
+  quiches: 151446
+  quinces: 157258
+  quires: 113976
+not_scored_words:
+- Quilmes
+- Quirites
+- quadrates
+- quadricepses
+- quadruplicates
+- quamashes
+- quarterstaves
+- quartzites
+- quaternaries
+- quaternities
+- quaysides
+- quietuses
+- quinacrines
+- quincentenaries
+- quines
+- quintessences
+- quintuples

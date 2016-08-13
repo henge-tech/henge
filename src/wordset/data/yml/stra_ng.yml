@@ -1,0 +1,24 @@
+---
+pattern: stra_ng
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 807328
+score_per_word: 80732
+hi_scored_words:
+  straddling: 59993
+  straggling: 91050
+  straightening: 35069
+  straining: 28035
+  stranding: 76809
+  strangling: 62079
+  strapping: 30604
+  straying: 58187
+scored_words:
+  strafing: 114520
+  stratifying: 250982
+not_scored_words:
+- straitening
+- straitjacketing
+- strangulating
+- strawing

@@ -1,0 +1,28 @@
+---
+pattern: padd_
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 18
+score: 685052
+score_per_word: 52696
+hi_scored_words:
+  padded: 15960
+  paddies: 89209
+  padding: 19888
+  paddle: 12527
+  paddled: 57311
+  paddler: 74223
+  paddlers: 70620
+  paddles: 28277
+  paddling: 21403
+  paddock: 25148
+  paddocks: 70071
+  paddy: 15930
+scored_words:
+  paddlefish: 184485
+not_scored_words:
+- Paddies
+- Paddy
+- paddleboard
+- paddocked
+- paddocking

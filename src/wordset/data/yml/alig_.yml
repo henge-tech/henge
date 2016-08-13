@@ -1,0 +1,24 @@
+---
+pattern: alig_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 978497
+score_per_word: 81541
+hi_scored_words:
+  alight: 35306
+  alighted: 88891
+  align: 13278
+  aligned: 10492
+  aligner: 82623
+  aligning: 25214
+  alignment: 17623
+  alignments: 32128
+  aligns: 48080
+scored_words:
+  alighting: 108595
+  alights: 234997
+  aligners: 281270
+not_scored_words:
+- Aligarh
+- Alighieri

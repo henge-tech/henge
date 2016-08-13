@@ -1,0 +1,42 @@
+---
+pattern: _chs
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 32
+score: 1183059
+score_per_word: 98588
+hi_scored_words:
+  chs: 24639
+  epochs: 48095
+  eunuchs: 70109
+  monarchs: 26689
+  oligarchs: 79191
+  patriarchs: 51244
+  stomachs: 37872
+  techs: 21136
+scored_words:
+  elasmobranchs: 298077
+  hierarchs: 195788
+  matriarchs: 186521
+  nudibranchs: 143698
+not_scored_words:
+- Czechs
+- Fuchs
+- Molechs
+- Molochs
+- Pesachs
+- Sachs
+- Sassenachs
+- Trossachs
+- amphibrachs
+- aurochs
+- conchs
+- coronachs
+- cromlechs
+- diptychs
+- distichs
+- lamellibranchs
+- pibrochs
+- psychs
+- scotchs
+- triptychs

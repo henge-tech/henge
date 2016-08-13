@@ -1,0 +1,75 @@
+---
+pattern: conc_s
+hi_scored_words_count: 19
+scored_words_count: 20
+total_words: 65
+score: 4560967
+score_per_word: 116947
+hi_scored_words:
+  conceals: 50670
+  concedes: 47617
+  conceives: 73871
+  concentrates: 23940
+  concentrations: 5647
+  concentrators: 76008
+  conceptions: 21882
+  concepts: 6529
+  concerns: 2612
+  concertos: 32154
+  concerts: 6789
+  concessions: 13674
+  concludes: 10647
+  conclusions: 4418
+  concoctions: 92360
+  concretes: 92800
+  concubines: 80790
+  concurs: 54030
+  concussions: 97682
+scored_words:
+  concatenates: 220427
+  concatenations: 310809
+  concealers: 123902
+  conceits: 121107
+  conceptualizations: 126883
+  conceptualizes: 260102
+  concertgoers: 267629
+  concertinas: 259648
+  concessionaires: 119320
+  conchas: 166097
+  concierges: 173397
+  conciliators: 237712
+  conciseness: 120761
+  concocts: 223670
+  concomitants: 129218
+  concordances: 111125
+  concourses: 196628
+  concreteness: 129206
+  concretions: 141849
+  concurrences: 327357
+not_scored_words:
+- Concords
+- concaveness
+- concavities
+- conceitedness
+- conceivabilities
+- conceivers
+- concenters
+- concentricities
+- conceptualisms
+- concertizes
+- concertmasters
+- concessioners
+- conchies
+- conchiferous
+- conchologies
+- conchs
+- conciliates
+- conciliatoriness
+- concinnous
+- conclaves
+- conclusiveness
+- concomitances
+- concordats
+- concretizes
+- concuss
+- concusses

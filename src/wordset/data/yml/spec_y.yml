@@ -1,0 +1,27 @@
+---
+pattern: spec_y
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 662647
+score_per_word: 55220
+hi_scored_words:
+  specially: 5836
+  specialty: 7807
+  specifically: 4202
+  specificity: 17584
+  specify: 8266
+  spectacularly: 45347
+  spectrometry: 26678
+  spectrophotometry: 78869
+  spectroscopy: 18106
+scored_words:
+  spectrally: 125000
+  spectroscopically: 183922
+  speculatively: 141030
+not_scored_words:
+- speciosity
+- speciously
+- spectrochemistry
+- spectrographically
+- spectrography

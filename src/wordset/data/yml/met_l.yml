@@ -1,0 +1,32 @@
+---
+pattern: met_l
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 22
+score: 867292
+score_per_word: 57819
+hi_scored_words:
+  metal: 1669
+  metallurgical: 33041
+  metaphorical: 35317
+  metaphysical: 16320
+  metatarsal: 63514
+  meteorological: 19771
+  methanol: 24699
+  methodical: 33979
+  methodological: 18269
+  methyl: 22118
+  metical: 54231
+  metrical: 49152
+scored_words:
+  metacarpal: 102109
+  meteoritical: 254877
+  meteorol: 138226
+not_scored_words:
+- Metamucil
+- Methodistical
+- metafictional
+- metathetical
+- methylal
+- metonymical
+- metropolitical

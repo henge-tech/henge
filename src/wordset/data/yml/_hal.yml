@@ -1,0 +1,53 @@
+---
+pattern: _hal
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 43
+score: 1936605
+score_per_word: 92219
+hi_scored_words:
+  apocryphal: 52783
+  azimuthal: 75837
+  betrothal: 85517
+  lethal: 19016
+  marshal: 10343
+  narwhal: 66783
+  neanderthal: 54641
+  paschal: 51106
+  patriarchal: 28419
+  seneschal: 85494
+  triumphal: 47674
+  wherewithal: 57741
+  withal: 36396
+scored_words:
+  catarrhal: 210581
+  epochal: 135235
+  hierarchal: 155074
+  matriarchal: 113596
+  nonlethal: 115774
+  nymphal: 230583
+  sublethal: 135599
+  therewithal: 168413
+not_scored_words:
+- Apocryphal
+- Funchal
+- Hal
+- Hofmannsthal
+- Imphal
+- Lilienthal
+- Marshal
+- Mughal
+- Neanderthal
+- Pentateuchal
+- Pentothal
+- Stendhal
+- Wiesenthal
+- bequeathal
+- burghal
+- heterolecithal
+- isolecithal
+- monachal
+- monarchal
+- pseudepigraphal
+- trochal
+- zenithal

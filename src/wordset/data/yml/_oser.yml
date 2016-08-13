@@ -1,0 +1,27 @@
+---
+pattern: _oser
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 17
+score: 1622977
+score_per_word: 115926
+hi_scored_words:
+  chooser: 63664
+  closer: 2806
+  composer: 6110
+  disposer: 94515
+  looser: 43039
+  loser: 13348
+  poser: 24900
+  proposer: 57168
+scored_words:
+  decomposer: 257993
+  discloser: 238483
+  exposer: 276808
+  imposer: 251308
+  opposer: 128116
+  transposer: 164719
+not_scored_words:
+- interposer
+- photocomposer
+- proser

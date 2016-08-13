@@ -1,0 +1,24 @@
+---
+pattern: _leys
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 609724
+score_per_word: 60972
+hi_scored_words:
+  alleys: 31747
+  baileys: 60782
+  galleys: 61362
+  leys: 83372
+  pulleys: 40344
+  smileys: 37843
+  trolleys: 36464
+  valleys: 12240
+  volleys: 77964
+scored_words:
+  medleys: 167606
+not_scored_words:
+- coleys
+- motleys
+- paisleys
+- parleys

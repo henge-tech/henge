@@ -1,0 +1,40 @@
+---
+pattern: trus_
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 30
+score: 1190181
+score_per_word: 70010
+hi_scored_words:
+  truss: 22321
+  trusses: 48140
+  trust: 861
+  trusted: 3593
+  trustee: 11063
+  trustees: 6530
+  trusteeship: 67932
+  trusting: 14443
+  trusts: 8331
+  trustworthiness: 47699
+  trustworthy: 16156
+  trusty: 26337
+scored_words:
+  trussed: 141473
+  trussing: 191954
+  trustful: 116814
+  trustfully: 258559
+  trustfulness: 207975
+not_scored_words:
+- trustbuster
+- trusteeships
+- truster
+- trustier
+- trusties
+- trustiest
+- trustily
+- trustiness
+- trustinesses
+- trustingly
+- trustless
+- trustworthier
+- trustworthiest

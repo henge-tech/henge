@@ -1,0 +1,38 @@
+---
+pattern: maj_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 28
+score: 1128681
+score_per_word: 66393
+hi_scored_words:
+  majestic: 10057
+  majestically: 82896
+  majesties: 73491
+  majesty: 7425
+  majolica: 56560
+  major: 1102
+  majordomo: 52042
+  majored: 56139
+  majoring: 31930
+  majorities: 45732
+  majority: 1784
+  majorly: 89655
+  majors: 18057
+scored_words:
+  majorette: 124075
+  majorettes: 213300
+  majoritarian: 124397
+  majuscule: 140039
+not_scored_words:
+- Maj
+- Majesty
+- Major
+- Majorca
+- Majorcan
+- Majunga
+- Majuro
+- majordomos
+- majoritarianism
+- majoritarians
+- majuscular

@@ -1,0 +1,25 @@
+---
+pattern: fear_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 797563
+score_per_word: 66463
+hi_scored_words:
+  fear: 1304
+  feared: 8128
+  fearful: 12695
+  fearfully: 49200
+  fearing: 18592
+  fearless: 21035
+  fearlessly: 64746
+  fearlessness: 91219
+  fears: 4775
+  fearsome: 36472
+scored_words:
+  fearfulness: 212265
+  fearsomely: 277132
+not_scored_words:
+- fearer
+- fearnought
+- fearsomeness

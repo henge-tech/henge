@@ -1,0 +1,45 @@
+---
+pattern: ref_es
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 35
+score: 2204820
+score_per_word: 122490
+hi_scored_words:
+  referees: 20403
+  references: 1342
+  refinances: 85509
+  refineries: 30286
+  refines: 73167
+  reflexes: 32047
+  refractories: 85488
+  refreshes: 56266
+  refugees: 7879
+  refuges: 47920
+  refuses: 10337
+  refutes: 64525
+scored_words:
+  reflectances: 250292
+  reflectivities: 317269
+  reflexives: 286899
+  refocuses: 282676
+  reformatories: 228790
+  refurbishes: 323725
+not_scored_words:
+- refaces
+- refectories
+- refiles
+- refinishes
+- reflates
+- reflexivenesses
+- reflexivities
+- refluxes
+- reforges
+- reformulates
+- refortifies
+- refractivenesses
+- refractivities
+- refractorinesses
+- refreezes
+- refrigerates
+- refurnishes

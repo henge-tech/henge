@@ -1,0 +1,25 @@
+---
+pattern: l_king
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 15
+score: 817160
+score_per_word: 62858
+hi_scored_words:
+  lacking: 6840
+  lawmaking: 95656
+  leaking: 21186
+  licking: 10220
+  liking: 10609
+  linking: 8286
+  locking: 10061
+  looking: 271
+  lovemaking: 40944
+  lurking: 21006
+scored_words:
+  larking: 159193
+  lawbreaking: 200965
+  lucking: 231923
+not_scored_words:
+- lipsticking
+- loansharking

@@ -1,0 +1,38 @@
+---
+pattern: g_nd
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 28
+score: 623893
+score_per_word: 44563
+hi_scored_words:
+  gangland: 62185
+  garland: 12583
+  girlfriend: 9111
+  gland: 14334
+  godsend: 51116
+  gourmand: 97044
+  grand: 998
+  grandstand: 33561
+  grassland: 23192
+  greyhound: 18902
+  grind: 10685
+  ground: 663
+scored_words:
+  gerund: 101311
+  greensand: 188208
+not_scored_words:
+- Gand
+- Garamond
+- Garland
+- Gelderland
+- Gond
+- Gondwanaland
+- Gotland
+- Graceland
+- Gravesend
+- Greenland
+- gavelkind
+- gazehound
+- gormand
+- graduand

@@ -1,0 +1,67 @@
+---
+pattern: poi_
+hi_scored_words_count: 22
+scored_words_count: 11
+total_words: 57
+score: 2646586
+score_per_word: 80199
+hi_scored_words:
+  poi: 25093
+  poignancy: 82701
+  poignant: 20007
+  poignantly: 95674
+  poinsettia: 63937
+  point: 233
+  pointed: 3002
+  pointedly: 58999
+  pointer: 10596
+  pointers: 15681
+  pointing: 4729
+  pointless: 19141
+  points: 673
+  pointy: 35242
+  poise: 33238
+  poised: 16650
+  poison: 5726
+  poisoned: 17323
+  poisoning: 11336
+  poisonings: 84323
+  poisonous: 15742
+  poisons: 26486
+scored_words:
+  poilu: 238730
+  poinciana: 119860
+  poinsettias: 126984
+  pointblank: 198602
+  pointedness: 325400
+  pointelle: 144923
+  pointillism: 208186
+  pointlessly: 140807
+  pointlessness: 190179
+  poising: 161893
+  poisoner: 144490
+not_scored_words:
+- Poincare
+- Poincaré
+- Poiret
+- Poirot
+- Poisson
+- Poitier
+- Poitiers
+- poignance
+- poignances
+- poikilotherm
+- poikilothermic
+- poilus
+- poincianas
+- pointier
+- pointiest
+- pointillist
+- pointillistic
+- pointillists
+- pointsman
+- pointsmen
+- poises
+- poisha
+- poisoners
+- poisonously

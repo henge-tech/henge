@@ -1,0 +1,35 @@
+---
+pattern: str_t
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 25
+score: 975892
+score_per_word: 54216
+hi_scored_words:
+  straight: 1248
+  strait: 10619
+  straitjacket: 99794
+  strangest: 29936
+  strategist: 36678
+  street: 420
+  streetlight: 76011
+  strict: 4465
+  strictest: 40954
+  strident: 49611
+  strikeout: 67740
+  stringent: 15981
+  strongest: 6875
+  structuralist: 88368
+  strut: 22284
+scored_words:
+  straightest: 171864
+  streamlet: 127968
+  strumpet: 125076
+not_scored_words:
+- straggliest
+- streakiest
+- stretchiest
+- stridulant
+- stringhalt
+- stringiest
+- stroppiest

@@ -1,0 +1,33 @@
+---
+pattern: ob_d
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 23
+score: 738611
+score_per_word: 49240
+hi_scored_words:
+  obeyed: 20553
+  obfuscated: 85399
+  objected: 15754
+  obligated: 15746
+  obliged: 7530
+  obliterated: 41808
+  obscured: 24146
+  observed: 1770
+  obsessed: 15708
+  obsoleted: 93708
+  obstructed: 36340
+  obtained: 1519
+scored_words:
+  objectified: 122839
+  obtruded: 139354
+  obviated: 116437
+not_scored_words:
+- Obad
+- Oberland
+- objurgated
+- obliqued
+- obovoid
+- obsolesced
+- obtund
+- obtunded

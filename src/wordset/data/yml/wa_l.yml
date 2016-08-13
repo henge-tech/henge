@@ -1,0 +1,34 @@
+---
+pattern: wa_l
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 24
+score: 1407837
+score_per_word: 93855
+hi_scored_words:
+  wagtail: 73596
+  wail: 31993
+  wall: 817
+  wassail: 98614
+  wasteful: 26643
+  watchful: 24513
+  waterfall: 14632
+  waterfowl: 27677
+  watermill: 78965
+scored_words:
+  wakeful: 127649
+  warrigal: 231779
+  wastrel: 160845
+  waterwheel: 133113
+  waxbill: 251597
+  waybill: 125404
+not_scored_words:
+- Waal
+- Wal
+- Wall
+- Walsall
+- Wankel
+- Warhol
+- wadmal
+- wailful
+- washbowl

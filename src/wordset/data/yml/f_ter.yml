@@ -1,0 +1,68 @@
+---
+pattern: f_ter
+hi_scored_words_count: 25
+scored_words_count: 9
+total_words: 58
+score: 2399152
+score_per_word: 70563
+hi_scored_words:
+  fainter: 26442
+  falter: 40266
+  faster: 2577
+  fatter: 47933
+  fester: 48331
+  fetter: 55552
+  fighter: 7775
+  filibuster: 26618
+  filter: 6462
+  firefighter: 18873
+  fitter: 31464
+  flatter: 22005
+  floater: 49085
+  flutter: 25006
+  footer: 19941
+  forecaster: 43564
+  forester: 26460
+  formatter: 76588
+  foster: 4190
+  frankfurter: 48011
+  frater: 90971
+  freebooter: 89313
+  freighter: 39288
+  freshwater: 17789
+  fritter: 91651
+scored_words:
+  feaster: 162441
+  firewater: 113477
+  flitter: 175805
+  floodwater: 109142
+  fluorometer: 198073
+  fluster: 211855
+  flyswatter: 245885
+  fraudster: 112945
+  frequenter: 113374
+not_scored_words:
+- Falster
+- Fathometer
+- Forester
+- Forster
+- Foster
+- Frankfurter
+- Fuzzbuster
+- faradmeter
+- fibster
+- filleter
+- fillister
+- firelighter
+- flaunter
+- fleeter
+- flouter
+- fluter
+- fluxmeter
+- fomenter
+- forequarter
+- forfeiter
+- fourposter
+- fretter
+- fruiter
+- frustrater

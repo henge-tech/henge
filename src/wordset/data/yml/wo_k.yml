@@ -1,0 +1,27 @@
+---
+pattern: wo_k
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 1070816
+score_per_word: 89234
+hi_scored_words:
+  wok: 30637
+  wonk: 83427
+  woodblock: 71104
+  woodchuck: 62139
+  woodcock: 37288
+  woodwork: 22790
+  work: 95
+  workbook: 28473
+  workweek: 64645
+scored_words:
+  womenfolk: 135132
+  woolpack: 237894
+  wordbook: 297192
+not_scored_words:
+- Woodstock
+- Wozniak
+- Wozzeck
+- wonderwork
+- woolsack

@@ -1,0 +1,28 @@
+---
+pattern: na_ed
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 18
+score: 645454
+score_per_word: 49650
+hi_scored_words:
+  nabbed: 56108
+  nailed: 18216
+  naked: 1796
+  named: 1223
+  narrated: 23001
+  narrowed: 17970
+  nationalized: 69565
+  naturalized: 37015
+  natured: 36532
+  nauseated: 94150
+  navigated: 57791
+scored_words:
+  nagged: 125758
+  napped: 106329
+not_scored_words:
+- nacred
+- napalmed
+- narcotized
+- nasalized
+- nattered

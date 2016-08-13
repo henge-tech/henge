@@ -1,0 +1,53 @@
+---
+pattern: mir_
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 43
+score: 1683037
+score_per_word: 73175
+hi_scored_words:
+  mir: 13172
+  miracle: 5418
+  miracles: 11091
+  miraculous: 16756
+  miraculously: 35248
+  mirador: 81691
+  mirage: 16033
+  mire: 35834
+  mired: 44995
+  mirror: 2680
+  mirrored: 21357
+  mirroring: 28663
+  mirrors: 6565
+  mirth: 29361
+  mirza: 37642
+scored_words:
+  mirages: 127629
+  mirepoix: 244262
+  mires: 106228
+  mirin: 159274
+  mirthful: 133193
+  mirthless: 110530
+  mirthlessly: 235294
+  miry: 180121
+not_scored_words:
+- MIRV
+- Mir
+- Mira
+- Mirabeau
+- Mirach
+- Miraflores
+- Miranda
+- Mirfak
+- Miriam
+- Miro
+- Mirzam
+- miracidium
+- miraculousness
+- mirier
+- miriest
+- miring
+- mirk
+- mirthfully
+- mirthfulness
+- mirthlessness

@@ -1,0 +1,22 @@
+---
+pattern: in_o
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 12
+score: 342013
+score_per_word: 34201
+hi_scored_words:
+  incognito: 33132
+  incommunicado: 75795
+  indigo: 13661
+  inferno: 18895
+  info: 4695
+  innuendo: 43747
+  intaglio: 70816
+  intermezzo: 72478
+  into: 74
+  intro: 8720
+scored_words: {}
+not_scored_words:
+- inamorato
+- internuncio

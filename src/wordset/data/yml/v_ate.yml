@@ -1,0 +1,43 @@
+---
+pattern: v_ate
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 33
+score: 1569423
+score_per_word: 87190
+hi_scored_words:
+  vacate: 33068
+  vaccinate: 52851
+  validate: 15586
+  venerate: 93435
+  ventilate: 66671
+  vertebrate: 27606
+  vibrate: 32040
+  vindicate: 51056
+  violate: 10303
+  vitiate: 91650
+  vulgate: 36324
+scored_words:
+  vacillate: 177409
+  valuate: 195396
+  vanadate: 136808
+  variate: 102743
+  vegetate: 162507
+  vicariate: 143836
+  virgate: 140134
+not_scored_words:
+- Vulgate
+- vaginate
+- valvate
+- variegate
+- vaticinate
+- velate
+- vellicate
+- vermiculate
+- verticillate
+- vesicate
+- vesiculate
+- virgulate
+- vituperate
+- vizierate
+- vociferate

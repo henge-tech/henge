@@ -1,0 +1,75 @@
+---
+pattern: sh_t
+hi_scored_words_count: 28
+scored_words_count: 9
+total_words: 65
+score: 2544414
+score_per_word: 68767
+hi_scored_words:
+  shaft: 6129
+  shallot: 64896
+  shalt: 11038
+  shan't: 52214
+  sharpest: 44693
+  shat: 55295
+  sheet: 2090
+  sherbet: 58678
+  shift: 3546
+  shipment: 11655
+  shipwright: 98545
+  shirt: 2115
+  shit: 6191
+  shoot: 2910
+  shootout: 20419
+  short: 385
+  shortcut: 16383
+  shortest: 11814
+  shortlist: 18336
+  shot: 1050
+  shouldn't: 2100
+  shouldst: 90124
+  shout: 6111
+  showboat: 75079
+  shrift: 75523
+  shunt: 28988
+  shut: 2471
+  shutout: 39565
+scored_words:
+  shakeout: 147557
+  shallowest: 164463
+  shiniest: 188235
+  shirtwaist: 277009
+  shittiest: 225822
+  shoat: 170612
+  shopfront: 180502
+  shoplift: 140782
+  shrewdest: 241089
+not_scored_words:
+- Shabbat
+- Shavuot
+- Shebat
+- Shevat
+- Shintoist
+- Short
+- Shreveport
+- shabbiest
+- shadiest
+- shadowiest
+- shaggiest
+- shakiest
+- shamanist
+- shapeliest
+- sheeniest
+- sheerest
+- shiest
+- shiftiest
+- shingliest
+- shirtfront
+- shirtiest
+- shoddiest
+- shortcrust
+- showiest
+- shpt
+- shrillest
+- shrubbiest
+- shyest

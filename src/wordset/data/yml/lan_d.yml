@@ -1,0 +1,26 @@
+---
+pattern: lan_d
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 510349
+score_per_word: 51034
+hi_scored_words:
+  land: 386
+  landed: 6223
+  landlocked: 41737
+  landlord: 7424
+  landscaped: 28397
+  landward: 68040
+  languid: 53997
+  languished: 74080
+  lanyard: 31926
+scored_words:
+  lanced: 198139
+not_scored_words:
+- Land
+- Langland
+- Langobard
+- lanceted
+- lancewood
+- landslid

@@ -1,0 +1,29 @@
+---
+pattern: c_ming
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 19
+score: 1284702
+score_per_word: 85646
+hi_scored_words:
+  calming: 24597
+  charming: 5020
+  chiming: 66434
+  claiming: 7315
+  coming: 504
+  confirming: 15380
+  conforming: 22489
+  consuming: 8586
+  costuming: 68819
+  cramming: 62345
+  cumming: 25608
+scored_words:
+  chroming: 340615
+  clamming: 217458
+  coaming: 302181
+  creaming: 117351
+not_scored_words:
+- caroming
+- chloroforming
+- chumming
+- counterclaiming

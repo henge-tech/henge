@@ -1,0 +1,42 @@
+---
+pattern: g_et
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 32
+score: 1740803
+score_per_word: 82895
+hi_scored_words:
+  gadget: 15797
+  gannet: 80856
+  garnet: 21521
+  garret: 34712
+  gasket: 22164
+  gauntlet: 22650
+  genet: 27525
+  get: 78
+  gibbet: 83263
+  gimlet: 99560
+  goblet: 17698
+  gourmet: 10539
+  greet: 11346
+  grommet: 59636
+  gullet: 71457
+  gusset: 52948
+scored_words:
+  giblet: 116362
+  gleet: 165803
+  gorget: 223757
+  groundsheet: 265367
+  gutbucket: 337764
+not_scored_words:
+- Genet
+- Glenlivet
+- gablet
+- gantlet
+- garget
+- gobbet
+- goglet
+- greenlet
+- grivet
+- grummet
+- gurglet

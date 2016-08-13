@@ -1,0 +1,21 @@
+---
+pattern: wres_
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 11
+score: 495309
+score_per_word: 49530
+hi_scored_words:
+  wrest: 48185
+  wrested: 92657
+  wrester: 61632
+  wresting: 86504
+  wrestle: 22860
+  wrestled: 42020
+  wrestler: 24443
+  wrestlers: 30198
+  wrestles: 80591
+  wrestling: 6219
+scored_words: {}
+not_scored_words:
+- wrests

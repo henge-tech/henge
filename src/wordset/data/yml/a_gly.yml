@@ -1,0 +1,35 @@
+---
+pattern: a_gly
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 25
+score: 1665115
+score_per_word: 104069
+hi_scored_words:
+  accordingly: 4052
+  admiringly: 97837
+  alarmingly: 63547
+  amazingly: 14430
+  amusingly: 83761
+  annoyingly: 65285
+  approvingly: 70415
+  astonishingly: 46099
+scored_words:
+  absorbingly: 231606
+  accusingly: 167663
+  achingly: 119367
+  adoringly: 209449
+  agonizingly: 161264
+  appallingly: 105471
+  appealingly: 124381
+  astoundingly: 100488
+not_scored_words:
+- abidingly
+- accommodatingly
+- admonishingly
+- affectingly
+- aggravatingly
+- alluringly
+- appetizingly
+- appraisingly
+- aspiringly

@@ -1,0 +1,22 @@
+---
+pattern: _cess
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 499567
+score_per_word: 49956
+hi_scored_words:
+  abscess: 30908
+  access: 436
+  cess: 37388
+  excess: 3427
+  princess: 2759
+  process: 609
+  recess: 13762
+  success: 834
+scored_words:
+  precess: 245452
+  reprocess: 163992
+not_scored_words:
+- nonsuccess
+- unsuccess

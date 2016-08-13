@@ -1,0 +1,33 @@
+---
+pattern: acc_t
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 23
+score: 1515693
+score_per_word: 89158
+hi_scored_words:
+  accent: 5746
+  accept: 1175
+  accident: 2473
+  accompaniment: 15641
+  accompanist: 59736
+  accomplishment: 14348
+  account: 295
+  accountant: 13582
+  accredit: 81484
+  acct: 29282
+scored_words:
+  accelerant: 243087
+  acceptant: 201612
+  accordant: 185540
+  accordionist: 119727
+  accost: 132447
+  accouchement: 164181
+  accoutrement: 245337
+not_scored_words:
+- accommodationist
+- accompanyist
+- accouplement
+- accouterment
+- accrescent
+- accumbent

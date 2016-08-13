@@ -1,0 +1,41 @@
+---
+pattern: subs_s
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 31
+score: 1430420
+score_per_word: 57216
+hi_scored_words:
+  subscribers: 7571
+  subscribes: 45229
+  subscriptions: 8422
+  subscripts: 54097
+  subsections: 29485
+  subseries: 83592
+  subsets: 22573
+  subsides: 57206
+  subsidiaries: 10660
+  subsidies: 12500
+  subsists: 96052
+  subspaces: 72196
+  subspecies: 29066
+  substances: 4301
+  substations: 68519
+  substitutes: 17564
+  substitutions: 23153
+  substrates: 18906
+  subsystems: 26826
+scored_words:
+  subsequences: 161504
+  subsidizes: 113490
+  substantiates: 128792
+  substantives: 115523
+  substructures: 111064
+  subsumes: 112129
+not_scored_words:
+- subserves
+- subshrubs
+- subsidiarities
+- subsidizers
+- substantiations
+- subsumptions

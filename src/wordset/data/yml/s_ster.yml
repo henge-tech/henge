@@ -1,0 +1,35 @@
+---
+pattern: s_ster
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 25
+score: 1606356
+score_per_word: 100397
+hi_scored_words:
+  schoolmaster: 52780
+  scoutmaster: 90493
+  semester: 7130
+  sequester: 80869
+  sinister: 12799
+  sister: 1437
+  speedster: 67873
+  spinster: 38054
+  sportscaster: 92978
+  stepsister: 87026
+scored_words:
+  sandblaster: 285375
+  shipmaster: 141360
+  shyster: 185752
+  songster: 144014
+  spymaster: 169412
+  stationmaster: 149004
+not_scored_words:
+- Silvester
+- Sister
+- StairMaster
+- Sylvester
+- sophister
+- sou'wester
+- southeaster
+- southwester
+- suggester

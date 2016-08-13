@@ -1,0 +1,46 @@
+---
+pattern: slip_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 36
+score: 1991184
+score_per_word: 99559
+hi_scored_words:
+  slip: 3499
+  slipcase: 88767
+  slipcovers: 95199
+  slipknot: 15438
+  slippage: 52930
+  slipped: 8115
+  slipper: 22660
+  slippers: 13553
+  slippery: 12889
+  slipping: 13685
+  slippy: 73461
+  slips: 11529
+  slipstream: 60142
+scored_words:
+  slipcases: 270990
+  slipcover: 104239
+  slippages: 316410
+  slipperiness: 263117
+  slipshod: 127236
+  slipstreaming: 309237
+  slipway: 128088
+not_scored_words:
+- slipknots
+- slipnoose
+- slipover
+- slipovers
+- slipperier
+- slipperiest
+- slipperwort
+- slipperworts
+- slippier
+- slippiest
+- slipsheet
+- slipslop
+- slipstreams
+- slipup
+- slipups
+- slipways

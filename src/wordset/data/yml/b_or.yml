@@ -1,0 +1,30 @@
+---
+pattern: b_or
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1119776
+score_per_word: 79984
+hi_scored_words:
+  bachelor: 5348
+  backdoor: 26468
+  behavior: 2971
+  benefactor: 28926
+  bettor: 83968
+  bicolor: 62708
+  bioreactor: 84230
+  boor: 61196
+  bor: 33081
+scored_words:
+  bailor: 225865
+  belabor: 136675
+  biosensor: 101663
+  bisector: 159518
+  blackamoor: 107159
+not_scored_words:
+- Bangor
+- Baylor
+- Bogor
+- barrator
+- brachiator
+- buccinator

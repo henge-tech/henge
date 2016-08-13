@@ -1,0 +1,48 @@
+---
+pattern: mon_es
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 38
+score: 2416288
+score_per_word: 134238
+hi_scored_words:
+  monarchies: 69013
+  monasteries: 27711
+  monies: 21000
+  monocytes: 46195
+  monologues: 42055
+  monopolies: 31688
+  montages: 79060
+  montes: 47116
+scored_words:
+  moneyboxes: 319325
+  mongooses: 281720
+  monopoles: 122479
+  monopolizes: 302740
+  monosaccharides: 141073
+  monosyllables: 212628
+  monotones: 187258
+  monotypes: 242265
+  monstrosities: 113234
+  monthlies: 129728
+not_scored_words:
+- Monegasques
+- Monopolies
+- monandries
+- monases
+- monazites
+- monetizes
+- mongoes
+- mongrelizes
+- monkeyshines
+- monochromes
+- monocles
+- monocycles
+- monodies
+- monogeneses
+- monogynies
+- monolatries
+- monoplanes
+- monoxides
+- monstrances
+- monumentalizes

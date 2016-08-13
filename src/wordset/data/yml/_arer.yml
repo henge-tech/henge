@@ -1,0 +1,48 @@
+---
+pattern: _arer
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 38
+score: 2038376
+score_per_word: 97065
+hi_scored_words:
+  bearer: 17463
+  carer: 29528
+  clearer: 10542
+  dearer: 70820
+  declarer: 81669
+  hearer: 61297
+  nearer: 11876
+  preparer: 64522
+  rarer: 41275
+  seafarer: 78680
+  sharer: 82425
+  shearer: 29364
+  wayfarer: 57139
+  wearer: 28876
+scored_words:
+  barer: 124923
+  comparer: 125387
+  pallbearer: 168731
+  parer: 176085
+  sparer: 306541
+  swearer: 286482
+  torchbearer: 184751
+not_scored_words:
+- cellarer
+- cupbearer
+- darer
+- ensnarer
+- farer
+- fearer
+- forbearer
+- livebearer
+- roarer
+- spearer
+- squarer
+- starer
+- talebearer
+- tearer
+- trainbearer
+- unclearer
+- vulgarer

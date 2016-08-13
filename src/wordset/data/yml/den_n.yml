@@ -1,0 +1,25 @@
+---
+pattern: den_n
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 857201
+score_per_word: 77927
+hi_scored_words:
+  denaturation: 68924
+  denigration: 93553
+  denitrification: 84313
+  denizen: 79246
+  denomination: 17190
+  denotation: 74197
+  dentin: 69271
+  dentition: 78406
+  denunciation: 42665
+scored_words:
+  denationalization: 126636
+  denudation: 122800
+not_scored_words:
+- Denton
+- denegation
+- dentation
+- denticulation

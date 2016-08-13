@@ -1,0 +1,37 @@
+---
+pattern: w_o
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 27
+score: 1303451
+score_per_word: 81465
+hi_scored_words:
+  wacko: 47730
+  wahoo: 44866
+  waldo: 24205
+  waterloo: 10092
+  wazoo: 96180
+  weirdo: 37667
+  who: 54
+  whoso: 80020
+  wino: 87239
+  wo: 7262
+  woo: 10884
+scored_words:
+  wallaroo: 139782
+  wendigo: 144517
+  whereto: 149075
+  whereunto: 146994
+  windigo: 276884
+not_scored_words:
+- WHO
+- WTO
+- Waco
+- Waldo
+- Waterloo
+- Wilfredo
+- Winnebago
+- Wirephoto
+- Wyo
+- wanderoo
+- whereinto

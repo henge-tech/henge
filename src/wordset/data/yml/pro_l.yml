@@ -1,0 +1,46 @@
+---
+pattern: pro_l
+hi_scored_words_count: 20
+scored_words_count: 3
+total_words: 36
+score: 1245437
+score_per_word: 54149
+hi_scored_words:
+  problematical: 72941
+  procedural: 11457
+  processional: 81735
+  prodigal: 29713
+  professional: 1292
+  professorial: 74266
+  promotional: 10249
+  pronominal: 91862
+  propel: 31731
+  proportional: 10878
+  proposal: 2480
+  propositional: 41008
+  protocol: 9453
+  prototypical: 55612
+  proverbial: 27234
+  providential: 75848
+  provincial: 4913
+  provisional: 10078
+  prowl: 38023
+  proximal: 22395
+scored_words:
+  proconsul: 121447
+  prophetical: 227711
+  protozoal: 193111
+not_scored_words:
+- Provencal
+- Provençal
+- probational
+- procathedral
+- proclerical
+- procreational
+- proctorial
+- progenitorial
+- progestational
+- propaedeutical
+- proprietorial
+- prosodical
+- prototypal

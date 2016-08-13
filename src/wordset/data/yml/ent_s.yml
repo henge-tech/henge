@@ -1,0 +1,67 @@
+---
+pattern: ent_s
+hi_scored_words_count: 19
+scored_words_count: 16
+total_words: 57
+score: 3629183
+score_per_word: 103690
+hi_scored_words:
+  entails: 21591
+  entanglements: 76545
+  enteritis: 69704
+  enterprises: 3776
+  enters: 6224
+  entertainers: 26916
+  entertainments: 33860
+  entertains: 48790
+  enthusiasts: 13886
+  entities: 10300
+  entitlements: 23924
+  entitles: 39768
+  entrails: 49999
+  entrances: 23946
+  entrants: 20807
+  entreaties: 80538
+  entrees: 44086
+  entrepreneurs: 8237
+  entries: 5301
+scored_words:
+  entangles: 280055
+  entasis: 165322
+  enterovirus: 133481
+  enteroviruses: 180737
+  enthalpies: 159014
+  enthralls: 326162
+  enthuses: 208899
+  enthusiasms: 112441
+  enticements: 177873
+  entices: 114446
+  entomologists: 123210
+  entreats: 242438
+  entrenches: 293523
+  entrenchments: 201900
+  entrusts: 140476
+  entryways: 161008
+not_scored_words:
+- entablatures
+- entellus
+- entelluses
+- ententes
+- enterons
+- enterprisers
+- enthronements
+- enthrones
+- entoblasts
+- entoderms
+- entombs
+- entomophagous
+- entomophilous
+- entourages
+- entrains
+- entranceways
+- entraps
+- entremets
+- entrepots
+- entryphones
+- entrées
+- entwines

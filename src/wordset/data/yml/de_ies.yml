@@ -1,0 +1,57 @@
+---
+pattern: de_ies
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 47
+score: 2276619
+score_per_word: 94859
+hi_scored_words:
+  deficiencies: 13254
+  defies: 35273
+  deformities: 47352
+  deities: 20474
+  delicacies: 43091
+  delinquencies: 99059
+  deliveries: 11193
+  democracies: 26319
+  denies: 12684
+  densities: 18790
+  dependencies: 16634
+  depositories: 67335
+  deputies: 18639
+  destinies: 47545
+scored_words:
+  deaneries: 190077
+  debaucheries: 179431
+  decencies: 125859
+  declivities: 142810
+  decries: 101735
+  degeneracies: 257414
+  demystifies: 191899
+  depilatories: 217172
+  derbies: 132297
+  detoxifies: 260283
+not_scored_words:
+- dearies
+- debilities
+- decalcifies
+- decennaries
+- declassifies
+- dehumidifies
+- deifies
+- delectabilities
+- delegacies
+- demonolatries
+- demonologies
+- demonstrabilities
+- demulsifies
+- denazifies
+- denitrifies
+- depravities
+- descries
+- detergencies
+- devilries
+- deviltries
+- devitrifies
+- dewberries
+- dextralities

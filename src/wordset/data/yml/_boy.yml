@@ -1,0 +1,45 @@
+---
+pattern: _boy
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 35
+score: 2680481
+score_per_word: 121840
+hi_scored_words:
+  attaboy: 93719
+  boy: 627
+  cowboy: 8384
+  doughboy: 83893
+  fanboy: 32239
+  homeboy: 63986
+  newsboy: 96134
+  paperboy: 79712
+  playboy: 12201
+  schoolboy: 32756
+  tomboy: 50999
+scored_words:
+  bellboy: 105787
+  busboy: 134427
+  callboy: 205828
+  carboy: 108940
+  choirboy: 230561
+  highboy: 275952
+  houseboy: 227171
+  lowboy: 225344
+  pageboy: 177555
+  poorboy: 187782
+  tallboy: 246484
+not_scored_words:
+- Playboy
+- ballboy
+- bullyboy
+- copyboy
+- footboy
+- hautboy
+- linkboy
+- maccaboy
+- plowboy
+- postboy
+- potboy
+- stableboy
+- toyboy

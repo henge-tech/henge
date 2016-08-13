@@ -1,0 +1,42 @@
+---
+pattern: wol_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 32
+score: 1715814
+score_per_word: 114387
+hi_scored_words:
+  wold: 36971
+  wolds: 98047
+  wolf: 3876
+  wolfhound: 78011
+  wolfram: 24541
+  wolfs: 98099
+  wolverine: 19182
+  wolverines: 29323
+  wolves: 8476
+scored_words:
+  wolfed: 278670
+  wolfhounds: 230978
+  wolfing: 212217
+  wolfish: 131686
+  wolfsbane: 247893
+  wollastonite: 217844
+not_scored_words:
+- Wolf
+- Wolfe
+- Wolff
+- Wolfgang
+- Wollaston
+- Wollongong
+- Wollstonecraft
+- Wolof
+- Wolofs
+- Wolsey
+- Wolverhampton
+- wolffish
+- wolfishly
+- wolframite
+- wolframites
+- wolfsbanes
+- wolver

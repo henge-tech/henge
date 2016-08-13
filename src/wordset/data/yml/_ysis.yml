@@ -1,0 +1,63 @@
+---
+pattern: _ysis
+hi_scored_words_count: 17
+scored_words_count: 11
+total_words: 53
+score: 2737850
+score_per_word: 97780
+hi_scored_words:
+  analysis: 1780
+  catalysis: 34202
+  cryptanalysis: 76589
+  dialysis: 20616
+  electrolysis: 32939
+  glycolysis: 69034
+  hemodialysis: 46411
+  hemolysis: 77158
+  hydrolysis: 27871
+  lysis: 44802
+  paralysis: 17347
+  photolysis: 87704
+  proteolysis: 68578
+  psychoanalysis: 25811
+  pyrolysis: 64453
+  reanalysis: 83370
+  urinalysis: 60201
+scored_words:
+  apophysis: 130564
+  autolysis: 152499
+  cytolysis: 221978
+  diaphysis: 285545
+  electrodialysis: 269144
+  epiphysis: 155393
+  fibrinolysis: 102422
+  hypophysis: 186576
+  lipolysis: 123149
+  microanalysis: 107045
+  symphysis: 164669
+not_scored_words:
+- amylolysis
+- atmolysis
+- autocatalysis
+- bacteriolysis
+- biolysis
+- chromatolysis
+- cryptoanalysis
+- diapophysis
+- ecdysis
+- electroanalysis
+- enzymolysis
+- frontolysis
+- heterolysis
+- histolysis
+- hydrogenolysis
+- hypnoanalysis
+- karyolysis
+- narcoanalysis
+- ozonolysis
+- plasmolysis
+- solvolysis
+- thermolysis
+- uranalysis
+- zygapophysis
+- zymolysis

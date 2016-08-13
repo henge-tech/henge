@@ -1,0 +1,42 @@
+---
+pattern: rud_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 32
+score: 1695712
+score_per_word: 99747
+hi_scored_words:
+  rudd: 35918
+  rudder: 22024
+  ruddock: 66833
+  ruddy: 31633
+  rude: 6050
+  rudely: 35038
+  rudeness: 46772
+  ruder: 85869
+  rudimentary: 26085
+  rudiments: 49835
+scored_words:
+  rudbeckia: 151694
+  rudderless: 187800
+  rudders: 102653
+  ruddle: 194626
+  rudds: 341660
+  rudest: 133509
+  rudiment: 177713
+not_scored_words:
+- Rudolf
+- Rudolph
+- Rudy
+- Rudyard
+- rudderhead
+- rudderpost
+- rudderposts
+- ruddier
+- ruddiest
+- ruddily
+- ruddiness
+- ruddled
+- ruddles
+- ruddling
+- ruderal

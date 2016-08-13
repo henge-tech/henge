@@ -1,0 +1,41 @@
+---
+pattern: crus_
+hi_scored_words_count: 20
+scored_words_count: 3
+total_words: 31
+score: 1427805
+score_per_word: 62078
+hi_scored_words:
+  crus: 70461
+  crusade: 13999
+  crusader: 28358
+  crusaders: 25957
+  crusades: 30831
+  crusading: 75756
+  cruse: 68359
+  crush: 7090
+  crushed: 8065
+  crusher: 31110
+  crushers: 61577
+  crushes: 41078
+  crushing: 13698
+  crust: 14578
+  crustacean: 54917
+  crustaceans: 47240
+  crustal: 47732
+  crusted: 55958
+  crusts: 50896
+  crusty: 33811
+scored_words:
+  cruses: 245881
+  crushingly: 236334
+  crusting: 164119
+not_scored_words:
+- Crusoe
+- crusaded
+- crusado
+- crustaceous
+- crustier
+- crustiest
+- crustily
+- crustiness

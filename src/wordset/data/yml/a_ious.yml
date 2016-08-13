@@ -1,0 +1,25 @@
+---
+pattern: a_ious
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 15
+score: 633249
+score_per_word: 57568
+hi_scored_words:
+  acrimonious: 69383
+  adventitious: 76156
+  ambitious: 7690
+  amphibious: 29712
+  anxious: 6624
+  arsenious: 84261
+  atrocious: 30902
+  audacious: 33818
+  auspicious: 30608
+  avaricious: 82387
+scored_words:
+  abstemious: 181708
+not_scored_words:
+- adscititious
+- ambagious
+- antireligious
+- atrabilious

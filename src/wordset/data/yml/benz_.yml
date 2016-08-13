@@ -1,0 +1,32 @@
+---
+pattern: benz_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 22
+score: 1835675
+score_per_word: 131119
+hi_scored_words:
+  benzene: 30134
+  benzine: 82994
+  benzoate: 61546
+  benzoic: 67085
+  benzoin: 94444
+  benzol: 74596
+  benzoyl: 63186
+  benzyl: 59176
+scored_words:
+  benzaldehyde: 142284
+  benzidine: 176003
+  benzoates: 310886
+  benzocaine: 155443
+  benzofurans: 325363
+  benzophenone: 192535
+not_scored_words:
+- Benz
+- Benzedrine
+- Benzedrines
+- benzocaines
+- benzofuran
+- benzoins
+- benzols
+- benzyls

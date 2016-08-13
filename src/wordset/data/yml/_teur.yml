@@ -1,0 +1,23 @@
+---
+pattern: _teur
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 726899
+score_per_word: 72689
+hi_scored_words:
+  amateur: 3825
+  auteur: 38073
+  hauteur: 78211
+  provocateur: 53537
+  raconteur: 98304
+  rapporteur: 37907
+  restaurateur: 66271
+  saboteur: 67136
+scored_words:
+  colporteur: 183320
+  litterateur: 100315
+not_scored_words:
+- Pasteur
+- frotteur
+- littérateur

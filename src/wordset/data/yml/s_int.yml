@@ -1,0 +1,24 @@
+---
+pattern: s_int
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 673783
+score_per_word: 67378
+hi_scored_words:
+  saint: 1999
+  skinflint: 69808
+  skint: 72839
+  spearmint: 56114
+  splint: 46819
+  sprint: 9358
+  squint: 46321
+  standpoint: 13169
+  stint: 21985
+scored_words:
+  silverpoint: 335371
+not_scored_words:
+- Septuagint
+- Sprint
+- suint
+- surprint

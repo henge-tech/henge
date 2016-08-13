@@ -1,0 +1,70 @@
+---
+pattern: s_id
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 60
+score: 2291061
+score_per_word: 84854
+hi_scored_words:
+  said: 101
+  sayyid: 61384
+  schizoid: 79357
+  sigmoid: 60783
+  skid: 20207
+  slid: 14259
+  solenoid: 30191
+  solid: 1665
+  sordid: 32607
+  spheroid: 80461
+  splendid: 7921
+  squalid: 59062
+  squid: 13430
+  staid: 44218
+  steroid: 16216
+  stolid: 87392
+  stupid: 2713
+  superfluid: 99336
+scored_words:
+  sangfroid: 167713
+  sapid: 211460
+  sarcoid: 212087
+  scaphoid: 143839
+  semiarid: 102192
+  semisolid: 187338
+  sinusoid: 147709
+  spermatid: 303344
+  sphenoid: 104076
+not_scored_words:
+- Safavid
+- Sassanid
+- Seleucid
+- Sid
+- Sigrid
+- saccharoid
+- salmonoid
+- saturniid
+- scarabaeid
+- scarabaeoid
+- schoolkid
+- scincoid
+- sciuroid
+- scolopendrid
+- scorpaenid
+- scorpaenoid
+- semifluid
+- semiliquid
+- semirigid
+- sepaloid
+- serranid
+- sialoid
+- silurid
+- sparid
+- sparoid
+- spermatozoid
+- sphygmoid
+- spiroid
+- subacid
+- subarid
+- subtorrid
+- suspensoid
+- sylphid

@@ -1,0 +1,31 @@
+---
+pattern: g_sly
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 21
+score: 396112
+score_per_word: 49514
+hi_scored_words:
+  generously: 16970
+  gloriously: 47480
+  gorgeously: 79505
+  graciously: 33227
+  gratuitously: 63334
+  grievously: 83033
+  grisly: 48529
+  grossly: 24034
+scored_words: {}
+not_scored_words:
+- garrulously
+- geosynchronously
+- gibbously
+- glamorously
+- glutinously
+- gluttonously
+- godlessly
+- gormlessly
+- gracelessly
+- gregariously
+- groundlessly
+- guilelessly
+- guiltlessly

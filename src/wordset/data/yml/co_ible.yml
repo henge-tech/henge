@@ -1,0 +1,32 @@
+---
+pattern: co_ible
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 22
+score: 1030140
+score_per_word: 85845
+hi_scored_words:
+  collapsible: 44269
+  collectible: 17074
+  combustible: 28827
+  compatible: 5917
+  comprehensible: 36768
+  compressible: 58763
+  contemptible: 47710
+  convertible: 13573
+scored_words:
+  comestible: 341679
+  constructible: 151428
+  contractible: 177037
+  corruptible: 107095
+not_scored_words:
+- coercible
+- compossible
+- comprehendible
+- condensible
+- conductible
+- contemnible
+- controvertible
+- corrigible
+- corrodible
+- corrosible

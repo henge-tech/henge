@@ -1,0 +1,33 @@
+---
+pattern: pro_ted
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 23
+score: 1373659
+score_per_word: 68682
+hi_scored_words:
+  profited: 50975
+  prohibited: 5134
+  projected: 5381
+  proliferated: 78577
+  promoted: 14354
+  prompted: 8092
+  promulgated: 20245
+  propagated: 28171
+  prorated: 64646
+  prosecuted: 17880
+  prostrated: 75636
+  protected: 2459
+  protested: 16385
+  protracted: 27963
+scored_words:
+  probated: 118007
+  procrastinated: 135865
+  pronated: 116615
+  propitiated: 242521
+  prospected: 232275
+  prostituted: 112478
+not_scored_words:
+- procreated
+- prognosticated
+- proselyted

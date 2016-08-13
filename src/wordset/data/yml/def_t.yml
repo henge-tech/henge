@@ -1,0 +1,32 @@
+---
+pattern: def_t
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 22
+score: 1120481
+score_per_word: 62248
+hi_scored_words:
+  default: 4791
+  defeat: 4417
+  defeatist: 99288
+  defect: 6509
+  defendant: 6408
+  deferment: 57435
+  defiant: 21430
+  deficient: 12488
+  deficit: 8987
+  defilement: 72096
+  deflect: 39841
+  deforest: 73074
+  defrost: 45739
+  deft: 39591
+  defunct: 24167
+scored_words:
+  defacement: 123279
+  deferent: 214858
+  defoliant: 266083
+not_scored_words:
+- deffest
+- deflationist
+- defrayment
+- deftest

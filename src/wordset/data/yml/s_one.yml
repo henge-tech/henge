@@ -1,0 +1,36 @@
+---
+pattern: s_one
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 26
+score: 843590
+score_per_word: 49622
+hi_scored_words:
+  sandstone: 14737
+  saxophone: 15898
+  scone: 47215
+  shinbone: 75967
+  shone: 18696
+  silicone: 13196
+  siltstone: 95613
+  smartphone: 10147
+  soapstone: 67894
+  someone: 1171
+  sone: 51617
+  speakerphone: 37677
+  standalone: 17360
+  stone: 1121
+  sunstone: 95824
+scored_words:
+  semitone: 104532
+  sousaphone: 174925
+not_scored_words:
+- Saone
+- Shoshone
+- Simone
+- Stallone
+- Stone
+- sarrusophone
+- steppingstone
+- stinkstone
+- sulphone

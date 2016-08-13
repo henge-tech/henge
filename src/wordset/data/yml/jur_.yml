@@ -1,0 +1,41 @@
+---
+pattern: jur_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 31
+score: 1231495
+score_per_word: 68416
+hi_scored_words:
+  jura: 32554
+  juridical: 54456
+  juries: 31669
+  jurisdiction: 4335
+  jurisdictional: 27720
+  jurisdictions: 17935
+  jurisprudence: 19241
+  jurist: 32971
+  jurists: 50796
+  juror: 31435
+  jurors: 21491
+  jury: 4064
+scored_words:
+  jurat: 172358
+  jurisconsult: 162895
+  jurisprudential: 175007
+  juristic: 121910
+  juryman: 158687
+  jurymen: 111971
+not_scored_words:
+- Jura
+- Jurassic
+- Jurua
+- jural
+- juratory
+- jurel
+- juridic
+- juridically
+- jurisp
+- jurisprudent
+- juristical
+- jurywoman
+- jurywomen

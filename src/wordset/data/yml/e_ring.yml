@@ -1,0 +1,38 @@
+---
+pattern: e_ring
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 28
+score: 1526249
+score_per_word: 76312
+hi_scored_words:
+  earing: 86421
+  earring: 18642
+  electioneering: 75927
+  empowering: 24385
+  encountering: 28581
+  endangering: 41718
+  endearing: 32393
+  endeavoring: 66337
+  enduring: 11098
+  engendering: 89882
+  engineering: 3632
+  ensuring: 5594
+  entering: 2926
+  erring: 72192
+  expiring: 25459
+  exploring: 6463
+scored_words:
+  embroidering: 114061
+  enciphering: 335822
+  encumbering: 204727
+  ensnaring: 279989
+not_scored_words:
+- embittering
+- embowering
+- enamoring
+- encoring
+- enrapturing
+- enuring
+- espaliering
+- euchring

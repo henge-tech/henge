@@ -1,0 +1,21 @@
+---
+pattern: sub_ies
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 11
+score: 345299
+score_per_word: 43162
+hi_scored_words:
+  subcategories: 34466
+  subdirectories: 57105
+  subfamilies: 71602
+  subseries: 83592
+  subsidiaries: 10660
+  subsidies: 12500
+  subspecies: 29066
+  subtleties: 46308
+scored_words: {}
+not_scored_words:
+- subnormalities
+- subsidiarities
+- subtreasuries

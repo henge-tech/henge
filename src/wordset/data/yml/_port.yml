@@ -1,0 +1,48 @@
+---
+pattern: _port
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 38
+score: 1857955
+score_per_word: 68813
+hi_scored_words:
+  airport: 4960
+  carport: 59326
+  comport: 67338
+  davenport: 15242
+  deport: 47809
+  export: 4660
+  gosport: 51733
+  heliport: 60860
+  import: 3895
+  passport: 6617
+  port: 1324
+  purport: 32957
+  rapport: 19095
+  report: 406
+  seaport: 25722
+  spaceport: 69833
+  sport: 1698
+  support: 258
+  teleport: 35631
+  transport: 2387
+scored_words:
+  bloodsport: 136511
+  disport: 156118
+  jetport: 147032
+  outport: 244432
+  reexport: 215855
+  reimport: 246645
+  spoilsport: 199611
+not_scored_words:
+- Bridgeport
+- Davenport
+- Newport
+- Port
+- Rappaport
+- Shreveport
+- Southport
+- Stockport
+- aport
+- misreport
+- nonsupport

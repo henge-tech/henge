@@ -1,0 +1,41 @@
+---
+pattern: co_nces
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 31
+score: 2232793
+score_per_word: 101490
+hi_scored_words:
+  coincidences: 45819
+  commences: 25455
+  competences: 49592
+  condolences: 28182
+  conferences: 5040
+  confidences: 71269
+  consciences: 51872
+  consequences: 3085
+  contrivances: 98778
+  conveniences: 31961
+  conveyances: 64103
+  convinces: 38479
+  correspondences: 48406
+scored_words:
+  concordances: 111125
+  concurrences: 327357
+  confluences: 216359
+  congruences: 160949
+  continuances: 195043
+  convergences: 159405
+  countenances: 115829
+  counterbalances: 275706
+  covariances: 108979
+not_scored_words:
+- comeuppances
+- concomitances
+- consistences
+- consonances
+- contradances
+- convalescences
+- convenances
+- conversances
+- covalences

@@ -1,0 +1,39 @@
+---
+pattern: n_ry
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 29
+score: 1302277
+score_per_word: 100175
+hi_scored_words:
+  nary: 48575
+  necessary: 611
+  negatory: 81542
+  neuropsychiatry: 97235
+  neurosurgery: 30168
+  nondiscriminatory: 83470
+  notary: 19735
+  nunnery: 51581
+  nursery: 6004
+scored_words:
+  noncontributory: 330429
+  nondelivery: 253703
+  nonmilitary: 135996
+  nugatory: 163228
+not_scored_words:
+- Newry
+- napery
+- naseberry
+- natatory
+- necrolatry
+- nonary
+- nondairy
+- nondisciplinary
+- nonhereditary
+- noninflammatory
+- noninflationary
+- nonliterary
+- nonmigratory
+- nonobligatory
+- numerary
+- nummary

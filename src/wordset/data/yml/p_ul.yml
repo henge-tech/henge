@@ -1,0 +1,35 @@
+---
+pattern: p_ul
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 25
+score: 847265
+score_per_word: 65174
+hi_scored_words:
+  painful: 4849
+  peaceful: 4990
+  pitiful: 24465
+  playful: 13873
+  plentiful: 21909
+  powerful: 1428
+  prayerful: 77658
+  pul: 51304
+  purposeful: 33617
+scored_words:
+  plateful: 256846
+  pocketful: 111948
+  prideful: 122931
+  proconsul: 121447
+not_scored_words:
+- Paul
+- pageful
+- pailful
+- panful
+- peepul
+- picul
+- pilpul
+- pipeful
+- pitcherful
+- pleasureful
+- potful
+- prestigeful

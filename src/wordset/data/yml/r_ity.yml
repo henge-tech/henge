@@ -1,0 +1,62 @@
+---
+pattern: r_ity
+hi_scored_words_count: 22
+scored_words_count: 10
+total_words: 52
+score: 2731057
+score_per_word: 85345
+hi_scored_words:
+  radioactivity: 27895
+  rapidity: 26990
+  rarity: 21711
+  rationality: 28259
+  reactivity: 21721
+  readability: 28455
+  reality: 1649
+  receptivity: 71299
+  reciprocity: 24872
+  reflectivity: 40716
+  reflexivity: 86265
+  regularity: 20137
+  relativity: 23109
+  reliability: 13603
+  religiosity: 63067
+  repeatability: 56723
+  reproducibility: 43233
+  resistivity: 35575
+  respectability: 39806
+  responsibility: 1586
+  reversibility: 81426
+  rigidity: 27707
+scored_words:
+  rancidity: 259775
+  rapacity: 115166
+  rascality: 134728
+  reasonability: 306400
+  reducibility: 150316
+  refractivity: 294135
+  replicability: 193297
+  retroactivity: 160201
+  rotundity: 176926
+  rusticity: 154309
+not_scored_words:
+- rabidity
+- radiopacity
+- recessivity
+- reciprocality
+- reconcilability
+- rectangularity
+- rectilinearity
+- regality
+- reluctivity
+- remissibility
+- reprehensibility
+- reputability
+- resolvability
+- retainability
+- retentivity
+- retractility
+- risibility
+- roadability
+- rubicundity
+- rugosity

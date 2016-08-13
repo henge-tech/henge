@@ -1,0 +1,31 @@
+---
+pattern: us_s
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 982298
+score_per_word: 81858
+hi_scored_words:
+  usages: 29202
+  usefulness: 12215
+  useless: 5206
+  uselessness: 94711
+  usernames: 34278
+  users: 1542
+  uses: 1747
+  ushers: 46336
+scored_words:
+  usurers: 240207
+  usurious: 165780
+  usurpers: 165511
+  usurps: 185563
+not_scored_words:
+- USPS
+- USS
+- Usenets
+- Ushas
+- usances
+- usherettes
+- usualness
+- usualnesses
+- usuriousness

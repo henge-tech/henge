@@ -1,0 +1,43 @@
+---
+pattern: st_ic
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 33
+score: 2469631
+score_per_word: 107375
+hi_scored_words:
+  stannic: 98444
+  static: 9235
+  statistic: 16579
+  stearic: 78429
+  stereoscopic: 55396
+  steric: 81392
+  stochastic: 16331
+  stoic: 38855
+  stoichiometric: 74944
+  strategic: 4720
+  stratigraphic: 42477
+  stratospheric: 52076
+  stylistic: 28256
+scored_words:
+  stenographic: 122308
+  stenotic: 195492
+  stereographic: 137093
+  stereophonic: 107947
+  stereotypic: 164975
+  sthenic: 148042
+  stigmatic: 267784
+  stroboscopic: 235986
+  strophic: 278248
+  styptic: 214622
+not_scored_words:
+- Stoic
+- stalactitic
+- stalagmitic
+- stanzaic
+- staphylococcic
+- stomachic
+- stomatic
+- strabismic
+- strychnic
+- stylographic

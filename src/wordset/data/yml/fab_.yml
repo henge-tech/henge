@@ -1,0 +1,41 @@
+---
+pattern: fab_
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 31
+score: 1130577
+score_per_word: 59504
+hi_scored_words:
+  fab: 14998
+  fable: 14829
+  fabled: 36543
+  fables: 24657
+  fabric: 8848
+  fabricant: 98624
+  fabricate: 43193
+  fabricated: 19978
+  fabricating: 41059
+  fabrication: 15067
+  fabrications: 52169
+  fabricator: 67570
+  fabricators: 57133
+  fabrics: 11752
+  fabulous: 6822
+  fabulously: 53985
+scored_words:
+  fabricates: 159557
+  fabulist: 112186
+  fabulousness: 291607
+not_scored_words:
+- Faberge
+- Fabergé
+- Fabian
+- Fabianism
+- Fabianisms
+- Fabians
+- Fabre
+- Fabrikoid
+- fabaceous
+- fabliau
+- fabliaux
+- fabulists

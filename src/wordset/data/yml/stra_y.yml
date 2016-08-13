@@ -1,0 +1,29 @@
+---
+pattern: stra_y
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 19
+score: 1206960
+score_per_word: 86211
+hi_scored_words:
+  straightaway: 55678
+  straightforwardly: 83816
+  straightway: 64435
+  strangely: 11696
+  strategically: 18593
+  strategy: 3948
+  strathspey: 82013
+  stratigraphy: 44726
+  strawberry: 11115
+  stray: 12181
+scored_words:
+  straggly: 259219
+  straightly: 174590
+  straitly: 237914
+  stratify: 147036
+not_scored_words:
+- Strachey
+- Stravinsky
+- strangury
+- stratocracy
+- stratospherically

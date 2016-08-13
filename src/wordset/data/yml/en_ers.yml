@@ -1,0 +1,35 @@
+---
+pattern: en_ers
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 25
+score: 1337383
+score_per_word: 78669
+hi_scored_words:
+  enablers: 66409
+  encoders: 49299
+  encounters: 10930
+  endangers: 65897
+  endorsers: 82308
+  enforcers: 59056
+  engenders: 80154
+  engineers: 4676
+  engravers: 54515
+  enhancers: 41094
+  enters: 6224
+  entertainers: 26916
+scored_words:
+  enchanters: 168414
+  endpapers: 112631
+  energizers: 166915
+  enlargers: 141937
+  enquirers: 200008
+not_scored_words:
+- enamelers
+- enciphers
+- encroachers
+- encumbers
+- enjoyers
+- ensurers
+- enterprisers
+- envelopers

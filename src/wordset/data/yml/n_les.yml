@@ -1,0 +1,35 @@
+---
+pattern: n_les
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 25
+score: 1386097
+score_per_word: 86631
+hi_scored_words:
+  needles: 11026
+  nestles: 95433
+  nettles: 49329
+  nibbles: 48162
+  nickles: 81740
+  nightingales: 95772
+  nipples: 5705
+  nobles: 17467
+  nodules: 40818
+  noodles: 23650
+  notables: 40525
+  nozzles: 33242
+scored_words:
+  nacelles: 164121
+  niggles: 169693
+  nitriles: 170650
+  nybbles: 338764
+not_scored_words:
+- Naples
+- Niles
+- narghiles
+- nobbles
+- noddles
+- nombles
+- nonreturnables
+- numbles
+- nuzzles

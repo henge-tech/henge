@@ -1,0 +1,36 @@
+---
+pattern: go_ng
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 26
+score: 763201
+score_per_word: 54514
+hi_scored_words:
+  goalkeeping: 75565
+  gobbling: 86380
+  going: 204
+  golfing: 19665
+  gong: 14855
+  goofing: 79606
+  googling: 36929
+  goring: 62231
+  gosling: 36491
+  gossiping: 52259
+  gouging: 46292
+  governing: 5385
+scored_words:
+  goading: 121241
+  gorging: 126098
+not_scored_words:
+- Goering
+- Golding
+- Goolagong
+- gobang
+- gobbing
+- goggling
+- goldbricking
+- gonging
+- goosestepping
+- goosing
+- gormandizing
+- gowning

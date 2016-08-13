@@ -1,0 +1,27 @@
+---
+pattern: w_less
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 921641
+score_per_word: 92164
+hi_scored_words:
+  waterless: 72894
+  weightless: 62410
+  windowless: 89533
+  wingless: 68322
+  wireless: 4324
+  witless: 70358
+  wordless: 71531
+  worthless: 12185
+scored_words:
+  weedless: 311662
+  windless: 158422
+not_scored_words:
+- wakeless
+- warless
+- wayless
+- weaponless
+- weariless
+- wheelless
+- wifeless

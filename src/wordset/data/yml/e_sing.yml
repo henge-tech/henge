@@ -1,0 +1,32 @@
+---
+pattern: e_sing
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 22
+score: 1614222
+score_per_word: 80711
+hi_scored_words:
+  easing: 29400
+  eclipsing: 70181
+  embarrassing: 12153
+  embossing: 49674
+  enclosing: 22943
+  encompassing: 24509
+  endorsing: 34552
+  engrossing: 42724
+  enterprising: 31980
+  erasing: 37160
+  espousing: 84484
+  excusing: 73468
+  exercising: 12136
+  exposing: 13310
+  expressing: 6876
+scored_words:
+  elapsing: 256225
+  encasing: 120108
+  enthusing: 312981
+  excising: 198710
+  exorcising: 180648
+not_scored_words:
+- effusing
+- enfranchising

@@ -1,0 +1,35 @@
+---
+pattern: inh_s
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 25
+score: 1477135
+score_per_word: 92320
+hi_scored_words:
+  inhabitants: 5847
+  inhabits: 54263
+  inhalants: 97768
+  inhalers: 69567
+  inheritances: 98384
+  inheritors: 99792
+  inherits: 37273
+  inhibitions: 55156
+  inhibitors: 11609
+  inhibits: 22789
+  inhomogeneous: 60128
+scored_words:
+  inhalations: 176297
+  inhales: 117821
+  inharmonious: 242315
+  inheres: 208353
+  inhomogeneities: 119773
+not_scored_words:
+- inhabitancies
+- inhalators
+- inherences
+- inheritrixes
+- inhospitableness
+- inhospitablenesses
+- inhumanities
+- inhumanness
+- inhumations

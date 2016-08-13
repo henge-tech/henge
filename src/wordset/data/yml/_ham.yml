@@ -1,0 +1,54 @@
+---
+pattern: _ham
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 44
+score: 454717
+score_per_word: 41337
+hi_scored_words:
+  brougham: 51744
+  cham: 43049
+  dirham: 49142
+  gingham: 48212
+  graham: 4045
+  ham: 6261
+  pelham: 27338
+  petersham: 78858
+  sham: 15182
+  wham: 29105
+scored_words:
+  ogham: 101781
+not_scored_words:
+- Abraham
+- Ascham
+- Beecham
+- Bentham
+- Bingham
+- Birmingham
+- Brigham
+- Buckingham
+- Cham
+- Chatham
+- Cheltenham
+- Cobham
+- Cunningham
+- Dagenham
+- Durham
+- Evesham
+- Gotham
+- Graham
+- Gresham
+- Ham
+- Latham
+- Lewisham
+- Markham
+- Maugham
+- Moham
+- Newham
+- Nottingham
+- Ockham
+- Oldham
+- Rockingham
+- Rotherham
+- Twickenham
+- Walsingham

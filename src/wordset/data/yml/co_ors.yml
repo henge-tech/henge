@@ -1,0 +1,63 @@
+---
+pattern: co_ors
+hi_scored_words_count: 27
+scored_words_count: 15
+total_words: 53
+score: 3864135
+score_per_word: 92003
+hi_scored_words:
+  coauthors: 93530
+  collaborators: 20527
+  collectors: 9519
+  colors: 2610
+  commentators: 18432
+  communicators: 39399
+  comparators: 78093
+  competitors: 7508
+  compressors: 26217
+  concentrators: 76008
+  condors: 85766
+  conductors: 20125
+  connectors: 9707
+  conquerors: 41761
+  conquistadors: 97738
+  conservators: 81854
+  conspirators: 36095
+  constructors: 28584
+  contractors: 7106
+  contributors: 9756
+  conveyors: 42710
+  cooperators: 94820
+  coordinators: 22090
+  corridors: 16326
+  cosponsors: 53752
+  councilors: 62481
+  counselors: 19530
+scored_words:
+  coadjutors: 125338
+  collators: 321748
+  collimators: 167689
+  commutators: 156938
+  compactors: 118086
+  compositors: 163482
+  conciliators: 237712
+  confessors: 129954
+  consignors: 229507
+  consolidators: 158589
+  constrictors: 209931
+  convenors: 152980
+  convertors: 178421
+  coprocessors: 272114
+  correctors: 139602
+not_scored_words:
+- Connors
+- Coors
+- coagulators
+- cogitators
+- commemorators
+- confiscators
+- conjurors
+- contaminators
+- convectors
+- corroborators
+- countertenors

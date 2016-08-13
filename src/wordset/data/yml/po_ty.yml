@@ -1,0 +1,30 @@
+---
+pattern: po_ty
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 20
+score: 804575
+score_per_word: 50285
+hi_scored_words:
+  pointy: 35242
+  polarity: 27316
+  polity: 27957
+  popularity: 4172
+  porosity: 32731
+  portability: 22757
+  positivity: 43455
+  possibility: 2640
+  posterity: 24486
+  potentiality: 71222
+  potty: 22010
+  poverty: 2529
+scored_words:
+  polarizability: 143548
+  pomposity: 135566
+  postmodernity: 102257
+  pouty: 106687
+not_scored_words:
+- polytonality
+- ponderosity
+- posteriority
+- potability

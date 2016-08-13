@@ -1,0 +1,33 @@
+---
+pattern: co_um
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 23
+score: 1233938
+score_per_word: 82262
+hi_scored_words:
+  coliseum: 25469
+  collegium: 62917
+  colloquium: 30344
+  colostrum: 56000
+  compendium: 23825
+  condominium: 22485
+  consortium: 11619
+  continuum: 14529
+  conundrum: 37069
+  corium: 71771
+  corundum: 93520
+scored_words:
+  colchicum: 240757
+  columbarium: 135011
+  conium: 282242
+  corrigendum: 126380
+not_scored_words:
+- Colosseum
+- Colum
+- coagulum
+- cockalorum
+- collyrium
+- columbium
+- conidium
+- contagium

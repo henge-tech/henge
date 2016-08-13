@@ -1,0 +1,58 @@
+---
+pattern: exc_s
+hi_scored_words_count: 21
+scored_words_count: 11
+total_words: 48
+score: 2860707
+score_per_word: 89397
+hi_scored_words:
+  excavations: 25314
+  excavators: 56980
+  exceeds: 9870
+  excellencies: 91109
+  excels: 39973
+  exceptions: 5470
+  excerpts: 20152
+  excess: 3427
+  excesses: 29237
+  exchangers: 41537
+  exchanges: 8334
+  excitations: 53419
+  excites: 43173
+  exclaims: 53035
+  exclamations: 81452
+  excludes: 16223
+  exclusions: 26575
+  exclusiveness: 90562
+  exclusives: 21771
+  excursions: 15004
+  excuses: 13138
+scored_words:
+  excepts: 153393
+  excessiveness: 293625
+  excises: 131587
+  excisions: 254847
+  excitements: 162161
+  exciters: 197665
+  excrescences: 104881
+  excretes: 255394
+  excretions: 159875
+  excursionists: 187749
+  excursus: 213775
+not_scored_words:
+- Excellencies
+- excavates
+- excessivenesses
+- exchequers
+- excitableness
+- excitablenesses
+- excogitates
+- excommunicates
+- excommunications
+- excoriates
+- excoriations
+- excruciates
+- excruciations
+- exculpates
+- excursiveness
+- excursuses

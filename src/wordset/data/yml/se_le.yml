@@ -1,0 +1,35 @@
+---
+pattern: se_le
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 25
+score: 1355997
+score_per_word: 90399
+hi_scored_words:
+  selectable: 34320
+  semicircle: 66342
+  senile: 41640
+  sensible: 6691
+  separable: 34492
+  serviceable: 29245
+  servile: 60507
+  sessile: 66287
+  settable: 87103
+  settle: 4530
+scored_words:
+  sealable: 157434
+  seasonable: 118582
+  semblable: 271895
+  semipermeable: 230381
+  severable: 146548
+not_scored_words:
+- Seattle
+- Semele
+- Seminole
+- Seville
+- seducible
+- segregable
+- seizable
+- septuple
+- sequestrable
+- sextuple

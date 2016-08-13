@@ -1,0 +1,33 @@
+---
+pattern: x_i
+hi_scored_words_count: 18
+scored_words_count: 2
+total_words: 23
+score: 1155861
+score_per_word: 57793
+hi_scored_words:
+  xi: 6301
+  xii: 10424
+  xiii: 12464
+  xvi: 13671
+  xvii: 20684
+  xviii: 19469
+  xxi: 23114
+  xxii: 29074
+  xxiii: 28962
+  xxvi: 38586
+  xxvii: 41495
+  xxviii: 41358
+  xxxi: 49964
+  xxxii: 52877
+  xxxiii: 54359
+  xxxvi: 59246
+  xxxvii: 61371
+  xxxviii: 57705
+scored_words:
+  xci: 246674
+  xcvi: 288063
+not_scored_words:
+- Xochipilli
+- xcii
+- xcvii

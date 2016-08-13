@@ -1,0 +1,38 @@
+---
+pattern: d_ied
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 28
+score: 1814077
+score_per_word: 95477
+hi_scored_words:
+  declassified: 49573
+  decried: 74145
+  defied: 36782
+  demystified: 96705
+  denied: 3563
+  died: 1199
+  dignified: 21937
+  disembodied: 50284
+  disqualified: 26317
+  dissatisfied: 14612
+  diversified: 14945
+  dried: 5346
+scored_words:
+  dallied: 247425
+  dandified: 205157
+  deified: 107842
+  descried: 174425
+  detoxified: 227493
+  dirtied: 193616
+  divvied: 262711
+not_scored_words:
+- decalcified
+- dehumidified
+- demulsified
+- denazified
+- denitrified
+- devitrified
+- dillydallied
+- dizzied
+- dulcified

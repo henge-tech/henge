@@ -1,0 +1,40 @@
+---
+pattern: t_ors
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 30
+score: 920466
+score_per_word: 54145
+hi_scored_words:
+  tailors: 35349
+  tenors: 50066
+  tensors: 70917
+  terminators: 66162
+  terrors: 34361
+  tors: 41050
+  tractors: 16934
+  traitors: 32421
+  transistors: 24173
+  translators: 14920
+  tremors: 39310
+  tumors: 19505
+  tutors: 18122
+scored_words:
+  thermistors: 114840
+  thyristors: 136565
+  tormentors: 102042
+  transgressors: 103729
+not_scored_words:
+- Thermidors
+- Tudors
+- tabors
+- tabulators
+- temblors
+- testators
+- toreadors
+- totalizators
+- trafficators
+- transactors
+- trapdoors
+- tricolors
+- turgors

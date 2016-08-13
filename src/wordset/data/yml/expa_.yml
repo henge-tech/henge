@@ -1,0 +1,42 @@
+---
+pattern: expa_
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 32
+score: 2391312
+score_per_word: 88567
+hi_scored_words:
+  expand: 4738
+  expandable: 29094
+  expanded: 4731
+  expander: 45885
+  expanding: 7104
+  expands: 12316
+  expanse: 25931
+  expanses: 67659
+  expansion: 3860
+  expansionist: 92985
+  expansions: 30283
+  expansive: 20467
+  expat: 25113
+  expatiate: 76031
+  expatriate: 29191
+  expatriates: 40188
+  expats: 38902
+scored_words:
+  expandability: 103691
+  expansible: 325734
+  expansionary: 102420
+  expansionism: 114763
+  expansively: 203016
+  expansiveness: 211527
+  expatiated: 146136
+  expatiating: 226976
+  expatriated: 286529
+  expatriation: 116042
+not_scored_words:
+- expansile
+- expansionists
+- expatiates
+- expatiation
+- expatriating

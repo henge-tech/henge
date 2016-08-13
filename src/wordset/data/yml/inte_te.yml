@@ -1,0 +1,29 @@
+---
+pattern: inte_te
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 843715
+score_per_word: 76701
+hi_scored_words:
+  integrate: 10246
+  intemperate: 95768
+  intercollegiate: 27093
+  intermediate: 9301
+  interpolate: 62598
+  interrogate: 42548
+  interstate: 12054
+  intestate: 60944
+scored_words:
+  intercalate: 176415
+  interdigitate: 207402
+  interrelate: 139346
+not_scored_words:
+- intemerate
+- intenerate
+- intercommunicate
+- interlaminate
+- interlineate
+- interosculate
+- interpellate
+- interpenetrate

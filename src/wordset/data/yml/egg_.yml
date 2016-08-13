@@ -1,0 +1,28 @@
+---
+pattern: egg_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 18
+score: 1257022
+score_per_word: 83801
+hi_scored_words:
+  egg: 3502
+  egged: 85054
+  egger: 82716
+  eggers: 58644
+  egghead: 82285
+  eggheads: 71956
+  eggnog: 53932
+  eggplant: 28718
+  eggplants: 99809
+  eggs: 3222
+  eggshell: 57699
+scored_words:
+  eggbeater: 217510
+  eggcup: 200806
+  egging: 110750
+  eggshells: 100419
+not_scored_words:
+- Eggo
+- eggbeaters
+- eggcups

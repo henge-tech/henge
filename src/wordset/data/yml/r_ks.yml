@@ -1,0 +1,45 @@
+---
+pattern: r_ks
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 35
+score: 2177940
+score_per_word: 87117
+hi_scored_words:
+  racetracks: 83399
+  racks: 12924
+  ranks: 4664
+  razorbacks: 49331
+  rednecks: 53899
+  reeks: 59384
+  remarks: 3698
+  ricks: 51569
+  rinks: 57944
+  risks: 3711
+  riverbanks: 97948
+  roadblocks: 42550
+  roadworks: 66073
+  rocks: 2893
+  rollbacks: 98745
+  rooks: 52167
+  rucksacks: 75991
+scored_words:
+  refuseniks: 292183
+  restocks: 143393
+  rethinks: 158996
+  reworks: 146705
+  rootstocks: 126093
+  roughnecks: 101077
+  rucks: 160143
+  rusks: 232460
+not_scored_words:
+- ransacks
+- rechecks
+- recooks
+- redshanks
+- reembarks
+- repacks
+- roebucks
+- rollicks
+- rowlocks
+- rubbernecks

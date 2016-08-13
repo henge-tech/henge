@@ -1,0 +1,47 @@
+---
+pattern: rec_y
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 37
+score: 1382085
+score_per_word: 86380
+hi_scored_words:
+  recency: 95478
+  recently: 1329
+  receptivity: 71299
+  reciprocally: 89637
+  reciprocity: 24872
+  recklessly: 39397
+  recovery: 2718
+  rectify: 26935
+  rectory: 39187
+  recursively: 41911
+scored_words:
+  recessionary: 167658
+  reclassify: 101312
+  recognizably: 138463
+  rectally: 217879
+  recurrently: 213865
+  recusancy: 110145
+not_scored_words:
+- recalcitrancy
+- recalcitrantly
+- recapitulatory
+- receptively
+- recessively
+- recessivity
+- reciprocality
+- recommendatory
+- reconcilability
+- reconciliatory
+- reconstructionary
+- reconvey
+- recopy
+- recreancy
+- recreantly
+- recriminatory
+- rectangularity
+- rectilinearity
+- rectilinearly
+- recumbency
+- recumbently

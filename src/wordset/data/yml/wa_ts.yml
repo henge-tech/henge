@@ -1,0 +1,35 @@
+---
+pattern: wa_ts
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 25
+score: 1675920
+score_per_word: 98583
+hi_scored_words:
+  waistcoats: 78036
+  waists: 83460
+  waits: 12106
+  wallets: 25464
+  walnuts: 32792
+  wants: 1323
+  warrants: 13570
+  warts: 27230
+  watts: 9179
+  wavelets: 60698
+scored_words:
+  wafts: 141169
+  walkabouts: 152672
+  walkouts: 217777
+  washouts: 229670
+  wastebaskets: 142731
+  waterfronts: 174437
+  waterspouts: 273606
+not_scored_words:
+- WATS
+- Watts
+- wabbits
+- wainscots
+- wainwrights
+- wanderlusts
+- warbonnets
+- watercolorists

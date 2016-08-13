@@ -1,0 +1,28 @@
+---
+pattern: au_ed
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 18
+score: 994168
+score_per_word: 82847
+hi_scored_words:
+  auctioned: 33636
+  audited: 21844
+  auditioned: 62762
+  augmented: 17392
+  authenticated: 24210
+  authored: 12336
+  authorized: 3980
+  autographed: 17367
+  automated: 4716
+scored_words:
+  augured: 259669
+  automatized: 308342
+  autopsied: 227914
+not_scored_words:
+- auricled
+- aurified
+- auscultated
+- auspicated
+- automobiled
+- autotomized

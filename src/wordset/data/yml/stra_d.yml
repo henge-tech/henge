@@ -1,0 +1,31 @@
+---
+pattern: stra_d
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 21
+score: 1164325
+score_per_word: 77621
+hi_scored_words:
+  straddled: 84498
+  straightened: 32857
+  straightforward: 9401
+  strained: 15528
+  strand: 8047
+  stranded: 13985
+  strangled: 39052
+  stranglehold: 64583
+  strapped: 23696
+  stratified: 28333
+  strayed: 43861
+scored_words:
+  strafed: 192672
+  straggled: 205447
+  straitened: 141988
+  strangulated: 260377
+not_scored_words:
+- Strafford
+- Stralsund
+- straitjacketed
+- straitlaced
+- strawboard
+- strawed

@@ -1,0 +1,47 @@
+---
+pattern: _ecks
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 37
+score: 1493919
+score_per_word: 87877
+hi_scored_words:
+  becks: 57176
+  bottlenecks: 37159
+  checks: 3507
+  decks: 9442
+  flecks: 81394
+  necks: 26601
+  paychecks: 40861
+  pecks: 92383
+  rednecks: 53899
+  shipwrecks: 52958
+  specks: 56901
+  turtlenecks: 98478
+  wrecks: 31188
+scored_words:
+  goosenecks: 325425
+  leathernecks: 112073
+  roughnecks: 101077
+  sundecks: 313397
+not_scored_words:
+- afterdecks
+- bedecks
+- belowdecks
+- counterchecks
+- crooknecks
+- crosschecks
+- flyspecks
+- foredecks
+- halternecks
+- hatchecks
+- henpecks
+- kopecks
+- littlenecks
+- pinchbecks
+- quarterdecks
+- rechecks
+- rubbernecks
+- soundchecks
+- spellchecks
+- wrynecks

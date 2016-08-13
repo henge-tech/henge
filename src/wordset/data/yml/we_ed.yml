@@ -1,0 +1,36 @@
+---
+pattern: we_ed
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 26
+score: 1307691
+score_per_word: 68825
+hi_scored_words:
+  weakened: 15872
+  weaned: 49932
+  wearied: 55581
+  weathered: 29625
+  weaved: 87901
+  webbed: 56500
+  wedded: 31869
+  wedged: 49371
+  weed: 6540
+  weeded: 81872
+  weighed: 10591
+  weighted: 11438
+  welcomed: 6862
+  welded: 22108
+  welled: 75779
+scored_words:
+  weened: 195292
+  welted: 199745
+  wended: 219818
+  westernized: 100995
+not_scored_words:
+- weaseled
+- weatherized
+- weatherproofed
+- weatherstripped
+- weekended
+- welshed
+- weltered

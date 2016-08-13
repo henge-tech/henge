@@ -1,0 +1,50 @@
+---
+pattern: g_ion
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 40
+score: 2203141
+score_per_word: 84736
+hi_scored_words:
+  ganglion: 35320
+  gazillion: 80275
+  generalization: 22700
+  generation: 1663
+  gentrification: 67491
+  germination: 31242
+  gestation: 31737
+  gesticulation: 78119
+  glaciation: 61446
+  globalization: 13688
+  glorification: 54212
+  gradation: 43829
+  graduation: 9779
+  granulation: 57572
+  gratification: 22476
+  gravitation: 29659
+  gumption: 80124
+  gyration: 62020
+scored_words:
+  gabion: 191430
+  gastrulation: 133529
+  gelation: 146066
+  genuflection: 147409
+  gillion: 197871
+  gratulation: 145109
+  grunion: 249050
+  gustation: 209325
+not_scored_words:
+- galvanization
+- gammadion
+- gemination
+- gemmation
+- gemmulation
+- genuflexion
+- ghettoization
+- glamorization
+- glomeration
+- gnathion
+- gonion
+- gorgoneion
+- grivation
+- gurgitation

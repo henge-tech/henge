@@ -1,0 +1,37 @@
+---
+pattern: e_tors
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 27
+score: 1523725
+score_per_word: 76186
+hi_scored_words:
+  editors: 4674
+  educators: 13293
+  effectors: 81690
+  electors: 22949
+  elevators: 24432
+  emulators: 29861
+  escalators: 56706
+  estimators: 40511
+  evaluators: 43803
+  evaporators: 99310
+  excavators: 56980
+  executors: 43162
+  exhibitors: 25324
+  extractors: 66881
+scored_words:
+  ejectors: 176353
+  eliminators: 117513
+  enumerators: 120853
+  erectors: 126005
+  expositors: 272608
+  exterminators: 100817
+not_scored_words:
+- ejaculators
+- emancipators
+- equators
+- equivocators
+- eradicators
+- exaggerators
+- expropriators

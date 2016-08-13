@@ -1,0 +1,39 @@
+---
+pattern: f_her
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 29
+score: 829108
+score_per_word: 59222
+hi_scored_words:
+  farther: 7390
+  father: 675
+  feather: 8967
+  finisher: 35057
+  fisher: 7172
+  flasher: 36019
+  fletcher: 14561
+  flycatcher: 36792
+  fresher: 31327
+  further: 411
+scored_words:
+  fetcher: 196934
+  flesher: 200682
+  flusher: 147377
+  forefather: 105744
+not_scored_words:
+- Fairweather
+- Father
+- Fischer
+- Fisher
+- Fleischer
+- Fletcher
+- Frobisher
+- filcher
+- flincher
+- flourisher
+- foregather
+- forgather
+- fourflusher
+- frontbencher
+- furnisher

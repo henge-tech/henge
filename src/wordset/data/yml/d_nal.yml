@@ -1,0 +1,40 @@
+---
+pattern: d_nal
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 30
+score: 1839673
+score_per_word: 87603
+hi_scored_words:
+  definitional: 61255
+  delusional: 34069
+  denominational: 33409
+  depositional: 69380
+  devotional: 22762
+  diagonal: 15709
+  dimensional: 9437
+  directional: 17318
+  distributional: 45977
+  diurnal: 34043
+  divisional: 26504
+  doctrinal: 30701
+  duodenal: 45471
+  dysfunctional: 25736
+scored_words:
+  denotational: 139502
+  dentinal: 266183
+  derivational: 133869
+  diaconal: 230408
+  diffusional: 204741
+  dispensational: 189700
+  disproportional: 203499
+not_scored_words:
+- Donal
+- decagonal
+- decanal
+- declensional
+- declinational
+- discretional
+- disquisitional
+- dissertational
+- distortional

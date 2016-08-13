@@ -1,0 +1,54 @@
+---
+pattern: decr_
+hi_scored_words_count: 17
+scored_words_count: 12
+total_words: 44
+score: 3057102
+score_per_word: 105417
+hi_scored_words:
+  decrease: 5628
+  decreased: 7859
+  decreases: 14926
+  decreasing: 12752
+  decree: 8153
+  decreed: 30912
+  decrees: 24467
+  decrement: 48419
+  decrepit: 47592
+  decried: 74145
+  decriminalization: 96402
+  decry: 54246
+  decrying: 99787
+  decrypt: 38443
+  decrypted: 63658
+  decrypting: 89124
+  decryption: 43979
+scored_words:
+  decreasingly: 279369
+  decreeing: 191803
+  decremental: 330293
+  decremented: 129539
+  decrementing: 242768
+  decrements: 101632
+  decrepitude: 160846
+  decries: 101735
+  decriminalize: 195066
+  decriminalized: 188993
+  decriminalizing: 259487
+  decrypts: 115079
+not_scored_words:
+- decrepitate
+- decrepitated
+- decrepitates
+- decrepitating
+- decrepitly
+- decresc
+- decrescendo
+- decrescendos
+- decrescent
+- decretal
+- decretive
+- decretory
+- decrial
+- decrier
+- decriminalizes

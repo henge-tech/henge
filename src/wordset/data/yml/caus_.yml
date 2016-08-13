@@ -1,0 +1,36 @@
+---
+pattern: caus_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 26
+score: 1901520
+score_per_word: 95076
+hi_scored_words:
+  caus: 79849
+  causal: 16749
+  causality: 34434
+  causally: 66894
+  causation: 27022
+  causative: 43387
+  cause: 565
+  caused: 1736
+  causes: 1988
+  causeway: 27324
+  causey: 81111
+  causing: 4092
+  caustic: 26316
+scored_words:
+  causalities: 207606
+  causeless: 224239
+  causer: 134778
+  causerie: 311627
+  causeways: 175444
+  caustically: 303392
+  caustics: 132967
+not_scored_words:
+- causalgia
+- causalgias
+- causeries
+- causers
+- causeuse
+- causticity

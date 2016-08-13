@@ -1,0 +1,45 @@
+---
+pattern: r_re
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 35
+score: 1987547
+score_per_word: 94645
+hi_scored_words:
+  rapture: 17863
+  rare: 1752
+  reassure: 26759
+  recapture: 31132
+  reconfigure: 46090
+  repertoire: 21059
+  require: 1263
+  restore: 3976
+  restructure: 30322
+  retire: 7194
+  revere: 22149
+  rewire: 81684
+  rupture: 17042
+scored_words:
+  reacquire: 204563
+  redware: 280661
+  rehire: 113641
+  reinsure: 331658
+  remanufacture: 114143
+  respire: 214669
+  ricercare: 235790
+  rotogravure: 184137
+not_scored_words:
+- Radnorshire
+- Rapture
+- Revere
+- Robespierre
+- Rothermere
+- Rushmore
+- ransomware
+- recurvature
+- refire
+- remeasure
+- rescore
+- retrofire
+- rondure
+- roquelaure

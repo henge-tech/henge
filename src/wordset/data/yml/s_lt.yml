@@ -1,0 +1,30 @@
+---
+pattern: s_lt
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 695814
+score_per_word: 63255
+hi_scored_words:
+  salt: 1962
+  seatbelt: 37442
+  shalt: 11038
+  silt: 28449
+  smelt: 33106
+  somersault: 61748
+  stilt: 57193
+  sunbelt: 61599
+scored_words:
+  segfault: 126084
+  smalt: 148012
+  smolt: 129181
+not_scored_words:
+- SALT
+- Snowbelt
+- Soult
+- Sunbelt
+- snowbelt
+- springhalt
+- statvolt
+- stringhalt
+- summersault

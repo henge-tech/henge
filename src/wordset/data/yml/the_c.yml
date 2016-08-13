@@ -1,0 +1,34 @@
+---
+pattern: the_c
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 24
+score: 1052348
+score_per_word: 75167
+hi_scored_words:
+  theistic: 57847
+  thematic: 17068
+  theocratic: 63647
+  theoretic: 31624
+  therapeutic: 17021
+  thermodynamic: 29073
+  thermoelectric: 63273
+  thermoplastic: 36796
+  thermostatic: 82552
+scored_words:
+  theosophic: 157129
+  thermic: 108096
+  thermionic: 114034
+  thermophilic: 104693
+  thetic: 169495
+not_scored_words:
+- Theodoric
+- theanthropic
+- theocentric
+- theomorphic
+- theorematic
+- therianthropic
+- theriomorphic
+- thermomagnetic
+- thermometric
+- theurgic

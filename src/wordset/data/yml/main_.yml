@@ -1,0 +1,55 @@
+---
+pattern: main_
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 45
+score: 1790771
+score_per_word: 66324
+hi_scored_words:
+  main: 383
+  mainframe: 20999
+  mainframes: 53097
+  mainland: 6950
+  mainline: 24014
+  mainly: 2973
+  mains: 13665
+  mainsail: 74225
+  mainstay: 31641
+  mainstays: 84088
+  mainstream: 8543
+  mainstreaming: 46497
+  maintain: 1836
+  maintainability: 64949
+  maintainable: 82010
+  maintained: 2249
+  maintainer: 30115
+  maintainers: 44532
+  maintaining: 3762
+  maintains: 7288
+  maintenance: 2661
+scored_words:
+  mainlines: 196838
+  mainmast: 203022
+  mainsheet: 246745
+  mainspring: 112202
+  mainstreamed: 120480
+  mainstreams: 305007
+not_scored_words:
+- Main
+- Maine
+- Mainer
+- Mainers
+- Mainland
+- Maintenon
+- Mainz
+- mainbrace
+- mainlands
+- mainlined
+- mainliner
+- mainlining
+- mainmasts
+- mainsails
+- mainsheets
+- mainsprings
+- maintop
+- maintops

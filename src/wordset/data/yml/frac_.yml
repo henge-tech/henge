@@ -1,0 +1,37 @@
+---
+pattern: frac_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 27
+score: 1352178
+score_per_word: 79539
+hi_scored_words:
+  fracas: 58434
+  fractal: 24207
+  fractals: 41829
+  fraction: 6977
+  fractional: 21446
+  fractionated: 77234
+  fractionation: 44504
+  fractions: 17596
+  fractious: 78517
+  fracture: 13046
+  fractured: 25368
+  fractures: 21582
+  fracturing: 61675
+scored_words:
+  frack: 184275
+  fracks: 219442
+  fractionally: 125802
+  fractionate: 330244
+not_scored_words:
+- fracases
+- fracked
+- fracking
+- fractionates
+- fractionating
+- fractionize
+- fractiously
+- fractiousness
+- fractocumulus
+- fractostratus

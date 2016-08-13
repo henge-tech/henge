@@ -1,0 +1,34 @@
+---
+pattern: p_her
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 24
+score: 1070303
+score_per_word: 71353
+hi_scored_words:
+  panther: 12141
+  philosopher: 8322
+  photographer: 8986
+  pincher: 79835
+  pitcher: 10230
+  poacher: 67056
+  polisher: 66831
+  preacher: 11300
+  publisher: 5936
+  puncher: 92317
+  pusher: 39349
+scored_words:
+  perisher: 197021
+  phisher: 193346
+  pornographer: 105665
+  pother: 171968
+not_scored_words:
+- paleographer
+- paragrapher
+- petrographer
+- physiographer
+- pinfeather
+- plusher
+- polygrapher
+- posher
+- psychographer

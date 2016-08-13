@@ -1,0 +1,22 @@
+---
+pattern: l_ked
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 12
+score: 253088
+score_per_word: 25308
+hi_scored_words:
+  lacked: 11489
+  landlocked: 41737
+  leaked: 19062
+  licked: 19555
+  liked: 2649
+  linked: 3042
+  locked: 3492
+  looked: 1044
+  lucked: 89693
+  lurked: 61325
+scored_words: {}
+not_scored_words:
+- larked
+- lipsticked

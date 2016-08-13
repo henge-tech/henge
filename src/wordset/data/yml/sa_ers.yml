@@ -1,0 +1,40 @@
+---
+pattern: sa_ers
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 30
+score: 1262548
+score_per_word: 97119
+hi_scored_words:
+  sabers: 67319
+  salamanders: 62354
+  samplers: 35627
+  sanders: 11330
+  sandpipers: 84696
+  saucers: 36177
+  savers: 18423
+  sawyers: 92016
+scored_words:
+  saddlers: 124941
+  sandblasters: 300156
+  sanitizers: 114306
+  sappers: 101165
+  saunters: 214038
+not_scored_words:
+- Sanders
+- Saunders
+- Sayers
+- sackers
+- safecrackers
+- safflowers
+- sailboarders
+- salinometers
+- saltiers
+- saltshakers
+- salvagers
+- salvers
+- sandbaggers
+- sandlotters
+- sandpapers
+- sapsuckers
+- saunterers

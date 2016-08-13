@@ -1,0 +1,39 @@
+---
+pattern: are_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 29
+score: 777543
+score_per_word: 55538
+hi_scored_words:
+  are: 23
+  area: 992
+  areal: 48550
+  areas: 1598
+  aren't: 2817
+  arena: 5203
+  arenas: 19265
+  areola: 63231
+  areolas: 91062
+  ares: 22482
+  arete: 76470
+scored_words:
+  areca: 108742
+  areolar: 221271
+  arethusa: 115837
+not_scored_words:
+- Areopagite
+- Areopagus
+- Arequipa
+- Ares
+- Aretino
+- Arezzo
+- areaway
+- areaways
+- arecas
+- arenaceous
+- arenicolous
+- areolate
+- areole
+- aretes
+- arethusas

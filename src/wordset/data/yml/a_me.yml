@@ -1,0 +1,33 @@
+---
+pattern: a_me
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 23
+score: 754564
+score_per_word: 50304
+hi_scored_words:
+  academe: 51535
+  acme: 22585
+  aerodrome: 35481
+  aflame: 60595
+  airdrome: 64078
+  airframe: 41049
+  airtime: 39568
+  anime: 13518
+  anytime: 7419
+  aspartame: 46357
+  assume: 2348
+  astrodome: 75228
+  awesome: 10003
+scored_words:
+  adventuresome: 135657
+  aforetime: 149143
+not_scored_words:
+- acrodrome
+- aerogramme
+- aftertime
+- anticrime
+- apoenzyme
+- archiphoneme
+- autosome
+- auxochrome

@@ -1,0 +1,41 @@
+---
+pattern: w_sh
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 31
+score: 1577551
+score_per_word: 105170
+hi_scored_words:
+  wash: 3376
+  welsh: 5557
+  whiplash: 31060
+  whitefish: 40252
+  whitewash: 45448
+  whitish: 50819
+  whoosh: 59342
+  wish: 498
+  womanish: 69137
+scored_words:
+  waggish: 215062
+  waspish: 295489
+  weakfish: 255808
+  whish: 108087
+  whorish: 265930
+  wolfish: 131686
+not_scored_words:
+- Wabash
+- Walsh
+- Wash
+- Waspish
+- Welsh
+- Wendish
+- Whiggish
+- waifish
+- warmish
+- waterish
+- weakish
+- wersh
+- whoreish
+- wimpish
+- wolffish
+- wreckfish

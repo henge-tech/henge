@@ -1,0 +1,30 @@
+---
+pattern: a_ives
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 20
+score: 697111
+score_per_word: 69711
+hi_scored_words:
+  abrasives: 50350
+  actives: 55680
+  additives: 16640
+  adhesives: 23094
+  adjectives: 22216
+  alternatives: 7141
+  archives: 3833
+  arrives: 11799
+scored_words:
+  alewives: 305768
+  antihypertensives: 200590
+not_scored_words:
+- ablatives
+- accusatives
+- affirmatives
+- affricatives
+- afterlives
+- antitussives
+- appellatives
+- apperceives
+- appositives
+- attributives

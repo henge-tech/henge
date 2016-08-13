@@ -1,0 +1,38 @@
+---
+pattern: ce_d
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 28
+score: 1114949
+score_per_word: 61941
+hi_scored_words:
+  ceased: 8318
+  ceded: 39238
+  celebrated: 5684
+  celled: 64954
+  celluloid: 42997
+  cemented: 36884
+  censored: 21861
+  censured: 65915
+  centered: 9083
+  centerfold: 45742
+  centralized: 16310
+  centrifuged: 69223
+  centroid: 53617
+  cephalopod: 91462
+  certificated: 51882
+  certified: 4586
+scored_words:
+  censed: 291942
+  centerboard: 195251
+not_scored_words:
+- Celluloid
+- Cepheid
+- celebrityhood
+- censused
+- cephalad
+- cerated
+- ceratoid
+- cerebrated
+- cered
+- cestoid

@@ -1,0 +1,27 @@
+---
+pattern: scam_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 1140623
+score_per_word: 87740
+hi_scored_words:
+  scam: 13714
+  scammed: 51355
+  scammer: 59754
+  scammers: 47860
+  scamming: 90750
+  scamp: 28442
+  scamper: 73636
+  scampi: 73996
+  scams: 16088
+scored_words:
+  scampered: 108517
+  scampering: 123953
+  scampers: 268079
+  scamps: 184479
+not_scored_words:
+- Scamander
+- scammonies
+- scammony
+- scamperer

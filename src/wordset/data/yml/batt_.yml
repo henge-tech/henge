@@ -1,0 +1,64 @@
+---
+pattern: batt_
+hi_scored_words_count: 26
+scored_words_count: 12
+total_words: 54
+score: 3004763
+score_per_word: 79072
+hi_scored_words:
+  batt: 35391
+  battalion: 8934
+  battalions: 30560
+  batted: 39871
+  batten: 39543
+  batter: 15007
+  battered: 19126
+  batteries: 4054
+  battering: 46811
+  batters: 33600
+  battery: 2453
+  batting: 18047
+  battle: 1255
+  battled: 31458
+  battlefield: 7948
+  battlefields: 42637
+  battlefront: 30383
+  battleground: 30206
+  battlegrounds: 62298
+  battlements: 72451
+  battler: 89675
+  battles: 6153
+  battleship: 26548
+  battleships: 43761
+  battling: 18562
+  batty: 40988
+scored_words:
+  battement: 230638
+  battened: 228217
+  battens: 105231
+  batterer: 133054
+  batterers: 139341
+  battier: 151060
+  battiest: 311490
+  battleaxe: 183791
+  battlement: 129928
+  battlemented: 126579
+  battlers: 159955
+  battue: 307759
+not_scored_words:
+- Battle
+- battening
+- batterings
+- battik
+- battleax
+- battleaxes
+- battledore
+- battledores
+- battledress
+- battlefronts
+- battleplane
+- battlewagon
+- battlewagons
+- battologize
+- battology
+- battues

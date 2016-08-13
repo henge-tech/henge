@@ -1,0 +1,55 @@
+---
+pattern: g_lly
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 45
+score: 1650315
+score_per_word: 75014
+hi_scored_words:
+  gainfully: 96729
+  generally: 1043
+  generically: 48040
+  genetically: 11628
+  geographically: 21224
+  geologically: 79493
+  geometrically: 50043
+  gleefully: 46711
+  globally: 11625
+  golly: 39111
+  gracefully: 19582
+  gradually: 4502
+  grammatically: 59364
+  graphically: 26325
+  gratefully: 20273
+  gravelly: 59854
+  gully: 24212
+scored_words:
+  genially: 200020
+  genteelly: 264041
+  glacially: 232727
+  governmentally: 193700
+  gravitationally: 140068
+not_scored_words:
+- Gothically
+- galvanically
+- gastrologically
+- gastronomically
+- genealogically
+- genitally
+- genitivally
+- genocidally
+- geocentrically
+- geomagnetically
+- geophysically
+- geopolitically
+- geothermally
+- germinally
+- gigantically
+- gnomically
+- gradationally
+- gravimetrically
+- guilefully
+- gutturally
+- gymnastically
+- gynecologically
+- gyroscopically

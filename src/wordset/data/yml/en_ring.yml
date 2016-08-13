@@ -1,0 +1,26 @@
+---
+pattern: en_ring
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 1102699
+score_per_word: 91891
+hi_scored_words:
+  encountering: 28581
+  endangering: 41718
+  endearing: 32393
+  endeavoring: 66337
+  enduring: 11098
+  engendering: 89882
+  engineering: 3632
+  ensuring: 5594
+  entering: 2926
+scored_words:
+  enciphering: 335822
+  encumbering: 204727
+  ensnaring: 279989
+not_scored_words:
+- enamoring
+- encoring
+- enrapturing
+- enuring

@@ -1,0 +1,23 @@
+---
+pattern: wrin_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 833216
+score_per_word: 83321
+hi_scored_words:
+  wring: 44072
+  wringer: 81995
+  wringing: 53451
+  wrinkle: 20644
+  wrinkled: 28650
+  wrinkles: 20464
+  wrinkling: 79919
+  wrinkly: 77159
+scored_words:
+  wringers: 219358
+  wrings: 207504
+not_scored_words:
+- wrinklier
+- wrinklies
+- wrinkliest

@@ -1,0 +1,38 @@
+---
+pattern: trim_
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 28
+score: 1573115
+score_per_word: 104874
+hi_scored_words:
+  trim: 9027
+  trimester: 23704
+  trimmed: 15454
+  trimmer: 26952
+  trimmers: 47462
+  trimming: 23065
+  trimmings: 34216
+  trims: 31502
+scored_words:
+  trimaran: 145903
+  trimarans: 298863
+  trimer: 146183
+  trimers: 214784
+  trimesters: 119185
+  trimeter: 131498
+  trimly: 305317
+not_scored_words:
+- Trimurti
+- trimerous
+- trimestral
+- trimestrial
+- trimetallic
+- trimetric
+- trimetrical
+- trimetrogon
+- trimmest
+- trimness
+- trimolecular
+- trimonthly
+- trimorphism

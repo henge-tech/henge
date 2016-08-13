@@ -1,0 +1,33 @@
+---
+pattern: c_ied
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 23
+score: 899871
+score_per_word: 59991
+hi_scored_words:
+  calcified: 81646
+  candied: 47188
+  carried: 1668
+  certified: 4586
+  clarified: 19434
+  classified: 5603
+  codified: 28287
+  complied: 16963
+  copied: 5162
+  cried: 4944
+  crucified: 25652
+  curried: 62569
+scored_words:
+  canopied: 135924
+  countrified: 210952
+  curtsied: 249293
+not_scored_words:
+- caddied
+- carnified
+- chevied
+- chivied
+- chivvied
+- citified
+- collied
+- crannied

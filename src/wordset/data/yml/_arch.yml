@@ -1,0 +1,48 @@
+---
+pattern: _arch
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 38
+score: 1490684
+score_per_word: 87687
+hi_scored_words:
+  arch: 4499
+  cornstarch: 47330
+  hierarch: 83641
+  larch: 45789
+  march: 415
+  matriarch: 61979
+  monarch: 8786
+  patriarch: 20852
+  research: 1061
+  search: 389
+  starch: 15512
+scored_words:
+  anarch: 187672
+  exarch: 189472
+  nomarch: 331531
+  oligarch: 110150
+  parch: 177872
+  tetrarch: 203734
+not_scored_words:
+- Arch
+- March
+- Petrarch
+- Plutarch
+- autarch
+- chiliarch
+- countermarch
+- endarch
+- eparch
+- ethnarch
+- frogmarch
+- gymnasiarch
+- heresiarch
+- hipparch
+- inarch
+- mesarch
+- outmarch
+- overarch
+- symposiarch
+- trierarch
+- xerarch

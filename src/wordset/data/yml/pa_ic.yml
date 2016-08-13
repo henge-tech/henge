@@ -1,0 +1,70 @@
+---
+pattern: pa_ic
+hi_scored_words_count: 22
+scored_words_count: 13
+total_words: 60
+score: 3226721
+score_per_word: 92192
+hi_scored_words:
+  pacific: 1894
+  paleolithic: 52205
+  pancreatic: 18377
+  pandemic: 21166
+  panic: 5737
+  panoramic: 24085
+  parabolic: 32803
+  paradigmatic: 78307
+  paralytic: 67273
+  paramagnetic: 61268
+  paramedic: 25278
+  parametric: 22683
+  paraplegic: 78414
+  parasitic: 23112
+  parasympathetic: 77642
+  paregoric: 95737
+  paternalistic: 79068
+  pathetic: 9961
+  pathogenic: 27665
+  pathologic: 35459
+  patriotic: 8499
+  patristic: 93231
+scored_words:
+  pacifistic: 271109
+  palindromic: 128616
+  panchromatic: 150136
+  panegyric: 141861
+  panoptic: 193955
+  pantheistic: 155445
+  pantomimic: 164902
+  paraffinic: 307212
+  paretic: 103980
+  parodic: 204565
+  parthenogenetic: 188727
+  pathic: 173990
+  patronymic: 102359
+not_scored_words:
+- Pacific
+- Palaeozoic
+- Palearctic
+- Paleolithic
+- Paleozoic
+- Panasonic
+- Panhellenic
+- Paralympic
+- pachalic
+- paleographic
+- paleontologic
+- palimpsestic
+- palingenetic
+- palladic
+- paradisaic
+- paralinguistic
+- parallactic
+- parallelistic
+- paranoic
+- paraphrastic
+- paratactic
+- parenthetic
+- paronymic
+- parotic
+- patriarchic

@@ -1,0 +1,44 @@
+---
+pattern: e_ors
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 34
+score: 1804873
+score_per_word: 72194
+hi_scored_words:
+  editors: 4674
+  educators: 13293
+  effectors: 81690
+  electors: 22949
+  elevators: 24432
+  emperors: 26361
+  emulators: 29861
+  endeavors: 18796
+  errors: 2057
+  escalators: 56706
+  estimators: 40511
+  evaluators: 43803
+  evaporators: 99310
+  excavators: 56980
+  executors: 43162
+  exhibitors: 25324
+  exteriors: 51986
+  extractors: 66881
+scored_words:
+  ejectors: 176353
+  eliminators: 117513
+  enumerators: 120853
+  erectors: 126005
+  expositors: 272608
+  extensors: 181948
+  exterminators: 100817
+not_scored_words:
+- Exmoors
+- ejaculators
+- emancipators
+- enamors
+- equators
+- equivocators
+- eradicators
+- exaggerators
+- expropriators

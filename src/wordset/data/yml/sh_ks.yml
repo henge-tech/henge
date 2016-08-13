@@ -1,0 +1,31 @@
+---
+pattern: sh_ks
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 21
+score: 1031228
+score_per_word: 85935
+hi_scored_words:
+  shacks: 65521
+  shamrocks: 83519
+  shanks: 39014
+  sharks: 11738
+  shipwrecks: 52958
+  shocks: 12902
+  shrieks: 57946
+  shrinks: 35574
+  shucks: 58252
+scored_words:
+  sheiks: 126605
+  shirks: 301140
+  shuttlecocks: 186059
+not_scored_words:
+- Sheetrocks
+- shaddocks
+- shagbarks
+- sheepshanks
+- sheepwalks
+- shelducks
+- shellbarks
+- shoeblacks
+- shticks

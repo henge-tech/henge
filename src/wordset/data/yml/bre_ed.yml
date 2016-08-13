@@ -1,0 +1,23 @@
+---
+pattern: bre_ed
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 842624
+score_per_word: 76602
+hi_scored_words:
+  breached: 27388
+  breaded: 62197
+  breasted: 26230
+  breastfed: 68170
+  breastfeed: 58479
+  breathed: 19038
+  breed: 5302
+  brewed: 28098
+scored_words:
+  breakfasted: 138161
+  brecciated: 285279
+  breezed: 124282
+not_scored_words:
+- breathalyzed
+- brevetted

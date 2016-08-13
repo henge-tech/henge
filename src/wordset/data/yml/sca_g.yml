@@ -1,0 +1,38 @@
+---
+pattern: sca_g
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 28
+score: 1552078
+score_per_word: 86226
+hi_scored_words:
+  scaffolding: 26161
+  scalding: 69222
+  scaling: 14123
+  scalping: 67806
+  scamming: 90750
+  scanning: 6347
+  scaring: 37296
+  scarring: 35711
+  scathing: 40811
+  scattering: 10402
+  scavenging: 53860
+scored_words:
+  scag: 110508
+  scallywag: 195694
+  scampering: 123953
+  scapegoating: 110426
+  scaremongering: 146756
+  scarfing: 258609
+  scatting: 153643
+not_scored_words:
+- Scanderbeg
+- scabbing
+- scalawag
+- scalloping
+- scandalizing
+- scanting
+- scantling
+- scarifying
+- scarpering
+- scarping

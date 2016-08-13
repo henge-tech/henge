@@ -1,0 +1,32 @@
+---
+pattern: i_um
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 22
+score: 749347
+score_per_word: 83260
+hi_scored_words:
+  ileum: 55803
+  ilium: 70686
+  imperium: 44314
+  indium: 55759
+  inoculum: 68895
+  interregnum: 88030
+  iridium: 33165
+  ischium: 71180
+scored_words:
+  infundibulum: 261515
+not_scored_words:
+- Iconium
+- Ilium
+- Illyricum
+- Imodium
+- ideatum
+- idolum
+- illinium
+- incunabulum
+- indecorum
+- indusium
+- insectarium
+- involucrum
+- ionium

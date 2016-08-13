@@ -1,0 +1,29 @@
+---
+pattern: l_ely
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 19
+score: 292928
+score_per_word: 26629
+hi_scored_words:
+  largely: 3185
+  lately: 4683
+  legislatively: 98287
+  legitimately: 26121
+  leisurely: 22668
+  likely: 848
+  lively: 7108
+  lonely: 4023
+  loosely: 14409
+  lovely: 2319
+scored_words:
+  lamely: 109277
+not_scored_words:
+- Lely
+- lachrymosely
+- lissomely
+- literately
+- lithely
+- loathsomely
+- lonesomely
+- lucratively

@@ -1,0 +1,24 @@
+---
+pattern: t_der
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 745811
+score_per_word: 67801
+hi_scored_words:
+  tedder: 93463
+  tender: 3868
+  thereunder: 48440
+  thunder: 4934
+  tinder: 55682
+  trader: 7966
+  transgender: 17644
+  transponder: 36555
+scored_words:
+  threader: 148044
+  titleholder: 212870
+  treader: 116345
+not_scored_words:
+- Thailander
+- timider
+- tireder

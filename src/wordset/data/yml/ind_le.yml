@@ -1,0 +1,38 @@
+---
+pattern: ind_le
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 28
+score: 1893633
+score_per_word: 86074
+hi_scored_words:
+  indecipherable: 96056
+  indefatigable: 53580
+  indefensible: 61098
+  indefinable: 91991
+  indelible: 39286
+  indescribable: 36759
+  indestructible: 39577
+  indictable: 84958
+  indispensable: 11713
+  indisputable: 40956
+  indistinguishable: 30142
+  indivisible: 43015
+  indole: 62494
+  indomitable: 46602
+  inducible: 45993
+scored_words:
+  indeclinable: 153755
+  indefeasible: 205844
+  indeterminable: 219356
+  indigestible: 120433
+  indiscernible: 162940
+  indissoluble: 139161
+  indubitable: 107924
+not_scored_words:
+- indefectible
+- indemonstrable
+- indiscerptible
+- indivertible
+- indocile
+- inductile

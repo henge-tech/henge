@@ -1,0 +1,35 @@
+---
+pattern: clot_
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 25
+score: 1305258
+score_per_word: 72514
+hi_scored_words:
+  clot: 34784
+  cloth: 3821
+  clothe: 34810
+  clothed: 17600
+  clothes: 1594
+  clothesline: 56348
+  clothier: 82598
+  clothing: 1824
+  cloths: 22306
+  clots: 35213
+  clotted: 82151
+  clotting: 37921
+  cloture: 59491
+scored_words:
+  clothbound: 194958
+  clotheslines: 225964
+  clothespin: 132885
+  clothespins: 170761
+  clothiers: 110229
+not_scored_words:
+- Clotho
+- clothesbasket
+- clotheshorse
+- clotheshorses
+- clothespress
+- clothespresses
+- clotures

@@ -1,0 +1,33 @@
+---
+pattern: pre_ted
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 23
+score: 2168220
+score_per_word: 108411
+hi_scored_words:
+  precipitated: 26203
+  predated: 88542
+  predicated: 33927
+  predicted: 6492
+  predominated: 79190
+  preempted: 62609
+  prefabricated: 40365
+  preheated: 71339
+  premeditated: 47848
+  preselected: 96961
+  presented: 1184
+  pretreated: 88131
+  prevented: 6192
+scored_words:
+  precomputed: 161807
+  preconcerted: 181342
+  predesignated: 325685
+  predestinated: 254465
+  predigested: 192226
+  presorted: 129063
+  pretested: 274649
+not_scored_words:
+- preexisted
+- preponderated
+- prevaricated

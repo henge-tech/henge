@@ -1,0 +1,64 @@
+---
+pattern: p_en
+hi_scored_words_count: 12
+scored_words_count: 14
+total_words: 54
+score: 3128018
+score_per_word: 120308
+hi_scored_words:
+  pathogen: 24848
+  patten: 38689
+  peen: 94288
+  pen: 2853
+  platen: 58188
+  playpen: 59584
+  policemen: 20435
+  pollen: 13746
+  preen: 88731
+  prekindergarten: 89022
+  preteen: 30671
+  proven: 6229
+scored_words:
+  partaken: 110500
+  paten: 140666
+  patrolmen: 139648
+  peahen: 153896
+  pecten: 264315
+  pepsinogen: 272127
+  pigpen: 120352
+  plainspoken: 312274
+  policewomen: 158419
+  postmen: 138593
+  poteen: 140410
+  prescreen: 297535
+  putamen: 135705
+  pyrogen: 216294
+not_scored_words:
+- Papen
+- Pen
+- Petersen
+- Pilsen
+- Plauen
+- Pleven
+- Posen
+- Preussen
+- parahydrogen
+- patrolwomen
+- penmen
+- phren
+- pistareen
+- pitchmen
+- placemen
+- plainclothesmen
+- plainsmen
+- plowmen
+- pointsmen
+- postwomen
+- potheen
+- potmen
+- poultrymen
+- praenomen
+- preharden
+- pressmen
+- privateersmen
+- propmen

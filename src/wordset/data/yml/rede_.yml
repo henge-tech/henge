@@ -1,0 +1,72 @@
+---
+pattern: rede_
+hi_scored_words_count: 26
+scored_words_count: 15
+total_words: 62
+score: 4404548
+score_per_word: 107428
+hi_scored_words:
+  rede: 39932
+  redecorated: 88581
+  redecorating: 72274
+  redeem: 7625
+  redeemable: 51318
+  redeemed: 20093
+  redeemer: 30385
+  redeeming: 33279
+  redeems: 92865
+  redefine: 25999
+  redefined: 29756
+  redefines: 64855
+  redefining: 34234
+  redefinition: 44482
+  redemption: 8883
+  redemptive: 63633
+  redeploy: 96879
+  redeployed: 97317
+  redeployment: 62840
+  redesign: 14250
+  redesigned: 19185
+  redesigning: 49391
+  redesigns: 94404
+  redevelop: 68398
+  redeveloped: 64533
+  redevelopment: 13682
+scored_words:
+  redecorate: 106011
+  redecoration: 152460
+  rededicate: 187062
+  rededicated: 162656
+  rededication: 149830
+  redefinitions: 229672
+  redelivery: 249358
+  redeploying: 197632
+  redeposit: 259756
+  redeposited: 244478
+  redetermination: 169051
+  redetermine: 311831
+  redetermined: 279596
+  redeveloping: 108182
+  redevelopments: 307900
+not_scored_words:
+- Redeemer
+- redecorates
+- rededicates
+- rededicating
+- rededications
+- redeemers
+- redeliver
+- redelivered
+- redelivering
+- redelivers
+- redemonstrate
+- redemptional
+- redemptioner
+- redemptory
+- redeploys
+- redepositing
+- redeposits
+- redeterminations
+- redetermines
+- redetermining
+- redevelops

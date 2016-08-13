@@ -1,0 +1,36 @@
+---
+pattern: h_ons
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 26
+score: 1469849
+score_per_word: 91865
+hi_scored_words:
+  habitations: 74966
+  hadrons: 75015
+  hallucinations: 32038
+  herons: 49460
+  hexagons: 97595
+  honeymoons: 55200
+  hons: 27207
+  horizons: 15152
+  hospitalizations: 59157
+  humiliations: 99711
+  hydrocarbons: 29402
+scored_words:
+  halocarbons: 270394
+  halons: 156229
+  harpoons: 142359
+  hellions: 169201
+  hesitations: 116763
+not_scored_words:
+- habergeons
+- helicons
+- heptagons
+- heptathlons
+- hexahedrons
+- hyperbatons
+- hyperextensions
+- hyperons
+- hyphenations
+- hypotensions

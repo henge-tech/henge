@@ -1,0 +1,36 @@
+---
+pattern: int_ted
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 26
+score: 1237370
+score_per_word: 61868
+hi_scored_words:
+  integrated: 11660
+  interacted: 43068
+  intercepted: 23306
+  interconnected: 22769
+  interested: 1074
+  interjected: 76422
+  interpolated: 42787
+  interpreted: 5991
+  interrelated: 32685
+  interrogated: 41211
+  interrupted: 8043
+  intersected: 58793
+  intimated: 56047
+  intimidated: 26517
+  intoxicated: 20689
+  introverted: 51887
+scored_words:
+  intercalated: 105821
+  interdicted: 154965
+  intermitted: 223119
+  intuited: 230516
+not_scored_words:
+- intercommunicated
+- interpellated
+- interpenetrated
+- intonated
+- introjected
+- introspected

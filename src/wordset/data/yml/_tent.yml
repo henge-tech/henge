@@ -1,0 +1,51 @@
+---
+pattern: _tent
+hi_scored_words_count: 26
+scored_words_count: 4
+total_words: 41
+score: 1601257
+score_per_word: 53375
+hi_scored_words:
+  competent: 6371
+  consistent: 3350
+  content: 657
+  detent: 91995
+  discontent: 19773
+  existent: 18890
+  extent: 1733
+  idempotent: 89778
+  impotent: 31964
+  inadvertent: 37005
+  incompetent: 17451
+  inconsistent: 16087
+  insistent: 41399
+  intent: 3916
+  intermittent: 14758
+  latent: 13207
+  malcontent: 72965
+  nonexistent: 29150
+  omnipotent: 33375
+  patent: 3637
+  penitent: 48920
+  persistent: 7165
+  portent: 66241
+  potent: 10595
+  stent: 33198
+  tent: 4925
+scored_words:
+  coexistent: 202349
+  impenitent: 185876
+  inexistent: 280515
+  subsistent: 214012
+not_scored_words:
+- Omnipotent
+- advertent
+- armipotent
+- nonpersistent
+- omnicompetent
+- overinsistent
+- plenipotent
+- preexistent
+- prepotent
+- remittent
+- renitent

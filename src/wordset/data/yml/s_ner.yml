@@ -1,0 +1,61 @@
+---
+pattern: s_ner
+hi_scored_words_count: 28
+scored_words_count: 7
+total_words: 51
+score: 2447962
+score_per_word: 69941
+hi_scored_words:
+  saner: 94419
+  scanner: 9334
+  schooner: 23370
+  screener: 44685
+  scrivener: 55244
+  seiner: 57677
+  sharpener: 38866
+  shiner: 42150
+  signer: 41056
+  sinner: 16150
+  skinner: 15604
+  softener: 49803
+  sojourner: 51256
+  sooner: 5145
+  southerner: 67690
+  spanner: 34044
+  spinner: 28381
+  stainer: 91585
+  sterner: 66690
+  stoner: 25599
+  straightener: 49025
+  strainer: 40492
+  stunner: 55092
+  submariner: 61142
+  summoner: 49884
+  sundowner: 78540
+  sustainer: 94205
+  sweetener: 42858
+scored_words:
+  scorner: 268642
+  shipowner: 101360
+  spawner: 117812
+  stationer: 110444
+  stiffener: 138976
+  streamliner: 173483
+  strengthener: 207259
+not_scored_words:
+- Scribner
+- Shriner
+- Skinner
+- Southerner
+- Steiner
+- Sumner
+- seasoner
+- serener
+- shortener
+- sickener
+- solemner
+- spurner
+- stubborner
+- suborner
+- sullener
+- superliner

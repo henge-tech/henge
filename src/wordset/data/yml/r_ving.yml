@@ -1,0 +1,31 @@
+---
+pattern: r_ving
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 21
+score: 949727
+score_per_word: 63315
+hi_scored_words:
+  raving: 26830
+  receiving: 2000
+  relieving: 24611
+  reliving: 64784
+  removing: 5048
+  reserving: 32052
+  resolving: 13150
+  retrieving: 23954
+  reviving: 32698
+  revolving: 14931
+  revving: 63825
+  roving: 28848
+scored_words:
+  repaving: 167135
+  reproving: 207233
+  riving: 242628
+not_scored_words:
+- reaving
+- recurving
+- redissolving
+- reeving
+- reprieving
+- reweaving

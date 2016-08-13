@@ -1,0 +1,30 @@
+---
+pattern: fo_ls
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 753386
+score_per_word: 62782
+hi_scored_words:
+  foals: 44500
+  foils: 40873
+  fools: 7922
+  footballs: 33078
+  foothills: 23374
+  fossils: 16430
+  fouls: 28274
+  fowls: 58805
+scored_words:
+  footfalls: 134173
+  footstools: 145514
+  foretells: 114107
+  formals: 106336
+not_scored_words:
+- folderols
+- fontanels
+- footstalls
+- footwalls
+- foresails
+- forestalls
+- forkfuls
+- foxtails

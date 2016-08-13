@@ -1,0 +1,31 @@
+---
+pattern: p_ll
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 21
+score: 625715
+score_per_word: 52142
+hi_scored_words:
+  paintball: 13239
+  pall: 26171
+  payroll: 10022
+  pill: 7999
+  pinball: 18242
+  pitfall: 47936
+  playbill: 65777
+  poll: 6524
+  pull: 2322
+scored_words:
+  photocell: 119500
+  plimsoll: 197247
+  puffball: 110736
+not_scored_words:
+- Parnell
+- Powell
+- Purcell
+- paywall
+- pigswill
+- pratfall
+- prechill
+- punchball
+- pushball

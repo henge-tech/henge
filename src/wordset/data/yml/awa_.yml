@@ -1,0 +1,33 @@
+---
+pattern: awa_
+hi_scored_words_count: 22
+scored_words_count: 0
+total_words: 23
+score: 585568
+score_per_word: 26616
+hi_scored_words:
+  await: 11883
+  awaited: 12731
+  awaiting: 8238
+  awaits: 17289
+  awake: 6586
+  awaken: 19220
+  awakened: 17096
+  awakening: 16455
+  awakenings: 30659
+  awakens: 44150
+  awakes: 63342
+  awaking: 99822
+  award: 4203
+  awarded: 4561
+  awardee: 71239
+  awardees: 68869
+  awarding: 26982
+  awards: 5156
+  aware: 1706
+  awareness: 11622
+  awash: 43489
+  away: 270
+scored_words: {}
+not_scored_words:
+- AWACS

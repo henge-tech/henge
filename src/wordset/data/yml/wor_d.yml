@@ -1,0 +1,23 @@
+---
+pattern: wor_d
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 13
+score: 348448
+score_per_word: 29037
+hi_scored_words:
+  word: 347
+  worded: 31452
+  workaround: 27733
+  worked: 1212
+  workload: 17744
+  world: 108
+  wormed: 88332
+  wormwood: 45514
+  worried: 5057
+  worsened: 37193
+  worshiped: 44388
+  worsted: 49368
+scored_words: {}
+not_scored_words:
+- wormseed

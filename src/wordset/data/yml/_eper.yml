@@ -1,0 +1,44 @@
+---
+pattern: _eper
+hi_scored_words_count: 21
+scored_words_count: 8
+total_words: 34
+score: 2242354
+score_per_word: 77322
+hi_scored_words:
+  beekeeper: 60259
+  beeper: 52431
+  bookkeeper: 35805
+  creeper: 28226
+  deeper: 4490
+  gatekeeper: 32872
+  goalkeeper: 23142
+  housekeeper: 21727
+  innkeeper: 32907
+  keeper: 7683
+  leper: 44538
+  minesweeper: 52257
+  peacekeeper: 70710
+  peeper: 86859
+  shopkeeper: 36477
+  sleeper: 15733
+  steeper: 43318
+  storekeeper: 69979
+  sweeper: 29185
+  timekeeper: 58153
+  zookeeper: 72887
+scored_words:
+  barkeeper: 209182
+  cheeper: 275269
+  doorkeeper: 132025
+  gamekeeper: 109087
+  groundskeeper: 111278
+  scorekeeper: 159100
+  weeper: 225078
+  wicketkeeper: 141697
+not_scored_words:
+- Dnieper
+- Ieper
+- bleeper
+- neper
+- skysweeper

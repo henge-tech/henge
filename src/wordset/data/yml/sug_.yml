@@ -1,0 +1,40 @@
+---
+pattern: sug_
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 30
+score: 1850884
+score_per_word: 88137
+hi_scored_words:
+  sugar: 2149
+  sugarcane: 40785
+  sugared: 88464
+  sugars: 23686
+  sugary: 53401
+  suggest: 1841
+  suggested: 1767
+  suggesting: 6705
+  suggestion: 3576
+  suggestions: 3075
+  suggestive: 18264
+  suggests: 3878
+scored_words:
+  sugarcoat: 216006
+  sugarcoated: 244147
+  sugaring: 128056
+  sugarless: 125714
+  sugarplum: 124678
+  suggestibility: 180413
+  suggestible: 222189
+  suggestively: 130796
+  suggestiveness: 231294
+not_scored_words:
+- sugarcoating
+- sugarcoats
+- sugarier
+- sugariest
+- sugariness
+- sugarinesses
+- sugarplums
+- suggester
+- suggesters

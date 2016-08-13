@@ -1,0 +1,34 @@
+---
+pattern: as_l
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 24
+score: 988732
+score_per_word: 76056
+hi_scored_words:
+  asexual: 48989
+  aspirational: 84896
+  assail: 55735
+  associational: 98168
+  astral: 21880
+  astrological: 30969
+  astronomical: 11940
+  astrophysical: 42137
+  asymmetrical: 30232
+scored_words:
+  asocial: 192982
+  aspectual: 131076
+  asphodel: 123679
+  astronautical: 116049
+not_scored_words:
+- ASL
+- Ashurbanipal
+- Aspell
+- Aspinwall
+- Assurbanipal
+- assoil
+- assonantal
+- asternal
+- astragal
+- astrol
+- asymptotical

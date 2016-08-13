@@ -1,0 +1,67 @@
+---
+pattern: inv_s
+hi_scored_words_count: 30
+scored_words_count: 6
+total_words: 57
+score: 2450460
+score_per_word: 68068
+hi_scored_words:
+  invaders: 17365
+  invades: 45011
+  invalidates: 80078
+  invalids: 81658
+  invariants: 40727
+  invasions: 30123
+  inventions: 13531
+  inventiveness: 72929
+  inventories: 25195
+  inventors: 20234
+  invents: 58259
+  inversions: 59704
+  invertebrates: 25504
+  inverters: 45198
+  inverts: 84018
+  investigates: 19683
+  investigations: 5747
+  investigators: 11254
+  investments: 5543
+  investors: 9577
+  invests: 30427
+  invidious: 71705
+  invitations: 9959
+  invitees: 86736
+  invites: 11222
+  invocations: 57516
+  invoices: 16988
+  invokes: 37065
+  involvements: 92147
+  involves: 4299
+scored_words:
+  invectives: 187565
+  inverses: 101876
+  invigilators: 298389
+  invigorates: 191682
+  invitationals: 253341
+  involutions: 248205
+not_scored_words:
+- Invars
+- Inverness
+- invaginates
+- invaginations
+- invaluableness
+- invaluablenesses
+- invariableness
+- invariablenesses
+- invariables
+- inveighs
+- inveiglers
+- inveigles
+- investitures
+- inveterateness
+- invidiousness
+- invigilates
+- inviolateness
+- invisibilities
+- invokers
+- involucres
+- involuntariness

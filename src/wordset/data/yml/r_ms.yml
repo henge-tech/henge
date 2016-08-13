@@ -1,0 +1,50 @@
+---
+pattern: r_ms
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 40
+score: 1711777
+score_per_word: 81513
+hi_scored_words:
+  rams: 13998
+  randoms: 97266
+  reaffirms: 53140
+  realms: 15537
+  reams: 60713
+  redeems: 92865
+  referendums: 52438
+  reforms: 6750
+  restrooms: 32766
+  rhythms: 18093
+  rims: 20899
+  rms: 19202
+  roams: 82137
+  rooms: 1281
+  rums: 86246
+scored_words:
+  rainstorms: 132652
+  ransoms: 231462
+  reclaims: 101766
+  reconfirms: 328669
+  rems: 117356
+  roundworms: 146541
+not_scored_words:
+- RAMs
+- REMs
+- Rastafarianisms
+- Reims
+- Requiems
+- Rheims
+- Romanisms
+- Rosicrucianisms
+- radiograms
+- rearms
+- rectums
+- regionalisms
+- reprograms
+- requiems
+- reticulums
+- rewarms
+- roentgenograms
+- rostrums
+- ruffianisms

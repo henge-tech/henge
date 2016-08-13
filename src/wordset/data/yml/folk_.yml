@@ -1,0 +1,34 @@
+---
+pattern: folk_
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 24
+score: 2069265
+score_per_word: 129329
+hi_scored_words:
+  folk: 3008
+  folklore: 19175
+  folkloric: 80147
+  folks: 2914
+  folksy: 79447
+  folktale: 88048
+  folktales: 57527
+  folkways: 63818
+scored_words:
+  folkie: 264344
+  folkies: 321135
+  folklorist: 127342
+  folkloristic: 239836
+  folklorists: 207423
+  folkmoot: 224396
+  folksinger: 178301
+  folksong: 112404
+not_scored_words:
+- Folkestone
+- Folketing
+- folksier
+- folksiest
+- folksiness
+- folksingers
+- folksinging
+- folkway

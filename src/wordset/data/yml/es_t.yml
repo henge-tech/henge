@@ -1,0 +1,34 @@
+---
+pattern: es_t
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 24
+score: 854174
+score_per_word: 65705
+hi_scored_words:
+  escapement: 59707
+  escapist: 74711
+  escarpment: 53170
+  escort: 5209
+  esprit: 20788
+  essayist: 47193
+  est: 3728
+  establishment: 2953
+  estrangement: 57644
+scored_words:
+  escargot: 108002
+  escheat: 131831
+  esculent: 165638
+  essentialist: 123600
+not_scored_words:
+- EST
+- Escaut
+- Esperantist
+- Establishment
+- escapologist
+- eschalot
+- eschatologist
+- esotericist
+- estaminet
+- estreat
+- esurient

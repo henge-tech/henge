@@ -1,0 +1,29 @@
+---
+pattern: e_rt
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 19
+score: 333063
+score_per_word: 33306
+hi_scored_words:
+  effort: 1143
+  ert: 46874
+  escort: 5209
+  evert: 50207
+  exert: 15848
+  exhort: 60022
+  expert: 2794
+  export: 4660
+  extort: 57642
+  extrovert: 88664
+scored_words: {}
+not_scored_words:
+- Earhart
+- Ebert
+- Eckhart
+- Egbert
+- Elbert
+- Erfurt
+- Ethelbert
+- Evert
+- exsert

@@ -1,0 +1,40 @@
+---
+pattern: te_on
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 30
+score: 1754856
+score_per_word: 97492
+hi_scored_words:
+  teaspoon: 13016
+  telecommunication: 15939
+  teleportation: 60505
+  telethon: 66135
+  television: 7069
+  temptation: 8824
+  tendon: 26283
+  tenon: 59291
+  tension: 6081
+  termination: 9564
+  tessellation: 92332
+  tetrahedron: 43660
+scored_words:
+  telamon: 139115
+  telencephalon: 165734
+  telson: 198341
+  tentation: 278756
+  tergiversation: 234431
+  tesselation: 329780
+not_scored_words:
+- Teflon
+- Telamon
+- Tennyson
+- Teton
+- Tetragrammaton
+- Teuton
+- tellurion
+- temporization
+- ternion
+- terrorization
+- teston
+- tetragon

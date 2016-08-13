@@ -1,0 +1,51 @@
+---
+pattern: recu_
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 41
+score: 2330569
+score_per_word: 89637
+hi_scored_words:
+  recumbent: 35987
+  recuperate: 63088
+  recuperating: 87953
+  recuperation: 73028
+  recur: 32638
+  recurred: 77219
+  recurrence: 15408
+  recurrences: 62701
+  recurrent: 17638
+  recurring: 11160
+  recurs: 64842
+  recursion: 29275
+  recursive: 21043
+  recursively: 41911
+  recurve: 80623
+  recusant: 76247
+  recut: 77496
+scored_words:
+  recuperated: 169975
+  recuperative: 177370
+  recurrently: 213865
+  recursions: 212394
+  recurved: 167548
+  recusal: 170700
+  recusancy: 110145
+  recuse: 104078
+  recused: 136237
+not_scored_words:
+- recumbency
+- recumbently
+- recuperable
+- recuperates
+- recuperator
+- recurvate
+- recurvature
+- recurves
+- recurving
+- recusals
+- recusance
+- recusancies
+- recusants
+- recuses
+- recusing

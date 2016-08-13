@@ -1,0 +1,30 @@
+---
+pattern: r_ch
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 653059
+score_per_word: 54421
+hi_scored_words:
+  ranch: 6990
+  reach: 1183
+  relaunch: 50164
+  rematch: 42159
+  reproach: 25178
+  research: 1061
+  retouch: 84774
+  rich: 1141
+  roach: 23019
+scored_words:
+  reattach: 102715
+  retch: 124351
+  retrench: 190324
+not_scored_words:
+- Reich
+- Rich
+- Roach
+- Romansch
+- Rorschach
+- Rostropovich
+- restitch
+- reteach

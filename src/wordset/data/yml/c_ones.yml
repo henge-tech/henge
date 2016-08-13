@@ -1,0 +1,32 @@
+---
+pattern: c_ones
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 22
+score: 955995
+score_per_word: 79666
+hi_scored_words:
+  cellphones: 28219
+  chaperones: 66260
+  cheekbones: 85425
+  clones: 13177
+  cobblestones: 94916
+  cones: 17116
+  cornerstones: 59311
+  crossbones: 81601
+  cyclones: 32924
+scored_words:
+  colones: 159788
+  condones: 101591
+  crones: 215667
+not_scored_words:
+- capstones
+- cherrystones
+- chordophones
+- cicerones
+- clingstones
+- collarbones
+- cornpones
+- corticosterones
+- coumarones
+- curbstones

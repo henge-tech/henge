@@ -1,0 +1,38 @@
+---
+pattern: stam_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 28
+score: 1741527
+score_per_word: 87076
+hi_scored_words:
+  stamen: 87226
+  stamens: 58627
+  stamina: 22435
+  stammer: 79738
+  stammered: 56643
+  stammerer: 72063
+  stammering: 74248
+  stamp: 4995
+  stamped: 10620
+  stampede: 24750
+  stamper: 58081
+  stamping: 16482
+  stamps: 6346
+scored_words:
+  staminate: 235512
+  stammers: 139402
+  stampeded: 159358
+  stampedes: 254367
+  stampeding: 166418
+  stampers: 110907
+  stampings: 103309
+not_scored_words:
+- Stambul
+- Stamford
+- stamin
+- staminody
+- stammel
+- stammels
+- stammerers
+- stammeringly

@@ -1,0 +1,30 @@
+---
+pattern: bri_d
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 20
+score: 1086864
+score_per_word: 77633
+hi_scored_words:
+  briarwood: 86054
+  bribed: 52403
+  brickyard: 62537
+  bridesmaid: 27006
+  bridged: 39200
+  bridgehead: 79626
+  briefed: 26250
+  brigand: 78728
+  brightened: 47783
+  brimmed: 79237
+  bristled: 93545
+scored_words:
+  bricked: 128742
+  bridled: 113306
+  brindled: 172447
+not_scored_words:
+- Briand
+- Briard
+- Brigid
+- bridgeboard
+- brierwood
+- brisked

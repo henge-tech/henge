@@ -1,0 +1,23 @@
+---
+pattern: fi_al
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 745322
+score_per_word: 67756
+hi_scored_words:
+  fictional: 15006
+  fiducial: 81900
+  figural: 61795
+  filial: 48405
+  final: 715
+  financial: 1157
+  finial: 53351
+  fiscal: 4431
+scored_words:
+  filarial: 219839
+  finical: 105586
+  fishmeal: 153137
+not_scored_words:
+- firmamental
+- fissirostral

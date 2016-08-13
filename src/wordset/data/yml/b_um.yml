@@ -1,0 +1,32 @@
+---
+pattern: b_um
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 22
+score: 929547
+score_per_word: 84504
+hi_scored_words:
+  bacterium: 28807
+  barium: 27424
+  begum: 60321
+  beryllium: 38228
+  biennium: 72733
+  botulinum: 54745
+  bubblegum: 40250
+  bum: 18332
+  bunkum: 96105
+scored_words:
+  bdellium: 181236
+  berkelium: 311366
+not_scored_words:
+- Barnum
+- Baum
+- Belgium
+- Blum
+- Bochum
+- Borglum
+- Brundisium
+- Byzantium
+- basidium
+- bohrium
+- brachium

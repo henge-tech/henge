@@ -1,0 +1,29 @@
+---
+pattern: _edge
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 19
+score: 912236
+score_per_word: 60815
+hi_scored_words:
+  acknowledge: 5176
+  dredge: 32659
+  edge: 1375
+  foreknowledge: 73260
+  hedge: 8304
+  knowledge: 528
+  ledge: 20631
+  pledge: 6118
+  sedge: 40780
+  sledge: 23283
+  straightedge: 99936
+  wedge: 12265
+scored_words:
+  fledge: 117178
+  kedge: 252159
+  selvedge: 218584
+not_scored_words:
+- Rutledge
+- featheredge
+- frankpledge
+- kentledge

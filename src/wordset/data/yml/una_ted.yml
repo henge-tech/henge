@@ -1,0 +1,37 @@
+---
+pattern: una_ted
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 27
+score: 2275430
+score_per_word: 108353
+hi_scored_words:
+  unabated: 45309
+  unaccounted: 51005
+  unadjusted: 67863
+  unadulterated: 52992
+  unaffected: 19584
+  unaffiliated: 49100
+  unallocated: 73885
+  unanticipated: 40612
+  unappreciated: 69206
+  unassisted: 43841
+scored_words:
+  unaccented: 150360
+  unaccepted: 231363
+  unaccredited: 186954
+  unacquainted: 103758
+  unannotated: 113776
+  unappropriated: 130136
+  unarticulated: 239934
+  unassociated: 191972
+  unattributed: 152845
+  unaudited: 102260
+  unauthenticated: 158675
+not_scored_words:
+- unabbreviated
+- unadapted
+- unassimilated
+- unattempted
+- unattenuated
+- unattested

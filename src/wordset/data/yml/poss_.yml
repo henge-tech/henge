@@ -1,0 +1,36 @@
+---
+pattern: poss_
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 26
+score: 1105584
+score_per_word: 48068
+hi_scored_words:
+  poss: 38520
+  posse: 22154
+  posses: 47418
+  possess: 5182
+  possessed: 7317
+  possesses: 10663
+  possessing: 16437
+  possession: 3341
+  possessions: 10534
+  possessive: 36017
+  possessor: 39485
+  possessors: 88849
+  posset: 83605
+  possibilities: 5122
+  possibility: 2640
+  possible: 328
+  possibly: 2052
+  possum: 34118
+  possums: 79511
+scored_words:
+  possessiveness: 169314
+  possessives: 182838
+  possessory: 116206
+  possibles: 103933
+not_scored_words:
+- possessively
+- possets
+- possie

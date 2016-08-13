@@ -1,0 +1,30 @@
+---
+pattern: alle_s
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 20
+score: 659965
+score_per_word: 59996
+hi_scored_words:
+  allegations: 13156
+  alleges: 31972
+  allegiances: 77338
+  allegories: 86453
+  alleles: 27770
+  allergens: 40048
+  allergies: 14989
+  alleviates: 76734
+  alleys: 31747
+  alleyways: 84635
+scored_words:
+  allergists: 175123
+not_scored_words:
+- Alleghenies
+- allegorists
+- allegorizes
+- allegrettos
+- allegros
+- allelomorphs
+- alleluias
+- allemandes
+- alleviations

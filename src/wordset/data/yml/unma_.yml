@@ -1,0 +1,45 @@
+---
+pattern: unma_
+hi_scored_words_count: 9
+scored_words_count: 11
+total_words: 35
+score: 2618101
+score_per_word: 130905
+hi_scored_words:
+  unmade: 84503
+  unmanageable: 55124
+  unmanned: 30190
+  unmarked: 27220
+  unmarried: 14664
+  unmask: 37804
+  unmasked: 45983
+  unmasking: 85168
+  unmatched: 28719
+scored_words:
+  unmaintainable: 318722
+  unmaintained: 147139
+  unmake: 222910
+  unmaking: 154029
+  unmanly: 161353
+  unmannerly: 120459
+  unmapped: 122413
+  unmarketable: 213348
+  unmarred: 310948
+  unmasks: 211429
+  unmatchable: 225976
+not_scored_words:
+- unmagnified
+- unmakes
+- unmalicious
+- unman
+- unmanageability
+- unmanageably
+- unmanlier
+- unmanliest
+- unmannered
+- unmanneredly
+- unmanning
+- unmans
+- unmarriageable
+- unmasculine
+- unmastered

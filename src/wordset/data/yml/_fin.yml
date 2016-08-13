@@ -1,0 +1,32 @@
+---
+pattern: _fin
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 22
+score: 1622525
+score_per_word: 101407
+hi_scored_words:
+  coffin: 11759
+  elfin: 58240
+  fin: 7944
+  griffin: 11218
+  muffin: 23733
+  olefin: 71781
+  paraffin: 28514
+  puffin: 34267
+  ragamuffin: 97178
+  tiffin: 51129
+scored_words:
+  bloodfin: 207510
+  boffin: 103746
+  bowfin: 180855
+  infin: 256311
+  redfin: 253383
+  threadfin: 224957
+not_scored_words:
+- Baffin
+- Fin
+- Griffin
+- biffin
+- cycloparaffin
+- nitroparaffin

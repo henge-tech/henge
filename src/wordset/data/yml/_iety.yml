@@ -1,0 +1,32 @@
+---
+pattern: _iety
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 22
+score: 1054871
+score_per_word: 70324
+hi_scored_words:
+  anxiety: 3534
+  gaiety: 46297
+  impiety: 81650
+  impropriety: 45989
+  moiety: 44312
+  notoriety: 32690
+  piety: 21063
+  propriety: 22701
+  satiety: 84232
+  sobriety: 28829
+  society: 489
+  variety: 1300
+scored_words:
+  antianxiety: 165190
+  contrariety: 220003
+  subvariety: 256592
+not_scored_words:
+- Society
+- dubiety
+- inebriety
+- insatiety
+- insobriety
+- nimiety
+- ubiety

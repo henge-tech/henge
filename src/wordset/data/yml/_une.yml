@@ -1,0 +1,40 @@
+---
+pattern: _une
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 30
+score: 1437512
+score_per_word: 71875
+hi_scored_words:
+  autoimmune: 24110
+  commune: 16582
+  dune: 16623
+  fortune: 2966
+  immune: 11277
+  importune: 83475
+  inopportune: 85792
+  lune: 38651
+  misfortune: 17300
+  opportune: 43736
+  picayune: 43661
+  prune: 28921
+  rune: 22878
+  tribune: 6754
+  triune: 83305
+  tune: 4002
+scored_words:
+  attune: 137956
+  demilune: 319681
+  jejune: 224552
+  retune: 225290
+not_scored_words:
+- Beaune
+- Bethune
+- Fortune
+- June
+- Neptune
+- Pune
+- apolune
+- cohune
+- perilune
+- untune

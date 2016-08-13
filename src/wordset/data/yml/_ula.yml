@@ -1,0 +1,79 @@
+---
+pattern: _ula
+hi_scored_words_count: 19
+scored_words_count: 15
+total_words: 69
+score: 3862454
+score_per_word: 113601
+hi_scored_words:
+  arugula: 81153
+  calendula: 69105
+  campanula: 94872
+  cannula: 57122
+  copula: 72803
+  curricula: 16287
+  fibula: 66751
+  fistula: 34079
+  formula: 3992
+  hula: 25868
+  macula: 71456
+  nebula: 23755
+  peninsula: 6785
+  primula: 76260
+  pula: 39671
+  scapula: 70763
+  scrofula: 65037
+  spatula: 35113
+  tarantula: 36561
+scored_words:
+  alula: 293648
+  auricula: 234035
+  blastula: 239721
+  corbicula: 311065
+  diverticula: 178616
+  furcula: 110218
+  gastrula: 207414
+  gula: 124487
+  incunabula: 136825
+  inocula: 240496
+  insula: 112107
+  ligula: 210216
+  morula: 236818
+  specula: 175666
+  uvula: 103689
+not_scored_words:
+- Caligula
+- Canicula
+- Cholula
+- Dracula
+- EULA
+- Eula
+- Fula
+- Lula
+- Nampula
+- Paula
+- Pula
+- Shaula
+- Shula
+- Tula
+- Ursula
+- Vistula
+- Vulpecula
+- acicula
+- canula
+- capitula
+- cingula
+- cuticula
+- facula
+- fecula
+- ferula
+- lunula
+- planula
+- scopula
+- setula
+- situla
+- spicula
+- spirula
+- trabecula
+- ungula
+- vallecula

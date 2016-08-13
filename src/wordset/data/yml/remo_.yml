@@ -1,0 +1,71 @@
+---
+pattern: remo_
+hi_scored_words_count: 26
+scored_words_count: 12
+total_words: 61
+score: 3013740
+score_per_word: 79308
+hi_scored_words:
+  remodel: 36405
+  remodeled: 28666
+  remodeler: 76317
+  remodeling: 14983
+  remodels: 95233
+  remonstrance: 92168
+  remorse: 20514
+  remorseful: 78881
+  remorseless: 92497
+  remortgage: 55839
+  remortgages: 21519
+  remote: 1861
+  remotely: 12515
+  remoteness: 46159
+  remotes: 40055
+  remotest: 69947
+  remount: 82977
+  removable: 17830
+  removal: 3145
+  removals: 34183
+  remove: 1356
+  removed: 1530
+  remover: 17613
+  removers: 62721
+  removes: 11522
+  removing: 5048
+scored_words:
+  remolded: 299985
+  remonstrances: 155269
+  remonstrate: 141972
+  remonstrated: 123094
+  remonstrating: 121697
+  remora: 111981
+  remorselessly: 206877
+  remortgaging: 151007
+  remoter: 128555
+  remounted: 156527
+  remounting: 238751
+  removably: 156541
+not_scored_words:
+- remodification
+- remodify
+- remold
+- remolding
+- remolds
+- remonetize
+- remonstrant
+- remonstrantly
+- remonstrants
+- remonstrates
+- remonstration
+- remonstrations
+- remonstrative
+- remonstrator
+- remontant
+- remoras
+- remorsefully
+- remorsefulness
+- remorselessness
+- remortgaged
+- remotion
+- remotions
+- remounts

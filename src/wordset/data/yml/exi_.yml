@@ -1,0 +1,43 @@
+---
+pattern: exi_
+hi_scored_words_count: 20
+scored_words_count: 6
+total_words: 33
+score: 1867473
+score_per_word: 71825
+hi_scored_words:
+  exigencies: 61032
+  exigency: 80266
+  exigent: 72552
+  exile: 8505
+  exiled: 26523
+  exiles: 28923
+  exist: 1910
+  existed: 5151
+  existence: 2172
+  existences: 94859
+  existent: 18890
+  existential: 26544
+  existentialism: 48949
+  existentialist: 85382
+  existing: 1580
+  exists: 2552
+  exit: 4059
+  exited: 26273
+  exiting: 20781
+  exits: 19906
+scored_words:
+  exigence: 266307
+  exigences: 180211
+  exiguous: 142652
+  exiling: 263528
+  existentialists: 240421
+  existentially: 137545
+not_scored_words:
+- exigible
+- exiguity
+- exiguously
+- exiguousness
+- eximious
+- exine
+- existentialistic

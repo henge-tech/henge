@@ -1,0 +1,48 @@
+---
+pattern: c_ler
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 38
+score: 1696019
+score_per_word: 77091
+hi_scored_words:
+  caller: 12440
+  candler: 60376
+  chandler: 11718
+  chiller: 38435
+  chronicler: 59848
+  cobbler: 33312
+  compiler: 11779
+  comptroller: 23200
+  concealer: 47426
+  controller: 11912
+  cooler: 7438
+  coupler: 33878
+  crawler: 30345
+  culler: 88245
+  curler: 76793
+  cutler: 23217
+scored_words:
+  chiseller: 170512
+  choler: 197489
+  consoler: 103761
+  crippler: 285397
+  crueler: 255347
+  cycler: 113151
+not_scored_words:
+- Chandler
+- Chrysler
+- cackler
+- cajoler
+- canceler
+- carefuller
+- caroler
+- caviler
+- cheerfuller
+- chiseler
+- chortler
+- circler
+- coaler
+- coddler
+- commingler
+- cruller

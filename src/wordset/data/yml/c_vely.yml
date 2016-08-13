@@ -1,0 +1,44 @@
+---
+pattern: c_vely
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 34
+score: 1376797
+score_per_word: 76488
+hi_scored_words:
+  cognitively: 60148
+  collaboratively: 40825
+  collectively: 11461
+  comparatively: 12919
+  competitively: 27433
+  comprehensively: 42853
+  compulsively: 92671
+  conclusively: 35748
+  consecutively: 43947
+  conservatively: 48859
+  constitutively: 87481
+  constructively: 45450
+  cooperatively: 41736
+  creatively: 23843
+  cumulatively: 71125
+scored_words:
+  cohesively: 219142
+  communicatively: 324475
+  convulsively: 146681
+not_scored_words:
+- coextensively
+- collusively
+- combatively
+- concavely
+- conductively
+- conjunctively
+- connectively
+- consumptively
+- contemplatively
+- contradistinctively
+- copulatively
+- correlatively
+- corrosively
+- counterintuitively
+- curatively
+- cursively

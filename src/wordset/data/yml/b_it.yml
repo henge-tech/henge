@@ -1,0 +1,29 @@
+---
+pattern: b_it
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 762676
+score_per_word: 54476
+hi_scored_words:
+  babysit: 68918
+  bait: 9913
+  bandit: 18282
+  benefit: 1436
+  biscuit: 13759
+  bit: 553
+  bodysuit: 75520
+  breadfruit: 91084
+  brit: 17334
+  bruit: 80045
+  bullshit: 15581
+scored_words:
+  bedsit: 122088
+  befit: 129104
+  bowsprit: 119059
+not_scored_words:
+- Brigit
+- Brit
+- backbit
+- barit
+- bushtit

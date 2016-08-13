@@ -1,0 +1,49 @@
+---
+pattern: fa_er
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 39
+score: 988443
+score_per_word: 58143
+hi_scored_words:
+  fader: 37530
+  fainter: 26442
+  fairer: 30574
+  faker: 81933
+  falconer: 36015
+  faller: 92903
+  falter: 40266
+  fancier: 57265
+  farmer: 3819
+  farrier: 59454
+  farther: 7390
+  fastener: 35532
+  faster: 2577
+  father: 675
+  fatter: 47933
+scored_words:
+  facer: 116482
+  fayer: 311653
+not_scored_words:
+- Fairweather
+- Falkner
+- Falster
+- Farmer
+- Fassbinder
+- Father
+- Fathometer
+- Faulkner
+- fainer
+- falser
+- falsifier
+- falterer
+- fantasizer
+- faradmeter
+- farer
+- fashioner
+- fattener
+- fattier
+- faultfinder
+- faultier
+- favorer
+- fawner

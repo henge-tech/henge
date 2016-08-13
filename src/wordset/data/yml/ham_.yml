@@ -1,0 +1,100 @@
+---
+pattern: ham_
+hi_scored_words_count: 28
+scored_words_count: 6
+total_words: 90
+score: 2133617
+score_per_word: 62753
+hi_scored_words:
+  ham: 6261
+  hamal: 91648
+  hamburg: 8045
+  hamburger: 24468
+  hamburgers: 30723
+  hame: 63041
+  hames: 81706
+  hamlet: 10994
+  hamlets: 29995
+  hammer: 5419
+  hammered: 22114
+  hammerhead: 45456
+  hammering: 31107
+  hammers: 22473
+  hamming: 68526
+  hammock: 18950
+  hammocks: 36078
+  hammy: 90315
+  hamper: 20581
+  hampered: 24652
+  hampering: 68677
+  hampers: 32631
+  hams: 36048
+  hamster: 21447
+  hamsters: 31944
+  hamstring: 37874
+  hamstrings: 77774
+  hamza: 43449
+scored_words:
+  hamadryad: 150170
+  hamate: 113813
+  hamburgs: 306985
+  hammerheads: 121055
+  hammerlock: 247626
+  hamstrung: 111572
+not_scored_words:
+- Ham
+- Hama
+- Hamadan
+- Hamadryad
+- Hamah
+- Hamal
+- Hamamatsu
+- Haman
+- Hamas
+- Hambletonian
+- Hamburg
+- Hamburger
+- Hamburgs
+- Hamelin
+- Hamhung
+- Hamilcar
+- Hamill
+- Hamilton
+- Hamiltonian
+- Hamite
+- Hamitic
+- Hamlet
+- Hamlin
+- Hamm
+- Hammarskjold
+- Hammer
+- Hammerfest
+- Hammersmith
+- Hammerstein
+- Hammett
+- Hammond
+- Hammurabi
+- Hampden
+- Hampshire
+- Hampshires
+- Hampstead
+- Hampton
+- Hamsun
+- hamadryades
+- hamadryads
+- hamamelidaceous
+- hamartia
+- hamates
+- hammed
+- hammerer
+- hammerers
+- hammerings
+- hammerless
+- hammerlocks
+- hammertoe
+- hammertoes
+- hammier
+- hammiest
+- hamperer
+- hamstringing
+- hamulus

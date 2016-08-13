@@ -1,0 +1,32 @@
+---
+pattern: _eism
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 22
+score: 923855
+score_per_word: 92385
+hi_scored_words:
+  absenteeism: 40403
+  ageism: 82620
+  atheism: 19296
+  deism: 68843
+  monotheism: 52747
+  pantheism: 57597
+  polytheism: 74937
+  theism: 52247
+scored_words:
+  henotheism: 158006
+  seism: 317159
+not_scored_words:
+- Coueism
+- Manicheism
+- Orangeism
+- Yankeeism
+- ableism
+- dereism
+- ditheism
+- fideism
+- hylotheism
+- microseism
+- tritheism
+- vigilanteism

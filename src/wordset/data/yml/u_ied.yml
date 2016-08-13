@@ -1,0 +1,44 @@
+---
+pattern: u_ied
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 34
+score: 1945700
+score_per_word: 81070
+hi_scored_words:
+  unaccompanied: 35683
+  unclassified: 25100
+  undignified: 75085
+  unidentified: 16324
+  unified: 11231
+  unjustified: 33442
+  unmarried: 14664
+  unmodified: 41467
+  unoccupied: 36521
+  unqualified: 25361
+  unsatisfied: 36499
+  unspecified: 16207
+  untied: 45968
+  untried: 61942
+  unvaried: 99846
+  unverified: 42899
+scored_words:
+  unburied: 137774
+  uncertified: 109703
+  understudied: 204130
+  unhurried: 105736
+  unquantified: 288925
+  unstudied: 180927
+  unsullied: 123842
+  unwearied: 176424
+not_scored_words:
+- uglified
+- unallied
+- unbloodied
+- unbodied
+- undenied
+- unfortified
+- unmagnified
+- unpurified
+- unratified
+- unworried

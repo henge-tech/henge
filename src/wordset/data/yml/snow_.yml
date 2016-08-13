@@ -1,0 +1,75 @@
+---
+pattern: snow_
+hi_scored_words_count: 29
+scored_words_count: 19
+total_words: 65
+score: 4834105
+score_per_word: 100710
+hi_scored_words:
+  snow: 1455
+  snowball: 28929
+  snowballing: 83837
+  snowballs: 59697
+  snowbird: 57910
+  snowbirds: 88079
+  snowboard: 15021
+  snowboarder: 65223
+  snowboarders: 71909
+  snowboarding: 13932
+  snowboards: 49198
+  snowdrop: 86622
+  snowed: 46042
+  snowfall: 30268
+  snowflake: 25297
+  snowflakes: 42749
+  snowing: 38253
+  snowman: 22032
+  snowmen: 52926
+  snowmobile: 28183
+  snowmobiles: 48475
+  snowmobiling: 51953
+  snowplow: 84160
+  snows: 36175
+  snowshoe: 39287
+  snowshoeing: 56490
+  snowshoes: 50398
+  snowstorm: 40897
+  snowy: 13905
+scored_words:
+  snowballed: 159982
+  snowbank: 254589
+  snowberry: 189590
+  snowblower: 110935
+  snowblowers: 242341
+  snowbound: 114564
+  snowdrift: 157918
+  snowdrifts: 240956
+  snowdrops: 141217
+  snowfalls: 122911
+  snowfield: 202257
+  snowfields: 177232
+  snowiest: 285008
+  snowline: 219902
+  snowmobiler: 205265
+  snowplows: 178880
+  snowstorms: 109197
+  snowsuit: 124312
+  snowsuits: 267747
+not_scored_words:
+- Snow
+- Snowbelt
+- Snowdon
+- Snowdonia
+- snowbanks
+- snowbelt
+- snowberries
+- snowblink
+- snowboarded
+- snowcap
+- snowier
+- snowiness
+- snowmobiled
+- snowplowed
+- snowplowing
+- snowshed
+- snowslide

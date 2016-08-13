@@ -1,0 +1,28 @@
+---
+pattern: valu_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 18
+score: 772241
+score_per_word: 59403
+hi_scored_words:
+  valuable: 2444
+  valuables: 27846
+  valuation: 9844
+  valuations: 22682
+  value: 375
+  valued: 6159
+  valueless: 73634
+  valuer: 77002
+  valuers: 65559
+  values: 5030
+  valuing: 34635
+scored_words:
+  valuate: 195396
+  valuator: 251635
+not_scored_words:
+- valuably
+- valuated
+- valuates
+- valuating
+- valuators

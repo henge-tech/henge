@@ -1,0 +1,35 @@
+---
+pattern: _olt
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 25
+score: 1116359
+score_per_word: 79739
+hi_scored_words:
+  bolt: 7044
+  colt: 12623
+  deadbolt: 96051
+  dolt: 74376
+  holt: 10153
+  jolt: 26500
+  molt: 57650
+  revolt: 11067
+  thunderbolt: 28228
+  volt: 12140
+scored_words:
+  eyebolt: 231161
+  kilovolt: 220124
+  millivolt: 200061
+  smolt: 129181
+not_scored_words:
+- Colt
+- Holt
+- abvolt
+- archivolt
+- demivolt
+- fishbolt
+- kingbolt
+- megavolt
+- microvolt
+- statvolt
+- unbolt

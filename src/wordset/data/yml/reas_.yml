@@ -1,0 +1,57 @@
+---
+pattern: reas_
+hi_scored_words_count: 24
+scored_words_count: 14
+total_words: 47
+score: 3685861
+score_per_word: 96996
+hi_scored_words:
+  reason: 548
+  reasonable: 2013
+  reasonableness: 36307
+  reasonably: 5552
+  reasoned: 18638
+  reasoner: 80867
+  reasoning: 5549
+  reasons: 1399
+  reassemble: 67149
+  reassembled: 66315
+  reassembly: 74529
+  reassert: 83267
+  reassess: 45880
+  reassessed: 76618
+  reassessment: 40831
+  reassign: 66425
+  reassigned: 39270
+  reassignment: 43510
+  reassurance: 33671
+  reassure: 26759
+  reassured: 32892
+  reassures: 88306
+  reassuring: 25490
+  reassuringly: 95952
+scored_words:
+  reasonability: 306400
+  reasoners: 189547
+  reassembles: 248131
+  reassembling: 120226
+  reasserted: 115888
+  reasserting: 181310
+  reassertion: 222987
+  reasserts: 194412
+  reassessing: 101664
+  reassessments: 171506
+  reassigning: 145516
+  reassignments: 193793
+  reassigns: 323658
+  reassurances: 113086
+not_scored_words:
+- Reasoner
+- reascend
+- reascended
+- reascending
+- reascends
+- reasonless
+- reassesses
+- reassume
+- reassuming

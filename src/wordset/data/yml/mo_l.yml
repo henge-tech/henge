@@ -1,0 +1,62 @@
+---
+pattern: mo_l
+hi_scored_words_count: 23
+scored_words_count: 7
+total_words: 52
+score: 2037010
+score_per_word: 67900
+hi_scored_words:
+  modal: 20720
+  model: 1133
+  mogul: 29319
+  mol: 11239
+  molal: 97797
+  moll: 34828
+  monarchical: 95024
+  monaural: 85598
+  mongol: 33841
+  mongrel: 46644
+  monoclonal: 21488
+  monolingual: 67258
+  monorail: 34337
+  monumental: 17760
+  moral: 2383
+  morel: 38059
+  morphological: 26184
+  morsel: 47278
+  mortal: 7678
+  motel: 11082
+  motivational: 13317
+  mournful: 36668
+  mouthful: 28695
+scored_words:
+  moil: 219891
+  molehill: 101697
+  monocultural: 282462
+  monomial: 115184
+  monsoonal: 205284
+  mothball: 203869
+  mouthfeel: 100293
+not_scored_words:
+- Mobil
+- Moghul
+- Mogul
+- Moll
+- Mongol
+- Montreal
+- Mosel
+- Mosul
+- Motherwell
+- monachal
+- monarchal
+- monarchial
+- monasterial
+- monastical
+- monaxial
+- monitorial
+- monoclinal
+- monodical
+- monomaniacal
+- moorfowl
+- moschatel
+- mousetail

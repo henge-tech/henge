@@ -1,0 +1,39 @@
+---
+pattern: fu_t
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 29
+score: 1008700
+score_per_word: 77592
+hi_scored_words:
+  fulfillment: 13880
+  fullest: 14519
+  fulminant: 99724
+  fundamentalist: 23251
+  funniest: 19677
+  furthest: 28118
+  fut: 43985
+  futurist: 50463
+scored_words:
+  fumigant: 138297
+  functionalist: 109984
+  fundament: 151002
+  funkiest: 179195
+  funnest: 136605
+not_scored_words:
+- Fulbright
+- fuguist
+- fulgent
+- fulgurant
+- fumiest
+- funambulist
+- funest
+- fungistat
+- furriest
+- furthermost
+- fussbudget
+- fussiest
+- fusspot
+- fustiest
+- futurologist
+- fuzziest

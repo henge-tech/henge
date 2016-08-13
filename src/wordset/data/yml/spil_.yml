@@ -1,0 +1,25 @@
+---
+pattern: spil_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 723470
+score_per_word: 65770
+hi_scored_words:
+  spill: 11508
+  spillage: 57332
+  spilled: 21453
+  spiller: 58087
+  spilling: 32010
+  spillover: 63140
+  spillovers: 75872
+  spills: 28082
+  spillway: 56938
+scored_words:
+  spillages: 151776
+  spillways: 167272
+not_scored_words:
+- Spillane
+- spile
+- spiles
+- spillable

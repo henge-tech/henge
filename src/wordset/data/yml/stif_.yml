@@ -1,0 +1,31 @@
+---
+pattern: stif_
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 21
+score: 1344999
+score_per_word: 79117
+hi_scored_words:
+  stiff: 7149
+  stiffen: 56193
+  stiffened: 52525
+  stiffening: 64977
+  stiffer: 53363
+  stiffly: 68206
+  stiffness: 21570
+  stiffs: 54296
+  stifle: 31047
+  stifled: 45425
+  stifles: 90734
+  stifling: 40381
+scored_words:
+  stiffed: 133174
+  stiffener: 138976
+  stiffeners: 127966
+  stiffens: 170311
+  stiffest: 188706
+not_scored_words:
+- stiffing
+- stiffish
+- stiflingly
+- stiflings

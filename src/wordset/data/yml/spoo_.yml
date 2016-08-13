@@ -1,0 +1,51 @@
+---
+pattern: spoo_
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 41
+score: 2350387
+score_per_word: 90399
+hi_scored_words:
+  spoof: 26219
+  spoofed: 65313
+  spoofing: 40958
+  spoofs: 66118
+  spook: 43770
+  spooked: 64568
+  spooks: 50733
+  spooky: 19997
+  spool: 26943
+  spools: 56425
+  spoon: 8351
+  spoonbill: 87475
+  spoonful: 35709
+  spoonfuls: 80039
+  spoons: 19070
+  spoor: 66065
+scored_words:
+  spookiness: 195901
+  spooking: 237409
+  spooled: 116989
+  spooler: 108229
+  spooling: 101807
+  spoonbills: 184092
+  spooned: 146759
+  spoonfed: 201747
+  spooning: 104828
+  spoony: 194873
+not_scored_words:
+- spoofery
+- spookier
+- spookiest
+- spookily
+- spoondrift
+- spoondrifts
+- spoonerism
+- spoonerisms
+- spoonfeed
+- spoonfeeding
+- spoonfeeds
+- spoored
+- spoorer
+- spooring
+- spoors

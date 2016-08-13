@@ -1,0 +1,79 @@
+---
+pattern: mi_er
+hi_scored_words_count: 26
+scored_words_count: 9
+total_words: 69
+score: 2652338
+score_per_word: 75781
+hi_scored_words:
+  microcomputer: 36503
+  microfiber: 40288
+  micrometer: 44854
+  midfielder: 25629
+  midsummer: 22205
+  midwinter: 39972
+  mightier: 65613
+  milder: 34697
+  miler: 67207
+  miller: 3165
+  milliliter: 89749
+  millimeter: 28488
+  milliner: 74569
+  milter: 59051
+  minder: 45929
+  miner: 13763
+  minesweeper: 52257
+  minicomputer: 99484
+  minister: 1234
+  minster: 38861
+  minter: 58202
+  miser: 42181
+  misnomer: 51216
+  mister: 12153
+  miter: 47089
+  mixer: 12313
+scored_words:
+  milker: 192237
+  mimer: 174940
+  mincer: 108374
+  minimizer: 116510
+  miniver: 140292
+  minuter: 274622
+  misremember: 165669
+  missioner: 170762
+  mither: 202260
+not_scored_words:
+- Micawber
+- Michigander
+- Mideasterner
+- Midwesterner
+- Miller
+- Mister
+- microbrewer
+- microdensitometer
+- micromanager
+- micromillimeter
+- microreader
+- middlebreaker
+- middlebuster
+- milkier
+- milometer
+- mimicker
+- mindblower
+- minelayer
+- mingier
+- mingler
+- minnesinger
+- mintier
+- mirier
+- misbehaver
+- misbeliever
+- misconceiver
+- misdoer
+- misinterpreter
+- misjoinder
+- misnumber
+- misregister
+- mistaker
+- mistier
+- misuser

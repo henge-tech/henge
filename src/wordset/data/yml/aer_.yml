@@ -1,0 +1,100 @@
+---
+pattern: aer_
+hi_scored_words_count: 19
+scored_words_count: 16
+total_words: 90
+score: 3466229
+score_per_word: 99035
+hi_scored_words:
+  aerated: 58986
+  aeration: 41058
+  aerial: 7810
+  aerials: 38493
+  aerie: 80265
+  aero: 19066
+  aerobatic: 64175
+  aerobatics: 80565
+  aerobic: 20649
+  aerobics: 24863
+  aerodrome: 35481
+  aerodynamic: 31519
+  aerodynamics: 37792
+  aeron: 85545
+  aeronautical: 25983
+  aeronautics: 21770
+  aerosol: 19835
+  aerosols: 36219
+  aerospace: 7773
+scored_words:
+  aerate: 113667
+  aerating: 136331
+  aerator: 102083
+  aerators: 135283
+  aerialist: 191707
+  aerially: 312338
+  aerobically: 171394
+  aerobraking: 304027
+  aerodromes: 125686
+  aerodynamically: 164074
+  aerodyne: 237284
+  aerolite: 162762
+  aeromedical: 114875
+  aeronaut: 125337
+  aeronautic: 115977
+  aerostat: 215557
+not_scored_words:
+- Aeroflot
+- aerates
+- aerialists
+- aeries
+- aerification
+- aerified
+- aerifies
+- aeriform
+- aerify
+- aerifying
+- aeroballistics
+- aerobe
+- aerobes
+- aerobiology
+- aerobioses
+- aerobiosis
+- aerodonetics
+- aerodontia
+- aerodynamical
+- aerodynamicist
+- aeroembolism
+- aeroembolisms
+- aerogram
+- aerogramme
+- aerogrammes
+- aerograms
+- aerograph
+- aerography
+- aerolites
+- aerologies
+- aerology
+- aeromancy
+- aeromarine
+- aeromechanic
+- aeromechanics
+- aerometeorograph
+- aerometer
+- aerometry
+- aeronauts
+- aeroneurosis
+- aeropause
+- aerophagia
+- aerophagias
+- aerophobia
+- aerophone
+- aerophyte
+- aerophytes
+- aeroponics
+- aeroscope
+- aerosphere
+- aerostatic
+- aerostatics
+- aerostation
+- aerotherapeutics
+- aerothermodynamics

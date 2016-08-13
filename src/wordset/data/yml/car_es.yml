@@ -1,0 +1,56 @@
+---
+pattern: car_es
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 46
+score: 1878846
+score_per_word: 85402
+hi_scored_words:
+  carbines: 94465
+  carbohydrates: 17986
+  carbonates: 55728
+  carcasses: 37669
+  cares: 5504
+  caresses: 60118
+  cargoes: 48141
+  caricatures: 36433
+  caries: 37984
+  carnivores: 49791
+  carriages: 19874
+  carries: 5536
+  cartes: 50013
+  cartridges: 8616
+  carves: 84827
+scored_words:
+  carafes: 192044
+  carbamates: 174758
+  carbides: 108100
+  carboxylates: 325437
+  carbuncles: 191412
+  cartilages: 149036
+  cartouches: 125374
+not_scored_words:
+- Carmelites
+- caracoles
+- caramelizes
+- carapaces
+- caravansaries
+- carbonades
+- carbonizes
+- carburizes
+- cardies
+- cardinalates
+- cardiographies
+- carditises
+- carminatives
+- carmines
+- carnallites
+- carnies
+- carnifies
+- carnotites
+- carouses
+- carpospores
+- carthorses
+- caruncles
+- carveries
+- caryopses

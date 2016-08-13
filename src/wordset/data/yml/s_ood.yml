@@ -1,0 +1,29 @@
+---
+pattern: s_ood
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 19
+score: 1287768
+score_per_word: 91983
+hi_scored_words:
+  sainthood: 72193
+  sandalwood: 31965
+  seafood: 12560
+  sisterhood: 33935
+  snood: 94811
+  softwood: 47887
+  springwood: 89704
+  statehood: 37295
+  stood: 2496
+scored_words:
+  sapwood: 113520
+  satinwood: 196431
+  selfhood: 104817
+  spinsterhood: 122854
+  summerwood: 327300
+not_scored_words:
+- Sherwood
+- sapanwood
+- sappanwood
+- sourwood
+- stinkwood

@@ -1,0 +1,54 @@
+---
+pattern: f_re
+hi_scored_words_count: 25
+scored_words_count: 7
+total_words: 44
+score: 1819179
+score_per_word: 56849
+hi_scored_words:
+  failure: 1727
+  fanfare: 29809
+  fare: 6101
+  feature: 1591
+  figure: 571
+  fire: 472
+  firmware: 16870
+  fissure: 31726
+  fixture: 18217
+  flare: 14274
+  flatware: 42106
+  flexure: 76541
+  folklore: 19175
+  fore: 14038
+  foreclosure: 16907
+  foreshore: 46616
+  forevermore: 94085
+  forfeiture: 25238
+  foursquare: 63947
+  foxfire: 95190
+  fracture: 13046
+  freeware: 19598
+  furniture: 1786
+  furthermore: 5869
+  future: 381
+scored_words:
+  facture: 168386
+  fiacre: 140766
+  fieldfare: 227961
+  floriculture: 108381
+  footsore: 146106
+  forbore: 214564
+  fourscore: 157134
+not_scored_words:
+- Fabre
+- Faure
+- Fifeshire
+- Fillmore
+- Finisterre
+- Flintshire
+- Frigidaire
+- Frimaire
+- filature
+- forepleasure
+- forswore
+- frore

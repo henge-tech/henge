@@ -1,0 +1,43 @@
+---
+pattern: del_e
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 33
+score: 1641260
+score_per_word: 86382
+hi_scored_words:
+  dele: 74300
+  delectable: 35695
+  delegate: 10965
+  delete: 3398
+  deliberate: 9580
+  deliberative: 41834
+  delicate: 6048
+  delineate: 38899
+  deliverable: 39967
+  deliverance: 24326
+  delude: 66266
+  deluge: 29210
+  deluxe: 9815
+  delve: 32533
+scored_words:
+  delaine: 174915
+  delaminate: 341476
+  delegable: 297248
+  delftware: 282681
+  delusive: 122104
+not_scored_words:
+- Delaware
+- Delorme
+- Deluge
+- delate
+- delative
+- delectate
+- deleverage
+- delimitate
+- delineative
+- deliquesce
+- deliquescence
+- delitescence
+- delocalize
+- delouse

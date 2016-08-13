@@ -1,0 +1,38 @@
+---
+pattern: _ept
+hi_scored_words_count: 18
+scored_words_count: 3
+total_words: 28
+score: 929783
+score_per_word: 44275
+hi_scored_words:
+  accept: 1175
+  adept: 17850
+  concept: 2236
+  crept: 21148
+  dept: 19176
+  except: 809
+  inept: 38432
+  intercept: 15484
+  kept: 1286
+  percept: 72730
+  precept: 29085
+  rept: 48557
+  sept: 7332
+  slept: 7576
+  swept: 9706
+  transept: 75567
+  wept: 20661
+  windswept: 59889
+scored_words:
+  overslept: 103358
+  recept: 130568
+  unkept: 247158
+not_scored_words:
+- Sept
+- backswept
+- incept
+- intussuscept
+- unwept
+- upswept
+- yclept

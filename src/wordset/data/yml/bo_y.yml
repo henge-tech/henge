@@ -1,0 +1,66 @@
+---
+pattern: bo_y
+hi_scored_words_count: 18
+scored_words_count: 11
+total_words: 56
+score: 2346207
+score_per_word: 80903
+hi_scored_words:
+  bobby: 5431
+  bodily: 9887
+  body: 297
+  bogey: 36793
+  boggy: 71635
+  boldly: 16823
+  bonny: 34959
+  bony: 25247
+  booby: 35231
+  booty: 5388
+  bossy: 51153
+  botany: 16103
+  bouncy: 20974
+  boundary: 4307
+  bounty: 11550
+  bowery: 45159
+  boxy: 71039
+  boy: 627
+scored_words:
+  boastfully: 131837
+  bogosity: 322430
+  boisterously: 230338
+  boozy: 102677
+  boringly: 221115
+  botanically: 163899
+  botfly: 109250
+  bothy: 117691
+  bountifully: 197987
+  boyishly: 139858
+  boysenberry: 146522
+not_scored_words:
+- Bobby
+- Bombay
+- Bonny
+- Bovary
+- Bowery
+- bobbery
+- bobstay
+- bogusly
+- bolshy
+- bombastically
+- bookbindery
+- boorishly
+- bootery
+- bootlessly
+- bosky
+- bosomy
+- bossily
+- botanomancy
+- botchily
+- botchy
+- bottomry
+- bouncily
+- boundlessly
+- bounteously
+- bourgeoisify
+- bovinely
+- boxberry

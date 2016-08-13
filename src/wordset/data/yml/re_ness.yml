@@ -1,0 +1,61 @@
+---
+pattern: re_ness
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 51
+score: 2701451
+score_per_word: 128640
+hi_scored_words:
+  readiness: 9861
+  reasonableness: 36307
+  recklessness: 58786
+  redness: 32172
+  relatedness: 58115
+  remoteness: 46159
+  representativeness: 79392
+  resourcefulness: 67028
+  responsiveness: 19960
+  restlessness: 30730
+scored_words:
+  realness: 117874
+  rebelliousness: 169919
+  receptiveness: 178840
+  refractoriness: 213868
+  relentlessness: 292535
+  religiousness: 200878
+  remissness: 170507
+  repetitiveness: 188271
+  resoluteness: 292349
+  restfulness: 198557
+  restrictiveness: 239343
+not_scored_words:
+- readableness
+- recentness
+- recessiveness
+- reciprocalness
+- reclusiveness
+- reconditeness
+- reddishness
+- reediness
+- reflectiveness
+- reflexiveness
+- refractiveness
+- regressiveness
+- regretfulness
+- relativeness
+- reliableness
+- remarkableness
+- remorsefulness
+- remorselessness
+- repetitiousness
+- repleteness
+- repressiveness
+- reproachfulness
+- repulsiveness
+- resentfulness
+- reservedness
+- respectfulness
+- responsibleness
+- restiveness
+- retentiveness
+- retiringness

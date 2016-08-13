@@ -1,0 +1,55 @@
+---
+pattern: _nth
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 45
+score: 1668976
+score_per_word: 61813
+hi_scored_words:
+  amaranth: 55147
+  billionth: 90513
+  eighteenth: 12161
+  eleventh: 14423
+  fifteenth: 18310
+  fourteenth: 16720
+  hyacinth: 37004
+  labyrinth: 16298
+  millionth: 50431
+  month: 488
+  nineteenth: 8822
+  ninth: 9223
+  nth: 26220
+  plinth: 53054
+  seventeenth: 16032
+  seventh: 5155
+  sixteenth: 16303
+  synth: 18954
+  tenth: 8179
+  thirteenth: 19102
+scored_words:
+  coelacanth: 150203
+  helminth: 114156
+  perianth: 110379
+  tragacanth: 271607
+  trillionth: 239300
+  twelvemonth: 181073
+  umpteenth: 109719
+not_scored_words:
+- Adigranth
+- Corinth
+- Granth
+- Labyrinth
+- colocynth
+- decillionth
+- dozenth
+- hydranth
+- jacinth
+- nemathelminth
+- nonillionth
+- octillionth
+- platyhelminth
+- quadrillionth
+- quintillionth
+- septillionth
+- sextillionth
+- trochelminth

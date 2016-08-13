@@ -1,0 +1,39 @@
+---
+pattern: _ixes
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 29
+score: 992898
+score_per_word: 82741
+hi_scored_words:
+  affixes: 81443
+  appendixes: 57465
+  crucifixes: 70691
+  fixes: 8801
+  mixes: 15621
+  prefixes: 27115
+  remixes: 18380
+  sixes: 51777
+  suffixes: 38025
+scored_words:
+  nixes: 145479
+  phoenixes: 253709
+  premixes: 224392
+not_scored_words:
+- Unixes
+- admixes
+- amphimixes
+- antefixes
+- aviatrixes
+- bollixes
+- commixes
+- fornixes
+- immixes
+- infixes
+- inheritrixes
+- intermixes
+- postfixes
+- radixes
+- separatrixes
+- transfixes
+- unfixes

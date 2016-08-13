@@ -1,0 +1,34 @@
+---
+pattern: tes_s
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 24
+score: 761026
+score_per_word: 63418
+hi_scored_words:
+  testaments: 51014
+  testers: 18899
+  testes: 43520
+  testicles: 34218
+  testifies: 38085
+  testimonials: 14418
+  testimonies: 25959
+  testis: 31734
+  tests: 2432
+scored_words:
+  tessellations: 149870
+  testbeds: 195327
+  testings: 155550
+not_scored_words:
+- Tess
+- teslas
+- tessellates
+- testaceous
+- testas
+- testates
+- testators
+- testatrices
+- testees
+- testifiers
+- testiness
+- testudos

@@ -1,0 +1,28 @@
+---
+pattern: mul_r
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 18
+score: 824562
+score_per_word: 68713
+hi_scored_words:
+  muller: 16686
+  multicellular: 61777
+  multicolor: 44890
+  multilayer: 44023
+  multimeter: 55628
+  multiplayer: 9519
+  multiplexer: 49318
+  multiplier: 28545
+  multiprocessor: 55543
+  multiyear: 87202
+scored_words:
+  muleteer: 137187
+  multivibrator: 234244
+not_scored_words:
+- Mulciber
+- Mulder
+- Muller
+- muleskinner
+- multiangular
+- multinuclear

@@ -1,0 +1,61 @@
+---
+pattern: b_ate
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 51
+score: 2305620
+score_per_word: 109791
+hi_scored_words:
+  baccalaureate: 24511
+  backplate: 89737
+  barbiturate: 96064
+  bate: 35667
+  benzoate: 61546
+  berate: 79660
+  bicarbonate: 31660
+  billingsgate: 83242
+  boilerplate: 55050
+  bookplate: 97808
+  borate: 71370
+  borosilicate: 86262
+  breastplate: 55633
+  butyrate: 98131
+scored_words:
+  backdate: 226897
+  bidentate: 262992
+  bifurcate: 146594
+  birthrate: 117091
+  bisulfate: 308136
+  bitartrate: 121557
+  bromate: 156012
+not_scored_words:
+- baccate
+- baldpate
+- barbate
+- barbellate
+- bedmate
+- bedplate
+- biannulate
+- biauriculate
+- bichromate
+- biflagellate
+- bifoliate
+- bifoliolate
+- biforate
+- bijugate
+- bilabiate
+- bilobate
+- binate
+- binucleate
+- biocellate
+- bipinnate
+- biquadrate
+- biserrate
+- bisulcate
+- blate
+- brachiate
+- bracteate
+- brecciate
+- brominate
+- bullate
+- bunkmate

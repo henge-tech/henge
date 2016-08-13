@@ -1,0 +1,25 @@
+---
+pattern: prof_y
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 800348
+score_per_word: 66695
+hi_scored_words:
+  profanity: 23872
+  professionally: 14137
+  proficiency: 13279
+  profitability: 15908
+  profitably: 39415
+  profoundly: 14550
+  profundity: 77315
+  profusely: 36434
+scored_words:
+  profanely: 103822
+  professedly: 197428
+  proficiently: 155675
+  profligacy: 108513
+not_scored_words:
+- profanatory
+- professorially
+- profligately

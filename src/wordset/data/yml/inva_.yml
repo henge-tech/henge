@@ -1,0 +1,53 @@
+---
+pattern: inva_
+hi_scored_words_count: 23
+scored_words_count: 2
+total_words: 43
+score: 1211578
+score_per_word: 48463
+hi_scored_words:
+  invade: 14447
+  invaded: 13082
+  invader: 24925
+  invaders: 17365
+  invades: 45011
+  invading: 19588
+  invalid: 6355
+  invalidate: 35586
+  invalidated: 45997
+  invalidates: 80078
+  invalidating: 79888
+  invalidation: 67823
+  invalidity: 48225
+  invalids: 81658
+  invaluable: 11411
+  invariable: 57563
+  invariably: 12559
+  invariance: 40906
+  invariant: 19646
+  invariants: 40727
+  invasion: 4929
+  invasions: 30123
+  invasive: 14031
+scored_words:
+  invagination: 160208
+  invalided: 239447
+not_scored_words:
+- Invar
+- Invars
+- invaginate
+- invaginated
+- invaginates
+- invaginating
+- invaginations
+- invalidator
+- invaliding
+- invalidism
+- invalidly
+- invaluableness
+- invaluablenesses
+- invaluably
+- invariability
+- invariableness
+- invariablenesses
+- invariables

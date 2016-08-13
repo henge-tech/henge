@@ -1,0 +1,42 @@
+---
+pattern: con_ies
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 32
+score: 1457930
+score_per_word: 91120
+hi_scored_words:
+  congeries: 79996
+  conies: 69569
+  conservatories: 44984
+  conspiracies: 35264
+  constituencies: 22600
+  consultancies: 64836
+  contemporaries: 23986
+  contingencies: 28121
+  continuities: 91807
+  controversies: 22430
+scored_words:
+  conditionalities: 192777
+  conductivities: 126907
+  confederacies: 126628
+  conservancies: 238632
+  consistencies: 147725
+  contraries: 141668
+not_scored_words:
+- concavities
+- conceivabilities
+- concentricities
+- conchies
+- conchologies
+- confectioneries
+- confraternities
+- congruities
+- consistories
+- constabularies
+- consuetudinaries
+- contemptibilities
+- contractilities
+- contumelies
+- convergencies
+- conversancies

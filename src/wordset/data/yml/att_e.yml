@@ -1,0 +1,29 @@
+---
+pattern: att_e
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 610208
+score_per_word: 43586
+hi_scored_words:
+  attache: 40120
+  attainable: 32127
+  attendance: 4179
+  attendee: 43742
+  attentive: 15973
+  attenuate: 61888
+  attire: 14485
+  attitude: 2786
+  attractive: 3504
+  attributable: 16484
+  attribute: 4635
+scored_words:
+  attachable: 102363
+  attributive: 129966
+  attune: 137956
+not_scored_words:
+- Attlee
+- attainture
+- attemptable
+- attitudinize
+- attractable

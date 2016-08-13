@@ -1,0 +1,71 @@
+---
+pattern: _yl
+hi_scored_words_count: 22
+scored_words_count: 11
+total_words: 61
+score: 3104357
+score_per_word: 94071
+hi_scored_words:
+  acetyl: 30947
+  acyl: 40476
+  alkyl: 34907
+  allyl: 75708
+  amyl: 67791
+  aryl: 61089
+  benzoyl: 63186
+  benzyl: 59176
+  beryl: 29964
+  butyl: 36005
+  carbonyl: 45222
+  cyl: 39879
+  diphenyl: 80770
+  ethyl: 21988
+  hydroxyl: 39916
+  isopropyl: 55651
+  methyl: 22118
+  phenyl: 38356
+  polyvinyl: 49858
+  pterodactyl: 95745
+  sibyl: 61097
+  vinyl: 9802
+scored_words:
+  biphenyl: 100077
+  chrysoberyl: 270378
+  dactyl: 144771
+  formyl: 140583
+  glyceryl: 119814
+  hexyl: 207584
+  hypocotyl: 166141
+  naphthyl: 187483
+  pentyl: 292672
+  tolyl: 291722
+  uranyl: 123481
+not_scored_words:
+- Benadryl
+- Beryl
+- Caryl
+- Chernobyl
+- Cheryl
+- Darryl
+- Daryl
+- Dexamyl
+- Sheryl
+- Sibyl
+- acrylyl
+- antimonyl
+- artiodactyl
+- cacodyl
+- chromyl
+- epicotyl
+- indoxyl
+- nitrosyl
+- odyl
+- pentadactyl
+- perissodactyl
+- polydactyl
+- sulphuryl
+- syndactyl
+- tetryl
+- tridactyl
+- trotyl
+- zygodactyl

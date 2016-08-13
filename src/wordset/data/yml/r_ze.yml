@@ -1,0 +1,53 @@
+---
+pattern: r_ze
+hi_scored_words_count: 9
+scored_words_count: 12
+total_words: 43
+score: 3288843
+score_per_word: 156611
+hi_scored_words:
+  randomize: 82730
+  rationalize: 34247
+  raze: 64203
+  realize: 2771
+  recognize: 2987
+  reorganize: 40641
+  resize: 27000
+  revitalize: 36283
+  revolutionize: 39995
+scored_words:
+  radicalize: 277157
+  reanalyze: 326853
+  reauthorize: 124682
+  recapitalize: 323705
+  reemphasize: 269151
+  reenergize: 315901
+  refreeze: 287528
+  regularize: 166636
+  reinitialize: 204312
+  resynchronize: 262654
+  romanize: 240463
+  romanticize: 158944
+not_scored_words:
+- Romanize
+- Russianize
+- racialize
+- rebaptize
+- recolonize
+- recrystallize
+- refroze
+- reglaze
+- relativize
+- remilitarize
+- remonetize
+- republicanize
+- resynthesize
+- rhapsodize
+- rightsize
+- ritualistize
+- ritualize
+- robotize
+- routinize
+- rubberize
+- ruggedize
+- ruralize

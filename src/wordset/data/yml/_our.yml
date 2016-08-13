@@ -1,0 +1,46 @@
+---
+pattern: _our
+hi_scored_words_count: 22
+scored_words_count: 4
+total_words: 36
+score: 1220520
+score_per_word: 46943
+hi_scored_words:
+  amour: 18624
+  carrefour: 63143
+  contour: 14629
+  detour: 27596
+  devour: 27296
+  dour: 53042
+  downpour: 48942
+  flour: 5914
+  four: 292
+  glamour: 12441
+  hour: 542
+  our: 56
+  paramour: 86031
+  parkour: 77534
+  pompadour: 86050
+  pour: 2927
+  scour: 33649
+  sour: 8393
+  tour: 1789
+  troubadour: 46397
+  velour: 40329
+  your: 32
+scored_words:
+  cornflour: 161713
+  giaour: 120419
+  lour: 179763
+  tambour: 102977
+not_scored_words:
+- Armour
+- Balfour
+- Barbour
+- Cavour
+- L'Amour
+- Pompadour
+- Seymour
+- inpour
+- outpour
+- pandour

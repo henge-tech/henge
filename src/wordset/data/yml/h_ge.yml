@@ -1,0 +1,32 @@
+---
+pattern: h_ge
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 22
+score: 711504
+score_per_word: 50821
+hi_scored_words:
+  haulage: 42573
+  hedge: 8304
+  hemorrhage: 26725
+  henge: 71068
+  herbage: 74256
+  heritage: 4209
+  hermitage: 22220
+  hinge: 19247
+  hodgepodge: 72144
+  homage: 14141
+  homepage: 4019
+  hostage: 14647
+  huge: 939
+scored_words:
+  harborage: 337012
+not_scored_words:
+- Hermitage
+- Hiroshige
+- Hodge
+- hectarage
+- helotage
+- horologe
+- hypallage
+- hypophyge

@@ -1,0 +1,41 @@
+---
+pattern: sk_g
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 31
+score: 2467538
+score_per_word: 107284
+hi_scored_words:
+  skateboarding: 18652
+  skating: 10584
+  sketching: 33587
+  skewing: 90077
+  skidding: 66757
+  skiing: 9628
+  skilling: 49822
+  skimming: 40412
+  skinning: 40114
+  skipping: 17455
+  skirting: 46365
+  skydiving: 30096
+  skyrocketing: 59789
+scored_words:
+  skeg: 230945
+  skewering: 176136
+  skijoring: 277869
+  skimping: 189964
+  skirmishing: 122089
+  skittering: 199776
+  skiving: 277423
+  skulking: 117306
+  skylarking: 121690
+  skywriting: 241002
+not_scored_words:
+- skedaddling
+- skippering
+- skirling
+- skittling
+- skivvying
+- skunking
+- skying
+- skyjacking

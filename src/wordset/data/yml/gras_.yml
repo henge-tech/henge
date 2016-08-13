@@ -1,0 +1,33 @@
+---
+pattern: gras_
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 23
+score: 694075
+score_per_word: 49576
+hi_scored_words:
+  grasp: 7197
+  grasped: 20991
+  grasping: 20451
+  grasps: 67980
+  grass: 2753
+  grassed: 84619
+  grasses: 17448
+  grasshopper: 27698
+  grasshoppers: 44217
+  grassland: 23192
+  grasslands: 28657
+  grassroots: 16929
+  grassy: 20041
+scored_words:
+  graspable: 311902
+not_scored_words:
+- Grasmere
+- Grass
+- grasper
+- graspingly
+- grassier
+- grassiest
+- grassing
+- grassplot
+- grassquit

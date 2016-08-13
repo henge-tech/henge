@@ -1,0 +1,57 @@
+---
+pattern: insi_
+hi_scored_words_count: 26
+scored_words_count: 5
+total_words: 47
+score: 1710449
+score_per_word: 55175
+hi_scored_words:
+  inside: 857
+  insider: 10477
+  insiders: 19566
+  insides: 36985
+  insidious: 23595
+  insidiously: 98285
+  insight: 4398
+  insightful: 13304
+  insights: 6436
+  insignia: 19064
+  insignificance: 52492
+  insignificant: 12705
+  insincere: 52365
+  insincerity: 97555
+  insinuate: 65676
+  insinuated: 92472
+  insinuating: 76068
+  insinuation: 79271
+  insipid: 48226
+  insist: 7849
+  insisted: 7511
+  insistence: 21284
+  insistent: 41399
+  insistently: 96969
+  insisting: 20932
+  insists: 14461
+scored_words:
+  insignias: 125364
+  insignificantly: 135359
+  insinuates: 142609
+  insinuations: 100811
+  insipidity: 186104
+not_scored_words:
+- insidiousness
+- insightfulness
+- insightfulnesses
+- insignificancy
+- insincerely
+- insinuatingly
+- insinuative
+- insinuator
+- insinuators
+- insipidly
+- insipidness
+- insipidnesses
+- insipience
+- insistencies
+- insistency
+- insistingly

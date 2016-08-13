@@ -1,0 +1,32 @@
+---
+pattern: raf_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 22
+score: 1433266
+score_per_word: 102376
+hi_scored_words:
+  raff: 54259
+  raffia: 71744
+  raffle: 19205
+  raffles: 29953
+  raft: 18344
+  rafter: 50160
+  rafters: 37056
+  rafting: 21160
+  rafts: 37803
+scored_words:
+  raffinose: 233821
+  raffish: 225146
+  raffled: 162673
+  raffling: 256180
+  rafted: 215762
+not_scored_words:
+- RAF
+- Rafael
+- Raffles
+- raffinate
+- raffinoses
+- raffishly
+- raffishness
+- rafflesia

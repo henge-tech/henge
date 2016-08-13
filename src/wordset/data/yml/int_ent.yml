@@ -1,0 +1,27 @@
+---
+pattern: int_ent
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 954076
+score_per_word: 86734
+hi_scored_words:
+  integument: 98992
+  intelligent: 3099
+  intent: 3916
+  interdependent: 33128
+  interment: 31021
+  intermittent: 14758
+  internment: 36031
+  intransigent: 95673
+scored_words:
+  intendment: 189722
+  intercurrent: 231781
+  intumescent: 215955
+not_scored_words:
+- interfluent
+- interjacent
+- interlacement
+- internement
+- intertwinement
+- intervenient

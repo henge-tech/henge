@@ -1,0 +1,25 @@
+---
+pattern: du_l
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 834890
+score_per_word: 75899
+hi_scored_words:
+  dual: 6813
+  ducal: 51441
+  duel: 11260
+  duffel: 32162
+  dull: 6774
+  dumbbell: 41738
+  duodenal: 45471
+  dutiful: 58538
+scored_words:
+  duckbill: 232664
+  dunghill: 197611
+  duodecimal: 150418
+not_scored_words:
+- Duhamel
+- Duracell
+- Durrell
+- ducktail

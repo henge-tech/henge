@@ -1,0 +1,46 @@
+---
+pattern: _kly
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 36
+score: 2392221
+score_per_word: 99675
+hi_scored_words:
+  biweekly: 40358
+  blankly: 65272
+  briskly: 39598
+  darkly: 27984
+  frankly: 7423
+  meekly: 69214
+  prickly: 29897
+  quickly: 1077
+  sickly: 36083
+  sparkly: 42800
+  starkly: 61602
+  thickly: 37610
+  weakly: 17232
+  weekly: 2807
+  wrinkly: 77159
+scored_words:
+  blackly: 283922
+  bleakly: 186231
+  crackly: 222000
+  crinkly: 170173
+  newsweekly: 133599
+  sleekly: 264706
+  slickly: 209519
+  twinkly: 251629
+  wkly: 114326
+not_scored_words:
+- clerkly
+- dankly
+- fickly
+- freckly
+- lankly
+- midweekly
+- rankly
+- semiweekly
+- slackly
+- tickly
+- tinkly
+- triweekly

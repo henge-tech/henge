@@ -1,0 +1,37 @@
+---
+pattern: pri_es
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 27
+score: 1155090
+score_per_word: 57754
+hi_scored_words:
+  prices: 1523
+  prides: 41971
+  primaries: 38640
+  primates: 23342
+  primes: 28059
+  primitives: 36032
+  princes: 10166
+  princesses: 32292
+  principalities: 62865
+  principles: 1615
+  priorities: 4516
+  prioritizes: 94385
+  privates: 41568
+  privileges: 6107
+  prizes: 6554
+scored_words:
+  prickles: 165652
+  pries: 144182
+  priestesses: 105543
+  primroses: 137646
+  privies: 172432
+not_scored_words:
+- pridefulnesses
+- primatologies
+- primuses
+- prioresses
+- priories
+- privatenesses
+- privatizes

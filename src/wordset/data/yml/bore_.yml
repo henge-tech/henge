@@ -1,0 +1,24 @@
+---
+pattern: bore_
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 14
+score: 367945
+score_per_word: 40882
+hi_scored_words:
+  bore: 6069
+  boreal: 32838
+  bored: 6103
+  boredom: 17677
+  borehole: 44456
+  boreholes: 71937
+  borer: 44441
+  borers: 99744
+  bores: 44680
+scored_words: {}
+not_scored_words:
+- Boreal
+- Boreas
+- borecole
+- borecoles
+- boresome

@@ -1,0 +1,48 @@
+---
+pattern: u_m
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 38
+score: 1004390
+score_per_word: 71742
+hi_scored_words:
+  ultimatum: 33059
+  um: 4363
+  underarm: 61281
+  uniform: 2963
+  unionism: 52432
+  universalism: 50383
+  upstream: 17642
+  uranium: 16883
+  urbanism: 48734
+  utilitarianism: 59794
+scored_words:
+  uniformitarianism: 297384
+  unilateralism: 108935
+  unwisdom: 110554
+  utopianism: 139983
+not_scored_words:
+- UAM
+- USM
+- Ulm
+- Unionism
+- Unitarianism
+- Universalism
+- ubiquitarianism
+- ultraism
+- ultramodernism
+- ultramontanism
+- ultranationalism
+- unarm
+- unbosom
+- unciform
+- underwhelm
+- unguentum
+- unhelm
+- unjam
+- unnilhexium
+- unnilpentium
+- unnilquadium
+- unseam
+- uredium
+- uropygium

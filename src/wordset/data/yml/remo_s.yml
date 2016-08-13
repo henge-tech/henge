@@ -1,0 +1,28 @@
+---
+pattern: remo_s
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 18
+score: 559158
+score_per_word: 62128
+hi_scored_words:
+  remodels: 95233
+  remorseless: 92497
+  remortgages: 21519
+  remoteness: 46159
+  remotes: 40055
+  removals: 34183
+  removers: 62721
+  removes: 11522
+scored_words:
+  remonstrances: 155269
+not_scored_words:
+- remolds
+- remonstrants
+- remonstrates
+- remonstrations
+- remoras
+- remorsefulness
+- remorselessness
+- remotions
+- remounts

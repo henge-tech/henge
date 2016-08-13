@@ -1,0 +1,24 @@
+---
+pattern: ag_d
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 676773
+score_per_word: 67677
+hi_scored_words:
+  aged: 2985
+  aggravated: 16232
+  aggregated: 28760
+  aggrieved: 30364
+  agitated: 21836
+  agonized: 71162
+  agreed: 1566
+  aground: 46664
+scored_words:
+  agglomerated: 193077
+  agglutinated: 264127
+not_scored_words:
+- aggraded
+- aggrandized
+- aggressed
+- agueweed

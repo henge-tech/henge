@@ -1,0 +1,55 @@
+---
+pattern: s_less
+hi_scored_words_count: 23
+scored_words_count: 13
+total_words: 45
+score: 3537441
+score_per_word: 98262
+hi_scored_words:
+  scoreless: 49075
+  seamless: 15253
+  seedless: 81447
+  selfless: 34517
+  senseless: 27283
+  sexless: 89309
+  shameless: 17887
+  shapeless: 78308
+  shirtless: 33856
+  shoeless: 98067
+  sinless: 75791
+  skinless: 70247
+  sleepless: 22272
+  sleeveless: 25693
+  smokeless: 43778
+  soulless: 49929
+  speechless: 23890
+  spineless: 54355
+  spotless: 24149
+  stainless: 8527
+  stateless: 39881
+  strapless: 40442
+  sunless: 36791
+scored_words:
+  sapless: 287243
+  scentless: 214356
+  shadowless: 225341
+  shiftless: 142199
+  shoreless: 206473
+  sightless: 145277
+  soundless: 115716
+  spiritless: 180752
+  starless: 135841
+  stemless: 204704
+  structureless: 278922
+  sugarless: 125714
+  symptomless: 234156
+not_scored_words:
+- sateless
+- savorless
+- scaleless
+- shadeless
+- sourceless
+- spaceless
+- stoneless
+- subjectless
+- succorless

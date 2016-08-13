@@ -1,0 +1,44 @@
+---
+pattern: pare_
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 34
+score: 1940521
+score_per_word: 84370
+hi_scored_words:
+  pare: 33641
+  pared: 40646
+  paregoric: 95737
+  parent: 2268
+  parentage: 37969
+  parental: 8245
+  parenteral: 39736
+  parentheses: 23030
+  parenthesis: 31922
+  parenthetical: 62386
+  parenthood: 20058
+  parenting: 5526
+  parents: 977
+  pares: 78243
+scored_words:
+  parented: 195622
+  parenthesized: 157319
+  parenthetically: 114241
+  parer: 176085
+  paresis: 100493
+  paresthesia: 145643
+  paresthesias: 220133
+  paretic: 103980
+  pareve: 246621
+not_scored_words:
+- Pareto
+- paregmenon
+- pareira
+- parenthesize
+- parenthesizes
+- parenthesizing
+- parenthetic
+- parers
+- pareses
+- paretics
+- pareu

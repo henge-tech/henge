@@ -1,0 +1,30 @@
+---
+pattern: tre_es
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1154011
+score_per_word: 82429
+hi_scored_words:
+  treasures: 6764
+  treasuries: 59494
+  treaties: 14904
+  treatises: 41573
+  trees: 1479
+  trembles: 75685
+  trenches: 15989
+  trespasses: 75660
+  tresses: 66606
+scored_words:
+  treacheries: 180507
+  trebles: 143137
+  trellises: 102718
+  trematodes: 268415
+  trestles: 101080
+not_scored_words:
+- Treasuries
+- treadles
+- treillages
+- tremolites
+- trendies
+- trephines

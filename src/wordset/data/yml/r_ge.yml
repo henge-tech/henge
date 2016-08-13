@@ -1,0 +1,40 @@
+---
+pattern: r_ge
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 30
+score: 1460030
+score_per_word: 66365
+hi_scored_words:
+  rage: 4669
+  rampage: 20640
+  range: 842
+  ravage: 53569
+  rearrange: 34626
+  recharge: 20918
+  refuge: 6716
+  remarriage: 55441
+  remortgage: 55839
+  reportage: 53390
+  revenge: 4730
+  ridge: 3638
+  rouge: 8658
+  rummage: 47823
+scored_words:
+  reemerge: 227954
+  renege: 133627
+  repackage: 101368
+  repechage: 117919
+  resurge: 184606
+  ribcage: 100265
+  rivage: 101086
+  roughage: 121706
+not_scored_words:
+- Redbridge
+- Rutledge
+- reengage
+- reexchange
+- reforge
+- regorge
+- rejudge
+- restage

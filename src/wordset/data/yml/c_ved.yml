@@ -1,0 +1,22 @@
+---
+pattern: c_ved
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 832937
+score_per_word: 75721
+hi_scored_words:
+  carved: 7238
+  caved: 60098
+  cleaved: 53018
+  conceived: 7798
+  conserved: 22960
+  contrived: 22647
+  craved: 57419
+  curved: 9430
+scored_words:
+  calved: 170753
+  connived: 196773
+  convolved: 224803
+not_scored_words:
+- commoved

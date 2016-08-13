@@ -1,0 +1,25 @@
+---
+pattern: coll_d
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 641347
+score_per_word: 58304
+hi_scored_words:
+  collaborated: 23727
+  collapsed: 12374
+  collard: 56071
+  collared: 43278
+  collated: 48119
+  collected: 2217
+  collided: 42636
+  colloid: 41530
+scored_words:
+  collimated: 102898
+  collocated: 115947
+  colluded: 152550
+not_scored_words:
+- collectivized
+- collied
+- colligated
+- collogued

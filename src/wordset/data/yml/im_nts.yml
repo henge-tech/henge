@@ -1,0 +1,23 @@
+---
+pattern: im_nts
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 931832
+score_per_word: 84712
+hi_scored_words:
+  immigrants: 8236
+  impairments: 22838
+  impediments: 35342
+  implants: 12519
+  implements: 9019
+  impoundments: 95192
+  imprints: 44228
+  improvements: 3896
+scored_words:
+  immunosuppressants: 231924
+  impeachments: 256003
+  imprisonments: 212635
+not_scored_words:
+- immurements
+- impressments

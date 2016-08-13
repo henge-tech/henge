@@ -1,0 +1,29 @@
+---
+pattern: siz_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 19
+score: 841905
+score_per_word: 64761
+hi_scored_words:
+  sizable: 34778
+  size: 554
+  sizeable: 29316
+  sized: 7599
+  sizer: 81595
+  sizes: 3807
+  sizing: 15414
+  sizzle: 39121
+  sizzler: 79915
+  sizzles: 92667
+  sizzling: 35504
+scored_words:
+  sizzled: 204552
+  sizzlers: 217083
+not_scored_words:
+- sizableness
+- sizably
+- sizar
+- sizeableness
+- sizeably
+- sizzlingly

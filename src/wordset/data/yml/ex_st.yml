@@ -1,0 +1,25 @@
+---
+pattern: ex_st
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 843624
+score_per_word: 76693
+hi_scored_words:
+  exhaust: 7888
+  exhibitionist: 42462
+  exist: 1910
+  existentialist: 85382
+  exorcist: 32733
+  expansionist: 92985
+  expressionist: 67246
+  extremist: 23066
+scored_words:
+  experimentalist: 185693
+  extortionist: 195906
+  extremest: 108353
+not_scored_words:
+- exactest
+- excursionist
+- exobiologist
+- exodontist

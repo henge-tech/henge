@@ -1,0 +1,36 @@
+---
+pattern: lo_ers
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 26
+score: 1574860
+score_per_word: 82887
+hi_scored_words:
+  loaders: 36360
+  loafers: 39195
+  lobsters: 35989
+  lockers: 31211
+  loggers: 40994
+  lookers: 93951
+  looters: 55769
+  losers: 19050
+  loudspeakers: 34621
+  loungers: 77655
+  louvers: 89869
+  lovers: 4187
+  lowers: 22172
+scored_words:
+  loaners: 255071
+  lodgers: 100823
+  loiterers: 165987
+  loners: 108542
+  loopers: 171934
+  loppers: 191480
+not_scored_words:
+- Loafers
+- Londoners
+- loathers
+- lobbers
+- loiters
+- loudhailers
+- lowlanders

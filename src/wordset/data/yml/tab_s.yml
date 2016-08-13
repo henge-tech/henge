@@ -1,0 +1,34 @@
+---
+pattern: tab_s
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 24
+score: 1526617
+score_per_word: 84812
+hi_scored_words:
+  tabernacles: 87153
+  tabes: 60031
+  tablas: 90767
+  tablatures: 44193
+  tablecloths: 51800
+  tablelands: 74671
+  tables: 2256
+  tablespoons: 19165
+  tablets: 7876
+  tabloids: 50012
+  taboos: 51732
+  tabs: 6022
+  tabulations: 63696
+scored_words:
+  tabards: 246209
+  tabbies: 229814
+  tablespoonfuls: 142846
+  tabletops: 119257
+  tabulates: 179117
+not_scored_words:
+- Tabascos
+- Tabernacles
+- Tabrizes
+- taborets
+- tabors
+- tabulators

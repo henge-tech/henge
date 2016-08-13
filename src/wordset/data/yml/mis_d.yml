@@ -1,0 +1,87 @@
+---
+pattern: mis_d
+hi_scored_words_count: 27
+scored_words_count: 21
+total_words: 77
+score: 4768086
+score_per_word: 99335
+hi_scored_words:
+  misaligned: 84799
+  misapplied: 97486
+  misconstrued: 79303
+  misdiagnosed: 78637
+  misdirected: 58461
+  misguided: 20423
+  mishandled: 87676
+  misheard: 43897
+  misinformed: 51716
+  misinterpreted: 44110
+  misjudged: 79262
+  mislaid: 89230
+  mislead: 24716
+  misled: 21480
+  mismanaged: 89196
+  mismatched: 51003
+  misplaced: 24838
+  misquoted: 90257
+  misread: 45803
+  misrepresented: 37693
+  missed: 2467
+  misspelled: 31398
+  mistreated: 51418
+  mistyped: 81899
+  misunderstand: 33172
+  misunderstood: 14526
+  misused: 35645
+scored_words:
+  misappropriated: 111613
+  misbehaved: 143682
+  miscalculated: 101114
+  miscalled: 152668
+  miscarried: 101867
+  misclassified: 151886
+  misconceived: 136547
+  misdeed: 166765
+  misfiled: 266754
+  misfired: 174315
+  misidentified: 107634
+  mislabeled: 115562
+  misnamed: 135250
+  misprinted: 174509
+  mispronounced: 135249
+  misreported: 208681
+  misstated: 149662
+  misted: 172938
+  mistimed: 248007
+  mistranslated: 217453
+  mistrusted: 145419
+not_scored_words:
+- misaddressed
+- misadvised
+- misallied
+- misapprehend
+- misapprehended
+- misbelieved
+- misbrand
+- miscomprehended
+- misconducted
+- miscounted
+- miscreated
+- miscued
+- misdated
+- misdemeaned
+- misdid
+- misericord
+- misfield
+- misfitted
+- misgoverned
+- mismated
+- misperceived
+- misplayed
+- mispositioned
+- misremembered
+- misruled
+- missend
+- misshaped
+- misspend
+- misword

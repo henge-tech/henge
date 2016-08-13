@@ -1,0 +1,71 @@
+---
+pattern: _dled
+hi_scored_words_count: 21
+scored_words_count: 26
+total_words: 61
+score: 5836523
+score_per_word: 124181
+hi_scored_words:
+  addled: 78218
+  befuddled: 87824
+  bundled: 19035
+  cradled: 67770
+  cuddled: 71023
+  dwindled: 52104
+  fiddled: 86276
+  fondled: 78984
+  handled: 5534
+  huddled: 31751
+  kindled: 39209
+  mishandled: 87676
+  muddled: 49236
+  paddled: 57311
+  rekindled: 71436
+  riddled: 34569
+  saddled: 36819
+  straddled: 84498
+  unbridled: 37829
+  unbundled: 81466
+  wheedled: 93636
+scored_words:
+  bridled: 113306
+  brindled: 172447
+  coddled: 141259
+  curdled: 126657
+  dandled: 258959
+  dawdled: 148855
+  doodled: 220440
+  enkindled: 190850
+  fuddled: 164813
+  girdled: 181173
+  idled: 108338
+  ladled: 251488
+  manhandled: 132157
+  meddled: 168671
+  needled: 140765
+  peddled: 112858
+  puddled: 280899
+  sidled: 126564
+  spindled: 331714
+  swaddled: 179019
+  swindled: 110719
+  toddled: 266242
+  trundled: 173479
+  unhandled: 133632
+  unsaddled: 194614
+  waddled: 154401
+not_scored_words:
+- candled
+- canoodled
+- diddled
+- hurdled
+- mollycoddled
+- noodled
+- panhandled
+- piddled
+- raddled
+- ruddled
+- skedaddled
+- treadled
+- twaddled
+- twiddled

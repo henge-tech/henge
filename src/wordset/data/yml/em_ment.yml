@@ -1,0 +1,31 @@
+---
+pattern: em_ment
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 681110
+score_per_word: 61919
+hi_scored_words:
+  embankment: 27105
+  embarrassment: 16167
+  embellishment: 49555
+  embezzlement: 45013
+  embodiment: 14453
+  emplacement: 51339
+  employment: 1467
+  empowerment: 16537
+scored_words:
+  embayment: 143744
+  embedment: 200476
+  emolument: 115254
+not_scored_words:
+- embalmment
+- embarkment
+- embitterment
+- emblazonment
+- embossment
+- embracement
+- embranchment
+- embroilment
+- empanelment
+- empressement

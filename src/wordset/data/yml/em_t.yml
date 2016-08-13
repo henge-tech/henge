@@ -1,0 +1,44 @@
+---
+pattern: em_t
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 34
+score: 1156086
+score_per_word: 60846
+hi_scored_words:
+  embankment: 27105
+  embarrassment: 16167
+  embellishment: 49555
+  embezzlement: 45013
+  embodiment: 14453
+  emergent: 20212
+  emigrant: 35465
+  eminent: 9728
+  emit: 21687
+  emmet: 40440
+  emollient: 77912
+  empiricist: 90171
+  emplacement: 51339
+  employment: 1467
+  empowerment: 16537
+scored_words:
+  embayment: 143744
+  embedment: 200476
+  embonpoint: 179361
+  emolument: 115254
+not_scored_words:
+- EMT
+- Emmet
+- Emmett
+- embalmment
+- embarkment
+- embitterment
+- emblazonment
+- embossment
+- embracement
+- embranchment
+- embroilment
+- embryologist
+- empanelment
+- empressement
+- emptiest

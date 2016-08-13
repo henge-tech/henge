@@ -1,0 +1,36 @@
+---
+pattern: fr_rs
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 26
+score: 2040039
+score_per_word: 97144
+hi_scored_words:
+  framers: 44255
+  fraudsters: 68776
+  freeholders: 80893
+  freelancers: 32784
+  freezers: 27023
+  freighters: 76261
+  fresheners: 63578
+  freshers: 42641
+  friars: 31855
+  fritters: 67940
+  frontiers: 15867
+  fryers: 47538
+scored_words:
+  franchisers: 207037
+  franchisors: 135610
+  frankfurters: 142006
+  freebooters: 102560
+  freeloaders: 134848
+  freethinkers: 115620
+  frequenters: 138502
+  frighteners: 135669
+  fruiterers: 328776
+not_scored_words:
+- fraternizers
+- froghoppers
+- frolickers
+- frontbenchers
+- frotteurs

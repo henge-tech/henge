@@ -1,0 +1,50 @@
+---
+pattern: am_n
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 40
+score: 1205707
+score_per_word: 66983
+hi_scored_words:
+  amalgamation: 30566
+  amazon: 5001
+  amazonian: 53225
+  ambition: 7920
+  amelioration: 58376
+  amen: 11749
+  ammunition: 9317
+  amortization: 24470
+  amoxicillin: 43458
+  amphibian: 32834
+  ampicillin: 55479
+  amplification: 23660
+  amputation: 34125
+scored_words:
+  amain: 187624
+  ambulation: 108813
+  amnion: 123616
+  amygdalin: 150991
+  amylopectin: 244483
+not_scored_words:
+- Amazon
+- Amazonian
+- Amen
+- Amerasian
+- American
+- Americanization
+- Amerindian
+- Ameslan
+- Amin
+- Amman
+- Ammon
+- Amon
+- Amphitryon
+- Amundsen
+- ambiversion
+- ambulanceman
+- ambulancemen
+- ambulancewoman
+- ambulancewomen
+- amoebaean
+- amphictyon
+- amylopsin

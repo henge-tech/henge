@@ -1,0 +1,22 @@
+---
+pattern: cont_ting
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 683417
+score_per_word: 68341
+hi_scored_words:
+  contacting: 9499
+  contaminating: 53768
+  contemplating: 19754
+  contesting: 42504
+  contracting: 8284
+  contradicting: 43589
+  contrasting: 16499
+  contributing: 5796
+scored_words:
+  contenting: 242071
+  contorting: 241653
+not_scored_words:
+- contraindicating
+- controverting

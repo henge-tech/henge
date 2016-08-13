@@ -1,0 +1,46 @@
+---
+pattern: sh_ess
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 36
+score: 2524955
+score_per_word: 126247
+hi_scored_words:
+  shameless: 17887
+  shapeless: 78308
+  sharpness: 23581
+  sheerness: 87858
+  shepherdess: 93331
+  shirtless: 33856
+  shoeless: 98067
+  shortness: 34776
+  shrewdness: 89971
+  shyness: 32774
+scored_words:
+  shabbiness: 145062
+  shadowless: 225341
+  shakiness: 202995
+  shallowness: 101857
+  shamelessness: 213297
+  shiftless: 142199
+  shininess: 185002
+  shoreless: 206473
+  shortsightedness: 197755
+  shrillness: 314565
+not_scored_words:
+- Sheerness
+- shadeless
+- shadiness
+- shadowiness
+- shagginess
+- shamefacedness
+- shamefulness
+- shapelessness
+- shapeliness
+- sheepishness
+- shiftiness
+- shiftlessness
+- shoddiness
+- showiness
+- shrewishness
+- shrubbiness

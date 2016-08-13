@@ -1,0 +1,32 @@
+---
+pattern: hyp_ia
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 22
+score: 1168335
+score_per_word: 83452
+hi_scored_words:
+  hyperglycemia: 61318
+  hypermedia: 51976
+  hyperplasia: 31884
+  hyperthermia: 61045
+  hypoglycemia: 36234
+  hypoplasia: 85777
+  hypothermia: 39097
+  hypoxia: 33797
+scored_words:
+  hyperemia: 175077
+  hyperesthesia: 120067
+  hyperopia: 122848
+  hypochondria: 104541
+  hypoglycaemia: 104725
+  hypomania: 139949
+not_scored_words:
+- hyperdulia
+- hyperkinesia
+- hypermetropia
+- hyperphagia
+- hyperpyrexia
+- hypesthesia
+- hypochromia
+- hyposthenia

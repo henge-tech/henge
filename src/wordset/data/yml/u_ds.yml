@@ -1,0 +1,36 @@
+---
+pattern: u_ds
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 26
+score: 1510325
+score_per_word: 107880
+hi_scored_words:
+  ultrasounds: 85053
+  undergrads: 64545
+  understands: 8078
+  unfolds: 32070
+  upholds: 46784
+  uplands: 40151
+  uploads: 18291
+  upwards: 11041
+scored_words:
+  undecideds: 206826
+  undergirds: 271586
+  undergrounds: 185613
+  unloads: 100838
+  unwinds: 163973
+  upends: 275476
+not_scored_words:
+- Upanishads
+- unabridgeds
+- unbends
+- unbinds
+- unbraids
+- underbids
+- underfeeds
+- underwoods
+- underworlds
+- unfriends
+- unhands
+- upbraids

@@ -1,0 +1,40 @@
+---
+pattern: loca_
+hi_scored_words_count: 22
+scored_words_count: 3
+total_words: 30
+score: 1073685
+score_per_word: 42947
+hi_scored_words:
+  local: 604
+  locale: 20505
+  locales: 26922
+  localism: 81068
+  localities: 11919
+  locality: 11881
+  localization: 15258
+  localize: 42633
+  localized: 21086
+  localizing: 77699
+  locally: 8952
+  locals: 9351
+  locate: 6783
+  located: 1147
+  locates: 31644
+  locating: 13011
+  location: 2504
+  locational: 60346
+  locations: 2545
+  locative: 65104
+  locator: 19458
+  locators: 58090
+scored_words:
+  localizations: 112747
+  localizes: 120678
+  locatable: 251750
+not_scored_words:
+- Locarno
+- localisms
+- locatives
+- locavore
+- locavores

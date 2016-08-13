@@ -1,0 +1,75 @@
+---
+pattern: _ttes
+hi_scored_words_count: 17
+scored_words_count: 23
+total_words: 65
+score: 4740364
+score_per_word: 118509
+hi_scored_words:
+  baguettes: 82713
+  brunettes: 26279
+  buttes: 77851
+  cassettes: 18877
+  cigarettes: 6948
+  corvettes: 51231
+  diskettes: 64172
+  featurettes: 88171
+  lattes: 70944
+  marionettes: 80696
+  mattes: 83531
+  palettes: 42782
+  pipettes: 61274
+  rosettes: 48951
+  silhouettes: 41155
+  statuettes: 88276
+  vignettes: 39343
+scored_words:
+  audiocassettes: 170980
+  banquettes: 256000
+  barrettes: 118661
+  briquettes: 107685
+  charlottes: 154655
+  coquettes: 202077
+  courgettes: 136411
+  croquettes: 119685
+  culottes: 128034
+  dinettes: 236093
+  gazettes: 115757
+  kitchenettes: 133008
+  launderettes: 268734
+  layettes: 194722
+  lunettes: 132827
+  maisonettes: 148975
+  majorettes: 213300
+  omelettes: 102689
+  pirouettes: 223613
+  serviettes: 183632
+  suffragettes: 158453
+  towelettes: 153561
+  videocassettes: 107618
+not_scored_words:
+- Leatherettes
+- aigrettes
+- barbettes
+- brochettes
+- burettes
+- cocottes
+- couchettes
+- curettes
+- garottes
+- garrottes
+- gavottes
+- lorgnettes
+- luncheonettes
+- midinettes
+- mignonettes
+- moquettes
+- musettes
+- netiquettes
+- novelettes
+- oubliettes
+- pallettes
+- planchettes
+- roomettes
+- soubrettes
+- usherettes

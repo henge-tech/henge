@@ -1,0 +1,21 @@
+---
+pattern: e_cted
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 11
+score: 184236
+score_per_word: 20470
+hi_scored_words:
+  effected: 11559
+  ejected: 31413
+  elected: 2694
+  enacted: 14571
+  erected: 9546
+  evicted: 38780
+  exacted: 66333
+  expected: 911
+  extracted: 8429
+scored_words: {}
+not_scored_words:
+- eructed
+- extincted

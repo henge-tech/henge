@@ -1,0 +1,32 @@
+---
+pattern: ret_n
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 22
+score: 1026801
+score_per_word: 73342
+hi_scored_words:
+  retain: 4655
+  retaken: 94206
+  retaliation: 18138
+  retardation: 25927
+  retention: 9461
+  retraction: 44048
+  retrain: 65514
+  retransmission: 52934
+  retribution: 23070
+  return: 274
+scored_words:
+  reticulation: 121112
+  retrocession: 280380
+  retrogression: 130619
+  retrospection: 156463
+not_scored_words:
+- retorsion
+- retortion
+- retroaction
+- retrodden
+- retroflexion
+- retrogradation
+- retroversion
+- retrusion

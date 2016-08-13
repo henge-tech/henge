@@ -1,0 +1,41 @@
+---
+pattern: game_
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 31
+score: 2141883
+score_per_word: 107094
+hi_scored_words:
+  game: 340
+  gamecock: 68109
+  gamecocks: 41429
+  gamed: 93403
+  gamelan: 62991
+  gamer: 15549
+  gamers: 9059
+  games: 1290
+  gamete: 78131
+  gametes: 70279
+scored_words:
+  gamekeeper: 109087
+  gamekeepers: 182754
+  gamely: 138223
+  gamesmanship: 154116
+  gamester: 135162
+  gamesters: 174644
+  gametogenesis: 253790
+  gametophyte: 135882
+  gametophytes: 289526
+  gamey: 128119
+not_scored_words:
+- gameness
+- gamesmen
+- gamesome
+- gamest
+- gametangia
+- gametangium
+- gametic
+- gametocyte
+- gametocytes
+- gametophore
+- gametophores

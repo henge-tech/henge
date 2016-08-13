@@ -1,0 +1,44 @@
+---
+pattern: roug_
+hi_scored_words_count: 9
+scored_words_count: 11
+total_words: 34
+score: 2135584
+score_per_word: 106779
+hi_scored_words:
+  rouge: 8658
+  rough: 2964
+  roughed: 98336
+  rougher: 55006
+  roughest: 84806
+  roughing: 50925
+  roughly: 5496
+  roughness: 30184
+  roughriders: 82963
+scored_words:
+  rouged: 154809
+  rouges: 101247
+  roughage: 121706
+  roughen: 238888
+  roughened: 122350
+  roughening: 194778
+  roughneck: 112449
+  roughnecks: 101077
+  roughrider: 326504
+  roughs: 129945
+  roughshod: 112493
+not_scored_words:
+- roughcast
+- roughcasting
+- roughcasts
+- roughens
+- roughhew
+- roughhewn
+- roughhouse
+- roughhoused
+- roughhouses
+- roughhousing
+- roughish
+- roughnecked
+- roughnecking
+- rouging

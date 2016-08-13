@@ -1,0 +1,56 @@
+---
+pattern: outr_
+hi_scored_words_count: 10
+scored_words_count: 12
+total_words: 46
+score: 2654620
+score_per_word: 120664
+hi_scored_words:
+  outrage: 12781
+  outraged: 21246
+  outrageous: 12165
+  outrageously: 50441
+  outrages: 53515
+  outre: 64240
+  outreach: 10957
+  outrigger: 47229
+  outright: 13039
+  outrun: 39738
+scored_words:
+  outrageousness: 272318
+  outraging: 140754
+  outran: 144178
+  outrank: 166628
+  outranked: 255910
+  outranks: 228113
+  outreaches: 179491
+  outrider: 177263
+  outriders: 115607
+  outriggers: 126639
+  outrunning: 233633
+  outruns: 288735
+not_scored_words:
+- outrace
+- outraced
+- outraces
+- outracing
+- outrageousnesses
+- outrange
+- outranged
+- outranges
+- outranging
+- outranking
+- outreached
+- outreaching
+- outreason
+- outridden
+- outride
+- outrides
+- outriding
+- outroar
+- outroared
+- outroaring
+- outroars
+- outrode
+- outrush
+- outré

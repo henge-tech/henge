@@ -1,0 +1,30 @@
+---
+pattern: pr_ls
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 20
+score: 1212546
+score_per_word: 86610
+hi_scored_words:
+  practicals: 89012
+  prequels: 82429
+  preschools: 51426
+  pretzels: 39003
+  prevails: 24869
+  principals: 14906
+  professionals: 9069
+  propels: 67436
+  proposals: 8939
+  protocols: 15998
+scored_words:
+  pratfalls: 248081
+  prodigals: 271670
+  provincials: 100012
+  prowls: 189696
+not_scored_words:
+- Provencals
+- precancels
+- pretrials
+- processionals
+- proconsuls
+- proportionals

@@ -1,0 +1,39 @@
+---
+pattern: d_ct
+hi_scored_words_count: 22
+scored_words_count: 4
+total_words: 29
+score: 1364549
+score_per_word: 52482
+hi_scored_words:
+  deconstruct: 75536
+  deduct: 24450
+  defect: 6509
+  deflect: 39841
+  defunct: 24167
+  depict: 17631
+  derelict: 33379
+  deselect: 69079
+  destruct: 44932
+  detect: 5852
+  detract: 31076
+  dialect: 14222
+  dict: 39212
+  direct: 770
+  disconnect: 15901
+  disinfect: 62672
+  disrespect: 23919
+  dissect: 50927
+  distinct: 3442
+  distract: 20216
+  district: 975
+  duct: 17307
+scored_words:
+  deject: 148756
+  delict: 195191
+  diffract: 287688
+  disjunct: 110899
+not_scored_words:
+- decoct
+- disaffect
+- disject

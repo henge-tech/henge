@@ -1,0 +1,40 @@
+---
+pattern: b_ot
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 30
+score: 1030346
+score_per_word: 60608
+hi_scored_words:
+  ballot: 8038
+  bandicoot: 48972
+  barefoot: 14797
+  beetroot: 56480
+  bergamot: 50162
+  bigfoot: 29584
+  bigot: 38876
+  bigshot: 99199
+  bitterroot: 87104
+  bloodshot: 50504
+  blot: 19430
+  boot: 5738
+  bot: 8324
+  buckshot: 55772
+scored_words:
+  begot: 102522
+  bloodroot: 160383
+  burbot: 194461
+not_scored_words:
+- Bagehot
+- Bigfoot
+- Blackfoot
+- besot
+- bibelot
+- birdshot
+- birthroot
+- boughpot
+- bowknot
+- bowshot
+- breadroot
+- briarroot
+- brierroot

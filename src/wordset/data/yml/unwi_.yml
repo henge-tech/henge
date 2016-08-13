@@ -1,0 +1,35 @@
+---
+pattern: unwi_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 25
+score: 1148455
+score_per_word: 82032
+hi_scored_words:
+  unwieldy: 41478
+  unwilling: 11435
+  unwillingly: 61728
+  unwillingness: 34562
+  unwind: 30999
+  unwinding: 70073
+  unwise: 28130
+  unwisely: 83737
+  unwitting: 56471
+  unwittingly: 35628
+scored_words:
+  unwinds: 163973
+  unwinking: 281415
+  unwinnable: 138272
+  unwisdom: 110554
+not_scored_words:
+- unwieldier
+- unwieldiest
+- unwieldily
+- unwieldiness
+- unwilled
+- unwiser
+- unwisest
+- unwish
+- unwished
+- unwitnessed
+- unwittingness

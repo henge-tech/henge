@@ -1,0 +1,41 @@
+---
+pattern: untr_
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 31
+score: 2091335
+score_per_word: 110070
+hi_scored_words:
+  untrained: 40018
+  untranslated: 43704
+  untreated: 19576
+  untried: 61942
+  untroubled: 74816
+  untrue: 20262
+  untrustworthy: 56761
+  untruth: 70785
+  untruthful: 88624
+scored_words:
+  untraceable: 106591
+  untraditional: 174498
+  untrammeled: 132525
+  untransformed: 131779
+  untranslatable: 184183
+  untreatable: 152934
+  untrimmed: 158699
+  untrodden: 222223
+  untruthfulness: 237679
+  untruths: 113736
+not_scored_words:
+- untractable
+- untransferable
+- untraveled
+- untraversed
+- untread
+- untrod
+- untruer
+- untruest
+- untruly
+- untrustful
+- untrustworthiness
+- untruthfully

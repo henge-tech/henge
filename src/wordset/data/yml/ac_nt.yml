@@ -1,0 +1,36 @@
+---
+pattern: ac_nt
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 26
+score: 1469013
+score_per_word: 86412
+hi_scored_words:
+  accent: 5746
+  accident: 2473
+  accompaniment: 15641
+  accomplishment: 14348
+  account: 295
+  accountant: 13582
+  achievement: 4344
+  acknowledgement: 18223
+  acknowledgment: 19173
+  acquaint: 33448
+scored_words:
+  accelerant: 243087
+  acceptant: 201612
+  accordant: 185540
+  accouchement: 164181
+  accoutrement: 245337
+  acquiescent: 169745
+  acquirement: 132238
+not_scored_words:
+- acaulescent
+- accouplement
+- accouterment
+- accrescent
+- accumbent
+- acescent
+- acidulant
+- acidulent
+- acrodont

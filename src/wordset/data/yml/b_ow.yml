@@ -1,0 +1,29 @@
+---
+pattern: b_ow
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 19
+score: 661983
+score_per_word: 47284
+hi_scored_words:
+  backflow: 74589
+  barrow: 16534
+  bellow: 32853
+  below: 438
+  bestow: 26471
+  billow: 91646
+  blow: 1570
+  borrow: 7051
+  bow: 3568
+  brow: 15335
+  bungalow: 15079
+  burrow: 28653
+scored_words:
+  bedfellow: 162705
+  bowwow: 185491
+not_scored_words:
+- Barlow
+- Barrow
+- Bellow
+- Borrow
+- blackfellow

@@ -1,0 +1,28 @@
+---
+pattern: blo_ing
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 1051714
+score_per_word: 87642
+hi_scored_words:
+  bloating: 54627
+  blocking: 9845
+  blogging: 5623
+  bloodletting: 88317
+  blooming: 16408
+  blossoming: 46619
+  blotting: 38488
+  blowing: 5582
+scored_words:
+  blockading: 116586
+  blockbusting: 248051
+  bloodcurdling: 280995
+  bloodsucking: 140573
+not_scored_words:
+- blobbing
+- blooding
+- bloodying
+- blooping
+- blotching
+- blousing

@@ -1,0 +1,27 @@
+---
+pattern: she_g
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 17
+score: 1146064
+score_per_word: 88158
+hi_scored_words:
+  shearing: 34071
+  sheathing: 60735
+  shebang: 65715
+  shedding: 21809
+  sheepdog: 38469
+  sheeting: 42332
+  shelling: 40534
+  sheltering: 41293
+  shelving: 25911
+  shepherding: 94194
+  shewing: 81844
+scored_words:
+  sheering: 278188
+  shellfishing: 320969
+not_scored_words:
+- Shenyang
+- sheaving
+- sheepshearing
+- shellacking

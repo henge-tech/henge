@@ -1,0 +1,24 @@
+---
+pattern: b_op
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 806200
+score_per_word: 73290
+hi_scored_words:
+  backdrop: 19282
+  backstop: 72341
+  barbershop: 35486
+  bebop: 27041
+  bellhop: 99266
+  bishop: 3454
+  blacktop: 72728
+  bookshop: 23841
+  bop: 20195
+scored_words:
+  bakeshop: 281161
+  bloop: 151405
+not_scored_words:
+- Bishop
+- Bottrop
+- barhop

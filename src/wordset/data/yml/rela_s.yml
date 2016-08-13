@@ -1,0 +1,27 @@
+---
+pattern: rela_s
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 856860
+score_per_word: 65912
+hi_scored_words:
+  relapses: 70926
+  relatedness: 58115
+  relates: 6838
+  relations: 1164
+  relationships: 4148
+  relatives: 5193
+  relaxants: 69264
+  relaxers: 94613
+  relaxes: 46898
+  relays: 21548
+scored_words:
+  relativists: 203151
+  relaunches: 174345
+  relaxations: 100657
+not_scored_words:
+- relabels
+- relaters
+- relativeness
+- relativizes

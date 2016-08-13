@@ -1,0 +1,51 @@
+---
+pattern: _iver
+hi_scored_words_count: 20
+scored_words_count: 6
+total_words: 41
+score: 1697134
+score_per_word: 65274
+hi_scored_words:
+  caregiver: 19811
+  deceiver: 57424
+  deliver: 2463
+  diver: 17563
+  downriver: 70685
+  driver: 2026
+  fiver: 52656
+  giver: 23371
+  lawgiver: 79004
+  liver: 5010
+  quiver: 28787
+  receiver: 5516
+  river: 544
+  screwdriver: 21313
+  shiver: 24555
+  sliver: 39970
+  transceiver: 32276
+  upriver: 61851
+  vetiver: 82255
+  waiver: 13131
+scored_words:
+  cabdriver: 236752
+  contriver: 179272
+  miniver: 140292
+  reviver: 193638
+  skydiver: 109933
+  stiver: 197036
+not_scored_words:
+- Gulliver
+- Oliver
+- almsgiver
+- aquiver
+- conceiver
+- conniver
+- forgiver
+- helldiver
+- jiver
+- misconceiver
+- naiver
+- nondriver
+- redeliver
+- skiver
+- thriver

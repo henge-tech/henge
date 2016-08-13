@@ -1,0 +1,29 @@
+---
+pattern: sti_r
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 1025720
+score_per_word: 78901
+hi_scored_words:
+  sticker: 11110
+  stickler: 61410
+  stiffer: 53363
+  stiller: 39703
+  stimulator: 48578
+  stinger: 30601
+  stinker: 69655
+  stir: 6034
+  stirrer: 80697
+  stitcher: 83962
+scored_words:
+  stickier: 204595
+  stiffener: 138976
+  stiver: 197036
+not_scored_words:
+- stillier
+- stingier
+- stinkier
+- stinter
+- stippler
+- stipulator

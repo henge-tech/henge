@@ -1,0 +1,56 @@
+---
+pattern: _tful
+hi_scored_words_count: 26
+scored_words_count: 9
+total_words: 46
+score: 2439197
+score_per_word: 69691
+hi_scored_words:
+  artful: 26893
+  boastful: 83129
+  deceitful: 36123
+  delightful: 7067
+  disrespectful: 30089
+  distrustful: 69372
+  doubtful: 11166
+  eventful: 32061
+  fistful: 46313
+  fitful: 89925
+  forgetful: 40692
+  frightful: 31547
+  fruitful: 15836
+  hurtful: 34969
+  insightful: 13304
+  lustful: 50751
+  mistrustful: 86931
+  neglectful: 94484
+  resentful: 42558
+  respectful: 12434
+  restful: 39520
+  rightful: 24835
+  tactful: 59418
+  thoughtful: 8778
+  uneventful: 45052
+  wistful: 42163
+scored_words:
+  basketful: 134852
+  bucketful: 237702
+  effortful: 250293
+  fretful: 126672
+  pocketful: 111948
+  regretful: 101620
+  trustful: 116814
+  unfruitful: 132463
+  zestful: 151423
+not_scored_words:
+- chestful
+- disgustful
+- forethoughtful
+- potful
+- snootful
+- unresentful
+- unrespectful
+- unrestful
+- untactful
+- unthoughtful
+- untrustful

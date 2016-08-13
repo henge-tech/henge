@@ -1,0 +1,28 @@
+---
+pattern: _oop
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 18
+score: 926575
+score_per_word: 57910
+hi_scored_words:
+  coop: 17085
+  droop: 50523
+  goop: 94780
+  hoop: 13512
+  loop: 4989
+  poop: 15040
+  scoop: 12199
+  sloop: 34447
+  snoop: 23332
+  stoop: 29350
+  swoop: 30042
+  troop: 9384
+  whoop: 31975
+scored_words:
+  bloop: 151405
+  nincompoop: 131885
+  paratroop: 276627
+not_scored_words:
+- saloop
+- scroop

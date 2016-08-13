@@ -1,0 +1,22 @@
+---
+pattern: para_ng
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 935934
+score_per_word: 93593
+hi_scored_words:
+  parachuting: 62478
+  parading: 63461
+  paragliding: 49716
+  paralleling: 73343
+  paralyzing: 74604
+  parang: 77581
+  paraphrasing: 52975
+  parasailing: 82238
+scored_words:
+  paragraphing: 211136
+  parallelizing: 188402
+not_scored_words:
+- parasang
+- parascending

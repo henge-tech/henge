@@ -1,0 +1,31 @@
+---
+pattern: d_age
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 21
+score: 1266941
+score_per_word: 84462
+hi_scored_words:
+  damage: 1717
+  decoupage: 71384
+  disadvantage: 10470
+  discourage: 14832
+  disengage: 46432
+  disparage: 58564
+  dosage: 8929
+  drainage: 9480
+  dressage: 29645
+scored_words:
+  demurrage: 112020
+  dockage: 168464
+  dotage: 186483
+  downstage: 192973
+  drayage: 229641
+  dunnage: 125907
+not_scored_words:
+- decolletage
+- degage
+- deleverage
+- diallage
+- driftage
+- décolletage

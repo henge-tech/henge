@@ -1,0 +1,27 @@
+---
+pattern: s_wer
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 863700
+score_per_word: 71975
+hi_scored_words:
+  safflower: 79211
+  sewer: 12851
+  shallower: 57299
+  shower: 3246
+  skewer: 54668
+  slower: 8626
+  sower: 77137
+  sunflower: 20771
+  superpower: 27293
+scored_words:
+  snowblower: 110935
+  starflower: 253973
+  swallower: 157690
+not_scored_words:
+- sallower
+- sawer
+- shadower
+- spewer
+- strawflower

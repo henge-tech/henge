@@ -1,0 +1,29 @@
+---
+pattern: biog_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 802798
+score_per_word: 61753
+hi_scored_words:
+  biog: 84565
+  biogas: 60222
+  biogenesis: 56684
+  biogenic: 67291
+  biogeography: 59043
+  biographer: 32267
+  biographers: 74166
+  biographical: 12930
+  biographies: 11236
+  biography: 4217
+scored_words:
+  biogen: 120976
+  biogeochemistry: 102074
+  biographic: 117127
+not_scored_words:
+- biogeneses
+- biogenetic
+- biogenetically
+- biogeographer
+- biogeographies
+- biographically

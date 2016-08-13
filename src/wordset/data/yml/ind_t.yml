@@ -1,0 +1,34 @@
+---
+pattern: ind_t
+hi_scored_words_count: 17
+scored_words_count: 1
+total_words: 24
+score: 797157
+score_per_word: 44286
+hi_scored_words:
+  indecent: 22624
+  indent: 28041
+  independent: 1240
+  indict: 59305
+  indictment: 13860
+  indifferent: 13498
+  indigent: 31721
+  indignant: 31849
+  indirect: 5550
+  indiscreet: 70095
+  indistinct: 37566
+  individualist: 65766
+  indolent: 50556
+  inducement: 37385
+  induct: 76987
+  indulgent: 33410
+  industrialist: 56877
+scored_words:
+  indehiscent: 160827
+not_scored_words:
+- Independent
+- indevout
+- indicant
+- indraft
+- indult
+- indwelt

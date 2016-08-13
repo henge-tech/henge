@@ -1,0 +1,30 @@
+---
+pattern: ass_es
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 20
+score: 565994
+score_per_word: 43538
+hi_scored_words:
+  assemblages: 46003
+  assembles: 52107
+  assemblies: 10873
+  asses: 9191
+  assesses: 30006
+  assholes: 22831
+  assignees: 94873
+  associates: 3388
+  assumes: 5000
+  assurances: 18072
+  assures: 20074
+scored_words:
+  assimilates: 134954
+  assizes: 118622
+not_scored_words:
+- Assyriologies
+- assassinates
+- asseverates
+- assibilates
+- assiduities
+- assuages
+- assurednesses

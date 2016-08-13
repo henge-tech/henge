@@ -1,0 +1,27 @@
+---
+pattern: m_ied
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 17
+score: 1186993
+score_per_word: 84785
+hi_scored_words:
+  magnified: 30589
+  married: 1240
+  misapplied: 97486
+  modified: 2264
+  mortified: 56214
+  multiplied: 21007
+  mummified: 90917
+  mystified: 46519
+scored_words:
+  miscarried: 101867
+  misclassified: 151886
+  misidentified: 107634
+  mollified: 161086
+  muddied: 119092
+  mutinied: 199192
+not_scored_words:
+- memoried
+- minified
+- misallied

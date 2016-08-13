@@ -1,0 +1,25 @@
+---
+pattern: g_her
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 613012
+score_per_word: 55728
+hi_scored_words:
+  gather: 4365
+  geographer: 55516
+  godfather: 16529
+  godmother: 40883
+  gopher: 30098
+  grandfather: 6170
+  grandmother: 6978
+  gusher: 72419
+scored_words:
+  gatecrasher: 102664
+  gaucher: 102011
+  gnatcatcher: 175379
+not_scored_words:
+- Gallagher
+- Gopher
+- Gunther
+- glossographer

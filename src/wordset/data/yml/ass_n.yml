@@ -1,0 +1,29 @@
+---
+pattern: ass_n
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 19
+score: 723211
+score_per_word: 55631
+hi_scored_words:
+  assassin: 14472
+  assassination: 11915
+  assemblyman: 42320
+  assertion: 8935
+  assign: 7572
+  assimilation: 20300
+  assn: 34062
+  association: 1406
+  assumption: 5325
+scored_words:
+  assemblymen: 212748
+  assemblywoman: 104112
+  asseveration: 146431
+  assignation: 113613
+not_scored_words:
+- Assiniboin
+- Assuan
+- Assumption
+- Assyrian
+- assemblywomen
+- assentation

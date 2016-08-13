@@ -1,0 +1,24 @@
+---
+pattern: _rove
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 14
+score: 287235
+score_per_word: 23936
+hi_scored_words:
+  approve: 4926
+  disapprove: 25193
+  disprove: 35584
+  drove: 4619
+  grove: 4433
+  improve: 1966
+  mangrove: 29236
+  prove: 2137
+  reprove: 84630
+  rove: 18247
+  strove: 36358
+  trove: 39906
+scored_words: {}
+not_scored_words:
+- Rove
+- preapprove

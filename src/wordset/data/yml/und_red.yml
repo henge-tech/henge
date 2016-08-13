@@ -1,0 +1,19 @@
+---
+pattern: und_red
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 429597
+score_per_word: 53699
+hi_scored_words:
+  undeclared: 34675
+  undelivered: 73149
+  underpowered: 85193
+  underscored: 43282
+  underwired: 39521
+  undesired: 60395
+  undeterred: 68019
+  undiscovered: 25363
+scored_words: {}
+not_scored_words:
+- underbred

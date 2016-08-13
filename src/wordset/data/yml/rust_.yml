@@ -1,0 +1,41 @@
+---
+pattern: rust_
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 31
+score: 2102339
+score_per_word: 110649
+hi_scored_words:
+  rust: 10574
+  rusted: 36447
+  rustic: 12386
+  rustication: 98826
+  rusting: 61559
+  rustle: 43815
+  rustled: 84341
+  rustler: 91718
+  rustlers: 99486
+  rustling: 46970
+  rusty: 17401
+scored_words:
+  rusticate: 163944
+  rusticated: 273177
+  rusticity: 154309
+  rustics: 127344
+  rustles: 241370
+  rustproof: 188899
+  rustproofing: 228170
+  rusts: 121603
+not_scored_words:
+- Rustbelt
+- Rusty
+- rustically
+- rusticates
+- rusticating
+- rustier
+- rustiest
+- rustily
+- rustiness
+- rustlings
+- rustproofed
+- rustproofs

@@ -1,0 +1,62 @@
+---
+pattern: _ield
+hi_scored_words_count: 24
+scored_words_count: 3
+total_words: 52
+score: 1721481
+score_per_word: 63758
+hi_scored_words:
+  afield: 37057
+  airfield: 22681
+  backfield: 76041
+  battlefield: 7948
+  brownfield: 43395
+  canfield: 45414
+  chesterfield: 17729
+  coalfield: 83867
+  cornfield: 52842
+  downfield: 96088
+  field: 451
+  goldfield: 83184
+  greenfield: 23767
+  hayfield: 91564
+  infield: 36064
+  midfield: 27382
+  minefield: 43960
+  oilfield: 45911
+  outfield: 35282
+  shield: 4143
+  subfield: 66093
+  wield: 29280
+  windshield: 18937
+  yield: 3110
+scored_words:
+  grainfield: 291810
+  snowfield: 202257
+  urnfield: 235224
+not_scored_words:
+- Bakersfield
+- Beaconsfield
+- Bloomfield
+- Chesterfield
+- Copperfield
+- Dangerfield
+- Enfield
+- Fairfield
+- Field
+- Garfield
+- Hatfield
+- Huddersfield
+- Lichfield
+- Mansfield
+- Masefield
+- Oldfield
+- Sheffield
+- Springfield
+- Wakefield
+- Whitefield
+- Whitfield
+- Winfield
+- bield
+- colorfield
+- misfield

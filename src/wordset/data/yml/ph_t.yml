@@ -1,0 +1,38 @@
+---
+pattern: ph_t
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 28
+score: 1163196
+score_per_word: 77546
+hi_scored_words:
+  pharmacist: 15136
+  phat: 19976
+  pheasant: 23894
+  philanthropist: 35680
+  phosphorescent: 77414
+  phot: 65372
+  photojournalist: 58324
+  physicist: 22844
+  physiologist: 63959
+  physiotherapist: 56551
+scored_words:
+  pharmacologist: 132493
+  phaseout: 128198
+  philologist: 138849
+  photocurrent: 173704
+  photostat: 150802
+not_scored_words:
+- Photostat
+- phenocryst
+- philatelist
+- philogynist
+- phlegmiest
+- phoneticist
+- phonetist
+- phoniest
+- phonologist
+- photorealist
+- phraseologist
+- phrenologist
+- phylogenist

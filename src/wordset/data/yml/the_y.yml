@@ -1,0 +1,46 @@
+---
+pattern: the_y
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 36
+score: 2224415
+score_per_word: 92683
+hi_scored_words:
+  theatrically: 71787
+  thematically: 64237
+  theocracy: 44347
+  theologically: 58274
+  theology: 6126
+  theoretically: 16377
+  theory: 1170
+  theosophy: 50381
+  therapeutically: 85404
+  therapy: 5336
+  thereby: 4318
+  thermally: 42224
+  thermography: 92459
+  they: 35
+scored_words:
+  theatricality: 148209
+  theodicy: 110772
+  theogony: 232587
+  theophany: 140342
+  thermochemistry: 188761
+  thermodynamically: 133479
+  thermometry: 146749
+  thermostatically: 176279
+  thermotherapy: 269304
+  theurgy: 135458
+not_scored_words:
+- Theocracy
+- Theosophy
+- Thessaly
+- thearchy
+- theocrasy
+- theocratically
+- theomachy
+- theomancy
+- theosophically
+- thermoelectricity
+- thermometrically
+- thewy

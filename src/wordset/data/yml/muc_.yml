@@ -1,0 +1,45 @@
+---
+pattern: muc_
+hi_scored_words_count: 9
+scored_words_count: 11
+total_words: 35
+score: 2362852
+score_per_word: 118142
+hi_scored_words:
+  much: 131
+  muchness: 92934
+  mucin: 82848
+  muck: 21705
+  mucking: 62021
+  mucky: 65557
+  mucosa: 28800
+  mucous: 28683
+  mucus: 31334
+scored_words:
+  mucilage: 148289
+  mucilaginous: 235058
+  mucins: 176283
+  mucked: 122732
+  mucker: 134005
+  muckraker: 165440
+  muckrakers: 231926
+  muckraking: 152775
+  mucks: 179929
+  mucoid: 173088
+  mucor: 229314
+not_scored_words:
+- muchnesses
+- muckier
+- muckiest
+- muckrake
+- muckraked
+- muckrakes
+- muckworm
+- mucoprotein
+- mucors
+- mucosas
+- mucose
+- mucosity
+- mucoviscidosis
+- mucro
+- mucronate

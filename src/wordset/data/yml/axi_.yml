@@ -1,0 +1,29 @@
+---
+pattern: axi_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 952504
+score_per_word: 79375
+hi_scored_words:
+  axial: 18462
+  axially: 69352
+  axil: 94592
+  axilla: 95247
+  axillary: 43795
+  axiom: 19123
+  axiomatic: 45781
+  axioms: 29936
+  axis: 5636
+scored_words:
+  axils: 174792
+  axing: 126569
+  axiomatically: 229219
+not_scored_words:
+- Axis
+- axillae
+- axillas
+- axinomancy
+- axiologies
+- axiology
+- axiomatizing

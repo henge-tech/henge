@@ -1,0 +1,36 @@
+---
+pattern: s_ow
+hi_scored_words_count: 18
+scored_words_count: 1
+total_words: 26
+score: 765121
+score_per_word: 40269
+hi_scored_words:
+  sallow: 72791
+  scarecrow: 25845
+  schoolfellow: 90258
+  scow: 85110
+  shadow: 2524
+  shallow: 6410
+  show: 199
+  sideshow: 30496
+  slideshow: 13546
+  slow: 1653
+  snow: 1455
+  snowplow: 84160
+  somehow: 3544
+  sorrow: 7563
+  sow: 19320
+  sparrow: 14791
+  stow: 26241
+  swallow: 7589
+scored_words:
+  sunbow: 271626
+not_scored_words:
+- Snow
+- Soochow
+- Swatow
+- saddlebow
+- serow
+- shopwindow
+- strow

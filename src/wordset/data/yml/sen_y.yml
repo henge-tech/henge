@@ -1,0 +1,32 @@
+---
+pattern: sen_y
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 22
+score: 1435236
+score_per_word: 89702
+hi_scored_words:
+  senility: 91623
+  seniority: 26318
+  sensibility: 21106
+  sensibly: 35716
+  sensitively: 63288
+  sensitivity: 8837
+  sensory: 15613
+  sensuality: 32480
+  sentimentality: 56078
+  sentry: 19225
+scored_words:
+  sensationally: 178535
+  senselessly: 192877
+  sensually: 132590
+  sensuously: 186892
+  sententiously: 165687
+  sentimentally: 208371
+not_scored_words:
+- senary
+- senilely
+- sensuosity
+- sententially
+- sentiency
+- sentiently

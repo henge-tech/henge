@@ -1,0 +1,134 @@
+---
+pattern: a_is
+hi_scored_words_count: 26
+scored_words_count: 28
+total_words: 124
+score: 5927387
+score_per_word: 109766
+hi_scored_words:
+  abiogenesis: 95224
+  acidosis: 41970
+  acropolis: 35012
+  adonis: 31036
+  aegis: 27534
+  ais: 23289
+  amaryllis: 51532
+  ambergris: 67540
+  amniocentesis: 75896
+  analysis: 1780
+  anaphylaxis: 51201
+  anastomosis: 52667
+  angiogenesis: 46509
+  anis: 75623
+  antithesis: 37021
+  aphis: 61793
+  apoptosis: 20477
+  apotheosis: 65493
+  appendicitis: 41012
+  arteriosclerosis: 48690
+  arteritis: 81141
+  arthritis: 9799
+  asbestosis: 85326
+  aspergillosis: 98827
+  atherosclerosis: 30622
+  axis: 5636
+scored_words:
+  abatis: 110770
+  actinomycosis: 174588
+  afghanis: 132387
+  agenesis: 118340
+  agranulocytosis: 144866
+  alibis: 110474
+  alkalis: 102656
+  alkalosis: 120828
+  amanuensis: 153543
+  anabasis: 186191
+  anacrusis: 302448
+  anagnorisis: 204354
+  anamnesis: 192588
+  ankylosis: 234929
+  anthesis: 188735
+  antis: 120890
+  apheresis: 130237
+  apodosis: 141892
+  aponeurosis: 265089
+  apophysis: 130564
+  apsis: 163822
+  arris: 125414
+  arsis: 243376
+  ascariasis: 259909
+  asepsis: 174218
+  atelectasis: 128797
+  autolysis: 152499
+  avoirdupois: 150333
+not_scored_words:
+- AIs
+- ANSIs
+- ASCIIs
+- Acis
+- Acropolis
+- Adonis
+- Aeolis
+- Alcestis
+- Alexis
+- Amaryllis
+- Amis
+- Annapolis
+- Anubis
+- Apis
+- Argolis
+- Artemis
+- Artois
+- Atlantis
+- Attis
+- Avis
+- Axis
+- Azerbaijanis
+- abiosis
+- acariasis
+- adenitis
+- aerobiosis
+- aeroneurosis
+- agamogenesis
+- agoutis
+- aiolis
+- allantois
+- alphosis
+- amaurosis
+- amitosis
+- ampelopsis
+- amphiarthrosis
+- amphimixis
+- amylolysis
+- anabiosis
+- anadiplosis
+- anamorphosis
+- anaptyxis
+- ancylostomiasis
+- ankylostomiasis
+- anthracosilicosis
+- anthracosis
+- anthropogenesis
+- anthropomorphosis
+- antibiosis
+- anticathexis
+- antiperistalsis
+- antiphrasis
+- antipyresis
+- antisepsis
+- aphesis
+- apomixis
+- apophasis
+- aposiopesis
+- archaeornis
+- argalis
+- ascesis
+- assagais
+- assegais
+- astereognosis
+- atmolysis
+- autocatalysis
+- autogenesis
+- autohypnosis
+- auxesis
+- avitaminosis

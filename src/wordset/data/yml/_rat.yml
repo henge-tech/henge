@@ -1,0 +1,49 @@
+---
+pattern: _rat
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 39
+score: 1824831
+score_per_word: 86896
+hi_scored_words:
+  aristocrat: 35554
+  autocrat: 75512
+  baccarat: 26253
+  brat: 22422
+  bureaucrat: 45312
+  carat: 16002
+  democrat: 8637
+  drat: 72535
+  frat: 26149
+  karat: 35412
+  muskrat: 61144
+  prat: 47548
+  rat: 5235
+  sprat: 89180
+scored_words:
+  jurat: 172358
+  plutocrat: 106879
+  quadrat: 105627
+  rugrat: 283837
+  technocrat: 141193
+  theocrat: 341699
+  ziggurat: 106343
+not_scored_words:
+- Ararat
+- Ballarat
+- Bharat
+- Bundesrat
+- Democrat
+- Dixiecrat
+- Gujarat
+- Herat
+- Marat
+- Montserrat
+- Murat
+- Seurat
+- Surat
+- dandiprat
+- firebrat
+- gerontocrat
+- meritocrat
+- ochlocrat

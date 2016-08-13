@@ -1,0 +1,38 @@
+---
+pattern: ins_t
+hi_scored_words_count: 20
+scored_words_count: 3
+total_words: 28
+score: 983155
+score_per_word: 42745
+hi_scored_words:
+  insect: 12074
+  insert: 5494
+  inset: 26527
+  insight: 4398
+  insignificant: 12705
+  insist: 7849
+  insistent: 41399
+  insolent: 41236
+  insolvent: 35884
+  inspect: 10758
+  inst: 14609
+  installment: 19423
+  instant: 1899
+  instinct: 9417
+  instruct: 13786
+  instrument: 2565
+  instrumentalist: 52297
+  insufficient: 7866
+  insult: 9631
+  insurgent: 28297
+scored_words:
+  insouciant: 208479
+  inspirit: 169684
+  instatement: 246878
+not_scored_words:
+- Inst
+- insanest
+- insentient
+- instillment
+- insurrectionist

@@ -1,0 +1,70 @@
+---
+pattern: s_f
+hi_scored_words_count: 30
+scored_words_count: 8
+total_words: 60
+score: 2394949
+score_per_word: 63024
+hi_scored_words:
+  scarf: 10651
+  scoff: 47979
+  scruff: 57872
+  scuff: 54612
+  self: 823
+  serf: 52567
+  serif: 27762
+  sf: 7492
+  sheaf: 41560
+  shelf: 5130
+  sherif: 75327
+  sheriff: 6322
+  showoff: 64606
+  shroff: 96960
+  shutoff: 74523
+  skiff: 46962
+  smurf: 33832
+  sniff: 19657
+  snuff: 19970
+  soundproof: 65656
+  spinoff: 51552
+  spliff: 94573
+  spoof: 26219
+  staff: 887
+  standoff: 30630
+  stiff: 7149
+  stroganoff: 93654
+  stuff: 1135
+  sunroof: 36617
+  surf: 6140
+scored_words:
+  scurf: 240263
+  selloff: 194385
+  sendoff: 173003
+  shatterproof: 137347
+  shockproof: 146284
+  snarf: 100771
+  specif: 119897
+  spiff: 124180
+not_scored_words:
+- SF
+- SHAEF
+- SHF
+- SPF
+- Sarnoff
+- Schwarzkopf
+- Sharif
+- Smirnoff
+- sanserif
+- sclaff
+- scrumhalf
+- shadoof
+- shaduf
+- shellproof
+- shinleaf
+- showerproof
+- skidproof
+- sluff
+- smokeproof
+- stopoff
+- stormproof
+- sunproof

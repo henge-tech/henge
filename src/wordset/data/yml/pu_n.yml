@@ -1,0 +1,37 @@
+---
+pattern: pu_n
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 27
+score: 2035432
+score_per_word: 107128
+hi_scored_words:
+  publican: 65901
+  publication: 1829
+  puffin: 34267
+  pulsation: 53795
+  pumpkin: 12585
+  pun: 17952
+  puncheon: 72906
+  punctuation: 13079
+  purification: 12598
+  puritan: 20032
+  pushbutton: 73958
+scored_words:
+  pulverization: 313064
+  purgation: 152027
+  purlin: 242729
+  purloin: 131633
+  pushpin: 277125
+  putamen: 135705
+  putdown: 303526
+  putrefaction: 100721
+not_scored_words:
+- Pullman
+- Puritan
+- Pusan
+- Pushkin
+- Putin
+- puccoon
+- pullulation
+- purpurin

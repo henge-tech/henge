@@ -1,0 +1,57 @@
+---
+pattern: sp_ly
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 47
+score: 2132599
+score_per_word: 88858
+hi_scored_words:
+  sparingly: 38505
+  sparkly: 42800
+  sparsely: 37018
+  spatially: 30524
+  specially: 5836
+  specifically: 4202
+  spectacularly: 45347
+  speedily: 24482
+  spherically: 98515
+  spiritually: 20736
+  splendidly: 56168
+  spontaneously: 18248
+  sporadically: 46309
+  sprightly: 58632
+scored_words:
+  spasmodically: 204239
+  spectrally: 125000
+  spectroscopically: 183922
+  speculatively: 141030
+  spindly: 115358
+  spirally: 125528
+  spitefully: 208264
+  splenomegaly: 116401
+  spotlessly: 139099
+  spuriously: 246436
+not_scored_words:
+- spaciously
+- spangly
+- sparely
+- sparklingly
+- spastically
+- speciously
+- spectrographically
+- speechlessly
+- spicily
+- spiffily
+- spinally
+- spinelessly
+- spiritedly
+- splashily
+- splenetically
+- spookily
+- sportily
+- sportingly
+- sportively
+- spottily
+- springily
+- sprucely
+- spryly

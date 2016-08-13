@@ -1,0 +1,28 @@
+---
+pattern: add_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 581452
+score_per_word: 52859
+hi_scored_words:
+  adders: 75339
+  addictions: 25249
+  addicts: 17429
+  additions: 4557
+  additives: 16640
+  address: 605
+  addresses: 3117
+  adds: 3603
+  adducts: 77458
+scored_words:
+  addressees: 103186
+  adduces: 254269
+not_scored_words:
+- Addams
+- Addressographs
+- addaxes
+- addends
+- addles
+- adductions
+- adductors

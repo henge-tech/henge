@@ -1,0 +1,24 @@
+---
+pattern: toas_
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 14
+score: 361810
+score_per_word: 40201
+hi_scored_words:
+  toast: 8381
+  toasted: 26127
+  toaster: 17966
+  toasters: 36188
+  toasting: 48853
+  toastmaster: 68599
+  toastmasters: 55961
+  toasts: 47569
+  toasty: 52166
+scored_words: {}
+not_scored_words:
+- toastier
+- toasties
+- toastiest
+- toastmistress
+- toastmistresses

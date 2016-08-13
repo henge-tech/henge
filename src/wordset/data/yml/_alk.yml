@@ -1,0 +1,43 @@
+---
+pattern: _alk
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 33
+score: 1873342
+score_per_word: 81449
+hi_scored_words:
+  alk: 55386
+  balk: 44342
+  beanstalk: 60029
+  boardwalk: 21600
+  cakewalk: 41182
+  catwalk: 33338
+  chalk: 10733
+  crosstalk: 51013
+  crosswalk: 43572
+  moonwalk: 84416
+  sidewalk: 12429
+  smalltalk: 30026
+  spacewalk: 99008
+  stalk: 17573
+  talk: 373
+  walk: 1020
+scored_words:
+  babytalk: 255678
+  backtalk: 122575
+  calk: 250904
+  cornstalk: 212069
+  shoptalk: 161556
+  skywalk: 123546
+  sleepwalk: 140974
+not_scored_words:
+- Dundalk
+- Salk
+- eyestalk
+- footstalk
+- jaywalk
+- leafstalk
+- outtalk
+- outwalk
+- sheepwalk
+- uptalk

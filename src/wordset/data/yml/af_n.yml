@@ -1,0 +1,27 @@
+---
+pattern: af_n
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 17
+score: 570462
+score_per_word: 57046
+hi_scored_words:
+  affectation: 53022
+  affection: 7956
+  affiliation: 16196
+  affirmation: 20263
+  affliction: 23809
+  afforestation: 71502
+  afghan: 12160
+  aflatoxin: 76127
+  afternoon: 1878
+scored_words:
+  affixation: 287549
+not_scored_words:
+- AFN
+- Afghan
+- Afghanistan
+- African
+- affusion
+- afterbrain
+- aftersensation

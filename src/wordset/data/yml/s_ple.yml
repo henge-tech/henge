@@ -1,0 +1,29 @@
+---
+pattern: s_ple
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 19
+score: 776711
+score_per_word: 64725
+hi_scored_words:
+  salespeople: 31180
+  sample: 3197
+  scruple: 69822
+  simple: 582
+  spokespeople: 88067
+  staple: 13995
+  steeple: 32882
+  stipple: 96310
+  subsample: 90860
+  supple: 24395
+scored_words:
+  scrapple: 140312
+  sportspeople: 185109
+not_scored_words:
+- Siple
+- Snapple
+- septuple
+- sextuple
+- stopple
+- submultiple
+- swipple

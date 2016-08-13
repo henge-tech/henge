@@ -1,0 +1,21 @@
+---
+pattern: fac_es
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 11
+score: 301563
+score_per_word: 33507
+hi_scored_words:
+  facades: 50657
+  faceplates: 78577
+  faces: 2411
+  facies: 50747
+  facilitates: 22649
+  facilities: 2981
+  facsimiles: 73208
+  factories: 10091
+  faculties: 10242
+scored_words: {}
+not_scored_words:
+- factorizes
+- factualities

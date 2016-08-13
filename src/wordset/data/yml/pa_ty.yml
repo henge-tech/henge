@@ -1,0 +1,27 @@
+---
+pattern: pa_ty
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 17
+score: 590434
+score_per_word: 45418
+hi_scored_words:
+  panty: 16439
+  parity: 14954
+  partiality: 44085
+  particularity: 66248
+  party: 301
+  passivity: 56448
+  pasty: 41697
+  patentability: 85788
+  paternity: 24990
+  pathogenicity: 57976
+  patty: 11354
+  paucity: 46547
+scored_words:
+  palatability: 123607
+not_scored_words:
+- Patty
+- painty
+- palpability
+- parochiality

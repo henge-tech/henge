@@ -1,0 +1,35 @@
+---
+pattern: vo_y
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 25
+score: 1808914
+score_per_word: 106406
+hi_scored_words:
+  vocabulary: 7272
+  vocally: 66153
+  volatility: 14795
+  volley: 24421
+  voluntarily: 10639
+  voluntary: 4549
+  voluptuary: 96851
+  vorticity: 55424
+scored_words:
+  vocationally: 137145
+  vociferously: 112445
+  volcanically: 280755
+  volcanology: 104193
+  volubility: 123601
+  volubly: 152644
+  voraciously: 136878
+  voracity: 247634
+  votary: 233515
+not_scored_words:
+- Vouvray
+- voicelessly
+- volitionally
+- voluminously
+- voluptuously
+- vomitory
+- vortically
+- voyeuristically

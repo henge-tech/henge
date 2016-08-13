@@ -1,0 +1,23 @@
+---
+pattern: al_tion
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 13
+score: 650921
+score_per_word: 59174
+hi_scored_words:
+  alienation: 22472
+  alimentation: 74695
+  alkylation: 92434
+  allegation: 21765
+  alleviation: 38204
+  alliteration: 64026
+  allocation: 15574
+  alteration: 9141
+  altercation: 35943
+  alternation: 40083
+scored_words:
+  allocution: 236584
+not_scored_words:
+- alkalization
+- alphabetization

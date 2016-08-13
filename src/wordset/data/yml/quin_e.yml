@@ -1,0 +1,25 @@
+---
+pattern: quin_e
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 15
+score: 957437
+score_per_word: 87039
+hi_scored_words:
+  quince: 40557
+  quine: 55221
+  quinidine: 84590
+  quinine: 44967
+  quinone: 93108
+  quinte: 88827
+  quintessence: 47470
+  quintile: 62226
+  quintuple: 94237
+scored_words:
+  quinacrine: 203811
+  quinze: 142423
+not_scored_words:
+- quinate
+- quinquepartite
+- quinquereme
+- quintuplicate

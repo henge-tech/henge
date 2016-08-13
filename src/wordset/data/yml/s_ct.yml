@@ -1,0 +1,23 @@
+---
+pattern: s_ct
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 13
+score: 399328
+score_per_word: 36302
+hi_scored_words:
+  sacrosanct: 73141
+  sect: 10843
+  select: 1805
+  strict: 4465
+  subcontract: 46586
+  subdistrict: 70798
+  subject: 279
+  subtract: 25611
+  succinct: 35769
+  suspect: 3627
+scored_words:
+  subcompact: 126404
+not_scored_words:
+- subduct
+- superconduct

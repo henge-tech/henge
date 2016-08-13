@@ -1,0 +1,36 @@
+---
+pattern: or_l
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 26
+score: 881712
+score_per_word: 51865
+hi_scored_words:
+  oral: 5084
+  oratorical: 86483
+  orbital: 14750
+  orchestral: 19658
+  ordeal: 19072
+  ordinal: 32610
+  organizational: 8904
+  oriel: 49338
+  oriental: 7110
+  original: 508
+  ornamental: 14599
+  ornithological: 62488
+  orthogonal: 23517
+  orthonormal: 74721
+scored_words:
+  orientational: 133969
+  ornithol: 210342
+  orthographical: 118559
+not_scored_words:
+- Orel
+- Oriental
+- Ortegal
+- Orval
+- Orwell
+- orcinol
+- orificial
+- orinasal
+- orographical

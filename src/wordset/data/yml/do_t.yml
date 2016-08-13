@@ -1,0 +1,62 @@
+---
+pattern: do_t
+hi_scored_words_count: 21
+scored_words_count: 5
+total_words: 52
+score: 1870367
+score_per_word: 71937
+hi_scored_words:
+  docent: 57675
+  docket: 20039
+  document: 1804
+  doesn't: 900
+  dogfight: 74806
+  doit: 33241
+  dolt: 74376
+  dominant: 13876
+  don't: 84
+  doormat: 51596
+  dormant: 19195
+  dost: 23314
+  dot: 4680
+  doublet: 40528
+  doubt: 1627
+  doughnut: 41400
+  dovecot: 72834
+  downbeat: 58856
+  downcast: 53087
+  downdraft: 95405
+  downright: 18646
+scored_words:
+  dogcart: 236851
+  doorpost: 260231
+  downmarket: 301362
+  downshift: 125156
+  downspout: 188798
+not_scored_words:
+- DOT
+- Docetist
+- Domett
+- Donatist
+- Dordrecht
+- Dorpat
+- Dorset
+- Dort
+- Dot
+- documentarist
+- dodgiest
+- doggiest
+- doggonedest
+- doggonest
+- dogmatist
+- dogtrot
+- dopiest
+- dorkiest
+- dottiest
+- doughiest
+- doughtiest
+- dourest
+- dowdiest
+- downburst
+- downiest
+- doziest

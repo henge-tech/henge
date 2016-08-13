@@ -1,0 +1,25 @@
+---
+pattern: funn_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 916545
+score_per_word: 76378
+hi_scored_words:
+  funnel: 19994
+  funneled: 82155
+  funnels: 56562
+  funnier: 40032
+  funnies: 40734
+  funniest: 19677
+  funnily: 61017
+  funny: 1952
+scored_words:
+  funneling: 105832
+  funner: 177520
+  funnest: 136605
+  funnyman: 174465
+not_scored_words:
+- funnelform
+- funniness
+- funnymen

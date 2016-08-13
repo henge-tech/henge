@@ -1,0 +1,35 @@
+---
+pattern: d_nate
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 25
+score: 1428428
+score_per_word: 95228
+hi_scored_words:
+  designate: 11847
+  determinate: 43753
+  detonate: 49309
+  discriminate: 16808
+  dispassionate: 67152
+  disproportionate: 22997
+  disseminate: 24668
+  dominate: 12339
+  donate: 3262
+scored_words:
+  decontaminate: 126245
+  delaminate: 341476
+  denominate: 199394
+  diaconate: 127626
+  dimenhydrinate: 224508
+  discarnate: 157044
+not_scored_words:
+- deaconate
+- deaminate
+- decaffeinate
+- decarbonate
+- declinate
+- deglutinate
+- dehydrogenate
+- deoxygenate
+- deracinate
+- desalinate

@@ -1,0 +1,32 @@
+---
+pattern: see_s
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 1148856
+score_per_word: 88373
+hi_scored_words:
+  seeders: 88110
+  seedless: 81447
+  seedlings: 21803
+  seeds: 3955
+  seekers: 12848
+  seeks: 5042
+  seems: 665
+  seeps: 62992
+  seers: 68518
+  sees: 3195
+scored_words:
+  seedbeds: 307129
+  seesaws: 264519
+  seethes: 228633
+not_scored_words:
+- seedcases
+- seediness
+- seedlessness
+- seedpods
+- seedtimes
+- seeings
+- seels
+- seemliness
+- seeress

@@ -1,0 +1,34 @@
+---
+pattern: b_ads
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 24
+score: 1504173
+score_per_word: 107440
+hi_scored_words:
+  ballads: 20269
+  beads: 6078
+  bedspreads: 73695
+  bedsteads: 96344
+  blackheads: 88886
+  brads: 67233
+  breads: 28830
+  broads: 46863
+  bulkheads: 68978
+scored_words:
+  blockheads: 119173
+  boatloads: 176684
+  boneheads: 196326
+  bullheads: 311187
+  busloads: 203627
+not_scored_words:
+- Broads
+- baldheads
+- beachheads
+- bedheads
+- beheads
+- bigheads
+- bowheads
+- bridgeheads
+- buffleheads
+- byroads

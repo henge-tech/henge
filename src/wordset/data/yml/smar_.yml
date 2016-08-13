@@ -1,0 +1,40 @@
+---
+pattern: smar_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 30
+score: 1233961
+score_per_word: 77122
+hi_scored_words:
+  smarmy: 82840
+  smart: 2199
+  smarter: 16752
+  smartest: 28619
+  smarties: 68171
+  smarting: 94753
+  smartly: 45499
+  smartphone: 10147
+  smartphones: 19391
+  smarts: 31274
+  smarty: 31771
+  smartypants: 95821
+scored_words:
+  smaragd: 244231
+  smarted: 169564
+  smarten: 150826
+  smartness: 142103
+not_scored_words:
+- smaragdine
+- smaragdite
+- smarm
+- smarmier
+- smarmiest
+- smarmily
+- smarminess
+- smarminesses
+- smarms
+- smartened
+- smartening
+- smartens
+- smartwatch
+- smartwatches

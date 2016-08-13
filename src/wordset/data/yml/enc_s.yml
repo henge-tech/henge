@@ -1,0 +1,60 @@
+---
+pattern: enc_s
+hi_scored_words_count: 22
+scored_words_count: 10
+total_words: 50
+score: 2746987
+score_per_word: 85843
+hi_scored_words:
+  encampments: 83183
+  encapsulates: 52436
+  encephalitis: 32125
+  encephalomyelitis: 81739
+  enchantments: 65763
+  enchantress: 72904
+  enchiladas: 61042
+  encircles: 92246
+  enclaves: 54247
+  encloses: 58936
+  enclosures: 19623
+  encoders: 49299
+  encodes: 31810
+  encompass: 20542
+  encompasses: 15236
+  encores: 83218
+  encounters: 10930
+  encourages: 10214
+  encroachments: 62322
+  encrypts: 70950
+  encumbrances: 67241
+  encyclopedias: 31860
+scored_words:
+  encamps: 203221
+  encapsulations: 123651
+  encases: 214707
+  enchanters: 168414
+  enchants: 134536
+  encomiums: 111721
+  encouragements: 133250
+  encroaches: 159232
+  encryptions: 211155
+  encyclicals: 159234
+not_scored_words:
+- Enceladus
+- encaustics
+- encephalograms
+- encephalons
+- encephalous
+- enchains
+- enchantresses
+- enchiridions
+- enciphers
+- encirclements
+- encompassments
+- encrimsons
+- encroachers
+- encrustations
+- encrusts
+- encumbers
+- encyclopedists
+- encysts

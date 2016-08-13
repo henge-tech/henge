@@ -1,0 +1,48 @@
+---
+pattern: re_ling
+hi_scored_words_count: 18
+scored_words_count: 15
+total_words: 38
+score: 3267684
+score_per_word: 99020
+hi_scored_words:
+  rebelling: 75447
+  recalling: 21131
+  reconciling: 35860
+  recycling: 5493
+  reeling: 33527
+  refilling: 47954
+  refueling: 33810
+  reinstalling: 49204
+  remodeling: 14983
+  repealing: 44454
+  repelling: 64641
+  rescheduling: 62294
+  reselling: 55471
+  resembling: 15692
+  retailing: 22961
+  retelling: 47210
+  retooling: 84354
+  revealing: 9173
+scored_words:
+  reassembling: 120226
+  recoiling: 138389
+  recompiling: 120921
+  redoubling: 226372
+  refiling: 238647
+  regaling: 193429
+  rekindling: 115234
+  relabeling: 225371
+  rescaling: 117137
+  resealing: 269407
+  resettling: 179124
+  reshuffling: 136758
+  restyling: 148929
+  reveling: 106598
+  reviling: 207483
+not_scored_words:
+- reboiling
+- redialing
+- resoling
+- respelling
+- retitling

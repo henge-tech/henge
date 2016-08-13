@@ -1,0 +1,23 @@
+---
+pattern: ca_ned
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 616817
+score_per_word: 68535
+hi_scored_words:
+  calcined: 89116
+  campaigned: 39785
+  caned: 89054
+  canned: 13092
+  caparisoned: 76741
+  captained: 73098
+  captioned: 34849
+  cautioned: 25546
+scored_words:
+  careened: 175536
+not_scored_words:
+- calcimined
+- cannoned
+- cartooned
+- casehardened

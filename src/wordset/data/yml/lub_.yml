@@ -1,0 +1,37 @@
+---
+pattern: lub_
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 27
+score: 2117957
+score_per_word: 117664
+hi_scored_words:
+  lube: 18814
+  lubes: 64167
+  lubricant: 22902
+  lubricants: 31089
+  lubricate: 56705
+  lubricated: 45199
+  lubricating: 41081
+  lubrication: 23808
+scored_words:
+  lubber: 141093
+  lubberly: 273662
+  lubbers: 113353
+  lubed: 107465
+  lubing: 268606
+  lubra: 213713
+  lubricates: 140802
+  lubricator: 176021
+  lubricators: 250336
+  lubricity: 129141
+not_scored_words:
+- Lubavitcher
+- Lubbock
+- Lubeck
+- Lublin
+- Lubumbashi
+- lubric
+- lubricious
+- lubriciously
+- lubriciousness

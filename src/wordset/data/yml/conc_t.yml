@@ -1,0 +1,26 @@
+---
+pattern: conc_t
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 794245
+score_per_word: 72204
+hi_scored_words:
+  concealment: 26701
+  conceit: 34364
+  concept: 2236
+  concert: 3010
+  concoct: 89084
+  concomitant: 28482
+  concordant: 77580
+  concordat: 89115
+  concurrent: 13896
+scored_words:
+  concent: 245004
+  concernment: 184773
+not_scored_words:
+- concelebrant
+- conceptualist
+- concisest
+- concrescent
+- concupiscent

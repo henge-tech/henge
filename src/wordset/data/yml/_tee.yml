@@ -1,0 +1,54 @@
+---
+pattern: _tee
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 44
+score: 2771073
+score_per_word: 98966
+hi_scored_words:
+  absentee: 27160
+  adoptee: 67702
+  amputee: 51457
+  appointee: 39576
+  committee: 1246
+  devotee: 40575
+  goatee: 56467
+  grantee: 29129
+  guarantee: 3298
+  inductee: 81686
+  manatee: 32410
+  patentee: 81139
+  repartee: 61886
+  settee: 49103
+  subcommittee: 7619
+  suttee: 87561
+  tee: 10836
+  trustee: 11063
+scored_words:
+  abductee: 171387
+  allottee: 248984
+  bootee: 234259
+  deportee: 227516
+  distributee: 283743
+  draftee: 223635
+  invitee: 131611
+  legatee: 134250
+  selectee: 255414
+  warrantee: 120361
+not_scored_words:
+- Santee
+- bustee
+- coatee
+- covenantee
+- departee
+- educatee
+- enlistee
+- evictee
+- indictee
+- listee
+- mestee
+- mustee
+- permitee
+- puttee
+- remittee
+- testee

@@ -1,0 +1,58 @@
+---
+pattern: q_d
+hi_scored_words_count: 24
+scored_words_count: 10
+total_words: 48
+score: 3224291
+score_per_word: 94832
+hi_scored_words:
+  quad: 11401
+  quadrupled: 75989
+  qualified: 3556
+  quantified: 28985
+  quantized: 59947
+  quarantined: 49902
+  quarried: 89191
+  quartered: 46001
+  quashed: 69996
+  quenched: 45072
+  queried: 33024
+  quested: 93297
+  questioned: 6908
+  queued: 31023
+  quickened: 56507
+  quicksand: 46632
+  quid: 19450
+  quieted: 66619
+  quilted: 30550
+  quipped: 70911
+  quivered: 77328
+  quizzed: 78465
+  quod: 26311
+  quoted: 4035
+scored_words:
+  quacked: 216299
+  quadruped: 126336
+  quaffed: 252075
+  quailed: 237670
+  quaked: 203014
+  quarreled: 118059
+  quavered: 264698
+  quelled: 101669
+  quietened: 266055
+  quirked: 317316
+not_scored_words:
+- QED
+- Queensland
+- quadrifid
+- quadruplicated
+- quarterbacked
+- queened
+- queenhood
+- queered
+- quibbled
+- quiesced
+- quinonoid
+- quinquefid
+- quintupled
+- quoited

@@ -1,0 +1,27 @@
+---
+pattern: _inge
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 897886
+score_per_word: 69068
+hi_scored_words:
+  binge: 25570
+  cringe: 31531
+  fringe: 9206
+  hinge: 19247
+  impinge: 56550
+  infringe: 26054
+  singe: 67598
+  syringe: 25622
+  tinge: 39385
+  twinge: 67344
+scored_words:
+  dinge: 118945
+  swinge: 303396
+  whinge: 107438
+not_scored_words:
+- Inge
+- constringe
+- springe
+- unhinge

@@ -1,0 +1,40 @@
+---
+pattern: dec_y
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 30
+score: 2090356
+score_per_word: 116130
+hi_scored_words:
+  decay: 7553
+  decency: 19673
+  decently: 45940
+  deceptively: 43001
+  decidedly: 17409
+  decisively: 35961
+  declaratory: 47631
+  decoy: 29805
+  decry: 54246
+scored_words:
+  deceitfully: 143590
+  deceivingly: 307260
+  decidability: 137391
+  declamatory: 227287
+  declassify: 190798
+  declivity: 151763
+  decoratively: 216753
+  decorously: 134926
+  decreasingly: 279369
+not_scored_words:
+- decadency
+- decadently
+- decagonally
+- decalcify
+- decennary
+- decennially
+- deciduously
+- decimally
+- declinatory
+- decrepitly
+- decretory
+- decury

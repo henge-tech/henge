@@ -1,0 +1,26 @@
+---
+pattern: w_ws
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 812129
+score_per_word: 81212
+hi_scored_words:
+  wheelbarrows: 97844
+  widows: 21608
+  willows: 25789
+  windows: 672
+  withdraws: 32905
+  workflows: 50281
+  worldviews: 67444
+  wows: 74275
+scored_words:
+  wallows: 203455
+  windrows: 237856
+not_scored_words:
+- Windows
+- waws
+- whipsaws
+- whitlows
+- williwaws
+- winnows

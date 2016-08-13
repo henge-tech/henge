@@ -1,0 +1,28 @@
+---
+pattern: inac_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 18
+score: 740395
+score_per_word: 52885
+hi_scored_words:
+  inaccessibility: 96156
+  inaccessible: 18279
+  inaccuracies: 19724
+  inaccuracy: 36871
+  inaccurate: 9404
+  inaccurately: 78868
+  inaction: 31821
+  inactivate: 82651
+  inactivated: 37380
+  inactivation: 31691
+  inactive: 10630
+  inactivity: 24315
+scored_words:
+  inactivates: 150344
+  inactivating: 112261
+not_scored_words:
+- inaccessibly
+- inactively
+- inactiveness
+- inactivenesses

@@ -1,0 +1,44 @@
+---
+pattern: inst_s
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 34
+score: 1569465
+score_per_word: 65394
+hi_scored_words:
+  instabilities: 50062
+  installations: 8820
+  installers: 34182
+  installments: 34236
+  installs: 21052
+  instances: 4166
+  instantaneous: 19014
+  instants: 75751
+  instincts: 13971
+  institutes: 13444
+  institutions: 2007
+  instructions: 1825
+  instructors: 11004
+  instructs: 35072
+  instrumentalists: 69911
+  instrumentals: 32767
+  instruments: 2112
+scored_words:
+  instantiates: 136913
+  instantiations: 106762
+  instars: 146388
+  instigates: 195131
+  instigators: 116220
+  instills: 107995
+  institutionalizes: 330660
+not_scored_words:
+- instancies
+- instantaneousness
+- instantaneousnesses
+- instates
+- instaurations
+- insteps
+- instillments
+- instituters
+- institutors
+- instructorships

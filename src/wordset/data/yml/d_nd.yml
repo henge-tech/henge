@@ -1,0 +1,47 @@
+---
+pattern: d_nd
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 37
+score: 1711267
+score_per_word: 90066
+hi_scored_words:
+  dachshund: 33650
+  defend: 4165
+  demand: 1315
+  depend: 3715
+  descend: 14910
+  diamond: 2778
+  disband: 50579
+  dividend: 12791
+  dixieland: 55547
+  downwind: 49508
+  dreamland: 37696
+scored_words:
+  deckhand: 154014
+  deerhound: 151080
+  despond: 173755
+  distend: 226395
+  dockland: 222130
+  downland: 127604
+  downtrend: 154003
+  dumbfound: 235632
+not_scored_words:
+- Damaraland
+- Dedekind
+- Demavend
+- Desmond
+- Deutschland
+- Disneyland
+- Dixieland
+- Dortmund
+- Dowland
+- Dreibund
+- decompound
+- deodand
+- discommend
+- dispend
+- dockhand
+- draghound
+- dromond
+- duckpond

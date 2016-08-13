@@ -1,0 +1,46 @@
+---
+pattern: des_d
+hi_scored_words_count: 16
+scored_words_count: 12
+total_words: 36
+score: 3084571
+score_per_word: 110163
+hi_scored_words:
+  descend: 14910
+  descended: 11731
+  described: 1174
+  desecrated: 81956
+  deselected: 81496
+  desensitized: 91028
+  deserted: 11229
+  deserved: 9175
+  desiccated: 79878
+  designated: 10848
+  designed: 1503
+  desired: 2658
+  despaired: 89459
+  despised: 27020
+  destined: 9648
+  destroyed: 3392
+scored_words:
+  desalinated: 297829
+  desalted: 341351
+  descanted: 300827
+  descried: 174425
+  desegregated: 193565
+  desexed: 320637
+  desisted: 188063
+  desolated: 155803
+  despoiled: 138014
+  despond: 173755
+  destabilized: 112864
+  destructed: 160333
+not_scored_words:
+- Desmond
+- desalinized
+- descaled
+- desexualized
+- deskilled
+- desmid
+- desmoid
+- desquamated

@@ -1,0 +1,71 @@
+---
+pattern: _ener
+hi_scored_words_count: 18
+scored_words_count: 15
+total_words: 61
+score: 3652145
+score_per_word: 110671
+hi_scored_words:
+  convener: 32337
+  fastener: 35532
+  freshener: 49434
+  gardener: 11256
+  greener: 28388
+  keener: 44907
+  kitchener: 26347
+  listener: 10327
+  oftener: 94299
+  opener: 13024
+  screener: 44685
+  scrivener: 55244
+  sharpener: 38866
+  softener: 49803
+  straightener: 49025
+  sweetener: 42858
+  widener: 57005
+  wiener: 29257
+scored_words:
+  brightener: 206867
+  congener: 115549
+  dampener: 130423
+  eyeopener: 242070
+  flattener: 274482
+  goldener: 202548
+  hardener: 109305
+  intervener: 158135
+  lightener: 340654
+  stiffener: 138976
+  strengthener: 207259
+  thickener: 112142
+  tightener: 309042
+  warrener: 280218
+  whitener: 111881
+not_scored_words:
+- Kitchener
+- barrener
+- bigener
+- blackener
+- broadener
+- careener
+- chastener
+- contravener
+- coparcener
+- cozener
+- darkener
+- enlightener
+- evener
+- fattener
+- larcener
+- lateener
+- meshuggener
+- moistener
+- obscener
+- rottener
+- serener
+- shortener
+- sickener
+- sullener
+- toughener
+- wakener
+- weakener
+- woodener

@@ -1,0 +1,24 @@
+---
+pattern: ai_d
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 704599
+score_per_word: 64054
+hi_scored_words:
+  aid: 1185
+  aided: 8791
+  aimed: 4872
+  airbrushed: 74444
+  aired: 16450
+  airfield: 22681
+  airhead: 71098
+  airlifted: 84999
+  airspeed: 55556
+scored_words:
+  ailed: 160681
+  airbed: 203842
+not_scored_words:
+- airdropped
+- airmailed
+- airted

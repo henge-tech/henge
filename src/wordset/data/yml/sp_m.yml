@@ -1,0 +1,35 @@
+---
+pattern: sp_m
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 25
+score: 780045
+score_per_word: 60003
+hi_scored_words:
+  spam: 6606
+  spasm: 30937
+  specialism: 75037
+  spectrum: 7498
+  speculum: 41926
+  sperm: 12873
+  sphagnum: 60131
+  spiritualism: 44364
+  spongiform: 78574
+  sputum: 42024
+scored_words:
+  spectrogram: 120733
+  spirillum: 101320
+  spiritism: 158022
+not_scored_words:
+- Spam
+- Spencerianism
+- Spinozism
+- speciesism
+- spermatium
+- spermatogonium
+- spermogonium
+- sphenogram
+- spiculum
+- spoonerism
+- sporangium
+- sporogonium

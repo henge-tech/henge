@@ -1,0 +1,45 @@
+---
+pattern: str_er
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 35
+score: 1636699
+score_per_word: 77938
+hi_scored_words:
+  straightener: 49025
+  straighter: 69120
+  strainer: 40492
+  stranger: 4601
+  strangler: 61510
+  streamer: 39115
+  stretcher: 27561
+  stricter: 31379
+  strider: 47231
+  striker: 24153
+  stringer: 29488
+  striper: 75078
+  stripper: 19472
+  stroller: 19785
+  stronger: 3596
+scored_words:
+  straggler: 179648
+  streaker: 111561
+  streamliner: 173483
+  streetwalker: 208978
+  strengthener: 207259
+  strutter: 214164
+not_scored_words:
+- straddler
+- strafer
+- stragglier
+- straphanger
+- strapper
+- stratigrapher
+- strawflower
+- streakier
+- stretchier
+- strikebreaker
+- stringier
+- stripteaser
+- stroppier
+- struggler

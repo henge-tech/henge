@@ -1,0 +1,27 @@
+---
+pattern: exp_t
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 17
+score: 886398
+score_per_word: 55399
+hi_scored_words:
+  expansionist: 92985
+  expat: 25113
+  expect: 1264
+  expectant: 28639
+  expectorant: 85573
+  expedient: 21359
+  experiment: 3144
+  expert: 2794
+  explicit: 6357
+  exploit: 8623
+  exponent: 22289
+  export: 4660
+  expressionist: 67246
+scored_words:
+  experimentalist: 185693
+  explant: 190615
+  expungement: 140044
+not_scored_words:
+- expellant

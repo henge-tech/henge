@@ -1,0 +1,30 @@
+---
+pattern: ne_ic
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 20
+score: 1674330
+score_per_word: 119595
+hi_scored_words:
+  necrotic: 58676
+  nematic: 99538
+  neolithic: 34841
+  neoplastic: 43663
+  neuralgic: 74003
+  neurogenic: 75468
+  neurologic: 33045
+  neurotic: 32925
+scored_words:
+  necromantic: 175386
+  neoclassic: 162761
+  neoteric: 170413
+  nephritic: 120171
+  neritic: 308271
+  neuritic: 285169
+not_scored_words:
+- Neolithic
+- necrologic
+- necrophilic
+- negativistic
+- nepotistic
+- neurasthenic

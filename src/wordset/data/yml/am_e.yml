@@ -1,0 +1,81 @@
+---
+pattern: am_e
+hi_scored_words_count: 25
+scored_words_count: 17
+total_words: 71
+score: 4553801
+score_per_word: 108423
+hi_scored_words:
+  amalgamate: 81273
+  amaze: 22870
+  ambiance: 29565
+  ambience: 24913
+  ambivalence: 41286
+  amble: 66679
+  ambulance: 9474
+  ameliorate: 49608
+  amenable: 28871
+  amiable: 28770
+  amicable: 40543
+  amide: 45580
+  amie: 48533
+  amine: 31732
+  ammonite: 93621
+  amortize: 87638
+  amperage: 76006
+  ampere: 45704
+  amphetamine: 32846
+  ample: 8277
+  amplitude: 15323
+  ampoule: 81221
+  amputee: 51457
+  amuse: 22457
+  amylase: 52442
+scored_words:
+  amandine: 169589
+  amaranthine: 232334
+  amazonite: 172380
+  ambulate: 265712
+  ambuscade: 176383
+  ameliorative: 241414
+  amendable: 254459
+  amidase: 211839
+  aminopyrine: 294089
+  amoebae: 146714
+  amortizable: 303756
+  amphibole: 120198
+  amphibolite: 174724
+  amphorae: 252945
+  ampule: 162505
+  amputate: 109422
+  amylose: 148649
+not_scored_words:
+- Amalekite
+- Amboise
+- Ambrose
+- Americanize
+- Amie
+- Ampere
+- Amphitrite
+- amarelle
+- amative
+- amblygonite
+- amblyoscope
+- ambrotype
+- ambsace
+- amebae
+- amebocyte
+- amerce
+- amesace
+- amethystine
+- amice
+- ammine
+- ammonate
+- ammoniate
+- amphiprostyle
+- ampliate
+- ampullae
+- amusable
+- amygdalate
+- amygdaline
+- amylene

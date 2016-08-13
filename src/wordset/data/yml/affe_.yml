@@ -1,0 +1,32 @@
+---
+pattern: affe_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1171132
+score_per_word: 73195
+hi_scored_words:
+  affect: 2563
+  affectation: 53022
+  affected: 2006
+  affecting: 5323
+  affection: 7956
+  affectionate: 18489
+  affectionately: 32100
+  affections: 20871
+  affective: 21015
+  affects: 5740
+  afferent: 45144
+scored_words:
+  affectations: 152808
+  affectedly: 208293
+  affectional: 240372
+  affectively: 233462
+  affenpinscher: 121968
+not_scored_words:
+- affectingly
+- affectiveness
+- affectless
+- affectlessness
+- affenpinschers
+- affettuoso

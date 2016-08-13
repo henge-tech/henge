@@ -1,0 +1,30 @@
+---
+pattern: fai_s
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 20
+score: 809906
+score_per_word: 50619
+hi_scored_words:
+  failings: 36347
+  fails: 4238
+  failures: 7249
+  faints: 96770
+  fairgrounds: 31674
+  fairies: 13616
+  fairings: 98517
+  fairness: 11185
+  fairs: 13494
+  fairways: 47150
+  fairytales: 62292
+  faithfulness: 28074
+  faithless: 25862
+  faiths: 25426
+scored_words:
+  faintness: 113927
+  faithlessness: 194085
+not_scored_words:
+- Fairbanks
+- fairleads
+- fairylands
+- faithfuls

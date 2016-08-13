@@ -1,0 +1,30 @@
+---
+pattern: _ross
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 1079304
+score_per_word: 89942
+hi_scored_words:
+  across: 532
+  albatross: 32711
+  autocross: 97621
+  crisscross: 57038
+  cross: 829
+  dross: 55341
+  gross: 2896
+  motocross: 27162
+scored_words:
+  backcross: 176371
+  engross: 148641
+  outcross: 339062
+  recross: 141100
+not_scored_words:
+- Cross
+- Gross
+- Kinross
+- Ross
+- christcross
+- intercross
+- kaross
+- uncross

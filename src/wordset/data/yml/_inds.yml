@@ -1,0 +1,37 @@
+---
+pattern: _inds
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 27
+score: 1664815
+score_per_word: 83240
+hi_scored_words:
+  binds: 15472
+  blinds: 13452
+  finds: 2576
+  grinds: 45841
+  hinds: 40069
+  kinds: 1707
+  masterminds: 70545
+  minds: 3274
+  reminds: 7818
+  winds: 3439
+  woodwinds: 54464
+scored_words:
+  behinds: 110415
+  crosswinds: 127453
+  headwinds: 180541
+  rescinds: 177332
+  rewinds: 119266
+  rinds: 100591
+  tailwinds: 279821
+  unwinds: 163973
+  whirlwinds: 146766
+not_scored_words:
+- Amerinds
+- rebinds
+- regrinds
+- spellbinds
+- tamarinds
+- unbinds
+- wunderkinds

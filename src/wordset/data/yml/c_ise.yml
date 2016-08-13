@@ -1,0 +1,30 @@
+---
+pattern: c_ise
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 20
+score: 901424
+score_per_word: 60094
+hi_scored_words:
+  cerise: 71075
+  chaise: 27923
+  chastise: 66239
+  chemise: 50057
+  clockwise: 23335
+  comprise: 13283
+  compromise: 6247
+  concise: 12614
+  counterclockwise: 52386
+  crosswise: 72387
+  cruise: 4905
+scored_words:
+  circumcise: 110167
+  coastwise: 135049
+  contrariwise: 119253
+  counterpoise: 136504
+not_scored_words:
+- Cochise
+- Cruise
+- centipoise
+- cornerwise
+- crabwise

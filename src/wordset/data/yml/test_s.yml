@@ -1,0 +1,30 @@
+---
+pattern: test_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 20
+score: 611156
+score_per_word: 55559
+hi_scored_words:
+  testaments: 51014
+  testers: 18899
+  testes: 43520
+  testicles: 34218
+  testifies: 38085
+  testimonials: 14418
+  testimonies: 25959
+  testis: 31734
+  tests: 2432
+scored_words:
+  testbeds: 195327
+  testings: 155550
+not_scored_words:
+- testaceous
+- testas
+- testates
+- testators
+- testatrices
+- testees
+- testifiers
+- testiness
+- testudos

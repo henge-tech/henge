@@ -1,0 +1,39 @@
+---
+pattern: rain_
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 29
+score: 1212002
+score_per_word: 60600
+hi_scored_words:
+  rain: 1620
+  rainbow: 5649
+  rainbows: 31024
+  raincoat: 46491
+  raincoats: 84130
+  raindrop: 71539
+  raindrops: 47422
+  rained: 26578
+  rainfall: 12642
+  rainier: 29621
+  raining: 15446
+  rainmaker: 69103
+  rains: 10380
+  rainstorm: 68716
+  rainwater: 31651
+  rainy: 10107
+scored_words:
+  rainfalls: 144513
+  rainmakers: 153918
+  rainout: 218800
+  rainstorms: 132652
+not_scored_words:
+- Rainier
+- rainband
+- raincloud
+- rainclouds
+- rainiest
+- raininess
+- rainless
+- rainmaking
+- rainproof

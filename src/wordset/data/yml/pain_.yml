@@ -1,0 +1,43 @@
+---
+pattern: pain_
+hi_scored_words_count: 22
+scored_words_count: 4
+total_words: 33
+score: 1363845
+score_per_word: 52455
+hi_scored_words:
+  pain: 1068
+  pained: 52221
+  painful: 4849
+  painfully: 15592
+  painkiller: 34335
+  painkillers: 43577
+  painless: 29021
+  painlessly: 74709
+  pains: 8026
+  painstaking: 37681
+  painstakingly: 51643
+  paint: 2584
+  paintball: 13239
+  paintbrush: 47200
+  painted: 3349
+  painter: 6423
+  painterly: 91896
+  painters: 12534
+  painting: 2557
+  paintings: 5172
+  paints: 11463
+  paintwork: 74571
+scored_words:
+  painfulness: 174518
+  paining: 264812
+  paintbox: 166296
+  paintbrushes: 134509
+not_scored_words:
+- Paine
+- painfuller
+- painfullest
+- painkilling
+- painlessness
+- paintboxes
+- painty

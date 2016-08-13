@@ -1,0 +1,33 @@
+---
+pattern: b_ths
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 23
+score: 1324166
+score_per_word: 101858
+hi_scored_words:
+  bandwidths: 74139
+  baths: 8484
+  berths: 43834
+  birdbaths: 99275
+  births: 9526
+  blacksmiths: 61496
+  booths: 19911
+  breaths: 32498
+scored_words:
+  behemoths: 130958
+  bequeaths: 278367
+  billionths: 277609
+  breadths: 143045
+  broths: 145024
+not_scored_words:
+- backcloths
+- badmouths
+- batholiths
+- beths
+- betroths
+- bigmouths
+- blabbermouths
+- bloodbaths
+- breechcloths
+- bypaths

@@ -1,0 +1,27 @@
+---
+pattern: _ipt
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 17
+score: 889652
+score_per_word: 68434
+hi_scored_words:
+  conscript: 66791
+  manuscript: 6480
+  nondescript: 58403
+  postscript: 13957
+  receipt: 3864
+  rescript: 92599
+  script: 7635
+  subscript: 40497
+  superscript: 49471
+  transcript: 10762
+  typescript: 44001
+scored_words:
+  prescript: 261597
+  whipt: 233595
+not_scored_words:
+- ECMAScript
+- JavaScript
+- Script
+- nonreceipt

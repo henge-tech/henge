@@ -1,0 +1,33 @@
+---
+pattern: ph_r
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 23
+score: 1148400
+score_per_word: 95700
+hi_scored_words:
+  philander: 88120
+  philosopher: 8322
+  phosphor: 44853
+  photocopier: 56281
+  photographer: 8986
+  photometer: 80513
+  photoreceptor: 74027
+  phr: 64262
+scored_words:
+  philanderer: 179242
+  phisher: 193346
+  photomultiplier: 103628
+  phototransistor: 246820
+not_scored_words:
+- Phosphor
+- phalanger
+- philosophizer
+- philter
+- phlegmier
+- phonier
+- phonometer
+- photocomposer
+- photoengraver
+- phototypesetter
+- physiographer

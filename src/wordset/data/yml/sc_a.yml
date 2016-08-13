@@ -1,0 +1,41 @@
+---
+pattern: sc_a
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 31
+score: 1054074
+score_per_word: 70271
+hi_scored_words:
+  scapula: 70763
+  scarlatina: 69576
+  schema: 12213
+  schemata: 71018
+  schizophrenia: 16440
+  schwa: 96298
+  sciatica: 47908
+  scintilla: 69262
+  scleroderma: 56134
+  scotia: 8520
+  scrofula: 65037
+  scuba: 10984
+scored_words:
+  scilla: 165144
+  sclera: 102594
+  scoria: 192183
+not_scored_words:
+- Scala
+- Scalia
+- Scandinavia
+- Scotia
+- Scylla
+- Scythia
+- scagliola
+- schizothymia
+- sclerenchyma
+- scleroma
+- scopophilia
+- scopula
+- scotopia
+- scriptoria
+- scrota
+- scuta

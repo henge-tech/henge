@@ -1,0 +1,26 @@
+---
+pattern: link_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 414466
+score_per_word: 41446
+hi_scored_words:
+  link: 1893
+  linkage: 12853
+  linkages: 17352
+  linked: 3042
+  linker: 28219
+  linkers: 97873
+  linking: 8286
+  links: 644
+  linkup: 91861
+scored_words:
+  linkable: 152443
+not_scored_words:
+- linkboy
+- linkboys
+- linkman
+- linkmen
+- linkups
+- linkwork

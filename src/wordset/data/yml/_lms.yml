@@ -1,0 +1,31 @@
+---
+pattern: _lms
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 21
+score: 636788
+score_per_word: 48983
+hi_scored_words:
+  alms: 28668
+  balms: 67210
+  calms: 47529
+  elms: 37639
+  films: 6959
+  helms: 34913
+  microfilms: 86923
+  overwhelms: 69957
+  palms: 11152
+  psalms: 13605
+  qualms: 51119
+  realms: 15537
+scored_words:
+  culms: 165577
+not_scored_words:
+- Psalms
+- becalms
+- embalms
+- halms
+- haulms
+- napalms
+- underwhelms
+- whelms

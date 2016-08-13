@@ -1,0 +1,31 @@
+---
+pattern: ana_ic
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 21
+score: 866072
+score_per_word: 72172
+hi_scored_words:
+  anabolic: 26867
+  anachronistic: 59096
+  anaerobic: 26299
+  analgesic: 34727
+  analytic: 18084
+  anamorphic: 44902
+  anaplastic: 94975
+  anarchic: 60675
+  anatomic: 39057
+scored_words:
+  anapestic: 178563
+  anaphoric: 132687
+  anarchistic: 150140
+not_scored_words:
+- Anacreontic
+- Anatolic
+- anabatic
+- anaclitic
+- anacoluthic
+- anagrammatic
+- analeptic
+- analphabetic
+- anastigmatic

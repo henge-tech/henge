@@ -1,0 +1,23 @@
+---
+pattern: _uke
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 751711
+score_per_word: 75171
+hi_scored_words:
+  archduke: 56434
+  duke: 2631
+  fluke: 27276
+  juke: 35371
+  netsuke: 91748
+  nuke: 13199
+  puke: 29141
+  rebuke: 33364
+scored_words:
+  cuke: 276773
+  peruke: 185774
+not_scored_words:
+- Duke
+- Luke
+- Mameluke

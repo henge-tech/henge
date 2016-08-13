@@ -1,0 +1,24 @@
+---
+pattern: blur_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 963445
+score_per_word: 80287
+hi_scored_words:
+  blur: 15759
+  blurb: 34031
+  blurbs: 59029
+  blurred: 16652
+  blurring: 38931
+  blurry: 29420
+  blurs: 55422
+  blurt: 75341
+  blurted: 56568
+scored_words:
+  blurriness: 233707
+  blurting: 192751
+  blurts: 155834
+not_scored_words:
+- blurrier
+- blurriest

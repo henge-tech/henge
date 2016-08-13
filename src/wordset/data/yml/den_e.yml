@@ -1,0 +1,40 @@
+---
+pattern: den_e
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 30
+score: 2245879
+score_per_word: 124771
+hi_scored_words:
+  dendrite: 80625
+  dene: 49433
+  dengue: 35990
+  denigrate: 67489
+  denote: 11318
+  denounce: 27317
+  dense: 6341
+  dentate: 81521
+  denture: 41334
+scored_words:
+  denature: 143546
+  deniable: 246743
+  denominate: 199394
+  denotative: 266489
+  dentelle: 209715
+  dentifrice: 197414
+  dentine: 117326
+  denude: 129960
+  denumerable: 333924
+not_scored_words:
+- Denbighshire
+- Denise
+- denationalize
+- denaturalize
+- denitrate
+- denominative
+- denticle
+- denticulate
+- denuclearize
+- denudate
+- denunciate
+- denunciative

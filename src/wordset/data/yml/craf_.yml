@@ -1,0 +1,29 @@
+---
+pattern: craf_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 19
+score: 902505
+score_per_word: 69423
+hi_scored_words:
+  craft: 3285
+  crafted: 10130
+  crafting: 20432
+  crafts: 8339
+  craftsman: 19980
+  craftsmanship: 30217
+  craftsmen: 23413
+  craftspeople: 84546
+  crafty: 18990
+scored_words:
+  craftily: 166018
+  craftiness: 141836
+  craftsperson: 229725
+  craftwork: 145594
+not_scored_words:
+- Craft
+- craftier
+- craftiest
+- craftsmanlike
+- craftswoman
+- craftswomen

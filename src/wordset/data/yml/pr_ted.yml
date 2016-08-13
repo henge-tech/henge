@@ -1,0 +1,58 @@
+---
+pattern: pr_ted
+hi_scored_words_count: 28
+scored_words_count: 13
+total_words: 48
+score: 3543850
+score_per_word: 86435
+hi_scored_words:
+  precipitated: 26203
+  predated: 88542
+  predicated: 33927
+  predicted: 6492
+  predominated: 79190
+  preempted: 62609
+  prefabricated: 40365
+  preheated: 71339
+  premeditated: 47848
+  preselected: 96961
+  presented: 1184
+  pretreated: 88131
+  prevented: 6192
+  printed: 1971
+  profited: 50975
+  prohibited: 5134
+  projected: 5381
+  proliferated: 78577
+  promoted: 14354
+  prompted: 8092
+  promulgated: 20245
+  propagated: 28171
+  prorated: 64646
+  prosecuted: 17880
+  prostrated: 75636
+  protected: 2459
+  protested: 16385
+  protracted: 27963
+scored_words:
+  precomputed: 161807
+  preconcerted: 181342
+  predesignated: 325685
+  predestinated: 254465
+  predigested: 192226
+  presorted: 129063
+  pretested: 274649
+  probated: 118007
+  procrastinated: 135865
+  pronated: 116615
+  propitiated: 242521
+  prospected: 232275
+  prostituted: 112478
+not_scored_words:
+- prated
+- preexisted
+- preponderated
+- prevaricated
+- procreated
+- prognosticated
+- proselyted

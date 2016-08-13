@@ -1,0 +1,24 @@
+---
+pattern: c_sive
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 833094
+score_per_word: 69424
+hi_scored_words:
+  coextensive: 88706
+  cohesive: 23205
+  comprehensive: 3352
+  compressive: 38178
+  compulsive: 20763
+  conclusive: 18170
+  convulsive: 55032
+  corrosive: 27491
+  cursive: 37441
+scored_words:
+  collusive: 111427
+  concussive: 255654
+  counteroffensive: 153675
+not_scored_words:
+- caressive
+- concessive

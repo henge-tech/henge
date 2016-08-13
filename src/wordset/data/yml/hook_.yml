@@ -1,0 +1,27 @@
+---
+pattern: hook_
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 17
+score: 747242
+score_per_word: 57480
+hi_scored_words:
+  hook: 4514
+  hookah: 37240
+  hookahs: 99075
+  hooked: 10104
+  hooker: 16022
+  hookers: 32376
+  hooking: 30878
+  hooks: 10627
+  hookup: 32843
+  hookups: 44933
+  hookworm: 91189
+  hooky: 91619
+scored_words:
+  hookworms: 245822
+not_scored_words:
+- Hooke
+- Hooker
+- hooknose
+- hooknoses

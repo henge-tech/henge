@@ -1,0 +1,24 @@
+---
+pattern: tran_ons
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 586252
+score_per_word: 53295
+hi_scored_words:
+  transactions: 5572
+  transcriptions: 34508
+  transformations: 15616
+  transfusions: 48503
+  transgressions: 45620
+  transitions: 14402
+  translations: 7539
+  transmissions: 14938
+scored_words:
+  transliterations: 155909
+  translocations: 101235
+  transpositions: 142410
+not_scored_words:
+- transductions
+- transmutations
+- transudations

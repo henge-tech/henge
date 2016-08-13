@@ -1,0 +1,35 @@
+---
+pattern: ba_le
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 25
+score: 984665
+score_per_word: 75743
+hi_scored_words:
+  babble: 27282
+  baffle: 33394
+  bagatelle: 96256
+  bale: 18985
+  bamboozle: 87748
+  bangle: 28912
+  barnacle: 53770
+  bastille: 32178
+  battle: 1255
+  bauble: 83181
+scored_words:
+  bailable: 244401
+  bankable: 118140
+  bascule: 159163
+not_scored_words:
+- Bale
+- Ballycastle
+- Banville
+- Baskerville
+- Bastille
+- Battle
+- Bayle
+- baggywrinkle
+- banderole
+- barbule
+- barcarole
+- bargepole

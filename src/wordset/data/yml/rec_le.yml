@@ -1,0 +1,31 @@
+---
+pattern: rec_le
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 21
+score: 1669802
+score_per_word: 98223
+hi_scored_words:
+  receivable: 21109
+  receptacle: 22560
+  rechargeable: 20728
+  recognizable: 21243
+  recompile: 65886
+  reconcile: 14900
+  reconfigurable: 68026
+  recordable: 49376
+  recoverable: 31664
+  rectangle: 20264
+  recyclable: 42811
+  recycle: 17629
+scored_words:
+  reclaimable: 330416
+  recommendable: 133206
+  reconcilable: 159715
+  rectifiable: 340734
+  rectocele: 309535
+not_scored_words:
+- reconstructible
+- recoupable
+- recouple
+- recuperable

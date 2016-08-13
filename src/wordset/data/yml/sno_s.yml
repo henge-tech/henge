@@ -1,0 +1,50 @@
+---
+pattern: sno_s
+hi_scored_words_count: 10
+scored_words_count: 18
+total_words: 40
+score: 3762175
+score_per_word: 134363
+hi_scored_words:
+  snobs: 65606
+  snorts: 87551
+  snowballs: 59697
+  snowbirds: 88079
+  snowboarders: 71909
+  snowboards: 49198
+  snowflakes: 42749
+  snowmobiles: 48475
+  snows: 36175
+  snowshoes: 50398
+scored_words:
+  snobbishness: 128093
+  snooks: 152169
+  snoopers: 140609
+  snoops: 114428
+  snoozes: 305486
+  snorers: 300646
+  snores: 100816
+  snorkelers: 185321
+  snorkels: 104132
+  snouts: 150157
+  snowblowers: 242341
+  snowdrifts: 240956
+  snowdrops: 141217
+  snowfalls: 122911
+  snowfields: 177232
+  snowplows: 178880
+  snowstorms: 109197
+  snowsuits: 267747
+not_scored_words:
+- snogs
+- snoods
+- snookers
+- snoopiness
+- snootiness
+- snoots
+- snorters
+- snots
+- snottiness
+- snowbanks
+- snowberries
+- snowiness

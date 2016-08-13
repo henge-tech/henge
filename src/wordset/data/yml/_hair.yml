@@ -1,0 +1,25 @@
+---
+pattern: _hair
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 759305
+score_per_word: 63275
+hi_scored_words:
+  armchair: 17878
+  chair: 1254
+  crosshair: 76409
+  hair: 676
+  highchair: 89165
+  horsehair: 75579
+  longhair: 88919
+  mohair: 40565
+  pushchair: 72647
+  wheelchair: 13485
+scored_words:
+  deckchair: 114809
+  maidenhair: 167919
+not_scored_words:
+- camelhair
+- unhair
+- wirehair

@@ -1,0 +1,38 @@
+---
+pattern: surf_
+hi_scored_words_count: 16
+scored_words_count: 1
+total_words: 28
+score: 727561
+score_per_word: 42797
+hi_scored_words:
+  surf: 6140
+  surface: 1101
+  surfaced: 24804
+  surfaces: 6151
+  surfacing: 35211
+  surfactant: 36915
+  surfactants: 48629
+  surfboard: 35901
+  surfboards: 49860
+  surfed: 48966
+  surfeit: 82585
+  surfer: 20460
+  surfers: 16698
+  surficial: 93848
+  surfing: 11600
+  surfs: 69443
+scored_words:
+  surfeited: 139249
+not_scored_words:
+- surfbird
+- surfbirds
+- surfboarded
+- surfboarding
+- surfboardings
+- surfboat
+- surfboats
+- surfeiting
+- surfeits
+- surficially
+- surfperch

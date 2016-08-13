@@ -1,0 +1,25 @@
+---
+pattern: res_rs
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 15
+score: 657241
+score_per_word: 54770
+hi_scored_words:
+  rescuers: 38898
+  researchers: 6910
+  resellers: 26467
+  reservoirs: 19855
+  resisters: 89942
+  resistors: 26817
+  resonators: 64587
+  respirators: 57095
+  responders: 22617
+  restaurateurs: 79578
+  restorers: 68882
+scored_words:
+  resolvers: 155593
+not_scored_words:
+- respecters
+- restrainers
+- resuscitators

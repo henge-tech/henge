@@ -1,0 +1,49 @@
+---
+pattern: c_ves
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 39
+score: 2184548
+score_per_word: 91022
+hi_scored_words:
+  calves: 16824
+  captives: 32723
+  carves: 84827
+  caves: 12123
+  chives: 43502
+  cleaves: 64635
+  cloves: 25745
+  collectives: 59128
+  conceives: 73871
+  connectives: 84859
+  conservatives: 11827
+  conserves: 73150
+  contraceptives: 27187
+  cooperatives: 22752
+  coves: 58050
+  craves: 57391
+  creatives: 55307
+  curves: 7403
+scored_words:
+  comparatives: 114095
+  comprehensives: 263319
+  contemplatives: 321529
+  contrives: 187720
+  correctives: 286363
+  corrosives: 200218
+not_scored_words:
+- carminatives
+- cloverleaves
+- commoves
+- conclaves
+- conjunctives
+- connives
+- consumptives
+- convolves
+- cookstoves
+- copulatives
+- correlatives
+- corves
+- countermoves
+- counteroffensives
+- curatives

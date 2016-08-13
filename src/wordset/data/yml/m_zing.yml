@@ -1,0 +1,40 @@
+---
+pattern: m_zing
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 30
+score: 1891361
+score_per_word: 111256
+hi_scored_words:
+  maximizing: 16610
+  memorizing: 51863
+  mesmerizing: 50006
+  metabolizing: 94888
+  minimizing: 17177
+  mobilizing: 36431
+  modernizing: 51838
+  moisturizing: 36440
+scored_words:
+  magnetizing: 189790
+  marginalizing: 150171
+  materializing: 154611
+  memorializing: 142751
+  metastasizing: 265337
+  modularizing: 268385
+  monetizing: 127511
+  monopolizing: 132332
+  moralizing: 105220
+not_scored_words:
+- macadamizing
+- marbleizing
+- martyrizing
+- mechanizing
+- melodizing
+- mercerizing
+- metricizing
+- militarizing
+- miniaturizing
+- mongrelizing
+- monumentalizing
+- motorizing
+- mythologizing

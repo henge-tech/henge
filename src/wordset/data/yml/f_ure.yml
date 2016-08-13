@@ -1,0 +1,26 @@
+---
+pattern: f_ure
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 16
+score: 464498
+score_per_word: 35730
+hi_scored_words:
+  failure: 1727
+  feature: 1591
+  figure: 571
+  fissure: 31726
+  fixture: 18217
+  flexure: 76541
+  foreclosure: 16907
+  forfeiture: 25238
+  fracture: 13046
+  furniture: 1786
+  future: 381
+scored_words:
+  facture: 168386
+  floriculture: 108381
+not_scored_words:
+- Faure
+- filature
+- forepleasure

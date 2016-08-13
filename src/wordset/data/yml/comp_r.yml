@@ -1,0 +1,31 @@
+---
+pattern: comp_r
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 21
+score: 1585186
+score_per_word: 93246
+hi_scored_words:
+  compactor: 68759
+  compar: 94645
+  comparator: 40097
+  compensator: 63781
+  competitor: 12273
+  compiler: 11779
+  composer: 6110
+  compositor: 64716
+  compressor: 15170
+  comptroller: 23200
+  computer: 674
+scored_words:
+  comparer: 125387
+  compeer: 292358
+  complainer: 156304
+  completer: 121478
+  compounder: 274564
+  comprador: 213891
+not_scored_words:
+- Comptometer
+- compacter
+- compander
+- compromiser

@@ -1,0 +1,72 @@
+---
+pattern: n_ts
+hi_scored_words_count: 20
+scored_words_count: 15
+total_words: 62
+score: 3502117
+score_per_word: 100060
+hi_scored_words:
+  nationalists: 34647
+  naturalists: 38303
+  naturists: 70740
+  neglects: 50346
+  nests: 23490
+  nets: 8800
+  neurologists: 61455
+  newsagents: 66614
+  newscasts: 59683
+  newts: 93111
+  nights: 2369
+  nits: 52555
+  nonprofits: 29251
+  nonresidents: 87253
+  novelists: 35132
+  nudists: 39117
+  nuggets: 21632
+  nutrients: 9511
+  nutritionists: 40661
+  nuts: 8005
+scored_words:
+  nanobots: 142576
+  narcissists: 109116
+  needlecrafts: 239704
+  neuroblasts: 216012
+  nightlights: 178530
+  nightshirts: 206572
+  nightspots: 125869
+  nihilists: 176854
+  nitwits: 218307
+  noncombatants: 159340
+  nonconformists: 152433
+  nonparticipants: 224981
+  noughts: 100270
+  numismatists: 254837
+  nymphets: 164041
+not_scored_words:
+- Nobelists
+- Nonconformists
+- Northeasts
+- Northwests
+- nativists
+- naughts
+- negativists
+- negotiants
+- neoclassicists
+- neocolonialists
+- neologists
+- nepotists
+- neutralists
+- noctambulists
+- nonabsorbents
+- nonbelligerents
+- nondevelopments
+- nonequivalents
+- nonevents
+- nonpayments
+- nonspecialists
+- notelets
+- nougats
+- numbats
+- numerologists
+- nutmeats
+- nutriments

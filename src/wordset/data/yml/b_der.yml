@@ -1,0 +1,58 @@
+---
+pattern: b_der
+hi_scored_words_count: 25
+scored_words_count: 10
+total_words: 48
+score: 2868701
+score_per_word: 81962
+hi_scored_words:
+  backgrounder: 97047
+  badder: 91753
+  balder: 98436
+  bandleader: 69610
+  bartender: 23349
+  beholder: 41764
+  bender: 23460
+  bidder: 12076
+  binder: 22060
+  bladder: 11586
+  bleeder: 80915
+  blender: 18069
+  blinder: 79047
+  blunder: 29284
+  boarder: 31698
+  bodybuilder: 38481
+  bolder: 41364
+  bookbinder: 96369
+  border: 2633
+  boulder: 9532
+  brander: 92272
+  breeder: 20841
+  broader: 7176
+  builder: 6686
+  bystander: 41570
+scored_words:
+  backhander: 242326
+  backslider: 267099
+  bander: 157859
+  bewilder: 144762
+  birder: 110394
+  blonder: 121872
+  bondholder: 162653
+  bounder: 118807
+  braider: 278945
+  brooder: 176906
+not_scored_words:
+- Balder
+- Bender
+- Boulder
+- bedder
+- bilander
+- blander
+- blockader
+- bobsledder
+- bodyboarder
+- brassbounder
+- breechloader
+- broider
+- budder

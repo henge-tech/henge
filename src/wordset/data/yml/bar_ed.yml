@@ -1,0 +1,35 @@
+---
+pattern: bar_ed
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 25
+score: 1705535
+score_per_word: 106595
+hi_scored_words:
+  barbecued: 57358
+  barbed: 28235
+  bared: 55861
+  bargained: 46036
+  barked: 48414
+  barred: 22180
+  barreled: 83134
+  barricaded: 81914
+  bartered: 83077
+scored_words:
+  barefaced: 213684
+  barefooted: 111491
+  bareheaded: 182334
+  barfed: 221309
+  barged: 127646
+  barraged: 222098
+  barrelled: 120764
+not_scored_words:
+- barbarized
+- barbered
+- barebacked
+- barehanded
+- barelegged
+- barhopped
+- barnacled
+- barnstormed
+- barracked

@@ -1,0 +1,43 @@
+---
+pattern: comm_es
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 33
+score: 1148680
+score_per_word: 67569
+hi_scored_words:
+  commemorates: 49289
+  commences: 25455
+  commentaries: 15776
+  commies: 69678
+  committees: 4750
+  commodities: 7500
+  commodores: 43497
+  commonalities: 67318
+  communes: 35094
+  communicates: 23494
+  communities: 2789
+  commutes: 52770
+scored_words:
+  commercializes: 216672
+  commissaries: 134400
+  commodes: 142547
+  commonplaces: 141507
+  communiques: 116144
+not_scored_words:
+- Commines
+- commentates
+- commingles
+- comminutes
+- commiserates
+- commissionaires
+- commixes
+- commixtures
+- commodiousnesses
+- commonages
+- commonplacenesses
+- commoves
+- communalizes
+- communicativenesses
+- communizes
+- commutates

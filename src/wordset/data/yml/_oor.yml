@@ -1,0 +1,31 @@
+---
+pattern: _oor
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 21
+score: 698938
+score_per_word: 46595
+hi_scored_words:
+  backdoor: 26468
+  boor: 61196
+  door: 636
+  floor: 935
+  indoor: 9612
+  moor: 14064
+  nextdoor: 97571
+  outdoor: 5094
+  poor: 753
+  seafloor: 52055
+  spoor: 66065
+  trapdoor: 67613
+  underfloor: 71519
+scored_words:
+  blackamoor: 107159
+  subfloor: 118198
+not_scored_words:
+- Dartmoor
+- Exmoor
+- Kohinoor
+- Moor
+- Sedgemoor
+- unmoor

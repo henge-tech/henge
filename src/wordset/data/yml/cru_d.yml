@@ -1,0 +1,22 @@
+---
+pattern: cru_d
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 577675
+score_per_word: 64186
+hi_scored_words:
+  crucified: 25652
+  crud: 43004
+  cruised: 53162
+  crumbled: 33847
+  crumpled: 44994
+  crunched: 79802
+  crushed: 8065
+  crusted: 55958
+scored_words:
+  crumbed: 233191
+not_scored_words:
+- crufted
+- crumped
+- crusaded

@@ -1,0 +1,56 @@
+---
+pattern: s_age
+hi_scored_words_count: 23
+scored_words_count: 6
+total_words: 46
+score: 1760216
+score_per_word: 60697
+hi_scored_words:
+  sabotage: 21282
+  sage: 5905
+  salvage: 16214
+  sausage: 12827
+  savage: 5468
+  scrimmage: 37876
+  seepage: 46268
+  sewage: 16235
+  sewerage: 30656
+  shortage: 12520
+  shrinkage: 32457
+  signage: 19537
+  silage: 41472
+  slippage: 52930
+  soundstage: 64536
+  spillage: 57332
+  spoilage: 66639
+  stage: 1002
+  steerage: 51843
+  stoppage: 40159
+  storage: 4446
+  stowage: 80833
+  suffrage: 21369
+scored_words:
+  saxifrage: 140195
+  seigniorage: 180592
+  selvage: 128201
+  stumpage: 130704
+  surplusage: 280829
+  swage: 159889
+not_scored_words:
+- Savage
+- Stevenage
+- scalage
+- scrummage
+- scutage
+- serfage
+- sinkage
+- smallage
+- soakage
+- socage
+- soilage
+- stealage
+- stillage
+- stockbrokerage
+- subaverage
+- substage
+- sullage

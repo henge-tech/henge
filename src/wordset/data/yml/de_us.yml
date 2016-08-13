@@ -1,0 +1,30 @@
+---
+pattern: de_us
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 20
+score: 642420
+score_per_word: 58401
+hi_scored_words:
+  deciduous: 29384
+  deleterious: 36753
+  delicious: 4562
+  delirious: 27413
+  denarius: 96683
+  desirous: 28145
+  detritus: 46663
+  devious: 19905
+  dexterous: 76786
+scored_words:
+  debus: 171505
+  decorous: 104621
+not_scored_words:
+- Dejesus
+- Delicious
+- Delius
+- Delphinus
+- Demetrius
+- Democritus
+- Deus
+- declivitous
+- declivous

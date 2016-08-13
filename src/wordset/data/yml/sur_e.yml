@@ -1,0 +1,34 @@
+---
+pattern: sur_e
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 24
+score: 1195199
+score_per_word: 70305
+hi_scored_words:
+  surcease: 83252
+  surcharge: 24538
+  sure: 311
+  surefire: 49426
+  surface: 1101
+  surge: 9490
+  surmise: 43780
+  surname: 8629
+  surprise: 2248
+  surrogate: 22939
+  surveillance: 7865
+  survivable: 88188
+  survive: 4283
+scored_words:
+  surcingle: 177476
+  surmountable: 288744
+  surplice: 102100
+  surplusage: 280829
+not_scored_words:
+- Suriname
+- Surinamese
+- surbase
+- surculose
+- suricate
+- surpassable
+- surtitle

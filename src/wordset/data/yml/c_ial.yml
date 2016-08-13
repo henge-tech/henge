@@ -1,0 +1,52 @@
+---
+pattern: c_ial
+hi_scored_words_count: 24
+scored_words_count: 5
+total_words: 42
+score: 1857387
+score_per_word: 64047
+hi_scored_words:
+  celestial: 10712
+  centennial: 19705
+  ceremonial: 16489
+  circumferential: 69437
+  circumstantial: 33150
+  coaxial: 29653
+  collegial: 58525
+  colloquial: 37148
+  colonial: 5471
+  combinatorial: 29891
+  commercial: 1049
+  confidential: 5425
+  congenial: 36750
+  consequential: 13949
+  conspiratorial: 90506
+  controversial: 10264
+  convivial: 62155
+  cordial: 22409
+  cranial: 32209
+  craniofacial: 58879
+  credential: 29701
+  crucial: 7906
+  curatorial: 68817
+  custodial: 24096
+scored_words:
+  cambial: 297234
+  cantorial: 201852
+  censorial: 162070
+  connubial: 118647
+  consubstantial: 303288
+not_scored_words:
+- Curial
+- carnassial
+- centurial
+- cicatricial
+- circumterrestrial
+- clamatorial
+- coessential
+- commissarial
+- componential
+- conservatorial
+- criterial
+- curial
+- cursorial

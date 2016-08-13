@@ -1,0 +1,107 @@
+---
+pattern: a_ist
+hi_scored_words_count: 29
+scored_words_count: 21
+total_words: 97
+score: 5500010
+score_per_word: 110000
+hi_scored_words:
+  abolitionist: 44464
+  absolutist: 66517
+  accompanist: 59736
+  activist: 13229
+  acupuncturist: 86198
+  agonist: 28137
+  agronomist: 91802
+  alarmist: 78828
+  alchemist: 25989
+  anarchist: 22934
+  anesthesiologist: 64725
+  anesthetist: 90520
+  animist: 92513
+  annalist: 88364
+  antagonist: 18532
+  anthologist: 92861
+  anthropologist: 28843
+  antichrist: 30773
+  aorist: 90333
+  apologist: 59499
+  archaeologist: 35249
+  archeologist: 78299
+  archivist: 28476
+  arsonist: 97821
+  artist: 1252
+  assist: 2338
+  astrophysicist: 96835
+  atheist: 14957
+  audiologist: 82944
+scored_words:
+  abortionist: 100619
+  abstractionist: 190164
+  absurdist: 115710
+  accordionist: 119727
+  aerialist: 191707
+  ageist: 227563
+  agriculturist: 130677
+  algebraist: 321107
+  alienist: 229620
+  allergist: 120463
+  alpinist: 168955
+  altruist: 141345
+  anatomist: 100709
+  anticapitalist: 291997
+  anticommunist: 201377
+  antiterrorist: 204159
+  apiarist: 215160
+  aquarist: 138910
+  aromatherapist: 265768
+  assimilationist: 223632
+  autonomist: 187673
+not_scored_words:
+- Adventist
+- Africanist
+- Afrocentrist
+- Americanist
+- Anabaptist
+- Anglicist
+- Anglocentrist
+- Antichrist
+- Antifederalist
+- Arabist
+- abacist
+- ableist
+- accommodationist
+- accompanyist
+- adventurist
+- aerodynamicist
+- agist
+- agriculturalist
+- allegorist
+- allopathist
+- amoralist
+- amorist
+- anecdotalist
+- anecdotist
+- animalist
+- annexationist
+- antiabortionist
+- antifascist
+- antifeminist
+- antimonarchist
+- antinationalist
+- antipacifist
+- antivivisectionist
+- aphorist
+- apiculturist
+- aquaculturist
+- arboriculturist
+- archaist
+- artillerist
+- astrologist
+- atavist
+- atomist
+- atonalist
+- aurist
+- auteurist
+- autopsist
+- aviarist

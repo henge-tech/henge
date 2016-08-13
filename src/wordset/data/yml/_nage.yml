@@ -1,0 +1,52 @@
+---
+pattern: _nage
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 42
+score: 2196330
+score_per_word: 95492
+hi_scored_words:
+  badinage: 82555
+  carnage: 21520
+  coinage: 32321
+  drainage: 9480
+  espionage: 22049
+  manage: 1909
+  menage: 55565
+  orphanage: 25425
+  parsonage: 42003
+  patronage: 19796
+  personage: 44389
+  signage: 19537
+  teenage: 7925
+  tonnage: 24842
+scored_words:
+  alienage: 324782
+  appanage: 107845
+  concubinage: 183559
+  dunnage: 125907
+  linage: 183848
+  micromanage: 151980
+  mismanage: 293983
+  nonage: 194955
+  peonage: 220155
+not_scored_words:
+- Stevenage
+- baronage
+- chaperonage
+- commonage
+- counterespionage
+- cozenage
+- cranage
+- empennage
+- gallonage
+- libertinage
+- matronage
+- megatonnage
+- tannage
+- tunnage
+- vicinage
+- villainage
+- villeinage
+- villenage
+- wagonage

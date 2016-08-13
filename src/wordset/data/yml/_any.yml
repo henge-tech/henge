@@ -1,0 +1,40 @@
+---
+pattern: _any
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 30
+score: 967010
+score_per_word: 64467
+hi_scored_words:
+  accompany: 7364
+  any: 63
+  botany: 16103
+  company: 227
+  epiphany: 30697
+  litany: 41984
+  mahogany: 12975
+  many: 112
+  meany: 74642
+  miscellany: 29240
+  zany: 43503
+scored_words:
+  paleobotany: 261159
+  tetany: 179656
+  theophany: 140342
+  tympany: 128943
+not_scored_words:
+- Albany
+- Bethany
+- Brittany
+- Christophany
+- Dunsany
+- Epiphany
+- Germany
+- Meany
+- Romany
+- Tammany
+- Tiffany
+- Tuscany
+- castellany
+- dittany
+- rhatany

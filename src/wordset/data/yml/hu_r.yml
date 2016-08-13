@@ -1,0 +1,44 @@
+---
+pattern: hu_r
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 34
+score: 1876036
+score_per_word: 89335
+hi_scored_words:
+  hugger: 50930
+  humidifier: 43849
+  humidor: 55551
+  hummer: 20842
+  humor: 3261
+  hunger: 5586
+  hungover: 73191
+  hunker: 84001
+  hunter: 3054
+  hurler: 90404
+  husker: 60529
+  hussar: 82520
+  hustler: 19408
+scored_words:
+  huckster: 138126
+  huger: 123226
+  huller: 192879
+  humbler: 108307
+  humdinger: 166313
+  hungrier: 126009
+  hurdler: 154007
+  hurter: 274043
+not_scored_words:
+- Huber
+- Humber
+- Hummer
+- Hunter
+- huddler
+- huffier
+- hulkier
+- humaner
+- humanizer
+- humbugger
+- hunkier
+- husbander
+- huskier

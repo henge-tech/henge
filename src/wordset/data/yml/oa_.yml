@@ -1,0 +1,51 @@
+---
+pattern: oa_
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 41
+score: 1637637
+score_per_word: 77982
+hi_scored_words:
+  oaf: 51147
+  oak: 3181
+  oaken: 80075
+  oaks: 9276
+  oakum: 69810
+  oar: 21056
+  oars: 24617
+  oases: 71014
+  oasis: 9724
+  oat: 30945
+  oaten: 91350
+  oath: 8009
+  oaths: 31313
+  oatmeal: 19971
+  oats: 16543
+scored_words:
+  oafish: 273929
+  oafs: 229891
+  oarsman: 137036
+  oarsmen: 166042
+  oast: 105807
+  oatcakes: 186901
+not_scored_words:
+- OAO
+- OAS
+- Oahu
+- Oakland
+- Oakley
+- Oates
+- Oaxaca
+- oafishly
+- oafishness
+- oared
+- oarfish
+- oaring
+- oarlock
+- oarlocks
+- oarsmanship
+- oarsmanships
+- oarswoman
+- oarswomen
+- oasts
+- oatcake

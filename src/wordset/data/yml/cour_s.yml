@@ -1,0 +1,30 @@
+---
+pattern: cour_s
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 20
+score: 1257194
+score_per_word: 83812
+hi_scored_words:
+  courageous: 21583
+  couriers: 35274
+  courses: 2515
+  courteous: 16215
+  courtesies: 77489
+  courthouses: 62551
+  courtiers: 51812
+  courtrooms: 81306
+  courts: 2688
+  courtyards: 50267
+scored_words:
+  courgettes: 136411
+  coursebooks: 245710
+  coursers: 235123
+  courtesans: 110857
+  courtliness: 127393
+not_scored_words:
+- courageousness
+- courlans
+- coursings
+- courteousness
+- courtships

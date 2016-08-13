@@ -1,0 +1,32 @@
+---
+pattern: l_ions
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 22
+score: 1003021
+score_per_word: 71644
+hi_scored_words:
+  lacerations: 72042
+  lamentations: 24274
+  legations: 94313
+  legions: 26074
+  lesions: 20608
+  libations: 78176
+  limitations: 4724
+  lions: 6030
+  liquidations: 89249
+  locations: 2545
+  lotions: 29454
+scored_words:
+  localizations: 112747
+  locutions: 264850
+  lucubrations: 177935
+not_scored_words:
+- Lamentations
+- Lions
+- lacrimations
+- lavations
+- liberalizations
+- lineations
+- lunations
+- luxations

@@ -1,0 +1,22 @@
+---
+pattern: dorm_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 517076
+score_per_word: 51707
+hi_scored_words:
+  dorm: 17165
+  dormancy: 66857
+  dormant: 19195
+  dormer: 45534
+  dormice: 64135
+  dormitories: 44275
+  dormitory: 24645
+  dormouse: 83455
+  dorms: 35401
+scored_words:
+  dormers: 116414
+not_scored_words:
+- dormeuse
+- dormie

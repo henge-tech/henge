@@ -1,0 +1,25 @@
+---
+pattern: in_ance
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 413142
+score_per_word: 45904
+hi_scored_words:
+  inductance: 36225
+  inheritance: 7187
+  insignificance: 52492
+  instance: 1645
+  insurance: 4286
+  intemperance: 84771
+  intolerance: 18110
+  invariance: 40906
+scored_words:
+  insouciance: 167520
+not_scored_words:
+- incessance
+- inelegance
+- inobservance
+- intendance
+- interinsurance
+- intransigeance

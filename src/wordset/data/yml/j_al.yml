@@ -1,0 +1,35 @@
+---
+pattern: j_al
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 25
+score: 1200251
+score_per_word: 80016
+hi_scored_words:
+  jackal: 31818
+  janitorial: 33763
+  journal: 1723
+  jovial: 44699
+  judgemental: 63816
+  judgmental: 39497
+  judicial: 4476
+  junctional: 93430
+  juridical: 54456
+  jurisdictional: 27720
+  juvenal: 80724
+scored_words:
+  jacal: 195737
+  jejunal: 122898
+  jugal: 230487
+  jurisprudential: 175007
+not_scored_words:
+- Jacobinical
+- Jacobitical
+- Jamaal
+- Jamal
+- Jubal
+- Judaical
+- Juvenal
+- jural
+- juristical
+- juxtapositional

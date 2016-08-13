@@ -1,0 +1,57 @@
+---
+pattern: scor_
+hi_scored_words_count: 20
+scored_words_count: 10
+total_words: 47
+score: 2537109
+score_per_word: 84570
+hi_scored_words:
+  scorch: 48332
+  scorched: 37401
+  scorching: 34816
+  score: 1492
+  scoreboard: 13638
+  scoreboards: 55524
+  scorecard: 24403
+  scorecards: 52215
+  scored: 5924
+  scoreless: 49075
+  scorer: 22199
+  scorers: 24559
+  scores: 9646
+  scoring: 10235
+  scorn: 20579
+  scorned: 39125
+  scornful: 60357
+  scornfully: 99706
+  scorpion: 19903
+  scorpions: 28562
+scored_words:
+  scorcher: 101722
+  scorchers: 211378
+  scorches: 246405
+  scorekeeper: 159100
+  scorekeepers: 314488
+  scoreline: 105099
+  scoria: 192183
+  scorner: 268642
+  scorning: 163182
+  scorns: 117219
+not_scored_words:
+- Scorpio
+- Scorpios
+- Scorpius
+- Scorsese
+- scorbutic
+- scorbutical
+- scorelines
+- scoriaceous
+- scoriae
+- scorify
+- scorners
+- scornfulness
+- scorpaenid
+- scorpaenids
+- scorpaenoid
+- scorpaenoids
+- scorper

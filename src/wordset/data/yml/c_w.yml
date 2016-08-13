@@ -1,0 +1,52 @@
+---
+pattern: c_w
+hi_scored_words_count: 20
+scored_words_count: 1
+total_words: 42
+score: 790513
+score_per_word: 37643
+hi_scored_words:
+  callow: 54458
+  cashew: 45350
+  cashflow: 51512
+  caw: 42171
+  chainsaw: 22970
+  chew: 13656
+  chow: 22035
+  claw: 14582
+  clew: 74194
+  coleslaw: 67556
+  corkscrew: 33036
+  cow: 4597
+  craw: 60072
+  crenshaw: 39426
+  crew: 2244
+  crossbow: 36705
+  crow: 7915
+  curfew: 29687
+  curlew: 53274
+  cw: 10237
+scored_words:
+  chaw: 104836
+not_scored_words:
+- CW
+- Carew
+- Carlow
+- Chengchow
+- Chickasaw
+- Choctaw
+- Cracow
+- Crashaw
+- Crow
+- catspaw
+- checkrow
+- chowchow
+- clapperclaw
+- clerihew
+- cockcrow
+- contraflow
+- cornrow
+- counterblow
+- counterglow
+- cumshaw
+- curassow

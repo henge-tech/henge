@@ -1,0 +1,39 @@
+---
+pattern: bro_e
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 29
+score: 1538316
+score_per_word: 85462
+hi_scored_words:
+  broadside: 38486
+  brocade: 29702
+  brochure: 15495
+  brogue: 76376
+  broke: 2647
+  brokerage: 22438
+  bromide: 29433
+  bromine: 47810
+  bronze: 4471
+  brownie: 23464
+  brownstone: 55232
+  browse: 9260
+scored_words:
+  brochette: 251542
+  bromate: 156012
+  bronchoscope: 235669
+  broodmare: 103470
+  brookite: 306898
+  brose: 129911
+not_scored_words:
+- Broglie
+- Bronte
+- Brooke
+- Brooklynese
+- Browne
+- Brownie
+- Brownsville
+- brominate
+- bronchiole
+- brooklime
+- broomrape

@@ -1,0 +1,31 @@
+---
+pattern: sal_e
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 21
+score: 1208206
+score_per_word: 75512
+hi_scored_words:
+  sale: 1149
+  saleable: 56228
+  salespeople: 31180
+  salicylate: 60422
+  salience: 58740
+  saline: 18005
+  saltire: 81415
+  salute: 11271
+  salvage: 16214
+  salve: 34297
+scored_words:
+  salable: 109119
+  salade: 110464
+  salivate: 103463
+  salmonellae: 240358
+  saltine: 160228
+  salvageable: 115653
+not_scored_words:
+- Sallie
+- Salome
+- Salvatore
+- salinize
+- saltigrade

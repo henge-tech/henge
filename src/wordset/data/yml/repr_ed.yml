@@ -1,0 +1,24 @@
+---
+pattern: repr_ed
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 988127
+score_per_word: 89829
+hi_scored_words:
+  represented: 2396
+  repressed: 24058
+  reprimanded: 52949
+  reprinted: 8621
+  reproached: 88947
+  reprocessed: 95507
+  reproduced: 6684
+  reprogrammed: 91534
+  reproved: 87859
+scored_words:
+  repriced: 308551
+  reprieved: 221021
+not_scored_words:
+- reprehended
+- reprized
+- reproofed

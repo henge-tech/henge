@@ -1,0 +1,63 @@
+---
+pattern: wa_es
+hi_scored_words_count: 22
+scored_words_count: 14
+total_words: 53
+score: 3159987
+score_per_word: 87777
+hi_scored_words:
+  waffles: 36610
+  wages: 4155
+  waitresses: 53482
+  waives: 61390
+  wakes: 18225
+  wales: 2490
+  wallabies: 56405
+  waltzes: 62193
+  wanes: 99461
+  wannabes: 61211
+  wardrobes: 42590
+  warehouses: 18963
+  wares: 17446
+  warplanes: 71927
+  warranties: 7681
+  washes: 24783
+  wastes: 11451
+  watches: 3724
+  watercourses: 58550
+  waveguides: 68343
+  waves: 3295
+  waxes: 41569
+scored_words:
+  waddles: 245935
+  wades: 104781
+  waistlines: 184075
+  walkies: 181958
+  walleyes: 157766
+  wallies: 124209
+  walruses: 137106
+  wannabees: 171168
+  warbles: 150481
+  warrantees: 112298
+  waterholes: 173206
+  waterlilies: 207562
+  waterlines: 271283
+  wattles: 112215
+not_scored_words:
+- Waldenses
+- Wales
+- Waves
+- wadges
+- waftures
+- waggeries
+- waggles
+- waldoes
+- wambles
+- wangles
+- wardresses
+- warhorses
+- washables
+- washhouses
+- watersides
+- wayleaves
+- waysides

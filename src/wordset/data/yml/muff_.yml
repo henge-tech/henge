@@ -1,0 +1,22 @@
+---
+pattern: muff_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 962210
+score_per_word: 87473
+hi_scored_words:
+  muff: 28588
+  muffin: 23733
+  muffins: 24117
+  muffle: 81101
+  muffled: 30856
+  muffler: 29954
+  mufflers: 54280
+  muffs: 68126
+scored_words:
+  muffed: 227548
+  muffles: 245139
+  muffling: 148768
+not_scored_words:
+- muffing

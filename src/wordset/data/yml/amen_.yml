@@ -1,0 +1,36 @@
+---
+pattern: amen_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 26
+score: 969401
+score_per_word: 64626
+hi_scored_words:
+  amen: 11749
+  amenable: 28871
+  amend: 9318
+  amended: 5417
+  amending: 21514
+  amendment: 5632
+  amendments: 6725
+  amends: 17049
+  amenities: 12458
+  amenity: 33489
+  amenorrhea: 63743
+scored_words:
+  amenability: 254405
+  amendable: 254459
+  amendatory: 133608
+  ament: 110964
+not_scored_words:
+- Amen
+- Amenhotep
+- amenableness
+- amenablenesses
+- amenably
+- amender
+- amenorrheas
+- amenorrheic
+- amentia
+- amentias
+- aments

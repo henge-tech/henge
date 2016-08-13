@@ -1,0 +1,36 @@
+---
+pattern: s_rk
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 26
+score: 1394842
+score_per_word: 92989
+hi_scored_words:
+  schoolwork: 51963
+  shark: 8578
+  shirk: 47607
+  skylark: 42217
+  smirk: 36579
+  snark: 37146
+  spark: 7209
+  stark: 9412
+  stonework: 65200
+  stork: 27695
+scored_words:
+  seamark: 246259
+  shagbark: 318941
+  spadework: 135441
+  steelwork: 112227
+  stirk: 248368
+not_scored_words:
+- Selkirk
+- Southwark
+- Stark
+- Steiermark
+- salesclerk
+- shellbark
+- shitwork
+- sitzmark
+- slopwork
+- soapbark
+- stuccowork

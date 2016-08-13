@@ -1,0 +1,24 @@
+---
+pattern: stor_s
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 933726
+score_per_word: 77810
+hi_scored_words:
+  storefronts: 58995
+  stores: 1646
+  stories: 702
+  storks: 71918
+  storms: 8035
+  stormtroopers: 79508
+  storyboards: 65393
+  storybooks: 93170
+  storytellers: 44432
+scored_words:
+  storehouses: 112333
+  storekeepers: 246267
+  storerooms: 151327
+not_scored_words:
+- storaxes
+- storminess

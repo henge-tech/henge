@@ -1,0 +1,41 @@
+---
+pattern: c_hy
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 31
+score: 784418
+score_per_word: 56029
+hi_scored_words:
+  calligraphy: 23362
+  cardiomyopathy: 41750
+  cartography: 31617
+  catchy: 21450
+  choreography: 25818
+  chromatography: 17316
+  cinematography: 24741
+  cosmography: 82770
+  crunchy: 28747
+  cryptography: 23901
+  crystallography: 38980
+  cushy: 59949
+scored_words:
+  churchy: 199714
+  creditworthy: 164303
+not_scored_words:
+- Cathy
+- Cauchy
+- Clichy
+- cacography
+- cardiography
+- cerography
+- chalcography
+- chartography
+- chinchy
+- chirography
+- choregraphy
+- chorography
+- chrestomathy
+- chromolithography
+- chronography
+- cleruchy
+- cockshy

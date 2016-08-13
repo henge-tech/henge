@@ -1,0 +1,38 @@
+---
+pattern: s_ver
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 28
+score: 1395847
+score_per_word: 60689
+hi_scored_words:
+  saver: 9338
+  screensaver: 22158
+  screwdriver: 21313
+  server: 11760
+  sever: 25129
+  shaver: 24398
+  shiver: 24555
+  silver: 886
+  sleepover: 47507
+  sliver: 39970
+  soever: 74712
+  softcover: 30458
+  solver: 24001
+  spillover: 63140
+  stopover: 49348
+  stover: 42716
+  switchover: 66361
+scored_words:
+  salver: 154229
+  semiquaver: 141207
+  skydiver: 109933
+  slaver: 111453
+  slipcover: 104239
+  stiver: 197036
+not_scored_words:
+- shover
+- skiver
+- slipover
+- suaver
+- superachiever

@@ -1,0 +1,28 @@
+---
+pattern: bea_d
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 835586
+score_per_word: 75962
+hi_scored_words:
+  beached: 59468
+  beachhead: 87461
+  bead: 12135
+  beaded: 21685
+  beaked: 64981
+  beamed: 36227
+  beard: 7054
+  bearded: 19601
+scored_words:
+  bearwood: 242656
+  beatified: 151391
+  beautified: 132927
+not_scored_words:
+- Beaconsfield
+- Beard
+- Beauregard
+- Beaverboard
+- beaned
+- beaverboard
+- beavered

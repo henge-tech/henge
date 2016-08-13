@@ -1,0 +1,33 @@
+---
+pattern: c_iers
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 23
+score: 1351473
+score_per_word: 90098
+hi_scored_words:
+  carriers: 7668
+  cashiers: 17652
+  cavaliers: 19209
+  chandeliers: 30081
+  classifiers: 49013
+  colliers: 56324
+  copiers: 39639
+  couriers: 35274
+  courtiers: 51812
+  cuirassiers: 81788
+scored_words:
+  chevaliers: 124309
+  claviers: 264563
+  clothiers: 110229
+  criers: 225452
+  croupiers: 238460
+not_scored_words:
+- Cavaliers
+- chiffoniers
+- codifiers
+- costumiers
+- cottiers
+- couturiers
+- crosiers
+- croziers

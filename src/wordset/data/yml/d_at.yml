@@ -1,0 +1,30 @@
+---
+pattern: d_at
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 799339
+score_per_word: 61487
+hi_scored_words:
+  dat: 10033
+  deadbeat: 48727
+  defeat: 4417
+  democrat: 8637
+  diktat: 90780
+  diplomat: 19056
+  doormat: 51596
+  downbeat: 58856
+  drat: 72535
+  drumbeat: 77941
+scored_words:
+  dingbat: 115272
+  dreamboat: 128058
+  ducat: 113431
+not_scored_words:
+- DAT
+- Democrat
+- Dixiecrat
+- Dorpat
+- Dumyat
+- dandiprat
+- diddlysquat

@@ -1,0 +1,33 @@
+---
+pattern: ca_h
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 23
+score: 563450
+score_per_word: 56345
+hi_scored_words:
+  calabash: 60610
+  caliph: 38138
+  cartoonish: 84173
+  carwash: 66348
+  cash: 1879
+  catarrh: 88427
+  catch: 1896
+  catfish: 17797
+  cavendish: 29239
+scored_words:
+  calash: 174943
+not_scored_words:
+- Caph
+- Carchemish
+- Cash
+- Castlereagh
+- Cath
+- Cavendish
+- caddish
+- calipash
+- callipash
+- candlefish
+- cardiograph
+- cattish
+- cavefish

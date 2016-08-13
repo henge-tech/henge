@@ -1,0 +1,28 @@
+---
+pattern: e_nd
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 628950
+score_per_word: 57177
+hi_scored_words:
+  earthbound: 61972
+  eastbound: 36603
+  eland: 61678
+  end: 177
+  errand: 28675
+  expand: 4738
+  expend: 24384
+  expound: 51270
+  extend: 3464
+scored_words:
+  elkhound: 195433
+  emend: 160556
+not_scored_words:
+- Edmond
+- Edmund
+- England
+- Eurobond
+- elfland
+- enwind
+- exscind

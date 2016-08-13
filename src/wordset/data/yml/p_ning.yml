@@ -1,0 +1,49 @@
+---
+pattern: p_ning
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 39
+score: 2311346
+score_per_word: 85605
+hi_scored_words:
+  panning: 42737
+  partitioning: 22441
+  patterning: 41860
+  penning: 59613
+  pertaining: 7901
+  petitioning: 57368
+  phoning: 37261
+  pining: 66799
+  pinning: 39434
+  planing: 48673
+  planning: 2386
+  poisoning: 11336
+  positioning: 8542
+  postponing: 52424
+  preconditioning: 89713
+  preening: 93728
+  proportioning: 90428
+  provisioning: 34627
+  pruning: 23818
+scored_words:
+  paining: 264812
+  pardoning: 121884
+  pawning: 204016
+  portioning: 298903
+  prescreening: 189102
+  prizewinning: 192571
+  profaning: 104503
+  punning: 104466
+not_scored_words:
+- pensioning
+- pinioning
+- platooning
+- prawning
+- predefining
+- predestining
+- predetermining
+- preordaining
+- processioning
+- propositioning
+- purloining
+- pwning

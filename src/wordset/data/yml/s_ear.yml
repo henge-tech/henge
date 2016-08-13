@@ -1,0 +1,22 @@
+---
+pattern: s_ear
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 373732
+score_per_word: 37373
+hi_scored_words:
+  sear: 37995
+  shear: 16642
+  sleepwear: 53454
+  smear: 20748
+  spear: 8839
+  sportswear: 25527
+  swear: 6362
+  swimwear: 20469
+  switchgear: 71721
+scored_words:
+  skiwear: 111975
+not_scored_words:
+- schmear
+- shmear

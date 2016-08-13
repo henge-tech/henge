@@ -1,0 +1,50 @@
+---
+pattern: ti_ed
+hi_scored_words_count: 19
+scored_words_count: 10
+total_words: 40
+score: 2525407
+score_per_word: 87083
+hi_scored_words:
+  ticked: 33341
+  ticketed: 68441
+  tickled: 35369
+  tidied: 79171
+  tied: 3592
+  tiered: 27030
+  tightened: 25460
+  tiled: 28997
+  tilled: 76556
+  tilted: 24497
+  timbered: 75253
+  timed: 14219
+  tinged: 38034
+  tinned: 52760
+  tinted: 22702
+  tipped: 16866
+  tired: 2606
+  titled: 9999
+  titrated: 83375
+scored_words:
+  tided: 214659
+  timetabled: 116192
+  tinctured: 125019
+  tined: 316743
+  tingled: 139510
+  tinkered: 116842
+  tinkled: 218991
+  tiptoed: 137844
+  titillated: 271141
+  tittered: 150198
+not_scored_words:
+- ticktacked
+- tiffed
+- tightfisted
+- tightlipped
+- tincted
+- tinseled
+- tippexed
+- tippled
+- tithed
+- titivated
+- tittivated

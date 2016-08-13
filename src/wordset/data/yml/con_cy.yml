@@ -1,0 +1,25 @@
+---
+pattern: con_cy
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 629885
+score_per_word: 52490
+hi_scored_words:
+  concurrency: 29227
+  confederacy: 28422
+  conservancy: 24545
+  consistency: 7422
+  conspiracy: 5727
+  constancy: 33883
+  constituency: 13403
+  consultancy: 9482
+  contingency: 13231
+scored_words:
+  congruency: 126874
+  conjugacy: 119332
+  contumacy: 218337
+not_scored_words:
+- Confederacy
+- convergency
+- conversancy

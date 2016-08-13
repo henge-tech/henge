@@ -1,0 +1,45 @@
+---
+pattern: assa_
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 35
+score: 1836376
+score_per_word: 73455
+hi_scored_words:
+  assail: 55735
+  assailant: 39648
+  assailants: 50827
+  assailed: 52187
+  assassin: 14472
+  assassinate: 35286
+  assassinated: 28491
+  assassination: 11915
+  assassinations: 48143
+  assassins: 21040
+  assault: 4197
+  assaulted: 22976
+  assaulting: 42602
+  assaults: 21096
+  assay: 15154
+  assayed: 54046
+  assays: 20791
+scored_words:
+  assai: 102900
+  assailing: 152110
+  assails: 119661
+  assassinating: 105456
+  assaultive: 193267
+  assayer: 206340
+  assayers: 306470
+  assaying: 111566
+not_scored_words:
+- Assad
+- Assam
+- Assamese
+- assagai
+- assagais
+- assailable
+- assailer
+- assassinates
+- assaulter
+- assayable

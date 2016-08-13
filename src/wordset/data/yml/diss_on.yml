@@ -1,0 +1,21 @@
+---
+pattern: diss_on
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 548523
+score_per_word: 54852
+hi_scored_words:
+  dissatisfaction: 18710
+  dissection: 24767
+  dissemination: 16191
+  dissension: 59576
+  dissertation: 12055
+  dissipation: 20695
+  dissociation: 32641
+  dissolution: 12058
+scored_words:
+  dissimulation: 105522
+  dissuasion: 246308
+not_scored_words:
+- dissimilation

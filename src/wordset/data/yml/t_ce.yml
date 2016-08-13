@@ -1,0 +1,57 @@
+---
+pattern: t_ce
+hi_scored_words_count: 20
+scored_words_count: 12
+total_words: 47
+score: 2649838
+score_per_word: 82807
+hi_scored_words:
+  taskforce: 44034
+  teleconference: 50003
+  temperance: 24400
+  terrace: 6150
+  thence: 10631
+  thrice: 11734
+  timepiece: 48604
+  tolerance: 7778
+  trace: 3485
+  trance: 8625
+  transcendence: 39207
+  transference: 39509
+  transience: 86646
+  transmittance: 74469
+  trice: 42718
+  truce: 17722
+  tuppence: 91294
+  turbulence: 18658
+  twice: 1932
+  typeface: 34106
+scored_words:
+  tace: 171067
+  tailpiece: 100940
+  tailrace: 200265
+  tendance: 125356
+  thermoluminescence: 227999
+  threepence: 141818
+  tierce: 136836
+  titmice: 224378
+  traduce: 206968
+  translucence: 129622
+  trounce: 109408
+  twopence: 213476
+not_scored_words:
+- Terence
+- Terrance
+- Terrence
+- Thrace
+- Torrance
+- tarriance
+- tenace
+- terce
+- thrippence
+- transhumance
+- transpierce
+- triboluminescence
+- truculence
+- tumescence
+- turgescence

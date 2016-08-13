@@ -1,0 +1,22 @@
+---
+pattern: re_ming
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 1180717
+score_per_word: 107337
+hi_scored_words:
+  reaffirming: 63962
+  reaming: 77624
+  reclaiming: 37634
+  redeeming: 33279
+  reforming: 22826
+  renaming: 25329
+  reprogramming: 67333
+  resuming: 33840
+scored_words:
+  rearming: 286697
+  reconfirming: 297899
+  rewarming: 234294
+not_scored_words:
+- reassuming

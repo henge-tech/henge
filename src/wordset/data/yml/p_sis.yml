@@ -1,0 +1,67 @@
+---
+pattern: p_sis
+hi_scored_words_count: 14
+scored_words_count: 18
+total_words: 57
+score: 3664781
+score_per_word: 114524
+hi_scored_words:
+  paralysis: 17347
+  parenthesis: 31922
+  pathogenesis: 26756
+  pertussis: 40135
+  phagocytosis: 53771
+  photolysis: 87704
+  photosynthesis: 29200
+  prognosis: 16079
+  prosthesis: 33924
+  proteolysis: 68578
+  psoriasis: 27019
+  psychoanalysis: 25811
+  psychosis: 27255
+  pyrolysis: 64453
+scored_words:
+  palingenesis: 237292
+  pangenesis: 153416
+  paraphrasis: 332113
+  paratuberculosis: 188230
+  paresis: 100493
+  parthenogenesis: 132788
+  pediculosis: 217599
+  peristalsis: 100053
+  phasis: 179574
+  phthisis: 194950
+  pneumoconiosis: 113498
+  prolepsis: 187931
+  protasis: 141585
+  prothesis: 122603
+  psis: 222060
+  psittacosis: 191813
+  psychokinesis: 187912
+  ptosis: 110917
+not_scored_words:
+- Parcheesis
+- Parsis
+- Persis
+- pachisis
+- parabasis
+- parasynapsis
+- parasynthesis
+- pathoneurosis
+- pedogenesis
+- periphrasis
+- pharmacopsychosis
+- phlebosclerosis
+- photokinesis
+- phytogenesis
+- plasmolysis
+- pneumonoultramicroscopicsilicovolcanoconiosis
+- pollinosis
+- polygenesis
+- proptosis
+- psychodiagnosis
+- psychogenesis
+- psychognosis
+- psychoneurosis
+- pyosis
+- pyrosis

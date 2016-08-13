@@ -1,0 +1,32 @@
+---
+pattern: i_nces
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 22
+score: 706251
+score_per_word: 58854
+hi_scored_words:
+  imbalances: 29844
+  incidences: 51392
+  inconveniences: 51573
+  indulgences: 54557
+  inferences: 24125
+  influences: 5660
+  inheritances: 98384
+  instances: 4166
+  insurances: 47602
+  intelligences: 50801
+  interferences: 61969
+scored_words:
+  impertinences: 226178
+not_scored_words:
+- illuminances
+- impatiences
+- impuissances
+- inconsequences
+- incurrences
+- inherences
+- insurgences
+- intermittences
+- intumescences
+- irrelevances

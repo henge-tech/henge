@@ -1,0 +1,51 @@
+---
+pattern: real_
+hi_scored_words_count: 29
+scored_words_count: 8
+total_words: 41
+score: 2197352
+score_per_word: 59387
+hi_scored_words:
+  real: 198
+  realign: 68542
+  realigned: 81184
+  realignment: 34215
+  realism: 12476
+  realist: 27986
+  realistic: 7068
+  realistically: 21997
+  realists: 69202
+  realities: 11375
+  reality: 1649
+  realizable: 80307
+  realization: 10244
+  realizations: 49701
+  realize: 2771
+  realized: 3167
+  realizes: 17641
+  realizing: 11408
+  reallocate: 83008
+  reallocated: 78242
+  reallocation: 52048
+  really: 236
+  realm: 5780
+  realms: 15537
+  realpolitik: 85599
+  reals: 32942
+  realtor: 18077
+  realtors: 19374
+  realty: 15036
+scored_words:
+  realer: 105779
+  realest: 110623
+  realigning: 121022
+  realignments: 130695
+  realigns: 254615
+  reallocates: 289363
+  reallocating: 150371
+  realness: 117874
+not_scored_words:
+- Realpolitik
+- Realtor
+- realgar
+- realgars

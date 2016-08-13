@@ -1,0 +1,47 @@
+---
+pattern: brig_
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 37
+score: 1843396
+score_per_word: 80147
+hi_scored_words:
+  brig: 19461
+  brigade: 7240
+  brigades: 26120
+  brigadier: 25137
+  brigand: 78728
+  brigands: 97818
+  brigantine: 57418
+  bright: 1905
+  brighten: 23837
+  brightened: 47783
+  brightening: 50215
+  brightens: 63510
+  brighter: 11328
+  brightest: 15632
+  brightly: 15156
+  brightness: 8745
+  brights: 70788
+scored_words:
+  brigandage: 101362
+  brigandine: 216929
+  brightener: 206867
+  brighteners: 255022
+  brightnesses: 267814
+  brigs: 174581
+not_scored_words:
+- Brig
+- Brigadoon
+- Briggs
+- Brigham
+- Bright
+- Brighton
+- Brigid
+- Brigit
+- Brigitte
+- brigadiers
+- brigandines
+- brigandry
+- brigantines
+- brightwork

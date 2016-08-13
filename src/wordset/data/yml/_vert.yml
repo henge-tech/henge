@@ -1,0 +1,34 @@
+---
+pattern: _vert
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 24
+score: 965498
+score_per_word: 56794
+hi_scored_words:
+  advert: 15303
+  avert: 22059
+  convert: 3683
+  covert: 13324
+  culvert: 42938
+  divert: 18376
+  evert: 50207
+  extrovert: 88664
+  introvert: 61752
+  invert: 32297
+  overt: 22722
+  pervert: 25944
+  revert: 16995
+  subvert: 40057
+  vert: 24762
+scored_words:
+  controvert: 178420
+  reconvert: 307995
+not_scored_words:
+- Calvert
+- Evert
+- ambivert
+- animadvert
+- antevert
+- discovert
+- obvert

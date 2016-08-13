@@ -1,0 +1,37 @@
+---
+pattern: h_red
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 27
+score: 1397932
+score_per_word: 69896
+hi_scored_words:
+  haired: 15673
+  hammered: 22114
+  hampered: 24652
+  harbored: 64965
+  hardwired: 48305
+  hatred: 7052
+  headquartered: 15593
+  hindered: 27495
+  hired: 5025
+  hollered: 89635
+  homered: 73301
+  honored: 7151
+  hovered: 44990
+  humored: 97164
+  hundred: 1732
+scored_words:
+  hankered: 145689
+  hectored: 215906
+  holstered: 220604
+  hungered: 138713
+  hunkered: 132173
+not_scored_words:
+- haltered
+- hared
+- helicoptered
+- highbred
+- homebred
+- hoovered
+- huckstered

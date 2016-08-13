@@ -1,0 +1,28 @@
+---
+pattern: th_ne
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 999023
+score_per_word: 83251
+hi_scored_words:
+  thane: 36138
+  theophylline: 56725
+  thiamine: 55019
+  thine: 13566
+  threonine: 42268
+  throne: 6403
+  thymine: 90490
+  thyroxine: 60527
+scored_words:
+  thermocline: 109501
+  thighbone: 235164
+  thunderstone: 100905
+  thylacine: 192317
+not_scored_words:
+- Thorazine
+- thebaine
+- theine
+- thermophone
+- thiazine
+- thiosinamine

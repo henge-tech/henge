@@ -1,0 +1,39 @@
+---
+pattern: unfa_
+hi_scored_words_count: 11
+scored_words_count: 10
+total_words: 29
+score: 2272563
+score_per_word: 108217
+hi_scored_words:
+  unfailing: 61294
+  unfair: 7684
+  unfairly: 27437
+  unfairness: 52425
+  unfaithful: 33446
+  unfamiliar: 12981
+  unfashionable: 65582
+  unfathomable: 47836
+  unfavorable: 20445
+  unfavorably: 93629
+  unfazed: 88904
+scored_words:
+  unfading: 253848
+  unfailingly: 101459
+  unfaithfully: 290485
+  unfaithfulness: 124207
+  unfaltering: 191339
+  unfamiliarity: 110470
+  unfasten: 164184
+  unfastened: 127269
+  unfastening: 218734
+  unfathomed: 178905
+not_scored_words:
+- unfadingly
+- unfairer
+- unfairest
+- unfalsifiable
+- unfamiliarly
+- unfashionably
+- unfastens
+- unfathomably

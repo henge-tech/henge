@@ -1,0 +1,24 @@
+---
+pattern: f_ious
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 894804
+score_per_word: 74567
+hi_scored_words:
+  facetious: 60660
+  fallacious: 49134
+  fastidious: 56384
+  felonious: 79449
+  ferocious: 24680
+  fictitious: 19633
+  flirtatious: 75423
+  fractious: 78517
+  furious: 9447
+scored_words:
+  factious: 132476
+  factitious: 102176
+  flagitious: 206825
+not_scored_words:
+- foreconscious
+- fugacious

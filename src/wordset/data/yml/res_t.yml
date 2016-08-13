@@ -1,0 +1,47 @@
+---
+pattern: res_t
+hi_scored_words_count: 26
+scored_words_count: 6
+total_words: 37
+score: 1695700
+score_per_word: 52990
+hi_scored_words:
+  rescript: 92599
+  resent: 16236
+  resentment: 15748
+  reservist: 70485
+  reset: 16469
+  resettlement: 28376
+  resident: 4158
+  resilient: 22677
+  resist: 5498
+  resistant: 14908
+  resonant: 22594
+  resort: 2722
+  respect: 926
+  resplendent: 50856
+  respondent: 14673
+  rest: 687
+  restart: 14205
+  restatement: 44923
+  restaurant: 5141
+  restraint: 9731
+  restrict: 10753
+  resubmit: 29456
+  result: 453
+  resultant: 20033
+  resurgent: 71261
+  resurrect: 41556
+scored_words:
+  reseat: 203243
+  reselect: 261593
+  resit: 107574
+  resolvent: 164867
+  ressentiment: 160894
+  resurrectionist: 170405
+not_scored_words:
+- Resht
+- resat
+- resect
+- reshipment
+- restfullest

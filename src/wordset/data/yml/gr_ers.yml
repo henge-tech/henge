@@ -1,0 +1,49 @@
+---
+pattern: gr_ers
+hi_scored_words_count: 11
+scored_words_count: 15
+total_words: 39
+score: 3117953
+score_per_word: 119921
+hi_scored_words:
+  grabbers: 75436
+  graders: 16667
+  granddaughters: 75439
+  grandfathers: 53562
+  grandmothers: 40368
+  grasshoppers: 44217
+  grenadiers: 87468
+  grinders: 34259
+  grocers: 44025
+  groomers: 85345
+  growers: 19040
+scored_words:
+  grandmasters: 122057
+  grangers: 149928
+  grapplers: 170436
+  graters: 140085
+  gravediggers: 196670
+  grazers: 131864
+  graziers: 174076
+  greasers: 190734
+  greengrocers: 138618
+  greeters: 106451
+  grippers: 112191
+  groaners: 271760
+  grounders: 260608
+  groupers: 144322
+  growlers: 232327
+not_scored_words:
+- grafters
+- granters
+- gravimeters
+- greenbriers
+- grievers
+- gripers
+- gritters
+- gropers
+- groundskeepers
+- grousers
+- grovelers
+- grubbers
+- grumblers

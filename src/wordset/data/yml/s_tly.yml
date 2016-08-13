@@ -1,0 +1,47 @@
+---
+pattern: s_tly
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 37
+score: 1597746
+score_per_word: 66572
+hi_scored_words:
+  saintly: 42530
+  secretly: 9717
+  shortly: 4024
+  significantly: 5037
+  silently: 11279
+  slightly: 1744
+  smartly: 45499
+  softly: 8430
+  sprightly: 58632
+  steadfastly: 44354
+  stoutly: 80453
+  strictly: 4022
+  subsequently: 4819
+  subtly: 27902
+  succinctly: 46980
+  sufficiently: 5349
+  sweetly: 27754
+  swiftly: 13375
+scored_words:
+  sequently: 189681
+  sightly: 267200
+  straightly: 174590
+  straitly: 237914
+  stridently: 180151
+  stringently: 106310
+not_scored_words:
+- sacrosanctly
+- saliently
+- sapiently
+- scantly
+- sentiently
+- sibilantly
+- somnambulantly
+- somnolently
+- stagnantly
+- stalwartly
+- subserviently
+- succulently
+- suppliantly

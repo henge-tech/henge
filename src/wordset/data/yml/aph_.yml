@@ -1,0 +1,49 @@
+---
+pattern: aph_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 39
+score: 1171413
+score_per_word: 90108
+hi_scored_words:
+  aphasia: 43525
+  aphelion: 93658
+  aphid: 49237
+  aphids: 46173
+  aphis: 61793
+  aphorism: 70496
+  aphorisms: 54529
+  aphoristic: 97802
+  aphrodisiac: 44574
+  aphrodisiacs: 78561
+scored_words:
+  aphasic: 166795
+  apheresis: 130237
+  aphrodisia: 234033
+not_scored_words:
+- Aphrodite
+- aphanite
+- aphanites
+- aphasiac
+- aphasics
+- aphelia
+- aphelian
+- aphelions
+- apheliotropic
+- aphereses
+- apheses
+- aphesis
+- aphides
+- aphonia
+- aphonias
+- aphonic
+- aphorist
+- aphoristically
+- aphorists
+- aphorize
+- aphorized
+- aphorizes
+- aphorizing
+- aphotic
+- aphrodisiacal
+- aphyllous

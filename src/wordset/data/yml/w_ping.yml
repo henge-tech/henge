@@ -1,0 +1,27 @@
+---
+pattern: w_ping
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 17
+score: 1403802
+score_per_word: 100271
+hi_scored_words:
+  warping: 47932
+  weeping: 14047
+  whipping: 16261
+  whooping: 32155
+  whopping: 29482
+  wiping: 23183
+  wiretapping: 48474
+  worshiping: 52944
+  wrapping: 9719
+scored_words:
+  walloping: 272700
+  weatherstripping: 143135
+  whapping: 315217
+  whelping: 165917
+  whomping: 232636
+not_scored_words:
+- whupping
+- wicketkeeping
+- wimping

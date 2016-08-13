@@ -1,0 +1,48 @@
+---
+pattern: basi_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 38
+score: 1193022
+score_per_word: 79534
+hi_scored_words:
+  basic: 3190
+  basically: 6743
+  basics: 4860
+  basil: 14766
+  basilar: 81705
+  basilica: 27201
+  basilisk: 63085
+  basin: 4886
+  basing: 29790
+  basins: 18969
+  basis: 1456
+scored_words:
+  basicity: 247573
+  basidiomycete: 305966
+  basidiomycetes: 205929
+  basilicas: 176903
+not_scored_words:
+- BASIC
+- BASICs
+- Basic
+- Basie
+- Basil
+- Basilan
+- Basildon
+- Basilian
+- Basilicata
+- basidia
+- basidiospore
+- basidiospores
+- basidium
+- basifixed
+- basilican
+- basilisks
+- basinal
+- basinet
+- basinets
+- basinful
+- basinfuls
+- basion
+- basipetal

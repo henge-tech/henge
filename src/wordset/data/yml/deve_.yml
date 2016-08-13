@@ -1,0 +1,23 @@
+---
+pattern: deve_
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 13
+score: 72207
+score_per_word: 7220
+hi_scored_words:
+  develop: 2063
+  developed: 1236
+  developer: 6335
+  developers: 2889
+  developing: 2445
+  development: 563
+  developmental: 6037
+  developmentally: 37617
+  developments: 4764
+  develops: 8258
+scored_words: {}
+not_scored_words:
+- Deventer
+- Devereux
+- devest

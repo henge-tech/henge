@@ -1,0 +1,41 @@
+---
+pattern: ex_rs
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 31
+score: 1936216
+score_per_word: 92200
+hi_scored_words:
+  examiners: 21041
+  excavators: 56980
+  exchangers: 41537
+  executioners: 75614
+  executors: 43162
+  exemplars: 53916
+  exhibitors: 25324
+  experimenters: 70255
+  explorers: 17462
+  exporters: 12973
+  extenders: 53301
+  exteriors: 51986
+  extinguishers: 39263
+  extractors: 66881
+scored_words:
+  exciters: 197665
+  exercisers: 127147
+  expediters: 325242
+  exploiters: 101094
+  expositors: 272608
+  extensors: 181948
+  exterminators: 100817
+not_scored_words:
+- Exmoors
+- exaggerators
+- exchequers
+- exhibitioners
+- expenders
+- exploders
+- expounders
+- expropriators
+- extollers
+- extortioners

@@ -1,0 +1,31 @@
+---
+pattern: stu_y
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 21
+score: 1139133
+score_per_word: 75942
+hi_scored_words:
+  stubbornly: 42010
+  stubby: 51342
+  studiously: 93226
+  study: 430
+  stuffy: 31460
+  stumpy: 72695
+  stunningly: 46751
+  stupefy: 78321
+  stupidity: 13385
+  stupidly: 36993
+  sturdy: 10775
+scored_words:
+  studly: 141407
+  stultify: 127857
+  stupendously: 234050
+  sturdily: 158431
+not_scored_words:
+- stubbly
+- studiedly
+- stuffily
+- stumblingly
+- stupefyingly
+- stutteringly

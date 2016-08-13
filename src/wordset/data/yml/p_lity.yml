@@ -1,0 +1,55 @@
+---
+pattern: p_lity
+hi_scored_words_count: 19
+scored_words_count: 10
+total_words: 45
+score: 2493284
+score_per_word: 85975
+hi_scored_words:
+  partiality: 44085
+  patentability: 85788
+  permeability: 22765
+  personality: 3656
+  physicality: 73969
+  plausibility: 52729
+  playability: 64637
+  plurality: 19893
+  polity: 27957
+  portability: 22757
+  possibility: 2640
+  potentiality: 71222
+  practicality: 32874
+  predictability: 33449
+  principality: 33072
+  probability: 3846
+  profitability: 15908
+  proportionality: 44505
+  punctuality: 50768
+scored_words:
+  palatability: 123607
+  perfectibility: 252985
+  perishability: 165087
+  permissibility: 177226
+  pliability: 243982
+  polarizability: 143548
+  practicability: 103310
+  prodigality: 213490
+  programmability: 129000
+  provability: 234529
+not_scored_words:
+- palpability
+- parochiality
+- penetrability
+- perceptibility
+- perdurability
+- peripherality
+- polytonality
+- potability
+- pregnability
+- prehensility
+- presentability
+- primordiality
+- proverbiality
+- provinciality
+- provisionality
+- puerility

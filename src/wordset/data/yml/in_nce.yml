@@ -1,0 +1,63 @@
+---
+pattern: in_nce
+hi_scored_words_count: 28
+scored_words_count: 8
+total_words: 53
+score: 2147547
+score_per_word: 59654
+hi_scored_words:
+  incidence: 13681
+  incoherence: 80774
+  incompetence: 26896
+  incontinence: 30994
+  inconvenience: 10582
+  independence: 2943
+  indifference: 14371
+  indolence: 68145
+  inductance: 36225
+  indulgence: 13066
+  inexperience: 49472
+  inference: 10735
+  inflorescence: 48358
+  influence: 1442
+  inheritance: 7187
+  innocence: 8699
+  insignificance: 52492
+  insistence: 21284
+  insolence: 41980
+  instance: 1645
+  insurance: 4286
+  intelligence: 1694
+  intemperance: 84771
+  interdependence: 35923
+  interference: 6096
+  intolerance: 18110
+  intransigence: 82067
+  invariance: 40906
+scored_words:
+  inadvertence: 155799
+  incandescence: 110266
+  incongruence: 187571
+  inconsequence: 163140
+  incurrence: 185371
+  indigence: 136093
+  insouciance: 167520
+  insurgence: 226963
+not_scored_words:
+- Independence
+- inappetence
+- incessance
+- incipience
+- inelegance
+- inexpedience
+- infrequence
+- inherence
+- inobservance
+- insentience
+- insipience
+- insomnolence
+- intendance
+- interinsurance
+- intermittence
+- intransigeance
+- intumescence

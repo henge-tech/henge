@@ -1,0 +1,26 @@
+---
+pattern: c_nder
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 875697
+score_per_word: 87569
+hi_scored_words:
+  calender: 30863
+  childminder: 94936
+  cinder: 38322
+  colander: 69031
+  commander: 3591
+  contender: 20713
+  coriander: 29886
+  cylinder: 6898
+scored_words:
+  compounder: 274564
+  confounder: 306893
+not_scored_words:
+- Commander
+- calamander
+- chunder
+- commender
+- compander
+- cullender

@@ -1,0 +1,38 @@
+---
+pattern: ex_ry
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 28
+score: 1183652
+score_per_word: 73978
+hi_scored_words:
+  exclusionary: 53669
+  excretory: 71953
+  exculpatory: 87362
+  exemplary: 15091
+  expeditionary: 38407
+  expiratory: 65928
+  expiry: 23573
+  explanatory: 10675
+  exploratory: 21894
+  expository: 42236
+  extraordinary: 3582
+scored_words:
+  exclamatory: 248359
+  executory: 112581
+  expansionary: 102420
+  expiatory: 121863
+  extrasensory: 164059
+not_scored_words:
+- exaggeratory
+- excommunicatory
+- excusatory
+- execratory
+- exhortatory
+- explicatory
+- expostulatory
+- expurgatory
+- extemporary
+- extenuatory
+- exterminatory
+- extortionary

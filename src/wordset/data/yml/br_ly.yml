@@ -1,0 +1,38 @@
+---
+pattern: br_ly
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 28
+score: 1490190
+score_per_word: 87658
+hi_scored_words:
+  bravely: 23894
+  brazenly: 96844
+  breathlessly: 70603
+  breathtakingly: 85321
+  briefly: 5105
+  brightly: 15156
+  brilliantly: 19957
+  briskly: 39598
+  bristly: 95963
+  broadly: 11984
+  brotherly: 37909
+  brutally: 24747
+scored_words:
+  brambly: 242881
+  breezily: 213110
+  brokenly: 235584
+  brolly: 116131
+  brusquely: 155403
+not_scored_words:
+- Bradly
+- brachycephaly
+- bracingly
+- brainlessly
+- brashly
+- brassily
+- brittlely
+- brokenheartedly
+- broodily
+- broodingly
+- brutishly

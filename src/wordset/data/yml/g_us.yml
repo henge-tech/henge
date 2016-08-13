@@ -1,0 +1,79 @@
+---
+pattern: g_us
+hi_scored_words_count: 20
+scored_words_count: 10
+total_words: 69
+score: 2283125
+score_per_word: 76104
+hi_scored_words:
+  gaseous: 24634
+  gelatinous: 68970
+  generous: 4927
+  genius: 4037
+  genus: 6503
+  gibbous: 88024
+  glabrous: 64131
+  gladiolus: 95574
+  glamorous: 20228
+  glaucous: 89169
+  glorious: 6240
+  glutinous: 90549
+  gnus: 86608
+  gorgeous: 4875
+  gracious: 11440
+  gratuitous: 29598
+  gregarious: 49077
+  grievous: 26167
+  gurus: 25919
+  gyrus: 55154
+scored_words:
+  gangrenous: 189110
+  garrulous: 101293
+  gastrocnemius: 137744
+  geosynchronous: 103963
+  ginormous: 148075
+  glomerulus: 110445
+  gluteus: 126007
+  gluttonous: 116532
+  gradus: 204210
+  grampus: 193922
+not_scored_words:
+- Gaius
+- Gambrinus
+- Gigantopithecus
+- Glarus
+- Gracchus
+- Granicus
+- Gropius
+- Grotius
+- Grus
+- Guarnerius
+- Gus
+- Gustavus
+- gallinaceous
+- gallous
+- gamopetalous
+- gamophyllous
+- gamosepalous
+- gateaus
+- gemmiparous
+- gentianaceous
+- geophilous
+- geraniaceous
+- germanous
+- ginglymus
+- glandulous
+- globuliferous
+- globulous
+- glutenous
+- goitrous
+- gonococcus
+- gramineous
+- graminivorous
+- granivorous
+- griseous
+- grugrus
+- grumous
+- gummous
+- gymnospermous
+- gynandrous

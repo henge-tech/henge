@@ -1,0 +1,47 @@
+---
+pattern: da_ing
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 37
+score: 1576405
+score_per_word: 63056
+hi_scored_words:
+  dabbling: 71285
+  dairying: 86776
+  damaging: 13155
+  damning: 41391
+  dampening: 58516
+  damping: 24535
+  dancing: 3012
+  dangling: 19509
+  daring: 10709
+  darkening: 41411
+  darling: 6907
+  darting: 54577
+  dashing: 25034
+  dating: 4836
+  daunting: 19376
+  dawning: 34695
+  daydreaming: 55455
+  dazzling: 14384
+scored_words:
+  dabbing: 178397
+  dallying: 179430
+  damming: 102096
+  darkling: 104265
+  darning: 109724
+  dawdling: 171748
+  dayspring: 145182
+not_scored_words:
+- Darjeeling
+- Darling
+- daguerreotyping
+- damascening
+- damasking
+- dandifying
+- dandling
+- danging
+- dappling
+- datelining
+- daubing
+- dazing

@@ -1,0 +1,30 @@
+---
+pattern: s_lled
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 20
+score: 1348930
+score_per_word: 89928
+hi_scored_words:
+  scrolled: 52413
+  shelled: 38818
+  skilled: 5720
+  smelled: 25256
+  spelled: 15423
+  spilled: 21453
+  stalled: 28833
+  stilled: 69784
+  strolled: 45123
+  swelled: 32225
+scored_words:
+  shrilled: 139236
+  snowballed: 159982
+  steamrolled: 230966
+  stonewalled: 180641
+  surveilled: 303057
+not_scored_words:
+- sculled
+- semiskilled
+- shilled
+- squalled
+- swilled

@@ -1,0 +1,26 @@
+---
+pattern: nest_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 827807
+score_per_word: 75255
+hi_scored_words:
+  nest: 5566
+  nested: 19620
+  nesting: 19624
+  nestle: 24720
+  nestled: 24367
+  nestles: 95433
+  nestling: 57907
+  nests: 23490
+scored_words:
+  nestable: 246118
+  nestler: 209758
+  nestlings: 101204
+not_scored_words:
+- Nestle
+- Nestor
+- Nestorian
+- Nestorius
+- Nestors

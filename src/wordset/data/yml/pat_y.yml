@@ -1,0 +1,38 @@
+---
+pattern: pat_y
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 28
+score: 1139090
+score_per_word: 67005
+hi_scored_words:
+  patchy: 29554
+  patency: 84834
+  patentability: 85788
+  patently: 46168
+  paternity: 24990
+  pathetically: 66960
+  pathogenicity: 57976
+  pathologically: 96962
+  pathology: 13328
+  pathway: 8726
+  patiently: 16355
+  patriarchy: 39870
+  patrimony: 53187
+  patsy: 22304
+  patty: 11354
+scored_words:
+  paternally: 230523
+  patriotically: 250211
+not_scored_words:
+- Patsy
+- Patty
+- patchily
+- paternalistically
+- pathognomy
+- patly
+- patriliny
+- patrology
+- patronizingly
+- patronymically
+- patulously

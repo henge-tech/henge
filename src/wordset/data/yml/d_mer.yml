@@ -1,0 +1,23 @@
+---
+pattern: d_mer
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 371846
+score_per_word: 41316
+hi_scored_words:
+  defamer: 53094
+  dimer: 44411
+  dimmer: 35415
+  disclaimer: 3967
+  dormer: 45534
+  dreamer: 17034
+  drummer: 13286
+  dulcimer: 42109
+scored_words:
+  daydreamer: 116996
+not_scored_words:
+- Delmer
+- declaimer
+- deprogrammer
+- downcomer

@@ -1,0 +1,54 @@
+---
+pattern: unde_ing
+hi_scored_words_count: 15
+scored_words_count: 12
+total_words: 44
+score: 3158362
+score_per_word: 116976
+hi_scored_words:
+  undercutting: 77922
+  underestimating: 65261
+  undergoing: 13219
+  underling: 96930
+  underlining: 46724
+  underlying: 5877
+  undermining: 27038
+  underpinning: 36162
+  underscoring: 80793
+  understanding: 1198
+  undertaking: 7598
+  underwhelming: 92655
+  underwriting: 25248
+  undeserving: 71640
+  undeviating: 84952
+scored_words:
+  undemanding: 131638
+  underachieving: 109627
+  underclothing: 255103
+  undercoating: 187472
+  underfunding: 111008
+  undergirding: 280957
+  underpricing: 184650
+  underselling: 291900
+  underspending: 337386
+  understating: 164509
+  undervaluing: 224355
+  underwing: 146540
+not_scored_words:
+- undeceiving
+- underacting
+- underbidding
+- undercharging
+- underdressing
+- underexposing
+- underfeeding
+- underpainting
+- underpaying
+- underplaying
+- underquoting
+- underrating
+- undershooting
+- undersigning
+- understudying
+- underusing
+- undesigning

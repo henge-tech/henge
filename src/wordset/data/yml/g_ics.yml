@@ -1,0 +1,31 @@
+---
+pattern: g_ics
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 21
+score: 544346
+score_per_word: 49486
+hi_scored_words:
+  generics: 41109
+  genetics: 8847
+  genomics: 23137
+  geophysics: 26800
+  geopolitics: 51572
+  geriatrics: 38632
+  gnostics: 89638
+  graphics: 5610
+  gymnastics: 15546
+scored_words:
+  geodesics: 103035
+  geodynamics: 140420
+not_scored_words:
+- Georgics
+- Gothics
+- geoponics
+- geostatics
+- glossematics
+- glyptics
+- gnotobiotics
+- graphemics
+- gyniatrics
+- gyrostatics

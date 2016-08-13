@@ -1,0 +1,51 @@
+---
+pattern: psyc_s
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 41
+score: 2316072
+score_per_word: 105276
+hi_scored_words:
+  psychedelics: 81513
+  psychiatrists: 24324
+  psychics: 36633
+  psychoanalysis: 25811
+  psycholinguistics: 92906
+  psychologists: 20196
+  psychopaths: 78425
+  psychophysics: 93005
+  psychos: 77564
+  psychoses: 84627
+  psychosis: 27255
+  psychotherapists: 66889
+scored_words:
+  psyches: 123049
+  psychoanalysts: 118670
+  psychodynamics: 204342
+  psychokinesis: 187912
+  psychologies: 153306
+  psychometrics: 110591
+  psychosomatics: 214956
+  psychotherapies: 156924
+  psychotics: 139990
+  psychotropics: 197184
+not_scored_words:
+- psychoanalyses
+- psychoanalyzes
+- psychodiagnosis
+- psychodiagnostics
+- psychodramas
+- psychogenesis
+- psychognosis
+- psychokineses
+- psycholinguists
+- psychometries
+- psychoneuroses
+- psychoneurosis
+- psychoneurotics
+- psychopathologies
+- psychopharmacologies
+- psychophysiologies
+- psychotechnics
+- psychrometers
+- psychs

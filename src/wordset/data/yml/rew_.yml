@@ -1,0 +1,61 @@
+---
+pattern: rew_
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 51
+score: 2197504
+score_per_word: 84519
+hi_scored_words:
+  reward: 4057
+  rewarded: 10945
+  rewarding: 14351
+  rewards: 11724
+  rewind: 22546
+  rewinding: 76036
+  rewire: 81684
+  rewiring: 86482
+  rework: 32920
+  reworked: 36323
+  reworking: 47881
+  rewound: 99579
+  rewrite: 21280
+  rewrites: 56548
+  rewriting: 23708
+  rewritten: 20438
+  rewrote: 44966
+scored_words:
+  rewarming: 234294
+  reweigh: 280723
+  rewinds: 119266
+  rewired: 105498
+  reword: 119176
+  reworded: 112561
+  rewording: 138858
+  reworkings: 248955
+  reworks: 146705
+not_scored_words:
+- rewaken
+- rewarm
+- rewarmed
+- rewarms
+- rewash
+- rewashed
+- rewashes
+- rewashing
+- reweave
+- reweaves
+- reweaving
+- rewed
+- rewedded
+- rewedding
+- reweds
+- reweighed
+- reweighing
+- reweighs
+- rewindable
+- rewires
+- rewords
+- rewove
+- rewoven
+- rewrap
+- rewrought

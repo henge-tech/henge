@@ -1,0 +1,32 @@
+---
+pattern: t_ve
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1212554
+score_per_word: 80836
+hi_scored_words:
+  talkative: 35414
+  tentative: 13606
+  they've: 4755
+  thrive: 13501
+  transgressive: 83291
+  transitive: 32258
+  trave: 81116
+  trove: 39906
+  turtledove: 94528
+  twelve: 2871
+scored_words:
+  tensive: 212341
+  thieve: 224135
+  tractive: 133672
+  transmissive: 135491
+  truelove: 105669
+not_scored_words:
+- Tamatave
+- Tananarive
+- terminative
+- thrave
+- transcriptive
+- translative
+- transmutative

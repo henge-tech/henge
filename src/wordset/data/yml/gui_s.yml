@@ -1,0 +1,32 @@
+---
+pattern: gui_s
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1205337
+score_per_word: 80355
+hi_scored_words:
+  guidebooks: 37523
+  guidelines: 7961
+  guides: 3346
+  guilders: 47824
+  guilds: 24533
+  guiltless: 94022
+  guineas: 46071
+  guises: 71481
+  guitarists: 34250
+  guitars: 14583
+scored_words:
+  guideposts: 106535
+  guiders: 291203
+  guileless: 129203
+  guillemots: 148549
+  guillotines: 148253
+not_scored_words:
+- Guineans
+- Guinness
+- guildhalls
+- guilelessness
+- guilloches
+- guiltiness
+- guimpes

@@ -1,0 +1,51 @@
+---
+pattern: impe_s
+hi_scored_words_count: 11
+scored_words_count: 12
+total_words: 41
+score: 2809812
+score_per_word: 122165
+hi_scored_words:
+  impedes: 66159
+  impediments: 35342
+  imperatives: 40608
+  imperfections: 26863
+  imperialists: 59322
+  imperials: 81986
+  imperious: 53356
+  impersonators: 63406
+  impervious: 28428
+  impetuous: 49594
+  impetus: 19086
+scored_words:
+  impeachments: 256003
+  impecunious: 169841
+  impellers: 126666
+  impels: 130325
+  imperfects: 142441
+  imperils: 262628
+  imperiousness: 229462
+  impersonates: 175328
+  impersonations: 132800
+  impertinences: 226178
+  imperviousness: 250663
+  impetuousness: 183327
+not_scored_words:
+- impeachers
+- impeaches
+- impecuniousness
+- impends
+- impenetrableness
+- impenetrablenesses
+- imperativeness
+- imperativenesses
+- imperceptiveness
+- imperfectives
+- imperfectness
+- imperialness
+- imperishabilities
+- impermanencies
+- impermissibilities
+- impers
+- imperviousnesses
+- impetuses

@@ -1,0 +1,45 @@
+---
+pattern: be_ts
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 35
+score: 2161698
+score_per_word: 102938
+hi_scored_words:
+  bearcats: 46274
+  beasts: 9878
+  beats: 14080
+  beets: 38022
+  befits: 78575
+  begets: 66772
+  belligerents: 98465
+  belts: 9553
+  benefits: 1557
+  bequests: 50992
+  berets: 65604
+  bests: 54243
+  bets: 12877
+scored_words:
+  bedsheets: 113212
+  bedsits: 261169
+  behaviorists: 170154
+  behests: 159604
+  benedicts: 232118
+  bennets: 295434
+  bents: 139710
+  besets: 243405
+not_scored_words:
+- beanfeasts
+- beansprouts
+- beauts
+- bedights
+- bedposts
+- beechnuts
+- beermats
+- beetroots
+- belletrists
+- bellworts
+- bereavements
+- bergamots
+- besots
+- bezants

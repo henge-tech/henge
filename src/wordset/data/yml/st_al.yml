@@ -1,0 +1,24 @@
+---
+pattern: st_al
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 900157
+score_per_word: 81832
+hi_scored_words:
+  staphylococcal: 66291
+  statistical: 7175
+  steal: 4893
+  stereotypical: 34676
+  steroidal: 66166
+  stomatal: 97713
+  streptococcal: 59796
+  structural: 6817
+scored_words:
+  stoical: 151519
+  strategical: 132134
+  stratigraphical: 272977
+not_scored_words:
+- Stendhal
+- statical
+- strabismal

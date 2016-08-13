@@ -1,0 +1,23 @@
+---
+pattern: ins_nt
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 646631
+score_per_word: 58784
+hi_scored_words:
+  insignificant: 12705
+  insistent: 41399
+  insolent: 41236
+  insolvent: 35884
+  installment: 19423
+  instant: 1899
+  instrument: 2565
+  insufficient: 7866
+  insurgent: 28297
+scored_words:
+  insouciant: 208479
+  instatement: 246878
+not_scored_words:
+- insentient
+- instillment

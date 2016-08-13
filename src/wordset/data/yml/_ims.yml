@@ -1,0 +1,48 @@
+---
+pattern: _ims
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 38
+score: 2276268
+score_per_word: 84306
+hi_scored_words:
+  aims: 4794
+  claims: 1712
+  dims: 69631
+  disclaims: 37386
+  exclaims: 53035
+  maxims: 42347
+  pilgrims: 16717
+  prelims: 47573
+  proclaims: 36621
+  rims: 20899
+  shims: 74175
+  sims: 14905
+  slims: 70137
+  swims: 33356
+  trims: 31502
+  victims: 3257
+  whims: 39833
+scored_words:
+  acclaims: 129292
+  brims: 114579
+  counterclaims: 119246
+  denims: 135740
+  hims: 221067
+  maims: 301993
+  minims: 246122
+  reclaims: 101766
+  scrims: 170608
+  skims: 137975
+not_scored_words:
+- Muslims
+- Pilgrims
+- Purims
+- Reims
+- Rheims
+- Sims
+- bedims
+- declaims
+- megrims
+- paynims
+- quitclaims

@@ -1,0 +1,32 @@
+---
+pattern: disl_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 22
+score: 1002586
+score_per_word: 71613
+hi_scored_words:
+  dislike: 9425
+  disliked: 27681
+  dislikes: 27320
+  disliking: 88490
+  dislocated: 39701
+  dislocation: 29130
+  dislocations: 46104
+  dislodge: 50876
+  dislodged: 63594
+  disloyal: 66995
+  disloyalty: 77000
+scored_words:
+  dislocate: 131026
+  dislocating: 199333
+  dislodging: 145911
+not_scored_words:
+- dislimn
+- dislocates
+- dislodgement
+- dislodgements
+- dislodges
+- dislodgment
+- dislodgments
+- disloyally

@@ -1,0 +1,55 @@
+---
+pattern: he_ic
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 45
+score: 1836551
+score_per_word: 83479
+hi_scored_words:
+  hectic: 24112
+  hedonic: 63793
+  hedonistic: 60398
+  hegemonic: 59717
+  heliocentric: 74395
+  hematologic: 55884
+  hemispheric: 53830
+  hemorrhagic: 41020
+  hepatic: 19696
+  heraldic: 43228
+  heretic: 25996
+  hermeneutic: 80351
+  hermetic: 46089
+  heroic: 10126
+  heterocyclic: 75993
+  heuristic: 26100
+scored_words:
+  hemic: 322048
+  hemostatic: 122347
+  hermaphroditic: 154522
+  herpetic: 129903
+  heterochromatic: 245707
+  heterotrophic: 101296
+not_scored_words:
+- Hebraic
+- Hebraistic
+- Helladic
+- Hellenic
+- Hellenistic
+- Helvetic
+- Hermetic
+- hebetic
+- helminthic
+- hematic
+- hematinic
+- hemimorphic
+- hemophilic
+- herdic
+- hermitic
+- herpetologic
+- heteroclitic
+- heterogenetic
+- heteromorphic
+- heteronymic
+- heterothallic
+- heterotypic
+- hexametric

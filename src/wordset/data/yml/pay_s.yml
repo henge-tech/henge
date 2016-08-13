@@ -1,0 +1,27 @@
+---
+pattern: pay_s
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 17
+score: 1259332
+score_per_word: 89952
+hi_scored_words:
+  paychecks: 40861
+  payers: 24775
+  payloads: 50005
+  payments: 2303
+  payoffs: 43377
+  payouts: 24288
+  payphones: 96897
+  payrolls: 58124
+  pays: 4501
+scored_words:
+  paybacks: 138234
+  paydays: 165995
+  payees: 145188
+  paymasters: 244431
+  payslips: 220353
+not_scored_words:
+- paymistress
+- paynims
+- paywalls

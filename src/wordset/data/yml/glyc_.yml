@@ -1,0 +1,35 @@
+---
+pattern: glyc_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 25
+score: 1390043
+score_per_word: 86877
+hi_scored_words:
+  glycerin: 37954
+  glycerine: 49888
+  glycerol: 33037
+  glycine: 32817
+  glycogen: 31333
+  glycol: 29340
+  glycolysis: 69034
+  glycoprotein: 32356
+  glycoproteins: 44003
+  glycosides: 76352
+scored_words:
+  glyceride: 170875
+  glycerides: 187124
+  glyceryl: 119814
+  glycines: 262049
+  glycols: 113105
+  glycoside: 100962
+not_scored_words:
+- glyceric
+- glycerinate
+- glycerite
+- glyceryls
+- glycogenesis
+- glycogenic
+- glycolyses
+- glyconeogenesis
+- glycosuria

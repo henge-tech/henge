@@ -1,0 +1,24 @@
+---
+pattern: _trum
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 14
+score: 825259
+score_per_word: 68771
+hi_scored_words:
+  centrum: 33619
+  colostrum: 56000
+  ngultrum: 53409
+  nostrum: 68211
+  rostrum: 77349
+  spectrum: 7498
+  strum: 51360
+  tantrum: 40121
+scored_words:
+  antrum: 102580
+  electrum: 107638
+  lustrum: 107177
+  plectrum: 120297
+not_scored_words:
+- chetrum
+- estrum

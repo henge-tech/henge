@@ -1,0 +1,24 @@
+---
+pattern: _hase
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 798834
+score_per_word: 72621
+hi_scored_words:
+  anaphase: 98383
+  chase: 3802
+  interphase: 62232
+  metaphase: 80860
+  multiphase: 79135
+  phase: 2797
+  purchase: 1463
+  repurchase: 36901
+  steeplechase: 44149
+scored_words:
+  prophase: 142906
+  telophase: 246206
+not_scored_words:
+- Chase
+- diphase
+- enchase

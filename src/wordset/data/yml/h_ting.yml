@@ -1,0 +1,48 @@
+---
+pattern: h_ting
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 38
+score: 1932331
+score_per_word: 74320
+hi_scored_words:
+  hallucinating: 83127
+  halting: 33202
+  handwriting: 14743
+  harvesting: 17456
+  hating: 18352
+  haunting: 17737
+  heating: 5538
+  hesitating: 55583
+  hibernating: 85666
+  highlighting: 13251
+  hinting: 36837
+  hitting: 7626
+  hoisting: 51429
+  hooting: 90081
+  hosting: 6535
+  humiliating: 22127
+  hunting: 2634
+  hurting: 13744
+  hydrating: 51084
+scored_words:
+  haircutting: 183375
+  handcrafting: 289949
+  handfasting: 228613
+  hasting: 134305
+  headhunting: 146884
+  hotting: 181375
+  hyperventilating: 141078
+not_scored_words:
+- habilitating
+- habituating
+- hairsplitting
+- hatting
+- headbutting
+- hefting
+- heisting
+- herniating
+- hotfooting
+- hydrogenating
+- hyphenating
+- hypothecating

@@ -1,0 +1,55 @@
+---
+pattern: inex_
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 45
+score: 2253579
+score_per_word: 107313
+hi_scored_words:
+  inexact: 73269
+  inexcusable: 55819
+  inexhaustible: 41200
+  inexorable: 46565
+  inexorably: 49951
+  inexpensive: 12612
+  inexpensively: 54633
+  inexperience: 49472
+  inexperienced: 18694
+  inexplicable: 28582
+  inexplicably: 50906
+  inexpressible: 86424
+  inextricable: 95669
+  inextricably: 45148
+scored_words:
+  inexcusably: 244805
+  inexistent: 280515
+  inexpedient: 160927
+  inexpert: 263320
+  inexpressibly: 184280
+  inexpressive: 167009
+  inextinguishable: 243779
+not_scored_words:
+- inexactitude
+- inexactitudes
+- inexactly
+- inexactness
+- inexecution
+- inexertion
+- inexhaustibility
+- inexhaustibleness
+- inexhaustibly
+- inexorabilities
+- inexorability
+- inexpedience
+- inexpediency
+- inexpensiveness
+- inexpertly
+- inexpiable
+- inexplicability
+- inexplicit
+- inexpressibility
+- inexpugnable
+- inexpungible
+- inextensible
+- inextirpable
+- inextricability

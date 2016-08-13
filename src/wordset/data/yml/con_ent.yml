@@ -1,0 +1,42 @@
+---
+pattern: con_ent
+hi_scored_words_count: 21
+scored_words_count: 3
+total_words: 32
+score: 1040230
+score_per_word: 43342
+hi_scored_words:
+  concealment: 26701
+  concurrent: 13896
+  condiment: 47095
+  confident: 4545
+  confinement: 13703
+  confluent: 72067
+  congruent: 38446
+  consent: 2476
+  consequent: 17477
+  consignment: 28904
+  consistent: 3350
+  constituent: 13104
+  containment: 18044
+  content: 657
+  contentment: 27654
+  continent: 5993
+  contingent: 10915
+  convalescent: 31902
+  convenient: 3718
+  convent: 16073
+  convergent: 32665
+scored_words:
+  concent: 245004
+  concernment: 184773
+  conferment: 181068
+not_scored_words:
+- Continent
+- concrescent
+- concupiscent
+- condolent
+- congealment
+- connivent
+- consentient
+- constringent

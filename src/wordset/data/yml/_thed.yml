@@ -1,0 +1,48 @@
+---
+pattern: _thed
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 38
+score: 2096178
+score_per_word: 87340
+hi_scored_words:
+  bathed: 31923
+  bequeathed: 46933
+  betrothed: 54047
+  birthed: 73934
+  breathed: 19038
+  clothed: 17600
+  loathed: 66407
+  mouthed: 41559
+  sheathed: 63708
+  smoothed: 28370
+  soothed: 46443
+  toothed: 39344
+  unearthed: 34838
+  unscathed: 42671
+  writhed: 88584
+scored_words:
+  berthed: 107018
+  earthed: 106160
+  frothed: 274373
+  loudmouthed: 288501
+  seethed: 120825
+  swathed: 104483
+  unclothed: 115055
+  unsheathed: 174542
+  wreathed: 109822
+not_scored_words:
+- badmouthed
+- bucktoothed
+- closemouthed
+- foulmouthed
+- lathed
+- mealymouthed
+- scathed
+- scythed
+- sunbathed
+- teethed
+- tithed
+- unbreathed
+- widemouthed
+- withed

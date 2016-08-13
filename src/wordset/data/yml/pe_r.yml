@@ -1,0 +1,75 @@
+---
+pattern: pe_r
+hi_scored_words_count: 25
+scored_words_count: 11
+total_words: 65
+score: 2924380
+score_per_word: 81232
+hi_scored_words:
+  peacekeeper: 70710
+  peacemaker: 41739
+  pear: 11648
+  pecker: 42302
+  peculiar: 7516
+  peddler: 43696
+  pedometer: 52627
+  peeler: 46741
+  peeper: 86859
+  peer: 6469
+  peninsular: 36521
+  pensioner: 36842
+  pepper: 4865
+  per: 316
+  perambulator: 81091
+  percolator: 83239
+  performer: 10008
+  perimeter: 14707
+  perpendicular: 14730
+  perpetrator: 30139
+  pester: 62842
+  peter: 929
+  petitioner: 17236
+  petter: 46681
+  pewter: 16926
+scored_words:
+  peignoir: 219424
+  penholder: 327055
+  pentameter: 109067
+  perfecter: 220333
+  perforator: 187195
+  perfumer: 103249
+  perisher: 197021
+  persecutor: 121689
+  persuader: 110352
+  peruser: 205806
+  petrodollar: 255810
+not_scored_words:
+- Pelletier
+- Perrier
+- Peshawar
+- Peter
+- peachier
+- pearlier
+- peashooter
+- peatier
+- peculator
+- pedalfer
+- pedicular
+- peduncular
+- pendular
+- pentangular
+- peppier
+- peregrinator
+- perjurer
+- perkier
+- permitter
+- perpetuator
+- personifier
+- perter
+- perverter
+- peskier
+- pesterer
+- petrographer
+- pettier
+- pettifogger
+- pewterer

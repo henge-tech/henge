@@ -1,0 +1,30 @@
+---
+pattern: f_res
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 20
+score: 814167
+score_per_word: 54277
+hi_scored_words:
+  failures: 7249
+  fares: 11942
+  features: 736
+  figures: 1674
+  fires: 5047
+  fissures: 46369
+  fixtures: 13537
+  flares: 28660
+  foreclosures: 25815
+  forfeitures: 80259
+  fractures: 21582
+  futures: 13919
+scored_words:
+  fanfares: 168191
+  fores: 108191
+  foreshores: 280996
+not_scored_words:
+- Flores
+- fieldfares
+- filatures
+- flexures
+- floricultures

@@ -1,0 +1,56 @@
+---
+pattern: ne_es
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 46
+score: 2214164
+score_per_word: 82006
+hi_scored_words:
+  necessaries: 68367
+  necessitates: 42414
+  necessities: 14054
+  necklaces: 16641
+  neckties: 60741
+  needles: 11026
+  negates: 59856
+  negatives: 22041
+  negotiates: 54794
+  nematodes: 46094
+  neoconservatives: 90225
+  neonates: 53032
+  nerves: 8191
+  nestles: 95433
+  nettles: 49329
+  neurosciences: 57348
+  neuroses: 83111
+  neutralizes: 89150
+  newbies: 22207
+  newlines: 95310
+scored_words:
+  necklines: 187738
+  nectarines: 102177
+  nemeses: 269537
+  neophytes: 108108
+  nesses: 105229
+  newsflashes: 183485
+  newsweeklies: 218526
+not_scored_words:
+- NeWSes
+- Negresses
+- Negroes
+- neckpieces
+- necropolises
+- necropsies
+- necroses
+- negligees
+- neguses
+- neologies
+- nephoscopes
+- nephrectomies
+- nephritides
+- nesciences
+- netiquettes
+- neuritides
+- neurophysiologies
+- neuropsychiatries
+- nexuses

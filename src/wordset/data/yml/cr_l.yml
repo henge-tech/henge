@@ -1,0 +1,36 @@
+---
+pattern: cr_l
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 26
+score: 787392
+score_per_word: 49212
+hi_scored_words:
+  cranial: 32209
+  craniofacial: 58879
+  crawl: 9984
+  credential: 29701
+  creel: 52897
+  criminal: 1984
+  critical: 1579
+  crucial: 7906
+  cruel: 5696
+  crural: 83021
+  crustal: 47732
+  crystal: 3194
+scored_words:
+  cresol: 104322
+  crewel: 107196
+  criminological: 123485
+  crossbill: 117607
+not_scored_words:
+- Cranwell
+- Cromwell
+- Crystal
+- craal
+- cracknel
+- creatural
+- crenel
+- creosol
+- criterial
+- cryptanalytical

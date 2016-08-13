@@ -1,0 +1,33 @@
+---
+pattern: trac_s
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 23
+score: 1055629
+score_per_word: 87969
+hi_scored_words:
+  tracers: 52873
+  traces: 7526
+  tracings: 99477
+  trackers: 33530
+  trackless: 93006
+  tracks: 3070
+  tracksuits: 72653
+  tractors: 16934
+  tracts: 16467
+scored_words:
+  traceless: 261005
+  trackballs: 125725
+  trackways: 273363
+not_scored_words:
+- Tractarianisms
+- traceries
+- tracheids
+- tracheitis
+- tracheitises
+- tracheostomies
+- tracheotomies
+- trachomas
+- trackings
+- tractableness
+- tractablenesses

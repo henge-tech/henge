@@ -1,0 +1,53 @@
+---
+pattern: _ytes
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 43
+score: 2660897
+score_per_word: 106435
+hi_scored_words:
+  acolytes: 80631
+  bytes: 9181
+  electrolytes: 37756
+  erythrocytes: 40206
+  gigabytes: 48035
+  granulocytes: 84533
+  hepatocytes: 50958
+  kilobytes: 62144
+  leukocytes: 42465
+  lymphocytes: 19730
+  megabytes: 36039
+  monocytes: 46195
+  oocytes: 47541
+  terabytes: 65130
+  troglodytes: 68939
+scored_words:
+  bryophytes: 122684
+  epiphytes: 148582
+  exabytes: 292095
+  gametophytes: 289526
+  histiocytes: 234360
+  neophytes: 108108
+  petabytes: 232619
+  phagocytes: 103598
+  proselytes: 193530
+  spermatocytes: 196312
+not_scored_words:
+- aerophytes
+- autophytes
+- barytes
+- choanocytes
+- gametocytes
+- geophytes
+- halophytes
+- hydrophytes
+- lithophytes
+- microcytes
+- pteridophytes
+- saprophytes
+- spermatophytes
+- sporophytes
+- thallophytes
+- thrombocytes
+- xerophytes
+- zoophytes

@@ -1,0 +1,36 @@
+---
+pattern: _rit
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 26
+score: 926499
+score_per_word: 57906
+hi_scored_words:
+  brit: 17334
+  crit: 30163
+  culprit: 22312
+  demerit: 73769
+  esprit: 20788
+  frit: 97886
+  grit: 18878
+  inherit: 14434
+  merit: 4949
+  rit: 35807
+  spirit: 1087
+  writ: 12504
+scored_words:
+  bowsprit: 119059
+  disinherit: 186685
+  inspirit: 169684
+  sprit: 101160
+not_scored_words:
+- Brit
+- Nayarit
+- Prakrit
+- Sanskrit
+- Spirit
+- afrit
+- attrit
+- barit
+- dispirit
+- preterit

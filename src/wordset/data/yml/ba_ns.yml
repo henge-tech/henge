@@ -1,0 +1,48 @@
+---
+pattern: ba_ns
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 38
+score: 1245864
+score_per_word: 69214
+hi_scored_words:
+  baboons: 60743
+  balloons: 13129
+  banns: 64038
+  bans: 16600
+  barbarians: 28081
+  bargains: 11526
+  barns: 21868
+  barons: 27374
+  barrens: 70370
+  baryons: 99134
+  basins: 18969
+  bastions: 76254
+  batons: 54465
+  battalions: 30560
+scored_words:
+  bairns: 144480
+  bandwagons: 275329
+  bassoons: 127713
+  battens: 105231
+not_scored_words:
+- Babylonians
+- Babylons
+- Bahamians
+- Baldwins
+- Balkans
+- Barbadians
+- bacchanalians
+- bacitracins
+- balbriggans
+- baldachins
+- ballgowns
+- banians
+- banyans
+- barbarizations
+- barbicans
+- barleycorns
+- bastardizations
+- batrachians
+- battlewagons
+- bazillions

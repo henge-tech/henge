@@ -1,0 +1,56 @@
+---
+pattern: _nest
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 46
+score: 1682472
+score_per_word: 88551
+hi_scored_words:
+  cleanest: 48313
+  commonest: 51803
+  dishonest: 18395
+  earnest: 9816
+  finest: 4105
+  greenest: 94435
+  honest: 2653
+  keenest: 91247
+  meanest: 48180
+  nest: 5566
+  soonest: 27081
+  thinnest: 62011
+scored_words:
+  divinest: 164156
+  funnest: 136605
+  leanest: 201268
+  oftenest: 107511
+  plainest: 133289
+  sanest: 261284
+  sternest: 214754
+not_scored_words:
+- Earnest
+- Ernest
+- barrenest
+- brownest
+- doggonest
+- dunnest
+- evenest
+- fainest
+- funest
+- goldenest
+- humanest
+- inanest
+- insanest
+- obscenest
+- openest
+- rottenest
+- serenest
+- solemnest
+- stubbornest
+- sullenest
+- tannest
+- uncleanest
+- uncommonest
+- urbanest
+- vainest
+- wannest
+- woodenest

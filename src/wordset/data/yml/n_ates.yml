@@ -1,0 +1,29 @@
+---
+pattern: n_ates
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 19
+score: 627107
+score_per_word: 62710
+hi_scored_words:
+  nameplates: 79027
+  narrates: 57919
+  nates: 79934
+  navigates: 88399
+  necessitates: 42414
+  negates: 59856
+  negotiates: 54794
+  neonates: 53032
+  nitrates: 40189
+  nominates: 71543
+scored_words: {}
+not_scored_words:
+- nauseates
+- nictates
+- nictitates
+- noncandidates
+- notates
+- noviciates
+- novitiates
+- nucleates
+- numerates

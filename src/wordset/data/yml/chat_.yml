@@ -1,0 +1,48 @@
+---
+pattern: chat_
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 38
+score: 1448446
+score_per_word: 72422
+hi_scored_words:
+  chat: 5821
+  chateau: 12466
+  chateaux: 62553
+  chatelaine: 86944
+  chatroom: 33416
+  chats: 19028
+  chatted: 33366
+  chattel: 50563
+  chattels: 68775
+  chatter: 13269
+  chatterbox: 36240
+  chattering: 39850
+  chatters: 61270
+  chatting: 13473
+  chatty: 43220
+scored_words:
+  chateaus: 227962
+  chatelain: 149530
+  chatline: 142104
+  chatlines: 233977
+  chattered: 114619
+not_scored_words:
+- Chateaubriand
+- Chateaubriands
+- Chatham
+- Chattahoochee
+- Chattanooga
+- Chatterley
+- Chatterton
+- chatelaines
+- chatoyance
+- chatoyancy
+- chatoyant
+- chatterboxes
+- chatterer
+- chatterers
+- chattier
+- chattiest
+- chattily
+- chattiness

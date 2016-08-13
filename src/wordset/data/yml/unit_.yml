@@ -1,0 +1,32 @@
+---
+pattern: unit_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 22
+score: 1201575
+score_per_word: 92428
+hi_scored_words:
+  unit: 2613
+  unitary: 21947
+  unite: 8752
+  united: 183
+  unites: 27757
+  uniting: 23131
+  units: 2510
+  unity: 4390
+scored_words:
+  unitarily: 323045
+  unitedly: 248608
+  unities: 119434
+  unitive: 260961
+  unitized: 158244
+not_scored_words:
+- Unit
+- Unitarian
+- Unitarianism
+- Unitarianisms
+- Unitarians
+- Unitas
+- unitize
+- unitizes
+- unitizing

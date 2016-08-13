@@ -1,0 +1,32 @@
+---
+pattern: ra_on
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1396351
+score_per_word: 87271
+hi_scored_words:
+  raccoon: 33647
+  radiation: 6664
+  radiocarbon: 53749
+  radon: 28941
+  ramification: 92475
+  randomization: 52483
+  rapscallion: 97674
+  ratification: 15691
+  ration: 22396
+  rationalization: 38883
+  rayon: 26545
+scored_words:
+  radicalization: 158444
+  radiocommunication: 154842
+  radiolocation: 234472
+  rarefaction: 167614
+  ratiocination: 211831
+not_scored_words:
+- Ramon
+- Rangoon
+- racialization
+- racon
+- ratoon
+- rattoon

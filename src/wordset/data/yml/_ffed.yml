@@ -1,0 +1,53 @@
+---
+pattern: _ffed
+hi_scored_words_count: 16
+scored_words_count: 13
+total_words: 43
+score: 3817822
+score_per_word: 131649
+hi_scored_words:
+  buffed: 70087
+  chuffed: 86224
+  cuffed: 51550
+  handcuffed: 47586
+  miffed: 61855
+  overstuffed: 77547
+  puffed: 31311
+  rebuffed: 66900
+  ruffed: 78963
+  scoffed: 62579
+  scuffed: 82584
+  sniffed: 43790
+  snuffed: 82521
+  staffed: 19201
+  stuffed: 13006
+  understaffed: 71120
+scored_words:
+  bluffed: 204526
+  chaffed: 256254
+  coiffed: 205863
+  doffed: 225641
+  fluffed: 149675
+  huffed: 134952
+  muffed: 227548
+  offed: 210374
+  overstaffed: 290221
+  quaffed: 252075
+  riffed: 305019
+  stiffed: 133174
+  whiffed: 275676
+not_scored_words:
+- biffed
+- crossruffed
+- diffed
+- duffed
+- effed
+- faffed
+- gaffed
+- luffed
+- reffed
+- restaffed
+- sclaffed
+- seriffed
+- spiffed
+- tiffed

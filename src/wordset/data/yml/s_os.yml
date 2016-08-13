@@ -1,0 +1,57 @@
+---
+pattern: s_os
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 47
+score: 1618926
+score_per_word: 101182
+hi_scored_words:
+  scenarios: 7047
+  servos: 63956
+  shampoos: 46608
+  silos: 40202
+  solos: 25945
+  sopranos: 25162
+  stereos: 38107
+  stilettos: 77726
+  studios: 11518
+scored_words:
+  salvos: 142215
+  saros: 151235
+  shoos: 233836
+  sickos: 223561
+  siglos: 236846
+  sombreros: 168528
+  superheros: 126434
+not_scored_words:
+- SOS
+- SOs
+- Samos
+- Santos
+- Saros
+- Scorpios
+- Scyros
+- Sestos
+- Shintos
+- Siqueiros
+- Skyros
+- saguaros
+- sahuaros
+- sapsagos
+- sargassos
+- scherzos
+- schizos
+- segnos
+- semipros
+- seraglios
+- sforzandos
+- shakos
+- siroccos
+- solferinos
+- sorgos
+- speos
+- staccatos
+- stenos
+- superegos
+- supremos
+- switcheroos

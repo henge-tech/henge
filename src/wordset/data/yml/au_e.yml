@@ -1,0 +1,58 @@
+---
+pattern: au_e
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 48
+score: 1819315
+score_per_word: 69973
+hi_scored_words:
+  auberge: 47438
+  aubergine: 61412
+  audible: 15737
+  audience: 1935
+  audiophile: 43699
+  audiotape: 68622
+  augmentative: 88722
+  auntie: 21008
+  austere: 33433
+  authenticate: 27258
+  authoritative: 12613
+  authorize: 12092
+  autoclave: 60936
+  autoimmune: 24110
+  automate: 17819
+  automobile: 5795
+  automotive: 3753
+  autoroute: 65867
+scored_words:
+  aubade: 101997
+  audiocassette: 137661
+  augite: 173453
+  aureate: 279669
+  aureole: 105573
+  auricle: 107753
+  auspice: 176453
+  austenite: 124507
+not_scored_words:
+- Aube
+- Aude
+- Augustine
+- Aussie
+- Auvergne
+- audile
+- audiphone
+- auditive
+- auramine
+- auriculate
+- auriscope
+- auscultate
+- auspicate
+- autocade
+- autocue
+- automatize
+- autophyte
+- autosome
+- autotomize
+- autotype
+- autunite
+- auxochrome

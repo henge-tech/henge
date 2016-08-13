@@ -1,0 +1,32 @@
+---
+pattern: br_ds
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 22
+score: 925976
+score_per_word: 77164
+hi_scored_words:
+  brads: 67233
+  braids: 32091
+  brands: 5152
+  breads: 28830
+  breeds: 7905
+  bridesmaids: 33808
+  brigands: 97818
+  broads: 46863
+  broods: 58353
+scored_words:
+  brachiopods: 139852
+  breadboards: 264661
+  brotherhoods: 143410
+not_scored_words:
+- Broads
+- branchiopods
+- brassards
+- breastfeeds
+- briarwoods
+- brickyards
+- bridgeheads
+- brierwoods
+- broadswords
+- brookweeds

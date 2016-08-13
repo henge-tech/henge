@@ -1,0 +1,55 @@
+---
+pattern: int_ly
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 45
+score: 2062455
+score_per_word: 79325
+hi_scored_words:
+  integrally: 78106
+  intellectually: 20333
+  intelligently: 26862
+  intensely: 14953
+  intensively: 34962
+  intentionally: 12956
+  intently: 28632
+  interactively: 48832
+  interchangeably: 38598
+  interestingly: 22608
+  intermittently: 36367
+  internally: 12301
+  internationally: 10488
+  intimately: 25834
+  intravenously: 51767
+  intricately: 51780
+  intrinsically: 30851
+  intuitively: 27493
+scored_words:
+  intelligibly: 165038
+  interminably: 132735
+  interpersonally: 294387
+  interrogatively: 195990
+  intolerably: 136366
+  intramuscularly: 118939
+  intriguingly: 104866
+  intrusively: 340411
+not_scored_words:
+- intangibly
+- intemperately
+- intensionally
+- interdependently
+- interestedly
+- interjectionally
+- intermediately
+- interpretively
+- interrogatorily
+- interstitially
+- intestinally
+- intimidatingly
+- intolerantly
+- intractably
+- intransigently
+- intransitively
+- intrepidly
+- introspectively
+- intuitionally

@@ -1,0 +1,41 @@
+---
+pattern: dr_ed
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 31
+score: 1379337
+score_per_word: 55173
+hi_scored_words:
+  drafted: 13607
+  dragged: 9766
+  drained: 11836
+  dramatized: 73154
+  draped: 28625
+  dreaded: 16707
+  dreamed: 10528
+  dredged: 50910
+  drenched: 25697
+  dressed: 4150
+  dried: 5346
+  drifted: 19181
+  drilled: 15979
+  dripped: 62847
+  drizzled: 91334
+  drooped: 80608
+  dropped: 2575
+  drowned: 15803
+  drugged: 37529
+  drummed: 83292
+scored_words:
+  drawled: 115964
+  dribbled: 100687
+  droned: 162531
+  drooled: 131353
+  drowsed: 209328
+not_scored_words:
+- draggletailed
+- dragooned
+- dratted
+- driveled
+- drubbed
+- drudged

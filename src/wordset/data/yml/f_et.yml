@@ -1,0 +1,40 @@
+---
+pattern: f_et
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 30
+score: 1827058
+score_per_word: 96160
+hi_scored_words:
+  facet: 22213
+  faucet: 26726
+  feet: 685
+  ferret: 21360
+  fidget: 72902
+  filet: 35518
+  fillet: 26093
+  fishnet: 38634
+  fleet: 3391
+  forget: 1444
+  fret: 19484
+scored_words:
+  ferromagnet: 212760
+  flageolet: 227020
+  flibbertigibbet: 159874
+  floret: 136550
+  flysheet: 241141
+  forefeet: 154439
+  freshet: 189525
+  frisket: 237299
+not_scored_words:
+- Foucquet
+- Fouquet
+- falconet
+- fanjet
+- flasket
+- flatfeet
+- flatlet
+- floweret
+- foresheet
+- frontlet
+- fussbudget

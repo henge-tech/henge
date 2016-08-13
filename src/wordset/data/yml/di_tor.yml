@@ -1,0 +1,22 @@
+---
+pattern: di_tor
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 772340
+score_per_word: 85815
+hi_scored_words:
+  dictator: 16800
+  differentiator: 93392
+  dilator: 96331
+  director: 2030
+  discriminator: 82496
+  disruptor: 94469
+  dissector: 81574
+  distributor: 6720
+scored_words:
+  disseminator: 298528
+not_scored_words:
+- disintegrator
+- dissimulator
+- dissipator

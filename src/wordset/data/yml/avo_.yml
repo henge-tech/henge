@@ -1,0 +1,42 @@
+---
+pattern: avo_
+hi_scored_words_count: 13
+scored_words_count: 12
+total_words: 32
+score: 2637710
+score_per_word: 105508
+hi_scored_words:
+  avo: 57859
+  avocado: 24562
+  avocados: 55051
+  avocation: 94298
+  avocet: 73662
+  avoid: 1491
+  avoidable: 40174
+  avoidance: 14480
+  avoided: 6334
+  avoiding: 7060
+  avoids: 18619
+  avoir: 37818
+  avowed: 44262
+scored_words:
+  avocational: 256511
+  avocations: 110789
+  avocets: 220092
+  avoider: 231794
+  avoirdupois: 150333
+  avos: 275512
+  avow: 103079
+  avowal: 113929
+  avowals: 168680
+  avowedly: 125458
+  avowing: 136251
+  avows: 269612
+not_scored_words:
+- Avogadro
+- Avon
+- avoidably
+- avouch
+- avouched
+- avouches
+- avouching

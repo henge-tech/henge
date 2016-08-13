@@ -1,0 +1,23 @@
+---
+pattern: inf_l
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 719237
+score_per_word: 59936
+hi_scored_words:
+  inferential: 64636
+  infernal: 22446
+  infidel: 27913
+  infill: 54135
+  infinitesimal: 41649
+  influential: 8173
+  infomercial: 57360
+  informal: 7687
+  informational: 7954
+  infrastructural: 60054
+scored_words:
+  infinitival: 258957
+  inflectional: 108273
+not_scored_words:
+- infracostal

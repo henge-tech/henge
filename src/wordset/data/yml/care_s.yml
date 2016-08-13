@@ -1,0 +1,24 @@
+---
+pattern: care_s
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 936797
+score_per_word: 78066
+hi_scored_words:
+  careers: 5599
+  caregivers: 15740
+  careless: 13964
+  carelessness: 35760
+  carers: 15822
+  cares: 5504
+  caress: 24621
+  caresses: 60118
+  caretakers: 48283
+scored_words:
+  careens: 289234
+  careerists: 246568
+  carefulness: 175584
+not_scored_words:
+- careerisms
+- carets

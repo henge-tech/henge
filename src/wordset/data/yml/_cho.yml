@@ -1,0 +1,26 @@
+---
+pattern: _cho
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 16
+score: 344691
+score_per_word: 38299
+hi_scored_words:
+  echo: 4047
+  gaucho: 49780
+  gazpacho: 81660
+  honcho: 72413
+  macho: 26431
+  nacho: 38740
+  poncho: 36435
+  psycho: 16263
+  rancho: 18922
+scored_words: {}
+not_scored_words:
+- Ayacucho
+- Camacho
+- Echo
+- Jericho
+- Sancho
+- Tycho
+- reecho

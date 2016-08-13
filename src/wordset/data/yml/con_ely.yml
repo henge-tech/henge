@@ -1,0 +1,31 @@
+---
+pattern: con_ely
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 1100666
+score_per_word: 91722
+hi_scored_words:
+  concisely: 53070
+  conclusively: 35748
+  concretely: 63268
+  consecutively: 43947
+  conservatively: 48859
+  constitutively: 87481
+  constructively: 45450
+  conversely: 20239
+scored_words:
+  considerately: 191470
+  contritely: 170022
+  contumely: 194431
+  convulsively: 146681
+not_scored_words:
+- concavely
+- conductively
+- conjugately
+- conjunctively
+- connectively
+- consummately
+- consumptively
+- contemplatively
+- contradistinctively

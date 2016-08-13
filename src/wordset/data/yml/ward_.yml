@@ -1,0 +1,27 @@
+---
+pattern: ward_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 910922
+score_per_word: 75910
+hi_scored_words:
+  ward: 3313
+  warden: 16018
+  wardens: 39070
+  warder: 60423
+  warding: 81188
+  wardrobe: 9558
+  wardrobes: 42590
+  wards: 14091
+scored_words:
+  warded: 114259
+  warders: 116782
+  wardroom: 188542
+  wardship: 225088
+not_scored_words:
+- Ward
+- wardmote
+- wardress
+- wardresses
+- wardrooms

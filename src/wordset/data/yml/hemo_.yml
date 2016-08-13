@@ -1,0 +1,36 @@
+---
+pattern: hemo_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 26
+score: 1950352
+score_per_word: 114726
+hi_scored_words:
+  hemodialysis: 46411
+  hemoglobin: 25419
+  hemolysis: 77158
+  hemophilia: 50574
+  hemorrhage: 26725
+  hemorrhages: 92071
+  hemorrhagic: 41020
+  hemorrhoid: 87530
+  hemorrhoids: 42040
+  hemostasis: 73653
+scored_words:
+  hemocyte: 322024
+  hemolysin: 166049
+  hemophiliac: 270722
+  hemophiliacs: 198105
+  hemorrhaging: 101390
+  hemorrhoidal: 207114
+  hemostatic: 122347
+not_scored_words:
+- hemodialyses
+- hemoid
+- hemolyses
+- hemophilic
+- hemorrhaged
+- hemorrhoidectomy
+- hemostat
+- hemostats
+- hemotherapy

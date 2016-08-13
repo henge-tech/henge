@@ -1,0 +1,49 @@
+---
+pattern: _tous
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 39
+score: 1917128
+score_per_word: 91291
+hi_scored_words:
+  calamitous: 81228
+  circuitous: 65602
+  covetous: 70213
+  felicitous: 75517
+  filamentous: 62722
+  fortuitous: 48991
+  gratuitous: 29598
+  momentous: 27603
+  portentous: 79665
+  precipitous: 47992
+  riotous: 65175
+  serendipitous: 76504
+  solicitous: 63713
+  ubiquitous: 20692
+scored_words:
+  acetous: 226552
+  duplicitous: 107236
+  edematous: 185778
+  infelicitous: 150281
+  iniquitous: 105226
+  ligamentous: 194391
+  necessitous: 132449
+not_scored_words:
+- acclivitous
+- achromatous
+- alacritous
+- argentous
+- asomatous
+- astomatous
+- carcinomatous
+- cobaltous
+- declivitous
+- eczematous
+- fatuitous
+- nonfilamentous
+- oversolicitous
+- pachydermatous
+- physoclistous
+- sclerodermatous
+- strepitous
+- vomitous

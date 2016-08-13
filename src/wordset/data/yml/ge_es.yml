@@ -1,0 +1,52 @@
+---
+pattern: ge_es
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 42
+score: 2052270
+score_per_word: 82090
+hi_scored_words:
+  gearboxes: 66820
+  gees: 28286
+  gemstones: 27414
+  gendarmes: 92656
+  genealogies: 57246
+  generalities: 55527
+  generalizes: 74192
+  generates: 14685
+  genes: 4260
+  geniuses: 35795
+  genomes: 29851
+  genotypes: 38534
+  genres: 11122
+  gentiles: 25764
+  geographies: 53305
+  geometries: 39997
+  gestures: 16445
+scored_words:
+  genies: 111724
+  genocides: 109829
+  gentes: 122449
+  gentles: 166627
+  geocaches: 186530
+  geodes: 193145
+  germicides: 291930
+  germinates: 198137
+not_scored_words:
+- Georges
+- gelatinizes
+- gelidities
+- geminates
+- gendarmeries
+- generosities
+- geneses
+- genitives
+- gentries
+- gentrifies
+- geologies
+- geomorphologies
+- geophytes
+- geosynclines
+- germanenesses
+- gestates
+- gesticulates

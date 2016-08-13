@@ -1,0 +1,26 @@
+---
+pattern: el_ion
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 16
+score: 604165
+score_per_word: 46474
+hi_scored_words:
+  elaboration: 23872
+  elation: 37347
+  election: 1688
+  electrification: 36172
+  electrocution: 61194
+  elevation: 5771
+  elicitation: 77823
+  elimination: 10551
+  elocution: 79673
+  elongation: 32749
+  elucidation: 46891
+  elution: 62206
+scored_words:
+  elision: 128228
+not_scored_words:
+- electrostriction
+- elusion
+- eluviation

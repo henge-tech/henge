@@ -1,0 +1,46 @@
+---
+pattern: sub_ng
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 36
+score: 2216283
+score_per_word: 96360
+hi_scored_words:
+  subcontracting: 48471
+  subduing: 93199
+  subheading: 49039
+  subjecting: 38000
+  submitting: 8202
+  subscribing: 22471
+  subsiding: 83419
+  subsidizing: 54364
+  subsisting: 71426
+  substituting: 20360
+  subtitling: 72748
+  subtracting: 33055
+  subverting: 78151
+scored_words:
+  subbing: 100631
+  subdividing: 104912
+  subjugating: 173559
+  subleasing: 264075
+  subletting: 130857
+  submerging: 123893
+  subordinating: 129249
+  substantiating: 106500
+  subsuming: 194862
+  subtending: 214840
+not_scored_words:
+- subediting
+- subflooring
+- subfreezing
+- subjoining
+- sublimating
+- subliming
+- submersing
+- suborning
+- subpoenaing
+- subserving
+- subtilizing
+- subtotaling
+- suburbanizing

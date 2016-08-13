@@ -1,0 +1,33 @@
+---
+pattern: trem_
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 23
+score: 2224755
+score_per_word: 123597
+hi_scored_words:
+  tremble: 24666
+  trembled: 30641
+  trembles: 75685
+  trembling: 14982
+  tremendous: 5227
+  tremendously: 21215
+  tremolo: 49093
+  tremor: 23229
+  tremors: 39310
+  tremulous: 79770
+scored_words:
+  trematode: 214102
+  trematodes: 268415
+  trembler: 226933
+  tremblingly: 126659
+  tremolite: 193963
+  tremolos: 292659
+  tremulant: 284486
+  tremulously: 253720
+not_scored_words:
+- tremblings
+- trembly
+- tremolant
+- tremolites
+- tremulousness

@@ -1,0 +1,95 @@
+---
+pattern: _tomy
+hi_scored_words_count: 17
+scored_words_count: 18
+total_words: 85
+score: 3950309
+score_per_word: 112865
+hi_scored_words:
+  anatomy: 7483
+  cholecystectomy: 82259
+  colostomy: 76114
+  dichotomy: 31241
+  hysterectomy: 31169
+  laparotomy: 77557
+  lobotomy: 66934
+  mastectomy: 44326
+  nephrectomy: 89786
+  osteotomy: 78491
+  ostomy: 72861
+  phlebotomy: 89297
+  prostatectomy: 70416
+  splenectomy: 91052
+  tracheostomy: 71055
+  tracheotomy: 87709
+  vasectomy: 47802
+scored_words:
+  adenoidectomy: 234996
+  appendectomy: 103088
+  colectomy: 140964
+  craniotomy: 131748
+  cystectomy: 158076
+  episiotomy: 108267
+  gastrectomy: 111351
+  gastrostomy: 121546
+  ileostomy: 120613
+  lobectomy: 138028
+  lumpectomy: 123322
+  oophorectomy: 126824
+  orchidectomy: 340400
+  ovariectomy: 178112
+  pneumonectomy: 171639
+  rhizotomy: 306158
+  thoracotomy: 114026
+  tonsillectomy: 105599
+not_scored_words:
+- adenectomy
+- appendicectomy
+- arteriotomy
+- atomy
+- autotomy
+- celiotomy
+- cholecystotomy
+- clitoridectomy
+- colotomy
+- colpotomy
+- costotomy
+- cystotomy
+- embolectomy
+- embryectomy
+- embryotomy
+- enterectomy
+- enterostomy
+- enterotomy
+- gastroenterostomy
+- gastrotomy
+- glossectomy
+- glossotomy
+- hemorrhoidectomy
+- herniotomy
+- hysterotomy
+- iridectomy
+- iridotomy
+- laryngotomy
+- leucotomy
+- lithotomy
+- mastoidectomy
+- necrotomy
+- nephrotomy
+- neurotomy
+- ovariotomy
+- pancreatotomy
+- pneumectomy
+- pylorectomy
+- salpingectomy
+- salpingotomy
+- sclerotomy
+- stereotomy
+- tenotomy
+- tonsillotomy
+- trichotomy
+- urethrectomy
+- vaginectomy
+- varicotomy
+- xylotomy
+- zootomy

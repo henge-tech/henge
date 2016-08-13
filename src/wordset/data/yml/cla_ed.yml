@@ -1,0 +1,32 @@
+---
+pattern: cla_ed
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 22
+score: 1077378
+score_per_word: 76955
+hi_scored_words:
+  claimed: 3460
+  clambered: 87528
+  clamped: 40295
+  clapped: 38012
+  clarified: 19434
+  clashed: 46517
+  clasped: 33377
+  classed: 28693
+  classified: 5603
+  clawed: 52064
+scored_words:
+  clamored: 137474
+  clanged: 193332
+  clanked: 266880
+  clattered: 124709
+not_scored_words:
+- clabbered
+- clacked
+- clammed
+- clapboarded
+- clapperclawed
+- clarioned
+- classicized
+- clavered

@@ -1,0 +1,37 @@
+---
+pattern: bro_d
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 27
+score: 2194142
+score_per_word: 95397
+hi_scored_words:
+  broached: 74749
+  broad: 2306
+  broadband: 9807
+  broadened: 31144
+  broadsword: 63721
+  broiled: 47457
+  brokered: 53791
+  bronzed: 66478
+  brood: 17870
+  brooded: 90502
+  brotherhood: 12431
+  browned: 41093
+  brownfield: 43395
+  browsed: 48324
+scored_words:
+  broadleaved: 160305
+  broadminded: 218204
+  brocaded: 210502
+  broidered: 223648
+  brokenhearted: 120279
+  bromeliad: 110840
+  brominated: 127332
+  brooked: 148873
+  browband: 271091
+not_scored_words:
+- Broad
+- broadsided
+- bromated
+- brookweed

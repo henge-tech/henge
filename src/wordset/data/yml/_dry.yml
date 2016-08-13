@@ -1,0 +1,27 @@
+---
+pattern: _dry
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 661141
+score_per_word: 60103
+hi_scored_words:
+  dry: 1452
+  foundry: 16388
+  heraldry: 33116
+  husbandry: 25134
+  laundry: 8530
+  sundry: 23925
+  tawdry: 66696
+  wizardry: 39104
+scored_words:
+  balladry: 197456
+  polyandry: 124081
+  ribaldry: 125259
+not_scored_words:
+- Landry
+- bawdry
+- brigandry
+- cuckoldry
+- gynandry
+- monandry

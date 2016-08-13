@@ -1,0 +1,27 @@
+---
+pattern: co_ters
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 1155125
+score_per_word: 96260
+hi_scored_words:
+  coasters: 20988
+  comforters: 51346
+  committers: 54179
+  commuters: 26690
+  computers: 2092
+  converters: 18187
+  copywriters: 86758
+  counters: 10125
+scored_words:
+  colorimeters: 270965
+  copters: 187232
+  coulters: 322126
+  counterfeiters: 104437
+not_scored_words:
+- colters
+- concenters
+- concertmasters
+- cotoneasters
+- cotters

@@ -1,0 +1,61 @@
+---
+pattern: pref_
+hi_scored_words_count: 29
+scored_words_count: 11
+total_words: 51
+score: 3191437
+score_per_word: 79785
+hi_scored_words:
+  pref: 28368
+  prefab: 60261
+  prefabricated: 40365
+  preface: 11266
+  prefaced: 79101
+  prefaces: 95144
+  prefatory: 91094
+  prefect: 28519
+  prefects: 84913
+  prefectural: 56644
+  prefecture: 22587
+  prefectures: 62881
+  prefer: 2544
+  preferable: 13687
+  preferably: 13095
+  preference: 4531
+  preferences: 7964
+  preferential: 28546
+  preferentially: 45933
+  preferred: 2803
+  preferring: 28343
+  prefers: 8692
+  prefix: 11641
+  prefixed: 34092
+  prefixes: 27115
+  preflight: 73819
+  preform: 75965
+  preformed: 55951
+  prefrontal: 52125
+scored_words:
+  prefabrication: 187574
+  prefabs: 188914
+  prefacing: 219840
+  preferment: 111777
+  prefiguration: 149941
+  prefigure: 278050
+  prefigured: 156674
+  prefigures: 269382
+  prefixing: 122646
+  preforming: 222489
+  preforms: 136161
+not_scored_words:
+- prefabbed
+- prefabbing
+- prefabricate
+- prefabricates
+- prefabricating
+- prefectoral
+- prefectorial
+- prefigurations
+- prefigurative
+- prefigurement
+- prefiguring

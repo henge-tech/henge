@@ -1,0 +1,49 @@
+---
+pattern: d_nce
+hi_scored_words_count: 23
+scored_words_count: 7
+total_words: 39
+score: 1761092
+score_per_word: 58703
+hi_scored_words:
+  dalliance: 93245
+  dance: 1211
+  decadence: 31769
+  deference: 23113
+  defiance: 13113
+  deliverance: 24326
+  denounce: 27317
+  dependence: 7017
+  deterrence: 29198
+  deviance: 43838
+  difference: 1058
+  diligence: 12950
+  disallowance: 94028
+  disappearance: 17026
+  discontinuance: 57537
+  disobedience: 21290
+  dissonance: 38905
+  distance: 845
+  disturbance: 9423
+  divergence: 22349
+  dominance: 16927
+  dunce: 61768
+  durance: 80674
+scored_words:
+  defeasance: 173178
+  dehiscence: 140871
+  despondence: 165872
+  diffidence: 103553
+  discordance: 123513
+  discountenance: 170382
+  dissidence: 154796
+not_scored_words:
+- decalescence
+- deliquescence
+- delitescence
+- desinence
+- detumescence
+- disinheritance
+- dissemblance
+- divalence
+- divulgence

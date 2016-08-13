@@ -1,0 +1,22 @@
+---
+pattern: pos_d
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 12
+score: 792663
+score_per_word: 66055
+hi_scored_words:
+  posed: 11728
+  posited: 51142
+  positioned: 10349
+  possessed: 7317
+  postcard: 19043
+  posted: 455
+  postmarked: 51066
+  postpaid: 80701
+  postponed: 14188
+  postulated: 36820
+scored_words:
+  postdated: 218881
+  postured: 290973
+not_scored_words: []

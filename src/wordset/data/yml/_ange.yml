@@ -1,0 +1,39 @@
+---
+pattern: _ange
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 29
+score: 994727
+score_per_word: 58513
+hi_scored_words:
+  arrange: 4828
+  change: 248
+  derange: 86920
+  estrange: 96797
+  exchange: 1363
+  flange: 27940
+  grange: 16905
+  interchange: 11048
+  mange: 43400
+  melange: 57935
+  orange: 2263
+  range: 842
+  rearrange: 34626
+  strange: 1795
+scored_words:
+  blancmange: 190925
+  downrange: 191748
+  shortchange: 225144
+not_scored_words:
+- Falange
+- Grange
+- Lagrange
+- Orange
+- citrange
+- counterchange
+- disarrange
+- omnirange
+- outrange
+- phalange
+- prearrange
+- reexchange

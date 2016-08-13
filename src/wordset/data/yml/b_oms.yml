@@ -1,0 +1,25 @@
+---
+pattern: b_oms
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 953265
+score_per_word: 79438
+hi_scored_words:
+  ballrooms: 90500
+  bathrooms: 7939
+  bedrooms: 6464
+  blooms: 19482
+  blossoms: 14992
+  boardrooms: 93562
+  booms: 38590
+  bosoms: 86627
+  bottoms: 15775
+  brooms: 44413
+scored_words:
+  backrooms: 298801
+  bridegrooms: 236120
+not_scored_words:
+- barrooms
+- besoms
+- boxrooms

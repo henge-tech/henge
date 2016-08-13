@@ -1,0 +1,45 @@
+---
+pattern: acet_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 35
+score: 1138608
+score_per_word: 81329
+hi_scored_words:
+  acetal: 98648
+  acetaldehyde: 62715
+  acetaminophen: 30834
+  acetate: 22759
+  acetic: 30651
+  acetone: 30145
+  acetyl: 30947
+  acetylcholine: 34768
+  acetylene: 38893
+scored_words:
+  acetabulum: 108536
+  acetamide: 198635
+  acetates: 110503
+  acetous: 226552
+  acetylated: 114022
+not_scored_words:
+- acetabulums
+- acetaldehydes
+- acetals
+- acetamides
+- acetanilide
+- acetanilides
+- acetified
+- acetifies
+- acetify
+- acetifying
+- acetometer
+- acetonic
+- acetophenetidin
+- acetophenetidins
+- acetum
+- acetylate
+- acetylates
+- acetylating
+- acetylcholines
+- acetylide
+- acetyls

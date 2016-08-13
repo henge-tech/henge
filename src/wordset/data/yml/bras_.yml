@@ -1,0 +1,43 @@
+---
+pattern: bras_
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 33
+score: 2178965
+score_per_word: 128174
+hi_scored_words:
+  bras: 10427
+  brash: 34781
+  brasher: 87532
+  brass: 3805
+  brasserie: 47164
+  brassica: 58373
+  brassiere: 87672
+  brassy: 73589
+scored_words:
+  brashness: 258166
+  brasier: 221911
+  brassard: 102372
+  brassbound: 340583
+  brasseries: 171876
+  brasses: 113724
+  brassie: 224855
+  brassieres: 178558
+  brassware: 163577
+not_scored_words:
+- Brasil
+- Brasilia
+- Brasov
+- brashest
+- brashly
+- brashy
+- brasiers
+- brasilein
+- brasilin
+- brassards
+- brassbounder
+- brassier
+- brassies
+- brassiest
+- brassily
+- brassiness

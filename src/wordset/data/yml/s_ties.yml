@@ -1,0 +1,60 @@
+---
+pattern: s_ties
+hi_scored_words_count: 18
+scored_words_count: 11
+total_words: 50
+score: 2901705
+score_per_word: 100058
+hi_scored_words:
+  safeties: 90112
+  securities: 4878
+  sensibilities: 29571
+  sensitivities: 36594
+  seventies: 28427
+  shanties: 96526
+  similarities: 19159
+  singularities: 52732
+  sixties: 24930
+  smarties: 68171
+  societies: 4984
+  sororities: 52476
+  sorties: 55205
+  specialties: 18979
+  subtleties: 46308
+  sureties: 72915
+  susceptibilities: 93474
+  sweeties: 47125
+scored_words:
+  scarcities: 252027
+  sexualities: 102391
+  shorties: 104615
+  simplicities: 245637
+  softies: 123024
+  solemnities: 206464
+  sonorities: 219455
+  sties: 194168
+  stupidities: 155573
+  superfluities: 126730
+  synchronicities: 329055
+not_scored_words:
+- Scotties
+- sacristies
+- salubrities
+- sanguinities
+- sapidities
+- scanties
+- sedulities
+- severalties
+- sinistralities
+- socialities
+- sodalities
+- spasticities
+- sphericities
+- spiritualties
+- subnormalities
+- subsidiarities
+- suitabilities
+- supercities
+- sustainabilities
+- syllabicities
+- synonymities

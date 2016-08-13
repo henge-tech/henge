@@ -1,0 +1,48 @@
+---
+pattern: coa_s
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 38
+score: 2125394
+score_per_word: 111862
+hi_scored_words:
+  coaches: 6761
+  coalitions: 25400
+  coals: 33727
+  coasters: 20988
+  coastlines: 48757
+  coasts: 16291
+  coatings: 14949
+  coats: 8249
+  coauthors: 93530
+scored_words:
+  coadjutors: 125338
+  coagulants: 222946
+  coalesces: 248062
+  coalfields: 105197
+  coalmines: 276776
+  coarseness: 107569
+  coastguards: 171317
+  coastlands: 276538
+  coattails: 123392
+  coaxes: 199607
+not_scored_words:
+- Coates
+- coachloads
+- coachwhips
+- coactions
+- coacts
+- coadjutress
+- coagulases
+- coagulates
+- coagulators
+- coagulums
+- coalfaces
+- coalitionists
+- coamings
+- coarsens
+- coatees
+- coatis
+- coatracks
+- coatrooms
+- coaxers

@@ -1,0 +1,32 @@
+---
+pattern: unpa_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 22
+score: 1724669
+score_per_word: 101451
+hi_scored_words:
+  unpack: 31318
+  unpacked: 37446
+  unpacking: 33714
+  unpaid: 13410
+  unpainted: 59197
+  unpaired: 80616
+  unpalatable: 77980
+  unparalleled: 19298
+  unpardonable: 96303
+  unpatriotic: 65517
+  unpaved: 49360
+scored_words:
+  unpacks: 157901
+  unpaged: 200433
+  unpaginated: 179501
+  unparliamentary: 269059
+  unpasteurized: 114986
+  unpatented: 238630
+not_scored_words:
+- unpackers
+- unpalatabilities
+- unpalatability
+- unpalatably
+- unpardonably

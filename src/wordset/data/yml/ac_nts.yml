@@ -1,0 +1,24 @@
+---
+pattern: ac_nts
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 14
+score: 587866
+score_per_word: 48988
+hi_scored_words:
+  accents: 12602
+  accidents: 5544
+  accompaniments: 56673
+  accomplishments: 9663
+  accountants: 21202
+  accounts: 1689
+  accoutrements: 60924
+  achievements: 9983
+  acknowledgements: 16660
+  acknowledgments: 21969
+scored_words:
+  accouterments: 185104
+  acquaints: 185853
+not_scored_words:
+- accouchements
+- acrodonts

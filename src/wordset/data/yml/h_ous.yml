@@ -1,0 +1,59 @@
+---
+pattern: h_ous
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 49
+score: 1153012
+score_per_word: 57650
+hi_scored_words:
+  harmonious: 26432
+  hazardous: 6806
+  heinous: 32379
+  herbaceous: 35641
+  herbivorous: 77034
+  heterogeneous: 16057
+  heterologous: 70796
+  heterozygous: 48618
+  hideous: 17770
+  hilarious: 12037
+  homogeneous: 15830
+  homologous: 26565
+  homozygous: 43306
+  horrendous: 30900
+  humongous: 51197
+  humorous: 10028
+  hydrous: 98883
+scored_words:
+  hematogenous: 243845
+  homonymous: 170733
+  homophonous: 118155
+not_scored_words:
+- halogenous
+- hamamelidaceous
+- hemipterous
+- heptamerous
+- heterecious
+- heterochromous
+- heterogynous
+- heteromerous
+- heteronomous
+- heteronymous
+- heterophyllous
+- heteropterous
+- heterosporous
+- hexamerous
+- hispidulous
+- homochromous
+- homopterous
+- homosporous
+- hydrocarbonaceous
+- hydrocephalous
+- hydrogenous
+- hydrophilous
+- hygrophilous
+- hylophagous
+- hymenopterous
+- hypogenous
+- hypogeous
+- hypognathous
+- hypogynous

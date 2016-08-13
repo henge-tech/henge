@@ -1,0 +1,24 @@
+---
+pattern: skat_
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 14
+score: 486602
+score_per_word: 40550
+hi_scored_words:
+  skat: 98375
+  skate: 12305
+  skateboard: 16250
+  skateboarder: 76887
+  skateboarders: 86210
+  skateboarding: 18652
+  skateboards: 32344
+  skated: 64170
+  skater: 19691
+  skaters: 32485
+  skates: 18649
+  skating: 10584
+scored_words: {}
+not_scored_words:
+- skateboarded
+- skatole

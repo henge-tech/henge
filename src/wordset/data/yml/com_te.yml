@@ -1,0 +1,32 @@
+---
+pattern: com_te
+hi_scored_words_count: 13
+scored_words_count: 0
+total_words: 22
+score: 318322
+score_per_word: 24486
+hi_scored_words:
+  commemorate: 21440
+  commensurate: 26853
+  commiserate: 96381
+  communicate: 3956
+  commute: 17379
+  compassionate: 14323
+  compensate: 11939
+  compete: 6651
+  complete: 511
+  complicate: 28481
+  composite: 8336
+  compote: 68012
+  compute: 14060
+scored_words: {}
+not_scored_words:
+- Composite
+- Comte
+- comate
+- commentate
+- comminate
+- comminute
+- commutate
+- companionate
+- computerate

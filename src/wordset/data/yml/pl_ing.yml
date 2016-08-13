@@ -1,0 +1,57 @@
+---
+pattern: pl_ing
+hi_scored_words_count: 26
+scored_words_count: 11
+total_words: 47
+score: 3109718
+score_per_word: 84046
+hi_scored_words:
+  placing: 4542
+  plaguing: 74778
+  planing: 48673
+  planking: 94167
+  planning: 2386
+  planting: 13527
+  plastering: 45937
+  plating: 21216
+  playacting: 79541
+  playing: 1071
+  plaything: 54194
+  playwriting: 68226
+  pleading: 16616
+  pleasing: 9821
+  pleasuring: 78049
+  pledging: 42605
+  plodding: 64478
+  plotting: 16738
+  plowing: 35924
+  plucking: 50146
+  plugging: 26369
+  plumbing: 16137
+  plummeting: 71358
+  plundering: 56452
+  plunging: 35624
+  plying: 60853
+scored_words:
+  placarding: 290612
+  placating: 196013
+  plagiarizing: 134943
+  plaiting: 133393
+  plashing: 247509
+  platforming: 132309
+  platting: 130952
+  pleating: 185145
+  plopping: 197445
+  plumping: 135932
+  plunking: 236037
+not_scored_words:
+- placekicking
+- plasticizing
+- plateauing
+- platooning
+- playgoing
+- pleaching
+- plighting
+- plonking
+- pluming
+- pluralizing

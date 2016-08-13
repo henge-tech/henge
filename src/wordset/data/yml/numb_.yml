@@ -1,0 +1,31 @@
+---
+pattern: numb_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 21
+score: 1397448
+score_per_word: 93163
+hi_scored_words:
+  numb: 17946
+  numbed: 85939
+  number: 155
+  numbered: 7218
+  numbering: 14997
+  numberless: 81454
+  numbers: 958
+  numbing: 49744
+  numbness: 32214
+scored_words:
+  numbat: 287381
+  numberplate: 130181
+  numbingly: 134375
+  numbly: 245510
+  numbs: 164095
+  numbskull: 145281
+not_scored_words:
+- Numbers
+- numbats
+- numbest
+- numbfish
+- numbles
+- numbskulls

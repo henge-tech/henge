@@ -1,0 +1,44 @@
+---
+pattern: ta_ers
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 34
+score: 2582418
+score_per_word: 122972
+hi_scored_words:
+  takeovers: 53003
+  takers: 26269
+  talkers: 40877
+  tankers: 32263
+  tanners: 73851
+  tapers: 34653
+  tasers: 77310
+  tasters: 96698
+  tatters: 59586
+  taxpayers: 17117
+scored_words:
+  tachometers: 196456
+  tackers: 280812
+  tacklers: 230712
+  taggers: 148357
+  tailgaters: 199955
+  tamers: 135480
+  tampers: 135877
+  tanagers: 179741
+  tappers: 160350
+  taskmasters: 301480
+  taters: 101571
+not_scored_words:
+- Tangiers
+- tacheometers
+- talebearers
+- talliers
+- tamperers
+- tantalizers
+- tapsters
+- tarsiers
+- tattlers
+- tattooers
+- taunters
+- taxers
+- taximeters

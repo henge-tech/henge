@@ -1,0 +1,32 @@
+---
+pattern: _eks
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 1002755
+score_per_word: 77135
+hi_scored_words:
+  cheeks: 11630
+  creeks: 25389
+  geeks: 15139
+  leeks: 52277
+  peeks: 59868
+  reeks: 59384
+  seeks: 5042
+  shrieks: 57946
+  treks: 48990
+  weeks: 751
+scored_words:
+  breeks: 243179
+  leks: 187787
+  workweeks: 235373
+not_scored_words:
+- Creeks
+- Greeks
+- Uzbeks
+- Weeks
+- fenugreeks
+- haceks
+- kopeks
+- midweeks
+- sleeks

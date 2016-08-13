@@ -1,0 +1,41 @@
+---
+pattern: _top
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 31
+score: 2339188
+score_per_word: 83542
+hi_scored_words:
+  atop: 19635
+  backstop: 72341
+  blacktop: 72728
+  cooktop: 81693
+  desktop: 6997
+  doorstop: 93712
+  hardtop: 48246
+  hilltop: 27062
+  laptop: 7532
+  mountaintop: 56964
+  nonstop: 24830
+  rooftop: 23981
+  shortstop: 33791
+  stop: 613
+  tabletop: 21776
+  top: 242
+  treetop: 88057
+  worktop: 91629
+scored_words:
+  clifftop: 160348
+  estop: 248344
+  flattop: 122554
+  housetop: 201966
+  overtop: 179518
+  palmtop: 109421
+  ragtop: 181183
+  redtop: 122897
+  ripstop: 124745
+  tiptop: 116383
+not_scored_words:
+- foretop
+- maintop
+- unstop

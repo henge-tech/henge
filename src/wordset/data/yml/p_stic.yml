@@ -1,0 +1,41 @@
+---
+pattern: p_stic
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 31
+score: 2372438
+score_per_word: 124865
+hi_scored_words:
+  paternalistic: 79068
+  patristic: 93231
+  pessimistic: 25888
+  photorealistic: 87976
+  plastic: 4608
+  pluralistic: 50960
+  probabilistic: 23345
+  prognostic: 36962
+  pyroclastic: 90766
+scored_words:
+  pacifistic: 271109
+  pantheistic: 155445
+  pederastic: 161570
+  periphrastic: 221479
+  pianistic: 268582
+  pleonastic: 148325
+  polytheistic: 111170
+  positivistic: 195732
+  psycholinguistic: 130493
+  pugilistic: 215729
+not_scored_words:
+- palimpsestic
+- paralinguistic
+- parallelistic
+- paraphrastic
+- perfectionistic
+- phlogistic
+- pietistic
+- pointillistic
+- populistic
+- pragmatistic
+- prediagnostic
+- puristic

@@ -1,0 +1,38 @@
+---
+pattern: in_tors
+hi_scored_words_count: 20
+scored_words_count: 4
+total_words: 28
+score: 1604150
+score_per_word: 66839
+hi_scored_words:
+  incinerators: 61046
+  incubators: 52504
+  indicators: 4765
+  inductors: 55415
+  inheritors: 99792
+  inhibitors: 11609
+  initiators: 68091
+  injectors: 45397
+  innovators: 37384
+  inquisitors: 99888
+  inspectors: 13272
+  instructors: 11004
+  insulators: 46147
+  integrators: 47483
+  interceptors: 66380
+  interlocutors: 99108
+  interrogators: 64411
+  inventors: 20234
+  investigators: 11254
+  investors: 9577
+scored_words:
+  infiltrators: 126702
+  inflators: 138078
+  instigators: 116220
+  invigilators: 298389
+not_scored_words:
+- indoctrinators
+- inhalators
+- insinuators
+- institutors

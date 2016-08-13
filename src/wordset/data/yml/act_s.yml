@@ -1,0 +1,40 @@
+---
+pattern: act_s
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 30
+score: 1506952
+score_per_word: 75347
+hi_scored_words:
+  actions: 1597
+  activates: 26430
+  activations: 72433
+  activators: 63576
+  actives: 55680
+  activists: 12211
+  activities: 2069
+  actors: 4116
+  actress: 5995
+  actresses: 15500
+  acts: 1929
+  actuaries: 50437
+  actuators: 34344
+scored_words:
+  actinides: 125549
+  actinomycetes: 149989
+  actinomycosis: 174588
+  actins: 106531
+  activeness: 300857
+  actualities: 136781
+  actuates: 166340
+not_scored_words:
+- Acts
+- actinias
+- actinisms
+- actinolites
+- actinometers
+- actinomycins
+- actinomycoses
+- actionless
+- actomyosins
+- actualizes

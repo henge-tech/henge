@@ -1,0 +1,43 @@
+---
+pattern: cong_s
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 33
+score: 1545949
+score_per_word: 96621
+hi_scored_words:
+  congas: 66856
+  congeners: 87012
+  congeries: 79996
+  conglomerates: 44512
+  congrats: 11617
+  congratulates: 55574
+  congratulations: 6397
+  congregations: 18581
+  congress: 2644
+  congresses: 24419
+scored_words:
+  congers: 196910
+  congregants: 108590
+  congregates: 300770
+  congregationalists: 196017
+  congruences: 160949
+  congruous: 185105
+not_scored_words:
+- Congregationalisms
+- Congregationalists
+- Congress
+- Congresses
+- congeals
+- congenialness
+- congenialnesses
+- congests
+- congius
+- conglobates
+- conglomerations
+- conglutinates
+- congous
+- congresspersons
+- congruities
+- congruousness
+- congruousnesses

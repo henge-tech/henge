@@ -1,0 +1,39 @@
+---
+pattern: c_ws
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 29
+score: 1261222
+score_per_word: 78826
+hi_scored_words:
+  cashews: 65317
+  caws: 70114
+  chainsaws: 62794
+  chews: 31825
+  claws: 17143
+  corkscrews: 71184
+  cows: 7380
+  crews: 10947
+  crossbows: 71858
+  crows: 18849
+  curfews: 81704
+scored_words:
+  chaws: 153522
+  chows: 138530
+  clews: 114001
+  cornrows: 153433
+  curlews: 192621
+not_scored_words:
+- Chickasaws
+- Choctaws
+- Crows
+- checkrows
+- chowchows
+- clapperclaws
+- clerihews
+- cockcrows
+- contraflows
+- counterblows
+- counterglows
+- craws
+- curassows

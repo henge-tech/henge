@@ -1,0 +1,31 @@
+---
+pattern: terr_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 1209066
+score_per_word: 93005
+hi_scored_words:
+  terraces: 24130
+  terrains: 67676
+  terrapins: 50092
+  terriers: 33970
+  terrifies: 88996
+  territories: 5357
+  terrorists: 5855
+  terrors: 34361
+scored_words:
+  terrariums: 163321
+  terrestrials: 142883
+  terrigenous: 120441
+  terrines: 300266
+  terrorizes: 171718
+not_scored_words:
+- Terramycins
+- terraqueous
+- terrazzos
+- terribleness
+- terricolous
+- territorialities
+- territorials
+- terrorizations

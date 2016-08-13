@@ -1,0 +1,30 @@
+---
+pattern: quic_
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 20
+score: 1152189
+score_per_word: 60641
+hi_scored_words:
+  quiche: 44494
+  quick: 744
+  quicken: 21492
+  quickened: 56507
+  quickening: 59818
+  quicker: 9699
+  quickest: 21818
+  quickie: 33177
+  quickies: 75149
+  quickly: 1077
+  quickness: 38202
+  quicksand: 46632
+  quicksands: 97696
+  quicksilver: 27296
+  quickstep: 63023
+scored_words:
+  quiches: 151446
+  quickens: 109712
+  quickfire: 136100
+  quicklime: 158107
+not_scored_words:
+- quicksteps

@@ -1,0 +1,22 @@
+---
+pattern: s_ep
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 612707
+score_per_word: 61270
+hi_scored_words:
+  seep: 45420
+  sheep: 3750
+  sidestep: 37341
+  sleep: 1218
+  steep: 7188
+  step: 634
+  strep: 36944
+  sweep: 7366
+scored_words:
+  salep: 285083
+  schlep: 187763
+not_scored_words:
+- Sep
+- skep

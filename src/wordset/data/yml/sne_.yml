@@ -1,0 +1,36 @@
+---
+pattern: sne_
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 26
+score: 1136938
+score_per_word: 63163
+hi_scored_words:
+  sneak: 12228
+  sneaked: 60038
+  sneaker: 28335
+  sneakers: 20163
+  sneaking: 29609
+  sneaks: 55519
+  sneaky: 23182
+  sneck: 48854
+  sneer: 41539
+  sneered: 66223
+  sneering: 73352
+  sneers: 99828
+  sneeze: 32816
+  sneezed: 88809
+  sneezes: 78197
+  sneezing: 39420
+scored_words:
+  sneakily: 181027
+  sneeringly: 157799
+not_scored_words:
+- Snead
+- Snell
+- sneakbox
+- sneakier
+- sneakiest
+- sneakiness
+- sneakingly
+- sneerings

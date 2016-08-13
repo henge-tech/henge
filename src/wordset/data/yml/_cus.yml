@@ -1,0 +1,60 @@
+---
+pattern: _cus
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 50
+score: 2152366
+score_per_word: 82783
+hi_scored_words:
+  abacus: 29694
+  caucus: 18916
+  circus: 7103
+  crocus: 42691
+  discus: 31149
+  ficus: 47090
+  focus: 3631
+  hibiscus: 38949
+  hocus: 52924
+  locus: 18000
+  meniscus: 52840
+  mucus: 31334
+  refocus: 56223
+  staphylococcus: 32009
+  streptococcus: 31249
+  sulcus: 74525
+  umbilicus: 97568
+  viscus: 80902
+scored_words:
+  ascus: 173629
+  coccus: 273804
+  diplodocus: 211770
+  ecus: 136704
+  fucus: 141502
+  incus: 127894
+  micrococcus: 180112
+  pneumococcus: 160154
+not_scored_words:
+- Australopithecus
+- Autolycus
+- Cacus
+- Copernicus
+- Cyzicus
+- Damascus
+- Ecclesiasticus
+- Gigantopithecus
+- Granicus
+- Leviticus
+- Marcus
+- Orcus
+- Oreopithecus
+- Pincus
+- Seleucus
+- Spartacus
+- apercus
+- cercus
+- cysticercus
+- diplococcus
+- floccus
+- gonococcus
+- lemniscus
+- opinicus

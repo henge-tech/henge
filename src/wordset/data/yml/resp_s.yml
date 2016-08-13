@@ -1,0 +1,27 @@
+---
+pattern: resp_s
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 17
+score: 135173
+score_per_word: 16896
+hi_scored_words:
+  respects: 6613
+  respirators: 57095
+  respondents: 5713
+  responders: 22617
+  responds: 13712
+  responses: 5245
+  responsibilities: 4218
+  responsiveness: 19960
+scored_words: {}
+not_scored_words:
+- respecters
+- respectfulness
+- respells
+- respires
+- respites
+- resplendencies
+- responsibleness
+- responsiblenesses
+- resprays

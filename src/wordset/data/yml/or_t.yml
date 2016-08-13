@@ -1,0 +1,29 @@
+---
+pattern: or_t
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 833160
+score_per_word: 75741
+hi_scored_words:
+  orbit: 8817
+  organist: 30754
+  orient: 13869
+  orientalist: 88690
+  ornament: 10480
+  ornithologist: 84755
+  ort: 32875
+  orthodontist: 56702
+scored_words:
+  orpiment: 126028
+  orthopedist: 152979
+  orthotist: 227211
+not_scored_words:
+- Orient
+- Orientalist
+- Orleanist
+- orchardist
+- ordainment
+- orgeat
+- orgiast
+- orneriest

@@ -1,0 +1,19 @@
+---
+pattern: _cure
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 9
+score: 344409
+score_per_word: 38267
+hi_scored_words:
+  cure: 3820
+  epicure: 82368
+  insecure: 16931
+  manicure: 25059
+  obscure: 7582
+  pedicure: 34507
+  procure: 16131
+  secure: 1178
+scored_words:
+  sinecure: 156833
+not_scored_words: []

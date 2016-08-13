@@ -1,0 +1,32 @@
+---
+pattern: col_ed
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 22
+score: 1209834
+score_per_word: 80655
+hi_scored_words:
+  collaborated: 23727
+  collapsed: 12374
+  collared: 43278
+  collated: 48119
+  collected: 2217
+  collided: 42636
+  colonized: 46732
+  colored: 4031
+  colorized: 87325
+scored_words:
+  coldblooded: 115273
+  collimated: 102898
+  collocated: 115947
+  colluded: 152550
+  colonnaded: 249255
+  columned: 163472
+not_scored_words:
+- Coloured
+- colicweed
+- collectivized
+- collied
+- colligated
+- collogued
+- cologned

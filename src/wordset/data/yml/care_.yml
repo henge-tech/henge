@@ -1,0 +1,54 @@
+---
+pattern: care_
+hi_scored_words_count: 23
+scored_words_count: 11
+total_words: 44
+score: 2712762
+score_per_word: 79787
+hi_scored_words:
+  care: 212
+  cared: 8184
+  career: 1064
+  careers: 5599
+  carefree: 36212
+  careful: 2728
+  carefully: 2259
+  caregiver: 19811
+  caregivers: 15740
+  caregiving: 40328
+  careless: 13964
+  carelessly: 29888
+  carelessness: 35760
+  carer: 29528
+  carers: 15822
+  cares: 5504
+  caress: 24621
+  caressed: 53368
+  caresses: 60118
+  caressing: 44427
+  caret: 56620
+  caretaker: 26700
+  caretakers: 48283
+scored_words:
+  careen: 130093
+  careened: 175536
+  careening: 111617
+  careens: 289234
+  careered: 141343
+  careering: 202060
+  careerism: 286329
+  careerist: 185427
+  careerists: 246568
+  carefulness: 175584
+  careworn: 192231
+not_scored_words:
+- CARE
+- Carew
+- Carey
+- careener
+- careerisms
+- carefuller
+- carefullest
+- caresser
+- caressive
+- carets

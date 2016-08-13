@@ -1,0 +1,30 @@
+---
+pattern: redo_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 1173371
+score_per_word: 106670
+hi_scored_words:
+  redo: 24886
+  redoing: 75774
+  redolent: 80203
+  redone: 46426
+  redouble: 88096
+  redoubled: 87241
+  redoubt: 81648
+  redoubtable: 93695
+scored_words:
+  redoubling: 226372
+  redoubts: 213325
+  redound: 155705
+not_scored_words:
+- Redon
+- redoes
+- redolence
+- redolently
+- redoubles
+- redoubtably
+- redounded
+- redounding
+- redounds

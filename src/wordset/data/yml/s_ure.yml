@@ -1,0 +1,36 @@
+---
+pattern: s_ure
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 26
+score: 930306
+score_per_word: 51683
+hi_scored_words:
+  scripture: 7008
+  sculpture: 6381
+  secure: 1178
+  seizure: 12186
+  sepulture: 80151
+  signature: 3759
+  silviculture: 84351
+  stature: 16414
+  stricture: 78185
+  structure: 1360
+  subculture: 42088
+  substructure: 51388
+  superstructure: 38797
+  sure: 311
+  suture: 28887
+scored_words:
+  sericulture: 178509
+  sinecure: 156833
+  subminiature: 142520
+not_scored_words:
+- Saussure
+- Scripture
+- Soleure
+- scissure
+- soilure
+- stirpiculture
+- supersedure
+- sylviculture

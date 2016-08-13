@@ -1,0 +1,32 @@
+---
+pattern: ma_ally
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 22
+score: 1205592
+score_per_word: 92737
+hi_scored_words:
+  magically: 27430
+  magnetically: 50331
+  majestically: 82896
+  manually: 11473
+  marginally: 26786
+  materially: 15321
+  mathematically: 29297
+  maximally: 55162
+scored_words:
+  macroscopically: 170585
+  magisterially: 211830
+  maniacally: 141515
+  manically: 251413
+  maternally: 131553
+not_scored_words:
+- macrocosmically
+- managerially
+- maritally
+- martially
+- masochistically
+- materialistically
+- maternalistically
+- matrilineally
+- matrimonially

@@ -1,0 +1,67 @@
+---
+pattern: dece_
+hi_scored_words_count: 21
+scored_words_count: 14
+total_words: 57
+score: 3024334
+score_per_word: 86409
+hi_scored_words:
+  decease: 59726
+  deceased: 7884
+  decedent: 38781
+  deceit: 20751
+  deceitful: 36123
+  deceive: 17748
+  deceived: 16525
+  deceiver: 57424
+  deceives: 95890
+  deceiving: 33743
+  deceleration: 47634
+  decency: 19673
+  decennial: 58289
+  decent: 4162
+  decently: 45940
+  decentralization: 26933
+  decentralized: 23187
+  deception: 11012
+  deceptions: 60104
+  deceptive: 19659
+  deceptively: 43001
+scored_words:
+  decedents: 120556
+  deceitfully: 143590
+  deceitfulness: 182416
+  deceits: 137102
+  deceivers: 112522
+  deceivingly: 307260
+  decelerate: 118431
+  decelerated: 147052
+  decelerates: 249467
+  decelerating: 129548
+  decelerations: 260233
+  decencies: 125859
+  decentralize: 108034
+  decentralizing: 138075
+not_scored_words:
+- DECed
+- December
+- Decembers
+- Decembrist
+- deceases
+- deceasing
+- decelerator
+- decelerators
+- deceleron
+- decemvir
+- decemvirate
+- decennaries
+- decennary
+- decennially
+- decennials
+- decennium
+- decenniums
+- decentness
+- decentralizes
+- deceptiveness
+- decerebrate
+- decern

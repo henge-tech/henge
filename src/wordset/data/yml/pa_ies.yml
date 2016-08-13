@@ -1,0 +1,45 @@
+---
+pattern: pa_ies
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 35
+score: 2021825
+score_per_word: 112323
+hi_scored_words:
+  paddies: 89209
+  pansies: 54048
+  panties: 10818
+  paramilitaries: 61737
+  parodies: 32288
+  particularities: 91543
+  parties: 1176
+  pasties: 65818
+  pastries: 28974
+  pathologies: 64224
+  patties: 45097
+scored_words:
+  palsies: 225268
+  pantries: 102167
+  paries: 243711
+  parities: 122583
+  parries: 200966
+  patisseries: 291576
+  patsies: 290622
+not_scored_words:
+- Paddies
+- pacifies
+- palatabilities
+- paleobiologies
+- paleobotanies
+- paleoclimatologies
+- paleogeographies
+- paleozoologies
+- palpabilities
+- pandowdies
+- panoplies
+- papacies
+- pappies
+- partridgeberries
+- passementeries
+- patriarchies
+- patrimonies

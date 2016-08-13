@@ -1,0 +1,27 @@
+---
+pattern: cap_ed
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 17
+score: 917083
+score_per_word: 76423
+hi_scored_words:
+  caparisoned: 76741
+  caped: 87158
+  capitalized: 19704
+  capitulated: 96539
+  capped: 18355
+  capsized: 63423
+  captained: 73098
+  captioned: 34849
+  captivated: 38184
+  captured: 4566
+scored_words:
+  capacitated: 212642
+  capered: 191824
+not_scored_words:
+- caponized
+- caprioled
+- capsulated
+- capsuled
+- capsulized

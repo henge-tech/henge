@@ -1,0 +1,25 @@
+---
+pattern: he_ter
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 477128
+score_per_word: 53014
+hi_scored_words:
+  headhunter: 52601
+  headmaster: 32587
+  headquarter: 46699
+  headwater: 92372
+  heater: 19438
+  helicopter: 10594
+  hereafter: 12005
+  hereinafter: 26434
+scored_words:
+  hexameter: 184398
+not_scored_words:
+- Hester
+- headwaiter
+- hectoliter
+- hectometer
+- heliometer
+- heptameter

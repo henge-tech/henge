@@ -1,0 +1,36 @@
+---
+pattern: curt_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 26
+score: 1462966
+score_per_word: 104497
+hi_scored_words:
+  curt: 17569
+  curtail: 36608
+  curtailed: 40271
+  curtailing: 78856
+  curtailment: 63718
+  curtain: 6550
+  curtains: 8308
+  curtly: 94094
+scored_words:
+  curtailments: 269532
+  curtails: 189334
+  curtained: 115118
+  curtilage: 146820
+  curtsied: 249293
+  curtsy: 146895
+not_scored_words:
+- Curt
+- Curtin
+- Curtis
+- Curtiss
+- curtaining
+- curtal
+- curtate
+- curter
+- curtest
+- curtness
+- curtsies
+- curtsying

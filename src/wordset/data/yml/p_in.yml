@@ -1,0 +1,84 @@
+---
+pattern: p_in
+hi_scored_words_count: 28
+scored_words_count: 22
+total_words: 74
+score: 5081831
+score_per_word: 101636
+hi_scored_words:
+  pain: 1068
+  paladin: 24975
+  paraffin: 28514
+  parkin: 43695
+  pectin: 50850
+  penguin: 14451
+  penicillin: 24170
+  pepsin: 82038
+  pertain: 26534
+  pidgin: 49490
+  pigskin: 56417
+  pin: 3543
+  pinyin: 45800
+  pipkin: 97737
+  pippin: 39149
+  plain: 1782
+  plantain: 45173
+  plugin: 7280
+  poplin: 63574
+  porcelain: 8396
+  porphyrin: 89915
+  powertrain: 53526
+  progestin: 67744
+  prolactin: 42307
+  protein: 7200
+  prothrombin: 68002
+  puffin: 34267
+  pumpkin: 12585
+scored_words:
+  palanquin: 154918
+  pancreatin: 207565
+  pangolin: 149977
+  pannikin: 295215
+  papain: 103670
+  patin: 168153
+  peneplain: 101131
+  phenacetin: 225223
+  phenolphthalein: 175042
+  phosphoprotein: 111969
+  picrotoxin: 241979
+  piggin: 190709
+  plasmin: 107404
+  polymyxin: 114058
+  precipitin: 155412
+  provitamin: 297255
+  psilocybin: 101522
+  purlin: 242729
+  purloin: 131633
+  pushpin: 277125
+  pyrethrin: 270622
+  pyroxylin: 168338
+not_scored_words:
+- PIN
+- Paricutin
+- Pekin
+- Pepin
+- Perrin
+- Petain
+- Pinyin
+- Pippin
+- Pontchartrain
+- Potemkin
+- Poussin
+- Previn
+- Pushkin
+- Putin
+- Pétain
+- palmitin
+- paracasein
+- phenformin
+- phthalein
+- pocosin
+- podophyllin
+- preordain
+- ptyalin
+- purpurin

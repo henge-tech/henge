@@ -1,0 +1,20 @@
+---
+pattern: i_tent
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 10
+score: 718749
+score_per_word: 71874
+hi_scored_words:
+  idempotent: 89778
+  impotent: 31964
+  inadvertent: 37005
+  incompetent: 17451
+  inconsistent: 16087
+  insistent: 41399
+  intent: 3916
+  intermittent: 14758
+scored_words:
+  impenitent: 185876
+  inexistent: 280515
+not_scored_words: []

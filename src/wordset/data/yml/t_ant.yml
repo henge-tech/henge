@@ -1,0 +1,25 @@
+---
+pattern: t_ant
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 989785
+score_per_word: 89980
+hi_scored_words:
+  tenant: 6858
+  termagant: 96422
+  tolerant: 13547
+  transplant: 15393
+  trenchant: 70837
+  triumphant: 19099
+  truant: 54782
+  tyrant: 18931
+scored_words:
+  titrant: 289144
+  toxicant: 120286
+  tremulant: 284486
+not_scored_words:
+- Thant
+- topgallant
+- transmigrant
+- tremolant

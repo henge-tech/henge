@@ -1,0 +1,30 @@
+---
+pattern: a_ary
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 20
+score: 1129378
+score_per_word: 75291
+hi_scored_words:
+  actuary: 41146
+  adversary: 18653
+  alimentary: 53839
+  ancillary: 19922
+  anniversary: 4676
+  antiquary: 82604
+  apiary: 92263
+  apothecary: 35093
+  arbitrary: 6416
+  auxiliary: 9800
+  aviary: 48592
+  axillary: 43795
+scored_words:
+  accretionary: 199947
+  alary: 318830
+  armillary: 153802
+not_scored_words:
+- abecedary
+- ambary
+- angary
+- antiphonary
+- antirevolutionary

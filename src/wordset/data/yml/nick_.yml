@@ -1,0 +1,35 @@
+---
+pattern: nick_
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 25
+score: 578121
+score_per_word: 44470
+hi_scored_words:
+  nick: 3500
+  nicked: 57887
+  nickel: 10253
+  nickelodeon: 26391
+  nickels: 33852
+  nicker: 87707
+  nickle: 62473
+  nickles: 81740
+  nickname: 7928
+  nicknamed: 31704
+  nicknames: 31914
+  nicks: 28867
+scored_words:
+  nicking: 113905
+not_scored_words:
+- Nick
+- Nickelodeon
+- Nicklaus
+- Nickolas
+- nickelic
+- nickeliferous
+- nickelodeons
+- nickelous
+- nickered
+- nickering
+- nickers
+- nicknaming

@@ -1,0 +1,41 @@
+---
+pattern: n_ent
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 31
+score: 1807614
+score_per_word: 120507
+hi_scored_words:
+  nascent: 33692
+  negligent: 20368
+  newsagent: 67162
+  nonexistent: 29150
+  nonpayment: 72234
+  nonresident: 38834
+  nonviolent: 33984
+  nourishment: 25632
+  nutrient: 13646
+scored_words:
+  noctilucent: 244012
+  nonadjacent: 306570
+  noncurrent: 151272
+  nonpermanent: 306495
+  nontransparent: 341066
+  nutriment: 123497
+not_scored_words:
+- nescient
+- nigrescent
+- nonabsorbent
+- nonalignment
+- nonbelligerent
+- noncoherent
+- nonconcurrent
+- nondevelopment
+- nonenforcement
+- nonequivalent
+- nonevent
+- nonfulfillment
+- nonindependent
+- nonpersistent
+- nonrecurrent
+- nonvirulent

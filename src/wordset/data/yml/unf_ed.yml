@@ -1,0 +1,43 @@
+---
+pattern: unf_ed
+hi_scored_words_count: 16
+scored_words_count: 13
+total_words: 33
+score: 3099279
+score_per_word: 106871
+hi_scored_words:
+  unfazed: 88904
+  unfettered: 36716
+  unfilled: 54679
+  unfiltered: 45080
+  unfinished: 11213
+  unfocused: 71242
+  unfolded: 28070
+  unforced: 84787
+  unformed: 97419
+  unfounded: 27849
+  unframed: 72839
+  unfriended: 94119
+  unfulfilled: 45085
+  unfunded: 44057
+  unfurled: 83620
+  unfurnished: 51811
+scored_words:
+  unfastened: 127269
+  unfathomed: 178905
+  unfed: 237148
+  unfeigned: 135751
+  unfenced: 203469
+  unfermented: 234570
+  unfertilized: 140138
+  unfired: 144002
+  unfitted: 183210
+  unfixed: 117982
+  unflavored: 146589
+  unfledged: 203308
+  unfrequented: 109448
+not_scored_words:
+- unfederated
+- unformulated
+- unfortified
+- unfrocked

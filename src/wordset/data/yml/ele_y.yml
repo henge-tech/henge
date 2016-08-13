@@ -1,0 +1,41 @@
+---
+pattern: ele_y
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 31
+score: 2638699
+score_per_word: 119940
+hi_scored_words:
+  electrically: 29068
+  electricity: 4182
+  electrify: 96491
+  electrocardiography: 79991
+  electrochemistry: 66885
+  electroencephalography: 83765
+  electromyography: 87924
+  electronically: 7872
+  electrophysiology: 62808
+  elegantly: 23652
+  elegy: 39620
+  elementary: 6407
+scored_words:
+  electability: 257471
+  electorally: 215854
+  electrocautery: 247320
+  electrochemically: 211899
+  electromagnetically: 230287
+  electrostatically: 160102
+  electrosurgery: 226790
+  electrotechnology: 138558
+  electrotherapy: 129456
+  eleemosynary: 232297
+not_scored_words:
+- electrobiology
+- electrolytically
+- electrometallurgy
+- electrophotography
+- electuary
+- elegancy
+- elegiacally
+- elementally
+- elementarily

@@ -1,0 +1,50 @@
+---
+pattern: o_ce
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 40
+score: 1873496
+score_per_word: 74939
+hi_scored_words:
+  obedience: 9036
+  obeisance: 76257
+  observance: 17485
+  obsolescence: 38539
+  occurrence: 6445
+  office: 256
+  omnipotence: 49544
+  omnipresence: 93894
+  omniscience: 62910
+  once: 284
+  opulence: 45016
+  ordinance: 7236
+  ordnance: 17639
+  orifice: 29122
+  ounce: 9767
+  outpace: 69807
+  outsource: 26999
+scored_words:
+  opalescence: 215654
+  ordonnance: 111763
+  outdistance: 130414
+  overabundance: 109856
+  overbalance: 147428
+  overconfidence: 106495
+  overindulgence: 190683
+  overproduce: 300967
+not_scored_words:
+- OpenOffice
+- obduce
+- obmutescence
+- obsolesce
+- omnicompetence
+- opalesce
+- outbalance
+- outface
+- outplace
+- outproduce
+- outrace
+- overdependence
+- overinsistence
+- overnice
+- overprice

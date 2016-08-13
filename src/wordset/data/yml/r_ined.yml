@@ -1,0 +1,34 @@
+---
+pattern: r_ined
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 24
+score: 1317264
+score_per_word: 77486
+hi_scored_words:
+  rained: 26578
+  reclined: 92033
+  redefined: 29756
+  reexamined: 91972
+  refined: 6288
+  refrained: 49446
+  regained: 19681
+  reined: 91183
+  rejoined: 28900
+  remained: 2522
+  restrained: 16316
+  retained: 5069
+  ruined: 8981
+scored_words:
+  recombined: 124061
+  redetermined: 279596
+  redlined: 328667
+  retrained: 116215
+not_scored_words:
+- rattlebrained
+- reattained
+- reexplained
+- relined
+- repined
+- resined
+- rosined

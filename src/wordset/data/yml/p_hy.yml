@@ -1,0 +1,49 @@
+---
+pattern: p_hy
+hi_scored_words_count: 11
+scored_words_count: 12
+total_words: 39
+score: 2422310
+score_per_word: 105317
+hi_scored_words:
+  patchy: 29554
+  patriarchy: 39870
+  peachy: 40187
+  philosophy: 1877
+  photography: 7327
+  pithy: 51481
+  pornography: 13081
+  praiseworthy: 51172
+  preachy: 81057
+  punchy: 63563
+  pushy: 47590
+scored_words:
+  palaeography: 200375
+  paleogeography: 236870
+  paleography: 234645
+  paunchy: 193461
+  petrography: 153968
+  photolithography: 115157
+  photomicrography: 193374
+  physiography: 153822
+  pitchy: 101668
+  plushy: 112058
+  psychopathy: 113315
+  pyrography: 186838
+not_scored_words:
+- paleontography
+- pansophy
+- pentarchy
+- phonography
+- photofluorography
+- phototelegraphy
+- phototopography
+- phototypography
+- photozincography
+- phytogeography
+- phytography
+- planography
+- plashy
+- poachy
+- polymathy
+- pyelography

@@ -1,0 +1,50 @@
+---
+pattern: ami_
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 40
+score: 1437385
+score_per_word: 65335
+hi_scored_words:
+  ami: 14563
+  amiable: 28770
+  amicable: 40543
+  amicably: 59999
+  amid: 7935
+  amide: 45580
+  amides: 91642
+  amidst: 12942
+  amie: 48533
+  amigo: 22439
+  amigos: 26753
+  amine: 31732
+  amines: 44599
+  amino: 10695
+  amir: 25677
+  amiss: 35284
+  amity: 34786
+scored_words:
+  amiability: 143501
+  amiably: 101085
+  amidase: 211839
+  amidships: 104399
+  aminopyrine: 294089
+not_scored_words:
+- Amie
+- Amiens
+- Amiga
+- Amin
+- Amis
+- Amish
+- amiableness
+- amiablenesses
+- amianthus
+- amicability
+- amice
+- amidship
+- amimia
+- aminoplast
+- aminopyrines
+- amirs
+- amitoses
+- amitosis

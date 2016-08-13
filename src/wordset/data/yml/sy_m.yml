@@ -1,0 +1,29 @@
+---
+pattern: sy_m
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 820157
+score_per_word: 68346
+hi_scored_words:
+  syllogism: 63923
+  sym: 35032
+  symbolism: 17942
+  symposium: 16522
+  symptom: 10183
+  syncretism: 93936
+  synergism: 88429
+  synonym: 18693
+  system: 225
+scored_words:
+  synchronism: 140318
+  syncytium: 216851
+  syndicalism: 118103
+not_scored_words:
+- Symbolism
+- Syncom
+- sybaritism
+- syconium
+- syllabism
+- syllabogram
+- systematism

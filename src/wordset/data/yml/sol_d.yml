@@ -1,0 +1,24 @@
+---
+pattern: sol_d
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 14
+score: 1247826
+score_per_word: 95986
+hi_scored_words:
+  sold: 1261
+  soldered: 51159
+  soled: 90892
+  solenoid: 30191
+  solicited: 20404
+  solid: 1665
+  solidified: 48882
+  solved: 6521
+scored_words:
+  solaced: 181063
+  soldiered: 209982
+  solemnized: 134666
+  soliloquized: 276510
+  soloed: 194630
+not_scored_words:
+- solemnified

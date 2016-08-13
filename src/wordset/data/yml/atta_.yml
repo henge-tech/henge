@@ -1,0 +1,42 @@
+---
+pattern: atta_
+hi_scored_words_count: 23
+scored_words_count: 5
+total_words: 32
+score: 1502833
+score_per_word: 53672
+hi_scored_words:
+  attaboy: 93719
+  attach: 6166
+  attache: 40120
+  attached: 2068
+  attaches: 21960
+  attaching: 18730
+  attachment: 3986
+  attachments: 10016
+  attaché: 40680
+  attack: 1229
+  attacked: 5034
+  attacker: 17680
+  attackers: 20898
+  attacking: 8405
+  attacks: 2869
+  attain: 9118
+  attainable: 32127
+  attained: 8775
+  attaining: 20186
+  attainment: 12256
+  attainments: 58417
+  attains: 37199
+  attar: 82335
+scored_words:
+  attachable: 102363
+  attachés: 153891
+  attainability: 333389
+  attainder: 118080
+  attainted: 241137
+not_scored_words:
+- attaint
+- attainting
+- attaints
+- attainture

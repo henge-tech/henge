@@ -1,0 +1,40 @@
+---
+pattern: corr_s
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 30
+score: 2032066
+score_per_word: 96765
+hi_scored_words:
+  corrals: 97243
+  corrections: 5608
+  correctness: 14314
+  corrects: 36668
+  correlates: 24797
+  correlations: 14802
+  correspondences: 48406
+  correspondents: 19711
+  corresponds: 9171
+  corridors: 16326
+  corroborates: 87991
+  corruptions: 74972
+  corrupts: 54625
+scored_words:
+  correctives: 286363
+  correctors: 139602
+  corridas: 141373
+  corries: 178875
+  corrodes: 189171
+  corrosives: 200218
+  corrugations: 204812
+  corruptness: 187018
+not_scored_words:
+- Corrientes
+- corrades
+- corrasions
+- correctitudes
+- correlatives
+- corroborations
+- corroborators
+- corrosiveness
+- corrugates

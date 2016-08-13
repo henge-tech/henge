@@ -1,0 +1,40 @@
+---
+pattern: h_ring
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 30
+score: 1704487
+score_per_word: 85224
+hi_scored_words:
+  hammering: 31107
+  hampering: 68677
+  hamstring: 37874
+  handspring: 38519
+  hankering: 53914
+  harboring: 52129
+  haring: 63436
+  havering: 58422
+  hearing: 1409
+  herring: 15650
+  hindering: 46197
+  hiring: 7691
+  hollering: 79407
+  honoring: 22940
+  hovering: 25388
+scored_words:
+  hectoring: 175014
+  hoovering: 242504
+  humoring: 243980
+  hungering: 150107
+  hunkering: 290122
+not_scored_words:
+- Havering
+- Herring
+- hairspring
+- haltering
+- headquartering
+- headspring
+- helicoptering
+- holstering
+- homering
+- huckstering

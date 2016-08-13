@@ -1,0 +1,28 @@
+---
+pattern: _ixed
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 990761
+score_per_word: 76212
+hi_scored_words:
+  affixed: 28254
+  fixed: 1107
+  intermixed: 77251
+  mixed: 2054
+  prefixed: 34092
+  remixed: 31135
+  transfixed: 67870
+  unmixed: 68193
+scored_words:
+  admixed: 208012
+  nixed: 111405
+  premixed: 103760
+  suffixed: 139646
+  unfixed: 117982
+not_scored_words:
+- basifixed
+- bollixed
+- commixed
+- immixed
+- infixed

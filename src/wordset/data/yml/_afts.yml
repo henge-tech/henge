@@ -1,0 +1,37 @@
+---
+pattern: _afts
+hi_scored_words_count: 8
+scored_words_count: 11
+total_words: 27
+score: 2620162
+score_per_word: 137903
+hi_scored_words:
+  camshafts: 97425
+  crafts: 8339
+  drafts: 14749
+  grafts: 36099
+  handicrafts: 31182
+  overdrafts: 74785
+  rafts: 37803
+  shafts: 22505
+scored_words:
+  autografts: 292447
+  crankshafts: 127032
+  downdrafts: 303499
+  driveshafts: 211221
+  handcrafts: 104620
+  hovercrafts: 196538
+  krafts: 266169
+  needlecrafts: 239704
+  spacecrafts: 200714
+  updrafts: 214162
+  wafts: 141169
+not_scored_words:
+- aftershafts
+- engrafts
+- hafts
+- heterografts
+- homografts
+- ingrafts
+- priestcrafts
+- redrafts

@@ -1,0 +1,64 @@
+---
+pattern: en_ent
+hi_scored_words_count: 27
+scored_words_count: 12
+total_words: 54
+score: 2831842
+score_per_word: 72611
+hi_scored_words:
+  enactment: 16080
+  encampment: 35119
+  enchantment: 23244
+  encouragement: 8267
+  encroachment: 32574
+  endangerment: 67430
+  endearment: 65456
+  endorsement: 13760
+  endowment: 12592
+  enforcement: 4444
+  engagement: 3791
+  enhancement: 6498
+  enjoyment: 7126
+  enlargement: 8780
+  enlightenment: 11379
+  enlistment: 34268
+  enrichment: 19156
+  enrollment: 5213
+  enslavement: 56607
+  entailment: 92269
+  entanglement: 41015
+  entertainment: 1839
+  entitlement: 16615
+  entrainment: 62095
+  entrapment: 46164
+  envelopment: 98460
+  environment: 2291
+scored_words:
+  encasement: 144570
+  encipherment: 279092
+  encirclement: 138366
+  enfranchisement: 119867
+  engorgement: 158550
+  engrossment: 171034
+  engulfment: 261506
+  enshrinement: 235020
+  enthronement: 169126
+  enticement: 112243
+  entombment: 148528
+  entrenchment: 101408
+not_scored_words:
+- Enlightenment
+- enchainment
+- encompassment
+- encystment
+- enfeeblement
+- enjambment
+- enjoinment
+- enlivenment
+- enmeshment
+- ennoblement
+- ensnarement
+- entablement
+- enthrallment
+- entrancement
+- entreatment

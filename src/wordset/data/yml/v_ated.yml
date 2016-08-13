@@ -1,0 +1,27 @@
+---
+pattern: v_ated
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 17
+score: 970268
+score_per_word: 74636
+hi_scored_words:
+  vacated: 26856
+  vaccinated: 36544
+  validated: 13939
+  variegated: 34442
+  vegetated: 64321
+  venerated: 51760
+  ventilated: 33206
+  vibrated: 89076
+  vindicated: 41330
+  violated: 9039
+  vitiated: 96565
+scored_words:
+  vacillated: 245930
+  vociferated: 227260
+not_scored_words:
+- valuated
+- vellicated
+- vesiculated
+- vituperated

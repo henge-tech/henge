@@ -1,0 +1,63 @@
+---
+pattern: p_gy
+hi_scored_words_count: 22
+scored_words_count: 11
+total_words: 53
+score: 3021676
+score_per_word: 91565
+hi_scored_words:
+  paleontology: 30572
+  parapsychology: 59254
+  parasitology: 41506
+  pathology: 13328
+  pedagogy: 21241
+  petrology: 63619
+  pharmacology: 14613
+  phenomenology: 33401
+  philology: 42975
+  phonology: 34616
+  phraseology: 64002
+  phrenology: 85388
+  physiology: 8642
+  phytopathology: 99033
+  piggy: 21638
+  porgy: 71609
+  prodigy: 19023
+  psychology: 4041
+  psychopathology: 42999
+  psychopharmacology: 57180
+  psychophysiology: 87243
+  pudgy: 74825
+scored_words:
+  paleobiology: 117300
+  paleoclimatology: 179453
+  paleoecology: 148336
+  pedology: 266256
+  penology: 117693
+  phenology: 113943
+  phycology: 222869
+  pomology: 308674
+  primatology: 150575
+  proctology: 287898
+  psychobiology: 117931
+not_scored_words:
+- Peggy
+- paleethnology
+- paleopsychology
+- paleozoology
+- papyrology
+- patrology
+- pharyngology
+- phytobiology
+- phytology
+- phytosociology
+- pneumatology
+- pogy
+- posology
+- protozoology
+- psephology
+- psychotechnology
+- pteridology
+- pungy
+- pyrology
+- pyrometallurgy

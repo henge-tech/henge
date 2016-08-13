@@ -1,0 +1,43 @@
+---
+pattern: soun_
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 33
+score: 1969476
+score_per_word: 75749
+hi_scored_words:
+  sound: 461
+  soundbite: 92001
+  soundboard: 54321
+  soundcheck: 67516
+  sounded: 7013
+  sounder: 41378
+  sounders: 58272
+  sounding: 8620
+  soundings: 42276
+  soundly: 37878
+  soundness: 35089
+  soundproof: 65656
+  soundproofing: 80909
+  sounds: 1561
+  soundscape: 72776
+  soundscapes: 70593
+  soundstage: 64536
+  soundtrack: 5104
+  soundtracks: 13528
+scored_words:
+  soundalike: 243593
+  soundbites: 102651
+  soundboards: 148620
+  soundest: 160054
+  soundless: 115716
+  soundlessly: 241564
+  soundproofed: 137790
+not_scored_words:
+- Sound
+- soundable
+- soundalikes
+- soundbar
+- soundbars
+- soundchecks
+- soundproofs

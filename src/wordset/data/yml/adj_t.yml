@@ -1,0 +1,20 @@
+---
+pattern: adj_t
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 173818
+score_per_word: 21727
+hi_scored_words:
+  adjacent: 5170
+  adjoint: 48577
+  adjournment: 23798
+  adjunct: 18003
+  adjust: 6541
+  adjustment: 5618
+  adjutant: 32556
+  adjuvant: 33555
+scored_words: {}
+not_scored_words:
+- adjt
+- adjudgment

@@ -1,0 +1,48 @@
+---
+pattern: b_ker
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 38
+score: 2542936
+score_per_word: 97805
+hi_scored_words:
+  backer: 37883
+  backpacker: 35344
+  baker: 4336
+  banker: 11553
+  barker: 14491
+  beaker: 33607
+  berserker: 51089
+  bicker: 67305
+  biker: 17666
+  blacker: 48487
+  blinker: 80390
+  blocker: 16244
+  bookmaker: 39088
+  breaker: 17047
+  broker: 7536
+  bunker: 17525
+scored_words:
+  bedmaker: 328172
+  blanker: 218392
+  bleaker: 167318
+  bloodsucker: 164887
+  boilermaker: 100902
+  bookmarker: 264363
+  brisker: 179273
+  bucker: 305474
+  bushwhacker: 204573
+  busker: 109991
+not_scored_words:
+- Baedeker
+- Baker
+- Banneker
+- Barker
+- Becker
+- Booker
+- Bunker
+- backbreaker
+- balker
+- bilker
+- boneshaker
+- bootlicker

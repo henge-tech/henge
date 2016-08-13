@@ -1,0 +1,71 @@
+---
+pattern: p_ize
+hi_scored_words_count: 9
+scored_words_count: 14
+total_words: 61
+score: 3011413
+score_per_word: 130931
+hi_scored_words:
+  patronize: 52847
+  penalize: 49948
+  personalize: 27333
+  plagiarize: 86333
+  popularize: 76348
+  prioritize: 26123
+  privatize: 56297
+  prize: 2750
+  publicize: 35316
+scored_words:
+  parallelize: 214454
+  parametrize: 244662
+  parasitize: 276949
+  particularize: 151683
+  pasteurize: 142366
+  philosophize: 180550
+  polarize: 126082
+  politicize: 132573
+  polymerize: 212106
+  pressurize: 147689
+  professionalize: 250446
+  propagandize: 278243
+  proselytize: 103176
+  pulverize: 137139
+not_scored_words:
+- paganize
+- palatalize
+- panegyrize
+- parabolize
+- parenthesize
+- passivize
+- pastoralize
+- pauperize
+- pectize
+- peculiarize
+- pedestrianize
+- pelletize
+- peptize
+- peptonize
+- peripheralize
+- peroxidize
+- philanthropize
+- phlebotomize
+- phosphatize
+- photosensitize
+- photosynthesize
+- picturize
+- pilgrimize
+- pintsize
+- plasticize
+- platinize
+- platitudinize
+- pluralize
+- poeticize
+- poetize
+- polemicize
+- pollinize
+- posturize
+- preconize
+- previze
+- prologize
+- prologuize
+- psychologize

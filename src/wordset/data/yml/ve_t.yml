@@ -1,0 +1,29 @@
+---
+pattern: ve_t
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 741007
+score_per_word: 57000
+hi_scored_words:
+  vehement: 50461
+  velvet: 6642
+  vent: 7970
+  ventriloquist: 64247
+  verdant: 43871
+  verdict: 8573
+  vert: 24762
+  vest: 10254
+  vestment: 81086
+  vet: 11960
+scored_words:
+  veriest: 107192
+  vervet: 178137
+  vesicant: 145852
+not_scored_words:
+- Vermont
+- veinlet
+- verbalist
+- verist
+- verst
+- vexillologist

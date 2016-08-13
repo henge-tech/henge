@@ -1,0 +1,31 @@
+---
+pattern: peda_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 21
+score: 1681860
+score_per_word: 105116
+hi_scored_words:
+  pedagogic: 52990
+  pedagogical: 22756
+  pedagogue: 74727
+  pedagogy: 21241
+  pedal: 16184
+  pedaling: 73266
+  pedals: 26757
+  pedant: 60968
+  pedantic: 27185
+  pedantry: 74640
+scored_words:
+  pedagogically: 160871
+  pedagogics: 240081
+  pedagogues: 216282
+  pedaled: 164939
+  pedalo: 260791
+  pedants: 188182
+not_scored_words:
+- pedalfer
+- pedalos
+- pedantically
+- pedanticism
+- pedate

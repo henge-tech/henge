@@ -1,0 +1,31 @@
+---
+pattern: i_acy
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 1033761
+score_per_word: 93978
+hi_scored_words:
+  illegitimacy: 92213
+  illiteracy: 35408
+  immediacy: 42825
+  inaccuracy: 36871
+  inadequacy: 37422
+  indeterminacy: 72029
+  intimacy: 12254
+  intricacy: 96501
+scored_words:
+  indelicacy: 165210
+  inefficacy: 288859
+  intestacy: 154169
+not_scored_words:
+- immaculacy
+- immoderacy
+- importunacy
+- inarticulacy
+- innumeracy
+- intermediacy
+- inveteracy
+- inviolacy
+- isocracy
+- itineracy

@@ -1,0 +1,44 @@
+---
+pattern: _itor
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 34
+score: 1648071
+score_per_word: 68669
+hi_scored_words:
+  auditor: 12270
+  capacitor: 21713
+  competitor: 12273
+  compositor: 64716
+  creditor: 15590
+  depositor: 56638
+  editor: 1710
+  exhibitor: 29248
+  inhibitor: 12984
+  inquisitor: 44084
+  janitor: 27485
+  monitor: 6427
+  progenitor: 36391
+  solicitor: 12209
+  suitor: 50601
+  traitor: 18404
+  visitor: 3338
+scored_words:
+  copyeditor: 206964
+  elicitor: 237192
+  expositor: 116051
+  genitor: 164462
+  inheritor: 121261
+  ovipositor: 250812
+  servitor: 125248
+not_scored_words:
+- apparitor
+- excitor
+- faitor
+- heritor
+- prepositor
+- primogenitor
+- prohibitor
+- subeditor
+- traditor
+- vasoinhibitor

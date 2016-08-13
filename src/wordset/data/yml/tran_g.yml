@@ -1,0 +1,36 @@
+---
+pattern: tran_g
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 26
+score: 1497154
+score_per_word: 83175
+hi_scored_words:
+  transacting: 77102
+  transcending: 45187
+  transcribing: 53205
+  transferring: 12372
+  transforming: 13076
+  transiting: 74783
+  transitioning: 35042
+  translating: 15605
+  transmitting: 16133
+  transplanting: 57211
+  transporting: 16399
+  transposing: 93984
+scored_words:
+  tranquilizing: 157959
+  transfixing: 189335
+  transgressing: 126961
+  transliterating: 150028
+  transmuting: 220458
+  transpiring: 142314
+not_scored_words:
+- transecting
+- transfiguring
+- transfusing
+- transistorizing
+- transmigrating
+- transmogrifying
+- transshipping
+- transuding

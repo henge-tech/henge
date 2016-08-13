@@ -1,0 +1,40 @@
+---
+pattern: mou_s
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 30
+score: 2050678
+score_per_word: 97651
+hi_scored_words:
+  mounds: 22731
+  mountaineers: 30088
+  mountainous: 19831
+  mountains: 2320
+  mounties: 98331
+  mountings: 58738
+  mounts: 11437
+  mourners: 47427
+  mourns: 50630
+  mouses: 88070
+  mouthfuls: 61347
+  mouthpieces: 63839
+  mouths: 12332
+scored_words:
+  mountainsides: 174821
+  mountaintops: 130825
+  mountebanks: 146233
+  mournfulness: 299192
+  mousetraps: 272334
+  mousses: 120015
+  mouthparts: 153625
+  mouthwashes: 186512
+not_scored_words:
+- Mounties
+- moues
+- mouflons
+- moujiks
+- mounters
+- mousers
+- mousiness
+- moussakas
+- mouthiness

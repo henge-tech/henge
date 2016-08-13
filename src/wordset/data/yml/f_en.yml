@@ -1,0 +1,60 @@
+---
+pattern: f_en
+hi_scored_words_count: 25
+scored_words_count: 7
+total_words: 50
+score: 2129238
+score_per_word: 66538
+hi_scored_words:
+  fallen: 4369
+  fasten: 24016
+  fatten: 64003
+  fen: 24968
+  fibrinogen: 50038
+  fifteen: 4399
+  firemen: 28785
+  fishermen: 11727
+  flamen: 97604
+  flatten: 34948
+  flaxen: 88870
+  foramen: 57420
+  forbidden: 6015
+  foremen: 60785
+  foreseen: 22739
+  forgiven: 14772
+  forgotten: 2525
+  forsaken: 29238
+  fourteen: 7561
+  freedmen: 61590
+  freemen: 58189
+  freshen: 56552
+  freshmen: 19133
+  frighten: 25291
+  frozen: 4401
+scored_words:
+  fedayeen: 136011
+  fellaheen: 302149
+  fellowmen: 196905
+  foemen: 173304
+  footmen: 111518
+  frontiersmen: 140003
+  frostbitten: 209410
+not_scored_words:
+- Finsen
+- Flodden
+- Frauen
+- Frenchmen
+- Frenchwomen
+- Fukien
+- ferrymen
+- fieldsmen
+- firescreen
+- firewarden
+- flagmen
+- foreshorten
+- foretoken
+- forewomen
+- freedwomen
+- frogmen
+- frontierswomen
+- funnymen

@@ -1,0 +1,39 @@
+---
+pattern: to_l
+hi_scored_words_count: 20
+scored_words_count: 1
+total_words: 29
+score: 1106378
+score_per_word: 52684
+hi_scored_words:
+  toadstool: 81959
+  tocopherol: 58430
+  toenail: 55331
+  toil: 25708
+  toll: 5299
+  tonal: 27823
+  tonsil: 63667
+  tool: 2875
+  topical: 17812
+  topographical: 35827
+  topological: 24676
+  topsail: 60270
+  topsoil: 46524
+  toroidal: 61673
+  torrential: 51779
+  torsional: 60491
+  tortoiseshell: 75990
+  total: 567
+  towel: 8863
+  toxicological: 49092
+scored_words:
+  tolyl: 291722
+not_scored_words:
+- TOEFL
+- Toul
+- toilful
+- toluol
+- tomfool
+- tonsorial
+- topfull
+- tormentil

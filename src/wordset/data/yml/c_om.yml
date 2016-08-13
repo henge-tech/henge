@@ -1,0 +1,32 @@
+---
+pattern: c_om
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 22
+score: 905844
+score_per_word: 75487
+hi_scored_words:
+  cardamom: 44294
+  chatroom: 33416
+  classroom: 10516
+  cloakroom: 50561
+  com: 2605
+  condom: 16728
+  courtroom: 23747
+  custom: 1435
+scored_words:
+  carom: 120163
+  chiefdom: 164534
+  clubroom: 211585
+  coom: 226260
+not_scored_words:
+- Christendom
+- Chrysostom
+- Com
+- celom
+- checkerbloom
+- checkroom
+- chrisom
+- cimbalom
+- coatroom
+- czardom

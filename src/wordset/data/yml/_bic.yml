@@ -1,0 +1,53 @@
+---
+pattern: _bic
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 43
+score: 1927627
+score_per_word: 83809
+hi_scored_words:
+  acerbic: 78378
+  aerobic: 20649
+  anaerobic: 26299
+  ascorbic: 39937
+  claustrophobic: 58896
+  cubic: 8964
+  homophobic: 37589
+  hydrophobic: 31587
+  iambic: 66099
+  limbic: 63029
+  monosyllabic: 97662
+  orthorhombic: 91535
+  phobic: 67701
+  pubic: 24643
+  syllabic: 89121
+  xenophobic: 63457
+scored_words:
+  agoraphobic: 119811
+  alembic: 119288
+  amebic: 176449
+  amoebic: 147713
+  cherubic: 174007
+  polysyllabic: 189915
+  rhombic: 134898
+not_scored_words:
+- Anglophobic
+- Arabic
+- Bic
+- Islamophobic
+- acrophobic
+- anerobic
+- asyllabic
+- columbic
+- decasyllabic
+- disyllabic
+- dithyrambic
+- ephebic
+- imparisyllabic
+- lyophobic
+- microbic
+- niobic
+- octosyllabic
+- pentasyllabic
+- plumbic
+- technophobic

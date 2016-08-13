@@ -1,0 +1,43 @@
+---
+pattern: _eler
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 33
+score: 1564168
+score_per_word: 97760
+hi_scored_words:
+  feeler: 75147
+  heeler: 94605
+  jeweler: 31230
+  labeler: 70758
+  leveler: 77667
+  modeler: 45935
+  peeler: 46741
+  remodeler: 76317
+  shoveler: 97411
+  traveler: 6793
+  wheeler: 10861
+scored_words:
+  crueler: 255347
+  dueler: 241845
+  reeler: 151962
+  spieler: 128016
+  yodeler: 153533
+not_scored_words:
+- Wheeler
+- canceler
+- chiseler
+- driveler
+- enameler
+- fueler
+- groveler
+- hosteler
+- libeler
+- quarreler
+- raveler
+- reveler
+- sniveler
+- snorkeler
+- teaseler
+- trammeler
+- tunneler

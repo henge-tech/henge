@@ -1,0 +1,36 @@
+---
+pattern: i_ency
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 26
+score: 1673618
+score_per_word: 98448
+hi_scored_words:
+  immunodeficiency: 24856
+  impotency: 97867
+  inconsistency: 19147
+  incumbency: 90590
+  indecency: 52485
+  inefficiency: 34769
+  insolvency: 29750
+  insufficiency: 28971
+  insurgency: 22185
+scored_words:
+  inadvertency: 189424
+  inclemency: 139743
+  incompetency: 107579
+  independency: 147628
+  infrequency: 202449
+  innocency: 252803
+  interdependency: 108465
+  intermittency: 124907
+not_scored_words:
+- immanency
+- impermanency
+- incipiency
+- incoherency
+- inconveniency
+- inexpediency
+- inherency
+- insistency
+- intransigency

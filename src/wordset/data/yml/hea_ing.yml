@@ -1,0 +1,28 @@
+---
+pattern: hea_ing
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 18
+score: 1036607
+score_per_word: 74043
+hi_scored_words:
+  heading: 5126
+  headlining: 49950
+  healing: 4251
+  heaping: 59181
+  hearing: 1409
+  heartbreaking: 37998
+  heartening: 61382
+  heartwarming: 41117
+  heating: 5538
+  heaving: 45418
+scored_words:
+  headbanging: 187754
+  headhunting: 146884
+  hearkening: 242817
+  heartrending: 147782
+not_scored_words:
+- headbutting
+- headquartering
+- headspring
+- heartburning

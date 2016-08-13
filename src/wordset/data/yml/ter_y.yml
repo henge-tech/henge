@@ -1,0 +1,31 @@
+---
+pattern: ter_y
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 21
+score: 1152793
+score_per_word: 72049
+hi_scored_words:
+  teratology: 90481
+  tercentenary: 76909
+  terminally: 35096
+  terminology: 14182
+  ternary: 47446
+  terribly: 9696
+  terrify: 61475
+  territory: 2324
+  terry: 5629
+  tertiary: 15698
+scored_words:
+  termly: 161600
+  terrifically: 111037
+  terrifyingly: 145137
+  territoriality: 101644
+  territorially: 129350
+  tersely: 145089
+not_scored_words:
+- Territory
+- Terry
+- Tertiary
+- terminologically
+- terrestrially

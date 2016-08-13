@@ -1,0 +1,32 @@
+---
+pattern: id_y
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 1008016
+score_per_word: 77539
+hi_scored_words:
+  ideally: 14894
+  identically: 44893
+  identify: 2138
+  identity: 2951
+  ideologically: 50700
+  ideology: 12521
+  idiocy: 36731
+  idly: 35055
+  idolatry: 31373
+scored_words:
+  ideality: 179405
+  identifiably: 248610
+  idiosyncrasy: 109173
+  idiotically: 239572
+not_scored_words:
+- idealistically
+- ideogrammatically
+- ideography
+- idiocrasy
+- idiomatically
+- idiopathy
+- idiosyncratically
+- idolatrously
+- idyllically

@@ -1,0 +1,31 @@
+---
+pattern: c_ogy
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 21
+score: 1138056
+score_per_word: 87542
+hi_scored_words:
+  cardiology: 20574
+  christology: 72472
+  chronology: 15727
+  climatology: 42666
+  cosmetology: 43827
+  cosmology: 22699
+  criminology: 24357
+  cryptology: 75649
+  cytology: 30125
+scored_words:
+  campanology: 205179
+  conchology: 119704
+  craniology: 223977
+  cryobiology: 241100
+not_scored_words:
+- Christology
+- cacology
+- carpology
+- cetology
+- chromatology
+- coniology
+- coprology
+- cryology

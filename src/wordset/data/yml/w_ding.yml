@@ -1,0 +1,29 @@
+---
+pattern: w_ding
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 19
+score: 1081181
+score_per_word: 67573
+hi_scored_words:
+  wading: 25781
+  warding: 81188
+  wedding: 1591
+  weeding: 36597
+  welding: 15362
+  wielding: 33553
+  wilding: 57110
+  winding: 9282
+  withholding: 17089
+  withstanding: 54018
+  wording: 15102
+  wounding: 29151
+scored_words:
+  wadding: 107097
+  weekending: 267371
+  wending: 185571
+  wooding: 145318
+not_scored_words:
+- waterboarding
+- weatherboarding
+- wingding

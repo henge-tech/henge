@@ -1,0 +1,66 @@
+---
+pattern: _opic
+hi_scored_words_count: 21
+scored_words_count: 15
+total_words: 56
+score: 3799098
+score_per_word: 105530
+hi_scored_words:
+  anisotropic: 39304
+  arthroscopic: 72131
+  biopic: 53538
+  ectopic: 37624
+  endoscopic: 35183
+  entropic: 96597
+  isotopic: 35319
+  isotropic: 35836
+  kaleidoscopic: 96544
+  laparoscopic: 37155
+  macroscopic: 35873
+  microscopic: 16296
+  misanthropic: 89622
+  myopic: 48811
+  philanthropic: 24696
+  psychotropic: 47490
+  spectroscopic: 32995
+  stereoscopic: 55396
+  telescopic: 35596
+  topic: 2251
+  tropic: 27808
+scored_words:
+  adrenocorticotropic: 192160
+  allotropic: 238894
+  anthropic: 106071
+  fluoroscopic: 130061
+  gyroscopic: 104584
+  hygroscopic: 108596
+  hyperopic: 305077
+  inotropic: 102620
+  isentropic: 109969
+  lipotropic: 291003
+  orthotropic: 245756
+  scotopic: 279598
+  stroboscopic: 235986
+  submicroscopic: 273532
+  subtopic: 119126
+not_scored_words:
+- Aesopic
+- Ethiopic
+- apheliotropic
+- electroscopic
+- entopic
+- eolotropic
+- gonadotropic
+- hydropic
+- idiotropic
+- lycanthropic
+- metopic
+- oscilloscopic
+- periscopic
+- phototropic
+- presbyopic
+- radioscopic
+- subtropic
+- theanthropic
+- therianthropic
+- ultramicroscopic

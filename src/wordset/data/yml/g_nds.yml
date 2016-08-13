@@ -1,0 +1,25 @@
+---
+pattern: g_nds
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 1008981
+score_per_word: 84081
+hi_scored_words:
+  garlands: 43223
+  girlfriends: 19559
+  glands: 15735
+  grands: 36943
+  grasslands: 28657
+  greyhounds: 40914
+  grinds: 45841
+  grounds: 3207
+scored_words:
+  gerunds: 183642
+  gourmands: 263728
+  graduands: 217923
+  grandstands: 109609
+not_scored_words:
+- Gonds
+- godsends
+- greensands

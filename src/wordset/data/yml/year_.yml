@@ -1,0 +1,25 @@
+---
+pattern: year_
+hi_scored_words_count: 13
+scored_words_count: 0
+total_words: 15
+score: 582830
+score_per_word: 44833
+hi_scored_words:
+  year: 125
+  yearbook: 16962
+  yearbooks: 48126
+  yearling: 42506
+  yearlings: 86041
+  yearlong: 82325
+  yearly: 7296
+  yearn: 37294
+  yearned: 66765
+  yearning: 28542
+  yearnings: 92804
+  yearns: 73926
+  years: 118
+scored_words: {}
+not_scored_words:
+- yearlies
+- yearningly

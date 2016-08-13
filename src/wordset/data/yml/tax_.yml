@@ -1,0 +1,50 @@
+---
+pattern: tax_
+hi_scored_words_count: 20
+scored_words_count: 12
+total_words: 40
+score: 2832305
+score_per_word: 88509
+hi_scored_words:
+  tax: 577
+  taxa: 24197
+  taxable: 19357
+  taxation: 8341
+  taxed: 16183
+  taxes: 2074
+  taxi: 8091
+  taxicab: 41701
+  taxicabs: 69827
+  taxidermy: 42738
+  taxing: 21788
+  taxis: 16726
+  taxiway: 81688
+  taxman: 67114
+  taxon: 25916
+  taxonomic: 25450
+  taxonomies: 74053
+  taxonomy: 15524
+  taxpayer: 18276
+  taxpayers: 17117
+scored_words:
+  taxidermist: 110051
+  taxidermists: 169437
+  taxied: 152599
+  taxiing: 103081
+  taximeter: 279307
+  taxiways: 126179
+  taxonomical: 268586
+  taxonomically: 190699
+  taxonomist: 267711
+  taxonomists: 123432
+  taxons: 286657
+  taxpaying: 157828
+not_scored_words:
+- taxaceous
+- taxeme
+- taxer
+- taxers
+- taximeters
+- taxiplane
+- taxmen
+- taxonomize

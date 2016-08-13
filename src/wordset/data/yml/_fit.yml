@@ -1,0 +1,23 @@
+---
+pattern: _fit
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 613933
+score_per_word: 51161
+hi_scored_words:
+  benefit: 1436
+  fit: 1108
+  misfit: 39225
+  nonprofit: 7098
+  outfit: 9732
+  profit: 1719
+  refit: 56354
+  retrofit: 35775
+  soffit: 82313
+  unfit: 18738
+scored_words:
+  befit: 129104
+  discomfit: 231331
+not_scored_words:
+- comfit

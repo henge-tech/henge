@@ -1,0 +1,52 @@
+---
+pattern: am_y
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 42
+score: 2088314
+score_per_word: 104415
+hi_scored_words:
+  amazingly: 14430
+  ambiguity: 18075
+  ambulatory: 24106
+  amenity: 33489
+  amicably: 59999
+  amity: 34786
+  amnesty: 13097
+  amplify: 35360
+  amply: 32847
+  amusingly: 83761
+scored_words:
+  amatory: 185590
+  ambidexterity: 145557
+  ambiguously: 103664
+  ambitiously: 160881
+  ambry: 298006
+  amenability: 254405
+  amendatory: 133608
+  amiability: 143501
+  amiably: 101085
+  amorality: 212067
+not_scored_words:
+- Amoy
+- Amway
+- Amy
+- amateurishly
+- amatively
+- amazedly
+- ambary
+- ambidextrously
+- ambitendency
+- ambivalently
+- amenably
+- amicability
+- ammonify
+- amorally
+- amorously
+- amorphously
+- amphibiously
+- amphibology
+- amphiboly
+- amphictyony
+- amphigory
+- amusedly

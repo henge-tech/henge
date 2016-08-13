@@ -1,0 +1,21 @@
+---
+pattern: flic_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 647050
+score_per_word: 71894
+hi_scored_words:
+  flick: 19813
+  flicked: 52397
+  flicker: 22858
+  flickered: 57016
+  flickering: 27458
+  flickers: 67515
+  flicking: 57886
+  flicks: 24966
+scored_words:
+  flickertail: 317141
+not_scored_words:
+- flickeringly
+- flickery

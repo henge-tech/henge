@@ -1,0 +1,49 @@
+---
+pattern: trad_
+hi_scored_words_count: 21
+scored_words_count: 4
+total_words: 39
+score: 1205289
+score_per_word: 48211
+hi_scored_words:
+  trad: 30448
+  tradable: 57185
+  trade: 612
+  traded: 9583
+  trademark: 2851
+  trademarked: 34435
+  trademarks: 4932
+  trader: 7966
+  traders: 13332
+  trades: 6610
+  tradesman: 41010
+  tradesmen: 33264
+  tradespeople: 82637
+  trading: 3049
+  tradition: 3063
+  traditional: 2801
+  traditionalist: 58335
+  traditionalists: 66231
+  traditionally: 12895
+  traditionary: 77588
+  traditions: 5465
+scored_words:
+  tradescantia: 194075
+  traditionalism: 106280
+  traduce: 206968
+  traduced: 143674
+not_scored_words:
+- trademarking
+- tradesfolk
+- tradeswoman
+- tradeswomen
+- tradings
+- traditionist
+- traditionless
+- traditor
+- traducement
+- traducements
+- traducer
+- traducers
+- traduces
+- traducing

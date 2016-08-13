@@ -1,0 +1,22 @@
+---
+pattern: s_ouse
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 557009
+score_per_word: 55700
+hi_scored_words:
+  schoolhouse: 29812
+  slaughterhouse: 38807
+  smokehouse: 65383
+  souse: 67478
+  spouse: 6674
+  statehouse: 71430
+  steakhouse: 29148
+  storehouse: 37588
+  summerhouse: 86020
+scored_words:
+  springhouse: 124669
+not_scored_words:
+- Statehouse
+- shrewmouse

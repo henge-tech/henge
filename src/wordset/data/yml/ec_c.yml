@@ -1,0 +1,27 @@
+---
+pattern: ec_c
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 385364
+score_per_word: 42818
+hi_scored_words:
+  eccentric: 14482
+  ecclesiastic: 99010
+  eclectic: 20261
+  ecliptic: 55544
+  econometric: 33090
+  economic: 1343
+  ecstatic: 23550
+  ectopic: 37624
+scored_words:
+  ecologic: 100460
+not_scored_words:
+- Eclectic
+- ecbolic
+- echoic
+- ectomorphic
+- ectoplasmic
+- ectosarc
+- ectothermic
+- ecumenic

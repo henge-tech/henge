@@ -1,0 +1,49 @@
+---
+pattern: fly_
+hi_scored_words_count: 10
+scored_words_count: 12
+total_words: 39
+score: 2620374
+score_per_word: 119107
+hi_scored_words:
+  fly: 1703
+  flyaway: 94947
+  flyby: 68729
+  flycatcher: 36792
+  flycatchers: 92838
+  flying: 2345
+  flyleaf: 86619
+  flyover: 62468
+  flyweight: 82149
+  flywheel: 35095
+scored_words:
+  flyable: 198485
+  flyback: 106958
+  flybys: 214022
+  flyovers: 186433
+  flypaper: 128330
+  flysheet: 241141
+  flyswatter: 245885
+  flyte: 141879
+  flytrap: 131632
+  flyway: 102195
+  flyways: 255687
+  flywheels: 104042
+not_scored_words:
+- Flynn
+- flyblow
+- flyblown
+- flyboat
+- flyleaves
+- flyman
+- flypapers
+- flypast
+- flypasts
+- flysheets
+- flyspeck
+- flyspecked
+- flyspecking
+- flyspecks
+- flyswatters
+- flytraps
+- flyweights

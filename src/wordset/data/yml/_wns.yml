@@ -1,0 +1,59 @@
+---
+pattern: _wns
+hi_scored_words_count: 21
+scored_words_count: 14
+total_words: 49
+score: 3407455
+score_per_word: 97355
+hi_scored_words:
+  breakdowns: 31793
+  browns: 17841
+  clowns: 23068
+  crowns: 14278
+  dawns: 47981
+  downs: 9402
+  drowns: 64920
+  frowns: 60290
+  gowns: 16939
+  hometowns: 99961
+  lawns: 24271
+  owns: 5237
+  pawns: 46827
+  prawns: 41235
+  shutdowns: 77262
+  slowdowns: 90200
+  spawns: 48678
+  touchdowns: 23637
+  towns: 2930
+  unknowns: 35707
+  yawns: 73812
+scored_words:
+  awns: 295751
+  countdowns: 122867
+  crackdowns: 143079
+  disowns: 257984
+  fawns: 100251
+  godowns: 248658
+  knockdowns: 253792
+  markdowns: 112014
+  meltdowns: 167499
+  nightgowns: 115958
+  pwns: 189090
+  shantytowns: 217289
+  showdowns: 140458
+  sundowns: 186496
+not_scored_words:
+- Downs
+- ballgowns
+- clampdowns
+- comedowns
+- eiderdowns
+- hoedowns
+- letdowns
+- putdowns
+- rubdowns
+- rundowns
+- shakedowns
+- spelldowns
+- splashdowns
+- turndowns

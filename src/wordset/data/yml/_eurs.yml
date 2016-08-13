@@ -1,0 +1,41 @@
+---
+pattern: _eurs
+hi_scored_words_count: 9
+scored_words_count: 11
+total_words: 31
+score: 2465837
+score_per_word: 123291
+hi_scored_words:
+  amateurs: 12314
+  chauffeurs: 75050
+  connoisseurs: 48304
+  entrepreneurs: 8237
+  liqueurs: 56690
+  restaurateurs: 79578
+  saboteurs: 87428
+  voyageurs: 53764
+  voyeurs: 70333
+scored_words:
+  arbitrageurs: 303921
+  derailleurs: 100894
+  jongleurs: 206091
+  masseurs: 122426
+  messieurs: 120243
+  poseurs: 225283
+  provocateurs: 162355
+  raconteurs: 281401
+  rapporteurs: 132360
+  secateurs: 148840
+  seigneurs: 170325
+not_scored_words:
+- Messeigneurs
+- Messieurs
+- accoucheurs
+- coiffeurs
+- danseurs
+- dérailleurs
+- frotteurs
+- litterateurs
+- littérateurs
+- longueurs
+- messeigneurs

@@ -1,0 +1,34 @@
+---
+pattern: roo_s
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 24
+score: 1962618
+score_per_word: 103295
+hi_scored_words:
+  roofers: 77028
+  roofs: 13087
+  rooftops: 43701
+  rookies: 29011
+  rooks: 52167
+  roommates: 9827
+  rooms: 1281
+  roosters: 49540
+  rootkits: 95780
+  roots: 3425
+scored_words:
+  roofless: 175765
+  rookeries: 193011
+  roomers: 300115
+  roominess: 190027
+  roosts: 113023
+  rooters: 156478
+  rootless: 114686
+  rootlets: 218573
+  rootstocks: 126093
+not_scored_words:
+- roods
+- rooftrees
+- roomettes
+- roomfuls
+- rootlessness

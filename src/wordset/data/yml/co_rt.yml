@@ -1,0 +1,23 @@
+---
+pattern: co_rt
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 463346
+score_per_word: 42122
+hi_scored_words:
+  cohort: 19698
+  comfort: 1933
+  comport: 67338
+  concert: 3010
+  consort: 22915
+  convert: 3683
+  counterpart: 13888
+  court: 435
+  covert: 13324
+scored_words:
+  contort: 138702
+  controvert: 178420
+not_scored_words:
+- Colbert
+- colewort

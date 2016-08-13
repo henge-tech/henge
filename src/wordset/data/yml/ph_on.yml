@@ -1,0 +1,32 @@
+---
+pattern: ph_on
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 22
+score: 893698
+score_per_word: 74474
+hi_scored_words:
+  phaeton: 50445
+  phenomenon: 5903
+  phon: 65731
+  phonon: 52237
+  phosphorylation: 21431
+  photoelectron: 84412
+  photon: 14346
+  phytoplankton: 37160
+scored_words:
+  philodendron: 134790
+  phlogiston: 139898
+  phonation: 180956
+  photoemission: 106389
+not_scored_words:
+- Phaethon
+- Philemon
+- Phlegethon
+- phanotron
+- pheon
+- photocomposition
+- photoconduction
+- photodisintegration
+- photoduplication
+- photoneutron

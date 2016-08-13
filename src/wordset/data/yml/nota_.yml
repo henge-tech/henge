@@ -1,0 +1,30 @@
+---
+pattern: nota_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 20
+score: 1515608
+score_per_word: 94725
+hi_scored_words:
+  notable: 5961
+  notables: 40525
+  notably: 9350
+  notarial: 99276
+  notaries: 51955
+  notarized: 55532
+  notary: 19735
+  notated: 87109
+  notation: 14103
+  notational: 81039
+  notations: 32827
+scored_words:
+  notabilities: 201613
+  notability: 124820
+  notarization: 214750
+  notarize: 287234
+  notate: 189779
+not_scored_words:
+- notarizes
+- notarizing
+- notates
+- notating

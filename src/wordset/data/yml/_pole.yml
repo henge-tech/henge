@@ -1,0 +1,26 @@
+---
+pattern: _pole
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 570758
+score_per_word: 63417
+hi_scored_words:
+  beanpole: 78873
+  dipole: 25152
+  flagpole: 51499
+  maypole: 70286
+  monopole: 76593
+  pole: 4309
+  quadrupole: 55647
+  tadpole: 44425
+scored_words:
+  catchpole: 163974
+not_scored_words:
+- Maypole
+- Pole
+- Walpole
+- antipole
+- bargepole
+- bibliopole
+- ridgepole

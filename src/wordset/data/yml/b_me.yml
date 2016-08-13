@@ -1,0 +1,28 @@
+---
+pattern: b_me
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 814232
+score_per_word: 74021
+hi_scored_words:
+  ballgame: 64215
+  became: 923
+  become: 321
+  bedtime: 17119
+  biome: 62503
+  blame: 3648
+  blaspheme: 86654
+  bothersome: 40913
+  burdensome: 32013
+scored_words:
+  bireme: 293590
+  brume: 212333
+not_scored_words:
+- beforetime
+- begrime
+- bename
+- birdlime
+- blithesome
+- boresome
+- brooklime

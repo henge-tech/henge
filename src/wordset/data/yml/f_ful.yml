@@ -1,0 +1,24 @@
+---
+pattern: f_ful
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 14
+score: 508790
+score_per_word: 42399
+hi_scored_words:
+  faithful: 5236
+  fanciful: 29215
+  fateful: 34774
+  fearful: 12695
+  fistful: 46313
+  fitful: 89925
+  flavorful: 48076
+  forceful: 27809
+  forgetful: 40692
+  frightful: 31547
+  fruitful: 15836
+scored_words:
+  fretful: 126672
+not_scored_words:
+- forethoughtful
+- forkful

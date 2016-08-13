@@ -1,0 +1,36 @@
+---
+pattern: bol_s
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 26
+score: 2430470
+score_per_word: 135026
+hi_scored_words:
+  boldness: 37386
+  boles: 60707
+  bollards: 82415
+  bollocks: 41420
+  bolsheviks: 53055
+  bolsters: 64731
+  bolts: 10208
+  bolus: 45143
+scored_words:
+  bolas: 133726
+  boleros: 159291
+  boletus: 162268
+  bolivares: 147456
+  bolivars: 163877
+  bolivianos: 332372
+  bolls: 154187
+  bolometers: 341005
+  bolos: 185716
+  boluses: 255507
+not_scored_words:
+- Bolivians
+- Bolsheviks
+- bolides
+- bollixes
+- bollockings
+- bollworms
+- bolshevisms
+- boltholes

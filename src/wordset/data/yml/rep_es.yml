@@ -1,0 +1,42 @@
+---
+pattern: rep_es
+hi_scored_words_count: 9
+scored_words_count: 11
+total_words: 32
+score: 2419982
+score_per_word: 120999
+hi_scored_words:
+  repertoires: 99099
+  replaces: 15288
+  replicates: 43389
+  replies: 3514
+  repositories: 30376
+  representatives: 2888
+  reproaches: 81264
+  reproduces: 43331
+  reptiles: 15273
+scored_words:
+  repatriates: 278726
+  replenishes: 120406
+  reposes: 189976
+  represses: 113432
+  reprieves: 296067
+  reprises: 103507
+  reprobates: 205300
+  reproves: 259886
+  repudiates: 142048
+  repulses: 242901
+  repurchases: 133311
+not_scored_words:
+- repackages
+- repaves
+- repertories
+- rephrases
+- repines
+- repletes
+- repopulates
+- repossesses
+- reprices
+- reprocesses
+- republishes
+- reputes

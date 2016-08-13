@@ -1,0 +1,26 @@
+---
+pattern: imp_tion
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 16
+score: 481591
+score_per_word: 40132
+hi_scored_words:
+  imperfection: 37435
+  impersonation: 40459
+  implantation: 26972
+  implementation: 13232
+  implication: 13956
+  importation: 17888
+  imposition: 18280
+  imprecation: 85325
+  impregnation: 65978
+  improvisation: 28421
+  imputation: 28296
+scored_words:
+  impaction: 105349
+not_scored_words:
+- impanation
+- imperception
+- imperturbation
+- impletion

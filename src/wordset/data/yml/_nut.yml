@@ -1,0 +1,32 @@
+---
+pattern: _nut
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 22
+score: 764719
+score_per_word: 63726
+hi_scored_words:
+  butternut: 52273
+  chestnut: 11708
+  coconut: 14580
+  doughnut: 41400
+  groundnut: 71067
+  hazelnut: 36454
+  nut: 7081
+  peanut: 16903
+  walnut: 10448
+  wingnut: 69410
+scored_words:
+  beechnut: 274928
+  locknut: 158467
+not_scored_words:
+- Nut
+- bitternut
+- bladdernut
+- breadnut
+- candlenut
+- cobnut
+- earthnut
+- gallnut
+- hognut
+- pignut

@@ -1,0 +1,39 @@
+---
+pattern: so_rs
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 29
+score: 2393114
+score_per_word: 104048
+hi_scored_words:
+  soars: 40184
+  softeners: 85210
+  sojourners: 73090
+  solders: 87558
+  soldiers: 2086
+  solicitors: 18588
+  solvers: 39395
+  songwriters: 26147
+  sorcerers: 57249
+  sorters: 90016
+  sounders: 58272
+  sours: 98626
+  southerners: 44416
+  souvenirs: 17776
+  sowers: 90312
+scored_words:
+  soakers: 212305
+  sobers: 128767
+  solderers: 320028
+  sommeliers: 185659
+  sonars: 194248
+  songsters: 135092
+  soothers: 221105
+  soothsayers: 166985
+not_scored_words:
+- Southerners
+- sonneteers
+- soundbars
+- southeasters
+- southers
+- southwesters

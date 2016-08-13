@@ -1,0 +1,28 @@
+---
+pattern: d_per
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 18
+score: 929138
+score_per_word: 66367
+hi_scored_words:
+  damper: 29404
+  dapper: 41694
+  deeper: 4490
+  developer: 6335
+  diaper: 14415
+  dipper: 41496
+  distemper: 63951
+  draper: 18413
+  dropper: 48197
+  dumper: 59511
+  duper: 44402
+scored_words:
+  doorkeeper: 132025
+  doper: 277848
+  dripper: 146957
+not_scored_words:
+- Dipper
+- Dnieper
+- Draper
+- dognapper

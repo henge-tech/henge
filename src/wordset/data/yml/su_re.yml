@@ -1,0 +1,24 @@
+---
+pattern: su_re
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 469069
+score_per_word: 46906
+hi_scored_words:
+  subculture: 42088
+  subgenre: 53198
+  substructure: 51388
+  sucre: 38986
+  superstore: 23468
+  superstructure: 38797
+  sure: 311
+  surefire: 49426
+  suture: 28887
+scored_words:
+  subminiature: 142520
+not_scored_words:
+- Sucre
+- substratosphere
+- supersedure
+- suspire

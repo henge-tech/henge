@@ -1,0 +1,54 @@
+---
+pattern: inte_n
+hi_scored_words_count: 25
+scored_words_count: 8
+total_words: 44
+score: 2049461
+score_per_word: 62104
+hi_scored_words:
+  integration: 10369
+  intensification: 36896
+  intention: 3862
+  interaction: 9374
+  interception: 20935
+  intercession: 41306
+  interconnection: 22847
+  interdiction: 54761
+  interferon: 25164
+  interjection: 65810
+  interleukin: 28801
+  intermission: 27142
+  intern: 13667
+  internalization: 61101
+  internationalization: 33161
+  interpolation: 25479
+  interposition: 68860
+  interpretation: 3450
+  interrelation: 76212
+  interrogation: 18312
+  interruption: 12068
+  intersection: 10694
+  interurban: 77245
+  intervention: 8852
+  interwoven: 28678
+scored_words:
+  intellection: 225314
+  intension: 138241
+  intercalation: 102558
+  intercommunication: 109065
+  interconversion: 181569
+  interpellation: 215463
+  interpenetration: 151039
+  intersession: 141166
+not_scored_words:
+- Interlaken
+- intellectualization
+- interbrain
+- intercolumniation
+- intercommunion
+- interfusion
+- interjoin
+- interlocution
+- interlunation
+- intermigration
+- interspersion

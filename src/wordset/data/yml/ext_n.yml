@@ -1,0 +1,26 @@
+---
+pattern: ext_n
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 16
+score: 944071
+score_per_word: 62938
+hi_scored_words:
+  extension: 2766
+  extermination: 30102
+  extern: 42693
+  extinction: 11769
+  extirpation: 89858
+  extortion: 28875
+  extraction: 9617
+  extradition: 28116
+  extrapolation: 36385
+  extravasation: 95257
+  extrication: 79529
+  extrusion: 29283
+scored_words:
+  extenuation: 181978
+  externalization: 128626
+  extroversion: 149217
+not_scored_words:
+- extemporization

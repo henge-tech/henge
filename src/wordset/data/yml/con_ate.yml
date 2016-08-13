@@ -1,0 +1,43 @@
+---
+pattern: con_ate
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 33
+score: 911685
+score_per_word: 47983
+hi_scored_words:
+  concatenate: 81327
+  concentrate: 7358
+  conciliate: 89392
+  condensate: 38123
+  confederate: 12303
+  confiscate: 46867
+  conglomerate: 26103
+  congratulate: 15241
+  congregate: 36117
+  conjugate: 24772
+  consecrate: 60002
+  considerate: 23782
+  consolidate: 15237
+  consulate: 16846
+  consummate: 29444
+  contaminate: 43669
+  contemplate: 17750
+scored_words:
+  conflate: 103349
+  connate: 224003
+not_scored_words:
+- Confederate
+- concelebrate
+- concinnate
+- conduplicate
+- confabulate
+- conglobate
+- conglutinate
+- consociate
+- constellate
+- consternate
+- constipate
+- consubstantiate
+- continuate
+- contraindicate

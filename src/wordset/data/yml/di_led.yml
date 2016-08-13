@@ -1,0 +1,27 @@
+---
+pattern: di_led
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 1033716
+score_per_word: 86143
+hi_scored_words:
+  dialed: 32311
+  dimpled: 71391
+  disabled: 4761
+  disassembled: 54718
+  disgruntled: 35420
+  disheveled: 86978
+  dismantled: 30415
+  dispelled: 58767
+  distilled: 18183
+scored_words:
+  disemboweled: 258305
+  disentangled: 160743
+  dissembled: 221724
+not_scored_words:
+- dibbled
+- diddled
+- dieseled
+- disembroiled
+- disenabled

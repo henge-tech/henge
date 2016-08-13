@@ -1,0 +1,48 @@
+---
+pattern: m_ce
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 38
+score: 1424633
+score_per_word: 71231
+hi_scored_words:
+  mace: 17061
+  magnificence: 35876
+  maintenance: 2661
+  malevolence: 73624
+  malfeasance: 73961
+  malice: 16071
+  malpractice: 14116
+  mantelpiece: 91988
+  marketplace: 11391
+  masterpiece: 10778
+  menace: 12922
+  mice: 5833
+  mince: 33645
+  misplace: 30565
+  mouthpiece: 27366
+scored_words:
+  microbalance: 260754
+  mischance: 150855
+  misfeasance: 216517
+  mispronounce: 165430
+  munificence: 173219
+not_scored_words:
+- Mace
+- Maurice
+- Mayence
+- MySpace
+- magniloquence
+- mainbrace
+- maleficence
+- mellifluence
+- mesalliance
+- militance
+- millrace
+- misalliance
+- miscreance
+- misguidance
+- monovalence
+- monstrance
+- multivalence
+- mésalliance

@@ -1,0 +1,56 @@
+---
+pattern: c_ator
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 46
+score: 1789436
+score_per_word: 77801
+hi_scored_words:
+  calculator: 15828
+  circulator: 88475
+  collaborator: 31710
+  collimator: 78355
+  commentator: 19316
+  communicator: 20035
+  commutator: 76629
+  comparator: 40097
+  compensator: 63781
+  concentrator: 48805
+  conservator: 48147
+  consolidator: 97037
+  conspirator: 55757
+  coordinator: 4492
+  creator: 6490
+  cultivator: 67366
+  curator: 24407
+scored_words:
+  calibrator: 100519
+  chlorinator: 261447
+  collator: 160733
+  conciliator: 136423
+  consecrator: 213577
+  cooperator: 130010
+not_scored_words:
+- Creator
+- calumniator
+- capitulator
+- captivator
+- castigator
+- castrator
+- caveator
+- celebrator
+- cinerator
+- coagulator
+- cogitator
+- commemorator
+- commiserator
+- confiscator
+- congratulator
+- congregator
+- consummator
+- contaminator
+- contemplator
+- continuator
+- corporator
+- corroborator
+- cremator

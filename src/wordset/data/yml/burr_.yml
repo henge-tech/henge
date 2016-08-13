@@ -1,0 +1,31 @@
+---
+pattern: burr_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 21
+score: 634850
+score_per_word: 57713
+hi_scored_words:
+  burr: 16987
+  burrito: 29929
+  burritos: 44940
+  burro: 64829
+  burros: 89159
+  burrow: 28653
+  burrowing: 50787
+  burrows: 22343
+  burrs: 78801
+  burry: 92579
+scored_words:
+  burrowed: 115843
+not_scored_words:
+- Burr
+- Burris
+- Burroughs
+- burred
+- burrier
+- burriest
+- burring
+- burrower
+- burrowers
+- burrstone

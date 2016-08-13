@@ -1,0 +1,30 @@
+---
+pattern: red_t
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 20
+score: 2333305
+score_per_word: 129628
+hi_scored_words:
+  redeployment: 62840
+  redevelopment: 13682
+  redirect: 17182
+  redolent: 80203
+  redoubt: 81648
+  redshift: 42032
+  redstart: 85434
+  reductionist: 87818
+  redundant: 14556
+scored_words:
+  redact: 158424
+  redbreast: 220371
+  redcoat: 150361
+  redcurrant: 229922
+  reddest: 172605
+  redeposit: 259756
+  redistrict: 330871
+  redraft: 153457
+  redroot: 172143
+not_scored_words:
+- redigest
+- rediscount

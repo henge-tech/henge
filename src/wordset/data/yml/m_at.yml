@@ -1,0 +1,32 @@
+---
+pattern: m_at
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 22
+score: 1285140
+score_per_word: 98856
+hi_scored_words:
+  mat: 6551
+  meat: 2311
+  meerkat: 66309
+  mincemeat: 83349
+  moat: 24286
+  motorboat: 65270
+  muscat: 38257
+  muskrat: 61144
+scored_words:
+  maltreat: 223798
+  manat: 163019
+  mistreat: 109085
+  mudcat: 220299
+  mudflat: 221462
+not_scored_words:
+- Magnificat
+- Marat
+- Masqat
+- Montserrat
+- Murat
+- Muscat
+- marrowfat
+- meritocrat
+- monochromat

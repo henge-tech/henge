@@ -1,0 +1,34 @@
+---
+pattern: c_ners
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 24
+score: 1125930
+score_per_word: 75062
+hi_scored_words:
+  campaigners: 35144
+  carabiners: 92549
+  cleaners: 8795
+  commissioners: 7295
+  commoners: 68909
+  conditioners: 25950
+  confectioners: 86755
+  congeners: 87012
+  containers: 6775
+  corners: 5672
+  coroners: 72774
+scored_words:
+  combiners: 177871
+  complainers: 129758
+  conveners: 174434
+  crooners: 146237
+not_scored_words:
+- caners
+- centners
+- churners
+- coiners
+- concessioners
+- condemners
+- conjoiners
+- copartners
+- cosigners

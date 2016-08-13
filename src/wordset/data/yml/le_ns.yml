@@ -1,0 +1,32 @@
+---
+pattern: le_ns
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 22
+score: 985988
+score_per_word: 61624
+hi_scored_words:
+  leans: 30359
+  learns: 11380
+  legations: 94313
+  legions: 26074
+  lemons: 25402
+  lens: 6112
+  leprechauns: 93615
+  leptons: 84900
+  lesbians: 5171
+  lesions: 20608
+  lessens: 59537
+  lessons: 2636
+  lexicons: 80557
+scored_words:
+  leavens: 182773
+  lecterns: 155648
+  lengthens: 106903
+not_scored_words:
+- Lesbians
+- leggins
+- leghorns
+- lepidopterans
+- letdowns
+- leviathans

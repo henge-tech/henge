@@ -1,0 +1,38 @@
+---
+pattern: en_l
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 28
+score: 1342652
+score_per_word: 74591
+hi_scored_words:
+  enamel: 15415
+  encyclical: 48636
+  endometrial: 35801
+  endothelial: 21244
+  enigmatical: 76638
+  enl: 69799
+  enroll: 18557
+  entail: 20249
+  enteral: 60240
+  entomol: 69360
+  entomological: 57778
+  entrepreneurial: 14604
+  environmental: 10696
+scored_words:
+  encl: 120057
+  endocardial: 135887
+  endocrinological: 281858
+  enol: 153158
+  enthrall: 132675
+not_scored_words:
+- Enlil
+- enchorial
+- endothermal
+- englacial
+- engrail
+- enscroll
+- ensoul
+- entoil
+- entrammel
+- entresol

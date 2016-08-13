@@ -1,0 +1,25 @@
+---
+pattern: ordi_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 644596
+score_per_word: 53716
+hi_scored_words:
+  ordinal: 32610
+  ordinance: 7236
+  ordinances: 13421
+  ordinaries: 94212
+  ordinarily: 17217
+  ordinary: 2409
+  ordinate: 25695
+  ordinates: 38494
+  ordination: 16054
+scored_words:
+  ordinals: 110090
+  ordinariness: 150131
+  ordinations: 137027
+not_scored_words:
+- ordinand
+- ordinands
+- ordines

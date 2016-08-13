@@ -1,0 +1,26 @@
+---
+pattern: col_on
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 16
+score: 700278
+score_per_word: 50019
+hi_scored_words:
+  collaboration: 7522
+  collation: 39374
+  collection: 803
+  collimation: 79011
+  collision: 8574
+  collocation: 53316
+  collodion: 87075
+  collusion: 30787
+  colon: 14289
+  colonization: 20711
+  colophon: 39518
+  coloration: 39766
+scored_words:
+  collectivization: 124981
+  colorization: 154551
+not_scored_words:
+- Colon
+- columniation

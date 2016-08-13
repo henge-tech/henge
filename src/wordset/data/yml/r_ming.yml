@@ -1,0 +1,29 @@
+---
+pattern: r_ming
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 19
+score: 1396615
+score_per_word: 87288
+hi_scored_words:
+  ramming: 48536
+  reaffirming: 63962
+  reaming: 77624
+  reclaiming: 37634
+  redeeming: 33279
+  reforming: 22826
+  renaming: 25329
+  reprogramming: 67333
+  resuming: 33840
+  rhyming: 35798
+  rimming: 53621
+  roaming: 16677
+  rooming: 61266
+scored_words:
+  rearming: 286697
+  reconfirming: 297899
+  rewarming: 234294
+not_scored_words:
+- ransoming
+- reassuming
+- riming

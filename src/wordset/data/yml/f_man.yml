@@ -1,0 +1,39 @@
+---
+pattern: f_man
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 29
+score: 1422364
+score_per_word: 101597
+hi_scored_words:
+  fireman: 23105
+  fisherman: 11532
+  footman: 66502
+  foreman: 13175
+  freedman: 29218
+  freeman: 9940
+  freshman: 11805
+  frogman: 89138
+scored_words:
+  fellowman: 297185
+  ferryman: 109499
+  flagman: 183694
+  foeman: 277310
+  frontiersman: 125796
+  funnyman: 174465
+not_scored_words:
+- Feynman
+- Flaxman
+- Foreman
+- Freeman
+- Frenchman
+- Frenchwoman
+- Friedman
+- fieldsman
+- floorman
+- flyman
+- foilsman
+- forewoman
+- freedwoman
+- frontierswoman
+- fugleman

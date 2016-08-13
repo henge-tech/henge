@@ -1,0 +1,80 @@
+---
+pattern: la_g
+hi_scored_words_count: 28
+scored_words_count: 20
+total_words: 70
+score: 4581541
+score_per_word: 95448
+hi_scored_words:
+  labeling: 10641
+  laboring: 49088
+  lacing: 49031
+  lacking: 6840
+  lactating: 38250
+  lading: 36382
+  ladybug: 40122
+  lag: 15693
+  lagging: 28393
+  lambing: 87658
+  lamenting: 52280
+  laminating: 50982
+  lancing: 71127
+  landing: 4174
+  landscaping: 12044
+  lang: 5555
+  languishing: 60978
+  lapping: 42954
+  lapwing: 78234
+  lashing: 39848
+  lasting: 5893
+  latching: 60436
+  laughing: 4108
+  launching: 11809
+  laundering: 19489
+  lawmaking: 95656
+  layering: 31937
+  laying: 6046
+scored_words:
+  lacerating: 151758
+  lacewing: 227302
+  laddering: 243050
+  lambasting: 171339
+  laming: 183199
+  lamming: 254987
+  lampooning: 188378
+  landholding: 108092
+  landowning: 167995
+  landsliding: 322131
+  lapdog: 105515
+  lapsing: 100124
+  larking: 159193
+  lasing: 107740
+  lathering: 191740
+  lathing: 239188
+  lauding: 147146
+  lavishing: 190080
+  lawbreaking: 200965
+  lazing: 105971
+not_scored_words:
+- Lagting
+- Landtag
+- Lang
+- Lansing
+- Laoag
+- Latinizing
+- labializing
+- laborsaving
+- lacquering
+- ladling
+- laicizing
+- lallygag
+- lallygagging
+- lapidating
+- lapidifying
+- larding
+- larruping
+- lassoing
+- latchstring
+- lateraling
+- laving
+- lazying

@@ -1,0 +1,25 @@
+---
+pattern: _pels
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 987551
+score_per_word: 89777
+hi_scored_words:
+  chapels: 32332
+  compels: 42298
+  dispels: 93137
+  expels: 99590
+  gospels: 21973
+  lapels: 95557
+  propels: 67436
+  repels: 76308
+scored_words:
+  carpels: 199740
+  impels: 130325
+  scalpels: 128855
+not_scored_words:
+- Gospels
+- cupels
+- estoppels
+- rappels

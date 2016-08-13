@@ -1,0 +1,25 @@
+---
+pattern: de_de
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 817971
+score_per_word: 74361
+hi_scored_words:
+  decade: 5875
+  decide: 2283
+  decode: 24033
+  degrade: 22429
+  deicide: 68780
+  delude: 66266
+  deride: 70864
+  desuetude: 96857
+scored_words:
+  decrepitude: 160846
+  demimonde: 169778
+  denude: 129960
+not_scored_words:
+- defilade
+- demode
+- depside
+- detrude

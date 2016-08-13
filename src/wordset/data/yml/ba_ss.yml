@@ -1,0 +1,32 @@
+---
+pattern: ba_ss
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 22
+score: 1146653
+score_per_word: 95554
+hi_scored_words:
+  backless: 61724
+  backwardness: 77221
+  badness: 28814
+  baldness: 37561
+  baroness: 19886
+  baseless: 43055
+  baseness: 99141
+  bass: 4233
+scored_words:
+  backcross: 176371
+  bareness: 252789
+  barrenness: 124589
+  bashfulness: 221269
+not_scored_words:
+- Bass
+- backhandedness
+- bagginess
+- balefulness
+- balminess
+- barbarousness
+- baronetess
+- baselessness
+- battledress
+- bawdiness

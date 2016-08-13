@@ -1,0 +1,43 @@
+---
+pattern: _mmy
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 33
+score: 1498184
+score_per_word: 68099
+hi_scored_words:
+  clammy: 62311
+  crummy: 52993
+  dummy: 13572
+  gummy: 44082
+  hammy: 90315
+  jammy: 66082
+  jimmy: 3812
+  mammy: 48584
+  mommy: 12647
+  mummy: 13427
+  rummy: 40523
+  scummy: 92805
+  shimmy: 51585
+  tammy: 17115
+  tummy: 17715
+  whammy: 55098
+  yummy: 15309
+scored_words:
+  chummy: 117082
+  gemmy: 207970
+  jemmy: 134434
+  plummy: 216825
+  thingummy: 123898
+not_scored_words:
+- Emmy
+- Grammy
+- Jimmy
+- Sammy
+- Tammy
+- Timmy
+- Tommy
+- chemmy
+- gammy
+- pommy
+- slummy

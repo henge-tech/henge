@@ -1,0 +1,24 @@
+---
+pattern: clu_s
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 14
+score: 1085285
+score_per_word: 90440
+hi_scored_words:
+  clubbers: 83388
+  clubs: 3114
+  clueless: 22338
+  clues: 15013
+  clumps: 38826
+  clumsiness: 82397
+  clusters: 8188
+  clutches: 26813
+scored_words:
+  clubhouses: 101119
+  clucks: 265344
+  clunkers: 229805
+  clutters: 208940
+not_scored_words:
+- clunks
+- clupeids

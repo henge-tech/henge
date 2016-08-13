@@ -1,0 +1,62 @@
+---
+pattern: _sure
+hi_scored_words_count: 26
+scored_words_count: 10
+total_words: 52
+score: 2733520
+score_per_word: 75931
+hi_scored_words:
+  acupressure: 61899
+  assure: 4356
+  censure: 25625
+  closure: 13418
+  composure: 29520
+  countermeasure: 75948
+  disclosure: 6306
+  displeasure: 29379
+  embrasure: 56314
+  enclosure: 8358
+  ensure: 3171
+  erasure: 42228
+  exposure: 3414
+  fissure: 31726
+  foreclosure: 16907
+  insure: 8575
+  leisure: 3272
+  measure: 1518
+  nondisclosure: 94958
+  overexposure: 73495
+  pleasure: 1980
+  pressure: 1367
+  reassure: 26759
+  sure: 311
+  treasure: 4133
+  unsure: 13026
+scored_words:
+  chaussure: 123324
+  cocksure: 199831
+  commissure: 169370
+  cynosure: 110627
+  discomposure: 234747
+  exclosure: 275140
+  overpressure: 108811
+  reinsure: 331658
+  tonsure: 230771
+  underexposure: 311278
+not_scored_words:
+- Closure
+- Saussure
+- admeasure
+- coinsure
+- commeasure
+- counterpressure
+- disposure
+- forepleasure
+- impressure
+- incisure
+- overinsure
+- overmeasure
+- preexposure
+- remeasure
+- scissure
+- tressure

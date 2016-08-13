@@ -1,0 +1,29 @@
+---
+pattern: ma_ting
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 700041
+score_per_word: 63640
+hi_scored_words:
+  malting: 92425
+  mandating: 50462
+  manifesting: 36732
+  manipulating: 24491
+  marketing: 5671
+  masturbating: 9372
+  mating: 14878
+  matting: 35056
+scored_words:
+  macerating: 146261
+  marinating: 109206
+  matriculating: 175487
+not_scored_words:
+- machinating
+- maculating
+- maledicting
+- maltreating
+- manducating
+- manumitting
+- masticating
+- maturating

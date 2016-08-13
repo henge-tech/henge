@@ -1,0 +1,35 @@
+---
+pattern: estr_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 25
+score: 1083085
+score_per_word: 83314
+hi_scored_words:
+  estradiol: 28768
+  estrange: 96797
+  estranged: 31709
+  estrangement: 57644
+  estrogen: 14463
+  estrogenic: 89827
+  estrogens: 41447
+  estrus: 77321
+scored_words:
+  estragon: 176708
+  estrin: 100336
+  estriol: 138476
+  estrone: 114772
+  estrous: 114817
+not_scored_words:
+- Estrada
+- Estremadura
+- estrade
+- estragons
+- estrangements
+- estranges
+- estranging
+- estray
+- estreat
+- estrones
+- estrum
+- estruses

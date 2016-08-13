@@ -1,0 +1,30 @@
+---
+pattern: am_ng
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1079052
+score_per_word: 83004
+hi_scored_words:
+  amassing: 63885
+  amazing: 2749
+  ambling: 98928
+  amending: 21514
+  among: 429
+  amortizing: 93835
+  amounting: 25685
+  amplifying: 58090
+  amusing: 10658
+scored_words:
+  amalgamating: 125827
+  ambushing: 196342
+  ameliorating: 113280
+  amputating: 267830
+not_scored_words:
+- Americanizing
+- ambulating
+- ambuscading
+- amercing
+- ammoniating
+- ammonifying
+- amnestying

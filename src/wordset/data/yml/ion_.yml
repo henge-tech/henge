@@ -1,0 +1,35 @@
+---
+pattern: ion_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 25
+score: 1259943
+score_per_word: 96918
+hi_scored_words:
+  ion: 10656
+  ionic: 19607
+  ionization: 26480
+  ionized: 42848
+  ionizing: 37403
+  ionosphere: 50264
+  ionospheric: 61927
+  ions: 18554
+scored_words:
+  ionizable: 304119
+  ionize: 135780
+  ionizer: 125755
+  ionizers: 117484
+  ionizes: 309066
+not_scored_words:
+- Iona
+- Ionesco
+- Ionia
+- Ionian
+- Ionians
+- Ionic
+- Ionics
+- ionium
+- ionogen
+- ionone
+- ionopause
+- ionospheres

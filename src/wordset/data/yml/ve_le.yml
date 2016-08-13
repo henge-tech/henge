@@ -1,0 +1,24 @@
+---
+pattern: ve_le
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 14
+score: 210488
+score_per_word: 23387
+hi_scored_words:
+  vegetable: 5592
+  vehicle: 2580
+  venerable: 17872
+  ventricle: 34037
+  verifiable: 30581
+  veritable: 25878
+  versatile: 12719
+  vesicle: 42473
+  vestibule: 38756
+scored_words: {}
+not_scored_words:
+- veinule
+- vendible
+- venule
+- verbalizable
+- versicle

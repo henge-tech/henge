@@ -1,0 +1,32 @@
+---
+pattern: exti_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 888563
+score_per_word: 68351
+hi_scored_words:
+  extinct: 15550
+  extinction: 11769
+  extinctions: 63898
+  extinguish: 31041
+  extinguished: 28881
+  extinguisher: 37807
+  extinguishers: 39263
+  extinguishing: 42215
+  extirpated: 90222
+  extirpation: 89858
+scored_words:
+  extinguishes: 103188
+  extirpate: 141733
+  extirpating: 193138
+not_scored_words:
+- extincted
+- extincting
+- extinctive
+- extincts
+- extine
+- extinguishable
+- extirpates
+- extirpative
+- extirpator

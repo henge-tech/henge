@@ -1,0 +1,38 @@
+---
+pattern: pet_s
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 28
+score: 1328490
+score_per_word: 88566
+hi_scored_words:
+  petals: 17296
+  peters: 9398
+  petites: 44170
+  petitioners: 23804
+  petitions: 13565
+  petrels: 96452
+  petrochemicals: 56888
+  pets: 6952
+  petticoats: 70872
+scored_words:
+  petabytes: 232619
+  petioles: 109193
+  petrodollars: 223823
+  petrous: 207720
+  pettiness: 113580
+  petunias: 102158
+not_scored_words:
+- Peters
+- Petronius
+- petaliferous
+- petards
+- petasus
+- petcocks
+- petrifications
+- petrifies
+- petrologists
+- pettifoggers
+- pettifogs
+- pettishness
+- pettitoes

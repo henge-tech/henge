@@ -1,0 +1,21 @@
+---
+pattern: rent_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 422987
+score_per_word: 42298
+hi_scored_words:
+  rent: 1890
+  rental: 6369
+  rentals: 5853
+  rented: 11763
+  renter: 29447
+  renters: 25052
+  renting: 17611
+  rents: 14011
+scored_words:
+  rentable: 103666
+  rentier: 207325
+not_scored_words:
+- rentiers

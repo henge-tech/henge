@@ -1,0 +1,46 @@
+---
+pattern: repo_
+hi_scored_words_count: 18
+scored_words_count: 13
+total_words: 36
+score: 3228498
+score_per_word: 104145
+hi_scored_words:
+  report: 406
+  reportable: 50891
+  reportage: 53390
+  reported: 1268
+  reportedly: 14653
+  reporter: 4386
+  reporters: 8274
+  reporting: 4711
+  reports: 1088
+  repose: 22971
+  reposed: 92421
+  reposition: 49395
+  repositioned: 79650
+  repositioning: 53052
+  repositories: 30376
+  repository: 12928
+  repossessed: 54737
+  repossession: 64885
+scored_words:
+  repopulate: 148676
+  repopulated: 246669
+  repopulating: 269783
+  reportorial: 289729
+  reposeful: 239483
+  reposes: 189976
+  reposing: 162548
+  repositions: 242507
+  repossess: 103642
+  repossessing: 288339
+  repossessions: 115153
+  repousse: 156635
+  repoussé: 175876
+not_scored_words:
+- repopulates
+- reportings
+- reposefully
+- reposit
+- repossesses

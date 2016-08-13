@@ -1,0 +1,53 @@
+---
+pattern: _ctic
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 43
+score: 1973995
+score_per_word: 78959
+hi_scored_words:
+  antarctic: 12666
+  arctic: 6857
+  chiropractic: 18813
+  climactic: 47022
+  dialectic: 35262
+  didactic: 30765
+  eclectic: 20261
+  eutectic: 78237
+  extragalactic: 98639
+  galactic: 18422
+  hectic: 24112
+  intergalactic: 44819
+  lactic: 31045
+  prophylactic: 34805
+  subarctic: 80560
+  syntactic: 22593
+  tactic: 17294
+scored_words:
+  anorectic: 169842
+  anticlimactic: 141780
+  apodictic: 126317
+  apoplectic: 110611
+  deictic: 181920
+  pectic: 286700
+  smectic: 162567
+  subantarctic: 172086
+not_scored_words:
+- Antarctic
+- Arctic
+- Eclectic
+- Holarctic
+- Palearctic
+- acatalectic
+- apodeictic
+- ataractic
+- autodidactic
+- catalectic
+- cathectic
+- dyslectic
+- epideictic
+- hypercatalectic
+- orectic
+- parallactic
+- paratactic
+- transarctic

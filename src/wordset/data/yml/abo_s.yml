@@ -1,0 +1,29 @@
+---
+pattern: abo_s
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 19
+score: 619157
+score_per_word: 61915
+hi_scored_words:
+  abodes: 77160
+  abolishes: 71448
+  abolitionists: 53606
+  abominations: 65405
+  aboriginals: 65835
+  aborigines: 31969
+  abortions: 18595
+  aborts: 79604
+  abounds: 33991
+scored_words:
+  abortionists: 121544
+not_scored_words:
+- Aboriginals
+- Aborigines
+- abohms
+- abolishments
+- abominates
+- abominators
+- aborticides
+- abortifacients
+- aboulias

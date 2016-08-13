@@ -1,0 +1,24 @@
+---
+pattern: shoo_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 14
+score: 1041106
+score_per_word: 74364
+hi_scored_words:
+  shoo: 40355
+  shook: 6945
+  shoot: 2910
+  shooter: 11790
+  shooters: 18680
+  shooting: 3135
+  shootings: 29223
+  shootout: 20419
+  shoots: 10482
+scored_words:
+  shooed: 190736
+  shooing: 257440
+  shool: 115014
+  shoos: 233836
+  shootouts: 100141
+not_scored_words: []

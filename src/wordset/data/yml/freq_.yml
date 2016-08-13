@@ -1,0 +1,24 @@
+---
+pattern: freq_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 604312
+score_per_word: 54937
+hi_scored_words:
+  freq: 34408
+  frequencies: 11118
+  frequency: 4473
+  frequent: 3550
+  frequentation: 69295
+  frequented: 33397
+  frequenting: 89340
+  frequently: 1564
+scored_words:
+  frequenter: 113374
+  frequenters: 138502
+  frequents: 105291
+not_scored_words:
+- frequentative
+- frequentest
+- frequentness

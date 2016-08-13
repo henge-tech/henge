@@ -1,0 +1,35 @@
+---
+pattern: s_ff
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 25
+score: 1260611
+score_per_word: 63030
+hi_scored_words:
+  scoff: 47979
+  scruff: 57872
+  scuff: 54612
+  sheriff: 6322
+  showoff: 64606
+  shroff: 96960
+  shutoff: 74523
+  skiff: 46962
+  sniff: 19657
+  snuff: 19970
+  spinoff: 51552
+  spliff: 94573
+  staff: 887
+  standoff: 30630
+  stiff: 7149
+  stroganoff: 93654
+  stuff: 1135
+scored_words:
+  selloff: 194385
+  sendoff: 173003
+  spiff: 124180
+not_scored_words:
+- Sarnoff
+- Smirnoff
+- sclaff
+- sluff
+- stopoff

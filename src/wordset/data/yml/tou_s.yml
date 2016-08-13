@@ -1,0 +1,38 @@
+---
+pattern: tou_s
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 28
+score: 1801888
+score_per_word: 105993
+hi_scored_words:
+  touchdowns: 23637
+  touches: 8572
+  toughness: 31846
+  tourists: 8596
+  tournaments: 12108
+  tourneys: 63895
+  tours: 4558
+  touts: 46020
+scored_words:
+  toucans: 139080
+  touchbacks: 270444
+  touchscreens: 110665
+  touchstones: 141847
+  toughens: 214875
+  toughs: 170958
+  toupees: 191840
+  tourers: 163407
+  tourniquets: 199540
+not_scored_words:
+- Tours
+- touchiness
+- touchings
+- touchlines
+- touchpapers
+- touchwoods
+- tougheners
+- toughies
+- touracos
+- tournedos
+- tousles

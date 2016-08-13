@@ -1,0 +1,38 @@
+---
+pattern: un_ved
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 28
+score: 1843521
+score_per_word: 92176
+hi_scored_words:
+  unapproved: 54423
+  undeserved: 54265
+  unimproved: 65760
+  uninvolved: 95620
+  unloved: 67196
+  unmoved: 57841
+  unnerved: 87691
+  unobserved: 46082
+  unpaved: 49360
+  unreserved: 61483
+  unresolved: 13693
+  unsaved: 72427
+  unshaved: 72511
+  unsolved: 33719
+scored_words:
+  undeceived: 104546
+  underachieved: 207853
+  undissolved: 237904
+  unperceived: 174835
+  unproved: 148801
+  unrelieved: 137511
+not_scored_words:
+- unbelieved
+- unbeloved
+- unlived
+- unpreserved
+- unreceived
+- unremoved
+- unreproved
+- unweaved

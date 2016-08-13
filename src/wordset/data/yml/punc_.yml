@@ -1,0 +1,49 @@
+---
+pattern: punc_
+hi_scored_words_count: 17
+scored_words_count: 12
+total_words: 39
+score: 2759922
+score_per_word: 95169
+hi_scored_words:
+  punch: 6316
+  punched: 21942
+  puncheon: 72906
+  puncher: 92317
+  punches: 27180
+  punching: 24637
+  punchline: 52366
+  punchy: 63563
+  punctual: 37472
+  punctuality: 50768
+  punctually: 70226
+  punctuate: 71872
+  punctuated: 41865
+  punctuation: 13079
+  puncture: 28862
+  punctured: 54281
+  punctures: 70382
+scored_words:
+  punchbag: 197260
+  punchbowl: 100011
+  punchers: 197535
+  punchlines: 131930
+  punctate: 127552
+  punctilio: 120629
+  punctilious: 146043
+  punctiliously: 175748
+  punctuates: 224720
+  punctuating: 155659
+  punctuations: 279739
+  puncturing: 103062
+not_scored_words:
+- Punch
+- Punchinello
+- punchbags
+- punchball
+- punchballs
+- punchboard
+- puncheons
+- punchier
+- punchiest
+- punctiliousness

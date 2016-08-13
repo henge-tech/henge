@@ -1,0 +1,29 @@
+---
+pattern: m_nal
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 19
+score: 1064278
+score_per_word: 76019
+hi_scored_words:
+  marginal: 10803
+  maternal: 8821
+  medicinal: 14631
+  meridional: 75693
+  monoclonal: 21488
+  motivational: 13317
+  multidimensional: 29585
+  multifunctional: 47374
+  multinational: 16688
+  mutational: 77401
+scored_words:
+  maturational: 206727
+  meditational: 173883
+  monsoonal: 205284
+  multidirectional: 162583
+not_scored_words:
+- matutinal
+- membranal
+- metafictional
+- migrational
+- monoclinal

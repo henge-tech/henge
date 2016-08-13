@@ -1,0 +1,31 @@
+---
+pattern: c_ars
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 21
+score: 1278347
+score_per_word: 71019
+hi_scored_words:
+  calendars: 17866
+  cars: 1798
+  caterpillars: 40838
+  cedars: 36607
+  cellars: 25124
+  chars: 27375
+  cigars: 11420
+  circulars: 40077
+  clears: 16478
+  collars: 18019
+  cougars: 21859
+  cultivars: 30480
+scored_words:
+  cellulars: 224481
+  commissars: 146071
+  costars: 184107
+  crossbars: 143770
+  crowbars: 182284
+  czars: 109693
+not_scored_words:
+- Caesars
+- cottars
+- cudbears

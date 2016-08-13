@@ -1,0 +1,37 @@
+---
+pattern: _rf
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 27
+score: 1300443
+score_per_word: 86696
+hi_scored_words:
+  barf: 43043
+  dwarf: 12548
+  headscarf: 94352
+  scarf: 10651
+  serf: 52567
+  smurf: 33832
+  surf: 6140
+  turf: 9525
+  wharf: 12967
+scored_words:
+  corf: 299190
+  imperf: 169632
+  kerf: 114036
+  scurf: 240263
+  snarf: 100771
+  windsurf: 100926
+not_scored_words:
+- Altdorf
+- AstroTurf
+- Cerf
+- Dusseldorf
+- Düsseldorf
+- Nerf
+- RF
+- Rf
+- Waldorf
+- bodysurf
+- terf
+- zarf

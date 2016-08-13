@@ -1,0 +1,28 @@
+---
+pattern: sho_t
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 18
+score: 736607
+score_per_word: 52614
+hi_scored_words:
+  shoot: 2910
+  shootout: 20419
+  short: 385
+  shortcut: 16383
+  shortest: 11814
+  shortlist: 18336
+  shot: 1050
+  shouldn't: 2100
+  shouldst: 90124
+  shout: 6111
+  showboat: 75079
+scored_words:
+  shoat: 170612
+  shopfront: 180502
+  shoplift: 140782
+not_scored_words:
+- Short
+- shoddiest
+- shortcrust
+- showiest

@@ -1,0 +1,20 @@
+---
+pattern: utte_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 254494
+score_per_word: 31811
+hi_scored_words:
+  utter: 9057
+  utterance: 20390
+  utterances: 32170
+  uttered: 16696
+  uttering: 46474
+  utterly: 7529
+  uttermost: 65717
+  utters: 56461
+scored_words: {}
+not_scored_words:
+- utterable
+- utterer

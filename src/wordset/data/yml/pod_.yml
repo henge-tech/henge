@@ -1,0 +1,33 @@
+---
+pattern: pod_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 23
+score: 815133
+score_per_word: 62702
+hi_scored_words:
+  pod: 12315
+  podcast: 5270
+  podcasting: 31930
+  podcasts: 11906
+  podiatric: 80945
+  podiatrist: 71734
+  podiatrists: 89192
+  podiatry: 66790
+  podium: 19520
+  podiums: 80844
+  pods: 21413
+scored_words:
+  podded: 219437
+  podesta: 103837
+not_scored_words:
+- Podgorica
+- Podhoretz
+- Podolsk
+- Podunk
+- podagra
+- podding
+- poddy
+- podestà
+- podite
+- podophyllin

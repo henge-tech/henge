@@ -1,0 +1,41 @@
+---
+pattern: a_cy
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 31
+score: 820689
+score_per_word: 63129
+hi_scored_words:
+  abbacy: 93949
+  accountancy: 20986
+  accuracy: 3330
+  adequacy: 26286
+  adjacency: 57138
+  advocacy: 10060
+  agency: 2302
+  aristocracy: 24441
+  ascendancy: 40976
+  autocracy: 62496
+scored_words:
+  absorbency: 112518
+  agcy: 132623
+  astringency: 233584
+not_scored_words:
+- Annecy
+- aberrancy
+- adamancy
+- adiathermancy
+- adjutancy
+- aeromancy
+- alectryomancy
+- aleuromancy
+- alphitomancy
+- ambitendency
+- antecedency
+- appetency
+- archiepiscopacy
+- ardency
+- arithmomancy
+- articulacy
+- astromancy
+- axinomancy

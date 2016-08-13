@@ -1,0 +1,74 @@
+---
+pattern: out_d
+hi_scored_words_count: 25
+scored_words_count: 16
+total_words: 64
+score: 4335938
+score_per_word: 105754
+hi_scored_words:
+  outbid: 65292
+  outboard: 25824
+  outbound: 22465
+  outdated: 9705
+  outdid: 96566
+  outed: 67072
+  outfield: 35282
+  outfitted: 44099
+  outgunned: 97221
+  outland: 76216
+  outlawed: 30124
+  outlined: 7216
+  outlived: 64495
+  outmoded: 54197
+  outnumbered: 37212
+  outpaced: 84751
+  outperformed: 58075
+  outplayed: 91906
+  outraged: 21246
+  outscored: 66755
+  outsourced: 25595
+  outstretched: 40678
+  outstripped: 84312
+  outward: 9656
+  outweighed: 41776
+scored_words:
+  outclassed: 103359
+  outdistanced: 287268
+  outflanked: 206359
+  outfoxed: 126623
+  outlasted: 115729
+  outmaneuvered: 250747
+  outmatched: 204774
+  outputted: 176095
+  outranked: 255910
+  outsmarted: 183692
+  outsold: 145475
+  outspend: 302387
+  outspread: 171349
+  outstand: 200252
+  outvoted: 210157
+  outwitted: 138026
+not_scored_words:
+- outargued
+- outbalanced
+- outboasted
+- outbraved
+- outbreed
+- outcropped
+- outfaced
+- outgeneraled
+- outguard
+- outguessed
+- outlaid
+- outmarched
+- outpointed
+- outproduced
+- outraced
+- outranged
+- outreached
+- outroared
+- outsailed
+- outshouted
+- outspanned
+- outstayed
+- outworked

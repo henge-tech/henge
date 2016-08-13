@@ -1,0 +1,26 @@
+---
+pattern: mi_en
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 852572
+score_per_word: 71047
+hi_scored_words:
+  midden: 65391
+  middlemen: 62694
+  midshipmen: 49518
+  mien: 38475
+  militiamen: 73729
+  minutemen: 43333
+  misshapen: 70548
+  mistaken: 8054
+  mitten: 45145
+scored_words:
+  milkmen: 102230
+  misbegotten: 152206
+  mizzen: 141249
+not_scored_words:
+- Milken
+- milden
+- misgiven
+- misspoken

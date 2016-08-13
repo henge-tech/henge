@@ -1,0 +1,41 @@
+---
+pattern: expr_
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 31
+score: 2140990
+score_per_word: 85639
+hi_scored_words:
+  express: 1177
+  expressed: 1853
+  expresses: 12717
+  expressing: 6876
+  expression: 1462
+  expressionism: 47080
+  expressionist: 67246
+  expressions: 4892
+  expressive: 12739
+  expressiveness: 66306
+  expressly: 8176
+  expressway: 21141
+  expressways: 79439
+  expropriated: 76441
+  expropriation: 44431
+scored_words:
+  expressible: 105550
+  expressionistic: 169016
+  expressionists: 193195
+  expressionless: 106269
+  expressively: 128499
+  expressivity: 140348
+  expressman: 259635
+  expropriate: 107949
+  expropriating: 226643
+  expropriations: 251910
+not_scored_words:
+- expressage
+- expressages
+- expressionlessly
+- expropriates
+- expropriator
+- expropriators

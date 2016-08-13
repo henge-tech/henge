@@ -1,0 +1,23 @@
+---
+pattern: pr_ding
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 13
+score: 906848
+score_per_word: 75570
+hi_scored_words:
+  preceding: 5073
+  precluding: 79623
+  presiding: 16228
+  pretending: 15005
+  proceeding: 5511
+  prodding: 66050
+  proofreading: 36627
+  protruding: 35725
+  providing: 1374
+scored_words:
+  priding: 292451
+  promenading: 130767
+  propounding: 222414
+not_scored_words:
+- prerecording

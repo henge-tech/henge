@@ -1,0 +1,53 @@
+---
+pattern: m_ite
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 43
+score: 2310199
+score_per_word: 128344
+hi_scored_words:
+  magnetite: 55257
+  malachite: 52870
+  marcasite: 69854
+  marguerite: 22065
+  marmite: 54985
+  mesquite: 30966
+  metabolite: 38403
+  meteorite: 29040
+  mite: 21176
+scored_words:
+  magnesite: 108611
+  margarite: 203355
+  martensite: 137915
+  merozoite: 279010
+  monazite: 168098
+  monzonite: 281326
+  morganite: 280774
+  mullite: 171362
+  multipartite: 305132
+not_scored_words:
+- Malecite
+- Manhattanite
+- Marguerite
+- Maronite
+- Masonite
+- Mennonite
+- Mesquite
+- Michiganite
+- Midianite
+- Minorite
+- Moabite
+- Monophysite
+- Muscovite
+- Mutazilite
+- manganite
+- marlite
+- melanite
+- melinite
+- micrometeorite
+- microparasite
+- midshipmite
+- millerite
+- miswrite
+- molybdenite
+- mylonite

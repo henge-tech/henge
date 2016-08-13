@@ -1,0 +1,29 @@
+---
+pattern: _rase
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 19
+score: 1061138
+score_per_word: 75795
+hi_scored_words:
+  catchphrase: 72465
+  cholinesterase: 69680
+  erase: 16004
+  esterase: 76886
+  luciferase: 74381
+  paraphrase: 27427
+  passphrase: 71985
+  phosphodiesterase: 68929
+  phrase: 2834
+  polymerase: 19243
+  rephrase: 56569
+  transferase: 39765
+scored_words:
+  chrysoprase: 220206
+  sucrase: 244764
+not_scored_words:
+- holophrase
+- idocrase
+- metaphrase
+- prase
+- saccharase

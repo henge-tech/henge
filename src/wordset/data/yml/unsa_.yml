@@ -1,0 +1,42 @@
+---
+pattern: unsa_
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 32
+score: 2040517
+score_per_word: 113362
+hi_scored_words:
+  unsafe: 14899
+  unsaid: 53233
+  unsalted: 61854
+  unsanitary: 78781
+  unsatisfactory: 15076
+  unsatisfied: 36499
+  unsatisfying: 78764
+  unsaturated: 33287
+  unsaved: 72427
+  unsavory: 56760
+scored_words:
+  unsaddled: 194614
+  unsafely: 238289
+  unsalable: 136200
+  unsaleable: 223706
+  unsanctioned: 139985
+  unsatisfactorily: 277263
+  unsatisfiable: 169401
+  unsay: 159479
+not_scored_words:
+- unsaddle
+- unsaddles
+- unsaddling
+- unsafeness
+- unsafer
+- unsafest
+- unsalability
+- unsatisfactoriness
+- unsaturate
+- unsavorily
+- unsavoriness
+- unsavorinesses
+- unsaying
+- unsays

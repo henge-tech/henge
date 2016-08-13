@@ -1,0 +1,63 @@
+---
+pattern: _lock
+hi_scored_words_count: 27
+scored_words_count: 12
+total_words: 53
+score: 3403628
+score_per_word: 87272
+hi_scored_words:
+  airlock: 58067
+  block: 2038
+  bullock: 18836
+  clock: 2334
+  deadlock: 28930
+  flintlock: 85069
+  flock: 9288
+  gridlock: 44817
+  havelock: 46229
+  hemlock: 26841
+  hillock: 86708
+  interlock: 36806
+  lock: 2696
+  lovelock: 66914
+  o'clock: 3269
+  overclock: 47702
+  padlock: 35121
+  pollock: 23491
+  roadblock: 44214
+  schlock: 92734
+  shylock: 76900
+  sunblock: 58758
+  unblock: 55090
+  unlock: 10444
+  warlock: 30971
+  wedlock: 39289
+  woodblock: 71104
+scored_words:
+  antilock: 130521
+  cellblock: 149613
+  charlock: 330606
+  fetlock: 204428
+  forelock: 158568
+  gunlock: 228378
+  hammerlock: 247626
+  headlock: 113812
+  matchlock: 198180
+  mullock: 167931
+  rowlock: 232798
+  superblock: 136507
+not_scored_words:
+- Bullock
+- Matlock
+- Pollock
+- Sherlock
+- Shylock
+- breechblock
+- chockablock
+- daglock
+- elflock
+- fetterlock
+- firelock
+- oarlock
+- picklock
+- pillock

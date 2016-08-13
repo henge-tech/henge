@@ -1,0 +1,35 @@
+---
+pattern: _lass
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 25
+score: 1079285
+score_per_word: 59960
+hi_scored_words:
+  class: 382
+  cutlass: 39792
+  eyeglass: 51042
+  fiberglass: 19542
+  glass: 894
+  hourglass: 29097
+  lass: 25961
+  masterclass: 45434
+  plexiglass: 74715
+  spyglass: 59835
+  subclass: 21790
+  sunglass: 54023
+  superclass: 59881
+  underclass: 63425
+  windlass: 68323
+scored_words:
+  isinglass: 166783
+  outclass: 184443
+  wineglass: 113923
+not_scored_words:
+- Douglass
+- Glass
+- Plexiglass
+- declass
+- galloglass
+- sandglass
+- weatherglass

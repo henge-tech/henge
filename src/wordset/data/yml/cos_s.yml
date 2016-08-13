@@ -1,0 +1,47 @@
+---
+pattern: cos_s
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 37
+score: 1960971
+score_per_word: 103209
+hi_scored_words:
+  cosmetics: 17533
+  cosmonauts: 84611
+  cosmos: 17260
+  cosponsors: 53752
+  coss: 89378
+  cossacks: 41578
+  costings: 93785
+  costs: 1073
+  costumers: 99427
+  costumes: 6703
+scored_words:
+  cosines: 127211
+  cosmetologists: 214175
+  cosmologies: 144123
+  cosmologists: 143402
+  cosmopolis: 137039
+  cosmopolitans: 191793
+  costars: 184107
+  costless: 154475
+  costliness: 159546
+not_scored_words:
+- cosecants
+- coshes
+- cosignatories
+- cosigners
+- cosigns
+- cosmeticians
+- cosmogonies
+- cosmogonists
+- cosmographers
+- cosmographies
+- cosmonautics
+- cosmopolites
+- cosmoses
+- cosses
+- cossets
+- costermongers
+- costmaries
+- costumiers

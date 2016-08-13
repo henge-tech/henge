@@ -1,0 +1,48 @@
+---
+pattern: w_ling
+hi_scored_words_count: 17
+scored_words_count: 11
+total_words: 38
+score: 2904569
+score_per_word: 103734
+hi_scored_words:
+  wailing: 29970
+  walling: 39917
+  warbling: 91849
+  weakling: 74533
+  welling: 36184
+  whaling: 25058
+  wheeling: 20309
+  whirling: 35080
+  whistling: 20656
+  wholesaling: 67432
+  wiggling: 72896
+  willing: 2044
+  wobbling: 75821
+  wrangling: 55913
+  wrestling: 6219
+  wriggling: 84972
+  wrinkling: 79919
+scored_words:
+  waddling: 115776
+  waffling: 111149
+  waggling: 281865
+  waling: 254829
+  wassailing: 119039
+  weanling: 155117
+  wheedling: 244267
+  whiling: 279301
+  whittling: 110553
+  wiling: 225157
+  worldling: 188744
+not_scored_words:
+- Wheeling
+- wambling
+- wangling
+- wattling
+- weaseling
+- wildling
+- wimpling
+- windmilling
+- winkling
+- witling

@@ -1,0 +1,25 @@
+---
+pattern: po_ting
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 15
+score: 1044083
+score_per_word: 74577
+hi_scored_words:
+  pocketing: 83608
+  podcasting: 31930
+  pointing: 4729
+  polluting: 40905
+  populating: 65096
+  porting: 28406
+  positing: 95712
+  posting: 4742
+  potting: 38719
+  pouting: 72659
+scored_words:
+  pollinating: 122824
+  pontificating: 145366
+  postulating: 118298
+  potentiating: 191089
+not_scored_words:
+- postdating

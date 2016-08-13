@@ -1,0 +1,76 @@
+---
+pattern: g_te
+hi_scored_words_count: 16
+scored_words_count: 13
+total_words: 66
+score: 2982348
+score_per_word: 102839
+hi_scored_words:
+  gamete: 78131
+  gate: 2304
+  gazette: 10366
+  generate: 7801
+  geniculate: 86367
+  germinate: 58348
+  gesticulate: 96372
+  gigabyte: 22571
+  gite: 95197
+  glutamate: 26122
+  graduate: 4611
+  granite: 7502
+  granulocyte: 65249
+  graphite: 24601
+  grate: 23110
+  gravitate: 52433
+scored_words:
+  gametophyte: 135882
+  garrote: 248739
+  garrotte: 100447
+  gavotte: 127896
+  geminate: 238814
+  gestate: 258075
+  glauconite: 190206
+  goethite: 168092
+  granulate: 161908
+  granulite: 255971
+  grisette: 124516
+  guesstimate: 147841
+  gyrate: 162876
+not_scored_words:
+- GTE
+- Georgette
+- Gibeonite
+- Gileadite
+- Gillette
+- Grote
+- gadolinite
+- gahnite
+- gametocyte
+- garnierite
+- garotte
+- gehlenite
+- gelatinate
+- gelignite
+- gemmate
+- geophyte
+- geyserite
+- ghostwrite
+- ghostwrote
+- gibbsite
+- glabrate
+- glaciate
+- gladiate
+- globate
+- glochidiate
+- glomerate
+- glycerinate
+- glycerite
+- gonocyte
+- gradate
+- granitite
+- graptolite
+- gratulate
+- greenockite
+- grossularite
+- gummite
+- guttate

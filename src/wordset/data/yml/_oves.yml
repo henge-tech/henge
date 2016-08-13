@@ -1,0 +1,44 @@
+---
+pattern: _oves
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 34
+score: 1818089
+score_per_word: 72723
+hi_scored_words:
+  approves: 15865
+  behooves: 92547
+  cloves: 25745
+  coves: 58050
+  disapproves: 80014
+  doves: 24401
+  droves: 50696
+  gloves: 4787
+  grooves: 19296
+  groves: 15560
+  hooves: 48950
+  improves: 11251
+  loves: 2741
+  mangroves: 45502
+  moves: 3287
+  proves: 7222
+  removes: 11522
+  shoves: 71462
+  stoves: 21717
+scored_words:
+  alcoves: 122790
+  disproves: 122450
+  foxgloves: 229859
+  reproves: 259886
+  roves: 263971
+  troves: 208518
+not_scored_words:
+- Groves
+- commoves
+- cookstoves
+- countermoves
+- ladyloves
+- microgrooves
+- ringdoves
+- trueloves
+- turtledoves

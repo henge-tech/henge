@@ -1,0 +1,24 @@
+---
+pattern: atte_s
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 14
+score: 999550
+score_per_word: 76888
+hi_scored_words:
+  attempts: 3247
+  attendances: 56106
+  attendants: 15891
+  attendees: 11909
+  attends: 16928
+  attentions: 42178
+  attentiveness: 82624
+  attenuates: 97845
+  attests: 62737
+scored_words:
+  attenders: 120225
+  attendings: 227747
+  attenuators: 102477
+  attestations: 159636
+not_scored_words:
+- attempers

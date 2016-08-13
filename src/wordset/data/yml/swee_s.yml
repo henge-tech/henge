@@ -1,0 +1,25 @@
+---
+pattern: swee_s
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 865142
+score_per_word: 72095
+hi_scored_words:
+  sweepers: 55352
+  sweeps: 16981
+  sweepstakes: 15967
+  sweeteners: 43992
+  sweethearts: 39351
+  sweeties: 47125
+  sweetness: 14984
+  sweets: 11156
+scored_words:
+  sweepings: 191184
+  sweetbreads: 151455
+  sweetens: 153920
+  sweetmeats: 123675
+not_scored_words:
+- sweetbriars
+- sweetbriers
+- sweetsops

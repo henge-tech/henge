@@ -1,0 +1,65 @@
+---
+pattern: m_sts
+hi_scored_words_count: 10
+scored_words_count: 16
+total_words: 55
+score: 3675107
+score_per_word: 141350
+hi_scored_words:
+  machinists: 54931
+  manifests: 25664
+  masts: 34625
+  medalists: 76116
+  meteorologists: 63648
+  mists: 33554
+  modernists: 77617
+  moralists: 95788
+  motorcyclists: 59061
+  motorists: 19892
+scored_words:
+  manicurists: 172822
+  masochists: 165466
+  materialists: 115594
+  mentalists: 215707
+  metallurgists: 210720
+  microbiologists: 121812
+  mileposts: 211519
+  militarists: 200663
+  mineralogists: 248737
+  minimalists: 235150
+  molests: 274910
+  monarchists: 191990
+  monopolists: 153699
+  monotheists: 301588
+  musicologists: 185511
+  musts: 128323
+not_scored_words:
+- Maoists
+- Marxists
+- Methodists
+- Milquetoasts
+- madrigalists
+- mainmasts
+- medievalists
+- meliorists
+- mesmerists
+- mesoblasts
+- milquetoasts
+- miniaturists
+- misanthropists
+- miscasts
+- misogamists
+- misogynists
+- mistrusts
+- mixologists
+- mizenmasts
+- mizzenmasts
+- monetarists
+- monists
+- monodists
+- monogamists
+- monologists
+- monologuists
+- muralists
+- mycologists
+- mythologists

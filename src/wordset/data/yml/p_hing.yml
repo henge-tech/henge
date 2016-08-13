@@ -1,0 +1,36 @@
+---
+pattern: p_hing
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 26
+score: 1153664
+score_per_word: 60719
+hi_scored_words:
+  patching: 31472
+  perching: 91470
+  perishing: 53244
+  phishing: 28383
+  photofinishing: 80786
+  photographing: 38682
+  pinching: 39376
+  pitching: 13580
+  plaything: 54194
+  poaching: 41964
+  polishing: 18634
+  preaching: 10057
+  publishing: 3461
+  punching: 24637
+  punishing: 24733
+  pushing: 5441
+scored_words:
+  paragraphing: 211136
+  parching: 134905
+  plashing: 247509
+not_scored_words:
+- Pershing
+- pleaching
+- polygraphing
+- pooching
+- poohing
+- pouching
+- psyching

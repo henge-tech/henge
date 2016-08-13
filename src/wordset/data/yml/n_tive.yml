@@ -1,0 +1,49 @@
+---
+pattern: n_tive
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 39
+score: 1866503
+score_per_word: 103694
+hi_scored_words:
+  narrative: 4682
+  native: 1390
+  negative: 2578
+  neoconservative: 84035
+  nominative: 48248
+  noncompetitive: 84517
+  nondestructive: 64997
+  nonnegative: 61040
+  normative: 19076
+  nutritive: 53250
+scored_words:
+  noncooperative: 187428
+  nonnative: 104573
+  nonoperative: 239288
+  nonproductive: 161214
+  nonradioactive: 243927
+  nonreactive: 179537
+  nonselective: 140092
+  nuncupative: 186631
+not_scored_words:
+- nonactive
+- nonadaptive
+- nonaddictive
+- nonadministrative
+- nonassertive
+- nonautomotive
+- noncommunicative
+- nonconsecutive
+- nonconstructive
+- noncumulative
+- nondistinctive
+- noneffective
+- nonelective
+- noninductive
+- noninformative
+- noninstinctive
+- nonobjective
+- nonprotective
+- nonrestrictive
+- nonsensitive
+- nontalkative

@@ -1,0 +1,40 @@
+---
+pattern: g_re
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 30
+score: 847969
+score_per_word: 60569
+hi_scored_words:
+  galore: 23773
+  garniture: 72817
+  genre: 5965
+  gesture: 8995
+  glare: 13578
+  glassware: 21077
+  gore: 9471
+  gravure: 77093
+  groupware: 46250
+  gunfire: 28849
+  gyre: 76717
+scored_words:
+  geosphere: 182871
+  grandsire: 129425
+  graniteware: 151088
+not_scored_words:
+- Gere
+- Gilmore
+- Gloucestershire
+- Gore
+- Grasmere
+- Gruyere
+- Gruyère
+- Guenevere
+- Guinevere
+- galere
+- galère
+- gametophore
+- gonophore
+- granophyre
+- guipure
+- gynophore

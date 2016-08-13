@@ -1,0 +1,42 @@
+---
+pattern: i_ist
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 32
+score: 1137385
+score_per_word: 75825
+hi_scored_words:
+  idealist: 38903
+  illusionist: 68326
+  imperialist: 33820
+  impressionist: 41419
+  individualist: 65766
+  industrialist: 56877
+  insist: 7849
+  instrumentalist: 52297
+  internationalist: 62384
+  internist: 78806
+  interventionist: 73689
+  irredentist: 88381
+  isolationist: 80409
+scored_words:
+  immunologist: 152588
+  integrationist: 235871
+not_scored_words:
+- Islamist
+- ichthyologist
+- ideologist
+- idolist
+- idyllist
+- illuminist
+- imagist
+- immanentist
+- immoralist
+- incrementalist
+- inflationist
+- inquisitionist
+- insurrectionist
+- intertwist
+- intimist
+- intuitionist
+- ironist

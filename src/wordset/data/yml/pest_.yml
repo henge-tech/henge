@@ -1,0 +1,38 @@
+---
+pattern: pest_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 28
+score: 1438610
+score_per_word: 95907
+hi_scored_words:
+  pest: 10754
+  pester: 62842
+  pestered: 83358
+  pestering: 84606
+  pesticide: 16968
+  pesticides: 11297
+  pestilence: 35655
+  pestle: 53989
+  pesto: 36473
+  pests: 18713
+scored_words:
+  pestiferous: 164318
+  pestilences: 306427
+  pestilent: 151611
+  pestilential: 198866
+  pestles: 202733
+not_scored_words:
+- Pestalozzi
+- pesterer
+- pesterers
+- pesters
+- pesthole
+- pestholes
+- pesthouse
+- pesthouses
+- pestiferously
+- pestiferousness
+- pestled
+- pestling
+- pesty

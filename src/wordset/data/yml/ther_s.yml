@@ -1,0 +1,43 @@
+---
+pattern: ther_s
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 33
+score: 1538392
+score_per_word: 90493
+hi_scored_words:
+  therapeutics: 23492
+  therapies: 11089
+  therapists: 11536
+  thereabouts: 47575
+  thermals: 59521
+  thermocouples: 74495
+  thermodynamics: 23869
+  thermometers: 34130
+  thermoplastics: 83793
+  thermos: 36192
+  thermostats: 56518
+scored_words:
+  theremins: 266681
+  thermistors: 114840
+  thermogenesis: 143810
+  thermoses: 221030
+  therms: 158532
+  theropods: 171289
+not_scored_words:
+- Thermidors
+- Thermos
+- Thersites
+- therapsids
+- thermels
+- thermionics
+- thermions
+- thermoelectricities
+- thermographs
+- thermolysis
+- thermometries
+- thermophiles
+- thermopiles
+- thermospheres
+- thermostatics
+- thermotaxis

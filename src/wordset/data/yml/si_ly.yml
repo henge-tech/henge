@@ -1,0 +1,39 @@
+---
+pattern: si_ly
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 29
+score: 1422184
+score_per_word: 83657
+hi_scored_words:
+  sickly: 36083
+  significantly: 5037
+  silently: 11279
+  silly: 4305
+  similarly: 5307
+  simply: 778
+  simultaneously: 8496
+  sincerely: 7155
+  singly: 34868
+  singularly: 30901
+scored_words:
+  sickeningly: 166139
+  sightly: 267200
+  signally: 172233
+  simplistically: 172279
+  sinfully: 119599
+  sinusoidally: 275578
+  sisterly: 104947
+not_scored_words:
+- Sicily
+- sibilantly
+- sightlessly
+- silkily
+- simperingly
+- sinisterly
+- sinistrally
+- sinuously
+- sixthly
+- sizably
+- sizeably
+- sizzlingly

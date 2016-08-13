@@ -1,0 +1,36 @@
+---
+pattern: cou_t
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 26
+score: 1139118
+score_per_word: 81365
+hi_scored_words:
+  couldn't: 752
+  count: 1396
+  counteract: 25925
+  counterfeit: 18764
+  counterpart: 13888
+  counterpoint: 32913
+  counterweight: 64403
+  couplet: 55731
+  court: 435
+scored_words:
+  couchant: 155153
+  couldst: 181613
+  counterargument: 186274
+  countercurrent: 161709
+  countershaft: 240162
+not_scored_words:
+- Count
+- Courbet
+- counterblast
+- counterclaimant
+- counterinsurgent
+- counterirritant
+- counterplot
+- counterstatement
+- countersubject
+- courtliest
+- couthest
+- couthiest

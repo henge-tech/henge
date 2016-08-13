@@ -1,0 +1,33 @@
+---
+pattern: unsc_
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 23
+score: 2183268
+score_per_word: 128427
+hi_scored_words:
+  unscathed: 42671
+  unscented: 64221
+  unscheduled: 43127
+  unscientific: 56404
+  unscramble: 93564
+  unscrew: 71084
+  unscripted: 78738
+  unscrupulous: 27637
+scored_words:
+  unscaled: 110898
+  unschooled: 157518
+  unscrambled: 260749
+  unscrambling: 325588
+  unscreened: 165098
+  unscrewed: 125273
+  unscrewing: 104879
+  unscrews: 291481
+  unscrupulously: 164338
+not_scored_words:
+- unscarred
+- unscholarly
+- unscientifically
+- unscrambles
+- unscratched
+- unscrupulousness

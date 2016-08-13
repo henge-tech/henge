@@ -1,0 +1,37 @@
+---
+pattern: fals_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 27
+score: 1673114
+score_per_word: 98418
+hi_scored_words:
+  'false': 1509
+  falsehood: 26232
+  falsehoods: 56897
+  falsely: 20884
+  falsetto: 61200
+  falsification: 51010
+  falsified: 50560
+  falsify: 51407
+  falsifying: 72848
+  falsity: 59172
+scored_words:
+  falseness: 158719
+  falsework: 135952
+  falsifiability: 189413
+  falsifiable: 120036
+  falsifications: 221984
+  falsifies: 172719
+  falsities: 222572
+not_scored_words:
+- Falstaff
+- Falstaffian
+- Falster
+- falser
+- falsest
+- falsettos
+- falsie
+- falsies
+- falsifier
+- falsifiers

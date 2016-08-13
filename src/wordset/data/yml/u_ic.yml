@@ -1,0 +1,55 @@
+---
+pattern: u_ic
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 45
+score: 2257850
+score_per_word: 102629
+hi_scored_words:
+  ultrasonic: 21417
+  unapologetic: 79137
+  uncharacteristic: 83137
+  undemocratic: 56420
+  uneconomic: 74651
+  unheroic: 99544
+  unpatriotic: 65517
+  unrealistic: 20380
+  unscientific: 56404
+  unsympathetic: 55140
+  uremic: 92835
+  uric: 44742
+  urologic: 66265
+scored_words:
+  ultrasonographic: 160770
+  undiplomatic: 242778
+  unenthusiastic: 132047
+  unhygienic: 113046
+  universalistic: 196473
+  unproblematic: 142823
+  unromantic: 169351
+  unspecific: 125518
+  unsystematic: 159455
+not_scored_words:
+- Ugaritic
+- Ugric
+- Uralic
+- ultramicroscopic
+- unacademic
+- unaesthetic
+- unartistic
+- unathletic
+- unauthentic
+- uncharismatic
+- uncomic
+- undogmatic
+- undramatic
+- unemphatic
+- unesthetic
+- unidiomatic
+- unific
+- unpoetic
+- unpolitic
+- unrhythmic
+- uranic
+- uranographic
+- uretic

@@ -1,0 +1,37 @@
+---
+pattern: mys_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 27
+score: 962920
+score_per_word: 56642
+hi_scored_words:
+  mys: 72258
+  myself: 878
+  mysteries: 7976
+  mysterious: 5197
+  mysteriously: 26736
+  mystery: 2425
+  mystic: 9517
+  mystical: 12374
+  mysticism: 20314
+  mystics: 40038
+  mystified: 46519
+  mystify: 88965
+  mystifying: 86750
+  mystique: 34641
+scored_words:
+  mystically: 140729
+  mystification: 132729
+  mystifies: 234874
+not_scored_words:
+- MySpace
+- Mysia
+- Mysore
+- Myst
+- mystagogical
+- mystagogue
+- mystagogy
+- mysteriousness
+- mysticalness
+- mystifyingly

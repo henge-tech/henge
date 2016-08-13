@@ -1,0 +1,54 @@
+---
+pattern: be_l
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 44
+score: 2375398
+score_per_word: 87977
+hi_scored_words:
+  beautiful: 640
+  befall: 42478
+  befell: 53075
+  behavioral: 10692
+  bel: 13731
+  bell: 2032
+  beneficial: 10358
+  benzol: 74596
+  benzoyl: 63186
+  benzyl: 59176
+  beryl: 29964
+  bestial: 44091
+  betel: 73276
+  bethel: 19992
+  betrayal: 17923
+  betrothal: 85517
+  bevel: 36655
+  bezel: 27294
+scored_words:
+  bechamel: 195115
+  becquerel: 144021
+  bedel: 268934
+  bedevil: 169500
+  bedrail: 308602
+  bedroll: 235677
+  befoul: 143040
+  bestowal: 115087
+  bewail: 130746
+not_scored_words:
+- Bebel
+- Bechtel
+- Becquerel
+- Bel
+- Belial
+- Bell
+- Benadryl
+- Bengal
+- Beryl
+- Bessel
+- Bethel
+- beadroll
+- beanball
+- befool
+- bejewel
+- bellyful
+- bequeathal

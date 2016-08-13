@@ -1,0 +1,45 @@
+---
+pattern: toot_
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 35
+score: 1884224
+score_per_word: 89724
+hi_scored_words:
+  toot: 39042
+  tooth: 10000
+  toothache: 45833
+  toothbrush: 21568
+  toothbrushes: 44796
+  toothed: 39344
+  toothless: 45208
+  toothpaste: 25554
+  toothpick: 41563
+  toothpicks: 61717
+  tooting: 50964
+  toots: 48314
+  tootsie: 46968
+scored_words:
+  tooted: 254024
+  tooter: 132861
+  toothaches: 227670
+  toothpastes: 121230
+  toothsome: 197812
+  toothy: 102469
+  tootle: 218203
+  tootsies: 109084
+not_scored_words:
+- tooters
+- toothier
+- toothiest
+- toothily
+- toothlike
+- toothsomely
+- toothsomeness
+- toothsomenesses
+- toothwort
+- toothworts
+- tootled
+- tootles
+- tootling
+- tootsy

@@ -1,0 +1,29 @@
+---
+pattern: f_lls
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 19
+score: 967285
+score_per_word: 69091
+hi_scored_words:
+  falls: 1846
+  farewells: 75224
+  fells: 50948
+  fills: 11217
+  fireballs: 65562
+  firewalls: 17413
+  footballs: 33078
+  foothills: 23374
+  frills: 37552
+  fulfills: 33009
+scored_words:
+  fastballs: 159089
+  footfalls: 134173
+  foretells: 114107
+  fulls: 210693
+not_scored_words:
+- fingerstalls
+- footstalls
+- footwalls
+- forestalls
+- fuzzballs

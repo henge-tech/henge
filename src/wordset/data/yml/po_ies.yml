@@ -1,0 +1,40 @@
+---
+pattern: po_ies
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 30
+score: 609190
+score_per_word: 60919
+hi_scored_words:
+  polarities: 88291
+  policies: 3958
+  ponies: 21128
+  poppies: 35184
+  posies: 80443
+  possibilities: 5122
+  potentialities: 69761
+  potteries: 67103
+scored_words:
+  polities: 110492
+  potties: 127708
+not_scored_words:
+- pogies
+- poltrooneries
+- polyamories
+- polygynies
+- polypodies
+- polysemies
+- polytonalities
+- pommies
+- pomologies
+- ponderosities
+- poperies
+- porgies
+- porkies
+- porkpies
+- positivities
+- posologies
+- posteriorities
+- posties
+- potbellies
+- potpies

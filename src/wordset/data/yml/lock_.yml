@@ -1,0 +1,38 @@
+---
+pattern: lock_
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 28
+score: 1285670
+score_per_word: 64283
+hi_scored_words:
+  lock: 2696
+  lockable: 64260
+  lockbox: 82249
+  locked: 3492
+  locker: 12795
+  lockers: 31211
+  locket: 28784
+  lockets: 74542
+  locking: 10061
+  lockjaw: 83146
+  lockout: 26107
+  lockouts: 96825
+  locks: 6209
+  locksmith: 34349
+  locksmiths: 57292
+  lockup: 47773
+scored_words:
+  locknut: 158467
+  locknuts: 236110
+  lockstep: 108317
+  lockups: 120985
+not_scored_words:
+- Locke
+- Lockean
+- Lockheed
+- Lockwood
+- Lockyer
+- lockage
+- lockages
+- lockboxes

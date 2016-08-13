@@ -1,0 +1,48 @@
+---
+pattern: dead_
+hi_scored_words_count: 15
+scored_words_count: 13
+total_words: 38
+score: 3205533
+score_per_word: 114483
+hi_scored_words:
+  dead: 738
+  deadbeat: 48727
+  deadbolt: 96051
+  deadening: 77423
+  deadens: 95728
+  deadhead: 91907
+  deadliest: 40157
+  deadline: 8661
+  deadlines: 11556
+  deadlock: 28930
+  deadlocked: 63668
+  deadlocks: 85192
+  deadly: 5311
+  deadpan: 64056
+  deadwood: 36014
+scored_words:
+  deadbeats: 118322
+  deadbolts: 196601
+  deaden: 104372
+  deadened: 119043
+  deader: 143124
+  deadeye: 182726
+  deadfall: 227301
+  deadheading: 225327
+  deadheads: 176547
+  deadlier: 107906
+  deadlocking: 327547
+  deadness: 181619
+  deadpanned: 340979
+not_scored_words:
+- Deadhead
+- deadenings
+- deadest
+- deadheaded
+- deadlight
+- deadlights
+- deadliness
+- deadnesses
+- deadpanning
+- deadpans

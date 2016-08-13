@@ -1,0 +1,30 @@
+---
+pattern: indu_s
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 20
+score: 1162387
+score_per_word: 83027
+hi_scored_words:
+  inducements: 65138
+  induces: 20929
+  inductees: 60762
+  inductions: 97392
+  inductors: 55415
+  indulgences: 54557
+  indulges: 79795
+  industrialists: 49162
+  industrials: 58994
+  industries: 3701
+  industrious: 32320
+scored_words:
+  inducers: 106102
+  inducts: 247722
+  industriousness: 230398
+not_scored_words:
+- Indus
+- indubitabilities
+- inductiveness
+- indues
+- indurations
+- industrializes

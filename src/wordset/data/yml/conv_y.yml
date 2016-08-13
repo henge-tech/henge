@@ -1,0 +1,28 @@
+---
+pattern: conv_y
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 971306
+score_per_word: 80942
+hi_scored_words:
+  conveniently: 10881
+  conventionally: 39843
+  conversely: 20239
+  convertibility: 92254
+  convexity: 55272
+  convey: 7479
+  convincingly: 38896
+  convoy: 16227
+scored_words:
+  conventionality: 183901
+  conversationally: 207770
+  conviviality: 151863
+  convulsively: 146681
+not_scored_words:
+- convergency
+- conversancy
+- conversantly
+- convexly
+- convivially
+- convolutedly

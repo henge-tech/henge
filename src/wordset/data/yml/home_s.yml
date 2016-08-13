@@ -1,0 +1,38 @@
+---
+pattern: home_s
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 28
+score: 1749830
+score_per_word: 87491
+hi_scored_words:
+  homelands: 48917
+  homeless: 8003
+  homelessness: 19830
+  homemakers: 64524
+  homeostasis: 40731
+  homeowners: 11031
+  homepages: 70185
+  homers: 39626
+  homes: 1711
+  homesickness: 72113
+  homesteads: 70595
+  hometowns: 99961
+scored_words:
+  homeboys: 114872
+  homecomings: 145170
+  homeliness: 140150
+  homeomorphisms: 267625
+  homeopaths: 115904
+  homesteaders: 110002
+  homewards: 166951
+  homeworkers: 141929
+not_scored_words:
+- homebodies
+- homegirls
+- homeostases
+- homerooms
+- homestretches
+- homewreckers
+- homeyness
+- homeys

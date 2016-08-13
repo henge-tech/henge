@@ -1,0 +1,37 @@
+---
+pattern: _ptic
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 27
+score: 1634625
+score_per_word: 77839
+hi_scored_words:
+  antiseptic: 35578
+  apocalyptic: 32680
+  aseptic: 53803
+  cataleptic: 94075
+  cryptic: 28925
+  ecliptic: 55544
+  elliptic: 27273
+  epileptic: 37752
+  optic: 15133
+  peptic: 45730
+  postsynaptic: 59721
+  septic: 18384
+  skeptic: 32759
+  synaptic: 23608
+  synoptic: 36682
+scored_words:
+  dyspeptic: 113814
+  glyptic: 225972
+  narcoleptic: 164656
+  panoptic: 193955
+  proleptic: 123959
+  styptic: 214622
+not_scored_words:
+- Coptic
+- analeptic
+- apopemptic
+- orthoptic
+- procryptic
+- sylleptic

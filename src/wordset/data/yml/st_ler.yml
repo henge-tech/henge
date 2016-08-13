@@ -1,0 +1,25 @@
+---
+pattern: st_ler
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 15
+score: 709107
+score_per_word: 64464
+hi_scored_words:
+  stabler: 93905
+  stapler: 39318
+  stealer: 67757
+  steamroller: 61328
+  stickler: 61410
+  stiller: 39703
+  storyteller: 27313
+  strangler: 61510
+  stroller: 19785
+  stumbler: 57430
+scored_words:
+  straggler: 179648
+not_scored_words:
+- staler
+- stippler
+- straddler
+- struggler

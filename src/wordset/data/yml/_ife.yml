@@ -1,0 +1,37 @@
+---
+pattern: _ife
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 27
+score: 1061185
+score_per_word: 53059
+hi_scored_words:
+  afterlife: 27559
+  fife: 16869
+  fishwife: 77796
+  housewife: 13089
+  knife: 3258
+  life: 116
+  lowlife: 82156
+  midlife: 46986
+  midwife: 23500
+  nightlife: 12490
+  penknife: 99387
+  rife: 25771
+  strife: 14588
+  wife: 743
+  wildlife: 2776
+scored_words:
+  alewife: 101527
+  goodwife: 154385
+  jackknife: 108717
+  loosestrife: 120939
+  pocketknife: 128533
+not_scored_words:
+- Fife
+- Recife
+- Tenerife
+- Yellowknife
+- drawknife
+- oldwife
+- wakerife

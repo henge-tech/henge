@@ -1,0 +1,25 @@
+---
+pattern: conv_d
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 15
+score: 1409518
+score_per_word: 100679
+hi_scored_words:
+  convened: 18868
+  converged: 33550
+  conversed: 70824
+  converted: 2937
+  conveyed: 12161
+  convicted: 13007
+  convinced: 4429
+  convoluted: 33188
+  convulsed: 91233
+scored_words:
+  convected: 327256
+  conventionalized: 265954
+  convoked: 180984
+  convolved: 224803
+  convoyed: 130324
+not_scored_words:
+- convalesced

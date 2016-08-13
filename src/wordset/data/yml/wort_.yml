@@ -1,0 +1,23 @@
+---
+pattern: wort_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 768735
+score_per_word: 69885
+hi_scored_words:
+  wort: 23281
+  worth: 881
+  worthily: 95530
+  worthiness: 45491
+  worthless: 12185
+  worthlessness: 96429
+  worthwhile: 10572
+  worthy: 4042
+scored_words:
+  worthier: 159019
+  worthies: 106991
+  worthiest: 214314
+not_scored_words:
+- Worth
+- worthlessly

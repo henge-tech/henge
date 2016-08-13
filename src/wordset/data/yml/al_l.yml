@@ -1,0 +1,32 @@
+---
+pattern: al_l
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 22
+score: 778678
+score_per_word: 59898
+hi_scored_words:
+  alchemical: 56563
+  alcohol: 3709
+  algal: 37640
+  alkyl: 34907
+  all: 26
+  allegorical: 39830
+  allodial: 89337
+  alluvial: 32185
+  allyl: 75708
+  alphabetical: 13382
+  alphanumerical: 58783
+scored_words:
+  aldol: 181532
+  altitudinal: 155076
+not_scored_words:
+- ALGOL
+- Aleksandropol
+- Algol
+- algebraical
+- alkaloidal
+- allheal
+- allotropical
+- altricial
+- aludel

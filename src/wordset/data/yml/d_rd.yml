@@ -1,0 +1,32 @@
+---
+pattern: d_rd
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 948708
+score_per_word: 72977
+hi_scored_words:
+  dartboard: 71605
+  dashboard: 14682
+  diehard: 52406
+  discard: 15928
+  discord: 26837
+  disregard: 12635
+  dockyard: 54110
+  downward: 9507
+  drunkard: 42336
+scored_words:
+  dastard: 174655
+  dooryard: 144229
+  dotard: 181467
+  dullard: 148311
+not_scored_words:
+- Dillard
+- Durward
+- daggerboard
+- dickybird
+- disaccord
+- dollarbird
+- drainboard
+- draughtboard
+- duckboard

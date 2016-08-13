@@ -1,0 +1,52 @@
+---
+pattern: c_des
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 42
+score: 1911007
+score_per_word: 91000
+hi_scored_words:
+  cascades: 25744
+  cathodes: 87539
+  charades: 90053
+  chlorides: 58449
+  codes: 2726
+  coincides: 30311
+  collides: 75834
+  comrades: 13462
+  concedes: 47617
+  concludes: 10647
+  confides: 97864
+  crusades: 30831
+scored_words:
+  cantharides: 105711
+  carbides: 108100
+  cedes: 103693
+  centipedes: 108660
+  chides: 140796
+  colonnades: 132883
+  commodes: 142547
+  corrodes: 189171
+  countrysides: 308369
+not_scored_words:
+- Cascades
+- Christmastides
+- Cyclades
+- cannonades
+- carbonades
+- cavalcades
+- certitudes
+- cestodes
+- chlorothiazides
+- cholecystitides
+- clitorides
+- cockades
+- colludes
+- consuetudes
+- corrades
+- correctitudes
+- couvades
+- cowhides
+- crassitudes
+- cyanamides
+- cystitides

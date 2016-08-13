@@ -1,0 +1,28 @@
+---
+pattern: f_ned
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 18
+score: 1289660
+score_per_word: 75862
+hi_scored_words:
+  fanned: 53360
+  fashioned: 8793
+  fastened: 18335
+  feigned: 57832
+  festooned: 95460
+  fined: 16747
+  finned: 61240
+  flattened: 22226
+  forewarned: 60083
+  frightened: 10006
+  frowned: 28149
+  functioned: 37140
+scored_words:
+  fattened: 105572
+  fawned: 217764
+  foreordained: 196435
+  foreshortened: 191242
+  freshened: 109276
+not_scored_words:
+- featherbrained

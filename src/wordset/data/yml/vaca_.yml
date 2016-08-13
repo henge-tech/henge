@@ -1,0 +1,27 @@
+---
+pattern: vaca_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 17
+score: 1243684
+score_per_word: 82912
+hi_scored_words:
+  vacancies: 12192
+  vacancy: 10172
+  vacant: 7357
+  vacate: 33068
+  vacated: 26856
+  vacating: 76144
+  vacation: 3686
+  vacationers: 64577
+  vacationing: 48649
+  vacations: 11395
+scored_words:
+  vacantly: 176943
+  vacates: 172154
+  vacationed: 154024
+  vacationer: 156335
+  vacationland: 290132
+not_scored_words:
+- vacationist
+- vacationists

@@ -1,0 +1,51 @@
+---
+pattern: cop_s
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 41
+score: 2619273
+score_per_word: 124727
+hi_scored_words:
+  copepods: 86693
+  copes: 56618
+  copiers: 39639
+  copies: 1813
+  copious: 27158
+  copolymers: 56051
+  copperas: 97589
+  coppers: 71395
+  cops: 15402
+  copycats: 96190
+  copyrights: 17998
+  copywriters: 86758
+scored_words:
+  copings: 304800
+  copiousness: 158042
+  copperheads: 167105
+  coprocessors: 272114
+  copses: 243207
+  copters: 187232
+  copulas: 240132
+  copulations: 204707
+  copyists: 188630
+not_scored_words:
+- Copernicus
+- Copts
+- copaibas
+- copals
+- copartners
+- copartnerships
+- copilots
+- copolymerizes
+- coppersmiths
+- coprolalias
+- coprophagous
+- coprophilous
+- copulates
+- copulatives
+- copybooks
+- copyedits
+- copyholders
+- copyholds
+- copyreaders
+- copyreads

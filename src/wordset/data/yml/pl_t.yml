@@ -1,0 +1,51 @@
+---
+pattern: pl_t
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 41
+score: 1737496
+score_per_word: 69499
+hi_scored_words:
+  placement: 7632
+  placket: 85219
+  plaint: 84393
+  plait: 60230
+  planet: 3256
+  plant: 1294
+  plat: 18021
+  platelet: 19748
+  playlist: 6109
+  playwright: 21111
+  pleasant: 2991
+  pleat: 56983
+  pliant: 62849
+  plight: 15087
+  plot: 2715
+  plummet: 47387
+  pluralist: 76636
+scored_words:
+  plagiarist: 102935
+  plainest: 133289
+  planchet: 151714
+  plangent: 170689
+  playsuit: 161468
+  pleasantest: 190262
+  pluperfect: 148599
+  plutocrat: 106879
+not_scored_words:
+- Plantagenet
+- Platonist
+- placet
+- plainchant
+- plaudit
+- playact
+- playlet
+- pledget
+- plenipotent
+- pluckiest
+- plumcot
+- plumiest
+- plummiest
+- plumpest
+- plushest
+- plushiest

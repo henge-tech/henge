@@ -1,0 +1,32 @@
+---
+pattern: s_ced
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 22
+score: 1386394
+score_per_word: 72968
+hi_scored_words:
+  sacrificed: 14703
+  seduced: 29104
+  sentenced: 9190
+  sequenced: 34078
+  serviced: 14826
+  silenced: 28411
+  sliced: 13805
+  sourced: 20923
+  spaced: 20676
+  spiced: 27270
+  spliced: 51579
+  sufficed: 67308
+  surfaced: 24804
+  synced: 69874
+scored_words:
+  sauced: 170061
+  shamefaced: 242584
+  shitfaced: 228430
+  solaced: 181063
+  spruced: 137705
+not_scored_words:
+- sicced
+- sluiced
+- straitlaced

@@ -1,0 +1,88 @@
+---
+pattern: _rus
+hi_scored_words_count: 21
+scored_words_count: 15
+total_words: 78
+score: 3387666
+score_per_word: 94101
+hi_scored_words:
+  adenovirus: 47704
+  antivirus: 13821
+  chorus: 5606
+  cirrus: 32691
+  citrus: 19144
+  crus: 70461
+  estrus: 77321
+  gurus: 25919
+  gyrus: 55154
+  humerus: 56889
+  kurus: 89995
+  papyrus: 27365
+  phosphorus: 15548
+  retrovirus: 72039
+  thesaurus: 17130
+  torus: 37896
+  tyrannosaurus: 54982
+  uterus: 19719
+  varus: 85475
+  virus: 2530
+  walrus: 32801
+scored_words:
+  acarus: 164480
+  apatosaurus: 214014
+  arbovirus: 213699
+  brachiosaurus: 212396
+  brontosaurus: 121097
+  echovirus: 270887
+  enterovirus: 133481
+  ichthyosaurus: 139999
+  icterus: 140691
+  organophosphorus: 121974
+  pelorus: 212189
+  pylorus: 128714
+  rhinovirus: 125177
+  stegosaurus: 117506
+  urus: 211172
+not_scored_words:
+- Ahasuerus
+- Apatosaurus
+- Arcturus
+- Belarus
+- Bosporus
+- Brontosaurus
+- Cassiodorus
+- Centaurus
+- Cerberus
+- Cyprus
+- Cyrus
+- Elbrus
+- Epicurus
+- Epidaurus
+- Epirus
+- Euhemerus
+- Eurus
+- Glarus
+- Grus
+- Hesperus
+- Horus
+- Hydrus
+- Icarus
+- Lazarus
+- Pandarus
+- Phaedrus
+- Phosphorus
+- Prus
+- Purus
+- Rus
+- Severus
+- Tartarus
+- Taurus
+- Zephyrus
+- coenurus
+- electrophorus
+- grugrus
+- jabirus
+- plesiosaurus
+- sorus
+- susurrus
+- ultravirus

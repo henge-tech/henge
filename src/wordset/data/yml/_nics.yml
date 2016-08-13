@@ -1,0 +1,76 @@
+---
+pattern: _nics
+hi_scored_words_count: 27
+scored_words_count: 9
+total_words: 66
+score: 2791150
+score_per_word: 77531
+hi_scored_words:
+  avionics: 31265
+  biomechanics: 40425
+  clinics: 6980
+  cryogenics: 93942
+  cryonics: 88474
+  cynics: 67883
+  electronics: 11567
+  eugenics: 37547
+  harmonics: 40076
+  hydroponics: 49774
+  mechanics: 6682
+  microelectronics: 34921
+  mnemonics: 63756
+  organics: 28416
+  panics: 53130
+  phonics: 31025
+  picnics: 36598
+  polytechnics: 94896
+  pyrotechnics: 50493
+  schizophrenics: 84949
+  sonics: 40037
+  supersonics: 47903
+  technics: 28855
+  tectonics: 40307
+  tonics: 71309
+  tunics: 76507
+  ultrasonics: 85440
+scored_words:
+  bionics: 128447
+  calisthenics: 107671
+  colonics: 206571
+  conics: 166491
+  ethnics: 114282
+  histrionics: 114577
+  manics: 142921
+  nucleonics: 197307
+  polyclinics: 269726
+not_scored_words:
+- Ebonics
+- Hispanics
+- Ionics
+- aeromechanics
+- aeroponics
+- architectonics
+- astrionics
+- cacogenics
+- carcinogenics
+- catatonics
+- dysgenics
+- electromechanics
+- electrotechnics
+- eudemonics
+- euthenics
+- geoponics
+- hallucinogenics
+- hedonics
+- hydromechanics
+- hygienics
+- irenics
+- macaronics
+- neurasthenics
+- philharmonics
+- psychotechnics
+- subtonics
+- supertonics
+- telemechanics
+- thermionics
+- zootechnics

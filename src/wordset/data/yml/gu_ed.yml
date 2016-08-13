@@ -1,0 +1,37 @@
+---
+pattern: gu_ed
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 27
+score: 2490359
+score_per_word: 131071
+hi_scored_words:
+  guaranteed: 4216
+  guarded: 13457
+  guessed: 11598
+  guided: 4833
+  gulped: 75744
+  gummed: 95175
+  gunned: 49367
+  gushed: 71977
+  gusseted: 89960
+  gutted: 36478
+scored_words:
+  guarantied: 317418
+  guested: 199046
+  guffawed: 249274
+  guillotined: 199417
+  gurgled: 137357
+  gussied: 223193
+  gusted: 291248
+  guyed: 141018
+  guzzled: 279583
+not_scored_words:
+- guesstimated
+- guggled
+- gulfweed
+- gulled
+- gumshoed
+- gurged
+- guttered
+- guttled

@@ -1,0 +1,23 @@
+---
+pattern: s_ips
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 13
+score: 652320
+score_per_word: 54360
+hi_scored_words:
+  scholarships: 14689
+  ships: 1196
+  sips: 28665
+  skips: 35687
+  slips: 11529
+  snips: 58535
+  spaceships: 55663
+  sponsorships: 31167
+  strips: 7794
+scored_words:
+  scrips: 161634
+  steamships: 110397
+  studentships: 135364
+not_scored_words:
+- sideslips

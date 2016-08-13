@@ -1,0 +1,23 @@
+---
+pattern: pu_nt
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 770327
+score_per_word: 77032
+hi_scored_words:
+  pubescent: 46133
+  puissant: 96249
+  pungent: 34947
+  punishment: 4112
+  punt: 16428
+  pursuant: 8612
+  purulent: 79801
+  puzzlement: 94571
+scored_words:
+  pursuivant: 265886
+  putrescent: 123588
+not_scored_words:
+- puberulent
+- pulverulent
+- pustulant

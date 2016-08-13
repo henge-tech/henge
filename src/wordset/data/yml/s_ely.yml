@@ -1,0 +1,62 @@
+---
+pattern: s_ely
+hi_scored_words_count: 24
+scored_words_count: 13
+total_words: 52
+score: 3432412
+score_per_word: 92767
+hi_scored_words:
+  safely: 4424
+  savagely: 57991
+  scarcely: 10794
+  securely: 9458
+  seductively: 84616
+  selectively: 20265
+  sensitively: 63288
+  separately: 7968
+  serenely: 82165
+  severely: 7699
+  shapely: 43874
+  sincerely: 7155
+  solely: 4556
+  sorely: 24669
+  sparsely: 37018
+  squarely: 28290
+  stately: 16952
+  steely: 37856
+  strangely: 11696
+  subjectively: 62094
+  substantively: 74019
+  successively: 30985
+  supremely: 40418
+  surely: 3345
+scored_words:
+  sagely: 143691
+  sanely: 172992
+  sedately: 221443
+  snidely: 157503
+  sombrely: 221566
+  speculatively: 141030
+  suavely: 275805
+  sublimely: 123441
+  submissively: 185535
+  subversively: 327965
+  suggestively: 130796
+  superlatively: 265561
+  supportively: 293489
+not_scored_words:
+- Szombathely
+- sanguinely
+- saturninely
+- secretively
+- senilely
+- servilely
+- sparely
+- sportively
+- sprucely
+- stalely
+- sterilely
+- subjunctively
+- subordinately
+- supinely
+- supplely

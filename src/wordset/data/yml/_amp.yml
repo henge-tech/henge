@@ -1,0 +1,41 @@
+---
+pattern: _amp
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 31
+score: 1078517
+score_per_word: 51357
+hi_scored_words:
+  amp: 8576
+  camp: 1325
+  champ: 13168
+  clamp: 19838
+  cramp: 32014
+  damp: 10466
+  decamp: 92912
+  headlamp: 42920
+  lamp: 3530
+  preamp: 42338
+  ramp: 18548
+  revamp: 34300
+  scamp: 28442
+  stamp: 4995
+  swamp: 9352
+  tramp: 15654
+  vamp: 30434
+scored_words:
+  counterstamp: 327647
+  encamp: 105051
+  gamp: 136392
+  tamp: 100615
+not_scored_words:
+- AMP
+- Duchamp
+- abamp
+- afterdamp
+- blackdamp
+- blowlamp
+- chokedamp
+- firedamp
+- streetlamp
+- sunlamp

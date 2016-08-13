@@ -1,0 +1,32 @@
+---
+pattern: r_cted
+hi_scored_words_count: 16
+scored_words_count: 0
+total_words: 22
+score: 658659
+score_per_word: 41166
+hi_scored_words:
+  reacted: 22963
+  recollected: 88462
+  reconnected: 63550
+  reconstructed: 22851
+  redacted: 40518
+  redirected: 23061
+  reelected: 52891
+  reenacted: 82389
+  reflected: 4415
+  refracted: 86969
+  rejected: 4265
+  resected: 82048
+  respected: 5897
+  restricted: 4844
+  resurrected: 37224
+  retracted: 36312
+scored_words: {}
+not_scored_words:
+- recontacted
+- redistricted
+- reinfected
+- reinspected
+- reselected
+- retrospected

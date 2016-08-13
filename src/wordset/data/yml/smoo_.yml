@@ -1,0 +1,33 @@
+---
+pattern: smoo_
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 23
+score: 2302512
+score_per_word: 115125
+hi_scored_words:
+  smooch: 70658
+  smooth: 2562
+  smoothed: 28370
+  smoother: 23406
+  smoothest: 70465
+  smoothie: 26839
+  smoothies: 37702
+  smoothing: 22840
+  smoothly: 10086
+  smoothness: 31093
+scored_words:
+  smooches: 125172
+  smooching: 187681
+  smoochy: 119471
+  smoothbore: 255167
+  smoothen: 276512
+  smoothened: 291669
+  smoothening: 179793
+  smoothers: 275316
+  smooths: 107844
+  smoothy: 159866
+not_scored_words:
+- smooched
+- smoodge
+- smoothens

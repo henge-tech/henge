@@ -1,0 +1,32 @@
+---
+pattern: d_ps
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 22
+score: 1781236
+score_per_word: 98957
+hi_scored_words:
+  dealerships: 26146
+  deeps: 69228
+  desktops: 13541
+  develops: 8258
+  dictatorships: 56076
+  dips: 23921
+  directorships: 96532
+  doorsteps: 78884
+  drips: 51041
+  drops: 4391
+  dumps: 25665
+scored_words:
+  damps: 152567
+  decamps: 294569
+  dewdrops: 168867
+  distributorships: 135243
+  dollops: 209590
+  doorstops: 178705
+  droops: 188012
+not_scored_words:
+- DPs
+- deathtraps
+- dewlaps
+- dustups

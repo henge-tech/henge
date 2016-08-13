@@ -1,0 +1,43 @@
+---
+pattern: emo_
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 33
+score: 1442403
+score_per_word: 75915
+hi_scored_words:
+  emo: 26092
+  emollient: 77912
+  emoluments: 57472
+  emote: 64595
+  emoticon: 43511
+  emoticons: 27597
+  emotion: 5394
+  emotional: 4222
+  emotionally: 18614
+  emotionless: 94817
+  emotions: 4528
+  emotive: 40904
+scored_words:
+  emollients: 148788
+  emolument: 115254
+  emos: 105593
+  emotes: 120600
+  emoting: 217226
+  emotionalism: 119959
+  emotionality: 149325
+not_scored_words:
+- Emory
+- emoji
+- emojis
+- emollience
+- emoted
+- emoter
+- emotionalities
+- emotionalize
+- emotionalized
+- emotionalizes
+- emotionalizing
+- emotively
+- emotiveness
+- emotivity

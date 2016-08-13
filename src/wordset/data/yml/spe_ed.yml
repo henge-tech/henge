@@ -1,0 +1,25 @@
+---
+pattern: spe_ed
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 422113
+score_per_word: 42211
+hi_scored_words:
+  spearheaded: 41283
+  specialized: 7858
+  specified: 2315
+  speckled: 37963
+  speculated: 31291
+  speed: 1028
+  spelled: 15423
+  spewed: 69118
+scored_words:
+  speared: 110498
+  spectacled: 105336
+not_scored_words:
+- spearfished
+- specked
+- spectated
+- speechified
+- spellchecked

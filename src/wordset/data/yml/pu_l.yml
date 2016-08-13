@@ -1,0 +1,29 @@
+---
+pattern: pu_l
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 19
+score: 1002915
+score_per_word: 66861
+hi_scored_words:
+  publ: 21366
+  puerperal: 87916
+  pul: 51304
+  pull: 2322
+  pummel: 81505
+  punctual: 37472
+  pupil: 6967
+  puritanical: 72625
+  purl: 50715
+  purposeful: 33617
+scored_words:
+  pubertal: 113082
+  puffball: 110736
+  pumpernickel: 124173
+  punchbowl: 100011
+  pupal: 109104
+not_scored_words:
+- Purcell
+- punchball
+- purgatorial
+- pushball

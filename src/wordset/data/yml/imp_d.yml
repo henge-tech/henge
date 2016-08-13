@@ -1,0 +1,47 @@
+---
+pattern: imp_d
+hi_scored_words_count: 27
+scored_words_count: 5
+total_words: 37
+score: 1665991
+score_per_word: 52062
+hi_scored_words:
+  impacted: 14119
+  impaired: 8857
+  impaled: 42623
+  imparted: 40056
+  impassioned: 41465
+  impeached: 49317
+  impeded: 41872
+  impelled: 54349
+  imperiled: 84838
+  implanted: 23984
+  implemented: 6656
+  implicated: 21198
+  implied: 4573
+  implored: 72520
+  imported: 5758
+  imposed: 4252
+  impound: 56418
+  impounded: 54978
+  impoverished: 21364
+  impregnated: 35855
+  impressed: 4697
+  imprinted: 27502
+  imprisoned: 12114
+  improved: 2434
+  improvised: 26624
+  impugned: 98029
+  imputed: 29098
+scored_words:
+  impaneled: 282105
+  impersonated: 136180
+  impinged: 151977
+  imploded: 102964
+  importuned: 107215
+not_scored_words:
+- impend
+- impended
+- implead
+- imprecated
+- impulsed

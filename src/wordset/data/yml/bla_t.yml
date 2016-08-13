@@ -1,0 +1,30 @@
+---
+pattern: bla_t
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 20
+score: 889273
+score_per_word: 74106
+hi_scored_words:
+  blackcurrant: 83186
+  blackest: 67197
+  blacklight: 61981
+  blacklist: 26703
+  blackout: 22293
+  blanket: 6486
+  blast: 4670
+  blastocyst: 86069
+  blat: 94876
+  blatant: 23531
+scored_words:
+  blackheart: 157877
+  bladderwort: 254404
+not_scored_words:
+- Blackett
+- Blackfeet
+- Blackfoot
+- Blackshirt
+- bladdernut
+- blandest
+- blandishment
+- blankest

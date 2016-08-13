@@ -1,0 +1,47 @@
+---
+pattern: l_ted
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 37
+score: 1486683
+score_per_word: 59467
+hi_scored_words:
+  lamented: 35647
+  laminated: 19936
+  lasted: 7624
+  lated: 53416
+  legislated: 56209
+  liberated: 18079
+  lifted: 5930
+  ligated: 79350
+  lighted: 10890
+  lighthearted: 46881
+  limited: 892
+  liquidated: 34463
+  listed: 1609
+  litigated: 75404
+  located: 1147
+  looted: 42318
+  lubricated: 45199
+scored_words:
+  lacerated: 124240
+  lambasted: 104885
+  largehearted: 100308
+  legitimated: 141358
+  levitated: 139774
+  lionhearted: 102939
+  lofted: 119039
+  lusted: 119146
+not_scored_words:
+- lactated
+- lanceted
+- lapidated
+- leafleted
+- levanted
+- librated
+- lilted
+- linted
+- longsighted
+- lucubrated
+- lustrated
+- luxuriated

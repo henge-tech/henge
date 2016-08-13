@@ -1,0 +1,62 @@
+---
+pattern: d_re
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 52
+score: 2073470
+score_per_word: 82938
+hi_scored_words:
+  dare: 3972
+  daycare: 19390
+  debenture: 65384
+  declare: 5379
+  demure: 55568
+  denture: 41334
+  departure: 3435
+  deplore: 56963
+  derriere: 99156
+  desire: 1924
+  dinnerware: 37228
+  dire: 10336
+  disclosure: 6306
+  displeasure: 29379
+  divestiture: 55034
+  doctrinaire: 99053
+  drugstore: 26313
+scored_words:
+  delftware: 282681
+  denature: 143546
+  derrière: 104900
+  discomfiture: 130122
+  discomposure: 234747
+  disfigure: 119132
+  dishware: 162265
+  disjuncture: 279923
+not_scored_words:
+- Daguerre
+- Dare
+- Deandre
+- Deere
+- Deidre
+- Deirdre
+- Delaware
+- Denbighshire
+- Derbyshire
+- Devonshire
+- Directoire
+- Dore
+- Dorsetshire
+- Dumbledore
+- dasyure
+- decare
+- decastere
+- deciare
+- declinature
+- depicture
+- diaspore
+- dinothere
+- disfeature
+- disposure
+- doublure
+- drumfire
+- duplicature

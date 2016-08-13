@@ -1,0 +1,23 @@
+---
+pattern: cl_p
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 583075
+score_per_word: 53006
+hi_scored_words:
+  clamp: 19838
+  clap: 14471
+  clasp: 21661
+  cleanup: 14753
+  clerkship: 61773
+  clip: 6688
+  clop: 95623
+  closeup: 32739
+  clump: 31842
+scored_words:
+  claptrap: 123339
+  clifftop: 160348
+not_scored_words:
+- clientship
+- clomp

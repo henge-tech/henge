@@ -1,0 +1,33 @@
+---
+pattern: su_us
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 23
+score: 1084768
+score_per_word: 72317
+hi_scored_words:
+  subconscious: 23664
+  subcutaneous: 29354
+  subgenus: 77955
+  succubus: 76193
+  sulcus: 74525
+  sumptuous: 24955
+  superfluous: 23098
+  superstitious: 28950
+  surplus: 13404
+  surreptitious: 74083
+  suspicious: 7931
+scored_words:
+  subaqueous: 271550
+  sulfurous: 145076
+  supercilious: 103153
+  supposititious: 110877
+not_scored_words:
+- Suetonius
+- subcartilaginous
+- subclavius
+- sudoriferous
+- supercalifragilisticexpialidocious
+- suppositious
+- susurrous
+- susurrus

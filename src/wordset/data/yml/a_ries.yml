@@ -1,0 +1,41 @@
+---
+pattern: a_ries
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 31
+score: 1622327
+score_per_word: 90129
+hi_scored_words:
+  accessories: 4874
+  actuaries: 50437
+  adversaries: 27368
+  advisories: 27303
+  allegories: 86453
+  ancestries: 78373
+  anniversaries: 29359
+  arteries: 16831
+  asymmetries: 57286
+  auxiliaries: 44570
+scored_words:
+  adulteries: 252623
+  ancillaries: 124339
+  antiquaries: 122392
+  apiaries: 191125
+  apothecaries: 131598
+  armories: 130758
+  auguries: 122707
+  aviaries: 123931
+not_scored_words:
+- Aries
+- abhenries
+- acidimetries
+- aeries
+- allometries
+- ambulatories
+- amphigories
+- anemometries
+- anthropometries
+- antiphonaries
+- aperies
+- archdeaconries
+- astrometries

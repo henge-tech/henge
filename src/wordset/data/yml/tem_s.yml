@@ -1,0 +1,33 @@
+---
+pattern: tem_s
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 23
+score: 705206
+score_per_word: 54246
+hi_scored_words:
+  temperaments: 68421
+  temperatures: 8288
+  tempers: 50661
+  tempestuous: 66170
+  templates: 6102
+  temples: 9142
+  tempos: 71636
+  temps: 12776
+  temptations: 22276
+  temptress: 67857
+  tempts: 68958
+scored_words:
+  tempests: 101577
+  temporaries: 151342
+not_scored_words:
+- Templars
+- temblors
+- temperas
+- temperateness
+- tempestuousness
+- temporariness
+- temporizers
+- temporizes
+- tempters
+- temptresses

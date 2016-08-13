@@ -1,0 +1,40 @@
+---
+pattern: _sp
+hi_scored_words_count: 19
+scored_words_count: 0
+total_words: 30
+score: 560292
+score_per_word: 29489
+hi_scored_words:
+  asp: 7085
+  clasp: 21661
+  crisp: 9503
+  cusp: 34856
+  esp: 8807
+  gasp: 17421
+  grasp: 7197
+  hasp: 71722
+  hosp: 30188
+  insp: 62148
+  lisp: 16602
+  rasp: 59825
+  resp: 26985
+  sp: 6687
+  tbsp: 28045
+  transp: 82616
+  tsp: 19641
+  wasp: 19478
+  wisp: 29825
+scored_words: {}
+not_scored_words:
+- ESP
+- ISP
+- SP
+- Sp
+- USP
+- WASP
+- enclasp
+- galliwasp
+- handclasp
+- jurisp
+- unclasp

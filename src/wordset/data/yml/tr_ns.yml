@@ -1,0 +1,54 @@
+---
+pattern: tr_ns
+hi_scored_words_count: 14
+scored_words_count: 11
+total_words: 44
+score: 2345543
+score_per_word: 93821
+hi_scored_words:
+  traditions: 5465
+  trains: 4969
+  trans: 8493
+  transactions: 5572
+  transcriptions: 34508
+  transformations: 15616
+  transfusions: 48503
+  transgressions: 45620
+  transitions: 14402
+  translations: 7539
+  transmissions: 14938
+  triathlons: 93289
+  tribulations: 41575
+  trillions: 54289
+scored_words:
+  tragedians: 111249
+  transliterations: 155909
+  translocations: 101235
+  transpositions: 142410
+  trashcans: 228359
+  triangulations: 138810
+  trimarans: 298863
+  tritons: 145363
+  trons: 216847
+  truncations: 211945
+  truncheons: 199775
+not_scored_words:
+- Trinidadians
+- Trinitarians
+- Tritons
+- Trojans
+- tragopans
+- transductions
+- transmutations
+- transudations
+- trapezohedrons
+- trepans
+- trephinations
+- trepidations
+- tricorns
+- trigons
+- tripalmitins
+- trivializations
+- trogons
+- trunnions
+- tryptophans

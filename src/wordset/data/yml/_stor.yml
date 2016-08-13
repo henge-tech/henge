@@ -1,0 +1,30 @@
+---
+pattern: _stor
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 20
+score: 1177951
+score_per_word: 78530
+hi_scored_words:
+  ancestor: 12409
+  castor: 22999
+  combustor: 94485
+  impostor: 47612
+  investor: 14066
+  pastor: 7996
+  resistor: 20087
+  stor: 38174
+  thermistor: 73313
+  thyristor: 95506
+  transistor: 20715
+scored_words:
+  arrestor: 135917
+  phototransistor: 246820
+  protestor: 105155
+  varistor: 242697
+not_scored_words:
+- Astor
+- Castor
+- Nestor
+- attestor
+- polyhistor

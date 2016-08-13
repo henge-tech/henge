@@ -1,0 +1,31 @@
+---
+pattern: int_ve
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 21
+score: 727668
+score_per_word: 55974
+hi_scored_words:
+  integrative: 25213
+  intensive: 9949
+  interactive: 6419
+  interpretative: 45084
+  interpretive: 19775
+  interrogative: 66676
+  interweave: 86026
+  intransitive: 64912
+  introspective: 38974
+  intrusive: 22265
+  intuitive: 11315
+scored_words:
+  interleave: 118985
+  interwove: 212075
+not_scored_words:
+- intellective
+- interceptive
+- intercommunicative
+- interfluve
+- interpolative
+- interruptive
+- intoxicative
+- introversive

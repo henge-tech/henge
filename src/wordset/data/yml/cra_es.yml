@@ -1,0 +1,34 @@
+---
+pattern: cra_es
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 24
+score: 925661
+score_per_word: 77138
+hi_scored_words:
+  crackles: 85493
+  cradles: 34243
+  cranberries: 38330
+  cranes: 21887
+  crannies: 81261
+  crashes: 16053
+  crates: 30595
+  craves: 57391
+  crazies: 64958
+scored_words:
+  crappies: 218466
+  crawlies: 119946
+  crazes: 157038
+not_scored_words:
+- crabbednesses
+- cracklewares
+- crakes
+- craniates
+- craniotomies
+- crankcases
+- crapes
+- crapulences
+- crassitudes
+- craunches
+- crawlspaces
+- crayfishes

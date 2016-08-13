@@ -1,0 +1,36 @@
+---
+pattern: w_ver
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 26
+score: 1403171
+score_per_word: 77953
+hi_scored_words:
+  waiver: 13131
+  walkover: 97070
+  waver: 45121
+  weaver: 12740
+  whatever: 1167
+  whatsoever: 5995
+  whenever: 2548
+  wherever: 4621
+  whichever: 11013
+  whoever: 6561
+  whomever: 32030
+  whomsoever: 56044
+  whosoever: 31671
+scored_words:
+  whensoever: 285921
+  wheresoever: 130692
+  whithersoever: 204404
+  windhover: 293225
+  woodcarver: 169217
+not_scored_words:
+- Weaver
+- weever
+- whencesoever
+- whichsoever
+- whosesoever
+- whosever
+- wingover
+- wolver

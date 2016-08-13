@@ -1,0 +1,35 @@
+---
+pattern: mo_al
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 25
+score: 1058137
+score_per_word: 75581
+hi_scored_words:
+  modal: 20720
+  molal: 97797
+  monarchical: 95024
+  monaural: 85598
+  monoclonal: 21488
+  monolingual: 67258
+  monumental: 17760
+  moral: 2383
+  morphological: 26184
+  mortal: 7678
+  motivational: 13317
+scored_words:
+  monocultural: 282462
+  monomial: 115184
+  monsoonal: 205284
+not_scored_words:
+- Montreal
+- monachal
+- monarchal
+- monarchial
+- monasterial
+- monastical
+- monaxial
+- monitorial
+- monoclinal
+- monodical
+- monomaniacal

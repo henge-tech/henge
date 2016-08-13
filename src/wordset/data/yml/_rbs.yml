@@ -1,0 +1,37 @@
+---
+pattern: _rbs
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 27
+score: 1816280
+score_per_word: 95593
+hi_scored_words:
+  absorbs: 26722
+  adverbs: 42957
+  barbs: 52241
+  blurbs: 59029
+  burbs: 64278
+  carbs: 15811
+  curbs: 43201
+  disturbs: 49314
+  herbs: 11460
+  orbs: 35517
+  proverbs: 14745
+  suburbs: 8068
+  verbs: 13629
+scored_words:
+  adsorbs: 263513
+  arbs: 163496
+  exurbs: 324074
+  garbs: 192371
+  perturbs: 253770
+  sorbs: 182084
+not_scored_words:
+- Proverbs
+- Serbs
+- bicarbs
+- chemisorbs
+- cowherbs
+- potherbs
+- reabsorbs
+- rhubarbs

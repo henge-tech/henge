@@ -1,0 +1,25 @@
+---
+pattern: p_ced
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 15
+score: 528352
+score_per_word: 40642
+hi_scored_words:
+  paced: 11945
+  pieced: 52909
+  pierced: 11133
+  placed: 1188
+  policed: 79236
+  pounced: 70767
+  practiced: 11356
+  prefaced: 79101
+  prejudiced: 32347
+  priced: 12745
+  produced: 1129
+  pronounced: 6753
+scored_words:
+  pranced: 157743
+not_scored_words:
+- ponced
+- poulticed

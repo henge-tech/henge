@@ -1,0 +1,30 @@
+---
+pattern: curi_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 820492
+score_per_word: 63114
+hi_scored_words:
+  curia: 51238
+  curiae: 60257
+  curie: 32132
+  curing: 19513
+  curio: 40659
+  curios: 56529
+  curiosities: 41977
+  curiosity: 7421
+  curious: 3416
+  curiously: 18606
+scored_words:
+  curies: 158088
+  curiosa: 163374
+  curium: 167282
+not_scored_words:
+- Curia
+- Curiae
+- Curial
+- Curie
+- Curitiba
+- curial
+- curiousness

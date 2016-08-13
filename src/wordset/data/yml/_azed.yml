@@ -1,0 +1,27 @@
+---
+pattern: _azed
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 17
+score: 1367752
+score_per_word: 91183
+hi_scored_words:
+  amazed: 9422
+  blazed: 38027
+  crazed: 31610
+  dazed: 26011
+  fazed: 75084
+  gazed: 21497
+  glazed: 16221
+  grazed: 42603
+  razed: 54468
+  unfazed: 88904
+scored_words:
+  brazed: 112095
+  hazed: 141759
+  lazed: 323115
+  overgrazed: 278557
+  unglazed: 108379
+not_scored_words:
+- Tarazed
+- stargazed

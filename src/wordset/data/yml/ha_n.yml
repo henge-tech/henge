@@ -1,0 +1,100 @@
+---
+pattern: ha_n
+hi_scored_words_count: 25
+scored_words_count: 12
+total_words: 90
+score: 3030833
+score_per_word: 81914
+hi_scored_words:
+  habilitation: 60570
+  habitation: 27926
+  habituation: 66238
+  hackman: 50211
+  hadron: 46239
+  hairpin: 41135
+  halcyon: 38188
+  hallucination: 41331
+  halogen: 26025
+  halon: 84404
+  handgun: 26326
+  handmaiden: 89566
+  handwritten: 24988
+  handyman: 26233
+  hangman: 27669
+  hanuman: 51626
+  happen: 1525
+  harden: 23324
+  harlequin: 26649
+  harmonization: 37092
+  harpoon: 42649
+  harridan: 76842
+  hasten: 24098
+  haven: 5110
+  hawthorn: 20366
+scored_words:
+  hallucinogen: 103474
+  halocarbon: 239437
+  handwoven: 110749
+  handymen: 106353
+  hangmen: 194399
+  hapten: 165616
+  hardpan: 249760
+  harmattan: 134290
+  hartshorn: 120814
+  harvestmen: 239716
+  hatpin: 235994
+  hazan: 143901
+not_scored_words:
+- Haddington
+- Hadean
+- Hadrian
+- Hagen
+- Hahn
+- Hahnemann
+- Hainan
+- Haitian
+- Halafian
+- Halliburton
+- Halloween
+- Halon
+- Hamadan
+- Haman
+- Hambletonian
+- Hamelin
+- Hamilton
+- Hamiltonian
+- Hamlin
+- Hammerstein
+- Hampden
+- Hampton
+- Hamsun
+- Han
+- Hanoverian
+- Hansen
+- Hanson
+- Hanuman
+- Harbin
+- Hardin
+- Harijan
+- Harlan
+- Harlequin
+- Harmon
+- Harriman
+- Harrington
+- Harrison
+- Harrovian
+- Hartman
+- Hartmann
+- Hauptmann
+- Havanan
+- Hawaiian
+- Hayden
+- Haydn
+- habergeon
+- haematoxylon
+- halation
+- handicraftsman
+- harmonicon
+- harshen
+- harvestman
+- haubergeon

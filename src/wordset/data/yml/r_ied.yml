@@ -1,0 +1,35 @@
+---
+pattern: r_ied
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 25
+score: 1692575
+score_per_word: 94031
+hi_scored_words:
+  rallied: 28215
+  rarefied: 71263
+  ratified: 16378
+  readied: 59742
+  reclassified: 43059
+  rectified: 38997
+  relied: 10293
+  remarried: 46742
+  remedied: 40002
+  replied: 3575
+scored_words:
+  ramified: 152796
+  reapplied: 113941
+  reburied: 209369
+  reified: 133342
+  reoccupied: 186593
+  resupplied: 266135
+  retried: 112823
+  reunified: 159310
+not_scored_words:
+- recopied
+- reembodied
+- refortified
+- restudied
+- retied
+- revivified
+- rigidified

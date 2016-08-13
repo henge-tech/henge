@@ -1,0 +1,29 @@
+---
+pattern: farm_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 19
+score: 863300
+score_per_word: 57553
+hi_scored_words:
+  farm: 1470
+  farmed: 31683
+  farmer: 3819
+  farmers: 3609
+  farmhouse: 16784
+  farmhouses: 50844
+  farming: 5993
+  farmland: 18759
+  farmlands: 65607
+  farms: 5051
+  farmstead: 63894
+  farmyard: 51840
+scored_words:
+  farmhand: 116353
+  farmhands: 279078
+  farmsteads: 148516
+not_scored_words:
+- Farmer
+- farmable
+- farmings
+- farmyards

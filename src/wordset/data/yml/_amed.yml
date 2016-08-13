@@ -1,0 +1,51 @@
+---
+pattern: _amed
+hi_scored_words_count: 30
+scored_words_count: 7
+total_words: 41
+score: 2357652
+score_per_word: 63720
+hi_scored_words:
+  ashamed: 8694
+  beamed: 36227
+  blamed: 10669
+  codenamed: 85393
+  creamed: 45126
+  defamed: 97343
+  dreamed: 10528
+  famed: 16678
+  flamed: 46919
+  foamed: 79509
+  framed: 5267
+  gamed: 93403
+  gleamed: 61024
+  inflamed: 26895
+  named: 1223
+  nicknamed: 31704
+  reamed: 85149
+  renamed: 10068
+  roamed: 45945
+  screamed: 16861
+  seamed: 59601
+  shamed: 46311
+  steamed: 20914
+  streamed: 30603
+  tamed: 44573
+  teamed: 16872
+  unashamed: 80492
+  unframed: 72839
+  unnamed: 19690
+  untamed: 40576
+scored_words:
+  daydreamed: 271655
+  lamed: 132685
+  mainstreamed: 120480
+  melamed: 125476
+  misnamed: 135250
+  programed: 152715
+  undreamed: 172295
+not_scored_words:
+- Mohamed
+- forenamed
+- goddamed
+- salaamed

@@ -1,0 +1,33 @@
+---
+pattern: bar_n
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 23
+score: 488335
+score_per_word: 44394
+hi_scored_words:
+  barbarian: 18458
+  barbican: 47270
+  bargain: 3606
+  barman: 42012
+  barn: 6518
+  baron: 7460
+  barren: 14687
+  barton: 10087
+  baryon: 68789
+scored_words:
+  barleycorn: 102014
+  barmen: 167434
+not_scored_words:
+- Barbadian
+- Barbudan
+- Bardeen
+- Barron
+- Barton
+- barbarization
+- barchan
+- bargeman
+- bargemen
+- barracoon
+- bartizan
+- baryton

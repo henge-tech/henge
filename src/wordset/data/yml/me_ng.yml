@@ -1,0 +1,55 @@
+---
+pattern: me_ng
+hi_scored_words_count: 25
+scored_words_count: 11
+total_words: 45
+score: 3023455
+score_per_word: 83984
+hi_scored_words:
+  meandering: 44015
+  meaning: 1468
+  measuring: 13246
+  meatpacking: 70559
+  meddling: 34210
+  mediating: 43125
+  meditating: 37866
+  meeting: 539
+  melding: 68613
+  melting: 10007
+  memorizing: 51863
+  menacing: 27083
+  mending: 41372
+  menstruating: 88388
+  mentioning: 17619
+  mentoring: 12231
+  merchandising: 19275
+  merging: 18880
+  meshing: 70709
+  mesmerizing: 50006
+  messaging: 6424
+  messing: 17339
+  metabolizing: 94888
+  metalworking: 41105
+  metering: 21155
+scored_words:
+  medicating: 100789
+  mellowing: 178484
+  memorializing: 142751
+  meowing: 138421
+  meriting: 154040
+  merrymaking: 208470
+  metamorphosing: 308956
+  metastasizing: 265337
+  meting: 152481
+  mewing: 239348
+  mewling: 232393
+not_scored_words:
+- Mekong
+- Memling
+- mechanizing
+- megaphoning
+- meliorating
+- melodizing
+- mercerizing
+- metricating
+- metricizing

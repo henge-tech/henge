@@ -1,0 +1,84 @@
+---
+pattern: f_te
+hi_scored_words_count: 26
+scored_words_count: 14
+total_words: 74
+score: 3546776
+score_per_word: 88669
+hi_scored_words:
+  fabricate: 43193
+  faceplate: 42557
+  facilitate: 6275
+  fascinate: 54871
+  fate: 3856
+  favorite: 1426
+  featurette: 49643
+  federate: 94134
+  ferrite: 43159
+  fete: 33386
+  filtrate: 60264
+  finite: 7776
+  flatmate: 54862
+  flite: 68208
+  fluctuate: 39762
+  fluorite: 62589
+  flute: 9291
+  footnote: 9427
+  formate: 62656
+  formulate: 16769
+  forte: 15657
+  fortunate: 7389
+  frigate: 24689
+  frostbite: 43319
+  frustrate: 35406
+  fête: 58639
+scored_words:
+  fixate: 125548
+  flagellate: 186061
+  flannelette: 210882
+  fleurette: 219325
+  floodgate: 127423
+  flyte: 141879
+  foliate: 190774
+  footplate: 149872
+  foretaste: 110347
+  fornicate: 170941
+  forsterite: 277449
+  fractionate: 330244
+  fulminate: 173936
+  fumigate: 182892
+not_scored_words:
+- Fichte
+- falcate
+- fasciate
+- fastigiate
+- faveolate
+- fayalite
+- fecundate
+- felicitate
+- felsite
+- ferrate
+- ferroconcrete
+- festinate
+- fibrillate
+- figurate
+- filiate
+- fimbriate
+- fishplate
+- flabellate
+- fleabite
+- flocculate
+- fluoridate
+- fluorinate
+- foliolate
+- foredate
+- forficate
+- fossette
+- fourchette
+- franklinite
+- frizette
+- fulgurate
+- fulgurite
+- funiculate
+- furcate
+- fustigate

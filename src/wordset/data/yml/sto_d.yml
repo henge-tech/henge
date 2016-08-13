@@ -1,0 +1,37 @@
+---
+pattern: sto_d
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 27
+score: 1405378
+score_per_word: 73967
+hi_scored_words:
+  stocked: 17262
+  stockpiled: 75330
+  stoked: 37456
+  stolid: 87392
+  stomped: 55139
+  stoned: 20764
+  stood: 2496
+  stooped: 42632
+  stopped: 2077
+  stored: 3431
+  storied: 42903
+  stormed: 31978
+  storyboard: 43522
+  stowed: 50684
+scored_words:
+  stockinged: 149710
+  stockyard: 118044
+  stonewalled: 180641
+  stonewashed: 217111
+  stoppered: 226806
+not_scored_words:
+- Stoppard
+- stockaded
+- stokehold
+- stomached
+- stonkered
+- stoppled
+- stound
+- stouthearted

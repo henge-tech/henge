@@ -1,0 +1,33 @@
+---
+pattern: hea_er
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 23
+score: 1048265
+score_per_word: 61662
+hi_scored_words:
+  header: 3423
+  headhunter: 52601
+  headliner: 44128
+  headmaster: 32587
+  headquarter: 46699
+  headteacher: 39215
+  headwater: 92372
+  healer: 24756
+  healthier: 16115
+  hearer: 61297
+  heartbreaker: 43727
+  heater: 19438
+  heather: 7056
+  heavier: 10863
+scored_words:
+  headbanger: 131461
+  heartier: 231672
+  heaver: 190855
+not_scored_words:
+- Heather
+- headier
+- headshrinker
+- headwaiter
+- headworker
+- heavenlier

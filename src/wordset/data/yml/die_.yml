@@ -1,0 +1,52 @@
+---
+pattern: die_
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 42
+score: 1701854
+score_per_word: 65455
+hi_scored_words:
+  die: 792
+  died: 1199
+  diehard: 52406
+  dielectric: 21337
+  dielectrics: 83241
+  dies: 4538
+  diesel: 9900
+  diesels: 52140
+  diet: 2689
+  dietary: 14869
+  dieter: 24920
+  dieters: 76836
+  dietetic: 49251
+  dietetics: 60375
+  dietician: 68475
+  dieting: 22253
+  dietitian: 48507
+  dietitians: 66716
+  diets: 18867
+scored_words:
+  dieback: 114267
+  diehards: 131060
+  dieldrin: 106043
+  diencephalon: 149233
+  dieresis: 157819
+  dieted: 258280
+  dieticians: 105841
+not_scored_words:
+- Diefenbaker
+- Diego
+- Diem
+- Dienbienphu
+- Dieppe
+- Dietrich
+- diebacks
+- diencephalons
+- diereses
+- dieseled
+- dieseling
+- dieselize
+- diesis
+- diestock
+- diestocks
+- dietaries

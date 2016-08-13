@@ -1,0 +1,24 @@
+---
+pattern: h_ping
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 472021
+score_per_word: 47202
+hi_scored_words:
+  handicapping: 42868
+  harping: 77061
+  heaping: 59181
+  helping: 2597
+  hoping: 3922
+  hopping: 19414
+  housekeeping: 16441
+  humping: 24109
+  hyping: 93146
+scored_words:
+  hooping: 133282
+not_scored_words:
+- hedgehopping
+- hiccuping
+- hipping
+- horsewhipping

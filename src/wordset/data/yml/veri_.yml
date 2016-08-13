@@ -1,0 +1,39 @@
+---
+pattern: veri_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 29
+score: 1672776
+score_per_word: 83638
+hi_scored_words:
+  verifiable: 30581
+  verification: 10687
+  verifications: 74756
+  verified: 6228
+  verifier: 54723
+  verifies: 32927
+  verify: 6730
+  verifying: 22740
+  verily: 23186
+  verisimilitude: 88523
+  veritable: 25878
+  verite: 85705
+  verity: 29667
+scored_words:
+  veridical: 159971
+  veriest: 107192
+  verifiability: 145604
+  verifiably: 203434
+  verifiers: 153294
+  veritably: 259361
+  verities: 151589
+not_scored_words:
+- Verizon
+- veridicality
+- veridically
+- verier
+- verisimilar
+- verism
+- verismo
+- verist
+- veristic

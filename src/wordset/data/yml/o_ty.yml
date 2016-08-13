@@ -1,0 +1,41 @@
+---
+pattern: o_ty
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 31
+score: 1008246
+score_per_word: 63015
+hi_scored_words:
+  obesity: 18164
+  objectivity: 22028
+  obliquity: 88935
+  obscenity: 34833
+  obscurity: 23122
+  oddity: 38659
+  opacity: 28092
+  operability: 88115
+  opportunity: 856
+  optimality: 47878
+  originality: 15745
+  orthogonality: 84427
+scored_words:
+  observability: 103015
+  optionality: 169050
+  otoplasty: 128258
+  overcapacity: 117069
+not_scored_words:
+- objectionability
+- obtusity
+- oncogenicity
+- opposability
+- oracularity
+- orbicularity
+- organicity
+- orotundity
+- ostensibility
+- overfamiliarity
+- overhasty
+- oversensitivity
+- oversubtlety
+- oviparity
+- ovoviviparity

@@ -1,0 +1,39 @@
+---
+pattern: vap_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 29
+score: 1336777
+score_per_word: 102829
+hi_scored_words:
+  vapid: 62825
+  vapor: 9794
+  vaporization: 73748
+  vaporize: 82926
+  vaporized: 81954
+  vaporizer: 67859
+  vaporizers: 91133
+  vapors: 32315
+scored_words:
+  vaporetto: 228243
+  vaporizes: 193201
+  vaporizing: 161635
+  vaporous: 145096
+  vaporware: 106048
+not_scored_words:
+- vape
+- vaped
+- vapes
+- vapidity
+- vapidly
+- vapidness
+- vaping
+- vaporescence
+- vaporific
+- vaporimeter
+- vaporing
+- vaporings
+- vaporish
+- vaporously
+- vaporousness
+- vapory

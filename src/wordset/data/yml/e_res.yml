@@ -1,0 +1,36 @@
+---
+pattern: e_res
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 26
+score: 1839809
+score_per_word: 108224
+hi_scored_words:
+  embrasures: 90314
+  empires: 14567
+  enclosures: 19623
+  encores: 83218
+  endures: 43393
+  ensures: 15714
+  expenditures: 5879
+  expires: 15319
+  explores: 19701
+  exposures: 18912
+scored_words:
+  emigres: 189828
+  ensnares: 309387
+  epicures: 176135
+  erasures: 151346
+  esquires: 206369
+  etageres: 303796
+  eyesores: 176308
+not_scored_words:
+- Esquires
+- eagres
+- endospores
+- enraptures
+- entablatures
+- enures
+- escritoires
+- euchres
+- exospheres

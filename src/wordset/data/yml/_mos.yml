@@ -1,0 +1,37 @@
+---
+pattern: _mos
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 27
+score: 968602
+score_per_word: 74507
+hi_scored_words:
+  cosmos: 17260
+  demos: 13872
+  dynamos: 90429
+  gizmos: 42942
+  homos: 92233
+  limos: 37338
+  memos: 22527
+  mos: 19348
+  promos: 23062
+  thermos: 36192
+scored_words:
+  emos: 105593
+  exophthalmos: 231489
+  microcosmos: 236317
+not_scored_words:
+- Amos
+- Deimos
+- Eskimos
+- Patmos
+- Ramos
+- Samos
+- Thermos
+- centesimos
+- centimos
+- generalissimos
+- macrocosmos
+- majordomos
+- pianissimos
+- supremos

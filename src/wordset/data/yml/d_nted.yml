@@ -1,0 +1,27 @@
+---
+pattern: d_nted
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 17
+score: 1143558
+score_per_word: 76237
+hi_scored_words:
+  daunted: 81210
+  demented: 31838
+  dented: 62714
+  disappointed: 5124
+  discontented: 67554
+  discounted: 13025
+  disenchanted: 64011
+  disjointed: 40847
+  dismounted: 57174
+  disoriented: 50435
+  dissented: 80532
+  documented: 5944
+scored_words:
+  decanted: 152784
+  decremented: 129539
+  descanted: 300827
+not_scored_words:
+- delinted
+- demounted

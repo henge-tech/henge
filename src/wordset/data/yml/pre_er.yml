@@ -1,0 +1,36 @@
+---
+pattern: pre_er
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 26
+score: 1328967
+score_per_word: 78174
+hi_scored_words:
+  preacher: 11300
+  preamplifier: 75190
+  prefer: 2544
+  premier: 4579
+  preparer: 64522
+  presbyter: 89626
+  preschooler: 71286
+  prescriber: 73965
+  presenter: 16218
+  preserver: 67205
+  presser: 46803
+  pretender: 38531
+  prettier: 30451
+scored_words:
+  preregister: 163988
+  pressurizer: 340764
+  preventer: 110406
+  previewer: 121589
+not_scored_words:
+- Premier
+- Preminger
+- preachier
+- preciser
+- predeterminer
+- predinner
+- preppier
+- presager
+- prevailer

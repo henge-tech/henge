@@ -1,0 +1,24 @@
+---
+pattern: coll_n
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 14
+score: 547459
+score_per_word: 45621
+hi_scored_words:
+  collaboration: 7522
+  collagen: 19843
+  collation: 39374
+  collection: 803
+  colleen: 20071
+  collegian: 76102
+  collimation: 79011
+  collision: 8574
+  collocation: 53316
+  collodion: 87075
+  collusion: 30787
+scored_words:
+  collectivization: 124981
+not_scored_words:
+- Colleen
+- Collin

@@ -1,0 +1,45 @@
+---
+pattern: mea_s
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 35
+score: 1975243
+score_per_word: 79009
+hi_scored_words:
+  meadows: 9748
+  meals: 4566
+  mealtimes: 99900
+  meanders: 74735
+  meaningless: 14177
+  meanings: 10110
+  meanness: 72227
+  means: 335
+  meas: 46917
+  measles: 20199
+  measurements: 5857
+  measures: 1634
+  meatballs: 34275
+  meatless: 81015
+  meats: 13503
+scored_words:
+  meagerness: 203872
+  meagreness: 175218
+  mealworms: 130095
+  mealybugs: 239494
+  meanderings: 104438
+  meanies: 137478
+  meaningfulness: 131757
+  meaninglessness: 121922
+  measureless: 125927
+  meatus: 115844
+not_scored_words:
+- Meadows
+- meadowlarks
+- mealies
+- mealiness
+- meandrous
+- measurelessness
+- meatheads
+- meatiness
+- meatloaves
+- meatuses

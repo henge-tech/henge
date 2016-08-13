@@ -1,0 +1,43 @@
+---
+pattern: all_e
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 33
+score: 1676958
+score_per_word: 83847
+hi_scored_words:
+  allee: 67760
+  allege: 29601
+  allegiance: 11767
+  allele: 25083
+  allemande: 88856
+  alleviate: 16935
+  alliance: 2856
+  allocate: 16380
+  allowable: 13567
+  allowance: 6145
+  allspice: 64811
+  allude: 45838
+  allure: 21665
+scored_words:
+  alliterative: 134488
+  allocable: 108703
+  allocatable: 149723
+  allophone: 276725
+  allottee: 248984
+  allusive: 172017
+  allée: 175054
+not_scored_words:
+- Allende
+- Allhallowtide
+- Allie
+- Allstate
+- allanite
+- allative
+- allegeable
+- allegorize
+- alleviative
+- alliterate
+- allonge
+- allophane
+- allotrope

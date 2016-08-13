@@ -1,0 +1,34 @@
+---
+pattern: vig_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 24
+score: 1258396
+score_per_word: 78649
+hi_scored_words:
+  vigil: 20297
+  vigilance: 20778
+  vigilant: 21682
+  vigilante: 36751
+  vigilantes: 60093
+  vigils: 66049
+  vignette: 35796
+  vignettes: 39343
+  vigor: 17286
+  vigorous: 10815
+  vigorously: 15358
+scored_words:
+  vigesimal: 188929
+  vigilantism: 175319
+  vigilantly: 159927
+  vignetted: 285658
+  vignetting: 104315
+not_scored_words:
+- Vignola
+- Vigo
+- vigilanteism
+- vigilantist
+- vignettist
+- vignettists
+- vigorless
+- vigorousness

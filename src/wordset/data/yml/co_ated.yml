@@ -1,0 +1,56 @@
+---
+pattern: co_ated
+hi_scored_words_count: 27
+scored_words_count: 6
+total_words: 46
+score: 1884317
+score_per_word: 57100
+hi_scored_words:
+  coated: 10231
+  collaborated: 23727
+  collated: 48119
+  combated: 98083
+  commemorated: 48181
+  communicated: 10137
+  compensated: 16451
+  complicated: 4704
+  concatenated: 66530
+  concentrated: 6651
+  confederated: 78678
+  confiscated: 24222
+  congratulated: 30197
+  congregated: 83704
+  conjugated: 29683
+  consecrated: 23466
+  consolidated: 8648
+  constipated: 62351
+  consummated: 53213
+  contaminated: 13051
+  contemplated: 13632
+  contraindicated: 54471
+  cooperated: 42965
+  coordinated: 8513
+  correlated: 17353
+  corroborated: 45783
+  corrugated: 27948
+scored_words:
+  coagulated: 109167
+  collimated: 102898
+  collocated: 115947
+  commiserated: 244072
+  conciliated: 242797
+  conflated: 118744
+not_scored_words:
+- cogitated
+- colligated
+- commentated
+- commutated
+- confabulated
+- conglobated
+- conglomerated
+- conglutinated
+- consociated
+- constellated
+- consternated
+- copulated
+- coruscated

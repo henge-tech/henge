@@ -1,0 +1,23 @@
+---
+pattern: nobl_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 706452
+score_per_word: 70645
+hi_scored_words:
+  noble: 2760
+  nobleman: 34074
+  noblemen: 59950
+  nobler: 47761
+  nobles: 17467
+  noblesse: 81912
+  noblest: 39231
+  nobly: 71794
+scored_words:
+  nobleness: 166873
+  noblewoman: 184630
+not_scored_words:
+- Noble
+- noblesses
+- noblewomen

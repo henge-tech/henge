@@ -1,0 +1,34 @@
+---
+pattern: r_lity
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 24
+score: 1079481
+score_per_word: 83037
+hi_scored_words:
+  rationality: 28259
+  readability: 28455
+  reality: 1649
+  reliability: 13603
+  repeatability: 56723
+  reproducibility: 43233
+  respectability: 39806
+  responsibility: 1586
+  reversibility: 81426
+scored_words:
+  rascality: 134728
+  reasonability: 306400
+  reducibility: 150316
+  replicability: 193297
+not_scored_words:
+- reciprocality
+- reconcilability
+- regality
+- remissibility
+- reprehensibility
+- reputability
+- resolvability
+- retainability
+- retractility
+- risibility
+- roadability

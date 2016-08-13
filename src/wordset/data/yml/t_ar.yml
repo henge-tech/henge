@@ -1,0 +1,47 @@
+---
+pattern: t_ar
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 37
+score: 1382679
+score_per_word: 72772
+hi_scored_words:
+  tabular: 30868
+  tar: 8459
+  tartar: 34063
+  taskbar: 40391
+  tear: 5072
+  testicular: 28478
+  thar: 45817
+  thermonuclear: 59694
+  titular: 36645
+  tolar: 76366
+  toolbar: 9228
+  trabecular: 88447
+  triangular: 16007
+  tubular: 20057
+scored_words:
+  tonsillar: 195902
+  trilinear: 157738
+  trocar: 142502
+  tubercular: 161858
+  tutelar: 225087
+not_scored_words:
+- Tartar
+- Tatar
+- Telstar
+- Templar
+- Thar
+- Trafalgar
+- Tsitsihar
+- tahsildar
+- tegular
+- tentacular
+- thenar
+- tramcar
+- translunar
+- transpolar
+- trimolecular
+- trochlear
+- tumular
+- typebar

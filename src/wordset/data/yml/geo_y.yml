@@ -1,0 +1,31 @@
+---
+pattern: geo_y
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 21
+score: 644180
+score_per_word: 53681
+hi_scored_words:
+  geochemistry: 41861
+  geodesy: 55005
+  geographically: 21224
+  geography: 4867
+  geologically: 79493
+  geology: 9527
+  geometrically: 50043
+  geometry: 8396
+  geomorphology: 56540
+  geostationary: 65857
+scored_words:
+  geochronology: 133329
+  geomancy: 118038
+not_scored_words:
+- Geoffrey
+- geocentrically
+- geognosy
+- geomagnetically
+- geophagy
+- geophysically
+- geopolitically
+- geosynchronously
+- geothermally

@@ -1,0 +1,23 @@
+---
+pattern: los_
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 13
+score: 86565
+score_per_word: 9618
+hi_scored_words:
+  lose: 1576
+  loser: 13348
+  losers: 19050
+  loses: 8049
+  losing: 3033
+  loss: 730
+  losses: 3788
+  lossless: 36497
+  lost: 494
+scored_words: {}
+not_scored_words:
+- Los
+- losable
+- losel
+- losings

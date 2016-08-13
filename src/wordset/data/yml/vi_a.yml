@@ -1,0 +1,52 @@
+---
+pattern: vi_a
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 42
+score: 874724
+score_per_word: 67286
+hi_scored_words:
+  via: 1461
+  victoria: 3096
+  villa: 4515
+  vina: 59627
+  viola: 15045
+  visa: 9826
+  viscera: 56784
+  vista: 6428
+  vita: 14157
+  viva: 16607
+scored_words:
+  vicuna: 205930
+  virga: 166742
+  vitta: 314506
+not_scored_words:
+- VISTA
+- Viagra
+- Victoria
+- Victrola
+- Vida
+- Vienna
+- Vignola
+- Vijayawada
+- Vila
+- Villa
+- Villahermosa
+- Vilma
+- Vilna
+- Vindobna
+- Vindobona
+- Vinnitsa
+- Viola
+- Virginia
+- Visa
+- Vistula
+- Vitoria
+- Vivekananda
+- Viyella
+- viatica
+- vibrissa
+- vicuña
+- viscacha
+- vivaria
+- vizcacha

@@ -1,0 +1,26 @@
+---
+pattern: sta_ly
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 558720
+score_per_word: 62080
+hi_scored_words:
+  stably: 76539
+  starkly: 61602
+  startlingly: 76644
+  stately: 16952
+  statically: 40085
+  statistically: 9978
+  statutorily: 81682
+  staunchly: 80403
+scored_words:
+  staggeringly: 114835
+not_scored_words:
+- stagily
+- stagnantly
+- staidly
+- stalely
+- stalwartly
+- stammeringly
+- starchily

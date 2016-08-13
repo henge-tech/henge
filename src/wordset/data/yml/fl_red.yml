@@ -1,0 +1,21 @@
+---
+pattern: fl_red
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 11
+score: 533688
+score_per_word: 53368
+hi_scored_words:
+  flared: 31577
+  flattered: 34476
+  flavored: 19293
+  flickered: 57016
+  floored: 50843
+  floured: 76451
+  flowered: 35954
+  flustered: 55784
+  fluttered: 62119
+scored_words:
+  floundered: 110175
+not_scored_words:
+- flittered

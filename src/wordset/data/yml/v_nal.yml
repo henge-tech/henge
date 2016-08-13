@@ -1,0 +1,26 @@
+---
+pattern: v_nal
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 847865
+score_per_word: 84786
+hi_scored_words:
+  vaginal: 13460
+  variational: 47197
+  venal: 81729
+  vernal: 34423
+  vibrational: 33440
+  virginal: 71584
+  vocational: 12784
+  volitional: 98864
+scored_words:
+  vegetational: 237466
+  vicinal: 216918
+not_scored_words:
+- Viminal
+- vaticinal
+- venational
+- visional
+- visitational
+- vivisectional

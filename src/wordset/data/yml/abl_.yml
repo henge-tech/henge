@@ -1,0 +1,33 @@
+---
+pattern: abl_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 23
+score: 1556125
+score_per_word: 111151
+hi_scored_words:
+  abl: 43313
+  ablation: 33497
+  ablative: 75343
+  ablaze: 36516
+  able: 343
+  ablest: 75361
+  ablution: 67542
+  ably: 32603
+scored_words:
+  ablate: 267756
+  ablated: 169723
+  ablations: 313171
+  abler: 129469
+  abloom: 202966
+  ablutions: 108522
+not_scored_words:
+- ablates
+- ablating
+- ablatives
+- ablaut
+- ablauts
+- ableism
+- ableisms
+- ableist
+- ablepsia

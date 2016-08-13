@@ -1,0 +1,39 @@
+---
+pattern: mig_
+hi_scored_words_count: 20
+scored_words_count: 2
+total_words: 29
+score: 905577
+score_per_word: 41162
+hi_scored_words:
+  mig: 19268
+  might: 250
+  might've: 30734
+  mightier: 65613
+  mightiest: 66563
+  mightily: 42521
+  mightn't: 44613
+  mighty: 3991
+  mignon: 42018
+  migraine: 18525
+  migraines: 28208
+  migrant: 16683
+  migrants: 18690
+  migrate: 18904
+  migrated: 22900
+  migrates: 66950
+  migrating: 21602
+  migration: 5811
+  migrations: 31348
+  migratory: 22381
+scored_words:
+  mignonette: 147674
+  migrator: 170330
+not_scored_words:
+- MiG
+- Miguel
+- mightiness
+- mights
+- mignonettes
+- migrainous
+- migrational

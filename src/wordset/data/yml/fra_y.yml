@@ -1,0 +1,29 @@
+---
+pattern: fra_y
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 19
+score: 564776
+score_per_word: 56477
+hi_scored_words:
+  fragility: 47744
+  fragmentary: 39400
+  frailty: 51806
+  frankly: 7423
+  frantically: 26993
+  fraternity: 12518
+  fraudulently: 54530
+  fray: 19820
+scored_words:
+  fractionally: 125802
+  fraternally: 178740
+not_scored_words:
+- Franny
+- fractiously
+- fragilely
+- fragmentarily
+- fragrantly
+- frailly
+- franchisability
+- frangibility
+- franticly

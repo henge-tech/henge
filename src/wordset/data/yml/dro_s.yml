@@ -1,0 +1,35 @@
+---
+pattern: dro_s
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 25
+score: 1418686
+score_per_word: 78815
+hi_scored_words:
+  droids: 54217
+  drones: 36026
+  drools: 87248
+  droplets: 29561
+  dropouts: 40874
+  droppings: 42264
+  drops: 4391
+  dross: 55341
+  droughts: 43118
+  droves: 50696
+  drowns: 64920
+  drowsiness: 29324
+scored_words:
+  drogues: 191582
+  dromedaries: 160633
+  droops: 188012
+  droppers: 115192
+  drovers: 100852
+  drownings: 124435
+not_scored_words:
+- drolleries
+- drollness
+- droopiness
+- dropkicks
+- droshkies
+- drosophilas
+- drowses

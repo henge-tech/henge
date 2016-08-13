@@ -1,0 +1,29 @@
+---
+pattern: t_ot
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 994356
+score_per_word: 82863
+hi_scored_words:
+  taproot: 56069
+  tarot: 19045
+  teapot: 24124
+  tenderfoot: 95403
+  toot: 39042
+  tot: 11343
+  trot: 21019
+  troubleshoot: 34590
+  turbot: 76064
+scored_words:
+  topknot: 222656
+  tosspot: 293730
+  tricot: 101271
+not_scored_words:
+- Talbot
+- Tarot
+- Turgot
+- tinpot
+- tommyrot
+- troubleshot
+- troublespot

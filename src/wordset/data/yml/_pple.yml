@@ -1,0 +1,31 @@
+---
+pattern: _pple
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 21
+score: 1348418
+score_per_word: 89894
+hi_scored_words:
+  apple: 2074
+  cripple: 18833
+  dapple: 99554
+  grapple: 28872
+  nipple: 15780
+  pineapple: 16818
+  ripple: 18406
+  stipple: 96310
+  supple: 24395
+  tipple: 80207
+  topple: 39652
+scored_words:
+  fipple: 255546
+  mayapple: 326573
+  popple: 185086
+  scrapple: 140312
+not_scored_words:
+- Apple
+- Snapple
+- Whipple
+- hopple
+- stopple
+- swipple

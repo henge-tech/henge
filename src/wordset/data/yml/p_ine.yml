@@ -1,0 +1,73 @@
+---
+pattern: p_ine
+hi_scored_words_count: 19
+scored_words_count: 18
+total_words: 63
+score: 3669118
+score_per_word: 99165
+hi_scored_words:
+  palatine: 25391
+  peregrine: 29769
+  phenylalanine: 44390
+  philistine: 58718
+  phosphine: 86233
+  pine: 3861
+  pipeline: 9246
+  piscine: 59567
+  polycrystalline: 70581
+  porcine: 41428
+  porcupine: 28490
+  praline: 81860
+  pristine: 19666
+  proline: 37157
+  punchline: 52366
+  purine: 54701
+  pyridine: 51409
+  pyridoxine: 68662
+  pyrimidine: 60781
+scored_words:
+  papaverine: 149336
+  passerine: 113802
+  pethidine: 164445
+  phencyclidine: 117696
+  phenothiazine: 164789
+  phosphocreatine: 192390
+  phthalocyanine: 159209
+  pilocarpine: 114094
+  piperidine: 153629
+  plasticine: 127878
+  pontine: 124350
+  predefine: 267796
+  predetermine: 190307
+  procaine: 100788
+  protamine: 124307
+  ptomaine: 106446
+  putrescine: 149583
+  pyrrolidine: 263997
+not_scored_words:
+- Paine
+- Palestine
+- Pauline
+- Petrine
+- Philippine
+- Philistine
+- Plasticine
+- Proserpine
+- patine
+- pavonine
+- pelerine
+- percaline
+- pericline
+- phenacaine
+- phenazine
+- phenetidine
+- phenosafranine
+- phenylamine
+- phocine
+- picoline
+- piperine
+- predestine
+- preexamine
+- primine
+- prolamine
+- psittacine

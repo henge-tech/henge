@@ -1,0 +1,41 @@
+---
+pattern: fig_
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 31
+score: 1680206
+score_per_word: 67208
+hi_scored_words:
+  fig: 3722
+  fight: 1217
+  fightback: 93383
+  fighter: 7775
+  fighters: 8257
+  fighting: 1950
+  fights: 8700
+  figment: 51801
+  figs: 14827
+  figural: 61795
+  figuration: 77323
+  figurative: 23516
+  figuratively: 38477
+  figure: 571
+  figured: 6121
+  figurehead: 60959
+  figures: 1674
+  figurine: 21333
+  figurines: 15301
+  figuring: 18662
+scored_words:
+  figments: 154843
+  figurant: 240384
+  figureheads: 200151
+  figurer: 283359
+  figwort: 284105
+not_scored_words:
+- Figaro
+- Figueroa
+- figurate
+- figurativeness
+- figurers
+- figworts

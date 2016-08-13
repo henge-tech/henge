@@ -1,0 +1,32 @@
+---
+pattern: _ache
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 22
+score: 1094965
+score_per_word: 64409
+hi_scored_words:
+  ache: 17037
+  apache: 10388
+  attache: 40120
+  backache: 58409
+  cache: 8522
+  earache: 53620
+  gouache: 65850
+  headache: 7741
+  heartache: 31618
+  mustache: 26631
+  panache: 37399
+  tache: 95396
+  toothache: 45833
+scored_words:
+  bellyache: 196715
+  geocache: 127762
+  huarache: 130407
+  stomachache: 141517
+not_scored_words:
+- Andromache
+- Apache
+- Didache
+- Saguache
+- soutache

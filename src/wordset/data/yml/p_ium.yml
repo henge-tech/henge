@@ -1,0 +1,60 @@
+---
+pattern: p_ium
+hi_scored_words_count: 12
+scored_words_count: 12
+total_words: 50
+score: 2683488
+score_per_word: 111812
+hi_scored_words:
+  palladium: 28224
+  pandemonium: 44212
+  penicillium: 92473
+  pericardium: 73668
+  planetarium: 31509
+  plasmodium: 42061
+  plutonium: 23230
+  podium: 19520
+  potassium: 11742
+  premium: 5334
+  presidium: 74488
+  proscenium: 82417
+scored_words:
+  pallium: 110130
+  paramecium: 114261
+  pelargonium: 107084
+  polonium: 109306
+  positronium: 283139
+  praseodymium: 191760
+  primordium: 176959
+  principium: 243712
+  promethium: 213043
+  protactinium: 228168
+  protium: 233514
+  puerperium: 143534
+not_scored_words:
+- Palladium
+- Pentium
+- Presidium
+- pancratium
+- parapodium
+- patagium
+- peculium
+- perichondrium
+- pericranium
+- peridium
+- perinephrium
+- perineurium
+- perionychium
+- perithecium
+- polychasium
+- polyzoarium
+- procambium
+- promycelium
+- prostomium
+- prothalamium
+- protoactinium
+- psalterium
+- puparium
+- pycnidium
+- pygidium
+- pyxidium

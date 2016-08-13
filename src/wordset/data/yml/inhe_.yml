@@ -1,0 +1,32 @@
+---
+pattern: inhe_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 924011
+score_per_word: 71077
+hi_scored_words:
+  inherent: 7595
+  inherently: 20028
+  inherit: 14434
+  inheritance: 7187
+  inheritances: 98384
+  inherited: 5661
+  inheriting: 51649
+  inheritors: 99792
+  inherits: 37273
+scored_words:
+  inhere: 143912
+  inheres: 208353
+  inheritable: 108482
+  inheritor: 121261
+not_scored_words:
+- inhered
+- inherence
+- inherences
+- inherency
+- inhering
+- inheritability
+- inheritrix
+- inheritrixes
+- inhesion

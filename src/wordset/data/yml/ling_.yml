@@ -1,0 +1,44 @@
+---
+pattern: ling_
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 34
+score: 1681293
+score_per_word: 76422
+hi_scored_words:
+  ling: 17372
+  linger: 28314
+  lingered: 33993
+  lingerie: 9551
+  lingering: 20809
+  lingers: 44220
+  lingo: 26069
+  lingua: 31053
+  lingual: 25181
+  linguine: 85360
+  linguist: 31301
+  linguistic: 12378
+  linguistically: 46948
+  linguistics: 13408
+  linguists: 38592
+scored_words:
+  lingam: 106590
+  lingcod: 121279
+  lingeringly: 214510
+  lingonberry: 274958
+  lings: 104857
+  linguas: 289648
+  linguini: 104902
+not_scored_words:
+- lingams
+- lingcods
+- lingerer
+- lingerers
+- lingerings
+- lingoes
+- lingonberries
+- lingually
+- linguiform
+- linguinis
+- linguistician
+- lingulate

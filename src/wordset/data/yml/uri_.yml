@@ -1,0 +1,28 @@
+---
+pattern: uri_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 18
+score: 857612
+score_per_word: 71467
+hi_scored_words:
+  uric: 44742
+  urinal: 38993
+  urinals: 55727
+  urinalysis: 60201
+  urinary: 13817
+  urinate: 45217
+  urinating: 51504
+  urination: 35787
+  urine: 10523
+scored_words:
+  urinated: 102247
+  urinates: 211130
+  uriniferous: 187724
+not_scored_words:
+- Uriah
+- Uriel
+- Uris
+- urial
+- urials
+- urinalyses

@@ -1,0 +1,60 @@
+---
+pattern: show_
+hi_scored_words_count: 30
+scored_words_count: 9
+total_words: 50
+score: 2547638
+score_per_word: 65324
+hi_scored_words:
+  show: 199
+  showbiz: 21005
+  showboat: 75079
+  showcase: 10537
+  showcased: 34580
+  showcases: 22268
+  showcasing: 27264
+  showdown: 18158
+  showed: 1670
+  shower: 3246
+  showered: 37766
+  showering: 36060
+  showers: 6028
+  showgirl: 72767
+  showgirls: 71616
+  showground: 80175
+  showing: 1327
+  showings: 50712
+  showman: 53430
+  showmanship: 61315
+  shown: 804
+  showoff: 64606
+  showpiece: 87798
+  showplace: 69398
+  showroom: 17397
+  showrooms: 43481
+  shows: 850
+  showstopper: 78144
+  showtime: 17924
+  showy: 36296
+scored_words:
+  showboating: 239892
+  showbread: 145235
+  showdowns: 140458
+  showery: 189648
+  showgrounds: 122881
+  showjumping: 118442
+  showmen: 128736
+  showpieces: 244787
+  showstoppers: 115659
+not_scored_words:
+- Showa
+- showboated
+- showboats
+- showerproof
+- showier
+- showiest
+- showily
+- showiness
+- showoffs
+- showplaces
+- showstopping

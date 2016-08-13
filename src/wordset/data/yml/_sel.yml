@@ -1,0 +1,45 @@
+---
+pattern: _sel
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 35
+score: 1384704
+score_per_word: 76928
+hi_scored_words:
+  carousel: 21396
+  chisel: 25502
+  counsel: 3310
+  damsel: 34009
+  diesel: 9900
+  easel: 27664
+  morsel: 47278
+  mussel: 33653
+  tassel: 36131
+  tinsel: 41024
+  vessel: 3690
+  weasel: 24411
+scored_words:
+  groundsel: 190277
+  handsel: 235782
+  housel: 172928
+  passel: 122482
+  streusel: 188373
+  teasel: 166894
+not_scored_words:
+- Basel
+- Bessel
+- Cassel
+- Edsel
+- Geisel
+- Hansel
+- IJssel
+- Kassel
+- Mosel
+- Overijssel
+- Russel
+- Weichsel
+- Wiesel
+- gunsel
+- losel
+- ousel
+- scissel

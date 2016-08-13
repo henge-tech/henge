@@ -1,0 +1,38 @@
+---
+pattern: cor_n
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 28
+score: 1167356
+score_per_word: 72959
+hi_scored_words:
+  cordon: 29782
+  corn: 3496
+  coronation: 17497
+  corporation: 2077
+  correction: 5748
+  correlation: 11267
+  corroboration: 55291
+  corrosion: 13773
+  corruption: 4889
+scored_words:
+  corban: 147756
+  cordilleran: 162071
+  cordovan: 106140
+  cornelian: 168594
+  corpsman: 101034
+  corpsmen: 185968
+  corrugation: 151973
+not_scored_words:
+- Cordovan
+- Corinthian
+- Cornishman
+- Cornishmen
+- Cornishwoman
+- Corsican
+- Corydon
+- cordwain
+- corelation
+- cornucopian
+- corrasion
+- coruscation

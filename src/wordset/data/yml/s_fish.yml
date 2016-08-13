@@ -1,0 +1,28 @@
+---
+pattern: s_fish
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 904221
+score_per_word: 82201
+hi_scored_words:
+  sailfish: 67752
+  sawfish: 90330
+  selfish: 9567
+  shellfish: 25940
+  silverfish: 85918
+  spearfish: 79739
+  starfish: 27944
+  sunfish: 50196
+  swordfish: 36058
+scored_words:
+  standoffish: 161991
+  surgeonfish: 268786
+not_scored_words:
+- sheatfish
+- snailfish
+- spadefish
+- stiffish
+- stonefish
+- suckerfish
+- swellfish

@@ -1,0 +1,28 @@
+---
+pattern: _aise
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 18
+score: 1438247
+score_per_word: 102731
+hi_scored_words:
+  appraise: 42378
+  chaise: 27923
+  liaise: 49897
+  malaise: 39805
+  mayonnaise: 29136
+  polonaise: 83511
+  praise: 3668
+  raise: 2022
+scored_words:
+  braise: 132108
+  dispraise: 188931
+  fraise: 183090
+  lyonnaise: 181437
+  reappraise: 265173
+  upraise: 209168
+not_scored_words:
+- Bearnaise
+- Bordelaise
+- Marseillaise
+- overpraise

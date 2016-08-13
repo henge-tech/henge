@@ -1,0 +1,36 @@
+---
+pattern: af_t
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 26
+score: 973337
+score_per_word: 64889
+hi_scored_words:
+  affect: 2563
+  afferent: 45144
+  affidavit: 18817
+  afflict: 51131
+  affluent: 21826
+  affront: 40255
+  afloat: 26611
+  afoot: 33084
+  aft: 14394
+  aftermarket: 18703
+  afterthought: 41536
+scored_words:
+  affiant: 129941
+  affright: 177610
+  aforethought: 115142
+  aftereffect: 236580
+not_scored_words:
+- AFT
+- Africanist
+- Afrocentrist
+- affirmant
+- afforest
+- afreet
+- afrit
+- afterheat
+- aftermost
+- aftershaft
+- aftmost

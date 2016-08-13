@@ -1,0 +1,23 @@
+---
+pattern: p_ise
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 13
+score: 297606
+score_per_word: 29760
+hi_scored_words:
+  pairwise: 43540
+  paradise: 3801
+  piecewise: 56159
+  poise: 33238
+  polonaise: 83511
+  porpoise: 52186
+  praise: 3668
+  precise: 5160
+  premise: 14294
+  promise: 2049
+scored_words: {}
+not_scored_words:
+- Paradise
+- presurmise
+- procompromise

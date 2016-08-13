@@ -1,0 +1,57 @@
+---
+pattern: mi_on
+hi_scored_words_count: 23
+scored_words_count: 10
+total_words: 47
+score: 2693883
+score_per_word: 81632
+hi_scored_words:
+  micron: 27343
+  midsection: 86898
+  mignon: 42018
+  migration: 5811
+  militarization: 81294
+  million: 578
+  mineralization: 46561
+  miniaturization: 83506
+  minimization: 31989
+  minion: 31896
+  ministration: 93393
+  misappropriation: 55046
+  miscalculation: 79323
+  miscegenation: 97631
+  miscommunication: 68948
+  misconception: 27074
+  misdirection: 81615
+  misinformation: 26491
+  misinterpretation: 57183
+  misrepresentation: 28110
+  mission: 1195
+  mitigation: 15345
+  mitochondrion: 75695
+scored_words:
+  microencapsulation: 258430
+  micturition: 133433
+  misallocation: 168856
+  misapplication: 108334
+  misapprehension: 106159
+  misconstruction: 157722
+  misidentification: 133056
+  misperception: 102463
+  mispronunciation: 199502
+  mistranslation: 180985
+not_scored_words:
+- Michelson
+- Middleton
+- Milton
+- Miquelon
+- microaggression
+- microminiaturization
+- midiron
+- millimicron
+- misadministration
+- misimpression
+- misorientation
+- misprision
+- misquotation
+- misreckon

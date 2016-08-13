@@ -1,0 +1,41 @@
+---
+pattern: road_
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 31
+score: 1738456
+score_per_word: 72435
+hi_scored_words:
+  road: 357
+  roadblock: 44214
+  roadblocks: 42550
+  roadhouse: 44141
+  roadie: 61002
+  roadkill: 61257
+  roadrunner: 35744
+  roadrunners: 75639
+  roads: 2860
+  roadshow: 27873
+  roadshows: 96038
+  roadside: 14575
+  roadsides: 80653
+  roadstead: 91578
+  roadster: 31930
+  roadway: 15313
+  roadways: 38332
+  roadworks: 66073
+scored_words:
+  roadbed: 108355
+  roadies: 109434
+  roadsigns: 288678
+  roadsters: 113458
+  roadwork: 108006
+  roadworthy: 180396
+not_scored_words:
+- roadability
+- roadbeds
+- roadblocked
+- roadblocking
+- roadhog
+- roadhouses
+- roadsteads

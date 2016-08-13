@@ -1,0 +1,45 @@
+---
+pattern: _dged
+hi_scored_words_count: 21
+scored_words_count: 7
+total_words: 35
+score: 2114770
+score_per_word: 75527
+hi_scored_words:
+  abridged: 21014
+  acknowledged: 6232
+  adjudged: 51394
+  bridged: 39200
+  dislodged: 63594
+  dodged: 50181
+  dredged: 50910
+  edged: 17175
+  fledged: 35139
+  hedged: 50788
+  judged: 7301
+  lodged: 12940
+  misjudged: 79262
+  nudged: 63009
+  pledged: 12362
+  ridged: 75768
+  smudged: 96771
+  trudged: 78959
+  unabridged: 30231
+  unacknowledged: 70420
+  wedged: 49371
+scored_words:
+  badged: 118478
+  begrudged: 155019
+  budged: 151603
+  fudged: 142303
+  grudged: 115102
+  prejudged: 266936
+  unfledged: 203308
+not_scored_words:
+- bodged
+- cadged
+- drudged
+- kludged
+- rejudged
+- sledged
+- unbridged

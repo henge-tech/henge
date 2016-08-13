@@ -1,0 +1,67 @@
+---
+pattern: p_ics
+hi_scored_words_count: 21
+scored_words_count: 16
+total_words: 57
+score: 3653432
+score_per_word: 98741
+hi_scored_words:
+  panics: 53130
+  paramedics: 28378
+  pediatrics: 16461
+  phonetics: 41113
+  phonics: 31025
+  physics: 3981
+  picnics: 36598
+  pics: 1192
+  plastics: 9244
+  pneumatics: 71546
+  poetics: 37251
+  polemics: 71041
+  politics: 1421
+  polytechnics: 94896
+  pragmatics: 48589
+  prosthetics: 46045
+  psychedelics: 81513
+  psychics: 36633
+  psycholinguistics: 92906
+  psychophysics: 93005
+  pyrotechnics: 50493
+scored_words:
+  pandemics: 106513
+  panegyrics: 119909
+  paraplegics: 248562
+  pedagogics: 240081
+  periodontics: 105461
+  pharmaceutics: 115306
+  phenolics: 125841
+  polyclinics: 269726
+  prognostics: 148997
+  prophylactics: 239545
+  prosthodontics: 119967
+  psychodynamics: 204342
+  psychometrics: 110591
+  psychosomatics: 214956
+  psychotics: 139990
+  psychotropics: 197184
+not_scored_words:
+- Paralympics
+- Pindarics
+- paralytics
+- parasympathetics
+- paretics
+- patronymics
+- peptics
+- peripatetics
+- philharmonics
+- philippics
+- phobics
+- phonemics
+- photodynamics
+- pneumodynamics
+- proxemics
+- psychodiagnostics
+- psychoneurotics
+- psychotechnics
+- pyrognostics
+- pyrrhics

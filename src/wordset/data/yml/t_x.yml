@@ -1,0 +1,31 @@
+---
+pattern: t_x
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 21
+score: 1108143
+score_per_word: 85241
+hi_scored_words:
+  tableaux: 47051
+  tax: 577
+  telex: 29904
+  thorax: 36104
+  tinderbox: 56478
+  toolbox: 17258
+  tox: 44399
+  triplex: 63193
+  tux: 28340
+scored_words:
+  tectrix: 288427
+  testatrix: 131496
+  toadflax: 213106
+  transfix: 151810
+not_scored_words:
+- TWX
+- TX
+- Tampax
+- TeX
+- Tex
+- Timex
+- tippex
+- trousseaux

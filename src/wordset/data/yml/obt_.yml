@@ -1,0 +1,39 @@
+---
+pattern: obt_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 29
+score: 974248
+score_per_word: 81187
+hi_scored_words:
+  obtain: 1720
+  obtainable: 29192
+  obtained: 1519
+  obtaining: 4574
+  obtains: 18711
+  obtrude: 75133
+  obtrusive: 64115
+  obtuse: 39486
+scored_words:
+  obtainment: 188295
+  obtruded: 139354
+  obtruding: 221358
+  obtuseness: 190791
+not_scored_words:
+- obtainer
+- obtect
+- obtest
+- obtruder
+- obtrudes
+- obtrusion
+- obtrusively
+- obtrusiveness
+- obtund
+- obtunded
+- obtunding
+- obtunds
+- obturate
+- obtusely
+- obtuser
+- obtusest
+- obtusity

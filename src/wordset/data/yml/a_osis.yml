@@ -1,0 +1,41 @@
+---
+pattern: a_osis
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 31
+score: 1526264
+score_per_word: 109018
+hi_scored_words:
+  acidosis: 41970
+  anastomosis: 52667
+  apoptosis: 20477
+  apotheosis: 65493
+  arteriosclerosis: 48690
+  asbestosis: 85326
+  aspergillosis: 98827
+  atherosclerosis: 30622
+scored_words:
+  actinomycosis: 174588
+  agranulocytosis: 144866
+  alkalosis: 120828
+  ankylosis: 234929
+  apodosis: 141892
+  aponeurosis: 265089
+not_scored_words:
+- abiosis
+- aerobiosis
+- aeroneurosis
+- alphosis
+- amaurosis
+- amitosis
+- amphiarthrosis
+- anabiosis
+- anadiplosis
+- anamorphosis
+- anthracosilicosis
+- anthracosis
+- anthropomorphosis
+- antibiosis
+- astereognosis
+- autohypnosis
+- avitaminosis

@@ -1,0 +1,60 @@
+---
+pattern: misa_
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 50
+score: 1937800
+score_per_word: 121112
+hi_scored_words:
+  misadventure: 72616
+  misadventures: 60823
+  misaligned: 84799
+  misalignment: 65975
+  misanthrope: 76034
+  misanthropic: 89622
+  misanthropy: 92156
+  misapplied: 97486
+  misappropriation: 55046
+scored_words:
+  misallocation: 168856
+  misapplication: 108334
+  misapprehension: 106159
+  misapprehensions: 263773
+  misappropriate: 265635
+  misappropriated: 111613
+  misappropriating: 218873
+not_scored_words:
+- misaddress
+- misaddressed
+- misaddresses
+- misaddressing
+- misadministration
+- misadvised
+- misadvises
+- misadvising
+- misadvize
+- misalliance
+- misalliances
+- misallied
+- misallies
+- misallocate
+- misally
+- misallying
+- misalphabetize
+- misanthropes
+- misanthropical
+- misanthropically
+- misanthropist
+- misanthropists
+- misapplications
+- misapplies
+- misapply
+- misapplying
+- misapprehend
+- misapprehended
+- misapprehending
+- misapprehends
+- misapprehensive
+- misappropriates
+- misappropriations
+- misattribute

@@ -1,0 +1,32 @@
+---
+pattern: ent_y
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1288986
+score_per_word: 85932
+hi_scored_words:
+  enthalpy: 52549
+  enthusiastically: 24885
+  entirely: 2135
+  entirety: 16078
+  entity: 3363
+  entomology: 26973
+  entreaty: 81424
+  entropy: 19495
+  entry: 1965
+  entryway: 56856
+scored_words:
+  entelechy: 120074
+  entertainingly: 174576
+  enticingly: 249640
+  entranceway: 131180
+  entreatingly: 327793
+not_scored_words:
+- enterectomy
+- enterostomy
+- enterotomy
+- enterprisingly
+- entrancingly
+- entrepreneurially
+- entropically

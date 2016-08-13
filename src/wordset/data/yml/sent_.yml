@@ -1,0 +1,44 @@
+---
+pattern: sent_
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 34
+score: 1618203
+score_per_word: 70356
+hi_scored_words:
+  sent: 556
+  sentence: 2511
+  sentenced: 9190
+  sentences: 5802
+  sentencing: 14573
+  sentential: 94268
+  sentience: 83892
+  sentient: 29445
+  sentiment: 8205
+  sentimental: 14518
+  sentimentality: 56078
+  sentiments: 12111
+  sentinel: 11257
+  sentinels: 47873
+  sentries: 78772
+  sentry: 19225
+scored_words:
+  sente: 118814
+  sententious: 171829
+  sententiously: 165687
+  sentimentalism: 182162
+  sentimentalist: 149106
+  sentimentalists: 133958
+  sentimentally: 208371
+not_scored_words:
+- sententially
+- sententiousness
+- sentiencies
+- sentiency
+- sentiently
+- sentimentalization
+- sentimentalize
+- sentimentalized
+- sentimentalizes
+- sentimentalizing
+- sentimo

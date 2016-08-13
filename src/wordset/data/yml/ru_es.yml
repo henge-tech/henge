@@ -1,0 +1,36 @@
+---
+pattern: ru_es
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 26
+score: 1518082
+score_per_word: 101205
+hi_scored_words:
+  rubies: 33575
+  rubles: 38151
+  ruffles: 49728
+  rules: 765
+  rumbles: 52541
+  runes: 29654
+  rupees: 20973
+  ruptures: 74389
+  rushes: 20230
+scored_words:
+  rubes: 111901
+  rues: 107027
+  ruminates: 291796
+  rummages: 263982
+  ruses: 182000
+  rustles: 241370
+not_scored_words:
+- Rules
+- rubberizes
+- rubbishes
+- rubricates
+- ruckuses
+- ruddles
+- rumples
+- rumpuses
+- rundles
+- rusticates
+- rutiles

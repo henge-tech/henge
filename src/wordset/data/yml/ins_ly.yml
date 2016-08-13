@@ -1,0 +1,45 @@
+---
+pattern: ins_ly
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 35
+score: 2215415
+score_per_word: 123078
+hi_scored_words:
+  insanely: 38465
+  inseparably: 82206
+  insidiously: 98285
+  insistently: 96969
+  instantaneously: 31954
+  instantly: 3444
+  instinctively: 24366
+  institutionally: 73570
+  insufficiently: 49679
+scored_words:
+  insatiably: 317213
+  insecurely: 217004
+  insensibly: 134831
+  insensitively: 265779
+  insignificantly: 135359
+  insolently: 191008
+  instrumentally: 115784
+  insufferably: 196244
+  insultingly: 143255
+not_scored_words:
+- insatiately
+- inscrutably
+- insensately
+- insincerely
+- insinuatingly
+- insipidly
+- insistingly
+- insolubly
+- insouciantly
+- inspirationally
+- instructively
+- insubordinately
+- insubstantially
+- insularly
+- insuperably
+- insupportably
+- insurmountably

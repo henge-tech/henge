@@ -1,0 +1,54 @@
+---
+pattern: c_cy
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 44
+score: 1755970
+score_per_word: 65035
+hi_scored_words:
+  candidacy: 26665
+  captaincy: 77261
+  celibacy: 39725
+  chaplaincy: 58170
+  clemency: 31075
+  coherency: 86481
+  competency: 16563
+  complacency: 29387
+  concurrency: 29227
+  confederacy: 28422
+  conservancy: 24545
+  consistency: 7422
+  conspiracy: 5727
+  constancy: 33883
+  constituency: 13403
+  consultancy: 9482
+  contingency: 13231
+  counterinsurgency: 82685
+  currency: 4345
+scored_words:
+  chancy: 135698
+  codependency: 121514
+  cogency: 173667
+  compliancy: 103076
+  congruency: 126874
+  conjugacy: 119332
+  contumacy: 218337
+  curacy: 139773
+not_scored_words:
+- Clancy
+- Confederacy
+- Crecy
+- cadency
+- cartomancy
+- chatoyancy
+- chieftaincy
+- chiromancy
+- circumambiency
+- cleromancy
+- colonelcy
+- commorancy
+- complicacy
+- convergency
+- conversancy
+- cornetcy
+- corpulency

@@ -1,0 +1,75 @@
+---
+pattern: pos_s
+hi_scored_words_count: 27
+scored_words_count: 13
+total_words: 65
+score: 3492074
+score_per_word: 87301
+hi_scored_words:
+  posers: 62763
+  poses: 14775
+  posies: 80443
+  positioners: 89095
+  positions: 2638
+  positives: 15325
+  positrons: 97969
+  posits: 55306
+  poss: 38520
+  posses: 47418
+  possess: 5182
+  possesses: 10663
+  possessions: 10534
+  possessors: 88849
+  possibilities: 5122
+  possums: 79511
+  postcards: 12322
+  postcodes: 65344
+  posters: 6880
+  postgraduates: 74535
+  posthumous: 37884
+  postings: 10460
+  postmasters: 98977
+  postpones: 74047
+  posts: 1802
+  postulates: 53703
+  postures: 41731
+scored_words:
+  poseurs: 225283
+  positiveness: 235875
+  positivists: 193745
+  possessiveness: 169314
+  possessives: 182838
+  possibles: 103933
+  postdocs: 104773
+  posteriors: 222494
+  postilions: 210576
+  postmarks: 110559
+  postmodernists: 184601
+  postponements: 131667
+  postscripts: 234618
+not_scored_words:
+- poshness
+- positivisms
+- positivities
+- posologies
+- possets
+- postbags
+- postboxes
+- postdates
+- posteriorities
+- posterns
+- postfixes
+- postholes
+- postiches
+- posticous
+- posties
+- postillions
+- postludes
+- postmistress
+- postmistresses
+- postmortems
+- postponers
+- postseasons
+- postulants
+- postulations
+- posturings

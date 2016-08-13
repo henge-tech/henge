@@ -1,0 +1,33 @@
+---
+pattern: capa_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 23
+score: 643904
+score_per_word: 49531
+hi_scored_words:
+  capabilities: 6496
+  capability: 8060
+  capable: 2376
+  capacious: 69292
+  capacitance: 25028
+  capacities: 12097
+  capacitive: 49658
+  capacitor: 21713
+  capacitors: 22247
+  capacity: 1589
+  caparisoned: 76741
+scored_words:
+  capably: 135965
+  capacitated: 212642
+not_scored_words:
+- Capablanca
+- capaciously
+- capaciousness
+- capacitate
+- capacitates
+- capacitating
+- capacitative
+- caparison
+- caparisoning
+- caparisons

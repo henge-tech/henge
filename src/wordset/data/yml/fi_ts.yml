@@ -1,0 +1,31 @@
+---
+pattern: fi_ts
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 21
+score: 1516819
+score_per_word: 94801
+hi_scored_words:
+  fibroblasts: 32526
+  fights: 8700
+  filaments: 30596
+  fillets: 40172
+  finalists: 17840
+  fingerprints: 20050
+  firsts: 35858
+  fishnets: 72480
+  fists: 20645
+  fits: 4254
+scored_words:
+  fidgets: 250121
+  figments: 154843
+  filberts: 214300
+  firefights: 159775
+  fistfights: 249634
+  fitments: 205025
+not_scored_words:
+- fiats
+- figworts
+- fireboats
+- firebrats
+- firmaments

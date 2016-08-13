@@ -1,0 +1,36 @@
+---
+pattern: p_try
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 26
+score: 1851289
+score_per_word: 88156
+hi_scored_words:
+  pageantry: 68273
+  palmistry: 70521
+  paltry: 37554
+  pantry: 18992
+  pastry: 13948
+  peasantry: 50122
+  pedantry: 74640
+  photochemistry: 80621
+  photogrammetry: 75533
+  photometry: 41169
+  podiatry: 66790
+  poetry: 1944
+  poultry: 9097
+  psychiatry: 11045
+  punditry: 95492
+  puppetry: 55642
+scored_words:
+  parquetry: 239196
+  peltry: 165593
+  phratry: 298486
+  pleasantry: 182557
+  psychometry: 194074
+not_scored_words:
+- papistry
+- petrochemistry
+- piezochemistry
+- planimetry
+- proindustry

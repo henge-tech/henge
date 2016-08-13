@@ -1,0 +1,47 @@
+---
+pattern: phos_
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 37
+score: 1755432
+score_per_word: 79792
+hi_scored_words:
+  phosphatase: 24358
+  phosphate: 13986
+  phosphates: 40573
+  phosphide: 98688
+  phosphine: 86233
+  phosphodiesterase: 68929
+  phospholipid: 48490
+  phospholipids: 49751
+  phosphor: 44853
+  phosphorescent: 77414
+  phosphoric: 41351
+  phosphorous: 45884
+  phosphorus: 15548
+  phosphorylase: 70419
+  phosphorylation: 21431
+scored_words:
+  phosgene: 124724
+  phosphatic: 196916
+  phosphocreatine: 192390
+  phosphoprotein: 111969
+  phosphoproteins: 156996
+  phosphorescence: 102831
+  phosphors: 121698
+not_scored_words:
+- Phosphor
+- Phosphorus
+- phosgenes
+- phosgenite
+- phosphatize
+- phosphaturia
+- phosphene
+- phosphines
+- phospholipide
+- phosphorate
+- phosphoresce
+- phosphorescently
+- phosphorism
+- phosphorite
+- phosphoroscope

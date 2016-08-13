@@ -1,0 +1,24 @@
+---
+pattern: qui_t
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 583606
+score_per_word: 58360
+hi_scored_words:
+  quickest: 21818
+  quiescent: 42096
+  quiet: 1951
+  quietest: 55016
+  quilt: 12859
+  quint: 47391
+  quintet: 23026
+  quit: 3579
+scored_words:
+  quirt: 169322
+  quitrent: 206548
+not_scored_words:
+- quillet
+- quinquevalent
+- quintuplet
+- quirkiest

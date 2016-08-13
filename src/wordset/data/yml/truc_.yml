@@ -1,0 +1,33 @@
+---
+pattern: truc_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 23
+score: 934684
+score_per_word: 77890
+hi_scored_words:
+  truce: 17722
+  truck: 4582
+  trucked: 97725
+  trucker: 27794
+  truckers: 28576
+  trucking: 17913
+  truckload: 46385
+  truckloads: 89435
+  trucks: 6933
+scored_words:
+  truces: 277422
+  truckle: 193020
+  truculent: 127177
+not_scored_words:
+- Truckee
+- truckage
+- truckled
+- truckler
+- trucklers
+- truckles
+- truckling
+- truculence
+- truculencies
+- truculency
+- truculently

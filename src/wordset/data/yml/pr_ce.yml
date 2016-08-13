@@ -1,0 +1,49 @@
+---
+pattern: pr_ce
+hi_scored_words_count: 23
+scored_words_count: 3
+total_words: 39
+score: 1017742
+score_per_word: 39143
+hi_scored_words:
+  practice: 761
+  prance: 72822
+  precedence: 12771
+  precipice: 43149
+  predominance: 38750
+  preeminence: 85418
+  preface: 11266
+  preference: 4531
+  prejudice: 6671
+  prentice: 21875
+  preponderance: 34866
+  prescience: 90919
+  presence: 1443
+  prevalence: 10267
+  price: 389
+  prince: 1701
+  produce: 1271
+  prominence: 17174
+  pronounce: 16730
+  provenance: 27241
+  providence: 5399
+  province: 2330
+  prudence: 18550
+scored_words:
+  prepuce: 146076
+  protuberance: 115874
+  provenience: 229498
+not_scored_words:
+- Prentice
+- Price
+- Prince
+- Provence
+- Providence
+- Prudence
+- preadolescence
+- preannounce
+- precipitance
+- preexistence
+- prepubescence
+- procurance
+- prurience

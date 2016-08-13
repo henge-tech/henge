@@ -1,0 +1,35 @@
+---
+pattern: a_ee
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 25
+score: 1386489
+score_per_word: 81558
+hi_scored_words:
+  absentee: 27160
+  addressee: 39106
+  adoptee: 67702
+  agee: 57657
+  agree: 922
+  allee: 67760
+  amputee: 51457
+  apogee: 34008
+  appellee: 50717
+  appointee: 39576
+  assignee: 32112
+  attendee: 43742
+  awardee: 71239
+scored_words:
+  abductee: 171387
+  advisee: 207864
+  alee: 175096
+  allottee: 248984
+not_scored_words:
+- Agee
+- Aimee
+- Albee
+- Ashlee
+- Attlee
+- akee
+- alienee
+- axletree

@@ -1,0 +1,50 @@
+---
+pattern: _ngle
+hi_scored_words_count: 25
+scored_words_count: 7
+total_words: 40
+score: 2159922
+score_per_word: 67497
+hi_scored_words:
+  angle: 3215
+  bangle: 28912
+  bungle: 63035
+  dangle: 28294
+  dingle: 42575
+  disentangle: 80364
+  dongle: 32389
+  entangle: 75482
+  ingle: 51373
+  jangle: 69997
+  jingle: 15789
+  jungle: 5604
+  mangle: 65301
+  mingle: 23716
+  quadrangle: 25602
+  rectangle: 20264
+  shingle: 27125
+  single: 359
+  spangle: 85736
+  strangle: 37794
+  tangle: 25915
+  tingle: 34771
+  triangle: 7133
+  untangle: 71670
+  wrangle: 62599
+scored_words:
+  bingle: 193488
+  commingle: 183180
+  intermingle: 106272
+  pentangle: 173078
+  surcingle: 177476
+  swingle: 133617
+  wangle: 207797
+not_scored_words:
+- Angle
+- Kringle
+- atingle
+- bespangle
+- cringle
+- embrangle
+- immingle
+- octangle

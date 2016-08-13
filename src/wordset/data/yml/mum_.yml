@@ -1,0 +1,35 @@
+---
+pattern: mum_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 25
+score: 1105391
+score_per_word: 73692
+hi_scored_words:
+  mum: 10109
+  mumble: 46000
+  mumbled: 44424
+  mumbles: 59617
+  mumbling: 47939
+  mummies: 45688
+  mummified: 90917
+  mummy: 13427
+  mumps: 38113
+  mums: 26027
+scored_words:
+  mumblings: 182549
+  mummer: 124268
+  mummers: 110504
+  mummery: 157438
+  mummification: 108371
+not_scored_words:
+- Mumbai
+- Mumford
+- mumbler
+- mumblers
+- mumbletypeg
+- mumbly
+- mummifies
+- mummify
+- mummifying
+- mump

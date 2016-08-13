@@ -1,0 +1,59 @@
+---
+pattern: s_ated
+hi_scored_words_count: 27
+scored_words_count: 8
+total_words: 49
+score: 2714659
+score_per_word: 77561
+hi_scored_words:
+  sated: 73417
+  satiated: 95355
+  saturated: 12060
+  seated: 6962
+  sedated: 64663
+  segregated: 27511
+  separated: 3635
+  serrated: 43183
+  simulated: 13741
+  situated: 3932
+  skated: 64170
+  slated: 27392
+  sophisticated: 9159
+  speculated: 31291
+  stagnated: 85158
+  stated: 1622
+  stimulated: 11657
+  stipulated: 18762
+  striated: 61103
+  subjugated: 71960
+  subordinated: 31681
+  substantiated: 40292
+  suffocated: 65966
+  superheated: 98876
+  sweated: 82796
+  syncopated: 75917
+  syndicated: 17187
+scored_words:
+  scapegoated: 266438
+  stalemated: 256628
+  strangulated: 260377
+  sublimated: 100772
+  sugarcoated: 244147
+  superannuated: 147503
+  supersaturated: 129107
+  supplicated: 170239
+not_scored_words:
+- salivated
+- scintillated
+- sequestrated
+- showboated
+- sibilated
+- somnambulated
+- spectated
+- stellated
+- stridulated
+- supersophisticated
+- supinated
+- suppurated
+- susurrated
+- syllabicated

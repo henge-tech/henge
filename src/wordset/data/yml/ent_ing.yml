@@ -1,0 +1,28 @@
+---
+pattern: ent_ing
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 18
+score: 1968254
+score_per_word: 123015
+hi_scored_words:
+  entailing: 90594
+  entering: 2926
+  enterprising: 31980
+  entertaining: 6435
+  enthralling: 67274
+  enticing: 33419
+  entitling: 87366
+  entrancing: 96619
+  entrusting: 92898
+scored_words:
+  entangling: 116865
+  enthusing: 312981
+  entraining: 173092
+  entrapping: 283382
+  entreating: 146044
+  entrenching: 155547
+  entwining: 270832
+not_scored_words:
+- enthroning
+- entombing

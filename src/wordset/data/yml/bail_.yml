@@ -1,0 +1,35 @@
+---
+pattern: bail_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 25
+score: 1651435
+score_per_word: 97143
+hi_scored_words:
+  bail: 9922
+  bailed: 54552
+  bailee: 95531
+  bailey: 7079
+  baileys: 60782
+  bailiff: 34054
+  bailiffs: 66453
+  bailing: 62337
+  bailiwick: 87600
+  bailout: 53028
+  bails: 66515
+scored_words:
+  bailable: 244401
+  bailer: 144344
+  bailie: 109293
+  bailment: 206646
+  bailor: 225865
+  bailouts: 123033
+not_scored_words:
+- Bailey
+- Bailly
+- bailees
+- bailiwicks
+- bailments
+- bailors
+- bailsman
+- bailsmen

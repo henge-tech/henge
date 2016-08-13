@@ -1,0 +1,23 @@
+---
+pattern: _ask
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 13
+score: 264591
+score_per_word: 29399
+hi_scored_words:
+  ask: 349
+  bask: 41595
+  cask: 29675
+  damask: 40898
+  flask: 17189
+  mask: 4220
+  multitask: 91478
+  task: 1383
+  unmask: 37804
+scored_words: {}
+not_scored_words:
+- Ask
+- Rask
+- Sask
+- overtask

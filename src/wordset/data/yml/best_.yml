@@ -1,0 +1,49 @@
+---
+pattern: best_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 39
+score: 1686138
+score_per_word: 84306
+hi_scored_words:
+  best: 130
+  bested: 85486
+  bestial: 44091
+  bestiality: 16129
+  bestiary: 58015
+  bestow: 26471
+  bestowed: 17006
+  bestowing: 73721
+  bestows: 61004
+  bests: 54243
+  bestseller: 24278
+  bestsellers: 20205
+  bestselling: 16203
+scored_words:
+  besting: 129239
+  bestir: 185644
+  bestirred: 161119
+  bestowal: 115087
+  bestride: 178825
+  bestrides: 252331
+  bestrode: 166911
+not_scored_words:
+- Best
+- bestead
+- bestialize
+- bestialized
+- bestializes
+- bestializing
+- bestially
+- bestiaries
+- bestirring
+- bestirs
+- bestowals
+- bestraddle
+- bestrew
+- bestrewed
+- bestrewing
+- bestrewn
+- bestrews
+- bestridden
+- bestriding

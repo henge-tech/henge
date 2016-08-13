@@ -1,0 +1,29 @@
+---
+pattern: j_le
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 19
+score: 741650
+score_per_word: 61804
+hi_scored_words:
+  jangle: 69997
+  jiggle: 54725
+  jingle: 15789
+  jostle: 89725
+  joule: 51908
+  juggle: 38384
+  jumble: 27274
+  jungle: 5604
+  justifiable: 29076
+  juvenile: 7153
+scored_words:
+  joggle: 228969
+  justiciable: 123046
+not_scored_words:
+- Jacksonville
+- Jadotville
+- Janelle
+- Joinville
+- Joule
+- judicable
+- justle

@@ -1,0 +1,65 @@
+---
+pattern: di_te
+hi_scored_words_count: 25
+scored_words_count: 13
+total_words: 55
+score: 3061382
+score_per_word: 80562
+hi_scored_words:
+  diamante: 39041
+  dictate: 14382
+  differentiate: 19411
+  dilate: 57301
+  dilettante: 56413
+  dilute: 23266
+  dinette: 88687
+  diplomate: 94654
+  directorate: 12828
+  discrete: 10959
+  discriminate: 16808
+  disintegrate: 54619
+  diskette: 35158
+  disparate: 28038
+  dispassionate: 67152
+  disproportionate: 22997
+  dispute: 3853
+  disrepute: 61730
+  disseminate: 24668
+  dissipate: 35852
+  dissociate: 67929
+  dissolute: 68548
+  distaste: 47390
+  distillate: 51027
+  distribute: 4436
+scored_words:
+  diaconate: 127626
+  diatomite: 207173
+  dichromate: 101231
+  dimenhydrinate: 224508
+  dinoflagellate: 138394
+  diorite: 134134
+  disambiguate: 135729
+  disassociate: 107697
+  discarnate: 157044
+  discombobulate: 195143
+  disconsolate: 100446
+  dislocate: 131026
+  dithionite: 294084
+not_scored_words:
+- dibranchiate
+- dichroite
+- digitate
+- dilapidate
+- dimidiate
+- disaffiliate
+- disarticulate
+- disorientate
+- disrate
+- dissertate
+- dissimilate
+- dissimulate
+- distraite
+- disunite
+- divagate
+- divaricate
+- divulgate

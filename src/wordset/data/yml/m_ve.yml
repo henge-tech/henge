@@ -1,0 +1,45 @@
+---
+pattern: m_ve
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 35
+score: 1428183
+score_per_word: 75167
+hi_scored_words:
+  maladaptive: 88088
+  mangrove: 29236
+  manipulative: 29304
+  margrave: 83817
+  massive: 3154
+  mauve: 33077
+  meditative: 38761
+  microwave: 11441
+  might've: 30734
+  misbehave: 66492
+  missive: 58155
+  motive: 8961
+  move: 670
+  multiplicative: 47567
+  must've: 23645
+scored_words:
+  ministrative: 189676
+  misconceive: 173815
+  misgave: 294343
+  mitigative: 217247
+not_scored_words:
+- Maldive
+- Mohave
+- Mojave
+- magnetomotive
+- maledictive
+- manifestative
+- mediative
+- medicative
+- meliorative
+- microgroove
+- misapprehensive
+- misbelieve
+- misgive
+- misperceive
+- mutative
+- mutilative

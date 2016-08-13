@@ -1,0 +1,22 @@
+---
+pattern: page_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 423800
+score_per_word: 47088
+hi_scored_words:
+  page: 324
+  pageant: 15662
+  pageantry: 68273
+  pageants: 47386
+  paged: 48496
+  pager: 23463
+  pagers: 41813
+  pages: 828
+scored_words:
+  pageboy: 177555
+not_scored_words:
+- Page
+- pageboys
+- pageful

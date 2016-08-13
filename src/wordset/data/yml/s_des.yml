@@ -1,0 +1,42 @@
+---
+pattern: s_des
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 32
+score: 2072206
+score_per_word: 103610
+hi_scored_words:
+  shades: 6645
+  sides: 2114
+  slides: 9632
+  spades: 18715
+  strides: 22724
+  subsides: 57206
+  suicides: 30195
+  sulfides: 76479
+  sulfonamides: 96198
+  supersedes: 40486
+  swedes: 35676
+scored_words:
+  saccharides: 246424
+  serenades: 109477
+  silversides: 232447
+  solitudes: 104835
+  spermicides: 193340
+  stampedes: 254367
+  subdivides: 200281
+  sunshades: 154650
+  switchblades: 180315
+not_scored_words:
+- Shrovetides
+- Simonides
+- Spodes
+- Sporades
+- Swedes
+- sades
+- seasides
+- secedes
+- secludes
+- stapedes
+- stockades
+- sulfanilamides

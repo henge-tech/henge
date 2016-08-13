@@ -1,0 +1,33 @@
+---
+pattern: cla_ing
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 23
+score: 1469381
+score_per_word: 81632
+hi_scored_words:
+  cladding: 36829
+  claiming: 7315
+  clamoring: 59784
+  clamping: 33884
+  clanging: 85462
+  clapping: 26889
+  clarifying: 20969
+  clashing: 48316
+  clasping: 71510
+  classifying: 33300
+  clattering: 85470
+  clawing: 74448
+scored_words:
+  clacking: 162519
+  clambering: 120906
+  clamming: 217458
+  clanking: 100156
+  classing: 134524
+  clavering: 149642
+not_scored_words:
+- clabbering
+- clapboarding
+- clapperclawing
+- clarioning
+- classicizing

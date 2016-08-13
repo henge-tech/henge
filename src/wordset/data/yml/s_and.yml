@@ -1,0 +1,41 @@
+---
+pattern: s_and
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 31
+score: 1436791
+score_per_word: 95786
+hi_scored_words:
+  sand: 2582
+  saraband: 87412
+  secondhand: 30321
+  shorthand: 24321
+  sideband: 84817
+  southland: 26823
+  stand: 839
+  strand: 8047
+scored_words:
+  scrubland: 204376
+  shadowland: 165092
+  slumberland: 116066
+  stagehand: 252544
+  summand: 178803
+  swampland: 144404
+  sweatband: 110344
+not_scored_words:
+- Saarland
+- Samarkand
+- Samarqand
+- Sand
+- Scotland
+- Shetland
+- Sjaelland
+- Somaliland
+- Streisand
+- Strickland
+- Sudetenland
+- Sunderland
+- Sutherland
+- Swaziland
+- Switzerland
+- spaceband

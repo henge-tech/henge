@@ -1,0 +1,54 @@
+---
+pattern: n_ness
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 44
+score: 2267857
+score_per_word: 119360
+hi_scored_words:
+  nakedness: 42191
+  narrowness: 80881
+  nastiness: 80296
+  naturalness: 73541
+  nearness: 61849
+  neatness: 63052
+  nervousness: 30512
+  newness: 56616
+  nothingness: 33115
+  numbness: 32214
+scored_words:
+  naughtiness: 135256
+  nearsightedness: 130773
+  neediness: 199239
+  neighborliness: 233658
+  newsworthiness: 288611
+  niceness: 104111
+  nimbleness: 238494
+  nobleness: 166873
+  nuttiness: 216575
+not_scored_words:
+- naiveness
+- namelessness
+- nattiness
+- nauseousness
+- navigableness
+- nebulousness
+- needfulness
+- needlessness
+- nefariousness
+- negativeness
+- neglectfulness
+- nervelessness
+- nerviness
+- niggardliness
+- nippiness
+- noiselessness
+- noisiness
+- noisomeness
+- nonporousness
+- normativeness
+- nosiness
+- noteworthiness
+- noxiousness
+- numerousness
+- nutritiousness

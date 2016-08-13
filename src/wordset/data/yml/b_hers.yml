@@ -1,0 +1,31 @@
+---
+pattern: b_hers
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 1687018
+score_per_word: 129770
+hi_scored_words:
+  bathers: 78075
+  biographers: 74166
+  bleachers: 38718
+  bothers: 28214
+  breathers: 96168
+  brothers: 2008
+  burghers: 97365
+  butchers: 24520
+scored_words:
+  bellwethers: 182232
+  bibliographers: 305861
+  birdwatchers: 114172
+  blathers: 340345
+  burnishers: 305174
+not_scored_words:
+- Britishers
+- backscratchers
+- beseechers
+- birthers
+- blithers
+- bluchers
+- blushers
+- botchers

@@ -1,0 +1,39 @@
+---
+pattern: bl_h
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 29
+score: 1386715
+score_per_word: 77039
+hi_scored_words:
+  blackfish: 90000
+  blackish: 78074
+  blacksmith: 20666
+  blah: 12593
+  blanch: 52390
+  bleach: 23051
+  blemish: 33458
+  bloodbath: 51269
+  blotch: 77010
+  blowfish: 45797
+  bluefish: 55645
+  bluish: 31778
+  blush: 12334
+scored_words:
+  blabbermouth: 185836
+  blandish: 130091
+  blimpish: 192506
+  blowtorch: 110231
+  blueish: 183986
+not_scored_words:
+- Blanch
+- Bligh
+- Bloch
+- Bluetooth
+- bleakish
+- blench
+- bletch
+- blindfish
+- blockish
+- blokish
+- blondish

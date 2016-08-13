@@ -1,0 +1,29 @@
+---
+pattern: sy_d
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 1249769
+score_per_word: 104147
+hi_scored_words:
+  symbolized: 42508
+  sympathized: 88512
+  synced: 69874
+  synchronized: 19752
+  syncopated: 75917
+  syndicated: 17187
+  synod: 20621
+  synthesized: 21239
+scored_words:
+  symmetrized: 301565
+  synd: 142012
+  systematized: 111144
+  systemized: 339438
+not_scored_words:
+- syllabicated
+- syllabified
+- syllabized
+- syllogized
+- sylphid
+- syncretized
+- syringed

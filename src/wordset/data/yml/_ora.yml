@@ -1,0 +1,59 @@
+---
+pattern: _ora
+hi_scored_words_count: 21
+scored_words_count: 4
+total_words: 49
+score: 1513742
+score_per_word: 60549
+hi_scored_words:
+  agora: 31748
+  amphora: 70528
+  anaphora: 98789
+  angora: 48020
+  aurora: 8473
+  bora: 29053
+  corpora: 38881
+  diaspora: 23487
+  dora: 15162
+  fedora: 16575
+  flora: 7634
+  fora: 33110
+  hora: 25727
+  maquiladora: 98743
+  mora: 28713
+  ora: 16148
+  pandora: 18841
+  plethora: 30520
+  senora: 74815
+  signora: 73646
+  sora: 42754
+scored_words:
+  carnivora: 120881
+  mandragora: 147367
+  rasbora: 302146
+  remora: 111981
+not_scored_words:
+- Angora
+- Aurora
+- Cora
+- Debora
+- Diaspora
+- Dora
+- Elnora
+- Evora
+- Flora
+- Isadora
+- Lenora
+- Leonora
+- Lora
+- Nora
+- Ora
+- Pandora
+- Pechora
+- Sonora
+- Theodora
+- Tuscarora
+- Zamora
+- epanaphora
+- epiphora
+- oxymora

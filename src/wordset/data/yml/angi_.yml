@@ -1,0 +1,28 @@
+---
+pattern: angi_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 1371019
+score_per_word: 105463
+hi_scored_words:
+  angina: 25743
+  angiogenesis: 46509
+  angiogenic: 99420
+  angiogram: 88677
+  angiography: 34422
+  angioplasty: 38952
+  angiosperms: 92083
+  angiotensin: 32647
+scored_words:
+  anginal: 232372
+  angiograms: 186933
+  angiology: 194921
+  angioma: 184499
+  angiosperm: 113841
+not_scored_words:
+- Angie
+- angiographies
+- angiologies
+- angiomas
+- angioplasties

@@ -1,0 +1,30 @@
+---
+pattern: l_ges
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1169011
+score_per_word: 83500
+hi_scored_words:
+  languages: 2379
+  ledges: 48233
+  leverages: 54403
+  lineages: 41637
+  linkages: 17352
+  lodges: 12913
+  lounges: 33403
+  lozenges: 64005
+  lunges: 79467
+scored_words:
+  larges: 159118
+  leakages: 123686
+  leges: 109677
+  lieges: 194997
+  loges: 227741
+not_scored_words:
+- Limoges
+- larynges
+- lighterages
+- lockages
+- lovages
+- luges

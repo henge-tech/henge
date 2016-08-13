@@ -1,0 +1,40 @@
+---
+pattern: chai_
+hi_scored_words_count: 18
+scored_words_count: 3
+total_words: 30
+score: 1158658
+score_per_word: 55174
+hi_scored_words:
+  chain: 1849
+  chained: 23325
+  chaining: 45466
+  chains: 4534
+  chainsaw: 22970
+  chainsaws: 62794
+  chair: 1254
+  chaired: 16442
+  chairing: 55797
+  chairlift: 92100
+  chairman: 3509
+  chairmanship: 39846
+  chairmen: 32472
+  chairperson: 16638
+  chairpersons: 64740
+  chairs: 3689
+  chairwoman: 50562
+  chaise: 27923
+scored_words:
+  chairlifts: 179399
+  chairmanships: 286718
+  chaises: 126631
+not_scored_words:
+- Chain
+- Chaitanya
+- Chaitin
+- chainman
+- chainplate
+- chainsawed
+- chainsawing
+- chairborne
+- chairwomen

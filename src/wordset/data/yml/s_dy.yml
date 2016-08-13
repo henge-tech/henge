@@ -1,0 +1,27 @@
+---
+pattern: s_dy
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 17
+score: 469586
+score_per_word: 39132
+hi_scored_words:
+  sandy: 4638
+  seedy: 41756
+  shady: 11446
+  shandy: 52412
+  shoddy: 40869
+  somebody: 2919
+  speedy: 10705
+  steady: 3977
+  study: 430
+  sturdy: 10775
+  subsidy: 14775
+scored_words:
+  saleslady: 274884
+not_scored_words:
+- Sandy
+- Schenectady
+- Soddy
+- shindy
+- staminody

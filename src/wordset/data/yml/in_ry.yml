@@ -1,0 +1,54 @@
+---
+pattern: in_ry
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 44
+score: 2765713
+score_per_word: 89216
+hi_scored_words:
+  incendiary: 38832
+  industry: 927
+  infantry: 5934
+  infirmary: 32862
+  inflammatory: 13325
+  inflationary: 35252
+  inhibitory: 23446
+  injury: 2181
+  inquiry: 3120
+  inspiratory: 84203
+  interdisciplinary: 11384
+  interferometry: 59525
+  interlocutory: 65616
+  intermediary: 21702
+  interplanetary: 39783
+  interrogatory: 78356
+  introductory: 9877
+  inventory: 5467
+  investigatory: 68859
+  involuntary: 17991
+scored_words:
+  incantatory: 162765
+  inculpatory: 216611
+  informatory: 332243
+  initiatory: 151109
+  innovatory: 273878
+  insanitary: 216232
+  insurrectionary: 214618
+  integumentary: 122246
+  intercalary: 174296
+  intercessory: 126970
+  intermarry: 156103
+not_scored_words:
+- incensory
+- inclinatory
+- incriminatory
+- indicatory
+- indoctrinatory
+- ingratiatory
+- inkberry
+- interdictory
+- interjectory
+- intimidatory
+- invitatory
+- invocatory
+- involutionary

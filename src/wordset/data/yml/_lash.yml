@@ -1,0 +1,26 @@
+---
+pattern: _lash
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 16
+score: 877473
+score_per_word: 62676
+hi_scored_words:
+  backlash: 23479
+  backslash: 53595
+  clash: 9644
+  eyelash: 43089
+  flash: 1726
+  goulash: 50569
+  lash: 20407
+  newsflash: 27631
+  plash: 92524
+  slash: 15689
+  splash: 9349
+  whiplash: 31060
+scored_words:
+  calash: 174943
+  photoflash: 323768
+not_scored_words:
+- synchroflash
+- unlash

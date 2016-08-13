@@ -1,0 +1,26 @@
+---
+pattern: i_ary
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 16
+score: 1278664
+score_per_word: 85244
+hi_scored_words:
+  imaginary: 9677
+  incendiary: 38832
+  infirmary: 32862
+  inflationary: 35252
+  interdisciplinary: 11384
+  intermediary: 21702
+  interplanetary: 39783
+  involuntary: 17991
+  itinerary: 19846
+scored_words:
+  illocutionary: 194452
+  illusionary: 129491
+  insanitary: 216232
+  insurrectionary: 214618
+  integumentary: 122246
+  intercalary: 174296
+not_scored_words:
+- involutionary

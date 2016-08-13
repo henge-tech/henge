@@ -1,0 +1,40 @@
+---
+pattern: c_per
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 30
+score: 1721302
+score_per_word: 78241
+hi_scored_words:
+  caliper: 36695
+  camper: 24448
+  caper: 33753
+  capper: 76165
+  carper: 82250
+  cheaper: 5487
+  chipper: 39095
+  chopper: 22578
+  clapper: 53099
+  clipper: 26616
+  cooper: 5077
+  copper: 3559
+  creeper: 28226
+  crisper: 81445
+  cropper: 56734
+scored_words:
+  cheeper: 275269
+  chomper: 128106
+  clodhopper: 154793
+  coper: 242278
+  crapper: 101189
+  crimper: 129501
+  crupper: 114939
+not_scored_words:
+- Casper
+- Christoper
+- Cooper
+- Cowper
+- candystriper
+- cardsharper
+- clamper
+- curlpaper

@@ -1,0 +1,33 @@
+---
+pattern: _rass
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 23
+score: 837516
+score_per_word: 64424
+hi_scored_words:
+  bluegrass: 17577
+  brass: 3805
+  crass: 38153
+  embarrass: 27924
+  grass: 2753
+  harass: 24473
+  lemongrass: 55885
+  morass: 59702
+  supergrass: 61842
+scored_words:
+  crabgrass: 101122
+  cuirass: 122767
+  eelgrass: 126596
+  witchgrass: 194917
+not_scored_words:
+- Grass
+- Weierstrass
+- disembarrass
+- knotgrass
+- lovegrass
+- matrass
+- peppergrass
+- sparrowgrass
+- trass
+- zebrass

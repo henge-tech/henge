@@ -1,0 +1,24 @@
+---
+pattern: x_ii
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 14
+score: 430242
+score_per_word: 35853
+hi_scored_words:
+  xii: 10424
+  xiii: 12464
+  xvii: 20684
+  xviii: 19469
+  xxii: 29074
+  xxiii: 28962
+  xxvii: 41495
+  xxviii: 41358
+  xxxii: 52877
+  xxxiii: 54359
+  xxxvii: 61371
+  xxxviii: 57705
+scored_words: {}
+not_scored_words:
+- xcii
+- xcvii

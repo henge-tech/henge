@@ -1,0 +1,26 @@
+---
+pattern: _iva
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 445785
+score_per_word: 49531
+hi_scored_words:
+  conjunctiva: 69503
+  diva: 16155
+  jiva: 82999
+  kiva: 54875
+  saliva: 21853
+  shiva: 27472
+  viva: 16607
+  yeshiva: 39742
+scored_words:
+  gingiva: 116579
+not_scored_words:
+- Akiva
+- Godiva
+- Iva
+- Khiva
+- Saiva
+- Shiva
+- Siva

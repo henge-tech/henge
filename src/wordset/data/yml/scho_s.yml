@@ -1,0 +1,33 @@
+---
+pattern: scho_s
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 23
+score: 1761565
+score_per_word: 110097
+hi_scored_words:
+  scholars: 5490
+  scholarships: 14689
+  schoolboys: 69455
+  schoolgirls: 29548
+  schoolmates: 74660
+  schools: 968
+  schoolteachers: 97073
+  schooners: 86355
+scored_words:
+  schoolbooks: 112996
+  schooldays: 112032
+  schoolfellows: 130220
+  schoolhouses: 200262
+  schoolkids: 152780
+  schoolmasters: 148966
+  schoolmistress: 222016
+  schoolyards: 304055
+not_scored_words:
+- scholarliness
+- scholasticisms
+- schoolbags
+- schoolmarms
+- schoolmistresses
+- schoolrooms
+- schottisches

@@ -1,0 +1,32 @@
+---
+pattern: c_nic
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 22
+score: 1950087
+score_per_word: 108338
+hi_scored_words:
+  carbonic: 39887
+  carcinogenic: 37645
+  catatonic: 74745
+  cationic: 55085
+  chronic: 5625
+  clinic: 7012
+  colonic: 37080
+  conic: 54437
+  cryogenic: 33074
+  cyclonic: 53493
+  cynic: 30997
+scored_words:
+  calisthenic: 318738
+  canonic: 226232
+  chromogenic: 135091
+  chthonic: 128375
+  cryonic: 239856
+  cryptogenic: 283098
+  cyanic: 189617
+not_scored_words:
+- Cynic
+- chalcedonic
+- chameleonic
+- cosmogonic

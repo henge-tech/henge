@@ -1,0 +1,34 @@
+---
+pattern: t_nal
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 24
+score: 1076205
+score_per_word: 67262
+hi_scored_words:
+  terminal: 5688
+  tetragonal: 86678
+  tonal: 27823
+  torsional: 60491
+  traditional: 2801
+  transactional: 29087
+  transcriptional: 27810
+  transformational: 38891
+  transitional: 15042
+  translational: 33524
+  transnational: 22336
+  tribunal: 7509
+  trigeminal: 54604
+scored_words:
+  tensional: 304187
+  trigonal: 126833
+  turbinal: 232901
+not_scored_words:
+- Tuinal
+- testudinal
+- tetanal
+- tractional
+- tridimensional
+- trinal
+- tripersonal
+- tuitional

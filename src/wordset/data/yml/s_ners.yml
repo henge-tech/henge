@@ -1,0 +1,41 @@
+---
+pattern: s_ners
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 31
+score: 2124337
+score_per_word: 92362
+hi_scored_words:
+  scanners: 9332
+  schooners: 86355
+  sharpeners: 73047
+  shipowners: 85615
+  signers: 51998
+  sinners: 18297
+  softeners: 85210
+  sojourners: 73090
+  southerners: 44416
+  spanners: 79315
+  spinners: 38146
+  stationers: 66225
+  stoners: 95942
+  straighteners: 56791
+  strainers: 80971
+  sweeteners: 43992
+scored_words:
+  seiners: 283184
+  shiners: 132619
+  skinners: 119221
+  stiffeners: 127966
+  stunners: 156101
+  submariners: 135692
+  sundowners: 180812
+not_scored_words:
+- Southerners
+- scorners
+- scriveners
+- seasoners
+- streamliners
+- strengtheners
+- suborners
+- summoners

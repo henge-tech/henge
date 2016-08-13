@@ -1,0 +1,38 @@
+---
+pattern: re_sion
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 28
+score: 1900066
+score_per_word: 90479
+hi_scored_words:
+  readmission: 64557
+  recession: 19954
+  recursion: 29275
+  regression: 7692
+  remission: 21140
+  repossession: 64885
+  repression: 17486
+  repulsion: 37608
+  rescission: 63480
+  retransmission: 52934
+  reversion: 32530
+  revision: 5139
+  revulsion: 45005
+scored_words:
+  recension: 122847
+  reclusion: 265358
+  reconversion: 203583
+  repercussion: 124974
+  reprehension: 197690
+  resubmission: 112930
+  retrocession: 280380
+  retrogression: 130619
+not_scored_words:
+- recommission
+- reimpression
+- reinfusion
+- responsion
+- retorsion
+- retroversion
+- retrusion

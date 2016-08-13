@@ -1,0 +1,34 @@
+---
+pattern: irri_
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 24
+score: 1812032
+score_per_word: 90601
+hi_scored_words:
+  irrigate: 65435
+  irrigated: 27058
+  irrigating: 88436
+  irrigation: 9296
+  irritability: 34884
+  irritable: 20155
+  irritably: 81374
+  irritant: 41074
+  irritants: 65692
+  irritate: 31901
+  irritated: 18364
+  irritates: 59186
+  irritating: 18040
+  irritation: 12477
+  irritations: 74942
+scored_words:
+  irrigable: 261978
+  irrigates: 298485
+  irrigator: 167273
+  irritatingly: 181000
+  irritative: 254982
+not_scored_words:
+- irrigational
+- irriguous
+- irritableness
+- irritator

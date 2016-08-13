@@ -1,0 +1,27 @@
+---
+pattern: aut_e
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 17
+score: 230243
+score_per_word: 25582
+hi_scored_words:
+  authenticate: 27258
+  authoritative: 12613
+  authorize: 12092
+  autoclave: 60936
+  autoimmune: 24110
+  automate: 17819
+  automobile: 5795
+  automotive: 3753
+  autoroute: 65867
+scored_words: {}
+not_scored_words:
+- autocade
+- autocue
+- automatize
+- autophyte
+- autosome
+- autotomize
+- autotype
+- autunite

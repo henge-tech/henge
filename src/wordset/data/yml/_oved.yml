@@ -1,0 +1,35 @@
+---
+pattern: _oved
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 25
+score: 1071106
+score_per_word: 53555
+hi_scored_words:
+  approved: 1675
+  beloved: 5585
+  disapproved: 37779
+  disproved: 65001
+  gloved: 62813
+  grooved: 50198
+  improved: 2434
+  loved: 1682
+  moved: 1128
+  proved: 3068
+  removed: 1530
+  reproved: 87859
+  shoved: 25131
+  unapproved: 54423
+  unimproved: 65760
+  unloved: 67196
+  unmoved: 57841
+scored_words:
+  behooved: 171734
+  roved: 159468
+  unproved: 148801
+not_scored_words:
+- commoved
+- nonapproved
+- unbeloved
+- unremoved
+- unreproved

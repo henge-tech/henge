@@ -1,0 +1,30 @@
+---
+pattern: im_ions
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 20
+score: 1587250
+score_per_word: 99203
+hi_scored_words:
+  imaginations: 29833
+  imitations: 37791
+  immunizations: 43666
+  imperfections: 26863
+  implementations: 12117
+  implications: 8511
+  impressions: 6736
+  improvisations: 66575
+scored_words:
+  immersions: 231571
+  immigrations: 168280
+  impersonations: 132800
+  implosions: 285815
+  importations: 101674
+  impositions: 107534
+  imprecations: 190121
+  imputations: 137363
+not_scored_words:
+- imbibitions
+- immoderations
+- immunosuppressions
+- impactions

@@ -1,0 +1,35 @@
+---
+pattern: a_sing
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 25
+score: 945680
+score_per_word: 55628
+hi_scored_words:
+  abusing: 18977
+  accessing: 12361
+  accusing: 18641
+  addressing: 4721
+  advertising: 3421
+  advising: 10898
+  aliasing: 28838
+  amassing: 63885
+  amusing: 10658
+  ankylosing: 74516
+  appeasing: 86772
+  appraising: 56822
+  arising: 5192
+  arousing: 41655
+  assessing: 10729
+scored_words:
+  abasing: 205289
+  apprising: 292305
+not_scored_words:
+- abscessing
+- abscising
+- affranchising
+- aggressing
+- anastomosing
+- apposing
+- arsing
+- aspersing

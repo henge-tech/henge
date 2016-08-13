@@ -1,0 +1,33 @@
+---
+pattern: unif_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 23
+score: 839278
+score_per_word: 64559
+hi_scored_words:
+  unification: 20341
+  unified: 11231
+  unifies: 71964
+  uniform: 2963
+  uniformed: 30046
+  uniformity: 16583
+  uniformly: 15631
+  uniforms: 8763
+  unify: 29908
+  unifying: 33582
+scored_words:
+  unifier: 116080
+  uniformitarian: 184802
+  uniformitarianism: 297384
+not_scored_words:
+- unifiable
+- unific
+- unifilar
+- uniflorous
+- unifoliate
+- unifoliolate
+- uniforming
+- uniformize
+- uniformness
+- uniformnesses

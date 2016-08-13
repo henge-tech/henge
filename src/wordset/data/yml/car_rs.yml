@@ -1,0 +1,32 @@
+---
+pattern: car_rs
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 22
+score: 1067929
+score_per_word: 71195
+hi_scored_words:
+  carabiners: 92549
+  carburetors: 66025
+  cardholders: 68660
+  careers: 5599
+  caregivers: 15740
+  carers: 15822
+  caretakers: 48283
+  carpenters: 21984
+  carriers: 7668
+  carters: 62047
+  cartographers: 92306
+  carvers: 63367
+scored_words:
+  carolers: 119430
+  carpetbaggers: 179846
+  carryovers: 208603
+not_scored_words:
+- carabineers
+- carders
+- cardsharpers
+- carjackers
+- carousers
+- carpers
+- carrefours

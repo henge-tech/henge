@@ -1,0 +1,36 @@
+---
+pattern: trop_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 26
+score: 1204262
+score_per_word: 80284
+hi_scored_words:
+  trope: 63017
+  tropes: 73109
+  trophic: 45048
+  trophies: 17251
+  trophy: 9643
+  tropic: 27808
+  tropical: 4117
+  tropics: 20083
+  troposphere: 57121
+  tropospheric: 66355
+scored_words:
+  trophoblast: 109916
+  trophozoites: 213680
+  tropically: 276437
+  tropism: 109001
+  tropopause: 111676
+not_scored_words:
+- Tropicana
+- tropeolin
+- trophoplasm
+- trophozoite
+- tropicalize
+- tropine
+- tropisms
+- tropology
+- tropopauses
+- tropophilous
+- tropospheres

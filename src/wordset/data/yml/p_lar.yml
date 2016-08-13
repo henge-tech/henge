@@ -1,0 +1,29 @@
+---
+pattern: p_lar
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1216827
+score_per_word: 93602
+hi_scored_words:
+  particular: 645
+  patellar: 71461
+  peninsular: 36521
+  perpendicular: 14730
+  pillar: 10835
+  polar: 8155
+  poplar: 20455
+  popular: 683
+scored_words:
+  papular: 244463
+  petrodollar: 255810
+  preambular: 251577
+  premolar: 142270
+  pustular: 159222
+not_scored_words:
+- pedicular
+- peduncular
+- pendular
+- pentangular
+- piacular
+- proconsular

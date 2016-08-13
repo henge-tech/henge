@@ -1,0 +1,44 @@
+---
+pattern: dis_rs
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 34
+score: 2466162
+score_per_word: 107224
+hi_scored_words:
+  disappears: 16663
+  disasters: 9636
+  disclaimers: 17661
+  discoverers: 92335
+  discovers: 12581
+  dishwashers: 34195
+  disorders: 4540
+  dispatchers: 62090
+  dispensers: 30408
+  dissectors: 98039
+  dissenters: 48256
+  distillers: 45256
+  distributors: 7959
+scored_words:
+  disbelievers: 109834
+  discounters: 110341
+  discriminators: 213981
+  disfavors: 269978
+  dishonors: 216591
+  dispersers: 266118
+  disposers: 104820
+  disseminators: 311041
+  distempers: 267451
+  disturbers: 116388
+not_scored_words:
+- disbars
+- disbursers
+- discolors
+- disencumbers
+- disinters
+- dismembers
+- disputers
+- dissemblers
+- dissevers
+- dissimulators
+- dissolvers

@@ -1,0 +1,32 @@
+---
+pattern: li_on
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 22
+score: 1125377
+score_per_word: 75025
+hi_scored_words:
+  liaison: 12164
+  libation: 75200
+  liberalization: 20351
+  liberation: 9496
+  ligation: 42766
+  limitation: 4850
+  lion: 3670
+  liposuction: 28512
+  liquefaction: 62217
+  liquidation: 22549
+  litigation: 8888
+scored_words:
+  libration: 164887
+  lineation: 276016
+  liriodendron: 238394
+  livraison: 155417
+not_scored_words:
+- Linton
+- Lipton
+- Lisbon
+- Liston
+- Litton
+- Livingston
+- lionization

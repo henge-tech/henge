@@ -1,0 +1,52 @@
+---
+pattern: oste_
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 42
+score: 2474912
+score_per_word: 103121
+hi_scored_words:
+  ostensible: 58003
+  ostensibly: 23953
+  ostentation: 90224
+  ostentatious: 61514
+  osteoarthritis: 30441
+  osteoblasts: 90302
+  osteogenesis: 96060
+  osteomyelitis: 65783
+  osteopath: 85632
+  osteopathic: 38452
+  osteopaths: 98118
+  osteopathy: 58028
+  osteoporosis: 15912
+  osteotomy: 78491
+scored_words:
+  osteitis: 168897
+  ostentatiously: 139268
+  osteoarthritic: 251198
+  osteoblast: 122602
+  osteoclast: 122105
+  osteoid: 178714
+  osteology: 150091
+  osteoma: 199295
+  osteomalacia: 133461
+  osteoporotic: 118368
+not_scored_words:
+- Ostend
+- osteal
+- osteitides
+- ostensibility
+- ostensive
+- ostensorium
+- ostensory
+- ostentatiousness
+- ostentatiousnesses
+- osteoclasis
+- osteomalacias
+- osteomas
+- osteomyelitides
+- osteopathically
+- osteophyte
+- osteoplastic
+- osteoporoses
+- osteotome

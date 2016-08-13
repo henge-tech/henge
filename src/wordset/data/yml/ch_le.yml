@@ -1,0 +1,34 @@
+---
+pattern: ch_le
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 24
+score: 1756084
+score_per_word: 97560
+hi_scored_words:
+  chamomile: 40667
+  changeable: 30019
+  chargeable: 37799
+  charitable: 6773
+  chenille: 44336
+  chewable: 64012
+  chorale: 36670
+  chronicle: 7783
+  chuckle: 22673
+  chyle: 75045
+scored_words:
+  chandelle: 184061
+  chanterelle: 142317
+  chasuble: 164673
+  checkable: 167217
+  chicle: 180337
+  chondrule: 324208
+  chortle: 103448
+  chrysotile: 124046
+not_scored_words:
+- Chancellorsville
+- Charlottesville
+- Chile
+- Chippendale
+- cherishable
+- chuckhole

@@ -1,0 +1,41 @@
+---
+pattern: insp_
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 31
+score: 1099489
+score_per_word: 49976
+hi_scored_words:
+  insp: 62148
+  inspect: 10758
+  inspected: 13673
+  inspecting: 26494
+  inspection: 3781
+  inspections: 19850
+  inspector: 6251
+  inspectorate: 38438
+  inspectors: 13272
+  inspects: 54365
+  inspiration: 4400
+  inspirational: 9394
+  inspirations: 27802
+  inspiratory: 84203
+  inspire: 8197
+  inspired: 3340
+  inspires: 20996
+  inspiring: 9056
+scored_words:
+  inspectorates: 184520
+  inspirer: 176226
+  inspirit: 169684
+  inspiriting: 152641
+not_scored_words:
+- inspan
+- inspanned
+- inspanning
+- inspans
+- insphere
+- inspirationally
+- inspirited
+- inspirits
+- inspissate

@@ -1,0 +1,29 @@
+---
+pattern: turn_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 19
+score: 935920
+score_per_word: 85083
+hi_scored_words:
+  turnarounds: 95727
+  turners: 46856
+  turnings: 89917
+  turnips: 51514
+  turnouts: 93241
+  turnovers: 24894
+  turns: 2372
+  turnstiles: 83946
+  turntables: 30711
+scored_words:
+  turnbuckles: 180103
+  turnpikes: 236639
+not_scored_words:
+- turnabouts
+- turncoats
+- turndowns
+- turneries
+- turnkeys
+- turnoffs
+- turnspits
+- turnstones

@@ -1,0 +1,41 @@
+---
+pattern: h_re
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 31
+score: 1226979
+score_per_word: 55771
+hi_scored_words:
+  haircare: 53455
+  hardcore: 8589
+  hardware: 2974
+  hare: 11843
+  haywire: 63278
+  healthcare: 2812
+  hectare: 28167
+  hellfire: 43198
+  hemisphere: 11903
+  herbivore: 64909
+  here: 73
+  heretofore: 25592
+  hire: 3056
+  hombre: 35717
+  horticulture: 24000
+  how're: 45765
+scored_words:
+  hackamore: 131479
+  heliosphere: 154510
+  hellebore: 107163
+  hereinbefore: 144638
+  hollowware: 133653
+  hydrosphere: 130205
+not_scored_words:
+- Hampshire
+- Harare
+- Havre
+- Here
+- Herefordshire
+- Hertfordshire
+- Huntingdonshire
+- hachure
+- heliogravure

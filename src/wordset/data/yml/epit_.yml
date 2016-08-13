@@ -1,0 +1,34 @@
+---
+pattern: epit_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 24
+score: 853308
+score_per_word: 65639
+hi_scored_words:
+  epitaph: 33512
+  epitaxial: 64539
+  epitaxy: 83914
+  epithelial: 18807
+  epithelium: 24226
+  epithet: 39467
+  epithets: 62741
+  epitome: 29986
+  epitomized: 85118
+  epitomizes: 87490
+scored_words:
+  epitaphs: 103414
+  epithalamium: 112965
+  epitomize: 107129
+not_scored_words:
+- epitasis
+- epithalamia
+- epithalamion
+- epithelioma
+- epitheliomas
+- epithetic
+- epithetical
+- epithetically
+- epitomes
+- epitomist
+- epitomizing

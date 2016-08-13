@@ -1,0 +1,39 @@
+---
+pattern: e_red
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 29
+score: 1104775
+score_per_word: 50217
+hi_scored_words:
+  eared: 35031
+  embittered: 62844
+  embroidered: 10489
+  empowered: 16899
+  enamored: 49826
+  encountered: 5583
+  encumbered: 52313
+  endangered: 9303
+  endeared: 79846
+  endeavored: 39537
+  endured: 14840
+  engendered: 45184
+  engineered: 18065
+  enraptured: 87623
+  ensured: 19972
+  entered: 1626
+  erred: 29172
+  expired: 8532
+  explored: 9460
+scored_words:
+  embowered: 156994
+  enciphered: 247187
+  ensnared: 104449
+not_scored_words:
+- Ethelred
+- electioneered
+- embrasured
+- encored
+- enured
+- espaliered
+- euchred

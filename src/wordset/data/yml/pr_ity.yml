@@ -1,0 +1,47 @@
+---
+pattern: pr_ity
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 37
+score: 2471412
+score_per_word: 91533
+hi_scored_words:
+  practicality: 32874
+  predictability: 33449
+  prematurity: 69516
+  principality: 33072
+  priority: 6563
+  probability: 3846
+  probity: 55625
+  proclivity: 79548
+  productivity: 8882
+  profanity: 23872
+  profitability: 15908
+  profundity: 77315
+  promiscuity: 56922
+  propensity: 21819
+  proportionality: 44505
+  prosperity: 6739
+  proximity: 8990
+scored_words:
+  practicability: 103310
+  precocity: 198391
+  privity: 107060
+  proactivity: 336880
+  prodigality: 213490
+  programmability: 129000
+  progressivity: 174025
+  prolixity: 203483
+  propinquity: 191799
+  provability: 234529
+not_scored_words:
+- preciosity
+- predacity
+- pregnability
+- prehensility
+- presentability
+- primitivity
+- primordiality
+- proverbiality
+- provinciality
+- provisionality

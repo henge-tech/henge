@@ -1,0 +1,41 @@
+---
+pattern: _eel
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 31
+score: 1180403
+score_per_word: 59020
+hi_scored_words:
+  cartwheel: 88343
+  creel: 52897
+  eel: 21702
+  feel: 365
+  flywheel: 35095
+  genteel: 45934
+  heel: 6894
+  keel: 19417
+  kneel: 26315
+  newsreel: 63422
+  peel: 10356
+  pinwheel: 64264
+  reel: 8991
+  steel: 1660
+  wheel: 2428
+scored_words:
+  cogwheel: 290814
+  freewheel: 102424
+  mouthfeel: 100293
+  seel: 105676
+  waterwheel: 133113
+not_scored_words:
+- Jezreel
+- Peel
+- cockateel
+- gearwheel
+- manchineel
+- nosewheel
+- printwheel
+- roundheel
+- sidewheel
+- unreel
+- unsteel

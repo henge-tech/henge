@@ -1,0 +1,54 @@
+---
+pattern: _rked
+hi_scored_words_count: 26
+scored_words_count: 7
+total_words: 44
+score: 2813321
+score_per_word: 85252
+hi_scored_words:
+  barked: 48414
+  bookmarked: 45547
+  corked: 79867
+  disembarked: 87689
+  earmarked: 31612
+  embarked: 16085
+  forked: 32936
+  hallmarked: 61652
+  irked: 64504
+  jerked: 37121
+  lurked: 61325
+  marked: 2174
+  networked: 17080
+  overworked: 36159
+  parked: 18777
+  perked: 83087
+  postmarked: 51066
+  remarked: 10075
+  reworked: 36323
+  smirked: 74288
+  sparked: 20392
+  trademarked: 34435
+  uncorked: 85646
+  unmarked: 27220
+  watermarked: 80544
+  worked: 1212
+scored_words:
+  clerked: 138451
+  debarked: 278258
+  pockmarked: 202234
+  quirked: 317316
+  shirked: 172163
+  unremarked: 257778
+  waymarked: 301891
+not_scored_words:
+- biforked
+- carked
+- chirked
+- harked
+- larked
+- outworked
+- pitchforked
+- reembarked
+- sharked
+- skylarked
+- twerked

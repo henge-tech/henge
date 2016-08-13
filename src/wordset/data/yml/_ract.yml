@@ -1,0 +1,34 @@
+---
+pattern: _ract
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 24
+score: 1017166
+score_per_word: 59833
+hi_scored_words:
+  abstract: 2517
+  attract: 5250
+  cataract: 20135
+  contract: 1607
+  counteract: 25925
+  detract: 31076
+  distract: 20216
+  extract: 4952
+  interact: 9314
+  refract: 97085
+  retract: 28697
+  subcontract: 46586
+  subtract: 25611
+  tract: 6629
+scored_words:
+  bract: 145971
+  diffract: 287688
+  protract: 257907
+not_scored_words:
+- Pontefract
+- fluidextract
+- infract
+- overact
+- precontract
+- recontract
+- underact

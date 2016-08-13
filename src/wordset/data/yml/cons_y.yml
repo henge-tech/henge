@@ -1,0 +1,50 @@
+---
+pattern: cons_y
+hi_scored_words_count: 23
+scored_words_count: 6
+total_words: 40
+score: 2098008
+score_per_word: 72345
+hi_scored_words:
+  consanguinity: 75503
+  conscientiously: 59456
+  consciously: 18427
+  consecutively: 43947
+  consequently: 4578
+  conservancy: 24545
+  conservatively: 48859
+  conservatory: 14815
+  considerably: 6010
+  consistency: 7422
+  consistently: 7158
+  consistory: 89123
+  conspicuously: 37488
+  conspiracy: 5727
+  constabulary: 43126
+  constancy: 33883
+  constantly: 3092
+  constituency: 13403
+  constitutionality: 39239
+  constitutionally: 30271
+  constitutively: 87481
+  constructively: 45450
+  consultancy: 9482
+scored_words:
+  consensually: 259695
+  consequentially: 137186
+  considerately: 191470
+  consolatory: 248538
+  conspicuity: 218321
+  conspiratorially: 294313
+not_scored_words:
+- consanguineously
+- consecratory
+- consequentiality
+- consolingly
+- consonantally
+- consonantly
+- constituently
+- consuetudinary
+- consumedly
+- consummately
+- consumptively

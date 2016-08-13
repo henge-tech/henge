@@ -1,0 +1,35 @@
+---
+pattern: t_pe
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 25
+score: 1069160
+score_per_word: 71277
+hi_scored_words:
+  tailpipe: 79418
+  tape: 5029
+  taupe: 40053
+  telescope: 8008
+  teletype: 72725
+  tightrope: 51755
+  tope: 70275
+  tripe: 46655
+  trompe: 61605
+  trope: 63017
+  troupe: 22331
+  type: 581
+scored_words:
+  tintype: 217288
+  townscape: 126455
+  towrope: 203965
+not_scored_words:
+- Teletype
+- Tempe
+- Thorpe
+- Trippe
+- Trollope
+- tachistoscope
+- telespectroscope
+- thaumatrope
+- thermoscope
+- topotype

@@ -1,0 +1,55 @@
+---
+pattern: pho_e
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 45
+score: 1933410
+score_per_word: 101758
+hi_scored_words:
+  phoebe: 15028
+  phone: 4194
+  phoneme: 54484
+  phosphatase: 24358
+  phosphate: 13986
+  phosphide: 98688
+  phosphine: 86233
+  phosphodiesterase: 68929
+  phosphorylase: 70419
+  photosensitive: 79767
+scored_words:
+  phosgene: 124724
+  phosphocreatine: 192390
+  phosphorescence: 102831
+  photoactive: 326967
+  photocathode: 156519
+  photogravure: 146475
+  photoluminescence: 108564
+  photomontage: 154563
+  photosphere: 104291
+not_scored_words:
+- Phoebe
+- phocine
+- phonate
+- phonolite
+- phonoscope
+- phosgenite
+- phosphatize
+- phosphene
+- phospholipide
+- phosphorate
+- phosphoresce
+- phosphorite
+- phosphoroscope
+- photocompose
+- photoduplicate
+- photoelectrotype
+- photoengrave
+- photogene
+- photomicroscope
+- photophore
+- photoreconnaisance
+- photoreconnaissance
+- photosensitize
+- photosynthesize
+- phototube
+- phototype

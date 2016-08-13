@@ -1,0 +1,73 @@
+---
+pattern: cap_s
+hi_scored_words_count: 18
+scored_words_count: 15
+total_words: 63
+score: 3010410
+score_per_word: 91224
+hi_scored_words:
+  capabilities: 6496
+  capacious: 69292
+  capacities: 12097
+  capacitors: 22247
+  capers: 36011
+  capes: 37668
+  capillaries: 47333
+  capitalists: 22886
+  capitals: 14724
+  capricious: 31226
+  caps: 8601
+  capsules: 16249
+  captains: 12653
+  captions: 20224
+  captious: 71944
+  captives: 32723
+  captors: 39712
+  captures: 13372
+scored_words:
+  capias: 198988
+  capitalizes: 100033
+  capitols: 132820
+  capitulates: 258848
+  caplets: 127398
+  capons: 128158
+  capos: 103801
+  cappuccinos: 154428
+  caprices: 102784
+  capriciousness: 263465
+  capsids: 230068
+  capsizes: 164251
+  capstans: 287941
+  captivates: 111076
+  capuchins: 130893
+not_scored_words:
+- Capitols
+- Capricornis
+- Capricorns
+- Capris
+- capaciousness
+- capacitates
+- caparisons
+- capelins
+- capercaillies
+- capfuls
+- capillaceous
+- capitations
+- capitulations
+- caplins
+- caponizes
+- capotes
+- capparidaceous
+- caprifigs
+- caprifoliaceous
+- caprioles
+- capsaicins
+- capsicums
+- capstones
+- capsulizes
+- captaincies
+- captainships
+- captiousness
+- captivators
+- captivities
+- capybaras

@@ -1,0 +1,45 @@
+---
+pattern: dow_s
+hi_scored_words_count: 9
+scored_words_count: 11
+total_words: 35
+score: 2564106
+score_per_word: 128205
+hi_scored_words:
+  dowels: 86925
+  downers: 41036
+  downgrades: 58092
+  downloads: 8349
+  downs: 9402
+  downsides: 57456
+  downstairs: 10449
+  downturns: 89709
+  downwards: 23067
+scored_words:
+  dowagers: 159338
+  downdrafts: 303499
+  downfalls: 144135
+  downhills: 203586
+  downpipes: 238164
+  downplays: 107366
+  downpours: 118408
+  downshifts: 321072
+  downspouts: 145753
+  dowries: 209440
+  dowsers: 228860
+not_scored_words:
+- Downs
+- dowdies
+- dowdiness
+- doweries
+- dowers
+- dowitchers
+- downbeats
+- downheartedness
+- downlands
+- downsizes
+- downstrokes
+- downswings
+- downticks
+- downtrends
+- dowses

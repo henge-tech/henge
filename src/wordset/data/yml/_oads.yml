@@ -1,0 +1,42 @@
+---
+pattern: _oads
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 32
+score: 1568958
+score_per_word: 74712
+hi_scored_words:
+  broads: 46863
+  caseloads: 86300
+  crossroads: 17718
+  downloads: 8349
+  inroads: 33295
+  loads: 5344
+  overloads: 70047
+  payloads: 50005
+  railroads: 15463
+  reloads: 59893
+  roads: 2860
+  toads: 38746
+  truckloads: 89435
+  uploads: 18291
+  workloads: 48043
+scored_words:
+  boatloads: 176684
+  busloads: 203627
+  carloads: 151020
+  goads: 137327
+  offloads: 208810
+  unloads: 100838
+not_scored_words:
+- Broads
+- armloads
+- byroads
+- cartloads
+- coachloads
+- freeloads
+- highroads
+- ogdoads
+- planeloads
+- shiploads
+- trainloads

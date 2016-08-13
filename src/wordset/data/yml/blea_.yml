@@ -1,0 +1,32 @@
+---
+pattern: blea_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 22
+score: 1422026
+score_per_word: 94801
+hi_scored_words:
+  bleach: 23051
+  bleached: 31194
+  bleacher: 58766
+  bleachers: 38718
+  bleaching: 27974
+  bleak: 16630
+  bleary: 95122
+  bleat: 61686
+  bleating: 73528
+scored_words:
+  bleaches: 115994
+  bleaker: 167318
+  bleakest: 217240
+  bleakly: 186231
+  bleakness: 157561
+  bleats: 151013
+not_scored_words:
+- bleakish
+- blear
+- blearier
+- bleariest
+- blearily
+- bleariness
+- bleated

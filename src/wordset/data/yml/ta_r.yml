@@ -1,0 +1,80 @@
+---
+pattern: ta_r
+hi_scored_words_count: 26
+scored_words_count: 14
+total_words: 70
+score: 3302765
+score_per_word: 82569
+hi_scored_words:
+  tabor: 29879
+  tabular: 30868
+  tachometer: 56163
+  tagger: 73434
+  tailor: 13320
+  takeover: 17504
+  taker: 27819
+  talker: 30700
+  taller: 13193
+  tamer: 41918
+  tamper: 32442
+  tanager: 61335
+  tangier: 49217
+  tanker: 19720
+  tanner: 20021
+  taper: 18600
+  tapir: 75087
+  tapper: 65349
+  tar: 8459
+  tartar: 34063
+  taser: 44884
+  taskbar: 40391
+  taskmaster: 79523
+  taster: 41178
+  tater: 53578
+  taxpayer: 18276
+scored_words:
+  tabulator: 204672
+  tacker: 181262
+  tackler: 131303
+  tahr: 299931
+  tailgater: 112236
+  taler: 132638
+  tambour: 102977
+  tarsier: 191885
+  tarter: 116185
+  tastier: 106039
+  tatter: 194709
+  tattler: 119563
+  taverner: 133137
+  taximeter: 279307
+not_scored_words:
+- Tabor
+- Tangier
+- Tanner
+- Tannhauser
+- Tannhäuser
+- Tartar
+- Tatar
+- Taverner
+- Taylor
+- tacheometer
+- tackier
+- tahsildar
+- talebearer
+- talkier
+- tallier
+- tamperer
+- tantalizer
+- tapster
+- tardier
+- tarpaper
+- tarrier
+- tasimeter
+- tattier
+- tattooer
+- taunter
+- tauter
+- tautomer
+- tawdrier
+- tawnier
+- taxer

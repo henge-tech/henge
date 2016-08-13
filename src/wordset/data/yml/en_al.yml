@@ -1,0 +1,23 @@
+---
+pattern: en_al
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 743382
+score_per_word: 74338
+hi_scored_words:
+  encyclical: 48636
+  endometrial: 35801
+  endothelial: 21244
+  enigmatical: 76638
+  enteral: 60240
+  entomological: 57778
+  entrepreneurial: 14604
+  environmental: 10696
+scored_words:
+  endocardial: 135887
+  endocrinological: 281858
+not_scored_words:
+- enchorial
+- endothermal
+- englacial

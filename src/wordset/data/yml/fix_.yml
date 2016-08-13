@@ -1,0 +1,32 @@
+---
+pattern: fix_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 22
+score: 1460096
+score_per_word: 73004
+hi_scored_words:
+  fix: 1833
+  fixable: 89383
+  fixated: 59880
+  fixation: 24532
+  fixative: 75811
+  fixed: 1107
+  fixedly: 83638
+  fixer: 36771
+  fixes: 8801
+  fixing: 7371
+  fixings: 53789
+  fixture: 18217
+  fixtures: 13537
+scored_words:
+  fixate: 125548
+  fixating: 189189
+  fixations: 101389
+  fixatives: 176591
+  fixedness: 154400
+  fixers: 113067
+  fixity: 125242
+not_scored_words:
+- fixates
+- fixednesses

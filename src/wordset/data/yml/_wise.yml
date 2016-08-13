@@ -1,0 +1,39 @@
+---
+pattern: _wise
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 29
+score: 1968774
+score_per_word: 98438
+hi_scored_words:
+  clockwise: 23335
+  counterclockwise: 52386
+  crosswise: 72387
+  lengthwise: 52466
+  likewise: 5004
+  otherwise: 1039
+  pairwise: 43540
+  piecewise: 56159
+  stepwise: 52092
+  streetwise: 51343
+  unwise: 28130
+  wise: 2491
+scored_words:
+  anticlockwise: 147217
+  anywise: 293647
+  bendwise: 323502
+  coastwise: 135049
+  contrariwise: 119253
+  edgewise: 103888
+  nowise: 128205
+  sunwise: 277641
+not_scored_words:
+- Wise
+- bridlewise
+- cornerwise
+- crabwise
+- flatwise
+- leastwise
+- slantwise
+- somewise
+- widthwise

@@ -1,0 +1,71 @@
+---
+pattern: _of
+hi_scored_words_count: 23
+scored_words_count: 13
+total_words: 61
+score: 3143775
+score_per_word: 87327
+hi_scored_words:
+  aloof: 32949
+  bulletproof: 26515
+  fireproof: 49497
+  foolproof: 41427
+  goof: 38655
+  hereof: 39167
+  hoof: 25335
+  of: 2
+  oof: 47633
+  poof: 40113
+  prof: 11699
+  proof: 1827
+  reproof: 65485
+  roof: 2616
+  soundproof: 65656
+  spoof: 26219
+  sunroof: 36617
+  thereof: 4537
+  waterproof: 13307
+  weatherproof: 56450
+  whereof: 25312
+  windproof: 88868
+  woof: 24409
+scored_words:
+  behoof: 185380
+  bombproof: 156958
+  childproof: 152341
+  disproof: 210052
+  dustproof: 239776
+  flameproof: 162973
+  greaseproof: 202645
+  heatproof: 279259
+  kloof: 105985
+  ovenproof: 211581
+  rustproof: 188899
+  shatterproof: 137347
+  shockproof: 146284
+not_scored_words:
+- Meyerhof
+- OF
+- Pribilof
+- Prof
+- Wolof
+- Zamenhof
+- burglarproof
+- counterproof
+- creaseproof
+- dampproof
+- ganof
+- holeproof
+- lightproof
+- mothproof
+- rainproof
+- shadoof
+- shellproof
+- showerproof
+- skidproof
+- smokeproof
+- stormproof
+- sunproof
+- underproof
+- unroof
+- wearproof

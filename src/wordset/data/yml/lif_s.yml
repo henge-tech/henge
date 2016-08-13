@@ -1,0 +1,27 @@
+---
+pattern: lif_s
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 17
+score: 1202273
+score_per_word: 80151
+hi_scored_words:
+  lifeboats: 67295
+  lifeforms: 86829
+  lifeguards: 61146
+  lifeless: 26128
+  lifelines: 65093
+  lifers: 64456
+  lifesavers: 83706
+  lifestyles: 12812
+  lifetimes: 30273
+  lifters: 51724
+  lifts: 9192
+scored_words:
+  lifebuoys: 196280
+  lifelessness: 127362
+  lifespans: 136941
+  lifeworks: 183036
+not_scored_words:
+- lifebelts
+- liftoffs

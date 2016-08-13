@@ -1,0 +1,31 @@
+---
+pattern: b_bs
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 21
+score: 889111
+score_per_word: 63507
+hi_scored_words:
+  barbs: 52241
+  bathtubs: 60573
+  bibs: 41734
+  blobs: 45614
+  blurbs: 59029
+  bobs: 37186
+  bombs: 9730
+  boobs: 7432
+  breadcrumbs: 46165
+  bulbs: 11693
+  burbs: 64278
+scored_words:
+  blebs: 238502
+  brewpubs: 105828
+  bubs: 109106
+not_scored_words:
+- BBS
+- backcombs
+- baobabs
+- bedaubs
+- benumbs
+- bicarbs
+- blabs

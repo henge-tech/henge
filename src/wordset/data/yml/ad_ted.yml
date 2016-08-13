@@ -1,0 +1,24 @@
+---
+pattern: ad_ted
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 381175
+score_per_word: 38117
+hi_scored_words:
+  adapted: 5186
+  addicted: 11051
+  adjudicated: 50197
+  adjusted: 10721
+  administrated: 67372
+  admitted: 3560
+  adopted: 2108
+  adulterated: 69681
+  advocated: 15964
+scored_words:
+  adverted: 145335
+not_scored_words:
+- addlepated
+- adducted
+- adulated
+- adumbrated

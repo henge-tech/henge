@@ -1,0 +1,31 @@
+---
+pattern: fre_d
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 21
+score: 1079806
+score_per_word: 83062
+hi_scored_words:
+  freaked: 30692
+  freckled: 60543
+  freeboard: 83346
+  freed: 9154
+  freehand: 38375
+  freehold: 26449
+  frenzied: 40713
+  frequented: 33397
+  fretted: 46594
+scored_words:
+  freelanced: 233915
+  freighted: 136312
+  fremd: 231040
+  freshened: 109276
+not_scored_words:
+- Fred
+- Frenchified
+- Freud
+- freebased
+- freehanded
+- freeload
+- freeloaded
+- freewheeled

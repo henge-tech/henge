@@ -1,0 +1,25 @@
+---
+pattern: ab_ted
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 982773
+score_per_word: 81897
+hi_scored_words:
+  abated: 39835
+  abbreviated: 20118
+  abdicated: 67412
+  abducted: 28822
+  abetted: 60276
+  aborted: 24537
+  abrogated: 56797
+  abstracted: 29131
+scored_words:
+  ablated: 169723
+  abominated: 163081
+  absented: 155158
+  abutted: 167883
+not_scored_words:
+- abnegated
+- abreacted
+- absquatulated

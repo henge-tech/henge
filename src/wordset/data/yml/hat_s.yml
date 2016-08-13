@@ -1,0 +1,29 @@
+---
+pattern: hat_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 19
+score: 964465
+score_per_word: 87678
+hi_scored_words:
+  hatchbacks: 92445
+  hatcheries: 66935
+  hatches: 35843
+  hatchets: 99641
+  haters: 34902
+  hates: 11797
+  hatreds: 96328
+  hats: 4639
+  hatters: 58649
+scored_words:
+  hatemongers: 229299
+  hatpins: 233987
+not_scored_words:
+- Hatteras
+- hatbands
+- hatboxes
+- hatchecks
+- hatchels
+- hatchways
+- hatefulness
+- hatstands

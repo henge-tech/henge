@@ -1,0 +1,33 @@
+---
+pattern: sect_
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 23
+score: 1500979
+score_per_word: 83387
+hi_scored_words:
+  sect: 10843
+  sectarian: 25115
+  sectarianism: 68478
+  sectaries: 97145
+  section: 711
+  sectional: 17048
+  sectionals: 75170
+  sectioned: 62730
+  sectioning: 68459
+  sections: 2254
+  sector: 4443
+  sectoral: 25085
+  sectors: 12195
+  sects: 27164
+scored_words:
+  sectarians: 242559
+  sectionally: 294274
+  sectored: 341110
+  sectorial: 126196
+not_scored_words:
+- sectarianize
+- sectary
+- sectionalism
+- sectionalist
+- sectionalize

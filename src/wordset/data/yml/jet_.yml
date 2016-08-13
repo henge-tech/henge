@@ -1,0 +1,28 @@
+---
+pattern: jet_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1439762
+score_per_word: 102840
+hi_scored_words:
+  jet: 5361
+  jets: 9853
+  jetsam: 81824
+  jetted: 85347
+  jetties: 93421
+  jetting: 72040
+  jettison: 73065
+  jettisoned: 95988
+  jetty: 28199
+scored_words:
+  jetliner: 112416
+  jetliners: 185589
+  jetport: 147032
+  jettisoning: 188828
+  jetton: 260799
+not_scored_words:
+- Jethro
+- Jetway
+- jetports
+- jettisons

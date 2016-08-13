@@ -1,0 +1,42 @@
+---
+pattern: ca_tes
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 32
+score: 1653525
+score_per_word: 118108
+hi_scored_words:
+  calculates: 30525
+  campsites: 31286
+  candidates: 7666
+  carbohydrates: 17986
+  carbonates: 55728
+  cartes: 50013
+  cassettes: 18877
+  castes: 42761
+scored_words:
+  calibrates: 230456
+  capitulates: 258848
+  captivates: 111076
+  carbamates: 174758
+  carboxylates: 325437
+  castigates: 298108
+not_scored_words:
+- Callicrates
+- Canaanites
+- Carmelites
+- cachinnates
+- caliphates
+- calumniates
+- camphorates
+- cantillates
+- capacitates
+- capotes
+- cardinalates
+- carnallites
+- carnotites
+- caseates
+- cassiterites
+- castrates
+- catenates
+- caudates

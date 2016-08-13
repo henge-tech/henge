@@ -1,0 +1,42 @@
+---
+pattern: alm_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 32
+score: 711984
+score_per_word: 64725
+hi_scored_words:
+  almanac: 17620
+  almanacs: 48623
+  almighty: 12738
+  almond: 15490
+  almonds: 22957
+  almoner: 61311
+  almost: 500
+  alms: 28668
+scored_words:
+  almandine: 253406
+  almshouse: 102853
+  almshouses: 147818
+not_scored_words:
+- Alma
+- Almach
+- Almagest
+- Almaty
+- Almighty
+- Almohad
+- Almoravid
+- almandines
+- almandite
+- almandites
+- almemar
+- almightily
+- almightiness
+- almoners
+- almonry
+- almsgiver
+- almsgivers
+- almsman
+- almswoman
+- almucantar
+- almuce

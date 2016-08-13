@@ -1,0 +1,27 @@
+---
+pattern: det_ng
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 1180112
+score_per_word: 90777
+hi_scored_words:
+  detaching: 76180
+  detailing: 15180
+  detaining: 57247
+  detecting: 14271
+  deteriorating: 34292
+  determining: 4699
+  deterring: 62324
+  detonating: 88648
+scored_words:
+  detesting: 176229
+  dethroning: 280436
+  detoxifying: 102564
+  detoxing: 159811
+  detracting: 108231
+not_scored_words:
+- detouring
+- detoxicating
+- detraining
+- detribalizing

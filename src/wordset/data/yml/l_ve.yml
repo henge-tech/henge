@@ -1,0 +1,27 @@
+---
+pattern: l_ve
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 17
+score: 385132
+score_per_word: 38513
+hi_scored_words:
+  lave: 65844
+  laxative: 42097
+  leave: 487
+  legislative: 3714
+  live: 261
+  locative: 65104
+  locomotive: 14691
+  love: 174
+  lucrative: 16555
+scored_words:
+  landgrave: 176205
+not_scored_words:
+- Laccadive
+- Love
+- ladylove
+- lenitive
+- limitative
+- liquefactive
+- litigative

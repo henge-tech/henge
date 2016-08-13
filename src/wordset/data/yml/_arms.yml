@@ -1,0 +1,32 @@
+---
+pattern: _arms
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 916768
+score_per_word: 70520
+hi_scored_words:
+  alarms: 11165
+  arms: 1332
+  charms: 6867
+  farms: 5051
+  firearms: 11131
+  forearms: 60428
+  harms: 27756
+  swarms: 43340
+  warms: 34059
+scored_words:
+  disarms: 158136
+  sidearms: 255061
+  tonearms: 189835
+  underarms: 112607
+not_scored_words:
+- barms
+- becharms
+- overarms
+- rearms
+- rewarms
+- schoolmarms
+- smarms
+- unarms
+- yardarms

@@ -1,0 +1,42 @@
+---
+pattern: pre_nt
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 32
+score: 1752220
+score_per_word: 83439
+hi_scored_words:
+  precedent: 11681
+  predicament: 26699
+  predominant: 16916
+  preeminent: 42657
+  pregnant: 4455
+  prepayment: 38777
+  prescient: 70059
+  present: 364
+  presentment: 63720
+  president: 962
+  pretreatment: 36404
+  prevalent: 11853
+  prevent: 1352
+scored_words:
+  preadolescent: 216360
+  prearrangement: 320924
+  precipitant: 254789
+  preferment: 111777
+  prejudgment: 145172
+  preponderant: 155310
+  prepubescent: 108090
+  presentiment: 113899
+not_scored_words:
+- preachment
+- preappoint
+- predicant
+- predikant
+- preenlistment
+- preexistent
+- prefigurement
+- prepotent
+- preretirement
+- presentient
+- prevenient

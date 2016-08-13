@@ -1,0 +1,34 @@
+---
+pattern: ju_r
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 24
+score: 1083731
+score_per_word: 90310
+hi_scored_words:
+  juggler: 53081
+  jugular: 52879
+  juicer: 39666
+  jumper: 17964
+  junior: 3774
+  juniper: 20139
+  junker: 67530
+  juror: 31435
+  juster: 81509
+scored_words:
+  judder: 278413
+  juicier: 202069
+  justifier: 235272
+not_scored_words:
+- Jullundur
+- Julundur
+- Junior
+- Junker
+- Jupiter
+- judicator
+- jumpier
+- junglier
+- junketeer
+- junketer
+- junkier
+- justiciar

@@ -1,0 +1,41 @@
+---
+pattern: _uded
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 31
+score: 1769014
+score_per_word: 73708
+hi_scored_words:
+  alluded: 30343
+  applauded: 29591
+  clouded: 33027
+  concluded: 3736
+  defrauded: 72165
+  deluded: 39328
+  denuded: 90903
+  eluded: 48389
+  excluded: 6217
+  extruded: 36988
+  included: 865
+  intruded: 73215
+  lauded: 41365
+  occluded: 68576
+  precluded: 34658
+  protruded: 96849
+  secluded: 17599
+  shrouded: 36266
+scored_words:
+  colluded: 152550
+  enshrouded: 175320
+  exuded: 107386
+  feuded: 266000
+  obtruded: 139354
+  unclouded: 168324
+not_scored_words:
+- beclouded
+- duded
+- interluded
+- marauded
+- overclouded
+- transuded
+- unconcluded

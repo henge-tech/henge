@@ -1,0 +1,39 @@
+---
+pattern: _rce
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 29
+score: 599330
+score_per_word: 33296
+hi_scored_words:
+  coerce: 39332
+  commerce: 1974
+  divorce: 4175
+  enforce: 7408
+  farce: 21147
+  fierce: 7980
+  force: 523
+  outsource: 26999
+  perforce: 31515
+  pierce: 7225
+  reinforce: 13609
+  resource: 5258
+  scarce: 8919
+  source: 757
+  taskforce: 44034
+  workforce: 5208
+scored_words:
+  counterforce: 236431
+  tierce: 136836
+not_scored_words:
+- Bierce
+- Circe
+- Commerce
+- Peirce
+- Pierce
+- Wilberforce
+- amerce
+- deforce
+- sesterce
+- terce
+- transpierce

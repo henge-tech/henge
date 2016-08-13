@@ -1,0 +1,27 @@
+---
+pattern: c_med
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 17
+score: 679550
+score_per_word: 52273
+hi_scored_words:
+  calmed: 37133
+  charmed: 13700
+  chimed: 66551
+  chromed: 71276
+  claimed: 3460
+  codenamed: 85393
+  confirmed: 2736
+  conformed: 44282
+  consumed: 8468
+  costumed: 63823
+  crammed: 24622
+  creamed: 45126
+scored_words:
+  chloroformed: 212980
+not_scored_words:
+- caromed
+- chummed
+- clammed
+- counterclaimed

@@ -1,0 +1,44 @@
+---
+pattern: _anks
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 34
+score: 1183985
+score_per_word: 62315
+hi_scored_words:
+  banks: 1823
+  blanks: 19794
+  cranks: 35761
+  flanks: 40333
+  franks: 19628
+  hanks: 30810
+  planks: 32742
+  pranks: 25037
+  ranks: 4664
+  riverbanks: 97948
+  shanks: 39014
+  spanks: 87088
+  tanks: 7409
+  thanks: 846
+  yanks: 40445
+scored_words:
+  mountebanks: 146233
+  outranks: 228113
+  sandbanks: 124138
+  wanks: 202159
+not_scored_words:
+- Banks
+- Fairbanks
+- Franks
+- Yanks
+- branks
+- clanks
+- embanks
+- foreshanks
+- gangplanks
+- greenshanks
+- outflanks
+- redshanks
+- sheepshanks
+- snowbanks
+- swanks

@@ -1,0 +1,63 @@
+---
+pattern: de_ated
+hi_scored_words_count: 28
+scored_words_count: 12
+total_words: 53
+score: 3533169
+score_per_word: 88329
+hi_scored_words:
+  deactivated: 34601
+  debated: 16646
+  debilitated: 96348
+  decaffeinated: 72892
+  decapitated: 50249
+  decimated: 47257
+  decorated: 7276
+  dedicated: 2446
+  defeated: 5644
+  deflated: 44938
+  degenerated: 53129
+  dehydrated: 31856
+  delegated: 17475
+  deliberated: 70459
+  delineated: 34681
+  demarcated: 83444
+  demonstrated: 10405
+  denominated: 33032
+  deprecated: 22930
+  depreciated: 45942
+  deregulated: 62114
+  desecrated: 81956
+  desiccated: 79878
+  designated: 10848
+  deteriorated: 29147
+  detonated: 43487
+  devastated: 20047
+  deviated: 55165
+scored_words:
+  decelerated: 147052
+  decontaminated: 107846
+  decorticated: 176306
+  defecated: 254229
+  defoliated: 249105
+  demodulated: 221208
+  denigrated: 125435
+  depopulated: 118132
+  derogated: 322367
+  desalinated: 297829
+  desegregated: 193565
+  desolated: 155803
+not_scored_words:
+- deconsecrated
+- decrepitated
+- deescalated
+- defalcated
+- defenestrated
+- dehydrogenated
+- delimitated
+- demotivated
+- denudated
+- deracinated
+- desquamated
+- detoxicated
+- devaluated

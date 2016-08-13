@@ -1,0 +1,56 @@
+---
+pattern: _ody
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 46
+score: 1874118
+score_per_word: 66932
+hi_scored_words:
+  antibody: 8485
+  anybody: 2956
+  blackbody: 77987
+  bloody: 5031
+  body: 297
+  custody: 6508
+  embody: 25760
+  everybody: 2274
+  goody: 25939
+  melody: 7403
+  monody: 93568
+  moody: 10774
+  nobody: 2279
+  parody: 15106
+  prosody: 59592
+  rhapsody: 19018
+  somebody: 2919
+  woody: 10297
+scored_words:
+  broody: 141303
+  busybody: 102889
+  chiropody: 154204
+  dogsbody: 158126
+  homebody: 155165
+  hymnody: 154866
+  psalmody: 193453
+  threnody: 175892
+  tody: 140431
+  underbody: 121596
+not_scored_words:
+- Cody
+- Jody
+- Melody
+- Moody
+- Peabody
+- afterbody
+- corody
+- corrody
+- countermelody
+- dipody
+- disembody
+- hexapody
+- pentapody
+- polypody
+- reembody
+- staminody
+- tetrapody
+- tripody

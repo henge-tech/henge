@@ -1,0 +1,64 @@
+---
+pattern: rev_s
+hi_scored_words_count: 26
+scored_words_count: 15
+total_words: 54
+score: 3712832
+score_per_word: 90556
+hi_scored_words:
+  revamps: 91660
+  reveals: 6207
+  revelations: 16368
+  revelers: 97102
+  revels: 48998
+  revenues: 5078
+  reverberations: 93401
+  reveries: 87254
+  reversals: 48362
+  reverses: 31565
+  reverts: 52889
+  reviewers: 16210
+  reviews: 2602
+  revises: 53048
+  revisionists: 97559
+  revisions: 10397
+  revisits: 70443
+  revivals: 61657
+  revives: 56307
+  revolts: 60843
+  revolutionaries: 39554
+  revolutions: 17555
+  revolvers: 52099
+  revolves: 29399
+  revs: 35937
+  revues: 80044
+scored_words:
+  revaluations: 164724
+  revenges: 111365
+  reverberates: 139456
+  reverences: 172157
+  reverends: 222359
+  reveres: 184777
+  revers: 142369
+  reversions: 182994
+  revetments: 218572
+  revitalizes: 168436
+  revivalists: 204199
+  revocations: 161522
+  revokes: 100427
+  revolutionists: 133361
+  revolutionizes: 143576
+not_scored_words:
+- Revelations
+- revalues
+- revealings
+- revelings
+- revelries
+- revenuers
+- reversioners
+- revilers
+- reviles
+- revisals
+- revisers
+- revivifies
+- revokers

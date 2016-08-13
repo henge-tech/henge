@@ -1,0 +1,40 @@
+---
+pattern: cryp_
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 30
+score: 2172699
+score_per_word: 135793
+hi_scored_words:
+  crypt: 18498
+  cryptanalysis: 76589
+  cryptic: 28925
+  cryptogram: 98957
+  cryptographic: 27990
+  cryptography: 23901
+  cryptology: 75649
+  crypts: 88457
+scored_words:
+  cryptanalytic: 308865
+  cryptically: 166633
+  cryptogenic: 283098
+  cryptograms: 193651
+  cryptographer: 209640
+  cryptographers: 169793
+  cryptographically: 123394
+  cryptomeria: 278659
+not_scored_words:
+- Cryptozoic
+- cryptanalyst
+- cryptanalytical
+- cryptoanalysis
+- cryptoclastic
+- cryptocrystalline
+- cryptogam
+- cryptogams
+- cryptograph
+- cryptographs
+- cryptonym
+- cryptonymous
+- cryptozoic
+- cryptozoite

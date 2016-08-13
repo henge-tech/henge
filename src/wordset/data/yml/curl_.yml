@@ -1,0 +1,27 @@
+---
+pattern: curl_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 482098
+score_per_word: 53566
+hi_scored_words:
+  curl: 10576
+  curled: 25683
+  curler: 76793
+  curlers: 73955
+  curlew: 53274
+  curling: 13916
+  curls: 23454
+  curly: 11826
+scored_words:
+  curlews: 192621
+not_scored_words:
+- curlicue
+- curlicued
+- curlicues
+- curlicuing
+- curlier
+- curliest
+- curliness
+- curlpaper

@@ -1,0 +1,44 @@
+---
+pattern: disr_
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 34
+score: 2142402
+score_per_word: 85696
+hi_scored_words:
+  disregard: 12635
+  disregarded: 23663
+  disregarding: 42410
+  disregards: 70539
+  disrepair: 48379
+  disreputable: 51818
+  disrepute: 61730
+  disrespect: 23919
+  disrespected: 84907
+  disrespectful: 30089
+  disrupt: 19299
+  disrupted: 22288
+  disrupting: 32073
+  disruption: 15957
+  disruptions: 34107
+  disruptive: 19287
+  disruptor: 94469
+  disrupts: 46617
+scored_words:
+  disrespectfully: 175657
+  disrespecting: 123356
+  disrespects: 242707
+  disrobe: 141562
+  disrobed: 242725
+  disrobing: 266085
+  disrupter: 216124
+not_scored_words:
+- Disraeli
+- disrate
+- disregardful
+- disrelish
+- disremember
+- disreputably
+- disrespectable
+- disrobes
+- disruptively

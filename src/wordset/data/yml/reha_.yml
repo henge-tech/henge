@@ -1,0 +1,29 @@
+---
+pattern: reha_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 19
+score: 1484521
+score_per_word: 106037
+hi_scored_words:
+  rehab: 13091
+  rehabilitate: 44055
+  rehabilitated: 41790
+  rehabilitating: 61586
+  rehabilitation: 10527
+  rehabilitative: 50319
+  rehabs: 88672
+  rehash: 54719
+scored_words:
+  rehabbed: 233820
+  rehabbing: 149564
+  rehabilitates: 265942
+  rehashed: 124491
+  rehashes: 236143
+  rehashing: 109802
+not_scored_words:
+- rehandle
+- rehang
+- rehanged
+- rehanging
+- rehangs

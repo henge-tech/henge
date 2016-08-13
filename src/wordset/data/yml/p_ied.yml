@@ -1,0 +1,36 @@
+---
+pattern: p_ied
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 26
+score: 1865060
+score_per_word: 98161
+hi_scored_words:
+  pacified: 87717
+  partied: 71799
+  personified: 49563
+  petrified: 34228
+  photocopied: 59399
+  pied: 24799
+  pitied: 59016
+  plied: 49483
+  preoccupied: 25746
+  pried: 90969
+  prophesied: 47755
+  purified: 13538
+scored_words:
+  palsied: 188364
+  parodied: 103357
+  parried: 117197
+  pilloried: 158924
+  ponied: 280121
+  potbellied: 205021
+  propertied: 198064
+not_scored_words:
+- panoplied
+- phonied
+- poppied
+- prettied
+- prettified
+- putrefied
+- puttied

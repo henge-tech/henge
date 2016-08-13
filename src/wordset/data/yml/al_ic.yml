@@ -1,0 +1,39 @@
+---
+pattern: al_ic
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 29
+score: 2369616
+score_per_word: 124716
+hi_scored_words:
+  alcoholic: 11333
+  algebraic: 22479
+  algorithmic: 37256
+  aliphatic: 50883
+  allelic: 64946
+  allergenic: 68124
+  allergic: 14696
+  allopathic: 92498
+  alphabetic: 30000
+  alphanumeric: 38597
+  altruistic: 40420
+scored_words:
+  alchemic: 262245
+  alembic: 119288
+  alicyclic: 326246
+  allegoric: 123975
+  allelopathic: 252442
+  allopatric: 241772
+  allotropic: 238894
+  alphameric: 333522
+not_scored_words:
+- Alaric
+- Alcaic
+- Alemannic
+- Altaic
+- alcaic
+- aleatoric
+- alexipharmic
+- algetic
+- allomorphic
+- allophonic

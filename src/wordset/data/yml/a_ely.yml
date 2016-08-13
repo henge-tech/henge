@@ -1,0 +1,58 @@
+---
+pattern: a_ely
+hi_scored_words_count: 18
+scored_words_count: 13
+total_words: 48
+score: 3001419
+score_per_word: 96819
+hi_scored_words:
+  absolutely: 1811
+  accurately: 6328
+  actively: 6339
+  acutely: 27416
+  adequately: 9765
+  administratively: 36552
+  adversely: 23381
+  affectionately: 32100
+  affirmatively: 63355
+  aggressively: 19996
+  alternately: 18583
+  alternatively: 7212
+  appropriately: 10567
+  approximately: 4358
+  attentively: 50169
+  attractively: 58808
+  authoritatively: 81043
+  awesomely: 69211
+scored_words:
+  abusively: 196400
+  adaptively: 113274
+  additively: 185510
+  adhesively: 303167
+  affectively: 233462
+  appreciatively: 141054
+  apprehensively: 180078
+  articulately: 180966
+  assertively: 157529
+  astutely: 139335
+  attributively: 218570
+  austerely: 159289
+  averagely: 265791
+not_scored_words:
+- abortively
+- abrasively
+- abstrusely
+- acquisitively
+- adoptively
+- afflictively
+- agilely
+- alliteratively
+- allusively
+- amatively
+- antiquely
+- appositely
+- arcanely
+- argumentatively
+- asininely
+- associatively
+- aversely

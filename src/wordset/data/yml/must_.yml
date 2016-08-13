@@ -1,0 +1,37 @@
+---
+pattern: must_
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 27
+score: 1305701
+score_per_word: 76805
+hi_scored_words:
+  must: 123
+  must've: 23645
+  mustache: 26631
+  mustaches: 92894
+  mustang: 14187
+  mustangs: 33613
+  mustard: 11366
+  muster: 18700
+  mustered: 29322
+  mustering: 92206
+  mustn't: 5925
+  musty: 41153
+scored_words:
+  mustached: 245346
+  mustachioed: 168812
+  mustachios: 240897
+  musters: 132558
+  musts: 128323
+not_scored_words:
+- mustachio
+- mustardy
+- mustee
+- musteline
+- mustelines
+- musth
+- mustier
+- mustiest
+- mustily
+- mustiness

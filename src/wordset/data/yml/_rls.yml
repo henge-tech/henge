@@ -1,0 +1,44 @@
+---
+pattern: _rls
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 34
+score: 2258523
+score_per_word: 118869
+hi_scored_words:
+  cowgirls: 60678
+  curls: 23454
+  earls: 29589
+  girls: 431
+  pearls: 10117
+  schoolgirls: 29548
+  showgirls: 71616
+  snarls: 91088
+  swirls: 46316
+  whorls: 93820
+scored_words:
+  birls: 274121
+  burls: 241783
+  churls: 262667
+  hurls: 103400
+  marls: 237496
+  purls: 237734
+  twirls: 128476
+  unfurls: 214852
+  whirls: 101337
+not_scored_words:
+- Perls
+- URLs
+- ballgirls
+- busgirls
+- furls
+- gnarls
+- homegirls
+- knurls
+- newsgirls
+- papergirls
+- playgirls
+- salesgirls
+- skirls
+- uncurls
+- unsnarls

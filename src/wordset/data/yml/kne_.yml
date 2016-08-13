@@ -1,0 +1,39 @@
+---
+pattern: kne_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 29
+score: 1253774
+score_per_word: 78360
+hi_scored_words:
+  knead: 47670
+  kneaded: 90478
+  kneading: 62242
+  knee: 4243
+  kneecap: 84529
+  kneel: 26315
+  kneeling: 21074
+  kneels: 72557
+  knees: 5507
+  knell: 48954
+  knelt: 26547
+  knew: 1019
+scored_words:
+  kneads: 256546
+  kneecaps: 146337
+  kneed: 100656
+  kneepad: 259100
+not_scored_words:
+- Knesset
+- Knessets
+- kneader
+- kneaders
+- kneecapped
+- kneecapping
+- kneehole
+- kneeing
+- kneepan
+- kneepans
+- knelled
+- knelling
+- knells

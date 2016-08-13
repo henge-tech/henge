@@ -1,0 +1,43 @@
+---
+pattern: subj_
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 33
+score: 1247543
+score_per_word: 69307
+hi_scored_words:
+  subj: 44414
+  subject: 279
+  subjected: 7812
+  subjecting: 38000
+  subjection: 45270
+  subjective: 8687
+  subjectively: 62094
+  subjectivity: 34181
+  subjects: 1361
+  subjugate: 76551
+  subjugated: 71960
+  subjugation: 57873
+  subjunctive: 56293
+scored_words:
+  subjacent: 210493
+  subjectivism: 104608
+  subjoin: 111604
+  subjoined: 142504
+  subjugating: 173559
+not_scored_words:
+- subjacency
+- subjectify
+- subjectiveness
+- subjectivenesses
+- subjectivisms
+- subjectless
+- subjoinder
+- subjoining
+- subjoins
+- subjugates
+- subjugator
+- subjunction
+- subjunctions
+- subjunctively
+- subjunctives

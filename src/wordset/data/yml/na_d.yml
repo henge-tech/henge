@@ -1,0 +1,37 @@
+---
+pattern: na_d
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 27
+score: 1290355
+score_per_word: 71686
+hi_scored_words:
+  nabbed: 56108
+  nailed: 18216
+  naked: 1796
+  named: 1223
+  nanosecond: 80895
+  narrated: 23001
+  narrowed: 17970
+  nationalized: 69565
+  nationhood: 73586
+  naturalized: 37015
+  natured: 36532
+  nauseated: 94150
+  navigated: 57791
+scored_words:
+  nagged: 125758
+  naiad: 124614
+  nailhead: 220918
+  napped: 106329
+  nard: 144888
+not_scored_words:
+- NAD
+- Nagaland
+- Namaqualand
+- nacred
+- nanoid
+- napalmed
+- narcotized
+- nasalized
+- nattered

@@ -1,0 +1,73 @@
+---
+pattern: scho_
+hi_scored_words_count: 27
+scored_words_count: 14
+total_words: 63
+score: 3646350
+score_per_word: 88935
+hi_scored_words:
+  scholar: 5690
+  scholarly: 11249
+  scholars: 5490
+  scholarship: 5768
+  scholarships: 14689
+  scholastic: 15498
+  school: 221
+  schoolboy: 32756
+  schoolboys: 69455
+  schoolchildren: 34733
+  schooled: 37163
+  schoolfellow: 90258
+  schoolgirl: 19829
+  schoolgirls: 29548
+  schoolhouse: 29812
+  schooling: 12241
+  schoolmaster: 52780
+  schoolmates: 74660
+  schoolmen: 82814
+  schoolroom: 80443
+  schools: 968
+  schoolteacher: 55308
+  schoolteachers: 97073
+  schoolwork: 51963
+  schoolyard: 57599
+  schooner: 23370
+  schooners: 86355
+scored_words:
+  scholastically: 304168
+  scholasticism: 102059
+  schoolbook: 112567
+  schoolbooks: 112996
+  schoolchild: 251415
+  schooldays: 112032
+  schoolfellows: 130220
+  schoolhouses: 200262
+  schoolkids: 152780
+  schoolmasters: 148966
+  schoolmate: 108441
+  schoolmistress: 222016
+  schoolyards: 304055
+  schottische: 306640
+not_scored_words:
+- Schoenberg
+- Schonberg
+- Schopenhauer
+- Schopenhauerism
+- scholarliness
+- scholasticate
+- scholasticisms
+- scholiast
+- scholium
+- schoolbag
+- schoolbags
+- schoolfriend
+- schoolkid
+- schoolma'am
+- schoolman
+- schoolmarm
+- schoolmarmish
+- schoolmarms
+- schoolmistresses
+- schoolrooms
+- schorl
+- schottisches

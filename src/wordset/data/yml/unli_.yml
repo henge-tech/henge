@@ -1,0 +1,37 @@
+---
+pattern: unli_
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 27
+score: 1804163
+score_per_word: 112760
+hi_scored_words:
+  unlicensed: 33311
+  unlike: 3252
+  unlikely: 5731
+  unlimited: 10120
+  unlined: 59219
+  unlink: 70854
+  unlinked: 86140
+  unlisted: 31105
+  unlit: 88172
+scored_words:
+  unlighted: 158199
+  unlikable: 171280
+  unlikeable: 220765
+  unlikeliest: 234123
+  unlikelihood: 247347
+  unlikeness: 136517
+  unlivable: 248028
+not_scored_words:
+- unlikelier
+- unlikeliness
+- unlimber
+- unlimbered
+- unlimbering
+- unlimbers
+- unliterary
+- unlive
+- unlived
+- unlives
+- unliving

@@ -1,0 +1,59 @@
+---
+pattern: summ_
+hi_scored_words_count: 25
+scored_words_count: 11
+total_words: 49
+score: 3145616
+score_per_word: 87378
+hi_scored_words:
+  summa: 32261
+  summaries: 15514
+  summarily: 42793
+  summarization: 72658
+  summarize: 22386
+  summarized: 16921
+  summarizes: 16844
+  summarizing: 29788
+  summary: 3007
+  summation: 26975
+  summative: 62787
+  summed: 17061
+  summer: 716
+  summerhouse: 86020
+  summers: 11248
+  summertime: 21578
+  summery: 64718
+  summing: 28079
+  summit: 3471
+  summits: 27758
+  summon: 17780
+  summoned: 13962
+  summoner: 49884
+  summoning: 37852
+  summons: 14279
+scored_words:
+  summability: 340840
+  summable: 271620
+  summand: 178803
+  summarizer: 142341
+  summat: 136706
+  summations: 107474
+  summerhouses: 192050
+  summering: 290903
+  summerwood: 327300
+  summonsed: 311402
+  summonses: 109837
+not_scored_words:
+- Summer
+- Summers
+- summariness
+- summarizations
+- summarizers
+- summational
+- summered
+- summerly
+- summersault
+- summertree
+- summitry
+- summoners
+- summonsing

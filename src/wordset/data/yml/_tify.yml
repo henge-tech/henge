@@ -1,0 +1,41 @@
+---
+pattern: _tify
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 31
+score: 1229494
+score_per_word: 64710
+hi_scored_words:
+  beautify: 52147
+  certify: 16625
+  demystify: 99558
+  fortify: 39342
+  gratify: 51466
+  identify: 2138
+  justify: 5711
+  mystify: 88965
+  notify: 7451
+  quantify: 21555
+  ratify: 26865
+  rectify: 26935
+  sanctify: 51182
+  testify: 15411
+scored_words:
+  fructify: 135632
+  mortify: 168289
+  objectify: 145329
+  stratify: 147036
+  stultify: 127857
+not_scored_words:
+- acetify
+- beatify
+- brutify
+- citify
+- interstratify
+- karstify
+- misidentify
+- prenotify
+- prettify
+- refortify
+- renotify
+- subjectify

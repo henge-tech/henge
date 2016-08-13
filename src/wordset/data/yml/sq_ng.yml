@@ -1,0 +1,30 @@
+---
+pattern: sq_ng
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 20
+score: 1264786
+score_per_word: 84319
+hi_scored_words:
+  squabbling: 75365
+  squandering: 89073
+  squaring: 61300
+  squashing: 69457
+  squatting: 37272
+  squeaking: 66213
+  squealing: 59824
+  squeezing: 24414
+  squinting: 68806
+  squirming: 63952
+  squirting: 16209
+scored_words:
+  squalling: 234839
+  squawking: 109313
+  squelching: 160703
+  squishing: 128046
+not_scored_words:
+- squeegeeing
+- squiggling
+- squinching
+- squiring
+- squirreling

@@ -1,0 +1,28 @@
+---
+pattern: plun_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1326359
+score_per_word: 94739
+hi_scored_words:
+  plunder: 23407
+  plundered: 48139
+  plundering: 56452
+  plunge: 12943
+  plunged: 17953
+  plunger: 38252
+  plunges: 47856
+  plunging: 35624
+  plunk: 94402
+scored_words:
+  plunderers: 199054
+  plunders: 258451
+  plungers: 108304
+  plunked: 149485
+  plunking: 236037
+not_scored_words:
+- plunderer
+- plunker
+- plunkers
+- plunks

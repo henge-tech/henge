@@ -1,0 +1,50 @@
+---
+pattern: su_nt
+hi_scored_words_count: 15
+scored_words_count: 12
+total_words: 40
+score: 3149586
+score_per_word: 116651
+hi_scored_words:
+  subcontinent: 36366
+  subsequent: 3205
+  subservient: 40984
+  substituent: 90608
+  succulent: 31438
+  sufficient: 1987
+  superintendent: 7255
+  supernatant: 47111
+  supplant: 42838
+  supplement: 6141
+  supplicant: 90153
+  suppressant: 55211
+  surfactant: 36915
+  surmount: 67334
+  sustainment: 70927
+scored_words:
+  subagent: 226359
+  subdominant: 167112
+  subjacent: 210493
+  subsegment: 288768
+  subsistent: 214012
+  subtenant: 191035
+  superabsorbent: 254236
+  superabundant: 258969
+  supercontinent: 202350
+  supergiant: 179921
+  superincumbent: 177635
+  suppliant: 150223
+not_scored_words:
+- subbasement
+- subdepartment
+- sublieutenant
+- submediant
+- subtangent
+- subvent
+- suint
+- superdominant
+- supereminent
+- superjacent
+- supervenient
+- surprint
+- susurrant

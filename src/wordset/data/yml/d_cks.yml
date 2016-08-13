@@ -1,0 +1,29 @@
+---
+pattern: d_cks
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 19
+score: 732241
+score_per_word: 66567
+hi_scored_words:
+  deadlocks: 85192
+  decks: 9442
+  diamondbacks: 26805
+  dicks: 6285
+  docks: 17902
+  drawbacks: 24451
+  dreadlocks: 73951
+  drumsticks: 63286
+  ducks: 8734
+scored_words:
+  derricks: 119226
+  dipsticks: 296967
+not_scored_words:
+- Dominicks
+- dabchicks
+- defrocks
+- diebacks
+- diestocks
+- downticks
+- dropkicks
+- dunnocks

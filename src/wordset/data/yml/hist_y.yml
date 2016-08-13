@@ -1,0 +1,20 @@
+---
+pattern: hist_y
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 448733
+score_per_word: 49859
+hi_scored_words:
+  histocompatibility: 53023
+  histologically: 66823
+  histology: 27117
+  histopathology: 62477
+  historically: 10814
+  historicity: 84951
+  historiography: 39702
+  history: 265
+scored_words:
+  histochemistry: 103561
+not_scored_words:
+- histrionically

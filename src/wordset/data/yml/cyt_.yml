@@ -1,0 +1,35 @@
+---
+pattern: cyt_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 25
+score: 1043187
+score_per_word: 80245
+hi_scored_words:
+  cytochrome: 23038
+  cytogenetics: 84640
+  cytokines: 29592
+  cytological: 86171
+  cytology: 30125
+  cytoplasm: 27492
+  cytoplasmic: 25257
+  cytosine: 68785
+  cytotoxic: 36010
+scored_words:
+  cytochemistry: 197237
+  cytokinesis: 109261
+  cytologic: 103601
+  cytolysis: 221978
+not_scored_words:
+- Cythera
+- Cytherea
+- cytaster
+- cytogeneses
+- cytogenesis
+- cytologist
+- cytologists
+- cytolyses
+- cytolysin
+- cyton
+- cytoplast
+- cytotaxonomy

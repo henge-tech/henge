@@ -1,0 +1,33 @@
+---
+pattern: f_ties
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 23
+score: 1164339
+score_per_word: 72771
+hi_scored_words:
+  facilities: 2981
+  faculties: 10242
+  fatalities: 19503
+  fatties: 35154
+  festivities: 18891
+  fifties: 30483
+  formalities: 34087
+  forties: 42928
+  fraternities: 42107
+  functionalities: 46943
+scored_words:
+  falsities: 222572
+  familiarities: 163154
+  felicities: 144925
+  flexibilities: 110414
+  frailties: 104299
+  frivolities: 135656
+not_scored_words:
+- factualities
+- febricities
+- formidabilities
+- friabilities
+- frumenties
+- fugacities
+- futurities

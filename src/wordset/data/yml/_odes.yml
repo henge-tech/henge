@@ -1,0 +1,50 @@
+---
+pattern: _odes
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 40
+score: 2433295
+score_per_word: 93588
+hi_scored_words:
+  abodes: 77160
+  anodes: 69708
+  antipodes: 79661
+  bodes: 67422
+  cathodes: 87539
+  codes: 2726
+  decodes: 78164
+  diodes: 27655
+  electrodes: 23931
+  encodes: 31810
+  episodes: 6512
+  erodes: 81362
+  explodes: 35101
+  modes: 4605
+  nematodes: 46094
+  nodes: 5310
+  odes: 45047
+  opcodes: 96400
+  postcodes: 65344
+scored_words:
+  commodes: 142547
+  corrodes: 189171
+  geodes: 193145
+  implodes: 190313
+  lodes: 238412
+  trematodes: 268415
+  triodes: 279741
+not_scored_words:
+- Antipodes
+- Rhodes
+- Spodes
+- cestodes
+- discommodes
+- forebodes
+- hemipodes
+- incommodes
+- pentodes
+- photocathodes
+- phyllodes
+- recodes
+- tetrodes
+- webisodes

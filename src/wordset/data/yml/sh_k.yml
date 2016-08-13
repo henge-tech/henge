@@ -1,0 +1,43 @@
+---
+pattern: sh_k
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 33
+score: 1618534
+score_per_word: 77073
+hi_scored_words:
+  shack: 14067
+  shamrock: 25341
+  shank: 25170
+  shark: 8578
+  sheik: 33464
+  shipwreck: 28371
+  shirk: 47607
+  shock: 2906
+  shook: 6945
+  shrank: 37649
+  shriek: 43435
+  shrink: 9121
+  shrunk: 23363
+  shtick: 75116
+  shuck: 69306
+  shuttlecock: 99892
+  shylock: 76900
+scored_words:
+  shaddock: 320172
+  shagbark: 318941
+  shelduck: 190634
+  shoptalk: 161556
+not_scored_words:
+- Sheetrock
+- Sherlock
+- Shrek
+- Shylock
+- shashlik
+- sheepshank
+- sheepwalk
+- shellback
+- shellbark
+- shitwork
+- shmuck
+- shoeblack

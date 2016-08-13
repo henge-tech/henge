@@ -1,0 +1,34 @@
+---
+pattern: pr_se
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 24
+score: 599459
+score_per_word: 37466
+hi_scored_words:
+  praise: 3668
+  precise: 5160
+  predispose: 72667
+  premise: 14294
+  prerelease: 47262
+  presuppose: 61428
+  pretense: 32279
+  primrose: 22897
+  profuse: 47961
+  prolapse: 49697
+  promise: 2049
+  propose: 5292
+  prose: 8215
+  protease: 25587
+  proteinase: 58097
+scored_words:
+  prophase: 142906
+not_scored_words:
+- prase
+- predecease
+- preexpose
+- prepense
+- presurmise
+- procompromise
+- proteose
+- pruinose

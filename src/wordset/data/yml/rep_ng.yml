@@ -1,0 +1,57 @@
+---
+pattern: rep_ng
+hi_scored_words_count: 22
+scored_words_count: 18
+total_words: 47
+score: 4421278
+score_per_word: 110531
+hi_scored_words:
+  repackaging: 85741
+  repainting: 79395
+  repairing: 13630
+  repaying: 58904
+  repealing: 44454
+  repeating: 9078
+  repelling: 64641
+  repenting: 95002
+  replacing: 8222
+  replanting: 80820
+  replaying: 74013
+  replenishing: 66943
+  replicating: 36504
+  replying: 15642
+  reporting: 4711
+  repositioning: 53052
+  representing: 3911
+  repressing: 81223
+  reprinting: 55235
+  reprocessing: 46974
+  reproducing: 26927
+  reprogramming: 67333
+scored_words:
+  repacking: 145269
+  repartitioning: 237182
+  repatriating: 143665
+  repaving: 167135
+  rephrasing: 144908
+  repining: 126918
+  repopulating: 269783
+  reposing: 162548
+  repossessing: 288339
+  repricing: 210219
+  reprimanding: 204126
+  reprising: 112180
+  reproaching: 182631
+  reproving: 207233
+  republishing: 114796
+  repudiating: 125785
+  repulsing: 244405
+  repurchasing: 261801
+not_scored_words:
+- rephotographing
+- repleting
+- reprehending
+- reprieving
+- reproofing
+- repugning
+- reputing

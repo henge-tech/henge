@@ -1,0 +1,37 @@
+---
+pattern: _ift
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 27
+score: 1257066
+score_per_word: 54655
+hi_scored_words:
+  adrift: 30119
+  airlift: 34533
+  chairlift: 92100
+  drift: 7627
+  facelift: 32322
+  forklift: 29568
+  gift: 957
+  lift: 2868
+  makeshift: 34352
+  redshift: 42032
+  rift: 19521
+  shift: 3546
+  shrift: 75523
+  sift: 27535
+  spendthrift: 92733
+  swift: 4918
+  thrift: 17795
+  uplift: 25236
+scored_words:
+  downshift: 125156
+  gearshift: 127256
+  shoplift: 140782
+  snowdrift: 157918
+  spindrift: 132669
+not_scored_words:
+- Festschrift
+- Swift
+- grift
+- spoondrift

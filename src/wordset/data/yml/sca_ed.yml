@@ -1,0 +1,33 @@
+---
+pattern: sca_ed
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 23
+score: 1974069
+score_per_word: 116121
+hi_scored_words:
+  scalded: 94612
+  scaled: 15113
+  scalloped: 42388
+  scammed: 51355
+  scanned: 10127
+  scared: 5692
+  scarred: 27138
+  scattered: 5517
+scored_words:
+  scabbed: 286396
+  scalped: 115993
+  scampered: 108517
+  scandalized: 111141
+  scapegoated: 266438
+  scarfed: 252137
+  scarified: 267642
+  scatterbrained: 179925
+  scavenged: 133938
+not_scored_words:
+- scagged
+- scanted
+- scarped
+- scarpered
+- scathed
+- scatted

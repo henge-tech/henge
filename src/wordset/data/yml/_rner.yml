@@ -1,0 +1,48 @@
+---
+pattern: _rner
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 38
+score: 1444681
+score_per_word: 80260
+hi_scored_words:
+  afterburner: 65534
+  burner: 11562
+  corner: 1311
+  earner: 37704
+  garner: 21855
+  learner: 15061
+  mourner: 76689
+  northerner: 42433
+  returner: 81621
+  sojourner: 51256
+  southerner: 67690
+  sterner: 66690
+  turner: 5324
+  westerner: 70126
+scored_words:
+  darner: 186214
+  easterner: 241832
+  scorner: 268642
+  taverner: 133137
+not_scored_words:
+- Easterner
+- Garner
+- Lerner
+- Mideasterner
+- Midwesterner
+- Northerner
+- Southerner
+- Taverner
+- Turner
+- Warner
+- Werner
+- Westerner
+- adorner
+- baseburner
+- catercorner
+- churner
+- discerner
+- spurner
+- stubborner
+- suborner

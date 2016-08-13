@@ -1,0 +1,47 @@
+---
+pattern: il_s
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 37
+score: 1678661
+score_per_word: 88350
+hi_scored_words:
+  illegals: 50355
+  illness: 3476
+  illnesses: 17118
+  ills: 20840
+  illuminates: 42635
+  illuminations: 43385
+  illus: 21558
+  illusions: 14553
+  illustrates: 9817
+  illustrations: 8103
+  illustrators: 32403
+  illustrious: 19914
+scored_words:
+  ileitis: 247846
+  ileus: 122313
+  illegalities: 249538
+  illiterates: 121896
+  illuminants: 265752
+  illumines: 196662
+  illusionists: 190497
+not_scored_words:
+- ILS
+- Iliads
+- Illinois
+- Illinoisans
+- Illyrians
+- ilks
+- illations
+- illegalizes
+- illiberalness
+- illicitness
+- illiterateness
+- illogics
+- illumes
+- illuminances
+- illusiveness
+- illusoriness
+- illustriousness
+- ilmenites

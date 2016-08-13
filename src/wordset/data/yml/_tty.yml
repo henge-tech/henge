@@ -1,0 +1,59 @@
+---
+pattern: _tty
+hi_scored_words_count: 29
+scored_words_count: 8
+total_words: 49
+score: 2401738
+score_per_word: 64911
+hi_scored_words:
+  atty: 30333
+  batty: 40988
+  bitty: 36042
+  catty: 67017
+  chatty: 43220
+  cutty: 72813
+  ditty: 41960
+  dotty: 46331
+  fatty: 12148
+  gritty: 26764
+  jetty: 28199
+  kitty: 8685
+  knotty: 50017
+  natty: 46808
+  nitty: 46379
+  nutty: 26860
+  patty: 11354
+  petty: 7644
+  potty: 22010
+  pretty: 693
+  putty: 25932
+  ratty: 67934
+  shitty: 21587
+  slutty: 22625
+  snotty: 63678
+  spotty: 37361
+  tatty: 74105
+  titty: 24748
+  witty: 12768
+scored_words:
+  bratty: 104305
+  butty: 124463
+  grotty: 134225
+  netty: 195352
+  rutty: 130174
+  smutty: 125224
+  tutty: 326162
+  unpretty: 244830
+not_scored_words:
+- Beatty
+- Betty
+- Dotty
+- Getty
+- Kitty
+- Lotty
+- Mitty
+- Patty
+- Petty
+- gutty
+- jutty
+- scatty

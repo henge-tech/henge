@@ -1,0 +1,27 @@
+---
+pattern: shu_s
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 1233817
+score_per_word: 94909
+hi_scored_words:
+  shucks: 58252
+  shudders: 73723
+  shuffles: 60913
+  shuns: 90284
+  shunts: 82181
+  shutdowns: 77262
+  shutouts: 63473
+  shuts: 21737
+  shutters: 21188
+  shuttles: 41709
+scored_words:
+  shufflers: 243343
+  shutterbugs: 213693
+  shuttlecocks: 186059
+not_scored_words:
+- shuckses
+- shuffleboards
+- shushes
+- shutoffs

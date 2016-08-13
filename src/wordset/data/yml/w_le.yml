@@ -1,0 +1,63 @@
+---
+pattern: w_le
+hi_scored_words_count: 30
+scored_words_count: 10
+total_words: 53
+score: 2851727
+score_per_word: 71293
+hi_scored_words:
+  waddle: 53870
+  waffle: 21424
+  wale: 42792
+  walkable: 79067
+  warble: 88066
+  washable: 29676
+  watchable: 66040
+  waterhole: 83711
+  wattle: 46680
+  wearable: 31174
+  whale: 7055
+  while: 160
+  whistle: 8678
+  whittle: 40343
+  whole: 363
+  wholesale: 5022
+  whsle: 24502
+  wiggle: 25903
+  wile: 46412
+  winkle: 44849
+  wobble: 33272
+  womble: 81420
+  workable: 30517
+  wormhole: 46975
+  worthwhile: 10572
+  wrangle: 62599
+  wrestle: 22860
+  wriggle: 65022
+  wrinkle: 20644
+  writable: 61705
+scored_words:
+  waggle: 112784
+  wangle: 207797
+  weldable: 286044
+  wettable: 197575
+  wheedle: 170989
+  winnable: 112745
+  woodpile: 142082
+  workpeople: 124401
+  worktable: 174357
+  writeable: 141580
+not_scored_words:
+- Walpole
+- Wensleydale
+- Whipple
+- Whittle
+- Winkle
+- wadable
+- wamble
+- warrantable
+- warsle
+- whiffle
+- willable
+- wimble
+- wimple

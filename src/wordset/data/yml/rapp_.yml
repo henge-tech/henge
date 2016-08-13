@@ -1,0 +1,28 @@
+---
+pattern: rapp_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 18
+score: 648506
+score_per_word: 58955
+hi_scored_words:
+  rapped: 55871
+  rappel: 73613
+  rappelling: 98816
+  rapper: 20174
+  rappers: 30277
+  rapping: 37049
+  rapport: 19095
+  rapporteur: 37907
+  rapports: 79566
+  rapprochement: 63778
+scored_words:
+  rapporteurs: 132360
+not_scored_words:
+- Rappaport
+- rapparee
+- rappee
+- rappelled
+- rappels
+- rappen
+- rapprochements

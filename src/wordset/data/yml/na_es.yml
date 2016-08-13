@@ -1,0 +1,50 @@
+---
+pattern: na_es
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 40
+score: 1310555
+score_per_word: 72808
+hi_scored_words:
+  nameplates: 79027
+  names: 797
+  nannies: 44043
+  nappies: 40495
+  nares: 96435
+  narrates: 57919
+  narratives: 17008
+  nates: 79934
+  nationalities: 26666
+  natives: 9243
+  natures: 19184
+  navies: 57492
+  navigates: 88399
+scored_words:
+  nacelles: 164121
+  namesakes: 121652
+  nanotechnologies: 126340
+  nativities: 179009
+  naves: 102791
+not_scored_words:
+- Nantes
+- Naples
+- Navajoes
+- nailbrushes
+- naivenesses
+- namelessnesses
+- naperies
+- napes
+- narcoses
+- narcotizes
+- narghiles
+- narthexes
+- nasalizes
+- nascencies
+- nasopharynxes
+- nationalizes
+- naturalizes
+- naturopathies
+- nauseates
+- nautches
+- nautiluses
+- navvies

@@ -1,0 +1,53 @@
+---
+pattern: m_able
+hi_scored_words_count: 15
+scored_words_count: 11
+total_words: 43
+score: 3057542
+score_per_word: 117597
+hi_scored_words:
+  maintainable: 82010
+  malleable: 44753
+  manageable: 23365
+  maneuverable: 96920
+  marketable: 31009
+  measurable: 19256
+  memorable: 7214
+  metastable: 65184
+  miserable: 8374
+  modifiable: 68682
+  monosyllable: 82610
+  mountable: 69864
+  movable: 13412
+  moveable: 39409
+  mutable: 46748
+scored_words:
+  machinable: 259598
+  mailable: 262332
+  manipulable: 184990
+  mappable: 269835
+  marriageable: 137220
+  matchable: 335414
+  merchantable: 125228
+  microwavable: 144468
+  microwaveable: 128327
+  mineable: 316793
+  moldable: 194527
+not_scored_words:
+- Mable
+- magnetizable
+- magnifiable
+- manipulatable
+- mechanizable
+- medicable
+- meliorable
+- meltable
+- mendable
+- mensurable
+- mentionable
+- minable
+- mistakable
+- mitigable
+- mixable
+- mobilizable
+- mortgageable

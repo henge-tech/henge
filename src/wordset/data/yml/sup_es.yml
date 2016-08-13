@@ -1,0 +1,44 @@
+---
+pattern: sup_es
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 34
+score: 1996239
+score_per_word: 117425
+hi_scored_words:
+  superheroes: 29551
+  superlatives: 66089
+  supersedes: 40486
+  superstores: 73415
+  supervises: 39224
+  supplies: 1713
+  supposes: 54303
+  suppositories: 60429
+  suppresses: 46501
+scored_words:
+  supercharges: 298803
+  superclasses: 158842
+  superfamilies: 197267
+  superficies: 224191
+  superfluities: 126730
+  superimposes: 263972
+  supernumeraries: 172820
+  superstructures: 141903
+not_scored_words:
+- superabundances
+- superannuates
+- supercargoes
+- supercities
+- supergrasses
+- superordinates
+- superposes
+- supersaturates
+- superscribes
+- supersedures
+- supersizes
+- superstates
+- supertaxes
+- supervenes
+- supinates
+- supplicates
+- suppurates

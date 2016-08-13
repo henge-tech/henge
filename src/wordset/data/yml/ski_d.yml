@@ -1,0 +1,27 @@
+---
+pattern: ski_d
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 1045668
+score_per_word: 87139
+hi_scored_words:
+  skid: 20207
+  skidded: 90519
+  skied: 65323
+  skilled: 5720
+  skimmed: 44928
+  skinhead: 56344
+  skinned: 22865
+  skipped: 15832
+  skirted: 46477
+scored_words:
+  skimped: 262312
+  skippered: 121591
+  skittered: 293550
+not_scored_words:
+- skirled
+- skirmished
+- skittled
+- skived
+- skivvied

@@ -1,0 +1,36 @@
+---
+pattern: r_ll
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 26
+score: 1194074
+score_per_word: 79604
+hi_scored_words:
+  racquetball: 33824
+  rainfall: 12642
+  rall: 71372
+  recall: 3419
+  refill: 14255
+  reinstall: 25185
+  resell: 25411
+  retell: 70430
+  rill: 70893
+  roadkill: 61257
+  roll: 1960
+scored_words:
+  racketball: 300067
+  razorbill: 215901
+  redpoll: 146838
+  rockfall: 140620
+not_scored_words:
+- Randall
+- Randell
+- Rockwell
+- Rosewall
+- Roswell
+- Russell
+- rakehell
+- redistill
+- respell
+- robocall
+- rototill

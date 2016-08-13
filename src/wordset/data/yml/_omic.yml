@@ -1,0 +1,53 @@
+---
+pattern: _omic
+hi_scored_words_count: 17
+scored_words_count: 11
+total_words: 43
+score: 2547515
+score_per_word: 90982
+hi_scored_words:
+  agronomic: 70402
+  anatomic: 39057
+  atomic: 9077
+  autonomic: 28909
+  chromic: 74953
+  comic: 3849
+  economic: 1343
+  ergonomic: 26521
+  gastronomic: 65122
+  genomic: 19208
+  gnomic: 87460
+  macroeconomic: 17852
+  microeconomic: 63261
+  socioeconomic: 21815
+  subatomic: 59734
+  taxonomic: 25450
+  uneconomic: 74651
+scored_words:
+  astronomic: 157564
+  diatomic: 105105
+  interatomic: 130014
+  metronomic: 306375
+  monatomic: 181198
+  noneconomic: 121106
+  palindromic: 128616
+  polyatomic: 151070
+  syndromic: 159765
+  tragicomic: 245804
+  triatomic: 172234
+not_scored_words:
+- achromic
+- antidromic
+- bromic
+- dichromic
+- loxodromic
+- monoatomic
+- monochromic
+- pentatomic
+- pentomic
+- physiognomic
+- polychromic
+- seriocomic
+- tetratomic
+- trisomic
+- uncomic

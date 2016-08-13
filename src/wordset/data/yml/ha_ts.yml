@@ -1,0 +1,45 @@
+---
+pattern: ha_ts
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 35
+score: 1990103
+score_per_word: 86526
+hi_scored_words:
+  habitats: 10759
+  habits: 4687
+  haircuts: 42450
+  halts: 41244
+  hamlets: 29995
+  handicrafts: 31182
+  handouts: 19074
+  handsets: 26576
+  hangouts: 75268
+  harts: 81857
+  harvests: 37567
+  hatchets: 99641
+  hats: 4639
+  haunts: 34982
+  hazelnuts: 69429
+scored_words:
+  habiliments: 130351
+  hairnets: 278798
+  hairstylists: 109209
+  handcrafts: 104620
+  hardhats: 200879
+  haricots: 268174
+  harlots: 101014
+  harpists: 187708
+not_scored_words:
+- hackbuts
+- hacktivists
+- haemostats
+- hafts
+- hagbuts
+- halfwits
+- halibuts
+- handcarts
+- harpsichordists
+- hartebeests
+- haslets
+- haylofts

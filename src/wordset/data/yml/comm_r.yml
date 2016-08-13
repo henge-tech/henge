@@ -1,0 +1,26 @@
+---
+pattern: comm_r
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 16
+score: 464037
+score_per_word: 42185
+hi_scored_words:
+  commander: 3591
+  commentator: 19316
+  commenter: 22383
+  commissar: 61812
+  commissioner: 5153
+  committer: 76449
+  commoner: 53191
+  communicator: 20035
+  commutator: 76629
+  commuter: 18656
+scored_words:
+  commandeer: 106822
+not_scored_words:
+- Commander
+- commemorator
+- commender
+- commingler
+- commiserator

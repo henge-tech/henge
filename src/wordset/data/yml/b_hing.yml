@@ -1,0 +1,54 @@
+---
+pattern: b_hing
+hi_scored_words_count: 22
+scored_words_count: 10
+total_words: 44
+score: 3019523
+score_per_word: 94360
+hi_scored_words:
+  banishing: 78139
+  bashing: 20628
+  batching: 80210
+  bathing: 10586
+  belching: 81138
+  berthing: 88166
+  beseeching: 88920
+  bewitching: 56341
+  birdwatching: 53433
+  birthing: 39123
+  bitching: 34568
+  blacksmithing: 58082
+  bleaching: 27974
+  blushing: 26478
+  brainwashing: 43259
+  branching: 19740
+  brandishing: 53745
+  breaching: 42869
+  breathing: 5212
+  brushing: 19305
+  bunching: 84314
+  bushing: 37172
+scored_words:
+  badmouthing: 219695
+  beaching: 193055
+  benching: 105242
+  bequeathing: 209055
+  blanching: 130509
+  botching: 238028
+  breeching: 313865
+  broaching: 125609
+  brunching: 308040
+  burnishing: 127023
+not_scored_words:
+- baching
+- backscratching
+- backstitching
+- bellyaching
+- besmirching
+- betrothing
+- birching
+- blandishing
+- blemishing
+- blenching
+- blotching
+- brattishing

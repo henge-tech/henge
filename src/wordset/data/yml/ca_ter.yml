@@ -1,0 +1,23 @@
+---
+pattern: ca_ter
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 13
+score: 190332
+score_per_word: 23791
+hi_scored_words:
+  calorimeter: 44787
+  canister: 25229
+  canter: 37067
+  carpenter: 9213
+  carter: 7302
+  caster: 24067
+  cater: 21871
+  catheter: 20796
+scored_words: {}
+not_scored_words:
+- Carpenter
+- Carter
+- cadaster
+- canaster
+- castrater

@@ -1,0 +1,84 @@
+---
+pattern: v_er
+hi_scored_words_count: 26
+scored_words_count: 8
+total_words: 74
+score: 2823277
+score_per_word: 83037
+hi_scored_words:
+  valuer: 77002
+  vanquisher: 80801
+  vaporizer: 67859
+  veer: 34309
+  veneer: 24857
+  venter: 55934
+  verger: 82996
+  verifier: 54723
+  vernier: 61943
+  vesper: 66362
+  vetiver: 82255
+  vier: 52024
+  viewer: 10013
+  viewfinder: 31921
+  villager: 32856
+  vintner: 90852
+  viper: 16837
+  visualizer: 85506
+  vizier: 43002
+  voiceover: 46588
+  voltmeter: 53169
+  volunteer: 3373
+  vomer: 80721
+  voter: 11901
+  voucher: 18506
+  voyager: 15203
+scored_words:
+  vacationer: 156335
+  vaguer: 246416
+  vaster: 130138
+  vaulter: 166387
+  veter: 163807
+  viler: 206880
+  viscometer: 148884
+  vitalizer: 322917
+not_scored_words:
+- Vader
+- Vancouver
+- Varityper
+- Vermeer
+- Vermonter
+- Vesper
+- Volcker
+- Vorster
+- Voyager
+- vainer
+- vamper
+- vanisher
+- vaporimeter
+- variometer
+- vaunter
+- vegeburger
+- veggieburger
+- veliger
+- verbalizer
+- verderer
+- verditer
+- verier
+- versifier
+- verticillaster
+- victimizer
+- victualer
+- vilifier
+- vintager
+- vivider
+- vivifier
+- vocalizer
+- voider
+- volleyer
+- voltameter
+- voltammeter
+- volumeter
+- vower
+- vulcanizer
+- vulgarer
+- vulgarizer

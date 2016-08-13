@@ -1,0 +1,23 @@
+---
+pattern: part_es
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 585911
+score_per_word: 65101
+hi_scored_words:
+  partakes: 87339
+  participates: 25334
+  participles: 93284
+  particles: 11176
+  particularities: 91543
+  particulates: 48525
+  parties: 1176
+  partridges: 97759
+scored_words:
+  parterres: 129775
+not_scored_words:
+- partialnesses
+- particularizes
+- partitives
+- partridgeberries

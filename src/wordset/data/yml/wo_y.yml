@@ -1,0 +1,45 @@
+---
+pattern: wo_y
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 35
+score: 1988430
+score_per_word: 79537
+hi_scored_words:
+  wobbly: 41856
+  woefully: 49754
+  womanly: 50588
+  wonderfully: 11280
+  wonky: 60349
+  woodsy: 98136
+  woody: 10297
+  woolly: 29867
+  woozy: 83643
+  wordplay: 51536
+  wordy: 52002
+  workability: 97722
+  workday: 35674
+  worldly: 14734
+  worry: 3038
+  worthily: 95530
+  worthy: 4042
+scored_words:
+  wonderingly: 178082
+  wondrously: 144963
+  wordlessly: 166889
+  workaday: 111371
+  workshy: 153224
+  wormy: 135233
+  worriedly: 199961
+  worryingly: 108659
+not_scored_words:
+- Wobbly
+- Wolsey
+- Woolley
+- wolfishly
+- woodenly
+- woozily
+- wordily
+- workmanly
+- worshipfully
+- worthlessly

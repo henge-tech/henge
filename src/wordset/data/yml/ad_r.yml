@@ -1,0 +1,37 @@
+---
+pattern: ad_r
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 27
+score: 852915
+score_per_word: 53307
+hi_scored_words:
+  adapter: 9120
+  adder: 26761
+  adductor: 92363
+  adjudicator: 49503
+  adjuster: 38683
+  administer: 9880
+  administrator: 7253
+  admirer: 28745
+  adopter: 56481
+  adulterer: 95120
+  adventurer: 22249
+  advertiser: 14348
+  adviser: 8815
+  advisor: 6299
+scored_words:
+  adorer: 106631
+  advancer: 280664
+not_scored_words:
+- Adar
+- Adenauer
+- Adler
+- adducer
+- adherer
+- admonisher
+- adorner
+- adulator
+- adulterator
+- adverser
+- advocator

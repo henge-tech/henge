@@ -1,0 +1,40 @@
+---
+pattern: sh_ly
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 30
+score: 1413144
+score_per_word: 88321
+hi_scored_words:
+  shakily: 91954
+  shamefully: 69759
+  shamelessly: 49781
+  shapely: 43874
+  sharply: 8634
+  sheepishly: 78221
+  shelly: 18773
+  shockingly: 49403
+  shortly: 4024
+  shrewdly: 76564
+  shrilly: 89330
+  shyly: 54027
+scored_words:
+  shabbily: 174571
+  shallowly: 155971
+  shamefacedly: 176837
+  shoddily: 271421
+not_scored_words:
+- Shelly
+- shadily
+- shapelessly
+- shatteringly
+- shiftily
+- shiftlessly
+- shimmeringly
+- shingly
+- shiveringly
+- shortsightedly
+- showily
+- shrewishly
+- shrinkingly
+- shudderingly

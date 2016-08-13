@@ -1,0 +1,40 @@
+---
+pattern: f_ist
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 30
+score: 1344364
+score_per_word: 79080
+hi_scored_words:
+  fascist: 20475
+  federalist: 29791
+  feminist: 11936
+  finalist: 18673
+  fist: 5652
+  florist: 18329
+  flutist: 78091
+  fundamentalist: 23251
+  futurist: 50463
+scored_words:
+  fabulist: 112186
+  fantasist: 209482
+  fatalist: 159045
+  fetishist: 131601
+  foist: 122312
+  folklorist: 127342
+  formalist: 115751
+  functionalist: 109984
+not_scored_words:
+- Familist
+- Fascist
+- Fauvist
+- Federalist
+- faddist
+- fauvist
+- feudalist
+- feudist
+- fictionist
+- foilist
+- fuguist
+- funambulist
+- futurologist

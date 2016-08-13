@@ -1,0 +1,31 @@
+---
+pattern: t_ial
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 21
+score: 892092
+score_per_word: 68622
+hi_scored_words:
+  tangential: 41461
+  terrestrial: 11247
+  territorial: 9257
+  testimonial: 22602
+  tibial: 50072
+  torrential: 51779
+  trial: 1279
+  triaxial: 96625
+  triennial: 48878
+  trivial: 8486
+  tutorial: 8749
+scored_words:
+  tricentennial: 328107
+  trinomial: 213550
+not_scored_words:
+- tercentennial
+- tertial
+- threnodial
+- tinctorial
+- tonsorial
+- trifacial
+- trimestrial
+- triserial

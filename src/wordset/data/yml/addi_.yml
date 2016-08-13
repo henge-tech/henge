@@ -1,0 +1,33 @@
+---
+pattern: addi_
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 23
+score: 482700
+score_per_word: 30168
+hi_scored_words:
+  addict: 14190
+  addicted: 11051
+  addicting: 23507
+  addiction: 15718
+  addictions: 25249
+  addictive: 17366
+  addicts: 17429
+  adding: 2394
+  addition: 952
+  additional: 658
+  additionally: 15300
+  additions: 4557
+  additive: 18886
+  additives: 16640
+scored_words:
+  additively: 185510
+  additivity: 113293
+not_scored_words:
+- Addie
+- Addington
+- Addison
+- Addisonian
+- addible
+- additament
+- additory

@@ -1,0 +1,37 @@
+---
+pattern: imag_
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 27
+score: 792966
+score_per_word: 41735
+hi_scored_words:
+  image: 808
+  imaged: 45207
+  imagery: 9718
+  images: 1585
+  imaginable: 22893
+  imaginary: 9677
+  imagination: 4058
+  imaginations: 29833
+  imaginative: 12995
+  imaginatively: 74311
+  imagine: 2023
+  imagined: 7648
+  imagines: 40697
+  imaging: 4248
+  imagining: 20030
+  imaginings: 75626
+  imago: 46148
+scored_words:
+  imaginal: 107561
+  imagistic: 277900
+not_scored_words:
+- imaginably
+- imaginativeness
+- imaginativenesses
+- imagings
+- imagism
+- imagisms
+- imagist
+- imagoes

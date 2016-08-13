@@ -1,0 +1,38 @@
+---
+pattern: _ense
+hi_scored_words_count: 18
+scored_words_count: 1
+total_words: 28
+score: 552974
+score_per_word: 29103
+hi_scored_words:
+  commonsense: 41686
+  condense: 44058
+  defense: 2240
+  dense: 6341
+  dispense: 20651
+  expense: 2737
+  frankincense: 50580
+  immense: 8199
+  incense: 15858
+  intense: 4005
+  license: 1206
+  nonsense: 6593
+  offense: 5787
+  pretense: 32279
+  recompense: 39321
+  sense: 709
+  suspense: 9001
+  tense: 10225
+scored_words:
+  cense: 251498
+not_scored_words:
+- Hortense
+- Odense
+- flense
+- multisense
+- overintense
+- prepense
+- recondense
+- subsense
+- superdense

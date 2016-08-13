@@ -1,0 +1,41 @@
+---
+pattern: _cant
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 31
+score: 1485953
+score_per_word: 74297
+hi_scored_words:
+  applicant: 8073
+  cant: 5980
+  decant: 96636
+  descant: 95934
+  desiccant: 81587
+  fabricant: 98624
+  insignificant: 12705
+  lubricant: 22902
+  mendicant: 91672
+  recant: 83675
+  scant: 25621
+  secant: 88033
+  significant: 1855
+  supplicant: 90153
+  vacant: 7357
+scored_words:
+  communicant: 145918
+  intoxicant: 153500
+  nonsignificant: 109590
+  toxicant: 120286
+  vesicant: 145852
+not_scored_words:
+- Cant
+- claudicant
+- cosecant
+- discant
+- eradicant
+- impeccant
+- incant
+- indicant
+- nonintoxicant
+- peccant
+- predicant

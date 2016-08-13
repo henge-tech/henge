@@ -1,0 +1,28 @@
+---
+pattern: inte_ted
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 18
+score: 851714
+score_per_word: 56780
+hi_scored_words:
+  integrated: 11660
+  interacted: 43068
+  intercepted: 23306
+  interconnected: 22769
+  interested: 1074
+  interjected: 76422
+  interpolated: 42787
+  interpreted: 5991
+  interrelated: 32685
+  interrogated: 41211
+  interrupted: 8043
+  intersected: 58793
+scored_words:
+  intercalated: 105821
+  interdicted: 154965
+  intermitted: 223119
+not_scored_words:
+- intercommunicated
+- interpellated
+- interpenetrated

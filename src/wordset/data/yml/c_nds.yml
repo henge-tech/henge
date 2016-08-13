@@ -1,0 +1,30 @@
+---
+pattern: c_nds
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 20
+score: 1380323
+score_per_word: 98594
+hi_scored_words:
+  campgrounds: 28113
+  commands: 3624
+  commends: 50583
+  compounds: 6623
+  comprehends: 82852
+  confounds: 80555
+  contends: 22590
+  corresponds: 9171
+scored_words:
+  calends: 136445
+  coastlands: 276538
+  condescends: 134674
+  croplands: 186491
+  crosswinds: 127453
+  cummerbunds: 234611
+not_scored_words:
+- Chateaubriands
+- cabstands
+- coonhounds
+- countermands
+- cowhands
+- crowdfunds

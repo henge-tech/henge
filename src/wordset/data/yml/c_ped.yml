@@ -1,0 +1,42 @@
+---
+pattern: c_ped
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 32
+score: 1777941
+score_per_word: 77301
+hi_scored_words:
+  camped: 30910
+  caped: 87158
+  capped: 18355
+  chapped: 72993
+  chipped: 25691
+  chopped: 9624
+  clamped: 40295
+  clapped: 38012
+  clasped: 33377
+  clipped: 21228
+  cooped: 79104
+  coped: 60868
+  copped: 99407
+  cramped: 27619
+  crimped: 84355
+  cropped: 21237
+  cupped: 52367
+scored_words:
+  chirped: 102946
+  chomped: 255762
+  clumped: 120486
+  comped: 182592
+  crapped: 101897
+  crisped: 211658
+not_scored_words:
+- carped
+- catnapped
+- champed
+- cheeped
+- chirruped
+- clomped
+- clopped
+- crumped
+- cusped

@@ -1,0 +1,38 @@
+---
+pattern: _ull
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 28
+score: 833420
+score_per_word: 46301
+hi_scored_words:
+  bull: 4106
+  cull: 34100
+  dull: 6774
+  full: 161
+  gull: 17734
+  hull: 6772
+  lull: 29746
+  mull: 31308
+  'null': 7993
+  numskull: 94802
+  overfull: 98461
+  pull: 2322
+  scull: 58066
+  seagull: 27675
+  skull: 7039
+  stull: 80491
+scored_words:
+  numbskull: 145281
+  trull: 180589
+not_scored_words:
+- Bull
+- Hull
+- Mull
+- Solihull
+- Trumbull
+- Tull
+- Woodhull
+- chockfull
+- outpull
+- topfull

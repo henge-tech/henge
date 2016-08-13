@@ -1,0 +1,35 @@
+---
+pattern: n_se
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 25
+score: 768983
+score_per_word: 64081
+hi_scored_words:
+  nitrocellulose: 64165
+  noblesse: 81912
+  noise: 1852
+  nonsense: 6593
+  noose: 31465
+  nose: 3050
+  nuclease: 79216
+  nurse: 2733
+  nutcase: 80115
+scored_words:
+  nowise: 128205
+  nucleotidase: 174793
+  nuthouse: 114884
+not_scored_words:
+- NYSE
+- Naoise
+- Neisse
+- Nepalese
+- Nicobarese
+- Nipponese
+- Norse
+- narcose
+- nebulose
+- necrose
+- nodose
+- nonintercourse
+- notecase

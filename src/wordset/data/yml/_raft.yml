@@ -1,0 +1,46 @@
+---
+pattern: _raft
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 36
+score: 2264791
+score_per_word: 87107
+hi_scored_words:
+  aircraft: 6614
+  antiaircraft: 95993
+  craft: 3285
+  downdraft: 95405
+  draft: 7300
+  graft: 18143
+  handcraft: 87745
+  handicraft: 32314
+  hovercraft: 48278
+  kraft: 16313
+  overdraft: 35981
+  priestcraft: 82257
+  raft: 18344
+  spacecraft: 14335
+  stagecraft: 93909
+  statecraft: 96420
+  watercraft: 39624
+  witchcraft: 15895
+  woodcraft: 66986
+scored_words:
+  autograft: 189642
+  bushcraft: 164210
+  engraft: 327644
+  homograft: 285352
+  needlecraft: 149877
+  redraft: 153457
+  updraft: 119468
+not_scored_words:
+- Craft
+- Kraft
+- Lovecraft
+- Wollstonecraft
+- bookcraft
+- heterograft
+- indraft
+- ingraft
+- kingcraft
+- swordcraft

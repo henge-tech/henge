@@ -1,0 +1,30 @@
+---
+pattern: d_ens
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 1106237
+score_per_word: 100567
+hi_scored_words:
+  darkens: 91568
+  deadens: 95728
+  deepens: 51524
+  delicatessens: 84778
+  denizens: 53831
+  dens: 36037
+  dickens: 12366
+  dozens: 8302
+scored_words:
+  dampens: 127832
+  definiens: 281990
+  dolmens: 262281
+not_scored_words:
+- Dickens
+- dasheens
+- deafens
+- disburdens
+- disheartens
+- dizens
+- doyens
+- dudeens
+- duramens

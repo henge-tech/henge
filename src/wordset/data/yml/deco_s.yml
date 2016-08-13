@@ -1,0 +1,41 @@
+---
+pattern: deco_s
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 31
+score: 1732396
+score_per_word: 108274
+hi_scored_words:
+  decoders: 51446
+  decodes: 78164
+  decomposes: 71503
+  decompositions: 78874
+  decompress: 56283
+  decorates: 99975
+  decorations: 8890
+  decorators: 30623
+  decors: 93232
+  decoys: 45628
+scored_words:
+  decoctions: 240536
+  decompresses: 279696
+  decongestants: 104085
+  deconstructs: 169845
+  decorous: 104621
+  decouples: 218995
+not_scored_words:
+- decocts
+- decolletages
+- decolonizes
+- decolorizes
+- decommissions
+- deconsecrates
+- deconstructionisms
+- deconstructionists
+- deconstructions
+- decontaminates
+- decontrols
+- decorousness
+- decorticates
+- decorums
+- decoupages

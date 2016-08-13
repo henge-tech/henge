@@ -1,0 +1,47 @@
+---
+pattern: outl_
+hi_scored_words_count: 24
+scored_words_count: 8
+total_words: 37
+score: 2429443
+score_per_word: 75920
+hi_scored_words:
+  outland: 76216
+  outlander: 52585
+  outlandish: 33503
+  outlast: 49994
+  outlaw: 14037
+  outlawed: 30124
+  outlawing: 70457
+  outlawry: 90946
+  outlaws: 24701
+  outlay: 22621
+  outlays: 36587
+  outlet: 5289
+  outlets: 12850
+  outlier: 41931
+  outliers: 40195
+  outline: 4285
+  outlined: 7216
+  outlines: 16140
+  outlining: 25733
+  outlive: 57912
+  outlived: 64495
+  outlook: 4973
+  outlooks: 47460
+  outlying: 17161
+scored_words:
+  outlanders: 142931
+  outlandishly: 309045
+  outlands: 106165
+  outlasted: 115729
+  outlasting: 267803
+  outlasts: 145337
+  outlives: 251869
+  outliving: 243153
+not_scored_words:
+- outlaid
+- outlandishness
+- outlawries
+- outlaying
+- outleap

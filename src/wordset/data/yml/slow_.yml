@@ -1,0 +1,27 @@
+---
+pattern: slow_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 17
+score: 406483
+score_per_word: 36953
+hi_scored_words:
+  slow: 1653
+  slowdown: 23294
+  slowdowns: 90200
+  slowed: 16812
+  slower: 8626
+  slowest: 38924
+  slowing: 21395
+  slowly: 2371
+  slowness: 44566
+  slows: 20076
+scored_words:
+  slowpoke: 138566
+not_scored_words:
+- slowcoach
+- slowcoaches
+- slowish
+- slowpokes
+- slowworm
+- slowworms

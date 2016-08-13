@@ -1,0 +1,41 @@
+---
+pattern: f_as
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 31
+score: 2169959
+score_per_word: 114208
+hi_scored_words:
+  fajitas: 68694
+  fascias: 84662
+  fashionistas: 89400
+  fellas: 32622
+  fiestas: 64328
+  fistulas: 95638
+  fleas: 29437
+  formulas: 12146
+  fracas: 58434
+scored_words:
+  fantasias: 153159
+  fatwas: 130972
+  faunas: 115490
+  fedoras: 205005
+  ferias: 200518
+  floras: 107445
+  flotillas: 191063
+  freesias: 196925
+  frittatas: 177235
+  fuchsias: 156786
+not_scored_words:
+- Fiberglas
+- Formicas
+- Fulas
+- feluccas
+- fenestellas
+- fenestras
+- forsythias
+- fossas
+- foveas
+- frambesias
+- fraxinellas
+- furculas

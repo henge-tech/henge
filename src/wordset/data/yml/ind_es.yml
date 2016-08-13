@@ -1,0 +1,47 @@
+---
+pattern: ind_es
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 37
+score: 932044
+score_per_word: 66574
+hi_scored_words:
+  indemnities: 88143
+  indexes: 8552
+  indicates: 3953
+  indices: 18144
+  indies: 9736
+  indignities: 98534
+  induces: 20929
+  inductees: 60762
+  indulgences: 54557
+  indulges: 79795
+  industries: 3701
+scored_words:
+  indemnifies: 153077
+  indentures: 100387
+  indispensables: 231774
+not_scored_words:
+- Indies
+- indecencies
+- indecorousnesses
+- indefatigabilities
+- indelicacies
+- indenes
+- independencies
+- indeterminatenesses
+- indicatives
+- indigenousnesses
+- indigestibilities
+- indisciplines
+- indiscreetnesses
+- indispensablenesses
+- indisposes
+- indites
+- individualizes
+- individuates
+- indoctrinates
+- indomitabilities
+- indubitabilities
+- indues
+- industrializes

@@ -1,0 +1,33 @@
+---
+pattern: seed_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 23
+score: 1141218
+score_per_word: 87786
+hi_scored_words:
+  seed: 2850
+  seeded: 27659
+  seeders: 88110
+  seeding: 25323
+  seedless: 81447
+  seedling: 31925
+  seedlings: 21803
+  seeds: 3955
+  seedy: 41756
+scored_words:
+  seedbed: 114112
+  seedbeds: 307129
+  seeder: 119991
+  seedier: 275158
+not_scored_words:
+- seedcase
+- seedcases
+- seediest
+- seedily
+- seediness
+- seedlessness
+- seedpod
+- seedpods
+- seedtime
+- seedtimes

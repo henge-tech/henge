@@ -1,0 +1,39 @@
+---
+pattern: cel_s
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 29
+score: 739969
+score_per_word: 61664
+hi_scored_words:
+  celebrants: 97120
+  celebrates: 17234
+  celebrations: 14666
+  celebrities: 9065
+  celebs: 9753
+  cellars: 25124
+  cellos: 77577
+  cellphones: 28219
+  cells: 2397
+  cellulitis: 76304
+scored_words:
+  cellists: 158029
+  cellulars: 224481
+not_scored_words:
+- Celebes
+- Celsius
+- Celtics
+- Celts
+- celebrators
+- celeriacs
+- celestas
+- celestites
+- celibates
+- cellarages
+- cellblocks
+- cellmates
+- cellularities
+- cellulitises
+- cellulosics
+- cellulous
+- celoms

@@ -1,0 +1,29 @@
+---
+pattern: do_le
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 935581
+score_per_word: 85052
+hi_scored_words:
+  doable: 40519
+  docile: 41793
+  dole: 20703
+  domicile: 30065
+  dongle: 32389
+  doodle: 30838
+  double: 928
+  downloadable: 9332
+scored_words:
+  documentable: 311628
+  doddle: 172146
+  downscale: 245240
+not_scored_words:
+- Dole
+- Doolittle
+- Doyle
+- dodecasyllable
+- domesticable
+- dottle
+- doubtable
+- dowable

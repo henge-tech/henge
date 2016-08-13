@@ -1,0 +1,38 @@
+---
+pattern: _lots
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 28
+score: 1741216
+score_per_word: 96734
+hi_scored_words:
+  ballots: 17889
+  blots: 49524
+  clots: 35213
+  lots: 1994
+  pilots: 8938
+  plots: 8154
+  shallots: 49800
+  slots: 5595
+  subplots: 83571
+  zealots: 45289
+scored_words:
+  allots: 190442
+  autopilots: 143618
+  complots: 302405
+  feedlots: 110609
+  harlots: 101014
+  helots: 102568
+  polyglots: 329498
+  woodlots: 155095
+not_scored_words:
+- Camelots
+- cachalots
+- copilots
+- counterplots
+- eschalots
+- inkblots
+- maillots
+- melilots
+- ocelots
+- sandlots

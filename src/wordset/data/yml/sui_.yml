@@ -1,0 +1,33 @@
+---
+pattern: sui_
+hi_scored_words_count: 17
+scored_words_count: 1
+total_words: 23
+score: 683420
+score_per_word: 37967
+hi_scored_words:
+  suicidal: 20765
+  suicide: 4522
+  suicides: 30195
+  suing: 29180
+  suit: 2173
+  suitability: 23157
+  suitable: 2671
+  suitably: 24126
+  suitcase: 21835
+  suitcases: 37480
+  suite: 2979
+  suited: 5883
+  suites: 9761
+  suiting: 71054
+  suitor: 50601
+  suitors: 49249
+  suits: 5247
+scored_words:
+  suicidally: 292542
+not_scored_words:
+- Sui
+- Suisse
+- suint
+- suitabilities
+- suitableness

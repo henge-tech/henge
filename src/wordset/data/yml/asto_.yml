@@ -1,0 +1,27 @@
+---
+pattern: asto_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 666346
+score_per_word: 60576
+hi_scored_words:
+  astonish: 51382
+  astonished: 21850
+  astonishing: 12096
+  astonishingly: 46099
+  astonishment: 23823
+  astound: 70803
+  astounded: 34926
+  astounding: 18609
+scored_words:
+  astonishes: 147007
+  astoundingly: 100488
+  astounds: 139263
+not_scored_words:
+- Astolat
+- Aston
+- Astor
+- Astoria
+- astomatous
+- astonied

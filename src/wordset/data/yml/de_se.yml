@@ -1,0 +1,33 @@
+---
+pattern: de_se
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 23
+score: 1223856
+score_per_word: 71991
+hi_scored_words:
+  decease: 59726
+  decompose: 39949
+  decrease: 5628
+  defense: 2240
+  defuse: 46840
+  dehydrogenase: 19128
+  demise: 17997
+  dense: 6341
+  depose: 58939
+  despise: 18172
+  devise: 15499
+  dextrose: 52694
+scored_words:
+  debase: 105115
+  degrease: 322389
+  demitasse: 103362
+  deoxyribonuclease: 181607
+  deoxyribose: 168230
+not_scored_words:
+- Denise
+- deckhouse
+- declasse
+- delouse
+- dextroglucose
+- dextrorse

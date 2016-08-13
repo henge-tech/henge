@@ -1,0 +1,95 @@
+---
+pattern: c_sts
+hi_scored_words_count: 25
+scored_words_count: 28
+total_words: 85
+score: 6161621
+score_per_word: 116257
+hi_scored_words:
+  capitalists: 22886
+  cardiologists: 66846
+  cartoonists: 47279
+  casts: 15736
+  catalysts: 25770
+  checklists: 31522
+  chemists: 24740
+  chests: 19125
+  chloroplasts: 67825
+  coasts: 16291
+  colonists: 21867
+  columnists: 17709
+  communists: 20191
+  conquests: 38462
+  conservationists: 52672
+  consists: 2838
+  contests: 7559
+  contrasts: 18430
+  costs: 1073
+  creationists: 43468
+  crests: 35298
+  crusts: 50896
+  cultists: 96473
+  cyclists: 19492
+  cysts: 26199
+scored_words:
+  canoeists: 136804
+  careerists: 246568
+  caricaturists: 192245
+  casuists: 201276
+  catechists: 138608
+  cellists: 158029
+  centrists: 126249
+  chartists: 184876
+  chauvinists: 260904
+  chiropodists: 193313
+  classicists: 149516
+  climatologists: 163772
+  coexists: 150596
+  collectivists: 291808
+  colonialists: 124300
+  colorists: 210518
+  completists: 246912
+  composts: 144058
+  conformists: 169870
+  congregationalists: 196017
+  constitutionalists: 207631
+  constructionists: 270982
+  constructivists: 257259
+  contortionists: 221835
+  copyists: 188630
+  cosmetologists: 214175
+  cosmologists: 143402
+  criminologists: 180821
+not_scored_words:
+- Calvinists
+- Christs
+- Communists
+- Congregationalists
+- cablecasts
+- calligraphists
+- campanologists
+- canonists
+- ceramicists
+- ceramists
+- chromoplasts
+- chronologists
+- clarinetists
+- clarinettists
+- cloudbursts
+- coalitionists
+- collaborationists
+- colorcasts
+- combusts
+- congests
+- consumerists
+- contrabandists
+- contrapuntists
+- conversationalists
+- coreligionists
+- cornetists
+- cosmogonists
+- counterblasts
+- cubists
+- cymbalists
+- cytologists
+- czarists

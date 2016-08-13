@@ -1,0 +1,26 @@
+---
+pattern: rebo_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 534399
+score_per_word: 53439
+hi_scored_words:
+  reboot: 17249
+  rebooted: 45827
+  rebooting: 46583
+  reboots: 54898
+  reborn: 26016
+  rebound: 13795
+  rebounded: 52404
+  rebounding: 46183
+  rebounds: 13227
+scored_words:
+  rebook: 218217
+not_scored_words:
+- reboant
+- reboil
+- reboiled
+- reboiling
+- reboils
+- rebozo

@@ -1,0 +1,30 @@
+---
+pattern: ass_d
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 20
+score: 436755
+score_per_word: 27297
+hi_scored_words:
+  assailed: 52187
+  assassinated: 28491
+  assaulted: 22976
+  assayed: 54046
+  assembled: 5856
+  assented: 43726
+  asserted: 9942
+  assessed: 10038
+  assigned: 2630
+  assimilated: 33801
+  assisted: 4687
+  associated: 898
+  assorted: 14952
+  assumed: 3432
+  assured: 4896
+scored_words:
+  assuaged: 144197
+not_scored_words:
+- Assad
+- asseverated
+- assibilated
+- assoiled

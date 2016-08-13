@@ -1,0 +1,27 @@
+---
+pattern: w_ded
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 964938
+score_per_word: 74226
+hi_scored_words:
+  waded: 61084
+  wedded: 31869
+  weeded: 81872
+  welded: 22108
+  wielded: 47825
+  winded: 39522
+  wooded: 16839
+  worded: 31452
+  wounded: 5054
+scored_words:
+  wadded: 159190
+  warded: 114259
+  wended: 219818
+  wrongheaded: 134046
+not_scored_words:
+- warmblooded
+- waterboarded
+- weekended
+- woaded

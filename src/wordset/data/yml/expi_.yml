@@ -1,0 +1,25 @@
+---
+pattern: expi_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 750512
+score_per_word: 68228
+hi_scored_words:
+  expiation: 97401
+  expiration: 9927
+  expiratory: 65928
+  expire: 13288
+  expired: 8532
+  expires: 15319
+  expiring: 25459
+  expiry: 23573
+scored_words:
+  expiate: 132704
+  expiated: 236518
+  expiatory: 121863
+not_scored_words:
+- expiable
+- expiates
+- expiating
+- expiator

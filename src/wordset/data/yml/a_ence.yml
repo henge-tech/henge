@@ -1,0 +1,26 @@
+---
+pattern: a_ence
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 16
+score: 385007
+score_per_word: 35000
+hi_scored_words:
+  abhorrence: 63629
+  absence: 2625
+  abstinence: 18177
+  acquiescence: 41775
+  adherence: 14562
+  adolescence: 18932
+  affluence: 39012
+  ambience: 24913
+  ambivalence: 41286
+  audience: 1935
+scored_words:
+  accidence: 118161
+not_scored_words:
+- accedence
+- advertence
+- antecedence
+- antiscience
+- appetence

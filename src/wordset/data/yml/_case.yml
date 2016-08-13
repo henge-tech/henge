@@ -1,0 +1,30 @@
+---
+pattern: _case
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 20
+score: 744257
+score_per_word: 53161
+hi_scored_words:
+  bookcase: 23831
+  briefcase: 19382
+  case: 186
+  crankcase: 66370
+  encase: 85412
+  lowercase: 29691
+  nutcase: 80115
+  pillowcase: 54461
+  showcase: 10537
+  slipcase: 88767
+  staircase: 13727
+  suitcase: 21835
+  uppercase: 35618
+scored_words:
+  headcase: 214325
+not_scored_words:
+- Case
+- notecase
+- seedcase
+- smearcase
+- typecase
+- watchcase

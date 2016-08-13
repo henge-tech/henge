@@ -1,0 +1,30 @@
+---
+pattern: meat_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1342734
+score_per_word: 103287
+hi_scored_words:
+  meat: 2311
+  meatball: 51790
+  meatballs: 34275
+  meatless: 81015
+  meatloaf: 43040
+  meatpacking: 70559
+  meats: 13503
+  meaty: 39941
+scored_words:
+  meataxe: 272797
+  meathead: 130372
+  meatier: 179744
+  meatmen: 307543
+  meatus: 115844
+not_scored_words:
+- Meath
+- meatheads
+- meatiest
+- meatiness
+- meatloaves
+- meatman
+- meatuses

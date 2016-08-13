@@ -1,0 +1,28 @@
+---
+pattern: cond_e
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 1116298
+score_per_word: 93024
+hi_scored_words:
+  condensate: 38123
+  condense: 44058
+  condolence: 46144
+  condone: 33533
+  conducive: 19088
+  conductance: 32710
+  conductive: 25500
+  condyle: 86110
+scored_words:
+  condemnable: 281500
+  condensable: 270630
+  condole: 130177
+  conduce: 108725
+not_scored_words:
+- condensible
+- condescendence
+- condonable
+- condottiere
+- conductible
+- conduplicate

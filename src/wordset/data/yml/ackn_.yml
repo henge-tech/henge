@@ -1,0 +1,19 @@
+---
+pattern: ackn_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 120210
+score_per_word: 15026
+hi_scored_words:
+  acknowledge: 5176
+  acknowledged: 6232
+  acknowledgement: 18223
+  acknowledgements: 16660
+  acknowledges: 15176
+  acknowledging: 17601
+  acknowledgment: 19173
+  acknowledgments: 21969
+scored_words: {}
+not_scored_words:
+- acknowledgeable

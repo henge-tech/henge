@@ -1,0 +1,40 @@
+---
+pattern: ru_g
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 30
+score: 1757551
+score_per_word: 92502
+hi_scored_words:
+  rubbing: 11611
+  rug: 7787
+  ruining: 26591
+  ruling: 5452
+  rumbling: 40636
+  rummaging: 70930
+  rung: 23790
+  running: 684
+  rushing: 8163
+  rusting: 61559
+  rustling: 46970
+  rutting: 73954
+scored_words:
+  ruching: 302105
+  rucking: 228614
+  ruffing: 232382
+  ruffling: 123134
+  ruminating: 126753
+  rupturing: 138266
+  rustproofing: 228170
+not_scored_words:
+- rubberizing
+- rubbernecking
+- rubbishing
+- rubricating
+- ruddling
+- rugging
+- ruing
+- rumbaing
+- rumoring
+- rumpling
+- rusticating

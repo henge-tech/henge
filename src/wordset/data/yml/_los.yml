@@ -1,0 +1,58 @@
+---
+pattern: _los
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 48
+score: 2376093
+score_per_word: 125057
+hi_scored_words:
+  armadillos: 99793
+  cellos: 77577
+  clos: 43549
+  halos: 47917
+  hellos: 93766
+  kilos: 37735
+  milos: 44799
+  philos: 71213
+  pueblos: 58709
+  silos: 40202
+  solos: 25945
+scored_words:
+  aulos: 238051
+  bolos: 185716
+  cigarillos: 191688
+  gigolos: 134412
+  piccolos: 186599
+  siglos: 236846
+  tholos: 268917
+  tremolos: 292659
+not_scored_words:
+- Apollos
+- Byblos
+- Carlos
+- Delos
+- Laclos
+- Los
+- Melos
+- Morelos
+- Pylos
+- Talos
+- Volos
+- bargellos
+- beefalos
+- bordellos
+- cattalos
+- criollos
+- jellos
+- lilos
+- morellos
+- ocotillos
+- omphalos
+- pedalos
+- peplos
+- phyllos
+- pomelos
+- tangelos
+- tupelos
+- violincellos
+- violoncellos

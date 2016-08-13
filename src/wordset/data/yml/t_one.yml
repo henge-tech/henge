@@ -1,0 +1,27 @@
+---
+pattern: t_one
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 692156
+score_per_word: 57679
+hi_scored_words:
+  telephone: 1920
+  testosterone: 13621
+  throne: 6403
+  timezone: 22259
+  tombstone: 22813
+  tone: 2175
+  touchstone: 30469
+  trombone: 24941
+scored_words:
+  tailbone: 124595
+  thighbone: 235164
+  thunderstone: 100905
+  turnstone: 106891
+not_scored_words:
+- Tisiphone
+- Tyrone
+- telegraphone
+- thermophone
+- tinstone

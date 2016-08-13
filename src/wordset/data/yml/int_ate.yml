@@ -1,0 +1,36 @@
+---
+pattern: int_ate
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 26
+score: 1344338
+score_per_word: 79078
+hi_scored_words:
+  integrate: 10246
+  intemperate: 95768
+  intercollegiate: 27093
+  intermediate: 9301
+  interpolate: 62598
+  interrogate: 42548
+  interstate: 12054
+  intestate: 60944
+  intimate: 5410
+  intimidate: 27817
+  intrastate: 49124
+  intricate: 13871
+scored_words:
+  intercalate: 176415
+  interdigitate: 207402
+  interrelate: 139346
+  intoxicate: 145841
+  intubate: 258560
+not_scored_words:
+- intemerate
+- intenerate
+- intercommunicate
+- interlaminate
+- interlineate
+- interosculate
+- interpellate
+- interpenetrate
+- intonate

@@ -1,0 +1,61 @@
+---
+pattern: r_nd
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 51
+score: 1554988
+score_per_word: 62199
+hi_scored_words:
+  rand: 12171
+  rebound: 13795
+  recommend: 2241
+  refund: 3867
+  remand: 29693
+  remind: 5449
+  rend: 36909
+  reprimand: 34701
+  rescind: 43705
+  resend: 39165
+  resound: 62321
+  respond: 3973
+  reverend: 10526
+  rewind: 22546
+  rewound: 99579
+  rind: 32343
+  rotund: 93917
+  round: 585
+  runaround: 94875
+scored_words:
+  rebind: 110953
+  redound: 155705
+  regrind: 223359
+  reprehend: 149418
+  riband: 132977
+  rubicund: 140215
+not_scored_words:
+- Rand
+- Raymond
+- Redmond
+- Reverend
+- Rheinland
+- Rhineland
+- Richmond
+- Roland
+- Rolland
+- Rosalind
+- Rosamond
+- Rosamund
+- Rostand
+- Rowland
+- Rutland
+- Ryeland
+- radicand
+- rainband
+- reascend
+- refound
+- reground
+- repand
+- repetend
+- ribband
+- roband
+- rockbound

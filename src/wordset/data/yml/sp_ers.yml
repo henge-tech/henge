@@ -1,0 +1,58 @@
+---
+pattern: sp_ers
+hi_scored_words_count: 19
+scored_words_count: 21
+total_words: 48
+score: 5079049
+score_per_word: 126976
+hi_scored_words:
+  spacers: 40349
+  spammers: 19841
+  spanners: 79315
+  sparklers: 80288
+  speakers: 4538
+  specifiers: 86331
+  spectrometers: 62482
+  spenders: 82316
+  spiders: 13564
+  spillovers: 75872
+  spinners: 38146
+  splinters: 51982
+  splitters: 48328
+  spoilers: 23174
+  spotters: 43418
+  sprayers: 61001
+  spreaders: 66666
+  sprinklers: 36092
+  sprinters: 78034
+scored_words:
+  spankers: 201173
+  spatters: 277011
+  specters: 151913
+  spectrophotometers: 163209
+  speechwriters: 225571
+  speeders: 111564
+  speedometers: 193463
+  speedsters: 231702
+  spellcheckers: 333881
+  spellers: 152381
+  sphincters: 193158
+  sphygmomanometers: 176152
+  spinnakers: 233890
+  spinsters: 132908
+  splatters: 125287
+  splicers: 196516
+  sportscasters: 218263
+  sportswriters: 118729
+  springers: 165472
+  spritzers: 320038
+  sputters: 165031
+not_scored_words:
+- Spiers
+- speechmakers
+- spellbinders
+- spelunkers
+- spewers
+- splutters
+- spongers
+- spymasters

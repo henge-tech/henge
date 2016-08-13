@@ -1,0 +1,50 @@
+---
+pattern: salt_
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 40
+score: 2135886
+score_per_word: 125640
+hi_scored_words:
+  salt: 1962
+  salted: 27874
+  salter: 39043
+  salting: 68360
+  saltire: 81415
+  salts: 13758
+  saltwater: 21716
+  salty: 22946
+scored_words:
+  saltation: 188554
+  saltbox: 214862
+  saltier: 205921
+  saltine: 160228
+  saltines: 260487
+  saltiness: 165567
+  saltpeter: 132180
+  saltus: 278736
+  saltworks: 252277
+not_scored_words:
+- SALT
+- Salta
+- Saltillo
+- Salto
+- Salton
+- saltant
+- saltarello
+- saltatorial
+- saltatory
+- saltboxes
+- saltcellar
+- saltcellars
+- saltern
+- saltest
+- saltiers
+- saltiest
+- saltigrade
+- saltily
+- saltish
+- saltshaker
+- saltshakers
+- saltwort
+- saltworts

@@ -1,0 +1,38 @@
+---
+pattern: irre_le
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 28
+score: 1443850
+score_per_word: 84932
+hi_scored_words:
+  irreconcilable: 45481
+  irreducible: 34065
+  irrefragable: 97744
+  irrefutable: 53306
+  irreparable: 35897
+  irreplaceable: 42277
+  irrepressible: 61997
+  irresistible: 14311
+  irresponsible: 18572
+  irreversible: 22867
+  irrevocable: 33862
+scored_words:
+  irrecoverable: 139978
+  irredeemable: 174160
+  irremediable: 142032
+  irreproachable: 144113
+  irresolvable: 263033
+  irretrievable: 120155
+not_scored_words:
+- irreclaimable
+- irrecusable
+- irreformable
+- irrefrangible
+- irrelievable
+- irremeable
+- irremissible
+- irremovable
+- irrepealable
+- irresoluble
+- irrespirable

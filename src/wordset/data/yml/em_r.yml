@@ -1,0 +1,36 @@
+---
+pattern: em_r
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 26
+score: 1716379
+score_per_word: 95354
+hi_scored_words:
+  ember: 34015
+  embroider: 77463
+  emir: 27329
+  emitter: 33581
+  emperor: 4622
+  employer: 3703
+  empower: 22887
+  emptor: 79547
+  emulator: 20156
+scored_words:
+  emancipator: 242716
+  embalmer: 138782
+  embezzler: 204007
+  embitter: 121269
+  embosser: 118320
+  embroiderer: 186617
+  emmer: 118363
+  emptier: 180649
+  emulsifier: 102353
+not_scored_words:
+- emanator
+- emasculator
+- embellisher
+- emblazoner
+- embower
+- embraceor
+- emender
+- emoter

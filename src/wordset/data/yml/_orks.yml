@@ -1,0 +1,51 @@
+---
+pattern: _orks
+hi_scored_words_count: 15
+scored_words_count: 14
+total_words: 41
+score: 3375470
+score_per_word: 116395
+hi_scored_words:
+  artworks: 21132
+  corks: 50323
+  dorks: 69235
+  earthworks: 46575
+  fireworks: 10552
+  forks: 12398
+  frameworks: 13084
+  glassworks: 88521
+  ironworks: 70435
+  masterworks: 56309
+  networks: 8754
+  roadworks: 66073
+  storks: 71918
+  waterworks: 38165
+  works: 370
+scored_words:
+  breastworks: 214527
+  clockworks: 260117
+  gasworks: 106170
+  lifeworks: 183036
+  millworks: 248232
+  outworks: 128192
+  patchworks: 318956
+  pitchforks: 134940
+  reworks: 146705
+  saltworks: 252277
+  steelworks: 105876
+  timeworks: 168490
+  waxworks: 155904
+  wireworks: 328204
+not_scored_words:
+- crownworks
+- cutworks
+- grillworks
+- hayforks
+- latticeworks
+- meshworks
+- notworks
+- overworks
+- tinworks
+- trestleworks
+- uncorks
+- wheelworks

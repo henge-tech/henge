@@ -1,0 +1,36 @@
+---
+pattern: heav_
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 26
+score: 1055440
+score_per_word: 58635
+hi_scored_words:
+  heave: 32785
+  heaved: 58562
+  heaven: 1843
+  heavenly: 7307
+  heavens: 8865
+  heavier: 10863
+  heavies: 77989
+  heaviest: 23417
+  heavily: 3985
+  heaviness: 55529
+  heaving: 45418
+  heavy: 1127
+  heavyweight: 16647
+  heavyweights: 58215
+scored_words:
+  heavenward: 117374
+  heaver: 190855
+  heaves: 100123
+  heavyset: 244536
+not_scored_words:
+- Heaviside
+- heavenlier
+- heavenliest
+- heavenliness
+- heavenwards
+- heavers
+- heavyhearted
+- heavyish

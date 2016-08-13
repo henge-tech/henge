@@ -1,0 +1,41 @@
+---
+pattern: disc_d
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 31
+score: 1690448
+score_per_word: 65017
+hi_scored_words:
+  discard: 15928
+  discarded: 12078
+  discerned: 36098
+  discharged: 8571
+  disciplined: 16052
+  disclaimed: 46829
+  disclosed: 9411
+  discolored: 66424
+  disconcerted: 79452
+  disconnected: 17400
+  discontented: 67554
+  discontinued: 11204
+  discord: 26837
+  discounted: 13025
+  discouraged: 13477
+  discovered: 2067
+  discredited: 35186
+  discriminated: 33169
+  discussed: 2363
+scored_words:
+  discalced: 278080
+  discoid: 135494
+  discombobulated: 170085
+  discomfited: 156685
+  discomposed: 145942
+  discountenanced: 134990
+  discoursed: 156047
+not_scored_words:
+- discoed
+- discomforted
+- discommend
+- discommoded
+- discorded

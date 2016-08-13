@@ -1,0 +1,55 @@
+---
+pattern: pr_ses
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 45
+score: 1138456
+score_per_word: 59918
+hi_scored_words:
+  praises: 14551
+  premises: 6918
+  presses: 11966
+  presupposes: 46107
+  pretenses: 73612
+  princesses: 32292
+  processes: 2686
+  professes: 64000
+  progresses: 23714
+  promises: 4955
+  proposes: 10200
+  prospectuses: 79107
+  prostheses: 56539
+  proteases: 54233
+scored_words:
+  predisposes: 118896
+  priestesses: 105543
+  primroses: 137646
+  prognoses: 164149
+  proteinases: 131342
+not_scored_words:
+- precesses
+- precipitatenesses
+- precipitousnesses
+- precises
+- predeceases
+- prepossesses
+- presentnesses
+- pridefulnesses
+- primuses
+- prioresses
+- privatenesses
+- proboscises
+- procuresses
+- prolapses
+- prolepses
+- promiscuousnesses
+- propernesses
+- prophases
+- prophetesses
+- propitiousnesses
+- proprietresses
+- prosaicnesses
+- prosinesses
+- prostatitises
+- proteolyses
+- prurituses

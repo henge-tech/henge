@@ -1,0 +1,55 @@
+---
+pattern: p_ors
+hi_scored_words_count: 21
+scored_words_count: 14
+total_words: 45
+score: 3428751
+score_per_word: 97964
+hi_scored_words:
+  parlors: 45258
+  pastors: 20328
+  perpetrators: 26140
+  persecutors: 91505
+  pollinators: 78975
+  possessors: 88849
+  precursors: 31871
+  predators: 12494
+  predecessors: 18582
+  predictors: 29789
+  priors: 55194
+  processors: 6596
+  professors: 11416
+  progenitors: 57765
+  projectors: 20724
+  proprietors: 27587
+  prosecutors: 22715
+  prospectors: 68864
+  protectors: 18409
+  protestors: 32869
+  purveyors: 62076
+scored_words:
+  participators: 268355
+  percolators: 298104
+  phosphors: 121698
+  posteriors: 222494
+  praetors: 107791
+  preceptors: 103893
+  precipitators: 189934
+  procrastinators: 139099
+  proctors: 109129
+  procurators: 198133
+  prognosticators: 242566
+  propagators: 114293
+  propellors: 304470
+  protractors: 180786
+not_scored_words:
+- peculators
+- perambulators
+- picadors
+- plexors
+- precentors
+- prestidigitators
+- pretors
+- prevaricators
+- primogenitors
+- promulgators

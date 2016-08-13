@@ -1,0 +1,42 @@
+---
+pattern: con_ity
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 32
+score: 2197388
+score_per_word: 99881
+hi_scored_words:
+  concavity: 92716
+  conditionality: 75805
+  conductivity: 17963
+  confidentiality: 9578
+  conformity: 11181
+  congeniality: 68991
+  connectivity: 12298
+  consanguinity: 75503
+  constitutionality: 39239
+  contiguity: 77720
+  continuity: 8356
+  contractility: 82273
+  controllability: 86476
+  convertibility: 92254
+  convexity: 55272
+scored_words:
+  concentricity: 251693
+  confraternity: 146867
+  congruity: 152166
+  conspicuity: 218321
+  contemporaneity: 286952
+  conventionality: 183901
+  conviviality: 151863
+not_scored_words:
+- conceivability
+- concinnity
+- condensability
+- conductibility
+- conformability
+- conjugality
+- connubiality
+- consequentiality
+- contemptibility
+- contractibility

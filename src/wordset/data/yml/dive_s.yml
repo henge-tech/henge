@@ -1,0 +1,27 @@
+---
+pattern: dive_s
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 1109119
+score_per_word: 92426
+hi_scored_words:
+  divergences: 67867
+  diverges: 74912
+  divers: 10221
+  diversions: 27417
+  diversities: 87499
+  diverticulitis: 80458
+  diverts: 76985
+  dives: 26019
+scored_words:
+  diversifies: 213264
+  diverticulosis: 127541
+  divestitures: 112901
+  divests: 204035
+not_scored_words:
+- Dives
+- divergencies
+- diverseness
+- diverticuloses
+- divertimentos

@@ -1,0 +1,36 @@
+---
+pattern: cou_n
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 26
+score: 1490119
+score_per_word: 93132
+hi_scored_words:
+  councilman: 25943
+  councilmen: 95266
+  councilwoman: 67717
+  countdown: 15461
+  countryman: 35435
+  countrymen: 23175
+  coupon: 16942
+  courtesan: 70906
+  cousin: 5256
+scored_words:
+  coumarin: 122818
+  councilperson: 180453
+  counteraction: 228346
+  counterrevolution: 173980
+  countersign: 168873
+  countrywoman: 124407
+  countrywomen: 135141
+not_scored_words:
+- Couperin
+- Cousin
+- councilwomen
+- counteraccusation
+- counterattraction
+- counterman
+- countermen
+- counterpetition
+- counterpoison
+- courlan

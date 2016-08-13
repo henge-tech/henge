@@ -1,0 +1,64 @@
+---
+pattern: s_ngly
+hi_scored_words_count: 9
+scored_words_count: 13
+total_words: 54
+score: 2616024
+score_per_word: 118910
+hi_scored_words:
+  seemingly: 7568
+  shockingly: 49403
+  singly: 34868
+  sparingly: 38505
+  startlingly: 76644
+  strikingly: 30382
+  strongly: 2594
+  stunningly: 46751
+  surprisingly: 9534
+scored_words:
+  satisfyingly: 152891
+  scathingly: 202772
+  screamingly: 304905
+  searchingly: 218586
+  searingly: 323176
+  sickeningly: 166139
+  slightingly: 148113
+  smilingly: 126214
+  sneeringly: 157799
+  soothingly: 112827
+  staggeringly: 114835
+  surpassingly: 172332
+  swimmingly: 119186
+not_scored_words:
+- scowlingly
+- shatteringly
+- shimmeringly
+- shingly
+- shiveringly
+- shrinkingly
+- shudderingly
+- simperingly
+- sizzlingly
+- slantingly
+- smirkingly
+- smolderingly
+- snarlingly
+- sneakingly
+- snickeringly
+- sniggeringly
+- snivelingly
+- soaringly
+- sobbingly
+- spangly
+- sparklingly
+- sportingly
+- stammeringly
+- stiflingly
+- stirringly
+- struttingly
+- stumblingly
+- stupefyingly
+- stutteringly
+- suffocatingly
+- sweepingly
+- swelteringly

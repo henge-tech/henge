@@ -1,0 +1,34 @@
+---
+pattern: de_ents
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 24
+score: 1439307
+score_per_word: 95953
+hi_scored_words:
+  delinquents: 60043
+  departments: 3131
+  dependents: 22496
+  deployments: 23520
+  descents: 75955
+  detachments: 55467
+  detergents: 37644
+  deterrents: 85062
+  developments: 4764
+scored_words:
+  decedents: 120556
+  decrements: 101632
+  deferments: 137362
+  derailments: 223248
+  detents: 302797
+  detriments: 185630
+not_scored_words:
+- debasements
+- decadents
+- decipherments
+- defrayments
+- demulcents
+- denouements
+- denouncements
+- deponents
+- devolvements

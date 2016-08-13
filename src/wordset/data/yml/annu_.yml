@@ -1,0 +1,45 @@
+---
+pattern: annu_
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 35
+score: 2459969
+score_per_word: 106955
+hi_scored_words:
+  annual: 1273
+  annualized: 54990
+  annually: 5276
+  annuals: 36380
+  annuities: 30400
+  annuity: 14961
+  annul: 55791
+  annular: 41220
+  annulled: 55799
+  annulment: 39794
+  annulus: 55648
+  annunciation: 47473
+scored_words:
+  annuitant: 108807
+  annuitants: 144686
+  annulation: 228941
+  annulet: 180945
+  annuli: 189489
+  annulling: 129975
+  annulments: 232836
+  annuls: 234656
+  annunciate: 197962
+  annunciator: 169590
+  annunciators: 203077
+not_scored_words:
+- Annunciation
+- Annunciations
+- annularity
+- annularly
+- annulate
+- annulets
+- annulose
+- annuluses
+- annunciated
+- annunciates
+- annunciating
+- annunciations

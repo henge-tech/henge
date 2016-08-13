@@ -1,0 +1,27 @@
+---
+pattern: intr_e
+hi_scored_words_count: 11
+scored_words_count: 0
+total_words: 17
+score: 409780
+score_per_word: 37252
+hi_scored_words:
+  intractable: 34704
+  intransigence: 82067
+  intransitive: 64912
+  intrastate: 49124
+  intrauterine: 46858
+  intricate: 13871
+  intrigue: 16285
+  introduce: 3522
+  introspective: 38974
+  intrude: 37198
+  intrusive: 22265
+scored_words: {}
+not_scored_words:
+- intramundane
+- intransigeance
+- intrigante
+- introducible
+- introrse
+- introversive

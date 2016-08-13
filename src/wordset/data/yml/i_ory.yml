@@ -1,0 +1,41 @@
+---
+pattern: i_ory
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 31
+score: 1897125
+score_per_word: 111595
+hi_scored_words:
+  illusory: 37846
+  inflammatory: 13325
+  inhibitory: 23446
+  inspiratory: 84203
+  interlocutory: 65616
+  interrogatory: 78356
+  introductory: 9877
+  inventory: 5467
+  investigatory: 68859
+  ivory: 6513
+scored_words:
+  improvisatory: 240041
+  incantatory: 162765
+  inculpatory: 216611
+  informatory: 332243
+  initiatory: 151109
+  innovatory: 273878
+  intercessory: 126970
+not_scored_words:
+- Ivory
+- implicatory
+- imprecatory
+- incensory
+- inclinatory
+- incriminatory
+- indicatory
+- indoctrinatory
+- ingratiatory
+- interdictory
+- interjectory
+- intimidatory
+- invitatory
+- invocatory

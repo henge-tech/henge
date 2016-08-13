@@ -1,0 +1,22 @@
+---
+pattern: mult_r
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 670689
+score_per_word: 67068
+hi_scored_words:
+  multicellular: 61777
+  multicolor: 44890
+  multilayer: 44023
+  multimeter: 55628
+  multiplayer: 9519
+  multiplexer: 49318
+  multiplier: 28545
+  multiprocessor: 55543
+  multiyear: 87202
+scored_words:
+  multivibrator: 234244
+not_scored_words:
+- multiangular
+- multinuclear

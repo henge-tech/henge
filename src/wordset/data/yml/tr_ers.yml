@@ -1,0 +1,64 @@
+---
+pattern: tr_ers
+hi_scored_words_count: 28
+scored_words_count: 12
+total_words: 54
+score: 2940611
+score_per_word: 73515
+hi_scored_words:
+  tracers: 52873
+  trackers: 33530
+  traders: 13332
+  traffickers: 40547
+  trailblazers: 65226
+  trailers: 9773
+  trainers: 10862
+  tranquilizers: 64273
+  transceivers: 55883
+  transducers: 32917
+  transfers: 8997
+  transformers: 14921
+  transmitters: 21436
+  transponders: 65525
+  transporters: 35651
+  trappers: 52124
+  travelers: 7612
+  trawlers: 62236
+  treasurers: 64043
+  trekkers: 86165
+  trespassers: 81675
+  triggers: 13355
+  trimmers: 47462
+  troopers: 21197
+  trotters: 57086
+  troublemakers: 70602
+  trousers: 7771
+  truckers: 28576
+scored_words:
+  transcribers: 101480
+  transgenders: 142415
+  trenchers: 190679
+  trendsetters: 136522
+  tricksters: 118514
+  triers: 212321
+  trimers: 214784
+  trimesters: 119185
+  trippers: 106403
+  trollers: 209960
+  troubleshooters: 144495
+  trumpeters: 118203
+not_scored_words:
+- traducers
+- trainbearers
+- trainspotters
+- trampers
+- tramplers
+- transputers
+- treehoppers
+- triflers
+- triphammers
+- trouncers
+- troupers
+- trucklers
+- trundlers
+- truthers

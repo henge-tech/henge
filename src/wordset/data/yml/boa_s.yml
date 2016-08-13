@@ -1,0 +1,32 @@
+---
+pattern: boa_s
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 22
+score: 1351133
+score_per_word: 96509
+hi_scored_words:
+  boarders: 40058
+  boardgames: 76798
+  boardrooms: 93562
+  boards: 2757
+  boars: 56534
+  boas: 40720
+  boasts: 14200
+  boaters: 43290
+  boats: 2967
+scored_words:
+  boardings: 145221
+  boardwalks: 131081
+  boathouses: 287711
+  boatloads: 176684
+  boatyards: 239550
+not_scored_words:
+- Boanerges
+- Boas
+- boardinghouses
+- boarhounds
+- boasters
+- boastfulness
+- boatbills
+- boatswains

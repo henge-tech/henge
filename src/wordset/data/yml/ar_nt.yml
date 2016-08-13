@@ -1,0 +1,24 @@
+---
+pattern: ar_nt
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 14
+score: 1354810
+score_per_word: 104216
+hi_scored_words:
+  ardent: 20159
+  argent: 22122
+  argument: 1511
+  armament: 26766
+  arraignment: 55192
+  arrangement: 3441
+  arrogant: 14149
+  arrondissement: 52883
+scored_words:
+  arbitrament: 191749
+  arborescent: 222702
+  arpent: 340886
+  arrant: 113907
+  arrestment: 289343
+not_scored_words:
+- armipotent

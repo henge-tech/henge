@@ -1,0 +1,56 @@
+---
+pattern: _rned
+hi_scored_words_count: 30
+scored_words_count: 7
+total_words: 46
+score: 2548215
+score_per_word: 68870
+hi_scored_words:
+  adjourned: 17171
+  adorned: 18714
+  burned: 5147
+  churned: 65423
+  concerned: 1766
+  corned: 57347
+  darned: 45467
+  discerned: 36098
+  earned: 3855
+  forewarned: 60083
+  governed: 6597
+  horned: 25822
+  interned: 56332
+  learned: 1590
+  mourned: 47166
+  overturned: 22783
+  patterned: 27608
+  returned: 1156
+  scorned: 39125
+  spurned: 64561
+  sunburned: 77077
+  turned: 1016
+  unadorned: 79059
+  unconcerned: 45944
+  unearned: 43475
+  unlearned: 75966
+  unturned: 72135
+  upturned: 49922
+  warned: 5524
+  yearned: 66765
+scored_words:
+  relearned: 283484
+  shoehorned: 231303
+  sojourned: 183852
+  suborned: 147372
+  unburned: 100375
+  ungoverned: 253487
+  unreturned: 227648
+not_scored_words:
+- attorned
+- dehorned
+- goldarned
+- kerned
+- misgoverned
+- secerned
+- unmourned
+- unwarned
+- windburned

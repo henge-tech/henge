@@ -1,0 +1,32 @@
+---
+pattern: co_ine
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 22
+score: 717322
+score_per_word: 59776
+hi_scored_words:
+  coastline: 17767
+  cocaine: 14583
+  codeine: 24928
+  colchicine: 66459
+  columbine: 30041
+  combine: 4972
+  concubine: 50977
+  confine: 23336
+  cosine: 38922
+scored_words:
+  coalmine: 141136
+  compline: 150369
+  coralline: 153832
+not_scored_words:
+- Coleraine
+- Columbine
+- Constantine
+- Corine
+- Corrine
+- colubrine
+- coniine
+- consanguine
+- corvine
+- countermine

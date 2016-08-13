@@ -1,0 +1,34 @@
+---
+pattern: a_rt
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 24
+score: 714378
+score_per_word: 59531
+hi_scored_words:
+  abort: 19502
+  advert: 15303
+  airport: 4960
+  alert: 3159
+  apart: 2281
+  art: 275
+  assert: 8526
+  avert: 22059
+scored_words:
+  airt: 202929
+  applecart: 132040
+  assort: 194867
+  athwart: 108477
+not_scored_words:
+- Adelbert
+- Agincourt
+- Albert
+- Alembert
+- Alpert
+- Amersfoort
+- Art
+- ambivert
+- animadvert
+- antevert
+- aport
+- awlwort

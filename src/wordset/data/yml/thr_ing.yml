@@ -1,0 +1,23 @@
+---
+pattern: thr_ing
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 664794
+score_per_word: 55399
+hi_scored_words:
+  thrashing: 34847
+  threading: 25487
+  threatening: 5860
+  threshing: 48861
+  thrilling: 14944
+  thriving: 15168
+  throbbing: 27914
+  throttling: 61003
+  throwing: 5032
+  thrusting: 36828
+scored_words:
+  thronging: 148334
+  thrumming: 240516
+not_scored_words:
+- thralling

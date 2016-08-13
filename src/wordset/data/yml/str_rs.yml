@@ -1,0 +1,34 @@
+---
+pattern: str_rs
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 24
+score: 970109
+score_per_word: 69293
+hi_scored_words:
+  stragglers: 69156
+  straighteners: 56791
+  strainers: 80971
+  strangers: 6868
+  stranglers: 79408
+  streamers: 37725
+  streetcars: 75074
+  stretchers: 58313
+  strikers: 30175
+  stringers: 74253
+  stripers: 96462
+  strippers: 15060
+  strollers: 38157
+scored_words:
+  streakers: 251696
+not_scored_words:
+- straddlers
+- straphangers
+- strappers
+- strawflowers
+- streamliners
+- streetwalkers
+- strengtheners
+- stridors
+- strikebreakers
+- stripteasers

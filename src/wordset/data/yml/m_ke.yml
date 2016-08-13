@@ -1,0 +1,28 @@
+---
+pattern: m_ke
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 995787
+score_per_word: 82982
+hi_scored_words:
+  make: 94
+  mandrake: 23758
+  manlike: 94301
+  mike: 2810
+  milkshake: 34610
+  minke: 86605
+  mistake: 2904
+  motorbike: 22524
+scored_words:
+  masterstroke: 196684
+  minibike: 227627
+  misspoke: 188934
+  moke: 114936
+not_scored_words:
+- Mameluke
+- Mike
+- Moltke
+- marlinespike
+- mislike
+- muckrake

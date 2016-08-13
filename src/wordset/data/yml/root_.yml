@@ -1,0 +1,26 @@
+---
+pattern: root_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 970070
+score_per_word: 80839
+hi_scored_words:
+  root: 1991
+  rooted: 10811
+  rooter: 60358
+  rooting: 29366
+  rootkit: 59465
+  rootkits: 95780
+  roots: 3425
+  rootstock: 93044
+scored_words:
+  rooters: 156478
+  rootless: 114686
+  rootlets: 218573
+  rootstocks: 126093
+not_scored_words:
+- Root
+- rootlessness
+- rootlet
+- rootlike

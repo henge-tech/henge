@@ -1,0 +1,28 @@
+---
+pattern: m_ster
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 18
+score: 452477
+score_per_word: 45247
+hi_scored_words:
+  master: 755
+  minister: 1234
+  minster: 38861
+  mister: 12153
+  mobster: 57294
+  molester: 60144
+  monster: 3173
+  muenster: 77739
+  muster: 18700
+scored_words:
+  moister: 182424
+not_scored_words:
+- Manchester
+- Master
+- Mister
+- Muenster
+- Munster
+- maladminister
+- middlebuster
+- misregister

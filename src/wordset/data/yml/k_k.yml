@@ -1,0 +1,65 @@
+---
+pattern: k_k
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 55
+score: 1629321
+score_per_word: 85753
+hi_scored_words:
+  kapok: 86387
+  kayak: 18459
+  keck: 42977
+  kick: 3875
+  kickback: 46810
+  kink: 35724
+  kiosk: 26636
+  knack: 25292
+  knapsack: 56117
+  knock: 5326
+  kook: 60271
+  kopeck: 81569
+scored_words:
+  keek: 187715
+  kerplunk: 176999
+  killick: 143782
+  kinfolk: 115552
+  kinsfolk: 180440
+  kopek: 171468
+  kulak: 163922
+not_scored_words:
+- KKK
+- Kalmuck
+- Kalmyk
+- Kaolack
+- Karnak
+- Kazak
+- Kazbek
+- Keck
+- Kendrick
+- Keokuk
+- Khabarovsk
+- Kilmarnock
+- Kirk
+- Kirkpatrick
+- Kirkuk
+- Klopstock
+- Kodak
+- Kodiak
+- Kodok
+- Kojak
+- Kommunarsk
+- Komsomolsk
+- Kopeisk
+- Krak
+- Kramatorsk
+- Krasnoyarsk
+- Kubrick
+- Kursk
+- Kuznetsk
+- kaiak
+- kalpak
+- kazachok
+- kibbutznik
+- kinnikinnick
+- knickknack
+- komatik

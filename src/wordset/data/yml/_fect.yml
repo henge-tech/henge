@@ -1,0 +1,24 @@
+---
+pattern: _fect
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 767850
+score_per_word: 69804
+hi_scored_words:
+  affect: 2563
+  defect: 6509
+  disinfect: 62672
+  effect: 600
+  imperfect: 12758
+  infect: 18920
+  perfect: 726
+  prefect: 28519
+scored_words:
+  aftereffect: 236580
+  pluperfect: 148599
+  praefect: 249404
+not_scored_words:
+- confect
+- disaffect
+- reinfect

@@ -1,0 +1,48 @@
+---
+pattern: s_men
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 38
+score: 2255562
+score_per_word: 102525
+hi_scored_words:
+  salesmen: 43615
+  schoolmen: 82814
+  seamen: 27860
+  selectmen: 51234
+  semen: 23042
+  servicemen: 32579
+  snowmen: 52926
+  specimen: 7733
+  spokesmen: 58915
+  sportsmen: 35068
+  stamen: 87226
+  statesmen: 28804
+  swordsmen: 89458
+scored_words:
+  servicewomen: 304482
+  showmen: 128736
+  sidemen: 158812
+  spacemen: 101829
+  sportswomen: 249096
+  stockmen: 193395
+  strongmen: 229124
+  stuntmen: 166798
+  supermen: 102016
+not_scored_words:
+- Scotchmen
+- Scotchwomen
+- Scotsmen
+- Scotswomen
+- saleswomen
+- sandmen
+- selectwomen
+- sidesmen
+- signalmen
+- spacewomen
+- spokeswomen
+- stablemen
+- stateswomen
+- steersmen
+- superwomen
+- switchmen

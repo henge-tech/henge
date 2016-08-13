@@ -1,0 +1,46 @@
+---
+pattern: inf_e
+hi_scored_words_count: 23
+scored_words_count: 3
+total_words: 36
+score: 1441063
+score_per_word: 55425
+hi_scored_words:
+  infallible: 34749
+  infante: 64825
+  infanticide: 56197
+  infantile: 32075
+  infeasible: 62940
+  infective: 44684
+  inference: 10735
+  infertile: 42486
+  infiltrate: 33915
+  infinite: 4595
+  infinitive: 46060
+  inflame: 58839
+  inflammable: 64652
+  inflatable: 20634
+  inflate: 37105
+  inflexible: 29412
+  inflorescence: 48358
+  influence: 1442
+  informative: 11157
+  infrastructure: 13482
+  infringe: 26054
+  infuriate: 83363
+  infuse: 39496
+scored_words:
+  infantine: 193280
+  infatuate: 214542
+  infinitude: 165986
+not_scored_words:
+- infare
+- inferable
+- inferrable
+- inflective
+- inflictive
+- infrangible
+- infrequence
+- infuscate
+- infusible
+- infusive

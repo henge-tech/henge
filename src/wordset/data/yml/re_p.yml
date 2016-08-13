@@ -1,0 +1,32 @@
+---
+pattern: re_p
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 22
+score: 1222233
+score_per_word: 71896
+hi_scored_words:
+  readership: 21164
+  reap: 13525
+  recap: 17826
+  receivership: 56972
+  recoup: 38755
+  redevelop: 68398
+  regexp: 80525
+  regroup: 51189
+  relationship: 2399
+  remap: 83290
+  rep: 11184
+  resp: 26985
+  revamp: 34300
+scored_words:
+  redcap: 220132
+  redtop: 122897
+  repp: 117614
+  reship: 255078
+not_scored_words:
+- Rep
+- rectorship
+- reequip
+- residentship
+- rewrap

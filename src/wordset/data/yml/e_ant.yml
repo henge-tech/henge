@@ -1,0 +1,39 @@
+---
+pattern: e_ant
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 29
+score: 937289
+score_per_word: 55134
+hi_scored_words:
+  eggplant: 28718
+  elegant: 4568
+  elephant: 6042
+  emigrant: 35465
+  enchant: 49740
+  entrant: 35494
+  equidistant: 58305
+  errant: 35754
+  exorbitant: 38049
+  expectant: 28639
+  expectorant: 85573
+  extant: 21465
+  extravagant: 20513
+  exuberant: 33427
+scored_words:
+  exfoliant: 142299
+  explant: 190615
+  exultant: 122623
+not_scored_words:
+- endurant
+- equilibrant
+- equitant
+- eradicant
+- euphoriant
+- evacuant
+- examinant
+- excitant
+- executant
+- exhalant
+- exhilarant
+- expellant

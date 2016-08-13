@@ -1,0 +1,32 @@
+---
+pattern: nu_es
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 931271
+score_per_word: 71636
+hi_scored_words:
+  nuances: 33956
+  nucleosides: 97484
+  nucleotides: 30446
+  nudes: 10541
+  nudges: 98973
+  nuisances: 66550
+  nukes: 26892
+  nurseries: 26234
+  nurses: 5131
+  nurtures: 78027
+scored_words:
+  nullifies: 131309
+  nutcases: 179784
+  nuthatches: 145944
+not_scored_words:
+- nucelluses
+- nucleates
+- numbles
+- numerates
+- numerousnesses
+- nummulites
+- nunneries
+- nuthouses
+- nuzzles

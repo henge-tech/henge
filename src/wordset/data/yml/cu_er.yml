@@ -1,0 +1,38 @@
+---
+pattern: cu_er
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 28
+score: 758869
+score_per_word: 68988
+hi_scored_words:
+  cucumber: 18495
+  culler: 88245
+  culver: 30085
+  curler: 76793
+  currier: 57103
+  customer: 2878
+  cuter: 53084
+  cutler: 23217
+  cutter: 10064
+scored_words:
+  cuber: 263056
+  cumber: 135849
+not_scored_words:
+- Currier
+- Custer
+- Cuvier
+- cuckooflower
+- cuddlier
+- cuirassier
+- cullender
+- cunninger
+- cupbearer
+- curer
+- curlier
+- curlpaper
+- curter
+- curvier
+- cushier
+- cutesier
+- cutwater

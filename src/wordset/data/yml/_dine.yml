@@ -1,0 +1,64 @@
+---
+pattern: _dine
+hi_scored_words_count: 11
+scored_words_count: 17
+total_words: 54
+score: 3629134
+score_per_word: 129611
+hi_scored_words:
+  cimetidine: 68700
+  dine: 11186
+  gabardine: 93482
+  grenadine: 76873
+  histidine: 44750
+  iodine: 20716
+  pyridine: 51409
+  pyrimidine: 60781
+  quinidine: 84590
+  sardine: 52910
+  zidovudine: 75616
+scored_words:
+  acridine: 154098
+  almandine: 253406
+  amandine: 169589
+  benzidine: 176003
+  brigandine: 216929
+  celandine: 167929
+  gaberdine: 233263
+  guanidine: 127828
+  incarnadine: 234525
+  meperidine: 104248
+  muscadine: 204213
+  pethidine: 164445
+  phencyclidine: 117696
+  piperidine: 153629
+  pyrrolidine: 263997
+  toluidine: 130319
+  undine: 116004
+not_scored_words:
+- Aldine
+- Andine
+- Bernadine
+- Bernardine
+- Claudine
+- Engadine
+- Geraldine
+- Jeraldine
+- Kincardine
+- Nadine
+- Udine
+- azidothymidine
+- carbamidine
+- cinchonidine
+- hirundine
+- phenetidine
+- secundine
+- smaragdine
+- sordine
+- sulfaguanidine
+- sulfapyridine
+- tolidine
+- turdine
+- tyrocidine
+- veratridine
+- xylidine

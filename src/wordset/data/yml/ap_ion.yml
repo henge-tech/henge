@@ -1,0 +1,23 @@
+---
+pattern: ap_ion
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 13
+score: 496560
+score_per_word: 41380
+hi_scored_words:
+  aphelion: 93658
+  apparition: 35592
+  appellation: 34955
+  apperception: 78969
+  application: 1080
+  apportion: 65430
+  appreciation: 5463
+  apprehension: 18127
+  approbation: 36407
+  appropriation: 10751
+  approximation: 13290
+scored_words:
+  apposition: 102838
+not_scored_words:
+- apocynthion

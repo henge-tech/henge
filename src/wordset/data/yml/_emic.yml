@@ -1,0 +1,36 @@
+---
+pattern: _emic
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 26
+score: 1668064
+score_per_word: 87792
+hi_scored_words:
+  academic: 4036
+  anemic: 55338
+  endemic: 23816
+  epidemic: 11320
+  epistemic: 47905
+  hypoglycemic: 74741
+  ischemic: 28278
+  leukemic: 83120
+  nonacademic: 94623
+  pandemic: 21166
+  phonemic: 55636
+  polemic: 48916
+  racemic: 90961
+  systemic: 13563
+  uremic: 92835
+scored_words:
+  alchemic: 262245
+  hemic: 322048
+  hyperglycemic: 188726
+  totemic: 148791
+not_scored_words:
+- emphysemic
+- morphemic
+- proxemic
+- septicemic
+- tagmemic
+- toxemic
+- unacademic

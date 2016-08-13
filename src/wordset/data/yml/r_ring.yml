@@ -1,0 +1,62 @@
+---
+pattern: r_ring
+hi_scored_words_count: 26
+scored_words_count: 8
+total_words: 52
+score: 2319992
+score_per_word: 68235
+hi_scored_words:
+  racketeering: 57814
+  raring: 99945
+  rearing: 21577
+  reassuring: 25490
+  reconfiguring: 77862
+  reconsidering: 62644
+  recovering: 10874
+  recurring: 11160
+  rediscovering: 55656
+  refactoring: 48843
+  referring: 5500
+  registering: 15826
+  rehearing: 59733
+  remastering: 94775
+  remembering: 7960
+  rendering: 7488
+  renumbering: 67267
+  reoccurring: 87978
+  reordering: 58176
+  repairing: 13630
+  requiring: 4911
+  restoring: 11595
+  restructuring: 8979
+  retiring: 12220
+  rewiring: 86482
+  roaring: 13521
+scored_words:
+  reappearing: 103719
+  recapturing: 107769
+  reconnoitering: 112669
+  reentering: 136595
+  rehiring: 236205
+  revering: 276161
+  rostering: 180702
+  rupturing: 138266
+not_scored_words:
+- razoring
+- reacquiring
+- rechartering
+- recoloring
+- reconquering
+- redelivering
+- regathering
+- reinsuring
+- rejiggering
+- remaindering
+- remeasuring
+- respiring
+- restring
+- retrofiring
+- reupholstering
+- rogering
+- roistering
+- rumoring

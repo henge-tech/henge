@@ -1,0 +1,50 @@
+---
+pattern: big_
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 40
+score: 2291883
+score_per_word: 91675
+hi_scored_words:
+  big: 247
+  bigamy: 76472
+  bigfoot: 29584
+  bigger: 3506
+  biggest: 3089
+  biggie: 34978
+  biggin: 93459
+  bighorn: 43064
+  bight: 45138
+  bigot: 38876
+  bigoted: 49482
+  bigotry: 24002
+  bigots: 54822
+  bigshot: 99199
+  bigwig: 65808
+scored_words:
+  bigamist: 205572
+  bigamous: 230238
+  bigeye: 132344
+  biggies: 116281
+  biggins: 128411
+  biggish: 284264
+  bighead: 154056
+  bigmouth: 148690
+  bigness: 113561
+  bigwigs: 116740
+not_scored_words:
+- Bigfoot
+- Bigfoots
+- Biggles
+- bigamists
+- bigener
+- bigeyes
+- bigheads
+- bighearted
+- bigheartedness
+- bighorns
+- bights
+- bigmouths
+- bignonia
+- bignoniaceous
+- bigotries

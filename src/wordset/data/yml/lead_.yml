@@ -1,0 +1,26 @@
+---
+pattern: lead_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 410355
+score_per_word: 41035
+hi_scored_words:
+  lead: 735
+  leaded: 45955
+  leaden: 56652
+  leader: 1533
+  leaders: 1815
+  leadership: 3276
+  leading: 1034
+  leads: 2081
+scored_words:
+  leaderless: 166559
+  leaderships: 130715
+not_scored_words:
+- Leadbelly
+- leadenly
+- leadenness
+- leadsman
+- leadwort
+- leadworts

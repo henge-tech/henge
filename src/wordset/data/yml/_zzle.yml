@@ -1,0 +1,28 @@
+---
+pattern: _zzle
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 18
+score: 1305564
+score_per_word: 87037
+hi_scored_words:
+  dazzle: 22354
+  drizzle: 27905
+  fizzle: 57303
+  muzzle: 22159
+  nozzle: 22707
+  puzzle: 5396
+  sizzle: 39121
+  swizzle: 75717
+scored_words:
+  embezzle: 164397
+  frazzle: 199261
+  frizzle: 129080
+  grizzle: 110788
+  guzzle: 120410
+  mizzle: 156662
+  nuzzle: 152304
+not_scored_words:
+- bedazzle
+- schnozzle
+- unmuzzle

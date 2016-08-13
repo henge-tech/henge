@@ -1,0 +1,32 @@
+---
+pattern: u_cted
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 22
+score: 1628520
+score_per_word: 90473
+hi_scored_words:
+  unaffected: 19584
+  uncollected: 78202
+  unconnected: 37250
+  uncorrected: 50491
+  undetected: 37641
+  undirected: 69239
+  unelected: 74882
+  unexpected: 4745
+  uninfected: 71855
+  unobstructed: 52717
+  unprotected: 19678
+  unrestricted: 19949
+  unselected: 85716
+  unsuspected: 70502
+scored_words:
+  uninstructed: 238048
+  unperfected: 316366
+  unpredicted: 187323
+  unreconstructed: 194332
+not_scored_words:
+- unconstricted
+- underacted
+- uninflected
+- unreflected

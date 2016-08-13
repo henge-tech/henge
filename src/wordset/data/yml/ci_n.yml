@@ -1,0 +1,42 @@
+---
+pattern: ci_n
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 32
+score: 1626266
+score_per_word: 85592
+hi_scored_words:
+  cinnamon: 11539
+  circadian: 37801
+  circulation: 5333
+  circumcision: 21646
+  circumnavigation: 84488
+  circumvention: 57495
+  cistern: 43332
+  citation: 11168
+  citizen: 3105
+  citron: 44979
+  civilian: 7381
+  civilization: 4986
+scored_words:
+  cinquain: 178093
+  cion: 237061
+  circumlocution: 167469
+  circumscription: 116034
+  circumspection: 126719
+  citrin: 248177
+  cittern: 219460
+not_scored_words:
+- Ciceronian
+- Cimmerian
+- Cimon
+- Circassian
+- Cistercian
+- Citroen
+- cinematization
+- cipolin
+- circularization
+- circumgyration
+- circumstantiation
+- circumvolution
+- citification

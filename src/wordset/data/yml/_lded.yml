@@ -1,0 +1,35 @@
+---
+pattern: _lded
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 25
+score: 1966644
+score_per_word: 93649
+hi_scored_words:
+  blindfolded: 39336
+  fielded: 36174
+  folded: 8292
+  gilded: 22136
+  heralded: 38388
+  molded: 19012
+  scalded: 94612
+  scolded: 52938
+  shielded: 23693
+  unfolded: 28070
+  unshielded: 87911
+  welded: 22108
+  wielded: 47825
+  yielded: 10816
+scored_words:
+  cuckolded: 254439
+  enfolded: 167670
+  gelded: 212142
+  melded: 105640
+  refolded: 280519
+  remolded: 299985
+  unheralded: 114938
+not_scored_words:
+- balded
+- bielded
+- manifolded
+- unmolded

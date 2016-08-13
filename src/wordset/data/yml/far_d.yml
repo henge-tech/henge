@@ -1,0 +1,24 @@
+---
+pattern: far_d
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 771533
+score_per_word: 70139
+hi_scored_words:
+  farad: 85154
+  fared: 32395
+  farfetched: 95586
+  farmed: 31683
+  farmland: 18759
+  farmstead: 63894
+  farmyard: 51840
+  farsighted: 92989
+  farted: 77734
+scored_words:
+  fard: 105146
+  farmhand: 116353
+not_scored_words:
+- Faridabad
+- faradized
+- farrowed

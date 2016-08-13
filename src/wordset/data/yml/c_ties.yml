@@ -1,0 +1,55 @@
+---
+pattern: c_ties
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 45
+score: 1728279
+score_per_word: 66472
+hi_scored_words:
+  calamities: 43383
+  capabilities: 6496
+  capacities: 12097
+  casualties: 12603
+  cavities: 25285
+  celebrities: 9065
+  certainties: 72724
+  charities: 7406
+  cities: 1209
+  commodities: 7500
+  commonalities: 67318
+  communities: 2789
+  complexities: 25327
+  continuities: 91807
+  counties: 7277
+  cruelties: 81742
+  curiosities: 41977
+  cuties: 29817
+scored_words:
+  causalities: 207606
+  civilities: 143855
+  compatibilities: 121092
+  complementarities: 139827
+  conditionalities: 192777
+  conductivities: 126907
+  cooties: 114554
+  crudities: 135839
+not_scored_words:
+- Catholicities
+- Christianities
+- callosities
+- calvities
+- captivities
+- cecities
+- cellularities
+- chromaticities
+- compressibilities
+- concavities
+- conceivabilities
+- concentricities
+- confraternities
+- congruities
+- contemptibilities
+- contractilities
+- coonties
+- criticalities
+- crossties

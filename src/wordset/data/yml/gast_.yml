@@ -1,0 +1,48 @@
+---
+pattern: gast_
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 38
+score: 1830735
+score_per_word: 101707
+hi_scored_words:
+  gastric: 17753
+  gastrin: 85748
+  gastritis: 47817
+  gastroenteritis: 60393
+  gastroenterology: 26734
+  gastrointestinal: 14891
+  gastronomic: 65122
+  gastronomy: 40191
+  gastropod: 87407
+  gastropods: 97751
+scored_words:
+  gastrectomy: 111351
+  gastrocnemius: 137744
+  gastroenterologist: 119737
+  gastronome: 239713
+  gastronomical: 215894
+  gastrostomy: 121546
+  gastrula: 207414
+  gastrulation: 133529
+not_scored_words:
+- Gastroenterology
+- gasteropod
+- gastight
+- gastralgia
+- gastrocnemii
+- gastroenterostomy
+- gastrolith
+- gastrologic
+- gastrological
+- gastrologically
+- gastrologist
+- gastrology
+- gastronomes
+- gastronomically
+- gastroscope
+- gastrotomy
+- gastrotrich
+- gastrovascular
+- gastrulas
+- gastrulations

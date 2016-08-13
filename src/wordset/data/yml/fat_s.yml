@@ -1,0 +1,39 @@
+---
+pattern: fat_s
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 29
+score: 707837
+score_per_word: 58986
+hi_scored_words:
+  fatalities: 19503
+  fates: 31744
+  fatherless: 55457
+  fathers: 5091
+  fathoms: 54923
+  fatigues: 52026
+  fatness: 83337
+  fats: 16596
+  fatties: 35154
+  fatuous: 82866
+scored_words:
+  fathomless: 140168
+  fatwas: 130972
+not_scored_words:
+- Fates
+- Fathers
+- fatalists
+- fatefulness
+- fatheadedness
+- fatheads
+- fatherlands
+- fatherlessness
+- fatherliness
+- fatherlinesses
+- fatless
+- fatsoes
+- fatsos
+- fattens
+- fattiness
+- fatuitous
+- fatuousness

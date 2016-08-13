@@ -1,0 +1,26 @@
+---
+pattern: li_ne
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 461829
+score_per_word: 51314
+hi_scored_words:
+  libertine: 45965
+  lidocaine: 50732
+  lifeline: 24899
+  limestone: 11071
+  limousine: 17944
+  lindane: 98321
+  line: 210
+  linguine: 85360
+scored_words:
+  limonene: 127327
+not_scored_words:
+- Line
+- Listerine
+- Livingstone
+- lierne
+- limacine
+- limicoline
+- lithopone

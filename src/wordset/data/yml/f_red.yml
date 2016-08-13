@@ -1,0 +1,48 @@
+---
+pattern: f_red
+hi_scored_words_count: 26
+scored_words_count: 9
+total_words: 38
+score: 2589683
+score_per_word: 73990
+hi_scored_words:
+  factored: 37038
+  faltered: 53495
+  fared: 32395
+  fathered: 57352
+  favored: 12629
+  feared: 8128
+  feathered: 27177
+  featured: 7902
+  fevered: 64225
+  figured: 6121
+  filtered: 14207
+  fingered: 28247
+  fired: 4355
+  flared: 31577
+  flattered: 34476
+  flavored: 19293
+  flickered: 57016
+  floored: 50843
+  floured: 76451
+  flowered: 35954
+  flustered: 55784
+  fluttered: 62119
+  fostered: 26060
+  foundered: 87005
+  fractured: 25368
+  furthered: 58928
+scored_words:
+  festered: 230991
+  fettered: 110959
+  fibered: 217375
+  filibustered: 178696
+  fissured: 191500
+  floundered: 110175
+  foregathered: 281614
+  frittered: 183270
+  furred: 110958
+not_scored_words:
+- Fred
+- flittered
+- forgathered

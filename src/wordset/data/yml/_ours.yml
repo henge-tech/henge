@@ -1,0 +1,34 @@
+---
+pattern: _ours
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 24
+score: 1275722
+score_per_word: 75042
+hi_scored_words:
+  amours: 91099
+  contours: 22105
+  detours: 62823
+  devours: 83756
+  flours: 79253
+  fours: 29576
+  hours: 276
+  ours: 5158
+  pours: 25216
+  sours: 98626
+  tours: 4558
+  troubadours: 94395
+  yours: 1831
+scored_words:
+  downpours: 118408
+  scours: 117707
+  tambours: 256879
+  velours: 184056
+not_scored_words:
+- Tours
+- carrefours
+- glamours
+- inpours
+- lours
+- paramours
+- pompadours

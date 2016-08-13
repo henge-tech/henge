@@ -1,0 +1,45 @@
+---
+pattern: _dor
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 35
+score: 1575099
+score_per_word: 78754
+hi_scored_words:
+  ambassador: 5686
+  ardor: 48400
+  candor: 34216
+  condor: 28585
+  conquistador: 70921
+  corridor: 7179
+  dor: 29626
+  humidor: 55551
+  matador: 24822
+  mirador: 81691
+  odor: 9683
+  picador: 87940
+  splendor: 16911
+  toreador: 73771
+  vendor: 11486
+scored_words:
+  chador: 273813
+  comprador: 213891
+  cuspidor: 141158
+  stridor: 164928
+  sudor: 194841
+not_scored_words:
+- Alcindor
+- Corregidor
+- Ecuador
+- Fervidor
+- Fructidor
+- Isador
+- Isidor
+- Labrador
+- Landor
+- Messidor
+- Mogador
+- Salvador
+- Thermidor
+- Tudor
+- malodor

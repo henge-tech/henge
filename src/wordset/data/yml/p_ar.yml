@@ -1,0 +1,48 @@
+---
+pattern: p_ar
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 38
+score: 1870089
+score_per_word: 74803
+hi_scored_words:
+  palmar: 71864
+  par: 4121
+  particular: 645
+  patellar: 71461
+  pear: 11648
+  peculiar: 7516
+  peninsular: 36521
+  perpendicular: 14730
+  pillar: 10835
+  planar: 19120
+  plantar: 45421
+  polar: 8155
+  polymorphonuclear: 88902
+  poplar: 20455
+  popular: 683
+  postwar: 21643
+  prewar: 46548
+  pulsar: 29277
+scored_words:
+  papular: 244463
+  petrodollar: 255810
+  polestar: 141122
+  polynuclear: 166080
+  preambular: 251577
+  premolar: 142270
+  pustular: 159222
+not_scored_words:
+- Paar
+- Palomar
+- Pavlodar
+- Peshawar
+- Pindar
+- palikar
+- pedicular
+- peduncular
+- pendular
+- pentangular
+- piacular
+- proconsular
+- pronuclear

@@ -1,0 +1,97 @@
+---
+pattern: c_ist
+hi_scored_words_count: 24
+scored_words_count: 28
+total_words: 87
+score: 5638606
+score_per_word: 108434
+hi_scored_words:
+  capitalist: 12266
+  cardiologist: 45643
+  cartoonist: 28642
+  cellist: 54544
+  centrist: 40194
+  chauvinist: 94770
+  checklist: 13118
+  chemist: 13684
+  coexist: 39281
+  collectivist: 90709
+  colonist: 53682
+  colorist: 90364
+  columnist: 15093
+  communist: 8617
+  conformist: 60213
+  conservationist: 58578
+  consist: 5694
+  constructivist: 50823
+  consumerist: 95201
+  contortionist: 98156
+  creationist: 43850
+  criminologist: 77990
+  cubist: 67147
+  cyclist: 24606
+scored_words:
+  cabalist: 230243
+  canoeist: 153901
+  careerist: 185427
+  caricaturist: 117749
+  casuist: 126180
+  catechist: 135342
+  centralist: 200304
+  ceramist: 162856
+  chartist: 132963
+  chiropodist: 172823
+  cist: 103416
+  clarinetist: 102036
+  classicist: 114392
+  classist: 229651
+  climatologist: 145854
+  collaborationist: 269301
+  colonialist: 106832
+  completist: 263225
+  congregationalist: 158314
+  constructionist: 111383
+  conversationalist: 105378
+  copyist: 102053
+  corporatist: 104447
+  cosmetologist: 115209
+  cosmologist: 243576
+  criminalist: 285128
+  cultist: 137812
+  czarist: 139946
+not_scored_words:
+- Calvinist
+- Carlist
+- Celticist
+- Christ
+- Communist
+- Confucianist
+- Congregationalist
+- calligraphist
+- cambist
+- campanologist
+- canonist
+- catastrophist
+- cembalist
+- ceramicist
+- ceremonialist
+- chemotherapist
+- chiaroscurist
+- chronologist
+- clarinettist
+- clavichordist
+- clericalist
+- coalitionist
+- commercialist
+- conceptualist
+- contextualist
+- contrabandist
+- contrapuntist
+- conventionalist
+- coreligionist
+- cornetist
+- corporativist
+- cosmogonist
+- cyberneticist
+- cymbalist
+- cytologist

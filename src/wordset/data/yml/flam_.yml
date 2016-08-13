@@ -1,0 +1,50 @@
+---
+pattern: flam_
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 40
+score: 2133035
+score_per_word: 92740
+hi_scored_words:
+  flam: 64315
+  flambeau: 72439
+  flamboyant: 36866
+  flame: 4164
+  flamed: 46919
+  flamen: 97604
+  flamenco: 24816
+  flamer: 98275
+  flames: 6353
+  flamethrower: 62801
+  flaming: 12404
+  flamingo: 21146
+  flamingos: 50275
+  flammability: 60963
+  flammable: 25591
+scored_words:
+  flambe: 130402
+  flambeaux: 236261
+  flamboyance: 181692
+  flamboyantly: 209404
+  flameproof: 162973
+  flamers: 127484
+  flamethrowers: 161338
+  flammables: 238550
+not_scored_words:
+- Flaminius
+- Flamsteed
+- flamage
+- flambeaus
+- flambeed
+- flambeing
+- flambes
+- flamboyancy
+- flambé
+- flambéed
+- flamencos
+- flamens
+- flameout
+- flameproofed
+- flameproofing
+- flameproofs
+- flamings

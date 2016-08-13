@@ -1,0 +1,37 @@
+---
+pattern: co_k
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 27
+score: 1518001
+score_per_word: 89294
+hi_scored_words:
+  cock: 3654
+  comeback: 16110
+  cook: 2045
+  cookbook: 13296
+  cork: 8160
+  cornerback: 49966
+  cossack: 48404
+  counterattack: 55957
+  coursework: 15510
+  cowlick: 91289
+scored_words:
+  coachwork: 292190
+  conk: 115471
+  copybook: 131358
+  cornstalk: 212069
+  countersink: 140350
+  countersunk: 116604
+  coursebook: 205568
+not_scored_words:
+- Cook
+- Cork
+- Cormack
+- Cossack
+- coatrack
+- copydesk
+- cornhusk
+- countercheck
+- countermark
+- counterwork

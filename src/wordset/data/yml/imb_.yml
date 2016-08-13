@@ -1,0 +1,40 @@
+---
+pattern: imb_
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 30
+score: 2291708
+score_per_word: 120616
+hi_scored_words:
+  imbalance: 18293
+  imbalanced: 85005
+  imbalances: 29844
+  imbecile: 56848
+  imbibe: 84597
+  imbibed: 90788
+  imbricated: 93653
+  imbroglio: 85227
+  imbue: 73868
+  imbued: 41108
+scored_words:
+  imbeciles: 101853
+  imbecilic: 252038
+  imbecility: 128214
+  imbibing: 136656
+  imbibition: 220115
+  imbricate: 216171
+  imbrue: 225509
+  imbues: 157022
+  imbuing: 194899
+not_scored_words:
+- imbecilities
+- imbiber
+- imbibers
+- imbibes
+- imbibitions
+- imbricating
+- imbrication
+- imbroglios
+- imbrued
+- imbrues
+- imbruing

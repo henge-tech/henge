@@ -1,0 +1,33 @@
+---
+pattern: t_res
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 23
+score: 707313
+score_per_word: 50522
+hi_scored_words:
+  tablatures: 44193
+  temperatures: 8288
+  tenures: 71137
+  textures: 12304
+  thoroughfares: 62467
+  timeshares: 66056
+  tinctures: 79850
+  tires: 7897
+  tortures: 43058
+  transpires: 89127
+  treasures: 6764
+  tres: 14641
+scored_words:
+  tares: 101326
+  timbres: 100205
+not_scored_words:
+- Torres
+- tetraspores
+- thermospheres
+- threescores
+- tonsures
+- transfigures
+- tripwires
+- tropospheres
+- tussores

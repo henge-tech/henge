@@ -1,0 +1,36 @@
+---
+pattern: lact_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 26
+score: 1382597
+score_per_word: 98756
+hi_scored_words:
+  lactam: 90544
+  lactase: 97034
+  lactate: 32006
+  lactating: 38250
+  lactation: 28049
+  lactic: 31045
+  lactobacillus: 56489
+  lactone: 89331
+  lactose: 26077
+scored_words:
+  lactalbumin: 175176
+  lactates: 121059
+  lactational: 304752
+  lacteal: 149622
+  lactobacilli: 143163
+not_scored_words:
+- lactalbumins
+- lactary
+- lactated
+- lacteous
+- lactescent
+- lactiferous
+- lactoflavin
+- lactoflavins
+- lactometer
+- lactoprotein
+- lactoscope
+- lactovegetarian

@@ -1,0 +1,26 @@
+---
+pattern: e_cing
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 550206
+score_per_word: 61134
+hi_scored_words:
+  effacing: 94128
+  embracing: 26629
+  enforcing: 15614
+  enhancing: 14478
+  enticing: 33419
+  entrancing: 96619
+  evidencing: 79076
+  experiencing: 9382
+scored_words:
+  evincing: 180861
+not_scored_words:
+- educing
+- effervescing
+- efflorescing
+- enlacing
+- enouncing
+- ensconcing
+- evanescing

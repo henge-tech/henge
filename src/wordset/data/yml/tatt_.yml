@@ -1,0 +1,40 @@
+---
+pattern: tatt_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 30
+score: 1757787
+score_per_word: 103399
+hi_scored_words:
+  tattered: 31446
+  tatters: 59586
+  tatties: 65083
+  tatting: 85253
+  tattle: 70743
+  tattoo: 10498
+  tattooed: 26211
+  tattooing: 42202
+  tattoos: 9215
+  tatty: 74105
+scored_words:
+  tatted: 153972
+  tatter: 194709
+  tattler: 119563
+  tattletale: 180925
+  tattling: 283714
+  tattooist: 185671
+  tattooists: 164891
+not_scored_words:
+- tatterdemalion
+- tatterdemalions
+- tattering
+- tattersail
+- tattie
+- tattier
+- tattiest
+- tattled
+- tattlers
+- tattles
+- tattletales
+- tattooer
+- tattooers

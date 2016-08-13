@@ -1,0 +1,51 @@
+---
+pattern: dema_
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 41
+score: 2752880
+score_per_word: 131089
+hi_scored_words:
+  demagnetization: 93680
+  demagogue: 62255
+  demagogues: 98583
+  demand: 1315
+  demanded: 6269
+  demander: 86806
+  demanding: 6845
+  demands: 3406
+  demarcated: 83444
+  demarcation: 35287
+scored_words:
+  demagogic: 190383
+  demagoguery: 141061
+  demagogy: 207743
+  demandant: 224186
+  demarcate: 109813
+  demarcates: 306352
+  demarcating: 217940
+  demarcations: 202622
+  demarche: 149463
+  demark: 226768
+  dematerialized: 298659
+not_scored_words:
+- Demavend
+- demagnetize
+- demagnetized
+- demagnetizer
+- demagnetizes
+- demagnetizing
+- demagogical
+- demagogically
+- demandable
+- demanders
+- demandingly
+- demantoid
+- demantoids
+- demarcative
+- demarcator
+- demarches
+- demasculinize
+- dematerialize
+- dematerializes
+- dematerializing

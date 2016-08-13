@@ -1,0 +1,22 @@
+---
+pattern: c_hic
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 483728
+score_per_word: 53747
+hi_scored_words:
+  calligraphic: 72342
+  cartographic: 48714
+  catastrophic: 16895
+  chic: 15246
+  choreographic: 95181
+  chromatographic: 49495
+  cryptographic: 27990
+  crystallographic: 53215
+scored_words:
+  cinematographic: 104650
+not_scored_words:
+- chirographic
+- choregraphic
+- chronographic

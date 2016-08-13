@@ -1,0 +1,27 @@
+---
+pattern: _rush
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 845837
+score_per_word: 65064
+hi_scored_words:
+  airbrush: 34506
+  brush: 4297
+  crush: 7090
+  hairbrush: 68858
+  paintbrush: 47200
+  rush: 2835
+  sagebrush: 40370
+  thrush: 24435
+  toothbrush: 21568
+  underbrush: 83502
+scored_words:
+  bulrush: 134354
+  inrush: 100700
+  onrush: 276122
+not_scored_words:
+- Rush
+- nailbrush
+- outrush
+- uprush

@@ -1,0 +1,80 @@
+---
+pattern: a_in
+hi_scored_words_count: 20
+scored_words_count: 13
+total_words: 70
+score: 2817892
+score_per_word: 85390
+hi_scored_words:
+  abstain: 21318
+  actin: 19587
+  adjoin: 94017
+  admin: 7660
+  adrenalin: 34741
+  aflatoxin: 76127
+  again: 207
+  ain: 14723
+  akin: 11792
+  albumin: 25573
+  aldrin: 62123
+  amoxicillin: 43458
+  ampicillin: 55479
+  angiotensin: 32647
+  antitoxin: 91813
+  ascertain: 12537
+  aspirin: 16613
+  assassin: 14472
+  attain: 9118
+  auxin: 76697
+scored_words:
+  acrolein: 135507
+  actinomycin: 135476
+  actomyosin: 233433
+  agglutinin: 124466
+  alizarin: 175195
+  amain: 187624
+  amygdalin: 150991
+  amylopectin: 244483
+  aneurin: 122997
+  anthocyanin: 171418
+  appertain: 160246
+  avidin: 112924
+  ayin: 142430
+not_scored_words:
+- Adrenalin
+- Agustin
+- Ain
+- Aladdin
+- Alamein
+- Alboin
+- Alcuin
+- Alderamin
+- Aldrin
+- Algonkin
+- Algonquin
+- Alvin
+- Amin
+- Anacin
+- Angevin
+- Arlin
+- Assiniboin
+- Aureomycin
+- Austin
+- Avertin
+- acetophenetidin
+- achromatin
+- adermin
+- afterbrain
+- alevin
+- alexin
+- algin
+- allethrin
+- aloin
+- amylopsin
+- anchusin
+- anilin
+- antivenin
+- atropin
+- aureolin
+- autolysin
+- autotoxin

@@ -1,0 +1,24 @@
+---
+pattern: f_ging
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 869091
+score_per_word: 79008
+hi_scored_words:
+  flagging: 41659
+  flinging: 55584
+  flogging: 34567
+  fogging: 79186
+  foraging: 29336
+  forging: 24246
+  frigging: 89753
+  fringing: 78103
+scored_words:
+  fledging: 108584
+  frogging: 200635
+  fudging: 127438
+not_scored_words:
+- fagging
+- folksinging
+- footslogging

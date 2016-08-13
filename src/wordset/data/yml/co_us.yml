@@ -1,0 +1,79 @@
+---
+pattern: co_us
+hi_scored_words_count: 21
+scored_words_count: 12
+total_words: 69
+score: 2723834
+score_per_word: 82540
+hi_scored_words:
+  coitus: 62517
+  coleus: 94101
+  colossus: 28346
+  coniferous: 48459
+  conscientious: 20248
+  conscious: 4548
+  consensus: 11871
+  conspicuous: 14968
+  contagious: 18735
+  contemporaneous: 32299
+  contemptuous: 53494
+  contentious: 25556
+  contiguous: 14932
+  continuous: 3239
+  copious: 27158
+  cornus: 90356
+  corpus: 10653
+  courageous: 21583
+  courteous: 16215
+  couscous: 48262
+  covetous: 70213
+scored_words:
+  coccus: 273804
+  colobus: 126065
+  commodious: 102553
+  compendious: 243005
+  congruous: 185105
+  consanguineous: 166318
+  conspectus: 121290
+  conterminous: 114484
+  contumacious: 191993
+  contumelious: 223844
+  convolvulus: 156516
+  coterminous: 101104
+not_scored_words:
+- Cocytus
+- Columbus
+- Comenius
+- Commodus
+- Comnenus
+- Comus
+- Confucius
+- Copernicus
+- Coriolanus
+- Cornelius
+- Corvus
+- Cottbus
+- cobaltous
+- coenurus
+- coetaneous
+- coinstantaneous
+- columbous
+- compunctious
+- conatus
+- conchiferous
+- concinnous
+- congius
+- congous
+- consentaneous
+- contrarious
+- convolvulaceous
+- coprophagous
+- coprophilous
+- coriaceous
+- cornaceous
+- corneous
+- corollaceous
+- coryphaeus
+- cothurnus
+- cotyledonous
+- coypus

@@ -1,0 +1,22 @@
+---
+pattern: gr_ted
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 535214
+score_per_word: 53521
+hi_scored_words:
+  graduated: 7074
+  grafted: 46804
+  granted: 2235
+  granulated: 50368
+  grated: 24051
+  greeted: 11698
+  gritted: 91242
+  grunted: 54402
+scored_words:
+  gravitated: 102058
+  grouted: 145282
+not_scored_words:
+- gradated
+- greathearted

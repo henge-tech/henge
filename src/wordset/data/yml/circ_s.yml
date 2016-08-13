@@ -1,0 +1,43 @@
+---
+pattern: circ_s
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 33
+score: 1438131
+score_per_word: 102723
+hi_scored_words:
+  circles: 5601
+  circuitous: 65602
+  circuits: 10406
+  circulars: 40077
+  circulates: 59593
+  circulations: 81140
+  circumstances: 1685
+  circus: 7103
+  circuses: 63915
+scored_words:
+  circlets: 257703
+  circumcisions: 198024
+  circumferences: 215769
+  circumscribes: 293533
+  circumvents: 137980
+not_scored_words:
+- Circassians
+- Circinus
+- circuitousness
+- circularizations
+- circularizes
+- circumambulates
+- circumbendibus
+- circumcises
+- circumflexes
+- circumfluous
+- circumfuses
+- circumlocutions
+- circumnavigates
+- circumnavigations
+- circumscriptions
+- circumstantiates
+- circumvallates
+- circumventions
+- circumvolutions

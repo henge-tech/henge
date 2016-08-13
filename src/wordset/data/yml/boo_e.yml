@@ -1,0 +1,26 @@
+---
+pattern: boo_e
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 16
+score: 1081091
+score_per_word: 83160
+hi_scored_words:
+  boogie: 14121
+  bookable: 81217
+  bookcase: 23831
+  bookie: 38581
+  bookmobile: 98712
+  bookplate: 97808
+  bookstore: 9562
+  bootie: 66727
+  booze: 21925
+scored_words:
+  boodle: 142442
+  boondoggle: 117276
+  bootee: 234259
+  bootlace: 134630
+not_scored_words:
+- Boole
+- Boone
+- Bootle

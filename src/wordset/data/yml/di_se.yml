@@ -1,0 +1,35 @@
+---
+pattern: di_se
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 25
+score: 1547137
+score_per_word: 73673
+hi_scored_words:
+  diagnose: 15266
+  diffuse: 15478
+  diocese: 12352
+  disburse: 69274
+  disclose: 8555
+  discourse: 6338
+  disease: 1220
+  disguise: 12072
+  dispense: 20651
+  disperse: 24436
+  displease: 80960
+  dispose: 11134
+  disuse: 60540
+  diverse: 5039
+scored_words:
+  diabase: 172278
+  diapause: 158166
+  disabuse: 137208
+  discompose: 277314
+  disenfranchise: 146070
+  disfranchise: 123855
+  dispraise: 188931
+not_scored_words:
+- diastase
+- dioptase
+- diphase
+- diseuse

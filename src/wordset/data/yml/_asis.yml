@@ -1,0 +1,68 @@
+---
+pattern: _asis
+hi_scored_words_count: 10
+scored_words_count: 19
+total_words: 58
+score: 3926854
+score_per_word: 135408
+hi_scored_words:
+  basis: 1456
+  emphasis: 3782
+  hemostasis: 73653
+  homeostasis: 40731
+  leishmaniasis: 74970
+  metastasis: 31136
+  oasis: 9724
+  psoriasis: 27019
+  schistosomiasis: 76966
+  stasis: 44834
+scored_words:
+  anabasis: 186191
+  ascariasis: 259909
+  atelectasis: 128797
+  bronchiectasis: 110437
+  elephantiasis: 143863
+  entasis: 165322
+  epistasis: 174572
+  filariasis: 108434
+  hypochondriasis: 180457
+  hypostasis: 178873
+  iconostasis: 284115
+  lithiasis: 327034
+  mydriasis: 276600
+  overemphasis: 131438
+  paraphrasis: 332113
+  phasis: 179574
+  protasis: 141585
+  trichomoniasis: 131564
+  trypanosomiasis: 101705
+not_scored_words:
+- acariasis
+- ancylostomiasis
+- ankylostomiasis
+- antiphrasis
+- apophasis
+- bacteriostasis
+- bilharziasis
+- catabasis
+- crasis
+- dalasis
+- diastasis
+- epitasis
+- helminthiasis
+- holophrasis
+- katabasis
+- loaiasis
+- myiasis
+- osteoclasis
+- parabasis
+- periphrasis
+- reemphasis
+- satyriasis
+- siriasis
+- telangiectasis
+- teniasis
+- trichiasis
+- trombidiasis
+- uncinariasis
+- underemphasis

@@ -1,0 +1,45 @@
+---
+pattern: m_nd
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 35
+score: 1368331
+score_per_word: 72017
+hi_scored_words:
+  mainland: 6950
+  mankind: 6199
+  marshland: 82050
+  mastermind: 28003
+  mend: 26487
+  microsecond: 97958
+  midland: 15343
+  millisecond: 56879
+  mind: 423
+  misunderstand: 33172
+  moorland: 47989
+  moribund: 58666
+  motherland: 42357
+  mound: 16105
+scored_words:
+  maund: 176060
+  meadowland: 186068
+  millpond: 118324
+  minuend: 155987
+  multiplicand: 213311
+not_scored_words:
+- Mahound
+- Mainland
+- Maitland
+- Marquand
+- Maryland
+- Matabeleland
+- McFarland
+- Midland
+- Mitterrand
+- Motherland
+- marchland
+- misapprehend
+- misbrand
+- missend
+- misspend
+- musclebound

@@ -1,0 +1,43 @@
+---
+pattern: meta_s
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 33
+score: 2293700
+score_per_word: 120721
+hi_scored_words:
+  metabolites: 27811
+  metals: 9894
+  metamorphoses: 72524
+  metamorphosis: 26560
+  metaphors: 23677
+  metaphysics: 17736
+  metastases: 32648
+  metastasis: 31136
+  metatarsus: 90373
+scored_words:
+  metabolisms: 212118
+  metabolizes: 224972
+  metacarpus: 155365
+  metalheads: 133068
+  metalliferous: 179386
+  metallurgists: 210720
+  metalworkers: 153639
+  metaphases: 324694
+  metatarsals: 253767
+  metathesis: 113612
+not_scored_words:
+- Metaphysicals
+- metacarpals
+- metageneses
+- metagenesis
+- metagnathous
+- metalanguages
+- metalepses
+- metalepsis
+- metalinguistics
+- metamathematics
+- metamorphous
+- metanephros
+- metastasizes
+- metatheses

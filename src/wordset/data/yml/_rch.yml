@@ -1,0 +1,70 @@
+---
+pattern: _rch
+hi_scored_words_count: 19
+scored_words_count: 9
+total_words: 60
+score: 2154073
+score_per_word: 76931
+hi_scored_words:
+  arch: 4499
+  birch: 11860
+  church: 513
+  cornstarch: 47330
+  hierarch: 83641
+  larch: 45789
+  lurch: 44428
+  march: 415
+  matriarch: 61979
+  monarch: 8786
+  orch: 42896
+  patriarch: 20852
+  perch: 17598
+  porch: 7874
+  research: 1061
+  scorch: 48332
+  search: 389
+  starch: 15512
+  torch: 8850
+scored_words:
+  anarch: 187672
+  besmirch: 155950
+  blowtorch: 110231
+  exarch: 189472
+  megachurch: 214857
+  nomarch: 331531
+  oligarch: 110150
+  parch: 177872
+  tetrarch: 203734
+not_scored_words:
+- Arch
+- Burch
+- Christchurch
+- Church
+- Kerch
+- March
+- Petrarch
+- Plutarch
+- autarch
+- chiliarch
+- countermarch
+- curch
+- endarch
+- eparch
+- ethnarch
+- frogmarch
+- gymnasiarch
+- heresiarch
+- hipparch
+- inarch
+- mesarch
+- outmarch
+- overarch
+- pikeperch
+- prochurch
+- smirch
+- surfperch
+- symposiarch
+- trierarch
+- unchurch
+- xerarch
+- zorch

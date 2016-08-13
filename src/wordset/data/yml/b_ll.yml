@@ -1,0 +1,52 @@
+---
+pattern: b_ll
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 42
+score: 2150098
+score_per_word: 89587
+hi_scored_words:
+  backfill: 60943
+  ball: 1326
+  bankroll: 34142
+  barbell: 30636
+  baseball: 5812
+  basketball: 5700
+  befall: 42478
+  befell: 53075
+  bell: 2032
+  bill: 740
+  bluebell: 51911
+  bluegill: 78798
+  boll: 36273
+  bombshell: 37359
+  brill: 28627
+  bull: 4106
+scored_words:
+  bedroll: 235677
+  blackball: 120360
+  blackpoll: 314582
+  bookstall: 226677
+  bridewell: 142613
+  buckyball: 292977
+  butterball: 132849
+  buzzkill: 210405
+not_scored_words:
+- Bacall
+- Ball
+- Bell
+- Bill
+- Blackwell
+- Boswell
+- Bothwell
+- Bowell
+- Bracknell
+- Brummell
+- Bull
+- Bushnell
+- beadroll
+- beanball
+- bluebill
+- boatbill
+- broadbill
+- buttonball

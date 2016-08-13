@@ -1,0 +1,51 @@
+---
+pattern: flag_
+hi_scored_words_count: 15
+scored_words_count: 12
+total_words: 41
+score: 2980982
+score_per_word: 110406
+hi_scored_words:
+  flag: 2071
+  flagella: 83697
+  flagellar: 94858
+  flagellation: 95749
+  flagellum: 90523
+  flagged: 26552
+  flagging: 41659
+  flagon: 96936
+  flagpole: 51499
+  flagpoles: 92609
+  flagrant: 35966
+  flags: 4845
+  flagship: 16767
+  flagstaff: 24596
+  flagstone: 59222
+scored_words:
+  flagellant: 170706
+  flagellate: 186061
+  flagellated: 281279
+  flagellates: 182931
+  flageolet: 227020
+  flagger: 228650
+  flagitious: 206825
+  flagman: 183694
+  flagons: 104054
+  flagrantly: 104140
+  flagships: 169596
+  flagstones: 118477
+not_scored_words:
+- Flagstad
+- flagellants
+- flagellating
+- flagellator
+- flagellatory
+- flagelliform
+- flageolets
+- flaggy
+- flagitiously
+- flagitiousness
+- flagmen
+- flagrance
+- flagrancy
+- flagstaffs

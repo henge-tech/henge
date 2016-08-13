@@ -1,0 +1,29 @@
+---
+pattern: cul_s
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 19
+score: 1334733
+score_per_word: 88982
+hi_scored_words:
+  culminates: 55120
+  culprits: 45019
+  cultists: 96473
+  cultivars: 30480
+  cultivates: 64913
+  cultivators: 63111
+  cults: 29671
+  cultures: 10635
+  cultus: 92355
+  culverts: 56308
+scored_words:
+  cullis: 185903
+  culls: 100424
+  culms: 165577
+  culottes: 128034
+  cultivations: 210710
+not_scored_words:
+- cullenders
+- cullises
+- culmiferous
+- culminations

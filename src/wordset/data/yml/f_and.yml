@@ -1,0 +1,27 @@
+---
+pattern: f_and
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 823111
+score_per_word: 68592
+hi_scored_words:
+  fairyland: 68045
+  farmland: 18759
+  fatherland: 40473
+  firebrand: 61572
+  firsthand: 27708
+  flatland: 77653
+  forehand: 42806
+  freehand: 38375
+scored_words:
+  farmhand: 116353
+  fenland: 109863
+  foreland: 112814
+  forestland: 108690
+not_scored_words:
+- Falkland
+- Ferdinand
+- Finland
+- Friesland
+- fahlband

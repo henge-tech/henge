@@ -1,0 +1,41 @@
+---
+pattern: fo_ly
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 31
+score: 1937087
+score_per_word: 107615
+hi_scored_words:
+  folly: 12627
+  fondly: 30013
+  foolishly: 39157
+  forcefully: 30573
+  forcibly: 20942
+  formally: 7373
+  formerly: 3433
+  fortnightly: 40278
+  fortunately: 7314
+  fourthly: 71420
+scored_words:
+  focally: 274612
+  forensically: 248659
+  forlornly: 170906
+  formidably: 230595
+  forthrightly: 152375
+  fortuitously: 132138
+  forwardly: 225130
+  foully: 239542
+not_scored_words:
+- foggily
+- foolhardily
+- footlessly
+- foppishly
+- forbiddingly
+- forcedly
+- forebodingly
+- foresightedly
+- forgetfully
+- forgivingly
+- formlessly
+- formulaically
+- foxily

@@ -1,0 +1,32 @@
+---
+pattern: s_ence
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 22
+score: 785558
+score_per_word: 49097
+hi_scored_words:
+  salience: 58740
+  science: 543
+  senescence: 55520
+  sentence: 2511
+  sentience: 83892
+  sequence: 3796
+  silence: 3097
+  sixpence: 41885
+  spence: 19999
+  subsequence: 80722
+  subservience: 98396
+  subsidence: 40763
+  subsistence: 14076
+  superintendence: 73394
+scored_words:
+  somnolence: 107325
+  submergence: 100899
+not_scored_words:
+- Spence
+- sapience
+- sevenpence
+- stridence
+- subconference
+- succulence

@@ -1,0 +1,30 @@
+---
+pattern: man_r
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 20
+score: 512175
+score_per_word: 39398
+hi_scored_words:
+  manager: 1807
+  mandibular: 46400
+  maneuver: 21085
+  manger: 24128
+  manipulator: 43345
+  manner: 1420
+  manometer: 79376
+  manor: 7448
+  manpower: 15292
+  manslaughter: 29219
+  manufacturer: 4610
+scored_words:
+  mangler: 122586
+  manlier: 115459
+not_scored_words:
+- Manchester
+- Manipur
+- mangier
+- manipular
+- manslayer
+- manstopper
+- manumitter

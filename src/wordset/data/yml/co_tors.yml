@@ -1,0 +1,44 @@
+---
+pattern: co_tors
+hi_scored_words_count: 16
+scored_words_count: 11
+total_words: 34
+score: 2537159
+score_per_word: 93968
+hi_scored_words:
+  collaborators: 20527
+  collectors: 9519
+  commentators: 18432
+  communicators: 39399
+  comparators: 78093
+  competitors: 7508
+  concentrators: 76008
+  conductors: 20125
+  connectors: 9707
+  conservators: 81854
+  conspirators: 36095
+  constructors: 28584
+  contractors: 7106
+  contributors: 9756
+  cooperators: 94820
+  coordinators: 22090
+scored_words:
+  coadjutors: 125338
+  collators: 321748
+  collimators: 167689
+  commutators: 156938
+  compactors: 118086
+  compositors: 163482
+  conciliators: 237712
+  consolidators: 158589
+  constrictors: 209931
+  convertors: 178421
+  correctors: 139602
+not_scored_words:
+- coagulators
+- cogitators
+- commemorators
+- confiscators
+- contaminators
+- convectors
+- corroborators

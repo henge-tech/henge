@@ -1,0 +1,39 @@
+---
+pattern: _mit
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 29
+score: 1521703
+score_per_word: 69168
+hi_scored_words:
+  admit: 3368
+  commit: 3293
+  dammit: 22096
+  delimit: 73210
+  emit: 21687
+  hermit: 19686
+  limit: 2059
+  omit: 15392
+  permit: 2339
+  recommit: 90351
+  remit: 20142
+  resubmit: 29456
+  retransmit: 95218
+  submit: 1741
+  summit: 3471
+  transmit: 8072
+  vomit: 23398
+scored_words:
+  goddammit: 107767
+  imit: 196753
+  intermit: 321917
+  manumit: 174761
+  readmit: 285526
+not_scored_words:
+- Izmit
+- Kermit
+- MIT
+- Thermit
+- demit
+- intromit
+- pretermit

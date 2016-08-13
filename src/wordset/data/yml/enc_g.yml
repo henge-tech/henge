@@ -1,0 +1,29 @@
+---
+pattern: enc_g
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 19
+score: 1318572
+score_per_word: 87904
+hi_scored_words:
+  encapsulating: 66958
+  enchanting: 18971
+  encircling: 53719
+  enclosing: 22943
+  encoding: 6262
+  encompassing: 24509
+  encountering: 28581
+  encouraging: 5831
+  encroaching: 57941
+  encrypting: 52789
+scored_words:
+  encamping: 106202
+  encasing: 120108
+  enciphering: 335822
+  encrusting: 213209
+  encumbering: 204727
+not_scored_words:
+- enchaining
+- encoring
+- encrimsoning
+- encysting

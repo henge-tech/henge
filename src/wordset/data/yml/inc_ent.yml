@@ -1,0 +1,27 @@
+---
+pattern: inc_ent
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 17
+score: 607176
+score_per_word: 43369
+hi_scored_words:
+  incandescent: 27078
+  incident: 3005
+  incipient: 39048
+  incitement: 52090
+  inclement: 40522
+  incoherent: 25567
+  incompetent: 17451
+  inconsistent: 16087
+  incontinent: 65881
+  inconvenient: 25277
+  increment: 22474
+  incumbent: 11535
+scored_words:
+  incongruent: 102135
+  inconsequent: 159026
+not_scored_words:
+- incalescent
+- increscent
+- incurrent

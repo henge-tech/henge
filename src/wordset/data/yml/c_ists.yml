@@ -1,0 +1,75 @@
+---
+pattern: c_ists
+hi_scored_words_count: 13
+scored_words_count: 27
+total_words: 65
+score: 5694899
+score_per_word: 142372
+hi_scored_words:
+  capitalists: 22886
+  cardiologists: 66846
+  cartoonists: 47279
+  checklists: 31522
+  chemists: 24740
+  colonists: 21867
+  columnists: 17709
+  communists: 20191
+  conservationists: 52672
+  consists: 2838
+  creationists: 43468
+  cultists: 96473
+  cyclists: 19492
+scored_words:
+  canoeists: 136804
+  careerists: 246568
+  caricaturists: 192245
+  casuists: 201276
+  catechists: 138608
+  cellists: 158029
+  centrists: 126249
+  chartists: 184876
+  chauvinists: 260904
+  chiropodists: 193313
+  classicists: 149516
+  climatologists: 163772
+  coexists: 150596
+  collectivists: 291808
+  colonialists: 124300
+  colorists: 210518
+  completists: 246912
+  conformists: 169870
+  congregationalists: 196017
+  constitutionalists: 207631
+  constructionists: 270982
+  constructivists: 257259
+  contortionists: 221835
+  copyists: 188630
+  cosmetologists: 214175
+  cosmologists: 143402
+  criminologists: 180821
+not_scored_words:
+- Calvinists
+- Christs
+- Communists
+- Congregationalists
+- calligraphists
+- campanologists
+- canonists
+- ceramicists
+- ceramists
+- chronologists
+- clarinetists
+- clarinettists
+- coalitionists
+- collaborationists
+- consumerists
+- contrabandists
+- contrapuntists
+- conversationalists
+- coreligionists
+- cornetists
+- cosmogonists
+- cubists
+- cymbalists
+- cytologists
+- czarists

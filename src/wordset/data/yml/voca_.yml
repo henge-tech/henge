@@ -1,0 +1,36 @@
+---
+pattern: voca_
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 26
+score: 1352684
+score_per_word: 71193
+hi_scored_words:
+  vocab: 39107
+  vocabularies: 53043
+  vocabulary: 7272
+  vocal: 6171
+  vocalist: 18207
+  vocalists: 33664
+  vocalization: 94310
+  vocalizations: 85335
+  vocally: 66153
+  vocals: 5271
+  vocation: 18480
+  vocational: 12784
+  vocations: 47032
+scored_words:
+  vocalic: 119530
+  vocalize: 115802
+  vocalized: 196557
+  vocalizing: 134726
+  vocationally: 137145
+  vocative: 162095
+not_scored_words:
+- vocable
+- vocables
+- vocalism
+- vocalizer
+- vocalizes
+- vocationalism
+- vocatives

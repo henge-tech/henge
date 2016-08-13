@@ -1,0 +1,51 @@
+---
+pattern: in_tor
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 41
+score: 1674170
+score_per_word: 62006
+hi_scored_words:
+  incinerator: 39945
+  incubator: 25340
+  indicator: 12092
+  inductor: 43255
+  infiltrator: 72833
+  inhibitor: 12984
+  initiator: 28535
+  injector: 31056
+  innovator: 28687
+  inquisitor: 44084
+  inspector: 6251
+  instigator: 57937
+  instructor: 5344
+  insulator: 33340
+  integrator: 29960
+  interceptor: 28404
+  interlocutor: 67404
+  interrogator: 64591
+  inventor: 9004
+  investigator: 10617
+  investor: 14066
+scored_words:
+  incorporator: 238015
+  inflator: 132763
+  inheritor: 121261
+  interpolator: 190302
+  intimidator: 137697
+  invigilator: 188403
+not_scored_words:
+- inaugurator
+- incarcerator
+- inculcator
+- indictor
+- indoctrinator
+- inflictor
+- infractor
+- inhalator
+- inoculator
+- inseminator
+- insinuator
+- institutor
+- interoceptor
+- invalidator

@@ -1,0 +1,54 @@
+---
+pattern: _loid
+hi_scored_words_count: 8
+scored_words_count: 11
+total_words: 44
+score: 2361347
+score_per_word: 124281
+hi_scored_words:
+  alkaloid: 60225
+  amyloid: 35220
+  celluloid: 42997
+  colloid: 41530
+  diploid: 47348
+  haploid: 73439
+  myeloid: 43656
+  tabloid: 24412
+scored_words:
+  amygdaloid: 214072
+  crystalloid: 244650
+  cycloid: 193818
+  hyperboloid: 267880
+  keloid: 145380
+  metalloid: 123659
+  mongoloid: 123618
+  paraboloid: 207464
+  polyploid: 205367
+  tetraploid: 126049
+  triploid: 140563
+not_scored_words:
+- Australoid
+- Celluloid
+- Mongoloid
+- amphidiploid
+- cheloid
+- condyloid
+- coralloid
+- epicycloid
+- erysipeloid
+- haloid
+- hyaloid
+- hydrocephaloid
+- hyperploid
+- hypocycloid
+- hypoploid
+- meloid
+- mineraloid
+- monoploid
+- petaloid
+- phylloid
+- sepaloid
+- sialoid
+- varicelloid
+- varioloid
+- xyloid

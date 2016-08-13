@@ -1,0 +1,69 @@
+---
+pattern: fo_n
+hi_scored_words_count: 25
+scored_words_count: 11
+total_words: 59
+score: 2925436
+score_per_word: 81262
+hi_scored_words:
+  foghorn: 68555
+  foliation: 77743
+  footman: 66502
+  foramen: 57420
+  forbidden: 6015
+  forebrain: 72340
+  foreign: 811
+  foreman: 13175
+  foremen: 60785
+  forenoon: 65073
+  foreseen: 22739
+  foreskin: 27798
+  forgiven: 14772
+  forgotten: 2525
+  forlorn: 35157
+  formalin: 52368
+  formalization: 63909
+  formation: 2960
+  formulation: 17193
+  fornication: 42501
+  forsaken: 29238
+  fortification: 34230
+  foundation: 1197
+  fountain: 5707
+  fourteen: 7561
+scored_words:
+  foeman: 277310
+  foemen: 173304
+  foin: 162035
+  fomentation: 145058
+  footmen: 111518
+  foreperson: 171208
+  forestation: 223051
+  forewarn: 192840
+  formication: 253998
+  forsworn: 161253
+  fossilization: 205587
+not_scored_words:
+- FORTRAN
+- Fonteyn
+- Foreman
+- Formosan
+- Fourneyron
+- foehn
+- foilsman
+- foison
+- folacin
+- folliculin
+- footworn
+- foreknown
+- foreordain
+- foreordination
+- forerun
+- foreshorten
+- foreshown
+- foretoken
+- forewoman
+- forewomen
+- foreworn
+- forworn
+- fourgon

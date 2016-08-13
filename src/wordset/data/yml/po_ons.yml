@@ -1,0 +1,32 @@
+---
+pattern: po_ons
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1173471
+score_per_word: 78231
+hi_scored_words:
+  poisons: 26486
+  polygons: 29848
+  pontifications: 67498
+  pontoons: 84333
+  populations: 7038
+  portions: 4141
+  positions: 2638
+  positrons: 97969
+  possessions: 10534
+  potions: 34439
+scored_words:
+  polarizations: 110673
+  pollutions: 172125
+  poons: 137192
+  postilions: 210576
+  potations: 177981
+not_scored_words:
+- poltroons
+- polyhedrons
+- polysyndetons
+- popularizations
+- postillions
+- postseasons
+- postulations

@@ -1,0 +1,26 @@
+---
+pattern: _unce
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 730617
+score_per_word: 60884
+hi_scored_words:
+  announce: 4899
+  bounce: 13203
+  denounce: 27317
+  dunce: 61768
+  ounce: 9767
+  pounce: 40654
+  pronounce: 16730
+  renounce: 28401
+scored_words:
+  flounce: 119206
+  launce: 133834
+  mispronounce: 165430
+  trounce: 109408
+not_scored_words:
+- enounce
+- jounce
+- preannounce
+- rounce

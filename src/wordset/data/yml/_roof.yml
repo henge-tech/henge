@@ -1,0 +1,49 @@
+---
+pattern: _roof
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 39
+score: 2536380
+score_per_word: 115290
+hi_scored_words:
+  bulletproof: 26515
+  fireproof: 49497
+  foolproof: 41427
+  proof: 1827
+  reproof: 65485
+  roof: 2616
+  soundproof: 65656
+  sunroof: 36617
+  waterproof: 13307
+  weatherproof: 56450
+  windproof: 88868
+scored_words:
+  bombproof: 156958
+  childproof: 152341
+  disproof: 210052
+  dustproof: 239776
+  flameproof: 162973
+  greaseproof: 202645
+  heatproof: 279259
+  ovenproof: 211581
+  rustproof: 188899
+  shatterproof: 137347
+  shockproof: 146284
+not_scored_words:
+- burglarproof
+- counterproof
+- creaseproof
+- dampproof
+- holeproof
+- lightproof
+- mothproof
+- rainproof
+- shellproof
+- showerproof
+- skidproof
+- smokeproof
+- stormproof
+- sunproof
+- underproof
+- unroof
+- wearproof

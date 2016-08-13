@@ -1,0 +1,26 @@
+---
+pattern: ap_on
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 16
+score: 510795
+score_per_word: 39291
+hi_scored_words:
+  aphelion: 93658
+  apparition: 35592
+  appellation: 34955
+  apperception: 78969
+  application: 1080
+  apportion: 65430
+  appreciation: 5463
+  apprehension: 18127
+  approbation: 36407
+  appropriation: 10751
+  approximation: 13290
+  apron: 14235
+scored_words:
+  apposition: 102838
+not_scored_words:
+- Apollyon
+- Appleton
+- apocynthion

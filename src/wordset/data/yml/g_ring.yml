@@ -1,0 +1,29 @@
+---
+pattern: g_ring
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 945446
+score_per_word: 72726
+hi_scored_words:
+  garnering: 52931
+  gathering: 3778
+  gearing: 31108
+  gerrymandering: 80510
+  gesturing: 72430
+  glaring: 28238
+  glimmering: 55793
+  glittering: 20119
+  goring: 62231
+  guttering: 71534
+scored_words:
+  gibbering: 153172
+  glowering: 157541
+  grandfathering: 156061
+not_scored_words:
+- Goering
+- geoengineering
+- gingering
+- glamoring
+- glamouring
+- glistering

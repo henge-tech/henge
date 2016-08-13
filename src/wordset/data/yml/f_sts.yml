@@ -1,0 +1,44 @@
+---
+pattern: f_sts
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 34
+score: 1475336
+score_per_word: 73766
+hi_scored_words:
+  fascists: 39352
+  fasts: 66897
+  feasts: 31950
+  federalists: 64092
+  feminists: 24019
+  fests: 90989
+  fibroblasts: 32526
+  finalists: 17840
+  firsts: 35858
+  fists: 20645
+  florists: 25986
+  forecasts: 16373
+  forests: 4440
+  frosts: 62859
+  fundamentalists: 30811
+  futurists: 87443
+scored_words:
+  fetishists: 141038
+  flutists: 316372
+  folklorists: 207423
+  footrests: 158423
+not_scored_words:
+- Federalists
+- fabulists
+- faddists
+- fantasists
+- fantasts
+- fatalists
+- fauvists
+- flabbergasts
+- flypasts
+- foists
+- foremasts
+- formalists
+- functionalists
+- futurologists

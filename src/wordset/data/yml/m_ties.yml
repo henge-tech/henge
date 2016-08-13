@@ -1,0 +1,31 @@
+---
+pattern: m_ties
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 21
+score: 1354118
+score_per_word: 96722
+hi_scored_words:
+  majesties: 73491
+  majorities: 45732
+  maturities: 55811
+  minorities: 14181
+  modalities: 22623
+  moieties: 88676
+  mounties: 98331
+  municipalities: 13266
+scored_words:
+  mediocrities: 288667
+  mentalities: 126829
+  mobilities: 128479
+  monstrosities: 113234
+  moralities: 170104
+  multiplicities: 114694
+not_scored_words:
+- Mounties
+- manipulabilities
+- materialities
+- meticulosities
+- molarities
+- motivities
+- movabilities

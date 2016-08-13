@@ -1,0 +1,24 @@
+---
+pattern: de_ring
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 1109973
+score_per_word: 92497
+hi_scored_words:
+  deciphering: 57007
+  declaring: 10757
+  deferring: 60013
+  delivering: 6482
+  denaturing: 97366
+  desiring: 19528
+  despairing: 50257
+  deterring: 62324
+  devouring: 44202
+scored_words:
+  debarring: 295737
+  deflowering: 260126
+  deploring: 146174
+not_scored_words:
+- demurring
+- detouring

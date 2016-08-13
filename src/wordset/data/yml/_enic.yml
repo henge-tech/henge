@@ -1,0 +1,82 @@
+---
+pattern: _enic
+hi_scored_words_count: 25
+scored_words_count: 20
+total_words: 72
+score: 5237013
+score_per_word: 116378
+hi_scored_words:
+  allergenic: 68124
+  androgenic: 98181
+  angiogenic: 99420
+  anthropogenic: 41327
+  antigenic: 46409
+  arsenic: 18305
+  biogenic: 67291
+  carcinogenic: 37645
+  cryogenic: 33074
+  estrogenic: 89827
+  eugenic: 97754
+  hallucinogenic: 60596
+  hygienic: 30839
+  hypoallergenic: 69907
+  iatrogenic: 88729
+  mutagenic: 63758
+  neurogenic: 75468
+  oncogenic: 89546
+  pathogenic: 27665
+  photogenic: 47672
+  scenic: 12210
+  schizophrenic: 33405
+  splenic: 58735
+  teratogenic: 86490
+  transgenic: 25121
+scored_words:
+  asthenic: 106514
+  axenic: 266711
+  calisthenic: 318738
+  chromogenic: 135091
+  cryptogenic: 283098
+  genic: 146321
+  immunogenic: 106304
+  irenic: 177430
+  monogenic: 168435
+  morphogenic: 315016
+  myasthenic: 262846
+  myogenic: 118184
+  nonpathogenic: 191875
+  orogenic: 137775
+  phrenic: 126604
+  psychogenic: 105276
+  pyrogenic: 260718
+  sthenic: 148042
+  telegenic: 281491
+  unhygienic: 113046
+not_scored_words:
+- Edenic
+- Galenic
+- Hellenic
+- Panhellenic
+- audiogenic
+- dysgenic
+- ecumenic
+- eirenic
+- erogenic
+- erotogenic
+- glycogenic
+- hysterogenic
+- neurasthenic
+- nonallergenic
+- ontogenic
+- orthogenic
+- oxygenic
+- phylogenic
+- rhizogenic
+- ruthenic
+- saprogenic
+- sirenic
+- sphenic
+- toxicogenic
+- typhogenic
+- videogenic
+- zymogenic

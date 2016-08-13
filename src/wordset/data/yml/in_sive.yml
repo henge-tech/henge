@@ -1,0 +1,27 @@
+---
+pattern: in_sive
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 17
+score: 435253
+score_per_word: 43525
+hi_scored_words:
+  incisive: 37220
+  inclusive: 9204
+  inconclusive: 40915
+  indecisive: 61235
+  inexpensive: 12612
+  inoffensive: 60813
+  intensive: 9949
+  intrusive: 22265
+  invasive: 14031
+scored_words:
+  inexpressive: 167009
+not_scored_words:
+- inapprehensive
+- incomprehensive
+- incursive
+- inessive
+- infusive
+- ingressive
+- introversive

@@ -1,0 +1,38 @@
+---
+pattern: _omas
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 28
+score: 1775224
+score_per_word: 110951
+hi_scored_words:
+  adenomas: 67218
+  aromas: 37156
+  carcinomas: 40472
+  comas: 86142
+  diplomas: 31526
+  gliomas: 85079
+  lymphomas: 51252
+  melanomas: 95672
+  sarcomas: 80826
+scored_words:
+  adenocarcinomas: 112454
+  granulomas: 118540
+  hemangiomas: 142676
+  hematomas: 157244
+  lipomas: 262669
+  papillomas: 191919
+  somas: 214379
+not_scored_words:
+- Thomas
+- Tomas
+- angiomas
+- atheromas
+- chondromas
+- chromas
+- epitheliomas
+- myelomas
+- osteomas
+- stomas
+- trachomas
+- zygomas

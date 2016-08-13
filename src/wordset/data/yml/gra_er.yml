@@ -1,0 +1,37 @@
+---
+pattern: gra_er
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 27
+score: 992750
+score_per_word: 58397
+hi_scored_words:
+  grabber: 32031
+  grader: 25797
+  grafter: 75556
+  granddaughter: 20100
+  grander: 57533
+  grandfather: 6170
+  grandmaster: 40714
+  grandmother: 6978
+  granger: 21977
+  grasshopper: 27698
+  grater: 50993
+  gravedigger: 88889
+  graver: 50176
+  grazer: 96444
+scored_words:
+  grappler: 104675
+  grayer: 150729
+  grazier: 136290
+not_scored_words:
+- Grainger
+- grabbier
+- grainier
+- grandstander
+- granter
+- grasper
+- grassier
+- gratifier
+- gravimeter
+- gravitater

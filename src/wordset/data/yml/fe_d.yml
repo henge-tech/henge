@@ -1,0 +1,56 @@
+---
+pattern: fe_d
+hi_scored_words_count: 23
+scored_words_count: 13
+total_words: 46
+score: 3405034
+score_per_word: 94584
+hi_scored_words:
+  feared: 8128
+  feasted: 80093
+  featherbed: 96713
+  feathered: 27177
+  featured: 7902
+  fed: 3351
+  federated: 26979
+  feed: 1560
+  feelgood: 63776
+  feigned: 57832
+  felled: 47902
+  felted: 84699
+  femtosecond: 94924
+  fenced: 24506
+  fend: 32513
+  fermented: 31260
+  ferried: 90737
+  fertilized: 38568
+  festooned: 95460
+  fetched: 22255
+  fetid: 76070
+  feud: 21628
+  fevered: 64225
+scored_words:
+  fecund: 105127
+  federalized: 229320
+  felicitated: 249997
+  feminized: 103522
+  fended: 146354
+  fenland: 109863
+  ferreted: 281097
+  fervid: 124242
+  fessed: 244464
+  festered: 230991
+  feted: 104840
+  fettered: 110959
+  feuded: 266000
+not_scored_words:
+- Fed
+- Ferdinand
+- featherbedded
+- featherbrained
+- featherhead
+- fecundated
+- feebleminded
+- feinted
+- felid
+- fenestrated

@@ -1,0 +1,23 @@
+---
+pattern: d_ect
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 13
+score: 438448
+score_per_word: 39858
+hi_scored_words:
+  defect: 6509
+  deflect: 39841
+  deselect: 69079
+  detect: 5852
+  dialect: 14222
+  direct: 770
+  disconnect: 15901
+  disinfect: 62672
+  disrespect: 23919
+  dissect: 50927
+scored_words:
+  deject: 148756
+not_scored_words:
+- disaffect
+- disject

@@ -1,0 +1,49 @@
+---
+pattern: r_sh
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 39
+score: 1483954
+score_per_word: 67452
+hi_scored_words:
+  radish: 42897
+  rash: 10294
+  reddish: 19527
+  redfish: 81268
+  reestablish: 48228
+  refinish: 89669
+  refresh: 9115
+  refurbish: 55808
+  rehash: 54719
+  relinquish: 28229
+  relish: 18879
+  replenish: 37046
+  republish: 60295
+  rockfish: 64161
+  roguish: 95752
+  rubbish: 9557
+  rush: 2835
+scored_words:
+  raffish: 225146
+  rakish: 130961
+  ravish: 100914
+  rosebush: 122168
+  roundish: 176486
+not_scored_words:
+- Rhenish
+- Romansh
+- Romish
+- Rush
+- rabbitfish
+- rammish
+- rattish
+- refurnish
+- revarnish
+- rewash
+- ribbonfish
+- rompish
+- rosefish
+- roughish
+- rowdyish
+- runtish
+- ruttish

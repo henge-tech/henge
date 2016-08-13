@@ -1,0 +1,30 @@
+---
+pattern: ne_al
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 20
+score: 767724
+score_per_word: 69793
+hi_scored_words:
+  neanderthal: 54641
+  neoclassical: 39132
+  neoliberal: 59067
+  neonatal: 19378
+  neural: 11450
+  neurological: 17275
+  neuronal: 21759
+  neurosurgical: 69379
+  neutral: 4993
+scored_words:
+  neral: 289682
+  nerval: 180968
+not_scored_words:
+- Neal
+- Neanderthal
+- Nembutal
+- Neotropical
+- Nepal
+- Nerval
+- necrological
+- neocolonial
+- neological

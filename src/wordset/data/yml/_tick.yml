@@ -1,0 +1,38 @@
+---
+pattern: _tick
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 28
+score: 1380978
+score_per_word: 76721
+hi_scored_words:
+  broomstick: 62463
+  candlestick: 28667
+  chopstick: 78972
+  dipstick: 72018
+  drumstick: 75184
+  joystick: 24079
+  lipstick: 16815
+  matchstick: 72526
+  nonstick: 48712
+  shtick: 75116
+  slapstick: 41845
+  stick: 1986
+  tick: 11589
+  uptick: 99441
+  yardstick: 42396
+scored_words:
+  breadstick: 235353
+  nightstick: 178870
+  unstick: 214946
+not_scored_words:
+- Natick
+- crabstick
+- downtick
+- fiddlestick
+- gearstick
+- mahlstick
+- maulstick
+- politick
+- singlestick
+- walkingstick

@@ -1,0 +1,34 @@
+---
+pattern: v_ls
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 24
+score: 1096906
+score_per_word: 60939
+hi_scored_words:
+  vandals: 27519
+  varietals: 97363
+  vassals: 79610
+  veils: 30345
+  verticals: 65290
+  vessels: 4028
+  vials: 33868
+  victuals: 76689
+  vigils: 66049
+  vinyls: 65229
+  visuals: 18803
+  vitals: 46172
+  vocals: 5271
+  voicemails: 92681
+  vols: 11986
+  vowels: 26346
+scored_words:
+  viols: 167672
+  volleyballs: 181985
+not_scored_words:
+- Vandals
+- Voguls
+- ventails
+- verbals
+- vestals
+- virginals

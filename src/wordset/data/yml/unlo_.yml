@@ -1,0 +1,33 @@
+---
+pattern: unlo_
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 23
+score: 1356452
+score_per_word: 90430
+hi_scored_words:
+  unload: 23789
+  unloaded: 30486
+  unloading: 24569
+  unlock: 10444
+  unlocked: 11610
+  unlocking: 23565
+  unlocks: 46247
+  unloved: 67196
+scored_words:
+  unloader: 177914
+  unloads: 100838
+  unloose: 176552
+  unloosed: 153826
+  unlovable: 189877
+  unlovely: 165427
+  unloving: 154112
+not_scored_words:
+- unloosen
+- unloosened
+- unloosening
+- unloosens
+- unlooses
+- unloosing
+- unlovelier
+- unloveliest

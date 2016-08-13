@@ -1,0 +1,53 @@
+---
+pattern: aggr_
+hi_scored_words_count: 20
+scored_words_count: 6
+total_words: 43
+score: 1987374
+score_per_word: 76437
+hi_scored_words:
+  aggrandizement: 81369
+  aggravate: 38770
+  aggravated: 16232
+  aggravates: 75832
+  aggravating: 33872
+  aggravation: 37805
+  aggregate: 6836
+  aggregated: 28760
+  aggregates: 27765
+  aggregating: 46566
+  aggregation: 16891
+  aggregations: 69124
+  aggression: 11815
+  aggressive: 6303
+  aggressively: 19996
+  aggressiveness: 51121
+  aggressor: 37985
+  aggressors: 70526
+  aggrieved: 30364
+  aggro: 56728
+scored_words:
+  aggrandize: 198927
+  aggrandizing: 152776
+  aggravations: 250614
+  aggravator: 260072
+  aggregative: 259687
+  aggressions: 100638
+not_scored_words:
+- aggrade
+- aggraded
+- aggrades
+- aggrading
+- aggrandized
+- aggrandizer
+- aggrandizes
+- aggravatingly
+- aggress
+- aggressed
+- aggresses
+- aggressing
+- aggrieve
+- aggrievedly
+- aggrievement
+- aggrieves
+- aggrieving

@@ -1,0 +1,35 @@
+---
+pattern: _uals
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 25
+score: 1003224
+score_per_word: 52801
+hi_scored_words:
+  accruals: 75140
+  annuals: 36380
+  bisexuals: 44609
+  casuals: 54994
+  duals: 62565
+  equals: 8327
+  heterosexuals: 66210
+  homosexuals: 19800
+  individuals: 1631
+  intellectuals: 25987
+  manuals: 13384
+  residuals: 30940
+  rituals: 22716
+  spirituals: 65533
+  transsexuals: 33029
+  victuals: 76689
+  visuals: 18803
+scored_words:
+  audiovisuals: 188924
+  bilinguals: 157563
+not_scored_words:
+- coequals
+- monolinguals
+- nonintellectuals
+- nonspirituals
+- perpetuals
+- rorquals

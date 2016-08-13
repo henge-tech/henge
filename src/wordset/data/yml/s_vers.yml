@@ -1,0 +1,30 @@
+---
+pattern: s_vers
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 20
+score: 1048146
+score_per_word: 69876
+hi_scored_words:
+  savers: 18423
+  screwdrivers: 45777
+  servers: 2245
+  severs: 77621
+  shavers: 40318
+  shivers: 39146
+  silvers: 51151
+  slipcovers: 95199
+  slivers: 83702
+  solvers: 39395
+  spillovers: 75872
+scored_words:
+  skydivers: 127561
+  slavers: 126582
+  sleepovers: 105548
+  stopovers: 119606
+not_scored_words:
+- salvers
+- semiquavers
+- skivers
+- slipovers
+- stovers

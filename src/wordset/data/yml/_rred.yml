@@ -1,0 +1,60 @@
+---
+pattern: _rred
+hi_scored_words_count: 30
+scored_words_count: 11
+total_words: 50
+score: 3210509
+score_per_word: 78305
+hi_scored_words:
+  abhorred: 70124
+  averred: 94556
+  barred: 22180
+  blurred: 16652
+  charred: 42725
+  concurred: 29546
+  conferred: 12734
+  debarred: 72792
+  deferred: 10158
+  deterred: 43081
+  disbarred: 99534
+  erred: 29172
+  incurred: 15695
+  inferred: 15174
+  interred: 38148
+  jarred: 60088
+  marred: 29112
+  occurred: 2166
+  preferred: 2803
+  purred: 88517
+  recurred: 77219
+  referred: 2001
+  scarred: 27138
+  slurred: 70895
+  spurred: 26125
+  starred: 19795
+  stirred: 13650
+  tarred: 74046
+  transferred: 4044
+  undeterred: 68019
+scored_words:
+  bestirred: 161119
+  demurred: 114416
+  disinterred: 135918
+  furred: 110958
+  parred: 284463
+  shirred: 160299
+  sparred: 178058
+  unbarred: 169147
+  unmarred: 310948
+  warred: 156074
+  whirred: 251220
+not_scored_words:
+- Jarred
+- birred
+- burred
+- chirred
+- churred
+- costarred
+- reoccurred
+- unscarred
+- unstirred

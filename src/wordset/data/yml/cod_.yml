@@ -1,0 +1,63 @@
+---
+pattern: cod_
+hi_scored_words_count: 21
+scored_words_count: 16
+total_words: 53
+score: 3316645
+score_per_word: 89639
+hi_scored_words:
+  cod: 8517
+  coda: 29026
+  code: 1613
+  coded: 10037
+  codeine: 24928
+  codename: 37778
+  codenamed: 85393
+  coder: 29945
+  coders: 35006
+  codes: 2726
+  codeword: 78021
+  codex: 24396
+  codfish: 83079
+  codicil: 82420
+  codification: 43879
+  codified: 28287
+  codify: 63486
+  coding: 5495
+  codon: 37470
+  codons: 65333
+  cods: 87022
+scored_words:
+  codas: 265969
+  codding: 300902
+  coddle: 110044
+  coddled: 141259
+  coddling: 139814
+  codebreaker: 142752
+  codependency: 121514
+  codependent: 142123
+  codewords: 102670
+  codger: 119627
+  codices: 102366
+  codifies: 149076
+  codifying: 117255
+  codling: 101926
+  codpiece: 144362
+  codswallop: 251129
+not_scored_words:
+- COD
+- Cod
+- Cody
+- codded
+- coddler
+- coddles
+- codeclination
+- codependents
+- codfishes
+- codgers
+- codicillary
+- codicils
+- codifications
+- codifier
+- codifiers
+- codpieces

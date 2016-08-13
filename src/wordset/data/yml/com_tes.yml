@@ -1,0 +1,24 @@
+---
+pattern: com_tes
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 626627
+score_per_word: 62662
+hi_scored_words:
+  commemorates: 49289
+  communicates: 23494
+  commutes: 52770
+  compensates: 48391
+  competes: 29882
+  completes: 14272
+  complicates: 46162
+  composites: 20857
+  computes: 30792
+scored_words:
+  compotes: 310718
+not_scored_words:
+- commentates
+- comminutes
+- commiserates
+- commutates

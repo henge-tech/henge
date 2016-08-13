@@ -1,0 +1,32 @@
+---
+pattern: co_ded
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 22
+score: 1334336
+score_per_word: 66716
+hi_scored_words:
+  coded: 10037
+  coincided: 32914
+  collided: 42636
+  commanded: 8832
+  commended: 22565
+  compounded: 21264
+  comprehended: 48770
+  conceded: 20865
+  concluded: 3736
+  confided: 37660
+  confounded: 29780
+  contended: 25091
+  corded: 41321
+  corresponded: 33748
+  corroded: 67576
+scored_words:
+  coldblooded: 115273
+  colluded: 152550
+  colonnaded: 249255
+  condescended: 128870
+  countermanded: 241593
+not_scored_words:
+- codded
+- corraded

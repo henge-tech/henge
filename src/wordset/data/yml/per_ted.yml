@@ -1,0 +1,26 @@
+---
+pattern: per_ted
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 760741
+score_per_word: 63395
+hi_scored_words:
+  perfected: 21903
+  perforated: 23286
+  permeated: 53311
+  permitted: 2715
+  perpetrated: 27248
+  perpetuated: 46860
+  persecuted: 24302
+  persisted: 17837
+  perverted: 20769
+scored_words:
+  percolated: 189757
+  permuted: 142990
+  personated: 189763
+not_scored_words:
+- perambulated
+- peregrinated
+- perennated
+- perorated

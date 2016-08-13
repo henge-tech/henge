@@ -1,0 +1,55 @@
+---
+pattern: s_ors
+hi_scored_words_count: 26
+scored_words_count: 6
+total_words: 45
+score: 2129966
+score_per_word: 66561
+hi_scored_words:
+  sailors: 10311
+  saviors: 79833
+  scissors: 12071
+  sculptors: 36672
+  sectors: 12195
+  selectors: 35427
+  semiconductors: 17240
+  senators: 7838
+  seniors: 9266
+  sensors: 6658
+  separators: 43360
+  simulators: 29870
+  solicitors: 18588
+  spectators: 16609
+  speculators: 43553
+  splendors: 92545
+  sponsors: 11810
+  subcontractors: 30704
+  successors: 17126
+  suitors: 49249
+  superconductors: 51025
+  superiors: 27743
+  supervisors: 18192
+  suppressors: 55704
+  surveyors: 24154
+  survivors: 7952
+scored_words:
+  savors: 173616
+  scintillators: 167500
+  seigniors: 304090
+  servitors: 187595
+  servomotors: 253311
+  stators: 278159
+not_scored_words:
+- sartors
+- seafloors
+- senors
+- signors
+- spoors
+- stentors
+- stertors
+- stridors
+- stupors
+- subeditors
+- succors
+- sudors
+- suspensors

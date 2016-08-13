@@ -1,0 +1,32 @@
+---
+pattern: b_one
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 940008
+score_per_word: 72308
+hi_scored_words:
+  backbone: 12663
+  baritone: 27868
+  begone: 52554
+  birthstone: 43516
+  bloodstone: 76889
+  bluestone: 62487
+  bone: 2921
+  brimstone: 37855
+  brownstone: 55232
+  bygone: 35234
+scored_words:
+  benzophenone: 192535
+  breastbone: 109824
+  butanone: 230430
+not_scored_words:
+- Blackstone
+- Boone
+- barbitone
+- barytone
+- bilestone
+- bondstone
+- buhrstone
+- burrstone
+- burstone

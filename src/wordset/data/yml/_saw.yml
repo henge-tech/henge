@@ -1,0 +1,29 @@
+---
+pattern: _saw
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 19
+score: 601941
+score_per_word: 60194
+hi_scored_words:
+  bandsaw: 86218
+  chainsaw: 22970
+  foresaw: 44290
+  hacksaw: 59050
+  jigsaw: 17865
+  oversaw: 36980
+  saw: 661
+  seesaw: 77342
+scored_words:
+  buzzsaw: 124876
+  handsaw: 131689
+not_scored_words:
+- Chickasaw
+- Warsaw
+- backsaw
+- bucksaw
+- fretsaw
+- pitsaw
+- quartersaw
+- ripsaw
+- whipsaw

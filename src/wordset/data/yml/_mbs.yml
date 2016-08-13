@@ -1,0 +1,46 @@
+---
+pattern: _mbs
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 36
+score: 2018178
+score_per_word: 100908
+hi_scored_words:
+  bombs: 9730
+  breadcrumbs: 46165
+  catacombs: 42098
+  climbs: 22401
+  combs: 22495
+  crumbs: 22843
+  lambs: 16050
+  limbs: 9971
+  succumbs: 84026
+  thumbs: 7751
+  tombs: 27829
+scored_words:
+  coulombs: 233380
+  coxcombs: 243506
+  firebombs: 251683
+  forelimbs: 177590
+  honeycombs: 167590
+  jambs: 125416
+  numbs: 164095
+  plumbs: 213899
+  wombs: 129660
+not_scored_words:
+- Combs
+- abcoulombs
+- backcombs
+- benumbs
+- cockscombs
+- corymbs
+- currycombs
+- dithyrambs
+- doorjambs
+- entombs
+- hecatombs
+- iambs
+- letterbombs
+- mailbombs
+- rhombs
+- rhumbs

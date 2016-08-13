@@ -1,0 +1,46 @@
+---
+pattern: _ano
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 36
+score: 783483
+score_per_word: 60267
+hi_scored_words:
+  beano: 46648
+  boliviano: 65601
+  guano: 51584
+  llano: 52711
+  oregano: 33252
+  piano: 2859
+  pompano: 45814
+  solano: 35652
+  soprano: 18919
+  volcano: 10688
+scored_words:
+  altiplano: 120935
+  paisano: 181707
+  parmigiano: 117113
+not_scored_words:
+- Altiplano
+- Americano
+- Bolzano
+- Capistrano
+- Cebuano
+- Chicano
+- Cyrano
+- Delano
+- Drano
+- Ilocano
+- Kano
+- Luciano
+- Marciano
+- Mariano
+- Marrano
+- Nagano
+- Pisano
+- Plano
+- Romano
+- Serrano
+- Talcahuano
+- Verrazano
+- Verrazzano

@@ -1,0 +1,23 @@
+---
+pattern: g_ee
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 584890
+score_per_word: 53171
+hi_scored_words:
+  galilee: 30319
+  gee: 12384
+  ghee: 52327
+  glee: 23060
+  goatee: 56467
+  grantee: 29129
+  gree: 43791
+  guarantee: 3298
+  gumtree: 67421
+scored_words:
+  garnishee: 119840
+  grandee: 146854
+not_scored_words:
+- Galilee
+- greegree

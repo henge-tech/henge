@@ -1,0 +1,42 @@
+---
+pattern: re_h
+hi_scored_words_count: 19
+scored_words_count: 5
+total_words: 32
+score: 1591466
+score_per_word: 66311
+hi_scored_words:
+  reach: 1183
+  rebirth: 24664
+  reddish: 19527
+  redfish: 81268
+  reestablish: 48228
+  refinish: 89669
+  refresh: 9115
+  refurbish: 55808
+  regrowth: 52059
+  rehash: 54719
+  relaunch: 50164
+  relinquish: 28229
+  relish: 18879
+  rematch: 42159
+  replenish: 37046
+  reproach: 25178
+  republish: 60295
+  research: 1061
+  retouch: 84774
+scored_words:
+  reattach: 102715
+  regolith: 109328
+  retch: 124351
+  retrench: 190324
+  reweigh: 280723
+not_scored_words:
+- Rebekah
+- Reich
+- refurnish
+- rephotograph
+- restitch
+- reteach
+- revarnish
+- rewash

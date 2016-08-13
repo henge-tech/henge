@@ -1,0 +1,44 @@
+---
+pattern: bu_ers
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 34
+score: 1871498
+score_per_word: 81369
+hi_scored_words:
+  buccaneers: 26356
+  buffers: 18570
+  buggers: 62885
+  builders: 6891
+  bulldozers: 55383
+  bumpers: 33537
+  bunkers: 34942
+  burgers: 23475
+  burghers: 97365
+  burners: 20225
+  busters: 30104
+  bustiers: 51402
+  butchers: 24520
+  butlers: 66341
+  butters: 44437
+  buyers: 6384
+  buzzers: 79374
+scored_words:
+  bubblers: 161135
+  bucklers: 217888
+  burgomasters: 166537
+  burnishers: 305174
+  buskers: 113159
+  butterfingers: 225414
+not_scored_words:
+- Butterfingers
+- buglers
+- bullfighters
+- bullshitters
+- bumblers
+- bummers
+- bunglers
+- bunters
+- burrowers
+- bushmasters
+- bushwhackers

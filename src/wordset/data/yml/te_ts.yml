@@ -1,0 +1,43 @@
+---
+pattern: te_ts
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 33
+score: 1412688
+score_per_word: 74352
+hi_scored_words:
+  teapots: 49965
+  teats: 83780
+  technocrats: 91749
+  technologists: 34115
+  temperaments: 68421
+  tempts: 68958
+  tenants: 8197
+  tenements: 56670
+  tenets: 25080
+  tents: 8298
+  terrorists: 5855
+  testaments: 51014
+  tests: 2432
+  texts: 3889
+scored_words:
+  tealights: 180387
+  telecasts: 111767
+  teleosts: 213929
+  televangelists: 246605
+  tempests: 101577
+not_scored_words:
+- TELNETs
+- Tebets
+- Tets
+- Tevets
+- teacarts
+- teguments
+- telegraphists
+- telepathists
+- telephonists
+- teletexts
+- tenderfoots
+- terabits
+- tercets
+- termagants

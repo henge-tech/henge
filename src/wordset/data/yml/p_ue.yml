@@ -1,0 +1,30 @@
+---
+pattern: p_ue
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 707782
+score_per_word: 54444
+hi_scored_words:
+  pedagogue: 74727
+  physique: 21217
+  picaresque: 83646
+  picturesque: 12157
+  pique: 27451
+  plague: 9391
+  plaque: 17432
+  pratique: 65678
+  prologue: 21747
+  pursue: 4634
+scored_words:
+  pirogue: 157547
+  plastique: 106137
+  prorogue: 106018
+not_scored_words:
+- Palenque
+- Pinteresque
+- Prague
+- Purdue
+- perique
+- pishogue
+- pulque

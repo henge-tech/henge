@@ -1,0 +1,24 @@
+---
+pattern: r_me
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 536442
+score_per_word: 53644
+hi_scored_words:
+  ragtime: 34489
+  regime: 6310
+  rename: 17706
+  resume: 3897
+  rhizome: 47172
+  rhyme: 16104
+  ribosome: 49110
+  rime: 44949
+scored_words:
+  raceme: 189283
+  radome: 127422
+not_scored_words:
+- Rome
+- reassume
+- reinflame
+- relume

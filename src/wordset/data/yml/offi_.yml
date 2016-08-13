@@ -1,0 +1,44 @@
+---
+pattern: offi_
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 34
+score: 1755938
+score_per_word: 83616
+hi_scored_words:
+  office: 256
+  officeholders: 89258
+  officer: 1067
+  officers: 1489
+  offices: 2329
+  official: 641
+  officialdom: 92862
+  officially: 5992
+  officials: 2503
+  officiant: 89213
+  officiate: 51766
+  officiated: 63704
+  officiating: 27507
+  officious: 83918
+  offing: 54526
+scored_words:
+  officeholder: 150847
+  officiants: 117917
+  officiates: 295931
+  officiously: 181368
+  officiousness: 223116
+  offish: 219728
+not_scored_words:
+- OfficeMax
+- officialese
+- officialeses
+- officialism
+- officiary
+- officiation
+- officiations
+- officiator
+- officiators
+- officinal
+- offings
+- offishly
+- offishness

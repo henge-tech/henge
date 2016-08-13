@@ -1,0 +1,44 @@
+---
+pattern: th_l
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 34
+score: 1461488
+score_per_word: 73074
+hi_scored_words:
+  thankful: 9596
+  theatrical: 15585
+  theological: 8081
+  theoretical: 6198
+  theosophical: 63906
+  thermal: 15440
+  they'll: 3845
+  thimerosal: 89670
+  thiol: 75578
+  thoughtful: 8778
+  thrall: 43492
+  thrill: 9486
+  thumbnail: 11520
+scored_words:
+  theol: 123989
+  therapeutical: 150248
+  therewithal: 168413
+  thermochemical: 139406
+  thermodynamical: 194947
+  thill: 180529
+  thymol: 142781
+not_scored_words:
+- thanatological
+- thaumaturgical
+- theistical
+- thermel
+- thesaural
+- theurgical
+- thimbleful
+- thiouracil
+- thrasonical
+- threnodial
+- thumbstall
+- thunderpeal
+- thundersquall
+- thyroidal

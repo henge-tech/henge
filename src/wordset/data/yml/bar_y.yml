@@ -1,0 +1,34 @@
+---
+pattern: bar_y
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 24
+score: 714017
+score_per_word: 64910
+hi_scored_words:
+  barbarity: 82707
+  barely: 4887
+  barfly: 68610
+  barley: 11369
+  barmy: 82001
+  barney: 12236
+  baronetcy: 47623
+  barony: 43230
+scored_words:
+  barbarously: 120383
+  barberry: 107957
+  barratry: 133014
+not_scored_words:
+- Barbary
+- Barclay
+- Bareilly
+- Barkley
+- Barnaby
+- Barney
+- Barnsley
+- Barry
+- barbarically
+- barefacedly
+- barometrically
+- barometry
+- baroquely

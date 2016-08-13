@@ -1,0 +1,35 @@
+---
+pattern: sour_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 25
+score: 1048689
+score_per_word: 80668
+hi_scored_words:
+  sour: 8393
+  source: 757
+  sourced: 20923
+  sources: 1419
+  sourcing: 12977
+  sourdough: 49850
+  soured: 68213
+  sours: 98626
+scored_words:
+  souring: 176652
+  sourly: 173713
+  sourness: 170942
+  sourpuss: 120106
+  soursop: 146118
+not_scored_words:
+- Sourceforge
+- sourball
+- sourballs
+- sourceless
+- sourdoughs
+- sourer
+- sourest
+- sourish
+- sourpusses
+- soursops
+- sourwood
+- sourwoods

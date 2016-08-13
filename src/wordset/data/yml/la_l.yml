@@ -1,0 +1,39 @@
+---
+pattern: la_l
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 29
+score: 1175040
+score_per_word: 69120
+hi_scored_words:
+  label: 4813
+  labial: 62646
+  lachrymal: 73590
+  lackadaisical: 97078
+  lacrimal: 68987
+  landfall: 40539
+  landfill: 13600
+  lapel: 29648
+  larval: 31908
+  laryngeal: 39888
+  lateral: 8814
+  latitudinal: 92316
+  laurel: 9866
+  lawful: 10213
+scored_words:
+  lactational: 304752
+  lacteal: 149622
+  lambswool: 136760
+not_scored_words:
+- Laurel
+- Laval
+- labiodental
+- labionasal
+- lacrymal
+- lacunal
+- lagoonal
+- laical
+- lamellirostral
+- laminal
+- lapful
+- lavatorial

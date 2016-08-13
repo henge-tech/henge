@@ -1,0 +1,27 @@
+---
+pattern: c_nary
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 787899
+score_per_word: 71627
+hi_scored_words:
+  canary: 14916
+  cardiopulmonary: 42655
+  cautionary: 41601
+  centenary: 22475
+  concessionary: 69045
+  confectionary: 74346
+  coronary: 20593
+  culinary: 12890
+scored_words:
+  catenary: 104138
+  coevolutionary: 268650
+  counterrevolutionary: 116590
+not_scored_words:
+- Canary
+- cessionary
+- concretionary
+- concubinary
+- consuetudinary
+- coparcenary

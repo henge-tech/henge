@@ -1,0 +1,68 @@
+---
+pattern: tel_s
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 58
+score: 1825128
+score_per_word: 91256
+hi_scored_words:
+  telecommunications: 10063
+  telecoms: 23275
+  telegrams: 43342
+  telegraphs: 92131
+  telekinesis: 94341
+  telemarketers: 65002
+  telephones: 12620
+  telesales: 65791
+  telescopes: 18470
+  televisions: 19506
+  tellers: 43598
+  tells: 2272
+  tels: 91324
+scored_words:
+  telecasts: 111767
+  telecommuters: 166906
+  teleconferences: 142527
+  teleosts: 213929
+  telesis: 157524
+  televangelists: 246605
+  teleworkers: 204135
+not_scored_words:
+- TELNETs
+- Telegonus
+- Telemachus
+- Tellus
+- Telugus
+- telangiectasis
+- telecasters
+- telecommutes
+- telegraphers
+- telegrapheses
+- telegraphists
+- telemechanics
+- telemeters
+- telemetries
+- telencephalons
+- teleologies
+- telepathists
+- telephoners
+- telephonists
+- telephotographs
+- telephotos
+- teleplays
+- teleprinters
+- teleprompters
+- teletexts
+- telethons
+- teletypes
+- teletypewriters
+- televises
+- telexes
+- telfers
+- tellies
+- telltales
+- tellurians
+- tellurides
+- telophases
+- telpherages
+- telphers

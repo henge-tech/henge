@@ -1,0 +1,47 @@
+---
+pattern: rec_tion
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 37
+score: 2401198
+score_per_word: 77458
+hi_scored_words:
+  recapitulation: 68261
+  reception: 3344
+  recirculation: 59760
+  recitation: 26882
+  reclamation: 22225
+  reclassification: 52604
+  recognition: 2664
+  recollection: 17146
+  recombination: 24711
+  recommendation: 4457
+  reconciliation: 11299
+  reconfiguration: 41903
+  reconnection: 64287
+  reconsideration: 32757
+  reconstitution: 50759
+  reconstruction: 7805
+  recreation: 4760
+  recrystallization: 87908
+  rectification: 51610
+  recuperation: 73028
+scored_words:
+  recalculation: 111166
+  recalibration: 118347
+  recantation: 176121
+  recapitalization: 106685
+  reciprocation: 129510
+  recolonization: 223413
+  recompilation: 144196
+  recomputation: 224004
+  recondition: 155551
+  reconfirmation: 203229
+  recrimination: 100806
+not_scored_words:
+- Reconstruction
+- recaption
+- reconception
+- recondensation
+- reconsecration
+- recontamination

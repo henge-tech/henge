@@ -1,0 +1,54 @@
+---
+pattern: _pts
+hi_scored_words_count: 26
+scored_words_count: 11
+total_words: 44
+score: 2807360
+score_per_word: 75874
+hi_scored_words:
+  accepts: 6236
+  adapts: 38004
+  adepts: 94162
+  adopts: 20373
+  attempts: 3247
+  concepts: 6529
+  conscripts: 64700
+  corrupts: 54625
+  crypts: 88457
+  disrupts: 46617
+  encrypts: 70950
+  erupts: 48749
+  excerpts: 20152
+  exempts: 62654
+  intercepts: 46008
+  interrupts: 26162
+  manuscripts: 10973
+  opts: 39419
+  precepts: 29244
+  prompts: 18635
+  pts: 8075
+  receipts: 9218
+  scripts: 4633
+  subscripts: 54097
+  tempts: 68958
+  transcripts: 19258
+scored_words:
+  bankrupts: 140069
+  decrypts: 115079
+  excepts: 153393
+  percepts: 151606
+  postscripts: 234618
+  preempts: 142349
+  sculpts: 155817
+  septs: 231780
+  superscripts: 116060
+  transepts: 236598
+  typescripts: 169856
+not_scored_words:
+- Copts
+- irrupts
+- prescripts
+- readapts
+- readopts
+- reattempts
+- rescripts

@@ -1,0 +1,40 @@
+---
+pattern: b_ble
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 30
+score: 2373590
+score_per_word: 98899
+hi_scored_words:
+  babble: 27282
+  bauble: 83181
+  bearable: 46875
+  believable: 25141
+  bible: 3905
+  billable: 64425
+  biodegradable: 37973
+  bobble: 31548
+  bookable: 81217
+  bramble: 44896
+  breakable: 67470
+  breathable: 34374
+  bubble: 6938
+  bumble: 30749
+scored_words:
+  bailable: 244401
+  bankable: 118140
+  beatable: 167071
+  bendable: 102473
+  biddable: 309952
+  bistable: 131437
+  blamable: 205172
+  bridgeable: 160523
+  burble: 165000
+  burnable: 183447
+not_scored_words:
+- Bible
+- bedabble
+- bedrabble
+- blameable
+- brabble
+- bribable

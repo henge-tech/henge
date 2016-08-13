@@ -1,0 +1,27 @@
+---
+pattern: min_es
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 17
+score: 622711
+score_per_word: 56610
+hi_scored_words:
+  mines: 5745
+  mingles: 91877
+  miniatures: 20476
+  minibuses: 76924
+  minimizes: 28485
+  miniseries: 34585
+  ministries: 14877
+  minorities: 14181
+  minuses: 91292
+  minutes: 486
+scored_words:
+  minces: 243783
+not_scored_words:
+- miniaturizes
+- minibikes
+- minifies
+- minifloppies
+- minuscules
+- minxes

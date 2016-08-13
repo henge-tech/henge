@@ -1,0 +1,48 @@
+---
+pattern: s_ches
+hi_scored_words_count: 11
+scored_words_count: 10
+total_words: 38
+score: 2179284
+score_per_word: 103775
+hi_scored_words:
+  sandwiches: 12317
+  scratches: 18373
+  searches: 6488
+  sketches: 10101
+  snatches: 41632
+  speeches: 5602
+  starches: 62426
+  stitches: 17957
+  stretches: 13162
+  swatches: 49288
+  switches: 11599
+scored_words:
+  scorches: 246405
+  scotches: 234979
+  screeches: 119880
+  slouches: 241942
+  smooches: 125172
+  snitches: 137519
+  splotches: 159515
+  stagecoaches: 267403
+  stomachaches: 271341
+  stopwatches: 126183
+not_scored_words:
+- Sasquatches
+- Scotches
+- schottisches
+- scrunches
+- slowcoaches
+- smartwatches
+- smirches
+- smutches
+- sonsofbitches
+- soutaches
+- squelches
+- squinches
+- stanches
+- staunches
+- stenches
+- subbranches
+- synecdoches

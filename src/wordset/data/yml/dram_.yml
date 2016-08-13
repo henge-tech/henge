@@ -1,0 +1,35 @@
+---
+pattern: dram_
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 25
+score: 1448054
+score_per_word: 85179
+hi_scored_words:
+  dram: 22040
+  drama: 2579
+  dramas: 16515
+  dramatic: 4115
+  dramatically: 10422
+  dramatics: 69620
+  dramatist: 38824
+  dramatists: 62731
+  dramatization: 69194
+  dramatize: 96296
+  dramatized: 73154
+  drams: 79126
+scored_words:
+  dramatizations: 194695
+  dramatizes: 148569
+  dramatizing: 159370
+  dramaturgical: 294965
+  dramaturgy: 105839
+not_scored_words:
+- Dramamine
+- Dramamines
+- Drambuie
+- dramaturge
+- dramaturgic
+- dramaturgically
+- dramaturgies
+- dramshop

@@ -1,0 +1,24 @@
+---
+pattern: ren_ed
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 793496
+score_per_word: 66124
+hi_scored_words:
+  renamed: 10068
+  rendered: 4980
+  renegotiated: 86661
+  renewed: 6526
+  renounced: 43910
+  renovated: 17633
+  renowned: 7867
+  rented: 11763
+  renumbered: 41395
+scored_words:
+  rendezvoused: 265059
+  reneged: 107864
+  renominated: 189770
+not_scored_words:
+- renationalized
+- renegaded

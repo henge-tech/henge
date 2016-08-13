@@ -1,0 +1,28 @@
+---
+pattern: a_sh
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 18
+score: 647811
+score_per_word: 49831
+hi_scored_words:
+  abolish: 18806
+  accomplish: 5565
+  admonish: 67726
+  afresh: 40240
+  airbrush: 34506
+  amateurish: 62309
+  ambush: 19385
+  angelfish: 87189
+  anguish: 16530
+  ash: 5963
+  astonish: 51382
+  awash: 43489
+scored_words:
+  abash: 194721
+not_scored_words:
+- Amish
+- Aquafresh
+- aguish
+- apish
+- archerfish

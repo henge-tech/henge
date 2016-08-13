@@ -1,0 +1,44 @@
+---
+pattern: con_ers
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 34
+score: 2009216
+score_per_word: 95676
+hi_scored_words:
+  condensers: 60427
+  conditioners: 25950
+  confectioners: 86755
+  confers: 32537
+  congeners: 87012
+  conifers: 49881
+  conquers: 49909
+  considers: 6625
+  consumers: 6514
+  containers: 6775
+  contenders: 27833
+  controllers: 8111
+  converters: 18187
+scored_words:
+  concealers: 123902
+  concertgoers: 267629
+  conformers: 175321
+  congers: 196910
+  conkers: 141723
+  conveners: 174434
+  conventioneers: 254430
+  conveyancers: 208351
+not_scored_words:
+- conceivers
+- concenters
+- concertmasters
+- concessioners
+- condemners
+- coneflowers
+- conferrers
+- confiders
+- confusers
+- conjoiners
+- conjurers
+- connivers
+- contrivers

@@ -1,0 +1,45 @@
+---
+pattern: gang_
+hi_scored_words_count: 11
+scored_words_count: 12
+total_words: 35
+score: 2364786
+score_per_word: 102816
+hi_scored_words:
+  gang: 3408
+  gangland: 62185
+  ganglia: 32121
+  ganglion: 35320
+  gangrene: 51737
+  gangs: 16042
+  gangsta: 23415
+  gangstas: 98392
+  gangster: 20727
+  gangsters: 30822
+  gangway: 63771
+scored_words:
+  gangbusters: 164094
+  ganged: 111286
+  ganger: 108788
+  ganging: 111032
+  gangling: 134820
+  ganglionic: 146551
+  gangplank: 190138
+  gangrel: 195218
+  gangrenous: 189110
+  gangsterism: 262830
+  gangue: 174142
+  gangways: 138837
+not_scored_words:
+- Ganges
+- Gangetic
+- Gangtok
+- gangboard
+- gangboards
+- gangers
+- gangplanks
+- gangplow
+- gangrened
+- gangrenes
+- gangrening
+- gangsterdom

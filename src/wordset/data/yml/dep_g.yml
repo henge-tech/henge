@@ -1,0 +1,36 @@
+---
+pattern: dep_g
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 26
+score: 1092167
+score_per_word: 72811
+hi_scored_words:
+  departing: 13337
+  depending: 3404
+  depicting: 19870
+  depleting: 47581
+  deploying: 25020
+  depositing: 37727
+  deprecating: 65414
+  depreciating: 93378
+  depressing: 13938
+  depriving: 39378
+scored_words:
+  deploring: 146174
+  depolarizing: 126013
+  deporting: 116448
+  deposing: 138325
+  deprogramming: 206160
+not_scored_words:
+- departmentalizing
+- depersonalizing
+- deplaning
+- depluming
+- depoliticizing
+- deponing
+- depopulating
+- depraving
+- depressurizing
+- deputing
+- deputizing

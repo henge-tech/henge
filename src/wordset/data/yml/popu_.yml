@@ -1,0 +1,36 @@
+---
+pattern: popu_
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 26
+score: 1211411
+score_per_word: 57686
+hi_scored_words:
+  populace: 19317
+  popular: 683
+  popularity: 4172
+  popularization: 92848
+  popularize: 76348
+  popularized: 44926
+  popularly: 32163
+  populate: 29664
+  populated: 14087
+  populating: 65096
+  population: 907
+  populations: 7038
+  populism: 62341
+  populist: 32643
+  populous: 22642
+  popup: 19266
+  popups: 42332
+scored_words:
+  popularizer: 285373
+  popularizing: 121063
+  populates: 112926
+  populists: 125576
+not_scored_words:
+- populaces
+- popularizations
+- popularizes
+- populistic
+- populousness

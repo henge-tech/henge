@@ -1,0 +1,48 @@
+---
+pattern: spee_
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 38
+score: 2577283
+score_per_word: 95454
+hi_scored_words:
+  speech: 1376
+  speeches: 5602
+  speechless: 23890
+  speed: 1028
+  speedball: 68386
+  speedboat: 71865
+  speeder: 73654
+  speedier: 93563
+  speedily: 24482
+  speeding: 14861
+  speedometer: 48600
+  speeds: 10390
+  speedster: 67873
+  speedup: 55055
+  speedway: 16567
+  speedwell: 81897
+  speedy: 10705
+scored_words:
+  speechifying: 299761
+  speechwriter: 107594
+  speechwriters: 225571
+  speedboats: 154328
+  speeders: 111564
+  speediest: 199094
+  speedometers: 193463
+  speedsters: 231702
+  speedups: 155810
+  speedways: 228602
+not_scored_words:
+- Speedwriting
+- Speer
+- speechified
+- speechifies
+- speechify
+- speechlessly
+- speechlessness
+- speechmaker
+- speechmakers
+- speechmaking
+- speediness

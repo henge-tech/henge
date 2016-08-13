@@ -1,0 +1,78 @@
+---
+pattern: m_les
+hi_scored_words_count: 26
+scored_words_count: 14
+total_words: 68
+score: 3699646
+score_per_word: 92491
+hi_scored_words:
+  macromolecules: 46261
+  males: 5082
+  manholes: 81065
+  mantles: 72863
+  maples: 40029
+  marbles: 19291
+  marseilles: 28630
+  measles: 20199
+  meddles: 95640
+  micelles: 81547
+  miles: 522
+  mingles: 91877
+  miracles: 11091
+  missiles: 12418
+  mobiles: 22260
+  modules: 4034
+  molecules: 9660
+  moles: 32366
+  motorcycles: 13723
+  muggles: 86616
+  mules: 21494
+  multiples: 31634
+  mumbles: 59617
+  muscles: 5478
+  musicales: 86948
+  muzzles: 90982
+scored_words:
+  macules: 285423
+  manacles: 123888
+  mandibles: 114583
+  mangles: 143070
+  martingales: 164523
+  middles: 115759
+  mishandles: 266782
+  monopoles: 122479
+  monosyllables: 212628
+  mottles: 253378
+  movables: 195264
+  muddles: 221068
+  muffles: 245139
+  myrtles: 164335
+not_scored_words:
+- Manizales
+- Marseilles
+- Matabeles
+- Mephistopheles
+- Mesdemoiselles
+- Miles
+- Morales
+- Moselles
+- Myles
+- mackles
+- mademoiselles
+- manhandles
+- mayapples
+- maypoles
+- megacycles
+- megajoules
+- merles
+- mesdemoiselles
+- micropyles
+- minuscules
+- misfiles
+- misrules
+- mizzles
+- mollycoddles
+- monocles
+- monocycles
+- motiles
+- moveables

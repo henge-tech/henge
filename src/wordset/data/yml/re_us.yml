@@ -1,0 +1,28 @@
+---
+pattern: re_us
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 660951
+score_per_word: 60086
+hi_scored_words:
+  rebellious: 29092
+  rebus: 45826
+  rectus: 77550
+  refocus: 56223
+  regulus: 59268
+  religious: 1233
+  rendezvous: 15214
+  repetitious: 77072
+  retrovirus: 72039
+scored_words:
+  redivivus: 124636
+  resinous: 102798
+not_scored_words:
+- Regiomontanus
+- Regulus
+- Remus
+- recidivous
+- reseaus
+- resiniferous
+- retiarius

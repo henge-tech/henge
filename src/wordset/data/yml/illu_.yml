@@ -1,0 +1,68 @@
+---
+pattern: illu_
+hi_scored_words_count: 25
+scored_words_count: 11
+total_words: 58
+score: 2605966
+score_per_word: 72387
+hi_scored_words:
+  illuminate: 23117
+  illuminated: 11075
+  illuminates: 42635
+  illuminati: 35356
+  illuminating: 22987
+  illumination: 12575
+  illuminations: 43385
+  illuminator: 57031
+  illumined: 85714
+  illus: 21558
+  illusion: 8172
+  illusionist: 68326
+  illusions: 14553
+  illusive: 81133
+  illusory: 37846
+  illustrate: 7177
+  illustrated: 3939
+  illustrates: 9817
+  illustrating: 19592
+  illustration: 4812
+  illustrations: 8103
+  illustrative: 20259
+  illustrator: 16363
+  illustrators: 32403
+  illustrious: 19914
+scored_words:
+  illume: 238800
+  illuminance: 108790
+  illuminant: 140509
+  illuminants: 265752
+  illuminative: 126840
+  illumine: 127043
+  illumines: 196662
+  illumining: 261798
+  illusionary: 129491
+  illusionists: 190497
+  illust: 111942
+not_scored_words:
+- Illuminati
+- illumed
+- illumes
+- illuminable
+- illuminances
+- illuminatingly
+- illuming
+- illuminism
+- illuminist
+- illuminometer
+- illusional
+- illusionism
+- illusionistic
+- illusively
+- illusiveness
+- illusorily
+- illusoriness
+- illustrational
+- illustratively
+- illustriously
+- illustriousness
+- illuviation

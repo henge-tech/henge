@@ -1,0 +1,37 @@
+---
+pattern: exp_es
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 27
+score: 1006058
+score_per_word: 59179
+hi_scored_words:
+  expanses: 67659
+  expatriates: 40188
+  expectancies: 77227
+  expenditures: 5879
+  expenses: 2356
+  experiences: 2622
+  expires: 15319
+  explodes: 35101
+  explores: 19701
+  explosives: 16601
+  exposes: 21051
+  exposures: 18912
+  expresses: 12717
+scored_words:
+  expedites: 155634
+  expendables: 142233
+  expletives: 101774
+  explicates: 271084
+not_scored_words:
+- expatiates
+- expectorates
+- expediences
+- expediencies
+- expiates
+- expostulates
+- expressages
+- expropriates
+- expunges
+- expurgates

@@ -1,0 +1,31 @@
+---
+pattern: tu_t
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 21
+score: 995052
+score_per_word: 76542
+hi_scored_words:
+  tuft: 49694
+  tugboat: 51507
+  tumult: 37395
+  turbot: 76064
+  turbulent: 14344
+  turnabout: 92786
+  turnout: 16376
+  turret: 22714
+  tut: 21340
+scored_words:
+  tucket: 258654
+  tumescent: 128716
+  turbojet: 117973
+  turncoat: 107489
+not_scored_words:
+- Turgot
+- Tut
+- tubbiest
+- tumefacient
+- turbit
+- turgent
+- turgescent
+- turnspit

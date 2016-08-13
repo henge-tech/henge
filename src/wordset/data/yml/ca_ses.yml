@@ -1,0 +1,41 @@
+---
+pattern: ca_ses
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 31
+score: 1481972
+score_per_word: 105855
+hi_scored_words:
+  calluses: 72266
+  campuses: 11427
+  canvases: 43796
+  carcasses: 37669
+  caresses: 60118
+  cases: 656
+  caucuses: 52730
+  causes: 1988
+scored_words:
+  cabooses: 218945
+  callouses: 266568
+  canvasses: 134783
+  catalyses: 155498
+  catchphrases: 155903
+  cayuses: 269625
+not_scored_words:
+- Calvadoses
+- Cambyses
+- Candlemases
+- calabooses
+- calamuses
+- calliopsises
+- camasses
+- cannabises
+- carditises
+- carouses
+- carthorses
+- caryopses
+- catachreses
+- catalases
+- cataphoreses
+- catharses
+- cathouses

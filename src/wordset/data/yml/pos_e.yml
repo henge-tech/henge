@@ -1,0 +1,37 @@
+---
+pattern: pos_e
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 27
+score: 1411132
+score_per_word: 78396
+hi_scored_words:
+  pose: 7281
+  positive: 1495
+  posse: 22154
+  possessive: 36017
+  possible: 328
+  postage: 8474
+  postcode: 15112
+  postgraduate: 14521
+  postoperative: 20827
+  postpone: 19519
+  postulate: 37167
+  posture: 14680
+scored_words:
+  posable: 193776
+  postdate: 195236
+  posthaste: 228610
+  postiche: 267033
+  postie: 133320
+  postlude: 195582
+not_scored_words:
+- possie
+- postcollegiate
+- postdoctorate
+- posthole
+- postponable
+- postpositive
+- postpubescence
+- postremogeniture
+- posturize

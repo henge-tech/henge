@@ -1,0 +1,32 @@
+---
+pattern: rel_ng
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 22
+score: 1957443
+score_per_word: 97872
+hi_scored_words:
+  relapsing: 64457
+  relating: 3045
+  relaxing: 10933
+  relaying: 44240
+  releasing: 10185
+  relieving: 24611
+  relinquishing: 68637
+  relishing: 78922
+  reliving: 64784
+  reloading: 38700
+  relocating: 21507
+  relying: 9168
+scored_words:
+  relabeling: 225371
+  relaunching: 170621
+  relearning: 140907
+  relegating: 122910
+  relenting: 173614
+  relining: 206478
+  relinking: 261122
+  relisting: 217231
+not_scored_words:
+- relativizing
+- relighting

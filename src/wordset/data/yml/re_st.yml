@@ -1,0 +1,57 @@
+---
+pattern: re_st
+hi_scored_words_count: 17
+scored_words_count: 19
+total_words: 47
+score: 4400461
+score_per_word: 122235
+hi_scored_words:
+  readjust: 77445
+  realist: 27986
+  rebroadcast: 58800
+  recast: 42389
+  receptionist: 21039
+  reductionist: 87818
+  reformist: 45388
+  reinvest: 64389
+  relist: 90824
+  remotest: 69947
+  repast: 64529
+  request: 781
+  reservist: 70485
+  resist: 5498
+  rest: 687
+  retest: 54463
+  revisionist: 47062
+scored_words:
+  readiest: 253571
+  realest: 110623
+  rearmost: 229845
+  rearrest: 324435
+  recidivist: 132862
+  recitalist: 251204
+  reconquest: 152802
+  reconstructionist: 104066
+  recordist: 107589
+  redbreast: 220371
+  reddest: 172605
+  reenlist: 207354
+  reflexologist: 250276
+  reforest: 314323
+  relativist: 123567
+  religionist: 211120
+  resurrectionist: 170405
+  revivalist: 101145
+  revolutionist: 132768
+not_scored_words:
+- Reconstructionist
+- Rehnquist
+- recentest
+- redigest
+- reediest
+- reest
+- restfullest
+- reunionist
+- revanchist
+- revelationist
+- revest

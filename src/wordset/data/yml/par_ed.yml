@@ -1,0 +1,46 @@
+---
+pattern: par_ed
+hi_scored_words_count: 15
+scored_words_count: 14
+total_words: 36
+score: 2999238
+score_per_word: 103422
+hi_scored_words:
+  paraded: 53655
+  paralleled: 50871
+  paralyzed: 25865
+  paraphrased: 60470
+  parched: 42663
+  pardoned: 45231
+  pared: 40646
+  parked: 18777
+  paroled: 68146
+  parsed: 44659
+  parted: 15410
+  participated: 8066
+  partied: 71799
+  partitioned: 35766
+  partnered: 20978
+scored_words:
+  parachuted: 135312
+  parallelepiped: 233435
+  parallelized: 155173
+  parametrized: 105015
+  parboiled: 189908
+  parceled: 217383
+  parented: 195622
+  parenthesized: 157319
+  parlayed: 145915
+  parodied: 103357
+  parred: 284463
+  parried: 117197
+  parroted: 235213
+  particularized: 120924
+not_scored_words:
+- paragraphed
+- parallepiped
+- parapeted
+- pargetted
+- parleyed
+- parqueted
+- particolored

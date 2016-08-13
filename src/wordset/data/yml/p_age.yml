@@ -1,0 +1,46 @@
+---
+pattern: p_age
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 36
+score: 2225118
+score_per_word: 79468
+hi_scored_words:
+  package: 3152
+  page: 324
+  parentage: 37969
+  parsonage: 42003
+  passage: 2902
+  patronage: 19796
+  peerage: 35305
+  percentage: 4231
+  personage: 44389
+  phage: 32254
+  pilgrimage: 16323
+  pillage: 40319
+  pilotage: 75496
+  plage: 55873
+  plumage: 33423
+  portage: 20347
+  postage: 8474
+  presage: 55653
+scored_words:
+  pasturage: 145417
+  peonage: 220155
+  persiflage: 119503
+  photomontage: 154563
+  pilferage: 184978
+  porterage: 177822
+  potage: 196009
+  pottage: 135103
+  poundage: 143959
+  pupillage: 219376
+not_scored_words:
+- Page
+- patrilineage
+- pelage
+- pipage
+- preengage
+- prepackage
+- prisage
+- protolanguage

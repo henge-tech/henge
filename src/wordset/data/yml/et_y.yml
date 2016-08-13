@@ -1,0 +1,31 @@
+---
+pattern: et_y
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 21
+score: 510764
+score_per_word: 42563
+hi_scored_words:
+  eternally: 27245
+  eternity: 8365
+  ethically: 35028
+  ethnically: 37546
+  ethnicity: 13847
+  ethnography: 34546
+  ethnology: 42094
+  ethnomusicology: 76295
+  ethology: 70517
+  etiology: 14976
+  etymology: 25180
+scored_words:
+  etymologically: 125125
+not_scored_words:
+- ethereality
+- ethereally
+- etherify
+- ethnocentrically
+- ethnocentricity
+- ethnogeny
+- ethnographically
+- ethnologically
+- etiologically

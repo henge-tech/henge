@@ -1,0 +1,32 @@
+---
+pattern: flin_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 1145087
+score_per_word: 88083
+hi_scored_words:
+  flinch: 50786
+  flinched: 87644
+  flinching: 91689
+  flinders: 27879
+  fling: 20830
+  flinging: 55584
+  flings: 68608
+  flint: 9777
+  flintlock: 85069
+  flints: 74610
+scored_words:
+  flinches: 219322
+  flinger: 236893
+  flinty: 116396
+not_scored_words:
+- Flint
+- Flintshire
+- Flintstones
+- flincher
+- flintier
+- flintiest
+- flintily
+- flintiness
+- flintlocks

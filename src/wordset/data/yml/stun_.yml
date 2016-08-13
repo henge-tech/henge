@@ -1,0 +1,26 @@
+---
+pattern: stun_
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 16
+score: 881825
+score_per_word: 58788
+hi_scored_words:
+  stun: 23880
+  stung: 32235
+  stunk: 79675
+  stunned: 14302
+  stunner: 55092
+  stunning: 7520
+  stunningly: 46751
+  stuns: 62894
+  stunt: 17949
+  stunted: 45063
+  stunting: 73018
+  stuntman: 75286
+  stunts: 25261
+scored_words:
+  stunners: 156101
+  stuntmen: 166798
+not_scored_words:
+- stunsail

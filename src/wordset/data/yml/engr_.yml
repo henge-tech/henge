@@ -1,0 +1,32 @@
+---
+pattern: engr_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1512580
+score_per_word: 100838
+hi_scored_words:
+  engr: 45605
+  engram: 93358
+  engrave: 50614
+  engraved: 10857
+  engraver: 46163
+  engravers: 54515
+  engraving: 14007
+  engravings: 32194
+  engrossed: 29700
+  engrossing: 42724
+scored_words:
+  engraft: 327644
+  engrafted: 203963
+  engrams: 241561
+  engross: 148641
+  engrossment: 171034
+not_scored_words:
+- engrafting
+- engrafts
+- engrail
+- engrain
+- engrammatic
+- engraves
+- engrosses

@@ -1,0 +1,27 @@
+---
+pattern: p_ster
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 1137540
+score_per_word: 81252
+hi_scored_words:
+  paternoster: 88197
+  paymaster: 79209
+  pester: 62842
+  plaster: 12706
+  pollster: 71708
+  polyester: 16923
+  poster: 8303
+  postmaster: 22812
+  prankster: 73737
+  protester: 51705
+scored_words:
+  pilaster: 193921
+  poetaster: 111782
+  preregister: 163988
+  punster: 179707
+not_scored_words:
+- Paternoster
+- Pinkster
+- piaster

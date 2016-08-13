@@ -1,0 +1,25 @@
+---
+pattern: airl_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 1419480
+score_per_word: 118290
+hi_scored_words:
+  airless: 62574
+  airlift: 34533
+  airlifted: 84999
+  airline: 7501
+  airliner: 37227
+  airliners: 49672
+  airlines: 8928
+  airlock: 58067
+scored_words:
+  airlifting: 288684
+  airlifts: 278461
+  airlike: 217771
+  airlocks: 291063
+not_scored_words:
+- airlessness
+- airletter
+- airletters

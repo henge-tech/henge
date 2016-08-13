@@ -1,0 +1,48 @@
+---
+pattern: peri_s
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 38
+score: 2173151
+score_per_word: 114376
+hi_scored_words:
+  pericarditis: 75599
+  perilous: 24316
+  perils: 27130
+  perimeters: 81209
+  periodicals: 12399
+  periods: 3024
+  peripherals: 13433
+  perishes: 97609
+  peritonitis: 49280
+scored_words:
+  peridots: 265396
+  periodontics: 105461
+  periodontists: 128558
+  peripheries: 105469
+  peris: 145416
+  periscopes: 271373
+  perishables: 119942
+  perishers: 305096
+  peristalsis: 100053
+  periwinkles: 242388
+not_scored_words:
+- Pericles
+- perianths
+- pericarditides
+- peridiums
+- perigees
+- perigons
+- perigynous
+- perilunes
+- perineuritis
+- periostitis
+- peripatetics
+- periphrases
+- periphrasis
+- perissodactyls
+- peristalses
+- peristomes
+- peristyles
+- peritoneums
+- periwigs

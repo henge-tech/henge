@@ -1,0 +1,39 @@
+---
+pattern: in_a
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 29
+score: 1320119
+score_per_word: 82507
+hi_scored_words:
+  indicia: 81241
+  inertia: 19632
+  influenza: 16419
+  infra: 22437
+  insignia: 19064
+  insomnia: 19522
+  intelligentsia: 50234
+  intifada: 42363
+  intima: 83452
+scored_words:
+  inamorata: 135795
+  incunabula: 136825
+  indaba: 119050
+  infanta: 103398
+  inocula: 240496
+  insula: 112107
+  intarsia: 118084
+not_scored_words:
+- Ina
+- Inanna
+- Inca
+- India
+- Indiana
+- Indira
+- Indochina
+- Indonesia
+- Indra
+- Interlingua
+- induna
+- indusia
+- ingesta

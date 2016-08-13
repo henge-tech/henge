@@ -1,0 +1,31 @@
+---
+pattern: pen_n
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 21
+score: 933509
+score_per_word: 77792
+hi_scored_words:
+  pendragon: 50937
+  penetration: 8731
+  penguin: 14451
+  penicillin: 24170
+  penman: 84671
+  pension: 4510
+  penstemon: 89733
+  pentagon: 11240
+  pentathlon: 57938
+scored_words:
+  penalization: 293876
+  peneplain: 101131
+  pennon: 192121
+not_scored_words:
+- Penn
+- Pennington
+- Pennsylvanian
+- Pentagon
+- Penutian
+- penmen
+- pentahedron
+- pentosan
+- pentstemon

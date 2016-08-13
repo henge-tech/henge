@@ -1,0 +1,43 @@
+---
+pattern: def_e
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 33
+score: 1823821
+score_per_word: 82900
+hi_scored_words:
+  deface: 65889
+  defame: 60856
+  defecate: 94335
+  defective: 7219
+  defense: 2240
+  defensible: 40632
+  defensive: 9640
+  deference: 23113
+  defiance: 13113
+  defile: 49673
+  definable: 48799
+  define: 3586
+  definite: 6539
+  definitive: 12094
+  deflate: 51038
+  deformable: 77756
+  defuse: 46840
+scored_words:
+  defeasance: 173178
+  defeasible: 157301
+  defendable: 228517
+  deferrable: 319178
+  defoliate: 332285
+not_scored_words:
+- Defoe
+- defalcate
+- defenestrate
+- defibrillate
+- defilade
+- deflagrate
+- deflectable
+- deflective
+- deflocculate
+- deforce
+- defrayable

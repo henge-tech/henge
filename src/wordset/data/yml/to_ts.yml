@@ -1,0 +1,34 @@
+---
+pattern: to_ts
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 24
+score: 1198189
+score_per_word: 79879
+hi_scored_words:
+  toasts: 47569
+  toilets: 18414
+  toots: 48314
+  torments: 54176
+  torrents: 19071
+  torts: 35982
+  tots: 36554
+  tourists: 8596
+  tournaments: 12108
+  touts: 46020
+scored_words:
+  tobacconists: 171483
+  tomcats: 141844
+  topcoats: 195619
+  tourniquets: 199540
+  toxicologists: 162899
+not_scored_words:
+- tobogganists
+- tommyrots
+- tomtits
+- toothworts
+- topgallants
+- topknots
+- topmasts
+- topologists
+- towboats

@@ -1,0 +1,36 @@
+---
+pattern: p_nate
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 26
+score: 890732
+score_per_word: 74227
+hi_scored_words:
+  palatinate: 68235
+  passionate: 7871
+  permanganate: 75040
+  pollinate: 90391
+  polycarbonate: 36933
+  pomegranate: 32287
+  predominate: 47852
+  procrastinate: 52258
+  proportionate: 24225
+scored_words:
+  paginate: 148438
+  personate: 190402
+  pinnate: 116800
+not_scored_words:
+- Palatinate
+- paripinnate
+- pectinate
+- pennate
+- pepsinate
+- peregrinate
+- perennate
+- phonate
+- predesignate
+- predestinate
+- predeterminate
+- pronate
+- pulmonate
+- pulvinate

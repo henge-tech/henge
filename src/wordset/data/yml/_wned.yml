@@ -1,0 +1,31 @@
+---
+pattern: _wned
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 21
+score: 1673908
+score_per_word: 88100
+hi_scored_words:
+  browned: 41093
+  crowned: 12065
+  dawned: 30183
+  disowned: 74930
+  downed: 38136
+  drowned: 15803
+  frowned: 28149
+  owned: 2083
+  preowned: 68249
+  pwned: 94952
+  renowned: 7867
+  spawned: 22918
+  yawned: 58065
+scored_words:
+  awned: 238576
+  fawned: 217764
+  gowned: 219685
+  pawned: 110948
+  uncrowned: 210256
+  unowned: 182186
+not_scored_words:
+- clowned
+- prawned

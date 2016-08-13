@@ -1,0 +1,22 @@
+---
+pattern: st_ned
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 328044
+score_per_word: 32804
+hi_scored_words:
+  stained: 7950
+  stationed: 13075
+  stiffened: 52525
+  stoned: 20764
+  straightened: 32857
+  strained: 15528
+  streamlined: 19152
+  strengthened: 9903
+  stunned: 14302
+scored_words:
+  straitened: 141988
+not_scored_words:
+- stanchioned
+- steepened

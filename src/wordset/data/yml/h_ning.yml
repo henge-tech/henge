@@ -1,0 +1,29 @@
+---
+pattern: h_ning
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 1174671
+score_per_word: 106788
+hi_scored_words:
+  happening: 4000
+  hardening: 26980
+  hastening: 68827
+  headlining: 49950
+  heartening: 61382
+  heightening: 80923
+  honing: 49131
+  housecleaning: 88313
+scored_words:
+  hearkening: 242817
+  honeymooning: 217501
+  hydroplaning: 284847
+not_scored_words:
+- Hsining
+- harpooning
+- harshening
+- heartburning
+- heterodyning
+- holystoning
+- hymning
+- hyphening

@@ -1,0 +1,41 @@
+---
+pattern: _llow
+hi_scored_words_count: 22
+scored_words_count: 2
+total_words: 31
+score: 1047593
+score_per_word: 43649
+hi_scored_words:
+  allow: 797
+  bellow: 32853
+  billow: 91646
+  callow: 54458
+  disallow: 35382
+  fallow: 32197
+  fellow: 1977
+  follow: 551
+  hallow: 61061
+  hollow: 5670
+  mallow: 46062
+  marshmallow: 34179
+  mellow: 16668
+  pillow: 5957
+  sallow: 72791
+  schoolfellow: 90258
+  shallow: 6410
+  swallow: 7589
+  tallow: 41425
+  wallow: 49017
+  willow: 8447
+  yellow: 964
+scored_words:
+  bedfellow: 162705
+  playfellow: 188529
+not_scored_words:
+- Bellow
+- Longfellow
+- Oddfellow
+- Yellow
+- blackfellow
+- unhallow
+- yokefellow

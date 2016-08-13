@@ -1,0 +1,40 @@
+---
+pattern: _abs
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 30
+score: 1615849
+score_per_word: 76945
+hi_scored_words:
+  abs: 9994
+  cabs: 27580
+  crabs: 19396
+  dabs: 63441
+  grabs: 22020
+  jabs: 55201
+  kebabs: 66080
+  labs: 5114
+  nabs: 66371
+  rehabs: 88672
+  scabs: 73059
+  slabs: 23979
+  stabs: 46360
+  swabs: 49342
+  tabs: 6022
+  taxicabs: 69827
+scored_words:
+  drabs: 252147
+  gabs: 123195
+  minicabs: 213261
+  prefabs: 188914
+  scarabs: 145874
+not_scored_words:
+- ABS
+- Abs
+- Arabs
+- Rajabs
+- baobabs
+- blabs
+- confabs
+- pedicabs
+- squabs

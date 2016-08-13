@@ -1,0 +1,61 @@
+---
+pattern: ve_es
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 51
+score: 1739920
+score_per_word: 82853
+hi_scored_words:
+  vegetables: 4769
+  veggies: 21267
+  vehicles: 3937
+  velocities: 21323
+  ventricles: 50553
+  ventures: 9790
+  venues: 12223
+  verges: 76278
+  verifies: 32927
+  verses: 7653
+  vertebrates: 35868
+  vertices: 20834
+  vesicles: 37594
+  vestiges: 52518
+  vetoes: 73846
+scored_words:
+  veges: 235380
+  venules: 174726
+  verities: 151589
+  vertexes: 287297
+  vestibules: 215576
+  vexes: 213972
+not_scored_words:
+- Venuses
+- Versailles
+- veeries
+- vegetates
+- vegges
+- velites
+- velleities
+- vellicates
+- velocipedes
+- velodromes
+- vendees
+- vendues
+- venerates
+- vengefulnesses
+- ventilates
+- verbalizes
+- verbiages
+- verbifies
+- verdancies
+- verdigrises
+- vermifuges
+- versicles
+- versifies
+- verticalities
+- vesicatories
+- vestries
+- vestures
+- vesuvianites
+- vetches
+- veterinaries

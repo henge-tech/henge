@@ -1,0 +1,32 @@
+---
+pattern: _get
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 22
+score: 446514
+score_per_word: 40592
+hi_scored_words:
+  beget: 57573
+  budget: 3761
+  fidget: 72902
+  forget: 1444
+  gadget: 15797
+  get: 78
+  midget: 24218
+  nugget: 24544
+  target: 3639
+  widget: 18801
+scored_words:
+  gorget: 223757
+not_scored_words:
+- Bridget
+- Budget
+- Piaget
+- Puget
+- Roget
+- Target
+- drugget
+- fussbudget
+- garget
+- parget
+- pledget

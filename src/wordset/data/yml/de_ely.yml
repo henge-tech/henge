@@ -1,0 +1,36 @@
+---
+pattern: de_ely
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 26
+score: 2325733
+score_per_word: 122407
+hi_scored_words:
+  deceptively: 43001
+  decisively: 35961
+  defensively: 40337
+  definitely: 3468
+  definitively: 35329
+  deliberately: 8057
+  delicately: 28299
+  densely: 25644
+  desperately: 9611
+scored_words:
+  decoratively: 216753
+  deductively: 211274
+  defectively: 308034
+  demonstratively: 301830
+  demurely: 146562
+  derisively: 100105
+  derivatively: 317746
+  descriptively: 164068
+  desolately: 210024
+  destructively: 119630
+not_scored_words:
+- degenerately
+- deliberatively
+- delusively
+- denotatively
+- depressively
+- determinately
+- determinatively

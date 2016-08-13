@@ -1,0 +1,23 @@
+---
+pattern: a_rial
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 657117
+score_per_word: 59737
+hi_scored_words:
+  actuarial: 25309
+  adversarial: 44877
+  aerial: 7810
+  antibacterial: 36022
+  antimalarial: 98128
+  armorial: 58398
+  arterial: 19518
+  atrial: 23308
+  authorial: 79597
+scored_words:
+  advertorial: 163949
+  ambassadorial: 100201
+not_scored_words:
+- accusatorial
+- auctorial

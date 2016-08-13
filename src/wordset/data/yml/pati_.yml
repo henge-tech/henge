@@ -1,0 +1,27 @@
+---
+pattern: pati_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 1534174
+score_per_word: 118013
+hi_scored_words:
+  patience: 5352
+  patient: 1398
+  patiently: 16355
+  patients: 1756
+  patina: 37576
+  patio: 12677
+  patios: 46269
+  patisserie: 80167
+scored_words:
+  patienter: 326615
+  patin: 168153
+  patinas: 291454
+  patinated: 254826
+  patisseries: 291576
+not_scored_words:
+- patientest
+- patination
+- patine
+- patinous

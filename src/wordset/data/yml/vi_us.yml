@@ -1,0 +1,36 @@
+---
+pattern: vi_us
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 26
+score: 950714
+score_per_word: 59419
+hi_scored_words:
+  vicarious: 41802
+  vicious: 10005
+  victorious: 15711
+  vigorous: 10815
+  villainous: 43519
+  virtuous: 18629
+  virtus: 94533
+  virus: 2530
+  viscous: 31213
+  viscus: 80902
+  vitreous: 41881
+  vivacious: 49065
+scored_words:
+  villous: 110243
+  villus: 103755
+  vinous: 158475
+  viviparous: 137636
+not_scored_words:
+- Vilnius
+- Vitus
+- vicissitudinous
+- vimineous
+- vinaceous
+- viniferous
+- violaceous
+- viperous
+- vitaceous
+- vitellus

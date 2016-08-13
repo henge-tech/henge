@@ -1,0 +1,25 @@
+---
+pattern: shap_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 15
+score: 248910
+score_per_word: 31113
+hi_scored_words:
+  shape: 1760
+  shaped: 4394
+  shapeless: 78308
+  shapely: 43874
+  shaper: 40742
+  shapers: 63346
+  shapes: 5662
+  shaping: 10824
+scored_words: {}
+not_scored_words:
+- SHAPE
+- Shapiro
+- shapelessly
+- shapelessness
+- shapelier
+- shapeliest
+- shapeliness

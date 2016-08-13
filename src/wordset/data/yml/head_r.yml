@@ -1,0 +1,23 @@
+---
+pattern: head_r
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 479744
+score_per_word: 53304
+hi_scored_words:
+  header: 3423
+  headgear: 37258
+  headhunter: 52601
+  headliner: 44128
+  headmaster: 32587
+  headquarter: 46699
+  headteacher: 39215
+  headwater: 92372
+scored_words:
+  headbanger: 131461
+not_scored_words:
+- headier
+- headshrinker
+- headwaiter
+- headworker

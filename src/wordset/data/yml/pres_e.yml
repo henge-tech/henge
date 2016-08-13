@@ -1,0 +1,33 @@
+---
+pattern: pres_e
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 23
+score: 998869
+score_per_word: 58757
+hi_scored_words:
+  presage: 55653
+  prescience: 90919
+  prescribe: 14373
+  prescriptive: 35604
+  presence: 1443
+  presentable: 47329
+  preservative: 33944
+  preserve: 4010
+  preside: 29209
+  pressure: 1367
+  prestige: 8948
+  presume: 13005
+  presumptive: 44098
+  presuppose: 61428
+scored_words:
+  pressie: 165549
+  pressurize: 147689
+  presumable: 244301
+not_scored_words:
+- presbyterate
+- prescriptible
+- presentative
+- preservable
+- prestidigitate
+- presurmise

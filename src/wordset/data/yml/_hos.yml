@@ -1,0 +1,33 @@
+---
+pattern: _hos
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 23
+score: 1425029
+score_per_word: 95001
+hi_scored_words:
+  echos: 70258
+  ethos: 23481
+  gauchos: 66400
+  hos: 26773
+  mythos: 46402
+  nachos: 45601
+  pathos: 33631
+  ponchos: 70915
+  psychos: 77564
+scored_words:
+  bathos: 182285
+  benthos: 112076
+  honchos: 136546
+  mhos: 292564
+  nymphos: 107750
+  rhos: 132783
+not_scored_words:
+- Arapahos
+- Athos
+- Hos
+- Idahos
+- Paphos
+- cohos
+- pithos
+- tallyhos

@@ -1,0 +1,29 @@
+---
+pattern: r_ay
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 19
+score: 962538
+score_per_word: 68752
+hi_scored_words:
+  raceway: 25293
+  railway: 3358
+  ray: 2660
+  relay: 8804
+  repay: 18610
+  replay: 15334
+  roadway: 15313
+  rockaway: 41376
+  runaway: 14157
+  runway: 18744
+scored_words:
+  redisplay: 186374
+  respray: 285351
+  rollaway: 108417
+  ropeway: 218747
+not_scored_words:
+- Ramsay
+- Ray
+- rollway
+- rosebay
+- roundelay

@@ -1,0 +1,100 @@
+---
+pattern: _test
+hi_scored_words_count: 28
+scored_words_count: 14
+total_words: 90
+score: 3605469
+score_per_word: 85844
+hi_scored_words:
+  attest: 21866
+  brightest: 15632
+  contest: 2785
+  cutest: 27663
+  detest: 43035
+  faintest: 44398
+  fastest: 8321
+  fattest: 70384
+  fittest: 34763
+  greatest: 1547
+  hottest: 7756
+  latest: 1635
+  lightest: 32788
+  pretest: 54995
+  protest: 4351
+  quietest: 55016
+  remotest: 69947
+  retest: 54463
+  shortest: 11814
+  slightest: 12184
+  smartest: 28619
+  softest: 47967
+  strictest: 40954
+  sweetest: 16023
+  test: 955
+  tightest: 64237
+  wettest: 68566
+  whitest: 96731
+scored_words:
+  acutest: 215341
+  completest: 151186
+  flattest: 159807
+  fleetest: 203079
+  hightest: 328393
+  justest: 267032
+  minutest: 135114
+  neatest: 107804
+  pleasantest: 190262
+  politest: 131074
+  quaintest: 239512
+  stoutest: 220388
+  straightest: 171864
+  swiftest: 145218
+not_scored_words:
+- abruptest
+- absolutest
+- ancientest
+- aptest
+- astutest
+- augustest
+- bluntest
+- chastest
+- compactest
+- correctest
+- corruptest
+- curtest
+- daftest
+- deftest
+- devoutest
+- directest
+- discreetest
+- distinctest
+- exactest
+- frequentest
+- gauntest
+- honestest
+- leftest
+- moistest
+- mutest
+- obtest
+- patientest
+- perfectest
+- pertest
+- privatest
+- promptest
+- recentest
+- rightest
+- robustest
+- saltest
+- scantest
+- sedatest
+- silentest
+- squattest
+- squintest
+- succinctest
+- sveltest
+- tartest
+- tautest
+- tritest
+- unchastest
+- unquietest
+- vastest

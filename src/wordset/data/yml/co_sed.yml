@@ -1,0 +1,26 @@
+---
+pattern: co_sed
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 16
+score: 743058
+score_per_word: 57158
+hi_scored_words:
+  collapsed: 12374
+  composed: 3459
+  compressed: 5372
+  comprised: 9289
+  compromised: 14151
+  condensed: 11695
+  confessed: 14923
+  confused: 3847
+  conversed: 70824
+  convulsed: 91233
+scored_words:
+  compassed: 132067
+  concussed: 270374
+  coursed: 103450
+not_scored_words:
+- consed
+- contused
+- counterpoised

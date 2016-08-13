@@ -1,0 +1,45 @@
+---
+pattern: symp_
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 35
+score: 1660495
+score_per_word: 72195
+hi_scored_words:
+  sympathetic: 9846
+  sympathetically: 58161
+  sympathies: 27263
+  sympathize: 38762
+  sympathized: 88512
+  sympathizers: 59608
+  sympathy: 5158
+  symphonia: 78374
+  symphonic: 29374
+  symphonies: 30721
+  symphony: 8805
+  symposium: 16522
+  symposiums: 85715
+  symptom: 10183
+  symptomatic: 31649
+  symptomatology: 76923
+  symptoms: 3212
+scored_words:
+  sympathizer: 112049
+  sympathizes: 167295
+  sympathizing: 115667
+  symphysis: 164669
+  symptomatically: 207871
+  symptomless: 234156
+not_scored_words:
+- sympathin
+- sympetalous
+- symphonically
+- symphonious
+- symphonist
+- symphonists
+- symphonize
+- symphyses
+- symploce
+- symploces
+- symposiac
+- symposiarch

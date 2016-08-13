@@ -1,0 +1,43 @@
+---
+pattern: law_
+hi_scored_words_count: 20
+scored_words_count: 6
+total_words: 33
+score: 1747567
+score_per_word: 67214
+hi_scored_words:
+  law: 230
+  lawful: 10213
+  lawfully: 23897
+  lawfulness: 86903
+  lawgiver: 79004
+  lawless: 22214
+  lawlessness: 41075
+  lawmaker: 42524
+  lawmakers: 15104
+  lawmaking: 95656
+  lawman: 62287
+  lawn: 4914
+  lawnmower: 39824
+  lawnmowers: 69426
+  lawns: 24271
+  laws: 970
+  lawsuit: 9689
+  lawsuits: 16060
+  lawyer: 2110
+  lawyers: 3093
+scored_words:
+  lawbreaker: 207206
+  lawbreakers: 153827
+  lawbreaking: 200965
+  lawgivers: 128760
+  lawmen: 122461
+  lawyerly: 284884
+not_scored_words:
+- Law
+- Lawanda
+- Lawes
+- Lawrence
+- Lawson
+- lawlessly
+- lawrencium

@@ -1,0 +1,39 @@
+---
+pattern: h_ps
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 29
+score: 2194750
+score_per_word: 99761
+hi_scored_words:
+  handicaps: 41587
+  hardships: 23738
+  harps: 39392
+  headlamps: 49917
+  heaps: 21259
+  helps: 2586
+  hiccups: 41869
+  hips: 11654
+  hookups: 44933
+  hoops: 15452
+  hops: 19556
+  hubcaps: 60728
+  humps: 33780
+scored_words:
+  handclaps: 223253
+  handgrips: 267657
+  hangups: 142844
+  hardtops: 195877
+  hasps: 239340
+  hilltops: 104253
+  holdups: 234993
+  housetops: 226865
+  hydrops: 153217
+not_scored_words:
+- hairgrips
+- handclasps
+- harelips
+- headships
+- hedgehops
+- hockshops
+- horsewhips

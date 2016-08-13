@@ -1,0 +1,41 @@
+---
+pattern: sca_d
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 31
+score: 2328885
+score_per_word: 105858
+hi_scored_words:
+  scabbard: 45773
+  scad: 72603
+  scaffold: 23448
+  scald: 69153
+  scalded: 94612
+  scaled: 15113
+  scalloped: 42388
+  scammed: 51355
+  scanned: 10127
+  scared: 5692
+  scarred: 27138
+  scattered: 5517
+scored_words:
+  scabbed: 286396
+  scalped: 115993
+  scampered: 108517
+  scandalized: 111141
+  scapegoated: 266438
+  scaphoid: 143839
+  scarfed: 252137
+  scarified: 267642
+  scatterbrained: 179925
+  scavenged: 133938
+not_scored_words:
+- scagged
+- scaleboard
+- scanted
+- scarabaeid
+- scarabaeoid
+- scarped
+- scarpered
+- scathed
+- scatted

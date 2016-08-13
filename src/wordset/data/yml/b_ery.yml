@@ -1,0 +1,34 @@
+---
+pattern: b_ery
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 24
+score: 1122718
+score_per_word: 70169
+hi_scored_words:
+  bakery: 16731
+  battery: 2453
+  beery: 93426
+  bindery: 73847
+  blustery: 60069
+  bowery: 45159
+  bravery: 16892
+  brewery: 17231
+  bribery: 22631
+  butchery: 73031
+  buttery: 45303
+scored_words:
+  baptistery: 140037
+  beanery: 149607
+  bloomery: 126399
+  buffoonery: 134807
+  buggery: 105095
+not_scored_words:
+- Bowery
+- blistery
+- blubbery
+- bobbery
+- bookbindery
+- bootery
+- briery
+- butlery

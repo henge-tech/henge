@@ -1,0 +1,31 @@
+---
+pattern: me_ns
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 21
+score: 1133922
+score_per_word: 87224
+hi_scored_words:
+  means: 335
+  medallions: 44661
+  medians: 66697
+  medications: 6106
+  meditations: 24282
+  melons: 26257
+  mentions: 8613
+  meridians: 68664
+  mesons: 61583
+scored_words:
+  megatons: 213549
+  meltdowns: 167499
+  mentations: 288183
+  merlins: 157493
+not_scored_words:
+- Mediterraneans
+- Mexicans
+- melatonins
+- mesencephalons
+- mesotrons
+- metencephalons
+- metheglins
+- mezereons

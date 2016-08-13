@@ -1,0 +1,30 @@
+---
+pattern: cr_le
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 20
+score: 559671
+score_per_word: 43051
+hi_scored_words:
+  crackle: 34672
+  cradle: 8451
+  craftspeople: 84546
+  credible: 11898
+  creditable: 38368
+  creole: 18129
+  crinkle: 58113
+  cripple: 18833
+  crocodile: 15331
+  crucible: 27523
+  crumble: 28058
+  crumple: 79781
+scored_words:
+  crepuscule: 135968
+not_scored_words:
+- Creole
+- crankle
+- creatable
+- cribble
+- crimple
+- cringle
+- criticizable

@@ -1,0 +1,26 @@
+---
+pattern: b_ary
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 16
+score: 977224
+score_per_word: 69801
+hi_scored_words:
+  beneficiary: 16043
+  bestiary: 58015
+  bicentenary: 96359
+  biliary: 35735
+  binary: 4615
+  bleary: 95122
+  boundary: 4307
+  budgetary: 16627
+  burglary: 19985
+  bursary: 43264
+scored_words:
+  bacillary: 154940
+  beggary: 195072
+  breviary: 110990
+  bronchopulmonary: 126150
+not_scored_words:
+- Barbary
+- Bovary

@@ -1,0 +1,21 @@
+---
+pattern: tran_ers
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 543498
+score_per_word: 54349
+hi_scored_words:
+  tranquilizers: 64273
+  transceivers: 55883
+  transducers: 32917
+  transfers: 8997
+  transformers: 14921
+  transmitters: 21436
+  transponders: 65525
+  transporters: 35651
+scored_words:
+  transcribers: 101480
+  transgenders: 142415
+not_scored_words:
+- transputers

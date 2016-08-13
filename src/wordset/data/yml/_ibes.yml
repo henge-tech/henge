@@ -1,0 +1,34 @@
+---
+pattern: _ibes
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 24
+score: 1838387
+score_per_word: 114899
+hi_scored_words:
+  ascribes: 86522
+  bribes: 30751
+  describes: 3451
+  prescribes: 37707
+  scribes: 33326
+  subscribes: 45229
+  tribes: 4693
+  vibes: 20412
+scored_words:
+  circumscribes: 293533
+  diatribes: 106185
+  gibes: 109766
+  inscribes: 217392
+  jibes: 133636
+  proscribes: 221092
+  transcribes: 187114
+  unsubscribes: 307578
+not_scored_words:
+- Antibes
+- Delibes
+- imbibes
+- kibes
+- overprescribes
+- oversubscribes
+- resubscribes
+- superscribes

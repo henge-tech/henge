@@ -1,0 +1,36 @@
+---
+pattern: pol_y
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 26
+score: 768485
+score_per_word: 59114
+hi_scored_words:
+  polarity: 27316
+  policy: 497
+  politely: 17506
+  politically: 9533
+  polity: 27957
+  poly: 11633
+  polyamory: 79759
+  polygamy: 29114
+  polyphony: 52635
+scored_words:
+  polarizability: 143548
+  polyandry: 124081
+  polygyny: 107022
+  polysemy: 137884
+not_scored_words:
+- Polly
+- polemically
+- politicly
+- poltroonery
+- polychromy
+- polygamously
+- polyhydroxy
+- polymathy
+- polypary
+- polyphonically
+- polypody
+- polytonality
+- polyvalency

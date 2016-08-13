@@ -1,0 +1,36 @@
+---
+pattern: _uffs
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 26
+score: 1917262
+score_per_word: 100908
+hi_scored_words:
+  bluffs: 26400
+  buffs: 29263
+  cuffs: 20378
+  duffs: 94201
+  fisticuffs: 97766
+  foodstuffs: 30982
+  handcuffs: 26953
+  muffs: 68126
+  puffs: 31527
+  rebuffs: 77952
+  scuffs: 86207
+  stuffs: 30199
+scored_words:
+  dyestuffs: 116860
+  earmuffs: 109069
+  feedstuffs: 148570
+  fluffs: 285954
+  huffs: 248160
+  ruffs: 158808
+  snuffs: 229887
+not_scored_words:
+- breadstuffs
+- chuffs
+- crossruffs
+- luffs
+- overstuffs
+- scruffs
+- woodruffs

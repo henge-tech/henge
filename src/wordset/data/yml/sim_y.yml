@@ -1,0 +1,20 @@
+---
+pattern: sim_y
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 388769
+score_per_word: 43196
+hi_scored_words:
+  similarity: 8492
+  similarly: 5307
+  simony: 98792
+  simplicity: 6430
+  simplify: 15276
+  simply: 778
+  simultaneity: 72919
+  simultaneously: 8496
+scored_words:
+  simplistically: 172279
+not_scored_words:
+- simperingly

@@ -1,0 +1,27 @@
+---
+pattern: di_or
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 17
+score: 1052535
+score_per_word: 80964
+hi_scored_words:
+  dictator: 16800
+  differentiator: 93392
+  dilator: 96331
+  director: 2030
+  discolor: 91407
+  discriminator: 82496
+  dishonor: 39279
+  disruptor: 94469
+  dissector: 81574
+  distributor: 6720
+  divisor: 42667
+scored_words:
+  disfavor: 106842
+  disseminator: 298528
+not_scored_words:
+- Dior
+- disintegrator
+- dissimulator
+- dissipator

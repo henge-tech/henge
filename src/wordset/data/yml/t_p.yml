@@ -1,0 +1,60 @@
+---
+pattern: t_p
+hi_scored_words_count: 27
+scored_words_count: 10
+total_words: 50
+score: 2336793
+score_per_word: 63156
+hi_scored_words:
+  tabletop: 21776
+  tap: 5761
+  tarp: 37032
+  tbsp: 28045
+  teacup: 36439
+  teardrop: 36488
+  temp: 13204
+  thorp: 49624
+  thump: 29315
+  tip: 3076
+  top: 242
+  township: 5422
+  tramp: 15654
+  transp: 82616
+  trap: 4885
+  treetop: 88057
+  trip: 1603
+  troop: 9384
+  trump: 12756
+  trusteeship: 67932
+  tsp: 19641
+  tulip: 19261
+  tuneup: 97294
+  turboprop: 78188
+  turnip: 35294
+  twp: 23582
+  typ: 33777
+scored_words:
+  tamp: 100615
+  therap: 144846
+  thunderclap: 104750
+  tiptop: 116383
+  tossup: 234677
+  toyshop: 141812
+  trollop: 150705
+  tromp: 103881
+  tutorship: 233644
+  twerp: 149132
+not_scored_words:
+- TARP
+- Tharp
+- Trump
+- Twp
+- teashop
+- tittup
+- toecap
+- toeclip
+- tranship
+- transship
+- treasurership
+- tribuneship
+- troopship

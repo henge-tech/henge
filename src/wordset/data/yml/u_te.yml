@@ -1,0 +1,53 @@
+---
+pattern: u_te
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 43
+score: 1866725
+score_per_word: 93336
+hi_scored_words:
+  ulcerate: 90018
+  ultimate: 2731
+  underestimate: 26204
+  undergraduate: 9585
+  understate: 78053
+  underwrite: 51962
+  unfortunate: 6547
+  unite: 8752
+  unquote: 72148
+  update: 5360
+  upstate: 22570
+  urinate: 45217
+scored_words:
+  unchaste: 217387
+  underrate: 154023
+  underwrote: 156672
+  undulate: 148129
+  ungulate: 116693
+  unregenerate: 142996
+  uprate: 310754
+  urbanite: 200924
+not_scored_words:
+- Ute
+- ululate
+- umbellate
+- umbilicate
+- uncinate
+- uncrate
+- underbite
+- underquote
+- unguiculate
+- unifoliate
+- unifoliolate
+- unijugate
+- uniseptate
+- unpolite
+- unproportionate
+- unsaturate
+- uralite
+- uraninite
+- urceolate
+- urtexte
+- urticate
+- usherette
+- uvarovite

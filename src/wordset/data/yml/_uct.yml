@@ -1,0 +1,37 @@
+---
+pattern: _uct
+hi_scored_words_count: 18
+scored_words_count: 2
+total_words: 27
+score: 1020703
+score_per_word: 51035
+hi_scored_words:
+  abduct: 61664
+  adduct: 86660
+  aqueduct: 33773
+  byproduct: 40153
+  conduct: 1638
+  construct: 6515
+  deconstruct: 75536
+  deduct: 24450
+  destruct: 44932
+  duct: 17307
+  induct: 76987
+  instruct: 13786
+  misconduct: 14414
+  obstruct: 29866
+  oviduct: 95675
+  product: 1148
+  reconstruct: 22832
+  viaduct: 36002
+scored_words:
+  reluct: 230254
+  usufruct: 107111
+not_scored_words:
+- educt
+- eruct
+- preinstruct
+- reconduct
+- reinstruct
+- subduct
+- superconduct

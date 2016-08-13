@@ -1,0 +1,48 @@
+---
+pattern: grad_
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 38
+score: 1487473
+score_per_word: 59498
+hi_scored_words:
+  grad: 14769
+  gradation: 43829
+  gradations: 67463
+  grade: 2732
+  graded: 15944
+  grader: 25797
+  graders: 16667
+  grades: 4523
+  gradient: 19764
+  gradients: 24501
+  grading: 17541
+  grads: 30150
+  gradual: 10319
+  gradually: 4502
+  graduate: 4611
+  graduated: 7074
+  graduates: 8452
+  graduating: 16578
+  graduation: 9779
+  graduations: 57024
+scored_words:
+  gradational: 241086
+  gradualism: 158506
+  gradualist: 263729
+  graduands: 217923
+  gradus: 204210
+not_scored_words:
+- Grady
+- gradable
+- gradate
+- gradated
+- gradates
+- gradatim
+- gradating
+- gradationally
+- gradely
+- gradin
+- gradualness
+- graduand
+- graduator

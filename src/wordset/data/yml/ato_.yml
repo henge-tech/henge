@@ -1,0 +1,48 @@
+---
+pattern: ato_
+hi_scored_words_count: 10
+scored_words_count: 15
+total_words: 38
+score: 2801516
+score_per_word: 112060
+hi_scored_words:
+  atoll: 29116
+  atolls: 76527
+  atom: 5169
+  atomic: 9077
+  atomistic: 97320
+  atomizer: 66294
+  atoms: 8319
+  atone: 47715
+  atonement: 23320
+  atop: 19635
+scored_words:
+  atomically: 112046
+  atomicity: 123268
+  atomics: 108839
+  atomism: 163562
+  atomization: 105259
+  atomize: 300796
+  atomized: 126133
+  atomizers: 126667
+  atomizing: 181220
+  atonal: 107988
+  atonality: 293131
+  atoned: 126890
+  atones: 270422
+  atonic: 170201
+  atoning: 102602
+not_scored_words:
+- Aton
+- Atonement
+- atomist
+- atomizations
+- atomizes
+- atomy
+- atonalism
+- atonalisms
+- atonalist
+- atonally
+- atoner
+- atonies
+- atony

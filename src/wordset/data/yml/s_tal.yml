@@ -1,0 +1,31 @@
+---
+pattern: s_tal
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 21
+score: 1492663
+score_per_word: 87803
+hi_scored_words:
+  sacerdotal: 90215
+  sacramental: 50531
+  sagittal: 50031
+  scrotal: 78503
+  segmental: 44442
+  sentimental: 14518
+  septal: 48165
+  skeletal: 17554
+  societal: 15245
+  stomatal: 97713
+  submittal: 82975
+  subtotal: 24241
+  supplemental: 15800
+scored_words:
+  spital: 165624
+  subcontinental: 313270
+  suborbital: 119397
+  supraorbital: 264439
+not_scored_words:
+- Simmental
+- semipostal
+- suprasegmental
+- surrebuttal

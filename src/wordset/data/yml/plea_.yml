@@ -1,0 +1,50 @@
+---
+pattern: plea_
+hi_scored_words_count: 22
+scored_words_count: 10
+total_words: 40
+score: 2376334
+score_per_word: 74260
+hi_scored_words:
+  plea: 8727
+  plead: 14912
+  pleaded: 13832
+  pleading: 16616
+  pleadings: 38461
+  pleads: 27515
+  pleas: 22662
+  pleasant: 2991
+  pleasantly: 15758
+  pleasantries: 95213
+  please: 206
+  pleased: 2495
+  pleases: 26374
+  pleasing: 9821
+  pleasingly: 95145
+  pleasurable: 23388
+  pleasure: 1980
+  pleasures: 8973
+  pleasuring: 78049
+  pleat: 56983
+  pleated: 36398
+  pleats: 66138
+scored_words:
+  pleader: 121262
+  pleadingly: 209484
+  pleasance: 130943
+  pleasanter: 144748
+  pleasantest: 190262
+  pleasantness: 121174
+  pleasantry: 182557
+  pleasurably: 260630
+  pleasured: 167492
+  pleating: 185145
+not_scored_words:
+- pleach
+- pleached
+- pleaches
+- pleaching
+- pleaders
+- pleasances
+- pleasings
+- pleasureful

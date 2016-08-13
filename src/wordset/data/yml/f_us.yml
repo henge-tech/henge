@@ -1,0 +1,85 @@
+---
+pattern: f_us
+hi_scored_words_count: 26
+scored_words_count: 13
+total_words: 75
+score: 3307730
+score_per_word: 84813
+hi_scored_words:
+  fabulous: 6822
+  facetious: 60660
+  fallacious: 49134
+  famous: 1531
+  farinaceous: 92505
+  fastidious: 56384
+  fatuous: 82866
+  felicitous: 75517
+  felonious: 79449
+  ferocious: 24680
+  ferrous: 32802
+  ferruginous: 96456
+  fetus: 20774
+  fibrous: 26248
+  fictitious: 19633
+  ficus: 47090
+  filamentous: 62722
+  flirtatious: 75423
+  focus: 3631
+  fortuitous: 48991
+  fractious: 78517
+  frivolous: 20221
+  fundus: 62532
+  fungus: 18798
+  furious: 9447
+  fuscous: 49011
+scored_words:
+  factious: 132476
+  factitious: 102176
+  famulus: 211046
+  fasciculus: 207350
+  favus: 127688
+  fissiparous: 179883
+  flagitious: 206825
+  flatus: 134195
+  fossiliferous: 167655
+  frabjous: 126763
+  fremitus: 105519
+  fucus: 141502
+  fulvous: 262808
+not_scored_words:
+- Faunus
+- Faustus
+- Fergus
+- Flaminius
+- fabaceous
+- fagaceous
+- farraginous
+- fatuitous
+- ferreous
+- ferriferous
+- fetiparous
+- feverous
+- fibrinous
+- fichus
+- fistulous
+- flambeaus
+- flavorous
+- flexuous
+- flocculus
+- floccus
+- foliaceous
+- foreconscious
+- fractocumulus
+- fractostratus
+- fricandeaus
+- fructiferous
+- fructuous
+- frugivorous
+- frumentaceous
+- fugacious
+- fulgurous
+- fuliginous
+- fulminous
+- fungous
+- funiculus
+- furfuraceous

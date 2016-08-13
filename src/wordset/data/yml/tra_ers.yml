@@ -1,0 +1,36 @@
+---
+pattern: tra_ers
+hi_scored_words_count: 18
+scored_words_count: 2
+total_words: 26
+score: 891613
+score_per_word: 44580
+hi_scored_words:
+  tracers: 52873
+  trackers: 33530
+  traders: 13332
+  traffickers: 40547
+  trailblazers: 65226
+  trailers: 9773
+  trainers: 10862
+  tranquilizers: 64273
+  transceivers: 55883
+  transducers: 32917
+  transfers: 8997
+  transformers: 14921
+  transmitters: 21436
+  transponders: 65525
+  transporters: 35651
+  trappers: 52124
+  travelers: 7612
+  trawlers: 62236
+scored_words:
+  transcribers: 101480
+  transgenders: 142415
+not_scored_words:
+- traducers
+- trainbearers
+- trainspotters
+- trampers
+- tramplers
+- transputers

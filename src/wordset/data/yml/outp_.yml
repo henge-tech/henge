@@ -1,0 +1,46 @@
+---
+pattern: outp_
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 36
+score: 1869467
+score_per_word: 84975
+hi_scored_words:
+  outpace: 69807
+  outpaced: 84751
+  outpatient: 17719
+  outpatients: 54341
+  outperform: 36113
+  outperformed: 58075
+  outperforming: 89771
+  outperforms: 63815
+  outplayed: 91906
+  outpost: 17607
+  outposts: 43312
+  outpouring: 48236
+  output: 4321
+  outputs: 9103
+  outputting: 68781
+scored_words:
+  outpaces: 143818
+  outpacing: 106608
+  outplacement: 112237
+  outplay: 182499
+  outport: 244432
+  outpourings: 146120
+  outputted: 176095
+not_scored_words:
+- outplace
+- outplaying
+- outplays
+- outpoint
+- outpointed
+- outpointing
+- outpoints
+- outports
+- outpour
+- outproduce
+- outproduced
+- outproduces
+- outproducing
+- outpull

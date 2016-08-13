@@ -1,0 +1,44 @@
+---
+pattern: o_re
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 34
+score: 978506
+score_per_word: 69893
+hi_scored_words:
+  obscure: 7582
+  oeuvre: 37730
+  offshore: 10972
+  ogre: 24442
+  onshore: 33712
+  ore: 9203
+  outre: 64240
+  overexposure: 73495
+  overture: 17777
+scored_words:
+  omnivore: 128900
+  ordure: 114617
+  outscore: 201252
+  ovenware: 145773
+  overpressure: 108811
+not_scored_words:
+- Obamacare
+- Ore
+- Oxfordshire
+- olericulture
+- ommatophore
+- oosphere
+- oospore
+- orthodonture
+- otherwhere
+- outdare
+- outstare
+- outwore
+- overbore
+- overinsure
+- overmeasure
+- overscore
+- oversevere
+- overshare
+- overtire
+- ozonosphere

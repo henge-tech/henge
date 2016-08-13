@@ -1,0 +1,43 @@
+---
+pattern: hyp_e
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 33
+score: 1635638
+score_per_word: 86086
+hi_scored_words:
+  hype: 14208
+  hyperactive: 41344
+  hyperbole: 38712
+  hypercube: 77639
+  hyperfine: 83733
+  hyperplane: 85127
+  hypersensitive: 62846
+  hyperspace: 47141
+  hypertensive: 38225
+  hyphae: 81204
+  hypnotize: 38644
+  hypochlorite: 59915
+  hypocrite: 27322
+  hypotenuse: 97038
+  hypothesize: 54064
+scored_words:
+  hyperventilate: 219113
+  hyphenate: 108975
+  hypothecate: 331028
+  hypoxanthine: 129360
+not_scored_words:
+- hypallage
+- hyperbolize
+- hypersensitize
+- hypersthene
+- hypnotizable
+- hypogene
+- hyponitrite
+- hypophosphate
+- hypophosphite
+- hypophyge
+- hyposensitize
+- hypostasize
+- hypostatize
+- hypostyle

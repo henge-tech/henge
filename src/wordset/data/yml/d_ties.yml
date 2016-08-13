@@ -1,0 +1,38 @@
+---
+pattern: d_ties
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 28
+score: 1118082
+score_per_word: 62115
+hi_scored_words:
+  dainties: 87378
+  deformities: 47352
+  deities: 20474
+  densities: 18790
+  deputies: 18639
+  difficulties: 3386
+  disabilities: 7606
+  discontinuities: 49061
+  disparities: 21975
+  diversities: 87499
+  divinities: 91222
+  duties: 2419
+  dynasties: 38911
+scored_words:
+  declivities: 142810
+  dignities: 106418
+  dissimilarities: 141128
+  ditties: 109044
+  dualities: 123970
+not_scored_words:
+- dacoities
+- debilities
+- delectabilities
+- demonstrabilities
+- depravities
+- dextralities
+- dimensionalities
+- directionalities
+- dirties
+- duplicities

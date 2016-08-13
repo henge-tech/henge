@@ -1,0 +1,68 @@
+---
+pattern: a_ter
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 58
+score: 2415956
+score_per_word: 92921
+hi_scored_words:
+  accelerometer: 53714
+  accipiter: 84981
+  adapter: 9120
+  adjuster: 38683
+  administer: 9880
+  adopter: 56481
+  after: 98
+  alabaster: 30485
+  alter: 4817
+  altimeter: 40926
+  ammeter: 86374
+  amphitheater: 40568
+  anemometer: 65925
+  anteater: 76483
+  antimatter: 58102
+  arbiter: 31289
+  aster: 35531
+scored_words:
+  abetter: 184028
+  abutter: 307835
+  accepter: 209323
+  aflutter: 278436
+  apter: 117026
+  arrester: 122256
+  audiometer: 167956
+  augmenter: 117330
+  azotobacter: 188309
+not_scored_words:
+- Antipater
+- Auster
+- Axminster
+- abrupter
+- abstracter
+- accouter
+- acetometer
+- acidimeter
+- acroter
+- actinometer
+- acuter
+- aerometer
+- aglitter
+- airletter
+- alcoholometer
+- algometer
+- alkalimeter
+- allotter
+- ambidexter
+- amphiaster
+- ancienter
+- anointer
+- assaulter
+- assenter
+- asserter
+- assorter
+- astuter
+- atmometer
+- attester
+- attributer
+- atwitter
+- auguster

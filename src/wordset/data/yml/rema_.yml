@@ -1,0 +1,58 @@
+---
+pattern: rema_
+hi_scored_words_count: 28
+scored_words_count: 10
+total_words: 48
+score: 2673502
+score_per_word: 70355
+hi_scored_words:
+  remade: 42237
+  remain: 1359
+  remainder: 5648
+  remainders: 71324
+  remained: 2522
+  remaining: 2171
+  remains: 1679
+  remake: 16592
+  remakes: 50593
+  remaking: 53590
+  remand: 29693
+  remanded: 33095
+  remap: 83290
+  remapping: 88542
+  remark: 5445
+  remarkable: 3988
+  remarkably: 10386
+  remarked: 10075
+  remarking: 59741
+  remarks: 3698
+  remarque: 92666
+  remarriage: 55441
+  remarried: 46742
+  remarry: 64781
+  remaster: 48334
+  remastered: 19901
+  remastering: 94775
+  rematch: 42159
+scored_words:
+  remaindered: 195200
+  remanding: 136585
+  remands: 167759
+  remanence: 193174
+  remanent: 150213
+  remanufacture: 114143
+  remapped: 146307
+  remarries: 124066
+  remarrying: 247757
+  remasters: 157831
+not_scored_words:
+- Remarque
+- remaindering
+- remainderman
+- remandment
+- remaps
+- remarkableness
+- remarriages
+- rematches
+- rematching
+- rematerialized

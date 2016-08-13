@@ -1,0 +1,38 @@
+---
+pattern: tran_y
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 28
+score: 2075158
+score_per_word: 115286
+hi_scored_words:
+  tranquility: 28815
+  tranquillity: 24788
+  transferability: 76027
+  transiently: 66442
+  transitivity: 83743
+  transitory: 32151
+  translucency: 90003
+  transparency: 10980
+  transparently: 49992
+  transversely: 64594
+scored_words:
+  tranquilly: 177532
+  transcendentally: 147300
+  transcriptionally: 149210
+  transiency: 149542
+  transitively: 181175
+  transmogrify: 239399
+  transportability: 227344
+  transsexuality: 276121
+not_scored_words:
+- transcendency
+- transcendently
+- transitionally
+- transitionary
+- transitorily
+- translatability
+- translucently
+- transmigratory
+- transmutability
+- transmutably

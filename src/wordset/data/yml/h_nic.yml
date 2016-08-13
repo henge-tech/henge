@@ -1,0 +1,29 @@
+---
+pattern: h_nic
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 19
+score: 952119
+score_per_word: 79343
+hi_scored_words:
+  hallucinogenic: 60596
+  harmonic: 19049
+  hedonic: 63793
+  hegemonic: 59717
+  histrionic: 78848
+  hydroponic: 58293
+  hygienic: 30839
+  hypersonic: 68679
+  hypertonic: 91987
+  hypoallergenic: 69907
+scored_words:
+  homophonic: 217166
+  hypotonic: 133245
+not_scored_words:
+- Hellenic
+- Hispanic
+- hematinic
+- histaminic
+- homorganic
+- hydrocarbonic
+- hysterogenic

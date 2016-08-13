@@ -1,0 +1,44 @@
+---
+pattern: in_lly
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 34
+score: 1498964
+score_per_word: 78892
+hi_scored_words:
+  incidentally: 14542
+  incrementally: 45447
+  individually: 7535
+  industrially: 72392
+  informally: 29403
+  initially: 7467
+  institutionally: 73570
+  integrally: 78106
+  intellectually: 20333
+  intentionally: 12956
+  internally: 12301
+  internationally: 10488
+  intrinsically: 30851
+scored_words:
+  ineffectually: 210313
+  inferentially: 179354
+  infernally: 138548
+  infinitesimally: 145187
+  instrumentally: 115784
+  interpersonally: 294387
+not_scored_words:
+- inconsequentially
+- incorporeally
+- individualistically
+- inflectionally
+- influentially
+- inimically
+- inorganically
+- inquisitorially
+- inspirationally
+- insubstantially
+- intensionally
+- interjectionally
+- interstitially
+- intestinally
+- intuitionally

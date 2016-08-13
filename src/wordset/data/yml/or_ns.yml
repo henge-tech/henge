@@ -1,0 +1,30 @@
+---
+pattern: or_ns
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 821360
+score_per_word: 74669
+hi_scored_words:
+  orangutans: 79913
+  orations: 95358
+  orchestrations: 89484
+  organizations: 2560
+  organs: 6465
+  orientations: 25067
+  origins: 10560
+  orphans: 17656
+scored_words:
+  ordains: 145748
+  ordinations: 137027
+  orisons: 211522
+not_scored_words:
+- Oregonians
+- Orleans
+- Orlons
+- Orpingtons
+- organons
+- ornithischians
+- orthicons
+- orthopterans
+- ortolans

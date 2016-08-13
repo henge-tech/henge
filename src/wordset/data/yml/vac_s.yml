@@ -1,0 +1,27 @@
+---
+pattern: vac_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 612111
+score_per_word: 61211
+hi_scored_words:
+  vacancies: 12192
+  vacationers: 64577
+  vacations: 11395
+  vaccinations: 29633
+  vaccines: 11666
+  vacuoles: 83011
+  vacuous: 62344
+  vacuums: 34643
+scored_words:
+  vacates: 172154
+  vacs: 130496
+not_scored_words:
+- vacationists
+- vaccinates
+- vaccinias
+- vacillates
+- vacillations
+- vacillators
+- vacuousness

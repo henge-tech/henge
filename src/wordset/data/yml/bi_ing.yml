@@ -1,0 +1,47 @@
+---
+pattern: bi_ing
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 37
+score: 2112558
+score_per_word: 88023
+hi_scored_words:
+  biasing: 71641
+  bickering: 46122
+  bicycling: 25791
+  bidding: 4245
+  biding: 82488
+  biking: 11059
+  billing: 6008
+  billowing: 77983
+  binding: 3477
+  binning: 64719
+  bioengineering: 49216
+  birding: 29043
+  birdwatching: 53433
+  birthing: 39123
+  bitching: 34568
+  biting: 11968
+scored_words:
+  bifurcating: 253292
+  bilking: 222202
+  billeting: 136128
+  bingeing: 177646
+  binging: 156296
+  birling: 247235
+  bisecting: 161274
+  bitting: 147601
+not_scored_words:
+- biassing
+- bielding
+- biffing
+- biodegrading
+- biopsying
+- birching
+- birdieing
+- birdying
+- birring
+- bitewing
+- bitterling
+- bituminizing
+- bivouacking

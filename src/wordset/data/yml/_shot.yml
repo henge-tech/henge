@@ -1,0 +1,34 @@
+---
+pattern: _shot
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 24
+score: 1501047
+score_per_word: 88296
+hi_scored_words:
+  bigshot: 99199
+  bloodshot: 50504
+  buckshot: 55772
+  earshot: 48598
+  gunshot: 31231
+  hotshot: 55335
+  mugshot: 76349
+  overshot: 84220
+  screenshot: 6844
+  shot: 1050
+  slingshot: 34664
+  snapshot: 11964
+  upshot: 44096
+scored_words:
+  mailshot: 264391
+  potshot: 246509
+  scattershot: 160290
+  undershot: 230031
+not_scored_words:
+- Aldershot
+- birdshot
+- bowshot
+- eyeshot
+- grapeshot
+- moonshot
+- troubleshot

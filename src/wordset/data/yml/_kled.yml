@@ -1,0 +1,40 @@
+---
+pattern: _kled
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 30
+score: 2172282
+score_per_word: 94447
+hi_scored_words:
+  buckled: 50904
+  chuckled: 33783
+  crackled: 88476
+  crinkled: 98970
+  freckled: 60543
+  pickled: 27763
+  shackled: 65078
+  sparkled: 66525
+  speckled: 37963
+  sprinkled: 28886
+  tackled: 26180
+  tickled: 35369
+  trickled: 73011
+  wrinkled: 28650
+scored_words:
+  cackled: 144108
+  heckled: 139284
+  knuckled: 154268
+  rankled: 157357
+  suckled: 132506
+  tinkled: 218991
+  twinkled: 113896
+  unbuckled: 176439
+  unshackled: 213332
+not_scored_words:
+- besprinkled
+- prickled
+- stickled
+- strickled
+- truckled
+- unwrinkled
+- winkled

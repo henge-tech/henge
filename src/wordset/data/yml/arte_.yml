@@ -1,0 +1,32 @@
+---
+pattern: arte_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 1324713
+score_per_word: 101901
+hi_scored_words:
+  artemisia: 56112
+  arterial: 19518
+  arteries: 16831
+  arterioles: 95336
+  arteriosclerosis: 48690
+  arteriovenous: 64839
+  arteritis: 81141
+  artery: 11571
+  artesian: 66150
+scored_words:
+  artel: 209730
+  arteriolar: 168799
+  arteriole: 238916
+  arteriosclerotic: 247080
+not_scored_words:
+- Artemis
+- artefactual
+- artemisias
+- arterialize
+- arterialized
+- arterializes
+- arterializing
+- arteriotomy
+- arteritises

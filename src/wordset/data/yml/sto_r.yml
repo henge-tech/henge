@@ -1,0 +1,30 @@
+---
+pattern: sto_r
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 1057524
+score_per_word: 81348
+hi_scored_words:
+  stockbroker: 49509
+  stockholder: 38389
+  stoker: 39737
+  stoner: 25599
+  stopover: 49348
+  stopper: 24574
+  stor: 38174
+  storekeeper: 69979
+  storyteller: 27313
+  stover: 42716
+scored_words:
+  stonecutter: 193717
+  stonier: 265738
+  stouter: 192731
+not_scored_words:
+- stockbreeder
+- stockier
+- stockjobber
+- stodgier
+- stolider
+- stomacher
+- stormier

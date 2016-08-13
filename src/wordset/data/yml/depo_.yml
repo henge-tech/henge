@@ -1,0 +1,62 @@
+---
+pattern: depo_
+hi_scored_words_count: 24
+scored_words_count: 12
+total_words: 52
+score: 3323636
+score_per_word: 92323
+hi_scored_words:
+  depolarization: 53841
+  deponent: 87503
+  depopulation: 78623
+  deport: 47809
+  deportation: 26712
+  deportations: 70274
+  deported: 30888
+  deportment: 80694
+  depose: 58939
+  deposed: 35589
+  deposit: 4239
+  depositary: 62001
+  deposited: 7793
+  depositing: 37727
+  deposition: 11444
+  depositional: 69380
+  depositions: 41069
+  depositor: 56638
+  depositories: 67335
+  depositors: 52192
+  depository: 27858
+  deposits: 6507
+  depot: 6131
+  depots: 35682
+scored_words:
+  depolarizations: 292394
+  depolarized: 175266
+  depolarizing: 126013
+  depopulate: 239702
+  depopulated: 118132
+  deportable: 238013
+  deportee: 227516
+  deportees: 108778
+  deporting: 116448
+  deports: 285878
+  deposes: 200303
+  deposing: 138325
+not_scored_words:
+- depolarize
+- depolarizes
+- depoliticization
+- depoliticize
+- depoliticized
+- depoliticizes
+- depoliticizing
+- depolymerize
+- depone
+- deponed
+- deponents
+- depones
+- deponing
+- depopulates
+- depopulating
+- deposal

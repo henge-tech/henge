@@ -1,0 +1,26 @@
+---
+pattern: _urns
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 16
+score: 1250270
+score_per_word: 89305
+hi_scored_words:
+  burns: 5413
+  churns: 92642
+  downturns: 89709
+  mourns: 50630
+  overturns: 79368
+  returns: 1769
+  sideburns: 64911
+  spurns: 93881
+  turns: 2372
+  urns: 30331
+scored_words:
+  adjourns: 119435
+  sojourns: 141435
+  sunburns: 137692
+  upturns: 340682
+not_scored_words:
+- Burns
+- outturns

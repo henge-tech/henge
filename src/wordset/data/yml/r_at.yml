@@ -1,0 +1,27 @@
+---
+pattern: r_at
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 1322897
+score_per_word: 101761
+hi_scored_words:
+  raincoat: 46491
+  rat: 5235
+  reformat: 48422
+  reheat: 65461
+  repeat: 2932
+  retreat: 5571
+  riverboat: 43945
+  rowboat: 82916
+scored_words:
+  redcoat: 150361
+  requiescat: 240365
+  reseat: 203243
+  rheostat: 144118
+  rugrat: 283837
+not_scored_words:
+- Rabat
+- Rubaiyat
+- refloat
+- resat

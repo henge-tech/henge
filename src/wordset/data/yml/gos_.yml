@@ -1,0 +1,36 @@
+---
+pattern: gos_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 26
+score: 1119608
+score_per_word: 79972
+hi_scored_words:
+  gosh: 20397
+  goshawk: 68120
+  gosling: 36491
+  gospel: 4016
+  gospels: 21973
+  gosport: 51733
+  gossamer: 37729
+  gossip: 6375
+  gossiping: 52259
+  gossips: 65709
+scored_words:
+  goshawks: 286596
+  goslings: 159960
+  gossiped: 167190
+  gossipy: 141060
+not_scored_words:
+- Goshen
+- Gospel
+- Gospels
+- Gosplan
+- Gosse
+- gospodin
+- gossamery
+- gossiper
+- gossipers
+- gossipmonger
+- gossipry
+- gossoon

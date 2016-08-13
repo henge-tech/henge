@@ -1,0 +1,42 @@
+---
+pattern: _eme
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 32
+score: 1510142
+score_per_word: 88831
+hi_scored_words:
+  academe: 51535
+  blaspheme: 86654
+  creme: 24234
+  extreme: 1817
+  heme: 41905
+  meme: 14201
+  morpheme: 79291
+  phoneme: 54484
+  scheme: 1992
+  supreme: 2358
+  theme: 2439
+scored_words:
+  bireme: 293590
+  deme: 137084
+  grapheme: 182823
+  lexeme: 178406
+  raceme: 189283
+  trireme: 168046
+not_scored_words:
+- archiphoneme
+- enthymeme
+- feme
+- glosseme
+- millieme
+- mneme
+- morphophoneme
+- quadrireme
+- quinquereme
+- semanteme
+- sememe
+- spireme
+- tagmeme
+- taxeme
+- toneme

@@ -1,0 +1,57 @@
+---
+pattern: comp_y
+hi_scored_words_count: 25
+scored_words_count: 9
+total_words: 47
+score: 2442864
+score_per_word: 71848
+hi_scored_words:
+  compactly: 80017
+  company: 227
+  comparability: 42840
+  comparably: 75026
+  comparatively: 12919
+  compatibility: 6351
+  compensatory: 26141
+  competency: 16563
+  competently: 57279
+  competitively: 27433
+  complacency: 29387
+  complementarity: 47353
+  complementary: 14668
+  completely: 1353
+  complexity: 7224
+  complicity: 32136
+  complimentary: 11099
+  comply: 3691
+  comprehensively: 42853
+  compressibility: 79574
+  compulsively: 92671
+  compulsorily: 90088
+  compulsory: 9438
+  computability: 94174
+  computationally: 44240
+scored_words:
+  companionway: 168933
+  compassionately: 109294
+  compatibly: 263887
+  compellingly: 131672
+  complacently: 135198
+  complexly: 186327
+  compliancy: 103076
+  composedly: 233054
+  comprehensibility: 166678
+not_scored_words:
+- companionably
+- compendiously
+- complainingly
+- complaisantly
+- complementarily
+- compliantly
+- complicacy
+- complicatedly
+- complimentarily
+- compony
+- compositely
+- comprehensibly
+- compunctiously

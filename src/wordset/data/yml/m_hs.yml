@@ -1,0 +1,37 @@
+---
+pattern: m_hs
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 27
+score: 1364450
+score_per_word: 80261
+hi_scored_words:
+  mammoths: 89494
+  maths: 14903
+  megaliths: 89294
+  monarchs: 26689
+  monographs: 29189
+  monoliths: 91761
+  months: 443
+  morphs: 62285
+  moths: 21172
+  mouths: 12332
+  mullahs: 58205
+  myths: 10179
+scored_words:
+  matriarchs: 186521
+  menorahs: 188840
+  messiahs: 123860
+  meths: 211936
+  millionths: 147347
+not_scored_words:
+- Messiahs
+- Molechs
+- Molochs
+- madrasahs
+- maharajahs
+- matzohs
+- megadeaths
+- mesomorphs
+- mimeographs
+- motormouths

@@ -1,0 +1,64 @@
+---
+pattern: t_ble
+hi_scored_words_count: 25
+scored_words_count: 14
+total_words: 54
+score: 3264348
+score_per_word: 83701
+hi_scored_words:
+  table: 329
+  tangible: 11086
+  taxable: 19357
+  teachable: 69309
+  tenable: 52956
+  terrible: 3072
+  testable: 51426
+  thimble: 41009
+  timetable: 14115
+  tolerable: 24656
+  traceable: 36605
+  tractable: 48704
+  tradable: 57185
+  transferable: 26132
+  translatable: 90411
+  transmissible: 60263
+  transportable: 55320
+  treasonable: 91328
+  treatable: 50283
+  treble: 18989
+  tremble: 24666
+  trouble: 1448
+  tumble: 12811
+  tunable: 51895
+  turntable: 24182
+scored_words:
+  technobabble: 107704
+  terminable: 156174
+  thinkable: 131630
+  tillable: 271125
+  touchable: 153794
+  trackable: 117554
+  trainable: 115448
+  transferrable: 156140
+  transformable: 153201
+  transmittable: 230124
+  transposable: 103653
+  traversable: 183726
+  triable: 175644
+  tuneable: 270894
+not_scored_words:
+- tamable
+- tameable
+- tarnishable
+- tastable
+- tearable
+- tenantable
+- tensible
+- tetrasyllable
+- thurible
+- tithable
+- transmutable
+- trappable
+- treasurable
+- trisyllable
+- triturable

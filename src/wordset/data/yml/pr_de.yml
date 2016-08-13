@@ -1,0 +1,22 @@
+---
+pattern: pr_de
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 434456
+score_per_word: 43445
+hi_scored_words:
+  precede: 23962
+  preclude: 19142
+  prelude: 13974
+  preside: 29209
+  pride: 2486
+  promenade: 19029
+  protrude: 62877
+  provide: 400
+  prude: 67846
+scored_words:
+  promptitude: 195531
+not_scored_words:
+- Pride
+- protoxide

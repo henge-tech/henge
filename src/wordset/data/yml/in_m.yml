@@ -1,0 +1,47 @@
+---
+pattern: in_m
+hi_scored_words_count: 11
+scored_words_count: 10
+total_words: 37
+score: 2412665
+score_per_word: 114888
+hi_scored_words:
+  indium: 55759
+  individualism: 31607
+  infirm: 40541
+  inform: 3947
+  inoculum: 68895
+  inseam: 49078
+  intellectualism: 84334
+  intercom: 25316
+  interim: 8406
+  internationalism: 61090
+  interregnum: 88030
+scored_words:
+  inchworm: 182464
+  incrementalism: 215989
+  indeterminism: 258558
+  industrialism: 110280
+  infantilism: 119187
+  infundibulum: 261515
+  institutionalism: 134780
+  instrumentalism: 260534
+  interventionism: 126167
+  intuitionism: 226188
+not_scored_words:
+- Ingram
+- Instagram
+- incendiarism
+- incunabulum
+- indecorum
+- indifferentism
+- indusium
+- infallibilism
+- inflationism
+- infundibuliform
+- infusionism
+- initialism
+- insectarium
+- intuitivism
+- invalidism
+- involucrum

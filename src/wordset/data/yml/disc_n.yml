@@ -1,0 +1,25 @@
+---
+pattern: disc_n
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 15
+score: 240743
+score_per_word: 30092
+hi_scored_words:
+  discern: 17479
+  disciplinarian: 87568
+  discoloration: 40949
+  disconnection: 44350
+  discontinuation: 38530
+  discretion: 5332
+  discrimination: 5478
+  discussion: 1057
+scored_words: {}
+not_scored_words:
+- disclamation
+- discombobulation
+- discommon
+- disconcertion
+- disconsolation
+- discrown
+- discursion

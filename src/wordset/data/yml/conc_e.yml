@@ -1,0 +1,46 @@
+---
+pattern: conc_e
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 36
+score: 1909438
+score_per_word: 73439
+hi_scored_words:
+  concatenate: 81327
+  concave: 23788
+  concede: 21265
+  conceivable: 18685
+  conceive: 13014
+  concentrate: 7358
+  conceptualize: 64614
+  concessionaire: 87249
+  concierge: 19094
+  conciliate: 89392
+  concise: 12614
+  conclave: 42049
+  conclude: 5675
+  conclusive: 18170
+  concordance: 19699
+  concourse: 27189
+  concrete: 9713
+  concubine: 50977
+  concurrence: 23046
+scored_words:
+  concealable: 164011
+  concertante: 113790
+  concomitance: 108488
+  concretize: 323125
+  concubinage: 183559
+  concupiscence: 125893
+  concussive: 255654
+not_scored_words:
+- Concorde
+- concelebrate
+- concentrative
+- conceptacle
+- concertize
+- concessive
+- conchie
+- conciliative
+- concinnate
+- concrescence

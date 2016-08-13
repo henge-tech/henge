@@ -1,0 +1,22 @@
+---
+pattern: spr_ing
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 660107
+score_per_word: 66010
+hi_scored_words:
+  sprawling: 30161
+  spraying: 26644
+  spreading: 5759
+  spring: 890
+  springing: 28155
+  sprinkling: 32985
+  sprinting: 58466
+  sprouting: 44580
+scored_words:
+  spraining: 286914
+  sprucing: 145553
+not_scored_words:
+- spreeing
+- spritzing

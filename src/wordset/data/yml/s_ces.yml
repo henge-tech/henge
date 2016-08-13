@@ -1,0 +1,50 @@
+---
+pattern: s_ces
+hi_scored_words_count: 20
+scored_words_count: 10
+total_words: 40
+score: 2191634
+score_per_word: 73054
+hi_scored_words:
+  sacrifices: 12142
+  sauces: 20270
+  sciences: 2391
+  sconces: 58993
+  seduces: 47168
+  sentences: 5802
+  sequences: 12999
+  services: 550
+  shoelaces: 72191
+  silences: 48454
+  slices: 12444
+  sources: 1419
+  spaces: 4353
+  spices: 12389
+  splices: 56129
+  stances: 37678
+  subspaces: 72196
+  substances: 4301
+  suffices: 39087
+  surfaces: 6151
+scored_words:
+  seances: 100957
+  showpieces: 244787
+  significances: 218582
+  sixpences: 167596
+  sluices: 165826
+  solstices: 160832
+  spruces: 149236
+  subsequences: 161504
+  surplices: 182326
+  séances: 112881
+not_scored_words:
+- scapegraces
+- semblances
+- severances
+- showplaces
+- sidepieces
+- solaces
+- spadices
+- stridences
+- superabundances
+- symploces

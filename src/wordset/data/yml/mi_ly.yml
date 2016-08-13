@@ -1,0 +1,49 @@
+---
+pattern: mi_ly
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 39
+score: 1812040
+score_per_word: 100668
+hi_scored_words:
+  microscopically: 68357
+  mightily: 42521
+  mildly: 16471
+  militarily: 38652
+  mindlessly: 85437
+  minimally: 24761
+  minutely: 71010
+  miraculously: 35248
+  miserably: 32229
+  miserly: 75918
+  mistakenly: 31433
+scored_words:
+  microbiologically: 299481
+  microcephaly: 140041
+  militantly: 159491
+  mindfully: 212567
+  mirthlessly: 235294
+  mischievously: 122432
+  misleadingly: 120697
+not_scored_words:
+- miasmically
+- microcosmically
+- middlingly
+- midweekly
+- millennially
+- mimetically
+- mincingly
+- mindbogglingly
+- mineralogically
+- mingily
+- ministerially
+- mirthfully
+- misally
+- misanthropically
+- misapply
+- miscellaneously
+- misguidedly
+- misshapenly
+- mistily
+- mistrustfully
+- mitotically

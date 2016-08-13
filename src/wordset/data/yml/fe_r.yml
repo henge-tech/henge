@@ -1,0 +1,47 @@
+---
+pattern: fe_r
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 37
+score: 1421586
+score_per_word: 67694
+hi_scored_words:
+  fear: 1304
+  feather: 8967
+  feeder: 18321
+  feeler: 75147
+  feldspar: 44931
+  feller: 39661
+  femur: 32450
+  fencer: 62514
+  fender: 14326
+  fer: 19554
+  fertilizer: 17241
+  fervor: 33129
+  fester: 48331
+  fetter: 55552
+  fever: 4032
+  fewer: 4651
+scored_words:
+  feaster: 162441
+  feebler: 248795
+  feer: 179985
+  fetcher: 196934
+  fetor: 153320
+not_scored_words:
+- Fechner
+- Feininger
+- Fenrir
+- Ferber
+- Fervidor
+- Feuchtwanger
+- fearer
+- featherier
+- feigner
+- feistier
+- felicitator
+- fellator
+- fellmonger
+- fennelflower
+- fernier
+- feuar

@@ -1,0 +1,51 @@
+---
+pattern: _cide
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 41
+score: 2301680
+score_per_word: 100073
+hi_scored_words:
+  coincide: 16750
+  decide: 2283
+  deicide: 68780
+  fungicide: 47437
+  genocide: 15644
+  herbicide: 24623
+  homicide: 16586
+  infanticide: 56197
+  insecticide: 30495
+  matricide: 89051
+  patricide: 83727
+  pesticide: 16968
+  suicide: 4522
+scored_words:
+  bactericide: 329594
+  fratricide: 118845
+  germicide: 209680
+  larvicide: 329294
+  microbicide: 123987
+  parricide: 231920
+  regicide: 121299
+  rodenticide: 139336
+  spermicide: 109444
+  tyrannicide: 115218
+not_scored_words:
+- Barmecide
+- Homicide
+- aborticide
+- acaricide
+- algicide
+- ecocide
+- excide
+- feticide
+- filicide
+- liberticide
+- menticide
+- miticide
+- parasiticide
+- sororicide
+- teniacide
+- uxoricide
+- vaticide
+- vermicide

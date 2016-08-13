@@ -1,0 +1,60 @@
+---
+pattern: ro_er
+hi_scored_words_count: 25
+scored_words_count: 9
+total_words: 50
+score: 2640886
+score_per_word: 77673
+hi_scored_words:
+  roadrunner: 35744
+  roadster: 31930
+  roamer: 94348
+  roaster: 50543
+  robber: 20529
+  rocker: 19501
+  roger: 3170
+  roller: 9396
+  rollercoaster: 29798
+  rollover: 21233
+  romper: 44445
+  roofer: 73467
+  rooster: 19118
+  rooter: 60358
+  roper: 28300
+  rosewater: 85324
+  rosier: 95686
+  roster: 9563
+  rottweiler: 28529
+  rougher: 55006
+  rounder: 33483
+  rouser: 66538
+  router: 10625
+  rover: 8359
+  rower: 49838
+scored_words:
+  rocketeer: 112007
+  rockier: 227395
+  roister: 159700
+  romancer: 172129
+  roomer: 217906
+  roomier: 158541
+  rotifer: 176637
+  rotter: 105236
+  roughrider: 326504
+not_scored_words:
+- Rochester
+- Rockefeller
+- Rodger
+- Roger
+- Rottweiler
+- Rover
+- roarer
+- robuster
+- roilier
+- roisterer
+- ropedancer
+- ropier
+- rototiller
+- rottener
+- roturier
+- rowdier

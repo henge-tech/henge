@@ -1,0 +1,71 @@
+---
+pattern: _aled
+hi_scored_words_count: 23
+scored_words_count: 17
+total_words: 61
+score: 3623488
+score_per_word: 90587
+hi_scored_words:
+  annealed: 57367
+  appealed: 10239
+  concealed: 9304
+  credentialed: 76381
+  dialed: 32311
+  equaled: 53994
+  exhaled: 60719
+  foaled: 99738
+  healed: 17460
+  impaled: 42623
+  inhaled: 26403
+  paled: 89663
+  repealed: 14645
+  revealed: 2996
+  rivaled: 86723
+  scaled: 15113
+  sealed: 4396
+  signaled: 36109
+  squealed: 79177
+  totaled: 22425
+  unequaled: 80233
+  unrivaled: 45700
+  unsealed: 62852
+scored_words:
+  baled: 112292
+  congealed: 113007
+  haled: 251633
+  initialed: 109230
+  marshaled: 117134
+  pealed: 158214
+  pedaled: 164939
+  petaled: 235640
+  regaled: 112954
+  rescaled: 129377
+  resealed: 129543
+  spiraled: 118275
+  trialed: 155438
+  unconcealed: 188346
+  unhealed: 255804
+  unrevealed: 134193
+  unscaled: 110898
+not_scored_words:
+- backpedaled
+- coaled
+- descaled
+- empaled
+- lateraled
+- metaled
+- outgeneraled
+- overscaled
+- portaled
+- redialed
+- sandaled
+- sepaled
+- shoaled
+- staled
+- subtotaled
+- undersealed
+- unrepealed
+- victualed
+- waled
+- whaled
+- wholesaled

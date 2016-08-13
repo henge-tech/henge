@@ -1,0 +1,42 @@
+---
+pattern: moun_
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 32
+score: 1683845
+score_per_word: 70160
+hi_scored_words:
+  mound: 16105
+  mounds: 22731
+  mount: 2252
+  mountable: 69864
+  mountain: 1093
+  mountaineer: 32703
+  mountaineering: 24632
+  mountaineers: 30088
+  mountainous: 19831
+  mountains: 2320
+  mountainside: 50681
+  mountaintop: 56964
+  mountebank: 64886
+  mounted: 3411
+  mounties: 98331
+  mounting: 6281
+  mountings: 58738
+  mounts: 11437
+scored_words:
+  mounded: 201739
+  mounding: 240650
+  mountainsides: 174821
+  mountaintops: 130825
+  mountebanks: 146233
+  mounter: 217229
+not_scored_words:
+- Mount
+- Mountbatten
+- Mountie
+- Mounties
+- mountaineered
+- mountainy
+- mountebankery
+- mounters

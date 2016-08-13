@@ -1,0 +1,58 @@
+---
+pattern: t_ist
+hi_scored_words_count: 11
+scored_words_count: 12
+total_words: 48
+score: 2689263
+score_per_word: 116924
+hi_scored_words:
+  technologist: 33515
+  terrorist: 7604
+  theist: 62221
+  theorist: 35411
+  therapist: 12056
+  tourist: 6160
+  toxicologist: 92542
+  traditionalist: 58335
+  trombonist: 84278
+  twist: 7649
+  typist: 38910
+scored_words:
+  tattooist: 185671
+  taxidermist: 110051
+  taxonomist: 267711
+  telephonist: 217494
+  televangelist: 131975
+  theosophist: 155776
+  theurgist: 225070
+  titlist: 290739
+  tobacconist: 109922
+  transcendentalist: 152260
+  transcriptionist: 138231
+  triumphalist: 265682
+not_scored_words:
+- Talmudist
+- Taoist
+- Transcendentalist
+- Trappist
+- Trotskyist
+- tautologist
+- telegraphist
+- telepathist
+- teratologist
+- terminologist
+- textualist
+- thanatologist
+- thaumaturgist
+- therapeutist
+- thermodynamicist
+- threnodist
+- timpanist
+- tobogganist
+- topiarist
+- topologist
+- totemist
+- traditionist
+- trampolinist
+- tympanist
+- typologist

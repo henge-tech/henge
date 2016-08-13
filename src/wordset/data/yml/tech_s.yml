@@ -1,0 +1,22 @@
+---
+pattern: tech_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 12
+score: 893238
+score_per_word: 81203
+hi_scored_words:
+  techies: 48321
+  technicalities: 50989
+  technicians: 9860
+  technics: 28855
+  techniques: 9330
+  technocrats: 91749
+  technologies: 5123
+  technologists: 34115
+  techs: 21136
+scored_words:
+  technophiles: 266694
+  technophobes: 327066
+not_scored_words:
+- technocracies

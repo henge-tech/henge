@@ -1,0 +1,30 @@
+---
+pattern: s_sion
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 20
+score: 1051571
+score_per_word: 65723
+hi_scored_words:
+  secession: 26543
+  seclusion: 33943
+  session: 1964
+  subdivision: 11405
+  submission: 3251
+  subversion: 20706
+  succession: 7412
+  suffusion: 91975
+  supervision: 6132
+  suppression: 9803
+  suspension: 5783
+scored_words:
+  scission: 161808
+  suasion: 189257
+  subcommission: 217919
+  submersion: 103808
+  supersession: 159862
+not_scored_words:
+- Sezession
+- scansion
+- stratovision
+- succussion

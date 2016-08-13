@@ -1,0 +1,39 @@
+---
+pattern: ge_r
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 29
+score: 1306102
+score_per_word: 93293
+hi_scored_words:
+  gear: 3610
+  geezer: 41837
+  gender: 6390
+  generator: 8402
+  gentler: 44359
+  geographer: 55516
+  ger: 17829
+  getter: 41543
+  geyser: 45948
+scored_words:
+  geekier: 332422
+  genitor: 164462
+  geomancer: 265720
+  geometer: 136627
+  gerrymander: 141437
+not_scored_words:
+- Geber
+- Geiger
+- Geller
+- Ger
+- Gerber
+- Gewurztraminer
+- Gewürztraminer
+- gentrifier
+- genuflector
+- germander
+- germier
+- germinator
+- gerrymanderer
+- gesticulator
+- gesturer

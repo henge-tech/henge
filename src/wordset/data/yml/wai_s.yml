@@ -1,0 +1,30 @@
+---
+pattern: wai_s
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 1070512
+score_per_word: 82347
+hi_scored_words:
+  wailers: 57900
+  wails: 72481
+  waistcoats: 78036
+  waists: 83460
+  waiters: 29169
+  waitress: 20823
+  waitresses: 53482
+  waits: 12106
+  waivers: 22614
+  waives: 61390
+scored_words:
+  waifs: 110732
+  waistbands: 284244
+  waistlines: 184075
+not_scored_words:
+- wains
+- wainscotings
+- wainscots
+- wainscottings
+- wainwrights
+- waistcloths
+- waitpersons

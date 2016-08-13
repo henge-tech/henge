@@ -1,0 +1,63 @@
+---
+pattern: s_ch
+hi_scored_words_count: 27
+scored_words_count: 5
+total_words: 53
+score: 1464320
+score_per_word: 45760
+hi_scored_words:
+  sandwich: 7803
+  sch: 14021
+  scorch: 48332
+  scotch: 10056
+  scratch: 6203
+  screech: 37771
+  search: 389
+  sketch: 6748
+  slouch: 44952
+  smooch: 70658
+  snatch: 12413
+  snitch: 43552
+  speech: 1376
+  spinach: 18032
+  squelch: 51632
+  stagecoach: 39221
+  starch: 15512
+  staunch: 30074
+  stench: 27729
+  stich: 77166
+  stitch: 9444
+  stomach: 4459
+  stopwatch: 37328
+  stretch: 3822
+  such: 100
+  swatch: 31477
+  switch: 4168
+scored_words:
+  scrunch: 104952
+  sech: 167193
+  splotch: 200174
+  squinch: 186131
+  stanch: 151432
+not_scored_words:
+- Sandwich
+- Sasquatch
+- Sassenach
+- Scaramouch
+- Scotch
+- Sempach
+- Shadrach
+- Shostakovich
+- Shostakovitch
+- Sirach
+- Staubach
+- scaramouch
+- scutch
+- slowcoach
+- smartwatch
+- smirch
+- smutch
+- subbranch
+- superrich
+- surfperch
+- symposiarch

@@ -1,0 +1,21 @@
+---
+pattern: fl_ring
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 586793
+score_per_word: 65199
+hi_scored_words:
+  flaring: 47088
+  flattering: 20851
+  flavoring: 48524
+  flickering: 27458
+  flooring: 12684
+  floundering: 66781
+  flowering: 12359
+  fluttering: 42469
+scored_words:
+  flouring: 308579
+not_scored_words:
+- flittering
+- flustering

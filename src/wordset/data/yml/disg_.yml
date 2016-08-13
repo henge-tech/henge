@@ -1,0 +1,38 @@
+---
+pattern: disg_
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 28
+score: 1816862
+score_per_word: 90843
+hi_scored_words:
+  disgrace: 14428
+  disgraced: 39150
+  disgraceful: 27635
+  disgruntled: 35420
+  disguise: 12072
+  disguised: 16966
+  disguises: 49761
+  disguising: 69802
+  disgust: 16334
+  disgusted: 19876
+  disgusting: 13021
+scored_words:
+  disgorge: 114460
+  disgorged: 196428
+  disgorgement: 182679
+  disgracefully: 157432
+  disgraces: 172520
+  disgracing: 204855
+  disgustedly: 262271
+  disgustingly: 100626
+  disgusts: 111126
+not_scored_words:
+- disgorges
+- disgorging
+- disgracefulness
+- disgruntle
+- disgruntlement
+- disgruntles
+- disgruntling
+- disgustful

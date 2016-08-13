@@ -1,0 +1,26 @@
+---
+pattern: sust_
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 16
+score: 336868
+score_per_word: 33686
+hi_scored_words:
+  sustain: 7379
+  sustainability: 7416
+  sustainable: 8011
+  sustainably: 62291
+  sustained: 5225
+  sustainer: 94205
+  sustaining: 14170
+  sustainment: 70927
+  sustains: 35914
+  sustenance: 31330
+scored_words: {}
+not_scored_words:
+- sustainabilities
+- sustainedly
+- sustainments
+- sustentacular
+- sustentation
+- sustentations

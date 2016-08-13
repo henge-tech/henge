@@ -1,0 +1,36 @@
+---
+pattern: r_der
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 26
+score: 1066192
+score_per_word: 53309
+hi_scored_words:
+  raider: 16605
+  rangefinder: 50809
+  reader: 1388
+  reconsider: 18271
+  recorder: 11112
+  redder: 61870
+  rejoinder: 57548
+  remainder: 5648
+  reminder: 8034
+  render: 5637
+  reorder: 41314
+  responder: 26191
+  rider: 5624
+  ringleader: 65689
+  rounder: 33483
+  rudder: 22024
+  ruder: 85869
+scored_words:
+  railroader: 104723
+  retarder: 117849
+  roughrider: 326504
+not_scored_words:
+- Rhinelander
+- Ryder
+- raggeder
+- rapider
+- resider
+- ruggeder

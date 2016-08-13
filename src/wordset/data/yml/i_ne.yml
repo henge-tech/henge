@@ -1,0 +1,62 @@
+---
+pattern: i_ne
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 52
+score: 2640811
+score_per_word: 94314
+hi_scored_words:
+  imagine: 2023
+  immune: 11277
+  importune: 83475
+  inane: 39873
+  incline: 19529
+  inhumane: 39977
+  inline: 14890
+  inopportune: 85792
+  insane: 6922
+  interline: 92515
+  interne: 65382
+  internecine: 93803
+  intertwine: 83618
+  intervene: 15197
+  intestine: 18908
+  intrauterine: 46858
+  iodine: 20716
+  ironstone: 62280
+  isoleucine: 82297
+  isoprene: 92982
+scored_words:
+  illumine: 127043
+  imine: 219972
+  incarnadine: 234525
+  indiscipline: 137946
+  infantine: 193280
+  interphone: 268197
+  intone: 174467
+  intwine: 307067
+not_scored_words:
+- Igraine
+- Ilene
+- Imogene
+- Inhambane
+- Irene
+- Irvine
+- iPhone
+- idiophone
+- indamine
+- indene
+- indigene
+- induline
+- inquiline
+- inshrine
+- intermontane
+- intine
+- intramundane
+- inurbane
+- ionone
+- iridosmine
+- isocline
+- isoline
+- isooctane
+- isotone

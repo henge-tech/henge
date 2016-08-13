@@ -1,0 +1,22 @@
+---
+pattern: ru_le
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 12
+score: 786351
+score_per_word: 71486
+hi_scored_words:
+  rubble: 26137
+  ruble: 46979
+  ruffle: 31151
+  rule: 920
+  rumble: 14928
+  rundle: 74207
+  runnable: 98172
+  rustle: 43815
+  rutile: 78917
+scored_words:
+  ruddle: 194626
+  rumple: 176499
+not_scored_words:
+- ruinable

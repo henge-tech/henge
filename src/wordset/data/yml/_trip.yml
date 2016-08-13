@@ -1,0 +1,19 @@
+---
+pattern: _trip
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 398876
+score_per_word: 49859
+hi_scored_words:
+  airstrip: 45663
+  cantrip: 93065
+  filmstrip: 55300
+  outstrip: 72172
+  roundtrip: 56152
+  strip: 3529
+  trip: 1603
+  weatherstrip: 71392
+scored_words: {}
+not_scored_words:
+- atrip

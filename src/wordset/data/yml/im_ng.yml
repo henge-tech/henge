@@ -1,0 +1,60 @@
+---
+pattern: im_ng
+hi_scored_words_count: 24
+scored_words_count: 13
+total_words: 50
+score: 3005286
+score_per_word: 81223
+hi_scored_words:
+  imaging: 4248
+  imagining: 20030
+  imitating: 35546
+  immersing: 75237
+  immigrating: 97211
+  impacting: 27544
+  impairing: 62744
+  imparting: 42597
+  impeding: 55102
+  impending: 20708
+  impersonating: 63407
+  impinging: 91141
+  implanting: 88442
+  implementing: 8475
+  implicating: 79061
+  imploring: 76613
+  implying: 18819
+  importing: 15975
+  imposing: 10139
+  impressing: 46494
+  imprinting: 49913
+  imprisoning: 88843
+  improving: 4330
+  improvising: 64141
+scored_words:
+  imbibing: 136656
+  imbuing: 194899
+  immobilizing: 151367
+  immunizing: 120335
+  impaling: 134835
+  impeaching: 119954
+  impelling: 134871
+  imploding: 108472
+  impounding: 108756
+  impoverishing: 205652
+  impregnating: 121751
+  impugning: 191341
+  imputing: 129637
+not_scored_words:
+- imbricating
+- imbruing
+- immaterializing
+- immingling
+- immixing
+- immolating
+- immortalizing
+- immuring
+- impaneling
+- imperiling
+- importuning
+- imprecating
+- impulsing

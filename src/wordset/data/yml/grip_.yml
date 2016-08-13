@@ -1,0 +1,27 @@
+---
+pattern: grip_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 849085
+score_per_word: 70757
+hi_scored_words:
+  grip: 5341
+  gripe: 31322
+  gripes: 52033
+  griping: 87222
+  gripped: 31561
+  gripper: 49539
+  gripping: 20486
+  grips: 16426
+scored_words:
+  griped: 201672
+  grippe: 113619
+  grippers: 112191
+  grippy: 127673
+not_scored_words:
+- griper
+- gripers
+- grippingly
+- gripsack
+- gripsacks

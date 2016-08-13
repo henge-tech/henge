@@ -1,0 +1,39 @@
+---
+pattern: _min
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 29
+score: 1394471
+score_per_word: 82027
+hi_scored_words:
+  admin: 7660
+  albumin: 25573
+  benjamin: 4748
+  cumin: 30248
+  gamin: 86227
+  min: 2178
+  multivitamin: 50203
+  sysadmin: 36853
+  theremin: 72621
+  vermin: 31841
+  vitamin: 8330
+scored_words:
+  cyanocobalamin: 126014
+  hemin: 189152
+  lactalbumin: 175176
+  maximin: 142988
+  plasmin: 107404
+  provitamin: 297255
+not_scored_words:
+- Alderamin
+- Amin
+- Benjamin
+- Charmin
+- Duralumin
+- Min
+- adermin
+- legumin
+- megavitamin
+- merbromin
+- phenformin
+- stamin

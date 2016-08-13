@@ -1,0 +1,30 @@
+---
+pattern: l_ent
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 770206
+score_per_word: 70018
+hi_scored_words:
+  lament: 19371
+  latent: 13207
+  lenient: 36559
+  lent: 10508
+  ligament: 29873
+  lodgment: 98020
+  lucent: 33681
+  luminescent: 51021
+scored_words:
+  lambent: 154473
+  lineament: 181082
+  liniment: 142411
+not_scored_words:
+- Laurent
+- Lent
+- Lorient
+- lactescent
+- languishment
+- liquefacient
+- liquescent
+- loment
+- luculent

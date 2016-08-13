@@ -1,0 +1,31 @@
+---
+pattern: d_ul
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 21
+score: 796020
+score_per_word: 61232
+hi_scored_words:
+  deceitful: 36123
+  delightful: 7067
+  disdainful: 65958
+  disgraceful: 27635
+  disrespectful: 30089
+  distasteful: 36030
+  distrustful: 69372
+  doubtful: 11166
+  dreadful: 12017
+  dutiful: 58538
+scored_words:
+  direful: 117151
+  distressful: 211188
+  doleful: 113686
+not_scored_words:
+- deathful
+- despiteful
+- dessertspoonful
+- dirgeful
+- disannul
+- disgustful
+- disregardful
+- downhaul

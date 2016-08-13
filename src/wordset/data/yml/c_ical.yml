@@ -1,0 +1,49 @@
+---
+pattern: c_ical
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 39
+score: 1517965
+score_per_word: 60718
+hi_scored_words:
+  canonical: 17284
+  catechetical: 98829
+  categorical: 28053
+  cervical: 13807
+  chemical: 2702
+  chronological: 13391
+  classical: 2900
+  clerical: 10362
+  climatological: 67097
+  clinical: 9436
+  comical: 28603
+  conical: 24290
+  cortical: 20789
+  cosmological: 32839
+  critical: 1579
+  cyclical: 24071
+  cylindrical: 18175
+  cynical: 14118
+  cytological: 86171
+scored_words:
+  calendrical: 245993
+  chimerical: 129907
+  commonsensical: 259279
+  cosmical: 141118
+  criminological: 123485
+  cubical: 103687
+not_scored_words:
+- Calvinistical
+- campanological
+- cardiological
+- cartographical
+- casuistical
+- cenobitical
+- chemurgical
+- chronometrical
+- climatical
+- concentrical
+- cosmetological
+- cosmochemical
+- cosmogonical
+- cryptanalytical

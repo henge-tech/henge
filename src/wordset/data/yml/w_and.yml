@@ -1,0 +1,27 @@
+---
+pattern: w_and
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 723007
+score_per_word: 65727
+hi_scored_words:
+  waistband: 40937
+  wand: 13874
+  wasteland: 26142
+  wetland: 14251
+  withstand: 13388
+  wonderland: 22085
+  woodland: 16286
+  wristband: 34938
+scored_words:
+  washstand: 122688
+  watchband: 176269
+  waveband: 242149
+not_scored_words:
+- Wayland
+- Welland
+- Westmorland
+- Wieland
+- Witwatersrand
+- weasand

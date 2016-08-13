@@ -1,0 +1,57 @@
+---
+pattern: un_hed
+hi_scored_words_count: 17
+scored_words_count: 12
+total_words: 47
+score: 2991346
+score_per_word: 103149
+hi_scored_words:
+  unabashed: 54670
+  unattached: 31717
+  unbleached: 66603
+  unblemished: 70884
+  undernourished: 72657
+  undiminished: 78364
+  unearthed: 34838
+  unfinished: 11213
+  unfurnished: 51811
+  unleashed: 16662
+  unmatched: 28719
+  unpolished: 88483
+  unpublished: 13114
+  unpunished: 51915
+  unscathed: 42671
+  untouched: 17734
+  unwashed: 48759
+scored_words:
+  unbranched: 163002
+  uncashed: 340752
+  unchurched: 140717
+  unclothed: 115055
+  undistinguished: 101933
+  unenriched: 324662
+  unlatched: 234934
+  unreached: 131463
+  unsheathed: 174542
+  untarnished: 190438
+  unvarnished: 104321
+  unwatched: 188713
+not_scored_words:
+- unaccomplished
+- unblenched
+- unbreathed
+- unbrushed
+- unclenched
+- undetached
+- unembellished
+- unestablished
+- unhatched
+- unhitched
+- unlashed
+- unploughed
+- unquenched
+- unrefreshed
+- unscratched
+- unvanquished
+- unweighed
+- unwished

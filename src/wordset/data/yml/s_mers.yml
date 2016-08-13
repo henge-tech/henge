@@ -1,0 +1,27 @@
+---
+pattern: s_mers
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 17
+score: 1438380
+score_per_word: 95892
+hi_scored_words:
+  scammers: 47860
+  shimmers: 98965
+  skimmers: 75353
+  spammers: 19841
+  steamers: 30131
+  streamers: 37725
+  summers: 11248
+  swimmers: 26023
+scored_words:
+  schemers: 152385
+  screamers: 101436
+  simmers: 109755
+  slammers: 130617
+  sledgehammers: 271436
+  slimmers: 186203
+  stammers: 139402
+not_scored_words:
+- Summers
+- schussboomers

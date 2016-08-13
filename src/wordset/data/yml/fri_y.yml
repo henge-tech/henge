@@ -1,0 +1,30 @@
+---
+pattern: fri_y
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 1046085
+score_per_word: 87173
+hi_scored_words:
+  friary: 85354
+  friendly: 1235
+  frighteningly: 73548
+  frightfully: 89373
+  frilly: 66457
+  frisky: 45218
+  frivolity: 62493
+  frizzy: 74932
+scored_words:
+  frigidity: 149697
+  frippery: 111854
+  fritillary: 100189
+  frivolously: 185735
+not_scored_words:
+- Friday
+- friability
+- frictionally
+- friendlily
+- frigidly
+- fringy
+- friskily
+- frizzly

@@ -1,0 +1,28 @@
+---
+pattern: sen_e
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 1017257
+score_per_word: 78250
+hi_scored_words:
+  senate: 2388
+  senescence: 55520
+  senile: 41640
+  sense: 709
+  sensible: 6691
+  sensitive: 2941
+  sentence: 2511
+  sentience: 83892
+scored_words:
+  sene: 137555
+  sensate: 208273
+  sensationalize: 253807
+  sensitize: 102516
+  sente: 118814
+not_scored_words:
+- Senate
+- Senegalese
+- senarmontite
+- sensualize
+- sentimentalize

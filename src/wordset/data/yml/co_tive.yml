@@ -1,0 +1,74 @@
+---
+pattern: co_tive
+hi_scored_words_count: 28
+scored_words_count: 11
+total_words: 64
+score: 3241554
+score_per_word: 83116
+hi_scored_words:
+  cognitive: 14816
+  collaborative: 10211
+  collective: 5472
+  combative: 50009
+  commemorative: 25146
+  communicative: 27106
+  commutative: 37556
+  comparative: 4942
+  competitive: 6283
+  conductive: 25500
+  congestive: 32505
+  conjunctive: 62798
+  connective: 28226
+  consecutive: 8377
+  conservative: 3415
+  constitutive: 34703
+  constructive: 10742
+  consultative: 21277
+  consumptive: 54449
+  contemplative: 35616
+  contraceptive: 22717
+  contrastive: 92536
+  convective: 36357
+  cooperative: 8920
+  corrective: 17218
+  correlative: 55370
+  counterintuitive: 73292
+  counterproductive: 39356
+scored_words:
+  conflictive: 303983
+  conjugative: 246648
+  connotative: 210998
+  constrictive: 141799
+  contractive: 252724
+  contrapositive: 236158
+  coordinative: 272133
+  corporative: 135641
+  corroborative: 125876
+  corruptive: 291831
+  costive: 178848
+not_scored_words:
+- Conservative
+- coactive
+- coagulative
+- cogitative
+- collative
+- combinative
+- combustive
+- comitative
+- commentative
+- commiserative
+- conative
+- concentrative
+- conciliative
+- configurative
+- consecrative
+- contaminative
+- continuative
+- contortive
+- contradistinctive
+- contraindicative
+- contributive
+- cooptive
+- copulative
+- corelative
+- counteractive

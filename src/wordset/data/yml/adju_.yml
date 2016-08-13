@@ -1,0 +1,51 @@
+---
+pattern: adju_
+hi_scored_words_count: 21
+scored_words_count: 10
+total_words: 41
+score: 2466046
+score_per_word: 79549
+hi_scored_words:
+  adjudged: 51394
+  adjudicate: 55872
+  adjudicated: 50197
+  adjudicating: 84424
+  adjudication: 33126
+  adjudicator: 49503
+  adjunct: 18003
+  adjunctive: 82448
+  adjuncts: 58906
+  adjust: 6541
+  adjustable: 15578
+  adjusted: 10721
+  adjuster: 38683
+  adjusters: 56231
+  adjusting: 12137
+  adjustment: 5618
+  adjustments: 12262
+  adjusts: 31440
+  adjutant: 32556
+  adjuvant: 33555
+  adjuvants: 86945
+scored_words:
+  adjudge: 184281
+  adjudicates: 227596
+  adjudications: 111233
+  adjudicative: 125647
+  adjudicators: 101863
+  adjudicatory: 133666
+  adjunction: 157248
+  adjuration: 215993
+  adjure: 235067
+  adjured: 147312
+not_scored_words:
+- adjudges
+- adjudging
+- adjudgment
+- adjunctions
+- adjurations
+- adjuratory
+- adjures
+- adjuring
+- adjutancy
+- adjutants

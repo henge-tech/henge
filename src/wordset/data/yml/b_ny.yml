@@ -1,0 +1,30 @@
+---
+pattern: b_ny
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 20
+score: 890905
+score_per_word: 63636
+hi_scored_words:
+  balcony: 8301
+  barony: 43230
+  benny: 16064
+  bonny: 34959
+  bony: 25247
+  botany: 16103
+  brainy: 44785
+  brawny: 69270
+  briny: 99138
+  bunny: 11092
+scored_words:
+  betony: 157551
+  blenny: 105554
+  briony: 146188
+  bryony: 113423
+not_scored_words:
+- Benny
+- Bethany
+- Bonny
+- Brittany
+- bibliogony
+- branny

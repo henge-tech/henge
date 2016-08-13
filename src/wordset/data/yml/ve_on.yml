@@ -1,0 +1,29 @@
+---
+pattern: ve_on
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 886600
+score_per_word: 73883
+hi_scored_words:
+  vegetation: 6747
+  veneration: 42149
+  venison: 28323
+  ventilation: 11780
+  verification: 10687
+  vermilion: 28360
+  version: 832
+  vexation: 60558
+scored_words:
+  vectorization: 161224
+  venation: 198007
+  verbalization: 201736
+  versification: 136197
+not_scored_words:
+- Verizon
+- Vernon
+- venesection
+- vermiculation
+- vermination
+- vernation
+- vesiculation

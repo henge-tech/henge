@@ -1,0 +1,61 @@
+---
+pattern: inte_g
+hi_scored_words_count: 22
+scored_words_count: 16
+total_words: 51
+score: 3831927
+score_per_word: 100840
+hi_scored_words:
+  integrating: 8645
+  intending: 19055
+  intensifying: 49143
+  interacting: 15850
+  intercepting: 57923
+  interconnecting: 55201
+  interesting: 1009
+  interfacing: 36556
+  interfering: 19042
+  interlacing: 80607
+  interleaving: 77358
+  interlocking: 29901
+  interning: 96524
+  interpolating: 82885
+  interpreting: 13216
+  interrogating: 66760
+  interrupting: 26406
+  intersecting: 39464
+  intertwining: 88766
+  intervening: 19925
+  interviewing: 20637
+  interweaving: 98452
+scored_words:
+  interbreeding: 135151
+  intercalating: 270552
+  interceding: 198787
+  interchanging: 108980
+  interdicting: 276657
+  interjecting: 151429
+  interlining: 170397
+  interlinking: 122741
+  interloping: 202999
+  intermingling: 100310
+  intermixing: 179322
+  internalizing: 104672
+  internationalizing: 170555
+  interpenetrating: 234602
+  interposing: 154641
+  interspersing: 246807
+not_scored_words:
+- intellectualizing
+- intercommunicating
+- interfiling
+- interiorizing
+- interlarding
+- interluding
+- intermarrying
+- intermitting
+- interpellating
+- interrelating
+- interring
+- interrog
+- interstratifying

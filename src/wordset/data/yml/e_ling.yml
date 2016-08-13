@@ -1,0 +1,39 @@
+---
+pattern: e_ling
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 29
+score: 1809346
+score_per_word: 95228
+hi_scored_words:
+  earthling: 87797
+  emailing: 24743
+  enabling: 6968
+  encircling: 53719
+  enrolling: 33135
+  entailing: 90594
+  enthralling: 67274
+  entitling: 87366
+  equaling: 84134
+  excelling: 69922
+  exhaling: 99482
+  expelling: 62984
+  extolling: 80420
+scored_words:
+  embezzling: 125243
+  enameling: 155978
+  ennobling: 151052
+  entangling: 116865
+  exiling: 263528
+  eyeballing: 148142
+not_scored_words:
+- Ealing
+- embrangling
+- embroiling
+- empaling
+- empaneling
+- empurpling
+- enfeebling
+- enkindling
+- ensiling
+- exampling

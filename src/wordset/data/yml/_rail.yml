@@ -1,0 +1,26 @@
+---
+pattern: _rail
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1249700
+score_per_word: 96130
+hi_scored_words:
+  derail: 45188
+  frail: 20793
+  grail: 22828
+  guardrail: 69163
+  handrail: 64098
+  monorail: 34337
+  rail: 3539
+  trail: 2415
+scored_words:
+  bedrail: 308602
+  brail: 197004
+  contrail: 138436
+  headrail: 226881
+  taffrail: 116416
+not_scored_words:
+- Conrail
+- Grail
+- engrail

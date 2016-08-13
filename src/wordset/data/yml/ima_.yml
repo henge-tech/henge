@@ -1,0 +1,43 @@
+---
+pattern: ima_
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 33
+score: 1089908
+score_per_word: 49541
+hi_scored_words:
+  image: 808
+  imaged: 45207
+  imagery: 9718
+  images: 1585
+  imaginable: 22893
+  imaginary: 9677
+  imagination: 4058
+  imaginations: 29833
+  imaginative: 12995
+  imaginatively: 74311
+  imagine: 2023
+  imagined: 7648
+  imagines: 40697
+  imaging: 4248
+  imagining: 20030
+  imaginings: 75626
+  imago: 46148
+  imam: 26097
+  imams: 63518
+scored_words:
+  imaginal: 107561
+  imagistic: 277900
+  imamate: 207327
+not_scored_words:
+- Imam
+- imaginably
+- imaginativeness
+- imaginativenesses
+- imagings
+- imagism
+- imagisms
+- imagist
+- imagoes
+- imaret
+- imarets

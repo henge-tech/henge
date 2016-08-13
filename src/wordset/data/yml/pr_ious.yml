@@ -1,0 +1,20 @@
+---
+pattern: pr_ious
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 400246
+score_per_word: 44471
+hi_scored_words:
+  precarious: 23973
+  precious: 3569
+  precocious: 39029
+  prestigious: 13273
+  pretentious: 26210
+  previous: 660
+  prodigious: 31943
+  propitious: 64176
+scored_words:
+  precautious: 197413
+not_scored_words:
+- preconscious

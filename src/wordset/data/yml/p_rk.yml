@@ -1,0 +1,27 @@
+---
+pattern: p_rk
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 1155191
+score_per_word: 88860
+hi_scored_words:
+  paintwork: 74571
+  paperwork: 8671
+  park: 1270
+  patchwork: 23935
+  perk: 33836
+  pipework: 74489
+  pitchfork: 38473
+  pork: 6801
+  postmark: 45379
+scored_words:
+  paperbark: 252739
+  piecework: 150808
+  plasterwork: 193804
+  presswork: 250415
+not_scored_words:
+- Park
+- pinwork
+- pockmark
+- pressmark

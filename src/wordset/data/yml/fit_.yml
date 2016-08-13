@@ -1,0 +1,36 @@
+---
+pattern: fit_
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 26
+score: 885070
+score_per_word: 55316
+hi_scored_words:
+  fit: 1108
+  fitch: 23136
+  fitful: 89925
+  fitment: 82200
+  fitness: 3106
+  fits: 4254
+  fitted: 4587
+  fitter: 31464
+  fitters: 55910
+  fittest: 34763
+  fitting: 5305
+  fittingly: 74661
+  fittings: 15526
+scored_words:
+  fitfully: 124848
+  fitly: 129252
+  fitments: 205025
+not_scored_words:
+- Fitch
+- FitzGerald
+- Fitzgerald
+- Fitzpatrick
+- Fitzroy
+- Fitzsimmons
+- fitches
+- fitfulness
+- fittingness
+- fittingnesses

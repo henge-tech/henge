@@ -1,0 +1,40 @@
+---
+pattern: unc_ted
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 30
+score: 2101385
+score_per_word: 87557
+hi_scored_words:
+  uncharted: 46665
+  uncirculated: 73655
+  uncoated: 69319
+  uncollected: 78202
+  uncommitted: 58114
+  uncompensated: 83499
+  uncompleted: 85549
+  uncomplicated: 40134
+  unconnected: 37250
+  unconsolidated: 72011
+  uncontaminated: 87567
+  uncontested: 42643
+  uncoordinated: 70475
+  uncorrected: 50491
+  uncorrelated: 62212
+  uncounted: 96999
+  uncredited: 29318
+  uncultivated: 74411
+scored_words:
+  uncalibrated: 154780
+  uncarpeted: 274423
+  unconverted: 106150
+  uncorroborated: 147121
+  uncorrupted: 129908
+  uncreated: 130489
+not_scored_words:
+- uncelebrated
+- unconsecrated
+- unconstricted
+- unconsummated
+- uncovenanted
+- uncrated

@@ -1,0 +1,24 @@
+---
+pattern: degr_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 14
+score: 1162740
+score_per_word: 96895
+hi_scored_words:
+  degradable: 99229
+  degradation: 8635
+  degrade: 22429
+  degraded: 22375
+  degrades: 48733
+  degrading: 21409
+  degree: 826
+  degrees: 1834
+scored_words:
+  degradability: 242228
+  degradations: 159376
+  degradative: 213277
+  degrease: 322389
+not_scored_words:
+- degrader
+- degression

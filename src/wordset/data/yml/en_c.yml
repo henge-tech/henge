@@ -1,0 +1,44 @@
+---
+pattern: en_c
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 34
+score: 1799010
+score_per_word: 94684
+hi_scored_words:
+  enc: 46700
+  encaustic: 88936
+  encyclopedic: 44635
+  endemic: 23816
+  endoplasmic: 47404
+  endoscopic: 35183
+  energetic: 9637
+  enigmatic: 30612
+  enteric: 44046
+  enthusiastic: 8477
+  entropic: 96597
+  enzymatic: 28276
+scored_words:
+  enclitic: 226403
+  encomiastic: 230118
+  endodontic: 100484
+  endothermic: 109259
+  enharmonic: 290204
+  enzootic: 215324
+  enzymic: 122899
+not_scored_words:
+- encephalic
+- encephalitic
+- endermic
+- endocentric
+- endocrinologic
+- endoergic
+- endogamic
+- endomorphic
+- engrammatic
+- enphytotic
+- enthetic
+- entomologic
+- entopic
+- entozoic
+- enuretic

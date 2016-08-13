@@ -1,0 +1,37 @@
+---
+pattern: curr_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 27
+score: 911439
+score_per_word: 53614
+hi_scored_words:
+  currant: 38451
+  currants: 51965
+  currencies: 9882
+  currency: 4345
+  current: 557
+  currently: 4763
+  currents: 9828
+  curricula: 16287
+  curricular: 19515
+  curriculum: 7857
+  curried: 62569
+  currier: 57103
+  curries: 55979
+  curry: 12456
+scored_words:
+  currentness: 127787
+  curricle: 266744
+  currying: 165351
+not_scored_words:
+- Currier
+- Curry
+- currajong
+- currentnesses
+- curriery
+- currish
+- currycomb
+- currycombed
+- currycombing
+- currycombs

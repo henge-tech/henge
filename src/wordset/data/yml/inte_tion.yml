@@ -1,0 +1,38 @@
+---
+pattern: inte_tion
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 28
+score: 1346482
+score_per_word: 58542
+hi_scored_words:
+  integration: 10369
+  intensification: 36896
+  intention: 3862
+  interaction: 9374
+  interception: 20935
+  interconnection: 22847
+  interdiction: 54761
+  interjection: 65810
+  internalization: 61101
+  internationalization: 33161
+  interpolation: 25479
+  interposition: 68860
+  interpretation: 3450
+  interrelation: 76212
+  interrogation: 18312
+  interruption: 12068
+  intersection: 10694
+  intervention: 8852
+scored_words:
+  intellection: 225314
+  intercalation: 102558
+  intercommunication: 109065
+  interpellation: 215463
+  interpenetration: 151039
+not_scored_words:
+- intellectualization
+- intercolumniation
+- interlocution
+- interlunation
+- intermigration

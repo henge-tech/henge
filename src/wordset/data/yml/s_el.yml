@@ -1,0 +1,59 @@
+---
+pattern: s_el
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 49
+score: 2149404
+score_per_word: 76764
+hi_scored_words:
+  satchel: 30653
+  scalpel: 45410
+  schnitzel: 93216
+  scoundrel: 42337
+  sentinel: 11257
+  sequel: 9943
+  shekel: 41684
+  shovel: 18096
+  shrapnel: 35311
+  shrivel: 87020
+  snorkel: 33752
+  sorrel: 40803
+  spaniel: 22009
+  spiel: 30746
+  spinel: 71947
+  squirrel: 12119
+  steel: 1660
+  strudel: 80250
+  supermodel: 33764
+  swivel: 22223
+scored_words:
+  seel: 105676
+  semivowel: 122609
+  sheqel: 127865
+  snivel: 284471
+  spandrel: 141142
+  spirituel: 150686
+  streusel: 188373
+  synfuel: 264382
+not_scored_words:
+- Sahel
+- Samuel
+- Schlegel
+- Schnabel
+- Schutzstaffel
+- Singspiel
+- Stael
+- Stengel
+- samiel
+- saurel
+- schlemiel
+- schlimazel
+- scissel
+- scrannel
+- sewellel
+- sidewheel
+- singspiel
+- spancel
+- stammel
+- stipel
+- subparallel

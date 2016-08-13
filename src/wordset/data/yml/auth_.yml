@@ -1,0 +1,44 @@
+---
+pattern: auth_
+hi_scored_words_count: 28
+scored_words_count: 4
+total_words: 34
+score: 1581510
+score_per_word: 49422
+hi_scored_words:
+  auth: 23916
+  authentic: 5753
+  authentically: 62316
+  authenticate: 27258
+  authenticated: 24210
+  authenticates: 92960
+  authenticating: 59923
+  authentication: 10579
+  authenticator: 54369
+  authenticity: 14317
+  author: 510
+  authored: 12336
+  authorial: 79597
+  authoring: 18286
+  authoritarian: 24156
+  authoritarianism: 53343
+  authoritative: 12613
+  authoritatively: 81043
+  authorities: 2340
+  authority: 933
+  authorization: 13244
+  authorizations: 45682
+  authorize: 12092
+  authorized: 3980
+  authorizes: 25136
+  authorizing: 17636
+  authors: 1884
+  authorship: 23380
+scored_words:
+  authentications: 155388
+  authenticators: 224749
+  authoress: 183099
+  authoritarians: 214482
+not_scored_words:
+- authoresses
+- authoritativeness

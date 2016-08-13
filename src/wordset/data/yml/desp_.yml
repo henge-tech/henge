@@ -1,0 +1,52 @@
+---
+pattern: desp_
+hi_scored_words_count: 19
+scored_words_count: 11
+total_words: 42
+score: 2558339
+score_per_word: 85277
+hi_scored_words:
+  despair: 8216
+  despaired: 89459
+  despairing: 50257
+  desperado: 45796
+  desperate: 3731
+  desperately: 9611
+  desperation: 16092
+  despicable: 30170
+  despise: 18172
+  despised: 27020
+  despises: 66573
+  despising: 97056
+  despite: 2185
+  despondency: 66717
+  despondent: 56948
+  despot: 49027
+  despotic: 45135
+  despotism: 37740
+  despots: 83348
+scored_words:
+  despairingly: 180513
+  despairs: 160905
+  desperadoes: 142666
+  despicably: 132904
+  despoil: 188023
+  despoiled: 138014
+  despoiling: 153376
+  despoliation: 170370
+  despond: 173755
+  despondence: 165872
+  despondently: 148688
+not_scored_words:
+- desperateness
+- despicableness
+- despicablenesses
+- despiser
+- despiteful
+- despoiler
+- despoilers
+- despoilment
+- despoils
+- despondingly
+- despotically
+- despumate

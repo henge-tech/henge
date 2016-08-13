@@ -1,0 +1,30 @@
+---
+pattern: ant_r
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 20
+score: 623709
+score_per_word: 62370
+hi_scored_words:
+  anteater: 76483
+  antechamber: 94917
+  anterior: 12105
+  anther: 71350
+  anticancer: 57078
+  antimatter: 58102
+  antitumor: 68131
+  antiwar: 41723
+  antler: 31963
+scored_words:
+  antinuclear: 111857
+not_scored_words:
+- Antipater
+- antechoir
+- antiar
+- antichlor
+- anticipator
+- antilabor
+- antimacassar
+- antiquer
+- antitakeover
+- antsier

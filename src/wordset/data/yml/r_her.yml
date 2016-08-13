@@ -1,0 +1,29 @@
+---
+pattern: r_her
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 19
+score: 1275175
+score_per_word: 91083
+hi_scored_words:
+  rancher: 36657
+  rather: 477
+  reacher: 97284
+  rebreather: 98085
+  refresher: 28467
+  researcher: 11360
+  richer: 11620
+  rougher: 55006
+  rusher: 69141
+scored_words:
+  radiographer: 119770
+  rasher: 144267
+  ravisher: 209056
+  refinisher: 217854
+  replenisher: 176131
+not_scored_words:
+- Rather
+- Reuther
+- regather
+- relinquisher
+- reproacher

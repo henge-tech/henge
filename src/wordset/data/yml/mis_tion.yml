@@ -1,0 +1,29 @@
+---
+pattern: mis_tion
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 19
+score: 1572339
+score_per_word: 98271
+hi_scored_words:
+  misappropriation: 55046
+  miscalculation: 79323
+  miscegenation: 97631
+  miscommunication: 68948
+  misconception: 27074
+  misdirection: 81615
+  misinformation: 26491
+  misinterpretation: 57183
+  misrepresentation: 28110
+scored_words:
+  misallocation: 168856
+  misapplication: 108334
+  misconstruction: 157722
+  misidentification: 133056
+  misperception: 102463
+  mispronunciation: 199502
+  mistranslation: 180985
+not_scored_words:
+- misadministration
+- misorientation
+- misquotation

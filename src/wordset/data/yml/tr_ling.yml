@@ -1,0 +1,29 @@
+---
+pattern: tr_ling
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 1098948
+score_per_word: 78496
+hi_scored_words:
+  trailing: 14143
+  trampling: 32251
+  traveling: 4997
+  trawling: 55218
+  trembling: 14982
+  trickling: 56394
+  trifling: 39008
+  trilling: 90770
+  tripling: 84267
+  trolling: 22555
+  troubling: 20098
+scored_words:
+  trebling: 275142
+  trialing: 184243
+  trundling: 204880
+not_scored_words:
+- trammeling
+- travailing
+- treadling
+- troweling
+- truckling

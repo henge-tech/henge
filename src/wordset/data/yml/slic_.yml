@@ -1,0 +1,27 @@
+---
+pattern: slic_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 17
+score: 1186439
+score_per_word: 84745
+hi_scored_words:
+  slice: 7912
+  sliced: 13805
+  slicer: 44515
+  slices: 12444
+  slicing: 35471
+  slick: 15207
+  slicker: 60612
+  slickers: 77283
+  slicks: 76134
+scored_words:
+  slicers: 101434
+  slicked: 122654
+  slickest: 176741
+  slickly: 209519
+  slickness: 232708
+not_scored_words:
+- sliceable
+- slickenside
+- slicking

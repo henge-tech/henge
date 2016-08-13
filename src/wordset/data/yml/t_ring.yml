@@ -1,0 +1,45 @@
+---
+pattern: t_ring
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 35
+score: 1696326
+score_per_word: 67853
+hi_scored_words:
+  tailoring: 34428
+  tampering: 33684
+  tapering: 41207
+  tearing: 13344
+  teetering: 70931
+  tempering: 55405
+  tendering: 44476
+  texturing: 58178
+  thundering: 32745
+  tinkering: 44754
+  tiring: 28209
+  torturing: 31431
+  tottering: 72940
+  touring: 12041
+  towering: 24102
+  transferring: 12372
+  triggering: 23201
+  tutoring: 14002
+scored_words:
+  tarring: 153180
+  tethering: 102897
+  timbering: 210278
+  tittering: 115810
+  transpiring: 142314
+  treasuring: 211969
+  twittering: 112428
+not_scored_words:
+- Turing
+- talebearing
+- taring
+- tasering
+- tattering
+- tenuring
+- tincturing
+- tonsuring
+- transfiguring
+- tuckering

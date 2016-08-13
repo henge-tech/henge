@@ -1,0 +1,50 @@
+---
+pattern: d_p
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 40
+score: 1668794
+score_per_word: 61807
+hi_scored_words:
+  damp: 10466
+  dap: 30424
+  dealership: 16190
+  decamp: 92912
+  deep: 795
+  dep: 19746
+  desktop: 6997
+  develop: 2063
+  dictatorship: 20315
+  dip: 7030
+  directorship: 72996
+  discipleship: 38666
+  dollop: 64469
+  doorstep: 18881
+  doorstop: 93712
+  dorp: 90756
+  drip: 16390
+  droop: 50523
+  drop: 1387
+  dump: 10483
+  dup: 23667
+scored_words:
+  deanship: 223752
+  deathtrap: 101726
+  dewdrop: 148470
+  dewlap: 110448
+  distributorship: 109958
+  draftsmanship: 285572
+not_scored_words:
+- DOVAP
+- DP
+- DTP
+- Depp
+- Duchamp
+- Dunlap
+- Dunlop
+- deaconship
+- demirep
+- denizenship
+- dramshop
+- dustheap
+- dustup

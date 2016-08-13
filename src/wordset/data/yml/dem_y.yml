@@ -1,0 +1,32 @@
+---
+pattern: dem_y
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 22
+score: 1308960
+score_per_word: 109080
+hi_scored_words:
+  democracy: 3284
+  democratically: 34161
+  demographically: 96585
+  demography: 28682
+  demonology: 95926
+  demonstrably: 55372
+  demy: 98196
+  demystify: 99558
+scored_words:
+  demagoguery: 141061
+  demagogy: 207743
+  demonstratively: 301830
+  demurely: 146562
+not_scored_words:
+- Dempsey
+- demagogically
+- demandingly
+- dementedly
+- demoniacally
+- demonically
+- demonography
+- demonolatry
+- demonstrability
+- demulsify

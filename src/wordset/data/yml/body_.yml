@@ -1,0 +1,23 @@
+---
+pattern: body_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 567518
+score_per_word: 56751
+hi_scored_words:
+  body: 297
+  bodybuilder: 38481
+  bodybuilders: 41185
+  bodybuilding: 18975
+  bodyguard: 28331
+  bodyguards: 49246
+  bodysuit: 75520
+  bodywork: 33863
+scored_words:
+  bodyboard: 149980
+  bodysuits: 131640
+not_scored_words:
+- bodyboarder
+- bodycheck
+- bodysurf

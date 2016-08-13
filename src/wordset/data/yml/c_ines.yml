@@ -1,0 +1,46 @@
+---
+pattern: c_ines
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 36
+score: 2335953
+score_per_word: 129775
+hi_scored_words:
+  canines: 54410
+  carbines: 94465
+  coastlines: 48757
+  combines: 10201
+  concubines: 80790
+  confines: 20213
+  cuisines: 33000
+  cytokines: 29592
+scored_words:
+  chatlines: 233977
+  chines: 100979
+  chloramines: 198680
+  citrines: 170417
+  clementines: 182175
+  clotheslines: 225964
+  coalmines: 276776
+  columbines: 274038
+  cosines: 127211
+  cysteines: 174308
+not_scored_words:
+- Comines
+- Commines
+- cadaverines
+- calcimines
+- calcines
+- carmines
+- chatelaines
+- chlorpromazines
+- chlortetracyclines
+- cholines
+- chopines
+- châtelaines
+- cimetidines
+- complines
+- countermines
+- creatines
+- crinolines
+- cystines

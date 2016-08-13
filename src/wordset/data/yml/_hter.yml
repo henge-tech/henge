@@ -1,0 +1,38 @@
+---
+pattern: _hter
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 28
+score: 1429208
+score_per_word: 64964
+hi_scored_words:
+  blighter: 96162
+  brighter: 11328
+  daughter: 1296
+  fighter: 7775
+  firefighter: 18873
+  freighter: 39288
+  granddaughter: 20100
+  gunfighter: 81378
+  highlighter: 54268
+  lamplighter: 98513
+  laughter: 6024
+  lighter: 5943
+  manslaughter: 29219
+  slaughter: 8858
+  stepdaughter: 59713
+  straighter: 69120
+  tighter: 19839
+scored_words:
+  bullfighter: 114204
+  goddaughter: 191615
+  prizefighter: 186697
+  righter: 141172
+  slighter: 167823
+not_scored_words:
+- Richter
+- firelighter
+- infighter
+- jacklighter
+- moonlighter
+- plighter

@@ -1,0 +1,49 @@
+---
+pattern: hop_
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 39
+score: 622431
+score_per_word: 32759
+hi_scored_words:
+  hop: 5204
+  hope: 465
+  hoped: 4924
+  hopeful: 11283
+  hopefully: 6603
+  hopefuls: 48857
+  hopeless: 12250
+  hopelessly: 28222
+  hopelessness: 40152
+  hopes: 3337
+  hoping: 3922
+  hopped: 29028
+  hopper: 16187
+  hoppers: 40259
+  hopping: 19414
+  hops: 19556
+  hopscotch: 63560
+scored_words:
+  hopefulness: 131066
+  hoplite: 138142
+not_scored_words:
+- Hope
+- Hopeh
+- Hopewell
+- Hopi
+- Hopis
+- Hopkins
+- Hopper
+- hophead
+- hopple
+- hoppled
+- hopples
+- hoppling
+- hopsack
+- hopsacking
+- hopsackings
+- hopsacks
+- hopscotched
+- hopscotches
+- hopscotching
+- hoptoad

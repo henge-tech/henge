@@ -1,0 +1,36 @@
+---
+pattern: t_ned
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 26
+score: 1454936
+score_per_word: 76575
+hi_scored_words:
+  tanned: 17482
+  telephoned: 47157
+  tensioned: 84236
+  thickened: 37259
+  thinned: 48776
+  threatened: 4289
+  tightened: 25460
+  tinned: 52760
+  toned: 25872
+  toughened: 73870
+  trained: 3193
+  transitioned: 54946
+  tuned: 11608
+  turned: 1016
+  twinned: 81949
+scored_words:
+  throned: 242058
+  tined: 316743
+  turbaned: 220346
+  twined: 105916
+not_scored_words:
+- taloned
+- tautened
+- tenoned
+- tobogganed
+- trampolined
+- trepanned
+- trephined

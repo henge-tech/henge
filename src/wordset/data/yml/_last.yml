@@ -1,0 +1,44 @@
+---
+pattern: _last
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 34
+score: 1570250
+score_per_word: 98140
+hi_scored_words:
+  ballast: 19979
+  blast: 4670
+  chloroplast: 52144
+  fibroblast: 45898
+  iconoclast: 67630
+  last: 104
+  oblast: 27391
+  outlast: 49994
+scored_words:
+  epiblast: 102988
+  lymphoblast: 252462
+  neuroblast: 276137
+  osteoblast: 122602
+  osteoclast: 122105
+  protoplast: 169193
+  sandblast: 147037
+  trophoblast: 109916
+not_scored_words:
+- Elastoplast
+- aminoplast
+- biblioclast
+- chromoplast
+- cnidoblast
+- counterblast
+- cytoplast
+- ectoblast
+- endoblast
+- entoblast
+- erythroblast
+- hematoblast
+- hypoblast
+- idioblast
+- leucoplast
+- mesoblast
+- odontoblast
+- spongioblast

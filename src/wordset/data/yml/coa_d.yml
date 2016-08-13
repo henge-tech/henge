@@ -1,0 +1,25 @@
+---
+pattern: coa_d
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 1175072
+score_per_word: 106824
+hi_scored_words:
+  coached: 31394
+  coalesced: 87219
+  coalfield: 83867
+  coasted: 89188
+  coastguard: 42514
+  coated: 10231
+  coauthored: 88257
+  coaxed: 66206
+scored_words:
+  coagulated: 109167
+  coarsened: 300107
+  coastland: 266922
+not_scored_words:
+- coachload
+- coacted
+- coaled
+- coastward

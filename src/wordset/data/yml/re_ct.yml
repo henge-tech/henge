@@ -1,0 +1,39 @@
+---
+pattern: re_ct
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 29
+score: 1664419
+score_per_word: 79258
+hi_scored_words:
+  react: 11565
+  recollect: 33420
+  reconnect: 28894
+  reconstruct: 22832
+  rect: 33085
+  redirect: 17182
+  reenact: 70956
+  reflect: 2965
+  refract: 97085
+  reject: 6391
+  relict: 74858
+  respect: 926
+  restrict: 10753
+  resurrect: 41556
+  retract: 28697
+  retrospect: 20759
+scored_words:
+  redact: 158424
+  redistrict: 330871
+  reelect: 181353
+  reluct: 230254
+  reselect: 261593
+not_scored_words:
+- reconduct
+- recontact
+- recontract
+- reinfect
+- reinspect
+- reinstruct
+- resect
+- retroact

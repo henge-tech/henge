@@ -1,0 +1,66 @@
+---
+pattern: p_ial
+hi_scored_words_count: 22
+scored_words_count: 13
+total_words: 56
+score: 3173346
+score_per_word: 90667
+hi_scored_words:
+  palatial: 59807
+  parochial: 27724
+  partial: 3843
+  perennial: 13827
+  pericardial: 59331
+  pictorial: 18173
+  polynomial: 18749
+  postcolonial: 51748
+  postprandial: 83691
+  potential: 3490
+  preferential: 28546
+  prejudicial: 38126
+  prenuptial: 65147
+  presidential: 6995
+  pretrial: 44568
+  primordial: 30215
+  professorial: 74266
+  proverbial: 27234
+  providential: 75848
+  provincial: 4913
+  prudential: 23364
+  psychosocial: 24927
+scored_words:
+  participial: 220648
+  patrimonial: 146220
+  penitential: 110946
+  periglacial: 204371
+  pestilential: 198866
+  phial: 111584
+  piscatorial: 160066
+  postglacial: 192399
+  postindustrial: 150342
+  prandial: 247803
+  precedential: 178130
+  precolonial: 255514
+  preindustrial: 211925
+not_scored_words:
+- Prairial
+- Prudential
+- pluvial
+- postaxial
+- postnuptial
+- preceptorial
+- predial
+- prefectorial
+- preglacial
+- preludial
+- premial
+- premillennial
+- preprandial
+- preputial
+- presbyterial
+- primatial
+- primogenial
+- proctorial
+- progenitorial
+- proprietorial
+- purgatorial

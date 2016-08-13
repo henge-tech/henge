@@ -1,0 +1,67 @@
+---
+pattern: _mb
+hi_scored_words_count: 20
+scored_words_count: 13
+total_words: 57
+score: 2739656
+score_per_word: 83019
+hi_scored_words:
+  aplomb: 68257
+  bomb: 6213
+  breadcrumb: 47723
+  catacomb: 87021
+  climb: 5976
+  comb: 12169
+  coulomb: 38490
+  crumb: 27190
+  dumb: 5188
+  honeycomb: 34051
+  jamb: 64593
+  lamb: 5814
+  limb: 9823
+  mb: 6426
+  numb: 17946
+  plumb: 26197
+  succumb: 33596
+  thumb: 5819
+  tomb: 6810
+  womb: 15553
+scored_words:
+  cockscomb: 275490
+  coomb: 186050
+  corymb: 226350
+  coxcomb: 179214
+  entomb: 100588
+  firebomb: 174283
+  forelimb: 127702
+  gamb: 151360
+  hecatomb: 131351
+  iamb: 175750
+  recomb: 147349
+  rhomb: 127584
+  rhumb: 211730
+not_scored_words:
+- Camb
+- Coulomb
+- Holcomb
+- Lamb
+- Lipscomb
+- MB
+- Mb
+- OMB
+- abcoulomb
+- backcomb
+- benumb
+- chimb
+- choriamb
+- clomb
+- currycomb
+- disentomb
+- dithyramb
+- doorjamb
+- enwomb
+- hydrobomb
+- letterbomb
+- mailbomb
+- robomb
+- superbomb

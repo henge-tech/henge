@@ -1,0 +1,23 @@
+---
+pattern: hea_ed
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 651557
+score_per_word: 59232
+hi_scored_words:
+  headed: 4230
+  headlined: 55216
+  headquartered: 15593
+  healed: 17460
+  heaped: 35623
+  hearted: 15579
+  heartened: 83551
+  heated: 6392
+  heaved: 58562
+scored_words:
+  headhunted: 240276
+  hearkened: 119075
+not_scored_words:
+- headbutted
+- heavyhearted

@@ -1,0 +1,36 @@
+---
+pattern: list_
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 26
+score: 1127957
+score_per_word: 53712
+hi_scored_words:
+  list: 374
+  listed: 1609
+  listen: 1117
+  listenable: 93307
+  listened: 5364
+  listener: 10327
+  listeners: 11583
+  listening: 2164
+  listens: 17894
+  lister: 17827
+  listeria: 51747
+  listers: 50371
+  listing: 2404
+  listings: 2455
+  listless: 53492
+  lists: 2848
+  listserver: 60091
+scored_words:
+  listel: 228437
+  listenership: 196613
+  listlessly: 140622
+  listlessness: 177311
+not_scored_words:
+- Lister
+- Listerine
+- Listerism
+- Liston
+- listee

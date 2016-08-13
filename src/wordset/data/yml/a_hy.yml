@@ -1,0 +1,33 @@
+---
+pattern: a_hy
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 23
+score: 1339033
+score_per_word: 95645
+hi_scored_words:
+  achy: 84363
+  anarchy: 12596
+  angiography: 34422
+  antipathy: 49073
+  apathy: 20189
+  ashy: 69582
+  astrophotography: 69225
+  atrophy: 29783
+  autobiography: 11658
+scored_words:
+  airworthy: 184397
+  allelopathy: 262190
+  allopathy: 276255
+  anthroposophy: 102746
+  autarchy: 132554
+not_scored_words:
+- Abernathy
+- aerography
+- anemography
+- anthropogeography
+- anthropography
+- anthropopathy
+- archduchy
+- autography
+- autolithography

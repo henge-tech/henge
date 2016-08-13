@@ -1,0 +1,37 @@
+---
+pattern: _elds
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 27
+score: 1021565
+score_per_word: 63847
+hi_scored_words:
+  airfields: 49122
+  battlefields: 42637
+  cornfields: 92694
+  fields: 1480
+  goldfields: 47973
+  handhelds: 28973
+  minefields: 83334
+  oilfields: 86958
+  shields: 9784
+  welds: 46064
+  wields: 65154
+  windshields: 68994
+  yields: 7646
+scored_words:
+  coalfields: 105197
+  melds: 108323
+  snowfields: 177232
+not_scored_words:
+- Fields
+- Shields
+- backfields
+- bields
+- chesterfields
+- gelds
+- grainfields
+- hayfields
+- infields
+- outfields
+- velds

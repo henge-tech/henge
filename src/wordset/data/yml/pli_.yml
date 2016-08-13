@@ -1,0 +1,38 @@
+---
+pattern: pli_
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 28
+score: 1888493
+score_per_word: 118030
+hi_scored_words:
+  pliable: 44898
+  pliant: 62849
+  plied: 49483
+  plier: 93059
+  pliers: 24893
+  plies: 59167
+  plight: 15087
+  plinth: 53054
+scored_words:
+  pliability: 243982
+  pliancy: 188694
+  plication: 107664
+  plications: 131472
+  plighted: 216937
+  plights: 240395
+  plimsoll: 197247
+  plinths: 159612
+not_scored_words:
+- Pliny
+- Pliocene
+- Pliocenes
+- pliableness
+- pliably
+- pliantly
+- plica
+- plicae
+- plicate
+- plighter
+- plighting
+- plimsolls

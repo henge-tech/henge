@@ -1,0 +1,28 @@
+---
+pattern: p_ping
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 18
+score: 1042293
+score_per_word: 74449
+hi_scored_words:
+  peacekeeping: 22075
+  peeping: 24161
+  pimping: 55303
+  piping: 14527
+  pooping: 41206
+  popping: 17899
+  prepping: 60794
+  propping: 72125
+  prototyping: 29177
+  pulping: 98426
+  pumping: 12843
+scored_words:
+  plopping: 197445
+  plumping: 135932
+  primping: 260380
+not_scored_words:
+- Peiping
+- pepping
+- pipping
+- pupping

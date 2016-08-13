@@ -1,0 +1,47 @@
+---
+pattern: _rics
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 37
+score: 1708830
+score_per_word: 77674
+hi_scored_words:
+  biometrics: 32007
+  clerics: 41018
+  dielectrics: 83241
+  econometrics: 36134
+  electrics: 28924
+  fabrics: 11752
+  generics: 41109
+  geriatrics: 38632
+  hysterics: 81694
+  lyrics: 5229
+  metrics: 11931
+  obstetrics: 21738
+  pediatrics: 16461
+  rubrics: 56210
+  theatrics: 91860
+scored_words:
+  atmospherics: 126565
+  bishoprics: 215491
+  dioptrics: 235988
+  eccentrics: 100339
+  panegyrics: 119909
+  psychometrics: 110591
+  quadrics: 202007
+not_scored_words:
+- Pindarics
+- Ugrics
+- agarics
+- archbishoprics
+- baldrics
+- catoptrics
+- cliometrics
+- egocentrics
+- gyniatrics
+- isometrics
+- metempirics
+- sferics
+- spherics
+- turmerics
+- vitrics

@@ -1,0 +1,28 @@
+---
+pattern: bust_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 18
+score: 952580
+score_per_word: 63505
+hi_scored_words:
+  bust: 7609
+  bustard: 77805
+  busted: 17102
+  buster: 18928
+  busters: 30104
+  bustier: 64267
+  bustiers: 51402
+  busting: 24802
+  bustle: 31836
+  bustling: 27575
+  busts: 25676
+  busty: 11787
+scored_words:
+  bustards: 236042
+  bustled: 145310
+  bustles: 182335
+not_scored_words:
+- bustee
+- bustiest
+- bustler

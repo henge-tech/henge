@@ -1,0 +1,28 @@
+---
+pattern: crea_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 1022600
+score_per_word: 78661
+hi_scored_words:
+  creams: 26117
+  creases: 40448
+  creates: 5363
+  creationists: 43468
+  creations: 10345
+  creatives: 55307
+  creators: 18770
+  creatures: 4631
+scored_words:
+  creaks: 128713
+  creameries: 219105
+  creamers: 116906
+  creaminess: 223971
+  creativeness: 129456
+not_scored_words:
+- creakiness
+- creamcups
+- creaseless
+- creatines
+- creationisms

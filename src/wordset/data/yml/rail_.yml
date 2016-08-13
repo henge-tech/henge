@@ -1,0 +1,32 @@
+---
+pattern: rail_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 22
+score: 1174679
+score_per_word: 73417
+hi_scored_words:
+  rail: 3539
+  railed: 66557
+  railing: 20967
+  railings: 35603
+  railroad: 4109
+  railroading: 62102
+  railroads: 15463
+  rails: 9514
+  railway: 3358
+  railways: 10515
+scored_words:
+  railer: 219144
+  railhead: 148090
+  raillery: 168631
+  railroaded: 135497
+  railroader: 104723
+  railroaders: 166867
+not_scored_words:
+- railcard
+- railcards
+- railheads
+- railleries
+- railwayman
+- railwaymen

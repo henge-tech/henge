@@ -1,0 +1,42 @@
+---
+pattern: m_als
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 32
+score: 1798527
+score_per_word: 74938
+hi_scored_words:
+  madrigals: 99194
+  mammals: 11323
+  manuals: 13384
+  marshals: 32657
+  marsupials: 87119
+  materials: 1160
+  meals: 4566
+  medals: 10845
+  memorials: 18371
+  metals: 9894
+  minerals: 7545
+  morals: 12570
+  mortals: 27691
+  multinationals: 40740
+  murals: 23059
+  musicals: 14466
+scored_words:
+  marginals: 115658
+  medicals: 126877
+  menials: 131471
+  metatarsals: 253767
+  missals: 304100
+  modals: 145822
+  monomials: 152060
+  municipals: 154188
+not_scored_words:
+- Metaphysicals
+- mescals
+- metacarpals
+- meticals
+- misdeals
+- mistrals
+- mistrials
+- monolinguals

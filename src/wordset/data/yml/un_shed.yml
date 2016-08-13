@@ -1,0 +1,33 @@
+---
+pattern: un_shed
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 23
+score: 1295976
+score_per_word: 86398
+hi_scored_words:
+  unabashed: 54670
+  unblemished: 70884
+  undernourished: 72657
+  undiminished: 78364
+  unfinished: 11213
+  unfurnished: 51811
+  unleashed: 16662
+  unpolished: 88483
+  unpublished: 13114
+  unpunished: 51915
+  unwashed: 48759
+scored_words:
+  uncashed: 340752
+  undistinguished: 101933
+  untarnished: 190438
+  unvarnished: 104321
+not_scored_words:
+- unaccomplished
+- unbrushed
+- unembellished
+- unestablished
+- unlashed
+- unrefreshed
+- unvanquished
+- unwished

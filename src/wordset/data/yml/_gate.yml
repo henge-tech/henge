@@ -1,0 +1,82 @@
+---
+pattern: _gate
+hi_scored_words_count: 29
+scored_words_count: 12
+total_words: 72
+score: 3171687
+score_per_word: 77358
+hi_scored_words:
+  abrogate: 68638
+  agate: 27896
+  aggregate: 6836
+  billingsgate: 83242
+  congregate: 36117
+  conjugate: 24772
+  delegate: 10965
+  elongate: 47004
+  frigate: 24689
+  gate: 2304
+  instigate: 57199
+  interrogate: 42548
+  investigate: 5619
+  irrigate: 65435
+  legate: 68571
+  litigate: 67999
+  mitigate: 16047
+  navigate: 10089
+  negate: 33022
+  obligate: 47241
+  profligate: 66802
+  promulgate: 45104
+  propagate: 23635
+  relegate: 79811
+  segregate: 49635
+  subjugate: 76551
+  surrogate: 22939
+  tailgate: 23437
+  vulgate: 36324
+scored_words:
+  arrogate: 169655
+  castigate: 137866
+  circumnavigate: 145067
+  derogate: 117783
+  desegregate: 198769
+  floodgate: 127423
+  fumigate: 182892
+  ingate: 173063
+  ligate: 241308
+  lychgate: 243802
+  tollgate: 123454
+  virgate: 140134
+not_scored_words:
+- Colgate
+- Lydgate
+- Margate
+- Ramsgate
+- Vulgate
+- Watergate
+- abnegate
+- astrogate
+- bijugate
+- centrifugate
+- colligate
+- corrugate
+- divagate
+- divulgate
+- expurgate
+- extravagate
+- fustigate
+- homologate
+- jugate
+- levigate
+- objurgate
+- prolongate
+- reinvestigate
+- resegregate
+- runagate
+- subirrigate
+- subrogate
+- suffumigate
+- supererogate
+- unijugate
+- variegate

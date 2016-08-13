@@ -1,0 +1,99 @@
+---
+pattern: unl_
+hi_scored_words_count: 30
+scored_words_count: 22
+total_words: 89
+score: 5204209
+score_per_word: 100080
+hi_scored_words:
+  unlabeled: 51738
+  unlawful: 10771
+  unlawfully: 36920
+  unleaded: 35959
+  unlearn: 82811
+  unlearned: 75966
+  unleash: 25737
+  unleashed: 16662
+  unleashes: 58044
+  unleashing: 49205
+  unleavened: 62567
+  unless: 874
+  unlicensed: 33311
+  unlike: 3252
+  unlikely: 5731
+  unlimited: 10120
+  unlined: 59219
+  unlink: 70854
+  unlinked: 86140
+  unlisted: 31105
+  unlit: 88172
+  unload: 23789
+  unloaded: 30486
+  unloading: 24569
+  unlock: 10444
+  unlocked: 11610
+  unlocking: 23565
+  unlocks: 46247
+  unloved: 67196
+  unlucky: 18834
+scored_words:
+  unlaced: 181063
+  unladen: 149930
+  unlatch: 300058
+  unlatched: 234934
+  unlawfulness: 261557
+  unlearning: 146834
+  unlettered: 120811
+  unlighted: 158199
+  unlikable: 171280
+  unlikeable: 220765
+  unlikeliest: 234123
+  unlikelihood: 247347
+  unlikeness: 136517
+  unlivable: 248028
+  unloader: 177914
+  unloads: 100838
+  unloose: 176552
+  unloosed: 153826
+  unlovable: 189877
+  unlovely: 165427
+  unloving: 154112
+  unluckily: 122319
+not_scored_words:
+- unlace
+- unlaces
+- unlacing
+- unlade
+- unladylike
+- unlamented
+- unlash
+- unlashed
+- unlashes
+- unlashing
+- unlatches
+- unlatching
+- unlay
+- unlearnedly
+- unlearns
+- unlikelier
+- unlikeliness
+- unlimber
+- unlimbered
+- unlimbering
+- unlimbers
+- unliterary
+- unlive
+- unlived
+- unlives
+- unliving
+- unloosen
+- unloosened
+- unloosening
+- unloosens
+- unlooses
+- unloosing
+- unlovelier
+- unloveliest
+- unluckier
+- unluckiest
+- unluckiness

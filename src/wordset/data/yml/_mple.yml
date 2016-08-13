@@ -1,0 +1,27 @@
+---
+pattern: _mple
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 17
+score: 566231
+score_per_word: 47185
+hi_scored_words:
+  ample: 8277
+  counterexample: 80342
+  crumple: 79781
+  dimple: 46493
+  example: 479
+  pimple: 48711
+  sample: 3197
+  simple: 582
+  subsample: 90860
+  temple: 2484
+  trample: 28526
+scored_words:
+  rumple: 176499
+not_scored_words:
+- crimple
+- ensample
+- oversimple
+- rimple
+- wimple

@@ -1,0 +1,36 @@
+---
+pattern: sm_g
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 26
+score: 1523521
+score_per_word: 66240
+hi_scored_words:
+  smacking: 46134
+  smarting: 94753
+  smashing: 15728
+  smattering: 61580
+  smearing: 59647
+  smelling: 20483
+  smelting: 40434
+  smiling: 5680
+  smirking: 46384
+  smog: 27244
+  smoking: 2442
+  smoldering: 46351
+  smoothing: 22840
+  smothering: 49262
+  smouldering: 83253
+  smug: 31199
+  smuggling: 20722
+scored_words:
+  smallholding: 120321
+  smiting: 108052
+  smocking: 153202
+  smooching: 187681
+  smoothening: 179793
+  smudging: 100336
+not_scored_words:
+- smartening
+- smirching
+- smutching

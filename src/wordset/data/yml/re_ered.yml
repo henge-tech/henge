@@ -1,0 +1,29 @@
+---
+pattern: re_ered
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 19
+score: 794829
+score_per_word: 61140
+hi_scored_words:
+  reconsidered: 40790
+  recovered: 5195
+  rediscovered: 44867
+  reentered: 96669
+  registered: 1618
+  remastered: 19901
+  remembered: 3828
+  rendered: 4980
+  renumbered: 41395
+  reordered: 82327
+  revered: 27155
+scored_words:
+  reconquered: 230904
+  remaindered: 195200
+not_scored_words:
+- rechartered
+- reconnoitered
+- redelivered
+- regathered
+- rejiggered
+- reupholstered

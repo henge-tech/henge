@@ -1,0 +1,45 @@
+---
+pattern: swe_s
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 35
+score: 1901537
+score_per_word: 79230
+hi_scored_words:
+  swears: 38623
+  sweaters: 13536
+  sweatpants: 49201
+  sweats: 31864
+  sweatshirts: 18751
+  sweatshops: 67623
+  swedes: 35676
+  sweepers: 55352
+  sweeps: 16981
+  sweepstakes: 15967
+  sweeteners: 43992
+  sweethearts: 39351
+  sweeties: 47125
+  sweetness: 14984
+  sweets: 11156
+  swells: 36777
+scored_words:
+  sweatbands: 209988
+  sweatsuits: 266220
+  sweepings: 191184
+  sweetbreads: 151455
+  sweetens: 153920
+  sweetmeats: 123675
+  swellings: 100327
+  swerves: 167809
+not_scored_words:
+- Swedes
+- swearers
+- swearwords
+- sweatboxes
+- sweatiness
+- sweatings
+- sweetbriars
+- sweetbriers
+- sweetsops
+- swellheads
+- swelters

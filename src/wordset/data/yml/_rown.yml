@@ -1,0 +1,28 @@
+---
+pattern: _rown
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 18
+score: 515405
+score_per_word: 42950
+hi_scored_words:
+  brown: 870
+  crown: 2443
+  drown: 14782
+  frown: 19750
+  grown: 2466
+  homegrown: 31579
+  ingrown: 59676
+  outgrown: 42744
+  overgrown: 30526
+  overthrown: 33545
+  thrown: 4156
+scored_words:
+  nutbrown: 272868
+not_scored_words:
+- Brown
+- discrown
+- misthrown
+- regrown
+- uncrown
+- undergrown

@@ -1,0 +1,41 @@
+---
+pattern: a_ial
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 31
+score: 1963582
+score_per_word: 85373
+hi_scored_words:
+  actuarial: 25309
+  adverbial: 74428
+  adversarial: 44877
+  aerial: 7810
+  allodial: 89337
+  alluvial: 32185
+  antibacterial: 36022
+  antimalarial: 98128
+  antimicrobial: 26987
+  antisocial: 30105
+  armorial: 58398
+  arterial: 19518
+  artificial: 4067
+  atrial: 23308
+  authorial: 79597
+  axial: 18462
+scored_words:
+  abaxial: 239175
+  abbatial: 156972
+  adaxial: 252171
+  advertorial: 163949
+  ambassadorial: 100201
+  ambrosial: 189594
+  asocial: 192982
+not_scored_words:
+- accusatorial
+- agential
+- altricial
+- anticolonial
+- antimonial
+- apterygial
+- auctorial
+- audial

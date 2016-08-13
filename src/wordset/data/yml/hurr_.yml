@@ -1,0 +1,24 @@
+---
+pattern: hurr_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 416227
+score_per_word: 41622
+hi_scored_words:
+  hurrah: 27552
+  hurray: 47291
+  hurricane: 5387
+  hurricanes: 15186
+  hurried: 16532
+  hurriedly: 32303
+  hurries: 68847
+  hurry: 5781
+  hurrying: 36876
+scored_words:
+  hurrahs: 160472
+not_scored_words:
+- hurrahed
+- hurrahing
+- hurriedness
+- hurriednesses

@@ -1,0 +1,33 @@
+---
+pattern: reg_e
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 23
+score: 1112004
+score_per_word: 79428
+hi_scored_words:
+  regale: 86520
+  regenerate: 26672
+  regenerative: 40280
+  reggae: 8446
+  regime: 6310
+  regressive: 47061
+  regrettable: 39803
+  regulate: 8654
+  regurgitate: 82366
+scored_words:
+  regicide: 121299
+  registrable: 138340
+  regrade: 226561
+  regularize: 166636
+  regulative: 113056
+not_scored_words:
+- Reggie
+- Reginae
+- regelate
+- regerminate
+- regive
+- reglaze
+- regorge
+- regrate
+- regulable

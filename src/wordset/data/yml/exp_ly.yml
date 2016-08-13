@@ -1,0 +1,26 @@
+---
+pattern: exp_ly
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1150379
+score_per_word: 88490
+hi_scored_words:
+  expectantly: 87650
+  expeditiously: 55817
+  experimentally: 25272
+  expertly: 36648
+  explicitly: 9128
+  explosively: 93589
+  exponentially: 25883
+  expressly: 8176
+scored_words:
+  expansively: 203016
+  expediently: 207321
+  expensively: 102365
+  experientially: 167015
+  expressively: 128499
+not_scored_words:
+- explanatorily
+- explicably
+- expressionlessly

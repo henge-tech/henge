@@ -1,0 +1,62 @@
+---
+pattern: ex_ting
+hi_scored_words_count: 28
+scored_words_count: 13
+total_words: 52
+score: 3949324
+score_per_word: 96324
+hi_scored_words:
+  exacerbating: 75333
+  exacting: 27090
+  exaggerating: 44927
+  exalting: 85258
+  exasperating: 84231
+  excavating: 40695
+  excepting: 25301
+  exciting: 3266
+  excruciating: 39779
+  executing: 11954
+  exempting: 65320
+  exerting: 43165
+  exfoliating: 58493
+  exhausting: 28246
+  exhibiting: 17436
+  exhilarating: 31108
+  exhorting: 89090
+  existing: 1580
+  exiting: 20781
+  expecting: 5447
+  expediting: 67538
+  experimenting: 19863
+  exploiting: 22882
+  exporting: 11687
+  extenuating: 55127
+  exterminating: 72489
+  extracting: 18357
+  extrapolating: 70296
+scored_words:
+  excerpting: 294535
+  excoriating: 268309
+  excreting: 203144
+  exonerating: 214227
+  expatiating: 226976
+  explicating: 204698
+  expostulating: 257166
+  expropriating: 226643
+  extirpating: 193138
+  extorting: 129878
+  extraditing: 288734
+  extricating: 167787
+  exulting: 137350
+not_scored_words:
+- excogitating
+- excommunicating
+- exculpating
+- execrating
+- expatriating
+- expectorating
+- expiating
+- expurgating
+- extincting
+- extravasating
+- exuviating

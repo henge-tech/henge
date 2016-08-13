@@ -1,0 +1,28 @@
+---
+pattern: di_red
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 18
+score: 1342228
+score_per_word: 89481
+hi_scored_words:
+  differed: 20801
+  disappeared: 5888
+  disbarred: 99534
+  discolored: 66424
+  discovered: 2067
+  disfigured: 55293
+  dishonored: 68778
+  dismembered: 72989
+  disordered: 24564
+scored_words:
+  diapered: 146203
+  disfavored: 151127
+  disinterred: 135918
+  dissevered: 214767
+  distempered: 123043
+  dithered: 154832
+not_scored_words:
+- dickered
+- dinnered
+- disencumbered

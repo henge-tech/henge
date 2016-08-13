@@ -1,0 +1,37 @@
+---
+pattern: _pal
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 27
+score: 748716
+score_per_word: 53479
+hi_scored_words:
+  archetypal: 45807
+  archiepiscopal: 66482
+  carpal: 29261
+  copal: 88081
+  episcopal: 13017
+  municipal: 4316
+  oedipal: 92763
+  opal: 18541
+  pal: 6993
+  papal: 19943
+  principal: 1727
+scored_words:
+  metacarpal: 102109
+  pupal: 109104
+  sepal: 150572
+not_scored_words:
+- Ashurbanipal
+- Assurbanipal
+- Bhopal
+- Episcopal
+- Nepal
+- Oedipal
+- Opal
+- Pal
+- PayPal
+- prototypal
+- subprincipal
+- syncopal
+- typal

@@ -1,0 +1,47 @@
+---
+pattern: re_ty
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 37
+score: 1772627
+score_per_word: 77070
+hi_scored_words:
+  reactivity: 21721
+  readability: 28455
+  reality: 1649
+  realty: 15036
+  receptivity: 71299
+  reciprocity: 24872
+  reflectivity: 40716
+  reflexivity: 86265
+  regularity: 20137
+  relativity: 23109
+  reliability: 13603
+  religiosity: 63067
+  repeatability: 56723
+  reproducibility: 43233
+  resistivity: 35575
+  respectability: 39806
+  responsibility: 1586
+  reversibility: 81426
+scored_words:
+  reasonability: 306400
+  reducibility: 150316
+  refractivity: 294135
+  replicability: 193297
+  retroactivity: 160201
+not_scored_words:
+- recessivity
+- reciprocality
+- reconcilability
+- rectangularity
+- rectilinearity
+- regality
+- reluctivity
+- remissibility
+- reprehensibility
+- reputability
+- resolvability
+- retainability
+- retentivity
+- retractility

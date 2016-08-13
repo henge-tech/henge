@@ -1,0 +1,38 @@
+---
+pattern: in_nal
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 28
+score: 1284117
+score_per_word: 71339
+hi_scored_words:
+  infernal: 22446
+  informational: 7954
+  inguinal: 57810
+  inspirational: 9394
+  institutional: 11322
+  instructional: 6193
+  intentional: 14455
+  interdenominational: 96115
+  internal: 1799
+  international: 1038
+  interpersonal: 12878
+  intestinal: 17662
+  invitational: 17259
+scored_words:
+  inflectional: 108273
+  intensional: 116323
+  interpretational: 274708
+  intonational: 208874
+  intuitional: 299614
+not_scored_words:
+- International
+- incantational
+- innovational
+- inquisitional
+- inscriptional
+- intercessional
+- interjectional
+- interregnal
+- interrogational
+- involutional

@@ -1,0 +1,52 @@
+---
+pattern: ma_c
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 42
+score: 2105508
+score_per_word: 80981
+hi_scored_words:
+  mac: 2847
+  macrobiotic: 94581
+  macroeconomic: 17852
+  macroscopic: 35873
+  magic: 1794
+  magmatic: 79545
+  magnetic: 4469
+  majestic: 10057
+  maniac: 20398
+  manic: 21319
+  marc: 8746
+  masc: 70669
+  masochistic: 77740
+  masonic: 21501
+  mastic: 56485
+  materialistic: 35915
+  mathematic: 81335
+scored_words:
+  macaronic: 152380
+  macrocosmic: 145576
+  magnetospheric: 106425
+  magnific: 202075
+  malefic: 156875
+  manioc: 122704
+  manometric: 280096
+  mantic: 176679
+  mantric: 121572
+not_scored_words:
+- Mac
+- Macc
+- Mackinac
+- Magellanic
+- Marc
+- Maroc
+- Masonic
+- Masoretic
+- Mauriac
+- macrocephalic
+- maenadic
+- maieutic
+- mandalic
+- maternalistic
+- matriarchic
+- matronymic

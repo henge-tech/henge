@@ -1,0 +1,50 @@
+---
+pattern: we_g
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 40
+score: 2624860
+score_per_word: 84672
+hi_scored_words:
+  weakening: 20466
+  weakling: 74533
+  weaning: 36419
+  wearing: 3009
+  weathering: 35280
+  weaving: 13062
+  webbing: 31938
+  webcasting: 64824
+  weblog: 5635
+  wedding: 1591
+  weeding: 36597
+  weeping: 14047
+  weighing: 9388
+  weighting: 21743
+  weightlifting: 33683
+  welcoming: 13036
+  welding: 15362
+  welling: 36184
+  wellspring: 63130
+  wetting: 26942
+scored_words:
+  weanling: 155117
+  wearying: 148535
+  weatherproofing: 221766
+  weatherstripping: 143135
+  wedging: 139350
+  weeing: 250198
+  weekending: 267371
+  weltering: 163011
+  wending: 185571
+  westering: 188469
+  westing: 205468
+not_scored_words:
+- Weinberg
+- Weltanschauung
+- weaseling
+- weatherboarding
+- weatherizing
+- weening
+- welshing
+- welting
+- westernizing

@@ -1,0 +1,85 @@
+---
+pattern: su_ly
+hi_scored_words_count: 30
+scored_words_count: 17
+total_words: 75
+score: 4444430
+score_per_word: 94562
+hi_scored_words:
+  subconsciously: 58349
+  subcutaneously: 86036
+  subfamily: 25659
+  subjectively: 62094
+  subsequently: 4819
+  substantially: 6279
+  substantively: 74019
+  subtly: 27902
+  successfully: 3281
+  successively: 30985
+  succinctly: 46980
+  suddenly: 2441
+  sufficiently: 5349
+  suitably: 24126
+  sullenly: 90444
+  sully: 30351
+  summarily: 42793
+  superbly: 30558
+  superfamily: 27779
+  superficially: 40336
+  supply: 1035
+  supposedly: 15051
+  supremely: 40418
+  surely: 3345
+  surgically: 38045
+  surly: 33180
+  surprisingly: 9534
+  surreptitiously: 52673
+  suspiciously: 30813
+  sustainably: 62291
+scored_words:
+  suavely: 275805
+  subassembly: 131003
+  sublimely: 123441
+  subliminally: 151665
+  submissively: 185535
+  subversively: 327965
+  suggestively: 130796
+  suicidally: 292542
+  sulkily: 169649
+  sumptuously: 120162
+  superciliously: 249729
+  superiorly: 225706
+  superlatively: 265561
+  supernaturally: 129575
+  superstitiously: 192510
+  supportively: 293489
+  surpassingly: 172332
+not_scored_words:
+- Sully
+- subapically
+- subjunctively
+- sublethally
+- subordinately
+- subserviently
+- subsidiarily
+- successionally
+- succulently
+- sufferably
+- suffocatingly
+- sultrily
+- summerly
+- sunnily
+- superfluously
+- superhumanly
+- supernally
+- supersonically
+- supinely
+- supplely
+- suppliantly
+- suppositiously
+- surficially
+- surlily
+- surrealistically
+- surreally
+- susceptibly
+- sustainedly

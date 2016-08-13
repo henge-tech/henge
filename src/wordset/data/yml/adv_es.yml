@@ -1,0 +1,23 @@
+---
+pattern: adv_es
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 487390
+score_per_word: 44308
+hi_scored_words:
+  advances: 5378
+  advantages: 3515
+  adventures: 3786
+  adversaries: 27368
+  advertises: 44257
+  advices: 45737
+  advises: 17424
+  advisories: 27303
+  advocates: 8110
+scored_words:
+  adversities: 122362
+  advisees: 182150
+not_scored_words:
+- adventuresses
+- advertences

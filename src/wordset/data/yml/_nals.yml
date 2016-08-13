@@ -1,0 +1,63 @@
+---
+pattern: _nals
+hi_scored_words_count: 27
+scored_words_count: 8
+total_words: 53
+score: 2175441
+score_per_word: 62155
+hi_scored_words:
+  aboriginals: 65835
+  annals: 12862
+  arsenals: 63671
+  canals: 17088
+  cardinals: 10970
+  conditionals: 62367
+  criminals: 10831
+  devotionals: 89275
+  diagonals: 64487
+  externals: 65953
+  finals: 9883
+  internals: 32518
+  internationals: 31402
+  journals: 4118
+  multinationals: 40740
+  nationals: 17905
+  originals: 13997
+  paraprofessionals: 84089
+  personals: 19089
+  professionals: 9069
+  quarterfinals: 36889
+  sectionals: 75170
+  semifinals: 26536
+  signals: 5222
+  terminals: 15497
+  tribunals: 24387
+  urinals: 55727
+scored_words:
+  adrenals: 106332
+  confessionals: 162217
+  hymnals: 119641
+  invitationals: 253341
+  marginals: 115658
+  ordinals: 110090
+  rationals: 114519
+  transnationals: 228066
+not_scored_words:
+- Aboriginals
+- Internationals
+- antiphonals
+- bacchanals
+- constitutionals
+- coronals
+- irrationals
+- noncriminals
+- nonprofessionals
+- processionals
+- proportionals
+- recessionals
+- semiprofessionals
+- spinals
+- subprofessionals
+- trigeminals
+- turbinals
+- virginals

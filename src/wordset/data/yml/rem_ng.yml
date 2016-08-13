@@ -1,0 +1,36 @@
+---
+pattern: rem_ng
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 26
+score: 1535471
+score_per_word: 85303
+hi_scored_words:
+  remaining: 2171
+  remaking: 53590
+  remapping: 88542
+  remarking: 59741
+  remastering: 94775
+  remedying: 84168
+  remembering: 7960
+  reminding: 18154
+  reminiscing: 53340
+  remitting: 84461
+  remixing: 72741
+  remodeling: 14983
+  removing: 5048
+scored_words:
+  remanding: 136585
+  remarrying: 247757
+  remonstrating: 121697
+  remortgaging: 151007
+  remounting: 238751
+not_scored_words:
+- remaindering
+- rematching
+- remeasuring
+- remelting
+- remigrating
+- remilitarizing
+- remolding
+- remunerating

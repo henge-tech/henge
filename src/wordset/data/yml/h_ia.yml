@@ -1,0 +1,59 @@
+---
+pattern: h_ia
+hi_scored_words_count: 13
+scored_words_count: 13
+total_words: 49
+score: 2629888
+score_per_word: 101149
+hi_scored_words:
+  hematuria: 83487
+  hemophilia: 50574
+  hernia: 25424
+  homophobia: 34263
+  hyperglycemia: 61318
+  hypermedia: 51976
+  hyperplasia: 31884
+  hyperthermia: 61045
+  hypoglycemia: 36234
+  hypoplasia: 85777
+  hypothermia: 39097
+  hypoxia: 33797
+  hysteria: 23386
+scored_words:
+  hemicrania: 166155
+  hemiplegia: 102581
+  herbaria: 126241
+  houstonia: 323578
+  hryvnia: 104829
+  hydria: 269823
+  hydrophobia: 151212
+  hyperemia: 175077
+  hyperesthesia: 120067
+  hyperopia: 122848
+  hypochondria: 104541
+  hypoglycaemia: 104725
+  hypomania: 139949
+not_scored_words:
+- Helvetia
+- Herminia
+- Hestia
+- Hibernia
+- Hispania
+- Hollandia
+- Hygeia
+- Hyrcania
+- hamartia
+- haustoria
+- hebephrenia
+- hemeralopia
+- hemialgia
+- hemianopsia
+- heterotopia
+- hyperdulia
+- hyperkinesia
+- hypermetropia
+- hyperphagia
+- hyperpyrexia
+- hypesthesia
+- hypochromia
+- hyposthenia

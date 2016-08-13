@@ -1,0 +1,49 @@
+---
+pattern: pe_ion
+hi_scored_words_count: 23
+scored_words_count: 7
+total_words: 39
+score: 1869097
+score_per_word: 62303
+hi_scored_words:
+  peculation: 84867
+  penetration: 8731
+  pension: 4510
+  perception: 4801
+  percolation: 53011
+  percussion: 15248
+  perdition: 38279
+  perfection: 6147
+  perforation: 44983
+  perfusion: 29466
+  perihelion: 68813
+  permeation: 67938
+  permission: 1355
+  permutation: 31479
+  perpetuation: 61031
+  persecution: 10776
+  personalization: 32953
+  personification: 46157
+  perspiration: 30544
+  persuasion: 12970
+  perturbation: 23496
+  perversion: 33733
+  petition: 4326
+scored_words:
+  penalization: 293876
+  peregrination: 163981
+  periodization: 142803
+  peroration: 194976
+  perpetration: 118672
+  petrifaction: 131242
+  petrification: 107933
+not_scored_words:
+- Pelion
+- pedestrianization
+- pejoration
+- perambulation
+- pericynthion
+- peripheralization
+- perlocution
+- perseveration
+- pervasion

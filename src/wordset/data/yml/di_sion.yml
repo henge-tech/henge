@@ -1,0 +1,25 @@
+---
+pattern: di_sion
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 15
+score: 927149
+score_per_word: 71319
+hi_scored_words:
+  diffusion: 10985
+  digression: 53105
+  dimension: 9504
+  discussion: 1057
+  disillusion: 71765
+  dispersion: 14777
+  dispossession: 98587
+  dissension: 59576
+  diversion: 11615
+  division: 1116
+scored_words:
+  dispassion: 244612
+  dissuasion: 246308
+  distension: 104142
+not_scored_words:
+- discursion
+- divulsion

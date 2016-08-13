@@ -1,0 +1,33 @@
+---
+pattern: b_ws
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 23
+score: 646018
+score_per_word: 46144
+hi_scored_words:
+  barrows: 47042
+  bedfellows: 75956
+  bellows: 23689
+  bestows: 61004
+  billows: 77874
+  blows: 7982
+  borrows: 44477
+  bows: 12243
+  brews: 41678
+  brows: 25900
+  bungalows: 35247
+  burrows: 22343
+  bylaws: 21888
+scored_words:
+  bandsaws: 148695
+not_scored_words:
+- Bellows
+- backflows
+- backsaws
+- bedews
+- bedstraws
+- beshrews
+- bestrews
+- bowwows
+- bucksaws

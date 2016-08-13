@@ -1,0 +1,63 @@
+---
+pattern: _nant
+hi_scored_words_count: 24
+scored_words_count: 10
+total_words: 53
+score: 2582327
+score_per_word: 75950
+hi_scored_words:
+  complainant: 22038
+  consonant: 24943
+  contaminant: 29330
+  covenant: 7385
+  determinant: 24795
+  discriminant: 48615
+  dissonant: 76302
+  dominant: 13876
+  fulminant: 99724
+  indignant: 31849
+  lieutenant: 6057
+  malignant: 11341
+  pennant: 27999
+  poignant: 20007
+  predominant: 16916
+  pregnant: 4455
+  recombinant: 18450
+  remnant: 17505
+  repugnant: 36453
+  resonant: 22594
+  revenant: 92775
+  ruminant: 61571
+  stagnant: 25875
+  tenant: 6858
+scored_words:
+  appurtenant: 127328
+  benignant: 183194
+  illuminant: 140509
+  nondominant: 248676
+  nonmalignant: 224599
+  nonpregnant: 156963
+  regnant: 220410
+  sonant: 174788
+  subdominant: 167112
+  subtenant: 191035
+not_scored_words:
+- Dunant
+- Lieutenant
+- absonant
+- alternant
+- assonant
+- cotenant
+- culminant
+- decontaminant
+- disciplinant
+- examinant
+- germinant
+- hallucinant
+- inconsonant
+- misdemeanant
+- nonruminant
+- oppugnant
+- sublieutenant
+- superdominant
+- undertenant

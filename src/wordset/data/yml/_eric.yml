@@ -1,0 +1,57 @@
+---
+pattern: _eric
+hi_scored_words_count: 18
+scored_words_count: 12
+total_words: 47
+score: 3161201
+score_per_word: 105373
+hi_scored_words:
+  alphanumeric: 38597
+  atmospheric: 9026
+  chimeric: 64738
+  cleric: 28524
+  enteric: 44046
+  esoteric: 22678
+  generic: 6881
+  hemispheric: 53830
+  hysteric: 97208
+  ionospheric: 61927
+  isomeric: 99135
+  monomeric: 77471
+  numeric: 15086
+  polymeric: 37026
+  steric: 81392
+  stratospheric: 52076
+  tropospheric: 66355
+  turmeric: 44109
+scored_words:
+  alphameric: 333522
+  amphoteric: 253342
+  biospheric: 274140
+  choleric: 157657
+  climacteric: 152133
+  exoteric: 141077
+  magnetospheric: 106425
+  mesmeric: 146844
+  mesospheric: 247189
+  neoteric: 170413
+  photospheric: 157873
+  xeric: 120481
+not_scored_words:
+- Eric
+- Frederic
+- Gaiseric
+- Genseric
+- Homeric
+- ceric
+- congeneric
+- dineric
+- diphtheric
+- dysenteric
+- exospheric
+- glyceric
+- isosteric
+- metameric
+- sphincteric
+- subatmospheric
+- valeric

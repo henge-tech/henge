@@ -1,0 +1,36 @@
+---
+pattern: a_bly
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 26
+score: 1358893
+score_per_word: 90592
+hi_scored_words:
+  ably: 32603
+  acceptably: 73805
+  admirably: 30367
+  affordably: 66110
+  agreeably: 77752
+  amicably: 59999
+  appreciably: 52570
+  arguably: 17868
+  assembly: 2055
+  audibly: 69161
+scored_words:
+  abominably: 149856
+  accessibly: 273778
+  adorably: 157427
+  affably: 194457
+  amiably: 101085
+not_scored_words:
+- Assembly
+- accountably
+- actionably
+- admissibly
+- advisably
+- allowably
+- amenably
+- answerably
+- applicably
+- assumably
+- avoidably

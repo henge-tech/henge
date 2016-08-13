@@ -1,0 +1,36 @@
+---
+pattern: kind_
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 26
+score: 1531237
+score_per_word: 72916
+hi_scored_words:
+  kind: 478
+  kinda: 14030
+  kinder: 16909
+  kindergarten: 12926
+  kindergartens: 60367
+  kindest: 50029
+  kindle: 39322
+  kindled: 39209
+  kindling: 45659
+  kindly: 6628
+  kindness: 7808
+  kindred: 14798
+  kinds: 1707
+scored_words:
+  kindergartner: 184353
+  kindergartners: 112074
+  kindhearted: 133214
+  kindles: 156204
+  kindlier: 142798
+  kindliest: 214214
+  kindliness: 140867
+  kindnesses: 137643
+not_scored_words:
+- kindergärtner
+- kindergärtners
+- kindheartedly
+- kindheartedness
+- kindless

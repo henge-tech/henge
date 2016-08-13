@@ -1,0 +1,34 @@
+---
+pattern: m_ue
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 24
+score: 1169202
+score_per_word: 83514
+hi_scored_words:
+  macaque: 56967
+  manque: 85232
+  marque: 32165
+  masque: 32438
+  merengue: 54245
+  meringue: 48886
+  monologue: 28637
+  morgue: 36935
+  mosque: 12815
+  mystique: 34641
+scored_words:
+  misconstrue: 133197
+  miscue: 210095
+  monocoque: 127979
+  moue: 274970
+not_scored_words:
+- Marinduque
+- Martinique
+- Mocambique
+- Monegasque
+- Monique
+- Montague
+- Moresque
+- Mozambique
+- misvalue
+- mystagogue

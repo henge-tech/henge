@@ -1,0 +1,30 @@
+---
+pattern: in_cts
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 20
+score: 1194680
+score_per_word: 79645
+hi_scored_words:
+  infects: 55380
+  inflicts: 74249
+  injects: 66220
+  insects: 6532
+  inspects: 54365
+  instincts: 13971
+  instructs: 35072
+  intellects: 80611
+  interacts: 23757
+  interconnects: 51120
+  intersects: 39171
+scored_words:
+  indicts: 114887
+  inducts: 247722
+  infarcts: 138004
+  interjects: 193619
+not_scored_words:
+- inflects
+- infracts
+- interdicts
+- introjects
+- introspects

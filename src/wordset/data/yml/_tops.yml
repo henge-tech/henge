@@ -1,0 +1,36 @@
+---
+pattern: _tops
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 26
+score: 2193556
+score_per_word: 121864
+hi_scored_words:
+  desktops: 13541
+  laptops: 5823
+  palmtops: 98755
+  rooftops: 43701
+  stops: 4851
+  tops: 4718
+  treetops: 63112
+  triceratops: 93840
+  worktops: 80025
+scored_words:
+  backstops: 319579
+  doorstops: 178705
+  flattops: 304571
+  hardtops: 195877
+  hilltops: 104253
+  housetops: 226865
+  mountaintops: 130825
+  shortstops: 205258
+  tabletops: 119257
+not_scored_words:
+- blacktops
+- clifftops
+- foretops
+- fullstops
+- maintops
+- overtops
+- tiptops
+- unstops

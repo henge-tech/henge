@@ -1,0 +1,26 @@
+---
+pattern: wan_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 889938
+score_per_word: 80903
+hi_scored_words:
+  wanderers: 24094
+  wanderings: 43447
+  wanders: 36221
+  wands: 38259
+  wanes: 99461
+  wankers: 70731
+  wannabes: 61211
+  wants: 1323
+scored_words:
+  wanks: 202159
+  wannabees: 171168
+  wantonness: 141864
+not_scored_words:
+- wanderlusts
+- wanglers
+- wangles
+- wanness
+- wantons

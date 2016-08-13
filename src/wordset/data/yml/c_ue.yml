@@ -1,0 +1,33 @@
+---
+pattern: c_ue
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 23
+score: 869632
+score_per_word: 51154
+hi_scored_words:
+  cacique: 82175
+  catafalque: 91721
+  catalogue: 4950
+  cinque: 49993
+  cirque: 23589
+  clique: 26997
+  clue: 10626
+  colleague: 7621
+  communique: 47109
+  construe: 46522
+  continue: 919
+  critique: 9879
+  cue: 10257
+scored_words:
+  calque: 140229
+  casque: 105104
+  cinematheque: 109678
+  claque: 102263
+not_scored_words:
+- Chaplinesque
+- Cimabue
+- cangue
+- churrigueresque
+- collogue
+- curlicue

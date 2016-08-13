@@ -1,0 +1,40 @@
+---
+pattern: deni_
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 30
+score: 1806960
+score_per_word: 95103
+hi_scored_words:
+  denial: 6877
+  denials: 41450
+  denied: 3563
+  denier: 43364
+  deniers: 90105
+  denies: 12684
+  denigrate: 67489
+  denigration: 93553
+  denim: 14001
+  denitrification: 84313
+  denizen: 79246
+  denizens: 53831
+scored_words:
+  deniability: 133493
+  deniable: 246743
+  denigrated: 125435
+  denigrates: 187590
+  denigrating: 108215
+  denims: 135740
+  denitrifying: 279268
+not_scored_words:
+- Denis
+- Denise
+- deniably
+- denigrations
+- denigrator
+- denigratory
+- denitrate
+- denitrified
+- denitrifies
+- denitrify
+- denizenship

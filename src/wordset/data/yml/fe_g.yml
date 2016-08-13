@@ -1,0 +1,41 @@
+---
+pattern: fe_g
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 31
+score: 1467513
+score_per_word: 73375
+hi_scored_words:
+  fearing: 18592
+  feasting: 43930
+  feathering: 85984
+  featuring: 2781
+  feeding: 4196
+  feeling: 1275
+  feigning: 79521
+  felling: 45576
+  felting: 90179
+  fencing: 12132
+  fending: 81074
+  fermenting: 69025
+  ferrying: 95758
+  fertilizing: 54951
+  festering: 68865
+  fetching: 25259
+  feuding: 73493
+scored_words:
+  federating: 249553
+  feminizing: 227732
+  ferreting: 137637
+not_scored_words:
+- featherbedding
+- fecundating
+- federalizing
+- feedbag
+- feinting
+- felicitating
+- fessing
+- festooning
+- feting
+- fettering
+- fettling

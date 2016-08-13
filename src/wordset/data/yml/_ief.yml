@@ -1,0 +1,30 @@
+---
+pattern: _ief
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 20
+score: 751428
+score_per_word: 46964
+hi_scored_words:
+  belief: 2825
+  brief: 1725
+  chief: 936
+  debrief: 69879
+  disbelief: 22364
+  fief: 82036
+  grief: 5593
+  handkerchief: 21675
+  kerchief: 82718
+  lief: 58296
+  mischief: 14698
+  relief: 1866
+  thief: 7743
+  unbelief: 47268
+scored_words:
+  kief: 175214
+  neckerchief: 156592
+not_scored_words:
+- Chief
+- Tallchief
+- demirelief
+- misbelief

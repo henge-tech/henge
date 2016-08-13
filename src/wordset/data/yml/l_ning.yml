@@ -1,0 +1,27 @@
+---
+pattern: l_ning
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 853728
+score_per_word: 60980
+hi_scored_words:
+  leaning: 8714
+  learning: 811
+  lengthening: 40367
+  lessening: 44586
+  lightening: 32999
+  lightning: 4617
+  lining: 8806
+  listening: 2164
+  loaning: 76679
+  loosening: 41853
+scored_words:
+  lampooning: 188378
+  landowning: 167995
+  leavening: 108568
+  likening: 127191
+not_scored_words:
+- Liaoning
+- limning
+- livening

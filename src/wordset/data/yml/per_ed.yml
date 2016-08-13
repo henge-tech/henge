@@ -1,0 +1,48 @@
+---
+pattern: per_ed
+hi_scored_words_count: 25
+scored_words_count: 6
+total_words: 38
+score: 1860833
+score_per_word: 60026
+hi_scored_words:
+  perceived: 4518
+  perched: 34566
+  perfected: 21903
+  perforated: 23286
+  performed: 1705
+  perfumed: 39448
+  perfused: 66845
+  perished: 21630
+  perked: 83087
+  permeated: 53311
+  permitted: 2715
+  perpetrated: 27248
+  perpetuated: 46860
+  perplexed: 26353
+  persecuted: 24302
+  persevered: 66987
+  persisted: 17837
+  personalized: 7375
+  personified: 49563
+  persuaded: 11285
+  pertained: 71922
+  perturbed: 39991
+  perused: 79735
+  pervaded: 67786
+  perverted: 20769
+scored_words:
+  percolated: 189757
+  perjured: 125655
+  permed: 149910
+  permuted: 142990
+  personated: 189763
+  perspired: 151731
+not_scored_words:
+- perambulated
+- percussed
+- peregrinated
+- perennated
+- periled
+- perorated
+- peroxided

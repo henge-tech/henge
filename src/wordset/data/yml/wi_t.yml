@@ -1,0 +1,47 @@
+---
+pattern: wi_t
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 37
+score: 1460128
+score_per_word: 73006
+hi_scored_words:
+  wicket: 19980
+  widest: 13349
+  widget: 18801
+  wight: 14557
+  wildcat: 27991
+  wildebeest: 58375
+  wildest: 25598
+  willet: 85481
+  wilt: 14946
+  windswept: 59889
+  wingnut: 69410
+  wisest: 39759
+  wit: 4825
+  witchcraft: 15895
+  without: 159
+scored_words:
+  wickedest: 224919
+  windiest: 181007
+  wisent: 306221
+  wist: 103141
+  wittiest: 175825
+not_scored_words:
+- Wight
+- Wilbert
+- Witt
+- wieldiest
+- wiggliest
+- wiglet
+- wiliest
+- wimpiest
+- windowlight
+- windtight
+- winglet
+- winiest
+- winsomest
+- wintriest
+- wiriest
+- wispiest
+- witenagemot

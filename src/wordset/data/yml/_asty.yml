@@ -1,0 +1,35 @@
+---
+pattern: _asty
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 25
+score: 1274286
+score_per_word: 91020
+hi_scored_words:
+  angioplasty: 38952
+  dynasty: 10720
+  hasty: 19244
+  nasty: 5910
+  pasty: 41697
+  rhinoplasty: 60053
+  tasty: 15794
+  toasty: 52166
+scored_words:
+  contrasty: 214480
+  keratoplasty: 143659
+  otoplasty: 128258
+  pederasty: 192786
+  vasty: 214899
+  yeasty: 135668
+not_scored_words:
+- anaplasty
+- autoplasty
+- dermatoplasty
+- epinasty
+- heteroplasty
+- hyponasty
+- neoplasty
+- overhasty
+- staphyloplasty
+- thoracoplasty
+- zooplasty

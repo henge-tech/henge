@@ -1,0 +1,38 @@
+---
+pattern: t_ck
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 28
+score: 1749578
+score_per_word: 83313
+hi_scored_words:
+  tack: 13552
+  tailback: 85067
+  tamarack: 62327
+  thick: 2549
+  throwback: 25009
+  thunderstruck: 58004
+  tick: 11589
+  toothpick: 41563
+  track: 1096
+  trick: 4071
+  truck: 4582
+  tuck: 14813
+  turtleneck: 44747
+  tussock: 81444
+scored_words:
+  tailstock: 209569
+  thumbtack: 218548
+  thwack: 110620
+  tieback: 135901
+  touchback: 121973
+  traprock: 312102
+  turtleback: 190452
+not_scored_words:
+- Thurrock
+- Tieck
+- Trevithick
+- Tuck
+- tacmahack
+- ticktack
+- ticktock

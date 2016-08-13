@@ -1,0 +1,25 @@
+---
+pattern: elev_
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 15
+score: 486510
+score_per_word: 40542
+hi_scored_words:
+  elev: 66014
+  elevate: 21915
+  elevated: 6787
+  elevates: 54327
+  elevating: 39218
+  elevation: 5771
+  elevations: 21144
+  elevator: 9322
+  elevators: 24432
+  eleven: 4839
+  eleventh: 14423
+scored_words:
+  elevens: 218318
+not_scored_words:
+- elevenses
+- elevenths
+- elevon

@@ -1,0 +1,30 @@
+---
+pattern: se_tion
+hi_scored_words_count: 15
+scored_words_count: 0
+total_words: 20
+score: 394835
+score_per_word: 26322
+hi_scored_words:
+  secretion: 15204
+  section: 711
+  secularization: 87170
+  sedation: 31032
+  sedimentation: 26984
+  sedition: 33321
+  seduction: 20782
+  segmentation: 18345
+  segregation: 20955
+  selection: 1868
+  sensation: 7210
+  sensitization: 46621
+  separation: 4246
+  sequestration: 41610
+  serialization: 38776
+scored_words: {}
+not_scored_words:
+- segmentalization
+- semination
+- sentimentalization
+- serration
+- serrulation

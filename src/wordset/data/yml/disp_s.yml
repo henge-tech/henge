@@ -1,0 +1,55 @@
+---
+pattern: disp_s
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 45
+score: 2277564
+score_per_word: 87598
+hi_scored_words:
+  disparities: 21975
+  dispatchers: 62090
+  dispatches: 24833
+  dispels: 93137
+  dispensaries: 90232
+  dispensations: 97510
+  dispensers: 30408
+  dispenses: 65828
+  disperses: 99526
+  dispersions: 75596
+  displacements: 40652
+  displaces: 76904
+  displays: 3908
+  disposables: 57743
+  disposals: 47866
+  disposes: 49476
+  dispositions: 30430
+  disputes: 7629
+scored_words:
+  disparages: 198009
+  dispersers: 266118
+  displeases: 206428
+  disposers: 104820
+  dispossess: 168719
+  disproves: 122450
+  disputants: 112283
+  disputations: 122994
+not_scored_words:
+- disparateness
+- disparatenesses
+- dispassionateness
+- dispassionatenesses
+- dispermous
+- dispiritedness
+- dispiritednesses
+- dispirits
+- displumes
+- disports
+- dispossesses
+- dispraises
+- dispreads
+- disproofs
+- disproportionateness
+- disproportions
+- disputatious
+- disputatiousness
+- disputers

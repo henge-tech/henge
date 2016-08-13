@@ -1,0 +1,41 @@
+---
+pattern: crow_
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 31
+score: 777123
+score_per_word: 48570
+hi_scored_words:
+  crow: 7915
+  crowbar: 45122
+  crowd: 2683
+  crowded: 7053
+  crowding: 31043
+  crowds: 9464
+  crowed: 85502
+  crowing: 72100
+  crown: 2443
+  crowned: 12065
+  crowning: 34857
+  crowns: 14278
+  crows: 18849
+scored_words:
+  crowbars: 182284
+  crowberry: 142809
+  crowfoot: 108656
+not_scored_words:
+- Crow
+- Crowley
+- Crows
+- crowberries
+- crowboot
+- crowdedness
+- crowdfund
+- crowdfunded
+- crowdfunding
+- crowdfunds
+- crowfeet
+- crowfoots
+- crownpiece
+- crownwork
+- crownworks

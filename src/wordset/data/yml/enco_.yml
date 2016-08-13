@@ -1,0 +1,43 @@
+---
+pattern: enco_
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 33
+score: 1283512
+score_per_word: 47537
+hi_scored_words:
+  encode: 22104
+  encoded: 14849
+  encoder: 23124
+  encoders: 49299
+  encodes: 31810
+  encoding: 6262
+  encompass: 20542
+  encompassed: 33729
+  encompasses: 15236
+  encompassing: 24509
+  encore: 11033
+  encores: 83218
+  encounter: 4842
+  encountered: 5583
+  encountering: 28581
+  encounters: 10930
+  encourage: 2820
+  encouraged: 3628
+  encouragement: 8267
+  encourages: 10214
+  encouraging: 5831
+scored_words:
+  encomiastic: 230118
+  encomium: 131084
+  encomiums: 111721
+  encouragements: 133250
+  encourager: 145811
+  encouragingly: 115117
+not_scored_words:
+- encomiast
+- encomiastically
+- encompassment
+- encompassments
+- encored
+- encoring

@@ -1,0 +1,29 @@
+---
+pattern: p_f
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 19
+score: 594565
+score_per_word: 42468
+hi_scored_words:
+  payoff: 21105
+  pf: 10193
+  pilaf: 81632
+  plaintiff: 9311
+  playoff: 11352
+  pontiff: 42123
+  poof: 40113
+  pref: 28368
+  prof: 11699
+  proof: 1827
+  psf: 41795
+  puff: 12911
+scored_words:
+  pelf: 105256
+  pouf: 176880
+not_scored_words:
+- PDF
+- Piaf
+- Pribilof
+- Prof
+- pikestaff

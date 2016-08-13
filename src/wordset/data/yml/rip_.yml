@@ -1,0 +1,50 @@
+---
+pattern: rip_
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 40
+score: 1652102
+score_per_word: 66084
+hi_scored_words:
+  rip: 8744
+  riparian: 25336
+  ripe: 5912
+  ripen: 45077
+  ripened: 55024
+  ripeness: 82913
+  ripening: 41826
+  riper: 99855
+  ripoff: 59635
+  riposte: 81145
+  ripped: 11948
+  ripper: 17141
+  rippers: 61448
+  ripping: 18198
+  ripple: 18406
+  rippled: 71590
+  ripples: 34655
+  rippling: 51652
+  rips: 32979
+  riptide: 70873
+scored_words:
+  ripcord: 130190
+  ripens: 102894
+  ripest: 252581
+  ripoffs: 147335
+  ripstop: 124745
+not_scored_words:
+- RIP
+- Ripley
+- Ripon
+- Ripuarian
+- ripcords
+- ripely
+- ripieno
+- riposted
+- ripostes
+- riposting
+- ripplet
+- ripply
+- ripsaw
+- ripsaws
+- riptides

@@ -1,0 +1,24 @@
+---
+pattern: h_ric
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 786330
+score_per_word: 78633
+hi_scored_words:
+  heliocentric: 74395
+  hemispheric: 53830
+  historic: 3312
+  hydrochloric: 36121
+  hydroelectric: 28061
+  hydrofluoric: 86324
+  hyperbaric: 54302
+  hysteric: 97208
+scored_words:
+  hydric: 125615
+  hydrometric: 227162
+not_scored_words:
+- Homeric
+- hexametric
+- homocentric
+- hygrometric

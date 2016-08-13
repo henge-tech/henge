@@ -1,0 +1,25 @@
+---
+pattern: det_t
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 763939
+score_per_word: 63661
+hi_scored_words:
+  detachment: 14056
+  detect: 5852
+  detent: 91995
+  detergent: 23489
+  determinant: 24795
+  deterrent: 29566
+  detest: 43035
+  detract: 31076
+  detriment: 22761
+scored_words:
+  detainment: 163242
+  determinist: 180954
+  dethronement: 133118
+not_scored_words:
+- Detroit
+- determent
+- detumescent

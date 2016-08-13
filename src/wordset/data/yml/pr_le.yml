@@ -1,0 +1,52 @@
+---
+pattern: pr_le
+hi_scored_words_count: 15
+scored_words_count: 15
+total_words: 42
+score: 3467981
+score_per_word: 115599
+hi_scored_words:
+  practicable: 13314
+  prattle: 70043
+  preamble: 20882
+  predictable: 14709
+  preferable: 13687
+  presentable: 47329
+  preventable: 30405
+  principle: 2253
+  printable: 7042
+  probable: 5867
+  profile: 3000
+  profitable: 6929
+  programmable: 20590
+  projectile: 24134
+  provable: 64688
+scored_words:
+  pratincole: 287539
+  precipitable: 164034
+  predicable: 222521
+  prehensile: 127586
+  presumable: 244301
+  prickle: 158870
+  processable: 226201
+  procurable: 108013
+  producible: 223650
+  prole: 105653
+  promotable: 325130
+  pronounceable: 206766
+  proportionable: 153576
+  prosecutable: 277576
+  prostyle: 291693
+not_scored_words:
+- preassemble
+- pregnable
+- prehensible
+- prescriptible
+- preservable
+- profiterole
+- propagable
+- protostele
+- protractile
+- protrusile
+- providable
+- prunelle

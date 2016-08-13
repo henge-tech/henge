@@ -1,0 +1,22 @@
+---
+pattern: fe_ers
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 725918
+score_per_word: 72591
+hi_scored_words:
+  feathers: 11078
+  feeders: 26533
+  feelers: 93790
+  fellers: 86332
+  fencers: 91961
+  fenders: 33418
+  fertilizers: 25453
+  fetters: 56041
+  fevers: 47496
+scored_words:
+  festers: 253816
+not_scored_words:
+- feasters
+- fetchers

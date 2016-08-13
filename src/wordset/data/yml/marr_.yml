@@ -1,0 +1,31 @@
+---
+pattern: marr_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 21
+score: 1202461
+score_per_word: 85890
+hi_scored_words:
+  marred: 29112
+  marriage: 1341
+  marriages: 14299
+  married: 1240
+  marries: 26728
+  marron: 87632
+  marrow: 11783
+  marry: 4811
+  marrying: 15596
+scored_words:
+  marriageable: 137220
+  marrieds: 210445
+  marring: 111162
+  marrowbone: 271605
+  marrows: 279487
+not_scored_words:
+- Marrakech
+- Marrakesh
+- Marrano
+- Marriott
+- marriageability
+- marrowbones
+- marrowfat

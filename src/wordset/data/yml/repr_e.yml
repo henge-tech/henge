@@ -1,0 +1,28 @@
+---
+pattern: repr_e
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 18
+score: 1404312
+score_per_word: 100308
+hi_scored_words:
+  reprehensible: 41302
+  representative: 2364
+  repressive: 35476
+  reprieve: 40341
+  reprise: 30300
+  reprobate: 77050
+  reproduce: 8808
+  reproducible: 33424
+  reproductive: 11292
+  reprove: 84630
+scored_words:
+  representable: 102787
+  repressible: 324355
+  reprice: 330789
+  reprogrammable: 281394
+not_scored_words:
+- Representative
+- reproachable
+- reprobative
+- reprovable

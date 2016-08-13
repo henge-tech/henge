@@ -1,0 +1,26 @@
+---
+pattern: inad_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 845637
+score_per_word: 76876
+hi_scored_words:
+  inadequacies: 49804
+  inadequacy: 37422
+  inadequate: 7439
+  inadequately: 48067
+  inadmissible: 45648
+  inadvertent: 37005
+  inadvertently: 20701
+  inadvisable: 87197
+scored_words:
+  inadmissibility: 167131
+  inadvertence: 155799
+  inadvertency: 189424
+not_scored_words:
+- inadequateness
+- inadequatenesses
+- inadmissibly
+- inadvertencies
+- inadvisability

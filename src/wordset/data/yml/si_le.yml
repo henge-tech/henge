@@ -1,0 +1,26 @@
+---
+pattern: si_le
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 789304
+score_per_word: 71754
+hi_scored_words:
+  sickle: 22774
+  simile: 36402
+  simple: 582
+  single: 359
+  sinkhole: 81851
+  sizable: 34778
+  sizeable: 29316
+  sizzle: 39121
+scored_words:
+  sidesaddle: 241053
+  sidle: 104150
+  singable: 198918
+not_scored_words:
+- Siple
+- silicle
+- singspiele
+- sinkable
+- siphonostele

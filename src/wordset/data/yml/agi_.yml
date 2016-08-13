@@ -1,0 +1,34 @@
+---
+pattern: agi_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 24
+score: 1351613
+score_per_word: 79506
+hi_scored_words:
+  agile: 16535
+  agility: 15449
+  aging: 12907
+  agios: 62719
+  agitate: 56176
+  agitated: 21836
+  agitating: 56782
+  agitation: 16163
+  agitator: 40233
+  agitators: 65236
+  agitprop: 88434
+scored_words:
+  agio: 142403
+  agita: 121184
+  agitatedly: 150003
+  agitates: 132921
+  agitations: 155102
+  agitato: 197530
+not_scored_words:
+- Agincourt
+- agilely
+- agileness
+- agings
+- agiotage
+- agiotages
+- agist

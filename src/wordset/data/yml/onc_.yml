@@ -1,0 +1,22 @@
+---
+pattern: onc_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 880024
+score_per_word: 80002
+hi_scored_words:
+  once: 284
+  oncogene: 37398
+  oncogenes: 77443
+  oncogenic: 89546
+  oncologist: 51808
+  oncologists: 67571
+  oncology: 14831
+  oncoming: 38759
+scored_words:
+  oncogenesis: 178323
+  oncologic: 157224
+  oncological: 166837
+not_scored_words:
+- oncogenicity

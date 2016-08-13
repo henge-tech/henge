@@ -1,0 +1,49 @@
+---
+pattern: in_ties
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 39
+score: 1586546
+score_per_word: 99159
+hi_scored_words:
+  incompatibilities: 63381
+  indemnities: 88143
+  indignities: 98534
+  inequalities: 17968
+  inequities: 48763
+  infirmities: 66516
+  iniquities: 69461
+  insecurities: 48383
+  instabilities: 50062
+  intensities: 27865
+scored_words:
+  inanities: 154256
+  incongruities: 166152
+  infidelities: 140483
+  infinities: 118748
+  inhomogeneities: 119773
+  insanities: 308058
+not_scored_words:
+- inabilities
+- inapplicabilities
+- incivilities
+- incompressibilities
+- incontrovertibilities
+- incorporealities
+- incurabilities
+- indefatigabilities
+- indigestibilities
+- indomitabilities
+- indubitabilities
+- inebrieties
+- ineffectualities
+- inelasticities
+- inexorabilities
+- infelicities
+- inhumanities
+- insubstantialities
+- intentionalities
+- internationalities
+- intransitivities
+- inutilities
+- invisibilities

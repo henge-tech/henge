@@ -1,0 +1,29 @@
+---
+pattern: news_s
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 19
+score: 1551907
+score_per_word: 103460
+hi_scored_words:
+  newsagents: 66614
+  newsboys: 79689
+  newscasts: 59683
+  newsgroups: 16069
+  newsletters: 6125
+  newspapers: 3061
+  newsreaders: 77020
+  newsreels: 80659
+  newsrooms: 89050
+  newsstands: 65046
+scored_words:
+  newscasters: 171626
+  newsflashes: 183485
+  newshounds: 146643
+  newsweeklies: 218526
+  newsworthiness: 288611
+not_scored_words:
+- NeWSes
+- newsdealers
+- newsgirls
+- newsmongers

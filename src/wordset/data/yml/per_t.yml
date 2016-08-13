@@ -1,0 +1,33 @@
+---
+pattern: per_t
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 23
+score: 811177
+score_per_word: 50698
+hi_scored_words:
+  percent: 3301
+  percept: 72730
+  percussionist: 55430
+  perfect: 726
+  perfectionist: 47692
+  peridot: 39981
+  permafrost: 52274
+  permanent: 1961
+  permit: 2339
+  persist: 13058
+  persistent: 7165
+  pert: 33266
+  pertinent: 12904
+  pervert: 25944
+scored_words:
+  percipient: 259111
+  periodontist: 183295
+not_scored_words:
+- Perot
+- Perrault
+- perfectest
+- perfusionist
+- periapt
+- perkiest
+- pertest

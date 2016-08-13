@@ -1,0 +1,20 @@
+---
+pattern: con_ring
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 518382
+score_per_word: 57598
+hi_scored_words:
+  concurring: 39476
+  conferring: 34407
+  configuring: 18398
+  conjuring: 47759
+  conquering: 26372
+  considering: 2583
+  conspiring: 45617
+  contouring: 58960
+scored_words:
+  conjecturing: 244810
+not_scored_words:
+- concentering

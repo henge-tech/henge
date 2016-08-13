@@ -1,0 +1,32 @@
+---
+pattern: lau_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 22
+score: 945961
+score_per_word: 85996
+hi_scored_words:
+  lauds: 69083
+  laughs: 9315
+  launchers: 30288
+  launches: 12800
+  laundress: 88413
+  laundries: 58795
+  laureates: 58770
+  laurels: 33647
+scored_words:
+  launderers: 166789
+  launderettes: 268734
+  laundromats: 149327
+not_scored_words:
+- laudableness
+- lauders
+- laughableness
+- laughers
+- laughingstocks
+- launces
+- launchpads
+- launders
+- laundresses
+- lauraceous
+- laurustinus

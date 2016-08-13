@@ -1,0 +1,27 @@
+---
+pattern: f_ets
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 17
+score: 804706
+score_per_word: 73155
+hi_scored_words:
+  facets: 23680
+  faucets: 29435
+  ferrets: 43284
+  fillets: 40172
+  fishnets: 72480
+  fleets: 23845
+  florets: 76459
+  forgets: 27931
+  frets: 48505
+scored_words:
+  fidgets: 250121
+  freshets: 168794
+not_scored_words:
+- flageolets
+- flatlets
+- flibbertigibbets
+- flysheets
+- frontlets
+- fussbudgets

@@ -1,0 +1,33 @@
+---
+pattern: mut_s
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 23
+score: 1523474
+score_per_word: 101564
+hi_scored_words:
+  mutagenesis: 42679
+  mutagens: 95866
+  mutants: 15995
+  mutations: 17713
+  mutes: 68119
+  mutterings: 72922
+  mutters: 73531
+  mutts: 78761
+scored_words:
+  mutates: 114948
+  mutilates: 257534
+  mutilations: 107068
+  mutineers: 106455
+  mutinies: 164269
+  mutinous: 132781
+  muts: 174833
+not_scored_words:
+- mutableness
+- mutablenesses
+- muteness
+- muticous
+- mutilators
+- mutterers
+- muttonchops
+- muttonheads

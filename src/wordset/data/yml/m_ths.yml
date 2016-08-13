@@ -1,0 +1,22 @@
+---
+pattern: m_ths
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 688861
+score_per_word: 68886
+hi_scored_words:
+  mammoths: 89494
+  maths: 14903
+  megaliths: 89294
+  monoliths: 91761
+  months: 443
+  moths: 21172
+  mouths: 12332
+  myths: 10179
+scored_words:
+  meths: 211936
+  millionths: 147347
+not_scored_words:
+- megadeaths
+- motormouths

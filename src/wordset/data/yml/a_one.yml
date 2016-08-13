@@ -1,0 +1,33 @@
+---
+pattern: a_one
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 23
+score: 1600205
+score_per_word: 106680
+hi_scored_words:
+  abalone: 37297
+  acetone: 30145
+  aldosterone: 55426
+  alone: 884
+  anemone: 40961
+  anglophone: 72841
+  anyone: 719
+  atone: 47715
+scored_words:
+  agone: 100292
+  aleurone: 258465
+  allophone: 276725
+  androsterone: 220660
+  answerphone: 102338
+  anthraquinone: 184552
+  anticyclone: 171185
+not_scored_words:
+- Alcyone
+- Anglophone
+- Antigone
+- Antone
+- aerophone
+- aitchbone
+- anklebone
+- audiphone

@@ -1,0 +1,28 @@
+---
+pattern: p_w
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 18
+score: 919477
+score_per_word: 61298
+hi_scored_words:
+  paw: 13933
+  peepshow: 71983
+  pew: 18485
+  phew: 38299
+  pillow: 5957
+  plow: 19349
+  pow: 15620
+  powwow: 67935
+  preview: 8204
+  prow: 53858
+  purview: 40509
+scored_words:
+  papaw: 165391
+  pawpaw: 101597
+  playfellow: 188529
+  pshaw: 109828
+not_scored_words:
+- POW
+- PW
+- pitsaw

@@ -1,0 +1,43 @@
+---
+pattern: _cket
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 33
+score: 1922153
+score_per_word: 71190
+hi_scored_words:
+  becket: 40474
+  bracket: 13371
+  bucket: 8190
+  cricket: 5848
+  docket: 20039
+  jacket: 3900
+  locket: 28784
+  packet: 5038
+  picket: 21893
+  pickpocket: 72853
+  placket: 85219
+  pocket: 1623
+  racket: 19457
+  rocket: 9839
+  skyrocket: 55256
+  socket: 9755
+  sprocket: 38813
+  straitjacket: 99794
+  thicket: 38487
+  ticket: 3186
+  wicket: 19980
+scored_words:
+  bluejacket: 168626
+  brocket: 149301
+  crocket: 179810
+  gutbucket: 337764
+  leatherjacket: 226199
+  tucket: 258654
+not_scored_words:
+- Becket
+- Nantucket
+- midwicket
+- pricket
+- retrorocket
+- tacket

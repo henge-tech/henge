@@ -1,0 +1,28 @@
+---
+pattern: comf_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 18
+score: 713644
+score_per_word: 59470
+hi_scored_words:
+  comfort: 1933
+  comfortable: 2271
+  comfortably: 10291
+  comforted: 34273
+  comforter: 23445
+  comforters: 51346
+  comforting: 17361
+  comforts: 17989
+  comfrey: 81841
+  comfy: 19172
+scored_words:
+  comfortingly: 254160
+  comfortless: 199562
+not_scored_words:
+- comfier
+- comfiest
+- comfit
+- comfits
+- comfortableness
+- comfreys

@@ -1,0 +1,57 @@
+---
+pattern: se_er
+hi_scored_words_count: 20
+scored_words_count: 10
+total_words: 47
+score: 2345882
+score_per_word: 78196
+hi_scored_words:
+  seafarer: 78680
+  sealer: 39643
+  searcher: 43161
+  seawater: 30531
+  seducer: 78249
+  seeker: 12483
+  seer: 21386
+  seiner: 57677
+  seller: 5834
+  seltzer: 41053
+  semester: 7130
+  sender: 14484
+  sequencer: 38736
+  sequester: 80869
+  server: 11760
+  setter: 29685
+  settler: 26192
+  sever: 25129
+  sewer: 12851
+  sexier: 52537
+scored_words:
+  seconder: 153333
+  securer: 217837
+  seeder: 119991
+  seedier: 275158
+  seersucker: 117283
+  seismometer: 170898
+  semiquaver: 141207
+  semitrailer: 158462
+  sepulcher: 102178
+  severer: 181465
+not_scored_words:
+- Seder
+- Seeger
+- September
+- seamier
+- seasoner
+- secularizer
+- sedater
+- seemlier
+- seismographer
+- seizer
+- selenographer
+- sensitometer
+- serenader
+- serener
+- serer
+- serigrapher
+- sermonizer

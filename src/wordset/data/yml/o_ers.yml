@@ -1,0 +1,60 @@
+---
+pattern: o_ers
+hi_scored_words_count: 20
+scored_words_count: 18
+total_words: 50
+score: 3880433
+score_per_word: 102116
+hi_scored_words:
+  observers: 9028
+  occupiers: 45867
+  offenders: 9359
+  offers: 1285
+  officeholders: 89258
+  officers: 1489
+  oilers: 24809
+  onlookers: 50880
+  openers: 28064
+  orders: 877
+  organizers: 20511
+  others: 317
+  otters: 40435
+  outfitters: 24203
+  outliers: 40195
+  outsiders: 19915
+  overs: 20740
+  overseers: 55894
+  owners: 2315
+  oysters: 20507
+scored_words:
+  oceanographers: 147885
+  odometers: 326044
+  oldsters: 270711
+  oleanders: 143524
+  optimizers: 103378
+  orbiters: 166544
+  osiers: 222652
+  outfielders: 100103
+  outlanders: 142931
+  outnumbers: 244890
+  outriders: 115607
+  outriggers: 126639
+  outworkers: 325710
+  overachievers: 264965
+  overpowers: 122281
+  overwinters: 242748
+  oxidizers: 109420
+  oystercatchers: 198453
+not_scored_words:
+- Octobers
+- ochers
+- ockers
+- octameters
+- oglers
+- ohmmeters
+- oleasters
+- onagers
+- ostlers
+- ousters
+- outmaneuvers
+- overmasters

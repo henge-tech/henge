@@ -1,0 +1,48 @@
+---
+pattern: c_nces
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 38
+score: 2578956
+score_per_word: 95516
+hi_scored_words:
+  cadences: 90190
+  chances: 4223
+  circumstances: 1685
+  clearances: 34296
+  coincidences: 45819
+  commences: 25455
+  competences: 49592
+  condolences: 28182
+  conferences: 5040
+  confidences: 71269
+  consciences: 51872
+  consequences: 3085
+  contrivances: 98778
+  conveniences: 31961
+  conveyances: 64103
+  convinces: 38479
+  correspondences: 48406
+scored_words:
+  circumferences: 215769
+  concordances: 111125
+  concurrences: 327357
+  confluences: 216359
+  congruences: 160949
+  continuances: 195043
+  convergences: 159405
+  countenances: 115829
+  counterbalances: 275706
+  covariances: 108979
+not_scored_words:
+- chemiluminescences
+- comeuppances
+- concomitances
+- consistences
+- consonances
+- contradances
+- convalescences
+- convenances
+- conversances
+- covalences
+- crapulences

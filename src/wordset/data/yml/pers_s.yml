@@ -1,0 +1,44 @@
+---
+pattern: pers_s
+hi_scored_words_count: 11
+scored_words_count: 10
+total_words: 34
+score: 2076722
+score_per_word: 98891
+hi_scored_words:
+  persecutions: 55930
+  persecutors: 91505
+  persists: 22270
+  personages: 47518
+  personalities: 10920
+  personals: 19089
+  personas: 34890
+  persons: 1153
+  perspectives: 12180
+  persuades: 67989
+  persuasions: 63653
+scored_words:
+  persecutes: 213960
+  perseveres: 163054
+  persimmons: 128026
+  personalizes: 223810
+  personifications: 200970
+  personifies: 113978
+  perspicacious: 191199
+  perspicuous: 153435
+  persuaders: 136416
+  persuasiveness: 124777
+not_scored_words:
+- Persepolis
+- Perseus
+- Persians
+- Persis
+- Perspexes
+- perseverations
+- persistencies
+- personableness
+- personablenesses
+- personates
+- perspicuousness
+- perspicuousnesses
+- perspires

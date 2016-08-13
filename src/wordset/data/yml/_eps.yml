@@ -1,0 +1,49 @@
+---
+pattern: _eps
+hi_scored_words_count: 21
+scored_words_count: 5
+total_words: 39
+score: 1768612
+score_per_word: 68023
+hi_scored_words:
+  beeps: 39588
+  biceps: 40455
+  creeps: 30107
+  deeps: 69228
+  doorsteps: 78884
+  footsteps: 11577
+  forceps: 37607
+  jeeps: 43630
+  keeps: 2940
+  missteps: 85613
+  peeps: 23226
+  peps: 73071
+  preps: 41831
+  quadriceps: 63224
+  reps: 12816
+  seeps: 62992
+  sleeps: 8088
+  steps: 1288
+  sweeps: 16981
+  triceps: 51453
+  weeps: 37473
+scored_words:
+  bleeps: 112695
+  juleps: 244898
+  oversteps: 286194
+  sidesteps: 138962
+  steeps: 153791
+not_scored_words:
+- Lesseps
+- barkeeps
+- cassareeps
+- cheeps
+- goosesteps
+- greps
+- insteps
+- oversleeps
+- quicksteps
+- schleps
+- skeps
+- veeps
+- yeps

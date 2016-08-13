@@ -1,0 +1,22 @@
+---
+pattern: re_ins
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 12
+score: 406928
+score_per_word: 45214
+hi_scored_words:
+  redskins: 20566
+  refrains: 83273
+  regains: 61019
+  reins: 20023
+  rejoins: 87737
+  remains: 1679
+  resins: 21927
+  restrains: 98576
+  retains: 12128
+scored_words: {}
+not_scored_words:
+- reattains
+- reexplains
+- retrains

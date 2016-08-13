@@ -1,0 +1,31 @@
+---
+pattern: co_als
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 891754
+score_per_word: 81068
+hi_scored_words:
+  coals: 33727
+  colonials: 54328
+  commercials: 9550
+  conceals: 50670
+  conditionals: 62367
+  corals: 31277
+  cordials: 99087
+  corrals: 97243
+scored_words:
+  confessionals: 162217
+  continentals: 157843
+  corporals: 133445
+not_scored_words:
+- coequals
+- coevals
+- commensals
+- committals
+- congeals
+- constitutionals
+- copals
+- coronals
+- coucals
+- counterproposals

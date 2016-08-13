@@ -1,0 +1,62 @@
+---
+pattern: m_ine
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 52
+score: 1769602
+score_per_word: 63200
+hi_scored_words:
+  machine: 963
+  magazine: 1641
+  mainline: 24014
+  margarine: 27554
+  marine: 2955
+  masculine: 13280
+  medicine: 1662
+  melamine: 51487
+  mescaline: 84797
+  methamphetamine: 29949
+  methionine: 35820
+  mezzanine: 31411
+  midline: 50109
+  migraine: 18525
+  mine: 1238
+  moline: 40466
+  moonshine: 33853
+  moraine: 38728
+  morphine: 22302
+  murine: 30332
+scored_words:
+  margravine: 134332
+  meperidine: 104248
+  mercaptopurine: 155654
+  methenamine: 239613
+  methylamine: 163083
+  microcrystalline: 102986
+  mousseline: 124387
+  muscadine: 204213
+not_scored_words:
+- Madeleine
+- Madeline
+- Maine
+- Marine
+- Maurine
+- Maxine
+- Methedrine
+- Murine
+- macedoine
+- macédoine
+- marline
+- merocrine
+- messaline
+- metalline
+- mezcaline
+- microcline
+- milline
+- misdefine
+- monkeyshine
+- monocline
+- murrhine
+- muscarine
+- musteline
+- myeline

@@ -1,0 +1,46 @@
+---
+pattern: g_ally
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 36
+score: 1079802
+score_per_word: 77128
+hi_scored_words:
+  generally: 1043
+  generically: 48040
+  genetically: 11628
+  geographically: 21224
+  geologically: 79493
+  geometrically: 50043
+  globally: 11625
+  gradually: 4502
+  grammatically: 59364
+  graphically: 26325
+scored_words:
+  genially: 200020
+  glacially: 232727
+  governmentally: 193700
+  gravitationally: 140068
+not_scored_words:
+- Gothically
+- galvanically
+- gastrologically
+- gastronomically
+- genealogically
+- genitally
+- genitivally
+- genocidally
+- geocentrically
+- geomagnetically
+- geophysically
+- geopolitically
+- geothermally
+- germinally
+- gigantically
+- gnomically
+- gradationally
+- gravimetrically
+- gutturally
+- gymnastically
+- gynecologically
+- gyroscopically

@@ -1,0 +1,43 @@
+---
+pattern: hu_ed
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 33
+score: 2361269
+score_per_word: 90818
+hi_scored_words:
+  huddled: 31751
+  hued: 74865
+  hugged: 26840
+  hulled: 72169
+  humanized: 94426
+  humbled: 35160
+  humiliated: 29501
+  hummed: 77282
+  humored: 97164
+  humped: 68009
+  hunched: 59577
+  hundred: 1732
+  hunted: 15267
+  hurled: 27951
+  hurried: 16532
+  hushed: 39855
+  hustled: 77866
+scored_words:
+  huffed: 134952
+  humidified: 148019
+  humpbacked: 130477
+  hunchbacked: 284773
+  hungered: 138713
+  hunkered: 132173
+  hurtled: 142466
+  husbanded: 160889
+  husked: 242860
+not_scored_words:
+- huckstered
+- humbugged
+- humphed
+- hurdled
+- hurrahed
+- huzzaed
+- huzzahed

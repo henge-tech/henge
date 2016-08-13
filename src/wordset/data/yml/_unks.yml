@@ -1,0 +1,29 @@
+---
+pattern: _unks
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 19
+score: 1299017
+score_per_word: 92786
+hi_scored_words:
+  bunks: 55001
+  chipmunks: 56217
+  chunks: 20383
+  drunks: 42321
+  dunks: 56035
+  hunks: 23992
+  punks: 30339
+  skunks: 65620
+  trunks: 13423
+scored_words:
+  debunks: 101253
+  flunks: 245437
+  funks: 237328
+  junks: 110283
+  thunks: 241385
+not_scored_words:
+- clunks
+- cyberpunks
+- plunks
+- splatterpunks
+- spunks

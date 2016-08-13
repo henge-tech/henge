@@ -1,0 +1,25 @@
+---
+pattern: ev_ed
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 15
+score: 1119710
+score_per_word: 79979
+hi_scored_words:
+  evacuated: 21347
+  evaded: 56028
+  evaluated: 5475
+  evaporated: 32177
+  evicted: 38780
+  evidenced: 18654
+  evinced: 51108
+  evoked: 23149
+  evolved: 8070
+scored_words:
+  evangelized: 196985
+  evened: 108068
+  evenhanded: 178578
+  eventuated: 245181
+  eviscerated: 136110
+not_scored_words:
+- evanesced

@@ -1,0 +1,31 @@
+---
+pattern: p_ide
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 21
+score: 867047
+score_per_word: 57803
+hi_scored_words:
+  patricide: 83727
+  peptide: 12944
+  peroxide: 27908
+  pesticide: 16968
+  phosphide: 98688
+  polyacrylamide: 52063
+  polyamide: 63854
+  polypeptide: 29197
+  polysaccharide: 53329
+  poolside: 40364
+  preside: 29209
+  pride: 2486
+  provide: 400
+scored_words:
+  parricide: 231920
+  perchloride: 123990
+not_scored_words:
+- Pride
+- parasiticide
+- phenoxide
+- phospholipide
+- platinocyanide
+- protoxide

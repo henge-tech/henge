@@ -1,0 +1,20 @@
+---
+pattern: to_al
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 10
+score: 329740
+score_per_word: 36637
+hi_scored_words:
+  tonal: 27823
+  topical: 17812
+  topographical: 35827
+  topological: 24676
+  toroidal: 61673
+  torrential: 51779
+  torsional: 60491
+  total: 567
+  toxicological: 49092
+scored_words: {}
+not_scored_words:
+- tonsorial

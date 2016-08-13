@@ -1,0 +1,34 @@
+---
+pattern: la_ess
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 24
+score: 1242475
+score_per_word: 95575
+hi_scored_words:
+  lameness: 50478
+  landless: 49914
+  lateness: 55275
+  laundress: 88413
+  lawfulness: 86903
+  lawless: 22214
+  lawlessness: 41075
+  laziness: 28126
+scored_words:
+  largeness: 117563
+  largess: 127226
+  lasciviousness: 185355
+  lavishness: 210790
+  laxness: 179143
+not_scored_words:
+- laboriousness
+- laciness
+- lackadaisicalness
+- laddishness
+- laggardness
+- languidness
+- lankiness
+- lankness
+- lastingness
+- laudableness
+- laughableness

@@ -1,0 +1,23 @@
+---
+pattern: _chet
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 710582
+score_per_word: 71058
+hi_scored_words:
+  cachet: 49959
+  crochet: 17355
+  crotchet: 85570
+  hatchet: 24500
+  ratchet: 20015
+  ricochet: 40629
+  sachet: 59781
+  trebuchet: 54144
+scored_words:
+  planchet: 151714
+  rochet: 206915
+not_scored_words:
+- Montrachet
+- Pinochet
+- latchet

@@ -1,0 +1,81 @@
+---
+pattern: o_te
+hi_scored_words_count: 25
+scored_words_count: 16
+total_words: 71
+score: 3644550
+score_per_word: 88891
+hi_scored_words:
+  obfuscate: 73889
+  oblate: 82025
+  obligate: 47241
+  obliterate: 48448
+  obsolete: 8523
+  obstinate: 38243
+  obviate: 54514
+  officiate: 51766
+  offsite: 38344
+  omelette: 42589
+  onsite: 22319
+  oocyte: 57195
+  operate: 4149
+  opiate: 33608
+  opposite: 2623
+  orchestrate: 60377
+  ordinate: 25695
+  originate: 16893
+  ornate: 24244
+  oscillate: 59092
+  ovate: 61733
+  overestimate: 52156
+  overstate: 66224
+  overwrite: 34667
+  oxalate: 49514
+scored_words:
+  obdurate: 100526
+  obovate: 158385
+  oleate: 147803
+  oolite: 124022
+  orate: 165102
+  organophosphate: 103346
+  orientate: 115186
+  oubliette: 169389
+  outcaste: 215818
+  overate: 169307
+  overbite: 223055
+  overcompensate: 205011
+  overrate: 233015
+  overwrote: 252065
+  ovulate: 105006
+  oxygenate: 101443
+not_scored_words:
+- Oriente
+- obcordate
+- objurgate
+- obnubilate
+- obsecrate
+- obturate
+- obumbrate
+- obvolute
+- ocreate
+- octahedrite
+- oligochaete
+- olivenite
+- ophite
+- oppilate
+- orbiculate
+- osculate
+- osteophyte
+- outdate
+- outvote
+- overconsiderate
+- overdecorate
+- overeducate
+- overelaborate
+- overexcite
+- overinflate
+- overmedicate
+- overpopulate
+- overregulate
+- overstimulate
+- oxidate

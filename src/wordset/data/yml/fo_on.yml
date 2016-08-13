@@ -1,0 +1,27 @@
+---
+pattern: fo_on
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 1303708
+score_per_word: 100285
+hi_scored_words:
+  foliation: 77743
+  forenoon: 65073
+  formalization: 63909
+  formation: 2960
+  formulation: 17193
+  fornication: 42501
+  fortification: 34230
+  foundation: 1197
+scored_words:
+  fomentation: 145058
+  foreperson: 171208
+  forestation: 223051
+  formication: 253998
+  fossilization: 205587
+not_scored_words:
+- Fourneyron
+- foison
+- foreordination
+- fourgon

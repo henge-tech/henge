@@ -1,0 +1,32 @@
+---
+pattern: _ifts
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 22
+score: 1889206
+score_per_word: 118075
+hi_scored_words:
+  drifts: 35943
+  forklifts: 62120
+  gifts: 1629
+  lifts: 9192
+  redshifts: 94468
+  rifts: 56482
+  shifts: 9389
+  swifts: 64638
+scored_words:
+  airlifts: 278461
+  chairlifts: 179399
+  downshifts: 321072
+  facelifts: 119071
+  sifts: 169291
+  snowdrifts: 240956
+  thrifts: 109012
+  uplifts: 138083
+not_scored_words:
+- gearshifts
+- makeshifts
+- shoplifts
+- spendthrifts
+- spindrifts
+- spoondrifts

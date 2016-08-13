@@ -1,0 +1,29 @@
+---
+pattern: m_ma
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 874238
+score_per_word: 72853
+hi_scored_words:
+  magma: 25342
+  mahatma: 34153
+  mama: 8320
+  mamma: 16345
+  melanoma: 21083
+  melodrama: 32569
+  miasma: 80008
+  myeloma: 34291
+scored_words:
+  maremma: 109711
+  melisma: 134627
+  myxedema: 213380
+  myxoma: 164409
+not_scored_words:
+- Mahatma
+- Manama
+- Matsuyama
+- Mazama
+- Montezuma
+- mazuma
+- monodrama

@@ -1,0 +1,36 @@
+---
+pattern: pa_tic
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 26
+score: 1580090
+score_per_word: 98755
+hi_scored_words:
+  pancreatic: 18377
+  paradigmatic: 78307
+  paralytic: 67273
+  paramagnetic: 61268
+  parasitic: 23112
+  parasympathetic: 77642
+  paternalistic: 79068
+  pathetic: 9961
+  patriotic: 8499
+  patristic: 93231
+scored_words:
+  pacifistic: 271109
+  panchromatic: 150136
+  panoptic: 193955
+  pantheistic: 155445
+  paretic: 103980
+  parthenogenetic: 188727
+not_scored_words:
+- Palearctic
+- palimpsestic
+- palingenetic
+- paralinguistic
+- parallactic
+- parallelistic
+- paraphrastic
+- paratactic
+- parenthetic
+- parotic

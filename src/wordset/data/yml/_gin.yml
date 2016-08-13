@@ -1,0 +1,31 @@
+---
+pattern: _gin
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 21
+score: 482969
+score_per_word: 40247
+hi_scored_words:
+  begin: 1048
+  biggin: 93459
+  engin: 58211
+  gin: 12342
+  login: 4018
+  margin: 4936
+  noggin: 56834
+  origin: 1838
+  pidgin: 49490
+  plugin: 7280
+  virgin: 2804
+scored_words:
+  piggin: 190709
+not_scored_words:
+- Begin
+- Fagin
+- Kosygin
+- Onegin
+- Regin
+- Virgin
+- algin
+- leggin
+- spongin

@@ -1,0 +1,46 @@
+---
+pattern: le_ed
+hi_scored_words_count: 20
+scored_words_count: 10
+total_words: 36
+score: 2380042
+score_per_word: 79334
+hi_scored_words:
+  leached: 90407
+  leaded: 45955
+  leafed: 85919
+  leaked: 19062
+  leaned: 12087
+  leaped: 28146
+  learned: 1590
+  leased: 14943
+  leaved: 37210
+  lectured: 34462
+  legalized: 36280
+  legged: 24123
+  legislated: 56209
+  legitimized: 94793
+  lengthened: 47170
+  lessened: 36838
+  lettered: 45133
+  leveled: 30778
+  leveraged: 33918
+  levied: 19688
+scored_words:
+  leagued: 106790
+  leapfrogged: 242894
+  leashed: 124484
+  leavened: 101166
+  leered: 178149
+  legitimated: 141358
+  leisured: 255079
+  levelheaded: 143919
+  levered: 151718
+  levitated: 139774
+not_scored_words:
+- leafleted
+- leched
+- leeched
+- legitimatized
+- leotarded
+- levanted

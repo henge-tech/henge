@@ -1,0 +1,24 @@
+---
+pattern: po_ate
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 682561
+score_per_word: 68256
+hi_scored_words:
+  pollinate: 90391
+  polycarbonate: 36933
+  pomegranate: 32287
+  pontificate: 58232
+  populate: 29664
+  postgraduate: 14521
+  postulate: 37167
+  potentate: 73836
+scored_words:
+  postdate: 195236
+  potentiate: 114294
+not_scored_words:
+- Pontificate
+- polyunsaturate
+- postcollegiate
+- postdoctorate

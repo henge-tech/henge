@@ -1,0 +1,39 @@
+---
+pattern: con_ally
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 29
+score: 1801191
+score_per_word: 112574
+hi_scored_words:
+  conceptually: 32482
+  conditionally: 46129
+  confidentially: 37325
+  constitutionally: 30271
+  contextually: 90086
+  continually: 5667
+  contractually: 51618
+  conventionally: 39843
+scored_words:
+  concentrically: 207986
+  congenitally: 142042
+  congressionally: 115009
+  consensually: 259695
+  consequentially: 137186
+  conspiratorially: 294313
+  controversially: 103769
+  conversationally: 207770
+not_scored_words:
+- configurationally
+- congenially
+- conically
+- conjecturally
+- conjugally
+- conjugationally
+- conjunctionally
+- connaturally
+- connubially
+- consonantally
+- continentally
+- contrapuntally
+- convivially

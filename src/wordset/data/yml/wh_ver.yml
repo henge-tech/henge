@@ -1,0 +1,26 @@
+---
+pattern: wh_ver
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 772667
+score_per_word: 64388
+hi_scored_words:
+  whatever: 1167
+  whatsoever: 5995
+  whenever: 2548
+  wherever: 4621
+  whichever: 11013
+  whoever: 6561
+  whomever: 32030
+  whomsoever: 56044
+  whosoever: 31671
+scored_words:
+  whensoever: 285921
+  wheresoever: 130692
+  whithersoever: 204404
+not_scored_words:
+- whencesoever
+- whichsoever
+- whosesoever
+- whosever

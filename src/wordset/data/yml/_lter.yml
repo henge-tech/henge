@@ -1,0 +1,47 @@
+---
+pattern: _lter
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 37
+score: 2560210
+score_per_word: 106675
+hi_scored_words:
+  alter: 4817
+  colter: 69663
+  coulter: 19960
+  falter: 40266
+  filter: 6462
+  halter: 21620
+  kilter: 65580
+  milter: 59051
+  psalter: 63886
+  quilter: 74401
+  salter: 39043
+  shelter: 3975
+  smelter: 45874
+  welter: 60304
+scored_words:
+  bolter: 112660
+  defaulter: 173081
+  kelter: 333505
+  melter: 132482
+  molter: 258477
+  spelter: 228902
+  swelter: 233266
+  tilter: 133991
+  ultrafilter: 212557
+  vaulter: 166387
+not_scored_words:
+- Coulter
+- Psalter
+- Walter
+- assaulter
+- desalter
+- drysalter
+- insulter
+- jolter
+- palter
+- philter
+- refilter
+- revolter
+- svelter

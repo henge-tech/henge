@@ -1,0 +1,62 @@
+---
+pattern: _aphs
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 52
+score: 2556403
+score_per_word: 121733
+hi_scored_words:
+  autographs: 21596
+  digraphs: 95402
+  graphs: 8106
+  lithographs: 51534
+  monographs: 29189
+  paragraphs: 6399
+  photographs: 4392
+  pictographs: 95615
+  radiographs: 50867
+  telegraphs: 92131
+scored_words:
+  choreographs: 322179
+  chronographs: 163889
+  epitaphs: 103414
+  homographs: 306759
+  ideographs: 171997
+  phonographs: 132825
+  photomicrographs: 141076
+  polygraphs: 191694
+  seismographs: 208754
+  serigraphs: 116149
+  spectrographs: 242436
+not_scored_words:
+- Addressographs
+- allographs
+- autoradiographs
+- barographs
+- bathyscaphs
+- cardiographs
+- cenotaphs
+- cryptographs
+- cymographs
+- electrocardiographs
+- electroencephalographs
+- electrographs
+- epigraphs
+- hectographs
+- heliographs
+- holographs
+- kaphs
+- kymographs
+- mimeographs
+- oscillographs
+- pantographs
+- radiotelegraphs
+- rephotographs
+- seraphs
+- shadowgraphs
+- skiagraphs
+- spirographs
+- tachographs
+- telephotographs
+- thermographs
+- tomographs

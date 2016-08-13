@@ -1,0 +1,35 @@
+---
+pattern: reco_n
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 25
+score: 1429465
+score_per_word: 84086
+hi_scored_words:
+  recognition: 2664
+  recollection: 17146
+  recombination: 24711
+  recommendation: 4457
+  recon: 17701
+  reconciliation: 11299
+  reconfiguration: 41903
+  reconnection: 64287
+  reconsideration: 32757
+  reconstitution: 50759
+  reconstruction: 7805
+scored_words:
+  recolonization: 223413
+  recompilation: 144196
+  recomputation: 224004
+  recondition: 155551
+  reconfirmation: 203229
+  reconversion: 203583
+not_scored_words:
+- Reconstruction
+- recoin
+- recommission
+- reconception
+- recondensation
+- reconsecration
+- reconsign
+- recontamination

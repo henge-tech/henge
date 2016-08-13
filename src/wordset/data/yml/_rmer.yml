@@ -1,0 +1,30 @@
+---
+pattern: _rmer
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 20
+score: 700787
+score_per_word: 53906
+hi_scored_words:
+  charmer: 46376
+  dormer: 45534
+  farmer: 3819
+  firmer: 37755
+  former: 895
+  harmer: 73618
+  informer: 29015
+  performer: 10008
+  reformer: 29864
+  transformer: 20523
+  warmer: 10305
+scored_words:
+  barnstormer: 248729
+  conformer: 144346
+not_scored_words:
+- Farmer
+- affirmer
+- autotransformer
+- bedwarmer
+- benchwarmer
+- legwarmer
+- squirmer

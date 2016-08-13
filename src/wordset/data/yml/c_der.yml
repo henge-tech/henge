@@ -1,0 +1,51 @@
+---
+pattern: c_der
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 41
+score: 1907007
+score_per_word: 76280
+hi_scored_words:
+  calender: 30863
+  camcorder: 13419
+  carder: 83533
+  cardholder: 50397
+  cheerleader: 11495
+  childminder: 94936
+  chowder: 34669
+  cider: 14874
+  cinder: 38322
+  coder: 29945
+  colander: 69031
+  colder: 16179
+  collider: 42499
+  commander: 3591
+  consider: 956
+  contender: 20713
+  corder: 81098
+  coriander: 29886
+  crusader: 28358
+  cylinder: 6898
+scored_words:
+  ceder: 168395
+  compounder: 274564
+  confounder: 306893
+  copyholder: 288793
+  cruder: 166700
+not_scored_words:
+- Calder
+- Commander
+- calamander
+- cannonfodder
+- cheder
+- chider
+- chunder
+- coldshoulder
+- colluder
+- commender
+- compander
+- conceder
+- confider
+- copyreader
+- crookeder
+- cullender

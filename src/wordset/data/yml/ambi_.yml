@@ -1,0 +1,37 @@
+---
+pattern: ambi_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 27
+score: 951153
+score_per_word: 55950
+hi_scored_words:
+  ambiance: 29565
+  ambidextrous: 64607
+  ambience: 24913
+  ambient: 18107
+  ambiguities: 39242
+  ambiguity: 18075
+  ambiguous: 13771
+  ambit: 54374
+  ambition: 7920
+  ambitions: 16356
+  ambitious: 7690
+  ambivalence: 41286
+  ambivalent: 37192
+scored_words:
+  ambiances: 167953
+  ambidexterity: 145557
+  ambiguously: 103664
+  ambitiously: 160881
+not_scored_words:
+- ambidexter
+- ambidextrously
+- ambiences
+- ambitendency
+- ambitiousness
+- ambits
+- ambivalently
+- ambiversion
+- ambiversions
+- ambivert

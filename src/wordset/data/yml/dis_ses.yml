@@ -1,0 +1,38 @@
+---
+pattern: dis_ses
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 28
+score: 892871
+score_per_word: 74405
+hi_scored_words:
+  discloses: 37518
+  discourses: 24660
+  discusses: 10382
+  diseases: 3279
+  disguises: 49761
+  dismisses: 40246
+  dispenses: 65828
+  disperses: 99526
+  disposes: 49476
+  distresses: 90845
+scored_words:
+  disburses: 214922
+  displeases: 206428
+not_scored_words:
+- disabuses
+- discomposes
+- disconsolatenesses
+- discontentednesses
+- discuses
+- disembarrasses
+- disenfranchises
+- disfranchises
+- disingenuousnesses
+- disparatenesses
+- dispassionatenesses
+- dispiritednesses
+- dispossesses
+- dispraises
+- distrustfulnesses
+- disuses

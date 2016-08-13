@@ -1,0 +1,32 @@
+---
+pattern: g_sts
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1322502
+score_per_word: 82656
+hi_scored_words:
+  genealogists: 67222
+  generalists: 94350
+  geneticists: 77205
+  geologists: 33522
+  ghosts: 8646
+  goalposts: 92776
+  guests: 2286
+  guitarists: 34250
+  gusts: 24343
+  gymnasts: 52496
+  gynecologists: 57325
+scored_words:
+  gemologists: 197415
+  geophysicists: 112266
+  gerontologists: 153467
+  globalists: 208398
+  guideposts: 106535
+not_scored_words:
+- gabfests
+- gateposts
+- glaciologists
+- goldcrests
+- graphologists
+- gymnosophists

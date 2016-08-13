@@ -1,0 +1,44 @@
+---
+pattern: ice_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 34
+score: 1704263
+score_per_word: 106516
+hi_scored_words:
+  ice: 1404
+  iceberg: 21483
+  icebergs: 55084
+  icebox: 54773
+  icebreaker: 48216
+  icebreakers: 97934
+  iced: 19177
+  icehouse: 71442
+  iceman: 43648
+  ices: 38207
+scored_words:
+  icebreaking: 244083
+  icecap: 147386
+  icecaps: 268359
+  icefall: 218611
+  icepack: 201177
+  icepick: 173279
+not_scored_words:
+- Ice
+- Icel
+- Iceland
+- Icelander
+- Icelanders
+- Icelandic
+- Iceni
+- iceblink
+- iceboat
+- iceboater
+- iceboating
+- iceboats
+- icebound
+- iceboxes
+- icefalls
+- icehouses
+- icemen
+- icepicks

@@ -1,0 +1,32 @@
+---
+pattern: _yst
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 22
+score: 530843
+score_per_word: 53084
+hi_scored_words:
+  amethyst: 21593
+  analyst: 14265
+  blastocyst: 86069
+  catalyst: 12547
+  cryst: 74195
+  cyst: 23909
+  psychoanalyst: 82118
+  syst: 37775
+  tryst: 50753
+scored_words:
+  mayst: 127619
+not_scored_words:
+- Myst
+- anticatalyst
+- biocatalyst
+- cholecyst
+- cryptanalyst
+- encyst
+- otocyst
+- phenocryst
+- sporocyst
+- statocyst
+- trichocyst
+- xenocryst

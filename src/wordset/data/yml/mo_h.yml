@@ -1,0 +1,34 @@
+---
+pattern: mo_h
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 24
+score: 955772
+score_per_word: 63718
+hi_scored_words:
+  monarch: 8786
+  monkfish: 79222
+  monograph: 24572
+  monolith: 37906
+  monteith: 69067
+  month: 488
+  mooch: 78422
+  morph: 29113
+  mosh: 40683
+  moth: 13697
+  mouth: 1587
+  mouthwash: 58951
+scored_words:
+  modish: 163629
+  monkish: 203248
+  motormouth: 146401
+not_scored_words:
+- Molech
+- Moloch
+- Monchengladbach
+- Monmouth
+- Moorish
+- monostich
+- moonfish
+- mopish
+- moreish

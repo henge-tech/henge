@@ -1,0 +1,26 @@
+---
+pattern: tr_ry
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 451208
+score_per_word: 45120
+hi_scored_words:
+  traditionary: 77588
+  trajectory: 17911
+  transitory: 32151
+  treachery: 25540
+  treasury: 4524
+  tributary: 19140
+  trickery: 39184
+  trigonometry: 38705
+  trumpery: 76355
+scored_words:
+  tracery: 120110
+not_scored_words:
+- Treasury
+- transitionary
+- transmigratory
+- tribunary
+- trinary
+- trinketry

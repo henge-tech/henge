@@ -1,0 +1,34 @@
+---
+pattern: t_nts
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 24
+score: 1129742
+score_per_word: 59460
+hi_scored_words:
+  talents: 6935
+  tangents: 63572
+  taunts: 54222
+  temperaments: 68421
+  tenants: 8197
+  tenements: 56670
+  tents: 8298
+  testaments: 51014
+  tints: 41639
+  torments: 54176
+  torrents: 19071
+  tournaments: 12108
+  transients: 46028
+  transplants: 21351
+  treatments: 15130
+  tyrants: 32238
+scored_words:
+  taints: 121795
+  thumbprints: 276086
+  truants: 172791
+not_scored_words:
+- teguments
+- termagants
+- topgallants
+- traducements
+- tridents

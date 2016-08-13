@@ -1,0 +1,24 @@
+---
+pattern: di_ge
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 837950
+score_per_word: 69829
+hi_scored_words:
+  dirge: 37834
+  disadvantage: 10470
+  discharge: 4102
+  discourage: 14832
+  disengage: 46432
+  dislodge: 50876
+  disparage: 58564
+  diverge: 39998
+  divulge: 34196
+scored_words:
+  dinge: 118945
+  disgorge: 114460
+  disoblige: 307241
+not_scored_words:
+- diallage
+- disarrange

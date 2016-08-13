@@ -1,0 +1,40 @@
+---
+pattern: mis_t
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 30
+score: 2118713
+score_per_word: 100891
+hi_scored_words:
+  misalignment: 65975
+  misconduct: 14414
+  miscreant: 81839
+  misfit: 39225
+  misinterpret: 78521
+  mismanagement: 39154
+  misogynist: 76713
+  misprint: 75291
+  misrepresent: 54366
+  misstatement: 81600
+  mist: 7575
+  mistreatment: 44358
+  mistrust: 29822
+scored_words:
+  miscast: 162554
+  misdirect: 204923
+  misdoubt: 317492
+  misgovernment: 105450
+  misjudgment: 190537
+  misplacement: 232954
+  misspent: 106865
+  mistreat: 109085
+not_scored_words:
+- misanthropist
+- miscount
+- misdealt
+- misdemeanant
+- mishit
+- misogamist
+- misorient
+- misreport
+- mistiest

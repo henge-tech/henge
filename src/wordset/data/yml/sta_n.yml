@@ -1,0 +1,33 @@
+---
+pattern: sta_n
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 23
+score: 485871
+score_per_word: 37374
+hi_scored_words:
+  stabilization: 16832
+  stagnation: 30326
+  stain: 8955
+  stallion: 18755
+  stamen: 87226
+  standardization: 16397
+  starvation: 15993
+  statesman: 12590
+  statesmen: 28804
+  station: 937
+  statistician: 36423
+scored_words:
+  stagflation: 111441
+  stanchion: 101192
+not_scored_words:
+- Stalin
+- Stan
+- Stanton
+- Staten
+- stableman
+- stablemen
+- staffman
+- stamin
+- stateswoman
+- stateswomen

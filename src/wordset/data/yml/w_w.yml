@@ -1,0 +1,36 @@
+---
+pattern: w_w
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 26
+score: 610046
+score_per_word: 40669
+hi_scored_words:
+  wallow: 49017
+  waw: 59304
+  wheelbarrow: 44148
+  whew: 30388
+  widow: 6475
+  willow: 8447
+  window: 606
+  withdraw: 6590
+  withdrew: 12168
+  workflow: 11053
+  worldview: 24140
+  wow: 10607
+scored_words:
+  whitlow: 102144
+  windrow: 129638
+  winnow: 115321
+not_scored_words:
+- WNW
+- WSW
+- WW
+- WWW
+- Warsaw
+- Wicklow
+- Woodrow
+- Wroclaw
+- whipsaw
+- williwaw
+- wiredraw

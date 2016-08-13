@@ -1,0 +1,32 @@
+---
+pattern: rev_g
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 22
+score: 1817714
+score_per_word: 90885
+hi_scored_words:
+  revamping: 61252
+  revealing: 9173
+  reversing: 22274
+  reverting: 40829
+  reviewing: 9151
+  revising: 23438
+  revisiting: 42105
+  revitalizing: 52637
+  reviving: 32698
+  revoking: 57662
+  revolting: 35763
+  revolutionizing: 67660
+  revolving: 14931
+  revving: 63825
+scored_words:
+  revaluing: 332578
+  reveling: 106598
+  revenging: 257438
+  reverberating: 104058
+  revering: 276161
+  reviling: 207483
+not_scored_words:
+- reverencing
+- revivifying

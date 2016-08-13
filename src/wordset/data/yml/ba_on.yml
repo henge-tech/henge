@@ -1,0 +1,39 @@
+---
+pattern: ba_on
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 29
+score: 909696
+score_per_word: 53511
+hi_scored_words:
+  baboon: 37200
+  backgammon: 27015
+  bacon: 6499
+  badminton: 18190
+  ballon: 42494
+  balloon: 6820
+  bandwagon: 26705
+  baron: 7460
+  barton: 10087
+  baryon: 68789
+  bassoon: 30847
+  bastion: 26931
+  baton: 13119
+  battalion: 8934
+scored_words:
+  backwardation: 215510
+  bastardization: 227527
+  bazillion: 135569
+not_scored_words:
+- Babylon
+- Bacon
+- Balaton
+- Barron
+- Barton
+- Basildon
+- Bayamon
+- barbarization
+- barracoon
+- baryton
+- basion
+- battlewagon

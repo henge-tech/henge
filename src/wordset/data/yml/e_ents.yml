@@ -1,0 +1,64 @@
+---
+pattern: e_ents
+hi_scored_words_count: 30
+scored_words_count: 13
+total_words: 54
+score: 3479913
+score_per_word: 80928
+hi_scored_words:
+  easements: 40043
+  effluents: 60094
+  elements: 1577
+  embankments: 69112
+  embellishments: 37578
+  embodiments: 56883
+  emoluments: 57472
+  employments: 67408
+  enactments: 48296
+  encampments: 83183
+  enchantments: 65763
+  encroachments: 62322
+  endorsements: 22824
+  endowments: 29858
+  engagements: 15486
+  enhancements: 10795
+  enjoyments: 96608
+  enlargements: 60940
+  enrollments: 39677
+  entanglements: 76545
+  entertainments: 33860
+  entitlements: 23924
+  environments: 11573
+  equipments: 29039
+  equivalents: 18785
+  establishments: 9924
+  events: 529
+  experiments: 3632
+  exponents: 37877
+  extents: 54275
+scored_words:
+  embarrassments: 114027
+  emollients: 148788
+  emplacements: 127972
+  encouragements: 133250
+  endearments: 241953
+  enforcements: 177505
+  enlistments: 166210
+  enticements: 177873
+  entrenchments: 201900
+  escapements: 278856
+  escarpments: 199086
+  excitements: 162161
+  expedients: 124450
+not_scored_words:
+- elopements
+- embalmments
+- embarkments
+- emblements
+- embossments
+- encirclements
+- encompassments
+- enjambments
+- enjoinments
+- enthronements
+- estrangements

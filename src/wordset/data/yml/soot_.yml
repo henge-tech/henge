@@ -1,0 +1,29 @@
+---
+pattern: soot_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 979500
+score_per_word: 81625
+hi_scored_words:
+  soot: 27814
+  sooth: 65951
+  soothe: 24729
+  soothed: 46443
+  soothes: 51583
+  soothing: 13241
+  soothsayer: 77092
+  sooty: 45332
+scored_words:
+  soother: 126398
+  soothers: 221105
+  soothingly: 112827
+  soothsayers: 166985
+not_scored_words:
+- soothfast
+- soothsay
+- soothsaying
+- sootier
+- sootiest
+- sootiness
+- sootinesses

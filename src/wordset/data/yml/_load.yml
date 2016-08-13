@@ -1,0 +1,33 @@
+---
+pattern: _load
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 23
+score: 1246026
+score_per_word: 73295
+hi_scored_words:
+  boatload: 93041
+  caseload: 45816
+  download: 1432
+  load: 2088
+  offload: 50392
+  overload: 13927
+  payload: 14253
+  reload: 17791
+  shitload: 83482
+  truckload: 46385
+  unload: 23789
+  upload: 8559
+  workload: 17744
+scored_words:
+  armload: 277965
+  busload: 160586
+  carload: 115030
+  shipload: 273746
+not_scored_words:
+- cartload
+- coachload
+- freeload
+- planeload
+- superload
+- trainload

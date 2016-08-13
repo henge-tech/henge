@@ -1,0 +1,23 @@
+---
+pattern: cr_ty
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 13
+score: 1011586
+score_per_word: 84298
+hi_scored_words:
+  crafty: 18990
+  creativity: 9751
+  credibility: 14215
+  credulity: 57940
+  criminality: 43401
+  criticality: 45216
+  cruelty: 10485
+  crusty: 33811
+scored_words:
+  creditability: 235958
+  crotchety: 126937
+  crudity: 201758
+  crufty: 213124
+not_scored_words:
+- cruciality

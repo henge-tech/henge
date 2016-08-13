@@ -1,0 +1,101 @@
+---
+pattern: n_c
+hi_scored_words_count: 28
+scored_words_count: 17
+total_words: 91
+score: 4695260
+score_per_word: 104339
+hi_scored_words:
+  narc: 57696
+  narcissistic: 42778
+  narcotic: 24008
+  nationalistic: 45127
+  naturalistic: 41878
+  naturopathic: 63118
+  necrotic: 58676
+  nematic: 99538
+  neolithic: 34841
+  neoplastic: 43663
+  neuralgic: 74003
+  neurogenic: 75468
+  neurologic: 33045
+  neurotic: 32925
+  nihilistic: 68802
+  nitric: 19807
+  nomadic: 26163
+  nonacademic: 94623
+  nonmetallic: 64110
+  nonparametric: 54260
+  nonpublic: 53560
+  nonspecific: 43732
+  nontoxic: 68014
+  nostalgic: 22978
+  nucleic: 17483
+  numeric: 15086
+  numismatic: 51325
+  nymphomaniac: 99527
+scored_words:
+  narcoleptic: 164656
+  necromantic: 175386
+  neoclassic: 162761
+  neoteric: 170413
+  nephritic: 120171
+  neritic: 308271
+  neuritic: 285169
+  noetic: 109944
+  nonalcoholic: 106694
+  nonbasic: 287746
+  noneconomic: 121106
+  nonmagnetic: 173956
+  nonorganic: 303345
+  nonpathogenic: 191875
+  nonscientific: 243644
+  nostoc: 156058
+  novelistic: 187831
+not_scored_words:
+- NBC
+- NC
+- NFC
+- NGC
+- NRC
+- NSC
+- NYC
+- Napoleonic
+- Neolithic
+- Nilotic
+- Nordic
+- nativistic
+- necrologic
+- necrophiliac
+- necrophilic
+- negativistic
+- nepotistic
+- neurasthenic
+- nickelic
+- niobic
+- nominalistic
+- nomothetic
+- nonallergenic
+- nonallergic
+- nonanalytic
+- nonapologetic
+- nonaromatic
+- nonathletic
+- nonautomatic
+- noncaloric
+- nondemocratic
+- nondiplomatic
+- nondogmatic
+- nondomestic
+- nondramatic
+- nonelastic
+- nonelectric
+- nonnarcotic
+- nonparasitic
+- nonrhythmic
+- nonstrategic
+- nontheistic
+- nonvolcanic
+- nucleonic
+- nuclidic
+- nystagmic

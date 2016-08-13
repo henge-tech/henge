@@ -1,0 +1,44 @@
+---
+pattern: b_ins
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 34
+score: 1775503
+score_per_word: 104441
+hi_scored_words:
+  bargains: 11526
+  basins: 18969
+  begins: 2215
+  benjamins: 57074
+  bins: 21536
+  bobbins: 58377
+  brains: 7071
+  bruins: 16612
+  bulletins: 19987
+scored_words:
+  berlins: 244869
+  biggins: 128411
+  blains: 316432
+  bloodstains: 130837
+  boffins: 109200
+  breastpins: 203634
+  bumpkins: 204220
+  buskins: 224533
+not_scored_words:
+- Baldwins
+- Bedouins
+- Berlins
+- Blevins
+- bacitracins
+- baldachins
+- bearskins
+- benzoins
+- birdbrains
+- bitcoins
+- boatswains
+- bodkins
+- botulins
+- bowfins
+- buckskins
+- burins
+- butyrins

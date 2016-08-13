@@ -1,0 +1,41 @@
+---
+pattern: car_l
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 31
+score: 1168997
+score_per_word: 58449
+hi_scored_words:
+  caramel: 19198
+  carbonyl: 45222
+  cardinal: 5960
+  careful: 2728
+  carl: 8461
+  carnal: 26854
+  carnival: 9747
+  carol: 7894
+  carousel: 21396
+  carpal: 29261
+  carpool: 40813
+  cartel: 25823
+  cartwheel: 88343
+  carvel: 78100
+scored_words:
+  caracal: 169177
+  caravel: 103170
+  carousal: 137562
+  carpel: 106428
+  carrel: 100041
+  carryall: 142819
+not_scored_words:
+- Carl
+- Carmel
+- Carmichael
+- Carol
+- Carrel
+- Carroll
+- Caryl
+- cardiological
+- caricatural
+- carnassial
+- cartographical

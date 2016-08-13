@@ -1,0 +1,40 @@
+---
+pattern: _iser
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 30
+score: 947264
+score_per_word: 59204
+hi_scored_words:
+  advertiser: 14348
+  adviser: 8815
+  appraiser: 30930
+  bruiser: 65395
+  cruiser: 11998
+  exerciser: 96483
+  fundraiser: 16801
+  kaiser: 12894
+  merchandiser: 63840
+  miser: 42181
+  raiser: 29931
+  riser: 32089
+  wiser: 17188
+scored_words:
+  franchiser: 224703
+  improviser: 157333
+  reviser: 122335
+not_scored_words:
+- Budweiser
+- Dreiser
+- Kaiser
+- chastiser
+- compromiser
+- conciser
+- despiser
+- deviser
+- dispraiser
+- enterpriser
+- mortiser
+- preciser
+- promiser
+- unwiser

@@ -1,0 +1,43 @@
+---
+pattern: p_ins
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 33
+score: 1637462
+score_per_word: 90970
+hi_scored_words:
+  pains: 8026
+  paladins: 63364
+  penguins: 17255
+  pertains: 29923
+  pins: 7041
+  plains: 5012
+  plantains: 67973
+  plugins: 11001
+  proteins: 3850
+  puffins: 81602
+  pumpkins: 23599
+scored_words:
+  phosphoproteins: 156996
+  pidgins: 183792
+  pigskins: 309348
+  pippins: 172713
+  porcelains: 142713
+  progestins: 117305
+  pushpins: 235949
+not_scored_words:
+- Perkins
+- Poppins
+- palanquins
+- palmitins
+- pangolins
+- pannikins
+- papains
+- plasmins
+- polymyxins
+- precipitins
+- preordains
+- prothrombins
+- psilocybins
+- ptyalins
+- purloins

@@ -1,0 +1,37 @@
+---
+pattern: _dial
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 27
+score: 987825
+score_per_word: 61739
+hi_scored_words:
+  allodial: 89337
+  cordial: 22409
+  custodial: 24096
+  dial: 7078
+  medial: 22323
+  myocardial: 15860
+  pericardial: 59331
+  postprandial: 83691
+  primordial: 30215
+  radial: 18914
+  redial: 67102
+  remedial: 18852
+  sundial: 37560
+scored_words:
+  endocardial: 135887
+  noncustodial: 107367
+  prandial: 247803
+not_scored_words:
+- Dial
+- audial
+- biradial
+- gerundial
+- interradial
+- interstadial
+- misdial
+- predial
+- preludial
+- preprandial
+- threnodial

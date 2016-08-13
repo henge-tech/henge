@@ -1,0 +1,60 @@
+---
+pattern: refo_
+hi_scored_words_count: 19
+scored_words_count: 12
+total_words: 50
+score: 3622929
+score_per_word: 116868
+hi_scored_words:
+  refocus: 56223
+  refocused: 96763
+  refocusing: 88803
+  reforestation: 51262
+  reform: 2723
+  reformat: 48422
+  reformation: 14111
+  reformatory: 89684
+  reformatted: 55536
+  reformatting: 78674
+  reformed: 13587
+  reformer: 29864
+  reformers: 26145
+  reforming: 22826
+  reformist: 45388
+  reformists: 95998
+  reforms: 6750
+  reformulated: 56323
+  reformulation: 70949
+scored_words:
+  refocuses: 282676
+  refold: 203950
+  refolded: 280519
+  refolding: 155313
+  reforest: 314323
+  reforested: 267124
+  reformations: 187266
+  reformatories: 228790
+  reformism: 173905
+  reformulate: 108102
+  reformulating: 193546
+  reformulations: 277384
+not_scored_words:
+- Reformation
+- Reformations
+- Reformed
+- refolds
+- reforesting
+- reforests
+- reforge
+- reforged
+- reforges
+- reforging
+- reformable
+- reformational
+- reformative
+- reformulates
+- refortified
+- refortifies
+- refortify
+- refortifying
+- refound

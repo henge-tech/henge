@@ -1,0 +1,26 @@
+---
+pattern: sani_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1192252
+score_per_word: 99354
+hi_scored_words:
+  sanitarium: 59546
+  sanitary: 12790
+  sanitation: 17224
+  sanitize: 76839
+  sanitized: 60416
+  sanitizer: 57258
+  sanitizing: 76646
+  sanity: 15010
+scored_words:
+  sanitarian: 157868
+  sanitarians: 293316
+  sanitizers: 114306
+  sanitizes: 251033
+not_scored_words:
+- sanies
+- sanious
+- sanitarily
+- sanitariums

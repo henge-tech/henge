@@ -1,0 +1,30 @@
+---
+pattern: sco_d
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 20
+score: 1129512
+score_per_word: 70594
+hi_scored_words:
+  scoffed: 62579
+  scold: 44295
+  scolded: 52938
+  scooped: 40775
+  scoped: 58278
+  scorched: 37401
+  scoreboard: 13638
+  scorecard: 24403
+  scored: 5924
+  scorned: 39125
+  scoured: 54524
+  scouted: 80393
+  scowled: 81388
+scored_words:
+  scooted: 118091
+  scotched: 294510
+  scourged: 121250
+not_scored_words:
+- Scotland
+- scolopendrid
+- scorpaenid
+- scorpaenoid

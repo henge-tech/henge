@@ -1,0 +1,27 @@
+---
+pattern: p_py
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 655714
+score_per_word: 54642
+hi_scored_words:
+  pappy: 55081
+  peppy: 70838
+  philanthropy: 15840
+  photocopy: 23996
+  physiotherapy: 30357
+  poppy: 16357
+  preppy: 64058
+  psychotherapy: 17257
+  puppy: 8144
+scored_words:
+  phototherapy: 110991
+  preoccupy: 108640
+  pulpy: 134155
+not_scored_words:
+- parthenocarpy
+- pharyngoscopy
+- phonotypy
+- phototypy
+- pyretotherapy

@@ -1,0 +1,26 @@
+---
+pattern: ravi_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 725035
+score_per_word: 72503
+hi_scored_words:
+  ravin: 86975
+  ravine: 26679
+  ravines: 62824
+  raving: 26830
+  ravings: 58249
+  ravioli: 39179
+  ravished: 54893
+  ravishing: 59436
+scored_words:
+  ravish: 100914
+  ravisher: 209056
+not_scored_words:
+- ravingly
+- raviolis
+- ravishers
+- ravishes
+- ravishingly
+- ravishment

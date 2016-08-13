@@ -1,0 +1,43 @@
+---
+pattern: _rol
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 33
+score: 1896181
+score_per_word: 118511
+hi_scored_words:
+  carol: 7894
+  cholesterol: 11596
+  control: 538
+  glycerol: 33037
+  patrol: 7443
+  petrol: 15215
+  sterol: 72432
+  tocopherol: 58430
+scored_words:
+  calciferol: 312817
+  cholecalciferol: 176247
+  decontrol: 185483
+  ergocalciferol: 235163
+  ergosterol: 173138
+  meteorol: 138226
+  parol: 127079
+  stigmasterol: 341443
+not_scored_words:
+- Argyrol
+- Carol
+- Clairol
+- Demerol
+- Errol
+- Ferrol
+- Karol
+- Tirol
+- anticholesterol
+- astrol
+- bannerol
+- dimercaprol
+- folderol
+- horol
+- lumisterol
+- stilbestrol
+- viosterol

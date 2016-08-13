@@ -1,0 +1,34 @@
+---
+pattern: prom_s
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 24
+score: 1182743
+score_per_word: 78849
+hi_scored_words:
+  promiscuous: 33543
+  promises: 4955
+  promos: 23062
+  promoters: 19468
+  promotes: 12611
+  promotions: 10860
+  promptness: 73184
+  prompts: 18635
+  proms: 40681
+scored_words:
+  promenaders: 237830
+  promenades: 105644
+  prominences: 126816
+  promontories: 178796
+  promptings: 133439
+  promulgates: 163219
+not_scored_words:
+- Prometheus
+- promiscuousness
+- promiscuousnesses
+- promisees
+- promisers
+- promptbooks
+- prompters
+- promulgations
+- promulgators

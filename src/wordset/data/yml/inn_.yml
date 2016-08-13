@@ -1,0 +1,65 @@
+---
+pattern: inn_
+hi_scored_words_count: 28
+scored_words_count: 11
+total_words: 55
+score: 2995105
+score_per_word: 76797
+hi_scored_words:
+  inn: 2327
+  innards: 59939
+  innate: 17168
+  innately: 76176
+  inner: 2646
+  innermost: 31655
+  innervation: 41026
+  inning: 23327
+  innings: 17378
+  innit: 65626
+  innkeeper: 32907
+  innkeepers: 64492
+  innocence: 8699
+  innocent: 3710
+  innocently: 39103
+  innocents: 33211
+  innocuous: 37774
+  innovate: 30650
+  innovated: 85767
+  innovating: 59058
+  innovation: 5765
+  innovations: 10195
+  innovative: 7953
+  innovator: 28687
+  innovators: 37384
+  inns: 12451
+  innuendo: 43747
+  innumerable: 19802
+scored_words:
+  innerspring: 147264
+  innervate: 180682
+  innervated: 127235
+  innervating: 230957
+  innocency: 252803
+  innocuously: 300375
+  innominate: 143465
+  innovates: 150032
+  innovatory: 273878
+  innuendoes: 138219
+  innuendos: 151572
+not_scored_words:
+- Inn
+- Innocent
+- Innsbruck
+- innateness
+- innerness
+- innersole
+- innersoles
+- innervates
+- innerve
+- innocuousness
+- innovational
+- innoxious
+- innumerably
+- innumeracy
+- innumerate
+- innutrition

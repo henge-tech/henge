@@ -1,0 +1,71 @@
+---
+pattern: con_rs
+hi_scored_words_count: 28
+scored_words_count: 15
+total_words: 61
+score: 3967959
+score_per_word: 92278
+hi_scored_words:
+  concentrators: 76008
+  concurs: 54030
+  condensers: 60427
+  conditioners: 25950
+  condors: 85766
+  conductors: 20125
+  confectioners: 86755
+  confers: 32537
+  congeners: 87012
+  conifers: 49881
+  connectors: 9707
+  connoisseurs: 48304
+  conquerors: 41761
+  conquers: 49909
+  conquistadors: 97738
+  conservators: 81854
+  considers: 6625
+  conspirators: 36095
+  constructors: 28584
+  consumers: 6514
+  containers: 6775
+  contenders: 27833
+  contours: 22105
+  contractors: 7106
+  contributors: 9756
+  controllers: 8111
+  converters: 18187
+  conveyors: 42710
+scored_words:
+  concealers: 123902
+  concertgoers: 267629
+  conciliators: 237712
+  confessors: 129954
+  conformers: 175321
+  congers: 196910
+  conkers: 141723
+  consignors: 229507
+  consolidators: 158589
+  constrictors: 209931
+  conveners: 174434
+  convenors: 152980
+  conventioneers: 254430
+  convertors: 178421
+  conveyancers: 208351
+not_scored_words:
+- Connors
+- conceivers
+- concenters
+- concertmasters
+- concessioners
+- condemners
+- coneflowers
+- conferrers
+- confiders
+- confiscators
+- confusers
+- conjoiners
+- conjurers
+- conjurors
+- connivers
+- contaminators
+- contrivers
+- convectors

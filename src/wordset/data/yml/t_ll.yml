@@ -1,0 +1,39 @@
+---
+pattern: t_ll
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 29
+score: 972250
+score_per_word: 57191
+hi_scored_words:
+  tall: 2472
+  tell: 281
+  they'll: 3845
+  thrall: 43492
+  thrill: 9486
+  till: 1801
+  toll: 5299
+  tortoiseshell: 75990
+  trackball: 60738
+  treadmill: 20647
+  trill: 48588
+  troll: 19223
+  twill: 31191
+scored_words:
+  tarball: 101809
+  tetherball: 186270
+  thill: 180529
+  trull: 180589
+not_scored_words:
+- Tarbell
+- Tell
+- Terrell
+- Terrill
+- Tinkerbell
+- Trumbull
+- Tull
+- Tyndall
+- thumbstall
+- thundersquall
+- topfull
+- twibill

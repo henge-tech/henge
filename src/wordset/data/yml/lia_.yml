@@ -1,0 +1,31 @@
+---
+pattern: lia_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 21
+score: 1118983
+score_per_word: 79927
+hi_scored_words:
+  liabilities: 11465
+  liability: 2447
+  liable: 4367
+  liaise: 49897
+  liaising: 75246
+  liaison: 12164
+  liaisons: 43757
+  liana: 55302
+  liar: 11286
+  liars: 19410
+scored_words:
+  liaised: 236124
+  liaises: 194120
+  lianas: 245403
+  liard: 157995
+not_scored_words:
+- Liam
+- Liao
+- Liaoning
+- Liaotung
+- Liaoyang
+- Liard
+- Lias

@@ -1,0 +1,29 @@
+---
+pattern: loo_s
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 19
+score: 1174431
+score_per_word: 73401
+hi_scored_words:
+  lookers: 93951
+  lookouts: 78353
+  looks: 945
+  looms: 25480
+  loonies: 91873
+  loons: 63856
+  loopholes: 39982
+  loops: 11306
+  loos: 53248
+  looseness: 96251
+  loosens: 89325
+  looses: 62279
+  looters: 55769
+scored_words:
+  lookalikes: 103673
+  loopers: 171934
+  loots: 136206
+not_scored_words:
+- loofahs
+- looniness
+- loosestrifes

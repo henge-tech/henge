@@ -1,0 +1,26 @@
+---
+pattern: _ewer
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 624203
+score_per_word: 52016
+hi_scored_words:
+  brewer: 17468
+  ewer: 80758
+  fewer: 4651
+  interviewer: 23085
+  newer: 8168
+  reviewer: 7817
+  sewer: 12851
+  skewer: 54668
+  viewer: 10013
+scored_words:
+  chewer: 123548
+  hewer: 159587
+  previewer: 121589
+not_scored_words:
+- Brewer
+- microbrewer
+- renewer
+- spewer

@@ -1,0 +1,33 @@
+---
+pattern: chop_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 23
+score: 468602
+score_per_word: 46860
+hi_scored_words:
+  chop: 11357
+  chopped: 9624
+  chopper: 22578
+  choppers: 27903
+  chopping: 26995
+  choppy: 37656
+  chops: 18484
+  chopstick: 78972
+  chopsticks: 39432
+scored_words:
+  chophouse: 195601
+not_scored_words:
+- Chopin
+- Chopra
+- chopfallen
+- chophouses
+- chopine
+- chopines
+- choplogic
+- choppered
+- choppering
+- choppier
+- choppiest
+- choppily
+- choppiness

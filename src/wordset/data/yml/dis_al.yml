@@ -1,0 +1,28 @@
+---
+pattern: dis_al
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 1070943
+score_per_word: 89245
+hi_scored_words:
+  disapproval: 22273
+  disloyal: 66995
+  dismal: 17965
+  dismissal: 11458
+  dispersal: 28544
+  disposal: 4723
+  distal: 20344
+  distributional: 45977
+scored_words:
+  disavowal: 137515
+  disbursal: 321950
+  dispensational: 189700
+  disproportional: 203499
+not_scored_words:
+- discretional
+- disenthral
+- disproval
+- disquisitional
+- dissertational
+- distortional

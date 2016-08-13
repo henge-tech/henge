@@ -1,0 +1,35 @@
+---
+pattern: coll_e
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 25
+score: 1153863
+score_per_word: 60729
+hi_scored_words:
+  collaborate: 15519
+  collaborative: 10211
+  collage: 18997
+  collapse: 6309
+  collapsible: 44269
+  collarbone: 72630
+  collate: 49967
+  colleague: 7621
+  collectable: 23422
+  collectible: 17074
+  collective: 5472
+  college: 802
+  collegiate: 14985
+  collide: 21995
+  collie: 24598
+  collude: 98107
+scored_words:
+  collocate: 313491
+  collotype: 296967
+  collusive: 111427
+not_scored_words:
+- collateralize
+- collative
+- collectivize
+- colligate
+- collimate
+- collogue

@@ -1,0 +1,29 @@
+---
+pattern: c_nk
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 828510
+score_per_word: 69042
+hi_scored_words:
+  chink: 52819
+  chipmunk: 44888
+  chunk: 16608
+  clank: 48838
+  clink: 49485
+  clunk: 87263
+  crank: 14059
+  cyberpunk: 35541
+scored_words:
+  conk: 115471
+  countersink: 140350
+  countersunk: 116604
+  cronk: 106584
+not_scored_words:
+- Chink
+- Citibank
+- Clydebank
+- Cruikshank
+- chewink
+- claybank
+- clonk

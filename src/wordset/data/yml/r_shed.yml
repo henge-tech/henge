@@ -1,0 +1,24 @@
+---
+pattern: r_shed
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 14
+score: 1072876
+score_per_word: 82528
+hi_scored_words:
+  ravished: 54893
+  reestablished: 66672
+  refinished: 96677
+  refreshed: 21940
+  refurbished: 9972
+  relinquished: 41581
+  relished: 67900
+  replenished: 54628
+  republished: 33896
+  rushed: 8036
+scored_words:
+  refurnished: 248553
+  rehashed: 124491
+  rubbished: 243637
+not_scored_words:
+- rewashed

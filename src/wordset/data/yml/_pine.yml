@@ -1,0 +1,35 @@
+---
+pattern: _pine
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 25
+score: 1272342
+score_per_word: 79521
+hi_scored_words:
+  alpine: 9895
+  atropine: 42401
+  cisalpine: 65490
+  lupine: 54861
+  opine: 79090
+  pine: 3861
+  porcupine: 28490
+  reserpine: 93282
+  spine: 8582
+  subalpine: 88068
+  supine: 56324
+  transalpine: 94146
+scored_words:
+  pilocarpine: 114094
+  rapine: 164504
+  repine: 182400
+  vulpine: 186854
+not_scored_words:
+- Alpine
+- Philippine
+- Proserpine
+- chopine
+- orpine
+- resupine
+- tropine
+- vespine
+- whitepine

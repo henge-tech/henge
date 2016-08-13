@@ -1,0 +1,24 @@
+---
+pattern: feed_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 749434
+score_per_word: 62452
+hi_scored_words:
+  feed: 1560
+  feedback: 5488
+  feeder: 18321
+  feeders: 26533
+  feeding: 4196
+  feedings: 64085
+  feedlot: 80100
+  feeds: 4672
+  feedstock: 57680
+scored_words:
+  feedlots: 110609
+  feedstuff: 227620
+  feedstuffs: 148570
+not_scored_words:
+- feedbag
+- feedbags

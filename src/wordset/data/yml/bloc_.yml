@@ -1,0 +1,40 @@
+---
+pattern: bloc_
+hi_scored_words_count: 18
+scored_words_count: 3
+total_words: 30
+score: 1201847
+score_per_word: 57230
+hi_scored_words:
+  bloc: 19440
+  block: 2038
+  blockade: 17768
+  blockaded: 99032
+  blockades: 79295
+  blockage: 34812
+  blockages: 66907
+  blockbuster: 21167
+  blockbusters: 52771
+  blocked: 6782
+  blocker: 16244
+  blockers: 21624
+  blockhead: 49419
+  blockhouse: 80605
+  blocking: 9845
+  blocks: 3611
+  blocky: 79621
+  blocs: 57056
+scored_words:
+  blockading: 116586
+  blockbusting: 248051
+  blockheads: 119173
+not_scored_words:
+- Bloch
+- Blockbuster
+- blockader
+- blockaders
+- blockhouses
+- blockier
+- blockiest
+- blockings
+- blockish

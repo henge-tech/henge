@@ -1,0 +1,42 @@
+---
+pattern: go_t
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 32
+score: 1471353
+score_per_word: 86550
+hi_scored_words:
+  goat: 9973
+  goblet: 17698
+  godwit: 91977
+  goodnight: 23864
+  gosport: 51733
+  got: 216
+  gourmet: 10539
+  gout: 22275
+  government: 263
+  govt: 9727
+scored_words:
+  goalpost: 185120
+  goddammit: 107767
+  godparent: 148442
+  goldcrest: 134312
+  goodliest: 243154
+  goosefoot: 190536
+  gorget: 223757
+not_scored_words:
+- Godot
+- Goldschmidt
+- Goncourt
+- Gourmont
+- Government
+- Govt
+- gobbet
+- godliest
+- goglet
+- goldenest
+- goofiest
+- gooiest
+- goosiest
+- goriest
+- goutiest

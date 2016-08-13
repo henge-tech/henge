@@ -1,0 +1,32 @@
+---
+pattern: or_ic
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 22
+score: 1391942
+score_per_word: 99424
+hi_scored_words:
+  organic: 3526
+  organometallic: 68585
+  orgasmic: 49046
+  orthodontic: 41974
+  orthographic: 54977
+  orthopedic: 23805
+  orthorhombic: 91535
+  orthotic: 86547
+scored_words:
+  organismic: 145476
+  orgiastic: 135324
+  orogenic: 137775
+  orographic: 159693
+  orthochromatic: 147923
+  orthotropic: 245756
+not_scored_words:
+- Orphic
+- orectic
+- ornithic
+- ornithologic
+- orthocephalic
+- orthogenetic
+- orthogenic
+- orthoptic

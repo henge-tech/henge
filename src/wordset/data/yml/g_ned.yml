@@ -1,0 +1,29 @@
+---
+pattern: g_ned
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 19
+score: 1584831
+score_per_word: 105655
+hi_scored_words:
+  gained: 3407
+  gleaned: 37630
+  glistened: 88617
+  goddamned: 55557
+  governed: 6597
+  grained: 31344
+  grinned: 25474
+  groaned: 31837
+  gunned: 49367
+scored_words:
+  gardened: 269824
+  garrisoned: 116874
+  ginned: 275304
+  gladdened: 173897
+  gowned: 219685
+  guillotined: 199417
+not_scored_words:
+- gangrened
+- genned
+- goldarned
+- greened

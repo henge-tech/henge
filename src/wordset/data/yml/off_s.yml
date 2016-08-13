@@ -1,0 +1,43 @@
+---
+pattern: off_s
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 33
+score: 2443522
+score_per_word: 106240
+hi_scored_words:
+  offenders: 9359
+  offends: 43587
+  offenses: 14669
+  offerings: 6538
+  offers: 1285
+  officeholders: 89258
+  officers: 1489
+  offices: 2329
+  officials: 2503
+  officious: 83918
+  offs: 12261
+  offsets: 29153
+  offshoots: 96530
+  offsides: 81881
+scored_words:
+  offbeats: 301644
+  offcuts: 307362
+  offensiveness: 183832
+  offensives: 103530
+  officiants: 117917
+  officiates: 295931
+  officiousness: 223116
+  offloads: 208810
+  offprints: 226620
+not_scored_words:
+- Offertories
+- offenseless
+- offertories
+- offhandedness
+- officialeses
+- officiations
+- officiators
+- offings
+- offishness
+- offstages

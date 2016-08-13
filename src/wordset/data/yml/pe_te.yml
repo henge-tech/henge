@@ -1,0 +1,49 @@
+---
+pattern: pe_te
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 39
+score: 2442640
+score_per_word: 111029
+hi_scored_words:
+  penetrate: 12888
+  penultimate: 43394
+  perchlorate: 60192
+  percolate: 90109
+  perlite: 96761
+  permanganate: 75040
+  permeate: 48773
+  perpetrate: 78121
+  perpetuate: 25929
+  persecute: 43152
+  petite: 10161
+  peyote: 52072
+scored_words:
+  pegmatite: 112060
+  perambulate: 157276
+  perforate: 112105
+  peridotite: 165006
+  periodate: 269836
+  permute: 130770
+  perquisite: 171775
+  personate: 190402
+  petabyte: 193821
+  petiolate: 302997
+not_scored_words:
+- Pete
+- pectinate
+- peculate
+- pedate
+- pelite
+- peltate
+- penicillate
+- pennate
+- penninite
+- pentathlete
+- pentlandite
+- pepsinate
+- peregrinate
+- perennate
+- perfoliate
+- perorate
+- perseverate

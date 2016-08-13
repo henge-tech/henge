@@ -1,0 +1,38 @@
+---
+pattern: sh_l
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 28
+score: 1028286
+score_per_word: 57127
+hi_scored_words:
+  shall: 238
+  shameful: 18451
+  shawl: 17971
+  she'll: 6000
+  shekel: 41684
+  shell: 2824
+  shill: 53751
+  shoal: 30924
+  shortfall: 23028
+  shovel: 18096
+  showgirl: 72767
+  shrapnel: 35311
+  shrill: 29253
+  shrivel: 87020
+  shul: 72798
+scored_words:
+  sheqel: 127865
+  shirttail: 275291
+  shool: 115014
+not_scored_words:
+- Shadwell
+- Shawwal
+- Shell
+- Sheol
+- Sherrill
+- Sheryl
+- sheathbill
+- shoebill
+- shovelful
+- shrieval

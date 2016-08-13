@@ -1,0 +1,35 @@
+---
+pattern: _gie
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 25
+score: 1009571
+score_per_word: 72112
+hi_scored_words:
+  aggie: 30141
+  baggie: 97437
+  biggie: 34978
+  bogie: 52528
+  boogie: 14121
+  budgie: 55661
+  doggie: 30005
+  gie: 64765
+  veggie: 21715
+  wedgie: 65458
+scored_words:
+  bougie: 120880
+  druggie: 127853
+  hoagie: 109915
+  stogie: 184114
+not_scored_words:
+- Aggie
+- Angie
+- Baggie
+- Carnegie
+- Craigie
+- Maggie
+- Margie
+- Reggie
+- Virgie
+- bodgie
+- dogie

@@ -1,0 +1,29 @@
+---
+pattern: r_ue
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 836414
+score_per_word: 59743
+hi_scored_words:
+  reissue: 21499
+  remarque: 92666
+  rescue: 3283
+  residue: 12158
+  retinue: 63770
+  revenue: 2588
+  revue: 20255
+  risque: 39919
+  rogue: 11845
+  roque: 49778
+  rue: 8861
+scored_words:
+  radiopaque: 212473
+  revalue: 166319
+  roue: 131000
+not_scored_words:
+- Rasalhague
+- Remarque
+- Romanesque
+- Rubenesque
+- relique

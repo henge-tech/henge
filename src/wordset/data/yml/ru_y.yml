@@ -1,0 +1,49 @@
+---
+pattern: ru_y
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 39
+score: 1419153
+score_per_word: 78841
+hi_scored_words:
+  rubbery: 60099
+  ruby: 6257
+  ruddy: 31633
+  rudely: 35038
+  rudimentary: 26085
+  ruefully: 89768
+  rugby: 9530
+  rummy: 40523
+  runaway: 14157
+  runny: 38170
+  runway: 18744
+  rusty: 17401
+  ruthlessly: 50687
+scored_words:
+  ruffianly: 270466
+  ruggedly: 141681
+  rumbly: 284431
+  rusticity: 154309
+  rutty: 130174
+not_scored_words:
+- Ruby
+- Rudy
+- Rugby
+- Rusty
+- rubbishy
+- rubbly
+- rubicundity
+- ruddily
+- ruffly
+- rugosity
+- ruinously
+- rumbustiously
+- ruminantly
+- ruminatively
+- rumply
+- runty
+- rurally
+- rushy
+- russety
+- rustically
+- rustily

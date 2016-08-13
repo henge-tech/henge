@@ -1,0 +1,37 @@
+---
+pattern: w_ring
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 27
+score: 1529105
+score_per_word: 63712
+hi_scored_words:
+  wagering: 35765
+  wandering: 8841
+  waring: 34151
+  warring: 30634
+  watering: 14822
+  wavering: 50391
+  wearing: 3009
+  weathering: 35280
+  wellspring: 63130
+  whimpering: 67910
+  whirring: 65044
+  whispering: 17995
+  whoring: 64152
+  wintering: 50471
+  wiring: 17943
+  withering: 41907
+  wondering: 3647
+  wring: 44072
+scored_words:
+  wallpapering: 143302
+  warmongering: 130266
+  wayfaring: 119419
+  weltering: 163011
+  westering: 188469
+  wittering: 135474
+not_scored_words:
+- Waring
+- whickering
+- woolgathering

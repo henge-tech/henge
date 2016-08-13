@@ -1,0 +1,28 @@
+---
+pattern: p_hers
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1174641
+score_per_word: 83902
+hi_scored_words:
+  panthers: 16552
+  philosophers: 10667
+  photographers: 15769
+  pitchers: 21255
+  poachers: 55555
+  pornographers: 69841
+  preachers: 21610
+  publishers: 4006
+  pushers: 62313
+scored_words:
+  perishers: 305096
+  phishers: 149069
+  pinchers: 143888
+  polishers: 101485
+  punchers: 197535
+not_scored_words:
+- paleographers
+- paragraphers
+- pinfeathers
+- pothers

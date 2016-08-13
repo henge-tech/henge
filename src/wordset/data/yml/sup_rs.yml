@@ -1,0 +1,26 @@
+---
+pattern: sup_rs
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 16
+score: 739374
+score_per_word: 56874
+hi_scored_words:
+  superchargers: 94807
+  supercomputers: 58085
+  superconductors: 51025
+  superiors: 27743
+  superpowers: 47741
+  supers: 67813
+  superstars: 23892
+  supervisors: 18192
+  suppers: 66992
+  suppliers: 3752
+  supporters: 5929
+  suppressors: 55704
+scored_words:
+  superusers: 217699
+not_scored_words:
+- superorders
+- supertankers
+- supplanters

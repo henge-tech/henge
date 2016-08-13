@@ -1,0 +1,52 @@
+---
+pattern: marg_
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 42
+score: 1819679
+score_per_word: 82712
+hi_scored_words:
+  marg: 38312
+  margarine: 27554
+  margarita: 19679
+  margaritas: 50213
+  marge: 26437
+  margin: 4936
+  marginal: 10803
+  marginalization: 63410
+  marginalize: 95816
+  marginalized: 32221
+  marginally: 26786
+  margins: 11504
+  margrave: 83817
+  marguerite: 22065
+scored_words:
+  margarite: 203355
+  margay: 207926
+  marginalia: 106929
+  marginality: 117008
+  marginalizes: 270747
+  marginalizing: 150171
+  marginals: 115658
+  margravine: 134332
+not_scored_words:
+- Margaret
+- Margarita
+- Margarito
+- Margate
+- Margaux
+- Marge
+- Margery
+- Margherita
+- Margie
+- Margo
+- Margot
+- Margret
+- Margrethe
+- Marguerite
+- margays
+- margent
+- marges
+- marginate
+- margraves
+- marguerites

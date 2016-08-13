@@ -1,0 +1,22 @@
+---
+pattern: s_gle
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 876375
+score_per_word: 79670
+hi_scored_words:
+  shingle: 27125
+  single: 359
+  smuggle: 44526
+  snuggle: 34586
+  spangle: 85736
+  squiggle: 90286
+  strangle: 37794
+  struggle: 3438
+scored_words:
+  straggle: 241432
+  surcingle: 177476
+  swingle: 133617
+not_scored_words:
+- sniggle

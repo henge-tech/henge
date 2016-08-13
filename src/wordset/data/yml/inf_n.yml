@@ -1,0 +1,28 @@
+---
+pattern: inf_n
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 18
+score: 739072
+score_per_word: 49271
+hi_scored_words:
+  infantryman: 81554
+  infarction: 21274
+  infatuation: 37586
+  infection: 5287
+  infestation: 30725
+  infiltration: 26497
+  inflammation: 11227
+  inflation: 7924
+  inflection: 36953
+  infliction: 60852
+  information: 172
+  infraction: 35039
+  infusion: 15194
+scored_words:
+  infantrymen: 112477
+  infin: 256311
+not_scored_words:
+- infeudation
+- infralapsarian
+- infusorian

@@ -1,0 +1,33 @@
+---
+pattern: s_uts
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 23
+score: 1023874
+score_per_word: 63992
+hi_scored_words:
+  scouts: 9716
+  shortcuts: 10686
+  shouts: 11788
+  shutouts: 63473
+  shuts: 21737
+  sluts: 8565
+  smuts: 88082
+  spouts: 63373
+  sprouts: 28624
+  standouts: 87122
+  strikeouts: 42561
+  struts: 24691
+scored_words:
+  sellouts: 170587
+  shootouts: 100141
+  snouts: 150157
+  stouts: 142571
+not_scored_words:
+- Smuts
+- sackbuts
+- scuts
+- shakeouts
+- sickouts
+- sinciputs
+- stakeouts

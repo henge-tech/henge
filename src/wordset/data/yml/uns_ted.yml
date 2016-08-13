@@ -1,0 +1,30 @@
+---
+pattern: uns_ted
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 20
+score: 1261609
+score_per_word: 78850
+hi_scored_words:
+  unsalted: 61854
+  unsaturated: 33287
+  unscented: 64221
+  unscripted: 78738
+  unselected: 85716
+  unsolicited: 13934
+  unsophisticated: 62700
+  unsorted: 63319
+  unstated: 87632
+  unsubstantiated: 46572
+  unsuited: 73024
+  unsupported: 22099
+  unsuspected: 70502
+scored_words:
+  unseated: 140888
+  unspotted: 197699
+  unstimulated: 159424
+not_scored_words:
+- unsegmented
+- unsegregated
+- unsifted
+- unsighted

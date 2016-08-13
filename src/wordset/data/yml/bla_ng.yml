@@ -1,0 +1,37 @@
+---
+pattern: bla_ng
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 27
+score: 1811669
+score_per_word: 100648
+hi_scored_words:
+  blacklisting: 96425
+  blackmailing: 91015
+  blacksmithing: 58082
+  blading: 94831
+  blaming: 19421
+  blanking: 56123
+  blaring: 53158
+  blasting: 20561
+  blazing: 13913
+scored_words:
+  blabbering: 190724
+  blabbing: 153713
+  blackening: 112108
+  blacking: 102931
+  blanching: 130509
+  blanketing: 132695
+  blaspheming: 162291
+  blathering: 113706
+  blazoning: 209463
+not_scored_words:
+- blackballing
+- blackberrying
+- blackjacking
+- blacklegging
+- blacktopping
+- blagging
+- blandishing
+- blarneying
+- blatting

@@ -1,0 +1,34 @@
+---
+pattern: alo_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 24
+score: 962744
+score_per_word: 68767
+hi_scored_words:
+  aloe: 26208
+  aloft: 25347
+  aloha: 20045
+  alone: 884
+  along: 442
+  alongside: 6422
+  aloof: 32949
+  alopecia: 44280
+  aloud: 7275
+scored_words:
+  aloes: 102764
+  aloneness: 124891
+  alongshore: 281094
+  aloofness: 101501
+  alow: 188642
+not_scored_words:
+- Alonzo
+- Alost
+- Aloysius
+- alodium
+- aloeswood
+- alohas
+- aloin
+- alonenesses
+- aloofly
+- alopecias

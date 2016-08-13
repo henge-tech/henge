@@ -1,0 +1,25 @@
+---
+pattern: in_red
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 15
+score: 582737
+score_per_word: 44825
+hi_scored_words:
+  inbred: 29461
+  incurred: 15695
+  indentured: 66298
+  inferred: 15174
+  infrared: 12422
+  injured: 4206
+  inquired: 15111
+  inspired: 3340
+  insured: 13690
+  interfered: 30946
+  interred: 38148
+scored_words:
+  interbred: 218624
+  inured: 119622
+not_scored_words:
+- ingathered
+- inhered

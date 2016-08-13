@@ -1,0 +1,25 @@
+---
+pattern: budg_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 960406
+score_per_word: 80033
+hi_scored_words:
+  budge: 30514
+  budget: 3761
+  budgetary: 16627
+  budgeted: 26290
+  budgeting: 14189
+  budgets: 17144
+  budgie: 55661
+  budgies: 96170
+scored_words:
+  budged: 151603
+  budgerigar: 135101
+  budgerigars: 220697
+  budging: 192649
+not_scored_words:
+- Budge
+- Budget
+- budges

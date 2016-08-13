@@ -1,0 +1,30 @@
+---
+pattern: fa_ts
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 20
+score: 611961
+score_per_word: 50996
+hi_scored_words:
+  facets: 23680
+  facts: 1424
+  faggots: 59746
+  faints: 96770
+  farts: 37277
+  fascists: 39352
+  fasts: 66897
+  fats: 16596
+  faucets: 29435
+  faults: 8174
+scored_words:
+  facelifts: 119071
+  fagots: 113539
+not_scored_words:
+- fabulists
+- faddists
+- fadeouts
+- fanlights
+- fantasists
+- fantasts
+- fatalists
+- fauvists

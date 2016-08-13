@@ -1,0 +1,41 @@
+---
+pattern: j_ts
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 31
+score: 1827386
+score_per_word: 91369
+hi_scored_words:
+  jackets: 8606
+  jackpots: 54778
+  jets: 9853
+  jihadists: 68844
+  joints: 8708
+  joists: 56923
+  jolts: 91936
+  journalists: 7662
+  judgments: 10506
+  jurists: 50796
+  juts: 94726
+scored_words:
+  jackboots: 260118
+  jackrabbits: 148992
+  jaunts: 102437
+  jests: 100508
+  jots: 113665
+  jousts: 228131
+  juggernauts: 173542
+  jumpsuits: 106956
+  junkets: 129699
+not_scored_words:
+- Jesuits
+- Juggernauts
+- jabots
+- jackfruits
+- jacklights
+- jacksmelts
+- jennets
+- jetports
+- jiggermasts
+- jilts
+- jingoists

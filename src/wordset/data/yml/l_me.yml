@@ -1,0 +1,31 @@
+---
+pattern: l_me
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 21
+score: 834908
+score_per_word: 64223
+hi_scored_words:
+  lame: 8366
+  legume: 45225
+  lemme: 33625
+  lifetime: 4180
+  lime: 7238
+  loathsome: 42703
+  lonesome: 18966
+  longtime: 16690
+  lunchtime: 23908
+  lysozyme: 65394
+scored_words:
+  lexeme: 178406
+  lightsome: 178970
+  lissome: 211237
+not_scored_words:
+- Leverhulme
+- Lome
+- Lyme
+- leptosome
+- lithesome
+- longsome
+- lovesome
+- loxodrome

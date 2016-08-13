@@ -1,0 +1,46 @@
+---
+pattern: h_id
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 36
+score: 1785471
+score_per_word: 105027
+hi_scored_words:
+  handmaid: 58788
+  haploid: 73439
+  hemorrhoid: 87530
+  hid: 9054
+  hominid: 57790
+  horrid: 21691
+  housemaid: 82033
+  humanoid: 38738
+  humid: 19167
+  hybrid: 8677
+scored_words:
+  hominoid: 305170
+  hydatid: 136617
+  hydroid: 240828
+  hyoid: 131720
+  hyperboloid: 267880
+  hyperthyroid: 140156
+  hypothyroid: 106193
+not_scored_words:
+- Hasid
+- Hassid
+- Heraclid
+- haloid
+- helicoid
+- hematoid
+- hemispheroid
+- hemoid
+- hispid
+- histoid
+- hyaloid
+- hydracid
+- hydrocephaloid
+- hyperacid
+- hyperploid
+- hypocycloid
+- hypoploid
+- hyracoid
+- hysteroid

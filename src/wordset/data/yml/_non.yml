@@ -1,0 +1,54 @@
+---
+pattern: _non
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 44
+score: 2234608
+score_per_word: 111730
+hi_scored_words:
+  anon: 12225
+  cannon: 6011
+  canon: 3970
+  fanon: 91565
+  mignon: 42018
+  non: 787
+  organon: 86198
+  phenomenon: 5903
+  phonon: 52237
+  pinon: 85957
+  tenon: 59291
+  xenon: 25197
+scored_words:
+  champignon: 249034
+  chignon: 134059
+  epiphenomenon: 297799
+  guenon: 302714
+  ninon: 227216
+  noumenon: 103976
+  olecranon: 256330
+  pennon: 192121
+not_scored_words:
+- Agamemnon
+- Algernon
+- Avignon
+- Cannon
+- Canon
+- Dungannon
+- Lebanon
+- Lennon
+- Maintenon
+- Maranon
+- Memnon
+- Paralipomenon
+- Parthenon
+- Rhiannon
+- Shannon
+- Simenon
+- Vernon
+- actinon
+- chronon
+- gonfanon
+- lorgnon
+- paregmenon
+- prolegomenon
+- turnon

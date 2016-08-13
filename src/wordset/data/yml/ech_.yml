@@ -1,0 +1,38 @@
+---
+pattern: ech_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 28
+score: 1040142
+score_per_word: 74295
+hi_scored_words:
+  echelon: 27025
+  echelons: 69049
+  echidna: 74522
+  echinacea: 47789
+  echo: 4047
+  echoed: 16317
+  echoes: 14270
+  echoing: 23441
+  echos: 70258
+  echt: 64733
+scored_words:
+  echinoderm: 127057
+  echinoderms: 110881
+  echolocation: 119866
+  echovirus: 270887
+not_scored_words:
+- Echo
+- echeloning
+- echidnas
+- echinate
+- echinoid
+- echinus
+- echoer
+- echogram
+- echoic
+- echoism
+- echolalia
+- echolocate
+- echopraxia
+- echoviruses

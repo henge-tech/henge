@@ -1,0 +1,39 @@
+---
+pattern: acc_d
+hi_scored_words_count: 22
+scored_words_count: 5
+total_words: 29
+score: 1442472
+score_per_word: 53424
+hi_scored_words:
+  acceded: 49160
+  accelerated: 11927
+  accented: 26621
+  accentuated: 41942
+  accepted: 1194
+  accessed: 6122
+  acclaimed: 17427
+  acclimated: 70978
+  accommodated: 17439
+  accompanied: 3809
+  accomplished: 4063
+  accord: 6815
+  accorded: 19964
+  accosted: 56717
+  accounted: 7908
+  accoutred: 99153
+  accredited: 9341
+  accrued: 20340
+  accumulated: 8525
+  accursed: 47069
+  accused: 4060
+  accustomed: 10442
+scored_words:
+  accessioned: 213919
+  accessorized: 213004
+  acclimatized: 160297
+  accreted: 108758
+  acculturated: 205478
+not_scored_words:
+- Accad
+- accoutered

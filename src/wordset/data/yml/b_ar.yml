@@ -1,0 +1,46 @@
+---
+pattern: b_ar
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 36
+score: 1551876
+score_per_word: 70539
+hi_scored_words:
+  bar: 1247
+  basilar: 81705
+  bazaar: 16827
+  bazar: 44446
+  bear: 1307
+  beggar: 22837
+  bilinear: 65967
+  binocular: 26970
+  bipolar: 12309
+  boar: 19439
+  bolivar: 26237
+  boxcar: 47845
+  briar: 33329
+  bugbear: 72093
+  burglar: 20222
+  bursar: 53193
+scored_words:
+  beachwear: 102685
+  bezoar: 272410
+  bimolecular: 200426
+  boyar: 152319
+  budgerigar: 135101
+  bulbar: 142962
+not_scored_words:
+- BAR
+- Balthazar
+- Belshazzar
+- Berar
+- Bihar
+- Bolivar
+- Breakspear
+- Bulgar
+- bacillar
+- besmear
+- bicapsular
+- bifilar
+- bilocular
+- blear

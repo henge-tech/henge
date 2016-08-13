@@ -1,0 +1,23 @@
+---
+pattern: i_sed
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 13
+score: 466487
+score_per_word: 38873
+hi_scored_words:
+  immersed: 22055
+  immunocompromised: 76498
+  imposed: 4252
+  impressed: 4697
+  improvised: 26624
+  incensed: 53586
+  incised: 59392
+  increased: 1150
+  infused: 25138
+  interposed: 44810
+  interspersed: 27168
+scored_words:
+  indisposed: 121117
+not_scored_words:
+- impulsed

@@ -1,0 +1,25 @@
+---
+pattern: week_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 15
+score: 735756
+score_per_word: 56596
+hi_scored_words:
+  week: 334
+  weekday: 19154
+  weekdays: 19290
+  weekend: 5205
+  weekender: 39839
+  weekends: 5028
+  weeklies: 61824
+  weekly: 2807
+  weeknight: 81331
+  weeknights: 88585
+  weeks: 751
+scored_words:
+  weekenders: 144237
+  weekending: 267371
+not_scored_words:
+- Weeks
+- weekended

@@ -1,0 +1,29 @@
+---
+pattern: du_ing
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 19
+score: 983661
+score_per_word: 65577
+hi_scored_words:
+  dubbing: 40902
+  ducking: 43404
+  duckling: 47900
+  ducting: 65103
+  dueling: 40848
+  dumping: 20766
+  dumpling: 55702
+  dunking: 67499
+  dunning: 44811
+  duplicating: 34081
+  during: 208
+  dusting: 30767
+scored_words:
+  dulling: 132630
+  dumbfounding: 214410
+  duping: 144630
+not_scored_words:
+- duding
+- duffing
+- dulcifying
+- dunging

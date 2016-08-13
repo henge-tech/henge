@@ -1,0 +1,30 @@
+---
+pattern: l_der
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 20
+score: 563765
+score_per_word: 43366
+hi_scored_words:
+  ladder: 6152
+  lander: 25313
+  larder: 45124
+  lauder: 30652
+  launder: 59516
+  lavender: 11387
+  leader: 1533
+  lender: 15269
+  lieder: 44332
+  loader: 17106
+  louder: 12452
+scored_words:
+  landholder: 140302
+  leaseholder: 154627
+not_scored_words:
+- Laplander
+- Lauder
+- Leander
+- Lysander
+- lewder
+- lipreader
+- lowlander

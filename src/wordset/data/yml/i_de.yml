@@ -1,0 +1,37 @@
+---
+pattern: i_de
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 27
+score: 1587084
+score_per_word: 79354
+hi_scored_words:
+  impede: 23143
+  implode: 54887
+  include: 974
+  ineptitude: 69366
+  infanticide: 56197
+  ingleside: 76320
+  ingratitude: 59995
+  insecticide: 30495
+  inside: 857
+  intercede: 55400
+  interlude: 25412
+  internode: 92258
+  intrude: 37198
+  invade: 14447
+  iodide: 37897
+scored_words:
+  imide: 195948
+  incertitude: 218057
+  incommode: 229187
+  infinitude: 165986
+  inquietude: 143060
+not_scored_words:
+- IDE
+- Isolde
+- inaptitude
+- inexactitude
+- intergrade
+- irade
+- isocyanide

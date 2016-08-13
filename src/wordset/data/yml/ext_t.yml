@@ -1,0 +1,21 @@
+---
+pattern: ext_t
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 537844
+score_per_word: 53784
+hi_scored_words:
+  extant: 21465
+  extent: 1733
+  extinct: 15550
+  extort: 57642
+  extract: 4952
+  extravagant: 20513
+  extremist: 23066
+  extrovert: 88664
+scored_words:
+  extortionist: 195906
+  extremest: 108353
+not_scored_words:
+- extolment

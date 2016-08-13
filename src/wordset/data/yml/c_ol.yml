@@ -1,0 +1,34 @@
+---
+pattern: c_ol
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 24
+score: 984724
+score_per_word: 65648
+hi_scored_words:
+  capitol: 8826
+  carol: 7894
+  carpool: 40813
+  catechol: 92064
+  cesspool: 60560
+  chloramphenicol: 55604
+  cholesterol: 11596
+  col: 5454
+  consol: 74682
+  control: 538
+  cool: 1061
+  cortisol: 32246
+scored_words:
+  calciferol: 312817
+  cholecalciferol: 176247
+  cresol: 104322
+not_scored_words:
+- COBOL
+- COL
+- Capitol
+- Carol
+- Clairol
+- Cobol
+- Col
+- campstool
+- creosol

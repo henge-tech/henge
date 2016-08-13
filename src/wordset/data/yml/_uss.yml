@@ -1,0 +1,35 @@
+---
+pattern: _uss
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 25
+score: 1096459
+score_per_word: 78318
+hi_scored_words:
+  buss: 32717
+  cuss: 35573
+  discuss: 2132
+  fuss: 13351
+  gauss: 29977
+  muss: 35212
+  puss: 29228
+  suss: 72347
+  truss: 22321
+  wuss: 60009
+scored_words:
+  blunderbuss: 122876
+  degauss: 207221
+  schuss: 313389
+  sourpuss: 120106
+not_scored_words:
+- Anschluss
+- Dollfuss
+- Gauss
+- Huss
+- Russ
+- Seuss
+- Strauss
+- USS
+- concuss
+- percuss
+- succuss

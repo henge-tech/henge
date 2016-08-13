@@ -1,0 +1,31 @@
+---
+pattern: her_y
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 21
+score: 773886
+score_per_word: 70353
+hi_scored_words:
+  heraldry: 33116
+  herby: 96309
+  hereby: 7395
+  hereditary: 14195
+  heredity: 29034
+  heresy: 20209
+  heritability: 66657
+  hermetically: 71736
+  heroically: 79538
+  herpetology: 80098
+scored_words:
+  hereditarily: 275599
+not_scored_words:
+- Hersey
+- Hershey
+- heraldically
+- herbivorously
+- heretically
+- heritably
+- hermeneutically
+- herniorrhaphy
+- herniotomy
+- heronry

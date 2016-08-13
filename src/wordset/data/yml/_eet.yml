@@ -1,0 +1,57 @@
+---
+pattern: _eet
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 47
+score: 2019166
+score_per_word: 72113
+hi_scored_words:
+  backstreet: 19149
+  beet: 26305
+  bittersweet: 27068
+  broadsheet: 63946
+  discreet: 15821
+  feet: 685
+  fleet: 3391
+  greet: 11346
+  indiscreet: 70095
+  leet: 60750
+  meet: 450
+  parakeet: 49582
+  sheet: 2090
+  skeet: 42079
+  sleet: 36457
+  spreadsheet: 12353
+  street: 420
+  sweet: 1214
+  tweet: 45733
+  worksheet: 17123
+scored_words:
+  flysheet: 241141
+  forefeet: 154439
+  gleet: 165803
+  groundsheet: 265367
+  lorikeet: 102710
+  mainsheet: 246745
+  meadowsweet: 157653
+  semisweet: 179251
+not_scored_words:
+- Blackfeet
+- Bradstreet
+- Longstreet
+- Maliseet
+- NutraSweet
+- Sweet
+- afreet
+- bystreet
+- clubfeet
+- crowfeet
+- dustsheet
+- flatfeet
+- foresheet
+- oversweet
+- retweet
+- slipsheet
+- splayfeet
+- unmeet
+- webfeet

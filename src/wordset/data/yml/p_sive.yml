@@ -1,0 +1,26 @@
+---
+pattern: p_sive
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 763088
+score_per_word: 63590
+hi_scored_words:
+  passive: 6080
+  pensive: 40036
+  percussive: 52505
+  permissive: 37967
+  persuasive: 15991
+  pervasive: 21554
+  possessive: 36017
+  progressive: 6542
+  purposive: 72551
+scored_words:
+  plosive: 130601
+  preclusive: 238688
+  propulsive: 104556
+not_scored_words:
+- plausive
+- prelusive
+- profusive
+- protrusive

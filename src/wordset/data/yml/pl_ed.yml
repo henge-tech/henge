@@ -1,0 +1,56 @@
+---
+pattern: pl_ed
+hi_scored_words_count: 25
+scored_words_count: 13
+total_words: 46
+score: 3280301
+score_per_word: 86323
+hi_scored_words:
+  placed: 1188
+  plagiarized: 80681
+  plagued: 23348
+  plaited: 84864
+  planed: 59763
+  planned: 2793
+  planted: 6566
+  plastered: 32849
+  plated: 14496
+  platted: 76860
+  played: 1226
+  pleaded: 13832
+  pleased: 2495
+  pleated: 36398
+  pledged: 12362
+  plied: 49483
+  plopped: 92227
+  plotted: 18026
+  plowed: 46093
+  plucked: 26508
+  plugged: 20721
+  plumbed: 86104
+  plummeted: 51663
+  plundered: 48139
+  plunged: 17953
+scored_words:
+  placarded: 243838
+  placated: 189682
+  planked: 125588
+  plasticized: 229641
+  plateaued: 192577
+  pleasured: 167492
+  plighted: 216937
+  plodded: 140522
+  plonked: 224909
+  plumaged: 261996
+  plumed: 100485
+  plumped: 130511
+  plunked: 149485
+not_scored_words:
+- placekicked
+- plaided
+- plashed
+- platformed
+- platooned
+- playacted
+- pleached
+- pluralized

@@ -1,0 +1,46 @@
+---
+pattern: ner_
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 36
+score: 2085388
+score_per_word: 122669
+hi_scored_words:
+  nerd: 18780
+  nerds: 23467
+  nerdy: 35377
+  nerve: 5207
+  nerves: 8191
+  nervous: 3775
+  nervously: 30325
+  nervousness: 30512
+scored_words:
+  neral: 289682
+  nerdier: 181651
+  nereid: 178048
+  neritic: 308271
+  nerval: 180968
+  nerved: 157805
+  nerveless: 226059
+  nervine: 261957
+  nervy: 145313
+not_scored_words:
+- Nereid
+- Nereids
+- Nereus
+- Nerf
+- Nernst
+- Nero
+- Neronian
+- Neruda
+- Nerva
+- Nerval
+- nerdiest
+- nervelessly
+- nervelessness
+- nerveracking
+- nervier
+- nerviest
+- nervily
+- nerviness
+- nerving

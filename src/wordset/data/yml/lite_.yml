@@ -1,0 +1,37 @@
+---
+pattern: lite_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 27
+score: 780017
+score_per_word: 55715
+hi_scored_words:
+  lite: 12910
+  liter: 15847
+  literacy: 8200
+  literal: 9007
+  literally: 4374
+  literals: 48375
+  literary: 2764
+  literate: 25434
+  literati: 56285
+  literature: 1295
+  liters: 25206
+scored_words:
+  literalism: 154797
+  literalist: 187689
+  literates: 227834
+not_scored_words:
+- literalisms
+- literalistic
+- literality
+- literalize
+- literalized
+- literalizes
+- literalizing
+- literalness
+- literarily
+- literariness
+- literately
+- literatim
+- literator

@@ -1,0 +1,47 @@
+---
+pattern: r_ism
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 37
+score: 1341406
+score_per_word: 83837
+hi_scored_words:
+  racism: 11242
+  radicalism: 52530
+  rationalism: 52603
+  realism: 12476
+  recidivism: 46668
+  reductionism: 84866
+  regionalism: 46990
+  relativism: 40699
+  republicanism: 61464
+  revisionism: 69266
+  rheumatism: 32619
+  romanticism: 29537
+scored_words:
+  racialism: 218432
+  reformism: 173905
+  revivalism: 149754
+  ritualism: 258355
+not_scored_words:
+- Rastafarianism
+- Reconstructionism
+- Republicanism
+- Rightism
+- Romanism
+- Romanticism
+- Rosicrucianism
+- rabbinism
+- rebaptism
+- religionism
+- representationalism
+- resurrectionism
+- revanchism
+- revolutionism
+- rheotropism
+- rhotacism
+- rightism
+- rigorism
+- rowdyism
+- ruffianism
+- ruralism

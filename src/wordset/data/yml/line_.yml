@@ -1,0 +1,43 @@
+---
+pattern: line_
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 33
+score: 1801887
+score_per_word: 66736
+hi_scored_words:
+  line: 210
+  lineage: 12890
+  lineages: 41637
+  lineal: 58345
+  linear: 9242
+  linearity: 34023
+  linearized: 64022
+  linearly: 27213
+  linebacker: 29077
+  linebackers: 63850
+  lined: 6276
+  lineman: 33760
+  linemen: 62732
+  linen: 7201
+  linens: 27582
+  liner: 13358
+  liners: 23429
+  lines: 696
+  linesman: 63490
+  lineup: 10786
+  lineups: 49151
+scored_words:
+  lineament: 181082
+  lineaments: 137262
+  lineation: 276016
+  linebreeding: 314927
+  linefeed: 123091
+  linesmen: 130539
+not_scored_words:
+- Line
+- lineally
+- lineate
+- lineations
+- lineolate
+- linerless

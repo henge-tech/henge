@@ -1,0 +1,28 @@
+---
+pattern: yi_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 600562
+score_per_word: 54596
+hi_scored_words:
+  yield: 3110
+  yielded: 10816
+  yielding: 12345
+  yields: 7646
+  yikes: 27418
+  yin: 24293
+  yip: 33230
+  yippee: 44936
+scored_words:
+  yid: 130782
+  yippie: 106757
+  yips: 199229
+not_scored_words:
+- Yiddish
+- Yingkow
+- yids
+- yieldings
+- yipe
+- yipped
+- yipping

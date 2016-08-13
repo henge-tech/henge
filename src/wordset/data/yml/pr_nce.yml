@@ -1,0 +1,39 @@
+---
+pattern: pr_nce
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 29
+score: 786284
+score_per_word: 43682
+hi_scored_words:
+  prance: 72822
+  precedence: 12771
+  predominance: 38750
+  preeminence: 85418
+  preference: 4531
+  preponderance: 34866
+  prescience: 90919
+  presence: 1443
+  prevalence: 10267
+  prince: 1701
+  prominence: 17174
+  pronounce: 16730
+  provenance: 27241
+  providence: 5399
+  province: 2330
+  prudence: 18550
+scored_words:
+  protuberance: 115874
+  provenience: 229498
+not_scored_words:
+- Prince
+- Provence
+- Providence
+- Prudence
+- preadolescence
+- preannounce
+- precipitance
+- preexistence
+- prepubescence
+- procurance
+- prurience

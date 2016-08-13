@@ -1,0 +1,32 @@
+---
+pattern: s_my
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 22
+score: 830932
+score_per_word: 75539
+hi_scored_words:
+  scummy: 92805
+  shimmy: 51585
+  slimy: 32158
+  smarmy: 82840
+  sodomy: 32418
+  splenectomy: 91052
+  steamy: 36418
+  stormy: 15322
+  synonymy: 63420
+scored_words:
+  seamy: 159066
+  squirmy: 173848
+not_scored_words:
+- Sammy
+- Sumy
+- salpingectomy
+- salpingotomy
+- sclerotomy
+- slummy
+- spumy
+- stereochromy
+- stereotomy
+- streamy
+- syngamy

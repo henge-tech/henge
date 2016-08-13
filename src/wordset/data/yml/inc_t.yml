@@ -1,0 +1,42 @@
+---
+pattern: inc_t
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 32
+score: 898868
+score_per_word: 47308
+hi_scored_words:
+  incandescent: 27078
+  incessant: 28679
+  incest: 12446
+  incident: 3005
+  incipient: 39048
+  incitement: 52090
+  inclement: 40522
+  incoherent: 25567
+  incompetent: 17451
+  inconsistent: 16087
+  incontinent: 65881
+  inconvenient: 25277
+  incorrect: 7971
+  increment: 22474
+  incumbent: 11535
+scored_words:
+  incipit: 132643
+  incongruent: 102135
+  inconsequent: 159026
+  inconstant: 109953
+not_scored_words:
+- incalescent
+- incant
+- incapacitant
+- incept
+- incogitant
+- incognizant
+- incompliant
+- inconsonant
+- incorrupt
+- incrementalist
+- increscent
+- incult
+- incurrent

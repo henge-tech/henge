@@ -1,0 +1,28 @@
+---
+pattern: res_tion
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 18
+score: 641850
+score_per_word: 45846
+hi_scored_words:
+  resection: 28221
+  reservation: 6017
+  resignation: 9274
+  resolution: 1505
+  resorption: 57578
+  respiration: 17694
+  restitution: 19496
+  restoration: 4428
+  restriction: 8118
+  resumption: 31372
+  resurrection: 9062
+  resuscitation: 36609
+scored_words:
+  reselection: 246547
+  resynchronization: 165929
+not_scored_words:
+- Restoration
+- Resurrection
+- resegregation
+- resocialization

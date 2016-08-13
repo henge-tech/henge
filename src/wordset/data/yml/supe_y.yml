@@ -1,0 +1,37 @@
+---
+pattern: supe_y
+hi_scored_words_count: 8
+scored_words_count: 11
+total_words: 27
+score: 2405842
+score_per_word: 126623
+hi_scored_words:
+  superbly: 30558
+  superconductivity: 48073
+  superfamily: 27779
+  superficially: 40336
+  superhighway: 53576
+  superiority: 15164
+  supernumerary: 78805
+  supervisory: 13031
+scored_words:
+  superciliously: 249729
+  supererogatory: 113935
+  superficiality: 117362
+  superfluity: 134167
+  superheavy: 277090
+  superintendency: 134874
+  superiorly: 225706
+  superlatively: 265561
+  supernaturally: 129575
+  superspy: 258011
+  superstitiously: 192510
+not_scored_words:
+- superagency
+- supercity
+- superfluously
+- supergalaxy
+- superhumanly
+- superlunary
+- supernally
+- supersonically

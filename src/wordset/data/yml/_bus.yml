@@ -1,0 +1,42 @@
+---
+pattern: _bus
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 32
+score: 1585736
+score_per_word: 79286
+hi_scored_words:
+  airbus: 21451
+  arquebus: 86353
+  bus: 5638
+  incubus: 24101
+  jacobus: 49094
+  minibus: 38213
+  nimbus: 34584
+  omnibus: 18903
+  rebus: 45826
+  rhombus: 74187
+  succubus: 76193
+  syllabus: 14220
+  thrombus: 65924
+scored_words:
+  autobus: 113749
+  colobus: 126065
+  cumulonimbus: 114049
+  debus: 171505
+  limbus: 174839
+  microbus: 208071
+  trolleybus: 122771
+not_scored_words:
+- Cebus
+- Columbus
+- Cottbus
+- Erebus
+- Phoebus
+- circumbendibus
+- embus
+- harquebus
+- honorificabilitudinitatibus
+- iambus
+- motorbus
+- zebus

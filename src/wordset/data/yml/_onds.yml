@@ -1,0 +1,31 @@
+---
+pattern: _onds
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 21
+score: 994962
+score_per_word: 62185
+hi_scored_words:
+  almonds: 22957
+  blonds: 63257
+  bonds: 3737
+  corresponds: 9171
+  diamonds: 4753
+  fronds: 60792
+  microseconds: 60518
+  milliseconds: 28594
+  nanoseconds: 89099
+  ponds: 12578
+  responds: 13712
+  seconds: 2005
+  vagabonds: 82373
+scored_words:
+  absconds: 153672
+  fishponds: 133984
+  picoseconds: 253760
+not_scored_words:
+- Gonds
+- Symonds
+- femtoseconds
+- keeshonds
+- millponds

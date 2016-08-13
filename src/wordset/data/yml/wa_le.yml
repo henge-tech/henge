@@ -1,0 +1,26 @@
+---
+pattern: wa_le
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 831907
+score_per_word: 75627
+hi_scored_words:
+  waddle: 53870
+  waffle: 21424
+  wale: 42792
+  walkable: 79067
+  warble: 88066
+  washable: 29676
+  watchable: 66040
+  waterhole: 83711
+  wattle: 46680
+scored_words:
+  waggle: 112784
+  wangle: 207797
+not_scored_words:
+- Walpole
+- wadable
+- wamble
+- warrantable
+- warsle

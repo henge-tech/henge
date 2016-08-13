@@ -1,0 +1,27 @@
+---
+pattern: s_ock
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 1013501
+score_per_word: 84458
+hi_scored_words:
+  schlock: 92734
+  shamrock: 25341
+  shock: 2906
+  shuttlecock: 99892
+  shylock: 76900
+  smock: 47078
+  sock: 15256
+  stock: 833
+  sunblock: 58758
+scored_words:
+  shaddock: 320172
+  stopcock: 137124
+  superblock: 136507
+not_scored_words:
+- Sheetrock
+- Sherlock
+- Shylock
+- Spock
+- seacock

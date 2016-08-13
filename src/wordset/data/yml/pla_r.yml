@@ -1,0 +1,34 @@
+---
+pattern: pla_r
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 24
+score: 903369
+score_per_word: 60224
+hi_scored_words:
+  placeholder: 36350
+  placer: 26581
+  plainer: 95015
+  planar: 19120
+  planer: 47966
+  planner: 10997
+  plantar: 45421
+  planter: 21904
+  plaster: 12706
+  plasterer: 91864
+  plater: 96510
+  platter: 18453
+  player: 2374
+scored_words:
+  placekicker: 253239
+  plasticizer: 124869
+not_scored_words:
+- Player
+- placater
+- plagiarizer
+- planimeter
+- planometer
+- plastometer
+- platelayer
+- playgoer
+- playreader

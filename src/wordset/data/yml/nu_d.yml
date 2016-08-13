@@ -1,0 +1,27 @@
+---
+pattern: nu_d
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 834776
+score_per_word: 75888
+hi_scored_words:
+  nuanced: 44320
+  nudged: 63009
+  nuked: 71446
+  nullified: 67848
+  numbed: 85939
+  numbered: 7218
+  nursed: 47747
+  nurtured: 33003
+scored_words:
+  nucleated: 111549
+  nursemaid: 153105
+  nuzzled: 149592
+not_scored_words:
+- nucleolated
+- numerated
+- nunhood
+- nurserymaid
+- nutted
+- nutwood

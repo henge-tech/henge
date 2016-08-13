@@ -1,0 +1,56 @@
+---
+pattern: re_ds
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 46
+score: 1715111
+score_per_word: 68604
+hi_scored_words:
+  reads: 4173
+  rebounds: 13227
+  rebuilds: 61852
+  recommends: 8681
+  records: 1373
+  redbirds: 74582
+  redheads: 31877
+  reds: 14572
+  redwoods: 54516
+  reeds: 21547
+  refunds: 13274
+  regards: 3614
+  reloads: 59893
+  reminds: 7818
+  responds: 13712
+  retards: 53691
+  rewards: 11724
+scored_words:
+  remands: 167759
+  rends: 131296
+  reprimands: 105521
+  rescinds: 177332
+  resounds: 132637
+  retreads: 208815
+  reverends: 222359
+  rewinds: 119266
+not_scored_words:
+- Reds
+- Reynards
+- Reynolds
+- rearguards
+- rearwards
+- reascends
+- rebids
+- rebinds
+- redbuds
+- redounds
+- reedbirds
+- refolds
+- regrinds
+- remolds
+- reprehends
+- rereads
+- rerecords
+- reseeds
+- resinoids
+- reweds
+- rewords

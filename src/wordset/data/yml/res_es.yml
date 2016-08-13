@@ -1,0 +1,54 @@
+---
+pattern: res_es
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 44
+score: 1992262
+score_per_word: 73787
+hi_scored_words:
+  resales: 94243
+  rescues: 34711
+  researches: 23035
+  resemblances: 93214
+  resembles: 14405
+  reserves: 5578
+  residences: 16488
+  residencies: 51829
+  resides: 12764
+  residues: 11772
+  resistances: 56970
+  resolves: 24416
+  resonances: 40377
+  resonates: 50237
+  resources: 1045
+  responses: 5245
+  responsibilities: 4218
+  restores: 27532
+  resumes: 12568
+scored_words:
+  reschedules: 269215
+  reshapes: 185776
+  reshuffles: 177716
+  resizes: 148643
+  restates: 119943
+  restoratives: 272853
+  restructures: 125803
+  resurfaces: 111666
+not_scored_words:
+- rescales
+- resettles
+- reshes
+- resinates
+- resoles
+- respires
+- respites
+- resplendencies
+- responsiblenesses
+- restitches
+- restudies
+- restyles
+- resubscribes
+- resupplies
+- resurgences
+- resuscitates
+- resynchronizes

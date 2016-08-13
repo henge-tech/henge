@@ -1,0 +1,56 @@
+---
+pattern: sop_
+hi_scored_words_count: 11
+scored_words_count: 12
+total_words: 46
+score: 2340396
+score_per_word: 101756
+hi_scored_words:
+  sop: 28169
+  soph: 49868
+  sophist: 77341
+  sophisticated: 9159
+  sophistication: 26408
+  sophistry: 72027
+  sophomore: 18366
+  sophomores: 42656
+  soprano: 18919
+  sopranos: 25162
+  sops: 73213
+scored_words:
+  sophism: 127725
+  sophistical: 186982
+  sophisticate: 102929
+  sophisticates: 155090
+  sophistries: 174251
+  sophists: 103739
+  sophomoric: 104319
+  sopor: 296340
+  soporific: 125165
+  sopping: 124433
+  soppy: 139942
+  sopranino: 258193
+not_scored_words:
+- SOP
+- Sophia
+- Sophie
+- Sophoclean
+- Sophocles
+- Sophonias
+- Sophy
+- Sopwith
+- sophister
+- sophistic
+- sophistically
+- sophisticatedly
+- sophisticating
+- sophomorically
+- sophrosyne
+- soporiferous
+- soporifically
+- soporifics
+- sopped
+- soppier
+- soppiest
+- soppily
+- soppiness

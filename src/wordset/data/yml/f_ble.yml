@@ -1,0 +1,55 @@
+---
+pattern: f_ble
+hi_scored_words_count: 19
+scored_words_count: 14
+total_words: 45
+score: 3790088
+score_per_word: 114851
+hi_scored_words:
+  fable: 14829
+  fallible: 58099
+  fashionable: 9937
+  favorable: 6974
+  feasible: 10913
+  feeble: 17834
+  fixable: 89383
+  flammable: 25591
+  flexible: 5311
+  foldable: 53678
+  forcible: 34415
+  foreseeable: 21783
+  forgettable: 64482
+  forgivable: 98782
+  formidable: 12665
+  friable: 79187
+  fumble: 27216
+  fungible: 99123
+  fusible: 81400
+scored_words:
+  falsifiable: 120036
+  fathomable: 215537
+  fencible: 141450
+  fermentable: 172018
+  filterable: 226251
+  findable: 231387
+  fissionable: 142479
+  floatable: 253977
+  flyable: 198485
+  foible: 175885
+  fordable: 267700
+  forfeitable: 336569
+  frangible: 171314
+  freezable: 325398
+not_scored_words:
+- fanciable
+- farmable
+- fatigable
+- fellable
+- fertilizable
+- fileable
+- fimble
+- finable
+- fineable
+- franchisable
+- fribble
+- fryable

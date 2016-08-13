@@ -1,0 +1,35 @@
+---
+pattern: pack_
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 25
+score: 588691
+score_per_word: 36793
+hi_scored_words:
+  pack: 1860
+  package: 3152
+  packaged: 10053
+  packager: 75976
+  packages: 5183
+  packaging: 4014
+  packed: 4379
+  packer: 28001
+  packers: 22315
+  packet: 5038
+  packets: 10099
+  packing: 5964
+  packs: 6461
+scored_words:
+  packable: 176997
+  packagers: 115501
+  packhorse: 113698
+not_scored_words:
+- Packard
+- packetboat
+- packhorses
+- packinghouse
+- packinghouses
+- packsaddle
+- packsaddles
+- packthread
+- packthreads

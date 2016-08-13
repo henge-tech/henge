@@ -1,0 +1,54 @@
+---
+pattern: in_cy
+hi_scored_words_count: 14
+scored_words_count: 12
+total_words: 44
+score: 2705521
+score_per_word: 104058
+hi_scored_words:
+  inaccuracy: 36871
+  inadequacy: 37422
+  inconsistency: 19147
+  incumbency: 90590
+  indecency: 52485
+  indeterminacy: 72029
+  inefficiency: 34769
+  inerrancy: 99512
+  infancy: 15017
+  insolvency: 29750
+  insufficiency: 28971
+  insurgency: 22185
+  intimacy: 12254
+  intricacy: 96501
+scored_words:
+  inadvertency: 189424
+  inclemency: 139743
+  incompetency: 107579
+  inconstancy: 176782
+  indelicacy: 165210
+  independency: 147628
+  inefficacy: 288859
+  infrequency: 202449
+  innocency: 252803
+  interdependency: 108465
+  intermittency: 124907
+  intestacy: 154169
+not_scored_words:
+- inarticulacy
+- incessancy
+- incipiency
+- incoherency
+- inconveniency
+- inelegancy
+- inexpediency
+- inhabitancy
+- inherency
+- innumeracy
+- insignificancy
+- insistency
+- instancy
+- intendancy
+- intermediacy
+- intransigency
+- inveteracy
+- inviolacy

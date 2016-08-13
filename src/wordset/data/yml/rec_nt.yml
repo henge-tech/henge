@@ -1,0 +1,31 @@
+---
+pattern: rec_nt
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 21
+score: 1210405
+score_per_word: 86457
+hi_scored_words:
+  recalcitrant: 52209
+  recant: 83675
+  recent: 913
+  recipient: 6966
+  recombinant: 18450
+  recount: 22069
+  recruitment: 4061
+  recumbent: 35987
+  recurrent: 17638
+  recusant: 76247
+scored_words:
+  recommitment: 320619
+  reconcilement: 186390
+  recoupment: 138920
+  recreant: 246261
+not_scored_words:
+- Recent
+- reclaimant
+- recognizant
+- recommencement
+- reconsignment
+- recrement
+- recrudescent

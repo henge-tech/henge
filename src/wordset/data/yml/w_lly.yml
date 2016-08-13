@@ -1,0 +1,31 @@
+---
+pattern: w_lly
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 21
+score: 1077229
+score_per_word: 76944
+hi_scored_words:
+  wally: 18860
+  welly: 69125
+  wholly: 5690
+  willfully: 39641
+  willy: 13581
+  wistfully: 70901
+  woefully: 49754
+  wonderfully: 11280
+  woolly: 29867
+  wrongfully: 40836
+scored_words:
+  wastefully: 233070
+  watchfully: 198944
+  whimsically: 140780
+  wrathfully: 154900
+not_scored_words:
+- Willy
+- wailfully
+- wakefully
+- weaselly
+- wholistically
+- wishfully
+- worshipfully

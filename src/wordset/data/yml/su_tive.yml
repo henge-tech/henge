@@ -1,0 +1,25 @@
+---
+pattern: su_tive
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 885207
+score_per_word: 80473
+hi_scored_words:
+  subjective: 8687
+  subjunctive: 56293
+  substantive: 14833
+  subtractive: 89171
+  suggestive: 18264
+  summative: 62787
+  superlative: 37218
+  supportive: 7714
+scored_words:
+  substitutive: 279932
+  superconductive: 198312
+  suppurative: 111996
+not_scored_words:
+- subordinative
+- supersensitive
+- suppositive
+- susceptive

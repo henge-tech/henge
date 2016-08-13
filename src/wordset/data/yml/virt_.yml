@@ -1,0 +1,26 @@
+---
+pattern: virt_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 16
+score: 1036217
+score_per_word: 74015
+hi_scored_words:
+  virtual: 5904
+  virtualization: 30802
+  virtually: 5274
+  virtue: 4996
+  virtues: 10678
+  virtuosity: 60934
+  virtuoso: 29325
+  virtuous: 18629
+  virtus: 94533
+scored_words:
+  virtu: 129659
+  virtuality: 123451
+  virtuosic: 131807
+  virtuosos: 191690
+  virtuously: 198535
+not_scored_words:
+- virtueless
+- virtuousness

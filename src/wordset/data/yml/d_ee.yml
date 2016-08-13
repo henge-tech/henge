@@ -1,0 +1,33 @@
+---
+pattern: d_ee
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 23
+score: 2084082
+score_per_word: 122593
+hi_scored_words:
+  decree: 8153
+  degree: 826
+  detainee: 39562
+  devotee: 40575
+  disagree: 7809
+  divorcee: 76151
+  donee: 83395
+  doubletree: 52039
+  dree: 78710
+scored_words:
+  debauchee: 170951
+  deportee: 227516
+  devisee: 225726
+  distributee: 283743
+  donnee: 225167
+  draftee: 223635
+  drawee: 174392
+  dungaree: 165732
+not_scored_words:
+- Dee
+- Desiree
+- Dundee
+- declassee
+- departee
+- distinguee

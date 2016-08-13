@@ -1,0 +1,28 @@
+---
+pattern: exha_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 18
+score: 1150278
+score_per_word: 76685
+hi_scored_words:
+  exhalation: 68102
+  exhale: 36677
+  exhaled: 60719
+  exhaling: 99482
+  exhaust: 7888
+  exhausted: 7551
+  exhausting: 28246
+  exhaustion: 15919
+  exhaustive: 18359
+  exhaustively: 67869
+  exhausts: 41898
+scored_words:
+  exhalations: 194673
+  exhales: 117410
+  exhaustible: 224625
+  exhaustless: 160860
+not_scored_words:
+- exhalant
+- exhaustibility
+- exhaustiveness

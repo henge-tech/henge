@@ -1,0 +1,47 @@
+---
+pattern: mant_
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 37
+score: 1802608
+score_per_word: 94874
+hi_scored_words:
+  manta: 36232
+  mantel: 27409
+  mantelpiece: 91988
+  mantels: 91492
+  mantis: 25436
+  mantle: 11314
+  mantles: 72863
+  mantra: 19557
+  mantras: 56996
+  mantua: 39619
+scored_words:
+  mantas: 118988
+  manteau: 138162
+  mantes: 194102
+  mantic: 176679
+  mantilla: 100804
+  mantissa: 109646
+  mantled: 124784
+  mantling: 244965
+  mantric: 121572
+not_scored_words:
+- Mantegna
+- Mantinea
+- Mantle
+- Mantua
+- mantelet
+- mantelets
+- mantelletta
+- mantellone
+- mantelpieces
+- mantelshelf
+- mantelshelves
+- manteltree
+- mantillas
+- mantises
+- mantissas
+- mantrap
+- mantraps
+- mantuas

@@ -1,0 +1,28 @@
+---
+pattern: ext_ed
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 18
+score: 1104882
+score_per_word: 78920
+hi_scored_words:
+  extended: 1700
+  exterminated: 61863
+  extinguished: 28881
+  extirpated: 90222
+  extolled: 80037
+  extorted: 96337
+  extracted: 8429
+  extradited: 69243
+  extrapolated: 47092
+  extroverted: 96915
+  extruded: 36988
+scored_words:
+  extemporized: 195981
+  externalized: 154403
+  extricated: 136791
+not_scored_words:
+- extenuated
+- exteriorized
+- extincted
+- extravasated

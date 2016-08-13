@@ -1,0 +1,45 @@
+---
+pattern: opti_
+hi_scored_words_count: 29
+scored_words_count: 2
+total_words: 35
+score: 1133544
+score_per_word: 36565
+hi_scored_words:
+  optic: 15133
+  optical: 6856
+  optically: 37381
+  optician: 47152
+  opticians: 44755
+  optics: 14636
+  optima: 36254
+  optimal: 9587
+  optimality: 47878
+  optimally: 37776
+  optimism: 14977
+  optimist: 29892
+  optimistic: 13645
+  optimistically: 89886
+  optimists: 68437
+  optimization: 5607
+  optimizations: 29656
+  optimize: 14824
+  optimized: 15396
+  optimizer: 37532
+  optimizes: 52372
+  optimizing: 19661
+  optimum: 11747
+  opting: 30766
+  option: 4266
+  optional: 10374
+  optionally: 24189
+  optioned: 77693
+  options: 12788
+scored_words:
+  optimizers: 103378
+  optionality: 169050
+not_scored_words:
+- optime
+- optimisms
+- optimums
+- optioning

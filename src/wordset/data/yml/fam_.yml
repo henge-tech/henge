@@ -1,0 +1,38 @@
+---
+pattern: fam_
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 28
+score: 1589278
+score_per_word: 69099
+hi_scored_words:
+  fam: 16458
+  fame: 3304
+  famed: 16678
+  familial: 21145
+  familiar: 2297
+  familiarity: 12868
+  familiarization: 88285
+  familiarize: 37528
+  familiarly: 88578
+  familiars: 98280
+  families: 1269
+  family: 186
+  famine: 13194
+  famines: 75518
+  famished: 67132
+  famous: 1531
+  famously: 34410
+scored_words:
+  familiarities: 163154
+  familiarized: 105289
+  familiarizes: 251918
+  familiarizing: 122515
+  famishing: 156695
+  famulus: 211046
+not_scored_words:
+- Famagusta
+- Familist
+- famish
+- famishes
+- famuluses

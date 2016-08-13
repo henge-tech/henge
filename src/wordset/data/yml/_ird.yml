@@ -1,0 +1,60 @@
+---
+pattern: _ird
+hi_scored_words_count: 16
+scored_words_count: 11
+total_words: 50
+score: 2284570
+score_per_word: 84613
+hi_scored_words:
+  bird: 1642
+  blackbird: 26652
+  bluebird: 30958
+  cowbird: 93365
+  firebird: 26741
+  gird: 70649
+  hummingbird: 23029
+  ladybird: 39853
+  laird: 24362
+  mockingbird: 28734
+  redbird: 88242
+  seabird: 52419
+  snowbird: 57910
+  songbird: 46350
+  third: 516
+  weird: 4244
+scored_words:
+  bellbird: 193060
+  caird: 122056
+  catbird: 109576
+  jailbird: 123209
+  jaybird: 137556
+  kingbird: 119899
+  lovebird: 126993
+  ovenbird: 238145
+  shorebird: 132844
+  undergird: 218025
+  waterbird: 147541
+not_scored_words:
+- Baird
+- Bird
+- Caird
+- Thunderbird
+- begird
+- bowerbird
+- butcherbird
+- dickybird
+- dollarbird
+- engird
+- friarbird
+- hangbird
+- lyrebird
+- mousebird
+- oilbird
+- reedbird
+- ricebird
+- snakebird
+- surfbird
+- tailorbird
+- weaverbird
+- whirlybird
+- yellowbird

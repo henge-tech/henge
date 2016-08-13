@@ -1,0 +1,39 @@
+---
+pattern: stud_
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 29
+score: 1080649
+score_per_word: 56876
+hi_scored_words:
+  stud: 10133
+  studded: 23797
+  student: 1138
+  students: 1105
+  studentship: 92615
+  studied: 3001
+  studies: 1181
+  studio: 2624
+  studios: 11518
+  studious: 56053
+  studiously: 93226
+  studs: 17758
+  study: 430
+  studying: 4103
+scored_words:
+  studbook: 195533
+  studding: 165736
+  studentships: 135364
+  studier: 123927
+  studly: 141407
+not_scored_words:
+- Studebaker
+- studbooks
+- studdingsail
+- studhorse
+- studhorses
+- studiedly
+- studiers
+- studiousness
+- studlier
+- studliest

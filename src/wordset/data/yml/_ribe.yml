@@ -1,0 +1,31 @@
+---
+pattern: _ribe
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 21
+score: 1100187
+score_per_word: 68761
+hi_scored_words:
+  ascribe: 34490
+  bribe: 21626
+  describe: 2206
+  diatribe: 52814
+  inscribe: 73608
+  prescribe: 14373
+  scribe: 21361
+  subscribe: 2422
+  transcribe: 34046
+  tribe: 4342
+  unsubscribe: 9376
+scored_words:
+  circumscribe: 111456
+  escribe: 195003
+  proscribe: 107322
+  resubscribe: 271790
+  subtribe: 143952
+not_scored_words:
+- Scribe
+- overprescribe
+- oversubscribe
+- reinscribe
+- superscribe

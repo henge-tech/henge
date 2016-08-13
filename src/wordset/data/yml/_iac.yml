@@ -1,0 +1,48 @@
+---
+pattern: _iac
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 38
+score: 2501226
+score_per_word: 108748
+hi_scored_words:
+  amnesiac: 91032
+  aphrodisiac: 44574
+  cardiac: 15054
+  celiac: 38716
+  elegiac: 72910
+  hypochondriac: 90568
+  iliac: 57986
+  insomniac: 49613
+  maniac: 20398
+  megalomaniac: 86087
+  nymphomaniac: 99527
+  zodiac: 18455
+scored_words:
+  ammoniac: 276047
+  celeriac: 118124
+  demoniac: 134723
+  dipsomaniac: 123732
+  egomaniac: 172650
+  hemophiliac: 270722
+  intracardiac: 132603
+  kleptomaniac: 171618
+  paranoiac: 180734
+  pyromaniac: 116122
+  sacroiliac: 119231
+not_scored_words:
+- Dionysiac
+- Mauriac
+- Pontiac
+- Syriac
+- anaphrodisiac
+- aphasiac
+- diplocardiac
+- melancholiac
+- monomaniac
+- mythomaniac
+- necrophiliac
+- paradisiac
+- paraphiliac
+- simoniac
+- symposiac

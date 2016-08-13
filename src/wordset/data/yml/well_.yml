@@ -1,0 +1,33 @@
+---
+pattern: well_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 23
+score: 829041
+score_per_word: 63772
+hi_scored_words:
+  well: 103
+  welled: 75779
+  wellhead: 74552
+  wellies: 74564
+  welling: 36184
+  wellington: 6953
+  wellness: 8487
+  wells: 4550
+  wellspring: 63130
+  welly: 69125
+scored_words:
+  wellborn: 126790
+  wellingtons: 117809
+  wellsprings: 171015
+not_scored_words:
+- Welland
+- Weller
+- Welles
+- Wellesley
+- Wellesz
+- Wellington
+- Wellingtons
+- Wells
+- wellheads
+- wellie

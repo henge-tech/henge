@@ -1,0 +1,31 @@
+---
+pattern: l_id
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 21
+score: 466120
+score_per_word: 42374
+hi_scored_words:
+  laid: 2341
+  languid: 53997
+  lid: 10784
+  limpid: 85078
+  lipid: 14306
+  liquid: 3051
+  livid: 35850
+  lucid: 18367
+  lurid: 41636
+  lymphoid: 37790
+scored_words:
+  lambdoid: 162920
+not_scored_words:
+- Leatheroid
+- Leonid
+- labroid
+- lampyrid
+- landslid
+- lemuroid
+- leporid
+- lipoid
+- lithoid
+- lumbricoid

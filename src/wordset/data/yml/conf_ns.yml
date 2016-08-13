@@ -1,0 +1,23 @@
+---
+pattern: conf_ns
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 753704
+score_per_word: 75370
+hi_scored_words:
+  confections: 68394
+  confederations: 53918
+  confessions: 13662
+  configurations: 9909
+  confirmations: 46342
+  conformations: 65694
+  confrontations: 44743
+  confusions: 66423
+scored_words:
+  confiscations: 158564
+  conflagrations: 226055
+not_scored_words:
+- Confucians
+- confabulations
+- conflations

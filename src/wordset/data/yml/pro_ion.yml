@@ -1,0 +1,61 @@
+---
+pattern: pro_ion
+hi_scored_words_count: 30
+scored_words_count: 12
+total_words: 51
+score: 3009620
+score_per_word: 71657
+hi_scored_words:
+  probation: 11854
+  procession: 13585
+  proclamation: 12938
+  procrastination: 31017
+  procreation: 47222
+  production: 916
+  profession: 3945
+  professionalization: 99717
+  profusion: 36461
+  progression: 10494
+  prohibition: 7703
+  projection: 7156
+  proliferation: 13132
+  prolongation: 49685
+  promotion: 2841
+  promulgation: 39584
+  pronation: 84409
+  pronunciation: 12699
+  propagation: 12206
+  proportion: 4003
+  proposition: 5424
+  propulsion: 22536
+  proscription: 83367
+  prosecution: 10939
+  prostitution: 14501
+  prostration: 85497
+  protection: 1008
+  protrusion: 56756
+  provision: 2424
+  provocation: 26464
+scored_words:
+  proaction: 172642
+  procuration: 297254
+  profanation: 150745
+  prognostication: 143709
+  propitiation: 118791
+  proprioception: 125347
+  proration: 133510
+  prorogation: 149051
+  proselytization: 291749
+  protestation: 138347
+  protraction: 296290
+  proximation: 181702
+not_scored_words:
+- Prohibition
+- proabortion
+- proadministration
+- proconservation
+- prointervention
+- prolusion
+- prothalamion
+- prothalmion
+- provincialization

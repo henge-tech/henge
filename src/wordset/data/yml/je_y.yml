@@ -1,0 +1,37 @@
+---
+pattern: je_y
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 27
+score: 725009
+score_per_word: 55769
+hi_scored_words:
+  jealously: 67195
+  jealousy: 12486
+  jelly: 9174
+  jenny: 6364
+  jeopardy: 18339
+  jerky: 26340
+  jerry: 8270
+  jersey: 2187
+  jetty: 28199
+  jewelry: 5157
+scored_words:
+  jemmy: 134434
+  jerkily: 303726
+  jestingly: 103138
+not_scored_words:
+- Jefferey
+- Jeffery
+- Jeffrey
+- Jeffry
+- Jenny
+- Jeremy
+- Jerry
+- Jersey
+- Jetway
+- Jewry
+- jeeringly
+- jejunely
+- jellify
+- jequirity

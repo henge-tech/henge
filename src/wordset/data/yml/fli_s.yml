@@ -1,0 +1,37 @@
+---
+pattern: fli_s
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 27
+score: 1096439
+score_per_word: 68527
+hi_scored_words:
+  flickers: 67515
+  flicks: 24966
+  fliers: 36528
+  flies: 6016
+  flightless: 76147
+  flights: 4485
+  flinders: 27879
+  flings: 68608
+  flints: 74610
+  flippers: 53794
+  flips: 29194
+  flirtatious: 75423
+  flirts: 54051
+scored_words:
+  flinches: 219322
+  flirtations: 138662
+  flits: 139239
+not_scored_words:
+- Flintstones
+- flibbertigibbets
+- flightiness
+- flimflams
+- flimsiness
+- flintiness
+- flintlocks
+- flippies
+- flirtatiousness
+- flitches
+- flitters

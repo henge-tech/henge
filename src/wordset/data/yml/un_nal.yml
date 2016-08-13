@@ -1,0 +1,24 @@
+---
+pattern: un_nal
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 936565
+score_per_word: 85142
+hi_scored_words:
+  unconditional: 18294
+  unconstitutional: 16945
+  unconventional: 22101
+  unemotional: 93527
+  unidirectional: 42824
+  unintentional: 28384
+  unoriginal: 66916
+  unprofessional: 42563
+scored_words:
+  unexceptional: 131920
+  unseasonal: 298593
+  untraditional: 174498
+not_scored_words:
+- undenominational
+- unipersonal
+- unsensational

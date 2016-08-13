@@ -1,0 +1,25 @@
+---
+pattern: min_n
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 15
+score: 494231
+score_per_word: 54914
+hi_scored_words:
+  mineralization: 46561
+  miniaturization: 83506
+  minimization: 31989
+  minion: 31896
+  ministration: 93393
+  minivan: 28589
+  minuteman: 44970
+  minutemen: 43333
+  minyan: 89994
+scored_words: {}
+not_scored_words:
+- Mingrelian
+- Minn
+- Minnesotan
+- Minoan
+- Minorcan
+- Minuteman

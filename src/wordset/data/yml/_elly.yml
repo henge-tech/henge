@@ -1,0 +1,32 @@
+---
+pattern: _elly
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1284331
+score_per_word: 80270
+hi_scored_words:
+  belly: 8968
+  cruelly: 30129
+  gravelly: 59854
+  jelly: 9174
+  kelly: 4933
+  nelly: 11572
+  shelly: 18773
+  smelly: 23471
+  telly: 30084
+  underbelly: 54228
+  welly: 69125
+scored_words:
+  felly: 113299
+  genteelly: 264041
+  levelly: 168868
+  potbelly: 132393
+  scoundrelly: 285419
+not_scored_words:
+- Kelly
+- Leadbelly
+- Nelly
+- Shelly
+- novelly
+- weaselly

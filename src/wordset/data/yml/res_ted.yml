@@ -1,0 +1,27 @@
+---
+pattern: res_ted
+hi_scored_words_count: 14
+scored_words_count: 1
+total_words: 17
+score: 816569
+score_per_word: 54437
+hi_scored_words:
+  resected: 82048
+  resented: 47504
+  resisted: 15802
+  resonated: 71119
+  resorted: 30068
+  respected: 5897
+  restarted: 27318
+  restated: 36996
+  rested: 12377
+  restricted: 4844
+  resubmitted: 78351
+  resulted: 4403
+  resurrected: 37224
+  resuscitated: 99118
+scored_words:
+  reseated: 263500
+not_scored_words:
+- reselected
+- resinated

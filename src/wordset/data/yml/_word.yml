@@ -1,0 +1,32 @@
+---
+pattern: _word
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 22
+score: 997300
+score_per_word: 62331
+hi_scored_words:
+  afterword: 66778
+  broadsword: 63721
+  buzzword: 50969
+  codeword: 78021
+  crossword: 16992
+  foreword: 18842
+  keyword: 5223
+  loanword: 78499
+  password: 3911
+  sword: 3374
+  watchword: 71065
+  word: 347
+scored_words:
+  byword: 120920
+  catchword: 158897
+  headword: 140565
+  reword: 119176
+not_scored_words:
+- backsword
+- counterword
+- misword
+- overword
+- smallsword
+- swearword

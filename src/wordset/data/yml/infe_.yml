@@ -1,0 +1,54 @@
+---
+pattern: infe_
+hi_scored_words_count: 27
+scored_words_count: 9
+total_words: 44
+score: 2748031
+score_per_word: 76334
+hi_scored_words:
+  infeasible: 62940
+  infect: 18920
+  infected: 6260
+  infecting: 41847
+  infection: 5287
+  infections: 5865
+  infectious: 9813
+  infective: 44684
+  infects: 55380
+  infer: 16805
+  inference: 10735
+  inferences: 24125
+  inferential: 64636
+  inferior: 8133
+  inferiority: 33191
+  inferiors: 80526
+  infernal: 22446
+  inferno: 18895
+  inferred: 15174
+  inferring: 58051
+  infers: 80312
+  infertile: 42486
+  infertility: 18029
+  infest: 56952
+  infestation: 30725
+  infestations: 53551
+  infested: 24013
+scored_words:
+  infeasibility: 259615
+  infectiously: 272243
+  infectiousness: 277690
+  infelicitous: 150281
+  inferentially: 179354
+  infernally: 138548
+  infernos: 221024
+  infesting: 135557
+  infests: 203938
+not_scored_words:
+- infecund
+- infelicities
+- infelicitously
+- infelicity
+- inferable
+- inferrable
+- infester
+- infeudation

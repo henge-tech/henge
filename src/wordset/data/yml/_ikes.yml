@@ -1,0 +1,35 @@
+---
+pattern: _ikes
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 25
+score: 891226
+score_per_word: 55701
+hi_scored_words:
+  airstrikes: 85364
+  bikes: 10652
+  dikes: 42415
+  dislikes: 27320
+  hikes: 22206
+  likes: 3655
+  mikes: 21261
+  motorbikes: 27129
+  pikes: 37953
+  spikes: 16409
+  strikes: 5476
+  trikes: 73524
+  yikes: 27418
+scored_words:
+  lookalikes: 103673
+  shrikes: 150132
+  turnpikes: 236639
+not_scored_words:
+- Klondikes
+- garpikes
+- handspikes
+- hitchhikes
+- kikes
+- marlinespikes
+- minibikes
+- pushbikes
+- soundalikes

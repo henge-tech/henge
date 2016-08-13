@@ -1,0 +1,50 @@
+---
+pattern: sn_ed
+hi_scored_words_count: 15
+scored_words_count: 11
+total_words: 40
+score: 3147282
+score_per_word: 121049
+hi_scored_words:
+  snagged: 54885
+  snapped: 12982
+  snared: 92408
+  snarled: 63687
+  snatched: 22230
+  sneaked: 60038
+  sneered: 66223
+  sneezed: 88809
+  sniffed: 43790
+  snipped: 70180
+  snorted: 43189
+  snowed: 46042
+  snubbed: 65917
+  snuffed: 82521
+  snuggled: 60337
+scored_words:
+  snacked: 297986
+  snaked: 105250
+  snickered: 117012
+  sniffled: 233866
+  sniggered: 262009
+  sniped: 174767
+  snookered: 223903
+  snooped: 227000
+  snored: 160617
+  snorkeled: 311652
+  snowballed: 159982
+not_scored_words:
+- snaffled
+- snailed
+- snarfed
+- snicked
+- snitched
+- sniveled
+- snogged
+- snoozed
+- snowboarded
+- snowmobiled
+- snowplowed
+- snowshed
+- snuffled
+- snugged

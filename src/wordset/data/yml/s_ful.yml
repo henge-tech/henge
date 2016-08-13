@@ -1,0 +1,31 @@
+---
+pattern: s_ful
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 21
+score: 416013
+score_per_word: 34667
+hi_scored_words:
+  scornful: 60357
+  shameful: 18451
+  sinful: 15824
+  skillful: 24082
+  slothful: 81343
+  sorrowful: 35253
+  soulful: 29188
+  spiteful: 45914
+  spoonful: 35709
+  stressful: 17918
+  successful: 1335
+  suspenseful: 50639
+scored_words: {}
+not_scored_words:
+- sackful
+- scoopful
+- shovelful
+- skepful
+- skinful
+- snootful
+- songful
+- spadeful
+- spleenful

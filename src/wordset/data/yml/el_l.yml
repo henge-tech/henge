@@ -1,0 +1,22 @@
+---
+pattern: el_l
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 466637
+score_per_word: 51848
+hi_scored_words:
+  electoral: 8401
+  electrical: 4025
+  electrochemical: 30488
+  electromechanical: 41079
+  elemental: 15407
+  ell: 25575
+  ellipsoidal: 96534
+  elliptical: 22051
+scored_words:
+  electrothermal: 223077
+not_scored_words:
+- Elisavetpol
+- Elul
+- elegiacal

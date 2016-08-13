@@ -1,0 +1,25 @@
+---
+pattern: pro_tive
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 748835
+score_per_word: 62402
+hi_scored_words:
+  proactive: 13206
+  probative: 66571
+  productive: 5832
+  prohibitive: 37831
+  projective: 33565
+  proliferative: 51051
+  prospective: 7057
+  protective: 6697
+  provocative: 20110
+scored_words:
+  procreative: 115920
+  promotive: 278885
+  proprioceptive: 112110
+not_scored_words:
+- progenitive
+- propagative
+- proscriptive

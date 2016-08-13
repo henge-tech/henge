@@ -1,0 +1,20 @@
+---
+pattern: dep_ts
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 463033
+score_per_word: 51448
+hi_scored_words:
+  departments: 3131
+  departs: 26426
+  dependents: 22496
+  depicts: 20745
+  deployments: 23520
+  deposits: 6507
+  depots: 35682
+  depressants: 38648
+scored_words:
+  deports: 285878
+not_scored_words:
+- deponents

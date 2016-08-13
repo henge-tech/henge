@@ -1,0 +1,36 @@
+---
+pattern: app_ed
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 26
+score: 1180891
+score_per_word: 53676
+hi_scored_words:
+  appalled: 24738
+  appealed: 10239
+  appeared: 1851
+  appeased: 65244
+  appended: 24248
+  applauded: 29591
+  applied: 1371
+  appointed: 2184
+  apportioned: 43273
+  appraised: 29394
+  appreciated: 5653
+  apprehended: 36268
+  apprenticed: 71416
+  apprised: 55148
+  approached: 5733
+  appropriated: 14922
+  approved: 1675
+  approximated: 37914
+scored_words:
+  appertained: 203133
+  appliqued: 138678
+  apposed: 143739
+  appressed: 234479
+not_scored_words:
+- Appleseed
+- appareled
+- apperceived
+- approbated

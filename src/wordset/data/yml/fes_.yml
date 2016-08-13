@@ -1,0 +1,40 @@
+---
+pattern: fes_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 30
+score: 2159334
+score_per_word: 107966
+hi_scored_words:
+  fescue: 57125
+  fess: 47505
+  fest: 10532
+  fester: 48331
+  festering: 68865
+  festival: 2598
+  festivals: 6724
+  festive: 14741
+  festivities: 18891
+  festivity: 60919
+  festoon: 95961
+  festooned: 95460
+  fests: 90989
+scored_words:
+  fessed: 244464
+  fesses: 235780
+  festal: 114895
+  festered: 230991
+  festers: 253816
+  festively: 264238
+  festoons: 196509
+not_scored_words:
+- Fescennine
+- Festschrift
+- fescues
+- fessing
+- festally
+- festinate
+- festination
+- festiveness
+- festoonery
+- festooning

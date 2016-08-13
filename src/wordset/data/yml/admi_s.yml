@@ -1,0 +1,27 @@
+---
+pattern: admi_s
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 17
+score: 591277
+score_per_word: 53752
+hi_scored_words:
+  administers: 31436
+  administrations: 23138
+  administrators: 9960
+  admins: 16095
+  admirals: 45041
+  admirers: 33052
+  admires: 48881
+  admissions: 10048
+  admits: 10790
+  admixtures: 69016
+scored_words:
+  administrates: 293820
+not_scored_words:
+- admirabilities
+- admirableness
+- admirablenesses
+- admissibleness
+- admittances
+- admixes

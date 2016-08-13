@@ -1,0 +1,32 @@
+---
+pattern: ink_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 22
+score: 978935
+score_per_word: 81577
+hi_scored_words:
+  ink: 3719
+  inked: 36856
+  inking: 59348
+  inkling: 45193
+  inks: 27203
+  inkstand: 56800
+  inkwell: 56818
+  inky: 58231
+scored_words:
+  inkblot: 131251
+  inkhorn: 220074
+  inklings: 121621
+  inkwells: 161821
+not_scored_words:
+- Inkerman
+- inkberries
+- inkberry
+- inkblots
+- inkier
+- inkiest
+- inkiness
+- inkle
+- inkles
+- inkstands

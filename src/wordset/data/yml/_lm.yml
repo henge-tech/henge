@@ -1,0 +1,47 @@
+---
+pattern: _lm
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 37
+score: 1129228
+score_per_word: 56461
+hi_scored_words:
+  balm: 16447
+  calm: 3458
+  elm: 12958
+  film: 3015
+  helm: 16028
+  holm: 32959
+  lm: 10992
+  microfilm: 24032
+  napalm: 35538
+  overwhelm: 27505
+  palm: 2639
+  psalm: 12849
+  realm: 5780
+  telefilm: 93249
+scored_words:
+  culm: 101962
+  embalm: 178265
+  halm: 144231
+  malm: 110761
+  qualm: 118123
+  whelm: 178437
+not_scored_words:
+- Anselm
+- Bornholm
+- Chisholm
+- LM
+- Malcolm
+- Montcalm
+- Stockholm
+- Ulm
+- Wilhelm
+- becalm
+- bibliofilm
+- clingfilm
+- copalm
+- haulm
+- refilm
+- underwhelm
+- unhelm

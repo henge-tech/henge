@@ -1,0 +1,56 @@
+---
+pattern: la_rs
+hi_scored_words_count: 15
+scored_words_count: 14
+total_words: 46
+score: 3468061
+score_per_word: 119588
+hi_scored_words:
+  laborers: 18643
+  labors: 26298
+  lacquers: 91229
+  ladders: 18407
+  lagers: 97045
+  lancers: 53121
+  landholders: 71915
+  landowners: 19636
+  landscapers: 70583
+  lasers: 13068
+  launchers: 30288
+  lawmakers: 15104
+  lawnmowers: 69426
+  lawyers: 3093
+  layers: 6054
+scored_words:
+  ladyfingers: 312385
+  lairs: 105166
+  lamers: 145506
+  lamplighters: 326495
+  landlubbers: 264342
+  larkspurs: 325839
+  latecomers: 138314
+  lathers: 197241
+  launderers: 166789
+  lavenders: 210627
+  lavers: 175899
+  lawbreakers: 153827
+  lawgivers: 128760
+  layovers: 212961
+not_scored_words:
+- Labradors
+- Lars
+- laagers
+- lacrimators
+- lamenters
+- lammergeiers
+- lampooners
+- languors
+- langurs
+- larceners
+- larders
+- lascars
+- lashers
+- lauders
+- laughers
+- launders
+- lazars

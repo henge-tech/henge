@@ -1,0 +1,42 @@
+---
+pattern: am_d
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 32
+score: 990808
+score_per_word: 55044
+hi_scored_words:
+  amalgamated: 35550
+  amassed: 33144
+  amazed: 9422
+  ambushed: 46121
+  ameliorated: 98858
+  amend: 9318
+  amended: 5417
+  amid: 7935
+  amortized: 50619
+  amounted: 15110
+  ampersand: 57691
+  amplified: 23572
+  amputated: 58229
+  amused: 16284
+  amyloid: 35220
+scored_words:
+  ambled: 123118
+  amphipod: 151128
+  amygdaloid: 214072
+not_scored_words:
+- AMD
+- Americanized
+- Amerind
+- amberoid
+- ambroid
+- ambulated
+- ambuscaded
+- ameboid
+- amerced
+- ammoniated
+- ammonified
+- amnestied
+- amoeboid
+- amphidiploid

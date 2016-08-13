@@ -1,0 +1,35 @@
+---
+pattern: du_er
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 25
+score: 1467437
+score_per_word: 104816
+hi_scored_words:
+  duffer: 82643
+  dulcimer: 42109
+  duller: 87883
+  dumber: 38939
+  dumbwaiter: 78435
+  dumper: 59511
+  dumpster: 32921
+  duper: 44402
+  duster: 39086
+scored_words:
+  dubber: 196436
+  dueler: 241845
+  duiker: 127630
+  dunner: 123946
+  dustcover: 271651
+not_scored_words:
+- Dubliner
+- Dumpster
+- Dunker
+- Durer
+- Durocher
+- Dustbuster
+- Duvalier
+- duckier
+- dumpier
+- duskier
+- dustier

@@ -1,0 +1,48 @@
+---
+pattern: caro_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 38
+score: 1340008
+score_per_word: 83750
+hi_scored_words:
+  carob: 70155
+  carol: 7894
+  caroling: 98329
+  carols: 32764
+  carolus: 93472
+  carotene: 37869
+  carotenoid: 92879
+  carotenoids: 62261
+  carotid: 24445
+  carousel: 21396
+  carousels: 98719
+scored_words:
+  carolers: 119430
+  carom: 120163
+  carousal: 137562
+  carouse: 185739
+  carousing: 136931
+not_scored_words:
+- Carol
+- Carole
+- Carolina
+- Carolinas
+- Caroline
+- Carolingian
+- Carolinian
+- Carolinians
+- Carolyn
+- carobs
+- caroche
+- caroled
+- caroler
+- caromed
+- caroming
+- caroms
+- carotids
+- carousals
+- caroused
+- carouser
+- carousers
+- carouses

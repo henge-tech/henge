@@ -1,0 +1,25 @@
+---
+pattern: mobi_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 764679
+score_per_word: 69516
+hi_scored_words:
+  mobile: 3693
+  mobiles: 22260
+  mobility: 9836
+  mobilization: 20844
+  mobilize: 24986
+  mobilized: 36417
+  mobilizes: 99712
+  mobilizing: 36431
+scored_words:
+  mobilities: 128479
+  mobilizations: 148396
+  mobilizer: 233625
+not_scored_words:
+- Mobil
+- Mobile
+- mobilizable
+- mobilizers

@@ -1,0 +1,43 @@
+---
+pattern: h_sis
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 33
+score: 2001325
+score_per_word: 111184
+hi_scored_words:
+  halitosis: 86460
+  hemodialysis: 46411
+  hemolysis: 77158
+  hemostasis: 73653
+  homeostasis: 40731
+  hydrolysis: 27871
+  hypnosis: 16589
+  hypothesis: 6295
+  hysteresis: 45060
+scored_words:
+  hematopoiesis: 109057
+  heterosis: 173216
+  histogenesis: 225581
+  histoplasmosis: 110337
+  hyperkeratosis: 178489
+  hyperostosis: 238511
+  hypochondriasis: 180457
+  hypophysis: 186576
+  hypostasis: 178873
+not_scored_words:
+- hallucinosis
+- haplosis
+- helminthiasis
+- hematogenesis
+- hematosis
+- heterogenesis
+- heterolysis
+- hidrosis
+- histolysis
+- holophrasis
+- homogenesis
+- hydrogenolysis
+- hypervitaminosis
+- hypnoanalysis
+- hypnogenesis

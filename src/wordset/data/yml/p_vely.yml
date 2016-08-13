@@ -1,0 +1,43 @@
+---
+pattern: p_vely
+hi_scored_words_count: 9
+scored_words_count: 14
+total_words: 33
+score: 2847713
+score_per_word: 123813
+hi_scored_words:
+  passively: 32878
+  persuasively: 74232
+  positively: 7512
+  postoperatively: 74032
+  proactively: 41628
+  productively: 51290
+  progressively: 21070
+  prohibitively: 63397
+  prospectively: 69390
+scored_words:
+  pejoratively: 230709
+  pensively: 164408
+  perceptively: 205275
+  pervasively: 158904
+  plaintively: 140118
+  predicatively: 239387
+  preemptively: 116845
+  preoperatively: 112656
+  presumptively: 112156
+  primitively: 241163
+  protectively: 128982
+  provocatively: 108997
+  purposively: 309076
+  putatively: 143608
+not_scored_words:
+- percussively
+- permissively
+- perspectively
+- possessively
+- preclusively
+- prescriptively
+- projectively
+- proprioceptively
+- proscriptively
+- punitively

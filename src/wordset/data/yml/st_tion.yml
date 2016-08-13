@@ -1,0 +1,29 @@
+---
+pattern: st_tion
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 19
+score: 1531548
+score_per_word: 90091
+hi_scored_words:
+  stabilization: 16832
+  stagnation: 30326
+  standardization: 16397
+  starvation: 15993
+  station: 937
+  sterilization: 25832
+  stimulation: 11944
+  stipulation: 25861
+  strangulation: 63578
+  stratification: 31160
+scored_words:
+  stagflation: 111441
+  stigmatization: 106924
+  striation: 218997
+  striction: 311927
+  stridulation: 160001
+  stupefaction: 163950
+  stylization: 219448
+not_scored_words:
+- sternutation
+- stultification

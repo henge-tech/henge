@@ -1,0 +1,72 @@
+---
+pattern: _yte
+hi_scored_words_count: 15
+scored_words_count: 13
+total_words: 62
+score: 3153980
+score_per_word: 112642
+hi_scored_words:
+  acolyte: 63786
+  byte: 10238
+  electrolyte: 24171
+  erythrocyte: 46317
+  gigabyte: 22571
+  granulocyte: 65249
+  hepatocyte: 76163
+  leukocyte: 41913
+  lymphocyte: 27979
+  megabyte: 46050
+  monocyte: 70162
+  neophyte: 55015
+  oocyte: 57195
+  terabyte: 74119
+  trachyte: 85880
+scored_words:
+  bryophyte: 215311
+  endophyte: 230335
+  epiphyte: 187920
+  exabyte: 146573
+  flyte: 141879
+  gametophyte: 135882
+  hemocyte: 322024
+  kilobyte: 112860
+  petabyte: 193821
+  phagocyte: 203566
+  proselyte: 154858
+  sporophyte: 224295
+  troglodyte: 117848
+not_scored_words:
+- Leyte
+- aerophyte
+- amebocyte
+- autophyte
+- choanocyte
+- coenocyte
+- cormophyte
+- dermatophyte
+- ectophyte
+- entophyte
+- gametocyte
+- geophyte
+- gonocyte
+- halophyte
+- heterophyte
+- histiocyte
+- hydrolyte
+- hydrophyte
+- lithophyte
+- microcyte
+- microphyte
+- osteophyte
+- pteridophyte
+- saprophyte
+- spermatocyte
+- spermatophyte
+- spermophyte
+- sporocyte
+- tachylyte
+- thallophyte
+- thrombocyte
+- xerophyte
+- zoophyte
+- zygophyte

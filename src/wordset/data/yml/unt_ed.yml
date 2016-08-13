@@ -1,0 +1,48 @@
+---
+pattern: unt_ed
+hi_scored_words_count: 15
+scored_words_count: 16
+total_words: 38
+score: 3583560
+score_per_word: 115598
+hi_scored_words:
+  untagged: 87800
+  untainted: 92210
+  untamed: 40576
+  untapped: 42132
+  untaxed: 99186
+  untested: 32770
+  untied: 45968
+  untitled: 9397
+  untouched: 17734
+  untrained: 40018
+  untranslated: 43704
+  untreated: 19576
+  untried: 61942
+  untroubled: 74816
+  unturned: 72135
+scored_words:
+  untalented: 150605
+  untangled: 152974
+  untarnished: 190438
+  untasted: 168609
+  untempered: 301154
+  untenanted: 152986
+  untended: 203822
+  unterminated: 127194
+  untethered: 120689
+  untilled: 181121
+  untrammeled: 132525
+  untransformed: 131779
+  untrimmed: 158699
+  untuned: 261215
+  untutored: 151544
+  untwisted: 218242
+not_scored_words:
+- untanned
+- untempted
+- untinged
+- untired
+- untraveled
+- untraversed
+- untwined

@@ -1,0 +1,31 @@
+---
+pattern: fa_m
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 21
+score: 847262
+score_per_word: 65174
+hi_scored_words:
+  factotum: 92077
+  fam: 16458
+  fanaticism: 44381
+  fandom: 26630
+  fantom: 77562
+  farm: 1470
+  fascism: 20742
+  fatalism: 63056
+  fathom: 22854
+  favoritism: 53954
+scored_words:
+  factionalism: 121192
+  falciform: 127601
+  fauvism: 179285
+not_scored_words:
+- Fabianism
+- Faiyum
+- Fauvism
+- Fayum
+- falconiform
+- fantasm
+- faradism
+- fastigium

@@ -1,0 +1,28 @@
+---
+pattern: bo_le
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 775607
+score_per_word: 70509
+hi_scored_words:
+  bobble: 31548
+  boggle: 56024
+  bogle: 64429
+  bole: 57018
+  bookable: 81217
+  bookmobile: 98712
+  borehole: 44456
+  bottle: 2556
+  boule: 79929
+scored_words:
+  boodle: 142442
+  boondoggle: 117276
+not_scored_words:
+- Bonneville
+- Boole
+- Bootle
+- Bougainville
+- Boyle
+- bolthole
+- borecole

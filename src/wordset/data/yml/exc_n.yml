@@ -1,0 +1,26 @@
+---
+pattern: exc_n
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 16
+score: 489205
+score_per_word: 40767
+hi_scored_words:
+  excavation: 16003
+  exception: 2690
+  excision: 29490
+  excitation: 20607
+  exciton: 82929
+  exclamation: 19339
+  exclusion: 6222
+  excommunication: 55381
+  excoriation: 91078
+  excretion: 32035
+  excursion: 12909
+scored_words:
+  exculpation: 120522
+not_scored_words:
+- Excedrin
+- exciseman
+- excisemen
+- excruciation

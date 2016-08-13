@@ -1,0 +1,31 @@
+---
+pattern: ins_r
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 21
+score: 586283
+score_per_word: 45098
+hi_scored_words:
+  insider: 10477
+  insofar: 21530
+  inspector: 6251
+  installer: 14760
+  instar: 65013
+  instigator: 57937
+  instr: 44771
+  instructor: 5344
+  insular: 32338
+  insulator: 33340
+  insurer: 14477
+scored_words:
+  inscriber: 103819
+  inspirer: 176226
+not_scored_words:
+- insaner
+- inseminator
+- insinuator
+- instanter
+- instiller
+- instituter
+- institutor
+- insulter

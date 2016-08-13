@@ -1,0 +1,41 @@
+---
+pattern: d_ged
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 31
+score: 1580870
+score_per_word: 71857
+hi_scored_words:
+  damaged: 4011
+  debugged: 97360
+  deluged: 94823
+  deranged: 32871
+  disadvantaged: 12639
+  discharged: 8571
+  discouraged: 13477
+  disengaged: 55111
+  dislodged: 63594
+  diverged: 56240
+  divulged: 56654
+  dodged: 50181
+  dogged: 33960
+  dragged: 9766
+  dredged: 50910
+  drugged: 37529
+scored_words:
+  danged: 186211
+  digged: 137191
+  dinged: 141481
+  disarranged: 125102
+  disgorged: 196428
+  disparaged: 116760
+not_scored_words:
+- decoupaged
+- defogged
+- deleveraged
+- dingdonged
+- disobliged
+- doglegged
+- donged
+- drudged
+- dunged

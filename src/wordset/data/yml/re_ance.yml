@@ -1,0 +1,38 @@
+---
+pattern: re_ance
+hi_scored_words_count: 20
+scored_words_count: 1
+total_words: 28
+score: 920969
+score_per_word: 43855
+hi_scored_words:
+  reactance: 74388
+  reappearance: 58626
+  reassurance: 33671
+  recognizance: 97850
+  reconnaissance: 17492
+  refinance: 20356
+  reflectance: 39383
+  reinsurance: 31428
+  relevance: 9545
+  reliance: 8203
+  reluctance: 16511
+  remembrance: 11487
+  remittance: 33506
+  remonstrance: 92168
+  renaissance: 6476
+  repentance: 16868
+  repugnance: 84108
+  resemblance: 14247
+  resistance: 2427
+  resonance: 15545
+scored_words:
+  recalcitrance: 236684
+not_scored_words:
+- Renaissance
+- Resistance
+- reacquaintance
+- readmittance
+- recreance
+- recusance
+- reentrance

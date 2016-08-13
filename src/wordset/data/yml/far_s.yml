@@ -1,0 +1,33 @@
+---
+pattern: far_s
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 23
+score: 1286461
+score_per_word: 91890
+hi_scored_words:
+  fares: 11942
+  farewells: 75224
+  farinaceous: 92505
+  farmers: 3609
+  farmhouses: 50844
+  farmlands: 65607
+  farms: 5051
+  farts: 37277
+scored_words:
+  farces: 126532
+  farmhands: 279078
+  farmsteads: 148516
+  farriers: 121370
+  farsightedness: 120253
+  farthings: 148653
+not_scored_words:
+- farads
+- farandoles
+- fardels
+- farmings
+- farmyards
+- farraginous
+- farragoes
+- farrows
+- farthingales

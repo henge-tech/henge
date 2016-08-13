@@ -1,0 +1,37 @@
+---
+pattern: ac_ly
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 27
+score: 1235827
+score_per_word: 82388
+hi_scored_words:
+  academically: 25954
+  acceptably: 73805
+  accidentally: 9221
+  accordingly: 4052
+  accurately: 6328
+  acoustically: 62127
+  acromegaly: 85314
+  actively: 6339
+  actually: 747
+  acutely: 27416
+scored_words:
+  accessibly: 273778
+  accusingly: 167663
+  achingly: 119367
+  acidly: 228679
+  actuarially: 145037
+not_scored_words:
+- accommodatingly
+- accountably
+- accursedly
+- acerbically
+- achromatically
+- acquiescently
+- acquisitively
+- acridly
+- acrimoniously
+- acrobatically
+- actionably
+- actuarily

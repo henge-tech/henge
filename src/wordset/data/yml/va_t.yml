@@ -1,0 +1,29 @@
+---
+pattern: va_t
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 668073
+score_per_word: 55672
+hi_scored_words:
+  vacant: 7357
+  vagrant: 39500
+  valet: 13464
+  valiant: 14094
+  variant: 10737
+  varmint: 72871
+  vast: 2772
+  vat: 8418
+  vault: 7417
+scored_words:
+  vaguest: 140779
+  varlet: 165358
+  vaunt: 185306
+not_scored_words:
+- VAT
+- Vanderbilt
+- Vat
+- vacationist
+- vainest
+- vanguardist
+- vastest

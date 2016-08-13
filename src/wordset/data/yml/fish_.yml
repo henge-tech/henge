@@ -1,0 +1,53 @@
+---
+pattern: fish_
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 43
+score: 1912859
+score_per_word: 73571
+hi_scored_words:
+  fish: 1051
+  fishbowl: 61982
+  fished: 28841
+  fisher: 7172
+  fisheries: 8884
+  fisherman: 11532
+  fishermen: 11727
+  fishers: 30148
+  fishery: 15185
+  fishes: 11397
+  fisheye: 41685
+  fishhooks: 89784
+  fishing: 2231
+  fishmonger: 95791
+  fishnet: 38634
+  fishnets: 72480
+  fishpond: 86721
+  fishwife: 77796
+  fishy: 27687
+scored_words:
+  fishhook: 146547
+  fishmeal: 153137
+  fishmongers: 122100
+  fishponds: 133984
+  fishtail: 105661
+  fishtails: 247829
+  fishwives: 282873
+not_scored_words:
+- Fisher
+- fishbolt
+- fishbowls
+- fishcake
+- fishcakes
+- fishgig
+- fishgigs
+- fishier
+- fishiest
+- fishily
+- fishiness
+- fishplate
+- fishplates
+- fishtailed
+- fishtailing
+- fishworm
+- fishworms

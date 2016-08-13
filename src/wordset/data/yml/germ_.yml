@@ -1,0 +1,52 @@
+---
+pattern: germ_
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 42
+score: 1603880
+score_per_word: 100242
+hi_scored_words:
+  germ: 14930
+  german: 866
+  germane: 50793
+  germanic: 24178
+  germanium: 46280
+  germicidal: 86803
+  germinal: 64960
+  germinate: 58348
+  germinated: 91986
+  germinating: 84181
+  germination: 31242
+  germs: 22608
+scored_words:
+  germen: 326958
+  germicide: 209680
+  germicides: 291930
+  germinates: 198137
+not_scored_words:
+- German
+- Germanic
+- Germanism
+- Germanisms
+- Germanize
+- Germanophile
+- Germanophobe
+- Germans
+- Germantown
+- Germany
+- Germinal
+- Germiston
+- germander
+- germanders
+- germanely
+- germaneness
+- germanenesses
+- germanous
+- germier
+- germiest
+- germinable
+- germinally
+- germinant
+- germinative
+- germinator
+- germy

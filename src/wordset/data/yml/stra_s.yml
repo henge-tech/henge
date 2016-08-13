@@ -1,0 +1,61 @@
+---
+pattern: stra_s
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 51
+score: 1993436
+score_per_word: 71194
+hi_scored_words:
+  strabismus: 60643
+  straddles: 71232
+  stragglers: 69156
+  straighteners: 56791
+  straights: 59211
+  strainers: 80971
+  strains: 8697
+  straits: 17235
+  strands: 17769
+  strangeness: 36333
+  strangers: 6868
+  stranglers: 79408
+  strapless: 40442
+  straps: 12760
+  strategies: 1937
+  strategists: 46542
+  stratus: 34878
+  strawberries: 17167
+  straws: 35425
+  strays: 49173
+scored_words:
+  straightens: 108093
+  straightforwardness: 193231
+  straightness: 111696
+  straitjackets: 157132
+  strakes: 201908
+  strangles: 119782
+  stratagems: 132858
+  stratocumulus: 166098
+not_scored_words:
+- Stradivarius
+- Straus
+- Strauss
+- strabismuses
+- straddlers
+- strafes
+- straggles
+- straightaways
+- straightedges
+- straightforwards
+- straitens
+- straitness
+- strangleholds
+- strangulates
+- straphangers
+- straplesses
+- strappers
+- strategics
+- stratifies
+- stratospheres
+- strawboards
+- strawflowers
+- strawworms

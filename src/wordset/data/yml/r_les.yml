@@ -1,0 +1,71 @@
+---
+pattern: r_les
+hi_scored_words_count: 22
+scored_words_count: 13
+total_words: 61
+score: 3471935
+score_per_word: 99198
+hi_scored_words:
+  raffles: 29953
+  rambles: 50151
+  rationales: 62558
+  rattles: 40868
+  receivables: 33104
+  receptacles: 39965
+  reconciles: 83885
+  rectangles: 35334
+  recyclables: 75612
+  recycles: 69454
+  reptiles: 15273
+  resales: 94243
+  resembles: 14405
+  riddles: 27678
+  rifles: 10769
+  ripples: 34655
+  robles: 32628
+  roles: 8380
+  rubles: 38151
+  ruffles: 49728
+  rules: 765
+  rumbles: 52541
+scored_words:
+  radicles: 144571
+  rales: 171950
+  rankles: 227885
+  reassembles: 248131
+  regales: 298376
+  rekindles: 219966
+  reschedules: 269215
+  reshuffles: 177716
+  reticles: 239963
+  ridicules: 114284
+  riffles: 110891
+  riles: 107517
+  rustles: 241370
+not_scored_words:
+- Raffles
+- Robles
+- Roncesvalles
+- Rosales
+- Rules
+- rabbles
+- raddles
+- redoubles
+- refiles
+- rescales
+- resettles
+- resoles
+- restyles
+- reticules
+- returnables
+- reviles
+- ridgepoles
+- rigamaroles
+- rigmaroles
+- rissoles
+- rocailles
+- rocamboles
+- ruddles
+- rumples
+- rundles
+- rutiles

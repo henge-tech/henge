@@ -1,0 +1,38 @@
+---
+pattern: b_age
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 28
+score: 995326
+score_per_word: 55295
+hi_scored_words:
+  backstage: 17221
+  bacteriophage: 47207
+  badinage: 82555
+  baggage: 10174
+  bandage: 23802
+  barrage: 30054
+  beverage: 9061
+  birdcage: 59088
+  blockage: 34812
+  bondage: 7313
+  borage: 65710
+  breakage: 38543
+  brokerage: 22438
+scored_words:
+  baronetage: 100414
+  bocage: 137408
+  bricolage: 102755
+  brigandage: 101362
+  burgage: 105409
+not_scored_words:
+- Babbage
+- Burbage
+- baronage
+- bavardage
+- bibliophage
+- blindage
+- boscage
+- boskage
+- brewage
+- buoyage

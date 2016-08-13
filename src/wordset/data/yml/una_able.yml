@@ -1,0 +1,28 @@
+---
+pattern: una_able
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 18
+score: 1385359
+score_per_word: 92357
+hi_scored_words:
+  unacceptable: 16367
+  unaccountable: 45661
+  unaffordable: 76519
+  unalienable: 98514
+  unallowable: 85550
+  unalterable: 72044
+  unanswerable: 85817
+  unapproachable: 89967
+  unassailable: 79480
+  unattainable: 42435
+  unavailable: 16082
+  unavoidable: 18456
+scored_words:
+  unachievable: 133306
+  unappeasable: 241265
+  unarguable: 283896
+not_scored_words:
+- unadvisable
+- unappealable
+- unattributable

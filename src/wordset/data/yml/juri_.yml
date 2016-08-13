@@ -1,0 +1,26 @@
+---
+pattern: juri_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 698935
+score_per_word: 63539
+hi_scored_words:
+  juridical: 54456
+  juries: 31669
+  jurisdiction: 4335
+  jurisdictional: 27720
+  jurisdictions: 17935
+  jurisprudence: 19241
+  jurist: 32971
+  jurists: 50796
+scored_words:
+  jurisconsult: 162895
+  jurisprudential: 175007
+  juristic: 121910
+not_scored_words:
+- juridic
+- juridically
+- jurisp
+- jurisprudent
+- juristical

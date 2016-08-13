@@ -1,0 +1,28 @@
+---
+pattern: f_ant
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 1041028
+score_per_word: 94638
+hi_scored_words:
+  fabricant: 98624
+  flagrant: 35966
+  flamboyant: 36866
+  flippant: 57510
+  fondant: 61229
+  formant: 85021
+  fragrant: 16701
+  fulminant: 99724
+scored_words:
+  figurant: 240384
+  flagellant: 170706
+  fumigant: 138297
+not_scored_words:
+- Feuillant
+- faineant
+- fainéant
+- flocculant
+- fluctuant
+- foudroyant
+- fulgurant

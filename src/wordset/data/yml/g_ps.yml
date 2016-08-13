@@ -1,0 +1,39 @@
+---
+pattern: g_ps
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 29
+score: 2000245
+score_per_word: 111124
+hi_scored_words:
+  gallops: 99157
+  gaps: 8903
+  gasps: 45649
+  goosebumps: 52472
+  gossips: 65709
+  gramps: 56798
+  grasps: 67980
+  grips: 16426
+  groups: 1130
+  grownups: 57274
+  gunships: 92749
+scored_words:
+  gimps: 135143
+  gingersnaps: 322008
+  governorships: 233743
+  grumps: 169055
+  gulps: 109805
+  gumdrops: 241469
+  gyps: 224775
+not_scored_words:
+- GPS
+- gamps
+- gawps
+- gazumps
+- genipaps
+- genips
+- gigaflops
+- goosesteps
+- gorps
+- greps
+- gymslips

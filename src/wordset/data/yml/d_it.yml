@@ -1,0 +1,33 @@
+---
+pattern: d_it
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 23
+score: 1221535
+score_per_word: 67863
+hi_scored_words:
+  dammit: 22096
+  debit: 18036
+  deceit: 20751
+  decrepit: 47592
+  deficit: 8987
+  delimit: 73210
+  demerit: 73769
+  deposit: 4239
+  digit: 9089
+  discredit: 24176
+  dit: 15025
+  doit: 33241
+  droit: 26799
+scored_words:
+  davit: 109229
+  dimwit: 137379
+  discomfit: 231331
+  disinherit: 186685
+  distrait: 179901
+not_scored_words:
+- Detroit
+- dacoit
+- demit
+- disaccredit
+- dispirit

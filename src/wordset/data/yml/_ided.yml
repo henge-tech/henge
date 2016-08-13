@@ -1,0 +1,52 @@
+---
+pattern: _ided
+hi_scored_words_count: 27
+scored_words_count: 6
+total_words: 42
+score: 2018704
+score_per_word: 61172
+hi_scored_words:
+  aided: 8791
+  avoided: 6334
+  braided: 24962
+  chided: 82021
+  coincided: 32914
+  collided: 42636
+  confided: 37660
+  decided: 1282
+  derided: 62104
+  divided: 3098
+  glided: 52881
+  guided: 4833
+  lopsided: 46879
+  misguided: 20423
+  presided: 25610
+  prided: 74666
+  provided: 531
+  raided: 32180
+  resided: 21422
+  sided: 11027
+  subdivided: 27638
+  subsided: 36529
+  unaided: 43303
+  undecided: 20247
+  undivided: 29614
+  unguided: 93819
+  voided: 57896
+scored_words:
+  blindsided: 109983
+  elided: 153405
+  invalided: 239447
+  tided: 214659
+  unprovided: 213997
+  upbraided: 185913
+not_scored_words:
+- betided
+- broadsided
+- hided
+- peroxided
+- plaided
+- pyramided
+- redivided
+- sobersided
+- unbraided

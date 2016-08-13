@@ -1,0 +1,44 @@
+---
+pattern: _ub
+hi_scored_words_count: 22
+scored_words_count: 6
+total_words: 34
+score: 2034714
+score_per_word: 72668
+hi_scored_words:
+  bathtub: 19254
+  brewpub: 83202
+  bub: 43033
+  cherub: 36006
+  chub: 44887
+  club: 1081
+  cub: 14659
+  daub: 93869
+  dub: 15980
+  grub: 17370
+  hub: 11210
+  hubbub: 56128
+  nightclub: 19210
+  nub: 61073
+  pub: 3513
+  rub: 8350
+  scrub: 11664
+  shrub: 16653
+  snub: 41641
+  stub: 21680
+  sub: 3353
+  tub: 6859
+scored_words:
+  drub: 325163
+  flub: 203506
+  overdub: 152565
+  slub: 195658
+  subshrub: 276278
+  washtub: 250869
+not_scored_words:
+- Beelzebub
+- Cub
+- GitHub
+- bedaub
+- syllabub
+- undershrub

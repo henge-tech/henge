@@ -1,0 +1,43 @@
+---
+pattern: sub_ed
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 33
+score: 2004335
+score_per_word: 74234
+hi_scored_words:
+  subbed: 83963
+  subcontracted: 78163
+  subdivided: 27638
+  subdued: 18689
+  subjected: 7812
+  subjugated: 71960
+  submerged: 20585
+  submitted: 2159
+  subordinated: 31681
+  subpoenaed: 61814
+  subscribed: 13060
+  subsided: 36529
+  subsidized: 26793
+  substantiated: 40292
+  substituted: 10361
+  subsumed: 53478
+  subtitled: 28279
+  subtracted: 36925
+  subverted: 72103
+scored_words:
+  subducted: 179319
+  subjoined: 142504
+  subleased: 298518
+  sublimated: 100772
+  submersed: 152751
+  suborned: 147372
+  subsisted: 116207
+  subtended: 144608
+not_scored_words:
+- subedited
+- sublimed
+- subserved
+- subtilized
+- subtotaled
+- suburbanized

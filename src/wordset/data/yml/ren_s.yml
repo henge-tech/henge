@@ -1,0 +1,38 @@
+---
+pattern: ren_s
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 28
+score: 1363435
+score_per_word: 80202
+hi_scored_words:
+  renames: 79709
+  renderings: 52289
+  renders: 15109
+  rendezvous: 15214
+  renditions: 51827
+  renegades: 51199
+  renewals: 33439
+  renews: 45632
+  renounces: 86633
+  renovations: 18474
+  rentals: 5853
+  renters: 25052
+  rents: 14011
+scored_words:
+  rends: 131296
+  reneges: 310641
+  renovates: 290762
+  renovators: 136295
+not_scored_words:
+- Renaissances
+- Rennes
+- renaissances
+- renascences
+- rendezvouses
+- renegers
+- renegotiates
+- renominates
+- rentiers
+- renumbers
+- renunciations

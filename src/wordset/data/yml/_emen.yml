@@ -1,0 +1,48 @@
+---
+pattern: _emen
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 38
+score: 1985783
+score_per_word: 86338
+hi_scored_words:
+  cattlemen: 57663
+  cavemen: 90098
+  firemen: 28785
+  foremen: 60785
+  freemen: 58189
+  gentlemen: 5291
+  horsemen: 23447
+  linemen: 62732
+  middlemen: 62694
+  minutemen: 43333
+  noblemen: 59950
+  policemen: 20435
+  riflemen: 72788
+  semen: 23042
+  servicemen: 32579
+scored_words:
+  basemen: 101533
+  committeemen: 281629
+  foemen: 173304
+  longshoremen: 111181
+  musclemen: 182912
+  sidemen: 158812
+  spacemen: 101829
+  warehousemen: 172772
+not_scored_words:
+- Bremen
+- Norsemen
+- Orangemen
+- Yemen
+- ambulancemen
+- apemen
+- bargemen
+- brakemen
+- excisemen
+- housemen
+- icemen
+- liegemen
+- placemen
+- stablemen
+- veniremen

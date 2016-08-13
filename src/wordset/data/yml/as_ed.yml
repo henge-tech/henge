@@ -1,0 +1,45 @@
+---
+pattern: as_ed
+hi_scored_words_count: 24
+scored_words_count: 4
+total_words: 35
+score: 1407771
+score_per_word: 50277
+hi_scored_words:
+  ascended: 20004
+  ascertained: 19595
+  ascribed: 21689
+  ashamed: 8694
+  asked: 466
+  aspirated: 62072
+  aspired: 58917
+  assailed: 52187
+  assassinated: 28491
+  assaulted: 22976
+  assayed: 54046
+  assembled: 5856
+  assented: 43726
+  asserted: 9942
+  assessed: 10038
+  assigned: 2630
+  assimilated: 33801
+  assisted: 4687
+  associated: 898
+  assorted: 14952
+  assumed: 3432
+  assured: 4896
+  astonished: 21850
+  astounded: 34926
+scored_words:
+  asphalted: 293111
+  asphyxiated: 189512
+  assuaged: 144197
+  asterisked: 240180
+not_scored_words:
+- ashed
+- aspersed
+- asseverated
+- assibilated
+- assoiled
+- asteriated
+- astonied

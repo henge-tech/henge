@@ -1,0 +1,26 @@
+---
+pattern: dedu_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 16
+score: 1170132
+score_per_word: 73133
+hi_scored_words:
+  deduce: 27421
+  deduced: 27438
+  deduct: 24450
+  deducted: 21002
+  deductibility: 94110
+  deductible: 10332
+  deductibles: 59725
+  deducting: 51032
+  deduction: 10919
+  deductions: 14493
+  deductive: 41975
+scored_words:
+  deduces: 139903
+  deducible: 166262
+  deducing: 113457
+  deductively: 211274
+  deducts: 156339
+not_scored_words: []

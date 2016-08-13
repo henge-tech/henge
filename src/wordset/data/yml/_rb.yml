@@ -1,0 +1,42 @@
+---
+pattern: _rb
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 32
+score: 1421547
+score_per_word: 64615
+hi_scored_words:
+  absorb: 11848
+  adverb: 40286
+  arb: 35940
+  barb: 19741
+  blurb: 34031
+  curb: 10148
+  disturb: 12988
+  garb: 28861
+  herb: 8249
+  orb: 14721
+  perturb: 93705
+  proverb: 24415
+  reverb: 29824
+  rhubarb: 30351
+  suburb: 11653
+  superb: 5861
+  verb: 8143
+scored_words:
+  adsorb: 124754
+  desorb: 334363
+  forb: 119991
+  reabsorb: 290102
+  sorb: 131572
+not_scored_words:
+- NLRB
+- Rb
+- Serb
+- Sorb
+- acerb
+- bicarb
+- chemisorb
+- cowherb
+- exurb
+- potherb

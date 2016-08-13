@@ -1,0 +1,54 @@
+---
+pattern: m_ks
+hi_scored_words_count: 10
+scored_words_count: 12
+total_words: 44
+score: 2433621
+score_per_word: 110619
+hi_scored_words:
+  marks: 2561
+  masks: 10141
+  masterworks: 56309
+  mavericks: 22494
+  methinks: 33361
+  milks: 71498
+  mks: 49053
+  mocks: 51280
+  mollusks: 59615
+  monks: 9974
+scored_words:
+  macks: 119361
+  matchbooks: 149038
+  matchsticks: 198956
+  mattocks: 170421
+  megabucks: 127075
+  micks: 177394
+  millworks: 248232
+  minks: 119553
+  moonwalks: 191832
+  mountebanks: 146233
+  mucks: 179929
+  mukluks: 239311
+not_scored_words:
+- Marks
+- Micks
+- Mohawks
+- mafficks
+- mahlsticks
+- matchlocks
+- maulsticks
+- meadowlarks
+- medicks
+- menfolks
+- meshworks
+- midweeks
+- misspeaks
+- mossbacks
+- motortrucks
+- moujiks
+- mudlarks
+- mudpacks
+- mujiks
+- multitasks
+- murks
+- muzhiks

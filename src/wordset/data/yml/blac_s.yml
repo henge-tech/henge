@@ -1,0 +1,40 @@
+---
+pattern: blac_s
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 30
+score: 1899639
+score_per_word: 118727
+hi_scored_words:
+  blackberries: 48268
+  blackbirds: 63622
+  blackheads: 88886
+  blacklists: 96575
+  blackness: 34823
+  blackouts: 45498
+  blacks: 6865
+  blacksmiths: 61496
+scored_words:
+  blackamoors: 232188
+  blackboards: 114399
+  blackcurrants: 248501
+  blackguards: 111497
+  blackhearts: 191097
+  blackjacks: 133579
+  blackmailers: 202551
+  blackmails: 219794
+not_scored_words:
+- Blacks
+- blackballs
+- blackbodies
+- blackcaps
+- blackcocks
+- blackdamps
+- blackens
+- blackfaces
+- blacklegs
+- blackpolls
+- blacksnakes
+- blacktails
+- blackthorns
+- blacktops

@@ -1,0 +1,54 @@
+---
+pattern: im_ity
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 44
+score: 2604663
+score_per_word: 113246
+hi_scored_words:
+  immaturity: 53507
+  immensity: 59845
+  immobility: 58868
+  immorality: 35043
+  immortality: 17027
+  immunity: 10993
+  impartiality: 31453
+  impossibility: 25003
+  improbability: 98273
+  impulsivity: 90501
+  impunity: 23347
+  impurity: 30618
+scored_words:
+  imbecility: 128214
+  immutability: 127461
+  impenetrability: 288418
+  impermeability: 288217
+  impersonality: 214192
+  imperturbability: 127124
+  impetuosity: 119721
+  implausibility: 246487
+  importunity: 143989
+  impracticability: 174249
+  impracticality: 212113
+not_scored_words:
+- immateriality
+- immeasurability
+- immiscibility
+- immovability
+- impalpability
+- imparity
+- impassability
+- impassibility
+- impassivity
+- impeccability
+- impecuniosity
+- imperceptibility
+- imperishability
+- impermissibility
+- implacability
+- imponderability
+- impregnability
+- impressibility
+- impressionability
+- improbity
+- impudicity

@@ -1,0 +1,36 @@
+---
+pattern: acc_ing
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 26
+score: 2024521
+score_per_word: 88022
+hi_scored_words:
+  acceding: 70576
+  accelerating: 22954
+  accentuating: 98027
+  accepting: 4946
+  accessing: 12361
+  accommodating: 22583
+  accompanying: 6727
+  accomplishing: 20239
+  according: 622
+  accounting: 4968
+  accrediting: 40095
+  accruing: 40324
+  accumulating: 23538
+  accusing: 18641
+scored_words:
+  accenting: 112317
+  accessioning: 304924
+  accessorizing: 186217
+  acclaiming: 149293
+  acclimating: 206388
+  acclimatizing: 215582
+  accosting: 187166
+  accreting: 149291
+  accustoming: 126742
+not_scored_words:
+- accoutering
+- accoutring
+- acculturating

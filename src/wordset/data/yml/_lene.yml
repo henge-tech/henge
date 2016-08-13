@@ -1,0 +1,46 @@
+---
+pattern: _lene
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 36
+score: 1630881
+score_per_word: 116491
+hi_scored_words:
+  acetylene: 38893
+  ethylene: 23955
+  methylene: 41070
+  naphthalene: 56383
+  polyethylene: 24844
+  polypropylene: 30144
+  propylene: 43595
+  xylene: 51641
+scored_words:
+  butylene: 176736
+  methylnaphthalene: 273670
+  oxyacetylene: 235793
+  scalene: 191368
+  squalene: 112972
+  tetrafluoroethylene: 329817
+not_scored_words:
+- Abilene
+- Arlene
+- Carlene
+- Charlene
+- Darlene
+- Earlene
+- Helene
+- Hellene
+- Ilene
+- Jolene
+- Magdalene
+- Marlene
+- Mytilene
+- Selene
+- Sharlene
+- Terylene
+- amylene
+- mesitylene
+- paraselene
+- philhellene
+- rhigolene
+- trichlorethylene

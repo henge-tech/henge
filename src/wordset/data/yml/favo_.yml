@@ -1,0 +1,23 @@
+---
+pattern: favo_
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 13
+score: 141943
+score_per_word: 15771
+hi_scored_words:
+  favor: 2881
+  favorable: 6974
+  favorably: 19862
+  favored: 12629
+  favoring: 31343
+  favorite: 1426
+  favorites: 5121
+  favoritism: 53954
+  favors: 7753
+scored_words: {}
+not_scored_words:
+- favonian
+- favorableness
+- favorablenesses
+- favorer

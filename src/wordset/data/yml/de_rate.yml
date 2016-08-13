@@ -1,0 +1,29 @@
+---
+pattern: de_rate
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 19
+score: 462858
+score_per_word: 46285
+hi_scored_words:
+  decorate: 15467
+  degenerate: 20522
+  dehydrate: 99160
+  deliberate: 9580
+  demonstrate: 5097
+  denigrate: 67489
+  desecrate: 90010
+  desperate: 3731
+  deteriorate: 33371
+scored_words:
+  decelerate: 118431
+not_scored_words:
+- decemvirate
+- decerebrate
+- deconsecrate
+- defenestrate
+- deflagrate
+- denitrate
+- depurate
+- desiderate
+- dextrogyrate

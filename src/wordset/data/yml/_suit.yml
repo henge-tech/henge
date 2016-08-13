@@ -1,0 +1,27 @@
+---
+pattern: _suit
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 17
+score: 1350244
+score_per_word: 90016
+hi_scored_words:
+  bodysuit: 75520
+  catsuit: 87680
+  jumpsuit: 51093
+  lawsuit: 9689
+  pursuit: 5459
+  spacesuit: 99789
+  suit: 2173
+  swimsuit: 18255
+  tracksuit: 43534
+  wetsuit: 40758
+scored_words:
+  nonsuit: 305938
+  pantsuit: 154786
+  playsuit: 161468
+  snowsuit: 124312
+  sweatsuit: 169790
+not_scored_words:
+- Jesuit
+- sunsuit

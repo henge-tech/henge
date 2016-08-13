@@ -1,0 +1,25 @@
+---
+pattern: c_mp
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 15
+score: 710761
+score_per_word: 54673
+hi_scored_words:
+  camp: 1325
+  champ: 13168
+  chimp: 25041
+  chomp: 48302
+  chump: 39856
+  clamp: 19838
+  clump: 31842
+  comp: 7686
+  contemp: 77536
+  cramp: 32014
+  crimp: 40371
+  crump: 46135
+scored_words:
+  counterstamp: 327647
+not_scored_words:
+- chokedamp
+- clomp

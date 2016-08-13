@@ -1,0 +1,29 @@
+---
+pattern: int_er
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 19
+score: 1428988
+score_per_word: 95265
+hi_scored_words:
+  integer: 9902
+  intelligencer: 41250
+  intensifier: 85532
+  inter: 5687
+  interferometer: 45652
+  interloper: 83677
+  interpreter: 9308
+  interviewer: 23085
+  intruder: 17754
+scored_words:
+  intenser: 179689
+  interferer: 279382
+  interpleader: 257423
+  interrupter: 114977
+  intervener: 158135
+  intriguer: 117535
+not_scored_words:
+- interceder
+- interposer
+- intervalometer
+- intoner

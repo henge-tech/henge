@@ -1,0 +1,39 @@
+---
+pattern: ina_y
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 29
+score: 1612561
+score_per_word: 107504
+hi_scored_words:
+  inability: 8370
+  inaccessibility: 96156
+  inaccuracy: 36871
+  inaccurately: 78868
+  inactivity: 24315
+  inadequacy: 37422
+  inadequately: 48067
+  inadvertently: 20701
+  inappropriately: 38229
+scored_words:
+  inadmissibility: 167131
+  inadvertency: 189424
+  inanely: 318211
+  inanity: 107718
+  inapplicability: 213277
+  inaudibly: 227801
+not_scored_words:
+- inaccessibly
+- inactively
+- inadmissibly
+- inadvisability
+- inalienability
+- inalienably
+- inanimately
+- inappreciably
+- inaptly
+- inarticulacy
+- inarticulately
+- inattentively
+- inaudibility
+- inauspiciously

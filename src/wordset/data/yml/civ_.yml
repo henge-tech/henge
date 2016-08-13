@@ -1,0 +1,31 @@
+---
+pattern: civ_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 21
+score: 1226919
+score_per_word: 72171
+hi_scored_words:
+  civ: 20463
+  civet: 87772
+  civic: 6564
+  civics: 33639
+  civil: 1224
+  civilian: 7381
+  civilians: 10487
+  civility: 29264
+  civilization: 4986
+  civilizations: 20488
+  civilized: 13884
+  civilizing: 93852
+  civilly: 78387
+scored_words:
+  civets: 290208
+  civilities: 143855
+  civilize: 113486
+  civvies: 270979
+not_scored_words:
+- civically
+- civilizer
+- civilizes
+- civism

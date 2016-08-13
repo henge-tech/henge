@@ -1,0 +1,40 @@
+---
+pattern: ex_nt
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 30
+score: 1284958
+score_per_word: 61188
+hi_scored_words:
+  excellent: 967
+  excitement: 4991
+  excrement: 48891
+  exeunt: 66552
+  exigent: 72552
+  existent: 18890
+  exorbitant: 38049
+  expectant: 28639
+  expectorant: 85573
+  expedient: 21359
+  experiment: 3144
+  exponent: 22289
+  extant: 21465
+  extent: 1733
+  extravagant: 20513
+  exuberant: 33427
+scored_words:
+  excipient: 200343
+  exfoliant: 142299
+  explant: 190615
+  expungement: 140044
+  exultant: 122623
+not_scored_words:
+- examinant
+- excitant
+- excrescent
+- excurrent
+- executant
+- exhalant
+- exhilarant
+- expellant
+- extolment

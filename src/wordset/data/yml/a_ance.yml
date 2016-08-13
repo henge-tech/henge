@@ -1,0 +1,42 @@
+---
+pattern: a_ance
+hi_scored_words_count: 22
+scored_words_count: 3
+total_words: 32
+score: 868875
+score_per_word: 34755
+hi_scored_words:
+  abeyance: 57874
+  absorbance: 50835
+  abundance: 6470
+  acceptance: 3058
+  accordance: 2669
+  acquaintance: 11669
+  admittance: 31406
+  advance: 1339
+  allegiance: 11767
+  alliance: 2856
+  allowance: 6145
+  ambiance: 29565
+  ambulance: 9474
+  annoyance: 18258
+  appearance: 2042
+  appliance: 16094
+  arrogance: 16595
+  askance: 83264
+  assistance: 1330
+  assurance: 4341
+  attendance: 4179
+  avoidance: 14480
+scored_words:
+  appurtenance: 191137
+  ascendance: 120534
+  assonance: 171494
+not_scored_words:
+- aberrance
+- abidance
+- absorptance
+- acquittance
+- acutance
+- adamance
+- affiance

@@ -1,0 +1,26 @@
+---
+pattern: e_ced
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 393657
+score_per_word: 39365
+hi_scored_words:
+  embraced: 10738
+  enforced: 9369
+  enhanced: 4946
+  ensconced: 76562
+  enticed: 54846
+  entranced: 59403
+  evidenced: 18654
+  evinced: 51108
+  experienced: 2148
+scored_words:
+  effaced: 105883
+not_scored_words:
+- educed
+- effervesced
+- effloresced
+- enlaced
+- enounced
+- evanesced

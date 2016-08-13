@@ -1,0 +1,33 @@
+---
+pattern: pea_s
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 23
+score: 709567
+score_per_word: 54582
+hi_scored_words:
+  peacefulness: 91912
+  peacekeepers: 40416
+  peacemakers: 61822
+  peaches: 17930
+  peacocks: 56631
+  peaks: 8373
+  peals: 95431
+  peanuts: 17179
+  pearls: 10117
+  pears: 19933
+  peas: 8206
+  peasants: 13217
+scored_words:
+  peaces: 268400
+not_scored_words:
+- peacoats
+- peafowls
+- peags
+- peahens
+- peans
+- peartrees
+- peasecods
+- peashooters
+- peatmoss
+- peaveys

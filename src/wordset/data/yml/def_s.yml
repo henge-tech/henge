@@ -1,0 +1,76 @@
+---
+pattern: def_s
+hi_scored_words_count: 24
+scored_words_count: 14
+total_words: 66
+score: 3936736
+score_per_word: 103598
+hi_scored_words:
+  defaults: 15473
+  defeats: 20662
+  defections: 89980
+  defectors: 71145
+  defects: 6021
+  defendants: 14135
+  defenders: 13655
+  defends: 17714
+  defenseless: 49118
+  defenses: 17859
+  defensiveness: 96584
+  defers: 90573
+  defibrillators: 59266
+  deficiencies: 13254
+  deficits: 23316
+  defies: 35273
+  defines: 9195
+  definiteness: 91045
+  definitions: 6536
+  deflections: 74873
+  deflectors: 79657
+  deflects: 86102
+  deformations: 47925
+  deformities: 47352
+scored_words:
+  defaces: 296103
+  defames: 283101
+  defaulters: 117643
+  defeatists: 235419
+  defectives: 223846
+  deferments: 137362
+  deferrals: 107469
+  defiles: 142897
+  definiens: 281990
+  deflates: 163655
+  deflators: 204112
+  defoliants: 303422
+  deforms: 153997
+  deftness: 209007
+not_scored_words:
+- defacers
+- defalcates
+- defalcations
+- defamers
+- defeaters
+- defecates
+- defectiveness
+- defenestrations
+- defenselessness
+- defibrillations
+- defilades
+- defilers
+- definers
+- definitiveness
+- deflowers
+- defoggers
+- defogs
+- defoliates
+- defoliators
+- deforests
+- defrauders
+- defrauds
+- defrayments
+- defrays
+- defrocks
+- defrosters
+- defrosts
+- defuses

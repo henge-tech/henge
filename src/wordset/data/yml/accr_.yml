@@ -1,0 +1,32 @@
+---
+pattern: accr_
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 22
+score: 1496516
+score_per_word: 83139
+hi_scored_words:
+  accredit: 81484
+  accreditation: 8337
+  accredited: 9341
+  accrediting: 40095
+  accretion: 38223
+  accrual: 35243
+  accruals: 75140
+  accrue: 23791
+  accrued: 20340
+  accrues: 57073
+  accruing: 40324
+scored_words:
+  accredits: 117835
+  accrete: 214604
+  accreted: 108758
+  accreting: 149291
+  accretionary: 199947
+  accretions: 145099
+  accretive: 131591
+not_scored_words:
+- Accra
+- accrescent
+- accretes
+- accroach

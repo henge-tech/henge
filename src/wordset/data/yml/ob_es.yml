@@ -1,0 +1,41 @@
+---
+pattern: ob_es
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 31
+score: 2543038
+score_per_word: 115592
+hi_scored_words:
+  obituaries: 16798
+  objectives: 8135
+  obliges: 64071
+  oboes: 91185
+  obscenities: 67003
+  obscures: 60977
+  observables: 63682
+  observances: 41838
+  observatories: 49904
+  observes: 17338
+  obstacles: 8632
+scored_words:
+  obeisances: 241336
+  obfuscates: 301370
+  obligates: 108625
+  obliques: 174982
+  obliterates: 150222
+  obscurities: 165151
+  obsequies: 153041
+  obsesses: 204468
+  obsessives: 282667
+  obsoletes: 148410
+  obviates: 123203
+not_scored_words:
+- objectifies
+- objurgates
+- oblatenesses
+- obligingnesses
+- obscurenesses
+- obsolesces
+- obsoletenesses
+- obtrudes
+- obverses

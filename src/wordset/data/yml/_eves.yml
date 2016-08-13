@@ -1,0 +1,35 @@
+---
+pattern: _eves
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 25
+score: 1513208
+score_per_word: 94575
+hi_scored_words:
+  achieves: 21449
+  believes: 3746
+  eves: 56390
+  grieves: 55348
+  peeves: 53161
+  reeves: 18594
+  relieves: 33673
+  retrieves: 32591
+  sieves: 77391
+  sleeves: 13984
+  thieves: 10210
+scored_words:
+  beeves: 118285
+  breves: 185513
+  disbelieves: 278069
+  reprieves: 296067
+  shirtsleeves: 258737
+not_scored_words:
+- Greensleeves
+- Jeeves
+- Nieves
+- Reeves
+- aggrieves
+- misbelieves
+- overachieves
+- semibreves
+- underachieves

@@ -1,0 +1,49 @@
+---
+pattern: m_ring
+hi_scored_words_count: 22
+scored_words_count: 10
+total_words: 39
+score: 2599312
+score_per_word: 81228
+hi_scored_words:
+  majoring: 31930
+  maneuvering: 43211
+  manufacturing: 3355
+  mastering: 15430
+  maturing: 29677
+  meandering: 44015
+  measuring: 13246
+  mentoring: 12231
+  metering: 21155
+  ministering: 52464
+  mirroring: 28663
+  mongering: 54292
+  monitoring: 6278
+  mooring: 39199
+  mothering: 47280
+  motoring: 20437
+  mountaineering: 24632
+  mouthwatering: 93721
+  murdering: 26026
+  murmuring: 52349
+  mustering: 92206
+  muttering: 49779
+scored_words:
+  mainspring: 112202
+  malingering: 126990
+  manicuring: 184578
+  manuring: 195857
+  marring: 111162
+  massacring: 166542
+  mattering: 251116
+  minoring: 185593
+  misfiring: 170655
+  moldering: 293041
+not_scored_words:
+- martyring
+- maundering
+- miring
+- mishearing
+- misremembering
+- mitering
+- mortaring

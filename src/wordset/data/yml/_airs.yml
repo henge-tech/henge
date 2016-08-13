@@ -1,0 +1,36 @@
+---
+pattern: _airs
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 26
+score: 1426537
+score_per_word: 64842
+hi_scored_words:
+  affairs: 1381
+  airs: 14765
+  armchairs: 58164
+  chairs: 3689
+  corsairs: 94927
+  downstairs: 10449
+  fairs: 13494
+  hairs: 21356
+  highchairs: 63122
+  impairs: 53793
+  pairs: 5337
+  repairs: 6210
+  stairs: 5455
+  upstairs: 7730
+  wheelchairs: 25896
+scored_words:
+  deckchairs: 186902
+  despairs: 160905
+  eclairs: 186565
+  flairs: 138755
+  lairs: 105166
+  pushchairs: 101711
+  éclairs: 160765
+not_scored_words:
+- backstairs
+- funfairs
+- longhairs
+- wirehairs

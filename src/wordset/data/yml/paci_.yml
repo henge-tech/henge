@@ -1,0 +1,30 @@
+---
+pattern: paci_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 20
+score: 963284
+score_per_word: 80273
+hi_scored_words:
+  pacific: 1894
+  pacification: 81812
+  pacified: 87717
+  pacifier: 42404
+  pacifiers: 85692
+  pacifism: 54399
+  pacifist: 38727
+  pacifists: 73004
+  pacify: 56459
+  pacing: 20635
+scored_words:
+  pacifistic: 271109
+  pacifying: 149432
+not_scored_words:
+- Pacific
+- Pacino
+- pacier
+- paciest
+- pacifically
+- pacificatory
+- pacificism
+- pacifies

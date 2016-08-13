@@ -1,0 +1,34 @@
+---
+pattern: surv_
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 24
+score: 1315889
+score_per_word: 59813
+hi_scored_words:
+  surv: 57773
+  surveillance: 7865
+  survey: 2152
+  surveyed: 11035
+  surveying: 12964
+  surveyor: 16955
+  surveyors: 24154
+  surveys: 5840
+  survivability: 46504
+  survivable: 88188
+  survival: 5426
+  survive: 4283
+  survived: 7202
+  survives: 20080
+  surviving: 8739
+  survivor: 10447
+  survivors: 7952
+scored_words:
+  surveil: 168126
+  surveilled: 303057
+  survivalist: 104053
+  survivalists: 282506
+  survivals: 120588
+not_scored_words:
+- surveilling
+- surveils

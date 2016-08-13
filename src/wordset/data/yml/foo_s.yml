@@ -1,0 +1,49 @@
+---
+pattern: foo_s
+hi_scored_words_count: 16
+scored_words_count: 11
+total_words: 39
+score: 2778029
+score_per_word: 102889
+hi_scored_words:
+  foodies: 75269
+  foods: 4073
+  foodstuffs: 30982
+  foolishness: 30208
+  fools: 7922
+  footballers: 34557
+  footballs: 33078
+  footers: 57732
+  foothills: 23374
+  footings: 68656
+  footlights: 94700
+  footnotes: 12866
+  footpaths: 54410
+  footprints: 20731
+  foots: 93783
+  footsteps: 11577
+scored_words:
+  fooleries: 250584
+  footboards: 121205
+  footbridges: 239418
+  footfalls: 134173
+  footholds: 186985
+  footless: 183443
+  footlockers: 290391
+  footmarks: 142486
+  footpads: 271489
+  footrests: 158423
+  footstools: 145514
+not_scored_words:
+- foolhardiness
+- footgears
+- footles
+- footlessness
+- footlings
+- footplates
+- footraces
+- footsies
+- footslogs
+- footsoreness
+- footstalls
+- footwalls

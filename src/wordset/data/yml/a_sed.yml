@@ -1,0 +1,36 @@
+---
+pattern: a_sed
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 26
+score: 1474021
+score_per_word: 70191
+hi_scored_words:
+  abused: 8764
+  accessed: 6122
+  accursed: 47069
+  accused: 4060
+  addressed: 2666
+  advertised: 9910
+  advised: 4380
+  aliased: 91708
+  amassed: 33144
+  amused: 16284
+  appeased: 65244
+  appraised: 29394
+  apprised: 55148
+  aroused: 19932
+  arsed: 68472
+  assessed: 10038
+scored_words:
+  abased: 155530
+  abscessed: 311676
+  ankylosed: 156262
+  apposed: 143739
+  appressed: 234479
+not_scored_words:
+- abscised
+- affranchised
+- aggressed
+- anastomosed
+- aspersed

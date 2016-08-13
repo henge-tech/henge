@@ -1,0 +1,41 @@
+---
+pattern: _etes
+hi_scored_words_count: 11
+scored_words_count: 10
+total_words: 31
+score: 2414793
+score_per_word: 114990
+hi_scored_words:
+  athletes: 10842
+  competes: 29882
+  completes: 14272
+  concretes: 92800
+  deletes: 23803
+  diabetes: 6916
+  fetes: 81198
+  gametes: 70279
+  machetes: 92403
+  secretes: 79733
+  triathletes: 93500
+scored_words:
+  actinomycetes: 149989
+  aesthetes: 292741
+  ascomycetes: 171150
+  basidiomycetes: 205929
+  depletes: 116413
+  excretes: 255394
+  metes: 125161
+  obsoletes: 148410
+  polychaetes: 189190
+  spirochetes: 164788
+not_scored_words:
+- Philoctetes
+- accretes
+- aretes
+- decathletes
+- ferroconcretes
+- isogametes
+- myxomycetes
+- oligochaetes
+- pentathletes
+- repletes

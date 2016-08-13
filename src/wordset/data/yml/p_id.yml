@@ -1,0 +1,51 @@
+---
+pattern: p_id
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 41
+score: 2130186
+score_per_word: 96826
+hi_scored_words:
+  paid: 700
+  pallid: 50018
+  paranoid: 17024
+  parathyroid: 40579
+  parotid: 69973
+  phospholipid: 48490
+  placid: 20849
+  plaid: 16282
+  plasmid: 24825
+  plastid: 96495
+  postpaid: 80701
+  prepaid: 19490
+  putrid: 53272
+  pyramid: 9506
+scored_words:
+  paraboloid: 207464
+  paratyphoid: 211440
+  pellucid: 181572
+  perfervid: 202058
+  planetoid: 165955
+  polyploid: 205367
+  polypoid: 262614
+  psid: 145512
+not_scored_words:
+- Perseid
+- Polaroid
+- Premyslid
+- parlormaid
+- pavid
+- pentagrid
+- peracid
+- petaloid
+- phylloid
+- pinguid
+- pinnatifid
+- placoid
+- pongid
+- porphyroid
+- prehominid
+- prismatoid
+- prismoid
+- pyoid
+- pyralid

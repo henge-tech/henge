@@ -1,0 +1,24 @@
+---
+pattern: w_kers
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 855173
+score_per_word: 77743
+hi_scored_words:
+  walkers: 27522
+  wankers: 70731
+  whiskers: 32720
+  winemakers: 65508
+  woodpeckers: 61821
+  woodworkers: 73325
+  workers: 2084
+  wreckers: 64096
+scored_words:
+  watchmakers: 112818
+  wickers: 152515
+  windbreakers: 192033
+not_scored_words:
+- whackers
+- whickers
+- winkers

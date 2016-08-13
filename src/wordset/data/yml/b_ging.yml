@@ -1,0 +1,40 @@
+---
+pattern: b_ging
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 30
+score: 1362610
+score_per_word: 75700
+hi_scored_words:
+  bagging: 48652
+  banging: 15990
+  barging: 91209
+  begging: 11561
+  belonging: 6002
+  blogging: 5623
+  bootlegging: 96899
+  bragging: 28306
+  bridging: 24584
+  bringing: 2380
+  bugging: 37358
+  bulging: 35370
+scored_words:
+  bandaging: 117033
+  begrudging: 228440
+  besieging: 107317
+  binging: 156296
+  bogging: 156941
+  budging: 192649
+not_scored_words:
+- backlogging
+- ballyragging
+- barraging
+- befogging
+- blacklegging
+- blagging
+- bodging
+- bonging
+- boomeranging
+- bulldogging
+- bullyragging
+- bunging

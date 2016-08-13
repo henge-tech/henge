@@ -1,0 +1,23 @@
+---
+pattern: han_ng
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 950432
+score_per_word: 86402
+hi_scored_words:
+  handicapping: 42868
+  handing: 15569
+  handling: 3491
+  handshaking: 96847
+  handspring: 38519
+  handwriting: 14743
+  hanging: 3329
+  hankering: 53914
+scored_words:
+  handcrafting: 289949
+  handcuffing: 162590
+  handfasting: 228613
+not_scored_words:
+- Hanyang
+- handpicking

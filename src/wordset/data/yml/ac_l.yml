@@ -1,0 +1,31 @@
+---
+pattern: ac_l
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 21
+score: 647257
+score_per_word: 53938
+hi_scored_words:
+  academical: 86623
+  accel: 46475
+  accidental: 8491
+  accrual: 35243
+  acetal: 98648
+  acetyl: 30947
+  acoustical: 32833
+  acquittal: 37944
+  actual: 1362
+  actuarial: 25309
+  acyl: 40476
+scored_words:
+  accentual: 202906
+not_scored_words:
+- Achitophel
+- acaudal
+- accessional
+- accusal
+- accusatorial
+- acidophil
+- acropetal
+- acrylyl
+- actinal

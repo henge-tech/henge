@@ -1,0 +1,27 @@
+---
+pattern: pro_ors
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 17
+score: 1555421
+score_per_word: 97213
+hi_scored_words:
+  processors: 6596
+  professors: 11416
+  progenitors: 57765
+  projectors: 20724
+  proprietors: 27587
+  prosecutors: 22715
+  prospectors: 68864
+  protectors: 18409
+  protestors: 32869
+scored_words:
+  procrastinators: 139099
+  proctors: 109129
+  procurators: 198133
+  prognosticators: 242566
+  propagators: 114293
+  propellors: 304470
+  protractors: 180786
+not_scored_words:
+- promulgators

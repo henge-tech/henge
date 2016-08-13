@@ -1,0 +1,30 @@
+---
+pattern: ref_y
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 1186121
+score_per_word: 98843
+hi_scored_words:
+  refectory: 61904
+  refinery: 19904
+  reflectivity: 40716
+  reflexively: 94480
+  reflexivity: 86265
+  reflexology: 49819
+  reformatory: 89684
+  refractory: 22377
+  refreshingly: 46669
+scored_words:
+  referentially: 266886
+  reflectively: 113282
+  refractivity: 294135
+not_scored_words:
+- reflationary
+- reflexly
+- refortify
+- refractively
+- refractorily
+- refry
+- refulgently
+- refutably

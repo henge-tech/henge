@@ -1,0 +1,50 @@
+---
+pattern: w_p
+hi_scored_words_count: 22
+scored_words_count: 9
+total_words: 40
+score: 2253481
+score_per_word: 72692
+hi_scored_words:
+  wallop: 50351
+  warmup: 55288
+  warp: 13840
+  warship: 36257
+  wasp: 19478
+  weatherstrip: 71392
+  weep: 15057
+  whelp: 75672
+  whip: 7394
+  whoop: 31975
+  wimp: 41452
+  windup: 78713
+  wiretap: 47764
+  wisp: 29825
+  wop: 30853
+  workmanship: 18575
+  workshop: 4637
+  worktop: 91629
+  workup: 70963
+  worship: 2922
+  wrap: 5799
+  writeup: 56872
+scored_words:
+  walkup: 105123
+  wardship: 225088
+  whap: 179632
+  whitecap: 195186
+  whomp: 171487
+  whop: 168600
+  whup: 130550
+  wickiup: 108677
+  wingtip: 112430
+not_scored_words:
+- WASP
+- WP
+- Winesap
+- Winthrop
+- Worship
+- watchstrap
+- wentletrap
+- wikiup
+- wineshop

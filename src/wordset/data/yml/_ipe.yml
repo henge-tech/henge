@@ -1,0 +1,43 @@
+---
+pattern: _ipe
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 33
+score: 1934120
+score_per_word: 80588
+hi_scored_words:
+  bagpipe: 55283
+  gripe: 31322
+  hornpipe: 90802
+  pinstripe: 51194
+  pipe: 2903
+  recipe: 5342
+  ripe: 5912
+  snipe: 32476
+  stipe: 54650
+  stripe: 13620
+  swipe: 29471
+  tailpipe: 79418
+  tripe: 46655
+  unripe: 78815
+  windpipe: 77594
+  wipe: 16659
+scored_words:
+  blowpipe: 215840
+  downpipe: 140336
+  drainpipe: 138239
+  hosepipe: 224650
+  overripe: 163331
+  sideswipe: 146892
+  standpipe: 118679
+  stovepipe: 114037
+not_scored_words:
+- Felipe
+- Principe
+- Sergipe
+- guttersnipe
+- hawsepipe
+- jacksnipe
+- liripipe
+- panpipe
+- yipe

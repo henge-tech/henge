@@ -1,0 +1,71 @@
+---
+pattern: c_id
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 61
+score: 2867080
+score_per_word: 119461
+hi_scored_words:
+  candid: 11439
+  capsid: 67357
+  cardioid: 79575
+  carotenoid: 92879
+  carotid: 24445
+  caryatid: 86244
+  celluloid: 42997
+  centroid: 53617
+  chambermaid: 95714
+  choroid: 72364
+  cichlid: 68995
+  colloid: 41530
+  corticosteroid: 51896
+  cupid: 19406
+scored_words:
+  chancroid: 172025
+  chromatid: 106097
+  chrysalid: 320083
+  cricoid: 194772
+  crinoid: 210753
+  crystalloid: 244650
+  cuboid: 125978
+  cuspid: 220170
+  cycloid: 193818
+  cyprinid: 270276
+not_scored_words:
+- CID
+- Caucasoid
+- Celluloid
+- Cepheid
+- Chasid
+- Chassid
+- Cid
+- Cupid
+- cancroid
+- carangid
+- cartilaginoid
+- catenoid
+- ceratoid
+- cestoid
+- chaudfroid
+- cheloid
+- chorioid
+- cirsoid
+- cissoid
+- clupeid
+- clupeoid
+- coccid
+- colubrid
+- comatulid
+- conchoid
+- condyloid
+- conoid
+- coracoid
+- coralloid
+- cretinoid
+- ctenoid
+- culicid
+- cylindroid
+- cymoid
+- cyprinoid
+- cysticercoid
+- cystoid

@@ -1,0 +1,56 @@
+---
+pattern: con_ve
+hi_scored_words_count: 22
+scored_words_count: 9
+total_words: 46
+score: 2828331
+score_per_word: 91236
+hi_scored_words:
+  concave: 23788
+  conceive: 13014
+  conclave: 42049
+  conclusive: 18170
+  conducive: 19088
+  conductive: 25500
+  congestive: 32505
+  conjunctive: 62798
+  connective: 28226
+  consecutive: 8377
+  conservative: 3415
+  conserve: 17814
+  constitutive: 34703
+  constructive: 10742
+  consultative: 21277
+  consumptive: 54449
+  contemplative: 35616
+  contraceptive: 22717
+  contrastive: 92536
+  contrive: 62445
+  convective: 36357
+  convulsive: 55032
+scored_words:
+  concussive: 255654
+  conflictive: 303983
+  conjugative: 246648
+  connive: 174827
+  connotative: 210998
+  constrictive: 141799
+  contractive: 252724
+  contrapositive: 236158
+  convolve: 284922
+not_scored_words:
+- Congreve
+- Conservative
+- conative
+- concentrative
+- concessive
+- conciliative
+- configurative
+- consecrative
+- contaminative
+- continuative
+- contortive
+- contradistinctive
+- contraindicative
+- contraoctave
+- contributive

@@ -1,0 +1,31 @@
+---
+pattern: t_ay
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 1115057
+score_per_word: 85773
+hi_scored_words:
+  takeaway: 34796
+  taxiway: 81688
+  throwaway: 59117
+  thruway: 70401
+  today: 1078
+  tollway: 82095
+  tramway: 40262
+  tray: 6618
+scored_words:
+  tearaway: 179572
+  teleplay: 104092
+  tideway: 215559
+  tokay: 119534
+  trackway: 120245
+not_scored_words:
+- Thackeray
+- Thursday
+- Tokay
+- Torbay
+- Torquay
+- Tuesday
+- tatouay
+- throughway

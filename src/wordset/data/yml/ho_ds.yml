@@ -1,0 +1,30 @@
+---
+pattern: ho_ds
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 20
+score: 1345213
+score_per_word: 103477
+hi_scored_words:
+  hoards: 79202
+  holds: 2528
+  homelands: 48917
+  homesteads: 70595
+  hominids: 85861
+  hoods: 20961
+  hounds: 17567
+  households: 6330
+scored_words:
+  hods: 234394
+  hogsheads: 240233
+  homewards: 166951
+  hotbeds: 140953
+  housemaids: 230721
+not_scored_words:
+- Hollands
+- hogweeds
+- hominoids
+- horehounds
+- horseweeds
+- hotheads
+- househusbands

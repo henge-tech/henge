@@ -1,0 +1,37 @@
+---
+pattern: si_rs
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 27
+score: 1804909
+score_per_word: 100272
+hi_scored_words:
+  sidebars: 76424
+  signers: 51998
+  silencers: 68346
+  silvers: 51151
+  simulators: 29870
+  singers: 8564
+  sinners: 18297
+  sirs: 38786
+  sisters: 3535
+  sitters: 47224
+scored_words:
+  sidecars: 162933
+  sidewinders: 173192
+  sifters: 235299
+  sightseers: 157590
+  simmers: 109755
+  sinkers: 113557
+  sippers: 241305
+  sizzlers: 217083
+not_scored_words:
+- Sirs
+- Sisters
+- signalers
+- signors
+- simpers
+- singulars
+- sinters
+- sirdars
+- sitars

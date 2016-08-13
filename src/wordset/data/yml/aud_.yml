@@ -1,0 +1,65 @@
+---
+pattern: aud_
+hi_scored_words_count: 30
+scored_words_count: 11
+total_words: 55
+score: 3158113
+score_per_word: 77027
+hi_scored_words:
+  aud: 12155
+  audacious: 33818
+  audacity: 23486
+  audible: 15737
+  audibly: 69161
+  audience: 1935
+  audiences: 8914
+  audio: 6675
+  audiologist: 82944
+  audiologists: 95250
+  audiology: 45131
+  audiophile: 43699
+  audiophiles: 86928
+  audios: 62297
+  audiotape: 68622
+  audiotapes: 98987
+  audiovisual: 27531
+  audit: 11407
+  audited: 21844
+  auditing: 12514
+  audition: 12657
+  auditioned: 62762
+  auditioning: 53599
+  auditions: 15309
+  auditor: 12270
+  auditorium: 15853
+  auditoriums: 74659
+  auditors: 14705
+  auditory: 18197
+  audits: 13701
+scored_words:
+  audaciously: 186353
+  audibility: 198397
+  audibles: 170654
+  audient: 227337
+  audiocassette: 137661
+  audiocassettes: 170980
+  audiological: 167398
+  audiometer: 167956
+  audiometers: 273957
+  audiometric: 145749
+  audiovisuals: 188924
+not_scored_words:
+- Aude
+- Auden
+- Audi
+- Audion
+- Audra
+- Audrey
+- Audubon
+- audaciousness
+- audial
+- audile
+- audiles
+- audiogenic
+- audiphone
+- auditive

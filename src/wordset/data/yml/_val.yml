@@ -1,0 +1,58 @@
+---
+pattern: _val
+hi_scored_words_count: 21
+scored_words_count: 7
+total_words: 48
+score: 1670473
+score_per_word: 59659
+hi_scored_words:
+  adjectival: 81567
+  approval: 2650
+  archival: 13894
+  arrival: 2691
+  carnival: 9747
+  conjunctival: 90170
+  disapproval: 22273
+  festival: 2598
+  interval: 4541
+  larval: 31908
+  medieval: 6932
+  naval: 4354
+  oval: 7294
+  primeval: 40373
+  removal: 3145
+  retrieval: 9162
+  revival: 8483
+  rival: 6075
+  survival: 5426
+  upheaval: 31204
+  val: 6546
+scored_words:
+  archrival: 150205
+  coeval: 127376
+  infinitival: 258957
+  nerval: 180968
+  nival: 253558
+  serval: 117090
+  vulval: 191286
+not_scored_words:
+- Laval
+- Nerval
+- Orval
+- Perceval
+- Percival
+- Reval
+- Sandoval
+- Val
+- agentival
+- corrival
+- disproval
+- estival
+- genitival
+- imperatival
+- nonarrival
+- ogival
+- reproval
+- shrieval
+- substantival
+- valval

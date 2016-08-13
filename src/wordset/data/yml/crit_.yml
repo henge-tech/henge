@@ -1,0 +1,38 @@
+---
+pattern: crit_
+hi_scored_words_count: 20
+scored_words_count: 0
+total_words: 28
+score: 453948
+score_per_word: 22697
+hi_scored_words:
+  crit: 30163
+  criteria: 11164
+  criterion: 9746
+  critic: 7556
+  critical: 1579
+  criticality: 45216
+  critically: 11007
+  criticism: 3585
+  criticisms: 16637
+  criticize: 18727
+  criticized: 15278
+  criticizes: 36458
+  criticizing: 29443
+  critics: 4397
+  critique: 9879
+  critiqued: 67587
+  critiques: 22664
+  critiquing: 51385
+  critter: 29911
+  critters: 31566
+scored_words: {}
+not_scored_words:
+- criterial
+- criticalities
+- criticalness
+- criticalnesses
+- criticaster
+- criticizable
+- criticizer
+- criticizers

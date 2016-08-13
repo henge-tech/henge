@@ -1,0 +1,53 @@
+---
+pattern: _ever
+hi_scored_words_count: 25
+scored_words_count: 8
+total_words: 43
+score: 2412000
+score_per_word: 73090
+hi_scored_words:
+  achiever: 48629
+  believer: 12726
+  cantilever: 37135
+  clever: 5240
+  ever: 302
+  fever: 4032
+  forever: 2328
+  however: 224
+  howsoever: 83859
+  lever: 9679
+  never: 196
+  reliever: 33728
+  retriever: 19880
+  sever: 25129
+  soever: 74712
+  unbeliever: 69697
+  whatever: 1167
+  whatsoever: 5995
+  whenever: 2548
+  wherever: 4621
+  whichever: 11013
+  whoever: 6561
+  whomever: 32030
+  whomsoever: 56044
+  whosoever: 31671
+scored_words:
+  disbeliever: 247912
+  griever: 336303
+  nonbeliever: 280184
+  overachiever: 204491
+  underachiever: 142947
+  whensoever: 285921
+  wheresoever: 130692
+  whithersoever: 204404
+not_scored_words:
+- Cheever
+- Unilever
+- dissever
+- misbeliever
+- superachiever
+- weever
+- whencesoever
+- whichsoever
+- whosesoever
+- whosever

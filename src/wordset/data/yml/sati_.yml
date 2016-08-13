@@ -1,0 +1,49 @@
+---
+pattern: sati_
+hi_scored_words_count: 18
+scored_words_count: 14
+total_words: 39
+score: 3326528
+score_per_word: 103954
+hi_scored_words:
+  sati: 60656
+  satiate: 98742
+  satiated: 95355
+  satiety: 84232
+  satin: 8675
+  satire: 10911
+  satires: 78493
+  satiric: 68985
+  satirical: 25108
+  satirist: 70158
+  satisfaction: 2519
+  satisfactions: 84701
+  satisfactorily: 17362
+  satisfactory: 5218
+  satisfied: 2712
+  satisfies: 15851
+  satisfy: 4376
+  satisfying: 8730
+scored_words:
+  satiates: 341308
+  satiation: 163982
+  sating: 263120
+  satins: 130025
+  satinwood: 196431
+  satiny: 120220
+  satirically: 178923
+  satirists: 167011
+  satirize: 204679
+  satirized: 166688
+  satirizes: 205153
+  satirizing: 190911
+  satisfiable: 102402
+  satisfyingly: 152891
+not_scored_words:
+- satiable
+- satiating
+- satinet
+- satinwoods
+- satirization
+- satisfactoriness
+- satisfactorinesses

@@ -1,0 +1,36 @@
+---
+pattern: shi_d
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 26
+score: 2476740
+score_per_word: 112579
+hi_scored_words:
+  shied: 79869
+  shield: 4143
+  shielded: 23693
+  shifted: 9884
+  shined: 53243
+  shipboard: 42422
+  shipped: 4771
+  shipwrecked: 56020
+  shipyard: 25866
+  shitload: 83482
+  shivered: 49952
+scored_words:
+  shimmered: 142217
+  shimmied: 302182
+  shingled: 145370
+  shinguard: 191560
+  shinned: 149136
+  shipload: 273746
+  shirked: 172163
+  shirred: 160299
+  shirted: 165820
+  shitfaced: 228430
+  shithead: 112472
+not_scored_words:
+- shilled
+- shimmed
+- shinnied
+- shitted

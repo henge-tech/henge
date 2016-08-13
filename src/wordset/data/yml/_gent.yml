@@ -1,0 +1,55 @@
+---
+pattern: _gent
+hi_scored_words_count: 27
+scored_words_count: 6
+total_words: 45
+score: 1924396
+score_per_word: 58315
+hi_scored_words:
+  agent: 1412
+  argent: 22122
+  astringent: 53891
+  cogent: 35699
+  contingent: 10915
+  convergent: 32665
+  detergent: 23489
+  diligent: 21472
+  divergent: 23212
+  emergent: 20212
+  exigent: 72552
+  gent: 20415
+  indigent: 31721
+  indulgent: 33410
+  insurgent: 28297
+  intelligent: 3099
+  intransigent: 95673
+  negligent: 20368
+  newsagent: 67162
+  pungent: 34947
+  reagent: 22956
+  regent: 12775
+  resurgent: 71261
+  stringent: 15981
+  tangent: 22313
+  unintelligent: 80551
+  urgent: 5794
+scored_words:
+  birefringent: 175022
+  cotangent: 170584
+  effulgent: 183024
+  plangent: 170689
+  refulgent: 114354
+  subagent: 226359
+not_scored_words:
+- Gent
+- Sargent
+- abstergent
+- assurgent
+- constringent
+- counterinsurgent
+- fulgent
+- margent
+- overindulgent
+- ringent
+- subtangent
+- turgent

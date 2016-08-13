@@ -1,0 +1,25 @@
+---
+pattern: h_ogy
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 659419
+score_per_word: 73268
+hi_scored_words:
+  hematology: 35741
+  herpetology: 80098
+  histology: 27117
+  histopathology: 62477
+  homology: 24422
+  horology: 83929
+  hydrogeology: 87701
+  hydrology: 27787
+scored_words:
+  helminthology: 230147
+not_scored_words:
+- hagiology
+- haplology
+- hierology
+- hyetology
+- hymnology
+- hypnology

@@ -1,0 +1,27 @@
+---
+pattern: or_on
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 428360
+score_per_word: 47595
+hi_scored_words:
+  oration: 43423
+  orchestration: 35891
+  ordination: 16054
+  organization: 1215
+  organon: 86198
+  orientation: 14950
+  origination: 31563
+  ornamentation: 42216
+scored_words:
+  orison: 156850
+not_scored_words:
+- Orbison
+- Oregon
+- Orion
+- Orlon
+- Orpington
+- Orson
+- orchestrion
+- orthicon

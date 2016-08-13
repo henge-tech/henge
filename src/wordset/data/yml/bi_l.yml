@@ -1,0 +1,56 @@
+---
+pattern: bi_l
+hi_scored_words_count: 27
+scored_words_count: 6
+total_words: 46
+score: 2240806
+score_per_word: 67903
+hi_scored_words:
+  biannual: 66251
+  bibl: 40730
+  biblical: 9645
+  bibliographical: 35909
+  bicameral: 64995
+  bicentennial: 36271
+  bidirectional: 38422
+  biennial: 27788
+  bifocal: 81471
+  bilateral: 12832
+  bilingual: 14198
+  bill: 740
+  bimodal: 81680
+  binational: 93189
+  binaural: 61226
+  binomial: 32612
+  biochemical: 17670
+  biographical: 12930
+  biol: 13479
+  biological: 6214
+  biomechanical: 56648
+  biomedical: 11011
+  biophysical: 42877
+  biotechnological: 91507
+  bipedal: 81062
+  biracial: 86810
+  bisexual: 13319
+scored_words:
+  biaxial: 111276
+  bilabial: 234333
+  bimetal: 188742
+  binal: 320135
+  bioethical: 154757
+  biphenyl: 100077
+not_scored_words:
+- Bibl
+- Biblical
+- Biel
+- Bikol
+- Bill
+- bicipital
+- bicollateral
+- bifacial
+- bimestrial
+- binominal
+- biparietal
+- biradial
+- birl

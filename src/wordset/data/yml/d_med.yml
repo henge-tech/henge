@@ -1,0 +1,29 @@
+---
+pattern: d_med
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 19
+score: 1410770
+score_per_word: 94051
+hi_scored_words:
+  dammed: 78404
+  deemed: 4310
+  defamed: 97343
+  deformed: 25000
+  dimmed: 48858
+  disarmed: 45727
+  disclaimed: 46829
+  domed: 40860
+  doomed: 11683
+  dreamed: 10528
+  drummed: 83292
+scored_words:
+  daydreamed: 271655
+  declaimed: 193330
+  diademed: 294930
+  diagrammed: 158021
+not_scored_words:
+- deplumed
+- deprogrammed
+- disesteemed
+- displumed

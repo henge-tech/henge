@@ -1,0 +1,26 @@
+---
+pattern: _rtly
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 835837
+score_per_word: 75985
+hi_scored_words:
+  courtly: 57556
+  covertly: 49378
+  curtly: 94094
+  expertly: 36648
+  overtly: 35394
+  partly: 2870
+  portly: 65990
+  shortly: 4024
+  smartly: 45499
+scored_words:
+  alertly: 224064
+  tartly: 220320
+not_scored_words:
+- inertly
+- inexpertly
+- pertly
+- stalwartly
+- uncourtly

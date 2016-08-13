@@ -1,0 +1,47 @@
+---
+pattern: gra_d
+hi_scored_words_count: 25
+scored_words_count: 7
+total_words: 37
+score: 2511496
+score_per_word: 78484
+hi_scored_words:
+  grabbed: 11207
+  graced: 37337
+  grad: 14769
+  graded: 15944
+  graduated: 7074
+  grafted: 46804
+  grained: 31344
+  grand: 998
+  grandad: 52139
+  grandchild: 27993
+  granddad: 65974
+  grandfathered: 65898
+  grandstand: 33561
+  granted: 2235
+  granulated: 50368
+  graphed: 93267
+  grappled: 78779
+  grasped: 20991
+  grassed: 84619
+  grassland: 23192
+  grated: 24051
+  gratified: 37207
+  graveyard: 15431
+  grayed: 90080
+  grazed: 42603
+scored_words:
+  grainfield: 291810
+  granitoid: 283434
+  graved: 224781
+  graveled: 208070
+  gravid: 107168
+  gravitated: 102058
+  graybeard: 320310
+not_scored_words:
+- Graceland
+- Gravesend
+- gradated
+- graduand
+- grandstanded

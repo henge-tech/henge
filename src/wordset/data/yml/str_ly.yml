@@ -1,0 +1,26 @@
+---
+pattern: str_ly
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1199722
+score_per_word: 92286
+hi_scored_words:
+  straightforwardly: 83816
+  strangely: 11696
+  strategically: 18593
+  strenuously: 63558
+  strictly: 4022
+  strikingly: 30382
+  strongly: 2594
+  structurally: 26877
+scored_words:
+  straggly: 259219
+  straightly: 174590
+  straitly: 237914
+  stridently: 180151
+  stringently: 106310
+not_scored_words:
+- stratospherically
+- stroppily
+- struttingly

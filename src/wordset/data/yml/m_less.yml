@@ -1,0 +1,25 @@
+---
+pattern: m_less
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 971192
+score_per_word: 80932
+hi_scored_words:
+  massless: 68926
+  matchless: 56808
+  meaningless: 14177
+  meatless: 81015
+  merciless: 31405
+  mindless: 25564
+  motherless: 64702
+  motionless: 25914
+scored_words:
+  measureless: 125927
+  meritless: 230014
+  mirthless: 110530
+  moonless: 136210
+not_scored_words:
+- mannerless
+- moneyless
+- motiveless

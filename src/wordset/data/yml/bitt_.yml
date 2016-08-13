@@ -1,0 +1,37 @@
+---
+pattern: bitt_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 27
+score: 1278913
+score_per_word: 85260
+hi_scored_words:
+  bitten: 19032
+  bitter: 5052
+  bitterest: 89532
+  bitterly: 19952
+  bittern: 63487
+  bitterness: 17214
+  bitterroot: 87104
+  bitters: 65192
+  bittersweet: 27068
+  bitty: 36042
+scored_words:
+  bitt: 206713
+  bitterer: 177189
+  bitterns: 201917
+  bitting: 147601
+  bitts: 115818
+not_scored_words:
+- BitTorrent
+- bitted
+- bitterling
+- bitternut
+- bitternuts
+- bitterroots
+- bittersweets
+- bitterweed
+- bitterweeds
+- bittier
+- bittiest
+- bittiness

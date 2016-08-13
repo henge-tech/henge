@@ -1,0 +1,58 @@
+---
+pattern: env_
+hi_scored_words_count: 29
+scored_words_count: 7
+total_words: 48
+score: 2036952
+score_per_word: 56582
+hi_scored_words:
+  envelop: 55573
+  envelope: 5926
+  enveloped: 33293
+  envelopes: 13454
+  enveloping: 56749
+  envelopment: 98460
+  envelops: 89923
+  enviable: 35235
+  envied: 48479
+  envious: 25640
+  environ: 17578
+  environment: 2291
+  environmental: 10696
+  environmentalism: 45338
+  environmentalist: 41529
+  environmentalists: 25807
+  environmentally: 15489
+  environments: 11573
+  environs: 27690
+  envisage: 39163
+  envisaged: 22062
+  envisages: 65019
+  envision: 23311
+  envisioned: 21971
+  envisioning: 58415
+  envisions: 53736
+  envoy: 14959
+  envoys: 48831
+  envy: 8743
+scored_words:
+  envenomed: 142968
+  envies: 133277
+  enviously: 192065
+  environed: 123576
+  envisaging: 165147
+  envoi: 118160
+  envying: 144826
+not_scored_words:
+- enveloper
+- envelopers
+- envenom
+- envenoming
+- envenoms
+- enviability
+- enviably
+- envier
+- enviousness
+- environing
+- envois
+- envyingly

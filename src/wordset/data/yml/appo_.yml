@@ -1,0 +1,39 @@
+---
+pattern: appo_
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 29
+score: 1562679
+score_per_word: 82246
+hi_scored_words:
+  appoint: 9045
+  appointed: 2184
+  appointee: 39576
+  appointees: 39769
+  appointing: 21393
+  appointment: 3032
+  appointments: 7299
+  appoints: 24494
+  apportion: 65430
+  apportioned: 43273
+  apportionment: 35278
+  apposite: 95764
+scored_words:
+  appoggiatura: 139578
+  appointive: 150684
+  apportioning: 113699
+  apportions: 294405
+  apposed: 143739
+  apposition: 102838
+  appositive: 231199
+not_scored_words:
+- Appomattox
+- appoggiaturas
+- appointor
+- appose
+- apposes
+- apposing
+- appositely
+- appositeness
+- appositional
+- appositives

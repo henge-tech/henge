@@ -1,0 +1,43 @@
+---
+pattern: _ulus
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 33
+score: 2024131
+score_per_word: 112451
+hi_scored_words:
+  annulus: 55648
+  calculus: 16725
+  cumulus: 35313
+  homunculus: 94107
+  modulus: 25223
+  oculus: 99335
+  ranunculus: 86167
+  regulus: 59268
+  stimulus: 10496
+scored_words:
+  altocumulus: 246718
+  convolvulus: 156516
+  famulus: 211046
+  fasciculus: 207350
+  glomerulus: 110445
+  limulus: 174178
+  stratocumulus: 166098
+  tumulus: 144952
+  volvulus: 124546
+not_scored_words:
+- Cleobulus
+- Iulus
+- Regulus
+- Romulus
+- Zulus
+- canaliculus
+- cirrocumulus
+- flocculus
+- fractocumulus
+- funiculus
+- hamulus
+- loculus
+- lulus
+- sacculus
+- ventriculus

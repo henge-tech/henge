@@ -1,0 +1,65 @@
+---
+pattern: _nned
+hi_scored_words_count: 28
+scored_words_count: 13
+total_words: 55
+score: 3771099
+score_per_word: 91978
+hi_scored_words:
+  banned: 13185
+  binned: 80029
+  canned: 13092
+  conned: 63064
+  donned: 50468
+  fanned: 53360
+  finned: 61240
+  grinned: 25474
+  gunned: 49367
+  manned: 17030
+  outgunned: 97221
+  panned: 57971
+  penned: 28563
+  pinned: 18081
+  planned: 2793
+  scanned: 10127
+  shunned: 33495
+  sinned: 30412
+  skinned: 22865
+  spanned: 33677
+  stunned: 14302
+  tanned: 17482
+  thinned: 48776
+  tinned: 52760
+  twinned: 81949
+  underpinned: 51682
+  unmanned: 30190
+  unplanned: 29880
+scored_words:
+  chinned: 132874
+  deadpanned: 340979
+  dinned: 227454
+  ginned: 275304
+  japanned: 170089
+  kenned: 242363
+  preplanned: 161788
+  punned: 217541
+  sequinned: 236793
+  shinned: 149136
+  sunned: 159300
+  unbanned: 186030
+  undermanned: 182913
+not_scored_words:
+- dunned
+- genned
+- inspanned
+- outspanned
+- overmanned
+- shotgunned
+- suntanned
+- swanned
+- trepanned
+- unkenned
+- unpinned
+- untanned
+- vanned
+- zenned

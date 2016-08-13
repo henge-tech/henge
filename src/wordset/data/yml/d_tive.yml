@@ -1,0 +1,64 @@
+---
+pattern: d_tive
+hi_scored_words_count: 26
+scored_words_count: 7
+total_words: 54
+score: 2356903
+score_per_word: 71421
+hi_scored_words:
+  dative: 62272
+  deceptive: 19659
+  declarative: 36937
+  decorative: 7889
+  deductive: 41975
+  defective: 7219
+  definitive: 12094
+  degenerative: 30069
+  deliberative: 41834
+  demonstrative: 52631
+  derivative: 6996
+  descriptive: 9581
+  destructive: 8698
+  detective: 5975
+  determinative: 73312
+  digestive: 13435
+  diminutive: 33390
+  directive: 9163
+  discriminative: 85849
+  disincentive: 67093
+  disjunctive: 61298
+  disruptive: 19287
+  dissipative: 70111
+  dissociative: 56727
+  distinctive: 7781
+  distributive: 43718
+scored_words:
+  deconstructive: 172006
+  degradative: 213277
+  denotative: 266489
+  diapositive: 139448
+  diffractive: 114495
+  disintegrative: 256737
+  durative: 309458
+not_scored_words:
+- debilitative
+- decongestive
+- decretive
+- dedicative
+- deflective
+- delative
+- delineative
+- demarcative
+- denominative
+- denunciative
+- deprecative
+- depreciative
+- depurative
+- derogative
+- desiccative
+- desiderative
+- designative
+- detractive
+- dilative
+- ditransitive
+- donative

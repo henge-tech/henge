@@ -1,0 +1,36 @@
+---
+pattern: flou_
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 26
+score: 2632727
+score_per_word: 125367
+hi_scored_words:
+  flounder: 33012
+  floundering: 66781
+  flour: 5914
+  floured: 76451
+  flourish: 15213
+  flourished: 34086
+  flourishes: 44746
+  flourishing: 26377
+  flours: 79253
+  flout: 81822
+scored_words:
+  flounce: 119206
+  flounced: 255083
+  flounces: 253535
+  flouncy: 311031
+  floundered: 110175
+  flounders: 113993
+  flouring: 308579
+  floury: 202082
+  flouted: 115623
+  flouting: 112245
+  flouts: 267520
+not_scored_words:
+- flouncing
+- flouriness
+- flourisher
+- flouter
+- flouters

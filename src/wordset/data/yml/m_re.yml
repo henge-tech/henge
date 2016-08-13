@@ -1,0 +1,67 @@
+---
+pattern: m_re
+hi_scored_words_count: 28
+scored_words_count: 4
+total_words: 57
+score: 1790175
+score_per_word: 55942
+hi_scored_words:
+  macabre: 32576
+  magnetosphere: 60435
+  malware: 18042
+  manicure: 25059
+  manufacture: 5215
+  manure: 14382
+  mare: 9855
+  massacre: 13257
+  mature: 3119
+  measure: 1518
+  medicare: 5551
+  mediocre: 17196
+  mere: 3741
+  metalware: 85244
+  microstructure: 41662
+  millionaire: 10906
+  miniature: 12385
+  mire: 35834
+  misadventure: 72616
+  misfire: 90387
+  mixture: 4161
+  moire: 77677
+  moisture: 6206
+  monoculture: 87833
+  more: 34
+  multimillionaire: 99395
+  mure: 97496
+  musculature: 59457
+scored_words:
+  mariculture: 141621
+  mesosphere: 142040
+  misfeature: 337014
+  murre: 178261
+not_scored_words:
+- Maggiore
+- Mamore
+- Mare
+- McClure
+- McGuire
+- McIntyre
+- Medicare
+- Miserere
+- Moliere
+- Monmouthshire
+- Montmartre
+- Moore
+- More
+- Mysore
+- macrospore
+- madrepore
+- megaspore
+- megathere
+- melaphyre
+- microampere
+- microspore
+- millepore
+- milliampere
+- moidore
+- multure

@@ -1,0 +1,26 @@
+---
+pattern: bur_y
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 537025
+score_per_word: 59669
+hi_scored_words:
+  bureaucracy: 19967
+  burglary: 19985
+  burgundy: 11047
+  burley: 33251
+  burly: 39857
+  burry: 92579
+  bursary: 43264
+  bury: 8458
+scored_words:
+  bureaucratically: 268617
+not_scored_words:
+- Burberry
+- Burghley
+- Burgundy
+- Burley
+- Burnaby
+- Burney
+- Burnley

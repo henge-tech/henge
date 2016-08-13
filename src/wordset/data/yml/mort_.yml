@@ -1,0 +1,50 @@
+---
+pattern: mort_
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 40
+score: 2383968
+score_per_word: 88295
+hi_scored_words:
+  mort: 20723
+  mortal: 7678
+  mortality: 6070
+  mortally: 45981
+  mortals: 27691
+  mortar: 12416
+  mortars: 41567
+  mortgage: 3919
+  mortgaged: 46622
+  mortgagee: 43664
+  mortgages: 9046
+  mortgagor: 56747
+  mortician: 64947
+  mortification: 51901
+  mortified: 56214
+  mortise: 62528
+  mortmain: 72719
+  mortuary: 32166
+scored_words:
+  mortared: 252150
+  mortgagees: 168016
+  mortgaging: 120962
+  mortgagors: 285416
+  morticians: 201010
+  mortify: 168289
+  mortifying: 130547
+  mortising: 260320
+  mortuaries: 134659
+not_scored_words:
+- Mort
+- Mortimer
+- Morton
+- mortarboard
+- mortarboards
+- mortaring
+- mortgageable
+- mortifies
+- mortifyingly
+- mortised
+- mortiser
+- mortises
+- mortmains

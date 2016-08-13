@@ -1,0 +1,46 @@
+---
+pattern: fe_t
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 36
+score: 1489356
+score_per_word: 74467
+hi_scored_words:
+  feast: 6396
+  feat: 6874
+  featherweight: 47495
+  federalist: 29791
+  feedlot: 80100
+  feet: 685
+  feint: 67731
+  felt: 1022
+  feminist: 11936
+  ferment: 38211
+  ferret: 21360
+  fervent: 32049
+  fest: 10532
+  fewest: 35162
+scored_words:
+  featherlight: 341271
+  fecit: 164515
+  feeblest: 140048
+  ferromagnet: 212760
+  ferryboat: 109817
+  fetishist: 131601
+not_scored_words:
+- Federalist
+- Fermat
+- Festschrift
+- Feuillant
+- fearnought
+- feathercut
+- featheriest
+- febrifacient
+- feculent
+- feistiest
+- fellest
+- ferniest
+- feudalist
+- feudist
+- feverroot
+- feverwort

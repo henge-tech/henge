@@ -1,0 +1,22 @@
+---
+pattern: opt_s
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 419760
+score_per_word: 46640
+hi_scored_words:
+  opticians: 44755
+  optics: 14636
+  optimists: 68437
+  optimizations: 29656
+  optimizes: 52372
+  options: 12788
+  optometrists: 54319
+  opts: 39419
+scored_words:
+  optimizers: 103378
+not_scored_words:
+- optatives
+- optimisms
+- optimums

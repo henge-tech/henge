@@ -1,0 +1,27 @@
+---
+pattern: c_ur
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 1121285
+score_per_word: 93440
+hi_scored_words:
+  carrefour: 63143
+  centaur: 34830
+  chasseur: 96908
+  chauffeur: 20758
+  concur: 19609
+  connoisseur: 28552
+  contour: 14629
+  cur: 17430
+scored_words:
+  cocklebur: 222873
+  cockspur: 257520
+  colporteur: 183320
+  cornflour: 161713
+not_scored_words:
+- Cavour
+- Chur
+- carillonneur
+- claqueur
+- coiffeur

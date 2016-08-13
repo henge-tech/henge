@@ -1,0 +1,35 @@
+---
+pattern: so_l
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 25
+score: 1198859
+score_per_word: 70521
+hi_scored_words:
+  social: 456
+  societal: 15245
+  sociocultural: 55435
+  sociological: 20116
+  sociopolitical: 78664
+  softball: 13848
+  soil: 1969
+  sol: 7713
+  sorbitol: 73869
+  sorrel: 40803
+  sorrowful: 35253
+  soul: 1179
+  soulful: 29188
+scored_words:
+  sociol: 161064
+  solenoidal: 263653
+  sophistical: 186982
+  sororal: 213422
+not_scored_words:
+- Sol
+- Solihull
+- sociobiological
+- sociometrical
+- solstitial
+- songful
+- soteriological
+- sourball

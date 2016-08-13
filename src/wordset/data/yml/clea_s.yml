@@ -1,0 +1,30 @@
+---
+pattern: clea_s
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 20
+score: 1090460
+score_per_word: 64144
+hi_scored_words:
+  cleaners: 8795
+  cleanliness: 12876
+  cleans: 29762
+  cleansers: 51185
+  cleanses: 68868
+  cleanups: 74104
+  clearances: 34296
+  clearings: 95622
+  clearness: 64783
+  clears: 16478
+  cleats: 30577
+  cleavages: 93787
+  cleaves: 64635
+scored_words:
+  cleanings: 104382
+  cleanness: 106596
+  clearinghouses: 132960
+  cleavers: 100754
+not_scored_words:
+- Cleanthes
+- clearstories
+- clearways

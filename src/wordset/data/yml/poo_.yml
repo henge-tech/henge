@@ -1,0 +1,57 @@
+---
+pattern: poo_
+hi_scored_words_count: 21
+scored_words_count: 11
+total_words: 47
+score: 2629102
+score_per_word: 82159
+hi_scored_words:
+  poo: 17659
+  pooch: 42545
+  pood: 87750
+  poodle: 23152
+  poodles: 55925
+  poof: 40113
+  pooh: 11980
+  pool: 2220
+  pooled: 25395
+  pooling: 26386
+  pools: 7234
+  poolside: 40364
+  poon: 46890
+  poop: 15040
+  pooped: 70101
+  pooping: 41206
+  poops: 70363
+  poor: 753
+  poorer: 15420
+  poorest: 14445
+  poorly: 7569
+scored_words:
+  pooches: 129339
+  poofs: 184770
+  poohed: 231265
+  poohs: 223396
+  pooing: 267632
+  pooka: 144646
+  poolroom: 232728
+  poons: 137192
+  poorboy: 187782
+  poorhouse: 102675
+  poos: 125167
+not_scored_words:
+- Pooh
+- Poole
+- Poona
+- pooched
+- pooching
+- poods
+- pooed
+- poofter
+- poofters
+- poohing
+- poolrooms
+- poolsides
+- poorhouses
+- poormouth
+- poorness

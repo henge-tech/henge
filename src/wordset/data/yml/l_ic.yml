@@ -1,0 +1,55 @@
+---
+pattern: l_ic
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 45
+score: 2188793
+score_per_word: 87551
+hi_scored_words:
+  laconic: 69685
+  lactic: 31045
+  laparoscopic: 37155
+  legalistic: 77777
+  lethargic: 49631
+  leukemic: 83120
+  limbic: 63029
+  linguistic: 12378
+  lipophilic: 98865
+  lithic: 74846
+  lithographic: 61853
+  logarithmic: 29787
+  logic: 3248
+  logistic: 23358
+  lunatic: 20520
+  lymphatic: 31619
+  lyric: 7964
+  lytic: 71817
+scored_words:
+  laic: 107922
+  leptonic: 193851
+  lexicographic: 115573
+  lipotropic: 291003
+  lithologic: 136008
+  lotic: 287252
+  ludic: 209487
+not_scored_words:
+- Lamaistic
+- Langobardic
+- laryngitic
+- lentic
+- leucocratic
+- leukocytic
+- liberalistic
+- lignitic
+- limnetic
+- limonitic
+- lipidic
+- lipocaic
+- literalistic
+- logographic
+- loxodromic
+- lubric
+- luetic
+- lycanthropic
+- lyophilic
+- lyophobic

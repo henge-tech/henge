@@ -1,0 +1,30 @@
+---
+pattern: race_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 20
+score: 1121316
+score_per_word: 65959
+hi_scored_words:
+  race: 910
+  racecourse: 30209
+  racecourses: 82715
+  raced: 20586
+  racehorse: 56268
+  racehorses: 91569
+  racemic: 90961
+  racer: 17500
+  racers: 27116
+  races: 3886
+  racetrack: 32529
+  racetracks: 83399
+  raceway: 25293
+scored_words:
+  raceme: 189283
+  racemes: 158318
+  racemose: 108765
+  raceways: 102009
+not_scored_words:
+- Race
+- racegoer
+- racegoers

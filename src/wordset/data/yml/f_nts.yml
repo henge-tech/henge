@@ -1,0 +1,35 @@
+---
+pattern: f_nts
+hi_scored_words_count: 8
+scored_words_count: 11
+total_words: 25
+score: 2168860
+score_per_word: 114150
+hi_scored_words:
+  faints: 96770
+  filaments: 30596
+  fingerprints: 20050
+  flints: 74610
+  fonts: 6957
+  footprints: 20731
+  fragments: 6762
+  fronts: 15252
+scored_words:
+  feints: 210337
+  ferments: 149734
+  figments: 154843
+  fitments: 205025
+  flashpoints: 144353
+  flaunts: 138129
+  forints: 101031
+  founts: 167539
+  frequents: 105291
+  fumigants: 183662
+  fundaments: 337188
+not_scored_words:
+- firmaments
+- flagellants
+- foments
+- fondants
+- forefronts
+- foxhunts

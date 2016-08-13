@@ -1,0 +1,28 @@
+---
+pattern: b_ack
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 546590
+score_per_word: 49690
+hi_scored_words:
+  back: 88
+  backpack: 13706
+  backtrack: 51227
+  bareback: 34400
+  barrack: 42247
+  biofeedback: 41249
+  black: 220
+  blackjack: 12004
+  buyback: 50195
+scored_words:
+  bookstack: 200228
+  bushwhack: 101026
+not_scored_words:
+- Barack
+- Black
+- bipack
+- boneblack
+- bookrack
+- bootblack
+- bootjack

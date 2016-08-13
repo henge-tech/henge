@@ -1,0 +1,24 @@
+---
+pattern: comm_ion
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 387058
+score_per_word: 38705
+hi_scored_words:
+  commemoration: 26270
+  commendation: 29022
+  commercialization: 28011
+  commission: 1314
+  commodification: 88186
+  commotion: 23282
+  communication: 1395
+  communion: 9536
+  commutation: 47646
+scored_words:
+  commiseration: 132396
+not_scored_words:
+- Communion
+- commensuration
+- commination
+- communization

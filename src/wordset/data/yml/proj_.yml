@@ -1,0 +1,24 @@
+---
+pattern: proj_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 14
+score: 545903
+score_per_word: 41992
+hi_scored_words:
+  project: 819
+  projected: 5381
+  projectile: 24134
+  projectiles: 46232
+  projecting: 16293
+  projection: 7156
+  projections: 12267
+  projective: 33565
+  projector: 15132
+  projectors: 20724
+  projects: 2344
+scored_words:
+  projectionist: 105721
+  projectionists: 256135
+not_scored_words:
+- projectively

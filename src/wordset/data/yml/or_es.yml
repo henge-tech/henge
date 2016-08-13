@@ -1,0 +1,46 @@
+---
+pattern: or_es
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 36
+score: 1367461
+score_per_word: 75970
+hi_scored_words:
+  oracles: 44207
+  oranges: 15955
+  orderlies: 91837
+  ordinances: 13421
+  ordinaries: 94212
+  ordinates: 38494
+  ores: 30395
+  organelles: 58866
+  organizes: 24103
+  orgies: 19770
+  orifices: 73684
+  originates: 26443
+  orioles: 16350
+  orphanages: 58728
+scored_words:
+  oratories: 284804
+  orchestrates: 156660
+  orthodoxies: 168695
+  orthoses: 150837
+not_scored_words:
+- Orestes
+- Orontes
+- orangeades
+- orangeries
+- orates
+- orchidectomies
+- orchitises
+- ordines
+- orientalizes
+- orientates
+- ornithines
+- orotundities
+- orpines
+- orreries
+- orrises
+- orthoclases
+- orthographies
+- oryxes

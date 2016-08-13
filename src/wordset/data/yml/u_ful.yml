@@ -1,0 +1,36 @@
+---
+pattern: u_ful
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 26
+score: 1692547
+score_per_word: 105784
+hi_scored_words:
+  uneventful: 45052
+  unfaithful: 33446
+  ungrateful: 33816
+  unhelpful: 25561
+  unlawful: 10771
+  unmindful: 96557
+  unsuccessful: 13519
+  untruthful: 88624
+  useful: 1146
+scored_words:
+  undutiful: 167258
+  unfruitful: 132463
+  ungraceful: 215941
+  unhealthful: 196542
+  unmerciful: 144390
+  unskillful: 217719
+  unthankful: 269742
+not_scored_words:
+- unharmful
+- unheedful
+- unremorseful
+- unresentful
+- unrespectful
+- unrestful
+- untactful
+- untasteful
+- unthoughtful
+- untrustful

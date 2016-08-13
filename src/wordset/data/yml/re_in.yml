@@ -1,0 +1,29 @@
+---
+pattern: re_in
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 19
+score: 704476
+score_per_word: 54190
+hi_scored_words:
+  redskin: 82961
+  refrain: 11324
+  regain: 13090
+  rein: 23322
+  rejoin: 30987
+  remain: 1359
+  renin: 49680
+  resin: 12759
+  restrain: 18448
+  retain: 4655
+  retrain: 65514
+scored_words:
+  redfin: 253383
+  replevin: 136994
+not_scored_words:
+- Regin
+- Reuchlin
+- reattain
+- recoin
+- reexplain
+- rennin

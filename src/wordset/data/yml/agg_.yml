@@ -1,0 +1,76 @@
+---
+pattern: agg_
+hi_scored_words_count: 24
+scored_words_count: 17
+total_words: 66
+score: 4118858
+score_per_word: 100459
+hi_scored_words:
+  aggie: 30141
+  agglomeration: 51462
+  agglutination: 65268
+  agglutinative: 80375
+  aggrandizement: 81369
+  aggravate: 38770
+  aggravated: 16232
+  aggravates: 75832
+  aggravating: 33872
+  aggravation: 37805
+  aggregate: 6836
+  aggregated: 28760
+  aggregates: 27765
+  aggregating: 46566
+  aggregation: 16891
+  aggregations: 69124
+  aggression: 11815
+  aggressive: 6303
+  aggressively: 19996
+  aggressiveness: 51121
+  aggressor: 37985
+  aggressors: 70526
+  aggrieved: 30364
+  aggro: 56728
+scored_words:
+  agger: 136020
+  aggiornamento: 162292
+  agglomerate: 140828
+  agglomerated: 193077
+  agglomerates: 191865
+  agglomerations: 118130
+  agglomerative: 290642
+  agglutinate: 100405
+  agglutinated: 264127
+  agglutinin: 124466
+  agglutinins: 182386
+  aggrandize: 198927
+  aggrandizing: 152776
+  aggravations: 250614
+  aggravator: 260072
+  aggregative: 259687
+  aggressions: 100638
+not_scored_words:
+- Aggeus
+- Aggie
+- agglomerating
+- agglutinates
+- agglutinating
+- agglutinations
+- agglutinogen
+- agglutinogens
+- aggrade
+- aggraded
+- aggrades
+- aggrading
+- aggrandized
+- aggrandizer
+- aggrandizes
+- aggravatingly
+- aggress
+- aggressed
+- aggresses
+- aggressing
+- aggrieve
+- aggrievedly
+- aggrievement
+- aggrieves
+- aggrieving

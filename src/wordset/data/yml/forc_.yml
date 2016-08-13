@@ -1,0 +1,25 @@
+---
+pattern: forc_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 15
+score: 918322
+score_per_word: 70640
+hi_scored_words:
+  force: 523
+  forced: 1448
+  forceful: 27809
+  forcefully: 30573
+  forceps: 37607
+  forces: 1393
+  forcible: 34415
+  forcibly: 20942
+  forcing: 7259
+scored_words:
+  forcefulness: 220452
+  forcemeat: 182620
+  forcemeats: 203722
+  forcer: 149559
+not_scored_words:
+- forcedly
+- forceless

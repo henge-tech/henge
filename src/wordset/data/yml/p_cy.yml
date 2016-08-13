@@ -1,0 +1,55 @@
+---
+pattern: p_cy
+hi_scored_words_count: 17
+scored_words_count: 11
+total_words: 45
+score: 2827382
+score_per_word: 100977
+hi_scored_words:
+  papacy: 35957
+  patency: 84834
+  pendency: 99127
+  permanency: 53321
+  persistency: 88938
+  pharmacy: 13166
+  piracy: 14230
+  poignancy: 82701
+  policy: 497
+  potency: 20354
+  pregnancy: 6298
+  prelacy: 80381
+  presidency: 10473
+  primacy: 34985
+  privacy: 3191
+  proficiency: 13279
+  prophecy: 9236
+scored_words:
+  pacy: 205000
+  paramountcy: 286131
+  pertinency: 216374
+  piquancy: 250192
+  pliancy: 188694
+  plutocracy: 106009
+  poncy: 269102
+  precedency: 184599
+  precipitancy: 181830
+  profligacy: 108513
+  pungency: 179970
+not_scored_words:
+- Papacy
+- Percy
+- pantisocracy
+- peccancy
+- petulancy
+- plangency
+- polyvalency
+- pornocracy
+- postulancy
+- predominancy
+- preoccupancy
+- prepotency
+- prolificacy
+- protuberancy
+- psychomancy
+- pudency
+- pyromancy

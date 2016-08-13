@@ -1,0 +1,21 @@
+---
+pattern: weir_
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 11
+score: 409995
+score_per_word: 45555
+hi_scored_words:
+  weir: 20020
+  weird: 4244
+  weirder: 64630
+  weirdest: 45164
+  weirdly: 66774
+  weirdness: 31118
+  weirdo: 37667
+  weirdos: 69349
+  weirs: 71029
+scored_words: {}
+not_scored_words:
+- weirdie
+- weirdies

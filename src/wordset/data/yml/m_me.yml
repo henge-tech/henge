@@ -1,0 +1,43 @@
+---
+pattern: m_me
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 33
+score: 1289513
+score_per_word: 80594
+hi_scored_words:
+  madame: 8031
+  mainframe: 20999
+  maritime: 7415
+  mealtime: 68574
+  meantime: 6905
+  meme: 14201
+  metronome: 39595
+  mime: 12892
+  monochrome: 23777
+  morpheme: 79291
+scored_words:
+  macrame: 100511
+  meddlesome: 119427
+  mesenchyme: 107987
+  mettlesome: 237066
+  microsome: 273991
+  microtome: 168851
+not_scored_words:
+- Madame
+- Mallarme
+- Maytime
+- Mercurochrome
+- Mfume
+- Mme
+- millieme
+- millime
+- millième
+- misbecome
+- misname
+- mistime
+- mneme
+- monosome
+- monostome
+- morphophoneme
+- myotome

@@ -1,0 +1,34 @@
+---
+pattern: _ssor
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 24
+score: 1338256
+score_per_word: 58185
+hi_scored_words:
+  aggressor: 37985
+  assessor: 30443
+  compressor: 15170
+  confessor: 40305
+  coprocessor: 80366
+  lessor: 33754
+  microprocessor: 24074
+  multiprocessor: 55543
+  oppressor: 51022
+  possessor: 39485
+  predecessor: 11959
+  processor: 3590
+  professor: 1350
+  repressor: 55206
+  scissor: 29810
+  stressor: 78698
+  successor: 7760
+  suppressor: 26518
+scored_words:
+  depressor: 146077
+  intercessor: 134044
+  pressor: 113008
+  regressor: 198876
+  transgressor: 123213
+not_scored_words:
+- plessor

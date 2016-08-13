@@ -1,0 +1,50 @@
+---
+pattern: _ught
+hi_scored_words_count: 21
+scored_words_count: 10
+total_words: 40
+score: 2223273
+score_per_word: 71718
+hi_scored_words:
+  afterthought: 41536
+  aught: 39747
+  besought: 92177
+  bought: 1500
+  brought: 874
+  caught: 1842
+  distraught: 35281
+  dreadnought: 46167
+  drought: 10055
+  forethought: 66503
+  fought: 4511
+  fraught: 28050
+  naught: 30053
+  nought: 40537
+  onslaught: 23493
+  ought: 3397
+  overwrought: 83154
+  sought: 2761
+  taught: 2210
+  thought: 346
+  wrought: 9822
+scored_words:
+  aforethought: 115142
+  bethought: 147798
+  merrythought: 174934
+  methought: 160969
+  overbought: 151251
+  rethought: 122940
+  uncaught: 157695
+  unsought: 197026
+  untaught: 205933
+  unthought: 225569
+not_scored_words:
+- Connaught
+- fearnought
+- inwrought
+- outfought
+- overthought
+- retaught
+- rewrought
+- superdreadnought
+- unfought

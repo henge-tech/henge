@@ -1,0 +1,33 @@
+---
+pattern: tril_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 23
+score: 1796141
+score_per_word: 105655
+hi_scored_words:
+  trilateral: 66432
+  trilingual: 89457
+  trill: 48588
+  trilling: 90770
+  trillion: 11627
+  trillions: 54289
+  trillium: 52632
+  trilobite: 85257
+  trilobites: 94805
+  trilogy: 20067
+scored_words:
+  trilby: 106978
+  trilinear: 157738
+  triliteral: 202752
+  trilled: 216649
+  trillionth: 239300
+  trills: 115040
+  trilogies: 143760
+not_scored_words:
+- trilaterals
+- trilateration
+- trilbies
+- trilemma
+- trillionths
+- trilobate

@@ -1,0 +1,26 @@
+---
+pattern: c_ged
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 16
+score: 940453
+score_per_word: 72342
+hi_scored_words:
+  caged: 34339
+  camouflaged: 53835
+  cataloged: 54244
+  centrifuged: 69223
+  challenged: 7335
+  changed: 1084
+  charged: 2488
+  clogged: 34842
+  converged: 33550
+  cringed: 80582
+scored_words:
+  chugged: 162409
+  clanged: 193332
+  counterchanged: 213190
+not_scored_words:
+- cadged
+- carpetbagged
+- constringed

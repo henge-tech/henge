@@ -1,0 +1,35 @@
+---
+pattern: t_ge
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 25
+score: 1554648
+score_per_word: 103643
+hi_scored_words:
+  teenage: 7925
+  tenge: 89039
+  tillage: 32439
+  tinge: 39385
+  tonnage: 24842
+  triage: 37281
+  trudge: 74440
+  tutelage: 49681
+  twinge: 67344
+scored_words:
+  tankage: 207034
+  targe: 131812
+  thaumaturge: 158065
+  towage: 195734
+  trackage: 126359
+  turbocharge: 313268
+not_scored_words:
+- Trowbridge
+- tallage
+- tannage
+- telpherage
+- teniafuge
+- tentage
+- thirlage
+- treillage
+- truckage
+- tunnage

@@ -1,0 +1,24 @@
+---
+pattern: g_it
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 651529
+score_per_word: 65152
+hi_scored_words:
+  gait: 19648
+  gambit: 28201
+  gesundheit: 56847
+  gigabit: 21456
+  git: 13761
+  godwit: 91977
+  grapefruit: 21712
+  grit: 18878
+scored_words:
+  geddit: 271282
+  goddammit: 107767
+not_scored_words:
+- gaslit
+- genit
+- glaikit
+- grassquit

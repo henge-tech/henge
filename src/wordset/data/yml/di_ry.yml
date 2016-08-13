@@ -1,0 +1,30 @@
+---
+pattern: di_ry
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 20
+score: 1267265
+score_per_word: 79204
+hi_scored_words:
+  diary: 4777
+  dictionary: 4013
+  dietary: 14869
+  dignitary: 79616
+  directory: 3738
+  disciplinary: 15230
+  discovery: 2293
+  discretionary: 19564
+  discriminatory: 16170
+  dispensary: 53883
+  distillery: 41519
+  diversionary: 79232
+scored_words:
+  dilatory: 104038
+  dispensatory: 292109
+  distributary: 291100
+  divinatory: 245114
+not_scored_words:
+- dimissory
+- dissatisfactory
+- dissymmetry
+- dithery

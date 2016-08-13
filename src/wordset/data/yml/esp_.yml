@@ -1,0 +1,47 @@
+---
+pattern: esp_
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 37
+score: 2243517
+score_per_word: 101978
+hi_scored_words:
+  esp: 8807
+  especial: 23742
+  especially: 681
+  esperance: 56056
+  espionage: 22049
+  esplanade: 33948
+  espouse: 49890
+  espoused: 42771
+  espouses: 99818
+  espousing: 84484
+  espresso: 12503
+  esprit: 20788
+  espy: 61978
+scored_words:
+  espadrille: 245378
+  espadrilles: 186990
+  espagnole: 117809
+  espalier: 278074
+  esparto: 146202
+  espial: 213389
+  espied: 144499
+  espousal: 166118
+  espressos: 227543
+not_scored_words:
+- ESP
+- ESPN
+- Esperantist
+- Esperanto
+- Esperanza
+- Espinoza
+- Espoo
+- espaliered
+- espaliering
+- espaliers
+- espials
+- espies
+- esplanades
+- espouser
+- espying

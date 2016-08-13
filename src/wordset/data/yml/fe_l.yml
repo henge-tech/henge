@@ -1,0 +1,30 @@
+---
+pattern: fe_l
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 20
+score: 657666
+score_per_word: 46976
+hi_scored_words:
+  fearful: 12695
+  fecal: 25515
+  federal: 1333
+  feel: 365
+  fell: 1957
+  femoral: 30022
+  fennel: 34945
+  feral: 31190
+  festival: 2598
+  fetal: 13935
+  feudal: 19899
+scored_words:
+  feal: 157040
+  ferial: 211277
+  festal: 114895
+not_scored_words:
+- Federal
+- Fernandel
+- Ferrell
+- Ferrol
+- febrifugal
+- fetial

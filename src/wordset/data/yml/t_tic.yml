@@ -1,0 +1,45 @@
+---
+pattern: t_tic
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 35
+score: 1228112
+score_per_word: 68228
+hi_scored_words:
+  tactic: 17294
+  technocratic: 82795
+  theistic: 57847
+  thematic: 17068
+  theocratic: 63647
+  theoretic: 31624
+  therapeutic: 17021
+  thermoplastic: 36796
+  thermostatic: 82552
+  thrombolytic: 80185
+  thrombotic: 80195
+  touristic: 57421
+  transatlantic: 24873
+  traumatic: 14446
+scored_words:
+  telekinetic: 131664
+  terroristic: 122540
+  thetic: 169495
+  tungstic: 140649
+not_scored_words:
+- Taoistic
+- Thomistic
+- theorematic
+- thermomagnetic
+- thromboplastic
+- timocratic
+- tonetic
+- tonsillitic
+- toreutic
+- totemistic
+- trachytic
+- transarctic
+- transcendentalistic
+- trichromatic
+- tricrotic
+- troglodytic
+- truistic

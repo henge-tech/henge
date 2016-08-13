@@ -1,0 +1,51 @@
+---
+pattern: bi_t
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 41
+score: 2458166
+score_per_word: 102423
+hi_scored_words:
+  bicyclist: 83165
+  bidet: 44281
+  bigfoot: 29584
+  biggest: 3089
+  bight: 45138
+  bigot: 38876
+  bigshot: 99199
+  billet: 23224
+  biochemist: 64019
+  biologist: 28067
+  birthright: 33689
+  biscuit: 13759
+  bit: 553
+  bitterest: 89532
+  bitterroot: 87104
+  bittersweet: 27068
+scored_words:
+  bigamist: 205572
+  bioethicist: 292010
+  biophysicist: 282022
+  birefringent: 175022
+  bisect: 111074
+  bistort: 338119
+  bitt: 206713
+  bivalent: 137287
+not_scored_words:
+- BITNET
+- Biblicist
+- Bifrost
+- Bigfoot
+- BitTorrent
+- Bizet
+- bibelot
+- biblioclast
+- biocatalyst
+- biotechnologist
+- bipropellant
+- birdshot
+- birthroot
+- birthwort
+- bitchiest
+- bitternut
+- bittiest

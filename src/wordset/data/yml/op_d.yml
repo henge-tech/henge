@@ -1,0 +1,27 @@
+---
+pattern: op_d
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 17
+score: 347725
+score_per_word: 28977
+hi_scored_words:
+  oped: 62019
+  opened: 1553
+  operand: 34680
+  operated: 4862
+  opined: 51522
+  opinionated: 34804
+  opioid: 31449
+  opposed: 3400
+  oppressed: 14546
+  opted: 15801
+  optimized: 15396
+  optioned: 77693
+scored_words: {}
+not_scored_words:
+- opalesced
+- opaqued
+- openhanded
+- openhearted
+- oppugned

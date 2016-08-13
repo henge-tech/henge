@@ -1,0 +1,41 @@
+---
+pattern: _nine
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 31
+score: 1197354
+score_per_word: 63018
+hi_scored_words:
+  adenine: 47128
+  alanine: 40034
+  arginine: 30827
+  asinine: 58706
+  canine: 16058
+  creatinine: 36924
+  feminine: 8362
+  guanine: 50100
+  methionine: 35820
+  mezzanine: 31411
+  nine: 1642
+  phenylalanine: 44390
+  quinine: 44967
+  strychnine: 81422
+  threonine: 42268
+scored_words:
+  cyanine: 199890
+  leonine: 147252
+  phthalocyanine: 159209
+  saturnine: 120944
+not_scored_words:
+- Apennine
+- Fescennine
+- Janine
+- Jeanine
+- Jeannine
+- cinchonine
+- hydrastinine
+- pavonine
+- phenosafranine
+- safranine
+- unfeminine
+- vespertilionine

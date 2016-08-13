@@ -1,0 +1,32 @@
+---
+pattern: cor_l
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 22
+score: 1184274
+score_per_word: 69663
+hi_scored_words:
+  coral: 9099
+  cordial: 22409
+  corneal: 29785
+  cornel: 72307
+  cornmeal: 51699
+  coronal: 39461
+  corporal: 14404
+  corporeal: 43652
+  corral: 22802
+  correctional: 15101
+  cortical: 20789
+  cortisol: 32246
+scored_words:
+  corbeil: 136199
+  corbel: 128634
+  cornball: 232671
+  correl: 208560
+  correlational: 104456
+not_scored_words:
+- Coral
+- Cornell
+- Cornwall
+- Corporal
+- corrival

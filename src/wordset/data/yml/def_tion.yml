@@ -1,0 +1,25 @@
+---
+pattern: def_tion
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 15
+score: 1096688
+score_per_word: 78334
+hi_scored_words:
+  defamation: 29250
+  defecation: 72469
+  defection: 48863
+  defibrillation: 84862
+  definition: 2550
+  deflation: 38911
+  deflection: 25607
+  defoliation: 95838
+  deforestation: 28261
+  deformation: 18939
+scored_words:
+  defalcation: 124115
+  defenestration: 155754
+  deflagration: 260271
+  defloration: 110998
+not_scored_words:
+- defraudation

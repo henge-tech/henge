@@ -1,0 +1,28 @@
+---
+pattern: due_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 1142874
+score_per_word: 87913
+hi_scored_words:
+  due: 505
+  duel: 11260
+  dueling: 40848
+  duelist: 71011
+  duels: 50540
+  dues: 12373
+  duet: 18418
+  duets: 34696
+scored_words:
+  dueled: 234439
+  dueler: 241845
+  duelists: 155082
+  duende: 109154
+  duenna: 162703
+not_scored_words:
+- Duero
+- duelers
+- duelings
+- duello
+- duennas

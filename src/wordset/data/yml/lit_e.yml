@@ -1,0 +1,26 @@
+---
+pattern: lit_e
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 16
+score: 309632
+score_per_word: 38704
+hi_scored_words:
+  lite: 12910
+  literate: 25434
+  literature: 1295
+  litharge: 79921
+  lithe: 56067
+  lithosphere: 65838
+  litigate: 67999
+  little: 168
+scored_words: {}
+not_scored_words:
+- Little
+- literalize
+- lithesome
+- lithomarge
+- lithophyte
+- lithopone
+- litigable
+- litigative

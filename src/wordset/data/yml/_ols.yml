@@ -1,0 +1,87 @@
+---
+pattern: _ols
+hi_scored_words_count: 29
+scored_words_count: 13
+total_words: 77
+score: 3172563
+score_per_word: 75537
+hi_scored_words:
+  aerosols: 36219
+  alcohols: 37780
+  carols: 32764
+  cols: 42409
+  controls: 5303
+  cools: 32542
+  drools: 87248
+  fools: 7922
+  hols: 63649
+  idols: 17948
+  mongols: 49291
+  parasols: 81727
+  patrols: 24608
+  phenols: 66773
+  pistols: 15424
+  pols: 56017
+  pools: 7234
+  preschools: 51426
+  protocols: 15998
+  schools: 968
+  sols: 66678
+  spools: 56425
+  sterols: 81390
+  stools: 17503
+  symbols: 5103
+  tools: 1810
+  vols: 11986
+  whirlpools: 62958
+  wools: 97985
+scored_words:
+  capitols: 132820
+  carpools: 160017
+  cesspools: 190807
+  consols: 238132
+  dols: 206519
+  extols: 148169
+  footstools: 145514
+  gambols: 127073
+  glycols: 113105
+  mols: 116995
+  toadstools: 150264
+  tocopherols: 140388
+  viols: 167672
+not_scored_words:
+- COBOLs
+- Capitols
+- Demerols
+- Lysols
+- Mongols
+- Nichols
+- aldols
+- befools
+- benzols
+- butanols
+- calciferols
+- campstools
+- chloramphenicols
+- cortisols
+- cresols
+- decontrols
+- ergocalciferols
+- folderols
+- frivols
+- girasols
+- inositols
+- isopropanols
+- linalools
+- paracetamols
+- pentylenetetrazols
+- playschools
+- resorcinols
+- retinols
+- retools
+- salols
+- stilbestrols
+- thymols
+- tomfools
+- tribromoethanols
+- xylols

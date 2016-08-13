@@ -1,0 +1,39 @@
+---
+pattern: nee_
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 29
+score: 1430999
+score_per_word: 68142
+hi_scored_words:
+  nee: 17385
+  need: 164
+  needed: 818
+  needful: 35027
+  needing: 9967
+  needle: 6448
+  needlepoint: 44858
+  needles: 11026
+  needless: 11453
+  needlessly: 39190
+  needlework: 35588
+  needn't: 10186
+  needs: 666
+  needy: 14330
+scored_words:
+  neediest: 116774
+  neediness: 199239
+  needlecraft: 149877
+  needlecrafts: 239704
+  needled: 140765
+  needler: 229085
+  needling: 118449
+not_scored_words:
+- needfully
+- needfulness
+- needier
+- needlefish
+- needleful
+- needlessness
+- needlewoman
+- needlewomen

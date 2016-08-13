@@ -1,0 +1,40 @@
+---
+pattern: sme_
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 30
+score: 1360103
+score_per_word: 75561
+hi_scored_words:
+  smear: 20748
+  smeared: 39601
+  smearing: 59647
+  smears: 46302
+  smell: 4274
+  smelled: 25256
+  smelling: 20483
+  smells: 11307
+  smelly: 23471
+  smelt: 33106
+  smelter: 45874
+  smelters: 81203
+  smelting: 40434
+scored_words:
+  smectic: 162567
+  smegma: 126838
+  smelted: 202443
+  smelts: 278795
+  smew: 137754
+not_scored_words:
+- Smetana
+- smearcase
+- smearier
+- smeariest
+- smeary
+- smegmas
+- smellier
+- smelliest
+- smelliness
+- smelteries
+- smeltery
+- smews

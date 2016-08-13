@@ -1,0 +1,46 @@
+---
+pattern: gl_ed
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 36
+score: 2332161
+score_per_word: 93286
+hi_scored_words:
+  glanced: 14108
+  glared: 45113
+  glassed: 85363
+  glazed: 16221
+  gleamed: 61024
+  gleaned: 37630
+  glided: 52881
+  glimpsed: 65512
+  glistened: 88617
+  glittered: 77353
+  globalized: 64322
+  glorified: 28241
+  glossed: 73233
+  gloved: 62813
+  glowed: 60661
+  glued: 22955
+scored_words:
+  glaciated: 116600
+  gladdened: 173897
+  glamorized: 254598
+  glimmered: 146391
+  glinted: 166866
+  gloated: 156539
+  gloried: 135440
+  glowered: 137850
+  glutted: 187933
+not_scored_words:
+- glaceed
+- glacéed
+- glamored
+- glamoured
+- glissaded
+- glistered
+- glitched
+- globed
+- glommed
+- glottalized
+- gluttonized

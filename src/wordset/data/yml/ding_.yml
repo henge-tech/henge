@@ -1,0 +1,35 @@
+---
+pattern: ding_
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 25
+score: 1437215
+score_per_word: 95814
+hi_scored_words:
+  ding: 16549
+  dingbats: 95147
+  dinghies: 59388
+  dinghy: 30815
+  dingle: 42575
+  dingo: 37382
+  dings: 47298
+  dingy: 36977
+scored_words:
+  dingbat: 115272
+  dinge: 118945
+  dinged: 141481
+  dinges: 183516
+  dinging: 255771
+  dingoes: 150790
+  dingus: 105309
+not_scored_words:
+- dingdong
+- dingdonged
+- dingdonging
+- dingdongs
+- dingier
+- dingiest
+- dingily
+- dinginess
+- dingles
+- dinguses

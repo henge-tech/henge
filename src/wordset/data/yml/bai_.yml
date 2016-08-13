@@ -1,0 +1,50 @@
+---
+pattern: bai_
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 40
+score: 2340830
+score_per_word: 93633
+hi_scored_words:
+  bail: 9922
+  bailed: 54552
+  bailee: 95531
+  bailey: 7079
+  baileys: 60782
+  bailiff: 34054
+  bailiffs: 66453
+  bailing: 62337
+  bailiwick: 87600
+  bailout: 53028
+  bails: 66515
+  bait: 9913
+  baited: 59120
+  baiting: 40013
+  baits: 40569
+scored_words:
+  bailable: 244401
+  bailer: 144344
+  bailie: 109293
+  bailment: 206646
+  bailor: 225865
+  bailouts: 123033
+  bairn: 111326
+  bairns: 144480
+  baiter: 183473
+  baize: 100501
+not_scored_words:
+- Baikal
+- Bailey
+- Bailly
+- Bairam
+- Baird
+- Bairiki
+- bailees
+- bailiwicks
+- bailments
+- bailors
+- bailsman
+- bailsmen
+- bainite
+- baiza
+- baizas

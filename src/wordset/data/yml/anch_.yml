@@ -1,0 +1,34 @@
+---
+pattern: anch_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 24
+score: 1126956
+score_per_word: 86688
+hi_scored_words:
+  anchor: 4895
+  anchorage: 11418
+  anchorages: 95800
+  anchored: 18542
+  anchoring: 35727
+  anchorman: 51050
+  anchors: 18574
+  anchovies: 61392
+  anchovy: 54954
+scored_words:
+  anchoress: 134296
+  anchorite: 222083
+  anchorites: 163351
+  anchorwoman: 254874
+not_scored_words:
+- Anchises
+- Anchorage
+- anchoritic
+- anchormen
+- anchorpeople
+- anchorperson
+- anchorpersons
+- anchorwomen
+- anchoveta
+- anchusin
+- anchylose

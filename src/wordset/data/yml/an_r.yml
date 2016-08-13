@@ -1,0 +1,55 @@
+---
+pattern: an_r
+hi_scored_words_count: 24
+scored_words_count: 3
+total_words: 45
+score: 1397203
+score_per_word: 51748
+hi_scored_words:
+  analyzer: 16429
+  ancestor: 12409
+  anchor: 4895
+  anemometer: 65925
+  anger: 3769
+  angler: 27667
+  angrier: 85288
+  angular: 13002
+  animator: 25942
+  annihilator: 81709
+  announcer: 19965
+  annular: 41220
+  another: 181
+  answer: 599
+  answerer: 74570
+  anteater: 76483
+  antechamber: 94917
+  anterior: 12105
+  anther: 71350
+  anticancer: 57078
+  antimatter: 58102
+  antitumor: 68131
+  antiwar: 41723
+  antler: 31963
+scored_words:
+  annotator: 130334
+  annunciator: 169590
+  antinuclear: 111857
+not_scored_words:
+- Anaximander
+- Angkor
+- Antipater
+- ancienter
+- anear
+- aniler
+- ankylosaur
+- annealer
+- anointer
+- antechoir
+- antiar
+- antichlor
+- anticipator
+- antilabor
+- antimacassar
+- antiquer
+- antitakeover
+- antsier

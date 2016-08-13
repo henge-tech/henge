@@ -1,0 +1,42 @@
+---
+pattern: outf_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 32
+score: 1146435
+score_per_word: 71652
+hi_scored_words:
+  outfall: 63400
+  outfield: 35282
+  outfielder: 39305
+  outfit: 9732
+  outfits: 19328
+  outfitted: 44099
+  outfitter: 53636
+  outfitters: 24203
+  outfitting: 62559
+  outflow: 30667
+  outflows: 56449
+scored_words:
+  outfalls: 125862
+  outfielders: 100103
+  outflank: 148828
+  outflanked: 206359
+  outfoxed: 126623
+not_scored_words:
+- outface
+- outfaced
+- outfaces
+- outfacing
+- outfields
+- outfight
+- outfighting
+- outfights
+- outflanking
+- outflanks
+- outflatter
+- outfoot
+- outfought
+- outfox
+- outfoxes
+- outfoxing

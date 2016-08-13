@@ -1,0 +1,34 @@
+---
+pattern: f_ps
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 24
+score: 1372763
+score_per_word: 85797
+hi_scored_words:
+  fellowships: 16561
+  fingertips: 17881
+  flaps: 23971
+  flips: 29194
+  flops: 23178
+  followups: 93645
+  footsteps: 11577
+  forceps: 37607
+  fps: 12453
+  fraps: 98724
+  friendships: 16332
+scored_words:
+  filmstrips: 171242
+  flagships: 169596
+  flattops: 304571
+  fops: 174442
+  ftps: 171789
+not_scored_words:
+- fillips
+- firetraps
+- flareups
+- flumps
+- flytraps
+- foretops
+- frumps
+- fullstops

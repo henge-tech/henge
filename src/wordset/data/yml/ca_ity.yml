@@ -1,0 +1,26 @@
+---
+pattern: ca_ity
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1077308
+score_per_word: 89775
+hi_scored_words:
+  calamity: 21235
+  capability: 8060
+  capacity: 1589
+  captivity: 17542
+  carcinogenicity: 60339
+  cardinality: 44187
+  causality: 34434
+  cavity: 10368
+scored_words:
+  canonicity: 270884
+  capillarity: 265284
+  carnality: 231332
+  catholicity: 112054
+not_scored_words:
+- Catholicity
+- caducity
+- callosity
+- causticity

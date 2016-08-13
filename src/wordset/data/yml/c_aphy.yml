@@ -1,0 +1,28 @@
+---
+pattern: c_aphy
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 18
+score: 268505
+score_per_word: 33563
+hi_scored_words:
+  calligraphy: 23362
+  cartography: 31617
+  choreography: 25818
+  chromatography: 17316
+  cinematography: 24741
+  cosmography: 82770
+  cryptography: 23901
+  crystallography: 38980
+scored_words: {}
+not_scored_words:
+- cacography
+- cardiography
+- cerography
+- chalcography
+- chartography
+- chirography
+- choregraphy
+- chorography
+- chromolithography
+- chronography

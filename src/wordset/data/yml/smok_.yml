@@ -1,0 +1,33 @@
+---
+pattern: smok_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 23
+score: 1065969
+score_per_word: 71064
+hi_scored_words:
+  smoke: 2218
+  smoked: 8449
+  smokehouse: 65383
+  smokeless: 43778
+  smoker: 19452
+  smokers: 20370
+  smokes: 24349
+  smokescreen: 69816
+  smokestack: 80047
+  smokey: 21335
+  smoking: 2442
+  smoky: 15871
+scored_words:
+  smokejumper: 329461
+  smokestacks: 124873
+  smokiness: 238125
+not_scored_words:
+- Smokey
+- smokechaser
+- smokehouses
+- smokeproof
+- smokescreens
+- smokier
+- smokiest
+- smoko

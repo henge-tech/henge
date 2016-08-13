@@ -1,0 +1,26 @@
+---
+pattern: han_g
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 16
+score: 1081070
+score_per_word: 77219
+hi_scored_words:
+  handbag: 20044
+  handicapping: 42868
+  handing: 15569
+  handling: 3491
+  handshaking: 96847
+  handspring: 38519
+  handwriting: 14743
+  hang: 3071
+  hanging: 3329
+  hankering: 53914
+scored_words:
+  handcrafting: 289949
+  handcuffing: 162590
+  handfasting: 228613
+  hangdog: 107523
+not_scored_words:
+- Hanyang
+- handpicking

@@ -1,0 +1,23 @@
+---
+pattern: int_ar
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 959799
+score_per_word: 87254
+hi_scored_words:
+  intercellular: 57589
+  intermolecular: 67138
+  interstellar: 26155
+  interwar: 81226
+  intracellular: 21994
+  intramolecular: 72474
+  intramuscular: 52420
+  intraocular: 49682
+scored_words:
+  interlinear: 103464
+  internuclear: 237152
+  intranuclear: 190505
+not_scored_words:
+- interlunar
+- interocular

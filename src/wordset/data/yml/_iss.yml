@@ -1,0 +1,30 @@
+---
+pattern: _iss
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 20
+score: 276751
+score_per_word: 27675
+hi_scored_words:
+  amiss: 35284
+  bliss: 7972
+  dismiss: 10697
+  edelweiss: 54184
+  gneiss: 73287
+  hiss: 27607
+  kiss: 2469
+  miss: 1003
+  piss: 8062
+  remiss: 56186
+scored_words: {}
+not_scored_words:
+- Bliss
+- Curtiss
+- Hiss
+- ISS
+- Miss
+- Swiss
+- Weiss
+- kumiss
+- speiss
+- submiss

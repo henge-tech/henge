@@ -1,0 +1,33 @@
+---
+pattern: the_es
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 23
+score: 1367840
+score_per_word: 97702
+hi_scored_words:
+  thebes: 35734
+  themes: 5127
+  themselves: 754
+  theologies: 89178
+  theories: 4594
+  therapies: 11089
+  thermocouples: 74495
+  thesauruses: 98836
+  theses: 23270
+scored_words:
+  thees: 155936
+  theocracies: 272842
+  theodolites: 230917
+  theorizes: 144038
+  thermoses: 221030
+not_scored_words:
+- Thebes
+- Themistocles
+- Thersites
+- thermoelectricities
+- thermometries
+- thermophiles
+- thermopiles
+- thermospheres
+- theurgies

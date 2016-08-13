@@ -1,0 +1,24 @@
+---
+pattern: f_ming
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 14
+score: 188931
+score_per_word: 20992
+hi_scored_words:
+  farming: 5993
+  filming: 11382
+  firming: 55171
+  flaming: 12404
+  foaming: 32219
+  forming: 4425
+  forthcoming: 9212
+  framing: 10335
+  fuming: 47790
+scored_words: {}
+not_scored_words:
+- Fleming
+- fathoming
+- flimflamming
+- forearming
+- foredooming

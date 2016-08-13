@@ -1,0 +1,91 @@
+---
+pattern: i_tes
+hi_scored_words_count: 25
+scored_words_count: 21
+total_words: 81
+score: 5040685
+score_per_word: 109580
+hi_scored_words:
+  ignites: 61937
+  illuminates: 42635
+  illustrates: 9817
+  imitates: 57010
+  implicates: 76725
+  inaugurates: 91549
+  incites: 98572
+  incorporates: 11226
+  indicates: 3953
+  infiltrates: 71274
+  inflates: 89133
+  initiates: 24539
+  inmates: 11716
+  institutes: 13444
+  integrates: 15878
+  intermediates: 30887
+  interstates: 66649
+  intimates: 36581
+  invalidates: 80078
+  invertebrates: 25504
+  investigates: 19683
+  invites: 11222
+  irritates: 59186
+  isolates: 22332
+  iterates: 94814
+scored_words:
+  illiterates: 121896
+  impersonates: 175328
+  impregnates: 278941
+  imputes: 205788
+  inactivates: 150344
+  incarnates: 257789
+  incubates: 253430
+  inculcates: 236204
+  infuriates: 123674
+  ingrates: 245911
+  innovates: 150032
+  insinuates: 142609
+  inspectorates: 184520
+  instantiates: 136913
+  instigates: 195131
+  insulates: 114978
+  interpolates: 159832
+  interrogates: 146081
+  intimidates: 144773
+  invigorates: 191682
+  irrigates: 298485
+not_scored_words:
+- Isocrates
+- ideates
+- ilmenites
+- immigrates
+- immolates
+- imprecates
+- incapacitates
+- incarcerates
+- incinerates
+- incriminates
+- inculpates
+- indites
+- individuates
+- indoctrinates
+- inebriates
+- infatuates
+- ingeminates
+- ingratiates
+- ingurgitates
+- innervates
+- inoculates
+- inseminates
+- instates
+- intercalates
+- intercommunicates
+- interpellates
+- interpenetrates
+- interrelates
+- intonates
+- intoxicates
+- inundates
+- invaginates
+- invigilates
+- irradiates
+- isogametes

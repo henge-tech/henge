@@ -1,0 +1,58 @@
+---
+pattern: _mon
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 48
+score: 1250123
+score_per_word: 59529
+hi_scored_words:
+  backgammon: 27015
+  cinnamon: 11539
+  common: 403
+  daemon: 22916
+  daimon: 98746
+  demon: 7279
+  gammon: 44639
+  gnomon: 87442
+  lemon: 8501
+  mammon: 66042
+  mon: 3022
+  penstemon: 89733
+  persimmon: 49921
+  salmon: 5970
+  sermon: 9019
+  summon: 17780
+  uncommon: 8665
+scored_words:
+  cardamon: 190566
+  etymon: 175701
+  ichneumon: 186109
+  telamon: 139115
+not_scored_words:
+- Ammon
+- Amon
+- Bayamon
+- Caedmon
+- Cimon
+- Damon
+- Harmon
+- Hermon
+- Lacedaemon
+- Layamon
+- Mammon
+- Mon
+- Mormon
+- Philemon
+- Pokemon
+- Pokémon
+- Ramon
+- Roscommon
+- Simon
+- Solomon
+- Telamon
+- Timon
+- cacodemon
+- discommon
+- eudemon
+- pentstemon
+- resummon

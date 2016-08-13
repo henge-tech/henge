@@ -1,0 +1,23 @@
+---
+pattern: web_s
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 437696
+score_per_word: 48632
+hi_scored_words:
+  webcams: 22182
+  webcasts: 49714
+  webinars: 46403
+  weblogs: 10730
+  webmasters: 45488
+  webmistress: 64126
+  webs: 17586
+  websites: 2531
+scored_words:
+  webers: 178936
+not_scored_words:
+- Websters
+- webisodes
+- webmistresses
+- webworms

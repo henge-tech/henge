@@ -1,0 +1,45 @@
+---
+pattern: dest_
+hi_scored_words_count: 21
+scored_words_count: 10
+total_words: 35
+score: 2440425
+score_per_word: 78723
+hi_scored_words:
+  destabilization: 79326
+  destabilize: 63827
+  destabilizing: 59805
+  destination: 3600
+  destinations: 5486
+  destined: 9648
+  destinies: 47545
+  destiny: 5430
+  destitute: 26255
+  destitution: 73023
+  destroy: 3188
+  destroyed: 3392
+  destroyer: 15942
+  destroyers: 31323
+  destroying: 8667
+  destroys: 16791
+  destruct: 44932
+  destruction: 3066
+  destructive: 8698
+  destructiveness: 97244
+  destructor: 46520
+scored_words:
+  destabilized: 112864
+  destabilizes: 203185
+  destine: 157929
+  destines: 242999
+  destrier: 275070
+  destructed: 160333
+  destructible: 131596
+  destructing: 148598
+  destructively: 119630
+  destructs: 234513
+not_scored_words:
+- destining
+- destroyable
+- destructibility
+- destructionist

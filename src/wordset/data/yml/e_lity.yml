@@ -1,0 +1,36 @@
+---
+pattern: e_lity
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 26
+score: 1613066
+score_per_word: 115219
+hi_scored_words:
+  eligibility: 13837
+  employability: 33834
+  enforceability: 76964
+  equality: 4706
+  eventuality: 65682
+  excitability: 70549
+  extensibility: 50946
+  externality: 60726
+scored_words:
+  edibility: 210348
+  electability: 257471
+  emotionality: 149325
+  essentiality: 185640
+  expandability: 103691
+  extendibility: 329347
+not_scored_words:
+- educability
+- effectuality
+- enviability
+- ephemerality
+- equability
+- equitability
+- equivocality
+- ethereality
+- exhaustibility
+- exportability
+- extendability
+- extraterritoriality

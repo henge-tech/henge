@@ -1,0 +1,47 @@
+---
+pattern: fact_
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 37
+score: 2267833
+score_per_word: 83993
+hi_scored_words:
+  fact: 371
+  faction: 15974
+  factional: 78446
+  factions: 16878
+  factoid: 63940
+  factoids: 90830
+  factor: 2747
+  factored: 37038
+  factorial: 41873
+  factories: 10091
+  factoring: 23792
+  factorization: 42033
+  factors: 3360
+  factory: 2880
+  factotum: 92077
+  facts: 1424
+  factual: 14322
+  factually: 48265
+scored_words:
+  factionalism: 121192
+  factious: 132476
+  factitious: 102176
+  factorials: 238790
+  factorizations: 175796
+  factorize: 246343
+  factorized: 215462
+  factuality: 280871
+  facture: 168386
+not_scored_words:
+- factiously
+- factiousness
+- factitiously
+- factitiousness
+- factitive
+- factorage
+- factorizes
+- factorizing
+- factotums
+- factualities

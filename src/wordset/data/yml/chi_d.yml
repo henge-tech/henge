@@ -1,0 +1,38 @@
+---
+pattern: chi_d
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 28
+score: 1093396
+score_per_word: 78099
+hi_scored_words:
+  chided: 82021
+  child: 336
+  childhood: 3265
+  chilled: 16477
+  chimed: 66551
+  chipboard: 94659
+  chipped: 25691
+  chiseled: 71661
+scored_words:
+  chickened: 143243
+  chickweed: 103936
+  chiliad: 108053
+  chinned: 132874
+  chirped: 102946
+  chiselled: 141683
+not_scored_words:
+- chickenfeed
+- chickenhearted
+- chilblained
+- childbed
+- childproofed
+- chilopod
+- chinked
+- chirked
+- chirred
+- chirruped
+- chitchatted
+- chittered
+- chivied
+- chivvied

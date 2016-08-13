@@ -1,0 +1,30 @@
+---
+pattern: ki_g
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 20
+score: 1155612
+score_per_word: 77040
+hi_scored_words:
+  kickboxing: 35197
+  kicking: 9448
+  kidding: 11766
+  kidnapping: 20754
+  killing: 3270
+  kindling: 45659
+  king: 462
+  kissing: 5395
+  kitbag: 74649
+  kiting: 75131
+scored_words:
+  kiang: 111289
+  kibitzing: 172726
+  kinking: 193321
+  kipping: 253340
+  kitting: 143205
+not_scored_words:
+- King
+- Kipling
+- kibbling
+- kilning
+- kippering

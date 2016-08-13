@@ -1,0 +1,40 @@
+---
+pattern: chu_s
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 30
+score: 1415795
+score_per_word: 94386
+hi_scored_words:
+  chubs: 80412
+  chuckles: 40496
+  chucks: 44782
+  chumps: 95562
+  chums: 51565
+  chunks: 20383
+  churches: 3163
+  churns: 92642
+  chutes: 52848
+  chutneys: 88577
+scored_words:
+  chugs: 161171
+  churchgoers: 134018
+  churchwardens: 122695
+  churchyards: 164814
+  churls: 262667
+not_scored_words:
+- chubbiness
+- chuckholes
+- chuckwallas
+- chufas
+- chuffs
+- chukkas
+- chukkers
+- chumminess
+- chunders
+- chunkiness
+- chunters
+- churchless
+- churlishness
+- churners
+- churrs

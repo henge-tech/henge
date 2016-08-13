@@ -1,0 +1,30 @@
+---
+pattern: sto_ng
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 905733
+score_per_word: 64695
+hi_scored_words:
+  stocking: 11200
+  stockpiling: 61823
+  stomping: 37689
+  stoning: 57023
+  stooping: 63528
+  stopping: 5102
+  storing: 13144
+  storming: 32729
+  storytelling: 15627
+scored_words:
+  stockbroking: 151853
+  stocktaking: 113797
+  stoking: 112837
+  stonewalling: 104439
+  stowing: 124942
+not_scored_words:
+- Storting
+- stockading
+- stomaching
+- stonking
+- stoppering
+- stoppling

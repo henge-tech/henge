@@ -1,0 +1,31 @@
+---
+pattern: cant_s
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 21
+score: 1412286
+score_per_word: 100877
+hi_scored_words:
+  cantankerous: 77457
+  cantatas: 58923
+  canteens: 66763
+  canthus: 74739
+  cantonments: 88183
+  cantons: 52317
+  cantos: 73158
+  cantus: 84768
+scored_words:
+  cantaloupes: 157940
+  cantharides: 105711
+  canticles: 110839
+  cantilevers: 137168
+  cantors: 160966
+  cants: 163354
+not_scored_words:
+- Cantabrigians
+- Canticles
+- cantankerousness
+- canters
+- cantillates
+- cantles
+- cantoris

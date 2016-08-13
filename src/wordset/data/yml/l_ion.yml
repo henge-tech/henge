@@ -1,0 +1,59 @@
+---
+pattern: l_ion
+hi_scored_words_count: 27
+scored_words_count: 9
+total_words: 49
+score: 2740201
+score_per_word: 76116
+hi_scored_words:
+  laceration: 66429
+  lactation: 28049
+  lamentation: 51174
+  lamination: 54282
+  lection: 98981
+  legalization: 34604
+  legation: 82268
+  legion: 10577
+  legislation: 2509
+  legitimation: 79023
+  lesion: 24397
+  levitation: 53209
+  libation: 75200
+  liberalization: 20351
+  liberation: 9496
+  ligation: 42766
+  limitation: 4850
+  lion: 3670
+  liposuction: 28512
+  liquefaction: 62217
+  liquidation: 22549
+  litigation: 8888
+  localization: 15258
+  location: 2504
+  locomotion: 31663
+  lotion: 18631
+  lubrication: 23808
+scored_words:
+  lacrimation: 277703
+  lateralization: 146032
+  laudation: 125843
+  legitimization: 167296
+  libration: 164887
+  lineation: 276016
+  locution: 182804
+  lunation: 199782
+  luxation: 243973
+not_scored_words:
+- labefaction
+- lallation
+- lampion
+- lavation
+- laxation
+- levorotation
+- lionization
+- lobation
+- lobotomization
+- logion
+- lucubration
+- lustration
+- luxuriation

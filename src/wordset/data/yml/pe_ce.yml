@@ -1,0 +1,31 @@
+---
+pattern: pe_ce
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 21
+score: 634463
+score_per_word: 45318
+hi_scored_words:
+  peace: 893
+  penance: 28681
+  pence: 18274
+  penitence: 66318
+  perchance: 36193
+  perforce: 31515
+  performance: 1037
+  permanence: 31774
+  perseverance: 19878
+  persistence: 11863
+  pertinence: 80536
+  pestilence: 35655
+scored_words:
+  penetrance: 123244
+  petulance: 148602
+not_scored_words:
+- Peace
+- Peirce
+- Penzance
+- percipience
+- perdurance
+- permeance
+- perpetuance

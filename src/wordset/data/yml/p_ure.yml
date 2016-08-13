@@ -1,0 +1,35 @@
+---
+pattern: p_ure
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 25
+score: 1463623
+score_per_word: 73181
+hi_scored_words:
+  pasture: 12573
+  pedicure: 34507
+  picture: 494
+  pleasure: 1980
+  portraiture: 34600
+  posture: 14680
+  prefecture: 22587
+  premature: 9667
+  pressure: 1367
+  procedure: 5483
+  procure: 16131
+  puncture: 28862
+  pure: 1847
+scored_words:
+  peradventure: 104471
+  perjure: 256860
+  photogravure: 146475
+  prefigure: 278050
+  prelature: 220674
+  primogeniture: 139429
+  purpure: 132886
+not_scored_words:
+- perdure
+- pisciculture
+- pomiculture
+- postremogeniture
+- preexposure

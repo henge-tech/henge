@@ -1,0 +1,25 @@
+---
+pattern: t_line
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 994200
+score_per_word: 82850
+hi_scored_words:
+  tagline: 40384
+  tetracycline: 40247
+  theophylline: 56725
+  timberline: 48294
+  timeline: 6190
+  touchline: 86011
+  tourmaline: 37836
+  trampoline: 26053
+  treeline: 95967
+scored_words:
+  thermocline: 109501
+  towline: 279790
+  tramline: 167202
+not_scored_words:
+- tapeline
+- trotline
+- tumpline

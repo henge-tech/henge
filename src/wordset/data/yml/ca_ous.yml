@@ -1,0 +1,52 @@
+---
+pattern: ca_ous
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 42
+score: 1385381
+score_per_word: 76965
+hi_scored_words:
+  calamitous: 81228
+  calcareous: 31030
+  callous: 35866
+  cancerous: 33973
+  cantankerous: 77457
+  capacious: 69292
+  capricious: 31226
+  captious: 71944
+  carbonaceous: 72970
+  carboniferous: 54467
+  carnivorous: 37476
+  cartilaginous: 87399
+  cautious: 10929
+  cavernous: 41711
+scored_words:
+  cacophonous: 171377
+  cadaverous: 130657
+  calumnious: 210550
+  carious: 135829
+not_scored_words:
+- Carboniferous
+- cachous
+- caducous
+- caesalpiniaceous
+- calcariferous
+- calciferous
+- calculous
+- caliginous
+- callipygous
+- campanulaceous
+- cankerous
+- canorous
+- capillaceous
+- capparidaceous
+- caprifoliaceous
+- carbonous
+- carcajous
+- carcinomatous
+- carduaceous
+- caribous
+- carpophagous
+- caryophyllaceous
+- caseous
+- catadromous

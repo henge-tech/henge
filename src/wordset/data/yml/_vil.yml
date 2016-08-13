@@ -1,0 +1,24 @@
+---
+pattern: _vil
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 607077
+score_per_word: 55188
+hi_scored_words:
+  anvil: 22804
+  civil: 1224
+  daredevil: 26355
+  devil: 2855
+  evil: 1537
+  uncivil: 77364
+  vil: 34932
+  weevil: 38497
+scored_words:
+  bedevil: 169500
+  cavil: 128300
+  chervil: 103709
+not_scored_words:
+- Advil
+- Devil
+- Nevil

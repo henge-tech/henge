@@ -1,0 +1,45 @@
+---
+pattern: p_sing
+hi_scored_words_count: 22
+scored_words_count: 5
+total_words: 35
+score: 1594552
+score_per_word: 59057
+hi_scored_words:
+  paraphrasing: 52975
+  parsing: 24075
+  passing: 2242
+  pausing: 34872
+  perusing: 49519
+  phasing: 33828
+  phrasing: 38218
+  pissing: 5598
+  pleasing: 9821
+  posing: 11593
+  possessing: 16437
+  praising: 25005
+  predisposing: 71250
+  prepossessing: 94906
+  pressing: 5362
+  processing: 2233
+  professing: 52868
+  progressing: 21073
+  promising: 6181
+  proposing: 11970
+  pulsing: 44550
+  purchasing: 4532
+scored_words:
+  poising: 161893
+  precessing: 326704
+  presupposing: 192547
+  purposing: 174296
+  pursing: 120004
+not_scored_words:
+- percussing
+- perfusing
+- porpoising
+- precising
+- predeceasing
+- premising
+- prolapsing
+- précising

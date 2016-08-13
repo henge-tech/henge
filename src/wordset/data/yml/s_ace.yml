@@ -1,0 +1,20 @@
+---
+pattern: s_ace
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 371955
+score_per_word: 41328
+hi_scored_words:
+  shoelace: 82114
+  showplace: 69398
+  solace: 23221
+  someplace: 27113
+  space: 541
+  subspace: 33054
+  subsurface: 27483
+  surface: 1101
+scored_words:
+  scapegrace: 107930
+not_scored_words:
+- Samothrace

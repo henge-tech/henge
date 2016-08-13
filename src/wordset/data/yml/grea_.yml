@@ -1,0 +1,41 @@
+---
+pattern: grea_
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 31
+score: 2005663
+score_per_word: 100283
+hi_scored_words:
+  grease: 10826
+  greased: 36862
+  greases: 74282
+  greasy: 19366
+  great: 113
+  greater: 824
+  greatest: 1547
+  greatly: 2843
+  greatness: 11432
+  greats: 25728
+  greaves: 49562
+scored_words:
+  greaseless: 284936
+  greasepaint: 246331
+  greaseproof: 202645
+  greaser: 121095
+  greasers: 190734
+  greasewood: 216875
+  greasing: 106373
+  greatcoat: 172337
+  greave: 230952
+not_scored_words:
+- Greater
+- greaseball
+- greaseballs
+- greasewoods
+- greasier
+- greasiest
+- greasily
+- greasiness
+- greatcoats
+- greaten
+- greathearted

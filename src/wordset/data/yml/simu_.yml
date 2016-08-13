@@ -1,0 +1,32 @@
+---
+pattern: simu_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 22
+score: 1053506
+score_per_word: 61970
+hi_scored_words:
+  simulacrum: 99775
+  simulate: 19826
+  simulated: 13741
+  simulates: 39334
+  simulating: 35297
+  simulation: 11515
+  simulations: 9776
+  simulator: 10741
+  simulators: 29870
+  simulcast: 53763
+  simultaneity: 72919
+  simultaneous: 10624
+  simultaneously: 8496
+scored_words:
+  simulacra: 108819
+  simulant: 123117
+  simulcasting: 130355
+  simulcasts: 275538
+not_scored_words:
+- simulacrums
+- simulative
+- simulcasted
+- simultaneousness
+- simultaneousnesses

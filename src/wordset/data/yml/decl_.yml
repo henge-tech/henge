@@ -1,0 +1,66 @@
+---
+pattern: decl_
+hi_scored_words_count: 18
+scored_words_count: 15
+total_words: 56
+score: 3303845
+score_per_word: 100116
+hi_scored_words:
+  decl: 77150
+  declarant: 87815
+  declaration: 3901
+  declarations: 14114
+  declarative: 36937
+  declaratory: 47631
+  declare: 5379
+  declared: 2754
+  declarer: 81669
+  declares: 11865
+  declaring: 10757
+  declassified: 49573
+  declension: 76380
+  declination: 37680
+  decline: 3951
+  declined: 5547
+  declines: 16354
+  declining: 18009
+scored_words:
+  declaim: 201161
+  declaimed: 193330
+  declaiming: 252403
+  declamation: 105992
+  declamations: 112516
+  declamatory: 227287
+  declassification: 102491
+  declassify: 190798
+  declawed: 193555
+  declawing: 172610
+  declensions: 252590
+  declinations: 256787
+  decliners: 160286
+  declivities: 142810
+  declivity: 151763
+not_scored_words:
+- declaimer
+- declaimers
+- declaims
+- declarable
+- declarers
+- declass
+- declasse
+- declassee
+- declassifies
+- declassifying
+- declaw
+- declaws
+- declensional
+- declinable
+- declinate
+- declinational
+- declinatory
+- declinature
+- decliner
+- declinometer
+- declinometers
+- declivitous
+- declivous

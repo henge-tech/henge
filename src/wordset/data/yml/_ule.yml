@@ -1,0 +1,91 @@
+---
+pattern: _ule
+hi_scored_words_count: 22
+scored_words_count: 20
+total_words: 81
+score: 4769491
+score_per_word: 113559
+hi_scored_words:
+  ampoule: 81221
+  boule: 79929
+  capsule: 15099
+  ferrule: 67785
+  globule: 96395
+  granule: 41895
+  joule: 51908
+  minuscule: 50158
+  misrule: 90144
+  module: 7497
+  molecule: 14096
+  mule: 11578
+  nodule: 48327
+  overrule: 61578
+  reschedule: 41868
+  reticule: 79279
+  ridicule: 19081
+  rule: 920
+  schedule: 2839
+  tubule: 59083
+  vestibule: 38756
+  yule: 33473
+scored_words:
+  ampule: 162505
+  bascule: 159163
+  cellule: 157079
+  chondrule: 324208
+  crepuscule: 135968
+  curule: 143450
+  fascicule: 169702
+  ferule: 175481
+  gallinule: 239155
+  graticule: 270463
+  ligule: 270168
+  lobule: 133307
+  macromolecule: 119640
+  majuscule: 140039
+  ovule: 112089
+  papule: 277130
+  pule: 199010
+  pustule: 177692
+  spicule: 170594
+  stipule: 239739
+not_scored_words:
+- Joule
+- Thule
+- Yule
+- animalcule
+- antennule
+- barbule
+- cagoule
+- cupule
+- disseminule
+- floccule
+- frustule
+- gemmule
+- gigajoule
+- glandule
+- glomerule
+- guayule
+- hierodule
+- intitule
+- locule
+- lodicule
+- lunule
+- macule
+- microcapsule
+- monticule
+- mutule
+- noctule
+- opuscule
+- petiolule
+- pinnule
+- plumule
+- saccule
+- spherule
+- spinule
+- sporule
+- trabecule
+- valvule
+- veinule
+- venule
+- virgule

@@ -1,0 +1,36 @@
+---
+pattern: h_ll
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 26
+score: 759227
+score_per_word: 58402
+hi_scored_words:
+  hairball: 76319
+  hall: 871
+  handball: 28975
+  hardball: 37532
+  he'll: 3516
+  hell: 1921
+  highball: 62448
+  hill: 906
+  holdall: 85446
+  hornbill: 79611
+  hull: 6772
+scored_words:
+  handbill: 104808
+  headstall: 270102
+not_scored_words:
+- Hall
+- Hamill
+- Harrell
+- Haskell
+- Heimdall
+- Hill
+- Honeywell
+- Hopewell
+- Howell
+- Hull
+- Hunspell
+- harebell
+- hawkbill

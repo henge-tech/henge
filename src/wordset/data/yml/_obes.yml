@@ -1,0 +1,28 @@
+---
+pattern: _obes
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 1248807
+score_per_word: 96062
+hi_scored_words:
+  bathrobes: 81564
+  globes: 21370
+  lobes: 34460
+  microbes: 32989
+  probes: 12672
+  robes: 13387
+  strobes: 73284
+  wardrobes: 42590
+scored_words:
+  adobes: 177714
+  anaerobes: 142738
+  earlobes: 164996
+  homophobes: 123977
+  technophobes: 327066
+not_scored_words:
+- Francophobes
+- aerobes
+- disrobes
+- enrobes
+- xenophobes

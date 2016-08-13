@@ -1,0 +1,33 @@
+---
+pattern: obsc_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 23
+score: 1243044
+score_per_word: 88788
+hi_scored_words:
+  obscene: 16077
+  obscenities: 67003
+  obscenity: 34833
+  obscure: 7582
+  obscured: 24146
+  obscures: 60977
+  obscuring: 57648
+  obscurity: 23122
+scored_words:
+  obscenely: 100452
+  obscurantism: 172286
+  obscurantist: 235779
+  obscuration: 155151
+  obscurely: 122837
+  obscurities: 165151
+not_scored_words:
+- obscener
+- obscenest
+- obscurant
+- obscurantists
+- obscurement
+- obscureness
+- obscurenesses
+- obscurer
+- obscurest

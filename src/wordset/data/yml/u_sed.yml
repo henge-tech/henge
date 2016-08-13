@@ -1,0 +1,74 @@
+---
+pattern: u_sed
+hi_scored_words_count: 20
+scored_words_count: 21
+total_words: 64
+score: 4761058
+score_per_word: 116123
+hi_scored_words:
+  unbiased: 16847
+  uncircumcised: 61124
+  uncompressed: 39373
+  underused: 79319
+  undiagnosed: 58233
+  undisclosed: 26786
+  undressed: 32572
+  unexcused: 93925
+  unexposed: 92359
+  unfocused: 71242
+  unimpressed: 54643
+  unlicensed: 33311
+  unopposed: 52047
+  unprocessed: 54600
+  unreleased: 21768
+  unstressed: 98702
+  unsupervised: 38132
+  unsurpassed: 34661
+  unused: 10280
+  used: 122
+scored_words:
+  unaddressed: 101706
+  unadvertised: 148251
+  uncaused: 232530
+  unclosed: 146830
+  uncrossed: 185292
+  underdressed: 272658
+  underexposed: 149319
+  undisguised: 118646
+  unembarrassed: 125249
+  unenclosed: 211511
+  unexercised: 179258
+  unexpressed: 131378
+  unharnessed: 193290
+  unhorsed: 132428
+  unloosed: 153826
+  unrehearsed: 193854
+  unrevised: 155832
+  unsuppressed: 270796
+  unsurprised: 243871
+  unversed: 319551
+  upraised: 124936
+not_scored_words:
+- unadvised
+- unamused
+- unappeased
+- unblessed
+- unbruised
+- uncased
+- unconfused
+- undisposed
+- undistressed
+- unendorsed
+- unhoused
+- unkissed
+- unmissed
+- unpleased
+- unpoised
+- unposed
+- unpressed
+- unprofessed
+- unraised
+- unrecompensed
+- unrepressed
+- untraversed
+- unwitnessed

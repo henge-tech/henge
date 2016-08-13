@@ -1,0 +1,23 @@
+---
+pattern: ind_nt
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 13
+score: 425011
+score_per_word: 38637
+hi_scored_words:
+  indecent: 22624
+  indent: 28041
+  independent: 1240
+  indictment: 13860
+  indifferent: 13498
+  indigent: 31721
+  indignant: 31849
+  indolent: 50556
+  inducement: 37385
+  indulgent: 33410
+scored_words:
+  indehiscent: 160827
+not_scored_words:
+- Independent
+- indicant

@@ -1,0 +1,75 @@
+---
+pattern: ga_er
+hi_scored_words_count: 20
+scored_words_count: 15
+total_words: 65
+score: 3192902
+score_per_word: 91225
+hi_scored_words:
+  gabber: 75328
+  gaffer: 56173
+  gainer: 53631
+  gallbladder: 35136
+  gambier: 56118
+  gambler: 20227
+  gamer: 15549
+  gander: 35750
+  gangster: 20727
+  gardener: 11256
+  garner: 21855
+  garter: 24679
+  gasser: 78134
+  gatekeeper: 32872
+  gather: 4365
+  gatherer: 38863
+  gawker: 35956
+  gayer: 97597
+  gazer: 93815
+  gazetteer: 29208
+scored_words:
+  gadgeteer: 103343
+  gagger: 280445
+  gaiter: 112980
+  galloper: 255364
+  galvanometer: 116470
+  gamekeeper: 109087
+  gamester: 135162
+  gammer: 239260
+  ganger: 108788
+  gasholder: 244238
+  gasper: 113636
+  gatecrasher: 102664
+  gater: 189821
+  gaucher: 102011
+  gauger: 142394
+not_scored_words:
+- Gallagher
+- Gardiner
+- Gardner
+- Garner
+- Garter
+- Gasser
+- Gauleiter
+- Gautier
+- gabbier
+- gabbler
+- gadder
+- gainlier
+- gainsayer
+- galactometer
+- galvanizer
+- gamier
+- gammier
+- ganister
+- garbler
+- garroter
+- gaselier
+- gasolier
+- gasometer
+- gassier
+- gaudier
+- gauffer
+- gaunter
+- gaussmeter
+- gauzier
+- gawkier

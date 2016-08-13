@@ -1,0 +1,47 @@
+---
+pattern: priv_
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 37
+score: 2128972
+score_per_word: 81883
+hi_scored_words:
+  priv: 44916
+  privacy: 3191
+  private: 396
+  privateer: 39472
+  privateers: 67355
+  privately: 7065
+  privates: 41568
+  privation: 81810
+  privatization: 15827
+  privatize: 56297
+  privatized: 41382
+  privatizing: 68627
+  privet: 62756
+  privilege: 5226
+  privileged: 8766
+  privileges: 6107
+  privy: 20725
+scored_words:
+  privateering: 243462
+  privater: 248192
+  privations: 102495
+  privative: 222451
+  privatizations: 137719
+  privies: 172432
+  privileging: 112932
+  privily: 210743
+  privity: 107060
+not_scored_words:
+- Privatdocent
+- Private
+- privateersman
+- privateersmen
+- privateness
+- privatenesses
+- privatest
+- privatizes
+- privets
+- privier
+- priviest

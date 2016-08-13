@@ -1,0 +1,48 @@
+---
+pattern: n_tic
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 38
+score: 2034104
+score_per_word: 113005
+hi_scored_words:
+  narcissistic: 42778
+  narcotic: 24008
+  nationalistic: 45127
+  naturalistic: 41878
+  necrotic: 58676
+  nematic: 99538
+  neoplastic: 43663
+  neurotic: 32925
+  nihilistic: 68802
+  numismatic: 51325
+scored_words:
+  narcoleptic: 164656
+  necromantic: 175386
+  nephritic: 120171
+  neritic: 308271
+  neuritic: 285169
+  noetic: 109944
+  nonmagnetic: 173956
+  novelistic: 187831
+not_scored_words:
+- Nilotic
+- nativistic
+- negativistic
+- nepotistic
+- nominalistic
+- nomothetic
+- nonanalytic
+- nonapologetic
+- nonaromatic
+- nonathletic
+- nonautomatic
+- nondemocratic
+- nondiplomatic
+- nondogmatic
+- nondomestic
+- nondramatic
+- nonelastic
+- nonnarcotic
+- nonparasitic
+- nontheistic

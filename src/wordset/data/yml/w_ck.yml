@@ -1,0 +1,37 @@
+---
+pattern: w_ck
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 27
+score: 1934585
+score_per_word: 107476
+hi_scored_words:
+  wack: 37498
+  warlock: 30971
+  weathercock: 80135
+  wedlock: 39289
+  whack: 24309
+  wick: 20413
+  woodblock: 71104
+  woodchuck: 62139
+  woodcock: 37288
+  wrack: 86250
+  wreck: 8886
+scored_words:
+  waterbuck: 180829
+  whaleback: 298302
+  windsock: 138606
+  wingback: 249644
+  wisecrack: 213991
+  woolpack: 237894
+  wryneck: 117037
+not_scored_words:
+- Warbeck
+- Warwick
+- Wick
+- Woodstock
+- Wozzeck
+- walkingstick
+- wetback
+- whipstock
+- woolsack

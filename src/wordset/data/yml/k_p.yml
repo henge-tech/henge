@@ -1,0 +1,34 @@
+---
+pattern: k_p
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 24
+score: 639280
+score_per_word: 53273
+hi_scored_words:
+  keep: 287
+  kelp: 34793
+  kep: 79010
+  ketchup: 30547
+  kidnap: 30044
+  kingship: 56941
+  kinship: 22458
+  kip: 22413
+  knap: 94749
+  kneecap: 84529
+  kop: 55776
+scored_words:
+  knop: 127733
+not_scored_words:
+- KBP
+- KKtP
+- KNP
+- KP
+- KRP
+- Kemp
+- Kip
+- Knapp
+- Krugersdorp
+- Krupp
+- kaisership
+- kingcup

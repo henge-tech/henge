@@ -1,0 +1,63 @@
+---
+pattern: _utes
+hi_scored_words_count: 26
+scored_words_count: 12
+total_words: 53
+score: 3543300
+score_per_word: 93244
+hi_scored_words:
+  absolutes: 55865
+  attributes: 4554
+  brutes: 61959
+  chutes: 52848
+  commutes: 52770
+  computes: 30792
+  constitutes: 3946
+  contributes: 11842
+  dilutes: 89245
+  disputes: 7629
+  distributes: 24829
+  executes: 28319
+  flutes: 26029
+  institutes: 13444
+  lutes: 92011
+  minutes: 486
+  mutes: 68119
+  parachutes: 46978
+  prostitutes: 22427
+  refutes: 64525
+  routes: 6284
+  salutes: 42863
+  solutes: 75430
+  statutes: 6853
+  substitutes: 17564
+  tributes: 24220
+scored_words:
+  acutes: 287615
+  deputes: 165045
+  imputes: 205788
+  malamutes: 192322
+  permutes: 317632
+  persecutes: 213960
+  pollutes: 116462
+  prosecutes: 131195
+  redistributes: 149594
+  reroutes: 289964
+  scutes: 259737
+  transmutes: 282155
+not_scored_words:
+- Jutes
+- Paiutes
+- Utes
+- comminutes
+- confutes
+- convolutes
+- electrocutes
+- elutes
+- malemutes
+- recomputes
+- reconstitutes
+- reputes
+- sautes
+- telecommutes
+- volutes

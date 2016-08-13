@@ -1,0 +1,38 @@
+---
+pattern: frig_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 28
+score: 1236528
+score_per_word: 72736
+hi_scored_words:
+  frig: 75340
+  frigate: 24689
+  frigates: 53199
+  frigging: 89753
+  fright: 17912
+  frighten: 25291
+  frightened: 10006
+  frightening: 15947
+  frighteningly: 73548
+  frightens: 65364
+  frightful: 31547
+  frightfully: 89373
+  frigid: 35729
+scored_words:
+  frighted: 222776
+  frighteners: 135669
+  frights: 120688
+  frigidity: 149697
+not_scored_words:
+- Frigg
+- Frigga
+- Frigidaire
+- frigged
+- frightfulness
+- frighting
+- frigidarium
+- frigidly
+- frigidness
+- frigorific
+- frigs

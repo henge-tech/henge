@@ -1,0 +1,57 @@
+---
+pattern: b_king
+hi_scored_words_count: 20
+scored_words_count: 17
+total_words: 47
+score: 3872274
+score_per_word: 104656
+hi_scored_words:
+  backing: 8211
+  backpacking: 18345
+  backtracking: 53970
+  baking: 7451
+  banking: 3824
+  barking: 12750
+  basking: 37747
+  benchmarking: 24790
+  biking: 11059
+  blanking: 56123
+  blinking: 20307
+  blocking: 9845
+  booking: 7833
+  bookmarking: 48614
+  braking: 20241
+  breaking: 1772
+  breathtaking: 19057
+  broking: 76779
+  bucking: 52184
+  bulking: 66917
+scored_words:
+  backbreaking: 160501
+  balking: 183006
+  bespeaking: 227924
+  betaking: 318479
+  bethinking: 303656
+  bilking: 222202
+  blacking: 102931
+  bloodsucking: 140573
+  bluestocking: 180129
+  bonking: 196725
+  bookmaking: 102188
+  bootlicking: 297025
+  bricking: 213864
+  brooking: 126050
+  bunking: 182841
+  bushwhacking: 242242
+  busking: 114119
+not_scored_words:
+- Barking
+- backstroking
+- barracking
+- bedecking
+- bemocking
+- bivouacking
+- blackjacking
+- boinking
+- bollocking
+- brisking

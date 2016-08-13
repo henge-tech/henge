@@ -1,0 +1,35 @@
+---
+pattern: _fter
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 25
+score: 1695594
+score_per_word: 84779
+hi_scored_words:
+  after: 98
+  drafter: 64799
+  drifter: 39109
+  grafter: 75556
+  hereafter: 12005
+  hereinafter: 26434
+  lifter: 36560
+  rafter: 50160
+  shifter: 30181
+  sifter: 85975
+  softer: 18670
+  swifter: 89511
+  thereafter: 8627
+scored_words:
+  crofter: 154431
+  dafter: 309256
+  defter: 175191
+  grifter: 131665
+  shoplifter: 117136
+  snifter: 129845
+  weightlifter: 140385
+not_scored_words:
+- handicrafter
+- lefter
+- poofter
+- thereinafter
+- tufter

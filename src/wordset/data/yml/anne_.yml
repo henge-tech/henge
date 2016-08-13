@@ -1,0 +1,30 @@
+---
+pattern: anne_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 864831
+score_per_word: 78621
+hi_scored_words:
+  anneal: 89161
+  annealed: 57367
+  annealing: 29717
+  annex: 10604
+  annexation: 20623
+  annexed: 22973
+  annexes: 40710
+  annexing: 85495
+scored_words:
+  annelid: 217698
+  annelids: 180803
+  annexations: 109680
+not_scored_words:
+- Anne
+- Annecy
+- Annenberg
+- Annetta
+- Annette
+- annealer
+- anneals
+- annexationism
+- annexationist

@@ -1,0 +1,27 @@
+---
+pattern: pai_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 17
+score: 514390
+score_per_word: 46762
+hi_scored_words:
+  pails: 55336
+  painkillers: 43577
+  painless: 29021
+  pains: 8026
+  painters: 12534
+  paintings: 5172
+  paints: 11463
+  pairings: 34897
+  pairs: 5337
+scored_words:
+  painfulness: 174518
+  paintbrushes: 134509
+not_scored_words:
+- Paiutes
+- pailfuls
+- painlessness
+- paintboxes
+- paisas
+- paisleys

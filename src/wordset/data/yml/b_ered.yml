@@ -1,0 +1,42 @@
+---
+pattern: b_ered
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 32
+score: 2569202
+score_per_word: 111704
+hi_scored_words:
+  bartered: 83077
+  battered: 19126
+  beleaguered: 41782
+  bettered: 79026
+  bewildered: 25062
+  blistered: 82439
+  bolstered: 47650
+  bordered: 24375
+  bothered: 11290
+  brokered: 53791
+  buffered: 32786
+  butchered: 54062
+  buttered: 39590
+scored_words:
+  badgered: 160165
+  bantered: 223280
+  bespattered: 200543
+  bickered: 281569
+  blinkered: 132902
+  blubbered: 285399
+  blundered: 108403
+  blustered: 252621
+  broidered: 223648
+  buggered: 106616
+not_scored_words:
+- barbered
+- beavered
+- bewhiskered
+- blabbered
+- blathered
+- blithered
+- bouldered
+- buccaneered
+- butterfingered

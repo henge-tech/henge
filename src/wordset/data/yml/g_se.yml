@@ -1,0 +1,38 @@
+---
+pattern: g_se
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 28
+score: 728998
+score_per_word: 45562
+hi_scored_words:
+  galactose: 48123
+  gatehouse: 55190
+  geese: 15706
+  glasshouse: 58504
+  glimpse: 8714
+  glucose: 18717
+  goose: 10186
+  gorse: 52451
+  grandiose: 38615
+  grease: 10826
+  greenhouse: 11179
+  grouse: 23357
+  guesthouse: 27480
+  guise: 19442
+scored_words:
+  globose: 156115
+  guardhouse: 174393
+not_scored_words:
+- Gabonese
+- Genevese
+- Genoese
+- Genovese
+- Gosse
+- Grecise
+- Guyanese
+- gentilesse
+- granulose
+- grilse
+- guanase
+- gyrose

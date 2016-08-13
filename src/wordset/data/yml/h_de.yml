@@ -1,0 +1,39 @@
+---
+pattern: h_de
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 29
+score: 1101802
+score_per_word: 61211
+hi_scored_words:
+  hade: 77711
+  halide: 41927
+  handmade: 13343
+  hayride: 94853
+  herbicide: 24623
+  hide: 1895
+  hillside: 16655
+  homemade: 19324
+  homicide: 16586
+  horde: 13100
+  hornblende: 92067
+  hydride: 43293
+  hydrochloride: 25702
+  hydroxide: 31368
+scored_words:
+  habitude: 206909
+  harlequinade: 113760
+  hearthside: 111569
+  horsehide: 157117
+not_scored_words:
+- Heaviside
+- Hildegarde
+- Homicide
+- Humberside
+- Hyde
+- hagride
+- hebetude
+- hemipode
+- heptode
+- holytide
+- houppelande

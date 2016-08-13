@@ -1,0 +1,39 @@
+---
+pattern: sir_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 29
+score: 1059188
+score_per_word: 81476
+hi_scored_words:
+  sir: 2104
+  sirdar: 77682
+  sire: 12040
+  sired: 54781
+  siren: 18049
+  sirens: 29510
+  sires: 53289
+  sirloin: 51401
+  sirocco: 74698
+  sirs: 38786
+scored_words:
+  siree: 252421
+  siring: 279509
+  sirrah: 114918
+not_scored_words:
+- Sir
+- Sirach
+- Siracusa
+- Siren
+- Sirens
+- Siret
+- Sirius
+- Sirs
+- sirdars
+- sirenic
+- siriases
+- siriasis
+- sirloins
+- siroccos
+- sirrahs
+- sirree

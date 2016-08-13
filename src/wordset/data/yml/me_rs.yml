@@ -1,0 +1,38 @@
+---
+pattern: me_rs
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 28
+score: 1480469
+score_per_word: 87086
+hi_scored_words:
+  meanders: 74735
+  mediators: 36661
+  members: 376
+  memoirs: 9774
+  mentors: 16593
+  merchandisers: 90889
+  mergers: 13539
+  messengers: 16979
+  metaphors: 23677
+  meteors: 40696
+  meters: 6756
+scored_words:
+  meddlers: 267857
+  medlars: 193124
+  mercers: 207744
+  mergansers: 207187
+  messieurs: 120243
+  metalworkers: 153639
+not_scored_words:
+- Messeigneurs
+- Messieurs
+- Meyers
+- megastars
+- memorizers
+- menders
+- menhirs
+- merrymakers
+- mesmerizers
+- messeigneurs
+- metiers

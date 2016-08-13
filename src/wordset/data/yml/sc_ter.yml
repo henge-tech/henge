@@ -1,0 +1,25 @@
+---
+pattern: sc_ter
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 526840
+score_per_word: 58537
+hi_scored_words:
+  scatter: 15433
+  scepter: 54248
+  schoolmaster: 52780
+  scooter: 14146
+  scouter: 95261
+  scoutmaster: 90493
+  screenwriter: 19453
+  scriptwriter: 84826
+scored_words:
+  scoter: 100200
+not_scored_words:
+- Schumpeter
+- scanter
+- scapegoater
+- scintillometer
+- sclerometer
+- scutter

@@ -1,0 +1,61 @@
+---
+pattern: de_ent
+hi_scored_words_count: 27
+scored_words_count: 8
+total_words: 51
+score: 2784118
+score_per_word: 79546
+hi_scored_words:
+  debasement: 98962
+  debridement: 85487
+  decadent: 28710
+  decedent: 38781
+  decent: 4162
+  decrement: 48419
+  deferment: 57435
+  deficient: 12488
+  defilement: 72096
+  delinquent: 20646
+  dement: 91287
+  denouement: 69314
+  department: 1112
+  dependent: 3084
+  deployment: 9147
+  deponent: 87503
+  deportment: 80694
+  derailment: 71798
+  derangement: 83221
+  descent: 7362
+  despondent: 56948
+  detachment: 14056
+  detent: 91995
+  detergent: 23489
+  deterrent: 29566
+  detriment: 22761
+  development: 563
+scored_words:
+  debarment: 163998
+  decipherment: 180877
+  defacement: 123279
+  deferent: 214858
+  demulcent: 312435
+  denouncement: 281225
+  detainment: 163242
+  dethronement: 133118
+not_scored_words:
+- Derbent
+- Derwent
+- debouchment
+- decampment
+- decrescent
+- decumbent
+- decurrent
+- defrayment
+- dehiscent
+- deliquescent
+- delitescent
+- despoilment
+- determent
+- detumescent
+- devilment
+- devolvement

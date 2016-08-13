@@ -1,0 +1,34 @@
+---
+pattern: yar_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 24
+score: 1132294
+score_per_word: 87099
+hi_scored_words:
+  yard: 2815
+  yardage: 36727
+  yardarm: 69477
+  yards: 2701
+  yardstick: 42396
+  yarn: 9565
+  yarns: 26901
+  yarrow: 44062
+scored_words:
+  yardman: 293993
+  yardmaster: 142152
+  yardsticks: 142742
+  yare: 161047
+  yarmulke: 157716
+not_scored_words:
+- Yaren
+- Yarkand
+- Yarmouth
+- Yaroslavl
+- yardages
+- yardarms
+- yardmasters
+- yardmen
+- yarmulka
+- yarmulkas
+- yarmulkes

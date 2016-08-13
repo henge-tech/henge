@@ -1,0 +1,52 @@
+---
+pattern: time_
+hi_scored_words_count: 24
+scored_words_count: 10
+total_words: 42
+score: 2547290
+score_per_word: 74920
+hi_scored_words:
+  time: 51
+  timed: 14219
+  timekeeper: 58153
+  timekeeping: 54209
+  timeless: 22841
+  timeline: 6190
+  timelines: 26452
+  timeliness: 30556
+  timely: 6971
+  timeout: 14333
+  timeouts: 43620
+  timepiece: 48604
+  timepieces: 57744
+  timer: 10785
+  timers: 16066
+  times: 215
+  timescale: 34721
+  timescales: 50564
+  timeshare: 27243
+  timeshares: 66056
+  timetable: 14115
+  timetables: 29370
+  timezone: 22259
+  timezones: 72617
+scored_words:
+  timecard: 160972
+  timecards: 233117
+  timekeepers: 139200
+  timelessly: 267457
+  timelessness: 102166
+  timelier: 311441
+  timetabled: 116192
+  timetabling: 100645
+  timeworks: 168490
+  timeworn: 219656
+not_scored_words:
+- Timex
+- timeliest
+- timeous
+- timepleaser
+- timeserver
+- timeservers
+- timeserving
+- timework

@@ -1,0 +1,29 @@
+---
+pattern: par_al
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 19
+score: 1483531
+score_per_word: 92720
+hi_scored_words:
+  paradoxical: 35819
+  paralegal: 27859
+  paranormal: 17153
+  paraprofessional: 84425
+  parental: 8245
+  parenteral: 39736
+  parenthetical: 62386
+  parietal: 37628
+  parochial: 27724
+  paroxysmal: 73131
+  partial: 3843
+scored_words:
+  paradisiacal: 303268
+  paramedical: 100662
+  parapsychological: 232566
+  parasitical: 208438
+  participial: 220648
+not_scored_words:
+- Parsifal
+- paradisaical
+- parricidal

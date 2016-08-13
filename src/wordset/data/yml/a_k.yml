@@ -1,0 +1,57 @@
+---
+pattern: a_k
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 47
+score: 1437178
+score_per_word: 65326
+hi_scored_words:
+  aardvark: 41281
+  aback: 37147
+  aftershock: 49335
+  airlock: 58067
+  alk: 55386
+  amok: 37237
+  amuck: 91596
+  anorak: 67435
+  ark: 8940
+  arrack: 80541
+  artwork: 9377
+  ask: 349
+  asterisk: 12277
+  attack: 1229
+  auk: 43601
+  awestruck: 79006
+scored_words:
+  alack: 136580
+  amberjack: 167845
+  antilock: 130521
+  antitank: 115897
+  applejack: 107635
+  arak: 105896
+not_scored_words:
+- AFAIK
+- AK
+- Adirondack
+- Akmolinsk
+- Aleksandrovsk
+- Alnitak
+- Amtrak
+- Angarsk
+- Aniakchak
+- Arak
+- Arawak
+- Ark
+- Arkhangelsk
+- Armonk
+- Ask
+- Ataturk
+- Atatürk
+- abelmosk
+- afterdeck
+- airsick
+- alpenstock
+- antiknock
+- apeak
+- apparatchik
+- autotruck

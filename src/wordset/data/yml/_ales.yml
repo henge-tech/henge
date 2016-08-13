@@ -1,0 +1,65 @@
+---
+pattern: _ales
+hi_scored_words_count: 24
+scored_words_count: 10
+total_words: 55
+score: 2623783
+score_per_word: 77170
+hi_scored_words:
+  ales: 34484
+  bales: 27181
+  dales: 32368
+  fairytales: 62292
+  females: 4826
+  folktales: 57527
+  gales: 38315
+  hales: 45900
+  locales: 26922
+  males: 5082
+  musicales: 86948
+  nightingales: 95772
+  pales: 60266
+  rationales: 62558
+  resales: 94243
+  sales: 1873
+  scales: 8670
+  tales: 3793
+  tamales: 68184
+  telesales: 65791
+  timescales: 50564
+  vales: 86907
+  wales: 2490
+  whales: 12098
+scored_words:
+  chorales: 141559
+  exhales: 117410
+  finales: 107859
+  gunwales: 209793
+  inhales: 117821
+  martingales: 164523
+  rales: 171950
+  regales: 298376
+  timbales: 112955
+  wholesales: 146483
+not_scored_words:
+- Airedales
+- Clydesdales
+- Gonzales
+- Internationales
+- Manizales
+- Morales
+- Rosales
+- Thales
+- Wales
+- Yales
+- descales
+- empales
+- farthingales
+- galingales
+- impales
+- pastorales
+- percales
+- rescales
+- stales
+- tattletales
+- telltales

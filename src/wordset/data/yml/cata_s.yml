@@ -1,0 +1,42 @@
+---
+pattern: cata_s
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 32
+score: 1050319
+score_per_word: 75022
+hi_scored_words:
+  catacombs: 42098
+  catalogs: 11073
+  catalogues: 19161
+  catalysis: 34202
+  catalysts: 25770
+  catalyzes: 63888
+  catamarans: 90894
+  catapults: 70984
+  cataracts: 37459
+  catastrophes: 43260
+scored_words:
+  cataclysms: 192622
+  catalogers: 152770
+  catalyses: 155498
+  catamounts: 110640
+not_scored_words:
+- Catalans
+- Catanduanes
+- Catawbas
+- catabasis
+- catabolisms
+- catachreses
+- catachresis
+- catadromous
+- catafalques
+- catalases
+- cataleptics
+- catalpas
+- catamnesis
+- cataphoreses
+- cataphoresis
+- cataplasias
+- cataplasms
+- catatonics

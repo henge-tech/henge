@@ -1,0 +1,28 @@
+---
+pattern: ne_rs
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 1187801
+score_per_word: 91369
+hi_scored_words:
+  nears: 37255
+  negotiators: 34964
+  neighbors: 4766
+  neurotransmitters: 47054
+  newcomers: 18442
+  newsletters: 6125
+  newspapers: 3061
+  newsreaders: 77020
+scored_words:
+  necromancers: 141617
+  netters: 226987
+  neuters: 197387
+  neutralizers: 221497
+  newscasters: 171626
+not_scored_words:
+- Nestors
+- Netherlanders
+- Nevers
+- newsdealers
+- newsmongers

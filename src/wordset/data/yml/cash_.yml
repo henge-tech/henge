@@ -1,0 +1,30 @@
+---
+pattern: cash_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 20
+score: 1253323
+score_per_word: 78332
+hi_scored_words:
+  cash: 1879
+  cashback: 40307
+  cashed: 39244
+  cashes: 90240
+  cashew: 45350
+  cashews: 65317
+  cashflow: 51512
+  cashier: 13048
+  cashiers: 17652
+  cashing: 30785
+  cashmere: 21981
+scored_words:
+  cashbook: 254243
+  cashbox: 152316
+  cashiered: 146827
+  cashiering: 180812
+  cashless: 101810
+not_scored_words:
+- Cash
+- Cashmere
+- cashbooks
+- cashboxes

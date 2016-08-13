@@ -1,0 +1,36 @@
+---
+pattern: _uch
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 26
+score: 998136
+score_per_word: 55452
+hi_scored_words:
+  couch: 6320
+  crouch: 22721
+  eunuch: 47657
+  grouch: 65366
+  inasmuch: 22743
+  insomuch: 90121
+  much: 131
+  nonesuch: 71778
+  ouch: 25626
+  pouch: 12127
+  retouch: 84774
+  slouch: 44952
+  such: 100
+  touch: 1189
+  vouch: 31676
+scored_words:
+  debauch: 131894
+  debouch: 188014
+  overmuch: 150947
+not_scored_words:
+- Baruch
+- Bruch
+- Heptateuch
+- Hexateuch
+- Pentateuch
+- Scaramouch
+- avouch
+- scaramouch

@@ -1,0 +1,37 @@
+---
+pattern: cine_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 27
+score: 1425201
+score_per_word: 101800
+hi_scored_words:
+  cine: 22355
+  cinema: 13142
+  cinemas: 14260
+  cinematic: 23045
+  cinematographer: 31156
+  cinematographers: 94774
+  cinematography: 24741
+  cinereous: 94919
+scored_words:
+  cineaste: 260439
+  cinematheque: 109678
+  cinematically: 231870
+  cinematograph: 165887
+  cinematographic: 104650
+  cineraria: 234285
+not_scored_words:
+- CinemaScope
+- Cinemascope
+- Cinerama
+- cineast
+- cinematization
+- cinematize
+- cinematized
+- cinematizes
+- cinematizing
+- cinerarias
+- cinerarium
+- cinerary
+- cinerator

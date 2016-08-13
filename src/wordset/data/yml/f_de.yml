@@ -1,0 +1,31 @@
+---
+pattern: f_de
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 21
+score: 1411378
+score_per_word: 94091
+hi_scored_words:
+  facade: 18613
+  fade: 8702
+  fireside: 30844
+  fluoride: 21037
+  forbade: 34495
+  formaldehyde: 27071
+  fortitude: 26239
+  fungicide: 47437
+scored_words:
+  ferricyanide: 194744
+  ferrocyanide: 194221
+  finitude: 147971
+  forebode: 139156
+  foreside: 249446
+  fratricide: 118845
+  fusillade: 152557
+not_scored_words:
+- Fronde
+- Froude
+- fanfaronade
+- feticide
+- filicide
+- forbode

@@ -1,0 +1,39 @@
+---
+pattern: y_r
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 29
+score: 1258888
+score_per_word: 78680
+hi_scored_words:
+  yammer: 83231
+  year: 125
+  yer: 11933
+  yesteryear: 43027
+  yonder: 21698
+  yorker: 19212
+  younger: 2854
+  youngster: 24557
+  your: 32
+  yr: 9918
+scored_words:
+  yardmaster: 142152
+  yawner: 185907
+  yellowhammer: 146786
+  yester: 111015
+  yodeler: 153533
+  younker: 302908
+not_scored_words:
+- Yeager
+- Ymir
+- Yser
+- Yukaghir
+- yabber
+- yammerer
+- yapper
+- yawmeter
+- yawper
+- yeastier
+- yellower
+- yuckier
+- yummier

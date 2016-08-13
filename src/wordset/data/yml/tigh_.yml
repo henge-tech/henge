@@ -1,0 +1,29 @@
+---
+pattern: tigh_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 19
+score: 763182
+score_per_word: 58706
+hi_scored_words:
+  tight: 2948
+  tighten: 19332
+  tightened: 25460
+  tightening: 21091
+  tightens: 53550
+  tighter: 19839
+  tightest: 64237
+  tightly: 8407
+  tightness: 38559
+  tightrope: 51755
+  tights: 20776
+scored_words:
+  tightener: 309042
+  tightwad: 128186
+not_scored_words:
+- tighteners
+- tightfisted
+- tightfitting
+- tightlipped
+- tightropes
+- tightwads

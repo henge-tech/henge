@@ -1,0 +1,53 @@
+---
+pattern: _off
+hi_scored_words_count: 24
+scored_words_count: 5
+total_words: 43
+score: 2155018
+score_per_word: 74310
+hi_scored_words:
+  coff: 90409
+  cutoff: 20197
+  doff: 93251
+  handoff: 62634
+  kickoff: 18793
+  knockoff: 46995
+  layoff: 36087
+  liftoff: 61545
+  logoff: 99444
+  'off': 136
+  payoff: 21105
+  playoff: 11352
+  ripoff: 59635
+  runoff: 16836
+  scoff: 47979
+  showoff: 64606
+  shroff: 96960
+  shutoff: 74523
+  spinoff: 51552
+  standoff: 30630
+  stroganoff: 93654
+  takeoff: 29972
+  toff: 83832
+  turnoff: 67153
+scored_words:
+  blastoff: 229277
+  checkoff: 134160
+  falloff: 144913
+  selloff: 194385
+  sendoff: 173003
+not_scored_words:
+- Goff
+- Hoff
+- Karloff
+- Kirchhoff
+- Metchnikoff
+- Rachmaninoff
+- Sarnoff
+- Smirnoff
+- brushoff
+- castoff
+- enfeoff
+- feoff
+- kissoff
+- stopoff

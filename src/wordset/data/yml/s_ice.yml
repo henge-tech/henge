@@ -1,0 +1,20 @@
+---
+pattern: s_ice
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 246723
+score_per_word: 27413
+hi_scored_words:
+  sacrifice: 4642
+  service: 195
+  slice: 7912
+  sluice: 52874
+  solstice: 25520
+  spice: 7891
+  splice: 32707
+  suffice: 12882
+scored_words:
+  surplice: 102100
+not_scored_words:
+- shrewmice

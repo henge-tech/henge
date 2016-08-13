@@ -1,0 +1,36 @@
+---
+pattern: und_ted
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 26
+score: 1791972
+score_per_word: 81453
+hi_scored_words:
+  undated: 30699
+  undaunted: 44543
+  undefeated: 25990
+  underappreciated: 76702
+  underestimated: 32160
+  underrated: 31723
+  underrepresented: 44371
+  understated: 33133
+  undetected: 37641
+  undifferentiated: 37117
+  undiluted: 62113
+  undirected: 69239
+  undisputed: 24758
+  undistributed: 68884
+  undocumented: 26791
+  undoubted: 60039
+scored_words:
+  undecorated: 124296
+  undereducated: 199486
+  underquoted: 310576
+  undigested: 104328
+  undistorted: 142370
+  undulated: 205013
+not_scored_words:
+- underacted
+- undercoated
+- underpopulated
+- undomesticated

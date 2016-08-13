@@ -1,0 +1,40 @@
+---
+pattern: m_res
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 30
+score: 1003920
+score_per_word: 62745
+hi_scored_words:
+  manicures: 36330
+  manufactures: 16068
+  manures: 85045
+  mares: 28854
+  massacres: 35664
+  matures: 31002
+  measures: 1634
+  millionaires: 29496
+  miniatures: 20476
+  misadventures: 60823
+  mixtures: 19783
+  mores: 41957
+scored_words:
+  meres: 132953
+  mires: 106228
+  misfires: 153123
+  murres: 204484
+not_scored_words:
+- Medicares
+- Menderes
+- Miraflores
+- madrepores
+- magnetospheres
+- maigres
+- megaspores
+- megatheres
+- mesospheres
+- microspores
+- milliamperes
+- misfeatures
+- moires
+- multimillionaires

@@ -1,0 +1,61 @@
+---
+pattern: a_en
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 51
+score: 1220276
+score_per_word: 64225
+hi_scored_words:
+  abdomen: 15938
+  acetaminophen: 30834
+  acumen: 33344
+  airmen: 39729
+  albumen: 60724
+  aldermen: 45433
+  alien: 4832
+  allergen: 42025
+  amen: 11749
+  androgen: 38172
+  antigen: 11840
+  arisen: 15503
+  ashen: 51396
+  aspen: 15547
+  awaken: 19220
+  awoken: 69200
+scored_words:
+  artillerymen: 232939
+  assemblymen: 212748
+  atween: 269103
+not_scored_words:
+- Aachen
+- Aberdeen
+- Aden
+- Aiken
+- Aileen
+- Aitken
+- Alden
+- Allen
+- Amen
+- Amundsen
+- Andersen
+- Arden
+- Arleen
+- Arlen
+- Asben
+- Aspen
+- Aten
+- Auden
+- Austen
+- acrogen
+- admen
+- agglutinogen
+- agnomen
+- aircraftmen
+- airwomen
+- alderwomen
+- ambulancemen
+- ambulancewomen
+- anchormen
+- anchorwomen
+- apemen
+- assemblywomen

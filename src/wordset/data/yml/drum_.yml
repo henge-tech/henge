@@ -1,0 +1,27 @@
+---
+pattern: drum_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 1132514
+score_per_word: 87116
+hi_scored_words:
+  drum: 4383
+  drumbeat: 77941
+  drummed: 83292
+  drummer: 13286
+  drummers: 37331
+  drumming: 23936
+  drums: 10204
+  drumstick: 75184
+  drumsticks: 63286
+scored_words:
+  drumbeats: 215676
+  drumhead: 142194
+  drumheads: 196813
+  drumlin: 188988
+not_scored_words:
+- drumfire
+- drumfires
+- drumfish
+- drumlins

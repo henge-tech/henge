@@ -1,0 +1,38 @@
+---
+pattern: vol_s
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 28
+score: 1107860
+score_per_word: 69241
+hi_scored_words:
+  volatiles: 78168
+  volcanoes: 20545
+  voles: 73949
+  volleys: 77964
+  vols: 11986
+  voltages: 23102
+  volts: 24115
+  volumes: 4255
+  voluminous: 34554
+  volunteers: 2752
+  voluptuous: 33038
+scored_words:
+  volleyballs: 181985
+  voltmeters: 159623
+  voluntariness: 151241
+  voluptuousness: 106037
+  volvulus: 124546
+not_scored_words:
+- Volans
+- Volos
+- volatilizes
+- volcanisms
+- volcanologies
+- volubleness
+- voluminousness
+- voluntaries
+- voluptuaries
+- volutes
+- volutions
+- volvas

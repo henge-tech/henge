@@ -1,0 +1,47 @@
+---
+pattern: per_on
+hi_scored_words_count: 22
+scored_words_count: 4
+total_words: 37
+score: 1351123
+score_per_word: 51966
+hi_scored_words:
+  perception: 4801
+  percolation: 53011
+  percussion: 15248
+  perdition: 38279
+  perfection: 6147
+  perforation: 44983
+  perfusion: 29466
+  perihelion: 68813
+  permeation: 67938
+  permission: 1355
+  permutation: 31479
+  perpetuation: 61031
+  perron: 67330
+  persecution: 10776
+  persimmon: 49921
+  person: 260
+  personalization: 32953
+  personification: 46157
+  perspiration: 30544
+  persuasion: 12970
+  perturbation: 23496
+  perversion: 33733
+scored_words:
+  peregrination: 163981
+  periodization: 142803
+  peroration: 194976
+  perpetration: 118672
+not_scored_words:
+- Percheron
+- Peron
+- perambulation
+- periastron
+- pericynthion
+- perigon
+- peripheralization
+- perlocution
+- permatron
+- perseveration
+- pervasion

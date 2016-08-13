@@ -1,0 +1,28 @@
+---
+pattern: f_ay
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 18
+score: 1012593
+score_per_word: 77891
+hi_scored_words:
+  fairway: 24526
+  faraway: 39990
+  fay: 19106
+  flay: 50040
+  flyaway: 94947
+  foray: 33794
+  foreplay: 37777
+  fray: 19820
+  freeway: 16917
+scored_words:
+  flyway: 102195
+  foldaway: 164525
+  footway: 126116
+  forestay: 282840
+not_scored_words:
+- Faraday
+- Fay
+- Fotheringhay
+- Friday
+- folkway

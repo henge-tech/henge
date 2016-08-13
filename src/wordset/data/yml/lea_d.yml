@@ -1,0 +1,28 @@
+---
+pattern: lea_d
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 18
+score: 1079916
+score_per_word: 67494
+hi_scored_words:
+  leached: 90407
+  lead: 735
+  leaded: 45955
+  leafed: 85919
+  leaked: 19062
+  leaned: 12087
+  leaped: 28146
+  learned: 1590
+  leased: 14943
+  leasehold: 36120
+  leaved: 37210
+scored_words:
+  leagued: 106790
+  leapfrogged: 242894
+  leashed: 124484
+  leatherwood: 132408
+  leavened: 101166
+not_scored_words:
+- Leatheroid
+- leafleted

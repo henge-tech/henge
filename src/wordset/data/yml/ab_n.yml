@@ -1,0 +1,49 @@
+---
+pattern: ab_n
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 39
+score: 1673233
+score_per_word: 66929
+hi_scored_words:
+  abandon: 8126
+  abbreviation: 19196
+  abdication: 54218
+  abdomen: 15938
+  abduction: 21828
+  aberration: 33212
+  ablation: 33497
+  ablution: 67542
+  abolition: 15374
+  abomination: 30529
+  abortion: 10752
+  abrasion: 28489
+  abrogation: 65773
+  absolution: 37919
+  absorption: 8189
+  abstain: 21318
+  abstention: 51580
+  abstraction: 12454
+scored_words:
+  abecedarian: 197490
+  abjection: 206345
+  abjuration: 125989
+  abnegation: 135934
+  abruption: 139529
+  abscission: 178675
+  abutilon: 153337
+not_scored_words:
+- Abadan
+- Abaddon
+- Abbevillian
+- Abelson
+- Aberdeen
+- Aberdonian
+- Abidjan
+- Abingdon
+- Abkhazian
+- Abyssinian
+- abreaction
+- absolutization
+- absquatulation
+- abstriction

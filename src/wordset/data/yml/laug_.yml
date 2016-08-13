@@ -1,0 +1,24 @@
+---
+pattern: laug_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 502345
+score_per_word: 50234
+hi_scored_words:
+  laugh: 2823
+  laughable: 30278
+  laughably: 85990
+  laughed: 5429
+  laughing: 4108
+  laughingly: 75381
+  laughs: 9315
+  laughter: 6024
+scored_words:
+  laugher: 160128
+  laughingstock: 122869
+not_scored_words:
+- Laughton
+- laughableness
+- laughers
+- laughingstocks

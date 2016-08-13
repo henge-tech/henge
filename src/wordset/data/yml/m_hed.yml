@@ -1,0 +1,27 @@
+---
+pattern: m_hed
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 1232484
+score_per_word: 94806
+hi_scored_words:
+  malnourished: 53111
+  marched: 13004
+  mashed: 20767
+  matched: 7455
+  meshed: 69326
+  mismatched: 51003
+  morphed: 55206
+  mouthed: 41559
+scored_words:
+  mimeographed: 130697
+  mulched: 160756
+  munched: 115527
+  mushed: 268727
+  mustached: 245346
+not_scored_words:
+- Meshed
+- mealymouthed
+- mooched
+- moshed

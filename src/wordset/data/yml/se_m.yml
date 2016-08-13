@@ -1,0 +1,50 @@
+---
+pattern: se_m
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 40
+score: 2361687
+score_per_word: 107349
+hi_scored_words:
+  seam: 18659
+  sebum: 83081
+  sectarianism: 68478
+  secularism: 39059
+  sedum: 88653
+  seem: 991
+  seldom: 7369
+  selenium: 23603
+  sem: 15306
+  sensationalism: 77508
+  separatism: 67551
+  septum: 34629
+  serfdom: 68391
+  serum: 16438
+  sexism: 33260
+scored_words:
+  seism: 317159
+  seismogram: 198213
+  sensillum: 300806
+  sensorium: 173997
+  sentimentalism: 182162
+  serialism: 262484
+  seriatim: 283890
+not_scored_words:
+- Seagram
+- Sejm
+- Selim
+- Sem
+- Semitism
+- Seringapatam
+- seaborgium
+- secessionism
+- sectionalism
+- seismism
+- semioticism
+- sensualism
+- septarium
+- serpentiform
+- serriform
+- servomechanism
+- sestertium
+- setiform

@@ -1,0 +1,31 @@
+---
+pattern: mult_s
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 21
+score: 1178259
+score_per_word: 84161
+hi_scored_words:
+  multifarious: 80159
+  multinationals: 40740
+  multiples: 31634
+  multiplexers: 74308
+  multiplexes: 87877
+  multiplications: 93542
+  multipliers: 42219
+  multiplies: 54146
+  multitudes: 45436
+  multivitamins: 67692
+scored_words:
+  multiparous: 217447
+  multiplicities: 114694
+  multiprocessors: 116481
+  multitudinous: 111884
+not_scored_words:
+- Multics
+- multifariousness
+- multiflorous
+- multimillionaires
+- multiplicands
+- multitasks
+- multiverses

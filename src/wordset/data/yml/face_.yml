@@ -1,0 +1,32 @@
+---
+pattern: face_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1001873
+score_per_word: 62617
+hi_scored_words:
+  face: 384
+  faced: 3826
+  faceless: 41505
+  facelift: 32322
+  faceplate: 42557
+  faceplates: 78577
+  faces: 2411
+  facet: 22213
+  faceted: 27653
+  facetious: 60660
+  facets: 23680
+scored_words:
+  facedown: 121928
+  facelifts: 119071
+  facer: 116482
+  faceting: 173958
+  facetiously: 134646
+not_scored_words:
+- Facebook
+- facecloth
+- facecloths
+- facers
+- facetiae
+- facetiousness

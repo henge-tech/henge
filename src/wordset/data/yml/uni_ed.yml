@@ -1,0 +1,51 @@
+---
+pattern: uni_ed
+hi_scored_words_count: 26
+scored_words_count: 8
+total_words: 41
+score: 2658764
+score_per_word: 78198
+hi_scored_words:
+  unidentified: 16324
+  unified: 11231
+  uniformed: 30046
+  unimpaired: 79363
+  unimpeded: 63716
+  unimpressed: 54643
+  unimproved: 65760
+  unincorporated: 22277
+  uninfected: 71855
+  uninformed: 34780
+  uninhabited: 37454
+  uninhibited: 56181
+  uninitialized: 85242
+  uninitiated: 56812
+  uninjured: 68063
+  uninspired: 51905
+  uninstalled: 47879
+  uninsured: 17450
+  unintended: 22984
+  uninterested: 50631
+  uninterrupted: 21870
+  uninvited: 52831
+  uninvolved: 95620
+  unionized: 53164
+  unissued: 84234
+  united: 183
+scored_words:
+  unimagined: 154702
+  unimpassioned: 213483
+  unimplemented: 135179
+  uninfluenced: 160016
+  uninstructed: 238048
+  uninsulated: 136057
+  uninterpreted: 210537
+  unitized: 158244
+not_scored_words:
+- unideaed
+- unillustrated
+- unilobed
+- uninflected
+- uninvested
+- unironed
+- universalized

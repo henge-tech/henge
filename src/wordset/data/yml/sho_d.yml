@@ -1,0 +1,43 @@
+---
+pattern: sho_d
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 33
+score: 2384891
+score_per_word: 85174
+hi_scored_words:
+  shocked: 6810
+  shod: 57062
+  shopped: 28152
+  shortbread: 60236
+  shorted: 48254
+  shortened: 18156
+  shorthand: 24321
+  shorthanded: 89044
+  shortlisted: 47176
+  shortsighted: 76478
+  should: 92
+  shouldered: 45525
+  shouted: 10250
+  shoved: 25131
+  showcased: 34580
+  showed: 1670
+  showered: 37766
+  showground: 80175
+scored_words:
+  shoehorned: 231303
+  shooed: 190736
+  shoplifted: 137909
+  shorebird: 132844
+  shored: 156353
+  shoreward: 218785
+  shortchanged: 143795
+  shoveled: 118981
+  shovelhead: 218072
+  showbread: 145235
+not_scored_words:
+- shoaled
+- shockheaded
+- shotgunned
+- shovelboard
+- showboated

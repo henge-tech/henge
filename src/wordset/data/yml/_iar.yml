@@ -1,0 +1,23 @@
+---
+pattern: _iar
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 605151
+score_per_word: 60515
+hi_scored_words:
+  briar: 33329
+  caviar: 20848
+  familiar: 2297
+  foliar: 67029
+  friar: 27792
+  liar: 11286
+  peculiar: 7516
+  unfamiliar: 12981
+scored_words:
+  conciliar: 122864
+  sweetbriar: 299209
+not_scored_words:
+- antiar
+- justiciar
+- overfamiliar

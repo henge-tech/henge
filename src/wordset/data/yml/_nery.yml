@@ -1,0 +1,42 @@
+---
+pattern: _nery
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 32
+score: 1280045
+score_per_word: 64002
+hi_scored_words:
+  cannery: 55580
+  chicanery: 88157
+  confectionery: 33298
+  deanery: 58110
+  finery: 49336
+  greenery: 33846
+  gunnery: 49918
+  joinery: 40973
+  machinery: 3930
+  millinery: 64564
+  nunnery: 51581
+  ornery: 74683
+  refinery: 19904
+  scenery: 7842
+  stationery: 16649
+  tannery: 51561
+  winery: 16783
+scored_words:
+  beanery: 149607
+  buffoonery: 134807
+  pinery: 278916
+not_scored_words:
+- Connery
+- clownery
+- enginery
+- fernery
+- festoonery
+- hennery
+- lampoonery
+- poltroonery
+- turnery
+- tycoonery
+- venery
+- vinery

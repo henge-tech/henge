@@ -1,0 +1,29 @@
+---
+pattern: warm_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 19
+score: 1180332
+score_per_word: 73770
+hi_scored_words:
+  warm: 1759
+  warmed: 21275
+  warmer: 10305
+  warmers: 33388
+  warmest: 28970
+  warming: 7591
+  warmly: 18001
+  warmonger: 87538
+  warms: 34059
+  warmth: 7989
+  warmup: 55288
+scored_words:
+  warmhearted: 214042
+  warmness: 289550
+  warmongering: 130266
+  warmongers: 118058
+  warmups: 122253
+not_scored_words:
+- warmblooded
+- warmheartedness
+- warmish

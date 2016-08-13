@@ -1,0 +1,43 @@
+---
+pattern: paro_
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 33
+score: 2009766
+score_per_word: 105777
+hi_scored_words:
+  parochial: 27724
+  parodies: 32288
+  parody: 15106
+  parole: 11388
+  paroled: 68146
+  paroles: 30342
+  parotid: 69973
+  paroxysm: 92935
+  paroxysmal: 73131
+scored_words:
+  parochialism: 172914
+  parodic: 204565
+  parodied: 103357
+  parodying: 140370
+  parol: 127079
+  parolee: 112287
+  parolees: 101717
+  paronomasia: 219786
+  paronychia: 260348
+  paroxysms: 146310
+not_scored_words:
+- Paros
+- parochiality
+- parochially
+- parodist
+- parodists
+- paroicous
+- paroling
+- paronym
+- paronymic
+- paronymous
+- paronymy
+- parotic
+- parotitis
+- parotitises

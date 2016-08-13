@@ -1,0 +1,69 @@
+---
+pattern: cl_r
+hi_scored_words_count: 26
+scored_words_count: 14
+total_words: 59
+score: 3536001
+score_per_word: 88400
+hi_scored_words:
+  clamber: 92790
+  clamor: 43146
+  clapper: 53099
+  classifier: 34014
+  clatter: 45348
+  clavier: 67657
+  cleaner: 8878
+  cleanser: 26971
+  clear: 492
+  clearer: 10542
+  cleaver: 33510
+  clever: 5240
+  clicker: 37458
+  cliffhanger: 55421
+  climber: 26557
+  clincher: 64623
+  clinker: 64865
+  clipper: 26616
+  clobber: 49844
+  cloister: 33567
+  closer: 2806
+  clothier: 82598
+  clover: 13213
+  clubber: 95452
+  cluster: 5327
+  clutter: 14339
+scored_words:
+  clabber: 179373
+  claimer: 312034
+  clanger: 177140
+  clangor: 201014
+  classier: 133725
+  claver: 179131
+  cleverer: 102115
+  clinger: 107801
+  clinometer: 165104
+  clocker: 282396
+  clockmaker: 159863
+  clodhopper: 154793
+  cloudier: 219513
+  clunker: 167626
+not_scored_words:
+- Clair
+- Clearwater
+- clacker
+- clamberer
+- clammer
+- clammier
+- clamper
+- claqueur
+- clayier
+- cleanlier
+- cliffier
+- clingier
+- clishmaclaver
+- cloggier
+- clubbier
+- clumpier
+- clumsier
+- clunkier
+- clyster

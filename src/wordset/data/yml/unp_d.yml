@@ -1,0 +1,73 @@
+---
+pattern: unp_d
+hi_scored_words_count: 19
+scored_words_count: 24
+total_words: 63
+score: 5515735
+score_per_word: 128272
+hi_scored_words:
+  unpacked: 37446
+  unpaid: 13410
+  unpainted: 59197
+  unpaired: 80616
+  unparalleled: 19298
+  unpaved: 49360
+  unperturbed: 84588
+  unplanned: 29880
+  unplayed: 97315
+  unplugged: 22857
+  unpolished: 88483
+  unprecedented: 10691
+  unprepared: 29008
+  unprincipled: 85117
+  unprocessed: 54600
+  unprotected: 19678
+  unprovoked: 54201
+  unpublished: 13114
+  unpunished: 51915
+scored_words:
+  unpaged: 200433
+  unpaginated: 179501
+  unpasteurized: 114986
+  unpatented: 238630
+  unpeeled: 155893
+  unpeopled: 187048
+  unperceived: 174835
+  unperfected: 316366
+  unperformed: 257695
+  unpersuaded: 283671
+  unplaced: 132186
+  unpolluted: 118350
+  unpopulated: 139696
+  unpredicted: 187323
+  unprejudiced: 132851
+  unpremeditated: 194684
+  unpriced: 210043
+  unprinted: 148746
+  unprivileged: 118651
+  unprogrammed: 250684
+  unprompted: 184805
+  unproved: 148801
+  unprovided: 213997
+  unpublicized: 325086
+not_scored_words:
+- unperforated
+- unpicked
+- unpinned
+- unplanted
+- unpleased
+- unploughed
+- unplowed
+- unplumbed
+- unpoised
+- unpolled
+- unposed
+- unpracticed
+- unpreserved
+- unpressed
+- unpressurized
+- unproclaimed
+- unprofessed
+- unprohibited
+- unpronounced
+- unpurified

@@ -1,0 +1,40 @@
+---
+pattern: co_ring
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 30
+score: 1528524
+score_per_word: 80448
+hi_scored_words:
+  coloring: 10240
+  comparing: 6117
+  concurring: 39476
+  conferring: 34407
+  configuring: 18398
+  conjuring: 47759
+  conquering: 26372
+  considering: 2583
+  conspiring: 45617
+  contouring: 58960
+  coring: 73738
+  cornering: 55461
+  countering: 42074
+  covering: 3109
+  cowering: 78182
+scored_words:
+  collaring: 294809
+  commandeering: 194858
+  conjecturing: 244810
+  cosponsoring: 251554
+not_scored_words:
+- coauthoring
+- cockering
+- cohering
+- coiffuring
+- coinsuring
+- compering
+- compèring
+- concentering
+- coopering
+- costarring
+- couriering

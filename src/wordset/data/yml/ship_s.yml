@@ -1,0 +1,23 @@
+---
+pattern: ship_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 876091
+score_per_word: 87609
+hi_scored_words:
+  shipbuilders: 90543
+  shipmates: 69539
+  shipments: 16138
+  shipowners: 85615
+  shippers: 33965
+  ships: 1196
+  shipwrecks: 52958
+  shipyards: 51095
+scored_words:
+  shipways: 287799
+  shipwrights: 187243
+not_scored_words:
+- shipboards
+- shiploads
+- shipworms

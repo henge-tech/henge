@@ -1,0 +1,23 @@
+---
+pattern: sco_ng
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 13
+score: 928541
+score_per_word: 77378
+hi_scored_words:
+  scolding: 59439
+  scooping: 67687
+  scoping: 34260
+  scorching: 34816
+  scoring: 10235
+  scouring: 34117
+  scouting: 15649
+  scowling: 92631
+scored_words:
+  scoffing: 117054
+  scooting: 158273
+  scorning: 163182
+  scourging: 141198
+not_scored_words:
+- scotching

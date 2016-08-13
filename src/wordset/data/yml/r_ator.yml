@@ -1,0 +1,31 @@
+---
+pattern: r_ator
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 1151855
+score_per_word: 95987
+hi_scored_words:
+  radiator: 21584
+  refrigerator: 15521
+  regenerator: 76824
+  regulator: 17133
+  replicator: 42068
+  resonator: 38963
+  respirator: 35447
+  rotator: 40024
+scored_words:
+  rejuvenator: 240810
+  renovator: 148226
+  resuscitator: 233115
+  ruminator: 242140
+not_scored_words:
+- ratiocinator
+- reciprocator
+- recuperator
+- remonstrator
+- remunerator
+- repudiator
+- retaliator
+- reverberator
+- rubricator

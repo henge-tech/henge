@@ -1,0 +1,35 @@
+---
+pattern: sor_s
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 25
+score: 1137857
+score_per_word: 87527
+hi_scored_words:
+  sorcerers: 57249
+  sorceress: 47524
+  soreness: 45943
+  sores: 24428
+  sororities: 52476
+  sorrows: 18421
+  sorters: 90016
+  sorties: 55205
+  sorts: 4709
+scored_words:
+  sorbets: 172691
+  sorbs: 182084
+  sordidness: 158734
+  sorrels: 228377
+not_scored_words:
+- Sorbians
+- sorceresses
+- sordines
+- soreheads
+- sorgos
+- sorites
+- sorosis
+- sorptions
+- sorriness
+- sorrowfulness
+- sortitions
+- sorus

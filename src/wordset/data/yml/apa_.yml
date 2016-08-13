@@ -1,0 +1,33 @@
+---
+pattern: apa_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 23
+score: 504514
+score_per_word: 45864
+hi_scored_words:
+  apace: 52036
+  apache: 10388
+  apaches: 70237
+  apart: 2281
+  apartheid: 22077
+  apartment: 2037
+  apartments: 3314
+  apathetic: 37699
+  apathy: 20189
+  apatite: 70242
+scored_words:
+  apatosaurus: 214014
+not_scored_words:
+- Apache
+- Apachean
+- Apaches
+- Apalachicola
+- Aparri
+- Apatosaurus
+- aparejo
+- apartness
+- apatetic
+- apathetically
+- apatosaur
+- apatosauruses

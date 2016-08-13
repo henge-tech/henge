@@ -1,0 +1,63 @@
+---
+pattern: m_ter
+hi_scored_words_count: 27
+scored_words_count: 7
+total_words: 53
+score: 2438221
+score_per_word: 71712
+hi_scored_words:
+  magnetometer: 46238
+  manometer: 79376
+  manslaughter: 29219
+  marketer: 29934
+  master: 755
+  mater: 18885
+  matter: 515
+  meter: 7092
+  microcomputer: 36503
+  micrometer: 44854
+  midwinter: 39972
+  milliliter: 89749
+  millimeter: 28488
+  milter: 59051
+  minicomputer: 99484
+  minister: 1234
+  minster: 38861
+  minter: 58202
+  mister: 12153
+  miter: 47089
+  mobster: 57294
+  molester: 60144
+  monster: 3173
+  muenster: 77739
+  multimeter: 55628
+  muster: 18700
+  mutter: 32168
+scored_words:
+  masseter: 165756
+  melter: 132482
+  meltwater: 134731
+  minuter: 274622
+  moister: 182424
+  molter: 258477
+  mounter: 217229
+not_scored_words:
+- Machmeter
+- Manchester
+- Master
+- Mister
+- Muenster
+- Munster
+- maladminister
+- manumitter
+- metacenter
+- mezzotinter
+- microdensitometer
+- micromillimeter
+- middlebuster
+- milometer
+- misinterpreter
+- misregister
+- moonlighter
+- muter
+- myriameter

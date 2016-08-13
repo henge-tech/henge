@@ -1,0 +1,45 @@
+---
+pattern: r_ck
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 35
+score: 1506742
+score_per_word: 68488
+hi_scored_words:
+  racetrack: 32529
+  rack: 5501
+  razorback: 65523
+  recheck: 69081
+  reck: 79384
+  redneck: 21322
+  repack: 72229
+  restock: 51225
+  rick: 10963
+  roadblock: 44214
+  rock: 671
+  roebuck: 36577
+  rollback: 39831
+  rootstock: 93044
+  ruck: 49058
+  rucksack: 42128
+  ruddock: 66833
+scored_words:
+  ransack: 130937
+  redbrick: 128973
+  rimrock: 121472
+  roughneck: 112449
+  rowlock: 232798
+not_scored_words:
+- Randwick
+- Rick
+- Rock
+- Roderick
+- Rodrick
+- Rostock
+- Ryswick
+- reedbuck
+- restack
+- rickrack
+- rollick
+- roorback
+- rubberneck

@@ -1,0 +1,33 @@
+---
+pattern: p_hed
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 23
+score: 832783
+score_per_word: 48987
+hi_scored_words:
+  parched: 42663
+  patched: 20453
+  perched: 34566
+  perished: 21630
+  photographed: 18035
+  pinched: 33851
+  pitched: 11560
+  poached: 40487
+  polished: 6706
+  preached: 14722
+  psyched: 56103
+  published: 782
+  punched: 21942
+  punished: 9232
+  pushed: 4315
+scored_words:
+  poohed: 231265
+  pouched: 264471
+not_scored_words:
+- paragraphed
+- phished
+- plashed
+- pleached
+- polygraphed
+- pooched

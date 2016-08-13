@@ -1,0 +1,29 @@
+---
+pattern: hosp_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 19
+score: 692251
+score_per_word: 57687
+hi_scored_words:
+  hosp: 30188
+  hospice: 22734
+  hospices: 63850
+  hospitable: 28029
+  hospital: 1487
+  hospitality: 5230
+  hospitalization: 23584
+  hospitalizations: 59157
+  hospitalized: 21212
+  hospitals: 4008
+scored_words:
+  hospitably: 183892
+  hospitalize: 248880
+not_scored_words:
+- Hospitaler
+- Hospitalet
+- hospholipase
+- hospitalizes
+- hospitalizing
+- hospitium
+- hospodar

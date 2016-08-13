@@ -1,0 +1,61 @@
+---
+pattern: po_rs
+hi_scored_words_count: 26
+scored_words_count: 7
+total_words: 51
+score: 2825182
+score_per_word: 85611
+hi_scored_words:
+  poachers: 55555
+  pointers: 15681
+  pokers: 80677
+  policyholders: 48247
+  policymakers: 21595
+  pollinators: 78975
+  pollsters: 72715
+  polluters: 65171
+  polyesters: 95112
+  polymers: 14863
+  ponders: 48320
+  poplars: 71273
+  poppers: 47469
+  pornographers: 69841
+  porters: 27837
+  posers: 62763
+  positioners: 89095
+  possessors: 88849
+  posters: 6880
+  postmasters: 98977
+  potentiometers: 83509
+  potters: 39271
+  pounders: 84127
+  pours: 25216
+  powders: 24252
+  powers: 1930
+scored_words:
+  polarimeters: 294745
+  polishers: 101485
+  popovers: 193224
+  porkers: 179189
+  poseurs: 225283
+  posteriors: 222494
+  potholders: 190562
+not_scored_words:
+- Poitiers
+- Powers
+- poetasters
+- poisoners
+- polers
+- polestars
+- pomanders
+- pompadours
+- ponderers
+- poofters
+- porringers
+- postponers
+- potboilers
+- pothers
+- potholers
+- pothunters
+- poulterers
+- pouters

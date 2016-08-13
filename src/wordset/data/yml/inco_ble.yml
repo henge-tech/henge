@@ -1,0 +1,34 @@
+---
+pattern: inco_ble
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 24
+score: 1068115
+score_per_word: 82162
+hi_scored_words:
+  incomparable: 27314
+  incompatible: 13088
+  incomprehensible: 24640
+  incompressible: 64470
+  inconceivable: 28789
+  inconsiderable: 84871
+  inconsolable: 90242
+  incontrovertible: 71561
+  incorrigible: 64935
+  incorruptible: 78688
+scored_words:
+  incommensurable: 174540
+  incommunicable: 230715
+  incontestable: 114262
+not_scored_words:
+- incoercible
+- incogitable
+- incombustible
+- incommutable
+- incomputable
+- incondensable
+- inconsumable
+- incontrollable
+- inconvertible
+- inconvincible
+- incorporable

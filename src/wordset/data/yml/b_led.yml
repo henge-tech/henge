@@ -1,0 +1,74 @@
+---
+pattern: b_led
+hi_scored_words_count: 26
+scored_words_count: 20
+total_words: 64
+score: 4968762
+score_per_word: 108016
+hi_scored_words:
+  baffled: 23950
+  bailed: 54552
+  balled: 77785
+  bamboozled: 93052
+  barreled: 83134
+  battled: 31458
+  bedazzled: 82145
+  bedraggled: 99698
+  befuddled: 87824
+  beguiled: 89900
+  bejeweled: 55226
+  bespectacled: 93266
+  beveled: 48315
+  billed: 11634
+  blackmailed: 82721
+  bled: 27315
+  bobsled: 54329
+  boiled: 10903
+  bottled: 17060
+  bowled: 33352
+  bristled: 93545
+  broiled: 47457
+  bubbled: 65720
+  buckled: 50904
+  bundled: 19035
+  bungled: 82804
+scored_words:
+  babbled: 118697
+  baled: 112292
+  bankrolled: 143961
+  barrelled: 120764
+  bawled: 120136
+  bedeviled: 150959
+  befooled: 295289
+  belittled: 109333
+  belled: 247068
+  bewailed: 133715
+  bicycled: 281550
+  blackballed: 239263
+  bobbled: 265099
+  boggled: 152261
+  bridled: 113306
+  brindled: 172447
+  bulled: 159627
+  burgled: 127819
+  burled: 242782
+  bustled: 145310
+not_scored_words:
+- backpedaled
+- barnacled
+- batfowled
+- beetled
+- befouled
+- bespangled
+- besprinkled
+- birled
+- bobtailed
+- boondoggled
+- brabbled
+- brailed
+- brawled
+- bugled
+- bumbled
+- burbled
+- busheled
+- buttonholed

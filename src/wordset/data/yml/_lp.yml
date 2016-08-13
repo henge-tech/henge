@@ -1,0 +1,25 @@
+---
+pattern: _lp
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 641823
+score_per_word: 64182
+hi_scored_words:
+  alp: 28572
+  gulp: 35381
+  help: 129
+  kelp: 34793
+  pulp: 10512
+  scalp: 16372
+  whelp: 75672
+  yelp: 32054
+scored_words:
+  palp: 185077
+  sculp: 223261
+not_scored_words:
+- Help
+- LP
+- holp
+- megilp
+- skelp

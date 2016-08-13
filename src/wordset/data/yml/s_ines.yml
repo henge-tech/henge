@@ -1,0 +1,35 @@
+---
+pattern: s_ines
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 25
+score: 1471340
+score_per_word: 91958
+hi_scored_words:
+  sardines: 46532
+  shines: 14519
+  shorelines: 57717
+  shrines: 32161
+  sidelines: 27262
+  skylines: 85994
+  spines: 30918
+  splines: 60714
+  streamlines: 52867
+  submarines: 22820
+  subroutines: 43756
+scored_words:
+  salines: 194963
+  saltines: 260487
+  seines: 103085
+  serines: 334502
+  sines: 103043
+not_scored_words:
+- Sabines
+- sapphirines
+- scopolamines
+- scorelines
+- secundines
+- serotines
+- shoeshines
+- sordines
+- swines

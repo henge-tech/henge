@@ -1,0 +1,61 @@
+---
+pattern: _mped
+hi_scored_words_count: 23
+scored_words_count: 13
+total_words: 51
+score: 3589209
+score_per_word: 99700
+hi_scored_words:
+  bumped: 21849
+  camped: 30910
+  clamped: 40295
+  cramped: 27619
+  crimped: 84355
+  damped: 45022
+  dumped: 16531
+  encamped: 49659
+  humped: 68009
+  jumped: 6378
+  limped: 69195
+  lumped: 45604
+  pimped: 69897
+  pumped: 15668
+  ramped: 75590
+  revamped: 30943
+  slumped: 49720
+  stamped: 10620
+  stomped: 55139
+  stumped: 36713
+  swamped: 35490
+  thumped: 90870
+  trumped: 58230
+scored_words:
+  chomped: 255762
+  clumped: 120486
+  comped: 182592
+  decamped: 179199
+  plumped: 130511
+  romped: 144691
+  skimped: 262312
+  tamped: 171810
+  tramped: 126540
+  undamped: 191655
+  unstamped: 291300
+  vamped: 188788
+  wimped: 309257
+not_scored_words:
+- champed
+- clomped
+- crumped
+- flumped
+- gazumped
+- gimped
+- overtrumped
+- primped
+- scrimped
+- scrumped
+- shrimped
+- temped
+- tromped
+- umped
+- whomped

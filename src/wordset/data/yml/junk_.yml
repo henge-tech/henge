@@ -1,0 +1,35 @@
+---
+pattern: junk_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 25
+score: 1397409
+score_per_word: 99814
+hi_scored_words:
+  junk: 10081
+  junker: 67530
+  junkers: 77094
+  junket: 68737
+  junkie: 21898
+  junkies: 25956
+  junky: 49102
+  junkyard: 41276
+scored_words:
+  junked: 101415
+  junkets: 129699
+  junking: 275432
+  junkman: 265560
+  junks: 110283
+  junkyards: 153346
+not_scored_words:
+- Junker
+- Junkers
+- junketed
+- junketeer
+- junketeers
+- junketer
+- junketers
+- junketing
+- junketings
+- junkier
+- junkiest

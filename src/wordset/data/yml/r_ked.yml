@@ -1,0 +1,35 @@
+---
+pattern: r_ked
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 25
+score: 1082297
+score_per_word: 72153
+hi_scored_words:
+  racked: 40272
+  raked: 49038
+  ranked: 6366
+  ransacked: 71070
+  rebuked: 52687
+  remarked: 10075
+  restocked: 91502
+  revoked: 19760
+  reworked: 36323
+  risked: 34213
+  rocked: 17772
+scored_words:
+  rechecked: 131760
+  reeked: 115081
+  relinked: 241947
+  repacked: 164431
+not_scored_words:
+- recooked
+- reembarked
+- relocked
+- ricked
+- roadblocked
+- rollicked
+- rooked
+- roughnecked
+- rubbernecked
+- rucked

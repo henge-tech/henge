@@ -1,0 +1,28 @@
+---
+pattern: ins_le
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 18
+score: 1050215
+score_per_word: 80785
+hi_scored_words:
+  insatiable: 28593
+  inscrutable: 44561
+  insensible: 59210
+  inseparable: 25892
+  insole: 59779
+  insoluble: 27236
+  insufferable: 58475
+  insuperable: 82262
+  insurable: 74302
+  insurmountable: 36118
+scored_words:
+  insolvable: 236512
+  instable: 200133
+  insupportable: 117142
+not_scored_words:
+- insectile
+- inseverable
+- insociable
+- insuppressible
+- insusceptible

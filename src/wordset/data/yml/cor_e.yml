@@ -1,0 +1,78 @@
+---
+pattern: cor_e
+hi_scored_words_count: 23
+scored_words_count: 16
+total_words: 68
+score: 3966095
+score_per_word: 101694
+hi_scored_words:
+  cordage: 71132
+  cordite: 95148
+  core: 3199
+  cornerstone: 15764
+  cornice: 50527
+  corniche: 89316
+  corporate: 4414
+  corpse: 8971
+  correctable: 93003
+  corrective: 17218
+  correlate: 21950
+  correlative: 55370
+  correspondence: 4242
+  corrie: 41762
+  corroborate: 46587
+  corrode: 70157
+  corrosive: 27491
+  corsage: 75168
+  corse: 37011
+  cortege: 97272
+  corticosterone: 84272
+  cortisone: 57269
+  corvette: 19169
+scored_words:
+  coracle: 206269
+  coralline: 153832
+  corbie: 198310
+  cordate: 177228
+  cordierite: 200473
+  corkage: 235622
+  corncrake: 195717
+  cornflake: 152026
+  corporative: 135641
+  corpulence: 238325
+  corpuscle: 127167
+  corroborative: 125876
+  corroboree: 171584
+  corruptible: 107095
+  corruptive: 291831
+  cortège: 162687
+not_scored_words:
+- CORE
+- Corine
+- Corinne
+- Corleone
+- Corneille
+- Corriedale
+- Corrine
+- Corse
+- Corvette
+- corallite
+- corelative
+- corklike
+- cormophyte
+- cornemuse
+- cornerwise
+- corniculate
+- cornpone
+- cornute
+- corrade
+- correctitude
+- corrigible
+- corrodible
+- corrosible
+- corrugate
+- corticate
+- coruscate
+- corvee
+- corvine
+- corvée

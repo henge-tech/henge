@@ -1,0 +1,37 @@
+---
+pattern: sp_le
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 27
+score: 1679076
+score_per_word: 119934
+hi_scored_words:
+  spangle: 85736
+  sparkle: 13930
+  speckle: 77411
+  spectacle: 12535
+  spindle: 16974
+  spittle: 71700
+  spokespeople: 88067
+  sprinkle: 16416
+scored_words:
+  spaetzle: 294491
+  specifiable: 223005
+  spendable: 247746
+  spicule: 170594
+  sportspeople: 185109
+  spreadable: 175362
+not_scored_words:
+- Spackle
+- speakable
+- spellable
+- spermophile
+- spherule
+- spile
+- spillable
+- spinule
+- spiracle
+- sporule
+- spraddle
+- spurtle
+- spyhole

@@ -1,0 +1,101 @@
+---
+pattern: _fed
+hi_scored_words_count: 29
+scored_words_count: 30
+total_words: 91
+score: 7820857
+score_per_word: 132556
+hi_scored_words:
+  beefed: 72158
+  breastfed: 68170
+  briefed: 26250
+  buffed: 70087
+  chafed: 87135
+  chuffed: 86224
+  cuffed: 51550
+  dwarfed: 62400
+  engulfed: 40417
+  fed: 3351
+  goofed: 98105
+  handcuffed: 47586
+  leafed: 85919
+  miffed: 61855
+  overstuffed: 77547
+  proofed: 72479
+  puffed: 31311
+  rebuffed: 66900
+  roofed: 42293
+  ruffed: 78963
+  scoffed: 62579
+  scuffed: 82584
+  sniffed: 43790
+  snuffed: 82521
+  spoofed: 65313
+  staffed: 19201
+  stuffed: 13006
+  surfed: 48966
+  understaffed: 71120
+scored_words:
+  barfed: 221309
+  bluffed: 204526
+  chaffed: 256254
+  coiffed: 205863
+  debriefed: 142903
+  doffed: 225641
+  fluffed: 149675
+  hoofed: 129562
+  huffed: 134952
+  knifed: 133419
+  loafed: 165543
+  muffed: 227548
+  offed: 210374
+  overfed: 203700
+  overstaffed: 290221
+  quaffed: 252075
+  reefed: 217871
+  riffed: 305019
+  scarfed: 252137
+  soundproofed: 137790
+  spoonfed: 201747
+  stiffed: 133174
+  strafed: 192672
+  turfed: 208515
+  underfed: 206237
+  unfed: 237148
+  vouchsafed: 108369
+  waterproofed: 192487
+  whiffed: 275676
+  wolfed: 278670
+not_scored_words:
+- Dyfed
+- Fed
+- biffed
+- bulletproofed
+- childproofed
+- coifed
+- crossruffed
+- diffed
+- duffed
+- effed
+- faffed
+- fireproofed
+- flameproofed
+- gaffed
+- golfed
+- jackknifed
+- luffed
+- midwifed
+- mothproofed
+- reffed
+- reproofed
+- restaffed
+- rustproofed
+- sclaffed
+- serifed
+- seriffed
+- snarfed
+- spiffed
+- tiffed
+- weatherproofed
+- windsurfed
+- woofed

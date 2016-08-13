@@ -1,0 +1,26 @@
+---
+pattern: _elf
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 16
+score: 540798
+score_per_word: 38628
+hi_scored_words:
+  bookshelf: 20204
+  elf: 12498
+  herself: 2143
+  himself: 800
+  itself: 737
+  myself: 878
+  oneself: 16247
+  ourself: 64114
+  self: 823
+  shelf: 5130
+  thyself: 21387
+  yourself: 756
+scored_words:
+  nonself: 289825
+  pelf: 105256
+not_scored_words:
+- ELF
+- mantelshelf

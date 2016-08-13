@@ -1,0 +1,29 @@
+---
+pattern: f_zed
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1316220
+score_per_word: 101247
+hi_scored_words:
+  fantasized: 92614
+  fazed: 75084
+  fertilized: 38568
+  fictionalized: 82793
+  finalized: 20503
+  fluidized: 69937
+  formalized: 34559
+  fossilized: 59471
+scored_words:
+  factorized: 215462
+  familiarized: 105289
+  federalized: 229320
+  feminized: 103522
+  fuzzed: 189098
+not_scored_words:
+- faradized
+- fizzed
+- formularized
+- fraternized
+- frizzed
+- futzed

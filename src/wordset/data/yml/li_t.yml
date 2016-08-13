@@ -1,0 +1,58 @@
+---
+pattern: li_t
+hi_scored_words_count: 19
+scored_words_count: 10
+total_words: 48
+score: 2337011
+score_per_word: 80586
+hi_scored_words:
+  lieutenant: 6057
+  lifeboat: 35560
+  lift: 2868
+  ligament: 29873
+  light: 299
+  lightest: 32788
+  lightweight: 11490
+  lilt: 78900
+  limelight: 35718
+  limit: 2059
+  limpet: 81816
+  linguist: 31301
+  linnet: 69267
+  lint: 25506
+  list: 374
+  lit: 4813
+  litigant: 63632
+  littlest: 51424
+  liveliest: 86630
+scored_words:
+  librettist: 121983
+  licit: 103865
+  likeliest: 148452
+  likest: 220212
+  lineament: 181082
+  liniment: 142411
+  linocut: 234787
+  literalist: 187689
+  liverwort: 148524
+  livest: 197631
+not_scored_words:
+- Liebknecht
+- Lieut
+- Lieutenant
+- Lilliput
+- Liszt
+- libelant
+- libelist
+- liberalist
+- liberationist
+- liefest
+- lifebelt
+- limiest
+- limpest
+- lintiest
+- liquefacient
+- liquescent
+- lithest
+- liturgist
+- liverwurst

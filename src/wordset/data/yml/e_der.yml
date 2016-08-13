@@ -1,0 +1,25 @@
+---
+pattern: e_der
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 820636
+score_per_word: 74603
+hi_scored_words:
+  eider: 66075
+  elder: 4663
+  embroider: 77463
+  encoder: 23124
+  engender: 45845
+  expander: 45885
+  extender: 30032
+  extruder: 76303
+scored_words:
+  evader: 170018
+  exploder: 124388
+  expounder: 156840
+not_scored_words:
+- eluder
+- emender
+- enjoinder
+- expender

@@ -1,0 +1,30 @@
+---
+pattern: resi_s
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 20
+score: 878022
+score_per_word: 54876
+hi_scored_words:
+  residences: 16488
+  residencies: 51829
+  residents: 3474
+  resides: 12764
+  residuals: 30940
+  residues: 11772
+  resignations: 51859
+  resigns: 29686
+  resins: 21927
+  resistances: 56970
+  resisters: 89942
+  resistors: 26817
+  resists: 25850
+scored_words:
+  resinous: 102798
+  resistless: 196263
+  resizes: 148643
+not_scored_words:
+- resinates
+- resiniferous
+- resinoids
+- resits

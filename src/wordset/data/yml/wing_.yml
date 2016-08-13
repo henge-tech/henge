@@ -1,0 +1,32 @@
+---
+pattern: wing_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1393603
+score_per_word: 92906
+hi_scored_words:
+  wing: 2773
+  winged: 18887
+  winger: 27073
+  wingers: 44745
+  winging: 79912
+  wingless: 68322
+  wingnut: 69410
+  wingnuts: 99619
+  wings: 2619
+  wingspan: 41871
+scored_words:
+  wingback: 249644
+  wingdings: 181280
+  wingspread: 274196
+  wingtip: 112430
+  wingtips: 120822
+not_scored_words:
+- wingbacks
+- wingding
+- winglet
+- winglike
+- wingover
+- wingspans
+- wingspreads

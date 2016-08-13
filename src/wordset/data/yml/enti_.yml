@@ -1,0 +1,30 @@
+---
+pattern: enti_
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 20
+score: 1286066
+score_per_word: 67687
+hi_scored_words:
+  entice: 28231
+  enticed: 54846
+  enticing: 33419
+  entire: 971
+  entirely: 2135
+  entirety: 16078
+  entities: 10300
+  entitle: 33034
+  entitled: 2714
+  entitlement: 16615
+  entitlements: 23924
+  entitles: 39768
+  entitling: 87366
+  entity: 3363
+scored_words:
+  enticement: 112243
+  enticements: 177873
+  enticer: 279100
+  entices: 114446
+  enticingly: 249640
+not_scored_words:
+- entitative

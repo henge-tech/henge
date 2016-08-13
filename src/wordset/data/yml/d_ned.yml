@@ -1,0 +1,58 @@
+---
+pattern: d_ned
+hi_scored_words_count: 26
+scored_words_count: 10
+total_words: 48
+score: 2484477
+score_per_word: 69013
+hi_scored_words:
+  damned: 8641
+  dampened: 62091
+  darkened: 20559
+  darned: 45467
+  dawned: 30183
+  declined: 5547
+  decommissioned: 45477
+  deepened: 36885
+  defined: 2294
+  designed: 1503
+  destined: 9648
+  detained: 10428
+  determined: 1358
+  dethroned: 68071
+  dimensioned: 96749
+  dined: 31439
+  discerned: 36098
+  disciplined: 16052
+  disheartened: 53469
+  disillusioned: 39345
+  disinclined: 92795
+  disowned: 74930
+  donned: 50468
+  downed: 38136
+  drained: 11836
+  drowned: 15803
+scored_words:
+  deadened: 119043
+  deadpanned: 340979
+  deafened: 105904
+  deigned: 110859
+  demeaned: 145731
+  dinned: 227454
+  disdained: 101532
+  disjoined: 156596
+  divined: 108576
+  droned: 162531
+not_scored_words:
+- damascened
+- datelined
+- dehorned
+- deplaned
+- deponed
+- detrained
+- disburdened
+- distrained
+- dizened
+- doggoned
+- dragooned
+- dunned

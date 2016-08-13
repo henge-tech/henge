@@ -1,0 +1,40 @@
+---
+pattern: pro_ons
+hi_scored_words_count: 18
+scored_words_count: 3
+total_words: 30
+score: 1158183
+score_per_word: 55151
+hi_scored_words:
+  processions: 52298
+  proclamations: 45868
+  productions: 4195
+  professions: 10112
+  progressions: 48948
+  prohibitions: 27884
+  projections: 12267
+  promotions: 10860
+  pronunciations: 66379
+  proportions: 9268
+  propositions: 21541
+  prosecutions: 27696
+  protections: 23729
+  protestations: 70207
+  protons: 24954
+  protrusions: 88261
+  provisions: 1978
+  provocations: 75552
+scored_words:
+  prognostications: 118344
+  proscriptions: 172913
+  prostrations: 244929
+not_scored_words:
+- procrastinations
+- profanations
+- profusions
+- prolongations
+- prolusions
+- promulgations
+- pronations
+- proprioceptions
+- prorations

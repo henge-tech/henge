@@ -1,0 +1,46 @@
+---
+pattern: h_ist
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 36
+score: 1755311
+score_per_word: 92384
+hi_scored_words:
+  hairstylist: 86290
+  harpist: 78691
+  hedonist: 82411
+  heist: 35838
+  herbalist: 56204
+  hist: 6640
+  hobbyist: 48312
+  hoist: 21803
+  horticulturist: 81579
+  humanist: 34252
+  humorist: 57411
+  hygienist: 52696
+  hypnotherapist: 84511
+  hypnotist: 47691
+scored_words:
+  harpsichordist: 245354
+  hematologist: 209541
+  historicist: 217602
+  horologist: 151150
+  hydrologist: 157335
+not_scored_words:
+- Hebraist
+- Hellenist
+- Hengist
+- hacktivist
+- haggadist
+- harmonist
+- hegemonist
+- heraldist
+- herpetologist
+- histologist
+- holist
+- homeopathist
+- homilist
+- horticulturalist
+- hydrodynamicist
+- hydropathist
+- hymnist

@@ -1,0 +1,25 @@
+---
+pattern: _got
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 15
+score: 926348
+score_per_word: 71257
+hi_scored_words:
+  bigot: 38876
+  ergot: 73364
+  faggot: 36329
+  forgot: 1714
+  got: 216
+  ingot: 52279
+  maggot: 43422
+  spigot: 46111
+scored_words:
+  argot: 109373
+  begot: 102522
+  escargot: 108002
+  fagot: 135788
+  gigot: 178352
+not_scored_words:
+- Margot
+- Turgot

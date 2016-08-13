@@ -1,0 +1,38 @@
+---
+pattern: la_te
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 28
+score: 1038407
+score_per_word: 86533
+hi_scored_words:
+  labradorite: 92115
+  lactate: 32006
+  laminate: 24240
+  lanceolate: 68182
+  late: 603
+  latte: 25287
+  laureate: 27279
+  layette: 82762
+scored_words:
+  lacerate: 223404
+  lambaste: 226302
+  laterite: 116770
+  launderette: 119457
+not_scored_words:
+- LaFollette
+- Laborite
+- Lafayette
+- Lafitte
+- Latinate
+- labiate
+- laciniate
+- lacunate
+- lamellate
+- lanate
+- lancinate
+- landgraviate
+- langouste
+- lapidate
+- lazulite
+- lazurite

@@ -1,0 +1,76 @@
+---
+pattern: a_ds
+hi_scored_words_count: 26
+scored_words_count: 11
+total_words: 66
+score: 2844954
+score_per_word: 76890
+hi_scored_words:
+  abounds: 33991
+  accords: 26308
+  acids: 7821
+  adds: 3603
+  ads: 2034
+  affords: 18457
+  afterwards: 4099
+  aids: 4691
+  airfields: 49122
+  alkaloids: 45490
+  almonds: 22957
+  amends: 17049
+  androids: 58638
+  antacids: 63240
+  aphids: 46173
+  appends: 83777
+  applauds: 50866
+  arachnids: 92176
+  armbands: 81435
+  arrowheads: 68530
+  arthropods: 50577
+  ascends: 59131
+  asteroids: 24458
+  attends: 16928
+  avoids: 18619
+  awards: 5156
+scored_words:
+  absconds: 153672
+  adenoids: 133147
+  afterwords: 130700
+  airbeds: 163090
+  airheads: 124986
+  airspeeds: 314257
+  ampersands: 243286
+  amphipods: 135241
+  annelids: 180803
+  apprehends: 171183
+  astounds: 139263
+not_scored_words:
+- AIDS
+- Altoids
+- Amerinds
+- Ards
+- abfarads
+- acarids
+- addends
+- afterworlds
+- agueweeds
+- albuminoids
+- alkyds
+- amphidiploids
+- amyloids
+- analysands
+- aneroids
+- antherozoids
+- anthropoids
+- aoudads
+- arachnoids
+- archfiends
+- armloads
+- aroids
+- arytenoids
+- assureds
+- athodyds
+- augends
+- autacoids
+- axeheads
+- axseeds

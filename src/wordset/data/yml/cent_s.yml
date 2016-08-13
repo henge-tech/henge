@@ -1,0 +1,45 @@
+---
+pattern: cent_s
+hi_scored_words_count: 8
+scored_words_count: 13
+total_words: 35
+score: 2452714
+score_per_word: 116795
+hi_scored_words:
+  centaurs: 72294
+  centerpieces: 58307
+  centers: 5049
+  centimeters: 33048
+  centrifuges: 68218
+  cents: 4093
+  centuries: 4368
+  centurions: 81538
+scored_words:
+  centavos: 104683
+  centenarians: 155565
+  centenaries: 235836
+  centerfolds: 110113
+  centimes: 131776
+  centipedes: 108660
+  centralizes: 151758
+  centrals: 183537
+  centrioles: 280098
+  centrists: 126249
+  centroids: 123112
+  centromeres: 189979
+  centrosomes: 224433
+not_scored_words:
+- Centaurus
+- centals
+- centares
+- centauries
+- centennials
+- centerboards
+- centerings
+- centesimos
+- centigrams
+- centiliters
+- centimos
+- centners
+- centralizers
+- centrums

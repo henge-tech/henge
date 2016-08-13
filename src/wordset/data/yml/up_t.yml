@@ -1,0 +1,27 @@
+---
+pattern: up_t
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 17
+score: 865741
+score_per_word: 57716
+hi_scored_words:
+  upbeat: 20217
+  upfront: 22084
+  uplift: 25236
+  upmarket: 57000
+  uppercut: 77608
+  uppermost: 34472
+  upright: 7204
+  uproot: 65807
+  upset: 5414
+  upshot: 44096
+  upstart: 41628
+  uptight: 40849
+scored_words:
+  upcast: 170110
+  updraft: 119468
+  upmost: 134548
+not_scored_words:
+- upswept
+- upthrust

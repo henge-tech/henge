@@ -1,0 +1,47 @@
+---
+pattern: ve_r
+hi_scored_words_count: 19
+scored_words_count: 1
+total_words: 37
+score: 1082637
+score_per_word: 54131
+hi_scored_words:
+  vector: 7998
+  veer: 34309
+  vehicular: 27390
+  velar: 98185
+  velour: 40329
+  vendor: 11486
+  veneer: 24857
+  venter: 55934
+  ventilator: 35310
+  ventricular: 19155
+  verger: 82996
+  verifier: 54723
+  vernacular: 23499
+  vernier: 61943
+  versicolor: 92509
+  vesicular: 55445
+  vesper: 66362
+  vestibular: 44145
+  vetiver: 82255
+scored_words:
+  veter: 163807
+not_scored_words:
+- Veadar
+- Vermeer
+- Vermonter
+- Vesper
+- vegeburger
+- veggieburger
+- veliger
+- venerator
+- verbalizer
+- verderer
+- verditer
+- verier
+- verisimilar
+- vermicular
+- versicular
+- versifier
+- verticillaster

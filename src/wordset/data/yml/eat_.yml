@@ -1,0 +1,23 @@
+---
+pattern: eat_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 552640
+score_per_word: 55264
+hi_scored_words:
+  eat: 1291
+  eaten: 6604
+  eater: 18809
+  eateries: 54270
+  eaters: 28200
+  eatery: 48348
+  eating: 2144
+  eats: 9710
+scored_words:
+  eatable: 164124
+  eatables: 219140
+not_scored_words:
+- Eaton
+- eatage
+- eatings

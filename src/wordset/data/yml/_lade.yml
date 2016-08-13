@@ -1,0 +1,30 @@
+---
+pattern: _lade
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1122067
+score_per_word: 86312
+hi_scored_words:
+  accolade: 39243
+  ballade: 79162
+  blade: 4364
+  enfilade: 77652
+  escalade: 34912
+  glade: 21030
+  lade: 65781
+  marmalade: 31097
+  switchblade: 57090
+scored_words:
+  everglade: 273527
+  fusillade: 152557
+  roulade: 175188
+  salade: 110464
+not_scored_words:
+- Rollerblade
+- defilade
+- oeillade
+- phylloclade
+- scalade
+- twayblade
+- unlade

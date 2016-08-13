@@ -1,0 +1,35 @@
+---
+pattern: t_als
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 25
+score: 883759
+score_per_word: 73646
+hi_scored_words:
+  terminals: 15497
+  testimonials: 14418
+  thermals: 59521
+  totals: 16759
+  transsexuals: 33029
+  trials: 3879
+  tribunals: 24387
+  tutorials: 5730
+scored_words:
+  terrestrials: 142883
+  theatricals: 130948
+  transnationals: 228066
+  traversals: 208642
+not_scored_words:
+- tarsals
+- teals
+- tercentennials
+- territorials
+- thimerosals
+- ticals
+- transferals
+- tricentennials
+- triennials
+- trifocals
+- trigeminals
+- trilaterals
+- turbinals

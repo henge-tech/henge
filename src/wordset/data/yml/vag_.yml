@@ -1,0 +1,42 @@
+---
+pattern: vag_
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 32
+score: 1966758
+score_per_word: 93655
+hi_scored_words:
+  vagabond: 29286
+  vagabonds: 82373
+  vagal: 84919
+  vagaries: 47129
+  vagina: 14528
+  vaginal: 13460
+  vaginas: 20126
+  vaginitis: 81040
+  vagrant: 39500
+  vagrants: 97695
+  vague: 7647
+  vaguely: 15506
+  vagueness: 41261
+  vagus: 59968
+scored_words:
+  vagabonding: 326339
+  vagary: 187086
+  vaginally: 133640
+  vaginismus: 187879
+  vagrancy: 110181
+  vaguer: 246416
+  vaguest: 140779
+not_scored_words:
+- vagabondage
+- vagabonded
+- vagarious
+- vagariously
+- vagi
+- vaginae
+- vaginate
+- vaginectomy
+- vaginitides
+- vagrantly
+- vagrom

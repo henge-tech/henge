@@ -1,0 +1,29 @@
+---
+pattern: swa_g
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 19
+score: 1371464
+score_per_word: 97961
+hi_scored_words:
+  swaddling: 96873
+  swag: 26056
+  swaggering: 94668
+  swallowing: 15774
+  swapping: 17375
+  swarming: 39733
+  swashbuckling: 82609
+  swaying: 38065
+scored_words:
+  swabbing: 167141
+  swaging: 199770
+  swamping: 143757
+  swansong: 162374
+  swathing: 154227
+  swatting: 133042
+not_scored_words:
+- swagging
+- swanking
+- swanning
+- swashing
+- swattering

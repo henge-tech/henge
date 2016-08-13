@@ -1,0 +1,51 @@
+---
+pattern: tea_s
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 41
+score: 2549856
+score_per_word: 101994
+hi_scored_words:
+  teabags: 98296
+  teachers: 1871
+  teaches: 7134
+  teachings: 10306
+  teacups: 82508
+  teammates: 19563
+  teams: 3974
+  teamsters: 44903
+  teapots: 49965
+  teardrops: 69830
+  tears: 3052
+  teas: 16850
+  teasers: 42565
+  teases: 50914
+  teaspoons: 32145
+  teats: 83780
+scored_words:
+  teahouses: 297564
+  teakettles: 225773
+  tealights: 180387
+  tearaways: 268071
+  teargas: 176423
+  tearjerkers: 247403
+  tearless: 219816
+  tearooms: 178183
+  teaspoonfuls: 138580
+not_scored_words:
+- teaberries
+- teacakes
+- teacarts
+- teachableness
+- teacupfuls
+- teaks
+- teakwoods
+- tealeaves
+- teals
+- tearfulness
+- teargases
+- teariness
+- teasels
+- teashops
+- teasings
+- teatimes

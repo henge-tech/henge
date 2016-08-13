@@ -1,0 +1,32 @@
+---
+pattern: val_e
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 22
+score: 523531
+score_per_word: 43627
+hi_scored_words:
+  valance: 33861
+  vale: 9357
+  valence: 28405
+  valentine: 7785
+  validate: 15586
+  valine: 70536
+  valise: 80058
+  valse: 73757
+  valuable: 2444
+  value: 375
+  valve: 5971
+scored_words:
+  valuate: 195396
+not_scored_words:
+- Valarie
+- Valence
+- Valentine
+- Valerie
+- Valkyrie
+- Valvoline
+- valiance
+- valorize
+- valvate
+- valvule

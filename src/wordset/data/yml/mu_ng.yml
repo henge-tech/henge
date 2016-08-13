@@ -1,0 +1,48 @@
+---
+pattern: mu_ng
+hi_scored_words_count: 19
+scored_words_count: 13
+total_words: 38
+score: 3074918
+score_per_word: 96091
+hi_scored_words:
+  mucking: 62021
+  mugging: 59944
+  mulching: 63475
+  mulling: 59660
+  multiplexing: 40008
+  multiplying: 22551
+  multiprocessing: 95318
+  multitasking: 40582
+  mumbling: 47939
+  munching: 48322
+  mung: 60697
+  murdering: 26026
+  murmuring: 52349
+  musing: 39390
+  mustang: 14187
+  mustering: 92206
+  mutating: 83700
+  muting: 78033
+  muttering: 49779
+scored_words:
+  muckraking: 152775
+  muddling: 131345
+  muddying: 218681
+  mudslinging: 162777
+  muffling: 148768
+  multiprogramming: 184725
+  munging: 126416
+  muscling: 167268
+  mushing: 116848
+  mushrooming: 110301
+  mutilating: 123954
+  muzzleloading: 188385
+  muzzling: 206488
+not_scored_words:
+- muffing
+- mulcting
+- mummifying
+- munitioning
+- mussing
+- mutinying

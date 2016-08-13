@@ -1,0 +1,69 @@
+---
+pattern: pr_te
+hi_scored_words_count: 23
+scored_words_count: 12
+total_words: 59
+score: 2900611
+score_per_word: 82874
+hi_scored_words:
+  precipitate: 25782
+  predate: 80986
+  predicate: 18722
+  predominate: 47852
+  prelate: 52296
+  prerequisite: 11401
+  primate: 24646
+  private: 396
+  probate: 20921
+  procrastinate: 52258
+  procreate: 67901
+  profligate: 66802
+  proliferate: 48984
+  promote: 2899
+  promulgate: 45104
+  propagate: 23635
+  proportionate: 24225
+  prosecute: 17510
+  prostate: 12226
+  prostitute: 20381
+  prostrate: 32867
+  protectorate: 44644
+  proximate: 39331
+scored_words:
+  prate: 148432
+  preponderate: 271564
+  preterite: 134045
+  prevaricate: 117708
+  professoriate: 203475
+  prognosticate: 231541
+  prokaryote: 251169
+  prolate: 143835
+  propitiate: 129538
+  prorate: 157628
+  proselyte: 154858
+  prussiate: 175049
+not_scored_words:
+- Private
+- Protectorate
+- preadamite
+- precalculate
+- predesignate
+- predestinate
+- predeterminate
+- prefabricate
+- preindicate
+- preliterate
+- premeditate
+- presbyterate
+- prestidigitate
+- principate
+- priorate
+- procaryote
+- proconsulate
+- professorate
+- prolongate
+- pronate
+- propylite
+- protochordate
+- protuberate
+- proustite

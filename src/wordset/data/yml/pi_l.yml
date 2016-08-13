@@ -1,0 +1,37 @@
+---
+pattern: pi_l
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 27
+score: 992627
+score_per_word: 55145
+hi_scored_words:
+  pickerel: 92834
+  pictorial: 18173
+  piecemeal: 39690
+  pigtail: 53327
+  pill: 7999
+  pimpernel: 65425
+  pinball: 18242
+  pineal: 48851
+  pintail: 71218
+  pinwheel: 64264
+  pistil: 77916
+  pistol: 8220
+  pitfall: 47936
+  pitiful: 24465
+  pivotal: 25033
+  pixel: 12353
+scored_words:
+  piratical: 156615
+  piscatorial: 160066
+not_scored_words:
+- picul
+- pietistical
+- piezoelectrical
+- pigswill
+- pilpul
+- pipeful
+- piperonal
+- piscicultural
+- pitcherful

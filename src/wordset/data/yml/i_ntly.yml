@@ -1,0 +1,62 @@
+---
+pattern: i_ntly
+hi_scored_words_count: 17
+scored_words_count: 19
+total_words: 52
+score: 3952848
+score_per_word: 109801
+hi_scored_words:
+  impatiently: 34098
+  importantly: 15911
+  inadvertently: 20701
+  incessantly: 38067
+  inconsistently: 81340
+  independently: 6698
+  indifferently: 78861
+  indignantly: 71599
+  infrequently: 29845
+  inherently: 20028
+  innocently: 39103
+  insistently: 96969
+  instantly: 3444
+  insufficiently: 49679
+  intelligently: 26862
+  intently: 28632
+  intermittently: 36367
+scored_words:
+  ignorantly: 107546
+  imminently: 112412
+  impertinently: 185852
+  impotently: 158406
+  improvidently: 341616
+  imprudently: 212300
+  impudently: 224342
+  incoherently: 109387
+  incompetently: 258751
+  incontinently: 136358
+  inconveniently: 149252
+  indecently: 161815
+  indolently: 180959
+  indulgently: 172094
+  inefficiently: 102834
+  insignificantly: 135359
+  insolently: 191008
+  irrelevantly: 158171
+  irreverently: 176182
+not_scored_words:
+- immanently
+- impenitently
+- impermanently
+- incandescently
+- incipiently
+- inclemently
+- incongruently
+- inconstantly
+- indigently
+- inelegantly
+- insouciantly
+- interdependently
+- intolerantly
+- intransigently
+- iridescently
+- itinerantly

@@ -1,0 +1,24 @@
+---
+pattern: loud_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 658580
+score_per_word: 65858
+hi_scored_words:
+  loud: 3387
+  louder: 12452
+  loudest: 36813
+  loudly: 11850
+  loudmouth: 84604
+  loudness: 42015
+  loudspeaker: 30768
+  loudspeakers: 34621
+scored_words:
+  louden: 113569
+  loudmouthed: 288501
+not_scored_words:
+- loudhailer
+- loudhailers
+- loudish
+- loudmouths

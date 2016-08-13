@@ -1,0 +1,32 @@
+---
+pattern: publ_
+hi_scored_words_count: 19
+scored_words_count: 2
+total_words: 22
+score: 812028
+score_per_word: 38668
+hi_scored_words:
+  publ: 21366
+  public: 158
+  publican: 65901
+  publicans: 99053
+  publication: 1829
+  publications: 2745
+  publicist: 38729
+  publicists: 75752
+  publicity: 7550
+  publicize: 35316
+  publicized: 26806
+  publicizing: 62678
+  publicly: 5132
+  publish: 4520
+  published: 782
+  publisher: 5936
+  publishers: 4006
+  publishes: 16014
+  publishing: 3461
+scored_words:
+  publicizes: 225961
+  publishable: 108333
+not_scored_words:
+- publicness

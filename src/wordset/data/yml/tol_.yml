@@ -1,0 +1,62 @@
+---
+pattern: tol_
+hi_scored_words_count: 22
+scored_words_count: 9
+total_words: 52
+score: 2607773
+score_per_word: 84121
+hi_scored_words:
+  tolar: 76366
+  told: 562
+  tole: 62586
+  tolerability: 91561
+  tolerable: 24656
+  tolerably: 60474
+  tolerance: 7778
+  tolerances: 29792
+  tolerant: 13547
+  tolerate: 12473
+  tolerated: 15471
+  tolerates: 66923
+  tolerating: 65529
+  toleration: 39936
+  toll: 5299
+  tollbooth: 99489
+  tolled: 82029
+  tolling: 47166
+  tolls: 25827
+  tollway: 82095
+  tolly: 99167
+  toluene: 36375
+scored_words:
+  tola: 144171
+  tolan: 117407
+  tolbooth: 251255
+  tolbutamide: 151056
+  tollgate: 123454
+  tollhouse: 158231
+  tolu: 195057
+  toluidine: 130319
+  tolyl: 291722
+not_scored_words:
+- Toledo
+- Toledos
+- Tolkien
+- Tolstoy
+- Tolstoyan
+- Toltec
+- Toltecan
+- Toluca
+- Tolyatti
+- tolbooths
+- tolbutamides
+- tolerableness
+- tolerantly
+- tolidine
+- tollbooths
+- tollgates
+- tollhouses
+- tollways
+- toluate
+- toluol
+- tolus

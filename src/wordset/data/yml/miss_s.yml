@@ -1,0 +1,32 @@
+---
+pattern: miss_s
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 22
+score: 1685957
+score_per_word: 120425
+hi_scored_words:
+  misses: 11972
+  missiles: 12418
+  missionaries: 12351
+  missions: 6395
+  misspellings: 51675
+  misstatements: 89945
+  missteps: 85613
+  missus: 40815
+scored_words:
+  missals: 304100
+  missioners: 219847
+  missis: 127674
+  missives: 102140
+  misspells: 293599
+  misstates: 327413
+not_scored_words:
+- Mississippians
+- Missourians
+- misshapes
+- missies
+- missises
+- misspeaks
+- misspends
+- missuses

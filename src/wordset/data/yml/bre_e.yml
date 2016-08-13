@@ -1,0 +1,28 @@
+---
+pattern: bre_e
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 18
+score: 875657
+score_per_word: 67358
+hi_scored_words:
+  breakable: 67470
+  breakage: 38543
+  breastplate: 55633
+  breaststroke: 41092
+  breathable: 34374
+  breathe: 6300
+  bree: 28239
+  breeze: 6350
+  breve: 46611
+scored_words:
+  breadline: 215956
+  breastbone: 109824
+  brede: 113858
+  brewhouse: 111407
+not_scored_words:
+- Breckenridge
+- Bretagne
+- breathalyze
+- brecciate
+- brewage

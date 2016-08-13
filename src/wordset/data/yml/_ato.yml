@@ -1,0 +1,44 @@
+---
+pattern: _ato
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 34
+score: 1687472
+score_per_word: 112498
+hi_scored_words:
+  castrato: 63374
+  dato: 45313
+  legato: 45455
+  moderato: 68314
+  pizzicato: 74439
+  potato: 6863
+  staccato: 50538
+  tomato: 10241
+  vibrato: 50117
+scored_words:
+  agitato: 197530
+  animato: 229743
+  appassionato: 286198
+  jato: 153043
+  obbligato: 218770
+  rubato: 187534
+not_scored_words:
+- Cato
+- Erato
+- Guanajuato
+- NATO
+- Plato
+- Prato
+- RATO
+- SEATO
+- Spalato
+- Tupungato
+- fugato
+- inamorato
+- martellato
+- obligato
+- rabato
+- rebato
+- sforzato
+- sfumato
+- spiccato

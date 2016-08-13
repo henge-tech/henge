@@ -1,0 +1,27 @@
+---
+pattern: p_oned
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 17
+score: 1224687
+score_per_word: 87477
+hi_scored_words:
+  pardoned: 45231
+  partitioned: 35766
+  petitioned: 39063
+  phoned: 29193
+  poisoned: 17323
+  positioned: 10349
+  postponed: 14188
+  proportioned: 44087
+  provisioned: 60885
+scored_words:
+  pensioned: 187647
+  pinioned: 250022
+  portioned: 170645
+  preconditioned: 137595
+  propositioned: 182693
+not_scored_words:
+- pennoned
+- platooned
+- processioned

@@ -1,0 +1,23 @@
+---
+pattern: ind_able
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 13
+score: 973792
+score_per_word: 81149
+hi_scored_words:
+  indecipherable: 96056
+  indefatigable: 53580
+  indefinable: 91991
+  indescribable: 36759
+  indictable: 84958
+  indispensable: 11713
+  indisputable: 40956
+  indistinguishable: 30142
+  indomitable: 46602
+scored_words:
+  indeclinable: 153755
+  indeterminable: 219356
+  indubitable: 107924
+not_scored_words:
+- indemonstrable

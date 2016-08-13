@@ -1,0 +1,28 @@
+---
+pattern: ref_t
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 18
+score: 1147305
+score_per_word: 81950
+hi_scored_words:
+  referent: 47416
+  refinement: 12249
+  refit: 56354
+  reflect: 2965
+  reformat: 48422
+  reformist: 45388
+  refract: 97085
+  refreshment: 25089
+  refrigerant: 40332
+  reft: 69781
+  refurbishment: 23271
+scored_words:
+  reflexologist: 250276
+  reforest: 314323
+  refulgent: 114354
+not_scored_words:
+- refight
+- refloat
+- refluent
+- refrainment

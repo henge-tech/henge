@@ -1,0 +1,43 @@
+---
+pattern: dai_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 33
+score: 1803683
+score_per_word: 90184
+hi_scored_words:
+  dailies: 39442
+  daily: 695
+  daimon: 98746
+  daimyo: 81913
+  dainties: 87378
+  dainty: 26897
+  daiquiri: 84391
+  dairies: 53760
+  dairy: 7491
+  dairying: 86776
+  dais: 47926
+  daisies: 27615
+  daisy: 6855
+scored_words:
+  daikon: 122002
+  daintiest: 170854
+  daintily: 141127
+  daintiness: 161335
+  daiquiris: 203488
+  dairyman: 158195
+  dairymen: 196797
+not_scored_words:
+- Daimler
+- Dairen
+- Daisy
+- daikons
+- dailiness
+- daimio
+- daimons
+- daintier
+- dairymaid
+- dairymaids
+- dairywoman
+- dairywomen
+- daises

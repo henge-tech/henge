@@ -1,0 +1,32 @@
+---
+pattern: hig_s
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 22
+score: 345984
+score_per_word: 38442
+hi_scored_words:
+  highchairs: 63122
+  highlanders: 34537
+  highlands: 9950
+  highlighters: 73200
+  highlights: 3708
+  highness: 27124
+  highs: 8239
+  highways: 8666
+scored_words:
+  highers: 117438
+not_scored_words:
+- Higgins
+- Highlanders
+- Highlands
+- Highness
+- higgles
+- highballs
+- highbinders
+- highboys
+- highbrows
+- highfliers
+- highhandedness
+- highroads
+- hightails

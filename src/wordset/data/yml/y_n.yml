@@ -1,0 +1,49 @@
+---
+pattern: y_n
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 39
+score: 1578533
+score_per_word: 105235
+hi_scored_words:
+  yachtsman: 83671
+  yarn: 9565
+  yawn: 23356
+  yearn: 37294
+  yen: 12723
+  yeoman: 36169
+  yin: 24293
+  yon: 22531
+  yuan: 14759
+scored_words:
+  yachtsmen: 168347
+  yardman: 293993
+  yaupon: 307951
+  yean: 187807
+  yeomen: 100175
+  yulan: 255899
+not_scored_words:
+- Yangon
+- Yaren
+- Yeatsian
+- Yeltsin
+- Yemen
+- Yerevan
+- Yorktown
+- Yoruban
+- Yossarian
+- Youngstown
+- Yuan
+- Yucatan
+- Yugoslavian
+- Yukon
+- Yunnan
+- yachtswoman
+- yachtswomen
+- yamen
+- yapon
+- yardmen
+- yataghan
+- yestreen
+- youthen
+- yuppification

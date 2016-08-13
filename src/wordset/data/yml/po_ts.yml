@@ -1,0 +1,45 @@
+---
+pattern: po_ts
+hi_scored_words_count: 12
+scored_words_count: 14
+total_words: 35
+score: 2908008
+score_per_word: 111846
+hi_scored_words:
+  pockets: 5650
+  podcasts: 11906
+  podiatrists: 89192
+  poets: 6348
+  points: 673
+  pollutants: 13377
+  portents: 95058
+  portraits: 7485
+  ports: 4021
+  posits: 55306
+  posts: 1802
+  pots: 8403
+scored_words:
+  polecats: 224263
+  poltergeists: 178021
+  polygamists: 178874
+  polyglots: 329498
+  polytheists: 184066
+  poppets: 233143
+  populists: 125576
+  positivists: 193745
+  postmodernists: 184601
+  postponements: 131667
+  postscripts: 234618
+  potshots: 166419
+  pouts: 139106
+  powerboats: 105190
+not_scored_words:
+- Potts
+- pointillists
+- polemicists
+- polyandrists
+- polygynists
+- pomfrets
+- portraitists
+- possets
+- postulants

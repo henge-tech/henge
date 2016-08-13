@@ -1,0 +1,29 @@
+---
+pattern: a_ants
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 19
+score: 1435256
+score_per_word: 89703
+hi_scored_words:
+  accountants: 21202
+  adjuvants: 86945
+  anticoagulants: 63636
+  antidepressants: 25475
+  antioxidants: 26438
+  appellants: 35470
+  applicants: 7985
+  aspirants: 77129
+  assailants: 50827
+  assistants: 9415
+  attendants: 15891
+scored_words:
+  adulterants: 272571
+  annuitants: 144686
+  antiperspirants: 186625
+  ascendants: 256658
+  attractants: 154303
+not_scored_words:
+- abradants
+- adjutants
+- assonants

@@ -1,0 +1,29 @@
+---
+pattern: t_me
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 19
+score: 1613717
+score_per_word: 100857
+hi_scored_words:
+  tame: 14616
+  teatime: 78740
+  theme: 2439
+  threesome: 14459
+  thyme: 22694
+  time: 51
+  tiresome: 30739
+  tome: 13791
+  troublesome: 16572
+  twosome: 99128
+scored_words:
+  therme: 317664
+  toilsome: 133912
+  toothsome: 197812
+  trichome: 298915
+  trireme: 168046
+  trypanosome: 204139
+not_scored_words:
+- tagmeme
+- taxeme
+- toneme

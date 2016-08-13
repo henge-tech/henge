@@ -1,0 +1,24 @@
+---
+pattern: stew_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 862887
+score_per_word: 78444
+hi_scored_words:
+  stew: 14273
+  steward: 13730
+  stewardess: 48896
+  stewards: 28258
+  stewardship: 21523
+  stewed: 43459
+  stewing: 93982
+  stews: 43339
+scored_words:
+  stewardesses: 103650
+  stewarding: 207518
+  stewpan: 244259
+not_scored_words:
+- Stewart
+- stewarded
+- stewpans

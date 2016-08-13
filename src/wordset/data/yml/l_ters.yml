@@ -1,0 +1,25 @@
+---
+pattern: l_ters
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 15
+score: 712241
+score_per_word: 71224
+hi_scored_words:
+  letters: 1113
+  lifters: 51724
+  lighters: 30669
+  limiters: 89855
+  listers: 50371
+  liters: 25206
+  litters: 45050
+  lobsters: 35989
+  looters: 55769
+scored_words:
+  lamplighters: 326495
+not_scored_words:
+- Leicesters
+- lamenters
+- levanters
+- limewaters
+- loiters

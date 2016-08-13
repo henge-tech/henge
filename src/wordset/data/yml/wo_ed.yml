@@ -1,0 +1,32 @@
+---
+pattern: wo_ed
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 22
+score: 1038730
+score_per_word: 64920
+hi_scored_words:
+  wondered: 5846
+  wooded: 16839
+  woodshed: 91789
+  wooed: 68060
+  worded: 31452
+  worked: 1212
+  wormed: 88332
+  worried: 5057
+  worsened: 37193
+  worshiped: 44388
+  worsted: 49368
+  wounded: 5054
+  wowed: 74321
+scored_words:
+  wobbled: 119568
+  wolfed: 278670
+  wonted: 121581
+not_scored_words:
+- woaded
+- womanized
+- woofed
+- wooled
+- woolgathered
+- wormseed

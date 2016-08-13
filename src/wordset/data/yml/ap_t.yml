@@ -1,0 +1,34 @@
+---
+pattern: ap_t
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 24
+score: 1007224
+score_per_word: 55956
+hi_scored_words:
+  apart: 2281
+  apartment: 2037
+  apologist: 59499
+  apparent: 3584
+  appeasement: 55258
+  appellant: 22281
+  applet: 15763
+  applicant: 8073
+  appoint: 9045
+  appointment: 3032
+  apportionment: 35278
+  apricot: 25001
+  apt: 5651
+scored_words:
+  aperient: 111360
+  apiarist: 215160
+  applecart: 132040
+  appraisement: 174553
+  appurtenant: 127328
+not_scored_words:
+- aphorist
+- apiculturist
+- apomict
+- aport
+- appendant
+- aptest

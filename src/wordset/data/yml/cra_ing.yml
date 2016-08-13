@@ -1,0 +1,28 @@
+---
+pattern: cra_ing
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 18
+score: 1121465
+score_per_word: 70091
+hi_scored_words:
+  cracking: 11192
+  crackling: 35079
+  cradling: 94273
+  crafting: 20432
+  cramming: 62345
+  cramping: 50225
+  cranking: 48672
+  crashing: 13797
+  crating: 91640
+  craving: 13779
+  crawling: 14592
+scored_words:
+  crabbing: 104985
+  craning: 167737
+  crapping: 123828
+  cratering: 158818
+  crazing: 110071
+not_scored_words:
+- craunching
+- crayoning

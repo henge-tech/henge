@@ -1,0 +1,38 @@
+---
+pattern: _athy
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 28
+score: 1832849
+score_per_word: 96465
+hi_scored_words:
+  antipathy: 49073
+  apathy: 20189
+  cardiomyopathy: 41750
+  empathy: 20385
+  encephalopathy: 44236
+  homeopathy: 26115
+  lymphadenopathy: 87151
+  naturopathy: 79035
+  nephropathy: 55022
+  neuropathy: 30338
+  osteopathy: 58028
+  sympathy: 5158
+  telepathy: 44882
+scored_words:
+  allelopathy: 262190
+  allopathy: 276255
+  breathy: 105741
+  heathy: 213083
+  hydropathy: 300903
+  psychopathy: 113315
+not_scored_words:
+- Abernathy
+- Cathy
+- Kathy
+- anthropopathy
+- chrestomathy
+- idiopathy
+- lathy
+- polymathy
+- sociopathy

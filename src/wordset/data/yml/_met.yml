@@ -1,0 +1,29 @@
+---
+pattern: _met
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 19
+score: 747402
+score_per_word: 62283
+hi_scored_words:
+  calumet: 29313
+  comet: 11523
+  emmet: 40440
+  gourmet: 10539
+  grommet: 59636
+  helmet: 10228
+  kismet: 48339
+  met: 885
+  plummet: 47387
+  unmet: 43900
+scored_words:
+  cermet: 214445
+  pelmet: 230767
+not_scored_words:
+- Ansermet
+- Emmet
+- Kamet
+- Mamet
+- armet
+- grummet
+- mammet

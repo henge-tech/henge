@@ -1,0 +1,47 @@
+---
+pattern: reo_
+hi_scored_words_count: 14
+scored_words_count: 11
+total_words: 37
+score: 2633645
+score_per_word: 105345
+hi_scored_words:
+  reoccurring: 87978
+  reopen: 25785
+  reopened: 26849
+  reopening: 39720
+  reopens: 60519
+  reorder: 41314
+  reordered: 82327
+  reordering: 58176
+  reorganization: 15567
+  reorganizations: 83834
+  reorganize: 40641
+  reorganized: 31314
+  reorganizing: 60865
+  reorientation: 69047
+scored_words:
+  reoccupation: 250556
+  reoccupied: 186593
+  reoccupy: 284560
+  reoccur: 158990
+  reoccurrence: 162274
+  reorders: 159159
+  reorg: 139842
+  reorganizes: 125316
+  reorient: 101741
+  reoriented: 162599
+  reorienting: 178079
+not_scored_words:
+- reoccupies
+- reoccupying
+- reoccurred
+- reoccurs
+- reorged
+- reorging
+- reorgs
+- reorientate
+- reorientated
+- reorientates
+- reorientating
+- reorients

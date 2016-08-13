@@ -1,0 +1,66 @@
+---
+pattern: m_ions
+hi_scored_words_count: 24
+scored_words_count: 12
+total_words: 56
+score: 3134341
+score_per_word: 87065
+hi_scored_words:
+  machinations: 48627
+  malformations: 41968
+  malfunctions: 45168
+  manifestations: 16381
+  manipulations: 38947
+  mansions: 25476
+  medallions: 44661
+  medications: 6106
+  meditations: 24282
+  mentions: 8613
+  migrations: 31348
+  millions: 2321
+  minions: 33051
+  ministrations: 99594
+  misconceptions: 30796
+  misrepresentations: 56998
+  missions: 6395
+  modifications: 6648
+  modulations: 79882
+  motions: 9979
+  motivations: 20371
+  multiplications: 93542
+  munitions: 23519
+  mutations: 17713
+scored_words:
+  magnifications: 123242
+  maledictions: 134000
+  mentations: 288183
+  misapprehensions: 263773
+  miscalculations: 141181
+  miscommunications: 231767
+  misinterpretations: 112027
+  mobilizations: 148396
+  modernizations: 292041
+  molestations: 262453
+  mullions: 217824
+  mutilations: 107068
+not_scored_words:
+- maculations
+- malefactions
+- malpositions
+- malversations
+- manumissions
+- microaggressions
+- micturitions
+- midsections
+- misapplications
+- misappropriations
+- misconstructions
+- misdirections
+- mispronunciations
+- misquotations
+- mistranslations
+- modillions
+- monetizations
+- monitions
+- morions
+- murmurations

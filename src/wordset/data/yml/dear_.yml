@@ -1,0 +1,23 @@
+---
+pattern: dear_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 545135
+score_per_word: 60570
+hi_scored_words:
+  dear: 1549
+  dearer: 70820
+  dearest: 16217
+  dearie: 83828
+  dearly: 17561
+  dears: 50805
+  dearth: 35198
+  deary: 79022
+scored_words:
+  dearness: 190135
+not_scored_words:
+- Dearborn
+- dearests
+- dearies
+- dearths

@@ -1,0 +1,26 @@
+---
+pattern: b_ght
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 16
+score: 836051
+score_per_word: 64311
+hi_scored_words:
+  backlight: 37391
+  bantamweight: 98341
+  besought: 92177
+  bight: 45138
+  birthright: 33689
+  blacklight: 61981
+  blight: 21372
+  bought: 1500
+  bright: 1905
+  brought: 874
+  bullfight: 89793
+scored_words:
+  bedight: 204092
+  bethought: 147798
+not_scored_words:
+- Bright
+- backsight
+- bombsight

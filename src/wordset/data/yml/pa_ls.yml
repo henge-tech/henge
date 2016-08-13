@@ -1,0 +1,38 @@
+---
+pattern: pa_ls
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 28
+score: 947826
+score_per_word: 67701
+hi_scored_words:
+  pails: 55336
+  pals: 16177
+  panels: 6494
+  paralegals: 64080
+  parallels: 19933
+  paraprofessionals: 84089
+  parasols: 81727
+  parcels: 15812
+  partials: 98493
+  pastels: 37396
+  patrols: 24608
+  payrolls: 58124
+scored_words:
+  pascals: 185173
+  pastorals: 200384
+not_scored_words:
+- Pascals
+- pailfuls
+- palatals
+- palls
+- papergirls
+- paracetamols
+- paramedicals
+- parboils
+- parietals
+- parimutuels
+- passels
+- pastils
+- pawls
+- paywalls

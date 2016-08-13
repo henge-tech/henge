@@ -1,0 +1,32 @@
+---
+pattern: cons_t
+hi_scored_words_count: 18
+scored_words_count: 1
+total_words: 22
+score: 618356
+score_per_word: 32545
+hi_scored_words:
+  conscript: 66791
+  consent: 2476
+  consequent: 17477
+  conservationist: 58578
+  consignment: 28904
+  consist: 5694
+  consistent: 3350
+  consonant: 24943
+  consort: 22915
+  constant: 1942
+  constituent: 13104
+  constraint: 9571
+  constrict: 80074
+  construct: 6515
+  constructivist: 50823
+  consult: 4565
+  consultant: 14050
+  consumerist: 95201
+scored_words:
+  constructionist: 111383
+not_scored_words:
+- Constant
+- consentient
+- constringent

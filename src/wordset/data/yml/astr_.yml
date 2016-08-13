@@ -1,0 +1,74 @@
+---
+pattern: astr_
+hi_scored_words_count: 26
+scored_words_count: 12
+total_words: 64
+score: 3800091
+score_per_word: 100002
+hi_scored_words:
+  astr: 80776
+  astragalus: 53112
+  astrakhan: 86282
+  astral: 21880
+  astray: 23317
+  astride: 48762
+  astringent: 53891
+  astrobiology: 70836
+  astrodome: 75228
+  astrolabe: 76549
+  astrologer: 37549
+  astrologers: 51820
+  astrological: 30969
+  astrology: 13022
+  astronaut: 21879
+  astronautics: 56033
+  astronauts: 20503
+  astronomer: 21390
+  astronomers: 23010
+  astronomical: 11940
+  astronomically: 92748
+  astronomy: 7024
+  astrophotography: 69225
+  astrophysical: 42137
+  astrophysicist: 96835
+  astrophysics: 24967
+scored_words:
+  astraddle: 221603
+  astringency: 233584
+  astringents: 151076
+  astrodynamics: 274706
+  astrogeology: 295866
+  astrograph: 334595
+  astrolabes: 298040
+  astrologically: 238561
+  astrometry: 115303
+  astronautical: 116049
+  astronomic: 157564
+  astrophysicists: 151460
+not_scored_words:
+- Astrakhan
+- Astrid
+- AstroTurf
+- astragal
+- astragals
+- astragaluses
+- astrally
+- astraphobia
+- astrict
+- astringently
+- astrionics
+- astrodomes
+- astrogate
+- astrogation
+- astroid
+- astrol
+- astrologic
+- astrologist
+- astrologists
+- astromancy
+- astrometries
+- astronautic
+- astronautically
+- astronavigation
+- astronavigations
+- astrosphere

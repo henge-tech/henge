@@ -1,0 +1,92 @@
+---
+pattern: p_ical
+hi_scored_words_count: 29
+scored_words_count: 16
+total_words: 82
+score: 4435901
+score_per_word: 98575
+hi_scored_words:
+  paleontological: 77946
+  paradoxical: 35819
+  parenthetical: 62386
+  pathological: 20320
+  pedagogical: 22756
+  periodical: 13813
+  petrochemical: 33793
+  pharmaceutical: 9170
+  pharmacological: 28453
+  phenomenological: 42533
+  philological: 75470
+  philosophical: 6552
+  phonological: 34242
+  photochemical: 55484
+  photographical: 85890
+  physical: 838
+  physicochemical: 72226
+  physiological: 10728
+  poetical: 34705
+  polemical: 62937
+  political: 593
+  pontifical: 52859
+  practical: 1758
+  preclinical: 51689
+  problematical: 72941
+  prototypical: 55612
+  psychical: 53085
+  psychological: 5255
+  puritanical: 72625
+scored_words:
+  paramedical: 100662
+  parapsychological: 232566
+  parasitical: 208438
+  penological: 341612
+  petrological: 210281
+  phantasmagorical: 201102
+  photomechanical: 330945
+  phytochemical: 172304
+  piratical: 156615
+  premedical: 152106
+  presurgical: 294675
+  prophetical: 227711
+  psychoanalytical: 124663
+  psychopathological: 220633
+  psychophysiological: 109392
+  pyramidical: 199718
+not_scored_words:
+- Pharisaical
+- paleographical
+- panegyrical
+- pantheistical
+- papistical
+- paradisaical
+- patristical
+- pedological
+- petrographical
+- pharisaical
+- phenotypical
+- philanthropical
+- phlegmatical
+- photoelectrical
+- photometrical
+- phraseological
+- phrenetical
+- phrenological
+- physiognomical
+- physiographical
+- pietistical
+- piezoelectrical
+- plutocratical
+- pneumatical
+- postclassical
+- pragmatical
+- precritical
+- prehistorical
+- prelatical
+- proclerical
+- propaedeutical
+- prosodical
+- psephological
+- psychobiological
+- psychochemical
+- pyrochemical
+- pyrotechnical

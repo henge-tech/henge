@@ -1,0 +1,35 @@
+---
+pattern: ne_ly
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 25
+score: 1342505
+score_per_word: 83906
+hi_scored_words:
+  nearly: 1190
+  neatly: 13584
+  necessarily: 2573
+  needlessly: 39190
+  negatively: 19643
+  negligently: 70666
+  neighborly: 77630
+  nelly: 11572
+  nervously: 30325
+  newly: 3184
+scored_words:
+  negligibly: 155707
+  neurally: 281922
+  neurologically: 122000
+  neurotically: 266513
+  neutrally: 113207
+  newsweekly: 133599
+not_scored_words:
+- Nelly
+- nearsightedly
+- nebulously
+- needfully
+- nefariously
+- neglectfully
+- neonatally
+- nervelessly
+- nervily

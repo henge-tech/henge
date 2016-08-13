@@ -1,0 +1,34 @@
+---
+pattern: dig_s
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 24
+score: 1712924
+score_per_word: 100760
+hi_scored_words:
+  digests: 45693
+  diggers: 37705
+  digicams: 51932
+  digitalis: 50820
+  digits: 10077
+  dignitaries: 38378
+  digraphs: 95402
+  digress: 41055
+  digressions: 80787
+  digs: 22979
+scored_words:
+  digesters: 134249
+  digestions: 281596
+  digestives: 208950
+  diggings: 107044
+  digitizers: 136945
+  digitizes: 262894
+  dignities: 106418
+not_scored_words:
+- digenesis
+- digitalins
+- digitalizes
+- digitizations
+- dignifies
+- digresses
+- digressiveness

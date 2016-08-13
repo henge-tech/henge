@@ -1,0 +1,31 @@
+---
+pattern: d_b
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 21
+score: 1132796
+score_per_word: 80914
+hi_scored_words:
+  dab: 19127
+  daub: 93869
+  db: 8294
+  deb: 22317
+  dib: 51239
+  disturb: 12988
+  dob: 31712
+  doorknob: 69633
+  drab: 31059
+  dub: 15980
+  dumb: 5188
+scored_words:
+  desorb: 334363
+  drub: 325163
+  dweeb: 111864
+not_scored_words:
+- DOB
+- Deneb
+- dB
+- demob
+- disentomb
+- dithyramb
+- doorjamb

@@ -1,0 +1,74 @@
+---
+pattern: fo_y
+hi_scored_words_count: 25
+scored_words_count: 15
+total_words: 64
+score: 3656456
+score_per_word: 91411
+hi_scored_words:
+  foamy: 50545
+  foggy: 24352
+  folksy: 79447
+  folly: 12627
+  fondly: 30013
+  foolhardy: 62472
+  foolishly: 39157
+  footy: 32823
+  foray: 33794
+  forcefully: 30573
+  forcibly: 20942
+  foreplay: 37777
+  forestry: 11394
+  forgery: 23626
+  formality: 28400
+  formally: 7373
+  formerly: 3433
+  formulary: 45057
+  fortify: 39342
+  fortnightly: 40278
+  fortunately: 7314
+  forty: 3942
+  foundry: 16388
+  fourthly: 71420
+  foxy: 29802
+scored_words:
+  focally: 274612
+  fogy: 123404
+  foldaway: 164525
+  foolery: 139123
+  footway: 126116
+  foppery: 196289
+  forensically: 248659
+  foreseeability: 167911
+  forestay: 282840
+  forlornly: 170906
+  formidably: 230595
+  forthrightly: 152375
+  fortuitously: 132138
+  forwardly: 225130
+  foully: 239542
+not_scored_words:
+- Foley
+- Fotheringhay
+- foggily
+- folkway
+- foolhardily
+- footboy
+- footlessly
+- foppishly
+- forbiddingly
+- forby
+- forcedly
+- forebodingly
+- forelady
+- foresightedly
+- forgetfully
+- forgivingly
+- formicary
+- formidability
+- formlessly
+- formulaically
+- fortuity
+- forwhy
+- fourpenny
+- foxily

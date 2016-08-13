@@ -1,0 +1,45 @@
+---
+pattern: dr_ing
+hi_scored_words_count: 27
+scored_words_count: 5
+total_words: 35
+score: 1833659
+score_per_word: 57301
+hi_scored_words:
+  drafting: 16539
+  dragging: 11736
+  draining: 21965
+  draping: 85444
+  drawing: 2126
+  drawstring: 49323
+  dreading: 49421
+  dreaming: 7701
+  dredging: 33871
+  drenching: 91714
+  dressing: 5666
+  dressmaking: 91830
+  dribbling: 48056
+  drifting: 17151
+  drilling: 10437
+  drinking: 2457
+  dripping: 13965
+  driving: 1636
+  droning: 73510
+  drooling: 38654
+  drooping: 41111
+  dropping: 5981
+  drowning: 12501
+  drubbing: 97046
+  drugging: 99142
+  drumming: 23936
+  drying: 9116
+scored_words:
+  dramatizing: 159370
+  drawling: 196206
+  drizzling: 110165
+  droving: 237167
+  drowsing: 168716
+not_scored_words:
+- dragooning
+- driveling
+- drudging

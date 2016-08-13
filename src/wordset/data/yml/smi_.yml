@@ -1,0 +1,50 @@
+---
+pattern: smi_
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 40
+score: 1622625
+score_per_word: 67609
+hi_scored_words:
+  smile: 2123
+  smiled: 6123
+  smiler: 90628
+  smiles: 7242
+  smiley: 18769
+  smileys: 37843
+  smiling: 5680
+  smirk: 36579
+  smirked: 74288
+  smirking: 46384
+  smite: 34362
+  smith: 1115
+  smithereens: 73285
+  smiths: 24413
+  smithy: 46434
+  smitten: 30334
+scored_words:
+  smidgen: 104540
+  smilax: 129037
+  smilingly: 126214
+  smirks: 102148
+  smirky: 179496
+  smites: 191034
+  smithies: 146502
+  smiting: 108052
+not_scored_words:
+- Smirnoff
+- Smith
+- Smithson
+- Smithsonian
+- smidgens
+- smilacaceous
+- smirch
+- smirched
+- smirches
+- smirching
+- smirker
+- smirkily
+- smirkingly
+- smiter
+- smithery
+- smithsonite

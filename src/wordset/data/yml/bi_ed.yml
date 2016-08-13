@@ -1,0 +1,45 @@
+---
+pattern: bi_ed
+hi_scored_words_count: 8
+scored_words_count: 14
+total_words: 35
+score: 3188937
+score_per_word: 144951
+hi_scored_words:
+  biased: 18837
+  bifurcated: 71138
+  bigoted: 49482
+  billed: 11634
+  binned: 80029
+  biped: 87025
+  birthed: 73934
+  bitched: 91096
+scored_words:
+  biassed: 232089
+  bickered: 281569
+  bicycled: 281550
+  biked: 119850
+  bilked: 236792
+  billeted: 154320
+  billowed: 184911
+  bindweed: 115737
+  biopsied: 170929
+  birded: 307835
+  birdied: 140223
+  birdseed: 129244
+  bisected: 108205
+  bivouacked: 242508
+not_scored_words:
+- bielded
+- biffed
+- biforked
+- bighearted
+- binged
+- biodegraded
+- birched
+- birdbrained
+- birled
+- birred
+- bitted
+- bitterweed
+- bituminized

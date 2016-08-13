@@ -1,0 +1,43 @@
+---
+pattern: pro_er
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 33
+score: 1431611
+score_per_word: 68171
+hi_scored_words:
+  producer: 6510
+  proffer: 66226
+  programmer: 10131
+  promoter: 14644
+  prompter: 87852
+  proofreader: 84622
+  propeller: 20576
+  proper: 1464
+  proposer: 57168
+  prosper: 16795
+  protester: 51705
+  prouder: 98146
+  prover: 73573
+  provider: 11774
+  prowler: 45177
+scored_words:
+  probationer: 103524
+  procurer: 129991
+  profiteer: 150582
+  profounder: 106255
+  provender: 141436
+  provisioner: 153460
+not_scored_words:
+- Procter
+- prodder
+- profaner
+- promenader
+- promiser
+- properer
+- prophesier
+- propounder
+- proselytizer
+- proser
+- prosier
+- provoker

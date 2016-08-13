@@ -1,0 +1,39 @@
+---
+pattern: sho_g
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 29
+score: 2303568
+score_per_word: 92142
+hi_scored_words:
+  shocking: 9277
+  shoeing: 80129
+  shoestring: 45065
+  shooting: 3135
+  shoplifting: 48045
+  shopping: 3927
+  shoring: 64084
+  shortcoming: 48408
+  shortening: 22424
+  shorting: 66460
+  shouldering: 95644
+  shouting: 10269
+  shoveling: 64449
+  shoving: 40413
+  showcasing: 27264
+  showering: 36060
+  showing: 1327
+scored_words:
+  shoaling: 191953
+  shoemaking: 171809
+  shooing: 257440
+  shopfitting: 157519
+  shortchanging: 276658
+  shortlisting: 223475
+  showboating: 239892
+  showjumping: 118442
+not_scored_words:
+- shoehorning
+- shopkeeping
+- shotgunning
+- showstopping

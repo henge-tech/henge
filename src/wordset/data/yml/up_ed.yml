@@ -1,0 +1,28 @@
+---
+pattern: up_ed
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 933631
+score_per_word: 71817
+hi_scored_words:
+  updated: 1923
+  upgraded: 8212
+  upholstered: 32460
+  uplifted: 34414
+  uploaded: 12426
+  upped: 44641
+  uprooted: 50094
+  upturned: 49922
+scored_words:
+  upbraided: 185913
+  upended: 142029
+  upraised: 124936
+  uprated: 123951
+  upstaged: 122710
+not_scored_words:
+- upchucked
+- upreared
+- upstarted
+- upstretched
+- upsurged

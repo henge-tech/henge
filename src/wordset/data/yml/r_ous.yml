@@ -1,0 +1,43 @@
+---
+pattern: r_ous
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 33
+score: 842475
+score_per_word: 49557
+hi_scored_words:
+  rambunctious: 78677
+  rapacious: 69336
+  rapturous: 68282
+  raucous: 41749
+  ravenous: 44634
+  rebellious: 29092
+  religious: 1233
+  rendezvous: 15214
+  repetitious: 77072
+  ridiculous: 6262
+  righteous: 9552
+  rigorous: 11064
+  riotous: 65175
+  rufous: 46693
+  ruinous: 51264
+scored_words:
+  rancorous: 124378
+  resinous: 102798
+not_scored_words:
+- rampageous
+- ranunculaceous
+- recidivous
+- resiniferous
+- rhamnaceous
+- rhizocarpous
+- rhizomorphous
+- robustious
+- roisterous
+- rosaceous
+- rubiaceous
+- rubiginous
+- rubious
+- rumbustious
+- rutaceous
+- ruthenious

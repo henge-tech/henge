@@ -1,0 +1,39 @@
+---
+pattern: me_lly
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 29
+score: 1445260
+score_per_word: 96350
+hi_scored_words:
+  meaningfully: 48818
+  mechanically: 18071
+  medially: 98245
+  medically: 17508
+  mentally: 14331
+  mercifully: 58694
+  metaphorically: 52331
+  methodically: 56957
+scored_words:
+  mechanistically: 215859
+  medicinally: 138532
+  melodically: 166952
+  metabolically: 110940
+  metaphysically: 127739
+  methodologically: 101314
+  metrically: 218969
+not_scored_words:
+- medievally
+- meiotically
+- melancholically
+- melodramatically
+- memorially
+- menially
+- mercurially
+- metallically
+- metastatically
+- metempsychotically
+- meteorically
+- meteorologically
+- metonymically
+- metronomically

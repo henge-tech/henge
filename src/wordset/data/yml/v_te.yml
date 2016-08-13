@@ -1,0 +1,62 @@
+---
+pattern: v_te
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 52
+score: 2425613
+score_per_word: 86629
+hi_scored_words:
+  vacate: 33068
+  vaccinate: 52851
+  validate: 15586
+  venerate: 93435
+  ventilate: 66671
+  verite: 85705
+  vermiculite: 81745
+  vertebrate: 27606
+  vibrate: 32040
+  videocassette: 64242
+  vigilante: 36751
+  vignette: 35796
+  vinaigrette: 36767
+  vindicate: 51056
+  violate: 10303
+  vitiate: 91650
+  vote: 1303
+  vulgate: 36324
+scored_words:
+  vacillate: 177409
+  valuate: 195396
+  vanadate: 136808
+  variate: 102743
+  vedette: 145771
+  vegetate: 162507
+  vicariate: 143836
+  vidette: 212330
+  virgate: 140134
+  volute: 155780
+not_scored_words:
+- Vegemite
+- Venite
+- Vicente
+- Vulgate
+- vaginate
+- valvate
+- vanadinite
+- variegate
+- variolite
+- variscite
+- vaticinate
+- velate
+- vellicate
+- vermiculate
+- verticillate
+- vesicate
+- vesiculate
+- vesuvianite
+- vinegarette
+- virgulate
+- vituperate
+- vizierate
+- vociferate
+- vulcanite

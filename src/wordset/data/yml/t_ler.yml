@@ -1,0 +1,50 @@
+---
+pattern: t_ler
+hi_scored_words_count: 12
+scored_words_count: 12
+total_words: 40
+score: 2531307
+score_per_word: 105471
+hi_scored_words:
+  taller: 13193
+  teetotaler: 71013
+  teller: 17728
+  thaler: 64544
+  thriller: 12555
+  tickler: 86382
+  tiller: 30508
+  toddler: 12412
+  trailer: 4781
+  traveler: 6793
+  trawler: 43188
+  tumbler: 26719
+scored_words:
+  tackler: 131303
+  taler: 132638
+  tattler: 119563
+  tiddler: 197098
+  tiler: 124812
+  tingler: 200160
+  toiler: 126957
+  trembler: 226933
+  trifler: 235490
+  troller: 126750
+  troubler: 284234
+  twirler: 235553
+not_scored_words:
+- Teller
+- Theiler
+- Tyler
+- teaseler
+- teaseller
+- throttler
+- tippler
+- trammeler
+- trampler
+- tranquiler
+- truckler
+- trundler
+- tunneler
+- twaddler
+- twiddler
+- twinkler

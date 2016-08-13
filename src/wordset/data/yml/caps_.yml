@@ -1,0 +1,38 @@
+---
+pattern: caps_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 28
+score: 1367349
+score_per_word: 91156
+hi_scored_words:
+  caps: 8601
+  capsaicin: 72354
+  capsicum: 54674
+  capsid: 67357
+  capsize: 82266
+  capsized: 63423
+  capstan: 76382
+  capstone: 37307
+  capsular: 74767
+  capsule: 15099
+  capsules: 16249
+scored_words:
+  capsids: 230068
+  capsizes: 164251
+  capsizing: 116610
+  capstans: 287941
+not_scored_words:
+- capsaicins
+- capsful
+- capsicums
+- capstones
+- capsulate
+- capsulated
+- capsulation
+- capsuled
+- capsuling
+- capsulize
+- capsulized
+- capsulizes
+- capsulizing

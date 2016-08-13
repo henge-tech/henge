@@ -1,0 +1,44 @@
+---
+pattern: _ero
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 34
+score: 1410203
+score_per_word: 64100
+hi_scored_words:
+  aero: 19066
+  antihero: 88481
+  bolero: 46650
+  caballero: 35895
+  cero: 99343
+  cicero: 16483
+  embarcadero: 61127
+  hero: 2883
+  hetero: 33999
+  kero: 97255
+  libero: 41835
+  montero: 42756
+  nonzero: 35008
+  primero: 71949
+  ranchero: 82971
+  sombrero: 57486
+  subzero: 76643
+  superhero: 17433
+  zero: 4966
+scored_words:
+  bracero: 218006
+  torero: 146921
+  vaquero: 113047
+not_scored_words:
+- Cicero
+- Duero
+- Guerrero
+- Herero
+- Hero
+- Nero
+- Pinero
+- Quintero
+- Romero
+- banderillero
+- nonhero
+- pampero

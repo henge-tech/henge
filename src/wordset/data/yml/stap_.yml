@@ -1,0 +1,27 @@
+---
+pattern: stap_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 17
+score: 656551
+score_per_word: 59686
+hi_scored_words:
+  staph: 65129
+  staphylococcal: 66291
+  staphylococci: 89621
+  staphylococcus: 32009
+  staple: 13995
+  stapled: 51348
+  stapler: 39318
+  staplers: 81708
+  staples: 17387
+  stapling: 82357
+scored_words:
+  stapes: 117388
+not_scored_words:
+- Staples
+- stapedes
+- stapeses
+- staphylococcic
+- staphyloplasty
+- staphylorrhaphy

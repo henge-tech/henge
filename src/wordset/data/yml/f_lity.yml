@@ -1,0 +1,42 @@
+---
+pattern: f_lity
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 32
+score: 1459277
+score_per_word: 76804
+hi_scored_words:
+  facility: 2360
+  fatality: 23874
+  feasibility: 17493
+  fertility: 12217
+  fidelity: 8878
+  finality: 45717
+  flammability: 60963
+  flexibility: 8706
+  formality: 28400
+  fragility: 47744
+  frivolity: 62493
+  frugality: 75113
+  functionality: 9647
+  futility: 30226
+scored_words:
+  factuality: 280871
+  fallibility: 101429
+  falsifiability: 189413
+  foreseeability: 167911
+  fungibility: 285822
+not_scored_words:
+- fantasticality
+- farcicality
+- febrility
+- fermentability
+- feudality
+- filterability
+- fissility
+- formidability
+- franchisability
+- frangibility
+- friability
+- frontality
+- fusibility

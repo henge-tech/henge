@@ -1,0 +1,44 @@
+---
+pattern: ino_
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 34
+score: 1591403
+score_per_word: 88411
+hi_scored_words:
+  inoculate: 77531
+  inoculated: 40770
+  inoculation: 34826
+  inoculations: 99211
+  inoculum: 68895
+  inoffensive: 60813
+  inoperable: 49442
+  inoperative: 57631
+  inopportune: 85792
+  inordinate: 40220
+  inordinately: 86445
+  inorganic: 17248
+  inositol: 42556
+scored_words:
+  inocula: 240496
+  inoculant: 234217
+  inoculating: 149215
+  inorg: 103475
+  inotropic: 102620
+not_scored_words:
+- Inonu
+- inobservance
+- inoculable
+- inoculates
+- inoculator
+- inodorous
+- inoffensively
+- inoffensiveness
+- inofficious
+- inopportunely
+- inopportuneness
+- inopportunenesses
+- inopportunity
+- inorganically
+- inosculate
+- inositols

@@ -1,0 +1,26 @@
+---
+pattern: _rky
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 16
+score: 1322882
+score_per_word: 94491
+hi_scored_words:
+  corky: 44618
+  dorky: 65085
+  jerky: 26340
+  murky: 27989
+  perky: 23471
+  porky: 53359
+  quirky: 20951
+  snarky: 47010
+  sparky: 34444
+scored_words:
+  autarky: 163863
+  darky: 170634
+  parky: 211738
+  sarky: 253884
+  smirky: 179496
+not_scored_words:
+- Gorky
+- narky

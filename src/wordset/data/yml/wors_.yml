@@ -1,0 +1,29 @@
+---
+pattern: wors_
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 19
+score: 768630
+score_per_word: 51242
+hi_scored_words:
+  worse: 2050
+  worsen: 32468
+  worsened: 37193
+  worsening: 28986
+  worsens: 57156
+  worship: 2922
+  worshiped: 44388
+  worshipers: 64258
+  worshipful: 64602
+  worshiping: 52944
+  worships: 44329
+  worst: 2111
+  worsted: 49368
+scored_words:
+  worser: 167164
+  worshiper: 118691
+not_scored_words:
+- Worship
+- worshipfully
+- worsting
+- worsts

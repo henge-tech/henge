@@ -1,0 +1,26 @@
+---
+pattern: to_h
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 859312
+score_per_word: 71609
+hi_scored_words:
+  tollbooth: 99489
+  tooth: 10000
+  toothbrush: 21568
+  torah: 16283
+  torch: 8850
+  tosh: 37206
+  touch: 1189
+  tough: 3935
+  towpath: 79506
+scored_words:
+  tolbooth: 251255
+  tomboyish: 224018
+  topnotch: 106013
+not_scored_words:
+- Tombaugh
+- Torah
+- toadfish
+- tomograph

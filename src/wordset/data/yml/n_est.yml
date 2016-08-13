@@ -1,0 +1,40 @@
+---
+pattern: n_est
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 30
+score: 855979
+score_per_word: 65844
+hi_scored_words:
+  narrowest: 63171
+  nastiest: 59319
+  nearest: 3354
+  nest: 5566
+  newest: 6646
+  nicest: 20668
+  noblest: 39231
+  northwest: 4809
+  nudest: 96630
+scored_words:
+  naughtiest: 171899
+  neatest: 107804
+  neediest: 116774
+  noisiest: 160108
+not_scored_words:
+- Northwest
+- naffest
+- naivest
+- nappiest
+- nattiest
+- nerdiest
+- nerviest
+- newsiest
+- niftiest
+- nighest
+- nimblest
+- nippiest
+- nosiest
+- nubbiest
+- nubbliest
+- numbest
+- nuttiest

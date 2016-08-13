@@ -1,0 +1,37 @@
+---
+pattern: fem_
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 27
+score: 1448812
+score_per_word: 80489
+hi_scored_words:
+  fem: 24922
+  female: 1056
+  females: 4826
+  feminine: 8362
+  femininity: 44872
+  feminism: 16340
+  feminist: 11936
+  feminists: 24019
+  feminization: 38273
+  femme: 14304
+  femoral: 30022
+  femtosecond: 94924
+  femur: 32450
+scored_words:
+  femaleness: 229733
+  feminize: 322651
+  feminized: 103522
+  feminizing: 227732
+  femurs: 218868
+not_scored_words:
+- feme
+- feminacy
+- femineity
+- femininely
+- feminineness
+- femininenesses
+- feminines
+- feminizes
+- femtoseconds

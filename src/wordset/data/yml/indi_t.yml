@@ -1,0 +1,20 @@
+---
+pattern: indi_t
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 10
+score: 329210
+score_per_word: 36578
+hi_scored_words:
+  indict: 59305
+  indictment: 13860
+  indifferent: 13498
+  indigent: 31721
+  indignant: 31849
+  indirect: 5550
+  indiscreet: 70095
+  indistinct: 37566
+  individualist: 65766
+scored_words: {}
+not_scored_words:
+- indicant

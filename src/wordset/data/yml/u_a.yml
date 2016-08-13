@@ -1,0 +1,44 @@
+---
+pattern: u_a
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 34
+score: 891433
+score_per_word: 63673
+hi_scored_words:
+  ulna: 76807
+  ultima: 26170
+  ultra: 8398
+  umbra: 51258
+  umbrella: 10410
+  undersea: 35226
+  urea: 22658
+  uremia: 93064
+  urethra: 35670
+  urticaria: 55610
+  utopia: 20792
+scored_words:
+  ulema: 117279
+  uvea: 234402
+  uvula: 103689
+not_scored_words:
+- UCLA
+- USA
+- USDA
+- USIA
+- Ufa
+- Uganda
+- Umbria
+- Una
+- Ungava
+- Uppsala
+- Urania
+- Urfa
+- Urga
+- Urmia
+- Ursa
+- Ursula
+- Uspallata
+- Utica
+- Utopia
+- ungula

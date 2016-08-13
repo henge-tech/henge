@@ -1,0 +1,30 @@
+---
+pattern: clo_g
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 20
+score: 631327
+score_per_word: 52610
+hi_scored_words:
+  cloaking: 50106
+  clocking: 41317
+  clog: 26907
+  clogging: 48134
+  cloning: 11255
+  closing: 3043
+  clothing: 1824
+  clotting: 37921
+  clouding: 79987
+  clowning: 63739
+  cloying: 91456
+scored_words:
+  clobbering: 175638
+not_scored_words:
+- clodhopping
+- cloistering
+- clomping
+- clonking
+- clopping
+- closefitting
+- closeting
+- clouting

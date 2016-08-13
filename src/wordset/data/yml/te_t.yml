@@ -1,0 +1,60 @@
+---
+pattern: te_t
+hi_scored_words_count: 20
+scored_words_count: 9
+total_words: 50
+score: 2174077
+score_per_word: 74968
+hi_scored_words:
+  teapot: 24124
+  teat: 54368
+  technologist: 33515
+  telecast: 45339
+  teleport: 35631
+  teletext: 46242
+  telnet: 25471
+  temperament: 15772
+  tempest: 14708
+  tempt: 26031
+  tenant: 6858
+  tenderfoot: 95403
+  tenement: 31523
+  tenet: 27118
+  tent: 4925
+  termagant: 96422
+  terrorist: 7604
+  test: 955
+  testament: 6502
+  text: 607
+scored_words:
+  tealight: 131206
+  technocrat: 141193
+  tegument: 253873
+  teleost: 147125
+  telephonist: 217494
+  televangelist: 131975
+  tenderest: 129977
+  terabit: 197089
+  tetravalent: 225027
+not_scored_words:
+- TELNET
+- Tebet
+- Tet
+- Teut
+- Tevet
+- teacart
+- teariest
+- techiest
+- teeniest
+- telegraphist
+- telepathist
+- tensest
+- teratologist
+- tercet
+- terminologist
+- terret
+- tersest
+- tervalent
+- testiest
+- tetchiest
+- textualist

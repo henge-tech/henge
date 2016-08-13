@@ -1,0 +1,37 @@
+---
+pattern: ba_te
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 27
+score: 1738742
+score_per_word: 102278
+hi_scored_words:
+  baccalaureate: 24511
+  bachelorette: 30479
+  backplate: 89737
+  baguette: 43966
+  banknote: 53814
+  barbette: 78187
+  barbiturate: 96064
+  barrette: 77697
+  baste: 69555
+  bate: 35667
+  bauxite: 49199
+scored_words:
+  backbite: 145791
+  backdate: 226897
+  banquette: 181354
+  barite: 113872
+  basidiomycete: 305966
+  batiste: 115986
+not_scored_words:
+- Babette
+- Bakelite
+- Baptiste
+- baccate
+- bainite
+- baldpate
+- ballute
+- barbate
+- barbellate
+- basanite

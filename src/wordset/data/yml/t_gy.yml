@@ -1,0 +1,33 @@
+---
+pattern: t_gy
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 23
+score: 1022733
+score_per_word: 60160
+hi_scored_words:
+  tangy: 43846
+  tautology: 70643
+  technology: 5391
+  teleology: 87983
+  teratology: 90481
+  terminology: 14182
+  tetralogy: 86929
+  theology: 6126
+  thingy: 25230
+  topology: 18362
+  toxicology: 20943
+  trilogy: 20067
+  twiggy: 74782
+  typology: 36898
+scored_words:
+  thaumaturgy: 134188
+  theurgy: 135458
+  twangy: 151224
+not_scored_words:
+- thanatology
+- thaumatology
+- thremmatology
+- tocology
+- trichology
+- tropology

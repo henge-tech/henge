@@ -1,0 +1,25 @@
+---
+pattern: c_ky
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 665056
+score_per_word: 66505
+hi_scored_words:
+  chalky: 68753
+  cheeky: 21325
+  chunky: 25801
+  clunky: 45779
+  cocky: 33102
+  corky: 44618
+  cranky: 28936
+  creaky: 89804
+scored_words:
+  colicky: 130050
+  cooky: 176888
+not_scored_words:
+- Chayefsky
+- Chomsky
+- caky
+- checky
+- croaky

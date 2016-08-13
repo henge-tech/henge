@@ -1,0 +1,40 @@
+---
+pattern: su_ions
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 30
+score: 1440813
+score_per_word: 75832
+hi_scored_words:
+  subdivisions: 19845
+  submissions: 5844
+  subpopulations: 67962
+  subscriptions: 8422
+  subsections: 29485
+  substations: 68519
+  substitutions: 23153
+  suggestions: 3075
+  superstitions: 36307
+  supplications: 90109
+  suppositions: 94351
+  suspensions: 26008
+  suspicions: 18113
+scored_words:
+  subtractions: 118803
+  subventions: 134153
+  successions: 101694
+  summations: 107474
+  superpositions: 206605
+  supervisions: 280891
+not_scored_words:
+- subjunctions
+- substantiations
+- subsumptions
+- succussions
+- suctions
+- summarizations
+- superfecundations
+- superfetations
+- supersessions
+- supinations
+- sustentations

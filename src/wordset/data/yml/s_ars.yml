@@ -1,0 +1,48 @@
+---
+pattern: s_ars
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 38
+score: 1608680
+score_per_word: 73121
+hi_scored_words:
+  scalars: 67471
+  scars: 15347
+  scholars: 5490
+  sears: 14014
+  seminars: 10479
+  shears: 25768
+  sidebars: 76424
+  smears: 46302
+  soars: 40184
+  spars: 55749
+  spears: 6149
+  stars: 1154
+  streetcars: 75074
+  sugars: 23686
+  superstars: 23892
+  swears: 38623
+scored_words:
+  sandbars: 145510
+  scapulars: 196346
+  shofars: 266847
+  sidecars: 162933
+  sonars: 194248
+  spectaculars: 116990
+not_scored_words:
+- SARS
+- Safars
+- Sears
+- Spears
+- saltcellars
+- sambars
+- samovars
+- schmears
+- scimitars
+- shmears
+- shophars
+- singulars
+- sirdars
+- sitars
+- soundbars
+- sweetbriars

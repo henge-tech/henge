@@ -1,0 +1,30 @@
+---
+pattern: r_nal
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 20
+score: 445036
+score_per_word: 44503
+hi_scored_words:
+  rational: 5246
+  recreational: 6177
+  regional: 6086
+  relational: 12908
+  renal: 11531
+  representational: 38290
+  retinal: 20127
+  rotational: 21459
+scored_words:
+  recessional: 156868
+  ruminal: 166344
+not_scored_words:
+- Ronal
+- radiational
+- reconstructional
+- redemptional
+- reflectional
+- reformational
+- refractional
+- regnal
+- resectional
+- rhinal

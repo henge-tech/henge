@@ -1,0 +1,35 @@
+---
+pattern: l_ar
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 25
+score: 1416481
+score_per_word: 88530
+hi_scored_words:
+  lamellar: 77544
+  laminar: 41073
+  lar: 24763
+  lazar: 45007
+  lenticular: 65547
+  liar: 11286
+  lightyear: 50775
+  linear: 9242
+  lumbar: 21142
+  lunar: 11386
+scored_words:
+  lacunar: 245771
+  lascar: 206504
+  leisurewear: 141489
+  liquidambar: 235560
+  lobar: 112543
+  lodestar: 116849
+not_scored_words:
+- Lamar
+- Lashkar
+- Lear
+- Lochinvar
+- labiovelar
+- locular
+- louvar
+- lunisolar
+- lunular

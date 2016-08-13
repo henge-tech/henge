@@ -1,0 +1,31 @@
+---
+pattern: g_ll
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 21
+score: 705220
+score_per_word: 58768
+hi_scored_words:
+  gall: 16393
+  gill: 13292
+  goodwill: 12783
+  grill: 14045
+  gristmill: 71899
+  groundswell: 89553
+  guildhall: 42407
+  gull: 17734
+  gumball: 58245
+scored_words:
+  gadwall: 142426
+  ghyll: 126069
+  goofball: 100374
+not_scored_words:
+- Gaitskell
+- Gall
+- Gaskell
+- Gill
+- Goodall
+- Goodwill
+- greaseball
+- gromwell
+- groundsill

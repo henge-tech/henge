@@ -1,0 +1,40 @@
+---
+pattern: fra_e
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 30
+score: 2325653
+score_per_word: 122402
+hi_scored_words:
+  fracture: 13046
+  frae: 95483
+  fragile: 10520
+  fragrance: 7117
+  frame: 1612
+  franchise: 6065
+  franchisee: 44116
+  francophone: 33534
+  frankincense: 50580
+  frappe: 80243
+scored_words:
+  fractionate: 330244
+  fraise: 183090
+  framboise: 190449
+  frangible: 171314
+  frangipane: 248178
+  fraternize: 221154
+  fratricide: 118845
+  fraudulence: 320802
+  frazzle: 199261
+not_scored_words:
+- France
+- Francine
+- Francoise
+- Francophile
+- Francophobe
+- Francophone
+- Frankie
+- fractionize
+- franchisable
+- franklinite
+- frankpledge

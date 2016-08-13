@@ -1,0 +1,37 @@
+---
+pattern: at_n
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 27
+score: 1083264
+score_per_word: 83328
+hi_scored_words:
+  atman: 64532
+  attain: 9118
+  attention: 918
+  attenuation: 22604
+  attestation: 49016
+  attn: 22942
+  attraction: 4498
+  attribution: 20495
+  attrition: 30137
+scored_words:
+  ataman: 208400
+  atomization: 105259
+  attorn: 276242
+  atween: 269103
+not_scored_words:
+- Aten
+- Athabaskan
+- Athanasian
+- Athelstan
+- Athenian
+- Atkinson
+- Atlantan
+- Atlantean
+- Atman
+- Aton
+- Attn
+- ataghan
+- atropin
+- attitudinarian

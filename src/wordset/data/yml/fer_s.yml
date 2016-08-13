@@ -1,0 +1,39 @@
+---
+pattern: fer_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 29
+score: 1136548
+score_per_word: 87426
+hi_scored_words:
+  fermions: 61688
+  ferns: 26490
+  ferocious: 24680
+  ferrets: 43284
+  ferries: 25920
+  ferrous: 32802
+  ferruginous: 96456
+  fertilizers: 25453
+scored_words:
+  ferias: 200518
+  ferments: 149734
+  ferrites: 128843
+  ferrules: 125237
+  fertilizes: 195443
+not_scored_words:
+- Fergus
+- Ferris
+- fermis
+- ferociousness
+- ferreous
+- ferricyanides
+- ferriferous
+- ferritins
+- ferroconcretes
+- ferrocyanides
+- ferromagnetisms
+- ferryboats
+- fertileness
+- ferules
+- fervidness
+- fervidnesses

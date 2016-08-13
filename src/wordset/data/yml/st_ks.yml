@@ -1,0 +1,29 @@
+---
+pattern: st_ks
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 874829
+score_per_word: 72902
+hi_scored_words:
+  stacks: 14363
+  stalks: 27959
+  steaks: 21557
+  sticks: 5609
+  stinks: 36313
+  stocks: 4373
+  storks: 71918
+  storybooks: 93170
+  streaks: 26352
+scored_words:
+  steelworks: 105876
+  sticklebacks: 237181
+  stopcocks: 230158
+not_scored_words:
+- Starbucks
+- steenboks
+- steeplejacks
+- steinboks
+- stirks
+- stretchmarks
+- studbooks

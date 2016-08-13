@@ -1,0 +1,40 @@
+---
+pattern: g_led
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 30
+score: 2346925
+score_per_word: 117346
+hi_scored_words:
+  gabled: 95665
+  gambled: 66277
+  garbled: 55255
+  giggled: 42882
+  gnarled: 65173
+  gobbled: 81892
+  googled: 43335
+  grappled: 78779
+  grilled: 20326
+  grizzled: 71689
+  growled: 34299
+  grumbled: 58724
+scored_words:
+  galled: 172693
+  gelled: 117886
+  gilled: 284199
+  girdled: 181173
+  graveled: 208070
+  grovelled: 251668
+  gurgled: 137357
+  guzzled: 279583
+not_scored_words:
+- gabbled
+- gamboled
+- gargled
+- gargoyled
+- gentled
+- goggled
+- groveled
+- guggled
+- gulled
+- guttled

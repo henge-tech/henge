@@ -1,0 +1,64 @@
+---
+pattern: s_hed
+hi_scored_words_count: 21
+scored_words_count: 12
+total_words: 54
+score: 2783944
+score_per_word: 84361
+hi_scored_words:
+  sandwiched: 47165
+  scorched: 37401
+  scratched: 17543
+  searched: 5143
+  sheathed: 63708
+  shed: 4616
+  sighed: 14049
+  sketched: 35431
+  slashed: 32196
+  smashed: 16169
+  smoothed: 28370
+  snatched: 22230
+  soothed: 46443
+  splashed: 38080
+  squashed: 49879
+  squished: 82997
+  starched: 99102
+  stashed: 61594
+  stitched: 24730
+  stretched: 7023
+  switched: 9739
+scored_words:
+  scotched: 294510
+  screeched: 105125
+  scrunched: 129488
+  seethed: 120825
+  shushed: 255415
+  sloshed: 147864
+  slouched: 128240
+  sloughed: 209040
+  squelched: 154689
+  stonewashed: 217111
+  swathed: 104483
+  swished: 173546
+not_scored_words:
+- scathed
+- scythed
+- semidetached
+- skirmished
+- sleighed
+- smirched
+- smooched
+- smutched
+- snitched
+- snowshed
+- soughed
+- spearfished
+- sploshed
+- splotched
+- squinched
+- stanched
+- staunched
+- stomached
+- sunbathed
+- swashed
+- swooshed

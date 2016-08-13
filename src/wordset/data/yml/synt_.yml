@@ -1,0 +1,30 @@
+---
+pattern: synt_
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 20
+score: 1021358
+score_per_word: 56742
+hi_scored_words:
+  syntactic: 22593
+  syntactical: 78542
+  syntactically: 56535
+  syntax: 9735
+  synth: 18954
+  syntheses: 63469
+  synthesis: 9197
+  synthesize: 31705
+  synthesized: 21239
+  synthesizer: 23644
+  synthesizers: 36196
+  synthesizes: 89659
+  synthesizing: 49491
+  synthetic: 11241
+  synthetics: 60695
+  synths: 35185
+scored_words:
+  synthetical: 296036
+  synthetically: 107242
+not_scored_words:
+- syntactics
+- syntonic

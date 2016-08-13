@@ -1,0 +1,69 @@
+---
+pattern: i_ers
+hi_scored_words_count: 23
+scored_words_count: 20
+total_words: 59
+score: 4840815
+score_per_word: 112577
+hi_scored_words:
+  icebreakers: 97934
+  identifiers: 23675
+  idlers: 91983
+  idolaters: 98060
+  implementers: 77484
+  importers: 21487
+  imposters: 97188
+  infers: 80312
+  informers: 78288
+  inhalers: 69567
+  innkeepers: 64492
+  insiders: 19566
+  installers: 34182
+  insurers: 13808
+  integers: 20756
+  interpreters: 16321
+  interviewers: 36930
+  intruders: 33138
+  invaders: 17365
+  inverters: 45198
+  islanders: 17793
+  isomers: 42157
+  issuers: 35171
+scored_words:
+  igniters: 203381
+  impellers: 126666
+  imprinters: 322557
+  improvisers: 156467
+  inclinometers: 280877
+  incomers: 288116
+  indexers: 117895
+  inducers: 106102
+  infielders: 145928
+  infusers: 279753
+  inquirers: 109033
+  intensifiers: 205654
+  interferometers: 113764
+  interlopers: 154159
+  interrupters: 196576
+  inters: 274735
+  intriguers: 163243
+  ionizers: 117484
+  ironmongers: 198050
+  ironworkers: 147520
+not_scored_words:
+- Icelanders
+- imbibers
+- immobilizers
+- impeachers
+- impers
+- imposers
+- impugners
+- inciters
+- infighters
+- inflaters
+- injurers
+- inscribers
+- instituters
+- intoners
+- inveiglers
+- invokers

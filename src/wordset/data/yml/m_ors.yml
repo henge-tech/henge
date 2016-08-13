@@ -1,0 +1,42 @@
+---
+pattern: m_ors
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 32
+score: 1346645
+score_per_word: 58549
+hi_scored_words:
+  majors: 18057
+  manipulators: 63933
+  manors: 53512
+  mayors: 27645
+  mediators: 36661
+  mentors: 16593
+  metaphors: 23677
+  meteors: 40696
+  microprocessors: 35098
+  minors: 17864
+  mirrors: 6565
+  misdemeanors: 52236
+  moderators: 5658
+  modulators: 54682
+  monitors: 11816
+  moors: 28728
+  motivators: 69548
+  motors: 7361
+scored_words:
+  malefactors: 156573
+  masturbators: 107807
+  matadors: 110038
+  mortgagors: 285416
+  multiprocessors: 116481
+not_scored_words:
+- Monsignors
+- Moors
+- Mors
+- machinators
+- malodors
+- markhors
+- monsignors
+- mucors
+- mutilators

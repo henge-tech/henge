@@ -1,0 +1,27 @@
+---
+pattern: sp_k
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 17
+score: 614978
+score_per_word: 51248
+hi_scored_words:
+  spacewalk: 99008
+  spank: 21418
+  spark: 7209
+  sparrowhawk: 76271
+  speak: 1125
+  speck: 22522
+  spellcheck: 66978
+  spook: 43770
+  springbok: 53874
+  spunk: 41262
+  sputnik: 46100
+scored_words:
+  spadework: 135441
+not_scored_words:
+- Spaak
+- Spock
+- Sputnik
+- splatterpunk
+- spruik

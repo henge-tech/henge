@@ -1,0 +1,40 @@
+---
+pattern: he_ers
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 30
+score: 1386503
+score_per_word: 72973
+hi_scored_words:
+  headers: 8898
+  headhunters: 56786
+  headliners: 56494
+  headquarters: 4104
+  headteachers: 77863
+  headwaters: 39796
+  healers: 32090
+  hearers: 53541
+  heaters: 15356
+  heathers: 83422
+  heifers: 53002
+  helicopters: 11900
+  helpers: 18935
+  herders: 64520
+scored_words:
+  headbangers: 152293
+  headmasters: 123249
+  hecklers: 138001
+  hedgers: 290833
+  hexameters: 105420
+not_scored_words:
+- headshrinkers
+- headwaiters
+- heavers
+- hectoliters
+- hectometers
+- hellbenders
+- hellers
+- hemidemisemiquavers
+- hemmers
+- hereafters
+- hewers

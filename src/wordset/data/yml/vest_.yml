@@ -1,0 +1,37 @@
+---
+pattern: vest_
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 27
+score: 986229
+score_per_word: 61639
+hi_scored_words:
+  vest: 10254
+  vesta: 36084
+  vestal: 39427
+  vested: 12974
+  vestibular: 44145
+  vestibule: 38756
+  vestige: 52853
+  vestiges: 52518
+  vestigial: 75473
+  vesting: 48582
+  vestment: 81086
+  vestments: 59239
+  vestry: 42421
+  vests: 23433
+scored_words:
+  vestibules: 215576
+  vesture: 153408
+not_scored_words:
+- Vesta
+- vestals
+- vestiary
+- vestibuled
+- vestigially
+- vestries
+- vestryman
+- vestrymen
+- vestured
+- vestures
+- vesturing

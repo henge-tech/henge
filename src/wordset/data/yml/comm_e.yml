@@ -1,0 +1,52 @@
+---
+pattern: comm_e
+hi_scored_words_count: 21
+scored_words_count: 5
+total_words: 42
+score: 1631229
+score_per_word: 62739
+hi_scored_words:
+  commemorate: 21440
+  commemorative: 25146
+  commence: 10457
+  commendable: 31450
+  commensurate: 26853
+  commerce: 1974
+  commercialize: 60809
+  commie: 51324
+  commiserate: 96381
+  committee: 1246
+  commode: 53126
+  commodore: 12778
+  commonplace: 16972
+  commonsense: 41686
+  commune: 16582
+  communicable: 39234
+  communicate: 3956
+  communicative: 27106
+  communique: 47109
+  commutative: 37556
+  commute: 17379
+scored_words:
+  commensurable: 243216
+  commingle: 183180
+  commissionaire: 150229
+  commissure: 169370
+  commutable: 244670
+not_scored_words:
+- Commerce
+- Commodore
+- commeasure
+- commentate
+- commentative
+- comminate
+- comminute
+- commiserative
+- committable
+- commixture
+- commonable
+- commonage
+- commove
+- communalize
+- communize
+- commutate

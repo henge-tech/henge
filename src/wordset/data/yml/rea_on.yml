@@ -1,0 +1,27 @@
+---
+pattern: rea_on
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 1128399
+score_per_word: 86799
+hi_scored_words:
+  reabsorption: 94110
+  reaction: 3227
+  reactivation: 55620
+  readmission: 64557
+  reaffirmation: 79605
+  realization: 10244
+  reallocation: 52048
+  reanimation: 99896
+  reason: 548
+  reauthorization: 52389
+scored_words:
+  reacquisition: 235194
+  reapplication: 157974
+  reassertion: 222987
+not_scored_words:
+- readoption
+- reafforestation
+- reannexation
+- reapportion

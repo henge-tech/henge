@@ -1,0 +1,44 @@
+---
+pattern: sele_
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 34
+score: 967952
+score_per_word: 53775
+hi_scored_words:
+  select: 1805
+  selectable: 34320
+  selected: 1410
+  selecting: 6073
+  selection: 1868
+  selections: 8992
+  selective: 12989
+  selectively: 20265
+  selectivity: 27591
+  selectman: 76286
+  selectmen: 51234
+  selector: 17173
+  selectors: 35427
+  selects: 15818
+  selenite: 89745
+  selenium: 23603
+scored_words:
+  selectee: 255414
+  selenate: 287939
+not_scored_words:
+- Selectric
+- Selena
+- Selene
+- Seleucia
+- Seleucid
+- Seleucus
+- selectiveness
+- selectness
+- selectwoman
+- selectwomen
+- selenious
+- selenodont
+- selenographer
+- selenographers
+- selenography
+- selenology

@@ -1,0 +1,25 @@
+---
+pattern: dep_tion
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 15
+score: 835981
+score_per_word: 64306
+hi_scored_words:
+  depiction: 22300
+  depletion: 25854
+  depolarization: 53841
+  depopulation: 78623
+  deportation: 26712
+  deposition: 11444
+  deprecation: 65260
+  depreciation: 13659
+  depredation: 99858
+  deprivation: 17359
+  deputation: 54556
+scored_words:
+  depersonalization: 135984
+  depressurization: 230531
+not_scored_words:
+- departmentalization
+- depoliticization

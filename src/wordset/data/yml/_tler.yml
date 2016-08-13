@@ -1,0 +1,42 @@
+---
+pattern: _tler
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 32
+score: 1794842
+score_per_word: 89742
+hi_scored_words:
+  antler: 31963
+  battler: 89675
+  butler: 5617
+  cutler: 23217
+  gentler: 44359
+  hustler: 19408
+  littler: 83624
+  rattler: 64928
+  rustler: 91718
+  settler: 26192
+  subtler: 75888
+  whistler: 19274
+  wrestler: 24443
+scored_words:
+  bottler: 127471
+  dismantler: 271277
+  hostler: 143424
+  nestler: 209758
+  ostler: 105987
+  sutler: 217056
+  tattler: 119563
+not_scored_words:
+- Butler
+- Hitler
+- Koestler
+- Whistler
+- belittler
+- brittler
+- bustler
+- chortler
+- jostler
+- prattler
+- throttler
+- whittler

@@ -1,0 +1,73 @@
+---
+pattern: adve_
+hi_scored_words_count: 29
+scored_words_count: 10
+total_words: 63
+score: 2531251
+score_per_word: 64903
+hi_scored_words:
+  advection: 61512
+  advent: 9267
+  adventitious: 76156
+  adventure: 2153
+  adventurer: 22249
+  adventurers: 26275
+  adventures: 3786
+  adventuress: 99393
+  adventuring: 59755
+  adventurous: 14729
+  adverb: 40286
+  adverbial: 74428
+  adverbs: 42957
+  adversarial: 44877
+  adversaries: 27368
+  adversary: 18653
+  adverse: 5775
+  adversely: 23381
+  adversity: 21437
+  advert: 15303
+  advertise: 6556
+  advertised: 9910
+  advertisement: 4652
+  advertisements: 8316
+  advertiser: 14348
+  advertisers: 7050
+  advertises: 44257
+  advertising: 3421
+  adverts: 16705
+scored_words:
+  adventitia: 262991
+  adventured: 130405
+  adventuresome: 135657
+  adventurism: 183226
+  adverbials: 216856
+  adversities: 122362
+  adverted: 145335
+  adverting: 143840
+  advertorial: 163949
+  advertorials: 221675
+not_scored_words:
+- Advent
+- Adventist
+- Adventists
+- Advents
+- advections
+- adventitias
+- adventitiously
+- advents
+- adventuresses
+- adventurisms
+- adventurist
+- adventurists
+- adventurously
+- adventurousness
+- adverbially
+- adversaria
+- adversarially
+- adversative
+- adverseness
+- adverser
+- adversest
+- advertence
+- advertences
+- advertent

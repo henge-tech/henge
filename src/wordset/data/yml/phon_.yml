@@ -1,0 +1,62 @@
+---
+pattern: phon_
+hi_scored_words_count: 20
+scored_words_count: 9
+total_words: 52
+score: 2479972
+score_per_word: 85516
+hi_scored_words:
+  phon: 65731
+  phone: 4194
+  phonecard: 69173
+  phonecards: 60068
+  phoned: 29193
+  phoneme: 54484
+  phonemes: 56833
+  phonemic: 55636
+  phones: 1575
+  phonetic: 26436
+  phonetically: 77514
+  phonetics: 41113
+  phonic: 58146
+  phonics: 31025
+  phoning: 37261
+  phonograph: 38701
+  phonological: 34242
+  phonology: 34616
+  phonon: 52237
+  phony: 24624
+scored_words:
+  phonation: 180956
+  phonies: 144943
+  phoniness: 304570
+  phonogram: 138429
+  phonograms: 140223
+  phonographic: 109510
+  phonographs: 132825
+  phonologically: 188557
+  phons: 287157
+not_scored_words:
+- phonate
+- phonemically
+- phonemics
+- phonetician
+- phoneticians
+- phoneticist
+- phonetist
+- phoneyed
+- phoneying
+- phonically
+- phonied
+- phonier
+- phoniest
+- phonography
+- phonol
+- phonolite
+- phonologic
+- phonologist
+- phonologists
+- phonometer
+- phonoscope
+- phonotypy
+- phonying

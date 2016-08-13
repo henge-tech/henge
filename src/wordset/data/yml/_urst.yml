@@ -1,0 +1,30 @@
+---
+pattern: _urst
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 1026423
+score_per_word: 93311
+hi_scored_words:
+  bratwurst: 98659
+  burst: 5035
+  durst: 33232
+  hurst: 24789
+  outburst: 24768
+  starburst: 47059
+  sunburst: 39901
+  wurst: 81904
+scored_words:
+  airburst: 297420
+  cloudburst: 132642
+  microburst: 241014
+not_scored_words:
+- Bathurst
+- Hurst
+- Lakehurst
+- Pankhurst
+- Sandhurst
+- downburst
+- knackwurst
+- knockwurst
+- liverwurst

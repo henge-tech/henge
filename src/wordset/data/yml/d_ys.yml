@@ -1,0 +1,31 @@
+---
+pattern: d_ys
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 21
+score: 906084
+score_per_word: 60405
+hi_scored_words:
+  days: 152
+  decays: 33788
+  decoys: 45628
+  deejays: 98446
+  delays: 6544
+  deploys: 45865
+  destroys: 16791
+  displays: 3908
+  donkeys: 34458
+  doorways: 39384
+  driveways: 42481
+scored_words:
+  disobeys: 152754
+  downplays: 107366
+  drays: 134041
+  drys: 144478
+not_scored_words:
+- Denys
+- defrays
+- dickeys
+- disarrays
+- dismays
+- doohickeys

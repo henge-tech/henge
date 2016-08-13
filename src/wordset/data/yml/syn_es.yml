@@ -1,0 +1,29 @@
+---
+pattern: syn_es
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 19
+score: 821631
+score_per_word: 82163
+hi_scored_words:
+  synagogues: 35493
+  synapses: 39398
+  synchronizes: 89565
+  syndicates: 51788
+  syndromes: 25375
+  synergies: 42457
+  synopses: 55372
+  syntheses: 63469
+  synthesizes: 89659
+scored_words:
+  synchronicities: 329055
+not_scored_words:
+- synchroflashes
+- synchromeshes
+- synchronies
+- syncopates
+- syncretizes
+- synecdoches
+- synereses
+- synonymities
+- synovitises

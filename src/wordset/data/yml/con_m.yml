@@ -1,0 +1,35 @@
+---
+pattern: con_m
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 25
+score: 1562796
+score_per_word: 97674
+hi_scored_words:
+  condom: 16728
+  condominium: 22485
+  confirm: 3660
+  conform: 9310
+  conservatism: 23263
+  consortium: 11619
+  constitutionalism: 78904
+  constructivism: 63153
+  consumerism: 36321
+  continuum: 14529
+  conundrum: 37069
+scored_words:
+  conceptualism: 246240
+  conformism: 230098
+  congregationalism: 256878
+  conium: 282242
+  contextualism: 230297
+not_scored_words:
+- Confucianism
+- Congregationalism
+- Conservatism
+- configurationism
+- conidium
+- conservationism
+- contagium
+- contrarianism
+- conventionalism

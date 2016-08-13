@@ -1,0 +1,36 @@
+---
+pattern: l_or
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 26
+score: 1386009
+score_per_word: 86625
+hi_scored_words:
+  labor: 1486
+  languor: 88683
+  lector: 58135
+  legislator: 20418
+  lessor: 33754
+  liberator: 41985
+  liquidator: 53776
+  liquor: 6533
+  litigator: 88425
+  locator: 19458
+  locomotor: 65943
+scored_words:
+  laminator: 113615
+  levator: 140471
+  levitator: 333127
+  lictor: 144179
+  lubricator: 176021
+not_scored_words:
+- Labrador
+- Landor
+- Leonor
+- Luxor
+- lachrymator
+- lacrimator
+- legator
+- literator
+- lithometeor
+- lucubrator

@@ -1,0 +1,48 @@
+---
+pattern: _most
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 38
+score: 2250325
+score_per_word: 97840
+hi_scored_words:
+  almost: 500
+  easternmost: 71346
+  foremost: 8880
+  inmost: 77761
+  innermost: 31655
+  leftmost: 60218
+  most: 93
+  northernmost: 48301
+  outermost: 40945
+  rightmost: 74918
+  southernmost: 40555
+  topmost: 42408
+  uppermost: 34472
+  utmost: 9763
+  uttermost: 65717
+  westernmost: 66805
+scored_words:
+  bottommost: 321178
+  hindmost: 213321
+  lowermost: 131236
+  midmost: 313080
+  outmost: 232780
+  rearmost: 229845
+  upmost: 134548
+not_scored_words:
+- aftermost
+- aftmost
+- endmost
+- farthermost
+- furthermost
+- headforemost
+- headmost
+- hindermost
+- hithermost
+- lattermost
+- middlemost
+- nethermost
+- sternforemost
+- sternmost
+- undermost

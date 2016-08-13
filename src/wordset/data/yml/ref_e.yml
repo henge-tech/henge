@@ -1,0 +1,40 @@
+---
+pattern: ref_e
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 30
+score: 1504622
+score_per_word: 71648
+hi_scored_words:
+  referee: 15731
+  reference: 996
+  refillable: 65598
+  refinance: 20356
+  refine: 11753
+  reflectance: 39383
+  reflective: 11830
+  reflexive: 31848
+  refractive: 26383
+  refrigerate: 39764
+  refuge: 6716
+  refugee: 12747
+  refundable: 29331
+  refuse: 3907
+  refute: 26136
+scored_words:
+  reface: 243716
+  referable: 120680
+  refile: 174958
+  reformulate: 108102
+  refreeze: 287528
+  refutable: 227159
+not_scored_words:
+- refire
+- reflate
+- reforge
+- reformable
+- reformative
+- refrangible
+- refroze
+- refulgence
+- refutative

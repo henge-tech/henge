@@ -1,0 +1,42 @@
+---
+pattern: co_ism
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 32
+score: 1987730
+score_per_word: 116925
+hi_scored_words:
+  collectivism: 77350
+  colonialism: 26376
+  commercialism: 67653
+  communism: 16519
+  conservatism: 23263
+  constitutionalism: 78904
+  constructivism: 63153
+  consumerism: 36321
+  corporatism: 83537
+scored_words:
+  colloquialism: 153536
+  communalism: 104390
+  communitarianism: 185840
+  conceptualism: 246240
+  conformism: 230098
+  congregationalism: 256878
+  contextualism: 230297
+  cosmopolitanism: 107375
+not_scored_words:
+- Communism
+- Confucianism
+- Congregationalism
+- Conservatism
+- Coueism
+- Couéism
+- cocainism
+- cockneyism
+- commensalism
+- configurationism
+- conservationism
+- contrarianism
+- conventionalism
+- corporativism
+- cosmism

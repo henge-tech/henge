@@ -1,0 +1,25 @@
+---
+pattern: im_ting
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 759559
+score_per_word: 63296
+hi_scored_words:
+  imitating: 35546
+  immigrating: 97211
+  impacting: 27544
+  imparting: 42597
+  impersonating: 63407
+  implanting: 88442
+  implementing: 8475
+  implicating: 79061
+  importing: 15975
+  imprinting: 49913
+scored_words:
+  impregnating: 121751
+  imputing: 129637
+not_scored_words:
+- imbricating
+- immolating
+- imprecating

@@ -1,0 +1,33 @@
+---
+pattern: de_ity
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 23
+score: 1936536
+score_per_word: 113913
+hi_scored_words:
+  debility: 79423
+  deductibility: 94110
+  deformity: 32110
+  deity: 14337
+  density: 5878
+  dependability: 47597
+  depravity: 37485
+  desirability: 36230
+  dexterity: 23234
+scored_words:
+  decidability: 137391
+  declivity: 151763
+  defensibility: 335264
+  degradability: 242228
+  deliverability: 164507
+  deniability: 133493
+  deployability: 274709
+  detectability: 126777
+not_scored_words:
+- Deity
+- delectability
+- demonstrability
+- destructibility
+- detachability
+- dextrality

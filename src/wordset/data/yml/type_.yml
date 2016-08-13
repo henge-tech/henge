@@ -1,0 +1,34 @@
+---
+pattern: type_
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 24
+score: 1433056
+score_per_word: 79614
+hi_scored_words:
+  type: 581
+  typecast: 97943
+  typed: 17994
+  typeface: 34106
+  typefaces: 59183
+  types: 1538
+  typescript: 44001
+  typeset: 53805
+  typesetter: 93978
+  typesetting: 40852
+  typewriter: 18758
+  typewriters: 43961
+  typewriting: 98568
+  typewritten: 53013
+scored_words:
+  typecasting: 208494
+  typescripts: 169856
+  typesetters: 179051
+  typewrite: 217374
+not_scored_words:
+- typebar
+- typecase
+- typecasts
+- typesets
+- typewrites
+- typewrote

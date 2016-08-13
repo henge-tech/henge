@@ -1,0 +1,31 @@
+---
+pattern: sw_n
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 802049
+score_per_word: 72913
+hi_scored_words:
+  swain: 25542
+  swan: 9109
+  sweeten: 46926
+  swollen: 13443
+  swoon: 38529
+  swordsman: 44352
+  swordsmen: 89458
+  sworn: 9607
+scored_words:
+  swagman: 134937
+  sweetcorn: 104705
+  switchman: 285441
+not_scored_words:
+- Swabian
+- Swanson
+- Sweden
+- Swedenborgian
+- Swindon
+- swagsman
+- swansdown
+- swanskin
+- sweven
+- switchmen

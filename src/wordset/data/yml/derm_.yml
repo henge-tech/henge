@@ -1,0 +1,30 @@
+---
+pattern: derm_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 918595
+score_per_word: 83508
+hi_scored_words:
+  derma: 73371
+  dermal: 34482
+  dermatitis: 26088
+  dermatological: 82393
+  dermatologist: 39528
+  dermatologists: 62712
+  dermatology: 25017
+  dermis: 55242
+scored_words:
+  dermabrasion: 121896
+  dermatosis: 248159
+  dermoid: 149707
+not_scored_words:
+- Dermot
+- dermas
+- dermatogen
+- dermatoglyphics
+- dermatoid
+- dermatome
+- dermatomes
+- dermatophyte
+- dermatoplasty

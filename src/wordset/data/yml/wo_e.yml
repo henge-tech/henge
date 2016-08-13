@@ -1,0 +1,54 @@
+---
+pattern: wo_e
+hi_scored_words_count: 23
+scored_words_count: 9
+total_words: 44
+score: 2272198
+score_per_word: 71006
+hi_scored_words:
+  wobble: 33272
+  woe: 15601
+  woke: 7846
+  wolverine: 19182
+  womble: 81420
+  woodbine: 45442
+  woodlouse: 76250
+  wore: 6006
+  workable: 30517
+  workforce: 5208
+  workhorse: 49828
+  workhouse: 42692
+  workmanlike: 96521
+  workpiece: 58137
+  workplace: 8223
+  workspace: 21119
+  worldwide: 10700
+  wormhole: 46975
+  worrisome: 45506
+  worse: 2050
+  worthwhile: 10572
+  would've: 16009
+  wove: 47115
+scored_words:
+  woebegone: 205336
+  wolfsbane: 247893
+  wollastonite: 217844
+  woodenware: 112743
+  woodpile: 142082
+  workfare: 109365
+  workmate: 161986
+  workpeople: 124401
+  worktable: 174357
+not_scored_words:
+- Wodehouse
+- Wolfe
+- Woodbridge
+- Woolite
+- Worcestershire
+- wodge
+- wolframite
+- womanize
+- womanlike
+- woodlice
+- woodnote
+- wordage

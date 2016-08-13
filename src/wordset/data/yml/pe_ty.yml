@@ -1,0 +1,39 @@
+---
+pattern: pe_ty
+hi_scored_words_count: 10
+scored_words_count: 11
+total_words: 29
+score: 2548221
+score_per_word: 121343
+hi_scored_words:
+  peculiarity: 42227
+  penalty: 3844
+  periodicity: 41621
+  permeability: 22765
+  permittivity: 86884
+  perpetuity: 44546
+  perplexity: 48562
+  personality: 3656
+  perversity: 71001
+  petty: 7644
+scored_words:
+  peaty: 123831
+  pederasty: 192786
+  perfectibility: 252985
+  perishability: 165087
+  permissibility: 177226
+  perpendicularity: 313936
+  persnickety: 240745
+  personalty: 194519
+  perspicacity: 127852
+  perspicuity: 187403
+  pertinacity: 199101
+not_scored_words:
+- Petty
+- pellucidity
+- penetrability
+- perceptibility
+- perceptivity
+- perdurability
+- peripherality
+- pesty

@@ -1,0 +1,40 @@
+---
+pattern: spea_
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 30
+score: 1250662
+score_per_word: 59555
+hi_scored_words:
+  speak: 1125
+  speakeasy: 45541
+  speaker: 2540
+  speakerphone: 37677
+  speakers: 4538
+  speaking: 1596
+  speaks: 3998
+  spear: 8839
+  spearfish: 79739
+  spearhead: 36216
+  spearheaded: 41283
+  spearheading: 70770
+  spearing: 97742
+  spearman: 54724
+  spearmint: 56114
+  spears: 6149
+scored_words:
+  speakerphones: 140934
+  speared: 110498
+  spearfishing: 126051
+  speargun: 204022
+  spearheads: 120566
+not_scored_words:
+- Spears
+- speakable
+- speakeasies
+- speakings
+- spearer
+- spearfished
+- spearfisher
+- spearfishes
+- spearwort

@@ -1,0 +1,48 @@
+---
+pattern: sta_ng
+hi_scored_words_count: 26
+scored_words_count: 7
+total_words: 38
+score: 1870970
+score_per_word: 56696
+hi_scored_words:
+  stabbing: 24921
+  stabilizing: 28054
+  stacking: 19483
+  staffing: 13110
+  staggering: 16768
+  staging: 21123
+  stagnating: 97353
+  staining: 21695
+  staking: 51152
+  stalking: 18699
+  stalling: 38625
+  stammering: 74248
+  stamping: 16482
+  standardizing: 56015
+  standing: 1397
+  stang: 36656
+  stapling: 82357
+  stargazing: 60117
+  staring: 7505
+  starling: 35975
+  starring: 8423
+  starting: 1413
+  startling: 15600
+  starving: 13854
+  stating: 6555
+  staying: 4089
+scored_words:
+  stabling: 122374
+  stampeding: 166418
+  starveling: 100406
+  stashing: 165347
+  stationing: 104843
+  staunching: 255611
+  staving: 184302
+not_scored_words:
+- stalemating
+- staling
+- stanching
+- starching
+- statementing

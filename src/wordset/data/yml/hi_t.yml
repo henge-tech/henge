@@ -1,0 +1,31 @@
+---
+pattern: hi_t
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 21
+score: 1446393
+score_per_word: 90399
+hi_scored_words:
+  hideout: 37404
+  highest: 1202
+  highlight: 9709
+  highpoint: 61799
+  hight: 44594
+  hilt: 33122
+  hindsight: 26362
+  hint: 5433
+  hist: 6640
+  hit: 1230
+scored_words:
+  hierophant: 137738
+  hightest: 328393
+  hindgut: 217098
+  hindmost: 213321
+  hippest: 104746
+  historicist: 217602
+not_scored_words:
+- Hilbert
+- hilliest
+- hindermost
+- histologist
+- hithermost

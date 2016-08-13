@@ -1,0 +1,26 @@
+---
+pattern: leg_e
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 16
+score: 585177
+score_per_word: 48764
+hi_scored_words:
+  legalese: 74723
+  legalize: 33726
+  legate: 68571
+  legible: 33984
+  legionnaire: 84759
+  legislate: 38460
+  legislative: 3714
+  legislature: 4858
+  legitimate: 5275
+  legitimize: 57632
+  legume: 45225
+scored_words:
+  legatee: 134250
+not_scored_words:
+- Legendre
+- Legree
+- legatine
+- legitimatize

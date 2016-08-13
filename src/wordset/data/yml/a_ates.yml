@@ -1,0 +1,91 @@
+---
+pattern: a_ates
+hi_scored_words_count: 24
+scored_words_count: 18
+total_words: 81
+score: 4673498
+score_per_word: 111273
+hi_scored_words:
+  accelerates: 31271
+  accentuates: 74923
+  accommodates: 30241
+  accumulates: 38154
+  activates: 26430
+  advocates: 8110
+  affiliates: 5005
+  aggravates: 75832
+  aggregates: 27765
+  alienates: 98394
+  alleviates: 76734
+  allocates: 42510
+  alternates: 34694
+  animates: 66211
+  anticipates: 32844
+  apostates: 97518
+  appreciates: 27446
+  appropriates: 77374
+  approximates: 48463
+  articulates: 59470
+  associates: 3388
+  attenuates: 97845
+  authenticates: 92960
+  automates: 54002
+scored_words:
+  abates: 129406
+  abbreviates: 205439
+  abdicates: 178881
+  abrogates: 163223
+  acetates: 110503
+  actuates: 166340
+  adjudicates: 227596
+  administrates: 293820
+  adsorbates: 289444
+  agates: 129564
+  agglomerates: 191865
+  agitates: 132921
+  ameliorates: 218577
+  annihilates: 151485
+  annotates: 237158
+  arbitrates: 333648
+  aspirates: 151090
+  assimilates: 134954
+not_scored_words:
+- Achates
+- ablates
+- abnegates
+- abominates
+- absquatulates
+- acclimates
+- acculturates
+- acerbates
+- acetylates
+- acidulates
+- acuminates
+- adulates
+- adulterates
+- adumbrates
+- aerates
+- affricates
+- agglutinates
+- agnates
+- alliterates
+- altercates
+- amalgamates
+- ambulates
+- ammoniates
+- amputates
+- annates
+- annunciates
+- antedates
+- antepenultimates
+- antiquates
+- approbates
+- arrogates
+- arsenates
+- asphyxiates
+- assassinates
+- asseverates
+- assibilates
+- auscultates
+- auspicates
+- aviates

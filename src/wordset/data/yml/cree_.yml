@@ -1,0 +1,33 @@
+---
+pattern: cree_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 23
+score: 1465883
+score_per_word: 86228
+hi_scored_words:
+  creed: 8425
+  creeds: 44042
+  creek: 2456
+  creeks: 25389
+  creel: 52897
+  creep: 11187
+  creeper: 28226
+  creepers: 44394
+  creeping: 15432
+  creeps: 30107
+  creepy: 19621
+scored_words:
+  creels: 255830
+  creepier: 168553
+  creepiest: 127535
+  creepily: 217751
+  creepiness: 167784
+  creese: 246254
+not_scored_words:
+- Cree
+- Creed
+- Creek
+- Creeks
+- Crees
+- creepie

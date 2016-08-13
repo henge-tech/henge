@@ -1,0 +1,41 @@
+---
+pattern: _sals
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 31
+score: 1458548
+score_per_word: 104182
+hi_scored_words:
+  appraisals: 23871
+  dismissals: 61518
+  disposals: 47866
+  proposals: 8939
+  refusals: 65735
+  rehearsals: 26516
+  reprisals: 51633
+  reversals: 48362
+  universals: 66332
+  vassals: 79610
+scored_words:
+  metatarsals: 253767
+  missals: 304100
+  nasals: 211657
+  traversals: 208642
+not_scored_words:
+- Casals
+- accusals
+- carousals
+- commensals
+- counterproposals
+- devisals
+- hypoglossals
+- orinasals
+- perusals
+- reappraisals
+- recusals
+- revisals
+- spousals
+- supposals
+- surprisals
+- tarsals
+- thimerosals

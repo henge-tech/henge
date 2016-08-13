@@ -1,0 +1,27 @@
+---
+pattern: triu_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 1065470
+score_per_word: 88789
+hi_scored_words:
+  triumph: 5390
+  triumphal: 47674
+  triumphant: 19099
+  triumphantly: 53775
+  triumphed: 49266
+  triumphs: 30562
+  triumvirate: 59600
+  triune: 83305
+scored_words:
+  triumphalism: 180114
+  triumphalist: 265682
+  triumphing: 124854
+  triumvir: 146149
+not_scored_words:
+- triumviral
+- triumvirates
+- triumviri
+- triumvirs
+- triunity

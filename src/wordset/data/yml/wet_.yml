@@ -1,0 +1,30 @@
+---
+pattern: wet_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 20
+score: 1311339
+score_per_word: 87422
+hi_scored_words:
+  wet: 2087
+  wether: 41564
+  wetland: 14251
+  wetlands: 18092
+  wetness: 46405
+  wets: 57496
+  wetsuit: 40758
+  wetsuits: 52271
+  wetter: 39049
+  wettest: 68566
+  wetting: 26942
+scored_words:
+  wethers: 215725
+  wetly: 259533
+  wettable: 197575
+  wetware: 231025
+not_scored_words:
+- Wetterhorn
+- wetback
+- wetbacks
+- wetters
+- wetwares

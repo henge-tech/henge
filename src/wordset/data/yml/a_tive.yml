@@ -1,0 +1,75 @@
+---
+pattern: a_tive
+hi_scored_words_count: 26
+scored_words_count: 20
+total_words: 65
+score: 4544544
+score_per_word: 98794
+hi_scored_words:
+  ablative: 75343
+  abortive: 46502
+  absorptive: 61118
+  accumulative: 81398
+  accusative: 59109
+  active: 864
+  adaptive: 19264
+  addictive: 17366
+  additive: 18886
+  adjective: 16468
+  adjunctive: 82448
+  administrative: 3649
+  adoptive: 26461
+  affective: 21015
+  affirmative: 9858
+  agglutinative: 80375
+  alternative: 2237
+  appreciative: 24827
+  argumentative: 39421
+  assertive: 33568
+  associative: 25433
+  attentive: 15973
+  attractive: 3504
+  augmentative: 88722
+  authoritative: 12613
+  automotive: 3753
+scored_words:
+  accelerative: 204818
+  accommodative: 118648
+  accretive: 131591
+  acquisitive: 111010
+  adjudicative: 125647
+  adsorptive: 237873
+  agentive: 266091
+  agglomerative: 290642
+  aggregative: 259687
+  alliterative: 134488
+  alterative: 116211
+  ameliorative: 241414
+  appetitive: 212076
+  applicative: 135564
+  appointive: 150684
+  appositive: 231199
+  assaultive: 193267
+  assimilative: 162245
+  assortative: 221248
+  attributive: 129966
+not_scored_words:
+- acculturative
+- adumbrative
+- adversative
+- affiliative
+- affinitive
+- afflictive
+- affricative
+- allative
+- alleviative
+- amative
+- annotative
+- anticipative
+- appellative
+- approbative
+- archconservative
+- argumentive
+- arrogative
+- assumptive
+- auditive

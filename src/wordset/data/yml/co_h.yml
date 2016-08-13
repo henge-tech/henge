@@ -1,0 +1,45 @@
+---
+pattern: co_h
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 35
+score: 1839065
+score_per_word: 96792
+hi_scored_words:
+  coach: 2151
+  cockroach: 37076
+  codfish: 83079
+  cohosh: 85675
+  commonwealth: 5118
+  conch: 39268
+  cornstarch: 47330
+  cosh: 47611
+  couch: 6320
+  cough: 8618
+  counterpunch: 72536
+scored_words:
+  coalfish: 188245
+  coelacanth: 150203
+  coppersmith: 121994
+  coquettish: 166084
+  coronagraph: 252898
+  coth: 219120
+  cottonmouth: 193287
+  couth: 112452
+not_scored_words:
+- Commonwealth
+- Corinth
+- Cornish
+- coldish
+- colocynth
+- coltish
+- contradistinguish
+- coolish
+- coolth
+- cootch
+- coronach
+- coronograph
+- countermarch
+- counterweigh
+- cowfish
+- cowitch

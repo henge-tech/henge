@@ -1,0 +1,25 @@
+---
+pattern: s_ular
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 607369
+score_per_word: 67485
+hi_scored_words:
+  scapular: 98154
+  secular: 8688
+  semicircular: 59858
+  singular: 7474
+  spectacular: 8557
+  specular: 52089
+  subcellular: 48277
+  supramolecular: 97593
+scored_words:
+  saccular: 226679
+not_scored_words:
+- sinistrocular
+- stellular
+- subauricular
+- submolecular
+- subscapular
+- sustentacular

@@ -1,0 +1,48 @@
+---
+pattern: g_tes
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 38
+score: 2035795
+score_per_word: 127237
+hi_scored_words:
+  gametes: 70279
+  gates: 3536
+  generates: 14685
+  gigabytes: 48035
+  graduates: 8452
+  granites: 79624
+  granulocytes: 84533
+  grates: 46659
+scored_words:
+  gametophytes: 289526
+  gazettes: 115757
+  gentes: 122449
+  germinates: 198137
+  gites: 158450
+  glutamates: 237777
+  gravitates: 224965
+  guesstimates: 332931
+not_scored_words:
+- Gates
+- Gigantes
+- gadolinites
+- gametocytes
+- garnierites
+- garottes
+- garrotes
+- garrottes
+- gavottes
+- geminates
+- geophytes
+- gestates
+- gesticulates
+- ghostwrites
+- glaciates
+- glauconites
+- goethites
+- gradates
+- granulates
+- greenockites
+- gummites
+- gyrates

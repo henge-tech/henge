@@ -1,0 +1,31 @@
+---
+pattern: pee_s
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 21
+score: 1446696
+score_per_word: 103335
+hi_scored_words:
+  peeks: 59868
+  peels: 39992
+  peepers: 82807
+  peeps: 23226
+  peerless: 32433
+  peers: 7731
+  pees: 64616
+  peeves: 53161
+scored_words:
+  peelers: 116506
+  peelings: 215133
+  peepholes: 232236
+  peepshows: 155805
+  peerages: 201104
+  peevishness: 162078
+not_scored_words:
+- Peebles
+- peens
+- peepuls
+- peeress
+- peeresses
+- peewees
+- peewits

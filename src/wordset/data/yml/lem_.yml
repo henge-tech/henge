@@ -1,0 +1,41 @@
+---
+pattern: lem_
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 31
+score: 1342630
+score_per_word: 83914
+hi_scored_words:
+  leman: 77392
+  lemma: 18846
+  lemmas: 76912
+  lemme: 33625
+  lemming: 57833
+  lemmings: 51667
+  lemon: 8501
+  lemonade: 19082
+  lemongrass: 55885
+  lemons: 25402
+  lemony: 39944
+  lemur: 43234
+  lemurs: 68720
+scored_words:
+  lemmata: 323340
+  lempira: 108346
+  lempiras: 333901
+not_scored_words:
+- LEM
+- LEMs
+- Lem
+- Lemaitre
+- Leman
+- Lemberg
+- Lemnos
+- Lemuel
+- Lemuria
+- lemniscate
+- lemnisci
+- lemniscus
+- lemonades
+- lemures
+- lemuroid

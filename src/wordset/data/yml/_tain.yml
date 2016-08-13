@@ -1,0 +1,43 @@
+---
+pattern: _tain
+hi_scored_words_count: 21
+scored_words_count: 2
+total_words: 33
+score: 594971
+score_per_word: 25868
+hi_scored_words:
+  abstain: 21318
+  ascertain: 12537
+  attain: 9118
+  captain: 1882
+  certain: 506
+  chieftain: 28740
+  contain: 1771
+  curtain: 6550
+  detain: 27932
+  entertain: 8512
+  fountain: 5707
+  maintain: 1836
+  mountain: 1093
+  obtain: 1720
+  pertain: 26534
+  plantain: 45173
+  retain: 4655
+  stain: 8955
+  sustain: 7379
+  tain: 43942
+  uncertain: 6660
+scored_words:
+  appertain: 160246
+  bloodstain: 162205
+not_scored_words:
+- Brattain
+- Britain
+- Captain
+- Maritain
+- Petain
+- Pétain
+- chevrotain
+- quintain
+- reattain
+- sextain

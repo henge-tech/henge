@@ -1,0 +1,25 @@
+---
+pattern: ma_red
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 15
+score: 687623
+score_per_word: 57301
+hi_scored_words:
+  majored: 56139
+  maneuvered: 78042
+  manicured: 56416
+  mannered: 44045
+  manufactured: 5946
+  marred: 29112
+  martyred: 58610
+  massacred: 48041
+  mastered: 17031
+  mattered: 27906
+  matured: 26302
+scored_words:
+  manured: 240033
+not_scored_words:
+- Manfred
+- malingered
+- maundered

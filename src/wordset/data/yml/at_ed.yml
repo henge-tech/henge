@@ -1,0 +1,28 @@
+---
+pattern: at_ed
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 18
+score: 807009
+score_per_word: 53800
+hi_scored_words:
+  atrophied: 98061
+  attached: 2068
+  attacked: 5034
+  attained: 8775
+  attempted: 4083
+  attended: 2923
+  attenuated: 35583
+  attested: 28267
+  attired: 68160
+  attracted: 5908
+  attributed: 6834
+  attuned: 47153
+scored_words:
+  atomized: 126133
+  atoned: 126890
+  attainted: 241137
+not_scored_words:
+- attempered
+- attitudinized
+- attorned

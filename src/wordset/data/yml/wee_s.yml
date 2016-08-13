@@ -1,0 +1,30 @@
+---
+pattern: wee_s
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 20
+score: 1712155
+score_per_word: 114143
+hi_scored_words:
+  weeds: 11704
+  weekdays: 19290
+  weekends: 5028
+  weeklies: 61824
+  weeknights: 88585
+  weeks: 751
+  weeps: 37473
+  weevils: 79117
+scored_words:
+  weeders: 268046
+  weedless: 311662
+  weekenders: 144237
+  weenies: 102575
+  weepers: 244306
+  weepies: 236642
+  wees: 100915
+not_scored_words:
+- Weeks
+- weediness
+- weedkillers
+- weens
+- weepings

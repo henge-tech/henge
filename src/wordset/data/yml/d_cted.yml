@@ -1,0 +1,30 @@
+---
+pattern: d_cted
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 20
+score: 1048671
+score_per_word: 55193
+hi_scored_words:
+  deconstructed: 82940
+  deducted: 21002
+  defected: 41555
+  deflected: 38720
+  dejected: 50348
+  depicted: 10773
+  deselected: 81496
+  detected: 4882
+  directed: 1889
+  disaffected: 44813
+  disconnected: 17400
+  disinfected: 56023
+  disrespected: 84907
+  dissected: 44627
+  distracted: 16240
+  ducted: 64445
+scored_words:
+  destructed: 160333
+  detracted: 111772
+  diffracted: 114506
+not_scored_words:
+- decocted

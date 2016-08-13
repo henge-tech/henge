@@ -1,0 +1,58 @@
+---
+pattern: h_ck
+hi_scored_words_count: 20
+scored_words_count: 13
+total_words: 48
+score: 3188736
+score_per_word: 96628
+hi_scored_words:
+  hack: 8138
+  haddock: 36444
+  halfback: 73054
+  hammock: 18950
+  hardback: 19343
+  hatchback: 21958
+  havelock: 46229
+  haystack: 40644
+  headstock: 76265
+  heck: 16252
+  hemlock: 26841
+  hick: 41363
+  hijack: 28387
+  hillock: 86708
+  hock: 37344
+  hollyhock: 95377
+  homesick: 35259
+  horseback: 12100
+  humpback: 42361
+  hunchback: 46326
+scored_words:
+  halterneck: 155825
+  hammerlock: 247626
+  handpick: 248605
+  hardtack: 209875
+  hassock: 133126
+  haversack: 179959
+  haycock: 128560
+  hayrick: 177016
+  headlock: 113812
+  heartsick: 225420
+  hogback: 238944
+  holdback: 167352
+  hummock: 153273
+not_scored_words:
+- Hancock
+- Hendrick
+- Herrick
+- Heyduck
+- Hitchcock
+- Huck
+- Humperdinck
+- halftrack
+- hardhack
+- hatcheck
+- hayrack
+- henpeck
+- hoick
+- hopsack
+- huckaback

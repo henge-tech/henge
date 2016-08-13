@@ -1,0 +1,37 @@
+---
+pattern: f_ze
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 27
+score: 1740544
+score_per_word: 116036
+hi_scored_words:
+  familiarize: 37528
+  fantasize: 63166
+  faze: 56439
+  fertilize: 54536
+  finalize: 29528
+  formalize: 58634
+  freeze: 7903
+  frieze: 39961
+  froze: 23844
+scored_words:
+  factorize: 246343
+  federalize: 331834
+  feminize: 322651
+  fossilize: 146765
+  fraternize: 221154
+  furze: 100258
+not_scored_words:
+- Firenze
+- Frunze
+- fanaticize
+- faradize
+- feeze
+- feudalize
+- fictionalize
+- fluidize
+- focalize
+- formularize
+- fractionize
+- frize

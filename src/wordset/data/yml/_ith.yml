@@ -1,0 +1,80 @@
+---
+pattern: _ith
+hi_scored_words_count: 25
+scored_words_count: 6
+total_words: 70
+score: 1957889
+score_per_word: 63157
+hi_scored_words:
+  blacksmith: 20666
+  faith: 1173
+  forthwith: 21132
+  frith: 35620
+  goldsmith: 18820
+  gunsmith: 72553
+  herewith: 36600
+  interfaith: 30290
+  kith: 73482
+  lith: 73305
+  locksmith: 34349
+  megalith: 78186
+  monolith: 37906
+  monteith: 69067
+  outwith: 89217
+  pith: 47458
+  saith: 20005
+  silversmith: 61547
+  smith: 1115
+  therewith: 27061
+  wherewith: 55852
+  with: 10
+  wordsmith: 78648
+  wraith: 36040
+  zenith: 15284
+scored_words:
+  batholith: 151142
+  coppersmith: 121994
+  otolith: 131071
+  regolith: 109328
+  tinsmith: 178973
+  tunesmith: 229995
+not_scored_words:
+- Asquith
+- Edith
+- Faith
+- Galbraith
+- Goldsmith
+- Griffith
+- Hammersmith
+- Hindemith
+- Hollerith
+- Judith
+- Keith
+- Kennith
+- Ladysmith
+- Lapith
+- Leith
+- Lilith
+- Lith
+- Meredith
+- Naismith
+- Smith
+- Sopwith
+- acrolith
+- cystolith
+- eolith
+- gastrolith
+- grith
+- ironsmith
+- laccolith
+- microlith
+- neolith
+- nephrolith
+- paleolith
+- runesmith
+- statolith
+- tallith
+- urolith
+- whitesmith
+- xenolith
+- zizith

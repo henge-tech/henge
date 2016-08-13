@@ -1,0 +1,35 @@
+---
+pattern: ba_ies
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 25
+score: 1284022
+score_per_word: 107001
+hi_scored_words:
+  babies: 4084
+  baddies: 72485
+  baggies: 77611
+  bakeries: 28599
+  balconies: 28824
+  bankruptcies: 28733
+  barbies: 66601
+  batteries: 4054
+scored_words:
+  backstories: 280177
+  banalities: 243735
+  barbarities: 250649
+  baronies: 198470
+not_scored_words:
+- Baggies
+- baccies
+- baldies
+- bandies
+- baneberries
+- baptisteries
+- baptistries
+- barberries
+- barflies
+- baronetcies
+- bathymetries
+- bawdries
+- bayberries

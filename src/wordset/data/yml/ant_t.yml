@@ -1,0 +1,42 @@
+---
+pattern: ant_t
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 32
+score: 1475095
+score_per_word: 98339
+hi_scored_words:
+  antagonist: 18532
+  antecedent: 30607
+  anthologist: 92861
+  anthropologist: 28843
+  antiaircraft: 95993
+  antichrist: 30773
+  anticoagulant: 54574
+  antidepressant: 30072
+  antioxidant: 25726
+  antitrust: 17890
+scored_words:
+  anticapitalist: 291997
+  anticommunist: 201377
+  antigovernment: 229914
+  antiperspirant: 121777
+  antiterrorist: 204159
+not_scored_words:
+- Antichrist
+- Antifederalist
+- antepast
+- antepenult
+- antevert
+- antiabortionist
+- anticatalyst
+- anticipant
+- antiestablishment
+- antifascist
+- antifeminist
+- antimonarchist
+- antinationalist
+- antipacifist
+- antitheft
+- antivivisectionist
+- antsiest

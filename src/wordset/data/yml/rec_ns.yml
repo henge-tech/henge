@@ -1,0 +1,35 @@
+---
+pattern: rec_ns
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 25
+score: 1873412
+score_per_word: 117088
+hi_scored_words:
+  receptions: 22442
+  recessions: 62707
+  recitations: 81063
+  reckons: 49703
+  recognitions: 53340
+  recollections: 22638
+  recommendations: 3787
+  reconciliations: 89260
+  reconstructions: 46013
+  recreations: 51437
+scored_words:
+  recalculations: 295047
+  reclamations: 296943
+  reconfigurations: 232324
+  recons: 247586
+  recriminations: 106728
+  recursions: 212394
+not_scored_words:
+- recantations
+- recapitulations
+- rechristens
+- recommissions
+- recompilations
+- reconditions
+- reconfirmations
+- reconsigns
+- rectifications

@@ -1,0 +1,23 @@
+---
+pattern: r_ar
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 518925
+score_per_word: 51892
+hi_scored_words:
+  radar: 6690
+  reappear: 41971
+  rear: 2438
+  rectangular: 12524
+  rectilinear: 78485
+  registrar: 16360
+  regular: 1015
+  reticular: 74242
+  roar: 11424
+scored_words:
+  rehear: 273776
+not_scored_words:
+- realgar
+- regear
+- ricercar

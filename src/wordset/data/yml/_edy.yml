@@ -1,0 +1,23 @@
+---
+pattern: _edy
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 13
+score: 493501
+score_per_word: 41125
+hi_scored_words:
+  comedy: 3112
+  greedy: 12380
+  needy: 14330
+  raggedy: 46199
+  reedy: 44189
+  remedy: 5482
+  seedy: 41756
+  speedy: 10705
+  tragedy: 5322
+  tweedy: 57606
+  weedy: 55818
+scored_words:
+  tragicomedy: 196602
+not_scored_words:
+- Kennedy

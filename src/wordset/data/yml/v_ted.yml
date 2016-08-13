@@ -1,0 +1,40 @@
+---
+pattern: v_ted
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 30
+score: 1520086
+score_per_word: 69094
+hi_scored_words:
+  vacated: 26856
+  vaccinated: 36544
+  validated: 13939
+  variegated: 34442
+  vaulted: 33638
+  vaunted: 54855
+  vegetated: 64321
+  venerated: 51760
+  vented: 26360
+  ventilated: 33206
+  vested: 12974
+  vetted: 57614
+  vibrated: 89076
+  vindicated: 41330
+  violated: 9039
+  visited: 2707
+  vitiated: 96565
+  vomited: 71885
+  voted: 4127
+scored_words:
+  vacillated: 245930
+  vignetted: 285658
+  vociferated: 227260
+not_scored_words:
+- valeted
+- valuated
+- vatted
+- vellicated
+- vesiculated
+- vituperated
+- vivisected
+- voluted

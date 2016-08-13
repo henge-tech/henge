@@ -1,0 +1,21 @@
+---
+pattern: solv_
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 11
+score: 239308
+score_per_word: 23930
+hi_scored_words:
+  solvable: 54059
+  solve: 7651
+  solved: 6521
+  solvency: 39428
+  solvent: 15259
+  solvents: 19823
+  solver: 24001
+  solvers: 39395
+  solves: 25803
+  solving: 7368
+scored_words: {}
+not_scored_words:
+- solvolysis

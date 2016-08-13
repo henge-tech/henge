@@ -1,0 +1,82 @@
+---
+pattern: inf_s
+hi_scored_words_count: 29
+scored_words_count: 20
+total_words: 72
+score: 4985560
+score_per_word: 101746
+hi_scored_words:
+  infamous: 11199
+  infants: 7350
+  infections: 5865
+  infectious: 9813
+  infects: 55380
+  inferences: 24125
+  inferiors: 80526
+  infers: 80312
+  infestations: 53551
+  infidels: 39872
+  infiltrates: 71274
+  infirmities: 66516
+  inflatables: 56633
+  inflates: 89133
+  inflections: 83441
+  inflicts: 74249
+  inflows: 37773
+  influences: 5660
+  infomercials: 69775
+  informants: 39021
+  informatics: 17660
+  informers: 78288
+  informs: 15251
+  infractions: 49449
+  infrastructures: 22773
+  infringements: 49379
+  infringes: 59452
+  infuses: 94892
+  infusions: 46296
+scored_words:
+  infamies: 219926
+  infarcts: 138004
+  infectiousness: 277690
+  infelicitous: 150281
+  infernos: 221024
+  infests: 203938
+  infidelities: 140483
+  infielders: 145928
+  infiltrations: 215741
+  infiltrators: 126702
+  infinities: 118748
+  infinitives: 109252
+  inflames: 151761
+  inflammations: 127613
+  inflators: 138078
+  inflictions: 203343
+  influxes: 227787
+  informativeness: 270926
+  infuriates: 123674
+  infusers: 279753
+not_scored_words:
+- infallibleness
+- infamousness
+- infanticides
+- infantilisms
+- infantries
+- infatuates
+- infatuations
+- infelicities
+- infields
+- infighters
+- infills
+- infiniteness
+- infinitenesses
+- infinitesimals
+- infirmaries
+- infirmness
+- infixes
+- inflammableness
+- inflaters
+- inflectionless
+- inflects
+- infracts
+- infusorians

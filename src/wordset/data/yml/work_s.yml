@@ -1,0 +1,39 @@
+---
+pattern: work_s
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 29
+score: 1925113
+score_per_word: 80213
+hi_scored_words:
+  workarounds: 55057
+  workbooks: 48848
+  workdays: 71971
+  workers: 2084
+  workflows: 50281
+  workings: 16645
+  workloads: 48043
+  workouts: 17678
+  workplaces: 23093
+  works: 370
+  worksheets: 28019
+  workshops: 6632
+  workspaces: 61696
+  workstations: 15049
+  worktops: 80025
+scored_words:
+  workaholics: 148589
+  workbenches: 122641
+  workforces: 100748
+  workhorses: 169680
+  workhouses: 160910
+  workmates: 106163
+  workpieces: 142817
+  workrooms: 212701
+  workweeks: 235373
+not_scored_words:
+- workableness
+- workbags
+- workbaskets
+- worktables
+- workups

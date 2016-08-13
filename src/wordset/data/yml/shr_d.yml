@@ -1,0 +1,21 @@
+---
+pattern: shr_d
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 439852
+score_per_word: 48872
+hi_scored_words:
+  shred: 22287
+  shredded: 25673
+  shrewd: 26395
+  shrieked: 60340
+  shriveled: 88737
+  shroud: 23328
+  shrouded: 36266
+  shrugged: 17590
+scored_words:
+  shrilled: 139236
+not_scored_words:
+- shrimped
+- shrived

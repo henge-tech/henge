@@ -1,0 +1,54 @@
+---
+pattern: immo_
+hi_scored_words_count: 14
+scored_words_count: 12
+total_words: 44
+score: 2760092
+score_per_word: 106157
+hi_scored_words:
+  immobile: 40503
+  immobility: 58868
+  immobilization: 45695
+  immobilize: 99958
+  immobilized: 42182
+  immodest: 87601
+  immolation: 64228
+  immoral: 16742
+  immorality: 35043
+  immortal: 9360
+  immortality: 17027
+  immortalized: 57771
+  immortals: 50356
+  immovable: 40017
+scored_words:
+  immobilizer: 125304
+  immobilizing: 151367
+  immoderate: 109319
+  immoderately: 122022
+  immodesty: 265462
+  immolate: 203772
+  immolated: 240048
+  immoralities: 157488
+  immorally: 246599
+  immortalize: 145374
+  immortelle: 183643
+  immovably: 144343
+not_scored_words:
+- immobilizers
+- immobilizes
+- immoderacy
+- immoderateness
+- immoderatenesses
+- immoderation
+- immoderations
+- immodestly
+- immolates
+- immolating
+- immolator
+- immoralist
+- immortalizes
+- immortalizing
+- immortally
+- immortelles
+- immotile
+- immovability

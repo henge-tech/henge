@@ -1,0 +1,38 @@
+---
+pattern: col_d
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 28
+score: 1390210
+score_per_word: 73168
+hi_scored_words:
+  cold: 942
+  collaborated: 23727
+  collapsed: 12374
+  collard: 56071
+  collared: 43278
+  collated: 48119
+  collected: 2217
+  collided: 42636
+  colloid: 41530
+  colonized: 46732
+  colorblind: 81833
+  colored: 4031
+  colorized: 87325
+scored_words:
+  coldblooded: 115273
+  collimated: 102898
+  collocated: 115947
+  colluded: 152550
+  colonnaded: 249255
+  columned: 163472
+not_scored_words:
+- Coloured
+- colicweed
+- collectivized
+- collied
+- colligated
+- collogued
+- cologned
+- colorfield
+- colubrid

@@ -1,0 +1,22 @@
+---
+pattern: con_cted
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 12
+score: 547168
+score_per_word: 49742
+hi_scored_words:
+  concocted: 55777
+  conducted: 2323
+  conflicted: 35691
+  connected: 1808
+  constricted: 56280
+  constructed: 3748
+  contacted: 6788
+  contracted: 8347
+  contradicted: 36143
+  convicted: 13007
+scored_words:
+  convected: 327256
+not_scored_words:
+- confected

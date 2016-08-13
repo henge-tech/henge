@@ -1,0 +1,38 @@
+---
+pattern: hy_n
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 28
+score: 1820456
+score_per_word: 95813
+hi_scored_words:
+  hybridization: 23862
+  hydration: 23376
+  hydrocarbon: 27977
+  hydrogen: 6923
+  hydrogenation: 65792
+  hymen: 40834
+  hymn: 12727
+  hyperinflation: 76909
+  hypertension: 13637
+  hyperventilation: 85205
+  hyphen: 39956
+  hyphenation: 68908
+  hypotension: 37691
+scored_words:
+  hydantoin: 245384
+  hyperborean: 120786
+  hyperextension: 159129
+  hyperon: 268570
+  hypolimnion: 286532
+  hyson: 216258
+not_scored_words:
+- Hymen
+- Hyperborean
+- Hyperion
+- hydrolyzation
+- hydrozoan
+- hymenopteran
+- hyperbaton
+- hypercorrection
+- hypnotization

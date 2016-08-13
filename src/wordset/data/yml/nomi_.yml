@@ -1,0 +1,29 @@
+---
+pattern: nomi_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 19
+score: 1047142
+score_per_word: 69809
+hi_scored_words:
+  nominal: 8712
+  nominally: 26415
+  nominate: 15910
+  nominated: 6999
+  nominates: 71543
+  nominating: 28302
+  nomination: 7470
+  nominations: 12662
+  nominative: 48248
+  nominee: 17114
+  nominees: 22462
+scored_words:
+  nominalism: 168602
+  nominatives: 287997
+  nominator: 124773
+  nominators: 199933
+not_scored_words:
+- nominalisms
+- nominalist
+- nominalistic
+- nomism

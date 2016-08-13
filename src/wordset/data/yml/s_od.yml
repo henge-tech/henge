@@ -1,0 +1,37 @@
+---
+pattern: s_od
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 27
+score: 1931594
+score_per_word: 96579
+hi_scored_words:
+  sainthood: 72193
+  sandalwood: 31965
+  seafood: 12560
+  shod: 57062
+  sisterhood: 33935
+  snood: 94811
+  sod: 18007
+  softwood: 47887
+  springwood: 89704
+  statehood: 37295
+  stood: 2496
+  synod: 20621
+scored_words:
+  sapwood: 113520
+  satinwood: 196431
+  sauropod: 146874
+  scrod: 274026
+  selfhood: 104817
+  slipshod: 127236
+  spinsterhood: 122854
+  summerwood: 327300
+not_scored_words:
+- Sherwood
+- sapanwood
+- sappanwood
+- schizopod
+- seedpod
+- sourwood
+- stinkwood

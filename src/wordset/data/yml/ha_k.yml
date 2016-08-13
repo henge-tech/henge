@@ -1,0 +1,50 @@
+---
+pattern: ha_k
+hi_scored_words_count: 14
+scored_words_count: 13
+total_words: 40
+score: 2757672
+score_per_word: 102136
+hi_scored_words:
+  hack: 8138
+  haddock: 36444
+  halfback: 73054
+  hallmark: 16969
+  hammock: 18950
+  handbook: 8457
+  handiwork: 45522
+  hank: 12526
+  hardback: 19343
+  hark: 29819
+  hatchback: 21958
+  havelock: 46229
+  hawk: 7145
+  haystack: 40644
+scored_words:
+  haik: 244575
+  hairstreak: 120893
+  halterneck: 155825
+  hammerlock: 247626
+  handpick: 248605
+  handwork: 113518
+  hardtack: 209875
+  hassock: 133126
+  hauberk: 179712
+  haversack: 179959
+  haycock: 128560
+  hayfork: 233184
+  hayrick: 177016
+not_scored_words:
+- Habakkuk
+- Haiduk
+- Hallmark
+- Hancock
+- Hank
+- Hayek
+- hacek
+- hackwork
+- halfbeak
+- halftrack
+- hardhack
+- hatcheck
+- hayrack

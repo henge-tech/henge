@@ -1,0 +1,50 @@
+---
+pattern: d_de
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 40
+score: 2294074
+score_per_word: 81931
+hi_scored_words:
+  decade: 5875
+  decide: 2283
+  decode: 24033
+  degrade: 22429
+  deicide: 68780
+  delude: 66266
+  deride: 70864
+  desuetude: 96857
+  diode: 18502
+  dioxide: 14867
+  dissuade: 41341
+  disulfide: 44229
+  disulphide: 90450
+  divide: 5407
+  dockside: 68443
+  downgrade: 33195
+  downside: 21629
+  dude: 13745
+scored_words:
+  decrepitude: 160846
+  demimonde: 169778
+  denude: 129960
+  dibromide: 224685
+  dichloride: 116846
+  diopside: 135466
+  dipeptide: 132757
+  disaccharide: 163424
+  disquietude: 241963
+  duende: 109154
+not_scored_words:
+- defilade
+- demode
+- depside
+- detrude
+- digitigrade
+- discommode
+- displode
+- dissimilitude
+- dragonnade
+- dropsonde
+- duodiode
+- dynode

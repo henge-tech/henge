@@ -1,0 +1,40 @@
+---
+pattern: do_l
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 30
+score: 1477726
+score_per_word: 82095
+hi_scored_words:
+  doctoral: 13598
+  doctrinal: 30701
+  doggerel: 88615
+  dol: 29269
+  doll: 5298
+  doorbell: 31685
+  dorsal: 19487
+  doubtful: 11166
+  dovetail: 57413
+  dowel: 50451
+  downfall: 18805
+  downhill: 17317
+scored_words:
+  documental: 148790
+  doleful: 113686
+  domicil: 193487
+  dominical: 164992
+  dorsoventral: 249740
+  dotterel: 233226
+not_scored_words:
+- Donal
+- Donegal
+- Donnell
+- dodecahedral
+- domainial
+- doornail
+- doorsill
+- dorsiventral
+- dossal
+- downhaul
+- dowsabel
+- doxological

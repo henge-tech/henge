@@ -1,0 +1,25 @@
+---
+pattern: abs_e
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 15
+score: 396663
+score_per_word: 39666
+hi_scored_words:
+  absence: 2625
+  absentee: 27160
+  absinthe: 34545
+  absolute: 2487
+  absolve: 49224
+  absorbable: 77110
+  absorbance: 50835
+  absorptive: 61118
+  abstinence: 18177
+  abstruse: 73382
+scored_words: {}
+not_scored_words:
+- abscise
+- absolutize
+- absolvable
+- absorptance
+- absquatulate

@@ -1,0 +1,24 @@
+---
+pattern: anes_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 806837
+score_per_word: 80683
+hi_scored_words:
+  anesthesia: 16046
+  anesthesiologist: 64725
+  anesthesiologists: 70359
+  anesthesiology: 35140
+  anesthetic: 29115
+  anesthetics: 44322
+  anesthetist: 90520
+  anesthetized: 67517
+scored_words:
+  anesthetists: 132216
+  anesthetize: 256877
+not_scored_words:
+- anesthetically
+- anesthetization
+- anesthetizes
+- anesthetizing

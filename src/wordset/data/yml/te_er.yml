@@ -1,0 +1,68 @@
+---
+pattern: te_er
+hi_scored_words_count: 19
+scored_words_count: 13
+total_words: 58
+score: 3215088
+score_per_word: 100471
+hi_scored_words:
+  teacher: 1541
+  teamster: 65691
+  teaser: 18811
+  tedder: 93463
+  teenager: 13783
+  teeter: 51786
+  teetotaler: 71013
+  telecaster: 60136
+  telemarketer: 81746
+  telfer: 85593
+  teller: 17728
+  temper: 9856
+  tender: 3868
+  tenderer: 72528
+  tenner: 56622
+  terrier: 13303
+  tester: 23246
+  tether: 38129
+  tetrameter: 95763
+scored_words:
+  tearjerker: 141675
+  teenybopper: 244706
+  telecommuter: 170016
+  telemeter: 269884
+  teleprompter: 108587
+  teletypewriter: 212092
+  teleworker: 164239
+  tempter: 105723
+  tenderizer: 165728
+  tenser: 168946
+  tensiometer: 330972
+  tenter: 108949
+  terrorizer: 148965
+not_scored_words:
+- TelePrompTer
+- TelePrompter
+- Teletypesetter
+- Teller
+- Terrier
+- Teucer
+- tearer
+- tearier
+- teaseler
+- teaseller
+- techier
+- teenier
+- telegrapher
+- telephoner
+- teleprinter
+- telethermometer
+- telpher
+- temporizer
+- tenoner
+- tensimeter
+- tentmaker
+- terser
+- testier
+- testifier
+- tetchier
+- tetter

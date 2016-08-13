@@ -1,0 +1,23 @@
+---
+pattern: odd_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 704728
+score_per_word: 64066
+hi_scored_words:
+  odd: 3157
+  oddball: 48512
+  oddest: 71587
+  oddities: 36446
+  oddity: 38659
+  oddly: 14778
+  oddness: 97005
+  odds: 4607
+scored_words:
+  oddballs: 133477
+  odder: 118314
+  oddments: 138186
+not_scored_words:
+- Oddfellow
+- oddment

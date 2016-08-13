@@ -1,0 +1,31 @@
+---
+pattern: symb_
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 21
+score: 1694112
+score_per_word: 89163
+hi_scored_words:
+  symbiosis: 44503
+  symbiotic: 39515
+  symbol: 3236
+  symbolic: 8977
+  symbolical: 83826
+  symbolically: 46039
+  symbolism: 17942
+  symbolize: 40846
+  symbolized: 42508
+  symbolizes: 41230
+  symbolizing: 63741
+  symbology: 75571
+  symbols: 5103
+scored_words:
+  symbiont: 108484
+  symbioses: 287324
+  symbiotically: 302291
+  symbolics: 168816
+  symbolist: 125483
+  symbolization: 188677
+not_scored_words:
+- Symbolism
+- symbolists

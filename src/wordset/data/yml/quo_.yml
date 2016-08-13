@@ -1,0 +1,43 @@
+---
+pattern: quo_
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 33
+score: 2369540
+score_per_word: 91136
+hi_scored_words:
+  quo: 12191
+  quod: 26311
+  quorum: 19422
+  quot: 18166
+  quota: 13236
+  quotable: 46758
+  quotas: 24659
+  quotation: 8676
+  quotations: 8369
+  quote: 2061
+  quoted: 4035
+  quotes: 4158
+  quoth: 37326
+  quotidian: 88466
+  quotient: 30624
+  quotients: 81919
+  quoting: 10924
+scored_words:
+  quodlibet: 196035
+  quoin: 117126
+  quoins: 280235
+  quoit: 187020
+  quoits: 161164
+  quondam: 171212
+  quorate: 325961
+  quorums: 253336
+  quoter: 240150
+not_scored_words:
+- Quonset
+- quodlibetarian
+- quodlibets
+- quoited
+- quoiting
+- quotability
+- quotha

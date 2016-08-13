@@ -1,0 +1,41 @@
+---
+pattern: _iece
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 31
+score: 1466058
+score_per_word: 73302
+hi_scored_words:
+  apiece: 25895
+  centerpiece: 27218
+  earpiece: 48747
+  eyepiece: 37241
+  frontispiece: 49076
+  headpiece: 69921
+  mantelpiece: 91988
+  masterpiece: 10778
+  mouthpiece: 27366
+  niece: 13318
+  piece: 980
+  showpiece: 87798
+  timepiece: 48604
+  workpiece: 58137
+scored_words:
+  altarpiece: 107067
+  codpiece: 144362
+  crosspiece: 144547
+  hairpiece: 108438
+  nosepiece: 263637
+  tailpiece: 100940
+not_scored_words:
+- afterpiece
+- cheekpiece
+- chimneypiece
+- crownpiece
+- fieldpiece
+- grandniece
+- hawsepiece
+- heelpiece
+- neckpiece
+- sidepiece
+- stringpiece

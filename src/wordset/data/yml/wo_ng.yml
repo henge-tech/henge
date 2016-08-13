@@ -1,0 +1,35 @@
+---
+pattern: wo_ng
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 25
+score: 1474521
+score_per_word: 81917
+hi_scored_words:
+  wobbling: 75821
+  wondering: 3647
+  woodcarving: 86996
+  woodworking: 20352
+  wooing: 52035
+  wording: 15102
+  working: 458
+  worming: 96496
+  worrying: 12030
+  worsening: 28986
+  worshiping: 52944
+  wounding: 29151
+scored_words:
+  wolfing: 212217
+  womanizing: 137688
+  woodcutting: 181531
+  wooding: 145318
+  worldling: 188744
+  wowing: 135005
+not_scored_words:
+- Wolfgang
+- Wollongong
+- Wong
+- Woolongong
+- woofing
+- woolgathering
+- worsting

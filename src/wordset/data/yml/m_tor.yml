@@ -1,0 +1,30 @@
+---
+pattern: m_tor
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1241996
+score_per_word: 88714
+hi_scored_words:
+  manipulator: 43345
+  masturbator: 89240
+  mediator: 17704
+  mentor: 13548
+  moderator: 15090
+  modulator: 31862
+  monitor: 6427
+  motivator: 44310
+  motor: 2617
+scored_words:
+  macerator: 305786
+  malefactor: 153611
+  meditator: 113882
+  migrator: 170330
+  multivibrator: 234244
+not_scored_words:
+- Mentor
+- Mercator
+- machinator
+- masticator
+- mitigator
+- mutilator

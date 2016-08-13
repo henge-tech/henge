@@ -1,0 +1,26 @@
+---
+pattern: _roll
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 946531
+score_per_word: 78877
+hi_scored_words:
+  bankroll: 34142
+  droll: 45843
+  enroll: 18557
+  payroll: 10022
+  roll: 1960
+  scroll: 7824
+  stroll: 14023
+  troll: 19223
+  unroll: 71477
+scored_words:
+  bedroll: 235677
+  jellyroll: 227478
+  steamroll: 260305
+not_scored_words:
+- Carroll
+- beadroll
+- enscroll
+- logroll

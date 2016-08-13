@@ -1,0 +1,28 @@
+---
+pattern: noo_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 948347
+score_per_word: 79028
+hi_scored_words:
+  noodle: 27150
+  noodles: 23650
+  nook: 21013
+  nookie: 68528
+  nooks: 54363
+  noon: 3957
+  noonday: 72634
+  noose: 31465
+scored_words:
+  noodling: 130637
+  noontide: 132842
+  noontime: 114494
+  nooses: 267614
+not_scored_words:
+- Nootka
+- Nootkas
+- noodled
+- noodlehead
+- nooky
+- noons

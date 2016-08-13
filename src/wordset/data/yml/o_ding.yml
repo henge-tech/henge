@@ -1,0 +1,31 @@
+---
+pattern: o_ding
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 1222948
+score_per_word: 101912
+hi_scored_words:
+  offending: 16737
+  offloading: 85649
+  outbuilding: 70294
+  outstanding: 6045
+  overcrowding: 38029
+  overloading: 37769
+  overriding: 23265
+  overspending: 97166
+scored_words:
+  obtruding: 221358
+  occluding: 120872
+  overbuilding: 298249
+  overfeeding: 207515
+not_scored_words:
+- obtunding
+- outbidding
+- outriding
+- outspending
+- outspreading
+- overbidding
+- overclouding
+- overextending
+- overspreading

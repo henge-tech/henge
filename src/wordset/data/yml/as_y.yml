@@ -1,0 +1,61 @@
+---
+pattern: as_y
+hi_scored_words_count: 18
+scored_words_count: 13
+total_words: 51
+score: 3162845
+score_per_word: 102027
+hi_scored_words:
+  ascendancy: 40976
+  ashtray: 28616
+  ashy: 69582
+  assay: 15154
+  assembly: 2055
+  assiduously: 64897
+  associativity: 95227
+  assuredly: 29072
+  astonishingly: 46099
+  astray: 23317
+  astrobiology: 70836
+  astrology: 13022
+  astronomically: 92748
+  astronomy: 7024
+  astrophotography: 69225
+  asymmetry: 26032
+  asymptotically: 51011
+  asynchronously: 79496
+scored_words:
+  aseptically: 220241
+  asexually: 176081
+  asininity: 192318
+  asperity: 161608
+  assertively: 157529
+  assiduity: 185149
+  astoundingly: 100488
+  astringency: 233584
+  astrogeology: 295866
+  astrologically: 238561
+  astrometry: 115303
+  astutely: 139335
+  asymmetrically: 122393
+not_scored_words:
+- Ashley
+- Assembly
+- Assyriology
+- ascetically
+- aseity
+- asexuality
+- ashamedly
+- asininely
+- aspiringly
+- assignability
+- assimilatory
+- associatively
+- assumably
+- assumedly
+- asthmatically
+- astrally
+- astringently
+- astromancy
+- astronautically
+- asymptomatically

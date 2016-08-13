@@ -1,0 +1,63 @@
+---
+pattern: s_cal
+hi_scored_words_count: 19
+scored_words_count: 12
+total_words: 53
+score: 3026363
+score_per_word: 97624
+hi_scored_words:
+  sabbatical: 31261
+  satirical: 25108
+  seismological: 90794
+  serological: 56811
+  skeptical: 16871
+  sociological: 20116
+  sociopolitical: 78664
+  spherical: 16673
+  staphylococcal: 66291
+  statistical: 7175
+  stereotypical: 34676
+  streptococcal: 59796
+  subclinical: 78966
+  subcortical: 88133
+  subtropical: 31445
+  surgical: 7715
+  symbolical: 83826
+  symmetrical: 21378
+  syntactical: 78542
+scored_words:
+  scatological: 169882
+  semantical: 128990
+  semiclassical: 105476
+  sophistical: 186982
+  speleological: 171632
+  stoical: 151519
+  strategical: 132134
+  stratigraphical: 272977
+  subcritical: 118300
+  synodical: 155561
+  synthetical: 296036
+  systematical: 242633
+not_scored_words:
+- Sabbatical
+- satanical
+- scorbutical
+- seismical
+- semasiological
+- semiological
+- semipolitical
+- semitropical
+- seraphical
+- servomechanical
+- sexological
+- simoniacal
+- sociobiological
+- sociometrical
+- soteriological
+- spectroscopical
+- statical
+- subapical
+- subvocal
+- superphysical
+- synecdochical
+- synoptical

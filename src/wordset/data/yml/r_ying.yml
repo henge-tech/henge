@@ -1,0 +1,42 @@
+---
+pattern: r_ying
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 32
+score: 1777255
+score_per_word: 111078
+hi_scored_words:
+  rallying: 28484
+  ratifying: 65693
+  readying: 73660
+  rectifying: 71769
+  relaying: 44240
+  relying: 9168
+  remedying: 84168
+  repaying: 58904
+  replaying: 74013
+  replying: 15642
+scored_words:
+  reapplying: 166518
+  reclassifying: 190469
+  redeploying: 197632
+  reifying: 310863
+  remarrying: 247757
+  retrying: 138275
+not_scored_words:
+- ramifying
+- rarefying
+- reburying
+- recopying
+- reembodying
+- reemploying
+- refortifying
+- reoccupying
+- respraying
+- restudying
+- resupplying
+- resurveying
+- retying
+- reunifying
+- revivifying
+- rigidifying

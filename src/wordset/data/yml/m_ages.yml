@@ -1,0 +1,28 @@
+---
+pattern: m_ages
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 597828
+score_per_word: 54348
+hi_scored_words:
+  macrophages: 25466
+  mages: 41085
+  manages: 10194
+  marriages: 14299
+  massages: 31494
+  messages: 2288
+  miscarriages: 59189
+  montages: 79060
+  mortgages: 9046
+scored_words:
+  mileages: 198078
+  mirages: 127629
+not_scored_words:
+- matrilineages
+- menages
+- messuages
+- metalanguages
+- micromanages
+- mismanages
+- moorages

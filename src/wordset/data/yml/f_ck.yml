@@ -1,0 +1,46 @@
+---
+pattern: f_ck
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 36
+score: 2289759
+score_per_word: 91590
+hi_scored_words:
+  fallback: 40176
+  fastback: 77176
+  feck: 96980
+  feedback: 5488
+  feedstock: 57680
+  fightback: 93383
+  flack: 43100
+  flashback: 23218
+  fleck: 40082
+  flick: 19813
+  flintlock: 85069
+  flock: 9288
+  frock: 45873
+  fuck: 5577
+  fullback: 45074
+scored_words:
+  fatback: 173586
+  fetlock: 204428
+  firebrick: 108408
+  firetruck: 113099
+  flapjack: 139261
+  flyback: 106958
+  foredeck: 194191
+  forelock: 158568
+  frack: 184275
+  futtock: 219008
+not_scored_words:
+- Fitzpatrick
+- Franck
+- Frederick
+- Fredrick
+- fetterlock
+- fiddlestick
+- finback
+- fireback
+- firelock
+- flyspeck
+- fossick

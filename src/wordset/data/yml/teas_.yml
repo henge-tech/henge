@@ -1,0 +1,30 @@
+---
+pattern: teas_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 758516
+score_per_word: 58347
+hi_scored_words:
+  teas: 16850
+  tease: 13474
+  teased: 32305
+  teaser: 18811
+  teasers: 42565
+  teases: 50914
+  teasing: 17603
+  teaspoon: 13016
+  teaspoonful: 82060
+  teaspoons: 32145
+scored_words:
+  teasel: 166894
+  teasingly: 133299
+  teaspoonfuls: 138580
+not_scored_words:
+- Teasdale
+- teaseler
+- teaseller
+- teasels
+- teashop
+- teashops
+- teasings

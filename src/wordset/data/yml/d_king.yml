@@ -1,0 +1,26 @@
+---
+pattern: d_king
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1383582
+score_per_word: 115298
+hi_scored_words:
+  debunking: 53498
+  decking: 37853
+  disliking: 88490
+  docking: 18070
+  dressmaking: 91830
+  drinking: 2457
+  ducking: 43404
+  dunking: 67499
+scored_words:
+  deadlocking: 327547
+  debarking: 302530
+  diking: 225134
+  disembarking: 125270
+not_scored_words:
+- Dorking
+- damasking
+- deerstalking
+- defrocking

@@ -1,0 +1,23 @@
+---
+pattern: hope_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 287159
+score_per_word: 28715
+hi_scored_words:
+  hope: 465
+  hoped: 4924
+  hopeful: 11283
+  hopefully: 6603
+  hopefuls: 48857
+  hopeless: 12250
+  hopelessly: 28222
+  hopelessness: 40152
+  hopes: 3337
+scored_words:
+  hopefulness: 131066
+not_scored_words:
+- Hope
+- Hopeh
+- Hopewell

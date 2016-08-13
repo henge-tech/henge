@@ -1,0 +1,38 @@
+---
+pattern: n_ar
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 28
+score: 1206078
+score_per_word: 80405
+hi_scored_words:
+  near: 475
+  nebular: 94147
+  neckwear: 97991
+  nectar: 19543
+  neuromuscular: 32660
+  nightjar: 88335
+  nightwear: 76442
+  nodular: 64691
+  nonlinear: 16521
+  nuclear: 6120
+  nucleolar: 83559
+scored_words:
+  navicular: 121643
+  neurovascular: 118012
+  nonnuclear: 274707
+  nonpolar: 111232
+not_scored_words:
+- NASCAR
+- Namtar
+- Nebuchadnezzar
+- Nebuchadrezzar
+- Neckar
+- Nicobar
+- navar
+- noncellular
+- nongranular
+- nonsecular
+- nonvascular
+- nuggar
+- nummular

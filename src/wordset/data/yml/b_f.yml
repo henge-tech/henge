@@ -1,0 +1,37 @@
+---
+pattern: b_f
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 27
+score: 836277
+score_per_word: 52267
+hi_scored_words:
+  bailiff: 34054
+  barf: 43043
+  beef: 4136
+  behalf: 2792
+  belief: 2825
+  bf: 10404
+  biff: 36229
+  bluff: 9542
+  bookshelf: 20204
+  brief: 1725
+  broadleaf: 59686
+  buff: 13507
+  bulletproof: 26515
+scored_words:
+  behoof: 185380
+  blastoff: 229277
+  bombproof: 156958
+not_scored_words:
+- BFF
+- Babeuf
+- Banff
+- Benacerraf
+- Beowulf
+- bodysurf
+- breadstuff
+- brushoff
+- bumbailiff
+- bumf
+- burglarproof

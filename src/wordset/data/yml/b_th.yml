@@ -1,0 +1,48 @@
+---
+pattern: b_th
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 38
+score: 1644349
+score_per_word: 65773
+hi_scored_words:
+  bandwidth: 9687
+  bath: 2494
+  behemoth: 36658
+  beneath: 3839
+  bequeath: 51349
+  berth: 18234
+  beth: 7565
+  billionth: 90513
+  birdbath: 94723
+  birth: 1459
+  bismuth: 45191
+  blacksmith: 20666
+  bloodbath: 51269
+  booth: 7215
+  both: 169
+  breadth: 10481
+  breath: 2946
+  broadcloth: 78316
+  broth: 16933
+scored_words:
+  backcloth: 171340
+  badmouth: 208196
+  batholith: 151142
+  betroth: 229438
+  bigmouth: 148690
+  blabbermouth: 185836
+not_scored_words:
+- Baath
+- Barth
+- Bath
+- Bayreuth
+- Beth
+- Beyrouth
+- Bluetooth
+- Booth
+- Bournemouth
+- breechcloth
+- buckteeth
+- bucktooth
+- bypath

@@ -1,0 +1,27 @@
+---
+pattern: fort_s
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 1172485
+score_per_word: 90191
+hi_scored_words:
+  fortes: 94120
+  forties: 42928
+  fortifications: 36091
+  fortis: 50183
+  fortress: 8853
+  fortresses: 50954
+  forts: 23139
+  fortuitous: 48991
+  fortunes: 11576
+scored_words:
+  forthrightness: 233401
+  fortifiers: 281731
+  fortifies: 155524
+  fortnights: 134994
+not_scored_words:
+- forthcomingness
+- fortieths
+- fortuitousness
+- fortunetellers

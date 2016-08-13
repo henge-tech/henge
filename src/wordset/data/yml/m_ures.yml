@@ -1,0 +1,19 @@
+---
+pattern: m_ures
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 271161
+score_per_word: 33895
+hi_scored_words:
+  manicures: 36330
+  manufactures: 16068
+  manures: 85045
+  matures: 31002
+  measures: 1634
+  miniatures: 20476
+  misadventures: 60823
+  mixtures: 19783
+scored_words: {}
+not_scored_words:
+- misfeatures

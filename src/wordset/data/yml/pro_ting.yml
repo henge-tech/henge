@@ -1,0 +1,33 @@
+---
+pattern: pro_ting
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 23
+score: 1306680
+score_per_word: 76863
+hi_scored_words:
+  procrastinating: 58692
+  profiting: 44816
+  prohibiting: 19815
+  projecting: 16293
+  proliferating: 56190
+  promoting: 3758
+  prompting: 23427
+  promulgating: 84560
+  propagating: 31454
+  prosecuting: 25128
+  prospecting: 29942
+  protecting: 5076
+  protesting: 20447
+scored_words:
+  procreating: 256922
+  prorating: 214855
+  prostituting: 227865
+  prostrating: 187440
+not_scored_words:
+- probating
+- prognosticating
+- pronating
+- propitiating
+- proselyting
+- protracting

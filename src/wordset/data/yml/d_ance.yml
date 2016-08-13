@@ -1,0 +1,28 @@
+---
+pattern: d_ance
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 18
+score: 958171
+score_per_word: 59885
+hi_scored_words:
+  dalliance: 93245
+  dance: 1211
+  defiance: 13113
+  deliverance: 24326
+  deviance: 43838
+  disallowance: 94028
+  disappearance: 17026
+  discontinuance: 57537
+  dissonance: 38905
+  distance: 845
+  disturbance: 9423
+  dominance: 16927
+  durance: 80674
+scored_words:
+  defeasance: 173178
+  discordance: 123513
+  discountenance: 170382
+not_scored_words:
+- disinheritance
+- dissemblance

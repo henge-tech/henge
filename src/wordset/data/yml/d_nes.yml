@@ -1,0 +1,47 @@
+---
+pattern: d_nes
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 37
+score: 875857
+score_per_word: 67373
+hi_scored_words:
+  deadlines: 11556
+  declines: 16354
+  defines: 9195
+  determines: 7514
+  dines: 78708
+  disciplines: 16699
+  divines: 81622
+  doctrines: 13043
+  drones: 36026
+  dunes: 18227
+scored_words:
+  datelines: 228483
+  destines: 242999
+  dynes: 115431
+not_scored_words:
+- Damascenes
+- Danes
+- Demosthenes
+- Dessalines
+- Dexedrines
+- Dictaphones
+- Diogenes
+- Dramamines
+- damascenes
+- daphnes
+- demesnes
+- demimondaines
+- deplanes
+- depones
+- dessiatines
+- dethrones
+- dexamethasones
+- diamines
+- diaphones
+- disinclines
+- dogbanes
+- doggones
+- dopamines
+- doyennes

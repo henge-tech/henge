@@ -1,0 +1,42 @@
+---
+pattern: co_ned
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 32
+score: 2319440
+score_per_word: 85905
+hi_scored_words:
+  coined: 21464
+  combined: 2195
+  commissioned: 8178
+  complained: 8551
+  concerned: 1766
+  condemned: 8146
+  conditioned: 13233
+  condoned: 56991
+  confined: 6519
+  conjoined: 57869
+  conned: 63064
+  consigned: 40238
+  constrained: 10869
+  contained: 1914
+  contravened: 89448
+  convened: 18868
+  cordoned: 98950
+  corned: 57347
+scored_words:
+  coarsened: 300107
+  cocooned: 192440
+  columned: 163472
+  communed: 192761
+  complexioned: 227032
+  coned: 162445
+  contemned: 128355
+  cottoned: 273058
+  countersigned: 114160
+not_scored_words:
+- coffined
+- cologned
+- cosigned
+- countermined
+- cozened

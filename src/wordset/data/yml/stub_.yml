@@ -1,0 +1,26 @@
+---
+pattern: stub_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 529818
+score_per_word: 58868
+hi_scored_words:
+  stub: 21680
+  stubbed: 97420
+  stubble: 36949
+  stubborn: 14147
+  stubbornly: 42010
+  stubbornness: 55482
+  stubby: 51342
+  stubs: 29345
+scored_words:
+  stubbing: 181443
+not_scored_words:
+- stubbier
+- stubbiest
+- stubbiness
+- stubbinesses
+- stubbly
+- stubborner
+- stubbornest

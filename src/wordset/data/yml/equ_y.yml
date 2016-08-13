@@ -1,0 +1,26 @@
+---
+pattern: equ_y
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 16
+score: 287815
+score_per_word: 35976
+hi_scored_words:
+  equality: 4706
+  equally: 3046
+  equanimity: 54084
+  equerry: 78760
+  equitably: 58629
+  equity: 4804
+  equivalency: 39878
+  equivalently: 43908
+scored_words: {}
+not_scored_words:
+- Equity
+- equability
+- equably
+- equidistantly
+- equitability
+- equivocality
+- equivocally
+- equivocatory

@@ -1,0 +1,44 @@
+---
+pattern: _lary
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 34
+score: 1967777
+score_per_word: 85555
+hi_scored_words:
+  ancillary: 19922
+  axillary: 43795
+  burglary: 19985
+  capillary: 24647
+  clary: 52806
+  constabulary: 43126
+  corollary: 23863
+  epistolary: 84012
+  exemplary: 15091
+  formulary: 45057
+  maxillary: 50118
+  medullary: 63589
+  papillary: 54094
+  salary: 3333
+  vocabulary: 7272
+scored_words:
+  alary: 318830
+  armillary: 153802
+  bacillary: 154940
+  fritillary: 100189
+  intercalary: 174296
+  pupillary: 111391
+  submaxillary: 244619
+  tutelary: 159000
+not_scored_words:
+- Hilary
+- Hillary
+- capitulary
+- cartulary
+- chartulary
+- codicillary
+- glary
+- mammillary
+- preambulary
+- subaxillary
+- titulary

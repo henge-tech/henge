@@ -1,0 +1,32 @@
+---
+pattern: m_nic
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1506708
+score_per_word: 94169
+hi_scored_words:
+  manic: 21319
+  masonic: 21501
+  mechanic: 9931
+  messianic: 35225
+  microelectronic: 80910
+  mnemonic: 35380
+  monophonic: 44337
+  monotonic: 49444
+  moronic: 47994
+  multiethnic: 80048
+  mutagenic: 63758
+scored_words:
+  macaronic: 152380
+  monogenic: 168435
+  morphogenic: 315016
+  myasthenic: 262846
+  myogenic: 118184
+not_scored_words:
+- Magellanic
+- Masonic
+- Messianic
+- Miltonic
+- megalomanic
+- melanic

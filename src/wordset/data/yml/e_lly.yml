@@ -1,0 +1,102 @@
+---
+pattern: e_lly
+hi_scored_words_count: 25
+scored_words_count: 23
+total_words: 92
+score: 5074124
+score_per_word: 105710
+hi_scored_words:
+  ecologically: 36013
+  economically: 11800
+  educationally: 56932
+  effectually: 45834
+  electrically: 29068
+  electronically: 7872
+  emotionally: 18614
+  emphatically: 32950
+  empirically: 27043
+  energetically: 50644
+  enthusiastically: 24885
+  environmentally: 15489
+  equally: 3046
+  ergonomically: 77792
+  erratically: 81950
+  especially: 681
+  essentially: 4169
+  eternally: 27245
+  ethically: 35028
+  ethnically: 37546
+  eventually: 3140
+  exceptionally: 12484
+  experimentally: 25272
+  exponentially: 25883
+  externally: 18516
+scored_words:
+  eccentrically: 211983
+  eclectically: 331345
+  ecstatically: 151879
+  editorially: 110970
+  elastically: 149189
+  electorally: 215854
+  electrochemically: 211899
+  electromagnetically: 230287
+  electrostatically: 160102
+  elliptically: 214948
+  enigmatically: 188876
+  enzymatically: 132654
+  episodically: 270208
+  epistemically: 228385
+  epistemologically: 242946
+  erotically: 139625
+  esoterically: 292660
+  etymologically: 125125
+  euphemistically: 105501
+  evilly: 101205
+  existentially: 137545
+  exotically: 244027
+  experientially: 167015
+not_scored_words:
+- ecclesiastically
+- ecumenically
+- egocentrically
+- egoistically
+- egomaniacally
+- egotistically
+- eidetically
+- electrolytically
+- elegiacally
+- elementally
+- emblematically
+- embryonically
+- empathetically
+- empathically
+- enclitically
+- encomiastically
+- encyclopedically
+- endemically
+- entrepreneurially
+- entropically
+- enzymically
+- ephemerally
+- epically
+- epidemically
+- epithetically
+- equivocally
+- erosionally
+- eschatologically
+- ethereally
+- ethnocentrically
+- ethnographically
+- ethnologically
+- etiologically
+- eugenically
+- euphorically
+- euphuistically
+- evangelically
+- evangelistically
+- eventfully
+- exhibitionistically
+- exothermically
+- extensionally
+- extralegally
+- extrinsically

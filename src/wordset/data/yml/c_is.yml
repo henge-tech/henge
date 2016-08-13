@@ -1,0 +1,102 @@
+---
+pattern: c_is
+hi_scored_words_count: 24
+scored_words_count: 19
+total_words: 92
+score: 4246536
+score_per_word: 98756
+hi_scored_words:
+  caddis: 76055
+  cannabis: 19449
+  carcinogenesis: 45443
+  cassis: 55674
+  catalysis: 34202
+  catharsis: 53778
+  cellulitis: 76304
+  challis: 71948
+  chamois: 41740
+  chassis: 8843
+  chemotaxis: 67503
+  chis: 90246
+  cholecystitis: 90259
+  chrysalis: 39490
+  cirrhosis: 28817
+  clematis: 39925
+  clitoris: 22558
+  colitis: 29979
+  conjunctivitis: 46422
+  coulis: 91275
+  crisis: 2802
+  cryptanalysis: 76589
+  cyanosis: 79525
+  cystitis: 49010
+scored_words:
+  calamaris: 131053
+  carcinomatosis: 293351
+  caulis: 192330
+  cedis: 189436
+  cervicitis: 189438
+  chemoprophylaxis: 151703
+  chlorosis: 131604
+  classis: 115299
+  clevis: 112783
+  coccidioidomycosis: 157502
+  coccidiosis: 160786
+  coreopsis: 124759
+  corgis: 118957
+  corydalis: 179729
+  cosmopolis: 137039
+  cullis: 185903
+  cutis: 105789
+  cytokinesis: 109261
+  cytolysis: 221978
+not_scored_words:
+- Calais
+- Camelopardalis
+- Capricornis
+- Capris
+- Cenis
+- Chablis
+- Chalcis
+- Charolais
+- Charybdis
+- Cheremis
+- Chiantis
+- Chris
+- Clovis
+- Colchis
+- Coriolis
+- Cornwallis
+- Corvallis
+- Curtis
+- caenogenesis
+- calliopsis
+- cantoris
+- caravansarais
+- carditis
+- caryopsis
+- catabasis
+- catachresis
+- catamnesis
+- cataphoresis
+- cathexis
+- cenogenesis
+- cerebritis
+- certioraris
+- chapatis
+- chapattis
+- charivaris
+- chemosmosis
+- chemosynthesis
+- chichis
+- chigetais
+- choroiditis
+- chromatolysis
+- cnemis
+- coatis
+- coccis
+- colpitis
+- crasis
+- cryptoanalysis
+- cyclosis
+- cytogenesis

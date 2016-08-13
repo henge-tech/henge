@@ -1,0 +1,39 @@
+---
+pattern: sh_ts
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 29
+score: 1327792
+score_per_word: 66389
+hi_scored_words:
+  shafts: 22505
+  shallots: 49800
+  sheets: 3583
+  shifts: 9389
+  shipments: 16138
+  shirts: 3375
+  shits: 43870
+  shoots: 10482
+  shortcuts: 10686
+  shorts: 13333
+  shots: 3282
+  shouts: 11788
+  shunts: 82181
+  shutouts: 63473
+  shuts: 21737
+scored_words:
+  sherbets: 246227
+  shipwrights: 187243
+  shootouts: 100141
+  shopfronts: 254696
+  shortlists: 173863
+not_scored_words:
+- Shebats
+- Shintoists
+- shakeouts
+- shinsplints
+- shirtfronts
+- shirtwaists
+- shoats
+- shoplifts
+- showboats

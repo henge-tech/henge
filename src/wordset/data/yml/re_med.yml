@@ -1,0 +1,22 @@
+---
+pattern: re_med
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 392885
+score_per_word: 43653
+hi_scored_words:
+  reaffirmed: 33175
+  reamed: 85149
+  reclaimed: 24472
+  redeemed: 20093
+  reformed: 13587
+  renamed: 10068
+  reprogrammed: 91534
+  resumed: 10260
+scored_words:
+  reconfirmed: 104547
+not_scored_words:
+- Reformed
+- rearmed
+- rewarmed

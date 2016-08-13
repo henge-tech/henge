@@ -1,0 +1,26 @@
+---
+pattern: bac_t
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 779518
+score_per_word: 77951
+hi_scored_words:
+  baccarat: 26253
+  backbeat: 88629
+  backcourt: 87780
+  backlight: 37391
+  backrest: 77495
+  backseat: 31209
+  backstreet: 19149
+  bact: 79899
+scored_words:
+  backset: 174618
+  bacteriologist: 157095
+not_scored_words:
+- bacchant
+- backbit
+- backchat
+- backsight
+- backswept
+- bacteriostat

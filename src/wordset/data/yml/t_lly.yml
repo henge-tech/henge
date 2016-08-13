@@ -1,0 +1,79 @@
+---
+pattern: t_lly
+hi_scored_words_count: 27
+scored_words_count: 22
+total_words: 69
+score: 5148799
+score_per_word: 105077
+hi_scored_words:
+  tactfully: 89429
+  tactically: 59799
+  tally: 17474
+  tangentially: 95704
+  tastefully: 38436
+  technically: 10169
+  technologically: 24648
+  telly: 30084
+  temporally: 50741
+  terminally: 35096
+  thankfully: 17464
+  theatrically: 71787
+  thematically: 64237
+  theologically: 58274
+  theoretically: 16377
+  therapeutically: 85404
+  thermally: 42224
+  thoughtfully: 23933
+  tolly: 99167
+  topically: 62339
+  topologically: 87867
+  totally: 2464
+  traditionally: 12895
+  tragically: 32618
+  trivially: 59876
+  truthfully: 31235
+  typically: 8345
+scored_words:
+  taxonomically: 190699
+  tearfully: 103184
+  tectonically: 243425
+  telepathically: 100178
+  telephonically: 144461
+  temperamentally: 182741
+  terrifically: 111037
+  territorially: 129350
+  textually: 117196
+  thermodynamically: 133479
+  thermostatically: 176279
+  tidally: 181125
+  tonally: 215976
+  topographically: 155616
+  toxicologically: 327647
+  tranquilly: 177532
+  transcendentally: 147300
+  transcriptionally: 149210
+  tribally: 165542
+  tropically: 276437
+  trustfully: 258559
+  typographically: 233740
+not_scored_words:
+- tautologically
+- telegraphically
+- telescopically
+- terminologically
+- terrestrially
+- texturally
+- theocratically
+- theosophically
+- thermometrically
+- titanically
+- tonically
+- torsionally
+- toxically
+- tragicomically
+- transitionally
+- traumatically
+- triennially
+- tunefully
+- typologically
+- tyrannically

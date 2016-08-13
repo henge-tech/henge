@@ -1,0 +1,21 @@
+---
+pattern: fa_ion
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 424266
+score_per_word: 47140
+hi_scored_words:
+  fabrication: 15067
+  facilitation: 21455
+  faction: 15974
+  factorization: 42033
+  falsification: 51010
+  familiarization: 88285
+  fascination: 15419
+  fashion: 1316
+scored_words:
+  falchion: 173707
+not_scored_words:
+- fanion
+- fasciation

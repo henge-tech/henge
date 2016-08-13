@@ -1,0 +1,59 @@
+---
+pattern: c_als
+hi_scored_words_count: 21
+scored_words_count: 8
+total_words: 49
+score: 2320146
+score_per_word: 80005
+hi_scored_words:
+  canals: 17088
+  cannibals: 46887
+  capitals: 14724
+  cardinals: 10970
+  carnivals: 48871
+  casuals: 54994
+  cathedrals: 36154
+  cereals: 21272
+  chemicals: 6803
+  coals: 33727
+  colonials: 54328
+  commercials: 9550
+  conceals: 50670
+  conditionals: 62367
+  corals: 31277
+  cordials: 99087
+  corrals: 97243
+  credentials: 12280
+  criminals: 10831
+  crystals: 9167
+  cymbals: 30783
+scored_words:
+  cabals: 231410
+  centrals: 183537
+  ceremonials: 206533
+  charcoals: 226553
+  chorals: 259535
+  confessionals: 162217
+  continentals: 157843
+  corporals: 133445
+not_scored_words:
+- Casals
+- canonicals
+- caracals
+- carousals
+- carpals
+- centals
+- centennials
+- chaparrals
+- clericals
+- coequals
+- coevals
+- commensals
+- committals
+- congeals
+- constitutionals
+- copals
+- coronals
+- coucals
+- counterproposals
+- cyclicals

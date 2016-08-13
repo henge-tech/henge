@@ -1,0 +1,30 @@
+---
+pattern: b_ood
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1285367
+score_per_word: 91811
+hi_scored_words:
+  basswood: 84536
+  beechwood: 56057
+  blood: 655
+  boxwood: 66015
+  boyhood: 28575
+  briarwood: 86054
+  brood: 17870
+  brotherhood: 12431
+  brushwood: 86400
+scored_words:
+  babyhood: 146104
+  baywood: 118211
+  bearwood: 242656
+  bentwood: 157522
+  buttonwood: 182281
+not_scored_words:
+- Blackwood
+- Bollywood
+- Brentwood
+- bachelorhood
+- beefwood
+- brierwood

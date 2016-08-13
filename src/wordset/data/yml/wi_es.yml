@@ -1,0 +1,52 @@
+---
+pattern: wi_es
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 42
+score: 2004483
+score_per_word: 91112
+hi_scored_words:
+  wiggles: 37024
+  wildfires: 46437
+  wiles: 41875
+  willies: 71479
+  winches: 48284
+  wineries: 27135
+  wines: 7048
+  wipes: 22559
+  wires: 10833
+  wishes: 3327
+  witches: 14654
+  witnesses: 4855
+  wives: 4971
+scored_words:
+  wides: 145228
+  wildernesses: 120979
+  winces: 161684
+  windlasses: 202365
+  windowpanes: 251474
+  winkles: 232152
+  wises: 162969
+  wishbones: 164960
+  withes: 222191
+not_scored_words:
+- Wiles
+- Wilkes
+- Winnebagoes
+- Wisconsinites
+- wicopies
+- wienies
+- willowwares
+- wimbles
+- wimples
+- windages
+- windpipes
+- wineglasses
+- winepresses
+- winterizes
+- wirelesses
+- wiseacres
+- wishfulnesses
+- witchgrasses
+- withies
+- wizes

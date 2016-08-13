@@ -1,0 +1,26 @@
+---
+pattern: rest_g
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 703312
+score_per_word: 70331
+hi_scored_words:
+  restarting: 32885
+  restating: 95436
+  resting: 8046
+  restocking: 39980
+  restoring: 11595
+  restraining: 22296
+  restricting: 20012
+  restructuring: 8979
+scored_words:
+  restringing: 315154
+  restyling: 148929
+not_scored_words:
+- restaffing
+- restitching
+- restrengthening
+- restring
+- restrung
+- restudying

@@ -1,0 +1,28 @@
+---
+pattern: ins_ts
+hi_scored_words_count: 14
+scored_words_count: 0
+total_words: 18
+score: 450304
+score_per_word: 32164
+hi_scored_words:
+  insects: 6532
+  inserts: 20140
+  insets: 86136
+  insights: 6436
+  insists: 14461
+  inspects: 54365
+  installments: 34236
+  instants: 75751
+  instincts: 13971
+  instructs: 35072
+  instrumentalists: 69911
+  instruments: 2112
+  insults: 15630
+  insurgents: 15551
+scored_words: {}
+not_scored_words:
+- insolvents
+- inspirits
+- instillments
+- insurrectionists

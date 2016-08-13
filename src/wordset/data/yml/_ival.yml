@@ -1,0 +1,31 @@
+---
+pattern: _ival
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 21
+score: 883371
+score_per_word: 73614
+hi_scored_words:
+  adjectival: 81567
+  archival: 13894
+  arrival: 2691
+  carnival: 9747
+  conjunctival: 90170
+  festival: 2598
+  revival: 8483
+  rival: 6075
+  survival: 5426
+scored_words:
+  archrival: 150205
+  infinitival: 258957
+  nival: 253558
+not_scored_words:
+- Percival
+- agentival
+- corrival
+- estival
+- genitival
+- imperatival
+- nonarrival
+- ogival
+- substantival

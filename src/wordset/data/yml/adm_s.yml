@@ -1,0 +1,35 @@
+---
+pattern: adm_s
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 25
+score: 1080354
+score_per_word: 77168
+hi_scored_words:
+  administers: 31436
+  administrations: 23138
+  administrators: 9960
+  admins: 16095
+  admirals: 45041
+  admirers: 33052
+  admires: 48881
+  admissions: 10048
+  admits: 10790
+  admixtures: 69016
+  admonitions: 80736
+scored_words:
+  administrates: 293820
+  admonishes: 124090
+  admonishments: 284251
+not_scored_words:
+- Admetus
+- admass
+- admasses
+- admeasures
+- admirabilities
+- admirableness
+- admirablenesses
+- admissibleness
+- admittances
+- admixes
+- admonishers

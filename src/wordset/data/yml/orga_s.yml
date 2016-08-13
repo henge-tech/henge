@@ -1,0 +1,23 @@
+---
+pattern: orga_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 502643
+score_per_word: 45694
+hi_scored_words:
+  organelles: 58866
+  organics: 28416
+  organisms: 9037
+  organists: 89646
+  organizations: 2560
+  organizers: 20511
+  organizes: 24103
+  organs: 6465
+  orgasms: 16922
+scored_words:
+  organogenesis: 124143
+  organophosphorus: 121974
+not_scored_words:
+- organicisms
+- organons

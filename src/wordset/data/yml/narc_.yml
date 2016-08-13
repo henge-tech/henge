@@ -1,0 +1,39 @@
+---
+pattern: narc_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 29
+score: 708858
+score_per_word: 64441
+hi_scored_words:
+  narc: 57696
+  narcissism: 40361
+  narcissist: 50591
+  narcissistic: 42778
+  narcissus: 36303
+  narcolepsy: 57270
+  narcotic: 24008
+  narcotics: 25860
+scored_words:
+  narcissists: 109116
+  narcoleptic: 164656
+  narcosis: 100219
+not_scored_words:
+- Narcissus
+- narceine
+- narcissistically
+- narcoanalysis
+- narcoleptics
+- narcoma
+- narcose
+- narcoses
+- narcosynthesis
+- narcotically
+- narcotism
+- narcotization
+- narcotize
+- narcotized
+- narcotizes
+- narcotizing
+- narcotrafficking
+- narcs

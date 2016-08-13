@@ -1,0 +1,28 @@
+---
+pattern: _seed
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 1014081
+score_per_word: 92189
+hi_scored_words:
+  aniseed: 86668
+  cottonseed: 72591
+  flaxseed: 65757
+  hayseed: 77497
+  linseed: 50922
+  oilseed: 66052
+  rapeseed: 61366
+  seed: 2850
+scored_words:
+  birdseed: 129244
+  pumpkinseed: 233481
+  reseed: 167653
+not_scored_words:
+- Appleseed
+- allseed
+- axseed
+- fricasseed
+- moonseed
+- stickseed
+- wormseed

@@ -1,0 +1,51 @@
+---
+pattern: here_
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 41
+score: 1947169
+score_per_word: 72117
+hi_scored_words:
+  here: 73
+  hereafter: 12005
+  hereby: 7395
+  hereditary: 14195
+  heredity: 29034
+  herein: 7148
+  hereinafter: 26434
+  hereof: 39167
+  heres: 22864
+  heresies: 57701
+  heresy: 20209
+  heretic: 25996
+  heretical: 36584
+  heretics: 38251
+  hereto: 49996
+  heretofore: 25592
+  hereunder: 27955
+  hereunto: 94190
+  hereupon: 76345
+  herewith: 36600
+scored_words:
+  hereabout: 135679
+  hereabouts: 117555
+  hereditament: 294492
+  hereditaments: 212808
+  hereditarily: 275599
+  hereinbefore: 144638
+  hereon: 118664
+not_scored_words:
+- Here
+- Hereford
+- Herefords
+- Herefordshire
+- Herero
+- hereafters
+- hereat
+- heredes
+- hereditable
+- hereditarianism
+- hereditariness
+- hereinto
+- heresiarch
+- heretically

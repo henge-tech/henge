@@ -1,0 +1,28 @@
+---
+pattern: tran_l
+hi_scored_words_count: 14
+scored_words_count: 1
+total_words: 18
+score: 825639
+score_per_word: 55042
+hi_scored_words:
+  tranquil: 16528
+  transactional: 29087
+  transcendental: 25551
+  transcontinental: 45382
+  transcriptional: 27810
+  transdermal: 60876
+  transformational: 38891
+  transitional: 15042
+  transl: 43071
+  translational: 33524
+  transmittal: 51307
+  transnational: 22336
+  transsexual: 15399
+  transversal: 59832
+scored_words:
+  transferal: 341003
+not_scored_words:
+- Transvaal
+- transeptal
+- transposal

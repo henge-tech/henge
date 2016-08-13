@@ -1,0 +1,40 @@
+---
+pattern: sle_s
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 30
+score: 1918714
+score_per_word: 112865
+hi_scored_words:
+  sleds: 51336
+  sleepers: 31738
+  sleepiness: 60301
+  sleepless: 22272
+  sleeplessness: 64726
+  sleeps: 8088
+  sleeveless: 25693
+  sleeves: 13984
+  sleuths: 80716
+scored_words:
+  sledgehammers: 271436
+  sledges: 104201
+  sleepovers: 105548
+  sleepwalkers: 207277
+  sleighs: 135286
+  sleights: 207996
+  slenderness: 209233
+  slews: 318883
+not_scored_words:
+- sleazebags
+- sleazeballs
+- sleazes
+- sleaziness
+- sledders
+- sleekness
+- sleeks
+- sleepings
+- sleepwalks
+- sleepyheads
+- sleets
+- slenderizes
+- sleuthhounds

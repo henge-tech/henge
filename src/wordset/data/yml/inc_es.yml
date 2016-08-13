@@ -1,0 +1,56 @@
+---
+pattern: inc_es
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 46
+score: 2254311
+score_per_word: 112715
+hi_scored_words:
+  incentives: 10047
+  inches: 2103
+  incidences: 51392
+  incites: 98572
+  inclines: 73429
+  includes: 1422
+  incomes: 13123
+  incompatibilities: 63381
+  inconsistencies: 23638
+  inconveniences: 51573
+  incorporates: 11226
+  increases: 8509
+scored_words:
+  incarnates: 257789
+  incendiaries: 197678
+  incenses: 171909
+  incompatibles: 235022
+  incongruities: 166152
+  incubates: 253430
+  incudes: 327712
+  inculcates: 236204
+not_scored_words:
+- incapablenesses
+- incapacitates
+- incarcerates
+- incarnadines
+- incautiousnesses
+- incessancies
+- incessantnesses
+- incinerates
+- incipiencies
+- incises
+- incivilities
+- incoherencies
+- incommodes
+- incompressibilities
+- inconsequences
+- incontrovertibilities
+- incorporealities
+- incrediblenesses
+- incriminates
+- incubuses
+- inculpates
+- incumbencies
+- incurabilities
+- incurables
+- incurrences
+- incuses

@@ -1,0 +1,25 @@
+---
+pattern: appr_e
+hi_scored_words_count: 11
+scored_words_count: 0
+total_words: 15
+score: 282753
+score_per_word: 25704
+hi_scored_words:
+  appraise: 42378
+  appreciable: 29773
+  appreciate: 3240
+  appreciative: 24827
+  apprehensive: 30177
+  apprentice: 10328
+  apprise: 80493
+  approachable: 45426
+  appropriate: 1751
+  approve: 4926
+  approximate: 9434
+scored_words: {}
+not_scored_words:
+- appraisable
+- apprehensible
+- approbate
+- approbative

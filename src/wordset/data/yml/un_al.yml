@@ -1,0 +1,73 @@
+---
+pattern: un_al
+hi_scored_words_count: 23
+scored_words_count: 21
+total_words: 63
+score: 5299237
+score_per_word: 120437
+hi_scored_words:
+  uncial: 96388
+  unconditional: 18294
+  unconstitutional: 16945
+  unconventional: 22101
+  uncritical: 59251
+  unemotional: 93527
+  unequal: 16306
+  unequivocal: 35581
+  unethical: 25538
+  ungrammatical: 97535
+  unhistorical: 76716
+  uniaxial: 89460
+  unicameral: 66091
+  unidirectional: 42824
+  unilateral: 19929
+  unintentional: 28384
+  universal: 1757
+  unnatural: 16175
+  unofficial: 13577
+  unoriginal: 66916
+  unprofessional: 42563
+  unreal: 10414
+  unusual: 3122
+scored_words:
+  uncommercial: 288061
+  uncongenial: 204994
+  uncontroversial: 106149
+  uneconomical: 112977
+  unessential: 244213
+  unexceptional: 131920
+  unilingual: 210364
+  unisexual: 254445
+  univocal: 184914
+  unmusical: 254760
+  unpoetical: 259691
+  unpractical: 198428
+  unseal: 234941
+  unseasonal: 298593
+  unsentimental: 133325
+  unsocial: 161367
+  unspiritual: 288652
+  unsubstantial: 187875
+  unsymmetrical: 224276
+  untraditional: 174498
+  untypical: 185400
+not_scored_words:
+- Uncial
+- Uniroyal
+- uncanonical
+- unclassical
+- undenominational
+- unfilial
+- ungual
+- unideal
+- uniliteral
+- uninfluential
+- unintellectual
+- unipersonal
+- unmethodical
+- unmoral
+- unpolitical
+- unpunctual
+- unsensational
+- unsexual
+- unsystematical

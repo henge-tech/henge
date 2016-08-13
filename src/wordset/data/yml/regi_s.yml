@@ -1,0 +1,24 @@
+---
+pattern: regi_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 525765
+score_per_word: 47796
+hi_scored_words:
+  regimens: 34120
+  regiments: 21874
+  regimes: 12260
+  regions: 2290
+  registers: 11400
+  registrants: 49423
+  registrars: 34340
+  registrations: 16229
+  registries: 31682
+scored_words:
+  regicides: 120275
+  regimentals: 191872
+not_scored_words:
+- Regiomontanus
+- Regis
+- regionalisms

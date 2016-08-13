@@ -1,0 +1,56 @@
+---
+pattern: wat_s
+hi_scored_words_count: 18
+scored_words_count: 12
+total_words: 46
+score: 3101368
+score_per_word: 103378
+hi_scored_words:
+  watchdogs: 64393
+  watchers: 19574
+  watches: 3724
+  watchfulness: 89253
+  waterbirds: 97367
+  watercolors: 39966
+  watercourses: 58550
+  watercress: 53031
+  waterfalls: 22605
+  waterless: 72894
+  watermarks: 50739
+  watermelons: 63788
+  waterproofs: 86261
+  waters: 2500
+  watersheds: 31243
+  waterways: 19429
+  waterworks: 38165
+  watts: 9179
+scored_words:
+  watchbands: 179295
+  watchmakers: 112818
+  watchtowers: 151937
+  watchwords: 184595
+  waterbeds: 163201
+  waterfronts: 174437
+  waterholes: 173206
+  waterings: 274552
+  waterlilies: 207562
+  waterlines: 271283
+  waterspouts: 273606
+  wattles: 112215
+not_scored_words:
+- WATS
+- Waterloos
+- Waters
+- Watkins
+- Watts
+- watchstraps
+- waterboardings
+- waterboards
+- waterbucks
+- watercolorists
+- waterfowls
+- wateriness
+- waterloos
+- watermills
+- watersides
+- waterwheels

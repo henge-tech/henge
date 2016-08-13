@@ -1,0 +1,26 @@
+---
+pattern: l_ned
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 16
+score: 889814
+score_per_word: 63558
+hi_scored_words:
+  leaned: 12087
+  learned: 1590
+  lengthened: 47170
+  lessened: 36838
+  lightened: 55937
+  likened: 36916
+  lined: 6276
+  listened: 5364
+  loaned: 28308
+  loosened: 39313
+scored_words:
+  lampooned: 165532
+  leavened: 101166
+  limned: 135203
+  livened: 218114
+not_scored_words:
+- lamebrained
+- lichened

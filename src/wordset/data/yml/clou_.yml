@@ -1,0 +1,36 @@
+---
+pattern: clou_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 26
+score: 1234305
+score_per_word: 88164
+hi_scored_words:
+  cloud: 3175
+  clouded: 33027
+  cloudiness: 70456
+  clouding: 79987
+  cloudless: 54476
+  clouds: 3797
+  cloudy: 5923
+  clough: 40448
+  clout: 30523
+scored_words:
+  cloudberry: 133425
+  cloudburst: 132642
+  cloudier: 219513
+  cloudland: 269038
+  cloudscape: 157875
+not_scored_words:
+- Clouet
+- Clough
+- Clouseau
+- cloudberries
+- cloudbursts
+- cloudiest
+- cloudily
+- cloudlet
+- cloudscapes
+- clouted
+- clouting
+- clouts

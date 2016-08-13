@@ -1,0 +1,84 @@
+---
+pattern: _cope
+hi_scored_words_count: 15
+scored_words_count: 12
+total_words: 74
+score: 3012368
+score_per_word: 111569
+hi_scored_words:
+  bioscope: 99440
+  cope: 7883
+  endoscope: 79813
+  fluoroscope: 95986
+  gyroscope: 52283
+  horoscope: 17929
+  kaleidoscope: 32181
+  laryngoscope: 81561
+  microscope: 11647
+  oscilloscope: 41046
+  periscope: 49687
+  scope: 3551
+  stethoscope: 37418
+  syncope: 52569
+  telescope: 8008
+scored_words:
+  apocope: 197058
+  arthroscope: 317904
+  bronchoscope: 235669
+  chronoscope: 208181
+  electroscope: 222045
+  laparoscope: 211144
+  ophthalmoscope: 120641
+  otoscope: 174243
+  polariscope: 131391
+  spectroscope: 121903
+  stereoscope: 124899
+  stroboscope: 276288
+not_scored_words:
+- CinemaScope
+- Cinemascope
+- aeroscope
+- amblyoscope
+- anamorphoscope
+- anemoscope
+- auriscope
+- baroscope
+- cryoscope
+- cystoscope
+- dichroscope
+- epidiascope
+- fetoscope
+- galvanoscope
+- gastroscope
+- hagioscope
+- hydroscope
+- hygroscope
+- iconoscope
+- kinescope
+- lactoscope
+- nephoscope
+- orthoscope
+- pericope
+- pharyngoscope
+- phonoscope
+- phosphoroscope
+- photomicroscope
+- proctoscope
+- pseudoscope
+- radarscope
+- radioscope
+- retinoscope
+- roentgenoscope
+- seismoscope
+- skiascope
+- sniperscope
+- snooperscope
+- spectrohelioscope
+- spinthariscope
+- synchroscope
+- tachistoscope
+- telespectroscope
+- thermoscope
+- ultramicroscope
+- urethroscope
+- vitascope

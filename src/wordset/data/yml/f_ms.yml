@@ -1,0 +1,37 @@
+---
+pattern: f_ms
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 27
+score: 753331
+score_per_word: 53809
+hi_scored_words:
+  farms: 5051
+  fathoms: 54923
+  films: 6959
+  firearms: 11131
+  firms: 4999
+  foams: 50317
+  forearms: 60428
+  formalisms: 87112
+  forms: 904
+  forums: 2015
+  freedoms: 19033
+scored_words:
+  fandoms: 125897
+  fiefdoms: 164663
+  flatworms: 159899
+not_scored_words:
+- FMs
+- Fabianisms
+- factotums
+- ferromagnetisms
+- firestorms
+- fishworms
+- flimflams
+- foliums
+- foredooms
+- frustums
+- fulcrums
+- fums
+- functionalisms

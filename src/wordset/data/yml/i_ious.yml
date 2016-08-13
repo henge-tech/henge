@@ -1,0 +1,35 @@
+---
+pattern: i_ious
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 25
+score: 1780666
+score_per_word: 89033
+hi_scored_words:
+  ignominious: 74605
+  illustrious: 19914
+  imperious: 53356
+  impervious: 28428
+  impious: 57863
+  inauspicious: 89644
+  industrious: 32320
+  infectious: 9813
+  ingenious: 16765
+  injurious: 26886
+  insidious: 23595
+  invidious: 71705
+  irreligious: 95030
+scored_words:
+  impecunious: 169841
+  incautious: 164717
+  incurious: 169666
+  inglorious: 114412
+  inharmonious: 242315
+  injudicious: 162104
+  insalubrious: 157687
+not_scored_words:
+- incapacious
+- incommodious
+- inefficacious
+- innoxious
+- inofficious

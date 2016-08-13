@@ -1,0 +1,19 @@
+---
+pattern: conv_ion
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 165567
+score_per_word: 20695
+hi_scored_words:
+  convection: 19859
+  convention: 2513
+  conversation: 2336
+  conversion: 2879
+  conviction: 5194
+  convocation: 28369
+  convolution: 38393
+  convulsion: 66024
+scored_words: {}
+not_scored_words:
+- conventionalization

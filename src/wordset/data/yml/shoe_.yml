@@ -1,0 +1,35 @@
+---
+pattern: shoe_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 25
+score: 1404709
+score_per_word: 93647
+hi_scored_words:
+  shoe: 4208
+  shoebox: 38349
+  shoeing: 80129
+  shoelace: 82114
+  shoelaces: 72191
+  shoeless: 98067
+  shoemaker: 23682
+  shoemakers: 90337
+  shoes: 1334
+  shoeshine: 92754
+  shoestring: 45065
+scored_words:
+  shoehorn: 119220
+  shoehorned: 231303
+  shoemaking: 171809
+  shoestrings: 254147
+not_scored_words:
+- shoebill
+- shoebills
+- shoeblack
+- shoeblacks
+- shoehorning
+- shoehorns
+- shoemakings
+- shoeshines
+- shoetree
+- shoetrees

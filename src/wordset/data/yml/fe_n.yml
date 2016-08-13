@@ -1,0 +1,45 @@
+---
+pattern: fe_n
+hi_scored_words_count: 11
+scored_words_count: 10
+total_words: 35
+score: 2165712
+score_per_word: 103129
+hi_scored_words:
+  federation: 7170
+  feign: 58325
+  felon: 33633
+  feminization: 38273
+  fen: 24968
+  fermentation: 19594
+  fermion: 62447
+  fern: 14425
+  ferritin: 67032
+  fertilization: 27267
+  festoon: 95961
+scored_words:
+  fedayeen: 136011
+  federalization: 249573
+  felicitation: 101188
+  fellaheen: 302149
+  fellation: 116937
+  fellowman: 297185
+  fellowmen: 196905
+  fenestration: 103845
+  ferryman: 109499
+  feuilleton: 103325
+not_scored_words:
+- Fenian
+- Ferguson
+- Fern
+- Feynman
+- Fezzan
+- featherbrain
+- fecundation
+- fellahin
+- ferromagnesian
+- ferrosilicon
+- ferrymen
+- festination
+- fetation
+- feudalization

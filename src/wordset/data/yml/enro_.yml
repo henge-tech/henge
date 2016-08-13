@@ -1,0 +1,24 @@
+---
+pattern: enro_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 14
+score: 317330
+score_per_word: 39666
+hi_scored_words:
+  enroll: 18557
+  enrolled: 7426
+  enrollee: 97708
+  enrollees: 49418
+  enrolling: 33135
+  enrollment: 5213
+  enrollments: 39677
+  enrolls: 66196
+scored_words: {}
+not_scored_words:
+- Enron
+- enrobe
+- enrobed
+- enrobes
+- enrobing
+- enroot

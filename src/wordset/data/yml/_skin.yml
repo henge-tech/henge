@@ -1,0 +1,42 @@
+---
+pattern: _skin
+hi_scored_words_count: 12
+scored_words_count: 12
+total_words: 32
+score: 3023645
+score_per_word: 125985
+hi_scored_words:
+  buckskin: 45186
+  calfskin: 92822
+  deerskin: 90715
+  foreskin: 27798
+  gaskin: 80768
+  lambskin: 88148
+  pigskin: 56417
+  redskin: 82961
+  sheepskin: 37266
+  siskin: 92195
+  skin: 1210
+  snakeskin: 82935
+scored_words:
+  bearskin: 105937
+  buskin: 297787
+  coonskin: 245971
+  cowskin: 291810
+  doeskin: 321597
+  goatskin: 133858
+  kidskin: 164929
+  moleskin: 107970
+  oilskin: 147322
+  sealskin: 145521
+  sharkskin: 166433
+  wineskin: 116089
+not_scored_words:
+- Chelyuskin
+- Rumpelstiltskin
+- Ruskin
+- capeskin
+- griskin
+- onionskin
+- scarfskin
+- swanskin

@@ -1,0 +1,21 @@
+---
+pattern: mu_le
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 11
+score: 377999
+score_per_word: 37799
+hi_scored_words:
+  muddle: 43477
+  muffle: 81101
+  muggle: 56696
+  mule: 11578
+  multiple: 3599
+  mumble: 46000
+  muscle: 6178
+  musicale: 60463
+  mutable: 46748
+  muzzle: 22159
+scored_words: {}
+not_scored_words:
+- mutule

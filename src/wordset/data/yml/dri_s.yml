@@ -1,0 +1,36 @@
+---
+pattern: dri_s
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 26
+score: 1030901
+score_per_word: 64431
+hi_scored_words:
+  driers: 86937
+  dries: 26706
+  drifters: 51795
+  drifts: 35943
+  drillers: 80073
+  drills: 15766
+  drinkers: 28414
+  drinks: 4613
+  drippings: 90059
+  drips: 51041
+  drivers: 4377
+  drives: 3644
+  driveways: 42481
+scored_words:
+  dribbles: 120613
+  drillings: 177218
+  driveshafts: 211221
+not_scored_words:
+- dribblers
+- driblets
+- driftages
+- driftnets
+- drillmasters
+- drinkings
+- drivelers
+- drivels
+- drivings
+- drizzles

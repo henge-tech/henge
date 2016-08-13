@@ -1,0 +1,30 @@
+---
+pattern: _amen
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 20
+score: 1007979
+score_per_word: 83998
+hi_scored_words:
+  amen: 11749
+  cameramen: 84689
+  cyclamen: 89130
+  examen: 52445
+  flamen: 97604
+  foramen: 57420
+  militiamen: 73729
+  ramen: 36426
+  seamen: 27860
+  stamen: 87226
+scored_words:
+  gravamen: 253996
+  putamen: 135705
+not_scored_words:
+- Amen
+- Chinamen
+- Indiamen
+- Tutankhamen
+- Xiamen
+- duramen
+- velamen
+- yamen

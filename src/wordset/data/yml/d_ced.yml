@@ -1,0 +1,27 @@
+---
+pattern: d_ced
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 17
+score: 811338
+score_per_word: 67611
+hi_scored_words:
+  danced: 12841
+  deduced: 27438
+  defaced: 48797
+  denounced: 20324
+  diced: 37208
+  disgraced: 39150
+  displaced: 12124
+  distanced: 59979
+  divorced: 11469
+scored_words:
+  deuced: 128938
+  discalced: 278080
+  discountenanced: 134990
+not_scored_words:
+- DECed
+- dehisced
+- deiced
+- deliquesced
+- devoiced

@@ -1,0 +1,58 @@
+---
+pattern: _nto
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 48
+score: 2203856
+score_per_word: 91827
+hi_scored_words:
+  canto: 25886
+  cento: 87609
+  conto: 79200
+  coranto: 72205
+  divertimento: 91262
+  hereunto: 94190
+  into: 74
+  lento: 82955
+  memento: 30470
+  onto: 3533
+  panto: 61766
+  pinto: 27131
+  pronto: 25889
+  tanto: 31895
+  thereunto: 74360
+  unto: 3524
+scored_words:
+  aggiornamento: 162292
+  cinquecento: 192479
+  pimento: 103017
+  pimiento: 214791
+  portamento: 233562
+  quattrocento: 179348
+  seicento: 179424
+  whereunto: 146994
+not_scored_words:
+- Agrigento
+- Benevento
+- CENTO
+- Esperanto
+- Lepanto
+- Monsanto
+- Otranto
+- Papiamento
+- Risorgimento
+- Sacramento
+- Sagunto
+- Shinto
+- Sorrento
+- Squanto
+- Taranto
+- Tonto
+- Toronto
+- Trento
+- hereinto
+- pentimento
+- pronunciamento
+- thereinto
+- trecento
+- whereinto

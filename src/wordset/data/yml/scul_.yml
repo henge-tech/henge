@@ -1,0 +1,40 @@
+---
+pattern: scul_
+hi_scored_words_count: 11
+scored_words_count: 10
+total_words: 30
+score: 2213287
+score_per_word: 105394
+hi_scored_words:
+  scull: 58066
+  sculls: 90188
+  sculpt: 44899
+  sculpted: 28978
+  sculpting: 34589
+  sculptor: 19549
+  sculptors: 36672
+  sculptural: 45150
+  sculpture: 6381
+  sculptured: 42057
+  sculptures: 13901
+scored_words:
+  scullers: 233856
+  scullery: 102846
+  sculling: 121964
+  scullion: 114008
+  sculp: 223261
+  sculpin: 109370
+  sculpins: 311412
+  sculptress: 236309
+  sculpts: 155817
+  sculpturing: 184014
+not_scored_words:
+- Sculley
+- Sculptor
+- sculled
+- sculler
+- sculleries
+- scullions
+- sculpsit
+- sculptresses
+- sculpturesque

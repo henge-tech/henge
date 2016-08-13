@@ -1,0 +1,47 @@
+---
+pattern: p_ory
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 37
+score: 1750443
+score_per_word: 92128
+hi_scored_words:
+  participatory: 17191
+  peremptory: 49189
+  perfunctory: 61343
+  polyamory: 79759
+  predatory: 22576
+  prefatory: 91094
+  prehistory: 35070
+  preparatory: 13184
+  priory: 24839
+  promissory: 38698
+  promontory: 43931
+  purgatory: 26873
+scored_words:
+  persecutory: 212817
+  pillory: 101425
+  possessory: 116206
+  precursory: 299553
+  premonitory: 184095
+  prohibitory: 149658
+  propitiatory: 182942
+not_scored_words:
+- Promontory
+- Purgatory
+- pacificatory
+- pellitory
+- perambulatory
+- perspiratory
+- piscatory
+- placatory
+- precatory
+- preceptory
+- predictory
+- procrastinatory
+- profanatory
+- prognosticatory
+- protohistory
+- provisory
+- pulsatory
+- purificatory

@@ -1,0 +1,34 @@
+---
+pattern: c_ying
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 24
+score: 697388
+score_per_word: 58115
+hi_scored_words:
+  carrying: 2359
+  certifying: 30073
+  clarifying: 20969
+  classifying: 33300
+  cloying: 91456
+  complying: 13910
+  conveying: 19213
+  copying: 5095
+  crying: 4834
+scored_words:
+  codifying: 117255
+  crucifying: 193573
+  currying: 165351
+not_scored_words:
+- caddying
+- calcifying
+- candying
+- canopying
+- carnifying
+- chevying
+- chivvying
+- chivying
+- citifying
+- collying
+- convoying
+- curtsying

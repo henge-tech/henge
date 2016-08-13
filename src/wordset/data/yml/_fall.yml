@@ -1,0 +1,29 @@
+---
+pattern: _fall
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 19
+score: 1373205
+score_per_word: 80776
+hi_scored_words:
+  befall: 42478
+  downfall: 18805
+  fall: 635
+  footfall: 94788
+  landfall: 40539
+  nightfall: 30225
+  outfall: 63400
+  pitfall: 47936
+  rainfall: 12642
+  shortfall: 23028
+  snowfall: 30268
+  waterfall: 14632
+  windfall: 32237
+scored_words:
+  deadfall: 227301
+  evenfall: 335060
+  icefall: 218611
+  rockfall: 140620
+not_scored_words:
+- catfall
+- pratfall

@@ -1,0 +1,41 @@
+---
+pattern: hu_ing
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 31
+score: 2631745
+score_per_word: 114423
+hi_scored_words:
+  huffing: 92123
+  hugging: 25403
+  hulking: 85873
+  humbling: 49588
+  humiliating: 22127
+  humming: 20386
+  humping: 24109
+  hunting: 2634
+  hurling: 26988
+  hurrying: 36876
+  hurting: 13744
+  hurtling: 72361
+  hustling: 69089
+scored_words:
+  huddling: 125991
+  humanizing: 112192
+  humidifying: 252319
+  humoring: 243980
+  hunching: 258228
+  hungering: 150107
+  hunkering: 290122
+  hurdling: 233992
+  hushing: 220652
+  husking: 202861
+not_scored_words:
+- huckstering
+- hulling
+- humbugging
+- humphing
+- hurrahing
+- husbanding
+- huzzahing
+- huzzaing

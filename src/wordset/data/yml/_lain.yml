@@ -1,0 +1,33 @@
+---
+pattern: _lain
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 23
+score: 851369
+score_per_word: 53210
+hi_scored_words:
+  blain: 74347
+  chamberlain: 15951
+  chaplain: 15576
+  complain: 6633
+  explain: 1692
+  floodplain: 31399
+  lain: 20123
+  overlain: 89220
+  plain: 1782
+  porcelain: 8396
+  slain: 16597
+  underlain: 84370
+  villain: 13101
+scored_words:
+  chatelain: 149530
+  chilblain: 221521
+  peneplain: 101131
+not_scored_words:
+- Chamberlain
+- Champlain
+- Cuchulain
+- McClain
+- châtelain
+- reexplain
+- semiporcelain

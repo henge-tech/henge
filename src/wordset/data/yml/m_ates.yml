@@ -1,0 +1,52 @@
+---
+pattern: m_ates
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 42
+score: 1740140
+score_per_word: 96674
+hi_scored_words:
+  magistrates: 15434
+  magnates: 98786
+  mandates: 20815
+  manipulates: 57916
+  masturbates: 56689
+  mates: 9970
+  mediates: 45780
+  migrates: 66950
+  mitigates: 90141
+  moderates: 38611
+  modulates: 62803
+  motivates: 32290
+scored_words:
+  meditates: 119453
+  messmates: 181765
+  militates: 142842
+  misstates: 327413
+  mutates: 114948
+  mutilates: 257534
+not_scored_words:
+- Merthiolates
+- Mithridates
+- macerates
+- machinates
+- maculates
+- maleates
+- manducates
+- manganates
+- marinates
+- masticates
+- matriarchates
+- matriculates
+- maturates
+- medicates
+- meliorates
+- menstruates
+- meprobamates
+- metricates
+- micturates
+- misappropriates
+- miscalculates
+- misdates
+- mismates
+- mistranslates

@@ -1,0 +1,22 @@
+---
+pattern: en_led
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 12
+score: 685060
+score_per_word: 62278
+hi_scored_words:
+  enabled: 3003
+  enameled: 59010
+  encircled: 43898
+  enrolled: 7426
+  entailed: 35818
+  entangled: 29719
+  enthralled: 50068
+  entitled: 2714
+scored_words:
+  enfeebled: 133628
+  enkindled: 190850
+  ennobled: 128926
+not_scored_words:
+- ensiled

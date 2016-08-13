@@ -1,0 +1,57 @@
+---
+pattern: c_zing
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 47
+score: 2254521
+score_per_word: 112726
+hi_scored_words:
+  capitalizing: 40406
+  categorizing: 57198
+  centralizing: 81254
+  characterizing: 36130
+  civilizing: 93852
+  colonizing: 73254
+  conceptualizing: 78803
+  criminalizing: 98453
+  criticizing: 29443
+  customizing: 28654
+scored_words:
+  cannibalizing: 225650
+  capsizing: 116610
+  catalyzing: 103352
+  cauterizing: 196096
+  colorizing: 208570
+  commercializing: 102879
+  computerizing: 244507
+  contextualizing: 177946
+  crazing: 110071
+  crystallizing: 151393
+not_scored_words:
+- canalizing
+- canonizing
+- caponizing
+- capsulizing
+- caramelizing
+- carbonizing
+- carburizing
+- catechizing
+- catheterizing
+- catholicizing
+- channelizing
+- cicatrizing
+- cinematizing
+- circularizing
+- classicizing
+- cocainizing
+- cognizing
+- collectivizing
+- communalizing
+- communizing
+- compartmentalizing
+- concertizing
+- concretizing
+- containerizing
+- contemporizing
+- conventionalizing
+- copolymerizing

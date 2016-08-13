@@ -1,0 +1,38 @@
+---
+pattern: pars_
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 28
+score: 925047
+score_per_word: 54414
+hi_scored_words:
+  pars: 32099
+  parse: 24086
+  parsed: 44659
+  parser: 22060
+  parsers: 58508
+  parses: 62647
+  parsimonious: 64357
+  parsimony: 54221
+  parsing: 24075
+  parsley: 16822
+  parsnip: 65432
+  parsnips: 81437
+  parson: 24188
+  parsonage: 42003
+  parsons: 12294
+scored_words:
+  parsec: 112790
+  parsecs: 183369
+not_scored_words:
+- Parsee
+- Parsees
+- Parsi
+- Parsifal
+- Parsis
+- Parsons
+- parsimoniously
+- parsimoniousness
+- parsimoniousnesses
+- parsings
+- parsonages

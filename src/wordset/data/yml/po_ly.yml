@@ -1,0 +1,51 @@
+---
+pattern: po_ly
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 41
+score: 2365363
+score_per_word: 94614
+hi_scored_words:
+  poetically: 87829
+  poignantly: 95674
+  pointedly: 58999
+  politely: 17506
+  politically: 9533
+  poly: 11633
+  poorly: 7569
+  popularly: 32163
+  portly: 65990
+  positively: 7512
+  possibly: 2052
+  posteriorly: 87969
+  posthumously: 50911
+  postoperatively: 74032
+  potentially: 10951
+  powerfully: 20667
+scored_words:
+  pointlessly: 140807
+  pompously: 200838
+  ponderously: 232877
+  portably: 227275
+  positionally: 251344
+  postally: 160061
+  postnatally: 237619
+  potbelly: 132393
+  potently: 141159
+not_scored_words:
+- Polly
+- poisonously
+- pokily
+- polemically
+- politicly
+- polygamously
+- polyphonically
+- pontifically
+- pornographically
+- porously
+- portentously
+- poshly
+- positivistically
+- possessively
+- poutingly
+- powerlessly

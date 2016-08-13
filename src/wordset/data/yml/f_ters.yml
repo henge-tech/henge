@@ -1,0 +1,41 @@
+---
+pattern: f_ters
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 31
+score: 1688277
+score_per_word: 76739
+hi_scored_words:
+  falters: 80114
+  fetters: 56041
+  fighters: 8257
+  filibusters: 86312
+  filters: 13618
+  firefighters: 13301
+  fitters: 55910
+  floaters: 66227
+  floodwaters: 69662
+  footers: 57732
+  forecasters: 49040
+  foresters: 45279
+  fosters: 31420
+  fraudsters: 68776
+  freighters: 76261
+  fritters: 67940
+scored_words:
+  festers: 253816
+  flatters: 103750
+  flutters: 101753
+  frankfurters: 142006
+  freebooters: 102560
+  frequenters: 138502
+not_scored_words:
+- feasters
+- firelighters
+- flitters
+- flouters
+- flusters
+- flyswatters
+- fomenters
+- forequarters
+- fourposters

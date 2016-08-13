@@ -1,0 +1,23 @@
+---
+pattern: enc_es
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 859146
+score_per_word: 71595
+hi_scored_words:
+  encapsulates: 52436
+  encircles: 92246
+  enclaves: 54247
+  encloses: 58936
+  enclosures: 19623
+  encodes: 31810
+  encompasses: 15236
+  encores: 83218
+  encourages: 10214
+  encumbrances: 67241
+scored_words:
+  encases: 214707
+  encroaches: 159232
+not_scored_words:
+- enchantresses

@@ -1,0 +1,38 @@
+---
+pattern: you_
+hi_scored_words_count: 20
+scored_words_count: 4
+total_words: 28
+score: 1232442
+score_per_word: 51351
+hi_scored_words:
+  you: 13
+  you'd: 2958
+  you'll: 1063
+  you're: 366
+  you've: 1389
+  young: 254
+  younger: 2854
+  youngest: 7930
+  youngling: 85108
+  youngster: 24557
+  youngsters: 16452
+  your: 32
+  yours: 1831
+  yourself: 756
+  yourselves: 9049
+  yous: 42934
+  youth: 1029
+  youthful: 13019
+  youthfulness: 96229
+  youths: 13992
+scored_words:
+  youngish: 151892
+  younker: 302908
+  younkers: 293899
+  youthfully: 161928
+not_scored_words:
+- YouTube
+- Young
+- Youngstown
+- youthen

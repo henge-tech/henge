@@ -1,0 +1,32 @@
+---
+pattern: p_atic
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 22
+score: 2100757
+score_per_word: 123573
+hi_scored_words:
+  pancreatic: 18377
+  paradigmatic: 78307
+  pneumatic: 24940
+  pragmatic: 20078
+  prismatic: 52495
+  problematic: 13677
+  programmatic: 30022
+  prostatic: 37309
+  psychosomatic: 50375
+scored_words:
+  panchromatic: 150136
+  phatic: 285883
+  phlegmatic: 128958
+  phosphatic: 196916
+  photostatic: 297433
+  plasmatic: 334401
+  plutocratic: 216379
+  polychromatic: 165071
+not_scored_words:
+- piratic
+- prelatic
+- proceleusmatic
+- prodemocratic
+- psychodramatic

@@ -1,0 +1,36 @@
+---
+pattern: _nent
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 26
+score: 1727739
+score_per_word: 75119
+hi_scored_words:
+  abstinent: 95729
+  component: 5515
+  continent: 5993
+  deponent: 87503
+  eminent: 9728
+  exponent: 22289
+  immanent: 60897
+  imminent: 11877
+  impertinent: 62087
+  incontinent: 65881
+  opponent: 8421
+  permanent: 1961
+  pertinent: 12904
+  preeminent: 42657
+  prominent: 4815
+  proponent: 26637
+  subcontinent: 36366
+scored_words:
+  anent: 130670
+  impermanent: 110223
+  nonpermanent: 306495
+  remanent: 150213
+  semipermanent: 266528
+  supercontinent: 202350
+not_scored_words:
+- Continent
+- overprominent
+- supereminent

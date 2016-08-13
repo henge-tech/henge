@@ -1,0 +1,26 @@
+---
+pattern: pr_sing
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 810099
+score_per_word: 73645
+hi_scored_words:
+  praising: 25005
+  predisposing: 71250
+  prepossessing: 94906
+  pressing: 5362
+  processing: 2233
+  professing: 52868
+  progressing: 21073
+  promising: 6181
+  proposing: 11970
+scored_words:
+  precessing: 326704
+  presupposing: 192547
+not_scored_words:
+- precising
+- predeceasing
+- premising
+- prolapsing
+- précising

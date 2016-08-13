@@ -1,0 +1,28 @@
+---
+pattern: the_r
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 18
+score: 230827
+score_per_word: 28853
+hi_scored_words:
+  theater: 3799
+  their: 50
+  thereafter: 8627
+  therefor: 23674
+  thereunder: 48440
+  thermistor: 73313
+  thermometer: 13230
+  thermonuclear: 59694
+scored_words: {}
+not_scored_words:
+- Theiler
+- Thermidor
+- theatergoer
+- thenar
+- theorizer
+- theosopher
+- thereinafter
+- thermobarometer
+- thermoelectrometer
+- thermomotor

@@ -1,0 +1,41 @@
+---
+pattern: _yard
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 31
+score: 1325086
+score_per_word: 60231
+hi_scored_words:
+  backyard: 18334
+  barnyard: 46234
+  bayard: 40239
+  boatyard: 87799
+  boneyard: 92090
+  brickyard: 62537
+  churchyard: 29446
+  courtyard: 7940
+  dockyard: 54110
+  farmyard: 51840
+  graveyard: 15431
+  halyard: 85289
+  junkyard: 41276
+  lanyard: 31926
+  schoolyard: 57599
+  shipyard: 25866
+  vineyard: 11640
+  yard: 2815
+scored_words:
+  dooryard: 144229
+  lumberyard: 167514
+  scrapyard: 132888
+  stockyard: 118044
+not_scored_words:
+- Bayard
+- Layard
+- Rudyard
+- Savoyard
+- foreyard
+- kailyard
+- kaleyard
+- steelyard
+- tiltyard

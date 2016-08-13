@@ -1,0 +1,29 @@
+---
+pattern: fo_h
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 19
+score: 407165
+score_per_word: 45240
+hi_scored_words:
+  foolish: 8141
+  footpath: 32548
+  forsooth: 54192
+  forth: 1859
+  forthwith: 21132
+  fortieth: 66066
+  fourteenth: 16720
+  fourth: 1911
+scored_words:
+  foppish: 204596
+not_scored_words:
+- Foch
+- Forsyth
+- Forth
+- Fourth
+- fogeyish
+- fogyish
+- footcloth
+- forereach
+- foretooth
+- fortyish

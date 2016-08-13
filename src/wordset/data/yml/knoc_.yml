@@ -1,0 +1,27 @@
+---
+pattern: knoc_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 17
+score: 816019
+score_per_word: 62770
+hi_scored_words:
+  knock: 5326
+  knockdown: 57961
+  knocked: 7603
+  knocker: 43794
+  knockers: 31469
+  knocking: 11420
+  knockoff: 46995
+  knockoffs: 59113
+  knockout: 20399
+  knockouts: 75538
+  knocks: 21100
+scored_words:
+  knockabout: 181509
+  knockdowns: 253792
+not_scored_words:
+- knockabouts
+- knockings
+- knockwurst
+- knockwursts

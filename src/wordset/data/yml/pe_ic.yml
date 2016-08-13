@@ -1,0 +1,36 @@
+---
+pattern: pe_ic
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 26
+score: 1269824
+score_per_word: 84654
+hi_scored_words:
+  pedagogic: 52990
+  pedantic: 27185
+  pediatric: 8926
+  pelagic: 36276
+  pelvic: 19047
+  pentatonic: 80380
+  peptic: 45730
+  periodic: 5938
+  peripatetic: 78009
+  peristaltic: 78386
+  pessimistic: 25888
+scored_words:
+  pectic: 286700
+  pederastic: 161570
+  periphrastic: 221479
+  petrographic: 141320
+not_scored_words:
+- Peripatetic
+- pedophilic
+- pentasyllabic
+- pentatomic
+- pentomic
+- perfectionistic
+- perimetric
+- periotic
+- periscopic
+- petroglyphic
+- petrolic

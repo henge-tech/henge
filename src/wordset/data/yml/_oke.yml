@@ -1,0 +1,62 @@
+---
+pattern: _oke
+hi_scored_words_count: 27
+scored_words_count: 11
+total_words: 52
+score: 2600963
+score_per_word: 68446
+hi_scored_words:
+  artichoke: 31912
+  awoke: 19898
+  backstroke: 37238
+  bespoke: 21193
+  bloke: 27980
+  breaststroke: 41092
+  broke: 2647
+  choke: 14532
+  coke: 11310
+  evoke: 24325
+  hoke: 46221
+  invoke: 14191
+  joke: 3694
+  karaoke: 8495
+  keystroke: 45249
+  oke: 50115
+  poke: 15741
+  provoke: 17142
+  revoke: 23527
+  smoke: 2218
+  spoke: 2532
+  stoke: 20462
+  stroke: 3716
+  sunstroke: 94097
+  toke: 36746
+  woke: 7846
+  yoke: 17304
+scored_words:
+  brushstroke: 160257
+  convoke: 266168
+  cowpoke: 167212
+  downstroke: 259332
+  heatstroke: 127243
+  masterstroke: 196684
+  misspoke: 188934
+  moke: 114936
+  slowpoke: 138566
+  soke: 157892
+  upstroke: 182316
+not_scored_words:
+- Bolingbroke
+- Brooke
+- Coke
+- Cooke
+- Etobicoke
+- Hooke
+- Pembroke
+- Roanoke
+- Sherbrooke
+- counterstroke
+- housebroke
+- reawoke
+- sidestroke
+- unyoke

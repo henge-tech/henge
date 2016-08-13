@@ -1,0 +1,46 @@
+---
+pattern: bog_
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 36
+score: 2361043
+score_per_word: 107320
+hi_scored_words:
+  bog: 17959
+  bogey: 36793
+  bogeyman: 80668
+  bogeys: 84128
+  bogged: 46479
+  boggle: 56024
+  boggles: 70736
+  boggling: 41714
+  boggy: 71635
+  bogie: 52528
+  bogle: 64429
+  bogs: 40338
+  bogus: 18844
+scored_words:
+  boga: 135260
+  bogeyed: 194092
+  bogeymen: 261205
+  boggart: 190894
+  bogging: 156941
+  boggled: 152261
+  bogies: 102320
+  bogon: 163365
+  bogosity: 322430
+not_scored_words:
+- Bogart
+- Bogor
+- Bogota
+- Bogotá
+- bogbean
+- bogbeans
+- bogeying
+- boggier
+- boggiest
+- bogtrotter
+- bogusly
+- bogusness
+- bogyman
+- bogymen

@@ -1,0 +1,40 @@
+---
+pattern: sup_n
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 30
+score: 1589032
+score_per_word: 83633
+hi_scored_words:
+  superannuation: 29916
+  superhuman: 43099
+  superman: 9421
+  superposition: 46267
+  superstition: 17575
+  supervision: 6132
+  supplementation: 24944
+  supplication: 53355
+  supposition: 29381
+  suppression: 9803
+scored_words:
+  supererogation: 107273
+  superimposition: 134377
+  supermen: 102016
+  supersaturation: 127360
+  superscription: 223692
+  supersession: 159862
+  superwoman: 108688
+  supination: 164073
+  suppuration: 191798
+not_scored_words:
+- Superman
+- superclean
+- superelevation
+- superfecundation
+- superfetation
+- supersalesman
+- superthin
+- supervention
+- superwomen
+- suppletion
+- supralapsarian

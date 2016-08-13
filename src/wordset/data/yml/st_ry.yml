@@ -1,0 +1,29 @@
+---
+pattern: st_ry
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 790364
+score_per_word: 60797
+hi_scored_words:
+  starry: 23096
+  stationary: 9516
+  stationery: 16649
+  statuary: 36282
+  statutory: 9502
+  stereochemistry: 92514
+  stimulatory: 72461
+  stoichiometry: 71515
+  story: 315
+  strawberry: 11115
+scored_words:
+  stannary: 127556
+  stipendiary: 144916
+  stitchery: 174927
+not_scored_words:
+- statolatry
+- stereometry
+- sternutatory
+- stichometry
+- strangury
+- stridulatory

@@ -1,0 +1,38 @@
+---
+pattern: out_t
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 28
+score: 1264122
+score_per_word: 70229
+hi_scored_words:
+  outburst: 24768
+  outcast: 25438
+  outermost: 40945
+  outfit: 9732
+  outlast: 49994
+  outlet: 5289
+  outpatient: 17719
+  outpost: 17607
+  output: 4321
+  outright: 13039
+  outset: 13416
+  outskirt: 89061
+  outsmart: 80964
+  outwit: 55917
+scored_words:
+  outmost: 232780
+  outplacement: 112237
+  outport: 244432
+  outspent: 226463
+not_scored_words:
+- outboast
+- outfight
+- outfoot
+- outfought
+- outhit
+- outpoint
+- outsert
+- outshoot
+- outshout
+- outwait

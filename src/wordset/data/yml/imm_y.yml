@@ -1,0 +1,47 @@
+---
+pattern: imm_y
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 37
+score: 1845564
+score_per_word: 80241
+hi_scored_words:
+  immaculately: 71322
+  immaturity: 53507
+  immeasurably: 61286
+  immediacy: 42825
+  immediately: 1124
+  immensely: 18487
+  immensity: 59845
+  immobility: 58868
+  immorality: 35043
+  immortality: 17027
+  immunity: 10993
+  immunoassay: 63351
+  immunodeficiency: 24856
+  immunology: 19842
+  immunotherapy: 49536
+scored_words:
+  imminently: 112412
+  immoderately: 122022
+  immodesty: 265462
+  immorally: 246599
+  immovably: 144343
+  immunochemistry: 116851
+  immunologically: 122502
+  immutability: 127461
+not_scored_words:
+- immaculacy
+- immanency
+- immanently
+- immateriality
+- immaterially
+- immaturely
+- immeasurability
+- immemorially
+- immiscibility
+- immoderacy
+- immodestly
+- immortally
+- immovability
+- immutably

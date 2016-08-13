@@ -1,0 +1,27 @@
+---
+pattern: w_ard
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 510838
+score_per_word: 51083
+hi_scored_words:
+  ward: 3313
+  washboard: 90050
+  wayward: 24956
+  westward: 15760
+  whiteboard: 32306
+  wildcard: 25420
+  windward: 27807
+  wizard: 6791
+scored_words:
+  wallboard: 104561
+  weatherboard: 179874
+not_scored_words:
+- Ward
+- Willard
+- Windward
+- Woodard
+- Woodward
+- waterboard
+- whitherward

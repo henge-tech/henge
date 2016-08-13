@@ -1,0 +1,71 @@
+---
+pattern: perc_
+hi_scored_words_count: 29
+scored_words_count: 14
+total_words: 61
+score: 3510037
+score_per_word: 81628
+hi_scored_words:
+  perceive: 8300
+  perceived: 4518
+  perceives: 35738
+  perceiving: 32623
+  percent: 3301
+  percentage: 4231
+  percentages: 18698
+  percentile: 19318
+  percentiles: 67469
+  percents: 64519
+  percept: 72730
+  perceptible: 39838
+  perception: 4801
+  perceptions: 10290
+  perceptive: 35663
+  perceptual: 20981
+  perch: 17598
+  perchance: 36193
+  perched: 34566
+  perches: 55507
+  perching: 91470
+  perchlorate: 60192
+  percolate: 90109
+  percolation: 53011
+  percolator: 83239
+  percussion: 15248
+  percussionist: 55430
+  percussive: 52505
+  percutaneous: 38552
+scored_words:
+  percale: 136012
+  perceivable: 122763
+  perceptibly: 116056
+  perceptively: 205275
+  perceptiveness: 265734
+  percepts: 151606
+  perceptually: 111026
+  perchloride: 123990
+  percipient: 259111
+  percolated: 189757
+  percolates: 193064
+  percolating: 106810
+  percolators: 298104
+  percussionists: 104091
+not_scored_words:
+- Perceval
+- Percheron
+- Percival
+- Percy
+- percales
+- percaline
+- perceptibilities
+- perceptibility
+- perceptional
+- perceptivities
+- perceptivity
+- percipience
+- percipiently
+- percuss
+- percussed
+- percusses
+- percussing
+- percussively

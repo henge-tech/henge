@@ -1,0 +1,49 @@
+---
+pattern: co_ant
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 39
+score: 2051201
+score_per_word: 82048
+hi_scored_words:
+  cognizant: 34989
+  combatant: 33750
+  commandant: 31768
+  complainant: 22038
+  compliant: 18394
+  concomitant: 28482
+  concordant: 77580
+  confidant: 45756
+  consonant: 24943
+  constant: 1942
+  consultant: 14050
+  contaminant: 29330
+  contestant: 23382
+  conversant: 42841
+  coolant: 25934
+  cormorant: 48218
+  covenant: 7385
+scored_words:
+  coagulant: 119519
+  cohabitant: 331413
+  colorant: 125092
+  communicant: 145918
+  complaisant: 229237
+  continuant: 161371
+  convulsant: 272716
+  couchant: 155153
+not_scored_words:
+- Constant
+- Corybant
+- coadjutant
+- commorant
+- concelebrant
+- conflagrant
+- congratulant
+- congregant
+- corposant
+- corroborant
+- cosecant
+- cotenant
+- counterclaimant
+- counterirritant

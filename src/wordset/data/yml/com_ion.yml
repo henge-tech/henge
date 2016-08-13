@@ -1,0 +1,47 @@
+---
+pattern: com_ion
+hi_scored_words_count: 27
+scored_words_count: 3
+total_words: 37
+score: 926250
+score_per_word: 30875
+hi_scored_words:
+  combination: 2390
+  combustion: 11139
+  commemoration: 26270
+  commendation: 29022
+  commercialization: 28011
+  commission: 1314
+  commodification: 88186
+  commotion: 23282
+  communication: 1395
+  communion: 9536
+  commutation: 47646
+  compaction: 36354
+  companion: 3863
+  compassion: 7655
+  compensation: 3484
+  competition: 2421
+  compilation: 4961
+  completion: 7672
+  complexion: 18424
+  complication: 19107
+  composition: 3014
+  comprehension: 9992
+  compression: 8481
+  compulsion: 25358
+  compunction: 79120
+  computation: 11136
+  computerization: 65408
+scored_words:
+  commiseration: 132396
+  compartmentalization: 111712
+  complexation: 107501
+not_scored_words:
+- Communion
+- commensuration
+- commination
+- communization
+- compellation
+- compotation
+- compurgation

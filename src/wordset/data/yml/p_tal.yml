@@ -1,0 +1,36 @@
+---
+pattern: p_tal
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 26
+score: 973784
+score_per_word: 51251
+hi_scored_words:
+  palatal: 69343
+  parental: 8245
+  parietal: 37628
+  pedestal: 14942
+  pentobarbital: 97651
+  perinatal: 32435
+  periodontal: 33897
+  petal: 25796
+  phenobarbital: 55926
+  pivotal: 25033
+  placental: 42250
+  portal: 5338
+  postal: 6194
+  postnatal: 38613
+  prefrontal: 52125
+  premarital: 53698
+  prenatal: 18531
+scored_words:
+  postcoital: 243057
+  pubertal: 113082
+not_scored_words:
+- Pentecostal
+- pedimental
+- pelletal
+- postconsonantal
+- postmarital
+- postorbital
+- primogenital

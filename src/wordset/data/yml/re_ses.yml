@@ -1,0 +1,55 @@
+---
+pattern: re_ses
+hi_scored_words_count: 8
+scored_words_count: 12
+total_words: 45
+score: 2483993
+score_per_word: 124199
+hi_scored_words:
+  recesses: 39947
+  refuses: 10337
+  relapses: 70926
+  releases: 8568
+  responses: 5245
+  retroviruses: 70034
+  reverses: 31565
+  revises: 53048
+scored_words:
+  reanalyses: 297637
+  recluses: 234811
+  refocuses: 282676
+  regresses: 201919
+  rehearses: 143866
+  reimburses: 117058
+  reposes: 189976
+  represses: 113432
+  reprises: 103507
+  repulses: 242901
+  repurchases: 133311
+  reuses: 133229
+not_scored_words:
+- readdresses
+- reappraises
+- reassesses
+- rebuses
+- reclusivenesses
+- recompenses
+- recomposes
+- recompresses
+- reconditenesses
+- recrosses
+- recuses
+- redresses
+- reflexivenesses
+- refractivenesses
+- refractorinesses
+- rehouses
+- reimposes
+- reliablenesses
+- rendezvouses
+- rephrases
+- repossesses
+- reprocesses
+- reredoses
+- responsiblenesses
+- retrogresses

@@ -1,0 +1,23 @@
+---
+pattern: ou_er
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 763531
+score_per_word: 69411
+hi_scored_words:
+  ouster: 58190
+  outer: 3581
+  outfielder: 39305
+  outfitter: 53636
+  outlander: 52585
+  outlier: 41931
+  outnumber: 45001
+  outrigger: 47229
+  outsider: 19262
+scored_words:
+  outmaneuver: 225548
+  outrider: 177263
+not_scored_words:
+- outflatter
+- outworker

@@ -1,0 +1,53 @@
+---
+pattern: o_ent
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 43
+score: 1992788
+score_per_word: 86642
+hi_scored_words:
+  obedient: 21594
+  obsolescent: 94391
+  occident: 90993
+  ointment: 21839
+  omnipotent: 33375
+  omnipresent: 43859
+  omniscient: 44713
+  opalescent: 66484
+  opponent: 8421
+  opulent: 35367
+  orient: 13869
+  ornament: 10480
+  outpatient: 17719
+  overconfident: 93870
+  overpayment: 59618
+  overstatement: 86855
+scored_words:
+  obstruent: 225970
+  obtainment: 188295
+  orpiment: 126028
+  outplacement: 112237
+  outspent: 226463
+  overdevelopment: 228779
+  overspent: 141569
+not_scored_words:
+- Occident
+- Omnipotent
+- Omniscient
+- Orient
+- obscurement
+- obsequent
+- octavalent
+- oddment
+- omnicompetent
+- ordainment
+- overachievement
+- overcommitment
+- overcomplacent
+- overdependent
+- overexcitement
+- overindulgent
+- overinsistent
+- overprominent
+- overrefinement
+- overviolent

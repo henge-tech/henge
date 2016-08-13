@@ -1,0 +1,56 @@
+---
+pattern: _arks
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 46
+score: 1682452
+score_per_word: 67298
+hi_scored_words:
+  ballparks: 75153
+  barks: 32678
+  benchmarks: 12794
+  bookmarks: 12448
+  earmarks: 74952
+  embarks: 56610
+  hallmarks: 39477
+  landmarks: 15861
+  larks: 69944
+  marks: 2561
+  parks: 4412
+  quarks: 36293
+  remarks: 3698
+  sharks: 11738
+  sparks: 10155
+  trademarks: 4932
+  watermarks: 50739
+scored_words:
+  aardvarks: 194825
+  arks: 124150
+  birthmarks: 127254
+  bulwarks: 115700
+  footmarks: 142486
+  harks: 137829
+  postmarks: 110559
+  skylarks: 215204
+not_scored_words:
+- Deutschmarks
+- Marks
+- Ozarks
+- Parks
+- Sparks
+- carks
+- debarks
+- disembarks
+- fingermarks
+- meadowlarks
+- mudlarks
+- paperbarks
+- pockmarks
+- pressmarks
+- reembarks
+- shagbarks
+- shellbarks
+- snarks
+- stretchmarks
+- tidemarks
+- titlarks

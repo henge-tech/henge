@@ -1,0 +1,65 @@
+---
+pattern: a_id
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 55
+score: 1586205
+score_per_word: 63448
+hi_scored_words:
+  acid: 2232
+  acrid: 62430
+  aforesaid: 21363
+  afraid: 2462
+  aid: 1185
+  alkaloid: 60225
+  amid: 7935
+  amyloid: 35220
+  android: 25043
+  antacid: 68295
+  apartheid: 22077
+  aphid: 49237
+  arachnid: 72944
+  arid: 14361
+  arytenoid: 73621
+  asteroid: 27097
+  avid: 20316
+  avoid: 1491
+scored_words:
+  adenoid: 109778
+  amygdaloid: 214072
+  aneroid: 123180
+  annelid: 217698
+  anthropoid: 129838
+  arachnoid: 109692
+  aramid: 114413
+not_scored_words:
+- Abbasid
+- Achaemenid
+- Aeneid
+- Alkaid
+- Almoravid
+- Android
+- Astrid
+- Australoid
+- Ayyubid
+- acanthoid
+- acarid
+- acaroid
+- actinoid
+- albuminoid
+- algid
+- algoid
+- allantoid
+- amberoid
+- ambroid
+- ameboid
+- amoeboid
+- amphidiploid
+- anabantid
+- antherozoid
+- anthracoid
+- antiapartheid
+- aroid
+- ascarid
+- astroid
+- autacoid

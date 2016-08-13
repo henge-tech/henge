@@ -1,0 +1,24 @@
+---
+pattern: clic_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 375825
+score_per_word: 37582
+hi_scored_words:
+  cliche: 30380
+  cliched: 79989
+  cliches: 40296
+  click: 2740
+  clickable: 39034
+  clicked: 16181
+  clicker: 37458
+  clicking: 7343
+  clicks: 10409
+scored_words:
+  clickers: 111995
+not_scored_words:
+- Clichy
+- cliché
+- clichéd
+- clichés

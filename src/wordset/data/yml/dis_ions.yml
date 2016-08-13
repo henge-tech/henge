@@ -1,0 +1,37 @@
+---
+pattern: dis_ions
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 27
+score: 1436293
+score_per_word: 75594
+hi_scored_words:
+  discussions: 7639
+  dislocations: 46104
+  dispensations: 97510
+  dispersions: 75596
+  dispositions: 30430
+  disruptions: 34107
+  dissections: 89231
+  dissertations: 32024
+  distinctions: 21549
+  distortions: 31544
+  distractions: 24880
+  distributions: 16056
+scored_words:
+  discolorations: 196492
+  disconnections: 122686
+  disjunctions: 152354
+  disputations: 122994
+  disqualifications: 113952
+  disquisitions: 103648
+  dissensions: 117497
+not_scored_words:
+- disconcertions
+- discontinuations
+- disillusions
+- disproportions
+- dissimilations
+- distensions
+- distentions
+- distillations

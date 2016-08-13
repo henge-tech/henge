@@ -1,0 +1,32 @@
+---
+pattern: _mbed
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 22
+score: 1581813
+score_per_word: 105454
+hi_scored_words:
+  bombed: 23104
+  climbed: 9908
+  combed: 32282
+  embed: 27284
+  entombed: 61287
+  numbed: 85939
+  plumbed: 86104
+  succumbed: 36958
+  thumbed: 98113
+scored_words:
+  benumbed: 221806
+  crumbed: 233191
+  firebombed: 218887
+  honeycombed: 188608
+  streambed: 119488
+  uncombed: 138854
+not_scored_words:
+- backcombed
+- currycombed
+- lambed
+- mailbombed
+- tombed
+- unclimbed
+- unplumbed

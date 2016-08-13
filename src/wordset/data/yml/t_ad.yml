@@ -1,0 +1,33 @@
+---
+pattern: t_ad
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 23
+score: 471047
+score_per_word: 47104
+hi_scored_words:
+  tad: 18382
+  tetrad: 99341
+  thread: 1581
+  thunderhead: 93922
+  toad: 16431
+  trad: 30448
+  tread: 12472
+  triad: 23899
+  truckload: 46385
+scored_words:
+  tightwad: 128186
+not_scored_words:
+- Tad
+- Tchad
+- Thad
+- Titograd
+- Triad
+- Trinidad
+- tetraethyllead
+- thickhead
+- timberhead
+- towhead
+- trainload
+- tramroad
+- trichomonad

@@ -1,0 +1,35 @@
+---
+pattern: norm_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 25
+score: 1488036
+score_per_word: 82668
+hi_scored_words:
+  norm: 17688
+  normal: 1695
+  normalcy: 50251
+  normality: 35363
+  normalization: 27141
+  normalize: 37892
+  normalized: 18010
+  normalizing: 56077
+  normally: 5769
+  normals: 38283
+  normative: 19076
+  norms: 13153
+scored_words:
+  normalizable: 315331
+  normalizations: 247903
+  normalizer: 212121
+  normalizes: 121587
+  normatively: 169871
+  normed: 100825
+not_scored_words:
+- Norma
+- Norman
+- Normand
+- Normandy
+- Normans
+- normalizers
+- normativeness

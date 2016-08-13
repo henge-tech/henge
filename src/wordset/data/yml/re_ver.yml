@@ -1,0 +1,22 @@
+---
+pattern: re_ver
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 449876
+score_per_word: 44987
+hi_scored_words:
+  reaver: 62392
+  receiver: 5516
+  recover: 4235
+  rediscover: 40462
+  reliever: 33728
+  remover: 17613
+  resolver: 58250
+  retriever: 19880
+  revolver: 14162
+scored_words:
+  reviver: 193638
+not_scored_words:
+- redeliver
+- reprover

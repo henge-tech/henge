@@ -1,0 +1,25 @@
+---
+pattern: reg_ed
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 15
+score: 908508
+score_per_word: 69885
+hi_scored_words:
+  regained: 19681
+  regarded: 3926
+  regenerated: 40935
+  regimented: 85629
+  registered: 1618
+  regressed: 73855
+  regretted: 23866
+  regrouped: 83282
+  regularized: 91509
+  regulated: 12340
+scored_words:
+  regaled: 112954
+  regraded: 256177
+  regurgitated: 102736
+not_scored_words:
+- regathered
+- regorged

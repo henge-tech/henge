@@ -1,0 +1,57 @@
+---
+pattern: do_n
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 47
+score: 1687024
+score_per_word: 67480
+hi_scored_words:
+  dobbin: 69786
+  doberman: 44701
+  documentation: 6098
+  dodecahedron: 89472
+  dolmen: 68874
+  dolphin: 13389
+  domain: 1119
+  domestication: 50226
+  domination: 9458
+  dominion: 8961
+  don: 1955
+  donation: 4479
+  doorman: 42011
+  down: 145
+  downtown: 8275
+  downtrodden: 59682
+  downturn: 24577
+  doyen: 89173
+  dozen: 3489
+scored_words:
+  documentarian: 180719
+  doeskin: 321597
+  dolman: 136896
+  donjon: 109618
+  doormen: 123915
+  doubloon: 218409
+not_scored_words:
+- Dobbin
+- Doberman
+- Dodgson
+- Dodson
+- Dominican
+- Dominion
+- Domitian
+- Don
+- Donaldson
+- Donn
+- Donovan
+- Doorn
+- Doreen
+- Dorian
+- Dostoyevskian
+- Dotson
+- Down
+- Dowson
+- dodecagon
+- dotation
+- doubleton
+- downfallen

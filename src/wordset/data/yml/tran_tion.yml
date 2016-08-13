@@ -1,0 +1,30 @@
+---
+pattern: tran_tion
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 20
+score: 773245
+score_per_word: 42958
+hi_scored_words:
+  transaction: 4134
+  transcription: 6639
+  transduction: 27878
+  transfiguration: 49284
+  transformation: 5268
+  transition: 8975
+  translation: 2389
+  transliteration: 45895
+  translocation: 34221
+  transmigration: 72534
+  transmutation: 51605
+  transpiration: 58496
+  transplantation: 12355
+  transportation: 3013
+  transposition: 42837
+  transubstantiation: 96917
+scored_words:
+  transmogrification: 122348
+  transudation: 128457
+not_scored_words:
+- Transfiguration
+- tranquilization

@@ -1,0 +1,22 @@
+---
+pattern: appr_d
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 12
+score: 533580
+score_per_word: 48507
+hi_scored_words:
+  appraised: 29394
+  appreciated: 5653
+  apprehend: 40978
+  apprehended: 36268
+  apprenticed: 71416
+  apprised: 55148
+  approached: 5733
+  appropriated: 14922
+  approved: 1675
+  approximated: 37914
+scored_words:
+  appressed: 234479
+not_scored_words:
+- approbated

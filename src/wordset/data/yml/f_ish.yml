@@ -1,0 +1,39 @@
+---
+pattern: f_ish
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 29
+score: 1636262
+score_per_word: 102266
+hi_scored_words:
+  fetish: 12050
+  feverish: 36537
+  fiendish: 51551
+  finish: 1915
+  fish: 1051
+  flatfish: 84818
+  flourish: 15213
+  foolish: 8141
+  freakish: 69928
+  furnish: 9465
+scored_words:
+  faddish: 246443
+  finfish: 108648
+  flattish: 283488
+  foppish: 204596
+  frogfish: 216830
+  furbish: 285588
+not_scored_words:
+- Finnish
+- Flemish
+- Frankish
+- fairish
+- fallfish
+- famish
+- fattish
+- filefish
+- fogeyish
+- fogyish
+- fortyish
+- frumpish
+- fullish

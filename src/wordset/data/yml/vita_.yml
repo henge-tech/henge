@@ -1,0 +1,31 @@
+---
+pattern: vita_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 1315241
+score_per_word: 101172
+hi_scored_words:
+  vita: 14157
+  vitae: 26614
+  vital: 3305
+  vitality: 14221
+  vitally: 35919
+  vitals: 46172
+  vitamin: 8330
+  vitamins: 6432
+scored_words:
+  vitalism: 210129
+  vitalize: 166085
+  vitalized: 260987
+  vitalizer: 322917
+  vitalizing: 199973
+not_scored_words:
+- vitaceous
+- vitalisms
+- vitalist
+- vitalistic
+- vitalists
+- vitalization
+- vitalizes
+- vitascope

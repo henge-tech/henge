@@ -1,0 +1,73 @@
+---
+pattern: ma_on
+hi_scored_words_count: 23
+scored_words_count: 12
+total_words: 63
+score: 2815676
+score_per_word: 80447
+hi_scored_words:
+  macron: 91599
+  magnetization: 35649
+  magnetron: 92712
+  magnification: 21930
+  malathion: 90381
+  malformation: 54056
+  malfunction: 24980
+  malnutrition: 23269
+  mammon: 66042
+  manifestation: 19466
+  manipulation: 10949
+  mansion: 7131
+  marathon: 14625
+  marginalization: 63410
+  maroon: 20797
+  marron: 87632
+  mason: 5262
+  mastodon: 54876
+  masturbation: 14842
+  matriculation: 48364
+  matron: 33125
+  maturation: 24998
+  maximization: 43297
+scored_words:
+  macaroon: 112305
+  maceration: 116929
+  machination: 206902
+  magneton: 216067
+  magnetostriction: 294415
+  maladministration: 128764
+  malediction: 159494
+  malocclusion: 106834
+  malversation: 169309
+  manumission: 113660
+  mastication: 116599
+  materialization: 125006
+not_scored_words:
+- Macedon
+- Macon
+- Macpherson
+- Madison
+- Maintenon
+- Malathion
+- Maldon
+- Mammon
+- Manson
+- Maranon
+- Marathon
+- Marion
+- Marlon
+- Marylon
+- Mason
+- Mathewson
+- Mawson
+- Mayon
+- machicolation
+- macroinstruction
+- maculation
+- malefaction
+- malison
+- malposition
+- mamelon
+- marination
+- martyrization
+- mascon

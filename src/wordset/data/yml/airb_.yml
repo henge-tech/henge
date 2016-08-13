@@ -1,0 +1,25 @@
+---
+pattern: airb_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 15
+score: 1515539
+score_per_word: 108252
+hi_scored_words:
+  airbag: 30645
+  airbags: 33382
+  airbase: 68288
+  airborne: 14837
+  airbrush: 34506
+  airbrushed: 74444
+  airbrushing: 89851
+  airbus: 21451
+scored_words:
+  airbases: 217712
+  airbed: 203842
+  airbeds: 163090
+  airboat: 112742
+  airbrushes: 153329
+  airburst: 297420
+not_scored_words:
+- airbuses

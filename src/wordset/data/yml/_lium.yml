@@ -1,0 +1,40 @@
+---
+pattern: _lium
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 30
+score: 2135313
+score_per_word: 112384
+hi_scored_words:
+  allium: 58506
+  beryllium: 38228
+  endothelium: 38609
+  epithelium: 24226
+  gallium: 43688
+  helium: 18636
+  ilium: 70686
+  mycelium: 71196
+  penicillium: 92473
+  thallium: 53353
+  trifolium: 89167
+  trillium: 52632
+scored_words:
+  bdellium: 181236
+  berkelium: 311366
+  cilium: 201034
+  folium: 235128
+  mesothelium: 235077
+  pallium: 110130
+  thulium: 209942
+not_scored_words:
+- Ilium
+- Valium
+- dentalium
+- hypotrachelium
+- milium
+- nobelium
+- peculium
+- promycelium
+- scholium
+- subsellium
+- telium

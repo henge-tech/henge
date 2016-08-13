@@ -1,0 +1,32 @@
+---
+pattern: gra_ly
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 22
+score: 772085
+score_per_word: 64340
+hi_scored_words:
+  gracefully: 19582
+  graciously: 33227
+  gradually: 4502
+  grammatically: 59364
+  grandly: 92133
+  graphically: 26325
+  gratefully: 20273
+  gratuitously: 63334
+  gravelly: 59854
+  gravely: 24264
+scored_words:
+  grandiloquently: 229159
+  gravitationally: 140068
+not_scored_words:
+- gracelessly
+- gradationally
+- gradely
+- grandfatherly
+- grandiosely
+- grandmotherly
+- graspingly
+- gratifyingly
+- gratingly
+- gravimetrically

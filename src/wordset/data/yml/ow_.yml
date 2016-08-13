@@ -1,0 +1,32 @@
+---
+pattern: ow_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 22
+score: 540232
+score_per_word: 31778
+hi_scored_words:
+  ow: 16821
+  owe: 6621
+  owed: 9224
+  owes: 16505
+  owing: 8444
+  owl: 7869
+  owls: 15886
+  own: 147
+  owned: 2083
+  owner: 1191
+  owners: 2315
+  ownership: 4630
+  owning: 12601
+  owns: 5237
+scored_words:
+  owlet: 120726
+  owlish: 182729
+  ownerships: 127203
+not_scored_words:
+- Owen
+- Owenism
+- Owens
+- owlets
+- owlishly

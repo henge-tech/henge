@@ -1,0 +1,73 @@
+---
+pattern: _oner
+hi_scored_words_count: 26
+scored_words_count: 15
+total_words: 63
+score: 3579925
+score_per_word: 87315
+hi_scored_words:
+  almoner: 61311
+  boner: 38048
+  commissioner: 5153
+  commoner: 53191
+  conditioner: 17744
+  confectioner: 90682
+  coroner: 20930
+  crooner: 83001
+  executioner: 31991
+  falconer: 36015
+  goner: 73862
+  kroner: 37196
+  loner: 41962
+  parishioner: 73450
+  pensioner: 36842
+  petitioner: 17236
+  practitioner: 10550
+  prisoner: 5133
+  questioner: 47975
+  reasoner: 80867
+  schooner: 23370
+  sooner: 5145
+  stoner: 25599
+  summoner: 49884
+  toner: 13141
+  wagoner: 51088
+scored_words:
+  concessioner: 196066
+  exhibitioner: 148595
+  honer: 249917
+  honeymooner: 265761
+  marathoner: 160650
+  missioner: 170762
+  pardoner: 239570
+  poisoner: 144490
+  positioner: 119032
+  probationer: 103524
+  provisioner: 153460
+  reckoner: 135264
+  reversioner: 194689
+  stationer: 110444
+  vacationer: 156335
+not_scored_words:
+- Londoner
+- Reasoner
+- atoner
+- condoner
+- conventioner
+- doggoner
+- emblazoner
+- extortioner
+- fashioner
+- harpooner
+- intoner
+- ironer
+- lampooner
+- malpractitioner
+- munitioner
+- postponer
+- redemptioner
+- requisitioner
+- seasoner
+- telephoner
+- tenoner
+- uncommoner

@@ -1,0 +1,45 @@
+---
+pattern: _olic
+hi_scored_words_count: 21
+scored_words_count: 5
+total_words: 35
+score: 1454013
+score_per_word: 55923
+hi_scored_words:
+  alcoholic: 11333
+  anabolic: 26867
+  apostolic: 19395
+  bucolic: 71942
+  catabolic: 87548
+  catholic: 2209
+  colic: 34564
+  diabolic: 47721
+  diastolic: 36833
+  folic: 30158
+  frolic: 37651
+  hyperbolic: 27945
+  melancholic: 53649
+  metabolic: 14184
+  parabolic: 32803
+  phenolic: 40903
+  shopaholic: 77991
+  symbolic: 8977
+  systolic: 30510
+  vitriolic: 72765
+  workaholic: 64013
+scored_words:
+  carbolic: 107835
+  chocoholic: 140265
+  embolic: 126781
+  nonalcoholic: 106694
+  shambolic: 142477
+not_scored_words:
+- Aeolic
+- Anatolic
+- Catholic
+- Eolic
+- Mongolic
+- amphibolic
+- ecbolic
+- hypergolic
+- petrolic

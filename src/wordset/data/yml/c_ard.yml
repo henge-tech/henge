@@ -1,0 +1,40 @@
+---
+pattern: c_ard
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 30
+score: 1479899
+score_per_word: 70471
+hi_scored_words:
+  canard: 56272
+  card: 980
+  cardboard: 14366
+  chalkboard: 44822
+  chard: 37504
+  checkerboard: 56133
+  chessboard: 65331
+  chipboard: 94659
+  churchyard: 29446
+  clapboard: 84655
+  clipboard: 20709
+  coastguard: 42514
+  collard: 56071
+  courtyard: 7940
+  coward: 13554
+  cupboard: 15794
+  custard: 22572
+scored_words:
+  camelopard: 200914
+  centerboard: 195251
+  corkboard: 211627
+  costard: 208785
+not_scored_words:
+- Card
+- Communard
+- Coward
+- Cunard
+- cafard
+- cheeseboard
+- clapperboard
+- coastward
+- cradleboard

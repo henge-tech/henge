@@ -1,0 +1,30 @@
+---
+pattern: sus_s
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 20
+score: 638134
+score_per_word: 63813
+hi_scored_words:
+  susceptibilities: 93474
+  suspects: 11262
+  suspenders: 41423
+  suspends: 48884
+  suspensions: 26008
+  suspicions: 18113
+  suspicious: 7931
+  suss: 72347
+  sustains: 35914
+scored_words:
+  suspiciousness: 282778
+not_scored_words:
+- susliks
+- suspensors
+- suspiciousnesses
+- susses
+- sustainabilities
+- sustainments
+- sustentations
+- susurrates
+- susurrous
+- susurrus

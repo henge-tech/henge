@@ -1,0 +1,36 @@
+---
+pattern: mast_s
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 26
+score: 1507315
+score_per_word: 100487
+hi_scored_words:
+  masterclass: 45434
+  masterclasses: 95367
+  masterminds: 70545
+  masterpieces: 22514
+  masters: 2959
+  masterworks: 56309
+  mastitis: 56939
+  masts: 34625
+  masturbates: 56689
+scored_words:
+  mastectomies: 238266
+  mastheads: 192975
+  mastiffs: 110362
+  mastodons: 172419
+  mastoiditis: 244105
+  masturbators: 107807
+not_scored_words:
+- Masters
+- masterfulness
+- masterliness
+- masterships
+- masterstrokes
+- masticates
+- mastigophorans
+- mastitides
+- mastoidectomies
+- mastoiditides
+- mastoids

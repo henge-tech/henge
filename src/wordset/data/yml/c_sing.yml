@@ -1,0 +1,54 @@
+---
+pattern: c_sing
+hi_scored_words_count: 24
+scored_words_count: 6
+total_words: 44
+score: 1526345
+score_per_word: 50878
+hi_scored_words:
+  canvassing: 40800
+  caressing: 44427
+  casing: 21107
+  causing: 4092
+  ceasing: 37416
+  chasing: 10839
+  choosing: 4641
+  cleansing: 13171
+  closing: 3043
+  collapsing: 32673
+  composing: 16278
+  compressing: 41810
+  comprising: 10129
+  compromising: 22712
+  condensing: 39133
+  confessing: 44131
+  confusing: 9934
+  conversing: 42007
+  coursing: 53720
+  creasing: 59934
+  crossing: 3669
+  cruising: 13202
+  cursing: 24690
+  cussing: 69824
+scored_words:
+  carousing: 136931
+  chastising: 121782
+  classing: 134524
+  compassing: 162156
+  convulsing: 146400
+  crisscrossing: 161170
+not_scored_words:
+- callousing
+- callusing
+- canvasing
+- caucusing
+- censing
+- censusing
+- cheesing
+- chorusing
+- circumcising
+- circumfusing
+- concussing
+- consing
+- contusing
+- counterpoising

@@ -1,0 +1,32 @@
+---
+pattern: e_sed
+hi_scored_words_count: 18
+scored_words_count: 2
+total_words: 22
+score: 743392
+score_per_word: 37169
+hi_scored_words:
+  eased: 27089
+  eclipsed: 44093
+  elapsed: 16165
+  embarrassed: 11326
+  embossed: 26091
+  encased: 36359
+  enclosed: 6888
+  encompassed: 33729
+  endorsed: 11049
+  engrossed: 29700
+  enthused: 62125
+  erased: 23578
+  espoused: 42771
+  excised: 49824
+  excused: 15372
+  exercised: 8412
+  exposed: 3294
+  expressed: 1853
+scored_words:
+  enfranchised: 153420
+  exorcised: 140254
+not_scored_words:
+- effused
+- emersed

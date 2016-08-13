@@ -1,0 +1,36 @@
+---
+pattern: d_ler
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 26
+score: 2230426
+score_per_word: 131201
+hi_scored_words:
+  dazzler: 97794
+  dealer: 4422
+  dialer: 41549
+  distiller: 61288
+  doubler: 79700
+  driller: 59750
+  duller: 87883
+  dweller: 37890
+scored_words:
+  dabbler: 177111
+  dangler: 165964
+  defiler: 150796
+  disassembler: 141468
+  dismantler: 271277
+  dissembler: 136811
+  doodler: 265039
+  dribbler: 209839
+  dueler: 241845
+not_scored_words:
+- Daimler
+- Doppler
+- dawdler
+- despoiler
+- diddler
+- disentangler
+- dispeller
+- driveler
+- droller

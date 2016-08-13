@@ -1,0 +1,30 @@
+---
+pattern: f_nds
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 20
+score: 1502348
+score_per_word: 107310
+hi_scored_words:
+  fairgrounds: 31674
+  farmlands: 65607
+  fiends: 47947
+  finds: 2576
+  founds: 72540
+  friends: 333
+  fronds: 60792
+  funds: 2300
+scored_words:
+  farmhands: 279078
+  fends: 169490
+  firebrands: 229216
+  fishponds: 133984
+  foregrounds: 190117
+  foxhounds: 216694
+not_scored_words:
+- Falklands
+- Friends
+- fairylands
+- fatherlands
+- femtoseconds
+- forehands

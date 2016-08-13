@@ -1,0 +1,27 @@
+---
+pattern: inn_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 712647
+score_per_word: 64786
+hi_scored_words:
+  innards: 59939
+  innings: 17378
+  innkeepers: 64492
+  innocents: 33211
+  innocuous: 37774
+  innovations: 10195
+  innovators: 37384
+  inns: 12451
+scored_words:
+  innovates: 150032
+  innuendoes: 138219
+  innuendos: 151572
+not_scored_words:
+- innateness
+- innerness
+- innersoles
+- innervates
+- innocuousness
+- innoxious

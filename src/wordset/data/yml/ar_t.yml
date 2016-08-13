@@ -1,0 +1,64 @@
+---
+pattern: ar_t
+hi_scored_words_count: 23
+scored_words_count: 14
+total_words: 54
+score: 3524155
+score_per_word: 95247
+hi_scored_words:
+  archaeologist: 35249
+  archeologist: 78299
+  architect: 9178
+  archivist: 28476
+  ardent: 20159
+  aren't: 2817
+  argent: 22122
+  argonaut: 61695
+  argument: 1511
+  aright: 57235
+  aristocrat: 35554
+  armament: 26766
+  armpit: 34319
+  armrest: 60747
+  arraignment: 55192
+  arrangement: 3441
+  arrest: 4328
+  arrogant: 14149
+  arrondissement: 52883
+  arsonist: 97821
+  art: 275
+  artifact: 19818
+  artist: 1252
+scored_words:
+  arbalest: 223352
+  arbitrament: 191749
+  arborescent: 222702
+  archit: 237245
+  archpriest: 215713
+  archt: 226794
+  argot: 109373
+  armlet: 147406
+  aromatherapist: 265768
+  arpent: 340886
+  arrant: 113907
+  arrestment: 289343
+  arrowroot: 112986
+  artiest: 103645
+not_scored_words:
+- Arabist
+- Arafat
+- Ararat
+- Arbuthnot
+- Argonaut
+- Arhat
+- Arkwright
+- Arpanet
+- Art
+- arboriculturist
+- archaist
+- archest
+- archivolt
+- armet
+- armipotent
+- artillerist
+- artsiest

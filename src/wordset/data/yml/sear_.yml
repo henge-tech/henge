@@ -1,0 +1,25 @@
+---
+pattern: sear_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 15
+score: 916774
+score_per_word: 65483
+hi_scored_words:
+  sear: 37995
+  search: 389
+  searched: 5143
+  searcher: 43161
+  searchers: 40447
+  searches: 6488
+  searching: 2831
+  searchlight: 45500
+  searchlights: 93180
+  seared: 43470
+  searing: 42394
+  sears: 14014
+scored_words:
+  searchingly: 218586
+  searingly: 323176
+not_scored_words:
+- Sears

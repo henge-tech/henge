@@ -1,0 +1,38 @@
+---
+pattern: tri_al
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 28
+score: 1455839
+score_per_word: 97055
+hi_scored_words:
+  trial: 1279
+  triaxial: 96625
+  tribal: 7797
+  tribunal: 7509
+  triennial: 48878
+  trigeminal: 54604
+  trilateral: 66432
+  trilingual: 89457
+  triumphal: 47674
+  trivial: 8486
+scored_words:
+  tricentennial: 328107
+  trifocal: 155856
+  trigonal: 126833
+  triliteral: 202752
+  trinomial: 213550
+not_scored_words:
+- tridimensional
+- trifacial
+- trigonometrical
+- trihedral
+- trimestral
+- trimestrial
+- trimetrical
+- trinal
+- tripedal
+- tripersonal
+- tripodal
+- triserial
+- triumviral

@@ -1,0 +1,25 @@
+---
+pattern: _vals
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 556308
+score_per_word: 46359
+hi_scored_words:
+  approvals: 17344
+  arrivals: 12447
+  carnivals: 48871
+  festivals: 6724
+  intervals: 5664
+  ovals: 62538
+  removals: 34183
+  revivals: 61657
+  rivals: 10819
+  upheavals: 67414
+scored_words:
+  retrievals: 108059
+  survivals: 120588
+not_scored_words:
+- coevals
+- reprovals
+- servals

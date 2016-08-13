@@ -1,0 +1,38 @@
+---
+pattern: se_nt
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 28
+score: 1379928
+score_per_word: 65710
+hi_scored_words:
+  seafront: 49699
+  sealant: 38002
+  seamount: 89168
+  secant: 88033
+  secondment: 81594
+  sediment: 13003
+  segment: 8332
+  sent: 556
+  sentient: 29445
+  sentiment: 8205
+  sequent: 69324
+  sergeant: 7820
+  serjeant: 93477
+  serpent: 12871
+  servant: 5335
+  settlement: 2687
+  sextant: 55086
+scored_words:
+  securement: 127329
+  semipermanent: 266528
+  semitransparent: 228082
+  senescent: 105352
+not_scored_words:
+- Septuagint
+- Sergeant
+- sejant
+- selenodont
+- septavalent
+- septivalent
+- sexivalent

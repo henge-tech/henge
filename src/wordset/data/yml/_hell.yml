@@ -1,0 +1,23 @@
+---
+pattern: _hell
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 13
+score: 295308
+score_per_word: 36913
+hi_scored_words:
+  bombshell: 37359
+  clamshell: 47675
+  eggshell: 57699
+  hell: 1921
+  nutshell: 24186
+  seashell: 47654
+  shell: 2824
+  tortoiseshell: 75990
+scored_words: {}
+not_scored_words:
+- Mitchell
+- Shell
+- Winchell
+- cockleshell
+- rakehell

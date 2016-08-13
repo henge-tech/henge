@@ -1,0 +1,93 @@
+---
+pattern: h_ness
+hi_scored_words_count: 17
+scored_words_count: 21
+total_words: 83
+score: 5105724
+score_per_word: 134361
+hi_scored_words:
+  handedness: 61013
+  handsomeness: 82443
+  happiness: 3365
+  hardiness: 56356
+  hardness: 15666
+  harness: 8450
+  harshness: 54052
+  heaviness: 55529
+  helpfulness: 41282
+  helplessness: 38353
+  highness: 27124
+  hoarseness: 91429
+  holiness: 13990
+  homelessness: 19830
+  homesickness: 72113
+  hopelessness: 40152
+  hotness: 62909
+scored_words:
+  hairiness: 276414
+  handiness: 155185
+  harmfulness: 237019
+  harmlessness: 227456
+  haughtiness: 134210
+  haziness: 282583
+  healthfulness: 304029
+  healthiness: 182331
+  heartiness: 212506
+  heartlessness: 242838
+  heedlessness: 233375
+  hideousness: 231646
+  hipness: 246721
+  hollowness: 144754
+  homeliness: 140150
+  hopefulness: 131066
+  horniness: 246342
+  hugeness: 227057
+  humaneness: 241182
+  humanness: 127377
+  humbleness: 137427
+not_scored_words:
+- Highness
+- Holiness
+- Hovhaness
+- habitualness
+- haggardness
+- haleness
+- halfheartedness
+- haphazardness
+- haplessness
+- hardheadedness
+- hardheartedness
+- harmoniousness
+- hastiness
+- hatefulness
+- hawkishness
+- headiness
+- heartsickness
+- heavenliness
+- heedfulness
+- heftiness
+- heinousness
+- hellishness
+- hereditariness
+- heterogeneousness
+- highhandedness
+- hilariousness
+- hilliness
+- hirsuteness
+- hoariness
+- homeyness
+- hominess
+- homogeneousness
+- honorableness
+- horribleness
+- horridness
+- horsiness
+- hotheadedness
+- huffiness
+- humorlessness
+- humorousness
+- hungriness
+- hurriedness
+- hurtfulness
+- huskiness
+- hypersensitiveness

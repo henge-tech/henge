@@ -1,0 +1,41 @@
+---
+pattern: i_ces
+hi_scored_words_count: 18
+scored_words_count: 2
+total_words: 31
+score: 971902
+score_per_word: 48595
+hi_scored_words:
+  ices: 38207
+  imbalances: 29844
+  incidences: 51392
+  inconveniences: 51573
+  indices: 18144
+  induces: 20929
+  indulgences: 54557
+  inferences: 24125
+  influences: 5660
+  inheritances: 98384
+  injustices: 42721
+  instances: 4166
+  insurances: 47602
+  intelligences: 50801
+  interfaces: 5950
+  interferences: 61969
+  introduces: 8842
+  invoices: 16988
+scored_words:
+  impertinences: 226178
+  interstices: 113870
+not_scored_words:
+- illuminances
+- impatiences
+- impuissances
+- inconsequences
+- incurrences
+- inherences
+- insurgences
+- interlaces
+- intermittences
+- intumescences
+- irrelevances

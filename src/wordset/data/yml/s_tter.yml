@@ -1,0 +1,39 @@
+---
+pattern: s_tter
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 29
+score: 2057071
+score_per_word: 97955
+hi_scored_words:
+  scatter: 15433
+  setter: 29685
+  shatter: 28738
+  shutter: 13362
+  sitter: 23560
+  spatter: 90866
+  splatter: 44246
+  splitter: 23938
+  spotter: 34598
+  sputter: 77266
+  squatter: 54095
+  stutter: 43272
+  submitter: 24080
+scored_words:
+  skitter: 128984
+  slitter: 207050
+  spitter: 160654
+  splutter: 195380
+  steamfitter: 316440
+  stonecutter: 193717
+  strutter: 214164
+  swatter: 137543
+not_scored_words:
+- Sitter
+- sandlotter
+- scutter
+- shipfitter
+- shopfitter
+- slotter
+- smatter
+- surrebutter

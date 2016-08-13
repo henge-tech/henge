@@ -1,0 +1,30 @@
+---
+pattern: prep_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 1033644
+score_per_word: 93967
+hi_scored_words:
+  preparations: 6778
+  preparedness: 21009
+  preparers: 97724
+  prepares: 12400
+  prepayments: 96479
+  prepositions: 54295
+  preposterous: 38001
+  preps: 41831
+scored_words:
+  prepays: 253958
+  preponderates: 278515
+  prepossessions: 132654
+not_scored_words:
+- prepackages
+- preponderances
+- prepossess
+- prepossesses
+- preposterousness
+- preppies
+- preppiness
+- prepubescents
+- prepuces

@@ -1,0 +1,65 @@
+---
+pattern: i_ous
+hi_scored_words_count: 26
+scored_words_count: 14
+total_words: 55
+score: 3253354
+score_per_word: 81333
+hi_scored_words:
+  idolatrous: 86989
+  igneous: 36611
+  ignominious: 74605
+  illustrious: 19914
+  imperious: 53356
+  impervious: 28428
+  impetuous: 49594
+  impious: 57863
+  inauspicious: 89644
+  incestuous: 56886
+  incongruous: 45261
+  inconspicuous: 48108
+  incredulous: 45692
+  indigenous: 7388
+  industrious: 32320
+  infamous: 11199
+  infectious: 9813
+  ingenious: 16765
+  inhomogeneous: 60128
+  injurious: 26886
+  innocuous: 37774
+  insidious: 23595
+  instantaneous: 19014
+  intravenous: 19945
+  invidious: 71705
+  irreligious: 95030
+scored_words:
+  impecunious: 169841
+  incautious: 164717
+  incurious: 169666
+  indecorous: 120357
+  infelicitous: 150281
+  ingenuous: 103385
+  inglorious: 114412
+  inharmonious: 242315
+  iniquitous: 105226
+  injudicious: 162104
+  insalubrious: 157687
+  insectivorous: 110031
+  isochronous: 101038
+  isomorphous: 257781
+not_scored_words:
+- ichorous
+- incapacious
+- incommodious
+- indeciduous
+- inefficacious
+- innoxious
+- inodorous
+- inofficious
+- intracutaneous
+- iodous
+- iridaceous
+- irriguous
+- isochroous
+- isologous
+- isomerous

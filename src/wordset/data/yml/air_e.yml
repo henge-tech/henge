@@ -1,0 +1,25 @@
+---
+pattern: air_e
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 15
+score: 914290
+score_per_word: 70330
+hi_scored_words:
+  airbase: 68288
+  airborne: 14837
+  airdrome: 64078
+  airfare: 21766
+  airframe: 41049
+  airline: 7501
+  airplane: 16136
+  airspace: 25351
+  airstrike: 60420
+  airtime: 39568
+  airwave: 94844
+scored_words:
+  airlike: 217771
+  airmobile: 242681
+not_scored_words:
+- Airdrie
+- Airedale

@@ -1,0 +1,39 @@
+---
+pattern: _oric
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 29
+score: 2227302
+score_per_word: 96839
+hi_scored_words:
+  boric: 60221
+  caloric: 32362
+  euphoric: 46145
+  folkloric: 80147
+  historic: 3312
+  hydrochloric: 36121
+  hydrofluoric: 86324
+  metaphoric: 85338
+  meteoric: 59414
+  paregoric: 95737
+  phosphoric: 41351
+  prehistoric: 16145
+  pyloric: 77289
+  rhetoric: 9463
+scored_words:
+  allegoric: 123975
+  anaphoric: 132687
+  chloric: 117284
+  dysphoric: 115805
+  fluoric: 223309
+  phantasmagoric: 253774
+  plethoric: 156518
+  pyrophoric: 270262
+  sophomoric: 104319
+not_scored_words:
+- Doric
+- Theodoric
+- aleatoric
+- categoric
+- choric
+- noncaloric

@@ -1,0 +1,40 @@
+---
+pattern: s_rn
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 30
+score: 1256053
+score_per_word: 69780
+hi_scored_words:
+  scorn: 20579
+  sojourn: 28844
+  southeastern: 15391
+  southern: 1475
+  southwestern: 14239
+  spurn: 71884
+  stern: 6090
+  stillborn: 50770
+  stubborn: 14147
+  subaltern: 76093
+  sunburn: 36622
+  sworn: 9607
+scored_words:
+  shoehorn: 119220
+  shopworn: 191295
+  shorthorn: 119712
+  sorn: 236407
+  suborn: 138973
+  sweetcorn: 104705
+not_scored_words:
+- Saturn
+- Severn
+- Shorthorn
+- Solothurn
+- Southern
+- Stern
+- saltern
+- saxhorn
+- secern
+- silvern
+- slattern
+- stinkhorn

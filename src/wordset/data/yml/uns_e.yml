@@ -1,0 +1,47 @@
+---
+pattern: uns_e
+hi_scored_words_count: 14
+scored_words_count: 12
+total_words: 37
+score: 2623057
+score_per_word: 100886
+hi_scored_words:
+  unsafe: 14899
+  unscramble: 93564
+  unshakable: 91016
+  unsheathe: 99901
+  unsinkable: 93471
+  unsolvable: 98720
+  unspeakable: 34899
+  unsportsmanlike: 75723
+  unstable: 9886
+  unstoppable: 32176
+  unsubscribe: 9376
+  unsuitable: 19655
+  unsure: 13026
+  unsustainable: 32118
+scored_words:
+  unsalable: 136200
+  unsaleable: 223706
+  unsatisfiable: 169401
+  unsearchable: 170226
+  unseasonable: 149467
+  unserviceable: 121679
+  unsettle: 128224
+  unshakeable: 139260
+  unsociable: 109461
+  unsubtle: 201906
+  unsupportable: 164675
+  unsurpassable: 190422
+not_scored_words:
+- unsaddle
+- unsaturate
+- unsealable
+- unsellable
+- unsensitive
+- unshackle
+- unshockable
+- unsphere
+- unsterile
+- unsusceptible
+- unswathe

@@ -1,0 +1,30 @@
+---
+pattern: powe_
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 20
+score: 481030
+score_per_word: 37002
+hi_scored_words:
+  power: 189
+  powerboat: 67133
+  powered: 5999
+  powerful: 1428
+  powerfully: 20667
+  powerhouse: 23012
+  powerhouses: 86278
+  powering: 28845
+  powerless: 22280
+  powerlessness: 64553
+  powers: 1930
+  powertrain: 53526
+scored_words:
+  powerboats: 105190
+not_scored_words:
+- Powell
+- PowerPC
+- PowerPoint
+- Powers
+- powerfulness
+- powerfulnesses
+- powerlessly

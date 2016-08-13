@@ -1,0 +1,51 @@
+---
+pattern: c_usly
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 41
+score: 1715336
+score_per_word: 100902
+hi_scored_words:
+  cautiously: 17643
+  conscientiously: 59456
+  consciously: 18427
+  conspicuously: 37488
+  contemporaneously: 80034
+  contemptuously: 82547
+  continuously: 8159
+  copiously: 85840
+  courageously: 52698
+  courteously: 70005
+  curiously: 18606
+scored_words:
+  callously: 139146
+  capriciously: 115758
+  ceremoniously: 140590
+  clamorously: 272640
+  commodiously: 305760
+  contiguously: 210539
+not_scored_words:
+- cadaverously
+- calamitously
+- calumniously
+- cancerously
+- cantankerously
+- capaciously
+- captiously
+- carnivorously
+- cavernously
+- censoriously
+- chivalrously
+- circuitously
+- clangorously
+- compendiously
+- compunctiously
+- congruously
+- consanguineously
+- contagiously
+- contentiously
+- conterminously
+- contumaciously
+- coterminously
+- covetously
+- credulously

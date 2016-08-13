@@ -1,0 +1,26 @@
+---
+pattern: i_ure
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 16
+score: 520998
+score_per_word: 47363
+hi_scored_words:
+  immature: 17570
+  impure: 30100
+  indenture: 45690
+  infrastructure: 13482
+  injure: 21677
+  insecure: 16931
+  insure: 8575
+  intermixture: 64358
+  inure: 91433
+  investiture: 75323
+scored_words:
+  imposture: 135859
+not_scored_words:
+- immixture
+- immure
+- impressure
+- incisure
+- intertexture

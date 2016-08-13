@@ -1,0 +1,46 @@
+---
+pattern: corp_
+hi_scored_words_count: 12
+scored_words_count: 12
+total_words: 36
+score: 2014393
+score_per_word: 83933
+hi_scored_words:
+  corp: 7892
+  corpora: 38881
+  corporal: 14404
+  corporate: 4414
+  corporation: 2077
+  corporations: 5371
+  corporatism: 83537
+  corporeal: 43652
+  corps: 3372
+  corpse: 8971
+  corpses: 23189
+  corpus: 10653
+scored_words:
+  corporals: 133445
+  corporately: 131458
+  corporatist: 104447
+  corporative: 135641
+  corporeality: 246022
+  corpsman: 101034
+  corpsmen: 185968
+  corpulence: 238325
+  corpulent: 106603
+  corpuscle: 127167
+  corpuscles: 114528
+  corpuscular: 143342
+not_scored_words:
+- Corp
+- Corporal
+- corporality
+- corporally
+- corporativism
+- corporativist
+- corporator
+- corporeally
+- corporeity
+- corposant
+- corposants
+- corpulency

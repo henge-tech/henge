@@ -1,0 +1,46 @@
+---
+pattern: ba_h
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 36
+score: 1529542
+score_per_word: 84974
+hi_scored_words:
+  bach: 11077
+  backlash: 23479
+  backslash: 53595
+  backwash: 57796
+  bah: 19337
+  balderdash: 70231
+  bandwidth: 9687
+  banish: 32130
+  bash: 11796
+  batch: 8965
+  bath: 2494
+scored_words:
+  babyish: 178719
+  backbench: 140872
+  backcloth: 171340
+  backstretch: 138130
+  badmouth: 208196
+  batfish: 240556
+  batholith: 151142
+not_scored_words:
+- Baath
+- Bach
+- Baha'ullah
+- Balkh
+- Balkhash
+- Banach
+- Bangladesh
+- Barth
+- Baruch
+- Bath
+- Bayreuth
+- Baywatch
+- backsheesh
+- backstitch
+- baksheesh
+- barograph
+- barometrograph
+- bathyscaph

@@ -1,0 +1,45 @@
+---
+pattern: grat_
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 35
+score: 1673750
+score_per_word: 66950
+hi_scored_words:
+  grate: 23110
+  grated: 24051
+  grateful: 4782
+  gratefully: 20273
+  grater: 50993
+  grates: 46659
+  gratification: 22476
+  gratified: 37207
+  gratifies: 90204
+  gratify: 51466
+  gratifying: 26608
+  gratin: 67496
+  grating: 21299
+  gratings: 55723
+  gratis: 10363
+  gratitude: 8728
+  gratuities: 67769
+  gratuitous: 29598
+  gratuitously: 63334
+  gratuity: 41352
+scored_words:
+  gratefulness: 179723
+  graters: 140085
+  graticule: 270463
+  gratifications: 174879
+  gratulation: 145109
+not_scored_words:
+- Gratian
+- Grattan
+- graticules
+- gratifier
+- gratifyingly
+- gratingly
+- gratins
+- gratuitousness
+- gratulant
+- gratulate

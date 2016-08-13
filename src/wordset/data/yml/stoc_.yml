@@ -1,0 +1,59 @@
+---
+pattern: stoc_
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 49
+score: 2669289
+score_per_word: 86106
+hi_scored_words:
+  stochastic: 16331
+  stock: 833
+  stockade: 51606
+  stockbroker: 49509
+  stockbrokers: 71966
+  stocked: 17262
+  stockholder: 38389
+  stockholders: 20393
+  stocking: 11200
+  stockings: 7628
+  stockists: 74341
+  stockman: 60246
+  stockpile: 30254
+  stockpiled: 75330
+  stockpiles: 50280
+  stockpiling: 61823
+  stockroom: 87667
+  stocks: 4373
+  stocky: 58957
+  stockyards: 80892
+scored_words:
+  stochastically: 150870
+  stockbroking: 151853
+  stockinette: 170909
+  stockinged: 149710
+  stockist: 109227
+  stockmen: 193395
+  stockpot: 125789
+  stockpots: 209061
+  stockrooms: 307354
+  stocktaking: 113797
+  stockyard: 118044
+not_scored_words:
+- Stockhausen
+- Stockholm
+- Stockport
+- Stockton
+- stockaded
+- stockades
+- stockading
+- stockbreeder
+- stockbreeders
+- stockbrokerage
+- stockier
+- stockiest
+- stockily
+- stockiness
+- stockinet
+- stockish
+- stockjobber
+- stockjobbers

@@ -1,0 +1,29 @@
+---
+pattern: co_ling
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 19
+score: 1668191
+score_per_word: 92677
+hi_scored_words:
+  coiling: 79340
+  compelling: 8260
+  compiling: 18381
+  concealing: 34403
+  consoling: 69187
+  controlling: 6077
+  cooling: 5782
+  counseling: 4366
+  countervailing: 53180
+  coupling: 14996
+  cowling: 59590
+scored_words:
+  coaling: 152693
+  cobbling: 225689
+  coddling: 139814
+  codling: 101926
+  commingling: 110729
+  congealing: 296494
+  corralling: 287284
+not_scored_words:
+- condoling

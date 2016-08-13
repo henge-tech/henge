@@ -1,0 +1,20 @@
+---
+pattern: pub_s
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 564324
+score_per_word: 62702
+hi_scored_words:
+  pubes: 46015
+  pubis: 86833
+  publicans: 99053
+  publications: 2745
+  publicists: 75752
+  publishers: 4006
+  publishes: 16014
+  pubs: 7945
+scored_words:
+  publicizes: 225961
+not_scored_words:
+- publicness

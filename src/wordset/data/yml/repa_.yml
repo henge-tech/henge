@@ -1,0 +1,64 @@
+---
+pattern: repa_
+hi_scored_words_count: 27
+scored_words_count: 17
+total_words: 54
+score: 4478438
+score_per_word: 101782
+hi_scored_words:
+  repack: 72229
+  repackaged: 64134
+  repackaging: 85741
+  repaid: 20070
+  repaint: 40817
+  repainted: 57356
+  repainting: 79395
+  repair: 2420
+  repairable: 72287
+  repaired: 10122
+  repairer: 69967
+  repairers: 69563
+  repairing: 13630
+  repairman: 65749
+  repairs: 6210
+  reparation: 35776
+  reparations: 34900
+  repartee: 61886
+  repast: 64529
+  repatriate: 74205
+  repatriated: 62793
+  repatriation: 29320
+  repay: 18610
+  repayable: 79458
+  repaying: 58904
+  repayment: 16785
+  repayments: 27103
+scored_words:
+  repackage: 101368
+  repacked: 164431
+  repacking: 145269
+  repaints: 172130
+  repairmen: 151452
+  reparable: 305065
+  reparative: 117584
+  repartition: 115787
+  repartitioning: 237182
+  repass: 237278
+  repasts: 196731
+  repatriates: 278726
+  repatriating: 143665
+  repatriations: 286134
+  repaved: 250352
+  repaving: 167135
+  repays: 114190
+not_scored_words:
+- repackages
+- repacks
+- repairwoman
+- repand
+- repaper
+- reparably
+- reparatory
+- repartitioned
+- repave
+- repaves

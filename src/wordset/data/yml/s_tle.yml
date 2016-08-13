@@ -1,0 +1,23 @@
+---
+pattern: s_tle
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 383462
+score_per_word: 42606
+hi_scored_words:
+  sandcastle: 76710
+  scuttle: 49855
+  settle: 4530
+  shuttle: 10504
+  spittle: 71700
+  startle: 44188
+  subtitle: 15983
+  subtle: 5839
+scored_words:
+  skittle: 104153
+not_scored_words:
+- Seattle
+- spurtle
+- supersubtle
+- surtitle

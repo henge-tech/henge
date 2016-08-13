@@ -1,0 +1,27 @@
+---
+pattern: _cut
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 975201
+score_per_word: 75015
+hi_scored_words:
+  clearcut: 94606
+  crosscut: 71555
+  cut: 651
+  haircut: 22300
+  recut: 77496
+  shortcut: 16383
+  uncut: 17857
+  undercut: 35233
+  uppercut: 77608
+  woodcut: 50379
+scored_words:
+  intercut: 150747
+  linocut: 234787
+  precut: 125599
+not_scored_words:
+- Calicut
+- Connecticut
+- feathercut
+- scut

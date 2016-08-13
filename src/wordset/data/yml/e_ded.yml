@@ -1,0 +1,31 @@
+---
+pattern: e_ded
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 21
+score: 1357234
+score_per_word: 67861
+hi_scored_words:
+  eluded: 48389
+  embedded: 8058
+  encoded: 14849
+  ended: 1562
+  eroded: 24409
+  evaded: 56028
+  exceeded: 9485
+  excluded: 6217
+  expanded: 4731
+  expended: 24765
+  exploded: 14624
+  expounded: 55328
+  extended: 1700
+  extruded: 36988
+scored_words:
+  elided: 153405
+  emended: 267742
+  enfolded: 167670
+  enshrouded: 175320
+  evenhanded: 178578
+  exuded: 107386
+not_scored_words:
+- enfiladed

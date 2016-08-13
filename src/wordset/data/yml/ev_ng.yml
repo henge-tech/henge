@@ -1,0 +1,30 @@
+---
+pattern: ev_ng
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 20
+score: 1174400
+score_per_word: 73400
+hi_scored_words:
+  evacuating: 64072
+  evading: 50244
+  evaluating: 6531
+  evangelizing: 99149
+  evaporating: 67671
+  evening: 1136
+  evensong: 80160
+  eventing: 59866
+  everlasting: 12733
+  everything: 414
+  evidencing: 79076
+  evoking: 55740
+  evolving: 14896
+scored_words:
+  evicting: 117129
+  evincing: 180861
+  eviscerating: 284722
+not_scored_words:
+- evanescing
+- eventuating
+- everliving
+- evildoing

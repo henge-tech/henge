@@ -1,0 +1,49 @@
+---
+pattern: f_ic
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 39
+score: 2301323
+score_per_word: 92052
+hi_scored_words:
+  fabric: 8848
+  fanatic: 20810
+  fantastic: 3111
+  ferric: 42615
+  ferroelectric: 78124
+  ferromagnetic: 58222
+  folic: 30158
+  folkloric: 80147
+  forensic: 15381
+  formic: 65826
+  formulaic: 58444
+  frantic: 16089
+  frenetic: 48724
+  frolic: 37651
+  futuristic: 23513
+scored_words:
+  fascistic: 169438
+  fatalistic: 103045
+  fetishistic: 221562
+  fibrotic: 130141
+  floristic: 113252
+  fluoric: 223309
+  fluoroscopic: 130061
+  folkloristic: 239836
+  formalistic: 178586
+  fustic: 204430
+not_scored_words:
+- FDIC
+- FSLIC
+- Fascistic
+- Finnic
+- Frederic
+- Fredric
+- faradic
+- fatidic
+- faunistic
+- febrific
+- felicific
+- feudalistic
+- fistic
+- frigorific

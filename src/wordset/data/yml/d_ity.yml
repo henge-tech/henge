@@ -1,0 +1,70 @@
+---
+pattern: d_ity
+hi_scored_words_count: 27
+scored_words_count: 14
+total_words: 60
+score: 3944986
+score_per_word: 96219
+hi_scored_words:
+  debility: 79423
+  deductibility: 94110
+  deformity: 32110
+  deity: 14337
+  density: 5878
+  dependability: 47597
+  depravity: 37485
+  desirability: 36230
+  dexterity: 23234
+  diffusivity: 74052
+  digestibility: 72927
+  dignity: 5921
+  dimensionality: 50624
+  directionality: 86498
+  disability: 7594
+  discontinuity: 27251
+  disparity: 20780
+  dissimilarity: 66877
+  disunity: 90075
+  diversity: 4870
+  divinity: 14012
+  divisibility: 91440
+  domesticity: 69999
+  duality: 25355
+  ductility: 72033
+  duplicity: 47757
+  durability: 16424
+scored_words:
+  decidability: 137391
+  declivity: 151763
+  defensibility: 335264
+  degradability: 242228
+  deliverability: 164507
+  deniability: 133493
+  deployability: 274709
+  detectability: 126777
+  differentiability: 165857
+  dimity: 234708
+  distributivity: 258141
+  docility: 115190
+  drinkability: 134205
+  drivability: 255860
+not_scored_words:
+- Deity
+- Divinity
+- dacoity
+- delectability
+- demonstrability
+- destructibility
+- detachability
+- dextrality
+- diaphaneity
+- discernibility
+- discommodity
+- disconformity
+- disingenuity
+- disposability
+- distensibility
+- dubiosity
+- ductilibility
+- dupability
+- duplicability

@@ -1,0 +1,71 @@
+---
+pattern: miss_
+hi_scored_words_count: 23
+scored_words_count: 12
+total_words: 61
+score: 3570414
+score_per_word: 102011
+hi_scored_words:
+  miss: 1003
+  missal: 80572
+  missed: 2467
+  misses: 11972
+  misshapen: 70548
+  missile: 9947
+  missiles: 12418
+  missing: 2157
+  mission: 1195
+  missionaries: 12351
+  missionary: 9014
+  missions: 6395
+  missive: 58155
+  misspell: 98004
+  misspelled: 31398
+  misspelling: 52456
+  misspellings: 51675
+  misstatement: 81600
+  misstatements: 89945
+  misstep: 77924
+  missteps: 85613
+  missus: 40815
+  missy: 18201
+scored_words:
+  missals: 304100
+  missioner: 170762
+  missioners: 219847
+  missis: 127674
+  missives: 102140
+  misspells: 293599
+  misspent: 106865
+  misspoke: 188934
+  misstate: 333106
+  misstated: 149662
+  misstates: 327413
+  misstating: 340487
+not_scored_words:
+- Miss
+- Mississauga
+- Mississippi
+- Mississippian
+- Mississippians
+- Missouri
+- Missourian
+- Missourians
+- Missy
+- missend
+- misshape
+- misshaped
+- misshapenly
+- misshapes
+- misshaping
+- missies
+- missilery
+- missises
+- misspeak
+- misspeaking
+- misspeaks
+- misspend
+- misspending
+- misspends
+- misspoken
+- missuses

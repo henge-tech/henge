@@ -1,0 +1,31 @@
+---
+pattern: s_bed
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 21
+score: 1924464
+score_per_word: 106914
+hi_scored_words:
+  scribed: 64955
+  scrubbed: 26244
+  seabed: 39228
+  snubbed: 65917
+  sobbed: 57141
+  stabbed: 21287
+  stubbed: 97420
+  subbed: 83963
+  subscribed: 13060
+  succumbed: 36958
+  sunbed: 81419
+scored_words:
+  scabbed: 286396
+  seedbed: 114112
+  sickbed: 271127
+  slabbed: 207502
+  sorbed: 158650
+  streambed: 119488
+  swabbed: 179597
+not_scored_words:
+- slobbed
+- slugabed
+- superscribed

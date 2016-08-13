@@ -1,0 +1,28 @@
+---
+pattern: pipe_
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 18
+score: 553190
+score_per_word: 46099
+hi_scored_words:
+  pipe: 2903
+  piped: 34184
+  pipeline: 9246
+  pipelines: 20499
+  piper: 12955
+  pipers: 47679
+  pipes: 6440
+  pipestone: 87187
+  pipette: 42705
+  pipettes: 61274
+  pipework: 74489
+scored_words:
+  piperidine: 153629
+not_scored_words:
+- pipeful
+- pipefuls
+- piperaceous
+- piperine
+- piperines
+- piperonal

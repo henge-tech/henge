@@ -1,0 +1,34 @@
+---
+pattern: _enly
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 24
+score: 1064582
+score_per_word: 76041
+hi_scored_words:
+  brazenly: 96844
+  evenly: 13500
+  heavenly: 7307
+  keenly: 25101
+  mistakenly: 31433
+  openly: 7876
+  suddenly: 2441
+  sullenly: 90444
+  unevenly: 55655
+scored_words:
+  brokenly: 235584
+  drunkenly: 109323
+  maidenly: 118712
+  queenly: 161405
+  slovenly: 108957
+not_scored_words:
+- citizenly
+- cravenly
+- greenly
+- heartbrokenly
+- leadenly
+- misshapenly
+- outspokenly
+- rottenly
+- soddenly
+- woodenly

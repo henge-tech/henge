@@ -1,0 +1,57 @@
+---
+pattern: n_ion
+hi_scored_words_count: 24
+scored_words_count: 9
+total_words: 47
+score: 2813903
+score_per_word: 85269
+hi_scored_words:
+  narration: 22580
+  nation: 1126
+  nationalization: 59332
+  naturalization: 29920
+  navigation: 3242
+  negation: 24654
+  negotiation: 7910
+  neutralization: 42530
+  nitrification: 90472
+  nomination: 7470
+  nondiscrimination: 58642
+  nonfiction: 13495
+  nonprescription: 74049
+  nonproliferation: 55826
+  nonunion: 82993
+  normalization: 27141
+  notation: 14103
+  notification: 7909
+  notion: 4207
+  novation: 69143
+  novelization: 91669
+  nucleation: 45213
+  nullification: 61327
+  nutrition: 7341
+scored_words:
+  natation: 182367
+  nebulization: 303943
+  nitration: 131377
+  noncooperation: 271223
+  nonparticipation: 271850
+  nonrecognition: 280851
+  notarization: 214750
+  numeration: 112708
+  nutation: 142540
+not_scored_words:
+- Nation
+- narcotization
+- nasalization
+- nasion
+- nauseation
+- necessitation
+- nictitation
+- nonaggression
+- noncomprehension
+- nondisjunction
+- nonelection
+- nonillion
+- nonimportation
+- nonintervention

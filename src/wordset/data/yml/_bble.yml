@@ -1,0 +1,48 @@
+---
+pattern: _bble
+hi_scored_words_count: 22
+scored_words_count: 6
+total_words: 38
+score: 1956856
+score_per_word: 69887
+hi_scored_words:
+  babble: 27282
+  bobble: 31548
+  bubble: 6938
+  cobble: 36627
+  dabble: 57959
+  dibble: 61670
+  drabble: 79974
+  dribble: 38120
+  gobble: 41192
+  gribble: 77604
+  hobble: 68597
+  kibble: 74568
+  nibble: 38423
+  pebble: 18417
+  quibble: 40378
+  rabble: 25578
+  rubble: 26137
+  scrabble: 20284
+  scribble: 39205
+  squabble: 60515
+  stubble: 36949
+  wobble: 33272
+scored_words:
+  gabble: 176089
+  hardscrabble: 141739
+  nobble: 126006
+  nubble: 318472
+  psychobabble: 145609
+  technobabble: 107704
+not_scored_words:
+- Hubble
+- Scrabble
+- bedabble
+- bedrabble
+- brabble
+- cribble
+- fribble
+- grabble
+- nybble
+- scabble

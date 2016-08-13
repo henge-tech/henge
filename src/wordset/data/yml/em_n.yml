@@ -1,0 +1,36 @@
+---
+pattern: em_n
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 26
+score: 1916402
+score_per_word: 100863
+hi_scored_words:
+  emanation: 67294
+  emancipation: 17922
+  embarkation: 51780
+  embolization: 69490
+  emigration: 20095
+  emission: 13268
+  emoticon: 43511
+  emotion: 5394
+  empyrean: 98052
+  emulation: 15663
+  emulsion: 29617
+scored_words:
+  emaciation: 139755
+  emasculation: 125379
+  emblazon: 247110
+  embolden: 107233
+  embrocation: 241919
+  emendation: 146028
+  emersion: 290785
+  emulsification: 186107
+not_scored_words:
+- Emden
+- Emerson
+- Emersonian
+- Emmen
+- Empirin
+- Empson
+- empoison

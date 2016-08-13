@@ -1,0 +1,44 @@
+---
+pattern: _gues
+hi_scored_words_count: 16
+scored_words_count: 11
+total_words: 34
+score: 2611271
+score_per_word: 96713
+hi_scored_words:
+  analogues: 38515
+  argues: 9082
+  catalogues: 19161
+  colleagues: 5321
+  demagogues: 98583
+  dialogues: 23240
+  fatigues: 52026
+  ideologues: 71633
+  intrigues: 40070
+  leagues: 6821
+  monologues: 42055
+  plagues: 37009
+  rogues: 32142
+  synagogues: 35493
+  tongues: 13275
+  travelogues: 52719
+scored_words:
+  brogues: 146605
+  drogues: 191582
+  eclogues: 182738
+  fugues: 110700
+  harangues: 205891
+  meringues: 132046
+  morgues: 232450
+  pedagogues: 216282
+  prologues: 231903
+  segues: 132505
+  vogues: 251424
+not_scored_words:
+- apologues
+- collogues
+- duologues
+- epilogues
+- outargues
+- pirogues
+- prorogues

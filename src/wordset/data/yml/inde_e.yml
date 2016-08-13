@@ -1,0 +1,31 @@
+---
+pattern: inde_e
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 21
+score: 1298269
+score_per_word: 81141
+hi_scored_words:
+  indecipherable: 96056
+  indecisive: 61235
+  indefatigable: 53580
+  indefensible: 61098
+  indefinable: 91991
+  indefinite: 23049
+  indelible: 39286
+  indenture: 45690
+  independence: 2943
+  indescribable: 36759
+  indestructible: 39577
+  indeterminate: 29178
+scored_words:
+  indeclinable: 153755
+  indefeasible: 205844
+  indelicate: 138872
+  indeterminable: 219356
+not_scored_words:
+- Independence
+- indefectible
+- indeliberate
+- indemonstrable
+- indene

@@ -1,0 +1,72 @@
+---
+pattern: i_ry
+hi_scored_words_count: 26
+scored_words_count: 17
+total_words: 62
+score: 3804762
+score_per_word: 88482
+hi_scored_words:
+  idolatry: 31373
+  illusory: 37846
+  imagery: 9718
+  imaginary: 9677
+  incendiary: 38832
+  industry: 927
+  infantry: 5934
+  infirmary: 32862
+  inflammatory: 13325
+  inflationary: 35252
+  inhibitory: 23446
+  injury: 2181
+  inquiry: 3120
+  inspiratory: 84203
+  interdisciplinary: 11384
+  interferometry: 59525
+  interlocutory: 65616
+  intermediary: 21702
+  interplanetary: 39783
+  interrogatory: 78356
+  introductory: 9877
+  inventory: 5467
+  investigatory: 68859
+  involuntary: 17991
+  itinerary: 19846
+  ivory: 6513
+scored_words:
+  illocutionary: 194452
+  illusionary: 129491
+  immunochemistry: 116851
+  improvisatory: 240041
+  incantatory: 162765
+  inculpatory: 216611
+  informatory: 332243
+  initiatory: 151109
+  innovatory: 273878
+  insanitary: 216232
+  insurrectionary: 214618
+  integumentary: 122246
+  intercalary: 174296
+  intercessory: 126970
+  intermarry: 156103
+  ironmongery: 131051
+  isometry: 112190
+not_scored_words:
+- Ivory
+- iatrochemistry
+- iconolatry
+- implicatory
+- imprecatory
+- incensory
+- inclinatory
+- incriminatory
+- indicatory
+- indoctrinatory
+- ingratiatory
+- inkberry
+- interdictory
+- interjectory
+- intimidatory
+- invitatory
+- invocatory
+- involutionary
+- iodometry

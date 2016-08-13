@@ -1,0 +1,40 @@
+---
+pattern: red_ed
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 30
+score: 2193419
+score_per_word: 104448
+hi_scored_words:
+  redacted: 40518
+  reddened: 74262
+  redecorated: 88581
+  redeemed: 20093
+  redefined: 29756
+  redeployed: 97317
+  redesigned: 19185
+  redeveloped: 64533
+  redheaded: 54864
+  redirected: 23061
+  rediscovered: 44867
+  redistributed: 23590
+  redoubled: 87241
+  reduced: 1854
+scored_words:
+  rededicated: 162656
+  redeposited: 244478
+  redetermined: 279596
+  redisplayed: 237487
+  redlined: 328667
+  redrafted: 162121
+  redressed: 108692
+not_scored_words:
+- redelivered
+- redialed
+- rediscussed
+- redissolved
+- redistricted
+- redivided
+- redounded
+- reduplicated
+- redyed

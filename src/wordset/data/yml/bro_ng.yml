@@ -1,0 +1,28 @@
+---
+pattern: bro_ng
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 956663
+score_per_word: 79721
+hi_scored_words:
+  broadcasting: 7806
+  broadening: 29212
+  broiling: 91965
+  brokering: 56287
+  broking: 76779
+  brooding: 27139
+  browning: 14936
+  browsing: 10600
+scored_words:
+  broaching: 125609
+  bronzing: 100864
+  brooking: 126050
+  browbeating: 289416
+not_scored_words:
+- Browning
+- broadsiding
+- brocading
+- broidering
+- bromating
+- brominating

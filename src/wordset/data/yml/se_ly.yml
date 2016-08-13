@@ -1,0 +1,77 @@
+---
+pattern: se_ly
+hi_scored_words_count: 21
+scored_words_count: 21
+total_words: 67
+score: 4620804
+score_per_word: 110019
+hi_scored_words:
+  seamlessly: 25280
+  seasonally: 26846
+  secondarily: 65814
+  secondly: 8439
+  secretly: 9717
+  securely: 9458
+  seductively: 84616
+  seemingly: 7568
+  selectively: 20265
+  selfishly: 52626
+  semantically: 46406
+  sensibly: 35716
+  sensitively: 63288
+  separately: 7968
+  sequentially: 30501
+  serenely: 82165
+  serially: 59954
+  seriously: 2458
+  severally: 49416
+  severely: 7699
+  sexually: 14441
+scored_words:
+  searchingly: 218586
+  searingly: 323176
+  seasonably: 193637
+  sectionally: 294274
+  sedately: 221443
+  sedulously: 131824
+  seemly: 127315
+  seismically: 146899
+  selflessly: 104008
+  semiannually: 121899
+  semimonthly: 188501
+  sensationally: 178535
+  senselessly: 192877
+  sensually: 132590
+  sensuously: 186892
+  sententiously: 165687
+  sentimentally: 208371
+  sequently: 189681
+  serendipitously: 222320
+  serologically: 173050
+  sexily: 188598
+not_scored_words:
+- secretively
+- secularly
+- sedentarily
+- seditiously
+- seedily
+- segmentally
+- seminally
+- semiotically
+- semiweekly
+- semiyearly
+- sempiternally
+- senilely
+- sententially
+- sentiently
+- separably
+- septennially
+- septically
+- sepulchrally
+- sequaciously
+- seraphically
+- serviceably
+- servilely
+- setaceously
+- sexlessly
+- sextuply

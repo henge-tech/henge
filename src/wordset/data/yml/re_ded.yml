@@ -1,0 +1,42 @@
+---
+pattern: re_ded
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 32
+score: 2446177
+score_per_word: 97847
+hi_scored_words:
+  rebounded: 52404
+  receded: 56843
+  recommended: 2097
+  recorded: 2305
+  redheaded: 54864
+  refunded: 24010
+  regarded: 3926
+  reloaded: 27370
+  remanded: 33095
+  reminded: 6113
+  reprimanded: 52949
+  rescinded: 47609
+  resided: 21422
+  resounded: 75842
+  responded: 4772
+  retarded: 14811
+  rewarded: 10945
+scored_words:
+  recoded: 115735
+  refolded: 280519
+  regraded: 256177
+  remolded: 299985
+  rerecorded: 275620
+  reseeded: 276923
+  retreaded: 337280
+  reworded: 112561
+not_scored_words:
+- reascended
+- redivided
+- redounded
+- renegaded
+- reprehended
+- retrograded
+- rewedded

@@ -1,0 +1,32 @@
+---
+pattern: inf_d
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 22
+score: 876973
+score_per_word: 48720
+hi_scored_words:
+  infatuated: 61009
+  infected: 6260
+  inferred: 15174
+  infested: 24013
+  infield: 36064
+  infiltrated: 42601
+  inflamed: 26895
+  inflated: 19491
+  inflected: 51430
+  inflicted: 14315
+  influenced: 5400
+  informed: 1677
+  infrared: 12422
+  infringed: 39758
+  infuriated: 52197
+  infused: 25138
+scored_words:
+  infarcted: 221355
+  infilled: 221774
+not_scored_words:
+- infecund
+- infixed
+- inflexed
+- infracted

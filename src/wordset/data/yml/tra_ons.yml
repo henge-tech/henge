@@ -1,0 +1,26 @@
+---
+pattern: tra_ons
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 591717
+score_per_word: 49309
+hi_scored_words:
+  traditions: 5465
+  transactions: 5572
+  transcriptions: 34508
+  transformations: 15616
+  transfusions: 48503
+  transgressions: 45620
+  transitions: 14402
+  translations: 7539
+  transmissions: 14938
+scored_words:
+  transliterations: 155909
+  translocations: 101235
+  transpositions: 142410
+not_scored_words:
+- transductions
+- transmutations
+- transudations
+- trapezohedrons

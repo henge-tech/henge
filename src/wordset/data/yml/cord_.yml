@@ -1,0 +1,48 @@
+---
+pattern: cord_
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 38
+score: 2507547
+score_per_word: 96444
+hi_scored_words:
+  cord: 4831
+  cordage: 71132
+  corded: 41321
+  corder: 81098
+  cordial: 22409
+  cordially: 31567
+  cordials: 99087
+  cordillera: 49103
+  cording: 75640
+  cordite: 95148
+  cordless: 18723
+  cordoba: 26193
+  cordon: 29782
+  cordoned: 98950
+  cords: 12388
+  corduroy: 30708
+scored_words:
+  cordate: 177228
+  cordiality: 106158
+  cordierite: 200473
+  cordilleran: 162071
+  cordilleras: 247769
+  cordons: 192381
+  cordovan: 106140
+  corduroys: 149984
+  cordwainer: 137293
+  cordwood: 239970
+not_scored_words:
+- Corday
+- Cordelia
+- Cordelier
+- Cordilleras
+- Cordoba
+- Cordovan
+- cordierites
+- cordiform
+- cordobas
+- cordoning
+- cordwain
+- cordwoods

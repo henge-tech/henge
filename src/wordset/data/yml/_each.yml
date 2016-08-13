@@ -1,0 +1,32 @@
+---
+pattern: _each
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 22
+score: 226987
+score_per_word: 18915
+hi_scored_words:
+  beach: 1407
+  bleach: 23051
+  breach: 5934
+  each: 135
+  impeach: 31662
+  leach: 22920
+  outreach: 10957
+  peach: 10320
+  preach: 11701
+  reach: 1183
+  teach: 2142
+scored_words:
+  overreach: 105575
+not_scored_words:
+- Beach
+- Leach
+- Teach
+- earreach
+- forereach
+- headreach
+- misteach
+- pleach
+- reteach
+- unteach

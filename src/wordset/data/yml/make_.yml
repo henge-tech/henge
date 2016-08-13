@@ -1,0 +1,25 @@
+---
+pattern: make_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 513606
+score_per_word: 51360
+hi_scored_words:
+  make: 94
+  makeover: 16491
+  makeovers: 54347
+  maker: 5055
+  makers: 5772
+  makes: 460
+  makeshift: 34352
+  makeup: 8810
+scored_words:
+  makeups: 193396
+  makeweight: 194829
+not_scored_words:
+- Maker
+- Makeyevka
+- makefast
+- makeshifts
+- makeweights

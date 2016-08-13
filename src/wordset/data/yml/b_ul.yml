@@ -1,0 +1,37 @@
+---
+pattern: b_ul
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 27
+score: 1781265
+score_per_word: 111329
+hi_scored_words:
+  baleful: 75374
+  bashful: 47673
+  beautiful: 640
+  blissful: 30154
+  boastful: 83129
+  bountiful: 27066
+  bul: 45325
+  bulbul: 82887
+scored_words:
+  babul: 220416
+  bagful: 276537
+  baneful: 108594
+  basketful: 134852
+  befoul: 143040
+  bowlful: 114987
+  brimful: 152889
+  bucketful: 237702
+not_scored_words:
+- Banjul
+- Barnaul
+- Bul
+- basinful
+- bellyful
+- blameful
+- blitheful
+- blushful
+- bottleful
+- boxful
+- boxhaul

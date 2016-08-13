@@ -1,0 +1,27 @@
+---
+pattern: s_wn
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 17
+score: 564426
+score_per_word: 43417
+hi_scored_words:
+  sewn: 21742
+  shakedown: 47668
+  shewn: 75574
+  showdown: 18158
+  shown: 804
+  shutdown: 12286
+  slowdown: 23294
+  sown: 23541
+  spawn: 16980
+  strewn: 32835
+  sundown: 27017
+scored_words:
+  shantytown: 157073
+  splashdown: 107454
+not_scored_words:
+- Shawn
+- Southdown
+- spelldown
+- swansdown

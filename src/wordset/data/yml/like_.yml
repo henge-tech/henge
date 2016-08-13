@@ -1,0 +1,31 @@
+---
+pattern: like_
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 21
+score: 1689762
+score_per_word: 84488
+hi_scored_words:
+  like: 67
+  likeable: 39875
+  liked: 2649
+  likelihood: 8755
+  likely: 848
+  liken: 59814
+  likened: 36916
+  likeness: 17473
+  likenesses: 71911
+  likens: 75870
+  likes: 3655
+  likewise: 5004
+scored_words:
+  likeability: 199337
+  likelier: 155588
+  likeliest: 148452
+  likelihoods: 135771
+  likeliness: 218495
+  likening: 127191
+  liker: 161879
+  likest: 220212
+not_scored_words:
+- likeableness

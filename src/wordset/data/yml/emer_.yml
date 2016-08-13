@@ -1,0 +1,29 @@
+---
+pattern: emer_
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 19
+score: 546519
+score_per_word: 39037
+hi_scored_words:
+  emerald: 9470
+  emeralds: 39541
+  emerge: 8680
+  emerged: 6367
+  emergence: 14483
+  emergencies: 12369
+  emergency: 3874
+  emergent: 20212
+  emerges: 17325
+  emerging: 5561
+  emerita: 74872
+  emeritus: 18302
+  emery: 24678
+scored_words:
+  emersion: 290785
+not_scored_words:
+- Emerson
+- Emersonian
+- Emery
+- emersed
+- emersions

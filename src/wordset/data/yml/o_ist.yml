@@ -1,0 +1,38 @@
+---
+pattern: o_ist
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 28
+score: 1807519
+score_per_word: 100417
+hi_scored_words:
+  objectivist: 75698
+  oculist: 71693
+  oncologist: 51808
+  ophthalmologist: 58340
+  opportunist: 55916
+  optimist: 29892
+  optometrist: 51654
+  organist: 30754
+  orientalist: 88690
+  ornithologist: 84755
+  orthodontist: 56702
+scored_words:
+  oboist: 125002
+  obscurantist: 235779
+  obstructionist: 120038
+  occultist: 104867
+  orthopedist: 152979
+  orthotist: 227211
+  otolaryngologist: 185741
+not_scored_words:
+- Orientalist
+- Orleanist
+- odontologist
+- oenophilist
+- oligopolist
+- onanist
+- ontologist
+- oologist
+- orchardist
+- otorhinolaryngologist

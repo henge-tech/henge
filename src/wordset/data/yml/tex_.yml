@@ -1,0 +1,36 @@
+---
+pattern: tex_
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 26
+score: 522002
+score_per_word: 34800
+hi_scored_words:
+  text: 607
+  textbook: 12429
+  textbooks: 13628
+  textile: 11678
+  textiles: 11730
+  texting: 43567
+  texts: 3889
+  textual: 23424
+  textural: 64218
+  texture: 7111
+  textured: 20052
+  textures: 12304
+  texturing: 58178
+scored_words:
+  texted: 121991
+  textually: 117196
+not_scored_words:
+- TeX
+- TeXes
+- Tex
+- Texaco
+- Texan
+- Texans
+- Texas
+- textualism
+- textualist
+- textuary
+- texturally

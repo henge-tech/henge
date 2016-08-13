@@ -1,0 +1,20 @@
+---
+pattern: con_red
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 10
+score: 260848
+score_per_word: 28983
+hi_scored_words:
+  concurred: 29546
+  conferred: 12734
+  configured: 8440
+  conjectured: 57804
+  conjured: 53270
+  conquered: 12597
+  considered: 814
+  conspired: 43103
+  contoured: 42540
+scored_words: {}
+not_scored_words:
+- concentered

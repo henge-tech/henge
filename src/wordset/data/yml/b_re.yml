@@ -1,0 +1,63 @@
+---
+pattern: b_re
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 53
+score: 2188649
+score_per_word: 87545
+hi_scored_words:
+  backfire: 42798
+  bare: 3936
+  barre: 21800
+  before: 120
+  belvedere: 34209
+  beware: 8597
+  billionaire: 29583
+  biosphere: 29906
+  bizarre: 8394
+  blare: 92012
+  bonfire: 21878
+  bookstore: 9562
+  bore: 6069
+  brassiere: 87672
+  brochure: 15495
+  bushfire: 68407
+scored_words:
+  barbwire: 180573
+  bayadere: 306657
+  blastomere: 329641
+  bloatware: 183211
+  bordure: 142859
+  boutonniere: 172519
+  brassware: 163577
+  broodmare: 103470
+  byre: 125704
+not_scored_words:
+- Baltimore
+- Bangalore
+- Barrymore
+- Basseterre
+- Baudelaire
+- Beardmore
+- Bedfordshire
+- Bedivere
+- Berkshire
+- Blantyre
+- Bonaire
+- Bonaventure
+- Brumaire
+- Buckinghamshire
+- Bushire
+- balefire
+- bandore
+- basaltware
+- basidiospore
+- bathysphere
+- battledore
+- bayadère
+- bedsore
+- bemire
+- bersagliere
+- blastopore
+- blastosphere
+- boutonnière

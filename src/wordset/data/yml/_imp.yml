@@ -1,0 +1,24 @@
+---
+pattern: _imp
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 14
+score: 635943
+score_per_word: 48918
+hi_scored_words:
+  blimp: 50345
+  chimp: 25041
+  crimp: 40371
+  gimp: 20856
+  imp: 13214
+  limp: 12511
+  pimp: 21634
+  shrimp: 14543
+  simp: 39660
+  skimp: 68765
+  wimp: 41452
+scored_words:
+  primp: 133195
+  scrimp: 154356
+not_scored_words:
+- Imp

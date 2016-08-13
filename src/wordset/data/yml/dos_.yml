@@ -1,0 +1,38 @@
+---
+pattern: dos_
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 28
+score: 671440
+score_per_word: 44762
+hi_scored_words:
+  dos: 6638
+  dosage: 8929
+  dosages: 34888
+  dose: 4740
+  dosed: 63847
+  doses: 10128
+  dosh: 71500
+  dosimetry: 60160
+  dosing: 26065
+  doss: 47987
+  dossier: 29794
+  dossiers: 51490
+  dost: 23314
+scored_words:
+  dosimeter: 100845
+  dosimeters: 131115
+not_scored_words:
+- DOS
+- Dostoevski
+- Dostoevsky
+- Dostoyevski
+- Dostoyevskian
+- dossal
+- dossed
+- dosser
+- dossers
+- dosses
+- dosshouse
+- dosshouses
+- dossing

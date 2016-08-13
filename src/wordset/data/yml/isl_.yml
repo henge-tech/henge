@@ -1,0 +1,31 @@
+---
+pattern: isl_
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 21
+score: 154948
+score_per_word: 17216
+hi_scored_words:
+  isl: 24784
+  island: 618
+  islander: 21901
+  islanders: 17793
+  islands: 1249
+  isle: 5873
+  isles: 10882
+  islet: 30957
+  islets: 40891
+scored_words: {}
+not_scored_words:
+- Islam
+- Islamabad
+- Islamic
+- Islamism
+- Islamisms
+- Islamist
+- Islamite
+- Islamize
+- Islamophobia
+- Islamophobic
+- Islams
+- Islington

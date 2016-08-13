@@ -1,0 +1,67 @@
+---
+pattern: pro_t
+hi_scored_words_count: 23
+scored_words_count: 9
+total_words: 57
+score: 2312184
+score_per_word: 72255
+hi_scored_words:
+  procurement: 16924
+  product: 1148
+  proficient: 16944
+  profit: 1719
+  prohibit: 12461
+  project: 819
+  proletariat: 32791
+  prominent: 4815
+  prompt: 5531
+  pronouncement: 59792
+  propagandist: 69635
+  propellant: 40045
+  prophet: 5784
+  proponent: 26637
+  prospect: 4656
+  protagonist: 31977
+  protect: 1482
+  protectionist: 57409
+  protest: 4351
+  protestant: 11676
+  proudest: 60040
+  provident: 37426
+  provost: 16741
+scored_words:
+  proctologist: 251538
+  profoundest: 142142
+  prohibitionist: 206397
+  projectionist: 105721
+  prosthodontist: 292164
+  protist: 162011
+  protoplast: 169193
+  protract: 257907
+  protuberant: 204308
+not_scored_words:
+- Prophet
+- Prot
+- Protestant
+- Proust
+- probabilist
+- procapitalist
+- procommunist
+- procreant
+- procumbent
+- prodisarmament
+- profascist
+- profeminist
+- profluent
+- progovernment
+- progressionist
+- progressist
+- promonarchist
+- promptest
+- pronationalist
+- properest
+- propjet
+- prosiest
+- prosit
+- prosodist
+- provincialist

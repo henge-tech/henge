@@ -1,0 +1,55 @@
+---
+pattern: b_ets
+hi_scored_words_count: 21
+scored_words_count: 10
+total_words: 45
+score: 2573423
+score_per_word: 83013
+hi_scored_words:
+  ballets: 48812
+  banquets: 35553
+  baronets: 51910
+  baskets: 12291
+  bayonets: 57742
+  beets: 38022
+  begets: 66772
+  berets: 65604
+  bets: 12877
+  bidets: 87416
+  billets: 46710
+  blankets: 8022
+  bonnets: 58025
+  booklets: 25159
+  bouquets: 23731
+  bracelets: 10834
+  brackets: 11568
+  buckets: 19002
+  budgets: 17144
+  buffets: 47008
+  bullets: 8652
+scored_words:
+  backstreets: 126826
+  bassets: 212544
+  bassinets: 126048
+  bedsheets: 113212
+  bennets: 295434
+  besets: 243405
+  bluebonnets: 214625
+  botnets: 164329
+  brevets: 172980
+  broadsheets: 151166
+not_scored_words:
+- bannerets
+- barbets
+- basinets
+- bittersweets
+- blivets
+- bluejackets
+- bluets
+- bonesets
+- breadbaskets
+- briquets
+- briskets
+- brockets
+- brooklets
+- brunets

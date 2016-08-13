@@ -1,0 +1,35 @@
+---
+pattern: _idge
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 25
+score: 447100
+score_per_word: 40645
+hi_scored_words:
+  abridge: 73155
+  bridge: 1568
+  cartridge: 8999
+  drawbridge: 54888
+  footbridge: 52447
+  fridge: 12435
+  midge: 40376
+  partridge: 19637
+  porridge: 29747
+  ridge: 3638
+scored_words:
+  weighbridge: 150210
+not_scored_words:
+- Banbridge
+- Beveridge
+- Breckenridge
+- Bridge
+- Cambridge
+- Coatbridge
+- Coleridge
+- Coolidge
+- Lethbridge
+- Oxbridge
+- Redbridge
+- Trowbridge
+- Woodbridge
+- fidge

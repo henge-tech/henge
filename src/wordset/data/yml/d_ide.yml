@@ -1,0 +1,25 @@
+---
+pattern: d_ide
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 15
+score: 1160130
+score_per_word: 82866
+hi_scored_words:
+  decide: 2283
+  deicide: 68780
+  deride: 70864
+  dioxide: 14867
+  disulfide: 44229
+  disulphide: 90450
+  divide: 5407
+  dockside: 68443
+  downside: 21629
+scored_words:
+  dibromide: 224685
+  dichloride: 116846
+  diopside: 135466
+  dipeptide: 132757
+  disaccharide: 163424
+not_scored_words:
+- depside

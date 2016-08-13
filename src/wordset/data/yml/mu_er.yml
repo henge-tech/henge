@@ -1,0 +1,58 @@
+---
+pattern: mu_er
+hi_scored_words_count: 14
+scored_words_count: 12
+total_words: 48
+score: 2603161
+score_per_word: 100121
+hi_scored_words:
+  muenster: 77739
+  muffler: 29954
+  mugger: 52929
+  muller: 16686
+  multilayer: 44023
+  multimeter: 55628
+  multiplayer: 9519
+  multiplexer: 49318
+  multiplier: 28545
+  murder: 2485
+  murderer: 12636
+  musketeer: 68438
+  muster: 18700
+  mutter: 32168
+scored_words:
+  mucker: 134005
+  muckraker: 165440
+  muddler: 323066
+  muleteer: 137187
+  mummer: 124268
+  muncher: 108830
+  murkier: 208382
+  murther: 178954
+  muser: 305180
+  musher: 111083
+  mutineer: 153647
+  muzzleloader: 154351
+not_scored_words:
+- Mueller
+- Muenster
+- Mulciber
+- Mulder
+- Muller
+- Munster
+- muckier
+- muddier
+- mudskipper
+- mudslinger
+- muggier
+- muleskinner
+- mumbler
+- munitioner
+- murmurer
+- mushier
+- muskier
+- mussier
+- mustier
+- muter
+- mutterer
+- muzzier

@@ -1,0 +1,36 @@
+---
+pattern: b_nds
+hi_scored_words_count: 18
+scored_words_count: 3
+total_words: 26
+score: 1309038
+score_per_word: 62335
+hi_scored_words:
+  backgrounds: 13947
+  badlands: 43186
+  bands: 2975
+  battlegrounds: 62298
+  befriends: 65060
+  bends: 21183
+  binds: 15472
+  blends: 19194
+  blinds: 13452
+  blonds: 63257
+  bloodhounds: 99220
+  bonds: 3737
+  bookends: 47849
+  borderlands: 57684
+  bounds: 8827
+  boyfriends: 29262
+  brands: 5152
+  brigands: 97818
+scored_words:
+  backhands: 283531
+  behinds: 110415
+  bottomlands: 245519
+not_scored_words:
+- Badlands
+- backbends
+- bandstands
+- bellybands
+- boarhounds

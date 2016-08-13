@@ -1,0 +1,39 @@
+---
+pattern: wir_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 29
+score: 1776952
+score_per_word: 118463
+hi_scored_words:
+  wire: 2296
+  wired: 9604
+  wireless: 4324
+  wires: 10833
+  wiretap: 47764
+  wiretapping: 48474
+  wiretaps: 54038
+  wiring: 17943
+  wiry: 58088
+scored_words:
+  wirehaired: 145153
+  wireman: 260949
+  wiretapped: 212257
+  wirework: 259103
+  wireworks: 328204
+  wirra: 317922
+not_scored_words:
+- Wirephoto
+- wiredraw
+- wireds
+- wirehair
+- wirehairs
+- wirelesses
+- wirer
+- wiretapper
+- wiretappers
+- wireworm
+- wireworms
+- wirier
+- wiriest
+- wiriness

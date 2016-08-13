@@ -1,0 +1,26 @@
+---
+pattern: _reak
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 16
+score: 912796
+score_per_word: 70215
+hi_scored_words:
+  break: 897
+  creak: 56026
+  daybreak: 25772
+  freak: 9725
+  heartbreak: 25519
+  jailbreak: 82954
+  outbreak: 14419
+  streak: 9614
+  wreak: 37225
+scored_words:
+  firebreak: 204875
+  hairstreak: 120893
+  tiebreak: 193249
+  windbreak: 131628
+not_scored_words:
+- housebreak
+- screak
+- sunbreak

@@ -1,0 +1,59 @@
+---
+pattern: meth_
+hi_scored_words_count: 20
+scored_words_count: 10
+total_words: 49
+score: 2745009
+score_per_word: 91500
+hi_scored_words:
+  meth: 16245
+  methacrylate: 68750
+  methadone: 25353
+  methamphetamine: 29949
+  methane: 17759
+  methanol: 24699
+  methinks: 33361
+  methionine: 35820
+  method: 763
+  methodical: 33979
+  methodically: 56957
+  methodological: 18269
+  methodologies: 13569
+  methodology: 9468
+  methods: 1090
+  methotrexate: 44752
+  methyl: 22118
+  methylated: 58645
+  methylene: 41070
+  methylmercury: 93012
+scored_words:
+  methaqualone: 245427
+  methemoglobin: 180842
+  methenamine: 239613
+  methodic: 277527
+  methodologically: 101314
+  methought: 160969
+  methoxychlor: 245000
+  meths: 211936
+  methylamine: 163083
+  methylnaphthalene: 273670
+not_scored_words:
+- Methedrine
+- Methodism
+- Methodisms
+- Methodist
+- Methodistic
+- Methodistical
+- Methodists
+- Methodius
+- Methuselah
+- methaqualones
+- metheglin
+- metheglins
+- methenamines
+- methionines
+- methodicalness
+- methodize
+- methodologist
+- methylal
+- methylic

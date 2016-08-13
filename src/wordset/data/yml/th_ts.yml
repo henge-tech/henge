@@ -1,0 +1,29 @@
+---
+pattern: th_ts
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 19
+score: 1250268
+score_per_word: 73545
+hi_scored_words:
+  thefts: 37152
+  theists: 59048
+  theorists: 25465
+  therapists: 11536
+  thereabouts: 47575
+  thermostats: 56518
+  thickets: 58311
+  thoughts: 1182
+  threats: 4904
+  throats: 26013
+  thrusts: 41062
+  thunderbolts: 60974
+  thwarts: 98734
+scored_words:
+  theosophists: 180339
+  thirsts: 156357
+  thrifts: 109012
+  thumbprints: 276086
+not_scored_words:
+- theologists
+- thoroughworts

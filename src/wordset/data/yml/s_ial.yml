@@ -1,0 +1,46 @@
+---
+pattern: s_ial
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 36
+score: 988803
+score_per_word: 52042
+hi_scored_words:
+  sacrificial: 31800
+  secretarial: 22447
+  senatorial: 42833
+  sentential: 94268
+  sequential: 15129
+  serial: 7160
+  sesquicentennial: 95493
+  social: 456
+  spacial: 92293
+  spatial: 8662
+  special: 348
+  substantial: 3598
+  sundial: 37560
+  superficial: 12307
+  surficial: 93848
+  synovial: 47358
+scored_words:
+  sartorial: 102310
+  sectorial: 126196
+  subglacial: 154737
+not_scored_words:
+- saltatorial
+- sapiential
+- scansorial
+- sciential
+- seigneurial
+- seigniorial
+- semicentennial
+- semiofficial
+- septennial
+- sexennial
+- solstitial
+- subcelestial
+- subcranial
+- subequatorial
+- subsocial
+- suctorial
+- syzygial

@@ -1,0 +1,28 @@
+---
+pattern: _nuts
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 724336
+score_per_word: 65848
+hi_scored_words:
+  chestnuts: 37664
+  coconuts: 44169
+  donuts: 21824
+  doughnuts: 35830
+  hazelnuts: 69429
+  nuts: 8005
+  peanuts: 17179
+  walnuts: 32792
+  wingnuts: 99619
+scored_words:
+  groundnuts: 121715
+  locknuts: 236110
+not_scored_words:
+- beechnuts
+- bitternuts
+- butternuts
+- candlenuts
+- cobnuts
+- earthnuts
+- pignuts

@@ -1,0 +1,27 @@
+---
+pattern: flu_es
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 872993
+score_per_word: 87299
+hi_scored_words:
+  fluctuates: 59671
+  flues: 97521
+  flukes: 97195
+  fluorides: 83366
+  flurries: 49034
+  flushes: 49307
+  flutes: 26029
+  fluxes: 28487
+scored_words:
+  flumes: 174786
+  flunkies: 207597
+not_scored_words:
+- fluidnesses
+- flummeries
+- flummoxes
+- fluoresces
+- fluoridates
+- fluoroscopes
+- fluoroscopies

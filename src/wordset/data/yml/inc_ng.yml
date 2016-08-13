@@ -1,0 +1,33 @@
+---
+pattern: inc_ng
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 23
+score: 1941727
+score_per_word: 107873
+hi_scored_words:
+  inching: 81098
+  inciting: 47864
+  including: 290
+  incoming: 9598
+  incorporating: 14986
+  increasing: 1848
+  incrementing: 93165
+  incriminating: 46836
+  incubating: 70753
+  incurring: 35223
+scored_words:
+  incapacitating: 101848
+  incarcerating: 203476
+  incarnating: 301506
+  incinerating: 187549
+  incising: 281615
+  inclining: 115605
+  inconveniencing: 205739
+  inculcating: 142728
+not_scored_words:
+- incarnadining
+- incensing
+- incing
+- incommoding
+- inculpating

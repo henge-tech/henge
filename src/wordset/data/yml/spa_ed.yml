@@ -1,0 +1,27 @@
+---
+pattern: spa_ed
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 17
+score: 639336
+score_per_word: 53278
+hi_scored_words:
+  spaced: 20676
+  spammed: 56328
+  spangled: 41193
+  spanked: 23297
+  spanned: 33677
+  spared: 15119
+  sparked: 20392
+  sparkled: 66525
+  spawned: 22918
+  spayed: 60576
+scored_words:
+  sparred: 178058
+  spattered: 100577
+not_scored_words:
+- spacewalked
+- spaded
+- spanged
+- spatted
+- spavined

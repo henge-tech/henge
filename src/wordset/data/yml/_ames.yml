@@ -1,0 +1,42 @@
+---
+pattern: _ames
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 32
+score: 2313946
+score_per_word: 92557
+hi_scored_words:
+  blames: 29118
+  boardgames: 76798
+  dames: 39529
+  filenames: 40125
+  flames: 6353
+  frames: 4122
+  games: 1290
+  hames: 81706
+  mainframes: 53097
+  names: 797
+  nicknames: 31914
+  renames: 79709
+  shames: 81619
+  surnames: 23154
+  tames: 96412
+  usernames: 34278
+scored_words:
+  airframes: 103386
+  ballgames: 234593
+  defames: 283101
+  endgames: 175890
+  forenames: 183042
+  inflames: 151761
+  lames: 164200
+  mesdames: 191496
+  sames: 146456
+not_scored_words:
+- James
+- Mesdames
+- Thames
+- doorframes
+- misnames
+- pregames
+- sesames

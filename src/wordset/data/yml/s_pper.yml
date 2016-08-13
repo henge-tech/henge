@@ -1,0 +1,29 @@
+---
+pattern: s_pper
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 19
+score: 1040143
+score_per_word: 61184
+hi_scored_words:
+  sapper: 78506
+  scrapper: 83568
+  shipper: 23910
+  shopper: 11973
+  showstopper: 78144
+  skipper: 14107
+  slapper: 98339
+  slipper: 22660
+  snapper: 36342
+  stepper: 43094
+  stopper: 24574
+  stripper: 19472
+  supper: 7454
+  swapper: 86347
+scored_words:
+  scupper: 110190
+  sharecropper: 156993
+  sipper: 144470
+not_scored_words:
+- schlepper
+- strapper

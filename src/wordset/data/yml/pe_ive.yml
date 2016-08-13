@@ -1,0 +1,25 @@
+---
+pattern: pe_ive
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 15
+score: 640526
+score_per_word: 49271
+hi_scored_words:
+  pejorative: 58175
+  pensive: 40036
+  perceive: 8300
+  perceptive: 35663
+  percussive: 52505
+  performative: 80850
+  permissive: 37967
+  perspective: 4001
+  persuasive: 15991
+  perturbative: 69787
+  pervasive: 21554
+scored_words:
+  penetrative: 111176
+  perfective: 104521
+not_scored_words:
+- pendentive
+- permeative

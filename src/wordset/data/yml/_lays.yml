@@ -1,0 +1,41 @@
+---
+pattern: _lays
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 31
+score: 1990519
+score_per_word: 104764
+hi_scored_words:
+  clays: 38289
+  delays: 6544
+  displays: 3908
+  inlays: 54381
+  lays: 11519
+  outlays: 36587
+  overlays: 36281
+  plays: 2250
+  relays: 21548
+  replays: 28253
+  screenplays: 45334
+  slays: 82292
+scored_words:
+  allays: 221661
+  belays: 325505
+  downplays: 107366
+  flays: 252184
+  parlays: 187285
+  splays: 313690
+  underlays: 215642
+not_scored_words:
+- Barclays
+- Malays
+- gunplays
+- interplays
+- mislays
+- misplays
+- outplays
+- overplays
+- roundelays
+- teleplays
+- underplays
+- waylays

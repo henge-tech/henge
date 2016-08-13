@@ -1,0 +1,38 @@
+---
+pattern: _gus
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 28
+score: 814006
+score_per_word: 62615
+hi_scored_words:
+  asparagus: 20305
+  bogus: 18844
+  cunnilingus: 51517
+  esophagus: 26795
+  fungus: 18798
+  magus: 46529
+  negus: 74618
+  sarcophagus: 54605
+  vagus: 59968
+scored_words:
+  dingus: 105309
+  pemphigus: 103914
+  tragus: 114785
+  valgus: 118019
+not_scored_words:
+- Angus
+- Areopagus
+- Argus
+- Carrickfergus
+- Fergus
+- Gus
+- Lycurgus
+- Magus
+- Mingus
+- Tagus
+- Telugus
+- Tungus
+- antitragus
+- choragus
+- vulgus

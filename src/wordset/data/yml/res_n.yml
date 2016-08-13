@@ -1,0 +1,42 @@
+---
+pattern: res_n
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 32
+score: 861574
+score_per_word: 45346
+hi_scored_words:
+  rescission: 63480
+  resection: 28221
+  reservation: 6017
+  resign: 12107
+  resignation: 9274
+  resin: 12759
+  resolution: 1505
+  resorption: 57578
+  respiration: 17694
+  restitution: 19496
+  restoration: 4428
+  restrain: 18448
+  restriction: 8118
+  resumption: 31372
+  resurrection: 9062
+  resuscitation: 36609
+scored_words:
+  reselection: 246547
+  resubmission: 112930
+  resynchronization: 165929
+not_scored_words:
+- Restoration
+- Resurrection
+- rescreen
+- resegregation
+- resewn
+- resharpen
+- resnatron
+- resocialization
+- resown
+- responsion
+- restraighten
+- restrengthen
+- resummon

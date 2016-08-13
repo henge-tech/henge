@@ -1,0 +1,65 @@
+---
+pattern: ad_y
+hi_scored_words_count: 21
+scored_words_count: 14
+total_words: 55
+score: 3293525
+score_per_word: 94100
+hi_scored_words:
+  adamantly: 71069
+  adaptability: 35204
+  additionally: 15300
+  adequacy: 26286
+  adequately: 9765
+  adjacency: 57138
+  administratively: 36552
+  admirably: 30367
+  admiralty: 18663
+  admiringly: 97837
+  admissibility: 48929
+  admittedly: 20944
+  adroitly: 93725
+  adultery: 18933
+  advantageously: 73670
+  adversary: 18653
+  adversely: 23381
+  adversity: 21437
+  advisability: 62239
+  advisory: 9958
+  advocacy: 10060
+scored_words:
+  adaptively: 113274
+  adaptivity: 151933
+  additively: 185510
+  additivity: 113293
+  adenoidectomy: 234996
+  adeptly: 209385
+  adhesively: 303167
+  adiabatically: 212508
+  adiposity: 156354
+  adjudicatory: 133666
+  admonitory: 159544
+  adorably: 157427
+  adoringly: 209449
+  advisedly: 152909
+not_scored_words:
+- Adderley
+- Admiralty
+- adamancy
+- additory
+- adenectomy
+- adiathermancy
+- adjacently
+- adjectivally
+- adjuratory
+- adjutancy
+- admirability
+- admissibly
+- admonishingly
+- adoptively
+- adulatory
+- adventitiously
+- adventurously
+- adverbially
+- adversarially
+- advisably

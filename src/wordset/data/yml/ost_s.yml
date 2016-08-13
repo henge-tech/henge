@@ -1,0 +1,35 @@
+---
+pattern: ost_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 25
+score: 990449
+score_per_word: 99044
+hi_scored_words:
+  ostentatious: 61514
+  osteoarthritis: 30441
+  osteoblasts: 90302
+  osteogenesis: 96060
+  osteomyelitis: 65783
+  osteopaths: 98118
+  osteoporosis: 15912
+  ostriches: 75351
+scored_words:
+  osteitis: 168897
+  ostracods: 288071
+not_scored_words:
+- Ostrogoths
+- Ostyaks
+- osteitides
+- ostentatiousness
+- ostentatiousnesses
+- osteoclasis
+- osteomalacias
+- osteomas
+- osteomyelitides
+- osteoporoses
+- ostioles
+- ostlers
+- ostosis
+- ostracizes
+- ostracoderms

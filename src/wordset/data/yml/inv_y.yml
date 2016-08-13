@@ -1,0 +1,40 @@
+---
+pattern: inv_y
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 30
+score: 1268951
+score_per_word: 84596
+hi_scored_words:
+  invalidity: 48225
+  invariably: 12559
+  inventory: 5467
+  inversely: 41170
+  investigatory: 68859
+  invincibility: 76649
+  invisibility: 42258
+  invisibly: 65577
+  involuntarily: 30580
+  involuntary: 17991
+scored_words:
+  inventively: 279849
+  inviolability: 113602
+  inviolably: 200328
+  invitingly: 163442
+  invulnerability: 102395
+not_scored_words:
+- invalidly
+- invaluably
+- invariability
+- inveracity
+- inveteracy
+- inveterately
+- invidiously
+- invigoratingly
+- invincibly
+- inviolacy
+- inviolately
+- invitatory
+- invocatory
+- involutionary
+- invulnerably

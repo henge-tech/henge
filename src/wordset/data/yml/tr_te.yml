@@ -1,0 +1,47 @@
+---
+pattern: tr_te
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 37
+score: 2599558
+score_per_word: 108314
+hi_scored_words:
+  trachyte: 85880
+  tractate: 93809
+  translate: 5986
+  transmute: 84681
+  transvestite: 17073
+  triathlete: 69109
+  tribute: 4717
+  trilobite: 85257
+  tripartite: 36647
+  triplicate: 55659
+  triste: 60431
+  trite: 39116
+  triumvirate: 59600
+  truncate: 47230
+scored_words:
+  transfinite: 161914
+  transliterate: 196993
+  translocate: 223973
+  transmigrate: 227580
+  tremolite: 193963
+  triangulate: 114698
+  tribunate: 132983
+  trifoliate: 253685
+  triturate: 230726
+  troglodyte: 117848
+not_scored_words:
+- Trieste
+- Trotskyite
+- transilluminate
+- transubstantiate
+- transudate
+- trichite
+- tricostate
+- trifurcate
+- trilobate
+- triphylite
+- tripinnate
+- troostite
+- trophozoite

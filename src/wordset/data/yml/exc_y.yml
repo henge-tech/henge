@@ -1,0 +1,33 @@
+---
+pattern: exc_y
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 23
+score: 971137
+score_per_word: 64742
+hi_scored_words:
+  exceedingly: 14396
+  excellency: 22529
+  excellently: 47868
+  exceptionally: 12484
+  excessively: 18063
+  excitability: 70549
+  excitedly: 39257
+  exclusionary: 53669
+  exclusively: 4928
+  exclusivity: 34348
+  excretory: 71953
+  excruciatingly: 85558
+  exculpatory: 87362
+scored_words:
+  excitingly: 159814
+  exclamatory: 248359
+not_scored_words:
+- Excellency
+- exceptionably
+- excitably
+- excommunicatory
+- excrescency
+- excursively
+- excusably
+- excusatory

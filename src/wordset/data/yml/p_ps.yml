@@ -1,0 +1,57 @@
+---
+pattern: p_ps
+hi_scored_words_count: 21
+scored_words_count: 9
+total_words: 47
+score: 2555064
+score_per_word: 85168
+hi_scored_words:
+  palmtops: 98755
+  paps: 84218
+  parsnips: 81437
+  partnerships: 5220
+  peeps: 23226
+  peps: 73071
+  perhaps: 851
+  pickups: 22984
+  pimps: 34363
+  pips: 37830
+  polyps: 40231
+  poops: 70363
+  pops: 19148
+  popups: 42332
+  preps: 41831
+  professorships: 79753
+  props: 14343
+  pulps: 83594
+  pumps: 8312
+  pups: 26030
+  pushups: 82301
+scored_words:
+  paperclips: 111096
+  paratroops: 243960
+  pawnshops: 147762
+  payslips: 220353
+  pinups: 114102
+  playgroups: 102493
+  plops: 192077
+  plumps: 286678
+  premierships: 166350
+not_scored_words:
+- PPS
+- Pelops
+- Phelps
+- Philips
+- Phillips
+- Phipps
+- pastorships
+- pileups
+- pillowslips
+- preceptorships
+- prenups
+- presidentships
+- primateships
+- primps
+- principalships
+- priorships
+- protectorships

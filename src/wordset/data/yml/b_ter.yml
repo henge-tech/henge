@@ -1,0 +1,73 @@
+---
+pattern: b_ter
+hi_scored_words_count: 28
+scored_words_count: 14
+total_words: 63
+score: 3217756
+score_per_word: 76613
+hi_scored_words:
+  babysitter: 25069
+  backwater: 44066
+  banister: 59547
+  banter: 21793
+  barometer: 17405
+  barrister: 25428
+  barter: 21163
+  bathwater: 97372
+  batter: 15007
+  beater: 38821
+  better: 218
+  biter: 61826
+  bitter: 5052
+  blaster: 16557
+  blighter: 96162
+  blister: 24713
+  blockbuster: 21167
+  blotter: 39259
+  bluster: 62198
+  boater: 65629
+  bolster: 23075
+  booster: 10271
+  breakwater: 42707
+  brighter: 11328
+  broadcaster: 22130
+  bushmaster: 91940
+  buster: 18928
+  butter: 3685
+scored_words:
+  baiter: 183473
+  baluster: 117588
+  bandmaster: 173899
+  barycenter: 274722
+  baster: 141565
+  beefeater: 135556
+  blunter: 295544
+  boaster: 135604
+  bolometer: 176334
+  bolter: 112660
+  brewmaster: 133032
+  bullfighter: 114204
+  bunter: 112055
+  burgomaster: 129004
+not_scored_words:
+- Bannister
+- Baxter
+- Blockbuster
+- Brewster
+- backbiter
+- balloter
+- banqueter
+- barretter
+- bathometer
+- bedsitter
+- begetter
+- bespatter
+- billposter
+- bister
+- bloater
+- bogtrotter
+- bonesetter
+- broncobuster
+- bruter
+- buffeter
+- bullshitter

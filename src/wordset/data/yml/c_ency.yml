@@ -1,0 +1,27 @@
+---
+pattern: c_ency
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 735874
+score_per_word: 56605
+hi_scored_words:
+  clemency: 31075
+  coherency: 86481
+  competency: 16563
+  complacency: 29387
+  concurrency: 29227
+  consistency: 7422
+  constituency: 13403
+  contingency: 13231
+  counterinsurgency: 82685
+  currency: 4345
+scored_words:
+  codependency: 121514
+  cogency: 173667
+  congruency: 126874
+not_scored_words:
+- cadency
+- circumambiency
+- convergency
+- corpulency

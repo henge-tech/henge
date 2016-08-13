@@ -1,0 +1,41 @@
+---
+pattern: _tern
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 31
+score: 1152009
+score_per_word: 57600
+hi_scored_words:
+  astern: 63516
+  bittern: 63487
+  cistern: 43332
+  eastern: 1835
+  extern: 42693
+  intern: 13667
+  lantern: 9993
+  lectern: 55989
+  northeastern: 15262
+  northwestern: 12538
+  pattern: 2489
+  southeastern: 15391
+  southwestern: 14239
+  stern: 6090
+  subaltern: 76093
+  tern: 35035
+  western: 1145
+scored_words:
+  cittern: 219460
+  pastern: 282848
+  postern: 176907
+not_scored_words:
+- Comintern
+- Eastern
+- Kaiserslautern
+- Mideastern
+- Midwestern
+- Stern
+- Western
+- gittern
+- quartern
+- saltern
+- slattern

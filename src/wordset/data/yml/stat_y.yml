@@ -1,0 +1,20 @@
+---
+pattern: stat_y
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 220646
+score_per_word: 27580
+hi_scored_words:
+  stately: 16952
+  statically: 40085
+  stationary: 9516
+  stationery: 16649
+  statistically: 9978
+  statuary: 36282
+  statutorily: 81682
+  statutory: 9502
+scored_words: {}
+not_scored_words:
+- staticky
+- statolatry

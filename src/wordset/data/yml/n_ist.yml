@@ -1,0 +1,45 @@
+---
+pattern: n_ist
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 35
+score: 1428993
+score_per_word: 95266
+hi_scored_words:
+  narcissist: 50591
+  nationalist: 17690
+  naturalist: 17404
+  naturist: 45241
+  neurologist: 39685
+  nihilist: 73832
+  nonconformist: 71631
+  novelist: 13589
+  nudist: 18768
+  nutritionist: 42670
+scored_words:
+  nativist: 189673
+  neonatologist: 277000
+  neuroscientist: 105316
+  numerologist: 305111
+  numismatist: 160792
+not_scored_words:
+- Nobelist
+- Nonconformist
+- necrologist
+- necrophilist
+- negativist
+- neoclassicist
+- neocolonialist
+- neologist
+- nepotist
+- neutralist
+- noctambulist
+- nominalist
+- noncommunist
+- nonfascist
+- noninterventionist
+- nonscientist
+- nonsexist
+- nonspecialist
+- nosologist
+- nostalgist

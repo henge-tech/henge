@@ -1,0 +1,60 @@
+---
+pattern: man_e
+hi_scored_words_count: 25
+scored_words_count: 5
+total_words: 50
+score: 1919757
+score_per_word: 63991
+hi_scored_words:
+  manage: 1909
+  manageable: 23365
+  manatee: 32410
+  mandate: 9622
+  mandible: 42251
+  mandrake: 23758
+  mane: 21433
+  maneuverable: 96920
+  manganese: 21087
+  mange: 43400
+  mangle: 65301
+  mangrove: 29236
+  manhole: 43624
+  manicure: 25059
+  manipulate: 17727
+  manipulative: 29304
+  manlike: 94301
+  manmade: 44537
+  mannose: 63103
+  manque: 85232
+  manse: 62628
+  mantelpiece: 91988
+  mantle: 11314
+  manufacture: 5215
+  manure: 14382
+scored_words:
+  manacle: 123880
+  manege: 299023
+  manhandle: 184743
+  maniple: 128015
+  manipulable: 184990
+not_scored_words:
+- Manche
+- Mande
+- Mandeville
+- Manhattanite
+- Manolete
+- Mantle
+- manciple
+- mandarinate
+- mandibulate
+- manducate
+- manganate
+- manganite
+- manifestative
+- manille
+- manipulatable
+- manrope
+- mansuetude
+- mantellone
+- manteltree
+- manège

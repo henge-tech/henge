@@ -1,0 +1,60 @@
+---
+pattern: t_or
+hi_scored_words_count: 25
+scored_words_count: 5
+total_words: 50
+score: 1750470
+score_per_word: 58349
+hi_scored_words:
+  tabor: 29879
+  tailor: 13320
+  technicolor: 42054
+  tenor: 11399
+  tensor: 23497
+  terminator: 19174
+  terror: 3206
+  testator: 46889
+  therefor: 23674
+  thermistor: 73313
+  thyristor: 95506
+  tor: 12217
+  toreador: 73771
+  tormentor: 64166
+  torpor: 68890
+  tractor: 11404
+  traitor: 18404
+  transferor: 66776
+  transistor: 20715
+  translator: 9641
+  trapdoor: 67613
+  tremor: 23229
+  tricolor: 56829
+  tumor: 12000
+  tutor: 8048
+scored_words:
+  tabulator: 204672
+  temblor: 144583
+  tortfeasor: 185296
+  transgressor: 123213
+  turgor: 197092
+not_scored_words:
+- Tabor
+- Taylor
+- Technicolor
+- Thermidor
+- Thor
+- Timor
+- Trevor
+- Tudor
+- telemotor
+- televisor
+- tergiversator
+- termor
+- thermomotor
+- totalizator
+- traditor
+- trafficator
+- transactor
+- transliterator
+- transmigrator
+- trisector

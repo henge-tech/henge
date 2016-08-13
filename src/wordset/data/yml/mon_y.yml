@@ -1,0 +1,49 @@
+---
+pattern: mon_y
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 39
+score: 1190368
+score_per_word: 66131
+hi_scored_words:
+  monarchy: 14065
+  monastery: 10549
+  monetary: 8387
+  money: 201
+  monkey: 5016
+  monody: 93568
+  monogamy: 51971
+  monopoly: 8436
+  monotonically: 73650
+  monotonicity: 83116
+  monotony: 38119
+  monstrosity: 61380
+  monthly: 3571
+scored_words:
+  monetarily: 127401
+  monitory: 181814
+  monotonously: 158411
+  monstrously: 125985
+  monumentally: 144728
+not_scored_words:
+- Monday
+- Monopoly
+- Monterey
+- Monterrey
+- Montgomery
+- Monty
+- monandry
+- monastically
+- monaurally
+- monkery
+- monkishly
+- monochromatically
+- monogamously
+- monogyny
+- monohydroxy
+- monolatry
+- monophonically
+- monophony
+- monosyllabically
+- monovalency
+- monumentality

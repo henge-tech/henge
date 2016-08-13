@@ -1,0 +1,23 @@
+---
+pattern: th_lly
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 689458
+score_per_word: 68945
+hi_scored_words:
+  thankfully: 17464
+  theatrically: 71787
+  thematically: 64237
+  theologically: 58274
+  theoretically: 16377
+  therapeutically: 85404
+  thermally: 42224
+  thoughtfully: 23933
+scored_words:
+  thermodynamically: 133479
+  thermostatically: 176279
+not_scored_words:
+- theocratically
+- theosophically
+- thermometrically

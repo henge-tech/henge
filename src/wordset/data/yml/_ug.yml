@@ -1,0 +1,61 @@
+---
+pattern: _ug
+hi_scored_words_count: 24
+scored_words_count: 13
+total_words: 51
+score: 2864599
+score_per_word: 77421
+hi_scored_words:
+  aug: 2657
+  bug: 4212
+  chug: 48201
+  debug: 16258
+  drug: 2840
+  dug: 10451
+  fug: 54969
+  hug: 10258
+  humbug: 36475
+  jitterbug: 69221
+  jug: 14492
+  ladybug: 40122
+  lug: 21289
+  mug: 10188
+  plug: 6215
+  pug: 22990
+  rug: 7787
+  shrug: 21658
+  slug: 21242
+  smug: 31199
+  snug: 20235
+  thug: 22926
+  tug: 15247
+  unplug: 37406
+scored_words:
+  antidrug: 260950
+  bedbug: 133706
+  chugalug: 192920
+  doodlebug: 100599
+  earplug: 179163
+  firebug: 106453
+  frug: 247369
+  hearthrug: 195617
+  mealybug: 201483
+  shutterbug: 114896
+  stinkbug: 255555
+  superbug: 155039
+  trug: 172311
+not_scored_words:
+- Aug
+- Borlaug
+- Bug
+- Doug
+- Kremenchug
+- Lug
+- Zug
+- billbug
+- fireplug
+- litterbug
+- nondrug
+- redbug
+- spittlebug
+- tumblebug

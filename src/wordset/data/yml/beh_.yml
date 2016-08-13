@@ -1,0 +1,52 @@
+---
+pattern: beh_
+hi_scored_words_count: 23
+scored_words_count: 10
+total_words: 42
+score: 2385722
+score_per_word: 72294
+hi_scored_words:
+  behalf: 2792
+  behave: 7923
+  behaved: 14454
+  behaves: 25628
+  behaving: 22552
+  behavior: 2971
+  behavioral: 10692
+  behaviorally: 95187
+  behaviorism: 90325
+  behaviors: 7590
+  behead: 84993
+  beheaded: 36247
+  beheading: 57515
+  beheld: 24661
+  behemoth: 36658
+  behest: 41340
+  behind: 678
+  behold: 7907
+  beholden: 49841
+  beholder: 41764
+  beholding: 62782
+  beholds: 97757
+  behooves: 92547
+scored_words:
+  behaviorist: 100148
+  behaviorists: 170154
+  behemoths: 130958
+  behests: 159604
+  behindhand: 165160
+  behinds: 110415
+  beholders: 153771
+  behoof: 185380
+  behoove: 123594
+  behooved: 171734
+not_scored_words:
+- Behan
+- Behistun
+- Behmenism
+- Behmenist
+- Behring
+- behalves
+- behavioristic
+- beheads
+- behooving

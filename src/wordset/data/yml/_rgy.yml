@@ -1,0 +1,31 @@
+---
+pattern: _rgy
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 21
+score: 1156732
+score_per_word: 82623
+hi_scored_words:
+  allergy: 13705
+  clergy: 8684
+  energy: 748
+  lethargy: 38917
+  liturgy: 22080
+  metallurgy: 33865
+  orgy: 12588
+  porgy: 71609
+  synergy: 19079
+scored_words:
+  anergy: 222683
+  dramaturgy: 105839
+  hydrometallurgy: 337289
+  thaumaturgy: 134188
+  theurgy: 135458
+not_scored_words:
+- Liturgy
+- chemurgy
+- electrometallurgy
+- lurgy
+- pyrometallurgy
+- surgy
+- zymurgy

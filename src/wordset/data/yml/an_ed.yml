@@ -1,0 +1,51 @@
+---
+pattern: an_ed
+hi_scored_words_count: 22
+scored_words_count: 8
+total_words: 41
+score: 2393289
+score_per_word: 79776
+hi_scored_words:
+  analyzed: 6759
+  anchored: 18542
+  anesthetized: 67517
+  angered: 30224
+  angled: 30996
+  anguished: 68614
+  animated: 4385
+  aniseed: 86668
+  annealed: 57367
+  annexed: 22973
+  annihilated: 51091
+  annotated: 13346
+  announced: 1864
+  annoyed: 10932
+  annualized: 54990
+  annulled: 55799
+  anodized: 43793
+  anointed: 31294
+  answered: 2505
+  anticipated: 5864
+  antiquated: 33658
+  antiqued: 98371
+scored_words:
+  analogized: 312514
+  anglicized: 102810
+  ankylosed: 156262
+  antagonized: 109873
+  anted: 269932
+  antedated: 284593
+  anthologized: 188316
+  antlered: 171437
+not_scored_words:
+- anagrammatized
+- anastomosed
+- anathematized
+- anatomized
+- aneled
+- animadverted
+- animalized
+- annunciated
+- anteceded
+- anthropomorphized
+- anticked

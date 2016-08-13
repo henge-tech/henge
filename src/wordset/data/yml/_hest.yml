@@ -1,0 +1,43 @@
+---
+pattern: _hest
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 33
+score: 607468
+score_per_word: 46728
+hi_scored_words:
+  behest: 41340
+  chest: 3077
+  farthest: 26151
+  freshest: 33271
+  furthest: 28118
+  harshest: 57800
+  highest: 1202
+  richest: 11337
+  roughest: 84806
+  smoothest: 70465
+  toughest: 24508
+scored_words:
+  hest: 101692
+  staunchest: 123701
+not_scored_words:
+- alcahest
+- alkahest
+- archest
+- barghest
+- blithest
+- brashest
+- couthest
+- flashest
+- flushest
+- gauchest
+- lavishest
+- lithest
+- lushest
+- nighest
+- plushest
+- poshest
+- rashest
+- stanchest
+- swishest
+- thoroughest

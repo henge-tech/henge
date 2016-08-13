@@ -1,0 +1,89 @@
+---
+pattern: p_um
+hi_scored_words_count: 23
+scored_words_count: 22
+total_words: 79
+score: 4879619
+score_per_word: 108435
+hi_scored_words:
+  palladium: 28224
+  pandemonium: 44212
+  pendulum: 19285
+  penicillium: 92473
+  pericardium: 73668
+  perineum: 71867
+  peritoneum: 64351
+  petroleum: 6807
+  phylum: 37962
+  planetarium: 31509
+  plasmodium: 42061
+  platinum: 8229
+  plenum: 27406
+  plum: 12609
+  plutonium: 23230
+  podium: 19520
+  possum: 34118
+  postpartum: 29135
+  potassium: 11742
+  practicum: 39233
+  premium: 5334
+  presidium: 74488
+  proscenium: 82417
+scored_words:
+  pablum: 246268
+  pabulum: 210777
+  pallium: 110130
+  paramecium: 114261
+  pelargonium: 107084
+  peplum: 132521
+  periosteum: 172396
+  petrolatum: 145101
+  pinetum: 185514
+  plectrum: 120297
+  polonium: 109306
+  pomatum: 318592
+  positronium: 283139
+  praseodymium: 191760
+  primordium: 176959
+  principium: 243712
+  promethium: 213043
+  protactinium: 228168
+  protium: 233514
+  pudendum: 183478
+  puerperium: 143534
+  pyrethrum: 130185
+not_scored_words:
+- Pablum
+- Paestum
+- Palladium
+- Pentium
+- Pergamum
+- Presidium
+- pancratium
+- panjandrum
+- parapodium
+- patagium
+- peculium
+- perichondrium
+- pericranium
+- peridium
+- perinephrium
+- perineurium
+- perionychium
+- perithecium
+- pileum
+- plumbum
+- polychasium
+- polyzoarium
+- procambium
+- promycelium
+- propylaeum
+- prostomium
+- prothalamium
+- protoactinium
+- prytaneum
+- psalterium
+- puparium
+- pycnidium
+- pygidium
+- pyxidium

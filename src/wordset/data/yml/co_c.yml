@@ -1,0 +1,41 @@
+---
+pattern: co_c
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 31
+score: 1139912
+score_per_word: 75994
+hi_scored_words:
+  cognac: 29032
+  colic: 34564
+  colonic: 37080
+  colorimetric: 78799
+  comedic: 33880
+  comic: 3849
+  conc: 40102
+  concentric: 29526
+  conic: 54437
+  cosmetic: 18094
+  cosmic: 11032
+scored_words:
+  colorific: 316266
+  communistic: 120301
+  conspecific: 141895
+  copacetic: 191055
+not_scored_words:
+- Cognac
+- Condillac
+- Coptic
+- cobaltic
+- coenosarc
+- columbic
+- commercialistic
+- congeneric
+- conglomeratic
+- consumeristic
+- contortionistic
+- copasetic
+- corybantic
+- cosec
+- cosmogonic
+- cosmologic

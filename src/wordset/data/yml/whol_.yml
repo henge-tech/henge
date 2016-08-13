@@ -1,0 +1,34 @@
+---
+pattern: whol_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 24
+score: 1458202
+score_per_word: 81011
+hi_scored_words:
+  whole: 363
+  wholehearted: 85496
+  wholeheartedly: 33168
+  wholemeal: 84082
+  wholeness: 37141
+  wholes: 81939
+  wholesale: 5022
+  wholesaler: 25531
+  wholesalers: 18930
+  wholesaling: 67432
+  wholesome: 18645
+  wholly: 5690
+scored_words:
+  wholefood: 214183
+  wholefoods: 208879
+  wholegrain: 157415
+  wholesales: 146483
+  wholesomeness: 137524
+  wholistic: 130279
+not_scored_words:
+- wholeheartedness
+- wholesaled
+- wholesomely
+- wholewheat
+- wholism
+- wholistically

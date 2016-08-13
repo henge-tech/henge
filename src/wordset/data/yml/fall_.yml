@@ -1,0 +1,41 @@
+---
+pattern: fall_
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 31
+score: 1282362
+score_per_word: 71242
+hi_scored_words:
+  fall: 635
+  fallacies: 41899
+  fallacious: 49134
+  fallacy: 21720
+  fallback: 40176
+  fallen: 4369
+  faller: 92903
+  fallible: 58099
+  falling: 2692
+  fallout: 19041
+  fallow: 32197
+  fallows: 95938
+  falls: 1846
+scored_words:
+  fallbacks: 253104
+  fallers: 128594
+  fallibility: 101429
+  falloff: 144913
+  fallowing: 193673
+not_scored_words:
+- Falla
+- Fallopian
+- fallaciously
+- fallaciousness
+- fallaciousnesses
+- fallal
+- fallals
+- fallfish
+- fallibleness
+- fallibly
+- falloffs
+- fallowed
+- fallowness

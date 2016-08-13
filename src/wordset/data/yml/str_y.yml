@@ -1,0 +1,51 @@
+---
+pattern: str_y
+hi_scored_words_count: 19
+scored_words_count: 10
+total_words: 41
+score: 2560833
+score_per_word: 88304
+hi_scored_words:
+  straightaway: 55678
+  straightforwardly: 83816
+  straightway: 64435
+  strangely: 11696
+  strategically: 18593
+  strategy: 3948
+  strathspey: 82013
+  stratigraphy: 44726
+  strawberry: 11115
+  stray: 12181
+  streaky: 81186
+  strenuously: 63558
+  stretchy: 42210
+  strictly: 4022
+  strikingly: 30382
+  stringency: 88227
+  stringy: 66589
+  strongly: 2594
+  structurally: 26877
+scored_words:
+  straggly: 259219
+  straightly: 174590
+  straitly: 237914
+  stratify: 147036
+  stridently: 180151
+  stringently: 106310
+  stripey: 118969
+  stripy: 106646
+  stroppy: 222619
+  stroy: 213533
+not_scored_words:
+- Strachey
+- Stravinsky
+- strangury
+- stratocracy
+- stratospherically
+- streamway
+- streamy
+- stretchability
+- stridency
+- stridulatory
+- stroppily
+- struttingly

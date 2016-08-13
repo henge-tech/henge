@@ -1,0 +1,34 @@
+---
+pattern: _raps
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 24
+score: 1095585
+score_per_word: 91298
+hi_scored_words:
+  craps: 17520
+  fraps: 98724
+  jockstraps: 94108
+  raps: 38801
+  scraps: 14377
+  straps: 12760
+  traps: 10322
+  wraps: 13967
+scored_words:
+  bootstraps: 101004
+  mousetraps: 272334
+  satraps: 247215
+  unwraps: 174453
+not_scored_words:
+- chinstraps
+- deathtraps
+- entraps
+- enwraps
+- firetraps
+- flytraps
+- mantraps
+- rattletraps
+- rattraps
+- suntraps
+- unstraps
+- watchstraps

@@ -1,0 +1,23 @@
+---
+pattern: con_ance
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 772040
+score_per_word: 77204
+hi_scored_words:
+  concordance: 19699
+  conductance: 32710
+  conformance: 28534
+  connivance: 95259
+  consonance: 73317
+  continuance: 21505
+  contrivance: 53785
+  conveyance: 19602
+scored_words:
+  concomitance: 108488
+  convenance: 319141
+not_scored_words:
+- Constance
+- contradance
+- conversance

@@ -1,0 +1,45 @@
+---
+pattern: incr_
+hi_scored_words_count: 21
+scored_words_count: 2
+total_words: 35
+score: 1272622
+score_per_word: 55331
+hi_scored_words:
+  incr: 83295
+  increase: 896
+  increased: 1150
+  increases: 8509
+  increasing: 1848
+  increasingly: 6062
+  incredible: 3766
+  incredibly: 8123
+  incredulity: 62618
+  incredulous: 45692
+  incredulously: 88620
+  increment: 22474
+  incremental: 16449
+  incrementally: 45447
+  incremented: 55966
+  incrementing: 93165
+  increments: 18132
+  incriminate: 92049
+  incriminating: 46836
+  incrimination: 80976
+  incrustation: 85459
+scored_words:
+  incrementalism: 215989
+  incriminated: 189101
+not_scored_words:
+- incrassate
+- incredibility
+- incredibleness
+- incrediblenesses
+- incredulousness
+- incrementalist
+- incrementalists
+- increscent
+- incretion
+- incriminates
+- incriminatory
+- incrustations

@@ -1,0 +1,29 @@
+---
+pattern: s_all
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 19
+score: 802932
+score_per_word: 53528
+hi_scored_words:
+  screwball: 65656
+  seawall: 77670
+  shall: 238
+  shortfall: 23028
+  sidewall: 64625
+  small: 194
+  snowball: 28929
+  snowfall: 30268
+  softball: 13848
+  speedball: 68386
+  squall: 36925
+  stall: 11913
+  stonewall: 31100
+scored_words:
+  spall: 104511
+  spitball: 245641
+not_scored_words:
+- Small
+- Sundsvall
+- sleazeball
+- sourball

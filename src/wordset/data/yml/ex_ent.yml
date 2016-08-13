@@ -1,0 +1,24 @@
+---
+pattern: ex_ent
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 535203
+score_per_word: 48654
+hi_scored_words:
+  excellent: 967
+  excitement: 4991
+  excrement: 48891
+  exigent: 72552
+  existent: 18890
+  expedient: 21359
+  experiment: 3144
+  exponent: 22289
+  extent: 1733
+scored_words:
+  excipient: 200343
+  expungement: 140044
+not_scored_words:
+- excrescent
+- excurrent
+- extolment

@@ -1,0 +1,26 @@
+---
+pattern: ab_ent
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 16
+score: 905421
+score_per_word: 75451
+hi_scored_words:
+  abandonment: 15729
+  abasement: 90100
+  abatement: 22755
+  abhorrent: 49668
+  abolishment: 80529
+  abridgment: 87046
+  absent: 4407
+  absorbent: 32486
+  abstinent: 95729
+  abutment: 57077
+scored_words:
+  abetment: 190954
+  abortifacient: 178941
+not_scored_words:
+- abashment
+- abducent
+- absorbefacient
+- abstergent

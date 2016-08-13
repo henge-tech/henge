@@ -1,0 +1,32 @@
+---
+pattern: ent_t
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1222411
+score_per_word: 76400
+hi_scored_words:
+  entailment: 92269
+  entanglement: 41015
+  entertainment: 1839
+  enthusiast: 12887
+  entitlement: 16615
+  entomologist: 51070
+  entrainment: 62095
+  entrant: 35494
+  entrapment: 46164
+  entreat: 50426
+  entrust: 30555
+scored_words:
+  enthronement: 169126
+  enticement: 112243
+  entombment: 148528
+  entrenchment: 101408
+  entrepot: 250677
+not_scored_words:
+- entablement
+- enthrallment
+- entoblast
+- entrancement
+- entreatment
+- entrechat

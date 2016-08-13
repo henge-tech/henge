@@ -1,0 +1,36 @@
+---
+pattern: outw_
+hi_scored_words_count: 8
+scored_words_count: 11
+total_words: 26
+score: 2474803
+score_per_word: 130252
+hi_scored_words:
+  outward: 9656
+  outwardly: 31376
+  outwards: 37817
+  outweigh: 24289
+  outweighed: 41776
+  outweighs: 49603
+  outwit: 55917
+  outwith: 89217
+scored_words:
+  outwash: 136888
+  outwear: 230698
+  outweighing: 182126
+  outwits: 284721
+  outwitted: 138026
+  outwitting: 158202
+  outwork: 103589
+  outworkers: 325710
+  outworking: 263231
+  outworks: 128192
+  outworn: 183769
+not_scored_words:
+- outwait
+- outwalk
+- outwearing
+- outwears
+- outwore
+- outworked
+- outworker

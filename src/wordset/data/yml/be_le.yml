@@ -1,0 +1,32 @@
+---
+pattern: be_le
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 22
+score: 829534
+score_per_word: 69127
+hi_scored_words:
+  beadle: 47260
+  beagle: 25306
+  beanpole: 78873
+  bearable: 46875
+  beetle: 11300
+  beguile: 90014
+  believable: 25141
+  belittle: 51847
+  belle: 7271
+scored_words:
+  beatable: 167071
+  befuddle: 176103
+  bendable: 102473
+not_scored_words:
+- Beadle
+- Belle
+- Berle
+- bedabble
+- bedazzle
+- bedrabble
+- bedraggle
+- bespangle
+- besprinkle
+- bestraddle

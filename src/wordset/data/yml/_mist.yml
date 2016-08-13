@@ -1,0 +1,52 @@
+---
+pattern: _mist
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 42
+score: 2614592
+score_per_word: 104583
+hi_scored_words:
+  agronomist: 91802
+  alarmist: 78828
+  alchemist: 25989
+  animist: 92513
+  biochemist: 64019
+  chemist: 13684
+  conformist: 60213
+  economist: 13597
+  extremist: 23066
+  mist: 7575
+  nonconformist: 71631
+  optimist: 29892
+  pessimist: 51052
+  psalmist: 66356
+  reformist: 45388
+scored_words:
+  anatomist: 100709
+  autonomist: 187673
+  bigamist: 205572
+  ceramist: 162856
+  dynamist: 165467
+  ergonomist: 262022
+  geochemist: 270638
+  polygamist: 146288
+  taxidermist: 110051
+  taxonomist: 267711
+not_scored_words:
+- Islamist
+- Nonconformist
+- atomist
+- demist
+- epitomist
+- euphemist
+- intimist
+- legitimist
+- macroeconomist
+- misogamist
+- monogamist
+- palindromist
+- palmist
+- pantomimist
+- polemist
+- rhythmist
+- totemist

@@ -1,0 +1,30 @@
+---
+pattern: por_e
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 1036318
+score_per_word: 79716
+hi_scored_words:
+  porcine: 41428
+  porcupine: 28490
+  pore: 18391
+  porpoise: 52186
+  porridge: 29747
+  portable: 5874
+  portage: 20347
+  porterhouse: 87841
+  porthole: 58869
+  portraiture: 34600
+scored_words:
+  porkpie: 250551
+  porterage: 177822
+  portiere: 230172
+not_scored_words:
+- Porsche
+- Porte
+- Portuguese
+- porbeagle
+- portative
+- portfire
+- portière

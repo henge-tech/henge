@@ -1,0 +1,34 @@
+---
+pattern: ra_ns
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 24
+score: 734065
+score_per_word: 61172
+hi_scored_words:
+  raccoons: 52795
+  radians: 49813
+  radiations: 70331
+  rains: 10380
+  raisins: 25963
+  ramifications: 26094
+  ratifications: 85999
+  rationalizations: 91931
+  rations: 26350
+  ravens: 16826
+scored_words:
+  ragamuffins: 149736
+  ramekins: 127847
+not_scored_words:
+- Ramadans
+- Rastafarians
+- racons
+- radiolarians
+- radiolocations
+- raglans
+- rambutans
+- rapscallions
+- rarefactions
+- ratans
+- rattans
+- rattlebrains

@@ -1,0 +1,36 @@
+---
+pattern: univ_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 26
+score: 1310518
+score_per_word: 81907
+hi_scored_words:
+  univ: 10971
+  universal: 1757
+  universalism: 50383
+  universalist: 38730
+  universality: 30482
+  universally: 12646
+  universals: 66332
+  universe: 2497
+  universes: 33972
+  universities: 4575
+  university: 1165
+scored_words:
+  univalent: 152132
+  universalistic: 196473
+  universalization: 247651
+  universalizing: 275838
+  univocal: 184914
+not_scored_words:
+- Univ
+- Universalism
+- Universalist
+- univalence
+- univalve
+- univalves
+- universalisms
+- universalize
+- universalized
+- universalizes

@@ -1,0 +1,48 @@
+---
+pattern: post_s
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 38
+score: 1676973
+score_per_word: 93165
+hi_scored_words:
+  postcards: 12322
+  postcodes: 65344
+  posters: 6880
+  postgraduates: 74535
+  posthumous: 37884
+  postings: 10460
+  postmasters: 98977
+  postpones: 74047
+  posts: 1802
+  postulates: 53703
+  postures: 41731
+scored_words:
+  postdocs: 104773
+  posteriors: 222494
+  postilions: 210576
+  postmarks: 110559
+  postmodernists: 184601
+  postponements: 131667
+  postscripts: 234618
+not_scored_words:
+- postbags
+- postboxes
+- postdates
+- posteriorities
+- posterns
+- postfixes
+- postholes
+- postiches
+- posticous
+- posties
+- postillions
+- postludes
+- postmistress
+- postmistresses
+- postmortems
+- postponers
+- postseasons
+- postulants
+- postulations
+- posturings

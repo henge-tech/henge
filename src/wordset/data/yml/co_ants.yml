@@ -1,0 +1,33 @@
+---
+pattern: co_ants
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 23
+score: 1720016
+score_per_word: 95556
+hi_scored_words:
+  combatants: 24847
+  complainants: 48709
+  consonants: 37107
+  constants: 11720
+  consultants: 4294
+  contaminants: 15749
+  contestants: 23600
+  cormorants: 74828
+  covenants: 26582
+scored_words:
+  coagulants: 222946
+  cohabitants: 304796
+  colorants: 103550
+  commandants: 185941
+  communicants: 121588
+  concomitants: 129218
+  confidants: 149165
+  congregants: 108590
+  coolants: 126786
+not_scored_words:
+- continuants
+- corposants
+- cosecants
+- cotenants
+- counterirritants

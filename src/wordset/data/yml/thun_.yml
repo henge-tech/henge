@@ -1,0 +1,40 @@
+---
+pattern: thun_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 30
+score: 1506970
+score_per_word: 83720
+hi_scored_words:
+  thunder: 4934
+  thunderbolt: 28228
+  thunderbolts: 60974
+  thundered: 70389
+  thunderhead: 93922
+  thundering: 32745
+  thunderous: 54653
+  thunders: 52423
+  thunderstorm: 22454
+  thunderstorms: 29353
+  thunderstruck: 58004
+  thunk: 50897
+scored_words:
+  thunderclap: 104750
+  thundercloud: 142031
+  thunderer: 156167
+  thundershowers: 202756
+  thunderstone: 100905
+  thunks: 241385
+not_scored_words:
+- Thun
+- Thunderbird
+- thunderclaps
+- thunderclouds
+- thunderers
+- thunderflashes
+- thunderheads
+- thunderously
+- thunderpeal
+- thundershower
+- thundersquall
+- thundery

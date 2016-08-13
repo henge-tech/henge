@@ -1,0 +1,38 @@
+---
+pattern: v_ting
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 28
+score: 1692302
+score_per_word: 84615
+hi_scored_words:
+  vacating: 76144
+  validating: 29090
+  vaulting: 49481
+  vaunting: 93341
+  ventilating: 52256
+  venting: 31166
+  vesting: 48582
+  vetting: 55983
+  vibrating: 17230
+  violating: 14969
+  visiting: 3082
+  vomiting: 15341
+  voting: 4432
+scored_words:
+  vaccinating: 101388
+  vacillating: 127467
+  valeting: 120915
+  vegetating: 296479
+  vignetting: 104315
+  vindicating: 125608
+  vociferating: 325033
+not_scored_words:
+- valuating
+- variegating
+- vatting
+- vellicating
+- venerating
+- vitiating
+- vituperating
+- vivisecting

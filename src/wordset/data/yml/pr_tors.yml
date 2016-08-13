@@ -1,0 +1,34 @@
+---
+pattern: pr_tors
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 24
+score: 1676840
+score_per_word: 93157
+hi_scored_words:
+  predators: 12494
+  predictors: 29789
+  progenitors: 57765
+  projectors: 20724
+  proprietors: 27587
+  prosecutors: 22715
+  prospectors: 68864
+  protectors: 18409
+  protestors: 32869
+scored_words:
+  praetors: 107791
+  preceptors: 103893
+  precipitators: 189934
+  procrastinators: 139099
+  proctors: 109129
+  procurators: 198133
+  prognosticators: 242566
+  propagators: 114293
+  protractors: 180786
+not_scored_words:
+- precentors
+- prestidigitators
+- pretors
+- prevaricators
+- primogenitors
+- promulgators

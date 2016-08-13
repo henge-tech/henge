@@ -1,0 +1,39 @@
+---
+pattern: rou_s
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 29
+score: 1520795
+score_per_word: 84488
+hi_scored_words:
+  roughness: 30184
+  roughriders: 82963
+  roundabouts: 59553
+  rounders: 43990
+  roundness: 85051
+  rounds: 6776
+  roundups: 61718
+  routers: 11895
+  routes: 6284
+  routines: 8427
+scored_words:
+  roues: 266026
+  rouges: 101247
+  roughnecks: 101077
+  roughs: 129945
+  roundels: 161043
+  roundworms: 146541
+  rouses: 100571
+  routs: 117504
+not_scored_words:
+- Roulers
+- Roundheads
+- roughcasts
+- roughens
+- roughhouses
+- roundelays
+- roundhouses
+- roustabouts
+- rousts
+- routinizes
+- roués

@@ -1,0 +1,51 @@
+---
+pattern: lip_
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 41
+score: 1810948
+score_per_word: 95313
+hi_scored_words:
+  lip: 4802
+  lipase: 47577
+  lipid: 14306
+  lipids: 23404
+  lipophilic: 98865
+  lipoprotein: 33799
+  lipoproteins: 45794
+  liposuction: 28512
+  lipped: 52663
+  lips: 3142
+  lipstick: 16815
+  lipsticks: 63801
+scored_words:
+  lipases: 171248
+  lipolysis: 123149
+  lipoma: 119705
+  lipomas: 262669
+  lipotropic: 291003
+  lippy: 101376
+  lipreading: 308318
+not_scored_words:
+- Lipchitz
+- Lipetsk
+- Lipizzaner
+- Lippe
+- Lippi
+- Lippizaner
+- Lippmann
+- Lipscomb
+- Lipton
+- lipidic
+- lipocaic
+- lipography
+- lipoid
+- lipoids
+- lipotropin
+- lippiness
+- lipread
+- lipreader
+- lipreads
+- lipsticked
+- lipsticking
+- lipsynch

@@ -1,0 +1,43 @@
+---
+pattern: seg_
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 33
+score: 1662149
+score_per_word: 87481
+hi_scored_words:
+  segfaults: 65189
+  segment: 8332
+  segmental: 44442
+  segmentation: 18345
+  segmented: 30644
+  segmenting: 91853
+  segments: 10023
+  segregate: 49635
+  segregated: 27511
+  segregating: 82037
+  segregation: 20955
+  segue: 45387
+scored_words:
+  segfault: 126084
+  segno: 108120
+  segregates: 182701
+  segregationist: 145762
+  segregationists: 275489
+  segued: 197135
+  segues: 132505
+not_scored_words:
+- Sega
+- Segovia
+- Segre
+- Segundo
+- segmentalization
+- segmentalize
+- segmentally
+- segnos
+- segregable
+- segregative
+- segregator
+- segueing
+- seguidilla
+- seguing

@@ -1,0 +1,27 @@
+---
+pattern: her_es
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 401298
+score_per_word: 44588
+hi_scored_words:
+  herbicides: 24812
+  herbivores: 58916
+  heres: 22864
+  heresies: 57701
+  hermaphrodites: 75201
+  heroes: 3924
+  heroines: 40962
+  herpes: 16497
+scored_words:
+  heritages: 100421
+not_scored_words:
+- Heracles
+- Herakles
+- Hercules
+- Hermes
+- heredes
+- hermitages
+- herniates
+- heronries

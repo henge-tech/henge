@@ -1,0 +1,46 @@
+---
+pattern: p_ets
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 36
+score: 1082573
+score_per_word: 54128
+hi_scored_words:
+  packets: 10099
+  pallets: 31672
+  pamphlets: 20063
+  parakeets: 71920
+  pellets: 27442
+  pets: 6952
+  pickets: 55853
+  piglets: 52172
+  planets: 6896
+  platelets: 27735
+  plummets: 87956
+  pockets: 5650
+  poets: 6348
+  presets: 34791
+  prophets: 10202
+  puppets: 19019
+scored_words:
+  parapets: 120365
+  pickpockets: 103798
+  poppets: 233143
+  pullets: 150497
+not_scored_words:
+- Prophets
+- pantalets
+- paramagnets
+- pargets
+- parquets
+- pelmets
+- piquets
+- plackets
+- planchets
+- playlets
+- pomfrets
+- possets
+- prickets
+- privets
+- propjets
+- punnets

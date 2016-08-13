@@ -1,0 +1,45 @@
+---
+pattern: an_te
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 35
+score: 2241467
+score_per_word: 117971
+hi_scored_words:
+  andante: 44732
+  anecdote: 29143
+  animate: 21376
+  annihilate: 42925
+  annotate: 31165
+  ante: 15527
+  anthracite: 47745
+  anticipate: 10247
+  antidote: 23252
+scored_words:
+  anchorite: 222083
+  andalusite: 198784
+  andesite: 109809
+  anhydrite: 140062
+  anisette: 225520
+  annunciate: 197962
+  anorthite: 230960
+  anorthosite: 293981
+  antedate: 199862
+  antepenultimate: 156332
+not_scored_words:
+- Annette
+- Antoinette
+- anabolite
+- analcite
+- andradite
+- anglesite
+- angulate
+- ankerite
+- annabergite
+- annulate
+- ansate
+- anthropophagite
+- antigorite
+- antiquate
+- antisatellite
+- antisemite

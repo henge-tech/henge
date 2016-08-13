@@ -1,0 +1,44 @@
+---
+pattern: g_gs
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 34
+score: 1860654
+score_per_word: 103369
+hi_scored_words:
+  gags: 26160
+  gangs: 16042
+  gatherings: 16902
+  gigs: 20938
+  goings: 33661
+  gongs: 65036
+  gratings: 55723
+  greetings: 7870
+  groupings: 29997
+scored_words:
+  gassings: 337317
+  geldings: 126120
+  gleanings: 100359
+  glimmerings: 158613
+  goslings: 159960
+  groundhogs: 139678
+  groundings: 258873
+  grumblings: 184331
+  gulags: 123074
+not_scored_words:
+- gasbags
+- givings
+- gleamings
+- gloamings
+- golfings
+- golliwogs
+- graftings
+- grapplings
+- grazings
+- greenings
+- greylags
+- grillings
+- grindings
+- groundbreakings
+- growings
+- gruelings

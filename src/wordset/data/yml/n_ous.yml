@@ -1,0 +1,55 @@
+---
+pattern: n_ous
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 45
+score: 2400593
+score_per_word: 104373
+hi_scored_words:
+  nauseous: 50032
+  nebulous: 47604
+  nefarious: 37125
+  nervous: 3775
+  nitrogenous: 72318
+  nitrous: 32264
+  nonferrous: 64049
+  notorious: 8880
+  nous: 11806
+  noxious: 25651
+  numerous: 2027
+  nutritious: 26735
+scored_words:
+  nacreous: 104282
+  necessitous: 132449
+  noncancerous: 260509
+  noncontiguous: 184760
+  nonhazardous: 187684
+  nonhomogeneous: 223890
+  nonhomologous: 307697
+  noninfectious: 167480
+  nonporous: 207881
+  nonreligious: 117223
+  numinous: 124472
+not_scored_words:
+- naphthous
+- nectareous
+- nectarous
+- nickeliferous
+- nickelous
+- nidicolous
+- nidifugous
+- niobous
+- niveous
+- noctambulous
+- nocuous
+- noncarnivorous
+- noncontagious
+- noncontinuous
+- nonfilamentous
+- nongaseous
+- nonmalicious
+- nonparous
+- nonpoisonous
+- nonvenomous
+- nubilous
+- nyctaginaceous

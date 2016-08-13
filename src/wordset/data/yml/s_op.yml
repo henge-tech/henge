@@ -1,0 +1,38 @@
+---
+pattern: s_op
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 28
+score: 1408242
+score_per_word: 70412
+hi_scored_words:
+  scallop: 38927
+  scoop: 12199
+  scop: 64460
+  shop: 807
+  shortstop: 33791
+  sloop: 34447
+  slop: 46767
+  snoop: 23332
+  snowdrop: 86622
+  sop: 28169
+  stoop: 29350
+  stop: 613
+  strop: 88199
+  sweatshop: 48663
+  swoop: 30042
+  sysop: 80343
+scored_words:
+  shallop: 128925
+  soursop: 146118
+  stonecrop: 180364
+  synop: 306104
+not_scored_words:
+- SOP
+- Salop
+- saloop
+- scroop
+- sharecrop
+- slipslop
+- sweetshop
+- sweetsop

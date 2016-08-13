@@ -1,0 +1,31 @@
+---
+pattern: gen_es
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 21
+score: 950261
+score_per_word: 63350
+hi_scored_words:
+  gendarmes: 92656
+  genealogies: 57246
+  generalities: 55527
+  generalizes: 74192
+  generates: 14685
+  genes: 4260
+  geniuses: 35795
+  genomes: 29851
+  genotypes: 38534
+  genres: 11122
+  gentiles: 25764
+scored_words:
+  genies: 111724
+  genocides: 109829
+  gentes: 122449
+  gentles: 166627
+not_scored_words:
+- gendarmeries
+- generosities
+- geneses
+- genitives
+- gentries
+- gentrifies

@@ -1,0 +1,34 @@
+---
+pattern: can_r
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 24
+score: 874170
+score_per_word: 72847
+hi_scored_words:
+  cancer: 5266
+  candler: 60376
+  candor: 34216
+  canister: 25229
+  canker: 51059
+  canner: 89005
+  canter: 37067
+  cantilever: 37135
+  cantor: 32284
+scored_words:
+  candlepower: 146237
+  caner: 135695
+  canvasser: 220601
+not_scored_words:
+- Cancer
+- Cantor
+- canaster
+- canceler
+- candlemaker
+- candystriper
+- canicular
+- cannier
+- cannoneer
+- cannonfodder
+- cannular
+- cantier

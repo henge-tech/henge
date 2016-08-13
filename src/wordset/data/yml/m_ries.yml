@@ -1,0 +1,35 @@
+---
+pattern: m_ries
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 25
+score: 962758
+score_per_word: 68768
+hi_scored_words:
+  marries: 26728
+  memories: 3118
+  mercenaries: 25741
+  miniseries: 34585
+  ministries: 14877
+  miseries: 52510
+  missionaries: 12351
+  monasteries: 27711
+  mysteries: 7976
+scored_words:
+  manufactories: 176204
+  microbreweries: 126562
+  mockeries: 151442
+  mortuaries: 134659
+  mulberries: 168294
+not_scored_words:
+- Masonries
+- Mercuries
+- marqueteries
+- menageries
+- mesenteries
+- midwiferies
+- millihenries
+- mimicries
+- miscarries
+- monandries
+- monolatries

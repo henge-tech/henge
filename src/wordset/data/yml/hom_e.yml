@@ -1,0 +1,28 @@
+---
+pattern: hom_e
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 972394
+score_per_word: 74799
+hi_scored_words:
+  homage: 14141
+  hombre: 35717
+  home: 97
+  homemade: 19324
+  homepage: 4019
+  homicide: 16586
+  homie: 20949
+  homologue: 56407
+scored_words:
+  homelike: 141993
+  homogenize: 185942
+  homophobe: 113946
+  homophone: 189831
+  homozygote: 173442
+not_scored_words:
+- Home
+- Homicide
+- homologate
+- homologize
+- homophile

@@ -1,0 +1,22 @@
+---
+pattern: int_ble
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 12
+score: 380356
+score_per_word: 42261
+hi_scored_words:
+  intangible: 18097
+  integrable: 54921
+  intelligible: 30998
+  interchangeable: 27857
+  interminable: 45607
+  interoperable: 50221
+  interpretable: 96278
+  intolerable: 21673
+  intractable: 34704
+scored_words: {}
+not_scored_words:
+- interposable
+- introducible
+- intuitable

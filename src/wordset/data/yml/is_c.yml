@@ -1,0 +1,32 @@
+---
+pattern: is_c
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 22
+score: 959579
+score_per_word: 87234
+hi_scored_words:
+  ischemic: 28278
+  isobaric: 63811
+  isomeric: 99135
+  isometric: 38258
+  isomorphic: 40827
+  isotonic: 62667
+  isotopic: 35319
+  isotropic: 35836
+scored_words:
+  isentropic: 109969
+  isoelectronic: 317733
+  isostatic: 127746
+not_scored_words:
+- Isaac
+- Islamic
+- Islamophobic
+- Issac
+- isochromatic
+- isodiametric
+- isodynamic
+- isogonic
+- isomagnetic
+- isopiestic
+- isosteric

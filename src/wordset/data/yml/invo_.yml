@@ -1,0 +1,44 @@
+---
+pattern: invo_
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 34
+score: 1145399
+score_per_word: 49799
+hi_scored_words:
+  invocation: 20890
+  invocations: 57516
+  invoice: 15922
+  invoiced: 71792
+  invoices: 16988
+  invoicing: 49434
+  invoke: 14191
+  invoked: 13699
+  invokes: 37065
+  invoking: 26274
+  involuntarily: 30580
+  involuntary: 17991
+  involution: 59302
+  involve: 4719
+  involved: 1319
+  involvement: 6578
+  involvements: 92147
+  involves: 4299
+  involving: 4507
+scored_words:
+  invoker: 102079
+  involucre: 108793
+  involute: 141109
+  involutions: 248205
+not_scored_words:
+- invocate
+- invocative
+- invocatory
+- invokers
+- involucel
+- involucres
+- involucrum
+- involuntariness
+- involuted
+- involutional
+- involutionary

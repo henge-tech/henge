@@ -1,0 +1,75 @@
+---
+pattern: pr_ts
+hi_scored_words_count: 29
+scored_words_count: 14
+total_words: 65
+score: 3134690
+score_per_word: 72899
+hi_scored_words:
+  precedents: 30825
+  precepts: 29244
+  precincts: 25486
+  predicts: 24027
+  prefects: 84913
+  prepayments: 96479
+  presents: 2479
+  presets: 34791
+  presidents: 10727
+  prevents: 8183
+  priests: 6659
+  printouts: 51184
+  prints: 4609
+  procurements: 86339
+  products: 1046
+  profits: 3201
+  prohibits: 19765
+  projects: 2344
+  prompts: 18635
+  pronouncements: 41800
+  propagandists: 89657
+  propellants: 73043
+  prophets: 10202
+  proponents: 18139
+  prospects: 5842
+  protagonists: 37410
+  protects: 10151
+  protestants: 23749
+  protests: 10066
+scored_words:
+  pragmatists: 122507
+  prats: 126813
+  predicaments: 111815
+  preempts: 142349
+  presentiments: 132317
+  preservationists: 124603
+  pretests: 292560
+  pretexts: 106060
+  prohibitionists: 259206
+  projectionists: 256135
+  protectionists: 227944
+  protists: 119781
+  protoplasts: 105848
+  provosts: 145757
+not_scored_words:
+- Prophets
+- Protestants
+- precipitants
+- predigests
+- preexists
+- preheats
+- prejudgments
+- prepubescents
+- prescripts
+- preselects
+- presentments
+- presorts
+- preterits
+- pretreatments
+- prickets
+- priestcrafts
+- privets
+- prizefights
+- proctologists
+- proficients
+- propjets
+- protracts

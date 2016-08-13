@@ -1,0 +1,55 @@
+---
+pattern: sub_y
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 45
+score: 2508027
+score_per_word: 89572
+hi_scored_words:
+  subcategory: 38440
+  subconsciously: 58349
+  subcutaneously: 86036
+  subdirectory: 46289
+  subentry: 92729
+  subfamily: 25659
+  subjectively: 62094
+  subjectivity: 34181
+  sublimity: 72850
+  sublunary: 86879
+  subsequently: 4819
+  subsidiarity: 79631
+  subsidiary: 10051
+  subsidy: 14775
+  subspecialty: 84243
+  substantially: 6279
+  substantively: 74019
+  subtlety: 29308
+  subtly: 27902
+  subway: 16472
+scored_words:
+  subassembly: 131003
+  sublimely: 123441
+  subliminally: 151665
+  submaxillary: 244619
+  submissively: 185535
+  subserviency: 136202
+  subvariety: 256592
+  subversively: 327965
+not_scored_words:
+- subagency
+- subapically
+- subaxillary
+- subclassify
+- subindustry
+- subjacency
+- subjectify
+- subjunctively
+- sublethally
+- subnormality
+- subordinary
+- subordinately
+- subserviently
+- subsidiarily
+- subtenancy
+- subtreasury
+- subventionary

@@ -1,0 +1,26 @@
+---
+pattern: mo_ds
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 495280
+score_per_word: 55031
+hi_scored_words:
+  mods: 6238
+  molds: 25786
+  monads: 93830
+  moods: 16333
+  moorlands: 89183
+  mopeds: 59716
+  motherboards: 20349
+  mounds: 22731
+scored_words:
+  mockingbirds: 161114
+not_scored_words:
+- moldboards
+- mongoloids
+- monkshoods
+- moonseeds
+- mopboards
+- mortarboards
+- motherlands

@@ -1,0 +1,40 @@
+---
+pattern: p_el
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 30
+score: 1679667
+score_per_word: 76348
+hi_scored_words:
+  panel: 3978
+  parallel: 3073
+  parcel: 7478
+  pastel: 24916
+  peel: 10356
+  personnel: 5198
+  petrel: 52287
+  pickerel: 92834
+  pimpernel: 65425
+  pinwheel: 64264
+  pixel: 12353
+  pommel: 63867
+  prequel: 40757
+  pretzel: 39777
+  propel: 31731
+  pummel: 81505
+scored_words:
+  parimutuel: 237725
+  passel: 122482
+  pedicel: 129986
+  philomel: 150237
+  precancel: 315265
+  pumpernickel: 124173
+not_scored_words:
+- Pantagruel
+- Patel
+- Peel
+- pencel
+- pennoncel
+- petronel
+- plasmagel
+- printwheel

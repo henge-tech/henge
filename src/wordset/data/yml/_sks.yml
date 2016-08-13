@@ -1,0 +1,39 @@
+---
+pattern: _sks
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 29
+score: 1205145
+score_per_word: 66952
+hi_scored_words:
+  asks: 4181
+  asterisks: 46245
+  casks: 56513
+  desks: 14838
+  disks: 12376
+  flasks: 37947
+  husks: 65546
+  kiosks: 34091
+  masks: 10141
+  mollusks: 59615
+  risks: 3711
+  tasks: 3630
+  tusks: 62393
+scored_words:
+  basks: 147246
+  obelisks: 101950
+  rusks: 232460
+  unmasks: 211429
+  whisks: 100833
+not_scored_words:
+- abelmosks
+- basilisks
+- brisks
+- busks
+- cornhusks
+- cusks
+- damasks
+- frisks
+- multitasks
+- tamarisks
+- torsks

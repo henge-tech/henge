@@ -1,0 +1,38 @@
+---
+pattern: u_ate
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 28
+score: 1158880
+score_per_word: 82777
+hi_scored_words:
+  ulcerate: 90018
+  ultimate: 2731
+  underestimate: 26204
+  undergraduate: 9585
+  understate: 78053
+  unfortunate: 6547
+  update: 5360
+  upstate: 22570
+  urinate: 45217
+scored_words:
+  underrate: 154023
+  undulate: 148129
+  ungulate: 116693
+  unregenerate: 142996
+  uprate: 310754
+not_scored_words:
+- ululate
+- umbellate
+- umbilicate
+- uncinate
+- uncrate
+- unguiculate
+- unifoliate
+- unifoliolate
+- unijugate
+- uniseptate
+- unproportionate
+- unsaturate
+- urceolate
+- urticate

@@ -1,0 +1,44 @@
+---
+pattern: pe_rs
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 34
+score: 2095789
+score_per_word: 95263
+hi_scored_words:
+  peacekeepers: 40416
+  peacemakers: 61822
+  pears: 19933
+  peddlers: 66721
+  peepers: 82807
+  peers: 7731
+  pensioners: 26285
+  peppers: 15070
+  performers: 10121
+  perimeters: 81209
+  perpetrators: 26140
+  persecutors: 91505
+  peters: 9398
+  petitioners: 23804
+scored_words:
+  peckers: 207941
+  pedometers: 121668
+  peelers: 116506
+  percolators: 298104
+  perfumers: 123273
+  perishers: 305096
+  persuaders: 136416
+  petrodollars: 223823
+not_scored_words:
+- Peters
+- peashooters
+- peculators
+- peignoirs
+- pentameters
+- perambulators
+- perjurers
+- perpendiculars
+- pesterers
+- pesters
+- pettifoggers
+- pewters

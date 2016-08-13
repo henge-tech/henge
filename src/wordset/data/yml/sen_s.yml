@@ -1,0 +1,56 @@
+---
+pattern: sen_s
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 46
+score: 2054204
+score_per_word: 82168
+hi_scored_words:
+  senates: 99622
+  senators: 7838
+  senders: 48120
+  sends: 5148
+  seniors: 9266
+  sens: 24948
+  sensations: 15015
+  senseless: 27283
+  senses: 6009
+  sensibilities: 29571
+  sensitivities: 36594
+  sensors: 6658
+  sensuous: 29305
+  sentences: 5802
+  sentiments: 12111
+  sentinels: 47873
+  sentries: 78772
+scored_words:
+  senoritas: 225215
+  senselessness: 230894
+  sensitiveness: 107337
+  sensitizers: 222765
+  sensitizes: 232145
+  sensuousness: 240126
+  sententious: 171829
+  sentimentalists: 133958
+not_scored_words:
+- Senates
+- Senecas
+- sendoffs
+- senegas
+- seneschals
+- senoras
+- senores
+- senors
+- sensationalists
+- sensationalizes
+- sensibleness
+- sensitives
+- sensitometers
+- sensualisms
+- sensualists
+- sensualizes
+- sensualness
+- sensualnesses
+- sententiousness
+- sentiencies
+- sentimentalizes

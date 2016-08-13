@@ -1,0 +1,27 @@
+---
+pattern: s_ok
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 1372575
+score_per_word: 105582
+hi_scored_words:
+  scrapbook: 18431
+  shook: 6945
+  sketchbook: 37053
+  snook: 56127
+  songbook: 28864
+  spook: 43770
+  springbok: 53874
+  storybook: 36190
+scored_words:
+  schoolbook: 112567
+  skyhook: 163192
+  steenbok: 309016
+  studbook: 195533
+  subnotebook: 311013
+not_scored_words:
+- schnook
+- sjambok
+- steinbok
+- stook

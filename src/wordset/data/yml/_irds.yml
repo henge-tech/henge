@@ -1,0 +1,50 @@
+---
+pattern: _irds
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 40
+score: 1840494
+score_per_word: 102249
+hi_scored_words:
+  birds: 2011
+  blackbirds: 63622
+  bluebirds: 66163
+  hummingbirds: 45252
+  lovebirds: 78690
+  redbirds: 74582
+  seabirds: 48824
+  shorebirds: 71131
+  snowbirds: 88079
+  songbirds: 63322
+  thirds: 11284
+  waterbirds: 97367
+scored_words:
+  cowbirds: 182269
+  firebirds: 109329
+  girds: 257239
+  ladybirds: 148630
+  mockingbirds: 161114
+  undergirds: 271586
+not_scored_words:
+- begirds
+- bellbirds
+- bowerbirds
+- butcherbirds
+- catbirds
+- dickybirds
+- hangbirds
+- jailbirds
+- jaybirds
+- kingbirds
+- lairds
+- lyrebirds
+- oilbirds
+- ovenbirds
+- reedbirds
+- ricebirds
+- snakebirds
+- surfbirds
+- tailorbirds
+- weaverbirds
+- whirlybirds
+- yellowbirds

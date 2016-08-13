@@ -1,0 +1,21 @@
+---
+pattern: p_ols
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 11
+score: 319207
+score_per_word: 39900
+hi_scored_words:
+  parasols: 81727
+  patrols: 24608
+  phenols: 66773
+  pistols: 15424
+  pols: 56017
+  pools: 7234
+  preschools: 51426
+  protocols: 15998
+scored_words: {}
+not_scored_words:
+- paracetamols
+- pentylenetetrazols
+- playschools

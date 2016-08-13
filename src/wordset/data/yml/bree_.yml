@@ -1,0 +1,37 @@
+---
+pattern: bree_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 27
+score: 1429151
+score_per_word: 84067
+hi_scored_words:
+  bree: 28239
+  breech: 37620
+  breeches: 34109
+  breed: 5302
+  breeder: 20841
+  breeders: 20287
+  breeding: 5931
+  breeds: 7905
+  breeze: 6350
+  breezes: 28816
+  breezy: 20164
+scored_words:
+  breeching: 313865
+  breeks: 243179
+  breezed: 124282
+  breezeway: 146996
+  breezily: 213110
+  breezing: 172155
+not_scored_words:
+- breechblock
+- breechblocks
+- breechcloth
+- breechcloths
+- breechloader
+- breezeless
+- breezeways
+- breezier
+- breeziest
+- breeziness

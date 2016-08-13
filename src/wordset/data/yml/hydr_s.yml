@@ -1,0 +1,56 @@
+---
+pattern: hydr_s
+hi_scored_words_count: 10
+scored_words_count: 13
+total_words: 46
+score: 3294367
+score_per_word: 143233
+hi_scored_words:
+  hydrangeas: 89859
+  hydrants: 67050
+  hydrates: 65696
+  hydraulics: 27610
+  hydrocarbons: 29402
+  hydrocephalus: 46996
+  hydrodynamics: 55733
+  hydrolysis: 27871
+  hydroponics: 49774
+  hydrous: 98883
+scored_words:
+  hydras: 222985
+  hydrastis: 284018
+  hydrazines: 319362
+  hydrides: 117577
+  hydrofoils: 216640
+  hydroids: 278444
+  hydrologists: 178160
+  hydrolyzes: 213429
+  hydrometers: 224491
+  hydrophones: 221957
+  hydrops: 153217
+  hydrostatics: 195167
+  hydroxides: 110046
+not_scored_words:
+- Hydrus
+- hydrocarbonaceous
+- hydrocephalous
+- hydrochlorides
+- hydrocortisones
+- hydrogenates
+- hydrogenolysis
+- hydrogenous
+- hydrographies
+- hydrokinetics
+- hydrolyses
+- hydrolyzates
+- hydromagnetics
+- hydromechanics
+- hydromels
+- hydropathies
+- hydrophilous
+- hydrophytes
+- hydroplanes
+- hydrotaxis
+- hydrotherapeutics
+- hydroxyls
+- hydrozoans

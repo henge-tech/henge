@@ -1,0 +1,25 @@
+---
+pattern: beac_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 957896
+score_per_word: 79824
+hi_scored_words:
+  beach: 1407
+  beachcomber: 59111
+  beached: 59468
+  beaches: 9591
+  beachfront: 34799
+  beachhead: 87461
+  beacon: 10975
+  beacons: 34623
+scored_words:
+  beachcombers: 190930
+  beachcombing: 173791
+  beaching: 193055
+  beachwear: 102685
+not_scored_words:
+- Beach
+- Beaconsfield
+- beachheads

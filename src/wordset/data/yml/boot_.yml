@@ -1,0 +1,51 @@
+---
+pattern: boot_
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 41
+score: 2005781
+score_per_word: 83574
+hi_scored_words:
+  boot: 5738
+  booted: 29391
+  booth: 7215
+  booths: 19911
+  bootie: 66727
+  booties: 28754
+  booting: 25220
+  bootleg: 25196
+  bootlegging: 96899
+  bootlegs: 51274
+  bootless: 76712
+  boots: 2828
+  bootstrap: 24206
+  bootstrapping: 65087
+  booty: 5388
+scored_words:
+  bootee: 234259
+  bootees: 198055
+  bootlace: 134630
+  bootlegged: 152153
+  bootlegger: 120325
+  bootleggers: 109178
+  bootlicking: 297025
+  bootstrapped: 128606
+  bootstraps: 101004
+not_scored_words:
+- Bootes
+- Booth
+- Boothia
+- Bootle
+- bootblack
+- bootblacks
+- bootery
+- bootjack
+- bootjacks
+- bootlaces
+- bootlessly
+- bootlessness
+- bootlick
+- bootlicked
+- bootlicker
+- bootlickers
+- bootlicks

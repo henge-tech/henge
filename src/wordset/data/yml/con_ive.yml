@@ -1,0 +1,50 @@
+---
+pattern: con_ive
+hi_scored_words_count: 19
+scored_words_count: 8
+total_words: 40
+score: 2459758
+score_per_word: 91102
+hi_scored_words:
+  conceive: 13014
+  conclusive: 18170
+  conducive: 19088
+  conductive: 25500
+  congestive: 32505
+  conjunctive: 62798
+  connective: 28226
+  consecutive: 8377
+  conservative: 3415
+  constitutive: 34703
+  constructive: 10742
+  consultative: 21277
+  consumptive: 54449
+  contemplative: 35616
+  contraceptive: 22717
+  contrastive: 92536
+  contrive: 62445
+  convective: 36357
+  convulsive: 55032
+scored_words:
+  concussive: 255654
+  conflictive: 303983
+  conjugative: 246648
+  connive: 174827
+  connotative: 210998
+  constrictive: 141799
+  contractive: 252724
+  contrapositive: 236158
+not_scored_words:
+- Conservative
+- conative
+- concentrative
+- concessive
+- conciliative
+- configurative
+- consecrative
+- contaminative
+- continuative
+- contortive
+- contradistinctive
+- contraindicative
+- contributive

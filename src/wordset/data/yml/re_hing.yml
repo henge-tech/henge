@@ -1,0 +1,34 @@
+---
+pattern: re_hing
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 24
+score: 1523376
+score_per_word: 95211
+hi_scored_words:
+  reaching: 3541
+  reestablishing: 94534
+  refinishing: 56598
+  refreshing: 9795
+  refurbishing: 56887
+  relinquishing: 68637
+  relishing: 78922
+  replenishing: 66943
+  researching: 10874
+  retouching: 52339
+scored_words:
+  reattaching: 294436
+  rehashing: 109802
+  relaunching: 170621
+  reproaching: 182631
+  republishing: 114796
+  retching: 152020
+not_scored_words:
+- refurnishing
+- rematching
+- rephotographing
+- restitching
+- reteaching
+- retrenching
+- rewashing
+- reweighing

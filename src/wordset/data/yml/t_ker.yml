@@ -1,0 +1,33 @@
+---
+pattern: t_ker
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 23
+score: 1451350
+score_per_word: 72567
+hi_scored_words:
+  taker: 27819
+  talker: 30700
+  tanker: 19720
+  thicker: 18191
+  thinker: 17442
+  ticker: 17634
+  tiebreaker: 80146
+  tinker: 21362
+  tracker: 11311
+  trekker: 66496
+  troublemaker: 56773
+  trucker: 27794
+  tucker: 10421
+  tusker: 90992
+scored_words:
+  tacker: 181262
+  tearjerker: 141675
+  teleworker: 164239
+  toolmaker: 191237
+  trafficker: 106811
+  tricker: 169325
+not_scored_words:
+- Tucker
+- tentmaker
+- thwacker

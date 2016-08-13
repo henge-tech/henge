@@ -1,0 +1,27 @@
+---
+pattern: _eved
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 1030042
+score_per_word: 79234
+hi_scored_words:
+  achieved: 3156
+  aggrieved: 30364
+  believed: 2710
+  grieved: 34376
+  peeved: 88324
+  relieved: 9273
+  retrieved: 11745
+  sleeved: 27384
+scored_words:
+  disbelieved: 120310
+  reprieved: 221021
+  sieved: 136015
+  underachieved: 207853
+  unrelieved: 137511
+not_scored_words:
+- misbelieved
+- overachieved
+- thieved
+- unbelieved

@@ -1,0 +1,30 @@
+---
+pattern: p_ose
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 20
+score: 611643
+score_per_word: 55603
+hi_scored_words:
+  pantyhose: 14286
+  papoose: 88792
+  pose: 7281
+  predispose: 72667
+  presuppose: 61428
+  primrose: 22897
+  propose: 5292
+  prose: 8215
+  purpose: 716
+scored_words:
+  pentose: 134104
+  pilose: 195965
+not_scored_words:
+- papillose
+- pappose
+- parclose
+- pastose
+- photocompose
+- plumose
+- preexpose
+- proteose
+- pruinose

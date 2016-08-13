@@ -1,0 +1,33 @@
+---
+pattern: mon_l
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 23
+score: 1004880
+score_per_word: 91352
+hi_scored_words:
+  monarchical: 95024
+  monaural: 85598
+  mongol: 33841
+  mongrel: 46644
+  monoclonal: 21488
+  monolingual: 67258
+  monorail: 34337
+  monumental: 17760
+scored_words:
+  monocultural: 282462
+  monomial: 115184
+  monsoonal: 205284
+not_scored_words:
+- Mongol
+- Montreal
+- monachal
+- monarchal
+- monarchial
+- monasterial
+- monastical
+- monaxial
+- monitorial
+- monoclinal
+- monodical
+- monomaniacal

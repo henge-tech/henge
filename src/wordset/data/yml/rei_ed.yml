@@ -1,0 +1,36 @@
+---
+pattern: rei_ed
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 26
+score: 2271320
+score_per_word: 103241
+hi_scored_words:
+  reigned: 23542
+  reimbursed: 30673
+  reincarnated: 66030
+  reined: 91183
+  reinforced: 9838
+  reinstalled: 49513
+  reinstated: 28065
+  reinterpreted: 94818
+  reintroduced: 46799
+  reinvented: 52001
+  reinvested: 55135
+  reinvigorated: 97887
+  reissued: 30276
+  reiterated: 23073
+scored_words:
+  reified: 133342
+  reignited: 169802
+  reimposed: 277704
+  reincorporated: 252560
+  reinitialized: 203361
+  reinserted: 143614
+  reinsured: 230379
+  reintegrated: 161725
+not_scored_words:
+- reinfected
+- reinflated
+- reinoculated
+- reinspected

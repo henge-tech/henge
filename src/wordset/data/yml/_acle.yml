@@ -1,0 +1,31 @@
+---
+pattern: _acle
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 21
+score: 991316
+score_per_word: 61957
+hi_scored_words:
+  barnacle: 53770
+  debacle: 29641
+  miracle: 5418
+  obstacle: 10383
+  oracle: 5537
+  pentacle: 63819
+  pinnacle: 12714
+  receptacle: 22560
+  spectacle: 12535
+  tabernacle: 21373
+  tentacle: 38209
+  treacle: 62413
+scored_words:
+  binnacle: 130964
+  cenacle: 191831
+  coracle: 206269
+  manacle: 123880
+not_scored_words:
+- Oracle
+- Tabernacle
+- conceptacle
+- macle
+- spiracle

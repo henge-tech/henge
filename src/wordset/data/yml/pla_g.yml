@@ -1,0 +1,35 @@
+---
+pattern: pla_g
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 25
+score: 1910439
+score_per_word: 95521
+hi_scored_words:
+  placing: 4542
+  plaguing: 74778
+  planing: 48673
+  planking: 94167
+  planning: 2386
+  planting: 13527
+  plastering: 45937
+  plating: 21216
+  playacting: 79541
+  playing: 1071
+  plaything: 54194
+  playwriting: 68226
+scored_words:
+  placarding: 290612
+  placating: 196013
+  plagiarizing: 134943
+  plainsong: 136450
+  plaiting: 133393
+  plashing: 247509
+  platforming: 132309
+  platting: 130952
+not_scored_words:
+- placekicking
+- plasticizing
+- plateauing
+- platooning
+- playgoing

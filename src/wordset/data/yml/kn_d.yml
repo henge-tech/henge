@@ -1,0 +1,32 @@
+---
+pattern: kn_d
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 22
+score: 1728873
+score_per_word: 101698
+hi_scored_words:
+  knackered: 81414
+  knead: 47670
+  kneaded: 90478
+  knighted: 61791
+  knighthood: 55254
+  knitted: 19858
+  knocked: 7603
+  knotted: 32812
+  knotweed: 89947
+  knucklehead: 89574
+scored_words:
+  knapweed: 133866
+  kneed: 100656
+  kneepad: 259100
+  knifed: 133419
+  knobbed: 246850
+  knuckled: 154268
+  knurled: 124313
+not_scored_words:
+- knapped
+- kneecapped
+- knelled
+- knickerbockered
+- knighthead

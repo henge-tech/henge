@@ -1,0 +1,35 @@
+---
+pattern: in_ct
+hi_scored_words_count: 21
+scored_words_count: 2
+total_words: 25
+score: 948519
+score_per_word: 41239
+hi_scored_words:
+  incorrect: 7971
+  indict: 59305
+  indirect: 5550
+  indistinct: 37566
+  induct: 76987
+  inexact: 73269
+  infarct: 62956
+  infect: 18920
+  inflict: 21785
+  inject: 20377
+  insect: 12074
+  inspect: 10758
+  instinct: 9417
+  instruct: 13786
+  intact: 9590
+  intellect: 10763
+  interact: 9314
+  interconnect: 26570
+  interdict: 70436
+  interject: 94698
+  intersect: 27844
+scored_words:
+  inflect: 142110
+  introspect: 126473
+not_scored_words:
+- infract
+- introject

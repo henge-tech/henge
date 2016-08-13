@@ -1,0 +1,24 @@
+---
+pattern: c_mps
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 835830
+score_per_word: 75984
+hi_scored_words:
+  camps: 7831
+  champs: 14152
+  chimps: 50651
+  chumps: 95562
+  clamps: 28087
+  clumps: 38826
+  comps: 29438
+  cramps: 24195
+scored_words:
+  chomps: 225369
+  contretemps: 183877
+  crimps: 137842
+not_scored_words:
+- chokedamps
+- clomps
+- crumps

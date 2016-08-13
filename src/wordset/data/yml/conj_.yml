@@ -1,0 +1,67 @@
+---
+pattern: conj_
+hi_scored_words_count: 23
+scored_words_count: 14
+total_words: 57
+score: 3616488
+score_per_word: 97742
+hi_scored_words:
+  conj: 94245
+  conjectural: 93063
+  conjecture: 15027
+  conjectured: 57804
+  conjectures: 44762
+  conjoined: 57869
+  conjoint: 72160
+  conjugal: 47011
+  conjugate: 24772
+  conjugated: 29683
+  conjugates: 57812
+  conjugation: 36765
+  conjunct: 73826
+  conjunction: 12871
+  conjunctions: 49786
+  conjunctiva: 69503
+  conjunctival: 90170
+  conjunctive: 62798
+  conjunctivitis: 46422
+  conjure: 29652
+  conjured: 53270
+  conjures: 59253
+  conjuring: 47759
+scored_words:
+  conjecturer: 290173
+  conjecturing: 244810
+  conjoin: 187366
+  conjoining: 256121
+  conjointly: 171717
+  conjugacy: 119332
+  conjugating: 104300
+  conjugations: 123015
+  conjugative: 246648
+  conjuncts: 179808
+  conjuncture: 122424
+  conjuration: 100847
+  conjurer: 101121
+  conjuror: 142523
+not_scored_words:
+- conjecturable
+- conjecturally
+- conjoiner
+- conjoiners
+- conjoins
+- conjugality
+- conjugally
+- conjugately
+- conjugational
+- conjugationally
+- conjunctional
+- conjunctionally
+- conjunctivas
+- conjunctively
+- conjunctives
+- conjunctly
+- conjunctures
+- conjurations
+- conjurers
+- conjurors

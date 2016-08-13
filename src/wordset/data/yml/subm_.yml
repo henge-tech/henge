@@ -1,0 +1,53 @@
+---
+pattern: subm_
+hi_scored_words_count: 16
+scored_words_count: 12
+total_words: 43
+score: 2484225
+score_per_word: 88722
+hi_scored_words:
+  submarine: 9719
+  submariner: 61142
+  submarines: 22820
+  submerge: 57848
+  submerged: 20585
+  submersible: 34755
+  submission: 3251
+  submissions: 5844
+  submissive: 21256
+  submit: 1741
+  submits: 21746
+  submittal: 82975
+  submitted: 2159
+  submitter: 24080
+  submitters: 59009
+  submitting: 8202
+scored_words:
+  submariners: 135692
+  submaxillary: 244619
+  submergence: 100899
+  submerges: 279536
+  submerging: 123893
+  submersed: 152751
+  submersibles: 143274
+  submersion: 103808
+  submicroscopic: 273532
+  subminiature: 142520
+  submissively: 185535
+  submissiveness: 161034
+not_scored_words:
+- submarginal
+- submediant
+- submediants
+- submember
+- submergible
+- submerse
+- submerses
+- submersing
+- subminiaturize
+- subminimal
+- subminimum
+- submiss
+- submittable
+- submolecular
+- submultiple

@@ -1,0 +1,68 @@
+---
+pattern: _eful
+hi_scored_words_count: 26
+scored_words_count: 13
+total_words: 58
+score: 3031925
+score_per_word: 77741
+hi_scored_words:
+  baleful: 75374
+  careful: 2728
+  disgraceful: 27635
+  distasteful: 36030
+  fateful: 34774
+  forceful: 27809
+  gleeful: 68237
+  graceful: 11929
+  grateful: 4782
+  hateful: 18943
+  hopeful: 11283
+  peaceful: 4990
+  purposeful: 33617
+  remorseful: 78881
+  resourceful: 31569
+  rueful: 97035
+  shameful: 18451
+  spiteful: 45914
+  suspenseful: 50639
+  tasteful: 26152
+  tuneful: 69840
+  ungrateful: 33816
+  useful: 1146
+  vengeful: 41945
+  wasteful: 26643
+  woeful: 51136
+scored_words:
+  baneful: 108594
+  changeful: 108644
+  direful: 117151
+  doleful: 113686
+  easeful: 151064
+  eyeful: 159507
+  houseful: 229430
+  plateful: 256846
+  prideful: 122931
+  reposeful: 239483
+  revengeful: 149701
+  ungraceful: 215941
+  wakeful: 127649
+not_scored_words:
+- blameful
+- blitheful
+- bottleful
+- despiteful
+- dirgeful
+- guileful
+- ireful
+- kettleful
+- needleful
+- overcareful
+- pageful
+- pipeful
+- pleasureful
+- prestigeful
+- spadeful
+- thimbleful
+- unremorseful
+- untasteful
+- voiceful

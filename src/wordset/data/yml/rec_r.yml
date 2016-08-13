@@ -1,0 +1,40 @@
+---
+pattern: rec_r
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 30
+score: 1729970
+score_per_word: 78635
+hi_scored_words:
+  receiver: 5516
+  receptor: 5754
+  recliner: 40100
+  reconsider: 18271
+  recorder: 11112
+  recover: 4235
+  recruiter: 14933
+  rectangular: 12524
+  rectifier: 33706
+  rectilinear: 78485
+  rector: 15566
+  recur: 32638
+  recycler: 55822
+scored_words:
+  recenter: 121848
+  recharger: 111718
+  reciter: 177017
+  reckoner: 135264
+  reclaimer: 198224
+  recognizer: 100121
+  recolor: 146969
+  reconnoiter: 169528
+  reconquer: 240619
+not_scored_words:
+- recanter
+- receiptor
+- recharter
+- reciprocator
+- recognizor
+- reconciler
+- reconnoiterer
+- recuperator

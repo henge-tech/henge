@@ -1,0 +1,26 @@
+---
+pattern: e_gs
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 16
+score: 805516
+score_per_word: 61962
+hi_scored_words:
+  earnings: 5263
+  earplugs: 56477
+  earrings: 8785
+  earthlings: 81730
+  eggs: 3222
+  endings: 25913
+  engravings: 32194
+  etchings: 48205
+  evenings: 9102
+scored_words:
+  earwigs: 134221
+  edgings: 179294
+  embeddings: 106544
+  ergs: 114566
+not_scored_words:
+- eatings
+- enamelings
+- everlastings

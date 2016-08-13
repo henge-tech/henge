@@ -1,0 +1,52 @@
+---
+pattern: ada_
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 42
+score: 2041865
+score_per_word: 85077
+hi_scored_words:
+  adage: 35054
+  adagio: 31535
+  adamant: 28885
+  adamantly: 71069
+  adapt: 9030
+  adaptability: 35204
+  adaptable: 27510
+  adaptation: 7987
+  adaptations: 21701
+  adapted: 5186
+  adapter: 9120
+  adapters: 13624
+  adapting: 19810
+  adaption: 52508
+  adaptive: 19264
+  adapts: 38004
+scored_words:
+  adages: 257458
+  adagios: 278392
+  adamantine: 119508
+  adaptions: 139854
+  adaptively: 113274
+  adaptiveness: 303784
+  adaptivity: 151933
+  adaxial: 252171
+not_scored_words:
+- Ada
+- Adam
+- Adamic
+- Adamite
+- Adams
+- Adan
+- Adana
+- Adapa
+- Adar
+- Adars
+- Adas
+- adactylous
+- adagietto
+- adamance
+- adamances
+- adamancy
+- adamsite
+- adaptational

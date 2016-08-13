@@ -1,0 +1,25 @@
+---
+pattern: m_rial
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 15
+score: 428947
+score_per_word: 42894
+hi_scored_words:
+  magisterial: 61140
+  malarial: 73471
+  managerial: 22440
+  material: 740
+  memorial: 3934
+  mercurial: 42274
+  ministerial: 13124
+  mistrial: 72496
+  mitochondrial: 17417
+scored_words:
+  manorial: 121911
+not_scored_words:
+- manurial
+- mediatorial
+- minatorial
+- monasterial
+- monitorial

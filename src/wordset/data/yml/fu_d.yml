@@ -1,0 +1,42 @@
+---
+pattern: fu_d
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 32
+score: 2196860
+score_per_word: 91535
+hi_scored_words:
+  fucked: 8866
+  fueled: 18552
+  fulfilled: 8540
+  fumbled: 48760
+  fumed: 83515
+  functioned: 37140
+  fund: 1898
+  funded: 12546
+  funneled: 82155
+  furnished: 5166
+  furrowed: 75662
+  furthered: 58928
+  fused: 19955
+  fussed: 90690
+scored_words:
+  fuckhead: 162261
+  fuddled: 164813
+  fudged: 142303
+  fumigated: 141222
+  funked: 168147
+  furbished: 242954
+  furled: 102833
+  furloughed: 219898
+  furred: 110958
+  fuzzed: 189098
+not_scored_words:
+- FUD
+- Fuad
+- fucoid
+- fulled
+- fulminated
+- fungoid
+- furbelowed
+- futzed

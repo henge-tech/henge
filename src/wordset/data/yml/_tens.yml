@@ -1,0 +1,53 @@
+---
+pattern: _tens
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 43
+score: 2617726
+score_per_word: 100681
+hi_scored_words:
+  brightens: 63510
+  fastens: 95392
+  flattens: 94743
+  frightens: 65364
+  hastens: 93692
+  heightens: 74088
+  kindergartens: 60367
+  kittens: 17178
+  lightens: 91177
+  listens: 17894
+  martens: 31827
+  mittens: 32762
+  shortens: 66722
+  softens: 49688
+  tens: 10043
+  threatens: 12689
+  tightens: 53550
+scored_words:
+  battens: 105231
+  christens: 296680
+  enlightens: 116008
+  glistens: 125526
+  intens: 269871
+  platens: 231558
+  straightens: 108093
+  sweetens: 153920
+  whitens: 280153
+not_scored_words:
+- chastens
+- disheartens
+- fattens
+- foreshortens
+- heartens
+- moistens
+- neatens
+- pattens
+- prekindergartens
+- quietens
+- rechristens
+- refastens
+- sauerbratens
+- smartens
+- straitens
+- tautens
+- unfastens

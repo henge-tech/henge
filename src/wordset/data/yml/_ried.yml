@@ -1,0 +1,61 @@
+---
+pattern: _ried
+hi_scored_words_count: 27
+scored_words_count: 16
+total_words: 51
+score: 3994965
+score_per_word: 92906
+hi_scored_words:
+  buried: 3904
+  carried: 1668
+  cried: 4944
+  curried: 62569
+  decried: 74145
+  dried: 5346
+  ferried: 90737
+  fried: 8244
+  harried: 59634
+  hurried: 16532
+  inventoried: 75205
+  married: 1240
+  pried: 90969
+  quarried: 89191
+  queried: 33024
+  remarried: 46742
+  salaried: 37637
+  scurried: 87100
+  storied: 42903
+  tarried: 94984
+  tried: 1083
+  unmarried: 14664
+  untried: 61942
+  unvaried: 99846
+  varied: 4954
+  wearied: 55581
+  worried: 5057
+scored_words:
+  berried: 306417
+  descried: 174425
+  flurried: 271809
+  galleried: 246329
+  gloried: 135440
+  intermarried: 124860
+  liveried: 207434
+  miscarried: 101867
+  parried: 117197
+  pilloried: 158924
+  reburied: 209369
+  retried: 112823
+  serried: 238292
+  unburied: 137774
+  unhurried: 105736
+  unwearied: 176424
+not_scored_words:
+- Siegfried
+- historied
+- memoried
+- nonsalaried
+- overhurried
+- overwearied
+- safaried
+- unworried

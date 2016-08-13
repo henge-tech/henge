@@ -1,0 +1,21 @@
+---
+pattern: seal_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 517066
+score_per_word: 51706
+hi_scored_words:
+  seal: 3430
+  sealant: 38002
+  sealants: 46251
+  sealed: 4396
+  sealer: 39643
+  sealers: 58217
+  sealing: 16101
+  seals: 8071
+scored_words:
+  sealable: 157434
+  sealskin: 145521
+not_scored_words:
+- sealane

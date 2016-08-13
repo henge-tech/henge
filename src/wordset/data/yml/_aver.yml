@@ -1,0 +1,44 @@
+---
+pattern: _aver
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 34
+score: 1756665
+score_per_word: 70266
+hi_scored_words:
+  aver: 35173
+  beaver: 7791
+  braver: 62962
+  cadaver: 42821
+  cleaver: 33510
+  engraver: 46163
+  graver: 50176
+  haver: 81266
+  laver: 56508
+  leaver: 61970
+  lifesaver: 52838
+  palaver: 81029
+  raver: 53079
+  reaver: 62392
+  saver: 9338
+  screensaver: 22158
+  shaver: 24398
+  waver: 45121
+  weaver: 12740
+scored_words:
+  caver: 142762
+  claver: 179131
+  heaver: 190855
+  quaver: 149824
+  semiquaver: 141207
+  slaver: 111453
+not_scored_words:
+- Lifesaver
+- Weaver
+- clishmaclaver
+- demisemiquaver
+- enslaver
+- hemidemisemiquaver
+- misbehaver
+- photoengraver
+- suaver

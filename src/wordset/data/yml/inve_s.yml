@@ -1,0 +1,33 @@
+---
+pattern: inve_s
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 23
+score: 776244
+score_per_word: 45661
+hi_scored_words:
+  inventions: 13531
+  inventiveness: 72929
+  inventories: 25195
+  inventors: 20234
+  invents: 58259
+  inversions: 59704
+  invertebrates: 25504
+  inverters: 45198
+  inverts: 84018
+  investigates: 19683
+  investigations: 5747
+  investigators: 11254
+  investments: 5543
+  investors: 9577
+  invests: 30427
+scored_words:
+  invectives: 187565
+  inverses: 101876
+not_scored_words:
+- Inverness
+- inveighs
+- inveiglers
+- inveigles
+- investitures
+- inveterateness

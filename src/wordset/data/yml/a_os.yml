@@ -1,0 +1,48 @@
+---
+pattern: a_os
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 38
+score: 2033390
+score_per_word: 107020
+hi_scored_words:
+  adios: 40325
+  aficionados: 55267
+  agios: 62719
+  altos: 33429
+  ambos: 94885
+  amigos: 26753
+  apropos: 35798
+  armadillos: 99793
+  arpeggios: 83084
+  asbestos: 16845
+  audios: 62297
+  autos: 23095
+  avocados: 55051
+scored_words:
+  adagios: 278392
+  albinos: 230612
+  archipelagos: 164634
+  arroyos: 156848
+  aulos: 238051
+  avos: 275512
+not_scored_words:
+- Abydos
+- Afros
+- Amos
+- Andros
+- Apollos
+- Arapahos
+- Argos
+- Athos
+- Atropos
+- accelerandos
+- aikidos
+- allegrettos
+- allegros
+- amontillados
+- angwantibos
+- antineutrinos
+- antipastos
+- ariosos
+- autogiros

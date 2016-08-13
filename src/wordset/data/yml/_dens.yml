@@ -1,0 +1,35 @@
+---
+pattern: _dens
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 25
+score: 1503539
+score_per_word: 100235
+hi_scored_words:
+  broadens: 55414
+  burdens: 21263
+  deadens: 95728
+  dens: 36037
+  gardens: 3020
+  hardens: 65064
+  maidens: 30439
+  saddens: 79400
+  wardens: 39070
+  widens: 46391
+scored_words:
+  churchwardens: 122695
+  emboldens: 286697
+  handmaidens: 196262
+  lindens: 259301
+  middens: 166758
+not_scored_words:
+- Edens
+- casehardens
+- disburdens
+- gladdens
+- guldens
+- hoydens
+- maddens
+- overburdens
+- reddens
+- unburdens

@@ -1,0 +1,45 @@
+---
+pattern: no_ly
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 35
+score: 1418635
+score_per_word: 88664
+hi_scored_words:
+  nobly: 71794
+  noisily: 48323
+  nominally: 26415
+  nonchalantly: 88106
+  normally: 5769
+  northeasterly: 81227
+  northerly: 33998
+  northwesterly: 83383
+  notably: 9350
+  noticeably: 28039
+  notoriously: 24635
+scored_words:
+  noiselessly: 104152
+  nonviolently: 275692
+  normatively: 169871
+  nostalgically: 199096
+  notionally: 168785
+not_scored_words:
+- nocturnally
+- nocuously
+- noisomely
+- nomadically
+- noncommittally
+- noncompetitively
+- nondeadly
+- nondescriptly
+- nonofficially
+- nonoily
+- nonphysically
+- nonpolitically
+- nonsensically
+- northeastwardly
+- northwardly
+- northwestwardly
+- nosily
+- novelly
+- noxiously

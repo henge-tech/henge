@@ -1,0 +1,45 @@
+---
+pattern: ad_g
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 35
+score: 1480520
+score_per_word: 59220
+hi_scored_words:
+  adapting: 19810
+  addicting: 23507
+  adding: 2394
+  addressing: 4721
+  adhering: 24681
+  adjoining: 11820
+  adjudicating: 84424
+  adjusting: 12137
+  administering: 14919
+  admiring: 23373
+  admitting: 18774
+  adopting: 10197
+  adoring: 43417
+  adorning: 70741
+  advancing: 8265
+  adventuring: 59755
+  advertising: 3421
+  advising: 10898
+  advocating: 18917
+scored_words:
+  adducing: 274077
+  adjourning: 167666
+  administrating: 104248
+  admonishing: 111003
+  adsorbing: 213515
+  adverting: 143840
+not_scored_words:
+- addling
+- adducting
+- adjudging
+- adjuring
+- admeasuring
+- admixing
+- adulating
+- adulterating
+- adumbrating
+- advantaging

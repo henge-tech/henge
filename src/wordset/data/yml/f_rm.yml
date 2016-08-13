@@ -1,0 +1,29 @@
+---
+pattern: f_rm
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 708056
+score_per_word: 64368
+hi_scored_words:
+  farm: 1470
+  firearm: 22470
+  firestorm: 41531
+  firm: 1392
+  forearm: 24806
+  form: 231
+  freeform: 50915
+  fusiform: 94565
+scored_words:
+  falciform: 127601
+  filiform: 200527
+  flatworm: 142548
+not_scored_words:
+- falconiform
+- fibriform
+- fibrilliform
+- fireworm
+- fishworm
+- flagelliform
+- fungiform
+- funnelform

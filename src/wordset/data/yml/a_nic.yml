@@ -1,0 +1,38 @@
+---
+pattern: a_nic
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 28
+score: 1845059
+score_per_word: 123003
+hi_scored_words:
+  actinic: 64732
+  allergenic: 68124
+  androgenic: 98181
+  angiogenic: 99420
+  anionic: 67107
+  anthropogenic: 41327
+  antigenic: 46409
+  arsenic: 18305
+scored_words:
+  anticyclonic: 209956
+  antihistaminic: 245308
+  architectonic: 129072
+  asthenic: 106514
+  atonic: 170201
+  avionic: 213692
+  axenic: 266711
+not_scored_words:
+- Aaronic
+- Adonic
+- Alemannic
+- acetonic
+- aeromechanic
+- agonic
+- allophonic
+- ammonic
+- amnionic
+- aniconic
+- antimonic
+- aphonic
+- audiogenic

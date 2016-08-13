@@ -1,0 +1,57 @@
+---
+pattern: pr_ies
+hi_scored_words_count: 14
+scored_words_count: 13
+total_words: 47
+score: 2456553
+score_per_word: 90983
+hi_scored_words:
+  practicalities: 53183
+  prairies: 29714
+  pregnancies: 22307
+  preliminaries: 35168
+  primaries: 38640
+  principalities: 62865
+  priorities: 4516
+  probabilities: 14596
+  prodigies: 94821
+  propensities: 67297
+  properties: 2452
+  prophecies: 24183
+  prophesies: 94618
+  proxies: 26071
+scored_words:
+  preemies: 153945
+  presbyteries: 125676
+  presidencies: 104499
+  pressies: 177614
+  pretties: 102887
+  prezzies: 221910
+  pries: 144182
+  privies: 172432
+  proclivities: 105373
+  profanities: 129517
+  proficiencies: 103671
+  promontories: 178796
+  proprieties: 165620
+not_scored_words:
+- practicabilities
+- prebendaries
+- precedencies
+- precipitancies
+- preoccupancies
+- preoccupies
+- preppies
+- prettifies
+- primatologies
+- priories
+- proctologies
+- profundities
+- progressivities
+- prolificacies
+- proportionalities
+- proprietaries
+- prosodies
+- prostatectomies
+- protohistories
+- protozoologies

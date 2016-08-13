@@ -1,0 +1,30 @@
+---
+pattern: gri_e
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 20
+score: 1009675
+score_per_word: 72119
+hi_scored_words:
+  gribble: 77604
+  griddle: 45958
+  grievance: 13305
+  grieve: 20580
+  grille: 21794
+  grimace: 52689
+  grime: 32420
+  grindstone: 76776
+  gripe: 31322
+  gristle: 78098
+scored_words:
+  griffe: 210206
+  grippe: 113619
+  grisette: 124516
+  grizzle: 110788
+not_scored_words:
+- Grimke
+- griddlecake
+- gride
+- grillage
+- grilse
+- grisaille

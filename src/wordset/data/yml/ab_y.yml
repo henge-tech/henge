@@ -1,0 +1,52 @@
+---
+pattern: ab_y
+hi_scored_words_count: 14
+scored_words_count: 11
+total_words: 42
+score: 2532296
+score_per_word: 101291
+hi_scored_words:
+  abbacy: 93949
+  abbey: 6943
+  ability: 1453
+  ably: 32603
+  abnormality: 29918
+  abnormally: 31176
+  abruptly: 14549
+  absently: 67485
+  absolutely: 1811
+  abstractly: 76461
+  absurdity: 26675
+  absurdly: 41620
+  abundantly: 30218
+  aby: 50380
+scored_words:
+  abhorrently: 229308
+  abjectly: 164666
+  abominably: 149856
+  aboriginally: 233068
+  absentmindedly: 153697
+  absorbency: 112518
+  absorbingly: 231606
+  absorptivity: 242613
+  abstractedly: 189205
+  abusively: 196400
+  abysmally: 124118
+not_scored_words:
+- Abby
+- Abernathy
+- abandonedly
+- abashedly
+- abdominally
+- abecedary
+- aberrancy
+- aberrantly
+- abhenry
+- abidingly
+- abjuratory
+- abnormity
+- abortively
+- abrasively
+- abstemiously
+- abstinently
+- abstrusely

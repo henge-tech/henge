@@ -1,0 +1,24 @@
+---
+pattern: ova_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 533535
+score_per_word: 53353
+hi_scored_words:
+  ova: 29254
+  oval: 7294
+  ovals: 62538
+  ovarian: 17314
+  ovaries: 32650
+  ovary: 27435
+  ovate: 61733
+  ovation: 26640
+  ovations: 90565
+scored_words:
+  ovariectomy: 178112
+not_scored_words:
+- ovariectomies
+- ovariotomy
+- ovaritis
+- ovately

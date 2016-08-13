@@ -1,0 +1,40 @@
+---
+pattern: pert_
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 30
+score: 2164010
+score_per_word: 103048
+hi_scored_words:
+  pert: 33266
+  pertain: 26534
+  pertained: 71922
+  pertaining: 7901
+  pertains: 29923
+  pertinacious: 85581
+  pertinence: 80536
+  pertinent: 12904
+  perturb: 93705
+  perturbation: 23496
+  perturbations: 38621
+  perturbative: 69787
+  perturbed: 39991
+  pertussis: 40135
+scored_words:
+  pertinaciously: 171561
+  pertinacity: 199101
+  pertinency: 216374
+  pertinently: 237046
+  pertness: 302398
+  perturbing: 129458
+  perturbs: 253770
+not_scored_words:
+- Perth
+- perter
+- pertest
+- pertinaciousness
+- pertinencies
+- pertly
+- perturbable
+- perturbingly
+- pertussal

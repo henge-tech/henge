@@ -1,0 +1,27 @@
+---
+pattern: st_nt
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 17
+score: 345894
+score_per_word: 28824
+hi_scored_words:
+  stagnant: 25875
+  standpoint: 13169
+  statement: 759
+  stent: 33198
+  stimulant: 25955
+  stint: 21985
+  storefront: 27555
+  strident: 49611
+  stringent: 15981
+  student: 1138
+  stunt: 17949
+scored_words:
+  stepparent: 112719
+not_scored_words:
+- Stuyvesant
+- statant
+- sterilant
+- stridulant
+- stupefacient

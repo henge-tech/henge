@@ -1,0 +1,32 @@
+---
+pattern: snar_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 22
+score: 753119
+score_per_word: 68465
+hi_scored_words:
+  snare: 16729
+  snared: 92408
+  snares: 41583
+  snark: 37146
+  snarky: 47010
+  snarl: 48558
+  snarled: 63687
+  snarling: 55130
+  snarls: 91088
+scored_words:
+  snarf: 100771
+  snaring: 159009
+not_scored_words:
+- snarfed
+- snarfing
+- snarfs
+- snarkier
+- snarkiest
+- snarks
+- snarler
+- snarlier
+- snarliest
+- snarlingly
+- snarly

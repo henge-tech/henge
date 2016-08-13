@@ -1,0 +1,57 @@
+---
+pattern: com_r
+hi_scored_words_count: 26
+scored_words_count: 7
+total_words: 47
+score: 2379912
+score_per_word: 72118
+hi_scored_words:
+  comber: 92939
+  combiner: 93167
+  combustor: 94485
+  comer: 26653
+  comforter: 23445
+  commander: 3591
+  commentator: 19316
+  commenter: 22383
+  commissar: 61812
+  commissioner: 5153
+  committer: 76449
+  commoner: 53191
+  communicator: 20035
+  commutator: 76629
+  commuter: 18656
+  compactor: 68759
+  compar: 94645
+  comparator: 40097
+  compensator: 63781
+  competitor: 12273
+  compiler: 11779
+  composer: 6110
+  compositor: 64716
+  compressor: 15170
+  comptroller: 23200
+  computer: 674
+scored_words:
+  commandeer: 106822
+  comparer: 125387
+  compeer: 292358
+  complainer: 156304
+  completer: 121478
+  compounder: 274564
+  comprador: 213891
+not_scored_words:
+- Comdr
+- Commander
+- Comptometer
+- Comr
+- comaker
+- comelier
+- comfier
+- commemorator
+- commender
+- commingler
+- commiserator
+- compacter
+- compander
+- compromiser

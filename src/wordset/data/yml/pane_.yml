@@ -1,0 +1,29 @@
+---
+pattern: pane_
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 19
+score: 1124610
+score_per_word: 86508
+hi_scored_words:
+  pane: 14885
+  panel: 3978
+  paneled: 69285
+  paneling: 57844
+  panelist: 44904
+  panelists: 33243
+  panels: 6494
+  panes: 36640
+scored_words:
+  paned: 126070
+  panegyric: 141861
+  panegyrics: 119909
+  panelboard: 297267
+  panettone: 172230
+not_scored_words:
+- panegyrical
+- panegyrically
+- panegyrist
+- panegyrists
+- panegyrize
+- panelings

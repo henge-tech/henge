@@ -1,0 +1,35 @@
+---
+pattern: _oc
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 25
+score: 633420
+score_per_word: 48724
+hi_scored_words:
+  assoc: 15359
+  bloc: 19440
+  choc: 35698
+  doc: 6927
+  havoc: 14386
+  postdoc: 61867
+  proc: 10592
+  roc: 19876
+  soc: 10829
+  voc: 26214
+scored_words:
+  floc: 133470
+  manioc: 122704
+  nostoc: 156058
+not_scored_words:
+- Apoc
+- Belloc
+- Duroc
+- EEOC
+- Kroc
+- Languedoc
+- MOOC
+- Maroc
+- Oc
+- Soc
+- Tlaloc
+- Ziploc

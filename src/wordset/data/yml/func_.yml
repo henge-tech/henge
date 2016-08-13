@@ -1,0 +1,26 @@
+---
+pattern: func_
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 16
+score: 494307
+score_per_word: 41192
+hi_scored_words:
+  function: 1816
+  functional: 7257
+  functionalism: 88049
+  functionalities: 46943
+  functionality: 9647
+  functionally: 24247
+  functionaries: 61369
+  functionary: 91884
+  functioned: 37140
+  functioning: 13846
+  functions: 2125
+scored_words:
+  functionalist: 109984
+not_scored_words:
+- Funchal
+- functionalisms
+- functionalists
+- functionless

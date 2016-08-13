@@ -1,0 +1,45 @@
+---
+pattern: gul_
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 35
+score: 1230872
+score_per_word: 64782
+hi_scored_words:
+  gulag: 51914
+  gulch: 35276
+  gulden: 93505
+  gules: 50296
+  gulf: 4205
+  gull: 17734
+  gullet: 71457
+  gullibility: 88392
+  gullible: 38008
+  gullies: 62816
+  gulls: 33657
+  gully: 24212
+  gulp: 35381
+  gulped: 75744
+  gulping: 74093
+scored_words:
+  gula: 124487
+  gulags: 123074
+  gulfs: 116816
+  gulps: 109805
+not_scored_words:
+- Gulag
+- Gulf
+- Gullah
+- Gulliver
+- gulas
+- gulches
+- guldens
+- gulfweed
+- gulfweeds
+- gulled
+- gullets
+- gullibly
+- gulling
+- gulosity
+- gulper
+- gulpers

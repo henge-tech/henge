@@ -1,0 +1,45 @@
+---
+pattern: _ef
+hi_scored_words_count: 24
+scored_words_count: 3
+total_words: 35
+score: 1266603
+score_per_word: 46911
+hi_scored_words:
+  beef: 4136
+  belief: 2825
+  brief: 1725
+  chef: 6402
+  chief: 936
+  clef: 40668
+  debrief: 69879
+  def: 2907
+  disbelief: 22364
+  fief: 82036
+  grief: 5593
+  handkerchief: 21675
+  keef: 96642
+  kef: 74678
+  kerchief: 82718
+  lief: 58296
+  mischief: 14698
+  pref: 28368
+  reef: 9676
+  ref: 7929
+  relief: 1866
+  thief: 7743
+  unbelief: 47268
+  xref: 91917
+scored_words:
+  indef: 151852
+  kief: 175214
+  neckerchief: 156592
+not_scored_words:
+- Chief
+- Josef
+- SHAEF
+- Tallchief
+- UNICEF
+- demirelief
+- ganef
+- misbelief

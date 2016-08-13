@@ -1,0 +1,39 @@
+---
+pattern: coun_e
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 29
+score: 1876175
+score_per_word: 93808
+hi_scored_words:
+  countable: 43754
+  countenance: 18892
+  counterbalance: 48355
+  counterclockwise: 52386
+  counterculture: 61676
+  counterexample: 80342
+  counterintelligence: 60901
+  counterintuitive: 73292
+  countermeasure: 75948
+  counterproductive: 39356
+  counterstrike: 49741
+  countryside: 9497
+  countrywide: 30640
+  countywide: 52513
+scored_words:
+  counterforce: 236431
+  counteroffensive: 153675
+  counterpane: 133512
+  counterpoise: 136504
+  countersignature: 334574
+  countinghouse: 184186
+not_scored_words:
+- counteractive
+- counterchange
+- countercharge
+- counterespionage
+- countermine
+- countermove
+- counterpressure
+- counterstroke
+- countertype

@@ -1,0 +1,28 @@
+---
+pattern: tri_ed
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1193240
+score_per_word: 85231
+hi_scored_words:
+  triangulated: 97169
+  tricked: 26783
+  trickled: 73011
+  tried: 1083
+  triggered: 11428
+  trimmed: 15454
+  tripled: 35832
+  tripped: 30289
+  triumphed: 49266
+scored_words:
+  trialed: 155438
+  tricolored: 202331
+  trifled: 124688
+  trilled: 216649
+  trivialized: 153819
+not_scored_words:
+- tricornered
+- triparted
+- triplicated
+- trisected

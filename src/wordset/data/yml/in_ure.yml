@@ -1,0 +1,20 @@
+---
+pattern: in_ure
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 337469
+score_per_word: 42183
+hi_scored_words:
+  indenture: 45690
+  infrastructure: 13482
+  injure: 21677
+  insecure: 16931
+  insure: 8575
+  intermixture: 64358
+  inure: 91433
+  investiture: 75323
+scored_words: {}
+not_scored_words:
+- incisure
+- intertexture

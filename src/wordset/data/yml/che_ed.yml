@@ -1,0 +1,26 @@
+---
+pattern: che_ed
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1081225
+score_per_word: 90102
+hi_scored_words:
+  cheated: 20293
+  checked: 3055
+  checkered: 33703
+  cheeked: 73853
+  cheered: 21792
+  cherished: 13743
+  chested: 44270
+  chewed: 34481
+scored_words:
+  cheapened: 172944
+  cheesed: 217634
+  chelated: 127841
+  chemisorbed: 317616
+not_scored_words:
+- checkmated
+- checkrowed
+- cheeped
+- chevied

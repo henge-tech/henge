@@ -1,0 +1,29 @@
+---
+pattern: snow_s
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 19
+score: 1927161
+score_per_word: 120447
+hi_scored_words:
+  snowballs: 59697
+  snowbirds: 88079
+  snowboarders: 71909
+  snowboards: 49198
+  snowflakes: 42749
+  snowmobiles: 48475
+  snows: 36175
+  snowshoes: 50398
+scored_words:
+  snowblowers: 242341
+  snowdrifts: 240956
+  snowdrops: 141217
+  snowfalls: 122911
+  snowfields: 177232
+  snowplows: 178880
+  snowstorms: 109197
+  snowsuits: 267747
+not_scored_words:
+- snowbanks
+- snowberries
+- snowiness

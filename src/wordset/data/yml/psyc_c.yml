@@ -1,0 +1,28 @@
+---
+pattern: psyc_c
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 18
+score: 1068897
+score_per_word: 76349
+hi_scored_words:
+  psychedelic: 22157
+  psychiatric: 11510
+  psychic: 9867
+  psychoanalytic: 32592
+  psychometric: 50165
+  psychopathic: 60120
+  psychosomatic: 50375
+  psychotherapeutic: 75632
+  psychotic: 23260
+  psychotropic: 47490
+scored_words:
+  psychogenic: 105276
+  psychokinetic: 199898
+  psycholinguistic: 130493
+  psychophysiologic: 250062
+not_scored_words:
+- psychodramatic
+- psychoneurotic
+- psychopathologic
+- psychotomimetic

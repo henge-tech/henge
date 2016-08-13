@@ -1,0 +1,29 @@
+---
+pattern: iden_
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 19
+score: 432147
+score_per_word: 30867
+hi_scored_words:
+  identical: 4552
+  identically: 44893
+  identifiable: 12947
+  identification: 3548
+  identifications: 46981
+  identified: 3168
+  identifier: 9904
+  identifiers: 23675
+  identifies: 12045
+  identify: 2138
+  identifying: 7600
+  identities: 9135
+  identity: 2951
+scored_words:
+  identifiably: 248610
+not_scored_words:
+- identic
+- identicalness
+- identicalnesses
+- identikit
+- identikits

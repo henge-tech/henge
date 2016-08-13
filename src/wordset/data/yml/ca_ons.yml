@@ -1,0 +1,45 @@
+---
+pattern: ca_ons
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 35
+score: 1406523
+score_per_word: 70326
+hi_scored_words:
+  calculations: 6522
+  calibrations: 52984
+  cancellations: 24999
+  cannons: 27228
+  canons: 31216
+  cantons: 52317
+  canyons: 29560
+  captions: 20224
+  carbons: 63970
+  carnations: 41446
+  cartons: 30296
+  cartoons: 12053
+  cations: 29522
+  cautions: 31466
+scored_words:
+  cabochons: 119858
+  caissons: 134202
+  camions: 310810
+  capons: 128158
+  categorizations: 148411
+  cauldrons: 111281
+not_scored_words:
+- Cameroons
+- cacodemons
+- calcinations
+- caldrons
+- calefactions
+- campions
+- canonizations
+- caparisons
+- capitations
+- capitulations
+- carbonizations
+- cardamons
+- cardoons
+- carillons
+- castrations

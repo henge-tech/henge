@@ -1,0 +1,33 @@
+---
+pattern: wit_s
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 23
+score: 1266578
+score_per_word: 90469
+hi_scored_words:
+  witches: 14654
+  withdrawals: 20525
+  withdraws: 32905
+  withers: 28810
+  withholds: 87795
+  withstands: 90896
+  witless: 70358
+  witness: 2950
+  witnesses: 4855
+  wits: 17067
+scored_words:
+  witchgrass: 194917
+  withes: 222191
+  witters: 330373
+  witticisms: 148282
+not_scored_words:
+- witchdoctors
+- witchgrasses
+- witherings
+- withershins
+- withies
+- withindoors
+- withoutdoors
+- witlessness
+- wittiness

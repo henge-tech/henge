@@ -1,0 +1,47 @@
+---
+pattern: _lied
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 37
+score: 2102483
+score_per_word: 80864
+hi_scored_words:
+  allied: 5184
+  applied: 1371
+  belied: 68758
+  bellied: 36505
+  bullied: 34940
+  complied: 16963
+  flied: 55458
+  implied: 4573
+  lied: 10227
+  misapplied: 97486
+  multiplied: 21007
+  plied: 49483
+  rallied: 28215
+  relied: 10293
+  replied: 3575
+  sullied: 86125
+  supplied: 2436
+  tallied: 43143
+scored_words:
+  butterflied: 264901
+  dallied: 247425
+  jellied: 154013
+  potbellied: 205021
+  reapplied: 113941
+  resupplied: 266135
+  sallied: 151463
+  unsullied: 123842
+not_scored_words:
+- Kunstlied
+- Nibelungenlied
+- Volkslied
+- collied
+- dillydallied
+- jollied
+- misallied
+- nonallied
+- oversupplied
+- panoplied
+- unallied

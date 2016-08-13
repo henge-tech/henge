@@ -1,0 +1,38 @@
+---
+pattern: _eate
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 28
+score: 1406922
+score_per_word: 93794
+hi_scored_words:
+  baccalaureate: 24511
+  chalybeate: 93334
+  create: 1110
+  delineate: 38899
+  laureate: 27279
+  permeate: 48773
+  procreate: 67901
+  recreate: 25501
+  roseate: 88035
+scored_words:
+  aureate: 279669
+  cuneate: 158032
+  maleate: 101472
+  nauseate: 124162
+  nucleate: 180441
+  oleate: 147803
+not_scored_words:
+- aculeate
+- binucleate
+- bracteate
+- caseate
+- clypeate
+- cochleate
+- ebracteate
+- enucleate
+- ideate
+- interlineate
+- lineate
+- ocreate
+- pileate

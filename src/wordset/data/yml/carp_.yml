@@ -1,0 +1,57 @@
+---
+pattern: carp_
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 47
+score: 2194668
+score_per_word: 84410
+hi_scored_words:
+  carp: 19025
+  carpal: 29261
+  carpark: 51619
+  carpenter: 9213
+  carpenters: 21984
+  carpentry: 28395
+  carper: 82250
+  carpet: 4460
+  carpetbagger: 83036
+  carpeted: 42722
+  carpeting: 41052
+  carpets: 13929
+  carping: 80978
+  carpool: 40813
+  carpooling: 80868
+  carport: 59326
+scored_words:
+  carpel: 106428
+  carpels: 199740
+  carpetbag: 107160
+  carpetbaggers: 179846
+  carpi: 119190
+  carpooled: 180500
+  carpools: 160017
+  carports: 149774
+  carps: 113073
+  carpus: 190009
+not_scored_words:
+- Carpathian
+- Carpathians
+- Carpentaria
+- Carpenter
+- carpals
+- carped
+- carpentered
+- carpentering
+- carpers
+- carpetbagged
+- carpetbaggery
+- carpetbagging
+- carpetbags
+- carpings
+- carpogonium
+- carpology
+- carpometacarpus
+- carpophagous
+- carpophore
+- carpospore
+- carpospores

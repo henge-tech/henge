@@ -1,0 +1,40 @@
+---
+pattern: s_ery
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 30
+score: 2220645
+score_per_word: 96549
+hi_scored_words:
+  saddlery: 71371
+  savagery: 52383
+  scenery: 7842
+  shrubbery: 57934
+  silvery: 27863
+  slavery: 5820
+  slippery: 12889
+  snobbery: 74247
+  soldiery: 94297
+  sorcery: 23041
+  stationery: 16649
+  summery: 64718
+  surgery: 5071
+scored_words:
+  scullery: 102846
+  servery: 220576
+  shimmery: 101304
+  shivery: 202750
+  showery: 189648
+  skulduggery: 195079
+  skullduggery: 144503
+  slithery: 195096
+  spidery: 179791
+  stitchery: 174927
+not_scored_words:
+- slobbery
+- smeltery
+- smithery
+- snuggery
+- sphery
+- splintery
+- spoofery

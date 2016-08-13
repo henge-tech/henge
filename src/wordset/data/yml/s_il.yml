@@ -1,0 +1,31 @@
+---
+pattern: s_il
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 998956
+score_per_word: 90814
+hi_scored_words:
+  sail: 5355
+  sigil: 78787
+  snail: 17402
+  soil: 1969
+  spoil: 11856
+  stencil: 23932
+  subsoil: 64087
+  swallowtail: 63821
+scored_words:
+  shirttail: 275291
+  staysail: 288330
+  surveil: 168126
+not_scored_words:
+- Serpasil
+- Sybil
+- skysail
+- springtail
+- spritsail
+- strigil
+- studdingsail
+- stunsail
+- subcouncil
+- swordtail

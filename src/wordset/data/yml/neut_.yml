@@ -1,0 +1,36 @@
+---
+pattern: neut_
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 26
+score: 1434412
+score_per_word: 65200
+hi_scored_words:
+  neuter: 32331
+  neutered: 47043
+  neutering: 76575
+  neutral: 4993
+  neutrality: 17724
+  neutralization: 42530
+  neutralize: 32369
+  neutralized: 51062
+  neutralizes: 89150
+  neutralizing: 43140
+  neutrals: 53664
+  neutrino: 27367
+  neutrinos: 41265
+  neutron: 18056
+  neutrons: 28696
+  neutrophil: 50321
+  neutrophils: 40722
+scored_words:
+  neut: 100595
+  neuters: 197387
+  neutralizer: 104718
+  neutralizers: 221497
+  neutrally: 113207
+not_scored_words:
+- neutralism
+- neutralist
+- neutralists
+- neutretto

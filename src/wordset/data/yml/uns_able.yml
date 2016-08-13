@@ -1,0 +1,31 @@
+---
+pattern: uns_able
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 21
+score: 1986438
+score_per_word: 110357
+hi_scored_words:
+  unshakable: 91016
+  unsinkable: 93471
+  unsolvable: 98720
+  unspeakable: 34899
+  unstable: 9886
+  unstoppable: 32176
+  unsuitable: 19655
+  unsustainable: 32118
+scored_words:
+  unsalable: 136200
+  unsaleable: 223706
+  unsatisfiable: 169401
+  unsearchable: 170226
+  unseasonable: 149467
+  unserviceable: 121679
+  unshakeable: 139260
+  unsociable: 109461
+  unsupportable: 164675
+  unsurpassable: 190422
+not_scored_words:
+- unsealable
+- unsellable
+- unshockable

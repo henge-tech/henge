@@ -1,0 +1,51 @@
+---
+pattern: m_p
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 41
+score: 1753540
+score_per_word: 70141
+hi_scored_words:
+  madcap: 54220
+  makeup: 8810
+  map: 1450
+  marksmanship: 73554
+  markup: 12408
+  mashup: 53439
+  matchup: 28461
+  meetup: 10334
+  membership: 3873
+  mentorship: 50474
+  microchip: 33414
+  mishap: 31198
+  misstep: 77924
+  mop: 17860
+  mountaintop: 56964
+  mousetrap: 52345
+  mp: 4861
+  musicianship: 49886
+scored_words:
+  malaprop: 249904
+  mastership: 132512
+  mayhap: 142274
+  mediumship: 106572
+  midship: 160064
+  mudflap: 160393
+  mugwump: 180346
+not_scored_words:
+- MP
+- MVP
+- Malaprop
+- Map
+- Medigap
+- maintop
+- managership
+- mantrap
+- marshalship
+- mayorship
+- megilp
+- mesocarp
+- messiahship
+- milksop
+- mobcap
+- mump

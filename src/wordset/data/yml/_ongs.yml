@@ -1,0 +1,40 @@
+---
+pattern: _ongs
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 30
+score: 927964
+score_per_word: 57997
+hi_scored_words:
+  belongs: 4495
+  bongs: 43003
+  dongs: 48801
+  furlongs: 63113
+  gongs: 65036
+  longs: 26295
+  prolongs: 75429
+  prongs: 60471
+  songs: 1529
+  thongs: 15130
+  throngs: 71917
+  tongs: 29703
+  wrongs: 19228
+scored_words:
+  diphthongs: 132338
+  dugongs: 162306
+  sarongs: 109170
+not_scored_words:
+- barongs
+- biltongs
+- binturongs
+- cradlesongs
+- dingdongs
+- kurrajongs
+- livelongs
+- monophthongs
+- oblongs
+- pongs
+- scuppernongs
+- singalongs
+- singsongs
+- swansongs

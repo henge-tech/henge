@@ -1,0 +1,41 @@
+---
+pattern: sc_ly
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 31
+score: 2448465
+score_per_word: 144027
+hi_scored_words:
+  scaly: 41101
+  scantily: 58441
+  scarcely: 10794
+  schematically: 65113
+  scholarly: 11249
+  scientifically: 17020
+  scornfully: 99706
+  scrupulously: 60462
+scored_words:
+  scandalously: 167754
+  scarily: 133301
+  scathingly: 202772
+  scenically: 325421
+  scholastically: 304168
+  scoundrelly: 285419
+  scraggly: 154715
+  screamingly: 304905
+  scripturally: 206124
+not_scored_words:
+- Scilly
+- scabrously
+- scantly
+- schismatically
+- schizophrenically
+- sciatically
+- scowlingly
+- scrappily
+- scratchily
+- scrawly
+- scruffily
+- scrumptiously
+- scurrilously
+- scurvily

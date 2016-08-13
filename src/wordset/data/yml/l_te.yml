@@ -1,0 +1,100 @@
+---
+pattern: l_te
+hi_scored_words_count: 25
+scored_words_count: 16
+total_words: 90
+score: 4001514
+score_per_word: 97597
+hi_scored_words:
+  labradorite: 92115
+  lactate: 32006
+  laminate: 24240
+  lanceolate: 68182
+  late: 603
+  latte: 25287
+  laureate: 27279
+  layette: 82762
+  leatherette: 64948
+  legate: 68571
+  legislate: 38460
+  legitimate: 5275
+  leukocyte: 41913
+  levitate: 74442
+  liberate: 26278
+  licentiate: 82398
+  lignite: 54587
+  liquidate: 47985
+  lite: 12910
+  literate: 25434
+  litigate: 67999
+  locate: 6783
+  lubricate: 56705
+  lute: 25758
+  lymphocyte: 27979
+scored_words:
+  lacerate: 223404
+  lambaste: 226302
+  laterite: 116770
+  launderette: 119457
+  lentamente: 145965
+  lepidolite: 333463
+  leucite: 112974
+  lewisite: 232180
+  ligate: 241308
+  limonite: 153195
+  lorgnette: 100966
+  lunate: 191515
+  luncheonette: 235441
+  lunette: 130650
+  luxuriate: 113223
+  lychgate: 243802
+not_scored_words:
+- LaFollette
+- Laborite
+- Lafayette
+- Lafitte
+- Latinate
+- Leatherette
+- Levite
+- Leyte
+- Lucite
+- Luddite
+- Lydgate
+- Lynette
+- Lynnette
+- labiate
+- laciniate
+- lacunate
+- lamellate
+- lanate
+- lancinate
+- landgraviate
+- langouste
+- lapidate
+- lazulite
+- lazurite
+- lemniscate
+- lepidote
+- levigate
+- levirate
+- levogyrate
+- librate
+- licente
+- ligulate
+- limbate
+- lineate
+- lineolate
+- lingulate
+- lintwhite
+- liquate
+- lisente
+- lithophyte
+- lixiviate
+- lobate
+- loricate
+- lucubrate
+- lunulate
+- lustrate
+- luxate
+- lyddite
+- lyrate

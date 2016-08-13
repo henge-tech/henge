@@ -1,0 +1,23 @@
+---
+pattern: sec_d
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 724201
+score_per_word: 72420
+hi_scored_words:
+  seceded: 98228
+  secluded: 17599
+  second: 253
+  seconded: 11645
+  secondhand: 30321
+  secreted: 29755
+  sectioned: 62730
+  secured: 3545
+scored_words:
+  sectored: 341110
+  secularized: 129015
+not_scored_words:
+- Secunderabad
+- secerned
+- secund

@@ -1,0 +1,39 @@
+---
+pattern: di_ve
+hi_scored_words_count: 21
+scored_words_count: 5
+total_words: 29
+score: 1985223
+score_per_word: 76354
+hi_scored_words:
+  diffusive: 75580
+  digestive: 13435
+  diminutive: 33390
+  directive: 9163
+  disapprove: 25193
+  disbelieve: 65690
+  discriminative: 85849
+  discursive: 40212
+  disincentive: 67093
+  disjunctive: 61298
+  dismissive: 55841
+  dispersive: 64271
+  disprove: 35584
+  disruptive: 19287
+  dissipative: 70111
+  dissociative: 56727
+  dissolve: 15305
+  distinctive: 7781
+  distributive: 43718
+  dive: 7152
+  divisive: 34012
+scored_words:
+  diapositive: 139448
+  diffractive: 114495
+  digressive: 299013
+  disintegrative: 256737
+  dissuasive: 288838
+not_scored_words:
+- dilative
+- disserve
+- ditransitive

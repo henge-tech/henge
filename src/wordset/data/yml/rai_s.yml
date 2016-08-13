@@ -1,0 +1,34 @@
+---
+pattern: rai_s
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 24
+score: 1160711
+score_per_word: 64483
+hi_scored_words:
+  raiders: 14429
+  raids: 18284
+  railings: 35603
+  railroads: 15463
+  rails: 9514
+  railways: 10515
+  rainbows: 31024
+  raincoats: 84130
+  raindrops: 47422
+  rains: 10380
+  raisers: 47943
+  raises: 6921
+  raisins: 25963
+scored_words:
+  railroaders: 166867
+  rainfalls: 144513
+  rainmakers: 153918
+  rainstorms: 132652
+  raisings: 205170
+not_scored_words:
+- railcards
+- railheads
+- railleries
+- rainclouds
+- raininess
+- rainless

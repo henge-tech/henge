@@ -1,0 +1,25 @@
+---
+pattern: l_ries
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 574380
+score_per_word: 57438
+hi_scored_words:
+  laboratories: 11338
+  laundries: 58795
+  lavatories: 89979
+  libraries: 3652
+  lorries: 53869
+  lotteries: 38133
+  luminaries: 50498
+  luxuries: 32026
+scored_words:
+  legionaries: 134322
+  liveries: 101768
+not_scored_words:
+- lamaseries
+- lapidaries
+- lingonberries
+- loganberries
+- lories

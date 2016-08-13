@@ -1,0 +1,31 @@
+---
+pattern: f_ad
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 1326999
+score_per_word: 102076
+hi_scored_words:
+  fad: 24276
+  farad: 85154
+  farmstead: 63894
+  fathead: 88135
+  figurehead: 60959
+  flathead: 38421
+  forehead: 9869
+  fountainhead: 62106
+scored_words:
+  fairlead: 199542
+  fiddlehead: 240449
+  flatbread: 122966
+  footpad: 168967
+  fuckhead: 162261
+not_scored_words:
+- Faisalabad
+- Faizabad
+- Faridabad
+- Flagstad
+- Flathead
+- Fuad
+- featherhead
+- freeload

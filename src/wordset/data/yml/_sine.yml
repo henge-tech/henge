@@ -1,0 +1,26 @@
+---
+pattern: _sine
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 906142
+score_per_word: 75511
+hi_scored_words:
+  adenosine: 27717
+  cosine: 38922
+  cuisine: 10080
+  cytosine: 68785
+  limousine: 17944
+  lysine: 32478
+  sine: 16584
+  tyrosine: 21316
+scored_words:
+  arsine: 207219
+  glassine: 164325
+  sphingosine: 148682
+  ursine: 152090
+not_scored_words:
+- andesine
+- haversine
+- nigrosine
+- tetramethyldiarsine

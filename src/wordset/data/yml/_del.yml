@@ -1,0 +1,39 @@
+---
+pattern: _del
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 29
+score: 1096372
+score_per_word: 78312
+hi_scored_words:
+  citadel: 14499
+  del: 1939
+  dreidel: 96586
+  infidel: 27913
+  model: 1133
+  remodel: 36405
+  roundel: 82758
+  strudel: 80250
+  supermodel: 33764
+  yodel: 79163
+  zinfandel: 55608
+scored_words:
+  asphodel: 123679
+  bedel: 268934
+  rondel: 193741
+not_scored_words:
+- Arundel
+- Blondel
+- Claudel
+- Del
+- Fernandel
+- Fidel
+- Godel
+- Grendel
+- Gödel
+- Handel
+- Mendel
+- Zinfandel
+- aludel
+- fardel
+- muscadel

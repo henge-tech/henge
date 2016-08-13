@@ -1,0 +1,46 @@
+---
+pattern: _okes
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 36
+score: 1782069
+score_per_word: 84860
+hi_scored_words:
+  artichokes: 49380
+  blokes: 46800
+  brushstrokes: 98098
+  chokes: 45503
+  cokes: 82422
+  evokes: 40248
+  invokes: 37065
+  jokes: 7185
+  keystrokes: 40394
+  pokes: 44115
+  provokes: 49451
+  smokes: 24349
+  spokes: 34845
+  stokes: 20911
+  strokes: 8874
+  yokes: 78083
+scored_words:
+  cowpokes: 264326
+  hokes: 236437
+  mokes: 210673
+  revokes: 100427
+  tokes: 262483
+not_scored_words:
+- Brookes
+- Cokes
+- Crookes
+- Pembrokes
+- Stokes
+- backstrokes
+- breaststrokes
+- convokes
+- downstrokes
+- karaokes
+- masterstrokes
+- sidestrokes
+- slowpokes
+- unyokes
+- upstrokes

@@ -1,0 +1,43 @@
+---
+pattern: to_er
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 33
+score: 1869938
+score_per_word: 93496
+hi_scored_words:
+  toaster: 17966
+  toastmaster: 68599
+  toddler: 12412
+  together: 350
+  toner: 13141
+  topper: 24026
+  torturer: 82170
+  totter: 82844
+  tougher: 21805
+  tourer: 66411
+  tower: 2414
+scored_words:
+  toiler: 126957
+  toolmaker: 191237
+  tooter: 132861
+  toper: 149016
+  torchbearer: 184751
+  tosser: 104469
+  totalizer: 141609
+  toter: 270891
+  tother: 176009
+not_scored_words:
+- toadeater
+- toastier
+- tobogganer
+- tonier
+- tonometer
+- toothier
+- topographer
+- torchier
+- totterer
+- touchier
+- touchpaper
+- toughener
+- touter

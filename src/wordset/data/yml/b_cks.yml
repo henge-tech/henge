@@ -1,0 +1,48 @@
+---
+pattern: b_cks
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 38
+score: 1228429
+score_per_word: 64654
+hi_scored_words:
+  backpacks: 19098
+  backs: 6398
+  barracks: 17358
+  becks: 57176
+  blacks: 6865
+  blocks: 3611
+  bollocks: 41420
+  boondocks: 58418
+  bottlenecks: 37159
+  breadsticks: 95954
+  bricks: 11094
+  broomsticks: 96906
+  bucks: 11502
+  bullocks: 71563
+  buttocks: 30435
+scored_words:
+  backtracks: 159005
+  ballocks: 238302
+  blackjacks: 133579
+  buybacks: 132586
+not_scored_words:
+- Blacks
+- backblocks
+- badderlocks
+- bailiwicks
+- ballcocks
+- bannocks
+- bedecks
+- bedrocks
+- belowdecks
+- bemocks
+- bitstocks
+- blackcocks
+- bobbysocks
+- bootblacks
+- bootjacks
+- bootlicks
+- breechblocks
+- bushbucks
+- bushwhacks

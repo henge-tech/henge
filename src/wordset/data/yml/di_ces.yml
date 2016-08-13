@@ -1,0 +1,24 @@
+---
+pattern: di_ces
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 763135
+score_per_word: 76313
+hi_scored_words:
+  dices: 85895
+  differences: 2508
+  disappearances: 53767
+  displaces: 76904
+  distances: 7596
+  disturbances: 15544
+  divergences: 67867
+  divorces: 40773
+scored_words:
+  disgraces: 172520
+  dissonances: 239761
+not_scored_words:
+- discontinuances
+- discountenances
+- disservices
+- divulgences

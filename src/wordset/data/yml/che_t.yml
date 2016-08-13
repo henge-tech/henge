@@ -1,0 +1,33 @@
+---
+pattern: che_t
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 23
+score: 886237
+score_per_word: 63302
+hi_scored_words:
+  cheapest: 8957
+  cheat: 9623
+  checklist: 13118
+  checkout: 10564
+  checkpoint: 15819
+  chemist: 13684
+  cheroot: 74120
+  chert: 63291
+  chest: 3077
+  chestnut: 11708
+  cheviot: 69486
+scored_words:
+  cheesiest: 234936
+  chemiluminescent: 173923
+  chevet: 183931
+not_scored_words:
+- Cheviot
+- Chevrolet
+- cheekiest
+- cheerfullest
+- cheeriest
+- chemotherapist
+- chertiest
+- chestiest
+- chewiest

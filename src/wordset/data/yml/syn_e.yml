@@ -1,0 +1,25 @@
+---
+pattern: syn_e
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 386733
+score_per_word: 42970
+hi_scored_words:
+  synagogue: 17704
+  synapse: 34148
+  synchronize: 26742
+  syncope: 52569
+  syndicate: 11005
+  syndrome: 7899
+  syne: 56428
+  synthesize: 31705
+scored_words:
+  synecdoche: 148533
+not_scored_words:
+- Synge
+- synchroscope
+- syncopate
+- syncretize
+- synonymize
+- synopsize

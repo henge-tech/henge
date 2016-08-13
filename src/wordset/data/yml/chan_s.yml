@@ -1,0 +1,40 @@
+---
+pattern: chan_s
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 30
+score: 1544788
+score_per_word: 96549
+hi_scored_words:
+  chancellors: 52751
+  chances: 4223
+  chandeliers: 30081
+  chandlers: 81565
+  changers: 31062
+  changes: 805
+  channels: 3888
+  chansons: 42312
+  chants: 26555
+scored_words:
+  changeableness: 213298
+  changeless: 132928
+  changelings: 177315
+  changeovers: 167828
+  chanterelles: 208463
+  chanters: 142577
+  chanticleers: 229137
+not_scored_words:
+- chancelleries
+- chancels
+- chanceries
+- chanciness
+- chancres
+- chancroids
+- chancrous
+- chandelles
+- chandleries
+- channelizes
+- chanteuses
+- chanteys
+- chantress
+- chantries

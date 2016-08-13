@@ -1,0 +1,34 @@
+---
+pattern: pr_ne
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 24
+score: 1237416
+score_per_word: 82494
+hi_scored_words:
+  praline: 81860
+  pristine: 19666
+  profane: 28104
+  progesterone: 22800
+  proline: 37157
+  prone: 9541
+  propane: 21697
+  propylene: 43595
+  provolone: 75481
+  prune: 28921
+scored_words:
+  predefine: 267796
+  predetermine: 190307
+  procaine: 100788
+  propene: 185396
+  protamine: 124307
+not_scored_words:
+- Procne
+- Proserpine
+- Prynne
+- predestine
+- preexamine
+- premundane
+- primine
+- prolamine
+- proparoxytone

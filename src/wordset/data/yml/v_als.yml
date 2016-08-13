@@ -1,0 +1,23 @@
+---
+pattern: v_als
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 13
+score: 450585
+score_per_word: 50065
+hi_scored_words:
+  vandals: 27519
+  varietals: 97363
+  vassals: 79610
+  verticals: 65290
+  vials: 33868
+  victuals: 76689
+  visuals: 18803
+  vitals: 46172
+  vocals: 5271
+scored_words: {}
+not_scored_words:
+- Vandals
+- verbals
+- vestals
+- virginals

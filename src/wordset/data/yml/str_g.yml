@@ -1,0 +1,57 @@
+---
+pattern: str_g
+hi_scored_words_count: 30
+scored_words_count: 3
+total_words: 47
+score: 1699862
+score_per_word: 51510
+hi_scored_words:
+  straddling: 59993
+  straggling: 91050
+  straightening: 35069
+  straining: 28035
+  stranding: 76809
+  strangling: 62079
+  strapping: 30604
+  straying: 58187
+  streaking: 55861
+  streaming: 5701
+  streamlining: 32437
+  strengthening: 9017
+  stressing: 22285
+  stretching: 8064
+  striding: 63921
+  striking: 4698
+  string: 2031
+  stringing: 44906
+  striping: 43653
+  stripling: 80794
+  stripping: 14617
+  striving: 11022
+  stroking: 27797
+  strolling: 33460
+  strong: 637
+  structuring: 22372
+  struggling: 5790
+  strumming: 64741
+  strung: 23089
+  strutting: 64400
+scored_words:
+  strafing: 114520
+  stratifying: 250982
+  strewing: 251241
+not_scored_words:
+- Strasbourg
+- Strindberg
+- Strong
+- straitening
+- straitjacketing
+- strangulating
+- strawing
+- stretchering
+- striating
+- strickling
+- stridulating
+- strikebreaking
+- stripteasing
+- stropping

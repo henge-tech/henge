@@ -1,0 +1,31 @@
+---
+pattern: _more
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 21
+score: 501504
+score_per_word: 45591
+hi_scored_words:
+  anymore: 15014
+  claymore: 49946
+  evermore: 38439
+  forevermore: 94085
+  furthermore: 5869
+  more: 34
+  nevermore: 49240
+  sagamore: 73687
+  sophomore: 18366
+  sycamore: 25345
+scored_words:
+  hackamore: 131479
+not_scored_words:
+- Baltimore
+- Barrymore
+- Beardmore
+- Fillmore
+- Gilmore
+- Kenmore
+- Mamore
+- More
+- Patmore
+- Rushmore

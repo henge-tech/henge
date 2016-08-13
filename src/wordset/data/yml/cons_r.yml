@@ -1,0 +1,24 @@
+---
+pattern: cons_r
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 14
+score: 770702
+score_per_word: 64225
+hi_scored_words:
+  conservator: 48147
+  consider: 956
+  consignor: 96155
+  consolidator: 97037
+  conspirator: 55757
+  constr: 36372
+  constrictor: 78891
+  constructor: 12920
+  consular: 23337
+  consumer: 3792
+scored_words:
+  consecrator: 213577
+  consoler: 103761
+not_scored_words:
+- constrainer
+- consummator

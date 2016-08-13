@@ -1,0 +1,22 @@
+---
+pattern: inc_ted
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 683220
+score_per_word: 68322
+hi_scored_words:
+  incapacitated: 39727
+  incarcerated: 32386
+  incinerated: 73841
+  incited: 64867
+  incorporated: 4979
+  incremented: 55966
+  incubated: 28170
+  inculcated: 92204
+scored_words:
+  incarnated: 101979
+  incriminated: 189101
+not_scored_words:
+- Incorporated
+- inculpated

@@ -1,0 +1,23 @@
+---
+pattern: wr_e
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 698803
+score_per_word: 58233
+hi_scored_words:
+  wrangle: 62599
+  wrasse: 71549
+  wreckage: 27170
+  wrestle: 22860
+  wriggle: 65022
+  wrinkle: 20644
+  writable: 61705
+  write: 459
+  writhe: 79555
+  wrote: 788
+scored_words:
+  wreathe: 144872
+  writeable: 141580
+not_scored_words:
+- wraithlike

@@ -1,0 +1,24 @@
+---
+pattern: _appy
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 778069
+score_per_word: 70733
+hi_scored_words:
+  chappy: 95135
+  crappy: 15623
+  happy: 574
+  nappy: 29595
+  pappy: 55081
+  sappy: 55087
+  scrappy: 39741
+  snappy: 34565
+  unhappy: 7203
+scored_words:
+  yappy: 247580
+  zappy: 197885
+not_scored_words:
+- gappy
+- overhappy
+- slaphappy

@@ -1,0 +1,51 @@
+---
+pattern: t_se
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 41
+score: 2170514
+score_per_word: 80389
+hi_scored_words:
+  tasse: 89187
+  teahouse: 68938
+  tease: 13474
+  tense: 10225
+  terse: 41780
+  these: 79
+  those: 124
+  titmouse: 98914
+  tortoise: 19419
+  townhouse: 22285
+  transferase: 39765
+  transpose: 43132
+  transverse: 15672
+  traverse: 13492
+  treatise: 16114
+  tsetse: 70136
+  turquoise: 16961
+scored_words:
+  televise: 112282
+  telophase: 246206
+  tollhouse: 158231
+  torse: 168266
+  traipse: 166790
+  transfuse: 225102
+  trehalose: 117002
+  tropopause: 111676
+  tuberose: 150952
+  tyrosinase: 134310
+not_scored_words:
+- Taiwanese
+- Therese
+- Thutmose
+- Tirolese
+- Togolese
+- Tonkinese
+- Toulouse
+- Tyrolese
+- taphouse
+- telegraphese
+- thrombokinase
+- thyrse
+- torose
+- typecase

@@ -1,0 +1,59 @@
+---
+pattern: _ype
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 49
+score: 2722895
+score_per_word: 113453
+hi_scored_words:
+  archetype: 38511
+  datatype: 42253
+  genotype: 26067
+  holotype: 60522
+  hype: 14208
+  karyotype: 88607
+  logotype: 90955
+  monotype: 60073
+  phenotype: 20733
+  prototype: 10425
+  retype: 68070
+  stereotype: 28391
+  subtype: 27728
+  teletype: 72725
+  type: 581
+scored_words:
+  antitype: 227938
+  biotype: 194819
+  collotype: 296967
+  cyanotype: 269966
+  daguerreotype: 111895
+  ecotype: 224506
+  mistype: 259156
+  stenotype: 270511
+  tintype: 217288
+not_scored_words:
+- Intertype
+- Linotype
+- Monotype
+- Skype
+- Teletype
+- albertype
+- ambrotype
+- antetype
+- autotype
+- cerotype
+- countertype
+- daguerrotype
+- ectype
+- electrotype
+- ferrotype
+- heliotype
+- neotype
+- photoelectrotype
+- phototype
+- physiotype
+- platinotype
+- slype
+- somatotype
+- topotype
+- varitype

@@ -1,0 +1,49 @@
+---
+pattern: obli_
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 39
+score: 2401519
+score_per_word: 85768
+hi_scored_words:
+  obligate: 47241
+  obligated: 15746
+  obligation: 3993
+  obligations: 4681
+  obligatory: 19218
+  oblige: 27149
+  obliged: 7530
+  obliges: 64071
+  obliging: 47696
+  obligor: 75185
+  oblique: 11969
+  obliquely: 64831
+  obliquity: 88935
+  obliterate: 48448
+  obliterated: 41808
+  obliteration: 59815
+  oblivion: 14411
+  oblivious: 22493
+scored_words:
+  obligates: 108625
+  obligating: 168290
+  obligatorily: 251656
+  obligee: 124817
+  obligingly: 130835
+  obliques: 174982
+  obliterates: 150222
+  obliterating: 102446
+  obliviously: 281607
+  obliviousness: 242819
+not_scored_words:
+- obligati
+- obligato
+- obligator
+- obligatos
+- obliger
+- obligingness
+- obligingnesses
+- obliqued
+- obliqueness
+- obliterative
+- obliterator

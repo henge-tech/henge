@@ -1,0 +1,43 @@
+---
+pattern: g_nt
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 33
+score: 1842854
+score_per_word: 92142
+hi_scored_words:
+  gallant: 17110
+  garment: 9261
+  garnishment: 67768
+  gaunt: 31907
+  gent: 20415
+  giant: 2799
+  glint: 40854
+  government: 263
+  gradient: 19764
+  grandparent: 33158
+  grant: 1573
+  grunt: 24931
+  gunpoint: 53295
+scored_words:
+  gallivant: 182971
+  gardant: 303567
+  godparent: 148442
+  grandaunt: 230264
+  grandiloquent: 182192
+  greasepaint: 246331
+  gunflint: 225989
+not_scored_words:
+- Gent
+- Ghent
+- Gourmont
+- Government
+- Grant
+- Gwent
+- gerent
+- germinant
+- glabrescent
+- glaucescent
+- glyptodont
+- gratulant
+- guardant

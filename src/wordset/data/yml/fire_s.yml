@@ -1,0 +1,48 @@
+---
+pattern: fire_s
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 38
+score: 2214181
+score_per_word: 123010
+hi_scored_words:
+  firearms: 11131
+  fireballs: 65562
+  firecrackers: 69263
+  firefighters: 13301
+  fireflies: 50837
+  fireplaces: 24073
+  fires: 5047
+  firewalls: 17413
+  fireworks: 10552
+scored_words:
+  firebirds: 109329
+  firebombs: 251683
+  firebrands: 229216
+  firebreaks: 276326
+  firefights: 159775
+  firehouses: 259112
+  fireless: 172956
+  firesides: 260580
+  firetrucks: 228025
+not_scored_words:
+- firebases
+- fireboats
+- firebombings
+- fireboxes
+- firebrats
+- firebricks
+- firebugs
+- firedogs
+- firedrakes
+- fireguards
+- firelighters
+- firelocks
+- fireplugs
+- fireproofs
+- firers
+- firescreens
+- firestones
+- firestorms
+- firetraps
+- fireweeds

@@ -1,0 +1,32 @@
+---
+pattern: ev_n
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 22
+score: 660637
+score_per_word: 47188
+hi_scored_words:
+  evacuation: 13768
+  evaluation: 13357
+  evangelization: 52964
+  evaporation: 18741
+  evapotranspiration: 70311
+  evasion: 21018
+  even: 138
+  evergreen: 13501
+  everyman: 41120
+  eviction: 31353
+  evocation: 56286
+  evolution: 3006
+scored_words:
+  eversion: 198305
+  evisceration: 126769
+not_scored_words:
+- Evan
+- Evanston
+- Evelyn
+- Everyman
+- Evian
+- evection
+- eventuation
+- evulsion

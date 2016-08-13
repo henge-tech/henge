@@ -1,0 +1,24 @@
+---
+pattern: tu_le
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 14
+score: 800151
+score_per_word: 66679
+hi_scored_words:
+  tubercle: 67722
+  tubule: 59083
+  tulle: 45571
+  tumble: 12811
+  tunable: 51895
+  tuple: 31658
+  turnbuckle: 99610
+  turnstile: 73666
+  turntable: 24182
+  turtle: 8208
+  tussle: 54851
+scored_words:
+  tuneable: 270894
+not_scored_words:
+- tunicle
+- turnsole

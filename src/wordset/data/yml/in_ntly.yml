@@ -1,0 +1,46 @@
+---
+pattern: in_ntly
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 36
+score: 2226012
+score_per_word: 89040
+hi_scored_words:
+  inadvertently: 20701
+  incessantly: 38067
+  inconsistently: 81340
+  independently: 6698
+  indifferently: 78861
+  indignantly: 71599
+  infrequently: 29845
+  inherently: 20028
+  innocently: 39103
+  insistently: 96969
+  instantly: 3444
+  insufficiently: 49679
+  intelligently: 26862
+  intently: 28632
+  intermittently: 36367
+scored_words:
+  incoherently: 109387
+  incompetently: 258751
+  incontinently: 136358
+  inconveniently: 149252
+  indecently: 161815
+  indolently: 180959
+  indulgently: 172094
+  inefficiently: 102834
+  insignificantly: 135359
+  insolently: 191008
+not_scored_words:
+- incandescently
+- incipiently
+- inclemently
+- incongruently
+- inconstantly
+- indigently
+- inelegantly
+- insouciantly
+- interdependently
+- intolerantly
+- intransigently

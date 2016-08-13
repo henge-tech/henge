@@ -1,0 +1,34 @@
+---
+pattern: re_les
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 24
+score: 1914642
+score_per_word: 127642
+hi_scored_words:
+  receivables: 33104
+  receptacles: 39965
+  reconciles: 83885
+  rectangles: 35334
+  recyclables: 75612
+  recycles: 69454
+  reptiles: 15273
+  resales: 94243
+  resembles: 14405
+scored_words:
+  reassembles: 248131
+  regales: 298376
+  rekindles: 219966
+  reschedules: 269215
+  reshuffles: 177716
+  reticles: 239963
+not_scored_words:
+- redoubles
+- refiles
+- rescales
+- resettles
+- resoles
+- restyles
+- reticules
+- returnables
+- reviles

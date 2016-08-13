@@ -1,0 +1,42 @@
+---
+pattern: _uer
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 32
+score: 2125136
+score_per_word: 125008
+hi_scored_words:
+  bluer: 94487
+  conquer: 11527
+  exchequer: 31824
+  issuer: 16111
+  lacquer: 26769
+  leaguer: 82214
+  pursuer: 83091
+  rescuer: 60386
+  truer: 44301
+  valuer: 77002
+scored_words:
+  arguer: 283241
+  continuer: 154978
+  intriguer: 117535
+  masquer: 317166
+  reconquer: 240619
+  suer: 237469
+  vaguer: 246416
+not_scored_words:
+- Adenauer
+- Auer
+- Bauer
+- Breuer
+- Exchequer
+- Schopenhauer
+- antiquer
+- beleaguer
+- brusquer
+- haranguer
+- opaquer
+- revenuer
+- subduer
+- uniquer
+- untruer

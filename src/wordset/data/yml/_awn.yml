@@ -1,0 +1,31 @@
+---
+pattern: _awn
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 21
+score: 679284
+score_per_word: 45285
+hi_scored_words:
+  awn: 57341
+  brawn: 49727
+  dawn: 3231
+  drawn: 2313
+  fawn: 24471
+  lawn: 4914
+  overdrawn: 94931
+  pawn: 17838
+  prawn: 32573
+  redrawn: 67400
+  spawn: 16980
+  withdrawn: 7138
+  yawn: 23356
+scored_words:
+  predawn: 161584
+  thrawn: 115487
+not_scored_words:
+- Arawn
+- Dawn
+- Shawn
+- frogspawn
+- indrawn
+- outdrawn

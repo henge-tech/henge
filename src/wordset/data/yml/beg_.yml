@@ -1,0 +1,72 @@
+---
+pattern: beg_
+hi_scored_words_count: 26
+scored_words_count: 11
+total_words: 62
+score: 2684613
+score_per_word: 72557
+hi_scored_words:
+  beg: 7084
+  began: 914
+  begat: 47635
+  beget: 57573
+  begets: 66772
+  beggar: 22837
+  beggars: 26903
+  begged: 15127
+  begging: 11561
+  begin: 1048
+  beginner: 11791
+  beginners: 13749
+  beginning: 889
+  beginnings: 12233
+  begins: 2215
+  begone: 52554
+  begonia: 63053
+  begonias: 90815
+  begotten: 38285
+  begrudge: 74673
+  begs: 24960
+  beguile: 90014
+  beguiled: 89900
+  beguiling: 58494
+  begum: 60321
+  begun: 4183
+scored_words:
+  begetting: 132845
+  beggared: 135723
+  beggarly: 124934
+  beggarweed: 195012
+  beggary: 195072
+  begot: 102522
+  begrimed: 166874
+  begrudged: 155019
+  begrudging: 228440
+  begrudgingly: 134464
+  beguine: 168125
+not_scored_words:
+- Beghard
+- Begin
+- Beguin
+- Beguine
+- begetter
+- begetters
+- beggaring
+- beggarliness
+- beggarweeds
+- begird
+- begirded
+- begirding
+- begirds
+- begorra
+- begrime
+- begrimes
+- begriming
+- begrudges
+- beguilement
+- beguiler
+- beguilers
+- beguiles
+- beguilingly
+- beguines
+- begums

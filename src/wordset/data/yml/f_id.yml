@@ -1,0 +1,26 @@
+---
+pattern: f_id
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 784178
+score_per_word: 71288
+hi_scored_words:
+  factoid: 63940
+  fetid: 76070
+  fibroid: 69155
+  fid: 38918
+  flaccid: 56499
+  florid: 57132
+  fluid: 4408
+  forbid: 13660
+  frigid: 35729
+scored_words:
+  fervid: 124242
+  foresaid: 244425
+not_scored_words:
+- Fabrikoid
+- Fatimid
+- felid
+- fucoid
+- fungoid

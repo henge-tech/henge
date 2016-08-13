@@ -1,0 +1,63 @@
+---
+pattern: repu_
+hi_scored_words_count: 25
+scored_words_count: 9
+total_words: 53
+score: 2774811
+score_per_word: 81612
+hi_scored_words:
+  republic: 1800
+  republican: 3918
+  republicanism: 61464
+  republicans: 6401
+  republication: 50846
+  republics: 24031
+  republish: 60295
+  republished: 33896
+  repudiate: 54485
+  repudiated: 47034
+  repudiation: 40951
+  repugnance: 84108
+  repugnant: 36453
+  repulse: 53432
+  repulsed: 51308
+  repulsion: 37608
+  repulsive: 27447
+  repurchase: 36901
+  repurchased: 89482
+  reputable: 16225
+  reputation: 3241
+  reputations: 36407
+  repute: 40273
+  reputed: 27965
+  reputedly: 72920
+scored_words:
+  republications: 214180
+  republishing: 114796
+  repudiates: 142048
+  repudiating: 125785
+  repulses: 242901
+  repulsing: 244405
+  repulsions: 296693
+  repurchases: 133311
+  repurchasing: 261801
+not_scored_words:
+- Republican
+- Republicanism
+- Republicans
+- republicanize
+- republishes
+- repudiations
+- repudiator
+- repudiators
+- repugn
+- repugnantly
+- repugned
+- repugning
+- repugns
+- repulsively
+- repulsiveness
+- reputability
+- reputably
+- reputes
+- reputing

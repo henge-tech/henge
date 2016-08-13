@@ -1,0 +1,27 @@
+---
+pattern: con_a
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 635751
+score_per_word: 70639
+hi_scored_words:
+  concertina: 54409
+  concha: 64893
+  conga: 45909
+  conidia: 97101
+  conjunctiva: 69503
+  consortia: 40140
+  continua: 47768
+  contra: 12696
+scored_words:
+  condyloma: 203332
+not_scored_words:
+- Concetta
+- Conestoga
+- Connemara
+- Constanta
+- Constantia
+- condominia
+- conferva
+- contrayerva

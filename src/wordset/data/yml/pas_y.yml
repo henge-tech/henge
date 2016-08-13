@@ -1,0 +1,24 @@
+---
+pattern: pas_y
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 14
+score: 657876
+score_per_word: 65787
+hi_scored_words:
+  passageway: 43818
+  passerby: 75739
+  passersby: 78901
+  passionately: 19947
+  passively: 32878
+  passivity: 56448
+  pastry: 13948
+  pasty: 41697
+scored_words:
+  passably: 171445
+  passkey: 123055
+not_scored_words:
+- Passamaquoddy
+- passingly
+- passionlessly
+- pastorally

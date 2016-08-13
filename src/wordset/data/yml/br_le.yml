@@ -1,0 +1,29 @@
+---
+pattern: br_le
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 19
+score: 481205
+score_per_word: 53467
+hi_scored_words:
+  braille: 19540
+  bramble: 44896
+  breakable: 67470
+  breathable: 34374
+  bridle: 25715
+  brindle: 63604
+  bristle: 43678
+  brittle: 21405
+scored_words:
+  bridgeable: 160523
+not_scored_words:
+- Braille
+- Brazzaville
+- Brownsville
+- brabble
+- bracteole
+- branle
+- bribable
+- brickle
+- bricole
+- bronchiole

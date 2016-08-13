@@ -1,0 +1,32 @@
+---
+pattern: ca_ling
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 22
+score: 1210438
+score_per_word: 93110
+hi_scored_words:
+  cabling: 23141
+  cackling: 74776
+  calling: 1552
+  canceling: 28248
+  cancelling: 36931
+  carling: 30849
+  caroling: 98329
+  carpooling: 80868
+scored_words:
+  cajoling: 130969
+  candling: 158104
+  castling: 143937
+  caterwauling: 203474
+  catling: 199260
+not_scored_words:
+- cageling
+- canoodling
+- caprioling
+- capsuling
+- caracoling
+- cartwheeling
+- casseroling
+- catcalling
+- caviling

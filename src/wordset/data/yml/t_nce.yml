@@ -1,0 +1,38 @@
+---
+pattern: t_nce
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 28
+score: 1398899
+score_per_word: 82288
+hi_scored_words:
+  teleconference: 50003
+  temperance: 24400
+  thence: 10631
+  tolerance: 7778
+  trance: 8625
+  transcendence: 39207
+  transference: 39509
+  transience: 86646
+  transmittance: 74469
+  tuppence: 91294
+  turbulence: 18658
+scored_words:
+  tendance: 125356
+  thermoluminescence: 227999
+  threepence: 141818
+  translucence: 129622
+  trounce: 109408
+  twopence: 213476
+not_scored_words:
+- Terence
+- Terrance
+- Terrence
+- Torrance
+- tarriance
+- thrippence
+- transhumance
+- triboluminescence
+- truculence
+- tumescence
+- turgescence

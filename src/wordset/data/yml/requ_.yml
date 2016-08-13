@@ -1,0 +1,43 @@
+---
+pattern: requ_
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 33
+score: 1486455
+score_per_word: 64628
+hi_scored_words:
+  request: 781
+  requested: 2945
+  requester: 38052
+  requesting: 7868
+  requests: 3671
+  requiem: 23860
+  require: 1263
+  required: 496
+  requirement: 6035
+  requirements: 1072
+  requires: 1558
+  requiring: 4911
+  requisite: 11500
+  requisites: 33947
+  requisition: 26405
+  requisitioning: 83228
+  requisitions: 50595
+scored_words:
+  requiescat: 240365
+  requisitely: 298347
+  requisitioned: 101855
+  requital: 220570
+  requite: 149357
+  requited: 177774
+not_scored_words:
+- Requiem
+- Requiems
+- requiems
+- requiescats
+- requisitioner
+- requitable
+- requiter
+- requiters
+- requites
+- requiting

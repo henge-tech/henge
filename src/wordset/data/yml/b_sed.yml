@@ -1,0 +1,28 @@
+---
+pattern: b_sed
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 18
+score: 836553
+score_per_word: 69712
+hi_scored_words:
+  based: 501
+  bemused: 53247
+  biased: 18837
+  blessed: 4348
+  braised: 46514
+  browsed: 48324
+  bruised: 24992
+  buttressed: 94254
+  bypassed: 38992
+scored_words:
+  biassed: 232089
+  bossed: 152014
+  bused: 122441
+not_scored_words:
+- backcrossed
+- ballsed
+- bloused
+- bluenosed
+- boused
+- bowsed

@@ -1,0 +1,28 @@
+---
+pattern: dys_a
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 18
+score: 1470614
+score_per_word: 105043
+hi_scored_words:
+  dyslexia: 23495
+  dyspepsia: 51488
+  dysphagia: 51236
+  dysphoria: 86983
+  dysplasia: 33393
+  dyspnea: 51279
+  dystonia: 68453
+  dystopia: 58462
+scored_words:
+  dysarthria: 141607
+  dysgraphia: 233415
+  dysphasia: 228511
+  dysphonia: 197159
+  dysthymia: 129179
+  dysuria: 115954
+not_scored_words:
+- dyscrasia
+- dyslalia
+- dyslogia
+- dysphemia

@@ -1,0 +1,27 @@
+---
+pattern: am_on
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 425864
+score_per_word: 42586
+hi_scored_words:
+  amalgamation: 30566
+  amazon: 5001
+  ambition: 7920
+  amelioration: 58376
+  ammunition: 9317
+  amortization: 24470
+  amplification: 23660
+  amputation: 34125
+scored_words:
+  ambulation: 108813
+  amnion: 123616
+not_scored_words:
+- Amazon
+- Americanization
+- Ammon
+- Amon
+- Amphitryon
+- ambiversion
+- amphictyon

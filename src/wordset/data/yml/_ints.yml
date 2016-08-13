@@ -1,0 +1,83 @@
+---
+pattern: _ints
+hi_scored_words_count: 30
+scored_words_count: 18
+total_words: 73
+score: 4147501
+score_per_word: 86406
+hi_scored_words:
+  appoints: 24494
+  blueprints: 25387
+  breakpoints: 56040
+  checkpoints: 27031
+  complaints: 4177
+  constraints: 5053
+  disappoints: 61543
+  endpoints: 32494
+  faints: 96770
+  fingerprints: 20050
+  flints: 74610
+  footprints: 20731
+  hints: 6400
+  imprints: 44228
+  joints: 8708
+  mints: 37749
+  misprints: 81396
+  paints: 11463
+  pinpoints: 90463
+  pints: 29310
+  points: 673
+  prints: 4609
+  reprints: 21353
+  restraints: 18315
+  saints: 4881
+  splints: 51412
+  sprints: 38074
+  stints: 62306
+  tints: 41639
+  viewpoints: 16420
+scored_words:
+  acquaints: 185853
+  anoints: 266561
+  counterpoints: 168569
+  feints: 210337
+  flashpoints: 144353
+  forints: 101031
+  glints: 177427
+  midpoints: 136771
+  offprints: 226620
+  overprints: 190827
+  peppermints: 165954
+  plaints: 161948
+  repaints: 172130
+  squints: 170326
+  standpoints: 102679
+  taints: 121795
+  thumbprints: 276086
+  varmints: 150455
+not_scored_words:
+- Septuagints
+- aquatints
+- attaints
+- ballpoints
+- bluepoints
+- calamints
+- catmints
+- cuckoopints
+- dints
+- disjoints
+- distraints
+- embonpoints
+- gunflints
+- horsemints
+- lints
+- mezzotints
+- outpoints
+- quints
+- reacquaints
+- reappoints
+- shinsplints
+- silverpoints
+- skinflints
+- surprints
+- unrestraints

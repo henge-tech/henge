@@ -1,0 +1,43 @@
+---
+pattern: fac_s
+hi_scored_words_count: 19
+scored_words_count: 5
+total_words: 33
+score: 1460165
+score_per_word: 60840
+hi_scored_words:
+  facades: 50657
+  faceless: 41505
+  faceplates: 78577
+  faces: 2411
+  facetious: 60660
+  facets: 23680
+  facials: 22186
+  facies: 50747
+  facilitates: 22649
+  facilitators: 33604
+  facilities: 2981
+  facings: 96166
+  facsimiles: 73208
+  factions: 16878
+  factoids: 90830
+  factories: 10091
+  factors: 3360
+  facts: 1424
+  faculties: 10242
+scored_words:
+  facelifts: 119071
+  factious: 132476
+  factitious: 102176
+  factorials: 238790
+  factorizations: 175796
+not_scored_words:
+- facecloths
+- facers
+- facetiousness
+- facileness
+- factiousness
+- factitiousness
+- factorizes
+- factotums
+- factualities

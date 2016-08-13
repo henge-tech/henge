@@ -1,0 +1,24 @@
+---
+pattern: res_ns
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 14
+score: 923405
+score_per_word: 83945
+hi_scored_words:
+  reservations: 6053
+  resignations: 51859
+  resigns: 29686
+  resins: 21927
+  resolutions: 6903
+  restorations: 40130
+  restrains: 98576
+  restrictions: 3233
+scored_words:
+  resections: 139537
+  resubmissions: 337253
+  resurrections: 188248
+not_scored_words:
+- resharpens
+- restrengthens
+- resumptions

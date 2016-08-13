@@ -1,0 +1,30 @@
+---
+pattern: mani_s
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1031945
+score_per_word: 79380
+hi_scored_words:
+  maniacs: 37109
+  manicures: 36330
+  manifestations: 16381
+  manifestos: 65348
+  manifests: 25664
+  manifolds: 29535
+  manipulates: 57916
+  manipulations: 38947
+  manipulators: 63933
+scored_words:
+  manias: 192055
+  manics: 142921
+  manicurists: 172822
+  manikins: 152984
+not_scored_words:
+- Manilas
+- Manizales
+- manicottis
+- manifoldness
+- maniocs
+- manipulabilities
+- manipulativeness

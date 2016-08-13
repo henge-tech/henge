@@ -1,0 +1,22 @@
+---
+pattern: or_ed
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 326955
+score_per_word: 32695
+hi_scored_words:
+  orchestrated: 32781
+  ordained: 13510
+  ordered: 1907
+  organized: 2699
+  orientated: 30642
+  oriented: 3641
+  originated: 17013
+  ornamented: 59000
+  orphaned: 31359
+scored_words:
+  orbited: 134403
+not_scored_words:
+- orated
+- orientalized

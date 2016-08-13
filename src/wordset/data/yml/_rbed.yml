@@ -1,0 +1,28 @@
+---
+pattern: _rbed
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 18
+score: 1878608
+score_per_word: 104367
+hi_scored_words:
+  absorbed: 7461
+  adsorbed: 43657
+  barbed: 28235
+  curbed: 45782
+  disturbed: 4935
+  featherbed: 96713
+  perturbed: 39991
+  riverbed: 52177
+  undisturbed: 27172
+  unperturbed: 84588
+  waterbed: 74472
+scored_words:
+  airbed: 203842
+  chemisorbed: 317616
+  flowerbed: 192030
+  garbed: 148552
+  reabsorbed: 135893
+  sorbed: 158650
+  unabsorbed: 216842
+not_scored_words: []

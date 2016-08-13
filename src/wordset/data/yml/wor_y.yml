@@ -1,0 +1,28 @@
+---
+pattern: wor_y
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 18
+score: 1229615
+score_per_word: 87829
+hi_scored_words:
+  wordplay: 51536
+  wordy: 52002
+  workability: 97722
+  workday: 35674
+  worldly: 14734
+  worry: 3038
+  worthily: 95530
+  worthy: 4042
+scored_words:
+  wordlessly: 166889
+  workaday: 111371
+  workshy: 153224
+  wormy: 135233
+  worriedly: 199961
+  worryingly: 108659
+not_scored_words:
+- wordily
+- workmanly
+- worshipfully
+- worthlessly

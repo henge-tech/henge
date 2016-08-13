@@ -1,0 +1,29 @@
+---
+pattern: tr_led
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 19
+score: 1203174
+score_per_word: 85941
+hi_scored_words:
+  trailed: 32704
+  trampled: 36776
+  traveled: 7241
+  trembled: 30641
+  trickled: 73011
+  tripled: 35832
+  trolled: 64815
+  troubled: 6584
+scored_words:
+  trawled: 135936
+  trebled: 109380
+  trialed: 155438
+  trifled: 124688
+  trilled: 216649
+  trundled: 173479
+not_scored_words:
+- trammeled
+- travailed
+- treadled
+- troweled
+- truckled

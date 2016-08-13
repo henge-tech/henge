@@ -1,0 +1,32 @@
+---
+pattern: p_etic
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1347784
+score_per_word: 84236
+hi_scored_words:
+  paramagnetic: 61268
+  parasympathetic: 77642
+  pathetic: 9961
+  peripatetic: 78009
+  phonetic: 26436
+  photosynthetic: 44664
+  phylogenetic: 26259
+  poetic: 10134
+  polyphyletic: 84122
+  prophetic: 18085
+  prosthetic: 28786
+scored_words:
+  paretic: 103980
+  parthenogenetic: 188727
+  phyletic: 281928
+  polysynthetic: 107885
+  psychokinetic: 199898
+not_scored_words:
+- Peripatetic
+- palingenetic
+- parenthetic
+- psychotomimetic
+- pyretic
+- pyromagnetic

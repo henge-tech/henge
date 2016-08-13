@@ -1,0 +1,39 @@
+---
+pattern: mo_ies
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 29
+score: 1540471
+score_per_word: 85581
+hi_scored_words:
+  modalities: 22623
+  modifies: 28580
+  moieties: 88676
+  mommies: 58251
+  monarchies: 69013
+  monasteries: 27711
+  monies: 21000
+  monopolies: 31688
+  morphologies: 97670
+  mounties: 98331
+  movies: 8095
+scored_words:
+  mobilities: 128479
+  mockeries: 151442
+  mollies: 161187
+  monstrosities: 113234
+  monthlies: 129728
+  moralities: 170104
+  mortuaries: 134659
+not_scored_words:
+- Monopolies
+- Mounties
+- molarities
+- mollifies
+- monandries
+- monodies
+- monogynies
+- monolatries
+- mortifies
+- motivities
+- movabilities

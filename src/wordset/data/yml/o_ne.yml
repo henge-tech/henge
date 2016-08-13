@@ -1,0 +1,48 @@
+---
+pattern: o_ne
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 38
+score: 1931052
+score_per_word: 80460
+hi_scored_words:
+  obscene: 16077
+  octane: 29241
+  offline: 8984
+  olivine: 53974
+  oncogene: 37398
+  one: 36
+  online: 679
+  opine: 79090
+  opportune: 43736
+  ornithine: 67580
+  outdone: 47769
+  outline: 4285
+  outshine: 94904
+  overdone: 46249
+  overtone: 83466
+  ovine: 77705
+  ozone: 14548
+scored_words:
+  opaline: 160150
+  organochlorine: 106486
+  outshone: 168324
+  overborne: 262877
+  overline: 140417
+  oxyacetylene: 235793
+  oxytetracycline: 151284
+not_scored_words:
+- Oenone
+- Oligocene
+- Osborne
+- ochone
+- oilstone
+- oleomargarine
+- organzine
+- orpine
+- oscine
+- overdetermine
+- overincline
+- overrefine
+- overshine
+- oxazine

@@ -1,0 +1,42 @@
+---
+pattern: bad_
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 32
+score: 1926091
+score_per_word: 83743
+hi_scored_words:
+  bad: 407
+  badder: 91753
+  baddest: 55880
+  baddies: 72485
+  bade: 24644
+  badge: 7747
+  badger: 16462
+  badgers: 22629
+  badges: 15920
+  badinage: 82555
+  badlands: 43186
+  badly: 5021
+  badman: 82773
+  badminton: 18190
+  badness: 28814
+scored_words:
+  baddie: 113727
+  baddy: 257660
+  badged: 118478
+  badgered: 160165
+  badgering: 131289
+  badland: 148415
+  badmouth: 208196
+  badmouthing: 219695
+not_scored_words:
+- Badajoz
+- Badalona
+- Baden
+- Badlands
+- Badoglio
+- badderlocks
+- badmen
+- badmouthed
+- badmouths

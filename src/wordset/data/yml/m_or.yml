@@ -1,0 +1,59 @@
+---
+pattern: m_or
+hi_scored_words_count: 26
+scored_words_count: 7
+total_words: 49
+score: 2199259
+score_per_word: 66644
+hi_scored_words:
+  major: 1102
+  manipulator: 43345
+  manor: 7448
+  masturbator: 89240
+  matador: 24822
+  mayor: 3997
+  mediator: 17704
+  mentor: 13548
+  metaphor: 12207
+  meteor: 18953
+  microprocessor: 24074
+  minor: 2378
+  mirador: 81691
+  mirror: 2680
+  misbehavior: 55743
+  misdemeanor: 24987
+  moderator: 15090
+  modulator: 31862
+  monitor: 6427
+  monsignor: 51623
+  moor: 14064
+  mortgagor: 56747
+  motivator: 44310
+  motor: 2617
+  multicolor: 44890
+  multiprocessor: 55543
+scored_words:
+  macerator: 305786
+  malefactor: 153611
+  meditator: 113882
+  methoxychlor: 245000
+  migrator: 170330
+  mucor: 229314
+  multivibrator: 234244
+not_scored_words:
+- Major
+- Melchior
+- Mentor
+- Mercator
+- Messidor
+- Mogador
+- Monsignor
+- Moor
+- machinator
+- machzor
+- malodor
+- markhor
+- masticator
+- misfeasor
+- mitigator
+- mutilator

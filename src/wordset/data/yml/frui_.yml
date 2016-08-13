@@ -1,0 +1,35 @@
+---
+pattern: frui_
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 25
+score: 1981237
+score_per_word: 110068
+hi_scored_words:
+  fruit: 2002
+  fruitcake: 54016
+  fruitful: 15836
+  fruiting: 55893
+  fruition: 28911
+  fruitless: 30354
+  fruits: 4606
+  fruity: 22669
+scored_words:
+  fruitage: 167293
+  fruitarian: 180771
+  fruitcakes: 160555
+  fruited: 111273
+  fruiterer: 229158
+  fruiterers: 328776
+  fruitfully: 126269
+  fruitfulness: 111235
+  fruitiness: 193458
+  fruitlessly: 158162
+not_scored_words:
+- fruitages
+- fruitarianism
+- fruiter
+- fruitier
+- fruitiest
+- fruitily
+- fruitlessness

@@ -1,0 +1,31 @@
+---
+pattern: p_me
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 21
+score: 1303312
+score_per_word: 72406
+hi_scored_words:
+  palindrome: 74343
+  pantomime: 41019
+  pastime: 25305
+  pathname: 62799
+  peacetime: 44721
+  perfume: 5481
+  phoneme: 54484
+  playtime: 29302
+  plume: 17886
+  polychrome: 80427
+  pregame: 64202
+  presume: 13005
+  prime: 2179
+  primetime: 26039
+scored_words:
+  penname: 259262
+  placename: 122205
+  pome: 154610
+  prodrome: 226043
+not_scored_words:
+- peristome
+- phyllome
+- plasmosome

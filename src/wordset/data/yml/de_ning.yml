@@ -1,0 +1,28 @@
+---
+pattern: de_ning
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 18
+score: 760487
+score_per_word: 63373
+hi_scored_words:
+  deadening: 77423
+  deafening: 37618
+  declining: 18009
+  decommissioning: 31760
+  deepening: 25160
+  defining: 9016
+  demeaning: 52759
+  designing: 6975
+  detaining: 57247
+  determining: 4699
+scored_words:
+  deigning: 159385
+  dethroning: 280436
+not_scored_words:
+- deadpanning
+- dehorning
+- deplaning
+- deponing
+- destining
+- detraining

@@ -1,0 +1,61 @@
+---
+pattern: se_rs
+hi_scored_words_count: 24
+scored_words_count: 10
+total_words: 51
+score: 3042698
+score_per_word: 89491
+hi_scored_words:
+  seafarers: 54810
+  sealers: 58217
+  searchers: 40447
+  sears: 14014
+  sectors: 12195
+  seeders: 88110
+  seekers: 12848
+  seers: 68518
+  selectors: 35427
+  sellers: 4462
+  semesters: 20396
+  semiconductors: 17240
+  seminars: 10479
+  senators: 7838
+  senders: 48120
+  seniors: 9266
+  sensors: 6658
+  separators: 43360
+  sequencers: 75212
+  servers: 2245
+  setters: 40529
+  settlers: 8917
+  severs: 77621
+  sewers: 28435
+scored_words:
+  secateurs: 148840
+  seducers: 271654
+  seigneurs: 170325
+  seigniors: 304090
+  seiners: 283184
+  seismometers: 215912
+  semitrailers: 199658
+  sensitizers: 222765
+  servitors: 187595
+  servomotors: 253311
+not_scored_words:
+- Sears
+- Seders
+- Sellers
+- Septembers
+- seafloors
+- seasoners
+- seconders
+- seismographers
+- seizers
+- selenographers
+- seltzers
+- semiquavers
+- senors
+- sensitometers
+- sepulchers
+- sequesters
+- sermonizers

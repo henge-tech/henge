@@ -1,0 +1,36 @@
+---
+pattern: s_ld
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 26
+score: 1477785
+score_per_word: 82099
+hi_scored_words:
+  scaffold: 23448
+  scald: 69153
+  scold: 44295
+  sevenfold: 32086
+  shield: 4143
+  should: 92
+  sld: 47881
+  sold: 1261
+  stepchild: 74684
+  stranglehold: 64583
+  stronghold: 19718
+  subfield: 66093
+scored_words:
+  schoolchild: 251415
+  sheepfold: 124432
+  sixfold: 145870
+  skald: 157708
+  snowfield: 202257
+  subthreshold: 148666
+not_scored_words:
+- Schwarzwald
+- Seinfeld
+- Sheffield
+- Skuld
+- Springfield
+- sild
+- skewbald
+- stokehold

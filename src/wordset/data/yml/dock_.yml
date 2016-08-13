@@ -1,0 +1,31 @@
+---
+pattern: dock_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 21
+score: 1595065
+score_per_word: 93827
+hi_scored_words:
+  dock: 9582
+  docked: 40461
+  docker: 85181
+  dockers: 39617
+  docket: 20039
+  dockets: 70343
+  docking: 18070
+  docklands: 37260
+  docks: 17902
+  dockside: 68443
+  dockyard: 54110
+scored_words:
+  dockage: 168464
+  docketed: 123349
+  docketing: 217011
+  dockland: 222130
+  dockworkers: 251941
+  dockyards: 151162
+not_scored_words:
+- dockages
+- dockhand
+- dockhands
+- dockworker

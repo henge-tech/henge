@@ -1,0 +1,40 @@
+---
+pattern: _offs
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 30
+score: 1643758
+score_per_word: 102734
+hi_scored_words:
+  cutoffs: 85184
+  kickoffs: 90677
+  knockoffs: 59113
+  layoffs: 30685
+  offs: 12261
+  payoffs: 43377
+  playoffs: 9250
+  scoffs: 99191
+  spinoffs: 84137
+scored_words:
+  castoffs: 293376
+  handoffs: 168654
+  ripoffs: 147335
+  runoffs: 181209
+  standoffs: 111628
+  takeoffs: 110790
+  toffs: 116891
+not_scored_words:
+- blastoffs
+- brushoffs
+- checkoffs
+- doffs
+- falloffs
+- feoffs
+- kissoffs
+- liftoffs
+- logoffs
+- selloffs
+- sendoffs
+- showoffs
+- shutoffs
+- turnoffs

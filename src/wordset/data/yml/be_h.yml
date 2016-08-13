@@ -1,0 +1,30 @@
+---
+pattern: be_h
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 20
+score: 830261
+score_per_word: 59304
+hi_scored_words:
+  beach: 1407
+  bearish: 59458
+  beech: 14830
+  behemoth: 36658
+  belch: 67533
+  bench: 4331
+  beneath: 3839
+  bequeath: 51349
+  berth: 18234
+  beseech: 32832
+  beth: 7565
+scored_words:
+  besmirch: 155950
+  betroth: 229438
+  bewitch: 146837
+not_scored_words:
+- Beach
+- Bench
+- Bernbach
+- Beth
+- Beulah
+- Beyrouth

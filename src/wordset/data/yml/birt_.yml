@@ -1,0 +1,32 @@
+---
+pattern: birt_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 22
+score: 946245
+score_per_word: 63083
+hi_scored_words:
+  birth: 1459
+  birthday: 2708
+  birthdays: 17514
+  birthed: 73934
+  birthing: 39123
+  birthmark: 79680
+  birthplace: 14587
+  birthright: 33689
+  births: 9526
+  birthstone: 43516
+  birthstones: 48608
+scored_words:
+  birthmarks: 127254
+  birthplaces: 158890
+  birthrate: 117091
+  birthrates: 178666
+not_scored_words:
+- birther
+- birthers
+- birthrights
+- birthroot
+- birthroots
+- birthwort
+- birthworts

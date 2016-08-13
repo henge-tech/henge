@@ -1,0 +1,29 @@
+---
+pattern: _ucts
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 19
+score: 1661085
+score_per_word: 103817
+hi_scored_words:
+  adducts: 77458
+  aqueducts: 91049
+  byproducts: 53687
+  conducts: 15275
+  constructs: 20975
+  ducts: 31281
+  instructs: 35072
+  obstructs: 88772
+  products: 1046
+scored_words:
+  abducts: 163727
+  deconstructs: 169845
+  deducts: 156339
+  destructs: 234513
+  inducts: 247722
+  reconstructs: 104962
+  viaducts: 169362
+not_scored_words:
+- eructs
+- misconducts
+- oviducts

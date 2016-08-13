@@ -1,0 +1,30 @@
+---
+pattern: seam_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 20
+score: 1209799
+score_per_word: 80653
+hi_scored_words:
+  seam: 18659
+  seaman: 19069
+  seamanship: 60387
+  seamed: 59601
+  seamen: 27860
+  seamless: 15253
+  seamlessly: 25280
+  seamount: 89168
+  seams: 21297
+  seamstress: 53929
+scored_words:
+  seamark: 246259
+  seaming: 132147
+  seamounts: 126189
+  seamstresses: 155635
+  seamy: 159066
+not_scored_words:
+- Seaman
+- seamanlike
+- seamier
+- seamiest
+- seaminess

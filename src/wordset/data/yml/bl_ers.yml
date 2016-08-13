@@ -1,0 +1,44 @@
+---
+pattern: bl_ers
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 34
+score: 2221446
+score_per_word: 100974
+hi_scored_words:
+  bladders: 73785
+  blasters: 46893
+  blazers: 20817
+  bleachers: 38718
+  blenders: 43436
+  blinders: 81174
+  blinkers: 84746
+  blisters: 33738
+  blockbusters: 52771
+  blockers: 21624
+  bloggers: 7481
+  bloomers: 68148
+  bloopers: 46367
+  blowers: 33223
+  blunders: 39197
+scored_words:
+  blackmailers: 202551
+  blasphemers: 226076
+  blathers: 340345
+  bleeders: 176692
+  blighters: 275947
+  bloodsuckers: 166133
+  blotters: 141584
+not_scored_words:
+- blabbers
+- bleepers
+- blithers
+- bloaters
+- blockaders
+- blubbers
+- bluchers
+- bluffers
+- blunderers
+- blushers
+- blusterers
+- blusters

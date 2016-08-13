@@ -1,0 +1,51 @@
+---
+pattern: t_sts
+hi_scored_words_count: 13
+scored_words_count: 14
+total_words: 41
+score: 2917839
+score_per_word: 108068
+hi_scored_words:
+  technologists: 34115
+  terrorists: 5855
+  tests: 2432
+  theists: 59048
+  theorists: 25465
+  therapists: 11536
+  thrusts: 41062
+  toasts: 47569
+  tourists: 8596
+  traditionalists: 66231
+  trusts: 8331
+  twists: 21126
+  typists: 66602
+scored_words:
+  tattooists: 164891
+  taxidermists: 169437
+  taxonomists: 123432
+  telecasts: 111767
+  teleosts: 213929
+  televangelists: 246605
+  tempests: 101577
+  theosophists: 180339
+  thirsts: 156357
+  tobacconists: 171483
+  toxicologists: 162899
+  transcendentalists: 246218
+  trombonists: 278840
+  trysts: 192097
+not_scored_words:
+- Taoists
+- Trappists
+- telegraphists
+- telepathists
+- telephonists
+- theologists
+- timpanists
+- titlists
+- tobogganists
+- topmasts
+- topologists
+- tsarists
+- tympanists
+- typecasts

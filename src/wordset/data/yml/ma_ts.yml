@@ -1,0 +1,55 @@
+---
+pattern: ma_ts
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 45
+score: 2213504
+score_per_word: 100613
+hi_scored_words:
+  machinists: 54931
+  maggots: 53135
+  magnets: 16197
+  mallets: 64168
+  malts: 70201
+  managements: 70002
+  manifests: 25664
+  manuscripts: 10973
+  markets: 3250
+  marts: 58855
+  mascots: 39232
+  masts: 34625
+  mats: 10644
+scored_words:
+  maidservants: 282385
+  mailshots: 320287
+  malcontents: 118755
+  maltreats: 206847
+  manicurists: 172822
+  marmosets: 179719
+  marmots: 139752
+  masochists: 165466
+  materialists: 115594
+not_scored_words:
+- MATS
+- Magnificats
+- Maoists
+- Marxists
+- Massachusets
+- Massachusetts
+- madrigalists
+- madworts
+- mahouts
+- maillots
+- mainmasts
+- mainsheets
+- makeshifts
+- makeweights
+- maledicts
+- malfeasants
+- malnourishments
+- mangetouts
+- manhunts
+- mantelets
+- manumits
+- marabouts
+- martinets

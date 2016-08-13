@@ -1,0 +1,62 @@
+---
+pattern: sta_d
+hi_scored_words_count: 30
+scored_words_count: 5
+total_words: 52
+score: 1815818
+score_per_word: 51880
+hi_scored_words:
+  stabbed: 21287
+  stabilized: 20876
+  stacked: 16412
+  staffed: 19201
+  staged: 22791
+  staggered: 23944
+  stagnated: 85158
+  staid: 44218
+  stained: 7950
+  staked: 41874
+  stalked: 39278
+  stalled: 28833
+  stammered: 56643
+  stamped: 10620
+  stand: 839
+  standard: 1001
+  standardized: 18511
+  stapled: 51348
+  starboard: 24866
+  starched: 99102
+  stared: 10439
+  starred: 19795
+  started: 579
+  startled: 17051
+  starved: 27682
+  stashed: 61594
+  stated: 1622
+  statehood: 37295
+  stationed: 13075
+  stayed: 3364
+scored_words:
+  stabled: 144838
+  stagehand: 252544
+  stalemated: 256628
+  stampeded: 159358
+  staved: 175202
+not_scored_words:
+- Stafford
+- Stalinabad
+- Stalingrad
+- Stamford
+- Stanford
+- staggard
+- staghound
+- stairhead
+- staled
+- stanched
+- stanchioned
+- stanzaed
+- stargazed
+- statemented
+- statfarad
+- statued
+- staunched

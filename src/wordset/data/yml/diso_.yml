@@ -1,0 +1,46 @@
+---
+pattern: diso_
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 36
+score: 2789505
+score_per_word: 111580
+hi_scored_words:
+  disobedience: 21290
+  disobedient: 52128
+  disobey: 38794
+  disobeyed: 67656
+  disobeying: 75418
+  disorder: 3951
+  disordered: 24564
+  disorderly: 27261
+  disorders: 4540
+  disorganization: 62151
+  disorganized: 37685
+  disorientation: 56483
+  disoriented: 50435
+  disorienting: 98979
+  disown: 68008
+  disowned: 74930
+scored_words:
+  disobeys: 152754
+  disoblige: 307241
+  disobliging: 209628
+  disordering: 278690
+  disorient: 150531
+  disorientated: 171439
+  disorientating: 265989
+  disowning: 230976
+  disowns: 257984
+not_scored_words:
+- disobediently
+- disobliged
+- disobliges
+- disoperation
+- disorderliness
+- disorganize
+- disorganizes
+- disorganizing
+- disorientate
+- disorientates
+- disorients

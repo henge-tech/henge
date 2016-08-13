@@ -1,0 +1,32 @@
+---
+pattern: bi_rs
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 22
+score: 1473247
+score_per_word: 105231
+hi_scored_words:
+  bidders: 20329
+  bikers: 21431
+  binders: 25713
+  binoculars: 14089
+  biographers: 74166
+  biosensors: 83086
+  birders: 71152
+  bitters: 65192
+scored_words:
+  bibliographers: 305861
+  bickers: 165176
+  bioreactors: 133073
+  birdwatchers: 114172
+  bisectors: 248618
+  biters: 131189
+not_scored_words:
+- bickerers
+- bicyclers
+- biers
+- bilkers
+- billposters
+- birrs
+- birthers
+- bisters

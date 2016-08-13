@@ -1,0 +1,27 @@
+---
+pattern: el_ic
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 901700
+score_per_word: 69361
+hi_scored_words:
+  elastic: 8960
+  electric: 1934
+  electrolytic: 48965
+  electromagnetic: 14131
+  electronic: 902
+  electrophoretic: 58331
+  electrostatic: 24505
+  elliptic: 27273
+scored_words:
+  electrocardiographic: 101193
+  electrodynamic: 166165
+  electroencephalographic: 152786
+  electrokinetic: 165043
+  electrophilic: 131512
+not_scored_words:
+- Elamitic
+- Eleatic
+- electroscopic
+- electrotypic

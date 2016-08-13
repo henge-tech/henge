@@ -1,0 +1,26 @@
+---
+pattern: ins_ble
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 990436
+score_per_word: 82536
+hi_scored_words:
+  insatiable: 28593
+  inscrutable: 44561
+  insensible: 59210
+  inseparable: 25892
+  insoluble: 27236
+  insufferable: 58475
+  insuperable: 82262
+  insurable: 74302
+  insurmountable: 36118
+scored_words:
+  insolvable: 236512
+  instable: 200133
+  insupportable: 117142
+not_scored_words:
+- inseverable
+- insociable
+- insuppressible
+- insusceptible

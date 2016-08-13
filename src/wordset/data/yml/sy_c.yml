@@ -1,0 +1,48 @@
+---
+pattern: sy_c
+hi_scored_words_count: 17
+scored_words_count: 12
+total_words: 38
+score: 2593549
+score_per_word: 89432
+hi_scored_words:
+  syllabic: 89121
+  symbiotic: 39515
+  symbolic: 8977
+  symmetric: 17107
+  sympathetic: 9846
+  symphonic: 29374
+  symptomatic: 31649
+  synaptic: 23608
+  sync: 12321
+  syndic: 96153
+  synergistic: 38587
+  synoptic: 36682
+  syntactic: 22593
+  synthetic: 11241
+  systematic: 6767
+  systemic: 13563
+  systolic: 30510
+scored_words:
+  sybaritic: 166229
+  sycophantic: 126026
+  syllogistic: 208410
+  synchronic: 113778
+  syncretic: 142425
+  syncretistic: 104374
+  syndetic: 281057
+  syndromic: 159765
+  synergetic: 150007
+  synergic: 233119
+  synodic: 248314
+  syphilitic: 142431
+not_scored_words:
+- Syriac
+- sylleptic
+- sylphic
+- symposiac
+- synclastic
+- synecdochic
+- synonymic
+- syntonic
+- systaltic

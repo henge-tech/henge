@@ -1,0 +1,38 @@
+---
+pattern: com_ts
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 28
+score: 1720165
+score_per_word: 71673
+hi_scored_words:
+  combatants: 24847
+  combats: 54342
+  comets: 26059
+  comforts: 17989
+  commandments: 14124
+  comments: 2277
+  commitments: 9588
+  commits: 12640
+  communists: 20191
+  compacts: 49130
+  compartments: 21664
+  compatriots: 49889
+  complainants: 48709
+  complaints: 4177
+  complements: 23290
+  compliments: 11505
+  components: 8243
+scored_words:
+  commandants: 185941
+  commencements: 156604
+  communicants: 121588
+  completists: 246912
+  complots: 302405
+  comports: 163993
+  composts: 144058
+not_scored_words:
+- Communists
+- combusts
+- comfits
+- commissariats

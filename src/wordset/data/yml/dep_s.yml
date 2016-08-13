@@ -1,0 +1,66 @@
+---
+pattern: dep_s
+hi_scored_words_count: 25
+scored_words_count: 12
+total_words: 56
+score: 3188121
+score_per_word: 86165
+hi_scored_words:
+  departments: 3131
+  departs: 26426
+  departures: 21513
+  dependencies: 16634
+  dependents: 22496
+  depends: 2406
+  depictions: 30602
+  depicts: 20745
+  deplores: 97855
+  deployments: 23520
+  deploys: 45865
+  deportations: 70274
+  depositions: 41069
+  depositories: 67335
+  depositors: 52192
+  deposits: 6507
+  depots: 35682
+  depredations: 83413
+  depress: 34798
+  depressants: 38648
+  depresses: 70066
+  depressions: 42048
+  deprives: 60594
+  depths: 8148
+  deputies: 18639
+scored_words:
+  depilatories: 217172
+  depletes: 116413
+  depolarizations: 292394
+  deportees: 108778
+  deports: 285878
+  deposes: 200303
+  depreciates: 170359
+  depressives: 211082
+  depressors: 229060
+  deprivations: 116262
+  deputations: 134769
+  deputes: 165045
+not_scored_words:
+- departmentalizes
+- dependableness
+- dependablenesses
+- depersonalizes
+- deplanes
+- deplumes
+- depolarizes
+- depoliticizes
+- deponents
+- depones
+- depopulates
+- depraves
+- depravities
+- deprecates
+- deprecations
+- depreciators
+- depressurizes
+- deprograms
+- deputizes

@@ -1,0 +1,65 @@
+---
+pattern: _ware
+hi_scored_words_count: 24
+scored_words_count: 16
+total_words: 55
+score: 3496745
+score_per_word: 87418
+hi_scored_words:
+  adware: 34734
+  aware: 1706
+  beware: 8597
+  cookware: 26327
+  dinnerware: 37228
+  earthenware: 38758
+  firmware: 16870
+  flatware: 42106
+  freeware: 19598
+  glassware: 21077
+  groupware: 46250
+  hardware: 2974
+  kitchenware: 46303
+  malware: 18042
+  metalware: 85244
+  shareware: 23633
+  silverware: 27196
+  software: 997
+  spyware: 8846
+  stemware: 95820
+  stoneware: 32103
+  tableware: 30306
+  unaware: 11117
+  ware: 8750
+scored_words:
+  bloatware: 183211
+  brassware: 163577
+  chinaware: 146245
+  crippleware: 139563
+  delftware: 282681
+  dishware: 162265
+  enamelware: 147531
+  graniteware: 151088
+  hollowware: 133653
+  ovenware: 145773
+  payware: 194501
+  redware: 280661
+  tinware: 231598
+  vaporware: 106048
+  wetware: 231025
+  woodenware: 112743
+not_scored_words:
+- Delaware
+- Slackware
+- Tupperware
+- Ware
+- agateware
+- basaltware
+- crackleware
+- ironware
+- liveware
+- lusterware
+- nagware
+- ransomware
+- seaware
+- treenware
+- willowware

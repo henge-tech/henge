@@ -1,0 +1,38 @@
+---
+pattern: mor_y
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 28
+score: 757331
+score_per_word: 63110
+hi_scored_words:
+  morality: 7349
+  morally: 13401
+  moray: 31393
+  morbidity: 20220
+  morbidly: 71048
+  morphologically: 65114
+  morphology: 16289
+  mortality: 6070
+  mortally: 45981
+  mortuary: 32166
+scored_words:
+  morosely: 280011
+  mortify: 168289
+not_scored_words:
+- Moray
+- Moriarty
+- Morley
+- Mornay
+- Morphy
+- moralistically
+- moralizingly
+- mordaciously
+- mordacity
+- mordancy
+- mordantly
+- moribundity
+- moribundly
+- moronically
+- morphemically
+- mortifyingly

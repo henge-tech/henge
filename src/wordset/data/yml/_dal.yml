@@ -1,0 +1,85 @@
+---
+pattern: _dal
+hi_scored_words_count: 30
+scored_words_count: 10
+total_words: 75
+score: 3522438
+score_per_word: 88060
+hi_scored_words:
+  bactericidal: 74624
+  bimodal: 81680
+  bipedal: 81062
+  bridal: 8539
+  caudal: 43373
+  chordal: 88609
+  colloidal: 34050
+  ellipsoidal: 96534
+  feudal: 19899
+  genocidal: 58748
+  germicidal: 86803
+  gonadal: 67666
+  homicidal: 56102
+  insecticidal: 87614
+  intertidal: 51598
+  medal: 5679
+  modal: 20720
+  nodal: 35324
+  nonsteroidal: 68000
+  pedal: 16184
+  pyramidal: 37903
+  sandal: 23673
+  scandal: 6860
+  sinusoidal: 41514
+  steroidal: 66166
+  suicidal: 20765
+  tidal: 14739
+  toroidal: 61673
+  trapezoidal: 63043
+  vandal: 43025
+scored_words:
+  antipodal: 185340
+  backpedal: 245193
+  fratricidal: 238681
+  fungicidal: 176726
+  hemorrhoidal: 207114
+  herbicidal: 308223
+  solenoidal: 263653
+  spermicidal: 162032
+  spheroidal: 115243
+  synodal: 158064
+not_scored_words:
+- Barmecidal
+- Myrdal
+- Randal
+- Tindal
+- Vandal
+- Vidal
+- acaudal
+- adenoidal
+- alkaloidal
+- anodal
+- apodal
+- apsidal
+- botryoidal
+- cathodal
+- conchoidal
+- cotidal
+- dedal
+- ecocidal
+- hebdomadal
+- lunitidal
+- matricidal
+- ovoidal
+- paludal
+- parricidal
+- patricidal
+- poundal
+- quadrupedal
+- regicidal
+- rhomboidal
+- sendal
+- septicidal
+- thyroidal
+- tripedal
+- tripodal
+- tyrannicidal

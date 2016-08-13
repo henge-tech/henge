@@ -1,0 +1,25 @@
+---
+pattern: _rits
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 15
+score: 561215
+score_per_word: 62357
+hi_scored_words:
+  brits: 21230
+  culprits: 45019
+  demerits: 82825
+  grits: 37621
+  inherits: 37273
+  merits: 8268
+  spirits: 3682
+  writs: 42507
+scored_words:
+  sprits: 282790
+not_scored_words:
+- Brits
+- bowsprits
+- disinherits
+- dispirits
+- inspirits
+- preterits

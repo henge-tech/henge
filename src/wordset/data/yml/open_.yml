@@ -1,0 +1,27 @@
+---
+pattern: open_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 17
+score: 390492
+score_per_word: 35499
+hi_scored_words:
+  open: 197
+  opened: 1553
+  opener: 13024
+  openers: 28064
+  opening: 1365
+  openings: 8747
+  openly: 7876
+  openness: 16780
+  opens: 3680
+scored_words:
+  opencast: 145849
+  openwork: 163357
+not_scored_words:
+- OpenOffice
+- openest
+- openhanded
+- openhandedly
+- openhandedness
+- openhearted

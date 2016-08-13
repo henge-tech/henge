@@ -1,0 +1,37 @@
+---
+pattern: e_les
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 27
+score: 1656430
+score_per_word: 103526
+hi_scored_words:
+  eagles: 6849
+  edibles: 57268
+  enables: 5009
+  encircles: 92246
+  ensembles: 23474
+  entitles: 39768
+  epistles: 39241
+  examples: 2095
+  exiles: 28923
+scored_words:
+  eatables: 219140
+  ennobles: 127290
+  entangles: 280055
+  epicycles: 288439
+  espadrilles: 186990
+  exhales: 117410
+  expendables: 142233
+not_scored_words:
+- Eccles
+- Empedocles
+- Eteocles
+- embezzles
+- embrangles
+- empales
+- empurples
+- enfeebles
+- enkindles
+- ensiles
+- escaroles

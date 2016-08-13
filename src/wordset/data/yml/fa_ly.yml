@@ -1,0 +1,47 @@
+---
+pattern: fa_ly
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 37
+score: 2035041
+score_per_word: 92501
+hi_scored_words:
+  fabulously: 53985
+  factually: 48265
+  faintly: 28179
+  fairly: 2543
+  faithfully: 14132
+  falsely: 20884
+  familiarly: 88578
+  family: 186
+  famously: 34410
+  fantastically: 43920
+  fashionably: 74636
+  fatally: 31517
+  fatherly: 61813
+  favorably: 19862
+scored_words:
+  facetiously: 134646
+  facially: 118725
+  falteringly: 228188
+  fanatically: 137148
+  fancifully: 244219
+  fascinatingly: 194419
+  fastidiously: 239861
+  faultlessly: 214925
+not_scored_words:
+- facilely
+- factiously
+- factitiously
+- faithlessly
+- fallaciously
+- fallibly
+- fancily
+- farcically
+- fatalistically
+- fatefully
+- fatly
+- fatuously
+- faultily
+- faunally
+- fawningly

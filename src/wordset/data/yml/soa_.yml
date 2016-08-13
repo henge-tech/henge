@@ -1,0 +1,45 @@
+---
+pattern: soa_
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 35
+score: 1465634
+score_per_word: 77138
+hi_scored_words:
+  soak: 15854
+  soaked: 16075
+  soaker: 86307
+  soaking: 23086
+  soaks: 66321
+  soap: 7615
+  soapbox: 33732
+  soaps: 16745
+  soapstone: 67894
+  soapy: 52137
+  soar: 15810
+  soared: 31195
+  soaring: 16978
+  soars: 40184
+scored_words:
+  soakers: 212305
+  soaped: 212350
+  soaping: 172023
+  soapsuds: 266096
+  soave: 112927
+not_scored_words:
+- Soave
+- Soaves
+- soakage
+- soakages
+- soakings
+- soapbark
+- soapberries
+- soapberry
+- soapboxes
+- soapier
+- soapiest
+- soapily
+- soapiness
+- soapwort
+- soapworts
+- soaringly

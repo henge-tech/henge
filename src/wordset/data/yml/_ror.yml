@@ -1,0 +1,22 @@
+---
+pattern: _ror
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 12
+score: 399687
+score_per_word: 36335
+hi_scored_words:
+  conqueror: 23173
+  emperor: 4622
+  error: 1239
+  furor: 54895
+  horror: 2746
+  juror: 31435
+  mirror: 2680
+  offeror: 66392
+  terror: 3206
+  transferor: 66776
+scored_words:
+  conjuror: 142523
+not_scored_words:
+- nonjuror

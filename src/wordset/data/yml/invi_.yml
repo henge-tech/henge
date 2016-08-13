@@ -1,0 +1,54 @@
+---
+pattern: invi_
+hi_scored_words_count: 18
+scored_words_count: 12
+total_words: 44
+score: 2959092
+score_per_word: 98636
+hi_scored_words:
+  invidious: 71705
+  invigorate: 66244
+  invigorated: 82981
+  invigorating: 43529
+  invincibility: 76649
+  invincible: 20104
+  inviolable: 61536
+  invisibility: 42258
+  invisible: 5062
+  invisibly: 65577
+  invitation: 4588
+  invitational: 17259
+  invitations: 9959
+  invite: 3966
+  invited: 2720
+  invitees: 86736
+  invites: 11222
+  inviting: 9659
+scored_words:
+  invigilation: 282388
+  invigilator: 188403
+  invigilators: 298389
+  invigorates: 191682
+  invigoration: 223019
+  inviolability: 113602
+  inviolably: 200328
+  inviolate: 101463
+  inviscid: 129670
+  invitationals: 253341
+  invitee: 131611
+  invitingly: 163442
+not_scored_words:
+- invidiously
+- invidiousness
+- invigilate
+- invigilated
+- invigilates
+- invigilating
+- invigoratingly
+- invigorative
+- invincibly
+- inviolacy
+- inviolately
+- inviolateness
+- invisibilities
+- invitatory

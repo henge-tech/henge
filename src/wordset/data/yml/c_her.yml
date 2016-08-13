@@ -1,0 +1,36 @@
+---
+pattern: c_her
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 26
+score: 999069
+score_per_word: 76851
+hi_scored_words:
+  calligrapher: 79701
+  cartographer: 60930
+  catcher: 23203
+  choreographer: 31357
+  cinematographer: 31156
+  cipher: 19511
+  clincher: 64623
+  crasher: 88538
+  cruncher: 90655
+  crusher: 31110
+  cypher: 47063
+scored_words:
+  cowcatcher: 221582
+  cryptographer: 209640
+not_scored_words:
+- Cather
+- Cher
+- Christopher
+- cherisher
+- choregrapher
+- chronopher
+- cither
+- coacher
+- cosher
+- cosmographer
+- couther
+- cowpuncher
+- crystallographer

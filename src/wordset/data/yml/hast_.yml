@@ -1,0 +1,26 @@
+---
+pattern: hast_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 573683
+score_per_word: 57368
+hi_scored_words:
+  hast: 11203
+  haste: 14448
+  hasten: 24098
+  hastened: 28835
+  hastening: 68827
+  hastens: 93692
+  hastily: 17591
+  hasty: 19244
+scored_words:
+  hasted: 161440
+  hasting: 134305
+not_scored_words:
+- Hastings
+- hastate
+- hastes
+- hastier
+- hastiest
+- hastiness

@@ -1,0 +1,42 @@
+---
+pattern: wind_s
+hi_scored_words_count: 9
+scored_words_count: 12
+total_words: 32
+score: 2738168
+score_per_word: 130388
+hi_scored_words:
+  winders: 63526
+  windings: 49782
+  windlass: 68323
+  windmills: 35137
+  windowless: 89533
+  windows: 672
+  winds: 3439
+  windscreens: 90893
+  windshields: 68994
+scored_words:
+  windbreakers: 192033
+  windbreaks: 139206
+  windfalls: 131807
+  windjammers: 318164
+  windlasses: 202365
+  windless: 158422
+  windowpanes: 251474
+  windowsills: 191841
+  windrows: 237856
+  windsocks: 100611
+  windstorms: 205503
+  windsurfers: 138587
+not_scored_words:
+- Windows
+- Windsors
+- windages
+- windbags
+- windcheaters
+- windflowers
+- windiness
+- windowdress
+- windpipes
+- windsurfs
+- windups

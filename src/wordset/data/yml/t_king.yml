@@ -1,0 +1,36 @@
+---
+pattern: t_king
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 26
+score: 1320145
+score_per_word: 66007
+hi_scored_words:
+  tacking: 57497
+  taking: 546
+  talking: 1060
+  tanking: 87291
+  tasking: 39772
+  thanking: 21211
+  thinking: 925
+  ticking: 21579
+  tracking: 6654
+  trafficking: 18067
+  trekking: 20546
+  tricking: 58685
+  trucking: 17913
+  trunking: 65207
+  tucking: 65536
+  tweaking: 24619
+scored_words:
+  teleworking: 121386
+  toking: 225927
+  toolmaking: 211402
+  troublemaking: 254322
+not_scored_words:
+- tarmacking
+- thwacking
+- ticktacking
+- tomahawking
+- trademarking
+- twerking

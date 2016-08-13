@@ -1,0 +1,33 @@
+---
+pattern: conf_es
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 23
+score: 1750924
+score_per_word: 116728
+hi_scored_words:
+  confederates: 45675
+  conferees: 68515
+  conferences: 5040
+  confesses: 39822
+  confidences: 71269
+  confides: 97864
+  configures: 63106
+  confines: 20213
+  confuses: 41542
+scored_words:
+  confederacies: 126628
+  confidantes: 307086
+  confiscates: 200964
+  conflates: 204789
+  confluences: 216359
+  confreres: 242052
+not_scored_words:
+- Confederates
+- confabulates
+- confectioneries
+- confitures
+- confluxes
+- confraternities
+- confrères
+- confutes

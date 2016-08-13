@@ -1,0 +1,68 @@
+---
+pattern: sed_
+hi_scored_words_count: 28
+scored_words_count: 7
+total_words: 58
+score: 2706717
+score_per_word: 77334
+hi_scored_words:
+  sedan: 12957
+  sedans: 38662
+  sedate: 47734
+  sedated: 64663
+  sedation: 31032
+  sedative: 37824
+  sedatives: 50628
+  sedentary: 32245
+  sedge: 40780
+  sedges: 91980
+  sediment: 13003
+  sedimentary: 29622
+  sedimentation: 26984
+  sedimentology: 98421
+  sediments: 15416
+  sedition: 33321
+  seditious: 61087
+  seduce: 25816
+  seduced: 29104
+  seducer: 78249
+  seduces: 47168
+  seducing: 46390
+  seduction: 20782
+  seductions: 98057
+  seductive: 20133
+  seductively: 84616
+  seductress: 98094
+  sedum: 88653
+scored_words:
+  sedately: 221443
+  sedating: 133570
+  sedimented: 217372
+  seducers: 271654
+  seductiveness: 266828
+  sedulous: 100605
+  sedulously: 131824
+not_scored_words:
+- Sedan
+- Seddon
+- Seder
+- Seders
+- Sedgemoor
+- Sedna
+- sedateness
+- sedater
+- sedates
+- sedatest
+- sedentarily
+- sedentariness
+- sedgy
+- seditionist
+- seditiously
+- seditiousness
+- seducible
+- seductresses
+- sedulities
+- sedulity
+- sedulousness
+- sedulousnesses
+- sedums

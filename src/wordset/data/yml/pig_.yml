@@ -1,0 +1,64 @@
+---
+pattern: pig_
+hi_scored_words_count: 20
+scored_words_count: 15
+total_words: 54
+score: 3772789
+score_per_word: 107793
+hi_scored_words:
+  pig: 5366
+  pigeon: 11295
+  pigeonhole: 83443
+  pigeons: 21731
+  piggies: 75553
+  piggy: 21638
+  piggyback: 49277
+  pigheaded: 54631
+  piglet: 32928
+  piglets: 52172
+  pigment: 18356
+  pigmentation: 46794
+  pigmented: 43873
+  pigments: 29974
+  pigs: 7464
+  pigskin: 56417
+  pigsty: 94182
+  pigtail: 53327
+  pigtailed: 91155
+  pigtails: 48071
+scored_words:
+  pigeonholed: 161904
+  pigeonholes: 253047
+  pigeonholing: 299974
+  piggeries: 208344
+  piggery: 145799
+  piggin: 190709
+  pigging: 115437
+  piggish: 133713
+  piggybacked: 197825
+  piggybacking: 128758
+  piggybacks: 262047
+  pigmentary: 219676
+  pigpen: 120352
+  pigskins: 309348
+  pigweed: 128209
+not_scored_words:
+- Piggott
+- Pigs
+- pigeonwing
+- pigfish
+- pigged
+- piggier
+- piggiest
+- piggishly
+- piggishness
+- pigheadedly
+- pigheadedness
+- pigling
+- pignus
+- pignut
+- pignuts
+- pigpens
+- pigsties
+- pigswill
+- pigweeds

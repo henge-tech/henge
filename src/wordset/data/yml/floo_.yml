@@ -1,0 +1,44 @@
+---
+pattern: floo_
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 34
+score: 1584314
+score_per_word: 72014
+hi_scored_words:
+  flood: 3396
+  flooded: 14032
+  floodgates: 68796
+  flooding: 11137
+  floodlight: 86215
+  floodlights: 76694
+  floodlit: 83682
+  floodplain: 31399
+  floodplains: 64269
+  floods: 10989
+  floodwaters: 69662
+  floor: 935
+  floorboards: 59422
+  floored: 50843
+  flooring: 12684
+  floors: 6354
+scored_words:
+  flooder: 216086
+  floodgate: 127423
+  floodlighting: 196449
+  floodwater: 109142
+  floorboard: 114692
+  floozy: 170013
+not_scored_words:
+- Flood
+- floodings
+- floodlighted
+- floorage
+- floorer
+- floorman
+- floorshow
+- floorshows
+- floorwalker
+- floorwalkers
+- floozie
+- floozies

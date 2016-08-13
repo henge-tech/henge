@@ -1,0 +1,22 @@
+---
+pattern: st_ped
+hi_scored_words_count: 11
+scored_words_count: 0
+total_words: 12
+score: 279129
+score_per_word: 25375
+hi_scored_words:
+  stamped: 10620
+  steeped: 30829
+  stepped: 5845
+  stereotyped: 48231
+  stomped: 55139
+  stooped: 42632
+  stopped: 2077
+  strapped: 23696
+  striped: 13890
+  stripped: 9457
+  stumped: 36713
+scored_words: {}
+not_scored_words:
+- stropped

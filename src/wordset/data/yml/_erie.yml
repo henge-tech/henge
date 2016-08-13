@@ -1,0 +1,37 @@
+---
+pattern: _erie
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 27
+score: 1723554
+score_per_word: 101385
+hi_scored_words:
+  aerie: 80265
+  brasserie: 47164
+  camaraderie: 40275
+  coterie: 66686
+  eerie: 25056
+  faerie: 36397
+  gendarmerie: 80365
+  lingerie: 9551
+  menagerie: 36255
+  patisserie: 80167
+  reverie: 36393
+  rotisserie: 50858
+scored_words:
+  bijouterie: 296035
+  causerie: 311627
+  charcuterie: 149688
+  chinoiserie: 151178
+  gaucherie: 225594
+not_scored_words:
+- Cherie
+- Erie
+- Jacquerie
+- Valerie
+- bizarrerie
+- brusquerie
+- diablerie
+- marqueterie
+- papeterie
+- passementerie

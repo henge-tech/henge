@@ -1,0 +1,45 @@
+---
+pattern: n_sm
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 35
+score: 1699535
+score_per_word: 99972
+hi_scored_words:
+  narcissism: 40361
+  nationalism: 20073
+  naturalism: 45422
+  naturism: 84737
+  neoliberalism: 76139
+  neoplasm: 32102
+  nepotism: 53735
+  nihilism: 45253
+  nudism: 60041
+scored_words:
+  nativism: 152712
+  negativism: 181105
+  neoclassicism: 131988
+  neologism: 115369
+  neuroticism: 128146
+  nomadism: 234950
+  nominalism: 168602
+  nucleoplasm: 128800
+not_scored_words:
+- Nazism
+- Neoclassicism
+- Neoplatonism
+- narcotism
+- necessaritarianism
+- necessitarianism
+- necrophilism
+- neocolonialism
+- neoconservativism
+- neoimpressionism
+- neoplasticism
+- neoterism
+- neutralism
+- nicotinism
+- noctambulism
+- nomism
+- nonconformism
+- nonunionism

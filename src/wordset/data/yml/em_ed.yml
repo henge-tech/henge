@@ -1,0 +1,56 @@
+---
+pattern: em_ed
+hi_scored_words_count: 27
+scored_words_count: 8
+total_words: 46
+score: 2323569
+score_per_word: 66387
+hi_scored_words:
+  emaciated: 55388
+  emailed: 12692
+  emanated: 68506
+  emancipated: 55694
+  embargoed: 94305
+  embarked: 16085
+  embarrassed: 11326
+  embattled: 49346
+  embed: 27284
+  embedded: 8058
+  embellished: 33987
+  embittered: 62844
+  emblazoned: 50488
+  embodied: 17917
+  emboldened: 60805
+  embossed: 26091
+  embraced: 10738
+  embroidered: 10489
+  embroiled: 50332
+  emerged: 6367
+  emigrated: 31273
+  emitted: 19441
+  emphasized: 11149
+  employed: 2407
+  empowered: 16899
+  emptied: 25025
+  emulated: 42326
+scored_words:
+  emasculated: 131518
+  embalmed: 102659
+  embezzled: 118465
+  embowered: 156994
+  emceed: 270050
+  emended: 267742
+  empathized: 288954
+  emulsified: 109925
+not_scored_words:
+- embanked
+- embowed
+- embrangled
+- embrasured
+- emersed
+- emoted
+- emotionalized
+- empaled
+- empaneled
+- emplaned
+- empurpled

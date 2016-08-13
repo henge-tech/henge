@@ -1,0 +1,37 @@
+---
+pattern: sale_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 27
+score: 1526806
+score_per_word: 109057
+hi_scored_words:
+  sale: 1149
+  saleable: 56228
+  sales: 1873
+  salesman: 16343
+  salesmanship: 90967
+  salesmen: 43615
+  salespeople: 31180
+  salesperson: 25646
+  salespersons: 98990
+scored_words:
+  salep: 285083
+  saleroom: 253943
+  salesgirl: 238904
+  saleslady: 274884
+  saleswoman: 108001
+not_scored_words:
+- Salem
+- Salerno
+- saleability
+- saleratus
+- saleratuses
+- salerooms
+- salesclerk
+- salesclerks
+- salesgirls
+- salesladies
+- salesroom
+- salesrooms
+- saleswomen

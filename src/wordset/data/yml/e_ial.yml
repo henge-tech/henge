@@ -1,0 +1,41 @@
+---
+pattern: e_ial
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 31
+score: 1254390
+score_per_word: 59732
+hi_scored_words:
+  ecclesial: 94756
+  editorial: 4101
+  endometrial: 35801
+  endothelial: 21244
+  entrepreneurial: 14604
+  epitaxial: 64539
+  epithelial: 18807
+  equatorial: 15572
+  especial: 23742
+  essential: 1687
+  evidential: 59170
+  existential: 26544
+  experiential: 23629
+  exponential: 18059
+  extrajudicial: 73232
+  extraterrestrial: 33829
+  extraterritorial: 86748
+scored_words:
+  endocardial: 135887
+  equinoctial: 105956
+  equipotential: 183094
+  espial: 213389
+not_scored_words:
+- Escorial
+- Escurial
+- effluvial
+- enchorial
+- englacial
+- equilibrial
+- estuarial
+- executorial
+- expediential
+- exterritorial

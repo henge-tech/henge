@@ -1,0 +1,32 @@
+---
+pattern: c_py
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1253399
+score_per_word: 78337
+hi_scored_words:
+  campy: 53864
+  canopy: 10967
+  chappy: 95135
+  chemotherapy: 15178
+  chippy: 85415
+  choppy: 37656
+  colonoscopy: 50289
+  copy: 706
+  crappy: 15623
+  creepy: 19621
+  crispy: 24836
+scored_words:
+  chirpy: 106395
+  clumpy: 179720
+  counterspy: 154483
+  crapy: 295044
+  cryotherapy: 108467
+not_scored_words:
+- cacoepy
+- chirrupy
+- crimpy
+- croupy
+- crymotherapy
+- cryoscopy

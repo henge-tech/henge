@@ -1,0 +1,37 @@
+---
+pattern: redu_
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 27
+score: 1058294
+score_per_word: 52914
+hi_scored_words:
+  reduce: 2410
+  reduced: 1854
+  reducer: 54423
+  reducers: 86624
+  reduces: 8348
+  reducible: 63645
+  reducing: 4818
+  reductase: 26194
+  reduction: 3418
+  reductionism: 84866
+  reductionist: 87818
+  reductions: 13336
+  reductive: 57607
+  redundancies: 45784
+  redundancy: 20837
+  redundant: 14556
+  redux: 34542
+scored_words:
+  reducibility: 150316
+  redundantly: 162399
+  reduplication: 134499
+not_scored_words:
+- reductionists
+- redupl
+- reduplicate
+- reduplicated
+- reduplicates
+- reduplicating
+- reduplicative

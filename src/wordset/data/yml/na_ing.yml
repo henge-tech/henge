@@ -1,0 +1,29 @@
+---
+pattern: na_ing
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 1042706
+score_per_word: 86892
+hi_scored_words:
+  nagging: 36429
+  nailing: 43638
+  naming: 8682
+  napping: 49285
+  narrating: 62969
+  narrowing: 23952
+  nauseating: 66037
+  navigating: 22671
+scored_words:
+  nabbing: 195437
+  nationalizing: 212611
+  nattering: 145545
+  naturalizing: 175450
+not_scored_words:
+- Nanjing
+- Nanning
+- namedropping
+- napalming
+- narcotizing
+- narcotrafficking
+- nasalizing

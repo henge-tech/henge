@@ -1,0 +1,35 @@
+---
+pattern: musk_
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 25
+score: 2023209
+score_per_word: 126450
+hi_scored_words:
+  musk: 22753
+  musket: 46185
+  musketeer: 68438
+  musketeers: 33761
+  muskets: 61732
+  muskie: 64966
+  muskrat: 61144
+  musky: 73084
+scored_words:
+  muskeg: 190218
+  muskellunge: 188204
+  musketry: 143611
+  muskies: 149955
+  muskmelon: 227105
+  muskox: 193648
+  muskoxen: 341492
+  muskrats: 156913
+not_scored_words:
+- Muskogean
+- Muskogee
+- Muskogees
+- muskegs
+- muskellunges
+- muskier
+- muskiest
+- muskiness
+- muskmelons

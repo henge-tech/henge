@@ -1,0 +1,50 @@
+---
+pattern: n_ies
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 40
+score: 1680262
+score_per_word: 80012
+hi_scored_words:
+  nannies: 44043
+  nappies: 40495
+  nationalities: 26666
+  navies: 57492
+  necessaries: 68367
+  necessities: 14054
+  neckties: 60741
+  newbies: 22207
+  niceties: 74652
+  nineties: 36822
+  nobodies: 92337
+  notaries: 51955
+  notifies: 28448
+  novelties: 24982
+  nurseries: 26234
+scored_words:
+  nanotechnologies: 126340
+  nativities: 179009
+  newsweeklies: 218526
+  nighties: 153970
+  notabilities: 201613
+  nullifies: 131309
+not_scored_words:
+- naperies
+- nascencies
+- naturopathies
+- navvies
+- necropsies
+- neologies
+- nephrectomies
+- neurophysiologies
+- neuropsychiatries
+- nigrifies
+- nimieties
+- ninnies
+- nitrifies
+- nondeliveries
+- nonentities
+- northerlies
+- nosologies
+- nunneries
+- nympholepsies

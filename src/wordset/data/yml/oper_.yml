@@ -1,0 +1,39 @@
+---
+pattern: oper_
+hi_scored_words_count: 23
+scored_words_count: 3
+total_words: 29
+score: 1167712
+score_per_word: 44912
+hi_scored_words:
+  opera: 3160
+  operability: 88115
+  operable: 45037
+  operand: 34680
+  operands: 42386
+  operant: 63537
+  operas: 23555
+  operate: 4149
+  operated: 4862
+  operates: 7795
+  operatic: 34294
+  operating: 3182
+  operation: 1354
+  operational: 6982
+  operationally: 46578
+  operations: 1434
+  operative: 10312
+  operatively: 76353
+  operatives: 21728
+  operator: 4894
+  operators: 6831
+  operetta: 47499
+  operon: 54874
+scored_words:
+  operably: 234863
+  operculum: 118505
+  operettas: 180753
+not_scored_words:
+- operatically
+- operculums
+- operose

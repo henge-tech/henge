@@ -1,0 +1,40 @@
+---
+pattern: i_sion
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 30
+score: 1953777
+score_per_word: 78151
+hi_scored_words:
+  illusion: 8172
+  immersion: 18275
+  immunosuppression: 64480
+  implosion: 45734
+  imprecision: 94458
+  impression: 3717
+  incision: 25894
+  inclusion: 11456
+  incursion: 44842
+  indecision: 46171
+  infusion: 15194
+  intercession: 41306
+  intermission: 27142
+  intrusion: 11275
+  invasion: 4929
+  inversion: 19476
+scored_words:
+  impassion: 281041
+  impulsion: 175105
+  incomprehension: 143073
+  intension: 138241
+  interconversion: 181569
+  intersession: 141166
+  introgression: 180777
+  intromission: 124102
+  introversion: 106182
+not_scored_words:
+- ingression
+- inhesion
+- interfusion
+- interspersion
+- intorsion

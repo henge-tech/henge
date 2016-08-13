@@ -1,0 +1,31 @@
+---
+pattern: vi_on
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 21
+score: 856159
+score_per_word: 61154
+hi_scored_words:
+  vibration: 10689
+  victimization: 40117
+  vilification: 76458
+  vindication: 37512
+  violation: 4799
+  virion: 82787
+  virtualization: 30802
+  vision: 1476
+  visitation: 14406
+  visualization: 11694
+  vitrification: 92928
+  vivisection: 72563
+scored_words:
+  vitiation: 212595
+  vituperation: 167333
+not_scored_words:
+- Villon
+- Vinson
+- vidicon
+- vinegarroon
+- vitalization
+- vitrifaction
+- vivification

@@ -1,0 +1,29 @@
+---
+pattern: cu_rs
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 19
+score: 699652
+score_per_word: 63604
+hi_scored_words:
+  cucumbers: 35450
+  cuirassiers: 81788
+  cultivars: 30480
+  cultivators: 63111
+  curators: 38069
+  curlers: 73955
+  curs: 78571
+  cursors: 49441
+  customers: 2568
+  cutters: 20984
+scored_words:
+  cutlers: 225235
+not_scored_words:
+- cubers
+- cuckooflowers
+- cudbears
+- cullenders
+- cumbers
+- cupbearers
+- curers
+- cuspidors

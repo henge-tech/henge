@@ -1,0 +1,27 @@
+---
+pattern: d_nds
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 412380
+score_per_word: 45820
+hi_scored_words:
+  dachshunds: 95627
+  defends: 17714
+  demands: 3406
+  depends: 2406
+  descends: 31727
+  diamonds: 4753
+  dividends: 12356
+  docklands: 37260
+scored_words:
+  disbands: 207131
+not_scored_words:
+- Dixielands
+- deckhands
+- deerhounds
+- distends
+- dockhands
+- downlands
+- downtrends
+- dumbfounds

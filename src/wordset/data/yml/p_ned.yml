@@ -1,0 +1,52 @@
+---
+pattern: p_ned
+hi_scored_words_count: 23
+scored_words_count: 15
+total_words: 42
+score: 3544303
+score_per_word: 93271
+hi_scored_words:
+  pained: 52221
+  panned: 57971
+  pardoned: 45231
+  partitioned: 35766
+  patterned: 27608
+  penned: 28563
+  pertained: 71922
+  petitioned: 39063
+  phoned: 29193
+  pinned: 18081
+  planed: 59763
+  planned: 2793
+  poisoned: 17323
+  positioned: 10349
+  postponed: 14188
+  predefined: 26276
+  predestined: 72964
+  predetermined: 24909
+  preowned: 68249
+  proportioned: 44087
+  provisioned: 60885
+  pruned: 52459
+  pwned: 94952
+scored_words:
+  paned: 126070
+  pawned: 110948
+  pensioned: 187647
+  pined: 133194
+  pinioned: 250022
+  portioned: 170645
+  preassigned: 284439
+  preconditioned: 137595
+  preened: 286635
+  preordained: 107715
+  preplanned: 161788
+  profaned: 106565
+  propositioned: 182693
+  punned: 217541
+  purloined: 125990
+not_scored_words:
+- pennoned
+- platooned
+- prawned
+- processioned

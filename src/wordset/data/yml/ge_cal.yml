@@ -1,0 +1,21 @@
+---
+pattern: ge_cal
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 394691
+score_per_word: 43854
+hi_scored_words:
+  genealogical: 20345
+  geochemical: 45578
+  geographical: 6580
+  geological: 7723
+  geometrical: 26535
+  geophysical: 21038
+  geopolitical: 37096
+  gerontological: 89358
+scored_words:
+  gemological: 140438
+not_scored_words:
+- genotypical
+- geochronological

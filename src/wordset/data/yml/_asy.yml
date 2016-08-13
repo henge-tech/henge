@@ -1,0 +1,27 @@
+---
+pattern: _asy
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 316130
+score_per_word: 35125
+hi_scored_words:
+  apostasy: 45202
+  easy: 398
+  ecstasy: 13013
+  fantasy: 6091
+  greasy: 19366
+  queasy: 61415
+  speakeasy: 45541
+  uneasy: 15931
+scored_words:
+  idiosyncrasy: 109173
+not_scored_words:
+- Ecstasy
+- Malagasy
+- euphrasy
+- eustasy
+- idiocrasy
+- isostasy
+- nongreasy
+- theocrasy

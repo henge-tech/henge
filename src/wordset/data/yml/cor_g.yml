@@ -1,0 +1,32 @@
+---
+pattern: cor_g
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 1314888
+score_per_word: 101145
+hi_scored_words:
+  cording: 75640
+  coring: 73738
+  cornering: 55461
+  corning: 24092
+  correcting: 14511
+  correlating: 56740
+  corresponding: 3359
+  corroborating: 81558
+  corrupting: 45917
+scored_words:
+  corking: 178574
+  corralling: 287284
+  corroding: 127413
+  corrugating: 290601
+not_scored_words:
+- Corning
+- cordoning
+- corkscrewing
+- cornhusking
+- cornicing
+- cornrowing
+- corrading
+- corseting
+- coruscating

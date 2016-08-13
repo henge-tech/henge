@@ -1,0 +1,52 @@
+---
+pattern: evi_
+hi_scored_words_count: 18
+scored_words_count: 11
+total_words: 42
+score: 2484458
+score_per_word: 85670
+hi_scored_words:
+  evict: 47787
+  evicted: 38780
+  eviction: 31353
+  evictions: 57865
+  evidence: 854
+  evidenced: 18654
+  evidences: 35946
+  evidencing: 79076
+  evident: 4478
+  evidential: 59170
+  evidentiary: 43692
+  evidently: 9051
+  evil: 1537
+  evildoers: 86340
+  evils: 14988
+  evince: 61990
+  evinced: 51108
+  evite: 79377
+scored_words:
+  evicting: 117129
+  evicts: 294292
+  evildoer: 166306
+  evilly: 101205
+  evilness: 109960
+  evinces: 128383
+  evincing: 180861
+  eviscerate: 116675
+  eviscerated: 136110
+  eviscerating: 284722
+  evisceration: 126769
+not_scored_words:
+- Evian
+- Evita
+- evictee
+- evictor
+- evildoing
+- eviler
+- evilest
+- eviller
+- evillest
+- evincible
+- evincive
+- eviscerates
+- evitable

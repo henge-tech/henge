@@ -1,0 +1,27 @@
+---
+pattern: _sels
+hi_scored_words_count: 11
+scored_words_count: 0
+total_words: 17
+score: 587492
+score_per_word: 53408
+hi_scored_words:
+  carousels: 98719
+  chisels: 60926
+  counsels: 35536
+  damsels: 62146
+  diesels: 52140
+  easels: 68972
+  morsels: 65049
+  mussels: 30248
+  tassels: 50756
+  vessels: 4028
+  weasels: 58972
+scored_words: {}
+not_scored_words:
+- Brussels
+- groundsels
+- ousels
+- passels
+- teasels
+- tinsels

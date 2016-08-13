@@ -1,0 +1,33 @@
+---
+pattern: mi_ry
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 23
+score: 1380193
+score_per_word: 92012
+hi_scored_words:
+  midwifery: 27928
+  migratory: 22381
+  military: 699
+  millinery: 64564
+  mimicry: 59148
+  ministry: 2832
+  misery: 8083
+  missionary: 9014
+scored_words:
+  microbrewery: 114747
+  microchemistry: 302028
+  microsurgery: 100194
+  miliary: 149197
+  minatory: 198392
+  miry: 180121
+  miscarry: 140865
+not_scored_words:
+- microcircuitry
+- microhenry
+- micrometry
+- millenary
+- milliary
+- millihenry
+- missilery
+- mitigatory

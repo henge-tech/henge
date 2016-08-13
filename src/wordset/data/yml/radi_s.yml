@@ -1,0 +1,42 @@
+---
+pattern: radi_s
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 32
+score: 1296087
+score_per_word: 81005
+hi_scored_words:
+  radials: 96240
+  radians: 49813
+  radiates: 61082
+  radiations: 70331
+  radiators: 25534
+  radicals: 19968
+  radiographs: 50867
+  radioisotopes: 51337
+  radiologists: 55944
+  radios: 16948
+  radishes: 65494
+  radius: 7705
+scored_words:
+  radicles: 144571
+  radiographers: 147783
+  radiometers: 162492
+  radiosondes: 269978
+not_scored_words:
+- radiancies
+- radicalizes
+- radicalness
+- radices
+- radiculitis
+- radiochemistries
+- radiogalaxies
+- radiograms
+- radiolarians
+- radiolocations
+- radiophones
+- radiotelegraphs
+- radiotelephones
+- radiotelephonies
+- radiotherapists
+- radixes

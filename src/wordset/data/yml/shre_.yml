@@ -1,0 +1,33 @@
+---
+pattern: shre_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 23
+score: 1211948
+score_per_word: 86567
+hi_scored_words:
+  shred: 22287
+  shredded: 25673
+  shredder: 25636
+  shredders: 55274
+  shredding: 33666
+  shreds: 37603
+  shrew: 35810
+  shrewd: 26395
+  shrewdly: 76564
+  shrewdness: 89971
+  shrews: 91737
+scored_words:
+  shrewder: 174802
+  shrewdest: 241089
+  shrewish: 275441
+not_scored_words:
+- Shrek
+- Shreveport
+- Shrewsbury
+- shreddable
+- shrewishly
+- shrewishness
+- shrewishnesses
+- shrewmice
+- shrewmouse

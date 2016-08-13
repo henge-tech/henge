@@ -1,0 +1,59 @@
+---
+pattern: _ink
+hi_scored_words_count: 27
+scored_words_count: 10
+total_words: 49
+score: 2290649
+score_per_word: 61909
+hi_scored_words:
+  blink: 11582
+  brink: 19864
+  chink: 52819
+  clink: 49485
+  dink: 43196
+  drink: 1377
+  fink: 21750
+  hotlink: 90943
+  hyperlink: 27016
+  ink: 3719
+  interlink: 66319
+  kink: 35724
+  link: 1893
+  mink: 27003
+  oink: 51736
+  pink: 1990
+  rethink: 24493
+  rink: 20369
+  shrink: 9121
+  sink: 4563
+  skink: 69915
+  slink: 54729
+  stink: 22142
+  think: 150
+  twink: 27055
+  unlink: 70854
+  wink: 12237
+scored_words:
+  bethink: 236329
+  bobolink: 154427
+  boink: 109355
+  countersink: 140350
+  doublethink: 173407
+  gink: 116637
+  groupthink: 109638
+  hoodwink: 132964
+  relink: 162376
+  swink: 133122
+not_scored_words:
+- Chink
+- chewink
+- headshrink
+- iceblink
+- jink
+- outthink
+- overthink
+- preshrink
+- prink
+- ratfink
+- snowblink
+- tiddlywink

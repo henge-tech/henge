@@ -1,0 +1,30 @@
+---
+pattern: dis_sing
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 929313
+score_per_word: 71485
+hi_scored_words:
+  disbursing: 85060
+  disclosing: 27821
+  discussing: 5615
+  disguising: 69802
+  dismissing: 29539
+  dispensing: 20134
+  dispersing: 45986
+  disposing: 30051
+  dissing: 67464
+  distressing: 26920
+scored_words:
+  discoursing: 172500
+  disenfranchising: 241532
+  displeasing: 106889
+not_scored_words:
+- disabusing
+- discomposing
+- disembarrassing
+- disfranchising
+- dispossessing
+- dispraising
+- disusing

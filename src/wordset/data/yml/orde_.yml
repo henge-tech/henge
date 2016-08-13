@@ -1,0 +1,22 @@
+---
+pattern: orde_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 12
+score: 735281
+score_per_word: 66843
+hi_scored_words:
+  ordeal: 19072
+  order: 166
+  ordered: 1907
+  ordering: 3727
+  orderings: 81756
+  orderlies: 91837
+  orderliness: 93818
+  orderly: 12836
+  orders: 877
+scored_words:
+  ordeals: 101710
+  orderer: 327575
+not_scored_words:
+- orderless

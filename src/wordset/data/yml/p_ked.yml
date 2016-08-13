@@ -1,0 +1,43 @@
+---
+pattern: p_ked
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 33
+score: 2404887
+score_per_word: 100203
+hi_scored_words:
+  packed: 4379
+  panicked: 37066
+  parked: 18777
+  peaked: 20106
+  pecked: 83889
+  peeked: 69123
+  perked: 83087
+  picked: 2842
+  plucked: 26508
+  poked: 30533
+  postmarked: 51066
+  pricked: 70256
+  provoked: 17264
+  puked: 93886
+scored_words:
+  padlocked: 155160
+  piggybacked: 197825
+  piked: 132322
+  planked: 125588
+  plonked: 224909
+  plunked: 149485
+  pocked: 165154
+  pockmarked: 202234
+  precooked: 167299
+  prepacked: 276129
+not_scored_words:
+- paddocked
+- pancaked
+- physicked
+- picnicked
+- pinked
+- pitchforked
+- placekicked
+- politicked
+- prinked

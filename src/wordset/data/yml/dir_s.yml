@@ -1,0 +1,29 @@
+---
+pattern: dir_s
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 1043520
+score_per_word: 80270
+hi_scored_words:
+  directions: 2004
+  directives: 13480
+  directness: 70404
+  directorates: 64774
+  directories: 7718
+  directors: 3789
+  directorships: 96532
+  directs: 14112
+  dirhams: 83106
+  dirks: 80498
+scored_words:
+  directionless: 161790
+  dirges: 199017
+  dirtiness: 246296
+not_scored_words:
+- directionalities
+- direness
+- dirigibles
+- dirndls
+- dirtballs
+- dirties

@@ -1,0 +1,38 @@
+---
+pattern: f_th
+hi_scored_words_count: 17
+scored_words_count: 1
+total_words: 28
+score: 738415
+score_per_word: 41023
+hi_scored_words:
+  faith: 1173
+  fath: 58483
+  fifteenth: 18310
+  fifth: 2947
+  fiftieth: 44197
+  filth: 13476
+  firth: 26663
+  footpath: 32548
+  forsooth: 54192
+  forth: 1859
+  forthwith: 21132
+  fortieth: 66066
+  fourteenth: 16720
+  fourth: 1911
+  frith: 35620
+  froth: 38785
+  fth: 98690
+scored_words:
+  flightpath: 205643
+not_scored_words:
+- Faith
+- Falmouth
+- Forsyth
+- Forth
+- Fourth
+- facecloth
+- fingerbreadth
+- footcloth
+- foretooth
+- frogmouth

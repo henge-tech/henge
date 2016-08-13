@@ -1,0 +1,52 @@
+---
+pattern: exce_
+hi_scored_words_count: 29
+scored_words_count: 6
+total_words: 42
+score: 1762860
+score_per_word: 50367
+hi_scored_words:
+  exceed: 4868
+  exceeded: 9485
+  exceeding: 7638
+  exceedingly: 14396
+  exceeds: 9870
+  excel: 6612
+  excelled: 33903
+  excellence: 4139
+  excellencies: 91109
+  excellency: 22529
+  excellent: 967
+  excellently: 47868
+  excelling: 69922
+  excels: 39973
+  excelsior: 30795
+  except: 809
+  excepted: 31144
+  excepting: 25301
+  exception: 2690
+  exceptional: 5620
+  exceptionally: 12484
+  exceptions: 5470
+  excerpt: 14690
+  excerpted: 44011
+  excerpts: 20152
+  excess: 3427
+  excesses: 29237
+  excessive: 5446
+  excessively: 18063
+scored_words:
+  exceptionable: 159884
+  exceptionalism: 103390
+  excepts: 153393
+  excerpta: 145415
+  excerpting: 294535
+  excessiveness: 293625
+not_scored_words:
+- Excedrin
+- Excellence
+- Excellencies
+- Excellency
+- exceptionably
+- exceptive
+- excessivenesses

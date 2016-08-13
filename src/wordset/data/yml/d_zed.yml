@@ -1,0 +1,58 @@
+---
+pattern: d_zed
+hi_scored_words_count: 11
+scored_words_count: 15
+total_words: 48
+score: 3690033
+score_per_word: 141924
+hi_scored_words:
+  dazed: 26011
+  decentralized: 23187
+  deionized: 81020
+  demilitarized: 95012
+  demoralized: 67588
+  desensitized: 91028
+  digitized: 28057
+  disorganized: 37685
+  downsized: 70421
+  dozed: 76958
+  dramatized: 73154
+scored_words:
+  decriminalized: 188993
+  dehumanized: 168497
+  dematerialized: 298659
+  demobilized: 117213
+  democratized: 186976
+  demonized: 100341
+  deodorized: 338550
+  departmentalized: 262321
+  depolarized: 175266
+  deputized: 184625
+  destabilized: 112864
+  diagonalized: 275864
+  dialyzed: 150974
+  dichotomized: 281902
+  digitalized: 176867
+not_scored_words:
+- decarbonized
+- decarburized
+- decimalized
+- decolonized
+- decolorized
+- demagnetized
+- demonetized
+- demythologized
+- denationalized
+- denaturalized
+- denuclearized
+- deoxidized
+- depersonalized
+- depoliticized
+- depressurized
+- desalinized
+- desexualized
+- detribalized
+- devitalized
+- diabolized
+- diphthongized
+- dogmatized

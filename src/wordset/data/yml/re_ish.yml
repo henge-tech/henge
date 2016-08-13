@@ -1,0 +1,21 @@
+---
+pattern: re_ish
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 11
+score: 438949
+score_per_word: 48772
+hi_scored_words:
+  reddish: 19527
+  redfish: 81268
+  reestablish: 48228
+  refinish: 89669
+  refurbish: 55808
+  relinquish: 28229
+  relish: 18879
+  replenish: 37046
+  republish: 60295
+scored_words: {}
+not_scored_words:
+- refurnish
+- revarnish

@@ -1,0 +1,45 @@
+---
+pattern: vill_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 35
+score: 1312791
+score_per_word: 72932
+hi_scored_words:
+  villa: 4515
+  village: 1010
+  villager: 32856
+  villagers: 14639
+  villages: 4559
+  villain: 13101
+  villainous: 43519
+  villains: 17163
+  villainy: 57197
+  villas: 10782
+  villein: 80944
+  villi: 93097
+scored_words:
+  villainess: 245316
+  villainies: 178938
+  villanelle: 194668
+  villeins: 106489
+  villous: 110243
+  villus: 103755
+not_scored_words:
+- Villa
+- Villahermosa
+- Villanovan
+- Villarreal
+- Villeneuve
+- Villon
+- villainage
+- villainages
+- villainesses
+- villainously
+- villainousness
+- villainousnesses
+- villeinage
+- villenage
+- villiform
+- villose
+- villosity

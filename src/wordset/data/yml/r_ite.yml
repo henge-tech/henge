@@ -1,0 +1,27 @@
+---
+pattern: r_ite
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 1253484
+score_per_word: 96421
+hi_scored_words:
+  recite: 22251
+  requisite: 11500
+  respite: 17992
+  reunite: 31766
+  rewrite: 21280
+  rhodolite: 95964
+  rhyolite: 83104
+  rite: 10065
+scored_words:
+  recondite: 121642
+  reignite: 164561
+  requite: 149357
+  rhodonite: 219823
+  rubellite: 304179
+not_scored_words:
+- Rechabite
+- ratite
+- rensselaerite
+- retinite

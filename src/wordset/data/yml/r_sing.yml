@@ -1,0 +1,47 @@
+---
+pattern: r_sing
+hi_scored_words_count: 14
+scored_words_count: 13
+total_words: 37
+score: 2884544
+score_per_word: 106834
+hi_scored_words:
+  raising: 3044
+  refocusing: 88803
+  refusing: 9677
+  rehearsing: 44030
+  relapsing: 64457
+  releasing: 10185
+  repressing: 81223
+  reprocessing: 46974
+  reusing: 49190
+  reversing: 22274
+  revising: 23438
+  rinsing: 47471
+  rising: 2986
+  rousing: 30255
+scored_words:
+  reassessing: 101664
+  recessing: 338571
+  recrossing: 168439
+  redressing: 105820
+  regressing: 108740
+  rehousing: 218913
+  reimbursing: 104209
+  rephrasing: 144908
+  reposing: 162548
+  repossessing: 288339
+  reprising: 112180
+  repulsing: 244405
+  repurchasing: 261801
+not_scored_words:
+- readdressing
+- reappraising
+- recompensing
+- recomposing
+- recompressing
+- recusing
+- reimposing
+- rendezvousing
+- retrogressing
+- roughhousing

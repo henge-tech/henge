@@ -1,0 +1,29 @@
+---
+pattern: _lics
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 19
+score: 1460612
+score_per_word: 104329
+hi_scored_words:
+  acrylics: 46597
+  alcoholics: 23690
+  frolics: 92832
+  hydraulics: 27610
+  italics: 19998
+  psychedelics: 81513
+  relics: 20912
+  republics: 24031
+scored_words:
+  chocoholics: 227455
+  phenolics: 125841
+  shopaholics: 245705
+  symbolics: 168816
+  tricyclics: 207023
+  workaholics: 148589
+not_scored_words:
+- Catholics
+- bimetallics
+- bucolics
+- dactylics
+- melancholics

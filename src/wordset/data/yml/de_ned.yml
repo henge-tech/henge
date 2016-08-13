@@ -1,0 +1,28 @@
+---
+pattern: de_ned
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1003727
+score_per_word: 71694
+hi_scored_words:
+  declined: 5547
+  decommissioned: 45477
+  deepened: 36885
+  defined: 2294
+  designed: 1503
+  destined: 9648
+  detained: 10428
+  determined: 1358
+  dethroned: 68071
+scored_words:
+  deadened: 119043
+  deadpanned: 340979
+  deafened: 105904
+  deigned: 110859
+  demeaned: 145731
+not_scored_words:
+- dehorned
+- deplaned
+- deponed
+- detrained

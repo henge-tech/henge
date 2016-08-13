@@ -1,0 +1,35 @@
+---
+pattern: incl_
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 25
+score: 1202222
+score_per_word: 60111
+hi_scored_words:
+  incl: 14474
+  inclement: 40522
+  inclination: 14044
+  inclinations: 43929
+  incline: 19529
+  inclined: 7630
+  inclines: 73429
+  include: 974
+  included: 865
+  includes: 1422
+  including: 290
+  inclusion: 11456
+  inclusions: 27560
+  inclusive: 9204
+  inclusiveness: 64388
+scored_words:
+  inclemency: 139743
+  inclining: 115605
+  inclinometer: 181271
+  inclinometers: 280877
+  inclusively: 155010
+not_scored_words:
+- inclemently
+- inclinable
+- inclinatory
+- incliner
+- inclinings

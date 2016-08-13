@@ -1,0 +1,38 @@
+---
+pattern: defa_
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 28
+score: 2089913
+score_per_word: 104495
+hi_scored_words:
+  deface: 65889
+  defaced: 48797
+  defacing: 86391
+  defamation: 29250
+  defamatory: 36238
+  defame: 60856
+  defamed: 97343
+  defamer: 53094
+  default: 4791
+  defaulted: 42683
+  defaulting: 49617
+  defaults: 15473
+scored_words:
+  defacement: 123279
+  defacer: 267559
+  defaces: 296103
+  defalcation: 124115
+  defames: 283101
+  defaming: 114610
+  defaulter: 173081
+  defaulters: 117643
+not_scored_words:
+- defacers
+- defalcate
+- defalcated
+- defalcates
+- defalcating
+- defalcations
+- defalcator
+- defamers

@@ -1,0 +1,33 @@
+---
+pattern: _tide
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 23
+score: 681962
+score_per_word: 61996
+hi_scored_words:
+  eventide: 71508
+  nucleotide: 16134
+  oligonucleotide: 47025
+  peptide: 12944
+  polypeptide: 29197
+  riptide: 70873
+  tide: 4778
+  yuletide: 58432
+scored_words:
+  betide: 105472
+  dipeptide: 132757
+  noontide: 132842
+not_scored_words:
+- Allhallowtide
+- Christmastide
+- Eastertide
+- Lammastide
+- Shrovetide
+- Tide
+- Twelfthtide
+- Whitsuntide
+- Yuletide
+- holytide
+- mercaptide
+- wintertide

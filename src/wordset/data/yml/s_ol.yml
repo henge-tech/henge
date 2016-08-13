@@ -1,0 +1,30 @@
+---
+pattern: s_ol
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 1033214
+score_per_word: 86101
+hi_scored_words:
+  school: 221
+  sol: 7713
+  sorbitol: 73869
+  spool: 26943
+  sterol: 72432
+  stool: 14028
+  supercool: 71251
+  symbol: 3236
+scored_words:
+  shool: 115014
+  skol: 146000
+  sociol: 161064
+  stigmasterol: 341443
+not_scored_words:
+- STOL
+- Sevastopol
+- Sheol
+- Simferopol
+- Sol
+- Stavropol
+- salol
+- stilbestrol

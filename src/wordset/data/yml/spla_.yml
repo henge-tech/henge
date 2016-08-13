@@ -1,0 +1,43 @@
+---
+pattern: spla_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 33
+score: 1770602
+score_per_word: 104153
+hi_scored_words:
+  splash: 9349
+  splashed: 38080
+  splashes: 46765
+  splashing: 36309
+  splashy: 93543
+  splat: 38249
+  splatter: 44246
+  splattered: 61616
+  splay: 74298
+  splayed: 89147
+scored_words:
+  splanchnic: 128729
+  splashdown: 107454
+  splats: 157962
+  splattering: 123874
+  splatters: 125287
+  splatting: 282004
+  splays: 313690
+not_scored_words:
+- splanchnology
+- splashboard
+- splashboards
+- splashdowns
+- splasher
+- splashier
+- splashiest
+- splashily
+- splashiness
+- splatted
+- splatterpunk
+- splatterpunks
+- splayfeet
+- splayfoot
+- splayfooted
+- splaying

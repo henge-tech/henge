@@ -1,0 +1,42 @@
+---
+pattern: ri_ed
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 32
+score: 2107362
+score_per_word: 87806
+hi_scored_words:
+  ribbed: 30101
+  riddled: 34569
+  ridged: 75768
+  ridiculed: 38954
+  rifled: 62443
+  rigged: 23779
+  righted: 88738
+  riled: 73509
+  rimmed: 52411
+  ringed: 43168
+  rinsed: 44140
+  ripened: 55024
+  ripped: 11948
+  rippled: 71590
+  risked: 34213
+  rivaled: 86723
+  riverbed: 52177
+  riveted: 42474
+scored_words:
+  ricocheted: 175699
+  riffed: 305019
+  rifted: 283183
+  rioted: 135323
+  ritualized: 129989
+  rived: 156420
+not_scored_words:
+- riced
+- ricked
+- riffled
+- rightsized
+- rigidified
+- rilled
+- rimed
+- riposted

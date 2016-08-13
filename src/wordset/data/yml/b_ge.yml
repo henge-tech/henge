@@ -1,0 +1,58 @@
+---
+pattern: b_ge
+hi_scored_words_count: 23
+scored_words_count: 7
+total_words: 48
+score: 1724554
+score_per_word: 57485
+hi_scored_words:
+  backstage: 17221
+  bacteriophage: 47207
+  badge: 7747
+  badinage: 82555
+  baggage: 10174
+  bandage: 23802
+  barge: 15915
+  barrage: 30054
+  begrudge: 74673
+  beige: 16763
+  besiege: 84809
+  beverage: 9061
+  bilge: 41716
+  binge: 25570
+  birdcage: 59088
+  blockage: 34812
+  bondage: 7313
+  borage: 65710
+  breakage: 38543
+  bridge: 1568
+  brokerage: 22438
+  budge: 30514
+  bulge: 26058
+scored_words:
+  baronetage: 100414
+  blancmange: 190925
+  bocage: 137408
+  bodge: 212970
+  bricolage: 102755
+  brigandage: 101362
+  burgage: 105409
+not_scored_words:
+- Babbage
+- Banbridge
+- Beveridge
+- Breckenridge
+- Bridge
+- Budge
+- Bulge
+- Burbage
+- baronage
+- bavardage
+- bibliophage
+- blindage
+- bludge
+- blunge
+- boscage
+- boskage
+- brewage
+- buoyage

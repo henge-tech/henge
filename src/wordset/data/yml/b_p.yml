@@ -1,0 +1,55 @@
+---
+pattern: b_p
+hi_scored_words_count: 28
+scored_words_count: 7
+total_words: 45
+score: 2253084
+score_per_word: 64373
+hi_scored_words:
+  backdrop: 19282
+  backstop: 72341
+  backup: 7083
+  bap: 31307
+  barbershop: 35486
+  battleship: 26548
+  bebop: 27041
+  beep: 19017
+  bellhop: 99266
+  bicep: 64694
+  bishop: 3454
+  bitmap: 26780
+  blacktop: 72728
+  bleep: 36378
+  blimp: 50345
+  blip: 46770
+  blowup: 96387
+  bookshop: 23841
+  bootstrap: 24206
+  bop: 20195
+  bp: 9774
+  breakup: 23383
+  buildup: 26062
+  bump: 10330
+  bunyip: 93135
+  burlap: 60798
+  burp: 36576
+  buttercup: 38114
+scored_words:
+  bakeshop: 281161
+  barkeep: 139610
+  bipartisanship: 124700
+  blackcap: 153379
+  bloop: 151405
+  brinkmanship: 187302
+  bullwhip: 114206
+not_scored_words:
+- BP
+- Bishop
+- Blankenship
+- Bottrop
+- Bullpup
+- backslap
+- barhop
+- blackdamp
+- blowlamp
+- buckjump

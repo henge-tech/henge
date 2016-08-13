@@ -1,0 +1,30 @@
+---
+pattern: ins_tion
+hi_scored_words_count: 18
+scored_words_count: 1
+total_words: 20
+score: 773953
+score_per_word: 40734
+hi_scored_words:
+  inscription: 12536
+  insemination: 40863
+  insertion: 11140
+  insinuation: 79271
+  insolation: 86947
+  inspection: 3781
+  inspiration: 4400
+  installation: 6245
+  instantiation: 52561
+  instigation: 55806
+  instillation: 84924
+  institution: 2599
+  institutionalization: 52704
+  instruction: 2572
+  instrumentation: 12661
+  insubordination: 58385
+  insulation: 15968
+  insurrection: 24704
+scored_words:
+  insufflation: 165886
+not_scored_words:
+- instauration

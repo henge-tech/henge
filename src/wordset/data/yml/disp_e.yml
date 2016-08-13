@@ -1,0 +1,35 @@
+---
+pattern: disp_e
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 25
+score: 1283046
+score_per_word: 67528
+hi_scored_words:
+  disparage: 58564
+  disparate: 28038
+  dispassionate: 67152
+  dispense: 20651
+  disperse: 24436
+  dispersive: 64271
+  displace: 31677
+  displease: 80960
+  displeasure: 29379
+  disposable: 18073
+  dispose: 11134
+  disproportionate: 22997
+  disprove: 35584
+  dispute: 3853
+scored_words:
+  dispensable: 105142
+  dispersible: 206831
+  displayable: 148841
+  dispraise: 188931
+  disputable: 136532
+not_scored_words:
+- dispeople
+- displode
+- displume
+- disposure
+- disprize
+- disprovable

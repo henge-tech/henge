@@ -1,0 +1,33 @@
+---
+pattern: _cos
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 23
+score: 1141014
+score_per_word: 95084
+hi_scored_words:
+  broncos: 12727
+  cocos: 35906
+  cos: 10817
+  discos: 36684
+  locos: 51463
+  politicos: 70967
+  tacos: 30200
+  tobaccos: 89175
+scored_words:
+  fiascos: 208576
+  guanacos: 266009
+  juncos: 164378
+  medicos: 164112
+not_scored_words:
+- Cos
+- Marcos
+- Pecos
+- Tabascos
+- buncos
+- calicos
+- ciscos
+- flamencos
+- siroccos
+- touracos
+- turacos

@@ -1,0 +1,51 @@
+---
+pattern: unsu_
+hi_scored_words_count: 19
+scored_words_count: 11
+total_words: 41
+score: 3053959
+score_per_word: 101798
+hi_scored_words:
+  unsubscribe: 9376
+  unsubscribed: 80273
+  unsubscribing: 64651
+  unsubsidized: 77468
+  unsubstantiated: 46572
+  unsuccessful: 13519
+  unsuccessfully: 32741
+  unsuitable: 19655
+  unsuited: 73024
+  unsung: 41290
+  unsupervised: 38132
+  unsupported: 22099
+  unsure: 13026
+  unsurpassed: 34661
+  unsurprising: 84057
+  unsurprisingly: 50652
+  unsuspected: 70502
+  unsuspecting: 29826
+  unsustainable: 32118
+scored_words:
+  unsubdued: 151389
+  unsubscribes: 307578
+  unsubstantial: 187875
+  unsubtle: 201906
+  unsuitability: 128706
+  unsullied: 123842
+  unsupportable: 164675
+  unsuppressed: 270796
+  unsurpassable: 190422
+  unsurprised: 243871
+  unsuspicious: 249257
+not_scored_words:
+- unsubstantiality
+- unsubtly
+- unsuccess
+- unsuitableness
+- unsuitably
+- unsurely
+- unsureness
+- unsurfaced
+- unsusceptible
+- unsuspectingly
+- unsustained

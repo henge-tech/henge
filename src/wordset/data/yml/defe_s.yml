@@ -1,0 +1,30 @@
+---
+pattern: defe_s
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 20
+score: 1191542
+score_per_word: 79436
+hi_scored_words:
+  defeats: 20662
+  defections: 89980
+  defectors: 71145
+  defects: 6021
+  defendants: 14135
+  defenders: 13655
+  defends: 17714
+  defenseless: 49118
+  defenses: 17859
+  defensiveness: 96584
+  defers: 90573
+scored_words:
+  defeatists: 235419
+  defectives: 223846
+  deferments: 137362
+  deferrals: 107469
+not_scored_words:
+- defeaters
+- defecates
+- defectiveness
+- defenestrations
+- defenselessness

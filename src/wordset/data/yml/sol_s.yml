@@ -1,0 +1,59 @@
+---
+pattern: sol_s
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 49
+score: 2462563
+score_per_word: 87948
+hi_scored_words:
+  solders: 87558
+  soldiers: 2086
+  solenoids: 82380
+  soles: 25890
+  solicitations: 36844
+  solicitors: 18588
+  solicitous: 63713
+  solicits: 68486
+  solidifies: 85617
+  solids: 16755
+  solidus: 88924
+  soloists: 39178
+  solos: 25945
+  sols: 66678
+  solus: 72217
+  solutes: 75430
+  solutions: 4650
+  solvents: 19823
+  solvers: 39395
+  solves: 25803
+scored_words:
+  solderers: 320028
+  solemnities: 206464
+  soliloquies: 122035
+  solitaires: 117896
+  solitariness: 184248
+  solitudes: 104835
+  solstices: 160832
+  solubles: 300265
+not_scored_words:
+- Solis
+- solaces
+- solanaceous
+- solans
+- soldierings
+- solecisms
+- solemness
+- solemnifies
+- solemnizes
+- solemnness
+- solferinos
+- solicitousness
+- solidness
+- soliloquizes
+- solipsisms
+- solipsists
+- solitaries
+- sollerets
+- solmizations
+- solons
+- solvolysis

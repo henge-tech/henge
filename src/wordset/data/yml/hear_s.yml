@@ -1,0 +1,33 @@
+---
+pattern: hear_s
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 23
+score: 1789863
+score_per_word: 111866
+hi_scored_words:
+  hearers: 53541
+  hearings: 10443
+  hears: 11018
+  heartaches: 80035
+  heartbeats: 48081
+  hearths: 74959
+  heartlands: 85174
+  heartless: 25290
+  hearts: 2641
+  heartstrings: 72313
+scored_words:
+  hearkens: 232004
+  hearses: 188631
+  heartbreaks: 210681
+  hearties: 239708
+  heartiness: 212506
+  heartlessness: 242838
+not_scored_words:
+- heartburnings
+- heartens
+- hearthrugs
+- hearthstones
+- heartseases
+- heartsickness
+- heartthrobs

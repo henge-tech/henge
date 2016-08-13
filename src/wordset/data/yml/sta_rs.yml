@@ -1,0 +1,34 @@
+---
+pattern: sta_rs
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 24
+score: 1868035
+score_per_word: 103779
+hi_scored_words:
+  stabilizers: 42102
+  staffers: 31279
+  staggers: 65101
+  stairs: 5455
+  stakeholders: 8399
+  stalkers: 54882
+  staplers: 81708
+  stars: 1154
+  starters: 11484
+  stationers: 66225
+scored_words:
+  stabbers: 264555
+  stallholders: 249030
+  stammers: 139402
+  stampers: 110907
+  standers: 161714
+  stargazers: 129024
+  stators: 278159
+  stayers: 167455
+not_scored_words:
+- staggerers
+- stammerers
+- starers
+- starflowers
+- starkers
+- stationmasters

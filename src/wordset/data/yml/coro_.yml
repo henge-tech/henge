@@ -1,0 +1,35 @@
+---
+pattern: coro_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 25
+score: 1100602
+score_per_word: 78614
+hi_scored_words:
+  corolla: 25084
+  corollary: 23863
+  corona: 16843
+  coronal: 39461
+  coronary: 20593
+  coronas: 93467
+  coronation: 17497
+  coroner: 20930
+  coroners: 72774
+  coronet: 40044
+scored_words:
+  corollaries: 114426
+  corollas: 226079
+  coronagraph: 252898
+  coronets: 136643
+not_scored_words:
+- Coronado
+- Corot
+- corody
+- corollaceous
+- coronach
+- coronachs
+- coronals
+- coronaries
+- coronations
+- coroneted
+- coronograph

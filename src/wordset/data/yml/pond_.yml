@@ -1,0 +1,30 @@
+---
+pattern: pond_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 736120
+score_per_word: 66920
+hi_scored_words:
+  pond: 5457
+  ponder: 17507
+  pondered: 32193
+  pondering: 25208
+  ponderosa: 42913
+  ponderous: 49604
+  ponders: 48320
+  ponds: 12578
+scored_words:
+  ponderable: 130247
+  ponderously: 232877
+  pondweed: 139216
+not_scored_words:
+- Pondicherry
+- Pondoland
+- ponderer
+- ponderers
+- ponderosas
+- ponderosities
+- ponderosity
+- ponderousness
+- pondweeds

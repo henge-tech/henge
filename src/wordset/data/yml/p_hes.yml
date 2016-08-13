@@ -1,0 +1,38 @@
+---
+pattern: p_hes
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 28
+score: 1618808
+score_per_word: 77086
+hi_scored_words:
+  parishes: 16304
+  patches: 5259
+  peaches: 17930
+  perches: 55507
+  perishes: 97609
+  pinches: 74424
+  pitches: 24022
+  polishes: 45988
+  porches: 41369
+  pouches: 27834
+  preaches: 41752
+  publishes: 16014
+  punches: 27180
+  punishes: 52583
+  pushes: 15690
+scored_words:
+  paintbrushes: 134509
+  parches: 289972
+  pastiches: 262784
+  plainclothes: 119690
+  pooches: 129339
+  psyches: 123049
+not_scored_words:
+- paunches
+- photoflashes
+- plashes
+- pleaches
+- poaches
+- postiches
+- putsches

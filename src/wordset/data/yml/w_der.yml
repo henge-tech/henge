@@ -1,0 +1,29 @@
+---
+pattern: w_der
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 1097378
+score_per_word: 78384
+hi_scored_words:
+  wader: 72245
+  wander: 10717
+  warder: 60423
+  weekender: 39839
+  weirder: 64630
+  welder: 31020
+  wider: 4912
+  wielder: 99231
+  wilder: 17779
+  winder: 34984
+  wonder: 1570
+scored_words:
+  weeder: 190441
+  wounder: 277169
+  wunderkinder: 192418
+not_scored_words:
+- Wilder
+- Wonder
+- wedder
+- wickeder
+- wretcheder

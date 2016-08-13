@@ -1,0 +1,44 @@
+---
+pattern: f_nd
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 34
+score: 1660403
+score_per_word: 61496
+hi_scored_words:
+  fairground: 48956
+  fairyland: 68045
+  farmland: 18759
+  fatherland: 40473
+  femtosecond: 94924
+  fend: 32513
+  fiend: 22241
+  find: 109
+  firebrand: 61572
+  firsthand: 27708
+  fishpond: 86721
+  flatland: 77653
+  fond: 6643
+  foreground: 16268
+  forehand: 42806
+  found: 156
+  foxhound: 82724
+  freehand: 38375
+  friend: 262
+  frond: 93793
+  fund: 1898
+scored_words:
+  farmhand: 116353
+  fecund: 105127
+  fenland: 109863
+  foreland: 112814
+  forestland: 108690
+  forfend: 244957
+not_scored_words:
+- Falkland
+- Ferdinand
+- Finland
+- Friend
+- Friesland
+- fahlband
+- fogbound

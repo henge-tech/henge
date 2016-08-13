@@ -1,0 +1,31 @@
+---
+pattern: flex_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 21
+score: 880382
+score_per_word: 67721
+hi_scored_words:
+  flex: 11433
+  flexed: 58539
+  flexes: 81309
+  flexibility: 8706
+  flexible: 5311
+  flexibly: 49546
+  flexing: 44687
+  flexion: 37254
+  flexor: 56427
+  flexure: 76541
+scored_words:
+  flexibilities: 110414
+  flexors: 141015
+  flextime: 199200
+not_scored_words:
+- flexdollars
+- flexibleness
+- flexiblenesses
+- flexile
+- flexions
+- flexuosity
+- flexuous
+- flexures

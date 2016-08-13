@@ -1,0 +1,51 @@
+---
+pattern: aug_
+hi_scored_words_count: 11
+scored_words_count: 8
+total_words: 41
+score: 1541447
+score_per_word: 81128
+hi_scored_words:
+  aug: 2657
+  auger: 34753
+  aught: 39747
+  augment: 20931
+  augmentation: 18687
+  augmentative: 88722
+  augmented: 17392
+  augmenting: 49132
+  augments: 63964
+  augur: 65247
+  august: 630
+scored_words:
+  augers: 114135
+  augite: 173453
+  augmentations: 111989
+  augmenter: 117330
+  augured: 259669
+  auguries: 122707
+  augurs: 128225
+  augury: 112077
+not_scored_words:
+- Aug
+- Augean
+- Augsburg
+- August
+- Augusta
+- Augustan
+- Augustine
+- Augustinian
+- Augustinians
+- Augusts
+- Augustus
+- augend
+- augends
+- aughts
+- augites
+- augmenters
+- augural
+- auguring
+- auguster
+- augustest
+- augustly
+- augustness

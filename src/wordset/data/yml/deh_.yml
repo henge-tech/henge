@@ -1,0 +1,47 @@
+---
+pattern: deh_
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 37
+score: 1937702
+score_per_word: 113982
+hi_scored_words:
+  dehumanizing: 97352
+  dehumidifier: 70031
+  dehumidifiers: 93292
+  dehydrate: 99160
+  dehydrated: 31856
+  dehydration: 25467
+  dehydrator: 96724
+  dehydrogenase: 19128
+scored_words:
+  dehiscence: 140871
+  dehumanization: 141217
+  dehumanize: 179557
+  dehumanized: 168497
+  dehumidification: 149034
+  dehumidifying: 241244
+  dehydrating: 118737
+  dehydrators: 105685
+  dehydrogenation: 159850
+not_scored_words:
+- dehisce
+- dehisced
+- dehiscences
+- dehiscent
+- dehisces
+- dehiscing
+- dehorn
+- dehorned
+- dehorning
+- dehorns
+- dehumanizes
+- dehumidified
+- dehumidifies
+- dehumidify
+- dehydrates
+- dehydrogenate
+- dehydrogenated
+- dehydrogenates
+- dehydrogenating
+- dehypnotize

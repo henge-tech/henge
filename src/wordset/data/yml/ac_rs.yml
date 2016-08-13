@@ -1,0 +1,24 @@
+---
+pattern: ac_rs
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 617721
+score_per_word: 61772
+hi_scored_words:
+  accelerators: 34593
+  accelerometers: 84893
+  acceptors: 67232
+  accumulators: 82228
+  accusers: 67647
+  achievers: 45032
+  activators: 63576
+  actors: 4116
+  actuators: 34344
+scored_words:
+  acquirers: 134060
+not_scored_words:
+- accentors
+- accoucheurs
+- accouters
+- actinometers

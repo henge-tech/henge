@@ -1,0 +1,37 @@
+---
+pattern: p_ard
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 27
+score: 1899038
+score_per_word: 111708
+hi_scored_words:
+  paperboard: 61882
+  pard: 41900
+  phonecard: 69173
+  placard: 45094
+  plasterboard: 85859
+  pollard: 24766
+  poniard: 91473
+  postcard: 19043
+scored_words:
+  panelboard: 297267
+  particleboard: 135460
+  pasteboard: 114503
+  pegboard: 111535
+  petard: 118592
+  pilchard: 109237
+  plugboard: 296393
+  pochard: 137928
+  poleward: 138933
+not_scored_words:
+- Packard
+- Picard
+- Piccard
+- Pollard
+- Pommard
+- paddleboard
+- potshard
+- poulard
+- pulpboard
+- punchboard

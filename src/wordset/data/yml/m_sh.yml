@@ -1,0 +1,43 @@
+---
+pattern: m_sh
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 33
+score: 1326462
+score_per_word: 88430
+hi_scored_words:
+  mackintosh: 32941
+  marsh: 8225
+  mash: 18342
+  mesh: 10215
+  midrash: 55593
+  mishmash: 84643
+  monkfish: 79222
+  mosh: 40683
+  mouthwash: 58951
+  mush: 29145
+scored_words:
+  mannish: 158312
+  mawkish: 137078
+  milkfish: 246235
+  modish: 163629
+  monkish: 203248
+not_scored_words:
+- MASH
+- MacLeish
+- Macintosh
+- Mackintosh
+- Marrakesh
+- Marsh
+- McIntosh
+- Moorish
+- marish
+- mauvish
+- mildish
+- minxish
+- moonfish
+- mopish
+- moreish
+- mudfish
+- mulish
+- musquash

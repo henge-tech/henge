@@ -1,0 +1,37 @@
+---
+pattern: excu_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 27
+score: 994542
+score_per_word: 82878
+hi_scored_words:
+  exculpatory: 87362
+  excursion: 12909
+  excursions: 15004
+  excusable: 70855
+  excuse: 3906
+  excused: 15372
+  excuses: 13138
+  excusing: 73468
+scored_words:
+  exculpate: 180482
+  exculpation: 120522
+  excursionists: 187749
+  excursus: 213775
+not_scored_words:
+- exculpated
+- exculpates
+- exculpating
+- excurrent
+- excursionist
+- excursive
+- excursively
+- excursiveness
+- excursuses
+- excurvate
+- excurvature
+- excurved
+- excusably
+- excusatory
+- excuser

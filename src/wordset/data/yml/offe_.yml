@@ -1,0 +1,36 @@
+---
+pattern: offe_
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 26
+score: 1028569
+score_per_word: 48979
+hi_scored_words:
+  offend: 14238
+  offended: 9650
+  offender: 10105
+  offenders: 9359
+  offending: 16737
+  offends: 43587
+  offense: 5787
+  offenses: 14669
+  offensive: 4352
+  offensively: 50675
+  offer: 573
+  offered: 1041
+  offering: 1975
+  offerings: 6538
+  offeror: 66392
+  offers: 1285
+scored_words:
+  offed: 210374
+  offensiveness: 183832
+  offensives: 103530
+  offerer: 167587
+  offertory: 106283
+not_scored_words:
+- Offenbach
+- Offertories
+- Offertory
+- offenseless
+- offertories

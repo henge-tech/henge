@@ -1,0 +1,26 @@
+---
+pattern: bel_ed
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 824534
+score_per_word: 68711
+hi_scored_words:
+  belated: 24753
+  beleaguered: 41782
+  belied: 68758
+  believed: 2710
+  bellied: 36505
+  bellowed: 74911
+  belonged: 9071
+  beloved: 5585
+  belted: 43124
+scored_words:
+  belched: 160934
+  belittled: 109333
+  belled: 247068
+not_scored_words:
+- belabored
+- belayed
+- bellbottomed
+- bellyached

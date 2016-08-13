@@ -1,0 +1,25 @@
+---
+pattern: co_os
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 528508
+score_per_word: 52850
+hi_scored_words:
+  cockatoos: 95416
+  cocos: 35906
+  combos: 21207
+  commandos: 30355
+  concertos: 32154
+  condos: 16735
+  coos: 34953
+  cosmos: 17260
+scored_words:
+  compos: 108591
+  contos: 135931
+not_scored_words:
+- Comoros
+- cohos
+- colugos
+- comedos
+- contraltos

@@ -1,0 +1,40 @@
+---
+pattern: tr_ne
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 30
+score: 1319340
+score_per_word: 101487
+hi_scored_words:
+  trampoline: 26053
+  transalpine: 94146
+  travertine: 67041
+  treeline: 95967
+  tribune: 6754
+  trine: 51037
+  triune: 83305
+  trombone: 24941
+scored_words:
+  tragedienne: 197408
+  tramline: 167202
+  triazine: 137699
+  trinitrotoluene: 183567
+  triplane: 184220
+not_scored_words:
+- Traherne
+- Tridentine
+- tramontane
+- transmarine
+- transmontane
+- transmundane
+- transpadane
+- transpontine
+- trephine
+- trichlorethylene
+- trichloromethane
+- tricorne
+- tricotine
+- triiodomethane
+- trinitrobenzene
+- tropine
+- trotline

@@ -1,0 +1,32 @@
+---
+pattern: rec_ted
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 22
+score: 1706139
+score_per_word: 94785
+hi_scored_words:
+  recalculated: 66325
+  recanted: 92162
+  reciprocated: 76506
+  recited: 27217
+  recollected: 88462
+  reconnected: 63550
+  reconstituted: 38471
+  reconstructed: 22851
+  recounted: 33324
+  recreated: 35232
+  recruited: 13511
+scored_words:
+  recapitulated: 184294
+  receipted: 140389
+  recirculated: 124302
+  recommitted: 154898
+  recomputed: 142257
+  reconverted: 232413
+  recuperated: 169975
+not_scored_words:
+- reconsecrated
+- recontacted
+- recontaminated
+- recriminated

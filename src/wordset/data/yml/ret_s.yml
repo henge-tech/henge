@@ -1,0 +1,87 @@
+---
+pattern: ret_s
+hi_scored_words_count: 21
+scored_words_count: 22
+total_words: 77
+score: 4773501
+score_per_word: 111011
+hi_scored_words:
+  retailers: 6005
+  retails: 46476
+  retainers: 44559
+  retains: 12128
+  retardants: 83855
+  retards: 53691
+  retinas: 88599
+  retinitis: 71586
+  retirees: 20798
+  retirements: 51422
+  retires: 29175
+  retorts: 63557
+  retractions: 67975
+  retracts: 82356
+  retreats: 19937
+  retrievers: 52377
+  retrieves: 32591
+  retrovirus: 72039
+  retroviruses: 70034
+  returnees: 63564
+  returns: 1769
+scored_words:
+  retakes: 121167
+  retaliates: 174639
+  retaliations: 296976
+  retarders: 224848
+  retells: 137716
+  retentions: 132401
+  retests: 254027
+  rethinks: 158996
+  reticles: 239963
+  retraces: 204164
+  retractors: 136562
+  retransmissions: 131593
+  retransmits: 201957
+  retreads: 208815
+  retrenchments: 242935
+  retries: 103289
+  retrievals: 108059
+  retrofits: 113789
+  retros: 144332
+  retrospectives: 112061
+  rets: 164331
+  returners: 126388
+not_scored_words:
+- retailings
+- retaliators
+- retches
+- reteaches
+- retentiveness
+- retentivities
+- retiarius
+- reticulates
+- reticulations
+- reticules
+- reticulums
+- reties
+- retinitides
+- retinols
+- retinues
+- retiringness
+- retools
+- retouches
+- retrains
+- retranslates
+- retrenches
+- retrials
+- retributions
+- retrofires
+- retroflexions
+- retrogrades
+- retrogress
+- retrogresses
+- retrorockets
+- retrospects
+- retroversions
+- returnables
+- retweets
+- retypes

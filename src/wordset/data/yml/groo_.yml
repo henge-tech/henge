@@ -1,0 +1,26 @@
+---
+pattern: groo_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 16
+score: 911012
+score_per_word: 65072
+hi_scored_words:
+  groom: 14125
+  groomed: 33557
+  groomer: 68269
+  groomers: 85345
+  grooming: 22420
+  grooms: 36939
+  groomsmen: 54660
+  groove: 10467
+  grooved: 50198
+  grooves: 19296
+  grooving: 68093
+  groovy: 17751
+scored_words:
+  groomsman: 127789
+  grooviest: 302103
+not_scored_words:
+- groovier
+- grooviness

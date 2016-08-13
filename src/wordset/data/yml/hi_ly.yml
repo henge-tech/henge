@@ -1,0 +1,22 @@
+---
+pattern: hi_ly
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 12
+score: 334318
+score_per_word: 41789
+hi_scored_words:
+  hideously: 72020
+  hierarchically: 60008
+  highly: 1331
+  hilariously: 56372
+  hillbilly: 35712
+  hilly: 31238
+  histologically: 66823
+  historically: 10814
+scored_words: {}
+not_scored_words:
+- hieratically
+- hieroglyphically
+- highhandedly
+- histrionically

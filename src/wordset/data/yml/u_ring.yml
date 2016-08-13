@@ -1,0 +1,31 @@
+---
+pattern: u_ring
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 21
+score: 1274425
+score_per_word: 91030
+hi_scored_words:
+  umpiring: 83361
+  uncaring: 72339
+  uncovering: 34817
+  underscoring: 80793
+  unerring: 67235
+  unflattering: 77844
+  uninspiring: 80435
+  untiring: 84946
+  unwavering: 46963
+  ushering: 71619
+  uttering: 46474
+scored_words:
+  unfaltering: 191339
+  unsparing: 145134
+  upholstering: 191126
+not_scored_words:
+- unbarring
+- unfearing
+- unfettering
+- unlimbering
+- unstring
+- uprearing
+- upspring

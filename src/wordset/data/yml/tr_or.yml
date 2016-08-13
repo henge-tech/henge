@@ -1,0 +1,26 @@
+---
+pattern: tr_or
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 397824
+score_per_word: 44202
+hi_scored_words:
+  tractor: 11404
+  traitor: 18404
+  transferor: 66776
+  transistor: 20715
+  translator: 9641
+  trapdoor: 67613
+  tremor: 23229
+  tricolor: 56829
+scored_words:
+  transgressor: 123213
+not_scored_words:
+- Trevor
+- traditor
+- trafficator
+- transactor
+- transliterator
+- transmigrator
+- trisector

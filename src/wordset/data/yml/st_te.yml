@@ -1,0 +1,41 @@
+---
+pattern: st_te
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 31
+score: 1866199
+score_per_word: 116637
+hi_scored_words:
+  stagnate: 87368
+  stalemate: 40983
+  state: 141
+  statuette: 52649
+  statute: 8868
+  stellate: 96647
+  stimulate: 10115
+  stipulate: 40432
+scored_words:
+  stablemate: 179678
+  stalactite: 206603
+  stalagmite: 224886
+  staminate: 235512
+  steatite: 209587
+  stockinette: 170909
+  striate: 124964
+  stylite: 176857
+not_scored_words:
+- Stellite
+- stacte
+- stannite
+- staurolite
+- stereobate
+- stibnite
+- stilbite
+- stipitate
+- storiette
+- strangulate
+- straticulate
+- stridulate
+- strontianite
+- stylobate
+- stylolite

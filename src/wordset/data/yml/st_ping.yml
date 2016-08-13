@@ -1,0 +1,22 @@
+---
+pattern: st_ping
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 12
+score: 510550
+score_per_word: 46413
+hi_scored_words:
+  stamping: 16482
+  stepping: 8506
+  stereotyping: 43276
+  stomping: 37689
+  stooping: 63528
+  stopping: 5102
+  strapping: 30604
+  striping: 43653
+  stripping: 14617
+scored_words:
+  steeping: 111672
+  stumping: 135421
+not_scored_words:
+- stropping

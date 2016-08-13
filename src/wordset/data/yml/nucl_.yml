@@ -1,0 +1,38 @@
+---
+pattern: nucl_
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 28
+score: 2124701
+score_per_word: 92378
+hi_scored_words:
+  nuclear: 6120
+  nuclease: 79216
+  nucleation: 45213
+  nuclei: 23512
+  nucleic: 17483
+  nucleolar: 83559
+  nucleolus: 72441
+  nucleon: 48867
+  nucleons: 93756
+  nucleoside: 50085
+  nucleosides: 97484
+  nucleotide: 16134
+  nucleotides: 30446
+  nucleus: 9948
+  nuclide: 86986
+scored_words:
+  nucleate: 180441
+  nucleated: 111549
+  nucleating: 251021
+  nucleoli: 144979
+  nucleonics: 197307
+  nucleoplasm: 128800
+  nucleoprotein: 174561
+  nucleotidase: 174793
+not_scored_words:
+- nucleates
+- nucleolated
+- nucleonic
+- nucleoplasms
+- nuclidic

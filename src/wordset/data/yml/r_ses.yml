@@ -1,0 +1,84 @@
+---
+pattern: r_ses
+hi_scored_words_count: 14
+scored_words_count: 15
+total_words: 74
+score: 3283665
+score_per_word: 113229
+hi_scored_words:
+  racecourses: 82715
+  racehorses: 91569
+  raises: 6921
+  recesses: 39947
+  refuses: 10337
+  relapses: 70926
+  releases: 8568
+  responses: 5245
+  retroviruses: 70034
+  reverses: 31565
+  revises: 53048
+  rinses: 89246
+  rises: 6444
+  roses: 3696
+scored_words:
+  reanalyses: 297637
+  recluses: 234811
+  refocuses: 282676
+  regresses: 201919
+  rehearses: 143866
+  reimburses: 117058
+  reposes: 189976
+  represses: 113432
+  reprises: 103507
+  repulses: 242901
+  repurchases: 133311
+  reuses: 133229
+  rhinoceroses: 236510
+  rouses: 100571
+  ruses: 182000
+not_scored_words:
+- Ramesses
+- Ramses
+- rachises
+- raffinoses
+- randomnesses
+- rationalnesses
+- ravenousnesses
+- readdresses
+- reappraises
+- reassesses
+- rebuses
+- reclusivenesses
+- recompenses
+- recomposes
+- recompresses
+- reconditenesses
+- recrosses
+- recuses
+- redresses
+- reflexivenesses
+- refractivenesses
+- refractorinesses
+- rehouses
+- reimposes
+- reliablenesses
+- rendezvouses
+- rephrases
+- repossesses
+- reprocesses
+- reredoses
+- responsiblenesses
+- retrogresses
+- rhesuses
+- rhinoviruses
+- rhombuses
+- riboses
+- ricketinesses
+- rictuses
+- ringhalses
+- roadhouses
+- rockroses
+- roughhouses
+- roundhouses
+- ruckuses
+- rumpuses

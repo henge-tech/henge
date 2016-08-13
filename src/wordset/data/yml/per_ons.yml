@@ -1,0 +1,29 @@
+---
+pattern: per_ons
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 958733
+score_per_word: 73748
+hi_scored_words:
+  perceptions: 10290
+  perfections: 77107
+  perforations: 63783
+  permissions: 8862
+  permutations: 36495
+  persecutions: 55930
+  persons: 1153
+  persuasions: 63653
+  perturbations: 38621
+  perversions: 69406
+scored_words:
+  peregrinations: 204437
+  persimmons: 128026
+  personifications: 200970
+not_scored_words:
+- perambulations
+- perfusions
+- perigons
+- perorations
+- perseverations
+- pervasions

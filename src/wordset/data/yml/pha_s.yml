@@ -1,0 +1,45 @@
+---
+pattern: pha_s
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 35
+score: 1474930
+score_per_word: 81940
+hi_scored_words:
+  phages: 87583
+  phagocytosis: 53771
+  phallus: 60945
+  phantoms: 36601
+  pharaohs: 48175
+  pharisees: 34439
+  pharmaceuticals: 9829
+  pharmacies: 14714
+  pharmacists: 20352
+  pharos: 51516
+  pharyngitis: 75068
+  phases: 7190
+scored_words:
+  phagocytes: 103598
+  phalanges: 142891
+  phantasms: 182582
+  pharmaceutics: 115306
+  pharmacologists: 250796
+  phasis: 179574
+not_scored_words:
+- Phaedrus
+- Pharaohs
+- Pharisees
+- Pharos
+- Pharsalus
+- phaetons
+- phalangers
+- phalanxes
+- phalaropes
+- phanerogams
+- phantasmagorias
+- pharmacopeias
+- pharmacopoeias
+- pharmacopsychosis
+- pharoses
+- pharynges
+- phaseouts

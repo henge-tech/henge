@@ -1,0 +1,32 @@
+---
+pattern: at_t
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 633820
+score_per_word: 48755
+hi_scored_words:
+  atheist: 14957
+  atonement: 23320
+  att: 10316
+  attachment: 3986
+  attainment: 12256
+  attempt: 1578
+  attendant: 10273
+  attest: 21866
+  attract: 5250
+  attunement: 84722
+scored_words:
+  athirst: 235835
+  athwart: 108477
+  attractant: 100984
+not_scored_words:
+- Atonement
+- atavist
+- atilt
+- atomist
+- atonalist
+- attaint
+- attenuant
+- attrahent
+- attrit

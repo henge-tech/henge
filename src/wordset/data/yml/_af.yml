@@ -1,0 +1,40 @@
+---
+pattern: _af
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 30
+score: 1487402
+score_per_word: 92962
+hi_scored_words:
+  broadleaf: 59686
+  cloverleaf: 73296
+  deaf: 6063
+  decaf: 39800
+  flyleaf: 86619
+  leaf: 3564
+  loaf: 13909
+  meatloaf: 43040
+  oaf: 51147
+  overleaf: 89108
+  pilaf: 81632
+  sheaf: 41560
+scored_words:
+  haaf: 184588
+  interleaf: 192215
+  kenaf: 191862
+  leatherleaf: 329313
+not_scored_words:
+- AF
+- Af
+- Benacerraf
+- Deaf
+- Graf
+- Musharraf
+- Olaf
+- Piaf
+- RAF
+- USAF
+- WAAF
+- WRAF
+- shinleaf
+- thickleaf

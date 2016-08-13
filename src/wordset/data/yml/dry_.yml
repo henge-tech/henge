@@ -1,0 +1,26 @@
+---
+pattern: dry_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1078381
+score_per_word: 89865
+hi_scored_words:
+  dry: 1452
+  dryad: 87415
+  dryer: 12095
+  dryers: 23099
+  drying: 9116
+  dryly: 78209
+  dryness: 29031
+  drywall: 28893
+scored_words:
+  dryads: 205041
+  drypoint: 193177
+  drys: 144478
+  drystone: 266375
+not_scored_words:
+- Dryden
+- dryasdust
+- dryish
+- drysalter

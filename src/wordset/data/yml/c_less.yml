@@ -1,0 +1,36 @@
+---
+pattern: c_less
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 26
+score: 2003740
+score_per_word: 105460
+hi_scored_words:
+  careless: 13964
+  ceaseless: 53238
+  childless: 42731
+  classless: 66465
+  cloudless: 54476
+  clueless: 22338
+  colorless: 27609
+  cordless: 18723
+  countless: 8704
+scored_words:
+  cashless: 101810
+  causeless: 224239
+  changeless: 132928
+  characterless: 262883
+  charmless: 182110
+  cheerless: 105137
+  collarless: 141483
+  comfortless: 199562
+  costless: 154475
+  cureless: 190865
+not_scored_words:
+- chinless
+- churchless
+- compunctionless
+- conscienceless
+- contextless
+- creaseless
+- crestless

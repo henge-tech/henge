@@ -1,0 +1,45 @@
+---
+pattern: w_nd
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 35
+score: 1390083
+score_per_word: 57920
+hi_scored_words:
+  waistband: 40937
+  wand: 13874
+  wasteland: 26142
+  weekend: 5205
+  wend: 63262
+  westbound: 35290
+  wetland: 14251
+  whirlwind: 22031
+  wind: 1031
+  withstand: 13388
+  wolfhound: 78011
+  wonderland: 22085
+  woodland: 16286
+  woodwind: 31560
+  workaround: 27733
+  wound: 4736
+  wraparound: 54896
+  wristband: 34938
+scored_words:
+  washstand: 122688
+  watchband: 176269
+  waveband: 242149
+  womankind: 100094
+  wunderkind: 106549
+  wynd: 136678
+not_scored_words:
+- Wallsend
+- Wayland
+- Wedekind
+- Welland
+- Wend
+- Westmorland
+- Wieland
+- Witwatersrand
+- weasand
+- windbound
+- womenkind

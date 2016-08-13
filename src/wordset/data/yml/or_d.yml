@@ -1,0 +1,34 @@
+---
+pattern: or_d
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 24
+score: 979746
+score_per_word: 61234
+hi_scored_words:
+  orchard: 11997
+  orchestrated: 32781
+  orchid: 17945
+  ord: 18962
+  ordained: 13510
+  ordered: 1907
+  organized: 2699
+  orientated: 30642
+  oriented: 3641
+  originated: 17013
+  ornamented: 59000
+  orphaned: 31359
+scored_words:
+  orangewood: 200531
+  orbited: 134403
+  oread: 211435
+  orotund: 191921
+not_scored_words:
+- Oranjestad
+- Oresund
+- Ormazd
+- orated
+- ordinand
+- orientalized
+- ornithopod
+- orphanhood

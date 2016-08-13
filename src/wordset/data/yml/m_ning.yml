@@ -1,0 +1,33 @@
+---
+pattern: m_ning
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 23
+score: 770097
+score_per_word: 51339
+hi_scored_words:
+  machining: 19597
+  maddening: 44734
+  maintaining: 3762
+  malfunctioning: 48723
+  manning: 11191
+  meaning: 1468
+  mentioning: 17619
+  mining: 4250
+  moaning: 20214
+  mooning: 84477
+  morning: 633
+  mourning: 11604
+scored_words:
+  maligning: 252457
+  moistening: 143695
+  motioning: 105673
+not_scored_words:
+- Manning
+- mainlining
+- marathoning
+- marooning
+- megaphoning
+- misdemeaning
+- misgoverning
+- munitioning

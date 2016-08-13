@@ -1,0 +1,36 @@
+---
+pattern: c_ntly
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 26
+score: 951821
+score_per_word: 63454
+hi_scored_words:
+  coherently: 67376
+  competently: 57279
+  concomitantly: 67646
+  concurrently: 18473
+  confidently: 18558
+  consequently: 4578
+  consistently: 7158
+  constantly: 3092
+  conveniently: 10881
+  covalently: 74201
+  currently: 4763
+scored_words:
+  cogently: 132259
+  complacently: 135198
+  conjointly: 171717
+  contingently: 178642
+not_scored_words:
+- clamantly
+- clemently
+- complaisantly
+- compliantly
+- concordantly
+- congruently
+- consonantly
+- constituently
+- contently
+- continently
+- conversantly

@@ -1,0 +1,27 @@
+---
+pattern: guid_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 17
+score: 939935
+score_per_word: 67138
+hi_scored_words:
+  guidance: 3457
+  guide: 789
+  guidebook: 19272
+  guidebooks: 37523
+  guided: 4833
+  guideline: 16041
+  guidelines: 7961
+  guides: 3346
+  guiding: 10113
+scored_words:
+  guidepost: 195469
+  guideposts: 106535
+  guider: 110561
+  guiders: 291203
+  guidon: 132832
+not_scored_words:
+- Guido
+- guidable
+- guideboard

@@ -1,0 +1,47 @@
+---
+pattern: co_nal
+hi_scored_words_count: 18
+scored_words_count: 6
+total_words: 37
+score: 1754775
+score_per_word: 73115
+hi_scored_words:
+  coeducational: 69450
+  collisional: 87284
+  communal: 14965
+  compositional: 34369
+  computational: 12491
+  concessional: 84794
+  conditional: 11770
+  confessional: 21910
+  conformational: 40175
+  confrontational: 44130
+  congregational: 24525
+  congressional: 7109
+  constitutional: 4015
+  constructional: 90260
+  conventional: 4153
+  conversational: 25212
+  coronal: 39461
+  correctional: 15101
+scored_words:
+  coalitional: 274962
+  communicational: 221214
+  compressional: 118164
+  conceptional: 270729
+  configurational: 134076
+  correlational: 104456
+not_scored_words:
+- Congregational
+- Congressional
+- coeternal
+- cognitional
+- complexional
+- confutational
+- conjugational
+- conjunctional
+- connotational
+- conservational
+- consuetudinal
+- convectional
+- convocational

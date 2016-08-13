@@ -1,0 +1,29 @@
+---
+pattern: _pie
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 19
+score: 1441254
+score_per_word: 102946
+hi_scored_words:
+  crappie: 60509
+  groupie: 40741
+  hippie: 23574
+  magpie: 33591
+  pie: 4982
+  scrapie: 82378
+  sharpie: 45615
+  yuppie: 54504
+scored_words:
+  chappie: 135016
+  chippie: 230469
+  kelpie: 125992
+  porkpie: 250551
+  preppie: 246575
+  yippie: 106757
+not_scored_words:
+- Gillespie
+- Kewpie
+- creepie
+- potpie
+- weepie

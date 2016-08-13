@@ -1,0 +1,19 @@
+---
+pattern: form_e
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 259425
+score_per_word: 32428
+hi_scored_words:
+  formaldehyde: 27071
+  formalize: 58634
+  formate: 62656
+  formative: 23756
+  forme: 34007
+  formidable: 12665
+  formulae: 23867
+  formulate: 16769
+scored_words: {}
+not_scored_words:
+- formularize

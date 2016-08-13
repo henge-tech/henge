@@ -1,0 +1,54 @@
+---
+pattern: m_red
+hi_scored_words_count: 25
+scored_words_count: 8
+total_words: 44
+score: 2499945
+score_per_word: 75755
+hi_scored_words:
+  majored: 56139
+  maneuvered: 78042
+  manicured: 56416
+  mannered: 44045
+  manufactured: 5946
+  marred: 29112
+  martyred: 58610
+  massacred: 48041
+  mastered: 17031
+  mattered: 27906
+  matured: 26302
+  measured: 3151
+  mentored: 53398
+  metered: 41301
+  ministered: 61018
+  mired: 44995
+  mirrored: 21357
+  monitored: 8375
+  moored: 43442
+  multicolored: 52374
+  multilayered: 79890
+  murdered: 7458
+  murmured: 23402
+  mustered: 29322
+  muttered: 20489
+scored_words:
+  manured: 240033
+  meandered: 117864
+  minored: 249916
+  misfired: 174315
+  mitered: 158586
+  mortared: 252150
+  mothered: 250190
+  motored: 119329
+not_scored_words:
+- Manfred
+- Mildred
+- Modred
+- Mordred
+- malingered
+- maundered
+- misremembered
+- moldered
+- mongered
+- monikered
+- mountaineered

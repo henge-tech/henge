@@ -1,0 +1,31 @@
+---
+pattern: c_ats
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 21
+score: 818296
+score_per_word: 62945
+hi_scored_words:
+  carats: 43927
+  cats: 3949
+  caveats: 34656
+  chats: 19028
+  cheats: 9000
+  cleats: 30577
+  coats: 8249
+  combats: 54342
+  congrats: 11617
+  copycats: 96190
+scored_words:
+  cravats: 160711
+  cryostats: 225465
+  cutthroats: 120585
+not_scored_words:
+- Croats
+- catboats
+- chitchats
+- coelostats
+- commissariats
+- concordats
+- cowpats
+- cushats

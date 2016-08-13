@@ -1,0 +1,30 @@
+---
+pattern: bot_s
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 1059534
+score_per_word: 88294
+hi_scored_words:
+  botanicals: 64430
+  botanists: 69540
+  bothers: 28214
+  bots: 17104
+  bottlenecks: 37159
+  bottles: 4956
+  bottomless: 37542
+  bottoms: 15775
+scored_words:
+  botches: 270842
+  botnets: 164329
+  bottlers: 104124
+  bottomlands: 245519
+not_scored_words:
+- botanizes
+- botchers
+- botflies
+- botherations
+- bottlefuls
+- botulins
+- botulinus
+- botulinuses

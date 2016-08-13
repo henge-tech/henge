@@ -1,0 +1,90 @@
+---
+pattern: th_y
+hi_scored_words_count: 30
+scored_words_count: 20
+total_words: 80
+score: 4089613
+score_per_word: 81792
+hi_scored_words:
+  thankfully: 17464
+  theatrically: 71787
+  thematically: 64237
+  theocracy: 44347
+  theologically: 58274
+  theology: 6126
+  theoretically: 16377
+  theory: 1170
+  theosophy: 50381
+  therapeutically: 85404
+  therapy: 5336
+  thereby: 4318
+  thermally: 42224
+  thermography: 92459
+  they: 35
+  thickly: 37610
+  thievery: 52238
+  thingy: 25230
+  thinly: 27134
+  thirdly: 25011
+  thirsty: 18142
+  thirty: 2734
+  thorny: 34392
+  thoroughly: 4487
+  thoughtfully: 23933
+  thrifty: 22573
+  throwaway: 59117
+  thruway: 70401
+  thusly: 60760
+  thy: 3219
+scored_words:
+  thaumaturgy: 134188
+  theatricality: 148209
+  theodicy: 110772
+  theogony: 232587
+  theophany: 140342
+  thermochemistry: 188761
+  thermodynamically: 133479
+  thermometry: 146749
+  thermostatically: 176279
+  thermotherapy: 269304
+  theurgy: 135458
+  thingummy: 123898
+  thoracotomy: 114026
+  thoughtlessly: 121766
+  threateningly: 138682
+  threepenny: 130975
+  threnody: 175892
+  thrillingly: 198700
+  throaty: 104786
+  thuggery: 137840
+not_scored_words:
+- Thackeray
+- Theocracy
+- Theosophy
+- Thessaly
+- Thursday
+- thalassography
+- thanatology
+- thanklessly
+- thaumatology
+- thearchy
+- theocrasy
+- theocratically
+- theomachy
+- theomancy
+- theosophically
+- thermoelectricity
+- thermometrically
+- thewy
+- thirstily
+- thistly
+- thoracoplasty
+- thornily
+- thready
+- thremmatology
+- thriftily
+- throatily
+- throbbingly
+- throughway
+- thunderously
+- thundery

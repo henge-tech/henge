@@ -1,0 +1,49 @@
+---
+pattern: ship_
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 39
+score: 2741339
+score_per_word: 88430
+hi_scored_words:
+  ship: 801
+  shipboard: 42422
+  shipbuilders: 90543
+  shipbuilding: 29100
+  shipman: 45639
+  shipmates: 69539
+  shipment: 11655
+  shipments: 16138
+  shipowners: 85615
+  shipped: 4771
+  shipper: 23910
+  shippers: 33965
+  shipping: 2678
+  ships: 1196
+  shipwreck: 28371
+  shipwrecked: 56020
+  shipwrecks: 52958
+  shipwright: 98545
+  shipyard: 25866
+  shipyards: 51095
+scored_words:
+  shipbuilder: 117996
+  shipload: 273746
+  shipmaster: 141360
+  shipmate: 100204
+  shipowner: 101360
+  shippable: 172976
+  shippen: 157158
+  shipshape: 100545
+  shipway: 330125
+  shipways: 287799
+  shipwrights: 187243
+not_scored_words:
+- shipboards
+- shipborne
+- shipentine
+- shipfitter
+- shiploads
+- shipworm
+- shipworms
+- shipwrecking

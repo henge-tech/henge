@@ -1,0 +1,26 @@
+---
+pattern: pre_ry
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 767562
+score_per_word: 76756
+hi_scored_words:
+  prebendary: 49207
+  precautionary: 33023
+  predatory: 22576
+  prefatory: 91094
+  prehistory: 35070
+  preliminary: 3869
+  preparatory: 13184
+  presbytery: 35891
+scored_words:
+  precursory: 299553
+  premonitory: 184095
+not_scored_words:
+- preambulary
+- precatory
+- preceptory
+- predictory
+- prerevolutionary
+- preslavery

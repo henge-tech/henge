@@ -1,0 +1,35 @@
+---
+pattern: b_lls
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 25
+score: 1388165
+score_per_word: 99154
+hi_scored_words:
+  balls: 3580
+  barbells: 63129
+  baseballs: 56451
+  basketballs: 78968
+  befalls: 96434
+  bells: 6200
+  bills: 3112
+  bluebells: 89870
+  bulls: 10378
+scored_words:
+  bankrolls: 297094
+  bluegills: 215228
+  bolls: 154187
+  bombshells: 119963
+  buckyballs: 193571
+not_scored_words:
+- beanballs
+- bedrolls
+- blackballs
+- blackpolls
+- bluebills
+- boatbills
+- bookstalls
+- brills
+- broadbills
+- butterballs
+- buzzkills

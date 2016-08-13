@@ -1,0 +1,34 @@
+---
+pattern: sha_r
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 24
+score: 1064942
+score_per_word: 81918
+hi_scored_words:
+  shaker: 23162
+  shallower: 57299
+  shaper: 40742
+  shareholder: 19717
+  sharer: 82425
+  sharpener: 38866
+  sharper: 17969
+  sharpshooter: 56059
+  shatter: 28738
+  shaver: 24398
+scored_words:
+  shakier: 309173
+  shampooer: 209401
+  sharecropper: 156993
+not_scored_words:
+- Shaffer
+- Shahjahanpur
+- Shaker
+- Shankar
+- shabbier
+- shadier
+- shadower
+- shadowier
+- shaggier
+- shammer
+- shapelier

@@ -1,0 +1,63 @@
+---
+pattern: g_ls
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 53
+score: 1901252
+score_per_word: 82663
+hi_scored_words:
+  galls: 54676
+  gals: 15622
+  gels: 23814
+  generals: 9930
+  genitals: 25289
+  gerbils: 74335
+  ghouls: 54070
+  gills: 31881
+  girls: 431
+  goals: 2154
+  gospels: 21973
+  gravels: 81758
+  grills: 21780
+  growls: 56899
+  gulls: 33657
+scored_words:
+  gambols: 127073
+  gavels: 245952
+  glycols: 113105
+  goofballs: 255581
+  grails: 180736
+  guardrails: 118627
+  gumballs: 138406
+  gunnels: 213503
+not_scored_words:
+- Gaels
+- Gauls
+- Goebbels
+- Goethals
+- Gospels
+- galangals
+- gambrels
+- garboils
+- gavials
+- gearwheels
+- gigapixels
+- gimbals
+- gimels
+- girasols
+- glassfuls
+- glockenspiels
+- glyceryls
+- gnarls
+- goldenseals
+- gorals
+- grapnels
+- greaseballs
+- gristmills
+- gromwells
+- groundsels
+- groundswells
+- grovels
+- guildhalls
+- gumboils
+- gutturals

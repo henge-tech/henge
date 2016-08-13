@@ -1,0 +1,23 @@
+---
+pattern: sno_ng
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 586651
+score_per_word: 53331
+hi_scored_words:
+  snooping: 35905
+  snoring: 22511
+  snorkeling: 28764
+  snorting: 32550
+  snowballing: 83837
+  snowboarding: 13932
+  snowing: 38253
+  snowmobiling: 51953
+  snowshoeing: 56490
+scored_words:
+  snogging: 115324
+  snoozing: 107132
+not_scored_words:
+- snookering
+- snowplowing

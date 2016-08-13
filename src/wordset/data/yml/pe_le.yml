@@ -1,0 +1,52 @@
+---
+pattern: pe_le
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 42
+score: 2135003
+score_per_word: 79074
+hi_scored_words:
+  peaceable: 44469
+  pebble: 18417
+  peddle: 52692
+  pedicle: 92745
+  pedophile: 42803
+  peduncle: 83714
+  peephole: 91188
+  penile: 36836
+  pensionable: 86930
+  pentacle: 63819
+  people: 86
+  percentile: 19318
+  perceptible: 39838
+  perishable: 31897
+  periwinkle: 40907
+  permeable: 33826
+  permissible: 16597
+  personable: 50600
+  pestle: 53989
+  petiole: 69145
+scored_words:
+  pellicle: 182216
+  penetrable: 180822
+  pentangle: 173078
+  percale: 136012
+  perceivable: 122763
+  perdurable: 209497
+  peristyle: 160799
+not_scored_words:
+- Peale
+- Peele
+- Pele
+- peccable
+- pensile
+- pentastyle
+- penuchle
+- perfectible
+- performable
+- pericycle
+- persuadable
+- persuasible
+- perturbable
+- pesthole
+- petiolule

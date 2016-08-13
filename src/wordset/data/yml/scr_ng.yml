@@ -1,0 +1,39 @@
+---
+pattern: scr_ng
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 29
+score: 1491298
+score_per_word: 74564
+hi_scored_words:
+  scrambling: 27408
+  scraping: 27562
+  scrapping: 39706
+  scratching: 17552
+  screaming: 15348
+  screeching: 39583
+  screening: 9630
+  screenwriting: 35875
+  screwing: 25042
+  scribbling: 60903
+  scripting: 10072
+  scrolling: 15932
+  scrubbing: 36129
+  scrutinizing: 66591
+scored_words:
+  scrabbling: 193348
+  scrawling: 233735
+  scribing: 128574
+  scriptwriting: 103008
+  scrounging: 132235
+  scrunching: 273065
+not_scored_words:
+- scramming
+- screaking
+- scrimmaging
+- scrimping
+- scrimshawing
+- scrummaging
+- scrumming
+- scrumping
+- scrupling

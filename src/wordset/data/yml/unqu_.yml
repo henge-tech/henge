@@ -1,0 +1,30 @@
+---
+pattern: unqu_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 1285564
+score_per_word: 107130
+hi_scored_words:
+  unqualified: 25361
+  unquenchable: 94797
+  unquestionable: 58742
+  unquestionably: 32534
+  unquestioned: 60459
+  unquestioning: 93747
+  unquiet: 95166
+  unquote: 72148
+scored_words:
+  unquantifiable: 200207
+  unquantified: 288925
+  unquestioningly: 122630
+  unquoted: 140848
+not_scored_words:
+- unqualifiedly
+- unquenchably
+- unquenched
+- unquieter
+- unquietest
+- unquotable
+- unquotes
+- unquoting

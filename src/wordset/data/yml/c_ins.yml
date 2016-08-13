@@ -1,0 +1,54 @@
+---
+pattern: c_ins
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 44
+score: 1618171
+score_per_word: 77055
+hi_scored_words:
+  cabins: 13812
+  captains: 12653
+  chains: 4534
+  chaplains: 40027
+  chieftains: 46417
+  chins: 53800
+  coffins: 39774
+  coins: 3486
+  collins: 5458
+  complains: 21779
+  constrains: 63471
+  contains: 1499
+  cousins: 11406
+  curtains: 8308
+scored_words:
+  capuchins: 130893
+  catkins: 179575
+  chamberlains: 161452
+  chilblains: 236367
+  clothespins: 170761
+  cremains: 287877
+  cretins: 124822
+not_scored_words:
+- Cains
+- Chloromycetins
+- Collins
+- cannabins
+- cannikins
+- capelins
+- caplins
+- capsaicins
+- chagrins
+- checkreins
+- chevrotains
+- chincapins
+- chinkapins
+- chinquapins
+- chitlins
+- chrysarobins
+- citrins
+- conjoins
+- coonskins
+- cowskins
+- coxswains
+- cyanocobalamins
+- cyanohydrins

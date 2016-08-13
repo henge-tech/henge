@@ -1,0 +1,31 @@
+---
+pattern: div_e
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 21
+score: 323706
+score_per_word: 26975
+hi_scored_words:
+  dive: 7152
+  diverge: 39998
+  divergence: 22349
+  diverse: 5039
+  divestiture: 55034
+  divide: 5407
+  divine: 3315
+  divisible: 36878
+  divisive: 34012
+  divorce: 4175
+  divorcee: 76151
+  divulge: 34196
+scored_words: {}
+not_scored_words:
+- Divine
+- divagate
+- divalence
+- divaricate
+- dividable
+- divinize
+- divorcée
+- divulgate
+- divulgence

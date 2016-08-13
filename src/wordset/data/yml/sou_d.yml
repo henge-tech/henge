@@ -1,0 +1,27 @@
+---
+pattern: sou_d
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 1168705
+score_per_word: 83478
+hi_scored_words:
+  souled: 94949
+  sound: 461
+  soundboard: 54321
+  sounded: 7013
+  souped: 82466
+  sourced: 20923
+  soured: 68213
+  southbound: 30715
+  southland: 26823
+  southward: 30266
+scored_words:
+  soundproofed: 137790
+  soused: 247540
+  southeastward: 170775
+  southwestward: 196450
+not_scored_words:
+- Sound
+- soughed
+- sourwood

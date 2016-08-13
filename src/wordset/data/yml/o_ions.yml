@@ -1,0 +1,46 @@
+---
+pattern: o_ions
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 36
+score: 1399710
+score_per_word: 55988
+hi_scored_words:
+  objections: 8923
+  obligations: 4681
+  observations: 3278
+  obsessions: 38839
+  obstructions: 34513
+  occasions: 3773
+  occupations: 7308
+  omissions: 14473
+  onions: 10683
+  operations: 1434
+  opinions: 1925
+  oppositions: 65949
+  optimizations: 29656
+  options: 12788
+  orations: 95358
+  orchestrations: 89484
+  organizations: 2560
+  orientations: 25067
+  oscillations: 26530
+  ovations: 90565
+scored_words:
+  oblations: 178024
+  occlusions: 115018
+  oppressions: 115560
+  ordinations: 137027
+  outstations: 286294
+not_scored_words:
+- Onions
+- obfuscations
+- objectifications
+- objurgations
+- officiations
+- olfactions
+- osculations
+- overprotections
+- overreactions
+- oversimplifications
+- overvaluations

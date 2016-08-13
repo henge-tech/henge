@@ -1,0 +1,30 @@
+---
+pattern: _real
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 20
+score: 767167
+score_per_word: 54797
+hi_scored_words:
+  arboreal: 70794
+  areal: 48550
+  boreal: 32838
+  cereal: 15639
+  corporeal: 43652
+  ethereal: 14955
+  funereal: 82566
+  incorporeal: 80099
+  real: 198
+  sidereal: 67686
+  surreal: 17501
+  unreal: 10414
+  venereal: 48736
+scored_words:
+  empyreal: 233539
+not_scored_words:
+- Boreal
+- L'Oreal
+- Montreal
+- Villarreal
+- intersidereal
+- marmoreal

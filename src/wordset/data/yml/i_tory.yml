@@ -1,0 +1,36 @@
+---
+pattern: i_tory
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 26
+score: 1725796
+score_per_word: 123271
+hi_scored_words:
+  inflammatory: 13325
+  inhibitory: 23446
+  inspiratory: 84203
+  interlocutory: 65616
+  interrogatory: 78356
+  introductory: 9877
+  inventory: 5467
+  investigatory: 68859
+scored_words:
+  improvisatory: 240041
+  incantatory: 162765
+  inculpatory: 216611
+  informatory: 332243
+  initiatory: 151109
+  innovatory: 273878
+not_scored_words:
+- implicatory
+- imprecatory
+- inclinatory
+- incriminatory
+- indicatory
+- indoctrinatory
+- ingratiatory
+- interdictory
+- interjectory
+- intimidatory
+- invitatory
+- invocatory

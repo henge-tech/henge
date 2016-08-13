@@ -1,0 +1,22 @@
+---
+pattern: f_ile
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 12
+score: 198622
+score_per_word: 24827
+hi_scored_words:
+  facile: 33858
+  facsimile: 17321
+  febrile: 48902
+  fertile: 11498
+  file: 601
+  fissile: 55452
+  fragile: 10520
+  futile: 20470
+scored_words: {}
+not_scored_words:
+- Francophile
+- fictile
+- flexile
+- fluviatile

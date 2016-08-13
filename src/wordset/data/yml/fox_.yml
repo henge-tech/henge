@@ -1,0 +1,38 @@
+---
+pattern: fox_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 28
+score: 1468711
+score_per_word: 97914
+hi_scored_words:
+  fox: 3028
+  foxes: 20700
+  foxfire: 95190
+  foxglove: 78957
+  foxhole: 77343
+  foxholes: 92030
+  foxhound: 82724
+  foxing: 91663
+  foxtail: 79897
+  foxtrot: 42316
+  foxy: 29802
+scored_words:
+  foxed: 134624
+  foxgloves: 229859
+  foxhounds: 216694
+  foxhunting: 193884
+not_scored_words:
+- Fox
+- Foxe
+- Foxes
+- foxhunt
+- foxhunts
+- foxier
+- foxiest
+- foxily
+- foxiness
+- foxtails
+- foxtrots
+- foxtrotted
+- foxtrotting

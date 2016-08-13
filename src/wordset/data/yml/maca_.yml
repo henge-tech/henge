@@ -1,0 +1,36 @@
+---
+pattern: maca_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 26
+score: 1268960
+score_per_word: 90640
+hi_scored_words:
+  macabre: 32576
+  macadam: 67673
+  macadamia: 49707
+  macaque: 56967
+  macaques: 74268
+  macarena: 76760
+  macaroni: 25690
+  macaw: 49098
+  macaws: 80005
+scored_words:
+  macaco: 112596
+  macadamias: 262538
+  macaronic: 152380
+  macaroon: 112305
+  macaroons: 116397
+not_scored_words:
+- MacArthur
+- Macanese
+- Macao
+- Macassar
+- Macau
+- Macaulay
+- macadamize
+- macadamized
+- macadamizes
+- macadamizing
+- macaronics
+- macaronis

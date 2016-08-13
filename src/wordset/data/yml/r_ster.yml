@@ -1,0 +1,29 @@
+---
+pattern: r_ster
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 736879
+score_per_word: 56683
+hi_scored_words:
+  raster: 28202
+  register: 3277
+  remaster: 48334
+  requester: 38052
+  ringmaster: 69008
+  roadster: 31930
+  roaster: 50543
+  rollercoaster: 29798
+  rooster: 19118
+  roster: 9563
+scored_words:
+  resister: 125573
+  rester: 123781
+  roister: 159700
+not_scored_words:
+- Rochester
+- reupholster
+- rhymester
+- rimester
+- ringster
+- robuster

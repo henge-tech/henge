@@ -1,0 +1,29 @@
+---
+pattern: six_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 19
+score: 1056808
+score_per_word: 75486
+hi_scored_words:
+  six: 560
+  sixes: 51777
+  sixpence: 41885
+  sixteen: 7169
+  sixteenth: 16303
+  sixth: 4304
+  sixties: 24930
+  sixtieth: 76272
+  sixty: 5803
+scored_words:
+  sixfold: 145870
+  sixpences: 167596
+  sixpenny: 114302
+  sixteenths: 256374
+  sixths: 143663
+not_scored_words:
+- sixshooter
+- sixteenmo
+- sixteens
+- sixthly
+- sixtieths

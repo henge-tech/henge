@@ -1,0 +1,44 @@
+---
+pattern: dism_
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 34
+score: 2233101
+score_per_word: 82707
+hi_scored_words:
+  dismal: 17965
+  dismantle: 29726
+  dismantled: 30415
+  dismantling: 28920
+  dismay: 20537
+  dismayed: 35882
+  dismember: 77470
+  dismembered: 72989
+  dismemberment: 55103
+  dismiss: 10697
+  dismissal: 11458
+  dismissals: 61518
+  dismissed: 6434
+  dismisses: 40246
+  dismissing: 29539
+  dismissive: 55841
+  dismount: 48272
+  dismounted: 57174
+scored_words:
+  dismally: 108841
+  dismantlement: 133604
+  dismantler: 271277
+  dismantles: 149793
+  dismaying: 185045
+  dismembering: 209883
+  dismissively: 163883
+  dismounting: 110348
+  dismounts: 210241
+not_scored_words:
+- dismast
+- dismayingly
+- dismays
+- dismembers
+- dismissible
+- dismissiveness
+- dismountable

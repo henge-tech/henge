@@ -1,0 +1,60 @@
+---
+pattern: n_nt
+hi_scored_words_count: 12
+scored_words_count: 12
+total_words: 50
+score: 3030531
+score_per_word: 126272
+hi_scored_words:
+  nascent: 33692
+  needlepoint: 44858
+  negligent: 20368
+  newsagent: 67162
+  newsprint: 41127
+  nonchalant: 66472
+  nonexistent: 29150
+  nonpayment: 72234
+  nonresident: 38834
+  nonviolent: 33984
+  nourishment: 25632
+  nutrient: 13646
+scored_words:
+  noctilucent: 244012
+  nonadjacent: 306570
+  noncombatant: 212204
+  noncompliant: 118428
+  noncurrent: 151272
+  nondominant: 248676
+  nonmalignant: 224599
+  nonpermanent: 306495
+  nonpregnant: 156963
+  nonsignificant: 109590
+  nontransparent: 341066
+  nutriment: 123497
+not_scored_words:
+- Norplant
+- naissant
+- natant
+- negotiant
+- nescient
+- nigrescent
+- nonabsorbent
+- nonalignment
+- nonbelligerent
+- noncoherent
+- nonconcurrent
+- nondevelopment
+- nonenforcement
+- nonequivalent
+- nonevent
+- nonfulfillment
+- nonindependent
+- nonintoxicant
+- nonmilitant
+- nonobservant
+- nonparticipant
+- nonpersistent
+- nonrecurrent
+- nonresistant
+- nonruminant
+- nonvirulent

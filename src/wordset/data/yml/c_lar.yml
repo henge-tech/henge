@@ -1,0 +1,34 @@
+---
+pattern: c_lar
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 24
+score: 1001182
+score_per_word: 62573
+hi_scored_words:
+  capsular: 74767
+  cardiovascular: 8385
+  caterpillar: 17272
+  cellar: 9362
+  cellular: 8386
+  cerebellar: 39610
+  cerebrovascular: 45801
+  circular: 5466
+  circumpolar: 67954
+  collar: 5277
+  consular: 23337
+  curricular: 19515
+scored_words:
+  condylar: 187734
+  corpuscular: 143342
+  crepuscular: 175253
+  cuticular: 169721
+not_scored_words:
+- Caterpillar
+- canicular
+- cannular
+- capitular
+- carbuncular
+- caruncular
+- circumsolar
+- copular

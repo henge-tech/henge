@@ -1,0 +1,26 @@
+---
+pattern: swar_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 702773
+score_per_word: 78085
+hi_scored_words:
+  swaraj: 97958
+  sward: 77291
+  swarm: 16701
+  swarmed: 59769
+  swarming: 39733
+  swarms: 43340
+  swart: 64531
+  swarthy: 68210
+scored_words:
+  swards: 235240
+not_scored_words:
+- swarded
+- swarth
+- swarthier
+- swarthiest
+- swarthily
+- swarthiness
+- swarthinesses

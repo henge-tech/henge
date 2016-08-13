@@ -1,0 +1,32 @@
+---
+pattern: l_nes
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 22
+score: 1245874
+score_per_word: 103822
+hi_scored_words:
+  landlines: 78109
+  landmines: 41476
+  lanes: 8029
+  latrines: 69690
+  leones: 96505
+  libertines: 59641
+  lifelines: 65093
+  limousines: 21481
+  lines: 696
+scored_words:
+  lazybones: 218470
+  lupines: 246072
+  lysines: 340612
+not_scored_words:
+- Levantines
+- Lindesnes
+- langsynes
+- lasagnes
+- leucines
+- lidocaines
+- limonenes
+- lindanes
+- lodestones
+- lucernes

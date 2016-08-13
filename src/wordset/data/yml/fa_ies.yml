@@ -1,0 +1,29 @@
+---
+pattern: fa_ies
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 19
+score: 961910
+score_per_word: 60119
+hi_scored_words:
+  facies: 50747
+  facilities: 2981
+  factories: 10091
+  faculties: 10242
+  faeries: 62561
+  fairies: 13616
+  fallacies: 41899
+  families: 1269
+  fancies: 32029
+  fantasies: 16853
+  fatalities: 19503
+  fatties: 35154
+scored_words:
+  falsifies: 172719
+  falsities: 222572
+  familiarities: 163154
+  fannies: 106520
+not_scored_words:
+- factualities
+- fakeries
+- falsies

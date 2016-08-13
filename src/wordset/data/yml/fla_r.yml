@@ -1,0 +1,32 @@
+---
+pattern: fla_r
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 22
+score: 1861095
+score_per_word: 116318
+hi_scored_words:
+  flagellar: 94858
+  flair: 22896
+  flamer: 98275
+  flamethrower: 62801
+  flanker: 69357
+  flapper: 51660
+  flasher: 36019
+  flatter: 22005
+  flavor: 6760
+scored_words:
+  flagger: 228650
+  flashier: 193293
+  flashover: 150819
+  flatcar: 215414
+  flattener: 274482
+  flatterer: 156876
+  flayer: 176930
+not_scored_words:
+- flabbier
+- flagellator
+- flaker
+- flakier
+- flaunter
+- flauntier

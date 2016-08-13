@@ -1,0 +1,33 @@
+---
+pattern: p_ging
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 23
+score: 1116152
+score_per_word: 79725
+hi_scored_words:
+  packaging: 4014
+  paging: 20784
+  pegging: 73800
+  pillaging: 83556
+  pinging: 46237
+  pledging: 42605
+  plugging: 26369
+  plunging: 35624
+  prolonging: 49866
+  purging: 36624
+scored_words:
+  pigging: 115437
+  prejudging: 186027
+  presaging: 282277
+  privileging: 112932
+not_scored_words:
+- paperhanging
+- pettifogging
+- photoaging
+- ponging
+- portaging
+- pranging
+- prearranging
+- prepackaging
+- pugging

@@ -1,0 +1,37 @@
+---
+pattern: ab_ly
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 27
+score: 1967847
+score_per_word: 115755
+hi_scored_words:
+  ably: 32603
+  abnormally: 31176
+  abruptly: 14549
+  absently: 67485
+  absolutely: 1811
+  abstractly: 76461
+  absurdly: 41620
+  abundantly: 30218
+scored_words:
+  abhorrently: 229308
+  abjectly: 164666
+  abominably: 149856
+  aboriginally: 233068
+  absentmindedly: 153697
+  absorbingly: 231606
+  abstractedly: 189205
+  abusively: 196400
+  abysmally: 124118
+not_scored_words:
+- abandonedly
+- abashedly
+- abdominally
+- aberrantly
+- abidingly
+- abortively
+- abrasively
+- abstemiously
+- abstinently
+- abstrusely

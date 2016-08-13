@@ -1,0 +1,21 @@
+---
+pattern: ha_ring
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 11
+score: 404078
+score_per_word: 50509
+hi_scored_words:
+  hammering: 31107
+  hampering: 68677
+  hamstring: 37874
+  handspring: 38519
+  hankering: 53914
+  harboring: 52129
+  haring: 63436
+  havering: 58422
+scored_words: {}
+not_scored_words:
+- Havering
+- hairspring
+- haltering

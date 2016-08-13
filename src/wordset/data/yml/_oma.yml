@@ -1,0 +1,57 @@
+---
+pattern: _oma
+hi_scored_words_count: 22
+scored_words_count: 10
+total_words: 47
+score: 2659734
+score_per_word: 83116
+hi_scored_words:
+  adenocarcinoma: 35654
+  adenoma: 44079
+  aroma: 17223
+  carcinoma: 15229
+  chroma: 41416
+  coma: 17650
+  diploma: 11119
+  glaucoma: 23849
+  glioma: 55428
+  granuloma: 67176
+  hemangioma: 92448
+  hematoma: 56192
+  lymphoma: 16260
+  melanoma: 21083
+  myeloma: 34291
+  neuroma: 93148
+  noma: 71975
+  papilloma: 71135
+  sarcoma: 26954
+  soma: 17626
+  stoma: 69180
+  zygoma: 95106
+scored_words:
+  angioma: 184499
+  atheroma: 172028
+  choriocarcinoma: 149855
+  condyloma: 203332
+  fibroma: 107210
+  lipoma: 119705
+  lymphosarcoma: 260918
+  myxoma: 164409
+  osteoma: 199295
+  trachoma: 104262
+not_scored_words:
+- Dodoma
+- Kostroma
+- Oklahoma
+- Roma
+- Soma
+- Tacoma
+- caeoma
+- chondroma
+- encephaloma
+- enchondroma
+- endothelioma
+- epithelioma
+- leucoma
+- narcoma
+- scleroma

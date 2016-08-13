@@ -1,0 +1,54 @@
+---
+pattern: sla_s
+hi_scored_words_count: 15
+scored_words_count: 11
+total_words: 44
+score: 2248376
+score_per_word: 86476
+hi_scored_words:
+  slabs: 23979
+  slackers: 55824
+  slacks: 36374
+  slags: 79746
+  slams: 22443
+  slanderous: 56674
+  slaps: 41586
+  slashes: 45851
+  slates: 46396
+  slats: 52650
+  slaughterhouses: 89512
+  slaughters: 98773
+  slaves: 5248
+  slayers: 47016
+  slays: 82292
+scored_words:
+  slackness: 137486
+  slammers: 130617
+  slanderers: 228436
+  slanders: 109150
+  slants: 109816
+  slappers: 131493
+  slashers: 106191
+  slaters: 179532
+  slaveholders: 102235
+  slavers: 126582
+  slayings: 102474
+not_scored_words:
+- Slavs
+- slabbers
+- slackenings
+- slackens
+- slagheaps
+- slakes
+- slaloms
+- slanginess
+- slanginesses
+- slashings
+- slathers
+- slatings
+- slatternliness
+- slatternlinesses
+- slatterns
+- slaughterers
+- slaveys
+- slavishness

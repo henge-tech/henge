@@ -1,0 +1,50 @@
+---
+pattern: ha_l
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 40
+score: 1344996
+score_per_word: 70789
+hi_scored_words:
+  habitual: 19232
+  hail: 8855
+  hairball: 76319
+  halal: 40977
+  hall: 871
+  hamal: 91648
+  handball: 28975
+  handful: 7799
+  handrail: 64098
+  hardball: 37532
+  harmful: 9500
+  hateful: 18943
+  haul: 10654
+  hazel: 11867
+scored_words:
+  handbill: 104808
+  handsel: 235782
+  hangnail: 148513
+  harl: 165252
+  hartal: 263371
+not_scored_words:
+- Haeckel
+- Hal
+- Hall
+- Hallel
+- Hamal
+- Hamill
+- Handel
+- Hangul
+- Hannibal
+- Hansel
+- Harrell
+- Hasdrubal
+- Haskell
+- Havel
+- Hazel
+- hagiographical
+- hairtail
+- hallucinational
+- harebell
+- hatchel
+- hawkbill

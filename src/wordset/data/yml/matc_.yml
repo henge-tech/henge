@@ -1,0 +1,34 @@
+---
+pattern: matc_
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 24
+score: 1792838
+score_per_word: 94359
+hi_scored_words:
+  match: 1379
+  matchbook: 63073
+  matchbox: 26750
+  matched: 7455
+  matcher: 88010
+  matches: 3784
+  matching: 7748
+  matchless: 56808
+  matchmaker: 31482
+  matchmaking: 20604
+  matchstick: 72526
+  matchup: 28461
+scored_words:
+  matchable: 335414
+  matchbooks: 149038
+  matchboxes: 235996
+  matchlock: 198180
+  matchmakers: 112867
+  matchplay: 154307
+  matchsticks: 198956
+not_scored_words:
+- matchboard
+- matchboards
+- matchlocks
+- matchmark
+- matchwood

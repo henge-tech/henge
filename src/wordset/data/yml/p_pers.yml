@@ -1,0 +1,22 @@
+---
+pattern: p_pers
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 12
+score: 685439
+score_per_word: 62312
+hi_scored_words:
+  pampers: 55002
+  papers: 1201
+  paratroopers: 58203
+  paupers: 87316
+  peacekeepers: 40416
+  peepers: 82807
+  peppers: 15070
+  pipers: 47679
+  poppers: 47469
+scored_words:
+  prospers: 115465
+  pumpers: 134811
+not_scored_words:
+- Pampers

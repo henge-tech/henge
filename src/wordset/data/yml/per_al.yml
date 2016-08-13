@@ -1,0 +1,29 @@
+---
+pattern: per_al
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 19
+score: 545688
+score_per_word: 41976
+hi_scored_words:
+  perceptual: 20981
+  perennial: 13827
+  pericardial: 59331
+  perinatal: 32435
+  perineal: 68977
+  periodical: 13813
+  periodontal: 33897
+  peripheral: 17730
+  peritoneal: 31797
+  perpetual: 9029
+  personal: 355
+  perusal: 39145
+scored_words:
+  periglacial: 204371
+not_scored_words:
+- Perceval
+- Percival
+- perceptional
+- peripteral
+- permutational
+- pertussal

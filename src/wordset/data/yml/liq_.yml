@@ -1,0 +1,51 @@
+---
+pattern: liq_
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 41
+score: 1936016
+score_per_word: 88000
+hi_scored_words:
+  liq: 65429
+  liquefaction: 62217
+  liquefied: 42017
+  liqueur: 30481
+  liqueurs: 56690
+  liquid: 3051
+  liquidate: 47985
+  liquidated: 34463
+  liquidating: 65145
+  liquidation: 22549
+  liquidations: 89249
+  liquidator: 53776
+  liquidators: 58864
+  liquidity: 15557
+  liquids: 15165
+  liquor: 6533
+  liquors: 33886
+scored_words:
+  liquefy: 125902
+  liquefying: 285516
+  liquidambar: 235560
+  liquidates: 317210
+  liquored: 268771
+not_scored_words:
+- liquate
+- liquefacient
+- liquefactive
+- liquefiable
+- liquefier
+- liquefies
+- liquesce
+- liquescent
+- liquidambars
+- liquidize
+- liquidized
+- liquidizer
+- liquidizers
+- liquidizes
+- liquidizing
+- liquidness
+- liquidnesses
+- liquoring
+- liquorish

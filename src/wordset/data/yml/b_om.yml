@@ -1,0 +1,34 @@
+---
+pattern: b_om
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 24
+score: 635931
+score_per_word: 37407
+hi_scored_words:
+  backroom: 44992
+  ballroom: 13574
+  barroom: 96512
+  bathroom: 6700
+  bedroom: 2554
+  bloom: 6412
+  blossom: 10265
+  boardroom: 25826
+  boom: 6244
+  boredom: 17677
+  bosom: 18235
+  bottom: 1152
+  bridegroom: 31809
+  broom: 15852
+  buxom: 50455
+scored_words:
+  besom: 119765
+  broadloom: 167907
+not_scored_words:
+- Bloom
+- Bytom
+- bachelordom
+- beadledom
+- bellbottom
+- boxroom
+- bumbledom

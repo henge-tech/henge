@@ -1,0 +1,36 @@
+---
+pattern: p_ker
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 26
+score: 2007427
+score_per_word: 100371
+hi_scored_words:
+  pacemaker: 32933
+  packer: 28001
+  pawnbroker: 71385
+  peacemaker: 41739
+  pecker: 42302
+  picker: 24573
+  pinker: 66421
+  plucker: 83759
+  poker: 3440
+  porker: 73449
+  printmaker: 87172
+  pucker: 63107
+scored_words:
+  partaker: 143741
+  piker: 107633
+  placekicker: 253239
+  plonker: 268331
+  policymaker: 121127
+  politicker: 139348
+  pricker: 133251
+  punker: 222476
+not_scored_words:
+- Parker
+- picnicker
+- pieceworker
+- plunker
+- prinker
+- provoker

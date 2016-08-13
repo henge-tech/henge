@@ -1,0 +1,30 @@
+---
+pattern: bel_d
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1017594
+score_per_word: 78276
+hi_scored_words:
+  belated: 24753
+  beleaguered: 41782
+  belied: 68758
+  believed: 2710
+  bellied: 36505
+  bellowed: 74911
+  belonged: 9071
+  beloved: 5585
+  belted: 43124
+scored_words:
+  belched: 160934
+  belittled: 109333
+  bellbird: 193060
+  belled: 247068
+not_scored_words:
+- Belgorod
+- belabored
+- belaud
+- belayed
+- bellbottomed
+- bellyached
+- bellyband

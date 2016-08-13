@@ -1,0 +1,30 @@
+---
+pattern: h_ily
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 1306018
+score_per_word: 100462
+hi_scored_words:
+  handily: 58139
+  happily: 7333
+  hastily: 17591
+  haughtily: 98169
+  healthily: 89872
+  heartily: 23610
+  heavily: 3985
+  homily: 48795
+  hungrily: 70001
+scored_words:
+  hardily: 206459
+  hereditarily: 275599
+  huffily: 237016
+  huskily: 169449
+not_scored_words:
+- hazily
+- headily
+- heftily
+- hoarily
+- holily
+- honorarily
+- horsily

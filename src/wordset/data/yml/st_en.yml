@@ -1,0 +1,35 @@
+---
+pattern: st_en
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 25
+score: 982813
+score_per_word: 81901
+hi_scored_words:
+  stamen: 87226
+  statesmen: 28804
+  stepchildren: 88622
+  stiffen: 56193
+  stolen: 4544
+  straighten: 22089
+  strengthen: 5932
+  stricken: 18401
+  striven: 81685
+scored_words:
+  stockmen: 193395
+  strongmen: 229124
+  stuntmen: 166798
+not_scored_words:
+- Staten
+- Steen
+- Steichen
+- Stephen
+- Steuben
+- Steven
+- Stockhausen
+- stablemen
+- stateswomen
+- steepen
+- steersmen
+- straiten
+- stridden

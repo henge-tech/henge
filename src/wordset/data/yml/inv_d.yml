@@ -1,0 +1,30 @@
+---
+pattern: inv_d
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 20
+score: 976144
+score_per_word: 57420
+hi_scored_words:
+  invaded: 13082
+  invalid: 6355
+  invalidated: 45997
+  invented: 6826
+  inventoried: 75205
+  inverted: 16202
+  invested: 6766
+  investigated: 8108
+  invigorated: 82981
+  invited: 2720
+  invoiced: 71792
+  invoked: 13699
+  involved: 1319
+scored_words:
+  invalided: 239447
+  inveighed: 109900
+  inveigled: 146075
+  inviscid: 129670
+not_scored_words:
+- invaginated
+- invigilated
+- involuted

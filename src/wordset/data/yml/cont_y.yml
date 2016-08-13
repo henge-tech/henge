@@ -1,0 +1,55 @@
+---
+pattern: cont_y
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 45
+score: 2694603
+score_per_word: 99800
+hi_scored_words:
+  contemporaneously: 80034
+  contemporary: 2849
+  contemptuously: 82547
+  contentedly: 84031
+  contextually: 90086
+  contiguity: 77720
+  contingency: 13231
+  continually: 5667
+  continuity: 8356
+  continuously: 8159
+  contractility: 82273
+  contractually: 51618
+  contradictory: 15022
+  contrary: 4137
+  contributory: 39691
+  controllability: 86476
+  controversy: 6254
+scored_words:
+  contemporaneity: 286952
+  contiguously: 210539
+  contingently: 178642
+  contrariety: 220003
+  contrarily: 159277
+  contrasty: 214480
+  contritely: 170022
+  controversially: 103769
+  contumacy: 218337
+  contumely: 194431
+not_scored_words:
+- contagiously
+- contemplatively
+- contemporarily
+- contemptibility
+- contemptibly
+- contentiously
+- contently
+- conterminously
+- continentally
+- continently
+- contractibility
+- contradictorily
+- contradistinctively
+- contrapuntally
+- contrastingly
+- contrivedly
+- controllably
+- contumaciously

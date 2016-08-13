@@ -1,0 +1,27 @@
+---
+pattern: l_hed
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 1245756
+score_per_word: 88982
+hi_scored_words:
+  languished: 74080
+  lashed: 40400
+  latched: 47097
+  laughed: 5429
+  launched: 4186
+  lavished: 69496
+  leached: 90407
+  loathed: 66407
+  lurched: 84004
+  lynched: 86223
+scored_words:
+  leashed: 124484
+  lithographed: 140920
+  loudmouthed: 288501
+  lunched: 124122
+not_scored_words:
+- lathed
+- leched
+- leeched

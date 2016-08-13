@@ -1,0 +1,46 @@
+---
+pattern: _uate
+hi_scored_words_count: 19
+scored_words_count: 9
+total_words: 36
+score: 2517108
+score_per_word: 89896
+hi_scored_words:
+  accentuate: 44553
+  actuate: 47876
+  adequate: 3785
+  arcuate: 78608
+  attenuate: 61888
+  effectuate: 79922
+  equate: 27136
+  evacuate: 24365
+  evaluate: 7729
+  fluctuate: 39762
+  graduate: 4611
+  inadequate: 7439
+  insinuate: 65676
+  perpetuate: 25929
+  postgraduate: 14521
+  punctuate: 71872
+  reevaluate: 54614
+  situate: 47359
+  undergraduate: 9585
+scored_words:
+  disambiguate: 135729
+  eventuate: 160979
+  extenuate: 250549
+  habituate: 244765
+  individuate: 313048
+  infatuate: 214542
+  menstruate: 157130
+  sinuate: 127740
+  valuate: 195396
+not_scored_words:
+- acuate
+- antiquate
+- continuate
+- devaluate
+- liquate
+- revaluate
+- superannuate
+- toluate

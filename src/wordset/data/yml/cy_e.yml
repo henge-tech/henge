@@ -1,0 +1,43 @@
+---
+pattern: cy_e
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 33
+score: 1875729
+score_per_word: 110337
+hi_scored_words:
+  cyanide: 29678
+  cyberspace: 18250
+  cycle: 4300
+  cyclone: 17018
+  cyclosporine: 57220
+  cysteine: 31525
+  cystine: 81037
+  cytochrome: 23038
+  cytosine: 68785
+scored_words:
+  cyanate: 215359
+  cyanine: 199890
+  cyanotype: 269966
+  cybercafe: 165171
+  cyclohexane: 100648
+  cyclopropane: 229035
+  cynosure: 110627
+  cystocele: 254182
+not_scored_words:
+- Cybele
+- Cymbeline
+- Cyrene
+- cyanamide
+- cyanite
+- cyclamate
+- cyclonite
+- cyclopentane
+- cyclostome
+- cyclostyle
+- cyme
+- cymene
+- cymogene
+- cymophane
+- cymose
+- cystoscope

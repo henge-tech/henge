@@ -1,0 +1,61 @@
+---
+pattern: p_ties
+hi_scored_words_count: 17
+scored_words_count: 12
+total_words: 51
+score: 2665749
+score_per_word: 91922
+hi_scored_words:
+  panties: 10818
+  particularities: 91543
+  parties: 1176
+  pasties: 65818
+  patties: 45097
+  peculiarities: 28859
+  penalties: 6915
+  personalities: 10920
+  polarities: 88291
+  possibilities: 5122
+  potentialities: 69761
+  practicalities: 53183
+  principalities: 62865
+  priorities: 4516
+  probabilities: 14596
+  propensities: 67297
+  properties: 2452
+scored_words:
+  parities: 122583
+  perplexities: 130245
+  pities: 161230
+  pluralities: 291398
+  polities: 110492
+  potties: 127708
+  pretties: 102887
+  proclivities: 105373
+  profanities: 129517
+  proprieties: 165620
+  purities: 280993
+  putties: 308474
+not_scored_words:
+- palatabilities
+- palpabilities
+- pellucidities
+- perceptibilities
+- perceptivities
+- perdurabilities
+- permissibilities
+- photoconductivities
+- photosensitivities
+- physicalities
+- piezoelectricities
+- pigsties
+- polytonalities
+- ponderosities
+- positivities
+- posteriorities
+- posties
+- practicabilities
+- profundities
+- progressivities
+- proportionalities
+- putridities

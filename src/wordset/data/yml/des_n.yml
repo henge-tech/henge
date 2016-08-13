@@ -1,0 +1,32 @@
+---
+pattern: des_n
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 22
+score: 1356362
+score_per_word: 67818
+hi_scored_words:
+  desalination: 42909
+  description: 830
+  desecration: 42512
+  desegregation: 50229
+  desensitization: 62303
+  desertification: 43029
+  desertion: 40621
+  desiccation: 71148
+  design: 694
+  designation: 8908
+  desolation: 25365
+  desorption: 51713
+  desperation: 16092
+  destabilization: 79326
+  destination: 3600
+  destitution: 73023
+  destruction: 3066
+scored_words:
+  desalinization: 268471
+  desman: 302153
+  despoliation: 170370
+not_scored_words:
+- deselection
+- dessertspoon

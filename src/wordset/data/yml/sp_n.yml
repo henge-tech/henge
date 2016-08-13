@@ -1,0 +1,64 @@
+---
+pattern: sp_n
+hi_scored_words_count: 24
+scored_words_count: 11
+total_words: 54
+score: 2367869
+score_per_word: 67653
+hi_scored_words:
+  spaceman: 56105
+  span: 6495
+  spartan: 16654
+  spawn: 16980
+  spearman: 54724
+  specialization: 20687
+  speciation: 42213
+  specification: 11234
+  specimen: 7733
+  speculation: 8607
+  spin: 5294
+  spleen: 18403
+  spoken: 3017
+  spokesman: 10476
+  spokesmen: 58915
+  spokesperson: 20814
+  spokeswoman: 23839
+  spoon: 8351
+  sporran: 85379
+  sportsman: 18509
+  sportsmen: 35068
+  sprain: 48172
+  spun: 12968
+  spurn: 71884
+scored_words:
+  spacemen: 101829
+  spallation: 126520
+  spavin: 154631
+  speargun: 204022
+  spermatozoon: 209486
+  spittoon: 122055
+  splashdown: 107454
+  spoliation: 125620
+  sportsperson: 152126
+  sportswoman: 152509
+  sportswomen: 249096
+not_scored_words:
+- Spahn
+- Spain
+- Span
+- Spartan
+- Spencerian
+- Spenglerian
+- Spenserian
+- Spitsbergen
+- Springsteen
+- spacewoman
+- spacewomen
+- spelean
+- spelldown
+- spiegeleisen
+- spoilsman
+- spokeswomen
+- spongin
+- sponson
+- spontoon

@@ -1,0 +1,38 @@
+---
+pattern: ki_r
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 28
+score: 1249416
+score_per_word: 73495
+hi_scored_words:
+  kicker: 19516
+  kidder: 48437
+  kidnapper: 64800
+  kier: 74750
+  killdeer: 98766
+  killer: 11308
+  kilometer: 31007
+  kilter: 65580
+  kinder: 16909
+  kingfisher: 31608
+  kipper: 58958
+  kisser: 57904
+  kitchener: 26347
+scored_words:
+  kibitzer: 182790
+  kindergartner: 184353
+  kindlier: 142798
+  kingmaker: 133585
+not_scored_words:
+- Kidderminster
+- Kirchner
+- Kissinger
+- Kitchener
+- kickier
+- kicksorter
+- kieselguhr
+- kiloliter
+- kindergärtner
+- kinglier
+- kinkier

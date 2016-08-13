@@ -1,0 +1,43 @@
+---
+pattern: _mely
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 33
+score: 1757119
+score_per_word: 103359
+hi_scored_words:
+  awesomely: 69211
+  comely: 51711
+  extremely: 1876
+  handsomely: 34365
+  homely: 31048
+  namely: 5099
+  supremely: 40418
+  timely: 6971
+  untimely: 26702
+scored_words:
+  contumely: 194431
+  fearsomely: 277132
+  gamely: 138223
+  gruesomely: 242091
+  lamely: 109277
+  sublimely: 123441
+  tamely: 168942
+  uncomely: 236181
+not_scored_words:
+- blithesomely
+- cumbersomely
+- fulsomely
+- gladsomely
+- irksomely
+- lissomely
+- loathsomely
+- lonesomely
+- noisomely
+- tiresomely
+- toothsomely
+- troublesomely
+- venturesomely
+- wearisomely
+- wholesomely
+- winsomely

@@ -1,0 +1,38 @@
+---
+pattern: s_pes
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 28
+score: 1829209
+score_per_word: 91460
+hi_scored_words:
+  scapes: 79975
+  scopes: 21757
+  scrapes: 49089
+  seascapes: 71483
+  shapes: 5662
+  shoppes: 93277
+  slopes: 9737
+  snipes: 49731
+  soundscapes: 70593
+  steppes: 61360
+  stereotypes: 16658
+  stethoscopes: 96455
+  stripes: 8653
+  subtypes: 36854
+  swipes: 90194
+scored_words:
+  standpipes: 176551
+  stapes: 117388
+  stipes: 135897
+  stovepipes: 327443
+  stroboscopes: 310452
+not_scored_words:
+- Schweppes
+- Scopes
+- sellotapes
+- serapes
+- sideswipes
+- somatotypes
+- spectroscopes
+- stereoscopes

@@ -1,0 +1,30 @@
+---
+pattern: z_g
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 1107999
+score_per_word: 100727
+hi_scored_words:
+  zapping: 74658
+  zeroing: 86523
+  zig: 26105
+  zigzag: 33580
+  zing: 37022
+  zipping: 68152
+  zoning: 13149
+  zooming: 33067
+scored_words:
+  zaftig: 293922
+  zigzagging: 179991
+  zugzwang: 261830
+not_scored_words:
+- Zagazig
+- Zedong
+- Zelig
+- Zug
+- Zweig
+- zincking
+- zinging
+- zippering
+- zoftig

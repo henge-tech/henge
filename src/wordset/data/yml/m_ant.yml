@@ -1,0 +1,28 @@
+---
+pattern: m_ant
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 553058
+score_per_word: 50278
+hi_scored_words:
+  malignant: 11341
+  meant: 1812
+  mendicant: 91672
+  merchant: 2423
+  migrant: 16683
+  militant: 16590
+  miscreant: 81839
+  mordant: 81135
+  mutant: 12840
+scored_words:
+  maidservant: 110168
+  manservant: 126555
+not_scored_words:
+- Maupassant
+- Montherlant
+- malfeasant
+- matriculant
+- mediant
+- ministrant
+- misdemeanant

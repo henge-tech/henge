@@ -1,0 +1,40 @@
+---
+pattern: sys_
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 30
+score: 2208010
+score_per_word: 105143
+hi_scored_words:
+  sysadmin: 36853
+  sysop: 80343
+  syst: 37775
+  system: 225
+  systematic: 6767
+  systematically: 13868
+  systematics: 35867
+  systemic: 13563
+  systemically: 82091
+  systems: 1599
+  systole: 95709
+  systolic: 30510
+scored_words:
+  sysadmins: 107401
+  sysops: 145382
+  systematical: 242633
+  systematization: 177146
+  systematize: 152827
+  systematized: 111144
+  systematizing: 243434
+  systemics: 253435
+  systemized: 339438
+not_scored_words:
+- systaltic
+- systematism
+- systematist
+- systematizes
+- systematology
+- systemize
+- systemizes
+- systemizing
+- systoles

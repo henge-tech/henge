@@ -1,0 +1,45 @@
+---
+pattern: b_ps
+hi_scored_words_count: 13
+scored_words_count: 11
+total_words: 35
+score: 2517493
+score_per_word: 104895
+hi_scored_words:
+  backdrops: 54367
+  backups: 17874
+  battleships: 43761
+  beeps: 39588
+  biceps: 40455
+  bishops: 8945
+  bitmaps: 65579
+  blimps: 90013
+  blips: 95097
+  bookshops: 45957
+  bps: 30559
+  breakups: 70652
+  bumps: 21970
+scored_words:
+  backstops: 319579
+  baps: 110581
+  barbershops: 207278
+  bellhops: 244589
+  bleeps: 112695
+  blowups: 256116
+  bootstraps: 101004
+  bops: 116334
+  buildups: 197167
+  burps: 108680
+  buttercups: 118653
+not_scored_words:
+- backslaps
+- bakeshops
+- barhops
+- barkeeps
+- bebops
+- blackcaps
+- blackdamps
+- blacktops
+- bloops
+- blowlamps
+- bullwhips

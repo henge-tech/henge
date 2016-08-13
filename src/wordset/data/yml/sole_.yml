@@ -1,0 +1,39 @@
+---
+pattern: sole_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 29
+score: 1743519
+score_per_word: 108969
+hi_scored_words:
+  sole: 3328
+  solecism: 94860
+  soled: 90892
+  solely: 4556
+  solemn: 13424
+  solemnity: 42912
+  solemnly: 22782
+  solenoid: 30191
+  solenoids: 82380
+  soles: 25890
+scored_words:
+  solemnities: 206464
+  solemnization: 202532
+  solemnize: 236909
+  solemnized: 134666
+  solemnizing: 288080
+  solenoidal: 263653
+not_scored_words:
+- Solent
+- Soleure
+- solecisms
+- solecistic
+- solemner
+- solemness
+- solemnest
+- solemnified
+- solemnifies
+- solemnify
+- solemnifying
+- solemnizes
+- solemnness

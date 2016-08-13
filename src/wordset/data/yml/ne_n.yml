@@ -1,0 +1,58 @@
+---
+pattern: ne_n
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 48
+score: 1580806
+score_per_word: 83200
+hi_scored_words:
+  negation: 24654
+  negotiation: 7910
+  nelson: 4048
+  neocon: 52502
+  neomycin: 77357
+  neon: 13170
+  nephron: 94318
+  neuron: 23514
+  neurosurgeon: 66683
+  neutralization: 42530
+  neutron: 18056
+  newborn: 15444
+  newsman: 86238
+  newton: 9633
+scored_words:
+  nebulization: 303943
+  nekton: 234123
+  newsmen: 101103
+  newspaperman: 139075
+  newspapermen: 266505
+not_scored_words:
+- Neapolitan
+- Nebraskan
+- Nelsen
+- Nelson
+- Neman
+- Nemean
+- Neptunian
+- Neronian
+- Nestorian
+- Nevadan
+- Nevadian
+- Nevelson
+- Nevin
+- Newcomen
+- Newman
+- Newton
+- Newtonian
+- neaten
+- necessarian
+- necessaritarian
+- necessitation
+- needlewoman
+- needlewomen
+- negatron
+- nemertean
+- newspaperwoman
+- newspaperwomen
+- newswoman
+- newswomen

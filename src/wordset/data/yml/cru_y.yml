@@ -1,0 +1,27 @@
+---
+pattern: cru_y
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 1143963
+score_per_word: 87997
+hi_scored_words:
+  crucially: 40616
+  crucify: 53802
+  crudely: 61887
+  cruelly: 30129
+  cruelty: 10485
+  crumbly: 68345
+  crummy: 52993
+  crunchy: 28747
+  crusty: 33811
+scored_words:
+  cruddy: 111932
+  crudity: 201758
+  crufty: 213124
+  crushingly: 236334
+not_scored_words:
+- cruciality
+- crumby
+- crumply
+- crustily

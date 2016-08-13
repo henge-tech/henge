@@ -1,0 +1,49 @@
+---
+pattern: ou_e
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 39
+score: 1666070
+score_per_word: 79336
+hi_scored_words:
+  ounce: 9767
+  outage: 22468
+  outcome: 9138
+  outdone: 47769
+  outhouse: 44971
+  outline: 4285
+  outlive: 57912
+  outpace: 69807
+  outrage: 12781
+  outre: 64240
+  outshine: 94904
+  outside: 641
+  outsole: 83303
+  outsource: 26999
+  outtake: 95541
+scored_words:
+  oubliette: 169389
+  outcaste: 215818
+  outdistance: 130414
+  outscore: 201252
+  outshone: 168324
+  outsize: 136347
+not_scored_words:
+- Ouse
+- ouphe
+- outargue
+- outbalance
+- outbrave
+- outcurve
+- outdare
+- outdate
+- outface
+- outplace
+- outproduce
+- outrace
+- outrange
+- outride
+- outrode
+- outstare
+- outvote
+- outwore

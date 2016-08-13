@@ -1,0 +1,39 @@
+---
+pattern: swi_s
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 29
+score: 1785007
+score_per_word: 93947
+hi_scored_words:
+  swiftness: 70338
+  swifts: 64638
+  swimmers: 26023
+  swims: 33356
+  swimsuits: 38838
+  swingers: 16016
+  swings: 14387
+  swipes: 90194
+  swirls: 46316
+  switchers: 60608
+  switches: 11599
+  swivels: 66410
+scored_words:
+  swigs: 223604
+  swindlers: 108152
+  swindles: 165994
+  swinges: 327909
+  switchbacks: 128310
+  switchblades: 180315
+  switchboards: 112000
+not_scored_words:
+- Swiss
+- Swisses
+- swiftlets
+- swills
+- swineherds
+- swines
+- swingletrees
+- swishes
+- switcheroos
+- swizzles

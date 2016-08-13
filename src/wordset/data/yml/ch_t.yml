@@ -1,0 +1,83 @@
+---
+pattern: ch_t
+hi_scored_words_count: 24
+scored_words_count: 8
+total_words: 73
+score: 2468919
+score_per_word: 77153
+hi_scored_words:
+  chairlift: 92100
+  chalet: 23257
+  chant: 14677
+  chaplet: 69409
+  chariot: 17226
+  chart: 3790
+  chastisement: 66537
+  chat: 5821
+  chauvinist: 94770
+  cheapest: 8957
+  cheat: 9623
+  checklist: 13118
+  checkout: 10564
+  checkpoint: 15819
+  chemist: 13684
+  cheroot: 74120
+  chert: 63291
+  chest: 3077
+  chestnut: 11708
+  cheviot: 69486
+  chit: 23087
+  chitchat: 73641
+  chloroplast: 52144
+  choicest: 79510
+scored_words:
+  chartist: 132963
+  cheesiest: 234936
+  chemiluminescent: 173923
+  chevet: 183931
+  chickenshit: 211901
+  chiefest: 127016
+  chiropodist: 172823
+  choosiest: 322010
+not_scored_words:
+- Charcot
+- Chaumont
+- Cheviot
+- Chevrolet
+- Chimkent
+- Christ
+- chaffiest
+- chalkiest
+- challot
+- chamberpot
+- chanciest
+- chariest
+- chassepot
+- chastest
+- chatoyant
+- chattiest
+- cheekiest
+- cheerfullest
+- cheeriest
+- chemotherapist
+- chertiest
+- chestiest
+- chewiest
+- chiaroscurist
+- chicest
+- chiliast
+- chillest
+- chilliest
+- chinchiest
+- chinfest
+- chintziest
+- chirpiest
+- cholecyst
+- cholent
+- choppiest
+- chromoplast
+- chronologist
+- chubbiest
+- chummiest
+- chunkiest
+- churchliest

@@ -1,0 +1,85 @@
+---
+pattern: cry_
+hi_scored_words_count: 24
+scored_words_count: 22
+total_words: 75
+score: 5524122
+score_per_word: 120089
+hi_scored_words:
+  cry: 2481
+  crybaby: 63605
+  crying: 4834
+  cryogenic: 33074
+  cryogenics: 93942
+  cryonics: 88474
+  cryostat: 98144
+  crypt: 18498
+  cryptanalysis: 76589
+  cryptic: 28925
+  cryptogram: 98957
+  cryptographic: 27990
+  cryptography: 23901
+  cryptology: 75649
+  crypts: 88457
+  cryst: 74195
+  crystal: 3194
+  crystalline: 16888
+  crystallization: 32240
+  crystallize: 67992
+  crystallized: 47412
+  crystallographic: 53215
+  crystallography: 38980
+  crystals: 9167
+scored_words:
+  crybabies: 152875
+  cryobiology: 241100
+  cryogen: 273808
+  cryogenically: 184143
+  cryolite: 185078
+  cryonic: 239856
+  cryostats: 225465
+  cryosurgery: 110866
+  cryotherapy: 108467
+  cryptanalytic: 308865
+  cryptically: 166633
+  cryptogenic: 283098
+  cryptograms: 193651
+  cryptographer: 209640
+  cryptographers: 169793
+  cryptographically: 123394
+  cryptomeria: 278659
+  crystallite: 216289
+  crystallites: 159970
+  crystallizes: 129626
+  crystallizing: 151393
+  crystalloid: 244650
+not_scored_words:
+- Cryptozoic
+- Crystal
+- cryings
+- crymotherapy
+- cryogens
+- cryohydrate
+- cryolites
+- cryology
+- cryometer
+- cryometers
+- cryoscope
+- cryoscopes
+- cryoscopy
+- cryptanalyst
+- cryptanalytical
+- cryptoanalysis
+- cryptoclastic
+- cryptocrystalline
+- cryptogam
+- cryptogams
+- cryptograph
+- cryptographs
+- cryptonym
+- cryptonymous
+- cryptozoic
+- cryptozoite
+- crystallographer
+- crystallographers
+- crystallographies

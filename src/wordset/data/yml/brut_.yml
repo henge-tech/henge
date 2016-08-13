@@ -1,0 +1,31 @@
+---
+pattern: brut_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 1153366
+score_per_word: 96113
+hi_scored_words:
+  brut: 41667
+  brutal: 6290
+  brutality: 21203
+  brutalized: 99077
+  brutally: 24747
+  brute: 14431
+  brutes: 61959
+  brutish: 51774
+scored_words:
+  brutalities: 163005
+  brutalization: 245904
+  brutalize: 210723
+  brutalizing: 212586
+not_scored_words:
+- Brut
+- Brutus
+- brutalism
+- brutalist
+- brutalizes
+- bruter
+- brutify
+- brutishly
+- brutishness

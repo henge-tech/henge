@@ -1,0 +1,23 @@
+---
+pattern: c_sted
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 710163
+score_per_word: 59180
+hi_scored_words:
+  chested: 44270
+  coasted: 89188
+  composted: 91364
+  congested: 33408
+  consisted: 6837
+  contested: 15887
+  contrasted: 26745
+  costed: 58416
+  crested: 21390
+  crusted: 55958
+scored_words:
+  coexisted: 136786
+  combusted: 129914
+not_scored_words:
+- closefisted

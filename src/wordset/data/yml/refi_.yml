@@ -1,0 +1,49 @@
+---
+pattern: refi_
+hi_scored_words_count: 24
+scored_words_count: 6
+total_words: 39
+score: 2397406
+score_per_word: 79913
+hi_scored_words:
+  refill: 14255
+  refillable: 65598
+  refilled: 55243
+  refilling: 47954
+  refills: 24152
+  refinance: 20356
+  refinanced: 81293
+  refinances: 85509
+  refinancing: 26227
+  refine: 11753
+  refined: 6288
+  refinement: 12249
+  refinements: 31316
+  refiner: 73038
+  refineries: 30286
+  refiners: 66555
+  refinery: 19904
+  refines: 73167
+  refining: 17243
+  refinish: 89669
+  refinished: 96677
+  refinishing: 56598
+  refit: 56354
+  refitted: 87998
+scored_words:
+  refile: 174958
+  refiled: 243254
+  refiling: 238647
+  refinisher: 217854
+  refits: 262306
+  refitting: 110705
+not_scored_words:
+- refight
+- refiles
+- refilm
+- refilter
+- refinings
+- refinishers
+- refinishes
+- refire
+- refix

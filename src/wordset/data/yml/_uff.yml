@@ -1,0 +1,44 @@
+---
+pattern: _uff
+hi_scored_words_count: 22
+scored_words_count: 4
+total_words: 34
+score: 1555811
+score_per_word: 59838
+hi_scored_words:
+  bluff: 9542
+  buff: 13507
+  cuff: 15297
+  dandruff: 39618
+  duff: 15902
+  fluff: 29898
+  foodstuff: 56855
+  gruff: 42291
+  guff: 77950
+  handcuff: 58962
+  huff: 27766
+  luff: 56203
+  muff: 28588
+  puff: 12911
+  rebuff: 74038
+  ruff: 23202
+  scruff: 57872
+  scuff: 54612
+  snuff: 19970
+  stuff: 1135
+  tuff: 26503
+  woodruff: 31524
+scored_words:
+  chuff: 201752
+  dyestuff: 123160
+  earmuff: 229133
+  feedstuff: 227620
+not_scored_words:
+- Acuff
+- Huff
+- breadstuff
+- crossruff
+- fisticuff
+- overstuff
+- restuff
+- sluff

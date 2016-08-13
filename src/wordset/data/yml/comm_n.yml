@@ -1,0 +1,30 @@
+---
+pattern: comm_n
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 20
+score: 868389
+score_per_word: 62027
+hi_scored_words:
+  commemoration: 26270
+  commendation: 29022
+  commercialization: 28011
+  commission: 1314
+  commodification: 88186
+  common: 403
+  commotion: 23282
+  communication: 1395
+  communion: 9536
+  communitarian: 87893
+  commutation: 47646
+scored_words:
+  commiseration: 132396
+  committeeman: 111406
+  committeemen: 281629
+not_scored_words:
+- Communion
+- commensuration
+- commination
+- committeewoman
+- committeewomen
+- communization

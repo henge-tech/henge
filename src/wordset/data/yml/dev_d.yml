@@ -1,0 +1,24 @@
+---
+pattern: dev_d
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 14
+score: 331169
+score_per_word: 33116
+hi_scored_words:
+  devalued: 59891
+  devastated: 20047
+  developed: 1236
+  deviated: 55165
+  deviled: 89456
+  devised: 12248
+  devoid: 22224
+  devolved: 30404
+  devoted: 3923
+  devoured: 36575
+scored_words: {}
+not_scored_words:
+- devaluated
+- devitalized
+- devitrified
+- devoiced

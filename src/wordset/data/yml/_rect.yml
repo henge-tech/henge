@@ -1,0 +1,20 @@
+---
+pattern: _rect
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 323165
+score_per_word: 35907
+hi_scored_words:
+  correct: 1454
+  direct: 770
+  erect: 10674
+  incorrect: 7971
+  indirect: 5550
+  rect: 33085
+  redirect: 17182
+  resurrect: 41556
+scored_words:
+  misdirect: 204923
+not_scored_words:
+- hypercorrect

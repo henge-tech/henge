@@ -1,0 +1,23 @@
+---
+pattern: _page
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 675870
+score_per_word: 61442
+hi_scored_words:
+  decoupage: 71384
+  equipage: 95365
+  homepage: 4019
+  page: 324
+  rampage: 20640
+  seepage: 46268
+  slippage: 52930
+  stoppage: 40159
+  webpage: 11221
+scored_words:
+  stumpage: 130704
+  warpage: 202856
+not_scored_words:
+- Page
+- pipage

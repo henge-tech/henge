@@ -1,0 +1,40 @@
+---
+pattern: sid_s
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 30
+score: 1960345
+score_per_word: 108908
+hi_scored_words:
+  sidebars: 76424
+  sideboards: 90345
+  sideburns: 64911
+  sidekicks: 74817
+  sidelines: 27262
+  sides: 2114
+  sidewalks: 22148
+  sidewalls: 87929
+  sideways: 16889
+  sidings: 71319
+scored_words:
+  sidearms: 255061
+  sidebands: 150834
+  sidecars: 162933
+  sidelights: 114439
+  sideshows: 174978
+  sidesteps: 138962
+  sidetracks: 255788
+  sidewinders: 173192
+not_scored_words:
+- SIDS
+- Siddons
+- sidepieces
+- siderites
+- sideroses
+- siderosis
+- sidesaddles
+- sideslips
+- sidestrokes
+- sideswipes
+- sidewards
+- sidles

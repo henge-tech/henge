@@ -1,0 +1,32 @@
+---
+pattern: _imal
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 22
+score: 962168
+score_per_word: 68726
+hi_scored_words:
+  animal: 961
+  decimal: 15403
+  hexadecimal: 34225
+  infinitesimal: 41649
+  lacrimal: 68987
+  maximal: 16689
+  minimal: 7955
+  optimal: 9587
+  primal: 17011
+  proximal: 22395
+  suboptimal: 60579
+scored_words:
+  duodecimal: 150418
+  planetesimal: 327380
+  vigesimal: 188929
+not_scored_words:
+- Quadragesimal
+- approximal
+- centesimal
+- millesimal
+- pessimal
+- septimal
+- sexagesimal
+- subminimal

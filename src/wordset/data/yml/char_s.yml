@@ -1,0 +1,50 @@
+---
+pattern: char_s
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 40
+score: 2241275
+score_per_word: 89651
+hi_scored_words:
+  characteristics: 2917
+  characterizations: 49690
+  characterizes: 30620
+  characters: 1318
+  charades: 90053
+  chargers: 14358
+  charges: 2109
+  chariots: 34599
+  charities: 7406
+  charlatans: 62054
+  charlies: 69604
+  charms: 6867
+  chars: 27375
+  charters: 15481
+  charts: 5331
+scored_words:
+  characterless: 262883
+  charcoals: 226553
+  chardonnays: 231444
+  charioteers: 126358
+  charismatics: 174304
+  charlottes: 154655
+  charmers: 125478
+  charmless: 182110
+  charterers: 152832
+  chartists: 184876
+not_scored_words:
+- Charles
+- Charlestons
+- Charolais
+- Chartisms
+- Chartres
+- Charybdis
+- charabancs
+- charbroils
+- charcuteries
+- chariness
+- charitableness
+- charivaris
+- charladies
+- charlocks
+- charnels

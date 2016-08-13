@@ -1,0 +1,77 @@
+---
+pattern: a_ics
+hi_scored_words_count: 26
+scored_words_count: 8
+total_words: 67
+score: 2479614
+score_per_word: 72929
+hi_scored_words:
+  academics: 11426
+  acoustics: 18596
+  acrobatics: 58702
+  acrylics: 46597
+  aerobatics: 80565
+  aerobics: 24863
+  aerodynamics: 37792
+  aeronautics: 21770
+  aesthetics: 19885
+  agnostics: 86222
+  alcoholics: 23690
+  analgesics: 39939
+  anesthetics: 44322
+  antibiotics: 10789
+  antics: 23998
+  antipsychotics: 70582
+  apologetics: 34318
+  aquatics: 30309
+  aromatics: 53953
+  asthmatics: 84983
+  astronautics: 56033
+  astrophysics: 24967
+  athletics: 11039
+  attics: 68645
+  automatics: 75799
+  avionics: 31265
+scored_words:
+  acrostics: 267321
+  anorexics: 174130
+  anthelmintics: 218551
+  antiseptics: 103218
+  ascetics: 115235
+  astrodynamics: 274706
+  atmospherics: 126565
+  atomics: 108839
+not_scored_words:
+- Alcaics
+- Asiatics
+- aeroballistics
+- aerodonetics
+- aeromechanics
+- aeroponics
+- aerostatics
+- aerotherapeutics
+- aerothermodynamics
+- agarics
+- agoraphobics
+- agronomics
+- alcaics
+- alembics
+- amnesics
+- analeptics
+- analphabetics
+- anapestics
+- anorectics
+- antipyretics
+- antispasmodics
+- antisyphilitics
+- aphasics
+- archbishoprics
+- architectonics
+- arctics
+- arthritics
+- asdics
+- aspics
+- astrionics
+- ataractics
+- ataraxics
+- ataxics

@@ -1,0 +1,46 @@
+---
+pattern: b_sts
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 36
+score: 1617896
+score_per_word: 70343
+hi_scored_words:
+  ballasts: 65337
+  baptists: 31177
+  beasts: 9878
+  bequests: 50992
+  bests: 54243
+  bicyclists: 54332
+  biologists: 31654
+  blacklists: 96575
+  blasts: 19216
+  boasts: 14200
+  boosts: 21586
+  botanists: 69540
+  breakfasts: 20244
+  breasts: 7469
+  broadcasts: 11046
+  bursts: 17721
+  busts: 25676
+scored_words:
+  backrests: 166834
+  bassists: 105046
+  behaviorists: 170154
+  behests: 159604
+  biocatalysts: 307576
+  biochemists: 107796
+not_scored_words:
+- Baptists
+- Buddhists
+- bacteriologists
+- balloonists
+- banjoists
+- bassoonists
+- beanfeasts
+- bedposts
+- belletrists
+- biblicists
+- bigamists
+- biophysicists
+- bratwursts

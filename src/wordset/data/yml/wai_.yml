@@ -1,0 +1,65 @@
+---
+pattern: wai_
+hi_scored_words_count: 30
+scored_words_count: 9
+total_words: 55
+score: 2987316
+score_per_word: 76597
+hi_scored_words:
+  waif: 72875
+  wail: 31993
+  wailed: 70093
+  wailers: 57900
+  wailing: 29970
+  wails: 72481
+  wain: 73443
+  wainscoting: 96058
+  wainwright: 27719
+  waist: 6321
+  waistband: 40937
+  waistcoat: 36365
+  waistcoats: 78036
+  waisted: 70879
+  waistline: 54910
+  waists: 83460
+  wait: 965
+  waited: 5548
+  waiter: 13040
+  waiters: 29169
+  waiting: 1259
+  waitress: 20823
+  waitresses: 53482
+  waits: 12106
+  waive: 19808
+  waived: 20833
+  waiver: 13131
+  waivers: 22614
+  waives: 61390
+  waiving: 56364
+scored_words:
+  waifs: 110732
+  wailer: 191984
+  wainscot: 113311
+  wainscoted: 243547
+  waistbands: 284244
+  waistcloth: 328712
+  waistlines: 184075
+  waitressing: 187162
+  waitstaff: 109577
+not_scored_words:
+- Waikiki
+- Waite
+- waifish
+- wailful
+- wailfully
+- wains
+- wainscotings
+- wainscots
+- wainscotted
+- wainscotting
+- wainscottings
+- wainwrights
+- waistcloths
+- waitperson
+- waitpersons
+- waitron

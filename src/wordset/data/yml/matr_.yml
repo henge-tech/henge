@@ -1,0 +1,51 @@
+---
+pattern: matr_
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 41
+score: 1768082
+score_per_word: 93056
+hi_scored_words:
+  matriarch: 61979
+  matrices: 16620
+  matricide: 89051
+  matriculated: 62888
+  matriculation: 48364
+  matrimonial: 26762
+  matrimony: 33280
+  matrix: 10243
+  matron: 33125
+  matrons: 61395
+scored_words:
+  matriarchal: 113596
+  matriarchs: 186521
+  matriarchy: 108199
+  matricides: 212791
+  matriculate: 125018
+  matriculating: 175487
+  matrilineal: 115891
+  matrilocal: 114682
+  matronly: 172190
+not_scored_words:
+- matrass
+- matresfamilias
+- matriarchate
+- matriarchates
+- matriarchic
+- matriarchies
+- matricidal
+- matriculant
+- matriculates
+- matrilateral
+- matrilineage
+- matrilineages
+- matrilineality
+- matrilineally
+- matrimonially
+- matroclinous
+- matronage
+- matronhood
+- matronize
+- matronliness
+- matronymic
+- matronymics

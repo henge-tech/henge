@@ -1,0 +1,26 @@
+---
+pattern: su_sed
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1247021
+score_per_word: 95924
+hi_scored_words:
+  suffused: 79124
+  superimposed: 34686
+  supervised: 18251
+  supposed: 2080
+  suppressed: 10955
+  surmised: 51693
+  surpassed: 22168
+  surprised: 2898
+scored_words:
+  subleased: 298518
+  submersed: 152751
+  summonsed: 311402
+  superposed: 103772
+  sussed: 158723
+not_scored_words:
+- surbased
+- surceased
+- surplussed

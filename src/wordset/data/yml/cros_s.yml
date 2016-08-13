@@ -1,0 +1,39 @@
+---
+pattern: cros_s
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 29
+score: 1431422
+score_per_word: 102244
+hi_scored_words:
+  cross: 829
+  crossbones: 81601
+  crossbows: 71858
+  crosses: 8983
+  crossings: 22430
+  crossovers: 43611
+  crossroads: 17718
+  crosswalks: 80955
+  crosswords: 33571
+scored_words:
+  crossbars: 143770
+  crosscurrents: 189042
+  crosscuts: 318320
+  crosspieces: 291281
+  crosswinds: 127453
+not_scored_words:
+- Cross
+- crosiers
+- crossbeams
+- crossbills
+- crossbreeds
+- crosschecks
+- crossfires
+- crosshatches
+- crossheads
+- crossjacks
+- crossness
+- crossopterygians
+- crosspatches
+- crossruffs
+- crossties

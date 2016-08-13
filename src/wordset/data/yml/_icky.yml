@@ -1,0 +1,26 @@
+---
+pattern: _icky
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 956488
+score_per_word: 86953
+hi_scored_words:
+  dicky: 52820
+  finicky: 64720
+  gimmicky: 93033
+  icky: 47327
+  panicky: 87355
+  picky: 25881
+  sticky: 9889
+  tricky: 15618
+scored_words:
+  colicky: 130050
+  garlicky: 141677
+  kicky: 288118
+not_scored_words:
+- Micky
+- Ricky
+- Vicky
+- bricky
+- staticky

@@ -1,0 +1,33 @@
+---
+pattern: cor_t
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 23
+score: 563577
+score_per_word: 51234
+hi_scored_words:
+  cormorant: 48218
+  cornet: 33099
+  cornett: 76868
+  coronet: 40044
+  correct: 1454
+  correspondent: 7949
+  corrupt: 6749
+  corset: 25331
+scored_words:
+  corporatist: 104447
+  corpulent: 106603
+  corselet: 112815
+not_scored_words:
+- Corot
+- Corybant
+- coreligionist
+- corespondent
+- corkiest
+- cornetist
+- corniest
+- corporativist
+- corposant
+- correctest
+- corroborant
+- corruptest

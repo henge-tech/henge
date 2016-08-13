@@ -1,0 +1,29 @@
+---
+pattern: dupl_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 772324
+score_per_word: 59409
+hi_scored_words:
+  duplex: 23321
+  duplexes: 55881
+  duplicate: 9899
+  duplicated: 24100
+  duplicates: 27151
+  duplicating: 34081
+  duplication: 19294
+  duplications: 71934
+  duplicator: 65427
+  duplicity: 47757
+scored_words:
+  duple: 184594
+  duplicators: 101649
+  duplicitous: 107236
+not_scored_words:
+- Dupleix
+- duplet
+- duplicability
+- duplicature
+- duplicities
+- duplicitousness

@@ -1,0 +1,23 @@
+---
+pattern: _rsal
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 649691
+score_per_word: 64969
+hi_scored_words:
+  dispersal: 28544
+  dorsal: 19487
+  metatarsal: 63514
+  rehearsal: 12886
+  reversal: 15573
+  tarsal: 80908
+  transversal: 59832
+  traversal: 45240
+  universal: 1757
+scored_words:
+  disbursal: 321950
+not_scored_words:
+- nonuniversal
+- quaquaversal
+- succursal

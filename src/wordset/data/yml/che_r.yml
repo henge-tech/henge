@@ -1,0 +1,37 @@
+---
+pattern: che_r
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 27
+score: 804241
+score_per_word: 73112
+hi_scored_words:
+  cheaper: 5487
+  cheater: 32716
+  checker: 17666
+  cheddar: 27144
+  cheer: 6620
+  cheerleader: 11495
+  cheeseburger: 41545
+  chevalier: 23434
+scored_words:
+  cheeper: 275269
+  chemoreceptor: 239317
+  chewer: 123548
+not_scored_words:
+- Cheddar
+- Cheer
+- Cheever
+- Cher
+- Chester
+- Chevalier
+- cheder
+- cheekier
+- cheerer
+- cheerfuller
+- cheerier
+- cheesier
+- cherisher
+- chertier
+- chestier
+- chewier

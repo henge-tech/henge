@@ -1,0 +1,23 @@
+---
+pattern: inte_ity
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 13
+score: 1250784
+score_per_word: 104232
+hi_scored_words:
+  integrity: 4513
+  intelligibility: 56042
+  intensity: 4749
+  intentionality: 62340
+  interactivity: 33814
+  interchangeability: 99081
+  intercity: 38932
+  interoperability: 18445
+scored_words:
+  integrability: 126123
+  integrality: 267795
+  intellectuality: 237070
+  internationality: 301880
+not_scored_words:
+- interminability

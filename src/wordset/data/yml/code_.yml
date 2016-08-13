@@ -1,0 +1,26 @@
+---
+pattern: code_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 16
+score: 838902
+score_per_word: 59921
+hi_scored_words:
+  code: 1613
+  coded: 10037
+  codeine: 24928
+  codename: 37778
+  codenamed: 85393
+  coder: 29945
+  coders: 35006
+  codes: 2726
+  codeword: 78021
+  codex: 24396
+scored_words:
+  codebreaker: 142752
+  codependency: 121514
+  codependent: 142123
+  codewords: 102670
+not_scored_words:
+- codeclination
+- codependents

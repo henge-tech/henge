@@ -1,0 +1,40 @@
+---
+pattern: _aned
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 30
+score: 1878038
+score_per_word: 93901
+hi_scored_words:
+  caned: 89054
+  cleaned: 8028
+  gleaned: 37630
+  groaned: 31837
+  leaned: 12087
+  loaned: 28308
+  moaned: 30312
+  orphaned: 31359
+  planed: 59763
+  waned: 55196
+  weaned: 49932
+scored_words:
+  bemoaned: 111353
+  craned: 144029
+  demeaned: 145731
+  enplaned: 228936
+  maned: 170613
+  paned: 126070
+  profaned: 106565
+  turbaned: 220346
+  uncleaned: 190889
+not_scored_words:
+- aquaplaned
+- beaned
+- deplaned
+- emplaned
+- housecleaned
+- hydroplaned
+- misdemeaned
+- tobogganed
+- unweaned
+- yeaned

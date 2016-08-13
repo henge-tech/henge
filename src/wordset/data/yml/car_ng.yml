@@ -1,0 +1,42 @@
+---
+pattern: car_ng
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 32
+score: 1221482
+score_per_word: 71851
+hi_scored_words:
+  carding: 81027
+  caregiving: 40328
+  caressing: 44427
+  caring: 5541
+  carling: 30849
+  caroling: 98329
+  carpeting: 41052
+  carping: 80978
+  carpooling: 80868
+  carrying: 2359
+  carting: 85901
+  cartooning: 64046
+  carving: 12770
+scored_words:
+  careening: 111617
+  careering: 202060
+  carjacking: 102399
+  carousing: 136931
+not_scored_words:
+- caracoling
+- caramelizing
+- carbonating
+- carbonizing
+- carboxylating
+- carburetting
+- carburizing
+- cardsharping
+- caricaturing
+- carking
+- carnifying
+- caroming
+- carpentering
+- carpetbagging
+- cartwheeling

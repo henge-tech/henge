@@ -1,0 +1,33 @@
+---
+pattern: mi_al
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 23
+score: 820679
+score_per_word: 54711
+hi_scored_words:
+  microbial: 16819
+  microbiological: 40765
+  microscopical: 98537
+  millennial: 43998
+  mineral: 5309
+  mineralogical: 62404
+  minimal: 7955
+  ministerial: 13124
+  missal: 80572
+  mistral: 42489
+  mistrial: 72496
+  mitochondrial: 17417
+  mitral: 31697
+scored_words:
+  microsurgical: 135811
+  misdeal: 151286
+not_scored_words:
+- Micheal
+- miasmal
+- microcosmical
+- migrational
+- millesimal
+- minatorial
+- misanthropical
+- misdial

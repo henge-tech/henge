@@ -1,0 +1,32 @@
+---
+pattern: re_re
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 22
+score: 1530963
+score_per_word: 95685
+hi_scored_words:
+  reassure: 26759
+  recapture: 31132
+  reconfigure: 46090
+  repertoire: 21059
+  require: 1263
+  restore: 3976
+  restructure: 30322
+  retire: 7194
+  revere: 22149
+  rewire: 81684
+scored_words:
+  reacquire: 204563
+  redware: 280661
+  rehire: 113641
+  reinsure: 331658
+  remanufacture: 114143
+  respire: 214669
+not_scored_words:
+- Revere
+- recurvature
+- refire
+- remeasure
+- rescore
+- retrofire

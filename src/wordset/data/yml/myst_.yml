@@ -1,0 +1,32 @@
+---
+pattern: myst_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 22
+score: 889784
+score_per_word: 59318
+hi_scored_words:
+  mysteries: 7976
+  mysterious: 5197
+  mysteriously: 26736
+  mystery: 2425
+  mystic: 9517
+  mystical: 12374
+  mysticism: 20314
+  mystics: 40038
+  mystified: 46519
+  mystify: 88965
+  mystifying: 86750
+  mystique: 34641
+scored_words:
+  mystically: 140729
+  mystification: 132729
+  mystifies: 234874
+not_scored_words:
+- Myst
+- mystagogical
+- mystagogue
+- mystagogy
+- mysteriousness
+- mysticalness
+- mystifyingly

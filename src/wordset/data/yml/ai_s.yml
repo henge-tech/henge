@@ -1,0 +1,74 @@
+---
+pattern: ai_s
+hi_scored_words_count: 24
+scored_words_count: 18
+total_words: 64
+score: 4320555
+score_per_word: 102870
+hi_scored_words:
+  aides: 20157
+  aids: 4691
+  ailerons: 94764
+  ailments: 25070
+  ails: 51327
+  aimless: 46924
+  aims: 4794
+  airbags: 33382
+  airbus: 21451
+  airfares: 52705
+  airfields: 49122
+  airless: 62574
+  airliners: 49672
+  airlines: 8928
+  airplanes: 13809
+  airports: 7800
+  airs: 14765
+  airships: 73837
+  airstrikes: 85364
+  airwaves: 31528
+  airways: 9595
+  airworthiness: 56732
+  ais: 23289
+  aisles: 31557
+scored_words:
+  aiders: 165925
+  ailanthus: 238201
+  aimlessness: 301988
+  airbases: 217712
+  airbeds: 163090
+  airbrushes: 153329
+  aircrews: 132013
+  airfoils: 123678
+  airframes: 103386
+  airguns: 123186
+  airheads: 124986
+  airiness: 308343
+  airings: 132386
+  airlifts: 278461
+  airlocks: 291063
+  airshows: 134879
+  airspeeds: 314257
+  airstrips: 139835
+not_scored_words:
+- AIDS
+- AIs
+- Aidoneus
+- Airedales
+- Aires
+- aiglets
+- aigrets
+- aigrettes
+- aikidos
+- ailanthuses
+- aiolis
+- airbuses
+- airdromes
+- airdrops
+- airlessness
+- airletters
+- airmails
+- airscrews
+- airsickness
+- airts
+- aitchbones
+- aitches

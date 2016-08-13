@@ -1,0 +1,24 @@
+---
+pattern: s_ance
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 875376
+score_per_word: 72948
+hi_scored_words:
+  seance: 70353
+  semblance: 29999
+  severance: 26035
+  significance: 4079
+  stance: 12421
+  substance: 2818
+  surveillance: 7865
+  sustenance: 31330
+  séance: 57881
+scored_words:
+  sibilance: 304106
+  sufferance: 127232
+  superabundance: 201257
+not_scored_words:
+- sunderance
+- suppliance

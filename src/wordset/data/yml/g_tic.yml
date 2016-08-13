@@ -1,0 +1,31 @@
+---
+pattern: g_tic
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 1027587
+score_per_word: 93417
+hi_scored_words:
+  galactic: 18422
+  genetic: 12663
+  geodetic: 38103
+  geomagnetic: 52470
+  gigantic: 10307
+  gnostic: 36252
+  granitic: 80839
+  gymnastic: 40235
+scored_words:
+  glottic: 284710
+  glyptic: 225972
+  graphitic: 227614
+not_scored_words:
+- Gangetic
+- Glagolitic
+- Gnostic
+- galactopoietic
+- gametic
+- geomantic
+- geostatic
+- gerontocratic
+- gyromagnetic
+- gyrostatic

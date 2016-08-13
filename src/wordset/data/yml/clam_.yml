@@ -1,0 +1,48 @@
+---
+pattern: clam_
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 38
+score: 2345201
+score_per_word: 106600
+hi_scored_words:
+  clam: 21044
+  clambake: 87410
+  clamber: 92790
+  clambered: 87528
+  clammy: 62311
+  clamor: 43146
+  clamoring: 59784
+  clamp: 19838
+  clampdown: 94508
+  clamped: 40295
+  clamping: 33884
+  clamps: 28087
+  clams: 28977
+  clamshell: 47675
+scored_words:
+  clambakes: 268326
+  clambering: 120906
+  clamming: 217458
+  clamored: 137474
+  clamorous: 101359
+  clamorously: 272640
+  clamors: 237949
+  clamshells: 241812
+not_scored_words:
+- clamant
+- clamantly
+- clamatorial
+- clamberer
+- clamberers
+- clambers
+- clammed
+- clammer
+- clammier
+- clammiest
+- clammily
+- clamminess
+- clamorousness
+- clampdowns
+- clamper
+- clamworm

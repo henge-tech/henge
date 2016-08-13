@@ -1,0 +1,33 @@
+---
+pattern: uns_ble
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 23
+score: 2080002
+score_per_word: 109473
+hi_scored_words:
+  unscramble: 93564
+  unshakable: 91016
+  unsinkable: 93471
+  unsolvable: 98720
+  unspeakable: 34899
+  unstable: 9886
+  unstoppable: 32176
+  unsuitable: 19655
+  unsustainable: 32118
+scored_words:
+  unsalable: 136200
+  unsaleable: 223706
+  unsatisfiable: 169401
+  unsearchable: 170226
+  unseasonable: 149467
+  unserviceable: 121679
+  unshakeable: 139260
+  unsociable: 109461
+  unsupportable: 164675
+  unsurpassable: 190422
+not_scored_words:
+- unsealable
+- unsellable
+- unshockable
+- unsusceptible

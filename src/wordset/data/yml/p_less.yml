@@ -1,0 +1,27 @@
+---
+pattern: p_less
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 1119576
+score_per_word: 86121
+hi_scored_words:
+  painless: 29021
+  paperless: 50825
+  peerless: 32433
+  penniless: 45846
+  pitiless: 63575
+  pointless: 19141
+  powerless: 22280
+  priceless: 14533
+  purposeless: 94669
+scored_words:
+  passionless: 149778
+  pathless: 160898
+  pilotless: 255670
+  profitless: 180907
+not_scored_words:
+- patternless
+- pileless
+- pithless
+- pluckless

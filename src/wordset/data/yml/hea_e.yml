@@ -1,0 +1,33 @@
+---
+pattern: hea_e
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 23
+score: 1349491
+score_per_word: 79381
+hi_scored_words:
+  headache: 7741
+  headline: 16498
+  headphone: 17077
+  headpiece: 69921
+  headstone: 46108
+  healthcare: 2812
+  hearse: 40552
+  heartache: 31618
+  hearthstone: 58894
+  heatwave: 43949
+  heave: 32785
+scored_words:
+  headcase: 214325
+  headcheese: 217611
+  headnote: 175220
+  hearthside: 111569
+  heartsease: 135568
+  heatstroke: 127243
+not_scored_words:
+- Heaviside
+- headrace
+- healable
+- heartsome
+- heathenize
+- heaume

@@ -1,0 +1,47 @@
+---
+pattern: b_ked
+hi_scored_words_count: 14
+scored_words_count: 13
+total_words: 37
+score: 2915207
+score_per_word: 107970
+hi_scored_words:
+  backed: 5567
+  baked: 9691
+  balked: 68910
+  banked: 26188
+  barked: 48414
+  beaked: 64981
+  blacked: 53317
+  blanked: 71488
+  blinked: 36967
+  blocked: 6782
+  booked: 12721
+  bookmarked: 45547
+  braked: 72874
+  bucked: 77014
+scored_words:
+  backpacked: 292941
+  backtracked: 115833
+  basked: 127967
+  bedecked: 111984
+  biked: 119850
+  bilked: 236792
+  bivouacked: 242508
+  bonked: 280702
+  bricked: 128742
+  brooked: 148873
+  bulked: 139920
+  bunked: 246576
+  bushwhacked: 122058
+not_scored_words:
+- backstroked
+- barebacked
+- barracked
+- bemocked
+- biforked
+- blackjacked
+- boinked
+- bootlicked
+- brisked
+- busked

@@ -1,0 +1,30 @@
+---
+pattern: p_els
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 991989
+score_per_word: 76306
+hi_scored_words:
+  panels: 6494
+  parallels: 19933
+  parcels: 15812
+  pastels: 37396
+  peels: 39992
+  petrels: 96452
+  pixels: 6598
+  prequels: 82429
+  pretzels: 39003
+  propels: 67436
+scored_words:
+  pedicels: 166202
+  pinwheels: 135954
+  pummels: 278288
+not_scored_words:
+- parimutuels
+- passels
+- pennoncels
+- pickerels
+- pimpernels
+- pommels
+- precancels

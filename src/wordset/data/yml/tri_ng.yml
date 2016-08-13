@@ -1,0 +1,25 @@
+---
+pattern: tri_ng
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 1102793
+score_per_word: 91899
+hi_scored_words:
+  tricking: 58685
+  trickling: 56394
+  trifling: 39008
+  triggering: 23201
+  trilling: 90770
+  trimming: 23065
+  tripling: 84267
+  tripping: 21220
+scored_words:
+  trialing: 184243
+  triangulating: 213569
+  triumphing: 124854
+  trivializing: 183517
+not_scored_words:
+- triphthong
+- triplicating
+- trisecting

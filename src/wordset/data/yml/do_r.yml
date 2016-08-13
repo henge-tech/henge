@@ -1,0 +1,82 @@
+---
+pattern: do_r
+hi_scored_words_count: 23
+scored_words_count: 15
+total_words: 72
+score: 3840478
+score_per_word: 101065
+hi_scored_words:
+  docker: 85181
+  doctor: 1111
+  dodger: 27064
+  doer: 42762
+  dollar: 2101
+  dolor: 33660
+  dominator: 58837
+  donor: 11447
+  door: 636
+  doppelganger: 84164
+  dor: 29626
+  dormer: 45534
+  dossier: 29794
+  doubleheader: 63476
+  doubler: 79700
+  dour: 53042
+  dowager: 57781
+  dower: 48055
+  downer: 34002
+  downpour: 48942
+  downriver: 70685
+  dozer: 59693
+  dozier: 62028
+scored_words:
+  documenter: 239318
+  dodder: 124932
+  dogger: 110338
+  domineer: 192482
+  donator: 127402
+  doodler: 265039
+  doorkeeper: 132025
+  doorknocker: 281257
+  doper: 277848
+  dosimeter: 100845
+  dotter: 239233
+  doubter: 154983
+  douceur: 151818
+  dowitcher: 201496
+  dowser: 212141
+not_scored_words:
+- Doctor
+- Donar
+- Doncaster
+- Donner
+- Doppler
+- Dorchester
+- Doukhobor
+- Dover
+- dockworker
+- dodgier
+- dogcatcher
+- dogear
+- doggier
+- doggoneder
+- doggoner
+- dognapper
+- doomsayer
+- doomster
+- dopester
+- dopier
+- doppelgänger
+- dorkier
+- dorser
+- dosser
+- doter
+- dottier
+- doubleganger
+- doughier
+- doughtier
+- dourer
+- douser
+- dowdier
+- downcomer
+- downier

@@ -1,0 +1,60 @@
+---
+pattern: fa_ng
+hi_scored_words_count: 30
+scored_words_count: 7
+total_words: 50
+score: 2370305
+score_per_word: 64062
+hi_scored_words:
+  fabricating: 41059
+  facilitating: 17166
+  facing: 3505
+  factoring: 23792
+  fading: 14041
+  failing: 5375
+  fainting: 34905
+  fairing: 51399
+  faking: 37343
+  falling: 2692
+  falsifying: 72848
+  faltering: 53211
+  fang: 21545
+  fanning: 30091
+  fantasizing: 85162
+  faring: 58965
+  farming: 5993
+  farthing: 42775
+  farting: 40890
+  fascinating: 6255
+  fashioning: 66644
+  fastening: 30539
+  fasting: 14893
+  fathering: 60869
+  fatiguing: 96281
+  fattening: 47777
+  faulting: 59705
+  favoring: 31343
+  fawning: 63034
+  faxing: 40061
+scored_words:
+  faceting: 173958
+  faffing: 275101
+  fallowing: 193673
+  familiarizing: 122515
+  famishing: 156695
+  fancying: 131653
+  farrowing: 156552
+not_scored_words:
+- facsimileing
+- factorizing
+- fagging
+- faggoting
+- fagoting
+- fantasying
+- faradizing
+- farseeing
+- fathoming
+- fating
+- fatling
+- faultfinding
+- fazing

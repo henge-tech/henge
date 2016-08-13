@@ -1,0 +1,29 @@
+---
+pattern: _umes
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 712547
+score_per_word: 54811
+hi_scored_words:
+  assumes: 5000
+  consumes: 24111
+  costumes: 6703
+  fumes: 22532
+  legumes: 41138
+  perfumes: 14544
+  plumes: 35116
+  presumes: 53591
+  resumes: 12568
+  volumes: 4255
+scored_words:
+  flumes: 174786
+  glumes: 206074
+  subsumes: 112129
+not_scored_words:
+- deplumes
+- displumes
+- exhumes
+- heaumes
+- illumes
+- spumes

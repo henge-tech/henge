@@ -1,0 +1,39 @@
+---
+pattern: w_ll
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 29
+score: 1058939
+score_per_word: 70595
+hi_scored_words:
+  wall: 817
+  waterfall: 14632
+  watermill: 78965
+  we'll: 2243
+  well: 103
+  who'll: 25580
+  will: 33
+  windchill: 37636
+  windfall: 32237
+  windmill: 21684
+  windowsill: 66137
+scored_words:
+  waxbill: 251597
+  waybill: 125404
+  whippoorwill: 125656
+  whitewall: 276215
+not_scored_words:
+- Wall
+- Walsall
+- Weddell
+- Weill
+- Wendell
+- Whitehall
+- Will
+- Winchell
+- Woodhull
+- Wrangell
+- whipstall
+- windgall
+- winterkill
+- woolfell

@@ -1,0 +1,20 @@
+---
+pattern: agre_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 298659
+score_per_word: 33184
+hi_scored_words:
+  agree: 922
+  agreeable: 16262
+  agreeably: 77752
+  agreed: 1566
+  agreeing: 11033
+  agreement: 597
+  agreements: 5916
+  agrees: 6746
+scored_words:
+  agreeableness: 177865
+not_scored_words:
+- agrestic

@@ -1,0 +1,25 @@
+---
+pattern: sil_e
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 911427
+score_per_word: 82857
+hi_scored_words:
+  silage: 41472
+  silence: 3097
+  silhouette: 18393
+  silicate: 38019
+  silicone: 13196
+  siltstone: 95613
+  silverware: 27196
+  silviculture: 84351
+scored_words:
+  sillimanite: 272727
+  siloxane: 178447
+  silverside: 138916
+not_scored_words:
+- silicle
+- siliculose
+- silique
+- silkaline

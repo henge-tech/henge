@@ -1,0 +1,25 @@
+---
+pattern: p_cing
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 15
+score: 762090
+score_per_word: 58622
+hi_scored_words:
+  pacing: 20635
+  piecing: 57009
+  piercing: 8500
+  placing: 4542
+  policing: 12219
+  practicing: 10821
+  prancing: 65840
+  pricing: 6572
+  producing: 3554
+  pronouncing: 49274
+scored_words:
+  pouncing: 125965
+  prefacing: 219840
+  prejudicing: 177319
+not_scored_words:
+- poncing
+- poulticing

@@ -1,0 +1,56 @@
+---
+pattern: ant_ic
+hi_scored_words_count: 15
+scored_words_count: 14
+total_words: 46
+score: 3447476
+score_per_word: 118878
+hi_scored_words:
+  antagonistic: 33244
+  antarctic: 12666
+  anthropogenic: 41327
+  anthropometric: 89695
+  anthropomorphic: 52006
+  antibiotic: 18290
+  antic: 63183
+  anticholinergic: 89848
+  antigenic: 46409
+  antipathetic: 91794
+  antipsychotic: 48716
+  antisemitic: 90839
+  antiseptic: 35578
+  antistatic: 90017
+  antisymmetric: 92658
+scored_words:
+  anthelmintic: 168558
+  anthropic: 106071
+  anthropocentric: 126490
+  anthropologic: 180838
+  anticlimactic: 141780
+  anticyclonic: 209956
+  antidemocratic: 234942
+  antihistaminic: 245308
+  antiparasitic: 309119
+  antipyretic: 157141
+  antiscorbutic: 139933
+  antispasmodic: 124505
+  antithetic: 288810
+  antitoxic: 117755
+not_scored_words:
+- Antarctic
+- anthracitic
+- antiallergic
+- anticlastic
+- antidromic
+- antiheroic
+- antimagnetic
+- antimilitaristic
+- antimitotic
+- antimonic
+- antimonopolistic
+- antinarcotic
+- antiperiodic
+- antiphlogistic
+- antirachitic
+- antisyphilitic
+- antonymic

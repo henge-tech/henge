@@ -1,0 +1,27 @@
+---
+pattern: k_ks
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 943438
+score_per_word: 85767
+hi_scored_words:
+  kayaks: 33978
+  kickbacks: 62347
+  kicks: 10732
+  kinks: 27538
+  kiosks: 34091
+  knacks: 87898
+  knocks: 21100
+  kooks: 57453
+scored_words:
+  knapsacks: 185445
+  knickknacks: 163004
+  kulaks: 259852
+not_scored_words:
+- Kazaks
+- Kodiaks
+- kibbutzniks
+- kinfolks
+- kopecks
+- kopeks

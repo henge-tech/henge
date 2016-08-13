@@ -1,0 +1,36 @@
+---
+pattern: r_ists
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 26
+score: 2077429
+score_per_word: 115412
+hi_scored_words:
+  racists: 41609
+  radiologists: 55944
+  rapists: 37828
+  realists: 69202
+  receptionists: 78947
+  reformists: 95998
+  reservists: 43305
+  resists: 25850
+  revisionists: 97559
+  royalists: 87345
+scored_words:
+  rationalists: 118589
+  recidivists: 218878
+  recordists: 319041
+  relativists: 203151
+  religionists: 101866
+  revivalists: 204199
+  revolutionists: 133361
+  rightists: 144757
+not_scored_words:
+- racialists
+- radiotherapists
+- recitalists
+- reductionists
+- reenlists
+- relists
+- ritualists
+- romanticists

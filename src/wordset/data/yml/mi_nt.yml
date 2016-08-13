@@ -1,0 +1,36 @@
+---
+pattern: mi_nt
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 26
+score: 1387949
+score_per_word: 81644
+hi_scored_words:
+  micronutrient: 90454
+  midpoint: 35164
+  migrant: 16683
+  militant: 16590
+  mint: 6985
+  misalignment: 65975
+  miscreant: 81839
+  mismanagement: 39154
+  misprint: 75291
+  misrepresent: 54366
+  misstatement: 81600
+  mistreatment: 44358
+scored_words:
+  micromanagement: 143684
+  misgovernment: 105450
+  misjudgment: 190537
+  misplacement: 232954
+  misspent: 106865
+not_scored_words:
+- Milicent
+- Millicent
+- microdont
+- microelement
+- microprint
+- ministrant
+- miscount
+- misdemeanant
+- misorient

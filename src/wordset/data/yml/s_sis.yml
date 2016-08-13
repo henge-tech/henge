@@ -1,0 +1,41 @@
+---
+pattern: s_sis
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 31
+score: 926584
+score_per_word: 71275
+hi_scored_words:
+  schistosomiasis: 76966
+  sclerosis: 17330
+  scoliosis: 41355
+  sepsis: 33628
+  silicosis: 86724
+  stasis: 44834
+  stenosis: 25992
+  symbiosis: 44503
+  synopsis: 13902
+  synthesis: 9197
+scored_words:
+  salmonellosis: 124838
+  symphysis: 164669
+  synapsis: 242646
+not_scored_words:
+- salpiglossis
+- sarcomatosis
+- satyriasis
+- schizogenesis
+- siderosis
+- siriasis
+- solvolysis
+- sorosis
+- spermiogenesis
+- spirochetosis
+- sporogenesis
+- stypsis
+- sycosis
+- syllepsis
+- syncrisis
+- syndesis
+- syndesmosis
+- syneresis

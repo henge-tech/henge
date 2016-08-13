@@ -1,0 +1,42 @@
+---
+pattern: c_ral
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 32
+score: 1346440
+score_per_word: 67322
+hi_scored_words:
+  cadastral: 58790
+  cathedral: 5809
+  central: 1065
+  cerebral: 12744
+  chaparral: 37171
+  chiral: 33667
+  chloral: 94343
+  choral: 17039
+  clitoral: 42944
+  collateral: 12152
+  conjectural: 93063
+  coral: 9099
+  corporal: 14404
+  corral: 22802
+  crural: 83021
+  cultural: 5708
+scored_words:
+  caporal: 148277
+  citral: 270701
+  conferral: 154026
+  connatural: 229615
+not_scored_words:
+- Cabral
+- Canaveral
+- Central
+- Coral
+- Corporal
+- cameral
+- campestral
+- caricatural
+- cesural
+- claustral
+- cloistral
+- creatural

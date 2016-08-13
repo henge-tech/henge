@@ -1,0 +1,33 @@
+---
+pattern: ce_r
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 23
+score: 919902
+score_per_word: 65707
+hi_scored_words:
+  cedar: 7031
+  cellar: 9362
+  cellular: 8386
+  censor: 22196
+  centaur: 34830
+  center: 1109
+  centimeter: 41067
+  cerebellar: 39610
+  cerebrovascular: 45801
+  cesar: 22015
+scored_words:
+  ceder: 168395
+  censer: 103502
+  centralizer: 255694
+  certifier: 160904
+not_scored_words:
+- Cesar
+- ceilometer
+- celebrator
+- cellarer
+- cementer
+- censurer
+- centiliter
+- centner
+- cephalometer

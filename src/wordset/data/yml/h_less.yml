@@ -1,0 +1,27 @@
+---
+pattern: h_less
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 17
+score: 874610
+score_per_word: 62472
+hi_scored_words:
+  hairless: 30534
+  hapless: 31112
+  harmless: 8328
+  headless: 37652
+  heartless: 25290
+  heedless: 62776
+  helpless: 10827
+  homeless: 8003
+  hopeless: 12250
+  houseless: 81703
+scored_words:
+  handless: 136765
+  hornless: 168623
+  horseless: 150611
+  humorless: 110136
+not_scored_words:
+- hammerless
+- heelless
+- hurtless

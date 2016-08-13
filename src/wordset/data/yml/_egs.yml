@@ -1,0 +1,31 @@
+---
+pattern: _egs
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 1046956
+score_per_word: 87246
+hi_scored_words:
+  begs: 24960
+  bootlegs: 51274
+  dregs: 47547
+  kegs: 48488
+  legs: 1886
+  megs: 38834
+  nutmegs: 88357
+  pegs: 28027
+scored_words:
+  bowlegs: 238316
+  forelegs: 143453
+  vegs: 194242
+  yellowlegs: 141572
+not_scored_words:
+- Tuaregs
+- blacklegs
+- blitzkriegs
+- doglegs
+- muskegs
+- sheerlegs
+- skegs
+- spindlelegs
+- thalwegs

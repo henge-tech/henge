@@ -1,0 +1,37 @@
+---
+pattern: gob_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 27
+score: 1362686
+score_per_word: 80158
+hi_scored_words:
+  gob: 35345
+  gobble: 41192
+  gobbled: 81892
+  gobbler: 78836
+  gobbles: 90917
+  gobbling: 86380
+  goblet: 17698
+  goblets: 50722
+  goblin: 22238
+  goblins: 37990
+  gobo: 64666
+  gobs: 78716
+  goby: 66324
+scored_words:
+  gobbledygook: 141098
+  gobblers: 167996
+  gobies: 133786
+  gobsmacked: 166890
+not_scored_words:
+- Gobelin
+- Gobi
+- gobang
+- gobbed
+- gobbet
+- gobbets
+- gobbing
+- gobioid
+- gobstopper
+- gobstoppers

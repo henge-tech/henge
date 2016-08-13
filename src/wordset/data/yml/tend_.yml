@@ -1,0 +1,48 @@
+---
+pattern: tend_
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 38
+score: 2048281
+score_per_word: 73152
+hi_scored_words:
+  tend: 3336
+  tended: 9509
+  tendencies: 16492
+  tendency: 5763
+  tender: 3868
+  tendered: 32902
+  tenderer: 72528
+  tenderfoot: 95403
+  tendering: 44476
+  tenderloin: 39160
+  tenderly: 26537
+  tenderness: 15361
+  tenders: 22228
+  tending: 23665
+  tendinitis: 68786
+  tendon: 26283
+  tendonitis: 76902
+  tendons: 37796
+  tendrils: 68670
+  tends: 6758
+scored_words:
+  tendance: 125356
+  tendentious: 145222
+  tenderest: 129977
+  tenderhearted: 231709
+  tenderize: 282015
+  tenderizer: 165728
+  tenderloins: 163185
+  tendril: 108666
+not_scored_words:
+- tendentiously
+- tendentiousness
+- tenderfoots
+- tenderheartedly
+- tenderheartedness
+- tenderized
+- tenderizers
+- tenderizes
+- tenderizing
+- tendinous

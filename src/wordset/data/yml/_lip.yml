@@ -1,0 +1,30 @@
+---
+pattern: _lip
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1399772
+score_per_word: 99983
+hi_scored_words:
+  blip: 46770
+  clip: 6688
+  fillip: 95298
+  flip: 13679
+  harelip: 79687
+  lip: 4802
+  paperclip: 81631
+  slip: 3499
+  tulip: 19261
+scored_words:
+  cowslip: 110528
+  landslip: 264495
+  nonslip: 217099
+  payslip: 201103
+  sideslip: 255232
+not_scored_words:
+- Philip
+- Phillip
+- gymslip
+- pillowslip
+- toeclip
+- underlip

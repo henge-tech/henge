@@ -1,0 +1,58 @@
+---
+pattern: sky_
+hi_scored_words_count: 15
+scored_words_count: 13
+total_words: 48
+score: 2961380
+score_per_word: 105763
+hi_scored_words:
+  sky: 1601
+  skydive: 50112
+  skydiving: 30096
+  skylark: 42217
+  skylight: 30462
+  skylights: 47690
+  skyline: 23081
+  skylines: 85994
+  skyrocket: 55256
+  skyrocketed: 63684
+  skyrocketing: 59789
+  skyscraper: 27933
+  skyscrapers: 33606
+  skyward: 64120
+  skyway: 53844
+scored_words:
+  skycap: 233362
+  skydiver: 109933
+  skydivers: 127561
+  skyhook: 163192
+  skyjacker: 176142
+  skylarking: 121690
+  skylarks: 215204
+  skyrockets: 134479
+  skyscape: 195936
+  skywalk: 123546
+  skywards: 161467
+  skywriter: 288381
+  skywriting: 241002
+not_scored_words:
+- Skye
+- Skylab
+- Skype
+- Skyros
+- skycaps
+- skydived
+- skydives
+- skying
+- skyjack
+- skyjacked
+- skyjackers
+- skyjacking
+- skyjackings
+- skyjacks
+- skylarked
+- skylighted
+- skysail
+- skysails
+- skysweeper
+- skywriters

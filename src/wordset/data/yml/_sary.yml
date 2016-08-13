@@ -1,0 +1,25 @@
+---
+pattern: _sary
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 592997
+score_per_word: 49416
+hi_scored_words:
+  adversary: 18653
+  anniversary: 4676
+  bursary: 43264
+  commissary: 42289
+  dispensary: 53883
+  emissary: 48038
+  glossary: 11890
+  necessary: 611
+  rosary: 21830
+  unnecessary: 5706
+scored_words:
+  caravansary: 158829
+  pessary: 183328
+not_scored_words:
+- Cheboksary
+- Janissary
+- fideicommissary

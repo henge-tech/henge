@@ -1,0 +1,33 @@
+---
+pattern: arr_s
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 23
+score: 1025451
+score_per_word: 68363
+hi_scored_words:
+  arrangements: 3011
+  arrangers: 73944
+  arranges: 34935
+  arras: 49934
+  arrays: 11685
+  arrears: 21686
+  arrests: 15024
+  arrivals: 12447
+  arrives: 11799
+  arrowheads: 68530
+  arrows: 7689
+scored_words:
+  arraignments: 277255
+  arresters: 155250
+  arris: 125414
+  arroyos: 156848
+not_scored_words:
+- Arras
+- Arrhenius
+- arracks
+- arraigns
+- arrases
+- arrobas
+- arrogates
+- arrowworms

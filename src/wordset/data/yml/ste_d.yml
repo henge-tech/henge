@@ -1,0 +1,36 @@
+---
+pattern: ste_d
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 26
+score: 1113473
+score_per_word: 58603
+hi_scored_words:
+  stead: 20866
+  steadied: 91745
+  steamed: 20914
+  steed: 21648
+  steelhead: 34298
+  steeped: 30829
+  steered: 34188
+  stemmed: 36510
+  stenciled: 99301
+  stepchild: 74684
+  stepped: 5845
+  stereotyped: 48231
+  sterilized: 46419
+  steroid: 16216
+  steward: 13730
+  stewed: 43459
+scored_words:
+  steamrolled: 230966
+  steeled: 137013
+  stepdad: 106611
+not_scored_words:
+- steamrollered
+- steelyard
+- steepened
+- stellated
+- stenosed
+- stetted
+- stewarded

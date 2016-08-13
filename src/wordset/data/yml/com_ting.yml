@@ -1,0 +1,34 @@
+---
+pattern: com_ting
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 24
+score: 1177874
+score_per_word: 58893
+hi_scored_words:
+  combating: 24168
+  comforting: 17361
+  commemorating: 33723
+  commenting: 13140
+  committing: 12820
+  communicating: 9345
+  commuting: 21891
+  compacting: 74113
+  compensating: 30244
+  competing: 9832
+  complementing: 46624
+  completing: 7125
+  complicating: 41675
+  complimenting: 63393
+  compositing: 51476
+  composting: 29781
+  computing: 7540
+scored_words:
+  combusting: 234487
+  commentating: 186559
+  commiserating: 262577
+not_scored_words:
+- comminuting
+- commutating
+- complotting
+- comporting

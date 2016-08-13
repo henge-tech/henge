@@ -1,0 +1,28 @@
+---
+pattern: sec_y
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 18
+score: 793437
+score_per_word: 66119
+hi_scored_words:
+  secondarily: 65814
+  secondary: 2943
+  secondly: 8439
+  secrecy: 12826
+  secretary: 1628
+  secretly: 9717
+  secretory: 37082
+  securely: 9458
+  security: 859
+  secy: 84347
+scored_words:
+  sectionally: 294274
+  secularity: 266050
+not_scored_words:
+- Secretary
+- sec'y
+- secretionary
+- secretively
+- sectary
+- secularly

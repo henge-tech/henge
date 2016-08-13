@@ -1,0 +1,41 @@
+---
+pattern: vis_s
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 31
+score: 1808977
+score_per_word: 90448
+hi_scored_words:
+  visas: 13579
+  viscous: 31213
+  viscus: 80902
+  visionaries: 54547
+  visions: 7410
+  visitations: 65205
+  visitors: 2197
+  visits: 3306
+  visors: 47950
+  vistas: 30654
+  visualizations: 58598
+  visuals: 18803
+scored_words:
+  visages: 154208
+  viscometers: 233256
+  viscountess: 183874
+  vises: 125051
+  visibilities: 164357
+  visitants: 168485
+  visualizers: 230815
+  visualizes: 134567
+not_scored_words:
+- Visayans
+- Visigoths
+- viscachas
+- viscidities
+- viscountcies
+- viscountesses
+- viscounties
+- viscounts
+- viscousness
+- viscousnesses
+- visionariness

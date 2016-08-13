@@ -1,0 +1,25 @@
+---
+pattern: phra_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 986982
+score_per_word: 98698
+hi_scored_words:
+  phrasal: 83200
+  phrase: 2834
+  phrasebook: 83378
+  phrasebooks: 97723
+  phrased: 46907
+  phraseology: 64002
+  phrases: 5718
+  phrasing: 38218
+scored_words:
+  phrasings: 266516
+  phratry: 298486
+not_scored_words:
+- phraseogram
+- phraseograph
+- phraseological
+- phraseologist
+- phratries

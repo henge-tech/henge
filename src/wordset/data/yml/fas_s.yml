@@ -1,0 +1,33 @@
+---
+pattern: fas_s
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 23
+score: 2128480
+score_per_word: 112025
+hi_scored_words:
+  fasces: 78430
+  fascias: 84662
+  fascinates: 74538
+  fascists: 39352
+  fashionistas: 89400
+  fashions: 15791
+  fasteners: 26694
+  fastenings: 72544
+  fastens: 95392
+  fastidious: 56384
+  fastness: 78973
+  fasts: 66897
+scored_words:
+  fascicles: 157408
+  fasciculus: 207350
+  fascinations: 125163
+  fastbacks: 309247
+  fastballs: 159089
+  fastidiousness: 146950
+  fastnesses: 244216
+not_scored_words:
+- fascicules
+- fashionableness
+- fashioners
+- fastings

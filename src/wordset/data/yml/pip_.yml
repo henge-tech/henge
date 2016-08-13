@@ -1,0 +1,47 @@
+---
+pattern: pip_
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 37
+score: 1728733
+score_per_word: 75162
+hi_scored_words:
+  pip: 18254
+  pipe: 2903
+  piped: 34184
+  pipeline: 9246
+  pipelines: 20499
+  piper: 12955
+  pipers: 47679
+  pipes: 6440
+  pipestone: 87187
+  pipette: 42705
+  pipettes: 61274
+  pipework: 74489
+  piping: 14527
+  pipit: 66446
+  pipkin: 97737
+  pippin: 39149
+  pips: 37830
+scored_words:
+  piperidine: 153629
+  pipistrelle: 225133
+  pipits: 187761
+  pipped: 143846
+  pippins: 172713
+  pipsqueak: 172147
+not_scored_words:
+- Pippin
+- pipage
+- pipages
+- pipeful
+- pipefuls
+- piperaceous
+- piperine
+- piperines
+- piperonal
+- pipistrelles
+- pipping
+- pipsissewa
+- pipsissewas
+- pipsqueaks

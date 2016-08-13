@@ -1,0 +1,31 @@
+---
+pattern: th_h
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 21
+score: 708862
+score_per_word: 47257
+hi_scored_words:
+  thatch: 37913
+  thenceforth: 93504
+  therewith: 27061
+  thigh: 12002
+  thirteenth: 19102
+  thirtieth: 46886
+  thorough: 6468
+  though: 323
+  thousandth: 58557
+  thrash: 23116
+  thresh: 51207
+  through: 110
+  thrush: 24435
+scored_words:
+  thievish: 166769
+  thuggish: 141409
+not_scored_words:
+- Thanh
+- Thoth
+- thermobarograph
+- thermograph
+- thickish
+- thinnish

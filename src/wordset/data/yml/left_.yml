@@ -1,0 +1,26 @@
+---
+pattern: left_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 785390
+score_per_word: 65449
+hi_scored_words:
+  left: 200
+  lefties: 50373
+  leftism: 89082
+  leftist: 21479
+  leftists: 42330
+  leftmost: 60218
+  leftover: 24911
+  leftovers: 28330
+  lefty: 23778
+scored_words:
+  lefts: 106321
+  leftward: 103954
+  leftwards: 234414
+not_scored_words:
+- Left
+- Leftism
+- lefter
+- leftest

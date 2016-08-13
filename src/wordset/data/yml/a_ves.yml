@@ -1,0 +1,41 @@
+---
+pattern: a_ves
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 31
+score: 1514790
+score_per_word: 84155
+hi_scored_words:
+  abrasives: 50350
+  achieves: 21449
+  actives: 55680
+  additives: 16640
+  adhesives: 23094
+  adjectives: 22216
+  aftershaves: 90148
+  airwaves: 31528
+  alternatives: 7141
+  approves: 15865
+  archives: 3833
+  arrives: 11799
+scored_words:
+  absolves: 131968
+  alcoves: 122790
+  alewives: 305768
+  antihypertensives: 200590
+  architraves: 279901
+  autoclaves: 124030
+not_scored_words:
+- Aves
+- aardwolves
+- ablatives
+- accusatives
+- affirmatives
+- affricatives
+- afterlives
+- aggrieves
+- antitussives
+- appellatives
+- apperceives
+- appositives
+- attributives

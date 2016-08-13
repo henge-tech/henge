@@ -1,0 +1,21 @@
+---
+pattern: ev_tion
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 386555
+score_per_word: 42950
+hi_scored_words:
+  evacuation: 13768
+  evaluation: 13357
+  evangelization: 52964
+  evaporation: 18741
+  evapotranspiration: 70311
+  eviction: 31353
+  evocation: 56286
+  evolution: 3006
+scored_words:
+  evisceration: 126769
+not_scored_words:
+- evection
+- eventuation

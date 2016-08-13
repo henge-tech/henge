@@ -1,0 +1,37 @@
+---
+pattern: def_ed
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 27
+score: 2188925
+score_per_word: 95170
+hi_scored_words:
+  defaced: 48797
+  defamed: 97343
+  defaulted: 42683
+  defeated: 5644
+  defected: 41555
+  defended: 10346
+  deferred: 10158
+  defied: 36782
+  defiled: 53701
+  defined: 2294
+  deflated: 44938
+  deflected: 38720
+  deformed: 25000
+  defrauded: 72165
+  defused: 94803
+scored_words:
+  defecated: 254229
+  defensed: 242279
+  deflowered: 204401
+  defoliated: 249105
+  deforested: 158989
+  defrayed: 130142
+  defrocked: 175977
+  defrosted: 148874
+not_scored_words:
+- defalcated
+- defenestrated
+- deflexed
+- defogged

@@ -1,0 +1,25 @@
+---
+pattern: d_ger
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 914767
+score_per_word: 76230
+hi_scored_words:
+  dagger: 13800
+  danger: 2393
+  debugger: 27960
+  derringer: 75497
+  digger: 24710
+  dodger: 27064
+  doppelganger: 84164
+  dowager: 57781
+scored_words:
+  defogger: 187138
+  dogger: 110338
+  dragger: 178600
+  dredger: 125322
+not_scored_words:
+- Dillinger
+- doppelgänger
+- doubleganger

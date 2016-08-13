@@ -1,0 +1,32 @@
+---
+pattern: rege_
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 22
+score: 814762
+score_per_word: 58197
+hi_scored_words:
+  regency: 14814
+  regenerate: 26672
+  regenerated: 40935
+  regenerates: 93765
+  regenerating: 51289
+  regeneration: 11923
+  regenerative: 40280
+  regenerator: 76824
+  regent: 12775
+  regents: 20179
+  regex: 39681
+  regexp: 80525
+  regexps: 98093
+scored_words:
+  regencies: 207007
+not_scored_words:
+- Regency
+- Regensburg
+- regear
+- regelate
+- regelation
+- regeneracy
+- regenerations
+- regerminate

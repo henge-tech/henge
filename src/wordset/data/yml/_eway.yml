@@ -1,0 +1,31 @@
+---
+pattern: _eway
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 21
+score: 1906794
+score_per_word: 105933
+hi_scored_words:
+  carriageway: 45949
+  causeway: 27324
+  driveway: 17571
+  freeway: 16917
+  gateway: 4762
+  leeway: 40399
+  passageway: 43818
+  raceway: 25293
+  someway: 69804
+scored_words:
+  bikeway: 115201
+  breezeway: 146996
+  bridleway: 156826
+  cableway: 166734
+  cycleway: 160826
+  entranceway: 131180
+  ropeway: 218747
+  sideway: 302888
+  tideway: 215559
+not_scored_words:
+- Safeway
+- sluiceway
+- steerageway

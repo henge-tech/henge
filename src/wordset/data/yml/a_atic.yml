@@ -1,0 +1,40 @@
+---
+pattern: a_atic
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 30
+score: 1471774
+score_per_word: 81765
+hi_scored_words:
+  achromatic: 74588
+  acrobatic: 50004
+  adiabatic: 43354
+  aerobatic: 64175
+  aliphatic: 50883
+  antistatic: 90017
+  aquatic: 10601
+  aristocratic: 26150
+  aromatic: 16102
+  asthmatic: 43409
+  asymptomatic: 31945
+  autocratic: 44523
+  automatic: 4405
+  axiomatic: 45781
+scored_words:
+  antidemocratic: 234942
+  apochromatic: 283897
+  astatic: 213372
+  astigmatic: 143626
+not_scored_words:
+- Adriatic
+- Asiatic
+- Austroasiatic
+- aerostatic
+- agnatic
+- anabatic
+- anagrammatic
+- anastigmatic
+- aplanatic
+- aposematic
+- apothegmatic
+- athematic

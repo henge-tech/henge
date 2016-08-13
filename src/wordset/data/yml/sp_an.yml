@@ -1,0 +1,27 @@
+---
+pattern: sp_an
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 424690
+score_per_word: 47187
+hi_scored_words:
+  spaceman: 56105
+  span: 6495
+  spartan: 16654
+  spearman: 54724
+  spokesman: 10476
+  spokeswoman: 23839
+  sporran: 85379
+  sportsman: 18509
+scored_words:
+  sportswoman: 152509
+not_scored_words:
+- Span
+- Spartan
+- Spencerian
+- Spenglerian
+- Spenserian
+- spacewoman
+- spelean
+- spoilsman

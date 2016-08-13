@@ -1,0 +1,35 @@
+---
+pattern: pi_rs
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 25
+score: 1445423
+score_per_word: 111186
+hi_scored_words:
+  pickers: 45902
+  piers: 18692
+  pilasters: 94281
+  pillars: 11785
+  pincers: 86873
+  pioneers: 13205
+  pipers: 47679
+  pitchers: 21255
+scored_words:
+  picketers: 166639
+  picnickers: 249551
+  piercers: 229872
+  pinchers: 143888
+  pissers: 315801
+not_scored_words:
+- piasters
+- picadors
+- pieceworkers
+- pikers
+- pilferers
+- pilfers
+- pillagers
+- pilsners
+- pinfeathers
+- pinsetters
+- pissoirs
+- pistoleers

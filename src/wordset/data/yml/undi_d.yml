@@ -1,0 +1,35 @@
+---
+pattern: undi_d
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 25
+score: 1957636
+score_per_word: 88983
+hi_scored_words:
+  undiagnosed: 58233
+  undid: 59898
+  undifferentiated: 37117
+  undignified: 75085
+  undiluted: 62113
+  undiminished: 78364
+  undirected: 69239
+  undisciplined: 61094
+  undisclosed: 26786
+  undiscovered: 25363
+  undisputed: 24758
+  undistributed: 68884
+  undisturbed: 27172
+  undivided: 29614
+scored_words:
+  undigested: 104328
+  undimmed: 196641
+  undischarged: 235101
+  undisguised: 118646
+  undismayed: 116993
+  undissolved: 237904
+  undistinguished: 101933
+  undistorted: 142370
+not_scored_words:
+- undiscouraged
+- undisposed
+- undistressed

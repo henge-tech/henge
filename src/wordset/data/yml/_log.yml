@@ -1,0 +1,27 @@
+---
+pattern: _log
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 17
+score: 450064
+score_per_word: 34620
+hi_scored_words:
+  analog: 9413
+  backlog: 25120
+  blog: 793
+  catalog: 7707
+  clog: 26907
+  dialog: 10436
+  flog: 39176
+  homolog: 43708
+  log: 1996
+  slog: 48224
+  travelog: 72936
+  weblog: 5635
+scored_words:
+  unclog: 158013
+not_scored_words:
+- Tagalog
+- antilog
+- footslog
+- waterlog

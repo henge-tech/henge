@@ -1,0 +1,23 @@
+---
+pattern: wre_s
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 878412
+score_per_word: 79855
+hi_scored_words:
+  wreaths: 31532
+  wreckers: 64096
+  wrecks: 31188
+  wrenches: 39219
+  wrens: 64883
+  wrestlers: 30198
+  wrestles: 80591
+  wretchedness: 68118
+  wretches: 83842
+scored_words:
+  wreaks: 115683
+  wreathes: 269062
+not_scored_words:
+- Wrens
+- wrests

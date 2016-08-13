@@ -1,0 +1,23 @@
+---
+pattern: zip_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 13
+score: 299745
+score_per_word: 37468
+hi_scored_words:
+  zip: 5252
+  zipped: 29181
+  zipper: 20132
+  zippered: 54205
+  zippers: 44788
+  zipping: 68152
+  zippy: 43144
+  zips: 34891
+scored_words: {}
+not_scored_words:
+- Zipangu
+- Ziploc
+- zippering
+- zippier
+- zippiest

@@ -1,0 +1,34 @@
+---
+pattern: ca_et
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 24
+score: 1096474
+score_per_word: 73098
+hi_scored_words:
+  cabaret: 19485
+  cabernet: 23653
+  cabinet: 3470
+  cabriolet: 35814
+  cachet: 49959
+  cadet: 15719
+  calumet: 29313
+  caret: 56620
+  carnet: 88514
+  carpet: 4460
+  casket: 22195
+scored_words:
+  caplet: 174951
+  carcanet: 193457
+  cassoulet: 143319
+  castanet: 235545
+not_scored_words:
+- Cabernet
+- Capet
+- Capulet
+- Carteret
+- cabasset
+- cablet
+- camlet
+- canzonet
+- carburet

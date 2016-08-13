@@ -1,0 +1,52 @@
+---
+pattern: pad_
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 42
+score: 1363872
+score_per_word: 61994
+hi_scored_words:
+  pad: 7008
+  padded: 15960
+  paddies: 89209
+  padding: 19888
+  paddle: 12527
+  paddled: 57311
+  paddler: 74223
+  paddlers: 70620
+  paddles: 28277
+  paddling: 21403
+  paddock: 25148
+  paddocks: 70071
+  paddy: 15930
+  padlock: 35121
+  padlocks: 71169
+  padre: 17484
+  padres: 20308
+  padrone: 73527
+  pads: 11789
+scored_words:
+  padauk: 287254
+  paddlefish: 184485
+  padlocked: 155160
+not_scored_words:
+- Padang
+- Paddies
+- Paddy
+- Paderewski
+- Padilla
+- Padishah
+- Padova
+- Padre
+- Padua
+- Padus
+- padauks
+- paddleboard
+- paddocked
+- paddocking
+- pademelon
+- pademelons
+- padlocking
+- padnag
+- padrones
+- paduasoy

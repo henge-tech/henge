@@ -1,0 +1,28 @@
+---
+pattern: c_ues
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 18
+score: 563166
+score_per_word: 56316
+hi_scored_words:
+  caciques: 89539
+  catalogues: 19161
+  cliques: 55992
+  clues: 15013
+  colleagues: 5321
+  continues: 2648
+  critiques: 22664
+  cues: 22170
+scored_words:
+  communiques: 116144
+  construes: 214514
+not_scored_words:
+- calques
+- casques
+- catafalques
+- cinques
+- cirques
+- claques
+- collogues
+- curlicues

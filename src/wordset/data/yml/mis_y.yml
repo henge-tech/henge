@@ -1,0 +1,43 @@
+---
+pattern: mis_y
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 33
+score: 1084561
+score_per_word: 72304
+hi_scored_words:
+  misanthropy: 92156
+  miscellany: 29240
+  miserably: 32229
+  miserly: 75918
+  misery: 8083
+  misogyny: 64210
+  missionary: 9014
+  missy: 18201
+  mistakenly: 31433
+  misty: 14119
+scored_words:
+  miscarry: 140865
+  mischievously: 122432
+  miscibility: 188329
+  mislay: 137635
+  misleadingly: 120697
+not_scored_words:
+- Missy
+- Misty
+- misally
+- misanthropically
+- misapply
+- miscellaneously
+- misclassify
+- miscopy
+- misemploy
+- misguidedly
+- misidentify
+- misogamy
+- misology
+- misplay
+- misshapenly
+- missilery
+- mistily
+- mistrustfully

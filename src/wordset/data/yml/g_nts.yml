@@ -1,0 +1,25 @@
+---
+pattern: g_nts
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 730578
+score_per_word: 60881
+hi_scored_words:
+  garments: 10026
+  gents: 21345
+  giants: 6344
+  godparents: 92149
+  governments: 3436
+  gradients: 24501
+  grandparents: 15395
+  grants: 3910
+  grunts: 40940
+scored_words:
+  gallants: 127397
+  garnishments: 207708
+  glints: 177427
+not_scored_words:
+- gallivants
+- grandaunts
+- gunflints

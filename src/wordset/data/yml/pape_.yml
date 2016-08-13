@@ -1,0 +1,39 @@
+---
+pattern: pape_
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 29
+score: 1841212
+score_per_word: 96905
+hi_scored_words:
+  paper: 417
+  paperback: 7853
+  paperbacks: 17059
+  paperboard: 61882
+  paperbound: 90735
+  paperboy: 79712
+  paperclip: 81631
+  paperless: 50825
+  papers: 1201
+  paperweight: 46307
+  paperweights: 65182
+  paperwork: 8671
+scored_words:
+  paperbark: 252739
+  paperclips: 111096
+  papered: 118561
+  paperhanger: 271381
+  paperhangers: 269296
+  papering: 165475
+  papery: 141189
+not_scored_words:
+- Papeete
+- Papen
+- paperbarks
+- paperboys
+- paperer
+- paperers
+- papergirl
+- papergirls
+- paperhanging
+- papeterie

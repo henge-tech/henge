@@ -1,0 +1,41 @@
+---
+pattern: diag_
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 31
+score: 2292329
+score_per_word: 95513
+hi_scored_words:
+  diag: 45646
+  diagnose: 15266
+  diagnosed: 15665
+  diagnoses: 21733
+  diagnosing: 25739
+  diagnosis: 7116
+  diagnostic: 16132
+  diagnostics: 18910
+  diagonal: 15709
+  diagonally: 39837
+  diagonals: 64487
+  diagram: 7503
+  diagrammatic: 71667
+  diagramming: 90966
+  diagrams: 12349
+scored_words:
+  diagenesis: 127200
+  diagnosable: 176573
+  diagnostically: 178027
+  diagnostician: 156433
+  diagnosticians: 289247
+  diagonalize: 287701
+  diagonalized: 275864
+  diagrammatically: 174538
+  diagrammed: 158021
+not_scored_words:
+- Diaghilev
+- diageotropism
+- diagonalizes
+- diagonalizing
+- diagrammable
+- diagrammatical
+- diagraph

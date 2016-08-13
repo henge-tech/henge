@@ -1,0 +1,30 @@
+---
+pattern: f_x
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 688772
+score_per_word: 62615
+hi_scored_words:
+  faux: 15958
+  fax: 7670
+  firebox: 43059
+  fix: 1833
+  flax: 18264
+  flex: 11433
+  flux: 10256
+  fox: 3028
+scored_words:
+  flambeaux: 236261
+  fornix: 209743
+  fusebox: 131267
+not_scored_words:
+- Fairfax
+- FedEx
+- Felix
+- Filofax
+- Firefox
+- Fornax
+- Fox
+- fabliaux
+- flummox

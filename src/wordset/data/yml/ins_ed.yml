@@ -1,0 +1,32 @@
+---
+pattern: ins_ed
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 22
+score: 853189
+score_per_word: 42659
+hi_scored_words:
+  inscribed: 17156
+  inserted: 6965
+  insinuated: 92472
+  insisted: 7511
+  inspected: 13673
+  inspired: 3340
+  installed: 3914
+  instantiated: 48983
+  instigated: 42646
+  instilled: 48908
+  instituted: 13591
+  institutionalized: 27693
+  instructed: 8636
+  instrumented: 62933
+  insulated: 15329
+  insulted: 22459
+  insured: 13690
+scored_words:
+  inseminated: 156796
+  instanced: 130544
+  instated: 115950
+not_scored_words:
+- inspanned
+- inspirited

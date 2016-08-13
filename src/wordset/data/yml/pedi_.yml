@@ -1,0 +1,37 @@
+---
+pattern: pedi_
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 27
+score: 2020030
+score_per_word: 112223
+hi_scored_words:
+  pediatric: 8926
+  pediatrician: 34280
+  pediatricians: 49612
+  pediatrics: 16461
+  pedicle: 92745
+  pedicure: 34507
+  pedicures: 65092
+  pedigree: 14621
+  pedigrees: 56982
+  pediment: 87747
+scored_words:
+  pedicab: 199690
+  pedicel: 129986
+  pedicels: 166202
+  pediculosis: 217599
+  pedicured: 319243
+  pedicurists: 155638
+  pedigreed: 143139
+  pediments: 227560
+not_scored_words:
+- pedicabs
+- pedicular
+- pediculoses
+- pediculous
+- pedicuring
+- pedicurist
+- pediform
+- pedimental
+- pedimented

@@ -1,0 +1,42 @@
+---
+pattern: unde_es
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 32
+score: 1561594
+score_per_word: 97599
+hi_scored_words:
+  underestimates: 75939
+  undergoes: 30509
+  undergraduates: 21832
+  underlies: 41771
+  underlines: 43645
+  undermines: 38210
+  underscores: 33277
+  undertakes: 28424
+  undertones: 53108
+scored_words:
+  underclothes: 154160
+  underpasses: 170332
+  undersides: 120836
+  understates: 151388
+  undervalues: 310266
+  underwrites: 163168
+  undesirables: 124729
+not_scored_words:
+- undeceives
+- underachieves
+- underbellies
+- underbodies
+- undercarriages
+- undercharges
+- underclasses
+- underdresses
+- underexposes
+- underexposures
+- underquotes
+- underrates
+- undersecretaries
+- understudies
+- undersurfaces
+- underwires

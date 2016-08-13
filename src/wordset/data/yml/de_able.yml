@@ -1,0 +1,48 @@
+---
+pattern: de_able
+hi_scored_words_count: 19
+scored_words_count: 10
+total_words: 38
+score: 3302496
+score_per_word: 113879
+hi_scored_words:
+  debatable: 34556
+  decidable: 88205
+  definable: 48799
+  deformable: 77756
+  degradable: 99229
+  delectable: 35695
+  deliverable: 39967
+  demonstrable: 45493
+  dependable: 24162
+  deplorable: 34388
+  deployable: 62705
+  depreciable: 95155
+  derivable: 80270
+  desirable: 5453
+  despicable: 30170
+  detachable: 25246
+  detectable: 24255
+  determinable: 82146
+  detestable: 59262
+scored_words:
+  decipherable: 202747
+  decomposable: 123895
+  defendable: 228517
+  deferrable: 319178
+  delegable: 297248
+  demountable: 159092
+  deniable: 246743
+  denumerable: 333924
+  deportable: 238013
+  describable: 160227
+not_scored_words:
+- decasyllable
+- declarable
+- declinable
+- deflectable
+- defrayable
+- demandable
+- designable
+- destroyable
+- devisable

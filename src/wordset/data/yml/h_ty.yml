@@ -1,0 +1,41 @@
+---
+pattern: h_ty
+hi_scored_words_count: 21
+scored_words_count: 3
+total_words: 31
+score: 1026200
+score_per_word: 42758
+hi_scored_words:
+  hasty: 19244
+  haughty: 32523
+  hearty: 15209
+  hefty: 23753
+  heredity: 29034
+  heritability: 66657
+  heterogeneity: 24024
+  heterosexuality: 75642
+  hilarity: 39280
+  histocompatibility: 53023
+  historicity: 84951
+  homogeneity: 37833
+  homosexuality: 18287
+  honesty: 8127
+  hospitality: 5230
+  hostility: 13074
+  humanity: 4219
+  humidity: 11095
+  humility: 13843
+  hyperactivity: 33082
+  hypersensitivity: 33199
+scored_words:
+  habitability: 120178
+  hybridity: 133760
+  hydroelectricity: 130933
+not_scored_words:
+- haecceity
+- heliocentricity
+- heteroplasty
+- horizontality
+- hyperacidity
+- hypoacidity
+- hyponasty

@@ -1,0 +1,34 @@
+---
+pattern: joi_
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 24
+score: 845821
+score_per_word: 46990
+hi_scored_words:
+  join: 667
+  joined: 1079
+  joiner: 30684
+  joiners: 62086
+  joinery: 40973
+  joining: 4468
+  joins: 7767
+  joint: 2041
+  jointed: 37271
+  jointing: 89255
+  jointly: 10981
+  joints: 8708
+  joist: 67959
+  joists: 56923
+scored_words:
+  joinder: 108744
+  jointer: 100955
+  jointers: 109549
+  jointure: 105711
+not_scored_words:
+- Joinville
+- jointless
+- jointress
+- jointures
+- jointworm
+- jointworms

@@ -1,0 +1,36 @@
+---
+pattern: m_stic
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 26
+score: 1444007
+score_per_word: 90250
+hi_scored_words:
+  majestic: 10057
+  masochistic: 77740
+  mastic: 56485
+  materialistic: 35915
+  mechanistic: 41270
+  militaristic: 64515
+  monastic: 24727
+  monopolistic: 45877
+  monotheistic: 67198
+  moralistic: 87526
+  mystic: 9517
+scored_words:
+  metalinguistic: 241782
+  misogynistic: 101994
+  modernistic: 139391
+  monistic: 191784
+  mutualistic: 248229
+not_scored_words:
+- Methodistic
+- maternalistic
+- mediumistic
+- melanistic
+- melioristic
+- mercantilistic
+- meristic
+- meroblastic
+- monarchistic
+- monetaristic

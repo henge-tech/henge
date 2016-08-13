@@ -1,0 +1,54 @@
+---
+pattern: tra_n
+hi_scored_words_count: 25
+scored_words_count: 8
+total_words: 44
+score: 2322766
+score_per_word: 70386
+hi_scored_words:
+  traction: 18551
+  tradesman: 41010
+  tradesmen: 33264
+  tradition: 3063
+  train: 1335
+  transaction: 4134
+  transcription: 6639
+  transduction: 27878
+  transfiguration: 49284
+  transformation: 5268
+  transfusion: 26910
+  transgression: 33435
+  transition: 8975
+  translation: 2389
+  transliteration: 45895
+  translocation: 34221
+  transmigration: 72534
+  transmission: 4856
+  transmutation: 51605
+  transpiration: 58496
+  transplantation: 12355
+  transportation: 3013
+  transposition: 42837
+  transubstantiation: 96917
+  trashcan: 70667
+scored_words:
+  trackman: 167344
+  tragedian: 196612
+  tragopan: 301701
+  trainman: 226713
+  trainmen: 229700
+  transfixion: 194360
+  transmogrification: 122348
+  transudation: 128457
+not_scored_words:
+- Trabzon
+- Trajan
+- Tran
+- Transcaucasian
+- Transfiguration
+- Transylvanian
+- tradeswoman
+- tradeswomen
+- tranquilization
+- trapan
+- trapezohedron

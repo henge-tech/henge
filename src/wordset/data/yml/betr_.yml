@@ -1,0 +1,24 @@
+---
+pattern: betr_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 809409
+score_per_word: 73582
+hi_scored_words:
+  betray: 20501
+  betrayal: 17923
+  betrayals: 97138
+  betrayed: 12633
+  betrayer: 84080
+  betraying: 41614
+  betrays: 46046
+  betrothal: 85517
+  betrothed: 54047
+scored_words:
+  betrayers: 120472
+  betroth: 229438
+not_scored_words:
+- betrothals
+- betrothing
+- betroths

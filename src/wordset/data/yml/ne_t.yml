@@ -1,0 +1,50 @@
+---
+pattern: ne_t
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 40
+score: 1449193
+score_per_word: 65872
+hi_scored_words:
+  nearest: 3354
+  neat: 6315
+  needlepoint: 44858
+  needn't: 10186
+  neglect: 6714
+  negligent: 20368
+  nest: 5566
+  net: 1520
+  neurologist: 39685
+  newest: 6646
+  newsagent: 67162
+  newscast: 36692
+  newsprint: 41127
+  newt: 25370
+  next: 127
+scored_words:
+  neatest: 107804
+  neediest: 116774
+  needlecraft: 149877
+  neonatologist: 277000
+  neuroblast: 276137
+  neuroscientist: 105316
+  neut: 100595
+not_scored_words:
+- Nernst
+- Net
+- Newmarket
+- Newport
+- necrologist
+- necrophilist
+- negativist
+- negotiant
+- neoclassicist
+- neocolonialist
+- neologist
+- nepotist
+- nerdiest
+- nerviest
+- nescient
+- nethermost
+- neutralist
+- newsiest

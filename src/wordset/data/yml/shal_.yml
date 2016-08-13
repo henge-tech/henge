@@ -1,0 +1,25 @@
+---
+pattern: shal_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 15
+score: 845799
+score_per_word: 65061
+hi_scored_words:
+  shale: 26218
+  shall: 238
+  shallot: 64896
+  shallots: 49800
+  shallow: 6410
+  shallower: 57299
+  shallows: 52251
+  shalom: 26433
+  shalt: 11038
+scored_words:
+  shallop: 128925
+  shallowest: 164463
+  shallowly: 155971
+  shallowness: 101857
+not_scored_words:
+- shaley
+- shalloon

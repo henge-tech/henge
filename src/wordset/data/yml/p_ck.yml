@@ -1,0 +1,48 @@
+---
+pattern: p_ck
+hi_scored_words_count: 20
+scored_words_count: 4
+total_words: 38
+score: 1446774
+score_per_word: 60282
+hi_scored_words:
+  pack: 1860
+  paddock: 25148
+  padlock: 35121
+  paperback: 7853
+  payback: 23416
+  paycheck: 21597
+  peacock: 15128
+  peck: 15427
+  pick: 1637
+  piggyback: 49277
+  playback: 10252
+  pluck: 18684
+  pock: 78278
+  pollack: 32381
+  pollock: 23491
+  poppycock: 85853
+  potluck: 37184
+  prick: 18389
+  puck: 20959
+  pullback: 83261
+scored_words:
+  penstock: 215022
+  petcock: 287559
+  pinchbeck: 149551
+  pinprick: 189446
+not_scored_words:
+- Patrick
+- Peacock
+- Peck
+- Pickwick
+- Planck
+- Polack
+- Pollock
+- Puck
+- picklock
+- piddock
+- pillock
+- pinchcock
+- placekick
+- politick

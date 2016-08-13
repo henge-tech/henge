@@ -1,0 +1,26 @@
+---
+pattern: poet_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 382327
+score_per_word: 42480
+hi_scored_words:
+  poet: 4921
+  poetess: 87413
+  poetic: 10134
+  poetical: 34705
+  poetically: 87829
+  poetics: 37251
+  poetry: 1944
+  poets: 6348
+scored_words:
+  poetaster: 111782
+not_scored_words:
+- poetasters
+- poetesses
+- poeticize
+- poetize
+- poetized
+- poetizes
+- poetizing

@@ -1,0 +1,41 @@
+---
+pattern: c_rate
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 31
+score: 1232404
+score_per_word: 56018
+hi_scored_words:
+  calibrate: 35704
+  carbohydrate: 15906
+  celebrate: 4897
+  chlorate: 80614
+  citrate: 25126
+  collaborate: 15519
+  commemorate: 21440
+  commensurate: 26853
+  commiserate: 96381
+  concentrate: 7358
+  confederate: 12303
+  conglomerate: 26103
+  consecrate: 60002
+  considerate: 23782
+  cooperate: 13248
+  corporate: 4414
+  corroborate: 46587
+  crate: 19093
+  curate: 37499
+scored_words:
+  castrate: 107572
+  clathrate: 256016
+  coelenterate: 295987
+not_scored_words:
+- Confederate
+- camphorate
+- cerate
+- cerebrate
+- cirrate
+- computerate
+- concelebrate
+- cryohydrate
+- cultrate

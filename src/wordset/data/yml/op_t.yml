@@ -1,0 +1,23 @@
+---
+pattern: op_t
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 533586
+score_per_word: 53358
+hi_scored_words:
+  opalescent: 66484
+  operant: 63537
+  ophthalmologist: 58340
+  opponent: 8421
+  opportunist: 55916
+  opt: 18126
+  optimist: 29892
+  optometrist: 51654
+  opulent: 35367
+scored_words:
+  opencast: 145849
+not_scored_words:
+- opaquest
+- openest
+- oppugnant

@@ -1,0 +1,27 @@
+---
+pattern: _lue
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 17
+score: 923503
+score_per_word: 76958
+hi_scored_words:
+  blue: 464
+  clue: 10626
+  devalue: 65965
+  eigenvalue: 36858
+  flue: 29398
+  glue: 11028
+  undervalue: 91210
+  value: 375
+scored_words:
+  overvalue: 246141
+  revalue: 166319
+  slue: 147466
+  superglue: 117653
+not_scored_words:
+- Superglue
+- disvalue
+- misvalue
+- transvalue
+- unglue

@@ -1,0 +1,26 @@
+---
+pattern: w_ht
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 643795
+score_per_word: 64379
+hi_scored_words:
+  wainwright: 27719
+  watertight: 39307
+  weeknight: 81331
+  weight: 775
+  welterweight: 59180
+  wheelwright: 67899
+  wight: 14557
+  wright: 4822
+  wrought: 9822
+scored_words:
+  weathertight: 338383
+not_scored_words:
+- Walpurgisnacht
+- Wehrmacht
+- Wight
+- Wright
+- windowlight
+- windtight

@@ -1,0 +1,51 @@
+---
+pattern: _kets
+hi_scored_words_count: 25
+scored_words_count: 6
+total_words: 41
+score: 1602255
+score_per_word: 51685
+hi_scored_words:
+  baskets: 12291
+  blankets: 8022
+  brackets: 11568
+  buckets: 19002
+  caskets: 59289
+  crickets: 34950
+  dockets: 70343
+  gaskets: 34006
+  jackets: 8606
+  lockets: 74542
+  markets: 3250
+  muskets: 61732
+  packets: 10099
+  pickets: 55853
+  pockets: 5650
+  rackets: 46156
+  rickets: 54505
+  rockets: 13908
+  sockets: 16208
+  sprockets: 60044
+  supermarkets: 15677
+  thickets: 58311
+  tickets: 2738
+  trinkets: 43061
+  wickets: 33789
+scored_words:
+  hypermarkets: 120816
+  junkets: 129699
+  pickpockets: 103798
+  skyrockets: 134479
+  straitjackets: 157132
+  wastebaskets: 142731
+not_scored_words:
+- aftermarkets
+- bluejackets
+- breadbaskets
+- briskets
+- brockets
+- crockets
+- plackets
+- prickets
+- retrorockets
+- workbaskets

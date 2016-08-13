@@ -1,0 +1,26 @@
+---
+pattern: liga_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 1078339
+score_per_word: 98030
+hi_scored_words:
+  ligament: 29873
+  ligaments: 39169
+  ligand: 20526
+  ligands: 29878
+  ligated: 79350
+  ligation: 42766
+  ligature: 51674
+  ligatures: 81449
+scored_words:
+  ligamentous: 194391
+  ligate: 241308
+  ligating: 267955
+not_scored_words:
+- ligan
+- ligans
+- ligates
+- ligatured
+- ligaturing

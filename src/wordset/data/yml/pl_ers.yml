@@ -1,0 +1,37 @@
+---
+pattern: pl_ers
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 27
+score: 1419360
+score_per_word: 83491
+hi_scored_words:
+  placeholders: 73390
+  planners: 9114
+  planters: 20557
+  plasterers: 78696
+  plasters: 70681
+  platters: 39032
+  players: 2352
+  pliers: 24893
+  plotters: 42077
+  plovers: 84532
+  plumbers: 30903
+scored_words:
+  placers: 147180
+  planers: 118444
+  plasticizers: 111700
+  plunderers: 199054
+  plunders: 258451
+  plungers: 108304
+not_scored_words:
+- placekickers
+- plagiarizers
+- planimeters
+- platelayers
+- playgoers
+- pleaders
+- plodders
+- plonkers
+- plowers
+- plunkers

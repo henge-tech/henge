@@ -1,0 +1,30 @@
+---
+pattern: sile_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 20
+score: 650951
+score_per_word: 59177
+hi_scored_words:
+  silence: 3097
+  silenced: 28411
+  silencer: 32668
+  silencers: 68346
+  silences: 48454
+  silencing: 39804
+  silent: 2609
+  silently: 11279
+  silesia: 45096
+scored_words:
+  silents: 127745
+  silenus: 243442
+not_scored_words:
+- Sileni
+- Silenus
+- Silesia
+- Silesian
+- sileni
+- silenter
+- silentest
+- silenuses
+- silesias

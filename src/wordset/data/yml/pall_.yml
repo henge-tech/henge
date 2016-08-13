@@ -1,0 +1,45 @@
+---
+pattern: pall_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 35
+score: 1184044
+score_per_word: 78936
+hi_scored_words:
+  pall: 26171
+  palladium: 28224
+  pallbearers: 78906
+  pallet: 21189
+  pallets: 31672
+  palliation: 91145
+  palliative: 23280
+  pallid: 50018
+  pallor: 61182
+  pally: 71970
+scored_words:
+  pallbearer: 168731
+  palled: 131134
+  pallette: 135347
+  palliate: 154945
+  pallium: 110130
+not_scored_words:
+- Palladian
+- Palladio
+- Palladium
+- Pallas
+- palladic
+- palladous
+- pallettes
+- pallia
+- palliasse
+- palliasses
+- palliated
+- palliates
+- palliating
+- palliatives
+- palliator
+- pallidly
+- pallidness
+- palling
+- palliums
+- palls

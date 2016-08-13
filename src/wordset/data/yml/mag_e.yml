@@ -1,0 +1,29 @@
+---
+pattern: mag_e
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 19
+score: 518703
+score_per_word: 47154
+hi_scored_words:
+  magazine: 1641
+  mage: 18119
+  magistrate: 12337
+  magnate: 42923
+  magnetite: 55257
+  magnetosphere: 60435
+  magnificence: 35876
+  magnitude: 6378
+  magpie: 33591
+scored_words:
+  magnesite: 108611
+  magnetize: 143535
+not_scored_words:
+- Magdalene
+- Maggie
+- Maggiore
+- Magritte
+- magnetizable
+- magnetomotive
+- magnifiable
+- magniloquence

@@ -1,0 +1,36 @@
+---
+pattern: refe_
+hi_scored_words_count: 21
+scored_words_count: 4
+total_words: 26
+score: 1332749
+score_per_word: 53309
+hi_scored_words:
+  refectory: 61904
+  refer: 2325
+  referee: 15731
+  refereed: 29421
+  refereeing: 58476
+  referees: 20403
+  reference: 996
+  referenced: 8289
+  references: 1342
+  referencing: 19166
+  referendum: 16804
+  referendums: 52438
+  referent: 47416
+  referential: 41750
+  referents: 88309
+  referral: 6607
+  referrals: 10657
+  referred: 2001
+  referrer: 59951
+  referring: 5500
+  refers: 4142
+scored_words:
+  refection: 272865
+  referable: 120680
+  referentially: 266886
+  referrers: 118690
+not_scored_words:
+- refectories

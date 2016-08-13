@@ -1,0 +1,41 @@
+---
+pattern: ir_ly
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 31
+score: 2481986
+score_per_word: 130630
+hi_scored_words:
+  ironically: 16243
+  irrationally: 91764
+  irregularly: 42808
+  irreparably: 85073
+  irresistibly: 67340
+  irresponsibly: 95991
+  irretrievably: 97313
+  irreversibly: 78056
+  irrevocably: 43819
+  irritably: 81374
+scored_words:
+  irrecoverably: 164043
+  irredeemably: 217822
+  irreducibly: 157741
+  irrefutably: 220837
+  irrelevantly: 158171
+  irresolutely: 190598
+  irrespectively: 315811
+  irreverently: 176182
+  irritatingly: 181000
+not_scored_words:
+- irascibly
+- irately
+- irefully
+- irenically
+- iridescently
+- irksomely
+- irreconcilably
+- irrefragably
+- irreligiously
+- irremediably
+- irrepressibly
+- irreproachably

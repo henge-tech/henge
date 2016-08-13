@@ -1,0 +1,50 @@
+---
+pattern: emba_
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 40
+score: 1808941
+score_per_word: 66997
+hi_scored_words:
+  embalming: 73980
+  embankment: 27105
+  embankments: 69112
+  embarcadero: 61127
+  embargo: 20130
+  embargoed: 94305
+  embargoes: 82002
+  embark: 17907
+  embarkation: 51780
+  embarked: 16085
+  embarking: 32912
+  embarks: 56610
+  embarrass: 27924
+  embarrassed: 11326
+  embarrassing: 12153
+  embarrassingly: 71444
+  embarrassment: 16167
+  embassies: 23951
+  embassy: 6676
+  embattled: 49346
+scored_words:
+  embalm: 178265
+  embalmed: 102659
+  embalmer: 138782
+  embalmers: 174960
+  embarrasses: 134462
+  embarrassments: 114027
+  embayment: 143744
+not_scored_words:
+- embalmment
+- embalmments
+- embalms
+- embank
+- embanked
+- embanking
+- embanks
+- embargoing
+- embarkations
+- embarkment
+- embarkments
+- embattle
+- embay

@@ -1,0 +1,27 @@
+---
+pattern: mar_ed
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 17
+score: 761759
+score_per_word: 58596
+hi_scored_words:
+  marbled: 52087
+  marched: 13004
+  marginalized: 32221
+  marinated: 35908
+  marked: 2174
+  marketed: 13560
+  marooned: 74021
+  marred: 29112
+  married: 1240
+  martyred: 58610
+  marveled: 68246
+scored_words:
+  marbleized: 264442
+  marshaled: 117134
+not_scored_words:
+- marauded
+- marcelled
+- marinaded
+- martyrized

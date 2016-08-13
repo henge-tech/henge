@@ -1,0 +1,35 @@
+---
+pattern: fi_l
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 25
+score: 1452952
+score_per_word: 69188
+hi_scored_words:
+  fictional: 15006
+  fiducial: 81900
+  figural: 61795
+  filial: 48405
+  fill: 1655
+  final: 715
+  financial: 1157
+  fingernail: 48815
+  finial: 53351
+  fireball: 25672
+  firewall: 11756
+  fiscal: 4431
+  fishbowl: 61982
+  fistful: 46313
+  fitful: 89925
+scored_words:
+  fiberfill: 174694
+  fibril: 141157
+  filarial: 219839
+  finical: 105586
+  fishmeal: 153137
+  fishtail: 105661
+not_scored_words:
+- Fidel
+- fingerstall
+- firmamental
+- fissirostral

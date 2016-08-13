@@ -1,0 +1,36 @@
+---
+pattern: bu_l
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 26
+score: 1340508
+score_per_word: 95750
+hi_scored_words:
+  buccal: 53563
+  buhl: 66699
+  bul: 45325
+  bulbul: 82887
+  bull: 4106
+  burial: 7826
+  burl: 45227
+  bushel: 33294
+  butanol: 91643
+  butyl: 36005
+scored_words:
+  bucketful: 237702
+  buckyball: 292977
+  butterball: 132849
+  buzzkill: 210405
+not_scored_words:
+- Bul
+- Bull
+- Bunuel
+- Burl
+- Bushnell
+- Buñuel
+- bubal
+- bulbil
+- burghal
+- bursarial
+- busgirl
+- buttonball

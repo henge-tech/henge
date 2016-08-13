@@ -1,0 +1,38 @@
+---
+pattern: cap_e
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 28
+score: 1326241
+score_per_word: 73680
+hi_scored_words:
+  capable: 2376
+  capacitance: 25028
+  capacitive: 49658
+  cape: 3366
+  capitalize: 22402
+  capitulate: 83803
+  capote: 38476
+  caprice: 21672
+  capsize: 82266
+  capstone: 37307
+  capsule: 15099
+  captivate: 45689
+  captive: 10270
+  capture: 3087
+scored_words:
+  capercaillie: 133977
+  capitate: 249277
+  caprine: 178164
+  capriole: 324324
+not_scored_words:
+- Capitoline
+- Capone
+- Capote
+- capacitate
+- capacitative
+- caponize
+- capreolate
+- capsulate
+- capsulize
+- capuche

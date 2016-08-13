@@ -1,0 +1,49 @@
+---
+pattern: rag_
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 39
+score: 2062944
+score_per_word: 85956
+hi_scored_words:
+  rag: 11872
+  raga: 46792
+  ragamuffin: 97178
+  rage: 4669
+  raged: 37577
+  rages: 40244
+  ragga: 50186
+  ragged: 17616
+  raggedy: 46199
+  raging: 12018
+  raglan: 36574
+  rags: 16956
+  ragtime: 34489
+  ragweed: 68734
+scored_words:
+  ragamuffins: 149736
+  ragas: 100998
+  ragbag: 169432
+  ragging: 108040
+  ragi: 227538
+  ragman: 237130
+  ragout: 129332
+  ragtag: 122520
+  ragtop: 181183
+  ragwort: 115931
+not_scored_words:
+- Ragnarok
+- Ragnarök
+- raggeder
+- raggedest
+- raggedier
+- raggediest
+- raggedly
+- raggedness
+- ragingly
+- ragis
+- raglans
+- ragouts
+- ragpicker
+- ragtags
+- ragworts

@@ -1,0 +1,21 @@
+---
+pattern: h_ul
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 481981
+score_per_word: 48198
+hi_scored_words:
+  handful: 7799
+  harmful: 9500
+  hateful: 18943
+  haul: 10654
+  healthful: 30386
+  helpful: 3380
+  hopeful: 11283
+  hurtful: 34969
+scored_words:
+  heedful: 125637
+  houseful: 229430
+not_scored_words:
+- Hangul

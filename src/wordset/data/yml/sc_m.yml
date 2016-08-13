@@ -1,0 +1,38 @@
+---
+pattern: sc_m
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 28
+score: 908468
+score_per_word: 64890
+hi_scored_words:
+  scam: 13714
+  scandium: 90067
+  schism: 34445
+  schoolroom: 80443
+  scram: 56016
+  scream: 6846
+  scrim: 60829
+  scriptorium: 83938
+  scrotum: 41199
+  scrum: 32319
+  scum: 18771
+scored_words:
+  scholasticism: 102059
+  scientism: 136229
+  scutum: 151593
+not_scored_words:
+- Schiedam
+- Schopenhauerism
+- Scotism
+- Scotticism
+- Scutum
+- scalariform
+- scapegoatism
+- schematism
+- scholium
+- schoolma'am
+- schoolmarm
+- sciolism
+- screwworm
+- scutiform

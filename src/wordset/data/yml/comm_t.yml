@@ -1,0 +1,24 @@
+---
+pattern: comm_t
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 369661
+score_per_word: 36966
+hi_scored_words:
+  commandant: 31768
+  commandment: 22218
+  commencement: 8410
+  comment: 1104
+  commissariat: 88060
+  commit: 3293
+  commitment: 8470
+  commonest: 51803
+  communist: 8617
+scored_words:
+  communicant: 145918
+not_scored_words:
+- Commandment
+- Communist
+- commercialist
+- commorant

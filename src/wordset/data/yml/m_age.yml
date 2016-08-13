@@ -1,0 +1,40 @@
+---
+pattern: m_age
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 30
+score: 1618524
+score_per_word: 77072
+hi_scored_words:
+  macrophage: 37553
+  mage: 18119
+  manage: 1909
+  marriage: 1341
+  massage: 10914
+  menage: 55565
+  message: 526
+  mileage: 15940
+  millage: 95692
+  mirage: 16033
+  miscarriage: 24270
+  montage: 22043
+  mortgage: 3919
+  multistage: 75587
+scored_words:
+  messuage: 181881
+  metalanguage: 144309
+  micromanage: 151980
+  mintage: 126222
+  mismanage: 293983
+  moorage: 192449
+  mucilage: 148289
+not_scored_words:
+- matrilineage
+- matronage
+- megatonnage
+- megawattage
+- meltage
+- metage
+- meterage
+- misusage
+- murage

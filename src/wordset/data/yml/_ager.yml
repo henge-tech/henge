@@ -1,0 +1,49 @@
+---
+pattern: _ager
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 39
+score: 2076714
+score_per_word: 90291
+hi_scored_words:
+  cottager: 91934
+  dowager: 57781
+  eager: 6026
+  lager: 23648
+  manager: 1807
+  meager: 30936
+  packager: 75976
+  pager: 23463
+  sager: 45079
+  tanager: 61335
+  teenager: 13783
+  villager: 32856
+  voyager: 15203
+  wager: 15518
+scored_words:
+  cager: 111954
+  encourager: 145811
+  engager: 301680
+  forager: 138165
+  laager: 128173
+  onager: 132827
+  overeager: 211844
+  pillager: 243487
+  ravager: 167428
+not_scored_words:
+- Meleager
+- Onsager
+- Voyager
+- Yeager
+- arbitrager
+- camouflager
+- homager
+- micromanager
+- presager
+- rampager
+- rummager
+- salvager
+- savager
+- scrimmager
+- uneager
+- vintager

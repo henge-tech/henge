@@ -1,0 +1,56 @@
+---
+pattern: rea_d
+hi_scored_words_count: 23
+scored_words_count: 14
+total_words: 46
+score: 3379129
+score_per_word: 91327
+hi_scored_words:
+  reached: 1584
+  reacted: 22963
+  reactivated: 50887
+  read: 171
+  readied: 59742
+  readmitted: 86404
+  reaffirmed: 33175
+  realigned: 81184
+  realized: 3167
+  reallocated: 78242
+  reamed: 85149
+  reaped: 51400
+  reappeared: 47520
+  reappointed: 63412
+  reared: 21080
+  rearguard: 89427
+  rearranged: 41242
+  rearward: 70657
+  reasoned: 18638
+  reassembled: 66315
+  reassessed: 76618
+  reassigned: 39270
+  reassured: 32892
+scored_words:
+  reabsorbed: 135893
+  reacquainted: 151449
+  reacquired: 170780
+  readjusted: 110111
+  readopted: 175855
+  reanalyzed: 209763
+  reanimated: 176132
+  reapplied: 113941
+  reappraised: 296718
+  rearrested: 168119
+  reasserted: 115888
+  reattached: 143392
+  reauthorized: 140180
+  reawakened: 149769
+not_scored_words:
+- readapted
+- readdressed
+- reapportioned
+- rearmed
+- reascend
+- reascended
+- reattained
+- reattempted
+- reaved

@@ -1,0 +1,52 @@
+---
+pattern: bag_
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 42
+score: 2112471
+score_per_word: 88019
+hi_scored_words:
+  bag: 1683
+  bagatelle: 96256
+  bagel: 26001
+  bagels: 27528
+  baggage: 10174
+  bagged: 33589
+  bagger: 64212
+  baggie: 97437
+  baggies: 77611
+  bagging: 48652
+  baggy: 33823
+  bagpipe: 55283
+  bagpipes: 39050
+  bags: 3324
+  baguette: 43966
+  baguettes: 82713
+  baguio: 60452
+scored_words:
+  bagasse: 123506
+  bagatelles: 217787
+  bagful: 276537
+  baggers: 132383
+  bagman: 131883
+  bagpiper: 172168
+  bagpipers: 256453
+not_scored_words:
+- Bagehot
+- Baggie
+- Baggies
+- Baghdad
+- Baguio
+- bagasses
+- bagfuls
+- baggier
+- baggiest
+- baggily
+- bagginess
+- baggings
+- baggywrinkle
+- bagmen
+- bagnio
+- bagnios
+- bagwig
+- bagworm

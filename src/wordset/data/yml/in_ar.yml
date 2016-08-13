@@ -1,0 +1,27 @@
+---
+pattern: in_ar
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 17
+score: 1078680
+score_per_word: 77048
+hi_scored_words:
+  insofar: 21530
+  instar: 65013
+  insular: 32338
+  intercellular: 57589
+  intermolecular: 67138
+  interstellar: 26155
+  interwar: 81226
+  intracellular: 21994
+  intramolecular: 72474
+  intramuscular: 52420
+  intraocular: 49682
+scored_words:
+  interlinear: 103464
+  internuclear: 237152
+  intranuclear: 190505
+not_scored_words:
+- Invar
+- interlunar
+- interocular

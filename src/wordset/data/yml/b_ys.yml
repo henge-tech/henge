@@ -1,0 +1,38 @@
+---
+pattern: b_ys
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 28
+score: 1779147
+score_per_word: 104655
+hi_scored_words:
+  baileys: 60782
+  barneys: 95851
+  bays: 15542
+  betrays: 46046
+  birthdays: 17514
+  bogeys: 84128
+  boys: 795
+  buoys: 42898
+  buys: 8295
+  byways: 54811
+scored_words:
+  belays: 325505
+  beys: 111618
+  bluejays: 100431
+  brays: 193037
+  breakaways: 164616
+  bridleways: 174324
+  busboys: 282954
+not_scored_words:
+- Barclays
+- Bernays
+- Broadways
+- backstays
+- bellboys
+- beltways
+- bewrays
+- blarneys
+- breadthways
+- breezeways
+- bullyboys

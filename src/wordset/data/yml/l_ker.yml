@@ -1,0 +1,28 @@
+---
+pattern: l_ker
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 18
+score: 1127824
+score_per_word: 86755
+hi_scored_words:
+  laker: 57909
+  lawmaker: 42524
+  licker: 78090
+  linebacker: 29077
+  linker: 28219
+  locker: 12795
+  looker: 50970
+  loudspeaker: 30768
+  lurker: 30927
+scored_words:
+  lacker: 263370
+  lawbreaker: 207206
+  leaker: 134090
+  liker: 161879
+not_scored_words:
+- Lasker
+- lanker
+- larker
+- leatherworker
+- likker

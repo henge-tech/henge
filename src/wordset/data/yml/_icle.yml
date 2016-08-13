@@ -1,0 +1,47 @@
+---
+pattern: _icle
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 37
+score: 2024427
+score_per_word: 84351
+hi_scored_words:
+  article: 732
+  canticle: 75386
+  chronicle: 7783
+  clavicle: 67951
+  conventicle: 87718
+  cubicle: 28438
+  cuticle: 42927
+  follicle: 32713
+  icicle: 52500
+  panicle: 91696
+  particle: 6571
+  pedicle: 92745
+  reticle: 63636
+  testicle: 38230
+  vehicle: 2580
+  ventricle: 34037
+  vesicle: 42473
+scored_words:
+  antiparticle: 206580
+  auricle: 107753
+  chicle: 180337
+  curricle: 266744
+  fascicle: 109562
+  pellicle: 182216
+  radicle: 203119
+not_scored_words:
+- Popsicle
+- adminicle
+- appendicle
+- calicle
+- caulicle
+- denticle
+- funicle
+- interclavicle
+- ossicle
+- silicle
+- tunicle
+- utricle
+- versicle

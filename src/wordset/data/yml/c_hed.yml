@@ -1,0 +1,35 @@
+---
+pattern: c_hed
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 25
+score: 1000376
+score_per_word: 52651
+hi_scored_words:
+  cached: 17303
+  cashed: 39244
+  cherished: 13743
+  choreographed: 40672
+  clashed: 46517
+  clenched: 37072
+  cliched: 79989
+  clinched: 44355
+  clothed: 17600
+  clutched: 44824
+  coached: 31394
+  couched: 58971
+  coughed: 48603
+  crashed: 12512
+  crouched: 44152
+  crunched: 79802
+  crushed: 8065
+scored_words:
+  cinched: 150121
+  cowshed: 185437
+not_scored_words:
+- closemouthed
+- contradistinguished
+- coshed
+- countermarched
+- craunched
+- crosshatched

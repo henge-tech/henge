@@ -1,0 +1,25 @@
+---
+pattern: se_nts
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 597807
+score_per_word: 54346
+hi_scored_words:
+  sealants: 46251
+  sediments: 15416
+  segments: 10023
+  sentiments: 12111
+  sergeants: 47408
+  serpents: 42492
+  servants: 6031
+  settlements: 8185
+scored_words:
+  seamounts: 126189
+  secondments: 133133
+  sextants: 150568
+not_scored_words:
+- Septuagints
+- seafronts
+- secants
+- serjeants

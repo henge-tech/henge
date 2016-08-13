@@ -1,0 +1,27 @@
+---
+pattern: det_ed
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 770236
+score_per_word: 59248
+hi_scored_words:
+  detached: 8131
+  detailed: 2613
+  detained: 10428
+  detected: 4882
+  deteriorated: 29147
+  determined: 1358
+  deterred: 43081
+  detested: 67695
+  dethroned: 68071
+  detonated: 43487
+scored_words:
+  detoured: 152078
+  detoxified: 227493
+  detracted: 111772
+not_scored_words:
+- detoxed
+- detoxicated
+- detrained
+- detribalized

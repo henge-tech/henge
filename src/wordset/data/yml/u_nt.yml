@@ -1,0 +1,46 @@
+---
+pattern: u_nt
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 36
+score: 2410365
+score_per_word: 100431
+hi_scored_words:
+  undercurrent: 49900
+  underdevelopment: 70727
+  underemployment: 89968
+  undergarment: 98651
+  understatement: 31442
+  underwent: 15171
+  unemployment: 7644
+  unimportant: 20509
+  unintelligent: 80551
+  unpleasant: 10400
+  unrepentant: 57262
+  unspent: 85949
+  upfront: 22084
+  urgent: 5794
+scored_words:
+  unbent: 247774
+  unburnt: 160161
+  underachievement: 111085
+  underinvestment: 226485
+  undernourishment: 267033
+  underpayment: 114571
+  unguent: 234514
+  univalent: 152132
+  unobservant: 131428
+  unsent: 119130
+not_scored_words:
+- Ushant
+- ululant
+- unabsorbent
+- unapparent
+- underspent
+- undertenant
+- undertint
+- undulant
+- unmeant
+- unornament
+- unresistant
+- unrestraint

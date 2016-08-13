@@ -1,0 +1,37 @@
+---
+pattern: de_ce
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 27
+score: 992373
+score_per_word: 62023
+hi_scored_words:
+  decadence: 31769
+  deduce: 27421
+  deface: 65889
+  deference: 23113
+  defiance: 13113
+  deliverance: 24326
+  denounce: 27317
+  dependence: 7017
+  deterrence: 29198
+  deuce: 19608
+  deviance: 43838
+  device: 2429
+scored_words:
+  defeasance: 173178
+  dehiscence: 140871
+  dentifrice: 197414
+  despondence: 165872
+not_scored_words:
+- decalescence
+- deforce
+- dehisce
+- deice
+- deliquesce
+- deliquescence
+- delitescence
+- desinence
+- detumesce
+- detumescence
+- devoice

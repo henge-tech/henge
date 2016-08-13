@@ -1,0 +1,42 @@
+---
+pattern: gu_r
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 32
+score: 1038380
+score_per_word: 69225
+hi_scored_words:
+  guar: 64788
+  guarantor: 37351
+  guilder: 44277
+  guitar: 4494
+  gunfighter: 81378
+  gunner: 22951
+  gunpowder: 26095
+  gunslinger: 49887
+  gunter: 32107
+  gusher: 72419
+  gutter: 17449
+  guzzler: 82641
+scored_words:
+  guarder: 216134
+  guesser: 175848
+  guider: 110561
+not_scored_words:
+- Guadalquivir
+- Gulliver
+- Gunnar
+- Gunter
+- Gunther
+- Gur
+- guiltier
+- gulper
+- gummier
+- gunmaker
+- gunpaper
+- gunrunner
+- gushier
+- gustier
+- gutsier
+- guttier
+- guvnor

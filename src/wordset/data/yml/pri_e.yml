@@ -1,0 +1,39 @@
+---
+pattern: pri_e
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 29
+score: 832999
+score_per_word: 41649
+hi_scored_words:
+  price: 389
+  pride: 2486
+  primate: 24646
+  prime: 2179
+  primetime: 26039
+  primitive: 6094
+  primrose: 22897
+  prince: 1701
+  principle: 2253
+  printable: 7042
+  prioritize: 26123
+  pristine: 19666
+  private: 396
+  privatize: 56297
+  privilege: 5226
+  prize: 2750
+scored_words:
+  prickle: 158870
+  primogeniture: 139429
+  prithee: 106065
+  privative: 222451
+not_scored_words:
+- Price
+- Pride
+- Prince
+- Principe
+- Private
+- primine
+- principate
+- priorate
+- prisage

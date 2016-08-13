@@ -1,0 +1,40 @@
+---
+pattern: equ_s
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 30
+score: 1541214
+score_per_word: 85623
+hi_scored_words:
+  equalities: 60404
+  equalizers: 74696
+  equals: 8327
+  equates: 36203
+  equations: 13148
+  equipments: 29039
+  equips: 65378
+  equities: 24142
+  equivalences: 86499
+  equivalents: 18785
+scored_words:
+  equalizes: 180248
+  equerries: 209146
+  equestrians: 116471
+  equines: 135313
+  equinoxes: 119370
+  equipages: 123844
+  equites: 112053
+  equivalencies: 128148
+not_scored_words:
+- Equuleus
+- equalitarians
+- equanimous
+- equators
+- equestriennes
+- equilaterals
+- equilibrates
+- equitableness
+- equivocalness
+- equivocates
+- equivocations
+- equivocators

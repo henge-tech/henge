@@ -1,0 +1,29 @@
+---
+pattern: _urse
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 19
+score: 680487
+score_per_word: 45365
+hi_scored_words:
+  bourse: 43863
+  concourse: 27189
+  course: 211
+  curse: 6382
+  disburse: 69274
+  discourse: 6338
+  intercourse: 8379
+  nurse: 2733
+  purse: 6006
+  racecourse: 30209
+  recourse: 15019
+  reimburse: 29455
+  watercourse: 54566
+scored_words:
+  burse: 198118
+  midcourse: 182745
+not_scored_words:
+- Bourse
+- cutpurse
+- forecourse
+- nonintercourse

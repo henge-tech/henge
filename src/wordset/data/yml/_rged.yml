@@ -1,0 +1,43 @@
+---
+pattern: _rged
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 33
+score: 2176636
+score_per_word: 80616
+hi_scored_words:
+  charged: 2488
+  converged: 33550
+  discharged: 8571
+  diverged: 56240
+  emerged: 6367
+  engorged: 90886
+  enlarged: 8569
+  forged: 11580
+  merged: 10245
+  overcharged: 64816
+  purged: 36277
+  recharged: 54883
+  submerged: 20585
+  supercharged: 39851
+  surged: 37084
+  turbocharged: 62397
+  urged: 5901
+scored_words:
+  barged: 127646
+  disgorged: 196428
+  gorged: 119965
+  reemerged: 176331
+  scourged: 121250
+  splurged: 178453
+  surcharged: 142918
+  uncharged: 109783
+  undischarged: 235101
+  verged: 218471
+not_scored_words:
+- gurged
+- reforged
+- regorged
+- reorged
+- undercharged
+- upsurged

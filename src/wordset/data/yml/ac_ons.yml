@@ -1,0 +1,24 @@
+---
+pattern: ac_ons
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 627036
+score_per_word: 57003
+hi_scored_words:
+  accelerations: 70055
+  accessions: 45555
+  accommodations: 9750
+  accordions: 75020
+  accumulations: 41381
+  accusations: 15442
+  acquisitions: 11899
+  actions: 1597
+  activations: 72433
+scored_words:
+  acclamations: 138805
+  accretions: 145099
+not_scored_words:
+- acceptations
+- acidifications
+- acromions

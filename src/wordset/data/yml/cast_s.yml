@@ -1,0 +1,26 @@
+---
+pattern: cast_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 946306
+score_per_word: 94630
+hi_scored_words:
+  castanets: 81623
+  castaways: 64399
+  casters: 26007
+  castes: 42761
+  castings: 29668
+  castles: 17909
+  castors: 76719
+  casts: 15736
+scored_words:
+  castigates: 298108
+  castoffs: 293376
+not_scored_words:
+- Castries
+- castellatus
+- castigators
+- castrates
+- castrations
+- castratos

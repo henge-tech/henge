@@ -1,0 +1,47 @@
+---
+pattern: ca_tion
+hi_scored_words_count: 19
+scored_words_count: 7
+total_words: 37
+score: 2305390
+score_per_word: 88668
+hi_scored_words:
+  calcification: 49667
+  calculation: 5906
+  calibration: 13903
+  cancellation: 18277
+  canonization: 72547
+  capitalization: 22723
+  capitation: 59849
+  capitulation: 49019
+  caption: 15804
+  carbonation: 85838
+  carnation: 32963
+  cassation: 83051
+  castration: 41864
+  categorization: 28889
+  cation: 21932
+  causation: 27022
+  cauterization: 80472
+  caution: 5744
+  cavitation: 63357
+scored_words:
+  calcination: 146318
+  canalization: 278556
+  cannibalization: 253801
+  captivation: 286619
+  carbonization: 183131
+  carburetion: 192857
+  castigation: 185281
+not_scored_words:
+- Carnation
+- cachinnation
+- calefaction
+- calumniation
+- caprification
+- capsulation
+- caramelization
+- carburization
+- cartelization
+- caseation
+- catenation

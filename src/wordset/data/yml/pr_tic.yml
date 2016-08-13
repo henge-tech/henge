@@ -1,0 +1,30 @@
+---
+pattern: pr_tic
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 20
+score: 646010
+score_per_word: 49693
+hi_scored_words:
+  pragmatic: 20078
+  prismatic: 52495
+  probabilistic: 23345
+  problematic: 13677
+  prognostic: 36962
+  programmatic: 30022
+  prokaryotic: 67439
+  prophetic: 18085
+  prophylactic: 34805
+  prostatic: 37309
+  prosthetic: 28786
+scored_words:
+  proleptic: 123959
+  propaedeutic: 159048
+not_scored_words:
+- pragmatistic
+- prediagnostic
+- prelatic
+- proceleusmatic
+- proclitic
+- procryptic
+- prodemocratic

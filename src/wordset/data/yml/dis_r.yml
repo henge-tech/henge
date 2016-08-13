@@ -1,0 +1,69 @@
+---
+pattern: dis_r
+hi_scored_words_count: 23
+scored_words_count: 16
+total_words: 59
+score: 4477354
+score_per_word: 114803
+hi_scored_words:
+  disappear: 7356
+  disaster: 3326
+  disclaimer: 3967
+  discolor: 91407
+  discover: 2003
+  discoverer: 39248
+  discriminator: 82496
+  dishonor: 39279
+  dishwasher: 17267
+  dismember: 77470
+  disorder: 3951
+  dispatcher: 27326
+  dispenser: 22730
+  disposer: 94515
+  disrepair: 48379
+  disruptor: 94469
+  dissector: 81574
+  dissenter: 82343
+  dissimilar: 28444
+  distemper: 63951
+  distiller: 61288
+  distr: 77363
+  distributor: 6720
+scored_words:
+  disassembler: 141468
+  disbar: 144667
+  disbeliever: 247912
+  discloser: 238483
+  discounter: 144736
+  disfavor: 106842
+  dishwater: 198477
+  disinter: 228720
+  dismantler: 271277
+  disperser: 294761
+  displacer: 222134
+  disputer: 301014
+  disrupter: 216124
+  dissembler: 136811
+  disseminator: 298528
+  disturber: 228528
+not_scored_words:
+- disburser
+- discerner
+- disconsider
+- discreeter
+- disencumber
+- disentangler
+- diseur
+- disintegrator
+- dispeller
+- dispraiser
+- disremember
+- dissever
+- dissimulator
+- dissipater
+- dissipator
+- dissolver
+- dissuader
+- distincter
+- distorter
+- distrainer

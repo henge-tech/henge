@@ -1,0 +1,43 @@
+---
+pattern: unc_ly
+hi_scored_words_count: 11
+scored_words_count: 10
+total_words: 33
+score: 2810245
+score_per_word: 133821
+hi_scored_words:
+  unceasingly: 95973
+  unceremoniously: 78616
+  uncertainly: 94722
+  uncharacteristically: 82572
+  uncomfortably: 41161
+  uncommonly: 58420
+  unconditionally: 32725
+  unconsciously: 24283
+  unconstitutionally: 94079
+  uncontrollably: 54336
+  uncritically: 92018
+scored_words:
+  uncannily: 117901
+  uncleanly: 188274
+  uncomely: 236181
+  uncomplainingly: 197134
+  uncompromisingly: 146240
+  unconcernedly: 138147
+  unconscionably: 291099
+  unconventionally: 270341
+  unconvincingly: 251139
+  unctuously: 224884
+not_scored_words:
+- unchangeably
+- uncharitably
+- unchastely
+- uncivilly
+- uncomprehendingly
+- unconceivably
+- unconnectedly
+- unconquerably
+- uncontroversially
+- uncooperatively
+- uncourtly
+- uncouthly

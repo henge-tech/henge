@@ -1,0 +1,55 @@
+---
+pattern: f_ling
+hi_scored_words_count: 20
+scored_words_count: 9
+total_words: 45
+score: 2213367
+score_per_word: 76323
+hi_scored_words:
+  failing: 5375
+  falling: 2692
+  feeling: 1275
+  felling: 45576
+  fiddling: 34019
+  filing: 8015
+  filling: 4481
+  flailing: 61053
+  fledgling: 29226
+  fling: 20830
+  foiling: 98301
+  fondling: 51173
+  fooling: 30283
+  footballing: 85209
+  fouling: 42503
+  foundling: 88555
+  freewheeling: 88342
+  fueling: 33013
+  fulfilling: 12335
+  fumbling: 46612
+scored_words:
+  fingerling: 131589
+  fizzling: 280674
+  foaling: 169336
+  forestalling: 169820
+  foretelling: 119868
+  fowling: 208630
+  fulling: 106697
+  funneling: 105832
+  furling: 132053
+not_scored_words:
+- fatling
+- fettling
+- finagling
+- firstling
+- fishtailing
+- flanneling
+- flatling
+- footling
+- fortunetelling
+- fosterling
+- frazzling
+- freckling
+- frilling
+- frivoling
+- frizzling
+- fuddling

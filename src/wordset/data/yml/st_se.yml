@@ -1,0 +1,23 @@
+---
+pattern: st_se
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 446955
+score_per_word: 49661
+hi_scored_words:
+  staircase: 13727
+  statehouse: 71430
+  steakhouse: 29148
+  steeplechase: 44149
+  stepwise: 52092
+  storehouse: 37588
+  streetwise: 51343
+  striptease: 36904
+scored_words:
+  streptokinase: 110574
+not_scored_words:
+- Statehouse
+- stratopause
+- strigose
+- studhorse

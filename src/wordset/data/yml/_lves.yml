@@ -1,0 +1,42 @@
+---
+pattern: _lves
+hi_scored_words_count: 20
+scored_words_count: 4
+total_words: 32
+score: 1015943
+score_per_word: 42330
+hi_scored_words:
+  bivalves: 85809
+  bookshelves: 36509
+  calves: 16824
+  delves: 58812
+  dissolves: 38117
+  elves: 21025
+  evolves: 33210
+  halves: 18327
+  involves: 4299
+  ourselves: 2392
+  resolves: 24416
+  revolves: 29399
+  selves: 20790
+  shelves: 8448
+  solves: 25803
+  themselves: 754
+  valves: 10615
+  werewolves: 37908
+  wolves: 8476
+  yourselves: 9049
+scored_words:
+  absolves: 131968
+  devolves: 112301
+  salves: 114624
+  twelves: 166068
+not_scored_words:
+- aardwolves
+- behalves
+- convolves
+- helves
+- mantelshelves
+- redissolves
+- scrumhalves
+- univalves

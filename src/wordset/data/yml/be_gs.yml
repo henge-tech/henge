@@ -1,0 +1,26 @@
+---
+pattern: be_gs
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 727127
+score_per_word: 66102
+hi_scored_words:
+  bearings: 12036
+  beatings: 39658
+  bedbugs: 74266
+  beginnings: 12233
+  begs: 24960
+  beings: 4699
+  belongings: 19240
+  belongs: 4495
+scored_words:
+  beanbags: 116441
+  bedsprings: 300964
+  bergs: 118135
+not_scored_words:
+- beastings
+- beestings
+- befogs
+- beltings
+- bevelings

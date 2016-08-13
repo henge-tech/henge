@@ -1,0 +1,37 @@
+---
+pattern: man_y
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 27
+score: 1625328
+score_per_word: 101583
+hi_scored_words:
+  manageability: 80438
+  mandatory: 15959
+  maneuverability: 62966
+  mangy: 85410
+  manifestly: 33008
+  manly: 16349
+  manually: 11473
+  manufactory: 63737
+  many: 112
+scored_words:
+  mandatorily: 240905
+  manfully: 124785
+  maniacally: 141515
+  manically: 251413
+  manky: 216754
+  mannerly: 156664
+  manometry: 123840
+not_scored_words:
+- Mandalay
+- Mandy
+- Manley
+- manageably
+- managerially
+- mangily
+- manifoldly
+- manipulability
+- manipulatively
+- manipulatory
+- mannishly

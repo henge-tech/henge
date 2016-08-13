@@ -1,0 +1,30 @@
+---
+pattern: c_ious
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 20
+score: 1716922
+score_per_word: 95384
+hi_scored_words:
+  capacious: 69292
+  capricious: 31226
+  captious: 71944
+  cautious: 10929
+  conscientious: 20248
+  conscious: 4548
+  contagious: 18735
+  contentious: 25556
+  copious: 27158
+  curious: 3416
+scored_words:
+  calumnious: 210550
+  carious: 135829
+  censorious: 154497
+  ceremonious: 171599
+  commodious: 102553
+  compendious: 243005
+  contumacious: 191993
+  contumelious: 223844
+not_scored_words:
+- compunctious
+- contrarious

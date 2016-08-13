@@ -1,0 +1,23 @@
+---
+pattern: et_l
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 938593
+score_per_word: 85326
+hi_scored_words:
+  eternal: 4347
+  ethanol: 12763
+  ethereal: 14955
+  ethical: 5641
+  ethnological: 90207
+  ethyl: 21988
+  etiological: 98102
+  etymological: 71752
+scored_words:
+  ethnographical: 196006
+  ethnol: 215748
+  ethological: 207084
+not_scored_words:
+- Ethel
+- Etzel

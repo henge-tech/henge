@@ -1,0 +1,22 @@
+---
+pattern: to_ls
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 609854
+score_per_word: 60985
+hi_scored_words:
+  toenails: 52928
+  toils: 67424
+  tolls: 25827
+  tonsils: 56521
+  tools: 1810
+  topsails: 85551
+  totals: 16759
+  towels: 12382
+scored_words:
+  toadstools: 150264
+  tocopherols: 140388
+not_scored_words:
+- tomfools
+- tortoiseshells

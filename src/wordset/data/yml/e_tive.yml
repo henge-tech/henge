@@ -1,0 +1,61 @@
+---
+pattern: e_tive
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 51
+score: 2334877
+score_per_word: 106130
+hi_scored_words:
+  educative: 76722
+  effective: 1490
+  elective: 12522
+  electromotive: 96793
+  emotive: 40904
+  eruptive: 86650
+  evaluative: 34249
+  evaporative: 51684
+  evocative: 34057
+  executive: 1897
+  exhaustive: 18359
+  expletive: 62368
+  exploitative: 58707
+  extractive: 58715
+scored_words:
+  electronegative: 211434
+  eliminative: 284781
+  enumerative: 170168
+  ergative: 185546
+  exfoliative: 201969
+  explicative: 318166
+  exploitive: 139289
+  exudative: 188407
+not_scored_words:
+- eductive
+- ejective
+- elaborative
+- elative
+- electropositive
+- elucidative
+- emanative
+- emasculative
+- emulative
+- enervative
+- entitative
+- enunciative
+- erective
+- estimative
+- exaggerative
+- exceptive
+- excommunicative
+- excretive
+- execrative
+- exemplificative
+- exhibitive
+- exhilarative
+- exhilirative
+- exhortative
+- exonerative
+- extinctive
+- extirpative
+- extortive
+- extrapolative

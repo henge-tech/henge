@@ -1,0 +1,50 @@
+---
+pattern: m_ar
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 40
+score: 1303813
+score_per_word: 65190
+hi_scored_words:
+  macromolecular: 50803
+  mandibular: 46400
+  mar: 3403
+  megastar: 94944
+  menswear: 35842
+  midyear: 89612
+  minibar: 47226
+  modular: 13260
+  molar: 33246
+  molecular: 8592
+  monocular: 51114
+  mononuclear: 50558
+  mortar: 12416
+  motorcar: 75491
+  multicellular: 61777
+  multiyear: 87202
+  muscular: 9601
+scored_words:
+  malar: 106442
+  medlar: 178276
+  millibar: 247608
+not_scored_words:
+- Macassar
+- Madagascar
+- Magyar
+- Makassar
+- Malabar
+- Mar
+- Medawar
+- Menkar
+- Mizar
+- Molnar
+- Myanmar
+- Mylar
+- majuscular
+- manipular
+- medullar
+- minuscular
+- mishear
+- monomolecular
+- multiangular
+- multinuclear

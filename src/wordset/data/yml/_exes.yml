@@ -1,0 +1,40 @@
+---
+pattern: _exes
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 30
+score: 1880418
+score_per_word: 117526
+hi_scored_words:
+  annexes: 40710
+  complexes: 21833
+  duplexes: 55881
+  exes: 69062
+  flexes: 81309
+  hexes: 78220
+  indexes: 8552
+  multiplexes: 87877
+  reflexes: 32047
+  sexes: 13008
+scored_words:
+  apexes: 304663
+  perplexes: 231004
+  triplexes: 122130
+  vertexes: 287297
+  vexes: 213972
+  vortexes: 232853
+not_scored_words:
+- Kleenexes
+- Perspexes
+- Pyrexes
+- TeXes
+- cathexes
+- caudexes
+- circumflexes
+- desexes
+- ibexes
+- narthexes
+- simplexes
+- telexes
+- tippexes
+- unsexes

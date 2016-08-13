@@ -1,0 +1,49 @@
+---
+pattern: c_ner
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 39
+score: 1735215
+score_per_word: 82629
+hi_scored_words:
+  campaigner: 50338
+  canner: 89005
+  carabiner: 73658
+  cleaner: 8878
+  combiner: 93167
+  commissioner: 5153
+  commoner: 53191
+  conditioner: 17744
+  confectioner: 90682
+  container: 9990
+  convener: 32337
+  corner: 1311
+  coroner: 20930
+  crooner: 83001
+scored_words:
+  caner: 135695
+  coiner: 203054
+  complainer: 156304
+  concessioner: 196066
+  congener: 115549
+  cordwainer: 137293
+  cosigner: 161869
+not_scored_words:
+- Conner
+- Costner
+- careener
+- catercorner
+- centner
+- chastener
+- churner
+- condemner
+- condoner
+- confiner
+- conjoiner
+- constrainer
+- contemner
+- contravener
+- conventioner
+- coparcener
+- copartner
+- cozener

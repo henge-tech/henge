@@ -1,0 +1,66 @@
+---
+pattern: ac_y
+hi_scored_words_count: 26
+scored_words_count: 10
+total_words: 56
+score: 2717230
+score_per_word: 75478
+hi_scored_words:
+  academically: 25954
+  academy: 3735
+  acceptability: 31892
+  acceptably: 73805
+  accessibility: 8180
+  accessory: 8595
+  accidentally: 9221
+  accompany: 7364
+  accordingly: 4052
+  accountability: 15114
+  accountancy: 20986
+  accuracy: 3330
+  accurately: 6328
+  accusatory: 90948
+  achy: 84363
+  acidity: 29299
+  acoustically: 62127
+  acrimony: 77687
+  acromegaly: 85314
+  actively: 6339
+  activity: 1226
+  actuality: 30592
+  actually: 747
+  actuary: 41146
+  acuity: 30718
+  acutely: 27416
+scored_words:
+  acarology: 313658
+  accessibly: 273778
+  acclivity: 148864
+  accretionary: 199947
+  accusingly: 167663
+  acerbity: 122015
+  achingly: 119367
+  acidify: 211744
+  acidly: 228679
+  actuarially: 145037
+not_scored_words:
+- acclamatory
+- accommodatingly
+- accountably
+- accursedly
+- acerbically
+- acetify
+- achromatically
+- achromaticity
+- acidimetry
+- acquiescently
+- acquisitively
+- acridity
+- acridly
+- acrimoniously
+- acrobatically
+- actinochemistry
+- actinology
+- actinotherapy
+- actionably
+- actuarily

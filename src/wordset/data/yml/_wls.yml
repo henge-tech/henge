@@ -1,0 +1,38 @@
+---
+pattern: _wls
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 28
+score: 2082691
+score_per_word: 115705
+hi_scored_words:
+  bowls: 10168
+  brawls: 87293
+  crawls: 44012
+  fowls: 58805
+  growls: 56899
+  howls: 43138
+  owls: 15886
+  shawls: 36696
+scored_words:
+  awls: 214928
+  bawls: 129714
+  cowls: 166426
+  drawls: 265058
+  jowls: 138526
+  prowls: 189696
+  scowls: 169077
+  scrawls: 197081
+  sprawls: 154275
+  trawls: 105013
+not_scored_words:
+- batfowls
+- bradawls
+- fishbowls
+- mewls
+- pawls
+- peafowls
+- washbowls
+- waterfowls
+- yawls
+- yowls

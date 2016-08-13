@@ -1,0 +1,56 @@
+---
+pattern: sad_
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 46
+score: 2215602
+score_per_word: 79128
+hi_scored_words:
+  sad: 2333
+  saddened: 27887
+  saddens: 79400
+  sadder: 58160
+  saddest: 37369
+  saddle: 6680
+  saddleback: 66859
+  saddlebag: 75398
+  saddlebags: 73122
+  saddled: 36819
+  saddler: 73236
+  saddlery: 71371
+  saddles: 20388
+  sadhu: 95759
+  sadism: 33564
+  sadist: 65031
+  sadistic: 34706
+  sadly: 6363
+  sadness: 10418
+  sadomasochism: 84530
+scored_words:
+  sadden: 122074
+  saddening: 118125
+  saddlers: 124941
+  saddling: 144144
+  sadhus: 174809
+  sadistically: 220895
+  sadists: 172624
+  sadomasochistic: 178597
+not_scored_words:
+- Sadat
+- Saddam
+- Sadducean
+- Sadducee
+- Sade
+- Sadi
+- Sadie
+- Sadr
+- saddlebacks
+- saddlebow
+- saddlebows
+- saddlecloth
+- saddleries
+- saddletree
+- sades
+- sadiron
+- sadomasochist
+- sadomasochists

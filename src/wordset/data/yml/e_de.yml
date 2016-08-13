@@ -1,0 +1,38 @@
+---
+pattern: e_de
+hi_scored_words_count: 18
+scored_words_count: 2
+total_words: 28
+score: 1208748
+score_per_word: 60437
+hi_scored_words:
+  eide: 50666
+  electrode: 20638
+  elude: 43288
+  encode: 22104
+  enfilade: 77652
+  episode: 3412
+  erode: 29829
+  escalade: 34912
+  escapade: 49185
+  esplanade: 33948
+  etude: 44452
+  evade: 24095
+  eventide: 71508
+  exactitude: 83865
+  exclude: 6136
+  explode: 14627
+  extrude: 89580
+  exude: 62745
+scored_words:
+  elide: 172579
+  everglade: 273527
+not_scored_words:
+- Eastertide
+- Ede
+- Enschede
+- ecocide
+- epode
+- estrade
+- excide
+- eyeshade

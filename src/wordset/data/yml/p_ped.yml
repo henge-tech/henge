@@ -1,0 +1,31 @@
+---
+pattern: p_ped
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 21
+score: 1703051
+score_per_word: 106440
+hi_scored_words:
+  peeped: 69642
+  pimped: 69897
+  piped: 34184
+  plopped: 92227
+  pooped: 70101
+  popped: 14716
+  prepped: 72493
+  propped: 42891
+  pumped: 15668
+scored_words:
+  parallelepiped: 233435
+  pinniped: 222421
+  pinstriped: 129168
+  pipped: 143846
+  plumped: 130511
+  prototyped: 126845
+  pulped: 235006
+not_scored_words:
+- parallepiped
+- pepped
+- pinnatiped
+- primped
+- pupped

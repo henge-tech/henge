@@ -1,0 +1,43 @@
+---
+pattern: wea_s
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 33
+score: 621306
+score_per_word: 47792
+hi_scored_words:
+  weakens: 42249
+  weakness: 5699
+  weaknesses: 8781
+  weapons: 2341
+  wearers: 67310
+  weariness: 38317
+  wears: 9498
+  weasels: 58972
+  weathers: 47639
+  weavers: 30316
+  weaves: 35938
+scored_words:
+  weaklings: 161355
+  wearies: 112891
+not_scored_words:
+- weakeners
+- weakfishes
+- wealds
+- weals
+- wealthiness
+- weans
+- weaponless
+- weariless
+- wearings
+- wearisomeness
+- weatherboardings
+- weatherboards
+- weathercocks
+- weatherglass
+- weatherglasses
+- weatherizes
+- weatherpersons
+- weatherproofs
+- weatherstrips
+- weaverbirds

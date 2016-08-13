@@ -1,0 +1,22 @@
+---
+pattern: sym_y
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 855075
+score_per_word: 85507
+hi_scored_words:
+  symbolically: 46039
+  symbology: 75571
+  symmetrically: 63365
+  symmetry: 10891
+  sympathetically: 58161
+  sympathy: 5158
+  symphony: 8805
+  symptomatology: 76923
+scored_words:
+  symbiotically: 302291
+  symptomatically: 207871
+not_scored_words:
+- symmetricly
+- symphonically

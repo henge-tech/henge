@@ -1,0 +1,56 @@
+---
+pattern: a_ical
+hi_scored_words_count: 24
+scored_words_count: 7
+total_words: 46
+score: 2169506
+score_per_word: 69984
+hi_scored_words:
+  academical: 86623
+  acoustical: 32833
+  aeronautical: 25983
+  alchemical: 56563
+  allegorical: 39830
+  alphabetical: 13382
+  alphanumerical: 58783
+  analogical: 81551
+  analytical: 10493
+  anatomical: 18757
+  anthropological: 29184
+  anticlerical: 68557
+  antithetical: 61409
+  apical: 33378
+  apolitical: 63199
+  archaeological: 15192
+  archeological: 28884
+  arithmetical: 68172
+  astrological: 30969
+  astronomical: 11940
+  astrophysical: 42137
+  asymmetrical: 30232
+  atypical: 26176
+  autobiographical: 28922
+scored_words:
+  aeromedical: 114875
+  agrochemical: 151065
+  anarchical: 245518
+  arsenical: 226510
+  astronautical: 116049
+  atheistical: 184942
+  audiological: 167398
+not_scored_words:
+- aerodynamical
+- agronomical
+- algebraical
+- allotropical
+- anagrammatical
+- angelical
+- antipathetical
+- antiradical
+- apocalyptical
+- apologetical
+- apostatical
+- arrhythmical
+- asymptotical
+- autocratical
+- autographical

@@ -1,0 +1,28 @@
+---
+pattern: or_g
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 18
+score: 893086
+score_per_word: 68698
+hi_scored_words:
+  orang: 45069
+  orbiting: 31885
+  orchestrating: 73050
+  ordering: 3727
+  org: 5880
+  organizing: 7813
+  orienteering: 39031
+  orienting: 63663
+  orig: 29519
+  originating: 14168
+scored_words:
+  ordaining: 133688
+  orientating: 300543
+  ornamenting: 145050
+not_scored_words:
+- Oreg
+- Orenburg
+- orating
+- orientalizing
+- orphaning

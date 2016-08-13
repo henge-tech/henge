@@ -1,0 +1,40 @@
+---
+pattern: tran_d
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 30
+score: 2060805
+score_per_word: 82432
+hi_scored_words:
+  transacted: 43719
+  transcend: 20741
+  transcended: 61027
+  transcribed: 20022
+  transferred: 4044
+  transfigured: 81305
+  transfixed: 67870
+  transformed: 7118
+  transgendered: 41027
+  transgressed: 69419
+  transitioned: 54946
+  translated: 4488
+  transliterated: 63318
+  transmitted: 5597
+  transpired: 41953
+  transplanted: 30160
+  transported: 9347
+  transposed: 54250
+scored_words:
+  transected: 213646
+  transfused: 111450
+  transistorized: 280222
+  transited: 151444
+  transmogrified: 219371
+  transmuted: 105363
+  transshipped: 298958
+not_scored_words:
+- tranquilized
+- translucid
+- transmigrated
+- transomed
+- transuded

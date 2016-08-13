@@ -1,0 +1,29 @@
+---
+pattern: unex_d
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 19
+score: 2105508
+score_per_word: 123853
+hi_scored_words:
+  unexamined: 82946
+  unexcused: 93925
+  unexpected: 4745
+  unexpired: 56715
+  unexplained: 21863
+  unexploded: 69048
+  unexplored: 36903
+  unexposed: 92359
+scored_words:
+  unexampled: 182888
+  unexcelled: 239955
+  unexercised: 179258
+  unexpanded: 198219
+  unexpended: 106087
+  unexperienced: 178764
+  unexploited: 152208
+  unexpressed: 131378
+  unexpurgated: 278247
+not_scored_words:
+- unexaggerated
+- unexcited

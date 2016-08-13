@@ -1,0 +1,36 @@
+---
+pattern: secr_
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 26
+score: 1007432
+score_per_word: 50371
+hi_scored_words:
+  secrecy: 12826
+  secret: 1293
+  secretarial: 22447
+  secretariat: 12718
+  secretariats: 93749
+  secretaries: 12741
+  secretary: 1628
+  secrete: 42579
+  secreted: 29755
+  secretes: 79733
+  secreting: 66053
+  secretion: 15204
+  secretions: 39114
+  secretive: 31500
+  secretly: 9717
+  secretory: 37082
+  secrets: 3552
+scored_words:
+  secretaryship: 100056
+  secretin: 105088
+  secretiveness: 290597
+not_scored_words:
+- Secretariat
+- Secretary
+- secretins
+- secretionary
+- secretively
+- secretor

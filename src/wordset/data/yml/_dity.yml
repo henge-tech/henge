@@ -1,0 +1,71 @@
+---
+pattern: _dity
+hi_scored_words_count: 22
+scored_words_count: 13
+total_words: 61
+score: 2994355
+score_per_word: 85553
+hi_scored_words:
+  absurdity: 26675
+  acidity: 29299
+  avidity: 86326
+  commodity: 8255
+  fecundity: 48354
+  fluidity: 53651
+  heredity: 29034
+  humidity: 11095
+  invalidity: 48225
+  liquidity: 15557
+  lucidity: 63660
+  morbidity: 20220
+  nudity: 17103
+  oddity: 38659
+  profundity: 77315
+  rapidity: 26990
+  rigidity: 27707
+  solidity: 49064
+  stupidity: 13385
+  timidity: 40618
+  turbidity: 36267
+  validity: 8246
+scored_words:
+  aridity: 132520
+  crudity: 201758
+  cupidity: 122627
+  frigidity: 149697
+  hybridity: 133760
+  insipidity: 186104
+  intrepidity: 113643
+  placidity: 230853
+  quiddity: 165809
+  rancidity: 259775
+  rotundity: 176926
+  stolidity: 196222
+  turgidity: 148956
+not_scored_words:
+- acridity
+- discommodity
+- flaccidity
+- floridity
+- gelidity
+- gravidity
+- hyperacidity
+- hypoacidity
+- incommodity
+- jocundity
+- limpidity
+- lividity
+- moribundity
+- orotundity
+- pellucidity
+- putridity
+- rabidity
+- rubicundity
+- sapidity
+- tepidity
+- torpidity
+- torridity
+- tumidity
+- vapidity
+- viridity
+- viscidity

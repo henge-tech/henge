@@ -1,0 +1,27 @@
+---
+pattern: shov_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 1000759
+score_per_word: 90978
+hi_scored_words:
+  shove: 19431
+  shoved: 25131
+  shovel: 18096
+  shoveler: 97411
+  shoveling: 64449
+  shovels: 39189
+  shoves: 71462
+  shoving: 40413
+scored_words:
+  shoveled: 118981
+  shovelhead: 218072
+  shovelnose: 288124
+not_scored_words:
+- shovelboard
+- shovelers
+- shovelful
+- shovelfuls
+- shovelheads
+- shover

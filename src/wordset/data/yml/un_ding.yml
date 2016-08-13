@@ -1,0 +1,32 @@
+---
+pattern: un_ding
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 22
+score: 2173057
+score_per_word: 127826
+hi_scored_words:
+  unbending: 95815
+  understanding: 1198
+  unending: 43204
+  unfolding: 21890
+  unloading: 24569
+  unpretending: 70510
+  unwinding: 70073
+  unyielding: 52123
+scored_words:
+  unbinding: 188687
+  uncomprehending: 188736
+  undemanding: 131638
+  underfunding: 111008
+  undergirding: 280957
+  underspending: 337386
+  unfading: 253848
+  unoffending: 131903
+  unrewarding: 169512
+not_scored_words:
+- unbraiding
+- underbidding
+- underfeeding
+- unfriending
+- unhanding

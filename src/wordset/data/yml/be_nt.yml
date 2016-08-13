@@ -1,0 +1,32 @@
+---
+pattern: be_nt
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 22
+score: 922166
+score_per_word: 83833
+hi_scored_words:
+  beachfront: 34799
+  belligerent: 35973
+  beneficent: 58344
+  benevolent: 18080
+  bent: 5167
+  bereavement: 24068
+  betterment: 41144
+  bewilderment: 46781
+scored_words:
+  befuddlement: 321098
+  bemusement: 153518
+  benignant: 183194
+not_scored_words:
+- Beaumont
+- Belmont
+- Besant
+- bedazzlement
+- bedevilment
+- beguilement
+- belittlement
+- bequeathment
+- besprent
+- bewitchment
+- bezant

@@ -1,0 +1,36 @@
+---
+pattern: r_tors
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 26
+score: 1336387
+score_per_word: 70336
+hi_scored_words:
+  radiators: 25534
+  raptors: 22815
+  reactors: 18066
+  realtors: 19374
+  receptors: 8363
+  rectors: 89787
+  reflectors: 38357
+  refrigerators: 22541
+  regulators: 11509
+  replicators: 71203
+  resistors: 26817
+  resonators: 64587
+  respirators: 57095
+  rotors: 30373
+scored_words:
+  redistributors: 292399
+  refractors: 145945
+  renovators: 136295
+  retractors: 136562
+  rotators: 118765
+not_scored_words:
+- ratiocinators
+- redactors
+- refactors
+- remunerators
+- repudiators
+- resuscitators
+- retaliators

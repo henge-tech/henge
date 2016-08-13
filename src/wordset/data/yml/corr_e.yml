@@ -1,0 +1,31 @@
+---
+pattern: corr_e
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 21
+score: 1074166
+score_per_word: 82628
+hi_scored_words:
+  correctable: 93003
+  corrective: 17218
+  correlate: 21950
+  correlative: 55370
+  correspondence: 4242
+  corrie: 41762
+  corroborate: 46587
+  corrode: 70157
+  corrosive: 27491
+scored_words:
+  corroborative: 125876
+  corroboree: 171584
+  corruptible: 107095
+  corruptive: 291831
+not_scored_words:
+- Corriedale
+- Corrine
+- corrade
+- correctitude
+- corrigible
+- corrodible
+- corrosible
+- corrugate

@@ -1,0 +1,28 @@
+---
+pattern: pa_tion
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 18
+score: 664471
+score_per_word: 66447
+hi_scored_words:
+  pacification: 81812
+  pagination: 47653
+  palliation: 91145
+  palpation: 72487
+  parametrization: 97505
+  participation: 4029
+  partition: 7494
+  parturition: 73998
+  pasteurization: 86319
+scored_words:
+  palpitation: 102029
+not_scored_words:
+- paction
+- palatalization
+- palmation
+- pandiculation
+- particularization
+- passivization
+- patination
+- patronization

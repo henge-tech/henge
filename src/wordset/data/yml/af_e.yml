@@ -1,0 +1,41 @@
+---
+pattern: af_e
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 31
+score: 1448154
+score_per_word: 68959
+hi_scored_words:
+  affable: 50620
+  affaire: 62789
+  affectionate: 18489
+  affective: 21015
+  affiliate: 7278
+  affine: 37911
+  affirmative: 9858
+  affluence: 39012
+  affordable: 3687
+  afire: 60409
+  aflame: 60595
+  afore: 44942
+  aftercare: 50390
+  afterimage: 92154
+  afterlife: 27559
+  aftershave: 34914
+  aftertaste: 55509
+scored_words:
+  afebrile: 269332
+  affiche: 103744
+  affricate: 248804
+  aforetime: 149143
+not_scored_words:
+- Africanize
+- affiance
+- affiliative
+- affinitive
+- affirmable
+- afflictive
+- affranchise
+- affricative
+- afterpiece
+- aftertime

@@ -1,0 +1,37 @@
+---
+pattern: te_al
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 27
+score: 1066447
+score_per_word: 59247
+hi_scored_words:
+  teal: 23533
+  technical: 2133
+  technological: 12934
+  teetotal: 62764
+  teleological: 66912
+  temperamental: 55327
+  temporal: 7331
+  terminal: 5688
+  terminological: 77745
+  terrestrial: 11247
+  territorial: 9257
+  testimonial: 22602
+  tetragonal: 86678
+  tetrahedral: 61441
+  textual: 23424
+  textural: 64218
+scored_words:
+  televisual: 169026
+  tensional: 304187
+not_scored_words:
+- telemetrical
+- teratological
+- tercentennial
+- tergal
+- tertial
+- tesseral
+- testudinal
+- tetanal
+- tetartohedral

@@ -1,0 +1,44 @@
+---
+pattern: _read
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 34
+score: 1528772
+score_per_word: 69489
+hi_scored_words:
+  bedspread: 52336
+  bread: 2539
+  cornbread: 47198
+  dread: 10871
+  gingerbread: 29613
+  misread: 45803
+  proofread: 34424
+  read: 171
+  reread: 38177
+  retread: 92499
+  shortbread: 60236
+  spread: 1666
+  thread: 1581
+  tread: 12472
+  unread: 25122
+  widespread: 7466
+scored_words:
+  flatbread: 122966
+  oread: 211435
+  outspread: 171349
+  overspread: 141417
+  showbread: 145235
+  wingspread: 274196
+not_scored_words:
+- beebread
+- bespread
+- copyread
+- crispbread
+- dispread
+- goldthread
+- lipread
+- packthread
+- sightread
+- sweetbread
+- unthread
+- untread

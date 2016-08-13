@@ -1,0 +1,27 @@
+---
+pattern: int_ive
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 17
+score: 310582
+score_per_word: 31058
+hi_scored_words:
+  integrative: 25213
+  intensive: 9949
+  interactive: 6419
+  interpretative: 45084
+  interpretive: 19775
+  interrogative: 66676
+  intransitive: 64912
+  introspective: 38974
+  intrusive: 22265
+  intuitive: 11315
+scored_words: {}
+not_scored_words:
+- intellective
+- interceptive
+- intercommunicative
+- interpolative
+- interruptive
+- intoxicative
+- introversive

@@ -1,0 +1,38 @@
+---
+pattern: _dant
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 28
+score: 2234677
+score_per_word: 89387
+hi_scored_words:
+  abundant: 7631
+  antioxidant: 25726
+  ascendant: 31707
+  attendant: 10273
+  commandant: 31768
+  concordant: 77580
+  confidant: 45756
+  defendant: 6408
+  descendant: 18503
+  discordant: 42984
+  fondant: 61229
+  mordant: 81135
+  oxidant: 54081
+  pedant: 60968
+  pendant: 8524
+  redundant: 14556
+  retardant: 42574
+  verdant: 43871
+scored_words:
+  accordant: 185540
+  demandant: 224186
+  gardant: 303567
+  intendant: 133126
+  overabundant: 314768
+  regardant: 149247
+  superabundant: 258969
+not_scored_words:
+- abradant
+- appendant
+- guardant

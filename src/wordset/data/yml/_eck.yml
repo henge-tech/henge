@@ -1,0 +1,66 @@
+---
+pattern: _eck
+hi_scored_words_count: 25
+scored_words_count: 10
+total_words: 56
+score: 2702875
+score_per_word: 77225
+hi_scored_words:
+  beck: 11521
+  bottleneck: 28190
+  breakneck: 75271
+  check: 418
+  deck: 2693
+  feck: 96980
+  fleck: 40082
+  gooseneck: 70147
+  heck: 16252
+  keck: 42977
+  kopeck: 81569
+  neck: 2129
+  paycheck: 21597
+  peck: 15427
+  quarterdeck: 71809
+  recheck: 69081
+  reck: 79384
+  redneck: 21322
+  shipwreck: 28371
+  sneck: 48854
+  soundcheck: 67516
+  speck: 22522
+  spellcheck: 66978
+  turtleneck: 44747
+  wreck: 8886
+scored_words:
+  bedeck: 171708
+  crookneck: 244498
+  crosscheck: 209164
+  foredeck: 194191
+  halterneck: 155825
+  leatherneck: 193840
+  pinchbeck: 149551
+  roughneck: 112449
+  sundeck: 119889
+  wryneck: 117037
+not_scored_words:
+- Beck
+- Brubeck
+- Eck
+- Keck
+- Lubeck
+- Lübeck
+- Peck
+- Seebeck
+- Steinbeck
+- Tieck
+- Warbeck
+- Wozzeck
+- afterdeck
+- bodycheck
+- countercheck
+- flyspeck
+- hatcheck
+- henpeck
+- littleneck
+- overcheck
+- rubberneck

@@ -1,0 +1,38 @@
+---
+pattern: rif_
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 28
+score: 1866480
+score_per_word: 98235
+hi_scored_words:
+  rife: 25771
+  riff: 22352
+  riffing: 85690
+  riffle: 61541
+  riffs: 28150
+  rifle: 5722
+  rifled: 62443
+  rifleman: 63157
+  riflemen: 72788
+  rifles: 10769
+  rifling: 84202
+  rift: 19521
+  rifts: 56482
+scored_words:
+  riffed: 305019
+  riffles: 110891
+  riffraff: 124311
+  riflery: 311478
+  rifted: 283183
+  rifting: 133010
+not_scored_words:
+- RIF
+- rifely
+- rifeness
+- rifer
+- rifest
+- riffled
+- riffling
+- rifler
+- riflers

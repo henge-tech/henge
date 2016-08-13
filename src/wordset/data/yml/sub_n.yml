@@ -1,0 +1,52 @@
+---
+pattern: sub_n
+hi_scored_words_count: 23
+scored_words_count: 8
+total_words: 42
+score: 2250728
+score_per_word: 72604
+hi_scored_words:
+  subaltern: 76093
+  subclavian: 89984
+  subdivision: 11405
+  subduction: 52710
+  subjection: 45270
+  subjugation: 57873
+  sublimation: 45748
+  submission: 3251
+  subordination: 37955
+  subpopulation: 87744
+  subregion: 60430
+  subrogation: 82799
+  subscription: 4940
+  subsection: 12994
+  subsidization: 90999
+  substantiation: 71486
+  substation: 38099
+  substitution: 10407
+  subsumption: 86297
+  subterranean: 25444
+  subtraction: 28218
+  suburban: 9522
+  subversion: 20706
+scored_words:
+  subclassification: 249646
+  subcommission: 217919
+  subhuman: 102941
+  subjoin: 111604
+  submersion: 103808
+  suborn: 138973
+  suburbanization: 153298
+  subvention: 122165
+not_scored_words:
+- subaudition
+- subdeacon
+- subdean
+- suberin
+- subinfeudation
+- subjunction
+- subornation
+- subreption
+- subspecialization
+- subteen
+- suburbicarian

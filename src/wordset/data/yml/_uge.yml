@@ -1,0 +1,28 @@
+---
+pattern: _uge
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 18
+score: 1204747
+score_per_word: 86053
+hi_scored_words:
+  centrifuge: 35762
+  deluge: 29210
+  gauge: 6304
+  gouge: 49545
+  huge: 939
+  kluge: 80630
+  luge: 40169
+  refuge: 6716
+  rouge: 8658
+  subterfuge: 53570
+scored_words:
+  febrifuge: 157051
+  ultracentrifuge: 284441
+  vermifuge: 183204
+  vouge: 268548
+not_scored_words:
+- Deluge
+- calcifuge
+- scrouge
+- teniafuge

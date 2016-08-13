@@ -1,0 +1,28 @@
+---
+pattern: lu_ed
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 1067776
+score_per_word: 82136
+hi_scored_words:
+  lubricated: 45199
+  lucked: 89693
+  lulled: 69835
+  lumped: 45604
+  lunged: 65649
+  lurched: 84004
+  lured: 32025
+  lurked: 61325
+scored_words:
+  lubed: 107465
+  lugged: 101952
+  lumbered: 121757
+  lunched: 124122
+  lusted: 119146
+not_scored_words:
+- lucubrated
+- luffed
+- luged
+- lustrated
+- luxuriated

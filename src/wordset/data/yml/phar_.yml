@@ -1,0 +1,54 @@
+---
+pattern: phar_
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 44
+score: 1990258
+score_per_word: 79610
+hi_scored_words:
+  pharaoh: 20887
+  pharaohs: 48175
+  pharisee: 75674
+  pharisees: 34439
+  pharmaceutical: 9170
+  pharmaceuticals: 9829
+  pharmacies: 14714
+  pharmacist: 15136
+  pharmacists: 20352
+  pharmacologic: 52904
+  pharmacological: 28453
+  pharmacology: 14613
+  pharmacopoeia: 83277
+  pharmacy: 13166
+  pharos: 51516
+  pharyngeal: 52775
+  pharyngitis: 75068
+  pharynx: 50206
+scored_words:
+  pharisaic: 254928
+  pharmaceutic: 270453
+  pharmaceutics: 115306
+  pharmacognosy: 190965
+  pharmacologist: 132493
+  pharmacologists: 250796
+  pharmacopeia: 104963
+not_scored_words:
+- Pharaoh
+- Pharaohs
+- Pharaonic
+- Pharisaic
+- Pharisaical
+- Pharisaism
+- Pharisee
+- Pharisees
+- Pharos
+- Pharsalus
+- pharisaical
+- pharmacopeias
+- pharmacopoeias
+- pharmacopsychosis
+- pharoses
+- pharynges
+- pharyngology
+- pharyngoscope
+- pharyngoscopy

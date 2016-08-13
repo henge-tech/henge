@@ -1,0 +1,41 @@
+---
+pattern: _pia
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 31
+score: 1361015
+score_per_word: 104693
+hi_scored_words:
+  amblyopia: 91310
+  cornucopia: 42480
+  dystopia: 58462
+  myopia: 44463
+  presbyopia: 99625
+  sepia: 31725
+  tilapia: 52709
+  utopia: 20792
+scored_words:
+  diplopia: 125433
+  ectopia: 116720
+  esotropia: 274751
+  hyperopia: 122848
+  photopia: 279697
+not_scored_words:
+- Apia
+- Ethiopia
+- Olympia
+- Utopia
+- ametropia
+- anisometropia
+- asthenopia
+- deuteranopia
+- emmetropia
+- hemeralopia
+- heterotopia
+- hypermetropia
+- isometropia
+- marsupia
+- nyctalopia
+- protanopia
+- scotopia
+- tritanopia

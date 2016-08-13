@@ -1,0 +1,47 @@
+---
+pattern: harm_
+hi_scored_words_count: 21
+scored_words_count: 7
+total_words: 37
+score: 2139119
+score_per_word: 76397
+hi_scored_words:
+  harm: 3347
+  harmed: 20048
+  harmer: 73618
+  harmful: 9500
+  harming: 37486
+  harmless: 8328
+  harmlessly: 93586
+  harmonic: 19049
+  harmonica: 21653
+  harmonicas: 89092
+  harmonics: 40076
+  harmonies: 27569
+  harmonious: 26432
+  harmoniously: 61697
+  harmonium: 72499
+  harmonization: 37092
+  harmonize: 35404
+  harmonized: 40624
+  harmonizing: 62908
+  harmony: 4581
+  harms: 27756
+scored_words:
+  harmattan: 134290
+  harmfully: 298357
+  harmfulness: 237019
+  harmlessness: 227456
+  harmonically: 130400
+  harmonizer: 172300
+  harmonizes: 126952
+not_scored_words:
+- Harmon
+- Harmsworth
+- harmattans
+- harmonicon
+- harmoniousness
+- harmonist
+- harmoniums
+- harmonizers
+- harmotome

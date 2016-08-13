@@ -1,0 +1,31 @@
+---
+pattern: as_ns
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 1265579
+score_per_word: 97352
+hi_scored_words:
+  aspersions: 93330
+  aspirations: 17253
+  assassinations: 48143
+  assassins: 21040
+  assertions: 18603
+  assigns: 16991
+  associations: 4176
+  assumptions: 8751
+scored_words:
+  ascertains: 187223
+  ascidians: 275189
+  ascriptions: 246672
+  aspens: 103086
+  aspirins: 225122
+not_scored_words:
+- Asians
+- Assumptions
+- Assyrians
+- ascensions
+- ashcans
+- asphyxiations
+- assignations
+- astronavigations

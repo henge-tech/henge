@@ -1,0 +1,26 @@
+---
+pattern: fla_n
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1424752
+score_per_word: 118729
+hi_scored_words:
+  flagellation: 95749
+  flagon: 96936
+  flamen: 97604
+  flan: 52527
+  flatiron: 56703
+  flatten: 34948
+  flavin: 67108
+  flaxen: 88870
+scored_words:
+  flacon: 261881
+  flagman: 183694
+  flashgun: 249216
+  flavoprotein: 139516
+not_scored_words:
+- Flanagan
+- Flaxman
+- flagmen
+- flavopurpurin

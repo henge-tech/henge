@@ -1,0 +1,20 @@
+---
+pattern: inst_e
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 559138
+score_per_word: 62126
+hi_scored_words:
+  instance: 1645
+  instantiate: 59507
+  instate: 98776
+  instigate: 57199
+  instinctive: 34582
+  institute: 3401
+  institutionalize: 82438
+  instructive: 21457
+scored_words:
+  instable: 200133
+not_scored_words:
+- institutive

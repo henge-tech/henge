@@ -1,0 +1,39 @@
+---
+pattern: buff_
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 29
+score: 1411722
+score_per_word: 74301
+hi_scored_words:
+  buff: 13507
+  buffalo: 3983
+  buffaloes: 36181
+  buffed: 70087
+  buffer: 12804
+  buffered: 32786
+  buffering: 29291
+  buffers: 18570
+  buffet: 11454
+  buffeted: 72503
+  buffets: 47008
+  buffing: 52323
+  buffoon: 61974
+  buffoons: 96720
+  buffs: 29263
+scored_words:
+  buffeting: 140475
+  bufflehead: 244526
+  buffo: 303460
+  buffoonery: 134807
+not_scored_words:
+- Buffalo
+- Buffet
+- Buffon
+- Buffy
+- buffaloed
+- buffaloing
+- buffeter
+- buffetings
+- buffleheads
+- buffoonish

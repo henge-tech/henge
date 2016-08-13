@@ -1,0 +1,35 @@
+---
+pattern: nume_
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 25
+score: 1477545
+score_per_word: 92346
+hi_scored_words:
+  numeracy: 32298
+  numeral: 36787
+  numerals: 29541
+  numerator: 34995
+  numeric: 15086
+  numerical: 8783
+  numerically: 29298
+  numerology: 43596
+  numerous: 2027
+scored_words:
+  numen: 194038
+  numerate: 185742
+  numeration: 112708
+  numerators: 107266
+  numerological: 206623
+  numerologist: 305111
+  numerously: 133646
+not_scored_words:
+- numerable
+- numerary
+- numerated
+- numerates
+- numerating
+- numerations
+- numerologists
+- numerousness
+- numerousnesses

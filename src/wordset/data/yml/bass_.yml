@@ -1,0 +1,31 @@
+---
+pattern: bass_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 21
+score: 1328442
+score_per_word: 88562
+hi_scored_words:
+  bass: 4233
+  basses: 35202
+  basset: 39920
+  bassinet: 52439
+  bassist: 21511
+  bassline: 63281
+  basso: 41745
+  bassoon: 30847
+  basswood: 84536
+scored_words:
+  bassets: 212544
+  bassinets: 126048
+  bassists: 105046
+  basslines: 110527
+  bassoonist: 272850
+  bassoons: 127713
+not_scored_words:
+- Bass
+- Basseterre
+- bassarisk
+- bassoonists
+- bassos
+- basswoods

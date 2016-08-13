@@ -1,0 +1,28 @@
+---
+pattern: se_ls
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 18
+score: 608903
+score_per_word: 55354
+hi_scored_words:
+  seagulls: 41947
+  seals: 8071
+  seashells: 55953
+  sectionals: 75170
+  sells: 6560
+  semifinals: 26536
+  sentinels: 47873
+  sepals: 79682
+  sequels: 30611
+  serials: 18947
+scored_words:
+  seawalls: 217553
+not_scored_words:
+- seels
+- semiprofessionals
+- semivowels
+- seneschals
+- servals
+- sesquicentennials
+- sewellels

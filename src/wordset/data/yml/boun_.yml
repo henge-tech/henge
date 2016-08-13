@@ -1,0 +1,42 @@
+---
+pattern: boun_
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 32
+score: 1091420
+score_per_word: 49610
+hi_scored_words:
+  bounce: 13203
+  bounced: 21388
+  bouncer: 32546
+  bouncers: 43883
+  bounces: 21923
+  bouncing: 17663
+  bouncy: 20974
+  bound: 1840
+  boundaries: 4888
+  boundary: 4307
+  bounded: 10010
+  bounding: 27676
+  boundless: 28980
+  bounds: 8827
+  bounties: 47502
+  bountiful: 27066
+  bounty: 11550
+scored_words:
+  boundedness: 122778
+  bounden: 197607
+  bounder: 118807
+  bounteous: 110015
+  bountifully: 197987
+not_scored_words:
+- bouncier
+- bounciest
+- bouncily
+- bounciness
+- bounders
+- boundlessly
+- boundlessness
+- bounteously
+- bounteousness
+- bountifulness

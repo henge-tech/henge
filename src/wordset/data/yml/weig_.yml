@@ -1,0 +1,34 @@
+---
+pattern: weig_
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 24
+score: 1557230
+score_per_word: 77861
+hi_scored_words:
+  weigh: 8004
+  weighed: 10591
+  weighing: 9388
+  weighs: 12948
+  weight: 775
+  weighted: 11438
+  weighting: 21743
+  weightings: 86606
+  weightless: 62410
+  weightlessness: 92968
+  weightlifting: 33683
+  weights: 7495
+  weighty: 31646
+scored_words:
+  weigela: 220213
+  weighbridge: 150210
+  weighbridges: 107179
+  weightier: 150185
+  weightiest: 183544
+  weightlifter: 140385
+  weightlifters: 215819
+not_scored_words:
+- weigelas
+- weightily
+- weightiness
+- weightlessly

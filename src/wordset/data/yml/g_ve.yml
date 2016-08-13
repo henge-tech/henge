@@ -1,0 +1,29 @@
+---
+pattern: g_ve
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 657253
+score_per_word: 54771
+hi_scored_words:
+  gave: 917
+  generative: 35666
+  genitive: 52774
+  give: 223
+  glove: 8482
+  grave: 3899
+  grieve: 20580
+  groove: 10467
+  grove: 4433
+scored_words:
+  gerundive: 137685
+  glaive: 151175
+  greave: 230952
+not_scored_words:
+- Genevieve
+- germinative
+- gesticulative
+- granulative
+- gravitative
+- gustative
+- gyve

@@ -1,0 +1,58 @@
+---
+pattern: thre_
+hi_scored_words_count: 23
+scored_words_count: 11
+total_words: 48
+score: 2355626
+score_per_word: 69283
+hi_scored_words:
+  thread: 1581
+  threadbare: 65406
+  threaded: 12029
+  threading: 25487
+  threads: 9202
+  threat: 3520
+  threaten: 9113
+  threatened: 4289
+  threatening: 5860
+  threatens: 12689
+  threats: 4904
+  three: 165
+  threefold: 35284
+  threes: 45651
+  threesome: 14459
+  threesomes: 25105
+  threonine: 42268
+  thresh: 51207
+  thresher: 65944
+  threshing: 48861
+  threshold: 4599
+  thresholds: 25896
+  threw: 4943
+scored_words:
+  threader: 148044
+  threaders: 217920
+  threadfin: 224957
+  threadlike: 198271
+  threateningly: 138682
+  threepence: 141818
+  threepenny: 130975
+  threescore: 113683
+  threnody: 175892
+  threshed: 176941
+  threshers: 169981
+not_scored_words:
+- threadfins
+- threadier
+- threadiest
+- thready
+- threescores
+- thremmatology
+- threnode
+- threnodial
+- threnodic
+- threnodies
+- threnodist
+- threonines
+- threshes
+- threshings

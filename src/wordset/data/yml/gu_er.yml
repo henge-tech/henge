@@ -1,0 +1,35 @@
+---
+pattern: gu_er
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 25
+score: 931747
+score_per_word: 77645
+hi_scored_words:
+  guilder: 44277
+  gunfighter: 81378
+  gunner: 22951
+  gunpowder: 26095
+  gunslinger: 49887
+  gunter: 32107
+  gusher: 72419
+  gutter: 17449
+  guzzler: 82641
+scored_words:
+  guarder: 216134
+  guesser: 175848
+  guider: 110561
+not_scored_words:
+- Gulliver
+- Gunter
+- Gunther
+- guiltier
+- gulper
+- gummier
+- gunmaker
+- gunpaper
+- gunrunner
+- gushier
+- gustier
+- gutsier
+- guttier

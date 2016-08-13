@@ -1,0 +1,22 @@
+---
+pattern: _wind
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 514510
+score_per_word: 51451
+hi_scored_words:
+  downwind: 49508
+  headwind: 90556
+  rewind: 22546
+  unwind: 30999
+  upwind: 57982
+  whirlwind: 22031
+  wind: 1031
+  woodwind: 31560
+scored_words:
+  crosswind: 102505
+  tailwind: 105792
+not_scored_words:
+- enwind
+- overwind

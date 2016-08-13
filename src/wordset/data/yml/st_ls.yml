@@ -1,0 +1,26 @@
+---
+pattern: st_ls
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 628243
+score_per_word: 62824
+hi_scored_words:
+  stairwells: 96644
+  stalls: 16709
+  steals: 14603
+  steels: 28440
+  stencils: 37808
+  sterols: 81390
+  stills: 22912
+  stools: 17503
+  strolls: 74399
+scored_words:
+  stonewalls: 237835
+not_scored_words:
+- stammels
+- standstills
+- staysails
+- steamrolls
+- stilbestrols
+- strudels

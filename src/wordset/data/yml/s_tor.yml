@@ -1,0 +1,50 @@
+---
+pattern: s_tor
+hi_scored_words_count: 19
+scored_words_count: 5
+total_words: 40
+score: 1538939
+score_per_word: 64122
+hi_scored_words:
+  scintillator: 90773
+  sculptor: 19549
+  sector: 4443
+  selector: 17173
+  semiconductor: 12651
+  senator: 4319
+  sensorimotor: 78865
+  separator: 22891
+  simulator: 10741
+  solicitor: 12209
+  spectator: 11888
+  speculator: 56111
+  stator: 47337
+  stentor: 78767
+  stimulator: 48578
+  stor: 38174
+  subcontractor: 32310
+  suitor: 50601
+  superconductor: 59321
+scored_words:
+  sartor: 105069
+  servitor: 125248
+  servomotor: 227278
+  stellarator: 241315
+  syndicator: 143328
+not_scored_words:
+- Sculptor
+- Stentor
+- scarificator
+- scrutator
+- secretor
+- segregator
+- sequestrator
+- spoliator
+- stertor
+- stipulator
+- subdirector
+- subeditor
+- subjugator
+- succentor
+- supinator
+- syncopator

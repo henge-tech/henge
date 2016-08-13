@@ -1,0 +1,37 @@
+---
+pattern: _usts
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 27
+score: 1817077
+score_per_word: 95635
+hi_scored_words:
+  adjusts: 31440
+  busts: 25676
+  crusts: 50896
+  dusts: 59203
+  exhausts: 41898
+  gusts: 24343
+  locusts: 38173
+  lusts: 50998
+  thrusts: 41062
+  trusts: 8331
+scored_words:
+  disgusts: 111126
+  distrusts: 167453
+  entrusts: 140476
+  holocausts: 189568
+  jousts: 228131
+  musts: 128323
+  ousts: 146103
+  readjusts: 212274
+  rusts: 121603
+not_scored_words:
+- Augusts
+- combusts
+- encrusts
+- mistrusts
+- piecrusts
+- rousts
+- upthrusts
+- wanderlusts

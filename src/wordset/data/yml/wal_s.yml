@@ -1,0 +1,43 @@
+---
+pattern: wal_s
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 33
+score: 1923780
+score_per_word: 91608
+hi_scored_words:
+  wales: 2490
+  walkers: 27522
+  walks: 4232
+  walkways: 37445
+  wallabies: 56405
+  wallets: 25464
+  wallflowers: 79369
+  wallpapers: 9510
+  walls: 2280
+  walnuts: 32792
+  walrus: 32801
+  waltzes: 62193
+scored_words:
+  walkabouts: 152672
+  walkies: 181958
+  walkingsticks: 272604
+  walkouts: 217777
+  walleyes: 157766
+  wallies: 124209
+  wallops: 103730
+  wallows: 203455
+  walruses: 137106
+not_scored_words:
+- Waldenses
+- Wales
+- Wallis
+- Walls
+- Walters
+- waldoes
+- waldos
+- walkaways
+- walkovers
+- wallahs
+- wallopings
+- waltzers

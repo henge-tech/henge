@@ -1,0 +1,46 @@
+---
+pattern: _urer
+hi_scored_words_count: 9
+scored_words_count: 12
+total_words: 36
+score: 2708164
+score_per_word: 128960
+hi_scored_words:
+  adventurer: 22249
+  insurer: 14477
+  lecturer: 10170
+  manufacturer: 4610
+  purer: 49227
+  surer: 88374
+  torturer: 82170
+  tourer: 66411
+  treasurer: 7815
+scored_words:
+  assurer: 103294
+  conjecturer: 290173
+  conjurer: 101121
+  devourer: 149600
+  figurer: 283359
+  injurer: 327091
+  maturer: 229169
+  measurer: 114224
+  nurturer: 245763
+  procurer: 129991
+  securer: 217837
+  usurer: 171039
+not_scored_words:
+- Durer
+- abjurer
+- censurer
+- curer
+- demurer
+- dourer
+- ensurer
+- gesturer
+- impurer
+- murmurer
+- obscurer
+- perjurer
+- posturer
+- scourer
+- sourer

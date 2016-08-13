@@ -1,0 +1,56 @@
+---
+pattern: poll_
+hi_scored_words_count: 22
+scored_words_count: 8
+total_words: 46
+score: 2300884
+score_per_word: 76696
+hi_scored_words:
+  poll: 6524
+  pollack: 32381
+  pollard: 24766
+  polled: 34887
+  pollen: 13746
+  pollinate: 90391
+  pollinated: 70716
+  pollination: 37204
+  pollinators: 78975
+  polling: 18735
+  pollock: 23491
+  polls: 7198
+  pollster: 71708
+  pollsters: 72715
+  pollutant: 25882
+  pollutants: 13377
+  pollute: 39780
+  polluted: 22785
+  polluter: 79647
+  polluters: 65171
+  polluting: 40905
+  pollution: 6799
+scored_words:
+  pollards: 316783
+  pollens: 119013
+  poller: 204116
+  pollinating: 122824
+  pollinator: 104908
+  pollutes: 116462
+  pollutions: 172125
+  pollywog: 266870
+not_scored_words:
+- Pollaiuolo
+- Pollard
+- Pollock
+- Pollux
+- Polly
+- Pollyanna
+- pollacks
+- pollarded
+- pollarding
+- pollinates
+- pollinize
+- pollinoses
+- pollinosis
+- polliwog
+- polliwogs
+- pollywogs

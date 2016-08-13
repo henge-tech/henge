@@ -1,0 +1,43 @@
+---
+pattern: _aths
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 33
+score: 1734570
+score_per_word: 86728
+hi_scored_words:
+  baths: 8484
+  birdbaths: 99275
+  breaths: 32498
+  deaths: 4272
+  footpaths: 54410
+  maths: 14903
+  oaths: 31313
+  osteopaths: 98118
+  paths: 4976
+  psychopaths: 78425
+  sheaths: 63050
+  swaths: 97765
+  wreaths: 31532
+scored_words:
+  bequeaths: 278367
+  heaths: 111959
+  homeopaths: 115904
+  laths: 207543
+  naturopaths: 163267
+  sabbaths: 102982
+  sociopaths: 135527
+not_scored_words:
+- Sabbaths
+- aftermaths
+- bloodbaths
+- bypaths
+- chaetognaths
+- hipbaths
+- megadeaths
+- plectognaths
+- polymaths
+- sunbaths
+- towpaths
+- underneaths
+- warpaths

@@ -1,0 +1,35 @@
+---
+pattern: o_se
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 25
+score: 815878
+score_per_word: 58277
+hi_scored_words:
+  obese: 22648
+  obtuse: 39486
+  obverse: 47729
+  offense: 5787
+  oppose: 7480
+  otherwise: 1039
+  outhouse: 44971
+  overdose: 16335
+  overuse: 38935
+  oxidase: 26697
+scored_words:
+  oligoclase: 121287
+  orthoclase: 166522
+  osmose: 156921
+  otiose: 120041
+not_scored_words:
+- Odense
+- Oise
+- Ouse
+- officialese
+- operose
+- overblouse
+- overexercise
+- overexpose
+- overintense
+- overpraise
+- overprecise

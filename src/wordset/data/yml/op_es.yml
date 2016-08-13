@@ -1,0 +1,29 @@
+---
+pattern: op_es
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 19
+score: 1023101
+score_per_word: 78700
+hi_scored_words:
+  opcodes: 96400
+  operates: 7795
+  operatives: 21728
+  opes: 97432
+  opiates: 50309
+  opines: 99519
+  opportunities: 1616
+  opposes: 21500
+  opposites: 32565
+  oppresses: 95297
+  optimizes: 52372
+scored_words:
+  opaques: 114352
+  ophthalmoscopes: 332216
+not_scored_words:
+- opalesces
+- ophthalmitises
+- opportunenesses
+- oppositenesses
+- optatives
+- opuses

@@ -1,0 +1,64 @@
+---
+pattern: s_hing
+hi_scored_words_count: 23
+scored_words_count: 18
+total_words: 54
+score: 4082338
+score_per_word: 99569
+hi_scored_words:
+  scathing: 40811
+  scorching: 34816
+  scratching: 17552
+  screeching: 39583
+  searching: 2831
+  seething: 36691
+  sheathing: 60735
+  sighing: 43093
+  sketching: 33587
+  slashing: 36156
+  sleuthing: 79573
+  slouching: 90453
+  smashing: 15728
+  smoothing: 22840
+  snatching: 38873
+  something: 242
+  soothing: 13241
+  splashing: 36309
+  squashing: 69457
+  stitching: 23391
+  stretching: 8064
+  sunbathing: 40810
+  switching: 10547
+scored_words:
+  sandwiching: 213829
+  scrunching: 273065
+  shellfishing: 320969
+  shushing: 258469
+  skirmishing: 122089
+  sleighing: 134170
+  sloshing: 113322
+  sloughing: 140905
+  smooching: 187681
+  snitching: 186367
+  soughing: 243455
+  spearfishing: 126051
+  squelching: 160703
+  squishing: 128046
+  stashing: 165347
+  staunching: 255611
+  swathing: 154227
+  swishing: 102649
+not_scored_words:
+- scotching
+- scything
+- smirching
+- smutching
+- southing
+- sploshing
+- splotching
+- squinching
+- stanching
+- starching
+- stomaching
+- swashing
+- swooshing

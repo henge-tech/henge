@@ -1,0 +1,29 @@
+---
+pattern: p_one
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 1132819
+score_per_word: 80915
+hi_scored_words:
+  padrone: 73527
+  payphone: 48288
+  pheromone: 33197
+  phone: 4194
+  pipestone: 87187
+  polyphone: 63466
+  pone: 62504
+  postpone: 19519
+  progesterone: 22800
+  prone: 9541
+  provolone: 75481
+scored_words:
+  panettone: 172230
+  peptone: 134721
+  phylloquinone: 326164
+not_scored_words:
+- Persephone
+- phytohormone
+- pitchstone
+- proparoxytone
+- pyrone

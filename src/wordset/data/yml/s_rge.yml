@@ -1,0 +1,21 @@
+---
+pattern: s_rge
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 11
+score: 536273
+score_per_word: 53627
+hi_scored_words:
+  sarge: 23985
+  scourge: 24314
+  serge: 20348
+  splurge: 50316
+  spurge: 70336
+  submerge: 57848
+  supercharge: 95437
+  surcharge: 24538
+  surge: 9490
+scored_words:
+  sparge: 159661
+not_scored_words:
+- Sourceforge

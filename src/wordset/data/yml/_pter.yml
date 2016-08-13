@@ -1,0 +1,32 @@
+---
+pattern: _pter
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 22
+score: 1814034
+score_per_word: 100779
+hi_scored_words:
+  adapter: 9120
+  adopter: 56481
+  chapter: 840
+  copter: 59075
+  helicopter: 10594
+  prompter: 87852
+  scepter: 54248
+  subchapter: 44026
+  sumpter: 77502
+scored_words:
+  accepter: 209323
+  apter: 117026
+  corrupter: 245244
+  diopter: 106928
+  disrupter: 216124
+  interrupter: 114977
+  ornithopter: 190364
+  teleprompter: 108587
+  tempter: 105723
+not_scored_words:
+- TelePrompTer
+- TelePrompter
+- abrupter
+- orthopter

@@ -1,0 +1,60 @@
+---
+pattern: p_de
+hi_scored_words_count: 26
+scored_words_count: 11
+total_words: 50
+score: 2747171
+score_per_word: 74247
+hi_scored_words:
+  palisade: 42826
+  parade: 8234
+  patricide: 83727
+  peptide: 12944
+  peroxide: 27908
+  persuade: 9818
+  pervade: 64821
+  pesticide: 16968
+  phosphide: 98688
+  pitchblende: 89682
+  polyacrylamide: 52063
+  polyamide: 63854
+  polypeptide: 29197
+  polysaccharide: 53329
+  pomade: 93122
+  poolside: 40364
+  postcode: 15112
+  precede: 23962
+  preclude: 19142
+  prelude: 13974
+  preside: 29209
+  pride: 2486
+  promenade: 19029
+  protrude: 62877
+  provide: 400
+  prude: 67846
+scored_words:
+  paraformaldehyde: 145293
+  parricide: 231920
+  pentode: 191973
+  perchloride: 123990
+  photocathode: 156519
+  plantigrade: 140502
+  platitude: 116780
+  plenitude: 102063
+  postlude: 195582
+  promptitude: 195531
+  pulchritude: 105436
+not_scored_words:
+- Pride
+- palinode
+- paraldehyde
+- parasiticide
+- pasquinade
+- passade
+- pesade
+- phenoxide
+- phospholipide
+- phylloclade
+- phyllode
+- platinocyanide
+- protoxide

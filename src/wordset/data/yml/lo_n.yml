@@ -1,0 +1,55 @@
+---
+pattern: lo_n
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 45
+score: 1706006
+score_per_word: 71083
+hi_scored_words:
+  loan: 2536
+  localization: 15258
+  location: 2504
+  locomotion: 31663
+  logan: 13345
+  logician: 80080
+  login: 4018
+  logon: 26168
+  loin: 26891
+  longhorn: 21837
+  loon: 26303
+  loosen: 21223
+  loran: 65623
+  lorn: 69748
+  lotion: 18631
+  lovelorn: 98086
+  lowdown: 34781
+scored_words:
+  locution: 182804
+  loden: 108416
+  logistician: 261961
+  longan: 196474
+  longshoreman: 172906
+  longshoremen: 111181
+  louden: 113569
+not_scored_words:
+- Lockean
+- Lofoten
+- Logan
+- Lohengrin
+- Lon
+- London
+- Longhorn
+- Loren
+- Lothian
+- Louisianan
+- Louisianian
+- Louisvillian
+- Louvain
+- lobation
+- lobotomization
+- logion
+- longeron
+- longicorn
+- lorgnon
+- lowborn
+- lowerclassman

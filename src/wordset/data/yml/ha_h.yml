@@ -1,0 +1,45 @@
+---
+pattern: ha_h
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 35
+score: 1785559
+score_per_word: 105032
+hi_scored_words:
+  hah: 25184
+  hairbrush: 68858
+  hallelujah: 32035
+  harsh: 6517
+  hash: 12489
+  hashish: 55838
+  hatch: 10315
+  hath: 5919
+  hawkish: 96092
+scored_words:
+  hackish: 285305
+  hagfish: 153459
+  hairbreadth: 181837
+  handbreadth: 209214
+  harrumph: 237051
+  haugh: 127458
+  haunch: 148959
+  hawfinch: 129029
+not_scored_words:
+- Haftarah
+- Haggadah
+- Halakah
+- Hamah
+- Hammersmith
+- Hannah
+- Hanukah
+- Hanukkah
+- Haphtarah
+- Harmsworth
+- Haworth
+- Hayworth
+- haggish
+- haircloth
+- hairsbreadth
+- halfpennyworth
+- hallah
+- halvah

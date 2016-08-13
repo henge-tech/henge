@@ -1,0 +1,39 @@
+---
+pattern: row_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 29
+score: 1317406
+score_per_word: 94100
+hi_scored_words:
+  row: 2025
+  rowan: 21724
+  rowboat: 82916
+  rowdy: 32308
+  rowed: 53628
+  rower: 49838
+  rowers: 48883
+  rowing: 12043
+  rows: 5558
+scored_words:
+  rowboats: 155264
+  rowdies: 172485
+  rowdiness: 283759
+  rowel: 164177
+  rowlock: 232798
+not_scored_words:
+- Rowe
+- Rowena
+- Rowland
+- Rowlandson
+- Rowling
+- rowans
+- rowdier
+- rowdiest
+- rowdily
+- rowdyish
+- rowdyism
+- roweled
+- roweling
+- rowels
+- rowlocks

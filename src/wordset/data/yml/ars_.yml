@@ -1,0 +1,30 @@
+---
+pattern: ars_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 20
+score: 1744266
+score_per_word: 116284
+hi_scored_words:
+  arsed: 68472
+  arsenal: 9675
+  arsenals: 63671
+  arsenate: 83473
+  arsenic: 18305
+  arsenide: 83276
+  arsenious: 84261
+  arson: 25618
+  arsonist: 97821
+scored_words:
+  arsenical: 226510
+  arsenite: 137624
+  arsenopyrite: 284287
+  arsine: 207219
+  arsis: 243376
+  arsonists: 110678
+not_scored_words:
+- arsenates
+- arsenopyrites
+- arsines
+- arsing
+- arsphenamine

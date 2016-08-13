@@ -1,0 +1,26 @@
+---
+pattern: par_rs
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 804553
+score_per_word: 80455
+hi_scored_words:
+  parameters: 2729
+  paratroopers: 58203
+  parishioners: 35434
+  parlors: 45258
+  parsers: 58508
+  partakers: 87886
+  particulars: 11722
+  partners: 2146
+scored_words:
+  parrs: 234312
+  participators: 268355
+not_scored_words:
+- paraders
+- paragraphers
+- paramours
+- pardners
+- pardoners
+- parers

@@ -1,0 +1,22 @@
+---
+pattern: firm_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 439934
+score_per_word: 43993
+hi_scored_words:
+  firm: 1392
+  firmament: 42867
+  firmed: 92941
+  firmer: 37755
+  firming: 55171
+  firmly: 6241
+  firmness: 29027
+  firms: 4999
+  firmware: 16870
+scored_words:
+  firmest: 152671
+not_scored_words:
+- firmamental
+- firmaments

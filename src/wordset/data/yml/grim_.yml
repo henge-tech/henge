@@ -1,0 +1,34 @@
+---
+pattern: grim_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 24
+score: 1165643
+score_per_word: 97136
+hi_scored_words:
+  grim: 8913
+  grimace: 52689
+  grimaced: 97741
+  grime: 32420
+  grimes: 25102
+  grimly: 54265
+  grimmer: 97642
+  grimy: 62526
+scored_words:
+  grimaces: 125673
+  grimacing: 124130
+  grimalkin: 277918
+  grimness: 206624
+not_scored_words:
+- Grimaldi
+- Grimes
+- Grimke
+- Grimm
+- Grimsby
+- grimacingly
+- grimed
+- grimier
+- grimiest
+- griminess
+- griming
+- grimmest

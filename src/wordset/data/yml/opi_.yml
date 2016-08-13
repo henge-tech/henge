@@ -1,0 +1,26 @@
+---
+pattern: opi_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 16
+score: 707122
+score_per_word: 58926
+hi_scored_words:
+  opiate: 33608
+  opiates: 50309
+  opine: 79090
+  opined: 51522
+  opines: 99519
+  opinion: 813
+  opinionated: 34804
+  opinions: 1925
+  opioid: 31449
+  opium: 14807
+scored_words:
+  oping: 141923
+  opining: 167353
+not_scored_words:
+- opinicus
+- opinionative
+- opisthognathous
+- opiumism

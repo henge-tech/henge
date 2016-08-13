@@ -1,0 +1,52 @@
+---
+pattern: edi_
+hi_scored_words_count: 21
+scored_words_count: 9
+total_words: 42
+score: 2601649
+score_per_word: 86721
+hi_scored_words:
+  edible: 15328
+  edibles: 57268
+  edict: 29377
+  edicts: 54938
+  edification: 52624
+  edifice: 29841
+  edifices: 81033
+  edify: 92783
+  edifying: 53825
+  edit: 2408
+  editable: 40521
+  edited: 2977
+  editing: 3707
+  edition: 1005
+  editions: 3100
+  editor: 1710
+  editorial: 4101
+  editorials: 18189
+  editors: 4674
+  editorship: 81061
+  edits: 11551
+scored_words:
+  edibility: 210348
+  edified: 160356
+  edifier: 296577
+  editorialist: 284665
+  editorialists: 311733
+  editorialize: 258373
+  editorialized: 161032
+  editorializing: 165574
+  editorially: 110970
+not_scored_words:
+- Edinburgh
+- Edirne
+- Edison
+- Edith
+- edibleness
+- edifiers
+- edifies
+- editorialization
+- editorializer
+- editorializes
+- editorships
+- editress

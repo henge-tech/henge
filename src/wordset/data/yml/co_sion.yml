@@ -1,0 +1,30 @@
+---
+pattern: co_sion
+hi_scored_words_count: 18
+scored_words_count: 1
+total_words: 20
+score: 650569
+score_per_word: 34240
+hi_scored_words:
+  cohesion: 20150
+  collision: 8574
+  collusion: 30787
+  commission: 1314
+  compassion: 7655
+  comprehension: 9992
+  compression: 8481
+  compulsion: 25358
+  concession: 16679
+  conclusion: 2433
+  concussion: 31915
+  condescension: 63072
+  confession: 9132
+  confusion: 4062
+  contusion: 79716
+  conversion: 2879
+  convulsion: 66024
+  corrosion: 13773
+scored_words:
+  concision: 248573
+not_scored_words:
+- corrasion

@@ -1,0 +1,43 @@
+---
+pattern: _hted
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 33
+score: 2850069
+score_per_word: 109618
+hi_scored_words:
+  alighted: 88891
+  benighted: 75919
+  blighted: 47246
+  copyrighted: 14799
+  delighted: 6135
+  farsighted: 92989
+  highlighted: 7617
+  knighted: 61791
+  lighted: 10890
+  righted: 88738
+  shortsighted: 76478
+  sighted: 18973
+  slighted: 65989
+  spotlighted: 95897
+  unweighted: 59640
+  weighted: 11438
+scored_words:
+  affrighted: 164131
+  flighted: 244294
+  foresighted: 323015
+  freighted: 136312
+  frighted: 222776
+  moonlighted: 129355
+  nearsighted: 138365
+  plighted: 216937
+  relighted: 293255
+  unlighted: 158199
+not_scored_words:
+- bedighted
+- floodlighted
+- jacklighted
+- longsighted
+- skylighted
+- unsighted
+- yachted

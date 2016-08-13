@@ -1,0 +1,21 @@
+---
+pattern: judg_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 590199
+score_per_word: 59019
+hi_scored_words:
+  judge: 1405
+  judged: 7301
+  judgemental: 63816
+  judges: 3597
+  judging: 8059
+  judgment: 2449
+  judgmental: 39497
+  judgments: 10506
+scored_words:
+  judgeship: 112316
+  judgmentally: 341253
+not_scored_words:
+- Judges

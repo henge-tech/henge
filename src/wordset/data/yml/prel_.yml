@@ -1,0 +1,30 @@
+---
+pattern: prel_
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 950728
+score_per_word: 79227
+hi_scored_words:
+  prelacy: 80381
+  prelate: 52296
+  prelates: 83483
+  prelim: 44823
+  preliminaries: 35168
+  preliminary: 3869
+  prelims: 47573
+  prelude: 13974
+  preludes: 60243
+scored_words:
+  prelature: 220674
+  prelaunch: 194652
+  preliminarily: 113592
+not_scored_words:
+- prelatic
+- prelatical
+- prelatism
+- prelatures
+- prelect
+- preliterate
+- preludial
+- prelusive

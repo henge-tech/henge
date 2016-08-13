@@ -1,0 +1,33 @@
+---
+pattern: v_ge
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 23
+score: 1209476
+score_per_word: 80631
+hi_scored_words:
+  vantage: 17723
+  venge: 99599
+  verbiage: 62014
+  verge: 13383
+  vestige: 52853
+  vicarage: 43887
+  village: 1010
+  vintage: 6500
+  visage: 27839
+  voltage: 14993
+  voyage: 6133
+scored_words:
+  vassalage: 235751
+  vermifuge: 183204
+  vernissage: 176039
+  vouge: 268548
+not_scored_words:
+- Vorlage
+- vagabondage
+- ventage
+- vicinage
+- victualage
+- villainage
+- villeinage
+- villenage

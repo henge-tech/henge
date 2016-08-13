@@ -1,0 +1,43 @@
+---
+pattern: veg_
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 33
+score: 1805603
+score_per_word: 85981
+hi_scored_words:
+  veg: 21974
+  vegan: 12550
+  veganism: 71031
+  vegans: 51870
+  vegetable: 5592
+  vegetables: 4769
+  vegetal: 79466
+  vegetarian: 14704
+  vegetarianism: 42786
+  vegetarians: 30972
+  vegetated: 64321
+  vegetation: 6747
+  vegetative: 29540
+  veggie: 21715
+  veggies: 21267
+scored_words:
+  veges: 235380
+  vegetate: 162507
+  vegetating: 296479
+  vegetational: 237466
+  vegetatively: 200225
+  vegs: 194242
+not_scored_words:
+- Vega
+- Vegas
+- Vegemite
+- vegeburger
+- vegeburgers
+- vegetates
+- vegetativeness
+- vegged
+- vegges
+- veggieburger
+- veggieburgers
+- vegging

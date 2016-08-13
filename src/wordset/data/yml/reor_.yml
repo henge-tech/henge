@@ -1,0 +1,33 @@
+---
+pattern: reor_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 23
+score: 1349821
+score_per_word: 89988
+hi_scored_words:
+  reorder: 41314
+  reordered: 82327
+  reordering: 58176
+  reorganization: 15567
+  reorganizations: 83834
+  reorganize: 40641
+  reorganized: 31314
+  reorganizing: 60865
+  reorientation: 69047
+scored_words:
+  reorders: 159159
+  reorg: 139842
+  reorganizes: 125316
+  reorient: 101741
+  reoriented: 162599
+  reorienting: 178079
+not_scored_words:
+- reorged
+- reorging
+- reorgs
+- reorientate
+- reorientated
+- reorientates
+- reorientating
+- reorients

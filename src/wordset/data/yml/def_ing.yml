@@ -1,0 +1,35 @@
+---
+pattern: def_ing
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 25
+score: 1720012
+score_per_word: 90526
+hi_scored_words:
+  defacing: 86391
+  defaulting: 49617
+  defeating: 19346
+  defending: 7716
+  deferring: 60013
+  defining: 9016
+  deflating: 98153
+  deflecting: 63583
+  deforming: 98148
+  defrauding: 79900
+  defusing: 88774
+  defying: 31031
+scored_words:
+  defaming: 114610
+  defecating: 167105
+  defecting: 112078
+  defiling: 136362
+  deflowering: 260126
+  defraying: 134207
+  defrosting: 103836
+not_scored_words:
+- defalcating
+- defensing
+- defogging
+- defoliating
+- deforesting
+- defrocking

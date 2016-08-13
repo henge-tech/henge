@@ -1,0 +1,36 @@
+---
+pattern: d_ar
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 26
+score: 1170398
+score_per_word: 83599
+hi_scored_words:
+  daystar: 73788
+  dear: 1549
+  dinar: 29052
+  dipolar: 87865
+  disappear: 7356
+  dissimilar: 28444
+  dollar: 2101
+  durbar: 95508
+scored_words:
+  damar: 131886
+  debar: 105470
+  denar: 196684
+  disbar: 144667
+  drawbar: 129064
+  drear: 136964
+not_scored_words:
+- DAR
+- Dagmar
+- Dakar
+- Delmar
+- Denpasar
+- Dewar
+- Donar
+- Dunbar
+- dammar
+- deodar
+- dextrocular
+- dogear

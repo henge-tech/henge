@@ -1,0 +1,38 @@
+---
+pattern: ba_ds
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 28
+score: 1193022
+score_per_word: 79534
+hi_scored_words:
+  backgrounds: 13947
+  backwards: 7913
+  backwoods: 43702
+  backyards: 63598
+  badlands: 43186
+  ballads: 20269
+  bands: 2975
+  bards: 45815
+  bastards: 22019
+  battlefields: 42637
+  battlegrounds: 62298
+scored_words:
+  backboards: 151725
+  backhands: 283531
+  barmaids: 270226
+  baseboards: 119181
+not_scored_words:
+- Badlands
+- backbends
+- backfields
+- backswords
+- bacteroids
+- baldheads
+- balds
+- bandstands
+- bankcards
+- barnyards
+- basswoods
+- bauds
+- bawds

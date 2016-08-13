@@ -1,0 +1,33 @@
+---
+pattern: co_de
+hi_scored_words_count: 15
+scored_words_count: 1
+total_words: 23
+score: 698955
+score_per_word: 43684
+hi_scored_words:
+  code: 1613
+  coincide: 16750
+  collide: 21995
+  collude: 98107
+  colonnade: 45811
+  commode: 53126
+  comrade: 18262
+  concede: 21265
+  conclude: 5675
+  confide: 41432
+  corrode: 70157
+  countryside: 9497
+  countrywide: 30640
+  countywide: 52513
+  cowhide: 65738
+scored_words:
+  cockade: 146374
+not_scored_words:
+- Concorde
+- colatitude
+- consuetude
+- corrade
+- correctitude
+- cottonade
+- couvade

@@ -1,0 +1,49 @@
+---
+pattern: _oad
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 39
+score: 1814649
+score_per_word: 67209
+hi_scored_words:
+  abroad: 2808
+  boatload: 93041
+  broad: 2306
+  caseload: 45816
+  crossroad: 48266
+  download: 1432
+  goad: 47576
+  load: 2088
+  offload: 50392
+  overload: 13927
+  payload: 14253
+  railroad: 4109
+  reload: 17791
+  road: 357
+  shitload: 83482
+  toad: 16431
+  truckload: 46385
+  unload: 23789
+  upload: 8559
+  workload: 17744
+scored_words:
+  armload: 277965
+  busload: 160586
+  carload: 115030
+  highroad: 153012
+  inroad: 181558
+  shipload: 273746
+  woad: 112200
+not_scored_words:
+- Broad
+- Hoad
+- byroad
+- cartload
+- coachload
+- freeload
+- hoptoad
+- ogdoad
+- planeload
+- superload
+- trainload
+- tramroad

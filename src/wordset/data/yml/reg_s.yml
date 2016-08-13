@@ -1,0 +1,55 @@
+---
+pattern: reg_s
+hi_scored_words_count: 25
+scored_words_count: 7
+total_words: 45
+score: 2440532
+score_per_word: 76266
+hi_scored_words:
+  regains: 61019
+  regardless: 9489
+  regards: 3614
+  regattas: 78481
+  regenerates: 93765
+  regents: 20179
+  regexps: 98093
+  regimens: 34120
+  regiments: 21874
+  regimes: 12260
+  regions: 2290
+  registers: 11400
+  registrants: 49423
+  registrars: 34340
+  registrations: 16229
+  registries: 31682
+  regress: 34416
+  regressions: 35365
+  regrets: 17144
+  regularities: 69431
+  regulars: 21892
+  regulates: 22760
+  regulations: 2719
+  regulators: 11509
+  regulus: 59268
+scored_words:
+  regales: 298376
+  regencies: 207007
+  regicides: 120275
+  regimentals: 191872
+  regresses: 201919
+  regroups: 266973
+  regurgitates: 301348
+not_scored_words:
+- Regiomontanus
+- Regis
+- Regulus
+- regathers
+- regenerations
+- regionalisms
+- regorges
+- regrades
+- regressiveness
+- regretfulness
+- regrinds
+- regrows
+- regularizes

@@ -1,0 +1,78 @@
+---
+pattern: b_rd
+hi_scored_words_count: 30
+scored_words_count: 8
+total_words: 68
+score: 2407434
+score_per_word: 63353
+hi_scored_words:
+  backboard: 56814
+  backward: 8604
+  backyard: 18334
+  bard: 15184
+  barnyard: 46234
+  baseboard: 57792
+  bastard: 10969
+  bayard: 40239
+  beard: 7054
+  billboard: 11390
+  billiard: 20922
+  bird: 1642
+  blackbird: 26652
+  blackboard: 21069
+  blackguard: 97206
+  blizzard: 15250
+  blowhard: 95786
+  bluebird: 30958
+  board: 424
+  boatyard: 87799
+  bodyguard: 28331
+  bollard: 76100
+  bombard: 49247
+  boneyard: 92090
+  boulevard: 9395
+  brickyard: 62537
+  broadsword: 63721
+  bustard: 77805
+  buzzard: 34258
+  buzzword: 50969
+scored_words:
+  bankcard: 116051
+  bellbird: 193060
+  bodyboard: 149980
+  boxboard: 223010
+  brassard: 102372
+  breadboard: 111482
+  buckboard: 175784
+  byword: 120920
+not_scored_words:
+- Baird
+- Ballard
+- Barnard
+- Baudrillard
+- Bayard
+- Beard
+- Beauregard
+- Beaverboard
+- Beckford
+- Bedford
+- Beghard
+- Bernard
+- Bernhard
+- Bird
+- Blackbeard
+- Blanchard
+- Bluebeard
+- Bonnard
+- Bradford
+- Brantford
+- Briard
+- Buford
+- Byrd
+- backsword
+- bargeboard
+- beaverboard
+- begird
+- bowerbird
+- bridgeboard
+- butcherbird

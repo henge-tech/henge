@@ -1,0 +1,29 @@
+---
+pattern: rap_s
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 787640
+score_per_word: 65636
+hi_scored_words:
+  rapacious: 69336
+  rapes: 26784
+  rapids: 8471
+  rapists: 37828
+  rappers: 30277
+  rapports: 79566
+  raps: 38801
+  raptors: 22815
+  rapturous: 68282
+scored_words:
+  rapiers: 150591
+  rapporteurs: 132360
+  raptures: 122529
+not_scored_words:
+- rapaciousness
+- rapers
+- rapidness
+- rappels
+- rapprochements
+- rapscallions
+- raptness

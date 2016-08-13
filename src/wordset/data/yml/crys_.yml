@@ -1,0 +1,28 @@
+---
+pattern: crys_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 18
+score: 1245211
+score_per_word: 88943
+hi_scored_words:
+  cryst: 74195
+  crystal: 3194
+  crystalline: 16888
+  crystallization: 32240
+  crystallize: 67992
+  crystallized: 47412
+  crystallographic: 53215
+  crystallography: 38980
+  crystals: 9167
+scored_words:
+  crystallite: 216289
+  crystallites: 159970
+  crystallizes: 129626
+  crystallizing: 151393
+  crystalloid: 244650
+not_scored_words:
+- Crystal
+- crystallographer
+- crystallographers
+- crystallographies

@@ -1,0 +1,41 @@
+---
+pattern: thin_
+hi_scored_words_count: 19
+scored_words_count: 2
+total_words: 31
+score: 825826
+score_per_word: 39325
+hi_scored_words:
+  thin: 2382
+  thine: 13566
+  thing: 313
+  thingies: 70979
+  things: 217
+  thingy: 25230
+  think: 150
+  thinker: 17442
+  thinkers: 16733
+  thinking: 925
+  thinks: 2972
+  thinly: 27134
+  thinned: 48776
+  thinner: 18897
+  thinners: 86950
+  thinness: 79803
+  thinnest: 62011
+  thinning: 27428
+  thins: 68390
+scored_words:
+  thingummy: 123898
+  thinkable: 131630
+not_scored_words:
+- thingamabob
+- thingamabobs
+- thingamajig
+- thingamajigs
+- thingumabob
+- thingumabobs
+- thingumajig
+- thingumajigs
+- thingummies
+- thinnish

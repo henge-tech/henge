@@ -1,0 +1,32 @@
+---
+pattern: pro_ity
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 22
+score: 1887177
+score_per_word: 99325
+hi_scored_words:
+  probability: 3846
+  probity: 55625
+  proclivity: 79548
+  productivity: 8882
+  profanity: 23872
+  profitability: 15908
+  profundity: 77315
+  promiscuity: 56922
+  propensity: 21819
+  proportionality: 44505
+  prosperity: 6739
+  proximity: 8990
+scored_words:
+  proactivity: 336880
+  prodigality: 213490
+  programmability: 129000
+  progressivity: 174025
+  prolixity: 203483
+  propinquity: 191799
+  provability: 234529
+not_scored_words:
+- proverbiality
+- provinciality
+- provisionality

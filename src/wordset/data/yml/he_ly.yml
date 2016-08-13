@@ -1,0 +1,48 @@
+---
+pattern: he_ly
+hi_scored_words_count: 9
+scored_words_count: 11
+total_words: 38
+score: 3068833
+score_per_word: 153441
+hi_scored_words:
+  healthily: 89872
+  heartily: 23610
+  heavenly: 7307
+  heavily: 3985
+  helpfully: 60844
+  helplessly: 45969
+  hermetically: 71736
+  heroically: 79538
+  hesitantly: 80271
+scored_words:
+  healthfully: 224269
+  heartbreakingly: 196681
+  heatedly: 181673
+  heedlessly: 218560
+  helically: 299835
+  hellishly: 310818
+  hereditarily: 275599
+  hesitatingly: 160746
+  heterogeneously: 268241
+  heterosexually: 293309
+  heuristically: 175970
+not_scored_words:
+- headily
+- heartbrokenly
+- heartlessly
+- heartrendingly
+- hectically
+- hectoringly
+- hedonistically
+- heedfully
+- heftily
+- heinously
+- heliocentrically
+- heraldically
+- herbivorously
+- heretically
+- heritably
+- hermeneutically
+- heterotrophically
+- hexagonally

@@ -1,0 +1,47 @@
+---
+pattern: mag_s
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 37
+score: 1996114
+score_per_word: 83171
+hi_scored_words:
+  magazines: 3726
+  mages: 41085
+  maggots: 53135
+  magicians: 28466
+  magics: 98234
+  magistrates: 15434
+  magnanimous: 59662
+  magnates: 98786
+  magnetics: 64409
+  magnets: 16197
+  magnifiers: 89683
+  magnifies: 91974
+  magnitudes: 40551
+  magnolias: 68993
+  magpies: 50559
+  mags: 17539
+  magus: 46529
+scored_words:
+  magmas: 111896
+  magnetohydrodynamics: 174092
+  magnetometers: 146628
+  magnetos: 172313
+  magnetrons: 255702
+  magnifications: 123242
+  magnums: 127279
+not_scored_words:
+- Magallanes
+- Magnificats
+- Magus
+- Magyars
+- magdalens
+- magnanimousness
+- magnanimousnesses
+- magnesites
+- magnetizes
+- magnetons
+- magnetospheres
+- magnoliaceous
+- magueys

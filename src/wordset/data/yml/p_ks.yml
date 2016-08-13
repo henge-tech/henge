@@ -1,0 +1,65 @@
+---
+pattern: p_ks
+hi_scored_words_count: 19
+scored_words_count: 11
+total_words: 55
+score: 2807139
+score_per_word: 93571
+hi_scored_words:
+  packs: 6461
+  paddocks: 70071
+  padlocks: 71169
+  paperbacks: 17059
+  parks: 4412
+  paychecks: 40861
+  peacocks: 56631
+  peaks: 8373
+  pecks: 92383
+  peeks: 59868
+  perks: 20389
+  phrasebooks: 97723
+  picks: 5228
+  pinks: 43080
+  planks: 32742
+  pranks: 25037
+  pricks: 54658
+  pucks: 62620
+  punks: 30339
+scored_words:
+  patchworks: 318956
+  paybacks: 138234
+  piggybacks: 262047
+  pitchforks: 134940
+  playbacks: 218188
+  playbooks: 149314
+  plucks: 115332
+  pocketbooks: 105569
+  postmarks: 110559
+  potlucks: 170602
+  pullbacks: 284294
+not_scored_words:
+- Parks
+- padauks
+- paperbarks
+- passbooks
+- penstocks
+- petcocks
+- piddocks
+- pilliwinks
+- pillocks
+- pinchbecks
+- pinpricks
+- pipsqueaks
+- placekicks
+- plonks
+- plunks
+- pockmarks
+- pocks
+- politicks
+- pollacks
+- pothooks
+- precooks
+- preshrinks
+- pressmarks
+- prinks
+- promptbooks

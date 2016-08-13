@@ -1,0 +1,31 @@
+---
+pattern: sail_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 21
+score: 1395439
+score_per_word: 82084
+hi_scored_words:
+  sail: 5355
+  sailboat: 28708
+  sailboats: 46473
+  sailed: 11574
+  sailer: 69578
+  sailfish: 67752
+  sailing: 4707
+  sailings: 74790
+  sailor: 6745
+  sailors: 10311
+  sails: 12299
+scored_words:
+  sailboard: 212559
+  sailboards: 215552
+  sailcloth: 195157
+  sailmaker: 216017
+  sailplane: 101940
+  sailplanes: 115922
+not_scored_words:
+- sailboarder
+- sailboarders
+- sailboarding
+- sailfishes

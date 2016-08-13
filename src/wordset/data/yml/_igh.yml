@@ -1,0 +1,31 @@
+---
+pattern: _igh
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 21
+score: 800107
+score_per_word: 61546
+hi_scored_words:
+  aweigh: 99001
+  bobsleigh: 59241
+  high: 154
+  neigh: 48410
+  nigh: 20409
+  outweigh: 24289
+  sigh: 6888
+  sleigh: 20406
+  thigh: 12002
+  weigh: 8004
+scored_words:
+  inveigh: 111812
+  reweigh: 280723
+  ultrahigh: 108768
+not_scored_words:
+- Bligh
+- Burleigh
+- Leigh
+- McVeigh
+- Raleigh
+- Rayleigh
+- counterweigh
+- overweigh

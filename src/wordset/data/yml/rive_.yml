@@ -1,0 +1,38 @@
+---
+pattern: rive_
+hi_scored_words_count: 18
+scored_words_count: 4
+total_words: 28
+score: 1536303
+score_per_word: 69831
+hi_scored_words:
+  rive: 40469
+  riven: 47944
+  river: 544
+  riverbank: 45141
+  riverbanks: 97948
+  riverbed: 52177
+  riverboat: 43945
+  riverfront: 34988
+  riverhead: 64340
+  riverine: 55468
+  rivers: 3528
+  riverside: 12493
+  rives: 64455
+  rivet: 30989
+  riveted: 42474
+  riveter: 96909
+  riveting: 43046
+  rivets: 37647
+scored_words:
+  rived: 156420
+  riverbeds: 206658
+  riverboats: 111814
+  riveters: 246906
+not_scored_words:
+- Rivera
+- Rivers
+- Riverside
+- riverlike
+- riversides
+- rivetingly

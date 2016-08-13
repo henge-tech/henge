@@ -1,0 +1,39 @@
+---
+pattern: h_king
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 29
+score: 1626927
+score_per_word: 85627
+hi_scored_words:
+  hacking: 12990
+  handshaking: 96847
+  hardworking: 34618
+  hawking: 24476
+  heartbreaking: 37998
+  hijacking: 33342
+  hiking: 5837
+  hitchhiking: 62987
+  hocking: 40183
+  homemaking: 71748
+  honking: 60489
+  hooking: 30878
+  housebreaking: 93795
+  hulking: 85873
+scored_words:
+  harking: 155540
+  hillwalking: 218328
+  homeworking: 196268
+  husking: 202861
+  hyperlinking: 161869
+not_scored_words:
+- Hawking
+- Hsinking
+- hallmarking
+- handpicking
+- haymaking
+- henpecking
+- hoicking
+- hoking
+- hoodwinking
+- hopsacking

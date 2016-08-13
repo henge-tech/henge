@@ -1,0 +1,66 @@
+---
+pattern: p_red
+hi_scored_words_count: 28
+scored_words_count: 17
+total_words: 56
+score: 4298864
+score_per_word: 95530
+hi_scored_words:
+  paired: 19403
+  pampered: 32268
+  pared: 40646
+  partnered: 20978
+  peered: 40706
+  peppered: 52231
+  persevered: 66987
+  pestered: 83358
+  pictured: 11340
+  pioneered: 23009
+  plastered: 32849
+  plundered: 48139
+  pondered: 32193
+  poured: 8851
+  powdered: 20187
+  powered: 5999
+  pred: 42368
+  preferred: 2803
+  premiered: 24099
+  prepared: 1369
+  pressured: 26427
+  procured: 20129
+  proffered: 46905
+  prospered: 45623
+  puckered: 78326
+  punctured: 54281
+  purebred: 42987
+  purred: 88517
+scored_words:
+  pandered: 226800
+  papered: 118561
+  parred: 284463
+  pastured: 128831
+  pattered: 256972
+  pedicured: 319243
+  perjured: 125655
+  perspired: 151731
+  petered: 144755
+  pilfered: 140002
+  pillared: 142337
+  pleasured: 167492
+  pored: 114394
+  postured: 290973
+  prefigured: 156674
+  preregistered: 308479
+  proctored: 208524
+not_scored_words:
+- palavered
+- paltered
+- particolored
+- philandered
+- pilastered
+- pincered
+- pompadoured
+- pothered
+- pottered
+- profiteered
+- puttered

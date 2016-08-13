@@ -1,0 +1,30 @@
+---
+pattern: mole_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 20
+score: 1406737
+score_per_word: 87921
+hi_scored_words:
+  mole: 12743
+  molecular: 8592
+  molecule: 14096
+  molecules: 9660
+  moles: 32366
+  molest: 53981
+  molestation: 40599
+  molested: 44583
+  molester: 60144
+  molesters: 68007
+  molesting: 60045
+scored_words:
+  molehill: 101697
+  molehills: 254891
+  moleskin: 107970
+  molestations: 262453
+  molests: 274910
+not_scored_words:
+- Molech
+- Molechs
+- molecularity
+- moleskins

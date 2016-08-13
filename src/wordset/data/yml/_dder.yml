@@ -1,0 +1,42 @@
+---
+pattern: _dder
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 32
+score: 1704054
+score_per_word: 77457
+hi_scored_words:
+  adder: 26761
+  badder: 91753
+  bidder: 12076
+  bladder: 11586
+  fodder: 21303
+  gallbladder: 35136
+  kidder: 48437
+  ladder: 6152
+  madder: 54622
+  redder: 61870
+  rudder: 22024
+  sadder: 58160
+  shredder: 25636
+  shudder: 23576
+  tedder: 93463
+  udder: 56758
+scored_words:
+  dodder: 124932
+  gladder: 180551
+  judder: 278413
+  odder: 118314
+  plodder: 239625
+  stepladder: 112906
+not_scored_words:
+- bedder
+- bobsledder
+- budder
+- cannonfodder
+- gadder
+- prodder
+- shedder
+- sledder
+- underbidder
+- wedder

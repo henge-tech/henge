@@ -1,0 +1,47 @@
+---
+pattern: _oral
+hi_scored_words_count: 24
+scored_words_count: 3
+total_words: 37
+score: 1292486
+score_per_word: 47869
+hi_scored_words:
+  amoral: 55237
+  auroral: 63277
+  behavioral: 10692
+  chloral: 94343
+  choral: 17039
+  clitoral: 42944
+  coral: 9099
+  corporal: 14404
+  doctoral: 13598
+  electoral: 8401
+  femoral: 30022
+  floral: 10707
+  humoral: 58143
+  immoral: 16742
+  littoral: 40841
+  mayoral: 33893
+  moral: 2383
+  oral: 5084
+  pastoral: 10223
+  pectoral: 49891
+  postdoctoral: 27419
+  sectoral: 25085
+  spatiotemporal: 89450
+  temporal: 7331
+scored_words:
+  caporal: 148277
+  goral: 194539
+  sororal: 213422
+not_scored_words:
+- Balmoral
+- Coral
+- Corporal
+- aboral
+- horal
+- nonmoral
+- nontemporal
+- prefectoral
+- sublittoral
+- unmoral

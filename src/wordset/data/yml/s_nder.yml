@@ -1,0 +1,33 @@
+---
+pattern: s_nder
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 23
+score: 1030907
+score_per_word: 64431
+hi_scored_words:
+  salamander: 33887
+  sander: 21151
+  sender: 14484
+  sidewinder: 40022
+  slander: 22737
+  slender: 11398
+  sounder: 41378
+  spender: 57595
+  squander: 55324
+  stander: 94537
+  sunder: 62677
+  surrender: 6412
+  suspender: 70146
+scored_words:
+  seconder: 153333
+  solander: 188494
+  spellbinder: 157332
+not_scored_words:
+- Scamander
+- Spender
+- scrimshander
+- stemwinder
+- subcommander
+- subjoinder
+- surrejoinder

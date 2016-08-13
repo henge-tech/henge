@@ -1,0 +1,27 @@
+---
+pattern: _ocal
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 711156
+score_per_word: 64650
+hi_scored_words:
+  bifocal: 81471
+  confocal: 56238
+  equivocal: 47017
+  focal: 16797
+  local: 604
+  reciprocal: 11825
+  unequivocal: 35581
+  vocal: 6171
+scored_words:
+  matrilocal: 114682
+  trifocal: 155856
+  univocal: 184914
+not_scored_words:
+- epifocal
+- multivocal
+- nonreciprocal
+- nonvocal
+- patrilocal
+- subvocal

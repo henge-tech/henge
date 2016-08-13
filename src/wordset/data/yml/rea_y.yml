@@ -1,0 +1,25 @@
+---
+pattern: rea_y
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 15
+score: 654443
+score_per_word: 46745
+hi_scored_words:
+  reactionary: 27346
+  reactivity: 21721
+  readability: 28455
+  readily: 4438
+  ready: 598
+  realistically: 21997
+  reality: 1649
+  really: 236
+  realty: 15036
+  reapply: 50534
+  reasonably: 5552
+  reassembly: 74529
+  reassuringly: 95952
+scored_words:
+  reasonability: 306400
+not_scored_words:
+- readably

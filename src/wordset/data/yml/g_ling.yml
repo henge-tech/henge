@@ -1,0 +1,44 @@
+---
+pattern: g_ling
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 34
+score: 1642438
+score_per_word: 78211
+hi_scored_words:
+  galling: 78544
+  gambling: 4466
+  giggling: 30455
+  gobbling: 86380
+  googling: 36929
+  gosling: 36491
+  grappling: 34611
+  grayling: 42831
+  grilling: 23169
+  growling: 40701
+  grueling: 48605
+  grumbling: 48919
+  gurgling: 68202
+  guzzling: 67040
+scored_words:
+  gabbling: 167102
+  gangling: 134820
+  gargling: 105932
+  gelling: 101107
+  girdling: 206341
+  groveling: 135745
+  grovelling: 144048
+not_scored_words:
+- Gatling
+- gamboling
+- garbling
+- gentling
+- gnarling
+- goggling
+- graveling
+- greenling
+- grizzling
+- groundling
+- guggling
+- gulling
+- guttling

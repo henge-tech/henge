@@ -1,0 +1,45 @@
+---
+pattern: _aved
+hi_scored_words_count: 22
+scored_words_count: 7
+total_words: 35
+score: 2281412
+score_per_word: 78669
+hi_scored_words:
+  behaved: 14454
+  bereaved: 39360
+  braved: 61584
+  caved: 60098
+  cleaved: 53018
+  craved: 57419
+  depraved: 36197
+  engraved: 10857
+  enslaved: 30688
+  heaved: 58562
+  interleaved: 55490
+  leaved: 37210
+  paved: 12363
+  raved: 65894
+  saved: 2012
+  shaved: 6653
+  slaved: 82606
+  unpaved: 49360
+  unsaved: 72427
+  unshaved: 72511
+  waved: 16292
+  weaved: 87901
+scored_words:
+  broadleaved: 160305
+  graved: 224781
+  laved: 235278
+  microwaved: 108856
+  misbehaved: 143682
+  repaved: 250352
+  staved: 175202
+not_scored_words:
+- inweaved
+- outbraved
+- photoengraved
+- reaved
+- sheaved
+- unweaved

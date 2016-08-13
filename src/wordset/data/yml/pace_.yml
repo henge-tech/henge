@@ -1,0 +1,22 @@
+---
+pattern: pace_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 601192
+score_per_word: 60119
+hi_scored_words:
+  pace: 3405
+  paced: 11945
+  pacemaker: 32933
+  pacemakers: 56870
+  pacer: 46184
+  pacers: 24995
+  paces: 21338
+  pacey: 71527
+scored_words:
+  pacesetter: 101195
+  pacesetters: 230800
+not_scored_words:
+- Pace
+- pacemaking

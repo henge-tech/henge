@@ -1,0 +1,39 @@
+---
+pattern: op_e
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 29
+score: 992473
+score_per_word: 55137
+hi_scored_words:
+  opaque: 15502
+  opcode: 57388
+  ope: 35503
+  operable: 45037
+  operate: 4149
+  operative: 10312
+  opiate: 33608
+  opine: 79090
+  opportune: 43736
+  opposable: 82657
+  oppose: 7480
+  opposite: 2623
+  oppressive: 19103
+  optimize: 14824
+  opulence: 45016
+scored_words:
+  opalescence: 215654
+  opaline: 160150
+  ophthalmoscope: 120641
+not_scored_words:
+- OpenOffice
+- opalesce
+- operose
+- ophicleide
+- ophite
+- opinionative
+- oppilate
+- opsonize
+- optative
+- optime
+- opuscule

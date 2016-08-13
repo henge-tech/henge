@@ -1,0 +1,37 @@
+---
+pattern: hier_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 27
+score: 1328678
+score_per_word: 94905
+hi_scored_words:
+  hierarch: 83641
+  hierarchical: 14360
+  hierarchically: 60008
+  hierarchies: 27347
+  hierarchy: 9098
+  hieroglyphic: 77324
+  hieroglyphics: 55639
+  hieroglyphs: 64989
+scored_words:
+  hierarchal: 155074
+  hierarchic: 103321
+  hierarchs: 195788
+  hieratic: 222536
+  hieroglyph: 121815
+  hierophant: 137738
+not_scored_words:
+- Hieronymus
+- hieracosphinx
+- hierarchization
+- hierarchize
+- hieratically
+- hierocracy
+- hierocratic
+- hierodule
+- hieroglyphical
+- hieroglyphically
+- hierogram
+- hierolatry
+- hierology

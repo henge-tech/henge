@@ -1,0 +1,41 @@
+---
+pattern: po_m
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 31
+score: 1778556
+score_per_word: 93608
+hi_scored_words:
+  podium: 19520
+  poem: 3695
+  pogrom: 74070
+  polymorphism: 28375
+  polytheism: 74937
+  pom: 23013
+  populism: 62341
+  positivism: 54199
+  possum: 34118
+  postmodernism: 37926
+  postmortem: 48933
+  postpartum: 29135
+  potassium: 11742
+scored_words:
+  pointillism: 208186
+  polonium: 109306
+  pomatum: 318592
+  pompom: 124601
+  poolroom: 232728
+  positronium: 283139
+not_scored_words:
+- Postimpressionism
+- Potsdam
+- poikilotherm
+- polychasium
+- polyglotism
+- polymerism
+- polyzoarium
+- popedom
+- poppadom
+- porism
+- postimpressionism
+- postmillennialism

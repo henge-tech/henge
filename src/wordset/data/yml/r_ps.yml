@@ -1,0 +1,38 @@
+---
+pattern: r_ps
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 28
+score: 1546543
+score_per_word: 85919
+hi_scored_words:
+  raindrops: 47422
+  ramps: 19916
+  raps: 38801
+  reaps: 64106
+  recaps: 46290
+  regexps: 98093
+  relationships: 4148
+  reps: 12816
+  revamps: 91660
+  rips: 32979
+  rooftops: 43701
+  roundups: 61718
+  rps: 33572
+  rumps: 76058
+scored_words:
+  rasps: 144505
+  readerships: 329894
+  regroups: 266973
+  romps: 133891
+not_scored_words:
+- rattletraps
+- rattraps
+- recoups
+- redcaps
+- redevelops
+- reequips
+- remaps
+- repps
+- reships
+- rollmops

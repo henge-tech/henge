@@ -1,0 +1,60 @@
+---
+pattern: burg_
+hi_scored_words_count: 15
+scored_words_count: 12
+total_words: 50
+score: 2745983
+score_per_word: 101703
+hi_scored_words:
+  burg: 33579
+  burgeoning: 29662
+  burger: 13918
+  burgers: 23475
+  burgess: 15720
+  burgesses: 79981
+  burgh: 41733
+  burgher: 96900
+  burghers: 97365
+  burglar: 20222
+  burglaries: 51602
+  burglars: 48350
+  burglary: 19985
+  burgle: 67741
+  burgundy: 11047
+scored_words:
+  burgage: 105409
+  burgee: 175425
+  burgeon: 165249
+  burgeoned: 228134
+  burghs: 219024
+  burglarize: 142614
+  burglarized: 143589
+  burgled: 127819
+  burgomaster: 129004
+  burgomasters: 166537
+  burgoo: 190705
+  burgundies: 301194
+not_scored_words:
+- Burgas
+- Burgenland
+- Burger
+- Burgess
+- Burghley
+- Burgos
+- Burgoyne
+- Burgundian
+- Burgundies
+- Burgundy
+- burgeons
+- burghal
+- burglarious
+- burglarizes
+- burglarizing
+- burglarproof
+- burgles
+- burgling
+- burgonet
+- burgoos
+- burgrave
+- burgraves
+- burgs

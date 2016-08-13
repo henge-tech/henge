@@ -1,0 +1,24 @@
+---
+pattern: foa_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 14
+score: 566027
+score_per_word: 62891
+hi_scored_words:
+  foal: 33735
+  foaled: 99738
+  foals: 44500
+  foam: 6128
+  foamed: 79509
+  foaming: 32219
+  foams: 50317
+  foamy: 50545
+scored_words:
+  foaling: 169336
+not_scored_words:
+- foamflower
+- foamflowers
+- foamier
+- foamiest
+- foaminess

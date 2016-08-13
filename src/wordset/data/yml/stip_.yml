@@ -1,0 +1,31 @@
+---
+pattern: stip_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 21
+score: 1329154
+score_per_word: 88610
+hi_scored_words:
+  stipe: 54650
+  stipend: 27826
+  stipends: 57087
+  stipple: 96310
+  stipulate: 40432
+  stipulated: 18762
+  stipulates: 40865
+  stipulating: 78912
+  stipulation: 25861
+  stipulations: 38131
+scored_words:
+  stipendiary: 144916
+  stipes: 135897
+  stippled: 143592
+  stippling: 186174
+  stipule: 239739
+not_scored_words:
+- stipel
+- stipendiaries
+- stipitate
+- stippler
+- stipples
+- stipulator

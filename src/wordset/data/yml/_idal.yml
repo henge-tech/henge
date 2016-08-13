@@ -1,0 +1,53 @@
+---
+pattern: _idal
+hi_scored_words_count: 17
+scored_words_count: 7
+total_words: 43
+score: 2400087
+score_per_word: 100003
+hi_scored_words:
+  bactericidal: 74624
+  bridal: 8539
+  colloidal: 34050
+  ellipsoidal: 96534
+  genocidal: 58748
+  germicidal: 86803
+  homicidal: 56102
+  insecticidal: 87614
+  intertidal: 51598
+  nonsteroidal: 68000
+  pyramidal: 37903
+  sinusoidal: 41514
+  steroidal: 66166
+  suicidal: 20765
+  tidal: 14739
+  toroidal: 61673
+  trapezoidal: 63043
+scored_words:
+  fratricidal: 238681
+  fungicidal: 176726
+  hemorrhoidal: 207114
+  herbicidal: 308223
+  solenoidal: 263653
+  spermicidal: 162032
+  spheroidal: 115243
+not_scored_words:
+- Barmecidal
+- Vidal
+- adenoidal
+- alkaloidal
+- apsidal
+- botryoidal
+- conchoidal
+- cotidal
+- ecocidal
+- lunitidal
+- matricidal
+- ovoidal
+- parricidal
+- patricidal
+- regicidal
+- rhomboidal
+- septicidal
+- thyroidal
+- tyrannicidal

@@ -1,0 +1,97 @@
+---
+pattern: e_ss
+hi_scored_words_count: 22
+scored_words_count: 21
+total_words: 87
+score: 5008623
+score_per_word: 116479
+hi_scored_words:
+  eagerness: 28195
+  earnestness: 40747
+  easiness: 70609
+  edelweiss: 54184
+  effectiveness: 7736
+  effortless: 33963
+  egress: 31904
+  embarrass: 27924
+  emboss: 74677
+  emotionless: 94817
+  empress: 14978
+  emptiness: 21328
+  enchantress: 72904
+  encompass: 20542
+  endless: 5703
+  exactness: 57776
+  excess: 3427
+  exclusiveness: 90562
+  express: 1177
+  expressiveness: 66306
+  eyeglass: 51042
+  eyewitness: 26763
+scored_words:
+  earless: 271209
+  earliness: 282955
+  earthiness: 182309
+  edginess: 170026
+  eelgrass: 126596
+  elusiveness: 213123
+  endlessness: 298616
+  engross: 148641
+  errorless: 295774
+  evasiveness: 261317
+  evenness: 120001
+  evilness: 109960
+  excessiveness: 293625
+  exhaustless: 160860
+  expansiveness: 211527
+  expertness: 131688
+  explicitness: 173182
+  explosiveness: 197666
+  expressionless: 106269
+  extensiveness: 253035
+  eyeless: 102980
+not_scored_words:
+- earthliness
+- earwitness
+- edgeless
+- edibleness
+- editress
+- eeriness
+- effectualness
+- effeteness
+- efficaciousness
+- effortlessness
+- effusiveness
+- egoless
+- egregiousness
+- elaborateness
+- elatedness
+- elementariness
+- embroideress
+- emotiveness
+- enormousness
+- enviousness
+- ephemeralness
+- equitableness
+- equivocalness
+- erectness
+- erosiveness
+- erroneousness
+- essentialness
+- eternalness
+- etherealness
+- evenhandedness
+- eventfulness
+- evocativeness
+- excitableness
+- excursiveness
+- exemplariness
+- exhaustiveness
+- exiguousness
+- expeditiousness
+- expensiveness
+- exquisiteness
+- extemporaneousness
+- extemporariness
+- extraneousness
+- extremeness

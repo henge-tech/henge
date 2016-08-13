@@ -1,0 +1,54 @@
+---
+pattern: fie_
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 44
+score: 2225139
+score_per_word: 79469
+hi_scored_words:
+  fie: 35847
+  fief: 82036
+  field: 451
+  fielded: 36174
+  fielder: 25997
+  fielders: 98212
+  fielding: 16576
+  fields: 1480
+  fieldstone: 88786
+  fieldwork: 25510
+  fiend: 22241
+  fiendish: 51551
+  fiends: 47947
+  fierce: 7980
+  fiercely: 18826
+  fierceness: 95731
+  fiercest: 67211
+  fiery: 11303
+  fiesta: 17444
+  fiestas: 64328
+scored_words:
+  fiefdom: 129889
+  fiefdoms: 164663
+  fiefs: 172082
+  fieldfare: 227961
+  fieldworker: 243715
+  fieldworkers: 228307
+  fiendishly: 141782
+  fiercer: 101109
+not_scored_words:
+- Fiedler
+- Field
+- Fielding
+- Fields
+- Fiesole
+- fieldfares
+- fieldings
+- fieldpiece
+- fieldsman
+- fieldsmen
+- fieldstones
+- fiendishness
+- fierier
+- fieriest
+- fierily
+- fieriness

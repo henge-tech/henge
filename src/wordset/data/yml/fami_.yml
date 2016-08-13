@@ -1,0 +1,30 @@
+---
+pattern: fami_
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 20
+score: 1305851
+score_per_word: 76814
+hi_scored_words:
+  familial: 21145
+  familiar: 2297
+  familiarity: 12868
+  familiarization: 88285
+  familiarize: 37528
+  familiarly: 88578
+  familiars: 98280
+  families: 1269
+  family: 186
+  famine: 13194
+  famines: 75518
+  famished: 67132
+scored_words:
+  familiarities: 163154
+  familiarized: 105289
+  familiarizes: 251918
+  familiarizing: 122515
+  famishing: 156695
+not_scored_words:
+- Familist
+- famish
+- famishes

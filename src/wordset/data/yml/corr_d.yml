@@ -1,0 +1,20 @@
+---
+pattern: corr_d
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 345106
+score_per_word: 38345
+hi_scored_words:
+  corrected: 6336
+  correlated: 17353
+  correspond: 8922
+  corresponded: 33748
+  corroborated: 45783
+  corroded: 67576
+  corrugated: 27948
+  corrupted: 13009
+scored_words:
+  corralled: 124431
+not_scored_words:
+- corraded

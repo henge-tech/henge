@@ -1,0 +1,27 @@
+---
+pattern: _pend
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 930884
+score_per_word: 84625
+hi_scored_words:
+  append: 26309
+  depend: 3715
+  expend: 24384
+  overspend: 99455
+  pend: 55869
+  spend: 1742
+  stipend: 27826
+  suspend: 11135
+scored_words:
+  outspend: 302387
+  underspend: 179450
+  upend: 198612
+not_scored_words:
+- dispend
+- impend
+- misspend
+- perpend
+- propend
+- vilipend

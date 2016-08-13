@@ -1,0 +1,36 @@
+---
+pattern: _iv
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 26
+score: 711596
+score_per_word: 50828
+hi_scored_words:
+  civ: 20463
+  deriv: 93722
+  div: 16405
+  equiv: 45656
+  iv: 1820
+  priv: 44916
+  riv: 56583
+  shiv: 45518
+  univ: 10971
+  xiv: 12216
+  xxiv: 33873
+  xxxiv: 56788
+scored_words:
+  leitmotiv: 117195
+  lxiv: 155470
+not_scored_words:
+- HIV
+- IV
+- Kharkiv
+- Lviv
+- Mykolayiv
+- Myukolayiv
+- Plovdiv
+- Tiv
+- Univ
+- clxiv
+- spiv
+- xciv

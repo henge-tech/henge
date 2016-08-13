@@ -1,0 +1,36 @@
+---
+pattern: fun_s
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 26
+score: 1308896
+score_per_word: 81806
+hi_scored_words:
+  functionalities: 46943
+  functionaries: 61369
+  functions: 2125
+  fundamentalists: 30811
+  fundamentals: 14678
+  fundraisers: 31491
+  funds: 2300
+  fundus: 62532
+  funerals: 23058
+  fungicides: 54290
+  fungus: 18798
+  funnels: 56562
+  funnies: 40734
+scored_words:
+  fundaments: 337188
+  funkiness: 288689
+  funks: 237328
+not_scored_words:
+- functionalisms
+- functionalists
+- functionless
+- funfairs
+- fungibles
+- fungous
+- funicles
+- funiculars
+- funiculus
+- funniness

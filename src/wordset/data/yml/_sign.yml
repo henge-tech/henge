@@ -1,0 +1,23 @@
+---
+pattern: _sign
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 517550
+score_per_word: 51755
+hi_scored_words:
+  assign: 7572
+  consign: 59653
+  design: 694
+  ensign: 20068
+  reassign: 66425
+  redesign: 14250
+  resign: 12107
+  sign: 476
+scored_words:
+  cosign: 167432
+  countersign: 168873
+not_scored_words:
+- preassign
+- reconsign
+- undersign

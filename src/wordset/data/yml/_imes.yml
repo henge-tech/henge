@@ -1,0 +1,47 @@
+---
+pattern: _imes
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 37
+score: 2459916
+score_per_word: 94612
+hi_scored_words:
+  chimes: 21503
+  climes: 70891
+  crimes: 3925
+  dimes: 35473
+  grimes: 25102
+  lifetimes: 30273
+  limes: 48900
+  mealtimes: 99900
+  mimes: 96033
+  oftentimes: 30310
+  pastimes: 39134
+  primes: 28059
+  regimes: 12260
+  rimes: 45437
+  sometimes: 769
+  times: 215
+scored_words:
+  bedtimes: 253185
+  betimes: 121051
+  centimes: 131776
+  lunchtimes: 156191
+  ofttimes: 218932
+  overtimes: 221182
+  oximes: 269753
+  pantomimes: 121754
+  slimes: 138152
+  sublimes: 239756
+not_scored_words:
+- Christmastimes
+- Grimes
+- Nimes
+- begrimes
+- betweentimes
+- brooklimes
+- halftimes
+- millimes
+- mistimes
+- seedtimes
+- teatimes

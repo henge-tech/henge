@@ -1,0 +1,26 @@
+---
+pattern: sc_ling
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1092573
+score_per_word: 84044
+hi_scored_words:
+  scaling: 14123
+  scheduling: 6808
+  schilling: 34593
+  schooling: 12241
+  scowling: 92631
+  scrambling: 27408
+  scribbling: 60903
+  scrolling: 15932
+scored_words:
+  scrabbling: 193348
+  scrawling: 233735
+  scuffling: 160709
+  sculling: 121964
+  scuttling: 118178
+not_scored_words:
+- Schelling
+- scantling
+- scrupling

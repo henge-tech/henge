@@ -1,0 +1,36 @@
+---
+pattern: tu_d
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 26
+score: 1835565
+score_per_word: 87407
+hi_scored_words:
+  tucked: 17549
+  tufted: 43098
+  tugged: 54787
+  tumbled: 25530
+  tumbleweed: 46098
+  tuned: 11608
+  tunneled: 94109
+  turbid: 58829
+  turbocharged: 62397
+  turd: 38734
+  turgid: 81288
+  turnaround: 20433
+  turned: 1016
+  tutored: 67528
+scored_words:
+  tubed: 123770
+  tuckered: 245754
+  tumid: 114935
+  turbaned: 220346
+  turfed: 208515
+  turreted: 189068
+  tusked: 110173
+not_scored_words:
+- Tussaud
+- tulipwood
+- turtlenecked
+- tussled
+- tutted

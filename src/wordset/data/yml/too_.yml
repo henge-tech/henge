@@ -1,0 +1,59 @@
+---
+pattern: too_
+hi_scored_words_count: 22
+scored_words_count: 12
+total_words: 49
+score: 2694709
+score_per_word: 79256
+hi_scored_words:
+  too: 179
+  took: 481
+  tool: 2875
+  toolbar: 9228
+  toolbox: 17258
+  tooled: 42652
+  tooling: 25582
+  toolkit: 15223
+  tools: 1810
+  toot: 39042
+  tooth: 10000
+  toothache: 45833
+  toothbrush: 21568
+  toothbrushes: 44796
+  toothed: 39344
+  toothless: 45208
+  toothpaste: 25554
+  toothpick: 41563
+  toothpicks: 61717
+  tooting: 50964
+  toots: 48314
+  tootsie: 46968
+scored_words:
+  toolboxes: 113257
+  toolmaker: 191237
+  toolmakers: 179301
+  toolmaking: 211402
+  tooted: 254024
+  tooter: 132861
+  toothaches: 227670
+  toothpastes: 121230
+  toothsome: 197812
+  toothy: 102469
+  tootle: 218203
+  tootsies: 109084
+not_scored_words:
+- Toowoomba
+- tooters
+- toothier
+- toothiest
+- toothily
+- toothlike
+- toothsomely
+- toothsomeness
+- toothsomenesses
+- toothwort
+- toothworts
+- tootled
+- tootles
+- tootling
+- tootsy

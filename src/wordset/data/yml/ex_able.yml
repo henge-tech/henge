@@ -1,0 +1,37 @@
+---
+pattern: ex_able
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 27
+score: 2003286
+score_per_word: 111293
+hi_scored_words:
+  exchangeable: 51213
+  excitable: 55605
+  excusable: 70855
+  execrable: 91382
+  executable: 14236
+  exercisable: 76356
+  expandable: 29094
+  expendable: 39525
+  exploitable: 59638
+  exportable: 99170
+  extendable: 58922
+  extractable: 91301
+scored_words:
+  examinable: 298162
+  exceptionable: 159884
+  excisable: 265741
+  explainable: 108202
+  explicable: 112377
+  extraditable: 321623
+not_scored_words:
+- exactable
+- exorable
+- expellable
+- expiable
+- explodable
+- expugnable
+- extinguishable
+- extricable
+- extrudable

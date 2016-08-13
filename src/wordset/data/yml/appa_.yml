@@ -1,0 +1,40 @@
+---
+pattern: appa_
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 30
+score: 1675383
+score_per_word: 98551
+hi_scored_words:
+  appalled: 24738
+  appalling: 18505
+  appaloosa: 77009
+  apparatus: 6294
+  apparatuses: 85898
+  apparel: 5736
+  apparels: 91086
+  apparent: 3584
+  apparently: 2180
+  apparition: 35592
+  apparitions: 56250
+scored_words:
+  appall: 203508
+  appallingly: 105471
+  appaloosas: 300109
+  appanage: 107845
+  apparatchiks: 265380
+  appassionato: 286198
+not_scored_words:
+- Appalachia
+- Appalachian
+- Appalachians
+- Appaloosa
+- Appaloosas
+- appalls
+- appanages
+- apparatchik
+- apparatchiki
+- appareled
+- appareling
+- apparitional
+- apparitor

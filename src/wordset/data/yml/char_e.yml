@@ -1,0 +1,29 @@
+---
+pattern: char_e
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 19
+score: 645033
+score_per_word: 58639
+hi_scored_words:
+  characterize: 14820
+  charade: 36697
+  charge: 822
+  chargeable: 37799
+  charitable: 6773
+  charlie: 4012
+  charlotte: 3238
+  charmeuse: 71711
+  chartreuse: 51049
+scored_words:
+  charcuterie: 149688
+  chare: 268424
+not_scored_words:
+- Charente
+- Charlemagne
+- Charlene
+- Charlie
+- Charlotte
+- Charlottesville
+- Charmaine
+- Charterhouse

@@ -1,0 +1,30 @@
+---
+pattern: whir_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 20
+score: 1338891
+score_per_word: 95635
+hi_scored_words:
+  whir: 77118
+  whirl: 23768
+  whirled: 52998
+  whirling: 35080
+  whirlpool: 16670
+  whirlpools: 62958
+  whirlwind: 22031
+  whirring: 65044
+scored_words:
+  whirligig: 104753
+  whirligigs: 238961
+  whirls: 101337
+  whirlwinds: 146766
+  whirly: 140187
+  whirred: 251220
+not_scored_words:
+- Whirlpool
+- whirlabout
+- whirler
+- whirlybird
+- whirlybirds
+- whirs

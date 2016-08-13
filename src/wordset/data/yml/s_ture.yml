@@ -1,0 +1,27 @@
+---
+pattern: s_ture
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 17
+score: 759798
+score_per_word: 54271
+hi_scored_words:
+  scripture: 7008
+  sculpture: 6381
+  sepulture: 80151
+  signature: 3759
+  silviculture: 84351
+  stature: 16414
+  stricture: 78185
+  structure: 1360
+  subculture: 42088
+  substructure: 51388
+  superstructure: 38797
+  suture: 28887
+scored_words:
+  sericulture: 178509
+  subminiature: 142520
+not_scored_words:
+- Scripture
+- stirpiculture
+- sylviculture

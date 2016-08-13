@@ -1,0 +1,38 @@
+---
+pattern: re_als
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 28
+score: 1060707
+score_per_word: 58928
+hi_scored_words:
+  reals: 32942
+  rebuttals: 89060
+  recitals: 44142
+  referrals: 10657
+  refusals: 65735
+  rehearsals: 26516
+  removals: 34183
+  renewals: 33439
+  rentals: 5853
+  repeals: 63247
+  reprisals: 51633
+  residuals: 30940
+  reveals: 6207
+  reversals: 48362
+  revivals: 61657
+scored_words:
+  reciprocals: 156203
+  regimentals: 191872
+  retrievals: 108059
+not_scored_words:
+- reappraisals
+- reburials
+- recessionals
+- recusals
+- redials
+- remittals
+- reprovals
+- reseals
+- retrials
+- revisals

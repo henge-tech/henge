@@ -1,0 +1,58 @@
+---
+pattern: d_ning
+hi_scored_words_count: 27
+scored_words_count: 6
+total_words: 48
+score: 2343658
+score_per_word: 71019
+hi_scored_words:
+  damning: 41391
+  dampening: 58516
+  darkening: 41411
+  dawning: 34695
+  deadening: 77423
+  deafening: 37618
+  declining: 18009
+  decommissioning: 31760
+  deepening: 25160
+  defining: 9016
+  demeaning: 52759
+  designing: 6975
+  detaining: 57247
+  determining: 4699
+  dimensioning: 77215
+  dining: 3420
+  dinning: 53629
+  discerning: 21667
+  disciplining: 60836
+  disheartening: 51309
+  divining: 79580
+  donning: 63110
+  downing: 16027
+  draining: 21965
+  droning: 73510
+  drowning: 12501
+  dunning: 44811
+scored_words:
+  darning: 109724
+  deigning: 159385
+  dethroning: 280436
+  disdaining: 210310
+  disillusioning: 276568
+  disowning: 230976
+not_scored_words:
+- damascening
+- datelining
+- deadpanning
+- dehorning
+- deplaning
+- deponing
+- destining
+- detraining
+- disburdening
+- disinclining
+- disjoining
+- distraining
+- dizening
+- doggoning
+- dragooning

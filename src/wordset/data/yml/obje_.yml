@@ -1,0 +1,40 @@
+---
+pattern: obje_
+hi_scored_words_count: 17
+scored_words_count: 3
+total_words: 30
+score: 993390
+score_per_word: 49669
+hi_scored_words:
+  object: 779
+  objected: 15754
+  objectification: 95303
+  objecting: 40396
+  objection: 6956
+  objectionable: 11493
+  objections: 8923
+  objective: 3745
+  objectively: 25208
+  objectives: 8135
+  objectivism: 64556
+  objectivist: 75698
+  objectivity: 22028
+  objector: 48889
+  objectors: 60626
+  objects: 1633
+  objet: 51511
+scored_words:
+  objectified: 122839
+  objectify: 145329
+  objectifying: 183589
+not_scored_words:
+- objectifications
+- objectifies
+- objectionability
+- objectionableness
+- objectionably
+- objectiveness
+- objectivistic
+- objectivization
+- objectivize
+- objectless

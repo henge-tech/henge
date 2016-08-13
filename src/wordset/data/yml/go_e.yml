@@ -1,0 +1,44 @@
+---
+pattern: go_e
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 34
+score: 1075169
+score_per_word: 48871
+hi_scored_words:
+  goalie: 19562
+  goatee: 56467
+  gobble: 41192
+  godlike: 46702
+  goggle: 34514
+  goldeneye: 41098
+  goldmine: 38189
+  goldstone: 58298
+  gone: 972
+  goodbye: 11368
+  goodie: 36171
+  google: 6230
+  goose: 10186
+  gore: 9471
+  gorge: 12766
+  gorse: 52451
+  gouache: 65850
+  gouge: 49545
+  governance: 12091
+scored_words:
+  goethite: 168092
+  goodwife: 154385
+  gourde: 149569
+not_scored_words:
+- Goethe
+- Goldie
+- Google
+- Gore
+- Gosse
+- Gothicize
+- goldeye
+- gonocyte
+- gonophore
+- gormandize
+- gourmandize
+- governable

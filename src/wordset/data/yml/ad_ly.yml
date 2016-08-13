@@ -1,0 +1,38 @@
+---
+pattern: ad_ly
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 28
+score: 2016239
+score_per_word: 112013
+hi_scored_words:
+  adamantly: 71069
+  additionally: 15300
+  adequately: 9765
+  administratively: 36552
+  admirably: 30367
+  admiringly: 97837
+  admittedly: 20944
+  adroitly: 93725
+  advantageously: 73670
+  adversely: 23381
+scored_words:
+  adaptively: 113274
+  additively: 185510
+  adeptly: 209385
+  adhesively: 303167
+  adiabatically: 212508
+  adorably: 157427
+  adoringly: 209449
+  advisedly: 152909
+not_scored_words:
+- adjacently
+- adjectivally
+- admissibly
+- admonishingly
+- adoptively
+- adventitiously
+- adventurously
+- adverbially
+- adversarially
+- advisably

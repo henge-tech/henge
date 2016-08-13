@@ -1,0 +1,27 @@
+---
+pattern: p_il
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 17
+score: 554202
+score_per_word: 50382
+hi_scored_words:
+  pail: 26890
+  pencil: 6327
+  peril: 17138
+  phil: 3650
+  pigtail: 53327
+  pintail: 71218
+  pistil: 77916
+  ponytail: 45996
+  prevail: 11223
+  pupil: 6967
+scored_words:
+  parafoil: 233550
+not_scored_words:
+- Pennzoil
+- Phil
+- parboil
+- pasquil
+- pastil
+- preboil

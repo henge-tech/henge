@@ -1,0 +1,34 @@
+---
+pattern: con_ors
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 24
+score: 1834304
+score_per_word: 96542
+hi_scored_words:
+  concentrators: 76008
+  condors: 85766
+  conductors: 20125
+  connectors: 9707
+  conquerors: 41761
+  conquistadors: 97738
+  conservators: 81854
+  conspirators: 36095
+  constructors: 28584
+  contractors: 7106
+  contributors: 9756
+  conveyors: 42710
+scored_words:
+  conciliators: 237712
+  confessors: 129954
+  consignors: 229507
+  consolidators: 158589
+  constrictors: 209931
+  convenors: 152980
+  convertors: 178421
+not_scored_words:
+- Connors
+- confiscators
+- conjurors
+- contaminators
+- convectors

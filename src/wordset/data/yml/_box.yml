@@ -1,0 +1,51 @@
+---
+pattern: _box
+hi_scored_words_count: 23
+scored_words_count: 13
+total_words: 41
+score: 3263545
+score_per_word: 90654
+hi_scored_words:
+  boombox: 50050
+  box: 620
+  chatterbox: 36240
+  checkbox: 31942
+  firebox: 43059
+  gearbox: 23606
+  hotbox: 93639
+  icebox: 54773
+  inbox: 8873
+  jukebox: 16473
+  letterbox: 43350
+  lockbox: 82249
+  lunchbox: 41137
+  mailbox: 10768
+  matchbox: 26750
+  outbox: 90057
+  pillbox: 90663
+  sandbox: 20719
+  shoebox: 38349
+  snuffbox: 86023
+  soapbox: 33732
+  tinderbox: 56478
+  toolbox: 17258
+scored_words:
+  bandbox: 149757
+  breadbox: 172879
+  cashbox: 152316
+  fusebox: 131267
+  hatbox: 198078
+  horsebox: 214794
+  moneybox: 255490
+  paintbox: 166296
+  postbox: 127063
+  saltbox: 214862
+  shadowbox: 172538
+  squeezebox: 124549
+  strongbox: 186848
+not_scored_words:
+- Dropbox
+- hellbox
+- rattlebox
+- sneakbox
+- sweatbox

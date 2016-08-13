@@ -1,0 +1,33 @@
+---
+pattern: ble_s
+hi_scored_words_count: 9
+scored_words_count: 8
+total_words: 23
+score: 1726190
+score_per_word: 101540
+hi_scored_words:
+  bleachers: 38718
+  bleeds: 40626
+  blemishes: 46294
+  blenders: 43436
+  blends: 19194
+  bless: 4847
+  blessedness: 75868
+  blesses: 60613
+  blessings: 8812
+scored_words:
+  bleaches: 115994
+  bleakness: 157561
+  bleats: 151013
+  blebs: 238502
+  bleeders: 176692
+  bleeps: 112695
+  blennies: 273118
+  blepharitis: 162207
+not_scored_words:
+- Blevins
+- bleariness
+- bleepers
+- blenches
+- blendes
+- blepharitides

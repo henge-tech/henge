@@ -1,0 +1,36 @@
+---
+pattern: f_or
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 26
+score: 1245835
+score_per_word: 73284
+hi_scored_words:
+  fabricator: 67570
+  facilitator: 17513
+  factor: 2747
+  favor: 2881
+  fervor: 33129
+  flavor: 6760
+  flexor: 56427
+  floor: 935
+  flor: 33207
+  fluor: 56672
+  for: 9
+  franchisor: 62294
+  furor: 54895
+scored_words:
+  fascinator: 266153
+  fetor: 153320
+  formulator: 156834
+  fornicator: 274489
+not_scored_words:
+- Fervidor
+- Fructidor
+- faitor
+- felicitator
+- fellator
+- flagellator
+- fulgor
+- fulminator
+- fumigator

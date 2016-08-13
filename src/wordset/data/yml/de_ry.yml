@@ -1,0 +1,49 @@
+---
+pattern: de_ry
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 39
+score: 2536643
+score_per_word: 101465
+hi_scored_words:
+  deanery: 58110
+  deary: 79022
+  debauchery: 41589
+  declaratory: 47631
+  decry: 54246
+  defamatory: 36238
+  deflationary: 90446
+  delivery: 2526
+  dentistry: 12700
+  depositary: 62001
+  depository: 27858
+  derogatory: 31974
+  derry: 23180
+  desultory: 73105
+  dewberry: 75619
+scored_words:
+  declamatory: 227287
+  dedicatory: 158918
+  demagoguery: 141061
+  depilatory: 173734
+  deprecatory: 264612
+  deregulatory: 220866
+  derisory: 179082
+  descry: 178073
+  devilry: 119960
+  deviltry: 156805
+not_scored_words:
+- Derry
+- deaconry
+- decennary
+- declinatory
+- decretory
+- decury
+- defecatory
+- demonolatry
+- denary
+- denigratory
+- denunciatory
+- depreciatory
+- depredatory
+- devolutionary

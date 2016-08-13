@@ -1,0 +1,53 @@
+---
+pattern: _ugh
+hi_scored_words_count: 21
+scored_words_count: 5
+total_words: 43
+score: 1287384
+score_per_word: 49514
+hi_scored_words:
+  although: 547
+  borough: 8105
+  bough: 27614
+  breakthrough: 13692
+  clough: 40448
+  cough: 8618
+  dough: 10143
+  enough: 369
+  furlough: 52410
+  hough: 37568
+  laugh: 2823
+  lough: 40279
+  rough: 2964
+  slough: 20524
+  sourdough: 49850
+  thorough: 6468
+  though: 323
+  through: 110
+  tough: 3935
+  trough: 18180
+  ugh: 17342
+scored_words:
+  chough: 173691
+  faugh: 230121
+  haugh: 127458
+  hiccough: 196536
+  sough: 197266
+not_scored_words:
+- Attenborough
+- Clough
+- Gainsborough
+- Hugh
+- Limbaugh
+- Marlborough
+- McCullough
+- Middlesbrough
+- Peterborough
+- Pugh
+- Scarborough
+- Tombaugh
+- Waugh
+- horselaugh
+- overslaugh
+- sheugh
+- usquebaugh

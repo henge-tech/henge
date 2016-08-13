@@ -1,0 +1,37 @@
+---
+pattern: e_ge
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 27
+score: 648142
+score_per_word: 46295
+hi_scored_words:
+  edge: 1375
+  emerge: 8680
+  encourage: 2820
+  engage: 4236
+  enlarge: 6394
+  enrage: 81555
+  entourage: 34301
+  envisage: 39163
+  equipage: 95365
+  espionage: 22049
+  estrange: 96797
+  exchange: 1363
+  expunge: 72859
+scored_words:
+  engorge: 181185
+not_scored_words:
+- Erzgebirge
+- Etherege
+- eatage
+- effleurage
+- empennage
+- enallage
+- encage
+- endamage
+- enfleurage
+- ensilage
+- epagoge
+- escuage
+- expressage

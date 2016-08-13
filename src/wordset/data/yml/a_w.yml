@@ -1,0 +1,28 @@
+---
+pattern: a_w
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 18
+score: 1225417
+score_per_word: 76588
+hi_scored_words:
+  afterglow: 51582
+  aglow: 63467
+  aircrew: 50506
+  airflow: 24571
+  airshow: 55587
+  allow: 797
+  anew: 21668
+  anyhow: 12383
+  arrow: 4349
+  askew: 37980
+  aw: 8709
+scored_words:
+  airglow: 204293
+  airscrew: 246530
+  alow: 188642
+  alpenglow: 151274
+  avow: 103079
+not_scored_words:
+- Agnew
+- Andrew

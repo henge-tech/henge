@@ -1,0 +1,27 @@
+---
+pattern: mi_ic
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 931117
+score_per_word: 84647
+hi_scored_words:
+  microeconomic: 63261
+  microelectronic: 80910
+  microscopic: 16296
+  militaristic: 64515
+  mimetic: 72963
+  mimic: 18134
+  misanthropic: 89622
+  mitotic: 41463
+scored_words:
+  miasmatic: 206930
+  microcosmic: 175029
+  misogynistic: 101994
+not_scored_words:
+- Milosevic
+- Miltonic
+- miasmic
+- microbic
+- microcephalic
+- microlithic

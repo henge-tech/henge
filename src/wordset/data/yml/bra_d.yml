@@ -1,0 +1,43 @@
+---
+pattern: bra_d
+hi_scored_words_count: 15
+scored_words_count: 8
+total_words: 33
+score: 2123768
+score_per_word: 92337
+hi_scored_words:
+  braced: 33216
+  bracketed: 52320
+  brad: 14172
+  bragged: 72679
+  braid: 23726
+  braided: 24962
+  brainchild: 51257
+  brained: 66871
+  brainwashed: 39422
+  braised: 46514
+  braked: 72874
+  branched: 27540
+  brand: 3483
+  branded: 11538
+  braved: 61584
+scored_words:
+  brachiopod: 252136
+  brainstormed: 138434
+  brandied: 281844
+  brandished: 104766
+  brassard: 102372
+  brassbound: 340583
+  brayed: 189380
+  brazed: 112095
+not_scored_words:
+- Brad
+- Bradford
+- Brantford
+- brabbled
+- brachiated
+- brailed
+- branchiopod
+- bratticed
+- brawled
+- brazened

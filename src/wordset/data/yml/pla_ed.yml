@@ -1,0 +1,32 @@
+---
+pattern: pla_ed
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 22
+score: 1365960
+score_per_word: 85372
+hi_scored_words:
+  placed: 1188
+  plagiarized: 80681
+  plagued: 23348
+  plaited: 84864
+  planed: 59763
+  planned: 2793
+  planted: 6566
+  plastered: 32849
+  plated: 14496
+  platted: 76860
+  played: 1226
+scored_words:
+  placarded: 243838
+  placated: 189682
+  planked: 125588
+  plasticized: 229641
+  plateaued: 192577
+not_scored_words:
+- placekicked
+- plaided
+- plashed
+- platformed
+- platooned
+- playacted

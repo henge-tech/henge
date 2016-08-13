@@ -1,0 +1,43 @@
+---
+pattern: ye_s
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 33
+score: 1738061
+score_per_word: 96558
+hi_scored_words:
+  yeahs: 65998
+  yearbooks: 48126
+  yearlings: 86041
+  yearnings: 92804
+  yearns: 73926
+  years: 118
+  yeas: 41803
+  yeasts: 51925
+  yellows: 44974
+  yells: 30852
+  'yes': 331
+  yesterdays: 40881
+scored_words:
+  yellowlegs: 141572
+  yellowness: 225567
+  yelps: 124235
+  yens: 215950
+  yeshivas: 229830
+  yews: 223128
+not_scored_words:
+- Yeats
+- Yemenis
+- Yerkes
+- yeans
+- yearlies
+- yeggs
+- yellowbirds
+- yellowhammers
+- yellowtails
+- yellowthroats
+- yellowwoods
+- yentas
+- yeps
+- yeses
+- yetis

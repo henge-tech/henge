@@ -1,0 +1,32 @@
+---
+pattern: sym_s
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 22
+score: 1363778
+score_per_word: 97412
+hi_scored_words:
+  symbiosis: 44503
+  symbolizes: 41230
+  symbols: 5103
+  symmetries: 44163
+  sympathies: 27263
+  sympathizers: 59608
+  symphonies: 30721
+  symposiums: 85715
+  symptoms: 3212
+scored_words:
+  symbioses: 287324
+  symbolics: 168816
+  sympathizes: 167295
+  symphysis: 164669
+  symptomless: 234156
+not_scored_words:
+- Symonds
+- symbolists
+- symmetrizes
+- sympetalous
+- symphonious
+- symphonists
+- symphyses
+- symploces

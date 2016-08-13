@@ -1,0 +1,38 @@
+---
+pattern: ve_ng
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 28
+score: 1784330
+score_per_word: 99129
+hi_scored_words:
+  veering: 77733
+  veiling: 91971
+  vending: 16051
+  ventilating: 52256
+  venting: 31166
+  venturing: 35997
+  verging: 84980
+  verifying: 22740
+  versioning: 52594
+  vesting: 48582
+  vetting: 55983
+  vexing: 67156
+scored_words:
+  vectoring: 146319
+  vegetating: 296479
+  veining: 146468
+  veneering: 181075
+  verbalizing: 230359
+  vetoing: 146421
+not_scored_words:
+- Vereeniging
+- vegging
+- vellicating
+- venerating
+- verbifying
+- verdigrising
+- versifying
+- versing
+- vesturing
+- vetchling

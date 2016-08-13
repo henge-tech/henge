@@ -1,0 +1,31 @@
+---
+pattern: ac_ting
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 21
+score: 1317389
+score_per_word: 82336
+hi_scored_words:
+  accelerating: 22954
+  accentuating: 98027
+  accepting: 4946
+  accommodating: 22583
+  accounting: 4968
+  accrediting: 40095
+  accumulating: 23538
+  acting: 2400
+  activating: 20726
+  actuating: 80842
+scored_words:
+  accenting: 112317
+  acclimating: 206388
+  accosting: 187166
+  accreting: 149291
+  acquainting: 128416
+  acquitting: 212732
+not_scored_words:
+- acculturating
+- acerbating
+- acetylating
+- acidulating
+- acuminating

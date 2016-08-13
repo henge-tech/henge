@@ -1,0 +1,52 @@
+---
+pattern: gra_y
+hi_scored_words_count: 22
+scored_words_count: 5
+total_words: 42
+score: 1659116
+score_per_word: 61448
+hi_scored_words:
+  gracefully: 19582
+  graciously: 33227
+  gradually: 4502
+  grainy: 43131
+  gramercy: 47589
+  grammatically: 59364
+  granary: 47812
+  granddaddy: 84235
+  grandly: 92133
+  granny: 10649
+  granularity: 45697
+  graphically: 26325
+  grassy: 20041
+  gratefully: 20273
+  gratify: 51466
+  gratuitously: 63334
+  gratuity: 41352
+  gravelly: 59854
+  gravely: 24264
+  gravity: 4931
+  gravy: 15647
+  gray: 2224
+scored_words:
+  grabby: 205856
+  grandiloquently: 229159
+  grandiosity: 151535
+  graphology: 114866
+  gravitationally: 140068
+not_scored_words:
+- Grady
+- Grammy
+- Gray
+- gracelessly
+- gradationally
+- gradely
+- grandfatherly
+- grandiosely
+- grandmotherly
+- grapery
+- graspingly
+- gratifyingly
+- gratingly
+- gravidity
+- gravimetrically

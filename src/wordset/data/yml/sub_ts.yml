@@ -1,0 +1,30 @@
+---
+pattern: sub_ts
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 20
+score: 971425
+score_per_word: 80952
+hi_scored_words:
+  subcontracts: 77067
+  subjects: 1361
+  sublets: 96759
+  submits: 21746
+  subplots: 83571
+  subscripts: 54097
+  subsets: 22573
+  subsists: 96052
+  subtracts: 94734
+  subunits: 27272
+scored_words:
+  subtexts: 273180
+  subverts: 123013
+not_scored_words:
+- subbasements
+- subcompacts
+- subcontinents
+- subdominants
+- subedits
+- sublieutenants
+- submediants
+- subtenants

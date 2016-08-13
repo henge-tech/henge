@@ -1,0 +1,35 @@
+---
+pattern: cons_ed
+hi_scored_words_count: 19
+scored_words_count: 1
+total_words: 25
+score: 778387
+score_per_word: 38919
+hi_scored_words:
+  conscripted: 98913
+  consecrated: 23466
+  consented: 21326
+  conserved: 22960
+  considered: 814
+  consigned: 40238
+  consisted: 6837
+  consoled: 66486
+  consolidated: 8648
+  conspired: 43103
+  constipated: 62351
+  constituted: 9946
+  constrained: 10869
+  constricted: 56280
+  constructed: 3748
+  construed: 12631
+  consulted: 8759
+  consumed: 8468
+  consummated: 53213
+scored_words:
+  consorted: 219331
+not_scored_words:
+- consed
+- consociated
+- constellated
+- consternated
+- constringed

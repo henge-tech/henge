@@ -1,0 +1,32 @@
+---
+pattern: _aut
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 22
+score: 942296
+score_per_word: 78524
+hi_scored_words:
+  argonaut: 61695
+  astronaut: 21879
+  beaut: 60113
+  cosmonaut: 68772
+  juggernaut: 37103
+  kraut: 46335
+  sauerkraut: 50150
+  taut: 34792
+  umlaut: 73760
+scored_words:
+  aeronaut: 125337
+  aquanaut: 211047
+  naut: 151313
+not_scored_words:
+- Argonaut
+- Escaut
+- Fomalhaut
+- Hadhramaut
+- Hainaut
+- Juggernaut
+- Kraut
+- Truffaut
+- ablaut
+- cybernaut

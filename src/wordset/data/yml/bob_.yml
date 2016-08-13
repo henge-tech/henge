@@ -1,0 +1,51 @@
+---
+pattern: bob_
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 41
+score: 1660502
+score_per_word: 87394
+hi_scored_words:
+  bob: 1776
+  bobbed: 82559
+  bobbin: 44772
+  bobbing: 44129
+  bobbins: 58377
+  bobble: 31548
+  bobby: 5431
+  bobcat: 32363
+  bobcats: 26440
+  bobs: 37186
+  bobsled: 54329
+  bobsleigh: 59241
+scored_words:
+  bobbies: 161029
+  bobbled: 265099
+  bobbles: 165915
+  bobolink: 154427
+  bobsledding: 212703
+  bobtail: 105902
+  bobwhite: 117276
+not_scored_words:
+- Bob
+- Bobbi
+- Bobbie
+- Bobbitt
+- Bobby
+- bobbery
+- bobbinet
+- bobbling
+- bobbysocks
+- bobbysoxer
+- bobbysoxers
+- bobolinks
+- bobsledded
+- bobsledder
+- bobsledders
+- bobsleddings
+- bobsleds
+- bobsleighs
+- bobstay
+- bobtailed
+- bobtails
+- bobwhites

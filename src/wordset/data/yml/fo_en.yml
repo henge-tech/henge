@@ -1,0 +1,23 @@
+---
+pattern: fo_en
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 485877
+score_per_word: 48587
+hi_scored_words:
+  foramen: 57420
+  forbidden: 6015
+  foremen: 60785
+  foreseen: 22739
+  forgiven: 14772
+  forgotten: 2525
+  forsaken: 29238
+  fourteen: 7561
+scored_words:
+  foemen: 173304
+  footmen: 111518
+not_scored_words:
+- foreshorten
+- foretoken
+- forewomen

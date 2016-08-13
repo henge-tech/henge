@@ -1,0 +1,39 @@
+---
+pattern: hai_s
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 29
+score: 2216511
+score_per_word: 123139
+hi_scored_words:
+  hails: 35962
+  haircuts: 42450
+  hairdressers: 37234
+  hairdryers: 76329
+  hairless: 30534
+  hairpieces: 97815
+  hairpins: 99568
+  hairs: 21356
+  hairstyles: 24580
+scored_words:
+  hailstones: 128477
+  hailstorms: 214762
+  hairballs: 186304
+  hairbrushes: 226200
+  hairdos: 137706
+  hairiness: 276414
+  hairlines: 192813
+  hairnets: 278798
+  hairstylists: 109209
+not_scored_words:
+- Haidas
+- Haitians
+- hairbands
+- hairbreadths
+- hairdriers
+- hairgrips
+- hairsbreadths
+- hairsplitters
+- hairsprays
+- hairsprings
+- hairstreaks

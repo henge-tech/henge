@@ -1,0 +1,33 @@
+---
+pattern: w_red
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 23
+score: 1157908
+score_per_word: 77193
+hi_scored_words:
+  wagered: 89288
+  wandered: 14839
+  watered: 25624
+  wavered: 65734
+  weathered: 29625
+  whimpered: 85465
+  whispered: 10212
+  wired: 9604
+  withered: 31115
+  wondered: 5846
+scored_words:
+  warred: 156074
+  whirred: 251220
+  whiskered: 116950
+  wintered: 121159
+  wirehaired: 145153
+not_scored_words:
+- Wilfred
+- Winfred
+- Winifred
+- wallpapered
+- weltered
+- whickered
+- wittered
+- woolgathered

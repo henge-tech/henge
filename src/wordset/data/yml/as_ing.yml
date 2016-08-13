@@ -1,0 +1,43 @@
+---
+pattern: as_ing
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 33
+score: 1903814
+score_per_word: 76152
+hi_scored_words:
+  ascending: 9041
+  ascertaining: 44756
+  ascribing: 91126
+  asking: 1959
+  aspiring: 17689
+  assaulting: 42602
+  assembling: 18270
+  asserting: 21288
+  assessing: 10729
+  assigning: 16370
+  assimilating: 59330
+  assisting: 9231
+  associating: 28154
+  assuming: 4883
+  assuring: 21292
+  astonishing: 12096
+  astounding: 18609
+scored_words:
+  ashing: 209111
+  asphyxiating: 234522
+  aspirating: 212495
+  assailing: 152110
+  assassinating: 105456
+  assaying: 111566
+  assenting: 158928
+  assuaging: 292201
+not_scored_words:
+- ashlaring
+- aspersing
+- asphalting
+- asseverating
+- assibilating
+- assoiling
+- assorting
+- asterisking

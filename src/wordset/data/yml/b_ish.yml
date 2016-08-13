@@ -1,0 +1,47 @@
+---
+pattern: b_ish
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 37
+score: 2665462
+score_per_word: 102517
+hi_scored_words:
+  banish: 32130
+  bearish: 59458
+  blackfish: 90000
+  blackish: 78074
+  blemish: 33458
+  blowfish: 45797
+  bluefish: 55645
+  bluish: 31778
+  bonefish: 97057
+  bookish: 48443
+  boorish: 80090
+  boyish: 39728
+  brackish: 41466
+  brownish: 34396
+  brutish: 51774
+  bullish: 36936
+scored_words:
+  babyish: 178719
+  batfish: 240556
+  biggish: 284264
+  billfish: 127929
+  blandish: 130091
+  blimpish: 192506
+  blueish: 183986
+  brandish: 109727
+  burnish: 113739
+  butterfish: 247715
+not_scored_words:
+- British
+- bleakish
+- blindfish
+- blockish
+- blokish
+- blondish
+- boarfish
+- boarish
+- boxfish
+- buckish
+- buffoonish

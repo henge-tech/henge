@@ -1,0 +1,28 @@
+---
+pattern: h_kers
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 18
+score: 1004876
+score_per_word: 83739
+hi_scored_words:
+  hackers: 11835
+  hawkers: 85049
+  hijackers: 36369
+  hikers: 31639
+  hitchhikers: 56181
+  holidaymakers: 71652
+  homemakers: 64524
+  hookers: 32376
+  huskers: 56954
+scored_words:
+  haymakers: 251091
+  homeworkers: 141929
+  honkers: 165277
+not_scored_words:
+- hankers
+- headshrinkers
+- homewreckers
+- honeysuckers
+- housebreakers
+- hunkers

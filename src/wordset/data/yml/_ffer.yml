@@ -1,0 +1,39 @@
+---
+pattern: _ffer
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 29
+score: 1560021
+score_per_word: 82106
+hi_scored_words:
+  buffer: 12804
+  coffer: 71832
+  differ: 4372
+  duffer: 82643
+  gaffer: 56173
+  offer: 573
+  proffer: 66226
+  puffer: 58545
+  sniffer: 33490
+  staffer: 46315
+  stiffer: 53363
+  stuffer: 74259
+  suffer: 3501
+scored_words:
+  bluffer: 185244
+  chaffer: 245500
+  chauffer: 153209
+  counteroffer: 104674
+  scoffer: 160429
+  snuffer: 146869
+not_scored_words:
+- Bonhoeffer
+- Schrieffer
+- Shaffer
+- deffer
+- gauffer
+- goffer
+- gruffer
+- naffer
+- quaffer
+- zaffer

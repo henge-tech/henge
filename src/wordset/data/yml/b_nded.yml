@@ -1,0 +1,21 @@
+---
+pattern: b_nded
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 11
+score: 555469
+score_per_word: 55546
+hi_scored_words:
+  backhanded: 98472
+  banded: 25385
+  befriended: 50552
+  bended: 88290
+  blended: 12801
+  blinded: 17290
+  bonded: 22927
+  bounded: 10010
+  branded: 11538
+scored_words:
+  broadminded: 218204
+not_scored_words:
+- barehanded

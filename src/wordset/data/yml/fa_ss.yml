@@ -1,0 +1,49 @@
+---
+pattern: fa_ss
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 39
+score: 1865328
+score_per_word: 116583
+hi_scored_words:
+  faceless: 41505
+  fairness: 11185
+  faithfulness: 28074
+  faithless: 25862
+  fastness: 78973
+  fatherless: 55457
+  fatness: 83337
+  faultless: 50396
+scored_words:
+  fabulousness: 291607
+  fadeless: 324830
+  faintness: 113927
+  faithlessness: 194085
+  falseness: 158719
+  farsightedness: 120253
+  fastidiousness: 146950
+  fathomless: 140168
+not_scored_words:
+- facetiousness
+- facileness
+- factiousness
+- factitiousness
+- faddiness
+- faddishness
+- fallaciousness
+- fallibleness
+- fallowness
+- fancifulness
+- fanciness
+- fantasticalness
+- fashionableness
+- fatefulness
+- fatheadedness
+- fatherlessness
+- fatherliness
+- fatless
+- fattiness
+- fatuousness
+- faultiness
+- faultlessness
+- favorableness

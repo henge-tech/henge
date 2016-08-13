@@ -1,0 +1,23 @@
+---
+pattern: _iors
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 878664
+score_per_word: 73222
+hi_scored_words:
+  behaviors: 7590
+  exteriors: 51986
+  inferiors: 80526
+  interiors: 17540
+  juniors: 17094
+  priors: 55194
+  saviors: 79833
+  seniors: 9266
+  superiors: 27743
+  warriors: 5308
+scored_words:
+  posteriors: 222494
+  seigniors: 304090
+not_scored_words:
+- Juniors

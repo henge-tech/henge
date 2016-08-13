@@ -1,0 +1,62 @@
+---
+pattern: li_er
+hi_scored_words_count: 22
+scored_words_count: 9
+total_words: 52
+score: 3079892
+score_per_word: 99351
+hi_scored_words:
+  liber: 40414
+  licker: 78090
+  lieder: 44332
+  lifer: 68243
+  lifesaver: 52838
+  lifter: 36560
+  liger: 82889
+  lighter: 5943
+  limber: 72069
+  limiter: 38669
+  linebacker: 29077
+  liner: 13358
+  linger: 28314
+  linker: 28219
+  listener: 10327
+  lister: 17827
+  listserver: 60091
+  liter: 15847
+  litter: 12509
+  littler: 83624
+  livelier: 94461
+  liver: 5010
+scored_words:
+  licenser: 295879
+  liefer: 255291
+  lightener: 340654
+  likelier: 155588
+  liker: 161879
+  limper: 274642
+  linter: 201485
+  lither: 296724
+  lithographer: 179039
+not_scored_words:
+- Liechtensteiner
+- Lifesaver
+- Limburger
+- Lipizzaner
+- Lippizaner
+- Lister
+- libber
+- libeler
+- likker
+- limewater
+- limier
+- limner
+- lingerer
+- lintier
+- lionizer
+- lipreader
+- liquefier
+- liquidizer
+- lisper
+- litterer
+- livebearer

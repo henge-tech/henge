@@ -1,0 +1,23 @@
+---
+pattern: sew_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 293006
+score_per_word: 32556
+hi_scored_words:
+  sew: 14860
+  sewage: 16235
+  sewed: 44404
+  sewer: 12851
+  sewerage: 30656
+  sewers: 28435
+  sewing: 11298
+  sewn: 21742
+scored_words:
+  sews: 112525
+not_scored_words:
+- Seward
+- sewan
+- sewellel
+- sewellels

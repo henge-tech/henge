@@ -1,0 +1,35 @@
+---
+pattern: fos_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 25
+score: 1123945
+score_per_word: 80281
+hi_scored_words:
+  fossa: 53153
+  fosse: 50135
+  fossil: 8278
+  fossilized: 59471
+  fossils: 16430
+  foster: 4190
+  fostered: 26060
+  fostering: 17711
+  fosters: 31420
+scored_words:
+  fosses: 182651
+  fossiliferous: 167655
+  fossilization: 205587
+  fossilize: 146765
+  fosterage: 154439
+not_scored_words:
+- Fosse
+- Foster
+- Fostoria
+- fossas
+- fossette
+- fossick
+- fossilizes
+- fossilizing
+- fossorial
+- fosterages
+- fosterling

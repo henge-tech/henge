@@ -1,0 +1,27 @@
+---
+pattern: flu_d
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 1337532
+score_per_word: 102887
+hi_scored_words:
+  fluctuated: 64589
+  fluid: 4408
+  fluidized: 69937
+  flunked: 91469
+  flushed: 17000
+  flustered: 55784
+  fluted: 42120
+  fluttered: 62119
+scored_words:
+  flubbed: 245034
+  fluffed: 149675
+  flummoxed: 153260
+  fluoridated: 110328
+  flurried: 271809
+not_scored_words:
+- flumped
+- fluoresced
+- flutterboard
+- fluxed

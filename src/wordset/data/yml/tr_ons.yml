@@ -1,0 +1,41 @@
+---
+pattern: tr_ons
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 31
+score: 1693610
+score_per_word: 84680
+hi_scored_words:
+  traditions: 5465
+  transactions: 5572
+  transcriptions: 34508
+  transformations: 15616
+  transfusions: 48503
+  transgressions: 45620
+  transitions: 14402
+  translations: 7539
+  transmissions: 14938
+  triathlons: 93289
+  tribulations: 41575
+  trillions: 54289
+scored_words:
+  transliterations: 155909
+  translocations: 101235
+  transpositions: 142410
+  triangulations: 138810
+  tritons: 145363
+  trons: 216847
+  truncations: 211945
+  truncheons: 199775
+not_scored_words:
+- Tritons
+- transductions
+- transmutations
+- transudations
+- trapezohedrons
+- trephinations
+- trepidations
+- trigons
+- trivializations
+- trogons
+- trunnions

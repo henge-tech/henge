@@ -1,0 +1,43 @@
+---
+pattern: sc_l
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 33
+score: 1350470
+score_per_word: 71077
+hi_scored_words:
+  scalpel: 45410
+  scandal: 6860
+  schnitzel: 93216
+  school: 221
+  schoolgirl: 19829
+  scornful: 60357
+  scoundrel: 42337
+  scowl: 59023
+  scrawl: 66329
+  screwball: 65656
+  scriptural: 28916
+  scroll: 7824
+  scrotal: 78503
+  scull: 58066
+  sculptural: 45150
+scored_words:
+  scatological: 169882
+  scleral: 123443
+  sclerophyll: 266451
+  scribal: 112997
+not_scored_words:
+- Schlegel
+- Schnabel
+- Schutzstaffel
+- Schuylkill
+- Scriptural
+- scansorial
+- schlemiel
+- schlimazel
+- schorl
+- sciential
+- scissel
+- scoopful
+- scorbutical
+- scrannel

@@ -1,0 +1,92 @@
+---
+pattern: cab_
+hi_scored_words_count: 27
+scored_words_count: 22
+total_words: 82
+score: 5202211
+score_per_word: 106167
+hi_scored_words:
+  cab: 4863
+  cabal: 31389
+  caballero: 35895
+  caballeros: 85003
+  cabana: 38194
+  cabanas: 76398
+  cabaret: 19485
+  cabarets: 90116
+  cabbage: 12274
+  cabbages: 65876
+  cabbie: 59556
+  cabby: 88942
+  cabernet: 23653
+  cabin: 4408
+  cabinet: 3470
+  cabinetry: 65108
+  cabinets: 11054
+  cabins: 13812
+  cable: 2654
+  cabled: 62461
+  cables: 5282
+  cablevision: 59243
+  cabling: 23141
+  cabochon: 68674
+  caboose: 44080
+  cabriolet: 35814
+  cabs: 27580
+scored_words:
+  cabala: 118208
+  cabalist: 230243
+  cabalistic: 194592
+  cabals: 231410
+  cabbies: 116742
+  cabdriver: 236752
+  caber: 113846
+  cabezon: 269258
+  cabinetmaker: 122177
+  cabinetmakers: 153360
+  cabinetmaking: 185498
+  cablecast: 234833
+  cablegram: 174851
+  cableway: 166734
+  cabman: 160983
+  cabmen: 245539
+  cabochons: 119858
+  caboodle: 126670
+  cabooses: 218945
+  cabotage: 253939
+  cabretta: 285575
+  cabriole: 183773
+not_scored_words:
+- CAB
+- Cabala
+- Cabanatuan
+- Cabbala
+- Cabernet
+- Cabernets
+- Cabinda
+- Cabot
+- Cabral
+- Cabrera
+- Cabrini
+- cabalism
+- cabasset
+- cabbagehead
+- cabbageworm
+- cabbageworms
+- cabbagy
+- cabbalas
+- cabbed
+- cabbing
+- cabdrivers
+- cabers
+- cabinetwork
+- cablecasting
+- cablecasts
+- cablegrams
+- cablet
+- cabob
+- cabotages
+- cabrilla
+- cabriolets
+- cabstand
+- cabstands

@@ -1,0 +1,31 @@
+---
+pattern: _oker
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 21
+score: 682837
+score_per_word: 45522
+hi_scored_words:
+  broker: 7536
+  choker: 35600
+  cooker: 19680
+  hooker: 16022
+  joker: 19769
+  looker: 50970
+  onlooker: 79263
+  pawnbroker: 71385
+  poker: 3440
+  smoker: 19452
+  snooker: 15092
+  stockbroker: 49509
+  stoker: 39737
+scored_words:
+  invoker: 102079
+  nonsmoker: 153303
+not_scored_words:
+- Booker
+- Hooker
+- evoker
+- overlooker
+- provoker
+- revoker

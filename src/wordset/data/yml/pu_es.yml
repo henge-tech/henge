@@ -1,0 +1,59 @@
+---
+pattern: pu_es
+hi_scored_words_count: 18
+scored_words_count: 13
+total_words: 49
+score: 3331626
+score_per_word: 107471
+hi_scored_words:
+  pubes: 46015
+  publishes: 16014
+  puddles: 42119
+  pulses: 16481
+  punches: 27180
+  punctures: 70382
+  punishes: 52583
+  puppies: 11995
+  purchases: 5570
+  purges: 68736
+  purifies: 79055
+  purples: 65615
+  purposes: 1527
+  purses: 19619
+  pursues: 30605
+  pushes: 15690
+  pussies: 14218
+  puzzles: 9723
+scored_words:
+  publicizes: 225961
+  puissances: 167173
+  pukes: 155125
+  pulsates: 227394
+  pulverizes: 314911
+  punchlines: 131930
+  punctuates: 224720
+  purees: 172140
+  purines: 114675
+  purities: 280993
+  pusses: 297345
+  pustules: 117658
+  putties: 308474
+not_scored_words:
+- pules
+- pullulates
+- pulques
+- pumices
+- punkies
+- pupates
+- purgatives
+- purgatories
+- purplenesses
+- purslanes
+- pushbikes
+- putrefies
+- putrescines
+- putridities
+- putridnesses
+- putsches
+- puttees
+- putzes

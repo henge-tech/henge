@@ -1,0 +1,32 @@
+---
+pattern: o_de
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 845142
+score_per_word: 65010
+hi_scored_words:
+  obtrude: 75133
+  ode: 16212
+  offside: 41083
+  oligonucleotide: 47025
+  opcode: 57388
+  outside: 641
+  override: 18685
+  overrode: 97149
+  oxide: 9957
+scored_words:
+  occlude: 144705
+  oligosaccharide: 106054
+  onside: 118168
+  orangeade: 112942
+not_scored_words:
+- Oceanside
+- oeillade
+- ophicleide
+- outride
+- outrode
+- overside
+- overstride
+- overtrade
+- ozonide

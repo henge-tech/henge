@@ -1,0 +1,53 @@
+---
+pattern: stor_
+hi_scored_words_count: 30
+scored_words_count: 3
+total_words: 43
+score: 1483364
+score_per_word: 44950
+hi_scored_words:
+  stor: 38174
+  storage: 4446
+  store: 705
+  stored: 3431
+  storefront: 27555
+  storefronts: 58995
+  storehouse: 37588
+  storekeeper: 69979
+  storeroom: 62945
+  stores: 1646
+  storied: 42903
+  stories: 702
+  storing: 13144
+  stork: 27695
+  storks: 71918
+  storm: 2016
+  stormed: 31978
+  storming: 32729
+  storms: 8035
+  stormtroopers: 79508
+  stormy: 15322
+  story: 315
+  storyboard: 43522
+  storyboards: 65393
+  storybook: 36190
+  storybooks: 93170
+  storyline: 16061
+  storyteller: 27313
+  storytellers: 44432
+  storytelling: 15627
+scored_words:
+  storehouses: 112333
+  storekeepers: 246267
+  storerooms: 151327
+not_scored_words:
+- Stornoway
+- Storting
+- storax
+- storaxes
+- storiette
+- stormier
+- stormiest
+- stormily
+- storminess
+- stormproof

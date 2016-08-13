@@ -1,0 +1,20 @@
+---
+pattern: _urry
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 10
+score: 270045
+score_per_word: 33755
+hi_scored_words:
+  blurry: 29420
+  burry: 92579
+  curry: 12456
+  flurry: 28569
+  furry: 19535
+  hurry: 5781
+  scurry: 48937
+  slurry: 32768
+scored_words: {}
+not_scored_words:
+- Curry
+- spurry

@@ -1,0 +1,25 @@
+---
+pattern: loos_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 15
+score: 825560
+score_per_word: 58968
+hi_scored_words:
+  loos: 53248
+  loose: 2830
+  loosed: 53196
+  loosely: 14409
+  loosen: 21223
+  loosened: 39313
+  looseness: 96251
+  loosening: 41853
+  loosens: 89325
+  looser: 43039
+  looses: 62279
+  loosing: 30179
+scored_words:
+  loosest: 157476
+  loosestrife: 120939
+not_scored_words:
+- loosestrifes

@@ -1,0 +1,26 @@
+---
+pattern: fl_nt
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 890814
+score_per_word: 74234
+hi_scored_words:
+  flagrant: 35966
+  flamboyant: 36866
+  flashpoint: 33296
+  flaunt: 47002
+  flint: 9777
+  flippant: 57510
+  fluent: 16443
+  fluorescent: 15098
+scored_words:
+  flagellant: 170706
+  flatulent: 141094
+  flocculent: 225044
+  florescent: 102012
+not_scored_words:
+- Flint
+- flavescent
+- flocculant
+- fluctuant

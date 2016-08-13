@@ -1,0 +1,34 @@
+---
+pattern: th_rs
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 24
+score: 1921910
+score_per_word: 106772
+hi_scored_words:
+  theaters: 9814
+  theirs: 9420
+  thermometers: 34130
+  thinkers: 16733
+  thinners: 86950
+  thrashers: 42361
+  thrillers: 20998
+  throwers: 68049
+  thrusters: 54487
+  thunders: 52423
+scored_words:
+  thatchers: 282646
+  theatergoers: 256994
+  thermistors: 114840
+  thickeners: 144843
+  threaders: 217920
+  threshers: 169981
+  thundershowers: 202756
+  thyristors: 136565
+not_scored_words:
+- Thermidors
+- Thurs
+- throttlers
+- thunderers
+- thurifers
+- thwackers

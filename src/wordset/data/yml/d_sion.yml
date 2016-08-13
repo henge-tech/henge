@@ -1,0 +1,36 @@
+---
+pattern: d_sion
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 26
+score: 1547243
+score_per_word: 70329
+hi_scored_words:
+  decision: 1114
+  declension: 76380
+  decompression: 30970
+  delusion: 27354
+  depression: 3851
+  derision: 42704
+  diffusion: 10985
+  digression: 53105
+  dimension: 9504
+  discussion: 1057
+  disillusion: 71765
+  dispersion: 14777
+  dispossession: 98587
+  dissension: 59576
+  diversion: 11615
+  division: 1116
+scored_words:
+  decommission: 101850
+  demission: 213975
+  dermabrasion: 121896
+  dispassion: 244612
+  dissuasion: 246308
+  distension: 104142
+not_scored_words:
+- degression
+- detrusion
+- discursion
+- divulsion

@@ -1,0 +1,33 @@
+---
+pattern: b_ay
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 23
+score: 1154699
+score_per_word: 82478
+hi_scored_words:
+  bay: 1159
+  belay: 46023
+  beltway: 30895
+  betray: 20501
+  birthday: 2708
+  bray: 20166
+  breakaway: 27785
+  byway: 48129
+scored_words:
+  backstay: 219936
+  bewray: 191019
+  bikeway: 115201
+  bluejay: 127355
+  breezeway: 146996
+  bridleway: 156826
+not_scored_words:
+- Barclay
+- Bellay
+- Beltway
+- Biscay
+- Bombay
+- Bray
+- Broadway
+- bobstay
+- byplay

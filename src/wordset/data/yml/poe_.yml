@@ -1,0 +1,30 @@
+---
+pattern: poe_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 20
+score: 495486
+score_per_word: 41290
+hi_scored_words:
+  poem: 3695
+  poems: 3389
+  poet: 4921
+  poetess: 87413
+  poetic: 10134
+  poetical: 34705
+  poetically: 87829
+  poetics: 37251
+  poetry: 1944
+  poets: 6348
+scored_words:
+  poesy: 106075
+  poetaster: 111782
+not_scored_words:
+- Poe
+- poetasters
+- poetesses
+- poeticize
+- poetize
+- poetized
+- poetizes
+- poetizing

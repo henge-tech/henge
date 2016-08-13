@@ -1,0 +1,54 @@
+---
+pattern: d_ters
+hi_scored_words_count: 15
+scored_words_count: 11
+total_words: 44
+score: 2763832
+score_per_word: 106301
+hi_scored_words:
+  daughters: 4879
+  debaters: 85775
+  decanters: 59344
+  delimiters: 81580
+  deserters: 68112
+  deters: 80795
+  diameters: 33839
+  dieters: 76836
+  disasters: 9636
+  dissenters: 48256
+  doubters: 74325
+  drafters: 69058
+  drifters: 51795
+  dumpsters: 70566
+  dusters: 68669
+scored_words:
+  darters: 132280
+  daters: 140244
+  defaulters: 117643
+  densitometers: 303305
+  digesters: 134249
+  diopters: 142069
+  discounters: 110341
+  dosimeters: 131115
+  dragsters: 179897
+  dumbwaiters: 293814
+  dynamometers: 195410
+not_scored_words:
+- decaliters
+- decameters
+- deciliters
+- decimeters
+- declinometers
+- defeaters
+- defrosters
+- dekaliters
+- dekameters
+- demisters
+- densimeters
+- detesters
+- disinters
+- disputers
+- doomsters
+- doters
+- drillmasters
+- dynamiters

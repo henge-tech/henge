@@ -1,0 +1,30 @@
+---
+pattern: _west
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 20
+score: 515006
+score_per_word: 51500
+hi_scored_words:
+  fewest: 35162
+  lowest: 2332
+  narrowest: 63171
+  newest: 6646
+  northwest: 4809
+  slowest: 38924
+  southwest: 5505
+  west: 338
+scored_words:
+  rawest: 193656
+  shallowest: 164463
+not_scored_words:
+- Midwest
+- Northwest
+- Southwest
+- West
+- brawest
+- callowest
+- hollowest
+- mellowest
+- sallowest
+- yellowest

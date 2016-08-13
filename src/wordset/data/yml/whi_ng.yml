@@ -1,0 +1,33 @@
+---
+pattern: whi_ng
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 23
+score: 1312794
+score_per_word: 82049
+hi_scored_words:
+  whimpering: 67910
+  whining: 20622
+  whipping: 16261
+  whirling: 35080
+  whirring: 65044
+  whisking: 91449
+  whispering: 17995
+  whistling: 20656
+  whitening: 25738
+  whiting: 26638
+  whizzing: 85126
+scored_words:
+  whiling: 279301
+  whingeing: 211064
+  whinging: 100499
+  whitewashing: 138858
+  whittling: 110553
+not_scored_words:
+- whickering
+- whiffing
+- whinnying
+- whipsawing
+- whishing
+- whitewing
+- whizzbang

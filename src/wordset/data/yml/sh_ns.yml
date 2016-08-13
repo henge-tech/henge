@@ -1,0 +1,29 @@
+---
+pattern: sh_ns
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 1134829
+score_per_word: 94569
+hi_scored_words:
+  shamans: 54687
+  sharpens: 74791
+  shenanigans: 39559
+  shins: 43554
+  shortens: 66722
+  shotguns: 33302
+  shuns: 90284
+  shutdowns: 77262
+scored_words:
+  shantytowns: 217289
+  sheepskins: 146224
+  shoguns: 150697
+  showdowns: 140458
+not_scored_words:
+- Shahaptians
+- Shans
+- Shavians
+- shakedowns
+- shebeens
+- shoehorns
+- shorthorns

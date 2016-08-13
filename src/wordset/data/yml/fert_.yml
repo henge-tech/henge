@@ -1,0 +1,22 @@
+---
+pattern: fert_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 437174
+score_per_word: 48574
+hi_scored_words:
+  fertile: 11498
+  fertility: 12217
+  fertilization: 27267
+  fertilize: 54536
+  fertilized: 38568
+  fertilizer: 17241
+  fertilizers: 25453
+  fertilizing: 54951
+scored_words:
+  fertilizes: 195443
+not_scored_words:
+- fertilely
+- fertileness
+- fertilizable

@@ -1,0 +1,37 @@
+---
+pattern: righ_
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 27
+score: 1499058
+score_per_word: 83281
+hi_scored_words:
+  right: 128
+  righted: 88738
+  righteous: 9552
+  righteously: 87184
+  righteousness: 11151
+  rightful: 24835
+  rightfully: 31783
+  righting: 71795
+  rightist: 85561
+  rightly: 10690
+  rightmost: 74918
+  rightness: 80423
+  rights: 433
+scored_words:
+  righter: 141172
+  rightists: 144757
+  rightsizing: 318027
+  rightward: 101973
+  rightwards: 215938
+not_scored_words:
+- Right
+- Rightism
+- rightest
+- rightfulness
+- rightism
+- righto
+- rightsize
+- rightsized
+- rightsizes

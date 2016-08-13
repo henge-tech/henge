@@ -1,0 +1,36 @@
+---
+pattern: hoo_s
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 26
+score: 1513216
+score_per_word: 89012
+hi_scored_words:
+  hoodies: 24757
+  hoodlums: 97498
+  hoods: 20961
+  hoofs: 67969
+  hookahs: 99075
+  hookers: 32376
+  hooks: 10627
+  hookups: 44933
+  hooligans: 43839
+  hoops: 15452
+  hooters: 24816
+  hoots: 62450
+  hooves: 48950
+scored_words:
+  hoodoos: 270810
+  hoofers: 298959
+  hookworms: 245822
+  hoovers: 103922
+not_scored_words:
+- Hoosiers
+- Hooters
+- Hoovers
+- hoodwinks
+- hooknoses
+- hoopoes
+- hoorays
+- hoosegows
+- hootenannies

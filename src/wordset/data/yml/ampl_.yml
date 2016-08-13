@@ -1,0 +1,28 @@
+---
+pattern: ampl_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 18
+score: 819241
+score_per_word: 58517
+hi_scored_words:
+  ample: 8277
+  amplification: 23660
+  amplified: 23572
+  amplifier: 12397
+  amplifiers: 13849
+  amplifies: 63690
+  amplify: 35360
+  amplifying: 58090
+  amplitude: 15323
+  amplitudes: 32454
+  amply: 32847
+scored_words:
+  ampler: 136275
+  amplest: 228068
+  amplifications: 135379
+not_scored_words:
+- ampleness
+- amplenesses
+- amplexicaul
+- ampliate

@@ -1,0 +1,28 @@
+---
+pattern: holi_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 863865
+score_per_word: 71988
+hi_scored_words:
+  holiday: 1880
+  holidaymakers: 71652
+  holidays: 3133
+  holier: 55946
+  holiest: 57890
+  holiness: 13990
+  holistic: 15151
+  holistically: 96499
+scored_words:
+  holidaying: 102847
+  holidaymaker: 203184
+  holing: 139725
+  holism: 101968
+not_scored_words:
+- Holiday
+- Holiness
+- Holinshed
+- holidayed
+- holily
+- holist

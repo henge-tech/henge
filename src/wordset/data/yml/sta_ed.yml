@@ -1,0 +1,47 @@
+---
+pattern: sta_ed
+hi_scored_words_count: 25
+scored_words_count: 4
+total_words: 37
+score: 1455055
+score_per_word: 50174
+hi_scored_words:
+  stabbed: 21287
+  stabilized: 20876
+  stacked: 16412
+  staffed: 19201
+  staged: 22791
+  staggered: 23944
+  stagnated: 85158
+  stained: 7950
+  staked: 41874
+  stalked: 39278
+  stalled: 28833
+  stammered: 56643
+  stamped: 10620
+  standardized: 18511
+  stapled: 51348
+  starched: 99102
+  stared: 10439
+  starred: 19795
+  started: 579
+  startled: 17051
+  starved: 27682
+  stashed: 61594
+  stated: 1622
+  stationed: 13075
+  stayed: 3364
+scored_words:
+  stabled: 144838
+  stalemated: 256628
+  stampeded: 159358
+  staved: 175202
+not_scored_words:
+- staled
+- stanched
+- stanchioned
+- stanzaed
+- stargazed
+- statemented
+- statued
+- staunched

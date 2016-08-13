@@ -1,0 +1,67 @@
+---
+pattern: conn_
+hi_scored_words_count: 23
+scored_words_count: 12
+total_words: 57
+score: 3359437
+score_per_word: 95983
+hi_scored_words:
+  conn: 20018
+  connect: 2822
+  connected: 1808
+  connectedness: 55704
+  connecting: 5249
+  connection: 1205
+  connections: 4131
+  connective: 28226
+  connectives: 84859
+  connectivity: 12298
+  connector: 7376
+  connectors: 9707
+  connects: 10098
+  conned: 63064
+  conning: 70413
+  connivance: 95259
+  conniving: 80948
+  connoisseur: 28552
+  connoisseurs: 48304
+  connotation: 39836
+  connotations: 40772
+  connote: 94030
+  connotes: 85188
+scored_words:
+  connate: 224003
+  connatural: 229615
+  connectable: 128592
+  conniption: 204134
+  connive: 174827
+  connived: 196773
+  connoisseurship: 205680
+  connotative: 210998
+  connoted: 272226
+  connoting: 271958
+  conns: 232117
+  connubial: 118647
+not_scored_words:
+- Conn
+- Connacht
+- Connaught
+- Connecticut
+- Connemara
+- Conner
+- Connery
+- Connie
+- Connolly
+- Connors
+- connaturally
+- connectively
+- conniptions
+- connivent
+- conniver
+- connivers
+- connivery
+- connives
+- connoisseurships
+- connotational
+- connubiality
+- connubially

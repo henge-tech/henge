@@ -1,0 +1,33 @@
+---
+pattern: con_ated
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 23
+score: 910038
+score_per_word: 56877
+hi_scored_words:
+  concatenated: 66530
+  concentrated: 6651
+  confederated: 78678
+  confiscated: 24222
+  congratulated: 30197
+  congregated: 83704
+  conjugated: 29683
+  consecrated: 23466
+  consolidated: 8648
+  constipated: 62351
+  consummated: 53213
+  contaminated: 13051
+  contemplated: 13632
+  contraindicated: 54471
+scored_words:
+  conciliated: 242797
+  conflated: 118744
+not_scored_words:
+- confabulated
+- conglobated
+- conglomerated
+- conglutinated
+- consociated
+- constellated
+- consternated

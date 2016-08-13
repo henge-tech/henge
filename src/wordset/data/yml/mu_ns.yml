@@ -1,0 +1,29 @@
+---
+pattern: mu_ns
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 19
+score: 1374768
+score_per_word: 98197
+hi_scored_words:
+  muffins: 24117
+  multiplications: 93542
+  multivitamins: 67692
+  munchkins: 98533
+  munitions: 23519
+  muons: 80113
+  musicians: 5297
+  mutagens: 95866
+  mutations: 17713
+scored_words:
+  mucins: 176283
+  muggins: 192488
+  mulligans: 174713
+  mullions: 217824
+  mutilations: 107068
+not_scored_words:
+- Muhammadans
+- Mullins
+- muezzins
+- murmurations
+- muskmelons

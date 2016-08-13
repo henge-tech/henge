@@ -1,0 +1,27 @@
+---
+pattern: _eeps
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 17
+score: 600739
+score_per_word: 50061
+hi_scored_words:
+  beeps: 39588
+  creeps: 30107
+  deeps: 69228
+  jeeps: 43630
+  keeps: 2940
+  peeps: 23226
+  seeps: 62992
+  sleeps: 8088
+  sweeps: 16981
+  weeps: 37473
+scored_words:
+  bleeps: 112695
+  steeps: 153791
+not_scored_words:
+- barkeeps
+- cassareeps
+- cheeps
+- oversleeps
+- veeps

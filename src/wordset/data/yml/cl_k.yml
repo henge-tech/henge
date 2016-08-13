@@ -1,0 +1,26 @@
+---
+pattern: cl_k
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 16
+score: 604636
+score_per_word: 50386
+hi_scored_words:
+  clack: 53033
+  clank: 48838
+  classwork: 88189
+  clerk: 3830
+  click: 2740
+  clink: 49485
+  cloak: 15205
+  clock: 2334
+  clockwork: 27079
+  cluck: 59867
+  clunk: 87263
+scored_words:
+  cleek: 166773
+not_scored_words:
+- Clark
+- Clydebank
+- claybank
+- clonk

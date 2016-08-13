@@ -1,0 +1,28 @@
+---
+pattern: puls_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 18
+score: 1089071
+score_per_word: 77790
+hi_scored_words:
+  puls: 84892
+  pulsar: 29277
+  pulsars: 67339
+  pulsatile: 70014
+  pulsating: 45405
+  pulsation: 53795
+  pulsations: 79785
+  pulse: 4098
+  pulsed: 35058
+  pulses: 16481
+  pulsing: 44550
+scored_words:
+  pulsate: 133225
+  pulsates: 227394
+  pulsator: 197758
+not_scored_words:
+- pulsated
+- pulsatory
+- pulsimeter
+- pulsometer

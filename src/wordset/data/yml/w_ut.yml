@@ -1,0 +1,22 @@
+---
+pattern: w_ut
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 12
+score: 553427
+score_per_word: 55342
+hi_scored_words:
+  walkabout: 50929
+  walkout: 62247
+  walnut: 10448
+  washout: 52900
+  whiteout: 92228
+  wingnut: 69410
+  without: 159
+  woodcut: 50379
+  workout: 12371
+scored_words:
+  waterspout: 152356
+not_scored_words:
+- whereabout
+- whirlabout

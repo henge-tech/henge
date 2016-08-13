@@ -1,0 +1,48 @@
+---
+pattern: ag_e
+hi_scored_words_count: 16
+scored_words_count: 9
+total_words: 38
+score: 2105942
+score_per_word: 84237
+hi_scored_words:
+  agape: 39380
+  agate: 27896
+  agave: 45245
+  age: 326
+  agee: 57657
+  aggie: 30141
+  agglutinative: 80375
+  aggravate: 38770
+  aggregate: 6836
+  aggressive: 6303
+  agile: 16535
+  agitate: 56176
+  agree: 922
+  agreeable: 16262
+  agriculture: 3037
+  ague: 71783
+scored_words:
+  agentive: 266091
+  agglomerate: 140828
+  agglomerative: 290642
+  agglutinate: 100405
+  aggrandize: 198927
+  aggregative: 259687
+  agnate: 135333
+  agone: 100292
+  agonize: 116093
+not_scored_words:
+- Age
+- Agee
+- Aggie
+- Aguirre
+- agamete
+- agateware
+- aggrade
+- aggrieve
+- agiotage
+- agminate
+- agorae
+- agoraphobe
+- agraffe

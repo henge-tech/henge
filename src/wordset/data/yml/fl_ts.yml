@@ -1,0 +1,40 @@
+---
+pattern: fl_ts
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 30
+score: 1643552
+score_per_word: 96679
+hi_scored_words:
+  flashlights: 26965
+  flats: 9068
+  fleets: 23845
+  flights: 4485
+  flints: 74610
+  flirts: 54051
+  floats: 16996
+  floodlights: 76694
+  florets: 76459
+  florists: 25986
+  flowcharts: 75316
+scored_words:
+  flashpoints: 144353
+  flaunts: 138129
+  flits: 139239
+  flouts: 267520
+  flowerpots: 173464
+  flutists: 316372
+not_scored_words:
+- flabbergasts
+- flagellants
+- flageolets
+- flatboats
+- flatfoots
+- flatlets
+- fleapits
+- fleaworts
+- fleshpots
+- flibbertigibbets
+- flypasts
+- flysheets
+- flyweights

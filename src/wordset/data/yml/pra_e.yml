@@ -1,0 +1,22 @@
+---
+pattern: pra_e
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 750344
+score_per_word: 75034
+hi_scored_words:
+  practicable: 13314
+  practice: 761
+  prairie: 6227
+  praise: 3668
+  praline: 81860
+  prance: 72822
+  pratique: 65678
+  prattle: 70043
+scored_words:
+  prate: 148432
+  pratincole: 287539
+not_scored_words:
+- Prague
+- prase

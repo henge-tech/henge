@@ -1,0 +1,42 @@
+---
+pattern: term_
+hi_scored_words_count: 22
+scored_words_count: 3
+total_words: 32
+score: 1158770
+score_per_word: 46350
+hi_scored_words:
+  term: 749
+  termagant: 96422
+  termed: 11132
+  terminal: 5688
+  terminally: 35096
+  terminals: 15497
+  terminate: 9483
+  terminated: 8113
+  terminates: 23167
+  terminating: 18379
+  termination: 9564
+  terminations: 41830
+  terminator: 19174
+  terminators: 66162
+  termini: 46216
+  terminological: 77745
+  terminologies: 93168
+  terminology: 14182
+  terminus: 18565
+  termite: 31736
+  termites: 34516
+  terms: 255
+scored_words:
+  terminable: 156174
+  terming: 164157
+  termly: 161600
+not_scored_words:
+- termagants
+- terminative
+- terminologically
+- terminologist
+- termitarium
+- termless
+- termor

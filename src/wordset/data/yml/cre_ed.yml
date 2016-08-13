@@ -1,0 +1,27 @@
+---
+pattern: cre_ed
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 17
+score: 544483
+score_per_word: 49498
+hi_scored_words:
+  creamed: 45126
+  creased: 39676
+  created: 764
+  credentialed: 76381
+  credited: 8859
+  creed: 8425
+  cremated: 50581
+  crested: 21390
+  crewed: 64512
+scored_words:
+  creaked: 100935
+  crenulated: 127834
+not_scored_words:
+- Creed
+- crenelated
+- creneled
+- creolized
+- creosoted
+- crepitated

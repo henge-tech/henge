@@ -1,0 +1,25 @@
+---
+pattern: man_er
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 414982
+score_per_word: 41498
+hi_scored_words:
+  manager: 1807
+  maneuver: 21085
+  manger: 24128
+  manner: 1420
+  manometer: 79376
+  manpower: 15292
+  manslaughter: 29219
+  manufacturer: 4610
+scored_words:
+  mangler: 122586
+  manlier: 115459
+not_scored_words:
+- Manchester
+- mangier
+- manslayer
+- manstopper
+- manumitter

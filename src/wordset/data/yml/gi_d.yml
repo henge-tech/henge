@@ -1,0 +1,36 @@
+---
+pattern: gi_d
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 26
+score: 1746447
+score_per_word: 109152
+hi_scored_words:
+  gid: 34797
+  gifted: 8117
+  giggled: 42882
+  gild: 64434
+  gilded: 22136
+  gingerbread: 29613
+  gird: 70649
+  girded: 88503
+  girlfriend: 9111
+  girlhood: 80188
+  gizzard: 79239
+scored_words:
+  gigged: 212282
+  gilled: 284199
+  gingered: 263820
+  ginned: 275304
+  girdled: 181173
+not_scored_words:
+- Gielgud
+- Gilead
+- Giraud
+- gibbered
+- gibbeted
+- gibed
+- gilthead
+- gimleted
+- gimped
+- girted

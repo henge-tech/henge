@@ -1,0 +1,39 @@
+---
+pattern: adul_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 29
+score: 1320142
+score_per_word: 94295
+hi_scored_words:
+  adulation: 50377
+  adult: 2954
+  adulterated: 69681
+  adulteration: 69850
+  adulterer: 95120
+  adulterous: 66528
+  adultery: 18933
+  adulthood: 21062
+  adults: 4135
+scored_words:
+  adulterants: 272571
+  adulterate: 175201
+  adulterers: 112515
+  adulteress: 108592
+  adulteries: 252623
+not_scored_words:
+- adularia
+- adulate
+- adulated
+- adulates
+- adulating
+- adulator
+- adulators
+- adulatory
+- adulterant
+- adulterates
+- adulterating
+- adulterations
+- adulterator
+- adulteresses
+- adulterine

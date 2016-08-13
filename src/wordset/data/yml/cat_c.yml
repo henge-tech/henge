@@ -1,0 +1,27 @@
+---
+pattern: cat_c
+hi_scored_words_count: 10
+scored_words_count: 0
+total_words: 17
+score: 523264
+score_per_word: 52326
+hi_scored_words:
+  catabolic: 87548
+  cataclysmic: 52654
+  cataleptic: 94075
+  catalytic: 18874
+  catastrophic: 16895
+  catatonic: 74745
+  cathartic: 51542
+  cathodic: 69637
+  catholic: 2209
+  cationic: 55085
+scored_words: {}
+not_scored_words:
+- Catholic
+- catacaustic
+- catachrestic
+- catalectic
+- catechetic
+- categoric
+- cathectic

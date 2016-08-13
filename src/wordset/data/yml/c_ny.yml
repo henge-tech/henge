@@ -1,0 +1,35 @@
+---
+pattern: c_ny
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 25
+score: 1301301
+score_per_word: 81331
+hi_scored_words:
+  cacophony: 54818
+  calumny: 76298
+  canny: 45412
+  ceremony: 3921
+  chalcedony: 75086
+  colony: 5435
+  company: 227
+  corny: 36498
+  cosmogony: 87036
+  cranny: 65379
+  crony: 60848
+scored_words:
+  carny: 142606
+  cartoony: 103439
+  cony: 132992
+  cottony: 166172
+  cushiony: 245134
+not_scored_words:
+- Christophany
+- Cluny
+- Coligny
+- Czerny
+- ca'canny
+- castellany
+- catchpenny
+- colophony
+- compony

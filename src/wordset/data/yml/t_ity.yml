@@ -1,0 +1,60 @@
+---
+pattern: t_ity
+hi_scored_words_count: 18
+scored_words_count: 16
+total_words: 50
+score: 4535217
+score_per_word: 133388
+hi_scored_words:
+  taciturnity: 86202
+  technicality: 53235
+  temerity: 72239
+  tenacity: 30977
+  testability: 97895
+  timidity: 40618
+  tolerability: 91561
+  tonality: 62709
+  totality: 27412
+  toxicity: 14352
+  traceability: 49083
+  tranquility: 28815
+  tranquillity: 24788
+  transferability: 76027
+  transitivity: 83743
+  trinity: 12551
+  triviality: 93380
+  turbidity: 36267
+scored_words:
+  tangibility: 291302
+  teachability: 338618
+  tensity: 262159
+  tenuity: 226942
+  territoriality: 101644
+  theatricality: 148209
+  tonicity: 278037
+  topicality: 137422
+  tortuosity: 248385
+  tractability: 171332
+  transportability: 227344
+  transsexuality: 276121
+  tuberosity: 187407
+  tunability: 292052
+  turgidity: 148956
+  typicality: 217433
+not_scored_words:
+- Trinity
+- tactility
+- telicity
+- tenability
+- tensility
+- tepidity
+- thermoelectricity
+- torpidity
+- torridity
+- torsibility
+- translatability
+- transmutability
+- triboelectricity
+- triplicity
+- triunity
+- tumidity

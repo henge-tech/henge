@@ -1,0 +1,50 @@
+---
+pattern: abs_s
+hi_scored_words_count: 10
+scored_words_count: 15
+total_words: 40
+score: 2944039
+score_per_word: 117761
+hi_scored_words:
+  abscess: 30908
+  abscesses: 61156
+  absences: 26472
+  absolutes: 55865
+  absorbers: 41919
+  absorbs: 26722
+  abstentions: 59921
+  abstractions: 27478
+  abstracts: 17134
+  absurdities: 60309
+scored_words:
+  abscissas: 118811
+  absconds: 153672
+  absentees: 110429
+  absentmindedness: 136118
+  absents: 259887
+  absoluteness: 172714
+  absolutists: 289258
+  absolves: 131968
+  absorbents: 126800
+  absorptions: 170207
+  abstainers: 237257
+  abstains: 117483
+  abstemious: 181708
+  abstemiousness: 183659
+  abstractness: 146184
+not_scored_words:
+- abscises
+- absconders
+- abseils
+- absolvers
+- absorptances
+- absorptivities
+- absquatulates
+- abstractedness
+- abstracters
+- abstractionisms
+- abstractionists
+- abstractnesses
+- abstruseness
+- absurdists
+- absurdness

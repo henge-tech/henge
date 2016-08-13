@@ -1,0 +1,35 @@
+---
+pattern: ge_ly
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 25
+score: 786261
+score_per_word: 65521
+hi_scored_words:
+  generally: 1043
+  generically: 48040
+  generously: 16970
+  genetically: 11628
+  gentlemanly: 75336
+  gently: 5055
+  genuinely: 13368
+  geographically: 21224
+  geologically: 79493
+  geometrically: 50043
+scored_words:
+  genially: 200020
+  genteelly: 264041
+not_scored_words:
+- geminately
+- genealogically
+- genitally
+- genitivally
+- genocidally
+- geocentrically
+- geomagnetically
+- geophysically
+- geopolitically
+- geosynchronously
+- geothermally
+- germanely
+- germinally

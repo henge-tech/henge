@@ -1,0 +1,32 @@
+---
+pattern: igno_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1315554
+score_per_word: 87703
+hi_scored_words:
+  ignoble: 60706
+  ignominious: 74605
+  ignominy: 84598
+  ignoramus: 88460
+  ignorance: 6226
+  ignorant: 7180
+  ignore: 4491
+  ignored: 7802
+  ignores: 19026
+  ignoring: 10028
+scored_words:
+  ignobly: 214173
+  ignominiously: 183191
+  ignorable: 189357
+  ignoramuses: 258165
+  ignorantly: 107546
+not_scored_words:
+- ignobility
+- ignobleness
+- ignoblenesses
+- ignominies
+- ignominiousness
+- ignominiousnesses
+- ignorer

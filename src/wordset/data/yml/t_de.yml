@@ -1,0 +1,43 @@
+---
+pattern: t_de
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 33
+score: 1543719
+score_per_word: 85762
+hi_scored_words:
+  telluride: 35118
+  tetrachloride: 56565
+  thalidomide: 59045
+  tide: 4778
+  tilde: 39760
+  tirade: 46502
+  topside: 66994
+  trade: 612
+  triglyceride: 53468
+  triode: 85993
+  trioxide: 74089
+  turpitude: 74719
+scored_words:
+  tetrode: 191211
+  tetroxide: 152906
+  tolbutamide: 151056
+  trematode: 214102
+  trichloride: 121583
+  tyrannicide: 115218
+not_scored_words:
+- Tayside
+- Teide
+- Teyde
+- Tide
+- Twelfthtide
+- tacnode
+- taligrade
+- tardigrade
+- teniacide
+- threnode
+- transude
+- tribade
+- trisaccharide
+- tryparsamide
+- twayblade

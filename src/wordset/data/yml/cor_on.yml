@@ -1,0 +1,23 @@
+---
+pattern: cor_on
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 292297
+score_per_word: 32477
+hi_scored_words:
+  cordon: 29782
+  coronation: 17497
+  corporation: 2077
+  correction: 5748
+  correlation: 11267
+  corroboration: 55291
+  corrosion: 13773
+  corruption: 4889
+scored_words:
+  corrugation: 151973
+not_scored_words:
+- Corydon
+- corelation
+- corrasion
+- coruscation

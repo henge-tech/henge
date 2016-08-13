@@ -1,0 +1,23 @@
+---
+pattern: fl_k
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 613008
+score_per_word: 51084
+hi_scored_words:
+  flack: 43100
+  flak: 35500
+  flank: 16556
+  flashback: 23218
+  flask: 17189
+  fleck: 40082
+  flick: 19813
+  flintlock: 85069
+  flock: 9288
+  flunk: 76974
+scored_words:
+  flapjack: 139261
+  flyback: 106958
+not_scored_words:
+- flyspeck

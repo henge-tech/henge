@@ -1,0 +1,26 @@
+---
+pattern: en_red
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 16
+score: 775354
+score_per_word: 55382
+hi_scored_words:
+  enamored: 49826
+  encountered: 5583
+  encumbered: 52313
+  endangered: 9303
+  endeared: 79846
+  endeavored: 39537
+  endured: 14840
+  engendered: 45184
+  engineered: 18065
+  enraptured: 87623
+  ensured: 19972
+  entered: 1626
+scored_words:
+  enciphered: 247187
+  ensnared: 104449
+not_scored_words:
+- encored
+- enured

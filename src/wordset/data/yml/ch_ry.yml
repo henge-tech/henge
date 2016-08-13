@@ -1,0 +1,33 @@
+---
+pattern: ch_ry
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 23
+score: 972868
+score_per_word: 74836
+hi_scored_words:
+  chancellery: 90140
+  chancery: 25499
+  chandlery: 88749
+  chantry: 77404
+  cheery: 35930
+  chemistry: 4320
+  cherry: 6185
+  chicanery: 88157
+  chicory: 55667
+  chivalry: 29259
+scored_words:
+  chary: 118257
+  chinaberry: 120316
+  chokecherry: 232985
+not_scored_words:
+- Cheboksary
+- Cherry
+- charactery
+- charlatanry
+- chartulary
+- checkerberry
+- chiccory
+- chokeberry
+- chrismatory
+- chronometry

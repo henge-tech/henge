@@ -1,0 +1,24 @@
+---
+pattern: _rful
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 14
+score: 522351
+score_per_word: 47486
+hi_scored_words:
+  cheerful: 10724
+  colorful: 18940
+  fearful: 12695
+  flavorful: 48076
+  masterful: 32861
+  powerful: 1428
+  prayerful: 77658
+  tearful: 41789
+  wonderful: 1430
+scored_words:
+  characterful: 169807
+  earful: 106943
+not_scored_words:
+- jarful
+- overpowerful
+- pitcherful

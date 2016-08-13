@@ -1,0 +1,26 @@
+---
+pattern: phot_c
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 944181
+score_per_word: 85834
+hi_scored_words:
+  photoelectric: 51968
+  photogenic: 47672
+  photographic: 9249
+  photometric: 45002
+  photonic: 46958
+  photorealistic: 87976
+  photosynthetic: 44664
+  photovoltaic: 33659
+scored_words:
+  photic: 121727
+  photospheric: 157873
+  photostatic: 297433
+not_scored_words:
+- photoactinic
+- photobathic
+- photolytic
+- photothermic
+- phototropic

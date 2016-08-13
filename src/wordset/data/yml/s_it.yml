@@ -1,0 +1,46 @@
+---
+pattern: s_it
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 36
+score: 1507881
+score_per_word: 60315
+hi_scored_words:
+  shit: 6191
+  sit: 1672
+  skit: 28802
+  slit: 15925
+  soffit: 82313
+  solicit: 14990
+  spacesuit: 99789
+  spirit: 1087
+  spit: 11127
+  split: 3149
+  strait: 10619
+  submit: 1741
+  subunit: 15428
+  suit: 2173
+  summit: 3471
+  sunlit: 59214
+  surfeit: 82585
+  swimsuit: 18255
+scored_words:
+  sandpit: 127836
+  snit: 127517
+  snowsuit: 124312
+  sprit: 101160
+  starfruit: 283170
+  starlit: 115565
+  sweatsuit: 169790
+not_scored_words:
+- Sanskrit
+- Schrecklichkeit
+- Spirit
+- Split
+- Sumgait
+- sculpsit
+- sennit
+- sleekit
+- spotlit
+- subedit
+- sunsuit

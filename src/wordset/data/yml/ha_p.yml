@@ -1,0 +1,22 @@
+---
+pattern: ha_p
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 512445
+score_per_word: 56938
+hi_scored_words:
+  handicap: 14564
+  hangup: 93375
+  hap: 22758
+  hardship: 13237
+  hardtop: 48246
+  harelip: 79687
+  harp: 15188
+  hasp: 71722
+scored_words:
+  handgrip: 153668
+not_scored_words:
+- hairgrip
+- handclap
+- handclasp

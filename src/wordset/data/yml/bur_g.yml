@@ -1,0 +1,26 @@
+---
+pattern: bur_g
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 701376
+score_per_word: 70137
+hi_scored_words:
+  burdening: 94398
+  burg: 33579
+  burgeoning: 29662
+  burning: 2477
+  burping: 90929
+  burrowing: 50787
+  bursting: 15583
+  burying: 29749
+scored_words:
+  burbling: 227189
+  burnishing: 127023
+not_scored_words:
+- bureaucratizing
+- burglarizing
+- burgling
+- burlesquing
+- burring
+- burthening

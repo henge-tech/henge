@@ -1,0 +1,26 @@
+---
+pattern: _efs
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 16
+score: 1004587
+score_per_word: 71756
+hi_scored_words:
+  beefs: 84384
+  beliefs: 9080
+  briefs: 16714
+  chefs: 14284
+  chiefs: 6365
+  griefs: 88553
+  handkerchiefs: 50352
+  reefs: 15787
+  refs: 19895
+  reliefs: 45854
+scored_words:
+  clefs: 103920
+  fiefs: 172082
+  kerchiefs: 253212
+  xrefs: 124105
+not_scored_words:
+- debriefs
+- neckerchiefs

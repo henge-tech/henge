@@ -1,0 +1,39 @@
+---
+pattern: m_am
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 29
+score: 726593
+score_per_word: 55891
+hi_scored_words:
+  ma'am: 3884
+  macadam: 67673
+  madam: 8900
+  mainstream: 8543
+  mam: 32328
+  mammogram: 62176
+  marjoram: 64030
+  microgram: 80334
+  midstream: 79607
+  milligram: 51997
+  monogram: 21460
+  moonbeam: 77710
+scored_words:
+  millstream: 167951
+not_scored_words:
+- Madam
+- Malayalam
+- Mandelstam
+- Markham
+- Maugham
+- McAdam
+- Menam
+- Merriam
+- Miriam
+- Mirzam
+- Moham
+- Muharram
+- microprogram
+- milldam
+- minicam
+- myriagram

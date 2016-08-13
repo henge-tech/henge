@@ -1,0 +1,34 @@
+---
+pattern: pos_es
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 24
+score: 769877
+score_per_word: 59221
+hi_scored_words:
+  poses: 14775
+  posies: 80443
+  positives: 15325
+  posses: 47418
+  possesses: 10663
+  possibilities: 5122
+  postcodes: 65344
+  postgraduates: 74535
+  postpones: 74047
+  postulates: 53703
+  postures: 41731
+scored_words:
+  possessives: 182838
+  possibles: 103933
+not_scored_words:
+- positivities
+- posologies
+- postboxes
+- postdates
+- posteriorities
+- postfixes
+- postholes
+- postiches
+- posties
+- postludes
+- postmistresses

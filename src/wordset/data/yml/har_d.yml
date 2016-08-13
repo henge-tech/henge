@@ -1,0 +1,42 @@
+---
+pattern: har_d
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 32
+score: 1696725
+score_per_word: 84836
+hi_scored_words:
+  harassed: 25359
+  harbored: 64965
+  hard: 304
+  hardboard: 94700
+  hardbound: 81382
+  hardened: 13737
+  hardwired: 48305
+  hardwood: 19143
+  harmed: 20048
+  harmonized: 40624
+  harnessed: 43738
+  harpsichord: 34461
+  harried: 59634
+  harvested: 17532
+scored_words:
+  harangued: 181237
+  hardheaded: 155982
+  hardihood: 101194
+  harebrained: 240790
+  harped: 218829
+  harrowed: 234761
+not_scored_words:
+- Harland
+- Harold
+- Hartford
+- Harvard
+- hardhearted
+- hardstand
+- hared
+- harelipped
+- harked
+- harpooned
+- harrumphed
+- harshened

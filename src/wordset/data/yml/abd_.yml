@@ -1,0 +1,41 @@
+---
+pattern: abd_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 31
+score: 1575863
+score_per_word: 87547
+hi_scored_words:
+  abdicate: 59554
+  abdicated: 67412
+  abdication: 54218
+  abdomen: 15938
+  abdominal: 14706
+  abduct: 61664
+  abducted: 28822
+  abducting: 94687
+  abduction: 21828
+  abductions: 49522
+  abductor: 77927
+  abductors: 82739
+scored_words:
+  abdicates: 178881
+  abdicating: 151371
+  abdomens: 161832
+  abductee: 171387
+  abductees: 119648
+  abducts: 163727
+not_scored_words:
+- ABD
+- Abdias
+- Abdul
+- abdications
+- abdicator
+- abdicators
+- abdominally
+- abdominous
+- abduce
+- abduced
+- abducent
+- abduces
+- abducing

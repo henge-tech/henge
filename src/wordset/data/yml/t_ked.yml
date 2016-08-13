@@ -1,0 +1,32 @@
+---
+pattern: t_ked
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 22
+score: 669379
+score_per_word: 44625
+hi_scored_words:
+  tacked: 38657
+  talked: 2984
+  tanked: 71057
+  tasked: 34939
+  thanked: 10804
+  ticked: 33341
+  tracked: 7339
+  trademarked: 34435
+  trafficked: 44510
+  tricked: 26783
+  trucked: 97725
+  tucked: 17549
+  tweaked: 35290
+scored_words:
+  trekked: 103793
+  tusked: 110173
+not_scored_words:
+- tarmacked
+- thwacked
+- ticktacked
+- toked
+- tomahawked
+- turtlenecked
+- twerked

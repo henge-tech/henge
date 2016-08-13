@@ -1,0 +1,36 @@
+---
+pattern: fut_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 26
+score: 1907631
+score_per_word: 105979
+hi_scored_words:
+  fut: 43985
+  futile: 20470
+  futility: 30226
+  futon: 29846
+  futons: 77858
+  future: 381
+  futures: 13919
+  futurism: 61579
+  futurist: 50463
+  futuristic: 23513
+  futurists: 87443
+  futurity: 58875
+scored_words:
+  futhark: 244420
+  futilely: 185479
+  futtock: 219008
+  futurology: 211691
+  futz: 287364
+  futzing: 261111
+not_scored_words:
+- Futurism
+- futilitarian
+- futuristically
+- futurities
+- futurologist
+- futurologists
+- futzed
+- futzes

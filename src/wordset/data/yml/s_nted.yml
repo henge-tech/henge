@@ -1,0 +1,26 @@
+---
+pattern: s_nted
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 16
+score: 972722
+score_per_word: 74824
+hi_scored_words:
+  scented: 16036
+  segmented: 30644
+  shunted: 88575
+  slanted: 39714
+  sprinted: 84421
+  squinted: 86337
+  stunted: 45063
+  supplanted: 54154
+  supplemented: 16417
+  surmounted: 55545
+scored_words:
+  sainted: 118842
+  sedimented: 217372
+  stinted: 119602
+not_scored_words:
+- scanted
+- splinted
+- statemented

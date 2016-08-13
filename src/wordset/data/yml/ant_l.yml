@@ -1,0 +1,40 @@
+---
+pattern: ant_l
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 30
+score: 1516174
+score_per_word: 89186
+hi_scored_words:
+  antenatal: 45932
+  anthill: 59823
+  anthropological: 29184
+  antibacterial: 36022
+  anticlerical: 68557
+  antifungal: 47186
+  antimalarial: 98128
+  antimicrobial: 26987
+  antisocial: 30105
+  antithetical: 61409
+  antiviral: 34901
+scored_words:
+  anthropol: 180282
+  antiparallel: 122945
+  antipersonnel: 131517
+  antiphonal: 204019
+  antipodal: 185340
+  antral: 153837
+not_scored_words:
+- antialcohol
+- anticholesterol
+- anticlinal
+- anticolonial
+- antidiarrheal
+- antidotal
+- antiliberal
+- antimonial
+- antimonyl
+- antinovel
+- antipathetical
+- antiradical
+- antirational

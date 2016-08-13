@@ -1,0 +1,48 @@
+---
+pattern: woo_s
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 38
+score: 2412120
+score_per_word: 126953
+hi_scored_words:
+  woodcuts: 71777
+  woodlands: 17609
+  woodpeckers: 61821
+  woods: 2601
+  woodwinds: 54464
+  woodworkers: 73325
+  woofers: 75981
+  wools: 97985
+  woops: 86306
+  woos: 89602
+scored_words:
+  woodblocks: 243413
+  woodcarvers: 254600
+  woodcarvings: 202925
+  woodchucks: 161619
+  woodcutters: 281561
+  woodies: 125696
+  woodlots: 155095
+  wooers: 181583
+  woolens: 174157
+not_scored_words:
+- Woods
+- woodborers
+- woodcocks
+- woodenness
+- woodiness
+- woodpiles
+- woodruffs
+- woodsheds
+- woodsias
+- woodsiness
+- woodwaxens
+- woodworms
+- woofs
+- wooings
+- woolgathers
+- wooliness
+- woollies
+- woolliness
+- wooziness

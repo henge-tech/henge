@@ -1,0 +1,24 @@
+---
+pattern: g_at
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 14
+score: 567859
+score_per_word: 63095
+hi_scored_words:
+  gat: 28971
+  ghat: 97253
+  gloat: 62045
+  gnat: 38561
+  goat: 9973
+  great: 113
+  groat: 86505
+  gunboat: 72101
+scored_words:
+  greatcoat: 172337
+not_scored_words:
+- GMAT
+- Guat
+- Gujarat
+- gerontocrat
+- gyrostat

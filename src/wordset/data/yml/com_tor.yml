@@ -1,0 +1,21 @@
+---
+pattern: com_tor
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 11
+score: 460091
+score_per_word: 51121
+hi_scored_words:
+  combustor: 94485
+  commentator: 19316
+  communicator: 20035
+  commutator: 76629
+  compactor: 68759
+  comparator: 40097
+  compensator: 63781
+  competitor: 12273
+  compositor: 64716
+scored_words: {}
+not_scored_words:
+- commemorator
+- commiserator

@@ -1,0 +1,26 @@
+---
+pattern: f_f
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 913612
+score_per_word: 83055
+hi_scored_words:
+  ff: 7178
+  fief: 82036
+  fireproof: 49497
+  flagstaff: 24596
+  fluff: 29898
+  flyleaf: 86619
+  foodstuff: 56855
+  foolproof: 41427
+scored_words:
+  falloff: 144913
+  feedstuff: 227620
+  flameproof: 162973
+not_scored_words:
+- FSF
+- Falstaff
+- faff
+- feoff
+- fisticuff

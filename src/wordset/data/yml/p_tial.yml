@@ -1,0 +1,25 @@
+---
+pattern: p_tial
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 754982
+score_per_word: 68634
+hi_scored_words:
+  palatial: 59807
+  partial: 3843
+  potential: 3490
+  preferential: 28546
+  prenuptial: 65147
+  presidential: 6995
+  providential: 75848
+  prudential: 23364
+scored_words:
+  penitential: 110946
+  pestilential: 198866
+  precedential: 178130
+not_scored_words:
+- Prudential
+- postnuptial
+- preputial
+- primatial

@@ -1,0 +1,70 @@
+---
+pattern: bl_er
+hi_scored_words_count: 25
+scored_words_count: 10
+total_words: 60
+score: 2992467
+score_per_word: 85499
+hi_scored_words:
+  blabber: 81457
+  blacker: 48487
+  bladder: 11586
+  blaster: 16557
+  blather: 57553
+  blazer: 19432
+  bleacher: 58766
+  bleeder: 80915
+  blender: 18069
+  blighter: 96162
+  blinder: 79047
+  blinker: 80390
+  blister: 24713
+  blockbuster: 21167
+  blocker: 16244
+  blogger: 5286
+  bloomer: 49954
+  blooper: 84263
+  blotter: 39259
+  blower: 19610
+  blubber: 55204
+  bluer: 94487
+  blunder: 29284
+  blusher: 95334
+  bluster: 62198
+scored_words:
+  blackmailer: 180531
+  blanker: 218392
+  blasphemer: 138064
+  bleaker: 167318
+  blonder: 121872
+  bloodier: 169075
+  bloodsucker: 164887
+  blucher: 106116
+  bluffer: 185244
+  blunter: 295544
+not_scored_words:
+- Blockbuster
+- Bloomer
+- Blucher
+- blackener
+- blamer
+- blander
+- blandisher
+- blatherer
+- blearier
+- bleeper
+- blither
+- bloater
+- blockader
+- blockier
+- bloodthirstier
+- bloomier
+- blotchier
+- blowier
+- blowsier
+- blowzier
+- bluesier
+- blunderer
+- blunger
+- blurrier
+- blusterer

@@ -1,0 +1,42 @@
+---
+pattern: _atch
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 32
+score: 1401471
+score_per_word: 60933
+hi_scored_words:
+  batch: 8965
+  catch: 1896
+  dispatch: 12632
+  hatch: 10315
+  latch: 16098
+  match: 1379
+  mismatch: 25240
+  natch: 87565
+  nuthatch: 65222
+  patch: 3083
+  rematch: 42159
+  scratch: 6203
+  snatch: 12413
+  stopwatch: 37328
+  swatch: 31477
+  thatch: 37913
+  watch: 534
+  wristwatch: 38933
+scored_words:
+  crosshatch: 184045
+  deathwatch: 106973
+  klatch: 214660
+  outmatch: 156380
+  unlatch: 300058
+not_scored_words:
+- Baywatch
+- Sasquatch
+- Wasatch
+- cratch
+- crosspatch
+- dogwatch
+- kaffeeklatch
+- overmatch
+- smartwatch

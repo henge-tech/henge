@@ -1,0 +1,42 @@
+---
+pattern: r_hes
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 32
+score: 1740265
+score_per_word: 102368
+hi_scored_words:
+  radishes: 65494
+  ranches: 30890
+  rashes: 44761
+  reaches: 5568
+  refreshes: 56266
+  relishes: 75416
+  reproaches: 81264
+  researches: 23035
+  riches: 11723
+  roaches: 53312
+  rushes: 20230
+scored_words:
+  reestablishes: 289010
+  refurbishes: 323725
+  rehashes: 236143
+  relaunches: 174345
+  relinquishes: 128677
+  replenishes: 120406
+not_scored_words:
+- ravishes
+- reattaches
+- refinishes
+- refurnishes
+- rematches
+- republishes
+- reshes
+- restitches
+- retches
+- reteaches
+- retouches
+- retrenches
+- rewashes
+- rosebushes
+- rubbishes

@@ -1,0 +1,29 @@
+---
+pattern: empl_
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 19
+score: 399285
+score_per_word: 28520
+hi_scored_words:
+  emplacement: 51339
+  employ: 5590
+  employability: 33834
+  employable: 74332
+  employed: 2407
+  employee: 2852
+  employees: 1521
+  employer: 3703
+  employers: 4107
+  employing: 10668
+  employment: 1467
+  employments: 67408
+  employs: 12085
+scored_words:
+  emplacements: 127972
+not_scored_words:
+- emplace
+- emplane
+- emplaned
+- emplanes
+- emplaning

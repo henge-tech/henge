@@ -1,0 +1,23 @@
+---
+pattern: c_oard
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 13
+score: 803347
+score_per_word: 80334
+hi_scored_words:
+  cardboard: 14366
+  chalkboard: 44822
+  checkerboard: 56133
+  chessboard: 65331
+  chipboard: 94659
+  clapboard: 84655
+  clipboard: 20709
+  cupboard: 15794
+scored_words:
+  centerboard: 195251
+  corkboard: 211627
+not_scored_words:
+- cheeseboard
+- clapperboard
+- cradleboard

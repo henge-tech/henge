@@ -1,0 +1,55 @@
+---
+pattern: ro_ed
+hi_scored_words_count: 19
+scored_words_count: 9
+total_words: 45
+score: 2220156
+score_per_word: 79291
+hi_scored_words:
+  roamed: 45945
+  roared: 26727
+  roasted: 12242
+  robbed: 13070
+  robed: 66391
+  rocked: 17772
+  rocketed: 75568
+  rolled: 4807
+  roofed: 42293
+  roomed: 98903
+  rooted: 10811
+  roped: 49225
+  rotated: 20963
+  rotted: 56680
+  roughed: 98336
+  rounded: 7355
+  roused: 31148
+  routed: 17961
+  rowed: 53628
+scored_words:
+  roadbed: 108355
+  roiled: 186515
+  romanced: 238202
+  romanticized: 107004
+  romped: 144691
+  rouged: 154809
+  roughened: 122350
+  routinized: 248937
+  roved: 159468
+not_scored_words:
+- Romanized
+- roached
+- roadblocked
+- robocalled
+- robotized
+- rockweed
+- rogered
+- roistered
+- rollicked
+- rooked
+- roosted
+- rosined
+- rosinweed
+- roughhoused
+- roughnecked
+- rousted
+- roweled

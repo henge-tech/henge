@@ -1,0 +1,35 @@
+---
+pattern: p_bly
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 25
+score: 2059306
+score_per_word: 114405
+hi_scored_words:
+  peaceably: 69692
+  plausibly: 56586
+  possibly: 2052
+  predictably: 37787
+  preferably: 13095
+  presumably: 9293
+  probably: 623
+  profitably: 39415
+  provably: 89686
+scored_words:
+  palpably: 108233
+  passably: 171445
+  pebbly: 125572
+  perceptibly: 116056
+  permissibly: 316146
+  pitiably: 208004
+  pleasurably: 260630
+  portably: 227275
+  practicably: 207716
+not_scored_words:
+- palatably
+- pardonably
+- perdurably
+- perishably
+- personably
+- pliably
+- presentably

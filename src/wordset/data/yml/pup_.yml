@@ -1,0 +1,35 @@
+---
+pattern: pup_
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 25
+score: 1051403
+score_per_word: 61847
+hi_scored_words:
+  pup: 17494
+  pupa: 50744
+  pupae: 80863
+  pupil: 6967
+  pupils: 3677
+  puppet: 13361
+  puppeteer: 69975
+  puppetry: 55642
+  puppets: 19019
+  puppies: 11995
+  puppy: 8144
+  pups: 26030
+scored_words:
+  pupal: 109104
+  pupate: 143679
+  pupillage: 219376
+  pupillary: 111391
+  puppeteers: 103942
+not_scored_words:
+- Puppis
+- puparium
+- pupated
+- pupates
+- pupating
+- pupiparous
+- pupped
+- pupping

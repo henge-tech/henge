@@ -1,0 +1,21 @@
+---
+pattern: _fine
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 531879
+score_per_word: 59097
+hi_scored_words:
+  affine: 37911
+  confine: 23336
+  define: 3586
+  fine: 517
+  hyperfine: 83733
+  redefine: 25999
+  refine: 11753
+  superfine: 77248
+scored_words:
+  predefine: 267796
+not_scored_words:
+- misdefine
+- overrefine

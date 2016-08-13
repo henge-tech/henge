@@ -1,0 +1,44 @@
+---
+pattern: king_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 34
+score: 1230431
+score_per_word: 76901
+hi_scored_words:
+  king: 462
+  kingdom: 951
+  kingdoms: 16587
+  kingfish: 67122
+  kingfisher: 31608
+  kingfishers: 97669
+  kingly: 59314
+  kingpin: 40781
+  kings: 2704
+  kingship: 56941
+  kingwood: 61474
+scored_words:
+  kingbird: 119899
+  kinglet: 143439
+  kinglets: 253898
+  kingmaker: 133585
+  kingpins: 143997
+not_scored_words:
+- King
+- Kings
+- Kingsley
+- Kingston
+- Kingstown
+- kingbirds
+- kingbolt
+- kingbolts
+- kingcraft
+- kingcup
+- kingcups
+- kinghood
+- kingless
+- kinglier
+- kingliest
+- kingliness
+- kingmakers
+- kingwoods

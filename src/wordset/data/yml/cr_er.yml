@@ -1,0 +1,77 @@
+---
+pattern: cr_er
+hi_scored_words_count: 21
+scored_words_count: 15
+total_words: 67
+score: 3741755
+score_per_word: 103937
+hi_scored_words:
+  cracker: 16661
+  crasher: 88538
+  crater: 13267
+  crawler: 30345
+  crazier: 64476
+  creamer: 35087
+  creeper: 28226
+  cricketer: 31407
+  crier: 37931
+  crisper: 81445
+  critter: 29911
+  croaker: 98582
+  crooner: 83001
+  cropper: 56734
+  crossover: 13450
+  croupier: 46143
+  crozier: 55290
+  cruiser: 11998
+  cruncher: 90655
+  crusader: 28358
+  crusher: 31110
+scored_words:
+  crammer: 241072
+  crapper: 101189
+  crappier: 235079
+  creamier: 228970
+  creepier: 168553
+  crimper: 129501
+  crippler: 285397
+  crofter: 154431
+  crosier: 176616
+  crosser: 105649
+  crucifer: 196057
+  cruder: 166700
+  crueler: 255347
+  crupper: 114939
+  cryptographer: 209640
+not_scored_words:
+- Cranmer
+- Crater
+- crabber
+- crabbier
+- craftier
+- craggier
+- craniometer
+- crankier
+- crapshooter
+- crasser
+- crawlier
+- creakier
+- cribber
+- cricketeer
+- crimmer
+- crinklier
+- crispier
+- criticaster
+- criticizer
+- croakier
+- crocheter
+- crookeder
+- cruddier
+- cruller
+- crumbier
+- crumblier
+- crummier
+- crunchier
+- crustier
+- cryometer
+- crystallographer

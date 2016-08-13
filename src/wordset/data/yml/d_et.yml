@@ -1,0 +1,36 @@
+---
+pattern: d_et
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 26
+score: 849441
+score_per_word: 70786
+hi_scored_words:
+  diet: 2689
+  discreet: 15821
+  disquiet: 60863
+  docket: 20039
+  doublet: 40528
+  dragnet: 66123
+  droplet: 38101
+  duet: 18418
+  duvet: 24191
+scored_words:
+  downmarket: 301362
+  driftnet: 142129
+  dulcet: 119177
+not_scored_words:
+- Daudet
+- Debouillet
+- Dirichlet
+- Dorset
+- Dubonnet
+- Dubuffet
+- diamagnet
+- drabbet
+- dragonet
+- driblet
+- drugget
+- drupelet
+- duplet
+- dustsheet

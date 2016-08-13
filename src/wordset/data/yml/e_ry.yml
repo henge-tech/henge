@@ -1,0 +1,76 @@
+---
+pattern: e_ry
+hi_scored_words_count: 25
+scored_words_count: 12
+total_words: 66
+score: 2883948
+score_per_word: 77944
+hi_scored_words:
+  eatery: 48348
+  elderberry: 61262
+  electrochemistry: 66885
+  elementary: 6407
+  embroidery: 11605
+  emery: 24678
+  emissary: 48038
+  entry: 1965
+  epistolary: 84012
+  equerry: 78760
+  estuary: 19600
+  every: 176
+  evidentiary: 43692
+  evolutionary: 12921
+  exclusionary: 53669
+  excretory: 71953
+  exculpatory: 87362
+  exemplary: 15091
+  expeditionary: 38407
+  expiratory: 65928
+  expiry: 23573
+  explanatory: 10675
+  exploratory: 21894
+  expository: 42236
+  extraordinary: 3582
+scored_words:
+  effrontery: 110129
+  ejaculatory: 136716
+  electrocautery: 247320
+  electrosurgery: 226790
+  eleemosynary: 232297
+  emancipatory: 124769
+  errantry: 113926
+  exclamatory: 248359
+  executory: 112581
+  expansionary: 102420
+  expiatory: 121863
+  extrasensory: 164059
+not_scored_words:
+- Emery
+- Emory
+- Englishry
+- ecclesiolatry
+- educatory
+- electuary
+- eliminatory
+- elocutionary
+- elucidatory
+- elusory
+- emasculatory
+- emblazonry
+- embracery
+- empery
+- emunctory
+- enginery
+- equivocatory
+- exaggeratory
+- excommunicatory
+- excusatory
+- execratory
+- exhortatory
+- explicatory
+- expostulatory
+- expurgatory
+- extemporary
+- extenuatory
+- exterminatory
+- extortionary

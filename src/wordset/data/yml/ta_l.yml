@@ -1,0 +1,33 @@
+---
+pattern: ta_l
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 23
+score: 1488458
+score_per_word: 99230
+hi_scored_words:
+  tactful: 59418
+  tactical: 11917
+  tail: 3502
+  tall: 2472
+  tangential: 41461
+  tarsal: 80908
+  tassel: 36131
+  tasteful: 26152
+scored_words:
+  tablespoonful: 132948
+  tactual: 247082
+  tael: 249621
+  taffrail: 116416
+  tarball: 101809
+  tautological: 110035
+  taxonomical: 268586
+not_scored_words:
+- Taal
+- Talmudical
+- Tamil
+- Tarbell
+- Tarnopol
+- Tavel
+- tankful
+- tattersail

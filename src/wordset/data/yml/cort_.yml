@@ -1,0 +1,28 @@
+---
+pattern: cort_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 18
+score: 684547
+score_per_word: 68454
+hi_scored_words:
+  cortege: 97272
+  cortex: 14288
+  cortical: 20789
+  corticosteroid: 51896
+  corticosteroids: 34287
+  corticosterone: 84272
+  cortisol: 32246
+  cortisone: 57269
+scored_words:
+  cortices: 129541
+  cortège: 162687
+not_scored_words:
+- Cortes
+- Corteses
+- Cortland
+- corteges
+- corticate
+- corticosterones
+- cortisols
+- cortèges

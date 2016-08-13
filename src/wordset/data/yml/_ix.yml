@@ -1,0 +1,88 @@
+---
+pattern: _ix
+hi_scored_words_count: 27
+scored_words_count: 16
+total_words: 78
+score: 3912652
+score_per_word: 90991
+hi_scored_words:
+  affix: 37055
+  appendix: 5464
+  cervix: 25350
+  crucifix: 28809
+  dominatrix: 39673
+  fix: 1833
+  helix: 21842
+  infix: 72180
+  intermix: 92704
+  ix: 6409
+  kylix: 86804
+  lix: 83205
+  matrix: 10243
+  mix: 2698
+  nix: 27475
+  phenix: 48839
+  phoenix: 6949
+  pix: 16479
+  postfix: 42857
+  prefix: 11641
+  radix: 40276
+  remix: 5640
+  six: 560
+  suffix: 18951
+  xix: 20864
+  xxix: 46796
+  xxxix: 51188
+scored_words:
+  admix: 287615
+  aviatrix: 195324
+  cicatrix: 148188
+  clix: 111770
+  executrix: 105514
+  fornix: 209743
+  generatrix: 234138
+  lxix: 203242
+  mirepoix: 244262
+  premix: 114233
+  prolix: 114945
+  separatrix: 234551
+  spadix: 284610
+  tectrix: 288427
+  testatrix: 131496
+  transfix: 151810
+not_scored_words:
+- Beatrix
+- Bellatrix
+- Bendix
+- Chamonix
+- Delacroix
+- Dix
+- Dupleix
+- Felix
+- Hendrix
+- Leix
+- Netflix
+- Phoenix
+- Roubaix
+- UNIX
+- Unix
+- Vercingetorix
+- Vindemiatrix
+- antefix
+- antihelix
+- bisectrix
+- bollix
+- clxix
+- coadjutrix
+- commix
+- cylix
+- directrix
+- immix
+- inheritrix
+- interlocutrix
+- rectrix
+- refix
+- superfix
+- unfix
+- varix
+- xcix

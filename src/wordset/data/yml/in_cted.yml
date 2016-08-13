@@ -1,0 +1,27 @@
+---
+pattern: in_cted
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 17
+score: 745407
+score_per_word: 53243
+hi_scored_words:
+  indicted: 21938
+  inducted: 34501
+  infected: 6260
+  inflected: 51430
+  inflicted: 14315
+  injected: 17282
+  inspected: 13673
+  instructed: 8636
+  interacted: 43068
+  interconnected: 22769
+  interjected: 76422
+  intersected: 58793
+scored_words:
+  infarcted: 221355
+  interdicted: 154965
+not_scored_words:
+- infracted
+- introjected
+- introspected

@@ -1,0 +1,50 @@
+---
+pattern: q_g
+hi_scored_words_count: 16
+scored_words_count: 15
+total_words: 40
+score: 3149461
+score_per_word: 101595
+hi_scored_words:
+  quaking: 54006
+  qualifying: 10611
+  quantifying: 42207
+  quarrying: 46872
+  quenching: 47492
+  querying: 39258
+  questing: 61232
+  questioning: 8490
+  queuing: 27516
+  quickening: 59818
+  quieting: 97577
+  quilting: 26389
+  quitting: 16788
+  quivering: 33685
+  quizzing: 78557
+  quoting: 10924
+scored_words:
+  quacking: 184670
+  quadrupling: 165465
+  quaffing: 153532
+  quahog: 121835
+  quarantining: 159186
+  quarreling: 100982
+  quarterbacking: 238358
+  quartering: 105446
+  quashing: 149525
+  quavering: 182339
+  queening: 243155
+  queering: 258836
+  quelling: 133714
+  quibbling: 131816
+  quisling: 159180
+not_scored_words:
+- Quisling
+- quadruplicating
+- quag
+- quailing
+- quietening
+- quintupling
+- quipping
+- quirking
+- quoiting

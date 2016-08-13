@@ -1,0 +1,31 @@
+---
+pattern: tr_able
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 21
+score: 1691458
+score_per_word: 105716
+hi_scored_words:
+  traceable: 36605
+  tractable: 48704
+  tradable: 57185
+  transferable: 26132
+  translatable: 90411
+  transportable: 55320
+  treasonable: 91328
+  treatable: 50283
+scored_words:
+  trackable: 117554
+  trainable: 115448
+  transferrable: 156140
+  transformable: 153201
+  transmittable: 230124
+  transposable: 103653
+  traversable: 183726
+  triable: 175644
+not_scored_words:
+- transmutable
+- trappable
+- treasurable
+- trisyllable
+- triturable

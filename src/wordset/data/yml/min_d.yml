@@ -1,0 +1,27 @@
+---
+pattern: min_d
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 930994
+score_per_word: 71614
+hi_scored_words:
+  minced: 28539
+  mind: 423
+  minded: 7346
+  mined: 24236
+  minefield: 43960
+  mingled: 24528
+  miniaturized: 80896
+  minimized: 21415
+  ministered: 61018
+  minted: 41315
+scored_words:
+  minored: 249916
+  minuend: 155987
+  minuted: 191415
+not_scored_words:
+- minareted
+- mineraloid
+- minified
+- miniskirted

@@ -1,0 +1,32 @@
+---
+pattern: sedu_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 22
+score: 1407973
+score_per_word: 93864
+hi_scored_words:
+  seduce: 25816
+  seduced: 29104
+  seducer: 78249
+  seduces: 47168
+  seducing: 46390
+  seduction: 20782
+  seductions: 98057
+  seductive: 20133
+  seductively: 84616
+  seductress: 98094
+  sedum: 88653
+scored_words:
+  seducers: 271654
+  seductiveness: 266828
+  sedulous: 100605
+  sedulously: 131824
+not_scored_words:
+- seducible
+- seductresses
+- sedulities
+- sedulity
+- sedulousness
+- sedulousnesses
+- sedums

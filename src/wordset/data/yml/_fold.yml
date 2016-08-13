@@ -1,0 +1,36 @@
+---
+pattern: _fold
+hi_scored_words_count: 15
+scored_words_count: 10
+total_words: 26
+score: 2456650
+score_per_word: 98266
+hi_scored_words:
+  billfold: 76328
+  blindfold: 39686
+  centerfold: 45742
+  eightfold: 97808
+  fivefold: 94575
+  fold: 5199
+  fourfold: 63272
+  gatefold: 67524
+  manifold: 12284
+  scaffold: 23448
+  sevenfold: 32086
+  tenfold: 45903
+  threefold: 35284
+  twofold: 26006
+  unfold: 18425
+scored_words:
+  enfold: 104462
+  hundredfold: 137464
+  manyfold: 178004
+  multifold: 241239
+  ninefold: 244473
+  pinfold: 182288
+  refold: 203950
+  sheepfold: 124432
+  sixfold: 145870
+  thousandfold: 210898
+not_scored_words:
+- twelvefold

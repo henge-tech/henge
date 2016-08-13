@@ -1,0 +1,23 @@
+---
+pattern: n_b
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 440859
+score_per_word: 48984
+hi_scored_words:
+  nab: 29889
+  nawab: 95082
+  neb: 38234
+  nib: 20181
+  nightclub: 19210
+  nob: 33546
+  nub: 61073
+  numb: 17946
+scored_words:
+  nabob: 125698
+not_scored_words:
+- NB
+- NLRB
+- Nb
+- Neb

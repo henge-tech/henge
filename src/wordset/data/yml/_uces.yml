@@ -1,0 +1,34 @@
+---
+pattern: _uces
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 24
+score: 1449689
+score_per_word: 90605
+hi_scored_words:
+  cruces: 34886
+  deuces: 39730
+  induces: 20929
+  introduces: 8842
+  lettuces: 82339
+  produces: 4360
+  reduces: 8348
+  reproduces: 43331
+  sauces: 20270
+  seduces: 47168
+scored_words:
+  adduces: 254269
+  conduces: 133651
+  deduces: 139903
+  reintroduces: 185005
+  spruces: 149236
+  truces: 277422
+not_scored_words:
+- Polydeuces
+- abduces
+- educes
+- fauces
+- outproduces
+- overproduces
+- prepuces
+- traduces

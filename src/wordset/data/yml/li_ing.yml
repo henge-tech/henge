@@ -1,0 +1,54 @@
+---
+pattern: li_ing
+hi_scored_words_count: 24
+scored_words_count: 7
+total_words: 44
+score: 2521743
+score_per_word: 81346
+hi_scored_words:
+  liaising: 75246
+  liberalizing: 98402
+  liberating: 29167
+  licensing: 11025
+  licking: 10220
+  lifesaving: 46115
+  lifting: 6358
+  lightening: 32999
+  lighting: 3319
+  lightning: 4617
+  liking: 10609
+  lilting: 98207
+  liming: 90740
+  limiting: 9326
+  limping: 52741
+  lingering: 20809
+  lining: 8806
+  linking: 8286
+  liquidating: 65145
+  listening: 2164
+  listing: 2404
+  litigating: 95020
+  littering: 57612
+  living: 418
+scored_words:
+  libeling: 176243
+  ligating: 267955
+  likening: 127191
+  linebreeding: 314927
+  lipreading: 308318
+  liquefying: 285516
+  lisping: 201838
+not_scored_words:
+- Liaoning
+- librating
+- ligaturing
+- limbering
+- limning
+- linting
+- lionizing
+- lipsticking
+- liquidizing
+- liquoring
+- literalizing
+- lithographing
+- livening

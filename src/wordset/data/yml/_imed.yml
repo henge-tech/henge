@@ -1,0 +1,34 @@
+---
+pattern: _imed
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 24
+score: 1316138
+score_per_word: 77419
+hi_scored_words:
+  acclaimed: 17427
+  aimed: 4872
+  chimed: 66551
+  claimed: 3460
+  disclaimed: 46829
+  exclaimed: 11737
+  maimed: 49026
+  primed: 34987
+  proclaimed: 10764
+  reclaimed: 24472
+  timed: 14219
+  unclaimed: 34648
+scored_words:
+  begrimed: 166874
+  declaimed: 193330
+  limed: 165474
+  mimed: 223461
+  mistimed: 248007
+not_scored_words:
+- counterclaimed
+- grimed
+- pantomimed
+- rimed
+- sublimed
+- unproclaimed
+- unreclaimed

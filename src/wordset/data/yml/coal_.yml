@@ -1,0 +1,34 @@
+---
+pattern: coal_
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 24
+score: 2261732
+score_per_word: 125651
+hi_scored_words:
+  coal: 3589
+  coalesce: 49554
+  coalesced: 87219
+  coalescence: 75121
+  coalescing: 88389
+  coalfield: 83867
+  coalition: 6127
+  coalitions: 25400
+  coals: 33727
+scored_words:
+  coalescent: 155305
+  coalesces: 248062
+  coalface: 266363
+  coalfields: 105197
+  coalfish: 188245
+  coaling: 152693
+  coalitional: 274962
+  coalmine: 141136
+  coalmines: 276776
+not_scored_words:
+- coaled
+- coaler
+- coalfaces
+- coalitionist
+- coalitionists
+- coaly

@@ -1,0 +1,59 @@
+---
+pattern: elec_s
+hi_scored_words_count: 14
+scored_words_count: 6
+total_words: 49
+score: 1715368
+score_per_word: 85768
+hi_scored_words:
+  elections: 3316
+  electives: 24776
+  electorates: 72343
+  electors: 22949
+  electricians: 28117
+  electrics: 28924
+  electrodes: 23931
+  electrodynamics: 66010
+  electrolysis: 32939
+  electrolytes: 37756
+  electronics: 11567
+  electrons: 19654
+  electrophoresis: 23352
+  elects: 32755
+scored_words:
+  electroacoustics: 294232
+  electrocardiograms: 168102
+  electrocutions: 322511
+  electrodialysis: 269144
+  electromagnets: 126521
+  electrostatics: 106469
+not_scored_words:
+- elecampanes
+- electioneers
+- electrifiers
+- electrifies
+- electroanalysis
+- electroballistics
+- electrocardiographs
+- electrochemistries
+- electrocutes
+- electrodynamometers
+- electroencephalograms
+- electroencephalographs
+- electrographs
+- electrokinetics
+- electrologists
+- electromechanics
+- electrometers
+- electromyographies
+- electronarcosis
+- electrophoreses
+- electrophorus
+- electroplates
+- electroscopes
+- electrotechnics
+- electrotherapeutics
+- electrothermics
+- electrotonus
+- electrotypes
+- electrums

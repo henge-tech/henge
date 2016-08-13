@@ -1,0 +1,52 @@
+---
+pattern: a_p
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 42
+score: 1211813
+score_per_word: 67322
+hi_scored_words:
+  agitprop: 88434
+  airship: 35545
+  airstrip: 45663
+  alp: 28572
+  amp: 8576
+  app: 8944
+  apprenticeship: 16149
+  archbishop: 10408
+  asap: 9172
+  asleep: 5406
+  asp: 7085
+  atop: 19635
+  authorship: 23380
+scored_words:
+  acquaintanceship: 178050
+  airdrop: 134403
+  anthrop: 241472
+  apostleship: 177501
+  associateship: 173418
+not_scored_words:
+- ADP
+- AMP
+- AP
+- ASAP
+- ATP
+- Aesop
+- Alsop
+- Amenhotep
+- Antwerp
+- Arp
+- Australorp
+- Autoharp
+- abamp
+- afterclap
+- afterdamp
+- ambassadorship
+- amidship
+- apocarp
+- archicarp
+- artisanship
+- ascocarp
+- atrip
+- attorneyship
+- avdp

@@ -1,0 +1,35 @@
+---
+pattern: _aze
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 25
+score: 1241443
+score_per_word: 65339
+hi_scored_words:
+  ablaze: 36516
+  amaze: 22870
+  blaze: 10251
+  craze: 22972
+  daze: 31033
+  faze: 56439
+  gaze: 9146
+  glaze: 21636
+  graze: 33101
+  haze: 13180
+  kamikaze: 37881
+  laze: 82736
+  maze: 12224
+  raze: 64203
+  sleaze: 51298
+scored_words:
+  braze: 141397
+  emblaze: 287270
+  stargaze: 131019
+  underglaze: 176271
+not_scored_words:
+- Lamaze
+- Naze
+- overglaze
+- overgraze
+- reglaze
+- smaze

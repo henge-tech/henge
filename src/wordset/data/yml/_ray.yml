@@ -1,0 +1,48 @@
+---
+pattern: _ray
+hi_scored_words_count: 24
+scored_words_count: 3
+total_words: 38
+score: 1252746
+score_per_word: 46398
+hi_scored_words:
+  array: 3130
+  ashtray: 28616
+  astray: 23317
+  betray: 20501
+  bray: 20166
+  chambray: 87433
+  cray: 32430
+  defray: 40774
+  disarray: 43326
+  dray: 64344
+  foray: 33794
+  fray: 19820
+  gray: 2224
+  hairspray: 37263
+  hooray: 27252
+  hurray: 47291
+  moray: 31393
+  portray: 19568
+  pray: 3393
+  ray: 2660
+  spray: 7766
+  stingray: 34708
+  stray: 12181
+  tray: 6618
+scored_words:
+  affray: 126408
+  bewray: 191019
+  respray: 285351
+not_scored_words:
+- Bray
+- Charbray
+- Cray
+- Gray
+- McCray
+- Moray
+- Murray
+- Ray
+- Thackeray
+- Vouvray
+- estray

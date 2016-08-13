@@ -1,0 +1,23 @@
+---
+pattern: a_ue
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 341389
+score_per_word: 37932
+hi_scored_words:
+  accrue: 23791
+  ague: 71783
+  analogue: 19157
+  antique: 4733
+  applique: 42060
+  arabesque: 47885
+  argue: 4689
+  avenue: 2912
+scored_words:
+  apologue: 124379
+not_scored_words:
+- Albuquerque
+- Angelique
+- antimasque
+- autocue

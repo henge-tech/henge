@@ -1,0 +1,30 @@
+---
+pattern: b_dy
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 20
+score: 1232539
+score_per_word: 77033
+hi_scored_words:
+  baldy: 48292
+  bandy: 45189
+  bawdy: 57669
+  beady: 83254
+  bendy: 84658
+  biddy: 58431
+  blackbody: 77987
+  bloody: 5031
+  body: 297
+  brandy: 10329
+  buddy: 6763
+  burgundy: 11047
+scored_words:
+  baddy: 257660
+  bastardy: 241740
+  broody: 141303
+  busybody: 102889
+not_scored_words:
+- Brady
+- Brandy
+- Buddy
+- Burgundy

@@ -1,0 +1,52 @@
+---
+pattern: e_o
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 42
+score: 703289
+score_per_word: 50234
+hi_scored_words:
+  echo: 4047
+  ego: 9375
+  electro: 8897
+  embarcadero: 61127
+  embargo: 20130
+  embryo: 13842
+  emo: 26092
+  ergo: 23826
+  escudo: 56721
+  espresso: 12503
+  euro: 6733
+  expo: 8241
+scored_words:
+  eddo: 305553
+  esparto: 146202
+not_scored_words:
+- EEO
+- Ebro
+- Echo
+- Eco
+- Edgardo
+- Edo
+- Eduardo
+- Edwardo
+- Eggo
+- Eliseo
+- Elmo
+- Emilio
+- Enesco
+- Enrico
+- Enyo
+- Erato
+- Ernesto
+- Escondido
+- Eskimo
+- Esperanto
+- Espoo
+- Essequibo
+- Eugenio
+- Euro
+- eighteenmo
+- eringo
+- erugo
+- eryngo

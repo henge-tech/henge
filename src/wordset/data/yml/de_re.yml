@@ -1,0 +1,34 @@
+---
+pattern: de_re
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 24
+score: 860270
+score_per_word: 78206
+hi_scored_words:
+  debenture: 65384
+  declare: 5379
+  demure: 55568
+  denture: 41334
+  departure: 3435
+  deplore: 56963
+  derriere: 99156
+  desire: 1924
+scored_words:
+  delftware: 282681
+  denature: 143546
+  derrière: 104900
+not_scored_words:
+- Deandre
+- Deere
+- Deidre
+- Deirdre
+- Delaware
+- Denbighshire
+- Derbyshire
+- Devonshire
+- decare
+- decastere
+- deciare
+- declinature
+- depicture

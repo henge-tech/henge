@@ -1,0 +1,39 @@
+---
+pattern: rem_d
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 29
+score: 1724259
+score_per_word: 78375
+hi_scored_words:
+  remained: 2522
+  remand: 29693
+  remanded: 33095
+  remarked: 10075
+  remarried: 46742
+  remastered: 19901
+  remedied: 40002
+  remembered: 3828
+  remind: 5449
+  reminded: 6113
+  remitted: 42765
+  remixed: 31135
+  remodeled: 28666
+  removed: 1530
+  remunerated: 84274
+scored_words:
+  remaindered: 195200
+  remapped: 146307
+  remeasured: 289880
+  reminisced: 127476
+  remolded: 299985
+  remonstrated: 123094
+  remounted: 156527
+not_scored_words:
+- Remscheid
+- rematerialized
+- remelted
+- remigrated
+- remilitarized
+- remold
+- remortgaged

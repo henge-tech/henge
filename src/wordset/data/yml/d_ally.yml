@@ -1,0 +1,62 @@
+---
+pattern: d_ally
+hi_scored_words_count: 15
+scored_words_count: 16
+total_words: 52
+score: 3708991
+score_per_word: 119644
+hi_scored_words:
+  dally: 55644
+  democratically: 34161
+  demographically: 96585
+  developmentally: 37617
+  diagonally: 39837
+  diametrically: 53350
+  differentially: 46734
+  digitally: 15697
+  dimensionally: 91389
+  diplomatically: 78768
+  domestically: 29274
+  dramatically: 10422
+  drastically: 16619
+  dually: 69872
+  dynamically: 17237
+scored_words:
+  deferentially: 267699
+  dentally: 332792
+  departmentally: 281563
+  deterministically: 146006
+  detrimentally: 157752
+  diabolically: 208954
+  diagnostically: 178027
+  diagrammatically: 174538
+  dialectically: 231232
+  directionally: 111000
+  dismally: 108841
+  disproportionally: 261124
+  distally: 102055
+  doctrinally: 182998
+  dogmatically: 148637
+  dorsally: 122567
+not_scored_words:
+- decagonally
+- decennially
+- decimally
+- deistically
+- demagogically
+- demoniacally
+- demonically
+- despotically
+- dextrally
+- diacritically
+- diatonically
+- dictatorially
+- didactically
+- dillydally
+- disloyally
+- diurnally
+- doolally
+- dramaturgically
+- dualistically
+- dynastically
+- dysfunctionally

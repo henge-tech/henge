@@ -1,0 +1,40 @@
+---
+pattern: p_ntly
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 30
+score: 1828855
+score_per_word: 107579
+hi_scored_words:
+  patently: 46168
+  patiently: 16355
+  permanently: 7298
+  persistently: 31851
+  pleasantly: 15758
+  poignantly: 95674
+  predominantly: 17150
+  presently: 5440
+  prominently: 15422
+  prudently: 58339
+scored_words:
+  penitently: 251339
+  pertinently: 237046
+  petulantly: 216762
+  potently: 141159
+  preeminently: 208708
+  prevalently: 308711
+  proficiently: 155675
+not_scored_words:
+- percipiently
+- phosphorescently
+- piquantly
+- plangently
+- pliantly
+- pregnantly
+- preponderantly
+- presciently
+- protuberantly
+- providently
+- pruriently
+- puissantly
+- pungently

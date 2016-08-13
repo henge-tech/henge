@@ -1,0 +1,26 @@
+---
+pattern: _body
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 660733
+score_per_word: 55061
+hi_scored_words:
+  antibody: 8485
+  anybody: 2956
+  blackbody: 77987
+  body: 297
+  embody: 25760
+  everybody: 2274
+  nobody: 2279
+  somebody: 2919
+scored_words:
+  busybody: 102889
+  dogsbody: 158126
+  homebody: 155165
+  underbody: 121596
+not_scored_words:
+- Peabody
+- afterbody
+- disembody
+- reembody

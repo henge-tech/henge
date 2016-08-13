@@ -1,0 +1,44 @@
+---
+pattern: i_tely
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 34
+score: 1311624
+score_per_word: 77154
+hi_scored_words:
+  immaculately: 71322
+  immediately: 1124
+  inaccurately: 78868
+  inadequately: 48067
+  inappropriately: 38229
+  incompletely: 70266
+  indefinitely: 14614
+  indiscriminately: 47969
+  infinitely: 13373
+  innately: 76176
+  inordinately: 86445
+  intimately: 25834
+  intricately: 51780
+scored_words:
+  illegitimately: 208643
+  immoderately: 122022
+  inconsiderately: 166294
+  irresolutely: 190598
+not_scored_words:
+- illiterately
+- impolitely
+- importunately
+- inanimately
+- inarticulately
+- inchoately
+- incommensurately
+- indelicately
+- indeterminately
+- insatiately
+- insensately
+- insubordinately
+- intemperately
+- intermediately
+- inveterately
+- inviolately
+- irately

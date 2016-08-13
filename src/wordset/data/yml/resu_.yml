@@ -1,0 +1,70 @@
+---
+pattern: resu_
+hi_scored_words_count: 25
+scored_words_count: 17
+total_words: 60
+score: 4755227
+score_per_word: 113219
+hi_scored_words:
+  resubmit: 29456
+  resubmitted: 78351
+  result: 453
+  resultant: 20033
+  resulted: 4403
+  resulting: 2932
+  results: 568
+  resume: 3897
+  resumed: 10260
+  resumes: 12568
+  resuming: 33840
+  resumption: 31372
+  resupply: 65084
+  resurface: 66101
+  resurfaced: 61986
+  resurfacing: 38901
+  resurgence: 30830
+  resurgent: 71261
+  resurrect: 41556
+  resurrected: 37224
+  resurrecting: 79206
+  resurrection: 9062
+  resuscitate: 64150
+  resuscitated: 99118
+  resuscitation: 36609
+scored_words:
+  resubmission: 112930
+  resubmissions: 337253
+  resubmits: 325861
+  resubmitting: 152244
+  resubscribe: 271790
+  resultants: 241281
+  resumptive: 321236
+  resupplied: 266135
+  resurfaces: 111666
+  resurge: 184606
+  resurrectionist: 170405
+  resurrections: 188248
+  resurrects: 130391
+  resurvey: 235418
+  resuscitating: 249461
+  resuscitative: 293966
+  resuscitator: 233115
+not_scored_words:
+- Resurrection
+- resubscribed
+- resubscribes
+- resubscribing
+- resumable
+- resummon
+- resumptions
+- resupinate
+- resupine
+- resupplies
+- resupplying
+- resurgences
+- resurrectionism
+- resurveyed
+- resurveying
+- resurveys
+- resuscitates
+- resuscitators

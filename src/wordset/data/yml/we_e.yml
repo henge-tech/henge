@@ -1,0 +1,39 @@
+---
+pattern: we_e
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 29
+score: 1141895
+score_per_word: 63438
+hi_scored_words:
+  we're: 1870
+  we've: 3021
+  wearable: 31174
+  wearisome: 77583
+  weave: 12900
+  webpage: 11221
+  website: 379
+  wedge: 12265
+  wedgie: 65458
+  wee: 8210
+  weenie: 49112
+  welcome: 728
+  welfare: 3062
+  were: 58
+scored_words:
+  weighbridge: 150210
+  weldable: 286044
+  wettable: 197575
+  wetware: 231025
+not_scored_words:
+- Welfare
+- Wensleydale
+- Westinghouse
+- weaponize
+- weatherize
+- webisode
+- weepie
+- weirdie
+- wellie
+- wernerite
+- westernize

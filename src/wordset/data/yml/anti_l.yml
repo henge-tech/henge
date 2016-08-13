@@ -1,0 +1,35 @@
+---
+pattern: anti_l
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 25
+score: 1047116
+score_per_word: 87259
+hi_scored_words:
+  antibacterial: 36022
+  anticlerical: 68557
+  antifungal: 47186
+  antimalarial: 98128
+  antimicrobial: 26987
+  antisocial: 30105
+  antithetical: 61409
+  antiviral: 34901
+scored_words:
+  antiparallel: 122945
+  antipersonnel: 131517
+  antiphonal: 204019
+  antipodal: 185340
+not_scored_words:
+- antialcohol
+- anticholesterol
+- anticlinal
+- anticolonial
+- antidiarrheal
+- antidotal
+- antiliberal
+- antimonial
+- antimonyl
+- antinovel
+- antipathetical
+- antiradical
+- antirational

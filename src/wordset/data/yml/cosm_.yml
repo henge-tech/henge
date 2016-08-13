@@ -1,0 +1,56 @@
+---
+pattern: cosm_
+hi_scored_words_count: 12
+scored_words_count: 12
+total_words: 46
+score: 2422487
+score_per_word: 100936
+hi_scored_words:
+  cosmetic: 18094
+  cosmetics: 17533
+  cosmetology: 43827
+  cosmic: 11032
+  cosmogony: 87036
+  cosmography: 82770
+  cosmological: 32839
+  cosmology: 22699
+  cosmonaut: 68772
+  cosmonauts: 84611
+  cosmopolitan: 17155
+  cosmos: 17260
+scored_words:
+  cosmetically: 103805
+  cosmetologist: 115209
+  cosmetologists: 214175
+  cosmical: 141118
+  cosmically: 263483
+  cosmologies: 144123
+  cosmologist: 243576
+  cosmologists: 143402
+  cosmopolis: 137039
+  cosmopolitanism: 107375
+  cosmopolitans: 191793
+  cosmopolite: 113761
+not_scored_words:
+- Cosmotron
+- cosmetician
+- cosmeticians
+- cosmetological
+- cosmism
+- cosmochemical
+- cosmochemistry
+- cosmogonic
+- cosmogonical
+- cosmogonies
+- cosmogonist
+- cosmogonists
+- cosmographer
+- cosmographers
+- cosmographies
+- cosmologic
+- cosmologically
+- cosmonautics
+- cosmopolitanize
+- cosmopolites
+- cosmorama
+- cosmoses

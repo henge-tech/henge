@@ -1,0 +1,46 @@
+---
+pattern: p_ary
+hi_scored_words_count: 17
+scored_words_count: 5
+total_words: 36
+score: 1283163
+score_per_word: 58325
+hi_scored_words:
+  papillary: 54094
+  paramilitary: 30535
+  parliamentary: 6545
+  pecuniary: 30064
+  penitentiary: 31207
+  pituitary: 25623
+  planetary: 13497
+  plenary: 21153
+  plenipotentiary: 55401
+  prebendary: 49207
+  precautionary: 33023
+  preliminary: 3869
+  primary: 2117
+  probationary: 41160
+  proprietary: 5502
+  prothonotary: 96738
+  pulmonary: 13432
+scored_words:
+  peccary: 135710
+  pensionary: 119891
+  pessary: 183328
+  pigmentary: 219676
+  pupillary: 111391
+not_scored_words:
+- Peary
+- palmary
+- parcenary
+- perlocutionary
+- petitionary
+- piscary
+- plagiary
+- plebiscitary
+- polypary
+- preambulary
+- prerevolutionary
+- primogenitary
+- promilitary
+- prorevolutionary

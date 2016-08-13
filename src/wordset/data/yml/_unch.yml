@@ -1,0 +1,32 @@
+---
+pattern: _unch
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 22
+score: 845519
+score_per_word: 56367
+hi_scored_words:
+  brunch: 20338
+  bunch: 3965
+  counterpunch: 72536
+  crunch: 19790
+  hunch: 35728
+  launch: 3920
+  lunch: 2677
+  munch: 31361
+  punch: 6316
+  relaunch: 50164
+  staunch: 30074
+scored_words:
+  haunch: 148959
+  paunch: 120087
+  prelaunch: 194652
+  scrunch: 104952
+not_scored_words:
+- Munch
+- Punch
+- craunch
+- flaunch
+- honeybunch
+- keypunch
+- postlaunch

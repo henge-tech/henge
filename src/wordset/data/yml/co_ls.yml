@@ -1,0 +1,62 @@
+---
+pattern: co_ls
+hi_scored_words_count: 20
+scored_words_count: 10
+total_words: 52
+score: 2329711
+score_per_word: 77657
+hi_scored_words:
+  coals: 33727
+  cocktails: 22208
+  coils: 18124
+  colonels: 43640
+  colonials: 54328
+  cols: 42409
+  commercials: 9550
+  compels: 42298
+  conceals: 50670
+  conditionals: 62367
+  consuls: 48581
+  controls: 5303
+  cools: 32542
+  corals: 31277
+  cordials: 99087
+  corrals: 97243
+  councils: 7033
+  counsels: 35536
+  coveralls: 59665
+  cowgirls: 60678
+scored_words:
+  coattails: 123392
+  cockatiels: 121923
+  confessionals: 162217
+  consols: 238132
+  continentals: 157843
+  contrails: 110433
+  corbels: 107810
+  corporals: 133445
+  cowbells: 151824
+  cowls: 166426
+not_scored_words:
+- COBOLs
+- cockateels
+- cockerels
+- cockleshells
+- codicils
+- coequals
+- coevals
+- cogwheels
+- commensals
+- committals
+- congeals
+- constitutionals
+- copals
+- cornballs
+- cornels
+- coronals
+- cortisols
+- cottontails
+- coucals
+- counterfoils
+- counterproposals
+- countervails

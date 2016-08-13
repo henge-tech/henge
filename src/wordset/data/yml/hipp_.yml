@@ -1,0 +1,36 @@
+---
+pattern: hipp_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 26
+score: 820820
+score_per_word: 68401
+hi_scored_words:
+  hippie: 23574
+  hippies: 33629
+  hippo: 28243
+  hippocampus: 33594
+  hippodrome: 57501
+  hippopotamus: 45519
+  hippos: 49208
+  hippy: 38664
+scored_words:
+  hipped: 103219
+  hipper: 117180
+  hippest: 104746
+  hippogriff: 185743
+not_scored_words:
+- Hipparchus
+- Hippocrates
+- Hippocratic
+- Hippocrene
+- Hippolytus
+- Hippomenes
+- hipparch
+- hippiedom
+- hipping
+- hippocampi
+- hippocras
+- hippodromes
+- hippopotamuses
+- hippopotomonstrosesquipedalian

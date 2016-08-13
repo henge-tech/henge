@@ -1,0 +1,30 @@
+---
+pattern: prog_s
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 20
+score: 1215137
+score_per_word: 86795
+hi_scored_words:
+  progenitors: 57765
+  prognosis: 16079
+  programmers: 8649
+  programs: 2512
+  progress: 1158
+  progresses: 23714
+  progressions: 48948
+  progressives: 30399
+scored_words:
+  progestins: 117305
+  prognoses: 164149
+  prognostications: 118344
+  prognosticators: 242566
+  prognostics: 148997
+  progressiveness: 234552
+not_scored_words:
+- proglottis
+- prognathous
+- prognosticates
+- programmables
+- programmings
+- progressivities

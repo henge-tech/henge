@@ -1,0 +1,33 @@
+---
+pattern: p_ral
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 23
+score: 797569
+score_per_word: 56969
+hi_scored_words:
+  parenteral: 39736
+  pastoral: 10223
+  pectoral: 49891
+  peripheral: 17730
+  pleural: 33353
+  plural: 12821
+  polyhedral: 61637
+  postdoctoral: 27419
+  postural: 51816
+  prefectural: 56644
+  procedural: 11457
+  puerperal: 87916
+scored_words:
+  penumbral: 228897
+  preternatural: 108029
+not_scored_words:
+- patrilateral
+- peripteral
+- photomural
+- piscicultural
+- preagricultural
+- prefectoral
+- preinaugural
+- presbyteral
+- procathedral

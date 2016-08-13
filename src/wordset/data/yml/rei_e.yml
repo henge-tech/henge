@@ -1,0 +1,35 @@
+---
+pattern: rei_e
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 25
+score: 1627529
+score_per_word: 108501
+hi_scored_words:
+  reimbursable: 75707
+  reimburse: 29455
+  reinforce: 13609
+  reinstate: 32209
+  reinsurance: 31428
+  reintroduce: 64994
+  reinvigorate: 85689
+  reissue: 21499
+  reiterate: 32002
+scored_words:
+  reignite: 164561
+  reimpose: 302573
+  reincarnate: 122795
+  reinitialize: 204312
+  reinsure: 331658
+  reintegrate: 115038
+not_scored_words:
+- reincorporate
+- reinduce
+- reinflame
+- reinflate
+- reinfuse
+- reinoculate
+- reinscribe
+- reinvestigate
+- reiterative
+- reive

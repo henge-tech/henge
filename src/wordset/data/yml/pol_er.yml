@@ -1,0 +1,25 @@
+---
+pattern: pol_er
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 15
+score: 1252458
+score_per_word: 96342
+hi_scored_words:
+  polarizer: 62711
+  polder: 70896
+  policyholder: 61661
+  polisher: 66831
+  pollster: 71708
+  polluter: 79647
+  polyester: 16923
+  polymer: 14357
+scored_words:
+  polarimeter: 157459
+  poler: 185674
+  policymaker: 121127
+  politicker: 139348
+  poller: 204116
+not_scored_words:
+- politer
+- polygrapher

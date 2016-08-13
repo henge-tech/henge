@@ -1,0 +1,26 @@
+---
+pattern: _geon
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1182436
+score_per_word: 90956
+hi_scored_words:
+  bludgeon: 80750
+  curmudgeon: 54451
+  dudgeon: 88841
+  dungeon: 10745
+  neurosurgeon: 66683
+  pigeon: 11295
+  sturgeon: 26090
+  surgeon: 6274
+scored_words:
+  burgeon: 165249
+  chirurgeon: 338758
+  gudgeon: 103215
+  widgeon: 118726
+  wigeon: 111359
+not_scored_words:
+- bourgeon
+- habergeon
+- haubergeon

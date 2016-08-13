@@ -1,0 +1,67 @@
+---
+pattern: ci_e
+hi_scored_words_count: 16
+scored_words_count: 13
+total_words: 57
+score: 2617671
+score_per_word: 90264
+hi_scored_words:
+  cigarette: 5540
+  ciliate: 86493
+  cimetidine: 68700
+  cine: 22355
+  cinque: 49993
+  circle: 2017
+  circulate: 21538
+  circumference: 19226
+  circumstance: 9055
+  cirque: 23589
+  cisalpine: 65490
+  cite: 8355
+  citrate: 25126
+  citrine: 41666
+  cityscape: 44706
+  citywide: 42483
+scored_words:
+  cicerone: 112209
+  cilice: 236068
+  cineaste: 260439
+  cinematheque: 109678
+  circumambulate: 181784
+  circumcise: 110167
+  circumnavigate: 145067
+  circumscribe: 111456
+  circumvallate: 158911
+  cire: 140801
+  cisternae: 232583
+  citable: 168690
+  civilize: 113486
+not_scored_words:
+- Cimabue
+- CinemaScope
+- Cinemascope
+- Circe
+- cicatrize
+- ciliolate
+- cinchonidine
+- cinchonine
+- cinchonize
+- cincture
+- cinematize
+- circinate
+- circularize
+- circulative
+- circumambience
+- circumfuse
+- circumnutate
+- circumrotate
+- circumscissile
+- circumstantiate
+- circumventive
+- cirrate
+- cirrose
+- cismontane
+- cispadane
+- citole
+- citrange
+- citriculture

@@ -1,0 +1,33 @@
+---
+pattern: g_der
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 23
+score: 1613839
+score_per_word: 84938
+hi_scored_words:
+  gallbladder: 35136
+  gander: 35750
+  gender: 6390
+  gilder: 55982
+  girder: 46306
+  glider: 20919
+  goaltender: 41721
+  grader: 25797
+  grander: 57533
+  grinder: 21354
+  guilder: 44277
+  gunpowder: 26095
+scored_words:
+  gasholder: 244238
+  gerrymander: 141437
+  gladder: 180551
+  goosander: 201025
+  grounder: 102633
+  guarder: 216134
+  guider: 110561
+not_scored_words:
+- Greenlander
+- gadder
+- germander
+- grandstander

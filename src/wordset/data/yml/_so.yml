@@ -1,0 +1,61 @@
+---
+pattern: _so
+hi_scored_words_count: 17
+scored_words_count: 8
+total_words: 51
+score: 2008791
+score_per_word: 80351
+hi_scored_words:
+  also: 80
+  basso: 41745
+  calypso: 28918
+  espresso: 12503
+  fatso: 87417
+  gesso: 87388
+  lasso: 31374
+  miso: 39155
+  peso: 18301
+  piso: 53816
+  proviso: 41187
+  sargasso: 92974
+  so: 45
+  torso: 21307
+  verso: 28669
+  virtuoso: 29325
+  whoso: 80020
+scored_words:
+  amoroso: 107619
+  arioso: 232060
+  canso: 140918
+  dipso: 248817
+  maestoso: 146096
+  mafioso: 125128
+  nitroso: 139624
+  reverso: 174305
+not_scored_words:
+- Alfonso
+- Alphonso
+- Calypso
+- Canso
+- Caruso
+- DMSO
+- ISO
+- Kelso
+- Lombroso
+- Mafioso
+- Picasso
+- Russo
+- SO
+- Sargasso
+- So
+- Tasso
+- Treviso
+- USO
+- Valparaiso
+- affettuoso
+- capriccioso
+- doloroso
+- gracioso
+- grandioso
+- oloroso
+- spiritoso

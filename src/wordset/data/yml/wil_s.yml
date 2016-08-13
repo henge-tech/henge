@@ -1,0 +1,38 @@
+---
+pattern: wil_s
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 28
+score: 1170432
+score_per_word: 68848
+hi_scored_words:
+  wildcats: 14884
+  wilderness: 5098
+  wildfires: 46437
+  wildflowers: 32144
+  wildness: 53403
+  wilds: 40409
+  wiles: 41875
+  willies: 71479
+  willingness: 9126
+  willows: 25789
+  wills: 10438
+  wilts: 50924
+scored_words:
+  wildebeests: 104010
+  wildernesses: 120979
+  wilfulness: 250868
+  willets: 135228
+  willfulness: 157341
+not_scored_words:
+- Wilderness
+- Wiles
+- Wilkes
+- Wilkins
+- Williams
+- Willis
+- Wiltons
+- wildcatters
+- wiliness
+- williwaws
+- willowwares

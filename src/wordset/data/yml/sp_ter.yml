@@ -1,0 +1,35 @@
+---
+pattern: sp_ter
+hi_scored_words_count: 16
+scored_words_count: 8
+total_words: 25
+score: 2150964
+score_per_word: 89623
+hi_scored_words:
+  spatter: 90866
+  specter: 28091
+  spectrometer: 26902
+  spectrophotometer: 72326
+  speedometer: 48600
+  speedster: 67873
+  sphincter: 38300
+  spinster: 38054
+  splatter: 44246
+  splinter: 19215
+  splitter: 23938
+  sportscaster: 92978
+  sportswriter: 93798
+  spotter: 34598
+  sprinter: 32747
+  sputter: 77266
+scored_words:
+  spectroradiometer: 125994
+  speechwriter: 107594
+  spelter: 228902
+  sphygmomanometer: 153465
+  spirometer: 179765
+  spitter: 160654
+  splutter: 195380
+  spymaster: 169412
+not_scored_words:
+- spouter

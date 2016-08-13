@@ -1,0 +1,39 @@
+---
+pattern: man_a
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 29
+score: 1048817
+score_per_word: 65551
+hi_scored_words:
+  mana: 15723
+  manana: 78854
+  mandala: 43248
+  manga: 15297
+  mania: 12144
+  manila: 8231
+  manna: 32207
+  manta: 36232
+  mantra: 19557
+  mantua: 39619
+  manzanita: 70265
+scored_words:
+  mandola: 157045
+  mandragora: 147367
+  mantilla: 100804
+  mantissa: 109646
+  manzanilla: 162578
+not_scored_words:
+- Managua
+- Manama
+- Manchuria
+- Mandela
+- Manila
+- Manisa
+- Manitoba
+- Mantegna
+- Mantinea
+- Mantua
+- Manuela
+- mandorla
+- mantelletta

@@ -1,0 +1,31 @@
+---
+pattern: brie_
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 21
+score: 480147
+score_per_word: 36934
+hi_scored_words:
+  brie: 39253
+  brief: 1725
+  briefcase: 19382
+  briefcases: 44571
+  briefed: 26250
+  briefer: 67083
+  briefest: 84222
+  briefing: 7370
+  briefings: 17707
+  briefly: 5105
+  briefs: 16714
+  brier: 47805
+scored_words:
+  briers: 102960
+not_scored_words:
+- Brie
+- Bries
+- briefless
+- briefness
+- brierroot
+- brierwood
+- brierwoods
+- briery

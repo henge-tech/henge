@@ -1,0 +1,34 @@
+---
+pattern: mono_e
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 24
+score: 1014952
+score_per_word: 72496
+hi_scored_words:
+  monochrome: 23777
+  monocle: 97951
+  monoculture: 87833
+  monocyte: 70162
+  monologue: 28637
+  monopole: 76593
+  monopolize: 62506
+  monosyllable: 82610
+  monotone: 24334
+  monotype: 60073
+  monoxide: 20602
+scored_words:
+  monocoque: 127979
+  monoplane: 114364
+  monosaccharide: 137531
+not_scored_words:
+- Monophysite
+- Monotype
+- monochloride
+- monocline
+- monocycle
+- monopode
+- monosome
+- monostome
+- monostrophe
+- monovalence

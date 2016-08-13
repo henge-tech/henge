@@ -1,0 +1,23 @@
+---
+pattern: appl_s
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 277655
+score_per_word: 30850
+hi_scored_words:
+  applauds: 50866
+  apples: 9086
+  applets: 37370
+  appliances: 6605
+  applicants: 7985
+  applications: 3179
+  applicators: 57092
+  applies: 3356
+scored_words:
+  appliques: 102116
+not_scored_words:
+- applauders
+- applecarts
+- appliers
+- appliqués

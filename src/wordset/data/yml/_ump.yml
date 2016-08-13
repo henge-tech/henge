@@ -1,0 +1,38 @@
+---
+pattern: _ump
+hi_scored_words_count: 18
+scored_words_count: 2
+total_words: 28
+score: 919016
+score_per_word: 45950
+hi_scored_words:
+  bump: 10330
+  chump: 39856
+  clump: 31842
+  crump: 46135
+  dump: 10483
+  grump: 96903
+  hump: 21899
+  jump: 2098
+  lump: 9694
+  plump: 11862
+  pump: 4572
+  rump: 33749
+  slump: 28773
+  stump: 15676
+  sump: 33812
+  thump: 29315
+  trump: 12756
+  ump: 47428
+scored_words:
+  frump: 251487
+  mugwump: 180346
+not_scored_words:
+- Trump
+- buckjump
+- flump
+- gazump
+- mump
+- overtrump
+- scrump
+- undertrump

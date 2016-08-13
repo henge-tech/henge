@@ -1,0 +1,42 @@
+---
+pattern: k_ers
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 32
+score: 1172553
+score_per_word: 78170
+hi_scored_words:
+  keepers: 17137
+  kickers: 42445
+  kidnappers: 39295
+  killers: 10561
+  kilometers: 13339
+  kingfishers: 97669
+  knackers: 75603
+  knickers: 29827
+  knitters: 64730
+  knockers: 31469
+scored_words:
+  kaisers: 198374
+  kindergartners: 112074
+  kippers: 152626
+  kissers: 173832
+  knickerbockers: 113572
+not_scored_words:
+- Kaisers
+- Khmers
+- keisters
+- keyboarders
+- keynoters
+- keypunchers
+- kibitzers
+- kicksorters
+- kidders
+- killdeers
+- kiloliters
+- kindergärtners
+- kingmakers
+- kneaders
+- knuckledusters
+- koshers
+- kvetchers

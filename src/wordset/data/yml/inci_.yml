@@ -1,0 +1,55 @@
+---
+pattern: inci_
+hi_scored_words_count: 24
+scored_words_count: 8
+total_words: 45
+score: 2820530
+score_per_word: 88141
+hi_scored_words:
+  incidence: 13681
+  incidences: 51392
+  incident: 3005
+  incidental: 10962
+  incidentally: 14542
+  incidentals: 78380
+  incidents: 5714
+  incinerate: 78724
+  incinerated: 73841
+  incineration: 36980
+  incinerator: 39945
+  incinerators: 61046
+  incipient: 39048
+  incised: 59392
+  incision: 25894
+  incisions: 57381
+  incisive: 37220
+  incisor: 72751
+  incisors: 82207
+  incite: 32218
+  incited: 64867
+  incitement: 52090
+  incites: 98572
+  inciting: 47864
+scored_words:
+  incinerating: 187549
+  incipit: 132643
+  incise: 170065
+  incising: 281615
+  incisively: 290070
+  incitation: 202155
+  incitements: 269747
+  incivility: 148970
+not_scored_words:
+- incinerates
+- incing
+- incipience
+- incipiencies
+- incipiency
+- incipiently
+- incises
+- incisiveness
+- incisure
+- incitations
+- inciter
+- inciters
+- incivilities

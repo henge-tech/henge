@@ -1,0 +1,70 @@
+---
+pattern: lo_r
+hi_scored_words_count: 24
+scored_words_count: 13
+total_words: 60
+score: 2765487
+score_per_word: 74742
+hi_scored_words:
+  loader: 17106
+  loafer: 44719
+  loaner: 84862
+  lobster: 12330
+  locator: 19458
+  locker: 12795
+  locomotor: 65943
+  lodger: 32837
+  logger: 28176
+  loiter: 83794
+  loner: 41962
+  longer: 734
+  longhair: 88919
+  looker: 50970
+  looper: 47015
+  looser: 43039
+  lorimer: 62648
+  loser: 13348
+  louder: 12452
+  loudspeaker: 30768
+  lounger: 71756
+  louver: 98595
+  lover: 3600
+  lower: 742
+scored_words:
+  lobar: 112543
+  lodestar: 116849
+  loftier: 108636
+  loiterer: 180824
+  lonelier: 195527
+  longspur: 194533
+  longueur: 128964
+  looter: 111506
+  loper: 115212
+  lopper: 128993
+  loquitur: 117677
+  lour: 179763
+  lovelier: 105892
+not_scored_words:
+- Loafer
+- Lochinvar
+- Lockyer
+- Londoner
+- Lower
+- loamier
+- loather
+- loathlier
+- lobber
+- lobbyer
+- locular
+- logier
+- logroller
+- loller
+- loonier
+- loopier
+- lordlier
+- loudhailer
+- lousier
+- louvar
+- lowlander
+- lowlier
+- loyaler

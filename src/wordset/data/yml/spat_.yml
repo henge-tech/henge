@@ -1,0 +1,30 @@
+---
+pattern: spat_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1638361
+score_per_word: 117025
+hi_scored_words:
+  spat: 23764
+  spate: 40311
+  spatial: 8662
+  spatially: 30524
+  spatiotemporal: 89450
+  spats: 95238
+  spatter: 90866
+  spatula: 35113
+  spatulas: 94554
+scored_words:
+  spates: 292679
+  spathe: 273921
+  spattered: 100577
+  spattering: 185691
+  spatters: 277011
+not_scored_words:
+- spathes
+- spathic
+- spathose
+- spatted
+- spatterdash
+- spatting

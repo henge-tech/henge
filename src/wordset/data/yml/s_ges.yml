@@ -1,0 +1,57 @@
+---
+pattern: s_ges
+hi_scored_words_count: 14
+scored_words_count: 14
+total_words: 47
+score: 3901377
+score_per_word: 139334
+hi_scored_words:
+  sages: 28345
+  sausages: 26420
+  savages: 22991
+  sedges: 91980
+  shortages: 25569
+  sieges: 79997
+  smudges: 86149
+  sponges: 33220
+  stages: 3989
+  stooges: 31304
+  stoppages: 79008
+  surcharges: 49316
+  surges: 32137
+  syringes: 33930
+scored_words:
+  sabotages: 165578
+  salvages: 240042
+  sarges: 313851
+  scourges: 129463
+  scrimmages: 179346
+  singes: 294585
+  sledges: 104201
+  slippages: 316410
+  spillages: 151776
+  submerges: 279536
+  subterfuges: 252491
+  suffrages: 223031
+  supercharges: 298803
+  swinges: 327909
+not_scored_words:
+- sacrileges
+- saxifrages
+- scalages
+- scavenges
+- scrooges
+- scrounges
+- scrummages
+- seigniorages
+- selvages
+- selvedges
+- shortchanges
+- soakages
+- socages
+- splodges
+- splurges
+- stodges
+- straightedges
+- surplusages
+- swages

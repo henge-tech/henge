@@ -1,0 +1,38 @@
+---
+pattern: b_ning
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 28
+score: 1402695
+score_per_word: 73826
+hi_scored_words:
+  ballooning: 37330
+  banning: 22320
+  bargaining: 10999
+  beckoning: 60443
+  beginning: 889
+  binning: 64719
+  boning: 58495
+  brightening: 50215
+  broadening: 29212
+  browning: 14936
+  burdening: 94398
+  burgeoning: 29662
+  burning: 2477
+scored_words:
+  bemoaning: 101001
+  betokening: 204783
+  blackening: 112108
+  blazoning: 209463
+  bludgeoning: 149323
+  buttoning: 149922
+not_scored_words:
+- Browning
+- battening
+- beaning
+- bedizening
+- bourgeoning
+- braining
+- brazening
+- bulletining
+- burthening

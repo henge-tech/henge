@@ -1,0 +1,58 @@
+---
+pattern: b_ding
+hi_scored_words_count: 30
+scored_words_count: 5
+total_words: 48
+score: 1941009
+score_per_word: 55457
+hi_scored_words:
+  backsliding: 83688
+  balding: 45908
+  banding: 30281
+  beading: 35502
+  bedding: 9165
+  befriending: 78700
+  beheading: 57515
+  beholding: 62782
+  bending: 9084
+  bidding: 4245
+  biding: 82488
+  binding: 3477
+  birding: 29043
+  blading: 94831
+  bleeding: 6256
+  blending: 15935
+  blinding: 28357
+  boarding: 9067
+  bodybuilding: 18975
+  bombarding: 82665
+  bonding: 14801
+  bookbinding: 70453
+  bounding: 27676
+  braiding: 64295
+  branding: 15108
+  breastfeeding: 13895
+  breeding: 5931
+  brooding: 27139
+  budding: 19809
+  building: 536
+scored_words:
+  barricading: 253279
+  blockading: 116586
+  bobsledding: 212703
+  boding: 187938
+  breading: 122896
+not_scored_words:
+- backhanding
+- bearding
+- beclouding
+- begirding
+- bestriding
+- betiding
+- bielding
+- biodegrading
+- blindfolding
+- blindsiding
+- blooding
+- broadsiding
+- brocading

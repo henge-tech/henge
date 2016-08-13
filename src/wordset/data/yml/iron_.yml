@@ -1,0 +1,45 @@
+---
+pattern: iron_
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 35
+score: 2303953
+score_per_word: 95998
+hi_scored_words:
+  iron: 1445
+  ironclad: 50771
+  ironed: 54809
+  ironic: 15612
+  ironical: 88703
+  ironically: 16243
+  ironies: 70322
+  ironing: 19959
+  irons: 12465
+  ironstone: 62280
+  ironwood: 48803
+  ironwork: 73508
+  ironworks: 70435
+  irony: 10388
+scored_words:
+  ironbark: 148101
+  ironbound: 221805
+  ironclads: 182161
+  ironmonger: 111365
+  ironmongers: 198050
+  ironmongery: 131051
+  ironsides: 111575
+  ironweed: 269942
+  ironworker: 186640
+  ironworkers: 147520
+not_scored_words:
+- ironer
+- ironhanded
+- ironicalness
+- ironist
+- ironists
+- ironlike
+- ironmaster
+- ironsmith
+- ironware
+- ironweeds
+- ironwoods

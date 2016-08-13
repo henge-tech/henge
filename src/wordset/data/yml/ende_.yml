@@ -1,0 +1,30 @@
+---
+pattern: ende_
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 20
+score: 1629239
+score_per_word: 101827
+hi_scored_words:
+  endear: 83913
+  endeared: 79846
+  endearing: 32393
+  endearment: 65456
+  endeavor: 10867
+  endeavored: 39537
+  endeavoring: 66337
+  endeavors: 18796
+  ended: 1562
+  endemic: 23816
+scored_words:
+  endearingly: 170200
+  endearments: 241953
+  endears: 227450
+  endemicity: 271275
+  endemics: 148709
+  endemism: 147129
+not_scored_words:
+- Endecott
+- endemically
+- endemisms
+- endermic

@@ -1,0 +1,35 @@
+---
+pattern: deto_
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 25
+score: 1770869
+score_per_word: 98381
+hi_scored_words:
+  detonate: 49309
+  detonated: 43487
+  detonating: 88648
+  detonation: 38774
+  detonator: 43334
+  detonators: 93158
+  detour: 27596
+  detours: 62823
+  detox: 21552
+  detoxification: 34198
+  detoxify: 80456
+scored_words:
+  detonates: 155812
+  detonations: 129493
+  detoured: 152078
+  detoxified: 227493
+  detoxifies: 260283
+  detoxifying: 102564
+  detoxing: 159811
+not_scored_words:
+- detouring
+- detoxed
+- detoxes
+- detoxicate
+- detoxicated
+- detoxicates
+- detoxicating

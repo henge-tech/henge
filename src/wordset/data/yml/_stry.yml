@@ -1,0 +1,49 @@
+---
+pattern: _stry
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 39
+score: 2093556
+score_per_word: 77539
+hi_scored_words:
+  ancestry: 10931
+  artistry: 36686
+  biochemistry: 14754
+  chemistry: 4320
+  dentistry: 12700
+  electrochemistry: 66885
+  forestry: 11394
+  geochemistry: 41861
+  industry: 927
+  ministry: 2832
+  palmistry: 70521
+  pastry: 13948
+  photochemistry: 80621
+  registry: 9272
+  sophistry: 72027
+  stereochemistry: 92514
+  tapestry: 13996
+  vestry: 42421
+scored_words:
+  baptistry: 182680
+  biogeochemistry: 102074
+  casuistry: 130013
+  cytochemistry: 197237
+  histochemistry: 103561
+  immunochemistry: 116851
+  microchemistry: 302028
+  radiochemistry: 171741
+  thermochemistry: 188761
+not_scored_words:
+- actinochemistry
+- cosmochemistry
+- iatrochemistry
+- magnetochemistry
+- papistry
+- petrochemistry
+- piezochemistry
+- proindustry
+- spectrochemistry
+- subindustry
+- ultramicrochemistry
+- zoochemistry

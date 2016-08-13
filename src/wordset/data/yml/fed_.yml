@@ -1,0 +1,44 @@
+---
+pattern: fed_
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 34
+score: 2196871
+score_per_word: 104612
+hi_scored_words:
+  fed: 3351
+  federal: 1333
+  federalism: 26448
+  federalist: 29791
+  federalists: 64092
+  federally: 15675
+  federals: 98256
+  federate: 94134
+  federated: 26979
+  federation: 7170
+  federations: 35598
+  fedora: 16575
+  feds: 18433
+scored_words:
+  fedayeen: 136011
+  federalization: 249573
+  federalize: 331834
+  federalized: 229320
+  federates: 214687
+  federating: 249553
+  federative: 143053
+  fedoras: 205005
+not_scored_words:
+- Fed
+- FedEx
+- Federal
+- Federalism
+- Federalist
+- Federalists
+- Federals
+- Federico
+- Feds
+- federalese
+- federalizes
+- federalizing
+- federatively

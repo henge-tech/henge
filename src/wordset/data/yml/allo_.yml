@@ -1,0 +1,78 @@
+---
+pattern: allo_
+hi_scored_words_count: 25
+scored_words_count: 14
+total_words: 68
+score: 3959082
+score_per_word: 101514
+hi_scored_words:
+  allocate: 16380
+  allocated: 8182
+  allocates: 42510
+  allocating: 25946
+  allocation: 15574
+  allocations: 16152
+  allocator: 67974
+  allodial: 89337
+  allopathic: 92498
+  allot: 38571
+  allotment: 21802
+  allotments: 37587
+  allotted: 20059
+  allover: 97409
+  allow: 797
+  allowable: 13567
+  allowance: 6145
+  allowances: 13906
+  allowed: 1004
+  allowing: 3178
+  allows: 2085
+  alloy: 11656
+  alloyed: 84213
+  alloying: 87204
+  alloys: 24953
+scored_words:
+  allocable: 108703
+  allocatable: 149723
+  allocators: 203096
+  allochthonous: 269713
+  allocution: 236584
+  allometry: 290313
+  allopathy: 276255
+  allopatric: 241772
+  allophone: 276725
+  allophones: 229886
+  allotropic: 238894
+  allots: 190442
+  allottee: 248984
+  allotting: 159303
+not_scored_words:
+- Alloway
+- allodium
+- allogamies
+- allogamy
+- allograph
+- allographs
+- allomerism
+- allomerisms
+- allometries
+- allomorph
+- allomorphic
+- allomorphism
+- allomorphs
+- allonge
+- allonym
+- allopath
+- allopathies
+- allopathist
+- allophane
+- allophonic
+- alloplasm
+- allotrope
+- allotropes
+- allotropical
+- allotropies
+- allotropy
+- allotter
+- allowably
+- allowedly

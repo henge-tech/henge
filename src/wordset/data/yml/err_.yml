@@ -1,0 +1,36 @@
+---
+pattern: err_
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 26
+score: 947351
+score_per_word: 55726
+hi_scored_words:
+  err: 10747
+  errand: 28675
+  errands: 31694
+  errant: 35754
+  errata: 34293
+  erratic: 23854
+  erratically: 81950
+  erratum: 63446
+  erred: 29172
+  erring: 72192
+  erroneous: 14026
+  erroneously: 27900
+  error: 1239
+  errors: 2057
+  errs: 80652
+scored_words:
+  errantry: 113926
+  errorless: 295774
+not_scored_words:
+- Errol
+- errancies
+- errancy
+- errantly
+- erratas
+- erraticism
+- errhine
+- erroneousness
+- erroneousnesses

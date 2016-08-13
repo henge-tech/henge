@@ -1,0 +1,39 @@
+---
+pattern: s_ral
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 29
+score: 1497391
+score_per_word: 78810
+hi_scored_words:
+  sacral: 46822
+  scriptural: 28916
+  sculptural: 45150
+  sectoral: 25085
+  several: 342
+  sociocultural: 55435
+  spatiotemporal: 89450
+  spectral: 11263
+  spiral: 9321
+  structural: 6817
+  subdural: 84610
+  supernatural: 9573
+scored_words:
+  scleral: 123443
+  sepulchral: 119259
+  silvicultural: 103749
+  sinistral: 218531
+  sororal: 213422
+  subcultural: 123589
+  sural: 182614
+not_scored_words:
+- Scriptural
+- septilateral
+- sericultural
+- sinistrodextral
+- sphincteral
+- subastral
+- sublittoral
+- subternatural
+- superstructural
+- supranatural

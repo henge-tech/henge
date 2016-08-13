@@ -1,0 +1,78 @@
+---
+pattern: grou_
+hi_scored_words_count: 25
+scored_words_count: 17
+total_words: 68
+score: 4075722
+score_per_word: 97041
+hi_scored_words:
+  grouch: 65366
+  grouchy: 52490
+  ground: 663
+  groundbreaking: 20253
+  grounded: 9721
+  groundhog: 33538
+  grounding: 26751
+  groundless: 66369
+  groundnut: 71067
+  grounds: 3207
+  groundswell: 89553
+  groundwater: 14819
+  groundwork: 23959
+  group: 358
+  grouped: 11956
+  grouper: 41951
+  groupie: 40741
+  groupies: 52288
+  grouping: 14494
+  groupings: 29997
+  groups: 1130
+  groupware: 46250
+  grouse: 23357
+  grout: 34477
+  grouting: 76640
+scored_words:
+  grounder: 102633
+  grounders: 260608
+  groundhogs: 139678
+  groundings: 258873
+  groundmass: 188034
+  groundnuts: 121715
+  groundsel: 190277
+  groundsheet: 265367
+  groundskeeper: 111278
+  groundsman: 155362
+  groundspeed: 305367
+  groupers: 144322
+  groupthink: 109638
+  groused: 299158
+  grousing: 221537
+  grouted: 145282
+  grouts: 205198
+not_scored_words:
+- grouched
+- grouches
+- grouchier
+- grouchiest
+- grouchily
+- grouchiness
+- grouching
+- groundage
+- groundbreakings
+- groundcloth
+- groundcloths
+- groundlessly
+- groundling
+- groundmasses
+- groundsels
+- groundsheets
+- groundsill
+- groundskeepers
+- groundsmen
+- groundspeeds
+- groundswells
+- grouser
+- grousers
+- grouses
+- grouter
+- grouty

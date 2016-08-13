@@ -1,0 +1,38 @@
+---
+pattern: bra_e
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 28
+score: 1015625
+score_per_word: 78125
+hi_scored_words:
+  brace: 12120
+  brae: 66339
+  braille: 19540
+  brainwave: 64671
+  brake: 6650
+  bramble: 44896
+  brasserie: 47164
+  brassiere: 87672
+  brave: 4636
+scored_words:
+  braise: 132108
+  brassie: 224855
+  brassware: 163577
+  braze: 141397
+not_scored_words:
+- Brahe
+- Braille
+- Bramante
+- Brandie
+- Braque
+- Brazzaville
+- brabble
+- brachiate
+- bracteate
+- bracteole
+- branchiae
+- branchlike
+- branle
+- brattice
+- braunite

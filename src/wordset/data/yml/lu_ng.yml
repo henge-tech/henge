@@ -1,0 +1,34 @@
+---
+pattern: lu_ng
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 24
+score: 1642426
+score_per_word: 109495
+hi_scored_words:
+  lubricating: 41081
+  lugging: 74724
+  lumbering: 47332
+  lumping: 89025
+  lung: 8860
+  luring: 56857
+  lurking: 21006
+  lusting: 82054
+scored_words:
+  lubing: 268606
+  lucking: 231923
+  lulling: 138705
+  lunching: 110363
+  lunging: 104109
+  lurching: 108000
+  luxuriating: 259781
+not_scored_words:
+- Luoyang
+- lucubrating
+- luffing
+- lugeing
+- luging
+- lustering
+- lustrating
+- lutestring
+- luting

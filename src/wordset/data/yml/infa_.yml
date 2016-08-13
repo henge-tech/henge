@@ -1,0 +1,46 @@
+---
+pattern: infa_
+hi_scored_words_count: 16
+scored_words_count: 10
+total_words: 36
+score: 2152733
+score_per_word: 82797
+hi_scored_words:
+  infallibility: 63554
+  infallible: 34749
+  infamous: 11199
+  infamy: 37168
+  infancy: 15017
+  infant: 3885
+  infante: 64825
+  infanticide: 56197
+  infantile: 32075
+  infantry: 5934
+  infantryman: 81554
+  infants: 7350
+  infarct: 62956
+  infarction: 21274
+  infatuated: 61009
+  infatuation: 37586
+scored_words:
+  infallibly: 105254
+  infamies: 219926
+  infamously: 128978
+  infanta: 103398
+  infantilism: 119187
+  infantine: 193280
+  infantrymen: 112477
+  infarcted: 221355
+  infarcts: 138004
+  infatuate: 214542
+not_scored_words:
+- infallibilism
+- infallibleness
+- infamousness
+- infanticides
+- infantilisms
+- infantries
+- infare
+- infatuates
+- infatuating
+- infatuations

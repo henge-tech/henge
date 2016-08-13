@@ -1,0 +1,27 @@
+---
+pattern: a_hing
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 17
+score: 1037156
+score_per_word: 79781
+hi_scored_words:
+  abolishing: 35393
+  accomplishing: 20239
+  aching: 21905
+  airbrushing: 89851
+  anything: 434
+  approaching: 5735
+  arching: 50585
+  astonishing: 12096
+  attaching: 18730
+scored_words:
+  admonishing: 111003
+  ambushing: 196342
+  ashing: 209111
+  autographing: 265732
+not_scored_words:
+- Althing
+- abashing
+- anguishing
+- avouching

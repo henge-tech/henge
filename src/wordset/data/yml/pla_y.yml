@@ -1,0 +1,37 @@
+---
+pattern: pla_y
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 27
+score: 1373445
+score_per_word: 91563
+hi_scored_words:
+  plainly: 12480
+  planetary: 13497
+  plasticity: 29459
+  plausibility: 52729
+  plausibly: 56586
+  play: 305
+  playability: 64637
+  playboy: 12201
+  playfully: 47977
+scored_words:
+  placidity: 230853
+  placidly: 127849
+  plaintively: 140118
+  planarity: 163202
+  plastically: 266464
+  platy: 155088
+not_scored_words:
+- Plassey
+- Platonically
+- Playboy
+- placatingly
+- placatory
+- plagiary
+- plangency
+- plangently
+- planimetry
+- planography
+- plashy
+- platonically

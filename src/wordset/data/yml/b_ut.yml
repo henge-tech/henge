@@ -1,0 +1,31 @@
+---
+pattern: b_ut
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 21
+score: 954899
+score_per_word: 68207
+hi_scored_words:
+  bailout: 53028
+  beaut: 60113
+  blackout: 22293
+  blowout: 20957
+  bout: 8018
+  breakout: 18243
+  brut: 41667
+  burnout: 23302
+  but: 30
+  butternut: 52273
+  buyout: 29161
+scored_words:
+  beansprout: 159270
+  beechnut: 274928
+  brownout: 191616
+not_scored_words:
+- Beirut
+- Borgerhout
+- Brut
+- bitternut
+- bladdernut
+- breadnut
+- butut

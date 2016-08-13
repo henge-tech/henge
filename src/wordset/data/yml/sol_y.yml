@@ -1,0 +1,30 @@
+---
+pattern: sol_y
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 20
+score: 1057460
+score_per_word: 70497
+hi_scored_words:
+  soldiery: 94297
+  solely: 4556
+  solemnity: 42912
+  solemnly: 22782
+  solidarity: 13221
+  solidify: 40694
+  solidity: 49064
+  solidly: 32815
+  soliloquy: 54450
+  solitary: 10966
+  solubility: 24028
+  solvency: 39428
+scored_words:
+  soldierly: 187848
+  solicitously: 152199
+  solidary: 288200
+not_scored_words:
+- Solidarity
+- solemnify
+- solipsistically
+- solitarily
+- solubly

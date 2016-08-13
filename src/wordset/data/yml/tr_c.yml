@@ -1,0 +1,45 @@
+---
+pattern: tr_c
+hi_scored_words_count: 11
+scored_words_count: 9
+total_words: 35
+score: 1899080
+score_per_word: 94954
+hi_scored_words:
+  traffic: 2167
+  tragic: 7581
+  transatlantic: 24873
+  transgenic: 25121
+  traumatic: 14446
+  tricyclic: 62183
+  trigonometric: 50539
+  trochaic: 77029
+  trophic: 45048
+  tropic: 27808
+  tropospheric: 66355
+scored_words:
+  tragicomic: 245804
+  transoceanic: 118522
+  transonic: 102871
+  transpacific: 135050
+  transuranic: 138747
+  triadic: 134981
+  triatomic: 172234
+  tribasic: 188960
+  triclinic: 258761
+not_scored_words:
+- Triassic
+- trachytic
+- transarctic
+- transcendentalistic
+- transsonic
+- trichromatic
+- tricrotic
+- trictrac
+- trihydric
+- trimetallic
+- trimetric
+- tripodic
+- trisomic
+- troglodytic
+- truistic

@@ -1,0 +1,42 @@
+---
+pattern: me_on
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 32
+score: 1137468
+score_per_word: 66909
+hi_scored_words:
+  mechanization: 57298
+  medallion: 25024
+  mediation: 10650
+  medication: 7843
+  meditation: 7835
+  megaton: 85197
+  melon: 19942
+  melton: 33310
+  memorization: 50214
+  menstruation: 31883
+  mentation: 62863
+  mention: 2056
+  meson: 44651
+scored_words:
+  melodeon: 181551
+  mensuration: 162594
+  mesencephalon: 164679
+  metrication: 189878
+not_scored_words:
+- Mellon
+- Melton
+- Memnon
+- Menton
+- Merton
+- megaron
+- melioration
+- melodion
+- mercerization
+- merlon
+- mesmerization
+- mesotron
+- metafiction
+- metencephalon
+- mezereon

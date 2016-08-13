@@ -1,0 +1,46 @@
+---
+pattern: h_in
+hi_scored_words_count: 8
+scored_words_count: 10
+total_words: 36
+score: 2108405
+score_per_word: 117133
+hi_scored_words:
+  hairpin: 41135
+  harlequin: 26649
+  hemoglobin: 25419
+  heparin: 28500
+  herein: 7148
+  heroin: 20066
+  hin: 25462
+  hobgoblin: 89468
+scored_words:
+  hatpin: 235994
+  hematoxylin: 110715
+  hemin: 189152
+  hemolysin: 166049
+  hesperidin: 212163
+  heterochromatin: 108094
+  highfalutin: 215504
+  hindbrain: 154541
+  hirudin: 206962
+  hydantoin: 245384
+not_scored_words:
+- Hamelin
+- Hamlin
+- Hammerstein
+- Harbin
+- Hardin
+- Harlequin
+- Heinlein
+- Hodgkin
+- Holbein
+- Holguin
+- Holstein
+- Hussein
+- headpin
+- heliotropin
+- hematin
+- hoactzin
+- hoatzin
+- hordein

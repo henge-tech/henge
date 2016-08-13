@@ -1,0 +1,34 @@
+---
+pattern: an_er
+hi_scored_words_count: 15
+scored_words_count: 0
+total_words: 24
+score: 684286
+score_per_word: 45619
+hi_scored_words:
+  analyzer: 16429
+  anemometer: 65925
+  anger: 3769
+  angler: 27667
+  angrier: 85288
+  announcer: 19965
+  another: 181
+  answer: 599
+  answerer: 74570
+  anteater: 76483
+  antechamber: 94917
+  anther: 71350
+  anticancer: 57078
+  antimatter: 58102
+  antler: 31963
+scored_words: {}
+not_scored_words:
+- Anaximander
+- Antipater
+- ancienter
+- aniler
+- annealer
+- anointer
+- antiquer
+- antitakeover
+- antsier

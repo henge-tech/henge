@@ -1,0 +1,30 @@
+---
+pattern: _odic
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 20
+score: 1735540
+score_per_word: 115702
+hi_scored_words:
+  anodic: 96850
+  cathodic: 69637
+  episodic: 33901
+  ergodic: 72452
+  melodic: 25116
+  periodic: 5938
+  prosodic: 69821
+  spasmodic: 70008
+scored_words:
+  antispasmodic: 124505
+  aperiodic: 101662
+  iodic: 196337
+  methodic: 277527
+  parodic: 204565
+  rhapsodic: 138907
+  synodic: 248314
+not_scored_words:
+- antiperiodic
+- monodic
+- rhodic
+- threnodic
+- tripodic

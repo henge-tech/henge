@@ -1,0 +1,29 @@
+---
+pattern: pa_nt
+hi_scored_words_count: 13
+scored_words_count: 1
+total_words: 19
+score: 362512
+score_per_word: 25893
+hi_scored_words:
+  pageant: 15662
+  paint: 2584
+  pant: 17086
+  paramount: 9991
+  parchment: 21061
+  parent: 2268
+  parliament: 3132
+  participant: 14407
+  passant: 83125
+  patent: 3637
+  patient: 1398
+  pavement: 9003
+  payment: 1391
+scored_words:
+  parturient: 177767
+not_scored_words:
+- Paramount
+- Parliament
+- palpitant
+- parament
+- parturifacient

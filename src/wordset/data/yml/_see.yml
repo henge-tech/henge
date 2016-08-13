@@ -1,0 +1,32 @@
+---
+pattern: _see
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 22
+score: 1288743
+score_per_word: 92053
+hi_scored_words:
+  addressee: 39106
+  foresee: 23396
+  franchisee: 44116
+  lessee: 30933
+  licensee: 13365
+  oversee: 21482
+  pensee: 72250
+  pharisee: 75674
+  see: 65
+scored_words:
+  advisee: 207864
+  devisee: 225726
+  fricassee: 139875
+  fusee: 168258
+  promisee: 226633
+not_scored_words:
+- Elysee
+- Osee
+- Parsee
+- Pharisee
+- Tallahassee
+- Tennessee
+- declassee
+- endorsee

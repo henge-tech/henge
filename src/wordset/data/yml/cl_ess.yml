@@ -1,0 +1,30 @@
+---
+pattern: cl_ess
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 20
+score: 558004
+score_per_word: 55800
+hi_scored_words:
+  classless: 66465
+  cleanliness: 12876
+  clearness: 64783
+  cleverness: 44089
+  closeness: 33528
+  cloudiness: 70456
+  cloudless: 54476
+  clueless: 22338
+  clumsiness: 82397
+scored_words:
+  cleanness: 106596
+not_scored_words:
+- clamminess
+- clamorousness
+- clannishness
+- classiness
+- classlessness
+- cliquishness
+- cloddishness
+- clothespress
+- clownishness
+- cloyingness

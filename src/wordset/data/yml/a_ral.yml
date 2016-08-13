@@ -1,0 +1,35 @@
+---
+pattern: a_ral
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 25
+score: 763866
+score_per_word: 58758
+hi_scored_words:
+  admiral: 8158
+  agricultural: 3086
+  amoral: 55237
+  ancestral: 15722
+  antiviral: 34901
+  arbitral: 59084
+  architectural: 5755
+  astral: 21880
+  aural: 31574
+  auroral: 63277
+  austral: 45655
+scored_words:
+  antral: 153837
+  arboricultural: 265700
+not_scored_words:
+- Admiral
+- Aral
+- Austral
+- aboral
+- adumbral
+- anhedral
+- antiliberal
+- apertural
+- apicultural
+- apteral
+- augural
+- averral

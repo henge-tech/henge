@@ -1,0 +1,31 @@
+---
+pattern: sp_ls
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 21
+score: 1723372
+score_per_word: 114891
+hi_scored_words:
+  spaniels: 69369
+  specials: 5412
+  spells: 9226
+  spills: 28082
+  spirals: 40436
+  spirituals: 65533
+  spoils: 23063
+  spools: 56425
+  spoonfuls: 80039
+scored_words:
+  spandrels: 220469
+  spiels: 297569
+  spinels: 296273
+  spoonbills: 184092
+  sprawls: 154275
+  springtails: 193109
+not_scored_words:
+- spadefuls
+- spinals
+- spitballs
+- sporophylls
+- spousals
+- spritsails

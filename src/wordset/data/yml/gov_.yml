@@ -1,0 +1,32 @@
+---
+pattern: gov_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 22
+score: 895677
+score_per_word: 52686
+hi_scored_words:
+  gov: 17091
+  govern: 8042
+  governance: 12091
+  governed: 6597
+  governess: 46283
+  governing: 5385
+  government: 263
+  governmental: 7727
+  governments: 3436
+  governor: 2203
+  governors: 11291
+  governorship: 73437
+  governs: 23304
+  govt: 9727
+scored_words:
+  governesses: 241357
+  governmentally: 193700
+  governorships: 233743
+not_scored_words:
+- Gov
+- Government
+- Governor
+- Govt
+- governable

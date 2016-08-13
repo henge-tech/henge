@@ -1,0 +1,24 @@
+---
+pattern: curs_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 509092
+score_per_word: 50909
+hi_scored_words:
+  curs: 78571
+  curse: 6382
+  cursed: 10802
+  curses: 20017
+  cursing: 24690
+  cursive: 37441
+  cursor: 13991
+  cursors: 49441
+  cursory: 36592
+scored_words:
+  cursorily: 231165
+not_scored_words:
+- cursedly
+- cursively
+- cursorial
+- cursoriness

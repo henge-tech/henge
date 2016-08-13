@@ -1,0 +1,19 @@
+---
+pattern: acco_d
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 215868
+score_per_word: 26983
+hi_scored_words:
+  accommodated: 17439
+  accompanied: 3809
+  accomplished: 4063
+  accord: 6815
+  accorded: 19964
+  accosted: 56717
+  accounted: 7908
+  accoutred: 99153
+scored_words: {}
+not_scored_words:
+- accoutered

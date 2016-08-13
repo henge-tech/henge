@@ -1,0 +1,28 @@
+---
+pattern: hy_on
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 18
+score: 1353846
+score_per_word: 104142
+hi_scored_words:
+  hybridization: 23862
+  hydration: 23376
+  hydrocarbon: 27977
+  hydrogenation: 65792
+  hyperinflation: 76909
+  hypertension: 13637
+  hyperventilation: 85205
+  hyphenation: 68908
+  hypotension: 37691
+scored_words:
+  hyperextension: 159129
+  hyperon: 268570
+  hypolimnion: 286532
+  hyson: 216258
+not_scored_words:
+- Hyperion
+- hydrolyzation
+- hyperbaton
+- hypercorrection
+- hypnotization

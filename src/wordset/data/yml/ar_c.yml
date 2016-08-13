@@ -1,0 +1,36 @@
+---
+pattern: ar_c
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 26
+score: 1357736
+score_per_word: 84858
+hi_scored_words:
+  arc: 6237
+  archaic: 22405
+  arctic: 6857
+  aristocratic: 26150
+  arithmetic: 11101
+  aromatic: 16102
+  arsenic: 18305
+  arthritic: 59996
+  arthroscopic: 72131
+  artistic: 4722
+scored_words:
+  archbishopric: 132882
+  archipelagic: 208720
+  architectonic: 129072
+  argentic: 223080
+  arrhythmic: 172896
+  arteriosclerotic: 247080
+not_scored_words:
+- ARC
+- Arabic
+- Aramaic
+- Archeozoic
+- Arctic
+- Armagnac
+- archaeologic
+- archaistic
+- archeologic
+- archetypic

@@ -1,0 +1,30 @@
+---
+pattern: sho_r
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 20
+score: 801791
+score_per_word: 61676
+hi_scored_words:
+  shocker: 31584
+  shoemaker: 23682
+  shofar: 83215
+  shooter: 11790
+  shopkeeper: 36477
+  shopper: 11973
+  shorter: 5914
+  shoulder: 2864
+  shoveler: 97411
+  shower: 3246
+  showstopper: 78144
+scored_words:
+  shoplifter: 117136
+  shouter: 298355
+not_scored_words:
+- Sholapur
+- shoddier
+- shopfitter
+- shophar
+- shortener
+- shover
+- showier

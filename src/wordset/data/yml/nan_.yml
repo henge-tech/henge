@@ -1,0 +1,42 @@
+---
+pattern: nan_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 32
+score: 1171589
+score_per_word: 78105
+hi_scored_words:
+  nance: 32227
+  nancy: 4288
+  nannies: 44043
+  nanny: 14590
+  nanometer: 61456
+  nanometers: 75367
+  nanosecond: 80895
+  nanoseconds: 89099
+  nanotechnology: 18929
+  nanotube: 59105
+scored_words:
+  nankeen: 115042
+  nankin: 179443
+  nanobot: 128189
+  nanobots: 142576
+  nanotechnologies: 126340
+not_scored_words:
+- Nan
+- Nanak
+- Nanchang
+- Nancy
+- Nanette
+- Nanjing
+- Nanna
+- Nannette
+- Nannie
+- Nanning
+- Nanook
+- Nansen
+- Nantes
+- Nantucket
+- Nantucketer
+- nankeens
+- nanoid

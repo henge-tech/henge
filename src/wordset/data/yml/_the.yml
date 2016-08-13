@@ -1,0 +1,52 @@
+---
+pattern: _the
+hi_scored_words_count: 18
+scored_words_count: 7
+total_words: 42
+score: 2046256
+score_per_word: 81850
+hi_scored_words:
+  absinthe: 34545
+  bathe: 24971
+  blithe: 58019
+  breathe: 6300
+  clothe: 34810
+  lathe: 24858
+  lethe: 97577
+  lithe: 56067
+  loathe: 32911
+  scythe: 40180
+  sheathe: 71852
+  soothe: 24729
+  swathe: 93070
+  the: 1
+  tithe: 34846
+  unsheathe: 99901
+  withe: 91691
+  writhe: 79555
+scored_words:
+  nepenthe: 155147
+  rathe: 139163
+  scathe: 194269
+  seethe: 112899
+  spathe: 273921
+  sunbathe: 120102
+  wreathe: 144872
+not_scored_words:
+- Bethe
+- Blythe
+- Drenthe
+- Edythe
+- Goethe
+- Lethe
+- Margrethe
+- Mouthe
+- Sarthe
+- ensheathe
+- enswathe
+- enwreathe
+- inbreathe
+- reclothe
+- teethe
+- unclothe
+- unswathe

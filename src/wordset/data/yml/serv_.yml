@@ -1,0 +1,55 @@
+---
+pattern: serv_
+hi_scored_words_count: 21
+scored_words_count: 11
+total_words: 45
+score: 2524043
+score_per_word: 78876
+hi_scored_words:
+  servant: 5335
+  servants: 6031
+  serve: 1321
+  served: 1385
+  server: 11760
+  servers: 2245
+  serves: 3829
+  service: 195
+  serviceability: 70050
+  serviceable: 29245
+  serviced: 14826
+  serviceman: 76255
+  servicemen: 32579
+  services: 550
+  servicing: 12025
+  servile: 60507
+  serving: 2542
+  servings: 20178
+  servitude: 29108
+  servo: 25414
+  servos: 63956
+scored_words:
+  serval: 117090
+  servery: 220576
+  serviceberry: 171082
+  servicewomen: 304482
+  serviette: 121471
+  serviettes: 183632
+  servility: 142942
+  servitor: 125248
+  servitors: 187595
+  servomotor: 227278
+  servomotors: 253311
+not_scored_words:
+- Servia
+- servals
+- serveries
+- serviceableness
+- serviceablenesses
+- serviceably
+- serviceberries
+- servicewoman
+- servilely
+- servileness
+- servomechanical
+- servomechanism
+- servomechanisms

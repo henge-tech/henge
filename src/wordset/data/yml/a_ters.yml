@@ -1,0 +1,35 @@
+---
+pattern: a_ters
+hi_scored_words_count: 8
+scored_words_count: 9
+total_words: 25
+score: 2038248
+score_per_word: 119896
+hi_scored_words:
+  accelerometers: 84893
+  adapters: 13624
+  adjusters: 56231
+  administers: 31436
+  adopters: 41313
+  alters: 27034
+  arbiters: 94431
+  asters: 79769
+scored_words:
+  abutters: 161620
+  afters: 121917
+  altimeters: 134386
+  ammeters: 225098
+  amphitheaters: 258936
+  anemometers: 167833
+  anteaters: 110520
+  arresters: 155250
+  audiometers: 273957
+not_scored_words:
+- abetters
+- abstracters
+- accouters
+- actinometers
+- airletters
+- algometers
+- atmometers
+- augmenters

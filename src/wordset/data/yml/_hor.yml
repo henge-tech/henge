@@ -1,0 +1,27 @@
+---
+pattern: _hor
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 17
+score: 548716
+score_per_word: 54871
+hi_scored_words:
+  abhor: 48590
+  anchor: 4895
+  author: 510
+  camphor: 53611
+  coauthor: 36545
+  hor: 36114
+  metaphor: 12207
+  phosphor: 44853
+scored_words:
+  ichor: 182441
+  senhor: 128950
+not_scored_words:
+- Hathor
+- Phosphor
+- Senghor
+- Thor
+- ephor
+- isochor
+- markhor

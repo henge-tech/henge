@@ -1,0 +1,52 @@
+---
+pattern: mer_s
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 42
+score: 2342456
+score_per_word: 106475
+hi_scored_words:
+  mercenaries: 25741
+  merchandisers: 90889
+  merchants: 4043
+  mercies: 48677
+  merciless: 31405
+  mercurous: 92168
+  mergers: 13539
+  merges: 39416
+  meridians: 68664
+  meritorious: 28756
+  merits: 8268
+  mermaids: 45594
+scored_words:
+  mercers: 207744
+  merchandises: 167346
+  meres: 132953
+  meretricious: 142640
+  mergansers: 207187
+  meringues: 132046
+  meristems: 185676
+  meritless: 230014
+  merlins: 157493
+  merozoites: 282197
+not_scored_words:
+- Mercedes
+- Mercuries
+- Mercurochromes
+- Merthiolates
+- mercaptopurines
+- mercenariness
+- mercerizes
+- mercifulness
+- mercifulnesses
+- mercilessness
+- mercurialness
+- meretriciousness
+- merinos
+- meritocracies
+- meritocrats
+- meritoriousness
+- merles
+- meronymous
+- merriness
+- merrymakers

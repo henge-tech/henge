@@ -1,0 +1,68 @@
+---
+pattern: in_ely
+hi_scored_words_count: 21
+scored_words_count: 12
+total_words: 58
+score: 4002593
+score_per_word: 121290
+hi_scored_words:
+  inaccurately: 78868
+  inadequately: 48067
+  inappropriately: 38229
+  incompletely: 70266
+  indefinitely: 14614
+  indiscriminately: 47969
+  inductively: 65033
+  inexpensively: 54633
+  infinitely: 13373
+  innately: 76176
+  inordinately: 86445
+  inquisitively: 89937
+  insanely: 38465
+  instinctively: 24366
+  intensely: 14953
+  intensively: 34962
+  interactively: 48832
+  intimately: 25834
+  intricately: 51780
+  intuitively: 27493
+  inversely: 41170
+scored_words:
+  inanely: 318211
+  incisively: 290070
+  inclusively: 155010
+  inconsiderately: 166294
+  ineffectively: 158402
+  informatively: 340611
+  inhumanely: 283497
+  insecurely: 217004
+  insensitively: 265779
+  interrogatively: 195990
+  intrusively: 340411
+  inventively: 279849
+not_scored_words:
+- inactively
+- inanimately
+- inarticulately
+- inattentively
+- inchoately
+- incommensurately
+- inconclusively
+- indecisively
+- indelicately
+- indeterminately
+- indicatively
+- inoffensively
+- inopportunely
+- insatiately
+- insensately
+- insincerely
+- instructively
+- insubordinately
+- intemperately
+- intermediately
+- interpretively
+- intransitively
+- introspectively
+- inveterately
+- inviolately

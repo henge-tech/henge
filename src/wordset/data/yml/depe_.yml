@@ -1,0 +1,30 @@
+---
+pattern: depe_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 20
+score: 621267
+score_per_word: 44376
+hi_scored_words:
+  depend: 3715
+  dependability: 47597
+  dependable: 24162
+  depended: 14024
+  dependence: 7017
+  dependencies: 16634
+  dependency: 13615
+  dependent: 3084
+  dependents: 22496
+  depending: 3404
+  depends: 2406
+scored_words:
+  dependably: 190142
+  dependently: 136987
+  depersonalization: 135984
+not_scored_words:
+- dependableness
+- dependablenesses
+- depersonalize
+- depersonalized
+- depersonalizes
+- depersonalizing

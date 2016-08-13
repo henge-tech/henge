@@ -1,0 +1,43 @@
+---
+pattern: e_in
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 33
+score: 1659768
+score_per_word: 103735
+hi_scored_words:
+  elastin: 81597
+  elfin: 58240
+  endorphin: 74356
+  endotoxin: 55629
+  engin: 58211
+  enjoin: 59040
+  entertain: 8512
+  eosin: 97231
+  erythromycin: 46455
+  explain: 1692
+scored_words:
+  endrin: 186531
+  entrain: 160601
+  estrin: 100336
+  euchromatin: 337724
+  exotoxin: 217252
+  eyestrain: 116361
+not_scored_words:
+- Edwin
+- Efrain
+- Einstein
+- Eisenstein
+- Eltanin
+- Elvin
+- Empirin
+- Epstein
+- Erin
+- ErvIn
+- Erwin
+- Excedrin
+- elaterin
+- enchain
+- endbrain
+- engrain
+- erepsin

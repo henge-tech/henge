@@ -1,0 +1,52 @@
+---
+pattern: cli_s
+hi_scored_words_count: 20
+scored_words_count: 4
+total_words: 42
+score: 1270920
+score_per_word: 52955
+hi_scored_words:
+  cliches: 40296
+  clicks: 10409
+  clients: 3124
+  cliffs: 10140
+  climates: 22895
+  climaxes: 78982
+  climbers: 30228
+  climbs: 22401
+  climes: 70891
+  clinches: 75465
+  clings: 39684
+  clinicians: 18589
+  clinics: 6980
+  clipboards: 98356
+  clippers: 18607
+  clippings: 27372
+  clips: 14752
+  cliques: 55992
+  clitoris: 22558
+  clits: 61467
+scored_words:
+  clickers: 111995
+  cliffhangers: 123647
+  climatologists: 163772
+  clitorises: 142318
+not_scored_words:
+- Clios
+- Clisthenes
+- clichés
+- clientages
+- clienteles
+- clientèles
+- clifftops
+- clinchers
+- clingers
+- clingstones
+- clinkers
+- clinks
+- clinometers
+- clintonias
+- cliometricians
+- cliometrics
+- cliquishness
+- clitorides

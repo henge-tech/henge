@@ -1,0 +1,26 @@
+---
+pattern: s_cer
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 539568
+score_per_word: 49051
+hi_scored_words:
+  saucer: 18607
+  seducer: 78249
+  sequencer: 38736
+  silencer: 32668
+  slicer: 44515
+  soccer: 6839
+  spacer: 27398
+  spencer: 10426
+  spicer: 40886
+scored_words:
+  scarcer: 115568
+  splicer: 125676
+not_scored_words:
+- Spencer
+- sacrificer
+- solacer
+- sprucer
+- subofficer

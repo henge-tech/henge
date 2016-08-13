@@ -1,0 +1,50 @@
+---
+pattern: vale_
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 40
+score: 1446226
+score_per_word: 96415
+hi_scored_words:
+  vale: 9357
+  valedictorian: 65132
+  valence: 28405
+  valentine: 7785
+  valentines: 9531
+  valerian: 44830
+  vales: 86907
+  valet: 13464
+scored_words:
+  valedictorians: 321653
+  valedictory: 124587
+  valences: 213819
+  valency: 100612
+  valeting: 120915
+  valets: 102017
+  valetudinarian: 197212
+not_scored_words:
+- Valence
+- Valencia
+- Valencias
+- Valenciennes
+- Valenti
+- Valentin
+- Valentine
+- Valentino
+- Valenzuela
+- Valera
+- Valeria
+- Valerian
+- Valerie
+- Valery
+- valediction
+- valedictions
+- valedictories
+- valencies
+- valerianaceous
+- valerians
+- valeric
+- valeted
+- valetudinarianism
+- valetudinarians
+- valetudinary

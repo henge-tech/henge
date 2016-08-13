@@ -1,0 +1,23 @@
+---
+pattern: repl_s
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 393270
+score_per_word: 43696
+hi_scored_words:
+  replacements: 13313
+  replaces: 15288
+  replays: 28253
+  replicas: 22358
+  replicates: 43389
+  replications: 75546
+  replicators: 71203
+  replies: 3514
+scored_words:
+  replenishes: 120406
+not_scored_words:
+- replants
+- repleteness
+- repletes
+- repliers

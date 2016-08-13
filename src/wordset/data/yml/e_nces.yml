@@ -1,0 +1,27 @@
+---
+pattern: e_nces
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 17
+score: 1191560
+score_per_word: 91658
+hi_scored_words:
+  encumbrances: 67241
+  enhances: 19664
+  entrances: 23946
+  equivalences: 86499
+  essences: 32353
+  evidences: 35946
+  existences: 94859
+  experiences: 2622
+scored_words:
+  eminences: 250837
+  evinces: 128383
+  excrescences: 104881
+  exigences: 180211
+  extravagances: 164118
+not_scored_words:
+- elastances
+- enounces
+- ensconces
+- expediences

@@ -1,0 +1,52 @@
+---
+pattern: tr_le
+hi_scored_words_count: 24
+scored_words_count: 10
+total_words: 42
+score: 2597832
+score_per_word: 76406
+hi_scored_words:
+  traceable: 36605
+  tractable: 48704
+  tradable: 57185
+  tradespeople: 82637
+  trample: 28526
+  transferable: 26132
+  translatable: 90411
+  transmissible: 60263
+  transportable: 55320
+  treacle: 62413
+  treadle: 90278
+  treasonable: 91328
+  treatable: 50283
+  treble: 18989
+  tremble: 24666
+  trestle: 49743
+  triangle: 7133
+  trickle: 25577
+  tricycle: 36606
+  trifle: 27882
+  triple: 5559
+  trouble: 1448
+  truffle: 34127
+  trundle: 44941
+scored_words:
+  trackable: 117554
+  trainable: 115448
+  transaxle: 112566
+  transferrable: 156140
+  transformable: 153201
+  transmittable: 230124
+  transposable: 103653
+  traversable: 183726
+  triable: 175644
+  truckle: 193020
+not_scored_words:
+- trabecule
+- tractile
+- transmutable
+- trappable
+- treasurable
+- trisyllable
+- triturable
+- trouvaille

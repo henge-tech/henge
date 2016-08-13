@@ -1,0 +1,27 @@
+---
+pattern: _nees
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 17
+score: 1010176
+score_per_word: 91834
+hi_scored_words:
+  assignees: 94873
+  detainees: 17200
+  examinees: 93643
+  knees: 5507
+  matinees: 95837
+  nominees: 22462
+  returnees: 63564
+  trainees: 16444
+scored_words:
+  consignees: 187643
+  donees: 310003
+  internees: 103000
+not_scored_words:
+- Pawnees
+- Pyrenees
+- Shawnees
+- maharanees
+- ranees
+- townees

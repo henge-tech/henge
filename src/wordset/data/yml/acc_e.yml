@@ -1,0 +1,43 @@
+---
+pattern: acc_e
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 33
+score: 1536098
+score_per_word: 61443
+hi_scored_words:
+  accede: 48237
+  accelerate: 15206
+  accentuate: 44553
+  acceptable: 4241
+  acceptance: 3058
+  accessible: 3640
+  accessorize: 79705
+  acclimate: 85313
+  accolade: 39243
+  accommodate: 7021
+  accomplice: 31996
+  accordance: 2669
+  accountable: 11649
+  accrue: 23791
+  accumulate: 15286
+  accumulative: 81398
+  accurate: 2846
+  accusative: 59109
+  accuse: 15459
+scored_words:
+  accelerative: 204818
+  accidence: 118161
+  acclimatize: 173856
+  accommodative: 118648
+  accrete: 214604
+  accretive: 131591
+not_scored_words:
+- Accenture
+- accedence
+- accidie
+- accipitrine
+- accoutre
+- acculturate
+- acculturative
+- acculturize

@@ -1,0 +1,47 @@
+---
+pattern: bath_
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 37
+score: 1298289
+score_per_word: 64914
+hi_scored_words:
+  bath: 2494
+  bathe: 24971
+  bathed: 31923
+  bathers: 78075
+  bathes: 90015
+  bathhouse: 67033
+  bathing: 10586
+  bathrobe: 45211
+  bathrobes: 81564
+  bathroom: 6700
+  bathrooms: 7939
+  baths: 8484
+  bathtub: 19254
+  bathtubs: 60573
+  bathwater: 97372
+  bathymetry: 84568
+scored_words:
+  bather: 109853
+  bathhouses: 138247
+  batholith: 151142
+  bathos: 182285
+not_scored_words:
+- Bath
+- Bathsheba
+- Bathurst
+- bathetic
+- bathmat
+- bathmats
+- batholiths
+- bathometer
+- bathyal
+- bathymetries
+- bathypelagic
+- bathyscaph
+- bathyscaphe
+- bathyscaphes
+- bathyscaphs
+- bathysphere
+- bathyspheres

@@ -1,0 +1,24 @@
+---
+pattern: s_rted
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 14
+score: 838909
+score_per_word: 69909
+hi_scored_words:
+  shorted: 48254
+  skirted: 46477
+  snorted: 43189
+  sorted: 7827
+  sported: 63882
+  squirted: 93029
+  started: 579
+  subverted: 72103
+  supported: 1734
+scored_words:
+  shirted: 165820
+  smarted: 169564
+  spurted: 126451
+not_scored_words:
+- softhearted
+- stouthearted

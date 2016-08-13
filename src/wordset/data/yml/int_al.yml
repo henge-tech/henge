@@ -1,0 +1,50 @@
+---
+pattern: int_al
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 40
+score: 2156980
+score_per_word: 77035
+hi_scored_words:
+  integral: 8460
+  intellectual: 2213
+  intentional: 14455
+  intercontinental: 18784
+  intercostal: 80225
+  intercultural: 29018
+  interdenominational: 96115
+  interdepartmental: 59656
+  interfacial: 50495
+  intergovernmental: 22481
+  internal: 1799
+  international: 1038
+  interpersonal: 12878
+  interracial: 7706
+  interstitial: 27111
+  intertidal: 51598
+  interval: 4541
+  intestinal: 17662
+  intracranial: 34135
+  intramural: 31665
+scored_words:
+  intensional: 116323
+  interdental: 179306
+  interglacial: 101574
+  interpretational: 274708
+  intersexual: 290024
+  intonational: 208874
+  intradermal: 114522
+  intuitional: 299614
+not_scored_words:
+- International
+- integumental
+- intercessional
+- interjectional
+- interlingual
+- internuncial
+- interradial
+- interregnal
+- interrogational
+- intersidereal
+- interstadial
+- intrapreneurial

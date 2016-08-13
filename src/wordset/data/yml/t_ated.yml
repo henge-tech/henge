@@ -1,0 +1,30 @@
+---
+pattern: t_ated
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 20
+score: 906512
+score_per_word: 75542
+hi_scored_words:
+  tabulated: 40147
+  terminated: 8113
+  throated: 33957
+  titrated: 83375
+  tolerated: 15471
+  translated: 4488
+  transliterated: 63318
+  treated: 1918
+  triangulated: 97169
+  truncated: 25724
+scored_words:
+  tessellated: 261691
+  titillated: 271141
+not_scored_words:
+- tailgated
+- tergiversated
+- titivated
+- tittivated
+- trabeated
+- transmigrated
+- triplicated
+- troated

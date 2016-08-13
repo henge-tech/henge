@@ -1,0 +1,36 @@
+---
+pattern: met_y
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 26
+score: 1621738
+score_per_word: 101358
+hi_scored_words:
+  metallurgy: 33865
+  metaphorically: 52331
+  meteorology: 21020
+  methodically: 56957
+  methodology: 9468
+  methylmercury: 93012
+  meticulously: 33964
+  metrology: 43921
+scored_words:
+  metabolically: 110940
+  metallography: 188565
+  metaphysically: 127739
+  metapsychology: 187093
+  metastability: 228281
+  methodologically: 101314
+  metonymy: 114299
+  metrically: 218969
+not_scored_words:
+- metagalaxy
+- metallically
+- metastatically
+- metempsychotically
+- meteorically
+- meteorologically
+- meticulosity
+- metonymically
+- metrify
+- metronomically

@@ -1,0 +1,67 @@
+---
+pattern: _ooms
+hi_scored_words_count: 23
+scored_words_count: 9
+total_words: 57
+score: 3349994
+score_per_word: 104687
+hi_scored_words:
+  ballrooms: 90500
+  bathrooms: 7939
+  bedrooms: 6464
+  blooms: 19482
+  boardrooms: 93562
+  booms: 38590
+  brooms: 44413
+  classrooms: 9537
+  courtrooms: 81306
+  dooms: 90811
+  grooms: 36939
+  guestrooms: 82591
+  heirlooms: 57136
+  looms: 25480
+  mushrooms: 11672
+  newsrooms: 89050
+  restrooms: 32766
+  rooms: 1281
+  showrooms: 43481
+  staterooms: 72812
+  sunrooms: 74889
+  washrooms: 82608
+  zooms: 46070
+scored_words:
+  backrooms: 298801
+  bridegrooms: 236120
+  darkrooms: 249761
+  lunchrooms: 340796
+  playrooms: 235572
+  stockrooms: 307354
+  storerooms: 151327
+  tearooms: 178183
+  workrooms: 212701
+not_scored_words:
+- anterooms
+- barrooms
+- boxrooms
+- checkerblooms
+- checkrooms
+- cloakrooms
+- coatrooms
+- foredooms
+- greenrooms
+- grillrooms
+- guardrooms
+- homerooms
+- houserooms
+- legrooms
+- mudrooms
+- poolrooms
+- salerooms
+- salesrooms
+- schoolrooms
+- sickrooms
+- simooms
+- strongrooms
+- taprooms
+- wardrooms
+- whiskbrooms

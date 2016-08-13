@@ -1,0 +1,25 @@
+---
+pattern: lac_e
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 757550
+score_per_word: 75755
+hi_scored_words:
+  lace: 6142
+  lachrymose: 81163
+  lacrosse: 13653
+  lactase: 97034
+  lactate: 32006
+  lactone: 89331
+  lactose: 26077
+  lacustrine: 78926
+scored_words:
+  lacerate: 223404
+  lacunae: 109814
+not_scored_words:
+- Laccadive
+- laciniate
+- lactoscope
+- lacunate
+- lacunose

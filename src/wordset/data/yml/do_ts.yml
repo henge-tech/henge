@@ -1,0 +1,32 @@
+---
+pattern: do_ts
+hi_scored_words_count: 8
+scored_words_count: 8
+total_words: 22
+score: 1945227
+score_per_word: 121576
+hi_scored_words:
+  dockets: 70343
+  documents: 2018
+  donuts: 21824
+  doormats: 97513
+  dots: 11194
+  doublets: 91073
+  doubts: 7828
+  doughnuts: 35830
+scored_words:
+  docents: 129922
+  dogfights: 176655
+  dolts: 193168
+  dominants: 107373
+  doorposts: 230162
+  downdrafts: 303499
+  downshifts: 321072
+  downspouts: 145753
+not_scored_words:
+- Donets
+- dogcarts
+- dogmatists
+- dogtrots
+- dovecots
+- downbeats

@@ -1,0 +1,53 @@
+---
+pattern: bio_s
+hi_scored_words_count: 14
+scored_words_count: 11
+total_words: 43
+score: 2505553
+score_per_word: 100222
+hi_scored_words:
+  bioethics: 34194
+  biogas: 60222
+  biogenesis: 56684
+  biographers: 74166
+  biographies: 11236
+  biologists: 31654
+  biomass: 17821
+  biomechanics: 40425
+  biometrics: 32007
+  biophysics: 36020
+  biopsies: 42940
+  bios: 13708
+  biosensors: 83086
+  biosynthesis: 19603
+scored_words:
+  biocatalysts: 307576
+  biochemicals: 115855
+  biochemists: 107796
+  biodynamics: 252206
+  bioenergetics: 123375
+  bionics: 128447
+  bionomics: 313732
+  biopics: 133723
+  bioreactors: 133073
+  biorhythms: 127481
+  biotypes: 208523
+not_scored_words:
+- BIOS
+- bioastronautics
+- bioclimatologies
+- biodegrades
+- bioengineerings
+- biogeneses
+- biogeographies
+- bioluminescences
+- biolysis
+- biomedicines
+- biophysicists
+- bioremediations
+- bioscopes
+- biospheres
+- biostatics
+- biosyntheses
+- biotas
+- biotites

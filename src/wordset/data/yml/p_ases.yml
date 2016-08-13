@@ -1,0 +1,28 @@
+---
+pattern: p_ases
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 861495
+score_per_word: 78317
+hi_scored_words:
+  paraphrases: 96523
+  phases: 7190
+  phrases: 5718
+  pillowcases: 59256
+  pleases: 26374
+  polymerases: 80500
+  proteases: 54233
+  purchases: 5570
+scored_words:
+  passphrases: 287380
+  peptidases: 107409
+  proteinases: 131342
+not_scored_words:
+- Plexiglases
+- pancreases
+- paterfamiliases
+- periphrases
+- plagioclases
+- predeceases
+- prophases

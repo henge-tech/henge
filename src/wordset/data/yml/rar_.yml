@@ -1,0 +1,30 @@
+---
+pattern: rar_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 20
+score: 687229
+score_per_word: 62475
+hi_scored_words:
+  rare: 1752
+  rarefied: 71263
+  rarely: 3913
+  rarer: 41275
+  rares: 55228
+  rarest: 36450
+  raring: 99945
+  rarities: 39141
+  rarity: 21711
+scored_words:
+  rarebit: 148937
+  rarefaction: 167614
+not_scored_words:
+- Rarotonga
+- rarebits
+- rared
+- rarefactions
+- rarefiable
+- rarefies
+- rarefy
+- rarefying
+- rareness

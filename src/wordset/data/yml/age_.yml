@@ -1,0 +1,36 @@
+---
+pattern: age_
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 26
+score: 1071581
+score_per_word: 63034
+hi_scored_words:
+  age: 326
+  aged: 2985
+  agee: 57657
+  ageing: 24996
+  ageism: 82620
+  ageless: 42572
+  agencies: 2905
+  agency: 2302
+  agenda: 14507
+  agendas: 14449
+  agent: 1412
+  agents: 1832
+  ages: 2076
+scored_words:
+  ageist: 227563
+  agenesis: 118340
+  agentive: 266091
+  ageratum: 208948
+not_scored_words:
+- Age
+- Agee
+- ageings
+- ageists
+- agelessly
+- agelessness
+- ageneses
+- agential
+- agentival

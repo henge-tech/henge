@@ -1,0 +1,25 @@
+---
+pattern: _fty
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 15
+score: 880639
+score_per_word: 73386
+hi_scored_words:
+  crafty: 18990
+  fifty: 3525
+  hefty: 23753
+  lefty: 23778
+  lofty: 14834
+  nifty: 20161
+  shifty: 46679
+  softy: 94735
+  thrifty: 22573
+scored_words:
+  crufty: 213124
+  drafty: 119498
+  tufty: 278989
+not_scored_words:
+- drifty
+- toplofty
+- unthrifty

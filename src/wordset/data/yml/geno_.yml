@@ -1,0 +1,28 @@
+---
+pattern: geno_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 18
+score: 438747
+score_per_word: 39886
+hi_scored_words:
+  genoa: 15020
+  genocidal: 58748
+  genocide: 15644
+  genome: 12864
+  genomes: 29851
+  genomic: 19208
+  genomics: 23137
+  genotype: 26067
+  genotypes: 38534
+  genotypic: 89845
+scored_words:
+  genocides: 109829
+not_scored_words:
+- Genoa
+- Genoas
+- Genoese
+- Genova
+- Genovese
+- genocidally
+- genotypical

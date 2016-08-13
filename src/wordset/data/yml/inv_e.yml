@@ -1,0 +1,45 @@
+---
+pattern: inv_e
+hi_scored_words_count: 24
+scored_words_count: 6
+total_words: 35
+score: 1576088
+score_per_word: 52536
+hi_scored_words:
+  invade: 14447
+  invalidate: 35586
+  invaluable: 11411
+  invariable: 57563
+  invariance: 40906
+  invasive: 14031
+  invective: 58874
+  inventive: 20771
+  inverse: 15011
+  invertebrate: 31126
+  invertible: 64148
+  investigate: 5619
+  investigative: 12628
+  investiture: 75323
+  inveterate: 64386
+  invigorate: 66244
+  invincible: 20104
+  inviolable: 61536
+  invisible: 5062
+  invite: 3966
+  invoice: 15922
+  invoke: 14191
+  involve: 4719
+  invulnerable: 68641
+scored_words:
+  inveigle: 120503
+  invertase: 190394
+  inviolate: 101463
+  invitee: 131611
+  involucre: 108793
+  involute: 141109
+not_scored_words:
+- invaginate
+- invigilate
+- invigorative
+- invocate
+- invocative

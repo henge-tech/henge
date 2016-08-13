@@ -1,0 +1,22 @@
+---
+pattern: _enth
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 12
+score: 244926
+score_per_word: 22266
+hi_scored_words:
+  eighteenth: 12161
+  eleventh: 14423
+  fifteenth: 18310
+  fourteenth: 16720
+  nineteenth: 8822
+  seventeenth: 16032
+  seventh: 5155
+  sixteenth: 16303
+  tenth: 8179
+  thirteenth: 19102
+scored_words:
+  umpteenth: 109719
+not_scored_words:
+- dozenth

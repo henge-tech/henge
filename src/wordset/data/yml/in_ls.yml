@@ -1,0 +1,34 @@
+---
+pattern: in_ls
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 24
+score: 1341316
+score_per_word: 74517
+hi_scored_words:
+  inaugurals: 49709
+  incidentals: 78380
+  individuals: 1631
+  industrials: 58994
+  infidels: 39872
+  infomercials: 69775
+  initials: 16160
+  installs: 21052
+  instrumentals: 32767
+  integrals: 31540
+  intellectuals: 25987
+  internals: 32518
+  internationals: 31402
+  intervals: 5664
+scored_words:
+  indwells: 322708
+  inkwells: 161821
+  instills: 107995
+  invitationals: 253341
+not_scored_words:
+- Internationals
+- inessentials
+- infills
+- infinitesimals
+- inositols
+- intercostals

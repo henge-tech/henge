@@ -1,0 +1,20 @@
+---
+pattern: se_ted
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 425135
+score_per_word: 47237
+hi_scored_words:
+  seated: 6962
+  secreted: 29755
+  sedated: 64663
+  segmented: 30644
+  segregated: 27511
+  selected: 1410
+  separated: 3635
+  serrated: 43183
+scored_words:
+  sedimented: 217372
+not_scored_words:
+- sequestrated

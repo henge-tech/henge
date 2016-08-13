@@ -1,0 +1,42 @@
+---
+pattern: _fly
+hi_scored_words_count: 9
+scored_words_count: 13
+total_words: 32
+score: 2167243
+score_per_word: 98511
+hi_scored_words:
+  barfly: 68610
+  briefly: 5105
+  butterfly: 6635
+  chiefly: 11578
+  dragonfly: 20149
+  firefly: 24576
+  fly: 1703
+  gadfly: 59991
+  stiffly: 68206
+scored_words:
+  blowfly: 136125
+  botfly: 109250
+  damselfly: 131193
+  greenfly: 108081
+  gruffly: 137163
+  horsefly: 111719
+  housefly: 145780
+  mayfly: 102222
+  overfly: 316273
+  sandfly: 198203
+  sawfly: 129071
+  stonefly: 142222
+  whitefly: 133388
+not_scored_words:
+- aloofly
+- bluffly
+- catchfly
+- dayfly
+- deafly
+- deerfly
+- dobsonfly
+- gallfly
+- ruffly
+- snuffly

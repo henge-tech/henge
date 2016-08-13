@@ -1,0 +1,37 @@
+---
+pattern: ne_ed
+hi_scored_words_count: 16
+scored_words_count: 7
+total_words: 27
+score: 1631044
+score_per_word: 70914
+hi_scored_words:
+  neared: 49590
+  necessitated: 33686
+  necked: 35409
+  need: 164
+  needed: 818
+  negated: 44665
+  neglected: 8145
+  negotiated: 11289
+  nested: 19620
+  nestled: 24367
+  netted: 37938
+  networked: 17080
+  neutered: 47043
+  neutralized: 51062
+  newfangled: 75678
+  newlywed: 63428
+scored_words:
+  nearsighted: 138365
+  needled: 140765
+  negatived: 103534
+  neighbored: 179295
+  neighed: 145177
+  nerved: 157805
+  nettled: 246121
+not_scored_words:
+- neatened
+- necklaced
+- necrosed
+- newfashioned

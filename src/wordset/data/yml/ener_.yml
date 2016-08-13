@@ -1,0 +1,31 @@
+---
+pattern: ener_
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 21
+score: 1185145
+score_per_word: 79009
+hi_scored_words:
+  energetic: 9637
+  energetically: 50644
+  energetics: 60520
+  energies: 9072
+  energize: 44640
+  energized: 31801
+  energizer: 35217
+  energizing: 49569
+  energy: 748
+scored_words:
+  energizers: 166915
+  energizes: 100068
+  enervate: 124108
+  enervated: 174817
+  enervating: 194990
+  enervation: 132399
+not_scored_words:
+- energid
+- energids
+- energumen
+- enervates
+- enervative
+- enervator

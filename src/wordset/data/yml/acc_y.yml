@@ -1,0 +1,30 @@
+---
+pattern: acc_y
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 20
+score: 1070067
+score_per_word: 66879
+hi_scored_words:
+  acceptability: 31892
+  acceptably: 73805
+  accessibility: 8180
+  accessory: 8595
+  accidentally: 9221
+  accompany: 7364
+  accordingly: 4052
+  accountability: 15114
+  accountancy: 20986
+  accuracy: 3330
+  accurately: 6328
+  accusatory: 90948
+scored_words:
+  accessibly: 273778
+  acclivity: 148864
+  accretionary: 199947
+  accusingly: 167663
+not_scored_words:
+- acclamatory
+- accommodatingly
+- accountably
+- accursedly

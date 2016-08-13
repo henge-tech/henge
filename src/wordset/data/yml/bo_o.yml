@@ -1,0 +1,29 @@
+---
+pattern: bo_o
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 19
+score: 903148
+score_per_word: 75262
+hi_scored_words:
+  bolero: 46650
+  boliviano: 65601
+  bolo: 43759
+  bongo: 29307
+  bonito: 44945
+  bonobo: 46480
+  boo: 16710
+  bordello: 70283
+  bozo: 52091
+scored_words:
+  boffo: 191046
+  booboo: 119985
+  boohoo: 176291
+not_scored_words:
+- Boccaccio
+- Boiardo
+- Boito
+- Bolzano
+- Bono
+- Borneo
+- Borodino

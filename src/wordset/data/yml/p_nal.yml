@@ -1,0 +1,40 @@
+---
+pattern: p_nal
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 30
+score: 1549134
+score_per_word: 73768
+hi_scored_words:
+  paraprofessional: 84425
+  paternal: 21948
+  penal: 15782
+  pentagonal: 98253
+  personal: 355
+  phenomenal: 17148
+  polygonal: 44213
+  positional: 28557
+  prepositional: 70717
+  presentational: 85501
+  processional: 81735
+  professional: 1292
+  promotional: 10249
+  pronominal: 91862
+  proportional: 10878
+  propositional: 41008
+  provisional: 10078
+scored_words:
+  passional: 125618
+  precessional: 310507
+  preprofessional: 191617
+  psychoanal: 207391
+not_scored_words:
+- paginal
+- perceptional
+- permutational
+- pheromonal
+- piperonal
+- postseasonal
+- probational
+- procreational
+- progestational

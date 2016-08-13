@@ -1,0 +1,31 @@
+---
+pattern: can_ed
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 1361998
+score_per_word: 104769
+hi_scored_words:
+  canceled: 20805
+  cancelled: 10357
+  candied: 47188
+  caned: 89054
+  canned: 13092
+  canonized: 80281
+  cantilevered: 98070
+  canvassed: 70455
+scored_words:
+  cankered: 244654
+  cannibalized: 211032
+  canopied: 135924
+  canted: 131031
+  cantered: 210055
+not_scored_words:
+- canalized
+- candled
+- cannonaded
+- cannoned
+- canoed
+- canoodled
+- cantillated
+- canvased

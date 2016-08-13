@@ -1,0 +1,26 @@
+---
+pattern: sp_al
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 16
+score: 891378
+score_per_word: 63669
+hi_scored_words:
+  spacial: 92293
+  spatial: 8662
+  spatiotemporal: 89450
+  special: 348
+  spectral: 11263
+  spherical: 16673
+  spinal: 10430
+  spiral: 9321
+  spiritual: 2208
+  spousal: 36199
+scored_words:
+  speleological: 171632
+  spermicidal: 162032
+  spheroidal: 115243
+  spital: 165624
+not_scored_words:
+- spectroscopical
+- sphincteral

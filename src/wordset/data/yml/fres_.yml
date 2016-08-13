@@ -1,0 +1,33 @@
+---
+pattern: fres_
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 23
+score: 1203976
+score_per_word: 60198
+hi_scored_words:
+  fresco: 24819
+  frescoes: 46016
+  fresh: 1186
+  freshen: 56552
+  freshener: 49434
+  fresheners: 63578
+  freshening: 84301
+  fresher: 31327
+  freshers: 42641
+  freshest: 33271
+  freshly: 14185
+  freshman: 11805
+  freshmen: 19133
+  freshness: 18237
+  freshwater: 17789
+  fresnel: 55577
+scored_words:
+  freshened: 109276
+  freshens: 166530
+  freshet: 189525
+  freshets: 168794
+not_scored_words:
+- Frescobaldi
+- Fresnel
+- Fresno

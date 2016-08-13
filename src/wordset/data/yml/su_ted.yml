@@ -1,0 +1,42 @@
+---
+pattern: su_ted
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 32
+score: 1883416
+score_per_word: 72439
+hi_scored_words:
+  subcontracted: 78163
+  subjected: 7812
+  subjugated: 71960
+  submitted: 2159
+  subordinated: 31681
+  substantiated: 40292
+  substituted: 10361
+  subtracted: 36925
+  subverted: 72103
+  suffocated: 65966
+  suggested: 1767
+  suited: 5883
+  superheated: 98876
+  supplanted: 54154
+  supplemented: 16417
+  supported: 1734
+  surmounted: 55545
+  suspected: 5075
+scored_words:
+  subducted: 179319
+  sublimated: 100772
+  subsisted: 116207
+  sugarcoated: 244147
+  superannuated: 147503
+  supersaturated: 129107
+  supplicated: 170239
+  surfeited: 139249
+not_scored_words:
+- subedited
+- supersophisticated
+- supinated
+- suppurated
+- surefooted
+- susurrated

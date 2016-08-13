@@ -1,0 +1,32 @@
+---
+pattern: past_s
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 1195022
+score_per_word: 91924
+hi_scored_words:
+  pastas: 54471
+  pastels: 37396
+  pastes: 57315
+  pasties: 65818
+  pastimes: 39134
+  pastors: 20328
+  pastries: 28974
+  pasts: 66700
+  pastures: 26348
+scored_words:
+  pastiches: 262784
+  pastilles: 182670
+  pastis: 152700
+  pastorals: 200384
+not_scored_words:
+- pasterns
+- pasteurizers
+- pasteurizes
+- pastils
+- pastiness
+- pastises
+- pastorales
+- pastorates
+- pastorships

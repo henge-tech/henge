@@ -1,0 +1,55 @@
+---
+pattern: b_nd
+hi_scored_words_count: 25
+scored_words_count: 6
+total_words: 45
+score: 1719757
+score_per_word: 55476
+hi_scored_words:
+  background: 1998
+  backhand: 43673
+  band: 1032
+  bandstand: 52293
+  battleground: 30206
+  beforehand: 12532
+  befriend: 46488
+  behind: 678
+  bend: 4780
+  beyond: 903
+  bind: 6268
+  bland: 15035
+  blend: 7207
+  blind: 2385
+  blond: 9788
+  bloodhound: 23734
+  bond: 2968
+  borderland: 77808
+  bound: 1840
+  boyfriend: 10822
+  brand: 3483
+  brigand: 78728
+  broadband: 9807
+  bund: 42280
+  bushland: 71096
+scored_words:
+  badland: 148415
+  behindhand: 165160
+  bookend: 119769
+  bottomland: 116907
+  brassbound: 340583
+  browband: 271091
+not_scored_words:
+- Basutoland
+- Bechuanaland
+- Bertrand
+- Bond
+- Briand
+- Bund
+- Bundelkhand
+- Burgenland
+- backbend
+- bellyband
+- bergschrund
+- boarhound
+- bookstand
+- buckhound

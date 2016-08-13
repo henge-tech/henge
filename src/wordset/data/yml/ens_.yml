@@ -1,0 +1,68 @@
+---
+pattern: ens_
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 58
+score: 3055397
+score_per_word: 98561
+hi_scored_words:
+  ens: 34282
+  ensconced: 76562
+  ensemble: 8770
+  ensembles: 23474
+  enshrine: 92121
+  enshrined: 38646
+  ensign: 20068
+  ensigns: 95693
+  enslave: 56650
+  enslaved: 30688
+  enslavement: 56607
+  enslaving: 96552
+  ensue: 33137
+  ensued: 25553
+  ensues: 40315
+  ensuing: 19301
+  ensure: 3171
+  ensured: 19972
+  ensures: 15714
+  ensuring: 5594
+scored_words:
+  ensconce: 235852
+  enshrinement: 235020
+  enshrines: 153473
+  enshrining: 188132
+  enshrouded: 175320
+  enslaves: 206709
+  ensnare: 100037
+  ensnared: 104449
+  ensnares: 309387
+  ensnaring: 279989
+  enstatite: 274159
+not_scored_words:
+- Ens
+- Enschede
+- Ensor
+- ensample
+- ensanguine
+- ensconces
+- ensconcing
+- enscroll
+- ensepulcher
+- ensheathe
+- enshroud
+- enshrouding
+- enshrouds
+- ensiform
+- ensilage
+- ensile
+- ensiled
+- ensiles
+- ensiling
+- enslaver
+- ensnarement
+- ensnarer
+- ensoul
+- ensphere
+- ensurer
+- ensurers
+- enswathe

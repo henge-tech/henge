@@ -1,0 +1,29 @@
+---
+pattern: s_cing
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 19
+score: 1390520
+score_per_word: 81795
+hi_scored_words:
+  sacrificing: 20905
+  seducing: 46390
+  sentencing: 14573
+  sequencing: 14701
+  servicing: 12025
+  silencing: 39804
+  slicing: 35471
+  sourcing: 12977
+  spacing: 12193
+  splicing: 27432
+  surfacing: 35211
+  syncing: 46204
+scored_words:
+  sluicing: 244595
+  solacing: 313914
+  spicing: 113509
+  sprucing: 145553
+  sufficing: 255063
+not_scored_words:
+- saucing
+- siccing

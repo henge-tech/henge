@@ -1,0 +1,39 @@
+---
+pattern: cr_on
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 29
+score: 1096597
+score_per_word: 73106
+hi_scored_words:
+  craton: 99299
+  crayon: 28780
+  creation: 2010
+  cremation: 29856
+  criminalization: 88277
+  crimson: 8593
+  criterion: 9746
+  croon: 92845
+  croton: 44454
+  crucifixion: 29207
+  crystallization: 32240
+scored_words:
+  craftsperson: 229725
+  crampon: 144195
+  crepitation: 119514
+  crouton: 137856
+not_scored_words:
+- Craigavon
+- Creation
+- Creighton
+- Creon
+- Crichton
+- Crompton
+- Croydon
+- Crucifixion
+- crenation
+- crenelation
+- crenulation
+- crispation
+- crosspollination
+- croûton

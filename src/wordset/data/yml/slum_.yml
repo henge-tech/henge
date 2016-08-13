@@ -1,0 +1,37 @@
+---
+pattern: slum_
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 27
+score: 1365314
+score_per_word: 97522
+hi_scored_words:
+  slum: 28825
+  slumber: 20552
+  slumbering: 81626
+  slumbers: 85739
+  slump: 28773
+  slumped: 49720
+  slumping: 74480
+  slumps: 76999
+  slums: 34077
+scored_words:
+  slumbered: 158243
+  slumberland: 116066
+  slumberous: 299479
+  slumlords: 194450
+  slumming: 116285
+not_scored_words:
+- slumberer
+- slumberers
+- slumbrous
+- slumdog
+- slumdogs
+- slumgullion
+- slumgullions
+- slumlord
+- slummed
+- slummer
+- slummier
+- slummiest
+- slummy

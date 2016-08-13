@@ -1,0 +1,26 @@
+---
+pattern: ar_rs
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1361997
+score_per_word: 113499
+hi_scored_words:
+  arbiters: 94431
+  arbitrators: 44335
+  arbors: 68907
+  archers: 28731
+  armchairs: 58164
+  armors: 87755
+  arrangers: 73944
+  arrears: 21686
+scored_words:
+  arbitrageurs: 303921
+  armorers: 276803
+  arresters: 155250
+  artificers: 148070
+not_scored_words:
+- arbitragers
+- ardors
+- arguers
+- armigers

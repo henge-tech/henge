@@ -1,0 +1,26 @@
+---
+pattern: s_ened
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 16
+score: 961917
+score_per_word: 68708
+hi_scored_words:
+  saddened: 27887
+  screened: 12693
+  sharpened: 34731
+  shortened: 18156
+  sickened: 49605
+  softened: 20880
+  stiffened: 52525
+  straightened: 32857
+  strengthened: 9903
+  sweetened: 38135
+scored_words:
+  slackened: 108183
+  smoothened: 291669
+  straitened: 141988
+  supervened: 122705
+not_scored_words:
+- smartened
+- steepened

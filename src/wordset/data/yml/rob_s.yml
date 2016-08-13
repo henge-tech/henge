@@ -1,0 +1,25 @@
+---
+pattern: rob_s
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 15
+score: 226193
+score_per_word: 25132
+hi_scored_words:
+  robberies: 35710
+  robbers: 23750
+  robes: 13387
+  robins: 24895
+  robles: 32628
+  robotics: 17297
+  robots: 12424
+  robs: 38557
+  robustness: 27545
+scored_words: {}
+not_scored_words:
+- Robbins
+- Roberts
+- Robles
+- robocalls
+- robotizes
+- robustious

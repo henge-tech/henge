@@ -1,0 +1,27 @@
+---
+pattern: h_ding
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 17
+score: 929513
+score_per_word: 71501
+hi_scored_words:
+  handing: 15569
+  heading: 5126
+  heeding: 71109
+  heralding: 84821
+  herding: 39362
+  hiding: 5997
+  hoarding: 42175
+  holding: 1657
+  homesteading: 78469
+  hounding: 97548
+scored_words:
+  hazarding: 155181
+  heartrending: 147782
+  hooding: 184717
+not_scored_words:
+- Harding
+- hording
+- horsetrading
+- husbanding

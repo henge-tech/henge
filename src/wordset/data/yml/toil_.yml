@@ -1,0 +1,27 @@
+---
+pattern: toil_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 17
+score: 948840
+score_per_word: 67774
+hi_scored_words:
+  toil: 25708
+  toile: 62939
+  toiled: 64261
+  toilet: 5330
+  toileting: 96127
+  toiletries: 34591
+  toiletry: 67590
+  toilets: 18414
+  toilette: 22816
+  toiling: 57829
+  toils: 67424
+scored_words:
+  toiler: 126957
+  toilers: 164942
+  toilsome: 133912
+not_scored_words:
+- toileted
+- toilful
+- toilworn

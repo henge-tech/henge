@@ -1,0 +1,37 @@
+---
+pattern: haz_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 27
+score: 1556932
+score_per_word: 91584
+hi_scored_words:
+  hazard: 6041
+  hazardous: 6806
+  hazards: 8102
+  haze: 13180
+  hazel: 11867
+  hazelnut: 36454
+  hazelnuts: 69429
+  hazing: 42580
+  hazmat: 39329
+  hazy: 25265
+scored_words:
+  hazan: 143901
+  hazarded: 186537
+  hazarding: 155181
+  hazed: 141759
+  hazer: 234034
+  hazes: 153884
+  haziness: 282583
+not_scored_words:
+- Hazel
+- Hazlitt
+- hazans
+- hazardously
+- hazels
+- hazers
+- hazier
+- haziest
+- hazily
+- hazings

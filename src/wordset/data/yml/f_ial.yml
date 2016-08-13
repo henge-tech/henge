@@ -1,0 +1,22 @@
+---
+pattern: f_ial
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 12
+score: 747999
+score_per_word: 74799
+hi_scored_words:
+  facial: 8535
+  factorial: 41873
+  familial: 21145
+  fiducial: 81900
+  filial: 48405
+  financial: 1157
+  finial: 53351
+  fluvial: 60517
+scored_words:
+  ferial: 211277
+  filarial: 219839
+not_scored_words:
+- fetial
+- fossorial

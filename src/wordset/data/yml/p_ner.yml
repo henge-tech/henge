@@ -1,0 +1,36 @@
+---
+pattern: p_ner
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 26
+score: 1556425
+score_per_word: 86468
+hi_scored_words:
+  parishioner: 73450
+  partner: 1972
+  pensioner: 36842
+  petitioner: 17236
+  pilsner: 68714
+  plainer: 95015
+  planer: 47966
+  planner: 10997
+  practitioner: 10550
+  prisoner: 5133
+scored_words:
+  pardner: 135508
+  pardoner: 239570
+  poisoner: 144490
+  positioner: 119032
+  prizewinner: 157891
+  probationer: 103524
+  provisioner: 153460
+  pruner: 135075
+not_scored_words:
+- Pilsner
+- pantyliner
+- postponer
+- predeterminer
+- predinner
+- profaner
+- punner
+- purloiner

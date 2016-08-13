@@ -1,0 +1,52 @@
+---
+pattern: bod_
+hi_scored_words_count: 21
+scored_words_count: 7
+total_words: 42
+score: 2305415
+score_per_word: 82336
+hi_scored_words:
+  bod: 28317
+  bodacious: 92847
+  bode: 30776
+  bodega: 41227
+  bodegas: 94491
+  bodes: 67422
+  bodhisattva: 53920
+  bodice: 34452
+  bodied: 29080
+  bodies: 2351
+  bodily: 9887
+  bodkin: 90614
+  bods: 79722
+  body: 297
+  bodybuilder: 38481
+  bodybuilders: 41185
+  bodybuilding: 18975
+  bodyguard: 28331
+  bodyguards: 49246
+  bodysuit: 75520
+  bodywork: 33863
+scored_words:
+  boded: 248317
+  bodge: 212970
+  bodices: 219655
+  bodiless: 213911
+  boding: 187938
+  bodyboard: 149980
+  bodysuits: 131640
+not_scored_words:
+- Bodhidharma
+- Bodhisattva
+- Bodleian
+- Bodoni
+- Bodonis
+- bodged
+- bodges
+- bodgie
+- bodging
+- bodings
+- bodkins
+- bodyboarder
+- bodycheck
+- bodysurf

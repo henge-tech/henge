@@ -1,0 +1,36 @@
+---
+pattern: t_lity
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 26
+score: 2806382
+score_per_word: 140319
+hi_scored_words:
+  technicality: 53235
+  testability: 97895
+  tolerability: 91561
+  tonality: 62709
+  totality: 27412
+  traceability: 49083
+  tranquility: 28815
+  tranquillity: 24788
+  transferability: 76027
+  triviality: 93380
+scored_words:
+  tangibility: 291302
+  teachability: 338618
+  territoriality: 101644
+  theatricality: 148209
+  topicality: 137422
+  tractability: 171332
+  transportability: 227344
+  transsexuality: 276121
+  tunability: 292052
+  typicality: 217433
+not_scored_words:
+- tactility
+- tenability
+- tensility
+- torsibility
+- translatability
+- transmutability

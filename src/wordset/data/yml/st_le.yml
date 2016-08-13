@@ -1,0 +1,42 @@
+---
+pattern: st_le
+hi_scored_words_count: 19
+scored_words_count: 6
+total_words: 32
+score: 1850397
+score_per_word: 74015
+hi_scored_words:
+  stabile: 91008
+  stable: 3121
+  stale: 17411
+  staple: 13995
+  startle: 44188
+  steeple: 32882
+  stele: 77578
+  sterile: 13508
+  stifle: 31047
+  stile: 37526
+  stipple: 96310
+  stockpile: 30254
+  stole: 8584
+  straddle: 50058
+  strangle: 37794
+  struggle: 3438
+  stubble: 36949
+  stumble: 18016
+  style: 722
+scored_words:
+  steerable: 105747
+  stickle: 201501
+  stipule: 239739
+  stoppable: 292492
+  straggle: 241432
+  stretchable: 125097
+not_scored_words:
+- Steele
+- stageable
+- statutable
+- stokehole
+- stopple
+- strickle
+- strobile

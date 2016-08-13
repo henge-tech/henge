@@ -1,0 +1,40 @@
+---
+pattern: _sets
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 30
+score: 1370655
+score_per_word: 72139
+hi_scored_words:
+  assets: 6329
+  closets: 27576
+  corsets: 40540
+  handsets: 26576
+  headsets: 19054
+  insets: 86136
+  mindsets: 90165
+  offsets: 29153
+  presets: 34791
+  resets: 20883
+  sets: 1850
+  subsets: 22573
+  sunsets: 26836
+  upsets: 32709
+scored_words:
+  bassets: 212544
+  besets: 243405
+  gussets: 139418
+  marmosets: 179719
+  onsets: 130398
+not_scored_words:
+- Knessets
+- Massachusets
+- bonesets
+- cossets
+- outsets
+- possets
+- russets
+- somersets
+- tassets
+- twinsets
+- typesets

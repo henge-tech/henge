@@ -1,0 +1,57 @@
+---
+pattern: as_es
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 47
+score: 2221142
+score_per_word: 85428
+hi_scored_words:
+  ascites: 55973
+  ascribes: 86522
+  ashes: 7911
+  asides: 51473
+  aspires: 51701
+  assemblages: 46003
+  assembles: 52107
+  assemblies: 10873
+  asses: 9191
+  assesses: 30006
+  assholes: 22831
+  assignees: 94873
+  associates: 3388
+  assumes: 5000
+  assurances: 18072
+  assures: 20074
+  asymmetries: 57286
+scored_words:
+  ascomycetes: 171150
+  ascospores: 166064
+  asperities: 233843
+  aspirates: 151090
+  assimilates: 134954
+  assizes: 118622
+  astonishes: 147007
+  astrolabes: 298040
+  asymptotes: 177088
+not_scored_words:
+- Asperges
+- Assyriologies
+- asbestoses
+- ascariases
+- asepses
+- asininities
+- asparagines
+- aspergilloses
+- asperses
+- asphyxiates
+- assassinates
+- asseverates
+- assibilates
+- assiduities
+- assuages
+- assurednesses
+- asthenospheres
+- astilbes
+- astragaluses
+- astrodomes
+- astrometries

@@ -1,0 +1,26 @@
+---
+pattern: _name
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 614527
+score_per_word: 55866
+hi_scored_words:
+  codename: 37778
+  filename: 11206
+  forename: 79256
+  name: 115
+  nickname: 7928
+  pathname: 62799
+  rename: 17706
+  surname: 8629
+  username: 7643
+scored_words:
+  penname: 259262
+  placename: 122205
+not_scored_words:
+- Suriname
+- bename
+- misname
+- whatshername
+- whatshisname

@@ -1,0 +1,37 @@
+---
+pattern: fu_ing
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 27
+score: 2451981
+score_per_word: 106607
+hi_scored_words:
+  fucking: 5489
+  fueling: 33013
+  fulfilling: 12335
+  fumbling: 46612
+  fuming: 47790
+  functioning: 13846
+  funding: 4463
+  fundraising: 7543
+  furnishing: 17858
+  furthering: 36025
+  fusing: 43867
+  fussing: 69294
+scored_words:
+  fudging: 127438
+  fulling: 106697
+  fulminating: 247394
+  fumigating: 196692
+  funking: 236482
+  funneling: 105832
+  furling: 132053
+  furring: 217395
+  furrowing: 247616
+  futzing: 261111
+  fuzzing: 235136
+not_scored_words:
+- fuddling
+- fulgurating
+- furbishing
+- furloughing

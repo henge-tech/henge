@@ -1,0 +1,34 @@
+---
+pattern: _rays
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 24
+score: 1271254
+score_per_word: 79453
+hi_scored_words:
+  arrays: 11685
+  ashtrays: 49862
+  betrays: 46046
+  forays: 52434
+  grays: 33676
+  portrays: 31205
+  prays: 30707
+  rays: 5359
+  sprays: 23870
+  stingrays: 75699
+  strays: 49173
+  trays: 16950
+scored_words:
+  brays: 193037
+  crays: 250707
+  drays: 134041
+  frays: 266803
+not_scored_words:
+- affrays
+- bewrays
+- defrays
+- disarrays
+- hairsprays
+- hoorays
+- morays
+- resprays

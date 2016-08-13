@@ -1,0 +1,26 @@
+---
+pattern: _oken
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 810685
+score_per_word: 67557
+hi_scored_words:
+  awoken: 69200
+  broken: 1301
+  heartbroken: 52596
+  outspoken: 24613
+  spoken: 3017
+  token: 6723
+  unbroken: 22034
+  unspoken: 34520
+  woken: 34185
+scored_words:
+  betoken: 113756
+  housebroken: 136466
+  plainspoken: 312274
+not_scored_words:
+- Hoboken
+- bespoken
+- foretoken
+- misspoken

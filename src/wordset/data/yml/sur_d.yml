@@ -1,0 +1,34 @@
+---
+pattern: sur_d
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 24
+score: 1147103
+score_per_word: 67476
+hi_scored_words:
+  surfaced: 24804
+  surfboard: 35901
+  surfed: 48966
+  surged: 37084
+  surmised: 51693
+  surmounted: 55545
+  surpassed: 22168
+  surprised: 2898
+  surrendered: 18125
+  surround: 6884
+  surrounded: 4464
+  surveyed: 11035
+  survived: 7202
+scored_words:
+  surcharged: 142918
+  surd: 235110
+  surfeited: 139249
+  surveilled: 303057
+not_scored_words:
+- surbased
+- surceased
+- surefooted
+- surfbird
+- surfboarded
+- surplussed
+- surtaxed

@@ -1,0 +1,60 @@
+---
+pattern: _dges
+hi_scored_words_count: 20
+scored_words_count: 8
+total_words: 50
+score: 2391747
+score_per_word: 85419
+hi_scored_words:
+  acknowledges: 15176
+  badges: 15920
+  bridges: 5677
+  cartridges: 8616
+  dodges: 66803
+  edges: 5533
+  fridges: 30854
+  grudges: 67378
+  hedges: 20892
+  judges: 3597
+  ledges: 48233
+  lodges: 12913
+  midges: 94635
+  nudges: 98973
+  partridges: 97759
+  pledges: 18083
+  ridges: 22243
+  sedges: 91980
+  smudges: 86149
+  wedges: 26850
+scored_words:
+  abridges: 183469
+  dredges: 103319
+  footbridges: 239418
+  fudges: 237759
+  kludges: 296331
+  sledges: 104201
+  trudges: 281807
+  weighbridges: 107179
+not_scored_words:
+- Bridges
+- Hodges
+- Judges
+- adjudges
+- begrudges
+- bodges
+- budges
+- cadges
+- dislodges
+- drawbridges
+- drudges
+- fledges
+- hodgepodges
+- misjudges
+- prejudges
+- rejudges
+- selvedges
+- splodges
+- stodges
+- straightedges
+- wadges
+- wodges

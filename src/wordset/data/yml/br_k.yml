@@ -1,0 +1,32 @@
+---
+pattern: br_k
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 22
+score: 956780
+score_per_word: 73598
+hi_scored_words:
+  break: 897
+  breakneck: 75271
+  breastwork: 65028
+  brick: 4792
+  brickwork: 59400
+  brink: 19864
+  brisk: 20633
+  brock: 14457
+  brook: 6484
+  broomstick: 62463
+scored_words:
+  breadstick: 235353
+  bridgework: 243246
+  brushwork: 148892
+not_scored_words:
+- Braddock
+- Brock
+- Brubeck
+- Brunswick
+- Bryansk
+- brainsick
+- brainwork
+- breechblock
+- brightwork

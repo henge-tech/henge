@@ -1,0 +1,43 @@
+---
+pattern: swa_s
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 33
+score: 2070580
+score_per_word: 108977
+hi_scored_words:
+  swabs: 49342
+  swags: 84096
+  swallows: 22742
+  swamps: 28009
+  swans: 19550
+  swaps: 26247
+  swarms: 43340
+  swatches: 49288
+  swaths: 97765
+  sways: 89242
+scored_words:
+  swains: 161660
+  swallowtails: 257040
+  swamis: 253853
+  swappers: 126559
+  swards: 235240
+  swashbucklers: 146668
+  swastikas: 108858
+  swathes: 102602
+  swats: 168479
+not_scored_words:
+- Swahilis
+- Swazis
+- swaddles
+- swages
+- swaggers
+- swampiness
+- swamplands
+- swankiness
+- swanks
+- swansongs
+- swarthiness
+- swarthinesses
+- swashes
+- swatters

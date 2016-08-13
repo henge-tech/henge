@@ -1,0 +1,63 @@
+---
+pattern: va_y
+hi_scored_words_count: 16
+scored_words_count: 13
+total_words: 53
+score: 2535111
+score_per_word: 87417
+hi_scored_words:
+  vacancy: 10172
+  vaguely: 15506
+  vainly: 43376
+  valiantly: 63382
+  validity: 8246
+  validly: 56577
+  valley: 1094
+  vanity: 7114
+  variability: 13836
+  variably: 87819
+  variety: 1300
+  variously: 30679
+  varsity: 11211
+  vary: 3808
+  vasectomy: 47802
+  vastly: 17287
+scored_words:
+  vacantly: 176943
+  vacuity: 150183
+  vacuously: 297620
+  vagary: 187086
+  vaginally: 133640
+  vagrancy: 110181
+  vainglory: 108990
+  valedictory: 124587
+  valency: 100612
+  vampy: 225045
+  vanishingly: 163146
+  vascularity: 122970
+  vasty: 214899
+not_scored_words:
+- Valery
+- Valéry
+- vacillatory
+- vagariously
+- vaginectomy
+- vagrantly
+- vaingloriously
+- valetudinary
+- valiancy
+- valorously
+- valuably
+- vampishly
+- vapidity
+- vapidly
+- vaporously
+- vapory
+- varicosity
+- varicotomy
+- variedly
+- varietally
+- varletry
+- vaticinatory
+- vaulty
+- vauntingly

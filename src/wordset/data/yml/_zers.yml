@@ -1,0 +1,100 @@
+---
+pattern: _zers
+hi_scored_words_count: 20
+scored_words_count: 25
+total_words: 90
+score: 5534546
+score_per_word: 122989
+hi_scored_words:
+  analyzers: 38967
+  appetizers: 26222
+  blazers: 20817
+  bulldozers: 55383
+  buzzers: 79374
+  equalizers: 74696
+  fertilizers: 25453
+  freezers: 27023
+  geezers: 97440
+  howitzers: 99866
+  moisturizers: 60807
+  organizers: 20511
+  panzers: 79595
+  stabilizers: 42102
+  sympathizers: 59608
+  synthesizers: 36196
+  trailblazers: 65226
+  tranquilizers: 64273
+  tweezers: 35515
+  vaporizers: 91133
+scored_words:
+  atomizers: 126667
+  boozers: 253172
+  breathalyzers: 294887
+  colonizers: 111175
+  deodorizers: 191363
+  digitizers: 136945
+  dozers: 135542
+  energizers: 166915
+  gazers: 170842
+  glazers: 239021
+  grazers: 131864
+  ionizers: 117484
+  neutralizers: 221497
+  optimizers: 103378
+  oxidizers: 109420
+  plasticizers: 111700
+  recognizers: 226227
+  sanitizers: 114306
+  schnauzers: 134316
+  sensitizers: 222765
+  spritzers: 320038
+  squeezers: 309332
+  stargazers: 129024
+  sterilizers: 125644
+  visualizers: 230815
+not_scored_words:
+- alphabetizers
+- baptizers
+- brazers
+- centralizers
+- criticizers
+- economizers
+- eulogizers
+- fraternizers
+- gormandizers
+- gyrostabilizers
+- harmonizers
+- hazers
+- humanizers
+- hypnotizers
+- immobilizers
+- kibitzers
+- liquidizers
+- mazers
+- memorizers
+- mesmerizers
+- mobilizers
+- modernizers
+- monopolizers
+- moralizers
+- normalizers
+- pasteurizers
+- patronizers
+- philosophizers
+- plagiarizers
+- pressurizers
+- proselytizers
+- quizzers
+- schmoozers
+- seizers
+- seltzers
+- sermonizers
+- subsidizers
+- summarizers
+- tantalizers
+- temporizers
+- tenderizers
+- totalizers
+- vulgarizers
+- waltzers
+- womanizers

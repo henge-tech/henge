@@ -1,0 +1,22 @@
+---
+pattern: m_ture
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 12
+score: 771289
+score_per_word: 70117
+hi_scored_words:
+  manufacture: 5215
+  mature: 3119
+  microstructure: 41662
+  miniature: 12385
+  misadventure: 72616
+  mixture: 4161
+  moisture: 6206
+  monoculture: 87833
+  musculature: 59457
+scored_words:
+  mariculture: 141621
+  misfeature: 337014
+not_scored_words:
+- multure

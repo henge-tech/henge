@@ -1,0 +1,33 @@
+---
+pattern: _ild
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 23
+score: 820303
+score_per_word: 63100
+hi_scored_words:
+  brainchild: 51257
+  build: 1097
+  child: 336
+  gild: 64434
+  grandchild: 27993
+  guild: 9148
+  mild: 4975
+  rebuild: 11230
+  stepchild: 74684
+  wild: 1122
+scored_words:
+  godchild: 134896
+  lovechild: 187716
+  schoolchild: 251415
+not_scored_words:
+- Brunhild
+- Brynhild
+- Kriemhild
+- Rothschild
+- overbuild
+- regild
+- sild
+- unbuild
+- upbuild
+- wergild

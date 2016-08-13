@@ -1,0 +1,35 @@
+---
+pattern: resc_
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 25
+score: 1539574
+score_per_word: 81030
+hi_scored_words:
+  reschedule: 41868
+  rescheduled: 31067
+  rescheduling: 62294
+  rescind: 43705
+  rescinded: 47609
+  rescission: 63480
+  rescript: 92599
+  rescue: 3283
+  rescued: 11555
+  rescuer: 60386
+  rescuers: 38898
+  rescues: 34711
+  rescuing: 32456
+scored_words:
+  rescale: 170290
+  rescaled: 129377
+  rescaling: 117137
+  reschedules: 269215
+  rescinding: 112312
+  rescinds: 177332
+not_scored_words:
+- rescales
+- rescindable
+- rescissory
+- rescore
+- rescreen
+- rescripts

@@ -1,0 +1,48 @@
+---
+pattern: _site
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 38
+score: 2038574
+score_per_word: 92662
+hi_scored_words:
+  apposite: 95764
+  campsite: 27371
+  composite: 8336
+  exquisite: 8360
+  marcasite: 69854
+  offsite: 38344
+  onsite: 22319
+  opposite: 2623
+  parasite: 17802
+  prerequisite: 11401
+  requisite: 11500
+  site: 521
+  website: 379
+scored_words:
+  andalusite: 198784
+  andesite: 109809
+  anorthosite: 293981
+  dumpsite: 268312
+  inapposite: 202633
+  lewisite: 232180
+  magnesite: 108611
+  martensite: 137915
+  perquisite: 171775
+not_scored_words:
+- Composite
+- Dallasite
+- Hussite
+- Monophysite
+- adamsite
+- anglesite
+- bombsite
+- cerussite
+- ectoparasite
+- endoparasite
+- felsite
+- gibbsite
+- hessite
+- jarosite
+- microparasite
+- polybasite

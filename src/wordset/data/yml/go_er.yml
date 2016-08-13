@@ -1,0 +1,50 @@
+---
+pattern: go_er
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 40
+score: 1988233
+score_per_word: 99411
+hi_scored_words:
+  goalkeeper: 23142
+  goaltender: 41721
+  gobbler: 78836
+  godfather: 16529
+  godmother: 40883
+  goer: 57503
+  goiter: 60628
+  golfer: 18691
+  goner: 73862
+  goober: 71260
+  gopher: 30098
+  gossamer: 37729
+scored_words:
+  goalscorer: 104493
+  goddaughter: 191615
+  gofer: 180100
+  goldener: 202548
+  gondolier: 155297
+  goniometer: 156750
+  goosander: 201025
+  gouger: 245523
+not_scored_words:
+- Goldwater
+- Gopher
+- Gordimer
+- Gower
+- goatsucker
+- gobstopper
+- godlier
+- goffer
+- goggler
+- goldbricker
+- gonfalonier
+- goodlier
+- goofier
+- gooier
+- goosier
+- gorier
+- gormandizer
+- gossiper
+- gossipmonger
+- goutier

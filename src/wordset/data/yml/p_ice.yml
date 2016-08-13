@@ -1,0 +1,23 @@
+---
+pattern: p_ice
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 383501
+score_per_word: 38350
+hi_scored_words:
+  pice: 84284
+  plaice: 75022
+  police: 1017
+  practice: 761
+  precipice: 43149
+  prejudice: 6671
+  prentice: 21875
+  price: 389
+  pumice: 48033
+scored_words:
+  poultice: 102300
+not_scored_words:
+- Patrice
+- Prentice
+- Price

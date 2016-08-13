@@ -1,0 +1,28 @@
+---
+pattern: t_kers
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 18
+score: 1892305
+score_per_word: 111312
+hi_scored_words:
+  takers: 26269
+  talkers: 40877
+  tankers: 32263
+  thinkers: 16733
+  tickers: 86146
+  trackers: 33530
+  traffickers: 40547
+  trekkers: 86165
+  troublemakers: 70602
+  truckers: 28576
+scored_words:
+  tackers: 280812
+  tearjerkers: 247403
+  teleworkers: 204135
+  tiebreakers: 199873
+  tinkers: 113644
+  toolmakers: 179301
+  tuckers: 205429
+not_scored_words:
+- thwackers

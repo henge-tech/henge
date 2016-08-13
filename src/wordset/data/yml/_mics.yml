@@ -1,0 +1,60 @@
+---
+pattern: _mics
+hi_scored_words_count: 18
+scored_words_count: 11
+total_words: 50
+score: 2853797
+score_per_word: 98406
+hi_scored_words:
+  academics: 11426
+  aerodynamics: 37792
+  ceramics: 14093
+  comics: 5785
+  dynamics: 13550
+  economics: 6175
+  electrodynamics: 66010
+  epidemics: 31221
+  ergonomics: 28479
+  eurythmics: 54391
+  genomics: 23137
+  hydrodynamics: 55733
+  macroeconomics: 35328
+  microeconomics: 48386
+  mics: 26692
+  mimics: 38577
+  polemics: 71041
+  thermodynamics: 23869
+scored_words:
+  astrodynamics: 274706
+  atomics: 108839
+  biodynamics: 252206
+  bionomics: 313732
+  bulimics: 285118
+  endemics: 148709
+  geodynamics: 140420
+  magnetohydrodynamics: 174092
+  pandemics: 106513
+  psychodynamics: 204342
+  systemics: 253435
+not_scored_words:
+- Reaganomics
+- aerothermodynamics
+- agronomics
+- electrothermics
+- eurhythmics
+- graphemics
+- hypodermics
+- hypoglycemics
+- keramics
+- leukemics
+- loxodromics
+- matronymics
+- metronymics
+- morphophonemics
+- patronymics
+- phonemics
+- photodynamics
+- pneumodynamics
+- proxemics
+- rhythmics
+- tagmemics

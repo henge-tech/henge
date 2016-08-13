@@ -1,0 +1,30 @@
+---
+pattern: doll_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 756271
+score_per_word: 63022
+hi_scored_words:
+  doll: 5298
+  dollar: 2101
+  dollars: 1287
+  dollhouse: 33775
+  dollies: 59645
+  dollop: 64469
+  dolls: 5899
+  dolly: 14347
+scored_words:
+  dolled: 117603
+  dollhouses: 111749
+  dolling: 130508
+  dollops: 209590
+not_scored_words:
+- Dollfuss
+- Dollie
+- Dolly
+- dollarbird
+- dollarfish
+- dollish
+- dolloped
+- dolloping

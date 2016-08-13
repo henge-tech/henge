@@ -1,0 +1,23 @@
+---
+pattern: _eze
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 909722
+score_per_word: 82702
+hi_scored_words:
+  antifreeze: 49202
+  breeze: 6350
+  freeze: 7903
+  frieze: 39961
+  sneeze: 32816
+  squeeze: 9754
+  trapeze: 42983
+  wheeze: 72157
+scored_words:
+  refreeze: 287528
+  tweeze: 216417
+  unfreeze: 144651
+not_scored_words:
+- deepfreeze
+- feeze

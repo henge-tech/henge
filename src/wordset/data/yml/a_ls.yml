@@ -1,0 +1,77 @@
+---
+pattern: a_ls
+hi_scored_words_count: 20
+scored_words_count: 18
+total_words: 67
+score: 3813896
+score_per_word: 100365
+hi_scored_words:
+  aboriginals: 65835
+  accruals: 75140
+  admirals: 45041
+  aerials: 38493
+  aerosols: 36219
+  ails: 51327
+  alcohols: 37780
+  angels: 3357
+  animals: 1014
+  annals: 12862
+  annuals: 36380
+  apparels: 91086
+  appeals: 4625
+  appraisals: 23871
+  approvals: 17344
+  archangels: 79355
+  arrivals: 12447
+  arsenals: 63671
+  atolls: 76527
+  avails: 91296
+scored_words:
+  accidentals: 113701
+  acquittals: 173404
+  adrenals: 106332
+  adverbials: 216856
+  advertorials: 221675
+  agrochemicals: 112402
+  airfoils: 123678
+  annuls: 234656
+  antibacterials: 225077
+  antifungals: 166074
+  antivirals: 119890
+  anvils: 107680
+  armfuls: 161816
+  assails: 119661
+  audiovisuals: 188924
+  avowals: 168680
+  awls: 214928
+  axils: 174792
+not_scored_words:
+- Aboriginals
+- Amytals
+- Aprils
+- abseils
+- abuttals
+- accusals
+- acetals
+- acetyls
+- acidophils
+- agnails
+- airmails
+- aldols
+- alkyls
+- allyls
+- anils
+- anneals
+- anthills
+- antidiarrheals
+- antiphonals
+- antipodals
+- appalls
+- archils
+- argals
+- arils
+- artiodactyls
+- asphodels
+- assoils
+- astragals
+- axolotls

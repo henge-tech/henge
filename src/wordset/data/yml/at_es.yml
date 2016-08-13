@@ -1,0 +1,33 @@
+---
+pattern: at_es
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 23
+score: 569993
+score_per_word: 51817
+hi_scored_words:
+  athletes: 10842
+  atlases: 34707
+  atmospheres: 35736
+  atrocities: 19757
+  attaches: 21960
+  attendances: 56106
+  attendees: 11909
+  attenuates: 97845
+  attitudes: 6155
+  attributes: 4554
+scored_words:
+  atones: 270422
+not_scored_words:
+- Atabrines
+- Atlantes
+- Atlases
+- atelectases
+- atlantes
+- atomizes
+- atonies
+- atrophies
+- attires
+- attitudinizes
+- attributives
+- attunes

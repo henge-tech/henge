@@ -1,0 +1,23 @@
+---
+pattern: h_age
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 539802
+score_per_word: 59978
+hi_scored_words:
+  haulage: 42573
+  hemorrhage: 26725
+  herbage: 74256
+  heritage: 4209
+  hermitage: 22220
+  homage: 14141
+  homepage: 4019
+  hostage: 14647
+scored_words:
+  harborage: 337012
+not_scored_words:
+- Hermitage
+- hectarage
+- helotage
+- hypallage

@@ -1,0 +1,58 @@
+---
+pattern: ferr_
+hi_scored_words_count: 14
+scored_words_count: 11
+total_words: 48
+score: 2629347
+score_per_word: 105173
+hi_scored_words:
+  ferret: 21360
+  ferrets: 43284
+  ferric: 42615
+  ferried: 90737
+  ferries: 25920
+  ferrite: 43159
+  ferritin: 67032
+  ferroelectric: 78124
+  ferromagnetic: 58222
+  ferrous: 32802
+  ferruginous: 96456
+  ferrule: 67785
+  ferry: 6694
+  ferrying: 95758
+scored_words:
+  ferreted: 281097
+  ferreting: 137637
+  ferricyanide: 194744
+  ferrites: 128843
+  ferrocene: 206891
+  ferrocyanide: 194221
+  ferromagnet: 212760
+  ferromagnetism: 158653
+  ferrules: 125237
+  ferryboat: 109817
+  ferryman: 109499
+not_scored_words:
+- Ferrara
+- Ferrari
+- Ferraro
+- Ferrell
+- Ferris
+- Ferrol
+- ferrate
+- ferreous
+- ferriage
+- ferricyanides
+- ferriferous
+- ferritins
+- ferrochromium
+- ferroconcrete
+- ferroconcretes
+- ferrocyanides
+- ferromagnesian
+- ferromagnetisms
+- ferromanganese
+- ferrosilicon
+- ferrotype
+- ferryboats
+- ferrymen

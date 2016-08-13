@@ -1,0 +1,36 @@
+---
+pattern: app_ng
+hi_scored_words_count: 16
+scored_words_count: 4
+total_words: 26
+score: 1416419
+score_per_word: 70820
+hi_scored_words:
+  appalling: 18505
+  appealing: 8828
+  appearing: 3754
+  appeasing: 86772
+  appending: 57623
+  appetizing: 69519
+  applauding: 60141
+  applying: 4596
+  appointing: 21393
+  appraising: 56822
+  appreciating: 33112
+  apprehending: 83142
+  approaching: 5735
+  appropriating: 50551
+  approving: 15558
+  approximating: 49018
+scored_words:
+  appertaining: 107896
+  apportioning: 113699
+  apprenticing: 277450
+  apprising: 292305
+not_scored_words:
+- appareling
+- apperceiving
+- appliqueing
+- appliquéing
+- apposing
+- approbating

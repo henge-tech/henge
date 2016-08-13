@@ -1,0 +1,57 @@
+---
+pattern: dese_
+hi_scored_words_count: 21
+scored_words_count: 8
+total_words: 47
+score: 2611234
+score_per_word: 90042
+hi_scored_words:
+  desecrate: 90010
+  desecrated: 81956
+  desecration: 42512
+  desegregation: 50229
+  deselect: 69079
+  deselected: 81496
+  desensitization: 62303
+  desensitized: 91028
+  desert: 2679
+  deserted: 11229
+  deserter: 51974
+  deserters: 68112
+  desertification: 43029
+  deserting: 82661
+  desertion: 40621
+  deserts: 17593
+  deserve: 4450
+  deserved: 9175
+  deservedly: 60759
+  deserves: 7174
+  deserving: 16366
+scored_words:
+  desecrating: 163246
+  desegregate: 198769
+  desegregated: 193565
+  deselecting: 249955
+  desensitize: 172929
+  desensitizing: 142772
+  desertions: 184926
+  desexed: 320637
+not_scored_words:
+- desecrater
+- desecrates
+- desecrator
+- desegregates
+- desegregating
+- desegregationist
+- deselection
+- deselects
+- desensitizer
+- desensitizes
+- deservingly
+- desex
+- desexes
+- desexing
+- desexualize
+- desexualized
+- desexualizes
+- desexualizing

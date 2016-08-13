@@ -1,0 +1,89 @@
+---
+pattern: te_r
+hi_scored_words_count: 29
+scored_words_count: 14
+total_words: 79
+score: 3597048
+score_per_word: 83652
+hi_scored_words:
+  teacher: 1541
+  teamster: 65691
+  tear: 5072
+  teaser: 18811
+  technicolor: 42054
+  tedder: 93463
+  teenager: 13783
+  teeter: 51786
+  teetotaler: 71013
+  telecaster: 60136
+  telemarketer: 81746
+  telfer: 85593
+  teller: 17728
+  temper: 9856
+  tender: 3868
+  tenderer: 72528
+  tenner: 56622
+  tenor: 11399
+  tensor: 23497
+  ter: 11383
+  terminator: 19174
+  terr: 46225
+  terrier: 13303
+  terror: 3206
+  testator: 46889
+  tester: 23246
+  testicular: 28478
+  tether: 38129
+  tetrameter: 95763
+scored_words:
+  tearjerker: 141675
+  teenybopper: 244706
+  telecommuter: 170016
+  telemeter: 269884
+  teleprompter: 108587
+  teletypewriter: 212092
+  teleworker: 164239
+  temblor: 144583
+  tempter: 105723
+  tenderizer: 165728
+  tenser: 168946
+  tensiometer: 330972
+  tenter: 108949
+  terrorizer: 148965
+not_scored_words:
+- Technicolor
+- TelePrompTer
+- TelePrompter
+- Teletypesetter
+- Teller
+- Telstar
+- Templar
+- Terr
+- Terrier
+- Teucer
+- tearer
+- tearier
+- teaseler
+- teaseller
+- techier
+- teenier
+- tegular
+- telegrapher
+- telemotor
+- telephoner
+- teleprinter
+- telethermometer
+- televisor
+- telpher
+- temporizer
+- tenoner
+- tensimeter
+- tentacular
+- tentmaker
+- tergiversator
+- termor
+- terser
+- testier
+- testifier
+- tetchier
+- tetter

@@ -1,0 +1,23 @@
+---
+pattern: unle_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 675470
+score_per_word: 61406
+hi_scored_words:
+  unleaded: 35959
+  unlearn: 82811
+  unlearned: 75966
+  unleash: 25737
+  unleashed: 16662
+  unleashes: 58044
+  unleashing: 49205
+  unleavened: 62567
+  unless: 874
+scored_words:
+  unlearning: 146834
+  unlettered: 120811
+not_scored_words:
+- unlearnedly
+- unlearns

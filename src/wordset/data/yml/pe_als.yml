@@ -1,0 +1,26 @@
+---
+pattern: pe_als
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 16
+score: 560974
+score_per_word: 56097
+hi_scored_words:
+  peals: 95431
+  pedals: 26757
+  pedestals: 48122
+  perennials: 34033
+  periodicals: 12399
+  peripherals: 13433
+  personals: 19089
+  petals: 17296
+  petrochemicals: 56888
+scored_words:
+  pectorals: 237526
+not_scored_words:
+- Pentecostals
+- Pentothals
+- pennyroyals
+- pentobarbitals
+- perpetuals
+- perusals

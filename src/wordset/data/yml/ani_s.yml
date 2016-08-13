@@ -1,0 +1,31 @@
+---
+pattern: ani_s
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 1062688
+score_per_word: 88557
+hi_scored_words:
+  animals: 1014
+  animas: 60732
+  animates: 66211
+  animations: 11557
+  animators: 42820
+  animus: 48609
+  anions: 54853
+  anis: 75623
+scored_words:
+  animadversions: 130672
+  animists: 300190
+  animosities: 117175
+  anisotropies: 153232
+not_scored_words:
+- anils
+- animadverts
+- animalcules
+- animalisms
+- animalities
+- animalizes
+- aniseikonias
+- anisomerous
+- anisometropias

@@ -1,0 +1,20 @@
+---
+pattern: g_sed
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 10
+score: 1059778
+score_per_word: 105977
+hi_scored_words:
+  gassed: 63233
+  glassed: 85363
+  glimpsed: 65512
+  glossed: 73233
+  grassed: 84619
+  greased: 36862
+  grossed: 51945
+  guessed: 11598
+scored_words:
+  goosed: 288255
+  groused: 299158
+not_scored_words: []

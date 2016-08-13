@@ -1,0 +1,28 @@
+---
+pattern: d_ines
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 18
+score: 706173
+score_per_word: 70617
+hi_scored_words:
+  deadlines: 11556
+  declines: 16354
+  defines: 9195
+  determines: 7514
+  dines: 78708
+  disciplines: 16699
+  divines: 81622
+  doctrines: 13043
+scored_words:
+  datelines: 228483
+  destines: 242999
+not_scored_words:
+- Dessalines
+- Dexedrines
+- Dramamines
+- demimondaines
+- dessiatines
+- diamines
+- disinclines
+- dopamines

@@ -1,0 +1,47 @@
+---
+pattern: f_sm
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 37
+score: 997186
+score_per_word: 66479
+hi_scored_words:
+  fanaticism: 44381
+  fascism: 20742
+  fatalism: 63056
+  favoritism: 53954
+  federalism: 26448
+  feminism: 16340
+  fetishism: 55541
+  feudalism: 47038
+  formalism: 31959
+  functionalism: 88049
+  fundamentalism: 28969
+  futurism: 61579
+scored_words:
+  factionalism: 121192
+  fauvism: 179285
+  ferromagnetism: 158653
+not_scored_words:
+- Fabianism
+- Fauvism
+- Federalism
+- Fenianism
+- Fletcherism
+- Fourierism
+- Freudianism
+- Fundamentalism
+- Futurism
+- fantasm
+- faradism
+- fideism
+- finalism
+- flunkyism
+- fogeyism
+- foreignism
+- formulism
+- fortuitism
+- fraternalism
+- frotteurism
+- fruitarianism
+- fusionism

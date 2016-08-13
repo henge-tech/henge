@@ -1,0 +1,46 @@
+---
+pattern: _rees
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 36
+score: 1306528
+score_per_word: 68764
+hi_scored_words:
+  agrees: 6746
+  conferees: 68515
+  decrees: 24467
+  degrees: 1834
+  disagrees: 25489
+  dungarees: 75504
+  entrees: 44086
+  frees: 26989
+  honorees: 67438
+  pedigrees: 56982
+  referees: 20403
+  retirees: 20798
+  sprees: 85385
+  threes: 45651
+  trees: 1479
+scored_words:
+  jamborees: 252699
+  purees: 172140
+  soirees: 158140
+  transferees: 151783
+not_scored_words:
+- Crees
+- axletrees
+- chivarees
+- filagrees
+- filigrees
+- greegrees
+- gumtrees
+- kedgerees
+- peartrees
+- rooftrees
+- screes
+- shivarees
+- shoetrees
+- singletrees
+- swingletrees
+- whiffletrees
+- whippletrees

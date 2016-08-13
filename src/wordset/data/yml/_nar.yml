@@ -1,0 +1,38 @@
+---
+pattern: _nar
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 28
+score: 1084813
+score_per_word: 77486
+hi_scored_words:
+  columnar: 48166
+  dinar: 29052
+  laminar: 41073
+  lunar: 11386
+  planar: 19120
+  semilunar: 61217
+  seminar: 8550
+  sonar: 22048
+  ulnar: 58669
+  webinar: 20694
+scored_words:
+  coplanar: 104168
+  denar: 196684
+  lacunar: 245771
+  sublunar: 218215
+not_scored_words:
+- Achernar
+- Donar
+- Gunnar
+- Molnar
+- Sennar
+- Shinar
+- circumlunar
+- cislunar
+- interlunar
+- knar
+- supercolumnar
+- thenar
+- translunar
+- uniplanar

@@ -1,0 +1,60 @@
+---
+pattern: co_ates
+hi_scored_words_count: 18
+scored_words_count: 8
+total_words: 50
+score: 2415099
+score_per_word: 92888
+hi_scored_words:
+  cognates: 91444
+  collaborates: 50339
+  commemorates: 49289
+  communicates: 23494
+  compensates: 48391
+  complicates: 46162
+  concentrates: 23940
+  confederates: 45675
+  conglomerates: 44512
+  congratulates: 55574
+  conjugates: 57812
+  consolidates: 59519
+  consulates: 43755
+  contemplates: 45863
+  cooperates: 58290
+  coordinates: 13055
+  correlates: 24797
+  corroborates: 87991
+scored_words:
+  collates: 153650
+  concatenates: 220427
+  condensates: 102804
+  confiscates: 200964
+  conflates: 204789
+  congregates: 300770
+  consecrates: 256429
+  contaminates: 105364
+not_scored_words:
+- Coates
+- Confederates
+- coagulates
+- coelenterates
+- cogitates
+- colligates
+- collimates
+- collocates
+- commentates
+- commiserates
+- commutates
+- conciliates
+- confabulates
+- conglobates
+- conglutinates
+- consociates
+- constellates
+- consternates
+- constipates
+- consummates
+- contraindicates
+- copulates
+- corrugates
+- coruscates

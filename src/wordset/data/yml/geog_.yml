@@ -1,0 +1,19 @@
+---
+pattern: geog_
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 240866
+score_per_word: 30108
+hi_scored_words:
+  geog: 42487
+  geographer: 55516
+  geographers: 47658
+  geographic: 9229
+  geographical: 6580
+  geographically: 21224
+  geographies: 53305
+  geography: 4867
+scored_words: {}
+not_scored_words:
+- geognosy

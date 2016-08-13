@@ -1,0 +1,30 @@
+---
+pattern: c_rts
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 20
+score: 715273
+score_per_word: 51090
+hi_scored_words:
+  carts: 10511
+  certs: 35478
+  charts: 5331
+  cohorts: 30016
+  comforts: 17989
+  concerts: 6789
+  converts: 10850
+  counterparts: 19375
+  courts: 2688
+  coverts: 94598
+  culverts: 56308
+scored_words:
+  carports: 149774
+  comports: 163993
+  consorts: 111573
+not_scored_words:
+- CRTs
+- Camemberts
+- cavorts
+- coleworts
+- contorts
+- controverts

@@ -1,0 +1,33 @@
+---
+pattern: de_c
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 23
+score: 1190303
+score_per_word: 85021
+hi_scored_words:
+  dec: 2416
+  democratic: 3129
+  demographic: 11911
+  demonic: 27259
+  dendritic: 35446
+  desc: 29823
+  despotic: 45135
+  deterministic: 21876
+scored_words:
+  deictic: 181920
+  deltaic: 151793
+  demagogic: 190383
+  demiurgic: 226563
+  demoniac: 134723
+  demotic: 127926
+not_scored_words:
+- DEC
+- Dec
+- Delphic
+- Democratic
+- Demotic
+- decasyllabic
+- decresc
+- deific
+- deistic

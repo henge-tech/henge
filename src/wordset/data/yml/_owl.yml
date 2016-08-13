@@ -1,0 +1,29 @@
+---
+pattern: _owl
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 19
+score: 957707
+score_per_word: 63847
+hi_scored_words:
+  bowl: 2942
+  cowl: 38233
+  fishbowl: 61982
+  fowl: 23597
+  growl: 26744
+  howl: 19780
+  owl: 7869
+  prowl: 38023
+  scowl: 59023
+  waterfowl: 27677
+  wildfowl: 87268
+scored_words:
+  jowl: 103765
+  peafowl: 126102
+  punchbowl: 100011
+  yowl: 234691
+not_scored_words:
+- Superbowl
+- batfowl
+- moorfowl
+- washbowl

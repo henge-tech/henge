@@ -1,0 +1,26 @@
+---
+pattern: ba_rd
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 16
+score: 370221
+score_per_word: 41135
+hi_scored_words:
+  backboard: 56814
+  backward: 8604
+  backyard: 18334
+  bard: 15184
+  barnyard: 46234
+  baseboard: 57792
+  bastard: 10969
+  bayard: 40239
+scored_words:
+  bankcard: 116051
+not_scored_words:
+- Baird
+- Ballard
+- Barnard
+- Baudrillard
+- Bayard
+- backsword
+- bargeboard

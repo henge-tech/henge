@@ -1,0 +1,23 @@
+---
+pattern: _rced
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 758572
+score_per_word: 63214
+hi_scored_words:
+  coerced: 38311
+  divorced: 11469
+  enforced: 9369
+  forced: 1448
+  outsourced: 25595
+  pierced: 11133
+  reinforced: 9838
+  resourced: 57837
+  sourced: 20923
+  unforced: 84787
+scored_words:
+  arced: 203638
+  unenforced: 284224
+not_scored_words:
+- amerced

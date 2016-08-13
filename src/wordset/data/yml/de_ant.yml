@@ -1,0 +1,28 @@
+---
+pattern: de_ant
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 18
+score: 1480138
+score_per_word: 92508
+hi_scored_words:
+  decant: 96636
+  declarant: 87815
+  decongestant: 78980
+  defendant: 6408
+  defiant: 21430
+  deodorant: 23548
+  depressant: 46656
+  descant: 95934
+  descendant: 18503
+  desiccant: 81587
+  determinant: 24795
+  deviant: 14793
+scored_words:
+  debutant: 100408
+  defoliant: 266083
+  demandant: 224186
+  denaturant: 292376
+not_scored_words:
+- decolorant
+- decontaminant

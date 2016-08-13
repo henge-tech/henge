@@ -1,0 +1,39 @@
+---
+pattern: posi_
+hi_scored_words_count: 20
+scored_words_count: 6
+total_words: 29
+score: 2096972
+score_per_word: 80652
+hi_scored_words:
+  posies: 80443
+  posing: 11593
+  posit: 43315
+  posited: 51142
+  positing: 95712
+  position: 501
+  positional: 28557
+  positioned: 10349
+  positioners: 89095
+  positioning: 8542
+  positions: 2638
+  positive: 1495
+  positively: 7512
+  positives: 15325
+  positivism: 54199
+  positivist: 83944
+  positivity: 43455
+  positron: 37013
+  positrons: 97969
+  posits: 55306
+scored_words:
+  positionally: 251344
+  positioner: 119032
+  positiveness: 235875
+  positivistic: 195732
+  positivists: 193745
+  positronium: 283139
+not_scored_words:
+- positivisms
+- positivistically
+- positivities

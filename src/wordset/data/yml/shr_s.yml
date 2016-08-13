@@ -1,0 +1,33 @@
+---
+pattern: shr_s
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 23
+score: 1489323
+score_per_word: 99288
+hi_scored_words:
+  shredders: 55274
+  shreds: 37603
+  shrewdness: 89971
+  shrews: 91737
+  shrieks: 57946
+  shrimps: 53115
+  shrines: 32161
+  shrinks: 35574
+  shrouds: 68075
+  shrubs: 19405
+  shrugs: 36415
+scored_words:
+  shrikes: 150132
+  shrillness: 314565
+  shrimpers: 185882
+  shrubberies: 261468
+not_scored_words:
+- Shrovetides
+- shrewishness
+- shrewishnesses
+- shriekers
+- shrills
+- shrivels
+- shrives
+- shrubbiness

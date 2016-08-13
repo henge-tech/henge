@@ -1,0 +1,40 @@
+---
+pattern: abu_
+hi_scored_words_count: 17
+scored_words_count: 6
+total_words: 30
+score: 1789973
+score_per_word: 77824
+hi_scored_words:
+  abundance: 6470
+  abundances: 50148
+  abundant: 7631
+  abundantly: 30218
+  abuse: 2366
+  abused: 8764
+  abuser: 37028
+  abusers: 29865
+  abuses: 10941
+  abusing: 18977
+  abusive: 12754
+  abut: 55375
+  abutment: 57077
+  abutments: 91739
+  abuts: 77654
+  abutting: 51946
+  abuzz: 87106
+scored_words:
+  abusively: 196400
+  abusiveness: 166839
+  abutilon: 153337
+  abutted: 167883
+  abutter: 307835
+  abutters: 161620
+not_scored_words:
+- Abuja
+- Abukir
+- abulia
+- abulias
+- abulic
+- abuttal
+- abuttals

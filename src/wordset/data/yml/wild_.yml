@@ -1,0 +1,40 @@
+---
+pattern: wild_
+hi_scored_words_count: 19
+scored_words_count: 2
+total_words: 30
+score: 828935
+score_per_word: 39473
+hi_scored_words:
+  wild: 1122
+  wildcard: 25420
+  wildcat: 27991
+  wildcats: 14884
+  wildebeest: 58375
+  wilder: 17779
+  wilderness: 5098
+  wildest: 25598
+  wildfire: 27108
+  wildfires: 46437
+  wildflower: 38242
+  wildflowers: 32144
+  wildfowl: 87268
+  wilding: 57110
+  wildlife: 2776
+  wildly: 12792
+  wildness: 53403
+  wilds: 40409
+  wildwood: 29990
+scored_words:
+  wildebeests: 104010
+  wildernesses: 120979
+not_scored_words:
+- Wilda
+- Wilde
+- Wilder
+- Wilderness
+- wildcatted
+- wildcatter
+- wildcatters
+- wildcatting
+- wildling

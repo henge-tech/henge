@@ -1,0 +1,32 @@
+---
+pattern: fel_s
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 22
+score: 901889
+score_per_word: 69376
+hi_scored_words:
+  felicitous: 75517
+  felines: 75103
+  fellas: 32622
+  fellers: 86332
+  fellows: 6349
+  fellowships: 16561
+  fells: 50948
+  felonies: 44717
+  felonious: 79449
+  felons: 44114
+  felts: 76170
+scored_words:
+  felicitations: 169082
+  felicities: 144925
+not_scored_words:
+- felicitates
+- felicitousness
+- felicitousnesses
+- felids
+- fellahs
+- fellations
+- fellies
+- felloes
+- feluccas

@@ -1,0 +1,40 @@
+---
+pattern: co_ning
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 30
+score: 1643336
+score_per_word: 78254
+hi_scored_words:
+  coining: 70163
+  combining: 7611
+  commissioning: 19250
+  complaining: 15124
+  concerning: 1902
+  condemning: 23998
+  conditioning: 8323
+  condoning: 78444
+  confining: 42961
+  conning: 70413
+  constraining: 51203
+  containing: 1982
+  convening: 49424
+  corning: 24092
+scored_words:
+  coarsening: 117327
+  cocooning: 319942
+  communing: 122187
+  coning: 128451
+  conjoining: 256121
+  consigning: 119124
+  contravening: 115294
+not_scored_words:
+- Corning
+- coffining
+- contemning
+- cordoning
+- cosigning
+- cottoning
+- countermining
+- countersigning
+- cozening

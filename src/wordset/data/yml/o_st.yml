@@ -1,0 +1,73 @@
+---
+pattern: o_st
+hi_scored_words_count: 21
+scored_words_count: 13
+total_words: 63
+score: 2966403
+score_per_word: 87247
+hi_scored_words:
+  objectivist: 75698
+  oblast: 27391
+  oculist: 71693
+  oddest: 71587
+  oldest: 3547
+  oncologist: 51808
+  ophthalmologist: 58340
+  opportunist: 55916
+  optimist: 29892
+  optometrist: 51654
+  organist: 30754
+  orientalist: 88690
+  ornithologist: 84755
+  orthodontist: 56702
+  oust: 42201
+  outburst: 24768
+  outcast: 25438
+  outermost: 40945
+  outlast: 49994
+  outpost: 17607
+  overcast: 18752
+scored_words:
+  oast: 105807
+  oboist: 125002
+  obscurantist: 235779
+  obstructionist: 120038
+  occultist: 104867
+  oftenest: 107511
+  opencast: 145849
+  orthopedist: 152979
+  orthotist: 227211
+  osteoblast: 122602
+  osteoclast: 122105
+  otolaryngologist: 185741
+  outmost: 232780
+not_scored_words:
+- Oktoberfest
+- Orientalist
+- Orleanist
+- obscenest
+- obscurest
+- obtest
+- obtusest
+- odontoblast
+- odontologist
+- oenophilist
+- oiliest
+- oligopolist
+- onanist
+- ontologist
+- oologist
+- ooziest
+- opaquest
+- openest
+- orchardist
+- orgiast
+- orneriest
+- otocyst
+- otorhinolaryngologist
+- outboast
+- overinterest
+- overinvest
+- overmodest
+- overroast
+- overthrust

@@ -1,0 +1,23 @@
+---
+pattern: evap_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 999001
+score_per_word: 90818
+hi_scored_words:
+  evaporate: 36567
+  evaporated: 32177
+  evaporates: 62281
+  evaporating: 67671
+  evaporation: 18741
+  evaporative: 51684
+  evaporator: 47131
+  evaporators: 99310
+  evapotranspiration: 70311
+scored_words:
+  evaporite: 255242
+  evaporites: 257886
+not_scored_words:
+- evaporable
+- evaporimeter

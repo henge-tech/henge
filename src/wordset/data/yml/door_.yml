@@ -1,0 +1,49 @@
+---
+pattern: door_
+hi_scored_words_count: 12
+scored_words_count: 10
+total_words: 39
+score: 2262315
+score_per_word: 102832
+hi_scored_words:
+  door: 636
+  doorbell: 31685
+  doorknob: 69633
+  doorman: 42011
+  doormat: 51596
+  doormats: 97513
+  doors: 2183
+  doorstep: 18881
+  doorsteps: 78884
+  doorstop: 93712
+  doorway: 11744
+  doorways: 39384
+scored_words:
+  doorbells: 107614
+  doorframe: 155719
+  doorkeeper: 132025
+  doorknobs: 110596
+  doorknocker: 281257
+  doormen: 123915
+  doorpost: 260231
+  doorposts: 230162
+  doorstops: 178705
+  dooryard: 144229
+not_scored_words:
+- Doorn
+- doorframes
+- doorhandles
+- doorjamb
+- doorjambs
+- doorkeepers
+- doorknockers
+- doornail
+- doornails
+- doorplate
+- doorplates
+- doorsill
+- doorsills
+- doorstepped
+- doorstepping
+- doorstone
+- dooryards

@@ -1,0 +1,36 @@
+---
+pattern: _tock
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 26
+score: 1536139
+score_per_word: 102409
+hi_scored_words:
+  bloodstock: 86628
+  buttock: 52797
+  feedstock: 57680
+  headstock: 76265
+  livestock: 11042
+  overstock: 37447
+  restock: 51225
+  rootstock: 93044
+  stock: 833
+scored_words:
+  futtock: 219008
+  gunstock: 186906
+  laughingstock: 122869
+  mattock: 115804
+  penstock: 215022
+  tailstock: 209569
+not_scored_words:
+- Birkenstock
+- Klopstock
+- Rostock
+- Woodstock
+- alpenstock
+- bitstock
+- diestock
+- drillstock
+- linstock
+- ticktock
+- whipstock

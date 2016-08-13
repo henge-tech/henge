@@ -1,0 +1,23 @@
+---
+pattern: de_ded
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 13
+score: 435784
+score_per_word: 36315
+hi_scored_words:
+  decided: 1282
+  decoded: 33646
+  deeded: 71611
+  defended: 10346
+  defrauded: 72165
+  degraded: 22375
+  deluded: 39328
+  demanded: 6269
+  denuded: 90903
+  depended: 14024
+  derided: 62104
+  descended: 11731
+scored_words: {}
+not_scored_words:
+- deadheaded

@@ -1,0 +1,27 @@
+---
+pattern: n_re
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 17
+score: 372991
+score_per_word: 41443
+hi_scored_words:
+  nature: 507
+  nearshore: 66443
+  nevermore: 49240
+  nightmare: 7430
+  nomenclature: 19753
+  nondisclosure: 94958
+  nowhere: 5421
+  nurture: 20401
+scored_words:
+  nacre: 108838
+not_scored_words:
+- Nature
+- Navarre
+- Northamptonshire
+- Nottinghamshire
+- Nyerere
+- nagware
+- nullipore
+- nunciature

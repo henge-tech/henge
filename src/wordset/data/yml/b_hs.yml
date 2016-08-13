@@ -1,0 +1,42 @@
+---
+pattern: b_hs
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 32
+score: 1823198
+score_per_word: 101288
+hi_scored_words:
+  bandwidths: 74139
+  baths: 8484
+  berths: 43834
+  birdbaths: 99275
+  births: 9526
+  blacksmiths: 61496
+  booths: 19911
+  boroughs: 28114
+  boughs: 42429
+  breakthroughs: 28337
+  breaths: 32498
+scored_words:
+  behemoths: 130958
+  bequeaths: 278367
+  billionths: 277609
+  blahs: 181128
+  breadths: 143045
+  broths: 145024
+  burghs: 219024
+not_scored_words:
+- Burroughs
+- backcloths
+- badmouths
+- barographs
+- batholiths
+- bathyscaphs
+- beths
+- betroths
+- bigmouths
+- blabbermouths
+- bloodbaths
+- bobsleighs
+- breechcloths
+- bypaths

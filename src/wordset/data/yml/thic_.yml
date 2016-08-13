@@ -1,0 +1,33 @@
+---
+pattern: thic_
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 23
+score: 867981
+score_per_word: 57865
+hi_scored_words:
+  thick: 2549
+  thicken: 42464
+  thickened: 37259
+  thickening: 30763
+  thickens: 52648
+  thicker: 18191
+  thickest: 58118
+  thicket: 38487
+  thickets: 58311
+  thickly: 37610
+  thickness: 6567
+  thicknesses: 49261
+scored_words:
+  thickener: 112142
+  thickeners: 144843
+  thickset: 178768
+not_scored_words:
+- thickenings
+- thickhead
+- thickheaded
+- thickheads
+- thickish
+- thickleaf
+- thicko
+- thickos

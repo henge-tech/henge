@@ -1,0 +1,33 @@
+---
+pattern: sto_es
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 23
+score: 1447484
+score_per_word: 96498
+hi_scored_words:
+  stockpiles: 50280
+  stokes: 20911
+  stoles: 94987
+  stones: 3031
+  stooges: 31304
+  stoppages: 79008
+  stores: 1646
+  stories: 702
+  stoves: 21717
+scored_words:
+  stogies: 143856
+  stomachaches: 271341
+  stoneflies: 162742
+  stopwatches: 126183
+  storehouses: 112333
+  stovepipes: 327443
+not_scored_words:
+- Stokes
+- stockades
+- stodges
+- stokeholes
+- stomatitises
+- stopples
+- storaxes
+- stoutheartednesses

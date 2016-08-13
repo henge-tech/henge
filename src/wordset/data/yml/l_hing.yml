@@ -1,0 +1,26 @@
+---
+pattern: l_hing
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1040375
+score_per_word: 80028
+hi_scored_words:
+  languishing: 60978
+  lashing: 39848
+  latching: 60436
+  laughing: 4108
+  launching: 11809
+  leaching: 36090
+  loathing: 23340
+  lynching: 45804
+scored_words:
+  lathing: 239188
+  lavishing: 190080
+  leeching: 110331
+  lunching: 110363
+  lurching: 108000
+not_scored_words:
+- leashing
+- leching
+- lithographing

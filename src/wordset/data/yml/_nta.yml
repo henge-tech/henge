@@ -1,0 +1,30 @@
+---
+pattern: _nta
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 828587
+score_per_word: 69048
+hi_scored_words:
+  anta: 70907
+  junta: 30591
+  magenta: 25384
+  manta: 36232
+  momenta: 60389
+  pinta: 92284
+  placenta: 29820
+  polenta: 59714
+  quanta: 40301
+scored_words:
+  impedimenta: 124994
+  infanta: 103398
+  yenta: 154573
+not_scored_words:
+- Atalanta
+- Atlanta
+- Constanta
+- Granta
+- Pinta
+- Santa
+- Tanta
+- Vedanta

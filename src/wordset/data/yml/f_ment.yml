@@ -1,0 +1,21 @@
+---
+pattern: f_ment
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 491583
+score_per_word: 54620
+hi_scored_words:
+  ferment: 38211
+  figment: 51801
+  filament: 24565
+  firmament: 42867
+  fitment: 82200
+  foment: 78827
+  fragment: 8230
+  fulfillment: 13880
+scored_words:
+  fundament: 151002
+not_scored_words:
+- forestallment
+- franchisement

@@ -1,0 +1,58 @@
+---
+pattern: c_rd
+hi_scored_words_count: 26
+scored_words_count: 7
+total_words: 48
+score: 2320687
+score_per_word: 70323
+hi_scored_words:
+  canard: 56272
+  card: 980
+  cardboard: 14366
+  chalkboard: 44822
+  chard: 37504
+  checkerboard: 56133
+  chessboard: 65331
+  chipboard: 94659
+  chord: 10936
+  churchyard: 29446
+  clapboard: 84655
+  clavichord: 99947
+  clipboard: 20709
+  coastguard: 42514
+  codeword: 78021
+  collard: 56071
+  concord: 10373
+  cord: 4831
+  courtyard: 7940
+  coward: 13554
+  cowbird: 93365
+  cowherd: 94505
+  crossword: 16992
+  cupboard: 15794
+  curd: 41289
+  custard: 22572
+scored_words:
+  caird: 122056
+  camelopard: 200914
+  catbird: 109576
+  catchword: 158897
+  centerboard: 195251
+  corkboard: 211627
+  costard: 208785
+not_scored_words:
+- Caird
+- Card
+- Chelmsford
+- Clifford
+- Communard
+- Concord
+- Coward
+- Crawford
+- Cunard
+- cafard
+- cheeseboard
+- clapperboard
+- coastward
+- counterword
+- cradleboard

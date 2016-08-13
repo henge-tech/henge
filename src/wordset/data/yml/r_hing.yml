@@ -1,0 +1,41 @@
+---
+pattern: r_hing
+hi_scored_words_count: 14
+scored_words_count: 7
+total_words: 31
+score: 1990054
+score_per_word: 94764
+hi_scored_words:
+  ranching: 46049
+  ravishing: 59436
+  reaching: 3541
+  reestablishing: 94534
+  refinishing: 56598
+  refreshing: 9795
+  refurbishing: 56887
+  relinquishing: 68637
+  relishing: 78922
+  replenishing: 66943
+  researching: 10874
+  retouching: 52339
+  roughing: 50925
+  rushing: 8163
+scored_words:
+  reattaching: 294436
+  rehashing: 109802
+  relaunching: 170621
+  reproaching: 182631
+  republishing: 114796
+  retching: 152020
+  ruching: 302105
+not_scored_words:
+- refurnishing
+- rematching
+- rephotographing
+- restitching
+- reteaching
+- retrenching
+- rewashing
+- reweighing
+- roaching
+- rubbishing

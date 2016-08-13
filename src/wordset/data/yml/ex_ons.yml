@@ -1,0 +1,56 @@
+---
+pattern: ex_ons
+hi_scored_words_count: 27
+scored_words_count: 9
+total_words: 46
+score: 2964096
+score_per_word: 82336
+hi_scored_words:
+  exaggerations: 82772
+  examinations: 8893
+  excavations: 25314
+  exceptions: 5470
+  excitations: 53419
+  exclamations: 81452
+  exclusions: 26575
+  excursions: 15004
+  executions: 23247
+  exemptions: 21679
+  exertions: 46787
+  exhibitions: 8290
+  exhortations: 74992
+  expansions: 30283
+  expectations: 4120
+  expeditions: 20175
+  explanations: 9963
+  explorations: 23850
+  explosions: 17063
+  expositions: 45243
+  expressions: 4892
+  expulsions: 72306
+  extensions: 11335
+  extinctions: 63898
+  extractions: 58650
+  extrapolations: 97836
+  extrusions: 81386
+scored_words:
+  excisions: 254847
+  excretions: 159875
+  exhalations: 194673
+  exhumations: 314353
+  exoskeletons: 249523
+  explications: 153290
+  exploitations: 217532
+  expostulations: 153199
+  expropriations: 251910
+not_scored_words:
+- excommunications
+- excoriations
+- excruciations
+- exemplifications
+- exponentiations
+- expunctions
+- expurgations
+- exterminations
+- externalizations
+- extraditions

@@ -1,0 +1,49 @@
+---
+pattern: pro_ns
+hi_scored_words_count: 20
+scored_words_count: 7
+total_words: 39
+score: 1978323
+score_per_word: 73271
+hi_scored_words:
+  processions: 52298
+  proclamations: 45868
+  productions: 4195
+  professions: 10112
+  progressions: 48948
+  prohibitions: 27884
+  projections: 12267
+  promotions: 10860
+  pronouns: 29896
+  pronunciations: 66379
+  proportions: 9268
+  propositions: 21541
+  prosecutions: 27696
+  protections: 23729
+  proteins: 3850
+  protestations: 70207
+  protons: 24954
+  protrusions: 88261
+  provisions: 1978
+  provocations: 75552
+scored_words:
+  progestins: 117305
+  prognostications: 118344
+  proletarians: 154588
+  pronghorns: 330490
+  proscriptions: 172913
+  prostrations: 244929
+  protozoans: 184011
+not_scored_words:
+- proboscideans
+- procrastinations
+- profanations
+- profusions
+- prolongations
+- prolusions
+- promulgations
+- pronations
+- proprioceptions
+- prorations
+- prosimians
+- prothrombins

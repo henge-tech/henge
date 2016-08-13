@@ -1,0 +1,29 @@
+---
+pattern: p_ners
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 781527
+score_per_word: 65127
+hi_scored_words:
+  parishioners: 35434
+  partners: 2146
+  pensioners: 26285
+  petitioners: 23804
+  planners: 9114
+  positioners: 89095
+  practitioners: 9253
+  prisoners: 4170
+scored_words:
+  planers: 118444
+  prizewinners: 175447
+  probationers: 101283
+  pruners: 187052
+not_scored_words:
+- pardners
+- pardoners
+- pilsners
+- poisoners
+- postponers
+- predeterminers
+- provisioners

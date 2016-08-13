@@ -1,0 +1,34 @@
+---
+pattern: fing_
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 24
+score: 1159408
+score_per_word: 64411
+hi_scored_words:
+  finger: 2816
+  fingerboard: 59759
+  fingered: 28247
+  fingering: 13425
+  fingerless: 83117
+  fingernail: 48815
+  fingernails: 35826
+  fingerprint: 17885
+  fingerprinted: 97503
+  fingerprinting: 42116
+  fingerprints: 20050
+  fingers: 3126
+  fingertip: 47334
+  fingertips: 17881
+scored_words:
+  fingerboards: 265216
+  fingerings: 115621
+  fingerling: 131589
+  fingerlings: 129082
+not_scored_words:
+- fingerbreadth
+- fingerbreadths
+- fingermark
+- fingermarks
+- fingerstall
+- fingerstalls

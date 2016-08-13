@@ -1,0 +1,46 @@
+---
+pattern: _pted
+hi_scored_words_count: 23
+scored_words_count: 6
+total_words: 36
+score: 1607292
+score_per_word: 55423
+hi_scored_words:
+  accepted: 1194
+  adapted: 5186
+  adopted: 2108
+  attempted: 4083
+  conscripted: 98913
+  corrupted: 13009
+  decrypted: 63658
+  disrupted: 22288
+  encrypted: 15753
+  erupted: 26777
+  excepted: 31144
+  excerpted: 44011
+  exempted: 22058
+  intercepted: 23306
+  interrupted: 8043
+  opted: 15801
+  preempted: 62609
+  prompted: 8092
+  scripted: 29741
+  sculpted: 28978
+  tempted: 10302
+  uninterrupted: 21870
+  unscripted: 78738
+scored_words:
+  bankrupted: 107310
+  readopted: 175855
+  receipted: 140389
+  unaccepted: 231363
+  uncorrupted: 129908
+  unprompted: 184805
+not_scored_words:
+- irrupted
+- maladapted
+- readapted
+- reattempted
+- unadapted
+- unattempted
+- untempted

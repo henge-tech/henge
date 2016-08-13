@@ -1,0 +1,51 @@
+---
+pattern: gra_es
+hi_scored_words_count: 16
+scored_words_count: 11
+total_words: 41
+score: 2777247
+score_per_word: 102861
+hi_scored_words:
+  graces: 23411
+  grades: 4523
+  graduates: 8452
+  granites: 79624
+  grannies: 29707
+  grantees: 43156
+  granules: 32199
+  granulocytes: 84533
+  grapes: 10118
+  grapples: 84589
+  grasses: 17448
+  grates: 46659
+  gratifies: 90204
+  gratuities: 67769
+  graves: 8974
+  gravestones: 68154
+scored_words:
+  grackles: 223988
+  granaries: 126031
+  grandees: 193119
+  granges: 218733
+  grapevines: 106571
+  graphemes: 258433
+  gravies: 129586
+  gravitates: 224965
+  gravities: 198484
+  gravures: 249185
+  grazes: 148632
+not_scored_words:
+- Graces
+- Graves
+- gradates
+- gramophones
+- grampuses
+- granddaddies
+- grandnieces
+- granduncles
+- granitewares
+- granulates
+- graticules
+- graveclothes
+- gravesides
+- gravidities

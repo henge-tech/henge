@@ -1,0 +1,30 @@
+---
+pattern: h_ked
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 20
+score: 1494197
+score_per_word: 106728
+hi_scored_words:
+  hacked: 15629
+  hallmarked: 61652
+  handpicked: 52823
+  hijacked: 27401
+  hiked: 46117
+  hoodwinked: 45647
+  hooked: 10104
+  hyperlinked: 78634
+scored_words:
+  hawked: 177360
+  hitchhiked: 188930
+  honked: 131790
+  humpbacked: 130477
+  hunchbacked: 284773
+  husked: 242860
+not_scored_words:
+- halfcocked
+- harked
+- henpecked
+- hocked
+- hoicked
+- hoked

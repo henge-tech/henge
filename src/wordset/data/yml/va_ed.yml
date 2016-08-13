@@ -1,0 +1,39 @@
+---
+pattern: va_ed
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 29
+score: 1314199
+score_per_word: 73011
+hi_scored_words:
+  vacated: 26856
+  vaccinated: 36544
+  vacuumed: 93672
+  validated: 13939
+  valued: 6159
+  vandalized: 67955
+  vanished: 12822
+  vanquished: 48632
+  vaporized: 81954
+  varied: 4954
+  variegated: 34442
+  varnished: 61922
+  vaulted: 33638
+  vaunted: 54855
+scored_words:
+  vacationed: 154024
+  vacillated: 245930
+  valved: 147113
+  vamped: 188788
+not_scored_words:
+- vagabonded
+- valanced
+- valeted
+- valuated
+- vamoosed
+- vanned
+- vaped
+- varicolored
+- varicosed
+- vasectomized
+- vatted

@@ -1,0 +1,62 @@
+---
+pattern: b_ring
+hi_scored_words_count: 22
+scored_words_count: 14
+total_words: 52
+score: 3196891
+score_per_word: 88802
+hi_scored_words:
+  baring: 43934
+  barring: 22659
+  bartering: 75634
+  battering: 46811
+  bearing: 3307
+  bettering: 77483
+  bewildering: 37202
+  bickering: 46122
+  bioengineering: 49216
+  blaring: 53158
+  blistering: 38771
+  blithering: 78117
+  blundering: 94655
+  blurring: 38931
+  bolstering: 72070
+  bordering: 22807
+  boring: 7735
+  bothering: 24604
+  bring: 650
+  brokering: 56287
+  buffering: 29291
+  butchering: 75942
+scored_words:
+  backfiring: 154558
+  badgering: 131289
+  bantering: 130709
+  barbering: 139683
+  belaboring: 313788
+  blabbering: 190724
+  blathering: 113706
+  blubbering: 147827
+  blustering: 130989
+  bowstring: 119545
+  buccaneering: 102187
+  buggering: 197718
+  bullring: 117112
+  buttering: 211670
+not_scored_words:
+- Baring
+- Behring
+- Bering
+- beavering
+- bedspring
+- beggaring
+- beleaguering
+- bemiring
+- besmearing
+- bespattering
+- bestirring
+- bewaring
+- birring
+- blinkering
+- broidering
+- burring

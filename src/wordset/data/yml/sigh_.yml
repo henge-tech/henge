@@ -1,0 +1,33 @@
+---
+pattern: sigh_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 23
+score: 978264
+score_per_word: 65217
+hi_scored_words:
+  sigh: 6888
+  sighed: 14049
+  sighing: 43093
+  sighs: 23566
+  sight: 2314
+  sighted: 18973
+  sighting: 25648
+  sightings: 20061
+  sights: 8417
+  sightseeing: 14856
+scored_words:
+  sightedness: 105582
+  sightless: 145277
+  sightly: 267200
+  sightseer: 124750
+  sightseers: 157590
+not_scored_words:
+- sigher
+- sightlessly
+- sightlessness
+- sightlessnesses
+- sightlier
+- sightliest
+- sightliness
+- sightread

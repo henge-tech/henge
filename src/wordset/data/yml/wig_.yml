@@ -1,0 +1,40 @@
+---
+pattern: wig_
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 30
+score: 1770635
+score_per_word: 104155
+hi_scored_words:
+  wig: 12066
+  wigging: 79388
+  wiggle: 25903
+  wiggled: 98326
+  wiggles: 37024
+  wiggling: 72896
+  wiggly: 56351
+  wight: 14557
+  wigs: 18708
+  wigwam: 37719
+scored_words:
+  wigeon: 111359
+  wigged: 211565
+  wiggler: 121709
+  wigglers: 200501
+  wights: 194524
+  wiglets: 266859
+  wigwams: 211180
+not_scored_words:
+- Wigan
+- Wiggins
+- Wight
+- Wigner
+- wigeons
+- wiggings
+- wigglier
+- wiggliest
+- wiglet
+- wigwag
+- wigwagged
+- wigwagging
+- wigwags

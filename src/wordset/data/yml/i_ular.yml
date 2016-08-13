@@ -1,0 +1,19 @@
+---
+pattern: i_ular
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 361981
+score_per_word: 45247
+hi_scored_words:
+  insular: 32338
+  intercellular: 57589
+  intermolecular: 67138
+  intracellular: 21994
+  intramolecular: 72474
+  intramuscular: 52420
+  intraocular: 49682
+  irregular: 8346
+scored_words: {}
+not_scored_words:
+- interocular

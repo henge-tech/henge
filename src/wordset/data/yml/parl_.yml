@@ -1,0 +1,35 @@
+---
+pattern: parl_
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 25
+score: 1025359
+score_per_word: 73239
+hi_scored_words:
+  parlance: 48263
+  parlay: 43324
+  parley: 55236
+  parliament: 3132
+  parliamentarian: 52457
+  parliamentarians: 37538
+  parliamentary: 6545
+  parliaments: 32354
+  parlor: 15202
+  parlors: 45258
+scored_words:
+  parlayed: 145915
+  parlays: 187285
+  parleying: 189314
+  parlous: 163536
+not_scored_words:
+- Parl
+- Parliament
+- parlando
+- parlaying
+- parleyed
+- parleys
+- parliamentarianism
+- parlormaid
+- parlormaids
+- parlously
+- parlousness

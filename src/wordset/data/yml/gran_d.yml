@@ -1,0 +1,20 @@
+---
+pattern: gran_d
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 582600
+score_per_word: 64733
+hi_scored_words:
+  grand: 998
+  grandad: 52139
+  grandchild: 27993
+  granddad: 65974
+  grandfathered: 65898
+  grandstand: 33561
+  granted: 2235
+  granulated: 50368
+scored_words:
+  granitoid: 283434
+not_scored_words:
+- grandstanded

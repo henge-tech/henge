@@ -1,0 +1,43 @@
+---
+pattern: c_ll
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 33
+score: 927170
+score_per_word: 66226
+hi_scored_words:
+  call: 219
+  cannonball: 35152
+  cell: 1528
+  chill: 6634
+  chlorophyll: 28465
+  clamshell: 47675
+  coll: 15556
+  cowbell: 46973
+  cull: 34100
+scored_words:
+  carryall: 142819
+  catchall: 110808
+  cornball: 232671
+  coverall: 106963
+  crossbill: 117607
+not_scored_words:
+- Caldwell
+- Campbell
+- Cantrell
+- Carroll
+- Catskill
+- Cavell
+- Chagall
+- Churchill
+- Cornell
+- Cornwall
+- Cowell
+- Cranwell
+- Cromwell
+- cataphyll
+- catcall
+- catfall
+- chockfull
+- cladophyll
+- cockleshell

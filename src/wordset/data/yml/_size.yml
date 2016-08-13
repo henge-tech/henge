@@ -1,0 +1,36 @@
+---
+pattern: _size
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 26
+score: 1336481
+score_per_word: 83530
+hi_scored_words:
+  capsize: 82266
+  downsize: 66919
+  emphasize: 11182
+  fantasize: 63166
+  hypothesize: 54064
+  midsize: 48728
+  oversize: 35176
+  resize: 27000
+  size: 554
+  supersize: 63641
+  synthesize: 31705
+scored_words:
+  assize: 127284
+  metastasize: 151969
+  outsize: 136347
+  overemphasize: 167329
+  reemphasize: 269151
+not_scored_words:
+- apotheosize
+- hypostasize
+- metathesize
+- parenthesize
+- photosynthesize
+- pintsize
+- resynthesize
+- rightsize
+- synopsize
+- underemphasize

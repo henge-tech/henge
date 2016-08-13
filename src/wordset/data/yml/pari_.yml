@@ -1,0 +1,31 @@
+---
+pattern: pari_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 1038984
+score_per_word: 86582
+hi_scored_words:
+  pariah: 41502
+  parietal: 37628
+  paring: 53895
+  parish: 3697
+  parishes: 16304
+  parishioner: 73450
+  parishioners: 35434
+  parity: 14954
+scored_words:
+  pariahs: 158101
+  paries: 243711
+  parimutuel: 237725
+  parities: 122583
+not_scored_words:
+- Parian
+- Paricutin
+- Paris
+- Parisian
+- Parisians
+- parietals
+- parimutuels
+- parings
+- paripinnate

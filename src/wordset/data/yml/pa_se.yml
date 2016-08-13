@@ -1,0 +1,28 @@
+---
+pattern: pa_se
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 18
+score: 517063
+score_per_word: 47005
+hi_scored_words:
+  pairwise: 43540
+  pantyhose: 14286
+  papoose: 88792
+  paradise: 3801
+  paraphrase: 27427
+  parse: 24086
+  pase: 90787
+  passe: 32750
+  passphrase: 71985
+  pause: 5911
+scored_words:
+  packhorse: 113698
+not_scored_words:
+- Paradise
+- packinghouse
+- palliasse
+- papillose
+- pappose
+- parclose
+- pastose

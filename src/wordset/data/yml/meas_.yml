@@ -1,0 +1,27 @@
+---
+pattern: meas_
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 17
+score: 495678
+score_per_word: 38129
+hi_scored_words:
+  meas: 46917
+  measles: 20199
+  measly: 49477
+  measurable: 19256
+  measurably: 88591
+  measure: 1518
+  measured: 3151
+  measurement: 5681
+  measurements: 5857
+  measures: 1634
+  measuring: 13246
+scored_words:
+  measureless: 125927
+  measurer: 114224
+not_scored_words:
+- measlier
+- measliest
+- measurelessly
+- measurelessness

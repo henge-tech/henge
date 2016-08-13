@@ -1,0 +1,31 @@
+---
+pattern: exam_
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 21
+score: 772404
+score_per_word: 45435
+hi_scored_words:
+  exam: 6668
+  examen: 52445
+  examination: 2475
+  examinations: 8893
+  examine: 3361
+  examined: 3663
+  examinees: 93643
+  examiner: 13635
+  examiners: 21041
+  examines: 12175
+  examining: 6489
+  example: 479
+  examples: 2095
+  exams: 9487
+scored_words:
+  examens: 136523
+  examinable: 298162
+  examinee: 101170
+not_scored_words:
+- examinant
+- examinational
+- exampled
+- exampling

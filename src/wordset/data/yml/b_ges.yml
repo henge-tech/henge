@@ -1,0 +1,37 @@
+---
+pattern: b_ges
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 27
+score: 1294649
+score_per_word: 92474
+hi_scored_words:
+  badges: 15920
+  bandages: 28805
+  barges: 33526
+  beverages: 12203
+  blockages: 66907
+  bridges: 5677
+  brokerages: 70805
+  bulges: 58905
+scored_words:
+  bacteriophages: 106939
+  barrages: 125864
+  bilges: 233930
+  binges: 126441
+  birdcages: 277649
+  breakages: 131078
+not_scored_words:
+- Boanerges
+- Borges
+- Bourges
+- Bridges
+- Bruges
+- baronages
+- begrudges
+- besieges
+- blancmanges
+- bodges
+- borages
+- brewages
+- budges

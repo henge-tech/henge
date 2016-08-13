@@ -1,0 +1,59 @@
+---
+pattern: _ayed
+hi_scored_words_count: 24
+scored_words_count: 15
+total_words: 49
+score: 3435812
+score_per_word: 88097
+hi_scored_words:
+  arrayed: 51229
+  assayed: 54046
+  betrayed: 12633
+  decayed: 40546
+  delayed: 4805
+  dismayed: 35882
+  displayed: 2372
+  downplayed: 72173
+  frayed: 44778
+  grayed: 90080
+  outplayed: 91906
+  payed: 43338
+  played: 1226
+  portrayed: 14048
+  prayed: 11702
+  relayed: 38337
+  replayed: 62187
+  spayed: 60576
+  splayed: 89147
+  sprayed: 30132
+  stayed: 3364
+  strayed: 43861
+  swayed: 34380
+  unplayed: 97315
+scored_words:
+  allayed: 107595
+  bayed: 287999
+  bewrayed: 198358
+  brayed: 189380
+  defrayed: 130142
+  essayed: 135093
+  flayed: 101377
+  okayed: 132050
+  overplayed: 105819
+  overstayed: 162808
+  parlayed: 145915
+  redisplayed: 237487
+  slayed: 180396
+  underplayed: 174337
+  undismayed: 116993
+not_scored_words:
+- belayed
+- disarrayed
+- forayed
+- hayed
+- holidayed
+- misplayed
+- outstayed
+- resprayed
+- sashayed
+- unswayed

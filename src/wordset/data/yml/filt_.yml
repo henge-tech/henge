@@ -1,0 +1,29 @@
+---
+pattern: filt_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 903465
+score_per_word: 75288
+hi_scored_words:
+  filter: 6462
+  filtered: 14207
+  filtering: 11452
+  filters: 13618
+  filth: 13476
+  filthy: 12283
+  filtrate: 60264
+  filtration: 15874
+scored_words:
+  filterable: 226251
+  filthiest: 172341
+  filthiness: 130720
+  filtrates: 226517
+not_scored_words:
+- filterability
+- filterer
+- filterers
+- filthier
+- filthily
+- filtrated
+- filtrating

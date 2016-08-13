@@ -1,0 +1,35 @@
+---
+pattern: re_nd
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 25
+score: 1047905
+score_per_word: 58216
+hi_scored_words:
+  rebound: 13795
+  recommend: 2241
+  refund: 3867
+  remand: 29693
+  remind: 5449
+  rend: 36909
+  reprimand: 34701
+  rescind: 43705
+  resend: 39165
+  resound: 62321
+  respond: 3973
+  reverend: 10526
+  rewind: 22546
+  rewound: 99579
+scored_words:
+  rebind: 110953
+  redound: 155705
+  regrind: 223359
+  reprehend: 149418
+not_scored_words:
+- Redmond
+- Reverend
+- reascend
+- refound
+- reground
+- repand
+- repetend

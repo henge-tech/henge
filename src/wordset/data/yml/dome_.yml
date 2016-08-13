@@ -1,0 +1,26 @@
+---
+pattern: dome_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 16
+score: 713712
+score_per_word: 59476
+hi_scored_words:
+  dome: 7089
+  domed: 40860
+  domes: 28753
+  domesday: 69072
+  domestic: 1740
+  domestically: 29274
+  domesticated: 30445
+  domestication: 50226
+  domesticity: 69999
+  domestics: 57145
+scored_words:
+  domesticate: 123724
+  domesticating: 205385
+not_scored_words:
+- Domesday
+- Domett
+- domesticable
+- domesticates

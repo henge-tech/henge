@@ -1,0 +1,54 @@
+---
+pattern: bene_
+hi_scored_words_count: 20
+scored_words_count: 6
+total_words: 44
+score: 1911056
+score_per_word: 73502
+hi_scored_words:
+  beneath: 3839
+  benedict: 12817
+  benedictine: 32679
+  benediction: 41504
+  benefactor: 28926
+  benefactors: 46053
+  benefactress: 98224
+  benefice: 86269
+  beneficence: 80859
+  beneficent: 58344
+  beneficial: 10358
+  beneficially: 62259
+  beneficiaries: 19494
+  beneficiary: 16043
+  benefit: 1436
+  benefited: 14787
+  benefiting: 23145
+  benefits: 1557
+  benevolence: 30113
+  benevolent: 18080
+scored_words:
+  benedictions: 180190
+  benedicts: 232118
+  benefaction: 231452
+  benefactions: 234078
+  benefices: 165236
+  benevolently: 181196
+not_scored_words:
+- Benedicite
+- Benedict
+- Benedictine
+- Benedictines
+- Benediction
+- Benedictus
+- Benelux
+- Benet
+- Benetton
+- Benevento
+- benedicite
+- benedictory
+- benefactresses
+- benefic
+- beneficed
+- beneficently
+- benempt
+- benevolences

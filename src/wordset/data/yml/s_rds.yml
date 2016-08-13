@@ -1,0 +1,66 @@
+---
+pattern: s_rds
+hi_scored_words_count: 21
+scored_words_count: 13
+total_words: 56
+score: 3435282
+score_per_word: 101037
+hi_scored_words:
+  safeguards: 17936
+  scoreboards: 55524
+  scorecards: 52215
+  seabirds: 48824
+  seawards: 99726
+  shards: 39613
+  shepherds: 18022
+  shipyards: 51095
+  shorebirds: 71131
+  sideboards: 90345
+  skateboards: 32344
+  snowbirds: 88079
+  snowboards: 49198
+  songbirds: 63322
+  southwards: 72194
+  standards: 2265
+  stewards: 28258
+  stockyards: 80892
+  storyboards: 65393
+  surfboards: 49860
+  swords: 8462
+scored_words:
+  sailboards: 215552
+  sards: 123849
+  scabbards: 153691
+  schoolyards: 304055
+  scratchcards: 240174
+  sherds: 116469
+  signboards: 150219
+  skywards: 161467
+  slumlords: 194450
+  soundboards: 148620
+  springboards: 194798
+  swards: 235240
+  switchboards: 112000
+not_scored_words:
+- Savoyards
+- Spaniards
+- scrapyards
+- seaboards
+- shipboards
+- shuffleboards
+- sidewards
+- sluggards
+- smorgasbords
+- smörgåsbords
+- snakebirds
+- southeastwards
+- southwestwards
+- spikenards
+- splashboards
+- steelyards
+- straightforwards
+- strawboards
+- surds
+- surfbirds
+- swearwords
+- swineherds

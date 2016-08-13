@@ -1,0 +1,26 @@
+---
+pattern: ori_s
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 867776
+score_per_word: 78888
+hi_scored_words:
+  orientals: 75781
+  orientations: 25067
+  orifices: 73684
+  originals: 13997
+  originates: 26443
+  originators: 55699
+  origins: 10560
+  orioles: 16350
+scored_words:
+  orientalists: 230135
+  orients: 128538
+  orisons: 211522
+not_scored_words:
+- Orientals
+- oriels
+- orientalizes
+- orientates
+- orinasals

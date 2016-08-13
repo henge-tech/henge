@@ -1,0 +1,41 @@
+---
+pattern: _rop
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 31
+score: 1885064
+score_per_word: 99213
+hi_scored_words:
+  agitprop: 88434
+  backdrop: 19282
+  crop: 4287
+  drop: 1387
+  eavesdrop: 61093
+  outcrop: 51397
+  prop: 10736
+  raindrop: 71539
+  snowdrop: 86622
+  strop: 88199
+  teardrop: 36488
+  turboprop: 78188
+scored_words:
+  airdrop: 134403
+  anthrop: 241472
+  caltrop: 165168
+  dewdrop: 148470
+  gumdrop: 167631
+  malaprop: 249904
+  stonecrop: 180364
+not_scored_words:
+- Bottrop
+- Malaprop
+- Northrop
+- Ribbentrop
+- Winthrop
+- eardrop
+- intercrop
+- namedrop
+- overcrop
+- paradrop
+- sharecrop
+- underprop

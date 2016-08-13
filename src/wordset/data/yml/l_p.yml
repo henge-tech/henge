@@ -1,0 +1,50 @@
+---
+pattern: l_p
+hi_scored_words_count: 23
+scored_words_count: 7
+total_words: 40
+score: 2077111
+score_per_word: 69237
+hi_scored_words:
+  ladyship: 72694
+  lamp: 3530
+  lap: 5491
+  laptop: 7532
+  layup: 30377
+  leadership: 3276
+  leap: 6579
+  lectureship: 74252
+  librarianship: 47273
+  lightship: 61193
+  limp: 12511
+  lineup: 10786
+  linkup: 91861
+  lip: 4802
+  lisp: 16602
+  lockup: 47773
+  lollipop: 32728
+  lookup: 13164
+  loop: 4989
+  lop: 37019
+  lordship: 24364
+  loup: 43746
+  lump: 9694
+scored_words:
+  landownership: 241470
+  landslip: 264495
+  laureateship: 180105
+  listenership: 196613
+  lockstep: 108317
+  lollypop: 133189
+  longship: 290686
+not_scored_words:
+- LP
+- Ladyship
+- Lapp
+- Lordship
+- lairdship
+- larrup
+- legateship
+- lesseeship
+- letup
+- lollop

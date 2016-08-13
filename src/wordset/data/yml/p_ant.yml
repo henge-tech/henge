@@ -1,0 +1,48 @@
+---
+pattern: p_ant
+hi_scored_words_count: 23
+scored_words_count: 5
+total_words: 38
+score: 1726512
+score_per_word: 61661
+hi_scored_words:
+  pageant: 15662
+  pant: 17086
+  participant: 14407
+  passant: 83125
+  peasant: 11890
+  pedant: 60968
+  penchant: 34321
+  pendant: 8524
+  pennant: 27999
+  petulant: 64996
+  pheasant: 23894
+  piquant: 68234
+  plant: 1294
+  pleasant: 2991
+  pliant: 62849
+  poignant: 20007
+  pollutant: 25882
+  predominant: 16916
+  pregnant: 4455
+  propellant: 40045
+  protestant: 11676
+  puissant: 96249
+  pursuant: 8612
+scored_words:
+  penetrant: 124137
+  precipitant: 254789
+  preponderant: 155310
+  protuberant: 204308
+  pursuivant: 265886
+not_scored_words:
+- Protestant
+- palpitant
+- peccant
+- pieplant
+- plainchant
+- postulant
+- predicant
+- predikant
+- procreant
+- pustulant

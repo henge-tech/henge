@@ -1,0 +1,29 @@
+---
+pattern: prio_
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 19
+score: 596747
+score_per_word: 45903
+hi_scored_words:
+  prion: 50676
+  prions: 82072
+  prior: 2128
+  priorities: 4516
+  prioritization: 49494
+  prioritize: 26123
+  prioritized: 42682
+  prioritizes: 94385
+  prioritizing: 47754
+  priority: 6563
+  priors: 55194
+  priory: 24839
+scored_words:
+  prioress: 110321
+not_scored_words:
+- Prior
+- priorate
+- prioresses
+- priories
+- priorship
+- priorships

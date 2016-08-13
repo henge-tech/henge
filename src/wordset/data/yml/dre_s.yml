@@ -1,0 +1,32 @@
+---
+pattern: dre_s
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 22
+score: 1634690
+score_per_word: 96158
+hi_scored_words:
+  dreadlocks: 73951
+  dreads: 49375
+  dreamers: 33437
+  dreams: 2186
+  dregs: 47547
+  dress: 1546
+  dressers: 40075
+  dresses: 5343
+  dressings: 30140
+  dressmakers: 91330
+scored_words:
+  dreadnoughts: 174151
+  dreaminess: 198015
+  dreamless: 129577
+  dreariness: 195826
+  dredgers: 202877
+  dredges: 103319
+  drenches: 255995
+not_scored_words:
+- Dreyfus
+- dreadfulness
+- dreamboats
+- dreamworlds
+- dressiness

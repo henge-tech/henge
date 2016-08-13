@@ -1,0 +1,34 @@
+---
+pattern: emp_s
+hi_scored_words_count: 13
+scored_words_count: 4
+total_words: 24
+score: 1117167
+score_per_word: 65715
+hi_scored_words:
+  emperors: 26361
+  emphases: 54948
+  emphasis: 3782
+  emphasizes: 18987
+  empires: 14567
+  employees: 1521
+  employers: 4107
+  employments: 67408
+  employs: 12085
+  empowers: 34637
+  empress: 14978
+  empties: 47117
+  emptiness: 21328
+scored_words:
+  empiricists: 169806
+  emplacements: 127972
+  emporiums: 261050
+  empresses: 236513
+not_scored_words:
+- Empedocles
+- empales
+- empanels
+- empathizes
+- empennages
+- emplanes
+- empurples

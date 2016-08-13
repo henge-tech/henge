@@ -1,0 +1,44 @@
+---
+pattern: mon_c
+hi_scored_words_count: 10
+scored_words_count: 9
+total_words: 34
+score: 1936067
+score_per_word: 101898
+hi_scored_words:
+  monadic: 97871
+  monastic: 24727
+  monochromatic: 46895
+  monolithic: 28284
+  monomeric: 77471
+  monophonic: 44337
+  monopolistic: 45877
+  monosyllabic: 97662
+  monotheistic: 67198
+  monotonic: 49444
+scored_words:
+  monatomic: 181198
+  monistic: 191784
+  monobasic: 126810
+  monogenic: 168435
+  monographic: 119128
+  monomorphic: 175996
+  monophyletic: 117851
+  monotypic: 144019
+  monozygotic: 131080
+not_scored_words:
+- Mongolic
+- monarchic
+- monarchistic
+- monetaristic
+- monoatomic
+- monocarpic
+- monochromic
+- monocyclic
+- monodic
+- monogenetic
+- monogrammatic
+- monohydric
+- monomaniac
+- monometallic
+- monosymmetric

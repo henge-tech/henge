@@ -1,0 +1,30 @@
+---
+pattern: s_eds
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 1139493
+score_per_word: 94957
+hi_scored_words:
+  seaweeds: 94899
+  seeds: 3955
+  sheds: 15926
+  shreds: 37603
+  sleds: 51336
+  speeds: 10390
+  steeds: 69169
+  succeeds: 16859
+  sunbeds: 89978
+scored_words:
+  screeds: 133409
+  seedbeds: 307129
+  streambeds: 308840
+not_scored_words:
+- Samoyeds
+- seabeds
+- sickbeds
+- silkweeds
+- silverweeds
+- slugabeds
+- spoonfeeds
+- stinkweeds

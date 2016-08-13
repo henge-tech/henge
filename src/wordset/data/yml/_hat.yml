@@ -1,0 +1,30 @@
+---
+pattern: _hat
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 809768
+score_per_word: 62289
+hi_scored_words:
+  chat: 5821
+  chitchat: 73641
+  ghat: 97253
+  hat: 1724
+  khat: 91132
+  phat: 19976
+  shat: 55295
+  somewhat: 2158
+  that: 6
+  what: 46
+scored_words:
+  hardhat: 143558
+  stonechat: 177443
+  whinchat: 141715
+not_scored_words:
+- Arhat
+- Jehosaphat
+- Jehoshaphat
+- backchat
+- cushat
+- entrechat
+- sunhat

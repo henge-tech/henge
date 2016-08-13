@@ -1,0 +1,34 @@
+---
+pattern: i_ance
+hi_scored_words_count: 15
+scored_words_count: 2
+total_words: 24
+score: 700716
+score_per_word: 41218
+hi_scored_words:
+  ignorance: 6226
+  imbalance: 18293
+  impedance: 17373
+  importance: 1647
+  inductance: 36225
+  inheritance: 7187
+  insignificance: 52492
+  instance: 1645
+  insurance: 4286
+  intemperance: 84771
+  intolerance: 18110
+  invariance: 40906
+  irradiance: 60354
+  irrelevance: 52978
+  issuance: 21913
+scored_words:
+  illuminance: 108790
+  insouciance: 167520
+not_scored_words:
+- impuissance
+- incessance
+- inelegance
+- inobservance
+- intendance
+- interinsurance
+- intransigeance

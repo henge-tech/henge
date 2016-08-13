@@ -1,0 +1,29 @@
+---
+pattern: _mat
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 19
+score: 773140
+score_per_word: 70285
+hi_scored_words:
+  automat: 87201
+  beermat: 99538
+  diplomat: 19056
+  doormat: 51596
+  format: 1302
+  hazmat: 39329
+  laundromat: 40514
+  mat: 6551
+  reformat: 48422
+scored_words:
+  achromat: 242925
+  summat: 136706
+not_scored_words:
+- Fermat
+- Fotomat
+- GMAT
+- Laundromat
+- anastigmat
+- bathmat
+- monochromat
+- trichromat

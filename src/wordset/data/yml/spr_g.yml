@@ -1,0 +1,29 @@
+---
+pattern: spr_g
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 870935
+score_per_word: 62209
+hi_scored_words:
+  sprang: 21532
+  sprawling: 30161
+  spraying: 26644
+  spreading: 5759
+  sprig: 56260
+  spring: 890
+  springing: 28155
+  sprinkling: 32985
+  sprinting: 58466
+  sprouting: 44580
+  sprung: 15271
+scored_words:
+  spraining: 286914
+  sprog: 117765
+  sprucing: 145553
+not_scored_words:
+- Sprechgesang
+- sprag
+- sprechgesang
+- spreeing
+- spritzing

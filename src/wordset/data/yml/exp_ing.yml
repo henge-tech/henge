@@ -1,0 +1,35 @@
+---
+pattern: exp_ing
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 25
+score: 1615952
+score_per_word: 76950
+hi_scored_words:
+  expanding: 7104
+  expecting: 5447
+  expediting: 67538
+  expelling: 62984
+  expending: 71219
+  experiencing: 9382
+  experimenting: 19863
+  expiring: 25459
+  explaining: 6393
+  exploding: 21631
+  exploiting: 22882
+  exploring: 6463
+  exporting: 11687
+  exposing: 13310
+  expounding: 93590
+  expressing: 6876
+scored_words:
+  expatiating: 226976
+  explicating: 204698
+  expostulating: 257166
+  expropriating: 226643
+  expunging: 248641
+not_scored_words:
+- expatriating
+- expectorating
+- expiating
+- expurgating

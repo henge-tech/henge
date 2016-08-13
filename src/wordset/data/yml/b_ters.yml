@@ -1,0 +1,57 @@
+---
+pattern: b_ters
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 47
+score: 2822077
+score_per_word: 104521
+hi_scored_words:
+  babysitters: 52860
+  backwaters: 61138
+  barometers: 67068
+  barristers: 47945
+  batters: 33600
+  beaters: 54698
+  betters: 72959
+  bitters: 65192
+  blasters: 46893
+  blisters: 33738
+  blockbusters: 52771
+  boaters: 43290
+  bolsters: 64731
+  boosters: 23941
+  broadcasters: 17410
+  busters: 30104
+  butters: 44437
+scored_words:
+  balusters: 129692
+  banisters: 161015
+  barters: 279840
+  beefeaters: 250305
+  biters: 131189
+  blighters: 275947
+  blotters: 141584
+  bolometers: 341005
+  breakwaters: 132188
+  burgomasters: 166537
+not_scored_words:
+- backbiters
+- bandmasters
+- banqueters
+- banters
+- barretters
+- basters
+- bedsitters
+- begetters
+- bespatters
+- billposters
+- bisters
+- bloaters
+- blusters
+- boasters
+- bonesetters
+- broncobusters
+- bullfighters
+- bullshitters
+- bunters
+- bushmasters

@@ -1,0 +1,50 @@
+---
+pattern: abso_
+hi_scored_words_count: 19
+scored_words_count: 10
+total_words: 40
+score: 2490678
+score_per_word: 85885
+hi_scored_words:
+  absolute: 2487
+  absolutely: 1811
+  absolutes: 55865
+  absolution: 37919
+  absolutism: 59085
+  absolutist: 66517
+  absolve: 49224
+  absolved: 59100
+  absorb: 11848
+  absorbable: 77110
+  absorbance: 50835
+  absorbed: 7461
+  absorbent: 32486
+  absorber: 32392
+  absorbers: 41919
+  absorbing: 14209
+  absorbs: 26722
+  absorption: 8189
+  absorptive: 61118
+scored_words:
+  absoluteness: 172714
+  absolutistic: 174382
+  absolutists: 289258
+  absolves: 131968
+  absolving: 142315
+  absorbency: 112518
+  absorbents: 126800
+  absorbingly: 231606
+  absorptions: 170207
+  absorptivity: 242613
+not_scored_words:
+- absolutest
+- absolutization
+- absolutize
+- absolvable
+- absolver
+- absolvers
+- absonant
+- absorbefacient
+- absorptance
+- absorptances
+- absorptivities

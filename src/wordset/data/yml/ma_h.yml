@@ -1,0 +1,44 @@
+---
+pattern: ma_h
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 34
+score: 946148
+score_per_word: 67582
+hi_scored_words:
+  mach: 18668
+  mackintosh: 32941
+  mammoth: 17028
+  march: 415
+  marsh: 8225
+  mash: 18342
+  match: 1379
+  math: 8679
+  matriarch: 61979
+scored_words:
+  madrasah: 155163
+  maharajah: 123120
+  mannish: 158312
+  matzoh: 204819
+  mawkish: 137078
+not_scored_words:
+- MASH
+- MacLeish
+- Macbeth
+- Mach
+- Macintosh
+- Mackintosh
+- Makkah
+- Manasseh
+- March
+- Marlborough
+- Marrakech
+- Marrakesh
+- Marsh
+- magnetograph
+- marconigraph
+- marigraph
+- marish
+- marsipobranch
+- matzoth
+- mauvish

@@ -1,0 +1,74 @@
+---
+pattern: _etry
+hi_scored_words_count: 24
+scored_words_count: 14
+total_words: 64
+score: 3567888
+score_per_word: 93891
+hi_scored_words:
+  asymmetry: 26032
+  basketry: 72912
+  bathymetry: 84568
+  cabinetry: 65108
+  calorimetry: 77438
+  dosimetry: 60160
+  gadgetry: 80424
+  geometry: 8396
+  interferometry: 59525
+  marquetry: 89697
+  optometry: 39911
+  photogrammetry: 75533
+  photometry: 41169
+  poetry: 1944
+  puppetry: 55642
+  retry: 34770
+  rocketry: 63120
+  spectrometry: 26678
+  spectrophotometry: 78869
+  stoichiometry: 71515
+  symmetry: 10891
+  telemetry: 28730
+  toiletry: 67590
+  trigonometry: 38705
+scored_words:
+  allometry: 290313
+  altimetry: 134550
+  anthropometry: 128157
+  astrometry: 115303
+  biometry: 112638
+  coquetry: 204472
+  corsetry: 199058
+  isometry: 112190
+  manometry: 123840
+  musketry: 143611
+  parquetry: 239196
+  psychometry: 194074
+  radiometry: 164410
+  thermometry: 146749
+not_scored_words:
+- acidimetry
+- aerometry
+- anemometry
+- barometry
+- chronometry
+- craniometry
+- dissymmetry
+- dolorimetry
+- dynamometry
+- gasometry
+- hydrometry
+- hygrometry
+- hypsometry
+- iodometry
+- micrometry
+- oxidimetry
+- planimetry
+- sociometry
+- stereometry
+- stichometry
+- tachometry
+- tachymetry
+- trinketry
+- uranometry
+- varletry
+- zoometry

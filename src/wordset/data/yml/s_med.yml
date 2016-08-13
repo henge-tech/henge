@@ -1,0 +1,39 @@
+---
+pattern: s_med
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 29
+score: 1033042
+score_per_word: 54370
+hi_scored_words:
+  scammed: 51355
+  screamed: 16861
+  seamed: 59601
+  seemed: 1567
+  shamed: 46311
+  skimmed: 44928
+  slammed: 17938
+  slimmed: 97705
+  spammed: 56328
+  squirmed: 87192
+  steamed: 20914
+  stemmed: 36510
+  stormed: 31978
+  streamed: 30603
+  subsumed: 53478
+  summed: 17061
+  swarmed: 59769
+scored_words:
+  schemed: 151753
+  strummed: 151190
+not_scored_words:
+- salaamed
+- scrammed
+- scrummed
+- scummed
+- shammed
+- shimmed
+- slalomed
+- slummed
+- spumed
+- sublimed

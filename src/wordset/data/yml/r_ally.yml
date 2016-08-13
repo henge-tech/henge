@@ -1,0 +1,47 @@
+---
+pattern: r_ally
+hi_scored_words_count: 13
+scored_words_count: 15
+total_words: 37
+score: 3861684
+score_per_word: 137917
+hi_scored_words:
+  racially: 30335
+  radially: 61249
+  radically: 16629
+  rally: 6265
+  rationally: 29993
+  realistically: 21997
+  really: 236
+  reciprocally: 89637
+  regionally: 29182
+  rhetorically: 79268
+  rhythmically: 68913
+  romantically: 58593
+  royally: 64144
+scored_words:
+  radiographically: 161681
+  radiologically: 188308
+  radiometrically: 114738
+  rascally: 156285
+  rectally: 217879
+  referentially: 266886
+  regally: 236213
+  relationally: 229783
+  relativistically: 322857
+  residentially: 200926
+  residually: 310819
+  reverentially: 273789
+  ritualistically: 292517
+  ritually: 104095
+  robotically: 228467
+not_scored_words:
+- rabbinically
+- radiationally
+- raptorially
+- rationalistically
+- remedially
+- rhapsodically
+- rheumatically
+- rurally
+- rustically

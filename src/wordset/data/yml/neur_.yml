@@ -1,0 +1,65 @@
+---
+pattern: neur_
+hi_scored_words_count: 30
+scored_words_count: 12
+total_words: 55
+score: 3758105
+score_per_word: 89478
+hi_scored_words:
+  neural: 11450
+  neuralgia: 44829
+  neuralgic: 74003
+  neuritis: 67474
+  neurobiology: 38072
+  neurogenic: 75468
+  neurologic: 33045
+  neurological: 17275
+  neurologist: 39685
+  neurologists: 61455
+  neurology: 17545
+  neuroma: 93148
+  neuromuscular: 32660
+  neuron: 23514
+  neuronal: 21759
+  neurons: 10018
+  neuropathy: 30338
+  neurophysiology: 52733
+  neuropsychiatry: 97235
+  neuroscience: 15304
+  neurosciences: 57348
+  neuroses: 83111
+  neurosis: 47648
+  neurosurgeon: 66683
+  neurosurgeons: 99908
+  neurosurgery: 30168
+  neurosurgical: 69379
+  neurotic: 32925
+  neurotransmitter: 41096
+  neurotransmitters: 47054
+scored_words:
+  neurally: 281922
+  neurasthenia: 144858
+  neuritic: 285169
+  neuroblast: 276137
+  neuroblasts: 216012
+  neuroglia: 193948
+  neurologically: 122000
+  neuroscientist: 105316
+  neurotically: 266513
+  neuroticism: 128146
+  neurotics: 187742
+  neurovascular: 118012
+not_scored_words:
+- neurasthenic
+- neurasthenics
+- neurilemma
+- neuritics
+- neuritides
+- neurocele
+- neuroglias
+- neurogram
+- neuropath
+- neurophysiologies
+- neuropsychiatries
+- neuroticisms
+- neurotomy

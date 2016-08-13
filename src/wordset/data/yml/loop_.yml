@@ -1,0 +1,21 @@
+---
+pattern: loop_
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 419503
+score_per_word: 46611
+hi_scored_words:
+  loop: 4989
+  looped: 37440
+  looper: 47015
+  loophole: 30717
+  loopholes: 39982
+  looping: 28165
+  loops: 11306
+  loopy: 47955
+scored_words:
+  loopers: 171934
+not_scored_words:
+- loopier
+- loopiest

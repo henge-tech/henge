@@ -1,0 +1,28 @@
+---
+pattern: brew_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 18
+score: 824748
+score_per_word: 63442
+hi_scored_words:
+  brew: 15628
+  brewed: 28098
+  brewer: 17468
+  breweries: 30015
+  brewers: 23425
+  brewery: 17231
+  brewing: 13522
+  brewpub: 83202
+  brews: 41678
+scored_words:
+  brewhouse: 111407
+  brewis: 204214
+  brewmaster: 133032
+  brewpubs: 105828
+not_scored_words:
+- Brewer
+- Brewster
+- brewage
+- brewages
+- brewings

@@ -1,0 +1,23 @@
+---
+pattern: se_lity
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 13
+score: 586217
+score_per_word: 65135
+hi_scored_words:
+  seasonality: 56832
+  senility: 91623
+  sensibility: 21106
+  sensuality: 32480
+  sentimentality: 56078
+  separability: 99984
+  serviceability: 70050
+  sexuality: 15122
+scored_words:
+  servility: 142942
+not_scored_words:
+- seasonability
+- sedulity
+- semipermeability
+- seriality

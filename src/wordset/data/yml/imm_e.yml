@@ -1,0 +1,42 @@
+---
+pattern: imm_e
+hi_scored_words_count: 15
+scored_words_count: 7
+total_words: 32
+score: 1604094
+score_per_word: 72913
+hi_scored_words:
+  immaculate: 18678
+  immature: 17570
+  immeasurable: 41934
+  immediate: 1891
+  immense: 8199
+  immerse: 38695
+  immersive: 38237
+  immigrate: 61459
+  immobile: 40503
+  immobilize: 99958
+  immovable: 40017
+  immune: 11277
+  immunize: 99015
+  immunosuppressive: 50834
+  immutable: 29928
+scored_words:
+  immanence: 123557
+  imminence: 128021
+  immiscible: 112213
+  immoderate: 109319
+  immolate: 203772
+  immortalize: 145374
+  immortelle: 183643
+not_scored_words:
+- immaterialize
+- immedicable
+- immensurable
+- immerge
+- immersible
+- immingle
+- immitigable
+- immixture
+- immotile
+- immure

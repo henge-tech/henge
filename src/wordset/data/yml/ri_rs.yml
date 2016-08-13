@@ -1,0 +1,25 @@
+---
+pattern: ri_rs
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 964063
+score_per_word: 87642
+hi_scored_words:
+  riders: 7661
+  riggers: 98997
+  rigors: 57467
+  ringers: 35051
+  rioters: 55438
+  rippers: 61448
+  risers: 39740
+  rivers: 3528
+scored_words:
+  ricers: 220716
+  ringleaders: 137111
+  riveters: 246906
+not_scored_words:
+- Rivers
+- ribbers
+- riflers
+- ringmasters

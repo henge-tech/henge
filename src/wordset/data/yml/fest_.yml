@@ -1,0 +1,33 @@
+---
+pattern: fest_
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 23
+score: 1574460
+score_per_word: 98403
+hi_scored_words:
+  fest: 10532
+  fester: 48331
+  festering: 68865
+  festival: 2598
+  festivals: 6724
+  festive: 14741
+  festivities: 18891
+  festivity: 60919
+  festoon: 95961
+  festooned: 95460
+  fests: 90989
+scored_words:
+  festal: 114895
+  festered: 230991
+  festers: 253816
+  festively: 264238
+  festoons: 196509
+not_scored_words:
+- Festschrift
+- festally
+- festinate
+- festination
+- festiveness
+- festoonery
+- festooning

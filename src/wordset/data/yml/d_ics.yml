@@ -1,0 +1,34 @@
+---
+pattern: d_ics
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 24
+score: 1274046
+score_per_word: 79627
+hi_scored_words:
+  demographics: 8313
+  diabetics: 31016
+  diacritics: 80577
+  diagnostics: 18910
+  dialectics: 63545
+  dianetics: 79677
+  dielectrics: 83241
+  dietetics: 60375
+  diuretics: 41148
+  domestics: 57145
+  dramatics: 69620
+  dynamics: 13550
+scored_words:
+  didactics: 131022
+  dioptrics: 235988
+  dogmatics: 171463
+  dyslexics: 128456
+not_scored_words:
+- dactylics
+- deictics
+- dermatoglyphics
+- diaphoretics
+- diplomatics
+- dysgenics
+- dyslectics
+- dyspeptics

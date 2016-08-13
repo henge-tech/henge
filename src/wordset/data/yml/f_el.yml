@@ -1,0 +1,26 @@
+---
+pattern: f_el
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 16
+score: 441399
+score_per_word: 44139
+hi_scored_words:
+  falafel: 67831
+  feel: 365
+  fennel: 34945
+  flannel: 17312
+  flywheel: 35095
+  fresnel: 55577
+  fuel: 2783
+  funnel: 19994
+scored_words:
+  fontanel: 105073
+  freewheel: 102424
+not_scored_words:
+- Fernandel
+- Fidel
+- Frankel
+- Fresnel
+- Froebel
+- fardel

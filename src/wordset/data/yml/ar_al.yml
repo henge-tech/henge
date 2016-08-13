@@ -1,0 +1,37 @@
+---
+pattern: ar_al
+hi_scored_words_count: 17
+scored_words_count: 4
+total_words: 27
+score: 1451813
+score_per_word: 69133
+hi_scored_words:
+  arbitral: 59084
+  arboreal: 70794
+  archaeological: 15192
+  archeological: 28884
+  archetypal: 45807
+  archiepiscopal: 66482
+  architectural: 5755
+  archival: 13894
+  areal: 48550
+  arithmetical: 68172
+  armorial: 58398
+  arousal: 28022
+  arrival: 2691
+  arsenal: 9675
+  arterial: 19518
+  artificial: 4067
+  artisanal: 67048
+scored_words:
+  arboricultural: 265700
+  archrival: 150205
+  arsenical: 226510
+  artifactual: 197365
+not_scored_words:
+- Aral
+- archducal
+- archidiaconal
+- argal
+- arrhythmical
+- artefactual

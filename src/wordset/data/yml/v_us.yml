@@ -1,0 +1,75 @@
+---
+pattern: v_us
+hi_scored_words_count: 24
+scored_words_count: 14
+total_words: 65
+score: 3064885
+score_per_word: 80654
+hi_scored_words:
+  vacuous: 62344
+  vagus: 59968
+  various: 530
+  varus: 85475
+  venomous: 32890
+  venous: 28602
+  versus: 7367
+  vexatious: 60663
+  vicarious: 41802
+  vicious: 10005
+  victorious: 15711
+  vigorous: 10815
+  villainous: 43519
+  virtuous: 18629
+  virtus: 94533
+  virus: 2530
+  viscous: 31213
+  viscus: 80902
+  vitreous: 41881
+  vivacious: 49065
+  vociferous: 64362
+  voluminous: 34554
+  voluptuous: 33038
+  voracious: 46441
+scored_words:
+  vaginismus: 187879
+  vainglorious: 148986
+  valgus: 118019
+  valorous: 130914
+  vaporous: 145096
+  venturous: 189365
+  veracious: 261201
+  vertiginous: 155988
+  vertus: 135943
+  villous: 110243
+  villus: 103755
+  vinous: 158475
+  viviparous: 137636
+  volvulus: 124546
+not_scored_words:
+- Venus
+- Vertumnus
+- Vesalius
+- Vesuvius
+- Vilnius
+- Vitus
+- Vortumnus
+- vagarious
+- valerianaceous
+- vanadous
+- variolous
+- velutinous
+- ventriculus
+- verbenaceous
+- verdurous
+- verminous
+- vicissitudinous
+- vimineous
+- vinaceous
+- viniferous
+- violaceous
+- viperous
+- vitaceous
+- vitellus
+- vomitous
+- vulgus
+- vulturous

@@ -1,0 +1,36 @@
+---
+pattern: que_s
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 26
+score: 2494898
+score_per_word: 131310
+hi_scored_words:
+  queens: 8594
+  queers: 49382
+  queries: 9025
+  ques: 41151
+  quesadillas: 82347
+  questionnaires: 16774
+  questions: 470
+  quests: 19192
+  queues: 27867
+scored_words:
+  queasiness: 286080
+  queerness: 260773
+  quells: 303974
+  quenchers: 306982
+  quenches: 149386
+  quenchless: 209909
+  querulous: 126276
+  querulousness: 235010
+  questioners: 147274
+  questionings: 214432
+not_scored_words:
+- Quebecois
+- Quechuas
+- Queens
+- queenliness
+- querns
+- questionless
+- quetzals

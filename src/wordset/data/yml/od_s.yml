@@ -1,0 +1,31 @@
+---
+pattern: od_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 21
+score: 1359156
+score_per_word: 104550
+hi_scored_words:
+  oddities: 36446
+  oddness: 97005
+  odds: 4607
+  odes: 45047
+  odious: 35433
+  odorless: 53027
+  odorous: 81721
+  odors: 27328
+scored_words:
+  oddballs: 133477
+  oddments: 138186
+  odometers: 326044
+  odoriferous: 175355
+  odysseys: 205480
+not_scored_words:
+- ODs
+- Odets
+- Odis
+- Odysseus
+- odalisques
+- odiousness
+- odoriferousness
+- odorousness

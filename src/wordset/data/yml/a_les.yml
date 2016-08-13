@@ -1,0 +1,54 @@
+---
+pattern: a_les
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 44
+score: 2305769
+score_per_word: 96073
+hi_scored_words:
+  aisles: 31557
+  ales: 34484
+  alleles: 27770
+  angles: 7739
+  ankles: 22901
+  anopheles: 66838
+  apostles: 14852
+  apples: 9086
+  arterioles: 95336
+  articles: 982
+  assembles: 52107
+  assholes: 22831
+  audiophiles: 86928
+  automobiles: 11962
+  axles: 36960
+scored_words:
+  abeles: 192541
+  ambles: 248741
+  amphiboles: 262046
+  ampoules: 113260
+  ampules: 165598
+  anoles: 237109
+  antiparticles: 245838
+  armholes: 147649
+  audibles: 170654
+not_scored_words:
+- Achilles
+- Airedales
+- Androcles
+- Angeles
+- Angles
+- Antilles
+- Apelles
+- Arles
+- acidophiles
+- acrylonitriles
+- addles
+- amarelles
+- aneles
+- anglophiles
+- animalcules
+- appendicles
+- argyles
+- audiles
+- aureoles
+- auricles

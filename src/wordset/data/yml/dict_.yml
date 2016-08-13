@@ -1,0 +1,31 @@
+---
+pattern: dict_
+hi_scored_words_count: 16
+scored_words_count: 1
+total_words: 21
+score: 707464
+score_per_word: 41615
+hi_scored_words:
+  dict: 39212
+  dicta: 67426
+  dictate: 14382
+  dictated: 23545
+  dictates: 21092
+  dictating: 46870
+  dictation: 26731
+  dictator: 16800
+  dictatorial: 44628
+  dictators: 33616
+  dictatorship: 20315
+  dictatorships: 56076
+  diction: 29944
+  dictionaries: 14568
+  dictionary: 4013
+  dictum: 41063
+scored_words:
+  dictations: 207183
+not_scored_words:
+- Dictaphone
+- Dictaphones
+- Dictograph
+- dictatorially

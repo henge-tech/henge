@@ -1,0 +1,22 @@
+---
+pattern: _tels
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 489231
+score_per_word: 54359
+hi_scored_words:
+  cartels: 50456
+  chattels: 68775
+  hostels: 14083
+  hotels: 5941
+  mantels: 91492
+  motels: 16432
+  pastels: 37396
+  tels: 91324
+scored_words:
+  lintels: 113332
+not_scored_words:
+- muscatels
+- overmantels
+- ratels

@@ -1,0 +1,63 @@
+---
+pattern: pr_ers
+hi_scored_words_count: 22
+scored_words_count: 15
+total_words: 53
+score: 2990820
+score_per_word: 80832
+hi_scored_words:
+  practitioners: 9253
+  pranksters: 98295
+  prayers: 5003
+  preachers: 21610
+  prefers: 8692
+  premiers: 35535
+  preparers: 97724
+  preschoolers: 39819
+  presenters: 18112
+  pretenders: 45055
+  primers: 24672
+  printers: 7254
+  prisoners: 4170
+  privateers: 67355
+  proclaimers: 96439
+  producers: 8272
+  profiteers: 95245
+  programmers: 8649
+  promoters: 19468
+  propellers: 38528
+  protesters: 14658
+  providers: 11726
+scored_words:
+  presbyters: 125088
+  preservers: 107878
+  pressers: 154552
+  printmakers: 110456
+  prizewinners: 175447
+  probationers: 101283
+  procurers: 283634
+  proffers: 111171
+  promenaders: 237830
+  proofreaders: 105830
+  proposers: 101011
+  prospers: 115465
+  provers: 150710
+  prowlers: 147879
+  pruners: 187052
+not_scored_words:
+- prancers
+- praters
+- prattlers
+- predeterminers
+- preregisters
+- pressurizers
+- previewers
+- prickers
+- priers
+- prizefighters
+- promisers
+- prompters
+- prophesiers
+- proselytizers
+- provisioners
+- provokers

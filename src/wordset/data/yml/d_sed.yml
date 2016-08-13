@@ -1,0 +1,55 @@
+---
+pattern: d_sed
+hi_scored_words_count: 29
+scored_words_count: 10
+total_words: 45
+score: 2846056
+score_per_word: 72975
+hi_scored_words:
+  debased: 80708
+  deceased: 7884
+  decomposed: 35064
+  decreased: 7859
+  defused: 94803
+  deposed: 35589
+  depressed: 8024
+  despised: 27020
+  devised: 12248
+  diagnosed: 15665
+  diffused: 35126
+  disbursed: 47461
+  disclosed: 9411
+  discussed: 2363
+  diseased: 22567
+  disenfranchised: 45669
+  disguised: 16966
+  dismissed: 6434
+  dispensed: 23023
+  dispersed: 12654
+  displeased: 35033
+  disposed: 8031
+  dispossessed: 55125
+  dissed: 87506
+  distressed: 12945
+  disused: 54009
+  dosed: 63847
+  doused: 84501
+  dressed: 4150
+scored_words:
+  decompressed: 110733
+  defensed: 242279
+  degassed: 239374
+  demised: 133327
+  digressed: 172303
+  disabused: 257117
+  discomposed: 145942
+  discoursed: 156047
+  disfranchised: 227921
+  drowsed: 209328
+not_scored_words:
+- degaussed
+- deloused
+- disembarrassed
+- dispraised
+- dossed
+- dowsed

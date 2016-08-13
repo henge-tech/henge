@@ -1,0 +1,29 @@
+---
+pattern: r_rt
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 19
+score: 1303848
+score_per_word: 93132
+hi_scored_words:
+  rampart: 36873
+  rapport: 19095
+  reassert: 83267
+  redstart: 85434
+  report: 406
+  resort: 2722
+  restart: 14205
+  retort: 30146
+  revert: 16995
+scored_words:
+  ragwort: 115931
+  reconvert: 307995
+  reexport: 215855
+  reimport: 246645
+  reinsert: 128279
+not_scored_words:
+- Rappaport
+- Robert
+- Roquefort
+- Rupert
+- ribwort

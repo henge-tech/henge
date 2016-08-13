@@ -1,0 +1,25 @@
+---
+pattern: clo_e
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 15
+score: 1035979
+score_per_word: 79690
+hi_scored_words:
+  cloche: 87432
+  clockwise: 23335
+  cloisonne: 60895
+  clone: 9916
+  close: 368
+  closure: 13418
+  clothe: 34810
+  clothesline: 56348
+  cloture: 59491
+  clove: 28061
+scored_words:
+  cloacae: 234953
+  closable: 269077
+  cloudscape: 157875
+not_scored_words:
+- Closure
+- clotheshorse

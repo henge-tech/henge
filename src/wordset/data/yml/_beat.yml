@@ -1,0 +1,20 @@
+---
+pattern: _beat
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 488377
+score_per_word: 54264
+hi_scored_words:
+  backbeat: 88629
+  beat: 1555
+  deadbeat: 48727
+  downbeat: 58856
+  drumbeat: 77941
+  heartbeat: 16874
+  offbeat: 32458
+  upbeat: 20217
+scored_words:
+  browbeat: 143120
+not_scored_words:
+- hoofbeat

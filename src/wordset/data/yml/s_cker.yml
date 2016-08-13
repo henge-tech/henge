@@ -1,0 +1,26 @@
+---
+pattern: s_cker
+hi_scored_words_count: 8
+scored_words_count: 7
+total_words: 16
+score: 1529331
+score_per_word: 101955
+hi_scored_words:
+  shocker: 31584
+  sicker: 61816
+  slacker: 34133
+  slicker: 60612
+  snicker: 55666
+  stacker: 40975
+  sticker: 11110
+  sucker: 19896
+scored_words:
+  sacker: 180435
+  safecracker: 222203
+  sapsucker: 112763
+  seersucker: 117283
+  skyjacker: 176142
+  smacker: 286665
+  spellchecker: 118048
+not_scored_words:
+- shucker

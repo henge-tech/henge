@@ -1,0 +1,43 @@
+---
+pattern: po_al
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 33
+score: 1607591
+score_per_word: 69895
+hi_scored_words:
+  poetical: 34705
+  polemical: 62937
+  political: 593
+  polygonal: 44213
+  polyhedral: 61637
+  polynomial: 18749
+  pontifical: 52859
+  popliteal: 79386
+  portal: 5338
+  portrayal: 23249
+  positional: 28557
+  postal: 6194
+  postcolonial: 51748
+  postdoctoral: 27419
+  postmenopausal: 40805
+  postnatal: 38613
+  postprandial: 83691
+  postural: 51816
+  potential: 3490
+scored_words:
+  postcoital: 243057
+  postglacial: 192399
+  postindustrial: 150342
+  postnasal: 305794
+not_scored_words:
+- Portugal
+- postaxial
+- postclassical
+- postconsonantal
+- postmarital
+- postmenstrual
+- postnuptial
+- postorbital
+- postseasonal
+- poundal

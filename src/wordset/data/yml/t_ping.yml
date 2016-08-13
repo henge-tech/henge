@@ -1,0 +1,30 @@
+---
+pattern: t_ping
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 20
+score: 1146167
+score_per_word: 71635
+hi_scored_words:
+  taping: 25458
+  tapping: 14498
+  telescoping: 55305
+  temping: 98022
+  thumping: 34140
+  timekeeping: 54209
+  tipping: 21300
+  topping: 22515
+  tramping: 62046
+  trapping: 20946
+  tripping: 21220
+  typing: 10603
+scored_words:
+  tamping: 125628
+  tromping: 269767
+  trooping: 143896
+  trumping: 166614
+not_scored_words:
+- Taiping
+- toping
+- transshipping
+- trouping

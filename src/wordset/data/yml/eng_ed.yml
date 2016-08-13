@@ -1,0 +1,20 @@
+---
+pattern: eng_ed
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 497388
+score_per_word: 55265
+hi_scored_words:
+  engaged: 2685
+  engendered: 45184
+  engined: 55631
+  engineered: 18065
+  engorged: 90886
+  engraved: 10857
+  engrossed: 29700
+  engulfed: 40417
+scored_words:
+  engrafted: 203963
+not_scored_words:
+- englutted

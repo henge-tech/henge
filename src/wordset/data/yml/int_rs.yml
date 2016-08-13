@@ -1,0 +1,27 @@
+---
+pattern: int_rs
+hi_scored_words_count: 9
+scored_words_count: 7
+total_words: 17
+score: 1681007
+score_per_word: 105062
+hi_scored_words:
+  integers: 20756
+  integrators: 47483
+  interceptors: 66380
+  interiors: 17540
+  interlocutors: 99108
+  interpreters: 16321
+  interrogators: 64411
+  interviewers: 36930
+  intruders: 33138
+scored_words:
+  intensifiers: 205654
+  intercessors: 170809
+  interferometers: 113764
+  interlopers: 154159
+  interrupters: 196576
+  inters: 274735
+  intriguers: 163243
+not_scored_words:
+- intoners

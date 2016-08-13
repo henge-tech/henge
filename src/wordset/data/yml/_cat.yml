@@ -1,0 +1,31 @@
+---
+pattern: _cat
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 21
+score: 1479873
+score_per_word: 92492
+hi_scored_words:
+  bearcat: 69991
+  bobcat: 32363
+  cat: 1559
+  copycat: 39983
+  hellcat: 62244
+  muscat: 38257
+  pussycat: 19833
+  scat: 17246
+  tomcat: 24374
+  wildcat: 27991
+scored_words:
+  ducat: 113431
+  hepcat: 172586
+  kittycat: 295809
+  mudcat: 220299
+  polecat: 103542
+  requiescat: 240365
+not_scored_words:
+- CAT
+- Magnificat
+- Muscat
+- lolcat
+- tipcat

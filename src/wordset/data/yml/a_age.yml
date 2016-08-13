@@ -1,0 +1,29 @@
+---
+pattern: a_age
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 19
+score: 1363109
+score_per_word: 85194
+hi_scored_words:
+  acreage: 23939
+  adage: 35054
+  advantage: 1433
+  afterimage: 92154
+  amperage: 76006
+  anchorage: 11418
+  appendage: 46490
+  arbitrage: 35423
+  assemblage: 28316
+  assuage: 60466
+  average: 1095
+scored_words:
+  alienage: 324782
+  anecdotage: 249406
+  anlage: 129301
+  appanage: 107845
+  arrearage: 139981
+not_scored_words:
+- Anchorage
+- agiotage
+- archimage

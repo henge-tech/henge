@@ -1,0 +1,28 @@
+---
+pattern: _wear
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 18
+score: 1174732
+score_per_word: 69101
+hi_scored_words:
+  footwear: 18560
+  knitwear: 46429
+  menswear: 35842
+  neckwear: 97991
+  nightwear: 76442
+  outerwear: 33395
+  sleepwear: 53454
+  sportswear: 25527
+  swear: 6362
+  swimwear: 20469
+  underwear: 13174
+  wear: 1570
+scored_words:
+  beachwear: 102685
+  forswear: 158670
+  leisurewear: 141489
+  outwear: 230698
+  skiwear: 111975
+not_scored_words:
+- unswear

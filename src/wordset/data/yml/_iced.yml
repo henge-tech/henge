@@ -1,0 +1,49 @@
+---
+pattern: _iced
+hi_scored_words_count: 22
+scored_words_count: 5
+total_words: 39
+score: 1757563
+score_per_word: 65094
+hi_scored_words:
+  apprenticed: 71416
+  diced: 37208
+  enticed: 54846
+  iced: 19177
+  invoiced: 71792
+  jaundiced: 79743
+  juiced: 53485
+  noticed: 2571
+  overpriced: 30836
+  policed: 79236
+  practiced: 11356
+  prejudiced: 32347
+  priced: 12745
+  rejoiced: 34595
+  sacrificed: 14703
+  serviced: 14826
+  sliced: 13805
+  spiced: 27270
+  spliced: 51579
+  sufficed: 67308
+  unnoticed: 20478
+  voiced: 15772
+scored_words:
+  latticed: 159012
+  repriced: 308551
+  unprejudiced: 132851
+  unpriced: 210043
+  unvoiced: 130012
+not_scored_words:
+- beneficed
+- bratticed
+- corniced
+- deiced
+- devoiced
+- poulticed
+- riced
+- sluiced
+- unjaundiced
+- unpracticed
+- unsliced
+- viced

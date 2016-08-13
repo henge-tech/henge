@@ -1,0 +1,42 @@
+---
+pattern: d_sh
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 32
+score: 1980102
+score_per_word: 110005
+hi_scored_words:
+  danish: 5221
+  dash: 6087
+  demolish: 33005
+  dervish: 55670
+  devilish: 41501
+  diminish: 14362
+  dish: 2857
+  distinguish: 5968
+  dogfish: 57843
+  dosh: 71500
+scored_words:
+  damselfish: 190245
+  darkish: 225178
+  devilfish: 231242
+  disestablish: 144024
+  doltish: 182293
+  dovish: 243437
+  downwash: 266895
+  dwarfish: 202774
+not_scored_words:
+- Danish
+- dampish
+- dealfish
+- dilettantish
+- disrelish
+- doggish
+- dollarfish
+- dollish
+- donnish
+- drumfish
+- dryish
+- dudish
+- dullish
+- dumpish

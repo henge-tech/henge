@@ -1,0 +1,34 @@
+---
+pattern: pu_rs
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 24
+score: 1729294
+score_per_word: 91015
+hi_scored_words:
+  publishers: 4006
+  pullers: 84978
+  pullovers: 90035
+  pulsars: 67339
+  punters: 43828
+  purchasers: 21368
+  purifiers: 48251
+  purrs: 78507
+  pursuers: 67811
+  purveyors: 62076
+  pushers: 62313
+  putters: 50808
+scored_words:
+  puckers: 189738
+  puffers: 162010
+  pumpers: 134811
+  punchers: 197535
+  puppeteers: 103942
+  pushchairs: 101711
+  puzzlers: 158227
+not_scored_words:
+- punsters
+- purgers
+- pursers
+- pushovers
+- putterers

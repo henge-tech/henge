@@ -1,0 +1,29 @@
+---
+pattern: _irt
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 19
+score: 972900
+score_per_word: 69492
+hi_scored_words:
+  dirt: 5070
+  flirt: 14440
+  girt: 58239
+  miniskirt: 61429
+  nightshirt: 86926
+  outskirt: 89061
+  shirt: 2115
+  skirt: 5532
+  squirt: 18568
+  sweatshirt: 12879
+  undershirt: 77238
+scored_words:
+  airt: 202929
+  quirt: 169322
+  underskirt: 169152
+not_scored_words:
+- Blackshirt
+- Brownshirt
+- maxiskirt
+- overskirt
+- seagirt

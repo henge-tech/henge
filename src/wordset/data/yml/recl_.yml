@@ -1,0 +1,38 @@
+---
+pattern: recl_
+hi_scored_words_count: 13
+scored_words_count: 9
+total_words: 28
+score: 2488421
+score_per_word: 113110
+hi_scored_words:
+  reclaim: 19365
+  reclaimed: 24472
+  reclaiming: 37634
+  reclamation: 22225
+  reclassification: 52604
+  reclassified: 43059
+  recline: 53229
+  reclined: 92033
+  recliner: 40100
+  recliners: 85015
+  reclining: 29559
+  recluse: 40101
+  reclusive: 61420
+scored_words:
+  reclaimable: 330416
+  reclaimer: 198224
+  reclaims: 101766
+  reclamations: 296943
+  reclassify: 101312
+  reclassifying: 190469
+  reclines: 168306
+  recluses: 234811
+  reclusion: 265358
+not_scored_words:
+- reclaimant
+- reclassifies
+- reclinate
+- reclothe
+- reclusiveness
+- reclusivenesses

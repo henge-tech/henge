@@ -1,0 +1,33 @@
+---
+pattern: ma_ted
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 23
+score: 1003564
+score_per_word: 66904
+hi_scored_words:
+  malted: 72946
+  maltreated: 96110
+  mandated: 16562
+  manifested: 14467
+  manipulated: 19930
+  marinated: 35908
+  marketed: 13560
+  masturbated: 88780
+  mated: 38183
+  matriculated: 62888
+  matted: 22938
+scored_words:
+  macerated: 145941
+  maladjusted: 134068
+  manumitted: 137859
+  masted: 103424
+not_scored_words:
+- machinated
+- maculated
+- maladapted
+- malcontented
+- maledicted
+- manducated
+- masticated
+- maturated

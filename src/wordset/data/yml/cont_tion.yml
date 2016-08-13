@@ -1,0 +1,29 @@
+---
+pattern: cont_tion
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 19
+score: 972339
+score_per_word: 57196
+hi_scored_words:
+  contamination: 13122
+  contemplation: 17805
+  contention: 13299
+  contestation: 92489
+  continuation: 8894
+  contraception: 19913
+  contraction: 13755
+  contradiction: 11715
+  contradistinction: 98941
+  contraindication: 98636
+  contraption: 52707
+  contravention: 39512
+  contribution: 3684
+  contrition: 58133
+scored_words:
+  containerization: 178780
+  contextualization: 143487
+  contortion: 107467
+not_scored_words:
+- contraposition
+- contravallation

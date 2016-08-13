@@ -1,0 +1,53 @@
+---
+pattern: _hood
+hi_scored_words_count: 22
+scored_words_count: 8
+total_words: 43
+score: 1967264
+score_per_word: 65575
+hi_scored_words:
+  adulthood: 21062
+  boyhood: 28575
+  brotherhood: 12431
+  childhood: 3265
+  falsehood: 26232
+  fatherhood: 36801
+  girlhood: 80188
+  hood: 5200
+  knighthood: 55254
+  likelihood: 8755
+  livelihood: 16700
+  manhood: 20289
+  motherhood: 20289
+  nationhood: 73586
+  neighborhood: 2721
+  parenthood: 20058
+  priesthood: 18913
+  sainthood: 72193
+  sisterhood: 33935
+  statehood: 37295
+  widowhood: 70868
+  womanhood: 35045
+scored_words:
+  babyhood: 146104
+  godhood: 154814
+  hardihood: 101194
+  maidenhood: 125971
+  monkshood: 264508
+  selfhood: 104817
+  spinsterhood: 122854
+  unlikelihood: 247347
+not_scored_words:
+- Christhood
+- Hood
+- bachelorhood
+- celebrityhood
+- humanhood
+- kinghood
+- lustihood
+- matronhood
+- monkhood
+- nunhood
+- orphanhood
+- queenhood
+- wifehood

@@ -1,0 +1,151 @@
+---
+pattern: s_ses
+hi_scored_words_count: 26
+scored_words_count: 17
+total_words: 141
+score: 4224360
+score_per_word: 98240
+hi_scored_words:
+  seahorses: 83926
+  senses: 6009
+  shepherdesses: 84621
+  showcases: 22268
+  sinuses: 44768
+  slaughterhouses: 89512
+  spouses: 21428
+  staircases: 49663
+  statuses: 55606
+  stresses: 20594
+  subclasses: 34505
+  subleases: 86607
+  successes: 9901
+  suitcases: 37480
+  sunglasses: 10435
+  sunrises: 75478
+  supervises: 39224
+  supposes: 54303
+  suppresses: 46501
+  surpasses: 38193
+  surpluses: 34624
+  surprises: 12085
+  syllabuses: 95678
+  synapses: 39398
+  synopses: 55372
+  syntheses: 63469
+scored_words:
+  schoolhouses: 200262
+  seamstresses: 155635
+  sicknesses: 116725
+  slipcases: 270990
+  steakhouses: 107802
+  stenoses: 152010
+  stewardesses: 103650
+  storehouses: 112333
+  styluses: 210706
+  subclauses: 154556
+  suffuses: 285994
+  summerhouses: 192050
+  summonses: 109837
+  superclasses: 158842
+  superimposes: 263972
+  surmises: 130024
+  symbioses: 287324
+not_scored_words:
+- SOSes
+- Sagittariuses
+- Statehouses
+- Swisses
+- saccharoses
+- saleratuses
+- salmonelloses
+- salpiglossises
+- salpingitises
+- salubriousnesses
+- sandglasses
+- sanguinenesses
+- sardiuses
+- sassafrases
+- sasses
+- satisfactorinesses
+- sawhorses
+- scabiouses
+- scarabaeuses
+- schistosomiases
+- schoolmistresses
+- schusses
+- scleritises
+- scleroses
+- scrappinesses
+- sculptresses
+- seasonablenesses
+- seductresses
+- sedulousnesses
+- seedcases
+- semiglosses
+- sempstresses
+- sensualnesses
+- sepses
+- serviceablenesses
+- sexlessnesses
+- shadowinesses
+- shamefacednesses
+- shrewishnesses
+- shuckses
+- sideroses
+- sightlessnesses
+- silenuses
+- simultaneousnesses
+- sinuousnesses
+- siriases
+- sises
+- skewnesses
+- slanginesses
+- slatternlinesses
+- smarminesses
+- smokehouses
+- sociablenesses
+- softheartednesses
+- songstresses
+- sootinesses
+- sorceresses
+- sourpusses
+- souses
+- spondylitises
+- sportivenesses
+- spyglasses
+- staginesses
+- stalwartnesses
+- standoffishnesses
+- stapeses
+- stases
+- statehouses
+- steeplechases
+- stegosauruses
+- stephanotises
+- stomatitises
+- stoutheartednesses
+- strabismuses
+- straplesses
+- streptokinases
+- stripteases
+- strophanthuses
+- stubbinesses
+- studhorses
+- stypsises
+- subbases
+- subjectivenesses
+- submerses
+- succubuses
+- sugarinesses
+- sundresses
+- supergrasses
+- superposes
+- surbases
+- surceases
+- suspiciousnesses
+- susses
+- swarthinesses
+- syllepses
+- symphyses
+- synereses
+- synovitises

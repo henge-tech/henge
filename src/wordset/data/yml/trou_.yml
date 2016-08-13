@@ -1,0 +1,54 @@
+---
+pattern: trou_
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 44
+score: 2782916
+score_per_word: 89771
+hi_scored_words:
+  troubadour: 46397
+  troubadours: 94395
+  trouble: 1448
+  troubled: 6584
+  troublemaker: 56773
+  troublemakers: 70602
+  troubles: 7439
+  troubleshoot: 34590
+  troubleshooter: 69929
+  troubleshooting: 11977
+  troublesome: 16572
+  troubling: 20098
+  trough: 18180
+  troughs: 47067
+  troupe: 22331
+  troupes: 72153
+  trouser: 32441
+  trousers: 7771
+  trousseau: 99759
+  trout: 7914
+scored_words:
+  troublemaking: 254322
+  troubler: 284234
+  troubleshooters: 144495
+  troubleshoots: 193513
+  troublous: 232878
+  trounce: 109408
+  trounced: 103278
+  trounces: 259960
+  trouncing: 155369
+  trouper: 110389
+  trouts: 190650
+not_scored_words:
+- troubleshooted
+- troubleshot
+- troublesomely
+- troublespot
+- troublings
+- trouncer
+- trouncers
+- trouped
+- troupers
+- trouping
+- trousseaux
+- trouvaille
+- trouveur

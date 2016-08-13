@@ -1,0 +1,53 @@
+---
+pattern: rec_t
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 43
+score: 2760829
+score_per_word: 89059
+hi_scored_words:
+  recalcitrant: 52209
+  recant: 83675
+  recast: 42389
+  receipt: 3864
+  recent: 913
+  receptionist: 21039
+  recipient: 6966
+  recollect: 33420
+  recombinant: 18450
+  recommit: 90351
+  reconnect: 28894
+  reconstruct: 22832
+  recount: 22069
+  recruit: 9968
+  recruitment: 4061
+  rect: 33085
+  recumbent: 35987
+  recurrent: 17638
+  recusant: 76247
+  recut: 77496
+scored_words:
+  recept: 130568
+  recidivist: 132862
+  recitalist: 251204
+  recommitment: 320619
+  reconcilement: 186390
+  reconquest: 152802
+  reconstructionist: 104066
+  reconvert: 307995
+  recordist: 107589
+  recoupment: 138920
+  recreant: 246261
+not_scored_words:
+- Recent
+- Reconstructionist
+- recentest
+- reclaimant
+- recognizant
+- recommencement
+- reconduct
+- reconsignment
+- recontact
+- recontract
+- recrement
+- recrudescent

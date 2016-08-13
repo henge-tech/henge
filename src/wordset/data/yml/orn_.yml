@@ -1,0 +1,43 @@
+---
+pattern: orn_
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 33
+score: 1761626
+score_per_word: 97868
+hi_scored_words:
+  ornament: 10480
+  ornamental: 14599
+  ornamentation: 42216
+  ornamented: 59000
+  ornaments: 10746
+  ornate: 24244
+  ornery: 74683
+  ornithine: 67580
+  ornithological: 62488
+  ornithologist: 84755
+  ornithologists: 81793
+  ornithology: 43114
+scored_words:
+  ornamenting: 145050
+  ornately: 140771
+  ornis: 316164
+  ornithol: 210342
+  ornithopter: 190364
+  ornithorhynchus: 183237
+not_scored_words:
+- ornamentally
+- ornateness
+- ornerier
+- orneriest
+- orneriness
+- ornithic
+- ornithines
+- ornithischian
+- ornithischians
+- ornithologic
+- ornithologically
+- ornithomancy
+- ornithopod
+- ornithopods
+- ornithosis

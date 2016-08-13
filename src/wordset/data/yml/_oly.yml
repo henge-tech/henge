@@ -1,0 +1,24 @@
+---
+pattern: _oly
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 14
+score: 605260
+score_per_word: 67251
+hi_scored_words:
+  duopoly: 88650
+  holy: 1678
+  melancholy: 14074
+  moly: 62480
+  monopoly: 8436
+  oligopoly: 64060
+  poly: 11633
+  unholy: 25254
+scored_words:
+  coly: 328995
+not_scored_words:
+- Monopoly
+- Trichinopoly
+- amphiboly
+- emboly
+- epiboly

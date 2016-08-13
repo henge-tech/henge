@@ -1,0 +1,46 @@
+---
+pattern: l_se
+hi_scored_words_count: 19
+scored_words_count: 3
+total_words: 36
+score: 1137047
+score_per_word: 51683
+hi_scored_words:
+  lachrymose: 81163
+  lacrosse: 13653
+  lactase: 97034
+  lactose: 26077
+  lapse: 14369
+  lase: 96868
+  lease: 5175
+  legalese: 74723
+  lengthwise: 52466
+  liaise: 49897
+  license: 1206
+  lighthouse: 11607
+  likewise: 5004
+  lipase: 47577
+  loose: 2830
+  lose: 1576
+  louse: 50862
+  lowercase: 29691
+  luciferase: 74381
+scored_words:
+  longhouse: 101262
+  lyonnaise: 181437
+  lyse: 118189
+not_scored_words:
+- Larousse
+- Lebanese
+- Lhotse
+- Louise
+- Lyonnesse
+- lacunose
+- laminose
+- lanose
+- leastwise
+- lecithinase
+- leprose
+- levulose
+- lignocellulose
+- lobscouse

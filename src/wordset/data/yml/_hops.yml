@@ -1,0 +1,29 @@
+---
+pattern: _hops
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 19
+score: 838698
+score_per_word: 76245
+hi_scored_words:
+  archbishops: 69240
+  bishops: 8945
+  bookshops: 45957
+  chops: 18484
+  hops: 19556
+  shops: 2632
+  sweatshops: 67623
+  workshops: 6632
+scored_words:
+  barbershops: 207278
+  bellhops: 244589
+  pawnshops: 147762
+not_scored_words:
+- bakeshops
+- barhops
+- carhops
+- hedgehops
+- hockshops
+- muttonchops
+- teashops
+- whops

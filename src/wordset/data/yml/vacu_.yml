@@ -1,0 +1,21 @@
+---
+pattern: vacu_
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 938900
+score_per_word: 93890
+hi_scored_words:
+  vacuolar: 86323
+  vacuole: 70183
+  vacuoles: 83011
+  vacuous: 62344
+  vacuum: 6994
+  vacuumed: 93672
+  vacuuming: 53927
+  vacuums: 34643
+scored_words:
+  vacuity: 150183
+  vacuously: 297620
+not_scored_words:
+- vacuousness

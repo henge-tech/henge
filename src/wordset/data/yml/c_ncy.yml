@@ -1,0 +1,42 @@
+---
+pattern: c_ncy
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 32
+score: 1177989
+score_per_word: 58899
+hi_scored_words:
+  captaincy: 77261
+  chaplaincy: 58170
+  clemency: 31075
+  coherency: 86481
+  competency: 16563
+  complacency: 29387
+  concurrency: 29227
+  conservancy: 24545
+  consistency: 7422
+  constancy: 33883
+  constituency: 13403
+  consultancy: 9482
+  contingency: 13231
+  counterinsurgency: 82685
+  currency: 4345
+scored_words:
+  chancy: 135698
+  codependency: 121514
+  cogency: 173667
+  compliancy: 103076
+  congruency: 126874
+not_scored_words:
+- Clancy
+- cadency
+- cartomancy
+- chatoyancy
+- chieftaincy
+- chiromancy
+- circumambiency
+- cleromancy
+- commorancy
+- convergency
+- conversancy
+- corpulency

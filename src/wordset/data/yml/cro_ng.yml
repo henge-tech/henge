@@ -1,0 +1,28 @@
+---
+pattern: cro_ng
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 839368
+score_per_word: 69947
+hi_scored_words:
+  crocheting: 68517
+  crooning: 96776
+  cropping: 23943
+  crossing: 3669
+  crouching: 27356
+  crowding: 31043
+  crowing: 72100
+  crowning: 34857
+scored_words:
+  croaking: 102269
+  crofting: 136457
+  crossbreeding: 140095
+  crosscutting: 102286
+not_scored_words:
+- crooking
+- croqueting
+- crosschecking
+- crosshatching
+- crossruffing
+- crowdfunding

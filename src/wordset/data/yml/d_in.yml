@@ -1,0 +1,54 @@
+---
+pattern: d_in
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 44
+score: 2029904
+score_per_word: 96662
+hi_scored_words:
+  dauphin: 25477
+  deerskin: 90715
+  dentin: 69271
+  detain: 27932
+  din: 7544
+  dioxin: 42850
+  disdain: 23319
+  dobbin: 69786
+  dolphin: 13389
+  domain: 1119
+  drain: 6734
+  drivetrain: 44960
+  dustbin: 56446
+scored_words:
+  detrain: 193890
+  dextrin: 140430
+  dieldrin: 106043
+  digitoxin: 249303
+  doeskin: 321597
+  drumlin: 188988
+  dubbin: 239239
+  dunlin: 110872
+not_scored_words:
+- Darin
+- Darrin
+- Darwin
+- Dauphin
+- Deakin
+- Derain
+- Devin
+- Dilantin
+- Din
+- Dobbin
+- Drin
+- Dublin
+- Dunedin
+- Duralumin
+- Dustin
+- devilkin
+- digitalin
+- dihydrostreptomycin
+- diphenylhydantoin
+- disjoin
+- disseizin
+- distrain
+- duckpin

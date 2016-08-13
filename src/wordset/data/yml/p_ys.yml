@@ -1,0 +1,42 @@
+---
+pattern: p_ys
+hi_scored_words_count: 10
+scored_words_count: 7
+total_words: 32
+score: 1618313
+score_per_word: 95194
+hi_scored_words:
+  passageways: 60900
+  pathways: 13944
+  pays: 4501
+  phys: 6666
+  playboys: 62271
+  plays: 2250
+  portrays: 31205
+  prays: 30707
+  preys: 89782
+  pulleys: 40344
+scored_words:
+  parkways: 113554
+  parlays: 187285
+  paydays: 165995
+  ploys: 112879
+  polys: 109409
+  popinjays: 332663
+  prepays: 253958
+not_scored_words:
+- Pepys
+- Powys
+- pageboys
+- paisleys
+- palfreys
+- paperboys
+- parleys
+- passkeys
+- peaveys
+- platys
+- plowboys
+- pogeys
+- pokeys
+- potboys
+- purveys

@@ -1,0 +1,61 @@
+---
+pattern: tra_ed
+hi_scored_words_count: 30
+scored_words_count: 11
+total_words: 51
+score: 3066060
+score_per_word: 74781
+hi_scored_words:
+  traced: 10568
+  tracked: 7339
+  traded: 9583
+  trademarked: 34435
+  trafficked: 44510
+  trailed: 32704
+  trained: 3193
+  trampled: 36776
+  transacted: 43719
+  transcended: 61027
+  transcribed: 20022
+  transferred: 4044
+  transfigured: 81305
+  transfixed: 67870
+  transformed: 7118
+  transgendered: 41027
+  transgressed: 69419
+  transitioned: 54946
+  translated: 4488
+  transliterated: 63318
+  transmitted: 5597
+  transpired: 41953
+  transplanted: 30160
+  transported: 9347
+  transposed: 54250
+  trapped: 10054
+  trashed: 35637
+  traumatized: 45668
+  traveled: 7241
+  traversed: 27219
+scored_words:
+  traduced: 143674
+  traipsed: 314919
+  tramped: 126540
+  transected: 213646
+  transfused: 111450
+  transistorized: 280222
+  transited: 151444
+  transmogrified: 219371
+  transmuted: 105363
+  transshipped: 298958
+  trawled: 135936
+not_scored_words:
+- trabeated
+- trammed
+- trammeled
+- trampolined
+- tranquilized
+- transmigrated
+- transomed
+- transuded
+- travailed
+- travestied

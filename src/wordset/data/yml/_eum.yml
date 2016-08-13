@@ -1,0 +1,39 @@
+---
+pattern: _eum
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 29
+score: 1195077
+score_per_word: 74692
+hi_scored_words:
+  athenaeum: 43933
+  coliseum: 25469
+  geum: 99309
+  ileum: 55803
+  linoleum: 42753
+  lyceum: 49462
+  mausoleum: 34152
+  museum: 2911
+  perineum: 71867
+  peritoneum: 64351
+  petroleum: 6807
+  rheum: 55472
+scored_words:
+  hypogeum: 160911
+  oleum: 126836
+  periosteum: 172396
+  succedaneum: 182645
+not_scored_words:
+- Colosseum
+- Erechtheum
+- Herculaneum
+- Lyceum
+- endosteum
+- gynaeceum
+- mezereum
+- nympheum
+- odeum
+- pileum
+- propylaeum
+- prytaneum
+- stomodeum

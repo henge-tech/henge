@@ -1,0 +1,51 @@
+---
+pattern: em_ng
+hi_scored_words_count: 17
+scored_words_count: 9
+total_words: 41
+score: 2278140
+score_per_word: 87620
+hi_scored_words:
+  emailing: 24743
+  emanating: 34497
+  embalming: 73980
+  embarking: 32912
+  embarrassing: 12153
+  embedding: 24322
+  embodying: 50230
+  embossing: 49674
+  embracing: 26629
+  emerging: 5561
+  emigrating: 76774
+  emitting: 26488
+  emphasizing: 20806
+  employing: 10668
+  empowering: 24385
+  emptying: 30817
+  emulating: 53374
+scored_words:
+  emancipating: 164388
+  emasculating: 272279
+  embellishing: 107895
+  embezzling: 125243
+  emboldening: 335001
+  embroidering: 114061
+  emoting: 217226
+  empathizing: 231845
+  emulsifying: 132189
+not_scored_words:
+- emaciating
+- embanking
+- embargoing
+- embittering
+- emblazoning
+- embowering
+- embrangling
+- embroiling
+- emceeing
+- emending
+- emotionalizing
+- empaling
+- empaneling
+- emplaning
+- empurpling

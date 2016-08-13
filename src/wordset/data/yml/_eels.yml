@@ -1,0 +1,32 @@
+---
+pattern: _eels
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 22
+score: 1117363
+score_per_word: 74490
+hi_scored_words:
+  eels: 28324
+  feels: 2949
+  heels: 6074
+  keels: 95944
+  kneels: 72557
+  newsreels: 80659
+  peels: 39992
+  reels: 19819
+  steels: 28440
+  wheels: 3189
+scored_words:
+  cartwheels: 109210
+  creels: 255830
+  flywheels: 104042
+  freewheels: 134380
+  pinwheels: 135954
+not_scored_words:
+- cockateels
+- cogwheels
+- gearwheels
+- nosewheels
+- seels
+- unreels
+- waterwheels

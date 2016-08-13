@@ -1,0 +1,39 @@
+---
+pattern: in_st
+hi_scored_words_count: 16
+scored_words_count: 2
+total_words: 29
+score: 1067484
+score_per_word: 59304
+hi_scored_words:
+  incest: 12446
+  individualist: 65766
+  industrialist: 56877
+  infest: 56952
+  ingest: 41713
+  inmost: 77761
+  innermost: 31655
+  inquest: 28361
+  insist: 7849
+  inst: 14609
+  instrumentalist: 52297
+  interest: 392
+  internationalist: 62384
+  internist: 78806
+  interventionist: 73689
+  invest: 5894
+scored_words:
+  integrationist: 235871
+  intensest: 164162
+not_scored_words:
+- Inst
+- inanest
+- incrementalist
+- inflationist
+- inkiest
+- inquisitionist
+- insanest
+- insurrectionist
+- intertwist
+- intimist
+- intuitionist

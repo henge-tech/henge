@@ -1,0 +1,86 @@
+---
+pattern: _ups
+hi_scored_words_count: 29
+scored_words_count: 17
+total_words: 76
+score: 4461411
+score_per_word: 96987
+hi_scored_words:
+  backups: 17874
+  breakups: 70652
+  checkups: 74812
+  cleanups: 74104
+  closeups: 55347
+  coups: 48842
+  cups: 5112
+  followups: 93645
+  groups: 1130
+  grownups: 57274
+  hiccups: 41869
+  hookups: 44933
+  lineups: 49151
+  markups: 82987
+  mashups: 91231
+  newsgroups: 16069
+  pickups: 22984
+  popups: 42332
+  pups: 26030
+  pushups: 82301
+  roundups: 61718
+  setups: 30425
+  soups: 20859
+  startups: 28004
+  stirrups: 61794
+  subgroups: 24327
+  syrups: 51646
+  teacups: 82508
+  ups: 7435
+scored_words:
+  blowups: 256116
+  buildups: 197167
+  buttercups: 118653
+  coverups: 158581
+  eyecups: 239470
+  hangups: 142844
+  holdups: 234993
+  layups: 165133
+  lockups: 120985
+  makeups: 193396
+  pinups: 114102
+  playgroups: 102493
+  regroups: 266973
+  speedups: 155810
+  sups: 216635
+  warmups: 122253
+  whups: 288412
+not_scored_words:
+- UPS
+- catsups
+- chirrups
+- cockups
+- crackups
+- creamcups
+- cutups
+- dustups
+- eggcups
+- flareups
+- ingroups
+- kingcups
+- larrups
+- letups
+- linkups
+- pileups
+- prenups
+- recoups
+- scups
+- shakeups
+- slipups
+- smashups
+- stickups
+- stoups
+- tossups
+- tuneups
+- wickiups
+- windups
+- workups
+- yups

@@ -1,0 +1,25 @@
+---
+pattern: snif_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 1157557
+score_per_word: 96463
+hi_scored_words:
+  sniff: 19657
+  sniffed: 43790
+  sniffer: 33490
+  sniffers: 92565
+  sniffing: 26046
+  sniffle: 88482
+  sniffles: 76321
+  sniffs: 66007
+scored_words:
+  sniffled: 233866
+  sniffling: 140217
+  sniffy: 207271
+  snifter: 129845
+not_scored_words:
+- sniffier
+- sniffiest
+- snifters

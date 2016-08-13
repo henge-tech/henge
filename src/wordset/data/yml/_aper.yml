@@ -1,0 +1,39 @@
+---
+pattern: _aper
+hi_scored_words_count: 15
+scored_words_count: 6
+total_words: 29
+score: 1387573
+score_per_word: 66074
+hi_scored_words:
+  caper: 33753
+  cheaper: 5487
+  diaper: 14415
+  draper: 18413
+  landscaper: 74014
+  newspaper: 2198
+  paper: 417
+  raper: 83484
+  reaper: 22093
+  sandpaper: 40351
+  scraper: 33142
+  shaper: 40742
+  skyscraper: 27933
+  taper: 18600
+  wallpaper: 7764
+scored_words:
+  endpaper: 150620
+  escaper: 308388
+  flypaper: 128330
+  leaper: 118728
+  notepaper: 139246
+  wastepaper: 119455
+not_scored_words:
+- Draper
+- curlpaper
+- gunpaper
+- hanaper
+- japer
+- repaper
+- tarpaper
+- touchpaper

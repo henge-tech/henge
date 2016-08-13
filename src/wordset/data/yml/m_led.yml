@@ -1,0 +1,46 @@
+---
+pattern: m_led
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 36
+score: 2263401
+score_per_word: 83829
+hi_scored_words:
+  mailed: 9549
+  mangled: 36651
+  marbled: 52087
+  marveled: 68246
+  mauled: 63748
+  milled: 37017
+  mingled: 24528
+  mishandled: 87676
+  misled: 21480
+  misspelled: 31398
+  modeled: 17934
+  mottled: 42446
+  muddled: 49236
+  muffled: 30856
+  mulled: 56913
+  mumbled: 44424
+  muscled: 44497
+scored_words:
+  manacled: 216525
+  manhandled: 132157
+  mantled: 124784
+  marshaled: 117134
+  meddled: 168671
+  miscalled: 152668
+  misfiled: 266754
+  mislabeled: 115562
+  mothballed: 126992
+  muzzled: 123468
+not_scored_words:
+- marcelled
+- metaled
+- mewled
+- misruled
+- mizzled
+- moiled
+- mollycoddled
+- monocled
+- motorcycled

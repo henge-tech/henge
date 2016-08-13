@@ -1,0 +1,38 @@
+---
+pattern: w_rd
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 28
+score: 766691
+score_per_word: 51112
+hi_scored_words:
+  ward: 3313
+  warlord: 32656
+  washboard: 90050
+  watchword: 71065
+  wayward: 24956
+  weird: 4244
+  westward: 15760
+  whiteboard: 32306
+  wildcard: 25420
+  windward: 27807
+  wizard: 6791
+  word: 347
+scored_words:
+  wallboard: 104561
+  waterbird: 147541
+  weatherboard: 179874
+not_scored_words:
+- Ward
+- Waterford
+- Wexford
+- Wilford
+- Willard
+- Windward
+- Woodard
+- Woodward
+- waterboard
+- weaverbird
+- whipcord
+- whirlybird
+- whitherward

@@ -1,0 +1,34 @@
+---
+pattern: pred_s
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 24
+score: 936296
+score_per_word: 72022
+hi_scored_words:
+  predates: 60154
+  predators: 12494
+  predecessors: 18582
+  predicates: 30328
+  predictions: 9131
+  predictors: 29789
+  predicts: 24027
+  predominates: 70299
+scored_words:
+  predaceous: 219969
+  predicaments: 111815
+  predilections: 111358
+  predisposes: 118896
+  predispositions: 119454
+not_scored_words:
+- predaciousness
+- predations
+- predatoriness
+- predeceases
+- predesignates
+- predestinates
+- predestines
+- predeterminers
+- predetermines
+- predigests
+- predominations

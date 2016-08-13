@@ -1,0 +1,51 @@
+---
+pattern: step_
+hi_scored_words_count: 17
+scored_words_count: 10
+total_words: 41
+score: 2472639
+score_per_word: 91579
+hi_scored_words:
+  step: 634
+  stepchild: 74684
+  stepchildren: 88622
+  stepdaughter: 59713
+  stepfather: 35885
+  stepmom: 94179
+  stepmother: 32541
+  steppe: 40340
+  stepped: 5845
+  stepper: 43094
+  steppers: 69178
+  steppes: 61360
+  stepping: 8506
+  steps: 1288
+  stepsister: 87026
+  stepson: 57870
+  stepwise: 52092
+scored_words:
+  stepbrother: 109598
+  stepdad: 106611
+  stepdaughters: 241102
+  stepladder: 112906
+  stepladders: 273351
+  stepmothers: 211592
+  stepparent: 112719
+  stepparents: 164150
+  stepsisters: 206853
+  stepsons: 120900
+not_scored_words:
+- Stephan
+- Stephanie
+- Stephen
+- Stephens
+- Stephenson
+- stepbrothers
+- stepdads
+- stepdame
+- stepfathers
+- stephanotis
+- stephanotises
+- stepmoms
+- steppingstone
+- steppingstones

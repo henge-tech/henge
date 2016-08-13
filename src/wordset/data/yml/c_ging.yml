@@ -1,0 +1,29 @@
+---
+pattern: c_ging
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 19
+score: 1109733
+score_per_word: 79266
+hi_scored_words:
+  cataloging: 24712
+  challenging: 7943
+  changing: 1797
+  charging: 7211
+  chugging: 68911
+  clanging: 85462
+  clinging: 21247
+  clogging: 48134
+  converging: 29619
+  cringing: 74182
+scored_words:
+  caging: 105682
+  camouflaging: 156681
+  centrifuging: 223796
+  cottaging: 254356
+not_scored_words:
+- cadging
+- carpetbagging
+- cliffhanging
+- constringing
+- counterchanging

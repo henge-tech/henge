@@ -1,0 +1,36 @@
+---
+pattern: s_ats
+hi_scored_words_count: 10
+scored_words_count: 6
+total_words: 26
+score: 1454896
+score_per_word: 90931
+hi_scored_words:
+  sailboats: 46473
+  scapegoats: 85510
+  seats: 2885
+  secretariats: 93749
+  slats: 52650
+  spats: 95238
+  squats: 41725
+  stats: 7400
+  steamboats: 78661
+  sweats: 31864
+scored_words:
+  scats: 136064
+  speedboats: 154328
+  splats: 157962
+  stoats: 178233
+  swats: 168479
+  sweetmeats: 123675
+not_scored_words:
+- Shebats
+- samizdats
+- shoats
+- showboats
+- somewhats
+- sprats
+- stonechats
+- sugarcoats
+- sunhats
+- surfboats

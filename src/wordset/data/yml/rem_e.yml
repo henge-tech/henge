@@ -1,0 +1,42 @@
+---
+pattern: rem_e
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 32
+score: 1690697
+score_per_word: 76849
+hi_scored_words:
+  remade: 42237
+  remake: 16592
+  remarkable: 3988
+  remarque: 92666
+  remarriage: 55441
+  remembrance: 11487
+  reminisce: 48210
+  reminiscence: 55398
+  remittance: 33506
+  remonstrance: 92168
+  remorse: 20514
+  remortgage: 55839
+  remote: 1861
+  removable: 17830
+  remove: 1356
+  remunerative: 94276
+scored_words:
+  remanence: 193174
+  remanufacture: 114143
+  remediable: 253606
+  remise: 110019
+  remonstrate: 141972
+  remunerate: 234414
+not_scored_words:
+- Remarque
+- remeasure
+- rememberable
+- remigrate
+- remilitarize
+- remissible
+- remittable
+- remittee
+- remonetize
+- remonstrative

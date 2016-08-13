@@ -1,0 +1,47 @@
+---
+pattern: nitr_
+hi_scored_words_count: 14
+scored_words_count: 11
+total_words: 37
+score: 2805031
+score_per_word: 112201
+hi_scored_words:
+  nitrate: 16365
+  nitrates: 40189
+  nitric: 19807
+  nitride: 43940
+  nitrification: 90472
+  nitrile: 64807
+  nitrite: 35569
+  nitrites: 88128
+  nitro: 18632
+  nitrocellulose: 64165
+  nitrogen: 9123
+  nitrogenous: 72318
+  nitroglycerin: 54584
+  nitrous: 32264
+scored_words:
+  nitrated: 256621
+  nitration: 131377
+  nitrides: 136223
+  nitriding: 207382
+  nitrifying: 236327
+  nitriles: 170650
+  nitrobenzene: 111246
+  nitrobenzenes: 326109
+  nitroglycerine: 119697
+  nitrosamine: 319412
+  nitroso: 139624
+not_scored_words:
+- nitramine
+- nitrating
+- nitrified
+- nitrifies
+- nitrify
+- nitrobacteria
+- nitrobacterium
+- nitrochloroform
+- nitrogenize
+- nitrometer
+- nitroparaffin
+- nitrosyl

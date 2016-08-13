@@ -1,0 +1,29 @@
+---
+pattern: a_et
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 19
+score: 1064056
+score_per_word: 88671
+hi_scored_words:
+  abet: 51259
+  aftermarket: 18703
+  alphabet: 8735
+  amulet: 27075
+  anklet: 47300
+  applet: 15763
+  asset: 8644
+  avocet: 73662
+scored_words:
+  aglet: 207318
+  annulet: 180945
+  armlet: 147406
+  auklet: 277246
+not_scored_words:
+- Ansermet
+- Arpanet
+- afreet
+- aiglet
+- aigret
+- alkanet
+- armet

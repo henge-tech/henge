@@ -1,0 +1,49 @@
+---
+pattern: va_d
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 39
+score: 1714499
+score_per_word: 74543
+hi_scored_words:
+  vacated: 26856
+  vaccinated: 36544
+  vacuumed: 93672
+  vagabond: 29286
+  valid: 3744
+  validated: 13939
+  valued: 6159
+  vandalized: 67955
+  vanguard: 14313
+  vanished: 12822
+  vanquished: 48632
+  vapid: 62825
+  vaporized: 81954
+  varied: 4954
+  variegated: 34442
+  varnished: 61922
+  vaulted: 33638
+  vaunted: 54855
+scored_words:
+  vacationed: 154024
+  vacationland: 290132
+  vacillated: 245930
+  valved: 147113
+  vamped: 188788
+not_scored_words:
+- Valladolid
+- Vaud
+- vagabonded
+- valanced
+- valeted
+- valuated
+- vamoosed
+- vanned
+- vanward
+- vaped
+- varicelloid
+- varicolored
+- varicosed
+- varioloid
+- vasectomized
+- vatted

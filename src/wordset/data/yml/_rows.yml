@@ -1,0 +1,51 @@
+---
+pattern: _rows
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 41
+score: 2445982
+score_per_word: 90591
+hi_scored_words:
+  arrows: 7689
+  barrows: 47042
+  borrows: 44477
+  brows: 25900
+  burrows: 22343
+  crows: 18849
+  eyebrows: 14263
+  furrows: 63979
+  grows: 5096
+  hedgerows: 68089
+  narrows: 29799
+  rows: 5558
+  scarecrows: 79300
+  sorrows: 18421
+  sparrows: 34350
+  throws: 5655
+  tomorrows: 44198
+  wheelbarrows: 97844
+scored_words:
+  cornrows: 153433
+  escrows: 178054
+  harrows: 139193
+  marrows: 279487
+  morrows: 297952
+  outgrows: 222288
+  overthrows: 164970
+  prows: 139897
+  windrows: 237856
+not_scored_words:
+- Crows
+- checkrows
+- cockcrows
+- farrows
+- handbarrows
+- highbrows
+- lowbrows
+- middlebrows
+- overgrows
+- regrows
+- restharrows
+- serows
+- trows
+- upthrows

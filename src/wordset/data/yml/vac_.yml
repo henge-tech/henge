@@ -1,0 +1,60 @@
+---
+pattern: vac_
+hi_scored_words_count: 26
+scored_words_count: 13
+total_words: 50
+score: 3340039
+score_per_word: 85642
+hi_scored_words:
+  vac: 16919
+  vacancies: 12192
+  vacancy: 10172
+  vacant: 7357
+  vacate: 33068
+  vacated: 26856
+  vacating: 76144
+  vacation: 3686
+  vacationers: 64577
+  vacationing: 48649
+  vacations: 11395
+  vaccinate: 52851
+  vaccinated: 36544
+  vaccination: 18716
+  vaccinations: 29633
+  vaccine: 9708
+  vaccines: 11666
+  vaccinia: 67862
+  vacuolar: 86323
+  vacuole: 70183
+  vacuoles: 83011
+  vacuous: 62344
+  vacuum: 6994
+  vacuumed: 93672
+  vacuuming: 53927
+  vacuums: 34643
+scored_words:
+  vacantly: 176943
+  vacates: 172154
+  vacationed: 154024
+  vacationer: 156335
+  vacationland: 290132
+  vaccinating: 101388
+  vacillate: 177409
+  vacillated: 245930
+  vacillating: 127467
+  vacillation: 130866
+  vacs: 130496
+  vacuity: 150183
+  vacuously: 297620
+not_scored_words:
+- vacationist
+- vacationists
+- vaccinates
+- vaccinator
+- vaccinias
+- vacillates
+- vacillations
+- vacillator
+- vacillators
+- vacillatory
+- vacuousness

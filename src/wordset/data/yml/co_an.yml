@@ -1,0 +1,62 @@
+---
+pattern: co_an
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 52
+score: 1703938
+score_per_word: 81139
+hi_scored_words:
+  coachman: 40243
+  collegian: 76102
+  comedian: 17203
+  communitarian: 87893
+  congressman: 17149
+  congresswoman: 48017
+  contrarian: 61073
+  cosmopolitan: 17155
+  councilman: 25943
+  councilwoman: 67717
+  countryman: 35435
+  courtesan: 70906
+scored_words:
+  committeeman: 111406
+  conman: 110048
+  corban: 147756
+  cordilleran: 162071
+  cordovan: 106140
+  cornelian: 168594
+  corpsman: 101034
+  countrywoman: 124407
+  cowman: 107646
+not_scored_words:
+- Cochran
+- Cohan
+- Coleman
+- Coleridgian
+- Colombian
+- Coloradan
+- Coloradoan
+- Colossian
+- Columbian
+- Comanchean
+- Comoran
+- Comorian
+- Conan
+- Confucian
+- Copernican
+- Cordovan
+- Corinthian
+- Cornishman
+- Cornishwoman
+- Corsican
+- coastguardsman
+- coleopteran
+- committeewoman
+- conquian
+- constantan
+- cooncan
+- cornucopian
+- cosmetician
+- cotquean
+- counterman
+- courlan

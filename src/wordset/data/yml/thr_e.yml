@@ -1,0 +1,29 @@
+---
+pattern: thr_e
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 19
+score: 798752
+score_per_word: 61442
+hi_scored_words:
+  threadbare: 65406
+  three: 165
+  threesome: 14459
+  threonine: 42268
+  thrice: 11734
+  thrive: 13501
+  throe: 85982
+  throne: 6403
+  throstle: 87219
+  throttle: 17843
+scored_words:
+  threadlike: 198271
+  threepence: 141818
+  threescore: 113683
+not_scored_words:
+- Thrace
+- thrave
+- threnode
+- thrippence
+- thrombocyte
+- thrombokinase

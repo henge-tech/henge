@@ -1,0 +1,30 @@
+---
+pattern: bi_c
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 20
+score: 1412984
+score_per_word: 94198
+hi_scored_words:
+  bibliographic: 12655
+  biogenic: 67291
+  biologic: 36297
+  biometric: 26349
+  bionic: 37245
+  biopic: 53538
+  biosynthetic: 70350
+  biotic: 41319
+  bishopric: 66807
+  bivouac: 68498
+scored_words:
+  bicyclic: 239509
+  bimetallic: 123985
+  biographic: 117127
+  biorhythmic: 177874
+  biospheric: 274140
+not_scored_words:
+- Bic
+- bibliophilic
+- biogenetic
+- biquadratic
+- bismuthic

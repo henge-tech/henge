@@ -1,0 +1,42 @@
+---
+pattern: orc_
+hi_scored_words_count: 18
+scored_words_count: 3
+total_words: 32
+score: 1377868
+score_per_word: 65612
+hi_scored_words:
+  orc: 26294
+  orca: 29764
+  orcas: 51009
+  orch: 42896
+  orchard: 11997
+  orchards: 24035
+  orchestra: 4877
+  orchestral: 19658
+  orchestras: 35194
+  orchestrate: 60377
+  orchestrated: 32781
+  orchestrating: 73050
+  orchestration: 35891
+  orchestrations: 89484
+  orchestrator: 94442
+  orchid: 17945
+  orchids: 23338
+  orcs: 36646
+scored_words:
+  orchestrates: 156660
+  orchidectomy: 340400
+  orchitis: 171130
+not_scored_words:
+- Orcus
+- orcein
+- orchardist
+- orchardman
+- orchestrally
+- orchestrators
+- orchestrion
+- orchidaceous
+- orchidectomies
+- orchitises
+- orcinol

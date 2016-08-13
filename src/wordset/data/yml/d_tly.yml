@@ -1,0 +1,35 @@
+---
+pattern: d_tly
+hi_scored_words_count: 11
+scored_words_count: 5
+total_words: 25
+score: 1138343
+score_per_word: 71146
+hi_scored_words:
+  decently: 45940
+  defiantly: 40205
+  deftly: 45955
+  devoutly: 80514
+  differently: 5989
+  diligently: 25734
+  directly: 941
+  discreetly: 36794
+  distantly: 67602
+  distinctly: 12197
+  dominantly: 91302
+scored_words:
+  dependently: 136987
+  despondently: 148688
+  difficultly: 147597
+  diffidently: 139925
+  dishonestly: 111973
+not_scored_words:
+- daftly
+- decadently
+- decrepitly
+- deficiently
+- delinquently
+- discordantly
+- disobediently
+- dissonantly
+- divergently

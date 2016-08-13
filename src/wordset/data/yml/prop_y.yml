@@ -1,0 +1,28 @@
+---
+pattern: prop_y
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 18
+score: 969491
+score_per_word: 69249
+hi_scored_words:
+  propensity: 21819
+  properly: 2205
+  property: 393
+  prophecy: 9236
+  prophesy: 38563
+  proportionality: 44505
+  proportionally: 45017
+  proportionately: 40638
+  proprietary: 5502
+  propriety: 22701
+scored_words:
+  prophetically: 136156
+  prophylactically: 228015
+  propinquity: 191799
+  propitiatory: 182942
+not_scored_words:
+- propitiously
+- proprietarily
+- proprietorially
+- proprioceptively

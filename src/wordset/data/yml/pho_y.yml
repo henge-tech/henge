@@ -1,0 +1,46 @@
+---
+pattern: pho_y
+hi_scored_words_count: 9
+scored_words_count: 10
+total_words: 36
+score: 2224842
+score_per_word: 117096
+hi_scored_words:
+  phonetically: 77514
+  phonology: 34616
+  phony: 24624
+  phooey: 91752
+  photochemistry: 80621
+  photocopy: 23996
+  photogrammetry: 75533
+  photography: 7327
+  photometry: 41169
+scored_words:
+  phonologically: 188557
+  photochemically: 258517
+  photoconductivity: 268393
+  photographically: 137995
+  photolithography: 115157
+  photomicrography: 193374
+  photoplay: 154283
+  photosensitivity: 112474
+  photosynthetically: 227949
+  phototherapy: 110991
+not_scored_words:
+- phonemically
+- phonically
+- phonography
+- phonotypy
+- phosphorescently
+- photochromy
+- photoelasticity
+- photoelectrically
+- photoelectricity
+- photofluorography
+- photogenically
+- photometrically
+- phototelegraphy
+- phototopography
+- phototypography
+- phototypy
+- photozincography

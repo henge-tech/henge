@@ -1,0 +1,37 @@
+---
+pattern: mull_
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 27
+score: 1976768
+score_per_word: 98838
+hi_scored_words:
+  mull: 31308
+  mullah: 47775
+  mullahs: 58205
+  mulled: 56913
+  muller: 16686
+  mullet: 32585
+  mullets: 87611
+  mulligan: 33290
+  mulling: 59660
+  mulls: 69868
+scored_words:
+  mulla: 104536
+  mullein: 119357
+  mulley: 205989
+  mulligans: 174713
+  mulligatawny: 109066
+  mullion: 109366
+  mullioned: 102723
+  mullions: 217824
+  mullite: 171362
+  mullock: 167931
+not_scored_words:
+- Mull
+- Mullen
+- Muller
+- Mulligan
+- Mullikan
+- Mullins
+- mulligrubs

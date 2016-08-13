@@ -1,0 +1,73 @@
+---
+pattern: e_is
+hi_scored_words_count: 15
+scored_words_count: 14
+total_words: 63
+score: 3200262
+score_per_word: 110353
+hi_scored_words:
+  electrolysis: 32939
+  electrophoresis: 23352
+  ellipsis: 48829
+  emphasis: 3782
+  encephalitis: 32125
+  encephalomyelitis: 81739
+  endocarditis: 49326
+  endometriosis: 34577
+  enteritis: 69704
+  enuresis: 95332
+  ephemeris: 69147
+  epidermis: 38895
+  epididymis: 76730
+  esophagitis: 81937
+  exegesis: 45044
+scored_words:
+  ecchymosis: 273124
+  electrodialysis: 269144
+  elemis: 119821
+  elephantiasis: 143863
+  emesis: 113201
+  entasis: 165322
+  epenthesis: 280513
+  epigenesis: 114489
+  epiglottis: 145652
+  epiphysis: 155393
+  epistasis: 174572
+  epistaxis: 102630
+  erythroblastosis: 225949
+  erythropoiesis: 133131
+not_scored_words:
+- Eblis
+- Eleusis
+- Elis
+- Ellis
+- Elvis
+- Ennis
+- Epis
+- Eris
+- ecdysis
+- ecesis
+- ecphonesis
+- effendis
+- eisegesis
+- electroanalysis
+- electronarcosis
+- emojis
+- enarthrosis
+- endodermis
+- endosmosis
+- endostosis
+- enosis
+- envois
+- enzymolysis
+- epanorthosis
+- epexegesis
+- epiclesis
+- epicrisis
+- epimorphosis
+- epitasis
+- erminois
+- etuis
+- eucharis
+- exosmosis
+- exostosis

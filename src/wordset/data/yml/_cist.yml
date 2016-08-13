@@ -1,0 +1,54 @@
+---
+pattern: _cist
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 44
+score: 2183069
+score_per_word: 109153
+hi_scored_words:
+  astrophysicist: 96835
+  empiricist: 90171
+  ethicist: 96582
+  exorcist: 32733
+  fascist: 20475
+  geneticist: 65479
+  lyricist: 37377
+  pharmacist: 15136
+  physicist: 22844
+  publicist: 38729
+  racist: 13028
+  supremacist: 61949
+scored_words:
+  bioethicist: 292010
+  biophysicist: 282022
+  cist: 103416
+  classicist: 114392
+  geophysicist: 104135
+  historicist: 217602
+  polemicist: 244092
+  romanticist: 234062
+not_scored_words:
+- Anglicist
+- Biblicist
+- Celticist
+- Fascist
+- abacist
+- aerodynamicist
+- antifascist
+- ceramicist
+- cyberneticist
+- dynamicist
+- ecumenicist
+- eroticist
+- esotericist
+- eugenicist
+- hydrodynamicist
+- mosaicist
+- mythicist
+- neoclassicist
+- nonfascist
+- phoneticist
+- profascist
+- roboticist
+- semanticist
+- thermodynamicist

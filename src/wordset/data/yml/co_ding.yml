@@ -1,0 +1,32 @@
+---
+pattern: co_ding
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 22
+score: 1162624
+score_per_word: 64590
+hi_scored_words:
+  coding: 5495
+  coinciding: 56333
+  colliding: 47435
+  commanding: 10160
+  commending: 52396
+  compounding: 34138
+  comprehending: 51636
+  conceding: 52746
+  concluding: 19199
+  condescending: 33516
+  confiding: 92366
+  confounding: 36614
+  contending: 33909
+  cording: 75640
+  corresponding: 3359
+scored_words:
+  codding: 300902
+  colluding: 129367
+  corroding: 127413
+not_scored_words:
+- copyreading
+- corrading
+- countermanding
+- countershading

@@ -1,0 +1,32 @@
+---
+pattern: comp_t
+hi_scored_words_count: 15
+scored_words_count: 5
+total_words: 22
+score: 1465133
+score_per_word: 73256
+hi_scored_words:
+  compact: 3749
+  compartment: 10792
+  compatriot: 64132
+  competent: 6371
+  complacent: 30389
+  complainant: 22038
+  complaint: 3810
+  compleat: 69689
+  complement: 9161
+  compliant: 18394
+  complicit: 57204
+  compliment: 9695
+  component: 5515
+  comport: 67338
+  compost: 19642
+scored_words:
+  complaisant: 229237
+  completest: 151186
+  completist: 263225
+  complot: 212115
+  comportment: 211451
+not_scored_words:
+- compactest
+- complect

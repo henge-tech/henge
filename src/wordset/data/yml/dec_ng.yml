@@ -1,0 +1,55 @@
+---
+pattern: dec_ng
+hi_scored_words_count: 16
+scored_words_count: 12
+total_words: 45
+score: 2890002
+score_per_word: 103214
+hi_scored_words:
+  decaying: 30956
+  deceiving: 33743
+  deciding: 7898
+  deciphering: 57007
+  decking: 37853
+  declaring: 10757
+  declining: 18009
+  decoding: 20279
+  decommissioning: 31760
+  decomposing: 52304
+  deconstructing: 60302
+  decorating: 11700
+  decoupling: 52146
+  decreasing: 12752
+  decrying: 99787
+  decrypting: 89124
+scored_words:
+  decanting: 140861
+  decapitating: 233376
+  decelerating: 129548
+  decentralizing: 138075
+  decimating: 137485
+  declaiming: 252403
+  declawing: 172610
+  decompressing: 129275
+  decontaminating: 235934
+  decreeing: 191803
+  decrementing: 242768
+  decriminalizing: 259487
+not_scored_words:
+- decaffeinating
+- decalcifying
+- decamping
+- decarbonizing
+- decarburizing
+- deceasing
+- decimalizing
+- declassifying
+- decocting
+- decolonizing
+- decolorizing
+- deconsecrating
+- decontrolling
+- decorticating
+- decoupaging
+- decoying
+- decrepitating

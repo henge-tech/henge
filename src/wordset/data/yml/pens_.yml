@@ -1,0 +1,30 @@
+---
+pattern: pens_
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 20
+score: 1418897
+score_per_word: 94593
+hi_scored_words:
+  pens: 8876
+  pensee: 72250
+  pension: 4510
+  pensionable: 86930
+  pensioner: 36842
+  pensioners: 26285
+  pensions: 9329
+  pensive: 40036
+  penstemon: 89733
+  pensée: 95653
+scored_words:
+  pensionary: 119891
+  pensioned: 187647
+  pensively: 164408
+  pensiveness: 261485
+  penstock: 215022
+not_scored_words:
+- Pensacola
+- pensile
+- pensionaries
+- pensioning
+- penstocks

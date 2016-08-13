@@ -1,0 +1,36 @@
+---
+pattern: he_ss
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 26
+score: 1620612
+score_per_word: 108040
+hi_scored_words:
+  headdress: 59837
+  headless: 37652
+  headmistress: 77023
+  heartless: 25290
+  heaviness: 55529
+  heedless: 62776
+  heiress: 36964
+  helpfulness: 41282
+  helpless: 10827
+  helplessness: 38353
+scored_words:
+  healthfulness: 304029
+  healthiness: 182331
+  heartiness: 212506
+  heartlessness: 242838
+  heedlessness: 233375
+not_scored_words:
+- Hess
+- headiness
+- heartsickness
+- heavenliness
+- heedfulness
+- heelless
+- heftiness
+- heinousness
+- hellishness
+- hereditariness
+- heterogeneousness

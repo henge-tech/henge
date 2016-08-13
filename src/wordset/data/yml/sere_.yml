@@ -1,0 +1,32 @@
+---
+pattern: sere_
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 1092801
+score_per_word: 84061
+hi_scored_words:
+  sere: 89520
+  serena: 19283
+  serenade: 27339
+  serenata: 81654
+  serendipitous: 76504
+  serendipity: 33214
+  serene: 16000
+  serenely: 82165
+  serenity: 11813
+scored_words:
+  serenaded: 137906
+  serenades: 109477
+  serenading: 185606
+  serendipitously: 222320
+not_scored_words:
+- Serena
+- Serene
+- Serengeti
+- serenader
+- sereneness
+- serener
+- serenest
+- serer
+- serest

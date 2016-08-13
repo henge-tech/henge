@@ -1,0 +1,60 @@
+---
+pattern: nort_
+hi_scored_words_count: 16
+scored_words_count: 3
+total_words: 50
+score: 1024538
+score_per_word: 53923
+hi_scored_words:
+  north: 294
+  northbound: 32023
+  northeast: 6137
+  northeasterly: 81227
+  northeastern: 15262
+  norther: 98309
+  northerly: 33998
+  northern: 1366
+  northerner: 42433
+  northerners: 70107
+  northernmost: 48301
+  northward: 22063
+  northwards: 58964
+  northwest: 4809
+  northwesterly: 83383
+  northwestern: 12538
+scored_words:
+  northeastward: 124184
+  northing: 149513
+  northwestward: 139627
+not_scored_words:
+- North
+- Northallerton
+- Northampton
+- Northamptonshire
+- Northcliffe
+- Northeast
+- Northeasts
+- Northern
+- Northerner
+- Northman
+- Northmen
+- Northrop
+- Northrup
+- Norths
+- Northumberland
+- Northumbria
+- Northumbrian
+- Northwest
+- Northwests
+- Norton
+- northeaster
+- northeasters
+- northeastwardly
+- northeastwards
+- northerlies
+- northers
+- northwardly
+- northwester
+- northwesters
+- northwestwardly
+- northwestwards

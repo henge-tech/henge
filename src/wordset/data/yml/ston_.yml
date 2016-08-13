@@ -1,0 +1,46 @@
+---
+pattern: ston_
+hi_scored_words_count: 10
+scored_words_count: 14
+total_words: 36
+score: 2860232
+score_per_word: 119176
+hi_scored_words:
+  stone: 1121
+  stoned: 20764
+  stoner: 25599
+  stoners: 95942
+  stones: 3031
+  stonewall: 31100
+  stoneware: 32103
+  stonework: 65200
+  stoning: 57023
+  stony: 13557
+scored_words:
+  stonechat: 177443
+  stonecrop: 180364
+  stonecutter: 193717
+  stonecutters: 218847
+  stoneflies: 162742
+  stonefly: 142222
+  stonemason: 123299
+  stonemasons: 108730
+  stonewalled: 180641
+  stonewalling: 104439
+  stonewalls: 237835
+  stonewashed: 217111
+  stonier: 265738
+  stonily: 201664
+not_scored_words:
+- Stone
+- Stonehenge
+- stonechats
+- stonecrops
+- stonefish
+- stoneless
+- stonewort
+- stoneworts
+- stoniest
+- stoniness
+- stonkered
+- stonking

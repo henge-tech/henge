@@ -1,0 +1,59 @@
+---
+pattern: _set
+hi_scored_words_count: 25
+scored_words_count: 10
+total_words: 49
+score: 2608182
+score_per_word: 74519
+hi_scored_words:
+  asset: 8644
+  basset: 39920
+  beset: 29458
+  closet: 7011
+  corset: 25331
+  gusset: 52948
+  handset: 17898
+  headset: 8338
+  inset: 26527
+  marmoset: 94864
+  mindset: 18411
+  offset: 8518
+  onset: 10052
+  outset: 13416
+  posset: 83605
+  preset: 22829
+  reset: 16469
+  russet: 48491
+  set: 146
+  somerset: 7740
+  subset: 13483
+  sunset: 4065
+  typeset: 53805
+  unset: 53729
+  upset: 5414
+scored_words:
+  backset: 174618
+  boneset: 244153
+  coset: 129124
+  cosset: 137879
+  cresset: 289956
+  heavyset: 244536
+  moonset: 108421
+  overset: 186815
+  thickset: 178768
+  twinset: 242800
+not_scored_words:
+- Dorset
+- Hatshepset
+- Knesset
+- Massachuset
+- Musset
+- Narraganset
+- Osset
+- Quonset
+- Samoset
+- Set
+- Somerset
+- cabasset
+- tasset
+- underset

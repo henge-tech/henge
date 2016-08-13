@@ -1,0 +1,33 @@
+---
+pattern: r_tory
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 23
+score: 617486
+score_per_word: 56135
+hi_scored_words:
+  rectory: 39187
+  refectory: 61904
+  reformatory: 89684
+  refractory: 22377
+  regulatory: 3302
+  repertory: 29800
+  repository: 12928
+  respiratory: 13163
+  retaliatory: 60109
+  revelatory: 87359
+scored_words:
+  rotatory: 197673
+not_scored_words:
+- recapitulatory
+- recommendatory
+- reconciliatory
+- recriminatory
+- redemptory
+- reificatory
+- renunciatory
+- reparatory
+- retributory
+- reverberatory
+- revocatory
+- rogatory

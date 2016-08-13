@@ -1,0 +1,40 @@
+---
+pattern: _iant
+hi_scored_words_count: 13
+scored_words_count: 8
+total_words: 30
+score: 1760462
+score_per_word: 83831
+hi_scored_words:
+  brilliant: 2982
+  compliant: 18394
+  defiant: 21430
+  deviant: 14793
+  giant: 2799
+  invariant: 19646
+  luxuriant: 49106
+  officiant: 89213
+  pliant: 62849
+  radiant: 10490
+  reliant: 20286
+  valiant: 14094
+  variant: 10737
+scored_words:
+  affiant: 129941
+  defoliant: 266083
+  exfoliant: 142299
+  insouciant: 208479
+  noncompliant: 118428
+  riant: 228269
+  supergiant: 179921
+  suppliant: 150223
+not_scored_words:
+- asphyxiant
+- euphoriant
+- incompliant
+- inebriant
+- irradiant
+- mediant
+- negotiant
+- renunciant
+- submediant

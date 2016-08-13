@@ -1,0 +1,34 @@
+---
+pattern: scr_y
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 24
+score: 1592903
+score_per_word: 106193
+hi_scored_words:
+  scraggy: 56401
+  scrappy: 39741
+  scratchy: 44395
+  scrawny: 65367
+  screenplay: 18261
+  screwy: 73498
+  scrubby: 88486
+  scruffy: 50693
+  scrupulously: 60462
+  scrutiny: 9287
+scored_words:
+  scraggly: 154715
+  screamingly: 304905
+  screechy: 256886
+  scripturally: 206124
+  scrumpy: 163682
+not_scored_words:
+- scrappily
+- scratchily
+- scrawly
+- scrimpy
+- scroungy
+- scruffily
+- scrumptiously
+- scrunchy
+- scrupulosity

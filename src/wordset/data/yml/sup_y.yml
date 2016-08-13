@@ -1,0 +1,51 @@
+---
+pattern: sup_y
+hi_scored_words_count: 14
+scored_words_count: 13
+total_words: 41
+score: 3051974
+score_per_word: 113036
+hi_scored_words:
+  superbly: 30558
+  superconductivity: 48073
+  superfamily: 27779
+  superficially: 40336
+  superhighway: 53576
+  superiority: 15164
+  supernumerary: 78805
+  supervisory: 13031
+  supplementary: 11803
+  supply: 1035
+  supposedly: 15051
+  suppository: 63265
+  supremacy: 15382
+  supremely: 40418
+scored_words:
+  superciliously: 249729
+  supererogatory: 113935
+  superficiality: 117362
+  superfluity: 134167
+  superheavy: 277090
+  superintendency: 134874
+  superiorly: 225706
+  superlatively: 265561
+  supernaturally: 129575
+  superspy: 258011
+  superstitiously: 192510
+  supportability: 205689
+  supportively: 293489
+not_scored_words:
+- superagency
+- supercity
+- superfluously
+- supergalaxy
+- superhumanly
+- superlunary
+- supernally
+- supersonically
+- supinely
+- supplely
+- suppletory
+- suppliantly
+- supplicatory
+- suppositiously

@@ -1,0 +1,42 @@
+---
+pattern: wate_s
+hi_scored_words_count: 13
+scored_words_count: 7
+total_words: 32
+score: 2174385
+score_per_word: 108719
+hi_scored_words:
+  waterbirds: 97367
+  watercolors: 39966
+  watercourses: 58550
+  watercress: 53031
+  waterfalls: 22605
+  waterless: 72894
+  watermarks: 50739
+  watermelons: 63788
+  waterproofs: 86261
+  waters: 2500
+  watersheds: 31243
+  waterways: 19429
+  waterworks: 38165
+scored_words:
+  waterbeds: 163201
+  waterfronts: 174437
+  waterholes: 173206
+  waterings: 274552
+  waterlilies: 207562
+  waterlines: 271283
+  waterspouts: 273606
+not_scored_words:
+- Waterloos
+- Waters
+- waterboardings
+- waterboards
+- waterbucks
+- watercolorists
+- waterfowls
+- wateriness
+- waterloos
+- watermills
+- watersides
+- waterwheels

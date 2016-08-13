@@ -1,0 +1,38 @@
+---
+pattern: s_fs
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 28
+score: 1635000
+score_per_word: 90833
+hi_scored_words:
+  scarfs: 69100
+  scoffs: 99191
+  scuffs: 86207
+  serfs: 54939
+  sheriffs: 33193
+  smurfs: 51271
+  sniffs: 66007
+  spinoffs: 84137
+  spoofs: 66118
+  staffs: 23050
+  stiffs: 54296
+  stuffs: 30199
+  surfs: 69443
+scored_words:
+  serifs: 143390
+  skiffs: 145181
+  snuffs: 229887
+  standoffs: 111628
+  sunroofs: 217763
+not_scored_words:
+- sclaffs
+- scruffs
+- selloffs
+- sendoffs
+- showoffs
+- shutoffs
+- snarfs
+- soundproofs
+- spiffs
+- spliffs

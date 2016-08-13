@@ -1,0 +1,32 @@
+---
+pattern: swit_
+hi_scored_words_count: 12
+scored_words_count: 5
+total_words: 22
+score: 1345781
+score_per_word: 79163
+hi_scored_words:
+  switch: 4168
+  switchable: 67140
+  switchback: 89631
+  switchblade: 57090
+  switchboard: 24636
+  switched: 9739
+  switcher: 37247
+  switchers: 60608
+  switches: 11599
+  switchgear: 71721
+  switching: 10547
+  switchover: 66361
+scored_words:
+  switchbacks: 128310
+  switchblades: 180315
+  switchboards: 112000
+  switcheroo: 129228
+  switchman: 285441
+not_scored_words:
+- Switz
+- Switzer
+- Switzerland
+- switcheroos
+- switchmen

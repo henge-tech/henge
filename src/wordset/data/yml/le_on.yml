@@ -1,0 +1,30 @@
+---
+pattern: le_on
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 20
+score: 651264
+score_per_word: 50097
+hi_scored_words:
+  lection: 98981
+  legalization: 34604
+  legation: 82268
+  legion: 10577
+  legislation: 2509
+  legitimation: 79023
+  lemon: 8501
+  lepton: 63451
+  lesion: 24397
+  lesson: 2652
+  levitation: 53209
+  lexicon: 23796
+scored_words:
+  legitimization: 167296
+not_scored_words:
+- Lebanon
+- Leighton
+- Lennon
+- Leon
+- Lewiston
+- Lexington
+- levorotation

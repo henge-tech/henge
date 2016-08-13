@@ -1,0 +1,27 @@
+---
+pattern: t_ster
+hi_scored_words_count: 12
+scored_words_count: 0
+total_words: 17
+score: 580327
+score_per_word: 48360
+hi_scored_words:
+  taskmaster: 79523
+  taster: 41178
+  teamster: 65691
+  telecaster: 60136
+  tester: 23246
+  thruster: 57459
+  tipster: 71606
+  toaster: 17966
+  toastmaster: 68599
+  trickster: 46731
+  trimester: 23704
+  twister: 24488
+scored_words: {}
+not_scored_words:
+- Ticketmaster
+- tapster
+- trustbuster
+- truster
+- tryster

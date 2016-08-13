@@ -1,0 +1,47 @@
+---
+pattern: _uit
+hi_scored_words_count: 22
+scored_words_count: 9
+total_words: 37
+score: 2675698
+score_per_word: 86312
+hi_scored_words:
+  acquit: 60212
+  biscuit: 13759
+  bodysuit: 75520
+  breadfruit: 91084
+  bruit: 80045
+  catsuit: 87680
+  circuit: 3218
+  conduit: 17726
+  fruit: 2002
+  grapefruit: 21712
+  intuit: 36427
+  jumpsuit: 51093
+  kiwifruit: 98822
+  lawsuit: 9689
+  pursuit: 5459
+  quit: 3579
+  recruit: 9968
+  spacesuit: 99789
+  suit: 2173
+  swimsuit: 18255
+  tracksuit: 43534
+  wetsuit: 40758
+scored_words:
+  floruit: 279131
+  jackfruit: 153011
+  microcircuit: 171588
+  nonsuit: 305938
+  pantsuit: 154786
+  playsuit: 161468
+  snowsuit: 124312
+  starfruit: 283170
+  sweatsuit: 169790
+not_scored_words:
+- Inuit
+- Iqaluit
+- Jesuit
+- Minuit
+- grassquit
+- sunsuit

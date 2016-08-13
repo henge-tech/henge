@@ -1,0 +1,22 @@
+---
+pattern: cons_nt
+hi_scored_words_count: 9
+scored_words_count: 0
+total_words: 12
+score: 115817
+score_per_word: 12868
+hi_scored_words:
+  consent: 2476
+  consequent: 17477
+  consignment: 28904
+  consistent: 3350
+  consonant: 24943
+  constant: 1942
+  constituent: 13104
+  constraint: 9571
+  consultant: 14050
+scored_words: {}
+not_scored_words:
+- Constant
+- consentient
+- constringent

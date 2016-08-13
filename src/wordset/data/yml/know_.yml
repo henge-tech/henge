@@ -1,0 +1,23 @@
+---
+pattern: know_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 13
+score: 477531
+score_per_word: 43411
+hi_scored_words:
+  know: 105
+  knowable: 95360
+  knower: 87958
+  knowhow: 82655
+  knowing: 2289
+  knowingly: 18527
+  knowledge: 528
+  knowledgeable: 14140
+  known: 408
+  knows: 1400
+scored_words:
+  knowledgeably: 174161
+not_scored_words:
+- Knowles
+- knowings

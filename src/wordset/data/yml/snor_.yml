@@ -1,0 +1,28 @@
+---
+pattern: snor_
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 18
+score: 1469586
+score_per_word: 104970
+hi_scored_words:
+  snore: 38198
+  snoring: 22511
+  snorkel: 33752
+  snorkeling: 28764
+  snort: 19887
+  snorted: 43189
+  snorting: 32550
+  snorts: 87551
+scored_words:
+  snored: 160617
+  snorers: 300646
+  snores: 100816
+  snorkeled: 311652
+  snorkelers: 185321
+  snorkels: 104132
+not_scored_words:
+- snorer
+- snorkeler
+- snorter
+- snorters

@@ -1,0 +1,36 @@
+---
+pattern: nat_s
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 26
+score: 734712
+score_per_word: 56516
+hi_scored_words:
+  nates: 79934
+  nationalists: 34647
+  nationalities: 26666
+  nationals: 17905
+  nations: 1512
+  natives: 9243
+  naturalists: 38303
+  naturalness: 73541
+  naturals: 20761
+  natures: 19184
+  naturists: 70740
+scored_words:
+  nativities: 179009
+  naturopaths: 163267
+not_scored_words:
+- Nathans
+- natatoriums
+- natheless
+- nationalizations
+- nationalizes
+- nativisms
+- nativists
+- natterjacks
+- natters
+- nattiness
+- naturalizes
+- naturisms
+- naturopathies

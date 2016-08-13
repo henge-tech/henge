@@ -1,0 +1,55 @@
+---
+pattern: fi_ing
+hi_scored_words_count: 23
+scored_words_count: 10
+total_words: 45
+score: 2217257
+score_per_word: 67189
+hi_scored_words:
+  fiddling: 34019
+  fielding: 16576
+  fighting: 1950
+  figuring: 18662
+  filing: 8015
+  filling: 4481
+  filming: 11382
+  filmmaking: 24208
+  filtering: 11452
+  finalizing: 51122
+  financing: 10233
+  finding: 1351
+  fingering: 13425
+  fingerprinting: 42116
+  fining: 82073
+  finishing: 5099
+  firefighting: 33181
+  firing: 6510
+  firming: 55171
+  fishing: 2231
+  fitting: 5305
+  fixing: 7371
+  fizzing: 85727
+scored_words:
+  fibbing: 224242
+  fidgeting: 100555
+  filibustering: 116694
+  filleting: 147243
+  finessing: 244674
+  fingerling: 131589
+  firebombing: 123700
+  fireproofing: 127037
+  fixating: 189189
+  fizzling: 280674
+not_scored_words:
+- Fielding
+- fibrillating
+- fictionalizing
+- filching
+- filigreeing
+- filliping
+- filtrating
+- finagling
+- finicking
+- finking
+- firstling
+- fishtailing

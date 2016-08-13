@@ -1,0 +1,44 @@
+---
+pattern: c_age
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 34
+score: 1564023
+score_per_word: 71091
+hi_scored_words:
+  cabbage: 12274
+  cage: 5977
+  camouflage: 19179
+  carnage: 21520
+  carriage: 5646
+  cartilage: 20484
+  cleavage: 17914
+  coinage: 32321
+  collage: 18997
+  cordage: 71132
+  corsage: 75168
+  cottage: 3996
+  courage: 4114
+  coverage: 13414
+  cribbage: 53333
+  curettage: 99934
+scored_words:
+  cabotage: 253939
+  cartage: 114921
+  concubinage: 183559
+  cooperage: 153759
+  corkage: 235622
+  curtilage: 146820
+not_scored_words:
+- Cage
+- Carthage
+- cellarage
+- chaperonage
+- clientage
+- commonage
+- coquillage
+- counterespionage
+- cowage
+- cozenage
+- cranage
+- cubage

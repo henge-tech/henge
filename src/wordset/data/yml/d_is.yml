@@ -1,0 +1,55 @@
+---
+pattern: d_is
+hi_scored_words_count: 10
+scored_words_count: 10
+total_words: 45
+score: 2128677
+score_per_word: 106433
+hi_scored_words:
+  dais: 47926
+  debris: 10524
+  delis: 76077
+  dermatitis: 26088
+  dermis: 55242
+  diagnosis: 7116
+  dialysis: 20616
+  digitalis: 50820
+  dis: 5805
+  diverticulitis: 80458
+scored_words:
+  daiquiris: 203488
+  dermatosis: 248159
+  diaeresis: 101586
+  diagenesis: 127200
+  diaphoresis: 219750
+  diaphysis: 285545
+  diathesis: 171171
+  dieresis: 157819
+  diuresis: 105746
+  diverticulosis: 127541
+not_scored_words:
+- Daphnis
+- Davis
+- Decapolis
+- Deloris
+- Denis
+- Dennis
+- Dis
+- Doris
+- DuBois
+- Dunois
+- dalasis
+- dashikis
+- derris
+- dhotis
+- diakinesis
+- diapedesis
+- diapophysis
+- diarthrosis
+- diastasis
+- diesis
+- digenesis
+- diplosis
+- dulosis
+- duodenitis
+- dziggetais

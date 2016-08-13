@@ -1,0 +1,25 @@
+---
+pattern: pur_d
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 15
+score: 681257
+score_per_word: 56771
+hi_scored_words:
+  purblind: 98133
+  purchased: 2894
+  purebred: 42987
+  pureed: 93092
+  purged: 36277
+  purified: 13538
+  purported: 29093
+  purposed: 59054
+  purred: 88517
+  pursed: 84209
+  pursued: 7473
+scored_words:
+  purloined: 125990
+not_scored_words:
+- purehearted
+- purled
+- purveyed

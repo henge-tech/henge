@@ -1,0 +1,28 @@
+---
+pattern: _dit
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 18
+score: 980399
+score_per_word: 75415
+hi_scored_words:
+  accredit: 81484
+  audit: 11407
+  bandit: 18282
+  credit: 710
+  discredit: 24176
+  dit: 15025
+  edit: 2408
+  pandit: 45558
+  pundit: 22125
+scored_words:
+  adit: 102492
+  copyedit: 235114
+  geddit: 271282
+  noncredit: 150336
+not_scored_words:
+- Medit
+- disaccredit
+- plaudit
+- reedit
+- subedit

@@ -1,0 +1,20 @@
+---
+pattern: ac_ents
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 10
+score: 379122
+score_per_word: 42124
+hi_scored_words:
+  accents: 12602
+  accidents: 5544
+  accompaniments: 56673
+  accomplishments: 9663
+  accoutrements: 60924
+  achievements: 9983
+  acknowledgements: 16660
+  acknowledgments: 21969
+scored_words:
+  accouterments: 185104
+not_scored_words:
+- accouchements

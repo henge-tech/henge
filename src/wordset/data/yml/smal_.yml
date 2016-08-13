@@ -1,0 +1,32 @@
+---
+pattern: smal_
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 22
+score: 939124
+score_per_word: 67080
+hi_scored_words:
+  small: 194
+  smaller: 1967
+  smallest: 6179
+  smallholder: 72957
+  smallholders: 92062
+  smallish: 63379
+  smallness: 72954
+  smallpox: 19729
+  smalls: 48349
+  smalltalk: 30026
+  smalto: 92117
+scored_words:
+  smallholding: 120321
+  smallholdings: 170878
+  smalt: 148012
+not_scored_words:
+- Small
+- smallage
+- smallclothes
+- smallsword
+- smalltime
+- smalltimer
+- smaltite
+- smaltites

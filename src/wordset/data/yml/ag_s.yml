@@ -1,0 +1,87 @@
+---
+pattern: ag_s
+hi_scored_words_count: 18
+scored_words_count: 19
+total_words: 77
+score: 3800325
+score_per_word: 102711
+hi_scored_words:
+  ageless: 42572
+  agencies: 2905
+  agendas: 14449
+  agents: 1832
+  ages: 2076
+  aggravates: 75832
+  aggregates: 27765
+  aggregations: 69124
+  aggressiveness: 51121
+  aggressors: 70526
+  agios: 62719
+  agitators: 65236
+  agnostics: 86222
+  agonies: 79938
+  agonists: 37181
+  agreements: 5916
+  agrees: 6746
+  agribusiness: 34502
+scored_words:
+  agapanthus: 149586
+  agates: 129564
+  agenesis: 118340
+  agglomerates: 191865
+  agglomerations: 118130
+  agglutinins: 182386
+  aggravations: 250614
+  aggressions: 100638
+  agitates: 132921
+  agitations: 155102
+  agonizes: 177365
+  agoras: 236802
+  agranulocytosis: 144866
+  agreeableness: 177865
+  agribusinesses: 227158
+  agriculturalists: 166891
+  agriculturists: 131285
+  agrochemicals: 112402
+  agronomists: 159883
+not_scored_words:
+- Aggeus
+- Agnes
+- Aguascalientes
+- Agulhas
+- agamas
+- agamogeneses
+- agamogenesis
+- agapanthuses
+- agarics
+- agatewares
+- ageings
+- ageists
+- agelessness
+- ageneses
+- agglutinates
+- agglutinations
+- agglutinogens
+- aggrades
+- aggrandizes
+- aggress
+- aggresses
+- aggrieves
+- agileness
+- agings
+- agiotages
+- aglets
+- agnails
+- agnates
+- agnations
+- agnosias
+- agoraphobics
+- agoutis
+- agranulocytoses
+- agraphias
+- agrarians
+- agrimonies
+- agrobiologies
+- agrologies
+- agronomics
+- agueweeds

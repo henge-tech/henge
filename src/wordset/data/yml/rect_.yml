@@ -1,0 +1,46 @@
+---
+pattern: rect_
+hi_scored_words_count: 19
+scored_words_count: 5
+total_words: 36
+score: 2267302
+score_per_word: 94470
+hi_scored_words:
+  rect: 33085
+  rectal: 21139
+  rectangle: 20264
+  rectangles: 35334
+  rectangular: 12524
+  rectification: 51610
+  rectified: 38997
+  rectifier: 33706
+  rectifiers: 64111
+  rectify: 26935
+  rectifying: 71769
+  rectilinear: 78485
+  rectitude: 68544
+  recto: 60951
+  rector: 15566
+  rectors: 89787
+  rectory: 39187
+  rectum: 29632
+  rectus: 77550
+scored_words:
+  rectally: 217879
+  recti: 275082
+  rectifiable: 340734
+  rectifies: 254896
+  rectocele: 309535
+not_scored_words:
+- rectangularities
+- rectangularity
+- rectifications
+- rectilinearity
+- rectilinearly
+- rectorate
+- rectorial
+- rectories
+- rectorship
+- rectos
+- rectrix
+- rectums

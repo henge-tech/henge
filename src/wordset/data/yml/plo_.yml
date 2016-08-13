@@ -1,0 +1,61 @@
+---
+pattern: plo_
+hi_scored_words_count: 19
+scored_words_count: 12
+total_words: 51
+score: 3251494
+score_per_word: 104886
+hi_scored_words:
+  plod: 72322
+  plodding: 64478
+  plonk: 70780
+  plop: 48879
+  plopped: 92227
+  plot: 2715
+  plots: 8154
+  plotted: 18026
+  plotter: 38823
+  plotters: 42077
+  plotting: 16738
+  plover: 34746
+  plovers: 84532
+  plow: 19349
+  plowed: 46093
+  plowing: 35924
+  plowman: 79245
+  plows: 60467
+  ploy: 31099
+scored_words:
+  plodded: 140522
+  plodder: 239625
+  plods: 222059
+  plonked: 224909
+  plonker: 268331
+  plopping: 197445
+  plops: 192077
+  plosive: 130601
+  plosives: 257673
+  plowshare: 275150
+  plowshares: 123549
+  ploys: 112879
+not_scored_words:
+- PLO
+- Ploesti
+- Plotinus
+- Plovdiv
+- ploce
+- plodders
+- ploddingly
+- ploddings
+- plonkers
+- plonking
+- plonks
+- plosion
+- plosions
+- ploughings
+- plowable
+- plowboy
+- plowboys
+- plower
+- plowers
+- plowmen

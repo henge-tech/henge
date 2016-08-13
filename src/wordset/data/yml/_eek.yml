@@ -1,0 +1,32 @@
+---
+pattern: _eek
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 22
+score: 710182
+score_per_word: 44386
+hi_scored_words:
+  cheek: 9554
+  creek: 2456
+  eek: 22297
+  fenugreek: 66618
+  geek: 10979
+  leek: 33908
+  meek: 24594
+  midweek: 33822
+  peek: 21603
+  reek: 48738
+  seek: 1818
+  sleek: 14328
+  week: 334
+  workweek: 64645
+scored_words:
+  cleek: 166773
+  keek: 187715
+not_scored_words:
+- Belleek
+- Creek
+- Greek
+- Newsweek
+- Schaerbeek
+- houseleek

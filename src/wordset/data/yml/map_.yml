@@ -1,0 +1,25 @@
+---
+pattern: map_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 880579
+score_per_word: 73381
+hi_scored_words:
+  map: 1450
+  maple: 7401
+  maples: 40029
+  mapped: 14672
+  mapper: 47056
+  mapping: 15529
+  mappings: 31284
+  maps: 3177
+scored_words:
+  mapmaker: 128156
+  mapmakers: 191080
+  mappable: 269835
+  mappers: 130910
+not_scored_words:
+- Map
+- Mapplethorpe
+- Maputo

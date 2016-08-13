@@ -1,0 +1,28 @@
+---
+pattern: help_
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 18
+score: 621370
+score_per_word: 38835
+hi_scored_words:
+  help: 129
+  helped: 2020
+  helper: 12438
+  helpers: 18935
+  helpful: 3380
+  helpfully: 60844
+  helpfulness: 41282
+  helping: 2597
+  helpings: 99827
+  helpless: 10827
+  helplessly: 45969
+  helplessness: 38353
+  helpline: 24777
+  helps: 2586
+scored_words:
+  helplines: 105267
+  helpmate: 152139
+not_scored_words:
+- Help
+- helpmates

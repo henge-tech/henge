@@ -1,0 +1,30 @@
+---
+pattern: int_le
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 20
+score: 869921
+score_per_word: 72493
+hi_scored_words:
+  intangible: 18097
+  integrable: 54921
+  intelligible: 30998
+  interchangeable: 27857
+  interminable: 45607
+  interoperable: 50221
+  interpretable: 96278
+  intolerable: 21673
+  intractable: 34704
+scored_words:
+  intermeddle: 201741
+  intermingle: 106272
+  intervale: 181552
+not_scored_words:
+- Internationale
+- interclavicle
+- interfertile
+- interfile
+- interposable
+- intitule
+- introducible
+- intuitable

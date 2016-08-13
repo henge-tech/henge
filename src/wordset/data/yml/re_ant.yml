@@ -1,0 +1,45 @@
+---
+pattern: re_ant
+hi_scored_words_count: 22
+scored_words_count: 5
+total_words: 35
+score: 1926557
+score_per_word: 71353
+hi_scored_words:
+  reactant: 66628
+  recalcitrant: 52209
+  recant: 83675
+  recombinant: 18450
+  recusant: 76247
+  redundant: 14556
+  refrigerant: 40332
+  registrant: 42091
+  relaxant: 63914
+  relevant: 5817
+  reliant: 20286
+  reluctant: 9789
+  remnant: 17505
+  repentant: 63128
+  replant: 79729
+  repugnant: 36453
+  resistant: 14908
+  resonant: 22594
+  restaurant: 5141
+  resultant: 20033
+  retardant: 42574
+  revenant: 92775
+scored_words:
+  recreant: 246261
+  redcurrant: 229922
+  regardant: 149247
+  regnant: 220410
+  reverberant: 191883
+not_scored_words:
+- reboant
+- reclaimant
+- recognizant
+- reiterant
+- remonstrant
+- remontant
+- renunciant
+- reptant

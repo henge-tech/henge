@@ -1,0 +1,30 @@
+---
+pattern: g_ish
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 1024693
+score_per_word: 93153
+hi_scored_words:
+  garish: 56556
+  garnish: 26748
+  ghoulish: 72952
+  gibberish: 40460
+  girlish: 56515
+  goldfish: 27761
+  grayish: 52252
+  greenish: 27029
+scored_words:
+  garfish: 213213
+  gnomish: 181086
+  goatfish: 270121
+not_scored_words:
+- Gaulish
+- Gish
+- globefish
+- goatish
+- goodish
+- goosefish
+- goyish
+- guitarfish
+- gypsyish

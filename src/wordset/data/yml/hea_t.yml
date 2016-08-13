@@ -1,0 +1,31 @@
+---
+pattern: hea_t
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 21
+score: 866513
+score_per_word: 57767
+hi_scored_words:
+  headcount: 55527
+  headfirst: 82546
+  headlight: 23147
+  headrest: 56241
+  headset: 8338
+  healthiest: 35888
+  heart: 359
+  heartbeat: 16874
+  heartfelt: 21047
+  heat: 1297
+  heaviest: 23417
+  heavyweight: 16647
+scored_words:
+  headbutt: 121558
+  heartiest: 159091
+  heavyset: 244536
+not_scored_words:
+- Hearst
+- headforemost
+- headhunt
+- headiest
+- headmost
+- heavenliest

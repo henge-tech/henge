@@ -1,0 +1,41 @@
+---
+pattern: _ggy
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 31
+score: 1720267
+score_per_word: 81917
+hi_scored_words:
+  baggy: 33823
+  boggy: 71635
+  buggy: 14068
+  craggy: 60268
+  doggy: 22328
+  foggy: 24352
+  froggy: 46527
+  groggy: 59306
+  leggy: 57674
+  muggy: 76806
+  piggy: 21638
+  saggy: 36726
+  scraggy: 56401
+  shaggy: 20301
+  soggy: 39388
+  twiggy: 74782
+scored_words:
+  draggy: 304395
+  druggy: 199943
+  jaggy: 154939
+  moggy: 162783
+  smoggy: 182184
+not_scored_words:
+- Peggy
+- Ziggy
+- cloggy
+- dreggy
+- flaggy
+- fuggy
+- loggy
+- quaggy
+- slaggy
+- snaggy

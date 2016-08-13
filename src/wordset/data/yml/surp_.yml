@@ -1,0 +1,34 @@
+---
+pattern: surp_
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 24
+score: 932220
+score_per_word: 62148
+hi_scored_words:
+  surpass: 22421
+  surpassed: 22168
+  surpasses: 38193
+  surpassing: 31470
+  surplus: 13404
+  surpluses: 34624
+  surprise: 2248
+  surprised: 2898
+  surprises: 12085
+  surprising: 5588
+  surprisingly: 9534
+scored_words:
+  surpassingly: 172332
+  surplice: 102100
+  surplices: 182326
+  surplusage: 280829
+not_scored_words:
+- surpassable
+- surplusages
+- surplussed
+- surplussing
+- surprint
+- surprints
+- surprisals
+- surprisings
+- surprizal

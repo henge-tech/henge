@@ -1,0 +1,36 @@
+---
+pattern: lag_
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 26
+score: 1019922
+score_per_word: 78455
+hi_scored_words:
+  lag: 15693
+  lagan: 73909
+  lager: 23648
+  lagers: 97045
+  laggards: 97747
+  lagged: 34548
+  lagging: 28393
+  lagoon: 13073
+  lagoons: 39437
+  lags: 39272
+scored_words:
+  laggard: 112163
+  lagger: 325983
+  lagniappe: 119011
+not_scored_words:
+- Lagerkvist
+- Lagos
+- Lagrange
+- Lagrangian
+- Lagting
+- lagans
+- lagena
+- laggardly
+- laggardness
+- lagniappes
+- lagomorph
+- lagomorphs
+- lagoonal

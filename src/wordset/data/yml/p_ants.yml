@@ -1,0 +1,27 @@
+---
+pattern: p_ants
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 17
+score: 500342
+score_per_word: 41695
+hi_scored_words:
+  pageants: 47386
+  pants: 6220
+  participants: 7122
+  peasants: 13217
+  pendants: 24807
+  pennants: 51212
+  pheasants: 50432
+  plants: 1595
+  pollutants: 13377
+  propellants: 73043
+  protestants: 23749
+scored_words:
+  pedants: 188182
+not_scored_words:
+- Protestants
+- penchants
+- pieplants
+- postulants
+- precipitants

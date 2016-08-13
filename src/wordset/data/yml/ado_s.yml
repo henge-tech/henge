@@ -1,0 +1,25 @@
+---
+pattern: ado_s
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 15
+score: 682315
+score_per_word: 68231
+hi_scored_words:
+  adolescents: 10525
+  adonis: 31036
+  adopters: 41313
+  adoptions: 32597
+  adopts: 20373
+  adores: 47740
+  adornments: 75676
+  adorns: 74852
+scored_words:
+  adobes: 177714
+  adorers: 170489
+not_scored_words:
+- Adonis
+- Adonises
+- adolescences
+- adonizes
+- adorableness

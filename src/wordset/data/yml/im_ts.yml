@@ -1,0 +1,32 @@
+---
+pattern: im_ts
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 22
+score: 1504275
+score_per_word: 79172
+hi_scored_words:
+  immigrants: 8236
+  impacts: 4838
+  impairments: 22838
+  imparts: 49008
+  impediments: 35342
+  imperialists: 59322
+  implants: 12519
+  implements: 9019
+  imports: 6253
+  impoundments: 95192
+  impressionists: 66205
+  imprints: 44228
+  improvements: 3896
+scored_words:
+  immunologists: 121088
+  immunosuppressants: 231924
+  impeachments: 256003
+  imperfects: 142441
+  imposts: 123288
+  imprisonments: 212635
+not_scored_words:
+- imarets
+- immurements
+- impressments

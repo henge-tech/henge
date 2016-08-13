@@ -1,0 +1,52 @@
+---
+pattern: f_ks
+hi_scored_words_count: 15
+scored_words_count: 14
+total_words: 42
+score: 3567130
+score_per_word: 123004
+hi_scored_words:
+  fireworks: 10552
+  fishhooks: 89784
+  flanks: 40333
+  flashbacks: 34264
+  flasks: 37947
+  flecks: 81394
+  flicks: 24966
+  flocks: 25349
+  folks: 2914
+  forks: 12398
+  frameworks: 13084
+  franks: 19628
+  freaks: 14963
+  frocks: 83171
+  fucks: 9935
+scored_words:
+  fallbacks: 253104
+  fastbacks: 309247
+  fiddlesticks: 140519
+  finks: 175908
+  firebreaks: 276326
+  firetrucks: 228025
+  flacks: 202986
+  flapjacks: 152611
+  flunks: 245437
+  footmarks: 142486
+  forelocks: 259687
+  fracks: 219442
+  fullbacks: 223342
+  funks: 237328
+not_scored_words:
+- Fairbanks
+- Franks
+- fenugreeks
+- fetlocks
+- finbacks
+- fingermarks
+- firebricks
+- firelocks
+- flintlocks
+- flyspecks
+- foredecks
+- foreshanks
+- frisks

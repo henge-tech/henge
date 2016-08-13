@@ -1,0 +1,41 @@
+---
+pattern: mai_s
+hi_scored_words_count: 11
+scored_words_count: 6
+total_words: 31
+score: 1935116
+score_per_word: 113830
+hi_scored_words:
+  maidens: 30439
+  maids: 15617
+  mailboxes: 31225
+  mailers: 49350
+  mailings: 39627
+  mails: 10703
+  mainframes: 53097
+  mains: 13665
+  mainstays: 84088
+  maintainers: 44532
+  maintains: 7288
+scored_words:
+  maidservants: 282385
+  mailshots: 320287
+  maims: 301993
+  mainlines: 196838
+  mainstreams: 305007
+  maisonettes: 148975
+not_scored_words:
+- Maimonides
+- Mainers
+- maidenheads
+- maigres
+- mailbags
+- mailbombs
+- maillots
+- mainlands
+- mainmasts
+- mainsails
+- mainsheets
+- mainsprings
+- maintops
+- maizes

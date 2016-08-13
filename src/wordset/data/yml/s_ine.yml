@@ -1,0 +1,71 @@
+---
+pattern: s_ine
+hi_scored_words_count: 28
+scored_words_count: 8
+total_words: 61
+score: 2189406
+score_per_word: 60816
+hi_scored_words:
+  saccharine: 74475
+  saline: 18005
+  sanguine: 37368
+  sardine: 52910
+  scopolamine: 92441
+  seine: 15907
+  serine: 27175
+  serpentine: 28026
+  shine: 5320
+  shoeshine: 92754
+  shoreline: 18178
+  shrine: 10190
+  sideline: 28607
+  sine: 16584
+  skyline: 23081
+  slimline: 50269
+  spine: 8582
+  spline: 35782
+  storyline: 16061
+  streamline: 20145
+  strychnine: 81422
+  subalpine: 88068
+  submarine: 9719
+  subroutine: 23980
+  sunshine: 3747
+  superfine: 77248
+  supine: 56324
+  swine: 14379
+scored_words:
+  saltine: 160228
+  saturnine: 120944
+  scoreline: 105099
+  sibylline: 104999
+  snowline: 219902
+  spermine: 155011
+  sphingosine: 148682
+  subdiscipline: 147794
+not_scored_words:
+- Sabine
+- Seine
+- Sistine
+- Soutine
+- Stine
+- safranine
+- sapphirine
+- sciurine
+- scopoline
+- secundine
+- semidivine
+- serotine
+- shipentine
+- signorine
+- silkaline
+- smaragdine
+- sordine
+- soricine
+- sparteine
+- stibine
+- sulfaguanidine
+- sulfamerazine
+- sulfapyrazine
+- sulfapyridine
+- sycamine

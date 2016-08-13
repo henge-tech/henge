@@ -1,0 +1,26 @@
+---
+pattern: _xia
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 16
+score: 1111109
+score_per_word: 92592
+hi_scored_words:
+  alexia: 42437
+  anorexia: 25068
+  anoxia: 77948
+  apraxia: 96428
+  asphyxia: 64683
+  ataxia: 38915
+  dyslexia: 23495
+  hypoxia: 33797
+scored_words:
+  ataraxia: 254496
+  cachexia: 116496
+  ixia: 152870
+  pyrexia: 184476
+not_scored_words:
+- bulimarexia
+- echopraxia
+- hyperpyrexia
+- pyrrhuloxia

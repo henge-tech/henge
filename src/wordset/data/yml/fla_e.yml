@@ -1,0 +1,34 @@
+---
+pattern: fla_e
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 24
+score: 1369855
+score_per_word: 91323
+hi_scored_words:
+  flagpole: 51499
+  flagstone: 59222
+  flake: 26098
+  flame: 4164
+  flammable: 25591
+  flange: 27940
+  flare: 14274
+  flatmate: 54862
+  flatulence: 50477
+  flatware: 42106
+scored_words:
+  flagellate: 186061
+  flambe: 130402
+  flamboyance: 181692
+  flannelette: 210882
+  flavone: 304585
+not_scored_words:
+- flabellate
+- flagrance
+- flamage
+- flapdoodle
+- flashcube
+- flattie
+- flatwise
+- flavine
+- flavorsome

@@ -1,0 +1,60 @@
+---
+pattern: f_lly
+hi_scored_words_count: 19
+scored_words_count: 15
+total_words: 50
+score: 3430777
+score_per_word: 100905
+hi_scored_words:
+  factually: 48265
+  faithfully: 14132
+  fantastically: 43920
+  fatally: 31517
+  fearfully: 49200
+  federally: 15675
+  filly: 31263
+  finally: 943
+  financially: 13426
+  fiscally: 50200
+  folly: 12627
+  forcefully: 30573
+  formally: 7373
+  frantically: 26993
+  frightfully: 89373
+  frilly: 66457
+  fully: 1137
+  functionally: 24247
+  fundamentally: 13920
+scored_words:
+  facially: 118725
+  fanatically: 137148
+  fancifully: 244219
+  felly: 113299
+  fitfully: 124848
+  focally: 274612
+  forensically: 248659
+  foully: 239542
+  fractionally: 125802
+  fraternally: 178740
+  frenetically: 311369
+  fretfully: 181446
+  frontally: 258908
+  frugally: 175950
+  fruitfully: 126269
+not_scored_words:
+- farcically
+- fatalistically
+- fatefully
+- faunally
+- festally
+- feudally
+- fictionally
+- filially
+- florally
+- forgetfully
+- formulaically
+- frailly
+- frictionally
+- fugally
+- funereally
+- futuristically

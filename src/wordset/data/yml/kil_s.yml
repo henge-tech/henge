@@ -1,0 +1,31 @@
+---
+pattern: kil_s
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 21
+score: 1332675
+score_per_word: 88845
+hi_scored_words:
+  killers: 10561
+  killings: 17651
+  kills: 6243
+  kilns: 43242
+  kilobytes: 62144
+  kilograms: 26819
+  kilometers: 13339
+  kilos: 37735
+  kilowatts: 71841
+  kilts: 49783
+scored_words:
+  kilobits: 144009
+  kilocalories: 214924
+  kilojoules: 172558
+  kilotons: 194757
+  kilovolts: 267069
+not_scored_words:
+- kilderkins
+- killdeers
+- killifishes
+- killjoys
+- kilocycles
+- kiloliters

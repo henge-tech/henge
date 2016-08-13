@@ -1,0 +1,40 @@
+---
+pattern: come_
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 30
+score: 1521720
+score_per_word: 72462
+hi_scored_words:
+  come: 188
+  comeback: 16110
+  comebacks: 71888
+  comedian: 17203
+  comedians: 28109
+  comedic: 33880
+  comedienne: 81004
+  comedies: 18048
+  comedy: 3112
+  comely: 51711
+  comer: 26653
+  comers: 41405
+  comes: 616
+  comet: 11523
+  cometary: 74841
+  comets: 26059
+scored_words:
+  comedown: 139785
+  comeliness: 143993
+  comestible: 341679
+  comestibles: 291424
+  comeuppance: 102489
+not_scored_words:
+- Comenius
+- comediennes
+- comedietta
+- comedo
+- comedos
+- comedowns
+- comelier
+- comeliest
+- comeuppances

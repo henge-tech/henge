@@ -1,0 +1,28 @@
+---
+pattern: gi_t
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 18
+score: 792595
+score_per_word: 60968
+hi_scored_words:
+  giant: 2799
+  gibbet: 83263
+  gift: 957
+  gigabit: 21456
+  gilbert: 5974
+  gilt: 16628
+  gimlet: 99560
+  girt: 58239
+  gist: 25173
+  git: 13761
+scored_words:
+  giblet: 116362
+  gigawatt: 170071
+  gigot: 178352
+not_scored_words:
+- Gilbert
+- Gilchrist
+- Girondist
+- giddiest
+- giggliest

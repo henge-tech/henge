@@ -1,0 +1,61 @@
+---
+pattern: el_y
+hi_scored_words_count: 18
+scored_words_count: 13
+total_words: 51
+score: 3335621
+score_per_word: 107600
+hi_scored_words:
+  elaborately: 52735
+  elasticity: 17822
+  elderberry: 61262
+  elderly: 5023
+  electrically: 29068
+  electricity: 4182
+  electrify: 96491
+  electrocardiography: 79991
+  electrochemistry: 66885
+  electroencephalography: 83765
+  electromyography: 87924
+  electronically: 7872
+  electrophysiology: 62808
+  elegantly: 23652
+  elegy: 39620
+  elementary: 6407
+  eligibility: 13837
+  eloquently: 38628
+scored_words:
+  elastically: 149189
+  electability: 257471
+  electorally: 215854
+  electrocautery: 247320
+  electrochemically: 211899
+  electromagnetically: 230287
+  electrostatically: 160102
+  electrosurgery: 226790
+  electrotechnology: 138558
+  electrotherapy: 129456
+  eleemosynary: 232297
+  elliptically: 214948
+  ellipticity: 143478
+not_scored_words:
+- Eloy
+- Elroy
+- Elway
+- Ely
+- elatedly
+- electrobiology
+- electrolytically
+- electrometallurgy
+- electrophotography
+- electuary
+- elegancy
+- elegiacally
+- elementally
+- elementarily
+- eligibly
+- eliminatory
+- elocutionary
+- elucidatory
+- elusively
+- elusory

@@ -1,0 +1,31 @@
+---
+pattern: o_w
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 21
+score: 897707
+score_per_word: 59847
+hi_scored_words:
+  outflow: 30667
+  outgrew: 83175
+  outgrow: 56602
+  outlaw: 14037
+  overflow: 11614
+  oversaw: 36980
+  overshadow: 51894
+  overthrew: 50592
+  overthrow: 16719
+  overview: 7344
+  ow: 16821
+  oxbow: 60011
+scored_words:
+  outdraw: 120637
+  overdraw: 183557
+  overgrow: 157057
+not_scored_words:
+- Oddfellow
+- outdrew
+- overdrew
+- overflew
+- overgrew
+- oversew

@@ -1,0 +1,30 @@
+---
+pattern: int_ce
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 20
+score: 917338
+score_per_word: 70564
+hi_scored_words:
+  intelligence: 1694
+  intemperance: 84771
+  interdependence: 35923
+  interface: 5231
+  interference: 6096
+  interlace: 78877
+  intolerance: 18110
+  intransigence: 82067
+  introduce: 3522
+scored_words:
+  interoffice: 104371
+  interservice: 189948
+  interspace: 155977
+  interstice: 150751
+not_scored_words:
+- intendance
+- interinsurance
+- intermittence
+- interrace
+- intransigeance
+- intumesce
+- intumescence

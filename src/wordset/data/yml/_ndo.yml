@@ -1,0 +1,39 @@
+---
+pattern: _ndo
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 29
+score: 991567
+score_per_word: 90142
+hi_scored_words:
+  commando: 24936
+  condo: 14725
+  crescendo: 38128
+  diminuendo: 94607
+  innuendo: 43747
+  kendo: 47826
+  rondo: 38635
+  undo: 9136
+scored_words:
+  accelerando: 262335
+  glissando: 133135
+  scherzando: 284357
+not_scored_words:
+- Armando
+- Brando
+- Fernando
+- Hondo
+- Nintendo
+- Orlando
+- Raymundo
+- Rolando
+- Rosendo
+- Segundo
+- allargando
+- decrescendo
+- forzando
+- parlando
+- rallentando
+- ritardando
+- sforzando
+- stringendo

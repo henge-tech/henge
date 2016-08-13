@@ -1,0 +1,33 @@
+---
+pattern: c_ives
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 23
+score: 1784400
+score_per_word: 118960
+hi_scored_words:
+  captives: 32723
+  chives: 43502
+  collectives: 59128
+  conceives: 73871
+  connectives: 84859
+  conservatives: 11827
+  contraceptives: 27187
+  cooperatives: 22752
+  creatives: 55307
+scored_words:
+  comparatives: 114095
+  comprehensives: 263319
+  contemplatives: 321529
+  contrives: 187720
+  correctives: 286363
+  corrosives: 200218
+not_scored_words:
+- carminatives
+- conjunctives
+- connives
+- consumptives
+- copulatives
+- correlatives
+- counteroffensives
+- curatives

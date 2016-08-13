@@ -1,0 +1,26 @@
+---
+pattern: wa_ds
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 16
+score: 1483729
+score_per_word: 114133
+hi_scored_words:
+  wads: 78366
+  wands: 38259
+  wards: 14091
+  warheads: 35621
+  warlords: 35544
+  wastelands: 83356
+  waterbirds: 97367
+  watersheds: 31243
+scored_words:
+  waistbands: 284244
+  watchbands: 179295
+  watchwords: 184595
+  waterbeds: 163201
+  wavebands: 258547
+not_scored_words:
+- washboards
+- washstands
+- waterboards

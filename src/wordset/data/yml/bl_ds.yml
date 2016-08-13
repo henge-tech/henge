@@ -1,0 +1,27 @@
+---
+pattern: bl_ds
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 17
+score: 1123193
+score_per_word: 74879
+hi_scored_words:
+  blackbirds: 63622
+  blackheads: 88886
+  bleeds: 40626
+  blends: 19194
+  blindfolds: 79714
+  blinds: 13452
+  blizzards: 76305
+  blonds: 63257
+  bloodhounds: 99220
+  bloods: 55416
+  bluebirds: 66163
+scored_words:
+  blackboards: 114399
+  blackguards: 111497
+  blockheads: 119173
+  blowhards: 112269
+not_scored_words:
+- Bluebeards
+- blueweeds

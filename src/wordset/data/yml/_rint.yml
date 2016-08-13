@@ -1,0 +1,28 @@
+---
+pattern: _rint
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 18
+score: 774109
+score_per_word: 55293
+hi_scored_words:
+  blueprint: 17615
+  fingerprint: 17885
+  footprint: 19389
+  forint: 69458
+  imprint: 13000
+  misprint: 75291
+  newsprint: 41127
+  print: 1013
+  reprint: 10888
+  sprint: 9358
+  thumbprint: 88319
+scored_words:
+  offprint: 179144
+  overprint: 103407
+  voiceprint: 128215
+not_scored_words:
+- Sprint
+- microprint
+- surprint
+- woodprint

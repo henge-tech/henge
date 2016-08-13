@@ -1,0 +1,53 @@
+---
+pattern: c_men
+hi_scored_words_count: 14
+scored_words_count: 10
+total_words: 43
+score: 2884959
+score_per_word: 120206
+hi_scored_words:
+  cameramen: 84689
+  cattlemen: 57663
+  cavemen: 90098
+  chairmen: 32472
+  churchmen: 88733
+  clergymen: 57282
+  coachmen: 88884
+  congressmen: 36033
+  councilmen: 95266
+  countrymen: 23175
+  craftsmen: 23413
+  crewmen: 74473
+  crossbowmen: 82518
+  cyclamen: 89130
+scored_words:
+  cabmen: 245539
+  catechumen: 206421
+  cavalrymen: 187893
+  cerumen: 236024
+  chessmen: 113881
+  clansmen: 182087
+  cognomen: 186547
+  committeemen: 281629
+  corpsmen: 185968
+  countrywomen: 135141
+not_scored_words:
+- Carmen
+- Chinamen
+- Cornishmen
+- camerawomen
+- chairwomen
+- chapmen
+- charwomen
+- churchwomen
+- clanswomen
+- clergywomen
+- coastguardsmen
+- committeewomen
+- congresswomen
+- councilwomen
+- countermen
+- cowmen
+- cracksmen
+- craftswomen
+- cragsmen

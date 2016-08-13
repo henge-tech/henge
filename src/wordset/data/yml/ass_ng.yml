@@ -1,0 +1,29 @@
+---
+pattern: ass_ng
+hi_scored_words_count: 10
+scored_words_count: 5
+total_words: 19
+score: 1052410
+score_per_word: 70160
+hi_scored_words:
+  assaulting: 42602
+  assembling: 18270
+  asserting: 21288
+  assessing: 10729
+  assigning: 16370
+  assimilating: 59330
+  assisting: 9231
+  associating: 28154
+  assuming: 4883
+  assuring: 21292
+scored_words:
+  assailing: 152110
+  assassinating: 105456
+  assaying: 111566
+  assenting: 158928
+  assuaging: 292201
+not_scored_words:
+- asseverating
+- assibilating
+- assoiling
+- assorting

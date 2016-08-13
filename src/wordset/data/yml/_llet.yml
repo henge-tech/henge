@@ -1,0 +1,33 @@
+---
+pattern: _llet
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 23
+score: 992235
+score_per_word: 58366
+hi_scored_words:
+  ballet: 9259
+  billet: 23224
+  bullet: 5067
+  collet: 58451
+  fillet: 26093
+  gullet: 71457
+  mallet: 26981
+  millet: 27265
+  mullet: 32585
+  pallet: 21189
+  pellet: 29121
+  skillet: 26683
+  wallet: 8567
+  willet: 85481
+scored_words:
+  cullet: 235520
+  pullet: 130382
+  sallet: 174910
+not_scored_words:
+- Debouillet
+- Millet
+- Rambouillet
+- quillet
+- rillet
+- surmullet

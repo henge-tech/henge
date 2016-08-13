@@ -1,0 +1,54 @@
+---
+pattern: sai_
+hi_scored_words_count: 18
+scored_words_count: 9
+total_words: 44
+score: 2115447
+score_per_word: 78349
+hi_scored_words:
+  said: 101
+  sail: 5355
+  sailboat: 28708
+  sailboats: 46473
+  sailed: 11574
+  sailer: 69578
+  sailfish: 67752
+  sailing: 4707
+  sailings: 74790
+  sailor: 6745
+  sailors: 10311
+  sails: 12299
+  sain: 53440
+  saint: 1999
+  sainthood: 72193
+  saintly: 42530
+  saints: 4881
+  saith: 20005
+scored_words:
+  saiga: 133122
+  sailboard: 212559
+  sailboards: 215552
+  sailcloth: 195157
+  sailmaker: 216017
+  sailplane: 101940
+  sailplanes: 115922
+  sainted: 118842
+  saintliness: 272895
+not_scored_words:
+- Saida
+- Saigon
+- Saipan
+- Saipanese
+- Saiph
+- Saiva
+- saigas
+- sailboarder
+- sailboarders
+- sailboarding
+- sailfishes
+- sainfoin
+- sainfoins
+- saintdom
+- saintlier
+- saintliest
+- saintlike

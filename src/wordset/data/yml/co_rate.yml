@@ -1,0 +1,26 @@
+---
+pattern: co_rate
+hi_scored_words_count: 12
+scored_words_count: 1
+total_words: 16
+score: 649977
+score_per_word: 49998
+hi_scored_words:
+  collaborate: 15519
+  commemorate: 21440
+  commensurate: 26853
+  commiserate: 96381
+  concentrate: 7358
+  confederate: 12303
+  conglomerate: 26103
+  consecrate: 60002
+  considerate: 23782
+  cooperate: 13248
+  corporate: 4414
+  corroborate: 46587
+scored_words:
+  coelenterate: 295987
+not_scored_words:
+- Confederate
+- computerate
+- concelebrate

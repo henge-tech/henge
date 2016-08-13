@@ -1,0 +1,40 @@
+---
+pattern: fi_rs
+hi_scored_words_count: 18
+scored_words_count: 5
+total_words: 30
+score: 1618301
+score_per_word: 70360
+hi_scored_words:
+  fibers: 12523
+  fiddlers: 65112
+  fielders: 98212
+  fighters: 8257
+  filers: 71979
+  filibusters: 86312
+  fillers: 29289
+  filmmakers: 17135
+  filters: 13618
+  financiers: 42735
+  finders: 29493
+  fingers: 3126
+  finishers: 32773
+  firecrackers: 69263
+  firefighters: 13301
+  firs: 39884
+  fishers: 30148
+  fitters: 55910
+scored_words:
+  fibbers: 208265
+  fieldworkers: 228307
+  fishmongers: 122100
+  fivers: 227492
+  fixers: 113067
+not_scored_words:
+- fifers
+- figurers
+- filibusterers
+- filterers
+- finaglers
+- firelighters
+- firers

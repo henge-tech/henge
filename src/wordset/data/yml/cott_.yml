@@ -1,0 +1,40 @@
+---
+pattern: cott_
+hi_scored_words_count: 10
+scored_words_count: 8
+total_words: 30
+score: 1982713
+score_per_word: 110150
+hi_scored_words:
+  cotta: 38591
+  cottage: 3996
+  cottager: 91934
+  cottages: 14393
+  cotter: 37712
+  cotton: 2651
+  cottons: 66219
+  cottonseed: 72591
+  cottontail: 67583
+  cottonwood: 31193
+scored_words:
+  cottagers: 149462
+  cottaging: 254356
+  cottar: 178262
+  cottier: 222622
+  cottoned: 273058
+  cottonmouth: 193287
+  cottonwoods: 118631
+  cottony: 166172
+not_scored_words:
+- Cottbus
+- Cotton
+- cottars
+- cotters
+- cottiers
+- cottonade
+- cottoning
+- cottonmouths
+- cottonseeds
+- cottontails
+- cottonweed
+- cottonweeds

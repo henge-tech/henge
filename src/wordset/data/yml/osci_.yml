@@ -1,0 +1,31 @@
+---
+pattern: osci_
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 21
+score: 647344
+score_per_word: 58849
+hi_scored_words:
+  oscillate: 59092
+  oscillates: 95406
+  oscillating: 41124
+  oscillation: 25417
+  oscillations: 26530
+  oscillator: 22088
+  oscillators: 39364
+  oscillatory: 54707
+  oscilloscope: 41046
+  oscilloscopes: 76394
+scored_words:
+  oscillated: 166176
+not_scored_words:
+- oscillogram
+- oscillograms
+- oscillograph
+- oscillographs
+- oscilloscopic
+- oscine
+- oscines
+- oscitancy
+- oscitant
+- oscitation

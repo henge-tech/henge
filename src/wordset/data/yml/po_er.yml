@@ -1,0 +1,77 @@
+---
+pattern: po_er
+hi_scored_words_count: 24
+scored_words_count: 17
+total_words: 67
+score: 3929739
+score_per_word: 95847
+hi_scored_words:
+  poacher: 67056
+  pointer: 10596
+  poker: 3440
+  polarizer: 62711
+  polder: 70896
+  policyholder: 61661
+  polisher: 66831
+  pollster: 71708
+  polluter: 79647
+  polyester: 16923
+  polymer: 14357
+  ponder: 17507
+  poorer: 15420
+  popper: 28899
+  porker: 73449
+  porter: 5528
+  poser: 24900
+  poster: 8303
+  postmaster: 22812
+  potentiometer: 56358
+  potter: 6453
+  pounder: 40133
+  powder: 3665
+  power: 189
+scored_words:
+  poetaster: 111782
+  poisoner: 144490
+  polarimeter: 157459
+  poler: 185674
+  policymaker: 121127
+  politicker: 139348
+  poller: 204116
+  pomander: 316363
+  popover: 252265
+  popularizer: 285373
+  pornographer: 105665
+  porringer: 164326
+  positioner: 119032
+  potboiler: 196652
+  pother: 171968
+  potholder: 224914
+  pottier: 199743
+not_scored_words:
+- Poitier
+- Popper
+- Porter
+- Portlander
+- Potter
+- pointier
+- pokier
+- politer
+- polygrapher
+- ponderer
+- pontonier
+- poofter
+- porer
+- porkier
+- portlier
+- portrayer
+- posher
+- postponer
+- postrider
+- posturer
+- potholer
+- pothunter
+- poulterer
+- pouncer
+- pourparler
+- pouter

@@ -1,0 +1,30 @@
+---
+pattern: _tand
+hi_scored_words_count: 10
+scored_words_count: 3
+total_words: 20
+score: 804682
+score_per_word: 61898
+hi_scored_words:
+  bandstand: 52293
+  grandstand: 33561
+  handstand: 90739
+  inkstand: 56800
+  misunderstand: 33172
+  newsstand: 30285
+  nightstand: 49303
+  stand: 839
+  understand: 585
+  withstand: 13388
+scored_words:
+  kickstand: 120777
+  outstand: 200252
+  washstand: 122688
+not_scored_words:
+- Rostand
+- bookstand
+- cabstand
+- candlestand
+- hardstand
+- hatstand
+- headstand

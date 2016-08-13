@@ -1,0 +1,53 @@
+---
+pattern: ca_m
+hi_scored_words_count: 11
+scored_words_count: 11
+total_words: 43
+score: 2372783
+score_per_word: 107853
+hi_scored_words:
+  cadmium: 23586
+  calcium: 9074
+  calm: 3458
+  cam: 6699
+  cannibalism: 41730
+  capitalism: 15260
+  capsicum: 54674
+  cardamom: 44294
+  catabolism: 52731
+  cataclysm: 57748
+  catechism: 28767
+scored_words:
+  cablegram: 174851
+  cairngorm: 123569
+  caladium: 262260
+  californium: 195618
+  cambium: 113948
+  candelabrum: 207516
+  capitulum: 238264
+  carborundum: 100561
+  careerism: 286329
+  carom: 120163
+  catastrophism: 211683
+not_scored_words:
+- CAM
+- Caelum
+- Caesarism
+- Calvinism
+- Cam
+- Canadianism
+- Capernaum
+- Carborundum
+- Cartesianism
+- Catholicism
+- cabalism
+- cabbageworm
+- calceiform
+- caldarium
+- cankerworm
+- cardiogram
+- carpogonium
+- cartelism
+- cartogram
+- caseworm
+- cataplasm

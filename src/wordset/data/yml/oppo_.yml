@@ -1,0 +1,39 @@
+---
+pattern: oppo_
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 29
+score: 1190432
+score_per_word: 51757
+hi_scored_words:
+  opponent: 8421
+  opponents: 6825
+  opportune: 43736
+  opportunism: 64629
+  opportunist: 55916
+  opportunistic: 28374
+  opportunists: 86527
+  opportunities: 1616
+  opportunity: 856
+  opposable: 82657
+  oppose: 7480
+  opposed: 3400
+  opposes: 21500
+  opposing: 8947
+  opposite: 2623
+  opposites: 32565
+  opposition: 2961
+  oppositional: 60664
+  oppositions: 65949
+scored_words:
+  opportunely: 213962
+  opportunistically: 144885
+  opposer: 128116
+  oppositely: 117823
+not_scored_words:
+- Opposition
+- opportuneness
+- opportunenesses
+- opposability
+- oppositeness
+- oppositenesses

@@ -1,0 +1,26 @@
+---
+pattern: negl_
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 16
+score: 564909
+score_per_word: 51355
+hi_scored_words:
+  neglect: 6714
+  neglected: 8145
+  neglectful: 94484
+  neglecting: 28943
+  neglects: 50346
+  negligence: 9793
+  negligent: 20368
+  negligently: 70666
+  negligible: 18145
+scored_words:
+  negligee: 101598
+  negligibly: 155707
+not_scored_words:
+- neglecter
+- neglectfully
+- neglectfulness
+- negligees
+- negligibility

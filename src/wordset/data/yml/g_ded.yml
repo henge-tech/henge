@@ -1,0 +1,25 @@
+---
+pattern: g_ded
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 15
+score: 816237
+score_per_word: 74203
+hi_scored_words:
+  gilded: 22136
+  girded: 88503
+  glided: 52881
+  graded: 15944
+  gridded: 91355
+  grounded: 9721
+  guarded: 13457
+  guided: 4833
+scored_words:
+  garlanded: 200482
+  gelded: 212142
+  goaded: 104783
+not_scored_words:
+- gadded
+- gasconaded
+- glissaded
+- grandstanded

@@ -1,0 +1,40 @@
+---
+pattern: _uent
+hi_scored_words_count: 16
+scored_words_count: 5
+total_words: 30
+score: 1471587
+score_per_word: 70075
+hi_scored_words:
+  affluent: 21826
+  confluent: 72067
+  congruent: 38446
+  consequent: 17477
+  constituent: 13104
+  delinquent: 20646
+  diluent: 63998
+  effluent: 20803
+  eloquent: 18712
+  fluent: 16443
+  frequent: 3550
+  influent: 68636
+  infrequent: 28905
+  sequent: 69324
+  subsequent: 3205
+  substituent: 90608
+scored_words:
+  grandiloquent: 182192
+  incongruent: 102135
+  inconsequent: 159026
+  obstruent: 225970
+  unguent: 234514
+not_scored_words:
+- circumfluent
+- diffluent
+- ineloquent
+- interfluent
+- magniloquent
+- mellifluent
+- obsequent
+- profluent
+- refluent

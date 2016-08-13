@@ -1,0 +1,51 @@
+---
+pattern: wh_ng
+hi_scored_words_count: 19
+scored_words_count: 12
+total_words: 41
+score: 3174146
+score_per_word: 102391
+hi_scored_words:
+  whacking: 63263
+  whaling: 25058
+  wheeling: 20309
+  wheezing: 45262
+  whimpering: 67910
+  whining: 20622
+  whipping: 16261
+  whirling: 35080
+  whirring: 65044
+  whisking: 91449
+  whispering: 17995
+  whistling: 20656
+  whitening: 25738
+  whiting: 26638
+  whizzing: 85126
+  wholesaling: 67432
+  whooping: 32155
+  whopping: 29482
+  whoring: 64152
+scored_words:
+  whapping: 315217
+  wheedling: 244267
+  whelming: 158690
+  whelping: 165917
+  whetting: 258701
+  whiling: 279301
+  whingeing: 211064
+  whinging: 100499
+  whitewashing: 138858
+  whittling: 110553
+  whomping: 232636
+  whooshing: 138811
+not_scored_words:
+- Wheeling
+- whamming
+- whickering
+- whiffing
+- whinnying
+- whipsawing
+- whishing
+- whitewing
+- whizzbang
+- whupping

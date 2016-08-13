@@ -1,0 +1,33 @@
+---
+pattern: d_cts
+hi_scored_words_count: 11
+scored_words_count: 7
+total_words: 23
+score: 1785056
+score_per_word: 99169
+hi_scored_words:
+  defects: 6021
+  deflects: 86102
+  depicts: 20745
+  detects: 26087
+  detracts: 70900
+  dialects: 20606
+  directs: 14112
+  disconnects: 45670
+  distracts: 72518
+  districts: 3679
+  ducts: 31281
+scored_words:
+  deconstructs: 169845
+  deducts: 156339
+  derelicts: 225875
+  destructs: 234513
+  disinfects: 233928
+  disrespects: 242707
+  dissects: 124128
+not_scored_words:
+- decocts
+- dejects
+- deselects
+- diffracts
+- disaffects

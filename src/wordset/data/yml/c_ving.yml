@@ -1,0 +1,23 @@
+---
+pattern: c_ving
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 13
+score: 901658
+score_per_word: 75138
+hi_scored_words:
+  calving: 58284
+  caregiving: 40328
+  carving: 12770
+  caving: 31984
+  cleaving: 66399
+  conceiving: 48527
+  conniving: 80948
+  conserving: 37490
+  craving: 13779
+  curving: 37414
+scored_words:
+  contriving: 149060
+  convolving: 324675
+not_scored_words:
+- commoving

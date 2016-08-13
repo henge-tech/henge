@@ -1,0 +1,45 @@
+---
+pattern: _uce
+hi_scored_words_count: 19
+scored_words_count: 4
+total_words: 35
+score: 1317929
+score_per_word: 57301
+hi_scored_words:
+  adduce: 81440
+  applesauce: 42624
+  deduce: 27421
+  deuce: 19608
+  douce: 64874
+  duce: 49492
+  induce: 8719
+  introduce: 3522
+  lettuce: 15889
+  luce: 28144
+  produce: 1271
+  puce: 74366
+  reduce: 2410
+  reintroduce: 64994
+  reproduce: 8808
+  sauce: 4678
+  seduce: 25816
+  spruce: 13395
+  truce: 17722
+scored_words:
+  conduce: 108725
+  overproduce: 300967
+  prepuce: 146076
+  traduce: 206968
+not_scored_words:
+- Bruce
+- Glauce
+- Luce
+- abduce
+- almuce
+- celtuce
+- educe
+- obduce
+- outproduce
+- reinduce
+- superinduce
+- underproduce

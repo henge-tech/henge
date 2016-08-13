@@ -1,0 +1,32 @@
+---
+pattern: na_g
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 22
+score: 1062770
+score_per_word: 81751
+hi_scored_words:
+  nag: 20064
+  nagging: 36429
+  nailing: 43638
+  naming: 8682
+  napping: 49285
+  narrating: 62969
+  narrowing: 23952
+  nauseating: 66037
+  navigating: 22671
+scored_words:
+  nabbing: 195437
+  nationalizing: 212611
+  nattering: 145545
+  naturalizing: 175450
+not_scored_words:
+- Nanchang
+- Nanjing
+- Nanning
+- namedropping
+- napalming
+- narcotizing
+- narcotrafficking
+- nasalizing
+- navig

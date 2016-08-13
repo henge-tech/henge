@@ -1,0 +1,28 @@
+---
+pattern: burs_
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 18
+score: 1150919
+score_per_word: 95909
+hi_scored_words:
+  bursa: 41468
+  bursar: 53193
+  bursaries: 48987
+  bursary: 43264
+  bursitis: 71343
+  burst: 5035
+  bursting: 15583
+  bursts: 17721
+scored_words:
+  burs: 105429
+  bursae: 291239
+  bursars: 259539
+  burse: 198118
+not_scored_words:
+- Bursa
+- Burschenschaft
+- bursarial
+- burseraceous
+- bursiform
+- burstone

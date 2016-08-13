@@ -1,0 +1,25 @@
+---
+pattern: view_
+hi_scored_words_count: 12
+scored_words_count: 2
+total_words: 15
+score: 631586
+score_per_word: 45113
+hi_scored_words:
+  view: 209
+  viewable: 31138
+  viewed: 2506
+  viewer: 10013
+  viewers: 6917
+  viewership: 71283
+  viewfinder: 31921
+  viewing: 3223
+  viewings: 60958
+  viewpoint: 15425
+  viewpoints: 16420
+  views: 1140
+scored_words:
+  viewfinders: 185524
+  viewless: 194909
+not_scored_words:
+- viewy

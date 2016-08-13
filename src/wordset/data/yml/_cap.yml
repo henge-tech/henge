@@ -1,0 +1,30 @@
+---
+pattern: _cap
+hi_scored_words_count: 9
+scored_words_count: 5
+total_words: 20
+score: 1432503
+score_per_word: 102321
+hi_scored_words:
+  cap: 2191
+  foolscap: 78888
+  handicap: 14564
+  hubcap: 95618
+  kneecap: 84529
+  madcap: 54220
+  nightcap: 59839
+  recap: 17826
+  skullcap: 75383
+scored_words:
+  blackcap: 153379
+  icecap: 147386
+  redcap: 220132
+  skycap: 233362
+  whitecap: 195186
+not_scored_words:
+- CAP
+- gelcap
+- mobcap
+- snowcap
+- toecap
+- uncap

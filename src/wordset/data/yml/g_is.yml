@@ -1,0 +1,40 @@
+---
+pattern: g_is
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 30
+score: 948021
+score_per_word: 79001
+hi_scored_words:
+  gastritis: 47817
+  gastroenteritis: 60393
+  genesis: 6930
+  gingivitis: 67756
+  glacis: 95857
+  glomerulonephritis: 63145
+  glycolysis: 69034
+  gnosis: 58519
+  gratis: 10363
+scored_words:
+  gametogenesis: 253790
+  glottis: 110782
+  gluconeogenesis: 103635
+not_scored_words:
+- Galois
+- Geminis
+- Genesis
+- Genghis
+- Gris
+- Guaranis
+- Gujaratis
+- gamogenesis
+- garibaldis
+- geotaxis
+- glossitis
+- glycogenesis
+- glyconeogenesis
+- gomphosis
+- gomutis
+- grigris
+- guaranis
+- gummosis

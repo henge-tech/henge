@@ -1,0 +1,33 @@
+---
+pattern: s_wed
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 23
+score: 992959
+score_per_word: 58409
+hi_scored_words:
+  sawed: 57798
+  screwed: 11618
+  sewed: 44404
+  shadowed: 38437
+  shewed: 63215
+  showed: 1670
+  skewed: 26264
+  slowed: 16812
+  snowed: 46042
+  sowed: 69385
+  spewed: 69118
+  stewed: 43459
+  stowed: 50684
+  swallowed: 12496
+scored_words:
+  slewed: 126598
+  sorrowed: 170191
+  strewed: 144768
+not_scored_words:
+- Swed
+- scrimshawed
+- seesawed
+- sinewed
+- snowplowed
+- strawed

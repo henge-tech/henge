@@ -1,0 +1,43 @@
+---
+pattern: mo_on
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 33
+score: 1328512
+score_per_word: 69921
+hi_scored_words:
+  mobilization: 20844
+  moderation: 11967
+  modernization: 17771
+  modification: 4346
+  modulation: 18611
+  molestation: 40599
+  monetization: 82219
+  monsoon: 21021
+  moon: 1650
+  moron: 20947
+  mortification: 51901
+  motion: 1418
+  motivation: 8710
+  mouton: 47643
+scored_words:
+  monopolization: 117942
+  morion: 216081
+  motoneuron: 202460
+  motorization: 230407
+  mouflon: 211975
+not_scored_words:
+- Moncton
+- Moon
+- Morison
+- Mormon
+- Moron
+- Morrison
+- Morton
+- Moulton
+- Mouton
+- modillion
+- mollification
+- monition
+- monocotyledon
+- moralization

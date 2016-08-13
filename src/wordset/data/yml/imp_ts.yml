@@ -1,0 +1,27 @@
+---
+pattern: imp_ts
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 17
+score: 1143027
+score_per_word: 71439
+hi_scored_words:
+  impacts: 4838
+  impairments: 22838
+  imparts: 49008
+  impediments: 35342
+  imperialists: 59322
+  implants: 12519
+  implements: 9019
+  imports: 6253
+  impoundments: 95192
+  impressionists: 66205
+  imprints: 44228
+  improvements: 3896
+scored_words:
+  impeachments: 256003
+  imperfects: 142441
+  imposts: 123288
+  imprisonments: 212635
+not_scored_words:
+- impressments

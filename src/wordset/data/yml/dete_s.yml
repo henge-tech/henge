@@ -1,0 +1,33 @@
+---
+pattern: dete_s
+hi_scored_words_count: 12
+scored_words_count: 3
+total_words: 23
+score: 1058950
+score_per_word: 70596
+hi_scored_words:
+  detections: 66074
+  detectives: 17804
+  detectors: 10598
+  detects: 26087
+  detentions: 60810
+  detergents: 37644
+  deteriorates: 63408
+  determinants: 17313
+  determinations: 19999
+  determines: 7514
+  deterrents: 85062
+  deters: 80795
+scored_words:
+  detents: 302797
+  determiners: 127749
+  detests: 135296
+not_scored_words:
+- detentes
+- detergencies
+- determinateness
+- determinatenesses
+- determinatives
+- determinedness
+- determinists
+- detesters

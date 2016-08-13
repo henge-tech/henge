@@ -1,0 +1,34 @@
+---
+pattern: re_nces
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 24
+score: 1265554
+score_per_word: 84370
+hi_scored_words:
+  recurrences: 62701
+  references: 1342
+  refinances: 85509
+  remembrances: 56947
+  reminiscences: 36595
+  remittances: 37974
+  renounces: 86633
+  resemblances: 93214
+  residences: 16488
+  resistances: 56970
+  resonances: 40377
+scored_words:
+  reassurances: 113086
+  reflectances: 250292
+  remonstrances: 155269
+  reverences: 172157
+not_scored_words:
+- Renaissances
+- reactances
+- reappearances
+- recognizances
+- recommences
+- reconnaissances
+- renaissances
+- renascences
+- resurgences

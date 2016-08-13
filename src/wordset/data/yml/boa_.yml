@@ -1,0 +1,67 @@
+---
+pattern: boa_
+hi_scored_words_count: 30
+scored_words_count: 10
+total_words: 57
+score: 3134509
+score_per_word: 78362
+hi_scored_words:
+  boa: 21104
+  boar: 19439
+  board: 424
+  boarded: 25473
+  boarder: 31698
+  boarders: 40058
+  boardgames: 76798
+  boarding: 9067
+  boardroom: 25826
+  boardrooms: 93562
+  boards: 2757
+  boardwalk: 21600
+  boars: 56534
+  boas: 40720
+  boast: 17283
+  boasted: 26832
+  boastful: 83129
+  boasting: 22719
+  boasts: 14200
+  boat: 1313
+  boater: 65629
+  boaters: 43290
+  boathouse: 44545
+  boating: 13892
+  boatload: 93041
+  boatman: 55158
+  boatmen: 86078
+  boats: 2967
+  boatswain: 61875
+  boatyard: 87799
+scored_words:
+  boardinghouse: 164447
+  boardings: 145221
+  boardwalks: 131081
+  boart: 322271
+  boaster: 135604
+  boastfully: 131837
+  boated: 215293
+  boathouses: 287711
+  boatloads: 176684
+  boatyards: 239550
+not_scored_words:
+- Boabdil
+- Boadicea
+- Boanerges
+- Boas
+- Boaz
+- boardinghouses
+- boarfish
+- boarhound
+- boarhounds
+- boarish
+- boasters
+- boastfulness
+- boatbill
+- boatbills
+- boatel
+- boatsman
+- boatswains

@@ -1,0 +1,26 @@
+---
+pattern: enc_e
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 16
+score: 470174
+score_per_word: 42743
+hi_scored_words:
+  encapsulate: 52984
+  encase: 85412
+  encircle: 58654
+  enclave: 30706
+  enclose: 20405
+  enclosure: 8358
+  encode: 22104
+  encore: 11033
+  encourage: 2820
+  encumbrance: 53400
+scored_words:
+  enceinte: 124298
+not_scored_words:
+- encage
+- encarnalize
+- enchase
+- encincture
+- encrinite

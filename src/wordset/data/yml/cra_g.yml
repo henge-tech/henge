@@ -1,0 +1,32 @@
+---
+pattern: cra_g
+hi_scored_words_count: 12
+scored_words_count: 6
+total_words: 22
+score: 1415828
+score_per_word: 78657
+hi_scored_words:
+  cracking: 11192
+  crackling: 35079
+  cradling: 94273
+  crafting: 20432
+  crag: 35747
+  cramming: 62345
+  cramping: 50225
+  cranking: 48672
+  crashing: 13797
+  crating: 91640
+  craving: 13779
+  crawling: 14592
+scored_words:
+  crabbing: 104985
+  craning: 167737
+  crannog: 258616
+  crapping: 123828
+  cratering: 158818
+  crazing: 110071
+not_scored_words:
+- Craig
+- cradlesong
+- craunching
+- crayoning

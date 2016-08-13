@@ -1,0 +1,23 @@
+---
+pattern: typo_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 13
+score: 1037845
+score_per_word: 94349
+hi_scored_words:
+  typo: 17557
+  typographic: 51030
+  typographical: 29469
+  typography: 26022
+  typological: 97083
+  typologies: 91208
+  typology: 36898
+  typos: 24433
+scored_words:
+  typographer: 144357
+  typographers: 286048
+  typographically: 233740
+not_scored_words:
+- typologically
+- typologist

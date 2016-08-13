@@ -1,0 +1,43 @@
+---
+pattern: l_rd
+hi_scored_words_count: 13
+scored_words_count: 6
+total_words: 33
+score: 1288048
+score_per_word: 67792
+hi_scored_words:
+  ladybird: 39853
+  laird: 24362
+  landlord: 7424
+  landward: 68040
+  lanyard: 31926
+  lard: 28989
+  leeward: 35138
+  leopard: 14051
+  leotard: 51442
+  lifeguard: 32106
+  lizard: 13886
+  loanword: 78499
+  lord: 745
+scored_words:
+  laggard: 112163
+  larboard: 192968
+  leftward: 103954
+  liard: 157995
+  lovebird: 126993
+  lumberyard: 167514
+not_scored_words:
+- Langobard
+- Layard
+- Leeward
+- Lenard
+- Leonard
+- Liard
+- Lollard
+- Lombard
+- Longford
+- Longobard
+- Lord
+- lapboard
+- leeboard
+- lyrebird

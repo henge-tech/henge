@@ -1,0 +1,41 @@
+---
+pattern: dent_
+hi_scored_words_count: 12
+scored_words_count: 9
+total_words: 31
+score: 2540640
+score_per_word: 120982
+hi_scored_words:
+  dent: 15066
+  dental: 11709
+  dentate: 81521
+  dented: 62714
+  dentin: 69271
+  dentist: 11471
+  dentistry: 12700
+  dentists: 22188
+  dentition: 78406
+  dents: 26459
+  denture: 41334
+  dentures: 39277
+scored_words:
+  dentally: 332792
+  dentelle: 209715
+  denticles: 256017
+  dentifrice: 197414
+  dentifrices: 270565
+  dentil: 254557
+  dentinal: 266183
+  dentine: 117326
+  denting: 163955
+not_scored_words:
+- Denton
+- dentalium
+- dentation
+- denticle
+- denticulate
+- denticulation
+- dentiform
+- dentilabial
+- dentilingual
+- dentoid

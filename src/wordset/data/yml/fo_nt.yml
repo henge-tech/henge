@@ -1,0 +1,25 @@
+---
+pattern: fo_nt
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 15
+score: 395625
+score_per_word: 49453
+hi_scored_words:
+  foment: 78827
+  fondant: 61229
+  font: 5180
+  footprint: 19389
+  forefront: 19360
+  forint: 69458
+  formant: 85021
+  fount: 57161
+scored_words: {}
+not_scored_words:
+- forespent
+- forestallment
+- forewent
+- forspent
+- forwent
+- foudroyant
+- foxhunt

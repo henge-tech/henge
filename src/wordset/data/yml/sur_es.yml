@@ -1,0 +1,30 @@
+---
+pattern: sur_es
+hi_scored_words_count: 11
+scored_words_count: 2
+total_words: 20
+score: 683065
+score_per_word: 52543
+hi_scored_words:
+  surcharges: 49316
+  sureties: 72915
+  surfaces: 6151
+  surgeries: 22403
+  surges: 32137
+  surnames: 23154
+  surpasses: 38193
+  surpluses: 34624
+  surprises: 12085
+  surrogates: 59657
+  survives: 20080
+scored_words:
+  surmises: 130024
+  surplices: 182326
+not_scored_words:
+- surbases
+- surceases
+- surcingles
+- suricates
+- surplusages
+- surtaxes
+- surtitles

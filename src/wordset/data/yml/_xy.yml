@@ -1,0 +1,37 @@
+---
+pattern: _xy
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 27
+score: 1239350
+score_per_word: 82623
+hi_scored_words:
+  apoplexy: 77136
+  boxy: 71039
+  epitaxy: 83914
+  epoxy: 20472
+  foxy: 29802
+  galaxy: 12149
+  hydroxy: 30883
+  orthodoxy: 22394
+  proxy: 10948
+  sexy: 6455
+  waxy: 44643
+scored_words:
+  cataplexy: 241071
+  doxy: 120745
+  heterodoxy: 142047
+  prexy: 325652
+not_scored_words:
+- Galaxy
+- Roxy
+- anthotaxy
+- ataraxy
+- braxy
+- metagalaxy
+- monohydroxy
+- phyllotaxy
+- polyhydroxy
+- radiogalaxy
+- supergalaxy
+- unorthodoxy

@@ -1,0 +1,30 @@
+---
+pattern: conf_d
+hi_scored_words_count: 14
+scored_words_count: 2
+total_words: 20
+score: 587297
+score_per_word: 36706
+hi_scored_words:
+  confederated: 78678
+  conferred: 12734
+  confessed: 14923
+  confided: 37660
+  configured: 8440
+  confined: 6519
+  confirmed: 2736
+  confiscated: 24222
+  conflicted: 35691
+  conformed: 44282
+  confound: 37758
+  confounded: 29780
+  confronted: 10858
+  confused: 3847
+scored_words:
+  conflated: 118744
+  confuted: 120425
+not_scored_words:
+- confabbed
+- confabulated
+- confected
+- confirmand

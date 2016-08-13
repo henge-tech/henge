@@ -1,0 +1,31 @@
+---
+pattern: om_s
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 21
+score: 890582
+score_per_word: 74215
+hi_scored_words:
+  omelets: 75370
+  omens: 50376
+  ominous: 25321
+  omissions: 14473
+  omits: 44616
+  omnibus: 18903
+  omnivorous: 78174
+  oms: 46192
+scored_words:
+  omegas: 152856
+  omelettes: 102689
+  omnibuses: 154022
+  omnivores: 127590
+not_scored_words:
+- Omahas
+- Omanis
+- omentums
+- omicrons
+- ominousness
+- omnifarious
+- omnivorousness
+- omphalos
+- omphaloses

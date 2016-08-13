@@ -1,0 +1,25 @@
+---
+pattern: nece_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 15
+score: 387428
+score_per_word: 38742
+hi_scored_words:
+  necessaries: 68367
+  necessarily: 2573
+  necessary: 611
+  necessitate: 30649
+  necessitated: 33686
+  necessitates: 42414
+  necessitating: 57966
+  necessities: 14054
+  necessity: 4659
+scored_words:
+  necessitous: 132449
+not_scored_words:
+- necessarian
+- necessaritarian
+- necessaritarianism
+- necessitarianism
+- necessitation

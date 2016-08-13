@@ -1,0 +1,26 @@
+---
+pattern: boo_r
+hi_scored_words_count: 9
+scored_words_count: 3
+total_words: 16
+score: 959846
+score_per_word: 79987
+hi_scored_words:
+  booger: 64904
+  bookbinder: 96369
+  bookkeeper: 35805
+  bookmaker: 39088
+  bookseller: 19709
+  boomer: 27225
+  boor: 61196
+  booster: 10271
+  boozer: 57679
+scored_words:
+  booklover: 162912
+  bookmarker: 264363
+  bootlegger: 120325
+not_scored_words:
+- Booker
+- boondoggler
+- bootlicker
+- boozier

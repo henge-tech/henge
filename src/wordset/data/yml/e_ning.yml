@@ -1,0 +1,32 @@
+---
+pattern: e_ning
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 22
+score: 1315658
+score_per_word: 101204
+hi_scored_words:
+  earning: 7453
+  enjoining: 92697
+  enlightening: 29514
+  entertaining: 6435
+  envisioning: 58415
+  evening: 1136
+  examining: 6489
+  explaining: 6393
+scored_words:
+  emboldening: 335001
+  enlivening: 140069
+  enshrining: 188132
+  entraining: 173092
+  entwining: 270832
+not_scored_words:
+- echeloning
+- emblazoning
+- emplaning
+- enchaining
+- encrimsoning
+- enplaning
+- enthroning
+- environing
+- eyeopening

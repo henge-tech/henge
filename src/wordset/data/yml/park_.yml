@@ -1,0 +1,28 @@
+---
+pattern: park_
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 18
+score: 634644
+score_per_word: 52887
+hi_scored_words:
+  park: 1270
+  parka: 38354
+  parkas: 76841
+  parked: 18777
+  parkin: 43695
+  parking: 5777
+  parkland: 27722
+  parkour: 77534
+  parks: 4412
+  parkway: 14970
+scored_words:
+  parkways: 113554
+  parky: 211738
+not_scored_words:
+- Park
+- Parker
+- Parkinson
+- Parkinsonism
+- Parkman
+- Parks

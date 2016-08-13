@@ -1,0 +1,21 @@
+---
+pattern: res_ce
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 11
+score: 488667
+score_per_word: 54296
+hi_scored_words:
+  resemblance: 14247
+  residence: 2845
+  resilience: 22925
+  resistance: 2427
+  resonance: 15545
+  resource: 5258
+  resurface: 66101
+  resurgence: 30830
+scored_words:
+  respondence: 328489
+not_scored_words:
+- Resistance
+- resplendence

@@ -1,0 +1,44 @@
+---
+pattern: b_her
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 34
+score: 1850662
+score_per_word: 97403
+hi_scored_words:
+  basher: 74167
+  bellwether: 72401
+  biographer: 32267
+  blather: 57553
+  bleacher: 58766
+  blusher: 95334
+  bother: 6047
+  brasher: 87532
+  breather: 35887
+  brother: 1040
+  burgher: 96900
+  butcher: 11347
+scored_words:
+  bather: 109853
+  bencher: 141860
+  bibliographer: 132423
+  birdwatcher: 158300
+  blucher: 106116
+  botcher: 318840
+  burnisher: 254029
+not_scored_words:
+- Beecher
+- Bircher
+- Blucher
+- Boucher
+- Britisher
+- backscratcher
+- bequeather
+- beseecher
+- besmircher
+- biogeographer
+- birther
+- blandisher
+- blither
+- brandisher
+- broacher

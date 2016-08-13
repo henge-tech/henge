@@ -1,0 +1,23 @@
+---
+pattern: _cade
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 13
+score: 775790
+score_per_word: 70526
+hi_scored_words:
+  arcade: 9898
+  barricade: 30087
+  brocade: 29702
+  cade: 35613
+  cascade: 13777
+  cavalcade: 48944
+  decade: 5875
+  facade: 18613
+  motorcade: 76792
+scored_words:
+  ambuscade: 176383
+  aquacade: 330106
+not_scored_words:
+- Cade
+- autocade

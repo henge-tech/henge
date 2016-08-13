@@ -1,0 +1,36 @@
+---
+pattern: moti_
+hi_scored_words_count: 19
+scored_words_count: 1
+total_words: 26
+score: 574035
+score_per_word: 28701
+hi_scored_words:
+  motif: 14763
+  motifs: 20971
+  motile: 69097
+  motility: 33228
+  motion: 1418
+  motioned: 38706
+  motionless: 25914
+  motions: 9979
+  motivate: 17974
+  motivated: 6951
+  motivates: 32290
+  motivating: 22607
+  motivation: 8710
+  motivational: 13317
+  motivations: 20371
+  motivator: 44310
+  motivators: 69548
+  motive: 8961
+  motives: 9247
+scored_words:
+  motioning: 105673
+not_scored_words:
+- motiles
+- motionlessly
+- motionlessness
+- motiveless
+- motivities
+- motivity

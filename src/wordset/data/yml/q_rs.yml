@@ -1,0 +1,30 @@
+---
+pattern: q_rs
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 20
+score: 1227410
+score_per_word: 102284
+hi_scored_words:
+  qualifiers: 21236
+  quantifiers: 64621
+  quarters: 4359
+  quasars: 61439
+  queers: 49382
+  quilters: 89016
+  quitters: 94656
+  quivers: 81877
+scored_words:
+  quartermasters: 109836
+  quavers: 196732
+  quenchers: 306982
+  questioners: 147274
+not_scored_words:
+- Quakers
+- qintars
+- quarrelers
+- quarriers
+- quibblers
+- quipsters
+- quizmasters
+- quizzers

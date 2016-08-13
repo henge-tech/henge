@@ -1,0 +1,39 @@
+---
+pattern: deli_s
+hi_scored_words_count: 13
+scored_words_count: 5
+total_words: 29
+score: 1488530
+score_per_word: 82696
+hi_scored_words:
+  deliberations: 22680
+  delicacies: 43091
+  delicatessens: 84778
+  delicious: 4562
+  delights: 13792
+  delimiters: 81580
+  delineates: 80441
+  delinquencies: 99059
+  delinquents: 60043
+  delirious: 27413
+  delis: 76077
+  deliveries: 11193
+  delivers: 8608
+scored_words:
+  deliberates: 198628
+  deliciousness: 187992
+  delimits: 215742
+  delineations: 123718
+  deliverers: 149133
+not_scored_words:
+- Delibes
+- Delicious
+- Delilahs
+- Delius
+- deliberateness
+- delicateness
+- delightedness
+- delimitates
+- deliquesces
+- deliriousness
+- deliriums

@@ -1,0 +1,32 @@
+---
+pattern: m_ker
+hi_scored_words_count: 8
+scored_words_count: 6
+total_words: 22
+score: 1278609
+score_per_word: 91329
+hi_scored_words:
+  maker: 5055
+  marker: 16290
+  matchmaker: 31482
+  meeker: 48054
+  moneymaker: 75902
+  moniker: 36220
+  moonraker: 94169
+  motherfucker: 31872
+scored_words:
+  mapmaker: 128156
+  masker: 107562
+  milker: 192237
+  mocker: 212165
+  mucker: 134005
+  muckraker: 165440
+not_scored_words:
+- Maker
+- merrymaker
+- metalworker
+- middlebreaker
+- mimicker
+- mistaker
+- mossbunker
+- mythmaker

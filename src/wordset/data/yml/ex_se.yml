@@ -1,0 +1,19 @@
+---
+pattern: ex_se
+hi_scored_words_count: 8
+scored_words_count: 0
+total_words: 9
+score: 152154
+score_per_word: 19019
+hi_scored_words:
+  excise: 18159
+  excuse: 3906
+  exercise: 1446
+  exorcise: 84785
+  expanse: 25931
+  expense: 2737
+  expertise: 7206
+  expose: 7984
+scored_words: {}
+not_scored_words:
+- extrorse

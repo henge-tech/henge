@@ -1,0 +1,35 @@
+---
+pattern: cra_e
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 25
+score: 598400
+score_per_word: 49866
+hi_scored_words:
+  crackle: 34672
+  cradle: 8451
+  craftspeople: 84546
+  crake: 86217
+  crane: 9484
+  crankcase: 66370
+  crape: 83140
+  crappie: 60509
+  crate: 19093
+  crave: 18894
+  craze: 22972
+scored_words:
+  crawlspace: 104052
+not_scored_words:
+- Crabbe
+- Craigie
+- Crane
+- crablike
+- crabwise
+- crackleware
+- craftsmanlike
+- cranage
+- craniate
+- crankle
+- crapulence
+- craquelure
+- crassitude

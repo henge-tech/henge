@@ -1,0 +1,45 @@
+---
+pattern: assu_
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 35
+score: 1234171
+score_per_word: 64956
+hi_scored_words:
+  assuage: 60466
+  assume: 2348
+  assumed: 3432
+  assumes: 5000
+  assuming: 4883
+  assumption: 5325
+  assumptions: 8751
+  assurance: 4341
+  assurances: 18072
+  assure: 4356
+  assured: 4896
+  assuredly: 29072
+  assures: 20074
+  assuring: 21292
+scored_words:
+  assuaged: 144197
+  assuaging: 292201
+  assumable: 199640
+  assuredness: 302531
+  assurer: 103294
+not_scored_words:
+- Assuan
+- Assumption
+- Assumptions
+- Assur
+- Assurbanipal
+- assuagement
+- assuagements
+- assuages
+- assuasive
+- assumably
+- assumedly
+- assumpsit
+- assumptive
+- assurednesses
+- assureds
+- assurgent

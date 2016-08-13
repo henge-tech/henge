@@ -1,0 +1,29 @@
+---
+pattern: im_al
+hi_scored_words_count: 10
+scored_words_count: 1
+total_words: 19
+score: 383976
+score_per_word: 34906
+hi_scored_words:
+  immaterial: 29489
+  immemorial: 54528
+  immoral: 16742
+  immortal: 9360
+  immunological: 36161
+  impartial: 14102
+  imperial: 4040
+  impersonal: 27602
+  impractical: 28292
+  improvisational: 56099
+scored_words:
+  imaginal: 107561
+not_scored_words:
+- Imperial
+- Imphal
+- immethodical
+- impedimental
+- imperatival
+- implacental
+- implicational
+- improvisatorial

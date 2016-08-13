@@ -1,0 +1,23 @@
+---
+pattern: _xt
+hi_scored_words_count: 11
+scored_words_count: 1
+total_words: 13
+score: 603287
+score_per_word: 50273
+hi_scored_words:
+  betwixt: 40783
+  context: 4701
+  ext: 14178
+  hypertext: 14287
+  next: 127
+  pretext: 21991
+  sext: 86131
+  subtext: 54479
+  teletext: 46242
+  text: 607
+  twixt: 86168
+scored_words:
+  urtext: 233593
+not_scored_words:
+- Xt

@@ -1,0 +1,31 @@
+---
+pattern: _lex
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 21
+score: 1286265
+score_per_word: 75662
+hi_scored_words:
+  circumflex: 59019
+  complex: 2318
+  culex: 89299
+  duplex: 23321
+  flex: 11433
+  ilex: 65005
+  lex: 18266
+  metroplex: 62442
+  multiplex: 28689
+  perplex: 69076
+  reflex: 13954
+  simplex: 21651
+  telex: 29904
+  triplex: 63193
+scored_words:
+  googolplex: 287020
+  quadruplex: 211876
+  retroflex: 229799
+not_scored_words:
+- Alex
+- Rolex
+- diplex
+- scolex

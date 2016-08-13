@@ -1,0 +1,30 @@
+---
+pattern: p_ides
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 20
+score: 490515
+score_per_word: 54501
+hi_scored_words:
+  peptides: 18545
+  peroxides: 82094
+  pesticides: 11297
+  polypeptides: 55330
+  polysaccharides: 53210
+  presides: 57868
+  prides: 41971
+  provides: 2866
+scored_words:
+  polyamides: 167334
+not_scored_words:
+- Parmenides
+- Pheidippides
+- Phidippides
+- Pierides
+- pancreatitides
+- parricides
+- patricides
+- pericarditides
+- polyneuritides
+- poolsides
+- pyelonephritides

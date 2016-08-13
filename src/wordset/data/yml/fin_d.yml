@@ -1,0 +1,23 @@
+---
+pattern: fin_d
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 523855
+score_per_word: 52385
+hi_scored_words:
+  finalized: 20503
+  financed: 19849
+  find: 109
+  fined: 16747
+  fingerboard: 59759
+  fingered: 28247
+  fingerprinted: 97503
+  finished: 1548
+  finned: 61240
+scored_words:
+  finessed: 218350
+not_scored_words:
+- Finland
+- finagled
+- finked

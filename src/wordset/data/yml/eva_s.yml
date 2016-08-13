@@ -1,0 +1,29 @@
+---
+pattern: eva_s
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 19
+score: 1506769
+score_per_word: 100451
+hi_scored_words:
+  evacuations: 60833
+  evacuees: 35622
+  evaluates: 19803
+  evaluations: 9088
+  evaluators: 43803
+  evangelicals: 32147
+  evangelists: 45529
+  evaporates: 62281
+  evaporators: 99310
+scored_words:
+  evacuates: 217156
+  evaders: 126717
+  evades: 110588
+  evaporites: 257886
+  evasions: 124689
+  evasiveness: 261317
+not_scored_words:
+- Evans
+- evanesces
+- evangelizes
+- evangels

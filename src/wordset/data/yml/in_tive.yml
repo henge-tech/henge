@@ -1,0 +1,62 @@
+---
+pattern: in_tive
+hi_scored_words_count: 28
+scored_words_count: 2
+total_words: 52
+score: 1305774
+score_per_word: 43525
+hi_scored_words:
+  inactive: 10630
+  inattentive: 61627
+  incentive: 8017
+  indicative: 12774
+  inductive: 22250
+  ineffective: 16758
+  infective: 44684
+  infinitive: 46060
+  informative: 11157
+  initiative: 4527
+  injunctive: 58186
+  innovative: 7953
+  inoperative: 57631
+  inquisitive: 30872
+  insensitive: 19630
+  instinctive: 34582
+  instructive: 21457
+  integrative: 25213
+  interactive: 6419
+  interpretative: 45084
+  interpretive: 19775
+  interrogative: 66676
+  intransitive: 64912
+  introspective: 38974
+  intuitive: 11315
+  invective: 58874
+  inventive: 20771
+  investigative: 12628
+scored_words:
+  inchoative: 144518
+  inhibitive: 321820
+not_scored_words:
+- inappreciative
+- inceptive
+- incommunicative
+- inconsecutive
+- incorporative
+- incubative
+- inculcative
+- indigestive
+- indistinctive
+- indurative
+- inflective
+- inflictive
+- insinuative
+- institutive
+- intellective
+- interceptive
+- intercommunicative
+- interpolative
+- interruptive
+- intoxicative
+- invigorative
+- invocative

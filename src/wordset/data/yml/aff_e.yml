@@ -1,0 +1,28 @@
+---
+pattern: aff_e
+hi_scored_words_count: 9
+scored_words_count: 2
+total_words: 18
+score: 603207
+score_per_word: 54837
+hi_scored_words:
+  affable: 50620
+  affaire: 62789
+  affectionate: 18489
+  affective: 21015
+  affiliate: 7278
+  affine: 37911
+  affirmative: 9858
+  affluence: 39012
+  affordable: 3687
+scored_words:
+  affiche: 103744
+  affricate: 248804
+not_scored_words:
+- affiance
+- affiliative
+- affinitive
+- affirmable
+- afflictive
+- affranchise
+- affricative

@@ -1,0 +1,54 @@
+---
+pattern: wo_d
+hi_scored_words_count: 27
+scored_words_count: 5
+total_words: 44
+score: 1568281
+score_per_word: 49008
+hi_scored_words:
+  wold: 36971
+  wolfhound: 78011
+  womanhood: 35045
+  wondered: 5846
+  wonderland: 22085
+  wood: 1058
+  wooded: 16839
+  woodland: 16286
+  woodshed: 91789
+  woodwind: 31560
+  wooed: 68060
+  word: 347
+  worded: 31452
+  workaround: 27733
+  worked: 1212
+  workload: 17744
+  world: 108
+  wormed: 88332
+  wormwood: 45514
+  worried: 5057
+  worsened: 37193
+  worshiped: 44388
+  worsted: 49368
+  would: 59
+  wound: 4736
+  wounded: 5054
+  wowed: 74321
+scored_words:
+  woad: 112200
+  wobbled: 119568
+  wolfed: 278670
+  womankind: 100094
+  wonted: 121581
+not_scored_words:
+- Wood
+- Woodard
+- Woodward
+- woaded
+- woald
+- womanized
+- womenkind
+- woodenhead
+- woofed
+- wooled
+- woolgathered
+- wormseed

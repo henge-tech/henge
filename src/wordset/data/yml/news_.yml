@@ -1,0 +1,64 @@
+---
+pattern: news_
+hi_scored_words_count: 27
+scored_words_count: 12
+total_words: 54
+score: 3337912
+score_per_word: 85587
+hi_scored_words:
+  news: 249
+  newsagent: 67162
+  newsagents: 66614
+  newsboy: 96134
+  newsboys: 79689
+  newscast: 36692
+  newscaster: 70092
+  newscasts: 59683
+  newsflash: 27631
+  newsgroup: 17786
+  newsgroups: 16069
+  newsletter: 2786
+  newsletters: 6125
+  newsmagazine: 82468
+  newsman: 86238
+  newspaper: 2198
+  newspapers: 3061
+  newsprint: 41127
+  newsreader: 34045
+  newsreaders: 77020
+  newsreel: 63422
+  newsreels: 80659
+  newsroom: 13915
+  newsrooms: 89050
+  newsstand: 30285
+  newsstands: 65046
+  newsworthy: 47052
+scored_words:
+  newscasters: 171626
+  newsflashes: 183485
+  newshound: 187310
+  newshounds: 146643
+  newsmen: 101103
+  newspaperman: 139075
+  newspapermen: 266505
+  newspeak: 105486
+  newsweeklies: 218526
+  newsweekly: 133599
+  newsworthiness: 288611
+  newsy: 133645
+not_scored_words:
+- NeWS
+- NeWSes
+- Newsweek
+- newsdealer
+- newsdealers
+- newsgirl
+- newsgirls
+- newsier
+- newsiest
+- newsmonger
+- newsmongers
+- newspaperwoman
+- newspaperwomen
+- newswoman
+- newswomen

@@ -1,0 +1,34 @@
+---
+pattern: _eep
+hi_scored_words_count: 17
+scored_words_count: 2
+total_words: 24
+score: 697475
+score_per_word: 36709
+hi_scored_words:
+  asleep: 5406
+  beep: 19017
+  bleep: 36378
+  cheep: 39301
+  creep: 11187
+  deep: 795
+  jeep: 10987
+  keep: 287
+  peep: 15985
+  seep: 45420
+  sheep: 3750
+  sleep: 1218
+  steep: 7188
+  sweep: 7366
+  upkeep: 30429
+  veep: 94959
+  weep: 15057
+scored_words:
+  barkeep: 139610
+  oversleep: 213135
+not_scored_words:
+- Heep
+- Jeep
+- Veep
+- cassareep
+- upsweep

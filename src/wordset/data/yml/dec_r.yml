@@ -1,0 +1,37 @@
+---
+pattern: dec_r
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 27
+score: 1135216
+score_per_word: 94601
+hi_scored_words:
+  decanter: 36636
+  deceiver: 57424
+  decider: 86516
+  decipher: 26099
+  declarer: 81669
+  decoder: 19953
+  decor: 11481
+  decorator: 25774
+scored_words:
+  deciliter: 202168
+  decimeter: 214694
+  deckchair: 114809
+  decomposer: 257993
+not_scored_words:
+- Decatur
+- December
+- Decker
+- decalcifier
+- decaliter
+- decameter
+- decapitator
+- decelerator
+- decemvir
+- decimator
+- declaimer
+- decliner
+- declinometer
+- decoyer
+- decrier

@@ -1,0 +1,63 @@
+---
+pattern: s_ists
+hi_scored_words_count: 13
+scored_words_count: 17
+total_words: 53
+score: 3884523
+score_per_word: 129484
+hi_scored_words:
+  satanists: 88903
+  scientists: 4816
+  secularists: 95246
+  separatists: 56389
+  socialists: 26082
+  sociologists: 41271
+  soloists: 39178
+  specialists: 8619
+  stockists: 74341
+  strategists: 46542
+  stylists: 43020
+  subsists: 96052
+  supremacists: 95650
+scored_words:
+  sadists: 172624
+  satirists: 167011
+  saxophonists: 174378
+  secessionists: 189724
+  segregationists: 275489
+  seismologists: 158208
+  semifinalists: 115072
+  sentimentalists: 133958
+  sexists: 283972
+  shortlists: 173863
+  sophists: 103739
+  spiritualists: 109559
+  suffragists: 173977
+  surrealists: 112037
+  survivalists: 282506
+  syndicalists: 270962
+  synergists: 271335
+not_scored_words:
+- Satanists
+- Scientologists
+- Shintoists
+- Sinologists
+- sadomasochists
+- scenarists
+- semanticists
+- seminarists
+- sensationalists
+- sensualists
+- sericulturists
+- serologists
+- sexologists
+- shirtwaists
+- sitarists
+- sociobiologists
+- sociolinguists
+- solipsists
+- somnambulists
+- speleologists
+- structuralists
+- symbolists
+- symphonists

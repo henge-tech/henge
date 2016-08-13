@@ -1,0 +1,48 @@
+---
+pattern: sequ_
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 38
+score: 1693330
+score_per_word: 67733
+hi_scored_words:
+  sequel: 9943
+  sequelae: 58776
+  sequels: 30611
+  sequence: 3796
+  sequenced: 34078
+  sequencer: 38736
+  sequencers: 75212
+  sequences: 12999
+  sequencing: 14701
+  sequent: 69324
+  sequential: 15129
+  sequentially: 30501
+  sequester: 80869
+  sequestered: 60439
+  sequestration: 41610
+  sequin: 47187
+  sequined: 67047
+  sequins: 41167
+  sequitur: 58080
+  sequoia: 34614
+scored_words:
+  sequela: 213659
+  sequently: 189681
+  sequestering: 104460
+  sequinned: 236793
+  sequoias: 123918
+not_scored_words:
+- Sequoya
+- Sequoyah
+- sequacious
+- sequaciously
+- sequacity
+- sequesters
+- sequestrable
+- sequestrate
+- sequestrated
+- sequestrates
+- sequestrating
+- sequestrations
+- sequestrator

@@ -1,0 +1,85 @@
+---
+pattern: fl_t
+hi_scored_words_count: 25
+scored_words_count: 14
+total_words: 75
+score: 3840700
+score_per_word: 98479
+hi_scored_words:
+  flagrant: 35966
+  flamboyant: 36866
+  flashlight: 19668
+  flashpoint: 33296
+  flat: 1408
+  flatboat: 97076
+  flaunt: 47002
+  fleet: 3391
+  flight: 1496
+  flint: 9777
+  flippant: 57510
+  flirt: 14440
+  flit: 48684
+  float: 5725
+  floodlight: 86215
+  floodlit: 83682
+  florist: 18329
+  flout: 81822
+  flowchart: 41323
+  flowerpot: 97016
+  flt: 51285
+  fluent: 16443
+  fluorescent: 15098
+  flutist: 78091
+  flyweight: 82149
+scored_words:
+  flagellant: 170706
+  flageolet: 227020
+  flashiest: 306351
+  flatfoot: 161033
+  flattest: 159807
+  flatulent: 141094
+  fleetest: 203079
+  flibbertigibbet: 159874
+  flimsiest: 264100
+  flocculent: 225044
+  florescent: 102012
+  floret: 136550
+  floruit: 279131
+  flysheet: 241141
+not_scored_words:
+- Flatt
+- Flaubert
+- Flint
+- flabbergast
+- flabbiest
+- flakiest
+- flameout
+- flashest
+- flasket
+- flatfeet
+- flatlet
+- flauntiest
+- flavescent
+- fleapit
+- fleawort
+- fleeciest
+- fleshiest
+- fleshliest
+- fleshpot
+- fliest
+- flightiest
+- flintiest
+- flippest
+- floatiest
+- flocculant
+- floppiest
+- flossiest
+- floweret
+- floweriest
+- fluctuant
+- fluffiest
+- fluidextract
+- flukiest
+- flushest
+- flyboat
+- flypast

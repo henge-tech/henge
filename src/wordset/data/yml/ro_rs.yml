@@ -1,0 +1,47 @@
+---
+pattern: ro_rs
+hi_scored_words_count: 18
+scored_words_count: 10
+total_words: 37
+score: 2523050
+score_per_word: 90108
+hi_scored_words:
+  roadrunners: 75639
+  roars: 42677
+  roasters: 59282
+  robbers: 23750
+  rockers: 22416
+  rogers: 5386
+  rollers: 18981
+  rollovers: 80141
+  roofers: 77028
+  roosters: 49540
+  rosters: 26133
+  rotors: 30373
+  rottweilers: 69446
+  roughriders: 82963
+  rounders: 43990
+  routers: 11895
+  rovers: 22161
+  rowers: 48883
+scored_words:
+  roadsters: 113458
+  roamers: 211935
+  romancers: 179793
+  rompers: 130751
+  roomers: 300115
+  rooters: 156478
+  ropers: 128715
+  rotators: 118765
+  rotifers: 153811
+  rotters: 238545
+not_scored_words:
+- Rodgers
+- Rogers
+- Rottweilers
+- Roulers
+- roarers
+- roisterers
+- roisters
+- ropedancers
+- rototillers

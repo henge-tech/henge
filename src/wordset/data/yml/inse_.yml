@@ -1,0 +1,60 @@
+---
+pattern: inse_
+hi_scored_words_count: 23
+scored_words_count: 12
+total_words: 50
+score: 3240270
+score_per_word: 92579
+hi_scored_words:
+  inseam: 49078
+  insect: 12074
+  insecticidal: 87614
+  insecticide: 30495
+  insecticides: 30305
+  insects: 6532
+  insecure: 16931
+  insecurities: 48383
+  insecurity: 20115
+  insemination: 40863
+  insensible: 59210
+  insensitive: 19630
+  insensitivity: 53249
+  inseparable: 25892
+  inseparably: 82206
+  insert: 5494
+  inserted: 6965
+  inserting: 14533
+  insertion: 11140
+  insertions: 26367
+  inserts: 20140
+  inset: 26527
+  insets: 86136
+scored_words:
+  inseams: 272526
+  insectivore: 203118
+  insectivores: 235591
+  insectivorous: 110031
+  insecurely: 217004
+  inseminate: 254368
+  inseminated: 156796
+  insensate: 216767
+  insensibility: 138936
+  insensibly: 134831
+  insensitively: 265779
+  inseparability: 254644
+not_scored_words:
+- insectarium
+- insectile
+- inseminates
+- inseminating
+- inseminator
+- insensately
+- insensateness
+- insensitiveness
+- insensitivenesses
+- insentience
+- insentient
+- inseparables
+- insessorial
+- insetting
+- inseverable

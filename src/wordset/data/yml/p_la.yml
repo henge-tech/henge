@@ -1,0 +1,40 @@
+---
+pattern: p_la
+hi_scored_words_count: 10
+scored_words_count: 4
+total_words: 30
+score: 1181997
+score_per_word: 84428
+hi_scored_words:
+  paella: 54746
+  parabola: 57108
+  patella: 50138
+  payola: 87743
+  peninsula: 6785
+  pergola: 64924
+  phyla: 81534
+  predella: 96922
+  primula: 76260
+  pula: 39671
+scored_words:
+  papilla: 110659
+  pianola: 241605
+  potentilla: 107495
+  prunella: 106407
+not_scored_words:
+- Padilla
+- Pamela
+- Paula
+- Pella
+- Pensacola
+- Pianola
+- Pola
+- Priscilla
+- Puebla
+- Pula
+- panatela
+- panatella
+- planula
+- plugola
+- premaxilla
+- pteryla

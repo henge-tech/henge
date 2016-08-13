@@ -1,0 +1,72 @@
+---
+pattern: lo_d
+hi_scored_words_count: 28
+scored_words_count: 17
+total_words: 62
+score: 3971443
+score_per_word: 88254
+hi_scored_words:
+  load: 2088
+  loaded: 3605
+  loaned: 28308
+  loanword: 78499
+  loathed: 66407
+  lobbied: 41911
+  lobed: 70102
+  localized: 21086
+  located: 1147
+  locked: 3492
+  lodged: 12940
+  logged: 4007
+  loggerhead: 67243
+  longed: 24552
+  looked: 1044
+  loomed: 49825
+  looped: 37440
+  loosed: 53196
+  loosened: 39313
+  looted: 42318
+  lopsided: 46879
+  lord: 745
+  loud: 3387
+  lounged: 96762
+  loved: 1682
+  lowed: 79947
+  lowered: 8344
+  lowland: 29759
+scored_words:
+  loafed: 165543
+  lobbed: 111804
+  lobotomized: 265207
+  lofted: 119039
+  logwood: 238671
+  loitered: 178776
+  lolled: 209104
+  longhaired: 116101
+  longhand: 117230
+  loped: 232251
+  lopped: 121646
+  lorded: 255667
+  loudmouthed: 288501
+  loused: 205253
+  louvered: 115913
+  lovebird: 126993
+  lovechild: 187716
+not_scored_words:
+- Lockheed
+- Lockwood
+- Lolland
+- Lollard
+- Lombard
+- Lomond
+- Lond
+- Longford
+- Longobard
+- Lord
+- Loyd
+- locoweed
+- lolloped
+- lollygagged
+- longsighted
+- loured
+- lowbred

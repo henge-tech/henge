@@ -1,0 +1,44 @@
+---
+pattern: intr_s
+hi_scored_words_count: 9
+scored_words_count: 4
+total_words: 34
+score: 873074
+score_per_word: 67159
+hi_scored_words:
+  intranets: 60001
+  intravenous: 19945
+  intricacies: 42050
+  intrigues: 40070
+  introduces: 8842
+  introductions: 15540
+  intros: 38240
+  intruders: 33138
+  intrusions: 48634
+scored_words:
+  intriguers: 163243
+  introverts: 121418
+  intrudes: 102709
+  intrusiveness: 179244
+not_scored_words:
+- intractableness
+- intractablenesses
+- intracutaneous
+- intrados
+- intradoses
+- intrans
+- intransigencies
+- intransigents
+- intransitiveness
+- intransitivenesses
+- intransitives
+- intransitivities
+- intravenouses
+- intrepidness
+- introits
+- introjections
+- introjects
+- intromissions
+- introspectiveness
+- introspectivenesses
+- introspects

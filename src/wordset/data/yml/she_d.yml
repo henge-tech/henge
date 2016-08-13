@@ -1,0 +1,35 @@
+---
+pattern: she_d
+hi_scored_words_count: 9
+scored_words_count: 6
+total_words: 25
+score: 1266441
+score_per_word: 84429
+hi_scored_words:
+  she'd: 7293
+  sheared: 53414
+  sheathed: 63708
+  shed: 4616
+  shelled: 38818
+  sheltered: 14183
+  shelved: 42334
+  shepherd: 6871
+  shewed: 63215
+scored_words:
+  sheepfold: 124432
+  sheepshead: 104288
+  sheered: 264678
+  sheeted: 123086
+  shepherded: 144540
+  sherd: 210965
+not_scored_words:
+- Sheffield
+- Shepard
+- Shepherd
+- Sheppard
+- Sherwood
+- Shetland
+- sheaved
+- shellacked
+- shellshocked
+- shend

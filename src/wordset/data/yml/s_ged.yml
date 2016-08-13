@@ -1,0 +1,51 @@
+---
+pattern: s_ged
+hi_scored_words_count: 13
+scored_words_count: 14
+total_words: 41
+score: 3145796
+score_per_word: 116510
+hi_scored_words:
+  sabotaged: 72711
+  salvaged: 40310
+  shagged: 72889
+  shrugged: 17590
+  singed: 74847
+  slugged: 95577
+  smudged: 96771
+  snagged: 54885
+  staged: 22791
+  stringed: 43941
+  submerged: 20585
+  supercharged: 39851
+  surged: 37084
+scored_words:
+  sagged: 106031
+  sandbagged: 273423
+  savaged: 108276
+  scavenged: 133938
+  scourged: 121250
+  scrounged: 207649
+  shortchanged: 143795
+  slagged: 247020
+  slogged: 206488
+  splurged: 178453
+  sponged: 211577
+  stockinged: 149710
+  surcharged: 142918
+  swaged: 225436
+not_scored_words:
+- Szeged
+- scagged
+- scrimmaged
+- selvaged
+- singsonged
+- sledged
+- snogged
+- snugged
+- spanged
+- sprigged
+- swagged
+- swigged
+- swinged
+- syringed

@@ -1,0 +1,25 @@
+---
+pattern: _nnel
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 723477
+score_per_word: 60289
+hi_scored_words:
+  channel: 1754
+  fennel: 34945
+  flannel: 17312
+  funnel: 19994
+  kennel: 17043
+  multichannel: 39327
+  personnel: 5198
+  tunnel: 5676
+scored_words:
+  antipersonnel: 131517
+  gunnel: 175974
+  rechannel: 155824
+  runnel: 118913
+not_scored_words:
+- scrannel
+- trunnel
+- unkennel

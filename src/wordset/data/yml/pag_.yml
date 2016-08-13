@@ -1,0 +1,40 @@
+---
+pattern: pag_
+hi_scored_words_count: 15
+scored_words_count: 3
+total_words: 30
+score: 964225
+score_per_word: 53568
+hi_scored_words:
+  pagan: 9152
+  paganism: 31319
+  pagans: 31121
+  page: 324
+  pageant: 15662
+  pageantry: 68273
+  pageants: 47386
+  paged: 48496
+  pager: 23463
+  pagers: 41813
+  pages: 828
+  pagination: 47653
+  paging: 20784
+  pagoda: 30362
+  pagodas: 82945
+scored_words:
+  pageboy: 177555
+  paginate: 148438
+  paginated: 138651
+not_scored_words:
+- Paganini
+- Page
+- Paglia
+- pagandom
+- paganish
+- paganize
+- pageboys
+- pageful
+- paginal
+- paginates
+- paginating
+- pagurian

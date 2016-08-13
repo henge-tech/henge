@@ -1,0 +1,38 @@
+---
+pattern: occu_
+hi_scored_words_count: 21
+scored_words_count: 4
+total_words: 28
+score: 895890
+score_per_word: 35835
+hi_scored_words:
+  occult: 15480
+  occultation: 66622
+  occultism: 63606
+  occupancy: 14615
+  occupant: 20964
+  occupants: 16986
+  occupation: 3210
+  occupational: 15765
+  occupations: 7308
+  occupied: 3417
+  occupier: 51842
+  occupiers: 45867
+  occupies: 17185
+  occupy: 8830
+  occupying: 13858
+  occur: 2093
+  occurred: 2166
+  occurrence: 6445
+  occurrences: 15453
+  occurring: 7019
+  occurs: 3211
+scored_words:
+  occultist: 104867
+  occultists: 163779
+  occupancies: 103363
+  occupationally: 121939
+not_scored_words:
+- occultly
+- occultness
+- occults

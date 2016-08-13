@@ -1,0 +1,47 @@
+---
+pattern: hy_a
+hi_scored_words_count: 13
+scored_words_count: 10
+total_words: 37
+score: 2258202
+score_per_word: 98182
+hi_scored_words:
+  hydra: 26410
+  hydrangea: 52125
+  hyena: 41728
+  hyperbola: 95149
+  hyperglycemia: 61318
+  hypermedia: 51976
+  hyperplasia: 31884
+  hyperthermia: 61045
+  hypoglycemia: 36234
+  hypoplasia: 85777
+  hypothermia: 39097
+  hypoxia: 33797
+  hysteria: 23386
+scored_words:
+  hydria: 269823
+  hydrophobia: 151212
+  hyla: 128126
+  hyperemia: 175077
+  hyperesthesia: 120067
+  hyperopia: 122848
+  hypha: 301908
+  hypochondria: 104541
+  hypoglycaemia: 104725
+  hypomania: 139949
+not_scored_words:
+- Hydra
+- Hygeia
+- Hyrcania
+- hydromedusa
+- hyperdulia
+- hyperkinesia
+- hypermetropia
+- hyperphagia
+- hyperpyrexia
+- hypesthesia
+- hypochromia
+- hypoderma
+- hyposthenia
+- hypozeugma

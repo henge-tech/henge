@@ -1,0 +1,24 @@
+---
+pattern: deep_
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 14
+score: 395106
+score_per_word: 39510
+hi_scored_words:
+  deep: 795
+  deepen: 23419
+  deepened: 36885
+  deepening: 25160
+  deepens: 51524
+  deeper: 4490
+  deepest: 10573
+  deeply: 3832
+  deeps: 69228
+scored_words:
+  deepness: 169200
+not_scored_words:
+- deepfreeze
+- deepfreezes
+- deepfroze
+- deepfrozen

@@ -1,0 +1,22 @@
+---
+pattern: ma_tic
+hi_scored_words_count: 8
+scored_words_count: 1
+total_words: 12
+score: 616806
+score_per_word: 68534
+hi_scored_words:
+  macrobiotic: 94581
+  magmatic: 79545
+  magnetic: 4469
+  majestic: 10057
+  masochistic: 77740
+  mastic: 56485
+  materialistic: 35915
+  mathematic: 81335
+scored_words:
+  mantic: 176679
+not_scored_words:
+- Masoretic
+- maieutic
+- maternalistic

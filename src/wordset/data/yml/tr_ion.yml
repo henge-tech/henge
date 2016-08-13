@@ -1,0 +1,51 @@
+---
+pattern: tr_ion
+hi_scored_words_count: 26
+scored_words_count: 7
+total_words: 41
+score: 1861303
+score_per_word: 56403
+hi_scored_words:
+  traction: 18551
+  tradition: 3063
+  transaction: 4134
+  transcription: 6639
+  transduction: 27878
+  transfiguration: 49284
+  transformation: 5268
+  transfusion: 26910
+  transgression: 33435
+  transition: 8975
+  translation: 2389
+  transliteration: 45895
+  translocation: 34221
+  transmigration: 72534
+  transmission: 4856
+  transmutation: 51605
+  transpiration: 58496
+  transplantation: 12355
+  transportation: 3013
+  transposition: 42837
+  transubstantiation: 96917
+  trepidation: 42576
+  triangulation: 37321
+  tribulation: 31143
+  trillion: 11627
+  truncation: 43763
+scored_words:
+  transfixion: 194360
+  transmogrification: 122348
+  transudation: 128457
+  triskelion: 190160
+  trituration: 108260
+  trivialization: 216674
+  trunnion: 125359
+not_scored_words:
+- Transfiguration
+- tranquilization
+- tredecillion
+- trephination
+- trilateration
+- tripartition
+- triplication
+- trisection

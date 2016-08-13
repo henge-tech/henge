@@ -1,0 +1,42 @@
+---
+pattern: m_zed
+hi_scored_words_count: 15
+scored_words_count: 9
+total_words: 32
+score: 2442811
+score_per_word: 101783
+hi_scored_words:
+  magnetized: 68973
+  marginalized: 32221
+  materialized: 45979
+  maximized: 42630
+  mechanized: 40072
+  memorized: 45830
+  mesmerized: 48517
+  metabolized: 60172
+  militarized: 96257
+  miniaturized: 80896
+  minimized: 21415
+  mobilized: 36417
+  modernized: 43095
+  monopolized: 88132
+  motorized: 20785
+scored_words:
+  marbleized: 264442
+  memorialized: 105386
+  mercerized: 176763
+  metalized: 213150
+  metastasized: 151017
+  modularized: 181415
+  moisturized: 156139
+  monetized: 149290
+  mythologized: 273818
+not_scored_words:
+- macadamized
+- martyrized
+- melodized
+- metricized
+- microminiaturized
+- mongrelized
+- monumentalized
+- moralized

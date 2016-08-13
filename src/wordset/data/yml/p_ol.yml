@@ -1,0 +1,33 @@
+---
+pattern: p_ol
+hi_scored_words_count: 12
+scored_words_count: 4
+total_words: 23
+score: 814653
+score_per_word: 50915
+hi_scored_words:
+  paracetamol: 55361
+  parasol: 36596
+  pathol: 31131
+  patrol: 7443
+  petrol: 15215
+  phenol: 30752
+  pistol: 8220
+  pol: 16241
+  pool: 2220
+  preschool: 14789
+  protocol: 9453
+  psychol: 38957
+scored_words:
+  parol: 127079
+  pentachlorophenol: 141452
+  playschool: 158886
+  pyrogallol: 120858
+not_scored_words:
+- Pol
+- paleontol
+- pentylenetetrazol
+- philol
+- phonol
+- plasmasol
+- precool

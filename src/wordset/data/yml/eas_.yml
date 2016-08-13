@@ -1,0 +1,48 @@
+---
+pattern: eas_
+hi_scored_words_count: 21
+scored_words_count: 6
+total_words: 38
+score: 1728794
+score_per_word: 64029
+hi_scored_words:
+  ease: 2909
+  eased: 27089
+  easel: 27664
+  easels: 68972
+  easement: 28086
+  easements: 40043
+  eases: 41862
+  easier: 2191
+  easiest: 9044
+  easily: 1042
+  easiness: 70609
+  easing: 29400
+  east: 520
+  eastbound: 36603
+  easterly: 26673
+  eastern: 1835
+  easternmost: 71346
+  eastward: 21810
+  eastwards: 53935
+  easy: 398
+  easygoing: 64538
+scored_words:
+  easeful: 151064
+  easterlies: 311498
+  easterner: 241832
+  easterners: 105059
+  easting: 122760
+  eastwardly: 170012
+not_scored_words:
+- East
+- Eastbourne
+- Easter
+- Eastern
+- Easterner
+- Easters
+- Eastertide
+- Eastertides
+- Eastman
+- Easts
+- Eastwood

@@ -1,0 +1,54 @@
+---
+pattern: f_ne
+hi_scored_words_count: 18
+scored_words_count: 11
+total_words: 44
+score: 2844919
+score_per_word: 98100
+hi_scored_words:
+  famine: 13194
+  fane: 61947
+  fanzine: 51208
+  feline: 23261
+  feminine: 8362
+  fettuccine: 91285
+  fieldstone: 88786
+  figurine: 21333
+  fine: 517
+  firestone: 29513
+  flagstone: 59222
+  fluorine: 40619
+  foregone: 43286
+  fortune: 2966
+  francophone: 33534
+  freephone: 77715
+  freestone: 69006
+  frontline: 14340
+scored_words:
+  fascine: 205241
+  ferrocene: 206891
+  flavone: 304585
+  fleabane: 183573
+  floatplane: 121977
+  fluorene: 239933
+  footstone: 113900
+  forborne: 283462
+  forgone: 100259
+  frangipane: 248178
+  fullerene: 106826
+not_scored_words:
+- Ferne
+- Fescennine
+- Firestone
+- Florentine
+- Florine
+- Fokine
+- Folkestone
+- Fortune
+- Francine
+- Francophone
+- ferine
+- flavine
+- floatstone
+- fluviomarine
+- fordone

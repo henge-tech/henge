@@ -1,0 +1,70 @@
+---
+pattern: _lant
+hi_scored_words_count: 20
+scored_words_count: 12
+total_words: 60
+score: 2754654
+score_per_word: 86082
+hi_scored_words:
+  anticoagulant: 54574
+  appellant: 22281
+  assailant: 39648
+  coolant: 25934
+  eggplant: 28718
+  gallant: 17110
+  implant: 22432
+  jubilant: 49182
+  nonchalant: 66472
+  petulant: 64996
+  plant: 1294
+  propellant: 40045
+  replant: 79729
+  sealant: 38002
+  slant: 19772
+  stimulant: 25955
+  supplant: 42838
+  transplant: 15393
+  vigilant: 21682
+  volant: 66122
+scored_words:
+  ambulant: 185477
+  aslant: 142325
+  coagulant: 119519
+  explant: 190615
+  flagellant: 170706
+  houseplant: 108310
+  inhalant: 107050
+  inoculant: 234217
+  scintillant: 208565
+  sibilant: 138088
+  simulant: 123117
+  tremulant: 284486
+not_scored_words:
+- Feuillant
+- Montherlant
+- Norplant
+- acidulant
+- bipropellant
+- callant
+- congratulant
+- displant
+- exhalant
+- expellant
+- flocculant
+- gratulant
+- interpellant
+- libelant
+- matriculant
+- osculant
+- pieplant
+- postulant
+- pustulant
+- rutilant
+- somnambulant
+- sterilant
+- stridulant
+- topgallant
+- tremolant
+- ululant
+- undulant
+- waxplant

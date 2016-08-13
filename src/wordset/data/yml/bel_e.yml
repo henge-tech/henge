@@ -1,0 +1,28 @@
+---
+pattern: bel_e
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 18
+score: 886569
+score_per_word: 80597
+hi_scored_words:
+  belie: 64626
+  believable: 25141
+  believe: 446
+  belittle: 51847
+  bellarmine: 72377
+  belle: 7271
+  bellicose: 83754
+  belvedere: 34209
+scored_words:
+  belike: 249073
+  belligerence: 101110
+  bellyache: 196715
+not_scored_words:
+- Belgae
+- Belgrade
+- Belize
+- Belle
+- Bellevue
+- Beltane
+- belemnite

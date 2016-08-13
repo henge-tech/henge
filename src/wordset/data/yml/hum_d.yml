@@ -1,0 +1,25 @@
+---
+pattern: hum_d
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 15
+score: 792770
+score_per_word: 66064
+hi_scored_words:
+  humanized: 94426
+  humankind: 31798
+  humanoid: 38738
+  humbled: 35160
+  humid: 19167
+  humiliated: 29501
+  hummed: 77282
+  hummingbird: 23029
+  humored: 97164
+  humped: 68009
+scored_words:
+  humidified: 148019
+  humpbacked: 130477
+not_scored_words:
+- humanhood
+- humbugged
+- humphed

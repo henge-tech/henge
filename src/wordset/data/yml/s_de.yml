@@ -1,0 +1,68 @@
+---
+pattern: s_de
+hi_scored_words_count: 28
+scored_words_count: 10
+total_words: 58
+score: 2579395
+score_per_word: 67878
+hi_scored_words:
+  schadenfreude: 80641
+  seaside: 13617
+  secede: 58982
+  serenade: 27339
+  servitude: 29108
+  shade: 4658
+  side: 257
+  similitude: 74082
+  slide: 4074
+  snide: 48196
+  solicitude: 60418
+  solitude: 13128
+  spade: 15375
+  stampede: 24750
+  stateside: 48925
+  statewide: 8053
+  stockade: 51606
+  stride: 14828
+  strode: 31539
+  subdivide: 66148
+  subside: 39006
+  suede: 16550
+  suicide: 4522
+  sulfide: 30548
+  sunshade: 92484
+  supersede: 35648
+  swede: 33218
+  switchblade: 57090
+scored_words:
+  saccharide: 249885
+  salade: 110464
+  saudade: 146814
+  seclude: 283332
+  sesquioxide: 105643
+  silverside: 138916
+  sonde: 115402
+  spermicide: 109444
+  sulfanilamide: 199843
+  sulfonamide: 134862
+not_scored_words:
+- Sade
+- Schadenfreude
+- Scheherazade
+- Shrovetide
+- Spode
+- Stateside
+- Strathclyde
+- Swede
+- saltigrade
+- sanctitude
+- scalade
+- slickenside
+- snowslide
+- sodamide
+- sororicide
+- spinode
+- subchloride
+- suboxide
+- sulphanilamide
+- sulphonamide

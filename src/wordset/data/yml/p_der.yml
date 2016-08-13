@@ -1,0 +1,40 @@
+---
+pattern: p_der
+hi_scored_words_count: 14
+scored_words_count: 9
+total_words: 30
+score: 2361872
+score_per_word: 102690
+hi_scored_words:
+  pander: 58414
+  pathfinder: 22135
+  philander: 88120
+  placeholder: 36350
+  plunder: 23407
+  polder: 70896
+  policyholder: 61661
+  ponder: 17507
+  pounder: 40133
+  powder: 3665
+  pretender: 38531
+  proofreader: 84622
+  prouder: 98146
+  provider: 11774
+scored_words:
+  paraglider: 119249
+  penholder: 327055
+  persuader: 110352
+  pleader: 121262
+  plodder: 239625
+  pomander: 316363
+  potholder: 224914
+  profounder: 106255
+  provender: 141436
+not_scored_words:
+- Portlander
+- parader
+- playreader
+- postrider
+- prodder
+- promenader
+- propounder

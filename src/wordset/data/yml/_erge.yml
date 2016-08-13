@@ -1,0 +1,23 @@
+---
+pattern: _erge
+hi_scored_words_count: 9
+scored_words_count: 1
+total_words: 13
+score: 469669
+score_per_word: 46966
+hi_scored_words:
+  auberge: 47438
+  concierge: 19094
+  converge: 23054
+  diverge: 39998
+  emerge: 8680
+  merge: 11872
+  serge: 20348
+  submerge: 57848
+  verge: 13383
+scored_words:
+  reemerge: 227954
+not_scored_words:
+- Faberge
+- deterge
+- immerge

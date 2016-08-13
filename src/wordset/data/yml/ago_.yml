@@ -1,0 +1,34 @@
+---
+pattern: ago_
+hi_scored_words_count: 12
+scored_words_count: 7
+total_words: 24
+score: 1640435
+score_per_word: 86338
+hi_scored_words:
+  ago: 468
+  agog: 93656
+  agon: 78138
+  agonies: 79938
+  agonist: 28137
+  agonists: 37181
+  agonized: 71162
+  agonizing: 38143
+  agony: 11644
+  agora: 31748
+  agoraphobia: 61779
+  agouti: 91797
+scored_words:
+  agone: 100292
+  agonistic: 105017
+  agonize: 116093
+  agonizes: 177365
+  agonizingly: 161264
+  agoraphobic: 119811
+  agoras: 236802
+not_scored_words:
+- agonic
+- agorae
+- agoraphobe
+- agoraphobics
+- agoutis

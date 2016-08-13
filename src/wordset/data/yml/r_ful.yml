@@ -1,0 +1,25 @@
+---
+pattern: r_ful
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 15
+score: 1372315
+score_per_word: 105562
+hi_scored_words:
+  remorseful: 78881
+  resentful: 42558
+  resourceful: 31569
+  respectful: 12434
+  restful: 39520
+  rightful: 24835
+  roomful: 98406
+  rueful: 97035
+scored_words:
+  regardful: 310305
+  regretful: 101620
+  reposeful: 239483
+  reproachful: 145968
+  revengeful: 149701
+not_scored_words:
+- remindful
+- ruthful

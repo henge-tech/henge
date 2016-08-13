@@ -1,0 +1,25 @@
+---
+pattern: shar_s
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 15
+score: 989957
+score_per_word: 70711
+hi_scored_words:
+  shards: 39613
+  shareholders: 10672
+  shareholdings: 86479
+  sharers: 77773
+  shares: 3409
+  sharks: 11738
+  sharpeners: 73047
+  sharpens: 74791
+  sharpness: 23581
+  sharps: 41579
+  sharpshooters: 89162
+scored_words:
+  sharecroppers: 151200
+  sharpers: 149242
+  sharpies: 157671
+not_scored_words:
+- sharecrops

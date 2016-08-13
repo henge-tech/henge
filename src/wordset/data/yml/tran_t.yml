@@ -1,0 +1,33 @@
+---
+pattern: tran_t
+hi_scored_words_count: 13
+scored_words_count: 3
+total_words: 23
+score: 745731
+score_per_word: 46608
+hi_scored_words:
+  transact: 30882
+  transcendent: 29023
+  transcript: 10762
+  transect: 55578
+  transept: 75567
+  transient: 10333
+  transit: 5300
+  translucent: 20497
+  transmit: 8072
+  transparent: 5949
+  transplant: 15393
+  transport: 2387
+  transshipment: 70936
+scored_words:
+  transcendentalist: 152260
+  transcriptionist: 138231
+  transhipment: 114561
+not_scored_words:
+- Transcendentalist
+- tranquilest
+- transcalent
+- transcurrent
+- transeunt
+- transilient
+- transmigrant

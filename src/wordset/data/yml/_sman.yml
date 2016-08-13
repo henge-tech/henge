@@ -1,0 +1,93 @@
+---
+pattern: _sman
+hi_scored_words_count: 27
+scored_words_count: 21
+total_words: 83
+score: 4833556
+score_per_word: 100699
+hi_scored_words:
+  batsman: 40132
+  bondsman: 66057
+  businessman: 15077
+  congressman: 17149
+  craftsman: 19980
+  draftsman: 59359
+  glassman: 68539
+  guardsman: 72909
+  helmsman: 70651
+  huntsman: 31718
+  kinsman: 39897
+  landsman: 80164
+  linesman: 63490
+  marksman: 45684
+  newsman: 86238
+  ombudsman: 16294
+  pressman: 61865
+  salesman: 16343
+  spokesman: 10476
+  sportsman: 18509
+  statesman: 12590
+  swordsman: 44352
+  talisman: 25523
+  tradesman: 41010
+  underclassman: 87510
+  woodsman: 56530
+  yachtsman: 83671
+scored_words:
+  backwoodsman: 156264
+  bluesman: 108251
+  busman: 220557
+  chessman: 220839
+  clansman: 141480
+  corpsman: 101034
+  dalesman: 258760
+  desman: 302153
+  expressman: 259635
+  frontiersman: 125796
+  gasman: 187727
+  groomsman: 127789
+  groundsman: 155362
+  headsman: 118157
+  herdsman: 100347
+  oarsman: 137036
+  plainsman: 164866
+  steersman: 216216
+  townsman: 102814
+  tribesman: 108408
+  upperclassman: 268348
+not_scored_words:
+- Heisman
+- Housman
+- Klansman
+- Osman
+- Scotsman
+- Tasman
+- Waksman
+- agribusinessman
+- almsman
+- bailsman
+- bandsman
+- beadsman
+- bedesman
+- boatsman
+- brakesman
+- coastguardsman
+- cracksman
+- cragsman
+- fieldsman
+- foilsman
+- gownsman
+- guildsman
+- handicraftsman
+- leadsman
+- lowerclassman
+- plainclothesman
+- pointsman
+- privateersman
+- roundsman
+- sidesman
+- spoilsman
+- supersalesman
+- swagsman
+- talesman
+- wheelsman

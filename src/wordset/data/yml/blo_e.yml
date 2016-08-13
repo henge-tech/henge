@@ -1,0 +1,25 @@
+---
+pattern: blo_e
+hi_scored_words_count: 8
+scored_words_count: 4
+total_words: 15
+score: 1132153
+score_per_word: 94346
+hi_scored_words:
+  blockade: 17768
+  blockage: 34812
+  blockhouse: 80605
+  bloke: 27980
+  blonde: 5279
+  bloodline: 48269
+  bloodstone: 76889
+  blouse: 17040
+scored_words:
+  bloatware: 183211
+  bloodmobile: 310779
+  blowhole: 113681
+  blowpipe: 215840
+not_scored_words:
+- Blondie
+- Bloomingdale
+- blowtube

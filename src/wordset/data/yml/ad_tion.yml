@@ -1,0 +1,31 @@
+---
+pattern: ad_tion
+hi_scored_words_count: 14
+scored_words_count: 4
+total_words: 21
+score: 1042778
+score_per_word: 57932
+hi_scored_words:
+  adaptation: 7987
+  adaption: 52508
+  addiction: 15718
+  addition: 952
+  adjudication: 33126
+  administration: 1337
+  admiration: 12230
+  admonition: 38686
+  adoption: 4198
+  adoration: 25377
+  adsorption: 24907
+  adulation: 50377
+  adulteration: 69850
+  advection: 61512
+scored_words:
+  adduction: 103745
+  adjunction: 157248
+  adjuration: 215993
+  adumbration: 167027
+not_scored_words:
+- ademption
+- adscription
+- advocation

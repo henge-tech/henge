@@ -1,0 +1,83 @@
+---
+pattern: supe_s
+hi_scored_words_count: 23
+scored_words_count: 21
+total_words: 73
+score: 5236892
+score_per_word: 119020
+hi_scored_words:
+  superchargers: 94807
+  superclass: 59881
+  supercomputers: 58085
+  superconductors: 51025
+  superfluous: 23098
+  supergrass: 61842
+  superheroes: 29551
+  superintendents: 36392
+  superiors: 27743
+  superlatives: 66089
+  supermarkets: 15677
+  supermodels: 42161
+  supernatants: 95464
+  superpowers: 47741
+  supers: 67813
+  supersedes: 40486
+  supersonics: 47903
+  superstars: 23892
+  superstitions: 36307
+  superstitious: 28950
+  superstores: 73415
+  supervises: 39224
+  supervisors: 18192
+scored_words:
+  superbugs: 166173
+  supercharges: 298803
+  supercilious: 103153
+  superciliousness: 247522
+  superclasses: 158842
+  superfamilies: 197267
+  superficies: 224191
+  superfluities: 126730
+  supergiants: 225100
+  superheros: 126434
+  superhighways: 285754
+  superimposes: 263972
+  superintends: 195993
+  supernaturals: 207425
+  supernovas: 187817
+  supernumeraries: 172820
+  superpositions: 206605
+  superscripts: 116060
+  superstructures: 141903
+  superusers: 217699
+  supervisions: 280891
+not_scored_words:
+- superabundances
+- superannuates
+- supercalifragilisticexpialidocious
+- supercargoes
+- supercities
+- superegos
+- superfecundations
+- superfetations
+- superficialness
+- superfluousness
+- supergrasses
+- superlativeness
+- supermoms
+- supernaturalisms
+- superorders
+- superordinates
+- superpatriotisms
+- superphylums
+- superposes
+- supersaturates
+- superscribes
+- supersedures
+- supersessions
+- supersizes
+- superstates
+- supertankers
+- supertaxes
+- supertonics
+- supervenes

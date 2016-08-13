@@ -1,0 +1,39 @@
+---
+pattern: nu_e
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 29
+score: 1999368
+score_per_word: 90880
+hi_scored_words:
+  nuance: 34961
+  nubile: 70840
+  nuclease: 79216
+  nucleoside: 50085
+  nucleotide: 16134
+  nuclide: 86986
+  nude: 6677
+  nudge: 27704
+  nuisance: 13619
+  nuke: 13199
+  nurse: 2733
+  nurture: 20401
+  nutcase: 80115
+  nutritive: 53250
+scored_words:
+  nubble: 318472
+  nucleate: 180441
+  nucleotidase: 174793
+  numberplate: 130181
+  numerate: 185742
+  nuncupative: 186631
+  nuthouse: 114884
+  nuzzle: 152304
+not_scored_words:
+- Nupercaine
+- nullipore
+- numerable
+- nummulite
+- nunciature
+- nuncle
+- nutrilite

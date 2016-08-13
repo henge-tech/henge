@@ -1,0 +1,40 @@
+---
+pattern: ge_c
+hi_scored_words_count: 14
+scored_words_count: 3
+total_words: 30
+score: 1083238
+score_per_word: 63719
+hi_scored_words:
+  generic: 6881
+  genetic: 12663
+  genomic: 19208
+  genotypic: 89845
+  geocentric: 71333
+  geodesic: 45812
+  geodetic: 38103
+  geographic: 9229
+  geologic: 24266
+  geomagnetic: 52470
+  geometric: 18584
+  geomorphic: 96011
+  geriatric: 24726
+  germanic: 24178
+scored_words:
+  genic: 146321
+  geoscientific: 285535
+  geostrophic: 118073
+not_scored_words:
+- Genseric
+- Geometric
+- Germanic
+- genitalic
+- geochronologic
+- geomantic
+- geoponic
+- georgic
+- geostatic
+- geotectonic
+- geothermic
+- gerontocratic
+- gerontologic

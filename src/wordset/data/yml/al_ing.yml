@@ -1,0 +1,42 @@
+---
+pattern: al_ing
+hi_scored_words_count: 14
+scored_words_count: 5
+total_words: 32
+score: 1312690
+score_per_word: 69088
+hi_scored_words:
+  alarming: 17742
+  alerting: 28633
+  aliasing: 28838
+  alienating: 51177
+  aligning: 25214
+  alleging: 22625
+  alleviating: 49772
+  allocating: 25946
+  allowing: 3178
+  alloying: 87204
+  alluding: 54028
+  alluring: 29368
+  altering: 14225
+  alternating: 15929
+scored_words:
+  alighting: 108595
+  allaying: 190926
+  allotting: 159303
+  allying: 135601
+  alphabetizing: 264386
+not_scored_words:
+- Althing
+- alchemizing
+- alcoholizing
+- alibiing
+- aliening
+- alimenting
+- alkalifying
+- alkalinizing
+- alkalizing
+- allegorizing
+- alliterating
+- altercating
+- aluminizing

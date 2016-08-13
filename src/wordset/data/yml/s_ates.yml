@@ -1,0 +1,70 @@
+---
+pattern: s_ates
+hi_scored_words_count: 20
+scored_words_count: 11
+total_words: 60
+score: 3433692
+score_per_word: 110764
+hi_scored_words:
+  salicylates: 88822
+  saturates: 97114
+  schoolmates: 74660
+  senates: 99622
+  separates: 12831
+  shipmates: 69539
+  silicates: 66444
+  simulates: 39334
+  skates: 18649
+  slates: 46396
+  soulmates: 38235
+  speculates: 68439
+  states: 234
+  stimulates: 24160
+  stipulates: 40865
+  subordinates: 30655
+  substrates: 18906
+  sulfates: 71386
+  surrogates: 59657
+  syndicates: 51788
+scored_words:
+  sates: 122813
+  satiates: 341308
+  segregates: 182701
+  situates: 141942
+  sophisticates: 155090
+  spates: 292679
+  stablemates: 313168
+  stagnates: 215442
+  substantiates: 128792
+  suffocates: 205695
+  sulfonates: 316326
+not_scored_words:
+- Senates
+- Socrates
+- States
+- salivates
+- scintillates
+- seatmates
+- sedates
+- sequestrates
+- sibilates
+- somnambulates
+- spectates
+- stalemates
+- strangulates
+- striates
+- stridulates
+- subjugates
+- sublimates
+- sultanates
+- superannuates
+- superordinates
+- supersaturates
+- superstates
+- supinates
+- supplicates
+- suppurates
+- suricates
+- susurrates
+- syllabicates
+- syncopates

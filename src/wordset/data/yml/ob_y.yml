@@ -1,0 +1,58 @@
+---
+pattern: ob_y
+hi_scored_words_count: 17
+scored_words_count: 11
+total_words: 48
+score: 2604024
+score_per_word: 93000
+hi_scored_words:
+  obediently: 61913
+  obesity: 18164
+  obey: 7654
+  obituary: 19866
+  objectively: 25208
+  objectivity: 22028
+  obligatory: 19218
+  obliquely: 64831
+  obliquity: 88935
+  obnoxiously: 78006
+  obscenity: 34833
+  obscurity: 23122
+  observatory: 12289
+  obsessively: 67123
+  obstinacy: 61055
+  obstinately: 75279
+  obviously: 2743
+scored_words:
+  obduracy: 222253
+  objectify: 145329
+  obligatorily: 251656
+  obligingly: 130835
+  obliviously: 281607
+  obloquy: 178253
+  obscenely: 100452
+  obscurely: 122837
+  obsequiously: 176348
+  observability: 103015
+  observationally: 209172
+not_scored_words:
+- obdurately
+- obesely
+- obfuscatory
+- objectionability
+- objectionably
+- objurgatory
+- oblately
+- oblatory
+- obsequy
+- observably
+- observantly
+- obsessionally
+- obsolescently
+- obsoletely
+- obstreperously
+- obstructively
+- obtrusively
+- obtusely
+- obtusity
+- obversely

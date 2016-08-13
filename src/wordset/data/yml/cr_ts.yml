@@ -1,0 +1,38 @@
+---
+pattern: cr_ts
+hi_scored_words_count: 9
+scored_words_count: 13
+total_words: 28
+score: 2692808
+score_per_word: 122400
+hi_scored_words:
+  crafts: 8339
+  creationists: 43468
+  credits: 7183
+  crests: 35298
+  crickets: 34950
+  crofts: 61216
+  croissants: 63651
+  crusts: 50896
+  crypts: 88457
+scored_words:
+  crackpots: 135251
+  crankshafts: 127032
+  cravats: 160711
+  crescents: 102225
+  criminologists: 180821
+  crochets: 284265
+  crosscurrents: 189042
+  crosscuts: 318320
+  crotchets: 137355
+  cruets: 186681
+  crufts: 131334
+  crumpets: 120848
+  cryostats: 225465
+not_scored_words:
+- CRTs
+- Croats
+- crinkleroots
+- crockets
+- crowfoots
+- cruiserweights

@@ -1,0 +1,47 @@
+---
+pattern: car_y
+hi_scored_words_count: 14
+scored_words_count: 8
+total_words: 37
+score: 1794113
+score_per_word: 81550
+hi_scored_words:
+  caraway: 56199
+  carcinogenicity: 60339
+  cardinality: 44187
+  cardiology: 20574
+  cardiomyopathy: 41750
+  cardiopulmonary: 42655
+  carefully: 2259
+  carelessly: 29888
+  carney: 27214
+  carpentry: 28395
+  carriageway: 45949
+  carroty: 80457
+  carry: 1231
+  cartography: 31617
+scored_words:
+  caravansary: 158829
+  carboy: 108940
+  cardiomegaly: 167111
+  carnality: 231332
+  carnally: 247313
+  carny: 142606
+  cartoony: 103439
+  carvery: 121829
+not_scored_words:
+- Carboloy
+- Carey
+- Carly
+- Carney
+- Cary
+- caravansery
+- cardinally
+- cardiography
+- carnify
+- carnivorously
+- carpetbaggery
+- carpology
+- cartographically
+- cartomancy
+- cartulary

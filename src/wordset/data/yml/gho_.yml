@@ -1,0 +1,31 @@
+---
+pattern: gho_
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 21
+score: 988709
+score_per_word: 89882
+hi_scored_words:
+  ghost: 3221
+  ghosting: 76971
+  ghostly: 23564
+  ghosts: 8646
+  ghostwriter: 98794
+  ghoul: 51972
+  ghoulish: 72952
+  ghouls: 54070
+scored_words:
+  ghosted: 165910
+  ghostlike: 283864
+  ghostwriting: 148745
+not_scored_words:
+- ghostlier
+- ghostliest
+- ghostliness
+- ghostwrite
+- ghostwriters
+- ghostwrites
+- ghostwritten
+- ghostwrote
+- ghoulishly
+- ghoulishness

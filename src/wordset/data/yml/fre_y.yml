@@ -1,0 +1,30 @@
+---
+pattern: fre_y
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 20
+score: 724966
+score_per_word: 65906
+hi_scored_words:
+  freaky: 20257
+  freely: 4313
+  freemasonry: 36808
+  freeway: 16917
+  frenzy: 13235
+  frequency: 4473
+  frequently: 1564
+  freshly: 14185
+scored_words:
+  freakishly: 120399
+  frenetically: 311369
+  fretfully: 181446
+not_scored_words:
+- Freddy
+- Freemasonry
+- Frenchify
+- Frenchy
+- Frey
+- freakily
+- freckly
+- freehandedly
+- frenziedly

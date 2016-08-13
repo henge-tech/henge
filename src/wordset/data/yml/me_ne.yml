@@ -1,0 +1,42 @@
+---
+pattern: me_ne
+hi_scored_words_count: 12
+scored_words_count: 8
+total_words: 32
+score: 2181854
+score_per_word: 109092
+hi_scored_words:
+  medicine: 1662
+  megaphone: 50679
+  melamine: 51487
+  membrane: 7101
+  mene: 93807
+  mescaline: 84797
+  methadone: 25353
+  methamphetamine: 29949
+  methane: 17759
+  methionine: 35820
+  methylene: 41070
+  mezzanine: 31411
+scored_words:
+  mellophone: 281705
+  menadione: 247559
+  meperidine: 104248
+  mercaptopurine: 155654
+  methaqualone: 245427
+  methenamine: 239613
+  methylamine: 163083
+  methylnaphthalene: 273670
+not_scored_words:
+- Melbourne
+- Melpomene
+- Messene
+- Methedrine
+- membranophone
+- merocrine
+- mesitylene
+- mesne
+- messaline
+- metalline
+- metallophone
+- mezcaline

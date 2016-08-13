@@ -1,0 +1,64 @@
+---
+pattern: c_ize
+hi_scored_words_count: 12
+scored_words_count: 11
+total_words: 54
+score: 2751885
+score_per_word: 119647
+hi_scored_words:
+  capitalize: 22402
+  capsize: 82266
+  categorize: 31267
+  centralize: 65669
+  characterize: 14820
+  colonize: 54371
+  commercialize: 60809
+  conceptualize: 64614
+  criminalize: 81988
+  criticize: 18727
+  crystallize: 67992
+  customize: 12951
+scored_words:
+  cannibalize: 134613
+  canonize: 289030
+  caramelize: 292075
+  cauterize: 156400
+  civilize: 113486
+  cognize: 234008
+  colorize: 129156
+  compartmentalize: 174547
+  computerize: 188009
+  concretize: 323125
+  contextualize: 139560
+not_scored_words:
+- Christianize
+- camize
+- canalize
+- caponize
+- capsulize
+- carbolize
+- carbonize
+- carburize
+- cartelize
+- catechize
+- catheterize
+- catholicize
+- channelize
+- cicatrize
+- cinchonize
+- cinematize
+- circularize
+- classicize
+- cocainize
+- collateralize
+- collectivize
+- communalize
+- communize
+- concertize
+- containerize
+- contemporize
+- conventionalize
+- copolymerize
+- cosmopolitanize
+- curarize
+- cutinize

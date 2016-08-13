@@ -1,0 +1,43 @@
+---
+pattern: h_ters
+hi_scored_words_count: 16
+scored_words_count: 6
+total_words: 33
+score: 1558320
+score_per_word: 70832
+hi_scored_words:
+  halters: 98316
+  hamsters: 31944
+  harvesters: 59467
+  haters: 34902
+  hatters: 58649
+  headhunters: 56786
+  headquarters: 4104
+  headwaters: 39796
+  heaters: 15356
+  helicopters: 11900
+  highlighters: 73200
+  hipsters: 58772
+  hitters: 30774
+  holsters: 45038
+  hooters: 24816
+  hunters: 7248
+scored_words:
+  headmasters: 123249
+  hexameters: 105420
+  hindquarters: 118676
+  hucksters: 149956
+  hydrometers: 224491
+  hygrometers: 185460
+not_scored_words:
+- Hooters
+- hairsplitters
+- harbormasters
+- haunters
+- headwaiters
+- hectoliters
+- hectometers
+- hereafters
+- hinters
+- hodometers
+- housemasters

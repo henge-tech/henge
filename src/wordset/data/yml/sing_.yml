@@ -1,0 +1,62 @@
+---
+pattern: sing_
+hi_scored_words_count: 20
+scored_words_count: 5
+total_words: 52
+score: 1561786
+score_per_word: 62471
+hi_scored_words:
+  sing: 2827
+  singe: 67598
+  singed: 74847
+  singer: 4314
+  singers: 8564
+  singing: 3057
+  single: 359
+  singled: 18840
+  singleness: 95241
+  singles: 13753
+  singlet: 43424
+  singleton: 23793
+  singletons: 97100
+  singling: 76040
+  singly: 34868
+  sings: 9012
+  singular: 7474
+  singularities: 52732
+  singularity: 23926
+  singularly: 30901
+scored_words:
+  singable: 198918
+  singalong: 103490
+  singes: 294585
+  singlets: 100475
+  singsong: 175648
+not_scored_words:
+- Singapore
+- Singaporean
+- Singaporeans
+- Singer
+- Singh
+- Singhalese
+- Singleton
+- Singspiel
+- singalongs
+- singeing
+- singlestick
+- singlesticks
+- singletree
+- singletrees
+- singsonged
+- singsonging
+- singsongs
+- singspiel
+- singspiele
+- singularization
+- singularize
+- singularized
+- singularizes
+- singularizing
+- singularness
+- singulars
+- singultus

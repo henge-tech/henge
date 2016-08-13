@@ -1,0 +1,40 @@
+---
+pattern: _eons
+hi_scored_words_count: 9
+scored_words_count: 9
+total_words: 30
+score: 2162632
+score_per_word: 120146
+hi_scored_words:
+  aeons: 77490
+  chameleons: 76687
+  dungeons: 16460
+  eons: 61682
+  luncheons: 67495
+  neurosurgeons: 99908
+  nucleons: 93756
+  pigeons: 21731
+  surgeons: 9891
+scored_words:
+  bludgeons: 269450
+  curmudgeons: 247590
+  escutcheons: 150238
+  galleons: 108083
+  napoleons: 134132
+  pantheons: 193866
+  peons: 114552
+  sturgeons: 219846
+  truncheons: 199775
+not_scored_words:
+- Napoleons
+- bourgeons
+- burgeons
+- chamaeleons
+- gudgeons
+- habergeons
+- mezereons
+- nickelodeons
+- puncheons
+- scutcheons
+- widgeons
+- wigeons

@@ -1,0 +1,26 @@
+---
+pattern: s_ase
+hi_scored_words_count: 8
+scored_words_count: 3
+total_words: 16
+score: 897758
+score_per_word: 81614
+hi_scored_words:
+  showcase: 10537
+  slipcase: 88767
+  staircase: 13727
+  steeplechase: 44149
+  striptease: 36904
+  sublease: 78718
+  suitcase: 21835
+  surcease: 83252
+scored_words:
+  streptokinase: 110574
+  subbase: 164531
+  sucrase: 244764
+not_scored_words:
+- SASE
+- saccharase
+- seedcase
+- smearcase
+- surbase

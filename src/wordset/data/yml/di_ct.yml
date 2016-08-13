@@ -1,0 +1,24 @@
+---
+pattern: di_ct
+hi_scored_words_count: 10
+scored_words_count: 2
+total_words: 14
+score: 630843
+score_per_word: 52570
+hi_scored_words:
+  dialect: 14222
+  dict: 39212
+  direct: 770
+  disconnect: 15901
+  disinfect: 62672
+  disrespect: 23919
+  dissect: 50927
+  distinct: 3442
+  distract: 20216
+  district: 975
+scored_words:
+  diffract: 287688
+  disjunct: 110899
+not_scored_words:
+- disaffect
+- disject

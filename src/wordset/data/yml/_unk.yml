@@ -1,0 +1,41 @@
+---
+pattern: _unk
+hi_scored_words_count: 23
+scored_words_count: 4
+total_words: 31
+score: 1417896
+score_per_word: 52514
+hi_scored_words:
+  bunk: 15339
+  chipmunk: 44888
+  chunk: 16608
+  clunk: 87263
+  cyberpunk: 35541
+  debunk: 65569
+  drunk: 3286
+  dunk: 22856
+  flunk: 76974
+  funk: 13238
+  gunk: 69800
+  hunk: 22726
+  junk: 10081
+  plunk: 94402
+  preshrunk: 43072
+  punk: 13647
+  shrunk: 23363
+  skunk: 24044
+  spunk: 41262
+  stunk: 79675
+  sunk: 12528
+  thunk: 50897
+  trunk: 4081
+scored_words:
+  countersunk: 116604
+  kerplunk: 176999
+  slunk: 129380
+  steampunk: 123773
+not_scored_words:
+- Podunk
+- bohunk
+- lunk
+- splatterpunk

@@ -1,0 +1,38 @@
+---
+pattern: ci_y
+hi_scored_words_count: 11
+scored_words_count: 3
+total_words: 28
+score: 1233774
+score_per_word: 88126
+hi_scored_words:
+  cicely: 66019
+  ciliary: 63320
+  cinematography: 24741
+  circuitry: 24692
+  circularity: 97418
+  circularly: 81189
+  circulatory: 29738
+  citizenry: 34587
+  city: 157
+  civility: 29264
+  civilly: 78387
+scored_words:
+  cinematically: 231870
+  circumspectly: 204266
+  circumstantially: 268126
+not_scored_words:
+- Cicely
+- Cindy
+- City
+- cindery
+- cinerary
+- circuitously
+- circuity
+- circumambiency
+- circumlocutory
+- circumstantiality
+- circusy
+- citify
+- citizenly
+- civically

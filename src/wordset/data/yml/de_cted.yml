@@ -1,0 +1,21 @@
+---
+pattern: de_cted
+hi_scored_words_count: 8
+scored_words_count: 2
+total_words: 11
+score: 603821
+score_per_word: 60382
+hi_scored_words:
+  deconstructed: 82940
+  deducted: 21002
+  defected: 41555
+  deflected: 38720
+  dejected: 50348
+  depicted: 10773
+  deselected: 81496
+  detected: 4882
+scored_words:
+  destructed: 160333
+  detracted: 111772
+not_scored_words:
+- decocted

@@ -1,0 +1,28 @@
+---
+pattern: s_fed
+hi_scored_words_count: 8
+scored_words_count: 5
+total_words: 18
+score: 1335480
+score_per_word: 102729
+hi_scored_words:
+  scoffed: 62579
+  scuffed: 82584
+  sniffed: 43790
+  snuffed: 82521
+  spoofed: 65313
+  staffed: 19201
+  stuffed: 13006
+  surfed: 48966
+scored_words:
+  scarfed: 252137
+  soundproofed: 137790
+  spoonfed: 201747
+  stiffed: 133174
+  strafed: 192672
+not_scored_words:
+- sclaffed
+- serifed
+- seriffed
+- snarfed
+- spiffed

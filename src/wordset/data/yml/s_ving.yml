@@ -1,0 +1,29 @@
+---
+pattern: s_ving
+hi_scored_words_count: 13
+scored_words_count: 2
+total_words: 19
+score: 905073
+score_per_word: 60338
+hi_scored_words:
+  saving: 2703
+  serving: 2542
+  shaving: 12844
+  shelving: 25911
+  shoving: 40413
+  sieving: 97623
+  skydiving: 30096
+  slaving: 91848
+  solving: 7368
+  starving: 13854
+  striving: 11022
+  surviving: 8739
+  swerving: 98385
+scored_words:
+  skiving: 277423
+  staving: 184302
+not_scored_words:
+- salving
+- sheaving
+- shriving
+- subserving

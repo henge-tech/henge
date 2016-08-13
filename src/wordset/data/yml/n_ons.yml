@@ -1,0 +1,40 @@
+---
+pattern: n_ons
+hi_scored_words_count: 15
+scored_words_count: 4
+total_words: 30
+score: 1398815
+score_per_word: 73621
+hi_scored_words:
+  narrations: 97103
+  nations: 1512
+  negotiations: 4902
+  nelsons: 95308
+  neocons: 58689
+  neurons: 10018
+  neurosurgeons: 99908
+  neutrons: 28696
+  newtons: 64523
+  nominations: 12662
+  notations: 32827
+  notifications: 8310
+  notions: 9328
+  nucleons: 93756
+  nylons: 24575
+scored_words:
+  napoleons: 134132
+  negations: 128853
+  nephrons: 245810
+  normalizations: 247903
+not_scored_words:
+- Napoleons
+- nationalizations
+- nektons
+- nickelodeons
+- nonagons
+- nonparticipations
+- nonpersons
+- noons
+- novelizations
+- numerations
+- nutations

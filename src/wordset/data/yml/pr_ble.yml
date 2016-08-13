@@ -1,0 +1,38 @@
+---
+pattern: pr_ble
+hi_scored_words_count: 11
+scored_words_count: 10
+total_words: 28
+score: 2397210
+score_per_word: 114152
+hi_scored_words:
+  practicable: 13314
+  preamble: 20882
+  predictable: 14709
+  preferable: 13687
+  presentable: 47329
+  preventable: 30405
+  printable: 7042
+  probable: 5867
+  profitable: 6929
+  programmable: 20590
+  provable: 64688
+scored_words:
+  precipitable: 164034
+  predicable: 222521
+  presumable: 244301
+  processable: 226201
+  procurable: 108013
+  producible: 223650
+  promotable: 325130
+  pronounceable: 206766
+  proportionable: 153576
+  prosecutable: 277576
+not_scored_words:
+- preassemble
+- pregnable
+- prehensible
+- prescriptible
+- preservable
+- propagable
+- providable

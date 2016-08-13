@@ -1,0 +1,36 @@
+---
+pattern: ma_in
+hi_scored_words_count: 11
+scored_words_count: 4
+total_words: 26
+score: 1135140
+score_per_word: 75676
+hi_scored_words:
+  main: 383
+  maintain: 1836
+  mandarin: 16816
+  mandolin: 24963
+  manikin: 89594
+  mannequin: 38562
+  margin: 4936
+  marlin: 22867
+  martin: 1526
+  matin: 52790
+  maudlin: 62484
+scored_words:
+  manakin: 145955
+  marocain: 276359
+  mawkin: 253081
+  maximin: 142988
+not_scored_words:
+- Main
+- Mandarin
+- Manganin
+- Manitoulin
+- Marin
+- Maritain
+- Marlin
+- Martin
+- Marvin
+- Maulmain
+- Mazarin

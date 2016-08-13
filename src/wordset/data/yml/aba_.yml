@@ -1,0 +1,55 @@
+---
+pattern: aba_
+hi_scored_words_count: 17
+scored_words_count: 11
+total_words: 45
+score: 2388446
+score_per_word: 85301
+hi_scored_words:
+  aba: 15365
+  aback: 37147
+  abacus: 29694
+  abalone: 37297
+  abandon: 8126
+  abandoned: 4500
+  abandoning: 19722
+  abandonment: 15729
+  abandons: 36830
+  abasement: 90100
+  abashed: 92661
+  abate: 31362
+  abated: 39835
+  abatement: 22755
+  abating: 77274
+  abattoir: 58892
+  abattoirs: 88755
+scored_words:
+  abaca: 100837
+  abaft: 168028
+  abalones: 129255
+  abas: 106194
+  abase: 143197
+  abased: 155530
+  abash: 194721
+  abasing: 205289
+  abates: 129406
+  abatis: 110770
+  abaxial: 239175
+not_scored_words:
+- ABA
+- Abadan
+- Abaddon
+- abacas
+- abacist
+- abacuses
+- abamp
+- abampere
+- abamperes
+- abamps
+- abandonedly
+- abases
+- abashedly
+- abashes
+- abashing
+- abashment
+- abatises
