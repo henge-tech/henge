@@ -86,6 +86,8 @@ module WordCircle
         @key = :say_all
       elsif c == 'r'
         @key = :reload
+      elsif c == 'i'
+        @key = :image
       end
     end
 
@@ -141,6 +143,8 @@ module WordCircle
             say_all
           elsif @key == :reload
             init
+          elsif @key == :image
+            open_image
           end
         end
       ensure
@@ -211,6 +215,16 @@ module WordCircle
       %x{say #{Shellwords.shellescape(text)}}
     end
 
+    def open_image
+      word = Shellwords.shellescape(@words[@cursor])
+      %x{open 'https://www.google.co.jp/search?q=#{word}&tbm=isch'}
+
+      # @words.each do |word|
+      #   word = Shellwords.shellescape(word)
+      #   %x{open 'https://www.google.co.jp/search?q=#{word}&tbm=isch'}
+      #   sleep 0.5
+      # end
+    end
 
     def draw_center_label(index, marker)
       if marker
