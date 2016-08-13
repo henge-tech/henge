@@ -1,5 +1,6 @@
-require "wordcircle/version"
+require 'curses'
+require 'yaml'
+require 'shellwords'
 
-module Wordcircle
-  # Your code goes here...
-end
+require 'wordcircle/version'
+require 'wordcircle/runner'

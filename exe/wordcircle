@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require "wordcircle"
+
+WordCircle::Runner.new.run
