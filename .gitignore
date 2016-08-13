@@ -1,3 +1,9 @@
+*~
+\#*
+.\#*
+tmp
+*.ignore
+
 /.bundle/
 /.yardoc
 /Gemfile.lock
@@ -6,4 +12,3 @@
 /doc/
 /pkg/
 /spec/reports/
-/tmp/
