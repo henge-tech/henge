@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rwordnet (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rwordnet
+
+BUNDLED WITH
+   1.10.6
