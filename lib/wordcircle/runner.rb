@@ -14,6 +14,7 @@ module WordCircle
 
       if ARGV[0]
         @pattern = ARGV[0]
+        ARGV[0] = nil
       else
         Dir.chdir(@circles_dir) do
           file = Dir.glob('*.yml').shuffle.first
@@ -81,22 +82,32 @@ module WordCircle
         @key = :erase
       elsif c == 'p'
         @key = :play
+      elsif c == 'a'
+        @key = :say_all
+      elsif c == 'r'
+        @key = :reload
       end
     end
 
-    def run
+    def init
       load_words
 
-      Curses.init_screen
+      Curses.clear()
       Curses.curs_set(0)
-      begin
-        @cursor = nil
-        @key = nil
-        @screen_mode = nil
-        @last_cursor = nil
-        @visible_words = []
 
-        intro(false)
+      @cursor = nil
+      @key = nil
+      @screen_mode = nil
+      @last_cursor = nil
+      @visible_words = []
+
+      intro(false)
+    end
+
+    def run
+      begin
+        Curses.init_screen
+        init
 
         loop do
           get_key_input
@@ -126,6 +137,10 @@ module WordCircle
             end
             say
             @last_cursor = @cursor
+          elsif @key == :say_all
+            say_all
+          elsif @key == :reload
+            init
           end
         end
       ensure
@@ -190,6 +205,12 @@ module WordCircle
     def say
       %x{say #{Shellwords.shellescape(@words[@cursor])}}
     end
+
+    def say_all
+      text = @words.join(' ')
+      %x{say #{Shellwords.shellescape(text)}}
+    end
+
 
     def draw_center_label(index, marker)
       if marker
