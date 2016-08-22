@@ -5,10 +5,11 @@ require 'yaml'
 require 'optparse'
 require 'shellwords'
 
-opts = ARGV.getopts('ws')
+opts = ARGV.getopts('wsS')
 
 opts[:write] = opts['w']
 opts[:skip] = opts['s']
+opts[:sort] = opts['S']
 
 data_dir = File.join(__dir__, '../data/')
 
@@ -50,7 +51,12 @@ elsif opts[:skip]
   exit
 end
 
-data['hi_scored_words'].each do |word, score|
+hi_scored_words = data['hi_scored_words'].to_a
+if opts[:sort]
+  hi_scored_words = hi_scored_words.sort {|a,b| a[1] <=> b[1]}
+end
+
+hi_scored_words.each do |word, score|
   dict = %x{osx-dictionary -d Japanese-English #{Shellwords.shellescape(word)}}
   (header,definition) = dict.split(/\n\n/, 2)
   definition.strip!
@@ -69,7 +75,12 @@ end
 
 puts "================================================================"
 
-data['scored_words'].each do |word, score|
+scored_words = data['scored_words'].to_a
+if opts[:sort]
+  scored_words = scored_words.sort {|a,b| a[1] <=> b[1]}
+end
+
+scored_words.each do |word, score|
   dict = %x{osx-dictionary -d Japanese-English #{Shellwords.shellescape(word)}}
   (header,definition) = dict.split(/\n\n/, 2)
   definition.strip!
