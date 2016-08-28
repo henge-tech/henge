@@ -4,6 +4,7 @@ require 'yaml'
 
 require 'optparse'
 require 'shellwords'
+require 'unicode_utils/nfkc' # gem install unicode_utils
 
 opts = ARGV.getopts('wsS')
 
@@ -58,6 +59,7 @@ end
 
 hi_scored_words.each do |word, score|
   dict = %x{osx-dictionary -d Japanese-English #{Shellwords.shellescape(word)}}
+  dict = UnicodeUtils.nfkc(dict)
   (header,definition) = dict.split(/\n\n/, 2)
   definition.strip!
 
@@ -66,10 +68,13 @@ hi_scored_words.each do |word, score|
     puts "#{ word }: #{score}"
     puts "(empty)"
   else
-    puts "#{ word }: #{score}"
+    def_word = definition[/\p{Latin}+/].to_s.tr('áéíóúàèìòù', 'aeiouaeiou')
+    mark = word == def_word ? '' : '*'
+
+    puts "#{ word }#{mark}: #{score}"
     puts definition
 
-    words[:hi] << word
+    words[:hi] << word + mark
   end
 end
 
@@ -82,6 +87,8 @@ end
 
 scored_words.each do |word, score|
   dict = %x{osx-dictionary -d Japanese-English #{Shellwords.shellescape(word)}}
+  dict = UnicodeUtils.nfkc(dict)
+
   (header,definition) = dict.split(/\n\n/, 2)
   definition.strip!
 
@@ -90,10 +97,13 @@ scored_words.each do |word, score|
     puts "#{ word }: #{score}"
     puts "(empty)"
   else
-    puts "#{ word }: #{score}"
+    def_word = definition[/\p{Latin}+/].to_s.tr('áéíóúàèìòù', 'aeiouaeiou')
+    mark = word == def_word ? '' : '*'
+
+    puts "#{ word }#{mark}: #{score}"
     puts definition
 
-    words[:low] << word
+    words[:low] << word + mark
   end
 end
 
@@ -101,6 +111,8 @@ puts "================================================================"
 
 data['not_scored_words'].each do |word|
   dict = %x{osx-dictionary -d Japanese-English #{Shellwords.shellescape(word)}}
+  dict = UnicodeUtils.nfkc(dict)
+
   (header,definition) = dict.split(/\n\n/, 2)
   begin
     definition.strip!
@@ -114,9 +126,12 @@ data['not_scored_words'].each do |word|
     puts "#{ word }"
     puts "(empty)"
   else
-    puts "#{ word }"
+    def_word = definition[/\p{Latin}+/].to_s.tr('áéíóúàèìòù', 'aeiouaeiou')
+    mark = word == def_word ? '' : '*'
+
+    puts "#{ word }#{mark}"
     puts definition
-    words[:zero] << word
+    words[:zero] << word + mark
   end
 end
 
