@@ -126,9 +126,11 @@ module WordCircle
             if @screen_mode == :dictionary
               @screen_mode = :circle
               redraw_words
+              say
             else
               @screen_mode = :dictionary
               draw_dictionary
+              say
             end
           elsif @key == :cursor
             if @screen_mode == :dictionary
@@ -175,6 +177,7 @@ module WordCircle
         draw_word(i, @cursor == i) if visible
       end
       draw_center_label(@cursor.to_i, false)
+      Curses.refresh
     end
 
     def erase_all_words
