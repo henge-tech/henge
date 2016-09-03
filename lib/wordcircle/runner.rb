@@ -211,7 +211,24 @@ module WordCircle
     end
 
     def say_all
-      text = @words.join(' ')
+      text = ''
+      unit = @words.length / 4
+      unit = 4 if unit == 2
+
+      @words.each_with_index do |w, i|
+        text += w
+
+        if i != @words.length - 1
+          if i != 0 && (i + 1) % unit == 0
+            text += ', '
+          else
+            text += ' '
+          end
+        end
+      end
+      # puts text
+
+      # text = @words.join(' ')
       %x{say #{Shellwords.shellescape(text)}}
     end
 
