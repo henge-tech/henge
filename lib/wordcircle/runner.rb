@@ -1,11 +1,12 @@
 module WordCircle
 
   class Runner
-    DIRECT_KEYS = %w{0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J}
+    DIRECT_KEYS = '0123456789)!@#$%^&*('.split('')
 
     def initialize
       @o = [40, 18]
       @circles_dir = File.join(__dir__, '../../data/circles')
+      Curses.timeout = 200
     end
 
     def load_words
@@ -49,6 +50,7 @@ module WordCircle
       Curses.noecho()
       c = Curses.getch
       Curses.echo()
+      @key = nil
 
       if c == 'q'
         @key = :quit
@@ -110,8 +112,9 @@ module WordCircle
 
         loop do
           get_key_input
-
-          if @key == :quit
+          if @key.nil?
+            next
+          elsif @key == :quit
             break
           elsif @key == :erase
             erase_all_words
@@ -254,7 +257,8 @@ module WordCircle
 
       key = DIRECT_KEYS[index]
 
-      Curses.addstr("#{@pattern}:#{key}")
+      # Curses.addstr("#{@pattern}:#{key}")
+      Curses.addstr("#{@pattern}")
 
       Curses.attroff(Curses::A_REVERSE)
     end
