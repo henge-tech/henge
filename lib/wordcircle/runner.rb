@@ -1,8 +1,6 @@
 module WordCircle
 
   class Runner
-
-    RAD = Math::PI / 180.0
     DIRECT_KEYS = %w{0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J}
 
     def initialize
@@ -11,7 +9,6 @@ module WordCircle
     end
 
     def load_words
-
       if ARGV[0]
         @pattern = ARGV[0]
         ARGV[0] = nil
@@ -24,7 +21,7 @@ module WordCircle
 
       file = File.join(@circles_dir, "#{@pattern}.yml")
       @words = YAML.load(File.read(file))
-      @unit = 360 / @words.length
+      @unit = Math::PI * 2 / @words.length
       @square = @words.length / 4
     end
 
@@ -191,7 +188,7 @@ module WordCircle
 
     def draw_word(index, marker)
       word = @words[index]
-      rad = (index * @unit - 90) * RAD
+      rad = index * @unit - Math::PI / 2
 
       x = 32 * Math.cos(rad) + @o[0]
       y = 16 * Math.sin(rad) + @o[1]
