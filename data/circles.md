@@ -1,4 +1,4 @@
-# Circles (850)
+# Circles (862)
 
 | File           | Entries        |
 |:---------------|:---------------|
@@ -13,6 +13,7 @@
 |_aff.yml        |**12**          |
 |_ager.yml       |**12**          |
 |_agon.yml       |**12**          |
+|_aid.yml        |**12**          |
 |_aim.yml        |**12**          |
 |_aine.yml       |**12**          |
 |_aint.yml       |**12**          |
@@ -362,6 +363,7 @@
 |a_rt.yml        |8               |
 |a_se.yml        |16              |
 |a_sh.yml        |**12**          |
+|a_ter.yml       |**12**          |
 |a_ure.yml       |**12**          |
 |a_x.yml         |8               |
 |ab_ion.yml      |16              |
@@ -402,6 +404,7 @@
 |b_ast.yml       |8               |
 |b_ble.yml       |**12**          |
 |b_ce.yml        |**12**          |
+|b_ck.yml        |**12**          |
 |b_el.yml        |**12**          |
 |b_f.yml         |**12**          |
 |b_ht.yml        |**12**          |
@@ -563,8 +566,10 @@
 |e_ence.yml      |**12**          |
 |e_ess.yml       |**12**          |
 |e_ge.yml        |**12**          |
+|e_ial.yml       |**12**          |
 |e_is.yml        |8               |
 |e_logy.yml      |**12**          |
+|e_ous.yml       |**12**          |
 |e_re.yml        |16              |
 |e_se.yml        |**12**          |
 |e_sion.yml      |**12**          |
@@ -658,6 +663,7 @@
 |lo_g.yml        |**12**          |
 |lo_t.yml        |**12**          |
 |m_able.yml      |**12**          |
+|m_ate.yml       |**12**          |
 |m_cal.yml       |16              |
 |m_de.yml        |**12**          |
 |m_gy.yml        |**12**          |
@@ -673,6 +679,7 @@
 |met_l.yml       |**12**          |
 |mi_st.yml       |**12**          |
 |mis_e.yml       |**12**          |
+|mis_t.yml       |**12**          |
 |mist_.yml       |8               |
 |mo_n.yml        |**12**          |
 |mo_t.yml        |**12**          |
@@ -689,6 +696,7 @@
 |no_l.yml        |**12**          |
 |nom_.yml        |**12**          |
 |nu_e.yml        |**12**          |
+|o_ate.yml       |16              |
 |o_ent.yml       |16              |
 |o_k.yml         |**12**          |
 |o_nce.yml       |**12**          |
@@ -697,6 +705,7 @@
 |o_ring.yml      |8               |
 |o_ss.yml        |**12**          |
 |ob_n.yml        |**12**          |
+|or_e.yml        |**12**          |
 |orc_.yml        |8               |
 |p_ar.yml        |**12**          |
 |p_ary.yml       |**12**          |
@@ -723,6 +732,7 @@
 |pe_ve.yml       |**12**          |
 |pec_.yml        |**12**          |
 |per_l.yml       |**12**          |
+|pla_e.yml       |**12**          |
 |plea_.yml       |8               |
 |pon_.yml        |**12**          |
 |pr_ent.yml      |**12**          |
@@ -801,6 +811,7 @@
 |sti_ng.yml      |8               |
 |sti_r.yml       |8               |
 |str_e.yml       |16              |
+|str_y.yml       |**12**          |
 |su_nt.yml       |**12**          |
 |subs_e.yml      |**12**          |
 |succ_.yml       |**12**          |
@@ -834,6 +845,7 @@
 |va_n.yml        |**12**          |
 |va_y.yml        |**12**          |
 |van_.yml        |**12**          |
+|vic_.yml        |**12**          |
 |vil_.yml        |**12**          |
 |vir_.yml        |**12**          |
 |vo_e.yml        |**12**          |
