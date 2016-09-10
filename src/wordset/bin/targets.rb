@@ -43,7 +43,7 @@ end
 wordsets -= supersets
 wordsets -= subsets
 
-wordsets = wordsets.reject { |w| w =~ /(?:s|ing|ed)\z/ }
+wordsets = wordsets.reject { |w| w =~ /(?:s|ing|ed|er|est)\z/ }
 wordsets = wordsets.select { |w| w =~ /#{ARGV[0]}/ }
 
 tmp = []
@@ -55,6 +55,7 @@ wordsets.each do |pat|
   total = data['score']
   spw = total / (hi + sc)
 
+  next if hi < 12
   tmp << {pat: pat, hi: hi, sc: sc, total: total, spw: spw}
 end
 wordsets = tmp
