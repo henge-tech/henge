@@ -6,11 +6,12 @@ require 'optparse'
 require 'shellwords'
 require 'unicode_utils/nfkc' # gem install unicode_utils
 
-opts = ARGV.getopts('wsS')
+opts = ARGV.getopts('ewsS')
 
 opts[:write] = opts['w']
 opts[:skip] = opts['s']
 opts[:sort] = opts['S']
+opts[:editing] = opts['e']
 
 data_dir = File.join(__dir__, '../data/')
 
@@ -32,6 +33,12 @@ outfile = nil
 
 out_dir = File.join(__dir__, '../../../data/circles/')
 outfile = File.join(out_dir, pattern + '.yml')
+filter = nil
+
+if opts[:editing]
+  filter = YAML.load(File.read(outfile))
+end
+
 if opts[:write]
   if File.exist?(outfile)
     puts "File already exists: #{ outfile }"
@@ -55,6 +62,9 @@ end
 hi_scored_words = data['hi_scored_words'].to_a
 if opts[:sort]
   hi_scored_words = hi_scored_words.sort {|a,b| a[1] <=> b[1]}
+end
+if opts[:editing]
+  hi_scored_words = hi_scored_words.select {|w| filter.include?(w[0]) }
 end
 
 hi_scored_words.each do |word, score|
@@ -84,6 +94,9 @@ scored_words = data['scored_words'].to_a
 if opts[:sort]
   scored_words = scored_words.sort {|a,b| a[1] <=> b[1]}
 end
+if opts[:editing]
+  scored_words = scored_words.select {|w| filter.include?(w[0]) }
+end
 
 scored_words.each do |word, score|
   dict = %x{osx-dictionary -d Japanese-English #{Shellwords.shellescape(word)}}
@@ -110,6 +123,8 @@ end
 puts "================================================================"
 
 data['not_scored_words'].each do |word|
+  next if opts[:editing] && !filter.include?(word)
+
   dict = %x{osx-dictionary -d Japanese-English #{Shellwords.shellescape(word)}}
   dict = UnicodeUtils.nfkc(dict)
 

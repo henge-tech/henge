@@ -1,4 +1,4 @@
-# Circles (950)
+# Circles (966)
 
 | File           | Entries        |
 |:---------------|:---------------|
@@ -76,6 +76,7 @@
 |_dom.yml        |**12**          |
 |_don.yml        |8               |
 |_dor.yml        |**12**          |
+|_down.yml       |**12**          |
 |_duct.yml       |**12**          |
 |_eak.yml        |**12**          |
 |_eate.yml       |**12**          |
@@ -396,6 +397,7 @@
 |ad_tion.yml     |**12**          |
 |ado_.yml        |**12**          |
 |adve_.yml       |**12**          |
+|ag_e.yml        |**12**          |
 |ai_e.yml        |**12**          |
 |al_y.yml        |**12**          |
 |ala_.yml        |8               |
@@ -444,6 +446,7 @@
 |bet_.yml        |**12**          |
 |bin_.yml        |**12**          |
 |bl_h.yml        |**12**          |
+|bl_t.yml        |**12**          |
 |bo_y.yml        |16              |
 |br_h.yml        |16              |
 |br_ly.yml       |**12**          |
@@ -564,6 +567,7 @@
 |del_e.yml       |**12**          |
 |dent_.yml       |8               |
 |dep_e.yml       |**12**          |
+|dep_n.yml       |**12**          |
 |dep_t.yml       |**12**          |
 |des_e.yml       |**12**          |
 |desc_.yml       |**12**          |
@@ -607,6 +611,7 @@
 |eli_.yml        |**12**          |
 |em_e.yml        |16              |
 |em_y.yml        |**12**          |
+|emba_.yml       |8               |
 |en_r.yml        |**12**          |
 |equa_.yml       |8               |
 |even_.yml       |**12**          |
@@ -616,6 +621,7 @@
 |ex_r.yml        |16              |
 |ex_ry.yml       |**12**          |
 |exc_y.yml       |**12**          |
+|exp_ion.yml     |**12**          |
 |exp_tion.yml    |**12**          |
 |ext_e.yml       |**12**          |
 |f_ble.yml       |**12**          |
@@ -628,6 +634,7 @@
 |f_o.yml         |**12**          |
 |f_sh.yml        |**12**          |
 |f_ter.yml       |16              |
+|f_th.yml        |**12**          |
 |fam_.yml        |**12**          |
 |fe_t.yml        |**12**          |
 |fe_y.yml        |16              |
@@ -647,6 +654,7 @@
 |g_ter.yml       |**12**          |
 |ga_y.yml        |16              |
 |gen_e.yml       |**12**          |
+|gh_.yml         |8               |
 |gin_.yml        |**12**          |
 |gl_r.yml        |**12**          |
 |gli_.yml        |**12**          |
@@ -677,6 +685,7 @@
 |i_se.yml        |**12**          |
 |im_ly.yml       |**12**          |
 |imm_e.yml       |**12**          |
+|impa_.yml       |**12**          |
 |in_ct.yml       |**12**          |
 |in_nal.yml      |**12**          |
 |in_rate.yml     |**12**          |
@@ -691,6 +700,7 @@
 |insi_.yml       |**12**          |
 |int_te.yml      |**12**          |
 |inte_tion.yml   |**12**          |
+|ir_y.yml        |**12**          |
 |j_al.yml        |**12**          |
 |j_n.yml         |**12**          |
 |ju_y.yml        |**12**          |
@@ -700,6 +710,7 @@
 |l_id.yml        |8               |
 |l_ous.yml       |**12**          |
 |l_ter.yml       |**12**          |
+|la_ly.yml       |**12**          |
 |lad_.yml        |**12**          |
 |le_n.yml        |20              |
 |le_r.yml        |**12**          |
@@ -724,6 +735,7 @@
 |m_ss.yml        |20              |
 |m_um.yml        |**12**          |
 |m_w.yml         |**12**          |
+|ma_al.yml       |**12**          |
 |ma_te.yml       |**12**          |
 |mar_n.yml       |**12**          |
 |mark_.yml       |**12**          |
@@ -833,6 +845,7 @@
 |re_ant.yml      |16              |
 |re_ess.yml      |**12**          |
 |re_in.yml       |8               |
+|re_ry.yml       |16              |
 |re_se.yml       |**12**          |
 |recu_.yml       |**12**          |
 |red_n.yml       |8               |
@@ -855,6 +868,7 @@
 |rot_.yml        |**12**          |
 |s_el.yml        |**12**          |
 |s_ery.yml       |**12**          |
+|s_ia.yml        |**12**          |
 |s_ial.yml       |**12**          |
 |s_id.yml        |**12**          |
 |s_ious.yml      |**12**          |
@@ -908,6 +922,7 @@
 |t_per.yml       |**12**          |
 |t_se.yml        |**12**          |
 |t_ut.yml        |**12**          |
+|t_ve.yml        |8               |
 |ta_n.yml        |**12**          |
 |ta_r.yml        |16              |
 |tam_.yml        |**12**          |
@@ -941,6 +956,7 @@
 |w_m.yml         |**12**          |
 |w_rd.yml        |**12**          |
 |w_re.yml        |**12**          |
+|wa_t.yml        |**12**          |
 |wan_.yml        |**12**          |
 |wee_.yml        |**12**          |
 |wel_.yml        |**12**          |
