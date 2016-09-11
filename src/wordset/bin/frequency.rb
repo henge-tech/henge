@@ -69,9 +69,9 @@ else
         end
       end
 
-      plot = %{set boxwidth 0.8 relative; set style fill solid;} #  border lc rgb "black"
-      plot += %{set terminal png; set datafile separator "\\t";}
-      plot += %{set output "tmp/freq.png";}
+      plot = %{set boxwidth 0.75 relative; set style fill solid;} #  border lc rgb "black"
+      plot += %{set terminal png size 900,600; set datafile separator "\\t";}
+      plot += %{set output "data/frequency.png";}
       plot += %{plot [-2000:300000] "tmp/freq.txt" with boxes lc rgb "red"}
       #  notitle  lw 2 using 0:2:xtic(1)
       %x{gnuplot -e '#{plot}'}
