@@ -9,12 +9,12 @@ Gem::Specification.new do |spec|
   spec.authors       = ["KOSEKI Kengo"]
   spec.email         = ["koseki@gmail.com"]
 
-  spec.summary       = %q{Word circle viewer.}
-  spec.description   = %q{Word circle viewer.}
+  spec.summary       = %q{English words memorization system using circular format}
+  spec.description   = %q{English words memorization system using circular format}
   spec.homepage      = "https://github.com/koseki/henge/"
   spec.license       = "MIT"
 
-  spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
+  spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features|src)/}) }
   spec.files        += Dir['data/circles/*.yml']
   spec.bindir        = "exe"
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
