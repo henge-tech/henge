@@ -1,4 +1,4 @@
-module WordCircle
+module Henge
 
   class Runner
     DIRECT_KEYS = '0123456789)!@#$%^&*('.split('')

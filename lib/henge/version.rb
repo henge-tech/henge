@@ -1,3 +1,3 @@
-module WordCircle
+module Henge
   VERSION = "0.1.0"
 end

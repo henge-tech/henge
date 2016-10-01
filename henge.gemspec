@@ -1,17 +1,17 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'wordcircle/version'
+require 'henge/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "wordcircle"
-  spec.version       = WordCircle::VERSION
+  spec.name          = "henge"
+  spec.version       = Henge::VERSION
   spec.authors       = ["KOSEKI Kengo"]
   spec.email         = ["koseki@gmail.com"]
 
   spec.summary       = %q{Word circle viewer.}
   spec.description   = %q{Word circle viewer.}
-  spec.homepage      = "https://github.com/koseki/wordcircle/"
+  spec.homepage      = "https://github.com/koseki/henge/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
