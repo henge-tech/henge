@@ -1,24 +1,17 @@
-# Henge
+![henge-logo](https://cloud.githubusercontent.com/assets/11028/19015136/36509f6c-8839-11e6-9db7-2a22e3b8e5f8.png)
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/henge`. To experiment with that code, run `bin/console` for an interactive prompt.
+# henge
 
-TODO: Delete this and the text above, and describe your gem
+ * https://www.youtube.com/watch?v=K-wJ7uWDAys
+ * https://www.youtube.com/watch?v=vfpN5TsaTtg
+ * https://www.youtube.com/watch?v=9RY2TNXBDxM
+ * https://github.com/koseki/henge-minecraft/
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'henge'
 ```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install henge
+$ gem install henge
+```
 
 ## Usage
 
