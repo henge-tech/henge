@@ -3,6 +3,7 @@
 .\#*
 tmp
 *.ignore
+.DS_Store
 
 /.bundle/
 /.yardoc
