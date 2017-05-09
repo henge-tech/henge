@@ -60,9 +60,11 @@ class ImageDownloader
   def query_api(url)
     if url =~ %r{\Ahttps://pixabay\.com/photo-(\d+)/\z}
       return query_pixabay_api(url, $1)
+    elsif url =~ %r{\Ahttps://pixabay\.com/en/.+-(\d+)/\z}
+      return query_pixabay_api(url, $1)
     elsif url =~ %r{\Ahttp://www\.irasutoya\.com/\d{4}/\d{2}/blog-post_\d+\.html\z}
       return query_irasutoya_api(url)
-    elsif url =~ %r{\Ahttps://commons\.wikimedia\.org/wiki/(File:[^&\?/#]+\.(?:jpe?g|png|gif))\z}i
+    elsif url =~ %r{\Ahttps://commons\.wikimedia\.org/wiki/(File:[^&\?/#]+\.(?:jpe?g|png|gif|svg))\z}i
       return query_wikipedia_api(url, $1)
     else
       puts "SKIP: #{url}"
@@ -197,6 +199,7 @@ class ImageDownloader
     end
 
     merged = {}
+
     source.each do |word, entries|
       merged[word] = []
       entries.each do |entry|
