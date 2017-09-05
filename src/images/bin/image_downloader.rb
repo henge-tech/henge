@@ -9,6 +9,7 @@ require 'open-uri'
 require 'awesome_print'
 require 'nokogiri'
 require 'dotenv/load'
+require 'RMagick'
 
 STDOUT.sync = true
 
@@ -20,6 +21,7 @@ class ImageDownloader
   def initialize
     @images_data_file = File.expand_path('../../../../data/images.yml', __FILE__)
     @images_dir = File.expand_path('../../images/', __FILE__)
+    @thumbs_dir = File.expand_path('../../thumbs/', __FILE__)
     @cache_dir = File.expand_path('../../cache/', __FILE__)
     @source_file = File.expand_path('../../images.txt', __FILE__)
   end
@@ -32,12 +34,15 @@ class ImageDownloader
       result[word] = []
       entries.each.with_index do |entry, i|
         if entry['ext']
-          image_file = File.join(@images_dir, image_file_name(word, i, entry['ext']))
+          filename = image_file_name(word, i, entry['ext'])
+          image_file = File.join(@images_dir, filename)
           if File.exist?(image_file)
-            result[word] << entry
+            generate_thumbnail(filename, false)
+            result[word] << Marshal.load(Marshal.dump(entry))
             next
           end
         end
+        puts word
         new_entry = download_image(word, entry['url'], i)
         new_entry.delete('cache_path')
         result[word] << new_entry
@@ -51,10 +56,23 @@ class ImageDownloader
     api_result = query_api(url)
     ext = api_result['ext']
     cache_path = api_result['cache_path']
-    image_file = File.join(@images_dir, image_file_name(word, index, ext))
+    filename = image_file_name(word, index, ext)
+    image_file = File.join(@images_dir, filename)
     FileUtils.cp(cache_path, image_file)
+    generate_thumbnail(filename, true)
 
     return api_result
+  end
+
+  def generate_thumbnail(filename, force = false)
+    src = File.join(@images_dir, filename)
+    dst = File.join(@thumbs_dir, filename)
+    if !force && File.exist?(dst)
+      return
+    end
+    puts dst
+    img = Magick::ImageList.new(src).first
+    img.resize_to_fill(128,128).write(dst)
   end
 
   def query_api(url)
@@ -62,12 +80,13 @@ class ImageDownloader
       return query_pixabay_api(url, $1)
     elsif url =~ %r{\Ahttps://pixabay\.com/en/.+-(\d+)/\z}
       return query_pixabay_api(url, $1)
-    elsif url =~ %r{\Ahttp://www\.irasutoya\.com/\d{4}/\d{2}/blog-post_\d+\.html\z}
+    elsif url =~ %r{\Ahttp://www\.irasutoya\.com/\d{4}/\d{2}/.+\.html(#\d+)?\z}
       return query_irasutoya_api(url)
     elsif url =~ %r{\Ahttps://commons\.wikimedia\.org/wiki/(File:[^&\?/#]+\.(?:jpe?g|png|gif|svg))\z}i
       return query_wikipedia_api(url, $1)
     else
-      puts "SKIP: #{url}"
+      puts "ERROR: unknown url pattern #{url}"
+      exit
     end
   end
 
@@ -99,7 +118,7 @@ class ImageDownloader
     img_pos = 0
     page_url = url
     if page_url =~ /#(\d+)\z/
-      img_pos = $1.to_i
+      img_pos = $1.to_i - 1
       page_url = page_url.sub(/#(\d+)\z/, '')
     end
 
@@ -160,7 +179,10 @@ class ImageDownloader
     cache_url ||= real_url
     cache_file = prefix + Digest::MD5.hexdigest(cache_url) + '.' + ext
     cache_path = File.join(@cache_dir, cache_file)
-    return cache_path if File.exist?(cache_path)
+    if File.exist?(cache_path)
+      puts cache_url + "\t" + cache_file
+      return cache_path
+    end
 
     open(cache_path, 'wb') do |output|
       open(real_url) do |input|
@@ -173,10 +195,15 @@ class ImageDownloader
     cache_path
   end
 
+  def encode_to_s3_key(string)
+    # from CGI.escape
+    string.gsub(/([^-a-zA-Z0-9]+)/) do
+      '%' + $1.unpack('H2' * $1.bytesize).join('%').upcase
+    end.tr('%', '_')
+  end
+
   def image_file_name(word, index, ext, type = '')
-    word = URI.encode_www_form_component(word)
-    word = word.gsub(/\./, '%2E')
-    name = word
+    name = encode_to_s3_key(word)
     if index > 0
       name += ".#{index}"
     end
@@ -225,11 +252,15 @@ class ImageDownloader
         data[word] << { 'url' => line }
       else
         word = line
+        if data[word]
+          puts "ERROR: duplicated: #{word}"
+          exit
+        end
         data[word] ||= []
       end
     end
 
-    return Hash[data.to_a.select {|a| !a[1].empty? }]
+    Hash[data.to_a.select {|a| !a[1].empty? }]
   end
 
   def load_yaml
