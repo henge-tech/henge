@@ -6,6 +6,7 @@ GEM
     mini_portile2 (2.1.0)
     nokogiri (1.7.1)
       mini_portile2 (~> 2.1.0)
+    rmagick (2.16.0)
 
 PLATFORMS
   ruby
@@ -14,6 +15,7 @@ DEPENDENCIES
   awesome_print
   dotenv
   nokogiri
+  rmagick
 
 BUNDLED WITH
    1.13.6
