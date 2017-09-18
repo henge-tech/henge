@@ -200,7 +200,7 @@
 |_ncer.yml       |**12**          |
 |_ndle.yml       |**12**          |
 |_ndly.yml       |**12**          |
-|_ndy.yml        |**12**          |
+|_ndy.yml        |8               |
 |_nel.yml        |**12**          |
 |_nent.yml       |**12**          |
 |_nery.yml       |16              |
@@ -400,7 +400,7 @@
 |acc_ion.yml     |**12**          |
 |acc_y.yml       |**12**          |
 |accu_.yml       |**12**          |
-|acqu_.yml       |**12**          |
+|acqu_.yml       |8               |
 |ad_ive.yml      |8               |
 |ad_tion.yml     |**12**          |
 |ado_.yml        |**12**          |
