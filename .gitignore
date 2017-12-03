@@ -4,6 +4,7 @@
 tmp
 *.ignore
 .DS_Store
+.ruby-version
 
 /.bundle/
 /.yardoc

@@ -22,6 +22,9 @@ class ImageDownloader
     @images_data_file = File.expand_path('../../../../data/images.yml', __FILE__)
     @images_dir = File.expand_path('../../images/', __FILE__)
     @thumbs_dir = File.expand_path('../../thumbs/', __FILE__)
+    @lowrez1_dir = File.expand_path('../../thumbs-low1/', __FILE__)
+    @lowrez2_dir = File.expand_path('../../thumbs-low2/', __FILE__)
+    @lowrez3_dir = File.expand_path('../../thumbs-low3/', __FILE__)
     @cache_dir = File.expand_path('../../cache/', __FILE__)
     @source_file = File.expand_path('../../images.txt', __FILE__)
   end
@@ -67,12 +70,41 @@ class ImageDownloader
   def generate_thumbnail(filename, force = false)
     src = File.join(@images_dir, filename)
     dst = File.join(@thumbs_dir, filename)
-    if !force && File.exist?(dst)
-      return
-    end
     puts dst
-    img = Magick::ImageList.new(src).first
-    img.resize_to_fill(128,128).write(dst)
+    if force || !File.exist?(dst)
+      img = Magick::ImageList.new(src).first
+      img.resize_to_fill(128,128).write(dst)
+    end
+
+    src = File.join(@thumbs_dir, filename)
+    dst = File.join(@lowrez1_dir, filename)
+    if force || !File.exist?(dst)
+      img = Magick::ImageList.new(src).first
+      resolution = 8 * 2
+      img.resize(img.columns / resolution, img.rows / resolution)
+         .resize(img.columns, img.rows, Magick::PointFilter)
+         .write(dst)
+    end
+
+    src = File.join(@thumbs_dir, filename)
+    dst = File.join(@lowrez2_dir, filename)
+    if force || !File.exist?(dst)
+      img = Magick::ImageList.new(src).first
+      resolution = 8 * 3
+      img.resize(img.columns / resolution, img.rows / resolution)
+         .resize(img.columns, img.rows, Magick::PointFilter)
+         .write(dst)
+    end
+
+    src = File.join(@thumbs_dir, filename)
+    dst = File.join(@lowrez3_dir, filename)
+    if force || !File.exist?(dst)
+      img = Magick::ImageList.new(src).first
+      resolution = 128
+      img.resize(img.columns / resolution, img.rows / resolution)
+         .resize(img.columns, img.rows, Magick::PointFilter)
+         .write(dst)
+    end
   end
 
   def query_api(url)
