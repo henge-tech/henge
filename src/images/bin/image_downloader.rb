@@ -216,8 +216,10 @@ class ImageDownloader
       return cache_path
     end
 
-    open(cache_path, 'wb') do |output|
-      open(real_url) do |input|
+    puts real_url
+
+    open(real_url) do |input|
+      open(cache_path, 'wb') do |output|
         output.write(input.read)
       end
     end
