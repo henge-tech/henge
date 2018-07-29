@@ -1,32 +1,19 @@
 blab:
+- url: https://pixabay.com/en/girls-whispering-best-friends-young-914823/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e034b5072af71c2ad65a5854e2494590e573ebc818b4134194f3c171afe4_640.jpg
+  api: https://pixabay.com/api/?id=914823&key=
+  credit:
+    name: Olichel
+    id: 529835
 - url: http://www.irasutoya.com/2013/08/blog-post_5392.html
   site: irasutoya
   ext: png
   original: http://4.bp.blogspot.com/-eEF00CD3aWI/WLEu8LPimNI/AAAAAAABCG0/e6DuoW9YXNEF4ZvyFajPs4eAsmDaYycPgCLcB/s640/osyaberi2.png
   api: http://www.irasutoya.com/2013/08/blog-post_5392.html
-- url: https://pixabay.com/photo-1280521/
-  site: pixabay
-  ext: jpg
-  original: https://pixabay.com/get/e837b90f2df6003ed95c4518b7484395e571e6dc04b0154896f8c87da4edbd_640.jpg
-  api: https://pixabay.com/api/?id=1280521&key=
-  credit:
-    name: freephotocc
-    id: 2275370
 crab:
-- url: http://www.irasutoya.com/2014/05/blog-post_1451.html
-  site: irasutoya
-  ext: png
-  original: http://3.bp.blogspot.com/-PtIvByyIB0w/U1T4EGfgE-I/AAAAAAAAfco/KyTPi-THWOA/s640/seiza04_kani.png
-  api: http://www.irasutoya.com/2014/05/blog-post_1451.html
-- url: https://pixabay.com/photo-1611331/
-  site: pixabay
-  ext: jpg
-  original: https://pixabay.com/get/e833b00e2bf7003ed95c4518b7484395e571e6dc04b0154896f8c87da4ecb7_640.jpg
-  api: https://pixabay.com/api/?id=1611331&key=
-  credit:
-    name: naturalogy
-    id: 583455
-- url: https://pixabay.com/photo-63084/
+- url: https://pixabay.com/en/crab-red-klippenkrabbe-63084/
   site: pixabay
   ext: jpg
   original: https://pixabay.com/get/ef36b1072ce90825d0471401e34f4090e77effd41db812499cf4c278a1_640.jpg
@@ -34,6 +21,11 @@ crab:
   credit:
     name: WikiImages
     id: 1897
+- url: http://www.irasutoya.com/2014/05/blog-post_1451.html
+  site: irasutoya
+  ext: png
+  original: http://3.bp.blogspot.com/-PtIvByyIB0w/U1T4EGfgE-I/AAAAAAAAfco/KyTPi-THWOA/s640/seiza04_kani.png
+  api: http://www.irasutoya.com/2014/05/blog-post_1451.html
 dab:
 - url: http://www.irasutoya.com/2013/08/blog-post_27.html
   site: irasutoya
@@ -6777,14 +6769,14 @@ zircon:
     name: CC BY-SA 3.0
     url: http://creativecommons.org/licenses/by-sa/3.0
 cope:
-- url: https://pixabay.com/en/ball-and-chain-restrain-heavy-icon-2624325/
+- url: https://pixabay.com/en/climb-mountain-1434315/
   site: pixabay
   ext: jpg
-  original: https://pixabay.com/get/eb33b30b2bf6043ed95c4518b7484395e571e6dc04b0144091f9c971a6e8b4_640.jpg
-  api: https://pixabay.com/api/?id=2624325&key=
+  original: https://pixabay.com/get/e831b20b2bf5043ed95c4518b7484395e571e6dc04b014409df9c27ba2e9bc_640.jpg
+  api: https://pixabay.com/api/?id=1434315&key=
   credit:
-    name: skeeze
-    id: 272447
+    name: Counselling
+    id: 440107
 endoscope:
 - url: https://commons.wikimedia.org/wiki/File:Flexibles_Endoskop.jpg
   site: wikipedia
@@ -6927,14 +6919,14 @@ didactic:
     name: sasint
     id: 3639875
 eclectic:
-- url: https://pixabay.com/en/twilight-power-lines-evening-532720/
+- url: https://pixabay.com/en/belgium-antwerp-office-building-1748930/
   site: pixabay
   ext: jpg
-  original: https://pixabay.com/get/ec36b3082af41c2ad65a5854e2494590e573ebc818b410459cf8c97ba4ee_640.jpg
-  api: https://pixabay.com/api/?id=532720&key=
+  original: https://pixabay.com/get/e832b50721f7013ed95c4518b7484395e571e6dc04b014409df9c27ba2e8b1_640.jpg
+  api: https://pixabay.com/api/?id=1748930&key=
   credit:
-    name: Nikiko
-    id: 268709
+    name: olafpictures
+    id: 2427999
 hectic:
 - url: https://pixabay.com/en/busy-office-ol-answer-the-phone-880800/
   site: pixabay
@@ -7202,6 +7194,141 @@ viscus:
   ext: png
   original: http://4.bp.blogspot.com/-i4cYYCLRcV4/Uf8zf1AmlMI/AAAAAAAAWq8/mTm0MxDLCMM/s640/body_naizou.png
   api: http://www.irasutoya.com/2013/11/blog-post_15.html
+abundant:
+- url: https://pixabay.com/en/madeira-funchal-market-350899/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea30b10721fd1c2ad65a5854e2494590e573ebc818b4134194f3c171aeea_640.jpg
+  api: https://pixabay.com/api/?id=350899&key=
+  credit:
+    name: Tina75
+    id: 263669
+antioxidant:
+- url: https://pixabay.com/en/food-photography-salad-leaves-2834549/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb3db20b2df0083ed95c4518b7484395e571e6dc04b0144395f1c279aeedb6_640.jpg
+  api: https://pixabay.com/api/?id=2834549&key=
+  credit:
+    name: Sponchia
+    id: 443272
+ascendant:
+- url: https://pixabay.com/en/dragons-wind-autumn-fly-sky-blue-957501/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e030b60a28f51c2ad65a5854e2494590e573ebc818b4134194f3c170a7e5_640.jpg
+  api: https://pixabay.com/api/?id=957501&key=
+  credit:
+    name: Sweetaholic
+    id: 296788
+attendant:
+- url: https://commons.wikimedia.org/wiki/File:Austrian_Airlines_flight_attendant_and_passenger.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Austrian_Airlines_flight_attendant_and_passenger.jpg/640px-Austrian_Airlines_flight_attendant_and_passenger.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Austrian_Airlines_flight_attendant_and_passenger.jpg
+  license:
+    name: CC BY-SA 2.0
+    url: https://creativecommons.org/licenses/by-sa/2.0
+concordant:
+- url: https://pixabay.com/en/human-lovers-night-sky-starry-sky-1215160/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e837b00a29f2013ed95c4518b7484395e571e6dc04b0144395f1c279aeecb1_640.jpg
+  api: https://pixabay.com/api/?id=1215160&key=
+  credit:
+    name: cocoparisienne
+    id: 127419
+confidant:
+- url: https://pixabay.com/en/best-friends-friends-girlfriends-1425552/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e831b30a2df1033ed95c4518b7484395e571e6dc04b0144091f7c979a3e8b0_640.jpg
+  api: https://pixabay.com/api/?id=1425552&key=
+  credit:
+    name: ItsMirkwoodGirl
+    id: 2294089
+defendant:
+- url: https://pixabay.com/en/police-handcuffs-arrest-detention-2122373/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb34b30d2bf3023ed95c4518b7484395e571e6dc04b0144395f1c279aeecbc_640.jpg
+  api: https://pixabay.com/api/?id=2122373&key=
+  credit:
+    name: ROOKIE23
+    id: 4711018
+descendant:
+- url: https://pixabay.com/en/child-portrait-face-grandfather-1225204/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e837b30a2af4053ed95c4518b7484395e571e6dc04b0144395f1c279aeefb0_640.jpg
+  api: https://pixabay.com/api/?id=1225204&key=
+  credit:
+    name: GolamMurshed
+    id: 2125409
+discordant:
+- url: https://pixabay.com/en/people-guy-man-sound-music-2562350/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb30b70d2bf1013ed95c4518b7484395e571e6dc04b0144395f1c279aeeeb4_640.jpg
+  api: https://pixabay.com/api/?id=2562350&key=
+  credit:
+    name: StockSnap
+    id: 894430
+fondant:
+- url: https://pixabay.com/en/wedding-cake-cream-pie-wedding-cake-639516/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ef36b80a29f21c2ad65a5854e2494590e573ebc818b4134194f3c170a4eb_640.jpg
+  api: https://pixabay.com/api/?id=639516&key=
+  credit:
+    name: congerdesign
+    id: 509903
+mordant:
+- url: https://pixabay.com/en/criticism-write-a-review-review-3083099/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea35b90c28fd083ed95c4518b7484395e571e6dc04b0144395f1c279aee9b4_640.jpg
+  api: https://pixabay.com/api/?id=3083099&key=
+  credit:
+    name: geralt
+    id: 9301
+pedant:
+- url: https://pixabay.com/en/thinking-man-chroma-key-notebook-849622/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e131b8092af61c2ad65a5854e2494590e573ebc818b4134194f3c170a3ea_640.jpg
+  api: https://pixabay.com/api/?id=849622&key=
+  credit:
+    name: Agadilov
+    id: 1214864
+redundant:
+- url: https://pixabay.com/en/fractal-complexity-geometry-1758543/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e832b4072df0023ed95c4518b7484395e571e6dc04b0144395f1c279aee8b4_640.jpg
+  api: https://pixabay.com/api/?id=1758543&key=
+  credit:
+    name: TheDigitalArtist
+    id: 202249
+retardant:
+- url: https://pixabay.com/en/helicopter-seaplane-forest-fire-545433/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ec31b40b2bf71c2ad65a5854e2494590e573ebc818b4134194f3c170a2e8_640.jpg
+  api: https://pixabay.com/api/?id=545433&key=
+  credit:
+    name: javipolinario
+    id: 607673
+verdant:
+- url: https://pixabay.com/en/green-rose-viridescent-verdant-2861805/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb3db70e20f4043ed95c4518b7484395e571e6dc04b0144395f1c279aee8bc_640.jpg
+  api: https://pixabay.com/api/?id=2861805&key=
+  credit:
+    name: SandeepHanda
+    id: 5704921
 combustible:
 - url: https://pixabay.com/en/firefighters-fire-flames-outside-115800/
   site: pixabay
