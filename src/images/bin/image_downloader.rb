@@ -47,6 +47,7 @@ class ImageDownloader
         end
         puts word
         new_entry = download_image(word, entry['url'], i)
+        next if new_entry.nil?
         new_entry.delete('cache_path')
         result[word] << new_entry
       end
@@ -57,6 +58,8 @@ class ImageDownloader
 
   def download_image(word, url, index)
     api_result = query_api(url)
+    return nil if api_result.nil?
+
     ext = api_result['ext']
     cache_path = api_result['cache_path']
     filename = image_file_name(word, index, ext)
@@ -117,20 +120,23 @@ class ImageDownloader
     elsif url =~ %r{\Ahttps://commons\.wikimedia\.org/wiki/(File:[^&\?/#]+\.(?:jpe?g|png|gif|svg))\z}i
       return query_wikipedia_api(url, $1)
     else
-      puts "ERROR: unknown url pattern #{url}"
-      exit
+      abort "ERROR: unknown url pattern #{url}"
     end
   end
 
   def query_pixabay_api(url, id)
     cache_url = "https://pixabay.com/api/?id=#{id}&key="
     real_url = cache_url + ENV['PIXABAY_API_KEY']
-    cache_path = save_url('pba-', 'json', real_url, cache_url)
+    cache_path = save_url('pba-', 'json', real_url, cache_url, true)
+    return nil if cache_path.nil?
+
     data = JSON.parse(File.read(cache_path))
     data = data['hits'][0]
     image_url = data['webformatURL']
     ext = image_url[/\.([a-zA-Z]{2,4})\z/, 1].downcase
-    cache_path = save_url('pbi-', ext, image_url) unless ext.empty?
+    return nil if ext.empty?
+    cache_path = save_url('pbi-', ext, image_url, nil, true)
+    return nil if cache_path.nil?
 
     return {
       'url' => url,
@@ -207,7 +213,7 @@ class ImageDownloader
     }
   end
 
-  def save_url(prefix, ext, real_url, cache_url = nil)
+  def save_url(prefix, ext, real_url, cache_url = nil, cache_only = false)
     cache_url ||= real_url
     cache_file = prefix + Digest::MD5.hexdigest(cache_url) + '.' + ext
     cache_path = File.join(@cache_dir, cache_file)
@@ -215,6 +221,8 @@ class ImageDownloader
       puts cache_url + "\t" + cache_file
       return cache_path
     end
+
+    return nil if cache_only
 
     puts real_url
 
@@ -287,8 +295,7 @@ class ImageDownloader
       else
         word = line
         if data[word]
-          puts "ERROR: duplicated: #{word}"
-          exit
+          abort "ERROR: duplicated: #{word}"
         end
         data[word] ||= []
       end
