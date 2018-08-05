@@ -29,7 +29,6 @@ class ImageDownloader
     @source_file = File.expand_path('../../images.txt', __FILE__)
   end
 
-  # crab.jpg crab.thumb.jpg crab.1.jpg crab.1.thumb.jpg
   def execute
     data = load_merged_data
     result = {}
@@ -45,7 +44,7 @@ class ImageDownloader
             next
           end
         end
-        puts word
+        puts "New: #{word}"
         new_entry = download_image(word, entry['url'], i)
         next if new_entry.nil?
         new_entry.delete('cache_path')
@@ -73,10 +72,10 @@ class ImageDownloader
   def generate_thumbnail(filename, force = false)
     src = File.join(@images_dir, filename)
     dst = File.join(@thumbs_dir, filename)
-    puts dst
     if force || !File.exist?(dst)
       img = Magick::ImageList.new(src).first
       img.resize_to_fill(128,128).write(dst)
+      puts "Generated: #{dst}"
     end
 
     src = File.join(@thumbs_dir, filename)
@@ -87,6 +86,7 @@ class ImageDownloader
       img.resize(img.columns / resolution, img.rows / resolution)
          .resize(img.columns, img.rows, Magick::PointFilter)
          .write(dst)
+      puts "Generated: #{dst}"
     end
 
     src = File.join(@thumbs_dir, filename)
@@ -97,6 +97,7 @@ class ImageDownloader
       img.resize(img.columns / resolution, img.rows / resolution)
          .resize(img.columns, img.rows, Magick::PointFilter)
          .write(dst)
+      puts "Generated: #{dst}"
     end
 
     src = File.join(@thumbs_dir, filename)
@@ -107,6 +108,7 @@ class ImageDownloader
       img.resize(img.columns / resolution, img.rows / resolution)
          .resize(img.columns, img.rows, Magick::PointFilter)
          .write(dst)
+      puts "Generated: #{dst}"
     end
   end
 
@@ -115,7 +117,7 @@ class ImageDownloader
       return query_pixabay_api(url, $1)
     elsif url =~ %r{\Ahttps://pixabay\.com/en/.+-(\d+)/\z}
       return query_pixabay_api(url, $1)
-    elsif url =~ %r{\Ahttp://www\.irasutoya\.com/\d{4}/\d{2}/.+\.html(#\d+)?\z}
+    elsif url =~ %r{\Ahttps?://www\.irasutoya\.com/\d{4}/\d{2}/.+\.html(#\d+)?\z}
       return query_irasutoya_api(url)
     elsif url =~ %r{\Ahttps://commons\.wikimedia\.org/wiki/(File:[^&\?/#]+\.(?:jpe?g|png|gif|svg))\z}i
       return query_wikipedia_api(url, $1)
@@ -154,7 +156,9 @@ class ImageDownloader
 
   def query_irasutoya_api(url)
     img_pos = 0
-    page_url = url
+    page_url = url.sub(/\Ahttp:/, 'https:')
+    # cache_url = url.sub(/\Ahttps:/, 'http:')
+
     if page_url =~ /#(\d+)\z/
       img_pos = $1.to_i - 1
       page_url = page_url.sub(/#(\d+)\z/, '')
@@ -168,6 +172,7 @@ class ImageDownloader
     atags.each do |a|
       image_url = a.attr('href')
       image_url = image_url.sub(%r{/s\d+/([^/]+)\z}, '/s640/\1')
+      image_url = image_url.sub(%r{\A//}, 'https://')
       urls << image_url
     end
     image_url = urls[img_pos]
@@ -175,12 +180,12 @@ class ImageDownloader
     cache_path = save_url('iyi-', ext, image_url) unless ext.empty?
 
     return {
-      'url' => url,
+      'url' => page_url,
       'cache_path' => cache_path,
       'site' => 'irasutoya',
       'ext' => ext,
       'original' => image_url,
-      'api' => url,
+      'api' => page_url,
     }
   end
 
