@@ -7329,16 +7329,48 @@ verdant:
   credit:
     name: SandeepHanda
     id: 5704921
-accommodate: []
+accommodate:
+- url: https://pixabay.com/en/audience-speech-speaker-1677028/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e833b60828f6093ed1584d05fb1d4293e071e4d110ac104496f3c77fa5eab4b1_640.jpg
+  api: https://pixabay.com/api/?id=1677028&key=
+  credit:
+    name: MariSmithPix
+    id: 2308616
 candidate:
 - url: https://www.irasutoya.com/2013/07/blog-post_4530.html
   site: irasutoya
   ext: png
   original: https://3.bp.blogspot.com/-eDfUUHhCSHA/UdoBaxFbgCI/AAAAAAAAV9Q/U27ttsjxvmU/s640/net_senkyo.png
   api: https://www.irasutoya.com/2013/07/blog-post_4530.html
-elucidate: []
-intimidate: []
-inundate: []
+elucidate:
+- url: https://pixabay.com/en/school-chemistry-uganda-teacher-1589323/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e830b9062bf6023ed1584d05fb1d4293e071e4d110ac104496f3c77fa5e4b3b8_640.jpg
+  api: https://pixabay.com/api/?id=1589323&key=
+  credit:
+    name: reteach92
+    id: 3089968
+intimidate:
+- url: https://pixabay.com/en/broken-glass-school-damaged-window-1391025/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e836b80e28f6043ed1584d05fb1d4293e071e4d110ac104496f3c77fa5e4b3bc_640.jpg
+  api: https://pixabay.com/api/?id=1391025&key=
+  credit:
+    name: paulsbarlow7
+    id: 2564869
+inundate:
+- url: https://pixabay.com/en/high-water-elbe-meissen-emergency-876580/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e132b70a20f41c22d2524518b7484395e571e6dc04b0144296f6c77baeebbd_640.jpg
+  api: https://pixabay.com/api/?id=876580&key=
+  credit:
+    name: LucyKaef
+    id: 1272414
 invalidate:
 - url: https://pixabay.com/en/divorce-separation-marriage-breakup-619195/
   site: pixabay
@@ -7348,11 +7380,51 @@ invalidate:
   credit:
     name: stevepb
     id: 282134
-liquidate: []
-mandate: []
-predate: []
-sedate: []
-validate: []
+liquidate:
+- url: https://pixabay.com/en/taxes-count-pay-lifestyle-quandary-740202/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ee31b10d28f61c22d2524518b7484395e571e6dc04b0144296f6c77baeeab7_640.jpg
+  api: https://pixabay.com/api/?id=740202&key=
+  credit:
+    name: yourschantz
+    id: 282976
+mandate:
+- url: https://pixabay.com/en/paper-contract-license-signature-3261159/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea37b70e29f1083ed1584d05fb1d4293e071e4d110ac104496f3c77fa5e4b2bf_640.jpg
+  api: https://pixabay.com/api/?id=3261159&key=
+  credit:
+    name: mohamed_hassan
+    id: 5229782
+predate:
+- url: https://pixabay.com/en/paper-composition-business-writing-3141341/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea34b50e2bf0003ed1584d05fb1d4293e071e4d110ac104496f3c77fa5e4bdb8_640.jpg
+  api: https://pixabay.com/api/?id=3141341&key=
+  credit:
+    name: rawpixel
+    id: 4283981
+sedate:
+- url: https://pixabay.com/en/megaphone-desktop-aerial-background-3253350/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea37b40c2bf1013ed1584d05fb1d4293e071e4d110ac104496f3c77fa5e4bdbc_640.jpg
+  api: https://pixabay.com/api/?id=3253350&key=
+  credit:
+    name: rawpixel
+    id: 4283981
+validate:
+- url: https://pixabay.com/en/checklist-goals-box-notebook-pen-2589418/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb30b9062cf5093ed1584d05fb1d4293e071e4d110ac104496f3c77fa5e4bdb1_640.jpg
+  api: https://pixabay.com/api/?id=2589418&key=
+  credit:
+    name: StockSnap
+    id: 894430
 bedridden:
 - url: https://www.irasutoya.com/2015/08/blog-post_3.html
   site: irasutoya
@@ -7365,11 +7437,43 @@ bidden:
   ext: png
   original: https://2.bp.blogspot.com/-qqWjFwOx38c/V6iHbz-O_cI/AAAAAAAA87U/wQC8blPF--k7CX01DHcBLnNnzaWScC8BACLcB/s640/auction_shopping.png
   api: https://www.irasutoya.com/2016/08/blog-post_401.html
-downtrodden: []
-forbidden: []
-gladden: []
+downtrodden:
+- url: https://pixabay.com/en/dog-street-sleeping-canine-animal-3301348/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea36b10e2bf0093ed1584d05fb1d4293e071e4d110ac104496f3c77fa5e4bcbb_640.jpg
+  api: https://pixabay.com/api/?id=3301348&key=
+  credit:
+    name: ddzphoto
+    id: 5605533
+forbidden:
+- url: https://pixabay.com/en/prohibited-ban-bike-prohibitory-2651301/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb33b40e2bf4003ed1584d05fb1d4293e071e4d110ac104496f3c77fa5e4bcb0_640.jpg
+  api: https://pixabay.com/api/?id=2651301&key=
+  credit:
+    name: Reisefreiheit_eu
+    id: 5746148
+gladden:
+- url: https://pixabay.com/en/bouquet-flowers-gift-gesture-1246848/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e837b50920f0093ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb5bb_640.jpg
+  api: https://pixabay.com/api/?id=1246848&key=
+  credit:
+    name: Free-Photos
+    id: 242387
 hidden: []
-madden: []
+madden:
+- url: https://pixabay.com/en/bison-european-bison-animal-large-2118538/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb34b0072df7093ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb5b0_640.jpg
+  api: https://pixabay.com/api/?id=2118538&key=
+  credit:
+    name: LubosHouska
+    id: 198496
 midden:
 - url: https://commons.wikimedia.org/wiki/File:Conchero_al_sur_de_Puerto_Deseado.jpg
   site: wikipedia
@@ -7379,12 +7483,52 @@ midden:
   license:
     name: CC BY-SA 4.0
     url: https://creativecommons.org/licenses/by-sa/4.0
-overridden: []
+overridden:
+- url: https://pixabay.com/en/matryoshka-russian-dolls-nesting-970943/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e032b1062cf71c22d2524518b7484395e571e6dc04b0144296f6c77aa7ecb6_640.jpg
+  api: https://pixabay.com/api/?id=970943&key=
+  credit:
+    name: jackmac34
+    id: 483877
 redden: []
-ridden: []
-sadden: []
-sodden: []
-sudden: []
+ridden:
+- url: https://pixabay.com/en/baboon-baby-ride-cute-comical-2798928/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb32b80721f6093ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb4b1_640.jpg
+  api: https://pixabay.com/api/?id=2798928&key=
+  credit:
+    name: IanZA
+    id: 2026973
+sadden:
+- url: https://pixabay.com/en/masks-feelings-state-of-mind-701837/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ee35b0072bf31c22d2524518b7484395e571e6dc04b0144296f6c77aa7efb6_640.jpg
+  api: https://pixabay.com/api/?id=701837&key=
+  credit:
+    name: Gadini
+    id: 388416
+sodden:
+- url: https://pixabay.com/en/wet-people-water-outdoors-nature-3227468/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea37b3082cf2093ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb7bf_640.jpg
+  api: https://pixabay.com/api/?id=3227468&key=
+  credit:
+    name: Bright_Neon
+    id: 8370639
+sudden:
+- url: https://pixabay.com/en/accident-crash-tree-auto-pkw-2161956/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb34b70e21f1073ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb6ba_640.jpg
+  api: https://pixabay.com/api/?id=2161956&key=
+  credit:
+    name: Rico_Loeb
+    id: 1646421
 trodden:
 - url: https://pixabay.com/en/foot-lawn-fingers-barefoot-2268333/
   site: pixabay
@@ -7394,7 +7538,15 @@ trodden:
   credit:
     name: cromaconceptovisual
     id: 4595909
-unbidden: []
+unbidden:
+- url: https://pixabay.com/en/donkeys-car-road-begging-feed-1130681/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e834b20f2efc003ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb6bf_640.jpg
+  api: https://pixabay.com/api/?id=1130681&key=
+  credit:
+    name: elljay
+    id: 962436
 coddle:
 - url: https://commons.wikimedia.org/wiki/File:Coddle.jpg
   site: wikipedia
@@ -7404,16 +7556,88 @@ coddle:
   license:
     name: CC-BY-SA-3.0
     url: http://creativecommons.org/licenses/by-sa/3.0/
-cuddle: []
-diddle: []
-fiddle: []
+cuddle:
+- url: https://pixabay.com/en/puppy-dog-little-girl-hug-cute-3074154/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea35b60b29f1053ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb1b9_640.jpg
+  api: https://pixabay.com/api/?id=3074154&key=
+  credit:
+    name: pisauikan
+    id: 4552082
+diddle:
+- url: https://pixabay.com/en/weightlifter-weight-force-muscles-3146825/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea34b50920f6043ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb1bd_640.jpg
+  api: https://pixabay.com/api/?id=3146825&key=
+  credit:
+    name: Bru-nO
+    id: 1161770
+fiddle:
+- url: https://pixabay.com/en/solo-violinist-playing-artist-1625307/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e833b30a2bf4063ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb0b8_640.jpg
+  api: https://pixabay.com/api/?id=1625307&key=
+  credit:
+    name: werner22brigitte
+    id: 5337
 griddle: []
-huddle: []
-meddle: []
-middle: []
-muddle: []
-paddle: []
-peddle: []
+huddle:
+- url: https://pixabay.com/en/pro-basketball-team-huddle-1594634/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e830b80b2ef7053ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb0bd_640.jpg
+  api: https://pixabay.com/api/?id=1594634&key=
+  credit:
+    name: KeithJJ
+    id: 2328014
+meddle:
+- url: https://pixabay.com/en/angry-businesswoman-conflict-3233158/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea37b20c29f1093ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb0b1_640.jpg
+  api: https://pixabay.com/api/?id=3233158&key=
+  credit:
+    name: mohamed_hassan
+    id: 5229782
+middle:
+- url: https://pixabay.com/en/bottles-alcohol-form-three-1640819/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e833b50f20f5083ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb3bb_640.jpg
+  api: https://pixabay.com/api/?id=1640819&key=
+  credit:
+    name: Alexas_Fotos
+    id: 686414
+muddle:
+- url: https://pixabay.com/en/post-letter-mail-box-letter-boxes-2828146/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb3db30729f0073ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb3b0_640.jpg
+  api: https://pixabay.com/api/?id=2828146&key=
+  credit:
+    name: ninita_7
+    id: 2506147
+paddle:
+- url: https://pixabay.com/en/kayaking-kayaker-kayak-water-sports-569282/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ec33b80d20f61c22d2524518b7484395e571e6dc04b0144296f6c77aa7eab6_640.jpg
+  api: https://pixabay.com/api/?id=569282&key=
+  credit:
+    name: skeeze
+    id: 272447
+peddle:
+- url: https://pixabay.com/en/tanzania-people-africa-shop-1536551/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e830b2092df1003ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edb2b0_640.jpg
+  api: https://pixabay.com/api/?id=1536551&key=
+  credit:
+    name: vasukibelavadi
+    id: 2930066
 piddle:
 - url: https://commons.wikimedia.org/wiki/File:Manneken_Pis_Brussel.jpg
   site: wikipedia
@@ -7423,38 +7647,150 @@ piddle:
   license:
     name: CC BY-SA 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0
-puddle: []
-riddle: []
-saddle: []
-straddle: []
+puddle:
+- url: https://pixabay.com/en/umbrella-puddle-kid-baby-kids-boy-2863648/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb3db70c2ef0093ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edbdbb_640.jpg
+  api: https://pixabay.com/api/?id=2863648&key=
+  credit:
+    name: Victoria_Borodinova
+    id: 6314823
+riddle:
+- url: https://pixabay.com/en/louvre-paris-statue-museum-france-2775430/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb32b60a2cf7013ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edbdb0_640.jpg
+  api: https://pixabay.com/api/?id=2775430&key=
+  credit:
+    name: NakNakNak
+    id: 90985
+saddle:
+- url: https://pixabay.com/en/saddle-bicycle-saddle-leather-saddle-2613958/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb33b00c21f1093ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edbcbb_640.jpg
+  api: https://pixabay.com/api/?id=2613958&key=
+  credit:
+    name: PIRO4D
+    id: 2707530
+straddle:
+- url: https://pixabay.com/en/competition-action-energy-horse-3188612/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea34b9072ef5033ed1584d05fb1d4293e071e4d110ac104496f3c77fa4edbcbf_640.jpg
+  api: https://pixabay.com/api/?id=3188612&key=
+  credit:
+    name: prunkova
+    id: 1589401
 toddle:
 - url: https://www.irasutoya.com/2016/06/blog-post_378.html
   site: irasutoya
   ext: png
   original: https://4.bp.blogspot.com/-jX7mfgMKFa4/V2FUdlJOjKI/AAAAAAAA7Xk/1_y300YTq7Y2D0tuzgxQhvxBbl5XohNrQCLcB/s640/animal_umaretate_kojika.png
   api: https://www.irasutoya.com/2016/06/blog-post_378.html
-twaddle: []
-twiddle: []
-waddle: []
-biddy: []
-buddy: []
-cruddy: []
-eddy: []
+twaddle:
+- url: https://pixabay.com/en/laptop-woman-education-study-young-3087585/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea35b9082dfc043ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb5b9_640.jpg
+  api: https://pixabay.com/api/?id=3087585&key=
+  credit:
+    name: JESHOOTScom
+    id: 264599
+twiddle:
+- url: https://pixabay.com/en/fidget-spinner-spinner-toys-2355037/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb36b40a28f7063ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb5bd_640.jpg
+  api: https://pixabay.com/api/?id=2355037&key=
+  credit:
+    name: Myriams-Fotos
+    id: 1627417
+waddle:
+- url: https://pixabay.com/en/swan-waddle-chicks-cute-bird-431640/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ed36b0092cf41c22d2524518b7484395e571e6dc04b0144296f6c77aa6edbc_640.jpg
+  api: https://pixabay.com/api/?id=431640&key=
+  credit:
+    name: last_firstborn
+    id: 406913
+biddy:
+- url: https://pixabay.com/en/chicken-hen-poultry-free-range-2789493/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb32b9062cfd023ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb4bb_640.jpg
+  api: https://pixabay.com/api/?id=2789493&key=
+  credit:
+    name: Capri23auto
+    id: 1767157
+buddy:
+- url: https://pixabay.com/en/football-captain-children-pupils-3285088/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea37b90a28fc093ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb4b1_640.jpg
+  api: https://pixabay.com/api/?id=3285088&key=
+  credit:
+    name: robci95
+    id: 7721622
+cruddy:
+- url: https://pixabay.com/en/dog-doggy-coker-spaniel-2414188/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb31b00b29fc093ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb7bb_640.jpg
+  api: https://pixabay.com/api/?id=2414188&key=
+  credit:
+    name: Katrina_S
+    id: 5565009
+eddy:
+- url: https://pixabay.com/en/drain-bathroom-sink-sanitary-water-2454608/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb31b40b2ef4093ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb7b0_640.jpg
+  api: https://pixabay.com/api/?id=2454608&key=
+  credit:
+    name: Semevent
+    id: 4278751
 giddy:
 - url: https://www.irasutoya.com/2013/10/blog-post_4401.html
   site: irasutoya
   ext: png
   original: https://1.bp.blogspot.com/-m--Zy9egz54/Uj_2TBp0VKI/AAAAAAAAX-0/hezPJ5eYhzU/s640/rollercoaster.png
   api: https://www.irasutoya.com/2013/10/blog-post_4401.html
-muddy: []
+muddy:
+- url: https://pixabay.com/en/okinawa-japan-mud-sand-bags-rifle-81673/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e134b7082be90021d85a5854e2494590e573ebc818b4124293f6c278a4ef_640.jpg
+  api: https://pixabay.com/api/?id=81673&key=
+  credit:
+    name: '12019'
+    id: 12019
 noddy:
 - url: https://www.irasutoya.com/2016/12/blog-post_139.html
   site: irasutoya
   ext: png
   original: https://3.bp.blogspot.com/-J84_1LdlQcQ/WCqr3WO_o8I/AAAAAAAA_xA/w7aUBeTWOKQ07-PXe-kAjB9wO0rSMR-wgCLcB/s640/bakanisuru.png
   api: https://www.irasutoya.com/2016/12/blog-post_139.html
-paddy: []
-ruddy: []
+paddy:
+- url: https://pixabay.com/en/agriculture-asia-autumn-botany-1552390/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e830b40d2bfd013ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb6be_640.jpg
+  api: https://pixabay.com/api/?id=1552390&key=
+  credit:
+    name: '41330'
+    id: 41330
+ruddy:
+- url: https://pixabay.com/en/child-within-baby-bed-3308817/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea36b10720f5063ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb1b9_640.jpg
+  api: https://pixabay.com/api/?id=3308817&key=
+  credit:
+    name: derbocholter
+    id: 8535303
 shoddy: []
 teddy:
 - url: https://commons.wikimedia.org/wiki/File:Underwear1913.JPG
@@ -7474,7 +7810,15 @@ toddy:
   license:
     name: CC BY 2.0
     url: https://creativecommons.org/licenses/by/2.0
-circadian: []
+circadian:
+- url: https://pixabay.com/en/alarm-clock-museum-a-collection-of-1647866/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e833b50820f2073ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb1be_640.jpg
+  api: https://pixabay.com/api/?id=1647866&key=
+  credit:
+    name: ivabalk
+    id: 782511
 comedian:
 - url: https://commons.wikimedia.org/wiki/File:Chaplin,_Charlie_(His_New_Job)_01.jpg
   site: wikipedia
@@ -7484,7 +7828,15 @@ comedian:
   license:
     name: Public domain
     url: 
-custodian: []
+custodian:
+- url: https://pixabay.com/en/janitor-cart-cleaning-equipment-1357278/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e836b4082af3093ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb0b9_640.jpg
+  api: https://pixabay.com/api/?id=1357278&key=
+  credit:
+    name: deepcove
+    id: 1470673
 guardian:
 - url: https://commons.wikimedia.org/wiki/File:%C3%81ngel_de_la_Guarda.jpg
   site: wikipedia
@@ -7494,8 +7846,24 @@ guardian:
   license:
     name: Public domain
     url: 
-median: []
-meridian: []
+median:
+- url: https://pixabay.com/en/street-night-city-urban-lights-371222/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea32b00d2af61c22d2524518b7484395e571e6dc04b0144296f6c77aa6e8b3_640.jpg
+  api: https://pixabay.com/api/?id=371222&key=
+  credit:
+    name: Free-Photos
+    id: 242387
+meridian:
+- url: https://pixabay.com/en/globe-earth-day-earth-planet-world-2269653/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb37b7062ef1023ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb3b9_640.jpg
+  api: https://pixabay.com/api/?id=2269653&key=
+  credit:
+    name: Amber_Avalona
+    id: 1512238
 obsidian:
 - url: https://commons.wikimedia.org/wiki/File:Lipari-Obsidienne_(5).jpg
   site: wikipedia
@@ -7505,8 +7873,24 @@ obsidian:
   license:
     name: CC BY-SA 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0
-ophidian: []
-quotidian: []
+ophidian:
+- url: https://pixabay.com/en/snake-nature-reptile-animal-world-3274693/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea37b60b2efd023ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb3bd_640.jpg
+  api: https://pixabay.com/api/?id=3274693&key=
+  credit:
+    name: susannp4
+    id: 1777190
+quotidian:
+- url: https://pixabay.com/en/toast-toaster-food-white-bread-1077984/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e835b60821fc053ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb2b8_640.jpg
+  api: https://pixabay.com/api/?id=1077984&key=
+  credit:
+    name: CordMediaStuttgart
+    id: 514380
 radian:
 - url: https://commons.wikimedia.org/wiki/File:Radian-common.svg
   site: wikipedia
@@ -7516,18 +7900,106 @@ radian:
   license:
     name: CC-BY-SA-3.0
     url: http://creativecommons.org/licenses/by-sa/3.0/
-tragedian: []
-viridian: []
-baddie: []
+tragedian:
+- url: https://pixabay.com/en/taormina-theater-theatre-greek-2019382/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb35b0062bfc033ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecb2bc_640.jpg
+  api: https://pixabay.com/api/?id=2019382&key=
+  credit:
+    name: kirkandmimi
+    id: 763448
+viridian:
+- url: https://pixabay.com/en/green-woodpecker-picus-viridis-2878599/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb3db6072dfd083ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecbdb8_640.jpg
+  api: https://pixabay.com/api/?id=2878599&key=
+  credit:
+    name: maxmann
+    id: 665103
+baddie:
+- url: https://pixabay.com/en/skeletons-funny-hear-no-evil-1617539/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e833b0082df7083ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecbdbd_640.jpg
+  api: https://pixabay.com/api/?id=1617539&key=
+  credit:
+    name: paulbr75
+    id: 2938186
 birdie: []
-caddie: []
-cardie: []
-foodie: []
-goodie: []
-hoodie: []
-indie: []
-kiddie: []
-laddie: []
+caddie:
+- url: https://pixabay.com/en/golf-cart-transportation-golf-bags-1669772/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e833b7062ff3033ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecbcb9_640.jpg
+  api: https://pixabay.com/api/?id=1669772&key=
+  credit:
+    name: paulbr75
+    id: 2938186
+cardie:
+- url: https://pixabay.com/en/cotton-texture-button-sweater-1617328/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e833b0082bf6093ed1584d05fb1d4293e071e4d110ac104496f3c77fa4ecbcbd_640.jpg
+  api: https://pixabay.com/api/?id=1617328&key=
+  credit:
+    name: Marisa_Sias
+    id: 526173
+foodie:
+- url: https://pixabay.com/en/abendbrot-restaurant-salad-eat-939435/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e036b80b2bf11c22d2524518b7484395e571e6dc04b0144296f6c77aa5edb4_640.jpg
+  api: https://pixabay.com/api/?id=939435&key=
+  credit:
+    name: RestaurantAnticaRoma
+    id: 1405821
+goodie:
+- url: https://pixabay.com/en/bags-mitbringsel-gift-gummi-bears-318377/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea34b90c2ff31c22d2524518b7484395e571e6dc04b0144296f6c77aa5edb0_640.jpg
+  api: https://pixabay.com/api/?id=318377&key=
+  credit:
+    name: Hans
+    id: 2
+hoodie:
+- url: https://pixabay.com/en/selfie-mobile-phone-portrait-hood-1209886/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e837b10620fc073ed1584d05fb1d4293e071e4d110ac104496f3c77fa4efb4b9_640.jpg
+  api: https://pixabay.com/api/?id=1209886&key=
+  credit:
+    name: Free-Photos
+    id: 242387
+indie:
+- url: https://pixabay.com/en/record-music-vinyl-sound-audio-3203939/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea37b10c21f7083ed1584d05fb1d4293e071e4d110ac104496f3c77fa4efb4bc_640.jpg
+  api: https://pixabay.com/api/?id=3203939&key=
+  credit:
+    name: Hiob315
+    id: 8141251
+kiddie:
+- url: https://pixabay.com/en/babe-smile-newborn-small-child-2972221/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb3cb60d2af6003ed1584d05fb1d4293e071e4d110ac104496f3c77fa4efb4b1_640.jpg
+  api: https://pixabay.com/api/?id=2972221&key=
+  credit:
+    name: Victoria_Borodinova
+    id: 6314823
+laddie:
+- url: https://pixabay.com/en/kid-retro-child-happy-design-2185540/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb34b90a2df0013ed1584d05fb1d4293e071e4d110ac104496f3c77fa4efb7bb_640.jpg
+  api: https://pixabay.com/api/?id=2185540&key=
+  credit:
+    name: MiguelRPerez
+    id: 131821
 oldie: []
 roadie:
 - url: https://commons.wikimedia.org/wiki/File:Roadies.jpg
@@ -7557,7 +8029,15 @@ earldom:
   license:
     name: CC BY-SA 3.0
     url: https://creativecommons.org/licenses/by-sa/3.0
-freedom: []
+freedom:
+- url: https://pixabay.com/en/sky-nature-cloud-weather-freedom-3284081/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea37b90b28fc003ed1584d05fb1d4293e071e4d110ac104496f3c77fa4efb6b9_640.jpg
+  api: https://pixabay.com/api/?id=3284081&key=
+  credit:
+    name: Schwoaze
+    id: 4023294
 martyrdom:
 - url: https://commons.wikimedia.org/wiki/File:Attavante,_martirio_dei_sette_fratelli_ebrei,_bibl_ap_vaticana_bibbia_ms._urb_lat_2_f_174v.jpg
   site: wikipedia
@@ -7573,7 +8053,15 @@ officialdom:
   ext: png
   original: https://4.bp.blogspot.com/-R5fosnKaRw4/WGnPZxzx7VI/AAAAAAABA6A/ER_sQFNjhk0PaNqys4HOaKCS1Hx__ZolQCLcB/s640/pose_officechair_suwaru.png
   api: https://www.irasutoya.com/2017/01/blog-post_617.html
-seldom: []
+seldom:
+- url: https://pixabay.com/en/tulips-bulbs-tulip-spring-bulb-2580116/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb30b90f29f5073ed1584d05fb1d4293e071e4d110ac104496f3c77fa4efb6bd_640.jpg
+  api: https://pixabay.com/api/?id=2580116&key=
+  credit:
+    name: dassel
+    id: 989431
 serfdom:
 - url: https://commons.wikimedia.org/wiki/File:Reeve_and_Serfs.jpg
   site: wikipedia
@@ -7583,7 +8071,15 @@ serfdom:
   license:
     name: Public domain
     url: 
-stardom: []
+stardom:
+- url: https://pixabay.com/en/concerts-audience-spectators-lights-1150042/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e834b40f28f0033ed1584d05fb1d4293e071e4d110ac104496f3c77fa4efb6b1_640.jpg
+  api: https://pixabay.com/api/?id=1150042&key=
+  credit:
+    name: Free-Photos
+    id: 242387
 thraldom:
 - url: https://pixabay.com/en/ball-and-chain-restrain-heavy-icon-2624325/
   site: pixabay
