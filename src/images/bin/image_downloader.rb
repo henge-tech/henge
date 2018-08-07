@@ -39,11 +39,27 @@ class ImageDownloader
     save_yaml(result)
   end
 
+  def download_image(word, url, index)
+    api_result = query_api(url)
+    return nil if api_result.nil?
+
+    ext = api_result['ext']
+    cache_path = api_result['cache_path']
+    filename = image_file_name(word, index, ext)
+    image_file = File.join(IMAGES_DIR, filename)
+    FileUtils.cp(cache_path, image_file)
+    generate_thumbnail(filename, true)
+
+    return api_result
+  end
+
   def query_api(url)
     if url =~ %r{\Ahttps://pixabay\.com/photo-(\d+)/\z}
       return query_pixabay_api(url, $1)
-    elsif url =~ %r{\Ahttps://pixabay\.com/en/.+-(\d+)/\z}
-      return query_pixabay_api(url, $1)
+    elsif url =~ %r{\Ahttps://pixabay\.com/en/(.+)-(\d+)/\z}
+      data = query_pixabay_api(url, $1)
+      return data unless data.nil?
+      return query_pixabay_api2(url, $1, $2)
     elsif url =~ %r{\Ahttps?://www\.irasutoya\.com/\d{4}/\d{2}/.+\.html(#\d+)?\z}
       return query_irasutoya_api(url)
     elsif url =~ %r{\Ahttps://commons\.wikimedia\.org/wiki/(File:[^&\?/#]+\.(?:jpe?g|png|gif|svg))\z}i
@@ -53,6 +69,9 @@ class ImageDownloader
     end
   end
 
+  #
+  # Old Pixabay API with ID query
+  #
   def query_pixabay_api(url, id)
     cache_url = "https://pixabay.com/api/?id=#{id}&key="
     real_url = cache_url + ENV['PIXABAY_API_KEY']
@@ -65,6 +84,45 @@ class ImageDownloader
     ext = image_url[/\.([a-zA-Z]{2,4})\z/, 1].downcase
     return nil if ext.empty?
     cache_path = save_url('pbi-', ext, image_url, nil, true)
+    return nil if cache_path.nil?
+
+    return {
+      'url' => url,
+      'cache_path' => cache_path,
+      'site' => 'pixabay',
+      'ext' => ext,
+      'original' => image_url,
+      'api' => cache_url,
+      'credit' => {
+        'name' => data['user'],
+        'id' => data['user_id']
+      },
+    }
+  end
+
+  #
+  # New Pixabay API without ID query
+  #
+  def query_pixabay_api2(url, keywords, id)
+    q = URI.decode(keywords).split(/-/)
+    q = URI.encode(q.join(' '))
+
+    cache_url = "https://pixabay.com/api/?id=#{id}&key="
+    real_url = "https://pixabay.com/api/?key=#{ENV['PIXABAY_API_KEY']}&per_page=200&q=#{q}"
+    cache_path = save_url('pbb-', 'json', real_url, cache_url)
+    return nil if cache_path.nil?
+
+    search_result = JSON.parse(File.read(cache_path))
+    data = search_result['hits'].find do |hit|
+      hit['id'].to_s == id.to_s
+    end
+    return nil if data.nil?
+
+    image_url = data['webformatURL']
+    ext = image_url[/\.([a-zA-Z]{2,4})\z/, 1].downcase
+
+    return nil if ext.empty?
+    cache_path = save_url('pbi-', ext, image_url)
     return nil if cache_path.nil?
 
     return {

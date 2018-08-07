@@ -5,6 +5,7 @@ require 'fileutils'
 require 'digest/md5'
 require 'open-uri'
 require 'awesome_print'
+require 'dotenv/load'
 require 'RMagick'
 
 module ImageDownloaderCommon
@@ -20,20 +21,6 @@ module ImageDownloaderCommon
   LOWRES3_DIR = File.join(IMAGES_ROOT, 'thumbs-low3/')
   CACHE_DIR = File.join(IMAGES_ROOT, 'cache/')
   SOURCE_FILE = File.join(IMAGES_ROOT, 'images.txt')
-
-  def download_image(word, url, index)
-    api_result = query_api(url)
-    return nil if api_result.nil?
-
-    ext = api_result['ext']
-    cache_path = api_result['cache_path']
-    filename = image_file_name(word, index, ext)
-    image_file = File.join(IMAGES_DIR, filename)
-    FileUtils.cp(cache_path, image_file)
-    generate_thumbnail(filename, true)
-
-    return api_result
-  end
 
   def generate_thumbnail(filename, force = false)
     src = File.join(IMAGES_DIR, filename)
