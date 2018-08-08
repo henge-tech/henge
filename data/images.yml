@@ -7464,7 +7464,15 @@ gladden:
   credit:
     name: Free-Photos
     id: 242387
-hidden: []
+hidden:
+- url: https://pixabay.com/en/cat-hiding-place-autumn-rust-1040815/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e835b50f20f5043ed1584d05fb1d4293e071e4d110ac104496f3c77fa4e4bcb9_640.jpg
+  api: https://pixabay.com/api/?id=1040815&key=
+  credit:
+    name: rihaij
+    id: 2145
 madden:
 - url: https://pixabay.com/en/bison-european-bison-animal-large-2118538/
   site: pixabay
@@ -7492,7 +7500,15 @@ overridden:
   credit:
     name: jackmac34
     id: 483877
-redden: []
+redden:
+- url: https://pixabay.com/en/glowing-backlighting-bird-seagull-253676/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb30b2092ff21c22d2524518b7484395e571e6dc04b0144296f6c77aaee4b0_640.jpg
+  api: https://pixabay.com/api/?id=253676&key=
+  credit:
+    name: JanneG
+    id: 125862
 ridden:
 - url: https://pixabay.com/en/baboon-baby-ride-cute-comical-2798928/
   site: pixabay
@@ -7583,7 +7599,15 @@ fiddle:
   credit:
     name: werner22brigitte
     id: 5337
-griddle: []
+griddle:
+- url: https://pixabay.com/en/pancakes-cooking-cook-meal-683907/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ef3db20628f31c22d2524518b7484395e571e6dc04b0144296f7c27ba0e5bc_640.jpg
+  api: https://pixabay.com/api/?id=683907&key=
+  credit:
+    name: skeeze
+    id: 272447
 huddle:
 - url: https://pixabay.com/en/pro-basketball-team-huddle-1594634/
   site: pixabay
@@ -7791,7 +7815,15 @@ ruddy:
   credit:
     name: derbocholter
     id: 8535303
-shoddy: []
+shoddy:
+- url: https://pixabay.com/en/toy-cash-register-play-money-2922214/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb3cb30d2af5053ed1584d05fb1d4293e071e4d110ac104496f3c67aa4e9b7b9_640.jpg
+  api: https://pixabay.com/api/?id=2922214&key=
+  credit:
+    name: annca
+    id: 1564471
 teddy:
 - url: https://commons.wikimedia.org/wiki/File:Underwear1913.JPG
   site: wikipedia
@@ -7927,7 +7959,15 @@ baddie:
   credit:
     name: paulbr75
     id: 2938186
-birdie: []
+birdie:
+- url: https://pixabay.com/en/golf-golf-ball-golfing-hole-1284011/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e837b90b28f5003ed1584d05fb1d4293e071e4d110ac104496f3c77fa3edb5ba_640.jpg
+  api: https://pixabay.com/api/?id=1284011&key=
+  credit:
+    name: Pexels
+    id: 2286921
 caddie:
 - url: https://pixabay.com/en/golf-cart-transportation-golf-bags-1669772/
   site: pixabay
@@ -8000,7 +8040,15 @@ laddie:
   credit:
     name: MiguelRPerez
     id: 131821
-oldie: []
+oldie:
+- url: https://pixabay.com/en/buick-oldtimer-oldie-classic-auto-3506741/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea30b1092ff0003ed1584d05fb1d4293e071e4d110ac104496f3c67aa4e4b7bd_640.jpg
+  api: https://pixabay.com/api/?id=3506741&key=
+  credit:
+    name: Bru-nO
+    id: 1161770
 roadie:
 - url: https://commons.wikimedia.org/wiki/File:Roadies.jpg
   site: wikipedia
@@ -8010,7 +8058,15 @@ roadie:
   license:
     name: CC BY 2.0
     url: https://creativecommons.org/licenses/by/2.0
-boredom: []
+boredom:
+- url: https://pixabay.com/en/person-little-boy-kid-child-731165/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ee36b00e2ef11c22d2524518b7484395e571e6dc04b0144296f7c27aaeebbc_640.jpg
+  api: https://pixabay.com/api/?id=731165&key=
+  credit:
+    name: Free-Photos
+    id: 242387
 dukedom:
 - url: https://commons.wikimedia.org/wiki/File:Coronet_of_a_British_Duke.svg
   site: wikipedia
@@ -8089,7 +8145,15 @@ thraldom:
   credit:
     name: skeeze
     id: 272447
-wisdom: []
+wisdom:
+- url: https://pixabay.com/en/owl-books-stack-bird-animal-2670138/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb33b60f29f7093ed1584d05fb1d4293e071e4d110ac104496f3c67aa3edb0b0_640.jpg
+  api: https://pixabay.com/api/?id=2670138&key=
+  credit:
+    name: suju
+    id: 165106
 combustible:
 - url: https://pixabay.com/en/firefighters-fire-flames-outside-115800/
   site: pixabay
