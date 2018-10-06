@@ -15,7 +15,7 @@ class ImageEdit
   end
 
   def execute
-    words = load_source_file.join("\n")
+    words = load_source_file
     files = Dir.chdir(@circles_dir) do
       Dir.glob('*.yml').sort
     end
@@ -28,9 +28,16 @@ class ImageEdit
           puts w
           puts "https://www.google.co.jp/search?q=site:pixabay.com+#{w}&tbm=isch"
           puts "https://www.google.co.jp/search?q=site:wikipedia.org+#{w}&tbm=isch"
+          puts "https://www.google.co.jp/search?q=#{w}&tbm=isch"
           puts "https://pixabay.com/en/photos/?q=#{w}"
           puts "https://www.shutterstock.com/search?language=en&searchterm=#{w}&image_type=all"
+          puts
           puts "https://eow.alc.co.jp/search?q=#{w}&ref=sa"
+          puts "https://ejje.weblio.jp/content/#{w}"
+          puts "https://www.merriam-webster.com/dictionary/#{w}"
+          puts "https://en.wikipedia.org/w/index.php?search=#{w}&title=Special%3ASearch&go=Go"
+          puts "https://www.brainyquote.com/search_results?q=#{w}"
+          puts
           puts
         else
           puts "- #{w}" unless words.include?(w)
