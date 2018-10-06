@@ -13,7 +13,6 @@ class ImageDownloader
   include ImageDownloaderCommon
 
   def execute
-
     data = load_merged_data
     result = {}
     data.each do |word, entries|
@@ -144,8 +143,10 @@ class ImageDownloader
     page_url = url.sub(/\Ahttp:/, 'https:')
     # cache_url = url.sub(/\Ahttps:/, 'http:')
 
+    img_pos_str = nil
     if page_url =~ /#(\d+)\z/
-      img_pos = $1.to_i - 1
+      img_pos_str = $1
+      img_pos = img_pos_str.to_i - 1
       page_url = page_url.sub(/#(\d+)\z/, '')
     end
 
@@ -165,7 +166,7 @@ class ImageDownloader
     cache_path = save_url('iyi-', ext, image_url) unless ext.empty?
 
     return {
-      'url' => page_url,
+      'url' => "#{page_url}##{img_pos_str}",
       'cache_path' => cache_path,
       'site' => 'irasutoya',
       'ext' => ext,
