@@ -318,11 +318,11 @@ reproach:
     name: bykst
     id: 86169
 roach:
-- url: http://www.irasutoya.com/2014/03/blog-post_7015.html
+- url: https://www.irasutoya.com/2016/05/blog-post_79.html#16
   site: irasutoya
   ext: png
-  original: http://1.bp.blogspot.com/-Q0nWXKJO2_A/UvTd3xvOq9I/AAAAAAAAdfo/E_5n8zJglTw/s640/bug_gokiburi.png
-  api: http://www.irasutoya.com/2014/03/blog-post_7015.html
+  original: https://1.bp.blogspot.com/-NA8aBQKKyMo/VyNdH9yUw3I/AAAAAAAA6LE/kOKBv5-GBF06wCUMWaotjaaANbU-zp1ngCLcB/s640/bug_mark16_gokiburi.png
+  api: https://www.irasutoya.com/2016/05/blog-post_79.html
 spinach:
 - url: https://pixabay.com/en/tagliatelle-spinach-salmon-fish-1970588/
   site: pixabay
@@ -3417,11 +3417,11 @@ pointblank:
     name: RichFL
     id: 644541
 prank:
-- url: http://www.irasutoya.com/2014/10/blog-post_26.html
+- url: https://www.irasutoya.com/2014/10/blog-post_26.html
   site: irasutoya
   ext: png
-  original: http://2.bp.blogspot.com/-Uz8ATScgFr0/VCOJZhYsRGI/AAAAAAAAmw0/kdbAU7OZATs/s640/itazura_pinpon_dash.png
-  api: http://www.irasutoya.com/2014/10/blog-post_26.html
+  original: https://2.bp.blogspot.com/-Uz8ATScgFr0/VCOJZhYsRGI/AAAAAAAAmw0/kdbAU7OZATs/s640/itazura_pinpon_dash.png
+  api: https://www.irasutoya.com/2014/10/blog-post_26.html
 riverbank:
 - url: https://pixabay.com/en/riverbank-valley-hills-summer-2078418/
   site: pixabay
@@ -3459,7 +3459,7 @@ stank:
 - url: https://pixabay.com/en/skunk-wildlife-portrait-walking-1239764/
   site: pixabay
   ext: jpg
-  original: https://pixabay.com/get/e837b2062ff2053ed95c4518b7484395e571e6dc04b0154892f6c679afeeb4_640.jpg
+  original: https://pixabay.com/get/e837b2062ff2053ed1584d05fb1d4293e071e4d110ac104491f4c27ba0eebdbd_640.jpg
   api: https://pixabay.com/api/?id=1239764&key=
   credit:
     name: skeeze
@@ -9776,14 +9776,11 @@ lief:
     name: Bru-nO
     id: 1161770
 mischief:
-- url: https://pixabay.com/en/letters-paper-write-filler-2111546/
-  site: pixabay
-  ext: jpg
-  original: https://pixabay.com/get/eb34b00e2df0073ed1584d05fb1d4293e071e4d110ac104496f8c17fa4eeb6bb_640.jpg
-  api: https://pixabay.com/api/?id=2111546&key=
-  credit:
-    name: Bru-nO
-    id: 1161770
+- url: https://www.irasutoya.com/2014/10/blog-post_26.html
+  site: irasutoya
+  ext: png
+  original: https://2.bp.blogspot.com/-Uz8ATScgFr0/VCOJZhYsRGI/AAAAAAAAmw0/kdbAU7OZATs/s640/itazura_pinpon_dash.png
+  api: https://www.irasutoya.com/2014/10/blog-post_26.html
 reef:
 - url: https://pixabay.com/en/fish-aquarium-sea-fish-tank-288988/
   site: pixabay
@@ -10486,6 +10483,114 @@ totemic:
   credit:
     name: werner22brigitte
     id: 5337
+clench:
+- url: https://pixabay.com/en/boy-teen-schoolboy-anger-angry-2736659/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb32b2092ef1083ed1584d05fb1d4293e071e4d110ac104491f3c37ba0edb6b0_640.jpg
+  api: https://pixabay.com/api/?id=2736659&key=
+  credit:
+    name: AnnaKovalchuk
+    id: 5692419
+drench:
+- url: https://pixabay.com/en/dog-water-sea-wet-beach-movement-602365/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ef35b30c2ef11c22d2524518b7484395e571e6dc04b0144596f2c37ea7e9b7_640.jpg
+  api: https://pixabay.com/api/?id=602365&key=
+  credit:
+    name: Counselling
+    id: 440107
+entrench:
+- url: https://commons.wikimedia.org/wiki/File:Soldiers_in_trench.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Soldiers_in_trench.jpg/640px-Soldiers_in_trench.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Soldiers_in_trench.jpg
+  license:
+    name: Public domain
+    url: 
+frontbench:
+- url: https://commons.wikimedia.org/wiki/File:Go_On_(27739156054).jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Go_On_%2827739156054%29.jpg/640px-Go_On_%2827739156054%29.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Go_On_(27739156054).jpg
+  license:
+    name: CC BY-SA 2.0
+    url: https://creativecommons.org/licenses/by-sa/2.0
+quench:
+- url: https://pixabay.com/en/candle-flame-water-deleted-delete-1042087/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e835b50d28fc063ed1584d05fb1d4293e071e4d110ac104491f3c37ba0edb0b9_640.jpg
+  api: https://pixabay.com/api/?id=1042087&key=
+  credit:
+    name: Comfreak
+    id: 51581
+retrench:
+- url: https://pixabay.com/en/purse-money-credit-squeeze-wallet-522622/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ec37b3092af61c22d2524518b7484395e571e6dc04b0144596f2c37ea7e8b1_640.jpg
+  api: https://pixabay.com/api/?id=522622&key=
+  credit:
+    name: stevepb
+    id: 282134
+stench:
+- url: https://pixabay.com/en/skunk-wildlife-portrait-walking-1239764/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e837b2062ff2053ed1584d05fb1d4293e071e4d110ac104491f4c27ba0eebdbd_640.jpg
+  api: https://pixabay.com/api/?id=1239764&key=
+  credit:
+    name: skeeze
+    id: 272447
+tench:
+- url: https://commons.wikimedia.org/wiki/File:Tinca_tinca_Prague_Vltava_3.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tinca_tinca_Prague_Vltava_3.jpg/640px-Tinca_tinca_Prague_Vltava_3.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Tinca_tinca_Prague_Vltava_3.jpg
+  license:
+    name: Public domain
+    url: 
+trench:
+- url: https://pixabay.com/en/trench-replica-first-world-war-war-1566795/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e830b7092ffd043ed1584d05fb1d4293e071e4d110ac104491f4c27ba0eebcbc_640.jpg
+  api: https://pixabay.com/api/?id=1566795&key=
+  credit:
+    name: MrsBrown
+    id: 692504
+wench:
+- url: https://pixabay.com/en/taste-bodice-reinheitsgebot-section-1979268/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e83cb6062af2093ed1584d05fb1d4293e071e4d110ac104491f4c27ba0e9b5b8_640.jpg
+  api: https://pixabay.com/api/?id=1979268&key=
+  credit:
+    name: 089photoshootings
+    id: 4258482
+workbench:
+- url: https://commons.wikimedia.org/wiki/File:Basicbench.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Basicbench.jpg/640px-Basicbench.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Basicbench.jpg
+  license:
+    name: Public domain
+    url: 
+wrench:
+- url: https://pixabay.com/en/adjustable-wrench-tool-1659780/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e833b4062ffc013ed1584d05fb1d4293e071e4d110ac104491f4c27ba0e9b5bf_640.jpg
+  api: https://pixabay.com/api/?id=1659780&key=
+  credit:
+    name: loloboxe
+    id: 2048705
 combustible:
 - url: https://pixabay.com/en/firefighters-fire-flames-outside-115800/
   site: pixabay
