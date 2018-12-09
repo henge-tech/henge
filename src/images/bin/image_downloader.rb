@@ -165,8 +165,12 @@ class ImageDownloader
     ext = image_url[/\.([a-zA-Z]{2,4})\z/, 1].downcase
     cache_path = save_url('iyi-', ext, image_url) unless ext.empty?
 
+    key_url = page_url
+    if img_pos_str
+      key_url += "##{img_pos_str}"
+    end
     return {
-      'url' => "#{page_url}##{img_pos_str}",
+      'url' => key_url,
       'cache_path' => cache_path,
       'site' => 'irasutoya',
       'ext' => ext,
