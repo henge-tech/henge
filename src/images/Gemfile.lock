@@ -1,11 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    awesome_print (1.7.0)
-    dotenv (2.2.1)
-    mini_portile2 (2.1.0)
-    nokogiri (1.7.1)
-      mini_portile2 (~> 2.1.0)
+    awesome_print (1.8.0)
+    dotenv (2.6.0)
+    mini_portile2 (2.4.0)
+    nokogiri (1.9.1)
+      mini_portile2 (~> 2.4.0)
     rmagick (2.16.0)
 
 PLATFORMS
@@ -14,7 +14,7 @@ PLATFORMS
 DEPENDENCIES
   awesome_print
   dotenv
-  nokogiri
+  nokogiri (~> 1.9.1)
   rmagick
 
 BUNDLED WITH
