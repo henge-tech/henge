@@ -55,7 +55,7 @@ class ImageDownloader
   def query_api(url)
     if url =~ %r{\Ahttps://pixabay\.com/photo-(\d+)/\z}
       return query_pixabay_api(url, $1)
-    elsif url =~ %r{\Ahttps://pixabay\.com/en/(.+)-(\d+)/\z}
+    elsif url =~ %r{\Ahttps://pixabay\.com/(?:en|photos|illustrations)/(.+)-(\d+)/\z}
       data = query_pixabay_api(url, $1)
       return data unless data.nil?
       return query_pixabay_api2(url, $1, $2)
