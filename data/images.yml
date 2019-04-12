@@ -11083,6 +11083,111 @@ turmeric:
   credit:
     name: stevepb
     id: 282134
+aerie:
+- url: https://pixabay.com/photos/bald-eagles-nest-birds-predators-1761446/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e832b70e2cf0073ed1584d05fb1d4293e071e4d110ac104490f5c17eaeebb0b1_640.jpg
+  api: https://pixabay.com/api/?id=1761446&key=
+  credit:
+    name: skeeze
+    id: 272447
+brasserie:
+- url: https://commons.wikimedia.org/wiki/File:La_Coupole_-_Paris.JPG
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/La_Coupole_-_Paris.JPG/640px-La_Coupole_-_Paris.JPG
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:La_Coupole_-_Paris.JPG
+  license:
+    name: CC BY-SA 3.0
+    url: https://creativecommons.org/licenses/by-sa/3.0
+camaraderie:
+- url: https://pixabay.com/photos/man-woman-group-teamwork-3365368/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea36b70a2bf2093ed1584d05fb1d4293e071e4d110ac104490f5c17eaeebb3bd_640.jpg
+  api: https://pixabay.com/api/?id=3365368&key=
+  credit:
+    name: rawpixel
+    id: 4283981
+coterie:
+- url: https://commons.wikimedia.org/wiki/File:Comicmarket62_00.JPG
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Comicmarket62_00.JPG/640px-Comicmarket62_00.JPG
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Comicmarket62_00.JPG
+  license:
+    name: CC-BY-SA-3.0
+    url: http://creativecommons.org/licenses/by-sa/3.0/
+eerie:
+- url: https://pixabay.com/photos/water-house-barn-outdoors-nature-3182119/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea34b90d29f5083ed1584d05fb1d4293e071e4d110ac104490f5c17eaeebb2b9_640.jpg
+  api: https://pixabay.com/api/?id=3182119&key=
+  credit:
+    name: Imagine_Images
+    id: 6663717
+faerie:
+- url: https://www.irasutoya.com/2013/05/blog-post.html
+  site: irasutoya
+  ext: png
+  original: https://1.bp.blogspot.com/-YTsiH-cZJco/VzRFtPEempI/AAAAAAAA6kI/N8WEIbT2ACghe9aqvzbkIynUoLqc7nA8ACLcB/s640/fantasy_pixy2.png
+  api: https://www.irasutoya.com/2013/05/blog-post.html
+gendarmerie:
+- url: https://commons.wikimedia.org/wiki/File:Gendarmerie_BMW_R1100RT.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gendarmerie_BMW_R1100RT.jpg/640px-Gendarmerie_BMW_R1100RT.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Gendarmerie_BMW_R1100RT.jpg
+  license:
+    name: CC BY-SA 2.0 fr
+    url: https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en
+lingerie:
+- url: https://pixabay.com/photos/road-business-urban-city-building-1715085/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e832b00a28fc043ed1584d05fb1d4293e071e4d110ac104490f5c17eaeebb2b1_640.jpg
+  api: https://pixabay.com/api/?id=1715085&key=
+  credit:
+    name: MichaelGaida
+    id: 652234
+menagerie:
+- url: https://commons.wikimedia.org/wiki/File:Meyerheim-Menagerie.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Meyerheim-Menagerie.jpg/640px-Meyerheim-Menagerie.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Meyerheim-Menagerie.jpg
+  license:
+    name: Public domain
+    url: 
+patisserie:
+- url: https://commons.wikimedia.org/wiki/File:Lille_Meert2.JPG
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lille_Meert2.JPG/640px-Lille_Meert2.JPG
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Lille_Meert2.JPG
+  license:
+    name: CC BY-SA 3.0
+    url: https://creativecommons.org/licenses/by-sa/3.0
+reverie:
+- url: https://pixabay.com/photos/window-view-sitting-indoors-girl-1081788/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e835b90e2ffc093ed1584d05fb1d4293e071e4d110ac104490f5c17eaeebbdb1_640.jpg
+  api: https://pixabay.com/api/?id=1081788&key=
+  credit:
+    name: Free-Photos
+    id: 242387
+rotisserie:
+- url: https://pixabay.com/photos/rotisserie-chicken-grilled-food-99664/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e03cb7092ce90021d85a5854e2494590e573ebc818b4144495f7c87faeec_640.jpg
+  api: https://pixabay.com/api/?id=99664&key=
+  credit:
+    name: chefkeem
+    id: 6
 combustible:
 - url: https://pixabay.com/en/firefighters-fire-flames-outside-115800/
   site: pixabay
