@@ -19,6 +19,8 @@ module ImageDownloaderCommon
   LOWRES1_DIR = File.join(IMAGES_ROOT, 'thumbs-low1/')
   LOWRES2_DIR = File.join(IMAGES_ROOT, 'thumbs-low2/')
   LOWRES3_DIR = File.join(IMAGES_ROOT, 'thumbs-low3/')
+  CIRCLES_DIR = File.join(ROOT, 'data/circles/')
+  CIRCLE_IMAGES_DIR = File.join(IMAGES_ROOT, 'circles/')
   CACHE_DIR = File.join(IMAGES_ROOT, 'cache/')
   SOURCE_FILE = File.join(IMAGES_ROOT, 'images.txt')
 
