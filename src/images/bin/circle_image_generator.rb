@@ -27,7 +27,6 @@ class CircleImageGenerator
         thumb
       end
       generate_circle_image(circle_file, words, image_files)
-      print '.'
     end
     save_list
   end
@@ -49,7 +48,11 @@ class CircleImageGenerator
 
     digest = image_files.map {|f| Digest::MD5.file(File.join(THUMBS_DIR, f)).to_s + " " + f }.join("\n")
     digest = Digest::MD5.hexdigest(digest)
-    return if @list[pattern] == digest
+    if @list[pattern] == digest
+      print '.'
+      return
+    end
+    print '*'
     @list[pattern] = digest
 
     files = image_files.map {|f| File.join(THUMBS_DIR, f) }

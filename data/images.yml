@@ -11188,6 +11188,726 @@ rotisserie:
   credit:
     name: chefkeem
     id: 6
+angiosperm:
+- url: https://commons.wikimedia.org/wiki/File:Magnolia_campbellii_flowers.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Magnolia_campbellii_flowers.jpg/501px-Magnolia_campbellii_flowers.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Magnolia_campbellii_flowers.jpg
+  license:
+    name: Public domain
+    url: 
+berm:
+- url: https://commons.wikimedia.org/wiki/File:Ragoeser-damm-2.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ragoeser-damm-2.jpg/640px-Ragoeser-damm-2.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Ragoeser-damm-2.jpg
+  license:
+    name: GFDL 1.2
+    url: http://www.gnu.org/licenses/old-licenses/fdl-1.2.html
+ectoderm:
+- url: https://commons.wikimedia.org/wiki/File:Gastrulation.png
+  site: wikipedia
+  ext: png
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gastrulation.png/640px-Gastrulation.png
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Gastrulation.png
+  license:
+    name: Public domain
+    url: 
+endoderm:
+- url: https://www.irasutoya.com/2013/06/blog-post_7615.html
+  site: irasutoya
+  ext: png
+  original: https://4.bp.blogspot.com/-EMUsQOhWl0s/WOOZPJr01nI/AAAAAAABDh4/xucClv_J1Rg-LeLnYls6060KGkP_g5-igCLcB/s640/body_syokudou_i_chou.png
+  api: https://www.irasutoya.com/2013/06/blog-post_7615.html
+germ:
+- url: https://www.irasutoya.com/2013/08/blog-post_618.html
+  site: irasutoya
+  ext: png
+  original: https://2.bp.blogspot.com/-2RvBSauaQCI/Ufj1Cj2vC8I/AAAAAAAAWks/KH2Qfs_LHZ8/s640/baikin_genki.png
+  api: https://www.irasutoya.com/2013/08/blog-post_618.html
+isotherm:
+- url: https://commons.wikimedia.org/wiki/File:Isotherms_ugglan.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Isotherms_ugglan.jpg/640px-Isotherms_ugglan.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Isotherms_ugglan.jpg
+  license:
+    name: Public domain
+    url: 
+mesoderm:
+- url: https://pixabay.com/photos/skeleton-bone-anatomy-645535/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ef31b40a2bf11c22d2524518b7484395e571e6dc04b0144493f7c97ca0eab3_640.jpg
+  api: https://pixabay.com/api/?id=645535&key=
+  credit:
+    name: KarinKarin
+    id: 145974
+midterm:
+- url: https://www.irasutoya.com/2015/11/blog-post_860.html
+  site: irasutoya
+  ext: png
+  original: https://4.bp.blogspot.com/-QgVuagWmk9U/VkLHU3bQxhI/AAAAAAAA0VE/Vh2Uiu72U9E/s640/school_test_girl.png
+  api: https://www.irasutoya.com/2015/11/blog-post_860.html
+perm:
+- url: https://pixabay.com/photos/hairstyle-hairdresser-hair-1473541/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e831b60c2df0003ed1584d05fb1d4293e071e4d110ac104490f6c671a2eabdb9_640.jpg
+  api: https://pixabay.com/api/?id=1473541&key=
+  credit:
+    name: markusspiske
+    id: 670330
+preterm:
+- url: https://pixabay.com/photos/hatching-chicks-egg-shell-break-bill-2448541/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb31b5072df0003ed1584d05fb1d4293e071e4d110ac104490f6c671a1ebb0b9_640.jpg
+  api: https://pixabay.com/api/?id=2448541&key=
+  credit:
+    name: Myriams-Fotos
+    id: 1627417
+term:
+- url: https://pixabay.com/photos/calendar-date-time-month-week-660670/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ef33b1092ff41c22d2524518b7484395e571e6dc04b0144292f6c979a4e5b0_640.jpg
+  api: https://pixabay.com/api/?id=660670&key=
+  credit:
+    name: tigerlily713
+    id: 194784
+therm:
+- url: https://pixabay.com/photos/flame-gas-gas-flame-blue-hot-ring-580342/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ec3db10c2cf61c22d2524518b7484395e571e6dc04b0144493f7c97ca0e5b0_640.jpg
+  api: https://pixabay.com/api/?id=580342&key=
+  credit:
+    name: Magnascan
+    id: 653134
+adverse:
+- url: https://pixabay.com/photos/stormy-sky-thunder-lightning-3117708/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea34b0082ff4093ed1584d05fb1d4293e071e4d110ac104490f6c671a2eabdb0_640.jpg
+  api: https://pixabay.com/api/?id=3117708&key=
+  credit:
+    name: Imagine_Images
+    id: 6663717
+averse:
+- url: https://pixabay.com/photos/man-face-look-averse-listless-272676/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb32b3092ff21c22d2524518b7484395e571e6dc04b0144493f7c97ca0e4b7_640.jpg
+  api: https://pixabay.com/api/?id=272676&key=
+  credit:
+    name: geralt
+    id: 9301
+converse:
+- url: https://pixabay.com/photos/cup-restaurant-drinks-business-2884058/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb3db90b28f1093ed1584d05fb1d4293e071e4d110ac104490f6c671a2eabcbc_640.jpg
+  api: https://pixabay.com/api/?id=2884058&key=
+  credit:
+    name: rawpixel
+    id: 4283981
+disperse:
+- url: https://pixabay.com/photos/dandelion-flower-nature-close-up-3416140/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea31b00929f0013ed1584d05fb1d4293e071e4d110ac104490f6c671a2eabcbf_640.jpg
+  api: https://pixabay.com/api/?id=3416140&key=
+  credit:
+    name: Comfreak
+    id: 51581
+diverse:
+- url: https://pixabay.com/photos/human-observer-exhibition-2944064/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb3cb50b28f2053ed1584d05fb1d4293e071e4d110ac104490f6c671a2e5b5b9_640.jpg
+  api: https://pixabay.com/api/?id=2944064&key=
+  credit:
+    name: geralt
+    id: 9301
+immerse:
+- url: https://pixabay.com/photos/swimming-pool-swim-water-holiday-97509/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e032b40f21e90021d85a5854e2494590e573ebc818b4144792f8c471a7e8_640.jpg
+  api: https://pixabay.com/api/?id=97509&key=
+  credit:
+    name: tatlin
+    id: 28112
+inverse:
+- url: https://pixabay.com/photos/topsy-turvy-world-funny-conversely-1289059/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e837b90628f1083ed1584d05fb1d4293e071e4d110ac104490f6c671a2e5b5b0_640.jpg
+  api: https://pixabay.com/api/?id=1289059&key=
+  credit:
+    name: Alexas_Fotos
+    id: 686414
+multiverse:
+- url: https://pixabay.com/photos/parallel-world-parallel-universe-3488497/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea31b9072cfd063ed1584d05fb1d4293e071e4d110ac104490f6c671a2e5b4ba_640.jpg
+  api: https://pixabay.com/api/?id=3488497&key=
+  credit:
+    name: geralt
+    id: 9301
+obverse:
+- url: https://pixabay.com/photos/gold-coin-gold-golddukat-2269848/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb37b70620f0093ed1584d05fb1d4293e071e4d110ac104490f6c671a1ebb0bb_640.jpg
+  api: https://pixabay.com/api/?id=2269848&key=
+  credit:
+    name: PIX1861
+    id: 468748
+perse:
+- url: https://pixabay.com/illustrations/background-blurry-color-598050/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ec3cb90f2df41c22d2524518b7484395e571e6dc04b0144493f7c97cafecb0_640.jpg
+  api: https://pixabay.com/api/?id=598050&key=
+  credit:
+    name: Pezibear
+    id: 526143
+perverse:
+- url: https://pixabay.com/photos/handcuffs-high-heels-erotic-2086352/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb35b9092bf1033ed1584d05fb1d4293e071e4d110ac104490f6c671a2e5b4bf_640.jpg
+  api: https://pixabay.com/api/?id=2086352&key=
+  credit:
+    name: Espressolia
+    id: 208511
+terse:
+- url: https://pixabay.com/photos/business-technology-aerial-blog-3271748/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea37b60e2ff0093ed1584d05fb1d4293e071e4d110ac104490f6c671a0e9b5b8_640.jpg
+  api: https://pixabay.com/api/?id=3271748&key=
+  credit:
+    name: rawpixel
+    id: 4283981
+transverse:
+- url: https://pixabay.com/photos/band-philharmonic-orchestra-3784359/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea32b90b2bf1083ed1584d05fb1d4293e071e4d110ac104490f6c671a2e5b7ba_640.jpg
+  api: https://pixabay.com/api/?id=3784359&key=
+  credit:
+    name: dimitrisvetsikas1969
+    id: 1857980
+traverse:
+- url: https://pixabay.com/photos/eiger-north-wall-climb-937/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e036b61229f60923cd0b4100e54a4092ea6ae3d01cb7164990f8c37c_640.jpg
+  api: https://pixabay.com/api/?id=937&key=
+  credit:
+    name: Simon
+    id: 3
+universe:
+- url: https://pixabay.com/illustrations/universe-person-silhouette-star-1044107/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e835b50b29f4063ed1584d05fb1d4293e071e4d110ac104490f6c671a2e5b7b0_640.jpg
+  api: https://pixabay.com/api/?id=1044107&key=
+  credit:
+    name: geralt
+    id: 9301
+verse:
+- url: https://pixabay.com/photos/bible-book-highlighter-page-text-1867195/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e83db70829fd043ed1584d05fb1d4293e071e4d110ac104490f6c671a0e9b5bc_640.jpg
+  api: https://pixabay.com/api/?id=1867195&key=
+  credit:
+    name: Pexels
+    id: 2286921
+antithesis:
+- url: https://pixabay.com/illustrations/angel-devil-ethical-unethical-good-1384694/
+  site: pixabay
+  ext: png
+  original: https://pixabay.com/get/e836b90b2efd053ed1584d05fb1d4293e071e4d110ac104490f6c979a6eabdb0_640.png
+  api: https://pixabay.com/api/?id=1384694&key=
+  credit:
+    name: mightybutton
+    id: 52404
+exegesis:
+- url: https://pixabay.com/photos/white-male-3d-model-isolated-3d-1834099/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e83db20b28fd083ed1584d05fb1d4293e071e4d110ac104490f6c979a6eabcba_640.jpg
+  api: https://pixabay.com/api/?id=1834099&key=
+  credit:
+    name: 3dman_eu
+    id: 1553824
+genesis:
+- url: https://pixabay.com/photos/genesis-mosaic-iconography-2435989/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb31b20a21fc083ed1584d05fb1d4293e071e4d110ac104490f6c979a6eabcbd_640.jpg
+  api: https://pixabay.com/api/?id=2435989&key=
+  credit:
+    name: dimitrisvetsikas1969
+    id: 1857980
+hypothesis:
+- url: https://pixabay.com/illustrations/success-strategy-business-solution-2081168/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb35b90e29f2093ed1584d05fb1d4293e071e4d110ac104490f6c979a6eabcb0_640.jpg
+  api: https://pixabay.com/api/?id=2081168&key=
+  credit:
+    name: ar130405
+    id: 423602
+mimesis:
+- url: https://commons.wikimedia.org/wiki/File:Sand_mimesis.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sand_mimesis.jpg/640px-Sand_mimesis.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Sand_mimesis.jpg
+  license:
+    name: CC BY-SA 4.0
+    url: https://creativecommons.org/licenses/by-sa/4.0
+nemesis:
+- url: https://commons.wikimedia.org/wiki/File:Alfred_Rethel_002.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alfred_Rethel_002.jpg/314px-Alfred_Rethel_002.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Alfred_Rethel_002.jpg
+  license:
+    name: Public domain
+    url: 
+parenthesis:
+- url: https://commons.wikimedia.org/wiki/File:Brackets.svg
+  site: wikipedia
+  ext: png
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Brackets.svg/161px-Brackets.svg.png
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Brackets.svg
+  license:
+    name: CC-BY-SA-3.0
+    url: http://creativecommons.org/licenses/by-sa/3.0/
+pathogenesis:
+- url: https://pixabay.com/illustrations/skull-and-crossbones-skull-bone-1418827/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e831b00720f6063ed1584d05fb1d4293e071e4d110ac104490f6c979a6e5b5b0_640.jpg
+  api: https://pixabay.com/api/?id=1418827&key=
+  credit:
+    name: Comfreak
+    id: 51581
+photosynthesis:
+- url: https://pixabay.com/photos/leaf-plant-vegetation-sunlight-326358/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea37b70c2dfc1c22d2524518b7484395e571e6dc04b0144493f8c178afecb7_640.jpg
+  api: https://pixabay.com/api/?id=326358&key=
+  credit:
+    name: ejaugsburg
+    id: 148268
+prosthesis:
+- url: https://commons.wikimedia.org/wiki/File:Oscar_Pistorius,_the_first_round_of_the_400m_at_the_London_2012_Olympic_Games.jpeg
+  site: wikipedia
+  ext: jpeg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Oscar_Pistorius%2C_the_first_round_of_the_400m_at_the_London_2012_Olympic_Games.jpeg/640px-Oscar_Pistorius%2C_the_first_round_of_the_400m_at_the_London_2012_Olympic_Games.jpeg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Oscar_Pistorius,_the_first_round_of_the_400m_at_the_London_2012_Olympic_Games.jpeg
+  license:
+    name: CC BY-SA 2.0
+    url: https://creativecommons.org/licenses/by-sa/2.0
+synthesis:
+- url: https://pixabay.com/photos/chemist-laboratory-periodic-system-3014142/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea35b00b29f0033ed1584d05fb1d4293e071e4d110ac104490f6c979a6e5b4bf_640.jpg
+  api: https://pixabay.com/api/?id=3014142&key=
+  credit:
+    name: geralt
+    id: 9301
+thesis:
+- url: https://pixabay.com/photos/open-book-library-education-read-1428428/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e831b3072cf6093ed1584d05fb1d4293e071e4d110ac104490f6c979a6e5b7b8_640.jpg
+  api: https://pixabay.com/api/?id=1428428&key=
+  credit:
+    name: lil_foot_
+    id: 2672923
+athlete:
+- url: https://pixabay.com/photos/action-athletes-competition-hurdle-1834465/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/e83db20b2cf2043ed1584d05fb1d4293e071e4d110ac104490f6c878a3ebb3b9_640.jpg
+  api: https://pixabay.com/api/?id=1834465&key=
+  credit:
+    name: Pexels
+    id: 2286921
+concrete:
+- url: https://pixabay.com/photos/retro-vintage-old-desktop-3246123/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea37b50929f6023ed1584d05fb1d4293e071e4d110ac104490f6c878a3ebb3bc_640.jpg
+  api: https://pixabay.com/api/?id=3246123&key=
+  credit:
+    name: rawpixel
+    id: 4283981
+deplete:
+- url: https://www.irasutoya.com/2014/01/blog-post_3652.html
+  site: irasutoya
+  ext: png
+  original: https://3.bp.blogspot.com/-uQnIHVMDmIA/Ur1GHlP-NUI/AAAAAAAAcXo/0HTSdqjEXRo/s640/osen_kawa.png
+  api: https://www.irasutoya.com/2014/01/blog-post_3652.html
+discrete:
+- url: https://commons.wikimedia.org/wiki/File:6n-graf.svg
+  site: wikipedia
+  ext: png
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/640px-6n-graf.svg.png
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:6n-graf.svg
+  license:
+    name: Public domain
+    url: 
+effete:
+- url: https://pixabay.com/photos/elephant-animal-animals-sand-3093564/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea35b80c2df2053ed1584d05fb1d4293e071e4d110ac104490f6c878a0edbcba_640.jpg
+  api: https://pixabay.com/api/?id=3093564&key=
+  credit:
+    name: Three-shots
+    id: 3936226
+excrete:
+- url: https://www.irasutoya.com/2013/02/blog-post_653.html
+  site: irasutoya
+  ext: png
+  original: https://4.bp.blogspot.com/-O0Pur3sjarQ/UP06O9klHeI/AAAAAAAAK6A/HTglhQkjMWk/s640/toilet_boy.png
+  api: https://www.irasutoya.com/2013/02/blog-post_653.html
+fete:
+- url: https://pixabay.com/photos/banquet-holiday-restaurant-2945619/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/eb3cb50a2ef5083ed1584d05fb1d4293e071e4d110ac104490f6c878a0edbcbf_640.jpg
+  api: https://pixabay.com/api/?id=2945619&key=
+  credit:
+    name: ElenaW
+    id: 5197880
+gamete:
+- url: https://commons.wikimedia.org/wiki/File:Sperm-egg.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/8/86/Sperm-egg.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Sperm-egg.jpg
+  license:
+    name: Public domain
+    url: 
+machete:
+- url: https://commons.wikimedia.org/wiki/File:Machete_Bolo.JPG
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Machete_Bolo.JPG/640px-Machete_Bolo.JPG
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Machete_Bolo.JPG
+  license:
+    name: CC-BY-SA-3.0
+    url: http://creativecommons.org/licenses/by-sa/3.0/
+mete:
+- url: https://pixabay.com/photos/dollar-gift-hand-keep-give-3313761/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea36b00c2ff2003ed1584d05fb1d4293e071e4d110ac104490f7c079afe4b1bd_640.jpg
+  api: https://pixabay.com/api/?id=3313761&key=
+  credit:
+    name: geralt
+    id: 9301
+naivete:
+- url: https://pixabay.com/photos/father-son-dad-family-father-son-3937095/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ea3cb20828fd043ed1584d05fb1d4293e071e4d110ac104490f7c079afe4b1b1_640.jpg
+  api: https://pixabay.com/api/?id=3937095&key=
+  credit:
+    name: jpm935
+    id: 11306321
+obsolete:
+- url: https://pixabay.com/photos/announcer-audio-neon-cassette-316585/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/55e1d3464257b108f5d08460962c327d1339daec4e50744c7d2f7bd49f4ac4_640.jpg
+  api: https://pixabay.com/api/?id=316585&key=
+  credit:
+    name: PublicDomainPictures
+    id: 14
+replete:
+- url: https://pixabay.com/photos/hamburger-p-french-fries-belly-2683042/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/54e6dd404a56ae14f6da8c7dda79337b1639d8e15a4c704c70277bd49745c25b_640.jpg
+  api: https://pixabay.com/api/?id=2683042&key=
+  credit:
+    name: Joenomias
+    id: 2512814
+secrete:
+- url: https://pixabay.com/photos/secret-lips-woman-female-girl-2725302/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/54e7d7464952ae14f6da8c7dda79337b1639d8e15a4c704c70277bd49745c25e_640.jpg
+  api: https://pixabay.com/api/?id=2725302&key=
+  credit:
+    name: philm1310
+    id: 752382
+triathlete:
+- url: https://pixabay.com/photos/triathlon-sport-swimmer-competition-3474444/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/55e4d2474e56a814f6da8c7dda79337b1639d8e15a4c704c70277bd49745c25f_640.jpg
+  api: https://pixabay.com/api/?id=3474444&key=
+  credit:
+    name: mibro
+    id: 8455312
+athenaeum:
+- url: https://commons.wikimedia.org/wiki/File:Romanian-Athenaeum-Bucharest-2.JPG
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Romanian-Athenaeum-Bucharest-2.JPG/640px-Romanian-Athenaeum-Bucharest-2.JPG
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Romanian-Athenaeum-Bucharest-2.JPG
+  license:
+    name: CC-BY-SA-3.0
+    url: http://creativecommons.org/licenses/by-sa/3.0/
+coliseum:
+- url: https://pixabay.com/photos/stadium-national-arena-bucuresti-1750100/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/57e7d0434b52ac14f6da8c7dda79337b1639d8e15a4c704c732f7ed7924ec05e_640.jpg
+  api: https://pixabay.com/api/?id=1750100&key=
+  credit:
+    name: mariusmandache
+    id: 2295244
+Colosseum:
+- url: https://pixabay.com/photos/colosseum-rome-architecture-italy-3012088/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/55e0d4414a5aa414f6da8c7dda79337b1639d8e15a4c704c732f7ed7924ac459_640.jpg
+  api: https://pixabay.com/api/?id=3012088&key=
+  credit:
+    name: maiterozas
+    id: 3811814
+geum:
+- url: https://commons.wikimedia.org/wiki/File:Geum_macrophyllum_var._sachalinense_2.JPG
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Geum_macrophyllum_var._sachalinense_2.JPG/640px-Geum_macrophyllum_var._sachalinense_2.JPG
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Geum_macrophyllum_var._sachalinense_2.JPG
+  license:
+    name: CC BY-SA 3.0
+    url: https://creativecommons.org/licenses/by-sa/3.0
+ileum:
+- url: https://commons.wikimedia.org/wiki/File:Illu_small_intestine.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/3/3d/Illu_small_intestine.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Illu_small_intestine.jpg
+  license:
+    name: Public domain
+    url: 
+linoleum:
+- url: https://commons.wikimedia.org/wiki/File:Linoleum_floor.jpeg
+  site: wikipedia
+  ext: jpeg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Linoleum_floor.jpeg/640px-Linoleum_floor.jpeg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Linoleum_floor.jpeg
+  license:
+    name: CC BY-SA 2.5
+    url: https://creativecommons.org/licenses/by-sa/2.5
+lyceum:
+- url: https://pixabay.com/photos/red-seat-hall-assembly-cinema-1556341/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/57e5d0454956ad14f6da8c7dda79337b1639d8e15a4c704c732f7ed7924ec35f_640.jpg
+  api: https://pixabay.com/api/?id=1556341&key=
+  credit:
+    name: photochur
+    id: 2543394
+mausoleum:
+- url: https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg
+  site: wikipedia
+  ext: jpeg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/640px-Taj_Mahal_%28Edited%29.jpeg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Taj_Mahal_(Edited).jpeg
+  license:
+    name: CC BY-SA 4.0
+    url: https://creativecommons.org/licenses/by-sa/4.0
+museum:
+- url: https://pixabay.com/photos/museum-london-history-architecture-2203648/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/54e2d5404c56a414f6da8c7dda79337b1639d8e15a4c704c732f7ed7924ec259_640.jpg
+  api: https://pixabay.com/api/?id=2203648&key=
+  credit:
+    name: PublicCo
+    id: 5009832
+peritoneum:
+- url: https://commons.wikimedia.org/wiki/File:Peritoneum.svg
+  site: wikipedia
+  ext: png
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Peritoneum.svg/579px-Peritoneum.svg.png
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Peritoneum.svg
+  license:
+    name: CC BY-SA 3.0
+    url: https://creativecommons.org/licenses/by-sa/3.0
+petroleum:
+- url: https://pixabay.com/photos/refinery-pump-oil-pump-industry-514010/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/53e1d1434b52b108f5d08460962c327d1339daec4e50744f752a78d1944ac2_640.jpg
+  api: https://pixabay.com/api/?id=514010&key=
+  credit:
+    name: jp26jp
+    id: 308026
+rheum:
+- url: https://commons.wikimedia.org/wiki/File:Cat_eyes_rheum_001.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cat_eyes_rheum_001.jpg/640px-Cat_eyes_rheum_001.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Cat_eyes_rheum_001.jpg
+  license:
+    name: CC BY 2.0
+    url: https://creativecommons.org/licenses/by/2.0
+baffle:
+- url: https://www.irasutoya.com/2013/03/blog-post_490.html
+  site: irasutoya
+  ext: png
+  original: https://2.bp.blogspot.com/-28G9R5qtOmw/WUJG0ia6itI/AAAAAAABE0I/k6Sh2Zaj1o0rTtdwTJEaH4pdvcK1tANZQCLcBGAs/s640/komatta_man2.png
+  api: https://www.irasutoya.com/2013/03/blog-post_490.html
+kerfuffle:
+- url: https://www.irasutoya.com/2019/05/blog-post_330.html#1
+  site: irasutoya
+  ext: png
+  original: https://3.bp.blogspot.com/-1Wqmbxf-VPU/XMZ96v4dIPI/AAAAAAABSmU/se0juhb3RKI9Acjf_Qr1bA4vhINk34j7ACLcBGAs/s640/kenka_tsukamiai.png
+  api: https://www.irasutoya.com/2019/05/blog-post_330.html
+muffle:
+- url: https://pixabay.com/photos/muffler-metallic-motorcycle-exhaust-296369/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/54e9d3404c5bb108f5d08460962c327d1339daec4e50744f752a78d19445c3_640.jpg
+  api: https://pixabay.com/api/?id=296369&key=
+  credit:
+    name: minthu
+    id: 49745
+piffle:
+- url: https://www.irasutoya.com/2016/01/blog-post_551.html
+  site: irasutoya
+  ext: png
+  original: https://3.bp.blogspot.com/-XvksuNB19gY/Vqqvw5kq8pI/AAAAAAAA3Y8/k4-82Mi61wk/s640/bluebird_baka.png
+  api: https://www.irasutoya.com/2016/01/blog-post_551.html
+raffle:
+- url: https://commons.wikimedia.org/wiki/File:Buying_restaurant_raffle_tickets_at_the_Our_Community_Place_Lawn_Jam_20080628.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Buying_restaurant_raffle_tickets_at_the_Our_Community_Place_Lawn_Jam_20080628.jpg/478px-Buying_restaurant_raffle_tickets_at_the_Our_Community_Place_Lawn_Jam_20080628.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Buying_restaurant_raffle_tickets_at_the_Our_Community_Place_Lawn_Jam_20080628.jpg
+  license:
+    name: CC BY-SA 3.0
+    url: https://creativecommons.org/licenses/by-sa/3.0
+reshuffle:
+- url: https://commons.wikimedia.org/wiki/File:Prime_Minister_George_Papandreou_with_full_cabinet_2009Oct07.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Prime_Minister_George_Papandreou_with_full_cabinet_2009Oct07.jpg/640px-Prime_Minister_George_Papandreou_with_full_cabinet_2009Oct07.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Prime_Minister_George_Papandreou_with_full_cabinet_2009Oct07.jpg
+  license:
+    name: CC BY-SA 2.0
+    url: https://creativecommons.org/licenses/by-sa/2.0
+riffle:
+- url: https://pixabay.com/photos/fishing-boat-fish-fishing-lake-1844109/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/57e8d1474b52a514f6da8c7dda79337b1639d8e15a4c704c732f7ed7924ecc5d_640.jpg
+  api: https://pixabay.com/api/?id=1844109&key=
+  credit:
+    name: fxxu
+    id: 199315
+ruffle:
+- url: https://pixabay.com/photos/swan-baby-swan-white-white-swan-2350668/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/54e3d0434c54a414f6da8c7dda79337b1639d8e15a4c704c732f7ed7924ecc5f_640.jpg
+  api: https://pixabay.com/api/?id=2350668&key=
+  credit:
+    name: pixel2013
+    id: 2364555
+scuffle:
+- url: https://www.irasutoya.com/2018/01/blog-post_517.html
+  site: irasutoya
+  ext: png
+  original: https://1.bp.blogspot.com/-kMpxx5z9qSU/Wj4IjcJrETI/AAAAAAABJM8/UjgwrogheeEbmVkNWdMXL2E2ulJfuTX4gCLcBGAs/s640/kenka_baseball_rantou.png
+  api: https://www.irasutoya.com/2018/01/blog-post_517.html
+shuffle:
+- url: https://commons.wikimedia.org/wiki/File:Card_shuffle.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Card_shuffle.jpg/640px-Card_shuffle.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Card_shuffle.jpg
+  license:
+    name: Public domain
+    url: 
+snaffle:
+- url: https://pixabay.com/photos/horse-portrait-animal-brown-bridle-3600327/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/55e6d5434950ab14f6da8c7dda79337b1639d8e15a4c704c732f7ed79249c55c_640.jpg
+  api: https://pixabay.com/api/?id=3600327&key=
+  credit:
+    name: PixelwunderByRebecca
+    id: 18516
+sniffle:
+- url: https://pixabay.com/photos/woman-blow-blowing-nose-hand-chief-698982/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/50e9dd4a4250b108f5d08460962c327d1339daec4e50744f752a78d1934dc3_640.jpg
+  api: https://pixabay.com/api/?id=698982&key=
+  credit:
+    name: Mojpe
+    id: 885231
+snuffle:
+- url: https://pixabay.com/photos/mouse-color-mouse-dog-nose-860409/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/5ee6d5474a5bb108f5d08460962c327d1339daec4e50744f752a78d1934dcc_640.jpg
+  api: https://pixabay.com/api/?id=860409&key=
+  credit:
+    name: sipa
+    id: 62896
+souffle:
+- url: https://commons.wikimedia.org/wiki/File:Cheese_souffl%C3%A9_(4441276511).jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cheese_souffl%C3%A9_%284441276511%29.jpg/640px-Cheese_souffl%C3%A9_%284441276511%29.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Cheese_souffl%C3%A9_(4441276511).jpg
+  license:
+    name: CC BY 2.0
+    url: https://creativecommons.org/licenses/by/2.0
+truffle:
+- url: https://pixabay.com/photos/truffle-real-truffle-mushroom-203031/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/54e0d6434953b108f5d08460962c327d1339daec4e50744f752a78d1934cc6_640.jpg
+  api: https://pixabay.com/api/?id=203031&key=
+  credit:
+    name: WikiImages
+    id: 1897
+waffle:
+- url: https://pixabay.com/photos/waffle-dessert-fresh-strawberry-878198/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/5ee7dd42435ab108f5d08460962c327d1339daec4e50744f752a78d1934cc3_640.jpg
+  api: https://pixabay.com/api/?id=878198&key=
+  credit:
+    name: patikaipmuzika
+    id: 985051
 combustible:
 - url: https://pixabay.com/en/firefighters-fire-flames-outside-115800/
   site: pixabay
