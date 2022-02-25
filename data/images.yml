@@ -786,7 +786,7 @@ charlady:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:A_charwoman_who_cleans_buses_sweeping_the_floor_of_a_bus_8d32921v.jpg
   license:
     name: Public domain
-    url: 
+    url:
 heady:
 - url: https://pixabay.com/en/beer-blotto-comic-court-drinking-2027412/
   site: pixabay
@@ -1017,7 +1017,7 @@ distaff:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Reine_Berthe_et_les_fileueses,_1888.jpg
   license:
     name: Public domain
-    url: 
+    url:
 faff:
 - url: http://www.irasutoya.com/2014/09/blog-post_524.html
   site: irasutoya
@@ -1041,7 +1041,7 @@ gaff:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Fishing_with_gaff_hook.png
   license:
     name: Public domain
-    url: 
+    url:
 naff:
 - url: https://pixabay.com/en/cassette-tape-music-retro-audio-2055622/
   site: pixabay
@@ -1068,7 +1068,7 @@ quarterstaff:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Quarterstaff_line_drawing_-_Project_Gutenberg_eText_14315.jpg
   license:
     name: Public domain
-    url: 
+    url:
 riffraff:
 - url: https://pixabay.com/en/beer-blotto-comic-court-drinking-2027412/
   site: pixabay
@@ -1085,7 +1085,7 @@ staff:
   original: https://pixabay.com/get/e83cb6062af2003ed95c4518b7484395e571e6dc04b0154891f1c27ca5e4bd_640.jpg
   api: https://pixabay.com/api/?id=1979261&key=
   credit:
-    name: 089photoshootings
+    name: '089photoshootings'
     id: 4258482
 cottager:
 - url: https://pixabay.com/en/cottage-house-thatch-pierre-1874633/
@@ -1104,7 +1104,7 @@ dowager:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:L%27imp%C3%A9ratrice_Eug%C3%A9nie_en_deuil_1873.jpg
   license:
     name: Public domain
-    url: 
+    url:
 eager:
 - url: https://pixabay.com/en/students-classroom-learn-school-377789/
   site: pixabay
@@ -1302,7 +1302,7 @@ tarragon:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Dried_Taragon.JPG
   license:
     name: Public domain
-    url: 
+    url:
 aforesaid:
 - url: https://pixabay.com/en/dictionary-letters-learn-read-abc-432041/
   site: pixabay
@@ -1346,7 +1346,7 @@ bridesmaid:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:1bridesmaids_crop.jpg
   license:
     name: Public domain
-    url: 
+    url:
 chambermaid:
 - url: https://commons.wikimedia.org/wiki/File:Hotel_chambermaid.jpg
   site: wikipedia
@@ -1364,7 +1364,7 @@ handmaid:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Las_Meninas_01.jpg
   license:
     name: Public domain
-    url: 
+    url:
 inlaid:
 - url: https://commons.wikimedia.org/wiki/File:Marquetry_casket,_Ottoman_Empire_(Istanbul_or_North_Africa),_17th-18th_century,_wood,_tortoise_shell,_bone,_ivory_inlay_-_Royal_Ontario_Museum_-_DSC04772.JPG
   site: wikipedia
@@ -1478,7 +1478,7 @@ Ephraim:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Francesco_Hayez_020.jpg
   license:
     name: Public domain
-    url: 
+    url:
 exclaim:
 - url: https://pixabay.com/en/president-not-care-public-adult-1822449/
   site: pixabay
@@ -1568,7 +1568,7 @@ moraine:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Moraines_Surlej.jpg
   license:
     name: Public domain
-    url: 
+    url:
 novocaine:
 - url: https://pixabay.com/en/doctor-dentist-dental-clinic-1149149/
   site: pixabay
@@ -1586,7 +1586,7 @@ Paine:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Thomas_Paine_rev1.jpg
   license:
     name: Public domain
-    url: 
+    url:
 procaine:
 - url: http://www.irasutoya.com/2014/04/blog-post_29.html
   site: irasutoya
@@ -1832,7 +1832,7 @@ mohair:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Colored_Angora_Goat.jpg
   license:
     name: Public domain
-    url: 
+    url:
 pushchair:
 - url: https://pixabay.com/en/stroller-cart-abandoned-575207/
   site: pixabay
@@ -1952,7 +1952,7 @@ Voltaire:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Atelier_de_Nicolas_de_Largilli%C3%A8re,_portrait_de_Voltaire,_d%C3%A9tail_(mus%C3%A9e_Carnavalet)_-002.jpg
   license:
     name: Public domain
-    url: 
+    url:
 Zaire:
 - url: https://commons.wikimedia.org/wiki/File:Republic_of_Zaire_(orthographic_projection).svg
   site: wikipedia
@@ -1988,7 +1988,7 @@ chaise:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Chaise_(PSF).jpg
   license:
     name: Public domain
-    url: 
+    url:
 liaise:
 - url: https://pixabay.com/en/action-analysis-business-2277292/
   site: pixabay
@@ -2221,7 +2221,7 @@ cakewalk:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Leo_Rauth_Cake-Walk.jpg
   license:
     name: Public domain
-    url: 
+    url:
 catwalk:
 - url: https://commons.wikimedia.org/wiki/File:ModelsCatwalk.jpg
   site: wikipedia
@@ -2336,7 +2336,7 @@ cobalt:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Bristol.blue.glass.arp.750pix.jpg
   license:
     name: Public domain
-    url: 
+    url:
 dealt:
 - url: https://pixabay.com/en/agreement-beard-brainstorming-2286439/
   site: pixabay
@@ -2363,7 +2363,7 @@ gestalt:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Reification.jpg
   license:
     name: Public domain
-    url: 
+    url:
 halt:
 - url: https://pixabay.com/en/domino-hand-stop-corruption-665547/
   site: pixabay
@@ -2399,7 +2399,7 @@ shalt:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Moses041.jpg
   license:
     name: Public domain
-    url: 
+    url:
 smalt:
 - url: https://commons.wikimedia.org/wiki/File:Smalte-Historische_Farbstoffsammlung.jpg
   site: wikipedia
@@ -2863,7 +2863,7 @@ dandy:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Dandys_1830.jpg
   license:
     name: Public domain
-    url: 
+    url:
 handy:
 - url: https://pixabay.com/en/multi-tool-pliers-pocket-knife-608013/
   site: pixabay
@@ -3088,7 +3088,7 @@ yang:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Yin_yang.svg
   license:
     name: Public domain
-    url: 
+    url:
 arrange:
 - url: https://pixabay.com/en/flowers-wedding-wedding-rings-260894/
   site: pixabay
@@ -3202,7 +3202,7 @@ galvanic:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Galvani-frogs-legs-electricity.jpg
   license:
     name: Public domain
-    url: 
+    url:
 - url: https://commons.wikimedia.org/wiki/File:Frankenstein%27s_monster_(Boris_Karloff).jpg
   site: wikipedia
   ext: jpg
@@ -3210,7 +3210,7 @@ galvanic:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Frankenstein%27s_monster_(Boris_Karloff).jpg
   license:
     name: Public domain
-    url: 
+    url:
 germanic:
 - url: https://commons.wikimedia.org/wiki/File:EU-Germany.svg
   site: wikipedia
@@ -3299,7 +3299,7 @@ titanic:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:RMS_Titanic_3.jpg
   license:
     name: Public domain
-    url: 
+    url:
 tympanic:
 - url: https://commons.wikimedia.org/wiki/File:Earrr.JPG
   site: wikipedia
@@ -3361,7 +3361,7 @@ flank:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:BeefCutFlank.svg
   license:
     name: Public domain
-    url: 
+    url:
 frank:
 - url: https://pixabay.com/en/child-boy-people-man-young-smile-163952/
   site: pixabay
@@ -3388,7 +3388,7 @@ lank:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Kuniyoshi_Ashinagatenaga.jpg
   license:
     name: Public domain
-    url: 
+    url:
 mountebank:
 - url: https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch_051.jpg
   site: wikipedia
@@ -3397,7 +3397,7 @@ mountebank:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Hieronymus_Bosch_051.jpg
   license:
     name: Public domain
-    url: 
+    url:
 plank:
 - url: https://pixabay.com/en/boards-decking-deck-plank-wood-2159033/
   site: pixabay
@@ -3541,7 +3541,7 @@ Epiphany:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:7222_Adoraci%C3%B3n_de_los_Reyes_Magos.jpg
   license:
     name: Public domain
-    url: 
+    url:
 litany:
 - url: https://commons.wikimedia.org/wiki/File:%D0%94%D0%B8%D0%B0%D0%BA%D0%BE%D0%BD.jpg
   site: wikipedia
@@ -3550,7 +3550,7 @@ litany:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:%D0%94%D0%B8%D0%B0%D0%BA%D0%BE%D0%BD.jpg
   license:
     name: Public domain
-    url: 
+    url:
 mahogany:
 - url: https://commons.wikimedia.org/wiki/File:Swietenia_macrophylla_wood.jpg
   site: wikipedia
@@ -3601,7 +3601,7 @@ zany:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:SAND_Maurice_Masques_et_bouffons_01.jpg
   license:
     name: Public domain
-    url: 
+    url:
 agape:
 - url: https://pixabay.com/en/cross-easter-crosses-easter-sunday-2250556/
   site: pixabay
@@ -3744,7 +3744,7 @@ draper:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Adriaen_Bloem_-_In_the_Draper%C2%B4s_Shop_-_Google_Art_Project.jpg
   license:
     name: Public domain
-    url: 
+    url:
 newspaper:
 - url: https://pixabay.com/en/news-business-newspaper-theater-760984/
   site: pixabay
@@ -4124,7 +4124,7 @@ patriarch:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Hortus_Deliciarum,_Der_Scho%C3%9F_Abrahams.JPG
   license:
     name: Public domain
-    url: 
+    url:
 research:
 - url: https://pixabay.com/en/microscope-slide-research-close-up-275984/
   site: pixabay
@@ -4346,7 +4346,7 @@ sarge:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Senior_drill_instructor.jpg
   license:
     name: Public domain
-    url: 
+    url:
 supercharge:
 - url: https://pixabay.com/en/engine-supercharger-fast-supercar-1409753/
   site: pixabay
@@ -4622,7 +4622,7 @@ quarry:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:PortlandQuarry.jpg
   license:
     name: Public domain
-    url: 
+    url:
 remarry:
 - url: https://pixabay.com/en/connected-together-1child-wedding-1327191/
   site: pixabay
@@ -4658,7 +4658,7 @@ cantata:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:US_Navy_031214-N-1375K-001_A_local_Italian_choir_filled_the_Naples_support_site_chapel_with_the_sounds_of_a_Christmas_Cantata.jpg
   license:
     name: Public domain
-    url: 
+    url:
 desiderata:
 - url: https://pixabay.com/en/glass-bottle-cork-empty-1101141/
   site: pixabay
@@ -4685,7 +4685,7 @@ fermata:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Fermata.svg
   license:
     name: Public domain
-    url: 
+    url:
 inamorata:
 - url: https://pixabay.com/en/ponte-vecchio-florence-italy-people-691789/
   site: pixabay
@@ -5171,7 +5171,7 @@ Sheba:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Sheba_demin.jpg
   license:
     name: Public domain
-    url: 
+    url:
 tuba:
 - url: https://commons.wikimedia.org/wiki/File:Tuba.JPG
   site: wikipedia
@@ -5180,7 +5180,7 @@ tuba:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Tuba.JPG
   license:
     name: Public domain
-    url: 
+    url:
 armband:
 - url: https://commons.wikimedia.org/wiki/File:British_military_police_officer_looks_across_Berlin_Wall_with_field_glasses,_1984.jpg
   site: wikipedia
@@ -5216,7 +5216,7 @@ contraband:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Drugpackscorpion.png
   license:
     name: Public domain
-    url: 
+    url:
 disband:
 - url: https://pixabay.com/en/warehouse-empty-factory-interior-860916/
   site: pixabay
@@ -5270,7 +5270,7 @@ saraband:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Baroquedance.gif
   license:
     name: Public domain
-    url: 
+    url:
 waistband:
 - url: https://pixabay.com/en/sewing-skirt-clothes-fashion-1325767/
   site: pixabay
@@ -5351,7 +5351,7 @@ isobar:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:1940_New_England_hurricane_analysis_1_Sep_1940.png
   license:
     name: Public domain
-    url: 
+    url:
 lumbar:
 - url: https://commons.wikimedia.org/wiki/File:Lumbar_region_in_human_skeleton.svg
   site: wikipedia
@@ -5360,7 +5360,7 @@ lumbar:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Lumbar_region_in_human_skeleton.svg
   license:
     name: Public domain
-    url: 
+    url:
 millibar:
 - url: https://commons.wikimedia.org/wiki/File:ReifendruckPruefen.jpg
   site: wikipedia
@@ -5369,7 +5369,7 @@ millibar:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:ReifendruckPruefen.jpg
   license:
     name: Public domain
-    url: 
+    url:
 minibar:
 - url: https://commons.wikimedia.org/wiki/File:MiniBar_in_Novotel_(Moscow_Sheremetevo).jpg
   site: wikipedia
@@ -5485,7 +5485,7 @@ hobble:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Hobbles_on_a_donkey.jpg
   license:
     name: Public domain
-    url: 
+    url:
 kibble:
 - url: https://pixabay.com/en/seeds-sunflower-seeds-chia-sesame-2267092/
   site: pixabay
@@ -5595,7 +5595,7 @@ babel:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project.jpg
   license:
     name: Public domain
-    url: 
+    url:
 barbel:
 - url: https://commons.wikimedia.org/wiki/File:River_Wye_barbel.jpg
   site: wikipedia
@@ -5631,7 +5631,7 @@ jezebel:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:The_punishment_of_Jezebel.jpg
   license:
     name: Public domain
-    url: 
+    url:
 label:
 - url: https://pixabay.com/en/wine-winery-burgundy-rioja-cava-426466/
   site: pixabay
@@ -5730,7 +5730,7 @@ iambic:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:First_Folio.jpg
   license:
     name: Public domain
-    url: 
+    url:
 monosyllabic:
 - url: https://pixabay.com/en/people-woman-bye-gloves-cold-2586435/
   site: pixabay
@@ -5817,7 +5817,7 @@ Jacobin:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Robespierre.jpg
   license:
     name: Public domain
-    url: 
+    url:
 nubbin:
 - url: https://pixabay.com/en/squirrel-corn-rodent-animal-mammal-522381/
   site: pixabay
@@ -5844,7 +5844,7 @@ abracadabra:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Abracadabra.jpg
   license:
     name: Public domain
-    url: 
+    url:
 algebra:
 - url: https://pixabay.com/en/learn-mathematics-child-girl-2300141/
   site: pixabay
@@ -5889,7 +5889,7 @@ cerebra:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Lobes_of_the_brain_NL.svg
   license:
     name: Public domain
-    url: 
+    url:
 cobra:
 - url: https://pixabay.com/en/snake-charming-snake-animal-reptile-193966/
   site: pixabay
@@ -5997,7 +5997,7 @@ desiccant:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Silica_gel_bag_open_with_beads.jpg
   license:
     name: Public domain
-    url: 
+    url:
 insignificant:
 - url: https://pixabay.com/en/delicate-arch-sunset-rock-formation-896885/
   site: pixabay
@@ -6468,7 +6468,7 @@ infanticide:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Burying_Babies_in_China_(p.40,_March_1865,_XXII).jpg
   license:
     name: Public domain
-    url: 
+    url:
 insecticide:
 - url: https://commons.wikimedia.org/wiki/File:FLIT_Spray_Can_1.jpg
   site: wikipedia
@@ -6486,7 +6486,7 @@ matricide:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:William-Adolphe_Bouguereau_(1825-1905)_-_The_Remorse_of_Orestes_(1862).jpg
   license:
     name: Public domain
-    url: 
+    url:
 patricide:
 - url: https://pixabay.com/en/child-squirt-gun-water-pistol-play-72906/
   site: pixabay
@@ -6633,7 +6633,7 @@ straitjacket:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Straitjacket-rear.jpg
   license:
     name: Public domain
-    url: 
+    url:
 thicket:
 - url: https://commons.wikimedia.org/wiki/File:Betula_pendula_(fall_colors)_2.jpg
   site: wikipedia
@@ -6660,7 +6660,7 @@ archdeacon:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Archdeacon_by_Repin.jpg
   license:
     name: Public domain
-    url: 
+    url:
 con:
 - url: https://pixabay.com/en/partnership-connectedness-personal-526413/
   site: pixabay
@@ -6678,7 +6678,7 @@ deacon:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:%D0%94%D0%B8%D0%B0%D0%BA%D0%BE%D0%BD.jpg
   license:
     name: Public domain
-    url: 
+    url:
 econ:
 - url: https://pixabay.com/en/office-pen-calculator-computation-1574717/
   site: pixabay
@@ -6723,7 +6723,7 @@ icon:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Ushakov_Nerukotvorniy.jpg
   license:
     name: Public domain
-    url: 
+    url:
 lexicon:
 - url: https://pixabay.com/en/book-hardcover-text-pages-1798/
   site: pixabay
@@ -6750,7 +6750,7 @@ silicon:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:SiliconCroda.jpg
   license:
     name: Public domain
-    url: 
+    url:
 zircon:
 - url: https://commons.wikimedia.org/wiki/File:Zircon-dtn1a.jpg
   site: wikipedia
@@ -6900,7 +6900,7 @@ dialectic:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Hegel_portrait_by_Schlesinger_1831.jpg
   license:
     name: Public domain
-    url: 
+    url:
 didactic:
 - url: https://pixabay.com/en/boys-school-teacher-education-asia-1782427/
   site: pixabay
@@ -7824,7 +7824,7 @@ teddy:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Underwear1913.JPG
   license:
     name: Public domain
-    url: 
+    url:
 toddy:
 - url: https://commons.wikimedia.org/wiki/File:Refreshing_palm_wine.jpg
   site: wikipedia
@@ -7851,7 +7851,7 @@ comedian:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Chaplin,_Charlie_(His_New_Job)_01.jpg
   license:
     name: Public domain
-    url: 
+    url:
 custodian:
 - url: https://pixabay.com/en/janitor-cart-cleaning-equipment-1357278/
   site: pixabay
@@ -7869,7 +7869,7 @@ guardian:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:%C3%81ngel_de_la_Guarda.jpg
   license:
     name: Public domain
-    url: 
+    url:
 median:
 - url: https://pixabay.com/en/street-night-city-urban-lights-371222/
   site: pixabay
@@ -8094,7 +8094,7 @@ martyrdom:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Attavante,_martirio_dei_sette_fratelli_ebrei,_bibl_ap_vaticana_bibbia_ms._urb_lat_2_f_174v.jpg
   license:
     name: Public domain
-    url: 
+    url:
 officialdom:
 - url: https://www.irasutoya.com/2017/01/blog-post_617.html
   site: irasutoya
@@ -8118,7 +8118,7 @@ serfdom:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Reeve_and_Serfs.jpg
   license:
     name: Public domain
-    url: 
+    url:
 stardom:
 - url: https://pixabay.com/en/concerts-audience-spectators-lights-1150042/
   site: pixabay
@@ -8199,7 +8199,7 @@ Myrmidon:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Virgil_solis_ovid_metamorphosen7_11.png
   license:
     name: Public domain
-    url: 
+    url:
 radon:
 - url: https://www.irasutoya.com/2012/12/blog-post_7012.html
   site: irasutoya
@@ -8223,7 +8223,7 @@ ambassador:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:U.S._Defense_Secretary_Chuck_Hagel_is_escorted_by_Ahn_Ho-young,_South_Korean_ambassador_to_the_United_States,_as_he_visits_the_South_Korean_Embassy_in_Washington,_D.C.,_May_10,_2014_140510-D-NI589-096b.jpg
   license:
     name: Public domain
-    url: 
+    url:
 ardor:
 - url: https://www.irasutoya.com/2018/07/blog-post_419.html
   site: irasutoya
@@ -8421,7 +8421,7 @@ adduct:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Da_Vinci_Vitruve_Luc_Viatour2.jpg
   license:
     name: Public domain
-    url: 
+    url:
 aqueduct:
 - url: https://pixabay.com/en/aqueduct-water-the-stones-holidays-979211/
   site: pixabay
@@ -8505,7 +8505,7 @@ viaduct:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Thornton_viaduct_bradford.jpg
   license:
     name: Public domain
-    url: 
+    url:
 beak:
 - url: https://pixabay.com/en/vulture-bird-of-prey-bird-beak-zoo-1126593/
   site: pixabay
@@ -8676,7 +8676,7 @@ laureate:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Lorbeerkranz_Zypern_rem.jpg
   license:
     name: Public domain
-    url: 
+    url:
 nauseate:
 - url: https://www.irasutoya.com/2013/01/blog-post_8886.html
   site: irasutoya
@@ -8772,7 +8772,7 @@ chateau:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Chateau_de_Cleron_07.jpg
   license:
     name: Public domain
-    url: 
+    url:
 gateau:
 - url: https://commons.wikimedia.org/wiki/File:Black_Forest_gateau.jpg
   site: wikipedia
@@ -8988,7 +8988,7 @@ frontispiece:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Jack_and_the_Beanstalk_TP_and_Frontispiece.jpg
   license:
     name: Public domain
-    url: 
+    url:
 headpiece:
 - url: https://pixabay.com/en/angel-perfect-woman-romantic-girl-2491383/
   site: pixabay
@@ -9162,7 +9162,7 @@ Swede:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Flag_of_Sweden.svg
   license:
     name: Public domain
-    url: 
+    url:
 velocipede:
 - url: https://commons.wikimedia.org/wiki/File:The_American_Velocipede.jpg
   site: wikipedia
@@ -9171,7 +9171,7 @@ velocipede:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:The_American_Velocipede.jpg
   license:
     name: Public domain
-    url: 
+    url:
 acknowledge:
 - url: https://pixabay.com/en/ok-sillhouette-black-and-white-man-1413349/
   site: pixabay
@@ -9189,7 +9189,7 @@ dredge:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Dredge_(PSF).png
   license:
     name: Public domain
-    url: 
+    url:
 edge:
 - url: https://pixabay.com/en/beachy-head-cliff-england-sussex-1030825/
   site: pixabay
@@ -9243,7 +9243,7 @@ sedge:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Carex_spp_Sturm53.jpg
   license:
     name: Public domain
-    url: 
+    url:
 selvedge:
 - url: https://commons.wikimedia.org/wiki/File:Red_selvedge_enim.jpg
   site: wikipedia
@@ -9411,7 +9411,7 @@ eel:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Anguilla_japonica_1856.jpg
   license:
     name: Public domain
-    url: 
+    url:
 flywheel:
 - url: https://pixabay.com/en/steam-engine-toys-flywheel-drive-1593113/
   site: pixabay
@@ -9630,7 +9630,7 @@ fleet:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Fleet_5_nations.jpg
   license:
     name: Public domain
-    url: 
+    url:
 forefeet:
 - url: https://pixabay.com/en/paws-animal-dog-foot-ten-human-186226/
   site: pixabay
@@ -9891,7 +9891,7 @@ blackleg:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Caravaggio_(Michelangelo_Merisi)_-_The_Cardsharps_-_Google_Art_Project.jpg
   license:
     name: Public domain
-    url: 
+    url:
 blitzkrieg:
 - url: https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-218-0504-36,_Russland-S%C3%BCd,_Panzer_III,_Sch%C3%BCtzenpanzer,_23.Pz.Div..jpg
   site: wikipedia
@@ -10041,7 +10041,7 @@ sacrilege:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Pentagram4.svg
   license:
     name: Public domain
-    url: 
+    url:
 siege:
 - url: https://commons.wikimedia.org/wiki/File:Than_Buda_ostroma.jpg
   site: wikipedia
@@ -10050,7 +10050,7 @@ siege:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Than_Buda_ostroma.jpg
   license:
     name: Public domain
-    url: 
+    url:
 Bahrein:
 - url: https://commons.wikimedia.org/wiki/File:Bahrain_on_the_globe_(Afro-Eurasia_centered).svg
   site: wikipedia
@@ -10146,7 +10146,7 @@ villein:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Reeve_and_Serfs.jpg
   license:
     name: Public domain
-    url: 
+    url:
 wherein:
 - url: https://pixabay.com/en/turn-on-turn-off-question-mark-note-2925962/
   site: pixabay
@@ -10164,7 +10164,7 @@ kopek:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Soviet_Union-1953-Coin-0.20.jpg
   license:
     name: Public domain
-    url: 
+    url:
 midweek:
 - url: https://pixabay.com/en/paper-composition-business-writing-3141341/
   site: pixabay
@@ -10218,7 +10218,7 @@ flagella:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Flagellum_base_diagram_en.svg
   license:
     name: Public domain
-    url: 
+    url:
 mozzarella:
 - url: https://pixabay.com/en/mozzarella-tomatoes-cut-knife-eat-681466/
   site: pixabay
@@ -10269,7 +10269,7 @@ salmonella:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:SalmonellaNIAID.jpg
   license:
     name: Public domain
-    url: 
+    url:
 tarantella:
 - url: https://www.irasutoya.com/2014/05/blog-post_9667.html
   site: irasutoya
@@ -10509,7 +10509,7 @@ entrench:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Soldiers_in_trench.jpg
   license:
     name: Public domain
-    url: 
+    url:
 frontbench:
 - url: https://commons.wikimedia.org/wiki/File:Go_On_(27739156054).jpg
   site: wikipedia
@@ -10554,7 +10554,7 @@ tench:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Tinca_tinca_Prague_Vltava_3.jpg
   license:
     name: Public domain
-    url: 
+    url:
 trench:
 - url: https://pixabay.com/en/trench-replica-first-world-war-war-1566795/
   site: pixabay
@@ -10571,7 +10571,7 @@ wench:
   original: https://pixabay.com/get/e83cb6062af2093ed1584d05fb1d4293e071e4d110ac104491f4c27ba0e9b5b8_640.jpg
   api: https://pixabay.com/api/?id=1979268&key=
   credit:
-    name: 089photoshootings
+    name: '089photoshootings'
     id: 4258482
 workbench:
 - url: https://commons.wikimedia.org/wiki/File:Basicbench.jpg
@@ -10581,7 +10581,7 @@ workbench:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Basicbench.jpg
   license:
     name: Public domain
-    url: 
+    url:
 wrench:
 - url: https://pixabay.com/en/adjustable-wrench-tool-1659780/
   site: pixabay
@@ -10716,7 +10716,7 @@ chimaera:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Hydrolagus_alberti.jpg
   license:
     name: Public domain
-    url: 
+    url:
 cholera:
 - url: https://commons.wikimedia.org/wiki/File:Cholera_bacteria_SEM.jpg
   site: wikipedia
@@ -10797,7 +10797,7 @@ tempera:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Botticelli-primavera.jpg
   license:
     name: Public domain
-    url: 
+    url:
 viscera:
 - url: https://www.irasutoya.com/2013/11/blog-post_15.html
   site: irasutoya
@@ -10917,7 +10917,7 @@ numeral:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:8-segment_display_patent.png
   license:
     name: Public domain
-    url: 
+    url:
 peripheral:
 - url: https://pixabay.com/en/printers-old-abandoned-recycling-344016/
   site: pixabay
@@ -10944,7 +10944,7 @@ quadrilateral:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Six_Quadrilaterals.svg
   license:
     name: Public domain
-    url: 
+    url:
 several:
 - url: https://pixabay.com/en/apples-apple-fruit-bowl-glass-3681500/
   site: pixabay
@@ -11073,7 +11073,7 @@ stratospheric:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Endeavour_silhouette_STS-130.jpg
   license:
     name: Public domain
-    url: 
+    url:
 turmeric:
 - url: https://pixabay.com/photos/turmeric-spice-curry-seasoning-3251560/
   site: pixabay
@@ -11160,7 +11160,7 @@ menagerie:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Meyerheim-Menagerie.jpg
   license:
     name: Public domain
-    url: 
+    url:
 patisserie:
 - url: https://commons.wikimedia.org/wiki/File:Lille_Meert2.JPG
   site: wikipedia
@@ -11196,7 +11196,7 @@ angiosperm:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Magnolia_campbellii_flowers.jpg
   license:
     name: Public domain
-    url: 
+    url:
 berm:
 - url: https://commons.wikimedia.org/wiki/File:Ragoeser-damm-2.jpg
   site: wikipedia
@@ -11214,7 +11214,7 @@ ectoderm:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Gastrulation.png
   license:
     name: Public domain
-    url: 
+    url:
 endoderm:
 - url: https://www.irasutoya.com/2013/06/blog-post_7615.html
   site: irasutoya
@@ -11235,7 +11235,7 @@ isotherm:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Isotherms_ugglan.jpg
   license:
     name: Public domain
-    url: 
+    url:
 mesoderm:
 - url: https://pixabay.com/photos/skeleton-bone-anatomy-645535/
   site: pixabay
@@ -11484,7 +11484,7 @@ nemesis:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Alfred_Rethel_002.jpg
   license:
     name: Public domain
-    url: 
+    url:
 parenthesis:
 - url: https://commons.wikimedia.org/wiki/File:Brackets.svg
   site: wikipedia
@@ -11571,7 +11571,7 @@ discrete:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:6n-graf.svg
   license:
     name: Public domain
-    url: 
+    url:
 effete:
 - url: https://pixabay.com/photos/elephant-animal-animals-sand-3093564/
   site: pixabay
@@ -11604,7 +11604,7 @@ gamete:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Sperm-egg.jpg
   license:
     name: Public domain
-    url: 
+    url:
 machete:
 - url: https://commons.wikimedia.org/wiki/File:Machete_Bolo.JPG
   site: wikipedia
@@ -11712,7 +11712,7 @@ ileum:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Illu_small_intestine.jpg
   license:
     name: Public domain
-    url: 
+    url:
 linoleum:
 - url: https://commons.wikimedia.org/wiki/File:Linoleum_floor.jpeg
   site: wikipedia
@@ -11853,7 +11853,7 @@ shuffle:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Card_shuffle.jpg
   license:
     name: Public domain
-    url: 
+    url:
 snaffle:
 - url: https://pixabay.com/photos/horse-portrait-animal-brown-bridle-3600327/
   site: pixabay
@@ -11908,6 +11908,282 @@ waffle:
   credit:
     name: patikaipmuzika
     id: 985051
+afire:
+- url: https://pixabay.com/photos/fire-flame-wood-fire-brand-glowing-227291/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/54e2d2414353b108f5d08460962c327d1339daec4e50744f762b7ed7934cc3_640.jpg
+  api: https://pixabay.com/api/?id=227291&key=
+  credit:
+    name: Stones
+    id: 38067
+backfire:
+- url: https://pixabay.com/photos/truck-speed-nozzle-jet-engine-fire-3674/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/55e6d2475753ae01f7c5d579c22b31781136c3e45657724d702c7fd59e_640.jpg
+  api: https://pixabay.com/api/?id=3674&key=
+  credit:
+    name: PDPhotos
+    id: 16
+bonfire:
+- url: https://pixabay.com/photos/fire-flames-bonfire-sweden-night-123784/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/57e2d6444256b108f5d08460962c327d1339daec4e50744f762b7ed7934fc5_640.jpg
+  api: https://pixabay.com/api/?id=123784&key=
+  credit:
+    name: '12019'
+    id: 12019
+ceasefire:
+- url: https://pixabay.com/photos/silhouettes-military-soldiers-2624785/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/54e6d7474d5aa914f6da8c7dda79337b1639d8e15a4c704c732c72d39e4bc351_640.jpg
+  api: https://pixabay.com/api/?id=2624785&key=
+  credit:
+    name: skeeze
+    id: 272447
+crossfire:
+- url: https://commons.wikimedia.org/wiki/File:Crossfireguns.svg
+  site: wikipedia
+  ext: png
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Crossfireguns.svg/640px-Crossfireguns.svg.png
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Crossfireguns.svg
+  license:
+    name: CC BY-SA 2.5
+    url: https://creativecommons.org/licenses/by-sa/2.5
+foxfire:
+- url: https://commons.wikimedia.org/wiki/File:PanellusStipticusAug12_2009.jpg
+  site: wikipedia
+  ext: jpg
+  original: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/PanellusStipticusAug12_2009.jpg/640px-PanellusStipticusAug12_2009.jpg
+  api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:PanellusStipticusAug12_2009.jpg
+  license:
+    name: Public domain
+    url:
+gunfire:
+- url: https://pixabay.com/photos/man-shooting-shoots-killer-sleeve-886601/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/5ee8d3454a53b108f5d08460962c327d1339daec4e50744f762b7ed7934fc3_640.jpg
+  api: https://pixabay.com/api/?id=886601&key=
+  credit:
+    name: satellitov
+    id: 1278853
+hellfire:
+- url: https://pixabay.com/photos/embers-glow-wood-burn-holzstapel-142497/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/57e4d7474355b108f5d08460962c327d1339daec4e50744f762b7ed7934fcc_640.jpg
+  api: https://pixabay.com/api/?id=142497&key=
+  credit:
+    name: Hans
+    id: 2
+misfire:
+- url: https://pixabay.com/photos/peaceful-non-violent-rose-hand-3324536/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/55e3d7474f51aa14f6da8c7dda79337b1639d8e15a4c704c732c7fd19449c659_640.jpg
+  api: https://pixabay.com/api/?id=3324536&key=
+  credit:
+    name: ThomasWolter
+    id: 92511
+spitfire:
+- url: https://pixabay.com/photos/bite-fire-coal-angry-man-nature-2804444/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/54e8d5474e56a814f6da8c7dda79337b1639d8e15a4c704c732c7fd19449c65c_640.jpg
+  api: https://pixabay.com/api/?id=2804444&key=
+  credit:
+    name: Angela_Yuriko_Smith
+    id: 6341455
+surefire:
+- url: https://pixabay.com/illustrations/arrow-target-range-bullseye-sport-2889040/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/54e8dd4a4a56ac14f6da8c7dda79337b1639d8e15a4c704c732c7fd19449c65e_640.jpg
+  api: https://pixabay.com/api/?id=2889040&key=
+  credit:
+    name: QuinceMedia
+    id: 1031690
+wildfire:
+- url: https://pixabay.com/photos/forest-fire-wildfire-blaze-smoke-2268725/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/54e2d34b4d50a914f6da8c7dda79337b1639d8e15a4c704c732c7fd19449c65f_640.jpg
+  api: https://pixabay.com/api/?id=2268725&key=
+  credit:
+    name: skeeze
+    id: 272447
+barfly:
+- url: https://pixabay.com/photos/couple-love-christmas-cheerful-4183024/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/52e1dd404a50a814f6da8c7dda79337b1639d8e15a4c704c732779d4924fcd5e_640.jpg
+  api: https://pixabay.com/api/?id=4183024&key=
+  credit:
+    name: Vitabello
+    id: 10634669
+briefly:
+- url: https://pixabay.com/photos/waiting-appointment-schedule-time-410328/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/52e1d540485ab108f5d08460962c327d1339daec4e50744f7d2d7bd19545cd_640.jpg
+  api: https://pixabay.com/api/?id=410328&key=
+  credit:
+    name: JESHOOTS-com
+    id: 264599
+chiefly:
+- url: https://www.irasutoya.com/2015/06/blog-post_12.html#5
+  site: irasutoya
+  ext: png
+  original: https://4.bp.blogspot.com/-1Gn4ruHX21c/VXOTtdZ8U7I/AAAAAAAAuC4/ufTjvWlWrVI/s640/graph05_rittai3.png
+  api: https://www.irasutoya.com/2015/06/blog-post_12.html
+dragonfly:
+- url: https://pixabay.com/photos/dragonfly-red-animal-insect-177338/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/57e7d240495ab108f5d08460962c327d1339daec4e50744f7d2d7bd19544c6_640.jpg
+  api: https://pixabay.com/api/?id=177338&key=
+  credit:
+    name: Hans
+    id: 2
+firefly:
+- url: https://www.irasutoya.com/2014/06/blog-post_5004.html
+  site: irasutoya
+  ext: png
+  original: https://2.bp.blogspot.com/-hK8qtpxH4UE/U32NP7S9G1I/AAAAAAAAgrY/2JmYjVZtdOQ/s640/bug_hotaru.png
+  api: https://www.irasutoya.com/2014/06/blog-post_5004.html
+gadfly:
+- url: https://www.irasutoya.com/2016/11/blog-post_743.html
+  site: irasutoya
+  ext: png
+  original: https://2.bp.blogspot.com/-gu6L2CLrgGY/WCqrp8srjxI/AAAAAAAA_s0/zhsu7edKdoYNnw2qZyYON2AvguwxcmfjgCLcB/s640/bug_abu.png
+  api: https://www.irasutoya.com/2016/11/blog-post_743.html
+gruffly:
+- url: https://pixabay.com/photos/woman-smoking-cigarette-tobacco-918616/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/5fe1dd454b54b108f5d08460962c327d1339daec4e50744f7d2d7bd19544cc_640.jpg
+  api: https://pixabay.com/api/?id=918616&key=
+  credit:
+    name: Free-Photos
+    id: 242387
+stiffly:
+- url: https://pixabay.com/photos/guards-amalienborg-palace-875846/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/5ee7d04b4e54b108f5d08460962c327d1339daec4e50744f7d2d7bd1944dc7_640.jpg
+  api: https://pixabay.com/api/?id=875846&key=
+  credit:
+    name: WikimediaImages
+    id: 1185597
+billfold:
+- url: https://pixabay.com/photos/wallet-credit-card-cash-money-401080/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/gc66bdc2eb259ed5adfff0ba9e1f582564543399f040be51e9700032f947ee66df49c1da7255a4ed493814e978c7abaea_640.jpg
+  api: https://pixabay.com/api/?id=401080&key=
+  credit:
+    name: stevepb
+    id: 282134
+blindfold:
+- url: https://pixabay.com/photos/wine-blindfold-tests-people-215359/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/g8a6e91a08da73896788dd68465699bb8a194120a9e4746073ae0cf3ed9a8c349c54a42ad16e6431327ba36a61d5cb80a_640.jpg
+  api: https://pixabay.com/api/?id=215359&key=
+  credit:
+    name: Ben_Kerckx
+    id: 69781
+centerfold:
+- url: https://pixabay.com/photos/magazine-colors-media-page-806073/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/g95934d5111e9526ecece745b94315c03e76cc0876d3bed3da73955816f9b9515c36307b703949f7ca958795dc4b713d1_640.jpg
+  api: https://pixabay.com/api/?id=806073&key=
+  credit:
+    name: kconcha
+    id: 1007538
+enfold:
+- url: https://pixabay.com/photos/chihuahua-dog-blanket-cold-winter-633962/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/g0dcf9f4658b45177cf68a9c10eea90d007528476a4ca8fe701a08f5ae403a2aa7be7699fe950132e563da9cf9666af30_640.jpg
+  api: https://pixabay.com/api/?id=633962&key=
+  credit:
+    name: Ebowalker
+    id: 140931
+fold:
+- url: https://pixabay.com/photos/fabric-cotton-model-paper-folding-3305349/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/gedd7961953b2e3e28a94c0e91eaee9127367ab84f5a03b2feb370eade9b66a03533607423b521275c228d6059ce7cb75_640.jpg
+  api: https://pixabay.com/api/?id=3305349&key=
+  credit:
+    name: rauschenberger
+    id: 4614580
+gatefold:
+- url: https://www.irasutoya.com/2015/01/blog-post_676.html
+  site: irasutoya
+  ext: png
+  original: https://4.bp.blogspot.com/-vpajUL6jZkw/VMIu9i4l5aI/AAAAAAAAq2M/TPYfH7t6kXQ/s640/butsudan.png
+  api: https://www.irasutoya.com/2015/01/blog-post_676.html
+manifold:
+- url: https://pixabay.com/photos/locomobile-m48-exhaust-manifold-4522503/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/gbfb174c081eb2612ea3fec39b4b4c4f66b132efad132291e8ce394f6f56e4121bc4e180bcefba8cae2ae2ca07b4de9d4_640.jpg
+  api: https://pixabay.com/api/?id=4522503&key=
+  credit:
+    name: Ralphs_Fotos
+    id: 1767157
+scaffold:
+- url: https://pixabay.com/photos/scaffolding-framework-building-frame-595607/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/g0e50d9208e8167ef36758ed668f252e6cce009c65ad6ddd0cd2486017235c979514d3470c4edff9071803707e9659bde_640.jpg
+  api: https://pixabay.com/api/?id=595607&key=
+  credit:
+    name: '422737'
+    id: 422737
+sheepfold:
+- url: https://pixabay.com/photos/sheep-jump-lamb-fence-jumping-981881/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/ga94e79a4d9e78f2d213101e669c7f47abc0b5196b5f03e9401fd9c6efa5966eb79d5a3e8383b3a42f17c332589f8d47e_640.jpg
+  api: https://pixabay.com/api/?id=981881&key=
+  credit:
+    name: marybettiniblank
+    id: 805242
+thousandfold:
+- url: https://pixabay.com/photos/jackpot-lucky-slot-machines-luck-281423/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/g0e022c48ea6215cc3e527a2c339b8fa00f480b4531e37ef7cecd5f6712fcfeedcb3deb32a85c2cf6221737689e41ea52_640.jpg
+  api: https://pixabay.com/api/?id=281423&key=
+  credit:
+    name: vineszoocontact
+    id: 181095
+twofold:
+- url: https://pixabay.com/photos/skin-leather-wallet-wallets-brown-2505367/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/gdc770421bd401444ac9bd72c8e36e22dfdb99255d0583acf68e441451e5f79690bebd12ae29a04cff167c4e57b3405cd_640.jpg
+  api: https://pixabay.com/api/?id=2505367&key=
+  credit:
+    name: Nikolay999
+    id: 4376162
+unfold:
+- url: https://pixabay.com/photos/tulip-flower-orange-orange-tulip-1122031/
+  site: pixabay
+  ext: jpg
+  original: https://pixabay.com/get/g24595c0265e43291c218d61733a4201c06f3f5ca76af0f7dcef74c549d9259b8f387146911fdb4c6b54cc08c3eb272e6_640.jpg
+  api: https://pixabay.com/api/?id=1122031&key=
+  credit:
+    name: vargazs
+    id: 817090
 combustible:
 - url: https://pixabay.com/en/firefighters-fire-flames-outside-115800/
   site: pixabay
@@ -11925,7 +12201,7 @@ comestible:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Edible_fungi_in_basket_2009_G1.jpg
   license:
     name: Public domain
-    url: 
+    url:
 comfortable:
 - url: https://pixabay.com/en/child-girl-cottage-leisure-holiday-2093592/
   site: pixabay
@@ -12033,7 +12309,7 @@ commandant:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:US_Navy_081110-N-5549O-120_Commandant_of_the_Marine_Corps_Gen._James_T._Conway_speaks_to_guests_during_a_wreath_laying_ceremony_in_honor_of_the_233rd_Marine_Corps_birthday_at_the_Marine_Corps_War_Memorial.jpg
   license:
     name: Public domain
-    url: 
+    url:
 commandment:
 - url: https://commons.wikimedia.org/wiki/File:Moses_and_Aaron_with_the_10_Commandments_1674.jpg
   site: wikipedia
@@ -12042,7 +12318,7 @@ commandment:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Moses_and_Aaron_with_the_10_Commandments_1674.jpg
   license:
     name: Public domain
-    url: 
+    url:
 commencement:
 - url: https://pixabay.com/en/friend-student-graduate-young-2727307/
   site: pixabay
@@ -12129,7 +12405,7 @@ component:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Componentes.JPG
   license:
     name: Public domain
-    url: 
+    url:
 comportment:
 - url: https://www.irasutoya.com/2014/09/blog-post_298.html
   site: irasutoya
@@ -12420,7 +12696,7 @@ confederate:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Confederate_Flag_(Modern).jpg
   license:
     name: Public domain
-    url: 
+    url:
 confiscate:
 - url: https://commons.wikimedia.org/wiki/File:Weapons_confiscated_from_the_Kosovo_Liberation_Army_(1999).JPEG
   site: wikipedia
@@ -12429,7 +12705,7 @@ confiscate:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Weapons_confiscated_from_the_Kosovo_Liberation_Army_(1999).JPEG
   license:
     name: Public domain
-    url: 
+    url:
 conflate:
 - url: https://pixabay.com/en/book-old-pile-stack-bookshelf-316410/
   site: pixabay
@@ -12771,7 +13047,7 @@ convulsive:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Patient_in_a_convulsion,_1824_Wellcome_L0001716.jpg
   license:
     name: Public domain
-    url: 
+    url:
 condom:
 - url: https://pixabay.com/en/condom-sex-protection-contraception-1863436/
   site: pixabay
@@ -12816,7 +13092,7 @@ Confucianism:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Confucius_Statue_at_the_Yushima_Seido.JPG
   license:
     name: Public domain
-    url: 
+    url:
 conservatism:
 - url: https://commons.wikimedia.org/wiki/File:Official_Portrait_of_President_Reagan_1981.jpg
   site: wikipedia
@@ -12825,7 +13101,7 @@ conservatism:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Official_Portrait_of_President_Reagan_1981.jpg
   license:
     name: Public domain
-    url: 
+    url:
 consortium:
 - url: https://pixabay.com/en/globe-world-earth-planet-2491982/
   site: pixabay
@@ -12852,7 +13128,7 @@ constructivism:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Supremus_55_(Malevich,_1916).jpg
   license:
     name: Public domain
-    url: 
+    url:
 consumerism:
 - url: https://pixabay.com/en/shopping-cart-shopping-supermarket-2523838/
   site: pixabay
@@ -12924,7 +13200,7 @@ conqueror:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Statue_d%27Dgilliaume_l%C3%A9_Contch%C3%A9thant_%C3%A0_Falaise_02.jpg
   license:
     name: Public domain
-    url: 
+    url:
 conquistador:
 - url: https://commons.wikimedia.org/wiki/File:Landing_of_Columbus_(2).jpg
   site: wikipedia
@@ -12933,7 +13209,7 @@ conquistador:
   api: https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo%7cpageimages&pithumbsize=640&iiprop=extmetadata&titles=File:Landing_of_Columbus_(2).jpg
   license:
     name: Public domain
-    url: 
+    url:
 conservator:
 - url: https://commons.wikimedia.org/wiki/File:Russian-museum-conservation-department-092.jpg
   site: wikipedia
