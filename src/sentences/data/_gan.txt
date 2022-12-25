@@ -1,0 +1,9 @@
+source: _gan.yml
+generator: ChatGPT
+---
+Please create a short sentence using all these words: brogan, cardigan, hogan
+Please create a short sentence using all these words: hooligan, organ, pagan
+Please create a short sentence using all these words: ptarmigan, shenanigan, slogan
+Please create a short sentence using all these words: suffragan, toboggan, vegan
+---
+@@@

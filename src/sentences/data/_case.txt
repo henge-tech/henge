@@ -1,0 +1,9 @@
+source: _case.yml
+generator: ChatGPT
+---
+Please create a short sentence using all these words: bookcase, briefcase, crankcase
+Please create a short sentence using all these words: encase, headcase, lowercase
+Please create a short sentence using all these words: nutcase, pillowcase, showcase
+Please create a short sentence using all these words: slipcase, staircase, uppercase
+---
+@@@

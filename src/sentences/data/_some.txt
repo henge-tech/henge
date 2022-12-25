@@ -1,0 +1,9 @@
+source: _some.yml
+generator: ChatGPT
+---
+Please create a short sentence using all these words: awesome, bothersome, burdensome, chromosome, cumbersome
+Please create a short sentence using all these words: fearsome, foursome, gruesome, irksome, loathsome
+Please create a short sentence using all these words: lonesome, quarrelsome, ribosome, threesome, tiresome
+Please create a short sentence using all these words: troublesome, wearisome, wholesome, winsome, worrisome
+---
+@@@
