@@ -1,0 +1,9 @@
+source: _illa.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: chinchilla, flotilla, gorilla
+Please create a short sentence using all these words: guerilla, mantilla, maxilla
+Please create a short sentence using all these words: quesadilla, sarsaparilla, scintilla
+Please create a short sentence using all these words: tortilla, vanilla, villa
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: _era.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: caldera, chimaera, cholera
+Please create a short sentence using all these words: ephemera, era, genera
+Please create a short sentence using all these words: opera, Riviera, sclera
+Please create a short sentence using all these words: subgenera, tempera, viscera
+--- |
+@@@

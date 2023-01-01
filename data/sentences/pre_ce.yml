@@ -1,0 +1,9 @@
+source: pre_ce.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: precedence, precipice, predominance
+Please create a short sentence using all these words: preeminence, preexistence, preface
+Please create a short sentence using all these words: preference, prejudice, preponderance
+Please create a short sentence using all these words: prescience, presence, prevalence
+--- |
+@@@

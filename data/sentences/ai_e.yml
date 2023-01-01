@@ -1,0 +1,9 @@
+source: ai_e.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: aide, airbase, airborne
+Please create a short sentence using all these words: airdrome, airfare, airframe
+Please create a short sentence using all these words: airline, airmobile, airspace
+Please create a short sentence using all these words: airstrike, airtime, aisle
+--- |
+@@@

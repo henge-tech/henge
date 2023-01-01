@@ -1,0 +1,9 @@
+source: _die.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: baddie, birdie, caddie
+Please create a short sentence using all these words: cardie, foodie, goodie
+Please create a short sentence using all these words: hoodie, indie, kiddie
+Please create a short sentence using all these words: laddie, oldie, roadie
+--- |
+@@@

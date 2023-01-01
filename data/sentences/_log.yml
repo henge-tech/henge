@@ -1,0 +1,9 @@
+source: _log.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: analog, backlog, blog
+Please create a short sentence using all these words: catalog, clog, dialog
+Please create a short sentence using all these words: flog, homolog, log
+Please create a short sentence using all these words: slog, travelog, unclog
+--- |
+@@@

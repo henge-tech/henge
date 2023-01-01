@@ -1,0 +1,9 @@
+source: lo_g.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: loading, loathing, lobbying
+Please create a short sentence using all these words: lodging, log, logging
+Please create a short sentence using all these words: loitering, longing, longstanding
+Please create a short sentence using all these words: looting, losing, lowering
+--- |
+@@@

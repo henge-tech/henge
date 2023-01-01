@@ -1,0 +1,9 @@
+source: _rl.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: burl, curl, earl
+Please create a short sentence using all these words: furl, hurl, marl
+Please create a short sentence using all these words: purl, snarl, swirl
+Please create a short sentence using all these words: twirl, whirl, whorl
+--- |
+@@@

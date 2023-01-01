@@ -1,0 +1,9 @@
+source: _stle.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: apostle, bristle, bustle
+Please create a short sentence using all these words: epistle, forecastle, gristle
+Please create a short sentence using all these words: hustle, nestle, pestle
+Please create a short sentence using all these words: rustle, thistle, trestle
+--- |
+@@@

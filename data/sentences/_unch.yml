@@ -1,0 +1,9 @@
+source: _unch.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: brunch, bunch, counterpunch
+Please create a short sentence using all these words: crunch, haunch, hunch
+Please create a short sentence using all these words: launch, munch, paunch
+Please create a short sentence using all these words: punch, scrunch, staunch
+--- |
+@@@

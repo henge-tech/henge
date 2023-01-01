@@ -1,0 +1,9 @@
+source: _oved.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: approved, beloved, disapproved
+Please create a short sentence using all these words: disproved, gloved, grooved
+Please create a short sentence using all these words: proved, reproved, shoved
+Please create a short sentence using all these words: unimproved, unloved, unmoved
+--- |
+@@@

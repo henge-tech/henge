@@ -1,0 +1,9 @@
+source: r_el.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: rappel, ratel, ravel
+Please create a short sentence using all these words: rebel, reel, refuel
+Please create a short sentence using all these words: remodel, repel, revel
+Please create a short sentence using all these words: roundel, rowel, runnel
+--- |
+@@@

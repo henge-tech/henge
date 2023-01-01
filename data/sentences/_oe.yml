@@ -1,0 +1,9 @@
+source: _oe.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: aloe, backhoe, canoe, doe
+Please create a short sentence using all these words: floe, foe, hoe, horseshoe
+Please create a short sentence using all these words: mistletoe, oboe, roe, shoe
+Please create a short sentence using all these words: throe, tiptoe, toe, woe
+--- |
+@@@

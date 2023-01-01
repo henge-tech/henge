@@ -1,0 +1,9 @@
+source: bro_e.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: broadside, brocade, brochure
+Please create a short sentence using all these words: brogue, broke, brokerage
+Please create a short sentence using all these words: bromide, bromine, bronze
+Please create a short sentence using all these words: brownie, brownstone, browse
+--- |
+@@@

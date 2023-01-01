@@ -1,0 +1,9 @@
+source: _ux.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: beaux, chateaux, crux
+Please create a short sentence using all these words: faux, flux, influx
+Please create a short sentence using all these words: lux, redux, reflux
+Please create a short sentence using all these words: roux, tableaux, tux
+--- |
+@@@

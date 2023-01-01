@@ -1,0 +1,9 @@
+source: mu_r.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: Muenster, muffler, mugger
+Please create a short sentence using all these words: multicellular, multiplexer, multiplier
+Please create a short sentence using all these words: murder, murmur, muscular
+Please create a short sentence using all these words: musketeer, muster, mutter
+--- |
+@@@

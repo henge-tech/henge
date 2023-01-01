@@ -1,0 +1,9 @@
+source: b_el.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: bagel, barbel, barrel
+Please create a short sentence using all these words: becquerel, bel, betel
+Please create a short sentence using all these words: bethel, bevel, bezel
+Please create a short sentence using all these words: bowel, brothel, bushel
+--- |
+@@@

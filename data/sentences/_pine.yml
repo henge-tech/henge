@@ -1,0 +1,9 @@
+source: _pine.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: alpine, atropine, lupine
+Please create a short sentence using all these words: opine, pine, porcupine
+Please create a short sentence using all these words: rapine, reserpine, spine
+Please create a short sentence using all these words: subalpine, supine, vulpine
+--- |
+@@@

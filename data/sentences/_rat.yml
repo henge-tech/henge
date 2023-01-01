@@ -1,0 +1,9 @@
+source: _rat.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: aristocrat, autocrat, baccarat
+Please create a short sentence using all these words: brat, bureaucrat, carat
+Please create a short sentence using all these words: democrat, drat, karat
+Please create a short sentence using all these words: muskrat, prat, sprat
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: _owl.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: bowl, cowl, fishbowl
+Please create a short sentence using all these words: fowl, growl, howl
+Please create a short sentence using all these words: jowl, owl, prowl
+Please create a short sentence using all these words: scowl, waterfowl, wildfowl
+--- |
+@@@

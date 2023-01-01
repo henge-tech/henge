@@ -1,0 +1,9 @@
+source: di_c.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: diabetic, diabolic, diagnostic
+Please create a short sentence using all these words: dialectic, diaphragmatic, diastolic
+Please create a short sentence using all these words: diatonic, didactic, dielectric
+Please create a short sentence using all these words: dietetic, diplomatic, diuretic
+--- |
+@@@

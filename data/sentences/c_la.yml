@@ -1,0 +1,9 @@
+source: c_la.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: campanula, candela, cannula
+Please create a short sentence using all these words: canola, chinchilla, chlorella
+Please create a short sentence using all these words: citronella, cola, copula
+Please create a short sentence using all these words: corolla, cupola, curricula
+--- |
+@@@

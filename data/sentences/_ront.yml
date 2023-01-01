@@ -1,0 +1,9 @@
+source: _ront.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: affront, battlefront, beachfront
+Please create a short sentence using all these words: breakfront, confront, forefront
+Please create a short sentence using all these words: riverfront, seafront, shopfront
+Please create a short sentence using all these words: storefront, upfront, waterfront
+--- |
+@@@

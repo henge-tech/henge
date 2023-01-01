@@ -1,0 +1,9 @@
+source: inc_le.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: incalculable, incapable, incomparable
+Please create a short sentence using all these words: incompatible, incomprehensible, inconceivable
+Please create a short sentence using all these words: inconsiderable, inconsolable, incontrovertible
+Please create a short sentence using all these words: incorrigible, incorruptible, incurable
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: dep_e.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: departure, dependable, dependence
+Please create a short sentence using all these words: deplete, deplorable, deplore
+Please create a short sentence using all these words: depose, deprecate, depreciate
+Please create a short sentence using all these words: depressive, deprive, deputize
+--- |
+@@@

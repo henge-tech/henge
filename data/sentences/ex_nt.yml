@@ -1,0 +1,9 @@
+source: ex_nt.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: excrement, exigent, existent
+Please create a short sentence using all these words: exorbitant, expectant, expedient
+Please create a short sentence using all these words: exponent, extant, extent
+Please create a short sentence using all these words: extravagant, exuberant, exultant
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: _nics.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: avionics, biomechanics, cryogenics
+Please create a short sentence using all these words: cryonics, eugenics, harmonics
+Please create a short sentence using all these words: hydroponics, microelectronics, mnemonics
+Please create a short sentence using all these words: pyrotechnics, tectonics, ultrasonics
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: _mony.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: acrimony, alimony, antimony
+Please create a short sentence using all these words: ceremony, disharmony, harmony
+Please create a short sentence using all these words: hegemony, lemony, matrimony
+Please create a short sentence using all these words: parsimony, patrimony, testimony
+--- |
+@@@

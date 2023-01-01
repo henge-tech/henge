@@ -1,0 +1,9 @@
+source: r_ge.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: rage, rampage, ravage
+Please create a short sentence using all these words: refuge, remarriage, remortgage
+Please create a short sentence using all these words: renege, reportage, revenge
+Please create a short sentence using all these words: ridge, rouge, rummage
+--- |
+@@@

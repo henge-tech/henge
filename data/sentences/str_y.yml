@@ -1,0 +1,9 @@
+source: str_y.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: straightaway, straightway, strathspey
+Please create a short sentence using all these words: stray, streaky, strenuously
+Please create a short sentence using all these words: stretchy, strictly, strikingly
+Please create a short sentence using all these words: stringency, stringy, structurally
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: _vert.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: advert, avert, covert
+Please create a short sentence using all these words: culvert, divert, extrovert
+Please create a short sentence using all these words: introvert, invert, overt
+Please create a short sentence using all these words: pervert, revert, subvert
+--- |
+@@@

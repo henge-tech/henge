@@ -1,0 +1,9 @@
+source: di_se.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: diagnose, diffuse, diocese
+Please create a short sentence using all these words: disburse, disclose, discourse
+Please create a short sentence using all these words: disease, disguise, dispense
+Please create a short sentence using all these words: disperse, dispose, diverse
+--- |
+@@@

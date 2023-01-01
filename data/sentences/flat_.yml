@@ -1,0 +1,9 @@
+source: flat_.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: flatboat, flatfish, flathead
+Please create a short sentence using all these words: flatiron, flatland, flatly
+Please create a short sentence using all these words: flatmate, flattened, flatter
+Please create a short sentence using all these words: flattery, flatulence, flatware
+--- |
+@@@

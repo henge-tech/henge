@@ -1,0 +1,9 @@
+source: _rove.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: approve, disapprove, disprove
+Please create a short sentence using all these words: drove, grove, improve
+Please create a short sentence using all these words: mangrove, prove, reprove
+Please create a short sentence using all these words: rove, strove, trove
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: _uch.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: couch, crouch, debauch
+Please create a short sentence using all these words: debouch, eunuch, grouch
+Please create a short sentence using all these words: inasmuch, insomuch, pouch
+Please create a short sentence using all these words: retouch, slouch, vouch
+--- |
+@@@

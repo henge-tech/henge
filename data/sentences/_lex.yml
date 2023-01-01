@@ -1,0 +1,9 @@
+source: _lex.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: circumflex, complex, duplex
+Please create a short sentence using all these words: flex, googolplex, ilex
+Please create a short sentence using all these words: multiplex, perplex, reflex
+Please create a short sentence using all these words: simplex, telex, triplex
+--- |
+@@@

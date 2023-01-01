@@ -1,0 +1,9 @@
+source: n_ce.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: negligence, nescience, neuroscience
+Please create a short sentence using all these words: niece, nonce, nonchalance
+Please create a short sentence using all these words: noncompliance, nonexistence, nonviolence
+Please create a short sentence using all these words: novice, nuance, nuisance
+--- |
+@@@

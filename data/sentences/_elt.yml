@@ -1,0 +1,9 @@
+source: _elt.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: belt, celt, dwelt
+Please create a short sentence using all these words: felt, heartfelt, kelt
+Please create a short sentence using all these words: knelt, melt, pelt
+Please create a short sentence using all these words: smelt, sunbelt, welt
+--- |
+@@@

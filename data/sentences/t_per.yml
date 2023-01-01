@@ -1,0 +1,9 @@
+source: t_per.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: tamper, taper, temper
+Please create a short sentence using all these words: timekeeper, tipper, topper
+Please create a short sentence using all these words: touchpaper, tramper, trapper
+Please create a short sentence using all these words: tripper, trooper, trouper
+--- |
+@@@

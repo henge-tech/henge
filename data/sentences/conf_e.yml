@@ -1,0 +1,9 @@
+source: conf_e.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: confederate, conferee, conference
+Please create a short sentence using all these words: confidante, confide, confidence
+Please create a short sentence using all these words: confine, confiscate, conflate
+Please create a short sentence using all these words: confluence, conformable, confute
+--- |
+@@@

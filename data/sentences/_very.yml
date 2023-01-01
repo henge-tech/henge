@@ -1,0 +1,9 @@
+source: _very.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: antislavery, bravery, delivery
+Please create a short sentence using all these words: discovery, livery, recovery
+Please create a short sentence using all these words: rediscovery, shivery, silvery
+Please create a short sentence using all these words: slavery, thievery, very
+--- |
+@@@

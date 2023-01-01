@@ -1,0 +1,9 @@
+source: s_ia.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: salvia, sangria, Saturnalia
+Please create a short sentence using all these words: schizophrenia, scoria, sepia
+Please create a short sentence using all these words: septicemia, sequoia, sharia
+Please create a short sentence using all these words: stria, suburbia, synesthesia
+--- |
+@@@

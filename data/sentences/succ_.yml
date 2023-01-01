@@ -1,0 +1,9 @@
+source: succ_.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: succeed, succeeding, successful
+Please create a short sentence using all these words: succession, successive, successor
+Please create a short sentence using all these words: succinct, succor, succotash
+Please create a short sentence using all these words: succubus, succulent, succumb
+--- |
+@@@

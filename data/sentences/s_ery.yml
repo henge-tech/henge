@@ -1,0 +1,9 @@
+source: s_ery.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: saddlery, savagery, scenery
+Please create a short sentence using all these words: shrubbery, silvery, slavery
+Please create a short sentence using all these words: slippery, snobbery, soldiery
+Please create a short sentence using all these words: sorcery, summery, surgery
+--- |
+@@@

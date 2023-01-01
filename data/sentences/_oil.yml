@@ -1,0 +1,9 @@
+source: _oil.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: airfoil, boil, broil
+Please create a short sentence using all these words: foil, recoil, spoil
+Please create a short sentence using all these words: subsoil, tinfoil, toil
+Please create a short sentence using all these words: topsoil, trefoil, turmoil
+--- |
+@@@

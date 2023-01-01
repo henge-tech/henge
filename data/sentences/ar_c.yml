@@ -1,0 +1,9 @@
+source: ar_c.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: archaic, archbishopric
+Please create a short sentence using all these words: arctic, aristocratic
+Please create a short sentence using all these words: arithmetic, aromatic
+Please create a short sentence using all these words: arsenic, arthritic
+--- |
+@@@

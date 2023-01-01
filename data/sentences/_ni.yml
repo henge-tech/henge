@@ -1,0 +1,9 @@
+source: _ni.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: alumni, bani, bikini
+Please create a short sentence using all these words: linguini, martini, pepperoni
+Please create a short sentence using all these words: rani, rigatoni, tahini
+Please create a short sentence using all these words: termini, timpani, zucchini
+--- |
+@@@

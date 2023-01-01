@@ -1,0 +1,9 @@
+source: _ptic.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: antiseptic, apocalyptic, aseptic
+Please create a short sentence using all these words: cryptic, ecliptic, elliptic
+Please create a short sentence using all these words: epileptic, optic, peptic
+Please create a short sentence using all these words: septic, skeptic, synoptic
+--- |
+@@@

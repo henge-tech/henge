@@ -1,0 +1,9 @@
+source: par_t.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: parachutist, parakeet, paramount
+Please create a short sentence using all these words: parapet, paraquat, parchment
+Please create a short sentence using all these words: parent, parfait, parliament
+Please create a short sentence using all these words: parquet, parrot, participant
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: _mit.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: admit, commit, dammit
+Please create a short sentence using all these words: delimit, emit, hermit
+Please create a short sentence using all these words: omit, remit, submit
+Please create a short sentence using all these words: summit, transmit, vomit
+--- |
+@@@

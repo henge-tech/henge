@@ -1,0 +1,9 @@
+source: _num.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: aluminum, arcanum, duodenum
+Please create a short sentence using all these words: interregnum, jejunum, magnum
+Please create a short sentence using all these words: molybdenum, platinum, plenum
+Please create a short sentence using all these words: sphagnum, sternum, tympanum
+--- |
+@@@

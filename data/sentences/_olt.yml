@@ -1,0 +1,9 @@
+source: _olt.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: bolt, colt
+Please create a short sentence using all these words: dolt, jolt
+Please create a short sentence using all these words: molt, revolt
+Please create a short sentence using all these words: thunderbolt, volt
+--- |
+@@@

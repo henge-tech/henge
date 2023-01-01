@@ -1,0 +1,9 @@
+source: _ount.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: account, amount, count
+Please create a short sentence using all these words: discount, dismount, fount
+Please create a short sentence using all these words: mount, paramount, recount
+Please create a short sentence using all these words: remount, surmount, tantamount
+--- |
+@@@

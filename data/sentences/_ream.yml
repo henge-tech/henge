@@ -1,0 +1,9 @@
+source: _ream.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: airstream, bream, buttercream
+Please create a short sentence using all these words: daydream, downstream, mainstream
+Please create a short sentence using all these words: midstream, millstream, ream
+Please create a short sentence using all these words: scream, slipstream, upstream
+--- |
+@@@

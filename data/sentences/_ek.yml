@@ -1,0 +1,9 @@
+source: _ek.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: creek, eek, geek
+Please create a short sentence using all these words: kopek, leek, meek
+Please create a short sentence using all these words: midweek, peek, reek
+Please create a short sentence using all these words: seek, shriek, sleek
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: _rrow.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: barrow, borrow, burrow
+Please create a short sentence using all these words: farrow, furrow, harrow
+Please create a short sentence using all these words: marrow, morrow, narrow
+Please create a short sentence using all these words: sorrow, sparrow, yarrow
+--- |
+@@@

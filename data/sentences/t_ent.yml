@@ -1,0 +1,9 @@
+source: t_ent.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: tangent, temperament, tenement
+Please create a short sentence using all these words: testament, torment, torrent
+Please create a short sentence using all these words: transcendent, transient, translucent
+Please create a short sentence using all these words: treatment, trident, turbulent
+--- |
+@@@

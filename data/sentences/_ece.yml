@@ -1,0 +1,9 @@
+source: _ece.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: apiece, centerpiece, earpiece
+Please create a short sentence using all these words: eyepiece, fleece, frontispiece
+Please create a short sentence using all these words: headpiece, mantelpiece, niece
+Please create a short sentence using all these words: showpiece, timepiece, workpiece
+--- |
+@@@

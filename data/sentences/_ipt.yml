@@ -1,0 +1,9 @@
+source: _ipt.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: conscript, manuscript, nondescript
+Please create a short sentence using all these words: postscript, prescript, receipt
+Please create a short sentence using all these words: script, subscript, superscript
+Please create a short sentence using all these words: transcript, typescript, whipt
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: _ield.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: afield, airfield, backfield
+Please create a short sentence using all these words: brownfield, chesterfield, coalfield
+Please create a short sentence using all these words: goldfield, infield, midfield
+Please create a short sentence using all these words: outfield, wield, yield
+--- |
+@@@

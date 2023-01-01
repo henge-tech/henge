@@ -1,0 +1,9 @@
+source: gen_e.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: gendarme, gene, generalize
+Please create a short sentence using all these words: generative, genie, genocide
+Please create a short sentence using all these words: genome, genotype, genre
+Please create a short sentence using all these words: gentile, gentle, genuine
+--- |
+@@@

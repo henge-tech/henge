@@ -1,0 +1,9 @@
+source: _oma.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: aroma, carcinoma, coma
+Please create a short sentence using all these words: diploma, glaucoma, lymphoma
+Please create a short sentence using all these words: melanoma, myeloma, Oklahoma
+Please create a short sentence using all these words: sarcoma, stoma, trachoma
+--- |
+@@@

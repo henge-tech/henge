@@ -1,0 +1,9 @@
+source: _racy.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: accuracy, aristocracy, autocracy, bureaucracy
+Please create a short sentence using all these words: confederacy, conspiracy, degeneracy, illiteracy
+Please create a short sentence using all these words: inaccuracy, literacy, magistracy, meritocracy
+Please create a short sentence using all these words: numeracy, piracy, racy, theocracy
+--- |
+@@@

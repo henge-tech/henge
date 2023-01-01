@@ -1,0 +1,9 @@
+source: _raph.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: autograph, chronograph, digraph
+Please create a short sentence using all these words: lithograph, micrograph, monograph
+Please create a short sentence using all these words: phonograph, polygraph, radiograph
+Please create a short sentence using all these words: seraph, spectrograph, telegraph
+--- |
+@@@

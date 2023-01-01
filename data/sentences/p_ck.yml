@@ -1,0 +1,9 @@
+source: p_ck.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: paddock, padlock, paycheck
+Please create a short sentence using all these words: peacock, peck, piggyback
+Please create a short sentence using all these words: pluck, pock, pollack
+Please create a short sentence using all these words: potluck, prick, puck
+--- |
+@@@

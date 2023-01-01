@@ -1,0 +1,9 @@
+source: v_ce.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: valance, valence, variance
+Please create a short sentence using all these words: vehemence, vengeance, Venice
+Please create a short sentence using all these words: vice, vigilance, violence
+Please create a short sentence using all these words: virulence, vivace, voice
+--- |
+@@@

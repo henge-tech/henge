@@ -1,0 +1,9 @@
+source: vo_e.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: vogue, voice, voile
+Please create a short sentence using all these words: volatile, vole, voltage
+Please create a short sentence using all these words: volume, volute, vote
+Please create a short sentence using all these words: votive, vouchsafe, voyage
+--- |
+@@@

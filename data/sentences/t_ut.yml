@@ -1,0 +1,9 @@
+source: t_ut.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: takeout, taut, thereabout
+Please create a short sentence using all these words: throughout, throughput, timeout
+Please create a short sentence using all these words: tout, trout, tryout
+Please create a short sentence using all these words: turnabout, turnout, tut
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: g_in.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: gain, gelatin, gherkin
+Please create a short sentence using all these words: gin, glycerin, goblin
+Please create a short sentence using all these words: grain, gratin, gremlin
+Please create a short sentence using all these words: griffin, grin, groin
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: _ret.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: beret, cabaret, caret
+Please create a short sentence using all these words: claret, egret, ferret
+Please create a short sentence using all these words: fret, garret, interpret
+Please create a short sentence using all these words: minaret, regret, turret
+--- |
+@@@

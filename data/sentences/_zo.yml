@@ -1,0 +1,9 @@
+source: _zo.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: bozo, chorizo, garbanzo
+Please create a short sentence using all these words: gonzo, intermezzo, matzo
+Please create a short sentence using all these words: mestizo, mezzo, orzo
+Please create a short sentence using all these words: paparazzo, scherzo, schizo
+--- |
+@@@

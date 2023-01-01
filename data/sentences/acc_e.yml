@@ -1,0 +1,9 @@
+source: acc_e.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: acceptance, acclimate, accolade
+Please create a short sentence using all these words: accommodate, accomplice, accordance
+Please create a short sentence using all these words: accountable, accrue, accumulate
+Please create a short sentence using all these words: accurate, accusative, accuse
+--- |
+@@@

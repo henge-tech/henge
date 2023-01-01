@@ -1,0 +1,9 @@
+source: _apy.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: aromatherapy, bibliotherapy, chemotherapy
+Please create a short sentence using all these words: crapy, cryotherapy, hydrotherapy
+Please create a short sentence using all these words: hypnotherapy, physiotherapy, psychotherapy
+Please create a short sentence using all these words: radiotherapy, soapy, thermotherapy
+--- |
+@@@

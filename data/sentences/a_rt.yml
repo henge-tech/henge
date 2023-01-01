@@ -1,0 +1,9 @@
+source: a_rt.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: abort, advert
+Please create a short sentence using all these words: alert, apart
+Please create a short sentence using all these words: assert, assort
+Please create a short sentence using all these words: athwart, avert
+--- |
+@@@

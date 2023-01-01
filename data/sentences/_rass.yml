@@ -1,0 +1,9 @@
+source: _rass.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: bluegrass, brass
+Please create a short sentence using all these words: crass, embarrass
+Please create a short sentence using all these words: grass, harass
+Please create a short sentence using all these words: morass, supergrass
+--- |
+@@@

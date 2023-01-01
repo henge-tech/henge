@@ -1,0 +1,9 @@
+source: mark_.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: markdown, marked, markedly
+Please create a short sentence using all these words: marker, marketable, marketeer
+Please create a short sentence using all these words: marketer, marketplace, marking
+Please create a short sentence using all these words: marksman, marksmanship, markup
+--- |
+@@@

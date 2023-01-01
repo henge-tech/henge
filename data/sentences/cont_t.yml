@@ -1,0 +1,9 @@
+source: cont_t.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: containment, contaminant, contempt
+Please create a short sentence using all these words: contentment, contest, contestant
+Please create a short sentence using all these words: context, continent, contingent
+Please create a short sentence using all these words: contortionist, contract, contradict
+--- |
+@@@

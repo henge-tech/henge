@@ -1,0 +1,9 @@
+source: _band.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: armband, band, broadband
+Please create a short sentence using all these words: contraband, disband, headband
+Please create a short sentence using all these words: husband, neckband, noseband
+Please create a short sentence using all these words: saraband, waistband, wristband
+--- |
+@@@

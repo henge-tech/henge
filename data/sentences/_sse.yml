@@ -1,0 +1,9 @@
+source: _sse.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: bouillabaisse, crevasse, crosse
+Please create a short sentence using all these words: demitasse, finesse, fosse
+Please create a short sentence using all these words: impasse, lacrosse, mousse
+Please create a short sentence using all these words: passe, posse, wrasse
+--- |
+@@@

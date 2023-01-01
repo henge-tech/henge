@@ -1,0 +1,9 @@
+source: a_se.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: abuse, accuse, adipose, adverse
+Please create a short sentence using all these words: advise, airbase, anise, apocalypse
+Please create a short sentence using all these words: appease, applause, appraise, apse
+Please create a short sentence using all these words: archdiocese, arise, arouse, averse
+--- |
+@@@

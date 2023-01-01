@@ -1,0 +1,9 @@
+source: _pace.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: aerospace, airspace, apace
+Please create a short sentence using all these words: backspace, carapace, crawlspace
+Please create a short sentence using all these words: cyberspace, hyperspace, outpace
+Please create a short sentence using all these words: pace, subspace, workspace
+--- |
+@@@

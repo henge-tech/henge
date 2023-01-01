@@ -1,0 +1,9 @@
+source: _illy.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: billy, chilly, civilly
+Please create a short sentence using all these words: dilly, filly, frilly
+Please create a short sentence using all these words: hillbilly, hilly, rockabilly
+Please create a short sentence using all these words: shrilly, silly, willy
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: c_nd.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: colorblind, command, commend
+Please create a short sentence using all these words: compound, comprehend, condescend
+Please create a short sentence using all these words: confound, contend, contraband
+Please create a short sentence using all these words: correspond, countermand, cropland
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: c_ize.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: cannibalize, capitalize, capsize
+Please create a short sentence using all these words: categorize, centralize, characterize
+Please create a short sentence using all these words: colonize, commercialize, conceptualize
+Please create a short sentence using all these words: criminalize, criticize, crystallize
+--- |
+@@@

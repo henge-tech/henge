@@ -1,0 +1,9 @@
+source: spin_.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: spinach, spinal, spindle
+Please create a short sentence using all these words: spindly, spine, spineless
+Please create a short sentence using all these words: spinnaker, spinner, spinning
+Please create a short sentence using all these words: spinoff, spinster, spiny
+--- |
+@@@

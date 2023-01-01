@@ -1,0 +1,9 @@
+source: _rce.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: coerce, divorce, enforce
+Please create a short sentence using all these words: farce, fierce, outsource
+Please create a short sentence using all these words: perforce, pierce, reinforce
+Please create a short sentence using all these words: resource, scarce, workforce
+--- |
+@@@

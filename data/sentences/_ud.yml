@@ -1,0 +1,9 @@
+source: _ud.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: aloud, applaud, bud, crud
+Please create a short sentence using all these words: cud, defraud, dud, feud
+Please create a short sentence using all these words: fraud, laud, pseud, scud
+Please create a short sentence using all these words: shroud, spud, stud, thud
+--- |
+@@@

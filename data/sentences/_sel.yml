@@ -1,0 +1,9 @@
+source: _sel.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: carousel, chisel, counsel
+Please create a short sentence using all these words: damsel, diesel, easel
+Please create a short sentence using all these words: morsel, mussel, tassel
+Please create a short sentence using all these words: tinsel, vessel, weasel
+--- |
+@@@

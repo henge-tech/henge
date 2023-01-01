@@ -1,0 +1,9 @@
+source: d_in.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: deerskin, dentin, detain
+Please create a short sentence using all these words: detrain, din, dioxin
+Please create a short sentence using all these words: disdain, distrain, dobbin
+Please create a short sentence using all these words: doeskin, domain, drain
+--- |
+@@@

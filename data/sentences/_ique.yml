@@ -1,0 +1,9 @@
+source: _ique.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: antique, applique, boutique
+Please create a short sentence using all these words: clique, communique, critique
+Please create a short sentence using all these words: mystique, oblique, physique
+Please create a short sentence using all these words: pique, technique, unique
+--- |
+@@@

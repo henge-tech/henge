@@ -1,0 +1,9 @@
+source: _ior.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: anterior, excelsior, exterior
+Please create a short sentence using all these words: inferior, interior, junior
+Please create a short sentence using all these words: posterior, prior, savior
+Please create a short sentence using all these words: senior, superior, ulterior
+--- |
+@@@

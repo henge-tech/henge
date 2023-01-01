@@ -1,0 +1,9 @@
+source: mis_t.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: misconduct, miscreant, misfit
+Please create a short sentence using all these words: misinterpret, mismanagement, misogynist
+Please create a short sentence using all these words: misprint, misrepresent, misstatement
+Please create a short sentence using all these words: mist, mistreatment, mistrust
+--- |
+@@@

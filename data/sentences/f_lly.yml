@@ -1,0 +1,9 @@
+source: f_lly.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: factually, faithfully, fatally
+Please create a short sentence using all these words: fearfully, filly, fiscally
+Please create a short sentence using all these words: folly, formally, foully
+Please create a short sentence using all these words: frantically, frightfully, frilly
+--- |
+@@@

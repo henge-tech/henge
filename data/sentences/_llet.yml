@@ -1,0 +1,9 @@
+source: _llet.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: ballet, billet, bullet
+Please create a short sentence using all these words: fillet, gullet, mallet
+Please create a short sentence using all these words: millet, mullet, pallet
+Please create a short sentence using all these words: pellet, skillet, wallet
+--- |
+@@@

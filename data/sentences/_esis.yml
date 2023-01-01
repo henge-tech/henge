@@ -1,0 +1,9 @@
+source: _esis.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: antithesis, exegesis, genesis
+Please create a short sentence using all these words: hypothesis, mimesis, nemesis
+Please create a short sentence using all these words: parenthesis, pathogenesis, photosynthesis
+Please create a short sentence using all these words: prosthesis, synthesis, thesis
+--- |
+@@@

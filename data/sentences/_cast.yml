@@ -1,0 +1,9 @@
+source: _cast.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: broadcast, downcast, forecast
+Please create a short sentence using all these words: miscast, opencast, outcast
+Please create a short sentence using all these words: overcast, precast, recast
+Please create a short sentence using all these words: simulcast, telecast, typecast
+--- |
+@@@

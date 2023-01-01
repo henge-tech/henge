@@ -1,0 +1,9 @@
+source: _mmy.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: clammy, crummy, dummy, gummy
+Please create a short sentence using all these words: hammy, jammy, jimmy, mammy
+Please create a short sentence using all these words: mommy, mummy, rummy, scummy
+Please create a short sentence using all these words: shimmy, tummy, whammy, yummy
+--- |
+@@@

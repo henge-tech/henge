@@ -1,0 +1,9 @@
+source: _itor.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: auditor, capacitor, competitor, compositor
+Please create a short sentence using all these words: creditor, depositor, editor, exhibitor
+Please create a short sentence using all these words: inhibitor, inquisitor, janitor, monitor
+Please create a short sentence using all these words: progenitor, solicitor, suitor, traitor
+--- |
+@@@

@@ -1,0 +1,9 @@
+source: _rew.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: aircrew, brew, crew
+Please create a short sentence using all these words: drew, grew, outgrew
+Please create a short sentence using all these words: overthrew, screw, shrew
+Please create a short sentence using all these words: threw, unscrew, withdrew
+--- |
+@@@

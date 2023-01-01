@@ -1,0 +1,9 @@
+source: gin_.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: gin, ginger, gingerbread
+Please create a short sentence using all these words: gingerly, gingersnap, gingery
+Please create a short sentence using all these words: gingham, gingiva, gingivitis
+Please create a short sentence using all these words: ginkgo, ginormous, ginseng
+--- |
+@@@

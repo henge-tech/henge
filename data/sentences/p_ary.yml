@@ -1,0 +1,9 @@
+source: p_ary.yml
+generator: ChatGPT
+--- |
+Please create a short sentence using all these words: paramilitary, parliamentary, pecuniary
+Please create a short sentence using all these words: penitentiary, pituitary, plenary
+Please create a short sentence using all these words: plenipotentiary, precautionary, preliminary
+Please create a short sentence using all these words: probationary, proprietary, pulmonary
+--- |
+@@@
