@@ -1,9 +1,15 @@
 source: _arly.yml
 generator: ChatGPT
 --- |
-Please create a short sentence using all these words: dearly, familiarly, gnarly
-Please create a short sentence using all these words: nearly, particularly, pearly
-Please create a short sentence using all these words: peculiarly, perpendicularly, scholarly
-Please create a short sentence using all these words: singularly, spectacularly, yearly
+Please create a long sentence using all these words: dearly, familiarly, gnarly
+Please create a long sentence using all these words: nearly, particularly, pearly
+Please create a long sentence using all these words: peculiarly, perpendicularly, scholarly
+Please create a long sentence using all these words: singularly, spectacularly, yearly
 --- |
-@@@
+Though the gnarly old oak tree was familiarly dear to the villagers, they knew that it would have to be cut down before it caused any harm.
+
+The pearly white marble statue was nearly perfect, but the artist was not satisfied until he had spent hours meticulously sculpting the particularly fine details on the figure's face.
+
+The scholarly researcher found the peculiarly perpendicularly oriented rock formation in the remote mountain range to be quite intriguing and worthy of further study.
+
+The yearly fireworks display was singularly spectacular, with a variety of colors and designs that never failed to amaze the crowds that gathered to watch.
