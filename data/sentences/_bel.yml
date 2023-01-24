@@ -1,9 +1,11 @@
 source: _bel.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: babel, barbel
-Please create a short sentence using all these words: corbel, decibel
-Please create a short sentence using all these words: jezebel, label
-Please create a short sentence using all these words: libel, rebel
---- |
-@@@
+Once upon a time, in a distant land, there lived a tribe of people who spoke a strange and beautiful language called Babel, and the Fish of Wisdom known as Barbel roamed the rivers, imparting knowledge to all who would listen.
+
+Sitting peacefully on a ledge, the Corbel observed the chirping birds and crickets with a discerning ear, measuring their sounds with an accurate decibel meter before entering the data into his journal.
+
+Jezebel had long been known for her rebellion and boldly living outside the box, but it was only when she discarded the labels that others had placed on her that she realized how truly free she could be.
+
+The libelous accusations against the rebel caused a stir in the town, leading many to question the validity of the claims and sparking heated debates about whether or not justice would be served.

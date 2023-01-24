@@ -1,9 +1,11 @@
 source: _band.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: armband, band, broadband
-Please create a short sentence using all these words: contraband, disband, headband
-Please create a short sentence using all these words: husband, neckband, noseband
-Please create a short sentence using all these words: saraband, waistband, wristband
---- |
-@@@
+She wore an armband with a broad band around it, signifying that she was now part of a broadband network of like-minded individuals.
+
+Knowing the goods she was smuggling were contraband, she quickly disbanded her associates and wrapped a headband around her forehead in hopes of becoming inconspicuous.
+
+She nervously adjusted her husband's neckband and noseband as she walked down the aisle, feeling his reassuring presence with every step.
+
+She gracefully glided across the dance floor, her saraband steps echoing in time with the music as her waistband and wristband shimmered in the light.

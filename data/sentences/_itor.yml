@@ -1,9 +1,11 @@
 source: _itor.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: auditor, capacitor, competitor, compositor
-Please create a short sentence using all these words: creditor, depositor, editor, exhibitor
-Please create a short sentence using all these words: inhibitor, inquisitor, janitor, monitor
-Please create a short sentence using all these words: progenitor, solicitor, suitor, traitor
---- |
-@@@
+A savvy auditor had to compete against formidable competitors, yet managed to compose a complex capacitor for the project, impressing everyone with his skill.
+
+The diligent editor worked tirelessly to exhibit her work - a credit to her depositors, who were overjoyed with the final results.
+
+When the inquisitor arrived to monitor the situation, the janitor quickly put up an inhibitor to prevent any further disruption.
+
+The traitorous suitor sought to betray the progenitor of his family, but the wise solicitor counseled him not to let foolish impulses rule his actions.

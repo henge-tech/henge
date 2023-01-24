@@ -1,9 +1,11 @@
 source: _duct.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: abduct, adduct, aqueduct
-Please create a short sentence using all these words: conduct, deduct, duct
-Please create a short sentence using all these words: induct, misconduct, oviduct
-Please create a short sentence using all these words: product, subduct, viaduct
---- |
-@@@
+Abducting the adductor muscles, the aliens used their advanced aqueducts to remove them from the planet and take them to their own world.
+
+They had to abide by a strict code of conduct and deductively work their way through the winding ducts in order to find the entrance to the hidden temple.
+
+The elders inducted the new member into the tribe, but his misconduct eventually led to him being expelled, and the oviducts of the female members were monitored closely to ensure his presence would not be allowed in the vicinity again.
+
+The product of the subduction zone was an underground viaduct that allowed passage through the otherwise impassable terrain, allowing access to many previously unexplored locations.

@@ -1,9 +1,11 @@
 source: _aze.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: ablaze, blaze, craze
-Please create a short sentence using all these words: daze, faze, gaze
-Please create a short sentence using all these words: glaze, graze, haze
-Please create a short sentence using all these words: laze, raze, sleaze
---- |
-@@@
+The craze that was ablaze throughout the town had reached its peak, with citizens' passions blazing bright.
+
+As their eyes gazed upon the spectacle, the onlookers were dazed and utterly fazed by the sheer magnitude of the scene.
+
+The foggy haze hung in the air, glazing the grassy pastures below as the herd of cows casually grazed.
+
+As the sun lazily beat down, the city seemed to be razed to the ground by a wave of sleazy energy.

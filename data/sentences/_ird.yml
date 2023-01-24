@@ -1,9 +1,11 @@
 source: _ird.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: blackbird, bluebird, cowbird
-Please create a short sentence using all these words: gird, hummingbird, ladybird
-Please create a short sentence using all these words: laird, mockingbird, seabird
-Please create a short sentence using all these words: snowbird, songbird, weird
---- |
-@@@
+The melodic blackbird and bluebird soared through the sky, gossiping about the gossipy cowbird's antics below.
+
+The gird of the hummingbird's wings was so delicate and light that it seemed to whisper in the breeze, while the painted ladybird fluttered joyously in the sunshine.
+
+The laird of the castle gazed out across the meadows, where he could see the mockingbird chirping and the seabird soaring majestically high in the sky.
+
+A snowbird with wings of pure white descended from the clouds, as a songbird warbled sweetly and a weird melody echoed across the land.

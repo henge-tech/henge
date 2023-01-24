@@ -1,9 +1,11 @@
 source: _lant.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: anticoagulant, appellant, assailant, eggplant
-Please create a short sentence using all these words: gallant, implant, jubilant, petulant
-Please create a short sentence using all these words: propellant, sealant, slant, stimulant
-Please create a short sentence using all these words: supplant, transplant, vigilant, volant
---- |
-@@@
+The appellant was assaulted by the assailant and in self-defense she quickly grabbed a nearby eggplant, which she used as an anticoagulant to staunch the flow of blood from her wounds.
+
+The gallant knight jubilantly strode onto the battlefield, implant firmly in place, and petulantly challenged the forces of evil to battle.
+
+As the rocket blasted off, the propellant provided a powerful stimulant to the sealed engine, whose exhaust was angled at a perfectly slanted trajectory.
+
+The vigilant doctor carefully transplanted the organ into the patient, successfully supplanting the failing organs, before the nurse flew volant across the room with joy at a successful procedure.

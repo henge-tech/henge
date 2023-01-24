@@ -1,9 +1,11 @@
 source: _dom.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: boredom, condom, dukedom
-Please create a short sentence using all these words: earldom, freedom, martyrdom
-Please create a short sentence using all these words: officialdom, seldom, serfdom
-Please create a short sentence using all these words: stardom, thraldom, wisdom
---- |
-@@@
+The Duke was so bored with his life that he needed to find something to do, so he ventured out with a condom, hoping for an adventure and a way to battle the boredom in his dukedom.
+
+The earl was so moved by the notion of freedom that he was willing to martyr himself for it, never imagining the consequences of his noble act which would reverberate throughout the earldom.
+
+The serfs of the kingdom were often overlooked by the officialdom, since their hard work was seldom acknowledged for the sake of preserving the established order of their serfdom.
+
+He was able to ascend to the heights of stardom, but he never forgot the wisdom he cultivated during his days of thraldom and used it to stay grounded in the face of his newfound fame.

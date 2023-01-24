@@ -1,9 +1,11 @@
 source: _cant.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: applicant, cant, communicant, decant
-Please create a short sentence using all these words: descant, desiccant, insignificant, intoxicant
-Please create a short sentence using all these words: lubricant, mendicant, recant, scant
-Please create a short sentence using all these words: secant, significant, supplicant, vacant
---- |
-@@@
+The applicant who was a communicant of the organization couldn't decant his feelings in the right way, and as a result, he was not able to communicate what he wanted to say effectively.
+
+Although the descant and desiccant were insignificant compared to the intoxicant, each of their individual contributions were essential to creating the desired result.
+
+Even though the lubricant and mendicant were scant, they still managed to recant their story which turned out to be highly valuable.
+
+The supplicant made a significant effort to try and fill the vacant spot by using her secant approach, but unfortunately it was not enough.

@@ -1,9 +1,11 @@
 source: _don.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: abandon, cordon
-Please create a short sentence using all these words: cotyledon, don
-Please create a short sentence using all these words: mastodon, Myrmidon
-Please create a short sentence using all these words: radon, tendon
---- |
-@@@
+The people in the small village near the border had to abandon their homes and cordon off their land in order to protect themselves from an impending enemy attack.
+
+There was an abundance of cotyledons in the garden, and the friendly old man named Don was always keen to point them out to anyone who passed by.
+
+The ancient tribe of Myrmidons once used the bones of the mastodon as tools, and they were renowned for their strength and wisdom.
+
+The air inside the cave was filled with a deadly amount of radon, and the adventurers had to be careful to avoid any contact with the fragile tendons located in its walls.

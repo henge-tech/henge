@@ -1,9 +1,11 @@
 source: _dor.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: ambassador, ardor, candor
-Please create a short sentence using all these words: chador, condor, conquistador
-Please create a short sentence using all these words: corridor, matador, odor
-Please create a short sentence using all these words: picador, splendor, toreador
---- |
-@@@
+The ambassador to the foreign country was known for his unconditional ardor and unfailing candor, which endeared him to all he encountered.
+
+The bold conquistador solemnly strode into the grand hall draped in a magnificent chador and surveyed the room with a proud condor-like gaze.
+
+The matador gracefully strode through the long corridor, leaving behind a cloud of intoxicating odor as he made his way to the center of the arena.
+
+The toreador's entrance into the arena was met with awe and admiration as he was adorned in dazzling splendor, accompanied by the proud picador on horseback.

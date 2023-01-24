@@ -1,9 +1,11 @@
 source: _dden.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bedridden, bidden, downtrodden, forbidden
-Please create a short sentence using all these words: gladden, hidden, madden, midden
-Please create a short sentence using all these words: overridden, redden, ridden, sadden
-Please create a short sentence using all these words: sodden, sudden, trodden, unbidden
---- |
-@@@
+After years of being bedridden and downtrodden, he felt as if all his hopes were forbidden and bidden away from his life.
+
+Even though he was hidden in the midden, his heart was gladden when he found out his dreams were not completely madden by life's difficulties.
+
+Even though he had been ridden with sorrow and fears, and his heart was heavily sadden, his will to succeed was never overridden by a sense of despair that turned his cheeks to redden.
+
+As his footsteps were suddenly trodden onto the sodden ground, a wave of unbidden emotion overwhelmed him and for a moment the world seemed to stand still.

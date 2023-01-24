@@ -1,9 +1,11 @@
 source: _cast.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: broadcast, downcast, forecast
-Please create a short sentence using all these words: miscast, opencast, outcast
-Please create a short sentence using all these words: overcast, precast, recast
-Please create a short sentence using all these words: simulcast, telecast, typecast
---- |
-@@@
+Although the broadcaster predicted the weather to be downcast, the forecast was ultimately optimistic and the broadcast ended on an upbeat note.
+
+The actor was miscast in his role so he was made an outcast and the film's opencast set was destroyed in the process.
+
+The precast parts of the set were too gloomy due to the overcast sky and had to be recast with brighter colors in order to make the scene look more vibrant.
+
+The actor was typecast to a certain role and, as a result, all his future roles were somewhat similar and, for his latest project, he was simulcast on all major TV channels for the telecast.

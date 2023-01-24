@@ -1,9 +1,11 @@
 source: _ffle.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: baffle, kerfuffle, muffle, piffle
-Please create a short sentence using all these words: raffle, reshuffle, riffle, ruffle
-Please create a short sentence using all these words: scuffle, shuffle, snaffle, sniffle
-Please create a short sentence using all these words: snuffle, souffle, truffle, waffle
---- |
-@@@
+The kerfuffle in the room was so loud that he had to muffle it with a blanket to prevent it from becoming a baffling piffle.
+
+As he expertly riffled through the deck of cards, he noticed a reshuffling of the cards that caused a minor ruffle and ultimately resulted in a raffle with the winning card coming out on top.
+
+He got into a scuffle with another man over a purse and in the end, he won the snaffle, but with a sniffle on his face after the exhausting shuffle.
+
+The chef skillfully mixed the ingredients together to create a delicate souffle, which he topped with a generous truffle and finished off with a light and fluffy waffle, all while making sure not to snuffle any of the ingredients.

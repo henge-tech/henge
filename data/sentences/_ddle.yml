@@ -1,9 +1,11 @@
 source: _ddle.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: coddle, cuddle, diddle, fiddle, griddle
-Please create a short sentence using all these words: huddle, meddle, middle, muddle, paddle
-Please create a short sentence using all these words: peddle, piddle, puddle, riddle, saddle
-Please create a short sentence using all these words: straddle, toddle, twaddle, twiddle, waddle
---- |
-@@@
+The family coddled and cuddled the two toddlers, diddling and fiddling with them as they cooked some pancakes on the griddle.
+
+The children huddled around to meddle in their parents' argument, sitting in the middle of the room and muddling the air while they all paddled their way through the difficult conversation.
+
+The peddler traveled in the rain, piddling around in the mud puddles as he searched for the answer to the mysterious riddle while saddling his horse in preparation for the journey ahead.
+
+The toddler tottered along, straddling two large teddy bears while twiddling and twaddling happily as he waddled his way to his room.

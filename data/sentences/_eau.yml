@@ -1,9 +1,11 @@
 source: _eau.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bandeau, bateau, beau
-Please create a short sentence using all these words: bureau, chapeau, chateau
-Please create a short sentence using all these words: gateau, plateau, portmanteau
-Please create a short sentence using all these words: rondeau, tableau, trousseau
---- |
-@@@
+The beau bateau was adorned in a beautiful bandeau, its billowing sails gliding gracefully across the sea like a serene swan.
+
+The chateau was complemented with grandeur by the lavish bureau and regal chapeau, providing a charming atmosphere for its opulent inhabitants.
+
+The decadent gateau and exquisite plateau were served atop a grand portmanteau, making an impressive display worthy of the finest royal banquet.
+
+The delicate rondeau was sung amidst a stunning tableau, with the trousseau of delicate lace adorning the bride in all its finery.

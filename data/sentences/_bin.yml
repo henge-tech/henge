@@ -1,9 +1,11 @@
 source: _bin.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bin, bobbin
-Please create a short sentence using all these words: cabin, dobbin
-Please create a short sentence using all these words: hemoglobin, Jacobin
-Please create a short sentence using all these words: nubbin, robin
---- |
-@@@
+Bobbin, or a small spool of thread, can often be found in a bin as it is used to store and organize the thread before use.
+
+Dobbin was always a reliable horse, which is why the farmer chose to keep him in the cabin near the family home - it was a sign of respect that he was given such a special place to stay.
+
+Jacobin was a revolutionary and dedicated supporter of the fight for freedom, and his red hemoglobin spoke loudly of his commitment to a noble cause.
+
+In the garden, a robin was perched atop a nubbin on the tree, contemplating the world below as he basked in the sunshine.

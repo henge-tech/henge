@@ -1,9 +1,11 @@
 source: _ede.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: accede, cede, centipede, concede
-Please create a short sentence using all these words: impede, intercede, millipede, precede
-Please create a short sentence using all these words: recede, rede, secede, stampede
-Please create a short sentence using all these words: suede, supersede, Swede, velocipede
---- |
-@@@
+The centipede, after being pressured to do so, eventually acceded and conceded to cede its wonky walkway in order to make room for the human's larger strides.
+
+The millipede, while trying to intercede in the argument between the humans, found itself impeded by their loud and boisterous bickering, forgetting that it had been attempting to precede them by settling the dispute itself.
+
+The herd of wild animals began to recede, scared off by the sound of a stampede, leaving the humans to rede and secede without fear of being trampled.
+
+The Swedish velocipede enthusiast had to sue the city council when they attempted to supersede his rights to ride his beloved machine in the parks, despite his suede clad suit which begged them to reconsider.

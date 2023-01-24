@@ -1,9 +1,11 @@
 source: _ek.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: creek, eek, geek
-Please create a short sentence using all these words: kopek, leek, meek
-Please create a short sentence using all these words: midweek, peek, reek
-Please create a short sentence using all these words: seek, shriek, sleek
---- |
-@@@
+The curious creek swiftly crept up to the eek of the nerdy geek, eager to explore the strange and unknown land beyond.
+
+The meek kopek, timidly trudging through the tall grass, was emboldened by the familiar sight of a leek growing beside the winding path.
+
+An especially pungent reek wafted through the air on that midweek day, causing the brave soul to take a quick peek around the corner to find its source.
+
+As the sun set, a sleek fox ventured out in search of its dinner and let loose a loud shriek before hastily seeking shelter within its den.

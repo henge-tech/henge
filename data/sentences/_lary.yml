@@ -1,9 +1,11 @@
 source: _lary.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: ancillary, burglary, capillary
-Please create a short sentence using all these words: constabulary, corollary, epistolary
-Please create a short sentence using all these words: exemplary, formulary, maxillary
-Please create a short sentence using all these words: salary, tutelary, vocabulary
---- |
-@@@
+When a burglar attempted to break into a bank, the capillary sensors activated the ancillary security measures, thwarting the intruder's efforts and keeping the bank safe.
+
+The epistolary correspondence between the constabulary and its corollary organizations provided vital insight into how to best serve and protect the community.
+
+The formulary prescribed by the maxillary surgeon was exemplary in its accuracy and effectiveness, leading to an improved recovery for the patient.
+
+The tutelary guidance of her mentors helped her to expand her vocabulary and understand the importance of an adequate salary in achieving financial security.

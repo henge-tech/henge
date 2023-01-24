@@ -1,9 +1,11 @@
 source: _erse.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: adverse, averse, converse, disperse
-Please create a short sentence using all these words: diverse, immerse, inverse, multiverse
-Please create a short sentence using all these words: obverse, perse, perverse, terse
-Please create a short sentence using all these words: transverse, traverse, universe, verse
---- |
-@@@
+After discussing the adverse outcomes of their plans, the group decided to be averse to taking action and instead converse about other options that would disperse their resources in a more beneficial way.
+
+To truly understand the multiverse, one must immerse themselves in its complexities and diverse experiences to uncover the inverse possibilities of existence.
+
+The perse and perverse nature of the situation forced him to remain obverse and terse in order to keep a level head.
+
+Exploring the universe and traversing the unknown to gain a greater understanding of the transverse patterns of life, he found himself propelled by a mysterious force guiding verses of knowledge.

@@ -1,9 +1,11 @@
 source: _cus.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: abacus, caucus, circus
-Please create a short sentence using all these words: crocus, discus, focus
-Please create a short sentence using all these words: hibiscus, locus, meniscus
-Please create a short sentence using all these words: mucus, umbilicus, viscus
---- |
-@@@
+The abacus in the room might be small and quiet, but when you enter the circus-like caucus it is filled with so much energy and enthusiasm that it's impossible to not be impressed.
+
+As the spring days get warmer and the sun shines brighter, the crocus in the garden can be seen in full focus, with its vibrant petals radiating around its discus-shaped center.
+
+The bright and colorful hibiscus was blooming at the locus, its vibrant petals catching the light of the sun to form a meniscus shaped aura around it.
+
+The thick and slimy mucus oozing out of the umbilicus was alarming, but upon further inspection the viscus was discovered to be healthy and normal.

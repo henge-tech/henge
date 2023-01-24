@@ -1,9 +1,11 @@
 source: _ctic.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: antarctic, arctic, climactic
-Please create a short sentence using all these words: dialectic, didactic, eclectic
-Please create a short sentence using all these words: hectic, intergalactic, lactic
-Please create a short sentence using all these words: prophylactic, syntactic, tactic
---- |
-@@@
+In the antarctic and arctic regions, the climactic conditions have been changing rapidly over the past few decades, making them the most vulnerable places to the effects of climate change.
+
+The dialectic between didactic and eclectic styles of learning can provide a powerful educational foundation, as it combines the best of both traditional and innovative approaches.
+
+Life on Earth can often be hectic, so an intergalactic vacation every once in a while to reduce stress levels and recharge can be beneficial, with the added bonus of a unique lactic acid boost!
+
+Prophylactic measures combined with syntactic strategies and literary tactics can be particularly useful when it comes to achieving long-term success.

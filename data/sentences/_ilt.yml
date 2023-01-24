@@ -1,9 +1,11 @@
 source: _ilt.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: gilt, guilt, hilt
-Please create a short sentence using all these words: jilt, kilt, lilt
-Please create a short sentence using all these words: milt, quilt, silt
-Please create a short sentence using all these words: stilt, tilt, wilt
---- |
-@@@
+She felt a deep pang of guilt in her heart when she thought of the gilt hilt sword that she had taken from the museum.
+
+The cheerful lilt of the fiddle filled the room as he twirled around his beloved in her colorful kilt, oblivious to the fact that she had been jilted.
+
+After carefully stitching the quilt together with his grandmother's silt-stained needles, he spread it out on the milt-flecked bed and admired the beauty of his work.
+
+The giant stilt-walker towered above the gathered crowd, playfully tilting from side to side as the wilting summer heat caused beads of sweat to form on her face.

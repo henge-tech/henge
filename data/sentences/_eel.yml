@@ -1,9 +1,11 @@
 source: _eel.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: cartwheel, creel, eel
-Please create a short sentence using all these words: flywheel, genteel, heel
-Please create a short sentence using all these words: keel, kneel, peel
-Please create a short sentence using all these words: pinwheel, reel, steel
---- |
-@@@
+The little girl gracefully cartwheeled around the garden with her fish creel dangling from her arm, hoping to catch an elusive eel for supper.
+
+She stepped lightly on her heels, smiling with genteel grace as she spun the great flywheel, her delicate hands guiding it with ease.
+
+He knelt down and peeled away the layers of the boat's keel, revealing a fresh coat of paint underneath and restoring the vessel to its original glory.
+
+She twirled around, her pinwheel spinning delightfully in the air as the music from the old steel reel blared, filling the room with a melody of joy.

@@ -1,9 +1,11 @@
 source: _awn.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: awn, brawn, dawn
-Please create a short sentence using all these words: drawn, fawn, lawn
-Please create a short sentence using all these words: overdrawn, pawn, prawn
-Please create a short sentence using all these words: spawn, withdrawn, yawn
---- |
-@@@
+At dawn, the brawny figure stood atop a hill, his awn-covered head silhouetted against the early morning sky.
+
+She was drawn to the fawn perched on the edge of the lawn, unable to look away from its glimmering eyes.
+
+After being overdrawn on his bank balance, he reluctantly pawned off his beloved prawns in order to stay afloat.
+
+After being withdrawn from his chaotic life, he stopped to take a deep yawn, witnessing the small spawn of fish swimming peacefully in the nearby river.

@@ -1,9 +1,11 @@
 source: _dian.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: circadian, comedian, custodian
-Please create a short sentence using all these words: guardian, median, meridian
-Please create a short sentence using all these words: obsidian, ophidian, quotidian
-Please create a short sentence using all these words: radian, tragedian, viridian
---- |
-@@@
+The circadian rhythm of the custodian was broken when the comedian came in and gave a rousing performance that kept everyone awake late into the night.
+
+The guardian of the median line between the Eastern and Western hemispheres was the meridian, which was used to divide the day into useful segments as well as provide a point of reference for navigation.
+
+The obsidian ophidian slithered through the quotidian motions of everyday life, leaving a wake of unease in its path that was both mysterious and intimidating.
+
+The radian tragedy expertly narrated by the tragedian was brought to life with a lush backdrop of viridian foliage, creating a captivating story that will be remembered for its realism and artistry.

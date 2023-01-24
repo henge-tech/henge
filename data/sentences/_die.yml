@@ -1,9 +1,11 @@
 source: _die.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: baddie, birdie, caddie
-Please create a short sentence using all these words: cardie, foodie, goodie
-Please create a short sentence using all these words: hoodie, indie, kiddie
-Please create a short sentence using all these words: laddie, oldie, roadie
---- |
-@@@
+The devious baddie planned to lure the unsuspecting birdie with a caddie full of shiny gems, but little did he know that his mischievous scheme was about to be foiled.
+
+The health-conscious foodie was determined to find her perfect cardie to cover her figure while still looking stylish, but all of the stores only offered goodie treats instead of fashion apparel.
+
+The independent indie musician had been working on a new album and she decided to wear her favorite hoodie while recording her latest single in order to maintain her creative flow, despite the kiddie protests going on outside.
+
+The spunky laddie visited his elderly grandparents, who were oldies but goodies, and decided to go for a drive down the winding roads with them while singing along to some classic hits, all thanks to the help of his trusty roadie.

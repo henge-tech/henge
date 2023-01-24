@@ -1,9 +1,11 @@
 source: _ella.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: chlorella, citronella, fella
-Please create a short sentence using all these words: flagella, mozzarella, novella
-Please create a short sentence using all these words: paella, patella, rubella
-Please create a short sentence using all these words: salmonella, tarantella, umbrella
---- |
-@@@
+A merry fella, who loved the smell of citronella, decided to take a few chlorella supplements every day in order to boost his health and wellbeing.
+
+Jack had always been fond of writing novels, but for his most recent novella he was inspired by the cheese-making process, especially the flagella which resemble the strings of mozzarella used to top pizzas.
+
+Despite his bad case of rubella, Jeff decided to sample some paella, an authentic Spanish dish served with a side of patella, one of the most popular ingredients in the region.
+
+After surviving a bout of salmonella, as well as taking regular precautions with an umbrella, Melinda decided to learn the tarantella, a folk dance that had brought her joy during the rainy season.

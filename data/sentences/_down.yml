@@ -1,9 +1,11 @@
 source: _down.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: breakdown, clampdown, crackdown
-Please create a short sentence using all these words: knockdown, letdown, lowdown
-Please create a short sentence using all these words: markdown, shakedown, showdown
-Please create a short sentence using all these words: sundown, touchdown, turndown
---- |
-@@@
+As a result of the government's clampdown on crime, there was a noticeable breakdown in law and order, leading to a dramatic crackdown on offenders.
+
+Despite his expectations of success being high, the athlete experienced a significant letdown after his knockdown in the finals, leaving him feeling particularly lowdown.
+
+When the retailer was caught in a shakedown scandal, they were forced to bring their prices down in a big markdown, leading to a tense showdown between them and their customers.
+
+As the sun began to set at sundown, the quarterback threw the football towards the end zone, hoping for a touchdown, but instead it was met with a swift turndown from the defense.

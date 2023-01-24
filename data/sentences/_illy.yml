@@ -1,9 +1,11 @@
 source: _illy.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: billy, chilly, civilly
-Please create a short sentence using all these words: dilly, filly, frilly
-Please create a short sentence using all these words: hillbilly, hilly, rockabilly
-Please create a short sentence using all these words: shrilly, silly, willy
---- |
-@@@
+Billy was so chilly that he had to civilly ask his friend if they could go inside to warm up.
+
+The young girl wore a dilly of a frilly filly dress to the party, making sure she looked her absolute best.
+
+The hillbilly enjoyed exploring the hilly terrain, strumming his rockabilly tunes along the way.
+
+The young child's shrilly laughter filled the room as he ran around, playing silly games with his friend Willy.

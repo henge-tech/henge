@@ -1,9 +1,11 @@
 source: _ef.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: brief, clef, debrief
-Please create a short sentence using all these words: def, disbelief, fief
-Please create a short sentence using all these words: grief, lief, mischief
-Please create a short sentence using all these words: reef, relief, unbelief
---- |
-@@@
+After the soloist had finished her brief performance, the conductor gave her a nod of approval and handed her a silver clef as a token of appreciation for her outstanding debrief.
+
+Upon inheriting the expansive fief, the young man was filled with a sense of def and disbelief as he was now responsible for managing its vast lands and people.
+
+Despite his grief and sorrow, the young boy found solace in lief by engaging in mischief and playing around the neighbourhood.
+
+The scuba diver was filled with a sense of amazement and relief when he emerged from the depths of the ocean and spotted the vibrant coral reef amidst a sea of unbelief and surprise.

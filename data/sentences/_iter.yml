@@ -1,9 +1,11 @@
 source: _iter.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: arbiter, biter, counterfeiter
-Please create a short sentence using all these words: dumbwaiter, exciter, goiter
-Please create a short sentence using all these words: igniter, liter, loiter
-Please create a short sentence using all these words: miter, orbiter, underwriter
---- |
-@@@
+The arbiter of justice was quick to catch the biter of currency, a black-market counterfeiter who had been committing numerous financial crimes.
+
+When the dumbwaiter was opened, the diners were pleasantly surprised to find a delicious dish that had been prepared with an exciter of flavors, containing fresh vegetables with a hint of goiter to finish.
+
+The experienced pyrotechnician was always prepared, ensuring that he had an igniter for each of the various fireworks that were carefully arranged by size and color in a two liter bottle—there was no time to loiter when the big show started.
+
+The miter of the church was decorated with the most exquisite craftsmanship, while the sophisticated orbiter of a nearby satellite was managed by a team of highly trained underwriters who were always prepared for any eventuality.

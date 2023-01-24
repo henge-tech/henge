@@ -1,9 +1,11 @@
 source: _con.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: archdeacon, con, deacon
-Please create a short sentence using all these words: econ, falcon, garcon
-Please create a short sentence using all these words: helicon, icon, lexicon
-Please create a short sentence using all these words: recon, silicon, zircon
---- |
-@@@
+The archdeacon was a con artist, for he merely posed as a deacon to deceive the parishioners.
+
+The econ major was like a falcon, swooping in and out of the cafe to grab his order of garcon for his late night study session.
+
+With a loud thud, the helicon crashed to the ground, destroying the iconic and cherished lexicon that was kept in the library.
+
+The brilliant scientist used his recon skills to find the rare silicon and zircon crystals that could be used to power his revolutionary invention.

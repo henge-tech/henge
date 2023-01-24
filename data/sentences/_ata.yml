@@ -1,9 +1,11 @@
 source: _ata.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a long sentence using all these words: cantata, desiderata, errata
-Please create a long sentence using all these words: fermata, inamorata, pinata
-Please create a long sentence using all these words: schemata, sonata, stigmata
-Please create a long sentence using all these words: strata, substrata, toccata
---- |
-@@@
+The pallbearer, heeding the call of sorrow, paused to pare a peach in his palm and presented it to the grief-stricken hearer in a gesture of consolation, hoping to ease their pain.
+
+As the music reached the fermata, the inamorata was overwhelmed by the joy of the moment, and decided to celebrate by breaking a pinata filled with treats to share with her beloved.
+
+As the sonata emanated from the instrument, it seemed to bring forth a pattern of symbols and schemata which only the composer could interpret; the audience was left in awe as they noticed the stigmata seemingly appearing before them.
+
+The toccata filled the air, as each layer of sound blended together in a harmonious display of stratified melodies, ranging from deep bass notes to the highest of treble registers, combining to form an invigorating substrata of music.

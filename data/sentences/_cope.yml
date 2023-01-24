@@ -1,9 +1,11 @@
 source: _cope.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: cope, endoscope, gyroscope
-Please create a short sentence using all these words: horoscope, kaleidoscope, microscope
-Please create a short sentence using all these words: oscilloscope, periscope, scope
-Please create a short sentence using all these words: stethoscope, syncope, telescope
---- |
-@@@
+With his coping mechanisms and a gyroscope in hand, the clever doctor used an endoscope to diagnose any illnesses he could find.
+
+Through the kaleidoscope, the astrologer could read the stars and predict what the future held for his clients, using a microscope to double check the accuracy of each horoscope.
+
+With his trusty oscilloscope, the engineer was able to scope out the situation and modify it to his exact specifications, pushing the limits of the periscope to the limit.
+
+The doctor listened carefully to the patient's heart through the stethoscope and studied the stars with the telescope, taking a syncope break to rest and reflect so he could deliver an accurate diagnosis.

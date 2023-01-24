@@ -1,9 +1,11 @@
 source: _ife.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: afterlife, fife, fishwife
-Please create a short sentence using all these words: housewife, knife, midwife
-Please create a short sentence using all these words: nightlife, penknife, rife
-Please create a short sentence using all these words: strife, wife, wildlife
---- |
-@@@
+In the afterlife, the fishwife fife played a sweet melody that resonated with everyone's souls, reminding them to treasure life in their time on Earth.
+
+The housewife carefully wielded the knife to cut through the wrapping paper on her wedding present while the midwife attended to a laboring mother in the next room.
+
+The nightlife in the city was rife with excitement, so much that it seemed to be jumping off the page; a penknife was required to make sense of the hustle and bustle.
+
+Despite the strife and difficulties, the wife was determined to protect the wildlife in her community, believing that every living creature had a right to thrive and enjoy life.

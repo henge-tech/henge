@@ -1,9 +1,11 @@
 source: _iety.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: anxiety, contrariety, gaiety
-Please create a short sentence using all these words: impiety, impropriety, moiety
-Please create a short sentence using all these words: notoriety, piety, propriety
-Please create a short sentence using all these words: satiety, sobriety, variety
---- |
-@@@
+Despite the anxiety and contrariety of the situation, she found herself smiling as she felt a sudden surge of gaiety that made her heart feel lighter.
+
+His impiety and impropriety had no bounds, resulting in him claiming a larger moiety of the resources than was truly his due.
+
+Her reputation had quickly spread, giving her notoriety in the community, yet she still upheld a standard of piety and propriety so that others could look up to her as an example.
+
+After his long journey, he was finally filled with a sense of satiety due to the vast variety of experiences he had encountered and the sobriety of mind he had cultivated along the way.

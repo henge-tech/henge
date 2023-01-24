@@ -1,9 +1,11 @@
 source: _ield.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: afield, airfield, backfield
-Please create a short sentence using all these words: brownfield, chesterfield, coalfield
-Please create a short sentence using all these words: goldfield, infield, midfield
-Please create a short sentence using all these words: outfield, wield, yield
---- |
-@@@
+As the sun set, the afield quickly transformed into an airfield, bustling with activity as the backfield quickly filled with hundreds of planes ready to take off into the night sky.
+
+The rolling hills of green fields quickly changed to a landscape of brownfield and coalfield as we drove through the quaint town of chesterfield, where the locals were busy preparing for an upcoming festival.
+
+The infield and midfield of this abandoned goldfield were a reminder of how quickly wealth and fortune could be forgotten, leaving behind only a few lonely relics of its former glory.
+
+As the sun beat down on the outfield, a figure clad in shining armor slowly emerged, wielding a mighty sword and calmly awaiting the enemy to yield and accept defeat.

@@ -1,9 +1,11 @@
 source: _ege.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: besiege, college
-Please create a short sentence using all these words: cortege, liege
-Please create a short sentence using all these words: protege, renege
-Please create a short sentence using all these words: sacrilege, siege
---- |
-@@@
+Students at the college were beset by anxieties as they prepared to embark on their college careers and face the unknown challenges that lay ahead.
+
+The liege lord rode at the head of the impressive cortege, waving to show his appreciation for his loyal supporters following in his wake.
+
+His mentor had taken him under his wing and he had gained much knowledge and experience, but when his protege was entrusted with a great responsibility, he reneged on his promise to fulfill it.
+
+The siege on the kingdom was particularly heinous as it was viewed as a sacrilege to attack a place of such sacred importance to the people of the land.

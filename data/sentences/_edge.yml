@@ -1,9 +1,11 @@
 source: _edge.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: acknowledge, dredge, edge
-Please create a short sentence using all these words: foreknowledge, hedge, ledge
-Please create a short sentence using all these words: pledge, sedge, selvedge
-Please create a short sentence using all these words: sledge, straightedge, wedge
---- |
-@@@
+As we acknowledge the sheer power of the ocean, we must also be aware of its great potential to dredge up the edge of anything it comes into contact with.
+
+With the power of foreknowledge, one can hedge against the ledge of uncertainty and ensure a favorable outcome.
+
+We pledge to never take nature's bounty, such as the sedge and selvedge, for granted, and to always strive to protect it.
+
+By utilizing a sledge and straightedge, one can create an immaculate wedge that will last through time and be the foundation of something extraordinary.

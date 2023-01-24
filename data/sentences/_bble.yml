@@ -1,9 +1,11 @@
 source: _bble.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: babble, bobble, bubble, cobble, dabble
-Please create a short sentence using all these words: dribble, gabble, gobble, hobble, kibble
-Please create a short sentence using all these words: nibble, pebble, quibble, rabble, rubble
-Please create a short sentence using all these words: scrabble, scribble, squabble, stubble, wobble
---- |
-@@@
+Little Johnny was always babble, bobble, and bubble talking away, so his parents decided it was time for him to learn how to cobble and dabble with words to turn them into more meaningful sentences.
+
+When Tom was out walking he couldn't help but let his tongue dribble, gabble, and gobble as he hobbled along; amazingly, he managed to find an old bowl filled with kibble - it was the best snack he'd ever had!
+
+When he was out exploring the ruins of an old castle, the little boy couldn't help but to stop and nibble on some pebbles to pass the time; even though he wasn't supposed to, he soon found himself quibbling with the rabble of rats in the rubble, sparking a series of chases across the grounds.
+
+As the children played tag in the meadow, they could be heard scrabbling and scribbling in the dirt, squabbling over who was it, and their feet wobbling as they dodged the prickly stubble of grass that dotted the landscape.

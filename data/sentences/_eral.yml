@@ -1,9 +1,11 @@
 source: _eral.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bilateral, collateral, ephemeral, equilateral, federal
-Please create a short sentence using all these words: feral, funeral, general, humeral, illiberal
-Please create a short sentence using all these words: lateral, multilateral, numeral, peripheral, puerperal
-Please create a short sentence using all these words: quadrilateral, several, unicameral, unilateral, visceral
---- |
-@@@
+The federal government was looking for a way to make their relationship more bilateral, so they created a collateral agreement that would be ephemeral but with equal rights and responsibilities on both sides of the equilateral partnership.
+
+The general public was aghast when they heard that the feral behavior of the illiberal politicians had resulted in a funeral procession for a young man who was unjustly killed by their own humeral arrogance.
+
+Although the numeral evidence suggested that peripheral nations could benefit from a multilateral approach, it was difficult to achieve the lateral harmony needed to craft an agreement that would be puerperal and beneficial in the long run.
+
+Even though the evidence was several and visceral, the leaders were unable to come to a unilateral agreement and instead chose to form a quadrilateral coalition with a unicameral system to ensure that all parties could benefit.

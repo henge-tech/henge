@@ -1,9 +1,11 @@
 source: _ctly.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: abjectly, abstractly, circumspectly
-Please create a short sentence using all these words: compactly, distinctly, exactly
-Please create a short sentence using all these words: imperfectly, incorrectly, indirectly
-Please create a short sentence using all these words: indistinctly, strictly, succinctly
---- |
-@@@
+The student struggled abstractly to answer the teacher's question abjectly, but was ultimately too circumspectly to give an opinion.
+
+He packed the items compactly and distinctly so that they would fit exactly in the box.
+
+He tried to solve the problem imperfectly and incorrectly, but ended up solving it indirectly.
+
+She spoke indistinctly and strictly, yet succinctly conveyed her point.

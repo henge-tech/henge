@@ -1,9 +1,11 @@
 source: _iff.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: biff, mastiff, midriff
-Please create a short sentence using all these words: plaintiff, pontiff, riff
-Please create a short sentence using all these words: sheriff, sniff, stiff
-Please create a short sentence using all these words: tariff, tiff, whiff
---- |
-@@@
+Once upon a time, there was a large and formidable mastiff named Biff who had a wrinkly midriff, but despite his intimidating size he had a heart of gold and was beloved by all.
+
+The pontiff was in a quandary when the plaintiff brought forth his case before him, for how to settle the dispute seemed impossible until he had a sudden riff of inspiration that provided the answer.
+
+As the sheriff approached the suspect, he sniffed the air and stiffened, for the evidence was unmistakable and it was clear the person was guilty of the crime.
+
+The fierce argument between the two parties quickly escalated into a heated tiff, and when the tariff was proposed the participants let out a collective whiff of disbelief and dismay.

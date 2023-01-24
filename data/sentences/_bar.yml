@@ -1,9 +1,11 @@
 source: _bar.yml
-generator: ChatGPT
+generator: text-davinci-003
+prmopt: 1
 --- |
-Please create a short sentence using all these words: cinnabar, crossbar, crowbar
-Please create a short sentence using all these words: debar, disbar, handlebar
-Please create a short sentence using all these words: isobar, lumbar, millibar
-Please create a short sentence using all these words: minibar, sandbar, sidebar
---- |
-@@@
+The cinnabar sky glowed like a beacon as the crowbar wedged its way into the crossbar on the wooden fence to create an opening for it to fly through.
+
+As he disbarred the rusty handlebars with a powerful heave, he was determined to make sure nothing would debar him from his destination this time.
+
+He plotted the pressure measurements of the millibar, isobar and lumbar along with the coordinates on the map to find the perfect route to his destination.
+
+The summer breeze gently rustled the blades of grass on the sandbar as he perched himself on the minibar, sipping his cocktail and scrolling through the sidebar of the website.

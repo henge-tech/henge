@@ -1,9 +1,11 @@
 source: _cide.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: coincide, fratricide, fungicide
-Please create a short sentence using all these words: genocide, herbicide, homicide
-Please create a short sentence using all these words: infanticide, insecticide, matricide
-Please create a short sentence using all these words: patricide, pesticide, suicide
---- |
-@@@
+Coincidentally, a fratricide occurred when two brothers used fungicides to fight against each other, showing how quickly peaceful tools can turn into disastrous weapons.
+
+It is horrifying to think that something as seemingly harmless as an herbicide can be used to commit genocide or even more atrocious acts such as homicide.
+
+It is truly heartbreaking that infanticide, insecticide and matricide still exist in our world today, as these cruel terms imply the merciless taking of innocent lives.
+
+Patricide, pesticide, and suicide are all deeply tragic forms of violence that show the darkest depths of humanity; yet unfortunately, these tragedies happen far too often.

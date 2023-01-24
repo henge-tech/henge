@@ -1,9 +1,11 @@
 source: _erm.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: angiosperm, berm, ectoderm
-Please create a short sentence using all these words: endoderm, germ, isotherm
-Please create a short sentence using all these words: mesoderm, midterm, perm
-Please create a short sentence using all these words: preterm, term, therm
---- |
-@@@
+An angiosperm berm grew along the roadside, slowly puffing out its ectoderm to slowly encroach on the lane until it was no more.
+
+A germ was found embedded within the inner layers of the endoderm, hidden from plain sight until it was discovered through an isotherm analysis.
+
+During the mesoderm midterm, students had to research and present on the concept of perm, which was time-consuming but ultimately rewarding.
+
+The therm recorded the data of both the preterm and term pregnancies, and the differences between them, which allowed for more accurate predictions and diagnoses.

@@ -1,9 +1,11 @@
 source: _eate.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aureate, baccalaureate, chalybeate
-Please create a short sentence using all these words: create, delineate, ideate
-Please create a short sentence using all these words: laureate, nauseate, permeate
-Please create a short sentence using all these words: procreate, recreate, roseate
---- |
-@@@
+The aureate, baccalaureate, and chalybeate ceremony was held at the school in honor of all the students who had achieved these high academic qualifications, with their accomplishments being heralded by cheers and applause.
+
+With his innate creativity, he was able to create, delineate, and ideate a vision for success that was far more ambitious than anyone else's - a plan that, if executed properly, could bring his wildest dreams to fruition.
+
+The smell of rot and decay had permeated the room, causing an overwhelming sense of nausea that was only worsened by the sight of the Laureate molding away in the corner, the caricature of his former glory.
+
+He was determined to procreate a roseate future for himself, one that would allow him to recreate the memories he had made in his past and bring them into ever-lasting joy in the present.

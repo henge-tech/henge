@@ -1,9 +1,11 @@
 source: _cap.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: foolscap, handicap, hubcap
-Please create a short sentence using all these words: icecap, kneecap, madcap
-Please create a short sentence using all these words: nightcap, recap, redcap
-Please create a short sentence using all these words: skullcap, skycap, whitecap
---- |
-@@@
+The foolscap was so large that it created a handicap for the man trying to fit it into the hubcap of his car, and so he decided to find something else he could use instead.
+
+The icy icecap on his head gave him the look of a madcap, but his kneecaps were warm enough to protect him from the freezing temperatures.
+
+After a long day, he put on his nightcap, gave a quick recap of his accomplishments, and then found the redcap attendant to help him with his luggage.
+
+On his way to the airport, he saw a man wearing a bright whitecap and a skullcap to protect him from the sun reflecting off the skycap of clouds.

@@ -1,9 +1,11 @@
 source: _eep.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: asleep, bleep, cheep
-Please create a short sentence using all these words: creep, peep, seep
-Please create a short sentence using all these words: sheep, steep, sweep
-Please create a short sentence using all these words: upkeep, veep, weep
---- |
-@@@
+The roosters around the barnyard started to bleep as the sun began to rise, and soon the sleepy chickens were cheeping as they slowly awoke from their slumber.
+
+The dampness of the morning air filled the meadow with a seeping mist as the small creatures crept out of their dens, while a few birds peeped from the branches of tall trees.
+
+The fog was rolled up like a blanket over the steep hills as the shepherd herded his flock of sheep, their woolly coats swishing together with each sweep of his crook.
+
+As the veep of the company gave his speech, many in the audience kept up their murmured conversations while a few people wept at the powerful words he spoke about the importance of upkeep and maintenance.

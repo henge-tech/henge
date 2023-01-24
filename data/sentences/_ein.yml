@@ -1,9 +1,11 @@
 source: _ein.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: Bahrein, casein, herein
-Please create a short sentence using all these words: lipoprotein, protein, rein
-Please create a short sentence using all these words: skein, stein, therein
-Please create a short sentence using all these words: vein, villein, wherein
---- |
-@@@
+Bahrein is an Arabian country located in the Middle East, and casein, a type of protein found in milk, is herein found in many food products.
+
+Lipoprotein and protein are two important components of the human body and rein is a term used to refer to guidance or control, as in the phrase 'take the reins'.
+
+Skein is a term used to refer to a length of yarn bundled together, while stein is a type of beer mug often found in bars and pubs; therein lies the beauty of these diverse items.
+
+Vein refers to a system of vessels in the body that transports blood, villein is an archaic term for a peasant bound to a feudal lord, and wherein we find the link between the two terms.

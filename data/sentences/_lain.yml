@@ -1,9 +1,11 @@
 source: _lain.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: chamberlain, chaplain, chilblain
-Please create a short sentence using all these words: complain, explain, lain
-Please create a short sentence using all these words: overlain, plain, porcelain
-Please create a short sentence using all these words: slain, underlain, villain
---- |
-@@@
+The chamberlain was in charge of managing the chaplain's temple and its congregants, but this task became even more difficult when the chilblain weather caused some of them to fall ill.
+
+The frustrated customer went to the store's manager to complain about the product, but the manager was able to explain the situation and lain out the options for a solution.
+
+The ancient wall was overlain with a stark white plain of porcelain tiles, which had been crafted with incredible skill and care over countless generations.
+
+The hero of the story had slain the villain who had been underlain by an evil and malicious plan that was meant to cause misery and suffering.

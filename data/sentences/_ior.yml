@@ -1,9 +1,11 @@
 source: _ior.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: anterior, excelsior, exterior
-Please create a short sentence using all these words: inferior, interior, junior
-Please create a short sentence using all these words: posterior, prior, savior
-Please create a short sentence using all these words: senior, superior, ulterior
---- |
-@@@
+As we walked up the exterior steps of the old castle, we were in awe of the magnificent anterior view of the city and its surrounding landscape, for nothing could compare to the excelsior beauty and grandeur of this historic sight.
+
+Although the junior staff had access to the interior of the building, their knowledge and skills were deemed inferior to that of the more experienced workers and their ideas were often dismissed.
+
+Our prior thought that there was no hope of rescue faded away as we heard the voices of our saviors from the posterior side of the alleyway signaling an end to our difficult situation.
+
+While the senior staff enjoyed their superior privileges, their ulterior motives were never questioned, leaving us to wonder what was really going on beneath the surface.

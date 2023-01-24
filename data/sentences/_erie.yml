@@ -1,9 +1,11 @@
 source: _erie.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aerie, brasserie, camaraderie
-Please create a short sentence using all these words: coterie, eerie, faerie
-Please create a short sentence using all these words: gendarmerie, lingerie, menagerie
-Please create a short sentence using all these words: patisserie, reverie, rotisserie
---- |
-@@@
+The lofty aerie overlooking the sparkling seas was the perfect place for a group of friends to bond and build camaraderie, so they decided to complete the experience by heading to the nearby brasserie for an evening of feasting and merrymaking.
+
+His small coterie of friends had a strange connection to the supernatural, often making them feel a curious mixture of eerie unease and faerie wonder whenever they ventured off into the night for their mysterious adventures.
+
+The menagerie of exotic animals made a welcome sight for weary travelers, and the gendarmerie was always on hand to make sure the area was safe, so the local boutique began to feature their lingerie collection in their window display nearby.
+
+After an indulgent lunch of homemade pastries from the patisserie, the friends decided to find a quiet corner to sit, dream, and share their reverie as the tantalizing aromas of roasted meats filled the air from the nearby rotisserie.

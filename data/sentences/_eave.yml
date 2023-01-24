@@ -1,9 +1,11 @@
 source: _eave.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bereave, cleave, eave
-Please create a short sentence using all these words: greave, heave, interleave
-Please create a short sentence using all these words: interweave, leave, reave
-Please create a short sentence using all these words: sheave, sleave, weave
---- |
-@@@
+He was bereaved of his parents when they tragically perished in a fire, but he cleaved onto the eave of their home as if it were a reminder of a precious past life.
+
+After days of hard labor, heaving rocks from the land to create a deep trench, he was greaved from head to toe with dirt and sweat, yet he interleaved some measure of joy into the grueling task.
+
+The tapestry of life is interwoven with a multitude of souls, both coming and going, where some may leave in sorrow and others may reave in joy; such are the mysteries that one must weave together.
+
+As if part of a great machine, he labored with all his might, weaving and sheaving, sleaving and reaving, in the hope of creating something beautiful and lasting.

@@ -1,9 +1,11 @@
 source: _dant.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: abundant, antioxidant, ascendant, attendant
-Please create a short sentence using all these words: commandant, concordant, confidant, defendant
-Please create a short sentence using all these words: descendant, discordant, fondant, mordant
-Please create a short sentence using all these words: pedant, redundant, retardant, verdant
---- |
-@@@
+Abundant antioxidants, both ascendant and attendant, are proving to be essential tools in our fight against the aging process, allowing us to maintain a youthful and healthy demeanor.
+
+The Commandant of the military, in concordance with his trusted confidant and defendant, directed his troops to march forward into battle.
+
+The descendant of a long family lineage found themselves in discordant opposition against a fondant mordant in the court of law.
+
+The pedant was determined to not be redundant in his beliefs and was determined to retard any verdant growth that conflicted with his strict ideals.

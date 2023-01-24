@@ -1,9 +1,11 @@
 source: _emic.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: academic, anemic, endemic
-Please create a short sentence using all these words: epidemic, epistemic, leukemic
-Please create a short sentence using all these words: morphemic, pandemic, phonemic
-Please create a short sentence using all these words: polemic, systemic, totemic
---- |
-@@@
+Over the past several years, the academic world has been anemic in its response to the endemic problem of student apathy towards learning.
+
+The medical community is faced with an ever-growing epidemic of leukemic diseases, furthering the need for furthering our understanding of the underlying epistemic factors.
+
+In the wake of the global pandemic, linguists have worked to analyze the morphemic and phonemic structure of human speech in an effort to understand the spread of diseases.
+
+The often heated nature of the public polemic surrounding systemic inequality and its effect on traditional totemic cultures has become increasingly hard to ignore.

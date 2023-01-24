@@ -1,9 +1,11 @@
 source: _eg.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: beg, blackleg, blitzkrieg
-Please create a short sentence using all these words: bootleg, dogleg, foreleg
-Please create a short sentence using all these words: keg, leg, muskeg
-Please create a short sentence using all these words: nutmeg, peg, veg
---- |
-@@@
+During the blitzkrieg, as tanks and planes charged across the battlefield like a blackleg, many soldiers were reduced to begging for their lives.
+
+The hound was an adept hunter, with strong and agile forelegs that enabled it to swiftly traverse any terrain, and a bootleg-shaped dogleg that made cornering its prey a cinch.
+
+As the hunters trudged through the murky muskeg, their legs grew weary from carrying the heavy keg for miles, but their determination to get home with a full load kept them going.
+
+The family garden was a sight to behold - an array of vibrant veggies and fragrant herbs, each neatly labeled with its own peg, from savory tomatoes and squashes to sweet corn and nutmeg.

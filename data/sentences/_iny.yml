@@ -1,9 +1,11 @@
 source: _iny.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: brainy, briny, destiny
-Please create a short sentence using all these words: grainy, hominy, ignominy
-Please create a short sentence using all these words: mutiny, scrutiny, shiny
-Please create a short sentence using all these words: spiny, villainy, whiny
---- |
-@@@
+The brainy, briny waters of destiny beckoned him forward, informing him that his future would be both extraordinary and unpredictable.
+
+He felt a deep sense of grainy hominy and ignominy fill the air, signifying that he was doomed to a life of shame and humiliation.
+
+When the crew of the ship decided to mutiny against their captain, they were met with a great deal of scrutiny and shiny glares of disapproval from their peers.
+
+The spiny tentacles of villainy wrapped around him, radiating a whiny hum that made his skin crawl with dread.

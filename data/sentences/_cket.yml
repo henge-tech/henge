@@ -1,9 +1,11 @@
 source: _cket.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bracket, bucket, cricket, docket
-Please create a short sentence using all these words: locket, packet, picket, pickpocket
-Please create a short sentence using all these words: placket, racket, skyrocket, socket
-Please create a short sentence using all these words: sprocket, straitjacket, thicket, wicket
---- |
-@@@
+On a hot summer afternoon, in the shade of a tall tree, the sound of the cricket filled the air and a bracket was hung on the bucket near the docket, ready to be filled with a game of balls and bats.
+
+A pickpocket, sneaking through the streets, stumbled upon a locket that had been left in a packet on top of the white picket fence - a sign of a lasting love and memories.
+
+Underneath a star-filled sky, a rocket sped towards the heavens, blasting flames from its socket as it skyrocketed through the air and pockets of awe-struck onlookers cheered at the sight of its placket.
+
+A lone figure, dressed in a straitjacket, stumbled through the thicket searching for a way out, until they spotted a wicket with a sprocket at its side - a sign of salvation from their confinement.

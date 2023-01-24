@@ -1,9 +1,11 @@
 source: _date.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: accommodate, candidate, consolidate
-Please create a short sentence using all these words: elucidate, intimidate, inundate
-Please create a short sentence using all these words: invalidate, liquidate, mandate
-Please create a short sentence using all these words: predate, sedate, validate
---- |
-@@@
+The candidate looked to accommodate the need to consolidate all of her resources in order to be successful.
+
+The teacher attempted to elucidate the concept to her students, but she was intimidated by the huge amount of information that seemed to inundate her lesson plan.
+
+The court ruling invalidated any attempts to liquidate the assets, in accordance with the mandate set forth by the government.
+
+The archeologists sought to predate and validate the artifacts they had uncovered, unmasking the ancient civilization in a sedate manner.

@@ -1,9 +1,11 @@
 source: _eum.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: athenaeum, coliseum, Colosseum
-Please create a short sentence using all these words: geum, ileum, linoleum
-Please create a short sentence using all these words: lyceum, mausoleum, museum
-Please create a short sentence using all these words: peritoneum, petroleum, rheum
---- |
-@@@
+From the ancient Athenaeum to the impressive Colosseum, throughout history, these magnificent places of learning, art, and entertainment have stood as monuments to human progress and creativity.
+
+The plants in the garden flourished when the geum beds were interspersed with the ileum plants, while the pathways were lined with the soft, resilient linoleum; creating an oasis of beauty and solace.
+
+From the grandeur of the Lyceum to the historical importance of the Mausoleum and the enriching experience of the museum, this extraordinary tour gives the opportunity to explore the past and gain knowledge for the future.
+
+The peritoneum protects the organs in the abdomen, petroleum powers our cars and heat our homes, and rheum helps to soothe pain and inflammation; these essential elements of everyday life remain part of the human experience.

@@ -1,9 +1,11 @@
 source: _era.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: caldera, chimaera, cholera
-Please create a short sentence using all these words: ephemera, era, genera
-Please create a short sentence using all these words: opera, Riviera, sclera
-Please create a short sentence using all these words: subgenera, tempera, viscera
---- |
-@@@
+The caldera of Mount Vesuvius lay dormant for centuries until the mysterious chimaera awoke, unleashing a deadly outbreak of cholera across the countryside that had never been seen before.
+
+As eras passed, ephemera from bygone times were collected and meticulously categorized into their respective genera to preserve the history of humanity.
+
+In the grand theaters of the Riviera, operas featuring the most talented singers and performers captivated audiences with an unrivalled display of emotion, each actor's sclera glistening with the passion of their performance.
+
+Out of the depths of the ocean, a variety of extraordinary creatures were discovered and classified into subgenera based on their tempera and viscera, revealing a never-before-seen level of biodiversity beneath the waves.

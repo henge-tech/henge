@@ -1,9 +1,11 @@
 source: _ense.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: condense, dense, dispense
-Please create a short sentence using all these words: expense, frankincense, immense
-Please create a short sentence using all these words: incense, intense, pretense
-Please create a short sentence using all these words: recompense, suspense, tense
---- |
-@@@
+The chemist had to condense the dense mixture before he could dispense it to his customers.
+
+The immense expense of obtaining frankincense made it a highly sought-after commodity in ancient times.
+
+The room was filled with an intense aroma of incense as she put on a pretense of joy.
+
+The suspense that filled the air was thick and tense as everyone waited for the recompense for their hard work.

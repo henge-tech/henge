@@ -1,9 +1,11 @@
 source: _ece.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: apiece, centerpiece, earpiece
-Please create a short sentence using all these words: eyepiece, fleece, frontispiece
-Please create a short sentence using all these words: headpiece, mantelpiece, niece
-Please create a short sentence using all these words: showpiece, timepiece, workpiece
---- |
-@@@
+Decorating the dining room table for a special occasion, the host carefully arranged the centerpiece and two earpieces apiece to create a stunning display.
+
+She wrapped herself in a luxurious fleece blanket, peering through the eyepiece of her antique telescope at the intricate frontispiece of the evening sky.
+
+After admiring the beautiful mantelpiece in the living room, the auntie lovingly placed a floral headpiece on her niece's head, delighted with the picture they created together.
+
+The watchmaker carefully examined each workpiece of the vintage timepiece before fitting them together with precision to make a one-of-a-kind showpiece.

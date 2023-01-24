@@ -1,9 +1,11 @@
 source: _ench.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: clench, drench, entrench
-Please create a short sentence using all these words: frontbench, quench, retrench
-Please create a short sentence using all these words: stench, tench, trench
-Please create a short sentence using all these words: wench, workbench, wrench
---- |
-@@@
+The farmer was determined to entrench his crops deeply in the moist soil, so he clenched the shovel and held it firmly as he drenched the ground with water.
+
+The Prime Minister stepped onto the frontbench to make a rousing speech that would quench the desires of the public, but he found himself having to retrench his words as the crowd quietened in anticipation.
+
+The muddy trench was filled with a putrid stench, but the soldier pushed on bravely as he struggled to catch a glimpse of the tench that lurked in its depths.
+
+The mechanic had to wrench the old engine off the workbench, and as he did so, a beguiling wench walked in and completely took his attention away.

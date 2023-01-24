@@ -1,9 +1,11 @@
 source: _eet.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: beet, broadsheet, discreet
-Please create a short sentence using all these words: fleet, forefeet, greet
-Please create a short sentence using all these words: indiscreet, meet, parakeet
-Please create a short sentence using all these words: skeet, sleet, worksheet
---- |
-@@@
+The beet farmer wanted to be discreet, so rather than shouting his success from the rooftops, he took out a classified ad in the local broadsheet to share his news.
+
+As the fleet of horses approached their destination, they quickened their pace so they could greet the arriving guests with an impressive show of forefeet.
+
+Despite her friend's warnings to be discreet, she was so excited to meet her new parakeet that she was indiscreet and let out a loud squeal of joy.
+
+After an afternoon of skeet shooting in the pouring sleet, we took refuge in the nearby barn to complete our worksheet and dry off.

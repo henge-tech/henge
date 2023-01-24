@@ -1,9 +1,11 @@
 source: _esis.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: antithesis, exegesis, genesis
-Please create a short sentence using all these words: hypothesis, mimesis, nemesis
-Please create a short sentence using all these words: parenthesis, pathogenesis, photosynthesis
-Please create a short sentence using all these words: prosthesis, synthesis, thesis
---- |
-@@@
+The antithesis to the genesis of the exegesis was complex and thought-provoking, leaving many to ponder the intended meaning.
+
+From the hypothesis, it seemed clear that mimesis would lead to nemesis if the plan was not changed; however, that didn't stop some from pushing forward with their original idea.
+
+The parenthesis of the pathogenesis of photosynthesis was impressive, inspiring a newfound appreciation for the natural processes that maintain balance in our world.
+
+The synthesis of the thesis and prosthesis yielded a unique and unexpected, yet incredibly insightful result, proving the power of collaboration and synthesis.
