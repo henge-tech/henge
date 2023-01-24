@@ -1,9 +1,11 @@
 source: _nion.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: anion, bunion, communion
-Please create a short sentence using all these words: companion, dominion, minion
-Please create a short sentence using all these words: nonunion, onion, opinion
-Please create a short sentence using all these words: pinion, reunion, union
---- |
-@@@
+At the communion, many people gathered to celebrate their newfound anionic bunion and share in the joy of fellowship.
+
+The minion served his master faithfully, forever loyal in his dominion as a true companion.
+
+Everyone had their own opinion about the nonunion onion, but none knew for sure what was the right answer.
+
+Coming together in union, the old friends met for a reunion and found that their pinions still held true and had only grown stronger with time.

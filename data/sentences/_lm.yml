@@ -1,9 +1,11 @@
 source: _lm.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: balm, calm, elm
-Please create a short sentence using all these words: embalm, helm, lm
-Please create a short sentence using all these words: napalm, overwhelm, palm
-Please create a short sentence using all these words: psalm, realm, telefilm
---- |
-@@@
+The balm of the calm elm tree on a warm summer night was so soothing it made one feel completely at ease.
+
+She embalmed the helm of the ship, taking extra care to seal it with lemon and lavender for an extra layer of protection against the ever-changing elements of the sea.
+
+His enemies were overwhelmed by the devastating power of napalm as it scorched their palms and burned their hope to a crisp.
+
+The king of the realm sang a psalm from his throne, and as he sang it was magically telefilmed so that all of his subjects could see and feel the passionate emotion in his voice.

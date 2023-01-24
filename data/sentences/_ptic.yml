@@ -1,9 +1,11 @@
 source: _ptic.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: antiseptic, apocalyptic, aseptic
-Please create a short sentence using all these words: cryptic, ecliptic, elliptic
-Please create a short sentence using all these words: epileptic, optic, peptic
-Please create a short sentence using all these words: septic, skeptic, synoptic
---- |
-@@@
+The antiseptic, aseptic future promised by some seemed almost apocalyptic as the people had no idea what the world would look like after such an enormous change.
+
+Many gazed up at the night sky in awe, seemingly solving the cryptic puzzle of the ecliptic path of the elliptic stars.
+
+It was a medical breakthrough to discover that the epileptic seizures could be reduced by treating the optic and peptic areas of the patient's nervous system.
+
+Although some remained septic and skeptic toward the idea of a synoptic solution to the problem, it soon became evident that the approach was effective.

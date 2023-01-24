@@ -1,9 +1,11 @@
 source: _some.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: awesome, bothersome, burdensome, chromosome, cumbersome
-Please create a short sentence using all these words: fearsome, foursome, gruesome, irksome, loathsome
-Please create a short sentence using all these words: lonesome, quarrelsome, ribosome, threesome, tiresome
-Please create a short sentence using all these words: troublesome, wearisome, wholesome, winsome, worrisome
---- |
-@@@
+Although it is often burdensome to do the right thing, it can be awesome to see how it can make a difference in the world, like when understanding how genes and chromosomes work together to provide life-saving benefits that would otherwise be bothersome and cumbersome.
+
+When faced with a fearsome situation that seemed irksome and loathsome, it took immense courage for the foursome to muster the strength to push through and tackle the gruesome tasks ahead.
+
+Although working together as a threesome or a foursome is not always the easiest thing to do, it can be far less lonesome and tiresome than trying to tackle a difficult task on one's own; further, it can help avoid quarrelsome situations when everyone cooperates towards a common goal, like helping create a ribosome molecule.
+
+Although it may seem troublesome to strive for a wholesome lifestyle, it can be worth the effort in the long run, not only to reap the rewards of being winsome and worry-free, but also to avoid the wearisome feelings that come with leading a troublesome life.

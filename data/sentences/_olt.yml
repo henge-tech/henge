@@ -1,9 +1,11 @@
 source: _olt.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bolt, colt
-Please create a short sentence using all these words: dolt, jolt
-Please create a short sentence using all these words: molt, revolt
-Please create a short sentence using all these words: thunderbolt, volt
---- |
-@@@
+A plucky colt bounded through the field, his hooves pounding the ground like a bolt of lightning, the force of his stride propelling him forward.
+
+The poor dolt was jolted from his slumber by a loud crash of thunder, his heart racing as he tried to comprehend the suddenness of the shock.
+
+The birds had moulted their feathers, revealing their true colours as they revolted against the oppressive sky, their wings beating a defiant tattoo in the air.
+
+The sky shattered as a thunderbolt split the night, a deafening roar and a bright flash of light that sent a surge of volts across the land, a warning to all who dared defy nature's might.

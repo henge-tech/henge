@@ -1,9 +1,11 @@
 source: _rl.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: burl, curl, earl
-Please create a short sentence using all these words: furl, hurl, marl
-Please create a short sentence using all these words: purl, snarl, swirl
-Please create a short sentence using all these words: twirl, whirl, whorl
---- |
-@@@
+The burl, curl, and earl of the trees swayed gently in the wind, creating a mesmerizing swirl of movement that caught the attention of passers-by and invited them to stand in awe of their natural beauty.
+
+The marl, furl, and hurl of the ocean contrasted with the sand, as the frothy waves crashed against the shore, creating a cacophony of sound and motion that soothed the soul and beckoned one to quench their sense of adventure.
+
+The purl, snarl, and swirl of the river ran swiftly downstream, its surface glinting in the sunlight like a diamond and its currents carrying life-giving nutrients to the wildlife that depended on its nourishment.
+
+The twirl, whirl, and whorl of the autumn leaves created a kaleidoscope of colors that mesmerized onlookers, creating a warm and inviting atmosphere that beckoned one to bask in the glory of the season.

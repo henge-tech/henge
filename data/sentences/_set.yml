@@ -1,9 +1,11 @@
 source: _set.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: asset, basset, beset, closet
-Please create a short sentence using all these words: gusset, inset, marmoset, offset
-Please create a short sentence using all these words: onset, outset, posset, russet
-Please create a short sentence using all these words: somerset, subset, typeset, upset
---- |
-@@@
+As the asset manager opened the closet, he discovered that not only was it beset with basset hounds, but also with a variety of unexpected treasures.
+
+The craftswoman inspected the gusset of the shirt with a marmoset perched on her shoulder, ensuring that it was precisely inset and offset before she proceeded to sew it.
+
+From the onset, she set out to make a russet-colored posset that would be the perfect addition to their evening meal and would provide a sweet outset to their day.
+
+While typesetting the novel, the editor was frustrated to discover that a subset of the words had been accidentally upset, requiring her to start over with a somerset of new type.

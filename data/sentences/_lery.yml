@@ -1,9 +1,11 @@
 source: _lery.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: artillery, celery, chancellery
-Please create a short sentence using all these words: cutlery, distillery, foolery
-Please create a short sentence using all these words: gallery, jugglery, raillery
-Please create a short sentence using all these words: saddlery, scullery, tomfoolery
---- |
-@@@
+After the artillery had finished bombarding the enemy's chancellery, the victorious soldiers celebrated by crunching on freshly harvested celery stalks as a symbol of their triumph.
+
+As soon as the cutlery was removed from the long banquet table, the lively group of revelers stumbled off to the distillery to continue the evening's foolery.
+
+The gallery was filled with awe as the jugglery performed by the master entertainer provoked laughter and spirited raillery.
+
+After the horses were fitted with the best saddlery, the jokers and pranksters continued their tomfoolery in the scullery while the cooks prepared the evening meal.

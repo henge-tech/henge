@@ -1,9 +1,11 @@
 source: _oot.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: afoot, beetroot, cheroot, coot
-Please create a short sentence using all these words: hoot, loot, moot, offshoot
-Please create a short sentence using all these words: overshoot, scoot, soot, taproot
-Please create a short sentence using all these words: tenderfoot, toot, underfoot, uproot
---- |
-@@@
+While out afoot, I spied a coot sitting on the bank of a small pond, eating a beetroot and smoking a cheroot.
+
+After a long hoot from an owl in the night, I followed a path leading to a clearing where a moot was taking place about a new offshoot of a nearby forest.
+
+When I took the wrong turn and overshot my destination, I quickly scooted back to the correct path and noticed that strange black soot had been collecting around the taproot of a nearby tree.
+
+As a tenderfoot explorer, I was cautious of every toot and step I took, making sure to look underfoot before uprooting any weeds in my path.

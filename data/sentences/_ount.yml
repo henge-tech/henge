@@ -1,9 +1,11 @@
 source: _ount.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: account, amount, count
-Please create a short sentence using all these words: discount, dismount, fount
-Please create a short sentence using all these words: mount, paramount, recount
-Please create a short sentence using all these words: remount, surmount, tantamount
---- |
-@@@
+To accurately account for the amount that needs to be counted, it is important to make sure you double-check your records to ensure you don't miss any important details.
+
+To take full advantage of the discount, it is important to dismount from your horse, and carefully inspect the area for any founts of knowledge that could help you save money.
+
+When faced with a decision of great importance, it is paramount to mount your courage, recount all the facts, and make the best choice for all involved.
+
+To overcome a difficult obstacle and reach your goal, it is necessary to remount your energy and find the strength to surmount all that stands in your way and achieve your objectives, which is tantamount to success.

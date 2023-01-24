@@ -1,9 +1,11 @@
 source: _reen.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: careen, evergreen, offscreen
-Please create a short sentence using all these words: onscreen, preen, screen
-Please create a short sentence using all these words: silkscreen, sunscreen, tureen
-Please create a short sentence using all these words: widescreen, windscreen, wintergreen
---- |
-@@@
+The careening, evergreen carriage flew offscreen in a flurry of sparks and clanking metal, quickly disappearing into the night sky.
+
+The actress preened onscreen, throwing a dazzling smile and striking a picture-perfect pose for the cameras on the massive screen that filled the theater.
+
+She watched carefully as the delicate silkscreen was covered with a thin layer of sunscreen in order to protect it from the heat of the tureen filled with hot soup.
+
+As the snow accumulated outside, the children watched in awe as the magical wintergreen landscape unfurled on the large widescreen, while the windscreen kept them cozy and warm inside.

@@ -1,9 +1,11 @@
 source: _rrow.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: barrow, borrow, burrow
-Please create a short sentence using all these words: farrow, furrow, harrow
-Please create a short sentence using all these words: marrow, morrow, narrow
-Please create a short sentence using all these words: sorrow, sparrow, yarrow
---- |
-@@@
+When you asked to borrow a barrow from your neighbor, you were surprised to find he had already burrowed it away for safe-keeping.
+
+The farmer plowed the field with a harrow, creating deep furrows and providing a perfect environment for his farrow of pigs to explore and thrive.
+
+After searching through the narrow passageway, they stumbled across a secret chamber that contained a mysterious marrow that foretold the events of the morrow.
+
+When the young girl heard the sorrowful song of a sparrow perched in the yarrow, she was overwhelmed with a wave of emotion that filled her heart.

@@ -1,9 +1,11 @@
 source: _nize.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: antagonize, colonize, demonize
-Please create a short sentence using all these words: galvanize, harmonize, immunize
-Please create a short sentence using all these words: modernize, organize, patronize
-Please create a short sentence using all these words: revolutionize, scrutinize, synchronize
---- |
-@@@
+The imperialist, colonialist mindset of some nations has long sought to demonize, colonize and thereby antagonize indigenous cultures around the world.
+
+Vaccination is a powerful tool that can immunize us against many diseases, while media and public opinion can galvanize action on social issues and help to harmonize different perspectives.
+
+In today's increasingly competitive world, it is essential to modernize our strategies and organize our resources in order to avoid being patronized or left behind.
+
+Through the power of technology, processes once deemed impossible can now be revolutionized, scrutinized and synchronized to create more efficient solutions.

@@ -1,9 +1,11 @@
 source: _pace.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aerospace, airspace, apace
-Please create a short sentence using all these words: backspace, carapace, crawlspace
-Please create a short sentence using all these words: cyberspace, hyperspace, outpace
-Please create a short sentence using all these words: pace, subspace, workspace
---- |
-@@@
+In the aerospace industry, airplanes and other aircrafts fly rapidly through the airspace at an apace that is both efficient and awe-inspiring.
+
+As the little mouse scurried through the crawlspace, it used its strong carapace to push against the walls, occasionally pressing its backspace to move in a different direction.
+
+The new technology allowed people to explore cyberspace and hyperspace at an incredible speed, out pacing even the most advanced super computers.
+
+In the modern workspace, people strive to keep up a consistent pace while utilizing subspace technology to increase productivity and efficiency.

@@ -1,9 +1,11 @@
 source: _mber.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: amber, antechamber, beachcomber, camber, chamber
-Please create a short sentence using all these words: clamber, comber, cucumber, cumber, dismember
-Please create a short sentence using all these words: ember, encumber, limber, lumber, outnumber
-Please create a short sentence using all these words: plumber, slumber, somber, timber, umber
---- |
-@@@
+The amber-hued antechamber was bustling with beachcombers searching diligently for shells, while the camber roof of the chamber provided a perfect palm-shaded canopy to relax beneath.
+
+As the clambering comber weaved through the cucumber green waters of the sea, she could feel the cumber of all that she carried, including the memory she would painfully dismember.
+
+The ember-filled sky was aglow as the encumbering load became too heavy to limber up with, until the lumbering ox outnumbers the humans' strength and could take on the burden.
+
+The somber night had descended as the plumber worked diligently to fix the leaky pipe, while the slumbering inhabitants were unaware of the timber creaking beneath their feet and the umber moonlight enveloping them.

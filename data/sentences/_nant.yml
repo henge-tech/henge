@@ -1,9 +1,11 @@
 source: _nant.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: complainant, consonant, covenant, determinant, dissonant
-Please create a short sentence using all these words: dominant, indignant, lieutenant, malignant, pennant
-Please create a short sentence using all these words: poignant, predominant, pregnant, recombinant, remnant
-Please create a short sentence using all these words: repugnant, resonant, ruminant, stagnant, tenant
---- |
-@@@
+The complainant had made a covenant to be a determinant factor in bringing harmony to the dissonant situation, but there was still something consonant with the disagreement they were having.
+
+The lieutenant was malignant and indignant at the thought of being subservient to the dominant leader, but he could not ignore the pennant flying in the sky which symbolically represented his loyalty.
+
+The poignant reminder of the past was a remnant of the predominant effects of a recombinant virus that had left many pregnant women in its wake.
+
+The tenant felt repugnant at the thought of staying in a stagnant and ruminant environment, when all he wanted was something resonant with the beauty of nature.

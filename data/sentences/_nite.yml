@@ -1,9 +1,11 @@
 source: _nite.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aconite, ammonite, definite
-Please create a short sentence using all these words: finite, granite, ignite
-Please create a short sentence using all these words: indefinite, infinite, lignite
-Please create a short sentence using all these words: nite, reunite, unite
---- |
-@@@
+After a definite search of the rocky terrain, they discovered a hidden aconite covered by an ancient ammonite fossil, providing an unequivocal sign that life had indeed existed in this place long ago.
+
+The campers were determined to ignite the fire and heat their dinner, so they used pieces of finite granite rocks to focus the heat before striking a match and reveling in their success.
+
+The scientists were amazed to find an indefinite number of lignite deposits beneath the surface, leading them to believe that the world has an infinite power to surprise us.
+
+Although the two families had been divided for years, they were finally reunited on this special nite, and their bond of love showed that sometimes it's best to just unite.

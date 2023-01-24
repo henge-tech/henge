@@ -1,9 +1,11 @@
 source: _mony.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: acrimony, alimony, antimony
-Please create a short sentence using all these words: ceremony, disharmony, harmony
-Please create a short sentence using all these words: hegemony, lemony, matrimony
-Please create a short sentence using all these words: parsimony, patrimony, testimony
---- |
-@@@
+An acrimonious argument erupted between the former couple over alimony and antimony, causing a rift that was difficult to reconcile.
+
+After months of disharmony, the couple finally celebrated their union at a beautiful ceremony designed to bring harmony and joy back into their lives.
+
+The bride and groom declared their commitment to each other in a ceremony of matrimony to demonstrate the hegemony of love over all other forces.
+
+In his testimony before the court, the plaintiff argued parsimoniously for the return of his patrimony to demonstrate the injustice of his situation.

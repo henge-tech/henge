@@ -1,9 +1,11 @@
 source: _ough.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: borough, bough, dough
-Please create a short sentence using all these words: furlough, lough, rough
-Please create a short sentence using all these words: slough, sourdough, thorough
-Please create a short sentence using all these words: though, through, trough
---- |
-@@@
+An enterprising baker in a small borough kneaded his dough in the bough of an old maple tree, dreaming of the delicious baked goods he would craft to delight the townspeople.
+
+As the weary soldier took his final furlough before enlisting in the army, he ventured to the lough shore and felt the rough winds of change blowing gently against his face.
+
+The young artisan stirred the sourdough with enthusiasm, ensuring that it was mixed thoroughly before baking it in the oven at the edge of the slough; the end result was a perfect loaf of bread.
+
+Though he had only a short amount of time, he managed to make it through the trickiest of tasks and fill the trough with food, ready for the animals to enjoy.

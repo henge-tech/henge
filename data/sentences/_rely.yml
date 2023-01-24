@@ -1,9 +1,11 @@
 source: _rely.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: austerely, barely, bizarrely, demurely
-Please create a short sentence using all these words: leisurely, merely, prematurely, purely
-Please create a short sentence using all these words: rarely, rely, securely, severely
-Please create a short sentence using all these words: sincerely, sorely, squarely, surely
---- |
-@@@
+The woman walked demurely and austerely through the bizarrely decorated room, barely able to contain her excitement.
+
+He leisurely strolled through the park, merely admiring the beauty around him, unaware of the storm that was coming prematurely and purely to disrupt his peace.
+
+She rarely relied on anyone for security, severely underestimating her worth and believing she could only rely on herself to remain securely afloat.
+
+He looked squarely at the person standing before him and spoke sincerely, even though it pained him sorely to do so, as he was sure he would lose in the end.

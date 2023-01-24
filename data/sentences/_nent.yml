@@ -1,9 +1,11 @@
 source: _nent.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: abstinent, eminent, exponent
-Please create a short sentence using all these words: immanent, imminent, impertinent
-Please create a short sentence using all these words: incontinent, pertinent, preeminent
-Please create a short sentence using all these words: prominent, proponent, subcontinent
---- |
-@@@
+An eminent exponent of abstinent behavior, due to their conviction and discipline, was respected by all those in their community.
+
+Although some may have found it impertinent, the immanent and imminent arrival of an important dignitary brought an immense sense of anticipation to the people.
+
+The preeminent leader, renowned for their impeccably pertinent actions and incontinent dedication to their cause, commanded the respect of all.
+
+The prominent proponent of the subcontinent worked tirelessly to promote its growth and development, believing in the potential of its people.

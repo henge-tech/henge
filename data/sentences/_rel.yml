@@ -1,9 +1,11 @@
 source: _rel.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: cockerel, doggerel, kestrel
-Please create a short sentence using all these words: laurel, mackerel, mandrel
-Please create a short sentence using all these words: minstrel, mongrel, quarrel
-Please create a short sentence using all these words: scoundrel, sorrel, squirrel
---- |
-@@@
+The musical cacophony of the cockerel, doggerel and kestrel filled the air, and magical melodies seemed to soar like birds of prey, captivating all those who heard their joyful sound.
+
+As he plucked the leaves from a budding laurel, the salty smell of mackerel wafted on the breeze and the sound of a mandrel spinning its metal into delicate shapes added to the perfect scene.
+
+The melodious minstrel sang his song, accompanied by a playful mongrel, while a quarrel erupted nearby, providing a discordant counterpoint to the beautiful music.
+
+The scoundrel made his way through the woods, trailed by a sorrel horse and a curious squirrel, who followed from a safe distance and watched intently as the drama unfolded.

@@ -1,9 +1,11 @@
 source: _mist.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: agronomist, alarmist, alchemist
-Please create a short sentence using all these words: chemist, conformist, economist
-Please create a short sentence using all these words: extremist, nonconformist, optimist
-Please create a short sentence using all these words: pessimist, psalmist, reformist
---- |
-@@@
+When the agronomist raised the alarmist of a potential blight on their crop, the alchemist raced to find a solution, hoping their alchemical prowess could avert a looming disaster.
+
+The economist was worried that the conformist views of the chemist would stifle economic growth, and so advocated for a more open-minded approach to economic development.
+
+The optimist believed that the nonconformist views of the extremist could, if taken with a grain of salt, bring about positive change, and help move society forward.
+
+The reformist saw the pessimist outlook of the psalmist as an opportunity to push for meaningful change, and so they set out to try and craft a brighter tomorrow.

@@ -1,9 +1,11 @@
 source: _rdly.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: absurdly, awkwardly, cowardly
-Please create a short sentence using all these words: dastardly, haphazardly, hardly
-Please create a short sentence using all these words: inwardly, lordly, outwardly
-Please create a short sentence using all these words: straightforwardly, thirdly, weirdly
---- |
-@@@
+The cowardly man was absurdly and awkwardly running away from the situation, not wanting to face the consequences of his actions.
+
+The dastardly villain acted haphazardly and hardly, leaving no trace of his evil deeds behind him.
+
+He presented himself lordly outwardly while inwardly keeping his self-doubts and insecurities hidden to the world.
+
+Firstly, he did it straightforwardly, then secondly he acted weirdly, and finally thirdly he achieved his goal.

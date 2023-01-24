@@ -1,9 +1,11 @@
 source: _lash.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: backlash, backslash, clash
-Please create a short sentence using all these words: eyelash, flash, goulash
-Please create a short sentence using all these words: lash, newsflash, plash
-Please create a short sentence using all these words: slash, splash, whiplash
---- |
-@@@
+There was a huge backlash when the two teams clashed, with the backslash of insults exchanged on both sides making the situation even more explosive.
+
+As Jenny walked by, her long eyelashes gave a subtle flash in the sun, and the smell of goulash wafting from the nearby cafe made her mouth water.
+
+The lash of the whip against her skin sent a newsflash through her body as droplets of plash ran down her face from the relentless heat.
+
+She felt the sharp slash of the whip against her body and heard the splash of the water droplets above her, followed by the intense whiplash of pain.

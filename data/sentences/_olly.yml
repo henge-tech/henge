@@ -1,9 +1,11 @@
 source: _olly.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: brolly, dolly
-Please create a short sentence using all these words: folly, holly
-Please create a short sentence using all these words: jolly, lolly
-Please create a short sentence using all these words: wholly, woolly
---- |
-@@@
+Little Dolly was walking in the park with her beloved brolly on a rainy day, creating wonderful memories that would last forever.
+
+As she walked through the forest, Holly was reminded of the folly of her decisions as she admired the majestic holly trees surrounding her.
+
+The jolly old man in the candy shop was always willing to offer lollies to his young customers, making their day a little brighter and more joyful.
+
+Woolly socks and a warm scarf were the perfect way for children to keep their feet and necks from getting cold, and they felt wholly content wearing them.

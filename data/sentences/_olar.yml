@@ -1,9 +1,11 @@
 source: _olar.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: alveolar, bipolar
-Please create a short sentence using all these words: circumpolar, extrasolar
-Please create a short sentence using all these words: molar, polar
-Please create a short sentence using all these words: scholar, solar
---- |
-@@@
+The neurons in the alveolar region of the brain are especially important for stabilizing our behavior, as they are responsible for forming the bipolar connections required for complex thought.
+
+As telescopes improved, astronomers were able to observe celestial objects that were circumpolar, or visible from any point on Earth, as well as extrasolar planets that existed in distant solar systems far beyond our own.
+
+The molars are highly important for chewing food, as they help break down the tough fibers of plants or meat into small pieces that can be digested more easily; at the same time, the polar nature of their structure gives them an added adhesive quality to help hold larger chunks together until they are ready to be swallowed.
+
+Despite its vastness, the solar system maintains a balance between all of its components, and the dedicated efforts of scholars are needed to continue exploring and understanding this delicate balance so that our planet may stay safe and productive.

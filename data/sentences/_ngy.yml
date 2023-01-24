@@ -1,9 +1,11 @@
 source: _ngy.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: clingy, dingy, grungy
-Please create a short sentence using all these words: mangy, rangy, spongy
-Please create a short sentence using all these words: springy, stingy, stringy
-Please create a short sentence using all these words: tangy, thingy, zingy
---- |
-@@@
+The clingy, dingy and grungy old house had walls that seemed to suck the life out of everything which approached them, leaving behind a desolate and depressing atmosphere.
+
+The mangy, rangy and spongy branches of the trees sagged with age as if they had given in to the weight of all the secrets they witnessed, their leaves whispering in the wind about a time long gone.
+
+The springy, stingy and stringy leaves crunched beneath my feet, releasing an alluring aroma of nostalgia into the air, reminding me of days gone by filled with joy and laughter.
+
+The tangy, thingy and zingy flavors of the fruits exploded in my mouth, transporting me to a new world of exotic sights, sounds and tastes, allowing my senses to be tantalized by the vibrant colors and aromas of the unknown.

@@ -1,9 +1,11 @@
 source: _nery.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: cannery, chicanery, confectionery, deanery
-Please create a short sentence using all these words: finery, greenery, gunnery, joinery
-Please create a short sentence using all these words: machinery, millinery, nunnery, ornery
-Please create a short sentence using all these words: refinery, scenery, tannery, winery
---- |
-@@@
+Last month, the local deanery was bewildered to find that the nearby cannery had been shut down due to extensive chicanery, leaving the town without its beloved confectionery.
+
+The joinery was a sight to behold, as its intricate finery combined perfectly with the lush greenery of the surrounding countryside; however, nearby the sound of gunnery arms tests echoed over the horizon.
+
+The nunnery had difficulty maintaining their machinery due to the ornery demeanor of the new apprentice, who seemed far more interested in browsing the millinery than doing any real work.
+
+The scenery of the coast was breathtaking, with its glittering refinery, lush winery fields, and bustling tannery all adding to the charm of the area.

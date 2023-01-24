@@ -1,9 +1,11 @@
 source: _rone.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: chaperone, crone
-Please create a short sentence using all these words: dethrone, drone
-Please create a short sentence using all these words: krone, prone
-Please create a short sentence using all these words: testosterone, throne
---- |
-@@@
+The elderly crone with her gray hair and stooped back acted as a chaperone for the young couple, leading them through the night with her wise and dutiful guidance.
+
+The monotonous buzzing of the drone heralded the overthrow of the king as it flew circles around the castle, foreshadowing his dethronement with its relentless and determined presence.
+
+The krone lay prone on the cushion, a shining golden reminder of the wealth and power that it symbolized, yet at the same time a frail and vulnerable artifact.
+
+His testosterone-fueled bravado exuded from his every move, leading him up to the throne of power that he had so diligently sought out and dreamed about for years.

@@ -1,9 +1,11 @@
 source: _sage.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: corsage, dosage, dressage
-Please create a short sentence using all these words: envisage, massage, message
-Please create a short sentence using all these words: passage, presage, sage
-Please create a short sentence using all these words: sausage, usage, visage
---- |
-@@@
+At the gala, the rider of the horse in the dressage competition wore a beautiful corsage as a reward for his astounding dosage of skill and grace.
+
+She had a vision of what her future could be like and did everything she could to ensure she achieved it; she envisaged the best version of herself and gave herself a massage each day while sending out a positive message to the universe.
+
+As the prophetess walked through the passage in the palace, she shared her sage advice that seemed to presage something extraordinary around the corner.
+
+The man in the butcher shop was an expert at selecting the perfect sausage for any recipe; he knew the correct usage of each variety and could judge the quality by simply looking at the visage of the meat.

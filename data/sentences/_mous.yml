@@ -1,9 +1,11 @@
 source: _mous.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: autonomous, blasphemous, endogamous
-Please create a short sentence using all these words: eponymous, infamous, magnanimous
-Please create a short sentence using all these words: monogamous, polygamous, posthumous
-Please create a short sentence using all these words: synonymous, unanimous, venomous
---- |
-@@@
+Autonomous, yet blasphemous, behavior often results in endogamous relationships that are impossible to escape from, leaving the participants feeling trapped and helpless.
+
+Though eponymous and infamous in nature, some people possess a magnanimous amount of generosity and goodwill towards people from all walks of life.
+
+Though monogamous and polygamous relationships are common, posthumous unions can occur as well when two people who were never able to be together in life, come together in death.
+
+Synonymous with danger, venomous creatures can often evoke a unanimous sense of fear from their observers, yet many brave souls are able to look upon them with admiration.

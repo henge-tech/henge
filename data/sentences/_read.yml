@@ -1,9 +1,11 @@
 source: _read.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bedspread, dread, gingerbread
-Please create a short sentence using all these words: misread, proofread, retread
-Please create a short sentence using all these words: shortbread, spread, thread
-Please create a short sentence using all these words: tread, unread, widespread
---- |
-@@@
+I lay in bed with a feeling of dread, unable to rest as the startling pattern of my bedspread reminded me of a scene on a gingerbread house.
+
+I had misread the document, so I had to proofread it again and retread the detailed instructions to make sure I hadn't missed anything.
+
+She lovingly spooned the creamy, sweet shortbread onto a plate, spreading it out carefully with a thread of chocolate carefully woven into the center.
+
+Despite being widely known, the facts surrounding the issue remained tread upon and unread by the general public, leaving its effects to become widespread and ignored.

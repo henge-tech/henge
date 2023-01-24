@@ -1,9 +1,11 @@
 source: _tail.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: cocktail, cottontail, curtail
-Please create a short sentence using all these words: dovetail, entail, foxtail
-Please create a short sentence using all these words: pigtail, pintail, ponytail
-Please create a short sentence using all these words: retail, swallowtail, wagtail
---- |
-@@@
+After a long day of work, my friends and I decided to relax with a few cocktails and reminisce on the good old days when the cottontails roamed the garden and no worries could curtail our joy and laughter.
+
+The intricate skill of crafting a perfect dovetail joint entailed a tremendous amount of patience, and it brought out the craftsmanship of the artisan, who was able to seamlessly bring the foxtail accoutrements together with precision and finesse.
+
+As the girl brushed her long auburn hair, she meticulously tied it up into two pigtails and a single long ponytail before slipping on her favorite hat. She proceeded to carefully check her reflection in the mirror to make sure that even the subtle pintail braids blended in with the rest of her hairdo.
+
+On a warm summer day, the bustling retail district was alive with people taking in their favorite window displays, while a swallowtail butterfly fluttered among the bright colored blossoms and a cheerful wagtail bobbed its head to the rhythm of the street music.

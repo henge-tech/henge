@@ -1,9 +1,11 @@
 source: _so.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: also, calypso, espresso
-Please create a short sentence using all these words: fatso, lasso, mafioso
-Please create a short sentence using all these words: peso, proviso, torso
-Please create a short sentence using all these words: verso, virtuoso, whoso
---- |
-@@@
+Also, like a calypso melody, the bitter-sweet espresso spread its flavour over the city, creating an unforgettable experience for all who tasted it.
+
+The fatso tried to lasso the mafioso but was too slow, missing his target and only getting a handful of air instead.
+
+The peso was a proviso for the purchase of the torso, which fortunately was not as expensive as expected, enabling the buyer to make a good deal.
+
+Whosoever had the talent and passion to master the verso could be considered a virtuoso and receive recognition for their amazing artistry.

@@ -1,9 +1,11 @@
 source: _rch.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: besmirch, birch, blowtorch, larch
-Please create a short sentence using all these words: lurch, march, matriarch, monarch
-Please create a short sentence using all these words: oligarch, parch, patriarch, perch
-Please create a short sentence using all these words: porch, scorch, starch, torch
---- |
-@@@
+The larch tree was besmirched by the powerful blowtorch, leaving its soft, white birch-like bark charred and blackened.
+
+The march of the matriarch at the lead of the monarch seemed to lurch forward as they advanced towards their destination.
+
+The patriarch perched on his throne, high above the other oligarchs, as the parched desert sand shifted beneath his feet.
+
+The porch was illuminated by a torch held aloft, as the scorching summer sun threatened to starch the fabric of the curtains.

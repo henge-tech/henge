@@ -1,9 +1,11 @@
 source: _sque.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: arabesque, basque, bisque
-Please create a short sentence using all these words: brusque, burlesque, grotesque
-Please create a short sentence using all these words: masque, mosque, picaresque
-Please create a short sentence using all these words: picturesque, risque, statuesque
---- |
-@@@
+The intricate arabesque patterns on the beautiful basque dress flowed into a delicate bisque colored swirl, creating a stunningly sophisticated visual effect.
+
+She had a brusque attitude, yet her burlesque act was anything but; it was so outrageously grotesque that the audience couldn't help but be mesmerized.
+
+They all gathered together in the masque, donned their traditional garb, and made their way to the grand mosque; the whole scene was like something out of a picaresque novel.
+
+The picturesque landscape was dotted with statuesque figures, each striking a risque pose that hinted at the hidden secrets lurking beneath the beauty of the seemingly perfect vista.

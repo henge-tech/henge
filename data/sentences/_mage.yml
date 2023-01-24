@@ -1,9 +1,11 @@
 source: _mage.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: afterimage, damage
-Please create a short sentence using all these words: homage, pilgrimage
-Please create a short sentence using all these words: plumage, rummage
-Please create a short sentence using all these words: scrimmage, scrummage
---- |
-@@@
+After the bomb went off, a bright and intense afterimage of the blast lingered in the air, leaving behind a wake of destruction and damage that would take years to repair.
+
+On a journey of self-discovery and spiritual growth, I paid homage to the great figures of the past by undertaking a pilgrimage to the holy sites they cherished.
+
+Flaunting its captivating plumage, the bird flew from branch to branch, rummaging through the foliage for a salty snack.
+
+As the scrimmage intensified, players from both sides scrummaged for the ball, each team striving to be the first to gain possession and score a goal.

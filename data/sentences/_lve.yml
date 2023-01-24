@@ -1,9 +1,11 @@
 source: _lve.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: absolve, bivalve, calve, delve
-Please create a short sentence using all these words: devolve, dissolve, evolve, halve
-Please create a short sentence using all these words: helve, involve, resolve, revolve
-Please create a short sentence using all these words: salve, shelve, solve, valve
---- |
-@@@
+After hours of delving into the mystery, I was finally able to absolve the bivalve of any guilt and calve a solution that seemed to please everyone.
+
+After much deliberation, it was decided that the best course of action was to devolve the decision-making process and halve any associated costs, while simultaneously allowing the situation to dissolve and evolve into something more suitable.
+
+The team worked diligently to involve all of the necessary resources to helve the issue and eventually managed to resolve it by revolving through multiple options before finally finding a successful solution.
+
+After much trial and error, we managed to salve the issue by finding a valve to shut off the water, while also shelving the problem until we could find a more permanent solution that would ultimately solve the dilemma.

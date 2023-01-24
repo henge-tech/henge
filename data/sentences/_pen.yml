@@ -1,9 +1,11 @@
 source: _pen.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aspen, bullpen, cheapen
-Please create a short sentence using all these words: dampen, hempen, lumpen
-Please create a short sentence using all these words: misshapen, pigpen, playpen
-Please create a short sentence using all these words: reopen, ripen, sharpen
---- |
-@@@
+A cheapen aspen fell into the bullpen and stirred up a commotion, as its presence certainly did not belong there and was clearly out of place.
+
+The lumpen hempen cloth had been dampened over and over, yet it still retained its vigor and its resilience, a testament to its strength of construction and quality.
+
+As the misshapen pigpen was finally transformed into a beautiful playpen, it felt like the light of hope had cascaded down and illuminated the area with its warmth and joy.
+
+As the fruits ripened to perfection, the farmer was ready to reopen his farm stand, and with a few deft strokes of a knife, he sharpened his produce to perfection.

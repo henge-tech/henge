@@ -1,9 +1,11 @@
 source: _rip.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: airstrip, drip, filmstrip
-Please create a short sentence using all these words: grip, hairgrip, handgrip
-Please create a short sentence using all these words: outstrip, RIP, roundtrip
-Please create a short sentence using all these words: scrip, strip, trip
---- |
-@@@
+A long line of cars waited patiently at the airstrip while the morning dew dripped off a nearby filmstrip, showing off its intricate details in the early light.
+
+She nervously gripped the hairgrip in her hand, feeling her palms start to sweat as her fingers tightened around the small handgrip, as she prepared for her big moment.
+
+He was determined to outstrip the competition; he had worked too hard and gone on too many roundtrips to give up now. RIP, to his old way of life.
+
+She was feeling confident as she took her scrip and headed to the checkout, carefully counting out the right amount of money before grabbing the last strip of tickets for her upcoming trip.

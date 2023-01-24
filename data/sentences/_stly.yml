@@ -1,9 +1,11 @@
 source: _stly.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bristly, costly, earnestly
-Please create a short sentence using all these words: ghastly, ghostly, honestly
-Please create a short sentence using all these words: justly, modestly, priestly
-Please create a short sentence using all these words: robustly, unjustly, vastly
---- |
-@@@
+The expensive and bristly brush she earnestly used to groom her hair shone in the light of the setting sun, reminding her of her hard work and dedication.
+
+Staring out of the window into the dark night, she saw a ghastly figure shrouded in a ghostly mist, revealing to her the truth of what she had honestly feared.
+
+In his priestly robes, the just and modest man stood solemnly before the congregation, delivering a sermon about justice, humility, and faith.
+
+The vast and robust empire was spreading its power unjustly across the world, leaving destruction in its wake and misery in the hearts of those it conquered.

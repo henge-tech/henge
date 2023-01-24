@@ -1,9 +1,11 @@
 source: _pel.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: carpel, chapel, compel
-Please create a short sentence using all these words: dispel, expel, gospel
-Please create a short sentence using all these words: impel, lapel, propel
-Please create a short sentence using all these words: rappel, repel, scalpel
---- |
-@@@
+The Old Chapel was a sacred building, where people felt compelled to come and cast aside their worries, kneel in the carpels, and thank the Lord for their blessings.
+
+People who heard the gospel were filled with hope and had the courage to dispel their fears and expel any doubts they had about themselves.
+
+With great determination, she propelled herself forward and fastened her lapel, as an inner drive impeled her to pursue her dreams.
+
+During the mountaineering expedition, the climbers rappelled down the treacherous cliff, using their scalpel to repel anyone who might accidentally slip past them.

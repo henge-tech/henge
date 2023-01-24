@@ -1,9 +1,11 @@
 source: _llet.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: ballet, billet, bullet
-Please create a short sentence using all these words: fillet, gullet, mallet
-Please create a short sentence using all these words: millet, mullet, pallet
-Please create a short sentence using all these words: pellet, skillet, wallet
---- |
-@@@
+The graceful ballerina glided across the stage, her tutu twirling as she leaped gracefully billet by billet, each move made with the precision of an expertly fired bullet.
+
+With a deft flick of the wrist, the chef expertly filleted the fish from its frame and fed it into the gullet of a waiting diner, while the meat-tenderizer pounded the steaks with its mallet.
+
+The farmer loaded his wagon with a pallet of millet, mullet, and other grains, and the horses pulled it away as the sun set on a hard day's work.
+
+With a sizzle and a pop, the patty was dropped into the skillet and cooked to perfection, the bacon giving off a delicious smell as it hit the hot pellet of metal. Afterwards, he took out his wallet to pay for the new treat.

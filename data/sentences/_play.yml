@@ -1,9 +1,11 @@
 source: _play.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: airplay, downplay, foreplay
-Please create a short sentence using all these words: horseplay, interplay, outplay
-Please create a short sentence using all these words: overplay, screenplay, splay
-Please create a short sentence using all these words: swordplay, teleplay, wordplay
---- |
-@@@
+The romantic couple was eager to engage in the foreplay of their relationship, which included airplay of sweet words and downplay of trivial disagreements.
+
+The two sports-loving friends engaged in horseplay to warm up before their game, creating an interplay of laughter and skill that allowed one to outplay the other.
+
+The budding screenwriter was determined to achieve the perfect balance of action and dialogue in his screenplay, carefully constructing each scene to avoid overplaying or undercutting its impact and splaying out the storyline in a satisfactory way.
+
+The actor had a knack for swordplay that was well demonstrated in his latest teleplay, which was full of witty wordplay and exciting fight scenes.

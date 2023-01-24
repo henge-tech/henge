@@ -1,9 +1,11 @@
 source: _pa.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: cuppa, dopa, Europa
-Please create a short sentence using all these words: grandpa, grappa, kappa
-Please create a short sentence using all these words: pa, papa, poppa
-Please create a short sentence using all these words: pupa, spa, stupa
---- |
-@@@
+Cuppa dopa Europa, with its stunning sights, great culture, and delicious local cuisines, is the perfect destination for an unforgettable vacation.
+
+Grandpa enjoyed sipping his glass of grappa while sitting in the park, reflecting fondly on old memories and telling stories of times gone by to the curious kappa who had stopped by.
+
+Pa, papa and poppa enjoyed a leisurely day in the park, playing catch, roasting marshmallows over an open fire, and sharing stories about their life experiences.
+
+Taking a break from their daily routines, pupa and spa decided to have a relaxing day at the local stupa, soaking in its serene atmosphere and taking some time for mindfulness meditation.

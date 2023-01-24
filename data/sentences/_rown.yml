@@ -1,9 +1,11 @@
 source: _rown.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: brown, crown, drown
-Please create a short sentence using all these words: frown, grown, homegrown
-Please create a short sentence using all these words: ingrown, nutbrown, outgrown
-Please create a short sentence using all these words: overgrown, overthrown, thrown
---- |
-@@@
+The brown-haired princess was so desperate to reclaim her lost crown that she almost drowned in the raging river to find it.
+
+The young farmer's face broke into a proud frown as he looked on at his own homegrown crops, a stark contrast to the larger fields grown for corporate farms.
+
+Despite her best efforts, the adolescent girl couldn't escape the ingrown insecurity of feeling like she had already outgrown her small, nutbrown world.
+
+The forest was so overgrown that the rebellious group had no difficulty throwing off the oppressive dictator, overthrowing his rule in a single day.

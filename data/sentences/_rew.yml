@@ -1,9 +1,11 @@
 source: _rew.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aircrew, brew, crew
-Please create a short sentence using all these words: drew, grew, outgrew
-Please create a short sentence using all these words: overthrew, screw, shrew
-Please create a short sentence using all these words: threw, unscrew, withdrew
---- |
-@@@
+The daring aircrew set off to brew a special concoction with the help of their stalwart crew, hoping to create something that would make the sky even more beautiful.
+
+The precocious child drew all sorts of pictures, and as they grew up their artistic ability and ambition outgrew the paper's boundaries, leading them to create masterpieces beyond their wildest dreams.
+
+The daring revolution overthrew the tyrannical leader and replaced them with a wise and cunning screw, whose shrewd counsel helped ensure justice and prosperity for all people.
+
+After the heated debate, he threw up his hands in exasperation and unscrewed his locket, withdrawing his attention from the argument and allowing the other participants to move on.

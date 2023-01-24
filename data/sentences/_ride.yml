@@ -1,9 +1,11 @@
 source: _ride.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: astride, bestride, bride
-Please create a short sentence using all these words: chloride, deride, fluoride
-Please create a short sentence using all these words: hayride, hydride, joyride
-Please create a short sentence using all these words: nitride, override, stride
---- |
-@@@
+The bride proudly bestrode her handsome horse astride, symbolizing her newfound power and independence.
+
+Through the jeers and scorn, the brave chemist ignored the crowd's derision, proud to have discovered the previously unknown fluoride chloride compound.
+
+The happy couple embarked on a joyride in an old pickup truck, weaving through country roads while taking in the fresh air of the hayride and admiring the beauty of the hydride.
+
+The determined leader strode confidently forward, overriding any obstacles in his way with a single nitride of his sword as he propelled towards his destination.

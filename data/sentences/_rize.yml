@@ -1,9 +1,11 @@
 source: _rize.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: accessorize, authorize, characterize
-Please create a short sentence using all these words: familiarize, mesmerize, moisturize
-Please create a short sentence using all these words: plagiarize, popularize, summarize
-Please create a short sentence using all these words: terrorize, theorize, vaporize
---- |
-@@@
+She accessorized her outfit with sparkling jewelry to authorize her unique look, thus easily characterizing her as a fashionable trendsetter.
+
+After familiarizing himself with the exotic culture, he was mesmerized by its vibrant colors, as well as its delicately moisturized air.
+
+He plagiarized the works of others to popularize his own theories, but failed to adequately summarize their true meanings.
+
+He terrorized the masses with his radical theories, threatening to vaporize any who opposed him.

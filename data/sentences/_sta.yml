@@ -1,9 +1,11 @@
 source: _sta.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: barista, canasta
-Please create a short sentence using all these words: celesta, fashionista
-Please create a short sentence using all these words: fiesta, gangsta
-Please create a short sentence using all these words: siesta, vista
---- |
-@@@
+The barista was so skilled at the canasta card game that he could always win, no matter how experienced and challenging his opponents were.
+
+The celesta musician had a flair for fashion and always dressed like a fashionista, making her the envy of all her music peers.
+
+The fiesta was the talk of the town, and despite the gangsta tendencies of some of the partygoers, it was still a fun and memorable night for everyone.
+
+During the siesta hour, one could always find a quiet and peaceful vista looking out onto the city skyline to take a moment of rest and relaxation.

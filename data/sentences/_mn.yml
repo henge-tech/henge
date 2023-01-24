@@ -1,9 +1,11 @@
 source: _mn.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: autumn, column
-Please create a short sentence using all these words: condemn, contemn
-Please create a short sentence using all these words: damn, goddamn
-Please create a short sentence using all these words: hymn, solemn
---- |
-@@@
+As the autumn leaves rustled in the chilly breeze, I gazed up at the magnificent column towering above me, admiring its majestic beauty and grandeur.
+
+When someone deliberately and maliciously acts with the intention to harm, they should be condemned for their behavior, not contemned or excused.
+
+No matter the situation, swearing and cursing with words like "damn" and "goddamn" should be frowned upon and avoided, as it is never a socially acceptable way to express oneself.
+
+As the sun set, we all gathered together and sang a solemn hymn in unison, feeling a sense of peace and unity.

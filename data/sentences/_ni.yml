@@ -1,9 +1,11 @@
 source: _ni.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: alumni, bani, bikini
-Please create a short sentence using all these words: linguini, martini, pepperoni
-Please create a short sentence using all these words: rani, rigatoni, tahini
-Please create a short sentence using all these words: termini, timpani, zucchini
---- |
-@@@
+A great pride swelled in the hearts of all the university's alumni as they gathered on campus wearing their matching banis and bikinis for an annual summer reunion.
+
+Taking a break from a long day of studying Italian, the college students headed to the local pizzeria for some delicious linguini, martini, and pepperoni - all washed down with a cool glass of old-fashioned limoncello.
+
+As the proud aunt of the bride, Rani had toiled all morning preparing a special Middle Eastern feast for her family consisting of savory tahini and rigatoni topped with a drizzle of aromatic olive oil.
+
+The symphony orchestra's performance of Beethoven's Fifth Symphony was truly remarkable, with the crescendos and decrescendos of the timpani providing the perfect backdrop to the rustic melodies of the zucchini, termini, and other traditional Italian instruments.

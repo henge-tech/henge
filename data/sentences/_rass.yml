@@ -1,9 +1,11 @@
 source: _rass.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bluegrass, brass
-Please create a short sentence using all these words: crass, embarrass
-Please create a short sentence using all these words: grass, harass
-Please create a short sentence using all these words: morass, supergrass
---- |
-@@@
+The happy sound of bluegrass and brass filled the air as the sun set over the horizon, reminding us of how beautiful life could be.
+
+She was embarrassed to her core when her crass language was overheard by the wrong person, making the moment even more mortifying.
+
+The bullies harassed their victim, kicking up the grass and mocking their naive innocence, until a brave bystander stepped in to protect them.
+
+He had gotten himself caught in a moral morass, with no way out except to become a supergrass, betraying his friends and family for the sake of his own survival.

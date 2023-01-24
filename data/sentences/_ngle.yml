@@ -1,9 +1,11 @@
 source: _ngle.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: angle, bangle, bungle, dangle, dingle
-Please create a short sentence using all these words: entangle, ingle, jangle, jingle, mangle
-Please create a short sentence using all these words: mingle, quadrangle, shingle, spangle, strangle
-Please create a short sentence using all these words: tangle, tingle, untangle, wangle, wrangle
---- |
-@@@
+With the angle of her wrist, she bangle-dangled the dingle around her neck as she bungle-ed her way through the crowd, proud that she was able to masterfully dangle it without anyone ever noticing.
+
+She tried to entangle the jingle of bells with the ingle of her voice, but the combination of jangle and mangle of sound simply didn't work - it was too chaotic.
+
+She stood in the middle of the quadrangle, spinning around, singing and mingle-ing with all her friends as they strangled each other in laughter and rainbows of shingles and spangles flew around their heads.
+
+She tugged at the tangle of frayed rope in her hands, feeling the gentle tingle throughout her body as she focused on untangling it - a feat that seemed almost impossible to wangle or wrangle.

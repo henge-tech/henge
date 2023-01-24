@@ -1,9 +1,11 @@
 source: _lex.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: circumflex, complex, duplex
-Please create a short sentence using all these words: flex, googolplex, ilex
-Please create a short sentence using all these words: multiplex, perplex, reflex
-Please create a short sentence using all these words: simplex, telex, triplex
---- |
-@@@
+The circumflex was a complex structure, consisting of two components intertwined in an intricate, duplex fashion, which made it difficult to interpret and comprehend.
+
+The flex was an incredibly complex maneuver, requiring the precise alignment of a googolplex number of ilex to create a single motion.
+
+The multiplex was a perplexing dance that involved a reflexive series of steps, each one intricate and full of complexity, making it difficult to master.
+
+The simplex, telex, and triplex each represented a unique set of challenges: the first was straightforward yet time consuming; the second required careful attention to detail; and the third necessitated quick reflexes and an understanding of complex patterns.

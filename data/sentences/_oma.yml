@@ -1,9 +1,11 @@
 source: _oma.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aroma, carcinoma, coma
-Please create a short sentence using all these words: diploma, glaucoma, lymphoma
-Please create a short sentence using all these words: melanoma, myeloma, Oklahoma
-Please create a short sentence using all these words: sarcoma, stoma, trachoma
---- |
-@@@
+The invigorating aroma of freshly-baked apple pies was enough to bring her out of her carcinoma-induced coma and back into the world of the living.
+
+She had worked hard to achieve her goals, and was proud of the shiny diploma she earned, though when glaucoma threatened to cut short her studies she underwent treatment for lymphoma with a positive outlook.
+
+Despite the devastating diagnosis of melanoma, she never gave up hope, and thanks to a successful treatment for her myeloma, she was able to move to Oklahoma and live a long, happy life.
+
+When the sarcoma diagnosis came, they were scared and unsure of what to do, but with the help of a stoma and an innovative trachoma treatment, they were able to make progress and begin the long road to recovery.

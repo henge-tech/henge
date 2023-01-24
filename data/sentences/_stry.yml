@@ -1,9 +1,11 @@
 source: _stry.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: ancestry, artistry, dentistry
-Please create a short sentence using all these words: forestry, ministry, palmistry
-Please create a short sentence using all these words: pastry, photochemistry, registry
-Please create a short sentence using all these words: sophistry, tapestry, vestry
---- |
-@@@
+Mr. Jones was a master of both ancestry and artistry, as evidenced by his impressive dentistry skills, which had been passed down to him through generations of his family.
+
+Mrs. Smith had a strong belief in the forestry ministry, and she was renowned for her knowledge of palmistry, which she often used to trace back ancestral roots and gain insight into other people's lives.
+
+The baker's pastry creations were so exquisite that they had to be captured with photochemistry in order to be immortalized in the registry of the world's most delicious desserts.
+
+After her years of learning sophistry, Mary was able to create a stunning tapestry that hung in the vestry of the local church, making her the envy of all who saw it.

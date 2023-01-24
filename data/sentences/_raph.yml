@@ -1,9 +1,11 @@
 source: _raph.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: autograph, chronograph, digraph
-Please create a short sentence using all these words: lithograph, micrograph, monograph
-Please create a short sentence using all these words: phonograph, polygraph, radiograph
-Please create a short sentence using all these words: seraph, spectrograph, telegraph
---- |
-@@@
+The curious collector proudly displayed his prized autograph, chronograph, and digraph in an elaborate gold frame to make sure all visitors could admire the unique artifacts of his journey.
+
+The historian had spent many years carefully studying the lithograph, micrograph, and monograph which had been collected by her ancestors and her research proved to be invaluable in unlocking centuries of knowledge.
+
+His fascination with technology led him to discover the amazing capabilities of the phonograph, polygraph, and radiograph, which he used to produce mesmerizing soundscapes and unique images beyond the scope of his wildest dreams.
+
+The inventor was delighted to unveil his amazing new creation- the Seraph, Spectrograph, and Telegraph- which enabled instant communication over vast distances and was considered a groundbreaking achievement in the field of telecommunications.

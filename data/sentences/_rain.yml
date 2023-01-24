@@ -1,9 +1,11 @@
 source: _rain.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: birdbrain, constrain, detrain, drain
-Please create a short sentence using all these words: grain, ingrain, midbrain, quatrain
-Please create a short sentence using all these words: rain, refrain, restrain, retrain
-Please create a short sentence using all these words: sprain, strain, terrain, train
---- |
-@@@
+Despite the fact that he was a birdbrain, he tried not to let it constrain him as he detrained and drained himself of all his negative thoughts.
+
+He studied diligently, attempting to ingrain the proper information into his midbrain, as he recited quatrains and memorized the dense grain of knowledge from his textbooks.
+
+He tried to restrain himself from the temptation to give up, tweaking the routine he had grown accustomed to as he retrained himself to resist the urge to refrain from labouring on in the rain.
+
+She pushed herself to the limit, straining her body to overcome the difficult terrain of physical activity, even when her muscles felt like they would sprain, never accepting failure as she trained for greatness.

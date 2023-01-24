@@ -1,9 +1,11 @@
 source: _omic.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: anatomic, atomic, autonomic
-Please create a short sentence using all these words: chromic, ergonomic, gastronomic
-Please create a short sentence using all these words: genomic, gnomic, microeconomic
-Please create a short sentence using all these words: socioeconomic, subatomic, uneconomic
---- |
-@@@
+The autonomic nervous system, which controls most of the body's functions, is anatomically composed of two parts; the sympathetic and parasympathetic systems, both of which work together on an atomic level to ensure the efficient functioning of our bodies.
+
+By optimally utilizing ergonomic principles, we can ensure that our workplaces are both chromic and gastronomic, allowing us to work comfortably while enjoying delicious meals or snacks.
+
+By studying the genomic structure of species, we can gain insight into their evolutionary history, as well as develop gnomic wisdom that can be applied to microeconomic decisions and strategies.
+
+Examining the socioeconomic ramifications of technologies such as nuclear power or other forms of energy that involve subatomic particles can help us understand the potential long-term uneconomic effects of using them.

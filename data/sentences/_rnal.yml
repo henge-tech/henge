@@ -1,9 +1,11 @@
 source: _rnal.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: carnal, diurnal, eternal
-Please create a short sentence using all these words: external, fraternal, infernal
-Please create a short sentence using all these words: journal, maternal, nocturnal
-Please create a short sentence using all these words: paternal, supernal, vernal
---- |
-@@@
+The eternal bond of carnal love is stronger than the diurnal passage of time, and will always remain unbroken.
+
+The external bonds of fraternal love may appear fragile and fleeting, but its internal strength is infernal and unbreakable.
+
+The maternal, nocturnal hours spent in the comfort of keeping a journal are moments of eternal joy and unbreakable connections.
+
+The supernal gifts of the vernal season are reminders of the eternal power of the paternal love which binds us together.

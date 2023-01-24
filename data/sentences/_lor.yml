@@ -1,9 +1,11 @@
 source: _lor.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: chancellor, councilor, counselor
-Please create a short sentence using all these words: discolor, pallor, parlor
-Please create a short sentence using all these words: sailor, squalor, tailor
-Please create a short sentence using all these words: tricolor, valor, watercolor
---- |
-@@@
+The Chancellor of the Councilor and Counselor convened to discuss the chances of a successful outcome and ensure their collective wisdom and counsel was heard.
+
+The discoloration of the pallor in the parlor caused a stir among the guests, leading to much conversation and speculation about its cause.
+
+As the Sailor ventured into the squalor of the city, he was amazed to find a talented Tailor amongst the chaos, creating a masterpiece from the threadbare materials.
+
+When presented with the Tricolor flag, the soldier demonstrated exemplary Valor and a reverence for the Watercolor painting that was emblazoned upon it.

@@ -1,9 +1,11 @@
 source: _pple.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: apple, cripple, dapple
-Please create a short sentence using all these words: grapple, nipple, pineapple
-Please create a short sentence using all these words: ripple, scrapple, stipple
-Please create a short sentence using all these words: supple, tipple, topple
---- |
-@@@
+The crippled old man looked on with amazement as the dappled apples, glimmering in the light of the sun, bounced off his crooked cane.
+
+The young man was in a desperate grapple to free his shirt's trapped nipple from the pineapple-scented sheets on his bed.
+
+The rippling water's edge was covered in small stipples of scrapple left by the fisherman who had recently been there.
+
+The supple dancer almost tumbled after taking a few too many sips of her beverage, before she managed to right herself and avoid an embarrassing topple.

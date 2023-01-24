@@ -1,9 +1,11 @@
 source: _nna.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bandanna, belladonna, canna
-Please create a short sentence using all these words: Gehenna, henna, hosanna
-Please create a short sentence using all these words: manna, Penna, Pollyanna
-Please create a short sentence using all these words: savanna, senna, sienna
---- |
-@@@
+The bandanna was spotted draped around her neck, while the smell of belladonna wafted in the air as she casually strolled through the vibrant canna fields.
+
+Grateful worshippers sang hosannas to the Lord from the sacred Gehenna, intertwining the vibrant yellow hues of henna with the deepest greens of their garments.
+
+Pollyanna believed that manna from heaven was more than just a myth, and she was determined to find the magical Penna Falls where it supposedly originated from.
+
+When the sun rose over the savanna, the horizon was illuminated in hues of senna and sienna, like an artist's canvas painted with the morning's fresh light.

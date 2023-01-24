@@ -1,9 +1,11 @@
 source: _ndle.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: brindle, bundle, candle
-Please create a short sentence using all these words: dwindle, fondle, handle
-Please create a short sentence using all these words: kindle, manhandle, panhandle
-Please create a short sentence using all these words: spindle, swindle, trundle
---- |
-@@@
+She carefully carried the bundle of brindle candles up the stairs and set them safely onto the tabletop, their warm glow emanating around the room like a beacon of joy.
+
+She grasped the handle of the old chest and fondled its rough, wooden exterior, watching with sadness as its contents dwindled away to nothing.
+
+He manhandled the panhandle with a casual, yet firm grip, as if daring it to resist his efforts, and soon a small flame began to kindle in the center of the room.
+
+She trundled her way through the busy streets, all the while carefully avoiding anyone attempting to swindle her with their promises of a magical spindle.

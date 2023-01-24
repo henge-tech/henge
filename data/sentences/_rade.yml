@@ -1,9 +1,11 @@
 source: _rade.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: abrade, balustrade, centigrade
-Please create a short sentence using all these words: charade, comrade, degrade
-Please create a short sentence using all these words: grade, masquerade, parade
-Please create a short sentence using all these words: retrograde, tirade, trade
---- |
-@@@
+The sun was so hot it almost felt like it was a million degrees centigrade and the balustrade of the balcony had begun to abrade from all the heat.
+
+My comrades and I performed a charade, pretending everything was alright when in truth we had been slowly degrading for months.
+
+The masquerade parade had all the highest grades of elegance and glamour as the ladies and gentlemen strutted down the streets in their finery.
+
+After his tirade, my father refused to trade any pleasantries and instead marched away in a retrograde direction.

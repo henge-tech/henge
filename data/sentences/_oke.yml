@@ -1,9 +1,11 @@
 source: _oke.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bespoke, bloke, breaststroke, broke
-Please create a short sentence using all these words: choke, evoke, hoke, invoke
-Please create a short sentence using all these words: poke, provoke, revoke, stoke
-Please create a short sentence using all these words: stroke, sunstroke, toke, yoke
---- |
-@@@
+Once upon a time, there was a bloke who was so poor that he had to resort to swimming breaststroke to make ends meet, but luckily he was able to purchase a bespoke suit from a kind tailor at a price he could afford, even though he was broke.
+
+When I was young, I heard a story about a brave knight who could evoke powerful spells by chanting an incantation and tapping his sword on the ground, only to choke up and lose his ability to invoke the magic when the enemy charged.
+
+The wicked king's adviser tried to stoke his anger by poking and provoking him, but his daughter would often revoke the adviser's orders and calm the king down.
+
+The farmer worked his fields with the help of a yoke connected to two oxen, and would take regular breaks in the shade to sip water and toke on the pipe he kept in his pocket as protection against sunstroke.

@@ -1,9 +1,11 @@
 source: _rish.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: amateurish, bearish, boorish
-Please create a short sentence using all these words: cherish, feverish, flourish
-Please create a short sentence using all these words: garish, gibberish, nightmarish
-Please create a short sentence using all these words: nourish, parish, perish
---- |
-@@@
+Her amateurish attempt to paint the bearish market sentiment as a bear-hugging boorish action was poorly executed and made many onlookers cringe.
+
+He cherished the sight of his beloved town flourishing with a feverish energy and dedication to its citizens' well-being; it was the pride of the region.
+
+The garish florescent lights, combined with a gibberish of nonsensical noise, created a nightmarish reality that no one wanted to face.
+
+The good-natured efforts of the priest to nourish the spirits of his parishioners and protect them from perishing were inspiring to all.

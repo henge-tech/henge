@@ -1,9 +1,11 @@
 source: _nics.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: avionics, biomechanics, cryogenics
-Please create a short sentence using all these words: cryonics, eugenics, harmonics
-Please create a short sentence using all these words: hydroponics, microelectronics, mnemonics
-Please create a short sentence using all these words: pyrotechnics, tectonics, ultrasonics
---- |
-@@@
+Avionics, the study of complex electronic systems used in controlling aircraft, coupled with biomechanics, the investigation of the mechanical laws governing movement and deformations of living tissues, and cryogenics, the production and behavior of materials at extremely low temperatures, have become increasingly important in modern technological advances.
+
+Cryonics, the practice of preserving a deceased person's body at very low temperatures, eugenics, the selective breeding of humans to improve the qualities of the species, and harmonics, the study of sound and its vibrations, form an important part of the modern scientific and technological landscape.
+
+Hydroponics, the science of growing plants without soil, microelectronics, the development and use of electronic components and systems on the nanometer scale, and mnemonics, the practice of using special techniques to remember information more easily, all have had a profound impact on the progress of human knowledge and technology.
+
+Pyrotechnics, the use of combustible chemicals and combustible materials to create theatrical displays, tectonics, the study of Earth's surface features and their changes over time, and ultrasonics, the branch of science that deals with sound vibrations at frequencies higher than humans can hear, have all become essential parts of modern society.

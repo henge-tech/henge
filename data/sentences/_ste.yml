@@ -1,9 +1,11 @@
 source: _ste.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aftertaste, artiste, baste
-Please create a short sentence using all these words: caste, chaste, distaste
-Please create a short sentence using all these words: haste, paste, piste
-Please create a short sentence using all these words: riposte, toothpaste, waste
---- |
-@@@
+The artiste had crafted a painting that left a lasting aftertaste in the viewer's mind, taking time to baste the canvas in vibrant hues.
+
+The people were divided into two distinct castes, one chaste and the other filled with a distaste of the values held by the other.
+
+The skier made their way down the piste in haste, carefully using their poles to paste the snow beneath them as they moved.
+
+The debate team was known for their clever ripostes, never wasting a word as they gleamed toothpaste-white smiles in victory.

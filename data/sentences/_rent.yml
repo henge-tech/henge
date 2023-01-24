@@ -1,9 +1,11 @@
 source: _rent.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: abhorrent, adherent, afferent, apparent
-Please create a short sentence using all these words: belligerent, coherent, concurrent, deterrent
-Please create a short sentence using all these words: incoherent, indifferent, inherent, irreverent
-Please create a short sentence using all these words: reverent, torrent, undercurrent, vicegerent
---- |
-@@@
+The abhorrent practice of child labor was met with steadfast opposition from its adherents, who sent afferent signals to the apparent power structure that change was necessary.
+
+The incessant belligerence of the faction caused a state of incoherence within the society and served as a concurrent deterrent to any attempt to bring peace and order to the region.
+
+The speaker's penchant for incoherent ramblings and indifferent attitude towards the audience's reactions showcased an inherent irreverence for the art of communication.
+
+His reverent attitude towards his vicegerent was met with a torrent of criticism from the people who felt there was an underlying undercurrent of disrespect in his actions.

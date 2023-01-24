@@ -1,9 +1,11 @@
 source: _mity.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: amity, anonymity, calamity, comity
-Please create a short sentence using all these words: conformity, deformity, enmity, enormity
-Please create a short sentence using all these words: equanimity, extremity, infirmity, magnanimity
-Please create a short sentence using all these words: proximity, sublimity, unanimity, uniformity
---- |
-@@@
+In times of amity, we can feel the comfort of anonymity and enjoy life's comity, but in times of calamity all of these things can be lost or changed drastically.
+
+Although enmity may seem unsurmountable and its enormity intimidating, striving for conformity and avoiding deformity can allow us to rise above all conflict and strife.
+
+With a sense of equanimity, we can bravely face the extremities of life, show magnanimity towards those in infirmity, and ultimately lead an enlightened and peaceful existence.
+
+When people come together in proximity, with a spirit of unanimity and uniformity they are able to create a sense of sublimity that transcends their differences and brings joy and harmony.

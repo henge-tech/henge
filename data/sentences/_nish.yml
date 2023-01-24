@@ -1,9 +1,11 @@
 source: _nish.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: admonish, astonish, banish
-Please create a short sentence using all these words: danish, diminish, furnish
-Please create a short sentence using all these words: garnish, refinish, replenish
-Please create a short sentence using all these words: tarnish, vanish, varnish
---- |
-@@@
+The teacher admonished her student for his lack of focus, which astonished him so much that he resolved to banish such behaviour from his mind in the future.
+
+The baker's magnificent danish pastries could not diminish the warm hospitality of the café, which was always furnished with inviting chairs and cozy tables.
+
+She carefully garnished the freshly refinish furniture with cushions and decorations, taking care to replenish each item as they got lost or worn over time.
+
+Over the years, the silverware had become tarnished, so she spent hours polishing it to make it shine again, vanishing any traces of the dullness with a fresh coat of varnish.

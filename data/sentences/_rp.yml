@@ -1,9 +1,11 @@
 source: _rp.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: burp, carp, chirp
-Please create a short sentence using all these words: corp, gorp, harp
-Please create a short sentence using all these words: scarp, sharp, slurp
-Please create a short sentence using all these words: tarp, usurp, warp
---- |
-@@@
+The burp of a carp was soon followed by a chirp, signaling to all nearby that the fish had reached its happy place.
+
+In a small village, the sweet melody of a harp being played by a skilled musician was being drowned out by the raucous and obnoxious sound of a corp and a gorp demolishing any chance of peace in the area.
+
+A scarp, sharp and almost painful to the touch, was being slowly and noisily navigated by an armadillo, its tongue occasionally slipping out to slurp up a juicy insect.
+
+The tarp had been used to cover up the tyrannical usurp of power by the ruler, but its unbending warp was starting to reveal the truth beneath.

@@ -1,9 +1,11 @@
 source: _pse.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: apocalypse, apse, collapse
-Please create a short sentence using all these words: copse, corpse, eclipse
-Please create a short sentence using all these words: elapse, ellipse, glimpse
-Please create a short sentence using all these words: lapse, relapse, synapse
---- |
-@@@
+The apocalypse had arrived, and with it came the collapse of society, culminating with the apse of mankind.
+
+The copse of trees was overshadowed by the sight of a corpse beneath the eclipse of the moon, creating a morbid yet unforgettable image.
+
+As time elapses, a faint glimpse of the ellipse in the sky can be seen, bringing a moment of respite from the world's troubles.
+
+The lapse of judgment could lead to a relapse, creating a disconnect between the synapse of brain cells that are essential for clear thinking.

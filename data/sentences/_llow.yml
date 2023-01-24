@@ -1,9 +1,11 @@
 source: _llow.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: allow, bellow, billow, callow, disallow
-Please create a short sentence using all these words: fallow, fellow, follow, hallow, hollow
-Please create a short sentence using all these words: mallow, mellow, pillow, sallow, schoolfellow
-Please create a short sentence using all these words: shallow, swallow, tallow, wallow, willow
---- |
-@@@
+The bellow of the wind could be heard, billowing and callowing through the trees as the disallowed sound of the town allowed a peaceful atmosphere.
+
+The hallowed ground was filled with a sense of solemnity as the fallow fields stretched beyond the horizon, fellows following in the footsteps of their leader, their hollow voices echoing through the air.
+
+Mellow light filtered through the window, casting a sallow hue on the wall and the pillow on which a schoolfellow was peacefully sleeping, a gentle breeze rustling through the mallow trees outside.
+
+Swallow birds twittered in the willow trees while their reflections moved slowly in the shallow lake, creating ripples that disturbed the wallow of a small creature covered in tallow, making them scurry away.

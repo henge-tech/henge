@@ -1,9 +1,11 @@
 source: _nty.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aplenty, bounty, certainty, county
-Please create a short sentence using all these words: dainty, guaranty, jaunty, minty
-Please create a short sentence using all these words: panty, plenty, pointy, scanty
-Please create a short sentence using all these words: shanty, sovereignty, uncertainty, warranty
---- |
-@@@
+With aplenty bounty and certainty, the people of the county continuously enjoyed a life of abundance and contentment.
+
+The dainty figure of the woman, dressed in the jaunty minty dress, gave the air a certain feeling of guaranty and assurance.
+
+From the pointy peak of the mountain, there was a panty of plenty, although in certain areas it was quite scanty.
+
+With its shanty dwellings, there was a feeling of uncertainty over the sovereignty of the land, but the people still had a warranty of safety and security.

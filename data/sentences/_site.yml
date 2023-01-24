@@ -1,9 +1,11 @@
 source: _site.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: apposite, campsite, composite
-Please create a short sentence using all these words: exquisite, marcasite, onsite
-Please create a short sentence using all these words: opposite, parasite, perquisite
-Please create a short sentence using all these words: prerequisite, requisite, site
---- |
-@@@
+After camping at the campsite for a few days, we realized that the composite materials of the tent and sleeping bags we brought were not apposite for the cold weather.
+
+The jewellery expert was mesmerized by the exquisite marcasite necklace she found at the onsite antique store, the intricate designs in perfect harmony.
+
+Even though the perquisite of the manager's job was luxurious, he came to realize that the parasite on his schedule was having the opposite effect on his life and health.
+
+We soon discovered that all the requisite items for our project were not available onsite, and so we had to purchase them from elsewhere - a prerequisite that we hadn't expected.

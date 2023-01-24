@@ -1,9 +1,11 @@
 source: _pine.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: alpine, atropine, lupine
-Please create a short sentence using all these words: opine, pine, porcupine
-Please create a short sentence using all these words: rapine, reserpine, spine
-Please create a short sentence using all these words: subalpine, supine, vulpine
---- |
-@@@
+Standing atop the lupine-covered alpine summit, gazing out at the distant horizon with an atropine-induced zen calming body and soul.
+
+As she wandered through the pines, she had to take a second look to make sure her eyes hadn't deceived her; for there lay a porcupine snuggled up in the bed of pine needles, solemnly opining on the world around it.
+
+Gripping his rapine in one hand and the reserpine-laced sight in the other, the man saw his prey quiver in terror before him, its spine trembling in fear.
+
+Surrounded by a sea of wildflowers, the subalpine meadow was thick with the lupine smell of the vulpine that sunned themselves in the golden light of the afternoon; some stretching out supine, others lazily watching the world pass by.

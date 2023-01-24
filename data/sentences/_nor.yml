@@ -1,9 +1,11 @@
 source: _nor.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: assignor, consignor, convenor, demeanor
-Please create a short sentence using all these words: dishonor, donor, governor, honor
-Please create a short sentence using all these words: kronor, manor, minor, misdemeanor
-Please create a short sentence using all these words: monsignor, senor, signor, tenor
---- |
-@@@
+The assignor consigned the convenor with a demeanor befitting of the occasion, thus allowing for the successful completion of the task.
+
+The governor honored the donor for their generous act of kindness, bestowing upon them a medal of great honor in an effort to demonstrate that dishonor would not be tolerated.
+
+Although it was at best a minor misdemeanor, the lord of the manor issued a hefty fine of one thousand kronor as punishment for the transgression.
+
+The senor, the signor, and the monsignor all agreed that the tenor of their discussion had to be kept secret for the sake of preserving order and harmony.

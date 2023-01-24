@@ -1,9 +1,11 @@
 source: _rce.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: coerce, divorce, enforce
-Please create a short sentence using all these words: farce, fierce, outsource
-Please create a short sentence using all these words: perforce, pierce, reinforce
-Please create a short sentence using all these words: resource, scarce, workforce
---- |
-@@@
+A couple had to reluctantly enforce a costly divorce when they were unable to coerce each other into resolving their differences.
+
+The CEO found himself in a farcical situation when he tried to outsource a fierce task which was beyond his capacity.
+
+He had to perforce reinforce his belief by piercingly reminding himself of the facts every day.
+
+The organization had to manage with a scarce resource and a limited workforce, which was a challenge for them.

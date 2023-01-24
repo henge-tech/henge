@@ -1,9 +1,11 @@
 source: _mmy.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: clammy, crummy, dummy, gummy
-Please create a short sentence using all these words: hammy, jammy, jimmy, mammy
-Please create a short sentence using all these words: mommy, mummy, rummy, scummy
-Please create a short sentence using all these words: shimmy, tummy, whammy, yummy
---- |
-@@@
+The dummy was trying to touch the gummy, crummy and clammy slime, but it kept slipping away from his fingers.
+
+Mammy was stirring the jammy in her pot while Jimmys hammy started to sizzle on the stove; she knew it was time for a delicious dinner.
+
+Mommy was so proud of her little mummy as she watched him play a game of rummy in the garden, even though his hands were scummy.
+
+She shimmied her way around the room, trying to satisfy her yummy tummy with a sweet whammy, but it was no use.

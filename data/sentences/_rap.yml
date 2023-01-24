@@ -1,9 +1,11 @@
 source: _rap.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bootstrap, claptrap, crap
-Please create a short sentence using all these words: entrap, firetrap, flytrap
-Please create a short sentence using all these words: jockstrap, mousetrap, rap
-Please create a short sentence using all these words: scrap, unwrap, wrap
---- |
-@@@
+Although a lot of people think that starting a business from nothing is a bootstrap effort, it's really just a lot of claptrap and crap if you don't have the right capital, drive and skills to do it.
+
+Many cunning predators use entrapments such as firetraps and flytraps to capture unsuspecting prey, but be warned that these same traps can ensnare the unwary human just as easily.
+
+While wearing a jockstrap may not be the most fashionable of accessories, it sure beats being caught in a mousetrap or being caught up in the rap game.
+
+It's a common occurence in life to receive something you didn't ask for and don't need; whether it be in the form of wrapping paper or a scrap of paper, the idea is to unwrap and accept it gracefully.

@@ -1,9 +1,11 @@
 source: _rit.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bowsprit, brit, crit
-Please create a short sentence using all these words: culprit, demerit, disinherit
-Please create a short sentence using all these words: esprit, grit, inherit
-Please create a short sentence using all these words: merit, spirit, writ
---- |
-@@@
+The bowsprit of the mighty brit was filled with critters that emitted a cacophony of chirps and tweets in the early morning light.
+
+The culprit was dealt a demerit consequence and was, as a result, disinherited from the family's fortune, leaving them without their beloved legacy.
+
+With a fiery esprit and utmost grit, the young successor dutifully inherited the family throne and the wealth that came with it.
+
+Though the individual had only a small merit, their dedicated spirit and passionate writ earned them the recognition and respect of their peers.

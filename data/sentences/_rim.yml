@@ -1,9 +1,11 @@
 source: _rim.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: brim, grim
-Please create a short sentence using all these words: interim, pilgrim
-Please create a short sentence using all these words: prim, rim
-Please create a short sentence using all these words: scrim, trim
---- |
-@@@
+A young girl walked across the bridge with a grim determination, her hat brimmed with determination and courage to face whatever might be on the other side.
+
+As the pilgrim made his way along the dusty path, he was filled with hope that his journey would come to an end in the not too distant interim.
+
+A delicate lace curtain hung from the window, its prim edges softly fraying around the bright white rim of the frame.
+
+A long white veil draped from the bride's head, its light scrim elegantly trimmed with embroidered pearls and petals.

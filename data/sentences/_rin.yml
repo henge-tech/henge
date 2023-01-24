@@ -1,9 +1,11 @@
 source: _rin.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aspirin, chagrin
-Please create a short sentence using all these words: florin, glycerin
-Please create a short sentence using all these words: grin, mandarin
-Please create a short sentence using all these words: nitroglycerin, saccharin
---- |
-@@@
+Emma took two aspirins for her pounding head, but instead of relief she felt a chagrin that this remedy had become all too familiar to her.
+
+As the rain started to pour, Sarah's shawl became soaked and heavy; she eagerly reached for her flask of glycerin to provide some much-needed florin to repel the dampness.
+
+She couldn't contain her excitement when the mandarin oranges were revealed, eliciting a wide grin that lit up her entire face.
+
+While searching through the old medicine cabinet, he stumbled upon a small vial labeled 'nitroglycerin' and was surprised to find it contained saccharin instead, though its intended use was far more dangerous.

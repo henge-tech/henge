@@ -1,9 +1,11 @@
 source: _lous.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: anomalous, callous, credulous, fabulous, frivolous
-Please create a short sentence using all these words: incredulous, jealous, libelous, meticulous, miraculous
-Please create a short sentence using all these words: nebulous, overzealous, pendulous, perilous, populous
-Please create a short sentence using all these words: scrupulous, scurrilous, tuberculous, unscrupulous, zealous
---- |
-@@@
+A callous and credulous person was so enamored with the fabulous and anomalous things they saw, that they often acted frivolously in order to remain entranced by the world around them.
+
+Though the miraculous feats performed were nothing short of incredible, some people were still jealous and libelous of the meticulous work that had been put into them and thus remained incredulous as to how it was done.
+
+In a populous and perilous city, an overzealous individual attempted to solve the nebulous problem that was hanging pendulously above their heads.
+
+The unscrupulous and zealous individual, who had a scurrilous reputation, took advantage of the scrupulous and tuberculous people to further their own agenda.

@@ -1,9 +1,11 @@
 source: _ley.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: alley, bailey, barley, coley
-Please create a short sentence using all these words: galley, holey, ley, medley
-Please create a short sentence using all these words: motley, paisley, parley, parsley
-Please create a short sentence using all these words: pulley, trolley, valley, volley
---- |
-@@@
+On a cool autumn evening, I walked along the alley to visit my friend Bailey, who had recently planted a field of barley and made some delicious Coley.
+
+After a long day of rowing on the galley, I arrived at a pristine beach lined with a holey rock formation and a wild medley of colorful leys.
+
+As it was getting dark, I noticed a motley of people in the distance congregating around a bonfire, many of them wearing paisley or patterned scarves and discussing their plans for the evening in a lively parley while the smell of parsley tickled my nose.
+
+I walked through the valley, catching glimpses of a majestic mountain in the distance, and soon heard a pulley and trolley clattering down the cobblestone path, followed by a volley of excited voices and laughter.

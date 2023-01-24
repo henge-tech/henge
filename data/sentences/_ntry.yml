@@ -1,9 +1,11 @@
 source: _ntry.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: carpentry, chantry, gallantry
-Please create a short sentence using all these words: gantry, gentry, infantry
-Please create a short sentence using all these words: pageantry, pantry, peasantry
-Please create a short sentence using all these words: pedantry, sentry, wintry
---- |
-@@@
+With his carpentry tools tucked away in his chantry, the gallant and courageous craftsman busied himself with projects that demonstrated his skillful artistry and admirable gallantry.
+
+The gentry watched with admiration as the infantry marched in formation through the vast gantry, their brave and noble bearing a testament to their gallant spirit and unwavering commitment to protecting their country.
+
+The royal court's elaborate pageantry was on full display in the castle's grand pantry, where the assembled peasantry looked on in awe as the sumptuous feast was prepared with great skill and care.
+
+The sentry, standing in the wintry cold, was well-versed in pedantry and kept a keen eye on those approaching the guarded gate, his vigilance ensuring the safety of all within its walls.

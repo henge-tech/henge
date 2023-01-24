@@ -1,9 +1,11 @@
 source: _rst.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bratwurst, burst, cloudburst
-Please create a short sentence using all these words: durst, first, headfirst
-Please create a short sentence using all these words: karst, outburst, sunburst
-Please create a short sentence using all these words: thirst, worst, wurst
---- |
-@@@
+The savory bratwurst was suddenly engulfed in a burst of steam and water, as if a cloudburst had occurred right above it.
+
+He had a thirst for adventure and, without hesitation, threw himself headfirst into the unknown - this brave act being his first foray into the unknown.
+
+The sunburst was a brilliant display of light that shone through the karst landscape, interrupted only by a sudden, powerful outburst of thunder.
+
+His burning thirst was the worst he had ever experienced, yet was quickly quenched by the savory and succulent wurst.

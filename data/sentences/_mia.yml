@@ -1,9 +1,11 @@
 source: _mia.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: academia, anemia, bulimia
-Please create a short sentence using all these words: hyperglycemia, hyperthermia, hypoglycemia
-Please create a short sentence using all these words: hypothermia, leukemia, macadamia
-Please create a short sentence using all these words: Mesopotamia, septicemia, uremia
---- |
-@@@
+The world of academia is riddled with anemia and bulimia, two eating disorders that can take a devastating toll on individuals both physically and emotionally.
+
+In extreme cases, an imbalance of glucose levels can lead to conditions such as hyperglycemia, hyperthermia, and hypoglycemia, all of which require immediate medical attention.
+
+Although hypothermia, leukemia, and macadamia are not often thought of in connection with one another, their potential consequences can be severe if not dealt with swiftly and appropriately.
+
+From the ancient land of Mesopotamia to the more recently identified ailments of septicemia and uremia, medical science has sought to understand and treat these diseases to preserve our collective health.

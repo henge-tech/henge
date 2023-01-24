@@ -1,9 +1,11 @@
 source: _take.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: betake, intake, mistake
-Please create a short sentence using all these words: outtake, overtake, partake
-Please create a short sentence using all these words: retake, shiitake, stake
-Please create a short sentence using all these words: take, undertake, uptake
---- |
-@@@
+She decided to betake herself to the library in order to increase her knowledge intake and to ensure she would not make a mistake.
+
+He decided to outtake himself from the crowd and overtake the competition, so that he could partake in the rewards of success.
+
+He chose to retake the challenge, so he would have an opportunity to prove his worth and stake his claim to the shiitake mushroom harvest.
+
+She chose to take the initiative and undertake the task, so that she could maximize her uptake of knowledge and experiences.

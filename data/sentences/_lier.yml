@@ -1,9 +1,11 @@
 source: _lier.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: atelier, cavalier, chandelier
-Please create a short sentence using all these words: chevalier, collier, espalier
-Please create a short sentence using all these words: flier, fusilier, hotelier
-Please create a short sentence using all these words: multiplier, sommelier, supplier
---- |
-@@@
+The fashionable atelier was filled with glamorous ladies donning custom-made couture gowns, each topped off with a delicate chandelier necklace complimenting the twirl of their cavalier skirts.
+
+The gallant chevalier trotted down the grand hallway facing a long line of espalier trees, each decorated with a beautiful collier of jasmine flowers, a symbol of the chivalry that he lived by.
+
+The flier of a bright red flag soared high in the sky as the fusilier raced through the streets, cheers from the crowd resonating beyond the city walls to the nearby hotelier who stood proudly watching them pass by.
+
+The sommelier presented the exquisite bottle of wine with a flourish while the supplier smiled, knowing that it would be the perfect addition to the dinner at the luxurious restaurant, where the food was sure to be multiplied in flavor and satisfaction.

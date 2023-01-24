@@ -1,9 +1,11 @@
 source: _oor.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: backdoor, boor, door
-Please create a short sentence using all these words: floor, indoor, moor
-Please create a short sentence using all these words: outdoor, poor, seafloor
-Please create a short sentence using all these words: spoor, trapdoor, underfloor
---- |
-@@@
+The backdoor was opened by a boor, who seemed oblivious to the fact that the door had remained shut for so long.
+
+The floor was smooth and highly polished, clearly made for indoor use, yet when she stepped out the door, the moor revealed itself as an untamed and wild place.
+
+The outdoor life of the poor was hard, but nothing compared to the toil and labour required to survive on the seafloor.
+
+As the hunter followed the spoor, he stumbled upon a trapdoor hidden in the underfloor which seemed to lead to a mysterious and unknown place.

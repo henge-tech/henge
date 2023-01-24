@@ -1,9 +1,11 @@
 source: _mon.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: backgammon, cardamon, daemon
-Please create a short sentence using all these words: daimon, demon, etymon
-Please create a short sentence using all these words: gammon, mammon, persimmon
-Please create a short sentence using all these words: salmon, sermon, summon
---- |
-@@@
+The daemons were playing backgammon and enjoying the sweet, spicy aroma of cardamom wafting through the air.
+
+They gathered around the table and searched for the etymological connection between daimon, demon, and etymon, marveling at the language secrets they uncovered.
+
+As they debated the significance of gammon, mammon, and persimmon, their minds were filled with the sweet taste of forbidden fruit.
+
+The high priestess summoned all the faithful to listen to her sermon about the majesty of the salmon, a creature of both land and sea.

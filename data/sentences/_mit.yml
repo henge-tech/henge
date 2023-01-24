@@ -1,9 +1,11 @@
 source: _mit.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: admit, commit, dammit
-Please create a short sentence using all these words: delimit, emit, hermit
-Please create a short sentence using all these words: omit, remit, submit
-Please create a short sentence using all these words: summit, transmit, vomit
---- |
-@@@
+Dammit, I hate to admit it, but I have to commit to my mistake and take responsibility for it.
+
+The hermit chose to delimit his emission of energy, so that he could remain in peaceful solitude.
+
+I had to submit my work without omitting any details, so I was asked to remit the payment.
+
+He tried to transmit his thoughts to the summit, but instead ended up vomiting due to the intensity of his emotions.

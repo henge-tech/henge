@@ -1,9 +1,11 @@
 source: _oss.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: across, albatross, autocross, crisscross
-Please create a short sentence using all these words: cross, doss, dross, emboss
-Please create a short sentence using all these words: floss, gloss, gross, joss
-Please create a short sentence using all these words: loss, moss, poss, toss
---- |
-@@@
+The sky was filled with albatrosses gliding across the horizon in a crisscross formation, while autocross drivers weaved their way through the tangle of cars, creating a thrilling spectacle.
+
+As he carefully embossed the design into the cross, he admired its intricate patterns, knowing that it was his own dross that had crafted such a masterpiece - a result of the hard work, dedication and doss he had invested in the project.
+
+He shined the gloss on the joss with a meticulous precision, he had been tasked to make the product look its best, and so a few moments of extra effort with some floss was worth it to achieve a gross result he could be proud of.
+
+The old man carefully tossed his possessions into the mossy pond, feeling a great deal of loss as each item left his grasp, yet knowing his decision was for the best, no matter the cost or cost of ultimate poss.

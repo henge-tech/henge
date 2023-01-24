@@ -1,9 +1,11 @@
 source: _oved.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: approved, beloved, disapproved
-Please create a short sentence using all these words: disproved, gloved, grooved
-Please create a short sentence using all these words: proved, reproved, shoved
-Please create a short sentence using all these words: unimproved, unloved, unmoved
---- |
-@@@
+Even though the beloved idea was approved by many, there were still some who disapproved, proving that even something well-received can have its detractors.
+
+Despite being disproved over and over again, the theory that a gloved hand could fit perfectly in the grooved patterns of the door remained strong among its supporters.
+
+His efforts had been proved time and time again, but when faced with the obstacle of a heavy door, he was not to be reproved as he shoved it open to reveal the long-awaited answer.
+
+Despite the unloved state of the house and its unimproved condition, the realtor remained unmoved by the beautiful views outside; she knew it needed more than that to be sold.

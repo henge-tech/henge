@@ -1,9 +1,11 @@
 source: _owl.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bowl, cowl, fishbowl
-Please create a short sentence using all these words: fowl, growl, howl
-Please create a short sentence using all these words: jowl, owl, prowl
-Please create a short sentence using all these words: scowl, waterfowl, wildfowl
---- |
-@@@
+The bowl was so deep and wide that it could easily hold a cowl fit for a royal family, but instead it was filled to the brim with an array of brightly colored fishbowls.
+
+The loud fowl seemed to answer the growl of the wolf with a magnificent howl that echoed throughout the valley and filled the air with its melodic sound.
+
+The large jowl of the owl glowed in the moonlight as it silently prowled the night sky, searching for prey to keep its strong wings in flight.
+
+His scowling face could not disguise his admiration as he watched the graceful waterfowl and wildfowl soar through the sky, their wings beating swiftly in perfect harmony.

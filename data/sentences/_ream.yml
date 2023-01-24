@@ -1,9 +1,11 @@
 source: _ream.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: airstream, bream, buttercream
-Please create a short sentence using all these words: daydream, downstream, mainstream
-Please create a short sentence using all these words: midstream, millstream, ream
-Please create a short sentence using all these words: scream, slipstream, upstream
---- |
-@@@
+The sunlight glinted off the shiny airstream trailer as we cast our fishing poles into the tranquil lake, hoping to catch a big bream to fry in buttercream and enjoy with some freshly baked bread.
+
+As I daydreamed, watching the river flow downstream, I found myself drifting away from the mainstream and exploring uncharted waters, eager to find out what lies beyond.
+
+On our journey down the river, we noticed an unexpected stream flowing midstream and decided to follow it until we reached its source, a peaceful millstream teeming with reams of fish.
+
+Suddenly, in the silence of the night, we heard a loud scream coming from upstream and instantly knew that something wasn't right, so we quickly moved our boat into the slipstream and paddled away as fast as we could.

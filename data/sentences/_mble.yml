@@ -1,9 +1,11 @@
 source: _mble.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: amble, bramble, bumble, crumble, ensemble
-Please create a short sentence using all these words: fumble, grumble, humble, jumble, mumble
-Please create a short sentence using all these words: nimble, preamble, ramble, resemble, rumble
-Please create a short sentence using all these words: stumble, thimble, tremble, tumble, unscramble
---- |
-@@@
+On an amble through a meadow of tall brambles, they stumbled upon a loud bumble of hummingbees, who were happily gathering nectar, contentedly working together in an ensemble of buzzing and crumbling.
+
+Strolling through the woods, they couldn't help but fumble around in the bushes, resulting in some grumbling from the group as well as a few humble apologies for their clumsiness; soon enough however, the trees and tall grasses had seamlessly melted into a jumble of mumbling shadows and shifting shapes.
+
+A nimble fox skipped through the clearing, its russet fur resembling a river flowing over rolling stones as it paused to preamble around the edges, before finally picking up its pace and vanishing into the trees with a soft rumble of laughter echoing in its wake.
+
+She stepped carefully, fearful of stumbling in the half-light, her hesitant steps accompanied by the thimble in her pocket, trembling with the anticipation of what she might find; suddenly she slipped, tumbling over the dewy grass and scrambling to her feet, only to unscramble the clues and reveal the truth of what lay beneath.

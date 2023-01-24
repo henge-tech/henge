@@ -1,9 +1,11 @@
 source: _nine.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: adenine, asinine
-Please create a short sentence using all these words: canine, feminine
-Please create a short sentence using all these words: mezzanine, quinine
-Please create a short sentence using all these words: saturnine, strychnine
---- |
-@@@
+The adenine in the asinine man's attitude was alarming, for he seemed to think his foolishness was an admirable quality when, in reality, it was simply ridiculous.
+
+The canine barked ferociously, while the feminine meow of the nearby cat signaled a peaceful harmony between the two creatures, reminding us of the beauty of coexistence in nature.
+
+The mezzanine of the high-rise apartment provided a wonderful view of the cityscape, while the quinine in his cocktail added a pleasant, bitter flavor to the evening.
+
+His saturnine disposition seemed to have no bounds, and the strychnine in his words dripped with venomous sarcasm that left the room feeling cold and unwelcoming.

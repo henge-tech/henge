@@ -1,9 +1,11 @@
 source: _racy.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: accuracy, aristocracy, autocracy, bureaucracy
-Please create a short sentence using all these words: confederacy, conspiracy, degeneracy, illiteracy
-Please create a short sentence using all these words: inaccuracy, literacy, magistracy, meritocracy
-Please create a short sentence using all these words: numeracy, piracy, racy, theocracy
---- |
-@@@
+An autocracy is an aristocracy ruled by one ruler with absolute power who, throughout their reign, strives for accuracy in the bureaucracy they employ to operate.
+
+When a confederacy of people conspire together for the degeneracy and illiteracy of those less fortunate, it is an affront to justice.
+
+A magistracy governed by a meritocracy is the best form of government, as it rewards those with merit while striving for accuracy and literacy in all aspects of its affairs.
+
+Theocracy's principal aim is to teach numeracy and literacy, not piracy and racy behavior, as it aims for moral and ethical accuracy and consistency.

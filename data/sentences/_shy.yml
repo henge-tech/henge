@@ -1,9 +1,11 @@
 source: _shy.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: ashy, bushy, cushy, dishy
-Please create a short sentence using all these words: fishy, flashy, fleshy, marshy
-Please create a short sentence using all these words: mushy, pushy, shy, slushy
-Please create a short sentence using all these words: splashy, squishy, trashy, tushy
---- |
-@@@
+As the bushy tree swayed in the breeze, it created a cool and cushy feeling that made me feel ashy and dishy all at once.
+
+The marshy area was full of life, with fleshy plants and fishy creatures swimming around in the flashy sunlight.
+
+The snow was slushy and mushy as I walked along the path, feeling a bit shy as the wind started to get pushy.
+
+The waves of the ocean lapped against the shore, creating a splashy and squishy sound as the tushy seagulls flew over the trashy beach.

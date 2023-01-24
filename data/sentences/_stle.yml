@@ -1,9 +1,11 @@
 source: _stle.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: apostle, bristle, bustle
-Please create a short sentence using all these words: epistle, forecastle, gristle
-Please create a short sentence using all these words: hustle, nestle, pestle
-Please create a short sentence using all these words: rustle, thistle, trestle
---- |
-@@@
+The apostle hurriedly bustled through the bustling crowd, his bristly beard swaying in the wind.
+
+The captain wrote an epistle to his crew, warning them of the stormy forecastle ahead as they saw gristle in the darkening sky.
+
+With a sly hustle and a gentle nestle, the old woman pounded away at her pestle, making a sweet remedy for her dear ones.
+
+The rustling leaves of the thistle plant tickled his nose as he walked along the trestle, a warm summer breeze carried him forward.

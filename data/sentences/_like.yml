@@ -1,9 +1,11 @@
 source: _like.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: alike, childlike, dislike
-Please create a short sentence using all these words: dreamlike, godlike, ladylike
-Please create a short sentence using all these words: lifelike, lookalike, manlike
-Please create a short sentence using all these words: unlike, warlike, workmanlike
---- |
-@@@
+Although I have an adult-like appearance, I have a childlike heart and a dislike for the things that are too much alike.
+
+Although I have never seen a godlike figure or been part of a ladylike society, I often find myself dreaminglike and imagining what it would be like.
+
+From a distance, the manlike figure seems lifelike and similar to my own image, but upon closer inspection I can see the subtle differences from my own lookalike.
+
+Although the world has become increasingly unlike its traditional self, I still strive to be warlike in my perseverance and workmanlike in my attitude toward getting things done.

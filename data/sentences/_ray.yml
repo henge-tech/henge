@@ -1,9 +1,11 @@
 source: _ray.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: array, ashtray, astray, betray, bray
-Please create a short sentence using all these words: chambray, defray, disarray, dray, foray
-Please create a short sentence using all these words: fray, hooray, hurray, moray, portray
-Please create a short sentence using all these words: pray, ray, stingray, stray, tray
---- |
-@@@
+The array of colorful ashtrays was knocked astray, betraying the bray of a donkey in the distance.
+
+With a loud chambray, he decided to defray the disarray by loading the heavy dray and venturing out on a foray.
+
+They cheered and yelled "Hooray!" and "Hurray!", as the frayed waves lapped against the moray, portraying a picture of paradise.
+
+Kneeling down, he prayed for guidance and wisdom, tracing the outstretched ray of a passing stingray that had strayed too far from its tray.

@@ -1,9 +1,11 @@
 source: _rism.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aphorism, barbarism, behaviorism
-Please create a short sentence using all these words: consumerism, futurism, militarism
-Please create a short sentence using all these words: naturism, plagiarism, secularism
-Please create a short sentence using all these words: tourism, volunteerism, voyeurism
---- |
-@@@
+An aphorism that has been used to explain the human condition throughout history is that ‘barbarism is the result of poor behaviorism’; in other words, any kind of behavior which deviates from the accepted norms of society is likely to lead to a state of barbarism.
+
+Consumerism, futurism and militarism are three interlinked ideologies that have had a major impact on the modern world; from creating a culture of rampant materialism to shaping political policies which prioritize military power over diplomacy, these philosophies have come to define the 21st Century.
+
+Naturism, plagiarism and secularism are all concepts that have grown in prominence over the last few decades; while naturism promotes a more sustainable lifestyle, plagiarism is the practice of stealing someone else's ideas without giving them due credit, and secularism is the belief in separation of church and state.
+
+Tourism, volunteerism and voyeurism are all popular pastimes which have exploded in recent years; from exploring different cities and cultures through tourism, to helping out underprivileged communities through volunteerism, to observing others without their consent through voyeurism, these activities can be either positive or negative depending on how they are used.

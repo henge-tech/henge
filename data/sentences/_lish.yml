@@ -1,9 +1,11 @@
 source: _lish.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: abolish, accomplish, bullish
-Please create a short sentence using all these words: churlish, demolish, devilish
-Please create a short sentence using all these words: embellish, ghoulish, hellish
-Please create a short sentence using all these words: relish, smallish, ticklish
---- |
-@@@
+If we abolish our negative habits and accomplish our bullish ambitions, then we can truly realize our vast potential as human beings.
+
+Although it may be tempting to be churlish and demolish our opponents with devilish schemes, it is ultimately far more beneficial to find common ground and work towards a win-win solution.
+
+We must not embellish the truth with ghoulish exaggerations and hellish misrepresentations, as it will only serve to create confusion and mistrust.
+
+We should relish in our small victories, enjoy the ticklish moments of life, and appreciate all that we have been blessed with.

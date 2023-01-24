@@ -1,9 +1,11 @@
 source: _size.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: assize, capsize, downsize
-Please create a short sentence using all these words: emphasize, fantasize, hypothesize
-Please create a short sentence using all these words: midsize, oversize, resize
-Please create a short sentence using all these words: size, supersize, synthesize
---- |
-@@@
+When the ship didn't properly downsize its cargo, it capsized during the assize judgement, resulting in a hefty fine for the captain and crew.
+
+The scientist hypothesized that emphasizing the need for caution and fantasizing about the possibilities of success could help them achieve their goal.
+
+When the dress's owner realized it was too big even after she had resized it, she was forced to go buy something else in a midsize or oversize instead.
+
+In the lab, the researchers managed to successfully synthesize a new compound, but were unable to size it up during the experiment; they would have to supersize it in order to get the desired results.

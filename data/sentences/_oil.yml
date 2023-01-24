@@ -1,9 +1,11 @@
 source: _oil.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: airfoil, boil, broil
-Please create a short sentence using all these words: foil, recoil, spoil
-Please create a short sentence using all these words: subsoil, tinfoil, toil
-Please create a short sentence using all these words: topsoil, trefoil, turmoil
---- |
-@@@
+The airfoil glided effortlessly through the sky like a graceful bird, while beneath it on the ground the water began to boil as the chef carefully broiled the meal in the oven.
+
+The bright sun glinted off the shining foil as the cannon recoiled when fired, and the victorious soldiers quickly moved in to spoil the enemy's plans.
+
+The hard subsoil beneath the farmland was well tilled by the farmer's toil as he wrapped the seed with tinfoil before planting it in the ground.
+
+The lush topsoil was filled with a variety of wildflowers and plants, including a beautiful trefoil growing in the midst of the political turmoil.

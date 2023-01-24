@@ -1,9 +1,11 @@
 source: _sa.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: abscissa, appaloosa, balsa
-Please create a short sentence using all these words: bursa, kielbasa, medusa
-Please create a short sentence using all these words: mesa, mimosa, paisa
-Please create a short sentence using all these words: ponderosa, salsa, visa
---- |
-@@@
+The abscissa of a leaping appaloosa galloping across a field seemed to stretch on balsa-thin forever, like a dream of wild freedom that was almost too perfect to be true.
+
+The mythical Medusa, with her writhing bursa of serpents, was so monstrous that even the kielbasa vendor cowered in terror at merely the sight of her.
+
+Sunlight glinted off of the rugged mesa, casting shadows across the swaying mimosas, and from a distance, it almost looked like a jumble of paisa shimmering in the early morning light.
+
+The towering ponderosa, with its waxy leaves and sprawling branches, stood watch in the clearing as the colorful salsa music of the local village played in the background and visitors from across the globe secured their visa in search of a better life.

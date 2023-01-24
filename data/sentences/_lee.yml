@@ -1,9 +1,11 @@
 source: _lee.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: coulee, enrollee
-Please create a short sentence using all these words: flee, Galilee
-Please create a short sentence using all these words: glee, jubilee
-Please create a short sentence using all these words: lee, melee
---- |
-@@@
+The coulee was full of enrollees eager to take their place in history and gain new knowledge from their educational experience.
+
+Anxious to flee the oppressive forces of their time, scores of people journeyed to the Holy Land of Galilee in search of a better life.
+
+The townspeople celebrated with glee as their country marked its jubilee with parades and fireworks that lit up the night sky.
+
+In the heat of battle, warriors engaged in a tumultuous melee, their blades clashing as they blocked each other's thrusts and slashes with quick reflexes and agility.

@@ -1,9 +1,11 @@
 source: _ract.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: cataract, contract, counteract
-Please create a short sentence using all these words: detract, distract, extract
-Please create a short sentence using all these words: interact, refract, retract
-Please create a short sentence using all these words: subcontract, subtract, tract
---- |
-@@@
+The doctor warned the patient that if he did not counteract his cataract with a contract, the condition would worsen significantly.
+
+The circus ringmaster attempted to distract the audience from the subpar performance by using an elaborate show to extract and detract attention away from the lackluster act.
+
+The artist was amazed as he watched the light refract off his newly painted mural and interact beautifully with the colors as he retracted his brush.
+
+The construction firm decided to subcontract the additional labor needed to finish the project, but first had to subtract the cost of supplies from the final tract.

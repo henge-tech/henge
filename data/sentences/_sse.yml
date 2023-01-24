@@ -1,9 +1,11 @@
 source: _sse.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bouillabaisse, crevasse, crosse
-Please create a short sentence using all these words: demitasse, finesse, fosse
-Please create a short sentence using all these words: impasse, lacrosse, mousse
-Please create a short sentence using all these words: passe, posse, wrasse
---- |
-@@@
+The hearty bouillabaisse steamed and bubbled in the pot, and its flavor wafted throughout the crevasse, where a river of crosse meandered through the landscape, winding its way to the sea.
+
+The demitasse of carefully crafted espresso was finished with a sprinkle of sugar and a layer of chocolate, its flavor infused with delicate finesse and stirred with a silver fosse, a perfect elixir to end the evening.
+
+Stuck at an impasse, the two sides debated their options, and as the tension rose so did the suggestions until finally a compromise was struck – a game of lacrosse to be played in the meadow with a mousse as the prize for the winner.
+
+The cowboy and his posse galloped across the wildland, guns blazing and dust flying, seeking an escape from the outlaws hot on their heels, until at last they found a narrow passe that led to safety, with a wrasse caught from the river in hand to cover their tracks.

@@ -1,9 +1,11 @@
 source: _shot.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bloodshot, buckshot, earshot
-Please create a short sentence using all these words: gunshot, hotshot, mailshot
-Please create a short sentence using all these words: mugshot, overshot, potshot
-Please create a short sentence using all these words: scattershot, slingshot, upshot
---- |
-@@@
+Jack awoke to a bloodshot sky, the buckshot echoing through the air as he heard someone shouting in earshot down the street.
+
+The gunshot rang out in the night, and the hotshot quickly reloaded while his mailshot missed its target wide by several feet.
+
+His mugshot stared out from the wanted flyer, and despite his best efforts to overshoot the police, his potshot missed the mark.
+
+He fired off a scattershot of bullets and quickly reloaded his slingshot, but the upshot of his plan was a dismal failure.

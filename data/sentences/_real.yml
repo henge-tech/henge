@@ -1,9 +1,11 @@
 source: _real.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: arboreal, boreal, cereal
-Please create a short sentence using all these words: corporeal, empyreal, ethereal
-Please create a short sentence using all these words: funereal, incorporeal, sidereal
-Please create a short sentence using all these words: surreal, unreal, venereal
---- |
-@@@
+Every morning, the arboreal creatures in the boreal forest would come out of the trees to feast on the sweet-smelling cereal that had been scattered across the ground.
+
+As the sun rose, a corporeal figure stood in the empyreal light, their ethereal silhouette blending with the mist that surrounded them.
+
+Amid the funereal atmosphere, an incorporeal presence filled the room, its sidereal song echoing through the shadows.
+
+I stepped into a surreal world, full of unreal sights and mysterious venereal stirrings in the air.

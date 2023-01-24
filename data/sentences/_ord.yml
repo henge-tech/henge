@@ -1,9 +1,11 @@
 source: _ord.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: accord, afford, afterword, byword, chord
-Please create a short sentence using all these words: clavichord, concord, cord, discord, fjord
-Please create a short sentence using all these words: ford, foreword, landlord, loanword, lord
-Please create a short sentence using all these words: milord, overlord, reword, warlord, watchword
---- |
-@@@
+Afterword, the resounding chord was accorded by all in attendance, and they could not afford to be seen as byword, so they accepted it with much enthusiasm.
+
+All was peaceful and in concord when suddenly there was a discordant sound of clavichord coming from the fjord, which they thought was connected to an ancient mysterious cord.
+
+The lord, the landlord of the ford, had a few forewords to share before welcoming his guests with a loanword from his native language, thus giving them a pleasant surprise.
+
+As milord and overlord, the warlord brought forth a watchword to his people, urging them to reword and appreciate the bountiful blessings that life had to offer.

@@ -1,9 +1,11 @@
 source: _ique.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: antique, applique, boutique
-Please create a short sentence using all these words: clique, communique, critique
-Please create a short sentence using all these words: mystique, oblique, physique
-Please create a short sentence using all these words: pique, technique, unique
---- |
-@@@
+Once upon a time, there was an old antique shop in the corner of town, with its walls adorned with intricate applique decorations and shelves overflowing with unique boutique items.
+
+As the members of the elite clique circulated their latest communique around town, they eagerly awaited critiques from their peers on its content and delivery.
+
+His mysterious mystique and oblique behavior had a captivating effect on everyone around him, as his perfect physique made him stand out from the crowd.
+
+He was determined to pique the interest of the audience by displaying a unique technique of performing that few people had ever seen before.

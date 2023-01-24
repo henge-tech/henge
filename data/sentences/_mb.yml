@@ -1,9 +1,11 @@
 source: _mb.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aplomb, catacomb, comb, coulomb
-Please create a short sentence using all these words: crumb, dumb, honeycomb, jamb
-Please create a short sentence using all these words: lamb, limb, numb, plumb
-Please create a short sentence using all these words: succumb, thumb, tomb, womb
---- |
-@@@
+With an air of aplomb and a spirit of adventure, the brave explorer ventured into the depths of the winding catacombs, illuminated only by the weak light of a single flickering torch held in one hand and a comb in the other to measure the coulombs of energy radiating from the walls.
+
+With hasty steps, she searched desperately through the crumbling crumb-filled crevices of the old stone hall, her voice echoing off the walls in its dumb fury as her gaze passed over a honeycomb embedded into one of the jamb frames.
+
+As his numb fingers brushed lightly over the sleek fur of the lamb, he was transfixed by its gentle eyes and gracefully curved limbs, and could not help but be in awe at how the fragile creature could remain so plumb in the face of adversity.
+
+After a long, arduous journey filled with obstacles, he finally reached his destination - the entrance to an ancient tomb - and as he placed his thumb upon the door, he resigned himself to the fact that he must succumb to the unknown and enter the womb of mystery.

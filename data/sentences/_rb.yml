@@ -1,9 +1,11 @@
 source: _rb.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: barb, blurb, curb
-Please create a short sentence using all these words: garb, herb, orb
-Please create a short sentence using all these words: perturb, proverb, reverb
-Please create a short sentence using all these words: rhubarb, suburb, superb
---- |
-@@@
+A curbside barb of gossip and blurb of news echoed through the neighborhood, reminding everyone to practice caution while out in public.
+
+An orb of golden light shone brilliantly against the emerald garb of the forest, emitting a crisp scent of freshly grown herbs.
+
+The proverb reverberated through the hall as the students were perturbed to find that their teacher had not arrived on time.
+
+The suburban neighborhood was superbly adorned with manicured lawns and rows of succulent rhubarb plants, creating a stunning sight.

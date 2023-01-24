@@ -1,9 +1,11 @@
 source: _mo.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: ammo, chemo, dynamo
-Please create a short sentence using all these words: generalissimo, gizmo, limo
-Please create a short sentence using all these words: machismo, majordomo, promo
-Please create a short sentence using all these words: schmo, supremo, ultimo
---- |
-@@@
+When modern warfare called for more powerful weaponry, the military began researching and developing cutting edge ammunition, such as chemo-dynamite, which provided significantly more destructive force than traditional explosives.
+
+The famous generalissimo was known for his lavish lifestyle, often travelling to important meetings and events in a luxurious limousine stocked with all the latest gizmos and gadgets.
+
+The young executive was brimming with machismo and he firmly believed that his majordomo should be doing whatever it took to promote their business, even if it meant going above and beyond the call of duty.
+
+The clueless schmo was under the impression that he was the supremo in charge, but little did he know, it was actually the ultimo decision maker who held all the power.

@@ -1,9 +1,11 @@
 source: _ora.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: agora, amphora, Angora
-Please create a short sentence using all these words: aurora, corpora, diaspora
-Please create a short sentence using all these words: fedora, flora, fora
-Please create a short sentence using all these words: hora, maquiladora, plethora
---- |
-@@@
+As visitors to the agora of ancient Angora admired the intricate amphorae on display, they couldn't help but be awed by the craftsmanship and artistry of the long-forgotten civilization.
+
+A brilliant aurora lit up the night sky as the diaspora of tired travelers gathered around the corpora of warmth and comfort to rest from their arduous journey.
+
+The fashionable fedora atop his head, he walked confidently into the fora of new experiences, taking in the intricate beauty of the flora that surrounded him.
+
+At the predetermined hora, the entire maquiladora factory came alive in a bustling flurry of activity, with a plethora of workers busily taking on tasks in sync.
