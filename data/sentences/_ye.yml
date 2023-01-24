@@ -1,9 +1,11 @@
 source: _ye.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aye, buckeye, bye
-Please create a short sentence using all these words: dye, eye, goodbye
-Please create a short sentence using all these words: lye, rye, sockeye
-Please create a short sentence using all these words: stye, walleye, ye
---- |
-@@@
+"Aye, buckeye!" said the sailor as he waved a hearty goodbye, fully aware that his buckeye was a symbol of good luck that he hoped would always be with him.
+
+She opened her eye and gazed around the room one last time, taking in all the memories she had made there before dyeing the fond farewell of goodbye across her lips.
+
+The farmer added lye to the rye and stirred it with his sockeye, a perfect combination for creating a loaf of dense, rustic bread that would be sure to tantalize the taste buds of all who ate it.
+
+She awoke with a stye in her eye and a throbbing headache, only to realize that her walleye fishing adventure the night before had been a success when she opened the bucket to find a wriggling ye.

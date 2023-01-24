@@ -1,9 +1,11 @@
 source: _ult.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: assault, catapult, consult
-Please create a short sentence using all these words: cult, exult, fault
-Please create a short sentence using all these words: insult, occult, somersault
-Please create a short sentence using all these words: tumult, ult, vault
---- |
-@@@
+After a careful consultation, it was decided the best plan of action to assault the castle walls was to employ catapults to create a pathway to victory.
+
+The cult members exulted in their accomplishments, but failed to recognize the fault of their beliefs that had led them to such an extreme situation.
+
+His insult to the occult was met with shock, so he tried to somersault out of the awkwardness of the situation.
+
+The crowd erupted in a tumultuous ult that echoed through the vaulted ceiling, demonstrating their fervent enthusiasm and support.

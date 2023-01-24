@@ -1,9 +1,11 @@
 source: _uff.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bluff, buff, cuff, dandruff, duff
-Please create a short sentence using all these words: fluff, foodstuff, gruff, guff, handcuff
-Please create a short sentence using all these words: huff, luff, muff, puff, rebuff
-Please create a short sentence using all these words: ruff, scruff, scuff, snuff, woodruff
---- |
-@@@
+Mary had a big, fluffy buff of dandruff on her shoulder, so she had to cautiously cover it up with her cuff to avoid anyone noticing her embarrassing bluff.
+
+After the gruff police officer handcuffed the thief, she noticed a bit of fluff on his shoulder and thought it was strange for someone to be stealing foodstuff and making guff about it.
+
+Joe tried to huff and puff, but the wind refused to cooperate, so he had to luff his sail and rebuff his opponent's advances until he finally reached his destination with a muff of sweat on his forehead.
+
+The little girl tripped and scuffed her knee, so she gingerly picked herself up and brushed off the dirt and woodruff before snuffing away her tears and putting her ruff back in place.

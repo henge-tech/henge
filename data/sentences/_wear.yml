@@ -1,9 +1,11 @@
 source: _wear.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: footwear, forswear, knitwear
-Please create a short sentence using all these words: neckwear, nightwear, outerwear
-Please create a short sentence using all these words: outwear, sportswear, swear
-Please create a short sentence using all these words: swimwear, underwear, wear
---- |
-@@@
+Many people forswear buying knitwear as their go-to footwear option, but that doesn't mean that it can't be a stylish and comfy choice.
+
+Whether you choose to keep it casual with neckwear, cozy up in some nightwear, or opt for the chic outerwear alternative, there is always a perfect wardrobe piece for every occasion.
+
+Although some might swear by outwear and sportswear for their daily wear, a carefully crafted combination of these clothing items can immediately up your style game.
+
+From underwear to wear for the office, to swimwear for the beach, there's something for everyone when it comes to choosing the perfect items for your wardrobe.

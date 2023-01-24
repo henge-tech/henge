@@ -1,9 +1,11 @@
 source: _za.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bonanza, cadenza, coryza
-Please create a short sentence using all these words: credenza, extravaganza, influenza
-Please create a short sentence using all these words: organza, piazza, pizza
-Please create a short sentence using all these words: plaza, Spinoza, stanza
---- |
-@@@
+The bonanza at the recital was a glorious cadenza, as every note brought a coryza of joy from the delighted audience.
+
+The exquisite credenza in the room was a true extravaganza, but its beauty was overshadowed by the influenza that had swept through the city.
+
+The square piazza was bustling with activity, and the warm aroma of pizza wafting through the air was fragranced with organza that lined the street.
+
+AI: We gathered at the plaza to celebrate the works of Spinoza, as we sang and danced in the stanza in a joyful and harmonious revere.

@@ -1,9 +1,11 @@
 source: _well.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: dwell, farewell
-Please create a short sentence using all these words: groundswell, inkwell
-Please create a short sentence using all these words: speedwell, stairwell
-Please create a short sentence using all these words: swell, unwell
---- |
-@@@
+As I bid farewell to the old dwelling in which I had been living for so long, I looked back with a heavy heart, yet also with a sense of anticipation for the new opportunities that lay ahead.
+
+As a groundswell of ideas flowed out of the inkwell, I was filled with possibilities and excitement for the future that awaited.
+
+Moving quickly down the stairwell, I heard the echo of my own footsteps as I hurried towards a new beginning and the promise of speedwell.
+
+As the swell of emotions came over me, I realized I was feeling unwell and knew I had to take a step back and take some time for myself.

@@ -1,9 +1,11 @@
 source: _thic.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: ethic, gothic, homeopathic
-Please create a short sentence using all these words: megalithic, monolithic, mythic
-Please create a short sentence using all these words: neolithic, osteopathic, paleolithic
-Please create a short sentence using all these words: psychopathic, sociopathic, telepathic
---- |
-@@@
+Homeopathic ethics and gothic principles were once widely accepted as the norm, but now their influence on society has decreased significantly.
+
+The megalithic monuments, monolithic structures and mythic stories from ancient times are integral components of our collective history, offering a reminder of our origins and heritage.
+
+The early neolithic, paleolithic and osteopathic practices of our ancestors demonstrated a holistic approach to health, as they believed in healing through natural treatments.
+
+In some cultures, being a psychopath or sociopath with telepathic abilities was seen as a blessing, as it enabled them to gain insight into the innermost thoughts of individuals.

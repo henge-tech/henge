@@ -1,9 +1,11 @@
 source: _ux.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: beaux, chateaux, crux
-Please create a short sentence using all these words: faux, flux, influx
-Please create a short sentence using all these words: lux, redux, reflux
-Please create a short sentence using all these words: roux, tableaux, tux
---- |
-@@@
+The beaux chateaux, with their majestic towers and ornate spires, were often seen as the crux of luxury, signifying a life of wealth and privilege.
+
+When a sudden flux of people from all around the globe attempted to cross the border, the border patrol was shocked to find so many utilizing false passports in an influx of undocumented immigrants.
+
+The lux that had been enjoyed by many was reduced to a trickle as the reflux of resources and income became more apparent, forcing people to seek alternative means of sustaining their lifestyles.
+
+Couples dressed in their finest tux and gowns, laughed and danced around the magnificent tableaux of the roux-filled feast, as they celebrated the joy of life.

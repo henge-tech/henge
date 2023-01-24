@@ -1,9 +1,11 @@
 source: _tick.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: broomstick, candlestick, dipstick
-Please create a short sentence using all these words: drumstick, matchstick, nonstick
-Please create a short sentence using all these words: shtick, slapstick, stick
-Please create a short sentence using all these words: tick, uptick, yardstick
---- |
-@@@
+She slowly opened the door, clutching her broomstick tightly in one hand and a candlestick in the other to light the way, as she gingerly dipped the dipstick into the unknown.
+
+She carefully pounded the drumstick against the side of the matchbox, her eyes twinkling in anticipation as she struck a single matchstick and lit the nonstick pan.
+
+She twirled her shtick in the air with one hand and tossed a slapstick in the other, before grabbing hold of an old stick to help her balance on the tightrope.
+
+He carefully reached into the box and grabbed the tick, before placing it next to the uptick on the yardstick to measure how far they had to go.

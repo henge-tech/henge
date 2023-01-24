@@ -1,9 +1,11 @@
 source: _the.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: absinthe, bathe, blithe, breathe
-Please create a short sentence using all these words: clothe, lathe, lethe, lithe
-Please create a short sentence using all these words: loathe, scythe, sheathe, soothe
-Please create a short sentence using all these words: swathe, tithe, unsheathe, writhe
---- |
-@@@
+I was taking a leisurely stroll on the beach and breathed in the salty air; it was sheer bliss as the sun bathed my skin and the pleasant scent of absinthe wafted by, making me feel blithe and content.
+
+She spun around the lathe gracefully, her lithe body moving with perfect poise as she twirled and glided; the cloth she wore flowed harmoniously with the motions of her body until she was dressed in a trance-like state, embracing lethe and completely unaware of her surroundings.
+
+As he gazed upon the tall grass, a wave of loathing washed over him; he gritted his teeth and readied his scythe to take down the wild plants with a single, powerful swing. Yet as he exhaled and sheathed his weapon, a sense of serenity soothed his spirit and renewed his sense of purpose.
+
+She wrapped herself up in the swathe of fabric, savoring the warmth and comfort it provided; tithes of energy cascaded through her body as she unsheathed her inner strength and writhed in pleasure and joy.

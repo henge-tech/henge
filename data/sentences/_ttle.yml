@@ -1,9 +1,11 @@
 source: _ttle.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: battle, belittle, bottle, brittle, cattle
-Please create a short sentence using all these words: kettle, little, mettle, nettle, prattle
-Please create a short sentence using all these words: rattle, scuttle, settle, shuttle, spittle
-Please create a short sentence using all these words: tattle, throttle, tittle, wattle, whittle
---- |
-@@@
+During the great battle between the belittled bottle and the brittle cattle, no one could have predicted that such powerful adversaries would ultimately succumb to their own fragility.
+
+After the kettle had been boiling and the little mettle was tested, the nettle was proudly prattled about as though it were a symbol of great strength and resilience.
+
+The rattle of the scuttling feet, the settling of the shuttle, and the spittle expelled with such vigor were all signs that something was about to happen in the near future.
+
+As the tattle was spreading, someone sought to throttle it with a tittle, but the wattle and whittling of the source kept its flame alive, proving too hot to snuff out.

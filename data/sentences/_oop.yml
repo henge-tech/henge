@@ -1,9 +1,11 @@
 source: _oop.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: coop, droop, goop
-Please create a short sentence using all these words: hoop, poop, scoop
-Please create a short sentence using all these words: sloop, snoop, stoop
-Please create a short sentence using all these words: swoop, troop, whoop
---- |
-@@@
+The little chicken that was so happy to have a place of its own in the coop drooped with sadness when its feathers were coated in a thick layer of goop.
+
+She grabbed the old hoop and excitedly leapt into a huge scoop of poop, hoping to find something cool inside.
+
+She cautiously crept up to the old sloop and, while she was trying not to stoop, she used her nose to snoop around to figure out what was inside.
+
+The triumphant army of brave troops whooped with joy as they swooped in and conquered their enemy.

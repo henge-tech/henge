@@ -1,9 +1,11 @@
 source: _sel.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: carousel, chisel, counsel
-Please create a short sentence using all these words: damsel, diesel, easel
-Please create a short sentence using all these words: morsel, mussel, tassel
-Please create a short sentence using all these words: tinsel, vessel, weasel
---- |
-@@@
+In a dizzying carousel of life, one must be careful to chisel their counsel out of the chaos.
+
+The brave damsel opened the massive door with a diesel-powered easel in hand, ready to conquer whatever lay ahead.
+
+As the sun set, a small morsel of food was delicately served on a plate with a glimmering mussel and golden tassel.
+
+The silver tinsel twinkled in the night as a grand vessel sailed by, leaving an inquisitive weasel behind to ponder its destination.

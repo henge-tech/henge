@@ -1,9 +1,11 @@
 source: a_ant.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aberrant, abundant, accountant
-Please create a short sentence using all these words: adamant, adjutant, antioxidant
-Please create a short sentence using all these words: appellant, applicant, arrogant
-Please create a short sentence using all these words: ascendant, aspirant, assailant
---- |
-@@@
+The aberrant behavior of the accountant was abundant and egregious, leaving the company no choice but to fire her for her irregular actions.
+
+The adamant adjutant to the King insisted that he only consume high-quality, antioxidant-rich foods to ensure a long and healthy life.
+
+The arrogant applicant's protracted appeal was unsuccessful, as the court found his claims to be without merit and dismissed him.
+
+The assailant, an ambitious aspirant aiming for ascension to power, made the mistake of challenging a much more experienced and formidable opponent.

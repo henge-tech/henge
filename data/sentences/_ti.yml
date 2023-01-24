@@ -1,9 +1,11 @@
 source: _ti.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: agouti, anti, cacti
-Please create a short sentence using all these words: confetti, graffiti, literati
-Please create a short sentence using all these words: mufti, multi, spaghetti
-Please create a short sentence using all these words: ti, wapiti, yeti
---- |
-@@@
+The agouti ran so quickly that it seemed as though it was anti-gravity, leaping over the tall cacti with almost no effort at all.
+
+As the confetti descended from the heavens, it illuminated the artistic graffiti on the walls, delighting the literati who marveled at its beauty.
+
+The man in the mufti outfit held a platter of multi-colored spaghetti noodles, presenting them as an offering to his awe-inspired friends.
+
+Through the dense fog, the explorer spotted a curious figure, which he soon discovered was a mythical yeti wearing a ti, or traditional woven hat, and standing beside a majestic wapiti.

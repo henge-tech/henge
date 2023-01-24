@@ -1,9 +1,11 @@
 source: _ndly.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: blandly, blindly, fondly
-Please create a short sentence using all these words: friendly, grandly, jocundly
-Please create a short sentence using all these words: kindly, profoundly, roundly
-Please create a short sentence using all these words: secondly, soundly, spindly
---- |
-@@@
+She fondly smiled as she blindly walked blandly through the park, unaware of the beauty that surrounded her.
+
+He jocundly greeted his friends with a friendly smile, feeling grandly content that everyone was gathered together for the evening.
+
+She spoke kindly and roundly, her words profoundly touching the hearts of all who listened.
+
+Secondly, he tested the spindly structure with a sound thud to determine if it was strong enough to support his weight.

@@ -1,9 +1,11 @@
 source: _omer.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: astronomer, bloomer, boomer
-Please create a short sentence using all these words: comer, customer, elastomer
-Please create a short sentence using all these words: homer, isomer, misnomer
-Please create a short sentence using all these words: monomer, newcomer, roomer
---- |
-@@@
+The astute astronomer was known to be a real bloomer and boomer, always discovering something new and exciting in the night sky.
+
+The eager comer who was also a loyal customer of the store quickly realized the advantages of using elastomer in all of his daily tasks.
+
+Homer was creative with words, quickly coming up with clever isomers and misnomers to keep his conversations interesting and entertaining.
+
+The monomer found in the newcomer's suitcase was a surprise to the roomer who was expecting something much different.

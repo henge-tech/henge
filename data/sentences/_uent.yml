@@ -1,9 +1,11 @@
 source: _uent.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: affluent, confluent, congruent
-Please create a short sentence using all these words: consequent, constituent, delinquent
-Please create a short sentence using all these words: effluent, eloquent, fluent
-Please create a short sentence using all these words: frequent, infrequent, subsequent
---- |
-@@@
+Although affluence and confluence are often seen to be similar, their congruence can be seen in the way that they both result in a coming together of different people, aspects, or ideas.
+
+The delinquent's actions had dire consequent upon the constituents of the community, resulting in a loss of morale and trust in the individual.
+
+The singer's eloquent lyrics and fluently effluent phonetics mesmerized the audience with its captivating power of expression.
+
+Although the initial occurrence of the event was infrequent, its subsequent frequency eventually made it a part of everyday life.

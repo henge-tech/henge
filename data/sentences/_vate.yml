@@ -1,9 +1,11 @@
 source: _vate.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aggravate, captivate, cultivate
-Please create a short sentence using all these words: deactivate, elevate, enervate
-Please create a short sentence using all these words: excavate, innervate, innovate
-Please create a short sentence using all these words: motivate, renovate, salivate
---- |
-@@@
+If you want to be successful, it's important to cultivate the ability to captivate people with your ideas, rather than aggravating them with your words.
+
+If you want to achieve success, it's important to elevate yourself by staying motivated and deactivating anything in your life that enervates your progress.
+
+Innovative ideas can be unearthed through careful excavation of your thoughts and creativity, enlivened by innervating your spirit with enthusiasm and energy.
+
+A positive outlook and strong motivation can help to renovate your life, inspiring you to salivate at the thought of the possibilities that lie ahead.

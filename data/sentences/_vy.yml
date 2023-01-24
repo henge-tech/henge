@@ -1,9 +1,11 @@
 source: _vy.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: anchovy, bevy, envy
-Please create a short sentence using all these words: gravy, groovy, ivy
-Please create a short sentence using all these words: levy, navy, nervy
-Please create a short sentence using all these words: privy, savvy, scurvy
---- |
-@@@
+To be the envy of all his friends, he dutifully purchased a whole bevy of anchovies every week, ensuring that he always had enough of the salty fish to impress his dinner guests.
+
+Every Saturday night, she would put on her most groovy dress, then head out to the local cafe, covered with a tantalizing layer of ivy, where they served up the best gravy you could possibly imagine.
+
+He was a nervy young sailor in the navy who, despite his fear, bravely volunteered to be part of the mission that would levy a tax on the pirates of the Caribbean.
+
+He was a savvy old sailor who had seen many adventures, and so he kept much of his knowledge close to the vest, privy only to himself and those who suffered from scurvy.

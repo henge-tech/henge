@@ -1,9 +1,11 @@
 source: _tomy.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: anatomy, appendectomy, colostomy
-Please create a short sentence using all these words: dichotomy, hysterectomy, laparotomy
-Please create a short sentence using all these words: lobotomy, mastectomy, phlebotomy
-Please create a short sentence using all these words: tonsillectomy, tracheotomy, vasectomy
---- |
-@@@
+After undergoing an appendectomy, the patient was delighted to discover that a colostomy, a procedure in which the surgeon reroutes the anatomy of the digestive system, had been successful.
+
+The dichotomy between the hysterectomy and the laparotomy was clear; a hysterectomy removes the uterus, while a laparotomy is a surgical procedure that involves making an incision in the abdominal cavity to access the internal organs.
+
+After her mastectomy, the patient was informed that a lobotomy, a procedure in which the neural connections in the brain are severed, followed by a phlebotomy, a process of withdrawing blood from a person's body, would be necessary to ensure a full recovery.
+
+The medical team recommended that the patient undergo a tonsillectomy, a procedure in which the tonsils are removed, followed by a tracheotomy, an incision in the trachea to create an airway, and finally a vasectomy, the surgical removal of a man's vas deferens to prevent reproduction.

@@ -1,9 +1,11 @@
 source: _tt.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: Babbitt, boycott, butt
-Please create a short sentence using all these words: Crockett, headbutt, magawatt
-Please create a short sentence using all these words: mitt, mutt, putt
-Please create a short sentence using all these words: scuttlebutt, sett, watt
---- |
-@@@
+The irate citizens of the city of Babbitt decided to boycott the mayor's decision to build a large butt in the city square.
+
+Davy Crockett, a man of strength and wisdom, had the courage to headbutt an opponent with such force that it registered a magawatt of energy on the Richter scale.
+
+With a delicate putt, the boy tapped his golf ball towards the hole while his trusty mutt mitt took in the scent of the lush grass surrounding them.
+
+A scuttlebutt of gossip spread throughout the small sett when it was revealed that a bright bulb used two thousand watts of electricity every night.

@@ -1,9 +1,11 @@
 source: _tz.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: blitz, chintz, ditz, ersatz
-Please create a short sentence using all these words: fritz, glitz, hertz, kibbutz
-Please create a short sentence using all these words: kibitz, klutz, megahertz, putz
-Please create a short sentence using all these words: quartz, spitz, spritz, waltz
---- |
-@@@
+The ersatz football team thought they were invincible, and came out on the field like a blitz to overwhelm the competition with their chintz-like performance, only to be outdone by a ditz of an opposing player.
+
+The locals in the small kibbutz gathered round to watch Fritz and his friends put on a glitzy show, all moving in time with the hertz of their ecstatic music.
+
+Despite the putz that the klutz of the group kept making, they were still able to come together in an impressive megahertz style and kibitz their way to victory.
+
+When the sparkling quartz dust sparkled in the sun, all the spitz and their owners glided gracefully across the floor to the sound of a sweet waltz, adding a spritz of energy to the atmosphere.

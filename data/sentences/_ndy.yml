@@ -1,9 +1,11 @@
 source: _ndy.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bendy, burgundy
-Please create a short sentence using all these words: candy, organdy
-Please create a short sentence using all these words: randy, sandy
-Please create a short sentence using all these words: trendy, windy
---- |
-@@@
+The burgundy ribbon was so bendy that it could be twisted and turned into beautiful shapes, but still remained soft and supple.
+
+The organdy dress was so sweet, like the candy she had been craving, that when she tried it on, she knew it was the perfect choice for her.
+
+Randy was walking along the sandy beach, letting the sun warm his skin as he thought of all the possibilities that lay before him.
+
+His trendy outfit was the perfect choice for a windy day, keeping him warm and stylish as he ventured out into the city.

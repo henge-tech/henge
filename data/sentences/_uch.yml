@@ -1,9 +1,11 @@
 source: _uch.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: couch, crouch, debauch
-Please create a short sentence using all these words: debouch, eunuch, grouch
-Please create a short sentence using all these words: inasmuch, insomuch, pouch
-Please create a short sentence using all these words: retouch, slouch, vouch
---- |
-@@@
+The lounger on the patio was so comfortable that he decided to crouch down on it and debauch the afternoon away, forgetting all of his worries as he sank into the soft cushions of the couch.
+
+Full of ambition and determination, the eunuch debouched his way out of the palace, a scowl plastered on his face as he marched away with a distinct air of grouchiness.
+
+Inasmuch as he had always been a light traveler, he made sure to make the most of his limited space and carefully placed everything he needed within his small pouch, insomuch that it was almost bursting at the seams.
+
+With a few deft strokes, the painter retouched the canvas, slouching in his chair as he took a step back to take in the beauty of his work, vouching that this painting would surpass even his own expectations.

@@ -1,9 +1,11 @@
 source: _type.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: archetype, biotype, daguerreotype
-Please create a short sentence using all these words: ecotype, genotype, logotype
-Please create a short sentence using all these words: monotype, phenotype, prototype
-Please create a short sentence using all these words: stereotype, teletype, tintype
---- |
-@@@
+The classic archetype of a person has been expressed through paintings and daguerreotypes for centuries, but biotypes are more complex ways to represent someone's unique individual features.
+
+An ecotype is an organism adapted to a particular local environment, while a genotype is an organism with a specific genetic makeup and logotypes are symbols that represent a particular organization or brand.
+
+A monotype is a one-of-a-kind work of art, a phenotype is an organism's physical appearance and behavior, beyond its genetic makeup, and a prototype is an early sample or model of a product made for testing.
+
+Stereotypes are oversimplified and often inaccurate ideas about a group of people, teletypes send typed messages over long distances and tintypes are photographs printed on thin sheets of iron.

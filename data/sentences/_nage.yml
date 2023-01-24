@@ -1,9 +1,11 @@
 source: _nage.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: badinage, carnage, coinage
-Please create a short sentence using all these words: drainage, espionage, menage
-Please create a short sentence using all these words: orphanage, parsonage, patronage
-Please create a short sentence using all these words: personage, signage, tonnage
---- |
-@@@
+When the battle ended in carnage, the victorious king rewarded his loyal soldiers with a coinage of badinage, recognizing their courage and service.
+
+The secret intelligence agents of the government had to be highly skilled in espionage to ensure the menage of drainage systems and dams across the country remained safe and secure.
+
+The kind philanthropist donated generously to the orphanage and parsonage, showing his patronage and support to the needy and disadvantaged.
+
+People thronged the streets to catch a glimpse of the famous personage, and street signs bearing large tonnage of words hinted at some important announcement.

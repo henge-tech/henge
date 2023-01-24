@@ -1,9 +1,11 @@
 source: _ume.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: assume, consume, costume
-Please create a short sentence using all these words: exhume, flume, fume
-Please create a short sentence using all these words: legume, perfume, plume
-Please create a short sentence using all these words: presume, resume, subsume
---- |
-@@@
+It is safe to assume that when you consume too much of a costume, it can become an overwhelming experience.
+
+When you exhume something from the flume, it will often release a fume of dust and debris into the air.
+
+The legume was so fragrant that the perfume wafted through the air, coating the plume of smoke surrounding it.
+
+We can presume that when you resume a task it will subsume any prior progress made on that task.

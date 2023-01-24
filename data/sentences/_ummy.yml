@@ -1,9 +1,11 @@
 source: _ummy.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: chummy, crummy, dummy
-Please create a short sentence using all these words: gummy, mummy, plummy
-Please create a short sentence using all these words: rummy, scummy, slummy
-Please create a short sentence using all these words: thingummy, tummy, yummy
---- |
-@@@
+The friendly chummy boy was feeling crummy, so he decided to act like a dummy just to make his friends laugh.
+
+After eating all the gummy bears, the mummy was amazed by the sweet and plummy taste that lingered on her tongue.
+
+The cunning rummy player was caught by surprise when he discovered the hidden scummy layer beneath the slummy exterior of his opponent.
+
+The little girl was so excited when she found the thingummy tucked away in her tummy that she couldn't help but smile and think of how yummy it would be.

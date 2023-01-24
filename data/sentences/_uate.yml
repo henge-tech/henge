@@ -1,9 +1,11 @@
 source: _uate.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: accentuate, actuate, adequate, attenuate
-Please create a short sentence using all these words: disambiguate, effectuate, equate, evacuate
-Please create a short sentence using all these words: evaluate, eventuate, fluctuate, insinuate
-Please create a short sentence using all these words: perpetuate, punctuate, situate, undergraduate
---- |
-@@@
+Adequate planning and preparation can actuate the success of any endeavor, but accentuating the positive aspects and attenuating the negative ones can ensure its lasting impact.
+
+The process of disambiguating complex concepts and situations can effectuate progress, but it is important to equate the importance of evacuating dangerous locations with any other endeavor.
+
+Fluctuating market conditions and varying opinions can make it difficult to evaluate a situation, but the results can eventuate in unforeseen consequences if one is not careful to not insinuate their own biases.
+
+An undergraduate education can help perpetuate knowledge and understanding, but it is important to punctuate it with real-world experiences in order to better situate oneself in society.

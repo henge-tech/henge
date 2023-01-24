@@ -1,9 +1,11 @@
 source: _unch.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: brunch, bunch, counterpunch
-Please create a short sentence using all these words: crunch, haunch, hunch
-Please create a short sentence using all these words: launch, munch, paunch
-Please create a short sentence using all these words: punch, scrunch, staunch
---- |
-@@@
+After brunch, they gathered in a bunch to counterpunch the opposition with their brilliant ideas.
+
+She crunched her way through the haunch of venison with a hunch that it would be the finest meal she had ever tasted.
+
+The rocket was launched with great fanfare, the crowd munching on snacks as they watched its paunch slowly ascend into the sky.
+
+He threw a punch at his opponent with a scrunch of his face, a staunch determination to win the fight etched into every line of his expression.

@@ -1,9 +1,11 @@
 source: _ud.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: aloud, applaud, bud, crud
-Please create a short sentence using all these words: cud, defraud, dud, feud
-Please create a short sentence using all these words: fraud, laud, pseud, scud
-Please create a short sentence using all these words: shroud, spud, stud, thud
---- |
-@@@
+She spoke the words aloud, and the audience immediately began to applaud her eloquent speech about the delicate bud of a dandelion, despite the crudeness of her surroundings.
+
+The cud of wisdom had been defrauded from the old man, leaving him a hollow dud as he feuded with his nemesis for years over an obscure grudge.
+
+The fraud was quickly discovered, and the voice of their leader was soon heard, lauding the clever pseud who had uncovered the truth, while the scud of the fleeing culprits faded away.
+
+The sky was shrouded in darkness as the spud of a potato bounced off a nearby wall, making a loud thud as it ricocheted off a stud, leaving a reverberating echo in its wake.

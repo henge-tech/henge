@@ -1,9 +1,11 @@
 source: _tery.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: adultery, artery, blustery, buttery
-Please create a short sentence using all these words: cemetery, dysentery, eatery, flattery
-Please create a short sentence using all these words: jittery, lottery, mastery, monastery
-Please create a short sentence using all these words: pottery, presbytery, upholstery, watery
---- |
-@@@
+On a blustery afternoon, a young man was in a state of utter dismay when he found out that his beloved had committed adultery, for it felt like a dagger to his artery and his heart had turned to a buttery mess.
+
+Despite the grimness of the cemetery, there was something oddly serene about the area; even still, it didn't stop the spread of dysentery that initiated from the nearby eatery, a sickness much worse than any sort of verbal flattery one might try to use.
+
+After months of anxious waiting, the man was jittery with anticipation when it came time to collect his lottery winnings; however, his luck was truly blessed when he was offered a mastery of skills at the local monastery and a chance for spiritual enrichment.
+
+She looked around her living room at the fine pottery and exquisite upholstery, and sighed contentedly; for even though the presbytery was miles away, she could still feel a sense of peace and tranquility, which helped to wash away her watery sorrows.

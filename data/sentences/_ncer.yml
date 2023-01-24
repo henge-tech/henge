@@ -1,9 +1,11 @@
 source: _ncer.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: announcer, anticancer, bouncer
-Please create a short sentence using all these words: cancer, dancer, enhancer
-Please create a short sentence using all these words: fencer, lancer, necromancer
-Please create a short sentence using all these words: sequencer, silencer, spencer
---- |
-@@@
+The announcer in the stadium shouted out with excitement that the recent discovery of an anticancer drug had resulted in a bouncer-like effect, leading to much improved prognosis for those suffering from the disease.
+
+The cancer cells were aghast as they watched the graceful dancer twirl gracefully around the room, for her movements seemed to be magically enhanced beyond their wildest dreams.
+
+The master fencer, a lancer of incredible skill, seemed to be using his powers as a necromancer to control the weapons of his opponents, as if by some force of dark magic.
+
+The scientists in the laboratory had created a sophisticated sequencer that not only could decode the most complex of genetic patterns but also functioned as a silencer, preventing any sound from escaping the room, even for an experienced ear such as Spencer's.

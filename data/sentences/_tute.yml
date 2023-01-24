@@ -1,9 +1,11 @@
 source: _tute.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: astute, constitute
-Please create a short sentence using all these words: destitute, institute
-Please create a short sentence using all these words: prostitute, reconstitute
-Please create a short sentence using all these words: statute, substitute
---- |
-@@@
+The astute politician quickly realized that the best way to constitute his victory was to develop relationships with his constituents, so that they could trust him and work together meaningfully.
+
+The destitute family had exhausted all other options, so they chose to institute a weekly meals program at their local church to ensure they had enough food to sustain them.
+
+In an effort to reconstitute the seedy underworld, the local police force began an undercover investigation of the area's prostitutes, hoping to find the root of the problem and provide a solution.
+
+In order to follow the statute, the school principal had to find a suitable substitute teacher to fill in while the regular teacher was on leave; luckily, they were able to find one just in time.

@@ -1,9 +1,11 @@
 source: _mper.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bumper, damper, distemper, dumper
-Please create a short sentence using all these words: hamper, jumper, pamper, plumper
-Please create a short sentence using all these words: romper, scamper, simper, stumper
-Please create a short sentence using all these words: tamper, temper, tramper, whimper
---- |
-@@@
+A bumper in the road dampened our spirits, and even though we tried to remain in good distemper, our enthusiasm was frayed by the presence of a huge dumper truck.
+
+We were all delighted to find a hamper in the corner of the room and immediately began searching for something that we could use as a jumper; however, our excitement was quelled when we realized that the plumper had been pampered too much and was too old for us to use.
+
+As we attempted to run away, our romper prevented us from making any swift escape and we could only scamper a few steps before a mysterious figure halted us in our tracks and gave us a simpering smile, stumping us with their enchanting charm.
+
+Despite our efforts to tamper with the box in the corner, we soon realized that our temper was getting the best of us and we tramped off in a huff, whimpering at our failed attempt.

@@ -1,9 +1,11 @@
 source: _zy.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: boozy, breezy, cozy, crazy
-Please create a short sentence using all these words: dizzy, fizzy, frenzy, frizzy
-Please create a short sentence using all these words: fuzzy, glitzy, hazy, jazzy
-Please create a short sentence using all these words: lazy, sleazy, snazzy, woozy
---- |
-@@@
+The booziest and breeziest of days could be cozy and even a bit crazy, but that's why we love them, right?
+
+The dizziness of all the fizziness, frenzy and frizziness can be quite overwhelming, but it's a fun and exciting feeling, isn't it?
+
+From a fuzzy, glitzy and hazy beginning, the party slowly turns into a jazzy and cheerful atmosphere that brings smiles to everyone's faces.
+
+Those lazy days are sometimes filled with sleazy vibes, but when snazzy items come into the mix and dance moves make you woozy, that's when it truly gets fun!

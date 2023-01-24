@@ -1,9 +1,11 @@
 source: _val.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: adjectival, approval, archival
-Please create a short sentence using all these words: larval, medieval, naval
-Please create a short sentence using all these words: oval, primeval, removal
-Please create a short sentence using all these words: retrieval, revival, upheaval
---- |
-@@@
+The archival room was filled with documents that had received adjectival approval for further study.
+
+Medieval naval warfare often involved the use of larval ships to mount surprise attacks on enemy vessels.
+
+The removal of primeval trees from the oval-shaped forest had a drastic, detrimental effect on the local ecology.
+
+The retrieval of ancient artifacts caused a massive upheaval in the archaeological community as it provided evidence for a possible revival of lost cultures.

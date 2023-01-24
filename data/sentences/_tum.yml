@@ -1,9 +1,11 @@
 source: _tum.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: arboretum, datum, dictum, factotum
-Please create a short sentence using all these words: momentum, postpartum, quantum, rectum
-Please create a short sentence using all these words: sanctum, scrotum, septum, sputum
-Please create a short sentence using all these words: stratum, substratum, tum, ultimatum
---- |
-@@@
+An arboretum is a place where trees and plants are grown in a specialized environment and carefully maintained; as such, it can be seen as a datum of information about the diversity of nature, while a dictum is an authoritative statement based on facts and knowledge, making a factotum the perfect combination of both - someone who can make use of this valuable data and create something extraordinary.
+
+Momentum is a measure of an object's inertia or its ability to maintain its speed and direction; postpartum can similarly refer to the recovery process of a person or event, whether referring to physical well-being or the aftermath of a momentous occasion; quantum is a concept of measurement, applicable to both the subatomic world and everyday life, while the rectum is often overlooked in terms of importance, but nevertheless serves a vital role in digestion and waste management.
+
+Sanctum is a sanctified space or area, typically used for religious ceremonies or spiritual meditations; scrotum is the pouch of skin containing the testicles, a vital part of male reproductive health; septum refers to the wall-like divisions which form in various organs and structures; and sputum is a type of mucus produced as a result of an infection or inflammation of the respiratory system.
+
+Stratum is an organized layer of a material, which can be physical or conceptual; substratum is the underlying foundation of something, providing the basis for further growth or development; tum is an onomatopoeic term which implies a movement, often when referring to a swelling or rising of emotion; and an ultimatum is a final demand or proposition issued with a clear deadline, holding serious consequences if ignored.

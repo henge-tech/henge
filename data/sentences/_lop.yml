@@ -1,9 +1,11 @@
 source: _lop.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: clop, dollop, envelop
-Please create a short sentence using all these words: flop, gallop, galop
-Please create a short sentence using all these words: lop, plop, redevelop
-Please create a short sentence using all these words: scallop, slop, wallop
---- |
-@@@
+The wind clop-clopped through the air, enveloping us with a dollop of warmth and peace.
+
+The horse galloped quickly through the meadow, its mane flapping in the wind as it seemed to galop with a sense of freedom and joy.
+
+He lop-sidedly plopped into the armchair, taking a few moments to redevelop his thoughts and plan out the next step of his journey.
+
+With a scallop of her brush, she created a masterpiece of a painting, walloping with vibrant colors and a thick slathering of paint.

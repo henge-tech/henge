@@ -1,9 +1,11 @@
 source: a_ary.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: actuary, adversary, alimentary
-Please create a short sentence using all these words: ancillary, anniversary, antiquary
-Please create a short sentence using all these words: apiary, apothecary, arbitrary
-Please create a short sentence using all these words: auxiliary, aviary, axillary
---- |
-@@@
+An actuary must keep track of his adversaries' alimentary habits in order to best predict the future and protect their clients from potential risks.
+
+In celebration of their 10 year anniversary, the antiquary presented their loyal customers with an ancillary selection of collectables as a token of appreciation.
+
+The apothecary had to carefully weigh the arbitrary decisions of the apiary keeper in order to ensure the health of the beehives.
+
+The auxiliary team at the aviary worked diligently to keep the winged inhabitants healthy and happy by regularly checking their axillary feathers.

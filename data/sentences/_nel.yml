@@ -1,9 +1,11 @@
 source: _nel.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: colonel, cornel, fennel
-Please create a short sentence using all these words: flannel, funnel, kennel
-Please create a short sentence using all these words: kernel, personnel, pimpernel
-Please create a short sentence using all these words: runnel, sentinel, shrapnel
---- |
-@@@
+The Colonel, in his dress blues and silver epaulettes, marched with aplomb through the garden filled with fragrant fennel and delicate cornel blossoms.
+
+As the wind whipped around the funnel, it billowed the warm flannel blanket which protected the contented puppies in the kennel.
+
+The kernel of the Personnel department had a lot to oversee, from daily tasks to monitoring the prickly but essential Pimpernel flower's monthly performance.
+
+The peaceful runnel was disturbed by the booming sound of the sentinel's wakeup call, ominously followed by the metallic clank of shrapnel in the air.

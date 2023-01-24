@@ -1,9 +1,11 @@
 source: _tual.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: contextual, contractual, conventual
-Please create a short sentence using all these words: effectual, eventual, factual
-Please create a short sentence using all these words: habitual, mutual, perceptual
-Please create a short sentence using all these words: perpetual, punctual, ritual
---- |
-@@@
+In a contractual context, the conventual understanding is that parties should strive to work together for mutual benefit.
+
+The effectual result of any action is eventually revealed by factual evidence, so it is important to consider the consequences of any decision.
+
+Habitual actions lead to mutual expectations and those expectations shape our perceptual experience of the world.
+
+A perpetual punctuality of rituals is essential for upholding a culture's shared values and beliefs.

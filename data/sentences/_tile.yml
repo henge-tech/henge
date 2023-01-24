@@ -1,9 +1,11 @@
 source: _tile.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: contractile, ductile, erectile, fertile, futile
-Please create a short sentence using all these words: gentile, hostile, infantile, infertile, mercantile
-Please create a short sentence using all these words: motile, percentile, projectile, reptile, stile
-Please create a short sentence using all these words: tactile, textile, turnstile, versatile, volatile
---- |
-@@@
+The contractile muscles of a strong and healthy body enable it to remain erectile and powerful, thus making it both ductile and fertile in its actions and endeavors, however futile they may be.
+
+Though the gentile baby was greeted warmly by her hostile neighbors, her infertile parents found it difficult to provide for her in their mercantile world, thus leading to some regrettably infantile consequences.
+
+Taking aim carefully, the young hunter released a projectile from his bow, watching as it sped through the air and quickly motile towards its reptilian target, hitting with accuracy within the top percentile of shots, and finally coming to rest against the stile at the far side of the field.
+
+The tactile feel of the luxurious textile was exquisite, and its versatile nature made it a valuable commodity in the volatile market of luxury goods; this was evident as it frequently passed through the turnstile of fashionable shoppers and tasteful connoisseurs alike.

@@ -1,9 +1,11 @@
 source: _tan.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: capstan, charlatan, cosmopolitan
-Please create a short sentence using all these words: metropolitan, orangutan, Puritan
-Please create a short sentence using all these words: rattan, Spartan, sultan
-Please create a short sentence using all these words: tan, tartan, titan
---- |
-@@@
+The cosmopolitan city was filled with charlatans, all vying for their turn at the capstan to win the day and make their dreams come true.
+
+The Puritan orangutan ventured into the vibrant metropolitan city and was instantly enthralled by the plurality of cultures and sounds he encountered.
+
+The sultan admired the Spartan strength and beauty of the rattan furniture in his palace, its intricate designs reminding him of the power and elegance of his kingdom.
+
+The titan gazed upon the tartan pattern in awe, its diverse shades of tan evoking memories of a distant land and its glorious past.

@@ -1,9 +1,11 @@
 source: _sant.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: antidepressant, complaisant, conversant
-Please create a short sentence using all these words: croissant, depressant, incessant
-Please create a short sentence using all these words: peasant, pheasant, pleasant
-Please create a short sentence using all these words: recusant, suppressant, unpleasant
---- |
-@@@
+She was an incredibly complaisant woman, always conversant with everyone she encountered and never seen without a glass of antidepressant in her hand.
+
+The incessant sound of alarm bells and the smell of freshly-baked croissants made her feel a deep sense of depression, and she soon found herself reaching for a depressant to help her cope.
+
+The peasant went out into the fields, enjoying the pleasant autumn weather and the sound of the pheasants singing in the nearby trees.
+
+Despite being recusant to the idea of taking a suppressant for his unpleasant symptoms, he eventually had to succumb to his doctor's advice and began taking the medicine.

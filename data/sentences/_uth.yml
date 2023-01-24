@@ -1,9 +1,11 @@
 source: _uth.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: azimuth, bismuth, loudmouth
-Please create a short sentence using all these words: mouth, ruth, sleuth
-Please create a short sentence using all these words: south, truth, uncouth
-Please create a short sentence using all these words: untruth, vermouth, youth
---- |
-@@@
+The loudmouth was spewing bismuth from his mouth in every direction, seemingly unable to control himself as he spun around in circles, his outbursts creating an ever-widening azimuth.
+
+The sleuth silently watched the scene unfold with a grim determination, her mouth set in a hard line and icy blue eyes focused like a hawk on the source of the injustice—all of its twists and turns making her heart heavy with a sense of ruth.
+
+The man spoke in a brash and uncouth manner, never pausing for breath as he marched southward with an unwavering belief that his words contained the ultimate truth.
+
+Despite the temptation of vermouth, the young man chose to abstain, unwilling to be deceived by untruths and determined to remain a beacon of hope for his peers in the face of life’s ever-changing youth.

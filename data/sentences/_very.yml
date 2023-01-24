@@ -1,9 +1,11 @@
 source: _very.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: antislavery, bravery, delivery
-Please create a short sentence using all these words: discovery, livery, recovery
-Please create a short sentence using all these words: rediscovery, shivery, silvery
-Please create a short sentence using all these words: slavery, thievery, very
---- |
-@@@
+During the era of antislavery, it took an immense amount of bravery and dedication to ensure the safe delivery of those facing slavery in the Underground Railroad.
+
+Through the process of discovery, it became apparent that wearing a livery uniform gave hope to those struggling to recover from an oppressive environment.
+
+It was a moment of rediscovery when the silvery moonlight shone down on the shivery night, bringing a sense of liberation.
+
+The unfortunate reality of slavery drove some to pursue thievery as the only way to a very limited form of freedom.

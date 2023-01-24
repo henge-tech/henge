@@ -1,9 +1,11 @@
 source: _urn.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: adjourn, auburn, churn
-Please create a short sentence using all these words: downturn, heartburn, mourn
-Please create a short sentence using all these words: overturn, sojourn, spurn
-Please create a short sentence using all these words: taciturn, upturn, urn
---- |
-@@@
+The auburn leaves of the tree outside the window churned in the wind as the members of the council adjourned their meeting.
+
+After her grandmother passed away, she mourned deeply as she felt the prolonged downturn of her heartburn.
+
+He had the opportunity to go on a sojourn abroad, yet he decided to spurn it and instead overturned his plans.
+
+The man was usually taciturn, but his mood suddenly upturned as he opened the old urn and remembered the happy memories it contained.

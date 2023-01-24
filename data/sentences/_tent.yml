@@ -1,9 +1,11 @@
 source: _tent.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: competent, consistent, discontent, impotent
-Please create a short sentence using all these words: inadvertent, incompetent, insistent, intent
-Please create a short sentence using all these words: intermittent, latent, malcontent, omnipotent
-Please create a short sentence using all these words: penitent, portent, potent, stent
---- |
-@@@
+Despite his seeming competence, John was quickly becoming increasingly discontent with his impotence to maintain a consistent level of success.
+
+His insistence to be successful was so intent that his mistakes became inadvertent, leaving him feeling incompetent and discouraged.
+
+Although his latent potential was powerful, his intermittent periods of malcontent led to the realization that he was not omnipotent.
+
+Through careful contemplation, he became penitent of his actions and began to recognize the portent of his potent actions in order to avoid needing a stent.

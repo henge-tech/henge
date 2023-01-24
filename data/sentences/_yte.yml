@@ -1,9 +1,11 @@
 source: _yte.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: acolyte, electrolyte
-Please create a short sentence using all these words: erythrocyte, leukocyte
-Please create a short sentence using all these words: lymphocyte, neophyte
-Please create a short sentence using all these words: proselyte, troglodyte
---- |
-@@@
+The acolyte bowed and knelt before the great temple, offering reverence to the powerful electrolyte that had been an indelible part of his religious tradition for centuries.
+
+As the erythrocytes raced through the human bloodstream, the leukocytes worked tirelessly to ward off any invading pathogens, protecting the body from illnesses and infections.
+
+The neophyte was amazed by the sheer number of lymphocytes that had been activated by the infectious agent, coordinating a potent and dynamic immune response.
+
+The troglodyte marveled at the sheer number of proselytes that had flocked to the city, diversifying its culture and introducing new ideas and innovations.

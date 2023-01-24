@@ -1,9 +1,11 @@
 source: _une.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: autoimmune, commune, dune
-Please create a short sentence using all these words: immune, importune, inopportune
-Please create a short sentence using all these words: misfortune, opportune, picayune
-Please create a short sentence using all these words: prune, rune, tribune
---- |
-@@@
+At the bottom of a massive dune, a small commune of people with autoimmune diseases gathered to share resources, support one another, and live in harmony with nature.
+
+At an inopportune moment, a desperate person importuned another for help, but unfortunately their immune system was unable to provide assistance.
+
+Despite her picayune circumstance, the young woman was fortunate to meet someone at the opportune moment that could help her overcome her misfortune.
+
+The tribal tribune carved a protective rune into the bark of the ancient prune tree, ensuring that his people would remain safe.

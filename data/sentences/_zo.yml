@@ -1,9 +1,11 @@
 source: _zo.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: bozo, chorizo, garbanzo
-Please create a short sentence using all these words: gonzo, intermezzo, matzo
-Please create a short sentence using all these words: mestizo, mezzo, orzo
-Please create a short sentence using all these words: paparazzo, scherzo, schizo
---- |
-@@@
+When the bozo and his friend decided to take a break from their daily routine, they stopped at a roadside cafe for lunch and feasted on delicious chorizo burritos with a side of garbanzo beans, creating an unforgettable meal that neither of them would soon forget.
+
+After an exhausting day of work, the gonzo journalist decided to take a much needed intermezzo and treat himself to a warm bowl of matzo ball soup for dinner. He savored every bite, feeling both refreshed and rejuvenated as he finished every last morsel.
+
+The mestizo chef had a passion for creating unique dishes, so he decided to craft an intricate risotto, mixing mezzo and orzo in a flavorful broth that left everyone at the table begging for more. His culinary skills were undisputed, and his dish was an instant hit.
+
+The paparazzo had been following the star for days in order to capture the perfect shot, but his attempts were continuously thwarted by the star's playful scherzos and unpredictable schizo behavior. He soon realized that it was a lost cause, and he moved on to pursue other targets.

@@ -1,9 +1,11 @@
 source: _vert.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: advert, avert, covert
-Please create a short sentence using all these words: culvert, divert, extrovert
-Please create a short sentence using all these words: introvert, invert, overt
-Please create a short sentence using all these words: pervert, revert, subvert
---- |
-@@@
+Adverts cleverly avert our attention from the covert messages they are trying to convey, making them even more powerful.
+
+A culvert can divert the course of a river, but an extrovert's enthusiasm can divert the attention of an entire room, making them invaluable allies.
+
+Though an introvert might invert the traditional expectations of their peers, an overt display of confidence can sometimes be the most powerful thing to turn the tide.
+
+Perverting the natural order of things can often have unforeseen consequences, and reverting back to the original design is not always as easy as it seems, making it necessary to also subvert any attempts to return to the status quo.

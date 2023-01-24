@@ -1,9 +1,11 @@
 source: _tin.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: biotin, bulletin, chitin
-Please create a short sentence using all these words: chromatin, cretin, dentin
-Please create a short sentence using all these words: gelatin, gratin, martin
-Please create a short sentence using all these words: matin, satin, tin
---- |
-@@@
+Biotin is a soluble vitamin found in foods such as eggs, nuts, and dairy products that is essential for healthy hair, skin, and nails; while chitin is a fibrous material that forms the exoskeletons of insects and crustaceans, and bulletin is an announcement, especially in the form of a printed notice or public announcement.
+
+Chromatin is a complex of DNA and proteins that’s packaged into a structure in cells, while dentin is the hard, bonelike material forming the dentine layer of teeth; cretin is an offensive term used to describe people with severe mental and physical impairments caused by a lack of thyroid hormones.
+
+Gelatin is a colorless and tasteless setting agent made from the collagen of animal tissues that can be used to make jelly, while gratin is a dish of vegetables or potatoes baked with a cheese or breadcrumb topping; and martin is a common name for several species of passerine birds in the genus Progne.
+
+Matin is a musical work or movement performed in the morning, while satin is a glossy fabric of silk, rayon, or acetate used for draperies and clothing; and tin is a silvery-white metal that is used to form an alloy known as solder for joining metals together.

@@ -1,9 +1,11 @@
 source: _ond.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: almond, beyond, blond
-Please create a short sentence using all these words: bond, correspond, fishpond
-Please create a short sentence using all these words: fond, frond, pond
-Please create a short sentence using all these words: respond, second, vagabond
---- |
-@@@
+The blond-haired girl ventured beyond the bounds of her small town, dreaming of a future filled with opportunity and possibility, just like the almond tree that towered above her.
+
+The bond between the two friends was strong, as their correspondences over the years deepened and flourished just like the fishpond outside their window, teeming with life.
+
+Looking fondly at the peaceful pond glimmering in the sun, she couldn't help but marvel at the lush fronds of grass that surrounded it, making her feel like she was in a tranquil paradise.
+
+The vagabond had to act quickly, as she had only a second to respond before she was whisked away to safety, never to be seen again.

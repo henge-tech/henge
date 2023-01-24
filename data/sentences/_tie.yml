@@ -1,9 +1,11 @@
 source: _tie.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: auntie, bootie, christie
-Please create a short sentence using all these words: cutie, footie, hottie
-Please create a short sentence using all these words: nightie, softie, sortie
-Please create a short sentence using all these words: sweetie, tie, untie
---- |
-@@@
+Auntie Christie had a pair of booties, which was her favorite because they were soft and comfy, and she loved wearing them everywhere she went.
+
+Hottie Cutie had a pair of footies that made her feet look even cuter than usual and she would get compliments from everyone whenever she wore them out.
+
+Sortie Softie cherished her nightie, which was made from the softest fabric, and she wore it every evening to ensure a good night's sleep.
+
+Sweetie Untie was an expert at tying up her shoes, so she always made sure to untie them before she went to sleep to avoid any discomfort while she was resting.

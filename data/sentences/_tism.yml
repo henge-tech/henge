@@ -1,9 +1,11 @@
 source: _tism.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: absolutism, astigmatism, autism, baptism, corporatism
-Please create a short sentence using all these words: despotism, dogmatism, egotism, favoritism, hypnotism
-Please create a short sentence using all these words: leftism, magnetism, nepotism, parasitism, patriotism
-Please create a short sentence using all these words: pragmatism, rheumatism, separatism, statism, syncretism
---- |
-@@@
+At the moment of baptism, the absolute freedom of a human being was challenged by astigmatism and corporatism while autism was a rare thought ever heard.
+
+The despotism of certain powers often led to dogmatic egotism and favoritism, while hypnotism was merely a tool to make the people believe in their false rulers.
+
+Patriotism for one's own country often leads to leftism and magnetism, but nepotism and parasitism should be kept at bay in order to keep a just society.
+
+Syncretism often helps to combine diverse opinions and ideologies, such as pragmatism, separatism and statism, while rheumatism simply serves as a reminder of our human fragility.

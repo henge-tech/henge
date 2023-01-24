@@ -1,9 +1,11 @@
 source: _udge.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: adjudge, begrudge, budge
-Please create a short sentence using all these words: drudge, fudge, grudge
-Please create a short sentence using all these words: judge, nudge, prejudge
-Please create a short sentence using all these words: sludge, smudge, trudge
---- |
-@@@
+Many people begrudge the decisions that are adjudged by the court, but as the saying goes 'you can't budge an inch on justice'.
+
+No one wants to drudge through tedious work all day, so it can be tempting to fudge the facts in order to get it done faster, yet it's not worth it in the end because you will always grudge that decision afterwards.
+
+It is easy to prejudge someone or something on first impressions, however it is wise to take a step back and judge the situation objectively before nudging people in a certain direction.
+
+As we trudged through the thick sludge, our clothes began to get smudged, leaving us with the unenviable task of cleaning up afterwards.

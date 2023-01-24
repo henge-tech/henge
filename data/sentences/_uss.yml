@@ -1,9 +1,11 @@
 source: _uss.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: blunderbuss, buss, cuss
-Please create a short sentence using all these words: discuss, fuss, gauss
-Please create a short sentence using all these words: muss, puss, sourpuss
-Please create a short sentence using all these words: suss, truss, wuss
---- |
-@@@
+The bumbling British soldier fumbled with his blunderbuss, attempting to fire it off in a fit of rage and cussing as he realized he'd inadvertently left the buss at home.
+
+The two scientists gathered to discuss the theory of electromagnetism, getting increasingly worked up and fussing over the details as they debated the fundamentals of Gauss's law.
+
+I had tried to neaten up my messy room, but it was a fool's errand as the muss just seemed to get bigger and bigger no matter how much I tried to puss it back into shape, so I gave up in frustration, turning into a sourpuss as I did so.
+
+The seasoned detective scoured the crime scene, trying to suss out any clues that might help crack the case, but all he found was a trussed-up body and other evidence that made him more and more certain that the perpetrator was a hardened criminal and not some cowardly wuss.

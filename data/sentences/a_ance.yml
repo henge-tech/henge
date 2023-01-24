@@ -1,9 +1,11 @@
 source: a_ance.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: abeyance, abundance, acceptance, accordance, acquaintance
-Please create a short sentence using all these words: admittance, allegiance, alliance, allowance, ambiance
-Please create a short sentence using all these words: ambulance, annoyance, appearance, appliance, arrogance
-Please create a short sentence using all these words: askance, assistance, assurance, attendance, avoidance
---- |
-@@@
+Although I had an abundance of acquaintances, I was never in accordance with the idea of being in abeyance, so when I finally accepted my position in life, it felt like a great accomplishment.
+
+When I stepped into the room and felt the ambiance of acceptance, I had an overwhelming sense of allegiance to those who had forged an alliance with me; my allowance of admittance was truly a blessing.
+
+His arrogance was readily apparent, an annoyance to all those around him, yet despite his less than desirable appearance, he had the appliance of an ambulance to aid in his escape from any ramifications.
+
+When his attendance was questioned, he gave an assurance that he had asked for assistance from others and attempted to avoid the situation; yet his actions were seen askance and not given any merit.

@@ -1,9 +1,11 @@
 source: _ury.yml
-generator: ChatGPT
+generator: text-davinci-003
+prompt: 1
 --- |
-Please create a short sentence using all these words: augury, bury, floury
-Please create a short sentence using all these words: fury, injury, jury
-Please create a short sentence using all these words: luxury, mercury, penury
-Please create a short sentence using all these words: perjury, treasury, usury
---- |
-@@@
+The augury of the floury fields was so peaceful, one could almost bury their worries in its serene embrace.
+
+After the injury occurred, an outraged jury quickly gathered to deliver their verdict of fury against the wrongdoer.
+
+While many lived in penury, no expense was spared in providing a life of luxury to those with mercury-plated wallets.
+
+The perjury of the treasurer when handling usury charges threatened to bankrupt the entire treasury.
