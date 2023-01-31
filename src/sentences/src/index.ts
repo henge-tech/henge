@@ -1,6 +1,7 @@
 import { Configuration, OpenAIApi } from "openai";
 import { argv } from "process";
 import fs from "fs-extra";
+import glob from "glob-promise";
 import path from "path";
 import yaml from "js-yaml";
 
@@ -10,10 +11,16 @@ class Main {
     const promptFile = path.join(__dirname, '../../../data/sentences/prompts/', `${promptNumber}.txt`);
     const promptSrc = await this.loadPrompt(promptFile);
 
-    // Load words file and get 4 items list
     const circleFileName = args[3];
-    const circleFile = path.join(__dirname, '../../../data/circles/', circleFileName)
-    const circle = await this.loadCircle(circleFile);
+    const isFloor = circleFileName.match(/^\d+$/);
+    let circle: string[][];
+    if (isFloor) {
+      circle = await this.loadFloors(Number(circleFileName))
+    } else {
+      // Load words file and get 4 items list
+      const circleFile = path.join(__dirname, '../../../data/circles/', circleFileName)
+      circle = await this.loadCircle(circleFile);
+    }
 
     let prompt = promptSrc[0];
     const sentences = [];
@@ -27,13 +34,35 @@ class Main {
       console.log(sentence)
     }
 
-    const yaml = "source: " + circleFileName + "\n"
-      + "generator: text-davinci-003\n"
+    let outFile;
+    let yaml = "";
+    if (isFloor) {
+      outFile = path.join(__dirname, '../../../data/sentences/floors/', circleFileName + ".yml");
+    } else {
+      outFile = path.join(__dirname, '../../../data/sentences/', circleFileName);
+      yaml += "source: " + circleFileName + "\n";
+    }
+    yaml += "generator: text-davinci-003\n"
       + "prompt: " + promptNumber + "\n"
       + "--- |\n"
       + sentences.join("\n\n") + "\n";
-    const outFile = path.join(__dirname, '../../../data/sentences/', circleFileName);
     await fs.writeFile(outFile, yaml);
+  }
+
+  async loadFloors(floorNumber: number): Promise<string[][]> {
+    const allFiles = await glob(path.join(__dirname, '../../../data/circles/*.yml'));
+    const isLastFloor = floorNumber == 83;
+    const startPos = (floorNumber - 1) * 12
+    const endPos = startPos + (isLastFloor ? 16 : 12);
+    const files = allFiles.slice(startPos, endPos);
+
+    const result: string[][] = [[], [], [], []];
+    for (let i = 0; i < files.length; i++) {
+      const words = yaml.load(await fs.readFile(files[i], "utf-8")) as string[];
+      const q = Math.floor(i / (isLastFloor ? 4 : 3));
+      result[q].push(words[0]);
+    }
+    return result;
   }
 
   async loadCircle(circleFile: string) {
