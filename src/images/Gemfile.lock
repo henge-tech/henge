@@ -1,21 +1,23 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    awesome_print (1.8.0)
-    dotenv (2.6.0)
-    mini_portile2 (2.4.0)
-    nokogiri (1.9.1)
-      mini_portile2 (~> 2.4.0)
-    rmagick (2.16.0)
+    awesome_print (1.9.2)
+    dotenv (2.8.1)
+    nokogiri (1.14.2-arm64-darwin)
+      racc (~> 1.4)
+    pkg-config (1.5.1)
+    racc (1.6.2)
+    rmagick (5.2.0)
+      pkg-config (~> 1.4)
 
 PLATFORMS
-  ruby
+  arm64-darwin-22
 
 DEPENDENCIES
   awesome_print
   dotenv
-  nokogiri (~> 1.9.1)
+  nokogiri
   rmagick
 
 BUNDLED WITH
-   1.13.6
+   2.3.26
