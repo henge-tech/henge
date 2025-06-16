@@ -6,12 +6,3 @@ tmp
 .DS_Store
 .ruby-version
 node_modules
-
-/.bundle/
-/.yardoc
-/Gemfile.lock
-/_yardoc/
-/coverage/
-/doc/
-/pkg/
-/spec/reports/
