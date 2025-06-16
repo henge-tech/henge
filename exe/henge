@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require "henge"
-
-Henge::Runner.new.run
